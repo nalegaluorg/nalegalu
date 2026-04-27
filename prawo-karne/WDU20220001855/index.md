@@ -1,0 +1,674 @@
+---
+title: "Ustawa z dnia 5 sierpnia 2022 r. o zmianie ustawy - Kodeks karny wykonawczy oraz niektórych innych ustaw"
+address: WDU20220001855
+eli: DU/2022/1855
+publisher: DU
+year: 2022
+pos: 1855
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 2 września 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1855 |
+| ISAP | WDU20220001855 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-08-05 |
+| Data wydania | 2022-09-02 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001855) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1855/text.pdf) |
+
+USTAWA z dnia 5 sierpnia 2022 r.
+o zmianie ustawy Kodeks karny wykonawczy oraz niektórych innych ustaw
+
+**Art. 1.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, 472, 1236 i 2054 oraz z 2022 r. poz. 22 i 655) wprowadza się następujące zmiany:
+
+**Art. 14b.**
+
+§ 1. Po otrzymaniu zawiadomienia o przystąpieniu do wykonania orzeczenia o karze pozbawieniu wolności sąd niezwłocznie, nie później jednak niż terminie 14 dni od dnia otrzymania zawiadomienia, może wydać postanowienie stwierdzające, że skazany bezprawnie utrudniał wykonanie kary pozbawienia wolności, jeżeli zamiarze utrudniania wykonania kary pozbawienia wolności uciekł lub ukrywał się lub podjął działania celu ucieczki lub ukrycia się.
+
+§ 2. Na postanowienie przedmiocie stwierdzenia bezprawnego utrudniania przez skazanego wykonania kary pozbawienia wolności przysługuje zażalenie.
+
+§ 3. Zażalenie, o którym mowa § 2, podlega rozpoznaniu terminie 7 dni od daty wpływu do sądu wyższej instancji.
+
+§ 4. Odpis prawomocnego postanowienia stwierdzającego, że skazany bezprawnie utrudniał wykonanie kary pozbawienia wolności, doręcza się dyrektorowi zakładu karnego.”;
+
+- **7)** art. 22 po § 2 dodaje się § 2a brzmieniu: „§ 2a. Udział prokuratora posiedzeniu jest obowiązkowy, jeżeli ustawa tak stanowi.”;
+- **8)** po art. 23 dodaje się art. 23a brzmieniu: „Art. 23a. § 1. Jeżeli postępowanie sądowe dotyczy skazanego pozbawionego wolności, posiedzenie sądu może odbyć się przy użyciu urządzeń technicznych umożliwiających przeprowadzenie tej czynności na odległość z jednoczesnym bezpośrednim przekazem obrazu i dźwięku. W miejscu przebywania skazanego czynności tej bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego, obrońca, jeżeli został ustanowiony lub wyznaczony, oraz tłumacz, jeżeli został powołany.
+
+§ 2. Przepisy art. 517ea Kodeksu postępowania karnego stosuje się odpowiednio.
+
+§ 3. W wypadku zarządzenia sprowadzenia skazanego na posiedzenie sądu prezes sądu lub upoważniony sędzia lub sędzia penitencjarny wydaje tym przedmiocie zarządzenie, chyba że posiedzenie odbywa się zakładzie karnym. Zarządzenie wymaga uzasadnienia.”;
+
+- **9)** po art. 39 dodaje się art. 39a brzmieniu: „Art. 39a. § 1. W celu realizacji zadań wynikających z niniejszego kodeksu Minister Sprawiedliwości może współpracować z instytutami badawczymi, o których mowa ustawie z dnia 30 kwietnia 2010 r. o instytutach badawczych (Dz. U. z 2022 r. poz. 498).
+
+§ 2. Instytuty badawcze, o których mowa § 1, współpracują z Ministrem Sprawiedliwości realizacji zadań wynikających z niniejszego kodeksu na podstawie porozumienia podpisanego z Ministrem Sprawiedliwości.
+
+§ 3. W porozumieniu, o którym mowa § 2, Minister Sprawiedliwości i instytut badawczy określą zakres, zasady i warunki współpracy realizacji zadań wynikających z niniejszego kodeksu.”;
+
+- **10)** art. 43b § 3 pkt 1 otrzymuje brzmienie: „1) przebywanie przez skazanego określonych dniach tygodnia i godzinach we wskazanym przez sąd albo komisję penitencjarną miejscu (dozór stacjonarny);”;
+- **11)** art. 43e § 1 i 2 otrzymują brzmienie: „§ 1. W sprawach związanych z udzieleniem zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego właściwy jest sąd penitencjarny, którego okręgu skazany przebywa, albo komisja penitencjarna działająca zakładzie karnym, którym skazany przebywa.
+
+§ 2. W sprawach związanych z wykonaniem postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego i ich uchyleniem właściwy jest sąd penitencjarny, którego okręgu kara jest wykonywana, z wyjątkiem uchylenia zezwolenia z powodów, o których mowa art. 43zaa § 1 pkt 1, kiedy to właściwy jest sąd penitencjarny, który zezwolenia udzielił, albo sąd penitencjarny, okręgu którego działa komisja penitencjarna, która udzieliła zezwolenia.”;
+
+- **a)** § 3–5 otrzymują brzmienie: „§ 3. Jeżeli skazany zamieszkuje wspólnie z inną osobą lub osobami pełnoletnimi, warunkiem rozpoczęcia dozoru stacjonarnego jest uprzednia pisemna zgoda tych osób złożona do sądu albo komisji penitencjarnej, obejmująca także umożliwienie podmiotowi dozorującemu przeprowadzanie czynności kontrolnych.
+
+§ 4. W razie potrzeby, na zarządzenie sędziego penitencjarnego albo na żądanie komisji penitencjarnej, kurator sądowy ustala, drodze zebrania informacji, czy skazany zamieszkuje wspólnie z inną osobą lub osobami pełnoletnimi, a jeżeli tak, to uzyskuje dane personalne tych osób, a następnie poucza je o warunkach wykonywania kary systemie dozoru elektronicznego oraz konsekwencjach, jakie wynikają z jej wykonywania dla osób zamieszkujących ze skazanym. Kurator sądowy ustala warunki rodzinne oraz socjalno-bytowe, których zamieszkuje skazany, zakresie niezbędnym do prawidłowego wykonania kary systemie dozoru elektronicznego. Informacje te kurator sądowy przekazuje niezwłocznie do sądu albo komisji penitencjarnej.
+
+§ 5. Oświadczenie o wyrażeniu zgody, o której mowa § 3, może być również odebrane przez kuratora sądowego podczas czynności, o których mowa § 4, a następnie niezwłocznie przekazane do sądu albo komisji penitencjarnej.”,
+
+- **b)** § 8 otrzymuje brzmienie: „§ 8. Cofnięcie zgody po wydaniu postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego jest nieskuteczne.”;
+- **13)** art. 43k § 4 otrzymuje brzmienie: „§ 4. Po ogłoszeniu lub przy doręczeniu postanowienia o rozpoczęciu dozoru elektronicznego albo postanowienia sądu albo decyzji komisji penitencjarnej o udzieleniu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego należy doręczyć skazanemu pisemne pouczenie o przysługujących mu prawach i ciążących na nim obowiązkach związanych z dozorem elektronicznym, jak również o konsekwencjach naruszenia tych obowiązków. Odpis postanowienia albo decyzji przesyła się niezwłocznie sądowemu kuratorowi zawodowemu i podmiotowi dozorującemu.”;
+- **14)** art. 43la:
+    - **a)** § 1 pkt 1 i 2 otrzymują brzmienie: „1) wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą jednego roku i 6 miesięcy albo wobec skazanego orzeczono karę pozbawienia wolności wymiarze niższym niż 3 lata i któremu do odbycia zakładzie karnym pozostała część tej kary wymiarze nie większym niż 6 miesięcy, a nie zachodzą warunki przewidziane art. 64 § 2 Kodeksu karnego;
+
+- **2)** odbywaniu kary pozbawienia wolności systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że razie odbycia kary tym systemie nie zostaną osiągnięte cele kary;”,
+    - **b)** § 6 otrzymuje brzmienie: „§ 6. Przepisy § 1–5 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno:
+
+- **1)** nieprzekraczających sumie 1 roku i 6 miesięcy,
+- **2)** których suma jest niższa niż 3 lata i któremu do odbycia zakładzie karnym pozostała część tej kary wymiarze nie większym niż 6 miesięcy a żadna kara nie została orzeczona za przestępstwo popełnione warunkach przewidzianych art. 64 § 2 Kodeksu karnego.”;
+- **15)** art. 43lj po § 1 dodaje się § 1a brzmieniu: „§ 1a. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu postanowienia o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, postanowienie, o którym mowa art. 43lh § 1, staje się wykonalne z chwilą uprawomocnienia.”;
+- **16)** po art. 43ll dodaje się art. 43lla i art. 43llb brzmieniu: „Art. 43lla. § 1. Komisja penitencjarna może udzielić skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego, jeżeli zostały spełnione łącznie następujące warunki:
+- **1)** wobec skazanego orzeczono karę pozbawienia wolności nieprzekraczającą 4 miesięcy, a nie zachodzą warunki przewidziane art. 64 § 2 Kodeksu karnego;
+- **2)** skazany rozpoczął już odbywanie kary zakładzie karnym; względy wskazujące, że razie odbycia kary tym systemie nie zostaną osiągnięte cele kary;
+- **4)** za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego trakcie odbywania kary pozbawienia wolności;
+- **5)** skazany posiada określone miejsce stałego pobytu;
+- **6)** osoby pełnoletnie zamieszkujące wspólnie ze skazanym wyraziły zgodę, o której mowa art. 43h § 3;
+- **7)** odbywaniu kary pozbawienia wolności systemie dozoru elektronicznego nie stoją na przeszkodzie warunki techniczne, o których mowa art. 43h § 1.
+
+§ 2. Do postępowania przed komisją penitencjarną stosuje się odpowiednio przepisy art. 43la § 4, art. 43lc, art. 43ld § 1–3, art. 43le, art. 43lf, art. 43lg i art. 43lh.
+
+§ 3. Na decyzję komisji penitencjarnej, wydaną na podstawie art. 43la § 4, osobie, która nie wyraziła zgody, przysługuje skarga. Przepisy art. 7 stosuje się odpowiednio.
+
+§ 4. Komisja penitencjarna wydaje decyzję przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego terminie 14 dni od dnia wpływu wniosku o udzielenie zezwolenia, o którym mowa § 1.
+
+§ 5. Ponowny wniosek skazanego lub jego obrońcy o udzielenie zezwolenia, o którym mowa § 1, tej samej sprawie, złożony przed upływem miesiąca od dnia wydania decyzji o odmowie udzielenia tego zezwolenia, pozostawia się bez rozpoznania.
+
+§ 6. Przepis § 1 stosuje się odpowiednio do skazanego, któremu wymierzono dwie lub więcej niepodlegających łączeniu kar pozbawienia wolności, które skazany ma odbyć kolejno, nieprzekraczających sumie 4 miesięcy.
+
+§ 7. W sprawach związanych z udzieleniem skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego, o których mowa § 1, wyłącznie właściwa jest komisja penitencjarna. Jeżeli jednak chwili złożenia wniosku skazany nie rozpoczął jeszcze odbywania kary, sprawach związanych z udzieleniem zezwolenia właściwy jest sąd penitencjarny. Art. 43llb. § 1. Na decyzję komisji penitencjarnej przedmiocie udzielenia skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego skarga przysługuje także obrońcy skazanego, prokuratorowi, jak również sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia. Przepisy art. 7 i art. 43lj § 2 stosuje się odpowiednio.
+
+§ 2. Rozpoznając skargę sąd penitencjarny bierze pod uwagę szczególności czy odbywaniu kary pozbawienia wolności systemie dozoru elektronicznego nie stoją na przeszkodzie szczególne względy wskazujące, że razie odbycia kary tym systemie nie zostaną osiągnięte cele kary oraz czy za udzieleniem zezwolenia przemawiają dotychczasowa postawa i zachowanie skazanego trakcie odbywania kary pozbawienia wolności.
+
+§ 3. Jeżeli prokurator oświadczy, najpóźniej na posiedzeniu po ogłoszeniu decyzji o udzieleniu skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego, że sprzeciwia się udzieleniu zezwolenia, decyzja komisji penitencjarnej staje się wykonalna z chwilą uprawomocnienia.
+
+§ 4. Decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem i pouczeniem o przysługującym prawie, terminie i sposobie wniesienia skargi skazanemu lub jego obrońcy, prokuratorowi, a także sądowemu kuratorowi zawodowemu lub dyrektorowi zakładu karnego, jeżeli składali wniosek o udzielenie zezwolenia.
+
+§ 5. Wykonalną decyzję komisji penitencjarnej doręcza się wraz z uzasadnieniem właściwemu sądowi penitencjarnemu.”;
+
+- **17)** art. 43m § 1 otrzymuje brzmienie: „§ 1. Skazany ma obowiązek zgłosić podmiotowi dozorującemu, terminie i sposób, które zostały określone przez sąd albo komisję penitencjarną, gotowość do instalacji środków technicznych.”;
+- **18)** art. 43n § 2 pkt 1 otrzymuje brzmienie: „1) pozostawać we wskazanym przez sąd albo komisję penitencjarną miejscu wyznaczonym czasie;”;
+- **19)** art. 43na we wprowadzeniu do wyliczenia zdanie drugie otrzymuje brzmienie: „Sąd penitencjarny albo komisja penitencjarna określa przedziały czasu ciągu doby i poszczególnych dniach tygodnia, których skazany ma prawo się oddalić z miejsca stałego pobytu lub innego wskazanego miejsca na okres nieprzekraczający 12 godzin dziennie, szczególności celu:”; „Obowiązki te mogą zostać nałożone również na wniosek prokuratora lub sądowego kuratora zawodowego, a także komisji penitencjarnej, jeżeli udzieliła skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego.”;
+- **21)** po art. 43r dodaje się art. 43ra brzmieniu: „Art. 43ra. § 1. Jeżeli skazany, wobec którego wykonywany jest systemie dozoru elektronicznego środek karny lub środek zabezpieczający, został osadzony areszcie śledczym lub zakładzie karnym, umieszczony zakładzie psychiatrycznym związku z zastosowaniem wobec niego środka zabezpieczającego, umieszczony bez jego zgody zakładzie leczniczym albo poddany leczeniu zakładzie leczniczym, którym są udzielane świadczenia zdrowotne z zakresu opieki psychiatrycznej, prezes sądu lub upoważniony sędzia:
+- **1)** na wniosek podmiotu dozorującego,
+- **2)** na wniosek dyrektora aresztu śledczego lub zakładu karnego, kierownika zakładu psychiatrycznego lub kierownika zakładu leczniczego lub
+- **3)** z urzędu może wyrazić zgodę na odinstalowanie rejestratora lub usunięcie nadajnika na czas pobytu areszcie śledczym, zakładzie karnym, zakładzie psychiatrycznym albo zakładzie leczniczym.
+
+§ 2. W wypadku, o którym mowa § 1 pkt 1 i 3, prezes sądu lub upoważniony sędzia może zasięgnąć opinii dyrektora aresztu śledczego lub zakładu karnego, kierownika zakładu psychiatrycznego lub kierownika zakładu leczniczego.
+
+§ 3. Prezes sądu lub upoważniony sędzia, na wniosek podmiotu dozorującego, dyrektora aresztu śledczego lub zakładu karnego, kierownika zakładu psychiatrycznego, kierownika zakładu leczniczego lub z urzędu, może każdym czasie zarządzić ponowne zainstalowanie rejestratora lub założenie nadajnika wobec skazanego, o którym mowa § 1.
+
+§ 4. Nie wcześniej niż 7 dni przed dniem zwolnienia skazanego z aresztu śledczego, zakładu karnego, zakładu psychiatrycznego albo zakładu leczniczego albo terminie 7 dni od dnia wydania zarządzenia, o którym mowa § 3, dokonuje się ponownego zainstalowania rejestratora lub założenia nadajnika. O ponownym zainstalowaniu rejestratora lub założeniu nadajnika podmiot dozorujący niezwłocznie zawiadamia prezesa sądu lub upoważnionego sędziego.”;
+
+- **22)** art. 43t § 1 pkt 1 otrzymuje brzmienie: „1) niezwłocznie po zaistnieniu warunków technicznych informuje sąd albo komisję penitencjarną o możliwości rozpoczęcia wykonywania dozoru elektronicznego;”;
+- **23)** art. 43zad otrzymuje brzmienie: „Art. 43zad. W razie uchylenia zezwolenia, o którym mowa art. 43zaa § 1 lub art. 43zab, sąd penitencjarny niezwłocznie poleca zatrzymać i doprowadzić skazanego do aresztu śledczego bez wezwania, o czym należy go pouczyć.”;
+- **24)** art. 45:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Do wykonywania pracy, o której mowa § 1, z zastrzeżeniem § 5, stosuje się odpowiednio przepisy art. 53–58, art. 60, art. 63b i art. 63c.”,
+    - **b)** dodaje się § 5 brzmieniu: „§ 5. Na wniosek skazanego odbywającego karę pozbawienia wolności niebędącą zastępczą karą pozbawienia wolności sąd może orzec, po wyrażeniu zgody przez dyrektora zakładu karnego, że praca społecznie użyteczna będzie wykonywana na rzecz podmiotów i na zasadach określonych art. 123a. Czynności związane z organizowaniem i kontrolowaniem wykonywania pracy społecznie użytecznej oraz obowiązków nałożonych na skazanego wykonuje dyrektor zakładu karnego. W celu wykonania pracy społecznie użytecznej sąd przesyła odpis orzeczenia właściwemu dyrektorowi zakładu karnego. Przepisy art. 53, art. 55 § 1 oraz art. 57a § 1 i 3 stosuje się odpowiednio.”;
+
+- **25)** art. 61 § 1 otrzymuje brzmienie: „§ 1. Jeżeli względy wychowawcze lub stan zdrowia skazanego za tym przemawiają, sąd może okresie wykonywania kary ograniczenia wolności ustanawiać, rozszerzać lub zmieniać obowiązki, o których mowa art. 34 § 3 Kodeksu karnego, albo od wykonania tych obowiązków zwolnić.”; „Art. 63c. Z ważnych względów, szczególności uzasadnionych wykonywaną przez skazanego pracą zarobkową lub stanem zdrowia, kurator zawodowy, na wniosek skazanego, jednokrotnie podczas wykonywania kary ograniczenia wolności może wydać decyzję o ustaleniu rozliczenia godzin nieodpłatnej, kontrolowanej pracy na cele społeczne innych okresach niż miesięczny na czas nie dłuższy niż 6 miesięcy, nie przekraczając okresu orzeczonej kary ani orzeczonej łącznej liczby godzin wykonywanej pracy tym okresie.”;
+- **27)** art. 72 § 3–4a otrzymują brzmienie: „§ 3. Zakłady karne mogą być tworzone jako samodzielne zakłady lub jako wyodrębnione oddziały zakładów karnych i aresztów śledczych. Zakłady karne mogą być przekształcane areszty śledcze. Kilka zakładów może posiadać wspólną administrację bądź wydzielone służby.
+
+§ 4. Minister Sprawiedliwości, drodze zarządzenia, tworzy i znosi zakłady karne oraz przekształca je areszty śledcze, mając na względzie istniejące potrzeby tym zakresie.
+
+§ 4a. Dyrektor Generalny Służby Więziennej, drodze zarządzenia, określa przeznaczenie zakładów karnych oraz wyodrębnionych oddziałów zakładów karnych zakładach karnych i aresztach śledczych, uwzględniając szczególności potrzebę zapewnienia oraz racjonalnego wykorzystania miejsc zakwaterowania dla wszystkich grup skazanych.”;
+
+- **28)** art. 74 uchyla się § 3;
+- **29)** art. 76:
+    - **a)** § 1: po pkt 2 dodaje się pkt 2a brzmieniu: „2a) udzielanie skazanemu, wypadkach wskazanych ustawie, zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego;”, pkt 3 otrzymuje brzmienie: „3) ustalenie indywidualnych programów oddziaływań na skazanego i dokonywanie ocen ich wykonywania oraz ustalenie indywidualnych programów terapeutycznych i dokonywanie ocen ich wykonywania;”,
+    - **b)** po § 1 dodaje się § 1a i 1b brzmieniu: „§ 1a. W wypadku co najmniej dwukrotnej negatywnej weryfikacji decyzji, o której mowa § 1 pkt 7, podjętej wobec skazanego, o którym mowa art. 88a § 1 pkt 3 lit. b i c, kolejnej weryfikacji tej decyzji, dokonanej nie wcześniej niż po 6 miesiącach od dnia pierwszej decyzji, komisja penitencjarna dokonuje po 12 miesiącach.
+
+§ 1b. Okres 12 miesięcy, o którym mowa § 1a, może zostać skrócony przez komisję penitencjarną wypadku uzasadnionym stanem zdrowia skazanego lub wobec skazanego, który wyróżnił się szczególnie dobrym zachowaniem.”,
+
+- **c)** § 4 otrzymuje brzmienie: „§ 4. Na decyzje, o których mowa § 1 pkt 3–5 i 8–11, skarga nie przysługuje.”;
+- **30)** art. 79: „§ 2. Skazany przekazuje do depozytu dokumenty, środki pieniężne, przedmioty wartościowe i inne przedmioty, których nie może posiadać celi.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Skazanego na karę pozbawienia wolności sąd poleca zatrzymać i doprowadzić do aresztu śledczego.”,
+    - **b)** po § 1 dodaje się § 1a brzmieniu: „§ 1a. W uzasadnionym wypadku, na wniosek skazanego, sąd może wezwać skazanego do stawienia się wyznaczonym terminie areszcie śledczym, położonym najbliżej miejsca jego stałego pobytu, wraz z dokumentem stwierdzającym tożsamość, jeżeli dotychczasowa postawa i zachowanie skazanego uzasadniają przypuszczenie, że skazany stawi się na wezwanie. Zarządzenie wymaga uzasadnienia.”,
+    - **c)** § 2 otrzymuje brzmienie: „§ 2. Jeżeli wypadku, o którym mowa § 1a, skazany, mimo wezwania, nie stawił się areszcie śledczym, sąd poleca go zatrzymać i doprowadzić. Kosztami zatrzymania i doprowadzenia sąd obciąża skazanego.”,
+    - **d)** § 4 otrzymuje brzmienie: „§ 4. Jeżeli skazanym jest żołnierz, obowiązek zatrzymania i doprowadzenia spoczywa na właściwych organach wojskowych.”;
+
+- **32)** art. 79b dodaje się § 4 brzmieniu: „§ 4. Skazanego informuje się o odpowiedzialności karnej i odpowiedzialności dyscyplinarnej za naruszenie nietykalności cielesnej, czynną napaść lub znieważenie funkcjonariusza publicznego lub osoby do pomocy mu przybranej podczas lub związku z pełnieniem obowiązków służbowych.”;
+- **33)** art. 82 § 2:
+    - **a)** pkt 6 otrzymuje brzmienie: „6) stan zdrowia fizycznego i psychicznego, tym stopień uzależnienia od substancji psychoaktywnej;”,
+    - **b)** pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 brzmieniu: „9) stosunek skazanego do popełnionego przestępstwa.”;
+
+- **34)** art. 83 po § 1 dodaje się § 1a brzmieniu: „§ 1a. Skazanego poddaje się miarę potrzeby, za jego zgodą, także badaniom seksuologicznym. Sędzia penitencjarny może zarządzić przeprowadzenie badań bez zgody skazanego.”;
+- **35)** art. 85 dotychczasową treść oznacza się jako § 1 i dodaje się § 2 brzmieniu: „§ 2. W zakładzie karnym, o którym mowa § 1, mogą odbywać karę młodociani skazani za przestępstwo, o którym mowa art. 10 § 2 Kodeksu karnego, jeżeli przemawiają za tym względy wychowawcze i resocjalizacyjne.”;
+- **36)** art. 88a § 1 otrzymuje brzmienie: „§ 1. Za skazanego stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie dla bezpieczeństwa zakładu można uznać skazanego, który:
+- **1)** popełnił przestępstwo o bardzo wysokim stopniu społecznej szkodliwości, szczególności przestępstwo:
+    - **a)** zamachu na: niepodległość lub integralność Rzeczypospolitej Polskiej, konstytucyjny ustrój państwa lub konstytucyjne organy Rzeczypospolitej Polskiej, życie Prezydenta Rzeczypospolitej Polskiej, jednostkę Sił Zbrojnych Rzeczypospolitej Polskiej,
+    - **b)** ze szczególnym okrucieństwem,
+    - **c)** wzięcia lub przetrzymania zakładnika albo związku z wzięciem zakładnika,
+    - **d)** uprowadzenia statku wodnego lub powietrznego,
+    - **e)** z użyciem broni palnej, materiałów wybuchowych albo łatwopalnych;
+
+- **2)** popełnił przestępstwo zorganizowanej grupie albo związku mających na celu popełnianie przestępstw, zwłaszcza z uwagi na jego kierowniczą lub znaczącą rolę grupie lub związku;
+- **3)** podczas uprzedniego lub obecnego pozbawienia wolności stwarzał zagrożenie dla bezpieczeństwa zakładu karnego lub aresztu śledczego ten sposób, że:
+    - **a)** był organizatorem lub aktywnym uczestnikiem zbiorowego wystąpienia zakładzie karnym lub areszcie śledczym,
+    - **b)** dopuścił się czynnej napaści na funkcjonariusza publicznego lub inną osobę zatrudnioną zakładzie karnym lub areszcie śledczym,
+    - **c)** był sprawcą zgwałcenia, ciężkiego uszczerbku na zdrowiu albo znęcał się nad skazanym, ukaranym lub tymczasowo aresztowanym,
+    - **d)** uwolnił się lub usiłował uwolnić się z zakładu karnego lub aresztu śledczego albo podczas konwojowania poza terenem zakładu lub aresztu.”;
+
+- **37)** art. 88b § 1 pkt 9 otrzymuje brzmienie: „9) widzenia udzielane są sposób uniemożliwiający bezpośredni kontakt z osobami odwiedzającymi, chyba że dyrektor zakładu karnego, uzasadnionych wypadkach, wyrazi zgodę na udzielenie widzenia sposób umożliwiający bezpośredni kontakt z osobami odwiedzającymi. Nie dotyczy to osób, o których mowa art. 8 § 3, jednak na żądanie tych osób widzeń udziela się sposób uniemożliwiający bezpośredni kontakt ze skazanymi. W czasie korzystania z widzeń skazani nie mogą spożywać artykułów żywnościowych i napojów;”;
+    - **a)** § 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli związku z toczącym się lub zakończonym postępowaniem karnym, którym skazany uczestniczy lub uczestniczył charakterze podejrzanego, oskarżonego, świadka lub pokrzywdzonego, wystąpiło poważne zagrożenie lub istnieje bezpośrednia obawa wystąpienia poważnego zagrożenia dla jego życia lub zdrowia, dyrektor zakładu karnego obejmuje takiego skazanego szczególną ochroną warunkach zwiększonej izolacji i zabezpieczenia, która może polegać na:”, uchyla się pkt 3, dodaje się pkt 4–11 brzmieniu: „4) stosowaniu warunków odbywania kary określonych art. 88c;
+
+- **5)** zakazie pozostawiania skazanego samotnie celi mieszkalnej lub innym pomieszczeniu, z wyjątkiem cel i pomieszczeń monitorowanych;
+- **6)** wzmożonej obserwacji zachowania skazanego;
+- **7)** zwiększeniu stopnia izolacji od innych skazanych;
+- **8)** częstszej wizytacji celi mieszkalnej przez wyznaczonych funkcjonariuszy lub pracowników Służby Więziennej niż odniesieniu do skazanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną;
+- **9)** określeniu szczególnego sposobu korzystania z zabezpieczeń techniczno-ochronnych celi mieszkalnej;
+- **10)** częstszej kontroli posiadanych przez skazanego celi mieszkalnej przedmiotów, tym leków, niż odniesieniu do skazanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną;
+- **11)** częstszej kontroli celi mieszkalnej niż odniesieniu do skazanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną.”,
+    - **b)** § 2 pkt 1 otrzymuje brzmienie: „1) warunków odbywania kary określonych art. 88b § 1 pkt 1–4, 6, 8 i 9 oraz § 2 i 3,”,
+    - **c)** po § 2 dodaje się § 2a i 2b brzmieniu: „§ 2a. Objęcie skazanego szczególną ochroną powinno być dokonane zgodnie z celem tej czynności, granicach niezbędnych do osiągnięcia tego celu, z poszanowaniem godności ludzkiej skazanego oraz bez wyrządzania zbędnych dolegliwości.
+
+§ 2b. Szczegółowy sposób realizacji szczególnej ochrony skazanego nie może być bardziej dolegliwy niż warunki odbywania kary, które mogą być stosowane wobec skazanego, o którym mowa art. 88a § 1.”,
+
+- **d)** § 3 zdanie pierwsze otrzymuje brzmienie: „Dyrektor zakładu karnego obejmuje skazanego szczególną ochroną z urzędu lub na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze.”,
+- **e)** § 5 otrzymuje brzmienie: „§ 5. W decyzji o objęciu skazanego szczególną ochroną należy określić termin, do którego ochrona ma trwać, oraz szczegółowy sposób realizacji tej ochrony, wskazując środki, o których mowa § 1 lub 2.”,
+- **f)** § 7 zdanie pierwsze otrzymuje brzmienie: „W wypadku ustania przyczyny objęcia skazanego szczególną ochroną, dyrektor zakładu karnego, na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a jeżeli skazanego objęto szczególną ochroną z urzędu z urzędu, cofa szczególną ochronę.”;
+- **39)** art. 89 § 3 i 3a otrzymują brzmienie: „§ 3. Skazanego na karę dożywotniego pozbawienia wolności można przenieść do zakładu karnego typu półotwartego po odbyciu przez niego co najmniej 20 lat, a do zakładu karnego typu otwartego po odbyciu przez niego co najmniej 25 lat kary. Przeniesienie może nastąpić po przeprowadzeniu badań psychologicznych, a także psychiatrycznych, o których mowa art. 83 § 1.
+
+§ 3a. Przeniesienie, o którym mowa § 1, skazanego z zaburzeniami preferencji seksualnych za przestępstwo określone art. 197–203 Kodeksu karnego, popełnione związku z tymi zaburzeniami, wymaga przeprowadzenia również badań seksuologicznych, o których mowa art. 83 § 1a, a także zgody sędziego penitencjarnego.”;
+
+- **a)** pkt 7 otrzymuje brzmienie: „7) widzenia skazanych podlegają nadzorowi administracji zakładu karnego; rozmowy skazanych trakcie widzeń mogą podlegać kontroli administracji zakładu karnego;”,
+- **b)** pkt 9 otrzymuje brzmienie: „9) rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności podlegają kontroli administracji zakładu karnego, chyba że dyrektor zakładu karnego podejmie decyzję o odstąpieniu od kontroli; decyzję o odstąpieniu odnotowuje się Centralnej Bazie Danych Osób Pozbawionych Wolności.”;
+- **41)** art. 91:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) skazanym można zezwalać na udział organizowanych przez administrację zakładu karnego poza terenem zakładu karnego grupowych zajęciach kulturalno-oświatowych lub sportowych obecności funkcjonariusza lub pracownika zakładu karnego; łączna liczba opuszczeń zakładu karnego celu udziału tych zajęciach dla jednego skazanego nie może przekroczyć 28 ciągu roku;”,
+    - **b)** pkt 11 otrzymuje brzmienie: „11) rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności mogą podlegać kontroli administracji zakładu karnego.”;
+
+- **42)** art. 92:
+    - **a)** pkt 4 otrzymuje brzmienie: „4) skazanym można zezwalać na udział organizowanych przez administrację zakładu karnego poza terenem zakładu karnego zajęciach kulturalno-oświatowych lub sportowych oraz innych takich zajęciach i imprezach organizowanych poza terenem zakładu karnego; łączna liczba opuszczeń zakładu karnego celu udziału tych zajęciach i imprezach dla jednego skazanego nie może przekroczyć 56 ciągu roku; sposób udziału zajęciach i imprezach określa dyrektor zakładu karnego;”,
+    - **b)** uchyla się pkt 5,
+    - **c)** pkt 8 otrzymuje brzmienie: „8) skazani mogą otrzymywać z depozytu zakładu karnego środki pieniężne pozostające do ich dyspozycji;”,
+    - **d)** pkt 11 otrzymuje brzmienie: „11) widzenia skazanych mogą podlegać nadzorowi administracji zakładu karnego; rozmowy skazanych trakcie widzeń mogą podlegać kontroli administracji zakładu karnego;”,
+    - **e)** pkt 13 i 14 otrzymują brzmienie: „13) korespondencja skazanych może podlegać cenzurze administracji zakładu karnego;
+
+- **14)** rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności mogą podlegać kontroli administracji zakładu karnego.”;
+- **43)** art. 95 § 1 otrzymuje brzmienie: „§ 1. W systemie programowanego oddziaływania odbywają karę skazani młodociani, a także skazani dorośli, którzy wyrażają zgodę na współudział opracowaniu i wykonaniu indywidualnego programu oddziaływania.”;
+- **44)** art. 96 § 1 otrzymuje brzmienie: „§ 1. W systemie terapeutycznym odbywają karę skazani z niepsychotycznymi zaburzeniami psychicznymi, tym skazani za przestępstwo określone art. 197–203 Kodeksu karnego, popełnione związku z zaburzeniami preferencji seksualnych, upośledzeni umysłowo, a także uzależnieni od substancji psychoaktywnej oraz skazani niepełnosprawni fizycznie wymagający oddziaływania specjalistycznego, zwłaszcza opieki psychologicznej, lekarskiej lub rehabilitacyjnej.”;
+- **45)** po art. 104 dodaje się art. 104a brzmieniu: „Art. 104a. § 1. Na wniosek właściwego organu gminy, za zgodą dyrektora zakładu karnego, umożliwia się skazanemu na jego pisemny wniosek lub za jego pisemną zgodą udział usuwaniu skutków sytuacji kryzysowych oraz klęsk żywiołowych.
+
+§ 2. Zasady udziału skazanych usuwaniu skutków sytuacji kryzysowych oraz klęsk żywiołowych określa się porozumieniu zawieranym pomiędzy dyrektorem zakładu karnego i organem, o którym mowa § 1.”;
+
+- **a)** § 3 i 4 otrzymują brzmienie: „§ 3. Zakres i sposób kontaktów, o których mowa § 1 i 2, szczególności nadzór nad widzeniami, cenzura korespondencji, kontrolowanie rozmów trakcie widzeń, rozmów telefonicznych i rozmów prowadzonych za pomocą innych środków łączności, są uzależnione od rodzaju i typu zakładu karnego, którym skazany odbywa karę, a także od wymogów indywidualnego oddziaływania, z wyjątkiem prawa do otrzymywania paczek.
+
+§ 4. Dyrektor zakładu karnego podejmuje decyzje dotyczące:
+
+- **1)** zatrzymania korespondencji,
+- **2)** cenzurowania korespondencji zakładach karnych typu półotwartego i otwartego,
+- **3)** kontrolowania rozmów trakcie widzeń i rozmów telefonicznych oraz rozmów prowadzonych za pomocą innych środków łączności z wyjątkiem przypadków określonych art. 8 § 3 oraz art. 8a § 2 i 3, jeżeli wymagają tego względy bezpieczeństwa zakładu lub porządku publicznego. Dyrektor zakładu karnego informuje skazanego o zatrzymaniu korespondencji oraz może zezwolić na przekazanie skazanemu ważnej wiadomości zawartej zatrzymanej korespondencji.”,
+    - **b)** po § 6 dodaje się § 6a brzmieniu: „§ 6a. Skazany ponosi koszty prowadzenia korespondencji, tym korespondencji urzędowej. W szczególnie uzasadnionych wypadkach skazany, który nie posiada środków pieniężnych, może otrzymać od administracji zakładu karnego znaczki pocztowe na korespondencję.”,
+    - **c)** § 7 otrzymuje brzmienie: „§ 7. Skazany wysyłając korespondencję urzędową przekazuje wraz z nią wypełnione potwierdzenie odbioru, które po podpisaniu przez przyjmującego zwracane jest skazanemu. Na kopercie umieszcza się odcisk stempla z nazwą zakładu karnego oraz odnotowuje się datę jej odbioru.”,
+    - **d)** dodaje się § 8 brzmieniu: „§ 8. Dyrektor Generalny Służby Więziennej określi, drodze zarządzenia, wzór potwierdzenia odbioru wysyłanej korespondencji urzędowej, o którym mowa § 7.”;
+
+- **47)** art. 105a:
+    - **a)** § 2 zdanie drugie i trzecie otrzymują brzmienie: „Liczba osób małoletnich nie podlega ograniczeniu. Osoby małoletnie mogą korzystać z widzeń tylko pod opieką osób pełnoletnich.”,
+    - **b)** po § 2 dodaje się § 2a brzmieniu: „§ 2a. Osoba małoletnia do lat 15 korzysta z widzenia ze skazanym pod opieką pozostającego na wolności przedstawiciela ustawowego lub pełnoletniej osoby najbliższej, a przypadku gdy uprawniony do opieki nad osobą małoletnią podczas widzenia nie uzyskał zgody na widzenie, nie chce lub nie może z niego skorzystać pod opieką funkcjonariusza lub pracownika zakładu karnego wyznaczonego przez dyrektora zakładu karnego.”;
+
+- **48)** art. 105b:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Skazany co najmniej raz tygodniu ma prawo korzystać z samoinkasującego aparatu telefonicznego na własny koszt lub na koszt rozmówcy sposób i terminach ustalonych porządku wewnętrznym obowiązującym zakładzie karnym. W uzasadnionych wypadkach dyrektor zakładu karnego może udzielić zgody na skorzystanie z samoinkasującego aparatu telefonicznego na koszt zakładu karnego.”,
+    - **b)** po § 1 dodaje się § 1a brzmieniu: „§ 1a. W szczególnie uzasadnionych wypadkach, zwłaszcza gdy bezpośredni kontakt jest niemożliwy lub szczególnie utrudniony lub gdy wynika to z nagłej sytuacji życiowej, dyrektor zakładu karnego może udzielić zgody na skorzystanie z samoinkasującego aparatu telefonicznego do kontaktu z rodziną i innymi osobami bliskimi poza terminami ustalonymi porządku wewnętrznym obowiązującym zakładzie karnym.”,
+    - **c)** uchyla się § 2, „§ 4. Zapewnienie systemu służącego realizacji uprawnienia, o którym mowa § 1, można powierzyć przywięziennemu zakładowi pracy wskazanemu przez Ministra Sprawiedliwości, drodze decyzji, która podlega ogłoszeniu Dzienniku Urzędowym Ministra Sprawiedliwości. W takim wypadku dla każdego zakładu karnego jest zawierana odrębna umowa podpisana przez dyrektora zakładu karnego z przywięziennym zakładem pracy.
+
+§ 5. Dyrektor Generalny Służby Więziennej określi, drodze zarządzenia, warunki umów, o których mowa § 4 zdanie drugie.”;
+
+- **49)** po art. 105b dodaje się art. 105c brzmieniu: „Art. 105c. § 1. Rozmowy telefoniczne skazanych lub rozmowy skazanych prowadzone za pomocą innych środków łączności nie mogą być realizowane przez przekierowanie na inny niż wybrany numer telefonu lub jako telekonferencja.
+
+§ 2. W razie naruszenia zakazu, o którym mowa § 1, uniemożliwia się przeprowadzenie rozmowy albo przerywa się ją.”;
+
+- **50)** art. 110:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Powierzchnia celi mieszkalnej, przypadającej na skazanego, wynosi nie mniej niż 3 m . Celę wyposaża się odpowiedni sprzęt kwaterunkowy zapewniający skazanemu osobne miejsce do spania. W celi zapewnia się odpowiednie warunki higieny, dostateczny dopływ powietrza i odpowiednią do pory roku temperaturę oraz oświetlenie, według norm określonych dla pomieszczeń mieszkalnych.”,
+    - **b)** § 2a wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor zakładu karnego lub aresztu śledczego może umieścić skazanego na czas określony, nie dłuższy niż 90 dni, warunkach, o których mowa § 2 zdanie drugie i trzecie, celi mieszkalnej, której powierzchnia przypadająca na skazanego wynosi poniżej 3 m , nie mniej jednak niż 2 m , razie:”,
+    - **c)** § 2b wprowadzenie do wyliczenia otrzymuje brzmienie: „Dyrektor zakładu karnego lub aresztu śledczego może umieścić skazanego na czas określony, nie dłuższy niż 14 dni, warunkach, o których mowa § 2 zdanie drugie i trzecie, celi mieszkalnej, której powierzchnia przypadająca na skazanego wynosi poniżej 3 m , nie mniej jednak niż 2 m , jeżeli zachodzi konieczność natychmiastowego umieszczenia zakładzie karnym lub areszcie śledczym nieposiadającym wolnych miejsc celach mieszkalnych:”,
+    - **d)** po § 4 dodaje się § 4a brzmieniu: „§ 4a. Do powierzchni celi mieszkalnej, o której mowa § 2 zdanie pierwsze, § 2a i 2b, nie wlicza się wnęki okiennej i wnęki grzejnikowej, a także powierzchni znajdującej się poza kratami wewnętrznymi oraz wydzielonych kącików sanitarnych.”;
+
+- **51)** art. 110a:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Dyrektor zakładu karnego może zezwolić:
+
+- **1)** na posiadanie celi sprzętu elektronicznego lub elektrycznego,
+- **2)** skazanemu na posiadanie celi innych przedmiotów, tym także podnoszących estetykę pomieszczenia lub będących wyrazem kulturalnych zainteresowań skazanego jeżeli posiadanie tych przedmiotów nie narusza zasad porządku i bezpieczeństwa obowiązujących zakładzie karnym.”, „Art. 110b. § 1. W przypadku uzyskania zezwolenia dyrektora zakładu karnego, o którym mowa art. 110a § 2 pkt 1, i wyposażenia celi mieszkalnej dodatkowy sprzęt elektroniczny lub elektryczny każdy skazany przebywający tej celi jest zobowiązany do uiszczania zryczałtowanej miesięcznej opłaty związku z użytkowaniem tego sprzętu.
+    - **b)** § 4 otrzymuje brzmienie: „§ 4. Skazany, tym również przebywający poza terenem zakładu karnego związku z zatrudnieniem, nie może posiadać, poza depozytem, środków łączności oraz przedmiotów i dokumentów, które mogą stanowić zagrożenie dla porządku lub bezpieczeństwa zakładzie karnym lub bezpieczeństwa osób nim przebywających.”,
+    - **c)** dodaje się § 5 brzmieniu: „§ 5. Zakaz określony § 4 nie dotyczy skazanych przebywających poza terenem zakładu karnego związku z zatrudnieniem odniesieniu do środków łączności, przedmiotów i dokumentów niezbędnych do wykonywania pracy, udostępnionych im na czas jej wykonywania przez podmiot zatrudniający.”;
+
+§ 2. Środki finansowe uzyskane z tytułu uiszczania przez skazanych opłat podlegają przekazaniu na cele Funduszu Aktywizacji Zawodowej Skazanych oraz Rozwoju Przywięziennych Zakładów Pracy utworzonego na podstawie art. 6a ustawy z dnia 28 sierpnia 1997 r. o zatrudnianiu osób pozbawionych wolności (Dz. U. z 2021 r. poz. 179).
+
+§ 3. Opłata podlega potrąceniu ze środków pieniężnych pozostających dyspozycji skazanego. Potrącenie następuje z góry każdego pierwszego roboczego dnia miesiąca. Potrącona opłata nie podlega zwrotowi.
+
+§ 4. Jeżeli skazany nie posiada środków pieniężnych na uiszczenie opłaty terminie, o którym mowa § 3, jej potrącenie następuje niezwłocznie po wpłynięciu środków pieniężnych na konto skazanego, wysokości stanowiącej iloczyn wysokości zryczałtowanej opłaty oraz liczby miesięcy, za które nie była ona potrącana.
+
+§ 5. W szczególnie uzasadnionych wypadkach, zwłaszcza gdy skazany nie posiada środków finansowych i zatrudniony jest nieodpłatnie zakładzie karnym, dyrektor może zwolnić go od uiszczania opłaty, o której mowa § 1.
+
+§ 6. W przypadku gdy skazany zwalniany z zakładu karnego zalega z uiszczeniem opłaty, staje się ona obowiązkiem rozumieniu przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym administracji i podlega egzekucji na podstawie jej przepisów.
+
+§ 7. Minister Sprawiedliwości określi, drodze rozporządzenia, wysokość zryczałtowanej miesięcznej opłaty, o której mowa § 1, mając na względzie średnią wysokość kosztów ponoszonych przez zakład karny związku z użytkowaniem przez skazanych dodatkowego sprzętu elektronicznego i elektrycznego.”;
+
+- **53)** art. 113:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. Środki pieniężne, o których mowa § 2, skazany może przekazać na wybrany rachunek bankowy lub pozostawić depozycie.”,
+    - **b)** § 6 pkt 4 otrzymuje brzmienie: „4) środki pieniężne otrzymane przez skazanego danym miesiącu, wysokości 20% minimalnego wynagrodzenia za pracę, o ile przepisy niniejszej ustawy nie stanowią inaczej.”;
+
+- **54)** art. 113a:
+    - **a)** § 2 otrzymuje brzmienie: „§ 2. Skazanemu umożliwia się dokonanie pierwszego zakupu nie później niż trzeciego dnia roboczego po przyjęciu do aresztu śledczego, o którym mowa art. 79b § 1.”,
+    - **b)** § 5 otrzymuje brzmienie: „§ 5. W paczkach nie mogą być dostarczane przedmioty niedozwolone, substancje psychoaktywne oraz artykuły, których sprawdzenie jest niemożliwe bez naruszenia istotny sposób ich zawartości, jak też artykuły opakowaniach utrudniających ich kontrolę.”;
+
+- **55)** art. 114 otrzymuje brzmienie: „Art. 114. Skazanemu, który nie ma możliwości zarobkowania oraz nie posiada niezbędnych środków materialnych, dyrektor zakładu karnego może przyznać miesięczną zapomogę wysokości do 1/5 minimalnego wynagrodzenia za pracę.”;
+- **56)** art. 115:
+    - **a)** po § 5 dodaje się § 5a–5d brzmieniu: „§ 5a. W przypadkach, o których mowa § 5 pkt 2, podmioty lecznicze udzielają skazanemu świadczeń zdrowotnych z zachowaniem kolejności dostępu do tych świadczeń obowiązującej osoby uprawnione do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych.
+
+§ 5b. Zgłoszenie przez skazanego potrzeby przeprowadzenia postępowania diagnostycznego jest równoznaczne z wyrażeniem przez niego zgody na jego przeprowadzenie. przeprowadzenia wobec niego procedury medycznej, odmawia wyrażenia zgody na przeprowadzenie postępowania diagnostycznego mającego na celu potwierdzenie tej potrzeby, o przeprowadzeniu takiego postępowania decyduje dyrektor zakładu karnego lub aresztu śledczego na wniosek lekarza.
+
+§ 5d. Skazanego, który odmawia przyjmowania posiłków dostarczanych przez administrację zakładu karnego, lekarz za zgodą dyrektora zakładu karnego lub aresztu śledczego obejmuje postępowaniem diagnostycznym.”,
+
+- **b)** po § 8 dodaje się § 8a brzmieniu: „§ 8a. Świadczenia zdrowotne mogą być udzielane skazanemu za pośrednictwem systemów teleinformatycznych lub systemów łączności.”;
+- **57)** art. 116:
+    - **a)** § 1: pkt 3 otrzymuje brzmienie: „3) poddania się niezależnie od obowiązków określonych przepisach o zwalczaniu chorób zakaźnych, wenerycznych i gruźlicy, alkoholizmu i narkomanii przewidzianym przepisami badaniom, leczeniu, zabiegom lekarskim, sanitarnym oraz rehabilitacji, a także badaniom na obecność organizmie substancji psychoaktywnej, a skazany, co do którego sędzia penitencjarny zarządził przeprowadzenie badań psychologicznych, psychiatrycznych lub seksuologicznych, dodatkowo udzielania osobom prowadzącym badania informacji o stanie zdrowia, przebytych chorobach i urazach oraz warunkach, jakich się wychowywał, oraz wykonywania zleconych przez psychologa, psychiatrę lub seksuologa czynności niezbędnych na potrzeby badania;”, po pkt 3 dodaje się pkt 3a brzmieniu: „3a) poddania się kontroli pobieżnej lub kontroli osobistej oraz umożliwienia i nieutrudniania przeprowadzenia innych kontroli, o których mowa art. 223f § 1;”,
+    - **b)** uchyla się § 2–6;
+
+- **58)** art. 116a pkt 4 otrzymuje brzmienie: „4) używać substancji psychoaktywnej niezależnie od drogi podania;”;
+- **59)** art. 116b otrzymuje brzmienie: „Art. 116b. § 1. Badanie celu ustalenia organizmie skazanego obecności substancji psychoaktywnej przeprowadza się przy użyciu metod niewymagających badania laboratoryjnego.
+
+§ 2. Weryfikacja wyniku badania, o którym mowa § 1, może być przeprowadzona za pomocą badania laboratoryjnego.
+
+§ 3. Skazanego, u którego przeprowadzona weryfikacja wyniku badania wskazanego § 2 potwierdziła obecność organizmie substancji psychoaktywnej, niezależnie od odpowiedzialności dyscyplinarnej obciąża się całości kosztami związanymi z przeprowadzeniem badania laboratoryjnego.
+
+§ 4. Minister Sprawiedliwości określi, drodze rozporządzenia, rodzaje badań na obecność substancji psychoaktywnej organizmie skazanego, sposób przeprowadzania tych badań oraz sposób ich dokumentowania, mając na uwadze konieczność zapewnienia sprawnego przeprowadzania badań i zagwarantowania wiarygodności ich wyników oraz zapewnienie prawidłowego sposobu dokumentowania przeprowadzonych badań.”;
+
+- **60)** art. 117 otrzymuje brzmienie: „Art. 117. § 1. Skazanego, u którego stwierdzono uzależnienie od substancji psychoaktywnej, a także skazanego za przestępstwo określone art. 197–203 Kodeksu karnego popełnione związku z zaburzeniami preferencji seksualnych obejmuje się, za jego zgodą, odpowiednim leczeniem lub rehabilitacją.
+
+§ 2. W razie braku zgody, o której mowa § 1, przedmiocie obowiązku poddania się przez skazanego leczeniu lub rehabilitacji orzeka sąd penitencjarny na posiedzeniu, które powinno odbyć się zakładzie karnym. W posiedzeniu ma prawo wziąć udział prokurator, skazany oraz jego obrońca. Wniosek o orzeczenie obowiązku poddania się przez skazanego leczeniu lub rehabilitacji może złożyć również dyrektor zakładu karnego.
+
+§ 3. Obowiązek poddania się przez skazanego leczeniu lub rehabilitacji można orzec na czas określony, każdorazowo nie dłuższy niż 2 lata.
+
+§ 4. Sąd penitencjarny zmienia lub uchyla obowiązek poddania się przez skazanego leczeniu lub rehabilitacji wypadku zmiany lub ustania podstaw jego wykonywania. orzeka sąd penitencjarny na posiedzeniu, które powinno odbyć się zakładzie karnym. W posiedzeniu ma prawo wziąć udział prokurator, skazany oraz jego obrońca. Wniosek o zmianę lub uchylenie obowiązku poddania się przez skazanego leczeniu lub rehabilitacji może złożyć również dyrektor zakładu karnego.
+
+§ 6. Wniosek skazanego lub jego obrońcy o zmianę lub uchylenie obowiązku poddania się przez skazanego leczeniu lub rehabilitacji złożony przed upływem 6 miesięcy od wydania postanowienia przedmiocie tego obowiązku można pozostawić bez rozpoznania.
+
+§ 7. Na postanowienie przedmiocie obowiązku poddania się przez skazanego leczeniu lub rehabilitacji przysługuje zażalenie. Zażalenie przysługuje także dyrektorowi zakładu karnego.”;
+
+- **61)** art. 121: z 2022 r. poz. 690, 830, 1079, 1383, 1561 i 1812) zakresie konieczności uzyskiwania zezwoleń na pracę.”;
+    - **a)** § 6 otrzymuje brzmienie: „§ 6. Orzeczenie o istnieniu albo braku przeciwwskazań zdrowotnych do wykonywania pracy wydaje lekarz.”,
+    - **b)** po § 9 dodaje się § 9a brzmieniu: „§ 9a. W stosunku do skazanych cudzoziemców zatrudnionych na podstawie skierowania do pracy nie stosuje się przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U.
+
+- **62)** art. 123 § 2 otrzymuje brzmienie: „§ 2. Wynagrodzenie przysługujące skazanemu zatrudnionemu pełnym wymiarze czasu pracy ustala się sposób zapewniający osiągnięcie kwoty co najmniej minimalnego wynagrodzenia za pracę, przy przepracowaniu pełnego miesięcznego wymiaru czasu pracy lub wykonaniu pełnej miesięcznej normy pracy. W wypadku przepracowania niepełnej miesięcznej normy czasu pracy lub niewykonania pełnej miesięcznej normy pracy wynagrodzenie wypłaca się proporcjonalnie do ilości czasu pracy lub wykonanej normy pracy, choćby z tego powodu wypłacone wynagrodzenie nie osiągnęło kwoty co najmniej minimalnego wynagrodzenia za pracę. W razie zatrudnienia skazanego niepełnym wymiarze czasu pracy najniższe wynagrodzenie ustala się kwocie proporcjonalnej do liczby godzin zatrudnienia, biorąc za podstawę kwotę minimalnego wynagrodzenia za pracę.”;
+- **63)** art. 126:
+    - **a)** § 1 i 2 otrzymują brzmienie: „§ 1. Ze środków pieniężnych otrzymywanych przez skazanego, z wyjątkiem środków, o których mowa art. 113 § 6 pkt 1–3, środki do wysokości minimalnego wynagrodzenia za pracę gromadzi się i zachowuje do przekazania skazanemu chwili jego zwolnienia z zakładu karnego, z przeznaczeniem na przejazd do miejsca zamieszkania i na utrzymanie; ze środków tych nie prowadzi się egzekucji.
+
+§ 2. Gromadzeniu podlega:
+
+- **1)** 50% kwoty zdeponowanej przez skazanego przy przyjęciu do zakładu karnego, jednak nie więcej niż kwota odpowiadająca wysokości minimalnego wynagrodzenia za pracę;
+- **2)** 50% z przypadającego skazanemu miesięcznie wynagrodzenia za pracę po odliczeniu zaliczki na podatek dochodowy od osób fizycznych, jednak nie więcej niż kwota stanowiąca 8% minimalnego wynagrodzenia za pracę;
+- **3)** 50% każdego z wpływów pieniężnych skazanego niewymienionych pkt 1 i 2, jednak nie więcej niż kwota stanowiąca 8% minimalnego wynagrodzenia za pracę.”,
+    - **b)** § 9 otrzymuje brzmienie: „§ 9. Zgromadzona kwota podlega każdorazowo uzupełnieniu razie wzrostu minimalnego wynagrodzenia za pracę.”;
+
+- **64)** art. 138 § 1:
+    - **a)** pkt 12 otrzymuje brzmienie: „12) zezwolenie na odbywanie widzeń we własnej odzieży na okres do 3 miesięcy;”,
+    - **b)** pkt 15 kropkę zastępuje się średnikiem i dodaje się pkt 16 brzmieniu: „16) zezwolenie na dodatkowe skorzystanie z samoinkasującego aparatu telefonicznego na własny koszt lub na koszt rozmówcy.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. W wypadkach szczególnie uzasadnionych warunkami rodzinnymi lub osobistymi skazanego nagrody wymienione art. 138 § 1 pkt 1, 2, 12, 15 i 16 mogą być stosowane jako ulgi.”,
+    - **b)** uchyla się § 2;
+
+- **66)** art. 141a:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Dyrektor zakładu karnego może udzielić skazanemu zezwolenia na opuszczenie zakładu karnego pod konwojem funkcjonariusza Służby Więziennej, asyście osoby godnej zaufania lub samodzielnie, na czas nieprzekraczający 5 dni, celu odwiedzenia poważnie chorego członka rodziny, uczestnictwa pogrzebie członka rodziny oraz innych wypadkach szczególnie ważnych dla skazanego.”,
+    - **b)** uchyla się § 5;
+
+- **67)** art. 143:
+    - **a)** § 1 po pkt 7 dodaje się pkt 7a brzmieniu: „7a) pozbawienie możliwości korzystania z widzeń i samoinkasującego aparatu telefonicznego na okres do 28 dni;”,
+    - **b)** § 3 wprowadzenie do wyliczenia otrzymuje brzmienie: „Karę dyscyplinarną, o której mowa § 1 pkt 8, wymierza się skazanemu, który dopuścił się naruszenia nietykalności cielesnej lub czynnej napaści na funkcjonariusza albo pracownika zakładu karnego oraz można wymierzyć skazanemu, który popełnił inne przekroczenie naruszające poważnym stopniu obowiązującą zakładzie karnym dyscyplinę i porządek. Kara ta polega na osadzeniu skazanego pojedynczo celi oraz uniemożliwieniu mu kontaktu z innymi skazanymi; trakcie jej wykonywania skazanego pozbawia się możliwości:”;
+
+- **68)** art. 144:
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Kary dyscyplinarne określone art. 143 § 1 pkt 4, 5 i 7–8 wymierza dyrektor zakładu karnego, a inne kary również osoba przez niego upoważniona.”,
+    - **b)** uchyla się § 5;
+
+- **69)** art. 145 § 3 otrzymuje brzmienie: „§ 3. Przed wymierzeniem skazanemu kary dyscyplinarnej określonej art. 143 § 1 pkt 8 lekarz albo psycholog wydaje pisemną opinię o jego zdolności do odbycia tej kary. Jeżeli z opinii wynika brak zdolności do odbycia tej kary, stosuje się art. 146 § 3. Wymierzenie tej kary powyżej 14 dni wymaga zgody sędziego penitencjarnego.”;
+- **70)** art. 160 § 6 otrzymuje brzmienie: „§ 6. W posiedzeniu przedmiocie odwołania warunkowego zwolnienia bierze udział prokurator, a mają prawo wziąć udział posiedzeniu skazany oraz obrońca, sądowy kurator zawodowy, a gdy skazany pozostaje pod dozorem osoby godnej zaufania, stowarzyszenia, organizacji lub instytucji, o której mowa art. 159 § 1, także ta osoba lub przedstawiciel tego stowarzyszenia, organizacji lub instytucji.”;
+- **71)** art. 161 § 1 otrzymuje brzmienie: „§ 1. O warunkowym zwolnieniu orzeka sąd penitencjarny na posiedzeniu, które powinno odbyć się zakładzie karnym. W posiedzeniu bierze udział prokurator, a mają prawo wziąć udział posiedzeniu skazany oraz obrońca, a także inne osoby, którym służy uprawnienie do złożenia wniosku o warunkowe zwolnienie, jeżeli wniosek taki złożyły.”;
+- **72)** art. 166 § 3 otrzymuje brzmienie: „§ 3. Skazanemu zwalnianemu z zakładu karnego, który nie dysponuje wystarczającymi środkami własnymi i nie ma zapewnionych na wolności dostatecznych środków utrzymania, dyrektor zakładu karnego może udzielić pomocy pieniężnej chwili zwolnienia wysokości do 2/3 minimalnego wynagrodzenia za pracę lub jej odpowiedni ekwiwalent; środki własne skazanego stanowią środki będące depozycie oraz przekazane trybie art. 126 § 1.”;
+- **73)** art. 167a § 1 pkt 2 otrzymuje brzmienie: „2) otrzymuje, za pokwitowaniem, znajdujące się depozycie dokumenty, środki pieniężne, przedmioty wartościowe i inne przedmioty, jeżeli nie zostały zatrzymane albo zajęte drodze zabezpieczenia lub egzekucji.”;
+    - **a)** § 1 otrzymuje brzmienie: „§ 1. Na wniosek pokrzywdzonego, odpowiednio, sędzia penitencjarny lub dyrektor zakładu karnego niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, o zwolnieniu skazanego z zakładu karnego, o ucieczce skazanego z zakładu karnego, a także o wydaniu decyzji o udzieleniu skazanemu:
+
+- **1)** przepustki, o której mowa art. 91 pkt 7 i art. 92 pkt 9;
+- **2)** czasowego zezwolenia na opuszczenie zakładu karnego bez dozoru lub bez konwoju funkcjonariusza Służby Więziennej albo asysty innej osoby godnej zaufania, o którym mowa art. 138 § 1 pkt 7 lub 8, art. 141a § 1, art. 165 § 2 oraz art. 234 § 2.”,
+    - **b)** po § 1 dodaje się § 1a brzmieniu: „§ 1a. Przepis § 1 stosuje się odpowiednio, jeżeli skazany, który opuścił zakład karny na podstawie decyzji o udzieleniu mu przepustki lub czasowego zezwolenia, o których mowa § 1 pkt 1 i 2, wyznaczonym terminie nie powrócił z tej przepustki lub zezwolenia.”,
+    - **c)** § 2 i 3 otrzymują brzmienie: „§ 2. O prawie do złożenia wniosku, o którym mowa § 1 i 1a, poucza pokrzywdzonego sąd, kierując orzeczenie do wykonania.
+
+§ 3. W wypadku zwolnienia z zakładu karnego po odbyciu kary skazanego z zaburzeniami preferencji seksualnych odbywającego karę pozbawienia wolności za przestępstwo określone art. 197–203 Kodeksu karnego, popełnione związku z tymi zaburzeniami, wypadku ucieczki takiego skazanego z zakładu karnego lub wydania decyzji, o których mowa § 1, a także wypadkach, o których mowa § 1a, odpowiednio sędzia penitencjarny lub dyrektor niezwłocznie zawiadamia o tym jednostkę Policji, właściwą dla miejsca stałego pobytu skazanego.”,
+
+- **d)** § 6 otrzymuje brzmienie: „§ 6. W uzasadnionych przypadkach zawiadomienie, o którym mowa § 1 i 1a, przekazuje się również świadkowi.”;
+- **75)** art. 177 § 1 otrzymuje brzmienie: „§ 1. W kwestiach dotyczących wykonania orzeczenia o warunkowym umorzeniu postępowania karnego właściwy jest sąd, którego okręgu sprawca ma miejsce stałego pobytu.”;
+- **76)** art. 178 § 1 otrzymuje brzmienie: „§ 1. W kwestiach dotyczących wykonania orzeczenia o warunkowym zawieszeniu wykonania kary oraz sprawie zarządzenia wykonania zawieszonej kary właściwy jest sąd, którego okręgu skazany ma miejsce stałego pobytu.”;
+- **77)** art. 204b otrzymuje brzmienie: „Art. 204b. W zakładach psychiatrycznych, o których mowa art. 200 § 2 pkt 2 i 3, dopuszcza się kontrolowanie przedmiotów posiadanych przez sprawców oraz pomieszczeń, których oni przebywają, a także uzasadnionych przypadkach kontrolę osobistą. Przepisy art. 223f § 1, 7, 9, 10, 16 i 17 oraz art. 223g–223j stosuje się odpowiednio.”;
+- **78)** art. 208:
+    - **a)** § 3 otrzymuje brzmienie: „§ 3. Areszty śledcze mogą być tworzone jako samodzielne areszty lub jako wyodrębnione oddziały aresztów śledczych i zakładów karnych. Areszty śledcze mogą być przekształcane zakłady karne. Kilka aresztów śledczych może posiadać wspólną administrację bądź wydzielone służby.”,
+    - **b)** § 5 i 6 otrzymują brzmienie: „§ 5. Minister Sprawiedliwości, drodze zarządzenia, tworzy i znosi areszty śledcze oraz przekształca je zakłady karne, mając na względzie istniejące potrzeby tym zakresie.
+
+§ 6. Dyrektor Generalny Służby Więziennej, drodze zarządzenia, określa przeznaczenie aresztów śledczych oraz wyodrębnionych oddziałów aresztów śledczych aresztach śledczych i zakładach karnych, uwzględniając szczególności potrzebę zapewnienia oraz racjonalnego wykorzystania miejsc zakwaterowania dla wszystkich tymczasowo aresztowanych.”;
+
+- **a)** pkt 1 otrzymuje brzmienie: „1) konieczność oddzielenia tymczasowo aresztowanych od skazanych;”,
+- **b)** po pkt 1 dodaje się pkt 1a brzmieniu: „1a) konieczność oddzielenia tymczasowo aresztowanych, którzy są lub byli funkcjonariuszami organów powołanych do ochrony bezpieczeństwa publicznego, funkcjonariuszami albo pracownikami Służby Więziennej, pracownikami organów wymiaru sprawiedliwości i ścigania, pracownikami administracji rządowej, do których czynności służbowych należy wykonywanie zadań z zakresu nadzoru nad organami powołanymi do ochrony bezpieczeństwa publicznego, Służbą Więzienną lub organami wymiaru sprawiedliwości lub zadań związanych z podległością tych podmiotów, od pozostałych tymczasowo aresztowanych, chyba że zachodzi wyjątkowy wypadek uzasadniony ich stanem zdrowia lub względami organizacyjnymi, przy czym taki funkcjonariusz lub pracownik może być umieszczony wspólnie celi mieszkalnej, jeżeli wyraża na to zgodę, tylko z dorosłym tymczasowo aresztowanym, odpowiednio dobranym przy uwzględnieniu rodzaju popełnionego przez niego przestępstwa oraz właściwości osobistych;”;
+- **80)** art. 212ba:
+    - **a)** § 1: wprowadzenie do wyliczenia otrzymuje brzmienie: „Jeżeli związku z toczącym się lub zakończonym postępowaniem karnym, którym tymczasowo aresztowany uczestniczy lub uczestniczył charakterze podejrzanego, oskarżonego, świadka lub pokrzywdzonego, wystąpiło poważne zagrożenie lub istnieje bezpośrednia obawa wystąpienia poważnego zagrożenia dla jego życia lub zdrowia, dyrektor aresztu śledczego obejmuje takiego tymczasowo aresztowanego szczególną ochroną warunkach zwiększonej izolacji i zabezpieczenia, która może polegać na:”, pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5–12 brzmieniu: „5) stosowaniu warunków wykonywania tymczasowego aresztowania określonych art. 212b § 2;
+
+- **6)** zakazie pozostawiania tymczasowo aresztowanego samotnie celi mieszkalnej lub innym pomieszczeniu, z wyjątkiem cel i pomieszczeń monitorowanych;
+- **7)** wzmożonej obserwacji zachowania tymczasowo aresztowanego;
+- **8)** zwiększeniu stopnia izolacji od innych tymczasowo aresztowanych;
+- **9)** częstszej wizytacji celi mieszkalnej przez wyznaczonych funkcjonariuszy lub pracowników Służby Więziennej niż odniesieniu do tymczasowo aresztowanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną;
+- **10)** określeniu szczególnego sposobu korzystania z zabezpieczeń techniczno-ochronnych celi mieszkalnej;
+- **11)** częstszej kontroli posiadanych przez tymczasowo aresztowanego celi mieszkalnej przedmiotów, tym leków, niż odniesieniu do tymczasowo aresztowanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną;
+- **12)** częstszej kontroli celi mieszkalnej niż odniesieniu do tymczasowo aresztowanych, wobec których nie podjęto decyzji o objęciu szczególną ochroną.”,
+    - **b)** § 2 pkt 1 otrzymuje brzmienie: „1) warunków wykonywania tymczasowego aresztowania określonych art. 212b § 1 pkt 1–4, 6 i 8 oraz § 3,”,
+    - **c)** po § 2 dodaje się § 2a i 2b brzmieniu: „§ 2a. Objęcie tymczasowo aresztowanego szczególną ochroną powinno być dokonane zgodnie z celem tej czynności, granicach niezbędnych do osiągnięcia tego celu, z poszanowaniem godności ludzkiej tymczasowo aresztowanego oraz bez wyrządzania zbędnych dolegliwości.
+
+§ 2b. Szczegółowy sposób realizacji szczególnej ochrony tymczasowo aresztowanego nie może być bardziej dolegliwy niż warunki wykonywania tymczasowego aresztowania, które mogą być stosowane wobec tymczasowo aresztowanego, o którym mowa art. 212a § 1.”,
+
+- **d)** § 3 zdanie pierwsze otrzymuje brzmienie: „Dyrektor aresztu śledczego obejmuje tymczasowo aresztowanego szczególną ochroną z urzędu lub na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze.”, „§ 5. W decyzji o objęciu tymczasowo aresztowanego szczególną ochroną należy określić termin, do którego ochrona ma trwać, oraz sposób realizacji tej ochrony, wskazując środki, o których mowa § 1 lub 2.”,
+- **f)** § 7 zdanie pierwsze otrzymuje brzmienie: „W wypadku ustania przyczyny objęcia tymczasowo aresztowanego szczególną ochroną, dyrektor aresztu śledczego, na wniosek sądu, przed którym toczy się postępowanie karne, albo prokuratora prowadzącego lub nadzorującego postępowanie przygotowawcze, a jeżeli tymczasowo aresztowanego objęto szczególną ochroną z urzędu z urzędu, cofa szczególną ochronę.”,
+- **g)** § 9 otrzymuje brzmienie: „§ 9. Dyrektor aresztu śledczego zawiadamia sędziego penitencjarnego oraz organ, do którego dyspozycji tymczasowo aresztowany pozostaje, o objęciu tymczasowo aresztowanego szczególną ochroną, o jej przedłużeniu lub o jej cofnięciu.”;
+- **81)** art. 212c:
+    - **a)** § 1 zdanie drugie otrzymuje brzmienie: „Jeżeli konieczne jest przeprowadzenie badań psychologicznych, psychiatrycznych lub seksuologicznych, dokonuje się ich na zasadach określonych art. 83 § 1–2 oraz art. 84 § 3.”,
+    - **b)** dodaje się § 3 brzmieniu: „§ 3. O przeprowadzeniu postępowania diagnostycznego określonego art. 115 § 5c zawiadamia się organ, do którego dyspozycji tymczasowo aresztowany pozostaje.”;
+
+- **82)** art. 215 § 1 otrzymuje brzmienie: „§ 1. Tymczasowo aresztowany ma prawo do porozumiewania się z obrońcą, pełnomocnikiem będącym adwokatem albo radcą prawnym oraz przedstawicielem niebędącym adwokatem ani radcą prawnym, który został zaaprobowany przez Przewodniczącego Izby Europejskiego Trybunału Praw Człowieka do reprezentowania tymczasowo aresztowanego przed tym Trybunałem, podczas nieobecności innych osób oraz korespondencyjnie. Jeżeli organ, do którego dyspozycji tymczasowo aresztowany pozostaje, zastrzeże przy widzeniu obecność swoją lub osoby upoważnionej widzenie odbywa się sposób wskazany przez ten organ.”;
+- **83)** art. 217:
+    - **a)** § 1e otrzymuje brzmienie: „§ 1e. Osoba małoletnia może uzyskać zgodę na widzenie z tymczasowo aresztowanym na wniosek przedstawiciela ustawowego.”,
+    - **b)** po § 1e dodaje się § 1ea brzmieniu: „§ 1ea. Osoby małoletnie mogą korzystać z widzeń tylko pod opieką osób pełnoletnich.”,
+    - **c)** § 1f otrzymuje brzmienie: „§ 1f. Osoba małoletnia do lat 15 korzysta z widzenia z tymczasowo aresztowanym pod opieką pozostającego na wolności przedstawiciela ustawowego lub pełnoletniej osoby najbliższej, a razie gdy uprawniony do opieki nad osobą małoletnią podczas widzenia nie uzyskał zgody na widzenie, nie chce lub nie może z niego skorzystać pod opieką funkcjonariusza lub pracownika aresztu śledczego wyznaczonego przez dyrektora aresztu śledczego.”,
+    - **d)** po § 1f dodaje się § 1g brzmieniu: „§ 1g. Zarządzenie o zgodzie na widzenie uprawnia do jednorazowego widzenia, chyba że organ, do którego dyspozycji tymczasowo aresztowany pozostaje, zarządzi inaczej.”;
+
+- **84)** art. 217b § 1a i 2 otrzymują brzmienie: „§ 1a. Korespondencję tymczasowo aresztowanego z obrońcą ustanowionym lub wyznaczonym sprawie, której zastosowano tymczasowe aresztowanie, przesyła się bezpośrednio do adresata, chyba że organ, do którego dyspozycji tymczasowo aresztowany pozostaje, szczególnie uzasadnionych wypadkach, zarządzi inaczej.
+
+§ 2. Korespondencję tymczasowo aresztowanego z przedstawicielem niebędącym adwokatem ani radcą prawnym, który został zaaprobowany przez Przewodniczącego Izby Europejskiego Trybunału Praw Człowieka do reprezentowania tymczasowo aresztowanego przed tym Trybunałem, Rzecznikiem Praw Obywatelskich, Rzecznikiem Praw Dziecka oraz organami powołanymi na podstawie ratyfikowanych przez Rzeczpospolitą Polską umów międzynarodowych dotyczących ochrony praw człowieka przesyła się bezpośrednio do adresata.”; W szczególnie uzasadnionych wypadkach, jeżeli wyznaczone terminy czynności procesowych wskazują na konieczność niezwłocznego skorzystania z samoinkasującego aparatu telefonicznego, dyrektor aresztu śledczego udziela zgody na kontakt poza terminami ustalonymi porządku wewnętrznym obowiązującym areszcie śledczym.
+
+- **a)** § 1 otrzymuje brzmienie: „§ 1. Tymczasowo aresztowany nie może korzystać z innych niż samoinkasujący aparat telefoniczny środków łączności.”,
+- **b)** po § 1 dodaje się § 1a–1c brzmieniu: „§ la. Tymczasowo aresztowany może korzystać co najmniej raz tygodniu, terminach ustalonych porządku wewnętrznym obowiązującym areszcie śledczym, z samoinkasującego aparatu telefonicznego do kontaktu z obrońcą, pełnomocnikiem będącym adwokatem lub radcą prawnym oraz przedstawicielem niebędącym adwokatem ani radcą prawnym, który został zaaprobowany przez Przewodniczącego Izby Europejskiego Trybunału Praw Człowieka do reprezentowania tymczasowo aresztowanego przed tym Trybunałem, z zastrzeżeniem § 2 i 3.
+
+§ 1b. Warunkiem skorzystania przez tymczasowo aresztowanego z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa § la, jest uprzednie poinformowanie na piśmie dyrektora aresztu śledczego przez osobę, o której mowa § 1a, o numerze telefonu tej osoby, pod którym można nawiązać z nią kontakt, lub wskazanie tego numeru telefonu zarządzeniu, o którym mowa § 2 lub 3.
+
+§ 1c. Tymczasowo aresztowany szczególnie uzasadnionych wypadkach, zwłaszcza gdy bezpośredni kontakt jest niemożliwy lub szczególnie utrudniony, lub gdy wynika to z nagłej sytuacji życiowej, może korzystać, terminach ustalonych porządku wewnętrznym obowiązującym areszcie śledczym, z samoinkasującego aparatu telefonicznego do kontaktu z inną osobą niż wymieniona § 1a. Przeprowadzenie rozmowy wymaga każdorazowej zgody organu, do którego dyspozycji tymczasowo aresztowany pozostaje, wydanej formie zarządzenia, o którym mowa § 2 lub 3, chyba że organ, do którego dyspozycji tymczasowo aresztowany pozostaje, zarządzi inaczej; takim wypadku zarządzenie obowiązuje do chwili zmiany organu, do którego dyspozycji tymczasowo aresztowany pozostaje; organ do którego dyspozycji tymczasowo aresztowany pozostaje wydaje zarządzenie o odmowie wyrażenia zgody na korzystanie przez tymczasowo aresztowanego z samoinkasującego aparatu telefonicznego albo o jej cofnięciu, jeżeli nie zachodzi szczególnie uzasadniony wypadek, o którym mowa zdaniu pierwszym albo wypadku, o którym mowa § 2.”, Zażalenie na zarządzenie prokuratora rozpoznaje prokurator nadrzędny.”,
+
+- **c)** § 2 wprowadzenie do wyliczenia otrzymuje brzmienie: „Organ, do którego dyspozycji tymczasowo aresztowany pozostaje, wydaje zarządzenie o zgodzie na korzystanie z samoinkasującego aparatu telefonicznego, chyba że zachodzi uzasadniona obawa, że zostanie ona wykorzystana:”,
+- **d)** po § 3 dodaje się § 3a brzmieniu: „§ 3a. Zarządzenie o zgodzie na korzystanie z samoinkasującego aparatu telefonicznego do kontaktu z osobą, o której mowa § 1a, uprawnia do wielokrotnego kontaktu ramach przewidzianych tym przepisie i obowiązuje do chwili zakończenia wykonywania tymczasowego aresztowania, bez względu na zmianę organu, do którego dyspozycji tymczasowo aresztowany pozostaje. W wypadku, o którym mowa § 2, organ, do którego dyspozycji tymczasowo aresztowany pozostaje, wydaje zarządzenie o cofnięciu zgody na korzystanie z samoinkasującego aparatu telefonicznego.”,
+- **e)** § 4 otrzymuje brzmienie: „§ 4. Na zarządzenie o odmowie wyrażenia zgody na korzystanie z samoinkasującego aparatu telefonicznego albo o jej cofnięciu tymczasowo aresztowanemu przysługuje zażalenie do sądu, do którego dyspozycji pozostaje.
+- **f)** dodaje się § 5 i 6 brzmieniu: „§ 5. Zapewnienie systemu służącego realizacji uprawnienia, o którym mowa § 1, można powierzyć przywięziennemu zakładowi pracy wskazanemu przez Ministra Sprawiedliwości, drodze decyzji, która podlega ogłoszeniu Dzienniku Urzędowym Ministra Sprawiedliwości. W takim wypadku dla każdego aresztu śledczego jest zawierana odrębna umowa podpisana przez dyrektora aresztu śledczego z przywięziennym zakładem pracy.
+
+§ 6. Dyrektor Generalny Służby Więziennej określi, drodze zarządzenia, warunki umów, o których mowa § 5 zdanie drugie.”;
+
+- **86)** art. 219 otrzymuje brzmienie: „Art. 219. Tymczasowo aresztowany może rozporządzać posiadanymi areszcie śledczym środkami pieniężnymi, przedmiotami wartościowymi i innymi przedmiotami, tym wpłacać środki pieniężne na rachunek bankowy, chyba że organ, do którego dyspozycji pozostaje, zarządzi inaczej.”; „Ze środków pieniężnych otrzymywanych przez tymczasowo aresztowanego nie podlega egzekucji kwota do wysokości połowy minimalnego wynagrodzenia za pracę, niezbędna na pokrycie kosztów przejazdu z aresztu śledczego do miejsca zamieszkania i na utrzymanie ciągu najbliższych dni po zwolnieniu.”;
+- **88)** art. 221 § 2 pkt 9 kropkę zastępuje się średnikiem i dodaje się pkt 10 brzmieniu: „10) pochwała.”;
+- **89)** art. 222 § 2 uchyla się pkt 4;
+- **90)** art. 223a § 1 otrzymuje brzmienie: „§ 1. Tymczasowo aresztowany, wobec którego wykonywana jest kara pozbawienia wolności innej sprawie, korzysta z uprawnień takich jak skazany, z wyjątkiem: widzeń, korespondencji, korzystania z aparatów telefonicznych oraz innych środków łączności, posiadania przedmiotów celi, korzystania ze świadczeń zdrowotnych, powiadamiania organu dysponującego o zakwalifikowaniu tymczasowo aresztowanego jako stwarzającego poważne zagrożenie społeczne albo poważne zagrożenie bezpieczeństwa aresztu śledczego, jak również o objęciu go szczególną ochroną oraz o pozostaniu na leczeniu zakładzie karnym po zwolnieniu, a także zakresie udzielania zezwolenia, o którym mowa art. 141a, a ponadto innych wypadkach, gdy wymaga tego konieczność zabezpieczenia prawidłowego toku postępowania karnego zakresie których stosuje się przepisy niniejszego kodeksu dotyczące tymczasowo aresztowanych.”;
+- **91)** po art. 223a dodaje się art. 223aa brzmieniu: „Art. 223aa. W wypadkach, o których mowa art. 223 § 6, sąd wraz z postanowieniem o tymczasowym aresztowaniu przesyła dyrektorowi aresztu śledczego posiadane informacje, o których mowa art. 11 § 2, niezbędne do wykonywania tymczasowego aresztowania.”;
+- **92)** art. 223d § 1 i 2 otrzymują brzmienie: „§ 1. Tymczasowo aresztowany lub skazany, konwojowany przez funkcjonariuszy Policji, Służby Więziennej, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Celno-Skarbowej lub żołnierzy Żandarmerii Wojskowej, może być umieszczony pomieszczeniu przeznaczonym dla osób zatrzymanych, na czas trwania przeszkody uniemożliwiającej konwojowanie lub niezbędny ze względów humanitarnych. Decyzję tym przedmiocie podejmuje dowódca konwoju. W czasie tym nie mogą być dokonywane czynności procesowe z udziałem konwojowanego sprawie, związku z którą jest on konwojowany.
+
+§ 2. Przepis § 1 stosuje się odpowiednio razie przeszkody uniemożliwiającej doprowadzenie lub przyjęcie tymczasowo aresztowanego albo skazanego do aresztu śledczego lub zakładu karnego oraz razie nieprzewidzianego lądowania podczas przewozu drogą powietrzną lub nieprzewidzianej przerwy przewozie inną drogą osoby dostarczanej na zasadach i warunkach określonych Rzymskim Statucie Międzynarodowego Trybunału Karnego, sporządzonym Rzymie dnia 17 lipca 1998 r. (Dz. U. z 2003 r. poz. 708 oraz z 2018 r. poz. 1753). Decyzję tym przedmiocie podejmuje odpowiednio komendant lub kierownik jednostki Policji, Straży Granicznej, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Żandarmerii Wojskowej, a przypadku funkcjonariuszy Służby Celno-Skarbowej Szef Krajowej Administracji Skarbowej albo naczelnik urzędu celno-skarbowego.”;
+
+- **93)** po rozdziale XVa dodaje się rozdział XVb brzmieniu: „Rozdział XVb Kontrola skazanych, tymczasowo aresztowanych, miejsc i przedmiotów
+
+**Art. 223f.**
+
+§ 1. W celu zapewnienia bezpieczeństwa i porządku oraz zapobiegania popełnianiu przestępstw zakładach karnych i aresztach śledczych oraz miejscach pracy skazanych lub tymczasowo aresztowanych można przeprowadzać:
+
+- **1)** kontrolę pobieżną;
+- **2)** kontrolę osobistą;
+- **3)** kontrolę cel i innych pomieszczeń oddziałach mieszkalnych;
+- **4)** kontrolę pomieszczeń poza oddziałami mieszkalnymi;
+- **5)** kontrolę paczek, przedmiotów i bagaży;
+- **6)** kontrolę pojazdów, którymi są przewożeni skazani lub tymczasowo aresztowani do i z miejsca pracy poza zakładem karnym lub aresztem śledczym;
+- **7)** kontrolę miejsca pracy skazanych lub tymczasowo aresztowanych poza terenem zakładu karnego lub aresztu śledczego;
+- **8)** kontrolę generalną.
+- **1)** każdorazowo po wyjściu i przy powrocie do celi osoby kontrolowanej;
+- **2)** przed opuszczeniem miejsca zatrudnienia i po powrocie do niego osoby kontrolowanej.
+
+§ 3. W zakładzie karnym typu półotwartego i otwartego dyrektor zakładu karnego lub aresztu śledczego może określić odstępstwo od zasad określonych § 2.
+
+§ 4. W zakładzie karnym typu zamkniętego dyrektor zakładu karnego lub aresztu śledczego może określić odstępstwo od zasady określonej § 2 pkt 1 wypadku zastosowania art. 90 pkt 1.
+
+§ 5. Kontrolę, o której mowa § 1, mogą przeprowadzać funkcjonariusze Służby Więziennej, a kontrolę, o której mowa § 1 pkt 3–8, również pracownicy Służby Więziennej, zwani dalej „osobami kontrolującymi”.
+
+§ 6. Kontrola, o której mowa § 1, może być przeprowadzona każdym czasie.
+
+§ 7. Osoba kontrolująca przeprowadza kontrolę, o której mowa § 1, sposób możliwie najmniej naruszający dobra osobiste osoby kontrolowanej.
+
+§ 8. W razie konieczności podczas kontroli, o której mowa § 1, dopuszczalne jest naruszenie plomb gwarancyjnych oraz uszkodzenie kontrolowanych przedmiotów niezbędnym zakresie.
+
+§ 9. Przed przystąpieniem do kontroli, o której mowa § 1, osoba kontrolująca informuje osobę kontrolowaną o rozpoczęciu kontroli i jej rodzaju, chyba że kontrolę przeprowadza się podczas nieobecności osoby kontrolowanej, a przypadku kontroli, o której mowa § 1 pkt 7, informuje się również podmiot zatrudniający.
+
+§ 10. Osoba kontrolowana ma obowiązek poddania się kontroli pobieżnej lub kontroli osobistej oraz umożliwienia i nieutrudniania przeprowadzenia innych kontroli, o których mowa § 1.
+
+§ 11. Podczas kontroli, o której mowa § 1 pkt 7, ma prawo być obecny przedstawiciel podmiotu zatrudniającego.
+
+§ 12. Protokół sporządza się z przebiegu:
+
+- **1)** kontroli miejsca pracy skazanych lub tymczasowo aresztowanych poza terenem zakładu karnego lub aresztu śledczego;
+- **2)** kontroli generalnej;
+- **3)** kontroli osobistej lub innej kontroli, o której mowa § 1, wypadku gdy trakcie kontroli ujawniono przedmiot niedozwolony lub substancję psychoaktywną;
+- **4)** pozostałych wypadkach, jeżeli osoba kontrolująca uzna to za potrzebne.
+
+§ 13. Protokół kontroli miejsca pracy skazanych lub tymczasowo aresztowanych poza terenem zakładu karnego lub aresztu śledczego zawiera:
+
+- **1)** wskazanie podstawy faktycznej i prawnej przeprowadzenia kontroli;
+- **2)** datę i godzinę rozpoczęcia i zakończenia kontroli;
+- **3)** numer służbowy funkcjonariusza Służby Więziennej oraz numer legitymacji służbowej pracownika Służby Więziennej przeprowadzającego kontrolę lub obecnego podczas kontroli;
+- **4)** liczbę osób kontrolowanych obecnych miejscu pracy trakcie kontroli;
+- **5)** wskazanie adresu kontrolowanego miejsca pracy;
+- **6)** imię i nazwisko przedstawiciela podmiotu zatrudniającego;
+- **7)** określenie obiektów, pomieszczeń, szafek i schowków, a także narzędzi, maszyn, urządzeń, pojazdów i innych przedmiotów, które poddano kontroli;
+- **8)** opis przebiegu kontroli, a wypadku naruszenia plomb gwarancyjnych lub uszkodzenia kontrolowanych przedmiotów wskazanie tych naruszeń lub uszkodzeń;
+- **9)** wyniki kontroli;
+- **10)** podpis osoby kontrolującej.
+
+§ 14. Protokół kontroli generalnej zawiera:
+
+- **1)** wskazanie podstawy faktycznej i prawnej przeprowadzenia kontroli;
+- **2)** datę i godzinę rozpoczęcia i zakończenia kontroli;
+- **3)** liczbę osób kontrolowanych;
+- **4)** wskazanie zakładu karnego, aresztu śledczego lub miejsc, których przeprowadzono kontrolę;
+- **5)** opis przebiegu kontroli, a wypadku naruszenia plomb gwarancyjnych lub uszkodzenia kontrolowanych przedmiotów wskazanie tych naruszeń lub uszkodzeń;
+- **6)** wyniki kontroli;
+- **7)** podpis funkcjonariusza Służby Więziennej kierującego kontrolą.
+- **1)** wskazanie podstawy faktycznej i prawnej przeprowadzenia kontroli;
+- **2)** datę i godzinę rozpoczęcia i zakończenia kontroli;
+- **3)** imię i nazwisko osoby kontrolowanej oraz imię jej ojca lub numer celi, numer pomieszczenia lub jego nazwę albo nazwę paczki, przedmiotu lub bagażu albo numer rejestracyjny pojazdu;
+- **4)** numer służbowy funkcjonariusza Służby Więziennej oraz numer legitymacji służbowej pracownika Służby Więziennej przeprowadzającego kontrolę lub obecnego podczas kontroli;
+- **5)** opis przebiegu kontroli, a wypadku naruszenia plomb gwarancyjnych lub uszkodzenia kontrolowanych przedmiotów wskazanie tych naruszeń lub uszkodzeń;
+- **6)** wyniki kontroli, a wypadku ujawnienia przedmiotu niedozwolonego lub substancji psychoaktywnej wskazanie ujawnionych przedmiotów lub substancji, ich opis oraz wskazanie miejsca ich ujawnienia;
+- **7)** informację o pouczeniu osoby kontrolowanej o jej prawach;
+- **8)** podpis osoby kontrolującej.
+
+§ 16. Znalezione podczas kontroli przedmioty niedozwolone lub substancje psychoaktywne podlegają zatrzymaniu. Przedmioty, których właściciela ustalono, przekazuje się do depozytu albo przesyła się na koszt osoby kontrolowanej do wskazanej przez niego osoby, instytucji lub organizacji. W uzasadnionym wypadku przedmioty te mogą być przesłane na koszt zakładu karnego lub aresztu śledczego. Przedmioty, których właściciela nie ustalono, podlegają zniszczeniu, zaś środki pieniężne oraz przedmioty wartościowe przekazuje się na rzecz Skarbu Państwa albo na pomoc postpenitencjarną. Przepisu nie stosuje się do przedmiotów, których posiadanie jest niezgodne z prawem, lub przedmiotów mogących stanowić dowód czynu zabronionego; takim wypadku należy te przedmioty zabezpieczyć oraz zawiadomić właściwe organy o podejrzeniu popełnienia czynu zabronionego. Decyzję sprawie zniszczenia przedmiotów podejmuje dyrektor zakładu karnego lub aresztu śledczego. Z czynności zniszczenia sporządza się protokół.
+
+§ 17. O znalezieniu u tymczasowo aresztowanego lub celi, której on przebywa, przedmiotów, które mogą utrudniać prawidłowy tok postępowania karnego, zawiadamia się organ dysponujący. Na żądanie organu dysponującego przedmioty przekazuje się temu organowi.
+
+**Art. 223g.**
+
+§ 1. Kontrola pobieżna polega na powierzchownym sprawdzeniu odzieży, obuwia, przedmiotów znajdujących się na ciele osoby kontrolowanej lub przez nią posiadanych.
+
+§ 2. Kontrolę pobieżną przeprowadzają funkcjonariusze Służby Więziennej tej samej płci co osoba kontrolowana.
+
+§ 3. W wypadku gdy kontrola pobieżna musi być przeprowadzona bezzwłocznie ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego, może ją przeprowadzić osoba innej płci niż osoba kontrolowana.
+
+§ 4. Kontroli pobieżnej dokonuje się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych.
+
+§ 5. W wypadku ujawnienia podczas kontroli pobieżnej przedmiotu niedozwolonego lub substancji psychoaktywnej przeprowadza się kontrolę osobistą.
+
+**Art. 223h.**
+
+§ 1. Kontrola osobista polega na sprawdzeniu:
+
+- **1)** osoby kontrolowanej, jej odzieży, obuwia oraz przedmiotów, które znajdują się na jej ciele, bez odsłaniania przykrytej odzieżą powierzchni ciała oraz
+- **2)** osoby kontrolowanej, jej odzieży, obuwia oraz przedmiotów, które znajdują się na jej ciele, z odsłonięciem przykrytych odzieżą powierzchni ciała zakresie niezbędnym do odebrania przedmiotu niedozwolonego lub substancji psychoaktywnej, oraz
+- **3)** jamy ustnej, nosa, uszu, włosów oraz miejsc trudno dostępnych osoby kontrolowanej, oraz
+- **4)** miejsc intymnych osoby kontrolowanej.
+
+§ 2. Kontrolę osobistą przeprowadzają funkcjonariusze Służby Więziennej tej samej płci co osoba kontrolowana podczas nieobecności osób postronnych i osób odmiennej płci oraz miejscu niedostępnym czasie dokonywania kontroli dla osób postronnych.
+
+§ 3. W wypadku gdy kontrola osobista musi być przeprowadzona bezzwłocznie, trakcie realizacji zadań poza terenem zakładu karnego lub aresztu śledczego, ze względu na okoliczności mogące stanowić zagrożenie życia lub zdrowia ludzkiego, może ją przeprowadzić osoba innej płci niż osoba kontrolowana. nych stanem zdrowia osoby kontrolowanej lub koniecznością wykonania czynności zastrzeżonych dla osoby wykonującej zawód medyczny kontroli osobistej uczestniczy osoba wykonująca zawód medyczny.
+
+§ 5. Podczas kontroli, o której mowa § 1 pkt 2–4, osoba kontrolowana powinna być częściowo ubrana. Funkcjonariusz Służby Więziennej pierwszej kolejności sprawdza część odzieży, a przed sprawdzeniem pozostałej części odzieży umożliwia osobie kontrolowanej włożenie odzieży już sprawdzonej.
+
+§ 6. Kontroli, o której mowa § 1 pkt 1–3, dokonuje się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych, sprawdzenia biochemicznego lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych, a kontroli, o której mowa § 1 pkt 4, dokonuje się poprzez oględziny ciała.
+
+§ 7. Osobie kontrolowanej przysługuje skarga do właściwego sądu penitencjarnego terminie 7 dni od dnia przeprowadzenia kontroli osobistej celu zbadania zasadności, legalności oraz prawidłowości jej przeprowadzenia.
+
+§ 8. Skargę składa się na piśmie za pośrednictwem dyrektora zakładu karnego lub aresztu śledczego.
+
+§ 9. Po rozpoznaniu skargi sąd orzeka o jej nieuwzględnieniu lub stwierdzeniu bezzasadności, nielegalności lub nieprawidłowości przeprowadzenia kontroli osobistej.
+
+§ 10. W wypadku stwierdzenia bezzasadności, nielegalności lub nieprawidłowości przeprowadzenia kontroli osobistej sąd penitencjarny zawiadamia o tym prokuratora oraz właściwego dyrektora okręgowego Służby Więziennej.
+
+§ 11. Funkcjonariusz Służby Więziennej po poinformowaniu osoby kontrolowanej o rozpoczęciu kontroli osobistej podaje jej podstawę faktyczną i prawną przeprowadzenia kontroli oraz poucza osobę kontrolowaną o prawie, terminie i sposobie złożenia skargi.
+
+**Art. 223i.**
+
+§ 1. Kontrola cel i innych pomieszczeń oddziałach mieszkalnych oraz kontrola pomieszczeń poza oddziałami mieszkalnymi polega na sprawdzeniu tych miejsc oraz znajdujących się nich przedmiotów, tym również za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych.
+
+§ 2. Kontrolę, o której mowa § 1, przeprowadza się podczas nieobecności osoby kontrolowanej.
+
+**Art. 223j.**
+
+§ 1. Kontrola paczek, przedmiotów i bagaży polega na ich sprawdzeniu wzrokowo, manualnie, za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych.
+
+§ 2. Kontrolę paczek, przedmiotów i bagaży przeprowadza się miarę możliwości sposób niepowodujący ich uszkodzenia.
+
+§ 3. Manualne sprawdzenie zawartości paczki przeprowadza się z udziałem osoby kontrolowanej.
+
+**Art. 223k.** Kontrola pojazdów, którymi są przewożeni skazani lub tymczasowo aresztowani do i z miejsca pracy poza zakładem karnym lub aresztem śledczym, polega na ich sprawdzeniu oraz na sprawdzeniu ładunków tych pojazdów, za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych.
+
+**Art. 223l.**
+
+§ 1. Kontrola miejsca pracy skazanych lub tymczasowo aresztowanych poza terenem zakładu karnego lub aresztu śledczego obejmuje kontrolę obiektów, pomieszczeń, szafek i schowków, a także narzędzi, maszyn, urządzeń, pojazdów i innych przedmiotów, których przebywa, których używa lub które wykorzystuje osoba kontrolowana, wykonując pracę.
+
+§ 2. Osoba kontrolująca ma prawo do swobodnego wstępu do obiektów i pomieszczeń podlegających kontroli.
+
+§ 3. Kontroli, o której mowa § 1, dokonuje się wzrokowo i manualnie lub za pomocą środków technicznych przeznaczonych do wykrywania przedmiotów niedozwolonych lub substancji psychoaktywnych lub z wykorzystaniem psa służbowego wytresowanego do wyszukiwania przedmiotów niedozwolonych lub substancji psychoaktywnych.
+
+**Art. 223m.**
+
+§ 1. Kontrola generalna polega na przeprowadzeniu jednym czasie kontroli osobistej wszystkich osób kontrolowanych na terenie danego zakładu karnego lub aresztu śledczego, kontroli ich cel, innych pomieszczeń oddziałach mieszkalnych oraz kontroli pomieszczeń poza oddziałami mieszkalnymi, których czasowo mogą przebywać osoby kontrolowane.
+
+§ 2. Kontrolę generalną można ograniczyć do wyznaczonego rejonu, pawilonu, pomieszczenia oddziału mieszkalnego lub innego pomieszczenia poza oddziałami mieszkalnymi. Kontrolą generalną kieruje dyrektor zakładu karnego lub aresztu śledczego lub wyznaczony przez niego funkcjonariusz Służby Więziennej.
+
+**Art. 223n.** Minister Sprawiedliwości określi, drodze rozporządzenia, szczegółowy sposób przeprowadzania kontroli, o których mowa art. 223f § 1, oraz wzory protokołów kontroli, o których mowa art. 223f § 12, mając na względzie konieczność zapewnienia sprawności przeprowadzanej kontroli oraz prawidłowego jej dokumentowania.”;
+
+**Art. 3.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) art. 151 § 2 otrzymuje brzmienie: „§ 2. Przewodniczący może zarządzić przeprowadzenie posiedzenia jawnego przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie na odległość. W takim przypadku uczestnicy postępowania mogą brać udział posiedzeniu sądowym, gdy przebywają budynku innego sądu albo zakładzie karnym lub areszcie śledczym, gdy są pozbawieni wolności, i dokonywać tam czynności procesowych, a przebieg czynności procesowych transmituje się z sali sądowej sądu prowadzącego postępowanie do miejsca pobytu uczestników postępowania oraz z miejsca pobytu uczestników postępowania do sali sądowej sądu prowadzącego postępowanie. W miejscu przebywania osoby pozbawionej wolności czynnościach procesowych bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego, pełnomocnik, jeżeli został ustanowiony, oraz tłumacz, jeżeli został powołany.”.
+
+**Art. 4.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2021 r. poz. 1882, z późn. zm. ) art. 15 ust. 1 pkt 2a otrzymuje brzmienie: „2a) zatrzymywania osób pozbawionych wolności, które:
+
+**Art. 5.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2022 r. poz. 1061 i 1115) art. 11:
+
+**Art. 6.** W ustawie z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2021 r. poz. 276) art. 5a:
+
+**Art. 7.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2022 r. poz. 1138 i 1726) wprowadza się następujące zmiany:
+
+**Art. 8.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2022 r. poz. 1375) wprowadza się następujące zmiany:
+
+**Art. 10.** W ustawie z dnia 30 sierpnia 2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2022 r. poz. 329, 655 i 1457) art. 94 § 2 otrzymuje brzmienie: „§ 2. Przewodniczący może zarządzić przeprowadzenie posiedzenia jawnego przy użyciu urządzeń technicznych umożliwiających jego przeprowadzenie na odległość. W takim przypadku uczestnicy mogą brać udział posiedzeniu sądowym, gdy przebywają budynku innego sądu albo zakładzie karnym lub areszcie śledczym, gdy są pozbawieni wolności, i tam dokonywać czynności procesowych, a przebieg czynności procesowych transmituje się z sali sądowej sądu prowadzącego postępowanie do miejsca pobytu uczestników postępowania oraz z miejsca pobytu uczestników postępowania do sali sądowej sądu prowadzącego postępowanie. W miejscu przebywania osoby pozbawionej wolności czynnościach procesowych bierze udział przedstawiciel administracji zakładu karnego lub aresztu śledczego oraz może wziąć udział pełnomocnik, jeżeli został ustanowiony, i tłumacz, jeżeli osoba pozbawiona wolności nie włada dostatecznie językiem polskim.”.
+
+**Art. 11.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2021 r. poz. 1285, z późn. zm. ) art. 12a otrzymuje brzmienie: „Art. 12a. Przepisów ustawy, z wyłączeniem przepisów określających zasady i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, przepisów określających kolejność udzielania świadczeń opieki zdrowotnej szpitalach, świadczeń specjalistycznych ambulatoryjnej opiece zdrowotnej oraz stacjonarnych i całodobowych świadczeń zdrowotnych innych niż szpitalne oraz przepisów określających prawo do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, nie stosuje się wobec osób, którym świadczenia zdrowotne są udzielane bezpłatnie, bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego, na podstawie art. 102 pkt 1 i art. 115 § 1 ustawy z dnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. z 2021 r. poz. 53, z późn. zm. ).”.
+
+**Art. 12.** W ustawie z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. z 2020 r. poz. 2050, z 2021 r. poz. 2469 oraz z 2022 r. poz. 763, 764, 1700 i 1812) art. 70 po ust. 4 dodaje się ust. 4a brzmieniu: „4a. W razie skazania sprawcy za przestępstwo określone art. 53 ust. 1, 1a lub 2, art. 55 ust. 1, 2 lub 3, art. 56 ust. 1, 2 lub 3, art. 58 ust. 1 lub 2, art. 59 ust. 1, 2 lub 3, art. 61, art. 62 ust. 1 lub 2, art. 62b ust. 2, art. 63 ust. 1, 2 lub 3 sąd orzeka świadczenie pieniężne wymienione art. 39 pkt 7 Kodeksu karnego na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej wysokości co najmniej 1000 złotych, do wysokości 60 000 złotych.”.
+
+**Art. 13.** W ustawie z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2021 r. poz. 1064, 1728 i 2448 oraz z 2022 r. poz. 655 i 1115) wprowadza się następujące zmiany:
+
+**Art. 19b.**
+
+1. Dyrektor zakładu karnego lub aresztu śledczego wskazuje imiennie funkcjonariuszy lub pracowników uprawnionych do przetwarzania informacji uzyskanych wyniku stosowania czynności profilaktycznych, szczególności ich sprawdzenia, analizy i klasyfikowania, zwanych dalej „osobami wyznaczonymi”.
+
+2. Funkcjonariusze i pracownicy, którzy uzyskali informacje wyniku stosowania czynności profilaktycznych, przekazują je niezwłocznie dyrektorowi zakładu karnego lub aresztu śledczego lub osobie wyznaczonej.
+
+3. Osoba wyznaczona po sprawdzeniu i analizie uzyskanej informacji klasyfikuje ją jako:
+
+- **1)** istotną dla ochrony społeczeństwa przed przestępczością lub dla zachowania porządku lub bezpieczeństwa zakładu karnego, aresztu śledczego lub konwoju;
+- **2)** mogącą być istotną dla ochrony społeczeństwa przed przestępczością lub dla zachowania porządku lub bezpieczeństwa zakładu karnego, aresztu śledczego lub konwoju;
+- **3)** nieistotną dla ochrony społeczeństwa przed przestępczością lub dla zachowania porządku lub bezpieczeństwa zakładu karnego, aresztu śledczego lub konwoju.
+
+4. Informację, o której mowa ust. 3 pkt 1, osoba wyznaczona niezwłocznie przekazuje dyrektorowi zakładu karnego lub aresztu śledczego celem podjęcia dalszych działań.
+
+5. Informację, o której mowa ust. 3 pkt 2, osoba wyznaczona poddaje dalszej analizie, a jej wyniki przekazuje dyrektorowi zakładu karnego lub aresztu śledczego celem służbowego wykorzystania.
+
+6. O uznaniu informacji za nieistotną dla ochrony społeczeństwa przed przestępczością lub dla zachowania porządku lub bezpieczeństwa zakładu karnego, aresztu śledczego lub konwoju osoba wyznaczona informuje dyrektora zakładu karnego lub aresztu śledczego, podając przyczyny takiej klasyfikacji.”.
+
+**Art. 14.** W ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2021 r. poz. 2057) art. 16 ust. 7 otrzymuje brzmienie: „7. Wierzyciel będący sądem przekazuje do biura informacje gospodarcze dotyczące zobowiązanego do uiszczenia grzywny, również orzeczonej jako kara zastępcza, nawiązki na rzecz Skarbu Państwa, kwoty pieniężnej stanowiącej przedmiot przepadku, nawiązki lub świadczenia pieniężnego orzeczonych na rzecz Funduszu Pomocy Pokrzywdzonym oraz Pomocy Postpenitencjarnej, kosztów sądowych lub pieniężnej kary porządkowej na podstawie prawomocnego orzeczenia sądowego wydanego sprawie o przestępstwo lub wykroczenie, który nie uiścił ich terminach określonych art. 44 § 1 lub art. 206 § 1 Kodeksu karnego wykonawczego, na zasadach określonych Kodeksie karnym wykonawczym.”. niniejszej ustawy.
+
+**Art. 16.** Czynności procesowe, tym czynności organów postępowania wykonawczego, dokonane przed dniem wejścia życie niniejszej ustawy są skuteczne, jeżeli dokonano ich z zachowaniem przepisów dotychczasowych.
+
+**Art. 17.** Do postępowań, tym postępowań wykonawczych, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy ustaw zmienianych art. 1, art. 4, art. 5 i art. 8 brzmieniu nadanym niniejszą ustawą, jeżeli przepisy poniższe nie stanowią inaczej.
+
+**Art. 18.** Jeżeli skazany dowiedział się o zdarzeniu będącym podstawą skargi, o której mowa art. 6 § 2 ustawy zmienianej art. 1, przed dniem wejścia życie art. 1 pkt 1 lit. b, termin do złożenia skargi rozpoczyna bieg od dnia wejścia życie art. 1 pkt 1 lit. b.
+
+**Art. 19.** Wnioski wskazane art. 11 § 1a ustawy zmienianej art. 1, złożone przed dniem wejścia życie niniejszej ustawy, nieprzekazane do dnia jej wejścia życie przesyła się niezwłocznie, a jeżeli skazany przebywa zakładzie karnym lub areszcie śledczym nie później niż terminie 7 dni od dnia wejścia życie niniejszej ustawy.
+
+**Art. 20.** Wnioski o udzielenie skazanemu zezwolenia na odbycie kary pozbawienia wolności systemie dozoru elektronicznego złożone przed dniem 1 stycznia 2023 r. i nierozpoznane do dnia 1 stycznia 2023 r. podlegają rozpoznaniu według przepisów dotychczasowych.
+
+**Art. 21.** W terminie 30 dni od dnia wejścia życie niniejszej ustawy skazanych przebywających zakładach karnych lub aresztach śledczych informuje się o odpowiedzialności karnej i odpowiedzialności dyscyplinarnej, o której mowa art. 79b § 4 ustawy zmienianej art. 1.
+
+**Art. 22.**
+
+1. W terminie 30 dni od dnia wejścia życie art. 1 pkt 38 i 80 dyrektor zakładu karnego lub aresztu śledczego wyda decyzje przedmiocie utrzymania, przedłużenia albo uchylenia decyzji o objęciu skazanego lub tymczasowo aresztowanego szczególną ochroną wydanych przed dniem wejścia życie art. 1 pkt 38 i 80. W przypadku wydania decyzji o utrzymaniu albo przedłużeniu decyzji o objęciu skazanego szczególną ochroną stosuje się przepisy art. 88d lub art. 212ba ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+
+2. Do dnia wydania decyzji, o której mowa ust. 1, nie dłużej jednak niż do upływu 30 dni od dnia wejścia życie art. 1 pkt 38 i 80, decyzje o objęciu skazanego lub tymczasowo aresztowanego szczególną ochroną i decyzje o przedłużeniu jej stosowania, wydane przed dniem wejścia życie art. 1 pkt 38 i 80, pozostają mocy, a szczególna ochrona jest stosowana na podstawie przepisów dotychczasowych.
+
+3. Jeżeli termin, do którego ma trwać ochrona, określony decyzji o objęciu skazanego lub tymczasowo aresztowanego szczególną ochroną albo decyzji o przedłużeniu jej stosowania wydanej przed dniem wejścia życie art. 1 pkt 38 i 80 upływa okresie 30 dni od dnia wejścia życie art. 1 pkt 38 i 80, szczególna ochrona ustaje z upływem terminu określonego tej decyzji.
+
+**Art. 23.** Do skazanych, którzy przed dniem wejścia życie niniejszej ustawy zostali przeniesieni do innego typu zakładu karnego na podstawie art. 89 § 3 i 3a ustawy zmienianej art. 1 brzmieniu dotychczasowym, nie stosuje się terminów i warunków tego przeniesienia wskazanych art. 89 § 3 i 3a ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+
+**Art. 24.** W roku kalendarzowym, którym wchodzi życie art. 1 pkt 41 lit. a i pkt 42 lit. a i b, limity opuszczeń zakładu karnego wskazane art. 91 pkt 4 i art. 92 pkt 4 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą ustala się proporcjonalnie do okresu obowiązywania ustawy tym roku kalendarzowym.
+
+**Art. 25.**
+
+1. Zezwolenia na posiadanie sprzętu audiowizualnego, komputerowego, elektronicznego i elektrycznego wydane na podstawie art. 110a § 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym tracą moc po upływie 30 dni od dnia wejścia życie niniejszej ustawy, chyba że zostaną cofnięte przed upływem tego terminu.
+
+2. Zezwolenia na posiadanie innych przedmiotów niż te, o których mowa ust. 1, wydane na podstawie art. 110a § 2 ustawy zmienianej art. 1 brzmieniu dotychczasowym pozostają mocy. Dyrektor zakładu karnego może każdym czasie cofnąć zezwolenie na posiadanie tych przedmiotów.
+
+**Art. 26.** Przepisu art. 116b § 3 ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą nie stosuje się do weryfikacji wyniku badania przeprowadzonego przed dniem wejścia życie niniejszej ustawy.
+
+**Art. 27.** Zezwolenia wskazane art. 138 § 1 pkt 12 ustawy zmienianej art. 1 brzmieniu dotychczasowym, przyznane przed dniem wejścia życie niniejszej ustawy, tracą moc po upływie 3 miesięcy od dnia wejścia życie niniejszej ustawy, chyba że okres, na który zostały przyznane, upłynął wcześniej. ustawy zmienianej art. 1 stosuje się przepisy dotychczasowe. 2. Do nagrody wskazanej art. 138 § 1 pkt 12 ustawy zmienianej art. 1 brzmieniu dotychczasowym, stosowanej jako ulga, przepis art. 27 stosuje się odpowiednio.
+
+**Art. 29.**
+
+1. Z dniem wejścia życie niniejszej ustawy tracą moc wydane przed dniem jej wejścia życie zarządzenia o zgodzie na widzenie, z wyłączeniem zarządzeń o zgodzie na jednorazowe widzenie.
+
+2. Z dniem wejścia życie art. 1 pkt 85 lit. a–e tracą moc wydane przed dniem wejścia życie tych przepisów zarządzenia o zgodzie na korzystanie z aparatu telefonicznego, z wyłączeniem zarządzeń o zgodzie na korzystanie z aparatu telefonicznego do kontaktu z obrońcą, pełnomocnikiem będącym adwokatem lub radcą prawnym oraz przedstawicielem niebędącym adwokatem ani radcą prawnym, który został zaaprobowany przez Przewodniczącego Izby Europejskiego Trybunału Praw Człowieka do reprezentowania tymczasowo aresztowanego przed tym Trybunałem.
+
+**Art. 30.** Do kontroli skazanych, tymczasowo aresztowanych oraz sprawców umieszczonych zakładach psychiatrycznych, o których mowa art. 200 § 2 pkt 2 i 3 ustawy zmienianej art. 1, wszczętych i niezakończonych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 31.** Do poleceń doprowadzenia skazanego wydanych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
+
+**Art. 32.**
+
+1. Do skazanego, który został wezwany do stawienia się wyznaczonym terminie areszcie śledczym, stosuje się przepisy dotychczasowe.
+
+2. Jeżeli skazany, o którym mowa ust. 1, nie stawił się wyznaczonym terminie areszcie śledczym, stosuje się do niego przepisy ustawy zmienianej art. 1 brzmieniu nadanym niniejszą ustawą.
+
+**Art. 33.**
+
+1. List gończy wydany przed dniem wejścia życie niniejszej ustawy, nierozpowszechniony przez opublikowanie za pomocą Internetu, podlega rozpowszechnieniu ten sposób terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy, chyba że sąd lub prokurator postanowi inaczej.
+
+2. Postanowienie o poszukiwaniu skazanego listem gończym wydane przed dniem wejścia życie niniejszej ustawy pozostaje mocy do czasu wydania postanowienia o odwołaniu poszukiwania skazanego listem gończym.
+
+3. W terminie 3 miesięcy od dnia wejścia życie niniejszej ustawy sąd wyda postanowienie o poszukiwaniu listem gończym skazanego wskazanego art. 14a § 1 ustawy zmienianej art. 1, chyba że postanowienie takie zostało wydane na podstawie przepisów dotychczasowych.
+
+**Art. 34.**
+
+1. Dyrektor zakładu karnego lub aresztu śledczego dostosuje porządek wewnętrzny zakładu karnego lub aresztu śledczego do zmian wprowadzonych niniejszą ustawą terminie do dnia wejścia życie niniejszej ustawy.
+
+2. Dyrektor zakładu karnego lub aresztu śledczego dostosuje porządek wewnętrzny zakładu karnego lub aresztu śledczego do zmian wprowadzonych art. 1 pkt 2, 48 lit. a–c i pkt 85 lit. a–e terminie do dnia wejścia życie tych przepisów.
+
+**Art. 35.** Tymczasowe aresztowanie zastosowane lub przedłużone przed dniem wejścia życie niniejszej ustawy i trwające dniu jej wejścia życie, stosowane:
+
+**Art. 36.** Dotychczasowe przepisy wykonawcze wydane na podstawie:
+

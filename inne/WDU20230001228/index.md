@@ -1,0 +1,374 @@
+---
+title: Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 25 maja 2023 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynku mleka i przetworów mlecznych
+address: WDU20230001228
+eli: DU/2023/1228
+publisher: DU
+year: 2023
+pos: 1228
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 czerwca 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1228 |
+| ISAP | WDU20230001228 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2023-05-25 |
+| Data wydania | 2023-06-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001228) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1228/text.pdf) |
+
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 25 maja 2023 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji rynku mleka i przetworów mlecznych
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2022 r. poz. 381), z uwzględnieniem zmian wprowadzonych ustawą z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412) oraz zmian wynikających z przepisów ogłoszonych przed dniem 23 maja 2023 r.
+2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 169 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023–2027 (Dz. U. poz. 412), który stanowi: „Art. 169. Ustawa wchodzi w życie z dniem 15 marca 2023 r., z wyjątkiem:
+1) art. 145, który wchodzi w życie po upływie 2 miesięcy od dnia ogłoszenia;
+2) art. 135 pkt 3 w zakresie art. 10c ust. 12, który wchodzi w życie z dniem 1 czerwca 2023 r.;
+3) art. 122 pkt 6 lit. b, art. 127 pkt 2, art. 129 pkt 1 i 5, art. 130 pkt 1 oraz art. 142, które wchodzą w życie z dniem 1 stycznia 2024 r.;
+4) art. 56 ust. 8 pkt 2, który wchodzi w życie z dniem 1 stycznia 2025 r.”.
+Marszałek Sejmu: E. Witek
+USTAWA z dnia 20 kwietnia 2004 r.
+o organizacji rynku mleka i przetworów mlecznych
+Art. 56–63. (pominięte)
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa:
+
+**Art. 1a.**
+
+1. Do postępowań w sprawach indywidualnych rozstrzyganych w drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), o ile przepisy niniejszej ustawy nie stanowią inaczej.
+
+2. Jeżeli przepisy ustawy przewidują złożenie wniosku do dyrektora oddziału regionalnego Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, wniosek ten składa się na piśmie.
+
+3. Jeżeli przepisy ustawy przewidują złożenie wniosku do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa w sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, wniosek ten spełnia wymagania dla pisma kierowanego do organów administracji publicznej oraz dla podania, określone w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+
+4. Jeżeli przepisy ustawy przewidują złożenie na piśmie informacji do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa albo do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa, informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone w przepisach ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+
+**Art. 2.** Do realizacji przez Krajowy Ośrodek Wsparcia Rolnictwa zadań wymienionych w przepisach określonych w załączniku, nie stosuje się przepisów o ochronie konkurencji i konsumentów oraz przepisów o zamówieniach publicznych.
+
+**Art. 2a.**
+
+1. Informacje wymienione w art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, w zakresie określonym w rozporządzeniu, o którym mowa w pkt 14 załącznika, przekazuje się w terminie do 15. dnia każdego miesiąca za poprzedni miesiąc do dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa właściwego ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego, na formularzu opracowanym przez Krajowy Ośrodek Wsparcia Rolnictwa, udostępnionym na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa.
+
+2. W zakresie określonym przepisami Unii Europejskiej Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa przekazuje informacje, o których mowa w ust. 1, Komisji Europejskiej.
+
+3. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa prowadzi rejestr pierwszych podmiotów skupujących mleko krowie w rozumieniu art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+4. Rejestr, o którym mowa w ust. 3, zawiera informacje w zakresie określonym w rozporządzeniu, o którym mowa w pkt 14 załącznika, w tym:
+
+- **1)** imię i nazwisko, numer identyfikacji podatkowej (NIP), numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) lub innego dokumentu potwierdzającego tożsamość oraz miejsce zamieszkania i adres albo nazwę, numer identyfikacji podatkowej (NIP), numer Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej (REGON), jeżeli został nadany, oraz siedzibę i adres podmiotu;
+- **2)** numer w rejestrze przedsiębiorców w Krajowym Rejestrze Sądowym albo w Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **3)** ilość mleka dostarczoną każdemu z podmiotów w każdym miesiącu.
+
+5. Rejestr, o którym mowa w ust. 3, prowadzi się w postaci elektronicznej.
+
+6. Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa zamieszcza na stronie internetowej Krajowego Ośrodka Wsparcia Rolnictwa listę podmiotów skupujących, o których mowa w ust. 3, przekazujących informacje, o których mowa w ust. 1. Lista zawiera imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę oraz siedzibę i adres podmiotu skupującego.
+
+7. Podmiot skupujący informuje, na piśmie, Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa o zaprzestaniu wykonywania działalności w zakresie skupu mleka, w terminie 3 dni od dnia zaprzestania wykonywania tej działalności.
+
+**Art. 3.** (uchylony)
+
+#### Rozdział 2 (uchylony)
+
+#### Rozdział 3 Interwencja rynkowa
+
+**Art. 42.**
+
+1. Krajowy Ośrodek Wsparcia Rolnictwa wykonuje zadania i czynności państwa członkowskiego, właściwego organu państwa członkowskiego lub agencji interwencyjnej w zakresie określonym w rozporządzeniach, o których mowa w pkt 3, 8, 11, 12 oraz 14–16 załącznika, w przepisach Unii Europejskiej wydanych w trybie tych rozporządzeń oraz innych przepisach Unii Europejskiej dotyczących Wspólnej Polityki Rolnej w zakresie rynku mleka, chyba że ustawa lub przepisy odrębne stanowią inaczej.
+
+2. Zadania, o których mowa w ust. 1, są wykonywane jako zadania delegowane Krajowemu Ośrodkowi Wsparcia Rolnictwa zgodnie z przepisami o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+**Art. 42a.** (uchylony)
+
+**Art. 42b.** (uchylony)
+
+**Art. 43.**
+
+1. Realizując zadania w zakresie interwencji publicznej określonym w rozporządzeniach, o których mowa w pkt 11, 12 i 15 załącznika, Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa wydaje świadectwa autoryzacji:
+
+- **1)** zakładów produkcyjnych;
+- **2)** chłodni;
+- **3)** magazynów.
+
+2. Wnioski o wydanie świadectw autoryzacji, o których mowa w ust. 1, składa się do Dyrektora Generalnego Krajowego Ośrodka Wsparcia Rolnictwa na piśmie, na formularzach opracowanych przez Agencję i udostępnionych na stronach internetowych Agencji oraz Krajowego Ośrodka Wsparcia Rolnictwa.
+
+3. Wnioski, o których mowa w ust. 2, zawierają:
+
+- **1)** nazwę albo imię i nazwisko wnioskodawcy oraz jego adres;
+- **2)** adres zakładu produkcyjnego, chłodni lub magazynu;
+- **3)** numer identyfikacji podatkowej (NIP) wnioskodawcy oraz numer Krajowego Rejestru Urzędowego Podmiotów Gospodarki Narodowej (REGON), o ile został nadany;
+- **4)** numer identyfikacyjny Powszechnego Elektronicznego Systemu Ewidencji Ludności (numer PESEL) lub innego dokumentu potwierdzającego tożsamość w przypadku osób fizycznych;
+- **5)** numer w ewidencji producentów, o którym mowa w przepisach o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności;
+- **6)** imiona i nazwiska osób uprawnionych do reprezentowania wnioskodawcy;
+- **7)** oznaczenie linii produkcyjnych, w przypadku gdy wniosek dotyczy wydania świadectwa autoryzacji zakładów produkcyjnych, oraz oznaczenie pomieszczeń przechowalniczych, w przypadku wniosku o wydanie świadectwa autoryzacji magazynów lub chłodni;
+- **8)** weterynaryjny numer identyfikacyjny zakładu produkcyjnego.
+
+**Art. 44.** (uchylony)
+
+**Art. 45.** (uchylony)
+
+**Art. 45a.** Dyrektor Generalny Krajowego Ośrodka Wsparcia Rolnictwa w zakresie określonym w rozporządzeniu, o którym mowa w pkt 15 załącznika, wydaje certyfikat jakości masła i odtłuszczonego mleka w proszku przeznaczonych do wykorzystania w ramach mechanizmów Wspólnej Polityki Rolnej w innych państwach członkowskich Unii Europejskiej.
+
+**Art. 45b.** (uchylony)
+
+**Art. 46.** (uchylony)
+
+**Art. 46a.** (uchylony)
+
+**Art. 46b.** (uchylony)
+
+**Art. 47.** (uchylony)
+
+**Art. 48.** (uchylony)
+
+#### Rozdział 3a Uznawanie organizacji producentów i zrzeszeń organizacji producentów oraz organizacji międzybranżowych
+
+**Art. 48a.**
+
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę wnioskodawcy jest organem właściwym w sprawach uznawania organizacji producentów i zatwierdzania ich planu biznesowego, zatwierdzania zmian ich planu biznesowego, uznawania zrzeszeń organizacji producentów oraz organizacji międzybranżowych, w tym międzynarodowych organizacji producentów, międzynarodowych zrzeszeń organizacji producentów oraz międzynarodowych organizacji międzybranżowych, o których mowa w art. 156, art. 161 i art. 163 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+2. Dyrektor oddziału regionalnego Agencji uznaje:
+
+- **1)** organizację producentów, jeżeli:
+    - **a)** jest utworzona co najmniej przez 20 członków, aa) akt założycielski tej organizacji zawiera postanowienia umożliwiające jej członkom, udziałowcom lub akcjonariuszom będącym producentami kontrolę organizacji oraz podejmowanych w ramach tej organizacji decyzji, w tym dotyczące, wyrażonej w procentach, wielkości posiadanych przez nich udziałów lub akcji oraz dopuszczalnej, wyrażonej w procentach, ilości głosów przysługujących im na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków tej organizacji,
+    - **b)** wytwarza i wprowadza do obrotu rocznie nie mniej niż 2 miliony kilogramów mleka lub przetworów mlecznych wyprodukowanych w ramach tej ilości mleka,
+    - **c)** w okresie 12 miesięcy poprzedzających miesiąc złożenia wniosku, o którym mowa w ust. 3, co najmniej 20 członków tej organizacji wytwarzało i wprowadzało do obrotu mleko lub przetwory mleczne,
+    - **d)** cała ilość mleka lub przetworów mlecznych wyprodukowana w gospodarstwach członków tej organizacji jest wprowadzana do obrotu za jej pośrednictwem,
+    - **e)** okres wypowiedzenia członkostwa w tej organizacji, określony w jej akcie założycielskim, jest nie krótszy niż 6 miesięcy,
+    - **f)** spełnia wymagania określone w art. 161 ust. 1 lit. a i d rozporządzenia, o którym mowa w pkt 11 załącznika;
+
+- **2)** zrzeszenie organizacji producentów, jeżeli:
+    - **a)** jest utworzone co najmniej przez 2 uznane organizacje producentów,
+    - **b)** w akcie założycielskim tego zrzeszenia jest określona minimalna ilość mleka lub przetworów mlecznych, wyprodukowanych w gospodarstwach członków organizacji tworzących to zrzeszenie, która jest wprowadzana do obrotu przez organizacje za pośrednictwem utworzonego zrzeszenia,
+    - **c)** okres wypowiedzenia członkostwa w tym zrzeszeniu jest nie krótszy niż 6 miesięcy,
+    - **d)** spełnia wymagania określone w art. 161 ust. 1 lit. a i d rozporządzenia, o którym mowa w pkt 11 załącznika;
+
+- **3)** organizację międzybranżową, jeżeli spełnia ona wymagania określone w art. 163 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+3. Sprawy, o których mowa w ust. 1, są załatwiane w drodze decyzji, na wniosek organizacji producentów, zrzeszenia organizacji producentów albo organizacji międzybranżowej składany do dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę organizacji albo zrzeszenia na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji. Wniosek można składać za pomocą systemu teleinformatycznego Agencji w sposób określony w przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+3a. Wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się w terminie do 60 dni przed zakończeniem danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+3b. W przypadku dokonania zmiany w składzie członkowskim organizacji producentów wniosek w sprawie zatwierdzenia zmian planu biznesowego organizacji producentów składa się do zakończenia danego roku działalności organizacji producentów, którego dotyczy zmiana.
+
+3c. Do wniosku o uznanie organizacji producentów i zatwierdzenie jej planu biznesowego albo o uznanie zrzeszenia organizacji producentów, albo organizacji międzybranżowej dołącza się:
+
+- **1)** kopię aktu założycielskiego organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej sporządzonego zgodnie z wymaganiami określonymi w art. 161 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika, potwierdzoną za zgodność z oryginałem przez osoby upoważnione odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **2)** inne niezbędne dokumenty albo ich kopie, potwierdzające spełnianie przez organizację producentów, zrzeszenie organizacji producentów oraz organizację międzybranżową wymagań określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie ust. 7, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+3d. Do wniosku, o którym mowa w ust. 3a, dołącza się:
+
+- **1)** dokumenty potwierdzające aktualny stan realizacji planu biznesowego albo ich kopie potwierdzone za zgodność z oryginałem przez osobę upoważnioną odpowiednio do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **2)** plan biznesowy zawierający proponowane zmiany; w przypadku gdy ten wniosek został złożony w postaci papierowej, plan biznesowy przesyła się również w postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
+
+3e. Dyrektor oddziału regionalnego Agencji wydaje decyzję o zatwierdzeniu zmian planu biznesowego, jeżeli organizacja producentów spełnia wymagania, o których mowa w ust. 3a, 3b i 3d, oraz proponowane zmiany planu biznesowego umożliwią osiągnięcie celów wybranych przez organizację producentów, o których mowa w przepisach Unii Europejskiej dotyczących uznawania organizacji producentów.
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, współczynniki równoważności określające ilości mleka wykorzystywanego do wyprodukowania podstawowych przetworów mlecznych wprowadzonych do obrotu przez organizacje producentów, w tym organizacje tworzące zrzeszenia, mając na względzie prawidłową ocenę spełnienia przez organizacje producentów lub zrzeszenia organizacji producentów warunków uznania odnoszących się do wprowadzanego do obrotu mleka lub przetworów mlecznych.
+
+7. Minister właściwy do spraw rynków rolnych określi, w drodze rozporządzenia, szczegółowe warunki uznania organizacji producentów i zatwierdzenia jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej, w tym:
+
+- **1)** maksymalny odsetek głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalny odsetek udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji,
+- **2)** szczegółowe wymagania, jakim mają odpowiadać wnioski składane w tych sprawach,
+- **3)** rodzaje i zakres dokumentów potwierdzających spełnianie przez organizacje i zrzeszenia warunków uznania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznania zrzeszenia organizacji producentów i organizacji międzybranżowej mając na względzie prawidłowe funkcjonowanie tych organizacji i zrzeszeń oraz spełnienie wymagań określonych w przepisach Unii Europejskiej oraz ustawy, dotyczących uznawania organizacji producentów i zatwierdzania jej planu biznesowego oraz uznawania zrzeszenia organizacji producentów i organizacji międzybranżowej.
+
+**Art. 48b.**
+
+1. Decyzję w sprawie uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej wydaje się w terminie określonym w:
+
+- **1)** art. 161 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika w przypadku organizacji producentów i zrzeszeń organizacji producentów;
+- **2)** art. 163 ust. 3 lit. a rozporządzenia, o którym mowa w pkt 11 załącznika w przypadku organizacji międzybranżowych.
+
+2. Dyrektor oddziału regionalnego Agencji, o którym mowa w ust. 1, odmawia, w drodze decyzji, uznania:
+
+- **1)** organizacji producentów, jeżeli organizacja ta nie spełnia warunków określonych w art. 161 ust. 1 lit. a lub d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 1 lit. a–e;
+- **2)** zrzeszenia organizacji producentów, jeżeli zrzeszenie to nie spełnia warunków określonych w art. 161 ust. 1 lit. a i d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 2 lit. a–c;
+- **3)** organizacji międzybranżowej, jeżeli organizacja ta nie spełnia warunków określonych w art. 163 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+**Art. 48c.**
+
+1. Uznane organizacje producentów, uznane zrzeszenia organizacji producentów i uznane organizacje międzybranżowe wpisuje się odpowiednio do rejestrów:
+
+- **1)** organizacji producentów;
+- **2)** zrzeszeń organizacji producentów;
+- **3)** organizacji międzybranżowych.
+
+2. Wpis do każdego z rejestrów, o których mowa w ust. 1, następuje na podstawie ostatecznej decyzji o uznaniu organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej.
+
+**Art. 48d.**
+
+1. Rejestry, o których mowa w art. 48c ust. 1, prowadzi w postaci elektronicznej dyrektor oddziału regionalnego Agencji.
+
+2. Rejestry, o których mowa w art. 48c ust. 1, zawierają:
+
+- **1)** numer w rejestrze nadany organizacji producentów albo zrzeszeniu organizacji producentów, albo organizacji międzybranżowej;
+- **2)** nazwę, siedzibę i adres organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **3)** imiona i nazwiska osób upoważnionych do reprezentowania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **4)** określenie rodzaju wykonywanej działalności;
+- **5)** datę wpisu do rejestru organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **6)** datę i numer decyzji o uznaniu organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **7)** listę co najmniej:
+    - **a)** 20 członków organizacji producentów, zawierającą ich imiona, nazwiska i adresy, albo
+    - **b)** 2 organizacji tworzących zrzeszenie organizacji producentów, zawierającą ich nazwy, siedziby i adresy;
+
+- **8)** datę i numer decyzji o cofnięciu uznania organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **9)** datę wykreślenia z rejestru organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej;
+- **10)** ilość mleka lub przetworów mlecznych wytwarzanych rocznie i wprowadzanych do obrotu przez organizację producentów albo zrzeszenie organizacji producentów.
+
+3. Rejestry, o których mowa w art. 48c ust. 1, są jawne i udostępniane na stronie internetowej Agencji, z wyłączeniem danych, o których mowa w ust. 2 pkt 7 lit. a.
+
+4. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa informuje dyrektora oddziału regionalnego Agencji, o którym mowa w ust. 1, na formularzu opracowanym przez Agencję, o zmianie danych zawartych w rejestrach, o których mowa w art. 48c ust. 1, w terminie 14 dni od dnia zaistnienia tych zmian.
+
+5. W przypadku zmiany danych, o których mowa w ust. 2 pkt 2 lub 3, uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, albo uznana organizacja międzybranżowa dostarcza, wraz z informacją, o której mowa w ust. 4, dokumenty potwierdzające zaistniałe zmiany.
+
+6. (uchylony)
+
+7. Dyrektor oddziału regionalnego Agencji gromadzi i przechowuje dokumenty stanowiące podstawę wpisu do rejestrów, o których mowa w art. 48c ust. 1, i inne dokumenty składane przez uznane organizacje producentów, uznane zrzeszenia organizacji producentów i uznane organizacje międzybranżowe w sposób zapewniający ochronę tych dokumentów oraz zabezpieczający je przed utratą i nieuprawnionym dostępem.
+
+**Art. 48e.**
+
+1. W przypadku gdy uznana organizacja producentów nie spełnia warunków określonych w art. 161 ust. 1 lit. a lub d rozporządzenia, o którym mowa w pkt 11 załącznika, lub w art. 48a ust. 2 pkt 1 lit. aa lub e, lub warunku określonego w przepisach wydanych na podstawie art. 48a ust. 7 dotyczącego maksymalnego odsetka głosów przysługujących członkom, udziałowcom lub akcjonariuszom będącym producentami na zgromadzeniu wspólników, walnym zgromadzeniu albo walnym zebraniu członków organizacji producentów oraz maksymalnego odsetka udziałów lub akcji, jakie mogą posiadać ci udziałowcy lub akcjonariusze w tej organizacji, dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów wzywa organizację producentów na piśmie do usunięcia naruszeń oraz, biorąc pod uwagę ich rodzaj, określa termin ich usunięcia, nie dłuższy niż 12 miesięcy, licząc od początku roku działalności organizacji producentów następującego po roku, w którym wezwano organizację producentów do usunięcia tych naruszeń.
+
+2. Organizacja producentów w terminie wyznaczonym w wezwaniu, o którym mowa w ust. 1, informuje, na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji, o usunięciu stwierdzonych naruszeń i przedkłada dokumenty potwierdzające usunięcie tych naruszeń.
+
+3. (uchylony)
+
+4. Dyrektor oddziału regionalnego Agencji cofa, w drodze decyzji, uznanie:
+
+- **1)** organizacji producentów, jeżeli organizacja ta:
+    - **a)** mimo wezwania, o którym mowa w ust. 1, w terminie określonym w tym wezwaniu, nie usunęła stwierdzonych naruszeń albo
+    - **b)** przestała spełniać co najmniej jeden z warunków uznania określonych w art. 48a ust. 2 pkt 1 lit. a, b lub d;
+
+- **2)** zrzeszeniu organizacji producentów, jeżeli zrzeszenie to przestało spełniać co najmniej jeden z warunków uznania określonych w art. 48a ust. 2 pkt 2;
+- **3)** organizacji międzybranżowej, jeżeli organizacja ta przestała spełniać co najmniej jeden z warunków uznania określonych w art. 163 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+5. Dyrektor oddziału regionalnego Agencji wykreśla organizację producentów albo zrzeszenie organizacji producentów, albo organizację międzybranżową z rejestrów, o których mowa w art. 48c ust. 1, z dniem, w którym decyzja o cofnięciu uznania tych organizacji albo tego zrzeszenia stała się ostateczna.
+
+6. Organizacja producentów albo zrzeszenie organizacji producentów, albo organizacja międzybranżowa może ponownie wystąpić z wnioskiem o uznanie po upływie 6 miesięcy od dnia, w którym decyzja o cofnięciu uznania tych organizacji albo tego zrzeszenia stała się ostateczna.
+
+7. Przepisu ust. 4 nie stosuje się, jeżeli naruszenie lub niewykonanie obowiązku przez organizację producentów albo zrzeszenie organizacji producentów, albo organizację międzybranżową nastąpiło w wyniku działania siły wyższej lub z przyczyn nieleżących po stronie tych organizacji albo tego zrzeszenia.
+
+**Art. 48f.** Dyrektor oddziału regionalnego Agencji:
+
+**Art. 48g.**
+
+1. Dyrektor oddziału regionalnego Agencji jest organem właściwym w sprawach przyjmowania powiadomień określonych w art. 149 ust. 2 lit. f rozporządzenia, o którym mowa w pkt 11 załącznika, oraz powiadomień określonych w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika w zakresie i na zasadach określonych w tych rozporządzeniach.
+
+2. Dyrektor oddziału regionalnego Agencji, o którym mowa w ust. 1, przekazuje Prezesowi Agencji informacje, o których mowa w ust. 1, oraz informacje określone w:
+
+- **1)** art. 161 ust. 3 lit. d i art. 163 ust. 3 lit. e rozporządzenia, o którym mowa w pkt 11 załącznika, w zakresie i na zasadach określonych w tym rozporządzeniu, oraz w art. 1 rozporządzenia, o którym mowa w pkt 9 załącznika;
+- **2)** art. 149 ust. 8 rozporządzenia, o którym mowa w pkt 11 załącznika, oraz art. 3 rozporządzenia, o którym mowa w pkt 9 załącznika.
+
+3. Informacje, o których mowa w ust. 2, są przekazywane na formularzu opracowanym przez Agencję, udostępnionym na stronie internetowej Agencji.
+
+4. Informacje, o których mowa w ust. 2, Prezes Agencji przekazuje Komisji Europejskiej oraz ministrowi właściwemu do spraw rynków rolnych.
+
+**Art. 48h.**
+
+1. Minister właściwy do spraw rynków rolnych dokonuje oceny wniosku, o którym mowa w art. 164 ust. 1 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+2. Minister właściwy do spraw rynków rolnych może określić, w drodze rozporządzenia, poziom reprezentatywności, o którym mowa w art. 164 ust. 3 akapit drugi rozporządzenia, o którym mowa w pkt 11 załącznika, mając na względzie zapewnienie właściwego funkcjonowania porozumień, decyzji lub praktyk uzgodnionych w ramach uznanej organizacji producentów lub ich zrzeszenia rozszerzonych na producentów niebędących członkami tych organizacji oraz ochrony interesów podmiotów działających na rynku mleka i przetworów mlecznych.
+
+3. W przypadku stwierdzenia spełniania warunków określonych w art. 164 rozporządzenia, o którym mowa w pkt 11 załącznika, oraz w przepisach wydanych na podstawie ust. 2, minister właściwy do spraw rynków rolnych wprowadza, w drodze rozporządzenia, porozumienia, decyzje lub praktyki uzgodnione w ramach uznanej organizacji producentów, uznanego zrzeszenia organizacji producentów lub uznanej organizacji międzybranżowej, podając zakres stosowania tych porozumień, decyzji lub praktyk oraz okres, przez jaki mają być stosowane te porozumienia, decyzje lub praktyki, a także obszar gospodarczy, na którym mają być one stosowane, mając na względzie zapewnienie prawidłowego funkcjonowania rynku mleka i przetworów mlecznych oraz niezakłócania konkurencji na tym rynku, a także biorąc pod uwagę cele, jakich mogą dotyczyć te porozumienia, decyzje lub praktyki.
+
+**Art. 48i.** Minister właściwy do spraw rynków rolnych przekazuje Komisji Europejskiej informacje, o których mowa w art. 164 ust. 6 rozporządzenia, o którym mowa w pkt 11 załącznika.
+
+#### Rozdział 4 Kontrole
+
+**Art. 49.**
+
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę organizacji producentów albo zrzeszenia organizacji producentów, albo organizacji międzybranżowej przeprowadza kontrole uznanych organizacji producentów i uznanych zrzeszeń organizacji producentów oraz uznanych organizacji międzybranżowych w zakresie spełniania warunków określonych w przepisach Unii Europejskiej, ustawy oraz wydanych na podstawie art. 48a ust. 7, dotyczących uznawania organizacji producentów i realizacji jej planu biznesowego oraz uznawania zrzeszeń organizacji producentów i organizacji międzybranżowych.
+
+2. Uznana organizacja producentów, uznane zrzeszenie organizacji producentów lub uznana organizacja międzybranżowa podlegają kontrolom określonym w ust. 1 co najmniej raz na trzy lata.
+
+2a. Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego, albo miejsce zamieszkania, albo siedzibę podmiotów wymienionych w art. 43 przeprowadza kontrole pierwszych podmiotów skupujących mleko krowie w rozumieniu art. 151 rozporządzenia, o którym mowa w pkt 11 załącznika, obowiązanych do przekazywania informacji, o których mowa w art. 2a, oraz podmiotów wymienionych w art. 43 w zakresie wykonywania przez te podmioty obowiązków związanych z zakupem interwencyjnym, sprzedażą interwencyjną i dopłatami do przechowywania w ramach realizacji zadań określonych w ustawie.
+
+3. Do kontroli, o których mowa w:
+
+- **1)** ust. 1 stosuje się odpowiednio przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412);
+- **2)** ust. 2a stosuje się odpowiednio przepisy ustawy z dnia 10 lutego 2017 r. o Krajowym Ośrodku Wsparcia Rolnictwa (Dz. U. z 2023 r. poz. 430 i 588).
+
+#### Rozdział 5 (uchylony)
+
+#### Rozdział 6 Kary pieniężne
+
+**Art. 53.** (uchylony)
+
+**Art. 54.** (uchylony)
+
+**Art. 54a.** (uchylony)
+
+**Art. 54b.** (uchylony)
+
+**Art. 54c.** (uchylony)
+
+**Art. 54d.** (uchylony)
+
+**Art. 54e.** (uchylony)
+
+**Art. 54f.** (uchylony)
+
+**Art. 54g.** (uchylony)
+
+**Art. 54h.** (uchylony) Art. 54ha. (uchylony)
+
+**Art. 54i.** (uchylony)
+
+**Art. 54j.** (uchylony)
+
+**Art. 54k.** (uchylony)
+
+**Art. 54l.** (uchylony)
+
+**Art. 54m.** (uchylony)
+
+**Art. 54n.** (uchylony) Art. 54na. (uchylony) Art. 54nb. Uznana organizacja producentów albo uznane zrzeszenie organizacji producentów, które nie przekazują powiadomienia określonego w art. 2 ust. 3 rozporządzenia, o którym mowa w pkt 9 załącznika, w terminie określonym w tym rozporządzeniu, podlegają karze pieniężnej w wysokości stanowiącej iloczyn:
+
+**Art. 54o.**
+
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę uznanej organizacji producentów albo siedzibę uznanego zrzeszenia organizacji producentów, albo siedzibę uznanej organizacji międzybranżowej wydaje decyzję w sprawie wymierzenia kar pieniężnych, o których mowa w art. 54nb–54nd.
+
+1a. Dyrektor oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa właściwy ze względu na miejsce zamieszkania albo siedzibę podmiotu skupującego wydaje decyzję w sprawie wymierzenia kary pieniężnej, o której mowa w art. 54ne.
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. Kary pieniężne uiszcza się w terminie 14 dni od dnia, w którym decyzja, o której mowa w ust. 1 i 1a, stała się ostateczna.
+
+**Art. 55.**
+
+1. Kar pieniężnych nie wymierza się, jeżeli naruszenie lub niewykonanie obowiązku nastąpiło w wyniku działania siły wyższej.
+
+2. Można odstąpić od wymierzenia kary, jeżeli naruszenie lub niewykonanie obowiązku nastąpiło z przyczyn nieleżących po stronie podmiotu skupującego albo uznanej organizacji producentów, albo uznanego zrzeszenia organizacji producentów, albo uznanej organizacji międzybranżowej.
+
+3. W sprawach nieuregulowanych w ustawie do kar pieniężnych stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2022 r. poz. 2651, z późn. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty.
+
+4. Uprawnienia organu podatkowego określone w ustawie, o której mowa w ust. 3, przysługują:
+
+- **1)** dyrektorowi oddziału regionalnego Agencji i dyrektorowi oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa jako organom pierwszej instancji;
+- **2)** Prezesowi Agencji jako organowi odwoławczemu od decyzji dyrektora oddziału regionalnego Agencji;
+- **3)** Dyrektorowi Generalnemu Krajowego Ośrodka Wsparcia Rolnictwa jako organowi odwoławczemu od decyzji dyrektora oddziału terenowego Krajowego Ośrodka Wsparcia Rolnictwa.
+
+5. Od nieuiszczonych w terminie kar pieniężnych pobiera się odsetki za każdy dzień zwłoki w wysokości przewidzianej dla zaległości podatkowych.
+
+6. Do egzekucji kary pieniężnej wraz z odsetkami za zwłokę stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
+
+#### Rozdział 7 Przepisy przejściowe i końcowe
+
+**Art. 64.** Traci moc ustawa z dnia 6 września 2001 r. o regulacji rynku mleka i przetworów mlecznych (Dz. U. poz. 1446 i 1797, z 2002 r. poz. 937 oraz z 2003 r. poz. 1853).
+
+**Art. 65.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej , z wyjątkiem:
+

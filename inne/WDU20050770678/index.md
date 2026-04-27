@@ -1,0 +1,31 @@
+---
+title: Wyrok Trybunału Konstytucyjnego z dnia 26 kwietnia 2005 r. sygn. akt P 3/04
+address: WDU20050770678
+eli: DU/2005/678
+publisher: DU
+year: 2005
+pos: 678
+act_type: Orzeczenie
+status: obowiązujący
+domain: null
+---
+
+# Dziennik Ustaw Nr 77 — 5249 — Poz. 678 i 679 678 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 26 kwietnia 2005 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2005 nr 77 poz. 678 |
+| ISAP | WDU20050770678 |
+| Typ aktu | Orzeczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2005-04-26 |
+| Data wydania | 2005-05-04 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050770678) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/678/text.pdf) |
+
+sygn. akt P 3/04 Trybuna∏ Konstytucyjny w sk∏adzie: Biruta Lewaszkiewicz-Petrykowska — przewodniczàcy, Wies∏aw Johann, Marek Mazurkiewicz, Jerzy St´pieƒ, Bohdan Zdziennicki — sprawozdawca, wy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. Nr 162, poz. 1118, ze zm.) z art. 2 i art. 32 Konstytucji, orzeka:
+Art. 111 ust. 1 pkt 3 i ust. 2 ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 r. Nr 39, poz. 353, Nr 64, poz. 593, Nr 99, poz. 1001, Nr 120, poz. 1252, Nr121, poz. 1264, Nr 144, poz. 1530, Nr 191, poz. 1954, po rozpoznaniu, z udzia∏em Sejmu i Prokuratora Generalnego, na rozprawie wdniu 26 kwietnia 2005 r., pytania prawnego Sàdu Okr´gowego w Kielcach ozbadanie zgodnoÊci art. 111 ust. 1 pkt 3 iust. 2 ustaNr 210, poz. 2135 i Nr 236, poz. 2355) sà zgodne z art.2 i art. 32 Konstytucji Rzeczypospolitej Polskiej.
+Biruta Lewaszkiewicz-Petrykowska Wies∏aw Johann Marek Mazurkiewicz Jerzy St´pieƒ Bohdan Zdziennicki 679 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 26 kwietnia 2005 r.
+sygn. akt SK 36/03 Trybuna∏ Konstytucyjny w sk∏adzie: Teresa D´bowska-Romanowska — przewodniczàcy, Marian Grzybowski, Wies∏aw Johann — sprawozdawca, Biruta Lewaszkiewicz-Petrykowska, Marek Mazurkiewicz, po rozpoznaniu, zudzia∏em skar˝àcego oraz Prokuratora Generalnego, na rozprawie w dniu 26 kwietnia 2005 r., skargi konstytucyjnej Leszka Suchorzewskiego o zbadanie zgodnoÊci art. 16, art. 17 i art. 18 ustawy z dnia 11 maja 1995r. o Naczelnym Sàdzie Administracyjnym (Dz. U. Nr 74, poz. 368, ze zm.) z art. 2, art.7 w zwiàzku z art.45 ust. 1, art. 77 ust. 2 oraz art.184 zd. 1 Konstytucji, a tak˝e z art. 6 ust. 1 Konwencji o ochronie praw cz∏owieka i podstawowych wolnoÊci (Dz. U. z 1993 r. Nr 61, poz. 284, ze zm.),
+

@@ -1,0 +1,3287 @@
+# Orzecznictwo — Ustawa z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki
+
+Orzeczenia powołujące: *Ustawa z dnia 17 czerwca 2004 r. o skardze na naruszenie prawa strony do rozpoznania sprawy w postępowaniu przygotowawczym prowadzonym lub nadzorowanym przez prokuratora i postępowaniu sądowym bez nieuzasadnionej zwłoki*
+
+Łącznie: **1989** orzeczeń
+
+## art. 1 (80)
+
+- 2025-05-21 | SO | [V S 20/25](https://www.saos.org.pl/judgments/534906) | Postanowienie
+- 2022-09-19 | SO | [II S 24/22](https://www.saos.org.pl/judgments/480612) | Postanowienie
+- 2022-02-28 | SO | [II S 5/22](https://www.saos.org.pl/judgments/463278) | Postanowienie
+- 2022-02-04 | SO | [III Ca 571/20](https://www.saos.org.pl/judgments/462489) | Uzasadnienie
+- 2021-03-17 | SO | [VIII S 16/21](https://www.saos.org.pl/judgments/451955) | Postanowienie
+- 2021-02-10 | SO | [VIII S 145/20](https://www.saos.org.pl/judgments/434314) | Postanowienie
+- 2020-12-04 | SO | [II S 54/20](https://www.saos.org.pl/judgments/427607) | Postanowienie
+- 2020-07-15 | SO | [II S 15/20](https://www.saos.org.pl/judgments/419025) | Postanowienie
+- 2020-07-09 | SO | [III Ca 2625/19](https://www.saos.org.pl/judgments/433290) | Uzasadnienie
+- 2019-12-30 | SO | [III S 87/19](https://www.saos.org.pl/judgments/404738) | Postanowienie
+- 2019-12-30 | SO | [III S 107/19](https://www.saos.org.pl/judgments/404730) | Postanowienie
+- 2019-12-30 | SO | [III S 115/19](https://www.saos.org.pl/judgments/402986) | Postanowienie
+- 2019-12-04 | SO | [I S 131/19](https://www.saos.org.pl/judgments/417064) | Postanowienie
+- 2019-12-02 | SO | [II S 467/19](https://www.saos.org.pl/judgments/401949) | Postanowienie
+- 2019-11-28 | SO | [III S 84/19](https://www.saos.org.pl/judgments/399900) | Postanowienie
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-09-27 | SO | [I S 104/19](https://www.saos.org.pl/judgments/417057) | Postanowienie
+- 2019-09-17 | SO | [II S 211/19](https://www.saos.org.pl/judgments/401912) | Postanowienie
+- 2019-06-05 | SO | [II S 405/18](https://www.saos.org.pl/judgments/401760) | Postanowienie
+- 2019-05-27 | SO | [II S 121/19](https://www.saos.org.pl/judgments/402074) | Postanowienie
+- 2019-05-02 | SO | [III S 6/19](https://www.saos.org.pl/judgments/379078) | Postanowienie
+- 2019-02-11 | SO | [II S 366/18](https://www.saos.org.pl/judgments/401279) | Postanowienie
+- 2018-07-11 | SO | [II S 3/18](https://www.saos.org.pl/judgments/390666) | Postanowienie
+- 2018-04-24 | SO | [I C 884/17](https://www.saos.org.pl/judgments/341547) | Wyrok
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2018-01-03 | SO | [I S 91/17](https://www.saos.org.pl/judgments/330122) | Postanowienie
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2016-10-13 | SO | [II K 69/16](https://www.saos.org.pl/judgments/252557) | Wyrok
+- 2016-05-12 | SN | [III SPP 52/16](https://www.saos.org.pl/judgments/245266) | Postanowienie
+- 2016-03-17 | SN | [III SPP 47/16](https://www.saos.org.pl/judgments/244895) | Postanowienie
+- 2016-01-28 | SN | [I KZP 13/15](https://www.saos.org.pl/judgments/244400) | Uchwała
+- 2016-01-22 | SO | [II Cs 316/15](https://www.saos.org.pl/judgments/298630) | Postanowienie
+- 2015-09-21 | TK | [P 114/15](https://www.saos.org.pl/judgments/206711) | Postanowienie
+- 2015-09-21 | TK | [P 109/15](https://www.saos.org.pl/judgments/206707) | Postanowienie
+- 2015-06-08 | SO | [II Cs 72/15](https://www.saos.org.pl/judgments/297422) | Postanowienie
+- 2015-04-30 | SO | [II Cs 94/15](https://www.saos.org.pl/judgments/298632) | Postanowienie
+- 2014-10-03 | SO | [II Cs 198/14](https://www.saos.org.pl/judgments/295612) | Postanowienie
+- 2014-09-25 | SO | [II Cs 226/14](https://www.saos.org.pl/judgments/295617) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-07-01 | SO | [II S 28/14](https://www.saos.org.pl/judgments/59556) | Postanowienie
+- 2014-06-03 | SN | [III SPP 116/14](https://www.saos.org.pl/judgments/165998) | Postanowienie
+- 2014-02-11 | SO | [III S 199/13](https://www.saos.org.pl/judgments/130140) | Postanowienie
+- 2014-01-21 | SO | [II S 247/13](https://www.saos.org.pl/judgments/34484) | Postanowienie
+- 2013-11-20 | SO | [II S 32/13](https://www.saos.org.pl/judgments/26444) | Postanowienie
+- 2013-10-09 | SN | [KSP 8/13](https://www.saos.org.pl/judgments/103108) | Postanowienie
+- 2013-09-30 | SO | [I S 117/13](https://www.saos.org.pl/judgments/140729) | Postanowienie
+- 2013-09-20 | SO | [II Cs 109/13](https://www.saos.org.pl/judgments/21928) | Postanowienie
+- 2013-09-06 | SO | [II Cs 101/13](https://www.saos.org.pl/judgments/29455) | Postanowienie
+- 2013-06-27 | SN | [WSP 4/13](https://www.saos.org.pl/judgments/102310) | Postanowienie
+- 2013-05-09 | SO | [II S 16/13](https://www.saos.org.pl/judgments/14884) | Postanowienie
+- 2013-05-09 | SO | [II S 15/13](https://www.saos.org.pl/judgments/14883) | Postanowienie
+- 2013-02-28 | SO | [I S 39/12](https://www.saos.org.pl/judgments/137624) | Postanowienie
+- 2012-11-29 | SO | [III S 7/12](https://www.saos.org.pl/judgments/2855) | Postanowienie
+- 2012-09-27 | SN | [SNO 37/12](https://www.saos.org.pl/judgments/99167) | Wyrok
+- 2012-09-12 | SO | [III S 5/12](https://www.saos.org.pl/judgments/10615) | Postanowienie
+- 2012-09-12 | SO | [III S 6/12](https://www.saos.org.pl/judgments/2401) | Postanowienie
+- 2012-08-28 | SO | [III S 7/12](https://www.saos.org.pl/judgments/1909) | Postanowienie
+- 2012-07-17 | SO | [III S 3/12](https://www.saos.org.pl/judgments/1908) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2012-06-12 | SN | [III SPP 20/12](https://www.saos.org.pl/judgments/98387) | Postanowienie
+- 2012-05-23 | SN | [I CSP 1/12](https://www.saos.org.pl/judgments/98156) | Postanowienie
+- 2012-03-28 | SO | [III S 1/12](https://www.saos.org.pl/judgments/1904) | Postanowienie
+- 2012-03-27 | SN | [III SPP 8/12](https://www.saos.org.pl/judgments/97677) | Postanowienie
+- 2012-02-06 | SO | [III S 2/12](https://www.saos.org.pl/judgments/1907) | Postanowienie
+- 2012-01-26 | SN | [III SPP 42/11](https://www.saos.org.pl/judgments/96963) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-06-16 | SN | [III SPP 13/11](https://www.saos.org.pl/judgments/95225) | Postanowienie
+- 2011-05-06 | SN | [III SPP 5/11](https://www.saos.org.pl/judgments/94889) | Postanowienie
+- 2011-01-20 | SN | [III SO 18/10](https://www.saos.org.pl/judgments/93961) | Postanowienie
+- 2010-10-14 | TK | [K 17/07](https://www.saos.org.pl/judgments/109672) | Wyrok
+- 2010-09-21 | SN | [III SPP 19/10](https://www.saos.org.pl/judgments/92971) | Postanowienie
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+- 2007-10-12 | SN | [I CNP 55/07](https://www.saos.org.pl/judgments/164862) | Postanowienie
+- 2006-02-14 | SN | [III SPP 7/06](https://www.saos.org.pl/judgments/84102) | Postanowienie
+- 2006-01-27 | SN | [II CNP 9/06](https://www.saos.org.pl/judgments/163949) | Postanowienie
+- 2005-12-09 | SN | [III SO 18/05](https://www.saos.org.pl/judgments/83922) | Postanowienie
+- 2005-08-24 | SN | [V CNP 7/05](https://www.saos.org.pl/judgments/163520) | Postanowienie
+- 2005-08-17 | SN | [I CNP 3/05](https://www.saos.org.pl/judgments/83675) | Postanowienie
+- 2005-05-12 | SN | [III SPP 96/05](https://www.saos.org.pl/judgments/83415) | Postanowienie
+- 2005-01-19 | SN | [III SPP 115/04](https://www.saos.org.pl/judgments/83154) | Uchwała
+
+## art. 2 (859)
+
+- 2023-12-12 | SO | [III S 5/23](https://www.saos.org.pl/judgments/518700) | Uzasadnienie
+- 2022-12-23 | SO | [III S 205/22](https://www.saos.org.pl/judgments/480624) | Postanowienie
+- 2022-12-13 | SO | [II S 33/22](https://www.saos.org.pl/judgments/480620) | Postanowienie
+- 2022-10-27 | SO | [II S 31/22](https://www.saos.org.pl/judgments/480618) | Postanowienie
+- 2022-09-14 | SO | [II S 25/22](https://www.saos.org.pl/judgments/480613) | Postanowienie
+- 2022-06-22 | SO | [II S 22/22](https://www.saos.org.pl/judgments/471767) | Postanowienie
+- 2022-06-07 | SO | [II S 19/22](https://www.saos.org.pl/judgments/471765) | Postanowienie
+- 2022-05-24 | SO | [II S 18/22](https://www.saos.org.pl/judgments/471764) | Postanowienie
+- 2022-05-19 | SO | [III S 37/22](https://www.saos.org.pl/judgments/471367) | Postanowienie
+- 2022-04-26 | SO | [III S 300/21](https://www.saos.org.pl/judgments/466715) | Postanowienie
+- 2022-03-29 | SO | [III AUa 1202/21](https://www.saos.org.pl/judgments/475415) | Wyrok
+- 2022-03-23 | SO | [II S 12/22](https://www.saos.org.pl/judgments/463266) | Postanowienie
+- 2022-03-17 | SO | [II S 6/22](https://www.saos.org.pl/judgments/463279) | Postanowienie
+- 2022-03-08 | SO | [II S 14/22](https://www.saos.org.pl/judgments/463268) | Postanowienie
+- 2022-02-24 | SO | [II S 11/22](https://www.saos.org.pl/judgments/463265) | Postanowienie
+- 2022-01-27 | SO | [III S 319/21](https://www.saos.org.pl/judgments/462139) | Postanowienie
+- 2022-01-25 | SO | [II S 28/21](https://www.saos.org.pl/judgments/461808) | Postanowienie
+- 2021-12-21 | SO | [II S 38/21](https://www.saos.org.pl/judgments/463274) | Postanowienie
+- 2021-12-06 | SO | [II S 35/21](https://www.saos.org.pl/judgments/453606) | Postanowienie
+- 2021-10-26 | SO | [III S 256/21](https://www.saos.org.pl/judgments/464479) | Postanowienie
+- 2021-10-25 | SO | [II S 325/21](https://www.saos.org.pl/judgments/468789) | Postanowienie
+- 2021-10-20 | SO | [II S 28/21](https://www.saos.org.pl/judgments/453599) | Postanowienie
+- 2021-09-27 | SO | [III S 279/21](https://www.saos.org.pl/judgments/464775) | Postanowienie
+- 2021-09-02 | SO | [II S 215/21](https://www.saos.org.pl/judgments/468788) | Postanowienie
+- 2021-08-31 | SO | [III S 173/21](https://www.saos.org.pl/judgments/464774) | Postanowienie
+- 2021-08-30 | SO | [II S 29/21](https://www.saos.org.pl/judgments/453600) | Postanowienie
+- 2021-07-15 | SO | [II S 25/21](https://www.saos.org.pl/judgments/450025) | Postanowienie
+- 2021-07-01 | SO | [II S 23/21](https://www.saos.org.pl/judgments/450023) | Postanowienie
+- 2021-06-25 | SO | [II S 210/21](https://www.saos.org.pl/judgments/468787) | Postanowienie
+- 2021-06-25 | SO | [III S 213/21](https://www.saos.org.pl/judgments/442503) | Postanowienie
+- 2021-06-23 | SO | [II S 17/21](https://www.saos.org.pl/judgments/444239) | Postanowienie
+- 2021-06-22 | SO | [III S 209/21](https://www.saos.org.pl/judgments/442550) | Postanowienie
+- 2021-06-18 | SO | [II S 16/21](https://www.saos.org.pl/judgments/444238) | Postanowienie
+- 2021-05-31 | SO | [III S 285/20](https://www.saos.org.pl/judgments/445947) | Postanowienie
+- 2021-05-28 | SO | [III S 8/21](https://www.saos.org.pl/judgments/443235) | Postanowienie
+- 2021-04-26 | SO | [II S 8/21](https://www.saos.org.pl/judgments/444244) | Postanowienie
+- 2021-03-23 | SO | [III S 32/21](https://www.saos.org.pl/judgments/434943) | Postanowienie
+- 2021-03-02 | SO | [II S 497/20](https://www.saos.org.pl/judgments/468792) | Postanowienie
+- 2021-02-22 | SO | [II S 530/20](https://www.saos.org.pl/judgments/468793) | Postanowienie
+- 2021-01-21 | SO | [II S 55/20](https://www.saos.org.pl/judgments/430570) | Postanowienie
+- 2021-01-20 | SO | [II S 3/21](https://www.saos.org.pl/judgments/430568) | Postanowienie
+- 2021-01-14 | SO | [II S 442/20](https://www.saos.org.pl/judgments/468791) | Postanowienie
+- 2021-01-11 | SO | [II S 434/20](https://www.saos.org.pl/judgments/468790) | Postanowienie
+- 2020-12-22 | SO | [II S 58/20](https://www.saos.org.pl/judgments/427609) | Postanowienie
+- 2020-12-21 | SO | [II S 56/20](https://www.saos.org.pl/judgments/427608) | Postanowienie
+- 2020-12-17 | SO | [III AUa 101/20](https://www.saos.org.pl/judgments/435576) | Wyrok
+- 2020-12-15 | SO | [III AUa 433/20](https://www.saos.org.pl/judgments/440474) | Wyrok
+- 2020-12-04 | SO | [II S 54/20](https://www.saos.org.pl/judgments/427607) | Postanowienie
+- 2020-11-20 | SO | [II S 52/20](https://www.saos.org.pl/judgments/427606) | Postanowienie
+- 2020-11-19 | SO | [III AUa 88/20](https://www.saos.org.pl/judgments/440489) | Wyrok
+- 2020-11-19 | SO | [III AUa 115/20](https://www.saos.org.pl/judgments/440467) | Wyrok
+- 2020-11-09 | SO | [II S 48/20](https://www.saos.org.pl/judgments/427603) | Postanowienie
+- 2020-11-03 | SO | [III S 269/20](https://www.saos.org.pl/judgments/425410) | Postanowienie
+- 2020-10-27 | SO | [III S 9/20](https://www.saos.org.pl/judgments/468806) | Postanowienie
+- 2020-10-26 | SO | [II S 49/20](https://www.saos.org.pl/judgments/427604) | Postanowienie
+- 2020-10-16 | SO | [II S 46/20](https://www.saos.org.pl/judgments/427601) | Postanowienie
+- 2020-10-07 | SO | [II S 41/20](https://www.saos.org.pl/judgments/427596) | Postanowienie
+- 2020-09-23 | SO | [II S 42/20](https://www.saos.org.pl/judgments/427597) | Postanowienie
+- 2020-09-18 | SO | [I ACa 923/19](https://www.saos.org.pl/judgments/438090) | Wyrok
+- 2020-09-17 | SO | [II S 40/20](https://www.saos.org.pl/judgments/427595) | Postanowienie
+- 2020-09-08 | SO | [II S 37/20](https://www.saos.org.pl/judgments/427592) | Postanowienie
+- 2020-09-08 | SO | [II S 33/20](https://www.saos.org.pl/judgments/427589) | Postanowienie
+- 2020-09-08 | SO | [II S 31/20](https://www.saos.org.pl/judgments/427588) | Postanowienie
+- 2020-08-28 | SO | [II S 34/20](https://www.saos.org.pl/judgments/427590) | Postanowienie
+- 2020-08-13 | SO | [II S 32/20](https://www.saos.org.pl/judgments/419027) | Postanowienie
+- 2020-08-03 | SO | [I ACa 985/19](https://www.saos.org.pl/judgments/437682) | Wyrok
+- 2020-07-21 | SO | [II S 28/20](https://www.saos.org.pl/judgments/417448) | Postanowienie
+- 2020-07-15 | SO | [II S 15/20](https://www.saos.org.pl/judgments/419025) | Postanowienie
+- 2020-07-14 | SO | [II S 29/20](https://www.saos.org.pl/judgments/417449) | Postanowienie
+- 2020-07-13 | SO | [II S 26/20](https://www.saos.org.pl/judgments/417446) | Postanowienie
+- 2020-06-29 | SO | [II S 23/20](https://www.saos.org.pl/judgments/417443) | Postanowienie
+- 2020-06-24 | SO | [II S 24/20](https://www.saos.org.pl/judgments/417444) | Postanowienie
+- 2020-06-16 | SO | [II S 21/20](https://www.saos.org.pl/judgments/414528) | Postanowienie
+- 2020-06-01 | SO | [II S 20/20](https://www.saos.org.pl/judgments/414527) | Postanowienie
+- 2020-05-28 | SO | [II S 19/20](https://www.saos.org.pl/judgments/414526) | Postanowienie
+- 2020-05-19 | SO | [II S 17/20](https://www.saos.org.pl/judgments/417442) | Postanowienie
+- 2020-05-14 | SO | [II S 12/20](https://www.saos.org.pl/judgments/417439) | Postanowienie
+- 2020-04-16 | SO | [III S 6/20](https://www.saos.org.pl/judgments/422844) | Postanowienie
+- 2020-04-06 | SO | [II S 9/20](https://www.saos.org.pl/judgments/411753) | Postanowienie
+- 2020-02-25 | SO | [II S 10/20](https://www.saos.org.pl/judgments/411743) | Postanowienie
+- 2020-02-18 | SO | [III S 26/20](https://www.saos.org.pl/judgments/422843) | Postanowienie
+- 2020-02-12 | SO | [II S 7/20](https://www.saos.org.pl/judgments/411752) | Postanowienie
+- 2020-01-29 | SO | [II S 4/20](https://www.saos.org.pl/judgments/411747) | Postanowienie
+- 2020-01-22 | SO | [II S 1/20](https://www.saos.org.pl/judgments/411742) | Postanowienie
+- 2020-01-20 | SO | [II S 493/19](https://www.saos.org.pl/judgments/414530) | Postanowienie
+- 2020-01-14 | SO | [I 1S 15/19](https://www.saos.org.pl/judgments/401995) | Postanowienie
+- 2020-01-08 | SO | [II S 89/19](https://www.saos.org.pl/judgments/417891) | Postanowienie
+- 2020-01-07 | SO | [II S 67/19](https://www.saos.org.pl/judgments/403932) | Postanowienie
+- 2019-12-19 | SO | [II S 512/19](https://www.saos.org.pl/judgments/401954) | Postanowienie
+- 2019-12-18 | SO | [II S 65/19](https://www.saos.org.pl/judgments/399847) | Postanowienie
+- 2019-12-12 | SO | [I S 118/19](https://www.saos.org.pl/judgments/417063) | Postanowienie
+- 2019-12-11 | SO | [I 1S 8/19](https://www.saos.org.pl/judgments/401996) | Postanowienie
+- 2019-12-09 | SO | [II S 518/19](https://www.saos.org.pl/judgments/401955) | Postanowienie
+- 2019-12-06 | SO | [II S 496/19](https://www.saos.org.pl/judgments/401951) | Postanowienie
+- 2019-12-05 | SO | [II S 298/19](https://www.saos.org.pl/judgments/401924) | Postanowienie
+- 2019-12-04 | SO | [I S 131/19](https://www.saos.org.pl/judgments/417064) | Postanowienie
+- 2019-12-02 | SO | [II S 504/19](https://www.saos.org.pl/judgments/401953) | Postanowienie
+- 2019-12-02 | SO | [II S 467/19](https://www.saos.org.pl/judgments/401949) | Postanowienie
+- 2019-12-02 | SO | [II S 62/19](https://www.saos.org.pl/judgments/399846) | Postanowienie
+- 2019-11-29 | SO | [II S 290/19](https://www.saos.org.pl/judgments/401923) | Postanowienie
+- 2019-11-27 | SO | [II S 429/19](https://www.saos.org.pl/judgments/401945) | Postanowienie
+- 2019-11-27 | SO | [II S 61/19](https://www.saos.org.pl/judgments/399845) | Postanowienie
+- 2019-11-26 | SO | [II S 474/19](https://www.saos.org.pl/judgments/401950) | Postanowienie
+- 2019-11-26 | SO | [II S 466/19](https://www.saos.org.pl/judgments/401948) | Postanowienie
+- 2019-11-26 | SO | [II S 428/19](https://www.saos.org.pl/judgments/401944) | Postanowienie
+- 2019-11-05 | SO | [II S 441/19](https://www.saos.org.pl/judgments/401946) | Postanowienie
+- 2019-10-31 | SO | [I 1S 10/19](https://www.saos.org.pl/judgments/401994) | Postanowienie
+- 2019-10-28 | SO | [II S 379/19](https://www.saos.org.pl/judgments/401938) | Postanowienie
+- 2019-10-28 | SO | [II S 60/19](https://www.saos.org.pl/judgments/399844) | Postanowienie
+- 2019-10-23 | SO | [II S 56/19](https://www.saos.org.pl/judgments/397257) | Postanowienie
+- 2019-10-22 | SO | [II S 377/19](https://www.saos.org.pl/judgments/401937) | Postanowienie
+- 2019-10-22 | SO | [II S 55/19](https://www.saos.org.pl/judgments/397256) | Postanowienie
+- 2019-10-22 | SO | [II S 52/19](https://www.saos.org.pl/judgments/397255) | Postanowienie
+- 2019-10-22 | SO | [II S 51/19](https://www.saos.org.pl/judgments/397254) | Postanowienie
+- 2019-10-21 | SO | [II S 385/19](https://www.saos.org.pl/judgments/401939) | Postanowienie
+- 2019-10-17 | SO | [II S 408/19](https://www.saos.org.pl/judgments/401941) | Postanowienie
+- 2019-10-16 | SO | [II S 54/19](https://www.saos.org.pl/judgments/393722) | Postanowienie
+- 2019-10-15 | SO | [II S 304/19](https://www.saos.org.pl/judgments/401927) | Postanowienie
+- 2019-10-15 | SO | [II S 53/19](https://www.saos.org.pl/judgments/393721) | Postanowienie
+- 2019-10-14 | SO | [II S 420/19](https://www.saos.org.pl/judgments/401943) | Postanowienie
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-10-07 | SO | [II S 45/19](https://www.saos.org.pl/judgments/397253) | Uzasadnienie
+- 2019-10-04 | SO | [I S 110/19](https://www.saos.org.pl/judgments/417060) | Postanowienie
+- 2019-10-01 | SO | [II S 212/19](https://www.saos.org.pl/judgments/401913) | Postanowienie
+- 2019-09-27 | SO | [I S 104/19](https://www.saos.org.pl/judgments/417057) | Postanowienie
+- 2019-09-26 | SO | [V S 44/19](https://www.saos.org.pl/judgments/413725) | Postanowienie
+- 2019-09-23 | SO | [II S 312/19](https://www.saos.org.pl/judgments/401930) | Postanowienie
+- 2019-09-19 | SO | [V S 38/19](https://www.saos.org.pl/judgments/413723) | Postanowienie
+- 2019-09-18 | SO | [II S 263/19](https://www.saos.org.pl/judgments/401920) | Postanowienie
+- 2019-09-17 | SO | [III S 298/19](https://www.saos.org.pl/judgments/393759) | Postanowienie
+- 2019-09-16 | SO | [III S 13/19](https://www.saos.org.pl/judgments/413623) | Postanowienie
+- 2019-09-10 | SO | [II S 156/19](https://www.saos.org.pl/judgments/401903) | Postanowienie
+- 2019-09-09 | SO | [II S 46/19](https://www.saos.org.pl/judgments/391264) | Postanowienie
+- 2019-09-06 | SO | [II S 216/19](https://www.saos.org.pl/judgments/401914) | Postanowienie
+- 2019-09-05 | SO | [II S 47/19](https://www.saos.org.pl/judgments/391324) | Postanowienie
+- 2019-09-04 | SO | [II S 249/19](https://www.saos.org.pl/judgments/401918) | Postanowienie
+- 2019-09-03 | SO | [II S 235/19](https://www.saos.org.pl/judgments/401917) | Postanowienie
+- 2019-09-02 | SO | [II S 274/19](https://www.saos.org.pl/judgments/401922) | Postanowienie
+- 2019-08-30 | SO | [II S 351/19](https://www.saos.org.pl/judgments/401933) | Postanowienie
+- 2019-08-29 | SO | [II S 299/19](https://www.saos.org.pl/judgments/401925) | Postanowienie
+- 2019-08-26 | SO | [II S 308/19](https://www.saos.org.pl/judgments/401929) | Postanowienie
+- 2019-08-14 | SO | [II S 43/19](https://www.saos.org.pl/judgments/391263) | Postanowienie
+- 2019-08-13 | SO | [II S 301/19](https://www.saos.org.pl/judgments/401926) | Postanowienie
+- 2019-08-12 | SO | [II S 41/19](https://www.saos.org.pl/judgments/391261) | Postanowienie
+- 2019-08-12 | SO | [II S 38/19](https://www.saos.org.pl/judgments/391260) | Postanowienie
+- 2019-08-08 | SO | [II S 305/19](https://www.saos.org.pl/judgments/401928) | Postanowienie
+- 2019-08-07 | SO | [II S 42/19](https://www.saos.org.pl/judgments/391262) | Postanowienie
+- 2019-08-02 | SO | [I S 82/19](https://www.saos.org.pl/judgments/417082) | Postanowienie
+- 2019-07-31 | SO | [II S 32/19](https://www.saos.org.pl/judgments/388543) | Postanowienie
+- 2019-07-24 | SO | [V S 28/19](https://www.saos.org.pl/judgments/413717) | Postanowienie
+- 2019-07-19 | SO | [II S 40/19](https://www.saos.org.pl/judgments/388545) | Postanowienie
+- 2019-07-17 | SO | [II S 207/19](https://www.saos.org.pl/judgments/401910) | Postanowienie
+- 2019-07-16 | SO | [II S 192/19](https://www.saos.org.pl/judgments/401907) | Postanowienie
+- 2019-07-15 | SO | [II S 229/19](https://www.saos.org.pl/judgments/401915) | Postanowienie
+- 2019-07-15 | SO | [II S 210/19](https://www.saos.org.pl/judgments/401911) | Postanowienie
+- 2019-07-15 | SO | [II S 37/19](https://www.saos.org.pl/judgments/388544) | Postanowienie
+- 2019-07-04 | SO | [II S 36/19](https://www.saos.org.pl/judgments/385338) | Postanowienie
+- 2019-07-04 | SO | [II S 30/19](https://www.saos.org.pl/judgments/385334) | Postanowienie
+- 2019-06-26 | SO | [II S 34/19](https://www.saos.org.pl/judgments/385336) | Postanowienie
+- 2019-06-19 | SO | [II S 134/19](https://www.saos.org.pl/judgments/402076) | Postanowienie
+- 2019-06-19 | SO | [II S 182/19](https://www.saos.org.pl/judgments/401906) | Postanowienie
+- 2019-06-18 | SO | [I S 28/19](https://www.saos.org.pl/judgments/417073) | Postanowienie
+- 2019-06-17 | SO | [II S 29/19](https://www.saos.org.pl/judgments/385333) | Postanowienie
+- 2019-06-06 | SO | [II S 26/19](https://www.saos.org.pl/judgments/385022) | Postanowienie
+- 2019-06-04 | SO | [III S 199/19](https://www.saos.org.pl/judgments/389147) | Postanowienie
+- 2019-05-31 | SO | [II S 128/19](https://www.saos.org.pl/judgments/402075) | Postanowienie
+- 2019-05-31 | SO | [II S 28/19](https://www.saos.org.pl/judgments/385332) | Postanowienie
+- 2019-05-30 | SO | [II S 27/19](https://www.saos.org.pl/judgments/385331) | Postanowienie
+- 2019-05-28 | SO | [II S 181/19](https://www.saos.org.pl/judgments/401905) | Postanowienie
+- 2019-05-27 | SO | [II S 136/19](https://www.saos.org.pl/judgments/402077) | Postanowienie
+- 2019-05-24 | SO | [II S 150/19](https://www.saos.org.pl/judgments/401902) | Postanowienie
+- 2019-05-23 | SO | [II S 120/19](https://www.saos.org.pl/judgments/402073) | Postanowienie
+- 2019-05-23 | SO | [II S 48/19](https://www.saos.org.pl/judgments/401772) | Postanowienie
+- 2019-05-21 | SO | [II S 66/19](https://www.saos.org.pl/judgments/401959) | Postanowienie
+- 2019-05-21 | SO | [I 1S 5/19](https://www.saos.org.pl/judgments/401840) | Postanowienie
+- 2019-05-21 | SO | [II S 21/19](https://www.saos.org.pl/judgments/385329) | Uzasadnienie
+- 2019-05-20 | SO | [II S 145/19](https://www.saos.org.pl/judgments/402078) | Postanowienie
+- 2019-05-17 | SO | [II S 15/19](https://www.saos.org.pl/judgments/401746) | Postanowienie
+- 2019-05-17 | SO | [II S 368/18](https://www.saos.org.pl/judgments/401280) | Postanowienie
+- 2019-05-14 | SO | [II S 118/19](https://www.saos.org.pl/judgments/402072) | Postanowienie
+- 2019-05-14 | SO | [III S 171/19](https://www.saos.org.pl/judgments/399892) | Postanowienie
+- 2019-05-14 | SO | [III S 156/19](https://www.saos.org.pl/judgments/384294) | Postanowienie
+- 2019-05-14 | SO | [III S 150/19](https://www.saos.org.pl/judgments/384293) | Postanowienie
+- 2019-05-10 | SO | [V S 48/18](https://www.saos.org.pl/judgments/413726) | Postanowienie
+- 2019-05-09 | SO | [II S 71/19](https://www.saos.org.pl/judgments/401960) | Postanowienie
+- 2019-05-06 | SO | [II S 84/19](https://www.saos.org.pl/judgments/401966) | Postanowienie
+- 2019-04-25 | SO | [I 1S 3/19](https://www.saos.org.pl/judgments/401839) | Postanowienie
+- 2019-04-25 | SO | [III S 59/19](https://www.saos.org.pl/judgments/382733) | Postanowienie
+- 2019-04-24 | SO | [II S 370/18](https://www.saos.org.pl/judgments/401753) | Postanowienie
+- 2019-04-24 | SO | [II S 18/19](https://www.saos.org.pl/judgments/378404) | Postanowienie
+- 2019-04-24 | SO | [II S 17/19](https://www.saos.org.pl/judgments/378403) | Postanowienie
+- 2019-04-17 | SO | [V S 10/19](https://www.saos.org.pl/judgments/413709) | Postanowienie
+- 2019-04-17 | SO | [II S 83/19](https://www.saos.org.pl/judgments/401965) | Postanowienie
+- 2019-04-17 | SO | [II S 12/19](https://www.saos.org.pl/judgments/385327) | Postanowienie
+- 2019-04-09 | SO | [I S 9/19](https://www.saos.org.pl/judgments/402056) | Postanowienie
+- 2019-04-09 | SO | [I S 5/19](https://www.saos.org.pl/judgments/402055) | Postanowienie
+- 2019-04-09 | SO | [III S 37/19](https://www.saos.org.pl/judgments/382732) | Postanowienie
+- 2019-04-01 | SO | [II S 81/19](https://www.saos.org.pl/judgments/401964) | Postanowienie
+- 2019-04-01 | SO | [II S 402/18](https://www.saos.org.pl/judgments/401759) | Postanowienie
+- 2019-03-29 | SO | [I S 10/19](https://www.saos.org.pl/judgments/402054) | Postanowienie
+- 2019-03-29 | SO | [II S 44/19](https://www.saos.org.pl/judgments/401771) | Postanowienie
+- 2019-03-22 | SO | [V S 51/18](https://www.saos.org.pl/judgments/413727) | Postanowienie
+- 2019-03-19 | SO | [II S 19/19](https://www.saos.org.pl/judgments/417889) | Postanowienie
+- 2019-03-19 | SO | [II S 410/18](https://www.saos.org.pl/judgments/401764) | Postanowienie
+- 2019-03-18 | SO | [II S 13/19](https://www.saos.org.pl/judgments/378401) | Zarządzenie
+- 2019-03-15 | SO | [I S 5/19](https://www.saos.org.pl/judgments/417075) | Postanowienie
+- 2019-03-14 | SO | [II S 6/19](https://www.saos.org.pl/judgments/401775) | Postanowienie
+- 2019-03-14 | SO | [II S 3/19](https://www.saos.org.pl/judgments/401752) | Postanowienie
+- 2019-03-14 | SO | [II S 23/19](https://www.saos.org.pl/judgments/401750) | Postanowienie
+- 2019-03-13 | SO | [II S 73/19](https://www.saos.org.pl/judgments/401961) | Postanowienie
+- 2019-03-11 | SO | [II S 4/19](https://www.saos.org.pl/judgments/401758) | Postanowienie
+- 2019-03-07 | SO | [II S 29/19](https://www.saos.org.pl/judgments/401751) | Postanowienie
+- 2019-03-07 | SO | [II S 16/19](https://www.saos.org.pl/judgments/401747) | Postanowienie
+- 2019-02-27 | SO | [I 1S 1/19](https://www.saos.org.pl/judgments/401838) | Postanowienie
+- 2019-02-22 | SO | [II S 419/18](https://www.saos.org.pl/judgments/401767) | Postanowienie
+- 2019-02-22 | SO | [II S 418/18](https://www.saos.org.pl/judgments/401766) | Postanowienie
+- 2019-02-21 | SO | [II S 7/19](https://www.saos.org.pl/judgments/374522) | Postanowienie
+- 2019-02-15 | SO | [II S 345/18](https://www.saos.org.pl/judgments/401276) | Postanowienie
+- 2019-02-14 | SO | [II S 5/19](https://www.saos.org.pl/judgments/401773) | Postanowienie
+- 2019-02-14 | SO | [V S 47/17](https://www.saos.org.pl/judgments/371664) | Postanowienie
+- 2019-02-12 | SO | [V Ca 537/18](https://www.saos.org.pl/judgments/371947) | Wyrok
+- 2019-02-11 | SO | [II S 366/18](https://www.saos.org.pl/judgments/401279) | Postanowienie
+- 2019-02-11 | SO | [II S 6/19](https://www.saos.org.pl/judgments/370229) | Zarządzenie
+- 2019-02-07 | SO | [V S 52/18](https://www.saos.org.pl/judgments/413728) | Postanowienie
+- 2019-02-07 | SO | [II S 380/18](https://www.saos.org.pl/judgments/401756) | Postanowienie
+- 2019-02-05 | SO | [II S 59/18](https://www.saos.org.pl/judgments/417890) | Postanowienie
+- 2019-02-05 | SO | [II S 258/18](https://www.saos.org.pl/judgments/401269) | Postanowienie
+- 2019-02-04 | SO | [V S 54/18](https://www.saos.org.pl/judgments/413729) | Postanowienie
+- 2019-02-04 | SO | [II S 4/19](https://www.saos.org.pl/judgments/370228) | Postanowienie
+- 2019-01-29 | SO | [II S 3/19](https://www.saos.org.pl/judgments/368717) | Postanowienie
+- 2019-01-28 | SO | [II S 406/18](https://www.saos.org.pl/judgments/401761) | Postanowienie
+- 2019-01-28 | SO | [II S 362/18](https://www.saos.org.pl/judgments/401277) | Postanowienie
+- 2019-01-24 | SO | [II S 408/18](https://www.saos.org.pl/judgments/401762) | Postanowienie
+- 2019-01-22 | SO | [III S 372/18](https://www.saos.org.pl/judgments/373587) | Postanowienie
+- 2019-01-16 | SO | [II S 333/18](https://www.saos.org.pl/judgments/401273) | Postanowienie
+- 2019-01-16 | SO | [III S 341/18](https://www.saos.org.pl/judgments/372771) | Postanowienie
+- 2019-01-10 | SO | [II S 364/18](https://www.saos.org.pl/judgments/401278) | Postanowienie
+- 2019-01-10 | SO | [II S 344/18](https://www.saos.org.pl/judgments/401275) | Postanowienie
+- 2018-12-28 | SO | [I S 176/18](https://www.saos.org.pl/judgments/417067) | Postanowienie
+- 2018-12-19 | SO | [I S 384/18](https://www.saos.org.pl/judgments/394490) | Postanowienie
+- 2018-12-18 | SO | [III S 312/18](https://www.saos.org.pl/judgments/371914) | Postanowienie
+- 2018-12-11 | SO | [I S 163/18](https://www.saos.org.pl/judgments/367348) | Postanowienie
+- 2018-12-10 | SO | [I S 353/18](https://www.saos.org.pl/judgments/390080) | Postanowienie
+- 2018-12-06 | SO | [I C 739/18](https://www.saos.org.pl/judgments/367342) | Wyrok
+- 2018-12-03 | SO | [II S 51/18](https://www.saos.org.pl/judgments/367991) | Postanowienie
+- 2018-11-29 | SO | [XXV C 1285/17](https://www.saos.org.pl/judgments/419295) | Wyrok
+- 2018-11-26 | SO | [III S 9/18](https://www.saos.org.pl/judgments/381415) | Postanowienie
+- 2018-10-16 | SO | [III S 226/18](https://www.saos.org.pl/judgments/361926) | Postanowienie
+- 2018-10-12 | SO | [I S 84/18](https://www.saos.org.pl/judgments/417083) | Postanowienie
+- 2018-10-02 | SO | [III S 250/18](https://www.saos.org.pl/judgments/361686) | Postanowienie
+- 2018-09-19 | SO | [I ACa 134/18](https://www.saos.org.pl/judgments/417036) | Wyrok
+- 2018-09-14 | SO | [V S 37/18](https://www.saos.org.pl/judgments/355776) | Postanowienie
+- 2018-09-12 | SO | [V S 32/18](https://www.saos.org.pl/judgments/413719) | Postanowienie
+- 2018-07-31 | SO | [III S 179/18](https://www.saos.org.pl/judgments/351465) | Postanowienie
+- 2018-07-18 | SO | [III S 146/18](https://www.saos.org.pl/judgments/351464) | Postanowienie
+- 2018-07-12 | SO | [III S 98/18](https://www.saos.org.pl/judgments/351466) | Postanowienie
+- 2018-07-05 | SO | [II S 29/18](https://www.saos.org.pl/judgments/347108) | Zarządzenie
+- 2018-06-22 | SO | [V S 17/18](https://www.saos.org.pl/judgments/413711) | Postanowienie
+- 2018-06-19 | SO | [II S 22/18](https://www.saos.org.pl/judgments/347107) | Postanowienie
+- 2018-06-07 | SO | [XXIII S 32/18](https://www.saos.org.pl/judgments/345771) | Postanowienie
+- 2018-06-04 | SO | [XXIII S 18/18](https://www.saos.org.pl/judgments/345770) | Postanowienie
+- 2018-05-29 | SO | [II S 25/18](https://www.saos.org.pl/judgments/343195) | Uzasadnienie
+- 2018-05-22 | SO | [III S 103/18](https://www.saos.org.pl/judgments/345700) | Postanowienie
+- 2018-05-18 | SO | [II S 23/18](https://www.saos.org.pl/judgments/341901) | Postanowienie
+- 2018-05-16 | SO | [III S 90/18](https://www.saos.org.pl/judgments/345921) | Postanowienie
+- 2018-05-10 | SO | [I S 32/18](https://www.saos.org.pl/judgments/417074) | Postanowienie
+- 2018-04-24 | SO | [I C 884/17](https://www.saos.org.pl/judgments/341547) | Wyrok
+- 2018-04-19 | SO | [I S 98/18](https://www.saos.org.pl/judgments/346102) | Postanowienie
+- 2018-04-18 | SO | [II S 15/18](https://www.saos.org.pl/judgments/338175) | Postanowienie
+- 2018-04-04 | SO | [III S 32/18](https://www.saos.org.pl/judgments/338322) | Postanowienie
+- 2018-04-04 | SO | [III S 31/18](https://www.saos.org.pl/judgments/338321) | Postanowienie
+- 2018-03-27 | SO | [I S 27/18](https://www.saos.org.pl/judgments/417072) | Postanowienie
+- 2018-03-21 | SO | [III S 29/18](https://www.saos.org.pl/judgments/336596) | Postanowienie
+- 2018-03-21 | SO | [II S 9/18](https://www.saos.org.pl/judgments/333214) | Postanowienie
+- 2018-03-19 | SO | [V S 4/18](https://www.saos.org.pl/judgments/333510) | Postanowienie
+- 2018-03-19 | SO | [V S 3/18](https://www.saos.org.pl/judgments/333509) | Postanowienie
+- 2018-03-15 | SO | [II S 13/18](https://www.saos.org.pl/judgments/333212) | Postanowienie
+- 2018-02-12 | SO | [II S 8/18](https://www.saos.org.pl/judgments/327533) | Postanowienie
+- 2018-02-12 | SO | [II S 7/18](https://www.saos.org.pl/judgments/327532) | Postanowienie
+- 2018-02-08 | SO | [III S 2/18](https://www.saos.org.pl/judgments/413625) | Postanowienie
+- 2018-02-06 | SO | [III S 303/17](https://www.saos.org.pl/judgments/331156) | Postanowienie
+- 2018-02-05 | SO | [II S 4/18](https://www.saos.org.pl/judgments/327530) | Postanowienie
+- 2018-01-29 | SO | [II S 2/18](https://www.saos.org.pl/judgments/327529) | Postanowienie
+- 2018-01-24 | SO | [I S 115/17](https://www.saos.org.pl/judgments/417062) | Postanowienie
+- 2018-01-23 | SO | [III S 308/17](https://www.saos.org.pl/judgments/327985) | Postanowienie
+- 2018-01-16 | SO | [III S 22/17](https://www.saos.org.pl/judgments/413626) | Postanowienie
+- 2018-01-09 | SO | [III S 307/17](https://www.saos.org.pl/judgments/327984) | Postanowienie
+- 2017-12-21 | SO | [I S 93/17](https://www.saos.org.pl/judgments/417086) | Postanowienie
+- 2017-12-15 | SO | [I S 89/17](https://www.saos.org.pl/judgments/417085) | Postanowienie
+- 2017-12-05 | SO | [III S 247/17](https://www.saos.org.pl/judgments/327982) | Postanowienie
+- 2017-11-20 | SO | [III S 17/17](https://www.saos.org.pl/judgments/413624) | Postanowienie
+- 2017-11-16 | SO | [VII S 25/17](https://www.saos.org.pl/judgments/330354) | Postanowienie
+- 2017-11-06 | SO | [V S 38/17](https://www.saos.org.pl/judgments/413722) | Postanowienie
+- 2017-10-25 | SO | [II S 24/17](https://www.saos.org.pl/judgments/310214) | Zarządzenie
+- 2017-10-24 | SO | [III S 233/17](https://www.saos.org.pl/judgments/323979) | Postanowienie
+- 2017-10-18 | SO | [VIII S 5/17](https://www.saos.org.pl/judgments/311329) | Postanowienie
+- 2017-10-10 | SO | [III S 221/17](https://www.saos.org.pl/judgments/319254) | Postanowienie
+- 2017-10-10 | SO | [III S 198/17](https://www.saos.org.pl/judgments/315539) | Postanowienie
+- 2017-10-04 | SO | [II Ca 319/17](https://www.saos.org.pl/judgments/325519) | Wyrok
+- 2017-10-03 | SO | [V S 26/17](https://www.saos.org.pl/judgments/413715) | Postanowienie
+- 2017-10-03 | SO | [V S 26/17](https://www.saos.org.pl/judgments/307510) | Postanowienie
+- 2017-09-26 | SO | [II S 21/17](https://www.saos.org.pl/judgments/310212) | Postanowienie
+- 2017-09-19 | SO | [II S 20/17](https://www.saos.org.pl/judgments/305611) | Postanowienie
+- 2017-09-19 | SO | [II S 19/17](https://www.saos.org.pl/judgments/305610) | Postanowienie
+- 2017-09-14 | SO | [III S 180/17](https://www.saos.org.pl/judgments/315538) | Postanowienie
+- 2017-09-11 | SO | [II S 18/17](https://www.saos.org.pl/judgments/305609) | Postanowienie
+- 2017-09-07 | SO | [III S 148/17](https://www.saos.org.pl/judgments/319252) | Postanowienie
+- 2017-09-07 | SO | [III S 150/17](https://www.saos.org.pl/judgments/315537) | Postanowienie
+- 2017-09-07 | SO | [III S 133/17](https://www.saos.org.pl/judgments/315536) | Postanowienie
+- 2017-09-07 | SO | [III S 131/17](https://www.saos.org.pl/judgments/315535) | Postanowienie
+- 2017-09-06 | SO | [V S 27/17](https://www.saos.org.pl/judgments/413716) | Postanowienie
+- 2017-08-30 | SO | [I S 36/17](https://www.saos.org.pl/judgments/304911) | Postanowienie
+- 2017-08-30 | SO | [V S 36/17](https://www.saos.org.pl/judgments/299965) | Postanowienie
+- 2017-08-28 | SO | [III S 12/17](https://www.saos.org.pl/judgments/413622) | Postanowienie
+- 2017-08-23 | SO | [II S 38/17](https://www.saos.org.pl/judgments/323634) | Postanowienie
+- 2017-08-22 | SO | [I S 26/17](https://www.saos.org.pl/judgments/417071) | Postanowienie
+- 2017-07-18 | SO | [III S 110/17](https://www.saos.org.pl/judgments/305901) | Postanowienie
+- 2017-07-18 | SO | [II S 16/17](https://www.saos.org.pl/judgments/293141) | Postanowienie
+- 2017-07-18 | SO | [II S 15/17](https://www.saos.org.pl/judgments/293140) | Postanowienie
+- 2017-07-18 | SO | [II S 14/17](https://www.saos.org.pl/judgments/293139) | Postanowienie
+- 2017-07-18 | SO | [II S 13/17](https://www.saos.org.pl/judgments/293138) | Postanowienie
+- 2017-07-06 | SO | [II S 12/17](https://www.saos.org.pl/judgments/293137) | Postanowienie
+- 2017-07-05 | SO | [II S 11/17](https://www.saos.org.pl/judgments/293136) | Postanowienie
+- 2017-06-21 | SO | [XXIII S 41/17](https://www.saos.org.pl/judgments/294814) | Postanowienie
+- 2017-06-01 | SO | [II AKz 179/17](https://www.saos.org.pl/judgments/288404) | Postanowienie
+- 2017-05-26 | SO | [II S 9/17](https://www.saos.org.pl/judgments/290101) | Postanowienie
+- 2017-05-24 | SO | [I S 7/17](https://www.saos.org.pl/judgments/417079) | Postanowienie
+- 2017-05-23 | SO | [III S 48/17](https://www.saos.org.pl/judgments/299349) | Postanowienie
+- 2017-04-06 | SO | [VII S 1/17](https://www.saos.org.pl/judgments/327797) | Postanowienie
+- 2017-04-05 | SO | [III S 42/17](https://www.saos.org.pl/judgments/327591) | Postanowienie
+- 2017-03-30 | SO | [VII S 7/17](https://www.saos.org.pl/judgments/287300) | Postanowienie
+- 2017-03-24 | SO | [I S 2/17](https://www.saos.org.pl/judgments/417068) | Postanowienie
+- 2017-03-13 | SO | [III S 5/17](https://www.saos.org.pl/judgments/279818) | Postanowienie
+- 2017-02-28 | SO | [II S 1/17](https://www.saos.org.pl/judgments/280804) | Postanowienie
+- 2017-02-21 | SO | [XXIII S 88/16](https://www.saos.org.pl/judgments/277125) | Postanowienie
+- 2017-02-20 | SO | [II S 350/16](https://www.saos.org.pl/judgments/417207) | Postanowienie
+- 2017-02-15 | SO | [II S 372/16](https://www.saos.org.pl/judgments/416866) | Postanowienie
+- 2017-02-08 | SO | [II S 331/16](https://www.saos.org.pl/judgments/417205) | Postanowienie
+- 2017-02-02 | SO | [II S 352/16](https://www.saos.org.pl/judgments/416986) | Postanowienie
+- 2017-02-01 | SO | [II S 311/16](https://www.saos.org.pl/judgments/417197) | Postanowienie
+- 2017-01-31 | SO | [V S 41/16](https://www.saos.org.pl/judgments/269766) | Postanowienie
+- 2017-01-30 | SO | [II S 323/16](https://www.saos.org.pl/judgments/417202) | Postanowienie
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2016-12-28 | SO | [II S 312/16](https://www.saos.org.pl/judgments/417198) | Postanowienie
+- 2016-12-28 | SO | [II S 295/16](https://www.saos.org.pl/judgments/416799) | Postanowienie
+- 2016-12-20 | SO | [III S 181/16](https://www.saos.org.pl/judgments/265581) | Postanowienie
+- 2016-12-19 | SO | [II S 308/16](https://www.saos.org.pl/judgments/417195) | Postanowienie
+- 2016-12-19 | SO | [I S 387/16](https://www.saos.org.pl/judgments/266246) | Postanowienie
+- 2016-12-19 | SO | [I S 386/16](https://www.saos.org.pl/judgments/266245) | Postanowienie
+- 2016-12-16 | SO | [II S 305/16](https://www.saos.org.pl/judgments/417192) | Postanowienie
+- 2016-12-08 | SO | [I ACa 656/16](https://www.saos.org.pl/judgments/271235) | Wyrok
+- 2016-11-28 | SO | [III S 176/16](https://www.saos.org.pl/judgments/265580) | Postanowienie
+- 2016-11-23 | SO | [II S 270/16](https://www.saos.org.pl/judgments/416792) | Postanowienie
+- 2016-11-22 | SO | [I S 339/16](https://www.saos.org.pl/judgments/258792) | Postanowienie
+- 2016-11-21 | SO | [II S 242/16](https://www.saos.org.pl/judgments/416573) | Postanowienie
+- 2016-11-18 | SO | [II S 285/16](https://www.saos.org.pl/judgments/416796) | Postanowienie
+- 2016-11-18 | SO | [II S 279/16](https://www.saos.org.pl/judgments/416737) | Postanowienie
+- 2016-11-16 | SO | [II S 281/16](https://www.saos.org.pl/judgments/416795) | Postanowienie
+- 2016-11-14 | SO | [II S 220/16](https://www.saos.org.pl/judgments/416035) | Postanowienie
+- 2016-11-09 | SO | [II S 233/16](https://www.saos.org.pl/judgments/416570) | Postanowienie
+- 2016-11-09 | SO | [III S 166/16](https://www.saos.org.pl/judgments/265579) | Postanowienie
+- 2016-11-08 | SO | [III S 159/16](https://www.saos.org.pl/judgments/254416) | Postanowienie
+- 2016-11-04 | SO | [V Ca 3894/15](https://www.saos.org.pl/judgments/415375) | Wyrok
+- 2016-10-25 | SO | [II S 274/16](https://www.saos.org.pl/judgments/416793) | Postanowienie
+- 2016-10-19 | SO | [VI ACa 931/15](https://www.saos.org.pl/judgments/261042) | Wyrok
+- 2016-10-12 | SO | [II S 218/16](https://www.saos.org.pl/judgments/414909) | Postanowienie
+- 2016-10-12 | SO | [II S 29/16](https://www.saos.org.pl/judgments/251920) | Postanowienie
+- 2016-09-29 | SO | [I ACa 351/16](https://www.saos.org.pl/judgments/256486) | Wyrok
+- 2016-09-29 | SO | [III S 148/16](https://www.saos.org.pl/judgments/251415) | Postanowienie
+- 2016-09-28 | SO | [II S 205/16](https://www.saos.org.pl/judgments/414908) | Postanowienie
+- 2016-09-27 | SO | [II S 217/16](https://www.saos.org.pl/judgments/416034) | Postanowienie
+- 2016-09-27 | SO | [III S 75/16](https://www.saos.org.pl/judgments/249319) | Postanowienie
+- 2016-09-26 | SO | [II S 231/16](https://www.saos.org.pl/judgments/416038) | Postanowienie
+- 2016-09-21 | SO | [III S 101/16](https://www.saos.org.pl/judgments/248754) | Postanowienie
+- 2016-09-15 | SO | [II S 239/16](https://www.saos.org.pl/judgments/416571) | Postanowienie
+- 2016-09-14 | SO | [II S 223/16](https://www.saos.org.pl/judgments/416036) | Postanowienie
+- 2016-09-12 | SO | [I S 56/16](https://www.saos.org.pl/judgments/248184) | Postanowienie
+- 2016-09-08 | SO | [II S 215/16](https://www.saos.org.pl/judgments/415528) | Postanowienie
+- 2016-09-08 | SO | [II S 191/16](https://www.saos.org.pl/judgments/415426) | Postanowienie
+- 2016-09-06 | SO | [III S 151/16](https://www.saos.org.pl/judgments/247443) | Postanowienie
+- 2016-08-30 | SO | [III S 11/16](https://www.saos.org.pl/judgments/251750) | Postanowienie
+- 2016-08-26 | SO | [II S 91/16](https://www.saos.org.pl/judgments/415149) | Postanowienie
+- 2016-08-18 | SO | [II S 204/16](https://www.saos.org.pl/judgments/415527) | Postanowienie
+- 2016-08-17 | SO | [II S 202/16](https://www.saos.org.pl/judgments/415526) | Postanowienie
+- 2016-08-11 | SO | [II S 194/16](https://www.saos.org.pl/judgments/415525) | Postanowienie
+- 2016-08-08 | SO | [II S 167/16](https://www.saos.org.pl/judgments/415420) | Postanowienie
+- 2016-08-04 | SO | [I S 245/16](https://www.saos.org.pl/judgments/250787) | Postanowienie
+- 2016-07-20 | SO | [II S 136/16](https://www.saos.org.pl/judgments/415334) | Postanowienie
+- 2016-07-19 | SO | [II S 114/16](https://www.saos.org.pl/judgments/415330) | Postanowienie
+- 2016-07-19 | SO | [III S 115/16](https://www.saos.org.pl/judgments/242373) | Postanowienie
+- 2016-07-15 | SO | [II S 140/16](https://www.saos.org.pl/judgments/415335) | Postanowienie
+- 2016-07-14 | SO | [II S 153/16](https://www.saos.org.pl/judgments/415417) | Postanowienie
+- 2016-07-13 | SO | [II S 173/16](https://www.saos.org.pl/judgments/415422) | Postanowienie
+- 2016-07-13 | SO | [II S 135/16](https://www.saos.org.pl/judgments/415333) | Postanowienie
+- 2016-07-12 | SO | [III S 88/16](https://www.saos.org.pl/judgments/241227) | Postanowienie
+- 2016-07-11 | SO | [II S 124/16](https://www.saos.org.pl/judgments/415332) | Postanowienie
+- 2016-07-11 | SO | [II S 27/16](https://www.saos.org.pl/judgments/239989) | Postanowienie
+- 2016-07-06 | SO | [II S 169/16](https://www.saos.org.pl/judgments/415421) | Postanowienie
+- 2016-07-05 | SO | [III S 113/16](https://www.saos.org.pl/judgments/246545) | Postanowienie
+- 2016-06-30 | SO | [II S 19/16](https://www.saos.org.pl/judgments/233533) | Postanowienie
+- 2016-06-28 | SO | [II S 142/16](https://www.saos.org.pl/judgments/415336) | Postanowienie
+- 2016-06-28 | SO | [III S 107/16](https://www.saos.org.pl/judgments/233570) | Postanowienie
+- 2016-06-24 | SO | [II S 107/16](https://www.saos.org.pl/judgments/415328) | Postanowienie
+- 2016-06-16 | SO | [II S 18/16](https://www.saos.org.pl/judgments/230850) | Postanowienie
+- 2016-06-14 | SO | [II S 122/16](https://www.saos.org.pl/judgments/415331) | Postanowienie
+- 2016-06-13 | SO | [II S 78/16](https://www.saos.org.pl/judgments/415147) | Postanowienie
+- 2016-06-13 | SO | [I S 179/16](https://www.saos.org.pl/judgments/246144) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-06-03 | SO | [II S 14/16](https://www.saos.org.pl/judgments/239988) | Postanowienie
+- 2016-06-01 | SO | [II S 17/16](https://www.saos.org.pl/judgments/227695) | Postanowienie
+- 2016-05-31 | SO | [III S 69/16](https://www.saos.org.pl/judgments/231974) | Postanowienie
+- 2016-05-30 | SO | [II S 15/16](https://www.saos.org.pl/judgments/231364) | Postanowienie
+- 2016-05-20 | SO | [III S 3/16](https://www.saos.org.pl/judgments/238405) | Postanowienie
+- 2016-05-17 | SO | [III S 63/16](https://www.saos.org.pl/judgments/225662) | Postanowienie
+- 2016-05-12 | SO | [II S 83/16](https://www.saos.org.pl/judgments/415148) | Postanowienie
+- 2016-05-10 | SO | [II S 13/16](https://www.saos.org.pl/judgments/233301) | Postanowienie
+- 2016-05-10 | SO | [III S 31/16](https://www.saos.org.pl/judgments/227292) | Postanowienie
+- 2016-05-10 | SO | [III S 30/16](https://www.saos.org.pl/judgments/227291) | Postanowienie
+- 2016-05-10 | SO | [III S 29/16](https://www.saos.org.pl/judgments/227290) | Postanowienie
+- 2016-05-05 | SO | [II S 66/16](https://www.saos.org.pl/judgments/415020) | Postanowienie
+- 2016-05-04 | SO | [III S 57/16](https://www.saos.org.pl/judgments/225661) | Postanowienie
+- 2016-04-29 | SO | [I S 24/16](https://www.saos.org.pl/judgments/223300) | Postanowienie
+- 2016-04-27 | SO | [II S 13/16](https://www.saos.org.pl/judgments/225119) | Postanowienie
+- 2016-04-26 | SO | [III S 34/16](https://www.saos.org.pl/judgments/225660) | Postanowienie
+- 2016-04-26 | SO | [III S 11/16](https://www.saos.org.pl/judgments/225659) | Postanowienie
+- 2016-04-26 | SO | [III S 45/16](https://www.saos.org.pl/judgments/219853) | Postanowienie
+- 2016-04-22 | SO | [II S 38/16](https://www.saos.org.pl/judgments/415011) | Postanowienie
+- 2016-04-20 | SO | [VII S 1/16](https://www.saos.org.pl/judgments/420040) | Postanowienie
+- 2016-04-20 | SO | [II S 77/16](https://www.saos.org.pl/judgments/415146) | Postanowienie
+- 2016-04-20 | SO | [II S 58/16](https://www.saos.org.pl/judgments/415016) | Postanowienie
+- 2016-04-20 | SO | [III S 53/16](https://www.saos.org.pl/judgments/219854) | Postanowienie
+- 2016-04-15 | SO | [II S 65/16](https://www.saos.org.pl/judgments/415019) | Postanowienie
+- 2016-04-13 | SO | [II S 11/16](https://www.saos.org.pl/judgments/219263) | Postanowienie
+- 2016-04-12 | SO | [II S 69/16](https://www.saos.org.pl/judgments/415021) | Postanowienie
+- 2016-04-12 | SO | [III S 25/16](https://www.saos.org.pl/judgments/219851) | Postanowienie
+- 2016-04-12 | SO | [I S 21/16](https://www.saos.org.pl/judgments/219162) | Postanowienie
+- 2016-03-31 | SO | [V S 8/16](https://www.saos.org.pl/judgments/215531) | Postanowienie
+- 2016-03-30 | SO | [III S 37/16](https://www.saos.org.pl/judgments/215430) | Postanowienie
+- 2016-03-22 | SO | [II S 11/16](https://www.saos.org.pl/judgments/414904) | Postanowienie
+- 2016-03-21 | SO | [II S 44/16](https://www.saos.org.pl/judgments/415013) | Postanowienie
+- 2016-03-17 | SN | [III SPP 48/16](https://www.saos.org.pl/judgments/244896) | Postanowienie
+- 2016-03-10 | SO | [II S 36/16](https://www.saos.org.pl/judgments/415010) | Postanowienie
+- 2016-03-08 | SO | [II S 26/16](https://www.saos.org.pl/judgments/414910) | Postanowienie
+- 2016-03-07 | SO | [II S 5/16](https://www.saos.org.pl/judgments/213408) | Postanowienie
+- 2016-03-04 | SO | [II S 29/16](https://www.saos.org.pl/judgments/414911) | Postanowienie
+- 2016-03-02 | SO | [II S 17/16](https://www.saos.org.pl/judgments/414906) | Postanowienie
+- 2016-02-23 | SO | [III S 263/15](https://www.saos.org.pl/judgments/215429) | Postanowienie
+- 2016-02-22 | SO | [V S 47/15](https://www.saos.org.pl/judgments/204783) | Postanowienie
+- 2016-02-09 | SO | [III S 269/15](https://www.saos.org.pl/judgments/210392) | Postanowienie
+- 2016-02-05 | SO | [II S 305/15](https://www.saos.org.pl/judgments/417191) | Postanowienie
+- 2016-02-04 | SO | [II S 317/15](https://www.saos.org.pl/judgments/417199) | Postanowienie
+- 2016-02-02 | SO | [III S 250/15](https://www.saos.org.pl/judgments/210391) | Postanowienie
+- 2016-01-29 | SO | [II S 257/15](https://www.saos.org.pl/judgments/417188) | Postanowienie
+- 2016-01-27 | SO | [II S 308/15](https://www.saos.org.pl/judgments/417194) | Postanowienie
+- 2016-01-26 | SO | [II S 323/15](https://www.saos.org.pl/judgments/417201) | Postanowienie
+- 2016-01-22 | SO | [II Cs 316/15](https://www.saos.org.pl/judgments/298630) | Postanowienie
+- 2016-01-21 | SO | [II S 211/15](https://www.saos.org.pl/judgments/417187) | Postanowienie
+- 2016-01-14 | SO | [II S 80/15](https://www.saos.org.pl/judgments/197955) | Postanowienie
+- 2016-01-12 | SO | [III S 222/15](https://www.saos.org.pl/judgments/210388) | Postanowienie
+- 2016-01-05 | SO | [I S 15/15](https://www.saos.org.pl/judgments/414172) | Postanowienie
+- 2015-12-30 | SO | [I C 256/15](https://www.saos.org.pl/judgments/213280) | Wyrok
+- 2015-12-29 | SO | [III S 225/15](https://www.saos.org.pl/judgments/210389) | Postanowienie
+- 2015-12-29 | SO | [III S 211/15](https://www.saos.org.pl/judgments/210383) | Postanowienie
+- 2015-12-29 | SO | [III S 150/15](https://www.saos.org.pl/judgments/210376) | Postanowienie
+- 2015-12-29 | SO | [II S 30/15](https://www.saos.org.pl/judgments/197669) | Postanowienie
+- 2015-12-28 | SO | [II S 29/15](https://www.saos.org.pl/judgments/197668) | Postanowienie
+- 2015-12-21 | SO | [II S 28/15](https://www.saos.org.pl/judgments/192504) | Postanowienie
+- 2015-12-15 | SN | [III SPP 28/15](https://www.saos.org.pl/judgments/244176) | Postanowienie
+- 2015-12-15 | SN | [III SPP 27/15](https://www.saos.org.pl/judgments/244175) | Postanowienie
+- 2015-12-15 | SN | [III SPP 26/15](https://www.saos.org.pl/judgments/244174) | Postanowienie
+- 2015-12-15 | SO | [III S 220/15](https://www.saos.org.pl/judgments/210387) | Postanowienie
+- 2015-12-11 | SO | [III S 4/15](https://www.saos.org.pl/judgments/252605) | Postanowienie
+- 2015-12-11 | SO | [I S 106/15](https://www.saos.org.pl/judgments/192154) | Postanowienie
+- 2015-12-09 | SO | [I S 111/15](https://www.saos.org.pl/judgments/192155) | Postanowienie
+- 2015-12-08 | SO | [III S 216/15](https://www.saos.org.pl/judgments/210385) | Postanowienie
+- 2015-12-04 | SO | [II S 26/15](https://www.saos.org.pl/judgments/191564) | Postanowienie
+- 2015-11-24 | SO | [III S 196/15](https://www.saos.org.pl/judgments/210380) | Postanowienie
+- 2015-11-17 | SO | [III S 195/15](https://www.saos.org.pl/judgments/210379) | Postanowienie
+- 2015-11-17 | SO | [III S 184/15](https://www.saos.org.pl/judgments/210378) | Postanowienie
+- 2015-11-09 | SO | [XXIII S 70/16](https://www.saos.org.pl/judgments/283330) | Postanowienie
+- 2015-11-03 | SO | [III S 197/15](https://www.saos.org.pl/judgments/210381) | Postanowienie
+- 2015-11-03 | SO | [III S 187/15](https://www.saos.org.pl/judgments/185942) | Postanowienie
+- 2015-11-02 | SO | [II Cs 257/15](https://www.saos.org.pl/judgments/298629) | Postanowienie
+- 2015-10-27 | SO | [III S 186/15](https://www.saos.org.pl/judgments/185941) | Postanowienie
+- 2015-10-27 | SO | [III S 149/15](https://www.saos.org.pl/judgments/185930) | Postanowienie
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-10-20 | SO | [III S 174/15](https://www.saos.org.pl/judgments/185936) | Postanowienie
+- 2015-10-13 | SO | [III S 188/15](https://www.saos.org.pl/judgments/185943) | Postanowienie
+- 2015-10-13 | SO | [III S 156/15](https://www.saos.org.pl/judgments/185935) | Postanowienie
+- 2015-10-13 | SO | [III S 125/15](https://www.saos.org.pl/judgments/185927) | Postanowienie
+- 2015-10-13 | SO | [III S 121/15](https://www.saos.org.pl/judgments/185925) | Postanowienie
+- 2015-10-09 | SO | [II S 58/15](https://www.saos.org.pl/judgments/296206) | Postanowienie
+- 2015-10-07 | SO | [II S 55/15](https://www.saos.org.pl/judgments/296205) | Postanowienie
+- 2015-10-07 | SO | [I S 78/15](https://www.saos.org.pl/judgments/182878) | Postanowienie
+- 2015-10-06 | SO | [III S 122/15](https://www.saos.org.pl/judgments/185926) | Postanowienie
+- 2015-10-02 | SO | [II S 52/15](https://www.saos.org.pl/judgments/296204) | Postanowienie
+- 2015-09-29 | SO | [III S 117/15](https://www.saos.org.pl/judgments/185922) | Postanowienie
+- 2015-09-22 | SO | [III S 152/15](https://www.saos.org.pl/judgments/185933) | Postanowienie
+- 2015-09-21 | SO | [I S 232/15](https://www.saos.org.pl/judgments/182877) | Postanowienie
+- 2015-09-17 | SO | [I ACa 905/15](https://www.saos.org.pl/judgments/323361) | Wyrok
+- 2015-09-16 | SO | [XXIII S 79/15](https://www.saos.org.pl/judgments/180399) | Postanowienie
+- 2015-09-15 | SO | [II S 51/15](https://www.saos.org.pl/judgments/184034) | Postanowienie
+- 2015-09-09 | SN | [III SPP 22/15](https://www.saos.org.pl/judgments/243281) | Postanowienie
+- 2015-09-03 | SN | [KSP 11/15](https://www.saos.org.pl/judgments/243227) | Postanowienie
+- 2015-09-02 | SO | [III S 131/15](https://www.saos.org.pl/judgments/185928) | Postanowienie
+- 2015-09-02 | SO | [II S 18/15](https://www.saos.org.pl/judgments/178253) | Postanowienie
+- 2015-08-24 | SO | [II S 37/15](https://www.saos.org.pl/judgments/177616) | Postanowienie
+- 2015-08-10 | SO | [II S 10/15](https://www.saos.org.pl/judgments/174210) | Postanowienie
+- 2015-08-05 | SO | [II S 36/15](https://www.saos.org.pl/judgments/175287) | Postanowienie
+- 2015-08-04 | SO | [III S 114/15](https://www.saos.org.pl/judgments/185921) | Postanowienie
+- 2015-07-30 | SO | [II S 12/15](https://www.saos.org.pl/judgments/178613) | Postanowienie
+- 2015-07-24 | SO | [I C 3529/14](https://www.saos.org.pl/judgments/263060) | Uzasadnienie
+- 2015-07-21 | SN | [III SPP 15/15](https://www.saos.org.pl/judgments/243059) | Postanowienie
+- 2015-07-14 | SO | [III S 73/15](https://www.saos.org.pl/judgments/185968) | Postanowienie
+- 2015-07-03 | SO | [I S 58/15](https://www.saos.org.pl/judgments/169318) | Postanowienie
+- 2015-06-30 | SO | [III S 100/15](https://www.saos.org.pl/judgments/159781) | Postanowienie
+- 2015-06-16 | SO | [III S 68/15](https://www.saos.org.pl/judgments/185967) | Postanowienie
+- 2015-06-16 | SO | [III S 67/15](https://www.saos.org.pl/judgments/185966) | Postanowienie
+- 2015-06-12 | SO | [XV S 59/15](https://www.saos.org.pl/judgments/156774) | Postanowienie
+- 2015-06-09 | SO | [III S 75/15](https://www.saos.org.pl/judgments/185969) | Postanowienie
+- 2015-06-02 | SO | [III S 80/15](https://www.saos.org.pl/judgments/185970) | Postanowienie
+- 2015-05-20 | SO | [II Ca 337/15](https://www.saos.org.pl/judgments/298568) | Wyrok
+- 2015-05-20 | SO | [II S 33/15](https://www.saos.org.pl/judgments/297447) | Postanowienie
+- 2015-05-20 | SO | [III S 2/15](https://www.saos.org.pl/judgments/171081) | Postanowienie
+- 2015-05-18 | SO | [II Cs 99/15](https://www.saos.org.pl/judgments/298633) | Postanowienie
+- 2015-05-18 | SO | [II S 23/15](https://www.saos.org.pl/judgments/297446) | Postanowienie
+- 2015-05-15 | SO | [II Cs 103/15](https://www.saos.org.pl/judgments/298628) | Postanowienie
+- 2015-05-15 | SO | [I S 54/15](https://www.saos.org.pl/judgments/156947) | Postanowienie
+- 2015-05-06 | SO | [I S 36/15](https://www.saos.org.pl/judgments/152736) | Postanowienie
+- 2015-05-05 | SO | [III S 62/15](https://www.saos.org.pl/judgments/185965) | Postanowienie
+- 2015-05-04 | SO | [I S 100/15](https://www.saos.org.pl/judgments/153601) | Postanowienie
+- 2015-04-24 | SO | [II Cs 54/15](https://www.saos.org.pl/judgments/298631) | Postanowienie
+- 2015-04-23 | SN | [III SPP 8/15](https://www.saos.org.pl/judgments/168921) | Postanowienie
+- 2015-04-23 | SO | [I S 26/15](https://www.saos.org.pl/judgments/152734) | Postanowienie
+- 2015-04-17 | SO | [I C 1613/14](https://www.saos.org.pl/judgments/221810) | Wyrok
+- 2015-04-14 | SO | [III S 58/15](https://www.saos.org.pl/judgments/185964) | Postanowienie
+- 2015-04-13 | SO | [II S 15/15](https://www.saos.org.pl/judgments/155900) | Postanowienie
+- 2015-04-13 | SO | [II S 5/15](https://www.saos.org.pl/judgments/150463) | Postanowienie
+- 2015-04-08 | SO | [II S 16/15](https://www.saos.org.pl/judgments/297445) | Postanowienie
+- 2015-04-07 | SO | [III S 45/15](https://www.saos.org.pl/judgments/185962) | Postanowienie
+- 2015-03-27 | SO | [I ACa 1086/14](https://www.saos.org.pl/judgments/156853) | Wyrok
+- 2015-03-25 | SO | [III S 1/15](https://www.saos.org.pl/judgments/148197) | Postanowienie
+- 2015-03-24 | SO | [III S 9/15](https://www.saos.org.pl/judgments/185972) | Postanowienie
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2015-03-18 | SO | [I S 6/15](https://www.saos.org.pl/judgments/135276) | Postanowienie
+- 2015-03-16 | SO | [III S 232/14](https://www.saos.org.pl/judgments/185956) | Postanowienie
+- 2015-03-10 | SO | [III S 29/15](https://www.saos.org.pl/judgments/159288) | Postanowienie
+- 2015-02-24 | SO | [III S 21/15](https://www.saos.org.pl/judgments/185951) | Postanowienie
+- 2015-02-24 | SO | [III S 18/15](https://www.saos.org.pl/judgments/185939) | Postanowienie
+- 2015-02-24 | SO | [III S 12/15](https://www.saos.org.pl/judgments/185924) | Postanowienie
+- 2015-02-17 | SO | [III S 248/14](https://www.saos.org.pl/judgments/185960) | Postanowienie
+- 2015-02-12 | SO | [II S 4/15](https://www.saos.org.pl/judgments/148438) | Uzasadnienie
+- 2015-02-10 | SO | [III S 245/14](https://www.saos.org.pl/judgments/185959) | Postanowienie
+- 2015-02-09 | SO | [I S 15/15](https://www.saos.org.pl/judgments/134580) | Postanowienie
+- 2015-02-03 | SO | [III S 233/14](https://www.saos.org.pl/judgments/185957) | Postanowienie
+- 2015-02-03 | SO | [III S 1/15](https://www.saos.org.pl/judgments/185919) | Postanowienie
+- 2015-01-20 | SO | [III S 199/14](https://www.saos.org.pl/judgments/185948) | Postanowienie
+- 2015-01-20 | SN | [III SPP 234/14](https://www.saos.org.pl/judgments/168038) | Postanowienie
+- 2015-01-15 | SN | [WSP 10/14](https://www.saos.org.pl/judgments/167829) | Postanowienie
+- 2015-01-13 | SO | [IX C 561/14](https://www.saos.org.pl/judgments/331650) | Wyrok
+- 2015-01-13 | SO | [III S 220/14](https://www.saos.org.pl/judgments/185953) | Postanowienie
+- 2015-01-09 | SO | [II S 74/14](https://www.saos.org.pl/judgments/151744) | Postanowienie
+- 2015-01-08 | SO | [III S 235/14](https://www.saos.org.pl/judgments/185958) | Postanowienie
+- 2015-01-08 | SO | [III S 228/14](https://www.saos.org.pl/judgments/185955) | Postanowienie
+- 2014-12-22 | SO | [II Cs 262/14](https://www.saos.org.pl/judgments/295624) | Postanowienie
+- 2014-12-18 | SN | [III SPP 232/14](https://www.saos.org.pl/judgments/167712) | Postanowienie
+- 2014-12-11 | SO | [II Cs 254/14](https://www.saos.org.pl/judgments/295623) | Postanowienie
+- 2014-12-11 | SO | [I S 276/14](https://www.saos.org.pl/judgments/128690) | Postanowienie
+- 2014-12-09 | SN | [III SPP 231/14](https://www.saos.org.pl/judgments/167698) | Postanowienie
+- 2014-12-09 | SO | [XV S 190/14](https://www.saos.org.pl/judgments/149032) | Postanowienie
+- 2014-12-09 | SO | [XV S 189/14](https://www.saos.org.pl/judgments/149031) | Postanowienie
+- 2014-12-05 | SO | [VI ACa 230/14](https://www.saos.org.pl/judgments/134934) | Wyrok
+- 2014-12-02 | SO | [V S 144/14](https://www.saos.org.pl/judgments/424219) | Postanowienie
+- 2014-12-02 | SO | [III S 203/14](https://www.saos.org.pl/judgments/185950) | Postanowienie
+- 2014-12-02 | SO | [III S 176/14](https://www.saos.org.pl/judgments/185937) | Postanowienie
+- 2014-11-27 | SO | [I S 263/14](https://www.saos.org.pl/judgments/131471) | Postanowienie
+- 2014-11-25 | SN | [III SPP 230/14](https://www.saos.org.pl/judgments/167561) | Postanowienie
+- 2014-11-25 | SN | [III SPP 229/14](https://www.saos.org.pl/judgments/167560) | Postanowienie
+- 2014-11-24 | SO | [II Cs 234/14](https://www.saos.org.pl/judgments/295618) | Postanowienie
+- 2014-11-18 | SO | [III S 178/14](https://www.saos.org.pl/judgments/185938) | Postanowienie
+- 2014-11-14 | SO | [II Cs 250/14](https://www.saos.org.pl/judgments/295622) | Postanowienie
+- 2014-11-14 | SO | [II Cs 246/14](https://www.saos.org.pl/judgments/295621) | Postanowienie
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-13 | SO | [I C 168/14](https://www.saos.org.pl/judgments/74949) | Wyrok
+- 2014-11-12 | SO | [III S 190/14](https://www.saos.org.pl/judgments/185944) | Postanowienie
+- 2014-11-12 | SO | [III S 151/14](https://www.saos.org.pl/judgments/185932) | Postanowienie
+- 2014-11-05 | SO | [II S 64/14](https://www.saos.org.pl/judgments/125188) | Postanowienie
+- 2014-11-04 | SO | [III S 171/14](https://www.saos.org.pl/judgments/125474) | Postanowienie
+- 2014-10-29 | SN | [KSP 8/14](https://www.saos.org.pl/judgments/167168) | Postanowienie
+- 2014-10-29 | SO | [II S 33/14](https://www.saos.org.pl/judgments/68341) | Uzasadnienie
+- 2014-10-28 | SO | [III S 145/14](https://www.saos.org.pl/judgments/72704) | Postanowienie
+- 2014-10-24 | SO | [V S 142/14](https://www.saos.org.pl/judgments/424218) | Postanowienie
+- 2014-10-24 | SO | [II Cs 208/14](https://www.saos.org.pl/judgments/295615) | Postanowienie
+- 2014-10-24 | SO | [II Cs 159/14](https://www.saos.org.pl/judgments/295610) | Postanowienie
+- 2014-10-23 | SO | [V S 126/14](https://www.saos.org.pl/judgments/66069) | Postanowienie
+- 2014-10-21 | SO | [I S 233/14](https://www.saos.org.pl/judgments/130230) | Postanowienie
+- 2014-10-21 | SO | [III S 156/14](https://www.saos.org.pl/judgments/125808) | Postanowienie
+- 2014-10-20 | SO | [III S 9/14](https://www.saos.org.pl/judgments/67874) | Postanowienie
+- 2014-10-16 | SO | [II Cs 202/14](https://www.saos.org.pl/judgments/295613) | Postanowienie
+- 2014-10-15 | SO | [III S 143/14](https://www.saos.org.pl/judgments/126058) | Postanowienie
+- 2014-10-09 | SO | [V S 123/14](https://www.saos.org.pl/judgments/64679) | Postanowienie
+- 2014-10-01 | SO | [II S 49/14](https://www.saos.org.pl/judgments/424671) | Postanowienie
+- 2014-09-29 | SO | [II Cs 161/14](https://www.saos.org.pl/judgments/296178) | Postanowienie
+- 2014-09-25 | SO | [II Cs 197/14](https://www.saos.org.pl/judgments/295611) | Postanowienie
+- 2014-09-25 | SO | [I S 205/14](https://www.saos.org.pl/judgments/128489) | Postanowienie
+- 2014-09-23 | SO | [XV S 140/14](https://www.saos.org.pl/judgments/71960) | Postanowienie
+- 2014-09-23 | SO | [III S 162/14](https://www.saos.org.pl/judgments/69469) | Postanowienie
+- 2014-09-22 | SO | [II S 60/14](https://www.saos.org.pl/judgments/265509) | Uzasadnienie
+- 2014-09-22 | SO | [VI S 8/14](https://www.saos.org.pl/judgments/62280) | Postanowienie
+- 2014-09-22 | SO | [VI S 6/14](https://www.saos.org.pl/judgments/62279) | Postanowienie
+- 2014-09-18 | SO | [II S 62/14](https://www.saos.org.pl/judgments/61176) | Postanowienie
+- 2014-09-12 | SO | [II Cs 158/14](https://www.saos.org.pl/judgments/295609) | Postanowienie
+- 2014-09-09 | SO | [III S 109/14](https://www.saos.org.pl/judgments/67511) | Postanowienie
+- 2014-09-02 | SO | [III S 114/14](https://www.saos.org.pl/judgments/68215) | Postanowienie
+- 2014-09-02 | SO | [III S 82/14](https://www.saos.org.pl/judgments/67873) | Postanowienie
+- 2014-09-01 | SO | [I S 183/14](https://www.saos.org.pl/judgments/68655) | Postanowienie
+- 2014-09-01 | SO | [I S 177/14](https://www.saos.org.pl/judgments/68654) | Postanowienie
+- 2014-08-29 | SO | [II S 47/14](https://www.saos.org.pl/judgments/240416) | Postanowienie
+- 2014-08-28 | SO | [V S 116/14](https://www.saos.org.pl/judgments/424214) | Postanowienie
+- 2014-08-21 | SO | [II S 45/14](https://www.saos.org.pl/judgments/59132) | Postanowienie
+- 2014-08-21 | SO | [II S 38/14](https://www.saos.org.pl/judgments/59131) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-08-12 | SO | [I S 68/14](https://www.saos.org.pl/judgments/147995) | Postanowienie
+- 2014-08-05 | SO | [III S 113/14](https://www.saos.org.pl/judgments/134455) | Postanowienie
+- 2014-07-23 | SO | [I S 64/14](https://www.saos.org.pl/judgments/429815) | Postanowienie
+- 2014-07-22 | SN | [III SPP 123/14](https://www.saos.org.pl/judgments/166448) | Postanowienie
+- 2014-07-22 | SO | [III S 100/14](https://www.saos.org.pl/judgments/64628) | Postanowienie
+- 2014-07-18 | SO | [II S 32/14](https://www.saos.org.pl/judgments/57605) | Postanowienie
+- 2014-07-15 | SO | [III S 91/14](https://www.saos.org.pl/judgments/133657) | Postanowienie
+- 2014-07-15 | SO | [XV S 110/14](https://www.saos.org.pl/judgments/53193) | Postanowienie
+- 2014-07-15 | SO | [XV S 104/14](https://www.saos.org.pl/judgments/53192) | Postanowienie
+- 2014-07-14 | SO | [III S 107/14](https://www.saos.org.pl/judgments/130138) | Postanowienie
+- 2014-07-09 | SO | [III S 86/14](https://www.saos.org.pl/judgments/134457) | Postanowienie
+- 2014-07-08 | SO | [III S 102/14](https://www.saos.org.pl/judgments/66626) | Postanowienie
+- 2014-07-04 | SO | [II S 79/14](https://www.saos.org.pl/judgments/69694) | Postanowienie
+- 2014-07-03 | SO | [I ACa 691/13](https://www.saos.org.pl/judgments/59004) | Wyrok
+- 2014-07-02 | SO | [I ACa 594/14](https://www.saos.org.pl/judgments/72630) | Wyrok
+- 2014-06-30 | SO | [II Cs 134/14](https://www.saos.org.pl/judgments/295608) | Postanowienie
+- 2014-06-24 | SO | [III S 90/14](https://www.saos.org.pl/judgments/69814) | Postanowienie
+- 2014-06-24 | SO | [III S 93/14](https://www.saos.org.pl/judgments/61235) | Postanowienie
+- 2014-06-24 | SO | [V S 84/14](https://www.saos.org.pl/judgments/52130) | Postanowienie
+- 2014-06-17 | SO | [II S 69/14](https://www.saos.org.pl/judgments/61921) | Postanowienie
+- 2014-06-16 | SO | [II Cs 121/14](https://www.saos.org.pl/judgments/295605) | Postanowienie
+- 2014-06-11 | SO | [II S 19/14](https://www.saos.org.pl/judgments/128333) | Postanowienie
+- 2014-06-11 | SO | [I ACa 499/14](https://www.saos.org.pl/judgments/69602) | Wyrok
+- 2014-06-04 | SO | [II Cs 111/14](https://www.saos.org.pl/judgments/131257) | Postanowienie
+- 2014-06-03 | SN | [III SPP 116/14](https://www.saos.org.pl/judgments/165998) | Postanowienie
+- 2014-05-30 | SO | [II Cs 106/14](https://www.saos.org.pl/judgments/131256) | Postanowienie
+- 2014-05-29 | SO | [IV U 1663/10](https://www.saos.org.pl/judgments/73828) | Postanowienie
+- 2014-05-28 | SO | [I S 54/14](https://www.saos.org.pl/judgments/429814) | Postanowienie
+- 2014-05-28 | SO | [III S 66/14](https://www.saos.org.pl/judgments/130145) | Postanowienie
+- 2014-05-28 | SO | [II Cs 110/14](https://www.saos.org.pl/judgments/63074) | Postanowienie
+- 2014-05-28 | SO | [III S 84/14](https://www.saos.org.pl/judgments/59923) | Postanowienie
+- 2014-05-27 | SO | [II Cs 103/14](https://www.saos.org.pl/judgments/131255) | Postanowienie
+- 2014-05-27 | SO | [III S 73/14](https://www.saos.org.pl/judgments/59922) | Postanowienie
+- 2014-05-23 | SO | [XV S 79/14](https://www.saos.org.pl/judgments/49610) | Postanowienie
+- 2014-05-23 | SO | [XV S 76/14](https://www.saos.org.pl/judgments/49609) | Postanowienie
+- 2014-05-16 | SO | [II Cs 57/14](https://www.saos.org.pl/judgments/63078) | Postanowienie
+- 2014-05-16 | SO | [II Cs 42/14](https://www.saos.org.pl/judgments/63077) | Postanowienie
+- 2014-05-15 | SO | [II Cs 104/14](https://www.saos.org.pl/judgments/63073) | Postanowienie
+- 2014-05-13 | SO | [III S 70/14](https://www.saos.org.pl/judgments/49081) | Postanowienie
+- 2014-05-09 | SO | [VIII S 14/14](https://www.saos.org.pl/judgments/47697) | Postanowienie
+- 2014-05-06 | SO | [V S 70/14](https://www.saos.org.pl/judgments/424223) | Postanowienie
+- 2014-05-06 | SO | [III S 64/14](https://www.saos.org.pl/judgments/59919) | Postanowienie
+- 2014-05-06 | SO | [III S 51/14](https://www.saos.org.pl/judgments/59914) | Postanowienie
+- 2014-04-30 | SO | [II S 18/14](https://www.saos.org.pl/judgments/54833) | Postanowienie
+- 2014-04-29 | SO | [II Cs 31/14](https://www.saos.org.pl/judgments/295626) | Postanowienie
+- 2014-04-29 | SO | [I S 50/14](https://www.saos.org.pl/judgments/145757) | Postanowienie
+- 2014-04-29 | SO | [II Cs 99/14](https://www.saos.org.pl/judgments/63080) | Postanowienie
+- 2014-04-28 | SO | [II Cs 91/14](https://www.saos.org.pl/judgments/63079) | Postanowienie
+- 2014-04-25 | SO | [XV S 57/14](https://www.saos.org.pl/judgments/149033) | Postanowienie
+- 2014-04-25 | SO | [XV S 59/14](https://www.saos.org.pl/judgments/49607) | Postanowienie
+- 2014-04-25 | SO | [XV S 44/14](https://www.saos.org.pl/judgments/49605) | Postanowienie
+- 2014-04-16 | SO | [I C 103/12](https://www.saos.org.pl/judgments/147264) | Wyrok
+- 2014-04-16 | SO | [II S 6/14](https://www.saos.org.pl/judgments/47930) | Postanowienie
+- 2014-04-16 | SO | [II S 17/14](https://www.saos.org.pl/judgments/47394) | Postanowienie
+- 2014-04-08 | SO | [III S 43/14](https://www.saos.org.pl/judgments/130143) | Postanowienie
+- 2014-04-01 | SO | [III S 40/14](https://www.saos.org.pl/judgments/130142) | Postanowienie
+- 2014-03-26 | SO | [V S 50/14](https://www.saos.org.pl/judgments/424221) | Postanowienie
+- 2014-03-24 | SO | [II S 13/14](https://www.saos.org.pl/judgments/54832) | Postanowienie
+- 2014-03-21 | SO | [XV S 24/14](https://www.saos.org.pl/judgments/49604) | Postanowienie
+- 2014-03-18 | SO | [II S 6/14](https://www.saos.org.pl/judgments/234575) | Postanowienie
+- 2014-03-18 | SO | [III S 14/14](https://www.saos.org.pl/judgments/185929) | Postanowienie
+- 2014-03-18 | SO | [III S 39/14](https://www.saos.org.pl/judgments/130141) | Postanowienie
+- 2014-03-18 | SO | [III S 18/14](https://www.saos.org.pl/judgments/130139) | Postanowienie
+- 2014-03-14 | SO | [II Cs 17/14](https://www.saos.org.pl/judgments/131260) | Postanowienie
+- 2014-03-14 | SO | [XV S 16/14](https://www.saos.org.pl/judgments/49602) | Postanowienie
+- 2014-03-06 | SO | [I S 18/14](https://www.saos.org.pl/judgments/144563) | Postanowienie
+- 2014-03-05 | SO | [III S 1/14](https://www.saos.org.pl/judgments/37980) | Postanowienie
+- 2014-03-04 | SO | [III S 27/14](https://www.saos.org.pl/judgments/70461) | Postanowienie
+- 2014-03-04 | SO | [II S 8/14](https://www.saos.org.pl/judgments/44576) | Postanowienie
+- 2014-02-28 | SO | [XV S 13/14](https://www.saos.org.pl/judgments/49599) | Postanowienie
+- 2014-02-12 | SO | [I ACa 1544/13](https://www.saos.org.pl/judgments/67977) | Wyrok
+- 2014-02-11 | SO | [III S 3/14](https://www.saos.org.pl/judgments/59910) | Postanowienie
+- 2014-02-11 | SO | [II S 3/14](https://www.saos.org.pl/judgments/54835) | Postanowienie
+- 2014-02-11 | SO | [II S 3/14](https://www.saos.org.pl/judgments/35863) | Postanowienie
+- 2014-02-07 | SO | [VIII S 33/13](https://www.saos.org.pl/judgments/36720) | Postanowienie
+- 2014-02-04 | SO | [III S 203/13](https://www.saos.org.pl/judgments/59908) | Postanowienie
+- 2014-02-04 | SO | [III S 194/13](https://www.saos.org.pl/judgments/59907) | Postanowienie
+- 2014-01-31 | SO | [XV S 152/13](https://www.saos.org.pl/judgments/49600) | Postanowienie
+- 2014-01-30 | SO | [II Cs 1/14](https://www.saos.org.pl/judgments/155801) | Postanowienie
+- 2014-01-28 | SO | [III S 179/13](https://www.saos.org.pl/judgments/35969) | Postanowienie
+- 2014-01-24 | SO | [XV S 156/13](https://www.saos.org.pl/judgments/49601) | Postanowienie
+- 2014-01-24 | SO | [VIII S 1/14](https://www.saos.org.pl/judgments/33408) | Postanowienie
+- 2014-01-23 | SO | [III S 190/13](https://www.saos.org.pl/judgments/49080) | Postanowienie
+- 2014-01-17 | SO | [II S 57/13](https://www.saos.org.pl/judgments/54836) | Postanowienie
+- 2014-01-16 | SO | [II S 59/13](https://www.saos.org.pl/judgments/54837) | Postanowienie
+- 2014-01-16 | SO | [V S 102/13](https://www.saos.org.pl/judgments/35984) | Postanowienie
+- 2014-01-14 | SO | [II S 229/13](https://www.saos.org.pl/judgments/30419) | Postanowienie
+- 2014-01-08 | SO | [II S 125/13](https://www.saos.org.pl/judgments/33549) | Postanowienie
+- 2013-12-30 | SO | [I S 174/13](https://www.saos.org.pl/judgments/142638) | Postanowienie
+- 2013-12-11 | SO | [I C 747/12](https://www.saos.org.pl/judgments/142247) | Wyrok
+- 2013-12-03 | SO | [II S 104/13](https://www.saos.org.pl/judgments/35431) | Postanowienie
+- 2013-11-28 | SO | [II S 33/13](https://www.saos.org.pl/judgments/28091) | Postanowienie
+- 2013-11-20 | SO | [I S 147/13](https://www.saos.org.pl/judgments/141855) | Postanowienie
+- 2013-11-20 | SO | [V S 75/13](https://www.saos.org.pl/judgments/29150) | Postanowienie
+- 2013-11-20 | SO | [III S 21/13](https://www.saos.org.pl/judgments/29104) | Postanowienie
+- 2013-10-29 | SO | [II S 29/13](https://www.saos.org.pl/judgments/23974) | Postanowienie
+- 2013-10-22 | SO | [I S 202/13](https://www.saos.org.pl/judgments/144592) | Postanowienie
+- 2013-10-21 | SO | [V S 69/13](https://www.saos.org.pl/judgments/424222) | Postanowienie
+- 2013-10-18 | SO | [II S 42/13](https://www.saos.org.pl/judgments/24249) | Postanowienie
+- 2013-10-16 | SO | [II S 48/13](https://www.saos.org.pl/judgments/24821) | Postanowienie
+- 2013-09-30 | SO | [II S 39/13](https://www.saos.org.pl/judgments/24819) | Postanowienie
+- 2013-09-30 | SO | [II S 27/13](https://www.saos.org.pl/judgments/22861) | Postanowienie
+- 2013-09-30 | SO | [II S 26/13](https://www.saos.org.pl/judgments/22860) | Postanowienie
+- 2013-09-30 | SO | [II S 25/13](https://www.saos.org.pl/judgments/22859) | Postanowienie
+- 2013-09-27 | SO | [I S 107/13](https://www.saos.org.pl/judgments/140728) | Postanowienie
+- 2013-09-27 | SO | [VIII S 26/13](https://www.saos.org.pl/judgments/21980) | Postanowienie
+- 2013-09-24 | SN | [III SPP 188/13](https://www.saos.org.pl/judgments/102990) | Postanowienie
+- 2013-09-18 | SO | [II S 28/13](https://www.saos.org.pl/judgments/20959) | Postanowienie
+- 2013-09-12 | SO | [II S 24/13](https://www.saos.org.pl/judgments/25331) | Postanowienie
+- 2013-09-10 | SO | [II S 80/13](https://www.saos.org.pl/judgments/20304) | Postanowienie
+- 2013-09-09 | SO | [I S 109/13](https://www.saos.org.pl/judgments/140307) | Postanowienie
+- 2013-09-06 | SO | [VIII S 24/13](https://www.saos.org.pl/judgments/19828) | Postanowienie
+- 2013-09-05 | SO | [II Cs 88/13](https://www.saos.org.pl/judgments/21931) | Postanowienie
+- 2013-09-04 | SO | [II S 43/13](https://www.saos.org.pl/judgments/20876) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-08-30 | SO | [VIII S 25/13](https://www.saos.org.pl/judgments/19274) | Postanowienie
+- 2013-08-30 | SO | [VIII S 23/13](https://www.saos.org.pl/judgments/19273) | Postanowienie
+- 2013-08-28 | SN | [WSP 6/13](https://www.saos.org.pl/judgments/102760) | Postanowienie
+- 2013-08-28 | SO | [II S 23/13](https://www.saos.org.pl/judgments/25330) | Postanowienie
+- 2013-08-14 | SO | [I S 85/13](https://www.saos.org.pl/judgments/140308) | Postanowienie
+- 2013-07-30 | SO | [II S 21/13](https://www.saos.org.pl/judgments/18668) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-07-16 | SO | [II S 59/13](https://www.saos.org.pl/judgments/16633) | Postanowienie
+- 2013-07-15 | SO | [II S 57/13](https://www.saos.org.pl/judgments/16632) | Postanowienie
+- 2013-07-10 | SO | [I S 68/13](https://www.saos.org.pl/judgments/141856) | Postanowienie
+- 2013-07-10 | SO | [II S 53/13](https://www.saos.org.pl/judgments/16631) | Postanowienie
+- 2013-07-02 | SO | [II S 56/13](https://www.saos.org.pl/judgments/16428) | Postanowienie
+- 2013-07-02 | SO | [II S 50/13](https://www.saos.org.pl/judgments/16427) | Postanowienie
+- 2013-06-28 | SO | [VIII S 18/13](https://www.saos.org.pl/judgments/15131) | Postanowienie
+- 2013-06-21 | SO | [II Cs 66/13](https://www.saos.org.pl/judgments/21930) | Postanowienie
+- 2013-06-14 | SO | [IX S 4/13](https://www.saos.org.pl/judgments/15565) | Postanowienie
+- 2013-06-05 | SO | [II S 6/13](https://www.saos.org.pl/judgments/16634) | Postanowienie
+- 2013-05-29 | SN | [KSP 3/13](https://www.saos.org.pl/judgments/101933) | Postanowienie
+- 2013-05-29 | SO | [III S 6/13](https://www.saos.org.pl/judgments/15688) | Postanowienie
+- 2013-05-27 | SO | [I ACa 36/13](https://www.saos.org.pl/judgments/14578) | Wyrok
+- 2013-05-22 | SO | [III S 5/13](https://www.saos.org.pl/judgments/12421) | Postanowienie
+- 2013-05-17 | SO | [II S 6/13](https://www.saos.org.pl/judgments/13639) | Postanowienie
+- 2013-05-10 | SO | [I S 58/13](https://www.saos.org.pl/judgments/138572) | Postanowienie
+- 2013-04-24 | SO | [I S 37/13](https://www.saos.org.pl/judgments/429811) | Postanowienie
+- 2013-03-27 | SO | [V S 8/13](https://www.saos.org.pl/judgments/8814) | Postanowienie
+- 2013-03-26 | SO | [I S 53/13](https://www.saos.org.pl/judgments/142801) | Postanowienie
+- 2013-03-12 | SO | [I S 14/13](https://www.saos.org.pl/judgments/137523) | Postanowienie
+- 2013-03-12 | SN | [KSP 1/13](https://www.saos.org.pl/judgments/101078) | Postanowienie
+- 2013-03-11 | SO | [I S 57/13](https://www.saos.org.pl/judgments/143573) | Postanowienie
+- 2013-03-01 | SO | [IX S 2/13](https://www.saos.org.pl/judgments/15563) | Postanowienie
+- 2013-02-27 | SO | [I S 40/13](https://www.saos.org.pl/judgments/139476) | Postanowienie
+- 2013-02-26 | SO | [II S 7/13](https://www.saos.org.pl/judgments/6354) | Postanowienie
+- 2013-02-19 | SO | [II S 9/14](https://www.saos.org.pl/judgments/133846) | Postanowienie
+- 2013-02-14 | SO | [I S 26/13](https://www.saos.org.pl/judgments/139474) | Postanowienie
+- 2013-02-12 | SO | [I S 95/12](https://www.saos.org.pl/judgments/137024) | Postanowienie
+- 2013-02-08 | SO | [II S 2/13](https://www.saos.org.pl/judgments/5143) | Postanowienie
+- 2013-02-04 | SO | [I S 5/13](https://www.saos.org.pl/judgments/137185) | Postanowienie
+- 2013-02-04 | SO | [V S 32/12](https://www.saos.org.pl/judgments/5262) | Postanowienie
+- 2013-01-31 | TK | [Ts 202/11](https://www.saos.org.pl/judgments/111945) | Postanowienie
+- 2013-01-30 | SO | [II S 32/12](https://www.saos.org.pl/judgments/5515) | Postanowienie
+- 2013-01-28 | SO | [I S 7/13](https://www.saos.org.pl/judgments/139439) | Postanowienie
+- 2013-01-25 | SO | [II S 26/12](https://www.saos.org.pl/judgments/6175) | Postanowienie
+- 2013-01-17 | SO | [I S 103/12](https://www.saos.org.pl/judgments/137184) | Postanowienie
+- 2013-01-15 | SO | [I S 173/12](https://www.saos.org.pl/judgments/139313) | Postanowienie
+- 2013-01-10 | SO | [II S 33/12](https://www.saos.org.pl/judgments/3596) | Postanowienie
+- 2013-01-04 | SO | [V S 30/12](https://www.saos.org.pl/judgments/3722) | Postanowienie
+- 2012-12-28 | SO | [V ACa 592/12](https://www.saos.org.pl/judgments/3935) | Wyrok
+- 2012-12-21 | SO | [V S 31/12](https://www.saos.org.pl/judgments/3247) | Postanowienie
+- 2012-12-20 | SO | [I S 159/12](https://www.saos.org.pl/judgments/136655) | Postanowienie
+- 2012-12-19 | SO | [I S 89/12](https://www.saos.org.pl/judgments/429818) | Postanowienie
+- 2012-12-12 | SO | [I S 135/12](https://www.saos.org.pl/judgments/137211) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-10-22 | SO | [III S 8/12](https://www.saos.org.pl/judgments/1137) | Postanowienie
+- 2012-10-08 | SO | [V S 23/12](https://www.saos.org.pl/judgments/533) | Postanowienie
+- 2012-10-05 | SN | [IV CSK 165/12](https://www.saos.org.pl/judgments/99233) | Wyrok
+- 2012-09-27 | SN | [SNO 37/12](https://www.saos.org.pl/judgments/99167) | Wyrok
+- 2012-09-26 | SO | [I S 94/12](https://www.saos.org.pl/judgments/135529) | Postanowienie
+- 2012-09-26 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111345) | Postanowienie
+- 2012-09-20 | SO | [II S 38/12](https://www.saos.org.pl/judgments/1152) | Postanowienie
+- 2012-09-10 | SO | [I S 86/12](https://www.saos.org.pl/judgments/135528) | Postanowienie
+- 2012-09-04 | SO | [I S 72/12](https://www.saos.org.pl/judgments/137699) | Postanowienie
+- 2012-09-04 | SO | [I S 83/12](https://www.saos.org.pl/judgments/135526) | Postanowienie
+- 2012-09-04 | SO | [I S 71/12](https://www.saos.org.pl/judgments/135524) | Postanowienie
+- 2012-08-28 | SO | [I S 66/12](https://www.saos.org.pl/judgments/135522) | Postanowienie
+- 2012-08-24 | SO | [III S 17/12](https://www.saos.org.pl/judgments/483) | Postanowienie
+- 2012-08-22 | SO | [I S 67/12](https://www.saos.org.pl/judgments/135523) | Postanowienie
+- 2012-07-23 | SO | [I S 28/12](https://www.saos.org.pl/judgments/136207) | Postanowienie
+- 2012-07-05 | SO | [I S 27/12](https://www.saos.org.pl/judgments/136043) | Postanowienie
+- 2012-06-19 | SO | [I S 33/12](https://www.saos.org.pl/judgments/429807) | Postanowienie
+- 2012-06-14 | SO | [I S 21/12](https://www.saos.org.pl/judgments/136040) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2012-05-23 | SN | [I CSP 1/12](https://www.saos.org.pl/judgments/98156) | Postanowienie
+- 2012-05-10 | SO | [I S 14/12](https://www.saos.org.pl/judgments/136039) | Postanowienie
+- 2012-04-23 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111343) | Postanowienie
+- 2012-03-30 | SN | [SNO 7/12](https://www.saos.org.pl/judgments/97686) | Wyrok
+- 2012-03-27 | SN | [III SPP 8/12](https://www.saos.org.pl/judgments/97677) | Postanowienie
+- 2012-03-12 | SO | [II S 5/12](https://www.saos.org.pl/judgments/1365) | Postanowienie
+- 2012-03-06 | SO | [II S 6/12](https://www.saos.org.pl/judgments/1366) | Postanowienie
+- 2012-02-27 | SO | [I S 6/12](https://www.saos.org.pl/judgments/136048) | Postanowienie
+- 2012-01-26 | SN | [III SPP 42/11](https://www.saos.org.pl/judgments/96963) | Postanowienie
+- 2012-01-23 | SO | [I S 36/11](https://www.saos.org.pl/judgments/429809) | Postanowienie
+- 2012-01-11 | TK | [Ts 167/09](https://www.saos.org.pl/judgments/111268) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-11-18 | SO | [I S 34/11](https://www.saos.org.pl/judgments/429808) | Postanowienie
+- 2011-11-15 | SO | [I S 33/11](https://www.saos.org.pl/judgments/429806) | Postanowienie
+- 2011-10-06 | SN | [III SPP 28/11](https://www.saos.org.pl/judgments/95921) | Postanowienie
+- 2011-09-15 | TK | [Ts 46/11](https://www.saos.org.pl/judgments/110437) | Postanowienie
+- 2011-07-28 | SO | [I S 24/11](https://www.saos.org.pl/judgments/429804) | Postanowienie
+- 2011-07-22 | SO | [I S 19/11](https://www.saos.org.pl/judgments/429803) | Postanowienie
+- 2011-05-31 | SO | [I S 12/11](https://www.saos.org.pl/judgments/429802) | Postanowienie
+- 2011-05-13 | SO | [I S 11/11](https://www.saos.org.pl/judgments/429799) | Postanowienie
+- 2011-04-21 | SN | [III SPP 2/11](https://www.saos.org.pl/judgments/94811) | Postanowienie
+- 2011-03-30 | SO | [I S 5/11](https://www.saos.org.pl/judgments/429813) | Postanowienie
+- 2011-02-09 | SN | [III SPP 34/10](https://www.saos.org.pl/judgments/94169) | Postanowienie
+- 2011-01-20 | SN | [III SO 18/10](https://www.saos.org.pl/judgments/93961) | Postanowienie
+- 2010-08-31 | SO | [V S 10/10](https://www.saos.org.pl/judgments/424211) | Postanowienie
+- 2010-08-18 | SO | [III S 6/10](https://www.saos.org.pl/judgments/424357) | Postanowienie
+- 2010-07-20 | SN | [III SPP 16/10](https://www.saos.org.pl/judgments/92699) | Postanowienie
+- 2010-05-13 | SN | [III SPP 11/10](https://www.saos.org.pl/judgments/165323) | Postanowienie
+- 2010-02-19 | SO | [I ACa 12/10](https://www.saos.org.pl/judgments/26655) | Wyrok
+- 2009-12-03 | SN | [WSP 9/09](https://www.saos.org.pl/judgments/91427) | Postanowienie
+- 2009-08-18 | SN | [WSP 4/09](https://www.saos.org.pl/judgments/90760) | Postanowienie
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+- 2008-06-10 | SN | [KSP 2/08](https://www.saos.org.pl/judgments/88230) | Postanowienie
+- 2007-11-13 | SN | [III SPP 44/07](https://www.saos.org.pl/judgments/86832) | Postanowienie
+- 2007-09-14 | SN | [III SPP 35/07](https://www.saos.org.pl/judgments/86556) | Postanowienie
+- 2007-08-10 | SN | [III SPP 31/07](https://www.saos.org.pl/judgments/86441) | Postanowienie
+- 2007-02-21 | SN | [III SPP 5/07](https://www.saos.org.pl/judgments/85305) | Postanowienie
+- 2006-07-26 | SN | [III SPP 30/06](https://www.saos.org.pl/judgments/84483) | Postanowienie
+- 2006-06-07 | SN | [III CSP 1/06](https://www.saos.org.pl/judgments/164355) | Postanowienie
+- 2006-05-10 | SN | [III SPP 19/06](https://www.saos.org.pl/judgments/84312) | Postanowienie
+- 2006-02-14 | SN | [III SPP 7/06](https://www.saos.org.pl/judgments/84102) | Postanowienie
+- 2006-01-06 | SN | [III SPP 154/05](https://www.saos.org.pl/judgments/83975) | Postanowienie
+- 2005-12-06 | SN | [III SPP 145/05](https://www.saos.org.pl/judgments/83923) | Postanowienie
+- 2005-11-17 | SN | [IV CSP 1/05](https://www.saos.org.pl/judgments/163750) | Postanowienie
+- 2005-06-07 | SN | [III SPP 95/05](https://www.saos.org.pl/judgments/83472) | Postanowienie
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-05-12 | SN | [III SPP 98/05](https://www.saos.org.pl/judgments/83416) | Postanowienie
+- 2005-05-12 | SN | [III SPP 77/05](https://www.saos.org.pl/judgments/83413) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2004-11-17 | SN | [III SPP 21/04](https://www.saos.org.pl/judgments/82994) | Postanowienie
+
+## art. 2 § 1 (4)
+
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-02-11 | SO | [II S 6/19](https://www.saos.org.pl/judgments/370229) | Zarządzenie
+- 2018-07-05 | SO | [II S 29/18](https://www.saos.org.pl/judgments/347108) | Zarządzenie
+- 2017-10-25 | SO | [II S 24/17](https://www.saos.org.pl/judgments/310214) | Zarządzenie
+
+## art. 2 § 2 (3)
+
+- 2019-02-11 | SO | [II S 6/19](https://www.saos.org.pl/judgments/370229) | Zarządzenie
+- 2018-07-05 | SO | [II S 29/18](https://www.saos.org.pl/judgments/347108) | Zarządzenie
+- 2017-10-25 | SO | [II S 24/17](https://www.saos.org.pl/judgments/310214) | Zarządzenie
+
+## art. 3 (59)
+
+- 2024-05-28 | SO | [II S 23/24](https://www.saos.org.pl/judgments/518969) | Postanowienie
+- 2023-01-31 | SO | [II S 60/22](https://www.saos.org.pl/judgments/518985) | Postanowienie
+- 2021-06-25 | SO | [II S 20/21](https://www.saos.org.pl/judgments/463270) | Zarządzenie
+- 2021-06-25 | SO | [II S 19/21](https://www.saos.org.pl/judgments/463269) | Zarządzenie
+- 2021-06-25 | SO | [II S 18/21](https://www.saos.org.pl/judgments/450022) | Zarządzenie
+- 2021-05-07 | SO | [II S 13/21](https://www.saos.org.pl/judgments/444235) | Postanowienie
+- 2021-03-01 | SO | [II S 5/21](https://www.saos.org.pl/judgments/444242) | Postanowienie
+- 2019-06-26 | SO | [II S 35/19](https://www.saos.org.pl/judgments/385337) | Postanowienie
+- 2018-09-13 | SO | [II S 33/18](https://www.saos.org.pl/judgments/359380) | Postanowienie
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-04-26 | SO | [III S 34/16](https://www.saos.org.pl/judgments/225660) | Postanowienie
+- 2015-12-29 | SO | [III S 225/15](https://www.saos.org.pl/judgments/210389) | Postanowienie
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-09-23 | SO | [II S 20/15](https://www.saos.org.pl/judgments/184030) | Postanowienie
+- 2015-09-03 | SN | [KSP 4/15](https://www.saos.org.pl/judgments/243228) | Postanowienie
+- 2015-07-21 | SN | [III SPP 15/15](https://www.saos.org.pl/judgments/243059) | Postanowienie
+- 2015-07-08 | SN | [KSP 8/15](https://www.saos.org.pl/judgments/242996) | Postanowienie
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2015-02-11 | SN | [KSP 1/15](https://www.saos.org.pl/judgments/168281) | Postanowienie
+- 2014-11-25 | SN | [III SPP 230/14](https://www.saos.org.pl/judgments/167561) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-08-12 | SO | [I S 68/14](https://www.saos.org.pl/judgments/147995) | Postanowienie
+- 2014-04-16 | SO | [II S 17/14](https://www.saos.org.pl/judgments/47394) | Postanowienie
+- 2014-01-28 | SO | [I S 140/13](https://www.saos.org.pl/judgments/143500) | Postanowienie
+- 2014-01-08 | SO | [II S 125/13](https://www.saos.org.pl/judgments/33549) | Postanowienie
+- 2013-12-03 | SO | [II S 104/13](https://www.saos.org.pl/judgments/35431) | Postanowienie
+- 2013-10-22 | SO | [I S 119/13](https://www.saos.org.pl/judgments/140877) | Postanowienie
+- 2013-09-24 | SN | [III SPP 188/13](https://www.saos.org.pl/judgments/102990) | Postanowienie
+- 2013-09-10 | SO | [II S 80/13](https://www.saos.org.pl/judgments/20304) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-07-15 | SO | [II S 57/13](https://www.saos.org.pl/judgments/16632) | Postanowienie
+- 2013-07-10 | SO | [II S 53/13](https://www.saos.org.pl/judgments/16631) | Postanowienie
+- 2013-07-02 | SO | [II S 56/13](https://www.saos.org.pl/judgments/16428) | Postanowienie
+- 2013-07-02 | SO | [II S 50/13](https://www.saos.org.pl/judgments/16427) | Postanowienie
+- 2013-06-05 | SO | [II S 6/13](https://www.saos.org.pl/judgments/16634) | Postanowienie
+- 2013-03-12 | SN | [KSP 18/12](https://www.saos.org.pl/judgments/101079) | Postanowienie
+- 2013-01-25 | SO | [II S 26/12](https://www.saos.org.pl/judgments/6175) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-11-06 | SO | [I S 64/12](https://www.saos.org.pl/judgments/137023) | Postanowienie
+- 2012-10-25 | SO | [I S 109/12](https://www.saos.org.pl/judgments/135521) | Postanowienie
+- 2012-10-17 | SO | [I S 110/12](https://www.saos.org.pl/judgments/136151) | Postanowienie
+- 2012-09-18 | SO | [I S 40/12](https://www.saos.org.pl/judgments/136045) | Postanowienie
+- 2012-09-12 | SO | [III S 6/12](https://www.saos.org.pl/judgments/2401) | Postanowienie
+- 2012-07-27 | SN | [KSP 8/12](https://www.saos.org.pl/judgments/98740) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2012-05-10 | SN | [KSP 4/12](https://www.saos.org.pl/judgments/98031) | Postanowienie
+- 2011-12-06 | SN | [KSP 11/11](https://www.saos.org.pl/judgments/96527) | Postanowienie
+- 2011-09-14 | SN | [WSP 3/11](https://www.saos.org.pl/judgments/95759) | Postanowienie
+- 2010-07-20 | SN | [III SPP 16/10](https://www.saos.org.pl/judgments/92699) | Postanowienie
+- 2010-06-10 | SN | [WSP 6/10](https://www.saos.org.pl/judgments/92433) | Postanowienie
+- 2009-12-03 | SN | [WSP 9/09](https://www.saos.org.pl/judgments/91427) | Postanowienie
+- 2009-08-18 | SN | [WSP 4/09](https://www.saos.org.pl/judgments/90760) | Postanowienie
+- 2009-07-21 | SN | [WSP 1/09](https://www.saos.org.pl/judgments/90667) | Postanowienie
+- 2005-06-16 | SN | [KSP 5/05](https://www.saos.org.pl/judgments/83502) | Postanowienie
+- 2005-06-16 | SN | [KSP 3/05](https://www.saos.org.pl/judgments/83501) | Postanowienie
+
+## art. 4 (93)
+
+- 2023-02-20 | SO | [II S 1/23](https://www.saos.org.pl/judgments/504318) | Postanowienie
+- 2022-12-29 | SO | [II S 35/22](https://www.saos.org.pl/judgments/480622) | Postanowienie
+- 2022-11-09 | SO | [II S 32/22](https://www.saos.org.pl/judgments/480619) | Postanowienie
+- 2022-10-28 | SO | [II S 29/22](https://www.saos.org.pl/judgments/480616) | Postanowienie
+- 2022-03-28 | SO | [II S 16/22](https://www.saos.org.pl/judgments/470432) | Postanowienie
+- 2022-03-09 | SO | [II S 4/22](https://www.saos.org.pl/judgments/463276) | Postanowienie
+- 2022-01-25 | SO | [II S 28/21](https://www.saos.org.pl/judgments/461808) | Postanowienie
+- 2021-04-20 | SO | [II S 9/21](https://www.saos.org.pl/judgments/444245) | Postanowienie
+- 2021-02-01 | SO | [II S 1/21](https://www.saos.org.pl/judgments/444231) | Postanowienie
+- 2021-01-29 | SO | [II S 57/20](https://www.saos.org.pl/judgments/430571) | Postanowienie
+- 2021-01-29 | SO | [II S 53/20](https://www.saos.org.pl/judgments/430569) | Zarządzenie
+- 2019-06-12 | SO | [II S 25/19](https://www.saos.org.pl/judgments/385021) | Postanowienie
+- 2019-06-12 | SO | [II S 24/19](https://www.saos.org.pl/judgments/385020) | Postanowienie
+- 2018-08-27 | SO | [II S 40/18](https://www.saos.org.pl/judgments/356737) | Postanowienie
+- 2018-08-03 | SO | [II S 35/18](https://www.saos.org.pl/judgments/349037) | Postanowienie
+- 2018-07-23 | SO | [II S 30/18](https://www.saos.org.pl/judgments/349035) | Postanowienie
+- 2018-02-27 | SO | [III S 1/18](https://www.saos.org.pl/judgments/404728) | Postanowienie
+- 2017-08-30 | SO | [V S 36/17](https://www.saos.org.pl/judgments/299965) | Postanowienie
+- 2017-07-06 | SO | [II S 12/17](https://www.saos.org.pl/judgments/293137) | Postanowienie
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-04-12 | SO | [II S 69/16](https://www.saos.org.pl/judgments/415021) | Postanowienie
+- 2016-03-09 | SO | [II S 6/16](https://www.saos.org.pl/judgments/213409) | Postanowienie
+- 2015-12-21 | SO | [II S 31/15](https://www.saos.org.pl/judgments/197670) | Postanowienie
+- 2015-11-05 | SO | [II S 25/15](https://www.saos.org.pl/judgments/184033) | Postanowienie
+- 2015-10-12 | SO | [II S 21/15](https://www.saos.org.pl/judgments/184031) | Postanowienie
+- 2015-09-23 | SO | [II S 17/15](https://www.saos.org.pl/judgments/184029) | Zarządzenie
+- 2015-09-15 | SO | [II S 18/15](https://www.saos.org.pl/judgments/178616) | Postanowienie
+- 2015-07-06 | SO | [II S 7/15](https://www.saos.org.pl/judgments/170158) | Postanowienie
+- 2015-06-16 | SO | [III S 90/15](https://www.saos.org.pl/judgments/185973) | Postanowienie
+- 2015-03-24 | SO | [III S 9/15](https://www.saos.org.pl/judgments/185972) | Postanowienie
+- 2015-03-19 | SO | [II S 2/15](https://www.saos.org.pl/judgments/132850) | Postanowienie
+- 2014-12-18 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/159934) | Postanowienie
+- 2014-12-02 | SO | [I C 419/13](https://www.saos.org.pl/judgments/72389) | Wyrok
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-04 | SN | [III SPP 223/14](https://www.saos.org.pl/judgments/167294) | Postanowienie
+- 2014-08-26 | SN | [III SPP 218/14](https://www.saos.org.pl/judgments/166613) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-07-22 | SN | [III SPP 123/14](https://www.saos.org.pl/judgments/166448) | Postanowienie
+- 2014-07-17 | SN | [III SPP 133/14](https://www.saos.org.pl/judgments/166365) | Postanowienie
+- 2014-07-09 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206574) | Postanowienie
+- 2014-05-15 | SO | [II S 22/14](https://www.saos.org.pl/judgments/63904) | Postanowienie
+- 2014-04-30 | SO | [II S 13/14](https://www.saos.org.pl/judgments/45879) | Postanowienie
+- 2014-04-16 | SO | [II S 17/14](https://www.saos.org.pl/judgments/47394) | Postanowienie
+- 2014-03-25 | SO | [II S 2/14](https://www.saos.org.pl/judgments/44011) | Postanowienie
+- 2014-02-19 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206573) | Postanowienie
+- 2013-11-20 | SO | [II S 32/13](https://www.saos.org.pl/judgments/26444) | Postanowienie
+- 2013-11-13 | SN | [KSP 9/13](https://www.saos.org.pl/judgments/103570) | Postanowienie
+- 2013-11-04 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/160520) | Postanowienie
+- 2013-10-09 | SN | [KSP 6/13](https://www.saos.org.pl/judgments/103107) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-08-13 | SO | [II S 20/13](https://www.saos.org.pl/judgments/18667) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-06-12 | SO | [II S 17/13](https://www.saos.org.pl/judgments/14885) | Postanowienie
+- 2013-04-10 | SO | [II S 11/13](https://www.saos.org.pl/judgments/9053) | Postanowienie
+- 2013-04-10 | SO | [II S 9/13](https://www.saos.org.pl/judgments/9052) | Postanowienie
+- 2013-04-10 | SO | [II S 10/13](https://www.saos.org.pl/judgments/9050) | Postanowienie
+- 2013-03-18 | SO | [II S 7/13](https://www.saos.org.pl/judgments/9017) | Postanowienie
+- 2013-02-26 | SO | [II S 7/13](https://www.saos.org.pl/judgments/6354) | Postanowienie
+- 2013-02-20 | SO | [II S 2/13](https://www.saos.org.pl/judgments/7346) | Postanowienie
+- 2013-01-31 | TK | [Ts 292/10](https://www.saos.org.pl/judgments/112065) | Postanowienie
+- 2013-01-24 | SO | [II AKo 3/13](https://www.saos.org.pl/judgments/136955) | Postanowienie
+- 2013-01-22 | SO | [I S 182/12](https://www.saos.org.pl/judgments/139314) | Postanowienie
+- 2012-12-21 | SO | [V S 31/12](https://www.saos.org.pl/judgments/3247) | Postanowienie
+- 2012-11-15 | TK | [Ts 292/10](https://www.saos.org.pl/judgments/111441) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-10-19 | SO | [I S 58/12](https://www.saos.org.pl/judgments/136047) | Postanowienie
+- 2012-10-18 | SO | [I S 57/12](https://www.saos.org.pl/judgments/136676) | Postanowienie
+- 2012-10-08 | SO | [V S 23/12](https://www.saos.org.pl/judgments/533) | Postanowienie
+- 2012-09-05 | SO | [II S 19/12](https://www.saos.org.pl/judgments/1360) | Postanowienie
+- 2012-07-04 | SN | [KSP 6/12](https://www.saos.org.pl/judgments/98577) | Postanowienie
+- 2012-06-27 | SO | [II S 16/12](https://www.saos.org.pl/judgments/1357) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-11-29 | TK | [SK 5/10](https://www.saos.org.pl/judgments/110336) | Postanowienie
+- 2010-07-20 | SN | [III SPP 15/10](https://www.saos.org.pl/judgments/165391) | Postanowienie
+- 2010-07-20 | SN | [III SPP 16/10](https://www.saos.org.pl/judgments/92699) | Postanowienie
+- 2010-05-06 | SN | [II CSK 640/09](https://www.saos.org.pl/judgments/92176) | Wyrok
+- 2009-09-02 | SN | [KSP 13/09](https://www.saos.org.pl/judgments/90815) | Postanowienie
+- 2007-10-12 | SN | [I CNP 55/07](https://www.saos.org.pl/judgments/164862) | Postanowienie
+- 2006-07-26 | SN | [III SPP 30/06](https://www.saos.org.pl/judgments/84483) | Postanowienie
+- 2006-06-07 | SN | [III CSP 1/06](https://www.saos.org.pl/judgments/164355) | Postanowienie
+- 2006-02-06 | SN | [III SPP 163/05](https://www.saos.org.pl/judgments/84090) | Postanowienie
+- 2006-01-19 | SN | [III SPP 165/05](https://www.saos.org.pl/judgments/84042) | Postanowienie
+- 2005-08-24 | SN | [V CNP 7/05](https://www.saos.org.pl/judgments/163520) | Postanowienie
+- 2005-08-17 | SN | [I CNP 3/05](https://www.saos.org.pl/judgments/83675) | Postanowienie
+- 2005-06-07 | SN | [III SO 10/05](https://www.saos.org.pl/judgments/83468) | Postanowienie
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-05-12 | SN | [III SPP 76/05](https://www.saos.org.pl/judgments/83412) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2005-02-04 | SN | [III SPP 11/05](https://www.saos.org.pl/judgments/83192) | Postanowienie
+- 2004-11-29 | SN | [III SPP 48/04](https://www.saos.org.pl/judgments/83043) | Postanowienie
+
+## art. 5 (288)
+
+- 2024-09-18 | SO | [II S 26/24](https://www.saos.org.pl/judgments/504348) | Postanowienie
+- 2023-07-19 | SO | [III S 80/23](https://www.saos.org.pl/judgments/491403) | Postanowienie
+- 2023-02-20 | SO | [II S 1/23](https://www.saos.org.pl/judgments/504318) | Postanowienie
+- 2023-01-31 | SO | [II S 60/22](https://www.saos.org.pl/judgments/518985) | Postanowienie
+- 2023-01-19 | SO | [III S 173/22](https://www.saos.org.pl/judgments/482104) | Postanowienie
+- 2022-12-01 | SO | [III S 189/22](https://www.saos.org.pl/judgments/480177) | Postanowienie
+- 2022-11-09 | SO | [II S 32/22](https://www.saos.org.pl/judgments/480619) | Postanowienie
+- 2022-10-28 | SO | [II S 29/22](https://www.saos.org.pl/judgments/480616) | Postanowienie
+- 2022-03-28 | SO | [II S 16/22](https://www.saos.org.pl/judgments/470432) | Postanowienie
+- 2022-03-16 | SO | [VIII S 1/22](https://www.saos.org.pl/judgments/462404) | Postanowienie
+- 2022-03-11 | SO | [II S 13/22](https://www.saos.org.pl/judgments/463267) | Postanowienie
+- 2022-02-22 | SO | [II S 7/22](https://www.saos.org.pl/judgments/463280) | Postanowienie
+- 2022-01-03 | SO | [II S 39/21](https://www.saos.org.pl/judgments/463275) | Postanowienie
+- 2021-12-22 | SO | [II S 37/21](https://www.saos.org.pl/judgments/463273) | Postanowienie
+- 2021-11-17 | SO | [II S 33/21](https://www.saos.org.pl/judgments/453604) | Postanowienie
+- 2021-09-27 | SO | [II S 32/21](https://www.saos.org.pl/judgments/453603) | Postanowienie
+- 2021-09-08 | SO | [II S 19/21](https://www.saos.org.pl/judgments/470433) | Postanowienie
+- 2021-08-24 | SO | [II S 6/21](https://www.saos.org.pl/judgments/446607) | Postanowienie
+- 2021-05-10 | SO | [II S 12/21](https://www.saos.org.pl/judgments/444234) | Postanowienie
+- 2021-04-26 | SO | [II S 11/21](https://www.saos.org.pl/judgments/444233) | Zarządzenie
+- 2021-04-07 | SO | [III S 139/21](https://www.saos.org.pl/judgments/440143) | Postanowienie
+- 2021-03-31 | SO | [III S 133/21](https://www.saos.org.pl/judgments/436800) | Postanowienie
+- 2021-01-29 | SO | [II S 57/20](https://www.saos.org.pl/judgments/430571) | Postanowienie
+- 2020-12-09 | SO | [II S 51/20](https://www.saos.org.pl/judgments/427605) | Postanowienie
+- 2020-10-27 | SO | [II S 44/20](https://www.saos.org.pl/judgments/427599) | Postanowienie
+- 2020-10-12 | SO | [II S 45/20](https://www.saos.org.pl/judgments/427600) | Postanowienie
+- 2020-09-18 | SO | [I ACa 923/19](https://www.saos.org.pl/judgments/438090) | Wyrok
+- 2020-09-08 | SO | [III S 212/20](https://www.saos.org.pl/judgments/422234) | Postanowienie
+- 2020-09-07 | SO | [I S 18/20](https://www.saos.org.pl/judgments/419511) | Postanowienie
+- 2020-08-12 | SO | [II S 30/20](https://www.saos.org.pl/judgments/419026) | Postanowienie
+- 2020-06-15 | SO | [II S 22/20](https://www.saos.org.pl/judgments/414529) | Postanowienie
+- 2020-06-04 | SO | [II S 13/20](https://www.saos.org.pl/judgments/418895) | Postanowienie
+- 2020-06-02 | SO | [II S 18/20](https://www.saos.org.pl/judgments/414525) | Postanowienie
+- 2020-04-16 | SO | [III S 18/20](https://www.saos.org.pl/judgments/423617) | Postanowienie
+- 2020-04-16 | SO | [III S 500/19](https://www.saos.org.pl/judgments/422747) | Postanowienie
+- 2020-02-11 | SO | [II S 2/20](https://www.saos.org.pl/judgments/411745) | Postanowienie
+- 2020-01-20 | SO | [II S 553/19](https://www.saos.org.pl/judgments/414534) | Postanowienie
+- 2020-01-20 | SO | [II S 536/19](https://www.saos.org.pl/judgments/414533) | Postanowienie
+- 2019-12-17 | SO | [III S 438/19](https://www.saos.org.pl/judgments/404736) | Postanowienie
+- 2019-12-11 | SO | [I 1S 8/19](https://www.saos.org.pl/judgments/401996) | Postanowienie
+- 2019-12-10 | SO | [III S 372/19](https://www.saos.org.pl/judgments/404734) | Postanowienie
+- 2019-10-31 | SO | [I C 1077/19](https://www.saos.org.pl/judgments/437373) | Wyrok
+- 2019-10-31 | SO | [I 1S 10/19](https://www.saos.org.pl/judgments/401994) | Postanowienie
+- 2019-10-15 | SO | [III S 404/19](https://www.saos.org.pl/judgments/395672) | Postanowienie
+- 2019-09-23 | SO | [II S 39/19](https://www.saos.org.pl/judgments/393716) | Postanowienie
+- 2019-09-17 | SO | [III S 315/19](https://www.saos.org.pl/judgments/395671) | Postanowienie
+- 2019-09-09 | SO | [II S 46/19](https://www.saos.org.pl/judgments/391264) | Postanowienie
+- 2019-08-20 | SO | [III S 323/19](https://www.saos.org.pl/judgments/399896) | Postanowienie
+- 2019-08-14 | SO | [III S U 5/19](https://www.saos.org.pl/judgments/408793) | Postanowienie
+- 2019-07-16 | SO | [III S 249/19](https://www.saos.org.pl/judgments/389148) | Postanowienie
+- 2019-07-09 | SO | [II S 31/19](https://www.saos.org.pl/judgments/388542) | Postanowienie
+- 2019-05-14 | SO | [III S 178/19](https://www.saos.org.pl/judgments/382731) | Postanowienie
+- 2019-05-07 | SO | [III S 154/19](https://www.saos.org.pl/judgments/399891) | Postanowienie
+- 2019-04-17 | SO | [II S 14/19](https://www.saos.org.pl/judgments/378402) | Postanowienie
+- 2019-04-12 | SO | [V S 6/19](https://www.saos.org.pl/judgments/413731) | Postanowienie
+- 2019-03-25 | SO | [II S 9/19](https://www.saos.org.pl/judgments/378407) | Postanowienie
+- 2019-03-21 | SO | [I S 9/19](https://www.saos.org.pl/judgments/377592) | Postanowienie
+- 2019-03-14 | SO | [II S 11/19](https://www.saos.org.pl/judgments/374521) | Postanowienie
+- 2019-02-22 | SO | [III S 2/19](https://www.saos.org.pl/judgments/404732) | Postanowienie
+- 2019-01-24 | SO | [II S 2/19](https://www.saos.org.pl/judgments/367989) | Postanowienie
+- 2019-01-10 | SO | [I S 412/18](https://www.saos.org.pl/judgments/395981) | Postanowienie
+- 2018-12-10 | SO | [I S 353/18](https://www.saos.org.pl/judgments/390080) | Postanowienie
+- 2018-12-06 | SO | [I C 739/18](https://www.saos.org.pl/judgments/367342) | Wyrok
+- 2018-11-29 | SO | [XXV C 1285/17](https://www.saos.org.pl/judgments/419295) | Wyrok
+- 2018-11-20 | SO | [I S 333/18](https://www.saos.org.pl/judgments/386659) | Postanowienie
+- 2018-10-09 | SO | [III S 243/18](https://www.saos.org.pl/judgments/361927) | Postanowienie
+- 2018-10-09 | SO | [III S 196/18](https://www.saos.org.pl/judgments/361925) | Postanowienie
+- 2018-09-25 | SO | [I S 276/18](https://www.saos.org.pl/judgments/377591) | Postanowienie
+- 2018-08-23 | SO | [II S 38/18](https://www.saos.org.pl/judgments/356736) | Postanowienie
+- 2018-06-18 | SO | [I S 163/18](https://www.saos.org.pl/judgments/351976) | Postanowienie
+- 2018-05-29 | SO | [I S 79/18](https://www.saos.org.pl/judgments/344271) | Postanowienie
+- 2018-05-29 | SO | [I S 76/18](https://www.saos.org.pl/judgments/344270) | Postanowienie
+- 2018-05-25 | SO | [II S 24/18](https://www.saos.org.pl/judgments/341902) | Postanowienie
+- 2018-05-24 | SO | [II S 11/18](https://www.saos.org.pl/judgments/341895) | Postanowienie
+- 2018-05-22 | SO | [II S 20/18](https://www.saos.org.pl/judgments/341899) | Postanowienie
+- 2018-05-07 | SO | [III S 4/18](https://www.saos.org.pl/judgments/360384) | Postanowienie
+- 2018-04-24 | SO | [I C 884/17](https://www.saos.org.pl/judgments/341547) | Wyrok
+- 2018-04-19 | SO | [I S 98/18](https://www.saos.org.pl/judgments/346102) | Postanowienie
+- 2018-04-19 | SO | [I S 74/18](https://www.saos.org.pl/judgments/340950) | Postanowienie
+- 2018-04-19 | SO | [IX Ca 431/17](https://www.saos.org.pl/judgments/338197) | Wyrok
+- 2018-03-21 | SO | [II S 9/18](https://www.saos.org.pl/judgments/333214) | Postanowienie
+- 2018-03-16 | SO | [II S 14/18](https://www.saos.org.pl/judgments/333213) | Postanowienie
+- 2018-02-08 | SO | [II S 5/18](https://www.saos.org.pl/judgments/327531) | Postanowienie
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2018-01-12 | SO | [I S 112/17](https://www.saos.org.pl/judgments/417061) | Postanowienie
+- 2018-01-11 | SO | [II S 3/17](https://www.saos.org.pl/judgments/325951) | Postanowienie
+- 2017-12-21 | SO | [II S 25/17](https://www.saos.org.pl/judgments/319103) | Postanowienie
+- 2017-10-27 | SO | [II S 22/17](https://www.saos.org.pl/judgments/314505) | Postanowienie
+- 2017-10-25 | SO | [V S 40/17](https://www.saos.org.pl/judgments/311495) | Postanowienie
+- 2017-08-30 | SO | [V S 36/17](https://www.saos.org.pl/judgments/299965) | Postanowienie
+- 2017-08-22 | SO | [III S 106/17](https://www.saos.org.pl/judgments/311257) | Postanowienie
+- 2017-06-21 | SO | [V S 19/17](https://www.saos.org.pl/judgments/290611) | Postanowienie
+- 2017-06-19 | SO | [II S 10/17](https://www.saos.org.pl/judgments/293135) | Postanowienie
+- 2017-04-28 | SO | [II S 6/17](https://www.saos.org.pl/judgments/290100) | Postanowienie
+- 2017-03-23 | SO | [VII S 6/17](https://www.saos.org.pl/judgments/278096) | Postanowienie
+- 2017-03-08 | SO | [I ACa 1072/16](https://www.saos.org.pl/judgments/285027) | Wyrok
+- 2017-03-06 | SO | [I S 55/17](https://www.saos.org.pl/judgments/308044) | Postanowienie
+- 2017-03-01 | SO | [I S 49/17](https://www.saos.org.pl/judgments/307401) | Postanowienie
+- 2017-02-20 | SO | [I S 29/17](https://www.saos.org.pl/judgments/272838) | Postanowienie
+- 2017-02-09 | SO | [I C 2107/14](https://www.saos.org.pl/judgments/278300) | Wyrok
+- 2017-02-07 | SO | [I S 7/17](https://www.saos.org.pl/judgments/283193) | Postanowienie
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2016-11-29 | SO | [III S 187/16](https://www.saos.org.pl/judgments/262261) | Postanowienie
+- 2016-11-29 | SO | [I S 80/16](https://www.saos.org.pl/judgments/260432) | Postanowienie
+- 2016-10-19 | SO | [VI ACa 931/15](https://www.saos.org.pl/judgments/261042) | Wyrok
+- 2016-09-30 | SO | [II S 27/16](https://www.saos.org.pl/judgments/251918) | Postanowienie
+- 2016-09-08 | SO | [II S 24/16](https://www.saos.org.pl/judgments/246916) | Postanowienie
+- 2016-07-14 | SO | [II S 161/16](https://www.saos.org.pl/judgments/415419) | Postanowienie
+- 2016-07-06 | SO | [I ACa 178/16](https://www.saos.org.pl/judgments/237448) | Wyrok
+- 2016-06-27 | SO | [I S 201/16](https://www.saos.org.pl/judgments/235397) | Postanowienie
+- 2016-06-24 | SO | [I ACa 155/16](https://www.saos.org.pl/judgments/240698) | Wyrok
+- 2016-06-09 | SO | [I S 177/16](https://www.saos.org.pl/judgments/228564) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-05-30 | SO | [I C 869/15](https://www.saos.org.pl/judgments/262178) | Wyrok
+- 2016-05-19 | SO | [I ACa 1114/15](https://www.saos.org.pl/judgments/235581) | Wyrok
+- 2016-05-05 | SO | [I S 121/16](https://www.saos.org.pl/judgments/228245) | Postanowienie
+- 2016-04-11 | SO | [I S 104/16](https://www.saos.org.pl/judgments/226433) | Postanowienie
+- 2016-04-07 | SO | [VII S 7/16](https://www.saos.org.pl/judgments/218760) | Postanowienie
+- 2016-03-24 | SO | [I S 86/16](https://www.saos.org.pl/judgments/218405) | Postanowienie
+- 2016-03-15 | SO | [III S 262/15](https://www.saos.org.pl/judgments/215428) | Postanowienie
+- 2016-03-15 | SO | [III S 261/15](https://www.saos.org.pl/judgments/215427) | Postanowienie
+- 2016-02-17 | SN | [III SPP 49/15](https://www.saos.org.pl/judgments/244637) | Postanowienie
+- 2016-02-09 | SN | [III SPP 11/16](https://www.saos.org.pl/judgments/244587) | Postanowienie
+- 2016-01-26 | SO | [II S 1/16](https://www.saos.org.pl/judgments/204598) | Postanowienie
+- 2016-01-25 | SO | [I S 8/16](https://www.saos.org.pl/judgments/210199) | Postanowienie
+- 2016-01-04 | SO | [I C 777/15](https://www.saos.org.pl/judgments/196000) | Uzasadnienie
+- 2015-12-30 | SO | [I C 256/15](https://www.saos.org.pl/judgments/213280) | Wyrok
+- 2015-12-03 | SN | [II KK 272/15](https://www.saos.org.pl/judgments/243981) | Wyrok
+- 2015-10-07 | SO | [II S 62/15](https://www.saos.org.pl/judgments/265510) | Postanowienie
+- 2015-09-14 | SO | [I C 2911/14](https://www.saos.org.pl/judgments/255879) | Wyrok
+- 2015-08-03 | SO | [XXV C 353/14](https://www.saos.org.pl/judgments/228461) | Wyrok
+- 2015-07-21 | SN | [III SPP 15/15](https://www.saos.org.pl/judgments/243059) | Postanowienie
+- 2015-07-08 | SO | [XV C 1020/13](https://www.saos.org.pl/judgments/189296) | Wyrok
+- 2015-06-22 | SO | [II S 39/15](https://www.saos.org.pl/judgments/171983) | Postanowienie
+- 2015-06-08 | SN | [III SPP 11/15](https://www.saos.org.pl/judgments/245639) | Postanowienie
+- 2015-05-20 | SO | [II Ca 337/15](https://www.saos.org.pl/judgments/298568) | Wyrok
+- 2015-05-15 | SO | [II Cs 103/15](https://www.saos.org.pl/judgments/298628) | Postanowienie
+- 2015-04-22 | SO | [I S 30/15](https://www.saos.org.pl/judgments/150344) | Postanowienie
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2015-02-04 | SO | [II S 1/15](https://www.saos.org.pl/judgments/133477) | Postanowienie
+- 2015-01-28 | SN | [III SPP 4/15](https://www.saos.org.pl/judgments/168108) | Postanowienie
+- 2015-01-20 | SN | [III SPP 236/14](https://www.saos.org.pl/judgments/168039) | Postanowienie
+- 2014-12-17 | SO | [II S 42/14](https://www.saos.org.pl/judgments/74187) | Postanowienie
+- 2014-12-16 | SO | [II S 41/14](https://www.saos.org.pl/judgments/74186) | Postanowienie
+- 2014-12-12 | SN | [KSP 13/14](https://www.saos.org.pl/judgments/167645) | Postanowienie
+- 2014-12-09 | SN | [III SPP 231/14](https://www.saos.org.pl/judgments/167698) | Postanowienie
+- 2014-12-09 | SO | [II S 82/14](https://www.saos.org.pl/judgments/151745) | Postanowienie
+- 2014-11-25 | SN | [III SPP 230/14](https://www.saos.org.pl/judgments/167561) | Postanowienie
+- 2014-11-19 | SO | [II S 160/14](https://www.saos.org.pl/judgments/72984) | Postanowienie
+- 2014-11-19 | SO | [II S 153/14](https://www.saos.org.pl/judgments/72983) | Postanowienie
+- 2014-11-14 | SO | [II Cs 243/14](https://www.saos.org.pl/judgments/295620) | Postanowienie
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-03 | SO | [II S 75/14](https://www.saos.org.pl/judgments/125894) | Postanowienie
+- 2014-10-21 | SN | [III SPP 221/14](https://www.saos.org.pl/judgments/167133) | Postanowienie
+- 2014-10-21 | SO | [I S 233/14](https://www.saos.org.pl/judgments/130230) | Postanowienie
+- 2014-10-03 | SO | [II Cs 215/14](https://www.saos.org.pl/judgments/295616) | Postanowienie
+- 2014-09-23 | SO | [III S 183/14](https://www.saos.org.pl/judgments/68217) | Postanowienie
+- 2014-09-19 | SO | [II S 29/14](https://www.saos.org.pl/judgments/61596) | Postanowienie
+- 2014-09-16 | SO | [III S 165/14](https://www.saos.org.pl/judgments/68722) | Postanowienie
+- 2014-09-16 | SO | [III S 175/14](https://www.saos.org.pl/judgments/68039) | Postanowienie
+- 2014-09-16 | SO | [III S 172/14](https://www.saos.org.pl/judgments/68038) | Postanowienie
+- 2014-08-26 | SN | [III SPP 218/14](https://www.saos.org.pl/judgments/166613) | Postanowienie
+- 2014-08-21 | SO | [II Cs 143/14](https://www.saos.org.pl/judgments/131258) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-08-08 | SO | [II S 26/14](https://www.saos.org.pl/judgments/57516) | Postanowienie
+- 2014-08-05 | SO | [III S 139/14](https://www.saos.org.pl/judgments/70460) | Postanowienie
+- 2014-07-24 | SO | [II S 40/14](https://www.saos.org.pl/judgments/57606) | Postanowienie
+- 2014-07-01 | TK | [Ts 56/14](https://www.saos.org.pl/judgments/160253) | Postanowienie
+- 2014-07-01 | SO | [III S 120/14](https://www.saos.org.pl/judgments/61723) | Postanowienie
+- 2014-07-01 | SO | [III S 115/14](https://www.saos.org.pl/judgments/61722) | Postanowienie
+- 2014-07-01 | SO | [III S 116/14](https://www.saos.org.pl/judgments/61234) | Postanowienie
+- 2014-06-11 | SO | [II S 19/14](https://www.saos.org.pl/judgments/128333) | Postanowienie
+- 2014-06-10 | SN | [III SPP 110/14](https://www.saos.org.pl/judgments/166049) | Postanowienie
+- 2014-05-15 | SO | [II S 22/14](https://www.saos.org.pl/judgments/63904) | Postanowienie
+- 2014-04-29 | SN | [WSP 7/14](https://www.saos.org.pl/judgments/165773) | Postanowienie
+- 2014-04-23 | SO | [III S 53/14](https://www.saos.org.pl/judgments/59915) | Postanowienie
+- 2014-04-10 | SN | [KSP 5/14](https://www.saos.org.pl/judgments/104927) | Postanowienie
+- 2014-04-01 | SO | [III S 54/14](https://www.saos.org.pl/judgments/246761) | Postanowienie
+- 2014-03-28 | SO | [V S 6/14](https://www.saos.org.pl/judgments/40598) | Postanowienie
+- 2014-03-25 | SO | [I C 576/09](https://www.saos.org.pl/judgments/224078) | Wyrok
+- 2014-03-17 | SO | [II S 41/14](https://www.saos.org.pl/judgments/54586) | Postanowienie
+- 2014-03-11 | SN | [WSP 1/14](https://www.saos.org.pl/judgments/104702) | Postanowienie
+- 2014-03-10 | SO | [II Cs 33/14](https://www.saos.org.pl/judgments/131261) | Postanowienie
+- 2014-03-10 | SO | [I S 48/14](https://www.saos.org.pl/judgments/70175) | Postanowienie
+- 2014-03-04 | SO | [II S 34/14](https://www.saos.org.pl/judgments/47277) | Postanowienie
+- 2014-02-19 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206573) | Postanowienie
+- 2014-02-19 | SO | [II S 7/14](https://www.saos.org.pl/judgments/35865) | Postanowienie
+- 2014-02-13 | SO | [II S 4/14](https://www.saos.org.pl/judgments/128334) | Postanowienie
+- 2014-02-07 | SN | [KSP 13/13](https://www.saos.org.pl/judgments/104366) | Postanowienie
+- 2014-01-28 | SO | [II S 234/13](https://www.saos.org.pl/judgments/34481) | Postanowienie
+- 2014-01-14 | SO | [III S 6/14](https://www.saos.org.pl/judgments/59918) | Postanowienie
+- 2013-12-31 | SO | [II S 7/13](https://www.saos.org.pl/judgments/32242) | Postanowienie
+- 2013-12-30 | SO | [I ACa 630/13](https://www.saos.org.pl/judgments/43081) | Wyrok
+- 2013-12-04 | SO | [I ACa 788/13](https://www.saos.org.pl/judgments/34979) | Wyrok
+- 2013-12-04 | SO | [II S 30/13](https://www.saos.org.pl/judgments/28763) | Postanowienie
+- 2013-12-02 | SO | [II S 34/13](https://www.saos.org.pl/judgments/28092) | Postanowienie
+- 2013-11-13 | SN | [KSP 9/13](https://www.saos.org.pl/judgments/103570) | Postanowienie
+- 2013-11-04 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/160520) | Postanowienie
+- 2013-10-11 | SO | [V S 2/13](https://www.saos.org.pl/judgments/23654) | Postanowienie
+- 2013-10-09 | SN | [KSP 6/13](https://www.saos.org.pl/judgments/103107) | Postanowienie
+- 2013-10-09 | SO | [I ACa 548/13](https://www.saos.org.pl/judgments/24240) | Wyrok
+- 2013-10-09 | SO | [II Cs 127/13](https://www.saos.org.pl/judgments/21929) | Postanowienie
+- 2013-09-30 | SO | [V S 1/13](https://www.saos.org.pl/judgments/23176) | Postanowienie
+- 2013-09-03 | SO | [I S 114/13](https://www.saos.org.pl/judgments/140402) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-06-18 | SN | [WSP 5/13](https://www.saos.org.pl/judgments/102228) | Postanowienie
+- 2013-06-17 | SO | [II S 18/13](https://www.saos.org.pl/judgments/14886) | Postanowienie
+- 2013-06-13 | SO | [I ACa 364/13](https://www.saos.org.pl/judgments/17559) | Wyrok
+- 2013-05-24 | SO | [I ACa 261/13](https://www.saos.org.pl/judgments/14233) | Wyrok
+- 2013-05-21 | SO | [II S 66/13](https://www.saos.org.pl/judgments/12214) | Postanowienie
+- 2013-05-13 | SO | [I S 82/13](https://www.saos.org.pl/judgments/125981) | Postanowienie
+- 2013-03-28 | SN | [WSP 2/13](https://www.saos.org.pl/judgments/101274) | Postanowienie
+- 2013-03-22 | SO | [I ACa 171/13](https://www.saos.org.pl/judgments/10466) | Wyrok
+- 2013-02-21 | SN | [WSP 1/13](https://www.saos.org.pl/judgments/100862) | Postanowienie
+- 2013-02-20 | SO | [V S 2/13](https://www.saos.org.pl/judgments/424220) | Postanowienie
+- 2013-02-13 | SO | [VIII S 8/12](https://www.saos.org.pl/judgments/4845) | Postanowienie
+- 2013-02-01 | SO | [I ACa 880/12](https://www.saos.org.pl/judgments/6848) | Wyrok
+- 2013-01-31 | TK | [Ts 158/11](https://www.saos.org.pl/judgments/111886) | Postanowienie
+- 2013-01-29 | SN | [WSP 5/12](https://www.saos.org.pl/judgments/100580) | Postanowienie
+- 2013-01-29 | SN | [KSP 16/12](https://www.saos.org.pl/judgments/100538) | Postanowienie
+- 2013-01-29 | SO | [II S 3/13](https://www.saos.org.pl/judgments/6176) | Postanowienie
+- 2013-01-15 | SO | [I S 172/12](https://www.saos.org.pl/judgments/139312) | Postanowienie
+- 2013-01-14 | SO | [I S 170/12](https://www.saos.org.pl/judgments/139248) | Postanowienie
+- 2012-12-12 | SO | [I ACa 700/12](https://www.saos.org.pl/judgments/26544) | Wyrok
+- 2012-11-29 | SO | [III S 7/12](https://www.saos.org.pl/judgments/2855) | Postanowienie
+- 2012-11-23 | SO | [II S 22/12](https://www.saos.org.pl/judgments/3681) | Postanowienie
+- 2012-11-21 | SN | [V CSP 1/12](https://www.saos.org.pl/judgments/99762) | Postanowienie
+- 2012-11-15 | SN | [KSP 9/12](https://www.saos.org.pl/judgments/99643) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-10-22 | SO | [III S 8/12](https://www.saos.org.pl/judgments/1137) | Postanowienie
+- 2012-10-17 | SO | [I ACa 426/12](https://www.saos.org.pl/judgments/6943) | Wyrok
+- 2012-10-09 | SO | [II S 58/12](https://www.saos.org.pl/judgments/1153) | Postanowienie
+- 2012-10-08 | SO | [V S 23/12](https://www.saos.org.pl/judgments/533) | Postanowienie
+- 2012-09-27 | SN | [KSP 10/12](https://www.saos.org.pl/judgments/99159) | Postanowienie
+- 2012-09-06 | SO | [I ACa 312/12](https://www.saos.org.pl/judgments/5780) | Wyrok
+- 2012-09-03 | SO | [I S 78/12](https://www.saos.org.pl/judgments/135525) | Postanowienie
+- 2012-07-17 | SO | [III S 3/12](https://www.saos.org.pl/judgments/1908) | Postanowienie
+- 2012-06-28 | SO | [I S 24/12](https://www.saos.org.pl/judgments/136042) | Postanowienie
+- 2012-06-14 | SO | [I C 385/12](https://www.saos.org.pl/judgments/58788) | Wyrok
+- 2012-06-12 | SN | [III SPP 25/12](https://www.saos.org.pl/judgments/98389) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2012-06-12 | SN | [III SPP 20/12](https://www.saos.org.pl/judgments/98387) | Postanowienie
+- 2012-05-23 | SN | [I CSP 1/12](https://www.saos.org.pl/judgments/98156) | Postanowienie
+- 2012-05-23 | SO | [II S 14/12](https://www.saos.org.pl/judgments/1355) | Postanowienie
+- 2012-05-10 | SN | [KSP 2/12](https://www.saos.org.pl/judgments/98029) | Postanowienie
+- 2012-04-19 | SO | [II S 9/12](https://www.saos.org.pl/judgments/1368) | Postanowienie
+- 2012-03-19 | SO | [I S 7/12](https://www.saos.org.pl/judgments/137058) | Postanowienie
+- 2012-03-14 | SO | [II S 7/12](https://www.saos.org.pl/judgments/7347) | Postanowienie
+- 2012-03-12 | SO | [II S 5/12](https://www.saos.org.pl/judgments/1365) | Postanowienie
+- 2012-01-26 | SN | [III SPP 42/11](https://www.saos.org.pl/judgments/96963) | Postanowienie
+- 2012-01-11 | TK | [Ts 167/09](https://www.saos.org.pl/judgments/111268) | Postanowienie
+- 2011-12-29 | SN | [V CSP 1/11](https://www.saos.org.pl/judgments/96654) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-12-02 | SO | [I C 402/11](https://www.saos.org.pl/judgments/58203) | Wyrok
+- 2011-11-29 | TK | [SK 5/10](https://www.saos.org.pl/judgments/110336) | Postanowienie
+- 2011-09-15 | TK | [Ts 46/11](https://www.saos.org.pl/judgments/110437) | Postanowienie
+- 2011-05-06 | SN | [III SPP 5/11](https://www.saos.org.pl/judgments/94889) | Postanowienie
+- 2011-03-31 | SN | [WZP 2/10](https://www.saos.org.pl/judgments/94607) | Uchwała
+- 2011-02-24 | SO | [I ACa 1447/10](https://www.saos.org.pl/judgments/26813) | Wyrok
+- 2011-02-09 | SN | [III SPP 34/10](https://www.saos.org.pl/judgments/94169) | Postanowienie
+- 2010-11-22 | SN | [III SPP 22/10](https://www.saos.org.pl/judgments/93532) | Postanowienie
+- 2010-09-21 | SN | [III SPP 19/10](https://www.saos.org.pl/judgments/92971) | Postanowienie
+- 2009-12-07 | TK | [Ts 87/09](https://www.saos.org.pl/judgments/109224) | Postanowienie
+- 2009-12-03 | SN | [WSP 9/09](https://www.saos.org.pl/judgments/91427) | Postanowienie
+- 2009-09-02 | SN | [KSP 13/09](https://www.saos.org.pl/judgments/90815) | Postanowienie
+- 2009-07-21 | SN | [WSP 1/09](https://www.saos.org.pl/judgments/90667) | Postanowienie
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+- 2009-01-16 | SN | [V CO 65/08](https://www.saos.org.pl/judgments/89474) | Postanowienie
+- 2008-12-03 | SN | [V CO 62/08](https://www.saos.org.pl/judgments/165054) | Postanowienie
+- 2008-11-17 | SN | [I CO 25/08](https://www.saos.org.pl/judgments/89186) | Postanowienie
+- 2008-11-17 | SN | [I CO 23/08](https://www.saos.org.pl/judgments/89185) | Postanowienie
+- 2008-11-17 | SN | [I CO 17/08](https://www.saos.org.pl/judgments/89184) | Postanowienie
+- 2008-11-17 | SN | [I CO 16/08](https://www.saos.org.pl/judgments/89183) | Postanowienie
+- 2008-06-10 | SN | [KSP 2/08](https://www.saos.org.pl/judgments/88230) | Postanowienie
+- 2006-12-21 | SN | [KSP 10/06](https://www.saos.org.pl/judgments/84880) | Postanowienie
+- 2006-09-21 | TK | [SK 10/06](https://www.saos.org.pl/judgments/107664) | Postanowienie
+- 2006-07-26 | SN | [III SPP 30/06](https://www.saos.org.pl/judgments/84483) | Postanowienie
+- 2006-06-07 | SN | [III CSP 1/06](https://www.saos.org.pl/judgments/164355) | Postanowienie
+- 2006-02-22 | SO | [II S 6/06](https://www.saos.org.pl/judgments/37245) | Postanowienie
+- 2006-02-14 | SN | [III SPP 7/06](https://www.saos.org.pl/judgments/84102) | Postanowienie
+- 2006-01-06 | SN | [III SPP 156/05](https://www.saos.org.pl/judgments/83976) | Postanowienie
+- 2005-11-17 | SN | [IV CSP 1/05](https://www.saos.org.pl/judgments/163750) | Postanowienie
+- 2005-06-28 | SN | [III SPZP 1/05](https://www.saos.org.pl/judgments/83549) | Uchwała
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-05-12 | SN | [III SPP 96/05](https://www.saos.org.pl/judgments/83415) | Postanowienie
+- 2004-12-07 | SN | [III SPP 23/04](https://www.saos.org.pl/judgments/83061) | Postanowienie
+
+## art. 6 (105)
+
+- 2023-06-13 | SO | [III S 56/23](https://www.saos.org.pl/judgments/507416) | Postanowienie
+- 2023-02-21 | SO | [III S 8/23](https://www.saos.org.pl/judgments/485774) | Postanowienie
+- 2022-10-27 | SO | [II S 30/22](https://www.saos.org.pl/judgments/480617) | Postanowienie
+- 2021-10-26 | SO | [III S 256/21](https://www.saos.org.pl/judgments/464479) | Postanowienie
+- 2021-05-28 | SO | [III S 8/21](https://www.saos.org.pl/judgments/443235) | Postanowienie
+- 2021-05-17 | SO | [II S 14/21](https://www.saos.org.pl/judgments/444236) | Postanowienie
+- 2021-03-02 | SO | [I S 13/21](https://www.saos.org.pl/judgments/437256) | Postanowienie
+- 2021-02-08 | SO | [II S 4/21](https://www.saos.org.pl/judgments/444241) | Postanowienie
+- 2020-04-16 | SO | [III S 6/20](https://www.saos.org.pl/judgments/422844) | Postanowienie
+- 2020-02-18 | SO | [III S 26/20](https://www.saos.org.pl/judgments/422843) | Postanowienie
+- 2019-06-24 | SO | [II S 369/18](https://www.saos.org.pl/judgments/401281) | Postanowienie
+- 2019-06-18 | SO | [II S 23/19](https://www.saos.org.pl/judgments/385330) | Zarządzenie
+- 2019-06-05 | SO | [II S 405/18](https://www.saos.org.pl/judgments/401760) | Postanowienie
+- 2019-03-05 | SO | [III S 350/18](https://www.saos.org.pl/judgments/382585) | Postanowienie
+- 2018-11-20 | SO | [III S 254/18](https://www.saos.org.pl/judgments/366180) | Postanowienie
+- 2018-08-06 | SO | [I S 184/18](https://www.saos.org.pl/judgments/363341) | Postanowienie
+- 2018-05-16 | SO | [III S 90/18](https://www.saos.org.pl/judgments/345921) | Postanowienie
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2017-12-05 | SO | [III S 247/17](https://www.saos.org.pl/judgments/327982) | Postanowienie
+- 2017-10-24 | SO | [III S 233/17](https://www.saos.org.pl/judgments/323979) | Postanowienie
+- 2017-09-07 | SO | [III S 150/17](https://www.saos.org.pl/judgments/315537) | Postanowienie
+- 2017-09-07 | SO | [III S 133/17](https://www.saos.org.pl/judgments/315536) | Postanowienie
+- 2017-06-19 | SO | [II S 10/17](https://www.saos.org.pl/judgments/293135) | Postanowienie
+- 2017-05-23 | SO | [III S 48/17](https://www.saos.org.pl/judgments/299349) | Postanowienie
+- 2017-03-24 | SO | [I S 2/17](https://www.saos.org.pl/judgments/417068) | Postanowienie
+- 2017-03-09 | SO | [I ACz 179/17](https://www.saos.org.pl/judgments/323186) | Postanowienie
+- 2016-12-20 | SO | [III S 181/16](https://www.saos.org.pl/judgments/265581) | Postanowienie
+- 2016-11-18 | SO | [II S 285/16](https://www.saos.org.pl/judgments/416796) | Postanowienie
+- 2016-09-29 | SO | [III S 148/16](https://www.saos.org.pl/judgments/251415) | Postanowienie
+- 2016-08-18 | SO | [I S 51/16](https://www.saos.org.pl/judgments/240721) | Postanowienie
+- 2016-07-05 | SO | [III S 113/16](https://www.saos.org.pl/judgments/246545) | Postanowienie
+- 2016-04-19 | SO | [III S 44/16](https://www.saos.org.pl/judgments/219852) | Postanowienie
+- 2016-03-22 | SO | [III S 55/16](https://www.saos.org.pl/judgments/215432) | Postanowienie
+- 2015-12-15 | SO | [III S 220/15](https://www.saos.org.pl/judgments/210387) | Postanowienie
+- 2015-12-09 | SO | [I S 98/15](https://www.saos.org.pl/judgments/192156) | Postanowienie
+- 2015-12-08 | SO | [IX S 32/15](https://www.saos.org.pl/judgments/216972) | Postanowienie
+- 2015-11-09 | SO | [IX S 27/15](https://www.saos.org.pl/judgments/216971) | Postanowienie
+- 2015-11-05 | SO | [IX S 25/15](https://www.saos.org.pl/judgments/216970) | Postanowienie
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-09-14 | SO | [II S 19/15](https://www.saos.org.pl/judgments/178617) | Postanowienie
+- 2015-07-30 | SO | [IX S 15/15](https://www.saos.org.pl/judgments/216969) | Postanowienie
+- 2015-06-30 | SO | [I S 55/15](https://www.saos.org.pl/judgments/174039) | Postanowienie
+- 2015-03-17 | SO | [III S 43/15](https://www.saos.org.pl/judgments/185961) | Postanowienie
+- 2015-01-29 | SO | [II S 14/15](https://www.saos.org.pl/judgments/150461) | Postanowienie
+- 2015-01-26 | SO | [V S 28/14](https://www.saos.org.pl/judgments/129517) | Postanowienie
+- 2015-01-05 | SO | [II S 190/14](https://www.saos.org.pl/judgments/153790) | Postanowienie
+- 2014-12-05 | SO | [II Cs 266/14](https://www.saos.org.pl/judgments/295625) | Postanowienie
+- 2014-11-19 | SO | [II Cs 237/14](https://www.saos.org.pl/judgments/295619) | Postanowienie
+- 2014-11-12 | SO | [III S 190/14](https://www.saos.org.pl/judgments/185944) | Postanowienie
+- 2014-09-30 | SO | [III S 187/14](https://www.saos.org.pl/judgments/69813) | Postanowienie
+- 2014-09-23 | SO | [III S 179/14](https://www.saos.org.pl/judgments/68216) | Postanowienie
+- 2014-09-09 | SO | [III S 166/14](https://www.saos.org.pl/judgments/67663) | Postanowienie
+- 2014-08-05 | SO | [III S 140/14](https://www.saos.org.pl/judgments/66438) | Postanowienie
+- 2014-07-22 | SO | [III S 119/14](https://www.saos.org.pl/judgments/185923) | Postanowienie
+- 2014-07-01 | SO | [III S 122/14](https://www.saos.org.pl/judgments/61724) | Postanowienie
+- 2014-06-20 | SO | [II Cs 115/14](https://www.saos.org.pl/judgments/295604) | Postanowienie
+- 2014-06-03 | SN | [III SPP 116/14](https://www.saos.org.pl/judgments/165998) | Postanowienie
+- 2014-05-27 | SO | [III S 80/14](https://www.saos.org.pl/judgments/130147) | Postanowienie
+- 2014-05-27 | SO | [III S 79/14](https://www.saos.org.pl/judgments/130146) | Postanowienie
+- 2014-05-09 | SO | [II S 68/14](https://www.saos.org.pl/judgments/47280) | Postanowienie
+- 2014-04-30 | SO | [XV S 69/14](https://www.saos.org.pl/judgments/49608) | Postanowienie
+- 2014-04-25 | SO | [II S 13/14](https://www.saos.org.pl/judgments/43675) | Postanowienie
+- 2014-04-15 | SO | [III S 69/14](https://www.saos.org.pl/judgments/59921) | Postanowienie
+- 2014-04-10 | SO | [I S 73/14](https://www.saos.org.pl/judgments/74272) | Postanowienie
+- 2014-03-28 | SO | [I S 16/14](https://www.saos.org.pl/judgments/145260) | Postanowienie
+- 2014-03-17 | SO | [I S 8/14](https://www.saos.org.pl/judgments/144564) | Postanowienie
+- 2014-03-11 | SO | [III S 33/14](https://www.saos.org.pl/judgments/59911) | Postanowienie
+- 2014-03-10 | SO | [II S 36/14](https://www.saos.org.pl/judgments/47278) | Postanowienie
+- 2014-03-05 | SO | [II S 33/14](https://www.saos.org.pl/judgments/47276) | Postanowienie
+- 2014-02-24 | SO | [II Ca 1620/13](https://www.saos.org.pl/judgments/42848) | Wyrok
+- 2014-02-04 | SO | [II S 13/14](https://www.saos.org.pl/judgments/34480) | Postanowienie
+- 2014-01-27 | SO | [II S 7/14](https://www.saos.org.pl/judgments/34487) | Postanowienie
+- 2014-01-27 | SO | [II S 243/13](https://www.saos.org.pl/judgments/34483) | Postanowienie
+- 2014-01-09 | SO | [III S 197/13](https://www.saos.org.pl/judgments/31262) | Postanowienie
+- 2013-12-30 | SO | [II S 54/13](https://www.saos.org.pl/judgments/32113) | Postanowienie
+- 2013-11-13 | SO | [II S 31/13](https://www.saos.org.pl/judgments/26443) | Postanowienie
+- 2013-10-16 | SO | [V S 70/13](https://www.saos.org.pl/judgments/22828) | Postanowienie
+- 2013-10-04 | SO | [V S 73/13](https://www.saos.org.pl/judgments/22829) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-08-28 | SN | [WSP 6/13](https://www.saos.org.pl/judgments/102760) | Postanowienie
+- 2013-07-17 | SO | [I S 75/13](https://www.saos.org.pl/judgments/139680) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-06-06 | SO | [II S 38/13](https://www.saos.org.pl/judgments/14539) | Postanowienie
+- 2013-06-04 | SO | [II S 42/13](https://www.saos.org.pl/judgments/12210) | Postanowienie
+- 2013-05-27 | SO | [I S 67/13](https://www.saos.org.pl/judgments/139158) | Postanowienie
+- 2013-05-22 | SO | [V S 14/13](https://www.saos.org.pl/judgments/13021) | Postanowienie
+- 2013-05-21 | SO | [II S 62/13](https://www.saos.org.pl/judgments/12212) | Postanowienie
+- 2013-02-28 | SO | [I S 8/13](https://www.saos.org.pl/judgments/137664) | Postanowienie
+- 2013-02-07 | SO | [I S 6/13](https://www.saos.org.pl/judgments/137309) | Postanowienie
+- 2012-11-29 | SO | [III S 7/12](https://www.saos.org.pl/judgments/2855) | Postanowienie
+- 2012-11-21 | SN | [V CSP 1/12](https://www.saos.org.pl/judgments/99762) | Postanowienie
+- 2012-11-15 | SN | [KSP 14/12](https://www.saos.org.pl/judgments/99641) | Postanowienie
+- 2012-09-18 | SO | [I S 35/12](https://www.saos.org.pl/judgments/137701) | Postanowienie
+- 2012-09-18 | SO | [I S 36/12](https://www.saos.org.pl/judgments/136677) | Postanowienie
+- 2012-04-05 | SO | [I S 9/12](https://www.saos.org.pl/judgments/136049) | Postanowienie
+- 2012-03-26 | SO | [I S 12/12](https://www.saos.org.pl/judgments/136038) | Postanowienie
+- 2011-11-29 | TK | [SK 5/10](https://www.saos.org.pl/judgments/110336) | Postanowienie
+- 2011-02-24 | SO | [V S 1/11](https://www.saos.org.pl/judgments/424210) | Postanowienie
+- 2010-07-20 | SN | [III SPP 15/10](https://www.saos.org.pl/judgments/165391) | Postanowienie
+- 2007-06-05 | SN | [III SPP 16/07](https://www.saos.org.pl/judgments/86049) | Postanowienie
+- 2005-07-08 | SN | [III SPP 120/05](https://www.saos.org.pl/judgments/83581) | Postanowienie
+- 2005-06-07 | SN | [III SPP 95/05](https://www.saos.org.pl/judgments/83472) | Postanowienie
+- 2005-06-07 | SN | [III SPP 103/05](https://www.saos.org.pl/judgments/83470) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2005-01-14 | SN | [III SPP 126/04](https://www.saos.org.pl/judgments/83128) | Postanowienie
+
+## art. 7 (10)
+
+- 2022-12-29 | SO | [II S 35/22](https://www.saos.org.pl/judgments/480622) | Postanowienie
+- 2022-02-22 | SO | [II S 7/22](https://www.saos.org.pl/judgments/463280) | Postanowienie
+- 2016-12-09 | SO | [II S 31/16](https://www.saos.org.pl/judgments/260816) | Postanowienie
+- 2014-02-19 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206573) | Postanowienie
+- 2013-11-04 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/160520) | Postanowienie
+- 2007-11-13 | SN | [III SPP 44/07](https://www.saos.org.pl/judgments/86832) | Postanowienie
+- 2007-01-05 | SN | [III SPP 47/06](https://www.saos.org.pl/judgments/84888) | Postanowienie
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2005-02-04 | SN | [III SPP 11/05](https://www.saos.org.pl/judgments/83192) | Postanowienie
+
+## art. 8 (349)
+
+- 2023-10-13 | SO | [II S 12/23](https://www.saos.org.pl/judgments/504326) | Postanowienie
+- 2023-07-19 | SO | [III S 80/23](https://www.saos.org.pl/judgments/491403) | Postanowienie
+- 2022-12-13 | SO | [III S 145/22](https://www.saos.org.pl/judgments/480623) | Postanowienie
+- 2022-12-01 | SO | [III S 189/22](https://www.saos.org.pl/judgments/480177) | Postanowienie
+- 2022-11-09 | SO | [II S 32/22](https://www.saos.org.pl/judgments/480619) | Postanowienie
+- 2022-10-28 | SO | [II S 29/22](https://www.saos.org.pl/judgments/480616) | Postanowienie
+- 2022-10-27 | SO | [II S 31/22](https://www.saos.org.pl/judgments/480618) | Postanowienie
+- 2022-09-20 | SO | [II S 26/22](https://www.saos.org.pl/judgments/480614) | Postanowienie
+- 2022-06-22 | SO | [II S 22/22](https://www.saos.org.pl/judgments/471767) | Postanowienie
+- 2022-05-24 | SO | [II S 18/22](https://www.saos.org.pl/judgments/471764) | Postanowienie
+- 2022-03-28 | SO | [II S 16/22](https://www.saos.org.pl/judgments/470432) | Postanowienie
+- 2022-03-24 | SO | [II S 15/22](https://www.saos.org.pl/judgments/469870) | Postanowienie
+- 2022-03-11 | SO | [II S 13/22](https://www.saos.org.pl/judgments/463267) | Postanowienie
+- 2022-03-01 | SO | [II S 10/22](https://www.saos.org.pl/judgments/463264) | Postanowienie
+- 2022-02-24 | SO | [II S 11/22](https://www.saos.org.pl/judgments/463265) | Postanowienie
+- 2022-02-22 | SO | [II S 7/22](https://www.saos.org.pl/judgments/463280) | Postanowienie
+- 2022-01-03 | SO | [II S 39/21](https://www.saos.org.pl/judgments/463275) | Postanowienie
+- 2021-12-22 | SO | [II S 37/21](https://www.saos.org.pl/judgments/463273) | Postanowienie
+- 2021-12-21 | SO | [II S 38/21](https://www.saos.org.pl/judgments/463274) | Postanowienie
+- 2021-12-06 | SO | [II S 35/21](https://www.saos.org.pl/judgments/453606) | Postanowienie
+- 2021-10-26 | SO | [III Cz 456/21](https://www.saos.org.pl/judgments/453714) | Postanowienie
+- 2021-09-27 | SO | [II S 32/21](https://www.saos.org.pl/judgments/453603) | Postanowienie
+- 2021-09-08 | SO | [II S 19/21](https://www.saos.org.pl/judgments/470433) | Postanowienie
+- 2021-08-30 | SO | [II S 29/21](https://www.saos.org.pl/judgments/453600) | Postanowienie
+- 2021-08-24 | SO | [II S 6/21](https://www.saos.org.pl/judgments/446607) | Postanowienie
+- 2021-08-10 | SO | [II S 27/21](https://www.saos.org.pl/judgments/453598) | Postanowienie
+- 2021-07-15 | SO | [II S 25/21](https://www.saos.org.pl/judgments/450025) | Postanowienie
+- 2021-07-13 | SO | [II S 24/21](https://www.saos.org.pl/judgments/450024) | Postanowienie
+- 2021-07-01 | SO | [II S 23/21](https://www.saos.org.pl/judgments/450023) | Postanowienie
+- 2021-06-25 | SO | [II S 20/21](https://www.saos.org.pl/judgments/463270) | Zarządzenie
+- 2021-06-25 | SO | [II S 19/21](https://www.saos.org.pl/judgments/463269) | Zarządzenie
+- 2021-06-25 | SO | [II S 18/21](https://www.saos.org.pl/judgments/450022) | Zarządzenie
+- 2021-06-23 | SO | [II S 17/21](https://www.saos.org.pl/judgments/444239) | Postanowienie
+- 2021-06-18 | SO | [II S 16/21](https://www.saos.org.pl/judgments/444238) | Postanowienie
+- 2021-06-16 | SO | [II S 15/21](https://www.saos.org.pl/judgments/444237) | Zarządzenie
+- 2021-05-10 | SO | [II S 12/21](https://www.saos.org.pl/judgments/444234) | Postanowienie
+- 2021-04-07 | SO | [III S 139/21](https://www.saos.org.pl/judgments/440143) | Postanowienie
+- 2021-03-31 | SO | [III S 133/21](https://www.saos.org.pl/judgments/436800) | Postanowienie
+- 2021-03-19 | SO | [V ACa 502/19](https://www.saos.org.pl/judgments/448889) | Wyrok
+- 2021-02-17 | SO | [II S 6/21](https://www.saos.org.pl/judgments/444243) | Postanowienie
+- 2021-01-29 | SO | [II S 57/20](https://www.saos.org.pl/judgments/430571) | Postanowienie
+- 2021-01-21 | SO | [II S 55/20](https://www.saos.org.pl/judgments/430570) | Postanowienie
+- 2021-01-20 | SO | [II S 3/21](https://www.saos.org.pl/judgments/430568) | Postanowienie
+- 2020-12-22 | SO | [II S 58/20](https://www.saos.org.pl/judgments/427609) | Postanowienie
+- 2020-12-21 | SO | [II S 56/20](https://www.saos.org.pl/judgments/427608) | Postanowienie
+- 2020-12-09 | SO | [II S 51/20](https://www.saos.org.pl/judgments/427605) | Postanowienie
+- 2020-12-04 | SO | [II S 54/20](https://www.saos.org.pl/judgments/427607) | Postanowienie
+- 2020-11-20 | SO | [II S 52/20](https://www.saos.org.pl/judgments/427606) | Postanowienie
+- 2020-11-09 | SO | [II S 48/20](https://www.saos.org.pl/judgments/427603) | Postanowienie
+- 2020-10-27 | SO | [II S 44/20](https://www.saos.org.pl/judgments/427599) | Postanowienie
+- 2020-10-26 | SO | [II S 49/20](https://www.saos.org.pl/judgments/427604) | Postanowienie
+- 2020-10-07 | SO | [II S 41/20](https://www.saos.org.pl/judgments/427596) | Postanowienie
+- 2020-09-23 | SO | [II S 42/20](https://www.saos.org.pl/judgments/427597) | Postanowienie
+- 2020-09-17 | SO | [II S 40/20](https://www.saos.org.pl/judgments/427595) | Postanowienie
+- 2020-09-14 | SO | [II S 38/20](https://www.saos.org.pl/judgments/427593) | Postanowienie
+- 2020-09-08 | SO | [II S 37/20](https://www.saos.org.pl/judgments/427592) | Postanowienie
+- 2020-09-08 | SO | [II S 35/20](https://www.saos.org.pl/judgments/427591) | Postanowienie
+- 2020-09-08 | SO | [II S 33/20](https://www.saos.org.pl/judgments/427589) | Postanowienie
+- 2020-09-08 | SO | [III S 212/20](https://www.saos.org.pl/judgments/422234) | Postanowienie
+- 2020-09-07 | SO | [I S 18/20](https://www.saos.org.pl/judgments/419511) | Postanowienie
+- 2020-08-28 | SO | [II S 34/20](https://www.saos.org.pl/judgments/427590) | Postanowienie
+- 2020-08-13 | SO | [II S 32/20](https://www.saos.org.pl/judgments/419027) | Postanowienie
+- 2020-08-12 | SO | [II S 30/20](https://www.saos.org.pl/judgments/419026) | Postanowienie
+- 2020-07-21 | SO | [II S 28/20](https://www.saos.org.pl/judgments/417448) | Postanowienie
+- 2020-07-14 | SO | [II S 29/20](https://www.saos.org.pl/judgments/417449) | Postanowienie
+- 2020-07-13 | SO | [II S 26/20](https://www.saos.org.pl/judgments/417446) | Postanowienie
+- 2020-07-03 | SO | [II S 27/20](https://www.saos.org.pl/judgments/417447) | Postanowienie
+- 2020-06-29 | SO | [II S 23/20](https://www.saos.org.pl/judgments/417443) | Postanowienie
+- 2020-06-24 | SO | [II S 24/20](https://www.saos.org.pl/judgments/417444) | Postanowienie
+- 2020-06-16 | SO | [II S 21/20](https://www.saos.org.pl/judgments/414528) | Postanowienie
+- 2020-06-04 | SO | [II S 13/20](https://www.saos.org.pl/judgments/418895) | Postanowienie
+- 2020-06-01 | SO | [II S 20/20](https://www.saos.org.pl/judgments/414527) | Postanowienie
+- 2020-05-28 | SO | [II S 19/20](https://www.saos.org.pl/judgments/414526) | Postanowienie
+- 2020-05-20 | SO | [II S 16/20](https://www.saos.org.pl/judgments/417441) | Uzasadnienie
+- 2020-05-19 | SO | [II S 17/20](https://www.saos.org.pl/judgments/417442) | Postanowienie
+- 2020-05-14 | SO | [II S 12/20](https://www.saos.org.pl/judgments/417439) | Postanowienie
+- 2020-04-16 | SO | [III S 500/19](https://www.saos.org.pl/judgments/422747) | Postanowienie
+- 2020-04-06 | SO | [II S 9/20](https://www.saos.org.pl/judgments/411753) | Postanowienie
+- 2020-02-25 | SO | [II S 10/20](https://www.saos.org.pl/judgments/411743) | Postanowienie
+- 2020-02-17 | SO | [II S 5/20](https://www.saos.org.pl/judgments/411748) | Postanowienie
+- 2020-02-12 | SO | [II S 7/20](https://www.saos.org.pl/judgments/411752) | Postanowienie
+- 2020-02-11 | SO | [II S 2/20](https://www.saos.org.pl/judgments/411745) | Postanowienie
+- 2020-02-04 | SO | [III S 491/19](https://www.saos.org.pl/judgments/411799) | Postanowienie
+- 2020-01-29 | SO | [II S 4/20](https://www.saos.org.pl/judgments/411747) | Postanowienie
+- 2020-01-22 | SO | [II S 1/20](https://www.saos.org.pl/judgments/411742) | Postanowienie
+- 2020-01-20 | SO | [II S 553/19](https://www.saos.org.pl/judgments/414534) | Postanowienie
+- 2020-01-20 | SO | [II S 536/19](https://www.saos.org.pl/judgments/414533) | Postanowienie
+- 2020-01-13 | SO | [II S 554/19](https://www.saos.org.pl/judgments/414350) | Postanowienie
+- 2020-01-07 | SO | [II S 67/19](https://www.saos.org.pl/judgments/403932) | Postanowienie
+- 2019-12-17 | SO | [III S 438/19](https://www.saos.org.pl/judgments/404736) | Postanowienie
+- 2019-12-02 | SO | [II S 62/19](https://www.saos.org.pl/judgments/399846) | Postanowienie
+- 2019-11-27 | SO | [II S 61/19](https://www.saos.org.pl/judgments/399845) | Postanowienie
+- 2019-11-19 | SO | [III S 432/19](https://www.saos.org.pl/judgments/399898) | Postanowienie
+- 2019-10-23 | SO | [II S 56/19](https://www.saos.org.pl/judgments/397257) | Postanowienie
+- 2019-10-22 | SO | [II S 55/19](https://www.saos.org.pl/judgments/397256) | Postanowienie
+- 2019-10-22 | SO | [II S 52/19](https://www.saos.org.pl/judgments/397255) | Postanowienie
+- 2019-10-16 | SO | [II S 54/19](https://www.saos.org.pl/judgments/393722) | Postanowienie
+- 2019-10-15 | SO | [II S 53/19](https://www.saos.org.pl/judgments/393721) | Postanowienie
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-09-23 | SO | [II S 39/19](https://www.saos.org.pl/judgments/393716) | Postanowienie
+- 2019-09-09 | SO | [II S 46/19](https://www.saos.org.pl/judgments/391264) | Postanowienie
+- 2019-09-05 | SO | [II S 47/19](https://www.saos.org.pl/judgments/391324) | Postanowienie
+- 2019-08-20 | SO | [III S 323/19](https://www.saos.org.pl/judgments/399896) | Postanowienie
+- 2019-08-14 | SO | [II S 43/19](https://www.saos.org.pl/judgments/391263) | Postanowienie
+- 2019-08-12 | SO | [II S 41/19](https://www.saos.org.pl/judgments/391261) | Postanowienie
+- 2019-08-12 | SO | [II S 38/19](https://www.saos.org.pl/judgments/391260) | Postanowienie
+- 2019-08-07 | SO | [II S 42/19](https://www.saos.org.pl/judgments/391262) | Postanowienie
+- 2019-07-19 | SO | [II S 40/19](https://www.saos.org.pl/judgments/388545) | Postanowienie
+- 2019-07-16 | SO | [III S 249/19](https://www.saos.org.pl/judgments/389148) | Postanowienie
+- 2019-07-15 | SO | [II S 37/19](https://www.saos.org.pl/judgments/388544) | Postanowienie
+- 2019-07-04 | SO | [II S 36/19](https://www.saos.org.pl/judgments/385338) | Postanowienie
+- 2019-07-04 | SO | [II S 30/19](https://www.saos.org.pl/judgments/385334) | Postanowienie
+- 2019-07-02 | SO | [III S 243/19](https://www.saos.org.pl/judgments/399894) | Postanowienie
+- 2019-06-28 | SO | [II S 33/19](https://www.saos.org.pl/judgments/385335) | Postanowienie
+- 2019-06-26 | SO | [II S 35/19](https://www.saos.org.pl/judgments/385337) | Postanowienie
+- 2019-06-26 | SO | [II S 34/19](https://www.saos.org.pl/judgments/385336) | Postanowienie
+- 2019-06-18 | SO | [II S 23/19](https://www.saos.org.pl/judgments/385330) | Zarządzenie
+- 2019-06-17 | SO | [II S 29/19](https://www.saos.org.pl/judgments/385333) | Postanowienie
+- 2019-06-12 | SO | [II S 25/19](https://www.saos.org.pl/judgments/385021) | Postanowienie
+- 2019-06-12 | SO | [II S 24/19](https://www.saos.org.pl/judgments/385020) | Postanowienie
+- 2019-06-06 | SO | [II S 26/19](https://www.saos.org.pl/judgments/385022) | Postanowienie
+- 2019-05-31 | SO | [II S 28/19](https://www.saos.org.pl/judgments/385332) | Postanowienie
+- 2019-05-30 | SO | [II S 27/19](https://www.saos.org.pl/judgments/385331) | Postanowienie
+- 2019-05-14 | SO | [III S 178/19](https://www.saos.org.pl/judgments/382731) | Postanowienie
+- 2019-05-10 | SO | [II S 20/19](https://www.saos.org.pl/judgments/385328) | Postanowienie
+- 2019-05-07 | SO | [III S 154/19](https://www.saos.org.pl/judgments/399891) | Postanowienie
+- 2019-05-06 | SO | [II S 19/19](https://www.saos.org.pl/judgments/378405) | Postanowienie
+- 2019-04-24 | SO | [II S 18/19](https://www.saos.org.pl/judgments/378404) | Postanowienie
+- 2019-04-24 | SO | [II S 17/19](https://www.saos.org.pl/judgments/378403) | Postanowienie
+- 2019-04-18 | SO | [II S 106/19](https://www.saos.org.pl/judgments/402071) | Postanowienie
+- 2019-04-17 | SO | [II S 14/19](https://www.saos.org.pl/judgments/378402) | Postanowienie
+- 2019-04-09 | SO | [III S 141/19](https://www.saos.org.pl/judgments/379075) | Postanowienie
+- 2019-03-18 | SO | [II S 13/19](https://www.saos.org.pl/judgments/378401) | Zarządzenie
+- 2019-03-14 | SO | [II S 6/19](https://www.saos.org.pl/judgments/401775) | Postanowienie
+- 2019-03-12 | SO | [III S 41/19](https://www.saos.org.pl/judgments/379077) | Postanowienie
+- 2019-03-11 | SO | [II S 4/19](https://www.saos.org.pl/judgments/401758) | Postanowienie
+- 2019-03-05 | SO | [III S 350/18](https://www.saos.org.pl/judgments/382585) | Postanowienie
+- 2019-02-25 | SO | [II S 19/19](https://www.saos.org.pl/judgments/401748) | Postanowienie
+- 2019-02-21 | SO | [II S 7/19](https://www.saos.org.pl/judgments/374522) | Postanowienie
+- 2019-02-11 | SO | [II S 6/19](https://www.saos.org.pl/judgments/370229) | Zarządzenie
+- 2019-02-04 | SO | [II S 4/19](https://www.saos.org.pl/judgments/370228) | Postanowienie
+- 2019-01-24 | SO | [II S 2/19](https://www.saos.org.pl/judgments/367989) | Postanowienie
+- 2018-12-10 | SO | [I S 353/18](https://www.saos.org.pl/judgments/390080) | Postanowienie
+- 2018-12-03 | SO | [II S 51/18](https://www.saos.org.pl/judgments/367991) | Postanowienie
+- 2018-10-09 | SO | [III S 243/18](https://www.saos.org.pl/judgments/361927) | Postanowienie
+- 2018-10-09 | SO | [III S 196/18](https://www.saos.org.pl/judgments/361925) | Postanowienie
+- 2018-09-19 | SO | [II S 45/18](https://www.saos.org.pl/judgments/356738) | Uzasadnienie
+- 2018-09-13 | SO | [III S 161/18](https://www.saos.org.pl/judgments/367524) | Postanowienie
+- 2018-09-13 | SO | [II S 33/18](https://www.saos.org.pl/judgments/359380) | Postanowienie
+- 2018-08-23 | SO | [II S 38/18](https://www.saos.org.pl/judgments/356736) | Postanowienie
+- 2018-07-05 | SO | [II S 29/18](https://www.saos.org.pl/judgments/347108) | Zarządzenie
+- 2018-05-29 | SO | [I S 79/18](https://www.saos.org.pl/judgments/344271) | Postanowienie
+- 2018-05-29 | SO | [II S 25/18](https://www.saos.org.pl/judgments/343195) | Uzasadnienie
+- 2018-05-24 | SO | [II S 11/18](https://www.saos.org.pl/judgments/341895) | Postanowienie
+- 2018-05-22 | SO | [II S 20/18](https://www.saos.org.pl/judgments/341899) | Postanowienie
+- 2018-05-15 | SO | [II S 7/18](https://www.saos.org.pl/judgments/341758) | Postanowienie
+- 2018-04-19 | SO | [I S 98/18](https://www.saos.org.pl/judgments/346102) | Postanowienie
+- 2018-04-18 | SO | [II S 15/18](https://www.saos.org.pl/judgments/338175) | Postanowienie
+- 2018-02-12 | SO | [II S 8/18](https://www.saos.org.pl/judgments/327533) | Postanowienie
+- 2018-02-12 | SO | [II S 7/18](https://www.saos.org.pl/judgments/327532) | Postanowienie
+- 2018-02-05 | SO | [II S 4/18](https://www.saos.org.pl/judgments/327530) | Postanowienie
+- 2017-10-25 | SO | [II S 24/17](https://www.saos.org.pl/judgments/310214) | Zarządzenie
+- 2017-10-25 | SO | [II S 23/17](https://www.saos.org.pl/judgments/310213) | Postanowienie
+- 2017-09-26 | SO | [II S 21/17](https://www.saos.org.pl/judgments/310212) | Postanowienie
+- 2017-09-12 | SO | [I S 61/17](https://www.saos.org.pl/judgments/309697) | Postanowienie
+- 2017-08-30 | SO | [V S 36/17](https://www.saos.org.pl/judgments/299965) | Postanowienie
+- 2017-08-22 | SO | [III S 106/17](https://www.saos.org.pl/judgments/311257) | Postanowienie
+- 2017-07-06 | SO | [II S 12/17](https://www.saos.org.pl/judgments/293137) | Postanowienie
+- 2017-06-19 | SO | [II S 10/17](https://www.saos.org.pl/judgments/293135) | Postanowienie
+- 2017-04-28 | SO | [II S 6/17](https://www.saos.org.pl/judgments/290100) | Postanowienie
+- 2017-03-30 | SO | [VII S 7/17](https://www.saos.org.pl/judgments/287300) | Postanowienie
+- 2016-12-29 | SO | [II S 33/16](https://www.saos.org.pl/judgments/260818) | Postanowienie
+- 2016-12-28 | SO | [II S 295/16](https://www.saos.org.pl/judgments/416799) | Postanowienie
+- 2016-12-27 | SO | [II S 32/16](https://www.saos.org.pl/judgments/260817) | Postanowienie
+- 2016-12-09 | SO | [II S 31/16](https://www.saos.org.pl/judgments/260816) | Postanowienie
+- 2016-11-29 | SO | [III S 187/16](https://www.saos.org.pl/judgments/262261) | Postanowienie
+- 2016-11-29 | SO | [I S 80/16](https://www.saos.org.pl/judgments/260432) | Postanowienie
+- 2016-08-12 | SO | [II S 188/16](https://www.saos.org.pl/judgments/415425) | Postanowienie
+- 2016-06-28 | SO | [III S 107/16](https://www.saos.org.pl/judgments/233570) | Postanowienie
+- 2016-05-31 | SO | [III S 69/16](https://www.saos.org.pl/judgments/231974) | Postanowienie
+- 2016-05-10 | SO | [III S 73/16](https://www.saos.org.pl/judgments/225663) | Postanowienie
+- 2016-04-20 | SO | [III S 53/16](https://www.saos.org.pl/judgments/219854) | Postanowienie
+- 2016-04-07 | SO | [VII S 7/16](https://www.saos.org.pl/judgments/218760) | Postanowienie
+- 2016-03-24 | SO | [I S 86/16](https://www.saos.org.pl/judgments/218405) | Postanowienie
+- 2016-03-22 | SO | [III S 54/16](https://www.saos.org.pl/judgments/215431) | Postanowienie
+- 2016-03-15 | SO | [III S 262/15](https://www.saos.org.pl/judgments/215428) | Postanowienie
+- 2016-03-15 | SO | [III S 261/15](https://www.saos.org.pl/judgments/215427) | Postanowienie
+- 2016-03-09 | SO | [II S 6/16](https://www.saos.org.pl/judgments/213409) | Postanowienie
+- 2016-02-17 | SN | [III SPP 49/15](https://www.saos.org.pl/judgments/244637) | Postanowienie
+- 2016-02-09 | SN | [III SPP 11/16](https://www.saos.org.pl/judgments/244587) | Postanowienie
+- 2016-01-25 | SO | [I S 8/16](https://www.saos.org.pl/judgments/210199) | Postanowienie
+- 2015-12-21 | SO | [II S 31/15](https://www.saos.org.pl/judgments/197670) | Postanowienie
+- 2015-12-21 | SO | [II S 28/15](https://www.saos.org.pl/judgments/192504) | Postanowienie
+- 2015-12-08 | SO | [III S 216/15](https://www.saos.org.pl/judgments/210385) | Postanowienie
+- 2015-10-30 | SO | [II C 723/12](https://www.saos.org.pl/judgments/321887) | Wyrok
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-10-19 | SO | [II C 1390/14](https://www.saos.org.pl/judgments/183112) | Uzasadnienie
+- 2015-10-12 | SO | [II S 21/15](https://www.saos.org.pl/judgments/184031) | Postanowienie
+- 2015-09-03 | SN | [KSP 4/15](https://www.saos.org.pl/judgments/243228) | Postanowienie
+- 2015-07-14 | SO | [III S 73/15](https://www.saos.org.pl/judgments/185968) | Postanowienie
+- 2015-07-08 | SN | [KSP 8/15](https://www.saos.org.pl/judgments/242996) | Postanowienie
+- 2015-07-08 | SN | [KSP 6/15](https://www.saos.org.pl/judgments/242995) | Postanowienie
+- 2015-06-30 | SO | [III S 100/15](https://www.saos.org.pl/judgments/159781) | Postanowienie
+- 2015-06-26 | SO | [III S 96/15](https://www.saos.org.pl/judgments/185974) | Postanowienie
+- 2015-06-08 | SN | [III SPP 11/15](https://www.saos.org.pl/judgments/245639) | Postanowienie
+- 2015-06-02 | SO | [III S 80/15](https://www.saos.org.pl/judgments/185970) | Postanowienie
+- 2015-05-29 | SO | [I S 45/15](https://www.saos.org.pl/judgments/156946) | Postanowienie
+- 2015-04-13 | SO | [II S 30/15](https://www.saos.org.pl/judgments/155902) | Postanowienie
+- 2015-04-13 | SO | [II S 15/15](https://www.saos.org.pl/judgments/155900) | Postanowienie
+- 2015-04-08 | SO | [II S 12/15](https://www.saos.org.pl/judgments/155899) | Postanowienie
+- 2015-03-19 | SO | [II S 2/15](https://www.saos.org.pl/judgments/132850) | Postanowienie
+- 2015-01-28 | SN | [III SPP 4/15](https://www.saos.org.pl/judgments/168108) | Postanowienie
+- 2015-01-20 | SN | [III SPP 236/14](https://www.saos.org.pl/judgments/168039) | Postanowienie
+- 2015-01-13 | SO | [III S 220/14](https://www.saos.org.pl/judgments/185953) | Postanowienie
+- 2015-01-08 | SO | [III S 235/14](https://www.saos.org.pl/judgments/185958) | Postanowienie
+- 2014-12-18 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/159934) | Postanowienie
+- 2014-12-05 | SO | [II Cs 266/14](https://www.saos.org.pl/judgments/295625) | Postanowienie
+- 2014-11-26 | SO | [II S 36/14](https://www.saos.org.pl/judgments/74183) | Postanowienie
+- 2014-11-19 | SO | [II Cs 237/14](https://www.saos.org.pl/judgments/295619) | Postanowienie
+- 2014-11-14 | SO | [II Cs 250/14](https://www.saos.org.pl/judgments/295622) | Postanowienie
+- 2014-11-14 | SO | [II Cs 243/14](https://www.saos.org.pl/judgments/295620) | Postanowienie
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-05 | SO | [III S 142/14](https://www.saos.org.pl/judgments/125806) | Postanowienie
+- 2014-10-21 | SO | [I S 94/14](https://www.saos.org.pl/judgments/69802) | Postanowienie
+- 2014-10-03 | SO | [II Cs 215/14](https://www.saos.org.pl/judgments/295616) | Postanowienie
+- 2014-09-23 | SO | [III S 185/14](https://www.saos.org.pl/judgments/70326) | Postanowienie
+- 2014-09-16 | SO | [III S 165/14](https://www.saos.org.pl/judgments/68722) | Postanowienie
+- 2014-09-16 | SO | [III S 144/14](https://www.saos.org.pl/judgments/67872) | Postanowienie
+- 2014-08-21 | SO | [II Cs 143/14](https://www.saos.org.pl/judgments/131258) | Postanowienie
+- 2014-08-21 | SO | [II S 27/14](https://www.saos.org.pl/judgments/57517) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-08-08 | SO | [V S 41/14](https://www.saos.org.pl/judgments/60293) | Postanowienie
+- 2014-08-05 | SO | [III S 135/14](https://www.saos.org.pl/judgments/66437) | Postanowienie
+- 2014-07-24 | SO | [II S 40/14](https://www.saos.org.pl/judgments/57606) | Postanowienie
+- 2014-07-17 | SN | [III SPP 133/14](https://www.saos.org.pl/judgments/166365) | Postanowienie
+- 2014-07-09 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206574) | Postanowienie
+- 2014-07-01 | SO | [III S 120/14](https://www.saos.org.pl/judgments/61723) | Postanowienie
+- 2014-07-01 | SO | [III S 116/14](https://www.saos.org.pl/judgments/61234) | Postanowienie
+- 2014-07-01 | SO | [II S 23/14](https://www.saos.org.pl/judgments/54260) | Postanowienie
+- 2014-06-20 | SO | [II Cs 115/14](https://www.saos.org.pl/judgments/295604) | Postanowienie
+- 2014-05-28 | SO | [III S 66/14](https://www.saos.org.pl/judgments/130145) | Postanowienie
+- 2014-05-26 | SO | [II Cs 41/14](https://www.saos.org.pl/judgments/63076) | Postanowienie
+- 2014-05-15 | SO | [II Cs 24/14](https://www.saos.org.pl/judgments/63075) | Postanowienie
+- 2014-05-06 | SO | [III S 64/14](https://www.saos.org.pl/judgments/59919) | Postanowienie
+- 2014-04-30 | SO | [II S 13/14](https://www.saos.org.pl/judgments/45879) | Postanowienie
+- 2014-04-23 | SO | [III S 53/14](https://www.saos.org.pl/judgments/59915) | Postanowienie
+- 2014-04-14 | SO | [II S 16/14](https://www.saos.org.pl/judgments/44884) | Postanowienie
+- 2014-04-10 | SN | [KSP 5/14](https://www.saos.org.pl/judgments/104927) | Postanowienie
+- 2014-04-08 | SO | [III S 43/14](https://www.saos.org.pl/judgments/130143) | Postanowienie
+- 2014-04-08 | SO | [XV S 49/14](https://www.saos.org.pl/judgments/49606) | Postanowienie
+- 2014-04-01 | SO | [III S 40/14](https://www.saos.org.pl/judgments/130142) | Postanowienie
+- 2014-03-28 | SO | [V S 6/14](https://www.saos.org.pl/judgments/40598) | Postanowienie
+- 2014-03-25 | SO | [II S 2/14](https://www.saos.org.pl/judgments/44011) | Postanowienie
+- 2014-03-05 | SO | [II S 261/13](https://www.saos.org.pl/judgments/47275) | Postanowienie
+- 2014-03-05 | SO | [II S 237/13](https://www.saos.org.pl/judgments/47273) | Postanowienie
+- 2014-03-05 | SO | [II S 22/14](https://www.saos.org.pl/judgments/47271) | Postanowienie
+- 2014-02-19 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206573) | Postanowienie
+- 2014-01-14 | SO | [III S 6/14](https://www.saos.org.pl/judgments/59918) | Postanowienie
+- 2014-01-13 | SO | [II S 238/13](https://www.saos.org.pl/judgments/34482) | Postanowienie
+- 2014-01-03 | SO | [II S 56/13](https://www.saos.org.pl/judgments/346277) | Postanowienie
+- 2013-12-31 | SO | [II S 7/13](https://www.saos.org.pl/judgments/32242) | Postanowienie
+- 2013-12-30 | SO | [II S 54/13](https://www.saos.org.pl/judgments/32113) | Postanowienie
+- 2013-12-02 | SO | [II S 34/13](https://www.saos.org.pl/judgments/28092) | Postanowienie
+- 2013-11-25 | SO | [II S 51/13](https://www.saos.org.pl/judgments/54191) | Postanowienie
+- 2013-11-04 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/160520) | Postanowienie
+- 2013-10-10 | SO | [V S 68/13](https://www.saos.org.pl/judgments/23951) | Postanowienie
+- 2013-10-09 | SO | [II Cs 127/13](https://www.saos.org.pl/judgments/21929) | Postanowienie
+- 2013-10-02 | TK | [Ts 131/12](https://www.saos.org.pl/judgments/206400) | Postanowienie
+- 2013-09-20 | SO | [II Cs 109/13](https://www.saos.org.pl/judgments/21928) | Postanowienie
+- 2013-07-16 | SO | [I S 19/13](https://www.saos.org.pl/judgments/139538) | Postanowienie
+- 2013-07-16 | SO | [II S 7/13](https://www.saos.org.pl/judgments/47281) | Postanowienie
+- 2013-07-15 | SO | [II S 57/13](https://www.saos.org.pl/judgments/16632) | Postanowienie
+- 2013-07-10 | SO | [II S 16/13](https://www.saos.org.pl/judgments/16071) | Postanowienie
+- 2013-06-14 | SO | [IX S 4/13](https://www.saos.org.pl/judgments/15565) | Postanowienie
+- 2013-06-05 | SO | [II S 6/13](https://www.saos.org.pl/judgments/16634) | Postanowienie
+- 2013-05-17 | SO | [IX S 3/13](https://www.saos.org.pl/judgments/15564) | Postanowienie
+- 2013-04-04 | SO | [II S 8/13](https://www.saos.org.pl/judgments/12297) | Postanowienie
+- 2013-01-31 | TK | [Ts 202/11](https://www.saos.org.pl/judgments/111945) | Postanowienie
+- 2013-01-29 | SN | [KSP 16/12](https://www.saos.org.pl/judgments/100538) | Postanowienie
+- 2013-01-24 | SO | [II AKo 3/13](https://www.saos.org.pl/judgments/136955) | Postanowienie
+- 2013-01-10 | SO | [II S 33/12](https://www.saos.org.pl/judgments/3596) | Postanowienie
+- 2013-01-03 | SO | [II S 24/12](https://www.saos.org.pl/judgments/4006) | Postanowienie
+- 2012-12-28 | SO | [II S 23/12](https://www.saos.org.pl/judgments/4005) | Postanowienie
+- 2012-12-21 | SO | [V S 31/12](https://www.saos.org.pl/judgments/3247) | Postanowienie
+- 2012-11-29 | SO | [III S 7/12](https://www.saos.org.pl/judgments/2855) | Postanowienie
+- 2012-11-23 | SO | [II S 22/12](https://www.saos.org.pl/judgments/3681) | Postanowienie
+- 2012-11-21 | SO | [I S 122/12](https://www.saos.org.pl/judgments/136152) | Postanowienie
+- 2012-11-21 | SN | [V CSP 1/12](https://www.saos.org.pl/judgments/99762) | Postanowienie
+- 2012-11-15 | SN | [KSP 9/12](https://www.saos.org.pl/judgments/99643) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-10-22 | SO | [III S 8/12](https://www.saos.org.pl/judgments/1137) | Postanowienie
+- 2012-10-08 | SO | [V S 23/12](https://www.saos.org.pl/judgments/533) | Postanowienie
+- 2012-09-17 | TK | [SK 12/10](https://www.saos.org.pl/judgments/110987) | Postanowienie
+- 2012-07-05 | SN | [I CSP 2/12](https://www.saos.org.pl/judgments/98540) | Postanowienie
+- 2012-06-12 | SN | [III SPP 25/12](https://www.saos.org.pl/judgments/98389) | Postanowienie
+- 2012-06-12 | SN | [III SPP 21/12](https://www.saos.org.pl/judgments/98388) | Postanowienie
+- 2012-06-12 | SN | [III SPP 20/12](https://www.saos.org.pl/judgments/98387) | Postanowienie
+- 2012-05-23 | SO | [II S 14/12](https://www.saos.org.pl/judgments/1355) | Postanowienie
+- 2012-03-14 | SO | [II S 7/12](https://www.saos.org.pl/judgments/7347) | Postanowienie
+- 2012-03-05 | SO | [I S 4/12](https://www.saos.org.pl/judgments/136044) | Postanowienie
+- 2012-02-20 | TK | [Ts 86/11](https://www.saos.org.pl/judgments/111155) | Postanowienie
+- 2012-02-14 | TK | [Ts 150/10](https://www.saos.org.pl/judgments/111246) | Postanowienie
+- 2011-12-29 | SN | [V CSP 1/11](https://www.saos.org.pl/judgments/96654) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-10-28 | SN | [IV CNP 54/11](https://www.saos.org.pl/judgments/96174) | Postanowienie
+- 2011-05-10 | TK | [Ts 150/10](https://www.saos.org.pl/judgments/110595) | Postanowienie
+- 2011-05-06 | SN | [III SPP 5/11](https://www.saos.org.pl/judgments/94889) | Postanowienie
+- 2011-02-17 | TK | [Ts 4/10](https://www.saos.org.pl/judgments/110379) | Postanowienie
+- 2011-01-13 | TK | [Ts 6/10](https://www.saos.org.pl/judgments/110385) | Postanowienie
+- 2011-01-05 | SN | [III SPP 29/10](https://www.saos.org.pl/judgments/93828) | Postanowienie
+- 2010-10-28 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110189) | Postanowienie
+- 2010-10-14 | TK | [K 17/07](https://www.saos.org.pl/judgments/109672) | Wyrok
+- 2010-09-21 | SN | [III SPP 19/10](https://www.saos.org.pl/judgments/92971) | Postanowienie
+- 2010-07-20 | SN | [III SPP 15/10](https://www.saos.org.pl/judgments/165391) | Postanowienie
+- 2010-07-07 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110188) | Postanowienie
+- 2010-07-01 | TK | [Ts 6/10](https://www.saos.org.pl/judgments/109783) | Postanowienie
+- 2010-04-30 | TK | [Ts 220/08](https://www.saos.org.pl/judgments/206287) | Postanowienie
+- 2009-12-07 | TK | [Ts 87/09](https://www.saos.org.pl/judgments/109224) | Postanowienie
+- 2009-09-02 | SN | [KSP 13/09](https://www.saos.org.pl/judgments/90815) | Postanowienie
+- 2009-06-23 | TK | [Ts 292/06](https://www.saos.org.pl/judgments/109491) | Postanowienie
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+- 2008-01-23 | TK | [Ts 277/06](https://www.saos.org.pl/judgments/108891) | Postanowienie
+- 2007-09-11 | TK | [Ts 292/06](https://www.saos.org.pl/judgments/108458) | Postanowienie
+- 2007-08-10 | SN | [III SPP 31/07](https://www.saos.org.pl/judgments/86441) | Postanowienie
+- 2007-06-20 | TK | [Ts 277/06](https://www.saos.org.pl/judgments/108446) | Postanowienie
+- 2007-06-19 | SN | [IV CSP 1/07](https://www.saos.org.pl/judgments/86139) | Postanowienie
+- 2007-04-12 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/108315) | Postanowienie
+- 2007-01-23 | TK | [Ts 45/06](https://www.saos.org.pl/judgments/108246) | Postanowienie
+- 2006-10-31 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107817) | Postanowienie
+- 2006-10-03 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/107850) | Postanowienie
+- 2006-09-21 | TK | [SK 10/06](https://www.saos.org.pl/judgments/107664) | Postanowienie
+- 2006-09-06 | SN | [III SPZP 2/06](https://www.saos.org.pl/judgments/84536) | Uchwała
+- 2006-07-26 | SN | [III SPP 30/06](https://www.saos.org.pl/judgments/84483) | Postanowienie
+- 2006-07-24 | TK | [Ts 51/06](https://www.saos.org.pl/judgments/107779) | Postanowienie
+- 2006-07-05 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206203) | Postanowienie
+- 2006-06-07 | SN | [III CSP 1/06](https://www.saos.org.pl/judgments/164355) | Postanowienie
+- 2006-05-10 | TK | [Ts 45/06](https://www.saos.org.pl/judgments/107769) | Postanowienie
+- 2006-05-10 | SN | [III SPP 19/06](https://www.saos.org.pl/judgments/84312) | Postanowienie
+- 2006-02-22 | SO | [II S 6/06](https://www.saos.org.pl/judgments/37245) | Postanowienie
+- 2006-01-24 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206202) | Postanowienie
+- 2006-01-06 | SN | [III SPP 167/05](https://www.saos.org.pl/judgments/83977) | Postanowienie
+- 2006-01-06 | SN | [III SPP 154/05](https://www.saos.org.pl/judgments/83975) | Postanowienie
+- 2005-11-17 | SN | [IV CSP 1/05](https://www.saos.org.pl/judgments/163750) | Postanowienie
+- 2005-11-09 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107376) | Postanowienie
+- 2005-09-21 | SN | [I KZP 24/05](https://www.saos.org.pl/judgments/83717) | Uchwała
+- 2005-06-28 | SN | [III SPZP 1/05](https://www.saos.org.pl/judgments/83549) | Uchwała
+- 2005-02-04 | SN | [III SPP 11/05](https://www.saos.org.pl/judgments/83192) | Postanowienie
+- 2004-12-07 | SN | [III SPP 23/04](https://www.saos.org.pl/judgments/83061) | Postanowienie
+- 2004-11-17 | SN | [III SPP 21/04](https://www.saos.org.pl/judgments/82994) | Postanowienie
+
+## art. 8 § 13 (1)
+
+- 2015-04-13 | SO | [II S 15/15](https://www.saos.org.pl/judgments/155900) | Postanowienie
+
+## art. 9 (52)
+
+- 2024-09-18 | SO | [II S 26/24](https://www.saos.org.pl/judgments/504348) | Postanowienie
+- 2023-07-19 | SO | [III S 80/23](https://www.saos.org.pl/judgments/491403) | Postanowienie
+- 2022-10-27 | SO | [II S 30/22](https://www.saos.org.pl/judgments/480617) | Postanowienie
+- 2021-11-25 | SO | [II S 34/21](https://www.saos.org.pl/judgments/453605) | Postanowienie
+- 2021-05-17 | SO | [II S 14/21](https://www.saos.org.pl/judgments/444236) | Postanowienie
+- 2021-03-01 | SO | [II S 5/21](https://www.saos.org.pl/judgments/444242) | Postanowienie
+- 2021-02-08 | SO | [II S 4/21](https://www.saos.org.pl/judgments/444241) | Postanowienie
+- 2020-06-15 | SO | [II S 22/20](https://www.saos.org.pl/judgments/414529) | Postanowienie
+- 2019-11-12 | SO | [II S 58/19](https://www.saos.org.pl/judgments/397259) | Postanowienie
+- 2019-10-15 | SO | [III S 404/19](https://www.saos.org.pl/judgments/395672) | Postanowienie
+- 2019-03-12 | SO | [III S 58/19](https://www.saos.org.pl/judgments/399899) | Postanowienie
+- 2018-11-06 | SO | [III S 294/18](https://www.saos.org.pl/judgments/364077) | Postanowienie
+- 2017-06-19 | SO | [II S 10/17](https://www.saos.org.pl/judgments/293135) | Postanowienie
+- 2016-06-27 | SO | [I S 201/16](https://www.saos.org.pl/judgments/235397) | Postanowienie
+- 2015-12-14 | SO | [II S 72/15](https://www.saos.org.pl/judgments/190313) | Postanowienie
+- 2015-09-24 | SO | [II S 16/15](https://www.saos.org.pl/judgments/178615) | Postanowienie
+- 2015-09-23 | SO | [II S 20/15](https://www.saos.org.pl/judgments/184030) | Postanowienie
+- 2015-07-30 | SO | [IX S 15/15](https://www.saos.org.pl/judgments/216969) | Postanowienie
+- 2015-06-18 | SO | [II S 12/15](https://www.saos.org.pl/judgments/156365) | Postanowienie
+- 2015-04-30 | SO | [II Cs 94/15](https://www.saos.org.pl/judgments/298632) | Postanowienie
+- 2015-02-19 | SO | [II S 5/15](https://www.saos.org.pl/judgments/133478) | Postanowienie
+- 2015-01-26 | SO | [V S 28/14](https://www.saos.org.pl/judgments/129517) | Postanowienie
+- 2014-11-05 | SO | [III S 142/14](https://www.saos.org.pl/judgments/125806) | Postanowienie
+- 2014-10-03 | SO | [II Cs 198/14](https://www.saos.org.pl/judgments/295612) | Postanowienie
+- 2014-09-25 | SO | [II Cs 226/14](https://www.saos.org.pl/judgments/295617) | Postanowienie
+- 2014-06-06 | SO | [VIII S 26/14](https://www.saos.org.pl/judgments/49524) | Postanowienie
+- 2014-05-22 | SO | [II S 25/14](https://www.saos.org.pl/judgments/54834) | Postanowienie
+- 2014-05-13 | SN | [WSP 4/14](https://www.saos.org.pl/judgments/105121) | Postanowienie
+- 2014-04-30 | SO | [XV S 69/14](https://www.saos.org.pl/judgments/49608) | Postanowienie
+- 2014-04-04 | SO | [VIII S 19/14](https://www.saos.org.pl/judgments/43032) | Postanowienie
+- 2013-11-13 | SO | [II S 31/13](https://www.saos.org.pl/judgments/26443) | Postanowienie
+- 2013-10-16 | SO | [V S 70/13](https://www.saos.org.pl/judgments/22828) | Postanowienie
+- 2013-10-10 | SO | [V S 82/13](https://www.saos.org.pl/judgments/22830) | Postanowienie
+- 2013-10-09 | SN | [KSP 8/13](https://www.saos.org.pl/judgments/103108) | Postanowienie
+- 2013-10-04 | SO | [V S 73/13](https://www.saos.org.pl/judgments/22829) | Postanowienie
+- 2013-07-17 | SO | [I S 75/13](https://www.saos.org.pl/judgments/139680) | Postanowienie
+- 2013-06-06 | SO | [II S 38/13](https://www.saos.org.pl/judgments/14539) | Postanowienie
+- 2013-06-04 | SO | [II S 42/13](https://www.saos.org.pl/judgments/12210) | Postanowienie
+- 2013-05-27 | SO | [I S 67/13](https://www.saos.org.pl/judgments/139158) | Postanowienie
+- 2013-05-25 | SO | [II S 65/13](https://www.saos.org.pl/judgments/12213) | Postanowienie
+- 2013-05-25 | SO | [II S 60/13](https://www.saos.org.pl/judgments/12211) | Postanowienie
+- 2013-05-22 | SO | [V S 14/13](https://www.saos.org.pl/judgments/13021) | Postanowienie
+- 2013-02-28 | SO | [I S 8/13](https://www.saos.org.pl/judgments/137664) | Postanowienie
+- 2013-02-28 | SO | [I S 40/12](https://www.saos.org.pl/judgments/137662) | Postanowienie
+- 2013-01-14 | SO | [I S 170/12](https://www.saos.org.pl/judgments/139248) | Postanowienie
+- 2012-11-21 | SN | [V CSP 1/12](https://www.saos.org.pl/judgments/99762) | Postanowienie
+- 2012-11-15 | SN | [KSP 14/12](https://www.saos.org.pl/judgments/99641) | Postanowienie
+- 2012-05-24 | SO | [II S 13/12](https://www.saos.org.pl/judgments/1354) | Postanowienie
+- 2012-05-17 | SO | [II S 12/12](https://www.saos.org.pl/judgments/13638) | Uzasadnienie
+- 2006-10-31 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107817) | Postanowienie
+- 2005-11-09 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107376) | Postanowienie
+- 2005-01-14 | SN | [III SPP 126/04](https://www.saos.org.pl/judgments/83128) | Postanowienie
+
+## art. 10 (23)
+
+- 2017-01-05 | SO | [VII S 22/16](https://www.saos.org.pl/judgments/267511) | Postanowienie
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-04-17 | SO | [II S 22/15](https://www.saos.org.pl/judgments/184032) | Postanowienie
+- 2015-03-26 | SO | [II S 20/15](https://www.saos.org.pl/judgments/346276) | Postanowienie
+- 2015-03-03 | SO | [II S 2/15](https://www.saos.org.pl/judgments/151356) | Postanowienie
+- 2015-02-12 | SO | [II S 4/15](https://www.saos.org.pl/judgments/148438) | Uzasadnienie
+- 2014-07-07 | SO | [II S 35/14](https://www.saos.org.pl/judgments/59893) | Postanowienie
+- 2014-05-13 | SN | [WSP 4/14](https://www.saos.org.pl/judgments/105121) | Postanowienie
+- 2014-05-13 | SN | [WSP 3/14](https://www.saos.org.pl/judgments/105120) | Postanowienie
+- 2014-01-16 | SO | [II S 59/13](https://www.saos.org.pl/judgments/54837) | Postanowienie
+- 2013-03-12 | SN | [KSP 1/13](https://www.saos.org.pl/judgments/101078) | Postanowienie
+- 2012-02-17 | SN | [III SPP 2/12](https://www.saos.org.pl/judgments/97225) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-02-09 | SN | [III SPP 35/10](https://www.saos.org.pl/judgments/94170) | Postanowienie
+- 2010-10-14 | TK | [K 17/07](https://www.saos.org.pl/judgments/109672) | Wyrok
+- 2009-08-18 | SN | [WSP 4/09](https://www.saos.org.pl/judgments/90760) | Postanowienie
+- 2008-01-25 | SN | [III SPP 50/07](https://www.saos.org.pl/judgments/87132) | Postanowienie
+- 2006-12-21 | SN | [KSP 10/06](https://www.saos.org.pl/judgments/84880) | Postanowienie
+- 2006-07-05 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206203) | Postanowienie
+- 2006-02-14 | SN | [III SPP 7/06](https://www.saos.org.pl/judgments/84102) | Postanowienie
+- 2006-01-24 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206202) | Postanowienie
+- 2005-06-28 | SN | [III SPZP 1/05](https://www.saos.org.pl/judgments/83549) | Uchwała
+- 2005-05-12 | SN | [III SPP 96/05](https://www.saos.org.pl/judgments/83415) | Postanowienie
+
+## art. 11 (3)
+
+- 2016-12-09 | SO | [II S 31/16](https://www.saos.org.pl/judgments/260816) | Postanowienie
+- 2005-06-28 | SN | [III SPZP 1/05](https://www.saos.org.pl/judgments/83549) | Uchwała
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+
+## art. 12 (621)
+
+- 2023-02-28 | SO | [III S 21/23](https://www.saos.org.pl/judgments/485001) | Postanowienie
+- 2022-12-29 | SO | [II S 35/22](https://www.saos.org.pl/judgments/480622) | Postanowienie
+- 2022-12-23 | SO | [III S 205/22](https://www.saos.org.pl/judgments/480624) | Postanowienie
+- 2022-11-23 | SO | [II S 34/22](https://www.saos.org.pl/judgments/480621) | Postanowienie
+- 2022-10-05 | SO | [II S 28/22](https://www.saos.org.pl/judgments/480615) | Postanowienie
+- 2022-09-19 | SO | [II S 24/22](https://www.saos.org.pl/judgments/480612) | Postanowienie
+- 2022-09-15 | SO | [II S 23/22](https://www.saos.org.pl/judgments/480611) | Postanowienie
+- 2022-09-14 | SO | [II S 25/22](https://www.saos.org.pl/judgments/480613) | Postanowienie
+- 2022-08-16 | SO | [III S 104/22](https://www.saos.org.pl/judgments/474810) | Postanowienie
+- 2022-07-01 | SO | [II S 21/22](https://www.saos.org.pl/judgments/471766) | Postanowienie
+- 2022-06-07 | SO | [II S 19/22](https://www.saos.org.pl/judgments/471765) | Postanowienie
+- 2022-06-06 | SO | [II S 17/22](https://www.saos.org.pl/judgments/471763) | Postanowienie
+- 2022-05-19 | SO | [III S 37/22](https://www.saos.org.pl/judgments/471367) | Postanowienie
+- 2022-04-26 | SO | [III S 300/21](https://www.saos.org.pl/judgments/466715) | Postanowienie
+- 2022-03-31 | SO | [III S 354/21](https://www.saos.org.pl/judgments/465856) | Postanowienie
+- 2022-03-24 | SO | [II S 15/22](https://www.saos.org.pl/judgments/469870) | Postanowienie
+- 2022-03-23 | SO | [II S 12/22](https://www.saos.org.pl/judgments/463266) | Postanowienie
+- 2022-03-17 | SO | [II S 6/22](https://www.saos.org.pl/judgments/463279) | Postanowienie
+- 2022-03-09 | SO | [II S 4/22](https://www.saos.org.pl/judgments/463276) | Postanowienie
+- 2022-03-08 | SO | [II S 14/22](https://www.saos.org.pl/judgments/463268) | Postanowienie
+- 2022-02-28 | SO | [II S 5/22](https://www.saos.org.pl/judgments/463278) | Postanowienie
+- 2022-01-27 | SO | [III S 319/21](https://www.saos.org.pl/judgments/462139) | Postanowienie
+- 2022-01-26 | SO | [II S 3/22](https://www.saos.org.pl/judgments/463271) | Postanowienie
+- 2022-01-25 | SO | [II S 28/21](https://www.saos.org.pl/judgments/461808) | Postanowienie
+- 2022-01-19 | SO | [II S 36/21](https://www.saos.org.pl/judgments/463272) | Postanowienie
+- 2021-12-30 | SO | [II S 40/21](https://www.saos.org.pl/judgments/463277) | Postanowienie
+- 2021-10-29 | SO | [II S 31/21](https://www.saos.org.pl/judgments/453602) | Postanowienie
+- 2021-10-29 | SO | [II S 30/21](https://www.saos.org.pl/judgments/453601) | Postanowienie
+- 2021-10-25 | SO | [II S 325/21](https://www.saos.org.pl/judgments/468789) | Postanowienie
+- 2021-10-20 | SO | [II S 28/21](https://www.saos.org.pl/judgments/453599) | Postanowienie
+- 2021-10-04 | SO | [II S 26/21](https://www.saos.org.pl/judgments/453597) | Postanowienie
+- 2021-09-27 | SO | [III S 279/21](https://www.saos.org.pl/judgments/464775) | Postanowienie
+- 2021-09-02 | SO | [II S 215/21](https://www.saos.org.pl/judgments/468788) | Postanowienie
+- 2021-08-31 | SO | [III S 173/21](https://www.saos.org.pl/judgments/464774) | Postanowienie
+- 2021-08-24 | SO | [II S 6/21](https://www.saos.org.pl/judgments/446607) | Postanowienie
+- 2021-06-25 | SO | [III S 213/21](https://www.saos.org.pl/judgments/442503) | Postanowienie
+- 2021-06-22 | SO | [III S 209/21](https://www.saos.org.pl/judgments/442550) | Postanowienie
+- 2021-06-16 | SO | [II S 10/21](https://www.saos.org.pl/judgments/444232) | Postanowienie
+- 2021-05-31 | SO | [III S 285/20](https://www.saos.org.pl/judgments/445947) | Postanowienie
+- 2021-05-24 | SO | [II S 147/21](https://www.saos.org.pl/judgments/468786) | Postanowienie
+- 2021-04-26 | SO | [II S 8/21](https://www.saos.org.pl/judgments/444244) | Postanowienie
+- 2021-03-23 | SO | [III S 32/21](https://www.saos.org.pl/judgments/434943) | Postanowienie
+- 2021-03-02 | SO | [II S 497/20](https://www.saos.org.pl/judgments/468792) | Postanowienie
+- 2021-03-01 | SO | [II S 5/21](https://www.saos.org.pl/judgments/444242) | Postanowienie
+- 2021-02-22 | SO | [II S 530/20](https://www.saos.org.pl/judgments/468793) | Postanowienie
+- 2021-02-17 | SO | [V S 51/20](https://www.saos.org.pl/judgments/434295) | Uzasadnienie
+- 2020-11-03 | SO | [III S 269/20](https://www.saos.org.pl/judgments/425410) | Postanowienie
+- 2020-10-29 | SO | [III S 294/20](https://www.saos.org.pl/judgments/435586) | Postanowienie
+- 2020-10-27 | SO | [III S 9/20](https://www.saos.org.pl/judgments/468806) | Postanowienie
+- 2020-10-16 | SO | [II S 46/20](https://www.saos.org.pl/judgments/427601) | Postanowienie
+- 2020-10-09 | SO | [II S 43/20](https://www.saos.org.pl/judgments/427598) | Postanowienie
+- 2020-09-23 | SO | [III S 237/20](https://www.saos.org.pl/judgments/423618) | Postanowienie
+- 2020-09-23 | SO | [III S 168/20](https://www.saos.org.pl/judgments/423616) | Postanowienie
+- 2020-09-21 | SO | [II S 39/20](https://www.saos.org.pl/judgments/427594) | Postanowienie
+- 2020-09-08 | SO | [II S 31/20](https://www.saos.org.pl/judgments/427588) | Postanowienie
+- 2020-07-15 | SO | [II S 15/20](https://www.saos.org.pl/judgments/419025) | Postanowienie
+- 2020-05-25 | SO | [II S 14/20](https://www.saos.org.pl/judgments/417440) | Postanowienie
+- 2020-03-09 | SO | [II S 11/20](https://www.saos.org.pl/judgments/411744) | Postanowienie
+- 2020-02-24 | SO | [II S 3/20](https://www.saos.org.pl/judgments/411746) | Postanowienie
+- 2020-02-04 | SO | [II S 6/20](https://www.saos.org.pl/judgments/411749) | Postanowienie
+- 2020-01-08 | SO | [II S 89/19](https://www.saos.org.pl/judgments/417891) | Postanowienie
+- 2020-01-07 | SO | [II S 66/19](https://www.saos.org.pl/judgments/411751) | Postanowienie
+- 2019-12-30 | SO | [III S 87/19](https://www.saos.org.pl/judgments/404738) | Postanowienie
+- 2019-12-30 | SO | [III S 107/19](https://www.saos.org.pl/judgments/404730) | Postanowienie
+- 2019-12-30 | SO | [III S 115/19](https://www.saos.org.pl/judgments/402986) | Postanowienie
+- 2019-12-19 | SO | [II S 512/19](https://www.saos.org.pl/judgments/401954) | Postanowienie
+- 2019-12-18 | SO | [II S 65/19](https://www.saos.org.pl/judgments/399847) | Postanowienie
+- 2019-12-17 | SO | [III S 458/19](https://www.saos.org.pl/judgments/408003) | Postanowienie
+- 2019-12-11 | SO | [I 1S 8/19](https://www.saos.org.pl/judgments/401996) | Postanowienie
+- 2019-12-06 | SO | [II S 496/19](https://www.saos.org.pl/judgments/401951) | Postanowienie
+- 2019-12-04 | SO | [I S 131/19](https://www.saos.org.pl/judgments/417064) | Postanowienie
+- 2019-11-28 | SO | [III S 84/19](https://www.saos.org.pl/judgments/399900) | Postanowienie
+- 2019-11-19 | SO | [III S 373/19](https://www.saos.org.pl/judgments/399897) | Postanowienie
+- 2019-11-19 | SO | [III S 312/19](https://www.saos.org.pl/judgments/399895) | Postanowienie
+- 2019-11-07 | SO | [II S 57/19](https://www.saos.org.pl/judgments/397258) | Postanowienie
+- 2019-10-31 | SO | [I 1S 10/19](https://www.saos.org.pl/judgments/401994) | Postanowienie
+- 2019-10-28 | SO | [II S 341/19](https://www.saos.org.pl/judgments/401932) | Postanowienie
+- 2019-10-28 | SO | [II S 60/19](https://www.saos.org.pl/judgments/399844) | Postanowienie
+- 2019-10-22 | SO | [II S 51/19](https://www.saos.org.pl/judgments/397254) | Postanowienie
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-10-07 | SO | [II S 45/19](https://www.saos.org.pl/judgments/397253) | Uzasadnienie
+- 2019-10-07 | SO | [II S 50/19](https://www.saos.org.pl/judgments/393720) | Postanowienie
+- 2019-09-27 | SO | [I S 104/19](https://www.saos.org.pl/judgments/417057) | Postanowienie
+- 2019-09-25 | SO | [II S 330/19](https://www.saos.org.pl/judgments/401931) | Postanowienie
+- 2019-09-23 | SO | [II S 312/19](https://www.saos.org.pl/judgments/401930) | Postanowienie
+- 2019-09-18 | SO | [II S 44/19](https://www.saos.org.pl/judgments/393717) | Postanowienie
+- 2019-09-13 | SO | [II S 49/19](https://www.saos.org.pl/judgments/393719) | Postanowienie
+- 2019-09-13 | SO | [II S 48/19](https://www.saos.org.pl/judgments/393718) | Postanowienie
+- 2019-09-06 | SO | [II S 22/19](https://www.saos.org.pl/judgments/391259) | Postanowienie
+- 2019-09-03 | SO | [II S 235/19](https://www.saos.org.pl/judgments/401917) | Postanowienie
+- 2019-08-27 | SO | [III S 299/19](https://www.saos.org.pl/judgments/393760) | Postanowienie
+- 2019-08-26 | SO | [II S 308/19](https://www.saos.org.pl/judgments/401929) | Postanowienie
+- 2019-08-02 | SO | [I S 82/19](https://www.saos.org.pl/judgments/417082) | Postanowienie
+- 2019-07-31 | SO | [II S 32/19](https://www.saos.org.pl/judgments/388543) | Postanowienie
+- 2019-07-24 | SO | [V S 28/19](https://www.saos.org.pl/judgments/413717) | Postanowienie
+- 2019-07-17 | SO | [II S 207/19](https://www.saos.org.pl/judgments/401910) | Postanowienie
+- 2019-07-09 | SO | [I S 84/19](https://www.saos.org.pl/judgments/417084) | Postanowienie
+- 2019-07-02 | SO | [III S 225/19](https://www.saos.org.pl/judgments/399893) | Postanowienie
+- 2019-06-19 | SO | [II S 182/19](https://www.saos.org.pl/judgments/401906) | Postanowienie
+- 2019-06-18 | SO | [I S 28/19](https://www.saos.org.pl/judgments/417073) | Postanowienie
+- 2019-06-12 | SO | [II S 16/19](https://www.saos.org.pl/judgments/385019) | Postanowienie
+- 2019-05-23 | SO | [II S 120/19](https://www.saos.org.pl/judgments/402073) | Postanowienie
+- 2019-05-22 | SO | [III S 147/19](https://www.saos.org.pl/judgments/384292) | Postanowienie
+- 2019-05-21 | SO | [II S 66/19](https://www.saos.org.pl/judgments/401959) | Postanowienie
+- 2019-05-21 | SO | [II S 21/19](https://www.saos.org.pl/judgments/385329) | Uzasadnienie
+- 2019-05-17 | SO | [II S 15/19](https://www.saos.org.pl/judgments/401746) | Postanowienie
+- 2019-05-16 | SO | [II S 167/19](https://www.saos.org.pl/judgments/401904) | Postanowienie
+- 2019-04-29 | SO | [I C 336/18](https://www.saos.org.pl/judgments/383378) | Wyrok
+- 2019-04-18 | SO | [II S 106/19](https://www.saos.org.pl/judgments/402071) | Postanowienie
+- 2019-04-17 | SO | [II S 12/19](https://www.saos.org.pl/judgments/385327) | Postanowienie
+- 2019-04-10 | SO | [III S 151/19](https://www.saos.org.pl/judgments/379076) | Postanowienie
+- 2019-04-09 | SO | [III S 37/19](https://www.saos.org.pl/judgments/382732) | Postanowienie
+- 2019-04-08 | SO | [II S 100/19](https://www.saos.org.pl/judgments/401901) | Postanowienie
+- 2019-04-02 | SO | [II S 80/19](https://www.saos.org.pl/judgments/401963) | Postanowienie
+- 2019-03-28 | SO | [III S 119/19](https://www.saos.org.pl/judgments/379074) | Postanowienie
+- 2019-03-25 | SO | [II S 59/19](https://www.saos.org.pl/judgments/401957) | Postanowienie
+- 2019-03-25 | SO | [II S 9/19](https://www.saos.org.pl/judgments/378407) | Postanowienie
+- 2019-03-19 | SO | [II S 19/19](https://www.saos.org.pl/judgments/417889) | Postanowienie
+- 2019-03-19 | SO | [II S 410/18](https://www.saos.org.pl/judgments/401764) | Postanowienie
+- 2019-03-15 | SO | [I S 5/19](https://www.saos.org.pl/judgments/417075) | Postanowienie
+- 2019-03-14 | SO | [II S 415/18](https://www.saos.org.pl/judgments/401765) | Postanowienie
+- 2019-03-14 | SO | [II S 10/19](https://www.saos.org.pl/judgments/374520) | Postanowienie
+- 2019-03-12 | SO | [III S 58/19](https://www.saos.org.pl/judgments/399899) | Postanowienie
+- 2019-03-05 | SO | [III S 68/19](https://www.saos.org.pl/judgments/379079) | Postanowienie
+- 2019-02-28 | SO | [II S 427/18](https://www.saos.org.pl/judgments/401768) | Postanowienie
+- 2019-02-25 | SO | [II S 409/18](https://www.saos.org.pl/judgments/401763) | Postanowienie
+- 2019-02-25 | SO | [II S 19/19](https://www.saos.org.pl/judgments/401748) | Postanowienie
+- 2019-02-25 | SO | [II S 1/19](https://www.saos.org.pl/judgments/378400) | Postanowienie
+- 2019-02-22 | SO | [III S 2/19](https://www.saos.org.pl/judgments/404732) | Postanowienie
+- 2019-02-22 | SO | [II S 325/18](https://www.saos.org.pl/judgments/401271) | Postanowienie
+- 2019-02-07 | SO | [II S 380/18](https://www.saos.org.pl/judgments/401756) | Postanowienie
+- 2019-02-05 | SO | [II S 59/18](https://www.saos.org.pl/judgments/417890) | Postanowienie
+- 2019-02-05 | SO | [II S 328/18](https://www.saos.org.pl/judgments/401272) | Postanowienie
+- 2019-01-29 | SO | [II S 3/19](https://www.saos.org.pl/judgments/368717) | Postanowienie
+- 2019-01-16 | SO | [II S 333/18](https://www.saos.org.pl/judgments/401273) | Postanowienie
+- 2019-01-10 | SO | [II S 364/18](https://www.saos.org.pl/judgments/401278) | Postanowienie
+- 2019-01-10 | SO | [II S 344/18](https://www.saos.org.pl/judgments/401275) | Postanowienie
+- 2018-12-20 | SO | [II S 52/18](https://www.saos.org.pl/judgments/367992) | Postanowienie
+- 2018-12-18 | SO | [III S 312/18](https://www.saos.org.pl/judgments/371914) | Postanowienie
+- 2018-12-11 | SO | [VI Ka 1010/18](https://www.saos.org.pl/judgments/388036) | Wyrok
+- 2018-12-11 | SO | [I S 163/18](https://www.saos.org.pl/judgments/367348) | Postanowienie
+- 2018-11-28 | SO | [I S 166/18](https://www.saos.org.pl/judgments/367349) | Postanowienie
+- 2018-11-06 | SO | [III S 294/18](https://www.saos.org.pl/judgments/364077) | Postanowienie
+- 2018-10-16 | SO | [III S 226/18](https://www.saos.org.pl/judgments/361926) | Postanowienie
+- 2018-10-12 | SO | [I S 84/18](https://www.saos.org.pl/judgments/417083) | Postanowienie
+- 2018-10-10 | SO | [I S 150/18](https://www.saos.org.pl/judgments/417066) | Postanowienie
+- 2018-10-02 | SO | [III S 250/18](https://www.saos.org.pl/judgments/361686) | Postanowienie
+- 2018-09-19 | SO | [II S 43/18](https://www.saos.org.pl/judgments/359381) | Postanowienie
+- 2018-09-05 | SO | [III S 200/18](https://www.saos.org.pl/judgments/367525) | Postanowienie
+- 2018-08-31 | SO | [II S 37/18](https://www.saos.org.pl/judgments/356735) | Postanowienie
+- 2018-07-31 | SO | [III S 179/18](https://www.saos.org.pl/judgments/351465) | Postanowienie
+- 2018-07-20 | SO | [II S 32/18](https://www.saos.org.pl/judgments/349036) | Postanowienie
+- 2018-07-18 | SO | [III S 146/18](https://www.saos.org.pl/judgments/351464) | Postanowienie
+- 2018-06-19 | SO | [II S 22/18](https://www.saos.org.pl/judgments/347107) | Postanowienie
+- 2018-06-12 | SO | [III S 122/18](https://www.saos.org.pl/judgments/345920) | Postanowienie
+- 2018-06-07 | SO | [XXIII S 32/18](https://www.saos.org.pl/judgments/345771) | Postanowienie
+- 2018-05-24 | SO | [II S 16/18](https://www.saos.org.pl/judgments/341896) | Postanowienie
+- 2018-05-22 | SO | [II S 21/18](https://www.saos.org.pl/judgments/341900) | Postanowienie
+- 2018-05-10 | SO | [II S 17/18](https://www.saos.org.pl/judgments/341897) | Postanowienie
+- 2018-05-09 | SO | [III S 79/18](https://www.saos.org.pl/judgments/342293) | Postanowienie
+- 2018-04-17 | SO | [I S 25/18](https://www.saos.org.pl/judgments/417070) | Postanowienie
+- 2018-04-04 | SO | [III S 32/18](https://www.saos.org.pl/judgments/338322) | Postanowienie
+- 2018-04-04 | SO | [III S 31/18](https://www.saos.org.pl/judgments/338321) | Postanowienie
+- 2018-03-27 | SO | [I S 27/18](https://www.saos.org.pl/judgments/417072) | Postanowienie
+- 2018-03-19 | SO | [V S 3/18](https://www.saos.org.pl/judgments/333509) | Postanowienie
+- 2018-03-13 | SO | [II S 12/18](https://www.saos.org.pl/judgments/333211) | Postanowienie
+- 2018-02-27 | SO | [II S 1/18](https://www.saos.org.pl/judgments/333210) | Postanowienie
+- 2018-02-06 | SO | [III S 7/18](https://www.saos.org.pl/judgments/328975) | Postanowienie
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2018-01-24 | SO | [I S 115/17](https://www.saos.org.pl/judgments/417062) | Postanowienie
+- 2018-01-09 | SO | [III S 307/17](https://www.saos.org.pl/judgments/327984) | Postanowienie
+- 2017-12-21 | SO | [I S 93/17](https://www.saos.org.pl/judgments/417086) | Postanowienie
+- 2017-12-15 | SO | [I S 89/17](https://www.saos.org.pl/judgments/417085) | Postanowienie
+- 2017-11-20 | SO | [III S 17/17](https://www.saos.org.pl/judgments/413624) | Postanowienie
+- 2017-11-16 | SO | [VII S 25/17](https://www.saos.org.pl/judgments/330354) | Postanowienie
+- 2017-11-09 | SO | [I S 60/17](https://www.saos.org.pl/judgments/417076) | Postanowienie
+- 2017-11-08 | SO | [I S 77/17](https://www.saos.org.pl/judgments/417081) | Postanowienie
+- 2017-10-10 | SO | [III S 221/17](https://www.saos.org.pl/judgments/319254) | Postanowienie
+- 2017-09-19 | SO | [II S 19/17](https://www.saos.org.pl/judgments/305610) | Postanowienie
+- 2017-09-14 | SO | [III S 180/17](https://www.saos.org.pl/judgments/315538) | Postanowienie
+- 2017-09-12 | SO | [I ACa 996/16](https://www.saos.org.pl/judgments/321060) | Wyrok
+- 2017-09-11 | SO | [II S 18/17](https://www.saos.org.pl/judgments/305609) | Postanowienie
+- 2017-09-07 | SO | [III S 148/17](https://www.saos.org.pl/judgments/319252) | Postanowienie
+- 2017-09-07 | SO | [III S 131/17](https://www.saos.org.pl/judgments/315535) | Postanowienie
+- 2017-09-07 | SO | [II S 17/17](https://www.saos.org.pl/judgments/305608) | Postanowienie
+- 2017-08-30 | SO | [I S 54/17](https://www.saos.org.pl/judgments/309696) | Postanowienie
+- 2017-08-30 | SO | [I S 36/17](https://www.saos.org.pl/judgments/304911) | Postanowienie
+- 2017-08-28 | SO | [III S 12/17](https://www.saos.org.pl/judgments/413622) | Postanowienie
+- 2017-07-18 | SO | [III S 110/17](https://www.saos.org.pl/judgments/305901) | Postanowienie
+- 2017-07-18 | SO | [II S 16/17](https://www.saos.org.pl/judgments/293141) | Postanowienie
+- 2017-07-18 | SO | [II S 15/17](https://www.saos.org.pl/judgments/293140) | Postanowienie
+- 2017-07-18 | SO | [II S 14/17](https://www.saos.org.pl/judgments/293139) | Postanowienie
+- 2017-07-18 | SO | [II S 13/17](https://www.saos.org.pl/judgments/293138) | Postanowienie
+- 2017-07-05 | SO | [II S 11/17](https://www.saos.org.pl/judgments/293136) | Postanowienie
+- 2017-06-29 | SO | [II S 8/17](https://www.saos.org.pl/judgments/293143) | Postanowienie
+- 2017-06-19 | SO | [II S 10/17](https://www.saos.org.pl/judgments/293135) | Postanowienie
+- 2017-06-07 | SO | [II S 5/17](https://www.saos.org.pl/judgments/290099) | Postanowienie
+- 2017-06-07 | SO | [II S 4/17](https://www.saos.org.pl/judgments/290098) | Postanowienie
+- 2017-06-07 | SO | [II S 3/17](https://www.saos.org.pl/judgments/290097) | Postanowienie
+- 2017-05-26 | SO | [II S 9/17](https://www.saos.org.pl/judgments/290101) | Postanowienie
+- 2017-05-24 | SO | [I S 7/17](https://www.saos.org.pl/judgments/417079) | Postanowienie
+- 2017-05-17 | SO | [V S 11/18](https://www.saos.org.pl/judgments/413710) | Postanowienie
+- 2017-05-15 | SO | [I S 16/17](https://www.saos.org.pl/judgments/286374) | Postanowienie
+- 2017-04-06 | SO | [VII S 1/17](https://www.saos.org.pl/judgments/327797) | Postanowienie
+- 2017-03-29 | SO | [V S 6/17](https://www.saos.org.pl/judgments/413730) | Postanowienie
+- 2017-03-21 | SO | [VIII S 1/17](https://www.saos.org.pl/judgments/278119) | Postanowienie
+- 2017-03-13 | SO | [III S 5/17](https://www.saos.org.pl/judgments/279818) | Postanowienie
+- 2017-03-09 | SO | [II S 351/16](https://www.saos.org.pl/judgments/416985) | Postanowienie
+- 2017-03-09 | SO | [I ACz 179/17](https://www.saos.org.pl/judgments/323186) | Postanowienie
+- 2017-02-28 | SO | [II S 1/17](https://www.saos.org.pl/judgments/280804) | Postanowienie
+- 2017-02-28 | SO | [I S 1/17](https://www.saos.org.pl/judgments/276124) | Postanowienie
+- 2017-02-21 | SO | [XXIII S 88/16](https://www.saos.org.pl/judgments/277125) | Postanowienie
+- 2017-02-15 | SO | [II S 334/16](https://www.saos.org.pl/judgments/417206) | Postanowienie
+- 2017-02-15 | SO | [II S 372/16](https://www.saos.org.pl/judgments/416866) | Postanowienie
+- 2017-02-14 | SO | [II S 374/16](https://www.saos.org.pl/judgments/416800) | Postanowienie
+- 2017-02-07 | SO | [I S 7/17](https://www.saos.org.pl/judgments/283193) | Postanowienie
+- 2017-02-06 | SO | [X C 543/16](https://www.saos.org.pl/judgments/292212) | Uzasadnienie
+- 2017-02-01 | SO | [II S 311/16](https://www.saos.org.pl/judgments/417197) | Postanowienie
+- 2017-01-30 | SO | [II S 323/16](https://www.saos.org.pl/judgments/417202) | Postanowienie
+- 2017-01-24 | SO | [II S 365/16](https://www.saos.org.pl/judgments/416864) | Postanowienie
+- 2017-01-24 | SO | [II S 360/16](https://www.saos.org.pl/judgments/416863) | Postanowienie
+- 2017-01-18 | SO | [II S 357/16](https://www.saos.org.pl/judgments/416862) | Postanowienie
+- 2017-01-12 | SO | [II S 367/16](https://www.saos.org.pl/judgments/416865) | Postanowienie
+- 2017-01-05 | SO | [VII S 22/16](https://www.saos.org.pl/judgments/267511) | Postanowienie
+- 2016-12-29 | SO | [II S 33/16](https://www.saos.org.pl/judgments/260818) | Postanowienie
+- 2016-12-28 | SO | [II S 295/16](https://www.saos.org.pl/judgments/416799) | Postanowienie
+- 2016-12-27 | SO | [II S 32/16](https://www.saos.org.pl/judgments/260817) | Postanowienie
+- 2016-12-19 | SO | [II S 308/16](https://www.saos.org.pl/judgments/417195) | Postanowienie
+- 2016-12-16 | SO | [II S 305/16](https://www.saos.org.pl/judgments/417192) | Postanowienie
+- 2016-11-29 | SO | [II S 30/16](https://www.saos.org.pl/judgments/260815) | Postanowienie
+- 2016-11-28 | SO | [III S 176/16](https://www.saos.org.pl/judgments/265580) | Postanowienie
+- 2016-11-23 | SO | [II S 286/16](https://www.saos.org.pl/judgments/416797) | Postanowienie
+- 2016-11-22 | SO | [II S 243/16](https://www.saos.org.pl/judgments/416574) | Postanowienie
+- 2016-11-21 | SO | [II S 242/16](https://www.saos.org.pl/judgments/416573) | Postanowienie
+- 2016-11-18 | SO | [II S 285/16](https://www.saos.org.pl/judgments/416796) | Postanowienie
+- 2016-11-18 | SO | [II S 278/16](https://www.saos.org.pl/judgments/416794) | Uzasadnienie
+- 2016-11-14 | SO | [II S 220/16](https://www.saos.org.pl/judgments/416035) | Postanowienie
+- 2016-11-08 | SO | [III S 159/16](https://www.saos.org.pl/judgments/254416) | Postanowienie
+- 2016-10-25 | SO | [II S 274/16](https://www.saos.org.pl/judgments/416793) | Postanowienie
+- 2016-10-25 | SO | [II S 265/16](https://www.saos.org.pl/judgments/416791) | Postanowienie
+- 2016-10-12 | SO | [II S 218/16](https://www.saos.org.pl/judgments/414909) | Postanowienie
+- 2016-10-12 | SO | [II S 29/16](https://www.saos.org.pl/judgments/251920) | Postanowienie
+- 2016-10-05 | SO | [II S 25/16](https://www.saos.org.pl/judgments/251916) | Postanowienie
+- 2016-10-04 | SO | [I S 308/16](https://www.saos.org.pl/judgments/251267) | Postanowienie
+- 2016-09-30 | SO | [II S 27/16](https://www.saos.org.pl/judgments/251918) | Postanowienie
+- 2016-09-29 | SO | [I ACa 351/16](https://www.saos.org.pl/judgments/256486) | Wyrok
+- 2016-09-26 | SO | [II S 231/16](https://www.saos.org.pl/judgments/416038) | Postanowienie
+- 2016-09-12 | SO | [I S 56/16](https://www.saos.org.pl/judgments/248184) | Postanowienie
+- 2016-09-06 | SO | [II S 151/16](https://www.saos.org.pl/judgments/415337) | Postanowienie
+- 2016-09-06 | SO | [III S 151/16](https://www.saos.org.pl/judgments/247443) | Postanowienie
+- 2016-08-30 | SO | [II S 177/16](https://www.saos.org.pl/judgments/415423) | Postanowienie
+- 2016-08-30 | SO | [III S 11/16](https://www.saos.org.pl/judgments/251750) | Postanowienie
+- 2016-08-18 | SO | [II S 204/16](https://www.saos.org.pl/judgments/415527) | Postanowienie
+- 2016-07-20 | SO | [II S 136/16](https://www.saos.org.pl/judgments/415334) | Postanowienie
+- 2016-07-19 | SO | [III S 115/16](https://www.saos.org.pl/judgments/242373) | Postanowienie
+- 2016-07-15 | SO | [II S 140/16](https://www.saos.org.pl/judgments/415335) | Postanowienie
+- 2016-07-14 | SO | [I C 281/16](https://www.saos.org.pl/judgments/316071) | Wyrok
+- 2016-07-13 | SO | [II S 173/16](https://www.saos.org.pl/judgments/415422) | Postanowienie
+- 2016-07-11 | SO | [II S 124/16](https://www.saos.org.pl/judgments/415332) | Postanowienie
+- 2016-06-30 | SO | [II S 19/16](https://www.saos.org.pl/judgments/233533) | Postanowienie
+- 2016-06-28 | SO | [III S 107/16](https://www.saos.org.pl/judgments/233570) | Postanowienie
+- 2016-06-24 | SO | [II S 107/16](https://www.saos.org.pl/judgments/415328) | Postanowienie
+- 2016-06-17 | SO | [I S 33/16](https://www.saos.org.pl/judgments/231901) | Postanowienie
+- 2016-06-16 | SO | [II S 20/16](https://www.saos.org.pl/judgments/230851) | Postanowienie
+- 2016-06-14 | SO | [I ACa 35/16](https://www.saos.org.pl/judgments/282494) | Wyrok
+- 2016-06-13 | SO | [II S 78/16](https://www.saos.org.pl/judgments/415147) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [I S 173/16](https://www.saos.org.pl/judgments/231900) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-06-01 | SO | [II S 17/16](https://www.saos.org.pl/judgments/227695) | Postanowienie
+- 2016-05-31 | SO | [III S 69/16](https://www.saos.org.pl/judgments/231974) | Postanowienie
+- 2016-05-25 | SO | [II S 40/16](https://www.saos.org.pl/judgments/415012) | Postanowienie
+- 2016-05-20 | SO | [III S 3/16](https://www.saos.org.pl/judgments/238405) | Postanowienie
+- 2016-05-17 | SO | [III S 63/16](https://www.saos.org.pl/judgments/225662) | Postanowienie
+- 2016-05-10 | SO | [II S 13/16](https://www.saos.org.pl/judgments/233301) | Postanowienie
+- 2016-05-10 | SO | [III S 31/16](https://www.saos.org.pl/judgments/227292) | Postanowienie
+- 2016-05-10 | SO | [III S 30/16](https://www.saos.org.pl/judgments/227291) | Postanowienie
+- 2016-05-10 | SO | [III S 29/16](https://www.saos.org.pl/judgments/227290) | Postanowienie
+- 2016-05-04 | SO | [III S 57/16](https://www.saos.org.pl/judgments/225661) | Postanowienie
+- 2016-04-27 | SO | [II S 13/16](https://www.saos.org.pl/judgments/225119) | Postanowienie
+- 2016-04-26 | SO | [III S 34/16](https://www.saos.org.pl/judgments/225660) | Postanowienie
+- 2016-04-26 | SO | [III S 11/16](https://www.saos.org.pl/judgments/225659) | Postanowienie
+- 2016-04-26 | SO | [III S 45/16](https://www.saos.org.pl/judgments/219853) | Postanowienie
+- 2016-04-20 | SO | [II S 12/16](https://www.saos.org.pl/judgments/219264) | Postanowienie
+- 2016-04-13 | SO | [II S 10/16](https://www.saos.org.pl/judgments/414903) | Uzasadnienie
+- 2016-04-13 | SO | [II S 11/16](https://www.saos.org.pl/judgments/219263) | Postanowienie
+- 2016-04-12 | SO | [II S 57/16](https://www.saos.org.pl/judgments/415015) | Uzasadnienie
+- 2016-04-12 | SO | [III S 25/16](https://www.saos.org.pl/judgments/219851) | Postanowienie
+- 2016-04-08 | SO | [I ACa 1834/15](https://www.saos.org.pl/judgments/220454) | Wyrok
+- 2016-03-30 | SO | [I S 17/16](https://www.saos.org.pl/judgments/219161) | Postanowienie
+- 2016-03-30 | SO | [III S 37/16](https://www.saos.org.pl/judgments/215430) | Postanowienie
+- 2016-03-21 | SO | [II S 44/16](https://www.saos.org.pl/judgments/415013) | Postanowienie
+- 2016-03-17 | SN | [III SPP 48/16](https://www.saos.org.pl/judgments/244896) | Postanowienie
+- 2016-03-10 | SO | [II S 36/16](https://www.saos.org.pl/judgments/415010) | Postanowienie
+- 2016-03-07 | SO | [II S 5/16](https://www.saos.org.pl/judgments/213408) | Postanowienie
+- 2016-02-23 | SO | [III S 263/15](https://www.saos.org.pl/judgments/215429) | Postanowienie
+- 2016-02-19 | SO | [II S 15/16](https://www.saos.org.pl/judgments/414905) | Uzasadnienie
+- 2016-02-02 | SO | [III S 250/15](https://www.saos.org.pl/judgments/210391) | Postanowienie
+- 2016-01-29 | SO | [II S 257/15](https://www.saos.org.pl/judgments/417188) | Postanowienie
+- 2016-01-26 | SO | [II S 1/16](https://www.saos.org.pl/judgments/204598) | Postanowienie
+- 2016-01-22 | SO | [II Cs 316/15](https://www.saos.org.pl/judgments/298630) | Postanowienie
+- 2016-01-21 | SO | [II S 211/15](https://www.saos.org.pl/judgments/417187) | Postanowienie
+- 2016-01-12 | SO | [III S 222/15](https://www.saos.org.pl/judgments/210388) | Postanowienie
+- 2016-01-07 | SO | [II S 294/15](https://www.saos.org.pl/judgments/417189) | Postanowienie
+- 2015-12-29 | SO | [III S 225/15](https://www.saos.org.pl/judgments/210389) | Postanowienie
+- 2015-12-29 | SO | [III S 150/15](https://www.saos.org.pl/judgments/210376) | Postanowienie
+- 2015-12-28 | SO | [II S 29/15](https://www.saos.org.pl/judgments/197668) | Postanowienie
+- 2015-12-21 | SO | [II S 28/15](https://www.saos.org.pl/judgments/192504) | Postanowienie
+- 2015-12-15 | SN | [III SPP 27/15](https://www.saos.org.pl/judgments/244175) | Postanowienie
+- 2015-12-15 | SN | [III SPP 26/15](https://www.saos.org.pl/judgments/244174) | Postanowienie
+- 2015-12-14 | SO | [II S 72/15](https://www.saos.org.pl/judgments/190313) | Postanowienie
+- 2015-12-11 | SO | [I ACa 848/15](https://www.saos.org.pl/judgments/202419) | Wyrok
+- 2015-12-04 | SO | [II S 26/15](https://www.saos.org.pl/judgments/191564) | Postanowienie
+- 2015-12-02 | SO | [II S 24/15](https://www.saos.org.pl/judgments/197667) | Postanowienie
+- 2015-12-01 | SN | [SNO 74/15](https://www.saos.org.pl/judgments/244021) | Wyrok
+- 2015-11-24 | SO | [III S 196/15](https://www.saos.org.pl/judgments/210380) | Postanowienie
+- 2015-11-17 | SO | [III S 184/15](https://www.saos.org.pl/judgments/210378) | Postanowienie
+- 2015-11-02 | SO | [II Cs 257/15](https://www.saos.org.pl/judgments/298629) | Postanowienie
+- 2015-10-27 | SO | [III S 186/15](https://www.saos.org.pl/judgments/185941) | Postanowienie
+- 2015-10-27 | SO | [III S 185/15](https://www.saos.org.pl/judgments/185940) | Postanowienie
+- 2015-10-22 | TK | [SK 28/14](https://www.saos.org.pl/judgments/206787) | Wyrok
+- 2015-10-19 | SO | [II C 1390/14](https://www.saos.org.pl/judgments/183112) | Uzasadnienie
+- 2015-10-13 | SO | [III S 188/15](https://www.saos.org.pl/judgments/185943) | Postanowienie
+- 2015-10-13 | SO | [III S 125/15](https://www.saos.org.pl/judgments/185927) | Postanowienie
+- 2015-10-13 | SO | [III S 121/15](https://www.saos.org.pl/judgments/185925) | Postanowienie
+- 2015-10-07 | SO | [I S 78/15](https://www.saos.org.pl/judgments/182878) | Postanowienie
+- 2015-10-06 | SO | [III S 122/15](https://www.saos.org.pl/judgments/185926) | Postanowienie
+- 2015-10-02 | SO | [XV C 194/15](https://www.saos.org.pl/judgments/228196) | Wyrok
+- 2015-09-29 | SO | [III S 117/15](https://www.saos.org.pl/judgments/185922) | Postanowienie
+- 2015-09-22 | SO | [III S 152/15](https://www.saos.org.pl/judgments/185933) | Postanowienie
+- 2015-09-16 | SO | [XXIII S 79/15](https://www.saos.org.pl/judgments/180399) | Postanowienie
+- 2015-09-14 | SO | [II S 19/15](https://www.saos.org.pl/judgments/178617) | Postanowienie
+- 2015-09-03 | SN | [KSP 11/15](https://www.saos.org.pl/judgments/243227) | Postanowienie
+- 2015-09-02 | SO | [II S 18/15](https://www.saos.org.pl/judgments/178253) | Postanowienie
+- 2015-08-20 | SO | [II S 13/15](https://www.saos.org.pl/judgments/174212) | Postanowienie
+- 2015-08-10 | SO | [II S 10/15](https://www.saos.org.pl/judgments/174210) | Postanowienie
+- 2015-08-04 | SO | [III S 114/15](https://www.saos.org.pl/judgments/185921) | Postanowienie
+- 2015-07-30 | SO | [II S 12/15](https://www.saos.org.pl/judgments/178613) | Postanowienie
+- 2015-07-29 | SO | [I S 65/15](https://www.saos.org.pl/judgments/172204) | Postanowienie
+- 2015-07-21 | SN | [III SPP 15/15](https://www.saos.org.pl/judgments/243059) | Postanowienie
+- 2015-07-06 | SO | [II S 7/15](https://www.saos.org.pl/judgments/170158) | Postanowienie
+- 2015-06-26 | SO | [I C 878/13](https://www.saos.org.pl/judgments/196777) | Uzasadnienie
+- 2015-06-25 | SO | [I S 48/15](https://www.saos.org.pl/judgments/169317) | Postanowienie
+- 2015-06-16 | SO | [III S 68/15](https://www.saos.org.pl/judgments/185967) | Postanowienie
+- 2015-06-16 | SO | [III S 67/15](https://www.saos.org.pl/judgments/185966) | Postanowienie
+- 2015-06-09 | SO | [III S 75/15](https://www.saos.org.pl/judgments/185969) | Postanowienie
+- 2015-06-08 | SO | [II Cs 72/15](https://www.saos.org.pl/judgments/297422) | Postanowienie
+- 2015-06-02 | SO | [III S 80/15](https://www.saos.org.pl/judgments/185970) | Postanowienie
+- 2015-05-20 | SO | [II Ca 337/15](https://www.saos.org.pl/judgments/298568) | Wyrok
+- 2015-05-20 | SO | [III S 2/15](https://www.saos.org.pl/judgments/171081) | Postanowienie
+- 2015-05-20 | SO | [III Ca 1713/14](https://www.saos.org.pl/judgments/159228) | Wyrok
+- 2015-05-15 | SO | [I S 54/15](https://www.saos.org.pl/judgments/156947) | Postanowienie
+- 2015-05-06 | SO | [I S 36/15](https://www.saos.org.pl/judgments/152736) | Postanowienie
+- 2015-05-05 | SO | [III S 62/15](https://www.saos.org.pl/judgments/185965) | Postanowienie
+- 2015-04-14 | SO | [III S 58/15](https://www.saos.org.pl/judgments/185964) | Postanowienie
+- 2015-04-13 | SO | [II S 15/15](https://www.saos.org.pl/judgments/155900) | Postanowienie
+- 2015-04-13 | SO | [II S 5/15](https://www.saos.org.pl/judgments/150463) | Postanowienie
+- 2015-04-09 | SO | [II S 4/15](https://www.saos.org.pl/judgments/150462) | Postanowienie
+- 2015-03-24 | SO | [III S 9/15](https://www.saos.org.pl/judgments/185972) | Postanowienie
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2015-03-18 | SO | [I S 6/15](https://www.saos.org.pl/judgments/135276) | Postanowienie
+- 2015-03-11 | SN | [III SPP 5/15](https://www.saos.org.pl/judgments/168564) | Postanowienie
+- 2015-03-10 | SO | [III S 29/15](https://www.saos.org.pl/judgments/159288) | Postanowienie
+- 2015-03-02 | SO | [III S 13/14](https://www.saos.org.pl/judgments/148198) | Postanowienie
+- 2015-02-24 | SO | [III S 21/15](https://www.saos.org.pl/judgments/185951) | Postanowienie
+- 2015-02-24 | SO | [III S 12/15](https://www.saos.org.pl/judgments/185924) | Postanowienie
+- 2015-02-17 | SO | [III S 248/14](https://www.saos.org.pl/judgments/185960) | Postanowienie
+- 2015-02-16 | SO | [III S 14/14](https://www.saos.org.pl/judgments/132352) | Postanowienie
+- 2015-02-10 | SO | [III S 245/14](https://www.saos.org.pl/judgments/185959) | Postanowienie
+- 2015-02-09 | SO | [II Cz 101/15](https://www.saos.org.pl/judgments/190293) | Postanowienie
+- 2015-02-09 | SO | [II Ca 1396/14](https://www.saos.org.pl/judgments/150122) | Wyrok
+- 2015-02-03 | SO | [III S 233/14](https://www.saos.org.pl/judgments/185957) | Postanowienie
+- 2015-02-03 | SO | [III S 1/15](https://www.saos.org.pl/judgments/185919) | Postanowienie
+- 2015-01-13 | SO | [III S 220/14](https://www.saos.org.pl/judgments/185953) | Postanowienie
+- 2015-01-08 | SO | [III S 235/14](https://www.saos.org.pl/judgments/185958) | Postanowienie
+- 2014-12-18 | SN | [III SPP 232/14](https://www.saos.org.pl/judgments/167712) | Postanowienie
+- 2014-12-18 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/159934) | Postanowienie
+- 2014-12-17 | SO | [II S 42/14](https://www.saos.org.pl/judgments/74187) | Postanowienie
+- 2014-12-11 | SO | [II Cs 254/14](https://www.saos.org.pl/judgments/295623) | Postanowienie
+- 2014-12-02 | SO | [III S 203/14](https://www.saos.org.pl/judgments/185950) | Postanowienie
+- 2014-12-02 | SO | [III S 176/14](https://www.saos.org.pl/judgments/185937) | Postanowienie
+- 2014-11-28 | SO | [I S 116/14](https://www.saos.org.pl/judgments/72099) | Postanowienie
+- 2014-11-25 | SN | [III SPP 230/14](https://www.saos.org.pl/judgments/167561) | Postanowienie
+- 2014-11-25 | SN | [III SPP 229/14](https://www.saos.org.pl/judgments/167560) | Postanowienie
+- 2014-11-24 | SO | [II Cs 234/14](https://www.saos.org.pl/judgments/295618) | Postanowienie
+- 2014-11-14 | SO | [II Cs 246/14](https://www.saos.org.pl/judgments/295621) | Postanowienie
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-13 | SO | [II AKa 203/14](https://www.saos.org.pl/judgments/70179) | Wyrok
+- 2014-11-05 | SO | [II S 64/14](https://www.saos.org.pl/judgments/125188) | Postanowienie
+- 2014-11-04 | SO | [III S 171/14](https://www.saos.org.pl/judgments/125474) | Postanowienie
+- 2014-10-29 | SN | [KSP 8/14](https://www.saos.org.pl/judgments/167168) | Postanowienie
+- 2014-10-21 | SO | [II Cs 205/14](https://www.saos.org.pl/judgments/295614) | Postanowienie
+- 2014-10-21 | SO | [III S 156/14](https://www.saos.org.pl/judgments/125808) | Postanowienie
+- 2014-10-20 | SO | [III S 9/14](https://www.saos.org.pl/judgments/67874) | Postanowienie
+- 2014-10-16 | SO | [II Cs 202/14](https://www.saos.org.pl/judgments/295613) | Postanowienie
+- 2014-10-15 | SO | [III S 143/14](https://www.saos.org.pl/judgments/126058) | Postanowienie
+- 2014-10-02 | SO | [II S 30/14](https://www.saos.org.pl/judgments/65911) | Postanowienie
+- 2014-10-01 | SO | [II S 49/14](https://www.saos.org.pl/judgments/424671) | Postanowienie
+- 2014-09-24 | SN | [III SPP 206/14](https://www.saos.org.pl/judgments/166795) | Postanowienie
+- 2014-09-23 | SO | [III S 162/14](https://www.saos.org.pl/judgments/69469) | Postanowienie
+- 2014-09-23 | SO | [V S 124/14](https://www.saos.org.pl/judgments/62756) | Postanowienie
+- 2014-09-16 | SO | [III S 175/14](https://www.saos.org.pl/judgments/68039) | Postanowienie
+- 2014-09-16 | SO | [III S 172/14](https://www.saos.org.pl/judgments/68038) | Postanowienie
+- 2014-09-12 | SO | [II Cs 158/14](https://www.saos.org.pl/judgments/295609) | Postanowienie
+- 2014-09-10 | SO | [II S 28/14](https://www.saos.org.pl/judgments/61595) | Postanowienie
+- 2014-09-02 | SO | [III S 114/14](https://www.saos.org.pl/judgments/68215) | Postanowienie
+- 2014-09-02 | SO | [III S 82/14](https://www.saos.org.pl/judgments/67873) | Postanowienie
+- 2014-08-27 | SO | [I S 84/14](https://www.saos.org.pl/judgments/429817) | Postanowienie
+- 2014-08-12 | SN | [III SPP 150/14](https://www.saos.org.pl/judgments/166550) | Postanowienie
+- 2014-08-08 | SO | [II S 26/14](https://www.saos.org.pl/judgments/57516) | Postanowienie
+- 2014-08-05 | SO | [III S 127/14](https://www.saos.org.pl/judgments/134456) | Postanowienie
+- 2014-08-05 | SO | [III S 139/14](https://www.saos.org.pl/judgments/70460) | Postanowienie
+- 2014-07-31 | SO | [I S 72/14](https://www.saos.org.pl/judgments/429816) | Postanowienie
+- 2014-07-30 | SO | [I ACa 320/14](https://www.saos.org.pl/judgments/65307) | Wyrok
+- 2014-07-22 | SN | [III SPP 123/14](https://www.saos.org.pl/judgments/166448) | Postanowienie
+- 2014-07-09 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206574) | Postanowienie
+- 2014-07-01 | SO | [III S 115/14](https://www.saos.org.pl/judgments/61722) | Postanowienie
+- 2014-06-24 | SO | [III S 90/14](https://www.saos.org.pl/judgments/69814) | Postanowienie
+- 2014-06-20 | SO | [II Cs 132/14](https://www.saos.org.pl/judgments/295606) | Postanowienie
+- 2014-06-16 | SO | [II Cs 121/14](https://www.saos.org.pl/judgments/295605) | Postanowienie
+- 2014-06-11 | SO | [II S 19/14](https://www.saos.org.pl/judgments/128333) | Postanowienie
+- 2014-06-03 | SN | [III SPP 116/14](https://www.saos.org.pl/judgments/165998) | Postanowienie
+- 2014-05-30 | SO | [II Cs 106/14](https://www.saos.org.pl/judgments/131256) | Postanowienie
+- 2014-05-29 | SO | [IV U 1663/10](https://www.saos.org.pl/judgments/73828) | Postanowienie
+- 2014-05-28 | SO | [I S 54/14](https://www.saos.org.pl/judgments/429814) | Postanowienie
+- 2014-05-28 | SO | [III S 66/14](https://www.saos.org.pl/judgments/130145) | Postanowienie
+- 2014-05-28 | SO | [II Cs 110/14](https://www.saos.org.pl/judgments/63074) | Postanowienie
+- 2014-05-28 | SO | [III S 84/14](https://www.saos.org.pl/judgments/59923) | Postanowienie
+- 2014-05-27 | SO | [II Cs 103/14](https://www.saos.org.pl/judgments/131255) | Postanowienie
+- 2014-05-20 | SO | [II S 15/14](https://www.saos.org.pl/judgments/47123) | Postanowienie
+- 2014-05-20 | SO | [II S 12/14](https://www.saos.org.pl/judgments/47122) | Postanowienie
+- 2014-05-15 | SO | [II Cs 104/14](https://www.saos.org.pl/judgments/63073) | Postanowienie
+- 2014-05-13 | SN | [WSP 5/14](https://www.saos.org.pl/judgments/105122) | Postanowienie
+- 2014-05-08 | SO | [II S 21/14](https://www.saos.org.pl/judgments/54258) | Postanowienie
+- 2014-05-06 | SO | [III S 51/14](https://www.saos.org.pl/judgments/59914) | Postanowienie
+- 2014-04-29 | SO | [II Cs 31/14](https://www.saos.org.pl/judgments/295626) | Postanowienie
+- 2014-04-29 | SO | [I S 50/14](https://www.saos.org.pl/judgments/145757) | Postanowienie
+- 2014-04-29 | SO | [II S 18/14](https://www.saos.org.pl/judgments/47395) | Postanowienie
+- 2014-04-16 | SO | [II S 6/14](https://www.saos.org.pl/judgments/47930) | Postanowienie
+- 2014-04-16 | SO | [II S 17/14](https://www.saos.org.pl/judgments/47394) | Postanowienie
+- 2014-04-14 | SO | [II S 19/14](https://www.saos.org.pl/judgments/43921) | Postanowienie
+- 2014-04-08 | SO | [III S 43/14](https://www.saos.org.pl/judgments/130143) | Postanowienie
+- 2014-04-01 | SO | [III S 40/14](https://www.saos.org.pl/judgments/130142) | Postanowienie
+- 2014-03-28 | SO | [V S 6/14](https://www.saos.org.pl/judgments/40598) | Postanowienie
+- 2014-03-26 | SO | [II S 13/14](https://www.saos.org.pl/judgments/57900) | Postanowienie
+- 2014-03-25 | SO | [III S 35/14](https://www.saos.org.pl/judgments/59912) | Postanowienie
+- 2014-03-18 | SO | [III S 14/14](https://www.saos.org.pl/judgments/185929) | Postanowienie
+- 2014-03-18 | SO | [III S 5/14](https://www.saos.org.pl/judgments/130144) | Postanowienie
+- 2014-03-18 | SO | [III S 39/14](https://www.saos.org.pl/judgments/130141) | Postanowienie
+- 2014-03-18 | SO | [III S 18/14](https://www.saos.org.pl/judgments/130139) | Postanowienie
+- 2014-03-11 | SO | [III S 13/14](https://www.saos.org.pl/judgments/70459) | Postanowienie
+- 2014-03-05 | SO | [III S 1/14](https://www.saos.org.pl/judgments/37980) | Postanowienie
+- 2014-03-04 | SO | [III S 27/14](https://www.saos.org.pl/judgments/70461) | Postanowienie
+- 2014-03-04 | SO | [II S 8/14](https://www.saos.org.pl/judgments/44576) | Postanowienie
+- 2014-02-19 | TK | [Ts 177/13](https://www.saos.org.pl/judgments/206573) | Postanowienie
+- 2014-02-19 | SO | [V S 9/14](https://www.saos.org.pl/judgments/38624) | Postanowienie
+- 2014-02-18 | SO | [II S 1/14](https://www.saos.org.pl/judgments/37722) | Postanowienie
+- 2014-02-13 | SO | [II S 4/14](https://www.saos.org.pl/judgments/128334) | Postanowienie
+- 2014-02-12 | SO | [I ACa 1544/13](https://www.saos.org.pl/judgments/67977) | Wyrok
+- 2014-02-11 | SO | [III S 199/13](https://www.saos.org.pl/judgments/130140) | Postanowienie
+- 2014-02-11 | SO | [II S 3/14](https://www.saos.org.pl/judgments/35863) | Postanowienie
+- 2014-02-07 | SO | [VIII S 33/13](https://www.saos.org.pl/judgments/36720) | Postanowienie
+- 2014-02-04 | SO | [III S 203/13](https://www.saos.org.pl/judgments/59908) | Postanowienie
+- 2014-02-04 | SO | [III S 194/13](https://www.saos.org.pl/judgments/59907) | Postanowienie
+- 2014-01-31 | SO | [XV S 152/13](https://www.saos.org.pl/judgments/49600) | Postanowienie
+- 2014-01-28 | SO | [III S 179/13](https://www.saos.org.pl/judgments/35969) | Postanowienie
+- 2014-01-23 | SO | [III S 190/13](https://www.saos.org.pl/judgments/49080) | Postanowienie
+- 2014-01-17 | SO | [II S 57/13](https://www.saos.org.pl/judgments/54836) | Postanowienie
+- 2014-01-16 | SO | [II S 59/13](https://www.saos.org.pl/judgments/54837) | Postanowienie
+- 2014-01-08 | SO | [I S 170/13](https://www.saos.org.pl/judgments/142962) | Postanowienie
+- 2014-01-08 | SO | [II S 125/13](https://www.saos.org.pl/judgments/33549) | Postanowienie
+- 2013-12-30 | SO | [I S 174/13](https://www.saos.org.pl/judgments/142638) | Postanowienie
+- 2013-12-30 | SO | [II S 36/13](https://www.saos.org.pl/judgments/32030) | Postanowienie
+- 2013-12-12 | SO | [I S 244/13](https://www.saos.org.pl/judgments/67629) | Postanowienie
+- 2013-12-04 | SO | [II S 30/13](https://www.saos.org.pl/judgments/28763) | Postanowienie
+- 2013-12-03 | SO | [II S 104/13](https://www.saos.org.pl/judgments/35431) | Postanowienie
+- 2013-11-29 | SO | [VIII S 30/13](https://www.saos.org.pl/judgments/29027) | Postanowienie
+- 2013-11-28 | SO | [II S 33/13](https://www.saos.org.pl/judgments/28091) | Postanowienie
+- 2013-11-20 | SO | [III S 21/13](https://www.saos.org.pl/judgments/29104) | Postanowienie
+- 2013-11-20 | SO | [II S 32/13](https://www.saos.org.pl/judgments/26444) | Postanowienie
+- 2013-11-13 | SO | [II S 31/13](https://www.saos.org.pl/judgments/26443) | Postanowienie
+- 2013-11-08 | SO | [II Cs 138/13](https://www.saos.org.pl/judgments/155803) | Postanowienie
+- 2013-11-08 | SO | [II Cs 121/13](https://www.saos.org.pl/judgments/155802) | Postanowienie
+- 2013-11-04 | TK | [Ts 116/13](https://www.saos.org.pl/judgments/160520) | Postanowienie
+- 2013-10-29 | SO | [I ACa 474/13](https://www.saos.org.pl/judgments/42142) | Wyrok
+- 2013-10-09 | SN | [KSP 6/13](https://www.saos.org.pl/judgments/103107) | Postanowienie
+- 2013-10-02 | TK | [Ts 131/12](https://www.saos.org.pl/judgments/206400) | Postanowienie
+- 2013-09-30 | SO | [I S 117/13](https://www.saos.org.pl/judgments/140729) | Postanowienie
+- 2013-09-30 | SO | [II S 27/13](https://www.saos.org.pl/judgments/22861) | Postanowienie
+- 2013-09-30 | SO | [II S 26/13](https://www.saos.org.pl/judgments/22860) | Postanowienie
+- 2013-09-30 | SO | [II S 25/13](https://www.saos.org.pl/judgments/22859) | Postanowienie
+- 2013-09-24 | SN | [III SPP 188/13](https://www.saos.org.pl/judgments/102990) | Postanowienie
+- 2013-09-18 | SO | [II S 28/13](https://www.saos.org.pl/judgments/20959) | Postanowienie
+- 2013-09-12 | SO | [I Ca 263/12](https://www.saos.org.pl/judgments/141077) | Wyrok
+- 2013-09-12 | SO | [II S 24/13](https://www.saos.org.pl/judgments/25331) | Postanowienie
+- 2013-09-10 | SO | [II S 80/13](https://www.saos.org.pl/judgments/20304) | Postanowienie
+- 2013-09-09 | SO | [I S 109/13](https://www.saos.org.pl/judgments/140307) | Postanowienie
+- 2013-09-06 | SO | [II Cs 101/13](https://www.saos.org.pl/judgments/29455) | Postanowienie
+- 2013-09-05 | SO | [II Cs 88/13](https://www.saos.org.pl/judgments/21931) | Postanowienie
+- 2013-09-03 | SO | [I S 114/13](https://www.saos.org.pl/judgments/140402) | Postanowienie
+- 2013-09-02 | SN | [WSP 7/13](https://www.saos.org.pl/judgments/102809) | Postanowienie
+- 2013-08-21 | SO | [II S 22/13](https://www.saos.org.pl/judgments/19879) | Postanowienie
+- 2013-08-14 | SO | [I S 85/13](https://www.saos.org.pl/judgments/140308) | Postanowienie
+- 2013-08-13 | SO | [II S 20/13](https://www.saos.org.pl/judgments/18667) | Postanowienie
+- 2013-08-06 | SO | [I S 84/13](https://www.saos.org.pl/judgments/139781) | Postanowienie
+- 2013-07-30 | SO | [II S 21/13](https://www.saos.org.pl/judgments/18668) | Postanowienie
+- 2013-07-16 | SO | [II S 7/13](https://www.saos.org.pl/judgments/47281) | Postanowienie
+- 2013-07-16 | SO | [III S 7/13](https://www.saos.org.pl/judgments/20900) | Postanowienie
+- 2013-07-16 | SO | [II S 59/13](https://www.saos.org.pl/judgments/16633) | Postanowienie
+- 2013-07-15 | SO | [II S 57/13](https://www.saos.org.pl/judgments/16632) | Postanowienie
+- 2013-07-10 | SO | [I S 68/13](https://www.saos.org.pl/judgments/141856) | Postanowienie
+- 2013-07-10 | SO | [II S 53/13](https://www.saos.org.pl/judgments/16631) | Postanowienie
+- 2013-07-10 | SO | [II S 16/13](https://www.saos.org.pl/judgments/16071) | Postanowienie
+- 2013-07-02 | SO | [II S 56/13](https://www.saos.org.pl/judgments/16428) | Postanowienie
+- 2013-07-02 | SO | [II S 50/13](https://www.saos.org.pl/judgments/16427) | Postanowienie
+- 2013-06-27 | SN | [V CNP 69/12](https://www.saos.org.pl/judgments/102279) | Postanowienie
+- 2013-06-12 | SO | [II S 17/13](https://www.saos.org.pl/judgments/14885) | Postanowienie
+- 2013-06-05 | SO | [II S 6/13](https://www.saos.org.pl/judgments/16634) | Postanowienie
+- 2013-05-24 | SO | [I ACa 261/13](https://www.saos.org.pl/judgments/14233) | Wyrok
+- 2013-05-22 | SO | [III S 5/13](https://www.saos.org.pl/judgments/12421) | Postanowienie
+- 2013-05-16 | SO | [I S 59/13](https://www.saos.org.pl/judgments/138573) | Postanowienie
+- 2013-05-10 | SO | [I S 58/13](https://www.saos.org.pl/judgments/138572) | Postanowienie
+- 2013-05-09 | SO | [II S 16/13](https://www.saos.org.pl/judgments/14884) | Postanowienie
+- 2013-05-09 | SO | [II S 15/13](https://www.saos.org.pl/judgments/14883) | Postanowienie
+- 2013-04-30 | SO | [II S 14/13](https://www.saos.org.pl/judgments/14882) | Postanowienie
+- 2013-04-17 | SO | [II S 13/13](https://www.saos.org.pl/judgments/14881) | Postanowienie
+- 2013-03-12 | SO | [I S 14/13](https://www.saos.org.pl/judgments/137523) | Postanowienie
+- 2013-03-12 | SN | [KSP 1/13](https://www.saos.org.pl/judgments/101078) | Postanowienie
+- 2013-02-26 | SO | [II S 7/13](https://www.saos.org.pl/judgments/6354) | Postanowienie
+- 2013-02-20 | SO | [II S 2/13](https://www.saos.org.pl/judgments/7346) | Postanowienie
+- 2013-02-19 | SO | [II S 9/14](https://www.saos.org.pl/judgments/133846) | Postanowienie
+- 2013-02-13 | SO | [VIII S 8/12](https://www.saos.org.pl/judgments/4845) | Postanowienie
+- 2013-02-12 | SO | [I S 95/12](https://www.saos.org.pl/judgments/137024) | Postanowienie
+- 2013-02-12 | SO | [I S 2/13](https://www.saos.org.pl/judgments/136854) | Postanowienie
+- 2013-02-04 | SO | [I S 5/13](https://www.saos.org.pl/judgments/137185) | Postanowienie
+- 2013-01-31 | TK | [Ts 202/11](https://www.saos.org.pl/judgments/111945) | Postanowienie
+- 2013-01-30 | SO | [II S 32/12](https://www.saos.org.pl/judgments/5515) | Postanowienie
+- 2013-01-28 | SO | [I S 7/13](https://www.saos.org.pl/judgments/139439) | Postanowienie
+- 2013-01-28 | SO | [I ACa 643/12](https://www.saos.org.pl/judgments/12880) | Wyrok
+- 2013-01-25 | SO | [II S 26/12](https://www.saos.org.pl/judgments/6175) | Postanowienie
+- 2013-01-10 | SO | [II S 33/12](https://www.saos.org.pl/judgments/3596) | Postanowienie
+- 2013-01-04 | SO | [III S 10/12](https://www.saos.org.pl/judgments/3885) | Postanowienie
+- 2012-12-28 | SO | [II S 25/12](https://www.saos.org.pl/judgments/4007) | Postanowienie
+- 2012-11-15 | SN | [KSP 12/12](https://www.saos.org.pl/judgments/99640) | Postanowienie
+- 2012-11-07 | SO | [II S 28/12](https://www.saos.org.pl/judgments/150) | Postanowienie
+- 2012-10-24 | SO | [II S 21/12](https://www.saos.org.pl/judgments/551) | Postanowienie
+- 2012-10-09 | SO | [II S 58/12](https://www.saos.org.pl/judgments/1153) | Postanowienie
+- 2012-09-20 | SO | [II S 38/12](https://www.saos.org.pl/judgments/1152) | Postanowienie
+- 2012-09-17 | TK | [SK 12/10](https://www.saos.org.pl/judgments/110987) | Postanowienie
+- 2012-09-12 | SO | [III S 5/12](https://www.saos.org.pl/judgments/10615) | Postanowienie
+- 2012-09-04 | SO | [I S 83/12](https://www.saos.org.pl/judgments/135526) | Postanowienie
+- 2012-07-04 | SN | [KSP 7/12](https://www.saos.org.pl/judgments/98578) | Postanowienie
+- 2012-05-10 | SO | [I S 14/12](https://www.saos.org.pl/judgments/136039) | Postanowienie
+- 2012-04-23 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111343) | Postanowienie
+- 2012-04-11 | SO | [II S 10/12](https://www.saos.org.pl/judgments/1352) | Postanowienie
+- 2012-03-30 | SN | [SNO 7/12](https://www.saos.org.pl/judgments/97686) | Wyrok
+- 2012-03-14 | SO | [II S 8/12](https://www.saos.org.pl/judgments/1367) | Postanowienie
+- 2012-03-12 | SO | [II S 5/12](https://www.saos.org.pl/judgments/1365) | Postanowienie
+- 2012-02-17 | SN | [III SPP 2/12](https://www.saos.org.pl/judgments/97225) | Postanowienie
+- 2012-02-03 | SO | [I S 38/11](https://www.saos.org.pl/judgments/429812) | Postanowienie
+- 2012-02-01 | SO | [II S 3/12](https://www.saos.org.pl/judgments/1363) | Postanowienie
+- 2012-02-01 | SO | [II S 2/12](https://www.saos.org.pl/judgments/1361) | Postanowienie
+- 2012-02-01 | SO | [II S 1/12](https://www.saos.org.pl/judgments/1351) | Postanowienie
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-12-06 | SN | [KSP 11/11](https://www.saos.org.pl/judgments/96527) | Postanowienie
+- 2011-11-15 | SO | [I S 33/11](https://www.saos.org.pl/judgments/429806) | Postanowienie
+- 2011-10-06 | SN | [III SPP 28/11](https://www.saos.org.pl/judgments/95921) | Postanowienie
+- 2011-07-28 | SO | [I S 24/11](https://www.saos.org.pl/judgments/429804) | Postanowienie
+- 2011-05-31 | SO | [I S 12/11](https://www.saos.org.pl/judgments/429802) | Postanowienie
+- 2011-05-24 | SN | [III SPP 9/11](https://www.saos.org.pl/judgments/95087) | Postanowienie
+- 2011-03-30 | SO | [I S 5/11](https://www.saos.org.pl/judgments/429813) | Postanowienie
+- 2011-01-05 | SN | [III SPP 30/10](https://www.saos.org.pl/judgments/93829) | Postanowienie
+- 2010-11-22 | SN | [III SPP 22/10](https://www.saos.org.pl/judgments/93532) | Postanowienie
+- 2010-10-28 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110189) | Postanowienie
+- 2010-10-14 | TK | [K 17/07](https://www.saos.org.pl/judgments/109672) | Wyrok
+- 2010-10-11 | SO | [I S 12/10](https://www.saos.org.pl/judgments/429801) | Postanowienie
+- 2010-08-18 | SO | [III S 6/10](https://www.saos.org.pl/judgments/424357) | Postanowienie
+- 2010-07-07 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110188) | Postanowienie
+- 2010-05-13 | SN | [III SPP 11/10](https://www.saos.org.pl/judgments/165323) | Postanowienie
+- 2010-04-30 | TK | [Ts 220/08](https://www.saos.org.pl/judgments/206287) | Postanowienie
+- 2010-04-22 | SN | [III SPP 8/10](https://www.saos.org.pl/judgments/76449) | Postanowienie
+- 2010-02-10 | SO | [I S 26/09](https://www.saos.org.pl/judgments/429805) | Postanowienie
+- 2009-09-02 | SN | [KSP 13/09](https://www.saos.org.pl/judgments/90815) | Postanowienie
+- 2009-08-18 | SN | [WSP 4/09](https://www.saos.org.pl/judgments/90760) | Postanowienie
+- 2009-06-23 | TK | [Ts 292/06](https://www.saos.org.pl/judgments/109491) | Postanowienie
+- 2008-09-23 | SN | [V CNP 52/08](https://www.saos.org.pl/judgments/88762) | Postanowienie
+- 2008-06-27 | SN | [III CZP 25/08](https://www.saos.org.pl/judgments/88343) | Postanowienie
+- 2008-03-03 | TK | [Ts 147/07](https://www.saos.org.pl/judgments/108783) | Postanowienie
+- 2007-11-13 | SN | [III SPP 44/07](https://www.saos.org.pl/judgments/86832) | Postanowienie
+- 2007-09-14 | SN | [III SPP 35/07](https://www.saos.org.pl/judgments/86556) | Postanowienie
+- 2007-09-11 | TK | [Ts 292/06](https://www.saos.org.pl/judgments/108458) | Postanowienie
+- 2007-08-10 | SN | [III SPP 31/07](https://www.saos.org.pl/judgments/86441) | Postanowienie
+- 2007-08-03 | SO | [I S 7/07](https://www.saos.org.pl/judgments/417078) | Postanowienie
+- 2007-06-05 | SN | [III SPP 19/07](https://www.saos.org.pl/judgments/86050) | Postanowienie
+- 2007-04-12 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/108315) | Postanowienie
+- 2007-03-27 | TK | [Ts 51/06](https://www.saos.org.pl/judgments/108253) | Postanowienie
+- 2007-03-14 | SN | [III SPP 3/07](https://www.saos.org.pl/judgments/85464) | Postanowienie
+- 2007-01-05 | SN | [III SPP 47/06](https://www.saos.org.pl/judgments/84888) | Postanowienie
+- 2006-12-21 | SN | [KSP 10/06](https://www.saos.org.pl/judgments/84880) | Postanowienie
+- 2006-10-03 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/107850) | Postanowienie
+- 2006-07-26 | SN | [III SPP 30/06](https://www.saos.org.pl/judgments/84483) | Postanowienie
+- 2006-07-24 | TK | [Ts 51/06](https://www.saos.org.pl/judgments/107779) | Postanowienie
+- 2006-07-05 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206203) | Postanowienie
+- 2006-03-21 | SN | [III SPP 13/06](https://www.saos.org.pl/judgments/84195) | Postanowienie
+- 2006-03-16 | SN | [III SPP 10/06](https://www.saos.org.pl/judgments/84183) | Postanowienie
+- 2006-01-24 | TK | [Ts 105/05](https://www.saos.org.pl/judgments/206202) | Postanowienie
+- 2006-01-06 | SN | [III SPP 154/05](https://www.saos.org.pl/judgments/83975) | Postanowienie
+- 2005-11-17 | SN | [IV CSP 1/05](https://www.saos.org.pl/judgments/163750) | Postanowienie
+- 2005-07-15 | SN | [III SPP 121/05](https://www.saos.org.pl/judgments/83616) | Postanowienie
+- 2005-07-08 | SN | [III SPP 120/05](https://www.saos.org.pl/judgments/83581) | Postanowienie
+- 2005-06-27 | TK | [Tw 19/05](https://www.saos.org.pl/judgments/107524) | Postanowienie
+- 2005-06-07 | SN | [III SPP 110/05](https://www.saos.org.pl/judgments/83471) | Postanowienie
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-05-12 | SN | [III SPP 96/05](https://www.saos.org.pl/judgments/83415) | Postanowienie
+- 2005-05-11 | SO | [II S 26/05](https://www.saos.org.pl/judgments/409313) | Postanowienie
+- 2005-03-08 | SN | [III SPP 34/05](https://www.saos.org.pl/judgments/83280) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2005-01-14 | SN | [III SPP 124/04](https://www.saos.org.pl/judgments/83126) | Postanowienie
+- 2004-12-07 | SN | [III SPP 23/04](https://www.saos.org.pl/judgments/83061) | Postanowienie
+- 2004-11-29 | SN | [III SPP 48/04](https://www.saos.org.pl/judgments/83043) | Postanowienie
+- 2004-11-10 | SO | [II S 4/04](https://www.saos.org.pl/judgments/128080) | Postanowienie
+
+## art. 12 § 4 (1)
+
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+
+## art. 14 (74)
+
+- 2020-12-04 | SO | [II S 54/20](https://www.saos.org.pl/judgments/427607) | Postanowienie
+- 2020-05-05 | SO | [III S 80/20](https://www.saos.org.pl/judgments/422845) | Postanowienie
+- 2020-01-20 | SO | [II S 503/19](https://www.saos.org.pl/judgments/414531) | Postanowienie
+- 2019-03-12 | SO | [III S 58/19](https://www.saos.org.pl/judgments/399899) | Postanowienie
+- 2019-01-08 | SO | [III S 336/18](https://www.saos.org.pl/judgments/371916) | Postanowienie
+- 2018-12-18 | SO | [III S 312/18](https://www.saos.org.pl/judgments/371914) | Postanowienie
+- 2018-11-06 | SO | [III S 294/18](https://www.saos.org.pl/judgments/364077) | Postanowienie
+- 2018-10-24 | SO | [III S 279/18](https://www.saos.org.pl/judgments/366181) | Postanowienie
+- 2018-10-18 | SO | [III S 283/18](https://www.saos.org.pl/judgments/367527) | Postanowienie
+- 2018-10-18 | SO | [III S 282/18](https://www.saos.org.pl/judgments/367526) | Postanowienie
+- 2018-09-13 | SO | [III S 161/18](https://www.saos.org.pl/judgments/367524) | Postanowienie
+- 2018-05-09 | SO | [III S 79/18](https://www.saos.org.pl/judgments/342293) | Postanowienie
+- 2016-11-28 | SO | [III S 176/16](https://www.saos.org.pl/judgments/265580) | Postanowienie
+- 2016-11-08 | SO | [III S 159/16](https://www.saos.org.pl/judgments/254416) | Postanowienie
+- 2016-08-18 | SO | [II S 204/16](https://www.saos.org.pl/judgments/415527) | Postanowienie
+- 2016-05-17 | SO | [III S 63/16](https://www.saos.org.pl/judgments/225662) | Postanowienie
+- 2016-05-10 | SO | [III S 31/16](https://www.saos.org.pl/judgments/227292) | Postanowienie
+- 2016-05-10 | SO | [III S 30/16](https://www.saos.org.pl/judgments/227291) | Postanowienie
+- 2016-05-10 | SO | [III S 29/16](https://www.saos.org.pl/judgments/227290) | Postanowienie
+- 2016-03-17 | SO | [VI ACa 223/15](https://www.saos.org.pl/judgments/223165) | Wyrok
+- 2016-02-02 | SO | [III S 250/15](https://www.saos.org.pl/judgments/210391) | Postanowienie
+- 2016-01-29 | SO | [II S 257/15](https://www.saos.org.pl/judgments/417188) | Postanowienie
+- 2015-12-14 | SO | [II S 72/15](https://www.saos.org.pl/judgments/190313) | Postanowienie
+- 2015-11-24 | SO | [III S 196/15](https://www.saos.org.pl/judgments/210380) | Postanowienie
+- 2015-02-19 | SO | [II S 5/15](https://www.saos.org.pl/judgments/133478) | Postanowienie
+- 2014-11-05 | SO | [III S 142/14](https://www.saos.org.pl/judgments/125806) | Postanowienie
+- 2014-10-28 | SO | [I S 246/14](https://www.saos.org.pl/judgments/130231) | Postanowienie
+- 2014-10-23 | SN | [III SO 2/14](https://www.saos.org.pl/judgments/167090) | Postanowienie
+- 2014-10-21 | SN | [III SPP 221/14](https://www.saos.org.pl/judgments/167133) | Postanowienie
+- 2014-09-16 | SO | [III S 175/14](https://www.saos.org.pl/judgments/68039) | Postanowienie
+- 2014-09-16 | SO | [III S 172/14](https://www.saos.org.pl/judgments/68038) | Postanowienie
+- 2014-08-05 | SO | [III S 139/14](https://www.saos.org.pl/judgments/70460) | Postanowienie
+- 2014-07-01 | SO | [III S 115/14](https://www.saos.org.pl/judgments/61722) | Postanowienie
+- 2014-06-20 | SO | [II Cs 132/14](https://www.saos.org.pl/judgments/295606) | Postanowienie
+- 2014-05-22 | SO | [II S 25/14](https://www.saos.org.pl/judgments/54834) | Postanowienie
+- 2014-05-13 | SO | [I ACa 223/14](https://www.saos.org.pl/judgments/50434) | Wyrok
+- 2014-05-07 | SN | [WSP 6/14](https://www.saos.org.pl/judgments/165798) | Postanowienie
+- 2014-04-15 | SO | [III S 68/14](https://www.saos.org.pl/judgments/59920) | Postanowienie
+- 2014-04-01 | SO | [III S 55/14](https://www.saos.org.pl/judgments/246762) | Postanowienie
+- 2014-04-01 | SO | [III S 54/14](https://www.saos.org.pl/judgments/246761) | Postanowienie
+- 2014-03-31 | SO | [VIII S 12/14](https://www.saos.org.pl/judgments/43031) | Postanowienie
+- 2014-02-18 | SO | [II S 1/14](https://www.saos.org.pl/judgments/37722) | Postanowienie
+- 2013-12-12 | SO | [I S 244/13](https://www.saos.org.pl/judgments/67629) | Postanowienie
+- 2013-11-29 | SO | [VIII S 30/13](https://www.saos.org.pl/judgments/29027) | Postanowienie
+- 2013-11-15 | SO | [II S 46/13](https://www.saos.org.pl/judgments/45426) | Postanowienie
+- 2013-10-10 | SO | [V S 82/13](https://www.saos.org.pl/judgments/22830) | Postanowienie
+- 2013-10-02 | TK | [Ts 131/12](https://www.saos.org.pl/judgments/206400) | Postanowienie
+- 2013-05-25 | SO | [II S 65/13](https://www.saos.org.pl/judgments/12213) | Postanowienie
+- 2013-05-25 | SO | [II S 60/13](https://www.saos.org.pl/judgments/12211) | Postanowienie
+- 2013-05-13 | SO | [I S 97/13](https://www.saos.org.pl/judgments/131988) | Postanowienie
+- 2013-05-13 | SO | [I S 96/13](https://www.saos.org.pl/judgments/131987) | Postanowienie
+- 2013-05-13 | SO | [I S 95/13](https://www.saos.org.pl/judgments/69421) | Postanowienie
+- 2013-04-18 | SO | [I S 60/13](https://www.saos.org.pl/judgments/144115) | Postanowienie
+- 2013-02-18 | SO | [I S 32/13](https://www.saos.org.pl/judgments/139475) | Postanowienie
+- 2013-02-07 | SO | [I S 16/13](https://www.saos.org.pl/judgments/139472) | Postanowienie
+- 2013-02-07 | SO | [I S 12/13](https://www.saos.org.pl/judgments/139471) | Postanowienie
+- 2013-01-30 | SO | [I S 10/13](https://www.saos.org.pl/judgments/139311) | Postanowienie
+- 2013-01-24 | SO | [I S 3/13](https://www.saos.org.pl/judgments/139315) | Postanowienie
+- 2013-01-16 | SO | [I S 176/12](https://www.saos.org.pl/judgments/136670) | Postanowienie
+- 2012-12-12 | SO | [I S 147/12](https://www.saos.org.pl/judgments/138599) | Postanowienie
+- 2012-11-07 | TK | [Ts 347/11](https://www.saos.org.pl/judgments/111515) | Postanowienie
+- 2012-10-11 | SO | [I S 105/12](https://www.saos.org.pl/judgments/135520) | Postanowienie
+- 2012-09-14 | SO | [II S 20/12](https://www.saos.org.pl/judgments/1362) | Postanowienie
+- 2012-09-05 | SO | [II S 18/12](https://www.saos.org.pl/judgments/1359) | Postanowienie
+- 2012-05-24 | TK | [Ts 347/11](https://www.saos.org.pl/judgments/111513) | Postanowienie
+- 2012-05-24 | SO | [II S 13/12](https://www.saos.org.pl/judgments/1354) | Postanowienie
+- 2012-05-17 | SO | [II S 12/12](https://www.saos.org.pl/judgments/13638) | Uzasadnienie
+- 2012-02-01 | SO | [II S 3/12](https://www.saos.org.pl/judgments/1363) | Postanowienie
+- 2012-02-01 | SO | [II S 2/12](https://www.saos.org.pl/judgments/1361) | Postanowienie
+- 2012-02-01 | SO | [II S 1/12](https://www.saos.org.pl/judgments/1351) | Postanowienie
+- 2009-06-23 | TK | [Ts 147/07](https://www.saos.org.pl/judgments/109300) | Postanowienie
+- 2008-03-03 | TK | [Ts 147/07](https://www.saos.org.pl/judgments/108783) | Postanowienie
+- 2007-04-12 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/108315) | Postanowienie
+- 2006-10-03 | TK | [Ts 122/05](https://www.saos.org.pl/judgments/107850) | Postanowienie
+
+## art. 15 (75)
+
+- 2025-06-11 | SO | [II S 17/25](https://www.saos.org.pl/judgments/532759) | Postanowienie
+- 2021-11-10 | SO | [I C 986/18](https://www.saos.org.pl/judgments/483481) | Wyrok
+- 2021-07-13 | SO | [I ACa 54/21](https://www.saos.org.pl/judgments/445859) | Wyrok
+- 2020-08-03 | SO | [I ACa 985/19](https://www.saos.org.pl/judgments/437682) | Wyrok
+- 2019-04-15 | SO | [VI ACa 1765/17](https://www.saos.org.pl/judgments/415581) | Wyrok
+- 2018-08-09 | SO | [III Ca 376/18](https://www.saos.org.pl/judgments/361671) | Wyrok
+- 2018-04-25 | SO | [I ACa 1181/17](https://www.saos.org.pl/judgments/434684) | Wyrok
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2017-12-12 | SO | [II AKa 360/17](https://www.saos.org.pl/judgments/327697) | Wyrok
+- 2017-09-12 | SO | [I ACa 996/16](https://www.saos.org.pl/judgments/321060) | Wyrok
+- 2017-08-09 | SO | [I ACa 216/17](https://www.saos.org.pl/judgments/417037) | Wyrok
+- 2017-06-07 | SO | [I ACa 14/17](https://www.saos.org.pl/judgments/291992) | Wyrok
+- 2017-05-17 | SO | [I ACa 1481/16](https://www.saos.org.pl/judgments/304268) | Wyrok
+- 2017-05-04 | SO | [I C 584/15](https://www.saos.org.pl/judgments/296096) | Wyrok
+- 2017-04-05 | SO | [III Ca 1815/16](https://www.saos.org.pl/judgments/290192) | Wyrok
+- 2017-02-06 | SO | [X C 543/16](https://www.saos.org.pl/judgments/292212) | Uzasadnienie
+- 2017-02-02 | SO | [I C 181/16](https://www.saos.org.pl/judgments/425577) | Wyrok
+- 2016-12-27 | SO | [VI ACa 1512/15](https://www.saos.org.pl/judgments/285808) | Wyrok
+- 2016-12-21 | SO | [I ACa 786/16](https://www.saos.org.pl/judgments/275842) | Wyrok
+- 2016-12-21 | SO | [I ACa 2074/15](https://www.saos.org.pl/judgments/267556) | Wyrok
+- 2016-11-17 | SO | [I ACa 365/16](https://www.saos.org.pl/judgments/275826) | Wyrok
+- 2016-11-03 | SO | [I ACa 1767/15](https://www.saos.org.pl/judgments/258649) | Wyrok
+- 2016-10-18 | SO | [I ACa 451/16](https://www.saos.org.pl/judgments/267568) | Wyrok
+- 2016-06-08 | SO | [I Ca 216/16](https://www.saos.org.pl/judgments/423825) | Wyrok
+- 2016-04-29 | SO | [I ACa 71/16](https://www.saos.org.pl/judgments/231120) | Wyrok
+- 2016-04-22 | SO | [I ACa 99/16](https://www.saos.org.pl/judgments/231861) | Wyrok
+- 2016-04-08 | SO | [I ACa 1834/15](https://www.saos.org.pl/judgments/220454) | Wyrok
+- 2016-03-17 | SO | [VI ACa 223/15](https://www.saos.org.pl/judgments/223165) | Wyrok
+- 2016-03-03 | SO | [I C 909/14](https://www.saos.org.pl/judgments/415310) | Wyrok
+- 2016-03-02 | SO | [VI ACa 206/15](https://www.saos.org.pl/judgments/224206) | Wyrok
+- 2016-02-15 | SO | [I C 280/14](https://www.saos.org.pl/judgments/262376) | Wyrok
+- 2016-01-05 | SO | [I C 258/12](https://www.saos.org.pl/judgments/415297) | Wyrok
+- 2015-12-18 | SO | [I ACa 290/15](https://www.saos.org.pl/judgments/220456) | Wyrok
+- 2015-12-11 | SO | [I ACa 848/15](https://www.saos.org.pl/judgments/202419) | Wyrok
+- 2015-11-23 | SO | [VI ACa 1622/14](https://www.saos.org.pl/judgments/226764) | Wyrok
+- 2015-10-27 | SO | [I C 732/14](https://www.saos.org.pl/judgments/255848) | Wyrok
+- 2015-06-26 | SO | [I C 878/13](https://www.saos.org.pl/judgments/196777) | Uzasadnienie
+- 2015-05-21 | SO | [I C 676/14](https://www.saos.org.pl/judgments/229376) | Wyrok
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2015-02-09 | SO | [II Ca 1396/14](https://www.saos.org.pl/judgments/150122) | Wyrok
+- 2014-12-12 | SO | [VI ACa 117/14](https://www.saos.org.pl/judgments/130516) | Wyrok
+- 2014-12-05 | SO | [VI ACa 230/14](https://www.saos.org.pl/judgments/134934) | Wyrok
+- 2014-09-24 | SO | [I ACa 326/14](https://www.saos.org.pl/judgments/66118) | Wyrok
+- 2014-08-27 | SO | [IV Ca 138/14](https://www.saos.org.pl/judgments/61527) | Wyrok
+- 2014-07-23 | SO | [I ACa 211/14](https://www.saos.org.pl/judgments/61022) | Wyrok
+- 2014-05-28 | SO | [VI ACa 869/13](https://www.saos.org.pl/judgments/53557) | Wyrok
+- 2014-04-16 | SO | [I C 103/12](https://www.saos.org.pl/judgments/147264) | Wyrok
+- 2014-03-10 | SO | [I C 746/12](https://www.saos.org.pl/judgments/144928) | Wyrok
+- 2014-02-20 | SO | [I ACa 909/13](https://www.saos.org.pl/judgments/44531) | Wyrok
+- 2014-02-20 | SO | [II Ca 975/13](https://www.saos.org.pl/judgments/43179) | Wyrok
+- 2014-02-12 | SO | [I ACa 1544/13](https://www.saos.org.pl/judgments/67977) | Wyrok
+- 2013-12-11 | SO | [I C 747/12](https://www.saos.org.pl/judgments/142247) | Wyrok
+- 2013-09-12 | SO | [I Ca 263/12](https://www.saos.org.pl/judgments/141077) | Wyrok
+- 2013-05-27 | SO | [I ACa 36/13](https://www.saos.org.pl/judgments/14578) | Wyrok
+- 2013-03-26 | SO | [I ACa 1094/12](https://www.saos.org.pl/judgments/16311) | Wyrok
+- 2012-12-20 | SO | [I ACa 679/12](https://www.saos.org.pl/judgments/6833) | Wyrok
+- 2012-12-17 | SO | [V ACa 203/12](https://www.saos.org.pl/judgments/3934) | Wyrok
+- 2012-12-11 | SO | [I ACa 1212/12](https://www.saos.org.pl/judgments/12942) | Wyrok
+- 2012-10-12 | SO | [I ACa 591/12](https://www.saos.org.pl/judgments/5851) | Wyrok
+- 2012-09-26 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111345) | Postanowienie
+- 2012-09-17 | TK | [SK 12/10](https://www.saos.org.pl/judgments/110987) | Postanowienie
+- 2012-06-14 | SO | [I C 385/12](https://www.saos.org.pl/judgments/58788) | Wyrok
+- 2012-05-15 | SO | [I C 695/10](https://www.saos.org.pl/judgments/57985) | Wyrok
+- 2012-04-23 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111343) | Postanowienie
+- 2012-02-13 | SO | [I C 386/11](https://www.saos.org.pl/judgments/58202) | Wyrok
+- 2011-12-14 | TK | [SK 29/09](https://www.saos.org.pl/judgments/110360) | Postanowienie
+- 2011-05-19 | SO | [I ACa 451/11](https://www.saos.org.pl/judgments/25335) | Wyrok
+- 2010-10-28 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110189) | Postanowienie
+- 2010-07-07 | TK | [Ts 341/08](https://www.saos.org.pl/judgments/110188) | Postanowienie
+- 2010-05-06 | SN | [II CSK 640/09](https://www.saos.org.pl/judgments/92176) | Wyrok
+- 2010-04-30 | TK | [Ts 220/08](https://www.saos.org.pl/judgments/206287) | Postanowienie
+- 2009-08-18 | SN | [WSP 4/09](https://www.saos.org.pl/judgments/90760) | Postanowienie
+- 2009-01-27 | SO | [I ACa 1316/08](https://www.saos.org.pl/judgments/20528) | Wyrok
+- 2005-06-28 | SN | [III SPZP 1/05](https://www.saos.org.pl/judgments/83549) | Uchwała
+- 2005-01-19 | SN | [III SPP 115/04](https://www.saos.org.pl/judgments/83154) | Uchwała
+
+## art. 16 (101)
+
+- 2022-03-31 | SO | [II C 715/21](https://www.saos.org.pl/judgments/470043) | Zarządzenie
+- 2022-03-14 | SO | [I C 1891/20](https://www.saos.org.pl/judgments/462410) | Wyrok
+- 2022-02-04 | SO | [III Ca 571/20](https://www.saos.org.pl/judgments/462489) | Uzasadnienie
+- 2021-07-29 | SO | [I ACa 249/20](https://www.saos.org.pl/judgments/447523) | Wyrok
+- 2021-03-30 | SO | [II C 453/20](https://www.saos.org.pl/judgments/436422) | Uzasadnienie
+- 2020-10-14 | SO | [I C 66/20](https://www.saos.org.pl/judgments/428018) | Wyrok
+- 2019-10-31 | SO | [I C 1077/19](https://www.saos.org.pl/judgments/437373) | Wyrok
+- 2019-06-14 | SO | [I ACa 708/18](https://www.saos.org.pl/judgments/419691) | Wyrok
+- 2018-12-06 | SO | [I C 739/18](https://www.saos.org.pl/judgments/367342) | Wyrok
+- 2018-10-23 | SO | [I ACa 97/18](https://www.saos.org.pl/judgments/361767) | Wyrok
+- 2018-09-21 | SO | [I ACa 1552/17](https://www.saos.org.pl/judgments/364274) | Wyrok
+- 2018-07-25 | SO | [XV C 359/17](https://www.saos.org.pl/judgments/381235) | Wyrok
+- 2018-05-24 | SO | [I ACa 590/17](https://www.saos.org.pl/judgments/357717) | Wyrok
+- 2018-04-19 | SO | [IX Ca 431/17](https://www.saos.org.pl/judgments/338197) | Wyrok
+- 2018-01-31 | SO | [I ACa 1484/17](https://www.saos.org.pl/judgments/336268) | Wyrok
+- 2017-06-08 | SO | [VI ACa 255/16](https://www.saos.org.pl/judgments/306401) | Wyrok
+- 2017-05-17 | SO | [I ACa 1481/16](https://www.saos.org.pl/judgments/304268) | Wyrok
+- 2017-04-26 | SO | [I C 1648/16](https://www.saos.org.pl/judgments/323394) | Wyrok
+- 2017-04-05 | SO | [III Ca 1815/16](https://www.saos.org.pl/judgments/290192) | Wyrok
+- 2017-03-15 | SO | [I ACa 2124/15](https://www.saos.org.pl/judgments/307320) | Wyrok
+- 2017-03-08 | SO | [I ACa 1072/16](https://www.saos.org.pl/judgments/285027) | Wyrok
+- 2017-03-01 | SO | [III Ca 1553/16](https://www.saos.org.pl/judgments/279046) | Wyrok
+- 2017-02-02 | SO | [I C 181/16](https://www.saos.org.pl/judgments/425577) | Wyrok
+- 2016-12-21 | SO | [I ACa 786/16](https://www.saos.org.pl/judgments/275842) | Wyrok
+- 2016-12-21 | SO | [I ACa 2074/15](https://www.saos.org.pl/judgments/267556) | Wyrok
+- 2016-12-14 | SO | [I ACa 832/16](https://www.saos.org.pl/judgments/273564) | Wyrok
+- 2016-11-03 | SO | [I ACa 1767/15](https://www.saos.org.pl/judgments/258649) | Wyrok
+- 2016-10-19 | SO | [VI ACa 931/15](https://www.saos.org.pl/judgments/261042) | Wyrok
+- 2016-10-18 | SO | [I ACa 451/16](https://www.saos.org.pl/judgments/267568) | Wyrok
+- 2016-08-05 | SO | [III Ca 70/16](https://www.saos.org.pl/judgments/248873) | Uzasadnienie
+- 2016-07-06 | SO | [I ACa 178/16](https://www.saos.org.pl/judgments/237448) | Wyrok
+- 2016-06-24 | SO | [I ACa 155/16](https://www.saos.org.pl/judgments/240698) | Wyrok
+- 2016-05-19 | SO | [I ACa 1114/15](https://www.saos.org.pl/judgments/235581) | Wyrok
+- 2016-04-08 | SO | [I ACa 1834/15](https://www.saos.org.pl/judgments/220454) | Wyrok
+- 2016-03-03 | SO | [I C 909/14](https://www.saos.org.pl/judgments/415310) | Wyrok
+- 2016-02-15 | SO | [I C 280/14](https://www.saos.org.pl/judgments/262376) | Wyrok
+- 2016-02-10 | SO | [I ACa 957/15](https://www.saos.org.pl/judgments/417692) | Wyrok
+- 2016-01-20 | SO | [I C 638/15](https://www.saos.org.pl/judgments/273792) | Wyrok
+- 2015-12-30 | SO | [I C 256/15](https://www.saos.org.pl/judgments/213280) | Wyrok
+- 2015-09-17 | SO | [I ACa 905/15](https://www.saos.org.pl/judgments/323361) | Wyrok
+- 2015-08-03 | SO | [XXV C 353/14](https://www.saos.org.pl/judgments/228461) | Wyrok
+- 2015-07-08 | SO | [XV C 1020/13](https://www.saos.org.pl/judgments/189296) | Wyrok
+- 2015-06-22 | SO | [III Ca 311/15](https://www.saos.org.pl/judgments/177466) | Uzasadnienie
+- 2015-05-20 | SO | [II Ca 337/15](https://www.saos.org.pl/judgments/298568) | Wyrok
+- 2015-04-17 | SO | [I C 1613/14](https://www.saos.org.pl/judgments/221810) | Wyrok
+- 2015-03-19 | SN | [IV CNP 38/14](https://www.saos.org.pl/judgments/168599) | Wyrok
+- 2014-12-16 | SO | [II Ca 475/14](https://www.saos.org.pl/judgments/296801) | Wyrok
+- 2014-12-12 | SO | [VI ACa 117/14](https://www.saos.org.pl/judgments/130516) | Wyrok
+- 2014-12-05 | SO | [VI ACa 230/14](https://www.saos.org.pl/judgments/134934) | Wyrok
+- 2014-11-13 | SN | [III SPP 227/14](https://www.saos.org.pl/judgments/167331) | Postanowienie
+- 2014-11-13 | SO | [I C 168/14](https://www.saos.org.pl/judgments/74949) | Wyrok
+- 2014-10-31 | SO | [I C 1436/13](https://www.saos.org.pl/judgments/71168) | Wyrok
+- 2014-09-24 | SO | [I ACa 326/14](https://www.saos.org.pl/judgments/66118) | Wyrok
+- 2014-07-23 | SO | [I ACa 211/14](https://www.saos.org.pl/judgments/61022) | Wyrok
+- 2014-07-03 | SO | [I ACa 691/13](https://www.saos.org.pl/judgments/59004) | Wyrok
+- 2014-04-30 | SO | [I ACa 131/14](https://www.saos.org.pl/judgments/45627) | Wyrok
+- 2014-04-16 | SO | [I C 103/12](https://www.saos.org.pl/judgments/147264) | Wyrok
+- 2014-03-25 | SO | [I C 576/09](https://www.saos.org.pl/judgments/224078) | Wyrok
+- 2014-03-10 | SO | [I C 746/12](https://www.saos.org.pl/judgments/144928) | Wyrok
+- 2014-02-24 | SO | [II Ca 1620/13](https://www.saos.org.pl/judgments/42848) | Wyrok
+- 2014-02-12 | SO | [I ACa 1544/13](https://www.saos.org.pl/judgments/67977) | Wyrok
+- 2014-01-24 | SO | [I ACa 1458/13](https://www.saos.org.pl/judgments/72364) | Wyrok
+- 2013-12-30 | SO | [I ACa 630/13](https://www.saos.org.pl/judgments/43081) | Wyrok
+- 2013-12-11 | SO | [I C 1356/12](https://www.saos.org.pl/judgments/142759) | Uzasadnienie
+- 2013-12-11 | SO | [I C 747/12](https://www.saos.org.pl/judgments/142247) | Wyrok
+- 2013-12-05 | SO | [I ACa 555/13](https://www.saos.org.pl/judgments/30108) | Wyrok
+- 2013-12-04 | SO | [I ACa 788/13](https://www.saos.org.pl/judgments/34979) | Wyrok
+- 2013-10-24 | SO | [I ACa 683/13](https://www.saos.org.pl/judgments/386461) | Wyrok
+- 2013-08-13 | SO | [I ACa 358/13](https://www.saos.org.pl/judgments/29385) | Wyrok
+- 2013-06-21 | SO | [I ACa 9/13](https://www.saos.org.pl/judgments/19859) | Wyrok
+- 2013-06-13 | SO | [I ACa 364/13](https://www.saos.org.pl/judgments/17559) | Wyrok
+- 2013-05-24 | SO | [I ACa 261/13](https://www.saos.org.pl/judgments/14233) | Wyrok
+- 2013-03-22 | SO | [I ACa 171/13](https://www.saos.org.pl/judgments/10466) | Wyrok
+- 2013-02-01 | SO | [I ACa 880/12](https://www.saos.org.pl/judgments/6848) | Wyrok
+- 2013-01-31 | TK | [Ts 158/11](https://www.saos.org.pl/judgments/111886) | Postanowienie
+- 2013-01-30 | SO | [IX C 612/11](https://www.saos.org.pl/judgments/52840) | Wyrok
+- 2012-12-12 | SO | [I ACa 700/12](https://www.saos.org.pl/judgments/26544) | Wyrok
+- 2012-12-11 | SO | [I ACa 1212/12](https://www.saos.org.pl/judgments/12942) | Wyrok
+- 2012-11-28 | SO | [I ACa 436/12](https://www.saos.org.pl/judgments/4735) | Wyrok
+- 2012-10-17 | SO | [I ACa 426/12](https://www.saos.org.pl/judgments/6943) | Wyrok
+- 2012-10-12 | SO | [I ACa 591/12](https://www.saos.org.pl/judgments/5851) | Wyrok
+- 2012-09-27 | SO | [V ACa 747/12](https://www.saos.org.pl/judgments/425519) | Wyrok
+- 2012-09-26 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111345) | Postanowienie
+- 2012-09-25 | SO | [I ACa 844/12](https://www.saos.org.pl/judgments/7667) | Wyrok
+- 2012-09-06 | SO | [I ACa 312/12](https://www.saos.org.pl/judgments/5780) | Wyrok
+- 2012-06-14 | SO | [I C 385/12](https://www.saos.org.pl/judgments/58788) | Wyrok
+- 2012-04-23 | TK | [Ts 217/10](https://www.saos.org.pl/judgments/111343) | Postanowienie
+- 2012-02-13 | TK | [P 5/09](https://www.saos.org.pl/judgments/110934) | Postanowienie
+- 2012-02-13 | SO | [I C 386/11](https://www.saos.org.pl/judgments/58202) | Wyrok
+- 2011-12-02 | SO | [I C 402/11](https://www.saos.org.pl/judgments/58203) | Wyrok
+- 2011-05-19 | SO | [I ACa 451/11](https://www.saos.org.pl/judgments/25335) | Wyrok
+- 2011-02-24 | SO | [I ACa 1444/10](https://www.saos.org.pl/judgments/42140) | Wyrok
+- 2011-02-24 | SO | [I ACa 1447/10](https://www.saos.org.pl/judgments/26813) | Wyrok
+- 2011-02-23 | SO | [I ACa 1463/10](https://www.saos.org.pl/judgments/42141) | Wyrok
+- 2010-12-08 | SO | [I ACa 881/10](https://www.saos.org.pl/judgments/25480) | Wyrok
+- 2010-05-06 | SN | [II CSK 640/09](https://www.saos.org.pl/judgments/92176) | Wyrok
+- 2010-02-19 | SO | [I ACa 12/10](https://www.saos.org.pl/judgments/26655) | Wyrok
+- 2008-10-30 | SO | [I ACa 620/07](https://www.saos.org.pl/judgments/366) | Wyrok
+- 2008-06-27 | SN | [III CZP 25/08](https://www.saos.org.pl/judgments/88343) | Postanowienie
+- 2007-10-17 | SN | [II CSK 246/07](https://www.saos.org.pl/judgments/164910) | Wyrok
+- 2005-01-19 | SN | [III SPP 115/04](https://www.saos.org.pl/judgments/83154) | Uchwała
+
+## art. 17 (131)
+
+- 2023-02-21 | SO | [III S 190/22](https://www.saos.org.pl/judgments/485000) | Postanowienie
+- 2022-12-29 | SO | [II S 35/22](https://www.saos.org.pl/judgments/480622) | Postanowienie
+- 2022-09-19 | SO | [II S 24/22](https://www.saos.org.pl/judgments/480612) | Postanowienie
+- 2022-06-06 | SO | [II S 17/22](https://www.saos.org.pl/judgments/471763) | Postanowienie
+- 2022-03-24 | SO | [II S 15/22](https://www.saos.org.pl/judgments/469870) | Postanowienie
+- 2022-03-23 | SO | [II S 12/22](https://www.saos.org.pl/judgments/463266) | Postanowienie
+- 2022-03-09 | SO | [II S 4/22](https://www.saos.org.pl/judgments/463276) | Postanowienie
+- 2022-02-28 | SO | [II S 5/22](https://www.saos.org.pl/judgments/463278) | Postanowienie
+- 2022-01-25 | SO | [II S 28/21](https://www.saos.org.pl/judgments/461808) | Postanowienie
+- 2021-06-16 | SO | [II S 10/21](https://www.saos.org.pl/judgments/444232) | Postanowienie
+- 2021-03-31 | SO | [II S 2/21](https://www.saos.org.pl/judgments/444240) | Postanowienie
+- 2021-03-01 | SO | [II S 5/21](https://www.saos.org.pl/judgments/444242) | Postanowienie
+- 2020-01-20 | SO | [II S 534/19](https://www.saos.org.pl/judgments/414532) | Postanowienie
+- 2020-01-20 | SO | [II S 493/19](https://www.saos.org.pl/judgments/414530) | Postanowienie
+- 2020-01-08 | SO | [II S 89/19](https://www.saos.org.pl/judgments/417891) | Postanowienie
+- 2019-11-25 | SO | [II S 389/19](https://www.saos.org.pl/judgments/401940) | Postanowienie
+- 2019-10-15 | SO | [II S 304/19](https://www.saos.org.pl/judgments/401927) | Postanowienie
+- 2019-10-10 | SO | [II S 373/19](https://www.saos.org.pl/judgments/401936) | Postanowienie
+- 2019-09-04 | SO | [II S 249/19](https://www.saos.org.pl/judgments/401918) | Postanowienie
+- 2019-08-02 | SO | [I S 82/19](https://www.saos.org.pl/judgments/417082) | Postanowienie
+- 2019-07-15 | SO | [II S 229/19](https://www.saos.org.pl/judgments/401915) | Postanowienie
+- 2019-04-18 | SO | [II S 106/19](https://www.saos.org.pl/judgments/402071) | Postanowienie
+- 2019-03-15 | SO | [I S 5/19](https://www.saos.org.pl/judgments/417075) | Postanowienie
+- 2019-02-25 | SO | [II S 19/19](https://www.saos.org.pl/judgments/401748) | Postanowienie
+- 2019-02-25 | SO | [II S 1/19](https://www.saos.org.pl/judgments/378400) | Postanowienie
+- 2019-02-22 | SO | [II S 325/18](https://www.saos.org.pl/judgments/401271) | Postanowienie
+- 2019-01-29 | SO | [II S 3/19](https://www.saos.org.pl/judgments/368717) | Postanowienie
+- 2018-10-10 | SO | [I S 150/18](https://www.saos.org.pl/judgments/417066) | Postanowienie
+- 2018-05-22 | SO | [II S 21/18](https://www.saos.org.pl/judgments/341900) | Postanowienie
+- 2018-03-13 | SO | [II S 12/18](https://www.saos.org.pl/judgments/333211) | Postanowienie
+- 2018-02-27 | SO | [II S 1/18](https://www.saos.org.pl/judgments/333210) | Postanowienie
+- 2018-01-24 | SO | [I S 115/17](https://www.saos.org.pl/judgments/417062) | Postanowienie
+- 2017-11-16 | SO | [VII S 25/17](https://www.saos.org.pl/judgments/330354) | Postanowienie
+- 2017-11-08 | SO | [I S 77/17](https://www.saos.org.pl/judgments/417081) | Postanowienie
+- 2017-10-03 | SO | [V S 26/17](https://www.saos.org.pl/judgments/413715) | Postanowienie
+- 2017-10-03 | SO | [V S 26/17](https://www.saos.org.pl/judgments/307510) | Postanowienie
+- 2017-09-11 | SO | [II S 18/17](https://www.saos.org.pl/judgments/305609) | Postanowienie
+- 2017-08-30 | SO | [I S 54/17](https://www.saos.org.pl/judgments/309696) | Postanowienie
+- 2017-07-18 | SO | [II S 16/17](https://www.saos.org.pl/judgments/293141) | Postanowienie
+- 2017-07-18 | SO | [II S 15/17](https://www.saos.org.pl/judgments/293140) | Postanowienie
+- 2017-07-18 | SO | [II S 14/17](https://www.saos.org.pl/judgments/293139) | Postanowienie
+- 2017-07-18 | SO | [II S 13/17](https://www.saos.org.pl/judgments/293138) | Postanowienie
+- 2017-06-28 | SO | [II S 7/17](https://www.saos.org.pl/judgments/293142) | Zarządzenie
+- 2017-06-07 | SO | [II S 5/17](https://www.saos.org.pl/judgments/290099) | Postanowienie
+- 2017-06-07 | SO | [II S 4/17](https://www.saos.org.pl/judgments/290098) | Postanowienie
+- 2017-06-07 | SO | [II S 3/17](https://www.saos.org.pl/judgments/290097) | Postanowienie
+- 2017-02-28 | SO | [I S 1/17](https://www.saos.org.pl/judgments/276124) | Postanowienie
+- 2016-12-28 | SO | [II S 295/16](https://www.saos.org.pl/judgments/416799) | Postanowienie
+- 2016-09-26 | SO | [II S 231/16](https://www.saos.org.pl/judgments/416038) | Postanowienie
+- 2016-08-12 | SO | [II S 188/16](https://www.saos.org.pl/judgments/415425) | Postanowienie
+- 2016-06-30 | SO | [II S 19/16](https://www.saos.org.pl/judgments/233533) | Postanowienie
+- 2016-06-28 | SO | [III S 107/16](https://www.saos.org.pl/judgments/233570) | Postanowienie
+- 2016-06-06 | SO | [II S 16/16](https://www.saos.org.pl/judgments/280805) | Postanowienie
+- 2016-06-06 | SO | [II S 14/16](https://www.saos.org.pl/judgments/231363) | Postanowienie
+- 2016-05-31 | SO | [III S 69/16](https://www.saos.org.pl/judgments/231974) | Postanowienie
+- 2016-04-27 | SO | [II S 13/16](https://www.saos.org.pl/judgments/225119) | Postanowienie
+- 2016-04-26 | SO | [III S 45/16](https://www.saos.org.pl/judgments/219853) | Postanowienie
+- 2016-04-20 | SO | [III S 53/16](https://www.saos.org.pl/judgments/219854) | Postanowienie
+- 2016-04-07 | SO | [VII S 7/16](https://www.saos.org.pl/judgments/218760) | Postanowienie
+- 2016-03-30 | SO | [I S 17/16](https://www.saos.org.pl/judgments/219161) | Postanowienie
+- 2016-03-30 | SO | [III S 37/16](https://www.saos.org.pl/judgments/215430) | Postanowienie
+- 2015-12-29 | SO | [III S 211/15](https://www.saos.org.pl/judgments/210383) | Postanowienie
+- 2015-12-08 | SO | [III S 216/15](https://www.saos.org.pl/judgments/210385) | Postanowienie
+- 2015-12-02 | SO | [II S 24/15](https://www.saos.org.pl/judgments/197667) | Postanowienie
+- 2015-11-03 | SO | [III S 187/15](https://www.saos.org.pl/judgments/185942) | Postanowienie
+- 2015-10-13 | SO | [III S 121/15](https://www.saos.org.pl/judgments/185925) | Postanowienie
+- 2015-09-23 | SO | [II S 20/15](https://www.saos.org.pl/judgments/184030) | Postanowienie
+- 2015-07-08 | SN | [KSP 6/15](https://www.saos.org.pl/judgments/242995) | Postanowienie
+- 2015-06-30 | SO | [III S 100/15](https://www.saos.org.pl/judgments/159781) | Postanowienie
+- 2015-06-25 | SO | [I S 48/15](https://www.saos.org.pl/judgments/169317) | Postanowienie
+- 2015-06-18 | SO | [II S 12/15](https://www.saos.org.pl/judgments/156365) | Postanowienie
+- 2015-06-16 | SO | [III S 68/15](https://www.saos.org.pl/judgments/185967) | Postanowienie
+- 2015-06-16 | SO | [III S 67/15](https://www.saos.org.pl/judgments/185966) | Postanowienie
+- 2015-06-02 | SO | [III S 80/15](https://www.saos.org.pl/judgments/185970) | Postanowienie
+- 2015-02-24 | SO | [III S 21/15](https://www.saos.org.pl/judgments/185951) | Postanowienie
+- 2015-02-03 | SO | [III S 233/14](https://www.saos.org.pl/judgments/185957) | Postanowienie
+- 2015-02-03 | SO | [III S 1/15](https://www.saos.org.pl/judgments/185919) | Postanowienie
+- 2015-01-13 | SO | [III S 220/14](https://www.saos.org.pl/judgments/185953) | Postanowienie
+- 2015-01-08 | SO | [III S 235/14](https://www.saos.org.pl/judgments/185958) | Postanowienie
+- 2014-11-19 | SO | [II S 160/14](https://www.saos.org.pl/judgments/72984) | Postanowienie
+- 2014-11-04 | SO | [III S 171/14](https://www.saos.org.pl/judgments/125474) | Postanowienie
+- 2014-09-19 | SO | [II S 29/14](https://www.saos.org.pl/judgments/61596) | Postanowienie
+- 2014-09-02 | SO | [III S 82/14](https://www.saos.org.pl/judgments/67873) | Postanowienie
+- 2014-06-24 | SO | [III S 90/14](https://www.saos.org.pl/judgments/69814) | Postanowienie
+- 2014-06-11 | SO | [II S 19/14](https://www.saos.org.pl/judgments/128333) | Postanowienie
+- 2014-05-28 | SO | [III S 66/14](https://www.saos.org.pl/judgments/130145) | Postanowienie
+- 2014-05-26 | SO | [II Cs 41/14](https://www.saos.org.pl/judgments/63076) | Postanowienie
+- 2014-05-15 | SO | [II Cs 24/14](https://www.saos.org.pl/judgments/63075) | Postanowienie
+- 2014-05-06 | SO | [III S 64/14](https://www.saos.org.pl/judgments/59919) | Postanowienie
+- 2014-04-16 | SO | [II S 17/14](https://www.saos.org.pl/judgments/47394) | Postanowienie
+- 2014-04-14 | SO | [II S 16/14](https://www.saos.org.pl/judgments/44884) | Postanowienie
+- 2014-04-08 | SO | [III S 43/14](https://www.saos.org.pl/judgments/130143) | Postanowienie
+- 2014-04-01 | SO | [III S 40/14](https://www.saos.org.pl/judgments/130142) | Postanowienie
+- 2014-03-18 | SO | [III S 14/14](https://www.saos.org.pl/judgments/185929) | Postanowienie
+- 2014-03-18 | SO | [III S 39/14](https://www.saos.org.pl/judgments/130141) | Postanowienie
+- 2014-03-11 | SN | [WSP 1/14](https://www.saos.org.pl/judgments/104702) | Postanowienie
+- 2014-02-13 | SO | [II S 4/14](https://www.saos.org.pl/judgments/128334) | Postanowienie
+- 2013-12-19 | SO | [I S 126/13](https://www.saos.org.pl/judgments/142961) | Postanowienie
+- 2013-12-04 | SO | [II S 30/13](https://www.saos.org.pl/judgments/28763) | Postanowienie
+- 2013-12-03 | SO | [II S 104/13](https://www.saos.org.pl/judgments/35431) | Postanowienie
+- 2013-11-20 | SO | [II S 32/13](https://www.saos.org.pl/judgments/26444) | Postanowienie
+- 2013-08-28 | SN | [WSP 6/13](https://www.saos.org.pl/judgments/102760) | Postanowienie
+- 2013-08-13 | SO | [II S 20/13](https://www.saos.org.pl/judgments/18667) | Postanowienie
+- 2013-07-10 | SO | [II S 53/13](https://www.saos.org.pl/judgments/16631) | Postanowienie
+- 2013-05-09 | SO | [II S 16/13](https://www.saos.org.pl/judgments/14884) | Postanowienie
+- 2013-05-09 | SO | [II S 15/13](https://www.saos.org.pl/judgments/14883) | Postanowienie
+- 2013-04-17 | SO | [II S 13/13](https://www.saos.org.pl/judgments/14881) | Postanowienie
+- 2013-02-26 | SO | [II S 7/13](https://www.saos.org.pl/judgments/6354) | Postanowienie
+- 2013-01-25 | SO | [II S 26/12](https://www.saos.org.pl/judgments/6175) | Postanowienie
+- 2013-01-15 | SO | [I S 173/12](https://www.saos.org.pl/judgments/139313) | Postanowienie
+- 2012-11-07 | SO | [II S 28/12](https://www.saos.org.pl/judgments/150) | Postanowienie
+- 2012-10-09 | SO | [II S 58/12](https://www.saos.org.pl/judgments/1153) | Postanowienie
+- 2012-09-20 | SO | [II S 38/12](https://www.saos.org.pl/judgments/1152) | Postanowienie
+- 2012-09-10 | SO | [I S 86/12](https://www.saos.org.pl/judgments/135528) | Postanowienie
+- 2012-09-04 | SO | [I S 83/12](https://www.saos.org.pl/judgments/135526) | Postanowienie
+- 2012-08-22 | SO | [I S 67/12](https://www.saos.org.pl/judgments/135523) | Postanowienie
+- 2012-07-04 | SN | [KSP 7/12](https://www.saos.org.pl/judgments/98578) | Postanowienie
+- 2012-07-02 | SO | [I S 22/12](https://www.saos.org.pl/judgments/136041) | Postanowienie
+- 2012-03-12 | SO | [II S 5/12](https://www.saos.org.pl/judgments/1365) | Postanowienie
+- 2011-05-31 | SO | [I S 12/11](https://www.saos.org.pl/judgments/429802) | Postanowienie
+- 2010-04-21 | TK | [Ts 278/09](https://www.saos.org.pl/judgments/110132) | Postanowienie
+- 2009-12-29 | TK | [Ts 278/09](https://www.saos.org.pl/judgments/109474) | Postanowienie
+- 2006-10-31 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107817) | Postanowienie
+- 2006-09-06 | SN | [III SPZP 2/06](https://www.saos.org.pl/judgments/84536) | Uchwała
+- 2005-11-09 | TK | [Ts 89/05](https://www.saos.org.pl/judgments/107376) | Postanowienie
+- 2005-06-03 | SN | [III SPP 107/05](https://www.saos.org.pl/judgments/83457) | Postanowienie
+- 2005-03-31 | SN | [IV KZ 9/05](https://www.saos.org.pl/judgments/83308) | Postanowienie
+- 2005-02-18 | SN | [III SPP 19/05](https://www.saos.org.pl/judgments/83230) | Postanowienie
+- 2005-02-04 | SN | [III SPP 11/05](https://www.saos.org.pl/judgments/83192) | Postanowienie
+- 2005-01-19 | SN | [III SPP 109/04](https://www.saos.org.pl/judgments/83152) | Uchwała
+- 2004-11-17 | SN | [III SPP 21/04](https://www.saos.org.pl/judgments/82994) | Postanowienie
+
+## art. 18 (4)
+
+- 2014-07-01 | TK | [Ts 56/14](https://www.saos.org.pl/judgments/160253) | Postanowienie
+- 2013-01-31 | TK | [Ts 292/10](https://www.saos.org.pl/judgments/112065) | Postanowienie
+- 2007-10-17 | SN | [II CSK 246/07](https://www.saos.org.pl/judgments/164910) | Wyrok
+- 2005-11-17 | SN | [IV CSP 1/05](https://www.saos.org.pl/judgments/163750) | Postanowienie
+
+## art. 45 (1)
+
+- 2005-08-29 | SN | [SNO 41/05](https://www.saos.org.pl/judgments/83699) | Postanowienie
+
+## art. 77 (2)
+
+- 2018-04-24 | SO | [I C 884/17](https://www.saos.org.pl/judgments/341547) | Wyrok
+- 2011-05-10 | TK | [Ts 150/10](https://www.saos.org.pl/judgments/110595) | Postanowienie
+
+## art. 78 (1)
+
+- 2011-05-10 | TK | [Ts 150/10](https://www.saos.org.pl/judgments/110595) | Postanowienie
+
+## art. 128 (1)
+
+- 2023-02-21 | SO | [III S 8/23](https://www.saos.org.pl/judgments/485774) | Postanowienie
+
+## art. 176 (1)
+
+- 2011-05-10 | TK | [Ts 150/10](https://www.saos.org.pl/judgments/110595) | Postanowienie
+
+## art. 177 § 1 (2)
+
+- 2014-12-16 | SN | [SNO 58/14](https://www.saos.org.pl/judgments/167753) | Wyrok
+- 2007-08-10 | SN | [III SPP 33/07](https://www.saos.org.pl/judgments/86442) | Postanowienie
+
+## art. 355 § 1 (1)
+
+- 2008-01-09 | SN | [III SPZP 1/07](https://www.saos.org.pl/judgments/87008) | Uchwała
+
+## art. 386 § 3 (1)
+
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+
+## art. 390 § 1 (1)
+
+- 2006-06-21 | SN | [III SPZP 1/06](https://www.saos.org.pl/judgments/84406) | Uchwała
+
+## art. 394(1) § 3 (1)
+
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+
+## art. 398(1) § 1 (1)
+
+- 2006-07-21 | SN | [III CZ 42/06](https://www.saos.org.pl/judgments/164421) | Postanowienie
+
+## art. 398(4) § 1 (1)
+
+- 2006-06-07 | SN | [III CSP 1/06](https://www.saos.org.pl/judgments/164355) | Postanowienie
+
+## art. 398(21) (1)
+
+- 2009-03-27 | SN | [I CSP 1/09](https://www.saos.org.pl/judgments/89925) | Postanowienie
+
+## art. 417 (1)
+
+- 2014-05-13 | SO | [I ACa 223/14](https://www.saos.org.pl/judgments/50434) | Wyrok
+
+## art. 430 (1)
+
+- 2017-10-25 | SO | [II S 23/17](https://www.saos.org.pl/judgments/310213) | Postanowienie
+
+## art. 430 § 1 (1)
+
+- 2017-10-25 | SO | [II S 23/17](https://www.saos.org.pl/judgments/310213) | Postanowienie
+
+## (ogólnie) (213)
+
+- 2024-02-29 | SO | [I C 1856/21](https://www.saos.org.pl/judgments/496474) | Wyrok
+- 2023-10-02 | SO | [II S 10/23](https://www.saos.org.pl/judgments/504320) | Uzasadnienie
+- 2022-04-06 | SO | [III AUa 428/21](https://www.saos.org.pl/judgments/474977) | Wyrok
+- 2021-11-25 | SO | [III AUa 636/21](https://www.saos.org.pl/judgments/459848) | Wyrok
+- 2021-11-25 | SO | [III AUa 855/21](https://www.saos.org.pl/judgments/456323) | Uzasadnienie
+- 2021-11-10 | SO | [III AUa 806/21](https://www.saos.org.pl/judgments/454213) | Wyrok
+- 2021-11-05 | SO | [III AUa 713/21](https://www.saos.org.pl/judgments/454209) | Uzasadnienie
+- 2021-10-28 | SO | [III AUa 724/21](https://www.saos.org.pl/judgments/454210) | Wyrok
+- 2021-10-05 | SO | [III AUa 613/21](https://www.saos.org.pl/judgments/451291) | Wyrok
+- 2021-09-29 | SO | [III AUa 676/21](https://www.saos.org.pl/judgments/451296) | Uzasadnienie
+- 2021-07-29 | SO | [III AUa 446/21](https://www.saos.org.pl/judgments/446895) | Wyrok
+- 2021-07-07 | SO | [III AUa 457/21](https://www.saos.org.pl/judgments/454845) | Wyrok
+- 2021-06-22 | SO | [III AUa 380/21](https://www.saos.org.pl/judgments/451284) | Wyrok
+- 2021-05-06 | SO | [III AUa 862/20](https://www.saos.org.pl/judgments/440488) | Wyrok
+- 2021-05-05 | SO | [III AUa 841/20](https://www.saos.org.pl/judgments/440486) | Wyrok
+- 2021-04-20 | SO | [III AUa 824/20](https://www.saos.org.pl/judgments/440484) | Wyrok
+- 2021-03-26 | SO | [I C 281/20](https://www.saos.org.pl/judgments/440184) | Wyrok
+- 2021-02-03 | SO | [IX Kz 1111/20](https://www.saos.org.pl/judgments/435069) | Postanowienie
+- 2021-01-15 | SO | [II Ca 452/20](https://www.saos.org.pl/judgments/439689) | Wyrok
+- 2020-11-27 | SO | [I ACa 309/20](https://www.saos.org.pl/judgments/433073) | Wyrok
+- 2020-10-16 | SO | [II S 47/20](https://www.saos.org.pl/judgments/427602) | Postanowienie
+- 2020-04-23 | SO | [III S 2/20](https://www.saos.org.pl/judgments/427961) | Postanowienie
+- 2020-02-27 | SO | [VI ACa 446/19](https://www.saos.org.pl/judgments/415443) | Wyrok
+- 2020-02-18 | SO | [I ACa 472/19](https://www.saos.org.pl/judgments/456924) | Wyrok
+- 2019-12-02 | SO | [III AUz 153/19](https://www.saos.org.pl/judgments/404693) | Postanowienie
+- 2019-11-29 | SO | [III AUz 151/19](https://www.saos.org.pl/judgments/404691) | Postanowienie
+- 2019-11-28 | SO | [III AUz 152/19](https://www.saos.org.pl/judgments/404692) | Postanowienie
+- 2019-11-25 | SO | [III AUz 162/19](https://www.saos.org.pl/judgments/404694) | Postanowienie
+- 2019-11-25 | SO | [III AUz 150/19](https://www.saos.org.pl/judgments/404690) | Postanowienie
+- 2019-11-21 | SO | [III AUz 149/19](https://www.saos.org.pl/judgments/404689) | Postanowienie
+- 2019-11-15 | SO | [III AUz 146/19](https://www.saos.org.pl/judgments/404687) | Postanowienie
+- 2019-11-05 | SO | [III AUz 131/19](https://www.saos.org.pl/judgments/404685) | Postanowienie
+- 2019-11-05 | SO | [III AUz 126/19](https://www.saos.org.pl/judgments/404682) | Postanowienie
+- 2019-10-30 | SO | [III AUz 132/19](https://www.saos.org.pl/judgments/404686) | Postanowienie
+- 2019-10-29 | SO | [III AUz 130/19](https://www.saos.org.pl/judgments/404684) | Postanowienie
+- 2019-10-29 | SO | [III AUz 129/19](https://www.saos.org.pl/judgments/404683) | Postanowienie
+- 2019-10-24 | SO | [III AUz 122/19](https://www.saos.org.pl/judgments/404680) | Postanowienie
+- 2019-10-24 | SO | [III AUz 121/19](https://www.saos.org.pl/judgments/404679) | Postanowienie
+- 2019-10-22 | SO | [III AUz 123/19](https://www.saos.org.pl/judgments/404681) | Postanowienie
+- 2019-10-17 | SO | [III AUz 120/19](https://www.saos.org.pl/judgments/404678) | Postanowienie
+- 2019-10-17 | SO | [III AUz 119/19](https://www.saos.org.pl/judgments/404677) | Postanowienie
+- 2019-10-17 | SO | [III AUz 118/19](https://www.saos.org.pl/judgments/404676) | Postanowienie
+- 2019-10-17 | SO | [III AUz 117/19](https://www.saos.org.pl/judgments/404675) | Postanowienie
+- 2019-10-16 | SO | [III AUz 113/19](https://www.saos.org.pl/judgments/404674) | Postanowienie
+- 2019-10-14 | SO | [III AUz 112/19](https://www.saos.org.pl/judgments/404673) | Postanowienie
+- 2019-10-07 | SO | [III AUz 107/19](https://www.saos.org.pl/judgments/404672) | Postanowienie
+- 2019-09-19 | SO | [III AUz 105/19](https://www.saos.org.pl/judgments/404671) | Postanowienie
+- 2019-09-10 | SO | [V S 36/19](https://www.saos.org.pl/judgments/413720) | Postanowienie
+- 2019-09-10 | SO | [III AUz 103/19](https://www.saos.org.pl/judgments/404670) | Postanowienie
+- 2019-08-29 | SO | [V S 40/19](https://www.saos.org.pl/judgments/413724) | Postanowienie
+- 2019-08-26 | SO | [II S 267/19](https://www.saos.org.pl/judgments/401921) | Postanowienie
+- 2019-08-21 | SO | [III AUz 89/19](https://www.saos.org.pl/judgments/404710) | Postanowienie
+- 2019-08-21 | SO | [III AUz 86/19](https://www.saos.org.pl/judgments/404709) | Postanowienie
+- 2019-07-10 | SO | [III AUz 73/19](https://www.saos.org.pl/judgments/404707) | Postanowienie
+- 2019-07-10 | SO | [III AUz 69/19](https://www.saos.org.pl/judgments/404704) | Postanowienie
+- 2019-07-03 | SO | [V S 17/19](https://www.saos.org.pl/judgments/413712) | Postanowienie
+- 2019-06-26 | SO | [III AUz 64/19](https://www.saos.org.pl/judgments/404703) | Postanowienie
+- 2019-06-25 | SO | [III AUz 70/19](https://www.saos.org.pl/judgments/404705) | Postanowienie
+- 2019-06-13 | SO | [I C 395/17](https://www.saos.org.pl/judgments/390596) | Wyrok
+- 2019-06-07 | SO | [III AUz 57/19](https://www.saos.org.pl/judgments/404702) | Postanowienie
+- 2019-06-05 | SO | [I Ca 198/19](https://www.saos.org.pl/judgments/385303) | Wyrok
+- 2019-05-27 | SO | [II S 205/19](https://www.saos.org.pl/judgments/401909) | Postanowienie
+- 2019-05-27 | SO | [II S 204/19](https://www.saos.org.pl/judgments/401908) | Postanowienie
+- 2019-05-24 | SO | [III AUz 43/19](https://www.saos.org.pl/judgments/404701) | Postanowienie
+- 2019-05-22 | SO | [V S 7/19](https://www.saos.org.pl/judgments/413732) | Postanowienie
+- 2019-05-16 | SO | [II S 76/19](https://www.saos.org.pl/judgments/401962) | Postanowienie
+- 2019-05-13 | SO | [II S 63/19](https://www.saos.org.pl/judgments/401958) | Postanowienie
+- 2019-02-05 | SO | [II S 378/18](https://www.saos.org.pl/judgments/401755) | Postanowienie
+- 2018-10-17 | SO | [V ACa 869/17](https://www.saos.org.pl/judgments/382294) | Wyrok
+- 2018-10-15 | SO | [II S 47/18](https://www.saos.org.pl/judgments/363429) | Zarządzenie
+- 2018-10-03 | SO | [V S 37/18](https://www.saos.org.pl/judgments/413721) | Postanowienie
+- 2018-09-14 | SO | [VI ACa 604/17](https://www.saos.org.pl/judgments/381695) | Wyrok
+- 2018-08-29 | SO | [I ACa 994/17](https://www.saos.org.pl/judgments/426734) | Wyrok
+- 2018-07-12 | SO | [V S 23/18](https://www.saos.org.pl/judgments/413714) | Postanowienie
+- 2018-07-09 | SO | [V S 22/18](https://www.saos.org.pl/judgments/413713) | Postanowienie
+- 2018-05-25 | SO | [XXV C 2340/17](https://www.saos.org.pl/judgments/419299) | Wyrok
+- 2018-05-15 | SO | [II S 5/18](https://www.saos.org.pl/judgments/341581) | Postanowienie
+- 2018-05-08 | SO | [II S 4/18](https://www.saos.org.pl/judgments/341757) | Postanowienie
+- 2018-04-11 | SO | [XXV C 2518/17](https://www.saos.org.pl/judgments/341703) | Wyrok
+- 2018-03-28 | SO | [XXV C 13/17](https://www.saos.org.pl/judgments/341697) | Wyrok
+- 2018-02-27 | SO | [II S 38/17](https://www.saos.org.pl/judgments/335984) | Postanowienie
+- 2018-02-26 | SO | [V S 8/18](https://www.saos.org.pl/judgments/413733) | Postanowienie
+- 2017-12-29 | SO | [I C 927/17](https://www.saos.org.pl/judgments/328142) | Wyrok
+- 2017-11-23 | SO | [I ACa 625/17](https://www.saos.org.pl/judgments/417041) | Wyrok
+- 2017-11-15 | SO | [VI ACa 1128/16](https://www.saos.org.pl/judgments/335246) | Wyrok
+- 2017-10-03 | SO | [II S 24/17](https://www.saos.org.pl/judgments/309742) | Postanowienie
+- 2017-09-06 | SO | [V S 30/17](https://www.saos.org.pl/judgments/413718) | Postanowienie
+- 2017-08-25 | SO | [I ACa 1236/15](https://www.saos.org.pl/judgments/319000) | Wyrok
+- 2017-06-19 | SO | [I C 45/17](https://www.saos.org.pl/judgments/291011) | Wyrok
+- 2017-06-01 | SO | [I ACa 85/17](https://www.saos.org.pl/judgments/304391) | Wyrok
+- 2017-05-12 | SO | [I ACa 1476/16](https://www.saos.org.pl/judgments/288877) | Wyrok
+- 2017-05-09 | SO | [I ACa 1006/16](https://www.saos.org.pl/judgments/295418) | Wyrok
+- 2017-04-27 | SO | [V Ka 87/17](https://www.saos.org.pl/judgments/288185) | Uzasadnienie
+- 2017-04-26 | SO | [I ACa 1403/16](https://www.saos.org.pl/judgments/283366) | Wyrok
+- 2017-04-12 | SO | [II C 1378/15](https://www.saos.org.pl/judgments/375310) | Wyrok
+- 2017-03-16 | SO | [I Ca 334/16](https://www.saos.org.pl/judgments/280630) | Wyrok
+- 2017-02-21 | SO | [XVIII C 340/16](https://www.saos.org.pl/judgments/284160) | Wyrok
+- 2017-02-15 | SO | [V Ka 1245/16](https://www.saos.org.pl/judgments/281022) | Uzasadnienie
+- 2017-01-31 | SO | [I ACa 980/16](https://www.saos.org.pl/judgments/273609) | Wyrok
+- 2017-01-25 | SO | [I S 5/17](https://www.saos.org.pl/judgments/276125) | Postanowienie
+- 2017-01-23 | SO | [IV Ka 1014/16](https://www.saos.org.pl/judgments/272269) | Wyrok
+- 2017-01-05 | SO | [V S 42/16](https://www.saos.org.pl/judgments/268130) | Postanowienie
+- 2016-11-28 | SO | [V Ka 1354/16](https://www.saos.org.pl/judgments/268811) | Uzasadnienie
+- 2016-10-20 | SO | [I ACa 420/16](https://www.saos.org.pl/judgments/267564) | Wyrok
+- 2016-10-17 | SO | [I C 2583/14](https://www.saos.org.pl/judgments/303208) | Wyrok
+- 2016-10-13 | SO | [I C 596/12](https://www.saos.org.pl/judgments/355553) | Uzasadnienie
+- 2016-08-19 | SO | [II S 193/16](https://www.saos.org.pl/judgments/415524) | Postanowienie
+- 2016-08-19 | SO | [XXV C 1730/14](https://www.saos.org.pl/judgments/252248) | Wyrok
+- 2016-08-02 | SO | [III S 134/16](https://www.saos.org.pl/judgments/241225) | Postanowienie
+- 2016-08-02 | SO | [III S 133/16](https://www.saos.org.pl/judgments/241224) | Postanowienie
+- 2016-08-02 | SO | [III S 132/16](https://www.saos.org.pl/judgments/241223) | Postanowienie
+- 2016-08-02 | SO | [III S 131/16](https://www.saos.org.pl/judgments/241222) | Postanowienie
+- 2016-07-14 | SO | [I C 494/15](https://www.saos.org.pl/judgments/245935) | Wyrok
+- 2016-06-09 | SO | [XVIII C 1482/15](https://www.saos.org.pl/judgments/233881) | Wyrok
+- 2016-05-18 | SO | [I ACa 62/16](https://www.saos.org.pl/judgments/228730) | Wyrok
+- 2016-05-16 | SO | [II S 20/16](https://www.saos.org.pl/judgments/233302) | Postanowienie
+- 2016-05-09 | SO | [I C 1046/15](https://www.saos.org.pl/judgments/266070) | Zarządzenie
+- 2016-05-06 | SO | [IV Ka 189/16](https://www.saos.org.pl/judgments/227736) | Uzasadnienie
+- 2016-04-27 | SO | [II C 1607/14](https://www.saos.org.pl/judgments/228075) | Uzasadnienie
+- 2016-04-05 | SO | [II Ca 1217/15](https://www.saos.org.pl/judgments/305095) | Wyrok
+- 2016-03-29 | SO | [II S 59/15](https://www.saos.org.pl/judgments/233733) | Postanowienie
+- 2016-03-29 | SO | [II S 3/16](https://www.saos.org.pl/judgments/233303) | Postanowienie
+- 2016-03-01 | SO | [III Ko 614/15](https://www.saos.org.pl/judgments/217425) | Wyrok
+- 2016-02-29 | SO | [II S 7/16](https://www.saos.org.pl/judgments/212035) | Postanowienie
+- 2016-02-23 | SO | [I S 43/16](https://www.saos.org.pl/judgments/211334) | Postanowienie
+- 2016-02-12 | SO | [I ACa 902/15](https://www.saos.org.pl/judgments/213736) | Wyrok
+- 2016-02-02 | SO | [II AKo 7/16](https://www.saos.org.pl/judgments/198502) | Postanowienie
+- 2016-01-26 | SO | [II C 351/15](https://www.saos.org.pl/judgments/203947) | Uzasadnienie
+- 2015-12-30 | SO | [III S 237/15](https://www.saos.org.pl/judgments/210390) | Postanowienie
+- 2015-12-08 | SO | [IX C 1093/15](https://www.saos.org.pl/judgments/208026) | Wyrok
+- 2015-12-02 | SO | [I ACa 1428/15](https://www.saos.org.pl/judgments/322721) | Wyrok
+- 2015-11-04 | SO | [I ACa 310/15](https://www.saos.org.pl/judgments/181251) | Wyrok
+- 2015-10-19 | SO | [II S 20/15](https://www.saos.org.pl/judgments/196249) | Postanowienie
+- 2015-09-30 | SO | [II Ca 493/15](https://www.saos.org.pl/judgments/183334) | Wyrok
+- 2015-09-17 | SO | [I C 802/14](https://www.saos.org.pl/judgments/298878) | Uzasadnienie
+- 2015-09-03 | SO | [II Ca 461/15](https://www.saos.org.pl/judgments/298922) | Wyrok
+- 2015-08-25 | SO | [VIII Gz 105/15](https://www.saos.org.pl/judgments/176015) | Postanowienie
+- 2015-06-02 | SO | [II S 13/15](https://www.saos.org.pl/judgments/170156) | Postanowienie
+- 2015-05-21 | SO | [II Cs 60/15](https://www.saos.org.pl/judgments/297421) | Postanowienie
+- 2015-03-10 | SO | [XXV C 453/13](https://www.saos.org.pl/judgments/228462) | Wyrok
+- 2014-12-23 | SO | [II S 79/14](https://www.saos.org.pl/judgments/125189) | Postanowienie
+- 2014-12-23 | SO | [II S 78/14](https://www.saos.org.pl/judgments/124912) | Postanowienie
+- 2014-12-22 | SO | [I S 138/14](https://www.saos.org.pl/judgments/125756) | Postanowienie
+- 2014-11-19 | SO | [I ACa 576/14](https://www.saos.org.pl/judgments/73217) | Wyrok
+- 2014-10-28 | SO | [V S 134/14](https://www.saos.org.pl/judgments/424216) | Postanowienie
+- 2014-10-17 | SO | [I C 1887/12](https://www.saos.org.pl/judgments/75785) | Wyrok
+- 2014-09-25 | SO | [V S 135/14](https://www.saos.org.pl/judgments/424217) | Postanowienie
+- 2014-09-16 | SO | [XV S 139/14](https://www.saos.org.pl/judgments/61796) | Postanowienie
+- 2014-08-25 | SO | [V S 115/14](https://www.saos.org.pl/judgments/424213) | Postanowienie
+- 2014-08-08 | SO | [II S 78/14](https://www.saos.org.pl/judgments/61922) | Postanowienie
+- 2014-08-08 | SO | [V S 41/14](https://www.saos.org.pl/judgments/60294) | Uzasadnienie
+- 2014-08-05 | SO | [XV S 119/14](https://www.saos.org.pl/judgments/55339) | Postanowienie
+- 2014-07-29 | SO | [XV S 111/14](https://www.saos.org.pl/judgments/55219) | Postanowienie
+- 2014-07-11 | SO | [III Ca 226/14](https://www.saos.org.pl/judgments/60981) | Uzasadnienie
+- 2014-07-10 | SO | [II Cs 133/14](https://www.saos.org.pl/judgments/295607) | Postanowienie
+- 2014-06-30 | SO | [V S 74/14](https://www.saos.org.pl/judgments/424224) | Postanowienie
+- 2014-06-26 | SO | [II Ca 1168/13](https://www.saos.org.pl/judgments/294677) | Wyrok
+- 2014-06-24 | SO | [II S 65/14](https://www.saos.org.pl/judgments/72985) | Postanowienie
+- 2014-06-24 | SO | [II S 56/14](https://www.saos.org.pl/judgments/61920) | Postanowienie
+- 2014-05-23 | SO | [I ACa 173/14](https://www.saos.org.pl/judgments/53046) | Wyrok
+- 2014-05-13 | SO | [II S 14/14](https://www.saos.org.pl/judgments/52449) | Postanowienie
+- 2014-05-07 | SO | [I ACa 1200/13](https://www.saos.org.pl/judgments/52918) | Wyrok
+- 2014-05-06 | SO | [II S 3/14](https://www.saos.org.pl/judgments/44381) | Postanowienie
+- 2014-04-22 | SO | [II S 32/14](https://www.saos.org.pl/judgments/43765) | Postanowienie
+- 2014-04-18 | SO | [II S 39/14](https://www.saos.org.pl/judgments/47279) | Postanowienie
+- 2014-04-01 | SO | [II S 9/14](https://www.saos.org.pl/judgments/47282) | Postanowienie
+- 2014-03-18 | SO | [XV S 20/14](https://www.saos.org.pl/judgments/49603) | Postanowienie
+- 2014-02-26 | SO | [V S 11/14](https://www.saos.org.pl/judgments/38622) | Postanowienie
+- 2014-02-25 | SO | [II Cs 20/15](https://www.saos.org.pl/judgments/297420) | Postanowienie
+- 2014-02-19 | SO | [V S 31/14](https://www.saos.org.pl/judgments/38623) | Postanowienie
+- 2014-02-18 | SO | [II S 272/13](https://www.saos.org.pl/judgments/43764) | Postanowienie
+- 2014-02-11 | SO | [II S 228/13](https://www.saos.org.pl/judgments/47272) | Postanowienie
+- 2014-02-03 | SO | [II S 43/13](https://www.saos.org.pl/judgments/33340) | Postanowienie
+- 2014-01-29 | SO | [I ACa 1257/13](https://www.saos.org.pl/judgments/44188) | Wyrok
+- 2014-01-23 | SO | [II AKa 504/13](https://www.saos.org.pl/judgments/143577) | Wyrok
+- 2014-01-21 | SO | [II S 248/13](https://www.saos.org.pl/judgments/32410) | Postanowienie
+- 2014-01-14 | SO | [II S 249/13](https://www.saos.org.pl/judgments/34485) | Postanowienie
+- 2013-12-04 | SO | [V S 90/13](https://www.saos.org.pl/judgments/29154) | Postanowienie
+- 2013-12-04 | SO | [V S 84/13](https://www.saos.org.pl/judgments/29153) | Postanowienie
+- 2013-12-04 | SO | [V S 83/13](https://www.saos.org.pl/judgments/29152) | Postanowienie
+- 2013-12-04 | SO | [V S 80/13](https://www.saos.org.pl/judgments/29151) | Postanowienie
+- 2013-11-28 | SO | [III AUa 1015/13](https://www.saos.org.pl/judgments/29004) | Wyrok
+- 2013-11-14 | SO | [I ACa 512/13](https://www.saos.org.pl/judgments/29902) | Wyrok
+- 2013-11-06 | SO | [II AKa 380/13](https://www.saos.org.pl/judgments/141305) | Wyrok
+- 2013-10-04 | SO | [V S 63/13](https://www.saos.org.pl/judgments/22827) | Postanowienie
+- 2013-09-30 | SO | [II Ca 2011/12](https://www.saos.org.pl/judgments/409934) | Postanowienie
+- 2013-08-26 | SO | [V S 50/13](https://www.saos.org.pl/judgments/18988) | Postanowienie
+- 2013-08-22 | SO | [I C 1236/12](https://www.saos.org.pl/judgments/141091) | Wyrok
+- 2013-07-29 | SO | [III S 9/13](https://www.saos.org.pl/judgments/19804) | Postanowienie
+- 2013-07-10 | SO | [II S 19/13](https://www.saos.org.pl/judgments/18666) | Postanowienie
+- 2013-06-14 | SO | [VIII S 17/13](https://www.saos.org.pl/judgments/14334) | Postanowienie
+- 2013-06-10 | SO | [I ACa 1198/12](https://www.saos.org.pl/judgments/14574) | Wyrok
+- 2013-05-24 | SO | [VIII S 16/13](https://www.saos.org.pl/judgments/12448) | Postanowienie
+- 2013-05-22 | SO | [IV Cz 265/13](https://www.saos.org.pl/judgments/11846) | Postanowienie
+- 2013-04-25 | SO | [II AKa 79/13](https://www.saos.org.pl/judgments/140176) | Wyrok
+- 2013-04-09 | SO | [VI ACa 1286/12](https://www.saos.org.pl/judgments/23386) | Wyrok
+- 2013-04-02 | SO | [I S 29/13](https://www.saos.org.pl/judgments/138070) | Postanowienie
+- 2013-03-27 | SO | [I ACa 1177/12](https://www.saos.org.pl/judgments/10811) | Wyrok
+- 2013-02-28 | SO | [I S 46/12](https://www.saos.org.pl/judgments/137663) | Postanowienie
+- 2013-02-28 | SO | [I ACa 1030/12](https://www.saos.org.pl/judgments/10028) | Wyrok
+- 2013-01-03 | SO | [I ACa 972/12](https://www.saos.org.pl/judgments/3904) | Wyrok
+- 2012-12-06 | SO | [V S 24/12](https://www.saos.org.pl/judgments/424405) | Postanowienie
+- 2012-12-05 | SO | [I ACa 594/12](https://www.saos.org.pl/judgments/21187) | Wyrok
+- 2012-11-14 | SO | [I ACa 613/12](https://www.saos.org.pl/judgments/5853) | Wyrok
+- 2012-11-06 | SO | [II S 21/12](https://www.saos.org.pl/judgments/3677) | Postanowienie
+- 2012-09-12 | SO | [I S 85/12](https://www.saos.org.pl/judgments/135527) | Postanowienie
+- 2012-08-30 | SO | [I S 42/12](https://www.saos.org.pl/judgments/136046) | Postanowienie
+- 2012-07-06 | SO | [I S 37/12](https://www.saos.org.pl/judgments/429810) | Postanowienie
+- 2012-04-26 | SO | [I ACa 380/12](https://www.saos.org.pl/judgments/1956) | Wyrok
+- 2011-10-10 | SO | [I C 984/10](https://www.saos.org.pl/judgments/58211) | Wyrok
+- 2011-09-23 | SO | [IX C 8/11](https://www.saos.org.pl/judgments/26484) | Wyrok
+- 2011-09-05 | SO | [V S 12/11](https://www.saos.org.pl/judgments/424215) | Postanowienie
+- 2010-11-10 | SO | [II AKa 323/10](https://www.saos.org.pl/judgments/136824) | Wyrok
+

@@ -1,0 +1,422 @@
+---
+title: Ustawa z dnia 30 kwietnia 2010 r. o Narodowym Centrum Nauki
+address: WDU20100960617
+eli: DU/2010/617
+publisher: DU
+year: 2010
+pos: 617
+act_type: Ustawa
+status: akt posiada tekst jednolity
+domain: null
+---
+
+# z dnia 30 kwietnia 2010 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2010 nr 96 poz. 617 |
+| ISAP | WDU20100960617 |
+| Typ aktu | Ustawa |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2010-04-30 |
+| Data wydania | 2010-06-04 |
+| Ostatnia zmiana | 2026-02-05 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20100960617) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/617/text.pdf) |
+
+o Narodowym Centrum Nauki
+Nadzór nad działalnością Centrum
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.**
+
+1. Tworzy się Narodowe Centrum Nauki, zwane dalej „Centrum”.
+
+2. Centrum jest agencją wykonawczą rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. 157, poz. 1240 oraz z 2010 r. 28, poz. 146), powołaną do wspierania działalności naukowej zakresie badań podstawowych.
+
+3. Siedzibą Centrum jest miasto Kraków.
+
+4. Centrum działa na podstawie ustawy oraz statutu.
+
+5. Minister właściwy do spraw nauki, drodze rozporządzenia, nadaje Centrum statut, którym określi:
+
+- **1)** szczegółowy zakres zadań i tryb pracy organów Centrum,
+- **2)** organizację Biura Centrum,
+- **3)** wartość majątku, powyżej której rozporządzanie majątkiem Centrum przez Dyrektora Centrum wymaga zgody Rady Centrum mając na względzie sprawne wykonywanie zadań przez Centrum.
+
+**Art. 2.** Ilekroć ustawie jest mowa o:
+
+#### Rozdział 2 Organy i organizacja Centrum
+
+**Art. 3.** Organami Centrum są:
+
+**Art. 5.**
+
+1. Dyrektor przeprowadza konkurs na stanowisko zastępcy Dyrektora.
+
+2. Informację o ogłoszonym konkursie Dyrektor przekazuje niezwłocznie Ministrowi.
+
+3. Do kandydatów na zastępcę Dyrektora stosuje się przepisy art. 4 ust. 4 pkt 1—3 i 5.
+
+4. Kandydatem na stanowisko zastępcy Dyrektora może być osoba, która posiada co najmniej tytuł zawodowy magistra lub równorzędny.
+
+5. Dyrektor ogłasza konkurs na stanowisko zastępcy Dyrektora:
+
+- **1)** co najmniej na 6 tygodni przed upływem kadencji zastępcy Dyrektora;
+- **2)** niezwłocznie przypadku odwołania albo śmierci zastępcy Dyrektora.
+
+6. W przypadku niewyłonienia kandydata na stanowisko zastępcy Dyrektora, Dyrektor przeprowadza nowy konkurs. niając konieczność zapewnienia przejrzystości i rzetelności procedury konkursowej.
+
+**Art. 7.** 1 Kadencja Dyrektora trwa 4 lata. 2. Ta sama osoba może pełnić funkcję Dyrektora nie dłużej niż przez dwie kadencje. 3. Do zastępców Dyrektora stosuje się przepisy ust. 1 i 2. 4. Dyrektor i jego zastępcy pełnią obowiązki do dnia powołania następców.
+
+**Art. 8.** Powołanie, o którym mowa art. 4 ust. 6 i art. 5 ust. 7, stanowi nawiązanie stosunku pracy na podstawie powołania rozumieniu przepisów Kodeksu pracy.
+
+**Art. 9.**
+
+1. Minister odwołuje Dyrektora przypadku:
+
+- **1)** złożenia rezygnacji;
+- **2)** u traty zdolności do pełnienia obowiązków na skutek długotrwałej choroby, trwającej co najmniej 6 miesięcy;
+- **3)** z aprzestania spełniania któregokolwiek z wymagań określonych art. 4 ust. 4 pkt 1 i 2;
+- **4)** d ziałania niezgodnego z prawem lub zasadami rzetelności i gospodarności;
+- **5)** n iezatwierdzenia rocznego sprawozdania finansowego Centrum lub jego nieprzedstawienia terminie określonym art. 11 ust. 6.
+
+2. Dyrektor odwołuje zastępcę Dyrektora przypadkach określonych ust. 1 pkt 1—4.
+
+**Art. 10.**
+
+1. Minister ustala wysokość wynagrodzenia Dyrektora zgodnie z przepisami ustawy z dnia
+
+7. Dyrektor powołuje nie więcej niż dwóch zastępców Dyrektora wyłonionych drodze konkursu. 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, poz. 306, z późn. zm. ).
+
+2. Minister właściwy do spraw nauki określi, drodze rozporządzenia, szczegółowe warunki wynagradzania zastępców Dyrektora, Koordynatorów Dyscyplin oraz pracowników Biura Centrum, mając na uwadze zakres wykonywanych przez nich zadań i kwalifikacje niezbędne do ich wykonywania.
+
+**Art. 11.**
+
+1. Dyrektor kieruje działalnością Centrum, jest odpowiedzialny za prawidłowe i sprawne realizowanie zadań Centrum i reprezentuje je na zewnątrz.
+
+3. Dyrektor jest uprawniony do samodzielnego dokonywania czynności prawnych imieniu Centrum.
+
+4. Dyrektor zatwierdza przedłożone przez Koordynatora Dyscyplin listy rankingowe, o których mowa art. 24 ust. 1 pkt 6 oraz ust. 2, i zawiera umowy o realizację i finansowanie projektów badawczych oraz umowy, o których mowa art. 35 ust. 1.
+
+5. Dyrektor przygotowuje i, po uzyskaniu pozytywnej opinii Rady, przedstawia Ministrowi do zatwierdzenia projekt rocznego planu finansowego Centrum i planu finansowego układzie zadaniowym na dany rok budżetowy oraz na 2 kolejne lata, z uwzględnieniem terminów określanych przez ministra właściwego do spraw finansów publicznych dla przedłożenia materiałów do projektu ustawy budżetowej.
+
+6. Dyrektor przygotowuje i, po uzyskaniu pozytywnej opinii Rady, przedstawia Ministrowi do zatwierdzenia roczne sprawozdanie finansowe Centrum wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych, o którym mowa art. 42, terminie do dnia 31 marca każdego roku.
+
+7. Dyrektor przygotowuje i, terminie do dnia 31 marca każdego roku, przedstawia Ministrowi zatwierdzony przez Radę projekt rocznego planu działalności Centrum oraz roczne sprawozdanie z realizacji zadań Centrum obejmujące informacje o stopniu realizacji poszczególnych zadań Centrum wraz z ewaluacją realizowanych zadań oraz oceną ich wpływu na rozwój nauki.
+
+8. W terminie 14 dni od dnia zatwierdzenia przez Ministra projektu rocznego planu finansowego Centrum Dyrektor zamieszcza ten plan na stronie podmiotowej Centrum Biuletynie Informacji Publicznej.
+
+9. W terminie 14 dni od dnia zatwierdzenia przez Radę projektu rocznego planu działalności Centrum Dyrektor zamieszcza ten plan na stronie podmiotowej Centrum Biuletynie Informacji Publicznej.
+
+10. Dyrektor przedstawia Radzie kwartalne informacje o zakresie wykonanych zadań i wydatkowanych na ten cel środkach.
+
+11. W szczególnych przypadkach, dotyczących przyznania środków finansowych, Dyrektor może zasięgnąć opinii wyspecjalizowanych instytucji lub ekspertów, tym ekspertów zagranicznych.
+
+**Art. 12.**
+
+1. W celu wskazania kandydatów na członków Rady Minister powołuje na okres 4 lat Zespół Identyfikujący Członków Rady, zwany dalej „Zespołem Identyfikującym”.
+
+2. Zespół Identyfikujący składa się z przewodniczącego, którego wskazuje Minister, i czterech członków.
+
+- **3)** reprezentujące różne grupy dziedzin i środowiska naukowe;
+- **4)** niepozostające związku małżeńskim, pokrewieństwie lub powinowactwie do drugiego stopnia włącznie z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin;
+- **5)** niepozostające z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin takim stosunku prawnym, który może mieć wpływ na ich prawa lub obowiązki.
+
+**Art. 13.**
+
+1. Przewodniczący oraz członkowie Zespołu Identyfikującego nie otrzymują wynagrodzenia za udział jego pracach.
+
+2. Zamiejscowi członkowie Zespołu Identyfikującego otrzymują zwrot kosztów podróży na zasadach określonych przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+
+**Art. 14.**
+
+1. Zespół Identyfikujący, terminie 2 miesięcy przed upływem kadencji Rady, sporządza i przekazuje Ministrowi listę co najmniej dwudziestu czterech kandydatów na członków Rady, spośród osób zgłoszonych przez jednostki naukowe posiadające co najmniej kategorię A, oraz przez organizacje reprezentujące środowisko naukowe, kierując się:
+
+- **1)** d orobkiem naukowym kandydata i jego bieżącą aktywnością naukową;
+- **2)** z asadami zapewnienia zrównoważonej reprezentacji różnych dziedzin naukowych;
+- **3)** z asadami zapewnienia zrównoważonej reprezentacji różnych środowisk naukowych.
+
+2. W przypadku niepowołania przez Ministra kandydata na członka Rady Zespół Identyfikujący przedstawia Ministrowi nową kandydaturę spośród osób, o których mowa ust. 1.
+
+3. Minister właściwy do spraw nauki określi, drodze rozporządzenia, sposób i tryb wyłaniania kandydatów na członków Rady, kierując się potrzebą zapewnienia zrównoważonej reprezentacji różnych dziedzin naukowych i różnych rodzajów jednostek naukowych.
+
+**Art. 15.**
+
+1. W skład Rady wchodzi dwudziestu czterech członków powoływanych przez Ministra spośród kandydatów wskazanych przez Zespół Identyfikujący.
+
+2. Kadencja Rady trwa 4 lata, przy czym co 2 lata następuje wymiana połowy składu Rady.
+
+3. Ta sama osoba może pełnić funkcję członka Rady nie dłużej niż przez dwie kolejne kadencje. we;
+
+- **4)** nie pozostaje związku małżeńskim, pokrewieństwie lub powinowactwie do drugiego stopnia włącznie z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin;
+- **5)** nie pozostaje z członkami Rady, Zespołów Ekspertów, Dyrektorem lub Koordynatorami Dyscyplin takim stosunku prawnym, który może mieć wpływ na jej prawa i obowiązki.
+
+5. Członkostwa Radzie nie można łączyć z członkostwem Zespole Identyfikującym, Komitecie Ewaluacji Jednostek Naukowych i Komitecie Polityki Naukowej, o których mowa ustawie z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, oraz organach Narodowego Centrum Badań i Rozwoju.
+
+6. Członkiem Rady nie może być również osoba pełniąca funkcję:
+
+- **1)** rektora, prorektora lub kierownika podstawowej jednostki organizacyjnej uczelni;
+- **2)** dyrektora instytutu naukowego, pomocniczej jednostki naukowej Polskiej Akademii Nauk albo instytutu badawczego;
+- **3)** Prezesa lub wiceprezesa Polskiej Akademii Nauk albo Polskiej Akademii Umiejętności;
+- **4)** przewodniczącego lub wiceprzewodniczącego Rady Głównej Szkolnictwa Wyższego albo Rady Głównej Instytutów Badawczych;
+- **5)** członka Państwowej Komisji Akredytacyjnej.
+
+**Art. 16.**
+
+1. Minister odwołuje członka Rady przypadku:
+
+- **1)** złożenia rezygnacji;
+- **2)** objęcia funkcji, o których mowa art. 15 ust. 5 i 6;
+- **3)** zaprzestania spełniania któregokolwiek z wymagań określonych art. 15 ust. 4 pkt 2 i 3;
+- **4)** nieuczestniczenia pracach Rady przez okres dłuższy niż 6 miesięcy;
+- **5)** naruszenia zasad etyki naukowej.
+
+2. W przypadku odwołania lub śmierci członka Rady przed upływem kadencji minister powołuje na jego miejsce na okres do końca kadencji Rady inną osobę wskazaną przez Zespół Identyfikujący spośród osób zgłoszonych trybie art. 14 ust. 1.
+
+**Art. 17.**
+
+1. Pracami Rady kieruje przewodniczący wybierany przez Radę spośród jej członków.
+
+4. Z posiedzeń Rady sporządza się protokół zawierający: listę uczestników posiedzenia, przebieg obrad, treść uchwał i liczbę oddanych głosów. Przewodniczący Rady przekazuje Ministrowi, na jego wniosek, kopię protokołu z posiedzenia Rady.
+
+5. Rada wydaje opinie drodze uchwały podjętej bezwzględną większością głosów obecności co najmniej połowy liczby członków Rady.
+
+6. Projekty opinii przygotowują komisje Rady powołane przez przewodniczącego Rady spośród jej członków.
+
+7. Komisje Rady mogą zasięgać opinii ekspertów.
+
+8. Szczegółowy tryb działania Rady, wyboru przewodniczącego oraz powoływania komisji Rady określa regulamin ustanowiony przez Radę.
+
+9. Do przewodniczącego i członków Rady stosuje się przepis art. 13 ust. 2.
+
+10. Minister właściwy do spraw nauki określi, drodze rozporządzenia, wysokość miesięcznego wynagrodzenia przewodniczącego oraz członków Rady, mając na uwadze zakres wykonywanych przez nich zadań oraz znaczenie tych zadań dla efektywnego funkcjonowania Centrum.
+
+**Art. 18.** Do zadań Rady należy:
+
+**Art. 19.** Obsługę administracyjną Centrum prowadzi Biuro Centrum.
+
+#### Rozdział 3 Zadania Centrum i tryb ich realizacji
+
+**Art. 20.**
+
+1. Do zadań Centrum należy:
+
+- **1)** finansowanie badań podstawowych realizowanych formie:
+    - **a)** projektów badawczych, tym finansowanie zakupu lub wytworzenia aparatury naukowo-badawczej niezbędnej do realizacji tych projektów,
+    - **b)** niepodlegających współfinansowaniu z zagranicznych środków finansowych projektów badawczych realizowanych ramach programów lub inicjatyw międzynarodowych ogłaszanych we współpracy dwu- lub wielostronnej albo projektów badawczych realizowanych przy wykorzystaniu przez polskie zespoły badawcze wielkich międzynarodowych urządzeń badawczych,
+    - **c)** projektów badawczych realizowanych przez osoby rozpoczynające karierę naukową, tym mających na celu stworzenie unikatowego warsztatu naukowego lub powołanie nowego zespołu naukowego,
+    - **d)** stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora;
+    - **e)** projektów badawczych dla doświadczonych naukowców mających na celu realizację pionierskich badań naukowych, tym interdyscyplinarnych, ważnych dla rozwoju nauki, wykraczających poza dotychczasowy stan wiedzy, i których efektem mogą być odkrycia naukowe;
+
+- **2)** finansowanie badań naukowych innych niż wymienione pkt 1, nienależących do zakresu badań finansowanych przez Narodowe Centrum Badań i Rozwoju;
+- **3)** nadzór nad realizacją badań naukowych, o których mowa pkt 1 i 2;
+- **6)** i nspirowanie i monitorowanie finansowania badań podstawowych ze środków pochodzących spoza budżetu państwa;
+- **7)** ykonywanie innych zadań zleconych przez Ministra, ważnych dla rozwoju badań podstawowych, tym opracowywanie programów badawczych ważnych dla kultury narodowej.
+
+2. Badania, o których mowa ust. 1 pkt 1 i 2, są kwalifikowane do finansowania drodze konkursów.
+
+3. Przy realizacji zadań, o których mowa ust. 1, Centrum może współpracować z podmiotami krajowymi i zagranicznymi.
+
+4. Centrum przeznacza nie mniej niż 20 % środków pozostających jego dyspozycji na wsparcie rozwoju osób rozpoczynających karierę naukową.
+
+5. Centrum, za zgodą Ministra, może zlecać wykonywanie zadań zakresie wspierania badań podstawowych podmiotom działającym na rzecz nauki.
+
+**Art. 21.** Rada określi szczegółowy regulamin przyznawania środków na realizację zadań finansowanych przez Centrum, przy uwzględnieniu zasad przejrzystości procedur konkursowych oraz procedur wyłaniania ekspertów.
+
+**Art. 22.**
+
+1. Dyrektor, na wniosek Rady, powołuje Zespoły Ekspertów, o których mowa art. 18 pkt 7, celu dokonywania ocen wniosków złożonych konkursach i przygotowywania na tej podstawie list rankingowych.
+
+2. Członkowie Zespołów Ekspertów otrzymują wynagrodzenie za udział pracach tych zespołów.
+
+3. Do członków Zespołów Ekspertów stosuje się przepis art. 13 ust. 2.
+
+4. Minister właściwy do spraw nauki określi, drodze rozporządzenia, wysokość wynagrodzenia ekspertów, mając na uwadze ich kwalifikacje zawodowe oraz specyfikę wykonywanych zadań.
+
+**Art. 23.**
+
+1. Rada dokonuje wyboru Koordynatorów Dyscyplin drodze konkursu.
+
+2. Informację o ogłoszonym konkursie Rada przekazuje niezwłocznie Ministrowi.
+
+3. Do kandydatów na Koordynatorów Dyscyplin stosuje się przepisy art. 4 ust. 4 pkt 1, 2, 4 i 5.
+
+4. Koordynatorzy Dyscyplin są zatrudniani przez Dyrektora na podstawie umowy o pracę na czas określony, nie dłuższy niż 4 lata.
+
+**Art. 24.**
+
+1. Do zadań Koordynatorów Dyscyplin należy:
+
+- **1)** organizowanie i przeprowadzanie konkursów, o których mowa art. 20 ust. 2;
+- **2)** organizowanie prac Zespołów Ekspertów powołanych do oceny wniosków złożonych konkursach;
+- **3)** upowszechnianie środowisku naukowym informacji o przeprowadzanych konkursach;
+- **4)** analiza złożonych wniosków pod względem formalnym;
+- **5)** ocena rzetelności i bezstronności opinii przygotowanych przez ekspertów;
+- **6)** przedkładanie Dyrektorowi do zatwierdzenia list rankingowych przygotowanych przez Zespoły Ekspertów;
+- **7)** realizacja innych zadań zleconych przez Dyrektora.
+
+2. W szczególnych przypadkach Koordynator Dyscyplin, po zasięgnięciu opinii Zespołu Ekspertów, może dokonać zmian kolejności projektów badawczych na liście rankingowej. Koordynator Dyscyplin przedkłada Dyrektorowi do zatwierdzenia zmienioną listę rankingową wraz z pisemnym uzasadnieniem.
+
+**Art. 25.**
+
+1. Koordynatorzy Dyscyplin ogłaszają konkursy na realizację projektów badawczych zgodnie z tematyką projektów i warunkami przeprowadzania tych konkursów określonymi przez Radę.
+
+2. Informacje o warunkach przeprowadzenia konkursu na realizację projektów badawczych, kryteriach oceny wniosków oraz kwocie środków przeznaczonych na sfinansowanie projektów badawczych są ogłaszane najpóźniej na 3 miesiące przed upływem terminu składania wniosków.
+
+3. Ogłoszenia o konkursach na realizację projektów badawczych zamieszcza się co najmniej jednym dzienniku o zasięgu ogólnopolskim, na stronie podmiotowej Centrum Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego Ministra Biuletynie Informacji Publicznej oraz udostępnia siedzibie Centrum oraz siedzibie urzędu obsługującego Ministra.
+
+**Art. 26.**
+
+2. Podmioty, o których mowa ust. 1, przystępując do konkursu, przedstawiają oświadczenie o niefinansowaniu zadań objętych wnioskiem ze środków pochodzących z innych źródeł.
+
+3. W przypadku skierowania do finansowania projektu badawczego zgłoszonego przez osobę fizyczną Dyrektor wydaje promesę finansowania. Warunkiem zawarcia umowy o realizację i finansowanie projektu badawczego jest zatrudnienie tej osoby przez podmiot, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki. Środki finansowe są przyznawane podmiotowi zatrudniającemu tę osobę.
+
+4. Dyrektor, na wniosek kierownika projektu badawczego, może wyrazić zgodę na zmianę miejsca realizacji projektu po pozytywnym zaopiniowaniu wniosku przez podmiot, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, realizujący projekt i podmiot przejmujący realizację projektu.
+
+**Art. 28.**
+
+1. W konkursach na finansowanie stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora mogą brać udział osoby rozpoczynające karierę naukową.
+
+2. Środki finansowe są przyznawane podmiotowi, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, którym osoba, o której mowa ust. 1, prowadzi działalność naukową.
+
+**Art. 29.** Wnioski o finansowanie projektów badawczych składa się języku polskim i języku angielskim. Rada może wskazać dziedziny lub dyscypliny nauki, których wnioski składa się tylko języku polskim.
+
+**Art. 30.**
+
+1. Przy ocenie wniosków składanych konkursach na realizację projektów badawczych uwzględnia się:
+
+- **1)** poziom naukowy badań lub zadań przewidzianych do realizacji;
+- **2)** nowatorski charakter problemu naukowego, którego rozwiązanie jest proponowane;
+- **3)** osiągnięcia naukowe zespołu wykonawców;
+- **4)** zasadność planowanych kosztów stosunku do przedmiotu i zakresu badań; Rada ogłasza konkursy na finansowanie 5) wpływ realizacji projektu badawczego na rozwój stypendiów doktorskich i staży po uzyskaniu stopnia naukowego doktora, tym terminy i tryb ich przeprowadzania, warunki, jakie muszą spełniać wnioskodawcy, oraz sposób i kryteria oceny wniosków najpóźniej dyscypliny naukowej;
+- **6)** ocenę wykonania przez wnioskodawcę projektów badawczych uprzednio finansowanych ze środków finansowych na naukę. nie podmiotowej Centrum Biuletynie Informacji Publicznej informacje o wnioskach złożonych konkursach na realizację projektów badawczych i wynikach tych konkursów zawierające:
+- **1)** tytuł złożonego wniosku;
+- **2)** imię i nazwisko kierownika projektu badawczego oraz nazwę podmiotu, o którym mowa art. 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, będącego wnioskodawcą;
+- **3)** pozycję na liście rankingowej uzyskaną przez projekt badawczy skierowany do finansowania;
+- **4)** wysokość środków finansowych proponowanych do przyznania na poszczególny projekt badawczy przez Koordynatora Dyscyplin i przyznanych przez Dyrektora.
+
+**Art. 32.**
+
+1. Eksperta wyłącza się z postępowania sprawie oceny wniosków sytuacji zagrożenia konfliktem interesów, a szczególności pozostawania z wnioskodawcą w:
+
+- **1)** związku małżeńskim, stosunku pokrewieństwa lub powinowactwa do drugiego stopnia włącznie;
+- **2)** innym stosunku prawnym, który może mieć wpływ na jego prawa i obowiązki.
+
+2. Koordynator Dyscyplin wyłącza eksperta z postępowania sprawie oceny wniosków sytuacji uzasadnionego podejrzenia stronniczego działania.
+
+3. Opinii przygotowanej przez eksperta, który został wyłączony z postępowania sprawie oceny wniosków, nie uwzględnia się.
+
+4. Rada może powołać nowego eksperta na miejsce eksperta, który został wyłączony z postępowania sprawie oceny wniosków.
+
+5. Przepisy ust. 1 i 2 stosuje się do Koordynatora Dyscyplin przy wykonywaniu przez niego czynności, o której mowa art. 24 ust. 2. Wyłączenia Koordynatora Dyscyplin dokonuje Dyrektor.
+
+6. W przypadku wyłączenia, o którym mowa ust. 5, Koordynator Dyscyplin przedstawia Dyrektorowi do zatwierdzenia listę rankingową sporządzoną przez Zespół Ekspertów.
+
+**Art. 33.**
+
+1. Środki finansowe na badania zakwalifikowane do finansowania drodze konkursów, o których mowa art. 20 ust. 2, przyznaje Dyrektor, drodze decyzji.
+
+2. Od decyzji Dyrektora wnioskodawcy przysługuje odwołanie do Komisji Odwoławczej Rady termi4. Na decyzję Komisji Odwoławczej Rady przysługuje skarga do sądu administracyjnego.
+
+**Art. 34.**
+
+1. Dyrektor zawiera z podmiotem, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, którym projekt badawczy ma być realizowany, i z kierownikiem projektu badawczego umowę o realizację i finansowanie tego projektu.
+
+2. W umowie określa się:
+
+- **1)** z akres tematyczny projektu badawczego, termin i warunki jego realizacji;
+- **2)** ysokość środków finansowych przyznanych na realizację projektu badawczego i tryb ich przekazania przez Centrum;
+- **3)** s posób zagospodarowania, po zakończeniu realizacji projektu badawczego, zakupionej lub wytworzonej aparatury naukowo-badawczej;
+- **4)** ymierne i spodziewane efekty realizacji projektu badawczego, tym zobowiązanie wykonawcy do ewaluacji i publikacji wyników badań wydawnictwie o zasięgu międzynarodowym;
+- **5)** s posób i tryb wykonywania przez Centrum nadzoru nad realizacją projektu badawczego;
+- **6)** s posób finansowego rozliczenia projektu badawczego;
+- **7)** s posób i zakres końcowej oceny merytorycznej projektu badawczego.
+
+3. Nadzór nad realizacją projektów badawczych obejmuje:
+
+- **1)** o cenę raportów okresowych z realizacji projektów badawczych;
+- **2)** k ontrolę siedzibie podmiotu, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, przez wyznaczony przez Dyrektora zespół kontrolujący;
+- **3)** uprawnienia Dyrektora do wstrzymania finansowania projektu badawczego, przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową lub nieosiągnięcia wyników zaplanowanych na danym etapie realizacji projektu badawczego do czasu wyjaśnienia nieprawidłowości;
+- **4)** uprawnienia Dyrektora do przerwania finansowania projektu badawczego przypadku wydatkowania przez wykonawcę środków finansowych niezgodnie z umową lub nieterminowego albo nienależytego wykonywania umowy, tym art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, oraz po uzyskaniu pozytywnej oceny merytorycznej projektu dokonanej przez właściwego Koordynatora Dyscyplin, Zespół Ekspertów oraz Radę.
+
+5. Dla projektów badawczych o całkowitej wartości przekraczającej kwotę określoną przez Radę, odpowiednio do przedmiotu i kosztochłonności badań Dyrektor zleca przeprowadzenie zewnętrznego audytu ich wykonania.
+
+**Art. 35.**
+
+1. Dyrektor zawiera umowę z podmiotem, o którym mowa art. 10 pkt 1—8 i 10 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania nauki, którym prowadzi działalność naukową osoba, której przyznano stypendium doktorskie lub środki na staż po uzyskaniu stopnia naukowego doktora.
+
+2. W umowie, o której mowa ust. 1, określa się termin i warunki jej wykonania, wysokość przyznanych środków finansowych oraz warunki ich przekazywania i rozliczania przez Centrum.
+
+3. W przypadku zaprzestania prowadzenia działalności naukowej przez osobę, o której mowa ust. 1, okresie objętym umową, Dyrektor wstrzymuje dalsze finansowanie.
+
+**Art. 36.**
+
+1. W razie dokonania wynalazku, wzoru użytkowego lub wzoru przemysłowego wyniku prac lub zadań finansowanych przez Centrum, prawo do uzyskania patentu na wynalazek albo prawa ochronnego na wzór użytkowy, jak również prawa z rejestracji wzoru przemysłowego przysługują podmiotowi, któremu Dyrektor przyznał środki finansowe, chyba że umowa między Centrum a podmiotem otrzymującym środki finansowe albo decyzja o przyznaniu środków stanowią inaczej.
+
+2. Do własności majątkowych praw autorskich powstałych wyniku realizacji zadań finansowanych przez Centrum stosuje się przepisy ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. 90, poz. 631, z późn. zm. ).
+
+**Art. 37.**
+
+1. Za pośrednictwem Centrum może być udzielana pomoc publiczna związku z realizacją zadań, o których mowa art. 20.
+
+2. Minister właściwy do spraw nauki określi, drodze rozporządzenia, warunki i tryb udzielania pomocy publicznej za pośrednictwem Centrum, tym:
+
+- **1)** przeznaczenie pomocy,
+- **2)** rodzaje kosztów kwalifikujących się do objęcia poprawa wspólnotowego oraz celów polityki naukowej państwa.
+
+#### Rozdział 4 Finansowanie działalności Centrum
+
+**Art. 38.**
+
+1. Przychodami Centrum są:
+
+- **1)** dotacja celowa na finansowanie zadań, o których mowa art. 20, przekazywana na wniosek Dyrektora;
+- **2)** dotacja podmiotowa na pokrycie bieżących kosztów zarządzania wykonywanymi przez Centrum zadaniami, o których mowa pkt 1, przekazywana na wniosek Dyrektora;
+- **3)** dotacja celowa na finansowanie lub dofinansowanie kosztów inwestycji dotyczących obsługi realizacji zadań, o których mowa pkt 1.
+
+2. Przychodami Centrum mogą być środki finansowe pochodzące z innych źródeł, szczególności:
+
+- **1)** środki przekazane przez krajowe i zagraniczne podmioty finansujące programy badawcze;
+- **2)** odsetki od środków zgromadzonych na rachunkach bankowych Centrum, z wyjątkiem odsetek od środków pochodzących z dotacji budżetowych;
+- **3)** zapisy i darowizny.
+
+3. Środki, o których mowa ust. 2 pkt 2 i 3 Centrum może, po uregulowaniu należności podatkowych, wykorzystywać na finansowanie zadań, o których mowa art. 20 ust. 1 pkt 1 i 2. Środki niewykorzystane danym roku nie podlegają zwrotowi do budżetu państwa.
+
+**Art. 39.** Środki finansowe są wydatkowane przez Centrum zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz na podstawie przepisów niniejszej ustawy.
+
+**Art. 40.**
+
+1. Podstawą gospodarki finansowej Centrum jest roczny plan finansowy ustalany zgodnie z przepisami ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+2. Podstawę gospodarki finansowej Centrum okresie od dnia 1 stycznia do dnia zatwierdzenia przez Ministra rocznego planu finansowego Centrum stanowi projekt tego planu pozytywnie zaopiniowany przez Radę. mocą,
+
+- **3)** sposób kumulowania pomocy,
+
+3. Zmiany planu finansowego Centrum dokonuje się trybie i na zasadach określonych ustawie z dnia 27 sierpnia 2009 r. o finansach publicznych.
+
+**Art. 41.**
+
+1. Centrum tworzy: częcia przez nie działalności.
+
+- **3)** z atwierdza roczne sprawozdanie finansowe Cen3. Fundusz statutowy ulega zmniejszeniu o war- trum; tość straty netto Centrum. 4) p rzyjmuje sprawozdanie z działalności Centrum przedstawione przez Dyrektora;
+
+**Art. 42.**
+
+1. Roczne sprawozdanie finansowe Centrum podlega badaniu przez podmiot uprawniony do 5) d okonuje oceny działalności Centrum na podstabadania sprawozdań finansowych. wie sprawozdania, o którym mowa pkt 4;
+
+- **6)** może żądać wglądu do wszystkich dokumentów
+
+2. Minister dokonuje wyboru podmiotu uprawnio- Centrum. nego do badania sprawozdań finansowych trybie przepisów o zamówieniach publicznych. 3. W przypadku, o którym mowa ust. 2 pkt 6, Dyrektor przedkłada Ministrowi żądaną dokumentację
+
+#### Rozdział 5 nie później niż terminie 7 dni od dnia zgłoszenia żądania.
+
+#### Rozdział 6
+
+**Art. 43.**
+
+1. Minister sprawuje nadzór nad działalnością Centrum pod względem legalności, gospodar- Przepis końcowy ności, rzetelności i celowości.
+
+**Art. 44.** Ustawa wchodzi życie terminie i na 2. W ramach nadzoru Minister: zasadach określonych ustawie z dnia 30 kwietnia 2010 r. Przepisy wprowadzające ustawy reformują1) sprawuje kontrolę finansową nad Centrum na za- ce system nauki (Dz. U. 96, poz. 620). sadach określonych art. 31—34 ustawy z dnia 30 kwietnia 2010 r. o zasadach finansowania Marszałek Sejmu wykonujący obowiązki nauki; Prezydenta Rzeczypospolitej Polskiej: B. Komorowski
+

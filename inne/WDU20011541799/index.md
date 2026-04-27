@@ -1,0 +1,66 @@
+---
+title: Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
+address: WDU20011541799
+eli: DU/2001/1799
+publisher: DU
+year: 2001
+pos: 1799
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# Ustawa z dnia 21 grudnia 2001 r. o zmianie ustawy o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2001 nr 154 poz. 1799 |
+| ISAP | WDU20011541799 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2001-12-21 |
+| Data wydania | 2001-12-29 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011541799) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1799/text.pdf) |
+
+**Art. 1.** Wustawie zdnia 8 czerwca 2001 r. ozawo- wym psychologów (Dz. U. 73, poz. 763 i 154, dzie psychologa isamorzàdzie zawodowym psycholo- poz.1798).” gów (Dz. U. 73, poz. 763) wart. 64 wyrazy „1 stycznia 2002 r.” zast´puje wyrazami „1 stycznia 2006r.” Art. 3.Ustawa wchodzi w˝ycie zdniem 31 grudnia 2001 r.
+
+**Art. 2.** Wustawie zdnia 6 wrzeÊnia 2001 r. ozmianie ustawy Prawo oruchu drogowym (Dz. U. Nr129, poz. 1444) w art. 6 dodaje na koƒcu wyrazy „oraz art. 1 pkt 81, który wchodzi w ˝ycie po up∏ywie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy zdnia 8czerwca 2001 r. ozawodzie psychologa isamorzàdzie zawodo- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1798 USTAWA zdnia 21 grudnia 2001 r. ozmianie ustawy ozawodzie psychologa isamorzàdzie zawodowym psychologów oraz ustawy ozmianie ustawy Prawo oruchu drogowym. USTAWA zdnia 21 grudnia 2001 r. ozmianie ustawy okszta∏towaniu wynagrodzeƒ wpaƒstwowej sferze bud˝etowej oraz ozmianie niektórych ustaw.
+
+**Art. 1.** Wustawie zdnia 23 grudnia 1999 r. okszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255, z2000 r. 19, poz. 239 oraz z2001 r. 85, poz. 924, 100, poz. 1080 i 154, poz. 1784) wprowadza nast´pujàce zmiany:
+
+**Art. 29c.**
+
+1. Podstaw´ do okreÊlenia wynagrodzeƒ w 2002 r. dla pracowników, o których w art. 5 pkt 2, stanowià wynagrodzenia z roku poprzedniego, bez wynagrodzeƒ wyp∏aconych ponad wynagrodzenia ustalone zgodnie z art. 6, które mogà wynikaç z przepisów wydanych na podstawie art. 9 ust.3 pkt 1—4, oraz dodatkowe wynagrodzenie roczne wyp∏acane na podstawie odr´bnych przepisów, z zastrze˝eniem ust. 2. kajàcych z uzyskania kolejnych stopni awansu zawodowego, okreÊlonych wart. 9aust. 1 ustawy zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 1997 r. 56, poz. 357, z 1998 r. 106, poz. 668 i 162, poz. 1118, z 2000 r. 12, poz. 136, 19, poz. 239, 22, poz. 291 i 122, poz. 1323 oraz z 2001 r. 111, poz. 1194, 128, poz. 1404 i 144, poz. 1615).
+
+**Art. 29d.** W 2002 r. wynagrodzenia finansowane ze Êrodków, o których w art. 9 ust. 3 pkt 1, nie mogà przekroczyç wielkoÊci wynagrodzeƒ finansowanych ztych Êrodków w2001 r.”
+
+**Art. 2.** Wustawie zdnia 3 marca 2000 r. owynagradzaniu osób kierujàcych niektórymi podmiotami prawnymi (Dz. U. 26, poz. 306 i z2001 r. 85, poz.924) po art. 29 dodaje art. 29awbrzmieniu: „Art. 29a. 1. W2002 r. przeci´tne miesi´czne wynagrodzenie wsektorze przedsi´biorstw bez wyp∏at nagród z zysku w czwartym kwartale roku poprzedniego, októrym wart. 8, w wysokoÊci przeci´tnego miesi´cznego wynagrodzenia w sektorze przedsi´biorstw bez wyp∏at nagród z zysku wczwartym kwartale 2000 r. przys∏uguje w wysokoÊci ustalonej w2001 r.”
+
+**Art. 3.**
+
+1. W 2002 r. wielkoÊç wynagrodzeƒ nie mo˝e przekroczyç wielkoÊci wynagrodzeƒ z 2001 r. w nast´pujàcych jednostkach i podmiotach prawnych sektora finansów publicznych:
+
+- **1)** urz´dach organów w∏adzy paƒstwowej, kontroli, ochrony prawa, sàdach i trybuna∏ach wymienionych w art. 83 ust. 2 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, poz.1014, z1999 r. 38, poz. 360, 49, poz. 485, 70, poz. 778 i 110, poz. 1255, z 2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz.1041, 119, poz. 1251 iNr 122, poz. 1315 oraz z 2001 r. 45, poz. 497, 46, poz. 499, 88, poz.961, 98, poz. 1070, 100, poz. 1082, Nr102, poz. 1116,Nr 125, poz. 1368 i 145, poz. 1623),
+- **2)** samorzàdowych jednostkach bud˝etowych, samorzàdowych zak∏adach bud˝etowych oraz gospodarstwach pomocniczych samorzàdowych jednostek bud˝etowych, z wy∏àczeniem wynagrodzeƒ nauczycieli w zwiàzku z uzyskaniem kolejnego stopnia awansu zawodowego, o którym wart.9aust. 1 ustawy Karta Nauczyciela,
+- **3)** jednostkach badawczo-rozwojowych,
+- **4)** paƒstwowych lub samorzàdowych instytucjach kultury,
+- **5)** funduszach celowych,
+- **6)** Zak∏adzie Ubezpieczeƒ Spo∏ecznych, Kasie Rolniczego Ubezpieczenia Spo∏ecznego i zarzàdzanych przez nie funduszach,
+- **7)** placówkach naukowych Polskiej Akademii Nauk,
+- **8)** kasach chorych,
+- **9)** paƒstwowych lub samorzàdowych osobach prawnych utworzonych na podstawie odr´bnych ustaw wcelu wykonywania zadaƒ publicznych, zwy∏àczeniem przedsi´biorstw, banków, spó∏ek prawa handlowego, samodzielnych publicznych zak∏adów opieki zdrowotnej oraz paƒstwowych szkó∏ wy˝szych iinnych jednostek prowadzàcych gospodark´ finansowà na zasadach okreÊlonych w ustawie z dnia 12 wrzeÊnia 1990 r. o szkolnictwie wy˝szym (Dz. U. 65, poz. 385, z 1992 r. 54, poz. 254 i 63, poz. 314, z 1994 r. 1, poz. 3, 43, poz. 163, 105, poz. 509 i 121, poz. 591, z 1996 r. 5, poz. 34 i 24, poz. 110, z 1997 r. 28, poz. 153, 96, poz. 590, 104, poz. 661, Nr121, poz. 770 iNr 141, poz. 943, z1998 r. 50, poz. 310, 106, poz. 668 iNr 162, poz. 1115 i1118, z2000 r. 120, poz. 1268 iNr 122, poz. 1314 oraz z2001 r. 85, poz. 924, 103, poz. 1129, 111, poz. 1193 i1194 iNr 126, poz. 1383).
+
+2. Wprzypadku zmiany formy organizacyjno-praw3. Przez wynagrodzenia, o których w ust. 1 i2, rozumie wydatki pieni´˝ne oraz wartoÊç Êwiadczeƒ w naturze, wyp∏acane pracownikom zatrudnionym na podstawie stosunku pracy, z wyjàtkiem osób kierujàcych w rozumieniu ustawy o wynagradzaniu osób kierujàcych niektórymi podmiotami prawnymi, zaliczone wed∏ug zasad statystyki zatrudnienia iwynagrodzeƒ okreÊlonych przez G∏ówny Urzàd Statystyczny do „wynagrodzeƒ bez wyp∏at zzysku”.
+
+**Art. 4.** W podmiotach prawnych sektora finansów publicznych, októrych wart. 3 ust. 1, nie stosuje w 2002 r. przepisów ustawy z dnia 16 grudnia 1994 r. o negocjacyjnym systemie kszta∏towania przyrostu przeci´tnych wynagrodzeƒ u przedsi´biorców oraz o zmianie niektórych ustaw (Dz. U. z 1995 r. 1, poz. 2 i 43, poz. 221, z 1997 r. 121, poz. 770, z 1998 r. 162, poz. 1112 oraz z 2001 r. 5, poz. 45 iNr 100, poz. 1080).
+
+**Art. 5.** Wustawie zdnia 12 paêdziernika 1994 r. osamorzàdowych kolegiach odwo∏awczych (Dz. U. z 2001 r. 79, poz. 856) w art. 15 ust. 6 i 7 otrzymujà brzmienie: „6. Wynagrodzenie zasadnicze prezesa, wiceprezesa ietatowych cz∏onków kolegium stanowi wielokrotnoÊç kwoty bazowej, której wysokoÊç ustalonà wed∏ug odr´bnych zasad okreÊla ustawa bud˝etowa. WysokoÊç wynagrodzenia jest ró˝nicowana ze wzgl´du na sta˝ pracy ipe∏nionà funkcj´. 7. Prezes Rady Ministrów okreÊli, wdrodze rozporzàdzenia, wielokrotnoÊç kwoty bazowej, októrej w ust. 6. WielokrotnoÊç ta nie mo˝e byç mniejsza ni˝ 3,0.”
+
+**Art. 6.** Wustawie zdnia 8 sierpnia 1996 r. oorganizacji itrybie pracy Rady Ministrów oraz ozakresie dzia∏ania ministrów (Dz. U. z1999 r. 82, poz. 929, z2000r. 120, poz. 1268 i z 2001 r. 102, poz. 1116) wart.14fskreÊla ust. 2.
+
+**Art. 7.** Wustawie zdnia 21 sierpnia 1997 r. Prawo opublicznym obrocie papierami wartoÊciowymi (Dz. U. 118, poz. 754 iNr 141, poz. 945, z1998 r. Nr107, poz. 669 i 113, poz. 715, z 2000 r. 22, poz. 270, 60, poz. 702 i 703, 94, poz. 1037, 103, poz. 1099, 114, poz. 1191, 116, poz. 1216 iNr 122, poz. 1315 oraz z2001 r. 110, poz. 1189 iNr 123, poz.1351) wart. 21 wprowadza nast´pujàce zmiany:
+
+**Art. 8.** Ustawa wchodzi w ˝ycie z dniem 1 stycznia 2002 r.
+

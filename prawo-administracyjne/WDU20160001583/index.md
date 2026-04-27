@@ -1,0 +1,78 @@
+---
+title: "Ustawa z dnia 5 września 2016 r. o zmianie ustawy o wspieraniu rodziny i systemie pieczy zastępczej, ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw"
+address: WDU20160001583
+eli: DU/2016/1583
+publisher: DU
+year: 2016
+pos: 1583
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 30 września 2016 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2016 poz. 1583 |
+| ISAP | WDU20160001583 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2016-09-05 |
+| Data wydania | 2016-09-30 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20160001583) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2016/1583/text.pdf) |
+
+USTAWA z 5 września 2016 r.
+o zmianie ustawy o wspieraniu rodziny systemie pieczy zastępczej, ustawy o pomocy społecznej oraz ustawy o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw
+1. W ustawie z 9 czerwca 2011 r. o wspieraniu rodziny systemie pieczy zast ę pczej (Dz. U. z 2016 r.
+poz. 575) wprowadza się następujące zmiany:
+1) w 25 ust. 1a otrzymuje brzmienie: „1a. W przypadku zapewnienia wspólnej obsługi placówek wsparcia dziennego na podstawie przepisów o samorządzie gminnym lub przepisów o samorządzie powiatowym lub w przypadku zapewnienia na podstawie 18a ust. 1 wspólnej obsługi ekonomiczno-administracyjnej organizacyjnej placówek wsparcia dziennego, placówką wsparcia dziennego może kierować kierownik podmiotu, który zapewnia tę obsługę, przy pomocy wyznaczonego w poszczególnych placówkach wsparcia dziennego wychowawcy.”;
+2) w 93 po ust. 3a dodaje się ust. 3b w brzmieniu: „3b. Przepisów ust. 3a nie stosuje się do placówek opiekuńczo-wychowawczych typu rodzinnego.”;
+3) w 97 po ust. 1 dodaje się ust. 1a 1b w brzmieniu: „1a. W przypadku zapewnienia wspólnej obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie przepisów o samorządzie powiatowym placówką opiekuńczo-wychowawczą może kierować dyrektor jednostki obsługującej, która prowadzi wspólną obsługę, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.
+1b. W przypadku zlecenia realizacji obsługi placówek opiekuńczo-wychowawczych typu socjalizacyjnego, interwencyjnego lub specjalistyczno-terapeutycznego na podstawie 94 ust. 1 placówką opiekuńczo-wychowawczą może kierować dyrektor podmiotu, któremu zlecono realizację, przy pomocy wyznaczonego w poszczególnych placówkach opiekuńczo-wychowawczych wychowawcy.”;
+4) w 106:
+a) po ust. 2 dodaje się ust. 2a w brzmieniu: „2a. Placówka opiekuńczo-wychowawcza, z wyjątkiem przypadków, o których mowa w ust. 3 3a, nie może się mieścić na jednej nieruchomości gruntowej ani w jednym budynku z izbami wytrzeźwień lub z zapewniającymi całodobową opiekę:
+1) innymi jednostkami organizacyjnymi wspierania rodziny systemu pieczy zastępczej;
+2) jednostkami organizacyjnymi pomocy społecznej;
+3) młodzieżowymi ośrodkami wychowawczymi;
+4) młodzie ż owymi o ś rodkami socjoterapii;
+5) specjalnymi o ś rodkami wychowawczymi;
+6) specjalistycznymi o ś rodkami wsparcia dla ofiar przemocy w rodzinie lub o ś rodkami wsparcia dla ofiar przemocy w rodzinie;
+7) jednostkami organizacyjnymi wymiaru sprawiedliwo ś ci;
+8) hospicjami;
+9) zakładami opiekuńczo-leczniczymi;
+10) zakładami pielęgnacyjno-opiekuńczymi;
+11) zakładami rehabilitacji leczniczej.”,
+b) po ust. 3 dodaje się ust. 3a w brzmieniu: „3a. Wojewoda może zezwolić na funkcjonowanie na jednej nieruchomości gruntowej więcej niż jednej placówki opiekuńczo-wychowawczej do 14 dzieci, uwzględniając specyfikę zadania tych placówek oraz potrzeby środowiska lokalnego.”;
+5) 113 otrzymuje brzmienie: „Art. 113. 1. Do regionalnych placówek opiekuńczo-terapeutycznych przepisy 93 ust. 4, 94, 95 ust. 5, 96–100, 106 ust. 1, ust. 2a pkt 1–8 ust. 3–11, 107 108 stosuje się odpowiednio.
+2. Do interwencyjnych ośrodków preadopcyjnych przepisy 93 ust. 4, 94, 95 ust. 5, 96–100, 106 ust. 1, ust. 2a pkt 1–7 ust. 3–11, 107 108 stosuje się odpowiednio.”;
+6) w 196 w ust. 2 po wyrazach „o której mowa w ustawie z 5 czerwca 1998 r. o samorządzie powiatowym (Dz. U. z 2015 r. poz. 1445 1890)” dodaje się wyrazy „ , jednostki, której zlecono realizację obsługi placówek opiekuńczo-wychowawczych na podstawie 94”.
+2. W ustawie z 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2016 r. poz. 930) wprowadza się następujące zmiany:
+1) 111a otrzymuje brzmienie: „Art. 111a. 1. Gmina może połączyć:
+1) ośrodek pomocy społecznej z ośrodkiem wsparcia, z wyłączeniem ośrodka wsparcia dla osób z zaburzeniami psychicznymi;
+2) dom pomocy społecznej dla osób w podeszłym wieku lub dla osób przewlekle somatycznie chorych z ośrodkiem wsparcia przeznaczonym dla osób starszych.
+2. W przypadku połączenia, o którym mowa w ust. 1, ośrodek wsparcia działa w strukturze odpowiednio ośrodka pomocy społecznej lub domu pomocy społecznej.
+3. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze ośrodka pomocy społecznej lub domu pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej.”;
+2) 112a otrzymuje brzmienie: „Art. 112a. 1. Powiat może połączyć powiatowe centrum pomocy rodzinie z ośrodkiem interwencji kryzysowej.
+2. W przypadku połączenia, o którym mowa w ust. 1, ośrodek interwencji kryzysowej działa w strukturze powiatowego centrum pomocy rodzinie.
+3. Osoby kierujące jednostkami organizacyjnymi pomocy społecznej będącymi w strukturze powiatowego centrum pomocy społecznej obowiązane są spełniać obowiązujące wymagania dla kierowników jednostek organizacyjnych pomocy społecznej.”;
+3) uchyla się 113a 113b;
+4) dodaje się 113c w brzmieniu: „Art. 113c. Jednostka organizacyjna pomocy społecznej zapewniająca całodobowe usługi nie może się mieścić w jednym budynku z:
+1) placówką zapewniającą całodobową opiekę osobom niepełnosprawnym, przewlekle chorym lub osobom w podeszłym wieku;
+2) placówką opiekuńczo-wychowawczą, regionalną placówką opiekuńczo-terapeutyczną lub interwencyjnym ośrodkiem preadopcyjnym;
+3) specjalistycznym o ś rodkiem wsparcia dla ofiar przemocy w rodzinie lub o ś rodkiem wsparcia dla ofiar przemocy w rodzinie;
+4) jednostk ą organizacyjn ą wymiaru sprawiedliwo ś ci;
+5) zakładem aktywno ś ci zawodowej;
+6) izb ą wytrze ź wie ń .”.
+3. W ustawie z 25 czerwca 2015 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw (Dz. U. poz. 1045) w 48:
+1) w ust. 6 skreśla się wyrazy „ , nie dłużej jednak niż przez 12 miesięcy od wejścia w życie niniejszej ustawy”;
+2) w ust. 7 skreśla się wyrazy „ , nie dłużej jednak niż przez 12 miesięcy od wejścia w życie niniejszej ustawy”.
+4. 1. Powstałe przed dniem wejścia w życie niniejszej ustawy placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne niespełniające wymagań, o których mowa w 106 ust. 2a ustawy, o której mowa w 1, w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do 31 grudnia 2019 r.
+2. Po upływie terminu, o którym mowa w ust. 1, placówki opiekuńczo-wychowawcze, regionalne placówki opiekuńczo-terapeutyczne oraz interwencyjne ośrodki preadopcyjne mogą prowadzić działalność, jeżeli spełniają wymagania określone w 106 ust. 2a ustawy, o której mowa w 1, w brzmieniu nadanym niniejszą ustawą.
+5. 1. Powstałe przed dniem wejścia w życie niniejszej ustawy jednostki organizacyjne pomocy społecznej niespełniające wymagań, o których mowa odpowiednio w 111a, 112a 113c ustawy, o której mowa w w brzmieniu nadanym niniejszą ustawą, mogą funkcjonować na dotychczasowych zasadach do 31 grudnia 2019 r.
+2. Po upływie terminu, o którym mowa w ust. 1, jednostki organizacyjne pomocy społecznej mogą prowadzić działalność, jeżeli spełniają wymagania określone odpowiednio w 111a, 112a 113c ustawy, o której mowa w w brzmieniu nadanym niniejszą ustawą.
+6. Ustawa wchodzi w ż ycie po upływie 14 dni od ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: A. Duda
+

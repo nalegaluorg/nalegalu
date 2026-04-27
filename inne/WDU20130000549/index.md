@@ -1,0 +1,34 @@
+---
+title: Wyrok Trybunału Konstytucyjnego z dnia 23 kwietnia 2013 r. sygn. akt P 44/10
+address: WDU20130000549
+eli: DU/2013/549
+publisher: DU
+year: 2013
+pos: 549
+act_type: Orzeczenie
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 maja 2013 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2013 poz. 549 |
+| ISAP | WDU20130000549 |
+| Typ aktu | Orzeczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2013-04-23 |
+| Data wydania | 2013-05-10 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/549/text.pdf) |
+
+Poz. 549 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 23 kwietnia 2013 r.
+sygn. akt P 44/10 Trybunał Konstytucyjny w składzie: Marek Zubik – przewodniczący, Zbigniew Cieślak – sprawozdawca, Sławomira Wronkowska-Jaśkiewicz, po rozpoznaniu, z udziałem sądów przedstawiających pytania prawne oraz Rady Ministrów i Prokuratora Generalnego, na rozprawie w dniu 23 kwietnia 2013 r., połączonych pytań prawnych:
+1) Sądu Rejonowego w Słubicach, czy § 10 rozporządzenia Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy celnych i członków ich rodzin (Dz. U. Nr 33, poz. 177) jest zgodny z art. 2 i art. 92 ust. 1 Konstytucji Rzeczypospolitej Polskiej oraz art. 242 ust. 1 ustawy z dnia 27 sierpnia 2009 r. o Służbie Celnej (Dz. U.
+Nr 168, poz. 1323),
+2) Sądu Rejonowego w Olsztynie, czy § 10 rozporządzenia powołanego w punkcie 1 jest zgodny z art. 2 i art. 32 ust. 1 oraz art. 92 ust. 1 Konstytucji w związku z art. 135 ust. 2 ustawy powołanej w punkcie 1, orzeka: § 10 rozporządzenia Rady Ministrów z dnia 16 lutego 2010 r. w sprawie świadczeń socjalnych funkcjonariuszy celnych i członków ich rodzin (Dz. U. Nr 33, poz. 177 oraz z 2012 r. poz. 197) w zakresie, w jakim odnosi się do dopłaty do wypoczynku, jest niezgodny z art. 2 Konstytucji Rzeczypospolitej Polskiej.
+Ponadto postanawia: na podstawie art. 39 ust. 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 112, poz. 654) umorzyć postępowanie w pozostałym zakresie.
+Marek Zubik Zbigniew Cieślak Sławomira Wronkowska-Jaśkiewicz
+

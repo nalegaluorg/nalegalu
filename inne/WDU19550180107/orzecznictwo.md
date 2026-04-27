@@ -1,0 +1,20 @@
+# Orzecznictwo — Dekret z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym.
+
+Orzeczenia powołujące: *Dekret z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym.*
+
+Łącznie: **5** orzeczeń
+
+## art. 12 (1)
+
+- 2012-10-23 | TK | [SK 11/12](https://www.saos.org.pl/judgments/110986) | Wyrok
+
+## art. 15 (1)
+
+- 2014-10-03 | SO | [I C 678/13](https://www.saos.org.pl/judgments/63964) | Wyrok
+
+## (ogólnie) (3)
+
+- 2022-10-26 | SO | [I ACa 270/21](https://www.saos.org.pl/judgments/493984) | Wyrok
+- 2018-05-09 | SO | [I C 45/17](https://www.saos.org.pl/judgments/345181) | Wyrok
+- 2013-12-17 | SO | [I ACa 619/13](https://www.saos.org.pl/judgments/41015) | Wyrok
+

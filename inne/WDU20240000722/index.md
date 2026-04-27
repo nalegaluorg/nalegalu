@@ -1,0 +1,6878 @@
+---
+title: Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 21 marca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o obrocie instrumentami finansowymi
+address: WDU20240000722
+eli: DU/2024/722
+publisher: DU
+year: 2024
+pos: 722
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 14 maja 2024 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2024 poz. 722 |
+| ISAP | WDU20240000722 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2024-03-21 |
+| Data wydania | 2024-05-14 |
+| Ostatnia zmiana | 2026-04-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000722) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/722/text.pdf) |
+
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 21 marca 2024 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o obrocie instrumentami finansowymi
+1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2023 r. poz. 646), z uwzględnieniem zmian wprowadzonych:
+1) ustawą z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825 i 1723),
+2) ustawą z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941),
+3) ustawą z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U. poz. 1723) oraz zmian wynikających z przepisów ogłoszonych przed dniem 14 marca 2024 r.
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1) art. 26 ustawy z dnia 14 kwietnia 2023 r. o zmianie ustawy o funduszach inwestycyjnych i zarządzaniu alternatywnymi funduszami inwestycyjnymi, ustawy o obligacjach, ustawy o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji oraz niektórych innych ustaw (Dz. U. poz. 825 i 1723), który stanowi: „Art. 26. Ustawa wchodzi życie z dniem 1 października 2023 r., z wyjątkiem:
+1) art. 16, art. 19 i art. 20, które wchodzą życie z dniem następującym po dniu ogłoszenia;
+2) art. 18, który wchodzi życie z dniem 22 maja 2023 r.;
+3) art. 1, art. 3, art. 4, art. 9 pkt 1, 2 i 7, pkt 10 lit. b i c oraz pkt 12, art. 11 pkt 1 i 5, art. 15, art. 17, art. 21, art. 22 oraz art. 24, które wchodzą życie po upływie 14 dni od dnia ogłoszenia.”;
+2) art. 52 ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941), który stanowi: „Art. 52. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+1) art. 4 ust. 3, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia ustawy;
+2) art. 36 pkt 1–5, które wchodzą życie po upływie 12 miesięcy od dnia ogłoszenia ustawy.”;
+3) art. 48, art. 49, art. 50 ust. 2, art. 57–60, art. 70, art. 71 i art. 73 ustawy z dnia 16 sierpnia 2023 r. o zmianie niektórych ustaw związku z zapewnieniem rozwoju rynku finansowego oraz ochrony inwestorów na tym rynku (Dz. U.
+poz. 1723), które stanowią: „Art. 48. 1. Zezwolenia, o których mowa art. 111 ust. 1 ustawy zmienianej art. 17, brzmieniu dotychczasowym, dla banków prowadzących dniu wejścia życie niniejszej ustawy działalność maklerską, zachowują ważność do dnia uzyskania zezwolenia przez bank na zmianę statutu zakresie dostosowania treści statutów do wymogów określonych art. 31 ust. 3 pkt 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą.
+do Komisji Nadzoru Finansowego z wnioskiem o udzielenie zezwolenia na zmianę statutu celu zapewnienia jego zgodności z wymogami określonymi art. 31 ust. 3 pkt 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, terminie 6 miesięcy od dnia wejścia życie niniejszej ustawy. W takim przypadku nie mają zastosowania wymogi określone art. 36 ust. 2a i 2aa ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą.
+3. Bank, którego postanowienia statutowe spełniają wymogi określone art. 31 ust. 3 pkt 2 ustawy zmienianej art. 5, brzmieniu nadanym niniejszą ustawą, i umożliwiają prowadzenie działalności na własny rachunek na zasadach określonych art. 70 ust. 2 pkt 3 ustawy zmienianej art. 17, brzmieniu nadanym niniejszą ustawą, ale działalności tej nie prowadzi, powinien powiadomić Komisję Nadzoru Finansowego o zamiarze rozpoczęcia prowadzenia działalności na miesiąc przed rozpoczęciem tej działalności.
+Art. 110zc. 1. W przypadku wystąpienia sytuacji zagrażającej stabilności finansowej lub powstania niebezpieczeństwa niewypłacalności lub utraty płynności domu maklerskiego na poziomie jednostkowym lub skonsolidowanym dom maklerski niezwłocznie zawiadamia o tym Komisję oraz przedstawia jej program postępowania naprawczego.
+3. Program postępowania naprawczego uwzględnia wielkość domu maklerskiego, a także skalę i stopień złożoności jego działalności.
+4. Program postępowania naprawczego obejmuje szczególności:
+1) wskazanie sposobu przywrócenia stabilności finansowej, wypłacalności lub płynności;
+2) założenia do programu i wskazanie istotnych etapów jego realizacji;
+3) wskazanie zagrożeń dla realizacji programu i sposobu ich eliminacji.
+5. Komisja może wyznaczyć domowi maklerskiemu termin na opracowanie programu postępowania naprawczego, o którym mowa ust. 1, oraz zalecić jego uzupełnienie lub ponowne opracowanie.
+6. W razie zaniechania działań określonych ust. 1 lub 5 Komisja może, drodze decyzji, nakazać domowi maklerskiemu wszczęcie postępowania naprawczego.
+7. W okresie realizacji przez dom maklerski programu postępowania naprawczego zysk osiągany przez dom maklerski jest przeznaczany pierwszej kolejności na pokrycie strat, a następnie na zwiększenie funduszy własnych.
+Art. 110zd. 1. Jeżeli program postępowania naprawczego nie jest wystarczający lub jego realizacja nie jest należyta, Komisja może:
+1) wystąpić do zarządu domu maklerskiego z żądaniem zwołania nadzwyczajnego walnego zgromadzenia albo zgromadzenia wspólników celu rozpatrzenia sytuacji domu maklerskiego, powzięcia decyzji o pokryciu straty bilansowej oraz podjęcia innych uchwał, tym zwiększenia, okresie nie dłuższym niż 6 miesięcy, funduszy własnych;
+2) nakazać obniżenie lub wstrzymanie wypłaty niektórych zmiennych składników wynagrodzeń osób zajmujących stanowiska kierownicze domu maklerskim, tym przypadających za czas zajmowania stanowiska kierowniczego domu maklerskim, nie dłużej niż za ostatnie 3 lata.
+2. Zarząd domu maklerskiego powinien zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników ciągu 14 dni od dnia doręczenia decyzji Komisji przedmiocie żądania, o którym mowa ust. 1 pkt 1. Komisja może zwołać nadzwyczajne walne zgromadzenie albo zgromadzenie wspólników, jeżeli zarząd domu maklerskiego nie zwołał tego zgromadzenia tym terminie. Koszty zwołania i odbycia walnego zgromadzenia albo zgromadzenia wspólników obciążają dom maklerski.
+3. Przerwy walnym zgromadzeniu albo zgromadzeniu wspólników nie mogą trwać łącznie dłużej niż 14 dni.
+Art. 110ze. 1. Komisja może wydać decyzję o ustanowieniu kuratora nadzorującego wykonanie programu postępowania naprawczego przez dom maklerski, jeżeli jest to niezbędne do zapewnienia prawidłowego przebiegu postępowania naprawczego.
+2. Kuratorowi przysługuje prawo uczestniczenia posiedzeniach organów domu maklerskiego oraz prawo żądania informacji niezbędnych do wykonywania jego funkcji. Organy z odpowiednim wyprzedzeniem informują kuratora o posiedzeniach organów.
+3. Organy domu maklerskiego niezwłocznie informują kuratora o powziętych uchwałach i decyzjach.
+4. Kuratorowi przysługuje prawo wniesienia sprzeciwu wobec uchwał i decyzji zarządu, rady nadzorczej lub komisji rewizyjnej domu maklerskiego. Oświadczenie o zamiarze wniesienia sprzeciwu zgłoszone na posiedzeniu rady nadzorczej, komisji rewizyjnej lub zarządu wstrzymuje wykonanie uchwały lub decyzji.
+5. Sprzeciw, o którym mowa ust. 4, kurator wnosi do sądu właściwego sprawach gospodarczych terminie 14 dni od daty powzięcia uchwały lub decyzji zarządu, rady nadzorczej lub komisji rewizyjnej.
+6. W przypadku braku wniesienia sprzeciwu do sądu terminie, o którym mowa ust. 5, lub przypadku oświadczenia kuratora, że nie będzie zgłaszał sprzeciwu, uchwała lub decyzja, o której mowa ust. 4, podlega wykonaniu.
+7. Kurator może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+8. Od decyzji o ustanowieniu kuratora dom maklerski może wnieść skargę do sądu administracyjnego terminie 7 dni od dnia doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
+i zasad działalności domu maklerskiego. Kuratorem może być również osoba prawna.
+10. Komisja może żądać od kuratora wyjaśnień i informacji związanych z pełnieniem funkcji.
+11. Kurator niezwłocznie zawiadamia Komisję o wszelkich zagrożeniach prawidłowej i terminowej realizacji programu postępowania naprawczego.
+12. Kurator składa Komisji kwartalne sprawozdania ze swojej działalności zawierające ocenę realizacji przez zarząd domu maklerskiego programu postępowania naprawczego.
+13. Wynagrodzenie kuratora ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie prezesa domu maklerskiego, którym ustanowiono kuratora. W przypadku domu maklerskiego działającego formie spółki osobowej wynagrodzenie kuratora nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty związane z pełnieniem funkcji kuratora obciążają dom maklerski.
+14. Komisja może odwołać kuratora nadzorującego wykonywanie programu postępowania naprawczego przez dom maklerski przypadku jego rezygnacji, niewłaściwego pełnienia funkcji lub innych względów uniemożliwiających mu należyte pełnienie tej funkcji.
+15. Osobie fizycznej pełniącej funkcję kuratora przysługuje prawo do urlopu wypoczynkowego wysokości 26 dni na zasadach określonych ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 2023 r. poz. 1465) terminach uzgodnionych z Komisją.
+16. Okres pełnienia funkcji kuratora jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
+Do osób tych mają zastosowanie przepisy o ubezpieczeniach społecznych i ubezpieczeniu zdrowotnym, o ile osoby te nie są objęte tymi ubezpieczeniami z innych tytułów.
+Art. 110zf. 1. Jeżeli dom maklerski nie przekaże programu postępowania naprawczego zgodnie z art. 110zc ust. 1 albo gdy realizacja tego programu okaże się nieskuteczna, Komisja może podjąć decyzję o ustanowieniu zarządu komisarycznego na czas realizacji programu postępowania naprawczego. W decyzji o ustanowieniu zarządu komisarycznego Komisja określa jego zadania.
+2. Ustanowienie zarządu komisarycznego nie wpływa na organizację i sposób działania domu maklerskiego.
+3. Na zarząd komisaryczny przechodzi prawo prowadzenia spraw spółki i jej reprezentowania, szczególności zarząd komisaryczny może zaskarżyć uchwały walnego zgromadzenia albo zgromadzenia wspólników, które naruszają interes domu maklerskiego, zgodnie z art. 249 § 1 i art. 422 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+Z dniem ustanowienia zarządu komisarycznego rada nadzorcza lub komisja rewizyjna zostają zawieszone, mandaty członków zarządu domu maklerskiego, a także prokury i pełnomocnictwa wygasają. Na czas trwania zarządu komisarycznego kompetencje innych organów domu maklerskiego zostają zawieszone.
+4. Zarząd komisaryczny może dokonać zamknięcia ksiąg rachunkowych domu maklerskiego i sporządzić sprawozdanie finansowe domu maklerskiego na dzień wyznaczony przez Komisję oraz podjąć uchwałę o pokryciu straty za okres kończący się tym dniu oraz straty za lata ubiegłe.
+5. Zarząd komisaryczny wykonuje również zadania określone decyzji o jego ustanowieniu.
+6. Od decyzji, o której mowa ust. 1, rada nadzorcza, komisja rewizyjna albo wspólnik mający prawo prowadzenia spraw spółki lub jej reprezentowania może wnieść skargę do sądu administracyjnego terminie 7 dni od daty doręczenia decyzji. Wniesienie skargi nie wstrzymuje wykonania decyzji. Przepisu art. 127 § 3 Kodeksu postępowania administracyjnego nie stosuje się.
+7. Zarząd komisaryczny opracowuje i uzgadnia z Komisją program postępowania naprawczego, kieruje jego realizacją oraz nie rzadziej niż co 3 miesiące informuje Komisję, radę nadzorczą lub komisję rewizyjną o wynikach realizacji programu.
+8. Ustanowienie zarządu komisarycznego podlega zgłoszeniu do rejestru właściwego dla domu maklerskiego.
+9. Wniosek o wpis do rejestru zarządu komisarycznego, wykreślenia członków zarządu i prokurentów oraz zawieszenia rady nadzorczej lub komisji rewizyjnej składa zarząd komisaryczny terminie 7 dni od dnia wydania decyzji o jego ustanowieniu. Do uiszczenia opłaty sądowej od wniosku oraz opłaty za ogłoszenie wpisu Monitorze Sądowym i Gospodarczym jest obowiązany dom maklerski.
+10. Komisja może żądać od zarządu komisarycznego wyjaśnień i informacji związanych z wykonywaniem jego zadań.
+pracy, udziela się urlopu bezpłatnego na okres pełnienia tej funkcji.
+2. Okres urlopu bezpłatnego, o którym mowa ust. 1, jest wliczany do okresu pracy, od którego zależą uprawnienia pracownicze.
+3. Wynagrodzenie członków zarządu komisarycznego ustala Komisja, z tym że nie może ono być wyższe niż wynagrodzenie członków dotychczasowego zarządu. W przypadku domu maklerskiego działającego formie spółki osobowej wynagrodzenie członków zarządu komisarycznego nie może przekraczać dziesięciokrotności przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego. Koszty działalności zarządu komisarycznego obciążają dom maklerski.
+Art. 110zh. W przypadku domu maklerskiego działającego formie spółki osobowej przepisy niniejszego oddziału dotyczące organów mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania, zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+Art. 110zha. Przepisów niniejszego oddziału nie stosuje się do domów maklerskich, o których mowa art. 110zi ust. 1 pkt 4, oraz domów maklerskich stosujących rozporządzenie 575/2013, z zastrzeżeniem art. 110zza ust. 4 i 5.
+Art. 110zi. 1. Ilekroć niniejszym oddziale jest mowa o:
+1) (uchylony)
+2) (uchylony)
+3) (uchylony)
+4) domu maklerskim rozumie się przez to dom maklerski, o którym mowa art. 98 ust. 3, który nie jest domem maklerskim stosującym rozporządzenie 575/2013;
+5) (uchylony)
+6) finansowej spółce holdingowej o działalności mieszanej rozumie się przez to finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033;
+7) funkcji krytycznej rozumie się przez to funkcję krytyczną, o której mowa art. 2 pkt 17 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+8) głównej linii biznesowej rozumie się przez to linię biznesową wraz z powiązanymi usługami, która stanowi dla domu maklerskiego lub grupy firm inwestycyjnych, której skład wchodzi dom maklerski, istotne źródło przychodów lub zysku;
+9) (uchylony) 9a) grupie firm inwestycyjnych rozumie się przez to grupę firm inwestycyjnych, o której mowa art. 110a ust. 1 pkt 6aa;
+10) holdingu mieszanym rozumie się przez to holding mieszany, o którym mowa art. 110a ust. 1 pkt 6c;
+11) instytucji rozumie się przez to dom maklerski lub firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, z siedzibą innym państwie członkowskim, która jest objęta wymogiem dotyczącym kapitału założycielskiego wysokości 750 000 euro;
+12) instytucji finansowej rozumie się przez to instytucję finansową, o której mowa art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033;
+13) instytucji kredytowej rozumie się przez to instytucję kredytową, o której mowa art. 4 ust. 1 pkt 8 rozporządzenia 2019/2033;
+13a) inwestycyjnej spółce holdingowej rozumie się przez to inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033;
+14) (uchylony) 14a) nadzorze na zasadzie skonsolidowanej rozumie się przez to nadzór nad grupą firm inwestycyjnych na zasadzie skonsolidowanej, o którym mowa art. 110g;
+ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej lub inne publiczne wsparcie finansowe na poziomie ponadnarodowym, które, jeżeli jest udzielane na poziomie krajowym, stanowi pomoc państwa udzielaną celu utrzymania lub przywrócenia rentowności, płynności bądź wypłacalności domu maklerskiego lub grupy firm inwestycyjnych, której częścią jest dom maklerski, tym działania, o których mowa ustawie z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej;
+16) podmiocie dominującym rozumie się przez to podmiot dominujący, o którym mowa art. 110a ust. 1 pkt 10;
+17) podmiocie powiązanym rozumie się przez to podmiot wchodzący skład grupy firm inwestycyjnych;
+18) podmiocie zależnym rozumie się przez to jednostkę zależną, o której mowa art. 4 ust. 1 pkt 51 rozporządzenia 2019/2033;
+19) standardowym postępowaniu upadłościowym rozumie się przez to postępowanie upadłościowe prowadzone na podstawie przepisów ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe lub zagraniczne postępowanie upadłościowe, o którym mowa art. 379 pkt 1 tej ustawy;
+20) (uchylony)
+21) (uchylony)
+22) unijnej dominującej finansowej spółce holdingowej o działalności mieszanej rozumie się przez to unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033;
+22a) unijnej dominującej firmie inwestycyjnej rozumie się przez to unijną dominującą firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 56 rozporządzenia 2019/2033;
+22b) unijnej dominującej inwestycyjnej spółce holdingowej rozumie się przez to unijną dominującą inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033;
+23) (uchylony)
+24) unijnej jednostce dominującej rozumie się przez to unijną dominującą firmę inwestycyjną, unijną dominującą inwestycyjną spółkę holdingową lub unijną dominującą finansową spółkę holdingową o działalności mieszanej.
+2. (uchylony)
+Art. 110zj. 1. Dom maklerski, który nie jest objęty grupowym planem naprawy na podstawie niniejszej ustawy, ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe albo na podstawie przepisów prawa innego państwa członkowskiego, tym przepisów wskazujących Europejski Bank Centralny jako właściwy zakresie grupowych planów naprawy dla instytucji kredytowych, zgodnie z rozporządzeniem Rady (UE) nr 1024/2013 z dnia 15 października 2013 r. powierzającym Europejskiemu Bankowi Centralnemu szczególne zadania odniesieniu do polityki związanej z nadzorem ostrożnościowym nad instytucjami kredytowymi (Dz. Urz. UE L 287 z 29.10.2013, str. 63), oraz dom maklerski, który nie ma obowiązku posiadania grupowego planu naprawy, są obowiązane posiadać plan naprawy. Plan naprawy stanowi element systemu zarządzania, o którym mowa art. 110c ust. 1. Dom maklerski uwzględnia planie naprawy podmioty działające tej samej grupie firm inwestycyjnych.
+2. Komisja, przypadku gdy jest to niezbędne do zapewnienia stabilności rynku finansowego, może, drodze decyzji, nakazać sporządzenie planu naprawy domowi maklerskiemu, który zgodnie z ust. 1 nie ma takiego obowiązku. W decyzji Komisja określa termin przedstawienia planu naprawy przez dom maklerski. Do postępowania sprawie zatwierdzenia planu naprawy stosuje się przepisy art. 110zk ust. 2, 3 i 5–11.
+3. Plan naprawy obejmuje:
+1) streszczenie głównych elementów planu naprawy;
+2) opis istotnych zmian domu maklerskim, które nastąpiły od dnia przedstawienia planu naprawy albo ostatniej aktualizacji planu naprawy;
+3) opis polityki informacyjnej domu maklerskiego związku z potencjalnymi negatywnymi reakcjami rynku finansowego na pogarszającą się sytuację domu maklerskiego;
+4) działania dotyczące kapitału i płynności domu maklerskiego konieczne celu poprawy jego sytuacji finansowej;
+5) prognozowany harmonogram działań podejmowanych celu realizacji istotnych elementów planu naprawy;
+6) szczegółowy opis okoliczności zagrażających skutecznej i terminowej realizacji planu naprawy, obejmujący analizę wpływu działań przewidzianych planie naprawy na podmioty prowadzące działalność tej samej grupie firm inwestycyjnych co dom maklerski oraz na klientów i inne strony umów zawartych z domem maklerskim;
+8) procedury ustalenia wartości i oceny zbywalności głównych linii biznesowych i aktywów domu maklerskiego;
+9) powiązania procesu przygotowania planu naprawy z systemem zarządzania domem maklerskim oraz zasad zatwierdzania planu naprawy i ustalania osób odpowiedzialnych za jego przygotowanie i wdrożenie;
+10) czynności, które należy podjąć celu utrzymania odpowiedniego poziomu funduszy własnych domu maklerskiego lub przywrócenia poziomu funduszy własnych do wysokości wymaganej zgodnie z art. 110e lub art. 110y ust. 3 oraz zgodnie z przepisami rozporządzenia 2019/2033;
+11) działania służące zapewnieniu możliwości kontynuowania działalności i terminowego wywiązywania się z wymagalnych zobowiązań, ukierunkowane zwłaszcza na zapewnienie dostępu do rezerwowych źródeł finansowania, tym do potencjalnych źródeł płynności, a także oceny dostępnych zabezpieczeń oraz oceny możliwości udzielenia wsparcia finansowego pomiędzy podmiotami powiązanymi i przenoszenia płynności pomiędzy liniami biznesowymi;
+12) (uchylony)
+13) środki dotyczące restrukturyzacji zobowiązań domu maklerskiego;
+14) środki dotyczące restrukturyzacji linii biznesowych domu maklerskiego;
+15) porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości dostępu domu maklerskiego do infrastruktury rynków finansowych;
+16) porozumienia, umowy i inne działania mające na celu utrzymanie ciągłości działania domu maklerskiego;
+17) opis działań przygotowawczych mających na celu umożliwienie zbycia przez dom maklerski aktywów lub linii biznesowych terminie zapewniającym przywrócenie stabilności finansowej domu maklerskiego;
+18) inne działania lub strategie zarządcze służące przywróceniu stabilności finansowej domu maklerskiego oraz prognozowane skutki finansowe takich działań lub strategii;
+19) działania, jakie dom maklerski podjął lub planuje podjąć celu umożliwienia wdrożenia planu naprawy, tym niezbędne do terminowego dokapitalizowania domu maklerskiego;
+20) poziomy wskaźników, o których mowa art. 110zo ust. 1, po osiągnięciu których mogą być podjęte działania określone planie naprawy;
+21) działania, jakie może podjąć dom maklerski, jeżeli zostaną spełnione przesłanki wczesnej interwencji, o których mowa art. 110zz.
+4. Plan naprawy spełnia następujące warunki:
+1) przewidziane planem naprawy działania przyczynią się do przywrócenia lub utrzymania dobrej kondycji finansowej i rentowności domu maklerskiego lub grupy firm inwestycyjnych;
+2) przewidziane planem naprawy działania mogą być efektywnie i szybko wdrożone bez negatywnych skutków dla systemu finansowego, szczególności bez spowodowania konieczności wdrażania planów naprawy przez inne instytucje lub instytucje kredytowe tym samym czasie;
+3) struktura kapitałowa i struktura finansowania domu maklerskiego wskazane planie naprawy są dostosowane do poziomu złożoności struktury organizacyjnej i profilu ryzyka domu maklerskiego.
+5. Plan naprawy nie może zakładać uzyskania nadzwyczajnego publicznego wsparcia finansowego.
+6. Plan naprawy podlega zatwierdzeniu przez zarząd domu maklerskiego.
+7. Dom maklerski aktualizuje plan naprawy co najmniej raz roku oraz po istotnej zmianie struktury organizacyjnej lub prawnej, sytuacji finansowej lub po wystąpieniu innego zdarzenia wpływającego na przyjęte planie założenia i wykonanie planu naprawy. Komisja może zalecić domowi maklerskiemu częstszą aktualizację planu naprawy.
+Art. 110zk. 1. Dom maklerski przedstawia Komisji plan naprawy terminie 6 miesięcy od dnia rozpoczęcia działalności.
+2. Komisja zatwierdza plan naprawy drodze decyzji terminie 6 miesięcy od dnia jego otrzymania.
+3. Aktualizacja planu naprawy, o której mowa art. 110zj ust. 7, wymaga zatwierdzenia przez Komisję. Przepisy ust. 2 i 5–10 stosuje się odpowiednio.
+4. (uchylony) planie naprawy działań, które mogą mieć negatywny wpływ na skuteczność restrukturyzacji i likwidacji domu maklerskiego, niezwłocznie informację o tym przekazuje Komisji.
+6. Jeżeli plan naprawy nie spełnia wymagań określonych art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja wzywa dom maklerski do uzupełnienia lub zmiany planu, terminie 2 miesięcy od dnia doręczenia wezwania. Terminu tego nie wlicza się do terminu, o którym mowa ust. 2. Na wniosek domu maklerskiego Komisja może przedłużyć ten termin o miesiąc.
+7. W przypadku gdy zmieniony lub uzupełniony plan naprawy nadal nie spełnia wymagań określonych art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja, drodze decyzji, odmawia zatwierdzenia planu naprawy, oraz wzywa dom maklerski do przedstawienia nowego planu naprawy.
+8. W decyzji, o której mowa ust. 7, Komisja może wskazać termin, do którego dom maklerski powinien przedstawić nowy plan naprawy, oraz obszary działalności domu maklerskiego, które ocenie Komisji wymagają uwzględnienia planie naprawy.
+9. Komisja zatwierdza nowy plan naprawy, o którym mowa ust. 7, terminie 6 miesięcy od dnia jego otrzymania.
+10. W przypadku gdy nowy plan naprawy, o którym mowa ust. 7, nie spełnia wymagań określonych art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, Komisja zaleca domowi maklerskiemu wskazanie zmian działalności domu maklerskiego niezbędnych celu spełnienia wymagań, o których mowa art. 110zj, lub celu usunięcia innych istotnych okoliczności zagrażających wdrożeniu planu naprawy, wyznaczając odpowiedni termin na przedstawienie tych zmian. Jeżeli nowy plan naprawy nie spełnia wymagań określonych art. 110zj lub występują inne istotne okoliczności zagrażające jego wdrożeniu, a dom maklerski nie wskaże zmian działalności lub Komisja uzna je za niewystarczające, Komisja, drodze decyzji, odmawia zatwierdzenia nowego planu naprawy oraz nakazuje wprowadzenie niezbędnych zmian działalności domu maklerskiego.
+11. W decyzji, o której mowa ust. 10, Komisja może określić termin wprowadzenia zmian działalności domu maklerskiego oraz szczególności nakazać domowi maklerskiemu:
+1) zmianę profilu ryzyka, tym ryzyka utraty płynności;
+2) podjęcie działań celu zapewnienia możliwości terminowego dokapitalizowania domu maklerskiego;
+3) dokonanie przeglądu strategii i struktury organizacyjnej domu maklerskiego;
+4) wprowadzenie zmian strategii finansowania, które obniżą poziom ryzyka związany z działalnością domu maklerskiego zakresie głównych linii biznesowych i funkcji krytycznych;
+5) wprowadzenie zmian systemie zarządzania ryzykiem domu maklerskim, o którym mowa art. 110b ust. 1.
+12. Zatwierdzony plan naprawy Komisja przekazuje Bankowemu Funduszowi Gwarancyjnemu terminie 7 dni od dnia podjęcia decyzji, o której mowa ust. 2.
+Art. 110zl. 1. Dom maklerski będący unijną dominującą firmą inwestycyjną albo unijna dominująca inwestycyjna spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, nad którymi Komisja sprawuje nadzór na zasadzie skonsolidowanej, są obowiązane posiadać grupowe plany naprawy. Grupowy plan naprawy może określać działania, które powinny zostać podjęte przez ten dom maklerski, tę unijną dominującą inwestycyjną spółkę holdingową oraz tę unijną dominującą finansową spółkę holdingową o działalności mieszanej, jak również poszczególne podmioty zależne.
+2. Celem grupowego planu naprawy jest poprawa sytuacji finansowej grupy firm inwestycyjnych lub podmiotów powiązanych będących instytucjami, z jednoczesnym uwzględnieniem sytuacji finansowej innych podmiotów powiązanych.
+Grupowy plan naprawy zapewnia koordynację działań odniesieniu do unijnej jednostki dominującej i podmiotów zależnych.
+3. Do grupowego planu naprawy przepisy art. 110zj ust. 3–6 i art. 110zk ust. 5 i 12 stosuje się odpowiednio. Grupowy plan naprawy może uwzględniać umowy, o których mowa art. 110zr ust. 1. Grupowy plan naprawy określa informacje, o których mowa art. 110zj ust. 3, odniesieniu do grupy firm inwestycyjnych, domu maklerskiego oraz poszczególnych podmiotów zależnych.
+4. Grupowy plan naprawy podlega zatwierdzeniu przez organ zarządzający podmiotu obowiązanego do jego sporządzenia.
+spółka holdingowa oraz unijna dominująca finansowa spółka holdingowa o działalności mieszanej, o których mowa art. 110zl ust. 1, są obowiązane przedstawić grupowy plan naprawy terminie 6 miesięcy od dnia, którym uzyskały status odpowiednio domu maklerskiego będącego unijną dominującą firmą inwestycyjną, unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej. Do grupowego planu naprawy przepisy art. 110zk stosuje się odpowiednio.
+2. Grupowy plan naprawy Komisja przekazuje:
+1) właściwym organom nadzoru dla podmiotów zależnych grupie firm inwestycyjnych;
+2) (uchylony)
+3) Bankowemu Funduszowi Gwarancyjnemu;
+4) organom do spraw przymusowej restrukturyzacji właściwym dla podmiotów zależnych.
+3. Komisja dąży do osiągnięcia porozumienia z właściwymi organami nadzoru dla podmiotów zależnych wchodzących skład grupy firm inwestycyjnych zakresie:
+1) stwierdzenia, czy grupowy plan naprawy spełnia wymogi określone art. 110zl oraz zakresie wpływu działań przewidzianych grupowym planie naprawy na stabilność finansową we wszystkich państwach członkowskich, których prowadzą działalność podmioty powiązane;
+2) konieczności sporządzenia i przekazania planów naprawy przez niektóre lub wszystkie instytucje zależne;
+3) zasadności podjęcia działań, o których mowa art. 110zk ust. 6–11 odniesieniu do grupowego planu naprawy.
+4. W przypadku gdy porozumienie zakresie ust. 3 pkt 1 i 3 nie zostanie osiągnięte terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa ust. 2, Komisja może podjąć działania, o których mowa art. 110zk ust. 6–11 odniesieniu do unijnej jednostki dominującej, uwzględniając stanowiska przekazane dotychczas przez właściwe organy nadzoru. Komisja informuje właściwe organy nadzoru o ostatecznej treści grupowego planu naprawy.
+5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa ust. 4, Komisja lub inny zainteresowany właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010, Komisja może podejmować działania określone ust. 3 pkt 3 odniesieniu do unijnej jednostki dominującej, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, podejmując działania, o których mowa art. 110zk ust. 5–8, odniesieniu do unijnej jednostki dominującej, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy, o którym mowa ust. 4, uznaje się za termin zakończenia postępowania pojednawczego rozumieniu tego rozporządzenia.
+6. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010 wyłącznie zakresie, o którym mowa ust. 3 pkt 1, oraz odniesieniu do unijnej jednostki dominującej sprawach, o których mowa art. 110zk ust. 11 pkt 1, 2 i 4.
+7. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa ust. 4, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie zakresie, o którym mowa ust. 3 pkt 1 lub 3, sprawie grupowego planu naprawy zakresie obejmującym podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, tym dom maklerski.
+8. W przypadku gdy porozumienie, o którym mowa ust. 3 pkt 2, zakresie konieczności sporządzenia i przekazania planu naprawy przez instytucję zależną nie zostanie osiągnięte terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa ust. 2, Komisja może przekazać właściwemu organowi nadzoru dla instytucji zależnej stanowisko.
+9. W przypadku gdy skład grupy firm inwestycyjnych wchodzi dom maklerski będący podmiotem zależnym, a porozumienie, o którym mowa ust. 3 pkt 2, zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski nie zostanie osiągnięte terminie 4 miesięcy od dnia przekazania przez Komisję grupowego planu naprawy podmiotom, o których mowa ust. 2, Komisja może nakazać domowi maklerskiemu drodze decyzji sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+10. W przypadku gdy zostało osiągnięte porozumienie sprawie sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+którą nadzór na zasadzie skonsolidowanej sprawuje właściwy organ nadzoru z innego państwa członkowskiego, Komisja dąży do osiągnięcia porozumienia z tym właściwym organem nadzoru oraz z innymi właściwymi organami nadzoru, terminie 4 miesięcy od dnia przekazania Komisji grupowego planu naprawy przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej, zakresie spraw, o których mowa art. 110zm ust. 3, tym może przekazać temu organowi stanowisko zakresie, o którym mowa art. 110zm ust. 3 pkt 1 lub 3, odniesieniu do unijnej jednostki dominującej.
+2. W przypadku gdy terminie 4 miesięcy, o którym mowa ust. 1, nie zostanie osiągnięte porozumienie zakresie konieczności sporządzenia i przekazania planu naprawy przez dom maklerski, Komisja może wydać odniesieniu do tego domu maklerskiego decyzję sprawie sporządzenia i przekazania planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+3. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa ust. 1, Komisja lub właściwy organ nadzoru z innego państwa członkowskiego zwróci się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010 zakresie odnoszącym się do domu maklerskiego, Komisja może wydać decyzję, o której mowa ust. 2, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, o której mowa ust. 2, uwzględnia decyzję wydaną przez Europejski Urząd Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego rozumieniu tego rozporządzenia.
+4. Komisja może zwrócić się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010 wyłącznie zakresie, o którym mowa art. 110zm ust. 3 pkt 1, oraz odniesieniu do unijnej jednostki dominującej sprawach, o których mowa art. 110zk ust. 11 pkt 1, 2 i 4.
+5. W przypadku gdy przed upływem terminu 4 miesięcy, o którym mowa ust. 1, właściwy organ nadzoru zwróci się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010, Komisja wraz z innymi właściwymi organami nadzoru, które nie zwróciły się do Europejskiego Urzędu Nadzoru Bankowego trybie art. 19 rozporządzenia 1093/2010, może osiągnąć porozumienie zakresie spraw, o których mowa art. 110zm ust. 3 pkt 1 lub 3, zakresie grupowego planu naprawy obejmującego podmioty powiązane podlegające nadzorowi Komisji i tych właściwych organów nadzoru, tym dom maklerski.
+6. W przypadku gdy zgodnie z ust. 1 albo 5 zostało osiągnięte porozumienie zakresie konieczności sporządzenia i przekazania przez dom maklerski planu naprawy, Komisja drodze decyzji nakazuje domowi maklerskiemu sporządzenie i przekazanie planu naprawy, zgodnie z art. 110zj. W decyzji Komisja wskazuje termin sporządzenia i przekazania planu naprawy.
+7. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–6 stosuje się odpowiednio.
+Art. 110zo. 1. Plan naprawy oraz grupowy plan naprawy określają poziomy wskaźników, po osiągnięciu których dom maklerski podejmuje działania określone planie. Wskaźniki te odnoszą się do sytuacji finansowej domu maklerskiego, mogą mieć charakter ilościowy lub jakościowy. Wskaźniki powinny umożliwiać łatwe i systematyczne monitorowanie ich poziomu. Wskaźniki oraz sposób monitorowania ich poziomu dom maklerski przedstawia Komisji łącznie z planem naprawy.
+1a. W przypadku osiągnięcia przez wskaźniki poziomów określonych planie naprawy lub grupowym planie naprawy, o których mowa ust. 1, dom maklerski przystępuje do wdrażania planu naprawy lub grupowego planu naprawy.
+2. W uzasadnionym przypadku dom maklerski może podjąć działania wskazane planie naprawy pomimo nieosiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego planie naprawy.
+3. W uzasadnionym przypadku dom maklerski może, ze względu na okoliczności, odstąpić od podjęcia działania wskazanego planie naprawy pomimo osiągnięcia przez wskaźnik, którego dotyczy to działanie, poziomu określonego planie naprawy.
+4. W przypadkach, o których mowa ust. 1a, 2 i 3, zarząd domu maklerskiego podejmuje uchwałę odpowiednio o przystąpieniu do wdrażania planu naprawy lub grupowego planu naprawy, podjęciu działań albo odstąpieniu od podejmowania działań określonych planie naprawy lub grupowym planie naprawy. Dom maklerski niezwłocznie informuje Komisję o podjętej uchwale i przekazuje Komisji jej kopię oraz wskazuje przyczyny przystąpienia do wdrażania planu naprawy zgodnie z ust. 1a, przyczyny podjęcia działań zgodnie z ust. 2 lub przyczyny odstąpienia od podjęcia działań zgodnie z ust. 3.
+wymaganych planie naprawy albo grupowym planie naprawy lub zmienić częstotliwość aktualizowania planu naprawy albo grupowego planu naprawy.
+2. Wydając decyzję, o której mowa ust. 1, Komisja bierze pod uwagę:
+1) wpływ zaprzestania prowadzenia działalności przez dom maklerski na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
+2) wpływ upadłości domu maklerskiego przeprowadzonej formie standardowego postępowania upadłościowego na rynki finansowe, inne instytucje, instytucje kredytowe lub na gospodarkę ogółem;
+3) charakter działalności domu maklerskiego, jej zakres i stopień złożoności, strukturę własnościową domu, formę prawną, profil ryzyka, wielkość lub powiązania z podmiotami;
+4) (uchylony)
+5) zakres działalności, o której mowa art. 69 ust. 2 i 4, wykonywanej przez dom maklerski.
+3. Komisja może zasięgnąć opinii Komitetu Stabilności Finansowej zakresie, o którym mowa ust. 2.
+4. Komisja może zmienić lub uchylić decyzję, o której mowa ust. 1.
+5. Wydanie decyzji, o której mowa ust. 1, nie ogranicza uprawnień Komisji i Bankowego Funduszu Gwarancyjnego określonych niniejszym oddziale.
+6. Komisja nie może wydać decyzji, o której mowa ust. 1, wobec domu maklerskiego, przypadku gdy:
+1) całkowita wartość jego aktywów przekracza 30 000 000 000 euro lub
+2) stosunek wartości jego aktywów do produktu krajowego brutto Rzeczypospolitej Polskiej przekracza 20 %, chyba że wartość jego aktywów jest niższa niż 5 000 000 000 euro.
+7. Do obliczania złotych wartości wyrażonych euro przyjmuje się kurs średni euro ogłoszony przez Narodowy Bank Polski z ostatniego dnia roboczego roku poprzedzającego.
+8. Komisja informuje Europejski Urząd Nadzoru Bankowego o wydaniu decyzji, o której mowa ust. 1.
+Art. 110zq. (uchylony)
+Art. 110zr. 1. Objęty nadzorem na zasadzie skonsolidowanej dom maklerski i objęta wspólnie z nim nadzorem na zasadzie skonsolidowanej unijna jednostka dominująca, holding mieszany oraz ich podmioty zależne państwach członkowskich lub państwach niebędących państwami członkowskimi będące instytucjami lub instytucjami finansowymi mogą zawierać umowy dotyczące udzielenia wsparcia finansowego dowolnej stronie tej umowy na wypadek zaistnienia odniesieniu do tej strony przesłanek zastosowania środków wczesnej interwencji określonych art. 110zz, jeżeli są spełnione warunki określone art. 110zs–110zy.
+2. Podmioty powiązane mogą zawierać inne umowy i porozumienia niespełniające warunków, o których mowa przepisach art. 110zs–110zy. Umowy takie nie mogą być wykonywane, jeżeli dom maklerski albo inna strona umowy spełnia warunki do zastosowania środków wczesnej interwencji.
+Art. 110zs. 1. Umowa, o której mowa art. 110zr ust. 1, może obejmować jeden lub większą liczbę podmiotów zależnych grupie firm inwestycyjnych i przewidywać szczególności wsparcie finansowe ze strony podmiotu dominującego na rzecz podmiotów zależnych, ze strony podmiotów zależnych na rzecz podmiotu dominującego lub między podmiotami zależnymi grupie firm inwestycyjnych.
+2. Umowa, o której mowa art. 110zr ust. 1, może przewidywać wsparcie finansowe szczególności formie pożyczki, udzielenia gwarancji lub udostępnienia aktywów do wykorzystania jako zabezpieczenie, tym między otrzymującym wsparcie a podmiotem niebędącym podmiotem powiązanym.
+3. Jeżeli zgodnie z umową, o której mowa art. 110zr ust. 1, jeden z podmiotów powiązanych ramach grupy firm inwestycyjnych zgadza się udzielić wsparcia innemu podmiotowi powiązanemu, umowa może przewidywać udzielenie wsparcia na zasadzie wzajemności przez podmiot powiązany otrzymujący wsparcie na rzecz podmiotu powiązanego udzielającego wsparcia.
+4. Umowa, o której mowa art. 110zr ust. 1, określa zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu każdej transakcji wykonanej ramach tej umowy momencie udzielania wsparcia finansowego.
+1) przy zawieraniu umowy i ustalaniu opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego strona jest obowiązana działać swoim najlepszym interesie, który może uwzględniać wszelkie bezpośrednie lub pośrednie korzyści, jakie dana strona może odnieść wyniku udzielenia wsparcia finansowego;
+2) strona udzielająca wsparcia finansowego przed ustaleniem opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego i przed podjęciem jakiejkolwiek decyzji o udzieleniu wsparcia finansowego jest obowiązana uzyskać od strony otrzymującej takie wsparcie pełne informacje istotne danej sytuacji;
+3) strona udzielająca wsparcia finansowego, rozważając udzielenie wsparcia finansowego, może uwzględniać niedostępne dla rynku informacje posiadane związku z przynależnością do tej samej grupy firm inwestycyjnych co strona otrzymująca wsparcie finansowe;
+4) zasady obliczania opłat, prowizji lub wynagrodzenia z tytułu udzielenia wsparcia finansowego mogą nie uwzględniać ewentualnego przewidywanego, tymczasowego wpływu na ceny rynkowe wynikającego ze zdarzeń mających miejsce poza grupą firm inwestycyjnych.
+6. Działania wynikające z umowy, o której mowa art. 110zr ust. 1, dotyczące udzielenia wsparcia finansowego mogą być podejmowane wyłącznie przez strony umowy ramach grupy firm inwestycyjnych, z wyłączeniem spełniania ich przez osoby trzecie.
+7. Dom maklerski lub inne objęte nadzorem na zasadzie skonsolidowanej podmioty, o których mowa art. 110zr ust. 1, mogą udzielić wsparcia finansowego również przypadku, gdy nie zawarły umowy, jeżeli udzielenie wsparcia nie stanowi zagrożenia dla grupy firm inwestycyjnych. Zawarcie umowy nie może stanowić warunku prowadzenia przez podmiot powiązany niebędący domem maklerskim działalności na terytorium Rzeczypospolitej Polskiej albo przez dom maklerski na terytorium innego państwa członkowskiego.
+8. Umowa, o której mowa art. 110zr ust. 1, może zostać zawarta jedynie przypadku, gdy momencie zawierania umowy żadna ze stron nie spełnia warunków do zastosowania środków wczesnej interwencji.
+Art. 110zt. Wsparcie finansowe, o którym mowa art. 110zr ust. 1, może być udzielone, jeżeli:
+1) udzielenie wsparcia finansowego znaczący sposób poprawi sytuację finansową podmiotu powiązanego otrzymującego wsparcie;
+2) udzielenie wsparcia finansowego pomoże utrzymać lub przywrócić stabilność finansową podmiotom działającym grupie firm inwestycyjnych i leży interesie podmiotu powiązanego udzielającego wsparcia finansowego;
+3) są spełnione wymagania, o których mowa art. 110zr ust. 1 i art. 110zs;
+4) momencie podejmowania decyzji przez podmiot powiązany udzielający wsparcia o udzieleniu tego wsparcia istnieje uzasadnione prawdopodobieństwo, że podmiot powiązany otrzymujący wsparcie finansowe wypłaci opłaty, prowizje lub wynagrodzenie z tytułu wsparcia finansowego, a jeżeli wsparcie to ma postać pożyczki zwróci pożyczkę; jeżeli wsparcie finansowe przyjmuje postać gwarancji lub dowolnej formy zabezpieczenia, ten sam warunek ma zastosowanie do zobowiązania powstającego dla uprawnionego z tego zabezpieczenia, gdy gwarancja lub zabezpieczenie zostaną wykonane;
+5) udzielenie wsparcia finansowego nie zagraża płynności ani wypłacalności podmiotu powiązanego udzielającego wsparcia;
+6) udzielenie wsparcia finansowego nie stwarza zagrożenia dla stabilności finansowej systemu finansowego państwa członkowskiego siedziby podmiotu powiązanego udzielającego wsparcia;
+7) momencie udzielania wsparcia finansowego dom maklerski udzielający wsparcia finansowego spełnia wymagania określone oddziale 2a, przepisach wykonawczych wydanych na podstawie art. 110x oraz nałożone na dom maklerski dodatkowe wymogi, o których mowa art. 110y ust. 1 pkt 9 i art. 110yb, a udzielenie wsparcia finansowego nie spowoduje naruszenia tych wymagań przez dom maklerski, chyba że zgody na to udzieli Komisja;
+8) (uchylony)
+9) udzielenie wsparcia finansowego nie zagraża przeprowadzeniu skutecznej przymusowej restrukturyzacji podmiotu powiązanego udzielającego wsparcia.
+Art. 110zu. 1. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim będącym unijną dominującą firma inwestycyjną, zawarcie przez dom maklerski umowy, o której mowa art. 110zr ust. 1, wymaga zgody Komisji wydanej na wniosek domu maklerskiego o zatwierdzenie umowy. Dom maklerski dołącza do wniosku projekt tej umowy, informacje pozwalające na identyfikację podmiotów zamierzających zawrzeć umowę oraz zgodę walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego na zawarcie umowy, o której mowa art. 110zv.
+jednostkami zależnymi, które będą stronami umowy.
+3. Komisja, trybie określonym ust. 5–8, drodze decyzji, odmawia udzielenia zgody na zawarcie umowy, jeżeli umowa nie spełnia warunków określonych art. 110zt lub którakolwiek ze stron umowy spełnia warunki zastosowania środków wczesnej interwencji.
+4. Zmiany umowie wymagają zgody Komisji.
+5. Komisja, wydając decyzję, dąży do osiągnięcia z właściwymi organami nadzoru sprawującymi nadzór nad podmiotami zależnymi porozumienia sprawie oceny, czy warunki proponowanej umowy są zgodne z warunkami wsparcia finansowego określonymi art. 110zt, uwzględniając jednocześnie potencjalny wpływ wykonania umowy, tym konsekwencje budżetowe tych państwach członkowskich, których grupa firm inwestycyjnych prowadzi działalność.
+6. W przypadku osiągnięcia porozumienia, o którym mowa ust. 5, Komisja wydaje decyzję terminie 4 miesięcy od dnia otrzymania wniosku.
+7. W przypadku nieosiągnięcia porozumienia, o którym mowa ust. 5, terminie, o którym mowa ust. 6, Komisja wydaje decyzję sprawie wniosku, uwzględniając przekazane dotychczas stanowiska właściwych organów nadzoru z innych państw członkowskich. Komisja informuje o treści decyzji pozostałe właściwe organy nadzoru z innych państw członkowskich.
+8. Jeżeli terminie, o którym mowa ust. 6, którykolwiek z właściwych organów nadzoru, o których mowa ust. 2, skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010, Komisja może wydać decyzję, o której mowa ust. 7, niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja wydaje decyzję zgodną z decyzją Europejskiego Urzędu Nadzoru Bankowego. Jeżeli Europejski Urząd Nadzoru Bankowego terminie miesiąca od dnia zakończenia postępowania pojednawczego nie wyda decyzji, Komisja niezwłocznie wydaje decyzję. Termin 4 miesięcy uznaje się za termin zakończenia postępowania pojednawczego rozumieniu rozporządzenia 1093/2010.
+9. Komisja, sprawując nadzór nad domem maklerskim będącym podmiotem zależnym od unijnej dominującej firmy inwestycyjnej, mającym stać się stroną umowy, o której mowa art. 110zr ust. 1, dąży do osiągnięcia porozumienia zakresie, o którym mowa ust. 5, terminie 4 miesięcy od dnia przekazania przez unijną dominującą firmę inwestycyjną wniosku o zatwierdzenie umowy właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną. Przed upływem terminu 4 miesięcy Komisja może przekazać właściwemu organowi nadzoru nad tą unijną dominującą firmą inwestycyjną stanowisko lub zwrócić się do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010.
+10. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–9 stosuje się odpowiednio.
+Art. 110zv. 1. Zawarcie umowy, o której mowa art. 110zr ust. 1, której stroną miałby się stać dom maklerski, wymaga zgody walnego zgromadzenia albo zgromadzenia wspólników domu maklerskiego.
+2. Zarząd domu maklerskiego co roku składa walnemu zgromadzeniu albo zgromadzeniu wspólników, wraz ze sprawozdaniem z działalności, sprawozdanie z wykonania umowy, o której mowa art. 110zr ust. 1.
+Art. 110zw. Po udzieleniu zgody, o której mowa art. 110zu, Komisja przekazuje kopię umowy, o której mowa art. 110zr ust. 1, a także kopie zmian tej umowy Bankowemu Funduszowi Gwarancyjnemu oraz organom do spraw przymusowej restrukturyzacji innych państwach członkowskich właściwym dla podmiotów zależnych, które są stronami umowy.
+Art. 110zx. 1. W przypadku gdy dom maklerski zamierza udzielić wsparcia finansowego na podstawie umowy, o której mowa art. 110zr ust. 1, składa niezwłocznie wniosek o wyrażenie zgody przez Komisję. Jednocześnie dom maklerski zawiadamia o zamiarze udzielenia wsparcia finansowego na podstawie umowy, o której mowa art. 110zr ust. 1:
+1) właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej;
+2) właściwy organ nadzoru sprawujący nadzór nad podmiotem powiązanym otrzymującym wsparcie finansowe;
+3) Europejski Urząd Nadzoru Bankowego.
+2. Do wniosku i zawiadomienia, o których mowa ust. 1, dom maklerski załącza kopię umowy, o której mowa art. 110zr ust. 1, oraz uzasadnienie proponowanych działań, określając szczególności cel wsparcia finansowego i wskazując sposób spełnienia warunków określonych art. 110zt, a także szczegółowe informacje na temat proponowanego wsparcia finansowego.
+mentów, o których mowa ust. 2.
+4. W przypadku stwierdzenia braków we wniosku lub dołączonych do niego dokumentach, Komisja wzywa dom maklerski do uzupełnienia braków wyznaczonym terminie.
+5. Komisja może ograniczyć zakres wsparcia finansowego. Zgoda może być udzielona pod warunkiem lub z zastrzeżeniem terminu.
+6. W przypadku gdy warunki określone art. 110zt nie zostały spełnione, Komisja odmawia udzielenia zgody.
+7. Jeżeli Komisja nie wyda decyzji terminie, o którym mowa ust. 3, dom maklerski może udzielić wsparcia finansowego na warunkach określonych we wniosku i załączonych do niego dokumentach.
+8. Termin 5 dni roboczych, o którym mowa ust. 3, uważa się za zachowany, jeżeli przed jego upływem decyzja została nadana polskiej placówce pocztowej operatora publicznego.
+9. Informację o wydanej decyzji Komisja niezwłocznie przekazuje:
+1) właściwemu organowi nadzoru dla podmiotu powiązanego otrzymującego wsparcie finansowe;
+2) właściwemu organowi nadzoru sprawującemu nadzór na zasadzie skonsolidowanej przypadku gdy Komisja nie sprawuje nadzoru na zasadzie skonsolidowanej nad domem maklerskim;
+3) Europejskiemu Urzędowi Nadzoru Bankowego;
+4) pozostałym członkom kolegium i członkom kolegium ds. przymusowej restrukturyzacji przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej nad domem maklerskim, a kolegia zostały powołane;
+5) Bankowemu Funduszowi Gwarancyjnemu.
+10. W przypadku gdy właściwy organ nadzoru innym państwie członkowskim zakazał udzielenia albo ograniczył udzielenie wsparcia finansowego domowi maklerskiemu albo innemu podmiotowi powiązanemu, Komisja jako organ sprawujący nadzór na zasadzie skonsolidowanej albo sprawując nadzór nad domem maklerskim będącym podmiotem zależnym, może, razie powzięcia wątpliwości co do tej decyzji, terminie 2 dni roboczych od dnia jej otrzymania, złożyć wniosek do Europejskiego Urzędu Nadzoru Bankowego o udzielenie wsparcia osiągnięciu porozumienia zgodnie z art. 31 lit. c rozporządzenia 1093/2010.
+11. Dom maklerski przekazuje informację o udzieleniu wsparcia finansowego Komisji oraz podmiotom, o których mowa ust. 1 pkt 1–3.
+12. Komisja, sprawując nadzór na zasadzie skonsolidowanej nad domem maklerskim, informuje o udzieleniu wsparcia finansowego przez dom maklerski, pozostałych członków kolegium, Bankowy Fundusz Gwarancyjny i członków kolegium do spraw przymusowej restrukturyzacji, jeżeli kolegia te zostały powołane.
+13. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane grupowym planie naprawy, Komisja może zwrócić się do właściwego organu nadzoru, który sprawuje nadzór na zasadzie skonsolidowanej, o ponowną weryfikację grupowego planu naprawy, zgodnie z art. 110zn. W przypadku gdy Komisja sprawuje nadzór na zasadzie skonsolidowanej, podejmuje działania sprawie weryfikacji grupowego planu naprawy zgodnie z art. 110zm.
+14. Jeżeli właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego domowi maklerskiemu, a wsparcie finansowe było przewidziane planie naprawy domu maklerskiego, Komisja zaleca domowi maklerskiemu zmianę planu naprawy, zgodnie z art. 110zk.
+15. Jeżeli Komisja zgłosiła sprzeciw wobec planowego udzielenia wsparcia finansowego albo ograniczyła udzielenie wsparcia finansowego przez dom maklerski podmiotowi powiązanemu albo właściwy organ nadzoru z innego państwa członkowskiego zakazał udzielenia albo ograniczył podmiotowi powiązanemu, nad którym sprawuje nadzór, udzielenie wsparcia finansowego podmiotowi powiązanemu, a wsparcie finansowe było przewidziane grupowym planie naprawy i Komisja sprawuje nadzór na zasadzie skonsolidowanej, na wniosek właściwego organu nadzoru z innego państwa członkowskiego dla podmiotu powiązanego, któremu odmówiono wsparcia finansowego lub ograniczono wsparcie finansowe, Komisja zaleca domowi maklerskiemu albo jego podmiotowi dominującemu będącemu unijną jednostką dominującą zmianę grupowego planu naprawy.
+czy jest stroną umowy, o której mowa art. 110zr ust. 1.
+Art. 110zz. 1. Jeżeli ze względu na szybko pogarszającą się sytuację finansową domu maklerskiego, tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez dom maklerski lub koncentrację ekspozycji, dom maklerski narusza albo z dużym prawdopodobieństwem naruszy przepisy art. 98, oddziału 2a, przepisy rozporządzenia 2019/2033, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych przewidzianych art. 110y, Komisja, drodze decyzji, może zastosować wobec domu maklerskiego następujące środki wczesnej interwencji:
+1) nakazać wdrożenie planu naprawy, tym podjęcie określonych działań przewidzianych planie naprawy;
+2) nakazać aktualizację planu naprawy zgodnie z art. 110zj ust. 7 przez uwzględnienie planie naprawy okoliczności, które doprowadziły do wystąpienia sytuacji stanowiącej przesłankę zastosowania środków wczesnej interwencji, a nie zostały przewidziane tym planie naprawy;
+3) nakazać sytuacji, o której mowa pkt 2, wdrożenie określonych działań przewidzianych zaktualizowanym planie naprawy;
+4) nakazać domowi maklerskiemu zbadanie przyczyn zaistniałej sytuacji, określenie środków pozwalających rozwiązać stwierdzone problemy oraz sporządzenie programu działania celu rozwiązania tych problemów i harmonogramu jego wdrażania;
+5) nakazać domowi maklerskiemu zwołanie nadzwyczajnego walnego zgromadzenia albo nadzwyczajnego zgromadzenia wspólników celu rozpatrzenia sytuacji domu maklerskiego lub umieszczenia spraw wskazanych przez Komisję porządku obrad walnego zgromadzenia; przypadku niewykonania któregokolwiek z żądań, do żądania Komisji stosuje się odpowiednio przepisy art. 237 § 1 i 3 albo art. 400 § 3 i 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+6) nakazać sporządzenie i uzgodnienie planu restrukturyzacji wierzytelności lub innych długów z wierzycielami domu maklerskiego, zgodnie z planem naprawy;
+7) nakazać wprowadzenie zmian strategii domu maklerskiego;
+8) nakazać wprowadzenie zmian statucie albo umowie spółki domu maklerskiego lub jego strukturze zarządzania, tym strukturze organizacyjnej;
+9) nakazać odwołanie członka zarządu, którego działania lub zaniechania doprowadziły do zaistnienia przesłanek zastosowania środków wczesnej interwencji, a zastosowane inne środki wczesnej interwencji okazały się nieskuteczne lub niewystarczające;
+10) nakazać zawieszenie członka zarządu czynnościach do czasu podjęcia uchwały sprawie wniosku o odwołanie członka zarządu, o którym mowa pkt 9.
+1a. Środki, o których mowa ust. 1 pkt 9, Komisja może zastosować także wobec domu maklerskiego stosującego rozporządzenie 575/2013, jeżeli ze względu na szybko pogarszającą się sytuację finansową tego domu maklerskiego, tym pogarszającą się płynność, rosnącą wartość pożyczek zagrożonych udzielonych przez ten dom maklerski lub koncentrację ekspozycji, narusza on albo z dużym prawdopodobieństwem naruszy przepisy art. 98, przepisy prawa bankowego stosowane przez niektóre domy maklerskie, przepisy rozporządzenia 575/2013, przepisy art. 3‒7, art. 14‒17, art. 24, art. 25 lub art. 26 rozporządzenia 600/2014, niezależnie od środków nadzorczych podejmowanych zgodnie z art. 138 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+2. Przy ocenie sytuacji finansowej domu maklerskiego Komisja może brać pod uwagę szczególności zachowanie przez dom maklerski wymogów funduszy własnych określonych art. 9 ust. 1 rozporządzenia 2019/2033, powiększonych o 19 punktów procentowych.
+3. W przypadku, o którym mowa ust. 1 pkt 5, koszty zwołania i odbycia zgromadzenia ponosi dom maklerski.
+Przerwy zgromadzeniu nie mogą trwać łącznie dłużej niż 14 dni.
+4. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o wszczęciu postępowania sprawie zastosowaniu środka wczesnej interwencji, o którym mowa ust. 1.
+5. W decyzji, o której mowa ust. 1 i 1a, Komisja może określić termin jej wykonania.
+6. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania domu maklerskiego lub wchodzące skład jego statutowych organów albo pozostające z domem maklerskim stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tego domu maklerskiego, wszystkich informacji celem aktualizacji planu przymusowej restrukturyzacji, a także innych informacji, które ocenie Komisji mogą mieć wpływ na przygotowanie lub realizację przymusowej restrukturyzacji, tym na oszacowanie wartości aktywów i zobowiązań domu maklerskiego.
+poprawy sytuacji domu maklerskiego lub domu maklerskiego stosującego rozporządzenie 575/2013 jest niewystarczające, Komisja może wydać decyzję o ustanowieniu kuratora albo zarządu komisarycznego. W decyzji Komisja określa zadania kuratora albo zarządu komisarycznego.
+2. Komisja może zmienić decyzję, o której mowa ust. 1.
+3. Kurator albo zarząd komisaryczny jest powoływany na okres nie dłuższy niż rok. W uzasadnionych przypadkach okres ten może zostać przedłużony, jeżeli ocenie Komisji nie ustały przesłanki jego powołania. Komisja publikuje na stronie internetowej informację o przedłużeniu okresu, na który został ustanowiony zarząd komisaryczny albo kurator.
+4. Do kuratora stosuje się odpowiednio przepisy art. 110ze ust. 2–10 i 12–16.
+5. Do zarządu komisarycznego stosuje się odpowiednio przepisy art. 110zf ust. 3–8 i art. 110zg.
+6. W decyzji o ustanowieniu zarządu komisarycznego Komisja może uzależnić dokonywanie określonych czynności przez zarząd komisaryczny od uzyskania zgody Komisji.
+7. Zarząd komisaryczny może zwołać walne zgromadzenie albo zgromadzenie wspólników za zgodą Komisji.
+Art. 110zzb. 1. Jeżeli przesłanki zastosowania środków, o których mowa art. 110zz i art. 110zza, zostaną spełnione odniesieniu do domu maklerskiego będącego unijną dominującą firmą inwestycyjną albo odniesieniu do unijnej dominującej inwestycyjnej spółki holdingowej albo unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, Komisja, przypadku gdy sprawuje nadzór na zasadzie skonsolidowanej, powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz zainteresowane właściwe organy nadzoru wchodzące skład kolegium.
+2. Wydając decyzję sprawie zastosowania środków, o których mowa art. 110zz i art. 110zza, Komisja uwzględnia stanowiska wyrażone przez zainteresowane właściwe organy nadzoru, tym także wpływ decyzji na podmioty powiązane.
+Komisja przekazuje informację o wydaniu decyzji zainteresowanym właściwym organom nadzoru wchodzącym skład kolegium oraz Europejskiemu Urzędowi Nadzoru Bankowego.
+3. W przypadku gdy właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą powiadomi Komisję sprawującą nadzór nad domem maklerskim będącym podmiotem zależnym od tej unijnej jednostki dominującej o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych art. 110zz lub art. 110zza odniesieniu do unijnej jednostki dominującej, Komisja może przekazać stanowisko zakresie zastosowania tych środków.
+4. W przypadku gdy Komisja zostanie powiadomiona przez właściwy organ nadzoru z innego państwa członkowskiego o planowanym zastosowaniu środków równoważnych do środków przewidzianych art. 110zz lub art. 110zza wobec instytucji będącej podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez Komisję, Komisja może przekazać temu właściwemu organowi nadzoru stanowisko zakresie wpływu planowanych środków na grupę firm inwestycyjnych oraz na podmioty powiązane terminie 3 dni roboczych od dnia otrzymania powiadomienia.
+5. W przypadku gdy powiadomienie, o którym mowa ust. 4, zostało skierowane przez więcej niż jeden właściwy organ nadzoru, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru zakresie zastosowania środków, o których mowa art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych art. 110zza dla wszystkich odnośnych instytucji albo zakresie skoordynowania stosowania środków, o których mowa art. 110zz, albo środków równoważnych do środków przewidzianych art. 110zz, do więcej niż jednej instytucji.
+Porozumienie powinno zostać osiągnięte ciągu 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień. Komisja informuje o porozumieniu unijną jednostkę dominującą, nad którą sprawuje nadzór na zasadzie skonsolidowanej.
+6. Przepis ust. 5 ma również zastosowanie, przypadku gdy Komisja, jako organ sprawujący nadzór na zasadzie skonsolidowanej nad unijną jednostką dominującą, jest jednym z właściwych organów nadzoru zamierzających podjąć wymienione tym przepisie działania odniesieniu do podmiotu zależnego, którym jest dom maklerski. W takim wypadku przypadku nieosiągnięcia porozumienia, o którym mowa ust. 5, terminie 5 dni roboczych od dnia otrzymania przez Komisję ostatniego z powiadomień, Komisja może wydać decyzję sprawie zastosowania środków, o których mowa art. 110zz i art. 110zza. W decyzji Komisja uwzględnia stanowiska innych właściwych organów nadzoru.
+7. Jeżeli przesłanki zastosowania środków, o których mowa art. 110zz i art. 110zza, zostaną spełnione odniesieniu do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego, Komisja powiadamia o tym Europejski Urząd Nadzoru Bankowego oraz ten właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej.
+Wydając decyzję, Komisja uwzględnia stanowisko właściwego organu nadzoru sprawującego nadzór na zasadzie skonsolidowanej z innego państwa członkowskiego, jeżeli została ona wyrażona terminie 3 dni roboczych od dnia otrzymania przez ten właściwy organ nadzoru powiadomienia od Komisji. Komisja powiadamia o wydaniu decyzji organ sprawujący nadzór na zasadzie skonsolidowanej, pozostałe właściwe organy nadzoru ramach kolegium oraz Europejski Urząd Nadzoru Bankowego.
+do domu maklerskiego będącego podmiotem zależnym od unijnej jednostki dominującej objętej nadzorem na zasadzie skonsolidowanej sprawowanym przez właściwy organ nadzoru z innego państwa członkowskiego i jednocześnie co najmniej jeden inny właściwy organ nadzoru z innego państwa członkowskiego sprawujący nadzór nad inną instytucją będącą podmiotem zależnym od tej samej unijnej jednostki dominującej planuje zastosowanie środków równoważnych do środków przewidzianych art. 110zz lub art. 110zza wobec nadzorowanej przez siebie instytucji, Komisja dąży do osiągnięcia porozumienia z zainteresowanymi właściwymi organami nadzoru zakresie zastosowania środków, o których mowa art. 110zza, albo zastosowania środków równoważnych do środków przewidzianych art. 110zza dla wszystkich odnośnych instytucji albo zakresie skoordynowania stosowania dowolnych środków, o których mowa art. 110zz, albo środków równoważnych do środków przewidzianych art. 110zz.
+9. W przypadku nieosiągnięcia porozumienia, o którym mowa ust. 8, terminie 5 dni roboczych od dnia otrzymania przez właściwy organ nadzoru sprawujący nadzór na zasadzie skonsolidowanej wobec unijnej jednostki dominującej ostatniego z zawiadomień, Komisja może wydać decyzję sprawie zastosowania środków, o których mowa art. 110zz i art. 110zza, wobec domu maklerskiego będącego podmiotem zależnym.
+10. Jeżeli Komisja nie zgadza się z decyzją wydaną po otrzymaniu powiadomienia o zaistnieniu przesłanek zastosowania środków równoważnych do środków przewidzianych art. 110zz lub art. 110zza zgodnie z ust. 3 lub 4 lub przypadku nieosiągnięcia porozumienia, o którym mowa ust. 5 i 8, Komisja może skierować sprawę do Europejskiego Urzędu Nadzoru Bankowego.
+11. Europejski Urząd Nadzoru Bankowego na wniosek któregokolwiek właściwego organu nadzoru może udzielić wsparcia właściwym organom nadzoru, które zamierzają zastosować co najmniej jeden ze środków określonych art. 110zz ust. 1:
+1) pkt 1 odniesieniu do działań przewidzianych planie naprawy zgodnie z art. 110zj ust. 3 pkt 4, 10, 11 i 19,
+2) pkt 6,
+3) pkt 8 osiągnięciu porozumienia zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010.
+12. Wydając decyzje, o których mowa ust. 2, 6, 7 lub 9, Komisja uwzględnia potencjalny wpływ tych decyzji na stabilność finansową zainteresowanych państwach członkowskich.
+13. Jeżeli przed końcem okresu konsultacji, o którym mowa ust. 1 i 7, lub terminie 5 dni roboczych, o którym mowa ust. 6 i 9, którykolwiek z zainteresowanych właściwych organów skieruje sprawę do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 rozporządzenia 1093/2010, Komisja może wydać decyzję niezwłocznie po otrzymaniu decyzji Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 ust. 3 tego rozporządzenia. Komisja, wydając decyzję, uwzględnia decyzję Europejskiego Urzędu Nadzoru Bankowego, chyba że Europejski Urząd Nadzoru Bankowego terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego nie wyda decyzji. Termin konsultacji, o których mowa ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa ust. 6 i 9, uznaje się za termin zakończenia postępowania pojednawczego rozumieniu tego rozporządzenia. Sprawy nie kieruje się do Europejskiego Urzędu Nadzoru Bankowego, jeżeli termin konsultacji, o których mowa ust. 1 i 7, oraz termin 5 dni roboczych, o którym mowa ust. 6 i 9, upłynął lub jeżeli wspólna decyzja została podjęta.
+14. W przypadku niewydania decyzji przez Europejski Urząd Nadzoru Bankowego terminie 3 dni roboczych od dnia zakończenia postępowania pojednawczego zastosowanie mają indywidualne decyzje wydane zgodnie z ust. 2, 6, 7 lub 9.
+15. Komisja niezwłocznie powiadamia Bankowy Fundusz Gwarancyjny o decyzjach o zastosowaniu środka wczesnej interwencji, o którym mowa ust. 2 i 6–9.
+16. W przypadku gdy dom maklerski jest objęty nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przepisy ust. 1–15 stosuje się odpowiednio.
+Art. 110zzc. (uchylony)
+Art. 110zzd. W postępowaniach prowadzonych sprawach, o których mowa art. 110zze i art. 110zzf, Komisja może odstąpić od stosowania art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego także przypadkach, gdy zastosowanie tego przepisu mogłoby uniemożliwić lub znacznie utrudnić osiągnięcie celów wczesnej interwencji.
+Art. 110zze. 1. Decyzje wydawane przez Komisję na podstawie przepisów niniejszego oddziału podlegają natychmiastowemu wykonaniu.
+2. Uzasadnienie decyzji, o której mowa ust. 1, może zostać doręczone terminie 14 dni od dnia doręczenia decyzji.
+3. W przypadku gdy uzasadnienie doręczane jest po doręczeniu decyzji, termin na złożenie wniosku o ponowne rozpoznanie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
+przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+Art. 110zzg. 1. Doręczanie przez Komisję pism postępowaniach administracyjnych prowadzonych na podstawie przepisów niniejszego oddziału następuje na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, domu maklerskiego wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy.
+2. W przypadku ustanowienia pełnomocnika pełnomocnictwo powinno określać adres do doręczeń elektronicznych pełnomocnika wpisany do bazy adresów elektronicznych. W przypadku braku podania adresu do doręczeń elektronicznych pełnomocnictwie doręczenie pisma na adres do doręczeń elektronicznych domu maklerskiego wpisany do bazy adresów elektronicznych, który ustanowił pełnomocnika, ma skutek prawny.
+3. W przypadku nieodebrania pisma doręczanego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych doręczenie uważa się za dokonane po upływie 2 dni roboczych, licząc od dnia wystawienia dowodu wysłania, o którym mowa art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+Art. 110zzh. 1. Jeżeli dom maklerski jest zagrożony upadłością, Komisja informuje o tym niezwłocznie Bankowy Fundusz Gwarancyjny, wskazując przesłanki takiej oceny.
+2. Dom maklerski jest zagrożony upadłością, jeżeli spełniona jest przynajmniej jedna przesłanka, o której mowa art. 101 ust. 3 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji.
+3. Zarząd domu maklerskiego, zarząd komisaryczny albo likwidator niezwłocznie zawiadamia Komisję o spełnieniu przesłanek, o których mowa ust. 1.
+System rekompensat
+Art. 185–213. (pominięte)
+
+**Art. 49.** Emitenci papierów wartościowych, o których mowa art. 44 ust. 3 ustawy z dnia 9 listopada 2018 r. o zmianie niektórych ustaw związku ze wzmocnieniem nadzoru nad rynkiem finansowym oraz ochrony inwestorów na tym rynku (Dz. U. poz. 2243 oraz z 2019 r. poz. 875 i 2217), i emitenci obligacji oraz listów zastawnych wyemitowanych po dniu 1 lipca 2019 r., którzy przekazali dane do Krajowego Depozytu Papierów Wartościowych Spółki Akcyjnej, przekazują dodatkowe informacje, o których mowa art. 7c ust. 1 ustawy zmienianej art. 17, przy najbliższej aktualizacji danych, jednak nie później niż terminie 6 miesięcy od dnia wejścia życie przepisów wydanych na podstawie art. 7c ust. 3 ustawy zmienianej art. 17.”
+
+**Art. 50.** „2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 94 ust. 1 i 2 oraz art. 111 ust. 10 ustawy zmienianej art. 17 zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych odpowiednio na podstawie art. 94 ust. 1 i 2 oraz art. 111 ust. 10 ustawy zmienianej art. 17, brzmieniu nadanym niniejsza ustawą, jednak nie dłużej niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy.” „Art. 57. Podmiot rozliczający jest obowiązany dostosować regulamin, o którym mowa art. 66 ust. 2 ustawy zmienianej art. 17, brzmieniu dotychczasowym, do przepisów art. 65 i art. 66 ustawy zmienianej art. 17, brzmieniu nadanym niniejszą ustawą, terminie 18 miesięcy od dnia wejścia życie niniejszej ustawy.
+
+**Art. 58.** Podmiot, który przed dniem wejścia życie niniejszej ustawy został skreślony z rejestru agentów firm inwestycyjnych, o którym mowa art. 79 ust. 8 ustawy zmienianej art. 17, z przyczyn, o których mowa art. 79 ust. 4 ustawy zmienianej art. 17, nie może ponownie być wpisany do tego rejestru przed upływem 10 lat od dnia skreślenia, a przypadku gdy skreślenie nastąpiło związku z popełnieniem przez agenta firmy inwestycyjnej przestępstwa także przed zatarciem skazania za to przestępstwo.
+
+**Art. 59.** Firmy inwestycyjne prowadzące działalność na podstawie zezwolenia udzielonego przed dniem wejścia życie niniejszej ustawy są obowiązane do dostosowania prowadzonej działalności do przepisu art. 83b ustawy zmienianej art. 17, brzmieniu nadanym niniejszą ustawą, terminie 12 miesięcy od dnia wejścia życie niniejszej ustawy.
+
+**Art. 60.**
+
+1. Bank powierniczy może, bez zezwolenia na prowadzenie działalności maklerskiej oraz zezwolenia, o którym mowa art. 123a ust. 1 ustawy zmienianej art. 17, wykonywać czynności, o których mowa art. 69 ust. 2 pkt 1 i 2 ustawy zmienianej art. 17, zakresie pośrednictwa zawieraniu transakcji pożyczek papierów wartościowych rozumieniu art. 3 pkt 7 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2015/2365 z dnia 25 listopada 2015 r. sprawie przejrzystości transakcji finansowanych z użyciem papierów wartościowych i ponownego wykorzystania oraz zmiany rozporządzenia (UE) nr 648/2012 (Dz. Urz. UE L 337 z 23.12.2015, str. 1, z późn. zm. ) dla klientów niebędących klientami detalicznymi, przez zawieranie transakcji pożyczek papierów wartościowych imieniu własnym na rzecz dającego zlecenie, albo imieniu i na rzecz dającego zlecenie, nie dłużej jednak niż przez okres dwóch lat od dnia wejścia życie niniejszej ustawy, a przypadku gdy bank powierniczy tym okresie wystąpił z wnioskiem o udzielenie zezwolenia, o którym mowa art. 123a ust. 1 ustawy zmienianej art. 17 nie dłużej niż do dnia wydania ostatecznej decyzji przedmiocie wniosku o udzielenie tego zezwolenia.
+
+2. Wykonywanie przez bank powierniczy zgodnie z ust. 1, okresie wskazanym ust. 1, czynności, o których mowa art. 69 ust. 2 pkt 1 i 2 ustawy zmienianej art. 17, nie stanowi działalności maklerskiej.
+
+3. Do banku powierniczego wykonującego czynności, o których mowa ust. 1, stosuje się odpowiednio przepisy art. 3a, art. 73 ust. 1 i 6a, art. 73a ust. 1–3, 5 i 9, art. 73b–73d, art. 74b, art. 74c, art. 82a, art. 83a ust. 3a i 4–4d, art. 83b ust. 7, 9–11 i 13, art. 83c ust. 1–4, art. 83d ust. 1 i 6, art. 83e, art. 83f ust. 1, art. 83ja oraz art. 88 ustawy zmienianej art. 17. i Rady 2014/65/UE odniesieniu do wymogów organizacyjnych i warunków prowadzenia działalności przez firmy inwestycyjne oraz pojęć zdefiniowanych na potrzeby tej dyrektywy (Dz. Urz. UE L 87 z 31.03.2017, str. 1, z późn. zm. ) odnoszące się do prowadzenia działalności zakresie wykonywania czynności, o których mowa art. 69 ust. 2 pkt 1 i 2 oraz art. 119 ust. 1 ustawy zmienianej art. 17, zgodnie z ust. 1.” „Art. 70. 1. Przepis art. 8 ust. 5 ustawy zmienianej art. 24 stosuje się do obligacji niemających postaci dokumentu, wyemitowanych przed dniem 30 listopada 2019 r., zapisanych ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, o którym mowa art. 7a ustawy zmienianej art. 17, albo zarejestrowanych depozycie papierów wartościowych zgodnie z przepisami ustawy zmienianej art. 24.
+
+2. Uprawnionych do świadczeń pieniężnych z tytułu wykupu obligacji, o których mowa ust. 1, spełnianych po terminie ich wykupu, ustala się według stanu na drugi dzień roboczy po dniu, którym kwota świadczenia pieniężnego została przekazana podmiotowi prowadzącemu ewidencję takich obligacji, a przypadku obligacji zarejestrowanych depozycie papierów wartościowych podmiotowi prowadzącemu depozyt papierów wartościowych. Przepisy art. 8 ust. 7 i 8 ustawy zmienianej art. 24 stosuje się odpowiednio.
+
+**Art. 71.** Przepis art. 133 ust. 4 pkt 1 ustawy zmienianej art. 17 zakresie rejestru prowadzonego na podstawie art. 7aa ust. 2 pkt 2 tej ustawy stosuje się od dnia 1 października 2023 r.” „Art. 73. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
+
+### DZIAŁ I Przepisy ogólne
+
+**Art. 1.**
+
+1. Ustawa reguluje zasady, tryb i warunki podejmowania i prowadzenia działalności zakresie obrotu instrumentami finansowymi, prawa i obowiązki podmiotów uczestniczących tym obrocie oraz wykonywanie nadzoru tym zakresie.
+
+2. Przepisów ustawy nie stosuje się do weksli i czeków rozumieniu przepisów prawa wekslowego i czekowego.
+
+**Art. 2.**
+
+1. Instrumentami finansowymi rozumieniu ustawy są:
+
+- **1)** papiery wartościowe;
+- **2)** niebędące papierami wartościowymi:
+    - **a)** tytuły uczestnictwa instytucjach wspólnego inwestowania,
+    - **b)** instrumenty rynku pieniężnego,
+    - **c)** opcje, kontrakty terminowe, swapy, umowy forward na stopę procentową, inne instrumenty pochodne, których instrumentem bazowym jest papier wartościowy, waluta, stopa procentowa, wskaźnik rentowności, uprawnienie do emisji lub inny instrument pochodny, indeks finansowy lub wskaźnik finansowy, które są wykonywane przez dostawę lub rozliczenie pieniężne, z wyłączeniem instrumentów pochodnych, o których mowa art. 10 rozporządzenia 2017/565,
+    - **d)** opcje, kontrakty terminowe, swapy, umowy forward na stopę procentową oraz inne instrumenty pochodne, których instrumentem bazowym jest towar i które są wykonywane przez rozliczenie pieniężne lub mogą być wykonane przez rozliczenie pieniężne według wyboru jednej ze stron, i które mogą być wykonane przez dostawę, pod warunkiem że są dopuszczone do obrotu systemie obrotu instrumentami finansowymi, z wyłączeniem produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę,
+    - **f)** niedopuszczone do obrotu systemie obrotu instrumentami finansowymi opcje, kontrakty terminowe, swapy, umowy forward oraz inne instrumenty pochodne, których instrumentem bazowym jest towar i które mogą być wykonane przez dostawę, a które nie są przeznaczone do celów handlowych i wykazują właściwości innych pochodnych instrumentów finansowych,
+    - **g)** instrumenty pochodne dotyczące przenoszenia ryzyka kredytowego,
+    - **h)** kontrakty na różnicę,
+    - **i)** opcje, kontrakty terminowe, swapy, umowy forward dotyczące stóp procentowych oraz inne instrumenty pochodne odnoszące się do zmian klimatycznych, stawek frachtowych oraz stawek inflacji lub innych oficjalnych danych statystycznych, które są wykonywane przez rozliczenie pieniężne albo mogą być wykonane przez rozliczenie pieniężne według wyboru jednej ze stron, a także instrumenty pochodne, o których mowa art. 8 rozporządzenia 2017/565, i inne, które wykazują właściwości innych pochodnych instrumentów finansowych,
+    - **j)** uprawnienia do emisji.
+
+1a. Instrumenty finansowe mogą być zapisywane za pomocą technologii rozproszonego rejestru, wykorzystywanej przez operatora infrastruktury rynkowej opartej na DLT rozumieniu art. 2 pkt 5 rozporządzenia 2022/858, na zasadach określonych przepisach tego rozporządzenia.
+
+2. Przez wykazywanie właściwości innych pochodnych instrumentów finansowych, o którym mowa ust. 1 pkt 2 lit. f oraz i, rozumie się spełnianie warunków określonych art. 7 rozporządzenia 2017/565.
+
+3. W rozumieniu przepisów ustawy nie jest rozliczeniem pieniężnym według wyboru jednej ze stron spełnienie świadczenia pieniężnego powstałego na skutek niewykonania lub nienależytego wykonania zobowiązania wynikającego z umowy przez jedną ze stron lub na skutek innego zdarzenia powodującego rozwiązanie umowy.
+
+4. Przez przeznaczenie do celów handlowych, o którym mowa ust. 1 pkt 2 lit. f, rozumie się spełnienie kryteriów określonych art. 7 ust. 4 rozporządzenia 2017/565.
+
+5. Przez produkt energetyczny będący przedmiotem obrotu hurtowego, o którym mowa ust. 1 pkt 2 lit. e, rozumie się produkt, o którym mowa art. 2 pkt 4 rozporządzenia 1227/2011.
+
+6. Przez produkt energetyczny będący przedmiotem obrotu hurtowego, który musi być wykonywany przez dostawę, o którym mowa ust. 1 pkt 2 lit. e, rozumie się produkt spełniający kryteria, o których mowa art. 5 rozporządzenia 2017/565.
+
+7. Produkty, o których mowa art. 2 pkt 4 lit. b i d rozporządzenia 1227/2011, są instrumentami pochodnymi, jeżeli spełniają warunki określone ust. 1 pkt 2 lit. e, f lub i, chyba że są przedmiotem obrotu hurtowego na OTF i muszą być wykonywane przez dostawę.
+
+8. Instrumentami finansowymi, o których mowa ust. 1 pkt 2 lit. e, są również instrumenty pochodne, których instrumentem bazowym są węgiel i ropa spełniające warunki, o których mowa art. 6 ust. 1 i 2 rozporządzenia 2017/565, i które muszą być wykonywane przez dostawę oraz są przedmiotem obrotu na OTF.
+
+**Art. 3.** Ilekroć ustawie jest mowa o:
+
+**Art. 3a.**
+
+1. Firma inwestycyjna, na pisemne żądanie podmiotu innego niż określony art. 3 pkt 39b lit. a–m i zakresie określonym takim żądaniu, może traktować go jak klienta profesjonalnego, pod warunkiem że posiada on wiedzę i doświadczenie pozwalające na podejmowanie właściwych decyzji inwestycyjnych, jak również na właściwą ocenę ryzyka związanego z tymi decyzjami. Firma inwestycyjna przed uwzględnieniem żądania jest obowiązana ustalić wiedzę klienta o zasadach traktowania klientów profesjonalnych przy świadczeniu usług, o których mowa art. 69 ust. 2 lub 4, których żądanie dotyczy.
+
+2. Firma inwestycyjna może, zgodnie z art. 45 ust. 3 lit. b rozporządzenia 2017/565, traktować klienta profesjonalnego jak klienta detalicznego.
+
+3. Firma inwestycyjna może, zgodnie z art. 45 ust. 3 lit. a rozporządzenia 2017/565 i na zasadach określonych art. 71 ust. 2–4 tego rozporządzenia, traktować uprawnionego kontrahenta jak klienta detalicznego albo klienta profesjonalnego.
+
+4. Firma inwestycyjna dokonuje podziału klientów na kategorie, zaliczając ich odpowiednio do kategorii klientów detalicznych, klientów profesjonalnych lub uprawnionych kontrahentów.
+
+**Art. 3b.**
+
+1. Firma inwestycyjna lub bank, o którym mowa art. 70 ust. 2, niespełniające kryteriów określonych art. 3 pkt 2e, po uprzednim zawiadomieniu Komisji mogą dobrowolnie poddać się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje.
+
+2. Firma inwestycyjna lub bank, o którym mowa art. 70 ust. 2, niezwłocznie informują Komisję o rezygnacji z dobrowolnego poddawania się wymogom mającym zastosowanie do podmiotu systematycznie internalizującego transakcje.
+
+3. Do firmy inwestycyjnej lub banku, o którym mowa art. 70 ust. 2, okresie od dokonania zawiadomienia, o którym mowa ust. 1, do dokonania zawiadomienia, o którym mowa ust. 2, stosuje się odpowiednio przepisy dotyczące podmiotu systematycznie internalizującego transakcje.
+
+**Art. 3c.**
+
+1. Kryteria częstości i systematyczności, o których mowa art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12–17 rozporządzenia 2017/565, na podstawie liczby transakcji, których przedmiotem jest dany instrument finansowy, zawieranych na własny rachunek poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa art. 70 ust. 2, wykonujące zlecenia klientów.
+
+2. Kryterium zawierania transakcji znacznych wielkościach, o którym mowa art. 3 pkt 2e, ustala się, z uwzględnieniem art. 12–17 rozporządzenia 2017/565, na podstawie wielkości transakcji zawieranych poza systemem obrotu instrumentami finansowymi przez firmę inwestycyjną lub bank, o którym mowa art. 70 ust. 2, odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, zawieranych przez tę firmę inwestycyjną lub ten bank albo na podstawie wielkości transakcji poza systemem obrotu instrumentami finansowymi zawieranych przez tę firmę inwestycyjną lub ten bank, odniesieniu do całkowitej wielkości transakcji, których przedmiotem jest dany instrument finansowy, na terytorium Unii Europejskiej.
+
+**Art. 3d.** Ilekroć ustawie jest mowa o zleceniu nabycia lub zbycia instrumentów finansowych, należy przez to rozumieć także oświadczenie woli, którego przedmiotem są instrumenty finansowe, wywołujące równoważne do takiego zlecenia skutki. wartościowe, prowadzone wyłącznie przez:
+
+**Art. 4a.**
+
+1. Rachunkami derywatów są rachunki, na których są zapisywane instrumenty pochodne dopuszczone do obrotu zorganizowanego, prowadzone wyłącznie przez domy maklerskie i banki prowadzące działalność maklerską, banki powiernicze, banki państwowe prowadzące działalność maklerską i banki, o których mowa art. 70 ust. 2, zagraniczne firmy inwestycyjne i zagraniczne osoby prawne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału jeżeli oznaczenie tych rachunków pozwala na identyfikację osób, którym przysługują prawa z instrumentów pochodnych dopuszczonych do obrotu zorganizowanego.
+
+2. Podmiot prowadzący rachunki derywatów dokonuje zapisów na rachunku derywatów i rachunku pieniężnym klienta po rozliczeniu transakcji przez właściwy podmiot rozliczający, najpóźniej do końca dnia, którym nastąpiło to rozliczenie, na podstawie zapisów dokonanych na kontach rozliczeniowych prowadzonych przez ten podmiot.
+
+3. Przepis ust. 1 nie ogranicza możliwości rejestrowania poza terytorium Rzeczypospolitej Polskiej instrumentów pochodnych dopuszczonych do obrotu zorganizowanego, będących przedmiotem transakcji zawieranych przez:
+
+- **1)** zagraniczne firmy inwestycyjne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej bez otwierania oddziału lub
+- **2)** zagraniczne firmy inwestycyjne ramach wykonywania na terytorium Rzeczypospolitej Polskiej czynności, o których mowa art. 69 ust. 2 pkt 3, związku z realizacją zadań związanych z organizacją rynku regulowanego, ASO lub zapewnieniem płynności obrotu instrumentami pochodnymi, lub
+- **3)** zagraniczne firmy inwestycyjne nieprowadzące działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, lub 3a) zagraniczne osoby prawne nieprowadzące działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o których mowa art. 31 ust. 1 pkt 2a lub art. 78 ust. 1ba, lub
+- **4)** inne podmioty z siedzibą poza terytorium Rzeczypospolitej Polskiej, nieprowadzące działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o ile spełniają warunki określone art. 31 ust. 2.
+
+4. Do rachunków derywatów stosuje się odpowiednio przepisy dotyczące rachunków papierów wartościowych. również rachunki DLT oraz ewidencję DLT, o której mowa art. 131u ust. 1, jeżeli przepisy te nie stanowią inaczej.
+
+**Art. 5.**
+
+1. Papiery wartościowe:
+
+- **1)** będące przedmiotem oferty publicznej lub
+- **2)** dopuszczone do obrotu na rynku regulowanym, lub,
+- **3)** wprowadzone do ASO, lub
+- **4)** emitowane przez Skarb Państwa lub Narodowy Bank Polski nie mają formy dokumentu od chwili ich zarejestrowania na podstawie umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych (dematerializacja).
+
+1a. Jeżeli zgodnie z art. 49 ust. 1 rozporządzenia 909/2014 emitent zamierza zarejestrować papiery wartościowe innym systemie rejestracji, ich dematerializacja następuje z chwilą zarejestrowania tym systemie, jeżeli podmiot prowadzący ten system spełnił warunki, o których mowa art. 23 rozporządzenia 909/2014.
+
+2. Papiery wartościowe mogą nie mieć lub nie mają formy dokumentu również przypadku, gdy przewidują to odrębne przepisy dotyczące emisji tych papierów.
+
+3. Papiery wartościowe:
+
+- **1)** będące przedmiotem oferty publicznej, które nie będą podlegać dopuszczeniu do obrotu na rynku regulowanym, albo
+- **2)** wprowadzone wyłącznie do ASO mogą nie podlegać dematerializacji, jeżeli dopuszczają to odrębne przepisy określające zasady ich emisji i emitent tak postanowi. W takim przypadku przepisów ust. 4 i 6 nie stosuje się.
+
+4. Emitent papierów wartościowych, o których mowa ust. 1, jest zobowiązany do zawarcia z Krajowym Depozytem umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych.
+
+5. Przed złożeniem wniosku o dopuszczenie instrumentów finansowych niebędących papierami wartościowymi ani instrumentami pochodnymi, do obrotu na rynku regulowanym, podmiot ubiegający się o dopuszczenie do obrotu tych instrumentów jest obowiązany do zawarcia z Krajowym Depozytem umowy, której przedmiotem jest rejestracja tych instrumentów depozycie papierów wartościowych. Obowiązek ten nie odnosi się do instrumentów finansowych, o których mowa art. 2 ust. 1 pkt 2 lit. j.
+
+5a. Papiery wartościowe, które zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do ASO bez zgody ich emitenta, mogą zostać zarejestrowane depozycie papierów wartościowych bez konieczności zawierania umowy, o której mowa ust. 4, o ile zostały one zarejestrowane przez osobę prawną lub inną jednostkę organizacyjną wykonującą poza terytorium Rzeczypospolitej Polskiej zadania zakresie centralnej rejestracji papierów wartościowych, a Krajowy Depozyt utworzył do niej połączenie operacyjne CDPW rozumieniu art. 2 ust. 1 pkt 29 rozporządzenia 909/2014.
+
+6. Jeżeli system rejestracji papierów wartościowych emitowanych przez Skarb Państwa lub opiewających na wynikające z nich zbywalne prawa majątkowe będzie prowadzony przez Narodowy Bank Polski, emitent będący Skarbem Państwa jest zobowiązany, przed złożeniem wniosku o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym albo o ich wprowadzenie do ASO, do zawarcia z Narodowym Bankiem Polskim umowy, której przedmiotem jest rejestracja papierów wartościowych takim systemie.
+
+7. W przypadku papierów wartościowych wyemitowanych poza terytorium Rzeczypospolitej Polskiej, przedmiotem rejestracji może być ta część papierów wartościowych, która stanowi przedmiot oferty publicznej, lub które mają być przedmiotem obrotu na rynku regulowanym albo ASO na terytorium Rzeczypospolitej Polskiej.
+
+8. Zawarcie przez spółkę, której akcje nie są rejestrowane depozycie papierów wartościowych, umowy o rejestrację praw do akcji oraz akcji depozycie papierów wartościowych wymaga upoważnienia zawartego uchwale walnego zgromadzenia tej spółki, a przypadku emitenta z siedzibą poza terytorium Rzeczypospolitej Polskiej uchwale właściwego organu stanowiącego tego emitenta. Upoważnienie do zawarcia umowy o rejestrację akcji depozycie papierów wartościowych jest równoznaczne z upoważnieniem do zawarcia umowy o rejestrację depozycie papierów wartościowych praw do akcji, z których wynika uprawnienie do otrzymania tych akcji.
+
+9. Umowa o rejestrację akcji depozycie papierów wartościowych stanowi także podstawę do rejestrowania depozycie papierów wartościowych praw poboru z tych akcji. art. 48 ust. 1 pkt 1, spółce zależnej od Krajowego Depozytu, umowa o rejestrację papierów wartościowych lub innych instrumentów finansowych depozycie papierów wartościowych jest zawierana z tą spółką.
+
+**Art. 5a.**
+
+1. Na podstawie umowy zawartej przez emitenta z Krajowym Depozytem lub spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, depozycie papierów wartościowych mogą być również rejestrowane papiery wartościowe, które zgodnie z odrębnymi przepisami dotyczącymi emisji tych papierów mogą nie mieć formy dokumentu lub podlegają zarejestrowaniu depozycie papierów wartościowych.
+
+2. W depozycie papierów wartościowych mogą być również rejestrowane papiery wartościowe, inne niż wskazane art. 5 ust. 1, wyemitowane przez podmioty z siedzibą poza terytorium Rzeczypospolitej Polskiej nabywane przez:
+
+- **1)** uczestników Krajowego Depozytu lub ich klientów, lub
+- **2)** uczestników spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, lub ich klientów.
+
+3. Do papierów wartościowych rejestrowanych zgodnie z ust. 1 i 2 stosuje się przepisy ustawy dotyczące zdematerializowanych papierów wartościowych, tym dotyczące nabywania oraz przenoszenia praw z takich papierów.
+
+**Art. 6.**
+
+1. W przypadku papierów wartościowych wydanych formie dokumentu emitent jest obowiązany, przed zawarciem umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych, złożyć te papiery do depozytu prowadzonego na terytorium Rzeczypospolitej Polskiej przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, bank powierniczy, Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1. Podmioty te są obowiązane utworzyć rejestr osób uprawnionych z tych papierów.
+
+2. W przypadku papierów wartościowych wydanych formie dokumentu, zapisy rejestrze, o którym mowa ust. 1, uzyskują znaczenie prawne zapisów na rachunkach papierów wartościowych, a dokumenty złożone do depozytu zostają pozbawione mocy prawnej z chwilą zarejestrowania tych papierów depozycie papierów wartościowych.
+
+3. W przypadku papierów wartościowych wydanych formie dokumentu poza terytorium Rzeczypospolitej Polskiej, obowiązek określony ust. 1 uznaje się za spełniony przez zarejestrowanie tych papierów wartościowych, przed zawarciem umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych, przez osobę prawną lub inną jednostkę organizacyjną wykonującą poza terytorium Rzeczypospolitej Polskiej zadania zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych obrocie papierami wartościowymi.
+
+4. Dokumenty, formie których wydane zostały papiery wartościowe zarejestrowane przez podmiot, o którym mowa ust. 3, tracą moc prawną na terytorium Rzeczypospolitej Polskiej z chwilą zarejestrowania tych papierów depozycie papierów wartościowych.
+
+**Art. 6a.** W przypadku akcji zarejestrowanych rejestrze akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, zapisy tym rejestrze uzyskują znaczenie prawne zapisów na rachunkach papierów wartościowych i przestają się do nich stosować przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych dotyczące rejestru akcjonariuszy z chwilą zarejestrowania tych akcji depozycie papierów wartościowych.
+
+**Art. 7.**
+
+1. Prawa ze zdematerializowanych papierów wartościowych powstają z chwilą zapisania ich po raz pierwszy na rachunku papierów wartościowych i przysługują osobie będącej posiadaczem tego rachunku, z zastrzeżeniem art. 7a ust. 7a i art. 7aa ust. 5.
+
+2. Umowa zobowiązująca do przeniesienia zdematerializowanych papierów wartościowych przenosi te papiery z chwilą dokonania odpowiedniego zapisu na rachunku papierów wartościowych. W przypadku gdy ustalenie prawa do pożytków ze zdematerializowanych papierów wartościowych nastąpiło dniu, którym depozycie papierów wartościowych powinno zostać przeprowadzone rozliczenie transakcji, lub później, a papiery te są nadal zapisane na rachunku zbywcy, pożytki przypadają nabywcy chwili dokonania zapisu na jego rachunku papierów wartościowych.
+
+3. W przypadku gdy nabycie zdematerializowanych papierów wartościowych nastąpiło na podstawie zdarzenia prawnego powodującego z mocy ustawy przeniesienie tych papierów, zapis na rachunku papierów wartościowych nabywcy jest dokonywany na jego żądanie. dokonaniu zarejestrowania przeniesienia papierów wartościowych pomiędzy odpowiednimi kontami depozytowymi, o których mowa art. 57 ust. 1 pkt 1.
+
+5. Zobowiązanie się do zbycia papierów wartościowych transakcji zawartej obrocie zorganizowanym, przed dokonaniem ich zapisu na rachunku papierów wartościowych zbywcy jest dopuszczalne, o ile:
+
+- **1)** zostały one uprzednio nabyte wyniku transakcji, której rozliczenie jest zabezpieczone przez fundusz, o którym mowa art. 65 lub art. 68d, lub
+- **2)** następuje ramach tej samej transakcji, której zbywca zobowiązał się i stał się uprawniony do nabycia tej samej liczby takich samych papierów wartościowych, a rozrachunek nabycia nastąpi nie później niż rozrachunek zbycia, lub
+- **3)** zostały one uprzednio nabyte wyniku transakcji zawartej na zagranicznym rynku regulowanym, lub
+- **4)** następuje ramach transakcji krótkiej sprzedaży zgodnie z przepisami rozporządzenia 236/2012, lub
+- **5)** zostały one uprzednio przeniesione przez zbywcę na podstawie umowy pożyczki papierów wartościowych lub z zastrzeżeniem prawa odkupu, a rozrachunek ich zwrotu lub odkupu nastąpi nie później niż rozrachunek zbycia.
+
+5a. (uchylony) 5b. Przepisy ust. 1–5 nie wyłączają prawa do zobowiązania się do zbycia papierów wartościowych poza obrotem zorganizowanym przed dokonaniem ich zapisu na rachunku papierów wartościowych zbywcy.
+
+6. Przepisy ust. 1–5 i 5b stosuje się również do wyemitowanych poza terytorium Rzeczypospolitej Polskiej papierów wartościowych będących przedmiotem oferty publicznej lub dopuszczonych do obrotu na rynku regulowanym albo wprowadzonych do ASO, od chwili zarejestrowania na podstawie umowy, której przedmiotem jest rejestracja tych papierów depozycie papierów wartościowych.
+
+**Art. 7a.**
+
+1. W przypadku obligacji emitowanych na podstawie ustawy z dnia 15 stycznia 2015 r. o obligacjach (Dz. U. z 2022 r. poz. 2244 oraz z 2023 r. poz. 825 i 1723), z zastrzeżeniem art. 27g tej ustawy, oraz listów zastawnych emitowanych na podstawie ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2023 r. poz. 110), z zastrzeżeniem art. 5a ust. 2 tej ustawy, odniesieniu do których emitent nie zamierza ubiegać się o dopuszczenie do obrotu na rynku regulowanym ani o wprowadzenie do ASO, a także przypadku certyfikatów inwestycyjnych emitowanych przez fundusz inwestycyjny zamknięty, który nie jest publicznym funduszem inwestycyjnym zamkniętym, przed zawarciem umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych, emitent zawiera umowę o wykonywanie funkcji agenta emisji tych papierów wartościowych z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską albo bankiem, o którym mowa art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym.
+
+1a. W przypadku certyfikatów inwestycyjnych pierwszej emisji funduszu inwestycyjnego zamkniętego umowę, o której mowa ust. 1, z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską albo bankiem, o którym mowa art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym zawiera towarzystwo funduszy inwestycyjnych tworzące ten fundusz.
+
+2. Umowa o wykonywanie funkcji agenta emisji jest zawierana przed rozpoczęciem proponowania nabycia papierów wartościowych, o których mowa ust. 1.
+
+3. Jeżeli firma inwestycyjna, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, lub bank powierniczy są jednostkami powiązanymi z emitentem rozumieniu ustawy z dnia 29 września 1994 r. o rachunkowości albo są związane z emitentem jakimkolwiek innym stosunkiem prawnym lub faktycznym, który mógłby prowadzić do konfliktu interesów lub wywoływać wątpliwości co do możliwości prawidłowego wywiązywania się z obowiązków agenta emisji, firma inwestycyjna, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, oraz bank powierniczy mogą zawrzeć z emitentem umowę o wykonywanie funkcji agenta emisji, jeżeli:
+
+- **1)** wydzielą pod względem organizacyjnym wykonywanie tej funkcji od osób lub czynności, które mogą wywoływać powstanie konfliktu interesów, oraz
+- **2)** zapewnią identyfikację i monitorowanie konfliktów interesów oraz właściwe zarządzanie nimi.
+- **1)** weryfikację dokumentów stanowiących podstawę prawną emisji papierów wartościowych zakresie spełniania wynikających z przepisów prawa wymogów niezbędnych dla powstania i realizacji praw wynikających z papierów wartościowych;
+- **2)** weryfikację kompletności dokumentacji i oświadczeń przedstawionych przez emitenta zakresie spełniania wynikających z przepisów prawa wymogów dotyczących oferowania papierów wartościowych;
+- **3)** weryfikację spełniania przez papiery wartościowe oraz przez ich emitenta warunków rejestracji depozycie papierów wartościowych określonych regulaminie, o którym mowa art. 50 ust. 1, a także tego, czy przyjęte przez Krajowy Depozyt lub przez spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1 i 4, zasady obsługi realizacji zobowiązań emitentów zapewniają możliwość prawidłowego wykonania zobowiązań wynikających z papierów wartościowych;
+- **4)** utworzenie ewidencji osób uprawnionych z papierów wartościowych oraz wydawanie zaświadczeń, o których mowa ustawie o funduszach inwestycyjnych oraz ustawie z dnia 15 stycznia 2015 r. o obligacjach;
+- **5)** zawarcie imieniu emitenta umowy, której przedmiotem jest rejestracja papierów wartościowych depozycie papierów wartościowych, a także udzielanie emitentowi niezbędnej pomocy zakresie ustalenia i przygotowania dokumentacji niezbędnej do zawarcia tej umowy.
+
+5. Umowa o wykonywanie funkcji agenta emisji nie może wyłączyć ani ograniczyć obowiązków agenta emisji, o których mowa ust. 4.
+
+6. Agent emisji jest obowiązany wykonywać obowiązki określone ust. 4 sposób rzetelny i niezależny, z zachowaniem należytej staranności wynikającej z profesjonalnego charakteru prowadzonej przez niego działalności.
+
+7. Agent emisji odpowiada za szkody spowodowane niewykonaniem lub nienależytym wykonaniem obowiązków, o których mowa ust. 4.
+
+7a. Prawa z papierów wartościowych, o których mowa ust. 1, powstają z chwilą dokonania zapisu ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji i przysługują osobom wskazanym tej ewidencji jako osoby uprawnione z tych papierów wartościowych.
+
+7b. Do chwili zarejestrowania papierów wartościowych, o których mowa ust. 1, depozycie papierów wartościowych:
+
+- **1)** umowa zobowiązująca do przeniesienia tych papierów wartościowych przenosi je z chwilą dokonania wpisu ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, wskazującego nabywcę oraz liczbę nabytych przez niego papierów wartościowych;
+- **2)** przypadku, gdy nabycie tych papierów wartościowych nastąpiło na podstawie zdarzenia prawnego powodującego z mocy ustawy ich przeniesienie na nabywcę, agent emisji dokonuje wpisu ewidencji osób uprawnionych z tych papierów wartościowych na żądanie nabywcy.
+
+8. Agent emisji tworzy ewidencję osób uprawnionych z papierów wartościowych po spełnieniu wymogów będących przedmiotem weryfikacji dokonanej zakresie określonym ust. 4 pkt 1–3 lub gdy ujawnione toku weryfikacji nieprawidłowości lub niezgodności zostały usunięte przez emitenta albo nie zagrażają bezpieczeństwu obrotu ani interesom inwestorów.
+
+8a. Z chwilą utworzenia ewidencji osób uprawnionych z papierów wartościowych agent emisji staje się bezwarunkowo i nieodwołalnie umocowany do zawarcia imieniu emitenta umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych.
+
+8b. Agent emisji jest obowiązany złożyć Krajowym Depozycie albo spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, oświadczenia i dokumenty, które zgodnie z regulaminem, o którym mowa odpowiednio art. 50 albo art. 48 ust. 15, są wymagane do zawarcia tej umowy imieniu emitenta, terminie 2 dni roboczych od dnia utworzenia ewidencji osób uprawnionych z papierów wartościowych, chyba że zostaną one umorzone przed upływem tego terminu. Jeżeli papiery wartościowe zostaną umorzone przed zawarciem tej umowy, ale po złożeniu oświadczeń i dokumentów wymaganych do jej zawarcia, agent emisji niezwłocznie informuje o tym Krajowy Depozyt albo spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6. do przetwarzania danych osobowych osób wpisanych do tej ewidencji, obejmujących imiona i nazwiska takich osób, adresy miejsc ich zamieszkania, numery PESEL lub numery identyfikacji podatkowej, a także inne dane określone art. 36 ust. 1 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2023 r. poz. 1124, 1285, 1723 i 1843), zakresie niezbędnym do prawidłowego wykonywania przez agenta emisji obowiązków związanych z przeciwdziałaniem praniu pieniędzy i finansowaniu terroryzmu, a także dane zakresie niezbędnym do prawidłowego wykonania przez agenta emisji obowiązków, o których mowa art. 39 ust. 3 oraz art. 42 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2024 r. poz. 226 i 232). Do przetwarzania tych danych przez agenta emisji przepisy art. 83a ust. 4a oraz art. 90 stosuje się odpowiednio.
+
+9. Od chwili zarejestrowania depozycie papierów wartościowych obligacji, listów zastawnych lub certyfikatów inwestycyjnych, o których mowa ust. 1, zapisy ewidencji osób uprawnionych z tych papierów wartościowych prowadzonej przez agenta emisji wywołują skutki prawne związane z zapisem na rachunkach papierów wartościowych.
+
+10. Emitent obligacji, listów zastawnych lub certyfikatów inwestycyjnych innych niż określone ust. 1 może zawrzeć z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską, bankiem, o którym mowa art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę o wykonywanie funkcji agenta emisji tych papierów wartościowych. Przepisy ust. 2–9 stosuje się odpowiednio. Art. 7aa. 37) 1. Emitent obligacji kapitałowych, o których mowa art. 27g ustawy z dnia 15 stycznia 2015 r. o obligacjach, przed rozpoczęciem proponowania ich nabycia, zawiera z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską albo bankiem, o którym mowa art. 70 ust. 2, uprawnionymi do prowadzenia rachunków papierów wartościowych, albo z bankiem powierniczym umowę, której przedmiotem jest przechowywanie dokumentów obligacji kapitałowych oraz prowadzenie rejestru osób uprawnionych z obligacji kapitałowych.
+
+2. Na podstawie umowy, o której mowa ust. 1, firma inwestycyjna, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, i bank powierniczy:
+
+- **1)** przechowują dokumenty obligacji kapitałowych na terytorium Rzeczypospolitej Polskiej do chwili ich wydania podmiotowi prowadzącemu inny system rejestracji, o którym mowa art. 5 ust. 1a,
+- **2)** tworzą rejestr osób uprawnionych z obligacji kapitałowych, aktualizują wpisy rejestrze na podstawie przedstawionych dokumentów potwierdzających przeniesienie obligacji kapitałowych oraz wydają obligatariuszom, na podstawie tego rejestru, zaświadczenia potwierdzające prawa z obligacji kapitałowych sposób rzetelny i niezależny, z zachowaniem należytej staranności wynikającej z profesjonalnego charakteru prowadzonej działalności.
+
+3. Jeżeli zaświadczenie, o którym mowa ust. 2 pkt 2, wydaje się celu wykazania prawa do uczestniczenia zgromadzeniu obligatariuszy, przepis art. 55 ust. 1a ustawy z dnia 15 stycznia 2015 r. o obligacjach stosuje się odpowiednio.
+
+4. Emitent obligacji kapitałowych, niezwłocznie po dokonaniu ich przydziału, wydaje dokumenty obligacji kapitałowych do przechowania firmie inwestycyjnej, bankowi państwowemu prowadzącemu działalność maklerską, bankowi, o którym mowa art. 70 ust. 2, albo bankowi powierniczemu, z którymi zawarł umowę, o której mowa ust. 1.
+
+5. Dokumenty obligacji kapitałowych formie, której zostały wydane, zachowują moc prawną po utworzeniu rejestru osób uprawnionych z obligacji kapitałowych.
+
+6. Firma inwestycyjna, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, i bank powierniczy prowadzące rejestr, o którym mowa ust. 1, przetwarzają celach prowadzenia rejestru dane osobowe osób wpisanych do tego rejestru. Przepisy art. 83a ust. 4a oraz art. 90 stosuje się odpowiednio.
+
+7. Dane, o których mowa ust. 6, obejmują:
+
+- **1)** imię i nazwisko, adres miejsca zamieszkania, numer PESEL i numery identyfikacji podatkowej;
+- **2)** dane określone art. 36 ust. 1 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu zakresie niezbędnym do prawidłowego wykonywania obowiązków związanych z przeciwdziałaniem praniu pieniędzy i finansowaniu terroryzmu;
+- **3)** dane zakresie niezbędnym do prawidłowego wykonania obowiązków, o których mowa art. 39 ust. 3 oraz art. 42 ust. 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. nienia, o którym mowa art. 5 ust. 1a, terminie 15 dni od dnia dokonania ich emisji przekazuje Krajowemu Depozytowi następujące informacje dotyczące tych papierów wartościowych:
+- **1)** przypadku obligacji:
+    - **a)** oznaczenie ich emisji,
+    - **b)** liczbę obligacji wyemitowanych ramach tej emisji,
+    - **c)** jednostkową wartość nominalną obligacji i walutę, której wartość ta została wyrażona,
+    - **d)** wysokość oprocentowania obligacji stosunku rocznym,
+    - **e)** łączną wartość i walutę świadczenia, które powinno zostać spełnione przez emitenta z tytułu wykupu obligacji,
+    - **f)** terminy, których emitent powinien wykonywać świadczenia z tych obligacji;
+
+- **2)** przypadku listów zastawnych:
+    - **a)** oznaczenie ich emisji,
+    - **b)** liczbę listów zastawnych wyemitowanych ramach tej emisji,
+    - **c)** jednostkową wartość nominalną listów zastawnych i walutę, której wartość ta została wyrażona,
+    - **d)** wysokość oprocentowania listów zastawnych stosunku rocznym,
+    - **e)** łączną wartość i walutę świadczenia, które powinno zostać spełnione przez emitenta z tytułu wykupu tych listów zastawnych,
+    - **f)** terminy, których emitent powinien wykonywać świadczenia z tych listów zastawnych;
+
+- **3)** przypadku certyfikatów inwestycyjnych:
+    - **a)** oznaczenie ich emisji, a przypadku gdy są związane z subfunduszem oznaczenie tego subfunduszu,
+    - **b)** liczbę wyemitowanych certyfikatów inwestycyjnych ramach tej emisji,
+    - **c)** wskazanie świadczeń wynikających z certyfikatów inwestycyjnych oraz terminów, których emitent powinien wykonywać te świadczenia.
+
+2. Emitent, o którym mowa ust. 1, jest obowiązany przekazywać Krajowemu Depozytowi, niezwłocznie, jednak nie później niż terminie 3 dni roboczych od dnia wystąpienia zdarzenia, informacje o wartości świadczeń wynikających z papierów wartościowych, o których mowa ust. 1, które stały się wymagalne, ze wskazaniem, czy i jakim zakresie świadczenia te zostały spełnione, a także aktualizować informacje, o których mowa ust. 1, przypadku gdy przestały one odpowiadać stanowi rzeczywistemu. Obowiązek ten wygasa wraz z przekazaniem Krajowemu Depozytowi informacji, z której wynika, że emitent nie posiada żadnych zobowiązań z tytułu tych papierów wartościowych.
+
+3. W informacjach, o których mowa ust. 1 i 2, emitent wskazuje identyfikujący go niepowtarzalny identyfikator podmiotu prawnego zgodny z normą ISO 174420 (kod LEI) nadany przez podmiot uprawniony do rejestrowania takich identyfikatorów.
+
+4. Informacje, o których mowa ust. 1 i 2, są przekazywane postaci elektronicznej, za pomocą oprogramowania interfejsowego dostępnego na stronie internetowej Krajowego Depozytu.
+
+5. Przepisy ust. 1–4 stosuje się odpowiednio do emitenta niekorzystającego z uprawnienia, o którym mowa art. 5 ust. 1a, odniesieniu do papierów wartościowych zapisanych ewidencji osób uprawnionych z papierów wartościowych prowadzonej przez agenta emisji, z tym że przypadku takiego emitenta obowiązki, o których mowa ust. 1 i 2, wygasają z chwilą zawarcia umowy, której przedmiotem jest rejestracja tych papierów wartościowych depozycie papierów wartościowych.
+
+6. Przepisy ust. 1–4 stosuje się odpowiednio do emitenta niekorzystającego z uprawnienia, o którym mowa art. 5 ust. 1a, odniesieniu do papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT i zarejestrowanych SS opartym na DLT albo TSS opartym na DLT. padku określonym art. 7a ust. 1, są obowiązani przekazać Krajowemu Depozytowi, przed zawarciem umowy, której przedmiotem jest rejestracja papierów wartościowych depozycie papierów wartościowych lub innym systemie rejestracji, o którym mowa art. 49 ust. 1 rozporządzenia 909/2014, dodatkowe informacje dotyczące emisji tych papierów wartościowych, rodzaju papieru wartościowego, wynikających z niego zobowiązań oraz sposobu ich oferowania. Przepis art. 7b ust. 3 i 4 stosuje się odpowiednio.
+
+2. Obowiązek, o którym mowa ust. 1, dotyczy także emitentów papierów wartościowych, odniesieniu do których emitent zamierza ubiegać się o dopuszczenie do obrotu na rynku regulowanym lub o wprowadzenie do ASO, a także emitentów papierów wartościowych dopuszczonych do takiego obrotu.
+
+3. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, szczegółowy zakres informacji, o których mowa ust. 1, oraz termin ich przekazywania, uwzględniając konieczność zapewnienia prawidłowego wykonywania zadań Komisji zakresie nadzoru nad rynkiem kapitałowym oraz umożliwienia identyfikacji emitentów i wyemitowanych papierów.
+
+**Art. 8.**
+
+1. Przepisy art. 7 stosuje się odpowiednio do niebędących papierami wartościowymi instrumentów finansowych będących przedmiotem obrotu zorganizowanego, z tym że odniesieniu do instrumentów pochodnych dopuszczonych do obrotu zorganizowanego określone art. 7 skutki prawne związane z zapisem na rachunku papierów wartościowych powstają:
+
+- **1)** na terytorium Rzeczypospolitej Polskiej z chwilą zapisania tych instrumentów na rachunku derywatów;
+- **2)** przypadku, o którym mowa art. 4a ust. 3 z chwilą zapisania tych instrumentów na koncie rozliczeniowym prowadzonym przez podmiot rozliczający, o którym mowa art. 45b ust. 1 pkt 2.
+
+2. Do ustalenia osób uprawnionych lub zobowiązanych z instrumentów pochodnych dopuszczonych do obrotu zorganizowanego, rejestrowanych poza terytorium Rzeczypospolitej Polskiej zgodnie z art. 4a ust. 3, przepisów prawa polskiego nie stosuje się, z zastrzeżeniem art. 45h ust. 2.
+
+**Art. 8a.**
+
+1. Podmioty, o których mowa art. 4 ust. 1, mogą prowadzić ramach depozytu papierów wartościowych lub systemu rejestracji papierów wartościowych prowadzonego przez Narodowy Bank Polski rachunki, na których mogą być rejestrowane zdematerializowane papiery wartościowe nienależące do osób, dla których rachunki te są prowadzone, ale należące do innej osoby lub osób (rachunki zbiorcze). Zdematerializowane papiery wartościowe zapisane na rachunku zbiorczym nie są zapisywane na rachunkach papierów wartościowych.
+
+2. Rachunki zbiorcze mogą być prowadzone dla:
+
+- **1)** osób prawnych lub innych jednostek organizacyjnych z siedzibą poza terytorium Rzeczypospolitej Polskiej, które wykonują zadania zakresie centralnej rejestracji papierów wartościowych i podlegają nadzorowi właściwego organu sprawującego nadzór nad instytucjami finansowymi państwie członkowskim albo państwie równoważnym;
+- **2)** zagranicznych firm inwestycyjnych nieprowadzących działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, uprawnionych do prowadzenia działalności zakresie rejestrowania instrumentów finansowych państwie ich siedziby;
+- **3)** zagranicznych firm inwestycyjnych prowadzących działalność maklerską na terytorium Rzeczypospolitej Polskiej bez otwierania oddziału, uprawnionych do prowadzenia działalności zakresie rejestrowania instrumentów finansowych państwie ich siedziby;
+- **4)** zagranicznych osób prawnych z siedzibą państwie równoważnym, uprawnionych do prowadzenia działalności maklerskiej zakresie rejestrowania instrumentów finansowych państwie ich siedziby, nieprowadzących działalności maklerskiej na terytorium Rzeczypospolitej Polskiej;
+- **5)** banków zagranicznych z siedzibą państwie równoważnym, uprawnionych do prowadzenia działalności zakresie rejestrowania instrumentów finansowych państwie ich siedziby.
+
+2a. Przez państwo równoważne, o którym mowa ust. 2, rozumie się państwo, o którym mowa art. 42 ust. 2 pkt 6 lit. c ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
+
+3. Podmiot, dla którego prowadzony jest rachunek zbiorczy (posiadacz rachunku zbiorczego), nie jest uważany za uprawnionego z zapisanych na tym rachunku zdematerializowanych papierów wartościowych. Z zastrzeżeniem ust. 4 i 5, do ustalania osób uprawnionych z takich papierów wartościowych nie stosuje się przepisów prawa polskiego. niona z papierów wartościowych zapisanych na takim rachunku jest uważana na terytorium Rzeczypospolitej Polskiej za osobę uprawnioną ze zdematerializowanych papierów wartościowych zapisanych na tym rachunku liczbie wynikającej z tego wskazania.
+
+5. Na terytorium Rzeczypospolitej Polskiej, dla potrzeb określenia chwili powstania praw ze zdematerializowanych papierów wartościowych, ich przeniesienia na inną osobę, uzyskania lub utraty uprawnienia z takich papierów wartościowych, a także dla ustalenia dopuszczalności zobowiązania się do ich zbycia uznaje się, że zapis na rachunku zbiorczym wywołuje skutki prawne, które przepis art. 7 wiąże z zapisem na rachunku papierów wartościowych.
+
+6. Świadczenia wynikające ze zdematerializowanych papierów wartościowych zapisanych na rachunku zbiorczym, otrzymane bezpośrednio lub pośrednio od emitentów, podmiot prowadzący rachunek zbiorczy przekazuje lub stawia do dyspozycji wyłącznie posiadaczowi tego rachunku. Osobom uprawnionym z papierów wartościowych zapisanych na rachunku zbiorczym nie przysługuje wobec podmiotu prowadzącego ten rachunek zbiorczy roszczenie o wydanie tych świadczeń.
+
+7. Przepisy ust. 1–6 stosuje się odpowiednio do niebędących papierami wartościowymi instrumentów finansowych będących przedmiotem obrotu zorganizowanego, z wyłączeniem instrumentów pochodnych.
+
+8. O ile ustawa nie stanowi inaczej, do rachunków zbiorczych stosuje się odpowiednio przepisy dotyczące rachunków papierów wartościowych.
+
+**Art. 8b.**
+
+1. Na żądanie Komisji albo Generalnego Inspektora Informacji Finansowej posiadacz rachunku zbiorczego niezwłocznie przekazuje dane identyfikujące osoby uprawnione z papierów wartościowych zapisanych na rachunku zbiorczym oraz dane o liczbie i rodzaju papierów wartościowych posiadanych przez te osoby. W przypadku gdy posiadacz rachunku zbiorczego nie posiada informacji pozwalających na ustalenie takich osób lub liczby i rodzaju posiadanych przez nie papierów wartościowych, wskazuje klienta, na którego rachunek papiery wartościowe zapisane na rachunku zbiorczym są rejestrowane ewidencji prowadzonej przez posiadacza rachunku zbiorczego.
+
+2. Żądanie, o którym mowa ust. 1, jest przekazywane posiadaczowi rachunku zbiorczego bezpośrednio albo za pośrednictwem podmiotu prowadzącego rachunek zbiorczy. Posiadacz rachunku zbiorczego przekazuje żądane informacje Komisji lub Generalnemu Inspektorowi Informacji Finansowej bezpośrednio albo za pośrednictwem podmiotu prowadzącego rachunek zbiorczy.
+
+3. Podmiot prowadzący rachunek zbiorczy może żądać od posiadacza rachunku zbiorczego przekazania mu danych dotyczących osób uprawnionych z rejestrowanych na tym rachunku papierów wartościowych, zakresie niezbędnym dla prawidłowego wykonania przez podmiot prowadzący rachunek zbiorczy przewidzianych przepisach prawa podatkowego obowiązków związanych z powstałymi na terytorium Rzeczypospolitej Polskiej zobowiązaniami podatkowymi tych osób. Posiadacz rachunku zbiorczego, który nie posiada danych dotyczących takich osób, przekazuje podmiotowi prowadzącemu rachunek zbiorczy informację określającą odrębnie liczbę papierów wartościowych należących do osób fizycznych oraz do podatników podatku dochodowego od osób prawnych, według stanu na dzień określony przez podmiot prowadzący rachunek zbiorczy.
+
+4. Umowa o prowadzenie rachunku zbiorczego powinna zawierać informację o obowiązku składania przez podatników będących osobami fizycznymi zeznań podatkowych o wysokości dochodu (straty) osiągniętego przez nich roku podatkowym z odpłatnego zbycia papierów wartościowych i z realizacji praw wynikających z papierów wartościowych, o których mowa art. 3 pkt 1 lit. b, oraz o obowiązku zapłaty podatku dochodowego od tego dochodu.
+
+5. Podmiot prowadzący rachunek zbiorczy nie może przetwarzać danych osobowych otrzymanych zgodnie z ust. 1–3 celach innych, niż określone ustawie.
+
+**Art. 8c.**
+
+1. Podmiot prowadzący rachunek zbiorczy, na żądanie osób uprawnionych z papierów wartościowych zapisanych na rachunku zbiorczym, celu umożliwienia złożenia przez nie wniosku o stwierdzenie nadpłaty podatku dochodowym, wydaje zaświadczenie, którym podaje:
+
+- **1)** wysokość dochodu (przychodu) przekazanego posiadaczowi rachunku zbiorczego;
+- **2)** wysokość pobranego podatku;
+- **3)** datę osiągnięcia i przekazania dochodu oraz pobrania podatku.
+
+2. Zaświadczenie, o którym mowa ust. 1, może zostać wystawione wyłącznie na rzecz osoby, która została wskazana podmiotowi prowadzącemu rachunek zbiorczy przez posiadacza tego rachunku pośredniczącego dokonaniu świadczenia, jako osoba, na rzecz której świadczenie to zostało zrealizowane.
+
+3. Osoby, o których mowa ust. 1, dochodzące zwrotu nadpłaty podatku dochodowym, muszą udokumentować miejsce zamieszkania lub siedziby certyfikatem rezydencji.
+
+4. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, wzór zaświadczenia, o którym mowa ust. 1, mając na względzie konieczność zapewnienia prawidłowego rozliczenia podatku dochodowego. wiającym”, wystawia mu na piśmie, oddzielnie dla każdego rodzaju papierów wartościowych, imienne świadectwo depozytowe, zwane dalej „świadectwem”. Na żądanie posiadacza rachunku treści wystawianego świadectwa może zostać wskazana część lub wszystkie papiery wartościowe zapisane na tym rachunku.
+
+2. Świadectwo potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych, z wyłączeniem prawa uczestnictwa walnym zgromadzeniu.
+
+**Art. 10.**
+
+1. Świadectwo zawiera:
+
+- **1)** firmę (nazwę), siedzibę i adres wystawiającego oraz numer świadectwa;
+- **2)** liczbę papierów wartościowych;
+- **3)** rodzaj i kod papieru wartościowego;
+- **4)** firmę (nazwę), siedzibę i adres emitenta;
+- **5)** wartość nominalną papieru wartościowego;
+- **6)** imię i nazwisko lub nazwę (firmę) i siedzibę oraz adres posiadacza rachunku papierów wartościowych;
+- **7)** informację o istniejących ograniczeniach przenoszenia papierów wartościowych lub o ustanowionych na nich obciążeniach;
+- **8)** datę i miejsce wystawienia świadectwa;
+- **9)** cel wystawienia świadectwa;
+- **10)** termin ważności świadectwa;
+- **11)** przypadku gdy poprzednio wystawione świadectwo, dotyczące tych samych papierów wartościowych, było nieważne albo zostało zniszczone lub utracone przed upływem terminu swojej ważności wskazanie, że jest to nowy dokument świadectwa;
+- **12)** podpis osoby upoważnionej do wystawienia imieniu wystawiającego świadectwa.
+
+1a. Świadectwo dotyczące, rejestrowanych depozycie papierów wartościowych zgodnie z art. 5a:
+
+- **1)** hipotecznych listów zastawnych powinno również spełniać wymogi określone art. 6 ustawy z dnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych;
+- **2)** bankowych papierów wartościowych powinno również spełniać wymogi określone art. 90 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+2. W odniesieniu do papierów wartościowych zapisanych na rachunku zbiorczym za świadectwo uważa się dokument o treści wskazanej ust. 1, sporządzony języku polskim lub angielskim i wystawiony przez posiadacza tego rachunku.
+
+3. Dokument świadectwa sporządzony lub wystawiony z naruszeniem ust. 1 pkt 1–3, 6, 8, 10, 12 lub ust. 2 jest nieważny.
+
+**Art. 10a.**
+
+1. W odniesieniu do akcji spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej, zapisanych na rachunku zbiorczym, za zaświadczenie o prawie uczestnictwa walnym zgromadzeniu, o którym mowa art. 406 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, uważa się również dokument o treści wskazanej tym przepisie, sporządzony języku polskim lub angielskim i wystawiony przez posiadacza tego rachunku. Jeżeli rachunek zbiorczy nie jest prowadzony przez Krajowy Depozyt albo spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, posiadacz tego rachunku powinien zostać wskazany Krajowemu Depozytowi albo tej spółce przez podmiot prowadzący dla niego rachunek zbiorczy przed pierwszym wystawieniem takiego dokumentu.
+
+2. W razie wystawienia dokumentów, o których mowa ust. 1, posiadacz rachunku zbiorczego sporządza na ich podstawie wykaz, o którym mowa art. 406 § 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, i przekazuje go Krajowemu Depozytowi albo spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, terminie określonym tym przepisie. W przypadku gdy posiadacz rachunku zbiorczego nie jest uczestnikiem Krajowego Depozytu albo spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, wykaz ten jest przekazywany za pośrednictwem uczestnika Krajowego Depozytu lub tej spółki. Sposób i forma sporządzenia oraz przekazania tego wykazu powinny odpowiadać wymogom określonym zgodnie z art. 50 ust. 4 pkt 7a. mogą być przedmiotem obrotu do chwili utraty jego ważności albo zwrotu świadectwa wystawiającemu przed upływem terminu jego ważności. Na okres ten wystawiający dokonuje blokady odpowiedniej liczby papierów wartościowych na rachunku papierów wartościowych posiadacza, który wystąpił z żądaniem, o którym mowa art. 9 ust. 1.
+
+2. W okresie, o którym mowa ust. 1, te same papiery wartościowe mogą być wskazane treści kilku świadectw, pod warunkiem że cel wystawienia każdego ze świadectw jest odmienny. W takim przypadku kolejnych świadectwach zamieszcza się również, zgodnie z art. 10 ust. 1 pkt 7, informację o dokonaniu blokady papierów wartościowych związku z wcześniejszym wystawieniem innych świadectw.
+
+**Art. 12.**
+
+1. Utratę ważności świadectwa powoduje:
+
+- **1)** upływ terminu jego ważności;
+- **2)** przeniesienie papierów wartościowych obciążonych zastawem celu zaspokojenia zastawnika przypadku świadectwa dotyczącego tych papierów wartościowych, wystawionego zastawcy;
+- **3)** przeniesienie papierów wartościowych trybie postępowania egzekucyjnego na podstawie odrębnych przepisów przypadku świadectwa dotyczącego papierów wartościowych objętych egzekucją, wystawionego dłużnikowi;
+- **3a)** dokonanie przymusowego wykupu akcji zgodnie z przepisami ustawy o ofercie publicznej przypadku świadectwa dotyczącego akcji objętych przymusowym wykupem;
+- **4)** zniszczenie lub utrata świadectwa.
+
+2. Utrata ważności świadectwa lub zwrot świadectwa wystawiającemu, dokonany przed upływem terminu jego ważności, wyłącza możliwość realizacji, przy jego użyciu, uprawnienia wynikającego z celu wystawienia tego świadectwa.
+
+3. O utracie ważności świadectwa z przyczyny określonej ust. 1 pkt 2, 3 lub 3a, wystawionego celu uczestnictwa walnym zgromadzeniu spółki publicznej, wystawiający niezwłocznie zawiadamia tę spółkę.
+
+4. W przypadku utraty ważności świadectwa z przyczyny określonej ust. 1 pkt 4, wystawiający, na żądanie posiadacza rachunku zgłoszone przed upływem terminu ważności tego świadectwa, wystawia nowy dokument świadectwa, po złożeniu przez posiadacza rachunku pisemnego oświadczenia o fakcie posiadania świadectwa oraz okoliczności jego zniszczenia lub utraty.
+
+**Art. 13.**
+
+1. Oświadczenia woli związku z dokonywaniem czynności dotyczących obrotu papierami wartościowymi lub innymi instrumentami finansowymi na podstawie ustawy oraz innych czynności wykonywanych ramach działalności podmiotów nadzorowanych zakresie regulowanym ustawą, mogą być składane postaci elektronicznej.
+
+2. Dokumenty związane z czynnościami, o których mowa ust. 1, mogą być sporządzane formie dokumentu elektronicznego, jeżeli dokumenty te będą sposób należyty utworzone, utrwalone, przekazane, przechowywane i zabezpieczone.
+
+2a. Usługi związane z zabezpieczeniem dokumentów, o których mowa ust. 2, mogą być wykonywane przez podmioty nadzorowane zakresie regulowanym ustawą, spółki tworzone przez te podmioty z innymi podmiotami oraz przedsiębiorstwa usług pomocniczych, o których mowa art. 4 ust. 1 pkt 1 rozporządzenia 2019/2033.
+
+3. Oświadczenie woli złożone postaci elektronicznej, zawarte dokumencie związanym z czynnościami, o których mowa ust. 2, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
+
+4. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania dokumentów związanych z czynnościami, o których mowa ust. 1, z uwzględnieniem zapewnienia bezpieczeństwa obrotu oraz ochrony interesów inwestorów.
+
+**Art. 13a.**
+
+1. Klienci firm inwestycyjnych wykonujących działalność związaną z aukcjami prowadzonymi przez platformy aukcyjne mogą wnieść do Komisji skargę związaną z przestrzeganiem związku z tą działalnością zasad postępowania określonych art. 59 ust. 2 i 3 rozporządzenia 1031/2010.
+
+2. Komisja, udzielając odpowiedzi na skargę dotyczącą sporu o charakterze cywilnoprawnym, informuje skarżącego o pozasądowych procedurach rozstrzygania sporów, tym wskazuje właściwe sądy polubowne.
+
+3. Do skarg, o których mowa ust. 1, nie stosuje się przepisów działu VIII ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803).
+
+**Art. 13c.** Minister właściwy do spraw budżetu może organizować rynek obrotu skarbowymi papierami wartościowymi rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy.
+
+**Art. 13d.**
+
+1. Minister właściwy do spraw budżetu może zlecać innym podmiotom organizację rynku obrotu skarbowymi papierami wartościowymi rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy.
+
+2. Rynek obrotu, o którym mowa ust. 1, może być prowadzony jako ASO, OTF, rynek regulowany lub rynek poza systemem obrotu instrumentami finansowymi.
+
+3. Komisja, wydając zezwolenie na prowadzenie ASO, OTF, lub rynku regulowanego, o którym mowa ust. 2, zasięga opinii ministra właściwego do spraw budżetu.
+
+4. Na żądanie ministra właściwego do spraw budżetu osoby wchodzące skład zarządu podmiotu, o którym mowa ust. 1, lub pozostające z tym podmiotem stosunku pracy lub innym o podobnym charakterze są obowiązane do udzielenia terminie określonym żądaniu, jednak nie krótszym niż 7 dni, pisemnych informacji sprawach dotyczących działalności tego podmiotu zakresie rynku skarbowych papierów wartościowych oraz instrumentów finansowych, których instrumentem bazowym jest skarbowy papier wartościowy. W uzasadnionych przypadkach minister właściwy do spraw budżetu może żądać udzielenia tych informacji krótszym terminie.
+
+### DZIAŁ II Wtórny obrót instrumentami finansowymi
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 14.**
+
+1. Rynkiem regulowanym rozumieniu ustawy jest działający sposób stały wielostronny system zawierania transakcji, których przedmiotem są instrumenty finansowe dopuszczone do obrotu tym systemie, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych oraz jednakowe warunki nabywania i zbywania tych instrumentów, zorganizowany i podlegający nadzorowi właściwego organu na zasadach określonych przepisach ustawy, jak również uznany przez państwo członkowskie za spełniający te warunki i wskazany Komisji Europejskiej jako rynek regulowany.
+
+2. Przez zagraniczny rynek regulowany rozumie się rynek regulowany działający na terytorium innego państwa członkowskiego.
+
+3. Do podmiotu prowadzącego zagraniczny rynek regulowany prowadzącego innym państwie członkowskim ASO lub OTF stosuje się odpowiednio art. 117a.
+
+**Art. 14a.**
+
+1. Podmiot prowadzący zagraniczny rynek regulowany może bez zezwolenia Komisji instalować na terytorium Rzeczypospolitej Polskiej systemy informatyczne i urządzenia techniczne umożliwiające dostęp do tego rynku podmiotom prowadzącym działalność na terytorium Rzeczypospolitej Polskiej.
+
+2. Warunkiem podjęcia czynności, o których mowa ust. 1, jest poinformowanie Komisji przez właściwy organ nadzoru, który udzielił danemu podmiotowi zezwolenia na prowadzenie rynku regulowanego, o zamiarze ich podjęcia.
+
+3. Komisja może zwrócić się do organu nadzoru, o którym mowa ust. 2, o wskazanie uczestników rynku, o którym mowa ust. 1.
+
+4. W przypadkach gdy zgodnie z art. 90 ust. 1 rozporządzenia 2017/565 działalność podmiotu, o którym mowa ust. 1, uzyska znaczną wagę dla funkcjonowania rynku papierów wartościowych na terytorium Rzeczypospolitej Polskiej oraz dla ochrony inwestorów, Komisja podejmuje współpracę z właściwym organem nadzoru innego państwa członkowskiego, który udzielił temu podmiotowi zezwolenia na prowadzenie rynku regulowanego.
+
+**Art. 15.** (uchylony) papierów wartościowych lub innych instrumentów finansowych, jak również rodzaju ich emitentów. 2. Spółka prowadząca rynek regulowany może, ramach organizowania rynku regulowanego, wyodrębnić rynek oficjalnych notowań, zwany dalej „rynkiem oficjalnych notowań”, spełniający dodatkowe, stosunku do minimalnych wymogów określonych dla rynku regulowanego, wymogi dotyczące emitentów papierów wartościowych oraz papierów wartościowych będących przedmiotem obrotu na tym rynku. 3. Spółka prowadząca rynek regulowany może, po uzyskaniu zezwolenia Komisji, prowadzić ASO. Do spółki prowadzącej rynek regulowany, która prowadzi ASO, stosuje się odpowiednio przepisy art. 78 ust. 1–11, 13–16 i 19, art. 78b, art. 78ha, art. 83a ust. 4 i 4a, art. 104a oraz przepisy wydane na podstawie art. 94 ust. 1 pkt 3 i 5 zakresie, jakim przepisy wydane na podstawie art. 94 ust. 1 pkt 5 określają warunki techniczne i organizacyjne wymagane do prowadzenia działalności, a także przepisy rozporządzenia 2017/584. 4. (uchylony) 5. Spółka prowadząca rynek regulowany może, po uzyskaniu zezwolenia Komisji, prowadzić OTF. Do spółki prowadzącej rynek regulowany, która prowadzi OTF, stosuje się odpowiednio przepisy art. 78 ust. 1–6a, 8 i 12–19, art. 78c, art. 78d, art. 78e ust. 2 i 3, art. 78f, art. 78ha, art. 83a ust. 4 i 4a, art. 104a oraz przepisy wydane na podstawie art. 94 ust. 1 pkt 3 i 5 zakresie, jakim przepisy wydane na podstawie art. 94 ust. 1 pkt 5 określają warunki techniczne i organizacyjne wymagane do prowadzenia działalności, a także przepisy rozporządzenia 2017/584. 6. Komisja, wydając zezwolenie, o którym mowa ust. 3, może, na wniosek spółki prowadzącej rynek regulowany, wpisać spółkę do rejestru, o którym mowa art. 78g ust. 1, jeżeli są spełnione warunki określone art. 16a ust. 1 pkt 2–4.
+
+**Art. 16a.**
+
+1. Spółka prowadząca rynek regulowany prowadząca ASO może wystąpić do Komisji z wnioskiem o wpisanie tego ASO do rejestru, o którym mowa art. 78g ust. 1, jeżeli:
+
+- **1)** dniu składania wniosku o wpis do rejestru co najmniej połowę emitentów, których instrumenty finansowe są wprowadzone do ASO, stanowią emitenci będący małymi i średnimi przedsiębiorcami, zgodnie z art. 78 ust. 1 rozporządzenia 2017/565;
+- **2)** spełnia warunki określone art. 78 ust. 2 lit. a–i rozporządzenia 2017/565;
+- **3)** posiada zasady, systemy i procedury zapewniające, że emitenci, których instrumenty są wprowadzone do tego systemu, osoby pełniące na rzecz tych emitentów obowiązki zarządcze, o których mowa art. 3 ust. 1 pkt 25 rozporządzenia 596/2014, oraz osoby blisko z nimi związane, o których mowa art. 3 ust. 1 pkt 26 tego rozporządzenia, spełniają wymogi, które mają do nich zastosowanie zgodnie z art. 19 ust. 1 rozporządzenia 596/2014;
+- **4)** posiada skuteczne systemy i mechanizmy kontroli, zmierzające do przeciwdziałania przypadkom manipulacji na rynku i ujawniania takich przypadków zgodnie z wymogami określonymi art. 16 ust. 1 rozporządzenia 596/2014.
+
+2. Wniosek, o którym mowa ust. 1, oraz dokumenty do niego załączone zawierają informacje potwierdzające spełnianie warunków określonych ust. 1.
+
+3. Komisja odmawia wpisu do rejestru, o którym mowa art. 78g ust. 1, jeżeli nie są spełnione warunki określone ust. 1.
+
+4. Komisja wykreśla ASO z rejestru, o którym mowa art. 78g ust. 1, jeżeli:
+
+- **1)** spółka złożyła wniosek o wykreślenie ASO z rejestru;
+- **2)** warunki, które były podstawą wpisu do rejestru, przestały być spełnione; ocena spełniania warunku określonego ust. 1 pkt 1 następuje zgodnie z art. 79 ust. 1 rozporządzenia 2017/565.
+
+5. Komisja wykreśla ASO z rejestru, o którym mowa art. 78g ust. 1, również przypadku, gdy po upływie 3 lat od dnia wpisu do rejestru na podstawie art. 16 ust. 6 więcej niż połowa emitentów, których instrumenty finansowe są wprowadzone do obrotu tym systemie, nie spełnia wymogów uznania ich za małych i średnich przedsiębiorców.
+
+6. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o wpisaniu ASO do rejestru, o którym mowa art. 78g ust. 1, oraz o wykreśleniu ASO z tego rejestru.
+
+**Art. 16b.**
+
+1. Spółka prowadząca rynek regulowany może, na podstawie umowy zawartej formie pisemnej, zlecić przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności związanych z działalnością prowadzoną przez tę spółkę (outsourcing), tym z prowadzeniem przez tę spółkę systemu obrotu instrumentami finansowymi lub platformy aukcyjnej lub z organizowaniem obrotu towarami giełdowymi rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych (Dz. U. z 2023 r. poz. 380 i 1723). cyjnych dotyczących systemów transakcyjnych pozwalających na stosowanie lub wspierających stosowanie handlu algorytmicznego stosuje się przepisy art. 6 rozporządzenia 2017/584.
+
+3. W przypadku zlecenia przez spółkę prowadzącą rynek regulowany wykonywania całości albo części funkcji operacyjnych o podstawowym lub istotnym znaczeniu, innych niż wymienione ust. 2, stosuje się:
+
+- **1)** przepisy art. 6 ust. 3–7 rozporządzenia 2017/584;
+- **2)** odpowiednio przepisy art. 6 ust. 1 rozporządzenia 2017/584;
+- **3)** odpowiednio przepisy art. 16c i art. 16d.
+
+4. Przez funkcje operacyjne o podstawowym lub istotnym znaczeniu, o których mowa ust. 3, rozumie się funkcje, przypadku których błąd lub niepowodzenie ich wykonaniu zagrażałyby sposób istotny ciągłości wypełniania przez spółkę prowadzącą rynek regulowany warunków zezwolenia lub spoczywających na niej innych obowiązków wynikających z przepisów prawa lub zagrażałyby niezawodności lub ciągłości wykonywania przez spółkę działalności.
+
+5. Nie uznaje się za funkcje operacyjne o podstawowym lub istotnym znaczeniu, o których mowa ust. 3:
+
+- **1)** usług doradztwa;
+- **2)** usług niestanowiących elementu przedmiotu działalności spółki określonego art. 21, tym doradztwa prawnego, szkolenia pracowników, prowadzenia ksiąg rachunkowych oraz ochrony osób lub mienia;
+- **3)** usług wystandaryzowanych i łatwo zastępowalnych.
+
+6. W przypadku zlecenia przez spółkę prowadzącą rynek regulowany wykonywania czynności związanych z działalnością prowadzoną przez tę spółkę, innych niż określone ust. 2 i 3, spółka sprawuje nadzór nad wykonywaniem czynności powierzonych na podstawie umowy, o której mowa ust. 1, oraz dokonuje oceny jakości i prawidłowości wykonywania tych czynności sposób adekwatny do poziomu ryzyka związanego ze zleconymi czynnościami.
+
+7. W przypadku gdy umowa, o której mowa ust. 1, została zawarta z podmiotem należącym do tej samej grupy kapitałowej, do której należy spółka prowadząca rynek regulowany, przepisy ust. 2, 3 i 6 stosuje się z uwzględnieniem powiązań istniejących ramach danej grupy kapitałowej.
+
+**Art. 16c.**
+
+1. Zlecenie przez spółkę prowadzącą rynek regulowany wykonywania najważniejszych funkcji operacyjnych rozumieniu art. 6 ust. 6 rozporządzenia 2017/584 wymaga zgody Komisji.
+
+2. Wniosek o udzielenie zgody na zlecenie wykonywania najważniejszych funkcji operacyjnych zawiera informacje lub dokumenty potwierdzające spełnienie warunków, o których mowa art. 6 ust. 1 i 3 rozporządzenia 2017/584. Do wniosku dołącza się projekt umowy, o której mowa art. 16b ust. 1, spełniający wymogi, o których mowa art. 6 ust. 4 rozporządzenia 2017/584.
+
+3. Decyzja o udzieleniu zgody na zlecenie wykonywania najważniejszych funkcji operacyjnych zawiera:
+
+- **1)** oznaczenie przedsiębiorcy lub przedsiębiorcy zagranicznego, któremu spółka prowadząca rynek regulowany zleci najważniejsze funkcje operacyjne;
+- **2)** określenie najważniejszych funkcji operacyjnych, które będą zlecone;
+- **3)** termin, ciągu którego umowa, o której mowa art. 16b ust. 1, powinna być zawarta, nie dłuższy niż 6 miesięcy od dnia, którym decyzja o udzieleniu zgody stała się ostateczna.
+
+4. Komisja odmawia udzielenia zgody na zlecenie wykonywania najważniejszych funkcji operacyjnych, przypadku gdy:
+
+- **1)** z treści wniosku lub załączonego projektu umowy, o której mowa art. 16b ust. 1, wynika, że nie są spełnione warunki, o których mowa art. 6 ust. 1 lub 3 rozporządzenia 2017/584, lub
+- **2)** projekt umowy, o której mowa art. 16b ust. 1, nie zawiera elementów, o których mowa art. 6 ust. 4 rozporządzenia 2017/584, albo jest niezgodny z art. 16f, lub
+- **3)** czynności zlecone byłyby wykonywane państwie niebędącym państwem członkowskim, a przepisy tego państwa nie zapewniają Komisji skutecznego dostępu do danych związanych z działaniami zleconymi, tym możliwości przeprowadzenia kontroli przedsiębiorcy zagranicznego, albo inny sposób nadzór Komisji nad spółką prowadzącą rynek regulowany nie mógłby być sprawowany sposób prawidłowy, lub
+- **4)** projekt umowy, o której mowa art. 16b ust. 1, zawieranej z przedsiębiorcą lub przedsiębiorcą zagranicznym, związku z zawarciem niej postanowień, o których mowa art. 16f ust. 2, wskazuje, że nie będzie on faktycznie wykonywał zleconych czynności. operacyjnych, o których mowa art. 16b ust. 2, usługodawcy świadczącemu tę samą usługę na rzecz innych systemów obrotu instrumentami finansowymi, co najmniej na 14 dni przed zawarciem umowy, o której mowa art. 16b ust. 1, dołączając:
+- **1)** informacje lub dokumenty potwierdzające spełnienie warunków, o których mowa art. 6 ust. 1 i 3 rozporządzenia 2017/584;
+- **2)** projekt umowy, o której mowa art. 16b ust. 1, spełniający wymogi, o których mowa art. 6 ust. 4 rozporządzenia 2017/584.
+
+2. W przypadku gdy spółka prowadząca rynek regulowany uzyskała zgodę Komisji na zlecenie wykonywania danych funkcji operacyjnych, przepisu ust. 1 nie stosuje się.
+
+3. Spółka prowadząca rynek regulowany zawiadamia Komisję o istotnej zmianie, rozwiązaniu lub wygaśnięciu umowy, o której mowa art. 16b ust. 1, której przedmiotem są funkcje operacyjne, o których mowa art. 16b ust. 2, terminie 14 dni od dnia wystąpienia zdarzenia. Za istotną zmianę umowy uważa się szczególności zmianę zakresu czynności zleconych innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu. Zawiadomienie określa nowy zakres powierzonych czynności oraz wskazuje zmiany wprowadzone umowie.
+
+4. Komisja może, drodze decyzji, nakazać spółce prowadzącej rynek regulowany zmianę lub rozwiązanie umowy, o której mowa art. 16b ust. 2 lub 3, przypadku gdy czasie jej obowiązywania nie są spełnione warunki, o których mowa art. 6 ust. 1 albo 3 rozporządzenia 2017/584, lub wskutek zmiany tej umowy nie spełnia ona wymogów, o których mowa art. 6 ust. 4 tego rozporządzenia.
+
+5. Nakazując zmianę lub rozwiązanie umowy, o której mowa art. 16b ust. 2 lub 3, na podstawie ust. 4, Komisja wyznacza spółce prowadzącej rynek regulowany termin, ciągu którego czynność ta ma być dokonana.
+
+**Art. 16e.**
+
+1. Spółka prowadząca rynek regulowany uwzględnia ryzyko związane z powierzeniem wykonywania czynności systemie zarządzania ryzykiem, tym wynikające z niewykonania lub nienależytego wykonania umowy, o której mowa art. 16b ust. 2 lub 3, sposób obejmujący działania związane z identyfikacją, szacowaniem, kontrolą, monitorowaniem i raportowaniem ryzyka tym zakresie oraz przeciwdziałaniem mu tym zakresie.
+
+2. Odpowiedzialności przedsiębiorcy lub przedsiębiorcy zagranicznego wobec spółki prowadzącej rynek regulowany za szkody wyrządzone:
+
+- **1)** członkom lub uczestnikom systemu obrotu,
+- **2)** członkom obrotu towarami giełdowymi rozumieniu art. 2 pkt 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych,
+- **3)** podmiotom uprawnionym do bezpośredniego składania ofert na aukcjach wskutek niewykonania lub nienależytego wykonania umowy, o której mowa art. 16b ust. 2 lub 3, nie można wyłączyć.
+
+3. W przypadku zawarcia umowy, o której mowa art. 16b ust. 2 lub 3, do której zastosowanie mają przepisy prawa obcego, spółka prowadząca rynek regulowany zapewnia zawarcie niej postanowień odpowiadających przepisom art. 473 § 2, art. 474 i art. 483 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+4. Odpowiedzialności spółki prowadzącej rynek regulowany za szkody wyrządzone:
+
+- **1)** członkom lub uczestnikom systemu obrotu,
+- **2)** członkom obrotu towarami giełdowymi rozumieniu art. 2 pkt 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych,
+- **3)** podmiotom uprawnionym do bezpośredniego składania ofert na aukcjach wskutek niewykonania lub nienależytego wykonania umowy, o której mowa art. 16b ust. 1, przez przedsiębiorcę lub przedsiębiorcę zagranicznego, nie można wyłączyć ani ograniczyć.
+
+5. (uchylony) ewentualnych kosztów związanych z wypłatą odszkodowania z tytułu roszczeń podmiotów, o których mowa ust. 4, lub osób trzecich o naprawienie szkody wyrządzonej wskutek niewykonania lub nienależytego wykonania umowy, o której mowa art. 16b ust. 2 lub 3, przez przedsiębiorcę lub przedsiębiorcę zagranicznego zakresie, jakim nie poniósłby odpowiedzialności, szczególności przez:
+
+- **1)** (uchylony)
+- **2)** zawarcie odpowiedniej umowy ubezpieczenia odpowiedzialności cywilnej, gwarancji ubezpieczeniowej lub gwarancji bankowej, na podstawie której spółka prowadząca rynek regulowany jest uprawniona do otrzymania świadczenia związku z tymi kosztami, lub
+- **3)** posiadanie odpowiedniego kapitału własnego na pokrycie tych kosztów.
+
+**Art. 16f.**
+
+1. Przedsiębiorca lub przedsiębiorca zagraniczny może powierzyć innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności, które zostały mu zlecone przez spółkę prowadzącą rynek regulowany, o ile umowa, o której mowa art. 16b ust. 1, tak stanowi, oraz określa zakres powierzanych czynności wraz ze wskazaniem oznaczonego przedsiębiorcy lub przedsiębiorcy zagranicznego, który będzie wykonywał te czynności. Zmiana przedsiębiorcy lub przedsiębiorcy zagranicznego, który będzie wykonywał czynności ramach dalszego powierzenia, lub zmiana zakresu powierzanych mu czynności wymaga zmiany umowy, o której mowa art. 16b ust. 1.
+
+2. Czynności powierzone ramach dalszego powierzenia nie mogą stanowić istoty czynności zleconych przez spółkę prowadzącą rynek regulowany, a przypadku umów, o których mowa art. 16b ust. 2 lub 3 powodować, że którykolwiek z warunków, o którym mowa art. 6 ust. 3 rozporządzenia 2017/584, nie będzie spełniony.
+
+3. Dalsze powierzenie czynności powierzonych ramach dalszego powierzenia nie jest dopuszczalne.
+
+4. Wykonywanie czynności ramach dalszego powierzenia nie wyłącza ani nie zmienia zasad odpowiedzialności określonych art. 16e.
+
+**Art. 17.**
+
+1. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia:
+
+- **1)** szczegółowe warunki, jakie musi spełniać rynek regulowany oraz platforma aukcyjna,
+- **2)** szczegółowe warunki, jakie musi spełniać rynek oficjalnych notowań oraz emitenci papierów wartościowych dopuszczonych do obrotu na tym rynku,
+- **3)** szczegółowe kryteria zakresie spełniania przez członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany wymogów posiadania nieposzlakowanej opinii, wiedzy, kompetencji, doświadczenia, a także niezależności osądu i poświęcenia wystarczającej ilości czasu związku z pełnieniem swoich funkcji i powierzonych obowiązków oraz zakresie liczby funkcji pełnionych jednocześnie, oraz tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania przez członków zarządu i rady nadzorczej, stosowanych wobec nich odpowiednich wymogów zakresie posiadania nieposzlakowanej opinii, wiedzy, kompetencji, i doświadczenia, niezależności osądu i poświęcania wystarczającej ilości czasu związku z pełnieniem swoich funkcji i powierzonych obowiązków, zakres dokumentów gromadzonych przez spółkę prowadzącą rynek regulowany potwierdzających spełnianie przez członków zarządu i rady nadzorczej tej spółki takich wymogów oraz tryb i warunki postępowania zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób przy uwzględnieniu konieczności zapewnienia bezpieczeństwa obrotu oraz ochrony interesów inwestorów uczestniczących obrocie na tym rynku, zakresie nieuregulowanym bezpośrednio stosowanymi przepisami prawa Unii Europejskiej mającymi zastosowanie do tego rynku, a odniesieniu do platformy aukcyjnej również zapewnienia bezpieczeństwa przebiegu aukcji na prowadzonej platformie aukcyjnej oraz ochrony interesów uczestników aukcji, zakresie nieuregulowanym art. 4–21, art. 30–32, art. 35, art. 38, art. 39, art. 41, art. 42, art. 44–58 i art. 60–64 rozporządzenia 1031/2010, z uwzględnieniem zagwarantowania warunków prowadzenia aukcji analogicznych do przewidzianych dla rynku regulowanego.
+
+2. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz organom nadzoru nad rynkami regulowanymi innych państwach członkowskich listę rynków regulowanych prowadzonych na terytorium Rzeczypospolitej Polskiej.
+
+3. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwym organom nadzoru innych państw członkowskich przekazane Komisji przez spółkę prowadzącą rynek regulowany informacje o przypadkach naruszenia przez członków rynku regulowanego wdrożonych przez ten rynek zasad uczciwego obrotu oraz istotnego naruszenia regulacji dotyczących jego funkcjonowania, tym dokonywanego na nim obrotu, oraz o przypadkach uzasadniających podejrzenie wystąpienia manipulacji lub wykorzystania informacji poufnej na tym rynku regulowanym. rynek regulowany zezwolenia na prowadzenie ASO lub OTF. Na żądanie tego Urzędu Komisja udostępnia informacje, o których mowa art. 25:
+
+- **1)** ust. 2a przypadku gdy żądanie dotyczy ASO;
+- **2)** ust. 2b przypadku gdy żądanie dotyczy OTF.
+
+**Art. 18.**
+
+1. Spółka prowadząca rynek regulowany zapewnia:
+
+- **1)** koncentrację podaży i popytu na instrumenty finansowe, będące przedmiotem obrotu na danym rynku, celu kształtowania ich powszechnego kursu;
+- **2)** bezpieczny i sprawny przebieg transakcji;
+- **3)** upowszechnianie jednolitych informacji o kursach i obrotach instrumentami finansowymi, które są przedmiotem obrotu na danym rynku organizowanym przez tę spółkę.
+
+1a. Spółka prowadząca rynek regulowany zapewnia sprawny i prawidłowy rozrachunek oraz rozliczanie transakcji zawartych na rynku regulowanym prowadzonym przez tę spółkę, przez zawarcie umowy z podmiotem uprawnionym do dokonywania rozrachunku oraz rozliczania transakcji.
+
+1b. Podmiot uprawniony do dokonywania rozrachunku oraz rozliczania transakcji powinien spełniać następujące warunki:
+
+- **1)** wykorzystywać rozwiązania zapewniające sprawne i prawidłowe wykonywanie powierzonych mu czynności, tym spełniać warunki techniczne dokonywania odpowiednio rozrachunku lub rozliczeń transakcji;
+- **2)** zapewniać wykonywanie powierzonych mu czynności sposób niezagrażający bezpieczeństwu obrotu i nienaruszający interesów uczestników tego obrotu.
+
+1c. Warunki, o których mowa ust. 1b pkt 1, zakresie spełniania warunków technicznych, uważa się za spełnione przypadku Krajowego Depozytu oraz przypadku:
+
+- **1)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 6, oraz spółki prowadzącej izbę rozrachunkową zakresie powierzenia dokonywania rozrachunku transakcji;
+- **2)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 2 pkt 1 i 3, oraz spółki prowadzącej izbę rozliczeniową zakresie powierzenia dokonywania rozliczenia transakcji.
+
+2. (uchylony) 2a. (uchylony) 2b. (uchylony) 2c. (uchylony) 2d. (uchylony) 2e. (uchylony) 2f. (uchylony)
+
+3. (uchylony)
+
+**Art. 18a.**
+
+1. Spółka prowadząca rynek regulowany może czasowo zawiesić lub ograniczyć obrót instrumentami finansowymi przypadku znacznego wahania cen tych instrumentów finansowych na tym rynku lub na rynku powiązanym, na okres nie dłuższy niż miesiąc, oraz, przypadkach i na zasadach określonych regulaminie rynku regulowanego, szczególności gdy jest to niezbędne do zachowania stabilności rynku, może unieważnić, zmienić lub skorygować dowolną transakcję.
+
+2. Spółka prowadząca rynek regulowany zapewnia odpowiedni sposób wyznaczania parametrów zawieszenia obrotu instrumentami finansowymi, który uwzględnia płynność różnych kategorii i podkategorii aktywów, charakter modelu rynku i rodzaje uczestników, oraz zapewnia uniknięcie poważnych zakłóceń prawidłowego zawierania transakcji.
+
+3. Spółka prowadząca rynek regulowany przekazuje Komisji informacje o parametrach zawieszania obrotu określonymi instrumentami finansowymi oraz informuje Komisję o istotnych zmianach tych parametrów terminie 3 dni roboczych od dnia ich wprowadzenia.
+
+4. Komisja przekazuje informacje, o których mowa ust. 3, Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych. z punktu widzenia płynności danego instrumentu finansowego, zawiesza obrót tym instrumentem finansowym na podstawie ust. 1, niezwłocznie informuje o tym Komisję. Spółka prowadząca rynek regulowany powiadamia Komisję o przywróceniu obrotu danym instrumentem finansowym.
+
+6. W celu prawidłowego wykonania obowiązku, o którym mowa ust. 5, spółka prowadząca rynek regulowany na terytorium Rzeczypospolitej Polskiej wprowadza niezbędne systemy i procedury zapewniające niezwłoczne przekazanie informacji.
+
+**Art. 18b.**
+
+1. Spółka prowadząca rynek regulowany przyjmuje systemy minimalnej wielkości zmiany ceny dla instrumentów finansowych, o których mowa rozporządzeniu 2017/588.
+
+2. Systemy minimalnej wielkości zmiany ceny, o których mowa ust. 1:
+
+- **1)** są wyznaczane na podstawie przepisów rozporządzenia 2017/588 sposób odzwierciedlający profil płynności danego instrumentu finansowego na różnych rynkach oraz średnią różnicę pomiędzy ceną kupna a ceną sprzedaży, z uwzględnieniem potrzeby zapewnienia rozsądnie stabilnych cen bez nieuzasadnionego dalszego ograniczania różnicy między ceną kupna a ceną sprzedaży;
+- **2)** odpowiednio dostosowują minimalną wielkość zmiany ceny dla każdego instrumentu finansowego.
+
+3. Spółka prowadząca rynek regulowany może odstąpić od stosowania systemów minimalnej wielkości zmiany ceny, o których mowa ust. 1, przypadku kojarzenia zleceń o dużej skali porównaniu z normalną wielkością rynkową dla danych instrumentów finansowych rozumieniu art. 7 rozporządzenia 2017/587.
+
+**Art. 19.**
+
+1. Jeżeli ustawa nie stanowi inaczej:
+
+- **1)** papiery wartościowe objęte zatwierdzonym prospektem mogą być przedmiotem obrotu na rynku regulowanym wyłącznie po ich dopuszczeniu do tego obrotu;
+- **2)** dokonywanie oferty publicznej, subskrypcji lub sprzedaży na podstawie tej oferty wymaga, z zastrzeżeniem art. 33a ustawy z dnia 15 stycznia 2015 r. o obligacjach, pośrednictwa firmy inwestycyjnej lub banku państwowego prowadzącego działalność maklerską, z wyjątkiem: Prawo bankowe,
+    - **a)** oferty publicznej, o której mowa art. 1 ust. 3 i ust. 4 lit. a, b, e oraz h–j rozporządzenia 2017/1129,
+    - **b)** oferty publicznej bankowych papierów wartościowych, o których mowa ustawie z dnia 29 sierpnia 1997 r.
+    - **c)** oferty publicznej dokonywanej za pośrednictwem dostawcy usług finansowania społecznościowego, o którym mowa art. 2 ust. 1 lit. e rozporządzenia 2020/1503;
+
+- **2a)** przyjmowanie zapisów na certyfikaty inwestycyjne funduszu portfelowego, o którym mowa art. 179 ust. 1 ustawy o funduszach inwestycyjnych, wymaga pośrednictwa firmy inwestycyjnej lub banku państwowego prowadzącego działalność maklerską;
+- **3)** proponowanie dowolnej formie i dowolny sposób nabycia instrumentów pochodnych inkorporujących uprawnienie do nabycia papierów wartościowych określonych art. 3 pkt 1 lit. a, jeżeli propozycja jest skierowana co najmniej do 150 osób albo do nieoznaczonego adresata, może być dokonywane wyłącznie na rynku regulowanym, ASO lub na OTF;
+- **4)** instrumenty pochodne inkorporujące uprawnienie do nabycia papierów wartościowych określonych art. 3 pkt 1 lit. a mogą być przedmiotem proponowania dowolnej formie i dowolny sposób, jeżeli propozycja jest skierowana co najmniej do 150 osób albo do nieoznaczonego adresata, wyłącznie przypadku gdy te papiery wartościowe są dopuszczone do obrotu na rynku regulowanym, ASO lub na OTF;
+- **5)** przedmiotem obrotu zorganizowanego nie mogą być papiery wartościowe emitowane przez instytucje wspólnego inwestowania typu otwartego, z uwzględnieniem rozporządzenia delegowanego Komisji (UE) nr 694/2014 z dnia 17 grudnia 2013 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2011/61/UE odniesieniu do regulacyjnych standardów technicznych służących określeniu typów zarządzających alternatywnymi funduszami inwestycyjnymi (Dz. Urz. UE L 183 z 24.06.2014, str. 18), inne niż fundusze inwestycyjne zamknięte, fundusze wpisane do rejestru, o którym mowa art. 263 ustawy o funduszach inwestycyjnych, unijne AFI, alternatywne fundusze inwestycyjne z siedzibą państwach będących stroną umowy o Europejskim Obszarze Gospodarczym oraz alternatywne spółki inwestycyjne, o których mowa ustawie o funduszach inwestycyjnych, wprowadzone do obrotu na terytorium Rzeczypospolitej Polskiej zgodnie z przepisami tej ustawy;
+- **6)** przedmiotem obrotu na rynku regulowanym lub ASO mogą być papiery wartościowe emitowane przez fundusze wpisane do rejestru, o którym mowa art. 263 ustawy o funduszach inwestycyjnych. takich instrumentów, nie stanowi gry ani zakładu rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, ani gry losowej lub zakładu wzajemnego rozumieniu przepisów o grach hazardowych, nawet jeżeli według wyraźnej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, a tylko jedna ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową czasie wykonania umowy.
+
+**Art. 19a.** Działalność polegająca na prowadzeniu wielostronnego systemu może być prowadzona wyłącznie poprzez organizowanie rynku regulowanego, prowadzenie ASO lub OTF, na warunkach określonych niniejszej ustawie, z wyjątkiem rynku prowadzonego poza systemem obrotu instrumentami finansowymi, o którym mowa art. 13d.
+
+**Art. 20.**
+
+1. W przypadku gdy wymaga tego bezpieczeństwo obrotu na rynku regulowanym lub jest zagrożony interes inwestorów, spółka prowadząca rynek regulowany, na żądanie Komisji, wstrzymuje dopuszczenie do obrotu na tym rynku lub rozpoczęcie notowań wskazanymi przez Komisję papierami wartościowymi lub innymi instrumentami finansowymi, na okres nie dłuższy niż 10 dni.
+
+2. W przypadku gdy obrót określonymi papierami wartościowymi lub innymi instrumentami finansowymi jest dokonywany okolicznościach wskazujących na możliwość zagrożenia prawidłowego funkcjonowania rynku regulowanego lub bezpieczeństwa obrotu na tym rynku, lub naruszenia interesów inwestorów, Komisja może zażądać od spółki prowadzącej rynek regulowany zawieszenia obrotu tymi papierami lub instrumentami.
+
+2a. W żądaniu, o którym mowa ust. 2, Komisja może wskazać termin, do którego zawieszenie obrotu obowiązuje. Termin ten może ulec przedłużeniu, jeżeli zachodzą uzasadnione obawy, że dniu jego upływu będą zachodziły przesłanki, o których mowa ust. 2.
+
+2b. Komisja uchyla decyzję zawierającą żądanie, o którym mowa ust. 2, przypadku gdy po jej wydaniu stwierdza, że nie zachodzą przesłanki zagrożenia prawidłowego funkcjonowania rynku regulowanego lub bezpieczeństwa obrotu na tym rynku, lub naruszenia interesów inwestorów.
+
+3. Na żądanie Komisji, spółka prowadząca rynek regulowany wyklucza z obrotu wskazane przez Komisję papiery wartościowe lub inne instrumenty finansowe, przypadku gdy obrót nimi zagraża sposób istotny prawidłowemu funkcjonowaniu rynku regulowanego lub bezpieczeństwu obrotu na tym rynku, albo powoduje naruszenie interesów inwestorów.
+
+3a. W przypadkach, o których mowa ust. 2 i 3, Komisja może zażądać od spółki prowadzącej rynek regulowany zawieszenia lub wykluczenia z obrotu instrumentów pochodnych powiązanych z papierami wartościowymi lub instrumentami finansowymi niebędącymi papierami wartościowymi, o ile jest to konieczne do osiągnięcia celów zawieszenia lub wykluczenia z obrotu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi stanowiących instrument bazowy tych instrumentów pochodnych.
+
+4. Żądania, o których mowa ust. 1–3a, wskazują szczegółowe przyczyny, które je uzasadniają.
+
+4a. Spółka prowadząca rynek regulowany, na wniosek emitenta, może zawiesić obrót danymi papierami wartościowymi lub powiązanymi z nimi instrumentami pochodnymi celu zapewnienia inwestorom powszechnego i równego dostępu do informacji.
+
+4b. Spółka prowadząca rynek regulowany może podjąć decyzję o zawieszeniu lub wykluczeniu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi z obrotu przypadku, gdy instrumenty te przestały spełniać warunki obowiązujące na tym rynku, pod warunkiem, że nie spowoduje to znaczącego naruszenia interesów inwestorów lub zagrożenia prawidłowego funkcjonowania rynku. Spółka prowadząca rynek regulowany niezwłocznie informuje Komisję o podjęciu decyzji o zawieszeniu lub wykluczeniu instrumentów finansowych z obrotu.
+
+4c. W przypadku otrzymania od właściwego organu nadzoru innego państwa członkowskiego, sprawującego tym państwie nadzór nad rynkiem regulowanym, informacji o wystąpieniu przez ten organ z żądaniem zawieszenia lub wykluczenia z obrotu określonego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, Komisja występuje do spółek prowadzących rynek regulowany, podmiotów prowadzących ASO, podmiotów prowadzących OTF oraz podmiotów systematycznie internalizujących transakcje z siedzibą na terytorium Rzeczypospolitej Polskiej, organizujących obrót tymi samymi instrumentami finansowymi lub instrumentami pochodnymi, z żądaniem zawieszenia lub wykluczenia z obrotu tego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, jeżeli takie zawieszenie lub wykluczenie z obrotu jest związane z podejrzeniem wykorzystywania informacji poufnej, bezprawnego ujawnienia informacji poufnej, manipulacji na rynku, ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej lub z podejrzeniem naruszenia obowiązku publikacji informacji poufnej o emitencie lub instrumencie finansowym zgodnie z przepisami art. 7 i art. 17 rozporządzenia 596/2014, chyba że takie zawieszenie lub wykluczenie z obrotu mogłoby spowodować poważną szkodę dla interesów inwestorów lub prawidłowego funkcjonowania rynku. informacyjnej, o której mowa art. 58 ust. 1 ustawy o ofercie publicznej, informację o wstrzymaniu, zawieszeniu lub wykluczeniu z obrotu określonych papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi, a także odpowiednio o zawieszeniu lub wykluczeniu z obrotu instrumentów pochodnych powiązanych z tymi papierami wartościowymi lub instrumentami finansowymi niebędącymi papierami wartościowymi. Przepisy art. 37 rozporządzenia 2017/1129 stosuje się odpowiednio.
+
+5a. Komisja podaje niezwłocznie do publicznej wiadomości informację o wystąpieniu przez Komisję z żądaniem, o którym mowa ust. 1–3a, 4c lub 7d, oraz przekazuje ją Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych i właściwym organom nadzoru innych państw członkowskich, sprawujących tych państwach nadzór nad rynkami regulowanymi, ASO lub OTF. W przypadku gdy Komisja nie zgłosiła żądania, o którym mowa ust. 4c lub 7d, przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwym organom nadzoru innych państw członkowskich, sprawującym tych państwach nadzór nad rynkami regulowanymi, ASO lub OTF, informację o niezgłoszeniu takiego żądania wraz z wyjaśnieniami. Informację o niezgłoszeniu żądania na podstawie ust. 4c lub 7d Komisja przekazuje do publicznej wiadomości.
+
+5b. (uchylony)
+
+6. W przypadku gdy dane instrumenty finansowe są również przedmiotem obrotu ASO lub na OTF, podmiot prowadzący taki system, po powzięciu informacji opublikowanej zgodnie z ust. 5, podejmuje działania mające na celu wypełnienie odniesieniu do tych instrumentów finansowych żądań Komisji, o których mowa ust. 1–3a.
+
+6a. Przepis ust. 6 stosuje się odpowiednio do podmiotów systematycznie internalizujących transakcje.
+
+7. Spółka prowadząca rynek regulowany nie ponosi opłat za czynności agencji informacyjnej wynikające z przekazywania informacji, o których mowa ust. 5.
+
+7a. Spółka prowadząca rynek regulowany, która zawiesiła lub wykluczyła z obrotu na tym rynku instrument finansowy, niezwłocznie odpowiednio zawiesza lub wyklucza z obrotu na rynku regulowanym powiązane z nim instrumenty pochodne, przypadku gdy jest to konieczne do osiągnięcia celów zawieszenia lub wykluczenia z obrotu bazowego instrumentu finansowego.
+
+7b. Instrumentami pochodnymi, o których mowa ust. 4c, 5, 7a, 7d i 7e, są instrumenty finansowe, o których mowa art. 2 ust. 1 pkt 2 lit. c–i.
+
+7c. Spółka prowadząca rynek regulowany przekazuje niezwłocznie Komisji informację o zawieszeniu lub wykluczeniu z obrotu na rynku regulowanym instrumentu finansowego lub powiązanego z nim instrumentu pochodnego.
+
+7d. W przypadku zawieszenia lub wykluczenia z obrotu na rynku regulowanym instrumentu finansowego na podstawie ust. 4b lub 7a Komisja występuje do innych spółek prowadzących rynek regulowany, podmiotów prowadzących ASO, podmiotów prowadzących OTF oraz podmiotów systematycznie internalizujących transakcje z siedzibą na terytorium Rzeczypospolitej Polskiej, organizujących obrót tymi samymi instrumentami finansowymi lub powiązanymi z nimi instrumentami pochodnymi, z żądaniem zawieszenia lub wykluczenia z obrotu tego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, przypadku gdy takie zawieszenie lub wykluczenie z obrotu związane jest z podejrzeniem wykorzystania informacji poufnej, bezprawnego ujawnienia informacji poufnej, manipulacji na rynku, ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej lub z podejrzeniem naruszenia obowiązku publikacji informacji poufnej o emitencie lub instrumencie finansowym zgodnie z przepisami art. 7 i art. 17 rozporządzenia 596/2014, chyba że takie zawieszenie lub wykluczenie z obrotu mogłoby spowodować poważną szkodę dla interesów inwestorów lub prawidłowego funkcjonowania rynku.
+
+7e. Przepisy ust. 4c, 5, 5a, 6, 6a i 7a–7d stosuje się odpowiednio do przywrócenia obrotu instrumentem finansowym lub instrumentem pochodnym powiązanym z tym instrumentem finansowym.
+
+8. W przypadku wystąpienia przez Bankowy Fundusz Gwarancyjny z wnioskiem, o którym mowa:
+
+- **1)** art. 148 pkt 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji (Dz. U. z 2022 r. poz. 2253 oraz z 2023 r. poz. 825, 1705, 1784 i 1843), spółka prowadząca rynek regulowany wyklucza z obrotu wskazane we wniosku papiery wartościowe lub inne instrumenty finansowe;
+- **2)** art. 148 pkt 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, spółka prowadząca rynek regulowany zawiesza obrót papierami wartościowymi lub innymi instrumentami finansowymi objętymi tym wnioskiem na okres wskazany we wniosku. typu future lub zagrożony jest interes uczestników rynku, spółka prowadząca platformę aukcyjną, na żądanie Komisji, unieważnia aukcję.
+
+2. W przypadku gdy aukcja zostaje unieważniona na podstawie ust. 1, wolumen uprawnień do sprzedania na aukcji jest rozdzielany na zasadach określonych art. 32 ust. 5 rozporządzenia 1031/2010.
+
+3. Żądanie, o którym mowa ust. 1, powinno wskazywać szczegółowe przyczyny, które je uzasadniają.
+
+4. Spółka prowadząca platformę aukcyjną przekazuje niezwłocznie do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa art. 58 ust. 1 ustawy o ofercie publicznej, informację o unieważnieniu aukcji i rozdzieleniu wolumenu uprawnień do sprzedania zgodnie z zasadami, o których mowa ust. 2.
+
+5. Komisja podaje niezwłocznie do publicznej wiadomości informację o wystąpieniu z żądaniem, o którym mowa ust. 1, oraz informację o sposobie podziału wolumenu uprawnień do sprzedania na aukcji, o którym mowa ust. 2.
+
+6. Spółka prowadząca platformę aukcyjną nie ponosi opłat za czynności agencji informacyjnej wynikające z przekazywania informacji, o której mowa ust. 4.
+
+**Art. 20b.** Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, drodze rozporządzenia, przyjęte praktyki rynkowe rozumieniu art. 3 ust. 1 pkt 9 rozporządzenia 596/2014, biorąc pod uwagę kryteria określone art. 13 ust. 2 tego rozporządzenia. Opinia Komisji uwzględnia opinię oceniającą Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, o której mowa art. 13 ust. 4 rozporządzenia 596/2014.
+
+#### Rozdział 2 Rynek regulowany
+
+##### Oddział 1 Organizacja i zasady prowadzenia rynku regulowanego
+
+**Art. 21.**
+
+1. Rynek regulowany może być prowadzony wyłącznie przez spółkę akcyjną.
+
+2. Przedmiotem działalności spółki prowadzącej rynek regulowany może być wyłącznie prowadzenie rynku regulowanego, prowadzenie ASO, prowadzenie platformy aukcyjnej, prowadzenie OTF, prowadzenie działalności jako dostawca usług zakresie udostępniania informacji lub prowadzenie innej działalności zakresie organizowania obrotu instrumentami finansowymi oraz działalności związanej z tym obrotem.
+
+2a. Spółka prowadząca rynek regulowany może prowadzić działalność polegającą na świadczeniu usług zakresie upowszechniania informacji o:
+
+- **1)** instrumentach finansowych niebędących przedmiotem obrotu systemie obrotu instrumentami finansowymi prowadzonym przez tę spółkę;
+- **2)** towarach giełdowych rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych niebędących przedmiotem obrotu towarami giełdowymi organizowanego przez tę spółkę;
+- **3)** instrumentach bazowych lub walorach określonych art. 2 ust. 1 pkt 2 lit. i, do których mogą odnosić się prawa majątkowe.
+
+2b. Spółka prowadząca rynek regulowany może wykonywać czynności powierzone jej przez podmioty należące do jej grupy kapitałowej lub podmioty będące uczestnikami tego rynku, o ile:
+
+- **1)** pozostają one zgodne z przedmiotem działalności spółki prowadzącej rynek regulowany albo
+- **2)** stanowią one inne czynności związane z działalnością prowadzoną przez spółkę prowadzącą rynek regulowany i mogą być powierzone przez tę spółkę na podstawie umowy, o której mowa art. 16b ust. 1.
+
+2c. Spółka prowadząca rynek regulowany może prowadzić działalność polegającą na świadczeniu usług finansowania społecznościowego, o których mowa art. 2 ust. 1 lit. a rozporządzenia 2020/1503, po uzyskaniu zezwolenia, o którym mowa art. 12 ust. 1 tego rozporządzenia.
+
+3. Spółka prowadząca rynek regulowany może prowadzić działalność zakresie edukacji, promocji i informacji związanej z funkcjonowaniem rynku kapitałowego. giełdowymi rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych. Do spółki prowadzącej rynek regulowany, która organizuje obrót towarami giełdowymi, oraz do tego obrotu stosuje się odpowiednio przepisy ustawy z dnia 26 października 2000 r. o giełdach towarowych dotyczące giełdy towarowej, z wyłączeniem art. 5 ust. 2 i ust. 5–7, art. 6–8, art. 9 ust. 1 i art. 12 tej ustawy.
+
+3b. Do zawiadomienia, o którym mowa ust. 3a, spółka prowadząca rynek regulowany dołącza regulamin obrotu towarami giełdowymi, do którego stosuje się art. 11 ustawy z dnia 26 października 2000 r. o giełdach towarowych. O każdej zmianie regulaminu obrotu towarami giełdowymi spółka prowadząca rynek regulowany informuje Komisję.
+
+3c. Komisja może, terminie 30 dni odpowiednio od dnia otrzymania zawiadomienia, o którym mowa ust. 3a, albo od dnia otrzymania informacji o zmianie regulaminu obrotu towarami giełdowymi, zgłosić sprzeciw wobec rozpoczęcia organizowania przez spółkę prowadzącą rynek regulowany obrotu towarami giełdowymi albo jego kontynuowania, jeżeli mogłoby to naruszyć bezpieczeństwo obrotu instrumentami finansowymi lub obrotu towarami giełdowymi.
+
+4. (uchylony) 4a. Spółka prowadząca rynek regulowany oraz podmiot prowadzący zagraniczny rynek regulowany mają wyłączne prawo oznaczania prowadzonego rynku regulowanego oznaczeniem „rynek regulowany” lub „giełda instrumentów finansowych”, a przypadku gdy organizuje obrót papierami wartościowymi oznaczenia prowadzonego rynku regulowanego oznaczeniem „giełda papierów wartościowych” oraz używania tych oznaczeń prowadzonej przez siebie działalności, reklamie lub informacji reklamowej.
+
+5. Spółka prowadząca rynek regulowany ma wyłączne prawo zamieszczania firmie spółki oznaczenia „rynek regulowany” lub „giełda instrumentów finansowych”, a przypadku gdy organizuje obrót papierami wartościowymi oznaczenia „giełda papierów wartościowych”.
+
+6. (uchylony)
+
+7. Kapitał własny spółki prowadzącej rynek regulowany wynosi co najmniej 10 000 000 zł.
+
+8. Wysokość kapitału własnego, o której mowa ust. 7, zwiększa się do poziomu niezbędnego do właściwego prowadzenia ASO lub OTF, uwzględniając charakter i zakres transakcji zawieranych systemie oraz zakres i poziom ryzyka, na które jest narażony każdy z tych systemów.
+
+**Art. 21a.** Udzielenie przez Komisję zezwolenia na prowadzenie rynku regulowanego spółce:
+
+**Art. 22.**
+
+1. Akcje spółki prowadzącej rynek regulowany mogą być wyłącznie imienne.
+
+2. Akcje spółki prowadzącej rynek regulowany mogą nabywać wyłącznie Skarb Państwa, firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zarządzający ASI rozumieniu ustawy o funduszach inwestycyjnych prowadzący działalność na podstawie zezwolenia, zakłady ubezpieczeń, powszechne towarzystwa emerytalne oraz emitenci papierów wartościowych notowanych na tym rynku regulowanym. Za zgodą Komisji akcje spółki prowadzącej rynek regulowany mogą nabywać inne krajowe i zagraniczne osoby prawne.
+
+- **1)** spółka prowadząca rynek regulowany jest spółką publiczną;
+- **2)** przedmiotem obrotu na rynku regulowanym prowadzonej przez daną spółkę nie są papiery wartościowe.
+
+4. Spółka prowadząca rynek regulowany niezwłocznie po uzyskaniu zezwolenia na prowadzenie rynku regulowanego jest obowiązana podać do publicznej wiadomości listę akcjonariuszy spółki ze wskazaniem:
+
+- **1)** imienia, nazwiska oraz miejsca zamieszkania przypadku osób fizycznych,
+- **2)** nazwy albo firmy oraz miejsca siedziby przypadku osób prawnych i jednostek nieposiadających osobowości prawnej oraz
+- **3)** liczby posiadanych przez poszczególnych akcjonariuszy akcji oraz wynikającego z nich udziału ogólnej liczbie głosów oraz kapitale zakładowym spółki prowadzącej rynek regulowany.
+
+5. Obowiązek, o którym mowa ust. 4, dotyczy akcjonariuszy posiadających akcje liczbie uprawniającej do wykonywania co najmniej 5 % ogólnej liczby głosów lub stanowiącej co najmniej 5 % kapitału zakładowego spółki prowadzącej rynek regulowany.
+
+6. W przypadku zmiany danych zawartych na liście, o której mowa ust. 4, spółka prowadząca rynek regulowany niezwłocznie podaje treść tych zmian do publicznej wiadomości.
+
+**Art. 23.** (uchylony)
+
+**Art. 24.**
+
+1. Zawiadomienia Komisji wymaga zamiar bezpośredniego lub pośredniego nabycia lub objęcia akcji spółki prowadzącej rynek regulowany liczbie:
+
+- **1)** stanowiącej co najmniej 5 % ogólnej liczby głosów lub kapitału zakładowego lub
+- **2)** powodującej osiągnięcie lub przekroczenie 5 %, 10 %, 15 %, 20 %, 25 %, 33 % lub 50 % ogólnej liczby głosów lub kapitału zakładowego przy czym posiadanie akcji spółki prowadzącej rynek regulowany przez podmioty pozostające tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
+
+2. Przez pośrednie nabycie akcji spółki prowadzącej rynek regulowany rozumie się nabycie lub objęcie akcji lub udziałów podmiotu posiadającego bezpośrednio lub pośrednio akcje spółki prowadzącej rynek regulowany, jeżeli wyniku nabycia lub objęcia dojdzie do osiągnięcia lub przekroczenia 50 % ogólnej liczby głosów lub 50 % kapitału zakładowego tego podmiotu.
+
+3. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego bezpośredniego lub pośredniego nabycia lub objęcia akcji spółki prowadzącej rynek regulowany liczbie nabycia terminie 3 miesięcy od dnia dokonania zawiadomienia, o którym mowa ust. 1, przypadku gdy podmiot zamierzający nabyć lub objąć akcje spółki prowadzącej rynek regulowany mógłby wywierać niekorzystny wpływ na prawidłowe i stabilne zarządzanie rynkiem regulowanym. W przypadku niezgłoszenia sprzeciwu Komisja może wyznaczyć termin, ciągu którego nabycie lub objęcie akcji spółki prowadzącej rynek regulowany może zostać dokonane.
+
+3a. Nabycie lub objęcie akcji na warunkach wskazanych zawiadomieniu może nastąpić:
+
+- **1)** po upływie terminu, o którym mowa ust. 3 przypadku niezgłoszenia sprzeciwu przez Komisję albo
+- **2)** terminie wyznaczonym przez Komisję przypadku niezgłoszenia sprzeciwu przez Komisję i wyznaczenia terminu, ciągu którego nabycie lub objęcie akcji spółki prowadzącej rynek regulowany może zostać dokonane.
+
+4. Wykonywanie prawa głosu z akcji spółki prowadzącej rynek regulowany nabytych lub objętych bez zawiadomienia Komisji, po dokonaniu zawiadomienia lecz przed upływem terminu, o którym mowa ust. 3, pomimo zgłoszenia przez Komisję sprzeciwu lub z naruszeniem wyznaczonego przez Komisję terminu, którym nabycie lub objęcie akcji może zostać dokonane, jest bezskuteczne.
+
+5. W przypadku gdy podmiotem nabywającym akcje spółki prowadzącej rynek regulowany jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego, Komisja zasięga opinii o tym podmiocie od organu nadzoru, który udzielił mu zezwolenia na prowadzenie działalności. regulowany jest podmiot dominujący wobec podmiotu, o którym mowa ust. 5, lub podmiot wywierający znaczny wpływ rozumieniu art. 96 ust. 3 na podmiot, o którym mowa ust. 5, a także przypadku jeżeli wyniku pośredniego nabycia podmiot, którego akcje są przedmiotem nabycia, stałby się podmiotem zależnym od nabywcy albo podmiotem, na który nabywca zacznie wywierać znaczny wpływ rozumieniu art. 96 ust. 3.
+
+7. Zawiadomienie, o którym mowa ust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyć, ich udział kapitale zakładowym oraz liczbę głosów, jaką nabywca osiągnie na walnym zgromadzeniu, oraz składane pod rygorem odpowiedzialności karnej oświadczenie o źródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje spółki prowadzącej rynek regulowany. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+8. Niezgłoszenie przez Komisję sprzeciwu terminie, o którym mowa ust. 3, oznacza zgodę na nabycie akcji spółki prowadzącej rynek regulowany, na warunkach wskazanych zawiadomieniu.
+
+**Art. 25.**
+
+1. Prowadzenie rynku regulowanego wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu.
+
+2. Wniosek o udzielenie zezwolenia na prowadzenie rynku regulowanego zawiera:
+
+- **1)** firmę oraz siedzibę spółki;
+- **2)** dane osobowe członków zarządu i rady nadzorczej spółki prowadzącej rynek regulowany oraz innych osób, które odpowiadają za rozpoczęcie działalności rynku regulowanego lub będą nim kierować;
+- **2a)** oświadczenia członków zarządu oraz rady nadzorczej, że nie byli uznani prawomocnym orzeczeniem za winnych popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2023 r. poz. 1170), przestępstwa określonego art. 523 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe (Dz. U. z 2022 r. poz. 1520 oraz z 2023 r. poz. 825, 1723, 1843 i 1860), przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących innych państwach;
+- **3)** przewidywaną wysokość środków własnych i kredytów, przeznaczoną na uruchomienie rynku regulowanego, oraz określenie sposobu finansowania działalności;
+- **4)** dane o wysokości i strukturze kapitału własnego oraz źródłach jego pochodzenia;
+- **5)** wskazanie podmiotu lub podmiotów, które będą dokonywać, na podstawie umowy ze spółką, rozliczenia oraz rozrachunku transakcji zawieranych na rynku regulowanym prowadzonym przez spółkę oraz zasad, na jakich ma być dokonywany rozrachunek oraz rozliczenie transakcji przez ten podmiot lub te podmioty;
+- **6)** dane o przewidywanej lokalizacji rynku regulowanego oraz środkach technicznych umożliwiających funkcjonowanie rynku, szczególności zapewniających stałą łączność z podmiotami, o których mowa pkt 5;
+- **7)** zobowiązanie co najmniej 6 firm inwestycyjnych do prowadzenia działalności na danym rynku regulowanym;
+- **8)** listę akcjonariuszy spółki posiadających akcje uprawniające do wykonywania co najmniej 5 % ogólnej liczby głosów lub stanowiących co najmniej 5 % kapitału zakładowego spółki ze wskazaniem posiadanych przez nich udziałów ogólnej liczbie głosów oraz kapitale zakładowym spółki.
+
+2a. Wniosek o udzielenie zezwolenia na prowadzenie ASO przez spółkę prowadzącą rynek regulowany zawiera informacje, o których mowa art. 2 i art. 3 rozporządzenia 2016/824.
+
+2b. Wniosek o udzielenie zezwolenia na prowadzenie OTF przez spółkę prowadzącą rynek regulowany zawiera informacje, o których mowa art. 2 i art. 6 rozporządzenia 2016/824. W przypadku gdy zgodnie z wnioskiem o udzielenie zezwolenia przedmiotem obrotu na OTF mają być produkty energetyczne sprzedawane obrocie hurtowym, które muszą być wykonywane przez dostawę, wniosek o udzielenie takiego zezwolenia zawiera także informacje o takich produktach zakresie, jaki zgodnie z przepisami rozporządzenia 2016/824 jest wymagany wobec klas aktywów rozumieniu art. 1 pkt 2 tego rozporządzenia.
+
+2c. Informacje, o których mowa ust. 2a i 2b, przekazuje się również postaci elektronicznej formacie wskazanym art. 9 rozporządzenia 2016/824. fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+3. Do wniosku należy dołączyć:
+
+- **1)** statut spółki;
+- **2)** regulamin organizacyjny spółki;
+- **3)** regulamin rynku regulowanego;
+- **4)** analizę ekonomiczno-finansową możliwości prowadzenia rynku regulowanego przez najbliższe 3 lata;
+- **5)** zasady przeprowadzania badania, o którym mowa art. 7 ust. 2 rozporządzenia 2017/584;
+- **6)** zasady przeprowadzania oceny, o której mowa art. 7 ust. 3 rozporządzenia 2017/584;
+- **7)** zasady przeprowadzania testów zgodności, o których mowa art. 9 rozporządzenia 2017/584;
+- **8)** zasady przeprowadzania testów warunków skrajnych, o których mowa art. 14 rozporządzenia 2017/584;
+- **9)** plan ciągłości działania, o którym mowa art. 16 ust. 1 rozporządzenia 2017/584;
+- **10)** zasady i rozwiązania, o których mowa art. 18 ust. 3 rozporządzenia 2017/584;
+- **11)** zasady i warunki, o których mowa art. 21 rozporządzenia 2017/584;
+- **12)** procedury oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 1 rozporządzenia 596/2014;
+- **13)** dokumenty i informacje wykazujące spełnienie warunków, o których mowa art. 2–5, art. 7 ust. 1, 5 i 6, art. 8, art. 10 ust. 2, art. 11–13, art. 15, art. 16 ust. 4 i 5, art. 17, art. 18 ust. 1 i 2, art. 19, art. 20 oraz art. 23 ust. 1 i 2 rozporządzenia 2017/584;
+- **14)** umowy albo projekty umów, do których stosuje się art. 6 rozporządzenia 2017/584.
+
+3a. W przypadku gdy spółka zamierza również prowadzić ASO lub OTF, do wniosku należy dołączyć, na żądanie Komisji, regulamin ASO lub regulamin OTF.
+
+4. (uchylony)
+
+5. Wydając zezwolenie, Komisja zatwierdza statut spółki i regulamin rynku regulowanego.
+
+**Art. 25a.**
+
+1. W skład zarządu spółki prowadzącej rynek regulowany wchodzą osoby posiadające wykształcenie wyższe, co najmniej trzyletni staż pracy na stanowisku kierowniczym instytucjach rynku finansowego lub podmiotach świadczących usługi na rzecz instytucji rynku finansowego zakresie podstawowej działalności tych instytucji, nieposzlakowaną opinię związku ze sprawowanymi funkcjami oraz wiedzę, kompetencje i doświadczenie niezbędne do zarządzania spółką prowadzącą rynek regulowany.
+
+1a. Członkowie zarządu i rady nadzorczej spółki prowadzącej rynek regulowany, pełniąc swoje funkcje, kierują się niezależnością osądu, aby zapewnić skuteczną ocenę i weryfikację podejmowania i wykonywania decyzji związanych z bieżącym zarządzaniem oraz poświęcają wystarczającą ilość czasu na sprawowanie swoich funkcji i powierzonych im obowiązków.
+
+1b. W skład zarządu lub rady nadzorczej spółki prowadzącej rynek regulowany nie mogą wchodzić osoby, które były uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa lub wykroczenia określonego art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstwa określonego art. 523 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących innych państwach.
+
+2. W przypadku gdy spółka prowadząca rynek regulowany prowadzi ASO lub OTF, warunki, o których mowa ust. 1, 1a i 1b, powinny spełniać osoby kierujące tą działalnością.
+
+3. Przepisu ust. 2 nie stosuje się, przypadku gdy prowadzeniem ASO lub OTF kierują członkowie zarządu spółki prowadzącej rynek regulowany. nych do należytego wykonywania powierzonych obowiązków.
+
+5. Liczba funkcji członka zarządu lub rady nadzorczej pełnionych jednocześnie przez członka zarządu lub rady nadzorczej spółki prowadzącej rynek regulowany jest uzależniona od indywidualnych okoliczności oraz charakteru, skali i stopnia złożoności działalności spółki.
+
+6. Członek zarządu lub rady nadzorczej spółki prowadzącej rynek regulowany o istotnym znaczeniu pod względem wielkości, struktury organizacyjnej, charakteru, zakresu i złożoności działalności prowadzonej przez spółkę może sprawować jednocześnie nie więcej niż:
+
+- **1)** jedną funkcję członka zarządu i dwie funkcje członka rady nadzorczej albo
+- **2)** cztery funkcje członka rady nadzorczej.
+
+7. Za jedną funkcję, o której mowa ust. 6, uznaje się:
+
+- **1)** funkcje członka zarządu lub rady nadzorczej sprawowane podmiotach należących do tej samej grupy kapitałowej;
+- **2)** funkcje członka zarządu lub rady nadzorczej sprawowane podmiotach, których spółka prowadząca rynek regulowany posiada bezpośrednio lub pośrednio akcje lub udziały uprawniające do samodzielnego lub porozumieniu z innymi podmiotami wykonywania co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub zgromadzeniu wspólników lub stanowiące co najmniej 10 % udziału kapitale zakładowym.
+
+8. Przepisu ust. 6 nie stosuje się do funkcji sprawowanych przez członka zarządu lub rady nadzorczej spółki prowadzącej rynek regulowany podmiotach nieprowadzących działalności gospodarczej oraz do reprezentantów Skarbu Państwa.
+
+8a. Spółka prowadząca rynek regulowany gromadzi dokumenty potwierdzające spełnianie przez członków zarządu i rady nadzorczej tej spółki wymogów posiadania nieposzlakowanej opinii, wiedzy, kompetencji, doświadczenia, a także niezależności osądu i poświęcenia wystarczającej ilości czasu związku z pełnieniem swoich funkcji i powierzonych obowiązków oraz zakresie liczby funkcji pełnionych jednocześnie.
+
+9. Na wniosek rady nadzorczej Komisja, biorąc pod uwagę szczególności zakres, skalę i złożoność działalności prowadzonej przez spółkę prowadzącą rynek regulowany, może wyrazić zgodę na sprawowanie przez członka zarządu lub rady nadzorczej spółki, o której mowa ust. 6, jednej dodatkowej funkcji członka rady nadzorczej ponad ograniczenia przewidziane tym przepisie, jeżeli nie zagrozi to należytemu wykonywaniu przez członka zarządu lub rady nadzorczej powierzonych mu obowiązków spółce prowadzącej rynek regulowany. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o wydanych zgodach.
+
+10. W przypadku gdy uzasadnia to wielkość, struktura organizacyjna, charakter, zakres i złożoność działalności prowadzonej przez spółkę prowadzącą rynek regulowany, ustanawia ona komitet do spraw nominacji, skład którego wchodzi co najmniej 3 członków rady nadzorczej spółki.
+
+11. Do zadań komitetu do spraw nominacji należy:
+
+- **1)** rekomendowanie kandydatów do zarządu spółki, z uwzględnieniem niezbędnej wiedzy, kompetencji i doświadczenia zarządu jako całości, koniecznych do zarządzania spółką prowadzącą rynek regulowany oraz z uwzględnieniem różnorodności składzie zarządu spółki;
+- **2)** określenie zakresu obowiązków dla kandydata do zarządu spółki, wymagań zakresie wiedzy i kompetencji oraz przewidywanego zaangażowania pod względem poświęcanego czasu, niezbędnych do pełnienia funkcji;
+- **3)** określenie wartości docelowej reprezentacji niedostatecznie reprezentowanej zarządzie spółki płci oraz opracowanie polityki różnorodności składzie zarządu spółki zmierzającej do osiągnięcia tej wartości docelowej, uwzględniającej szeroki zestaw cech i kompetencji wymaganych przypadku osób pełniących funkcję członków zarządu;
+- **4)** dokonywanie okresowej oceny, co najmniej raz roku, struktury, wielkości i składu zarządu oraz rekomendowanie zmian zakresie podziału zadań członków zarządu;
+- **5)** dokonywanie okresowej oceny, co najmniej raz roku, wiedzy, kompetencji i doświadczenia zarządu jako całości i poszczególnych członków zarządu oraz odpowiednie informowanie zarządu o wynikach tej oceny;
+- **6)** dokonywanie okresowego przeglądu polityki zarządu odniesieniu do doboru i powoływania osób zajmujących stanowiska kierownicze i przedstawienie zaleceń.
+
+12. Komitet do spraw nominacji, wykonując swoje zadania, uwzględnia potrzebę zapewnienia, aby proces decyzyjny zarządzie spółki prowadzącej rynek regulowany nie został zdominowany przez osoby, których działania niekorzystnie wpłyną na interes spółki prowadzącej rynek regulowany. zadań, tym z usług doradztwa zewnętrznego.
+
+14. Przepisów ust. 11 pkt 1 i 2 nie stosuje się do członków zarządu, którzy zgodnie z postanowieniami statutu spółki prowadzącej rynek regulowany powoływani są przez inny organ spółki niż rada nadzorcza.
+
+15. W przypadku gdy członek zarządu spółki, która złożyła wniosek o udzielenie zezwolenia na prowadzenie rynku regulowanego, pełni funkcję członka zarządu innej spółki prowadzącej rynek regulowany, wymogi określone ust. 1 uznaje się za spełnione.
+
+**Art. 25b.**
+
+1. Zezwolenie na prowadzenie rynku regulowanego uprawnia spółkę prowadzącą rynek regulowany do instalowania na terytorium innego państwa członkowskiego systemów informatycznych i urządzeń technicznych, umożliwiających dostęp do rynku regulowanego podmiotom prowadzącym działalność na terytorium innego państwa członkowskiego.
+
+2. Spółka prowadząca rynek regulowany jest obowiązana zawiadomić Komisję o zamiarze podjęcia czynności, o których mowa ust. 1.
+
+2a. Zawiadomienie, o którym mowa ust. 2, zakresie prowadzonego przez spółkę prowadzącą rynek regulowany ASO lub OTF, zawiera informacje określone art. 5 rozporządzenia 2017/1018.
+
+3. Komisja przekazuje informację, o której mowa ust. 2, terminie miesiąca właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego czynności określone ust. 1 mają być podjęte.
+
+**Art. 25c.**
+
+1. W przypadku łączenia się spółek prowadzących rynek regulowany oraz organizujących ASO zezwolenie na prowadzenie rynku regulowanego oraz uprawnienie do organizowania ASO spółki przejmowanej nie przechodzą na spółkę przejmującą.
+
+2. W przypadku podziału spółki prowadzącej rynek regulowany oraz organizującej ASO sposób, o którym mowa art. 529 § 1 pkt 1, 3 lub 4 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, zezwolenie na prowadzenie rynku regulowanego oraz uprawnienie do organizowania ASO spółki dzielonej nie przechodzą na spółkę przejmującą, która prowadzi rynek regulowany oraz organizuje ASO.
+
+3. W przypadku, o którym mowa ust. 1 lub 2, instrumenty finansowe dopuszczone do obrotu na rynku regulowanym prowadzonym przez spółkę przejmowaną lub spółkę dzieloną uznaje się za dopuszczone do obrotu na rynku regulowanym prowadzonym przez spółkę przejmującą odpowiednio z dniem połączenia, dniem podziału lub dniem wydzielenia.
+
+4. W przypadku, o którym mowa ust. 1 lub 2, instrumenty finansowe wprowadzone do ASO organizowanego przez spółkę przejmowaną lub spółkę dzieloną uznaje się za wprowadzone do ASO organizowanego przez spółkę przejmującą odpowiednio z dniem połączenia, dniem podziału lub dniem wydzielenia.
+
+5. W przypadku podziału spółki prowadzącej rynek regulowany oraz organizującej ASO, planie podziału wskazuje się spółkę, na którą przechodzi zezwolenie na prowadzenie rynku regulowanego oraz uprawnienie do organizowania ASO, z uwzględnieniem ust. 2.
+
+6. W przypadku łączenia się spółek prowadzących rynek regulowany oraz organizujących ASO sposób, o którym mowa art. 492 § 1 pkt 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, na spółkę nowo zawiązaną przechodzi wskazane planie połączenia zezwolenie na prowadzenie rynku regulowanego oraz uprawnienie do organizowania ASO. Przepisy ust. 3 i 4 stosuje się odpowiednio.
+
+7. W przypadku, o którym mowa ust. 5 lub 6, spółka dzielona lub spółki łączące się informują Komisję o zgłoszeniu do sądu rejestrowego, odpowiednio planu podziału lub planu połączenia, terminie 5 dni od dnia, którym nastąpiło zgłoszenie.
+
+8. Spółka nowo zawiązana lub spółka przejmująca niezwłocznie, nie później niż terminie 5 dni od dnia powzięcia informacji o wpisie do Krajowego Rejestru Sądowego spółki nowo zawiązanej lub połączenia, informuje Komisję o dokonanych wpisach.
+
+9. W przypadku odmowy dokonania wpisu przepis ust. 8 stosuje się odpowiednio.
+
+10. Przepisy ust. 1–9 stosuje się odpowiednio do spółek prowadzących rynek regulowany na innej podstawie niż zezwolenie na prowadzenie rynku regulowanego.
+
+11. W przypadku gdy spółki, o których mowa ust. 1, organizują obrót towarami giełdowymi rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych, przepisy ust. 1–10 stosuje się odpowiednio. wanym, tym właściwy i przejrzysty podział zadań, obowiązków i odpowiedzialności, a także wdrożenie rozwiązań celu przeciwdziałania powstawaniu konfliktu interesów.
+
+2. Rada nadzorcza spółki prowadzącej rynek regulowany sprawuje nadzór nad wypełnianiem przez zarząd obowiązków, o których mowa ust. 1, oraz ocenia adekwatność i skuteczność przyjętych rozwiązań.
+
+**Art. 25e.**
+
+1. Spółka prowadząca rynek regulowany jest obowiązana posiadać procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a szczególnych przypadkach radzie nadzorczej, naruszeń przepisów prawa, tym przepisów rozporządzenia 596/2014 i rozporządzenia 600/2014, oraz procedur i standardów etycznych obowiązujących spółce prowadzącej rynek regulowany.
+
+2. W ramach procedur, o których mowa ust. 1, spółka prowadząca rynek regulowany zapewnia pracownikom, którzy zgłaszają naruszenia, ochronę co najmniej przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania.
+
+**Art. 26.**
+
+1. Komisja odmawia wydania zezwolenia na prowadzenie rynku regulowanego, jeżeli z analizy wniosku i dołączonych do niego dokumentów wynika, że podmiot występujący z wnioskiem nie zapewni prowadzenia działalności sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
+
+2. Komisja odmawia wydania zezwolenia na prowadzenie rynku regulowanego, jeżeli członkowie zarządu lub rady nadzorczej spółki prowadzącej rynek regulowany lub inne osoby, które odpowiadają za rozpoczęcie działalności rynku regulowanego lub będą nim kierować, nie spełniają wymagań, o których mowa art. 25a ust. 1, 1a lub 1b, lub nie dają rękojmi skutecznego i ostrożnego zarządzania rynkiem regulowanym.
+
+**Art. 26a.** Komisja odmawia wydania spółce prowadzącej rynek regulowany zezwolenia odpowiednio na prowadzenie ASO lub OTF, jeżeli:
+
+**Art. 27.**
+
+1. Dokonanie zmian składzie zarządu spółki prowadzącej rynek regulowany wymaga zgody Komisji, udzielanej na wniosek organu uprawnionego do powoływania i odwoływania członków zarządu spółki prowadzącej rynek regulowany. Komisja odmawia udzielenia zgody, jeżeli proponowane zmiany nie zapewniają prowadzenia działalności sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
+
+2. Zamiar zawarcia przez spółkę prowadzącą rynek regulowany umowy skutkującej zmianą podmiotu dokonującego rozrachunku lub rozliczania transakcji wymaga zawiadomienia Komisji.
+
+3. Podmiot uprawniony do zawierania transakcji na rynku regulowanym może powierzyć dokonywanie rozrachunku zawieranych przez niego transakcji podmiotowi innemu niż ten, który na podstawie umowy ze spółką prowadzącą rynek regulowany dokonuje rozrachunku transakcji zawieranych na tym rynku. Zamiar powierzenia dokonywania rozrachunku wymaga zawiadomienia Komisji.
+
+4. Komisja terminie 3 miesięcy od dnia otrzymania zawiadomienia, zgłasza sprzeciw wobec planowanego zawarcia umowy skutkującej zmianą podmiotu dokonującego rozrachunku lub rozliczania transakcji lub wobec planowanego powierzenia dokonywania rozrachunku transakcji podmiotowi innemu niż ten, który na podstawie umowy ze spółką prowadzącą rynek regulowany dokonuje rozrachunku transakcji zawieranych na rynku regulowanym, przypadku gdy podmiot, z którym ma zostać zawarta umowa, albo podmiot wskazany zgodnie z ust. 3 nie spełnia warunków, o których mowa art. 18 ust. 1b.
+
+5. W przypadku gdy podmiot dokonujący rozrachunku lub rozliczania transakcji nie spełnia warunków, o których mowa art. 18 ust. 1b, Komisja może, drodze decyzji, nakazać spółce prowadzącej rynek regulowany rozwiązanie umowy zawartej z tym podmiotem. Komisja może wyznaczyć termin, ciągu którego rozwiązanie umowy powinno zostać dokonane. dokonywanie rozrachunku transakcji, nie spełnia warunków, o których mowa art. 18 ust. 1b, Komisja może, drodze decyzji, nakazać zmianę podmiotu dokonującego rozrachunku transakcji. Komisja może wyznaczyć termin, ciągu którego zmiana podmiotu powinna zostać dokonana.
+
+**Art. 28.**
+
+1. Rada nadzorcza spółki prowadzącej rynek regulowany, na wniosek zarządu spółki prowadzącej rynek regulowany, uchwala regulamin rynku regulowanego, a także zmiany tego regulaminu.
+
+2. Regulamin rynku regulowanego określa szczególności:
+
+- **1)** kryteria i warunki dopuszczania papierów wartościowych i innych instrumentów finansowych do obrotu na poszczególnych rynkach, tym papierów wartościowych dopuszczonych do obrotu na rynku regulowanym innym państwie członkowskim;
+- **2)** sposób i tryb rozstrzygania sporów dotyczących przebiegu transakcji;
+- **3)** rodzaje transakcji zawieranych na rynku regulowanym;
+- **4)** porządek obrotu papierami wartościowymi i innymi instrumentami finansowymi na rynku regulowanym;
+- **5)** warunki i tryb notowania, zawieszania i zaprzestania notowania papierów wartościowych i innych instrumentów finansowych na rynku regulowanym;
+- **6)** sposób ustalania i ogłaszania kursów;
+- **7)** dni sesyjne i godziny sesji;
+- **8)** zasady anulowania transakcji;
+- **9)** sposób klasyfikowania papierów wartościowych i innych instrumentów finansowych notowanych na rynku regulowanym;
+- **10)** system informacyjny rynku regulowanego;
+- **11)** wysokość stałej opłaty rocznej za korzystanie z urządzeń rynku regulowanego;
+- **12)** wysokość opłat transakcyjnych i sposoby ich naliczania;
+- **13)** obowiązki informacyjne emitentów papierów wartościowych dopuszczonych do obrotu wyłącznie na rynku regulowanym niebędącym rynkiem oficjalnych notowań, a także warunki uznania informacji za równoważne informacjom bieżącym i okresowym, przypadku emitentów z siedzibą państwie niebędącym państwem członkowskim, dla których Rzeczpospolita Polska jest państwem macierzystym rozumieniu art. 55a ustawy o ofercie publicznej zakresie określonym art. 61 tej ustawy;
+- **14)** sposób postępowania przypadku naruszenia przez emitentów obowiązków informacyjnych określonych regulaminie;
+- **15)** postanowienia mające na celu wykrywanie i zapobieganie wykorzystywaniu informacji poufnych lub przeciwdziałanie i ujawnianie przypadków manipulacji na rynku, o której mowa art. 12 rozporządzenia 596/2014;
+- **15a)** zasady zawieszania lub ograniczania obrotu instrumentami finansowymi przypadku znacznego wahania cen tych instrumentów;
+- **15b)** zasady zmiany, unieważniania lub korekty transakcji;
+- **15c)** mechanizmy umożliwiające kontrolę otwartych pozycji zakresie towarowych instrumentów pochodnych, innych niż towarowe instrumenty pochodne, o których mowa art. 32f ust. 8, szczególności umożliwiające: wartościowych na wniosek złożony przez podmiot inny niż ich emitent:
+    - **a)** monitorowanie otwartych pozycji członków rynku regulowanego,
+    - **b)** uzyskiwanie od członka rynku regulowanego dostępu do informacji, tym do istotnych dokumentów dotyczących wielkości i celu pozycji lub otwartych ekspozycji, informacji na temat beneficjentów rzeczywistych lub właścicieli instrumentu bazowego oraz do informacji na temat wspólnych ustaleń oraz powiązanych aktywów lub pasywów na rynku instrumentu bazowego, tym pozycji utrzymywanych towarowych instrumentach pochodnych o tym samym instrumencie bazowym i tych samych cechach systemach obrotu instrumentami finansowymi innych niż rynek regulowany, i ekonomicznie równoważnych kontraktach będących przedmiotem obrotu poza systemami obrotu instrumentami finansowymi,
+    - **c)** żądanie od członka rynku regulowanego, aby zamknął albo zmniejszył daną pozycję tymczasowo albo na stałe,
+    - **d)** jednostronne podjęcie odpowiednich działań celu zapewnienia zamknięcia albo zmniejszenia danej pozycji, jeżeli członek rynku regulowanego nie zastosuje się do żądania, o którym mowa lit. c,
+    - **e)** żądanie od członka rynku regulowanego, aby tymczasowo przywrócił płynność na rynku zgodnie z ustaloną ceną i wolumenem, z wyraźnym zamiarem złagodzenia skutków dużej lub dominującej pozycji;
+    - **a)** mechanizmy zabezpieczające inwestorów przypadku zaprzestania dopuszczania do obrotu na rynku regulowanym innym państwie takich papierów wartościowych lub zaprzestania ich dopuszczania do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej,
+    - **b)** sposób wykonywania obowiązków informacyjnych związanych z dopuszczeniem do obrotu na rynku regulowanym takich papierów wartościowych,
+    - **c)** mechanizmy zabezpieczające przed przepływem takich papierów wartościowych z rynku regulowanego prowadzonego innym państwie członkowskim na prowadzony przez spółkę rynek regulowany.
+
+- **16)** (uchylony)
+- **17)** (uchylony)
+
+3. Regulamin rynku regulowanego może określać dodatkowe warunki dopuszczania papierów wartościowych do obrotu stosowane wyłącznie celu ochrony interesu inwestorów. W takim przypadku podmiot składający wniosek o dopuszczenie danych papierów wartościowych do obrotu powinien zostać powiadomiony o tych warunkach przed jego złożeniem.
+
+4. W przypadku opłat, o których mowa ust. 2 pkt 12, spółka prowadząca rynek regulowany może określić regulaminie wyższe opłaty:
+
+- **1)** od zleceń, które są następnie anulowane;
+- **2)** od członków rynku regulowanego, dla których współczynnik zleceń anulowanych stosunku do zleceń wykonanych przekracza limity określone przez spółkę prowadzącą rynek regulowany;
+- **3)** od członków rynku regulowanego, którzy stosują technikę handlu algorytmicznego o wysokiej częstotliwości.
+
+**Art. 29.**
+
+1. Dokonywanie zmian statucie spółki prowadzącej rynek regulowany i regulaminie rynku regulowanego wymaga zgody Komisji. Komisja odmawia udzielenia zgody na dokonanie zmian statucie i regulaminie, jeżeli proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
+
+2. Spółka prowadząca rynek regulowany jest obowiązana informować Komisję o wszelkich zmianach danych, o których mowa art. 25 ust. 2.
+
+3. Spółka prowadząca rynek regulowany udostępnia uczestnikom obrotu regulamin rynku regulowanego i jego zmiany oraz inne ustanowione przez spółkę regulacje obowiązujące na prowadzonym przez nią rynku, co najmniej na 2 tygodnie przed dniem ich wejścia życie.
+
+4. W przypadku gdy zmiany regulaminu rynku regulowanego nie ograniczają praw ani nie zwiększają obowiązków uczestników obrotu, Komisja może zezwolić na skrócenie terminu ich wejścia życie.
+
+**Art. 29a.**
+
+1. Spółka prowadząca rynek regulowany, która prowadzi obrót zakresie instrumentów pochodnych, których cena zależy bezpośrednio lub pośrednio od ceny lub wartości uprawnień do emisji, może, za zezwoleniem Komisji, prowadzić platformę aukcyjną, na której jest prowadzona sprzedaż pięciodniowych kontraktów terminowych typu future, o ile po uzyskaniu zezwolenia platforma ta została wyznaczona na podstawie art. 30 ust. 1 lub 2 rozporządzenia 1031/2010 oraz została wpisana do wykazu, o którym mowa Załączniku III tego rozporządzenia.
+
+2. Spółka prowadząca rynek regulowany, która organizuje obrót towarami giełdowymi, o których mowa art. 21 ust. 3a, może, za zezwoleniem Komisji, prowadzić platformę aukcyjną, na której prowadzona jest sprzedaż dwudniowych kontraktów na rynku kasowym, o ile po uzyskaniu zezwolenia platforma ta została wyznaczona na podstawie art. 30 ust. 1 lub 2 rozporządzenia 1031/2010 oraz została wpisana do wykazu, o którym mowa Załączniku III tego rozporządzenia.
+
+3. Wniosek o udzielenie zezwolenia na prowadzenie platformy aukcyjnej, o której mowa ust. 1 lub 2, zawiera:
+
+- **1)** wskazanie osób, które będą kierować działalnością zakresie prowadzenia platformy aukcyjnej;
+- **2)** wskazanie rodzajów produktów, które będą sprzedawane na aukcjach organizowanych ramach prowadzenia platformy aukcyjnej;
+- **3)** opis warunków technicznych i organizacyjnych prowadzenia platformy aukcyjnej;
+- **4)** opis zasad zarządzania ryzykiem związanym z prowadzeniem platformy aukcyjnej;
+- **5)** opis zasad określania algorytmu ustalającego kolejność ofert, o którym mowa art. 7 ust. 2 rozporządzenia 1031/2010;
+- **7)** wskazanie podmiotów uprawnionych do świadczenia usług rozliczenia i rozrachunku, które będą dokonywać, na podstawie umowy ze spółką, czynności związanych z płatnościami i dostarczaniem uprawnień do emisji sprzedawanych na aukcjach organizowanych przez platformę aukcyjną oraz zarządzaniem wnoszonych zabezpieczeń;
+- **8)** wskazanie zasad działania związanych z płatnościami, dostarczaniem uprawnień do emisji i zarządzaniem wnoszonych zabezpieczeń, wynikających z umów, o których mowa pkt 7;
+- **9)** analizę ekonomiczno-finansową możliwości prowadzenia platformy aukcyjnej okresie kolejnych 3 lat od dnia rozpoczęcia prowadzenia działalności platformy aukcyjnej.
+
+4. Do wniosku dołącza się:
+
+- **1)** szczegółowe zasady organizowania aukcji;
+- **2)** regulamin zarządzania konfliktami interesów;
+- **3)** regulamin ochrony przepływu informacji poufnej, o której mowa art. 62 ust. 1 rozporządzenia 1031/2010, oraz innych informacji stanowiących tajemnicę zawodową;
+- **4)** wewnętrzną procedurę zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **5)** regulamin ochrony przepływu oraz przeciwdziałania wykorzystaniu informacji wewnętrznej, o której mowa art. 37 lit. a rozporządzenia 1031/2010;
+- **6)** procedury oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 1 rozporządzenia 596/2014, lub procedurę przeciwdziałania manipulacji na rynku, o której mowa art. 37 lit. b rozporządzenia 1031/2010.
+
+5. Osoby kierujące działalnością zakresie prowadzenia platformy aukcyjnej powinny spełniać warunki, o których mowa art. 25a ust. 1.
+
+6. Przepisu ust. 5 nie stosuje się, jeżeli prowadzeniem platformy aukcyjnej kierują członkowie zarządu rynku regulowanego.
+
+7. W celu ustalenia przestrzegania wymogów, określonych rozporządzeniu 1031/2010 nałożonych na prowadzącego platformę aukcyjną, Komisja może żądać od spółki prowadzącej rynek regulowany przedstawienia innych informacji i dokumentów dotyczących prowadzenia platformy aukcyjnej niż zawarte we wniosku.
+
+8. Komisja rozpoznaje wniosek o zezwolenie na prowadzenie platformy aukcyjnej terminie 2 miesięcy od dnia jego złożenia.
+
+9. Zezwolenie zawiera:
+
+- **1)** firmę, siedzibę oraz adres spółki prowadzącej platformę aukcyjną;
+- **2)** wskazanie czynności, na wykonywanie których jest udzielone zezwolenie.
+- **3)** (uchylony)
+
+10. Komisja odmawia udzielenia zezwolenia na prowadzenie platformy aukcyjnej, jeżeli z treści wniosku, załączonych do wniosku dokumentów i informacji lub informacji i dokumentów przedstawionych na żądanie Komisji wynika, że spółka prowadząca rynek regulowany nie zapewni prowadzenia platformy aukcyjnej sposób zgodny z przepisami prawa lub nie zapewni prowadzenia działalności sposób niezagrażający bezpieczeństwu obrotu na tej platformie oraz należycie zabezpieczający interesy uczestników aukcji.
+
+**Art. 29b.**
+
+1. Prowadzenie platformy aukcyjnej odbywa się na zasadach określonych rozporządzeniu 1031/2010, przepisach niniejszej ustawy oraz ustanowionych przez spółkę prowadzącą rynek regulowany szczegółowych zasadach organizowania aukcji.
+
+2. Szczegółowe zasady organizowania aukcji szczególności określają:
+
+- **1)** produkty, które będą sprzedawane na aukcjach;
+- **2)** zasady ustalania i publikacji dat i godzin aukcji;
+- **3)** zasady ustalania i publikacji kalendarza aukcji;
+- **4)** zasady przeprowadzania aukcji;
+- **6)** wymagania, o których mowa art. 19 ust. 2 lit. e i f rozporządzenia 1031/2010;
+- **7)** tryb wprowadzania środków zaradczych, o których mowa art. 57 rozporządzenia 1031/2010;
+- **8)** rodzaje dokumentów i informacji wymaganych dla dokonania oceny spełnienia warunków, o których mowa art. 19 ust. 3 rozporządzenia 1031/2010;
+- **9)** zasady rozpatrywania wniosków o dopuszczenie do składania ofert;
+- **10)** tryb i warunki odmowy udzielenia, cofnięcia lub zawieszenia dopuszczenia do składania ofert;
+- **11)** rodzaje alternatywnych możliwości dostępu do aukcji;
+- **12)** tryb i warunki przeprowadzenia kontroli podmiotów uprawnionych do bezpośredniego składania ofert na aukcjach, o których mowa rozporządzeniu 1031/2010;
+- **13)** rodzaje kar, które mogą być stosowane wobec podmiotów uprawnionych do bezpośredniego składania ofert na aukcjach, naruszających obowiązki związane z uczestnictwem aukcji;
+- **14)** procedurę przeciwdziałania i ujawniania przypadków manipulacji na rynku, o której mowa art. 37 lit. b rozporządzenia 1031/2010, lub manipulacji na rynku, o której mowa art. 12 rozporządzenia 596/2014;
+- **15)** sposób przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **16)** sposób i tryb pozasądowego rozstrzygania sporów dotyczących przebiegu aukcji;
+- **17)** strukturę i wysokość opłat.
+
+**Art. 29c.**
+
+1. Spółka prowadząca rynek regulowany może prowadzić działalność jako dostawca usług zakresie udostępniania informacji po uzyskaniu zezwolenia, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014.
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. Zezwolenie, o którym mowa ust. 1, może być udzielone równocześnie z udzieleniem zezwolenia na prowadzenie rynku regulowanego.
+
+5. W przypadku odmowy udzielenia zezwolenia na prowadzenie rynku regulowanego Komisja może udzielić zezwolenia, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014.
+
+**Art. 29d.**
+
+1. Spółka prowadząca rynek regulowany może przetwarzać dane osobowe posiadane związku z wykonywaniem obowiązku, o którym mowa art. 25 ust. 2 rozporządzenia 600/2014, do celów statystycznych zakresie udziału inwestorów strukturze obrotów instrumentami finansowymi danym systemie obrotu.
+
+2. Opracowania, zestawienia i analizy statystyczne opracowane na podstawie danych osobowych, o których mowa ust. 1, zawierają wyłącznie zagregowane dane statystyczne uniemożliwiające identyfikację osób fizycznych, których dane zostały przetworzone.
+
+3. Przy przetwarzaniu danych osobowych, o których mowa ust. 1, spółka prowadząca rynek regulowany wdraża odpowiednie zabezpieczenia techniczne i organizacyjne praw i wolności osób fizycznych, których dane osobowe są przetwarzane, zgodnie z rozporządzeniem 2016/679, polegające co najmniej na:
+
+- **1)** dopuszczeniu przez spółkę prowadzącą rynek regulowany do przetwarzania danych osobowych wyłącznie osób do tego uprawnionych oraz nadawanie tych uprawnień minimalnej liczbie osób niezbędnych do prowadzenia analiz i opracowań statystycznych;
+- **2)** pisemnym zobowiązaniu osób upoważnionych do zachowania danych osobowych tajemnicy;
+- **3)** zapewnieniu ochrony przed nieuprawnionym dostępem do systemu informatycznego spółki prowadzącej rynek regulowany, którym dane osobowe są przetwarzane;
+- **4)** określeniu zasad bezpieczeństwa przetwarzanych danych osobowych.
+
+4. Do przetwarzania danych osobowych, o których mowa ust. 1, do celów statystycznych, o których mowa tym przepisie, nie stosuje się przepisów art. 15, art. 16, art. 18 i art. 21 rozporządzenia 2016/679.
+
+- **1)** wstępu do siedziby i do lokalu spółki prowadzącej rynek regulowany celem wglądu do ksiąg, dokumentów i innych nośników informacji;
+- **2)** uczestniczyć posiedzeniach rady nadzorczej spółki prowadzącej rynek regulowany oraz walnych zgromadzeniach.
+
+2. Na żądanie Przewodniczącego Komisji lub osoby przez niego upoważnionej, osoby uprawnione do reprezentowania spółki prowadzącej rynek regulowany lub wchodzące skład jej organów zarządzających i nadzorczych albo pozostające z tą spółką stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt spółki, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień.
+
+3. Obowiązek, o którym mowa ust. 2, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania firmy audytorskiej lub pozostających z tą firmą stosunku pracy zakresie dotyczącym czynności podejmowanych przez te osoby lub firmę, związku z badaniem sprawozdań finansowych spółki prowadzącej rynek regulowany lub świadczeniem na rzecz spółki prowadzącej rynek regulowany innych usług wymienionych art. 47 ust. 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2023 r. poz. 1015, 1723 i 1843). Nie narusza to obowiązku zachowania tajemnicy, o której mowa art. 78 tej ustawy.
+
+4. Na pisemne żądanie Komisji zarząd spółki prowadzącej rynek regulowany jest obowiązany do:
+
+- **1)** zwołania nadzwyczajnego walnego zgromadzenia lub
+- **2)** umieszczenia spraw wskazanych przez Komisję porządku obrad walnego zgromadzenia.
+
+5. W przypadku niewykonania obowiązków, o których mowa ust. 4, do żądania Komisji stosuje się odpowiednio przepisy art. 401 § 1 i 3 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+6. Komisja może nakazać radzie nadzorczej spółki prowadzącej rynek regulowany niezwłoczne podjęcie, nie później jednak niż terminie 10 dni roboczych, uchwały określonej sprawie.
+
+7. Komisja może zaskarżyć do sądu uchwałę walnego zgromadzenia lub rady nadzorczej spółki prowadzącej rynek regulowany, terminie 30 dni od dnia powzięcia wiadomości o uchwale, drodze powództwa o jej uchylenie, jeżeli uchwała narusza przepisy prawa, postanowienia statutu, regulaminu lub zasady bezpieczeństwa obrotu albo jeżeli została podjęta z naruszeniem przepisów prawa, postanowień statutu lub regulaminu.
+
+8. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia wynika z odrębnych przepisów lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych firmie audytorskiej. W przypadku gdy kontrola wykaże istnienie istotnych nieprawidłowości, spółka prowadząca rynek regulowany zwraca Komisji koszty przeprowadzenia kontroli.
+
+9. Biegły rewident lub firmy audytorskie badające sprawozdanie finansowe spółki prowadzącej rynek regulowany niezwłocznie przekazują Komisji oraz radzie nadzorczej i zarządowi spółki istotne informacje, których posiadanie weszli związku z wykonywanymi czynnościami, dotyczące zdarzeń powodujących:
+
+- **1)** powstanie uzasadnionego podejrzenia naruszenia przez spółkę, członków jej zarządu lub pracowników przepisów prawa regulujących prowadzenie rynku regulowanego, zasad uczciwego obrotu lub interesów uczestników obrotu;
+- **2)** powstanie zagrożenia dla dalszego funkcjonowania spółki;
+- **3)** odmowę wydania opinii dotyczącej sprawozdania finansowego spółki, wydanie opinii negatywnej dotyczącej jej sprawozdania finansowego lub wniesienie zastrzeżeń tej opinii.
+
+10. Biegły rewident lub firma audytorska może odstąpić od powiadomienia rady nadzorczej i zarządu, o którym mowa ust. 9, jeżeli przemawiają za tym ważne powody.
+
+11. Wykonanie obowiązku, o którym mowa ust. 9, nie narusza obowiązku zachowania tajemnicy, o której mowa art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+
+**Art. 30a.** W celu zapewnienia przestrzegania przez spółkę prowadzącą rynek regulowany przepisów ustawy, przepisów wykonawczych wydanych na jej podstawie, przepisów ustawy z dnia 26 października 2000 r. o giełdach towarowych, przepisów rozporządzenia 1031/2010, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 2017/584 oraz innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do spółki prowadzącej rynek regulowany Komisja może zalecić zaprzestanie wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania przyszłości.
+
+**Art. 30b.** W przypadku, o którym mowa art. 26 ust. 5 rozporządzenia 600/2014, podmiot prowadzący system obrotu instrumentami finansowymi może przekazywać Komisji informacje wymagane na podstawie art. 26 ust. 1–3 tego rozporządzenia za pośrednictwem zatwierdzonego mechanizmu sprawozdawczego.
+
+**Art. 32.**
+
+1. Uchwałę sprawie dopuszczenia instrumentów finansowych do obrotu na rynku regulowanym podejmuje zarząd spółki prowadzącej rynek regulowany terminie 7 dni od dnia złożenia wniosku.
+
+2. W przypadku gdy złożony wniosek jest niekompletny lub konieczne jest uzyskanie dodatkowych informacji, odpowiednio zarząd lub rada nadzorcza spółki prowadzącej rynek regulowany może zakresie niezbędnym do stwierdzenia, czy instrumenty finansowe będące przedmiotem wniosku spełniają kryteria i warunki, o których mowa art. 28 ust. 2 pkt 1 żądać uzupełnienia wniosku lub przedstawienia tych informacji. W takim przypadku bieg terminów, o których mowa ust. 1 i 3, zaczyna się momencie spełnienia żądania przez wnioskodawcę.
+
+3. Zarząd spółki prowadzącej rynek regulowany odmawia dopuszczenia instrumentów finansowych do obrotu na rynku regulowanym, jeżeli nie są spełnione kryteria i warunki, o których mowa art. 28 ust. 2 pkt 1. W przypadku odmowy, wnioskodawcy przysługuje odwołanie do rady nadzorczej spółki prowadzącej rynek regulowany, terminie określonym regulaminie rynku regulowanego. Rozpatrzenie odwołania następuje terminie miesiąca od dnia jego złożenia.
+
+4. Uchwałę rady nadzorczej spółki prowadzącej rynek regulowany nieuwzględniającą odwołania wnioskodawca może zaskarżyć do sądu właściwego miejscowo dla siedziby spółki prowadzącej rynek regulowany, terminie 14 dni od dnia powzięcia wiadomości o uchwale, jeżeli odmowa dopuszczenia narusza postanowienia regulaminu rynku regulowanego. Wyrok sądu uwzględniający powództwo zastępuje uchwałę o dopuszczeniu instrumentów finansowych do obrotu na rynku regulowanym.
+
+5. Obligacje zamienne, obligacje z prawem pierwszeństwa lub warranty subskrypcyjne mogą być dopuszczone do obrotu na rynku oficjalnych notowań, pod warunkiem, że akcje emitowane celu realizacji uprawnień wynikających z tych papierów wartościowych są jednocześnie objęte wnioskiem o dopuszczenie do obrotu na tym rynku albo są już notowane na tym samym lub na innym rynku oficjalnych notowań lub na rynku regulowanym innym państwie członkowskim.
+
+6. Spółka, której akcje są dopuszczone do obrotu na danym rynku oficjalnych notowań, ma obowiązek złożyć wniosek o dopuszczenie do obrotu na tym rynku akcji tego samego rodzaju nowej emisji, będących przedmiotem oferty publicznej, nie później niż terminie 12 miesięcy od dnia zakończenia subskrypcji, albo ustania ograniczenia ich zbywalności jeżeli takie ograniczenie było ustanowione.
+
+**Art. 32a.**
+
+1. Spółka prowadząca rynek regulowany jest obowiązana archiwizować dokumenty i inne nośniki informacji związane z prowadzeniem rynku regulowanego lub platformy aukcyjnej, tym regulaminy, procedury oraz inne regulacje wewnętrzne.
+
+2. Spółka prowadząca rynek regulowany jest obowiązana archiwizować dokumenty oraz inne nośniki informacji, o których mowa ust. 1, sposób zabezpieczający je przed zniszczeniem, utratą lub modyfikacją.
+
+3. Obowiązek archiwizowania, o którym mowa ust. 1, wygasa z upływem 5 lat, licząc od pierwszego dnia roku następującego po roku, którym dokumenty lub nośniki informacji zostały sporządzone lub otrzymane, a przypadku regulaminów, procedur oraz innych regulacji wewnętrznych z upływem 5 lat, licząc od pierwszego dnia roku następującego po roku, którym przestały one obowiązywać.
+
+##### Oddział 1a Limity pozycji
+
+**Art. 32b.**
+
+1. Ilekroć niniejszym oddziale jest mowa o:
+
+- **1)** podmiocie finansowym rozumie się przez to podmiot, który jest:
+    - **a)** firmą inwestycyjną,
+    - **b)** bankiem lub instytucją kredytową rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe,
+    - **c)** zakładem ubezpieczeń,
+    - **d)** towarzystwem funduszy inwestycyjnych, funduszem inwestycyjnym otwartym, specjalistycznym funduszem inwestycyjnym otwartym, funduszem inwestycyjnym zamkniętym, alternatywną spółką inwestycyjną, zarządzającym ASI, spółką zarządzającą, funduszem zagranicznym, unijnym AFI lub zarządzającym z UE rozumieniu ustawy o funduszach inwestycyjnych, nizacji i funkcjonowaniu funduszy emerytalnych,
+    - **f)** CCP,
+    - **g)** centralnym depozytem papierów wartościowych;
+
+- **2)** podmiocie niefinansowym rozumie się przez to podmiot, o którym mowa art. 2 pkt 1 rozporządzenia 2017/591.
+
+2. W przypadku gdy działania CCP są podejmowane na podstawie regulaminów i procedur ustanowionych na podstawie odpowiednich przepisów prawa, tym zgodnie z procedurą na wypadek niewykonania zobowiązania przez uczestnika rozliczającego, o której mowa art. 48 ust. 1 rozporządzenia 648/2012, CCP nie jest uznawany za podmiot finansowy.
+
+**Art. 32c.**
+
+1. Komisja może, drodze decyzji, ustalić limity otwartych pozycji dla instrumentów pochodnych opartych na towarach rolnych oraz kluczowych lub istotnych towarowych instrumentów pochodnych zgodnie z przepisami rozdziału III rozporządzenia 2017/591.
+
+1a. W decyzji, o której mowa ust. 1, Komisja wskazuje termin jej wykonania, nie krótszy niż miesiąc od dnia jej ogłoszenia.
+
+1b. Towarowe instrumenty pochodne uznaje się za kluczowe lub istotne, jeżeli suma wszystkich pozycji netto posiadaczy pozycji końcowych jest równa wielkości otwartych pozycji i wynosi przynajmniej średnio 300 000 lotów okresie jednego roku.
+
+2. Do decyzji, o których mowa ust. 1, przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego stosuje się odpowiednio.
+
+3. Decyzje, o których mowa ust. 1, podlegają ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego. Informacje o ich wydaniu Komisja przekazuje niezwłocznie do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa art. 58 ust. 1 ustawy o ofercie publicznej.
+
+4. Limity pozycji, o których mowa ust. 1, nie mają zastosowania do pozycji otwartych przez:
+
+- **1)** podmiot niefinansowy lub pozycji otwartych na jego rachunek, jeżeli można je zakwalifikować jako pozycje zmniejszające ryzyko bezpośrednio związane z działalnością handlową tego podmiotu niefinansowego;
+- **2)** podmiot finansowy, który wchodzi skład grupy kapitałowej i działa imieniu podmiotu niefinansowego wchodzącego skład tej samej grupy kapitałowej, lub pozycji otwartych na rachunek tego podmiotu finansowego, jeżeli można je zakwalifikować jako pozycje zmniejszające ryzyko bezpośrednio związane z działalnością handlową tego podmiotu niefinansowego, o ile głównym przedmiotem działalności tej grupy kapitałowej nie jest prowadzenie działalności maklerskiej lub wykonywanie czynności bankowych;
+- **3)** podmiot finansowy lub podmiot niefinansowy, jeżeli można je zakwalifikować jako pozycje wynikające z transakcji towarowymi instrumentami pochodnymi lub uprawnieniami do emisji lub związanymi z nimi instrumentami pochodnymi, zawartych celu spełnienia obowiązków związanych z zapewnieniem płynności systemie obrotu.
+
+4a. Podmiot niefinansowy, o którym mowa ust. 4 pkt 1, składa do Komisji wniosek, o którym mowa art. 8 rozporządzenia 2017/591, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z jego działalnością handlową zgodnie z art. 7 tego rozporządzenia.
+
+4b. Podmiot finansowy, o którym mowa ust. 4 pkt 2, składa do Komisji wniosek, o którym mowa art. 8 rozporządzenia 2017/591, o uznanie pozycji za pozycję zmniejszającą ryzyko bezpośrednio związane z działalnością handlową podmiotu niefinansowego zgodnie z art. 7 tego rozporządzenia.
+
+4c. Podmiot niefinansowy i podmiot finansowy, o których mowa ust. 4 pkt 3, składają do Komisji wniosek o uznanie pozycji za pozycję wynikającą z transakcji zawartych celu spełnienia obowiązków związanych z zapewnieniem płynności systemie obrotu zgodnie z przepisami rozporządzenia delegowanego wydanego na podstawie art. 57 ust. 1 dyrektywy Parlamentu Europejskiego i Rady 2014/65/UE z dnia 15 maja 2014 r. sprawie rynków instrumentów finansowych oraz zmieniającej dyrektywę 2002/92/WE i dyrektywę 2011/61/UE (Dz. Urz. UE L 173 z 12.06.2014, str. 349, z późn. zm. ). rolnych oraz kluczowych lub istotnych towarowych instrumentach pochodnych, które podmiot finansowy lub niefinansowy może posiadać, znajdujących się obrocie systemie obrotu instrumentami finansowymi lub znajdujących się poza systemem obrotu instrumentami finansowymi, o ile są ekonomicznie równoważne z tymi, które znajdują się obrocie systemie obrotu instrumentami finansowymi.
+
+5a. Limity pozycji, o których mowa ust. 1, nie mają zastosowania do zbywalnych praw majątkowych, które powstają wyniku emisji, inkorporujących uprawnienie do nabycia lub objęcia papierów wartościowych lub wykonywanych przez dokonanie rozliczenia pieniężnego odnoszącego się do papierów wartościowych, stóp procentowych, stóp zwrotu, towarów oraz innych wskaźników lub mierników.
+
+6. Przed wydaniem decyzji, o której mowa ust. 1, Komisja zasięga opinii Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, a także:
+
+- **1)** Prezesa Urzędu Regulacji Energetyki przypadku gdy instrumentem bazowym towarowego instrumentu pochodnego jest paliwo lub energia rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266);
+- **2)** ministra właściwego do spraw rynków rolnych przypadku gdy instrumentem bazowym towarowego instrumentu pochodnego jest produkt rolny;
+- **3)** właściwego ministra kierującego działem administracji rządowej obejmującym sprawy produkcji, wydobycia lub obrotu określonym towarem, innym niż określony pkt 1 i 2 przypadku gdy instrumentem bazowym towarowego instrumentu pochodnego jest towar inny niż określony pkt 1 i 2.
+
+7. Komisja, po zasięgnięciu opinii Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, może zmienić ustalony limit pozycji zgodnie z opinią tego Urzędu. W przypadku nieuwzględnienia opinii Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych Komisja przekazuje mu swoje stanowisko wraz z uzasadnieniem i publikuje to stanowisko wraz z uzasadnieniem na swojej stronie internetowej.
+
+8. Limity pozycji ustalone przez Komisję podlegają przeglądowi przypadku istotnej zmiany na rynku wpływającej na wartości, na podstawie których są ustalane. W takim przypadku Komisja ustala nowy limit pozycji zgodnie z przepisami rozdziału III rozporządzenia 2017/591. Do ponownego ustalenia limitu pozycji stosuje się przepisy ust. 1–7.
+
+9. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może, decyzji, o której mowa ust. 1, ustalić limity pozycji niższe od określanych zgodnie z przepisami rozdziału III rozporządzenia 2017/591. Limity takie nie mogą zostać wprowadzone na dłużej niż 6 miesięcy. W przypadku gdy jest to uzasadnione koniecznością zapewnienia płynności rynku i prawidłowości funkcjonowania tego rynku, Komisja może przedłużyć okres obowiązywania niższego limitu pozycji o kolejne 6 miesięcy.
+
+10. W przypadku ustalenia przez Komisję limitów pozycji zgodnie z ust. 9 Komisja informuje o tym Europejski Urząd Nadzoru Giełd i Papierów Wartościowych. W przypadku jego negatywnej opinii Komisja może zmienić ustalony limit pozycji zgodnie z tą opinią. W przypadku nieuwzględnienia opinii tego Urzędu Komisja publikuje swoje stanowisko wraz z uzasadnieniem na swojej stronie internetowej.
+
+11. W przypadku gdy wolumen obrotu instrumentów pochodnych opartych na towarach rolnych o tym samym instrumencie bazowym i tych samych cechach lub kluczowych lub istotnych towarowych instrumentów pochodnych o tym samym instrumencie bazowym i tych samych cechach, znajdujących się systemie obrotu instrumentami finansowymi więcej niż jednym państwie członkowskim, jest największy na terytorium Rzeczypospolitej Polskiej, Komisja ustala jednolity limit pozycji, który ma być stosowany do wszystkich transakcji ramach danego instrumentu. Komisja, ustalając jednolity limit pozycji oraz zmiany tego limitu, przeprowadza konsultacje z właściwymi organami nadzoru innych państw członkowskich, sprawującymi tych państwach nadzór nad systemami obrotu instrumentami finansowymi, których obrót tymi instrumentami jest znaczny.
+
+12. W przypadku gdy jednolity limit pozycji ustalony przez właściwy organ nadzoru innego państwa członkowskiego, który jest właściwy ze względu na największy wolumen obrotu instrumentami pochodnymi opartymi na towarach rolnych o tym samym instrumencie bazowym i tych samych cechach lub kluczowymi lub istotnymi towarowymi instrumentami pochodnymi o tym samym instrumencie bazowym i tych samych cechach na rynku podlegającym nadzorowi tego organu, nie zapobiega:
+
+- **1)** wykorzystywaniu informacji poufnej, bezprawnemu ujawnianiu informacji poufnej lub manipulacji na rynku,
+- **2)** nieprawidłowościom wycenie i rozliczaniu instrumentów, tym nie zapobiega pozycjom powodującym zakłócenia na rynku, szczególności nie zapewnia spójności między cenami instrumentów pochodnych miesiącu dostawy a cenami kasowymi towaru bazowego Komisja przekazuje swoje zastrzeżenia temu organowi, z tym że przypadku braku porozumienia między właściwym organem nadzoru innego państwa członkowskiego a Komisją może ona skierować sprawę do Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 19 rozporządzenia 1095/2010. i tych samych cechach lub kluczowymi lub istotnymi towarowymi instrumentami pochodnymi o tym samym instrumencie bazowym i tych samych cechach spółka prowadząca system obrotu instrumentami finansowymi współpracuje z właściwymi organami systemów obrotu instrumentami finansowymi z innych państw członkowskich, których odbywa się obrót tym instrumentem, oraz podmiotami posiadającymi otwarte pozycje tym instrumencie, szczególności przez wymianę informacji umożliwiających kontrolę otwartych pozycji zakresie tego instrumentu.
+
+14. W przypadku gdy limit pozycji ustalany drodze decyzji, o której mowa ust. 1, dotyczy produktów energetycznych sprzedawanych obrocie hurtowym, Komisja powiadamia o ustalonym limicie Agencję do spraw Współpracy Organów Regulacji Energetyki.
+
+15. W przypadku gdy limit pozycji ustalony drodze decyzji, o której mowa ust. 1, dotyczy towarowych instrumentów pochodnych, których instrumentem bazowym są:
+
+- **1)** paliwo lub energia rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne Komisja zawiadamia Prezesa Urzędu Regulacji Energetyki i współpracuje z nim zakresie monitorowania wpływu takiego limitu na rynek paliw i energii;
+- **2)** produkty rolne Komisja zawiadamia ministra właściwego do spraw rynków rolnych i współpracuje z nim zakresie monitorowania wpływu takiego limitu na rynek towarów rolnych;
+- **3)** towary inne niż określone pkt 1 i 2 Komisja zawiadamia właściwego ministra kierującego działem administracji rządowej obejmującym sprawy produkcji, wydobycia lub obrotu takimi towarami i współpracuje z nim zakresie monitorowania wpływu takiego limitu na rynek takich towarów.
+
+**Art. 32d.** Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania podmiotu finansowego lub podmiotu niefinansowego lub wchodzące skład ich statutowych organów albo pozostające z nimi stosunku pracy są obowiązane niezwłocznie sporządzić i przekazać, na koszt tych podmiotów, kopie dokumentów i innych nośników informacji oraz udzielić pisemnych lub ustnych wyjaśnień zakresie nadzoru sprawowanego przez Komisję.
+
+**Art. 32e.**
+
+1. Jeżeli jest to niezbędne dla zapewnienia prawidłowego funkcjonowania rynku oraz bezpieczeństwa obrotu, Komisja może, drodze decyzji:
+
+- **1)** nakazać podmiotowi finansowemu lub podmiotowi niefinansowemu zmniejszenie wielkości otwartych pozycji zakresie towarowych instrumentów pochodnych lub
+- **2)** zakazać podmiotowi finansowemu lub podmiotowi niefinansowemu zawierania transakcji zakresie określonego towarowego instrumentu pochodnego.
+
+2. Przed wydaniem decyzji, o której mowa ust. 1, Komisja zawiadamia Europejski Urząd Nadzoru Giełd i Papierów Wartościowych oraz właściwy organ nadzoru innego państwa członkowskiego o zamiarze zastosowania środków, o których mowa ust. 1, przekazując jednocześnie:
+
+- **1)** informacje o przyczynach zastosowania takich środków;
+- **2)** imię i nazwisko lub nazwę (firmę) oraz informacje o siedzibie i adresie podmiotu, wobec którego takie środki mają być zastosowane;
+- **3)** informacje o limicie, który zgodnie z art. 32c ust. 1 obowiązuje podmiot, wobec którego takie środki mają być zastosowane, oraz o rodzaju towarowego instrumentu pochodnego, którego ten limit dotyczy, i o niestosowaniu przez ten podmiot limitów pozycji na podstawie art. 8 rozporządzenia 2017/591, ze wskazaniem przyczyn ich niestosowania.
+
+3. Informacje, o których mowa ust. 2, Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwemu organowi nadzoru innego państwa członkowskiego nie później niż 24 godziny przed wydaniem decyzji.
+
+4. W przypadku otrzymania przez Komisję zawiadomienia od właściwego organu nadzoru innego państwa członkowskiego o wprowadzeniu przez ten organ wobec określonego podmiotu finansowego lub podmiotu niefinansowego nakazu zmniejszenia wielkości otwartych pozycji zakresie towarowych instrumentów pochodnych lub zakazu zawierania transakcji zakresie określonego towarowego instrumentu pochodnego, Komisja może wobec tego samego podmiotu zastosować środki, o których mowa ust. 1. W takim przypadku Komisja zawiadamia Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o rodzaju wprowadzanego środka nie później niż 24 godziny przed wydaniem decyzji o jego wprowadzeniu.
+
+5. W przypadku gdy środki, o których mowa ust. 1, dotyczą produktów energetycznych sprzedawanych obrocie hurtowym, Komisja powiadamia o wprowadzonych środkach Agencję do spraw Współpracy Organów Regulacji Energetyki. mentem bazowym są:
+
+- **1)** paliwa lub energia Komisja przed wydaniem decyzji zasięga opinii Prezesa Urzędu Regulacji Energetyki;
+- **2)** produkty rolne Komisja przed wydaniem decyzji zasięga opinii ministra właściwego do spraw rynków rolnych;
+- **3)** towary inne niż określone pkt 1 i 2 Komisja przed wydaniem decyzji zasięga opinii właściwego ministra kierującego działem administracji rządowej obejmującym sprawy produkcji, wydobycia lub obrotu towarami innymi niż określone pkt 1 i 2.
+
+**Art. 32f.**
+
+1. Firma inwestycyjna lub spółka prowadząca rynek regulowany, prowadzące system obrotu instrumentami finansowymi, które dopuszczają do obrotu towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji:
+
+- **1)** podają do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa art. 58 ust. 1 ustawy o ofercie publicznej, oraz przekazują Komisji i Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych cotygodniowe sprawozdanie zawierające zbiorcze zestawienie pozycji utrzymywanych przez poszczególne kategorie podmiotów, o których mowa ust. 4 pkt 1–5, odniesieniu do poszczególnych towarowych instrumentów pochodnych, uprawnień do emisji lub instrumentów pochodnych, których instrumentem bazowym są uprawnienia do emisji, będących przedmiotem obrotu prowadzonych przez firmę inwestycyjną lub spółkę prowadzącą rynek regulowany systemach obrotu instrumentami finansowymi, z uwzględnieniem liczby długich i krótkich pozycji każdym towarowym instrumencie pochodnym, uprawnieniach do emisji lub instrumentach pochodnych, których instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, ich zmian od czasu poprzedniego sprawozdania, procentowego udziału całkowitej liczby otwartych pozycji każdym towarowym instrumencie pochodnym, uprawnieniu do emisji lub instrumencie pochodnym, którego instrumentem bazowym są uprawnienia do emisji, dla każdej z takich kategorii podmiotów, i liczby osób posiadających takie pozycje każdej z takich kategorii podmiotów;
+- **2)** przekazują Komisji, co najmniej raz dziennie oraz na żądanie Komisji, zestawienie pozycji posiadanych ramach danego systemu obrotu instrumentami finansowymi przez wszystkie osoby, tym członków lub uczestników oraz ich klientów.
+
+2. W przypadku gdy firma inwestycyjna zawiera transakcje poza systemem obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub poza systemem obrotu instrumentami finansowymi innego państwa członkowskiego, których przedmiotem są towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, będące przedmiotem obrotu systemie obrotu instrumentami finansowymi na terytorium Rzeczypospolitej Polskiej lub systemie obrotu instrumentami finansowymi innego państwa członkowskiego, lub pośredniczy zawieraniu takich transakcji, firma inwestycyjna przekazuje, raz dziennie, odpowiednio Komisji lub właściwemu organowi nadzoru innego państwa członkowskiego właściwemu dla systemu obrotu instrumentami finansowymi innego państwa członkowskiego, którym te instrumenty finansowe znajdują się obrocie, a przypadku gdy towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, znajdują się obrocie systemach obrotu instrumentami finansowymi kilku państw członkowskich organowi nadzoru państwa członkowskiego właściwemu ze względu na największy wolumen obrotu tym instrumentem finansowym, zestawienie pozycji zakresie tych instrumentów finansowych lub ekonomicznie równoważnych kontraktów będących przedmiotem obrotu poza systemem obrotu instrumentami finansowymi, a także pozycji jej klientów, zgodnie z art. 26 rozporządzenia 600/2014, a także przypadku, gdy zgodnie z art. 8 rozporządzenia 1227/2011 przekazanie takiego zestawienia jest wymagane.
+
+3. Członkowie rynku regulowanego, ASO oraz OTF przekazują, co najmniej raz dziennie, firmie inwestycyjnej lub spółce prowadzącej rynek regulowany szczegółowe informacje o ich własnych pozycjach kontraktach znajdujących się obrocie systemie obrotu instrumentami finansowymi prowadzonym przez tę firmę inwestycyjną lub przez tę spółkę, a także o pozycjach swoich klientów.
+
+4. Informacje, o których mowa ust. 1 pkt 1 i 2, są przekazywane podziale na:
+
+- **1)** firmy inwestycyjne, banki lub instytucje kredytowe rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **2)** towarzystwa funduszy inwestycyjnych, fundusze inwestycyjne, alternatywne spółki inwestycyjne, zarządzających ASI, spółki zarządzające, fundusze zagraniczne, unijne AFI lub zarządzających z UE rozumieniu ustawy o funduszach inwestycyjnych;
+- **3)** inne instytucje finansowe, tym zakłady ubezpieczeń oraz fundusze emerytalne lub towarzystwa emerytalne rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **4)** operatorów statków powietrznych, o których mowa art. 3 pkt 14 ustawy z dnia 12 czerwca 2015 r. o systemie handlu uprawnieniami do emisji gazów cieplarnianych, lub podmioty prowadzące instalację, o których mowa art. 3 pkt 16 tej ustawy, wykonujące wyłącznie czynności określone art. 69 ust. 2 pkt 3, których przedmiotem są uprawnienia do emisji przypadku uprawnień do emisji lub związanych z nimi instrumentów pochodnych;
+- **5)** inne podmioty. między pozycjami zidentyfikowanymi jako pozycje, które obiektywnie zmniejszają ryzyko bezpośrednio związane z działalnością handlową, a innymi pozycjami.
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. Obowiązki, o których mowa ust. 1–3, nie dotyczą zbywalnych praw majątkowych, które powstają wyniku emisji, inkorporujących uprawnienie do nabycia lub objęcia papierów wartościowych lub wykonywanych poprzez dokonanie rozliczenia pieniężnego odnoszącego się do papierów wartościowych, stóp procentowych, stóp zwrotu, towarów oraz innych wskaźników lub mierników.
+
+##### Oddział 2 (uchylony)
+
+##### Oddział 3 (uchylony)
+
+##### Oddział 4 (uchylony)
+
+### DZIAŁ III System depozytowo-rozliczeniowy
+
+**Art. 45a.**
+
+1. Na zasadach określonych niniejszym dziale, z zastrzeżeniem art. 18 ust. 1a i 1b, jest prowadzony depozyt papierów wartościowych i rejestracja instrumentów finansowych niebędących papierami wartościowymi, rozliczanie i rozrachunek transakcji mających za przedmiot instrumenty finansowe oraz wykonywanie innych czynności związanych z systemem depozytowo-rozliczeniowym.
+
+2. Ilekroć niniejszym dziale jest mowa o uczestniku, rozumie się przez to podmiot będący uczestnikiem odpowiednio Krajowego Depozytu, spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2, CCP, izby rozliczeniowej lub izby rozrachunkowej.
+
+**Art. 45b.**
+
+1. Rozliczeniem transakcji mających za przedmiot instrumenty finansowe jest ustalenie wysokości świadczeń pieniężnych i niepieniężnych wynikających z zawartych transakcji, ramach przyjętego sposobu rozliczenia, do których są zobowiązani lub uprawnieni:
+
+- **1)** uczestnicy będący stronami tych transakcji;
+- **2)** przypadku, o którym mowa art. 45h ust. 1 Krajowy Depozyt, spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 2, izba rozliczeniowa lub CCP (podmiot rozliczający);
+- **3)** uczestnicy, którzy na zasadach określonych regulaminie podmiotu rozliczającego:
+    - **a)** zobowiązali się wobec tego podmiotu do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez inne podmioty oraz
+    - **b)** przypadku, gdy rozliczenie transakcji następuje sposób, o którym mowa art. 45h uzyskali zgodę podmiotu zawierającego transakcje na wykonywanie obowiązków, o których mowa lit. a (uczestnicy będący stronami rozliczenia).
+
+2. Rozrachunkiem transakcji mających za przedmiot instrumenty finansowe jest obciążenie lub uznanie konta depozytowego, rachunku zbiorczego lub rachunku papierów wartościowych prowadzonego przez Krajowy Depozyt, spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, lub przez izbę rozrachunkową (podmiot przeprowadzający rozrachunek), odpowiednio związku z transakcją zbycia lub nabycia instrumentów finansowych, a także odpowiednio do ustalonych trakcie rozliczenia kwot świadczeń, uznanie lub obciążenie rachunku bankowego lub rachunku pieniężnego wskazanego przez uczestnika będącego stroną transakcji albo stroną rozliczenia.
+
+**Art. 45c.** Rozliczanie i rozrachunek transakcji oraz rejestracja zakresie papierów wartościowych:
+
+**Art. 45e.**
+
+1. Wszczęcie postępowania upadłościowego, restrukturyzacyjnego, egzekucyjnego lub otwarcie likwidacji, a także podjęcie innych środków prawnych względem uczestnika lub innego podmiotu zawierającego transakcje:
+
+- **1)** na rynku regulowanym,
+- **2)** ASO, 2a) na OTF,
+- **3)** poza systemem obrotu instrumentami finansowymi jeżeli są one rozliczane przez podmiot rozliczający powodujących zawieszenie lub zaprzestanie dokonywania przez niego spłaty zadłużeń albo ograniczających jego zdolność zakresie swobodnego rozporządzania swoim mieniem, tym zawieszenie działalności banku trybie określonym przepisami ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, nie wywołuje skutków prawnych stosunku do środków znajdujących się na koncie depozytowym, rachunku zbiorczym, rachunku papierów wartościowych, rachunku derywatów, rachunku pieniężnym lub rachunku bankowym tego uczestnika lub podmiotu, służącym do realizacji rozliczeń transakcji zakresie, jakim środki te są przeznaczone do przeprowadzenia rozrachunku transakcji podmiocie przeprowadzającym rozrachunek, chociażby postępowanie zostało wszczęte, likwidacja otwarta lub inny środek prawny został podjęty przed przeprowadzeniem jej rozrachunku.
+
+2. Środki prawne, o których mowa ust. 1, nie wywołują skutków prawnych wobec podmiotu uprawnionego z zabezpieczenia stosunku do przedmiotu zabezpieczenia ustanowionego przez uczestnika lub przez inny podmiot zawierający transakcje:
+
+- **1)** na rynku regulowanym,
+- **2)** ASO, 2a) na OTF,
+- **3)** poza systemem obrotu instrumentami finansowymi jeżeli są one rozliczane przez podmiot rozliczający na rzecz innego uczestnika lub na rzecz podmiotu rozliczającego, na zasadach określonych regulaminie podmiotu rozliczającego.
+
+2a. Środki prawne, o których mowa ust. 1, nie powodują wygaśnięcia pełnomocnictw udzielonych podmiotowi prowadzącemu system rozrachunku albo uczestnikowi tego podmiotu ani pełnomocnictw udzielonych przez uczestnika podmiotu, wobec którego środki te zostały zastosowane, upoważniających do składania zleceń rozrachunku imieniu tego uczestnika.
+
+2b. Środki prawne, o których mowa ust. 1, nie wpływają na uprawnienia podmiotu rozliczającego, określone regulaminie podmiotu rozliczającego polegające na:
+
+- **1)** rozwiązaniu umowy o uczestnictwo podmiocie rozliczającym wraz z umowami, których podmiot ten stał się stroną wyniku nowacji rozliczeniowej transakcji przyjętych do rozliczenia na podstawie umowy o uczestnictwo podmiocie rozliczającym;
+- **2)** powstrzymaniu się od wykonania umowy o uczestnictwo podmiocie rozliczającym.
+
+2c. Środki prawne, o których mowa ust. 1, nie wpływają na uprawnienia podmiotu rozliczającego do potrącenia lub kompensacji wierzytelności wynikających z:
+
+- **1)** rozliczenia transakcji, o których mowa ust. 1,
+- **2)** tytułu zabezpieczeń ustanowionych na rzecz podmiotu rozliczającego lub innego uczestnika,
+- **3)** tytułu uczestnictwa systemie gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji, o których mowa ust. 1 ‒ na zasadach określonych regulaminie podmiotu rozliczającego.
+- **1)** podmiotu rozliczającego oraz
+- **2)** uczestnika ‒ wynikające z zamieszczonej umowie o uczestnictwo podmiocie rozliczającym klauzuli określającej zasady rozliczenia stron z tytułu rozwiązania umowy o uczestnictwo podmiocie rozliczającym oraz umów, których podmiot rozliczający stał się stroną wyniku nowacji rozliczeniowej transakcji przyjętych do rozliczenia na podstawie umowy o uczestnictwo podmiocie rozliczającym związku z zastosowaniem środków, o których mowa ust. 1, wobec podmiotu rozliczającego lub uczestnika tego podmiotu.
+
+3. Podmiot przeprowadzający rozrachunek transakcji jest uprawniony do wykorzystania:
+
+- **1)** środków, o których mowa ust. 1, należących do podmiotu zawierającego transakcję, o którym mowa art. 45g ust. 1, oraz
+- **2)** ustanowionego przez ten podmiot zabezpieczenia, o którym mowa ust. 2 celu dokonania rozrachunku zawartej przez ten podmiot transakcji, także przypadku, gdy jej rozliczenie następuje sposób, o którym mowa art. 45h.
+
+4. Przepis ust. 1 stosuje się także przypadku, gdy system rejestracji papierów wartościowych jest prowadzony przez Narodowy Bank Polski.
+
+**Art. 45f.**
+
+1. W przypadku braku środków na koncie depozytowym, rachunku bankowym wskazanym przez stronę rozliczenia, rachunku zbiorczym, rachunku papierów wartościowych lub rachunku pieniężnym uczestnika będącego stroną transakcji albo stroną rozliczenia, potrzebnych do przeprowadzenia rozrachunku transakcji, podmiot przeprowadzający rozrachunek określa transakcje, których rozrachunek ulega zawieszeniu.
+
+2. System gwarantowania, o którym mowa art. 59 ust. 2, lub system zabezpieczania, o którym mowa art. 68c ust. 2, może przewidywać niespełnienie świadczeń na rzecz uczestnika, który spowodował zawieszenie rozrachunku transakcji.
+
+**Art. 45g.**
+
+1. Podmiot zawierający transakcje podlegające rozliczeniu, niebędący uczestnikiem zobowiązanym do wykonywania obowiązków wynikających z rozliczania tych transakcji, może wykonywać prawa lub obowiązki wynikające z tych transakcji wyłącznie za pośrednictwem uczestnika będącego stroną rozliczenia, na zasadach określonych ustawie oraz regulaminie podmiotu rozliczającego.
+
+2. W przypadku gdy rozliczanie transakcji następuje sposób, o którym mowa art. 45h, przed rozpoczęciem wykonywania przez uczestnika będącego stroną rozliczenia obowiązków wynikających z rozliczeń transakcji, o których mowa ust. 1, jest on obowiązany do:
+
+- **1)** uzyskania od podmiotu zawierającego transakcje pisemnego oświadczenia, którym wyraża on zgodę na wykonywanie przez tego uczestnika obowiązków wynikających z rozliczeń zawieranych przez niego transakcji;
+- **2)** przekazania oświadczenia, o którym mowa pkt 1, podmiotowi rozliczającemu.
+
+3. W przypadku, o którym mowa ust. 1 i 2:
+
+- **1)** podmiot rozliczający staje się uprawniony do żądania spełnienia świadczeń wynikających z transakcji zawartych przez podmiot, o którym mowa ust. 1, wobec uczestnika będącego stroną rozliczenia;
+- **2)** uczestnik będący stroną rozliczenia nie może powoływać się wobec podmiotu rozliczającego na zarzuty związane ze stosunkiem prawnym łączącym go z podmiotem zawierającym transakcje.
+
+4. Cofnięcie zgody, o której mowa ust. 2 pkt 1, lub zajście innego zdarzenia prawnego, które powoduje brak podstaw prawnych do dalszego wykonywania przez uczestnika będącego stroną rozliczenia praw lub obowiązków wynikających z transakcji zawieranych przez podmiot udzielający zgody, wywołuje skutki prawne od chwili wygaśnięcia zobowiązania tego uczestnika wobec podmiotu rozliczającego do wypełniania obowiązków związanych z rozliczaniem tych transakcji. Z chwilą powzięcia przez uczestnika będącego stroną rozliczenia wiadomości o odwołaniu zgody albo o innym zdarzeniu prawnym, które powoduje brak podstaw prawnych do dalszego wykonywania przez uczestnika będącego stroną rozliczenia obowiązków wynikających z transakcji zawieranych przez podmiot udzielający zgody, jest on obowiązany niezwłocznie wystąpić o rozwiązanie lub zmianę umowy o uczestnictwo podmiocie rozliczającym tym zakresie.
+
+5. Rozwiązanie lub zmiana umowy o uczestnictwo podmiocie rozliczającym, zawartej przez uczestnika będącego stroną rozliczenia transakcji zawieranych przez inny podmiot, nie ma wpływu na obowiązki wynikające z rozliczeń transakcji, które zostały zawarte przed jej rozwiązaniem lub zmianą. strony transakcji względem:
+
+- **1)** drugiej strony transakcji jeżeli druga strona transakcji jest uczestnikiem i zobowiązała się wobec podmiotu rozliczającego do wykonywania obowiązków wynikających z rozliczania zawieranych przez nią transakcji albo
+- **2)** uczestnika będącego drugą stroną rozliczenia transakcji przypadku, o którym mowa art. 45g.
+
+2. Z chwilą przyjęcia transakcji do rozliczenia sposób, o którym mowa ust. 1, prawa i obowiązki z niej wynikające wygasają, a to miejsce:
+
+- **1)** przypadku, o którym mowa ust. 1 pkt 1 strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji stosunku do podmiotu rozliczającego albo
+- **2)** przypadku, o którym mowa ust. 1 pkt 2:
+    - **a)** strona transakcji staje się uprawniona lub zobowiązana zgodnie z treścią tej transakcji stosunku do uczestnika, który na podstawie zawartej z nią umowy zobowiązał się do wykonywania zadań uczestnika będącego stroną rozliczenia zawieranych przez nią transakcji,
+    - **b)** uczestnik, o którym mowa lit. a, staje się uprawniony lub zobowiązany zgodnie z treścią tej transakcji stosunku do podmiotu rozliczającego (nowacja rozliczeniowa).
+
+3. Wykonanie zobowiązań, o których mowa ust. 2 pkt 1 oraz pkt 2 lit. b, następuje poprzez spełnienie ustalonego wyniku rozliczenia transakcji świadczenia rozliczeniowego, którym jest:
+
+- **1)** świadczenie należne z tytułu transakcji, którą wstąpił podmiot rozliczający albo
+- **2)** suma świadczeń tego samego rodzaju, o których mowa pkt 1, do których podmiot rozliczający jest uprawniony wobec podmiotu, o którym mowa ust. 1, pomniejszona o sumę świadczeń tego samego rodzaju, o których mowa pkt 1, do których spełnienia podmiot rozliczający jest zobowiązany wobec tego podmiotu, albo
+- **3)** suma świadczeń tego samego rodzaju, o których mowa pkt 1, do których podmiot, o którym mowa ust. 1, jest uprawniony wobec podmiotu rozliczającego, pomniejszona o sumę świadczeń tego samego rodzaju, o których mowa pkt 1, do których spełnienia podmiot ten jest zobowiązany wobec podmiotu rozliczającego. Podmiot rozliczający jest uprawniony do pomniejszenia świadczenia rozliczeniowego o świadczenie tego samego rodzaju należne z tytułu uczestnictwa podmiotu, o którym mowa ust. 1, systemie gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji.
+
+4. Regulamin podmiotu rozliczającego określa rodzaje transakcji, które podlegają rozliczeniu sposób, o którym mowa ust. 1, warunki oraz moment przyjęcia tych transakcji do rozliczenia, a także zakres odpowiedzialności podmiotu rozliczającego z tytułu niewykonania lub nienależytego wykonania zobowiązań wynikających z tych transakcji. Regulamin podmiotu rozliczającego może także określać szczególne przypadki, których ze względu na bezpieczeństwo i płynność rozliczeń, zobowiązanie do spełnienia świadczenia rozliczeniowego wygasa przez spełnienie innego świadczenia (świadczenie zastępcze). Wysokość świadczenia zastępczego powinna zostać określona sposób, który nie prowadzi do pokrzywdzenia podmiotu uprawnionego do jego otrzymania. Do świadczenia zastępczego stosuje się odpowiednio przepis ust. 3 zdanie drugie.
+
+5. W przypadku, o którym mowa ust. 1 pkt 2, uczestnik będący stroną rozliczenia jest uprawniony do spełnienia świadczenia rozliczeniowego ze środków pieniężnych lub instrumentów finansowych podmiotu, który zawarł transakcję.
+
+6. Skierowanie przez strony transakcji do rozliczenia oznacza, że wyrażają one zgodę na zasady i sposób jej rozliczenia określone regulaminie podmiotu rozliczającego.
+
+7. Od chwili przyjęcia transakcji do rozliczenia przez podmiot rozliczający uczestnik będący stroną rozliczenia i podmiot rozliczający mogą powoływać się wyłącznie na zarzuty wynikające ze stosunków prawnych powstałych miejsce zawartych transakcji, z uwzględnieniem przepisu art. 45g ust. 3 pkt 2.
+
+8. Jeżeli dniu albo po dniu dokonania rozrachunku transakcji zawartej przez podmiot niebędący stroną rozliczenia, lecz przed dniem zapisania na rachunku papierów wartościowych tego podmiotu nabywanych przez niego wyniku tej transakcji papierów wartościowych, nastąpiło ustalenie prawa do pożytków z tych papierów, uczestnik będący stroną rozliczenia z chwilą otrzymania tych pożytków staje się zobowiązany do ich wydania stronie transakcji.
+
+9. Zobowiązanie, o którym mowa ust. 2 pkt 2 lit. a, staje się wymagalne z dniem dokonania rozrachunku transakcji. o którym mowa w:
+
+- **1)** ust. 1 pkt 1 poprzez, odpowiednio, uznanie konta depozytowego albo rachunku papierów wartościowych, wskazanego przez stronę transakcji podmiotowi rozliczającemu;
+- **2)** ust. 1 pkt 2 poprzez uznanie konta depozytowego, wskazanego przez uczestnika będącego stroną rozliczenia podmiotowi rozliczającemu, któremu odpowiada rachunek papierów wartościowych prowadzony dla strony transakcji.
+
+11. Nabycie papierów wartościowych będących przedmiotem transakcji na podstawie ust. 2 pkt 2 przez uczestnika będącego stroną rozliczenia tej transakcji powoduje powstanie po stronie tego uczestnika obowiązków określonych przepisach rozdziału 4 ustawy o ofercie publicznej wyłącznie przypadku, gdy papiery te pozostają zapisane na jego rachunku papierów wartościowych dniu następującym po dniu rozrachunku tej transakcji. Przepis ten stosuje się odpowiednio do nabycia papierów wartościowych przez podmiot rozliczający na podstawie ust. 2.
+
+12. Do nowacji rozliczeniowej nie stosuje się przepisów art. 506–525 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+13. Nowacja rozliczeniowa następująca ramach rozliczenia transakcji, której przedmiotem jest przeniesienie instrumentów finansowych, nie stanowi sprzedaży ani pożyczki rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+14. W przypadku ogłoszenia upadłości podmiotu rozliczającego, przepis art. 85 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe stosuje się odpowiednio do transakcji rozliczanych sposób, o którym mowa ust. 1 i 2.
+
+15. W przypadku otwarcia wobec podmiotu rozliczającego przyspieszonego postępowania układowego, postępowania układowego lub postępowania sanacyjnego przepisy art. 250 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne (Dz. U. z 2022 r. poz. 2309 oraz z 2023 r. poz. 1723 i 1860) stosuje się odpowiednio do transakcji rozliczanych sposób, o którym mowa ust. 1 i 2.
+
+**Art. 45i.** Podmiotowi uprawnionemu do prowadzenia rachunku derywatów oraz podmiotowi, który zamierza prowadzić takie rachunki na podstawie art. 117 i spełniają wymogi określone regulaminie podmiotu rozliczającego, przysługują roszczenia o zawarcie umowy o uczestnictwo tym podmiocie rozliczającym.
+
+**Art. 46.**
+
+1. Krajowy Depozyt działa formie spółki akcyjnej.
+
+2. Akcje Krajowego Depozytu mogą być wyłącznie imienne.
+
+3. Akcjonariuszami Krajowego Depozytu mogą być: spółki prowadzące rynek regulowany, firmy inwestycyjne, banki, Skarb Państwa, Narodowy Bank Polski, międzynarodowe instytucje finansowe, których członkiem jest Rzeczpospolita Polska, a także osoby prawne lub inne jednostki organizacyjne, które prowadzą działalność zakresie rejestrowania papierów wartościowych, rozliczania lub rozrachunku transakcji zawieranych obrocie papierami wartościowymi lub organizowania rynku regulowanego, posiadające siedzibę na terytorium państwa członkowskiego lub państwa należącego do OECD i podlegające nadzorowi właściwego organu nadzoru tego państwa.
+
+4. (uchylony)
+
+5. W sprawach dotyczących sprawozdań zarządu Krajowego Depozytu z działalności spółki, planów działalności i planów finansowych Krajowego Depozytu, sprawozdania z działalności systemu rekompensat, o którym mowa art. 146 ust. 1, regulaminów, o których mowa art. 50 ust. 1, art. 66 ust. 2, art. 134 ust. 1, oraz innych regulacji Krajowego Depozytu wydawanych na podstawie tych regulaminów, zarząd lub rada nadzorcza Krajowego Depozytu zasięga opinii zespołu doradczego, składającego się z:
+
+- **1)** 2 przedstawicieli reprezentatywnych stowarzyszeń lub organizacji zrzeszających emitentów zdematerializowanych papierów wartościowych;
+- **2)** 2 przedstawicieli reprezentatywnych stowarzyszeń lub organizacji zrzeszających banki powiernicze;
+- **3)** 2 przedstawicieli izb gospodarczych, o których mowa art. 92 ust. 1;
+- **4)** 2 przedstawicieli podmiotów, o których mowa art. 51 ust. 3 i 4;
+- **5)** 1 przedstawiciela każdej ze spółek prowadzących rynek regulowany;
+- **6)** 1 przedstawiciela izby gospodarczej, o której mowa art. 70 ust. 1 ustawy o funduszach inwestycyjnych.
+
+6. Zespół doradczy może, z własnej inicjatywy, wydawać i przedstawiać zarządowi lub radzie nadzorczej Krajowego Depozytu opinie sprawach, o których mowa ust. 5. głosów.
+
+2. Akcjonariusze Krajowego Depozytu pozostający tej samej grupie kapitałowej są uprawnieni do wykonywania łącznie nie więcej niż 40 % ogólnej liczby głosów.
+
+**Art. 47.**
+
+1. Zawiadomienia Komisji wymaga zamiar bezpośredniego lub pośredniego nabycia lub objęcia akcji Krajowego Depozytu liczbie:
+
+- **1)** stanowiącej co najmniej 10 % ogólnej liczby głosów lub kapitału zakładowego lub
+- **2)** powodującej osiągnięcie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów lub kapitału zakładowego przy czym posiadanie akcji Krajowego Depozytu przez podmioty pozostające tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
+
+2. Przez pośrednie nabycie akcji Krajowego Depozytu rozumie się nabycie lub objęcie akcji lub udziałów podmiotu posiadającego bezpośrednio lub pośrednio akcje Krajowego Depozytu, jeżeli wyniku nabycia lub objęcia dojdzie do osiągnięcia lub przekroczenia 50 % ogólnej liczby głosów lub 50 % kapitału zakładowego tego podmiotu.
+
+3. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego bezpośredniego lub pośredniego nabycia lub objęcia akcji Krajowego Depozytu terminie 3 miesięcy od dnia dokonania zawiadomienia, o którym mowa ust. 1, przypadku gdy istnieje uzasadnione podejrzenie, że podmiot zamierzający nabyć akcje Krajowego Depozytu mógłby wywierać niekorzystny wpływ na zarządzanie tą spółką. W przypadku niezgłoszenia sprzeciwu Komisja może wyznaczyć termin, ciągu którego nabycie akcji Krajowego Depozytu może zostać dokonane.
+
+3a. Nabycie lub objęcie akcji na warunkach wskazanych zawiadomieniu może nastąpić:
+
+- **1)** po upływie terminu, o którym mowa ust. 3 przypadku niezgłoszenia sprzeciwu przez Komisję albo
+- **2)** terminie wyznaczonym przez Komisję przypadku niezgłoszenia sprzeciwu przez Komisję i wyznaczenia terminu, ciągu którego nabycie akcji Krajowego Depozytu może zostać dokonane.
+
+4. Wykonywanie prawa głosu z akcji Krajowego Depozytu nabytych lub objętych bez zawiadomienia Komisji, po dokonaniu zawiadomienia lecz przed upływem terminu, o którym mowa ust. 3, pomimo zgłoszenia przez Komisję sprzeciwu lub z naruszeniem wyznaczonego przez Komisję terminu, którym nabycie lub objęcie akcji może zostać dokonane, jest bezskuteczne.
+
+5. W przypadku gdy podmiotem nabywającym akcje Krajowego Depozytu jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego, Komisja zasięga opinii organu nadzoru, który udzielił zezwolenia na prowadzenie działalności przez te podmioty.
+
+6. Przepis ust. 5 stosuje się odpowiednio przypadku, gdy podmiotem nabywającym akcje Krajowego Depozytu jest podmiot dominujący wobec podmiotu, o którym mowa ust. 5, lub podmiot wywierający znaczny wpływ rozumieniu art. 96 ust. 3 na podmiot, o którym mowa ust. 5, a także przypadku jeżeli wyniku pośredniego nabycia podmiot, którego akcje są przedmiotem nabycia, stałby się podmiotem zależnym od nabywcy albo podmiotem, na który nabywca zacznie wywierać znaczny wpływ rozumieniu art. 96 ust. 3.
+
+7. Zawiadomienie, o którym mowa ust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyć, ich udział kapitale zakładowym oraz liczbę głosów, jaką nabywca osiągnie na walnym zgromadzeniu, oraz składane pod rygorem odpowiedzialności karnej oświadczenie o źródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+8. Niezgłoszenie przez Komisję sprzeciwu terminie, o którym mowa ust. 3, oznacza zgodę na nabycie akcji Krajowego Depozytu, na warunkach wskazanych zawiadomieniu.
+
+**Art. 47a.**
+
+1. Do zawiadomienia o planowanym nabyciu, o którym mowa art. 31 ust. 2 rozporządzenia 648/2012, dołącza się informacje dotyczące:
+
+- **1)** identyfikacji podmiotu składającego zawiadomienie, osób zarządzających jego działalnością oraz osób przewidzianych do objęcia funkcji członków zarządu CCP o ile podmiot składający zawiadomienie planuje zmiany tym zakresie;
+- **2)** identyfikacji CCP, którego dotyczy zawiadomienie; pkt 1, szczególności przedmiotu tej działalności, zakresu i miejsca jej prowadzenia oraz dotychczasowego jej przebiegu, a także wykształcenia posiadanego przez podmiot składający zawiadomienie, będący osobą fizyczną, i przez osoby, o których mowa pkt 1;
+- **4)** grupy, do której należy podmiot składający zawiadomienie, szczególności jej struktury, należących do niej podmiotów oraz prawnych i faktycznych powiązań kapitałowych, finansowych i osobowych podmiotu składającego zawiadomienie z innymi podmiotami;
+- **5)** sytuacji ekonomiczno-finansowej podmiotu składającego zawiadomienie;
+- **6)** skazania za przestępstwo lub przestępstwo skarbowe, postępowań warunkowo umorzonych i zakończonych ukaraniem postępowań dyscyplinarnych, jak również innych zakończonych postępowań administracyjnych i cywilnych, dotyczących podmiotu składającego zawiadomienie lub osób, o których mowa pkt 1, mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie świetle kryteriów określonych art. 32 ust. 1 rozporządzenia 648/2012;
+- **7)** toczących się postępowań karnych o przestępstwo umyślne z wyłączeniem przestępstw ściganych z oskarżenia prywatnego oraz postępowań sprawie o przestępstwo skarbowe, jak również innych toczących się postępowań administracyjnych, dyscyplinarnych i cywilnych, mogących mieć wpływ na ocenę podmiotu składającego zawiadomienie świetle kryteriów określonych art. 32 ust. 1 rozporządzenia 648/2012, a prowadzonych przeciwko podmiotowi składającemu zawiadomienie lub osobom, o których mowa pkt 1, oraz postępowań związanych z działalnością tego podmiotu i tych osób;
+- **8)** działań zmierzających do nabycia lub objęcia akcji, lub praw z akcji liczbie zapewniającej osiągnięcie lub przekroczenie poziomów określonych art. 31 ust. 2 rozporządzenia 648/2012 albo stania się podmiotem dominującym CCP, a szczególności docelowego udziału ogólnej liczbie głosów na walnym zgromadzeniu CCP, związanych z tym udziałem uprawnień, sposobu i źródeł finansowania nabycia lub objęcia akcji, lub praw z akcji, zawartych związku z tymi działaniami umów oraz działania porozumieniu z innymi podmiotami;
+- **9)** zamiarów podmiotu składającego zawiadomienie odniesieniu do przyszłej działalności CCP, szczególności zakresie planów marketingowych, operacyjnych, finansowych oraz dotyczących organizacji i zarządzania.
+
+2. Informacje zakresie kwalifikacji i doświadczenia zawodowego, a także informacje zakresie określonym ust. 1 pkt 6 i 7, nie są wymagane odniesieniu do podmiotu składającego zawiadomienie i osób zarządzających jego działalnością, jeżeli podmiot składający zawiadomienie:
+
+- **1)** uzyskał zezwolenie Komisji lub właściwego organu nadzoru nad rynkiem finansowym innym państwie członkowskim na wykonywanie działalności państwie członkowskim lub
+- **2)** jest spółką prowadzącą rynek regulowany, lub
+- **3)** jest spółką prowadzącą giełdę towarową lub giełdową izbę rozrachunkową rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych o ile okoliczność ta zostanie wykazana zawiadomieniu.
+
+3. Dokonując oceny, o której mowa art. 32 ust. 1 rozporządzenia 648/2012, Komisja uwzględnia szczególności złożone związku z postępowaniem zobowiązania dotyczące CCP lub ostrożnego i stabilnego nim zarządzania.
+
+4. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, dokumenty, które należy dołączyć do zawiadomienia celu przedstawienia informacji określonych ust. 1, mając na względzie zapewnienie proporcjonalności i dostosowania wymaganych informacji do okoliczności, o których mowa art. 32 ust. 4 rozporządzenia 648/2012.
+
+**Art. 47b.**
+
+1. Zawiadomienie i dołączane dokumenty powinny być sporządzone języku polskim lub przetłumaczone na język polski. Tłumaczenie powinno być sporządzone przez tłumacza przysięgłego lub właściwego konsula Rzeczypospolitej Polskiej.
+
+2. Dokumenty urzędowe przed tłumaczeniem powinny być zalegalizowane przez konsula Rzeczypospolitej Polskiej. Obowiązku legalizacji nie stosuje się, jeżeli umowa międzynarodowa, której stroną jest Rzeczpospolita Polska, stanowi inaczej.
+
+**Art. 47c.** W uzasadnionych przypadkach, szczególności gdy prawo kraju właściwego nie przewiduje sporządzania wymaganych dokumentów, podmiot składający zawiadomienie lub osoba, której sprawa dotyczy, może złożyć, miejsce tych dokumentów, oświadczenie zawierające informacje, o których mowa art. 47a ust. 1. określonego art. 31 ust. 2 rozporządzenia 648/2012 poziomu posiadanych praw głosu lub posiadanego kapitału:
+
+**Art. 47e.** W przypadku gdy wymagają tego interesy CCP oraz członków rozliczających CCP, a wnioskodawca wykaże, że spełnia wymagania, o których mowa art. 32 ust. 1 lit. a–c rozporządzenia 648/2012, oraz że nie występuje przesłanka określona art. 32 ust. 1 lit. d tego rozporządzenia, Komisja może, szczególnie uzasadnionych przypadkach, drodze decyzji wydanej na wniosek akcjonariusza, uchylić zakazy, o których mowa art. 47d ust. 1 lub 2. Do wniosku wnioskodawca dołącza informacje oraz dokumenty, które dołącza się do zawiadomienia o planowanym nabyciu, o którym mowa art. 31 ust. 2 rozporządzenia 648/2012.
+
+**Art. 47f.**
+
+- **65)** W postępowaniach prowadzonych sprawach, o których mowa art. 9–11, art. 18 i art. 19 rozporządzenia 2021/23, Komisja może odstąpić od stosowania art. 10 § 1 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego także przypadkach, gdy zastosowanie tego przepisu mogłoby uniemożliwić lub znacznie utrudnić osiągnięcie celów wczesnej interwencji.
+
+**Art. 47g.**
+
+- **65)** 1. Decyzje wydawane przez Komisję na podstawie art. 9–11, art. 18 i art. 19 rozporządzenia 2021/23 podlegają natychmiastowemu wykonaniu.
+
+2. Uzasadnienie decyzji, o której mowa ust. 1, może zostać doręczone terminie 14 dni od dnia doręczenia decyzji.
+
+3. W przypadku gdy uzasadnienie jest doręczane po doręczeniu decyzji, termin na złożenie wniosku o ponowne rozpoznanie sprawy biegnie od dnia doręczenia uzasadnienia decyzji.
+
+**Art. 47h.**
+
+- **65)** Do postępowań przed Komisją prowadzonych na podstawie art. 9–11, art. 18 i art. 19 rozporządzenia 2021/23 nie stosuje się przepisu art. 31 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. rozporządzenia 2021/23 następuje za pokwitowaniem przez operatora wyznaczonego rozumieniu art. 3 pkt 13 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2023 r. poz. 1640) albo na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych (Dz. U. z 2023 r. poz. 285, 1860 i 2699), CCP, wpisany do bazy adresów elektronicznych, o której mowa art. 25 tej ustawy.
+
+2. W przypadku ustanowienia pełnomocnika pełnomocnictwo powinno określać adres do doręczeń elektronicznych pełnomocnika, wpisany do bazy adresów elektronicznych. W przypadku braku podania adresu do doręczeń elektronicznych pełnomocnictwie doręczenie pisma na adres do doręczeń elektronicznych CCP, który ustanowił pełnomocnika, wpisany do bazy adresów elektronicznych, ma skutek prawny.
+
+3. W przypadku nieodebrania pisma doręczanego na adres do doręczeń elektronicznych wpisany do bazy adresów elektronicznych doręczenie uważa się za dokonane po upływie 2 dni roboczych, licząc od dnia wystawienia dowodu wysłania, o którym mowa art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
+**Art. 48.**
+
+1. Do zadań Krajowego Depozytu należy:
+
+- **1)** prowadzenie depozytu papierów wartościowych;
+- **2)** wykonywanie czynności zakresie prowadzenia systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi ani instrumentami pochodnymi, które zostały dopuszczone do obrotu na rynku regulowanym lub wprowadzone do ASO;
+- **3)** nadzorowanie zgodności wielkości emisji z liczbą papierów wartościowych, zarejestrowanych depozycie papierów wartościowych, znajdujących się obrocie;
+- **4)** obsługa realizacji zobowiązań emitentów wobec uprawnionych z papierów wartościowych zarejestrowanych depozycie papierów wartościowych;
+- **5)** wykonywanie czynności związanych z wycofywaniem papierów wartościowych z depozytu papierów wartościowych;
+- **6)** dokonywanie rozrachunku instrumentach finansowych i środkach pieniężnych związku z transakcjami zawieranymi na rynku regulowanym oraz transakcjami zawieranymi ASO zakresie instrumentów finansowych zarejestrowanych Krajowym Depozycie;
+- **7)** zapewnienie prawidłowego funkcjonowania obowiązkowego systemu rekompensat, o którym mowa art. 133 ust. 1.
+
+2. Do zadań Krajowego Depozytu może należeć również:
+
+- **1)** rozliczanie transakcji zawieranych na rynku regulowanym;
+- **2)** rozliczanie transakcji zawieranych ASO lub na OTF zakresie instrumentów finansowych;
+- **3)** prowadzenie systemu zabezpieczania płynności rozliczeń, tym systemu gwarantowania rozliczeń transakcji zawartych na rynku regulowanym;
+- **4)** wykonywanie czynności przewidzianych dla systemu rozliczeniowego, o których mowa art. 3 ust. 1 pkt 31 rozporządzenia 1031/2010, oraz czynności przewidzianych dla systemu rozrachunkowego, o których mowa art. 3 ust. 1 pkt 36 rozporządzenia 1031/2010, na zasadach określonych tym rozporządzeniu, na podstawie umowy z podmiotem prowadzącym platformę aukcyjną.
+
+3. Krajowy Depozyt może również:
+
+- **1)** rejestrować inne instrumenty finansowe niż określone ust. 1;
+- **2)** dokonywać rozliczenia i rozrachunku transakcji innych niż zawierane systemie obrotu instrumentami finansowymi;
+- **3)** prowadzić system zabezpieczania płynności rozliczeń transakcji, o których mowa pkt 2.
+
+4. Krajowy Depozyt może obsługiwać obrót papierami wartościowymi innymi niż zdematerializowane. Do obsługi tej stosuje się odpowiednio przepisy dotyczące prowadzenia depozytu papierów wartościowych, chyba że ustawa stanowi inaczej.
+
+5. Krajowy Depozyt może prowadzić rachunki pieniężne, dokonywać rozliczeń pieniężnych, udzielać pożyczek oraz uczestniczyć rozrachunkach dokonywanych przez Narodowy Bank Polski na zasadach stosowanych przypadku rozrachunków międzybankowych, zakresie niezbędnym do realizacji zadań określonych ust. 1–3.
+
+- **1)** na zasadach określonych odrębnym regulaminie, gromadzić i przechowywać informacje dotyczące transakcji, których przedmiotem są instrumenty finansowe, oraz informacje dotyczące tych instrumentów (repozytorium transakcji);
+- **2)** prowadzić działalność zakresie nadawania identyfikatorów, o których mowa art. 3 ust. 1 i 2 rozporządzenia wykonawczego Komisji (UE) nr 1247/2012 z dnia 19 grudnia 2012 r. ustanawiającego wykonawcze standardy techniczne odniesieniu do formatu i częstotliwości dokonywania zgłoszeń dotyczących transakcji do repozytoriów transakcji zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 648/2012 sprawie instrumentów pochodnych będących przedmiotem obrotu poza rynkiem regulowanym, kontrahentów centralnych i repozytoriów transakcji (Dz. Urz. UE L 352 z 21.12.2012, str. 20);
+- **3)** prowadzić działalność jako dostawca usług zakresie udostępniania informacji.
+
+5b. (uchylony) 5c. (uchylony) 5d. (uchylony) 5e. Krajowy Depozyt gromadzi i udostępnia do publicznej wiadomości informacje o nieumorzonych obligacjach, listach zastawnych oraz certyfikatach inwestycyjnych wyemitowanych przez poszczególnych emitentów posiadających siedzibę na terytorium Rzeczypospolitej Polskiej, informacje dotyczące wielkości ich zobowiązań z tytułu tych papierów wartościowych, a także informacje pozwalające ustalić zakres i terminowość wykonywania przez nich tych zobowiązań.
+
+6. Minimalna wysokość kapitału własnego Krajowego Depozytu wynosi:
+
+- **1)** 20 000 000 zł przypadku gdy pełni on wyłącznie funkcje, o których mowa ust. 1 oraz ust. 3 pkt 1;
+- **2)** 30 000 000 zł przypadku gdy pełni on także co najmniej jedną z funkcji, o których mowa ust. 2 oraz ust. 3 pkt 2 i 3.
+
+7. Zadania, o których mowa ust. 1 pkt 1–6, ust. 2 i ust. 3 pkt 2 i 3, mogą być wykonywane także przez spółkę akcyjną będącą podmiotem zależnym od Krajowego Depozytu, której Krajowy Depozyt przekazał drodze pisemnej umowy wykonywanie czynności z zakresu tych zadań. Krajowy Depozyt niezwłocznie informuje Komisję o zawarciu takiej umowy, wskazując podmiot, któremu jest przekazywane wykonywanie czynności oraz zakres tych czynności, jak również niezwłocznie informuje Komisję o zmianie lub rozwiązaniu takiej umowy.
+
+8. Przekazanie przez Krajowy Depozyt wykonywania czynności z zakresu zadań, o których mowa ust. 2 pkt 1 albo ust. 3 pkt 2, musi obejmować również przekazanie czynności z zakresu zadań, o których mowa odpowiednio ust. 2 pkt 3 albo ust. 3 pkt 3.
+
+9. Minimalna wysokość kapitału własnego spółki, o której mowa ust. 7, wynosi:
+
+- **1)** 20 000 000 zł przypadku gdy wykonuje ona wyłącznie czynności z zakresu zadań, o których mowa ust. 1 pkt 1–6;
+- **2)** 10 000 000 zł przypadku gdy wykonuje ona wyłącznie czynności z zakresu zadań, o których mowa ust. 2;
+- **3)** 30 000 000 zł przypadku gdy wykonuje ona czynności z zakresu zadań, o których mowa ust. 1 pkt 1–6 i ust. 2.
+
+10. Spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa w:
+
+- **1)** ust. 1 pkt 1–6 może również rejestrować inne instrumenty finansowe niż określone ust. 1 pkt 1 oraz dokonywać rozrachunku transakcji zawieranych poza obrotem zorganizowanym;
+- **2)** ust. 2 może również rozliczać transakcje zawierane poza obrotem zorganizowanym oraz prowadzić system zabezpieczania płynności rozliczeń takich transakcji.
+
+11. Prawa i obowiązki Krajowego Depozytu wynikające z umów, których przedmiotem jest rejestracja papierów wartościowych lub innych instrumentów finansowych depozycie papierów wartościowych, zawartych z emitentami lub wystawcami, przejmuje spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa ust. 1 pkt 1–6, która staje się stroną tych umów miejsce Krajowego Depozytu.
+
+12. Prawa i obowiązki Krajowego Depozytu wynikające z umów o uczestnictwo, o których mowa art. 52 ust. 1:
+
+- **1)** zakresie dotyczącym rozliczeń transakcji i organizowania systemu zabezpieczania płynności rozliczeń przejmuje spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa ust. 2 lub ust. 3 pkt 2 i 3, która tym zakresie staje się stroną tych umów miejsce Krajowego Depozytu oraz podmiotem tworzącym i prowadzącym fundusz zabezpieczający, o którym mowa art. 65 ust. 1 pkt 1, lub fundusz zabezpieczający, o którym mowa art. 65 ust. 1 pkt 2 przypadku jego utworzenia przez Krajowy Depozyt;
+- **2)** zakresie dotyczącym prowadzenia kont depozytowych, rachunków zbiorczych i rachunków papierów wartościowych dla uczestników przejmuje spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa ust. 1 pkt 1–6, która tym zakresie staje się stroną tych umów miejsce Krajowego Depozytu. ności z zakresu zadań, o których mowa ust. 1 pkt 1–6, papiery wartościowe i inne instrumenty finansowe są przenoszone z kont depozytowych, rachunków zbiorczych i rachunków papierów wartościowych prowadzonych przez Krajowy Depozyt na odpowiednie konta i rachunki prowadzone przez spółkę, której zostało przekazane wykonywanie tych czynności.
+
+14. W przypadku zawarcia umowy, o której mowa ust. 7, której przedmiotem jest przekazanie wykonywania czynności z zakresu zadań, o których mowa ust. 2 lub ust. 3 pkt 2 i 3, Krajowy Depozyt stawia do dyspozycji spółce, której zostało przekazane wykonywanie tych czynności, odpowiednio aktywa wchodzące skład funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, lub skład funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 2 przypadku jego utworzenia przez Krajowy Depozyt.
+
+15. Rada nadzorcza spółki, której zostało przekazane wykonywanie czynności z zakresu zadań, o których mowa ust. 1 pkt 1–6 lub ust. 2, lub ust. 3 pkt 2 i 3, na wniosek zarządu tej spółki, uchwala regulamin wykonywanych czynności, do którego stosuje się odpowiednio przepisy art. 50 ust. 4–6.
+
+16. Regulamin, o którym mowa ust. 15, oraz jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, zakresie wskazanym art. 45h ust. 4 oraz art. 50 ust. 4 pkt 1, 4–5, 11, 12 i 14 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. Przepis art. 50 ust. 3 stosuje się odpowiednio.
+
+17. Przepisu ust. 16 nie stosuje się przypadku gdy regulamin, o którym mowa ust. 15, oraz jego zmiany są załącznikiem do wniosku, o którym mowa art. 15 ust. 1, art. 17 ust. 1 lub art. 49 ust. 1 i 1a rozporządzenia 648/2012.
+
+**Art. 49.** (uchylony)
+
+**Art. 50.**
+
+1. Rada nadzorcza Krajowego Depozytu, na wniosek zarządu, uchwala regulamin Krajowego Depozytu.
+
+2. Regulamin Krajowego Depozytu i jego zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, zakresie wskazanym ust. 4 pkt 1, 4–5, 11, 12 i 14 oraz art. 45h ust. 4 następuje po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego.
+
+3. Komisja odmawia zatwierdzenia zmian regulaminu Krajowego Depozytu, jeżeli proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
+
+4. W zakresie czynności wykonywanych przez Krajowy Depozyt, regulamin określa szczególności:
+
+- **1)** prawa i obowiązki uczestników, tryb i szczegółowe zasady postępowania związku z nabywaniem lub utratą statusu uczestnika;
+- **2)** sposób rejestracji instrumentów finansowych Krajowym Depozycie, jak również prowadzenia przez uczestników rachunków papierów wartościowych, rachunków zbiorczych i innych rachunków związanych z obsługą rachunków papierów wartościowych;
+- **3)** zasady dokonywania redukcji wartości lub liczby akcji oraz tryb dokonywania przez emitenta zwrotu wartości akcji zakresie przeprowadzonej redukcji, przypadku o którym mowa art. 56;
+- **4)** sposób i tryb rozliczania transakcji;
+- **4a)** procedury stosowane na wypadek niedostarczenia odpowiednim terminie papierów wartościowych niezbędnych do dokonania rozrachunku transakcji, spełniające wymogi określone art. 15 rozporządzenia 236/2012;
+- **5)** sposób obsługi rachunków pieniężnych uczestników;
+- **6)** sposób obsługi realizacji zobowiązań emitentów wobec uprawnionych z papierów wartościowych;
+- **7)** tryb wystawiania przez Krajowy Depozyt świadectw oraz zaświadczeń, o których mowa art. 406 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **7a)** sposób i formę sporządzania, przekazywania oraz udostępniania wykazów, o których mowa art. 406 § 4 i 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **8)** sposób naliczania i wysokość opłat, o których mowa art. 63, z zastrzeżeniem ust. 4a;
+- **9)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec uczestników naruszających obowiązki wynikające z uczestnictwa, oraz zasady i tryb ich stosowania;
+    - **a)** nadzorem nad zgodnością wielkości emisji rejestrowanej przez Krajowy Depozyt z liczbą papierów wartościowych znajdujących się obrocie,
+    - **b)** kontrolą uczestników zakresie podejmowanych przez nich czynności obrocie papierami wartościowymi;
+
+- **11)** sposób funkcjonowania systemu rozliczeń i rozrachunku;
+- **12)** sposób organizacji systemu zabezpieczenia płynności rozliczania transakcji, szczególności określający system gwarantowania rozliczeń transakcji zawieranych na rynku regulowanym;
+- **13)** zasady funkcjonowania zespołu doradczego, o którym mowa art. 46 ust. 5;
+- **14)** moment wprowadzenia zlecenia rozrachunku do systemu rozrachunku oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane przez uczestnika lub osobę trzecią.
+
+4a. Regulamin Krajowego Depozytu może stanowić, że wysokość opłat pobieranych przez Krajowy Depozyt za czynności, których przedmiotem są papiery wartościowe rejestrowane depozycie papierów wartościowych za pośrednictwem podmiotu wykonującego poza terytorium Rzeczypospolitej Polskiej zadania zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych obrocie papierami wartościowymi albo uprawnionego do prowadzenia poza terytorium Rzeczypospolitej Polskiej rachunków, na których są rejestrowane papiery wartościowe, a także za czynności związane z obsługą realizacji praw wynikających z papierów wartościowych rejestrowanych ten sposób, podlega powiększeniu o koszty usług obcych ponoszone przez Krajowy Depozyt związku z wykonywaniem tych czynności przy udziale tego podmiotu. W takim przypadku zarząd Krajowego Depozytu podaje do wiadomości uczestników, z co najmniej dwutygodniowym wyprzedzeniem, informację o wysokości kosztów, o które powiększane są poszczególne opłaty określone regulaminie Krajowego Depozytu.
+
+5. Regulamin Krajowego Depozytu, jego zmiany oraz inne, wydane na podstawie regulaminu regulacje dotyczące praw i obowiązków uczestników, Krajowy Depozyt udostępnia do wiadomości uczestników co najmniej na 2 tygodnie przed dniem ich wejścia życie.
+
+6. W przypadku, jeżeli zmiany regulaminu Krajowego Depozytu nie ograniczają praw ani nie zwiększają obowiązków uczestników, Komisja może zezwolić na skrócenie czasu ich wejścia życie.
+
+**Art. 51.**
+
+1. Zadania, o których mowa art. 48 ust. 1 i 2, Krajowy Depozyt oraz spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu tych zadań, wykonują współdziałając z uczestnikami.
+
+2. Uczestnikami mogą być podmioty, których przedmiot przedsiębiorstwa obejmuje prowadzenie rachunków papierów wartościowych lub rachunków zbiorczych, emitenci zdematerializowanych papierów wartościowych, jak również inne instytucje finansowe, jeżeli ich uczestnictwo ma na celu współdziałanie z Krajowym Depozytem lub spółką, o której mowa ust. 1, zakresie wykonywania zadań, o których mowa art. 48 ust. 1 i 2.
+
+3. Uczestnikami mogą być również osoby prawne lub inne jednostki organizacyjne z siedzibą poza terytorium Rzeczypospolitej Polskiej, wykonujące zadania zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych obrocie papierami wartościowymi, z zastrzeżeniem że podmioty, których działalność nie podlega nadzorowi właściwego organu sprawującego nadzór nad instytucjami finansowymi państwie członkowskim albo państwie należącym do OECD, mogą być uczestnikami za zgodą i na warunkach określonych przez Komisję.
+
+4. Uczestnikami mogą być także zagraniczne firmy inwestycyjne oraz zagraniczne osoby prawne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej, a ponadto podmioty, dla których Krajowym Depozycie lub spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, mogą być prowadzone rachunki zbiorcze.
+
+5. Uczestnikami CCP mogą być także osoby prawne będące kontrahentami niefinansowymi rozumieniu art. 2 pkt 9 rozporządzenia 648/2012, jeżeli są stronami transakcji oraz jeżeli ich uczestnictwo ma na celu współdziałanie z CCP zakresie wykonywania zadań, o których mowa art. 48 ust. 2 lub 3.
+
+**Art. 52.**
+
+1. Uczestnictwo powstaje przez zawarcie z Krajowym Depozytem umowy o uczestnictwo depozycie papierów wartościowych, zwanej dalej „umową o uczestnictwo”.
+
+2. Podmiotowi, który uzyskał zezwolenie Komisji na prowadzenie rachunków papierów wartościowych i rachunków zbiorczych lub który zamierza prowadzić takie rachunki na podstawie art. 117 i spełnia wymogi określone regulaminie Krajowego Depozytu, przysługuje roszczenie o zawarcie umowy o uczestnictwo. uprawniony, terminie 2 tygodni od dnia złożenia tego oświadczenia, chyba że zarząd Krajowego Depozytu podejmie tym terminie uchwałę o odmowie jej zawarcia.
+
+4. Od uchwały zarządu odmawiającej zawarcia umowy o uczestnictwo przysługuje odwołanie do rady nadzorczej Krajowego Depozytu. Rada nadzorcza rozpatruje odwołanie terminie 2 tygodni od dnia jego złożenia.
+
+5. Przepisy ust. 1–4 stosuje się odpowiednio, z zastrzeżeniem art. 48 ust. 12, do uczestnictwa spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1.
+
+**Art. 53.**
+
+1. W razie ograniczenia lub pozbawienia uczestnictwa danego podmiotu Krajowym Depozycie, przypadkach określonych regulaminie Krajowego Depozytu, spółka prowadząca rynek regulowany jest obowiązana do ograniczenia albo zawieszenia działania uczestnika na rynku regulowanym, chyba że inny uczestnik będzie wykonywał zadania związane z rozliczaniem lub rozrachunkiem transakcji.
+
+2. O ograniczeniu albo pozbawieniu uczestnictwa Krajowy Depozyt informuje niezwłocznie spółkę prowadzącą rynek regulowany.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 6 lub ust. 2 pkt 1, oraz do uczestnictwa tej spółce.
+
+**Art. 54.**
+
+1. Krajowy Depozyt związku z wykonywaniem zadań, o których mowa art. 48 ust. 1 pkt 4 i 5, może otrzymywać od uczestników dane umożliwiające identyfikację ich klientów uprawnionych z określonych papierów wartościowych oraz wskazujące stany ich posiadania tych papierach wartościowych, według stanu na dany dzień, a związku z wykonywaniem zadań, o których mowa art. 48 ust. 1 pkt 7 i ust. 2 pkt 3, Krajowy Depozyt może żądać od uczestnika przekazania tych danych oraz tych stanów.
+
+2. Krajowy Depozyt może przekazać informacje umożliwiające identyfikację osób uprawnionych z papierów wartościowych oraz wskazujące stany ich posiadania tych papierach wartościowych, według stanu na dany dzień, jeżeli na podstawie właściwego prawa obcego informacji takich może żądać od Krajowego Depozytu emitent papierów wartościowych, podmiot wykonujący poza terytorium Rzeczypospolitej Polskiej zadania zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych obrocie papierami wartościowymi albo uprawniony do prowadzenia poza terytorium Rzeczypospolitej Polskiej rachunków, na których rejestrowane są papiery wartościowe, za pośrednictwem którego papiery wartościowe, których dotyczą te informacje, są rejestrowane depozycie papierów wartościowych.
+
+3. W przypadku, o którym mowa ust. 2, Krajowy Depozyt może żądać od uczestnika przekazania informacji umożliwiających identyfikację osób uprawnionych z papierów wartościowych oraz wskazujących stany ich posiadania tych papierach wartościowych, według stanu na dany dzień.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 4 lub 5 oraz ust. 2 pkt 3, zakresie zadań, które zostały przekazane tej spółce.
+
+**Art. 55.**
+
+1. Papierom wartościowym danej emisji dającym te same uprawnienia i posiadającym ten sam status obrocie Krajowy Depozyt nadaje odrębne oznaczenie, zwane dalej „kodem”.
+
+2. Na wniosek emitenta papierom wartościowym różnych emisji dającym te same uprawnienia ich posiadaczom i posiadającym ten sam status obrocie Krajowy Depozyt może nadać jeden kod, jeżeli uprzednio zawiadomił o tym spółkę prowadzącą rynek regulowany, na którym papiery te są przedmiotem obrotu, lub podmiot organizujący dla nich ASO.
+
+2a. Przepisy ust. 1 i 2 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie tych czynności przypadku, gdy papiery wartościowe są rejestrowane depozycie papierów wartościowych prowadzonym przez tę spółkę.
+
+3. Emitent nie może różnicować praw z papierów wartościowych oznaczonych tym samym kodem. Zmiana praw z papierów wartościowych oznaczonych tym samym kodem wymaga nadania odrębnego kodu.
+
+**Art. 56.**
+
+1. W przypadku gdy:
+
+- **1)** zostało uchylone postanowienie sądu o wpisie podwyższenia kapitału zakładowego spółki publicznej do rejestru przedsiębiorców lub
+- **2)** uchwała walnego zgromadzenia o podwyższeniu tego kapitału została uchylona albo stwierdzono jej nieważność a akcje wyemitowane wyniku podwyższenia zostały uprzednio objęte tym samym kodem razem z innymi akcjami tej spółki, depozycie papierów wartościowych przeprowadzana jest redukcja wartości nominalnej wszystkich akcji oznaczonych tym kodem.
+
+2. Jeżeli nie jest możliwe przeprowadzenie redukcji, o której mowa ust. 1, depozycie papierów wartościowych przeprowadzana jest redukcja ogólnej liczby akcji oznaczonych danym kodem. Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, właściwy sąd rejestrowy dokonuje odpowiedniej zmiany rejestrze przedsiębiorców, a następnie wzywa właściwą spółkę do dostosowania określonym terminie brzmienia statutu do zmienionego stanu prawnego.
+
+4. Spółka publiczna jest obowiązana do zwrotu akcjonariuszom środków uzyskanych wyniku emisji akcji, które są zapisane na rachunkach akcjonariuszy i zostały objęte redukcją, o której mowa ust. 1 i 2. Udział poszczególnych akcjonariuszy wartości środków zwracanych przez emitenta jest wyznaczony odpowiednio stosunkiem zredukowanej wartości nominalnej akcji zapisanych na ich rachunkach papierów wartościowych do wartości nominalnej wszystkich akcji będących przedmiotem redukcji albo stosunkiem liczby akcji zapisanych na ich rachunkach papierów wartościowych, które zostały objęte redukcją, do łącznej liczby zredukowanych akcji.
+
+**Art. 57.**
+
+1. Rejestracja papierów wartościowych jest prowadzona przez Krajowy Depozyt na:
+
+- **1)** kontach depozytowych, które nie pozwalają na identyfikację posiadacza rachunku, na którym te papiery zostały zapisane;
+- **2)** rachunkach papierów wartościowych;
+- **3)** rachunkach zbiorczych.
+
+2. Stany na rachunkach papierów wartościowych oraz rachunkach zbiorczych prowadzonych przez uczestników powinny być zgodne ze stanem na odpowiednim koncie depozytowym prowadzonym Krajowym Depozycie.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, i do kont depozytowych prowadzonych przez tę spółkę przypadku, gdy papiery wartościowe są rejestrowane depozycie papierów wartościowych prowadzonym przez tę spółkę.
+
+**Art. 57a.**
+
+1. Rejestracja instrumentów pochodnych dopuszczonych do obrotu zorganizowanego jest prowadzona na:
+
+- **1)** kontach rozliczeniowych prowadzonych przez podmiot rozliczający;
+- **2)** rachunkach derywatów oraz rejestrach prowadzonych przez uczestników podmiotów rozliczających, o których mowa art. 4a ust. 3.
+
+2. Stany na rachunkach derywatów i rejestrach prowadzonych przez uczestników podmiotów rozliczających powinny być zgodne ze stanami na odpowiednich kontach rozliczeniowych prowadzonych przez dany podmiot rozliczający.
+
+3. Do środków znajdujących się na koncie rozliczeniowym, rachunku derywatów i rejestrze prowadzonym przez uczestnika podmiotu rozliczającego przepis art. 45e stosuje się odpowiednio.
+
+**Art. 58.** Zobowiązanie emitenta opiewające na papiery wartościowe jest wykonane z chwilą otrzymania świadczenia przez uczestnika prowadzącego rachunek papierów wartościowych dla osoby uprawnionej do tego świadczenia, zaś opiewające na pieniądze z chwilą dokonania przeniesienia środków pieniężnych na rachunek bankowy wskazany przez tego uczestnika.
+
+**Art. 59.**
+
+1. Organizując i prowadząc rozliczanie transakcji, o których mowa art. 48 ust. 2 pkt 1, Krajowy Depozyt określa szczególności zakres obowiązków stron transakcji lub uczestników będących stronami rozliczenia, celu prawidłowego spełnienia przez nich świadczeń pieniężnych lub niepieniężnych, wynikających z zawartych transakcji.
+
+2. Krajowy Depozyt organizuje i zarządza systemem gwarantującym prawidłowe wykonanie zobowiązań wynikających z transakcji.
+
+3. Krajowy Depozyt może wystąpić jako strona transakcji zawartej na rynku regulowanym związku z funkcjonowaniem systemu, o którym mowa ust. 2, zgodnie z jego celem.
+
+4. Przepisy ust. 1–3 stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 2 pkt 1.
+
+**Art. 60.** (uchylony)
+
+**Art. 61.** (uchylony)
+
+**Art. 62.** (uchylony)
+
+**Art. 63.** Krajowy Depozyt oraz spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2, pobierają opłaty za czynności dokonywane na rzecz uczestników.
+
+**Art. 64.**
+
+1. Przewodniczący Komisji lub osoba przez niego upoważniona ma prawo:
+
+- **1)** wstępu do siedziby Krajowego Depozytu celem wglądu do ksiąg, dokumentów i innych nośników informacji;
+- **2)** uczestniczyć posiedzeniach rady nadzorczej Krajowego Depozytu oraz walnych zgromadzeniach. Krajowego Depozytu lub wchodzące skład jego zarządu i rady nadzorczej albo pozostające z nim stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt spółki, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień.
+
+3. Obowiązek, o którym mowa ust. 2, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania firmy audytorskiej lub pozostających z tą firmą stosunku pracy zakresie dotyczącym czynności podejmowanych przez te osoby lub firmę, związku z badaniem sprawozdań finansowych Krajowego Depozytu lub świadczeniem na jego rzecz innych usług wymienionych art. 47 ust. 2 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym. Nie narusza to obowiązku zachowania tajemnicy, o której mowa art. 78 tej ustawy.
+
+4. Na pisemne żądanie Komisji zarząd Krajowego Depozytu jest obowiązany do:
+
+- **1)** zwołania nadzwyczajnego walnego zgromadzenia lub
+- **2)** umieszczenia spraw wskazanych przez Komisję porządku obrad walnego zgromadzenia.
+
+5. W przypadku niewykonania obowiązków, o których mowa ust. 4, do żądania Komisji stosuje się odpowiednio przepisy art. 401 § 1 i 3 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+6. Komisja może nakazać radzie nadzorczej Krajowego Depozytu niezwłoczne podjęcie, jednak nie później niż terminie 10 dni roboczych, uchwały określonej sprawie.
+
+7. Komisja może zaskarżyć do sądu uchwałę walnego zgromadzenia lub rady nadzorczej Krajowego Depozytu, terminie 30 dni od dnia powzięcia wiadomości o uchwale, drodze powództwa o jej uchylenie, jeżeli uchwała narusza przepisy prawa, postanowienia statutu, regulaminu lub zasady bezpieczeństwa obrotu albo jeżeli została podjęta z naruszeniem przepisów prawa, postanowień statutu lub regulaminu.
+
+8. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia wynika z odrębnych przepisów, lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych firmie audytorskiej. W przypadku gdy kontrola wykaże istnienie istotnych nieprawidłowości, Krajowy Depozyt zwraca Komisji koszty przeprowadzenia kontroli.
+
+9. Przepisy ust. 1–8 stosuje się odpowiednio do nadzoru sprawowanego przez Komisję nad CCP oraz spółką, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2.
+
+**Art. 64a.**
+
+1. Na żądanie Prezesa Narodowego Banku Polskiego osoby wchodzące skład zarządu Krajowego Depozytu lub pozostające z Krajowym Depozytem stosunku pracy są obowiązane do udzielenia, terminie określonym żądaniu, jednak nie krótszym niż 7 dni, pisemnych informacji sprawach dotyczących działalności Krajowego Depozytu zakresie dokonywania rozrachunku lub rozliczania transakcji, których przedmiotem są instrumenty finansowe. W uzasadnionych przypadkach Prezes Narodowego Banku Polskiego może żądać udzielenia tych informacji krótszym terminie.
+
+2. W przypadku gdy opinii Prezesa Narodowego Banku Polskiego działalność Krajowego Depozytu zakresie dokonywania rozrachunku lub rozliczania transakcji, których przedmiotem są instrumenty finansowe, nie zapewnia bezpiecznego i sprawnego funkcjonowania systemów rozrachunku prowadzonych przez Krajowy Depozyt, Prezes Narodowego Banku Polskiego zawiadamia o tym Przewodniczącego Komisji.
+
+3. Przepisy, o których mowa ust. 1 i 2, stosuje się odpowiednio do CCP oraz spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2.
+
+**Art. 65.**
+
+- **71)** 1. Podmiot rozliczający, z wyłączeniem podmiotu rozliczającego posiadającego zezwolenie, o którym mowa art. 68a ust. 5, który rozlicza transakcje zawarte:
+- **1)** obrocie zorganizowanym ‒ ustanawia fundusz zabezpieczający prawidłowe wykonanie zobowiązań wynikających z rozliczania transakcji zawartych obrocie zorganizowanym;
+- **2)** poza obrotem zorganizowanym ‒ ustanawia fundusz zabezpieczający prawidłowe wykonanie zobowiązań wynikających z rozliczania transakcji zawartych poza obrotem zorganizowanym.
+
+2. Podmiot rozliczający może ustanowić więcej niż jeden fundusz zabezpieczający, o którym mowa ust. 1, dla różnych klas instrumentów finansowych lub dla różnych systemów obrotu. regulaminach.
+
+4. Uczestnicy podmiotu rozliczającego wnoszą wpłaty do funduszy zabezpieczających, o których mowa ust. 1, zakresie określonym regulaminach, o których mowa ust. 3.
+
+5. Podmiot rozliczający może zarządzać środkami funduszy zabezpieczających, o których mowa ust. 1.
+
+**Art. 66.**
+
+- **71)** 1. Podmiot rozliczający określa wysokość wpłat do funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, z uwzględnieniem poziomu zobowiązań, które mogą powstać wyniku rozliczanej transakcji.
+
+2. Rada nadzorcza podmiotu rozliczającego, na wniosek zarządu, uchwala regulamin określający sposób tworzenia i wykorzystywania funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, oraz związane z jego funkcjonowaniem prawa i obowiązki uczestników.
+
+3. Regulamin, o którym mowa ust. 2, i jego zmiany podlegają zatwierdzeniu przez Komisję, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego.
+
+4. Komisja odmawia zatwierdzenia regulaminu, o którym mowa ust. 2, i jego zmian, jeżeli regulamin jest sprzeczny z przepisami prawa lub mógłby naruszać bezpieczeństwo obrotu albo proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszać bezpieczeństwo obrotu.
+
+5. Przepisy ust. 1‒4 stosuje się odpowiednio do zasad tworzenia i wykorzystywania środków funduszu, o którym mowa art. 65 ust. 1 pkt 2, oraz praw i obowiązków uczestników związanych z funkcjonowaniem tego funduszu.
+
+**Art. 67.**
+
+1. Masa majątkowa funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, stanowi współwłasność łączną uczestników. Nie wyłącza to możliwości indywidualnego określania obowiązków uczestnika związku z wykorzystaniem funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, spowodowanym przez działania tego uczestnika.
+
+2. (uchylony)
+
+3. Do środków funduszu zabezpieczającego, o którym mowa art. 65 ust. 1 pkt 1, stosuje się odpowiednio art. 45e.
+
+4. Przepisy ust. 1 i art. 45e stosuje się odpowiednio do środków funduszu, o którym mowa art. 65 ust. 1 pkt 2.
+
+**Art. 68.** (uchylony)
+
+**Art. 68a.**
+
+1. Przez izbę rozliczeniową rozumie się zespół osób, urządzeń i środków technicznych utworzony celu organizacji i prowadzenia rozliczeń transakcji zawieranych:
+
+- **1)** systemie obrotu instrumentami finansowymi lub
+- **2)** poza systemem obrotu instrumentami finansowymi, których przedmiotem są instrumenty finansowe jeżeli na podstawie przepisów prawa podlegają obowiązkowi rozliczenia przez podmiot rozliczający.
+
+2. Przez izbę rozrachunkową rozumie się zespół osób, urządzeń i środków technicznych utworzony celu organizacji i prowadzenia rozrachunku transakcji, o których mowa ust. 1.
+
+3. Izba rozliczeniowa lub izba rozrachunkowa mogą być prowadzone wyłącznie przez spółkę akcyjną.
+
+4. Przedmiotem działalności spółki prowadzącej izbę rozliczeniową lub izbę rozrachunkową może być wyłącznie prowadzenie izby lub wykonywanie innych czynności związanych z organizowaniem i prowadzeniem odpowiednio rozliczeń lub rozrachunku transakcji, o których mowa ust. 1 i 2. Spółka prowadząca izbę rozliczeniową lub izbę rozrachunkową może także, ramach prowadzenia izby rozliczeniowej lub izby rozrachunkowej, odpowiednio rozliczać lub dokonywać rozrachunku innych niż wskazane ust. 1 pkt 2 transakcji zawartych poza systemem obrotu instrumentami finansowymi.
+
+4a. Przedmiotem działalności spółki prowadzącej izbę rozliczeniową może być również wykonywanie czynności przewidzianych dla systemu rozliczeniowego, o których mowa art. 3 ust. 1 pkt 31 rozporządzenia 1031/2010 na zasadach określonych tym rozporządzeniu, na podstawie umowy z podmiotem prowadzącym platformę aukcyjną.
+
+4b. Przedmiotem działalności spółki prowadzącej izbę rozrachunkową może być również wykonywanie czynności przewidzianych dla systemu rozrachunkowego, o których mowa art. 3 ust. 1 pkt 36 rozporządzenia 1031/2010, na zasadach określonych tym rozporządzeniu, na podstawie umowy z podmiotem prowadzącym platformę aukcyjną. nych przez Narodowy Bank Polski na zasadach stosowanych przypadku rozrachunków międzybankowych, zakresie niezbędnym do realizacji zadań określonych ust. 4–4b.
+
+5. Prowadzenie izby rozliczeniowej lub izby rozrachunkowej wymaga zezwolenia Komisji, wydanego po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. Komisja odmawia wydania zezwolenia na prowadzenie izby rozliczeniowej lub izby rozrachunkowej, jeżeli z analizy wniosku i dołączonych do niego dokumentów wynika, że wnioskodawca nie zapewni prowadzenia działalności sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
+
+6. Wniosek o udzielenie zezwolenia, o którym mowa ust. 5, powinien zawierać:
+
+- **1)** firmę, siedzibę i adres wnioskodawcy;
+- **2)** dane osobowe członków zarządu, rady nadzorczej, komisji rewizyjnej, o ile jest przewidziana, jak również innych osób, które odpowiadają za rozpoczęcie działalności izby lub będą nią kierować;
+- **3)** informacje o kwalifikacjach zawodowych oraz dotychczasowym przebiegu pracy zawodowej osób, o których mowa pkt 2;
+- **4)** przewidywaną wysokość kapitału własnego, pożyczek i kredytów przeznaczonych na uruchomienie izby oraz określenie sposobu finansowania działalności;
+- **5)** dane o wysokości i strukturze kapitałów wnioskodawcy oraz źródłach ich pochodzenia;
+- **6)** listę akcjonariuszy wnioskodawcy, obejmującą stosunku do osób:
+    - **a)** prawnych dane, o których mowa pkt 1 i 2,
+    - **b)** fizycznych imię, nazwisko, adres wraz ze wskazaniem posiadanej przez nich liczby akcji oraz wynikającego z nich udziału ogólnej liczbie głosów na walnym zgromadzeniu i udziału kapitale zakładowym;
+
+- **7)** informację o podmiotach dominujących i zależnych wobec akcjonariuszy wnioskodawcy, obejmującą dane, o których mowa pkt 1.
+
+7. Do wniosku, o którym mowa ust. 6, należy dołączyć regulamin izby, listę podmiotów, które zobowiązały się do uczestnictwa danej izbie ze wskazaniem miejsca prowadzenia przez nie działalności, oraz analizę ekonomiczno-finansową możliwości prowadzenia przez izbę rozliczeń lub rozrachunków transakcji przez okres co najmniej 3 lat.
+
+8. Spółka prowadząca izbę niezwłocznie informuje Komisję o każdej zmianie danych, o których mowa ust. 6 i 7.
+
+9. Minimalna wysokość kapitału własnego spółki prowadzącej izbę rozliczeniową wynosi 10 000 000 zł.
+
+10. Minimalna wysokość kapitału własnego spółki prowadzącej izbę rozrachunkową wynosi 5 000 000 zł.
+
+11. Spółka akcyjna może prowadzić jednocześnie izbę rozliczeniową i izbę rozrachunkową pod warunkiem spełnienia wymogów określonych dla prowadzenia każdej z tych izb. Minimalna wysokość kapitału własnego spółki prowadzącej izbę rozliczeniową i izbę rozrachunkową wynosi 10 000 000 zł.
+
+12. Przepisy art. 64 ust. 1–8 stosuje się odpowiednio do nadzoru sprawowanego przez Komisję nad działalnością izby rozliczeniowej i izby rozrachunkowej.
+
+13. Do spółki prowadzącej izbę rozliczeniową lub izbę rozrachunkową przepis art. 64a stosuje się odpowiednio.
+
+14. Spółka akcyjna prowadząca jednocześnie izbę rozliczeniową i izbę rozrachunkową, po uprzednim zawiadomieniu Komisji, może wykonywać funkcję giełdowej izby rozrachunkowej rozumieniu ustawy z dnia 26 października 2000 r. o giełdach towarowych. Do takiej spółki stosuje się odpowiednio przepisy ustawy z dnia 26 października 2000 r. o giełdach towarowych dotyczące giełdowej izby rozrachunkowej, z wyłączeniem art. 14 ust. 3 i ust. 5–7, art. 16 ust. 1 zdanie drugie i art. 18 tej ustawy.
+
+14a. Spółka akcyjna, o której mowa ust. 14, może być stroną transakcji na giełdzie towarowej celu dokonania rozliczeń transakcji zawartych przez członków giełdy lub celu dokonania rozliczenia transakcji zawartych przez członków giełdy i spółkę prowadzącą giełdę realizowanych przy wykorzystaniu udostępnionych zdolności przesyłowych zarządzanych przez operatora systemu przesyłowego elektroenergetycznego lub operatora systemu przesyłowego gazowego zgodnie z przepisami ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne. oraz art. 15 ust. 6a ustawy z dnia 26 października 2000 r. o giełdach towarowych.
+
+15. Do zawiadomienia, o którym mowa ust. 14, spółka dołącza regulamin giełdowej izby rozrachunkowej, do którego stosuje się art. 16 ust. 1 zdanie pierwsze i ust. 2 ustawy z dnia 26 października 2000 r. o giełdach towarowych. O każdej zmianie regulaminu giełdowej izby rozrachunkowej spółka informuje Komisję.
+
+16. Komisja może, terminie 30 dni odpowiednio od dnia otrzymania zawiadomienia, o którym mowa ust. 14, albo od dnia otrzymania informacji o zmianie regulaminu giełdowej izby rozrachunkowej, zgłosić sprzeciw wobec rozpoczęcia organizacji i prowadzenia rozliczeń transakcji giełdowych przez spółkę albo ich kontynuowania, jeżeli mogłoby to naruszyć bezpieczeństwo obrotu instrumentami finansowymi lub obrotu towarami giełdowymi.
+
+**Art. 68b.**
+
+1. Regulaminy izby rozliczeniowej i izby rozrachunkowej oraz ich zmiany są zatwierdzane przez Komisję. Zatwierdzenie regulaminu i jego zmian, zakresie wskazanym odpowiednio ust. 2 pkt 1, 2, 4, 4a, 7 i 8 oraz ust. 3 pkt 1, 3, 4 i 7, a także art. 45h ust. 4, jest dokonywane po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego. Przepis art. 50 ust. 3 stosuje się odpowiednio.
+
+2. Regulamin izby rozliczeniowej określa szczególności:
+
+- **1)** prawa i obowiązki uczestników izby rozliczeniowej, tryb i szczegółowe zasady postępowania związku z nabywaniem lub utratą statusu uczestnika;
+- **2)** sposób i tryb określania wzajemnych zobowiązań i należności uczestników izby rozliczeniowej;
+- **3)** (uchylony)
+- **4)** sposób i tryb rozliczania transakcji zawieranych przez uczestników;
+- **4a)** procedury stosowane na wypadek niedostarczenia odpowiednim terminie papierów wartościowych niezbędnych do dokonania rozrachunku transakcji, spełniające wymogi określone art. 15 rozporządzenia 236/2012;
+- **5)** sposób naliczania i wysokość opłat pobieranych przez spółkę prowadzącą izbę rozliczeniową za czynności dokonywane na rzecz uczestników;
+- **6)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec uczestników naruszających obowiązki wynikające z uczestnictwa, oraz zasady i tryb ich stosowania;
+- **7)** sposób organizacji systemu zabezpieczania płynności rozliczania transakcji;
+- **8)** moment wprowadzenia zlecenia rozrachunku do systemu rozrachunku oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane przez uczestnika lub osobę trzecią.
+
+3. Regulamin izby rozrachunkowej określa szczególności:
+
+- **1)** prawa i obowiązki uczestników izby rozrachunkowej, tryb i szczegółowe zasady postępowania związku z nabywaniem lub utratą statusu uczestnika;
+- **2)** (uchylony)
+- **3)** sposób i tryb rozrachunku transakcji zawieranych przez uczestników;
+- **4)** sposób obsługi rachunków pieniężnych uczestników;
+- **5)** sposób naliczania i wysokość opłat pobieranych przez spółkę prowadzącą izbę rozrachunkową za czynności dokonywane na rzecz uczestników;
+- **6)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec uczestników naruszających obowiązki wynikające z uczestnictwa, oraz zasady i tryb ich stosowania;
+- **7)** moment wprowadzenia zlecenia rozrachunku do systemu rozrachunku oraz moment, od którego zlecenie rozrachunku nie może zostać odwołane przez uczestnika lub osobę trzecią.
+
+4. Spółka prowadząca izbę rozliczeniową oraz spółka prowadząca izbę rozrachunkową publikują regulamin i jego zmiany taki sposób, aby były one dostępne dla wszystkich uczestników danej izby co najmniej na 2 tygodnie przed dniem ich wejścia życie.
+
+**Art. 68c.**
+
+1. Organizując i prowadząc rozliczenie transakcji, o których mowa art. 68a ust. 1, izba rozliczeniowa ustala szczególności zakres obowiązków stron transakcji lub uczestników będących stronami rozliczenia celu prawidłowego spełnienia przez strony świadczeń pieniężnych lub niepieniężnych, wynikających z zawartych transakcji. na rynku regulowanym, a przypadku rozliczania transakcji zawartych ASO lub na OTF może organizować system zabezpieczania płynności rozliczania transakcji zawieranych tych systemach.
+
+3. Spółka prowadząca izbę rozliczeniową może występować jako strona transakcji zawieranych na rynku regulowanym, ASO lub na OTF związku z funkcjonowaniem odpowiednio systemów, o których mowa ust. 2, zgodnie z ich celem.
+
+**Art. 68d.**
+
+1. Uczestnicy izby rozliczeniowej rozliczającej transakcje zawierane na rynku regulowanym są zobowiązani do wnoszenia do izby rozliczeniowej wpłat, z których tworzy się fundusz zabezpieczający prawidłowe wykonanie zobowiązań wynikających z tych transakcji.
+
+2. Fundusz, o którym mowa ust. 1, zapewnia rozliczenie transakcji zawieranych na rynku regulowanym zakresie określonym regulaminie funduszu, o którym mowa ust. 1.
+
+3. Regulamin funduszu, o którym mowa ust. 1, i jego zmiany podlegają zatwierdzeniu przez Komisję po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego.
+
+3a. Komisja odmawia zatwierdzenia regulaminu i jego zmian, jeżeli regulamin jest sprzeczny z przepisami prawa lub mógłby naruszać bezpieczeństwo obrotu albo proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszać bezpieczeństwo obrotu.
+
+4. Do sposobu tworzenia funduszu, o którym mowa ust. 1, oraz do obowiązków uczestników izby rozliczeniowej stosuje się odpowiednio art. 66 ust. 1 i art. 67. Do środków funduszu, o którym mowa ust. 1, stosuje się odpowiednio art. 45e.
+
+5. Izba rozliczeniowa może również prowadzić fundusze zabezpieczające prawidłowe rozliczanie transakcji zawieranych ASO lub na OTF. Fundusze te zapewniają rozliczenie transakcji na rynkach, dla których są prowadzone, zakresie określonym regulaminach tych funduszy.
+
+6. Przepis ust. 3 i 4 stosuje się odpowiednio do funduszy, o których mowa ust. 5.
+
+7. Izba rozliczeniowa może zarządzać środkami funduszy, o których mowa ust. 1 i 5.
+
+8. Fundusze zabezpieczające, o których mowa ust. 1 i 5, mogą składać się z wyodrębnionych funkcjonalnie części, z których każda zawiera środki przeznaczone na zabezpieczenie rozliczenia transakcji zawieranych na poszczególnych rynkach lub na zabezpieczenie rozliczenia określonych rodzajów transakcji.
+
+**Art. 68e.** Podmiotowi, który uzyskał zezwolenie Komisji na prowadzenie rachunków papierów wartościowych i rachunków zbiorczych albo który zamierza prowadzić takie rachunki na podstawie art. 117 i spełnia wymogi określone regulaminie izby rozrachunkowej, przysługuje roszczenie o zawarcie umowy o uczestnictwo tej izbie rozrachunkowej.
+
+**Art. 68f.**
+
+1. Podmioty prowadzące depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi lub system rozrachunku przekazują Prezesowi Narodowego Banku Polskiego dane dotyczące bieżącego funkcjonowania prowadzonego depozytu papierów wartościowych lub systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi, podmiotu prowadzącego depozyt papierów wartościowych, system rejestracji instrumentów finansowych niebędących papierami wartościowymi lub system rozrachunku, a także dokonywania rozrachunku lub rozliczeń.
+
+2. Podmioty, o których mowa ust. 1, przekazują Prezesowi Narodowego Banku Polskiego informacje o zdarzeniach zaistniałych związku z prowadzeniem depozytu papierów wartościowych, systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi lub systemu rozrachunku, mających lub mogących mieć negatywny wpływ na sprawne lub bezpieczne jego funkcjonowanie (incydent).
+
+3. Dane i informacje, o których mowa ust. 1 i 2, są przekazywane postaci elektronicznej z wykorzystaniem odpowiednich certyfikatów wydanych przez Narodowy Bank Polski lub innych form uwierzytelniania stosowanych przez Narodowy Bank Polski, chyba, że są one publikowane na stronie internetowej podmiotu, o którym mowa ust. 1.
+
+4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, określi, drodze rozporządzenia, termin przekazywania oraz szczegółowy zakres przekazywanych danych, o których mowa ust. 1, oraz informacji o zaistniałych incydentach, o których mowa ust. 2, mając na względzie konieczność zapewnienia prawidłowości, bezpieczeństwa i sprawności funkcjonowania depozytu papierów wartościowych, systemu rejestracji instrumentów finansowych niebędących papierami wartościowymi i systemu rozrachunku oraz kompletności i wiarygodności tych danych i informacji. o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2, CCP oraz spółki prowadzące izbę rozliczeniową lub izbę rozrachunkową informują Prezesa Narodowego Banku Polskiego o:
+
+- **1)** rozpoczęciu funkcjonowania systemu rozrachunku, dołączając listę uczestników tego systemu, przy czym za rozpoczęcie funkcjonowania systemu rozrachunku uważa się wprowadzenie do systemu pierwszego zlecenia rozrachunku, o którym mowa art. 1 pkt 12 lit. b ustawy o ostateczności rozrachunku,
+- **2)** zakończeniu funkcjonowania systemu rozrachunku albo systemach, które zakończyły funkcjonowanie, jeżeli zakończenie funkcjonowania nie dotyczy wszystkich prowadzonych systemów rozrachunku,
+- **3)** zmianie listy uczestników prowadzonego systemu rozrachunku, tym zmianie uczestników pośrednich, jeżeli zostali oni uznani za uczestników zgodnie z art. 2a ustawy o ostateczności rozrachunku,
+- **4)** zmianie danych dotyczących firmy, siedziby i adresu podmiotu prowadzącego system rozrachunku terminie 7 dni od dnia wystąpienia takiego zdarzenia.
+
+2. W przypadku powzięcia informacji o niewykonywaniu lub nienależytym wykonywaniu obowiązków określonych ust. 1 Prezes Narodowego Banku Polskiego informuje o tym Przewodniczącego Komisji.
+
+**Art. 68h.**
+
+1. W przypadku zmiany wniosku o zatwierdzenie regulaminu, o którym mowa art. 48 ust. 15, art. 50 ust. 2, art. 66 ust. 2, art. 68b ust. 1 i art. 68d ust. 3, wpływającej na proponowaną treść regulaminu podmiot składający wniosek przedkłada Komisji tekst jednolity regulaminu uwzględniający proponowane zmiany.
+
+2. Do wniosku o zatwierdzenie zmian regulaminie przypadkach, o których mowa art. 48 ust. 16, art. 50 ust. 2, art. 66 ust. 2, art. 68b ust. 1 i art. 68d ust. 3, dołącza się tekst jednolity regulaminu uwzględniający proponowane zmiany.
+
+3. Opinie, o których mowa art. 48 ust. 16, art. 50 ust. 2, art. 66 ust. 2, art. 68a ust. 5, art. 68b ust. 1 i art. 68d ust. 3, Prezes Narodowego Banku Polskiego wydaje terminie miesiąca od dnia otrzymania żądania Komisji.
+
+### DZIAŁ IIIA Identyfikacja akcjonariuszy, przekazywanie informacji akcjonariuszom i ułatwianie wykonywania praw akcjonariuszy
+
+**Art. 68i.**
+
+1. Ilekroć niniejszym dziale jest mowa o:
+
+- **1)** pośredniku należy przez to rozumieć:
+    - **a)** Krajowy Depozyt,
+    - **b)** spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1,
+    - **c)** centralny depozyt papierów wartościowych,
+    - **d)** firmę inwestycyjną świadczącą usługi, o których mowa art. 69 ust. 4 pkt 1, da) bank państwowy prowadzący działalność maklerską świadczący usługi, o których mowa art. 69 ust. 4 pkt 1, db) bank, o którym mowa art. 70 ust. 2, świadczący usługi, o których mowa art. 69 ust. 4 pkt 1,
+    - **e)** bank, o którym mowa art. 119 ust. 1;
+
+- **2)** spółce giełdowej należy przez to rozumieć spółkę z siedzibą na terytorium państwa członkowskiego, której co najmniej jedna akcja jest dopuszczona do obrotu na rynku regulowanym lub na zagranicznym rynku regulowanym.
+
+2. Przepisy niniejszego działu dotyczące pośredników stosuje się także do podmiotów mających siedzibę na terytorium państwa innego niż państwo członkowskie, prowadzących, na podstawie przepisów obowiązujących tym państwie, działalność polegającą na przechowywaniu akcji, administrowaniu akcjami lub prowadzeniu rachunków papierów wartościowych imieniu akcjonariuszy lub innych osób, jeżeli świadczą oni takie usługi zakresie akcji spółek giełdowych na rzecz mających miejsce zamieszkania lub siedzibę na terytorium Rzeczypospolitej Polskiej akcjonariuszy takich spółek lub innych pośredników. papierów wartościowych lub rachunki zbiorcze są obowiązane udostępnić spółce giełdowej lub tej osobie informacje umożliwiające identyfikację akcjonariuszy spółki giełdowej oraz liczby wyemitowanych przez nią akcji, posiadanych przez każdego z tych akcjonariuszy, według stanu na wskazany tym żądaniu dzień, przypadający nie wcześniej niż na dzień jego złożenia.
+
+2. Do żądania, o którym mowa ust. 1, a także do informacji, o których mowa ust. 1, przekazywanych odpowiedzi na to żądanie, stosuje się przepisy rozporządzenia 2018/1212.
+
+3. W przypadku gdy akcje spółki giełdowej są rejestrowane depozycie papierów wartościowych, spółka ta może zebrać informacje, o których mowa ust. 1, za pośrednictwem Krajowego Depozytu. W takim przypadku spółka giełdowa lub upoważniona przez nią osoba powinny złożyć żądanie, o którym mowa ust. 1, do Krajowego Depozytu, a żądanie to powinno wskazywać Krajowy Depozyt jako upoważnionego odbiorcę informacji, o których mowa ust. 1, oraz zawierać dyspozycję jego dalszego przekazywania.
+
+4. Krajowy Depozyt niezwłocznie przekazuje żądanie, o którym mowa ust. 1, uczestnikom prowadzącym rachunki papierów wartościowych lub rachunki zbiorcze.
+
+5. Jeżeli akcje, których dotyczy żądanie, o którym mowa ust. 1, są rejestrowane na rachunku zbiorczym, podmiot prowadzący ten rachunek niezwłocznie przekazuje to żądanie posiadaczowi tego rachunku, chyba że żądanie to nie zawiera takiej dyspozycji.
+
+6. W przypadku, o którym mowa ust. 3, dniu roboczym następującym po dniu wskazanym żądaniu, o którym mowa ust. 1, jako termin emitenta rozumieniu art. 1 pkt 14 rozporządzenia 2018/1212, Krajowy Depozyt udostępnia spółce giełdowej, przy wykorzystaniu środków komunikacji elektronicznej, informacje, o których mowa ust. 1, otrzymane od uczestników, a także sporządzone na podstawie zapisów na rachunkach papierów wartościowych prowadzonych przez Krajowy Depozyt.
+
+7. Spółka giełdowa może żądać sprostowania niekompletnych lub nieprawidłowych informacji przekazanych jej odpowiedzi na żądanie, o którym mowa ust. 1. W takim przypadku przepisy ust. 1–6 stosuje się odpowiednio.
+
+8. Przepisy ust. 3–6, zakresie dotyczącym Krajowego Depozytu, stosuje się odpowiednio do spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1.
+
+**Art. 68k.**
+
+1. Pośrednik niezwłocznie przekazuje akcjonariuszom spółki giełdowej lub ich pełnomocnikom informacje, które ta spółka udostępnia swoim akcjonariuszom celu umożliwienia im wykonywania praw związanych z posiadanymi przez nich akcjami.
+
+2. W przypadku gdy informacje, o których mowa ust. 1, są udostępniane na stronie internetowej spółki giełdowej, pośrednik przekazuje akcjonariuszom lub ich pełnomocnikom informację o adresie strony internetowej, na której informacje te są udostępniane.
+
+3. Informacje, o których mowa ust. 1 i 2, są przez spółkę giełdową przekazywane pośrednikom zgodnie z przepisami rozporządzenia 2018/1212.
+
+4. Przepisów ust. 1–3 nie stosuje się przypadku, gdy spółka giełdowa przekaże informacje, o których mowa ust. 1 i 2, bezpośrednio akcjonariuszom lub ich pełnomocnikom.
+
+5. Pośrednik niezwłocznie przekazuje spółce giełdowej otrzymane od akcjonariuszy informacje kierowane do tej spółki związane z wykonywaniem praw wynikających z ich akcji.
+
+6. Pośrednicy przekazują między sobą informacje, o których mowa ust. 1, 2 i 5, na zasadach określonych przepisach rozporządzenia 2018/1212. Pośrednik nie przekazuje takich informacji innemu pośrednikowi, jeżeli informacje, o których mowa ust. 1, 2 i 5, mogą być przekazane spółce, akcjonariuszowi lub jego pełnomocnikowi bezpośrednio przez tego pośrednika.
+
+**Art. 68l.**
+
+1. Na wniosek akcjonariusza spółki giełdowej pośrednik przekazuje:
+
+- **1)** akcjonariuszowi informację o liczbie posiadanych przez niego akcji według stanu na dzień rejestracji uczestnictwa walnym zgromadzeniu rozumieniu art. 406 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **2)** spółce giełdowej zawiadomienie o udziale akcjonariusza lub jego pełnomocnika walnym zgromadzeniu.
+
+2. Do czynności, o których mowa ust. 1, stosuje się przepisy rozporządzenia 2018/1212. na podstawie przepisów niniejszego działu.
+
+2. Wynagrodzenie oraz opłaty za usługi świadczone na podstawie przepisów niniejszego działu przez pośredników są niedyskryminujące i proporcjonalne do faktycznych kosztów poniesionych związku ze świadczeniem usług.
+
+3. Jeżeli jest to uzasadnione zróżnicowaniem faktycznych kosztów poniesionych związku ze świadczeniem usług, pośrednicy mogą pobierać od podmiotów mających swoją siedzibę poza terytorium Rzeczypospolitej Polskiej wyższe wynagrodzenie i opłaty za usługi świadczone na podstawie przepisów niniejszego działu, niż wynagrodzenie i opłaty pobierane od podmiotów mających swoją siedzibę na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 68n.**
+
+1. Dane osobowe akcjonariuszy przetwarzane na podstawie przepisów niniejszego działu mogą być przetwarzane wyłącznie celu umożliwienia spółce giełdowej identyfikacji swoich akcjonariuszy, zapewnienia bezpośredniej komunikacji z nimi oraz ułatwienia wykonywania praw akcjonariuszy i zaangażowania sprawy spółki.
+
+2. Spółka giełdowa zaprzestaje przetwarzania danych osobowych akcjonariusza przetwarzanych na podstawie przepisów niniejszego działu najpóźniej z upływem 12 miesięcy od dnia powzięcia informacji o tym, że dana osoba przestała być akcjonariuszem spółki.
+
+### DZIAŁ IV Uczestnictwo obrocie instrumentami finansowymi
+
+#### Rozdział 1 Prowadzenie działalności przez firmy inwestycyjne
+
+##### Oddział 1 Przepisy ogólne
+
+**Art. 69.**
+
+1. Prowadzenie działalności maklerskiej wymaga zezwolenia Komisji wydanego na wniosek, o którym mowa art. 82, złożony przez zainteresowany podmiot.
+
+2. Działalność maklerska, z zastrzeżeniem art. 16 ust. 3 i 5, art. 70 oraz art. 123a, obejmuje wykonywanie czynności polegających na:
+
+- **1)** przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia instrumentów finansowych;
+- **2)** wykonywaniu zleceń, o których mowa pkt 1, na rachunek dającego zlecenie;
+- **3)** nabywaniu lub zbywaniu na własny rachunek instrumentów finansowych;
+- **4)** zarządzaniu portfelami, skład których wchodzi jeden lub większa liczba instrumentów finansowych;
+- **5)** doradztwie inwestycyjnym;
+- **6)** oferowaniu instrumentów finansowych;
+- **7)** świadczeniu usług wykonaniu zawartych umów o gwarancję emisji lub zawieraniu i wykonywaniu innych umów o podobnym charakterze, jeżeli ich przedmiotem są instrumenty finansowe;
+- **8)** prowadzeniu ASO;
+- **9)** prowadzeniu OTF.
+
+3. (uchylony)
+
+4. Działalnością maklerską jest również wykonywanie przez firmę inwestycyjną czynności polegających na:
+
+- **1)** przechowywaniu lub rejestrowaniu instrumentów finansowych, tym prowadzeniu rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych, oraz prowadzeniu rachunków pieniężnych, a także prowadzeniu ewidencji instrumentów finansowych;
+- **2)** udzielaniu pożyczek pieniężnych celu dokonania transakcji, której przedmiotem jest jeden lub większa liczba instrumentów finansowych, jeżeli transakcja ma być dokonana za pośrednictwem firmy inwestycyjnej udzielającej pożyczki; zanych z taką strukturą lub strategią;
+- **4)** doradztwie i innych usługach zakresie łączenia, podziału oraz przejmowania przedsiębiorstw;
+- **5)** wymianie walutowej, przypadku gdy jest to związane z działalnością maklerską zakresie wskazanym ust. 2;
+- **6)** sporządzaniu analiz inwestycyjnych, analiz finansowych oraz innych rekomendacji o charakterze ogólnym dotyczących transakcji zakresie instrumentów finansowych;
+- **7)** świadczeniu usług dodatkowych związanych z umową o gwarancję emisji;
+- **8)** wykonywaniu czynności określonych pkt 1–7 oraz ust. 2, których przedmiotem są instrumenty bazowe instrumentów pochodnych, wskazanych art. 2 ust. 1 pkt 2 lit. d–f oraz i, jeżeli czynności te pozostają związku z działalnością maklerską.
+
+**Art. 69a.** (uchylony)
+
+**Art. 69b.** (uchylony)
+
+**Art. 69c.** (uchylony)
+
+**Art. 69d.** (uchylony)
+
+**Art. 69e.** (uchylony)
+
+**Art. 69f.**
+
+1. Dom maklerski może prowadzić działalność jako dostawca usług zakresie udostępniania informacji po uzyskaniu zezwolenia, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014.
+
+2. Zezwolenie, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, może być udzielone równocześnie z udzieleniem zezwolenia na prowadzenie działalności maklerskiej.
+
+3. W przypadku odmowy udzielenia zezwolenia na prowadzenie działalności maklerskiej Komisja może udzielić zezwolenia, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014.
+
+**Art. 69g.** Komisja, wydając zezwolenie na prowadzenie ASO, może na wniosek firmy inwestycyjnej wpisać firmę do rejestru, o którym mowa art. 78g ust. 1, jeżeli spełnione są warunki, o których mowa art. 78g ust. 2 pkt 2–4.
+
+**Art. 69h.**
+
+1. Dom maklerski może świadczyć usługi pośrednictwa zawieraniu umowy lokaty strukturyzowanej lub wykonywać czynności odpowiadające działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych.
+
+2. W przypadku gdy dom maklerski wykonuje czynności, o których mowa ust. 1, przepisy art. 3a, art. 73 ust. 6a, art. 76, art. 82a ust. 1 i 3, art. 83a ust. 3a–3f i 3h–4d, art. 83b ust. 1–3 i 7–17 oraz art. 83c–83j stosuje się odpowiednio, z tym że do lokat strukturyzowanych, których konstrukcja nie utrudnia klientowi lub potencjalnemu klientowi zrozumienia ryzyka związanego ze stopą zwrotu lub zrozumienia kosztów likwidacji lokaty przed terminem, jeżeli spełnione są warunki określone art. 83h ust. 5 pkt 2–4, przepisów art. 83h ust. 1–4 nie stosuje się.
+
+**Art. 69i.** W przypadku świadczenia przez firmę inwestycyjną usług zakresie produktów energetycznych będących przedmiotem obrotu hurtowego na OTF, które muszą być wykonywane przez dostawę, o których mowa art. 2 ust. 1 pkt 2 lit. e, przepisy art. 73 ust. 4–5e i 5g–6a, art. 73a ust. 5, art. 83a ust. 3a–3c, art. 83b ust. 7 oraz art. 83c ust. 1 i 2 stosuje się odpowiednio.
+
+**Art. 70.**
+
+1. Przepisów niniejszego działu nie stosuje się do:
+
+- **1)** zakładów ubezpieczeń;
+- **2)** podmiotów wykonujących czynności określone art. 69 ust. 2 wyłącznie na rzecz podmiotów należących do tej samej grupy kapitałowej, do której należy podmiot wykonujący te czynności, z zastrzeżeniem pkt 9;
+- **3)** podmiotów prowadzących działalność gospodarczą inną niż działalność maklerska, wykonujących czynności określone art. 69 ust. 2 sposób incydentalny związku z prowadzoną działalnością, o ile działalność ta jest regulowana przepisami lub podlega zasadom etyki zawodowej i o ile przepisy te nie wyłączają możliwości wykonywania tych czynności;
+- **4)** podmiotów, które spośród czynności wymienionych art. 69 ust. 2 wykonują wyłącznie czynności określone art. 69 ust. 2 pkt 3, których przedmiotem są instrumenty finansowe inne niż towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, chyba że czynności te są wykonywane ramach:
+    - **a)** funkcji animatora rynku lub nego, z wyjątkiem podmiotów niefinansowych, o których mowa art. 2 pkt 1 rozporządzenia 2017/591, zawierających wskutek tych czynności transakcje, co do których, zgodnie z art. 8 rozporządzenia 2017/591, uznano, że zmniejszają ryzyko bezpośrednio związane z działalnością gospodarczą lub działalnością zakresie zarządzania aktywami i pasywami tych podmiotów lub grupy, do której należą te podmioty, lub
+    - **c)** stosowania techniki handlu algorytmicznego o wysokiej częstotliwości, lub
+    - **d)** wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rachunek dającego zlecenie, tym przez zestawianie zleceń;
+
+- **5)** członków Europejskiego Systemu Banków Centralnych i innych krajowych podmiotów wykonujących podobne funkcje;
+- **5a)** organów publicznych powołanych do zarządzania długiem publicznym lub uczestniczących zarządzaniu tym długiem, tym lokujących środki pieniężne pochodzące z tego długu, banku państwowego zakresie, jakim działa na zlecenie tych organów, oraz podmiotów, którym zgodnie z art. 13d zlecono organizację rynku obrotu skarbowymi papierami wartościowymi lub instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy, jako rynku poza systemem obrotu instrumentami finansowymi, z wyłączeniem innych niż bank państwowy podmiotów z udziałem państwa, których przedmiot działalności obejmuje prowadzenie działalności gospodarczej lub jest związany z nabywaniem pakietu udziałów innych podmiotach;
+- **5b)** Europejskiego Mechanizmu Stabilności lub innych międzynarodowych instytucji finansowych utworzonych przez co najmniej dwa państwa członkowskie, których celem jest uruchamianie wsparcia finansowego lub świadczenia pomocy finansowej na rzecz swoich członków znajdujących się trudnej sytuacji finansowej lub stosunku do których istnieje zagrożenie wystąpienia takiej sytuacji;
+- **6)** funduszy inwestycyjnych, alternatywnych spółek inwestycyjnych, towarzystw funduszy inwestycyjnych oraz zarządzających ASI rozumieniu ustawy o funduszach inwestycyjnych;
+- **7)** funduszy emerytalnych rozumieniu ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych;
+- **8)** przechowywania aktywów funduszy oraz spółek, o których mowa pkt 6 lub 7, i zarządzania tymi funduszami i spółkami;
+- **9)** podmiotów, które prowadzą wyłącznie działalność, określoną art. 69 ust. 2, polegającą na zarządzaniu funduszem emerytalnym, wykonując czynności określone art. 69 ust. 2 na rzecz podmiotów należących do tej samej grupy kapitałowej, do której należy podmiot wykonujący te czynności;
+- **10)** podmiotów:
+    - **a)** które spośród czynności wymienionych art. 69 ust. 2 wykonują wyłącznie czynności określone art. 69 ust. 2 pkt 3, których przedmiotem są towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, tym animatorów rynku na tych instrumentach, z wyłączeniem podmiotów, które wykonują transakcje na własny rachunek, wykonując zlecenia klientów, lub
+    - **b)** wykonujących czynności określone art. 69 ust. 2 pkt 1, 2 i 4–9, których przedmiotem są towarowe instrumenty pochodne, uprawnienia do emisji lub instrumenty pochodne, których instrumentem bazowym są uprawnienia do emisji, na rzecz klientów i dostawców usług związanych z głównym przedmiotem działalności podmiotów wykonujących te czynności jeżeli czynności te mają charakter dodatkowy stosunku do głównego przedmiotu ich działalności, a główny przedmiot ich działalności nie obejmuje działalności maklerskiej, wykonywania czynności, o których mowa ust. 2, lub wykonywania działalności animatora rynku, z tym że charakter przedmiotu działalności tych podmiotów jest ustalany na podstawie przedmiotu działalności grupy kapitałowej, do której te podmioty należą, oraz czynności te nie są wykonywane ramach wykorzystania techniki handlu algorytmicznego o wysokiej częstotliwości;
+
+- **11)** podmiotów świadczących usługę doradztwa inwestycyjnego związku z prowadzeniem działalności gospodarczej niebędącej działalnością maklerską, o ile działalność ta jest regulowana przepisami i świadczenie tej usługi nie jest odpłatne;
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** podmiotów, o których mowa art. 32 ust. 2 ustawy o funduszach inwestycyjnych; uprawnieniami do emisji gazów cieplarnianych, lub podmiotów prowadzących instalację, o których mowa art. 3 pkt 16 tej ustawy, wykonujących spośród czynności wymienionych art. 69 ust. 2 wyłącznie czynności określone art. 69 ust. 2 pkt 3, których przedmiotem są uprawnienia do emisji, chyba że czynności te są wykonywane ramach:
+    - **a)** wykonywania zleceń nabycia lub zbycia instrumentów finansowych na rachunek dającego zlecenie lub
+    - **b)** wykorzystania techniki handlu algorytmicznego o wysokiej częstotliwości;
+
+- **16)** operatorów systemu przesyłowego, o których mowa art. 3 pkt 24 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne, wykonujących celu wykonywania zadań operatora czynności, o których mowa art. 69 ust. 2, mające za przedmiot towarowe instrumenty pochodne, oraz podmiotów, które tym zakresie wykonują czynności celu realizacji powierzonej przez operatorów całości lub części takich zadań, chyba że czynności te są wykonywane ramach operacji na rynku wtórnym, tym na platformie obrotu finansowymi prawami przesyłowymi;
+- **17)** centralnych depozytów papierów wartościowych związku z wykonywaniem zadań zakresie, jakim jest to przewidziane przepisach rozporządzenia 909/2014, z uwzględnieniem art. 73 tego rozporządzenia;
+- **18)** zagranicznych osób prawnych nieprowadzących działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, które ramach bezpośredniego dostępu elektronicznego wykonują czynności określone art. 69 ust. 2 pkt 1–3, zakresie nabywania lub zbywania instrumentów finansowych na własny rachunek, z wyłączeniem pełnienia funkcji animatora rynku, lub na rachunek klientów mających siedzibę lub miejsce zamieszkania na terytorium państwa innego niż państwo członkowskie;
+- **19)** dostawców usług finansowania społecznościowego, o których mowa art. 2 ust. 1 lit. e rozporządzenia 2020/1503, posiadających zezwolenie, o którym mowa art. 12 ust. 1 rozporządzenia 2020/1503.
+
+1a. Przez wykonywanie czynności sposób incydentalny, o którym mowa ust. 1 pkt 3, rozumie się spełnianie warunków przewidzianych art. 4 rozporządzenia 2017/565.
+
+1b. Przez wykonywanie wyłącznie czynności określonych art. 69 ust. 2 pkt 3, o których mowa ust. 1 pkt 10 lit. a, rozumie się również wykonanie zlecenia ramach transakcji pomiędzy podmiotami z grupy kapitałowej.
+
+1c. Podmioty wykonujące zlecenia na podstawie ust. 1 pkt 10 lit. b, na rzecz klientów lub dostawców, o których mowa tym przepisie, mogą przy wykonywaniu tych zleceń zawierać transakcje na własny rachunek.
+
+1d. Wykonywanie zleceń nabycia lub zbycia instrumentów finansowych, o których mowa ust. 1 pkt 10, dokonywane ramach wyłączenia, o którym mowa ust. 1 pkt 10, uznaje się za objęte zakresem tego wyłączenia.
+
+1e. Przez charakter dodatkowy czynności stosunku do głównego przedmiotu działalności, o którym mowa ust. 1 pkt 10, rozumie się spełnianie warunków przewidzianych rozporządzeniu 2017/592.
+
+1f. (uchylony) 1g. (uchylony) 1h. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania podmiotów, o których mowa ust. 1 pkt 10, lub wchodzące skład ich statutowych organów albo pozostające z tymi podmiotami stosunku pracy niezwłocznie sporządzają i przekazują, na koszt tych podmiotów, kopie dokumentów i innych nośników informacji oraz udzielają pisemnych lub ustnych wyjaśnień zakresie korzystania z wyłączenia, o którym mowa ust. 1 pkt 10, niezbędnych do ustalenia, czy czynności mają charakter dodatkowy stosunku do głównego przedmiotu działalności.
+
+1i. Podmioty, o których mowa ust. 1 pkt 1, 6–8 i 17, mogą korzystać również z wyłączenia, o którym mowa ust. 1 pkt 4, również jeżeli wykonują czynności określone ust. 1 pkt 4 lit. a–d.
+
+1j. Wyjątki określone ust. 1 pkt 4, 10 i 15 mogą być stosowane łącznie.
+
+2. Bank z siedzibą na terytorium Rzeczypospolitej Polskiej może, poza jednostką wydzieloną organizacyjnie zgodnie z art. 111 ust. 5, wykonywać czynności określone w:
+
+- **1)** art. 69 ust. 2 pkt 1, 2 i 4–6 o ile przedmiotem tych czynności są papiery wartościowe, o których mowa art. 4 ust. 1 pkt 2, lub inne niedopuszczone do obrotu zorganizowanego instrumenty finansowe, obligacje emitowane przez Bank Gospodarstwa Krajowego na rzecz funduszy utworzonych, powierzonych albo przekazanych temu bankowi na podstawie odrębnych ustaw, gwarantowane przez Skarb Państwa, a także obligacje emitowane przez Bankowy Fundusz Gwarancyjny lub podmiot zarządzający aktywami, o którym mowa art. 224 ust. 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **3)** art. 69 ust. 2 pkt 3 jeżeli nie są one wykonywane ramach pełnienia funkcji animatora rynku na akcjach lub instrumentach pochodnych, których instrumentem bazowym są akcje;
+- **4)** art. 69 ust. 4 jeżeli wykonuje co najmniej jedną z czynności, o których mowa pkt 1–3 lub 5;
+- **5)** art. 69 ust. 2 pkt 1 i 2 jeżeli przedmiotem tych czynności jest pośredniczenie zawieraniu transakcji pożyczek papierów wartościowych rozumieniu art. 3 pkt 7 rozporządzenia 2015/2365, przez przyjmowanie i przekazywanie zleceń dotyczących pożyczek papierów wartościowych, zawieranie transakcji pożyczek papierów wartościowych imieniu własnym i na rzecz dającego zlecenie albo imieniu i na rzecz dającego zlecenie, jeżeli przedmiotem tych transakcji są papiery wartościowe dopuszczone do obrotu zorganizowanego.
+
+2a. Banki, o których mowa ust. 2, które stanowią małe i niezłożone instytucje, o których mowa art. 4 ust. 1 pkt 145 rozporządzenia 575/2013, lub które posiadają kapitały własne wysokości poniżej równowartości złotych 5 000 000 euro, mogą, poza jednostką wydzieloną organizacyjnie zgodnie z art. 111 ust. 5, wykonywać czynności, o których mowa art. 69 ust. 2 pkt 3, jeżeli przedmiotem tych czynności są instrumenty finansowe, o których mowa ust. 2 pkt 1, a także dopuszczone do obrotu zorganizowanego obligacje, listy zastawne oraz inne zbywalne papiery wartościowe inkorporujące prawa majątkowe odpowiadające prawom wynikającym z zaciągniętego długu, inne niż określone ust. 2 pkt 1, lub instrumenty pochodne, których instrumentem bazowym są obligacje, listy zastawne, inne zbywalne papiery wartościowe inkorporujące takie prawa majątkowe, stopa procentowa lub waluta.
+
+3. Wykonywanie przez bank, zgodnie z ust. 2, czynności, o których mowa art. 69 ust. 2 pkt 1–7 i ust. 4, nie stanowi działalności maklerskiej.
+
+4. W zakresie wykonywania czynności, o których mowa art. 69 ust. 2 pkt 1–7 i ust. 4, do banku, o którym mowa ust. 2, stosuje się odpowiednio przepisy art. 3a, art. 72, art. 73 ust. 1, 2, 5j–5o i 6a, art. 73a–73d, art. 74b–76, art. 77, art. 79–81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a–83ja, art. 88 i art. 90 oraz bezpośrednio obowiązujące przepisy prawa Unii Europejskiej odnoszące się do prowadzenia działalności zakresie wykonywania czynności, o których mowa art. 69 ust. 2 pkt 1–7 i ust. 4, a zakresie nieuregulowanym tych przepisach stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+5. W zakresie wykonywania przez agenta firmy inwestycyjnej czynności na rzecz banku, o którym mowa ust. 2, stosuje się odpowiednio art. 79–81.
+
+**Art. 71.** (uchylony)
+
+**Art. 72.** Przez oferowanie instrumentów finansowych rozumie się podejmowanie na rzecz emitenta papierów wartościowych, wystawcy instrumentu finansowego lub oferującego instrument finansowy czynności prowadzących do nabycia przez inne podmioty instrumentów finansowych, przez:
+
+**Art. 73.**
+
+1. Przez wykonywanie zleceń nabycia lub zbycia instrumentów finansowych rozumie się nabywanie lub zbywanie instrumentów finansowych na rachunek zleceniodawcy lub dokonywanie innych czynności wywołujących równoważne skutki, których przedmiotem są instrumenty finansowe.
+
+2. Wykonywanie zleceń nabycia lub zbycia instrumentów finansowych może również polegać na zawieraniu przez firmę inwestycyjną na własny rachunek umów kupna lub sprzedaży instrumentów finansowych ze zleceniodawcą lub na przyjmowaniu zapisów na emitowane lub wystawiane przez tę firmę inwestycyjną instrumenty finansowe. pkt 2 lit. c–i złożone przez klienta detalicznego pod warunkiem, że depozyt zabezpieczający wymagany dla danego instrumentu finansowego jest nie mniejszy niż 1 % wartości nominalnej tego instrumentu finansowego, z zastrzeżeniem ust. 2b i 2c.
+
+2b. W przypadku zleceń zbycia opcji skutkujących wystawieniem opcji, wymagany depozyt zabezpieczający powinien być nie mniejszy niż wartość premii obliczonej, z zastosowaniem przez firmę inwestycyjną uznanego modelu wyceny opcji, podanego do wiadomości klienta detalicznego, powiększonej o 1 % wartości nominalnej tej opcji.
+
+2c. Przepisów ust. 2a i 2b nie stosuje się do wykonywania przez firmę inwestycyjną zleceń nabycia lub zbycia instrumentów finansowych, wymienionych art. 2 ust. 1 pkt 2 lit. c–i, o ile depozyt zabezpieczający wymagany dla danego instrumentu finansowego jest określany przez CCP, który będzie zobowiązany do rozliczania transakcji zawartej wskutek złożonego zlecenia.
+
+2d. Przepisów ust. 2a–2c nie stosuje się do świadczenia usług maklerskich przez dom maklerski lub bank prowadzący działalność maklerską poza terytorium Rzeczypospolitej Polskiej na podstawie art. 104.
+
+3. (uchylony)
+
+4. W zakresie nieuregulowanym ust. 1–2d do:
+
+- **1)** umowy o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy zlecenia, z wyłączeniem art. 737;
+- **2)** wykonywania zleceń nabycia lub zbycia papierów wartościowych obrocie zorganizowanym stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy komisu, z wyłączeniem art. 768 § 3.
+
+5. Do rachunku pieniężnego stosuje się odpowiednio przepisy art. 725, art. 727, art. 728 § 3 oraz art. 729–733 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, z zastrzeżeniem ust. 5e i 5g.
+
+5a. Firma inwestycyjna deponuje środki pieniężne powierzone przez klientów firmie inwestycyjnej związku ze świadczeniem usług maklerskich sposób umożliwiający wyodrębnienie tych środków pieniężnych od własnych środków firmy inwestycyjnej oraz ustalenie wysokości roszczeń klientów o zwrot tych środków pieniężnych.
+
+5b. W razie wszczęcia postępowania egzekucyjnego przeciwko firmie inwestycyjnej środki pieniężne powierzone przez klientów firmie inwestycyjnej związku ze świadczeniem przez nią usług maklerskich nie podlegają zajęciu.
+
+5c. W razie ogłoszenia upadłości firmy inwestycyjnej środki pieniężne powierzone przez klientów firmie inwestycyjnej związku ze świadczeniem przez nią usług maklerskich podlegają wyłączeniu z masy upadłości firmy inwestycyjnej.
+
+5d. Przepisy ust. 5b i 5c nie naruszają przepisów gwarantujących rozliczenie i rozrachunek zawartych transakcji.
+
+5e. Firma inwestycyjna nie może wykorzystywać na własny rachunek środków pieniężnych powierzonych tej firmie inwestycyjnej przez klientów związku ze świadczeniem przez nią usług maklerskich.
+
+5f. (uchylony) 5g. Przepisu ust. 5e nie stosuje się do banku prowadzącego działalność maklerską, obracającego powierzonymi mu związku ze świadczeniem usług maklerskich środkami pieniężnymi, o ile następuje to ramach wykonywania przez ten bank czynności bankowych.
+
+5h. Zasady oprocentowania środków pieniężnych powierzonych przez klienta firmie inwestycyjnej związku ze świadczeniem usług maklerskich określa umowa z klientem.
+
+5i. Firma inwestycyjna może wykorzystywać środki pieniężne powierzone przez klienta i należące do niego instrumenty finansowe, przypadku gdy celu wykonania zlecenia tego klienta jest niezbędne ustanowienie przez firmę inwestycyjną odpowiedniego zabezpieczenia.
+
+5j. Firma inwestycyjna nie może ustanawiać zabezpieczeń na instrumentach finansowych ani środkach pieniężnych klienta ani jakikolwiek inny sposób umożliwiać osobie trzeciej dysponowanie instrumentami finansowymi lub środkami pieniężnymi klienta celu dochodzenia lub zaspokojenia roszczeń niemających związku ze świadczeniem usług na rzecz klienta ani z innymi zobowiązaniami klienta, z wyjątkiem przypadków, gdy ich ustanowienie jest wymagane na mocy prawa obowiązującego państwie innym niż państwo członkowskie, którym przechowywane są środki pieniężne lub instrumenty finansowe klienta.
+
+5k. Firma inwestycyjna jest obowiązana do wdrożenia odpowiednich rozwiązań organizacyjnych, które zapewnią ograniczenie do minimum ryzyka utraty lub zmniejszenia liczby lub wartości instrumentów finansowych lub środków pieniężnych klienta albo utraty lub ograniczenia praw związanych z takimi instrumentami finansowymi lub środkami pieniężnymi na skutek niewłaściwego wykorzystania tych instrumentów finansowych lub środków pieniężnych, nieprawidłowości prowadzeniu rachunków lub rejestrów, nierzetelnego prowadzenia działalności, zaniedbania lub oszustwa. o których mowa art. 5 ust. 1 pkt 1 ustawy z dnia 2 kwietnia 2004 r. o niektórych zabezpieczeniach finansowych (Dz. U. z 2024 r. poz. 294), których przedmiotem są środki pieniężne lub instrumenty finansowe klientów, celu zabezpieczenia lub pokrycia obecnych lub przyszłych, rzeczywistych lub warunkowych lub potencjalnych zobowiązań klientów.
+
+5m. Środki pieniężne klientów zdeponowane przez firmę inwestycyjną podmiotach należących do tej samej grupy kapitałowej co firma inwestycyjna nie mogą łącznie przekraczać 20 % wszystkich środków pieniężnych klientów.
+
+5n. Ograniczenia, o którym mowa ust. 5m, nie stosuje się, przypadku gdy firma inwestycyjna jest stanie wykazać, że jest ono nieproporcjonalne ze względu na niskie saldo przechowywanych przez firmę inwestycyjną środków pieniężnych klientów lub na charakter, skalę i złożoność jej działalności oraz bezpieczeństwo zdeponowanych podmiotach, o których mowa ust. 5m, środków pieniężnych klientów.
+
+5o. Firma inwestycyjna dokonuje okresowego przeglądu zasadności odstąpienia od stosowania ograniczenia, o którym mowa ust. 5m, oraz informuje Komisję o wynikach tego przeglądu i podjętej na jego podstawie decyzji zakresie stosowania tego ograniczenia.
+
+5p. Firma inwestycyjna może powierzyć przechowywanie instrumentów finansowych i środków pieniężnych klienta innemu podmiotowi, o ile podmiot ten zapewnia bezpieczeństwo przechowywanych instrumentów finansowych i środków pieniężnych.
+
+5q. Firma inwestycyjna zapewnia, z uwzględnieniem przepisów o tajemnicy zawodowej, łatwy dostęp do informacji dotyczących instrumentów finansowych i środków pieniężnych klientów:
+
+- **1)** Komisji oraz pracownikom Urzędu Komisji;
+- **2)** syndykowi ustanowionemu postępowaniu upadłościowym lub zarządcy ustanowionemu postępowaniu restrukturyzacyjnym;
+- **3)** Bankowemu Funduszowi Gwarancyjnemu.
+
+6. Do wykonywania obrocie zorganizowanym przez firmę inwestycyjną zleceń nabycia lub zbycia na rachunek klienta niebędących papierami wartościowymi instrumentów finansowych stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy komisu, z wyłączeniem art. 768 § 3, o ile konstrukcja tych instrumentów finansowych umożliwia zastosowanie tych przepisów.
+
+6a. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych jest obowiązana, zgodnie z art. 67–69 rozporządzenia 2017/565, stosować rozwiązania i procedury zapewniające niezwłoczne, uczciwe i należyte wykonywanie zleceń klientów stosunku do zleceń innych klientów oraz do zleceń własnych firmy inwestycyjnej, obejmujące zapewnienie możliwości wykonywania zleceń zgodnie z czasem ich przyjmowania.
+
+6b. W przypadku gdy zlecenie dotyczące akcji będących przedmiotem obrotu systemie obrotu instrumentami finansowymi, ze względu na określony przez klienta limit ceny, nie może być wykonane natychmiast po jego przyjęciu przez firmę inwestycyjną związku z warunkami panującymi na rynku, firma inwestycyjna, jeżeli klient nie postanowił inaczej, jest obowiązana upublicznić warunki tego zlecenia sposób łatwo dostępny dla innych uczestników rynku. Wymóg upublicznienia warunków zlecenia uważa się za spełniony przypadku, o którym mowa art. 70 rozporządzenia 2017/565.
+
+6c. Przepisu ust. 6b nie stosuje się do zleceń o dużej skali porównaniu z normalną wielkością rynkową dla danych akcji rozumieniu art. 7 rozporządzenia 2017/587, pod warunkiem uprzedniego poinformowania Komisji przez firmę inwestycyjną o zamiarze odstąpienia od wykonania obowiązku, o którym mowa ust. 6b.
+
+7. Firma inwestycyjna przyjmuje do wykonania zlecenie złożone celu dokonania krótkiej sprzedaży pod warunkiem spełnienia przez składającego zlecenie wymogów określonych odpowiednio art. 12 albo art. 13 rozporządzenia 236/2012, a przypadku gdy zakresie krótkiej sprzedaży zostały wprowadzone, na podstawie art. 20, art. 23 lub art. 28 ust. 1 lit. b rozporządzenia 236/2012, zakaz lub ograniczenia, zlecenie to nie narusza takiego zakazu lub takich ograniczeń.
+
+8. W przypadku gdy zakresie transakcji innych niż krótka sprzedaż zostały wprowadzone, na podstawie art. 20, art. 23 lub art. 28 ust. 1 lit. b rozporządzenia 236/2012, zakaz lub ograniczenia, firma inwestycyjna przed przyjęciem do wykonania zlecenia nabycia lub zbycia instrumentów finansowych bada, czy jego przyjęcie nie narusza takiego zakazu lub takich ograniczeń. Firma inwestycyjna nie przyjmuje do wykonania zlecenia, które taki zakaz lub takie ograniczenia narusza.
+
+**Art. 73a.**
+
+1. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych jest obowiązana do podjęcia wszelkich uzasadnionych działań celu uzyskania możliwie najlepszych wyników dla klienta związku z wykonaniem zlecenia klienta, uwzględniając szczególności cenę instrumentu finansowego, koszty związane z wykonaniem zlecenia, czas zawarcia transakcji, prawdopodobieństwo zawarcia transakcji oraz jej rozliczenia, wielkość zlecenia i jego charakter.
+
+2. Przepisu ust. 1 nie stosuje się przypadku, gdy klient określił szczegółowe warunki, na jakich zlecenie ma zostać wykonane. niesieniu do danego instrumentu finansowego, określaniu możliwie najlepszego wyniku dla klienta jest obowiązana uwzględnić również wielkość opłat, które należne byłyby firmie inwestycyjnej za wykonanie zlecenia, oraz koszty wykonania zlecenia, które zostałyby poniesione przypadku wykonania zlecenia danym systemie.
+
+4. W przypadku gdy zlecenie składane jest przez klienta detalicznego, możliwie najlepszy wynik określa się ujęciu ogólnym, z uwzględnieniem ceny instrumentu finansowego oraz kosztów związanych z wykonaniem transakcji, obejmujących wydatki, jakie klient poniósłby związku z wykonaniem zlecenia, szczególności opłaty transakcyjne, opłaty z tytułu rozliczenia i rozrachunku transakcji, oraz koszty ponoszone na rzecz podmiotów trzecich uczestniczących wykonaniu zlecenia.
+
+5. W związku z kierowaniem zleceń do systemu obrotu instrumentami finansowymi lub innych systemów wykonywania zlecenia firma inwestycyjna nie może przyjmować świadczeń pieniężnych lub niepieniężnych, które naruszałyby jej obowiązki związane z zarządzaniem konfliktami interesów oraz przyjmowaniem świadczeń pieniężnych lub niepieniężnych.
+
+6. W odniesieniu do instrumentów finansowych podlegających obowiązkowi obrotu, o którym mowa art. 23 lub art. 28 rozporządzenia 600/2014, podmiot prowadzący system obrotu instrumentami finansowymi lub podmiot systematycznie internalizujący transakcje są obowiązane podawać nieodpłatnie do publicznej wiadomości, co najmniej raz roku, raport dotyczący sposobu, jaki wykonywano zlecenia tym systemie. W odniesieniu do każdego instrumentu finansowego raport obejmuje informacje dotyczące ceny instrumentu finansowego, kosztów związanych z wykonaniem zlecenia, czasu zawarcia transakcji oraz prawdopodobieństwa zawarcia transakcji.
+
+7. Przepis ust. 6 stosuje się również do systemów wykonywania zlecenia zakresie instrumentów finansowych innych niż podlegające obowiązkowi obrotu, o którym mowa art. 23 lub art. 28 rozporządzenia 600/2014, jeżeli są przedmiotem obrotu tym systemie.
+
+8. Podanie do publicznej wiadomości informacji, o których mowa ust. 6 i 7, następuje z uwzględnieniem art. 3 rozporządzenia 2017/575.
+
+9. Firma inwestycyjna jest obowiązana informować klienta o systemie wykonywania zlecenia, którym jego zlecenie zostało wykonane.
+
+**Art. 73b.**
+
+1. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych jest obowiązana ustanowić i wdrożyć rozwiązania celu wykonania obowiązku, o którym mowa art. 73a ust. 1, szczególności dotyczące wdrożenia i przestrzegania polityki wykonywania zleceń.
+
+2. Polityka wykonywania zleceń odniesieniu do każdej klasy instrumentów finansowych obejmuje informacje o systemach wykonywania zlecenia wykorzystywanych przez firmę inwestycyjną oraz kryteria brane przez nią pod uwagę przy dokonywaniu wyboru tego systemu. W polityce wykonywania zleceń firma inwestycyjna wskazuje co najmniej systemy wykonywania zlecenia, które według racjonalnej oceny sposób stały umożliwiają uzyskanie możliwie najlepszego wyniku dla klienta.
+
+3. Przed zawarciem umowy o świadczenie usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych firma inwestycyjna przekazuje, zgodnie z art. 66 rozporządzenia 2017/565, klientowi lub potencjalnemu klientowi informacje dotyczące polityki wykonywania zleceń. Informacje te sposób odpowiednio szczegółowy, wyraźny i przystępny wyjaśniają klientowi, jak zlecenia będą wykonywane przez firmę inwestycyjną. Przed rozpoczęciem świadczenia usługi firma inwestycyjna uzyskuje zgodę klienta na stosowanie wobec niego przyjętej przez nią polityki wykonywania zleceń.
+
+4. W przypadku gdy polityka wykonywania zleceń przewiduje możliwości wykonywania zleceń poza systemem obrotu instrumentami finansowymi, firma inwestycyjna uzyskuje uprzednią, wyraźną zgodę klienta na wykonanie jego zlecenia poza systemem obrotu instrumentami finansowymi. Zgoda klienta może mieć charakter ogólny lub dotyczyć poszczególnych transakcji.
+
+**Art. 73c.**
+
+1. Firma inwestycyjna świadcząca usługi wykonywania zleceń nabycia lub zbycia instrumentów finansowych sporządza i podaje do publicznej wiadomości, odniesieniu do każdej klasy instrumentów finansowych, coroczny raport zawierający wykaz pięciu najlepszych systemów wykonywania zlecenia, ustalonych przy uwzględnieniu wolumenu obrotu zrealizowanego przez firmę danym systemie wykonywania zlecenia okresie, za który jest sporządzany raport, oraz informację o jakości wykonanych zleceń.
+
+2. Podanie przez firmę inwestycyjną do publicznej wiadomości raportu, o którym mowa ust. 1, następuje z uwzględnieniem przepisów rozporządzenia delegowanego Komisji (UE) 2017/576 z dnia 8 czerwca 2016 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady 2014/65/UE odniesieniu do regulacyjnych standardów technicznych dotyczących podawania co roku do wiadomości publicznej przez firmy inwestycyjne informacji o tożsamości systemów wykonywania zleceń i jakości wykonywania zleceń (Dz. Urz. UE L 87 z 31.03.2017, str. 166). wych monitoruje skuteczność wdrożonych rozwiązań dotyczących wykonywania zleceń i stosowanej polityki wykonywania zleceń.
+
+2. Firma inwestycyjna informuje klienta o istotnej zmianie sposobie wykonywania zleceń oraz polityce wykonywania zleceń.
+
+3. Firma inwestycyjna, na żądanie klienta, jest obowiązana wykazać klientowi, że zlecenie zostało wykonane zgodnie z wdrożoną przez nią polityką wykonywania zleceń.
+
+4. Wykonanie obowiązków, o których mowa ust. 1–3, następuje z uwzględnieniem art. 67 rozporządzenia 2017/565.
+
+**Art. 74.** (uchylony)
+
+**Art. 74a.** (uchylony)
+
+**Art. 74b.**
+
+1. Przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych polega na zobowiązaniu się firmy inwestycyjnej do przyjmowania i przekazywania zleceń nabycia lub zbycia instrumentów finansowych przez:
+
+- **1)** przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych do innego podmiotu, tym do emitenta instrumentu finansowego, wystawcy instrumentu finansowego lub oferującego taki instrument, celu ich wykonania lub
+- **2)** kojarzenie dwóch lub więcej podmiotów celu doprowadzenia do zawarcia transakcji między tymi podmiotami.
+
+2. (uchylony)
+
+**Art. 74c.** Nie stanowi działalności maklerskiej, o której mowa art. 69 ust. 2 pkt 3, przeniesienie przez firmę inwestycyjną instrumentów finansowych:
+
+**Art. 74d.**
+
+- **93)** 1. Nabywanie lub zbywanie na własny rachunek instrumentów finansowych polega na nabywaniu lub zbywaniu instrumentów finansowych we własnym imieniu i na własny rachunek albo na wykonywaniu innych czynności wywołujących równoważne skutki, tym celu pełnienia funkcji animatora rynku lub celu wykonania transakcji klienta.
+
+2. W przypadku gdy nabywanie lub zbywanie na własny rachunek instrumentów finansowych jest dokonywane celu wykonania transakcji klienta, podmiot nabywający lub zbywający instrumenty na własny rachunek zawiera z klientem umowę o świadczenie usługi, o której mowa art. 69 ust. 2 pkt 2.
+
+**Art. 74e.**
+
+1. Firma inwestycyjna nabywająca lub zbywająca instrumenty finansowe przez wykorzystywanie handlu algorytmicznego opracowuje, wdraża i stosuje adekwatne oraz skuteczne rozwiązania mające na celu:
+
+- **1)** zapewnienie odporności i wydajności urządzeń i systemów teleinformatycznych stopniu odpowiadającym skali prowadzonej działalności, szczególności limitom i progom transakcyjnym;
+- **2)** zapobieżenie nieprawidłowemu wpływowi urządzeń i systemów teleinformatycznych na sprawny i bezpieczny obrót instrumentami finansowymi, szczególności przez kierowanie błędnych zleceń;
+- **3)** uniemożliwienie wykorzystania urządzeń i systemów teleinformatycznych sposób naruszający przepisy rozporządzenia 596/2014 lub regulacje systemów obrotu instrumentami finansowymi;
+- **4)** zapewnienie ciągłości obsługi oraz pracy urządzeń i systemów teleinformatycznych wykorzystywanych prowadzonej działalności.
+
+2. Firma inwestycyjna monitoruje działanie urządzeń i systemów teleinformatycznych i przeprowadza testy zakresie oceny prawidłowości ich działania celu identyfikowania i eliminacji potencjalnych lub rzeczywistych naruszeń wymogów, o których mowa ust. 1.
+
+3. Firma inwestycyjna nabywająca lub zbywająca instrumenty finansowe przez wykorzystywanie handlu algorytmicznego stosuje warunki organizacyjne, o których mowa art. 1–18 rozporządzenia 2017/589. względu na siedzibę systemu obrotu instrumentami finansowymi, którego ta firma jest członkiem lub uczestnikiem, o wykorzystywaniu handlu algorytmicznego prowadzonej działalności oraz o zaprzestaniu wykorzystywania handlu algorytmicznego prowadzonej działalności.
+
+5. Firma inwestycyjna jest obowiązana do przekazywania, na żądanie Komisji lub jej upoważnionego przedstawiciela, informacji dotyczących modelu handlu algorytmicznego wykorzystywanego prowadzonej działalności oraz potwierdzających spełnienie warunków, o których mowa ust. 1–3. Firma inwestycyjna niezwłocznie informuje Komisję o zmianie modelu handlu algorytmicznego wykorzystywanego prowadzonej działalności.
+
+6. Firma inwestycyjna dokumentuje czynności związane z wykorzystywaniem handlu algorytmicznego prowadzonej działalności sposób pozwalający na wykazanie spełnienia warunków, o których mowa ust. 1–3.
+
+7. W przypadku gdy firma inwestycyjna prowadzonej działalności wykorzystuje technikę handlu algorytmicznego o wysokiej częstotliwości, obowiązek, o którym mowa ust. 6, obejmuje również chronologiczną rejestrację wysłanych przez nią zleceń, wraz z ich parametrami i odniesieniem do notowań instrumentów finansowych z systemów obrotu instrumentami finansowymi, z uwzględnieniem okoliczności ich wykonania, modyfikacji, odrzucenia lub anulowania. Firma inwestycyjna przechowuje zlecenia przez okres i sposób określone art. 28 rozporządzenia 2017/589.
+
+**Art. 74f.**
+
+1. W przypadku wykonywania przez firmę inwestycyjną czynności animatora rynku z wykorzystaniem handlu algorytmicznego firma inwestycyjna:
+
+- **1)** uwzględnia płynność, skalę i specyfikę danego systemu obrotu instrumentami finansowymi oraz właściwości danego instrumentu finansowego będącego przedmiotem czynności animatora rynku;
+- **2)** regularnie zapewnia płynność instrumentowi finansowemu sposób, jakiego można racjonalnie oczekiwać;
+- **3)** zawiera z podmiotem prowadzącym system obrotu instrumentami finansowymi, formie pisemnej, umowę, której przedmiotem jest co najmniej określenie sposobu wykonania obowiązków, o których mowa pkt 2;
+- **4)** opracowuje, wdraża i stosuje adekwatne i skuteczne rozwiązania mające na celu zapewnienie wykonania obowiązków określonych umowie, o której mowa pkt 3.
+
+2. Działalność firmy inwestycyjnej polegająca na nabywaniu lub zbywaniu instrumentów finansowych na własny rachunek, poprzez stałe składanie z wykorzystaniem handlu algorytmicznego rynkowych zleceń nabycia lub zbycia tych instrumentów, ramach uczestnictwa lub członkostwa jednym lub kilku systemach obrotu instrumentami finansowymi, sposób skutkujący wspomaganiem płynności danego instrumentu finansowego (strategia animatora rynku), może być wykonywana po spełnieniu warunków, o których mowa ust. 1.
+
+3. W celu zapewnienia płynności, o którym mowa ust. 1 pkt 2, firma inwestycyjna wykonuje czynności animatora rynku sposób ciągły, przez określoną liczbę godzin, ramach notowań instrumentu finansowego prowadzonych przez system obrotu instrumentami finansowymi.
+
+**Art. 74g.**
+
+1. Firma inwestycyjna może, drodze umowy zawartej formie pisemnej, umożliwić swojemu klientowi skorzystanie z bezpośredniego dostępu elektronicznego celu składania przez niego zleceń nabycia lub zbycia instrumentu finansowego i zawierania transakcji wskutek takich zleceń.
+
+2. Umowa, o której mowa ust. 1, określa prawa i obowiązki klienta oraz firmy inwestycyjnej związku z umożliwieniem dostępu, tym gwarantujące prawo firmy inwestycyjnej do monitorowania zleceń i transakcji klienta celu przeciwdziałania przez firmę inwestycyjną naruszeniom przepisów prawa lub regulacji systemu obrotu instrumentami finansowymi dokonywanym wskutek zleceń składanych przez klienta lub transakcji zawartych wskutek takich zleceń, oraz celu ujawniania przypadków takich naruszeń.
+
+3. Firma inwestycyjna jest odpowiedzialna za naruszenia i szkody powstałe wskutek składania przez klienta, któremu umożliwiła korzystanie z bezpośredniego dostępu elektronicznego, zleceń ramach korzystania z takiego dostępu oraz za szkody powstałe wskutek transakcji zawartych wyniku takich zleceń, jeżeli takie zlecenia lub takie transakcje zostały złożone lub zawarte niezgodnie z przepisami prawa lub regulacjami systemu obrotu instrumentami finansowymi. Odpowiedzialności firmy inwestycyjnej z tytułu niewykonania lub nienależytego wykonywania umowy nie można wyłączyć ani ograniczyć.
+
+4. Firma inwestycyjna może zawrzeć umowę, o której mowa ust. 1, jeżeli opracuje, wdroży i stosuje adekwatne oraz odpowiednie rozwiązania mające na celu zapewnienie prawidłowego korzystania z bezpośredniego dostępu elektronicznego przez swoich klientów.
+
+- **1)** weryfikację i ocenę klientów zamierzających korzystać lub korzystających z bezpośredniego dostępu elektronicznego pod kątem prawidłowości wypełniania przez nich obowiązków wynikających z takiego dostępu;
+- **2)** wprowadzenie mechanizmów, które mają na celu uniemożliwienie, wskutek zawierania transakcji, przekraczania przez klientów limitów i progów transakcyjnych, limitów ustanowionych dla prawidłowego rozliczenia i rozrachunku zawieranych transakcji, dokonywania naruszeń przepisów prawa lub regulacji systemu obrotu instrumentami finansowymi lub powstawania innego ryzyka dla firmy inwestycyjnej.
+
+6. Firma inwestycyjna umożliwiająca swoim klientom korzystanie z bezpośredniego dostępu elektronicznego stosuje szczegółowe warunki organizacyjne określone art. 19–23 rozporządzenia 2017/589.
+
+7. Firma inwestycyjna informuje Komisję lub właściwy organ nadzoru innego państwa członkowskiego, właściwy ze względu na siedzibę systemu obrotu instrumentami finansowymi, którego ta firma jest członkiem lub uczestnikiem, o umożliwianiu klientom korzystania z bezpośredniego dostępu elektronicznego.
+
+8. Firma inwestycyjna jest obowiązana do przekazywania, na żądanie Komisji lub jej upoważnionego przedstawiciela, informacji dotyczących bezpośredniego dostępu elektronicznego, z którego korzystanie umożliwia klientom, oraz informacji potwierdzających spełnienie warunków, o których mowa ust. 4–6.
+
+9. Firma inwestycyjna dokumentuje czynności związane z umożliwianiem klientom korzystania z bezpośredniego dostępu elektronicznego sposób pozwalający na wykazanie spełnienia warunków, o których mowa ust. 4–6.
+
+**Art. 74h.**
+
+1. Firma inwestycyjna może, drodze umowy zawartej formie pisemnej z innym podmiotem, zobowiązać się, zgodnie z zasadami określonymi regulaminie podmiotu uprawnionego do dokonywania rozliczania transakcji, do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez ten inny podmiot. Umowa określa prawa i obowiązki tego innego podmiotu oraz firmy inwestycyjnej związku z wykonywaniem obowiązków wynikających z rozliczenia takich transakcji.
+
+2. Firma inwestycyjna opracowuje, wdraża i stosuje adekwatne oraz skuteczne rozwiązania mające na celu zapewnienie prawidłowego wykonywania przez podmiot, z którym zawarła umowę, o której mowa ust. 1, obowiązków związanych z rozliczeniem, szczególności obejmujące określenie warunków, które jest obowiązany spełnić taki inny podmiot, ograniczających ryzyko firmy inwestycyjnej i podmiotu uprawnionego do dokonywania rozliczania transakcji związane z nierozliczeniem transakcji.
+
+3. Firma inwestycyjna, która zgodnie z ust. 1 zobowiązała się do wykonywania obowiązków wynikających z rozliczania transakcji zawartych przez inny podmiot, stosuje rozwiązania określone art. 24–27 rozporządzenia 2017/589.
+
+**Art. 75.**
+
+1. Zarządzanie portfelem, którego skład wchodzi jeden lub większa liczba instrumentów finansowych, polega na podejmowaniu i realizacji decyzji inwestycyjnych na rachunek klienta, ramach pozostawionych przez klienta do dyspozycji zarządzającego środków pieniężnych lub instrumentów finansowych.
+
+2. (uchylony)
+
+**Art. 76.**
+
+1. Doradztwo inwestycyjne polega na przygotowywaniu, z inicjatywy firmy inwestycyjnej albo na wniosek klienta, oraz przekazywaniu klientowi, określonej art. 9 rozporządzenia 2017/565, pisemnej, ustnej lub innej formie, szczególności elektronicznej, spełniającej wymóg trwałego nośnika, przygotowanej oparciu o potrzeby i sytuację klienta rekomendacji, dotyczącej nabycia lub zbycia jednego instrumentu finansowego lub większej ich liczby, albo dokonania innej czynności wywołującej równoważne skutki, której przedmiotem są instrumenty finansowe, albo rekomendacji dotyczącej powstrzymania się od wykonania takiej czynności.
+
+2. Firma inwestycyjna może świadczyć usługę doradztwa inwestycyjnego sposób zależny lub niezależny.
+
+**Art. 76a.** (uchylony)
+
+**Art. 77.**
+
+1. Przez usługę wymiany walutowej rozumie się przyjmowanie przez firmę inwestycyjną walut obcych i dokonywanie ich sprzedaży na rachunek klienta, jak również kupno walut obcych na rachunek klienta, związku z obsługą realizacji zobowiązań firmy inwestycyjnej wobec klienta lub zobowiązań klienta wobec firmy inwestycyjnej z tytułu usług świadczonych przez tę firmę inwestycyjną na jego rzecz, lub zobowiązań klienta wobec emitenta papierów wartościowych, przypadku gdy firma inwestycyjna działa imieniu i na rachunek emitenta, lub zobowiązań emitenta papierów wartościowych wobec klienta, przypadku gdy firma inwestycyjna działa imieniu i na rachunek klienta zakresie czynności wskazanych art. 69 ust. 2.
+
+2. Świadczenie przez firmę inwestycyjną usługi wymiany walutowej nie stanowi działalności kantorowej rozumieniu ustawy z dnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. z 2022 r. poz. 309).
+
+- **1)** ustanawia przejrzyste zasady dotyczące kryteriów ustalania instrumentów finansowych, które mogą być przedmiotem obrotu ramach danego systemu;
+- **2)** stosuje przejrzyste zasady rzetelnego i prawidłowego obrotu oraz obiektywne kryteria skutecznej realizacji zleceń;
+- **3)** posiada mechanizmy zapewniające należyte zarządzanie procesami technicznymi, tym skuteczne procedury awaryjne umożliwiające zarządzanie ryzykiem zakłócenia funkcjonowania systemu.
+
+1a. Dostęp do systemów obrotu instrumentami finansowymi, o których mowa ust. 1, jest udzielany według podlegających publikacji przejrzystych i niedyskryminujących zasad, stworzonych na podstawie obiektywnych kryteriów.
+
+1b. Dostęp do każdego z systemów obrotu instrumentami finansowymi, o których mowa ust. 1, posiada co najmniej trzech członków, uczestników lub klientów, wykazujących się znacznym stopniem aktywności, z których każdy ma możliwość interakcji odpowiednio ze wszystkimi pozostałymi członkami, uczestnikami lub klientami, odniesieniu do kształtowania się cen systemie. 1ba. Zagraniczna osoba prawna z siedzibą na terytorium państwa należącego do OECD nieprowadząca działalności maklerskiej na terytorium Rzeczypospolitej Polskiej może być stroną transakcji zawieranych systemach obrotu instrumentami finansowymi, o których mowa ust. 1, jeżeli:
+
+- **1)** posiada zezwolenie lub na innej podstawie świadczy usługi zakresie obrotu instrumentami finansowymi państwie swojej siedziby;
+- **2)** podlega nadzorowi właściwego organu nadzoru nad rynkiem finansowym państwie swojej siedziby;
+- **3)** państwo jej siedziby należy do Grupy Specjalnej do Spraw Przeciwdziałania Praniu Pieniędzy (FATF);
+- **4)** zostało zawarte porozumienie, o którym mowa art. 20 ust. 2 ustawy o nadzorze, z właściwym organem nadzoru nad rynkiem finansowym państwie jej siedziby lub wielostronne porozumienie zapewniające współpracę i skuteczną wymianę informacji, którego stroną jest ten organ nadzoru i Komisja, lub inny sposób zapewnione jest przekazywanie między tym organem nadzoru a Komisją informacji niezbędnych z punktu widzenia sprawowanego przez Komisję nadzoru nad działalnością tej zagranicznej osoby prawnej systemie obrotu instrumentami finansowymi. 1bb. Zagraniczna osoba prawna, o której mowa ust. 1ba, może być stroną transakcji zawieranych systemach obrotu instrumentami finansowymi, o których mowa ust. 1, wyłącznie zakresie nabywania lub zbywania instrumentów finansowych na własny rachunek, z wyłączeniem pełnienia funkcji animatora rynku, lub na rachunek klientów mających siedzibę lub miejsce zamieszkania na terytorium państwa innego niż państwo członkowskie. 1bc. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania zagranicznej osoby prawnej, o której mowa ust. 1ba, będącej stroną transakcji zawieranych systemach obrotu instrumentami finansowymi, o których mowa ust. 1, lub wchodzące skład ich statutowych organów albo pozostające z nimi stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tej zagranicznej osoby prawnej, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień zakresie transakcji zawieranych systemach obrotu instrumentami finansowymi, o których mowa ust. 1. 1bd. Komisja powiadamia właściwy organ nadzoru nad rynkiem finansowym zagranicznej osoby prawnej, o której mowa ust. 1ba, o wystąpieniu z żądaniem, o którym mowa ust. 1bc, a także o każdym przypadku niewykonania albo nienależytego wykonania tego obowiązku. 1be. Jeżeli właściwy organ nadzoru nad rynkiem finansowym zagranicznej osoby prawnej, o której mowa ust. 1ba, nie podjął środków mających na celu wykonanie przez tę osobę żądania, o którym mowa ust. 1bc, albo, mimo środków podjętych przez ten organ nadzoru, osoba ta nie wykonuje obowiązku określonego ust. 1bc albo nie wykonuje go należycie, Komisja może, celu zapewnienia prawidłowego funkcjonowania obrotu instrumentami finansowymi lub ochrony interesów inwestorów, po uprzednim poinformowaniu tego organu, nałożyć na tę zagraniczną osobę prawną karę pieniężną do wysokości 500 000 zł.
+
+1c. Firma inwestycyjna prowadząca ASO lub OTF monitoruje oraz identyfikuje:
+
+- **1)** potencjalne konflikty interesów, jakie mogą powstać pomiędzy interesem ASO, OTF, firmy inwestycyjnej lub jej właścicieli a obowiązkiem zapewnienia należytego funkcjonowania ASO lub OTF;
+- **2)** negatywne skutki, jakie związku z konfliktami interesów, o których mowa pkt 1, mogą wystąpić dla funkcjonowania ASO lub OTF lub dla ich członków, uczestników lub klientów.
+
+1d. Firma inwestycyjna prowadząca ASO lub OTF ustanawia mechanizmy zarządzania konfliktami interesów, o których mowa ust. 1c.
+
+1e. Do prowadzenia ASO i OTF przepisy art. 18b stosuje się odpowiednio. firma inwestycyjna prowadząca ASO lub OTF, na żądanie Komisji, wstrzymuje wprowadzenie instrumentów finansowych do obrotu tym ASO lub na tym OTF lub wstrzymuje rozpoczęcie obrotu wskazanymi instrumentami finansowymi na okres nie dłuższy niż 10 dni.
+
+3. W przypadku gdy obrót określonymi instrumentami finansowymi jest dokonywany okolicznościach wskazujących na możliwość zagrożenia prawidłowego funkcjonowania ASO lub OTF lub bezpieczeństwa obrotu dokonywanego tym ASO lub na tym OTF, lub naruszenia interesów inwestorów, Komisja może zażądać od firmy inwestycyjnej prowadzącej ASO lub OTF zawieszenia obrotu tymi instrumentami finansowymi.
+
+3a. W żądaniu, o którym mowa ust. 3, Komisja może wskazać termin, do którego zawieszenie obrotu obowiązuje. Termin ten może ulec przedłużeniu, jeżeli zachodzą uzasadnione obawy, że dniu jego upływu będą zachodziły przesłanki, o których mowa ust. 3.
+
+3b. Komisja uchyla decyzję zawierającą żądanie, o którym mowa ust. 3, przypadku gdy po jej wydaniu stwierdza, że nie zachodzą przesłanki zagrożenia prawidłowego funkcjonowania ASO lub OTF lub bezpieczeństwa obrotu dokonywanego tym ASO lub na tym OTF, lub naruszenia interesów inwestorów.
+
+4. Na żądanie Komisji firma inwestycyjna prowadząca ASO lub OTF wyklucza z obrotu wskazane przez Komisję instrumenty finansowe, przypadku gdy obrót nimi zagraża sposób istotny prawidłowemu funkcjonowaniu ASO lub OTF lub bezpieczeństwu obrotu dokonywanego tym ASO lub na tym OTF lub powoduje naruszenie interesów inwestorów.
+
+4a. Firma inwestycyjna prowadząca ASO lub OTF może podjąć decyzję o zawieszeniu lub wykluczeniu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi z obrotu, przypadku gdy instrumenty te przestały spełniać warunki obowiązujące na tym rynku, pod warunkiem że nie spowoduje to znaczącego naruszenia interesów inwestorów lub zagrożenia prawidłowego funkcjonowania rynku. Firma inwestycyjna prowadząca ASO lub OTF informuje Komisję o podjęciu decyzji o zawieszeniu lub wykluczeniu instrumentów finansowych z obrotu i podaje tę informację do publicznej wiadomości.
+
+4b. W przypadkach, o których mowa ust. 3 i 4, Komisja może zażądać od firmy inwestycyjnej prowadzącej ASO lub OTF zawieszenia lub wykluczenia z obrotu instrumentów pochodnych powiązanych z papierami wartościowymi lub instrumentami finansowymi niebędącymi papierami wartościowymi, o ile jest to konieczne dla osiągnięcia celów zawieszenia lub wykluczenia z obrotu papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi stanowiących instrument bazowy tego instrumentu pochodnego.
+
+4c. Firma inwestycyjna prowadząca ASO lub OTF, która zawiesiła lub wykluczyła z obrotu tym systemie instrument finansowy, odpowiednio zawiesza lub wyklucza z obrotu powiązane z nim instrumenty pochodne, przypadku gdy jest to konieczne do osiągnięcia celów zawieszenia lub wykluczenia bazowego instrumentu finansowego.
+
+4d. W przypadku zawieszenia lub wykluczenia z obrotu ASO lub na OTF na podstawie ust. 4a lub 4c Komisja występuje do spółek prowadzących rynek regulowany, innych podmiotów prowadzących ASO, innych podmiotów prowadzących OTF oraz podmiotów systematycznie internalizujących transakcje z siedzibą na terytorium Rzeczypospolitej Polskiej, organizujących obrót tymi samymi instrumentami finansowymi lub powiązanymi z nimi instrumentami pochodnymi, z żądaniem zawieszenia lub wykluczenia z obrotu tego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, przypadku gdy takie zawieszenie lub wykluczenie z obrotu związane jest z podejrzeniem wykorzystania informacji poufnej, bezprawnego ujawnienia informacji poufnej, manipulacji na rynku, ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej lub podejrzeniem naruszenia obowiązku publikacji informacji poufnej o emitencie lub instrumencie finansowym zgodnie z przepisami art. 7 i art. 17 rozporządzenia 596/2014, chyba że takie zawieszenie lub wykluczenie z obrotu mogłoby spowodować poważną szkodę dla interesów inwestorów lub prawidłowego funkcjonowania rynku.
+
+4e. W przypadku otrzymania od właściwego organu nadzoru innego państwa członkowskiego sprawującego tym państwie nadzór nad ASO lub OTF informacji o wystąpieniu przez ten organ z żądaniem zawieszenia lub wykluczenia z obrotu określonego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego Komisja występuje do spółek prowadzących rynek regulowany, podmiotów prowadzących ASO, podmiotów prowadzących OTF oraz podmiotów systematycznie internalizujących transakcje z siedzibą na terytorium Rzeczypospolitej Polskiej, organizujących obrót tymi samymi instrumentami finansowymi lub powiązanymi z nimi instrumentami pochodnymi, z żądaniem zawieszenia lub wykluczenia z obrotu tego instrumentu finansowego lub powiązanego z nim instrumentu pochodnego, jeżeli takie zawieszenie lub wykluczenie z obrotu jest związane z podejrzeniem wykorzystywania informacji poufnej, bezprawnego ujawnienia informacji poufnej, manipulacji na rynku, ogłoszenia wezwania do zapisywania się na sprzedaż lub zamianę akcji spółki publicznej lub podejrzeniem naruszenia obowiązku publikacji informacji poufnej o emitencie lub instrumencie finansowym zgodnie z przepisami art. 7 i art. 17 rozporządzenia 596/2014, chyba że takie zawieszenie lub wykluczenie z obrotu mogłoby spowodować poważną szkodę dla interesów inwestorów lub prawidłowego funkcjonowania rynku. mowa ust. 3, 4, 4b i 4d, oraz przekazuje ją Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych i właściwym organom nadzoru innych państw członkowskich, sprawującym tych państwach nadzór nad rynkami regulowanymi, ASO lub OTF. W przypadku gdy Komisja nie zgłosiła żądania, o którym mowa ust. 4e, przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwym organom nadzoru innych państw członkowskich, sprawującym tych państwach nadzór nad rynkami regulowanymi, ASO lub OTF informację o niezgłoszeniu żądania wraz z wyjaśnieniami. Komisja przekazuje do publicznej wiadomości informację o niezgłoszeniu żądania na podstawie ust. 4e.
+
+5. W żądaniach, o których mowa ust. 2, 3, 4, 4b, 4d i 4e, wskazuje się szczegółowe przyczyny, które je uzasadniają.
+
+6. Komisja podaje niezwłocznie do publicznej wiadomości informację o wystąpieniu z żądaniem, o którym mowa ust. 2 i 4e.
+
+6a. Przepisy ust. 4a–4f i 6 stosuje się odpowiednio do przywrócenia obrotu instrumentem finansowym lub instrumentem pochodnym powiązanym z tym instrumentem finansowym.
+
+6b. Instrumentami pochodnymi, o których mowa ust. 4c–4e i 6a, są instrumenty finansowe, o których mowa art. 2 ust. 1 pkt 2 lit. c–i.
+
+7. Firma inwestycyjna prowadząca ASO zapewnia sprawny i prawidłowy rozrachunek oraz rozliczanie transakcji zawartych tym systemie.
+
+8. Jeżeli wykonanie obowiązku, o którym mowa ust. 7 lub 12, polega na zawarciu umowy z podmiotem uprawnionym do dokonywania rozrachunku lub rozliczania transakcji, umowa może być zawarta z tym podmiotem, o ile podmiot ten:
+
+- **1)** wykorzystuje rozwiązania zapewniające sprawne i prawidłowe wykonywanie powierzanych mu czynności, tym spełnia warunki techniczne dokonywania odpowiednio rozliczeń lub rozrachunku transakcji;
+- **2)** zapewnia wykonywanie powierzonych mu czynności sposób niezagrażający bezpieczeństwu obrotu i nienaruszający interesów uczestników tego obrotu.
+
+9. Zamiar zawarcia umowy skutkującej zmianą podmiotu dokonującego rozrachunku lub rozliczania transakcji wymaga zawiadomienia Komisji. Komisja, terminie 3 miesięcy od dnia otrzymania zawiadomienia, zgłasza sprzeciw wobec planowanego zawarcia umowy z podmiotem dokonującym rozrachunku lub rozliczania transakcji, przypadku gdy podmiot, z którym ma zostać zawarta umowa nie spełnia warunków, o których mowa ust. 8.
+
+10. Warunki, o których mowa ust. 8 pkt 1, zakresie spełniania warunków technicznych, uważa się za spełnione przypadku Krajowego Depozytu oraz przypadku:
+
+- **1)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 6, oraz spółki prowadzącej izbę rozrachunkową zakresie powierzenia dokonywania rozrachunku transakcji;
+- **2)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 2 pkt 2, oraz spółki prowadzącej izbę rozliczeniową zakresie powierzenia dokonywania rozliczenia transakcji.
+
+11. W przypadku wystąpienia przez Bankowy Fundusz Gwarancyjny z wnioskiem, o którym mowa:
+
+- **1)** art. 148 pkt 1 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, firma inwestycyjna organizująca ASO wyklucza z obrotu wskazane we wniosku instrumenty finansowe;
+- **2)** art. 148 pkt 2 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, firma inwestycyjna organizująca ASO zawiesza obrót instrumentami finansowymi objętymi tym wnioskiem na okres wskazany we wniosku.
+
+12. Firma inwestycyjna prowadząca OTF zapewnia sprawny i prawidłowy rozrachunek oraz rozliczanie transakcji zawartych systemie.
+
+13. Firma inwestycyjna prowadząca ASO lub OTF informuje członków, uczestników lub klientów o ich obowiązkach zakresie rozrachunku transakcji.
+
+14. Firma inwestycyjna upewnia się, czy istnieje dostęp do wystarczających publicznie dostępnych informacji umożliwiających członkom, uczestnikom lub klientom formułowanie opinii inwestycyjnych, uwzględniając zarówno charakter członków, uczestników lub klientów, jak i rodzaje instrumentów wprowadzanych do obrotu ASO lub na OTF, a przypadku braku dostępu zapewnia członkom, uczestnikom ASO lub klientom OTF dostęp do tych informacji.
+
+- **1)** istotnego naruszenia regulacji dotyczących obrotu dokonywanego tym ASO lub na tym OTF lub zasad uczciwego obrotu, oraz istotnych zakłóceniach funkcjonowania systemu informatycznego ASO lub OTF, z uwzględnieniem art. 81 rozporządzenia 2017/565 oraz sekcji A Załącznika III do tego rozporządzenia,
+- **2)** uzasadniającym podejrzenie wystąpienia manipulacji na rynku, o której mowa art. 12 rozporządzenia 596/2014, lub wykorzystania informacji poufnej rozumieniu art. 7 rozporządzenia 596/2014, z uwzględnieniem art. 82 rozporządzenia 2017/565 i sekcji B Załącznika III do tego rozporządzenia niezwłocznie po powzięciu informacji o wystąpieniu takiego przypadku.
+
+16. W przypadku gdy z ustaleń Komisji wynika, że naruszenia, o których mowa ust. 15, miały miejsce, Komisja:
+
+- **1)** przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych oraz właściwym organom nadzoru innych państw członkowskich otrzymane od firmy inwestycyjnej prowadzącej ASO lub OTF informacje o naruszeniach;
+- **2)** informuje prokuratora lub Policję o podejrzeniu wystąpienia ASO lub na OTF manipulacji na rynku, o której mowa art. 12 rozporządzenia 596/2014, lub wykorzystania informacji poufnej rozumieniu art. 7 rozporządzenia 596/2014;
+- **3)** przekazuje ministrowi właściwemu do spraw budżetu otrzymane od firmy inwestycyjnej prowadzącej ASO informacje o naruszeniach przypadku gdy naruszenia te dotyczą prowadzonego przez firmę inwestycyjną jako ASO rynku obrotu skarbowymi papierami wartościowymi rozumieniu ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych oraz instrumentami finansowymi, których instrumentem bazowym jest skarbowy papier wartościowy.
+
+17. Firma inwestycyjna prowadząca OTF informuje Komisję o manipulacji na rynku lub próbie manipulacji na rynku, o których mowa art. 2 pkt 2 i 3 rozporządzenia 1227/2011, niezwłocznie po powzięciu informacji o wystąpieniu takich przypadków.
+
+18. W przypadku gdy z ustaleń Komisji wynika, że naruszenia, o których mowa ust. 17, miały miejsce, Komisja przekazuje Prezesowi Urzędu Regulacji Energetyki otrzymane od firmy inwestycyjnej prowadzącej OTF informacje o naruszeniach.
+
+19. Firma inwestycyjna prowadząca ASO lub OTF współpracuje z prokuratorem lub Policją podczas wyjaśniania okoliczności naruszeń, o których mowa ust. 16 pkt 2.
+
+**Art. 78a.** (uchylony)
+
+**Art. 78b.**
+
+1. Firma inwestycyjna prowadząca ASO ustanawia zasady zawierania transakcji tym systemie, które pozwalają na wykonywanie zleceń sposób nieuznaniowy.
+
+2. Zasady zawierania transakcji ASO nie mogą przewidywać zaangażowania środków własnych firmy inwestycyjnej wykonywanie zleceń tym systemie lub zestawiania zleceń.
+
+3. Do transakcji zawieranych ASO pomiędzy jego członkami oraz do umowy o korzystanie z tego systemu między firmą inwestycyjną prowadzącą ASO a członkiem ASO przepisów art. 73 ust. 6a–6c, art. 73a ust. 1–5, art. 73b–73d, art. 82a, art. 83b ust. 8 i art. 83c–83h nie stosuje się.
+
+**Art. 78c.**
+
+1. Firma inwestycyjna prowadząca OTF ustanawia zasady zawierania transakcji tym systemie, które pozwalają na wykonywanie zleceń sposób uznaniowy.
+
+2. Zasady zawierania transakcji na OTF nie mogą przewidywać zaangażowania środków własnych firmy inwestycyjnej wykonywanie zleceń tym systemie albo środków finansowych jakiegokolwiek innego podmiotu stanowiącego część tej samej grupy kapitałowej, do której należy firma inwestycyjna.
+
+3. Wykonywanie zleceń na OTF może polegać na zestawianiu zleceń, pod warunkiem uzyskania zgody klienta. W takim przypadku firma inwestycyjna ustanawia skuteczne mechanizmy zapobiegające naruszeniu warunków zestawiania zleceń.
+
+4. Przepis ust. 2 nie ma zastosowania, przypadku gdy przedmiotem obrotu na OTF są instrumenty dłużne, dla których nie ma płynnego rynku, emitowane przez:
+
+- **1)** Skarb Państwa, Unię Europejską, państwo członkowskie, tym agendę rządową, agencję lub spółkę celową utworzoną przez państwa członkowskie, a przypadku federalnego państwa członkowskiego przez jednego z członków federacji;
+- **2)** spółkę celową utworzoną przez państwa członkowskie celu emisji instrumentów dłużnych;
+- **3)** międzynarodową instytucję finansową utworzoną przez co najmniej dwa państwa członkowskie, której celem jest uruchamianie finansowania i świadczenie pomocy finansowej z korzyścią dla jej członków, którzy doświadczają poważnych problemów finansowych lub są zagrożeni takimi problemami;
+- **4)** Europejski Bank Inwestycyjny. finansowy lub klasa instrumentów finansowych, na potrzeby których jest oceniana płynność rynku, oraz stale istnieją kupujący i sprzedający gotowi do zawierania transakcji mających za przedmiot ten instrument finansowy lub tę klasę instrumentów finansowych. Ocenę istnienia na rynku kupujących i sprzedających gotowych do zawierania transakcji przeprowadza się z uwzględnieniem specyfiki struktury rynku, na którym przedmiotem obrotu jest dany instrument finansowy lub dana klasa instrumentów finansowych na podstawie:
+- **1)** średniej częstotliwości i wielkości transakcji, z uwzględnieniem szerokiego zakresu warunków rynkowych oraz charakteru i terminu zapadalności instrumentów finansowych ramach danej klasy instrumentów finansowych;
+- **2)** liczby i rodzaju uczestników rynku, tym udziału uczestników rynku obrocie danymi instrumentami finansowymi;
+- **3)** średniej wartości spreadów, jeżeli jest dostępna.
+
+6. Firma inwestycyjna nie może zestawiać zleceń ramach OTF zakresie instrumentów pochodnych odnoszących się do klasy instrumentów pochodnych, które ogłoszono jako podlegające obowiązkowemu rozliczeniu zgodnie z art. 5 rozporządzenia 648/2012.
+
+7. Przedmiotem obrotu na OTF nie mogą być wyłącznie produkty energetyczne będące przedmiotem obrotu hurtowego, które muszą być wykonywane przez dostawę.
+
+**Art. 78d.**
+
+1. Firma inwestycyjna prowadząca OTF, z zastrzeżeniem art. 78e ust. 2, może zestawić dwa lub więcej dostępnych danym czasie zleceń, stając się odpowiednio drugą stroną transakcji nabycia lub zbycia instrumentów finansowych będących przedmiotem tych zleceń.
+
+2. Zestawione zlecenia muszą być przeciwstawne oraz podlegać jednoczesnemu wykonaniu.
+
+3. Jeżeli przedmiot zlecenia jest podzielny, a podmiot składający zlecenie nie zastrzegł inaczej, zlecenie może być zestawione części.
+
+4. W przypadku wycofania zlecenia objętego zestawieniem firma inwestycyjna zastępuje wycofane zlecenie innymi dostępnymi danym czasie zleceniami. W przypadku braku takich zleceń wykonanie pozostałych zestawionych zleceń następuje proporcjonalnie, chyba że byłoby to niezgodne z zastrzeżeniem, o którym mowa ust. 3.
+
+5. Od transakcji zawartej sposób, o którym mowa ust. 1, firma inwestycyjna nie może pobierać świadczeń innych niż prowizja, opłata lub wynagrodzenie, których wysokość i sposób pobierania określa się zasadach wykonywania zleceń na OTF.
+
+**Art. 78e.**
+
+1. Firma inwestycyjna nie może jednocześnie prowadzić OTF oraz wykonywać czynności jako podmiot systematycznie internalizujący transakcje.
+
+2. Firma inwestycyjna prowadząca OTF nie może zezwalać na łączenie zleceń będących na OTF ze zleceniami lub kwotowaniami podmiotów systematycznie internalizujących transakcje lub zleceniami innego OTF.
+
+3. Udział OTF animatora rynku jest dopuszczalny pod warunkiem braku bliskich powiązań z firmą inwestycyjną prowadzącą OTF.
+
+**Art. 78f.**
+
+1. Wykonywanie zleceń na OTF sposób uznaniowy ma miejsce wyłącznie, przypadku gdy firma inwestycyjna prowadząca OTF podejmuje działania polegające na:
+
+- **1)** decydowaniu o umieszczeniu albo wycofaniu zlecenia z OTF lub
+- **2)** powstrzymaniu się od skojarzenia danego zlecenia klienta ze zleceniami dostępnymi systemie danym czasie, pod warunkiem że jest to zgodne ze szczegółowymi wskazówkami klienta oraz obowiązkiem wykonywania zleceń na warunkach najbardziej korzystnych dla klienta.
+
+2. W przypadku gdy ramach OTF mają zostać skojarzone zlecenia dwóch lub więcej klientów, firma inwestycyjna prowadząca OTF wykonuje zlecenia sposób uznaniowy, jeżeli ustala, czy i kiedy skojarzyć zlecenia dwóch lub większej liczby klientów oraz jakiej wielkości.
+
+3. W odniesieniu do instrumentów finansowych innych niż udziałowe firma inwestycyjna prowadząca OTF może ułatwiać negocjacje między klientami celu skojarzenia ze sobą dwóch lub więcej zleceń jednej transakcji.
+
+4. Do wykonywania zleceń klientów na OTF przepisy art. 73 ust. 5i i 6a–6c, art. 73a–73d, art. 82a, art. 83b ust. 8 oraz art. 83c–83h stosuje się odpowiednio.
+
+2. Firma inwestycyjna prowadząca ASO może wystąpić do Komisji z wnioskiem o wpisanie tego ASO do rejestru ASO MŚP, jeżeli:
+
+- **1)** dniu składania wniosku o wpis do rejestru co najmniej połowa emitentów, których instrumenty finansowe są wprowadzone do ASO, stanowią emitenci będący małymi i średnimi przedsiębiorcami, zgodnie z art. 78 ust. 1 rozporządzenia 2017/565;
+- **2)** spełnia warunki określone art. 78 ust. 2 lit. a–i rozporządzenia 2017/565;
+- **3)** posiada zasady, systemy i procedury zapewniające, że emitenci, których instrumenty są wprowadzone do tego systemu, osoby pełniące na rzecz tych emitentów obowiązki zarządcze, o których mowa art. 3 ust. 1 pkt 25 rozporządzenia 596/2014, oraz osoby blisko z nimi związane, o których mowa art. 3 ust. 1 pkt 26 rozporządzenia 596/2014, spełniają wymogi określone art. 19 ust. 1 rozporządzenia 596/2014;
+- **4)** posiada skuteczne systemy i mechanizmy kontroli, zmierzające do przeciwdziałania przypadkom manipulacji na rynku i ujawniania takich przypadków zgodnie z wymogami określonymi art. 16 ust. 1 rozporządzenia 596/2014.
+
+3. Wniosek, o którym mowa ust. 2, oraz dokumenty do niego załączone zawierają informacje potwierdzające spełnianie warunków, o których mowa ust. 2.
+
+4. Komisja odmawia wpisu do rejestru, o którym mowa ust. 1, jeżeli nie są spełnione warunki określone ust. 2.
+
+5. Komisja wykreśla ASO z rejestru, o którym mowa ust. 1, jeżeli:
+
+- **1)** firma złożyła wniosek o wykreślenie ASO z rejestru;
+- **2)** warunki, które były podstawą wpisu do rejestru, przestały być spełnione, przy czym ocena spełniania warunku określonego ust. 2 pkt 1 następuje zgodnie z art. 79 ust. 1 rozporządzenia 2017/565.
+
+6. Komisja wykreśla ASO z rejestru, o którym mowa ust. 1, również przypadku, gdy po upływie 3 lat od dnia wpisu do tego rejestru na podstawie art. 69g więcej niż połowa emitentów, których instrumenty finansowe są wprowadzone do obrotu tym systemie, nie spełnia wymogów uznania ich za małych i średnich przedsiębiorców.
+
+7. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o wpisaniu ASO do rejestru, o którym mowa ust. 1, oraz o jego wykreśleniu z tego rejestru.
+
+**Art. 78h.**
+
+1. Przy dokonywaniu zgłoszeń imieniu firmy inwestycyjnej na podstawie art. 26 rozporządzenia 600/2014 podmiot prowadzący system obrotu instrumentami finansowymi stosuje mechanizmy zapewniające zabezpieczenie i uwierzytelnienie środków przesyłu informacji, minimalizujące ryzyko zniekształcenia danych i nieupoważnionego dostępu oraz zapobiegające wyciekowi informacji.
+
+2. Podmiot prowadzący system obrotu instrumentami finansowymi posiada systemy zapasowe zapewniające możliwość oferowania swoich usług i ich utrzymanie każdym czasie. Art. 78ha. W przypadku, o którym mowa art. 26 ust. 5 rozporządzenia 600/2014, firma inwestycyjna prowadząca ASO lub OTF może przekazywać Komisji informacje wymagane na podstawie art. 26 ust. 1–3 rozporządzenia 600/2014 za pośrednictwem zatwierdzonego mechanizmu sprawozdawczego.
+
+**Art. 78i.**
+
+1. Instrumenty finansowe emitenta wprowadzone do ASO MŚP lub do ASO, którym jest dokonywany obrót instrumentami finansowymi emitowanymi przez małych i średnich przedsiębiorców, zarejestrowanego innym państwie członkowskim, mogą być wprowadzone do innego ASO MŚP lub innego ASO, którym jest dokonywany obrót instrumentami finansowymi emitowanymi przez małych i średnich przedsiębiorców, zarejestrowanego innym państwie członkowskim, jeżeli emitent został o tym poinformowany i nie wyraził sprzeciwu.
+
+2. W przypadku, o którym mowa ust. 1, emitent podlega obowiązkom związanym ze stosowaniem ładu korporacyjnego i obowiązkom informacyjnym obowiązującym w:
+
+- **1)** ASO, którym jest dokonywany obrót instrumentami finansowymi emitowanymi przez małych i średnich przedsiębiorców, zarejestrowanego innym państwie członkowskim jeżeli instrumenty finansowe tego emitenta zostały wprowadzone pierwszej kolejności do tego ASO;
+- **2)** ASO MŚP jeżeli instrumenty finansowe tego emitenta zostały wprowadzone pierwszej kolejności do ASO MŚP. posiadających dostęp do informacji poufnej wszystkie osoby, o których mowa art. 18 ust. 1 lit. a rozporządzenia 596/2014.
+
+**Art. 79.**
+
+1. Firma inwestycyjna może, drodze umowy zawartej formie pisemnej, powierzyć osobie fizycznej, osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej stałe lub okresowe wykonywanie imieniu i na rachunek firmy inwestycyjnej czynności pośrednictwa zakresie działalności prowadzonej przez tę firmę inwestycyjną (agent firmy inwestycyjnej).
+
+2. Na podstawie umowy, o której mowa ust. 1, mogą być wykonywane czynności:
+
+- **1)** pozyskiwania klientów lub potencjalnych klientów usług maklerskich, tym informowania o zakresie usług maklerskich świadczonych przez firmę inwestycyjną lub o instrumentach finansowych będących ich przedmiotem;
+- **1a)** pozyskiwania klientów lub potencjalnych klientów, zakresie wykonywanych przez firmę inwestycyjną czynności odpowiadających działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych, tym informowania o wykonywanych przez firmę inwestycyjną czynnościach odpowiadających działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych, lub o lokatach strukturyzowanych będących przedmiotem tych czynności;
+- **1b)** pozyskiwania posiadaczy lub potencjalnych posiadaczy lokaty strukturyzowanej, tym informowania o charakterze i zakresie pośrednictwa firmy inwestycyjnej zawieraniu umowy lokaty strukturyzowanej, o którym mowa art. 69h ust. 1;
+- **2)** związane z zawieraniem:
+    - **a)** umów o świadczenie usług maklerskich,
+    - **b)** umów o wykonywanie przez firmę inwestycyjną czynności odpowiadających działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych, lub umów pośrednictwa firmy inwestycyjnej zawieraniu umowy lokaty strukturyzowanej, o którym mowa art. 69h ust. 1,
+    - **c)** umów lokaty strukturyzowanej wskutek pośrednictwa firmy inwestycyjnej;
+
+- **3)** umożliwiające realizację umów:
+    - **a)** o świadczenie usług maklerskich, szczególności polegające na przyjmowaniu zleceń, o których mowa art. 69 ust. 2 pkt 1, odbieraniu innych oświadczeń woli klienta dla firmy inwestycyjnej, udostępnianiu lub przekazywaniu klientowi informacji związanych ze świadczonymi na jego rzecz usługami maklerskimi,
+    - **b)** pośrednictwa firmy inwestycyjnej zawieraniu umowy lokaty strukturyzowanej, o którym mowa art. 69h ust. 1, oraz umów o wykonywanie przez firmę inwestycyjną czynności odpowiadających działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych, tym polegających na przyjmowaniu oświadczeń woli klienta dla firmy inwestycyjnej oraz udostępnianiu lub przekazywaniu klientowi informacji związanych z realizowanymi umowami.
+
+2a. Czynności, o których mowa ust. 2 pkt 1, pkt 2 lit. a i pkt 3 lit. a, mogą być wykonywane wyłącznie przez samą firmę inwestycyjną lub przez agenta tej firmy inwestycyjnej, z zastrzeżeniem ust. 2b. Agentem firmy inwestycyjnej może być inna firma inwestycyjna, pod warunkiem że została ona wpisana do rejestru, o którym mowa ust. 8.
+
+2b. Czynności, o których mowa ust. 2 pkt 1, mogą być wykonywane przez podmioty inne niż firma inwestycyjna lub agent firmy inwestycyjnej, jeżeli ramach ich wykonywania informacje przekazywane są jednocześnie do szerokiej grupy klientów lub potencjalnych klientów firmy inwestycyjnej, albo do nieokreślonego adresata.
+
+2c. (uchylony)
+
+3. Zakazane jest pozostawanie stosunku umownym wynikającym z umowy, o której mowa ust. 1, z więcej niż jedną firmą inwestycyjną.
+
+4. Zakazane jest przyjmowanie przez agenta firmy inwestycyjnej jakichkolwiek wpłat, związku z czynnościami wykonywanymi na podstawie umowy, o której mowa ust. 1, od osób, na rzecz których firma inwestycyjna świadczy usługi, jak również dokonywanych przez firmę inwestycyjną na rzecz tych osób.
+
+4a. Agent będący osobą fizyczną albo osoby wykonujące czynności na rzecz agenta będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej, które wykonują czynności, o których mowa ust. 2, są obowiązane spełniać wymogi, o których mowa art. 82a ust. 1 pkt 1. Posiadanie tytułu doradcy inwestycyjnego lub maklera papierów wartościowych uważa się za spełnienie tych wymogów. firmy inwestycyjnej odpowiada solidarnie ta firma inwestycyjna i agent, który wyrządził szkodę. Odpowiedzialność wyłączona jest przypadku, gdy szkoda nastąpiła wskutek działania siły wyższej lub wyłącznie z winy osoby trzeciej.
+
+6. Agent firmy inwestycyjnej informuje klienta lub potencjalnego klienta oraz posiadacza lub potencjalnego posiadacza lokaty strukturyzowanej o zakresie czynności, do podejmowania których zgodnie z umową, o której mowa ust. 1, jest upoważniony. W przypadku gdy agentem firmy inwestycyjnej jest osoba wykonująca zawód maklera papierów wartościowych lub doradcy inwestycyjnego, jest ona ponadto obowiązana okazać dokument potwierdzający posiadanie uprawnień do wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego.
+
+6a. Firma inwestycyjna jest obowiązana nadzorować czynności wykonywane przez agenta firmy inwestycyjnej na podstawie zawartej z tą firmą umowy, o której mowa ust. 1, celu zapewnienia, że czynności, o których mowa ust. 2, są wykonywane zgodnie z przepisami ustawy oraz przepisami wydanymi na jej podstawie, a szczególności, że obowiązki nałożone tymi przepisami na firmę inwestycyjną są wykonywane sposób prawidłowy, jak również celu zapewnienia, że działalność agenta firmy inwestycyjnej wykonywana zakresie innym niż wynikający z umowy, o której mowa ust. 1, nie powoduje niekorzystnego wpływu na czynności podejmowane na podstawie tej umowy.
+
+7. W stosunku do agenta firmy inwestycyjnej Komisji przysługują przewidziane ustawie o nadzorze uprawnienia kontrolne, zakresie dotyczącym czynności wykonywanych na rzecz firmy inwestycyjnej oraz sporządzanych związku z tymi czynnościami dokumentów.
+
+8. Komisja prowadzi rejestr agentów firm inwestycyjnych, z którymi firmy inwestycyjne zawarły umowę, o której mowa ust. 1.
+
+8a. Rozpoczęcie wykonywania czynności, o których mowa ust. 2, może nastąpić po wpisaniu agenta firmy inwestycyjnej do rejestru, o którym mowa ust. 8.
+
+9. Komisja skreśla agenta firmy inwestycyjnej z rejestru, o którym mowa ust. 8:
+
+- **1)** (uchylony)
+- **2)** niezwłocznie po otrzymaniu od firmy inwestycyjnej informacji o rozwiązaniu umowy, o której mowa ust. 1;
+- **3)** jeżeli przestał on spełniać warunki, których spełnienie było podstawą wpisu do rejestru;
+- **4)** jeżeli firma inwestycyjna utraciła uprawnienie do prowadzenia działalności maklerskiej.
+
+9a. W sprawach, o których mowa ust. 9, przepis art. 130 ust. 3 stosuje się odpowiednio.
+
+9b. Przepisu ust. 9 pkt 2 nie stosuje się przypadku gdy terminie 7 dni od dnia rozwiązania umowy inna firma inwestycyjna zawrze umowę z tym agentem i przekaże Komisji informację o jej zawarciu, wraz z dokumentami, o których mowa art. 81 ust. 1.
+
+10. (uchylony)
+
+11. Na żądanie Komisji lub jej upoważnionego przedstawiciela agent firmy inwestycyjnej będący osobą fizyczną oraz osoby uprawnione do reprezentowania agenta firmy inwestycyjnej lub wchodzące skład jego statutowych organów albo pozostające z agentem firmy inwestycyjnej stosunku pracy są obowiązani do niezwłocznego sporządzenia i przekazania, na koszt agenta firmy inwestycyjnej, kopii dokumentów i innych nośników informacji związanych z jego działalnością, oraz do udzielenia pisemnych lub ustnych wyjaśnień zakresie nadzoru sprawowanego przez Komisję.
+
+**Art. 80.** Agent firmy inwestycyjnej, który zawarł z firmą inwestycyjną umowę, o której mowa art. 79 ust. 1, jest przedsiębiorcą.
+
+**Art. 81.**
+
+1. Wniosek o wpis do rejestru, o którym mowa art. 79 ust. 8, składa firma inwestycyjna, na rzecz której mają być wykonywane czynności, o których mowa art. 79 ust. 2. Wniosek zawiera:
+
+- **1)** przypadku osoby fizycznej:
+    - **a)** dane osobowe obejmujące imię i nazwisko, miejsce i adres zamieszkania, numer PESEL, a przypadku jego braku serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **b)** oświadczenie o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej,
+    - **d)** oświadczenie o nieuznaniu prawomocnym orzeczeniem za winną popełnienia przestępstw lub wykroczeń, o których mowa ust. 4,
+    - **e)** zakres i sposób wykonywania czynności, jakie zostały powierzone na podstawie umowy, o której mowa art. 79 ust. 1, oraz miejsce jej wykonywania,
+    - **f)** wskazanie osoby lub osób z firmy inwestycyjnej odpowiedzialnych za nadzór nad agentem firmy inwestycyjnej,
+    - **g)** opinię firmy inwestycyjnej, że dana osoba posiada odpowiedni poziom wiedzy i doświadczenia zawodowego zakresie usług pośrednictwa finansowego, obowiązujących przepisów prawa oraz standardów działalności firm inwestycyjnych, chyba że agentem firmy inwestycyjnej ma być osoba mająca prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego;
+
+- **2)** przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
+    - **a)** dane obejmujące firmę lub nazwę oraz siedzibę i adres,
+    - **b)** opis prowadzonej działalności gospodarczej,
+    - **c)** oświadczenie o wpisie do właściwego rejestru,
+    - **d)** dane osobowe osób kierujących działalnością podmiotu obejmujące imię i nazwisko, miejsce i adres zamieszkania, numer PESEL, a przypadku jego braku serię i numer paszportu lub innego dokumentu potwierdzającego tożsamość,
+    - **e)** oświadczenia osób kierujących działalnością podmiotu o nieuznaniu prawomocnym orzeczeniem za winne popełnienia przestępstwa lub wykroczenia, o których mowa ust. 4,
+    - **f)** zakres i sposób wykonywania czynności, jakie zostały powierzone na podstawie umowy, o której mowa art. 79 ust. 1, oraz miejsce jej wykonywania,
+    - **g)** wskazanie osoby lub osób z firmy inwestycyjnej odpowiedzialnych za nadzór nad agentem firmy inwestycyjnej,
+    - **h)** opinię firmy inwestycyjnej, że doświadczenie zakresie obrotu instrumentami finansowymi posiadane przez dany podmiot lub przez osoby kierujące jego działalnością, odpowiedzialne za nadzór nad wykonywaniem czynności agencyjnych, oraz struktura organizacyjna tego podmiotu gwarantują wykonywanie czynności, o których mowa art. 79 ust. 2, sposób prawidłowy, z dołożeniem należytej staranności chyba że agentem firmy inwestycyjnej ma być inna firma inwestycyjna.
+
+2. Oświadczenia, o których mowa ust. 1 pkt 1 lit. b i d oraz pkt 2 lit. c i e, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+3. W przypadku gdy agentem firmy inwestycyjnej ma być podmiot prowadzący działalność gospodarczą nadzorowaną przez organ, z którym Komisja zawarła porozumienie, o którym mowa art. 20 ust. 2 ustawy o nadzorze, Komisja, po otrzymaniu wniosku, o którym mowa ust. 1, występuje do tego organu o przedstawienie opinii dotyczącej sytuacji finansowej podmiotu, który ma zostać wpisany do rejestru oraz sposobu prowadzenia działalności przez ten podmiot. Przedstawienie przez ten organ pozytywnej opinii o:
+
+- **1)** osobie fizycznej jest uznawane za posiadanie przez nią odpowiedniego poziomu wiedzy i doświadczenia zawodowego zakresie, o którym mowa ust. 1 pkt 1 lit. g;
+- **2)** osobie prawnej lub jednostce organizacyjnej nieposiadającej osobowości prawnej jest uznawane za posiadanie przez nią lub przez osoby kierujące jej działalnością doświadczenia zakresie, o którym mowa ust. 1 pkt 2 lit. h, oraz posiadanie przez tę osobę lub jednostkę struktury organizacyjnej, gwarantujących wykonywanie czynności, o których mowa art. 79 ust. 2, sposób prawidłowy, z dołożeniem należytej staranności.
+
+4. Komisja odmawia wpisu do rejestru przypadku, gdy osoba fizyczna, o której mowa ust. 1 pkt 1, lub osoba kierująca działalnością podmiotu, o którym mowa ust. 1 pkt 2, została uznana prawomocnym orzeczeniem za winną popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstw określonych ustawie z dnia 26 października 2000 r. o giełdach towarowych, ustawie o funduszach inwestycyjnych, ustawie o ofercie publicznej lub przestępstw określonych niniejszej ustawie. miotu, o którym mowa ust. 1 pkt 2, przypadku gdy wykonywanie przez tę osobę lub ten podmiot czynności, o których mowa art. 79 ust. 2, mogłoby doprowadzić do naruszenia bezpieczeństwa obrotu lub interesów klientów firmy inwestycyjnej. W przypadku podmiotu, o którym mowa ust. 1 pkt 2, Komisja odmawia dokonania wpisu do rejestru także wtedy, gdy doświadczenie zakresie obrotu instrumentami finansowymi posiadane przez ten podmiot lub przez osoby kierujące jego działalnością, odpowiedzialne za nadzór nad wykonywaniem czynności agencyjnych, oraz struktura organizacyjna tego podmiotu nie gwarantują wykonywania czynności, o których mowa art. 79 ust. 2, sposób prawidłowy, z dołożeniem należytej staranności.
+
+6. Firma inwestycyjna jest obowiązana do pisemnego informowania Komisji o:
+
+- **1)** każdorazowej zmianie danych objętych wnioskiem o wpis do rejestru, terminie 7 dni od dnia powzięcia informacji o tych zmianach;
+- **2)** rozpoczęciu przez agenta firmy inwestycyjnej wykonywania czynności, o których mowa art. 79 ust. 2, terminie 3 dni od dnia rozpoczęcia wykonywania tych czynności;
+- **3)** rozwiązaniu umowy, o której mowa art. 79 ust. 1, ze wskazaniem daty i przyczyn jej rozwiązania, terminie 7 dni od dnia rozwiązania umowy.
+
+**Art. 81a.**
+
+1. Firma inwestycyjna może, na podstawie umowy zawartej formie pisemnej, powierzyć przedsiębiorcy lub przedsiębiorcy zagranicznemu wykonywanie czynności, o których mowa art. 2 pkt 3 rozporządzenia 2017/565 (outsourcing).
+
+2. W przypadku gdy powierzenie dotyczy podstawowych lub istotnych funkcji operacyjnych rozumieniu art. 30 rozporządzenia 2017/565, stosuje się przepisy art. 31 i art. 32 tego rozporządzenia.
+
+3. W przypadku zlecenia przez firmę inwestycyjną prowadzącą ASO lub OTF wykonywania całości albo części funkcji operacyjnych dotyczących systemów transakcyjnych pozwalających na stosowanie lub wspierających stosowanie handlu algorytmicznego:
+
+- **1)** stosuje się przepisy art. 6 rozporządzenia 2017/584;
+- **2)** nie stosuje się przepisu art. 81d;
+- **3)** stosuje się odpowiednio przepisy art. 16c i art. 16d ust. 1 i 2;
+- **4)** stosuje się odpowiednio przepis art. 16d ust. 3, z tym że firma inwestycyjna dokonuje zawiadomienia, o którym mowa tym przepisie, terminie 14 dni od dnia powzięcia informacji o zmianie, rozwiązaniu lub wygaśnięciu umowy, o której mowa ust. 1, dotyczącej zlecenia wykonywania całości albo części funkcji operacyjnych dotyczących systemów transakcyjnych pozwalających na stosowanie lub wspierających stosowanie handlu algorytmicznego.
+
+**Art. 81b.** (uchylony)
+
+**Art. 81c.**
+
+1. Firma inwestycyjna uwzględnia ryzyko związane z powierzeniem wykonywania czynności systemie zarządzania ryzykiem, tym wynikające z niewykonania lub nienależytego wykonania umowy, o której mowa art. 81a ust. 2, sposób obejmujący działania związane z identyfikacją, szacowaniem, kontrolą, monitorowaniem i raportowaniem ryzyka tym zakresie oraz przeciwdziałaniem mu tym zakresie.
+
+2. Odpowiedzialności przedsiębiorcy lub przedsiębiorcy zagranicznego wobec firmy inwestycyjnej za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa art. 81a ust. 2, nie można wyłączyć.
+
+3. W przypadku zawarcia umowy, o której mowa art. 81a ust. 2, do której zastosowanie mają przepisy prawa obcego, firma inwestycyjna zapewnia zawarcie niej postanowień odpowiadających przepisom art. 473 § 2, art. 474 i art. 483 § 2 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+4. Odpowiedzialności firmy inwestycyjnej za szkody wyrządzone klientom wskutek niewykonania lub nienależytego wykonania umowy, o której mowa art. 81a ust. 1, przez przedsiębiorcę lub przedsiębiorcę zagranicznego nie można wyłączyć ani ograniczyć.
+
+5. (uchylony) tów związanych z wypłatą odszkodowania z tytułu roszczeń klientów lub osób trzecich o naprawienie szkody wyrządzonej wskutek niewykonania lub nienależytego wykonania przez przedsiębiorcę albo przedsiębiorcę zagranicznego umowy, o której mowa art. 81a ust. 1, przypadku, o którym mowa art. 81a ust. 2, zakresie, jakim nie poniósłby odpowiedzialności, szczególności przez:
+
+- **1)** (uchylony)
+- **2)** zawarcie odpowiedniej umowy ubezpieczenia odpowiedzialności cywilnej, gwarancji ubezpieczeniowej lub gwarancji bankowej, na podstawie której firma inwestycyjna będzie uprawniona do otrzymania świadczenia związku z tymi kosztami, lub
+- **3)** posiadanie odpowiednich funduszy własnych na pokrycie tych kosztów.
+
+**Art. 81d.**
+
+1. Firma inwestycyjna zawiadamia Komisję o zawarciu umowy, o której mowa art. 81a ust. 2, terminie 14 dni od dnia jej zawarcia. W zawiadomieniu firma inwestycyjna określa zakres czynności powierzonych innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu.
+
+2. Firma inwestycyjna zawiadamia Komisję o istotnej zmianie, rozwiązaniu lub wygaśnięciu umowy, o której mowa art. 81a ust. 2, terminie 14 dni od dnia tego zdarzenia. Za istotną zmianę umowy uważa się szczególności zmianę zakresu czynności powierzonych innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu. W takim przypadku zawiadomienie określa nowy zakres powierzonych czynności oraz wskazuje, jakie zmiany zostały wprowadzone umowie.
+
+**Art. 81e.** (uchylony)
+
+**Art. 81f.**
+
+1. Przedsiębiorca lub przedsiębiorca zagraniczny, którym powierzono wykonywanie czynności zleconych przez firmę inwestycyjną, mogą powierzyć wykonywanie tych czynności innemu przedsiębiorcy lub przedsiębiorcy zagranicznemu, jeżeli firma inwestycyjna wyrazi zgodę formie pisemnej. Pisemna zgoda firmy inwestycyjnej powinna określać zakres powierzanych czynności wraz ze wskazaniem oznaczonego przedsiębiorcy lub przedsiębiorcy zagranicznego, który będzie wykonywał te czynności.
+
+2. Czynności powierzone ramach powierzenia, o którym mowa ust. 1, nie mogą stanowić istoty czynności zleconych przez firmę inwestycyjną, a przypadku umów, o których mowa art. 81a ust. 2 powodować, że którykolwiek z warunków przewidzianych art. 31 ust. 2 rozporządzenia 2017/565 nie będzie spełniony.
+
+3. (uchylony) 3a. Dalsze powierzanie wykonywania czynności zleconych przez firmę inwestycyjną odbywa się z zachowaniem warunków, o których mowa ust. 1 i 2.
+
+4. Wykonywanie czynności ramach powierzenia, o którym mowa ust. 1 lub 3a, nie wyłącza ani nie zmienia zasad odpowiedzialności określonych art. 81c ust. 2–4.
+
+**Art. 81g.** (uchylony)
+
+**Art. 82.**
+
+1. Wniosek o udzielenie zezwolenia na prowadzenie działalności maklerskiej składany przez podmiot nieposiadający statusu domu maklerskiego, z zastrzeżeniem art. 111 ust. 2, zawiera:
+
+- **1)** informacje, o których mowa art. 1–7 rozporządzenia 2017/1943;
+- **2)** oświadczenia członków zarządu albo wspólników lub komplementariuszy spółce osobowej, rady nadzorczej, komisji rewizyjnej, o ile jest ustanowiona, jak również innych osób, które odpowiadają za rozpoczęcie przez wnioskodawcę działalności maklerskiej lub będą nią kierować, z wyłączeniem wspólników oraz komplementariuszy przypadku domu maklerskiego działającego formie spółki osobowej, którym nie przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. ‒ Kodeks spółek handlowych, że nie były uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. ‒ Prawo własności przemysłowej, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca wiązujących innych państwach członkowskich oraz że okresie 3 lat poprzedzających dzień złożenia wniosku nie zostały ukarane trybie administracyjnym przez właściwy organ nadzoru innego państwa członkowskiego za naruszenie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającą dyrektywę 2002/87/WE i uchylającą dyrektywy 2006/48/WE oraz 2006/49/WE (Dz. Urz. UE L 176 z 27.06.2013, str. 338, z późn. zm. ), przepisów rozporządzenia 575/2013, przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE (Dz. Urz. UE L 314 z 05.12.2019, str. 64, z późn. zm. ) lub przepisów rozporządzenia 2019/2033;
+- **3)** przypadku gdy wniosek dotyczy prowadzenia ASO informacje, o których mowa art. 2 i art. 3 rozporządzenia 2016/824;
+- **4)** przypadku gdy wniosek dotyczy prowadzenia OTF informacje, o których mowa art. 2 i art. 6 rozporządzenia 2016/824, a przypadku gdy przedmiotem obrotu na OTF mają być produkty energetyczne sprzedawane obrocie hurtowym, które muszą być wykonywane przez dostawę także informacje o takich produktach, zakresie, jaki zgodnie z przepisami rozporządzenia 2016/824 jest wymagany wobec klas aktywów rozumieniu art. 1 pkt 2 tego rozporządzenia;
+- **5)** przypadku gdy wnioskowana działalność będzie obejmować nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną informacje wskazujące, jaki sposób wnioskodawca zamierza zapewnić zgodność działalności z art. 19 ust. 3 oraz art. 59 ust. 2 i 3 rozporządzenia 1031/2010;
+- **6)** przypadku podmiotu nieposiadającego zezwolenia na prowadzenie działalności maklerskiej wskazanie osób, które będą sprawowały funkcje, o których mowa art. 102a ust. 1, oraz informacje i oświadczenia wymienione art. 102a ust. 2.
+
+1a. Wniosek, o którym mowa ust. 1, składany przez dom maklerski, zawiera:
+
+- **1)** informacje, o których mowa art. 1 lit. a i b, art. 5 lit. a, art. 6 lit. a, c i e–l oraz art. 7 rozporządzenia 2017/1943;
+- **2)** informacje, o których mowa art. 2 i art. 3 rozporządzenia 2016/824 przypadku gdy wniosek dotyczy prowadzenia ASO;
+- **3)** informacje, o których mowa art. 2 i art. 6 rozporządzenia 2016/824 przypadku gdy wniosek dotyczy prowadzenia OTF, a przypadku gdy przedmiotem obrotu na OTF mają być produkty energetyczne sprzedawane obrocie hurtowym, które muszą być wykonywane przez dostawę także informacje o takich produktach, zakresie, jaki zgodnie z przepisami rozporządzenia 2016/824, jest wymagany wobec klas aktywów rozumieniu art. 1 pkt 2 tego rozporządzenia;
+- **4)** informacje wskazujące, jaki sposób wnioskodawca zamierza zapewnić zgodność działalności z art. 19 ust. 3 oraz art. 59 ust. 2 i 3 rozporządzenia 1031/2010 przypadku gdy wnioskowana działalność będzie obejmować nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną.
+
+2. Do wniosku dołącza się:
+
+- **1)** (uchylony)
+- **2)** (uchylony) 2a) (uchylony)
+- **3)** (uchylony)
+- **4)** projekt regulaminu ochrony przepływu informacji poufnych oraz stanowiących tajemnicę zawodową;
+- **4a)** (uchylony) 4c) projekt procedur oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 1 rozporządzenia 596/2014 przypadku gdy wnioskodawca zamierza organizować ASO lub OTF;
+- **5)** (uchylony)
+- **6)** (uchylony)
+- **7)** (uchylony)
+- **8)** (uchylony)
+- **9)** (uchylony)
+- **10)** (uchylony)
+- **11)** listę akcjonariuszy, udziałowców lub wspólników wnioskodawcy.
+
+2a. Oświadczenia, o których mowa ust. 1 pkt 2, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+2b. Na potrzeby przekazania informacji określonych ust. 1 pkt 1 oraz ust. 1a pkt 1, za organ zarządzający, o którym mowa art. 4 rozporządzenia 2017/1943, uznaje się zarząd oraz radę nadzorczą.
+
+3. (uchylony) 3a. (uchylony)
+
+4. W celu ustalenia wpływu wywieranego przez podmiot posiadający pośrednio lub bezpośrednio akcje lub udziały wnioskodawcy liczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu lub na zgromadzeniu wspólników na sposób prowadzenia działalności maklerskiej, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów klientów Komisja może żądać przedstawienia innych niż określone art. 3 rozporządzenia 2017/1943 danych dotyczących sytuacji prawnej lub finansowej tego podmiotu.
+
+5. Przepis ust. 4 stosuje się odpowiednio do wspólników, komplementariuszy lub partnerów odpowiednio spółki jawnej, komandytowej, komandytowo-akcyjnej lub partnerskiej, będącej wnioskodawcą, uprawnionych do prowadzenia spraw tej spółki lub do jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+6. W celu ustalenia, czy wnioskodawca, którego wniosek obejmuje nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną, zapewni zgodność działalności z wymogami określonymi przepisach rozporządzenia 1031/2010, poza informacjami przedstawionymi przez wnioskodawcę na podstawie ust. 1 pkt 5 Komisja może żądać od wnioskodawcy przedstawienia innych informacji i dokumentów.
+
+**Art. 82a.**
+
+1. Firma inwestycyjna jest obowiązana zatrudniać osoby posiadające odpowiednią wiedzę i kompetencje zakresie:
+
+- **1)** przekazywania klientom lub potencjalnym klientom informacji o usługach maklerskich oraz instrumentach finansowych będących ich przedmiotem;
+- **2)** wykonywania czynności, o których mowa art. 69 ust. 2 pkt 5.
+
+2. Zatrudnianie przez firmę inwestycyjną, na podstawie umowy o pracę, osób posiadających tytuł doradcy inwestycyjnego lub maklera papierów wartościowych uważa się za spełnienie wymogów, o których mowa ust. 1.
+
+3. Firma inwestycyjna zapewnia utrzymywanie i doskonalenie przez osoby, o których mowa ust. 1 i 2, wiedzy i kompetencji niezbędnych do należytego wykonywania powierzonych obowiązków.
+
+**Art. 83.**
+
+1. Firma inwestycyjna jest obowiązana zatrudniać, na podstawie umowy o pracę, co najmniej:
+
+- **1)** (uchylony)
+- **2)** dwóch doradców inwestycyjnych do wykonywania czynności, o których mowa art. 69 ust. 2 pkt 4.
+- **3)** (uchylony) nuje doradca inwestycyjny będący komplementariuszem spółce komandytowo-akcyjnej lub komandytowej albo wspólnikiem spółce jawnej lub partnerskiej będącej firmą inwestycyjną.
+
+3. Przepisu ust. 1 nie stosuje się do zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską bez konieczności otwierania oddziału.
+
+4. (uchylony)
+
+**Art. 83a.**
+
+1. Firma inwestycyjna jest obowiązana stosować prowadzonej działalności rozwiązania techniczne i organizacyjne zapewniające bezpieczeństwo i ciągłość świadczonych usług maklerskich oraz ochronę interesów klientów i informacji poufnych lub stanowiących tajemnicę zawodową.
+
+1a. Firma inwestycyjna jest obowiązana posiadać procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a szczególnych przypadkach radzie nadzorczej, naruszeń prawa, tym rozporządzenia 596/2014, rozporządzenia 600/2014 oraz procedur i standardów etycznych obowiązujących firmie inwestycyjnej.
+
+1b. W ramach procedur, o których mowa ust. 1a, firma inwestycyjna zapewnia pracownikom, którzy zgłaszają naruszenia, ochronę co najmniej przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania.
+
+1c. W przypadku domu maklerskiego działającego formie spółki osobowej wymogi, o których mowa ust. 1a, mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+2. (uchylony)
+
+3. (uchylony) 3a. Ustanowiony firmie inwestycyjnej system wynagradzania osób świadczących pracę na jej rzecz, uczestniczących świadczeniu usług maklerskich, szczególności obsługujących klienta lub potencjalnego klienta, powinien wspierać wykonanie obowiązku, o którym mowa art. 83c ust. 1, oraz być środkiem ograniczającym ryzyko wystąpienia konfliktu interesów.
+
+3b. Firma inwestycyjna jest obowiązana utrzymywać organizację przedsiębiorstwa sposób zapewniający:
+
+- **1)** odpowiednią liczbę osób świadczących pracę na jej rzecz, wymaganą do prawidłowego świadczenia usług maklerskich, oraz
+- **2)** posiadanie przez osoby, o których mowa pkt 1, odpowiedniej wiedzy, kompetencji i doświadczenia zakresie powierzonych obowiązków, oraz utrzymywanie i doskonalenie przez te osoby takiej wiedzy i takich kompetencji.
+
+3c. Firma inwestycyjna opracowuje, wdraża i stosuje procedury oraz inne regulacje wewnętrzne zakresie niezbędnym do prawidłowego świadczenia usług maklerskich. W przypadku świadczenia usług maklerskich dla klientów detalicznych firma inwestycyjna opracowuje, wdraża i stosuje regulaminy świadczenia usług maklerskich.
+
+3d. W przypadku gdy konstrukcja instrumentów finansowych lub specyfika obrotu tymi instrumentami finansowymi uniemożliwia uregulowanie praw i obowiązków związanych ze świadczeniem usług maklerskich sposób jednolity dla wszystkich klientów, na rzecz których świadczone są dane usługi, wymogu opracowania regulaminu, o którym mowa ust. 3c, nie stosuje się.
+
+3e. Przy wykonywaniu obowiązków, o których mowa ust. 1, 3b i 3c, firma inwestycyjna uwzględnia zakres, skalę i złożoność prowadzonej działalności.
+
+3f. Firma inwestycyjna opracowuje, wdraża i stosuje politykę zakresie świadczenia usług maklerskich i instrumentów finansowych będących jej przedmiotem, uwzględniającą charakterystykę oraz potrzeby klientów lub potencjalnych klientów, oraz akceptowanego przez klientów lub potencjalnych klientów poziomu ryzyka.
+
+3g. Firma inwestycyjna monitoruje i regularnie ocenia:
+
+- **1)** adekwatność celów strategicznych firmy inwestycyjnej przyjętych świadczeniu usług maklerskich oraz
+- **2)** adekwatność i skuteczność wdrożonych rozwiązań, regulacji i polityk organizacji przedsiębiorstwa.
+- **1)** nagrywa rozmowy telefoniczne prowadzone z klientami związku ze świadczonymi usługami maklerskimi, o których mowa art. 69 ust. 2 pkt 1–5;
+- **2)** sporządza protokoły, notatki lub nagrania rozmów przeprowadzonych bezpośredniej obecności klienta lub potencjalnego klienta związku ze świadczonymi usługami maklerskimi, o których mowa art. 69 ust. 2 pkt 1–5.
+
+4. Firma inwestycyjna rejestruje, przechowuje i archiwizuje dokumenty, nagrania rozmów telefonicznych, korespondencję elektroniczną oraz inne informacje sporządzane, przekazywane lub otrzymywane związku ze świadczonymi usługami maklerskimi.
+
+4a. Z zastrzeżeniem art. 73 i art. 76 ust. 11 rozporządzenia 2017/565, obowiązek przechowywania i archiwizowania, o którym mowa ust. 4, wygasa z upływem 5 lat, licząc od pierwszego dnia roku następującego po roku, którym dokumenty lub nośniki informacji zostały sporządzone lub otrzymane, a przypadku regulaminów, procedur oraz innych regulacji wewnętrznych z upływem 5 lat, licząc od pierwszego dnia roku następującego po roku, którym przestały one obowiązywać. Komisja może zażądać od firmy inwestycyjnej przechowywania i archiwizowania takich danych lub dokumentów po upływie tego terminu, nie dłużej jednak niż przez 7 lat, licząc od pierwszego dnia roku następującego po roku, którym zostały one sporządzone lub otrzymane, lub przestały obowiązywać. 4aa. Obowiązki określone ust. 3h i 4, tym odniesieniu do usług, o których mowa art. 69 ust. 2 pkt 4 i 5, firma inwestycyjna wykonuje na zasadach określonych art. 72–76 rozporządzenia 2017/565. 4ab. Firma inwestycyjna oznacza datę i dokładny czas sporządzenia, przekazania lub otrzymania informacji, o których mowa ust. 3h i 4, przypadku gdy dane te nie są zawarte ich treści.
+
+4b. Obowiązek, o którym mowa ust. 3h i 4, obejmuje również sporządzanie protokołów, notatek, nagrywanie rozmów telefonicznych i zapisywanie korespondencji elektronicznej, związanych z czynnościami, które mogłyby skutkować świadczeniem jednej z usług maklerskich, o których mowa art. 69 ust. 2 pkt 1–5, nawet jeżeli wyniku prowadzenia tych rozmów lub korespondencji nie dochodziłoby do świadczenia usługi. Obowiązek sporządzania protokołów, notatek, nagrywania rozmów telefonicznych i zapisywania korespondencji elektronicznej obejmuje urządzenia firmy inwestycyjnej oraz, pod warunkiem zatwierdzenia do używania przez firmę inwestycyjną prywatnych urządzeń osób zatrudnionych firmie inwestycyjnej, także te urządzenia.
+
+4c. Firma inwestycyjna informuje klientów lub potencjalnych klientów o nagrywaniu rozmów telefonicznych lub zapisywaniu prowadzonej korespondencji elektronicznej, wyniku których dochodziłoby lub mogłoby dojść do świadczenia jednej z usług maklerskich, o których mowa art. 69 ust. 2 pkt 1–5, przed rozpoczęciem takiego nagrania lub zapisu. Firma inwestycyjna może poinformować jednokrotnie klienta lub potencjalnego klienta wskazując, że będzie nagrywała lub zapisywała przyszłe rozmowy lub korespondencję. Firma inwestycyjna nie może prowadzić rozmów telefonicznych lub korespondencji elektronicznej, jeżeli nie poinformowała klienta lub potencjalnego klienta o nagrywaniu rozmów lub zapisywaniu korespondencji.
+
+4d. Firma inwestycyjna podejmuje działania zapobiegające prowadzeniu przez osoby zatrudnione firmie inwestycyjnej rozmów telefonicznych lub korespondencji elektronicznej z wykorzystaniem zatwierdzonych do używania przez tę firmę prywatnych urządzeń tych osób, jeżeli nie jest stanie nagrywać tych rozmów lub zapisywać tej korespondencji.
+
+5. Firma inwestycyjna zarządza ryzykiem swojej działalności, przy czym dom maklerski oraz mały dom maklerski, o których mowa odpowiednio art. 110a ust. 1 pkt 4 i 9b, stosują tym zakresie przepisy oddziału 2a.
+
+6. (uchylony)
+
+**Art. 83b.**
+
+1. Przy opracowywaniu, wdrażaniu i stosowaniu rozwiązań technicznych i organizacyjnych świadczeniu usług maklerskich firma inwestycyjna uwzględnia zasady określone art. 21 rozporządzenia 2017/565.
+
+2. Firma inwestycyjna opracowuje, wdraża i stosuje politykę celu zapewnienia zgodności działalności firmy inwestycyjnej oraz jej agentów z przepisami prawa regulującymi świadczenie usług maklerskich oraz adekwatne i skuteczne rozwiązania techniczne i organizacyjne tym zakresie, tym zasady regulujące zawieranie transakcji przez osoby zaangażowane.
+
+2a. Firma inwestycyjna ustanawia, wdraża i utrzymuje system kontroli wewnętrznej, tym odniesieniu do agentów firmy inwestycyjnej, na który składają się:
+
+- **1)** mechanizmy kontroli służące realizacji zadań, o których mowa art. 21 ust. 1 lit. c rozporządzenia 2017/565;
+- **2)** funkcja zgodności z przepisami, o której mowa art. 22 ust. 2 rozporządzenia 2017/565;
+- **3)** audyt wewnętrzny. i art. 29 rozporządzenia 2017/565.
+
+4. Firma inwestycyjna podejmuje działania określone art. 23 ust. 1 rozporządzenia 2017/565 zakresie zarządzania ryzykiem związanym z działalnością prowadzoną przez firmę inwestycyjną. W przypadku określonym art. 23 ust. 2 rozporządzenia 2017/565 firma inwestycyjna ustanawia komórkę zarządzania ryzykiem wykonującą zadania, o których mowa tym przepisie, oraz inne obowiązki wynikające z odrębnych przepisów dotyczących zarządzania ryzykiem.
+
+5. Firma inwestycyjna opracowuje, wdraża i utrzymuje system audytu wewnętrznego celu realizacji zadań określonych art. 24 lit. a–c rozporządzenia 2017/565, a przypadku gdy jest to proporcjonalne stosunku do charakteru, skali i stopnia złożoności działalności gospodarczej oraz do charakteru i zasięgu usług i działań inwestycyjnych wykonywanych przez tę firmę ustanawia ona komórkę audytu wewnętrznego.
+
+6. (uchylony)
+
+7. Firma inwestycyjna opracowuje, wdraża i stosuje odpowiednie środki oraz procedury zarządzania konfliktami interesów rozumieniu art. 33 rozporządzenia 2017/565, z uwzględnieniem art. 34 i art. 35 tego rozporządzenia.
+
+8. Firma inwestycyjna, która emituje lub wystawia instrument finansowy, lub udziela innym podmiotom, ramach działalności maklerskiej, o której mowa art. 69 ust. 2 i ust. 4 pkt 3, porad zakresie emitowania lub wystawiania instrumentu finansowego, opracowuje, wdraża, stosuje oraz poddaje przeglądowi rozwiązania związane z procesem emitowania lub wystawiania instrumentu finansowego, zapewniające, że instrument finansowy oraz strategia dystrybucji będą odpowiednie dla grupy docelowej.
+
+9. Firma inwestycyjna, która ramach prowadzonej działalności maklerskiej, o której mowa art. 69 ust. 2 i 4, rekomenduje lub oferuje instrument finansowy albo inny sposób umożliwia nabycie lub objęcie instrumentu finansowego przez grupę docelową, opracowuje, wdraża, stosuje oraz poddaje przeglądowi rozwiązania związane z procesem wykonywania tych czynności, zapewniające, że instrument finansowy oraz strategia dystrybucji będą odpowiednie dla grupy docelowej.
+
+10. Przez grupę docelową rozumie się określoną grupę nabywców instrumentu finansowego, z których potrzebami, cechami lub celami, tym celami związanymi ze zrównoważonym rozwojem, instrument finansowy jest zgodny, niezależnie od sposobu nabycia lub objęcia przez nich tego instrumentu, szczególności niezależnie od jego nabycia lub objęcia ramach prowadzenia działalności maklerskiej lub związku z jej prowadzeniem, bezpośrednio lub za pośrednictwem innych podmiotów.
+
+11. Przez strategię dystrybucji rozumie się zamierzony sposób, jaki instrument finansowy może być nabyty lub objęty przez grupę docelową. W szczególności instrument finansowy może być nabyty lub objęty przez grupę docelową ramach prowadzenia działalności maklerskiej lub związku z jej prowadzeniem, bezpośrednio lub za pośrednictwem innych podmiotów.
+
+12. Rozwiązania, o których mowa ust. 8, obejmują szczególności:
+
+- **1)** określenie grupy docelowej instrumentu finansowego z uwzględnieniem podziału klientów na kategorie zgodnie z art. 3a ust. 4;
+- **2)** identyfikację wszelkich istotnych ryzyk związanych z potencjalnym nabywaniem lub obejmowaniem instrumentu finansowego przez grupę docelową celu dokonania oceny, czy instrument finansowy byłby odpowiedni dla tej grupy docelowej;
+- **3)** określenie strategii dystrybucji instrumentu finansowego, przypadku gdy rekomendowanie, oferowanie albo inny sposób umożliwianie nabycia lub objęcia instrumentu finansowego będzie wykonywane przez firmę inwestycyjną zarówno samodzielnie, jak i przez uprawnione do takich czynności podmioty, przy czym strategia dystrybucji powinna być odpowiednia dla określonej grupy docelowej;
+- **4)** sprawdzenie przed wyemitowaniem lub wystawieniem instrumentu finansowego, czy instrument finansowy pozostaje zgodny z potrzebami określonej grupy docelowej oraz czy zamierzona strategia dystrybucji tego instrumentu jest odpowiednia dla tej grupy docelowej;
+- **5)** regularny przegląd, dokonywany z uwzględnieniem wszelkich zdarzeń, które mogłyby wpłynąć na powstanie ryzyk dla grupy docelowej, czy instrument finansowy pozostaje zgodny z potrzebami określonej grupy docelowej oraz czy zamierzona strategia dystrybucji tego instrumentu jest odpowiednia dla tej grupy docelowej.
+- **1)** określenie grupy docelowej instrumentu finansowego, także przypadku gdy podmiot emitujący lub wystawiający instrument finansowy nie określił grupy docelowej instrumentu finansowego;
+- **2)** określenie strategii dystrybucji instrumentu finansowego odpowiedniej dla określonej grupy docelowej;
+- **3)** regularny przegląd, dokonywany z uwzględnieniem wszelkich zdarzeń, które mogłyby wpłynąć na powstanie ryzyk dla grupy docelowej, czy instrument finansowy pozostaje zgodny z potrzebami określonej grupy docelowej oraz czy zamierzona strategia dystrybucji tego instrumentu jest odpowiednia dla tej grupy docelowej.
+
+14. W przypadku zamiaru dokonania istotnych zmian cech wystawionego lub wyemitowanego instrumentu finansowego, grupy docelowej lub strategii dystrybucji tego instrumentu firma inwestycyjna jest obowiązana dokonać oceny planowanych zmian. Przepisy ust. 8 i 12 stosuje się odpowiednio.
+
+15. W przypadku gdy strategia dystrybucji instrumentu finansowego przewiduje wykorzystanie uprawnionych podmiotów trzecich, firma inwestycyjna emitująca lub wystawiająca instrument finansowy udostępnia tym podmiotom informacje dotyczące instrumentu finansowego, sposobu określenia grupy docelowej oraz strategii dystrybucji tego instrumentu finansowego.
+
+16. Firma inwestycyjna, która rekomenduje lub oferuje instrument finansowy albo umożliwia inny sposób nabycie lub objęcie instrumentu finansowego, uzyskuje od podmiotu emitującego lub wystawiającego instrument finansowy informacje o rozwiązaniach określonych ust. 12 oraz inne informacje pozwalające na zrozumienie cech instrumentu finansowego oraz określonej grupy docelowej.
+
+17. Firma inwestycyjna, która rekomenduje lub oferuje instrument finansowy albo umożliwia inny sposób nabycie lub objęcie instrumentu finansowego, nie jest obowiązana do ponownego określenia grupy docelowej oraz strategii dystrybucji, jeżeli określiła grupę docelową lub strategię dystrybucji związku z emitowaniem lub wystawianiem instrumentu finansowego.
+
+18. Przepisów ust. 8–17 nie stosuje się przypadku, gdy:
+
+- **1)** świadczona przez firmę inwestycyjną usługa maklerska dotyczy obligacji, która nie zawiera innego wbudowanego instrumentu pochodnego poza zobowiązaniem emitenta do wypłaty obligatariuszom kwoty równej sumie wartości bieżącej netto wszystkich płatności należnych do upływu terminu zapadalności tej obligacji przypadku wcześniejszego jej wykupu;
+- **2)** instrument finansowy jest rekomendowany lub oferowany wyłącznie uprawnionym kontrahentom albo umożliwienie nabycia lub objęcia tego instrumentu inny sposób może nastąpić wyłącznie na ich rzecz.
+
+**Art. 83c.**
+
+1. Firma inwestycyjna, prowadząc działalność maklerską, jest obowiązana działać sposób rzetelny i profesjonalny, zgodnie z zasadami uczciwego obrotu oraz zgodnie z najlepiej pojętymi interesami jej klientów. W przypadku firmy inwestycyjnej świadczącej usługę maklerską, o której mowa art. 69 ust. 2 pkt 1 lub 4, obowiązek działania najlepiej pojętym interesie klientów jest wykonywany z uwzględnieniem art. 65 rozporządzenia 2017/565.
+
+2. Informacje kierowane przez firmę inwestycyjną do klientów lub potencjalnych klientów, tym informacje upowszechniane przez firmę inwestycyjną celu reklamy lub promocji świadczonych przez nią usług, powinny być rzetelne oraz nie mogą budzić wątpliwości ani wprowadzać błąd. Informacje upowszechniane celu reklamy lub promocji usług świadczonych przez firmę inwestycyjną są oznaczane sposób niebudzący wątpliwości jako informacje upowszechniane tych celach. Uznaje się, że upowszechnianie informacji sposób rzetelny, niebudzący wątpliwości i niewprowadzający błąd jest zachowane przypadku spełnienia przez firmę inwestycyjną warunków, o których mowa art. 44 rozporządzenia 2017/565.
+
+3. Treść i forma informacji, o których mowa ust. 2, jest prezentowana taki sposób, aby klient lub potencjalny klient, do którego jest kierowana informacja lub który może się z taką informacją zapoznać, mógł zrozumieć charakter danej usługi maklerskiej lub instrumentu finansowego będącego jej przedmiotem oraz ryzyko związane z nimi, a także podjąć świadomą decyzję inwestycyjną.
+
+4. Firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi, z uwzględnieniem art. 45–51 i art. 61 rozporządzenia 2017/565, odpowiednim czasie adekwatne i odpowiednie informacje dotyczące:
+
+- **1)** tej firmy oraz usług maklerskich świadczonych przez tę firmę;
+- **2)** instrumentów finansowych będących przedmiotem usług maklerskich świadczonych przez tę firmę, rekomendacji oraz strategii działania;
+- **3)** systemów wykonania zlecenia;
+- **4)** kosztów i opłat związanych ze świadczeniem usług maklerskich, z wyjątkiem świadczenia na rzecz klienta profesjonalnego usług innych niż usługi maklerskie, o których mowa art. 69 ust. 2 pkt 4 i 5. dzenia 2017/565, przekazuje również informacje o:
+- **1)** zależnym lub niezależnym charakterze świadczonej usługi doradztwa inwestycyjnego;
+- **2)** zakresie instrumentów finansowych będących przedmiotem analizy na potrzeby udzielenia rekomendacji, szczególności informację, jakim stopniu zakres analizy dotyczy instrumentów finansowych emitowanych lub wystawianych przez podmioty pozostające bliskich powiązaniach z firmą inwestycyjną lub przez podmioty, które pozostają z nią takich stosunkach prawnych, osobistych lub majątkowych, które mogłyby stwarzać ryzyko naruszenia niezależnego charakteru świadczonej usługi;
+- **3)** częstotliwości dokonywania okresowej oceny odpowiedniości instrumentów finansowych, jeżeli firma inwestycyjna zobowiązała się do dokonywania takiej oceny.
+
+6. W przypadku gdy usługa, o której mowa art. 69 ust. 2 pkt 5, jest świadczona sposób niezależny, firma inwestycyjna, z uwzględnieniem art. 53 rozporządzenia 2017/565:
+
+- **1)** jest obowiązana objąć zakresem analizy wystarczający rodzaj instrumentów finansowych dostępnych obrocie i ich liczbę sposób odpowiednio zróżnicowany, celu zapewnienia, że rekomendacja jest adekwatna i we właściwy sposób realizuje cele inwestycyjne;
+- **2)** nie może objąć zakresem analizy wyłącznie instrumentów finansowych emitowanych lub wystawianych przez podmioty pozostające bliskich powiązaniach z firmą inwestycyjną lub przez podmioty, które pozostają z nią takich stosunkach prawnych, osobistych lub majątkowych, które mogłyby stwarzać ryzyko naruszenia niezależnego charakteru świadczonej usługi.
+
+6a. Firma inwestycyjna przekazuje klientowi lub potencjalnemu klientowi informacje formacie elektronicznym, chyba że klient detaliczny albo potencjalny klient detaliczny zażądał ich przekazania na piśmie. Firma inwestycyjna informuje klientów detalicznych i potencjalnych klientów detalicznych o możliwości przekazywania informacji na piśmie.
+
+6b. Firma inwestycyjna informuje na piśmie klientów detalicznych, którzy otrzymują informacje na piśmie, o zamiarze przekazywania tych informacji formacie elektronicznym na co najmniej 8 tygodni przed dniem rozpoczęcia ich przekazywania tym formacie oraz o możliwości ich dalszego przekazywania na żądanie klienta detalicznego na piśmie.
+
+6c. W przypadku gdy firma inwestycyjna nie posiada danych pozwalających na przekazywanie klientowi detalicznemu informacji formacie elektronicznym, przekazuje temu klientowi informacje na piśmie.
+
+6d. W przypadku gdy usługa maklerska, o której mowa art. 69 ust. 2 pkt 1 lub 2, jest świadczona przy użyciu środków porozumiewania się na odległość, które uniemożliwiają firmie inwestycyjnej przekazanie klientowi lub potencjalnemu klientowi informacji o związanych ze świadczeniem tej usługi kosztach i opłatach przed rozpoczęciem świadczenia tej usługi maklerskiej, firma inwestycyjna:
+
+- **1)** może przekazać klientowi takie informacje niezwłocznie po wykonaniu usługi, jeżeli:
+    - **a)** klient wyraził zgodę na przekazanie tych informacji po wykonaniu usługi,
+    - **b)** poinformowała klienta o możliwości wstrzymania rozpoczęcia świadczenia usługi do czasu otrzymania przez niego tych informacji;
+
+- **2)** zapewnia klientowi lub potencjalnemu klientowi możliwość uzyskania tych informacji podczas rozmowy telefonicznej, przed rozpoczęciem świadczenia tych usług.
+
+7. Przepisów ust. 2–5 nie stosuje się przypadku, gdy usługa maklerska jest elementem usługi uregulowanej ustawie z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2023 r. poz. 1028, 1285, 1394 i 1723), ustawie z dnia 23 marca 2017 r. o kredycie hipotecznym oraz o nadzorze nad pośrednikami kredytu hipotecznego i agentami (Dz. U. z 2022 r. poz. 2245 i 2339) lub odrębnych przepisach określających odrębne obowiązki informacyjne wobec klientów lub potencjalnych klientów.
+
+**Art. 83d.**
+
+1. Firma inwestycyjna, związku ze świadczeniem usługi maklerskiej, nie może przyjmować ani przekazywać jakichkolwiek świadczeń pieniężnych, tym opłat i prowizji, ani jakichkolwiek świadczeń niepieniężnych, z wyłączeniem:
+
+- **1)** świadczeń pieniężnych lub niepieniężnych przyjmowanych od klienta lub od osoby działającej jego imieniu oraz świadczeń pieniężnych lub niepieniężnych przekazywanych klientowi lub osobie działającej jego imieniu;
+- **2)** świadczeń pieniężnych lub niepieniężnych przyjmowanych lub przekazywanych osobie trzeciej, które są niezbędne do wykonywania danej usługi maklerskiej na rzecz klienta, szczególności:
+    - **a)** kosztów z tytułu przechowywania instrumentów finansowych klienta i środków pieniężnych powierzonych przez klienta, i rozrachunek transakcji,
+    - **c)** opłat na rzecz organu nadzoru,
+    - **d)** podatków, należności publicznoprawnych oraz innych opłat, których obowiązek zapłaty wynika z przepisów prawa,
+    - **e)** opłat związanych z wymianą walutową;
+
+- **3)** świadczeń pieniężnych i świadczeń niepieniężnych innych niż określone pkt 1 i 2, jeżeli:
+    - **a)** są one przyjmowane albo przekazywane celu poprawienia jakości usługi maklerskiej świadczonej przez firmę inwestycyjną na rzecz klienta,
+    - **b)** ich przyjęcie lub przekazanie nie ma negatywnego wpływu na działanie przez firmę inwestycyjną sposób rzetelny i profesjonalny, zgodnie z zasadami uczciwego obrotu oraz zgodnie z najlepiej pojętymi interesami jej klienta,
+    - **c)** informacja o świadczeniach, tym o ich istocie i wysokości, a przypadku gdy wysokość takich świadczeń nie może zostać oszacowana o sposobie ustalania ich wysokości, została przekazana klientowi lub potencjalnemu klientowi sposób rzetelny, dokładny i zrozumiały przed rozpoczęciem świadczenia danej usługi maklerskiej, przy czym warunek ten uznaje się za spełniony również przypadku przekazania klientowi lub potencjalnemu klientowi informacji sporządzonej formie ujednoliconej.
+
+2. W przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 2 pkt 5, sposób niezależny firma inwestycyjna nie może przyjmować świadczeń pieniężnych ani świadczeń niepieniężnych od podmiotu trzeciego związku ze świadczeniem tej usługi.
+
+3. Przepisu ust. 2 nie stosuje się do drobnych świadczeń niepieniężnych przyjmowanych przez firmę inwestycyjną, jeżeli:
+
+- **1)** świadczenia te mogą poprawić jakość świadczonej usługi doradztwa inwestycyjnego na rzecz klienta;
+- **2)** łączna wielkość i charakter tych świadczeń nie wpływałyby negatywnie na przestrzeganie przez firmę inwestycyjną obowiązku działania zgodnie z najlepiej pojętymi interesami klienta;
+- **3)** informacja o świadczeniach, tym o ich istocie i wysokości, a przypadku gdy wysokość takich świadczeń nie może zostać oszacowana o sposobie ustalania ich wysokości, została przekazana klientowi lub potencjalnemu klientowi sposób rzetelny, dokładny i zrozumiały przed rozpoczęciem świadczenia usługi doradztwa inwestycyjnego, przy czym świadczenia te mogą być opisane sposób ogólny.
+
+4. W przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 2 pkt 4, firma inwestycyjna nie może przyjmować świadczeń pieniężnych ani świadczeń niepieniężnych od podmiotu trzeciego związku ze świadczeniem tej usługi.
+
+5. Przepisu ust. 4 nie stosuje się do drobnych świadczeń niepieniężnych przyjmowanych przez firmę inwestycyjną, jeżeli:
+
+- **1)** świadczenia te mogą poprawić jakość świadczonej usługi zarządzania portfelami, skład których wchodzi jeden lub większa liczba instrumentów finansowych, na rzecz klienta;
+- **2)** łączna wielkość i charakter tych świadczeń nie wpływałyby negatywnie na przestrzeganie przez firmę inwestycyjną obowiązku działania zgodnie z najlepiej pojętymi interesami klienta;
+- **3)** informacja o świadczeniach, tym o ich istocie i wysokości, a przypadku gdy wysokość takich świadczeń nie może zostać oszacowana o sposobie ustalania ich wysokości, została przekazana klientowi lub potencjalnemu klientowi sposób rzetelny, dokładny i zrozumiały przed rozpoczęciem świadczenia usługi zarządzania portfelami, skład których wchodzi jeden lub większa liczba instrumentów finansowych, przy czym świadczenia te mogą być opisane sposób ogólny.
+
+6. Firma inwestycyjna informuje klienta o wszelkich zmianach zakresie informacji przekazanych zgodnie z ust. 1 pkt 3 lit. c, ust. 3 pkt 3 i ust. 5 pkt 3, jeżeli zmiany te mają związek z usługami świadczonymi na rzecz klienta.
+
+**Art. 83e.**
+
+1. Firma inwestycyjna świadcząca usługi maklerskie, o których mowa art. 69 ust. 2, zapewnia, aby sposób wynagradzania osób zaangażowanych oraz oceny pracy świadczonej przez te osoby na rzecz firmy inwestycyjnej nie powodował ich działania sposób nierzetelny i nieprofesjonalny, niezgodnie z najlepiej pojętymi interesami jej klientów. W tym celu firma inwestycyjna opracowuje, wdraża oraz stosuje politykę wynagrodzeń i praktyki zgodnie z art. 27 rozporządzenia 2017/565. pracy nie mogą zachęcać do udzielania rekomendacji mających za przedmiot dany instrument finansowy przypadku, gdy inny instrument finansowy byłby bardziej adekwatny i lepiej realizował cele inwestycyjne klienta.
+
+3. Sposób wynagradzania, o którym mowa ust. 1 i 2, dotyczy przyznawania wynagrodzenia rozumieniu art. 2 pkt 5 rozporządzenia 2017/565.
+
+**Art. 83f.**
+
+1. W przypadku gdy:
+
+- **1)** usługa maklerska, o której mowa art. 69 ust. 2, ma być świadczona ramach jednej umowy łącznie z inną usługą, firma inwestycyjna informuje klienta, przed zawarciem umowy, czy jest możliwe oddzielne zawarcie umowy o świadczenie takiej usługi maklerskiej oraz umowy o świadczenie innych usług, a jeżeli jest to możliwe, przekazuje klientowi odrębne zestawienie kosztów i opłat związanych z poszczególnymi umowami;
+- **2)** zawarcie umowy o świadczenie usługi maklerskiej, o której mowa art. 69 ust. 2, jest warunkiem zawarcia umowy o świadczenie innej usługi albo zawarcie umowy o świadczenie innej usługi jest warunkiem zawarcia umowy o świadczenie usługi maklerskiej, o której mowa art. 69 ust. 2, firma inwestycyjna informuje klienta, przed zawarciem umowy, czy jest możliwe zawarcie wyłącznie jednej z tych umów, a jeżeli jest to możliwe, przekazuje klientowi odrębne zestawienie kosztów i opłat związanych z poszczególnymi umowami.
+
+2. W przypadku gdy ryzyko wynikające z:
+
+- **1)** zawarcia z klientem detalicznym umowy, ramach której usługa maklerska, o której mowa art. 69 ust. 2, ma być świadczona łącznie z inną usługą, może różnić się od ryzyka wynikającego z oddzielnego zawarcia umowy o świadczenie usługi maklerskiej, o której mowa art. 69 ust. 2, firma inwestycyjna informuje o tym klienta i przedstawia opis ryzyka wynikającego z poszczególnych usług świadczonych ramach umowy oraz sposób, jaki jednoczesne występowanie tych usług zmienia poziom ryzyka;
+- **2)** zawarcia z klientem detalicznym umowy o świadczenie usługi maklerskiej, o której mowa art. 69 ust. 2, jako warunku zawarcia umowy o świadczenie innej usługi, albo z zawarcia z klientem detalicznym umowy o świadczenie innej usługi, jako warunku zawarcia umowy o świadczenie usługi maklerskiej, o której mowa art. 69 ust. 2, może różnić się od ryzyka wynikającego z zawarcia umowy o usługę maklerską, o której mowa art. 69 ust. 2, bez takich warunków, firma inwestycyjna informuje o tym klienta i przedstawia opis ryzyka wynikającego z poszczególnych usług oraz sposób, jaki jednoczesne występowanie tych usług zmienia poziom ryzyka.
+
+**Art. 83g.**
+
+1. Firma inwestycyjna świadcząca usługi maklerskie, o których mowa art. 69 ust. 2 pkt 4 i 5, uzyskuje od klienta lub potencjalnego klienta adekwatne informacje dotyczące jego:
+
+- **1)** wiedzy i doświadczenia zakresie inwestowania na rynku finansowym;
+- **2)** sytuacji finansowej, tym zdolności do ponoszenia strat;
+- **3)** celów inwestycyjnych, tym poziomu akceptowanego ryzyka.
+
+2. Informacje, o których mowa ust. 1, są uzyskiwane od klienta lub potencjalnego klienta przypadku:
+
+- **1)** usługi, o której mowa art. 69 ust. 2 pkt 4 celu umożliwienia zarządzania portfelem, skład którego wchodzi jeden lub większa liczba instrumentów finansowych, który będzie dla klienta odpowiedni ze względu na jego osobistą sytuację lub potrzeby inwestycyjne, szczególności jego zdolność do ponoszenia strat oraz poziom akceptowanego ryzyka;
+- **2)** usługi, o której mowa art. 69 ust. 2 pkt 5 celu umożliwienia udzielania przez firmę inwestycyjną rekomendacji, które są dla klienta odpowiednie ze względu na jego osobistą sytuację lub potrzeby inwestycyjne, szczególności jego zdolność do ponoszenia strat oraz poziom akceptowanego ryzyka.
+
+2a. W przypadku usług maklerskich, o których mowa art. 69 ust. 2 pkt 4 i 5, które wiążą się z zamianą instrumentu finansowego polegającą na sprzedaży instrumentu finansowego i zakupie innego instrumentu finansowego lub na wykonaniu prawa do zamiany inkorporowanego istniejącym instrumencie finansowym, firma inwestycyjna uzyskuje od klienta detalicznego adekwatne informacje dotyczące jego inwestycji umożliwiające sporządzenie przez firmę inwestycyjną analizy kosztów i korzyści związanych z zamianą instrumentu finansowego. Firma inwestycyjna informuje klienta detalicznego o wyniku tej analizy.
+
+3. Firma inwestycyjna świadcząca usługę maklerską, o której mowa art. 69 ust. 2 pkt 5, przekazuje klientowi detalicznemu, na trwałym nośniku, raport zawierający potwierdzenie odpowiedniości rekomendacji z wyjaśnieniem przyczyn, dla których rekomendacja jest dla niego odpowiednia. przekazanie trwałego nośnika, świadczy usługę maklerską, o której mowa art. 69 ust. 2 pkt 5, a bezpośrednim następstwem udzielenia rekomendacji jest przyjęcie zlecenia, ramach świadczenia usługi, o której mowa art. 69 ust. 2 pkt 1, firma inwestycyjna może przekazać klientowi na trwałym nośniku raport, o którym mowa ust. 3, niezwłocznie po przyjęciu zlecenia klienta, jeżeli:
+
+- **1)** klient wyraził zgodę na przekazanie raportu odpowiedniości po przyjęciu zlecenia;
+- **2)** firma inwestycyjna poinformowała klienta o możliwości odłożenia momentu przekazania zlecenia do czasu przekazania raportu, o którym mowa ust. 3, na trwałym nośniku.
+
+5. W przypadku gdy firma inwestycyjna, przy użyciu środków porozumiewania się na odległość, które uniemożliwiają przekazanie trwałego nośnika, świadczy usługę maklerską, o której mowa art. 69 ust. 2 pkt 5, a bezpośrednim następstwem udzielenia rekomendacji jest przyjęcie zlecenia do wykonania, ramach świadczenia usługi, o której mowa art. 69 ust. 2 pkt 2, firma inwestycyjna może przekazać klientowi na trwałym nośniku raport, o którym mowa ust. 3, niezwłocznie po zawarciu transakcji na rzecz klienta, jeżeli:
+
+- **1)** klient wyraził zgodę na przekazanie raportu odpowiedniości po zawarciu transakcji;
+- **2)** firma inwestycyjna poinformowała klienta o możliwości odłożenia momentu zawarcia transakcji do czasu przekazania raportu, o którym mowa ust. 3, na trwałym nośniku.
+
+5a. Przepisy ust. 2a–5 stosuje się odpowiednio do usług maklerskich świadczonych na rzecz klienta profesjonalnego, na żądanie takiego klienta. Klient profesjonalny może zgłosić takie żądanie na piśmie lub postaci elektronicznej spełniającej wymogi, o których mowa art. 13 ust. 2 i 3.
+
+5b. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane związku z żądaniami klientów profesjonalnych, o których mowa ust. 5a.
+
+6. Firma inwestycyjna, zgodnie z art. 54 i art. 55 rozporządzenia 2017/565, na podstawie informacji, o których mowa ust. 1 i 2a, dokonuje oceny odpowiedniości usługi lub instrumentu finansowego będącego jej przedmiotem oraz sporządza raport, o którym mowa ust. 3.
+
+**Art. 83h.**
+
+1. Z zastrzeżeniem art. 83i ust. 3, firma inwestycyjna świadcząca usługi maklerskie, o których mowa art. 69 ust. 2 pkt 1, 2, 6, 7 lub 9, uzyskuje od klienta lub potencjalnego klienta adekwatne informacje dotyczące jego wiedzy i doświadczenia zakresie inwestowania na rynku finansowym, celu oceny, czy usługa lub instrument finansowy będące jej przedmiotem są dla niego odpowiednie. W przypadku, o którym mowa art. 83f ust. 1, ocenie podlega, czy umowa zawierana okolicznościach określonych art. 83f ust. 1 jest dla klienta lub potencjalnego klienta odpowiednia.
+
+2. W przypadku gdy na podstawie informacji, o których mowa ust. 1, firma inwestycyjna stwierdzi, że usługa lub instrument finansowy będący jej przedmiotem nie są odpowiednie dla klienta lub potencjalnego klienta, niezwłocznie informuje o tym klienta lub potencjalnego klienta.
+
+3. W przypadku gdy klient lub potencjalny klient nie przedstawi informacji, o których mowa ust. 1, albo przedstawi informacje niewystarczające, firma inwestycyjna informuje go, że brak tych informacji uniemożliwia jej dokonanie oceny, czy przewidziana usługa lub instrument finansowy będący jej przedmiotem są dla niego odpowiednie.
+
+4. Firma inwestycyjna uzyskuje informacje, o których mowa ust. 1, dokonuje oceny odpowiedniości usługi lub instrumentu finansowego będącego jej przedmiotem oraz przechowuje informacje dotyczące przeprowadzonej oceny zgodnie z art. 55 i art. 56 rozporządzenia 2017/565.
+
+5. Przepisów ust. 1–4 nie stosuje się do firmy inwestycyjnej, która zawiera umowę o wykonywanie zleceń nabycia lub zbycia instrumentów finansowych lub umowę o przyjmowanie i przekazywanie zleceń nabycia lub zbycia instrumentów finansowych, przypadku gdy:
+
+- **1)** przedmiotem umowy będą wyłącznie nieskomplikowane instrumenty finansowe oraz
+- **2)** umowa jest zawierana z inicjatywy klienta lub potencjalnego klienta, oraz
+- **3)** klient lub potencjalny klient został poinformowany przez firmę inwestycyjną, że zawarcie umowy nie jest związane z obowiązkiem, o którym mowa ust. 1, oraz że nie będzie on korzystał z ochrony, jaką zapewniałoby mu wykonanie przez firmę inwestycyjną takiego obowiązku, oraz
+- **4)** firma inwestycyjna spełnia wymogi związane z zarządzaniem konfliktami interesów.
+- **1)** akcje i certyfikaty inwestycyjne dopuszczone do obrotu na rynku regulowanym lub na rynku uznanym przez Komisję Europejską jako rynek równoważny państwie, które nie jest państwem członkowskim, oraz akcje i certyfikaty inwestycyjne wprowadzone do ASO, z wyłączeniem akcji i certyfikatów inwestycyjnych, które mają wbudowany instrument pochodny;
+- **2)** obligacje lub inne dłużne papiery wartościowe dopuszczone do obrotu na rynku regulowanym lub na rynku uznanym przez Komisję Europejską jako rynek równoważny państwie, które nie jest państwem członkowskim, oraz obligacje lub inne dłużne papiery wartościowe wprowadzone do ASO, z wyłączeniem obligacji i dłużnych papierów wartościowych, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego z tymi instrumentami finansowymi;
+- **3)** instrumenty rynku pieniężnego, z wyłączeniem instrumentów rynku pieniężnego, które mają wbudowany instrument pochodny lub których struktura utrudnia klientowi lub potencjalnemu klientowi zrozumienie ryzyka związanego z tymi instrumentami finansowymi;
+- **4)** jednostki uczestnictwa funduszy inwestycyjnych, tytuły uczestnictwa funduszy zagranicznych i tytuły uczestnictwa funduszy inwestycyjnych otwartych z siedzibą państwach będących stroną umowy o Europejskim Obszarze Gospodarczym, z wyłączeniem jednostek uczestnictwa oraz tytułów uczestnictwa funduszy, o których mowa art. 36 ust. 1 rozporządzenia Komisji (UE) nr 583/2010 z dnia 1 lipca 2010 r. sprawie wykonania dyrektywy Parlamentu Europejskiego i Rady 2009/65/WE zakresie kluczowych informacji dla inwestorów i warunków, które należy spełnić przypadku dostarczania kluczowych informacji dla inwestorów lub prospektu emisyjnego na trwałym nośniku innym niż papier lub za pośrednictwem strony internetowej (Dz. Urz. UE L 176 z 10.07.2010, str. 1);
+- **5)** instrumenty finansowe, o których mowa art. 57 rozporządzenia 2017/565.
+
+7. Jeżeli do zawarcia umowy dochodzi wyniku skierowania do klienta lub potencjalnego klienta zindywidualizowanych informacji o firmie inwestycyjnej, instrumentach finansowych, usłudze lub transakcji, przyjmuje się, że nie została ona zawarta sposób określony ust. 5 pkt 2.
+
+**Art. 83i.**
+
+1. Firma inwestycyjna, która, świadcząc na rzecz klienta usługi maklerskie, korzysta z pośrednictwa innej firmy inwestycyjnej lub zagranicznej firmy inwestycyjnej, może dokonywać oceny, o której mowa art. 83g i art. 83h, na podstawie informacji dotyczących klienta lub potencjalnego klienta otrzymywanych od tej innej firmy inwestycyjnej lub zagranicznej firmy inwestycyjnej, lub uznać za prawidłową ocenę dokonaną przez tę inną firmę inwestycyjną lub zagraniczną firmę inwestycyjną.
+
+2. Firma inwestycyjna, która pośredniczy świadczeniu usługi maklerskiej przez inną firmę inwestycyjną lub zagraniczną firmę inwestycyjną i przekazuje jej informacje dotyczące klienta lub potencjalnego klienta, zapewnia kompletność i rzetelność tych informacji oraz prawidłowość oceny dokonanej zgodnie z art. 83g i art. 83h.
+
+3. Firma inwestycyjna, która zawiera umowę o świadczenie usług maklerskich, o których mowa art. 69 ust. 2 pkt 1 lub 2, z klientem, którego imieniu działa pełnomocnik będący firmą inwestycyjną świadczącą na rzecz tego klienta usługę, o której mowa art. 69 ust. 2 pkt 4, nie uzyskuje informacji i nie przeprowadza oceny, o której mowa art. 83h ust. 1, chyba że trakcie trwania stosunku umownego z klientem zostanie odwołane pełnomocnictwo dla firmy inwestycyjnej świadczącej na rzecz tego klienta usługę, o której mowa art. 69 ust. 2 pkt 4.
+
+**Art. 83j.**
+
+1. Przy świadczeniu usługi maklerskiej firma inwestycyjna jest obowiązana przekazywać klientowi detalicznemu, na trwałym nośniku, terminie odpowiednim do charakteru świadczonej usługi, regularne sprawozdania związane z wykonywaniem umowy o świadczenie usług maklerskich, uwzględniające rodzaj i złożoność danych instrumentów finansowych, charakter świadczonej usługi oraz koszty związane z transakcjami i usługami wykonywanymi na rachunek klienta.
+
+2. W przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 2 pkt 2, sprawozdania, o których mowa ust. 1, firma inwestycyjna przekazuje zgodnie z art. 59 rozporządzenia 2017/565.
+
+3. W przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 2 pkt 4, sprawozdania, o których mowa ust. 1, firma inwestycyjna przekazuje zgodnie z art. 60 i art. 62 rozporządzenia 2017/565.
+
+4. W przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 4 pkt 1, sprawozdania, o których mowa ust. 1, firma inwestycyjna przekazuje zgodnie z art. 63 rozporządzenia 2017/565.
+
+5. W przypadku gdy firma inwestycyjna świadczy usługę maklerską, o której mowa art. 69 ust. 2 pkt 4, na rzecz klienta detalicznego, sprawozdaniu, o którym mowa ust. 1, zamieszcza informację, jaki sposób zostanie zapewnione, że usługa lub instrumenty finansowe będące jej przedmiotem są nadal odpowiednie dla klienta. klienta detalicznego, udzieliła mu rekomendacji i zobowiązała się ramach umowy do przeprowadzania okresowej oceny jej odpowiedniości, jest obowiązana przekazywać klientowi regularnie ocenę tej rekomendacji, wskazując, czy jest ona nadal odpowiednia dla tego klienta.
+
+7. Przepisy ust. 1–6 stosuje się odpowiednio do usług maklerskich świadczonych na rzecz klienta profesjonalnego, na żądanie takiego klienta. Klient profesjonalny może zgłosić takie żądanie na piśmie lub postaci elektronicznej spełniającej wymogi, o których mowa art. 13 ust. 2 i 3.
+
+8. Firma inwestycyjna ewidencjonuje i przechowuje dokumenty, korespondencję elektroniczną oraz inne informacje przekazywane lub otrzymywane związku z żądaniami klientów profesjonalnych, o których mowa ust. 7. Art. 83ja. 1. W przypadku gdy firma inwestycyjna uprawniona do świadczenia usług maklerskich, o których mowa art. 69 ust. 2 pkt 1–3, zawiera transakcje lub pośredniczy zawieraniu transakcji z uprawnionym kontrahentem, przepisów art. 73 ust. 6a, art. 73a ust. 1–3 i 5, art. 73b, art. 73d ust. 2 i 3, art. 83b ust. 8–17, art. 83c ust. 2–4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h ust. 1–4 oraz art. 83j ust. 1, 2 i 4 nie stosuje się do tych transakcji ani do związanych z nimi usług, o których mowa art. 69 ust. 4.
+
+2. Firma inwestycyjna pośrednicząca zawieraniu transakcji z uprawnionym kontrahentem lub zawierająca takie transakcje jest obowiązana działać sposób rzetelny i profesjonalny. Informacje przekazywane związku z transakcją muszą być rzetelne, nie mogą budzić wątpliwości ani wprowadzać błąd oraz muszą uwzględniać charakter uprawnionego kontrahenta i jego działalności.
+
+**Art. 83k.** Firmy inwestycyjne będące administratorami przetwarzającymi dane osobowe rozumieniu art. 4 pkt 1 rozporządzenia 2016/679 nie są obowiązane do wykonywania obowiązków, o których mowa art. 15 rozporządzenia 2016/679, zakresie, jakim jest to niezbędne dla prawidłowej realizacji zadań dotyczących przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu oraz zapobiegania przestępstwom.
+
+**Art. 84.**
+
+1. Komisja rozpoznaje wniosek o zezwolenie na prowadzenie działalności maklerskiej terminie 2 miesięcy od dnia jego złożenia.
+
+1a. W przypadku podmiotu nieposiadającego zezwolenia na prowadzenie działalności maklerskiej zezwoleniu na prowadzenie działalności maklerskiej Komisja zatwierdza członków zarządu, o których mowa art. 102a ust. 1.
+
+2. Zezwolenie zawiera:
+
+- **1)** firmę, siedzibę oraz adres firmy inwestycyjnej albo banku państwowego prowadzącego działalność maklerską;
+- **2)** wskazanie czynności, na wykonywanie których jest udzielone zezwolenie.
+- **3)** (uchylony)
+
+3. Zezwolenie nie może być udzielone wyłącznie na wykonywanie czynności określonych art. 69 ust. 4.
+
+4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku udzielenia zezwolenia, dołączając informacje, o których mowa ust. 2.
+
+**Art. 85.**
+
+1. Komisja odmawia udzielenia zezwolenia, przypadku gdy:
+
+- **1)** (uchylony)
+- **2)** wniosek lub załączone do niego dokumenty nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym;
+- **3)** wnioskodawca nie spełnia wymagań określonych art. 95 lub art. 98;
+- **3a)** pozostawanie wnioskodawcy bliskich powiązaniach z innym podmiotem mogłoby uniemożliwić Komisji skuteczne sprawowanie nadzoru lub sprawowanie takiego nadzoru byłoby utrudnione lub niemożliwe ze względu na przepisy prawa obowiązujące miejscu siedziby lub zamieszkania tego podmiotu;
+- **4)** charakter powiązań istniejących pomiędzy podmiotami należącymi do grupy kapitałowej, skład której wchodzi wnioskodawca, uniemożliwia ustalenie rzeczywistej struktury tej grupy lub rzeczywistych właścicieli;
+- **5)** osoby wymienione art. 103 albo art. 111 ust. 6a–6c nie spełniają warunków określonych tych przepisach;
+- **7)** z analizy wniosku i załączonych do niego dokumentów wynika, że wnioskodawca nie zapewni prowadzenia działalności sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy klientów;
+- **8)** wnioskodawca nie przedstawi, na żądanie Komisji, informacji, o których mowa art. 82 ust. 4–6;
+- **9)** (uchylony)
+- **10)** podmioty posiadające bezpośrednio lub pośrednio przez podmioty zależne akcje albo udziały wnioskodawcy reprezentujące łącznie co najmniej 10 % ogólnej liczby głosów lub 10 % kapitału zakładowego nie zapewniają właściwego prowadzenia przez wnioskodawcę działalności maklerskiej;
+- **11)** na podstawie któregokolwiek z kryteriów określonych art. 9 rozporządzenia 2017/1943 stwierdzi, że:
+    - **a)** wnioskodawca nie zapewni wystarczających gwarancji prawidłowego i ostrożnego zarządzania podmiotem, właściwego prowadzenia działalności maklerskiej, szczególności prowadzenia jej sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi, tym prowadzenia jej sposób niezagrażający takiemu bezpieczeństwu związku z utrzymywaniem systemu handlu algorytmicznego rozumieniu art. 1 ust. 3 rozporządzenia 2017/584, lub prowadzenia działalności maklerskiej sposób należycie zabezpieczający interesy klientów lub
+    - **b)** istnieje prawdopodobieństwo, że akcjonariusz albo wspólnik posiadający co najmniej 10 % udział kapitale zakładowym lub ogólnej liczbie głosów na walnym zgromadzeniu lub zgromadzeniu wspólników, albo podmiot dominujący inny sposób, niż przez posiadanie odpowiedniego udziału kapitale zakładowym lub ogólnej liczbie głosów na walnym zgromadzeniu lub zgromadzeniu wspólników, będzie wywierać negatywny wpływ na działalność lub stabilność finansową podmiotu;
+
+- **12)** wnioskodawca nie zapewni zgodności działalności z art. 19 ust. 3 oraz art. 59 ust. 2 i 3 rozporządzenia 1031/2010 przypadku gdy wniosek obejmuje nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną.
+
+2. Za uniemożliwienie lub utrudnienie skutecznego sprawowania nadzoru przez Komisję, o którym mowa ust. 1 pkt 3a, uznaje się szczególności przypadki, o których mowa art. 10 rozporządzenia 2017/1943.
+
+**Art. 86.**
+
+1. Firma inwestycyjna i bank państwowy prowadzący działalność maklerską informują Komisję o istotnych zmianach okoliczności, na podstawie których udzielono im zezwolenia, o którym mowa odpowiednio art. 82 i art. 111a oraz art. 34 ust. 1 i art. 36 ust. 1 albo art. 34 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, zakresie prowadzenia działalności maklerskiej.
+
+2. Firma inwestycyjna, bank państwowy prowadzący działalność maklerską i bank, o którym mowa art. 70 ust. 2, przekazują Komisji informacje dotyczące prowadzonej działalności i sytuacji finansowej, tym przypadku domu maklerskiego informacje dotyczące przestrzegania przez ten dom maklerski adekwatności kapitałowej, oraz zdarzeń, które mogą mieć wpływ na działalność prowadzoną przez te podmioty lub ich sytuację finansową.
+
+3. Informacje, o których mowa ust. 1 i 2, są przekazywane do Komisji postaci elektronicznej, za pomocą systemu teleinformatycznego udostępnionego przez Komisję, formacie danych zgodnym z formatem danych systemu teleinformatycznego Komisji udostępnionym na jej stronie internetowej.
+
+**Art. 87.** (uchylony)
+
+**Art. 88.** Na żądanie Komisji lub jej upoważnionego przedstawiciela, osoby uprawnione do reprezentowania firmy inwestycyjnej lub wchodzące skład jej statutowych organów albo pozostające z firmą inwestycyjną stosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tej firmy inwestycyjnej, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień zakresie nadzoru sprawowanego przez Komisję.
+
+**Art. 89.**
+
+1. Zezwolenie na prowadzenie działalności maklerskiej wygasa:
+
+- **1)** (uchylony)
+- **2)** z chwilą ogłoszenia upadłości firmy inwestycyjnej;
+- **3)** przypadku otwarcia likwidacji firmy inwestycyjnej z upływem 3 miesięcy od dnia jej otwarcia, z zastrzeżeniem ust. 2;
+- **4)** z dniem likwidacji banku państwowego. cyjna:
+- **1)** nie rozpoczęła prowadzenia działalności maklerskiej terminie 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna;
+- **2)** nie wykonała żadnej z czynności, o których mowa art. 69 ust. 2, na których wykonywanie uzyskała zezwolenie, przez okres co najmniej 6 miesięcy.
+
+1b. Komisja może cofnąć zezwolenie na prowadzenie działalności maklerskiej przypadku gdy bank państwowy prowadzący działalność maklerską:
+
+- **1)** nie rozpoczął prowadzenia działalności maklerskiej terminie 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna;
+- **2)** nie wykonał żadnej z czynności, o których mowa art. 69 ust. 2, na których wykonywanie uzyskał zezwolenie, przez okres co najmniej 6 miesięcy.
+
+2. W razie konieczności zabezpieczenia interesu publicznego Komisja może drodze decyzji:
+
+- **1)** skrócić termin wskazany ust. 1 pkt 3,
+- **2)** wskazać czynności, jakie firma inwestycyjna może podejmować do czasu wygaśnięcia zezwolenia na prowadzenie działalności maklerskiej, lub
+- **3)** wskazać termin, którym następuje zakończenie prowadzenia działalności maklerskiej, przypadkach, o których mowa ust. 1 pkt 2 i 3.
+
+3. W przypadku otwarcia likwidacji, do dnia wygaśnięcia zezwolenia, a przypadku cofnięcia zezwolenia na podstawie art. 167 ust. 1 do dnia zaprzestania prowadzenia działalności, firma inwestycyjna albo podmiot, któremu zostało cofnięte zezwolenie, wykonują wyłącznie czynności zmierzające do zakończenia działalności maklerskiej bez możliwości zawierania nowych umów, tym czynności:
+
+- **1)** wynikające z prowadzenia rachunków i ewidencji, o których mowa art. 69 ust. 4 pkt 1, lub umów o zarządzanie portfelem instrumentów finansowych oraz z nabytych na rachunek klientów instrumentów pochodnych, mające na celu zakończenie tych inwestycji przez klientów;
+- **2)** zmierzające do zakończenia działalności, do której wykonywania firma inwestycyjna albo podmiot były uprawnione na podstawie ustawy lub odrębnych ustaw związku z posiadaniem zezwolenia na prowadzenie działalności maklerskiej, szczególności niezwłocznie wypowiadają umowy zawarte z klientami.
+
+3a. W przypadku cofnięcia zezwolenia na podstawie art. 167 ust. 1 do dnia zaprzestania prowadzenia działalności maklerskiej albo do upływu terminów wypowiedzenia umów wynikających z prowadzonej działalności maklerskiej lub z działalności, do której prowadzenia podmiot był uprawniony związku z posiadaniem zezwolenia na prowadzenie działalności maklerskiej, przypadku gdy są one krótsze niż termin, którym następuje zaprzestanie prowadzenia działalności, podmiot, któremu zostało cofnięte zezwolenie, wykonuje zobowiązania wynikające z wcześniej zawartych umów niezbędne do zakończenia świadczenia usług na rzecz klientów, z uwzględnieniem ich interesów.
+
+4. W przypadku cofnięcia zezwolenia na podstawie art. 167 ust. 1, wygaśnięcia zezwolenia albo zaprzestania prowadzenia rachunków i ewidencji, o których mowa art. 69 ust. 4 pkt 1, lub wykonywania innej działalności, do której firma inwestycyjna albo podmiot, któremu zostało cofnięte zezwolenie, był uprawniony związku z posiadaniem zezwolenia na prowadzenie rachunków papierów wartościowych, Komisja może nakazać tym podmiotom przeniesienie instrumentów finansowych, środków pieniężnych, aktywów oraz dokumentów związanych z prowadzeniem rachunków i ewidencji, o których mowa art. 69 ust. 4 pkt 1, do firmy inwestycyjnej, która uprzednio wyraziła na to zgodę.
+
+4a. W przypadku gdy uzasadnia to charakter, skala i złożoność działalności firmy inwestycyjnej albo podmiotu, któremu cofnięto zezwolenie na podstawie art. 167 ust. 1, Komisja może nakazać przeniesienie, o którym mowa ust. 4, do więcej niż jednej firmy inwestycyjnej, jeżeli firmy inwestycyjne uprzednio wyraziły na to zgodę. nakazuje przeniesienie, o którym mowa ust. 4, do wybranej firmy inwestycyjnej albo wybranych firm inwestycyjnych, mając na celu zapewnienie bezpieczeństwa obrotu i ochrony inwestorów i innych uczestników rynku. Dokonując wyboru, Komisja uwzględnia charakter, skalę i złożoność działalności firmy inwestycyjnej, do której ma nastąpić przeniesienie, o którym mowa ust. 4.
+
+4c. Komisja nakazuje przeniesienie, o którym mowa ust. 4, drodze decyzji skierowanej do firmy inwestycyjnej albo podmiotu, któremu cofnięto zezwolenie, oraz do firmy inwestycyjnej, do której ma nastąpić przeniesienie.
+
+4d. Decyzja, o której mowa ust. 4c, obejmuje również przeniesienie:
+
+- **1)** ewidencji obligacji;
+- **2)** ewidencji prowadzonych na podstawie art. 7a ust. 4 pkt 4;
+- **3)** rejestrów prowadzonych na podstawie art. 7aa ust. 2 pkt 2;
+- **4)** rejestrów akcjonariuszy;
+- **5)** środków pieniężnych, rachunków lub rejestrów towarów giełdowych oraz innych dokumentów związanych ze świadczeniem usług na podstawie ustawy z dnia 26 października 2000 r. o giełdach towarowych.
+
+5. W przypadku niewydania przez Komisję nakazu, o którym mowa ust. 4, do postępowania z dokumentami związanymi z prowadzeniem działalności maklerskiej stosuje się art. 476 § 3 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych. Podmiot prowadzący działalność maklerską niezwłocznie zawiadamia Komisję o wyznaczeniu przechowawcy dokumentów związanych z prowadzeniem działalności maklerskiej. W przypadku wyznaczenia przechowawcy przez sąd zawiadomienia Komisji dokonuje ten sąd.
+
+6. W przypadku utraty lub zawieszenia uprawnienia banku do prowadzenia działalności, o której mowa art. 69 ust. 2, którą bank wykonywał na zasadach określonych art. 111, lub art. 69 ust. 2 pkt 1–7, którą bank wykonywał zgodnie z art. 70 ust. 2, lub art. 69 ust. 4, Komisja wskazuje termin, którym następuje zaprzestanie prowadzenia działalności. Do dnia zaprzestania prowadzenia działalności albo do upływu terminów wypowiedzenia umów dotyczących tej działalności, przypadku gdy są one krótsze niż termin, którym następuje zaprzestanie prowadzenia działalności, bank wykonuje zobowiązania wynikające z zawartych umów, niezbędne do zakończenia świadczenia usług na rzecz klientów, z uwzględnieniem ich interesów.
+
+7. W przypadku utraty lub zawieszenia uprawnienia banku do prowadzenia działalności, o której mowa art. 69 ust. 2, którą bank wykonywał na zasadach określonych art. 111, lub art. 69 ust. 2 pkt 1–7, którą bank wykonywał zgodnie z art. 70 ust. 2, lub art. 69 ust. 4, Komisja może nakazać przeniesienie instrumentów finansowych, środków pieniężnych, aktywów oraz dokumentów związanych z prowadzeniem rachunków i ewidencji, o których mowa art. 69 ust. 4 pkt 1, do firmy inwestycyjnej, która uprzednio wyraziła na to zgodę. Przepisy ust. 4a–4d stosuje się odpowiednio.
+
+8. W przypadku cofnięcia zezwolenia na podstawie art. 167f ust. 1 lub zaprzestania prowadzenia rachunków i ewidencji, o których mowa art. 69 ust. 4 pkt 1, lub zaprzestania wykonywania innej działalności na podstawie ustawy lub odrębnych ustaw związku z posiadanym zezwoleniem na prowadzenie rachunków papierów wartościowych do banku państwowego prowadzącego działalność maklerską lub banku państwowego, któremu cofnięto zezwolenie, stosuje się odpowiednio przepisy ust. 3–5.
+
+**Art. 90.**
+
+1. Firma inwestycyjna, która zaprzestała prowadzenia działalności maklerskiej, ma obowiązek archiwizowania i przechowywania na terytorium Rzeczypospolitej Polskiej, przez okres 5 lat od dnia zaprzestania prowadzenia tej działalności, dokumentów oraz innych nośników informacji związanych z prowadzeniem tej działalności. Obowiązek uważa się za wykonany przypadku zapewnienia przez firmę inwestycyjną przechowywania dokumentów oraz innych nośników informacji przez podmiot trzeci spełniający wymagania określone odrębnych przepisach.
+
+2. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty i inne nośniki informacji celem wglądu do tych dokumentów i nośników.
+
+3. Na pisemne żądanie Komisji lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty jest obowiązany do niezwłocznego sporządzenia na własny koszt i przekazania kopii tych dokumentów i nośników.
+
+4. Przepisy ust. 1 nie naruszają przepisów ustawy z dnia 29 września 1994 r. o rachunkowości.
+
+5. Przepisów ust. 1–4 nie stosuje się do zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską bez otwierania oddziału. wadzącymi działalność maklerską, zawierający wskazanie firm lub nazw, adresów siedziby oraz zakresu czynności, do których wykonywania są uprawnione.
+
+1a. Rejestr firm inwestycyjnych zawiera również informację o cofnięciu firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej z przyczyn, o których mowa art. 167 ust. 1 pkt 1–3, 5 i 6, lub utracie uprawnienia banku do prowadzenia działalności, o której mowa art. 69 ust. 2, którą bank wykonywał na zasadach określonych art. 111, z przyczyn, o których mowa art. 138 ust. 7aa ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe. Informacja o cofnięciu zezwolenia lub utracie uprawnienia jest zamieszczana rejestrze na 5 lat od dnia cofnięcia zezwolenia lub utraty uprawnienia.
+
+2. Rejestr firm inwestycyjnych dostępny jest na stronie internetowej Komisji.
+
+3. Komisja prowadzi także jawny rejestr banków państwowych prowadzących działalność maklerską zawierający wskazanie firm lub nazw, adresów siedziby oraz zakresu czynności, do których wykonywania te banki są uprawnione.
+
+4. Komisja udostępnia na swojej stronie internetowej wykaz podmiotów, które zgłosiły zamiar prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej na podstawie art. 117.
+
+**Art. 92.**
+
+1. Firmy inwestycyjne, liczbie co najmniej 25, mogą utworzyć, na zasadach określonych odrębnych przepisach, izbę gospodarczą, zwaną dalej „izbą”.
+
+2. Organizację władz izby, tryb ich powoływania, zakres kompetencji oraz zadania izby określa statut izby.
+
+3. Firmy inwestycyjne prowadzące działalność wyłącznie zakresie zarządzania portfelami instrumentów finansowych lub doradztwa inwestycyjnego zakresie instrumentów finansowych dopuszczonych do obrotu zorganizowanego mogą być członkami izby, o której mowa ust. 1, lub izby gospodarczej, o której mowa przepisach o funduszach inwestycyjnych.
+
+**Art. 93.**
+
+1. Przepisów art. 69 ust. 1, art. 82, art. 83a ust. 1, art. 84, art. 85, art. 86 ust. 1 oraz art. 89 ust. 1 i 2 nie stosuje się do zagranicznych firm inwestycyjnych. Przepisu art. 86 ust. 2 nie stosuje się do zagranicznych firm inwestycyjnych zakresie odnoszącym się do sytuacji finansowej.
+
+2. Przepisy art. 89 ust. 3 i 4 stosuje się odpowiednio do zagranicznych firm inwestycyjnych przypadku zawieszenia lub zakazania, zgodnie z art. 169 ust. 5 pkt 1 lit. a lub ust. 8 pkt 1, całości albo części prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 93a.** (uchylony)
+
+**Art. 93b.** W celu zapewnienia przestrzegania przez firmę inwestycyjną przepisów ustawy, przepisów wykonawczych wydanych na jej podstawie, przepisów prawa bankowego stosowanych przez niektóre domy maklerskie, przepisów rozporządzenia 575/2013, rozporządzenia 600/2014, rozporządzenia 2017/565, rozporządzenia 2019/2033 oraz innych bezpośrednio stosowanych przepisów prawa Unii Europejskiej mających zastosowanie do firmy inwestycyjnej Komisja może zalecić zaprzestanie wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania przyszłości.
+
+**Art. 94.**
+
+1. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia:
+
+- **1)** tryb i warunki postępowania firm inwestycyjnych, banków państwowych prowadzących działalność maklerską, banków, o których mowa art. 70 ust. 2, oraz banków powierniczych zakresie:
+    - **a)** promowania świadczonych usług oraz kontaktów z potencjalnymi klientami,
+    - **b)** zawierania transakcji i dokonywania rozliczeń,
+    - **c)** traktowania klientów jak klientów profesjonalnych lub klientów detalicznych zgodnie z art. 3a ust. 1 i 2,
+    - **d)** świadczenia usług, tym zakresie świadczenia usług na rzecz kategorii klientów, o których mowa art. 3a ust. 4, szczególności takich usług, których przedmiotem są instrumenty dłużne, których struktura utrudnia zrozumienie związanego z nimi ryzyka, i takich, których przedmiotem są lokaty strukturyzowane,
+    - **e)** (uchylona)
+    - **f)** ustanawiania i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie instrumentów finansowych oraz zabezpieczenia wierzytelności na instrumentach finansowych, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie zabezpieczenia, dzeniem działalności maklerskiej,
+    - **h)** przekazywania sprawozdań, o których mowa art. 83j ust. 1, przypadku świadczenia usługi maklerskiej, o której mowa art. 69 ust. 2 pkt 1 i 5 oraz ust. 4 pkt 6 i 8, o ile dotyczy wykonywania czynności, o których mowa art. 69 ust. 2 pkt 1, 2, 4 i 5 oraz ust. 4 pkt 1 i 6, a także wymogi dotyczące treści tych sprawozdań oraz terminy ich przekazywania klientowi,
+    - **i)** emitowania lub wystawiania instrumentów finansowych lub udzielania porad zakresie emitowania lub wystawiania instrumentu finansowego albo rekomendowania lub oferowania albo inny sposób umożliwiania nabycia lub objęcia instrumentu finansowego odniesieniu do wykonywania przez te podmioty czynności, o których mowa art. 69 ust. 2 i 4 i art. 119 ust. 1, przy zapewnieniu należytej staranności, ochrony klienta oraz bezpiecznego i sprawnego zawierania i rozliczania transakcji, a także przejrzystości i bezpieczeństwa obrotu;
+
+- **2)** (uchylony)
+- **3)** warunki, jakie muszą spełniać prowadzone przez firmę inwestycyjną lub bank państwowy prowadzący działalność maklerską ASO lub OTF, przy uwzględnieniu konieczności zapewnienia bezpieczeństwa oraz ochrony interesów inwestorów uczestniczących obrocie tych systemach;
+- **4)** zakres, tryb i formę oraz terminy i sposób przekazywania informacji, o których mowa art. 86, przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa art. 70 ust. 2, i banki powiernicze, przy uwzględnieniu konieczności umożliwienia Komisji, zakresie określonym ustawą, wykonywania nadzoru nad działalnością tych podmiotów;
+- **5)** szczegółowe warunki techniczne i organizacyjne wymagane do prowadzenia działalności przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską i bank, o którym mowa art. 70 ust. 2, oraz do prowadzenia rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych przez bank powierniczy, tym:
+    - **a)** sposób i szczegółowe warunki przechowywania, rejestrowania i zabezpieczania instrumentów finansowych oraz środków pieniężnych klientów, tym szczegółowe warunki wykorzystywania instrumentów finansowych i środków pieniężnych klientów, szczególności dla celów zabezpieczenia, oraz kategorie podmiotów, których mogą być deponowane środki pieniężne klientów,
+    - **b)** szczegółowe kryteria zakresie spełniania przez osoby, o których mowa art. 82a ust. 1, wymogu posiadania odpowiedniej wiedzy i kompetencji,
+    - **c)** szczegółowe kryteria zakresie spełniania przez członków zarządu i rady nadzorczej wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa art. 103 ust. 1a, oraz szczegółowe kryteria stosowane przy określaniu liczby funkcji, jakie mogą być pełnione jednocześnie zgodnie z art. 103 ust. 1c,
+    - **d)** szczegółowe kryteria zakresie spełniania przez osoby, o których mowa art. 3 lit. c–i rozporządzenia delegowanego Komisji (UE) 2021/2154 z dnia 13 sierpnia 2021 r. uzupełniającego dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 odniesieniu do regulacyjnych standardów technicznych określających odpowiednie kryteria ustalania kategorii osób zatrudnionych, których działalność zawodowa ma istotny wpływ na profil ryzyka firmy inwestycyjnej lub aktywów, którymi ta firma zarządza (Dz. Urz. UE L 436 z 07.12.2021, str. 11), wymogu posiadania odpowiedniej wiedzy, kompetencji i doświadczenia,
+    - **e)** szczegółowe kryteria zakresie spełniania przez osoby wchodzące skład władz jednostki organizacyjnej banku prowadzącego działalność maklerską, wydzielonej organizacyjnie zgodnie z art. 111 ust. 5, wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa art. 111 ust. 6a,
+    - **f)** szczegółowe kryteria zakresie spełniania przez osoby wchodzące skład władz oddziału zagranicznej osoby prawnej z siedzibą na terytorium państwa innego niż państwo członkowskie, o którym mowa art. 115 ust. 1, wymogu posiadania nieposzlakowanej opinii, wiedzy, kompetencji i doświadczenia, o których mowa art. 115 ust. 5, lit. b–f, stosowanych wobec nich odpowiednich wymogów zakresie posiadania odpowiedniej wiedzy i kompetencji, nieposzlakowanej opinii i doświadczenia, oraz tryb i warunki postępowania zakresie utrzymywania i doskonalenia wiedzy i kompetencji tych osób oraz osób, o których mowa art. 82a ust. 2,
+    - **h)** tryb i warunki postępowania przy dokonywaniu oceny oraz weryfikacji spełniania kryteriów stosowanych przy określaniu liczby funkcji, jakie mogą być pełnione jednocześnie zgodnie z art. 103 ust. 1c,
+    - **i)** procedury anonimowego zgłaszania naruszeń, o których mowa art. 83a ust. 1a,
+    - **j)** sposób i szczegółowe warunki rejestrowania zawieranych transakcji oraz przechowywania i archiwizacji dokumentów i innych nośników informacji sporządzanych związku z prowadzeniem działalności z uwzględnieniem konieczności zapewnienia profesjonalnego, rzetelnego, bezpiecznego i sprawnego prowadzenia działalności przez te podmioty, biorąc pod uwagę jej zakres.
+
+- **5a)** (uchylony)
+- **6)** (uchylony)
+
+2. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, obowiązki sprawozdawcze domów maklerskich, banków prowadzących działalność maklerską, banków państwowych prowadzących działalność maklerską oraz zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską formie oddziału i zagranicznych osób prawnych, o których mowa art. 115, prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską formie oddziału, banków powierniczych, podmiotów, o których mowa art. 4 ust. 1 pkt 2, oraz Krajowego Depozytu i spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, a także Narodowego Banku Polskiego zakresie obrotu papierami wartościowymi emitowanymi przez Skarb Państwa, tak aby sprawozdania sporządzane przez te podmioty pozwalały na dokonywanie analiz zakresie stanu, dynamiki oraz struktury zadłużenia budżetu państwa skarbowych papierach wartościowych według grup inwestorów oraz rodzajów tych papierów.
+
+3. Minister właściwy do spraw instytucji finansowych może określić, drodze rozporządzenia, wykaz tytułów naukowych lub zawodowych, których posiadanie przez osoby, którym powierzono wykonywanie czynności, o których mowa art. 82a ust. 1, uznaje się za posiadanie przez nie, całości albo części, odpowiedniej wiedzy i odpowiednich kompetencji, biorąc pod uwagę, aby zakres wiedzy i kompetencji, które należy wykazać celu uzyskania danego tytułu, był zgodny z zakresem określonym przepisach wydanych na podstawie ust. 1 pkt 5 lit. b.
+
+##### Oddział 2 Domy maklerskie
+
+**Art. 95.**
+
+1. Domem maklerskim może być wyłącznie:
+
+- **1)** spółka akcyjna,
+- **2)** spółka komandytowo-akcyjna, której komplementariuszami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, liczbie co najmniej dwóch,
+- **3)** spółka z ograniczoną odpowiedzialnością,
+- **4)** spółka komandytowa, której komplementariuszami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, liczbie co najmniej dwóch,
+- **5)** spółka partnerska, której wspólnikami (partnerami) są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, liczbie co najmniej dwóch,
+- **6)** spółka jawna, której wspólnikami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, liczbie co najmniej dwóch z siedzibą na terytorium Rzeczypospolitej Polskiej, zwana dalej „domem maklerskim”.
+
+1a. Spółka, o której mowa ust. 1, która uzyskała zezwolenie na prowadzenie działalności maklerskiej, ma wyłączne prawo zamieszczania firmie (nazwie) spółki wyrazów „dom maklerski” oraz używania takiego oznaczenia obrocie handlowym.
+
+2. Działalność maklerska prowadzona przez spółkę, o której mowa ust. 1 pkt 2, może obejmować wyłącznie czynności wskazane art. 69 ust. 2 pkt 1, 4 i 5 oraz ust. 4 pkt 3, 4, 6 i 7. ności wskazane art. 69 ust. 2 pkt 1 i 5 oraz ust. 4 pkt 3, 4 i 6.
+
+4. Akcje domu maklerskiego mogą być wyłącznie imienne, chyba że są zdematerializowane.
+
+5. Zapłata za obejmowane albo nabywane akcje domu maklerskiego, które nie są zdematerializowane lub udziały domu maklerskiego, nie może pochodzić z nieudokumentowanych źródeł, pożyczek, kredytów albo być inny sposób obciążona.
+
+6. Środki pieniężne wnoszone jako wkład do będącej domem maklerskim spółki jawnej, partnerskiej oraz komandytowej nie mogą pochodzić z pożyczek, kredytów ani z nieudokumentowanych źródeł.
+
+7. Jedynym akcjonariuszem domu maklerskiego formie spółki akcyjnej może być wyłącznie osoba prawna.
+
+8. Jedynym udziałowcem domu maklerskiego formie spółki z ograniczoną odpowiedzialnością może być wyłącznie osoba prawna.
+
+9. W spółce komandytowo-akcyjnej oraz spółce z ograniczoną odpowiedzialnością prowadzących działalność maklerską ustanawia się radę nadzorczą.
+
+10. W przypadku gdy liczba komplementariuszy albo wspólników spełniających warunek wskazany ust. 1 pkt 2, 4–6 spadnie poniżej dwóch, dom maklerski, z zastrzeżeniem art. 83, jest obowiązany do niezwłocznego doprowadzenia do stanu zgodnego z przepisem ust. 1, jednakże terminie nie dłuższym niż 6 miesięcy od dnia, którym dom maklerski przestał spełniać warunek wskazany ust. 1. Do czasu doprowadzenia do stanu zgodnego z przepisem ust. 1, dom maklerski wykonuje wyłącznie czynności wynikające z zawartych umów o świadczenie usług maklerskich bez możliwości zawierania nowych umów.
+
+**Art. 96.**
+
+1. Udzielenie przez Komisję zezwolenia na prowadzenie działalności maklerskiej spółce:
+
+- **1)** która jest podmiotem zależnym od zagranicznej firmy inwestycyjnej, podmiotu prowadzącego zagraniczny rynek regulowany, osoby prawnej prowadzącej działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub od banku zagranicznego, lub
+- **2)** która jest podmiotem zależnym od podmiotu dominującego wobec zagranicznej firmy inwestycyjnej, podmiotu prowadzącego zagraniczny rynek regulowany lub wobec osoby prawnej prowadzącej działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub wobec banku zagranicznego, lub
+- **3)** na którą znaczny wpływ wywierają te same osoby fizyczne lub prawne, które wywierają znaczny wpływ na zagraniczną firmę inwestycyjną, podmiot prowadzący zagraniczny rynek regulowany lub osobę prawną prowadzącą działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub na bank zagraniczny następuje po zasięgnięciu pisemnej opinii właściwego organu nadzoru innego państwa członkowskiego lub państwa należącego do OECD lub WTO, który udzielił zezwolenia na prowadzenie działalności tym państwie; przedmiotem opinii jest sposób prowadzenia tej działalności, szczególności jego zgodność z przepisami prawa obowiązującymi tym państwie.
+
+2. Udzielenie przez Komisję zezwolenia na prowadzenie działalności maklerskiej spółce:
+
+- **1)** która jest podmiotem zależnym od instytucji kredytowej, rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo od zagranicznego zakładu ubezpieczeń posiadającego zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego,
+- **2)** która jest podmiotem zależnym od podmiotu dominującego wobec instytucji kredytowej, rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo zagranicznego zakładu ubezpieczeń posiadającego zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego,
+- **3)** na którą znaczny wpływ wywierają te same osoby fizyczne lub prawne, które wywierają znaczny wpływ na instytucję kredytową, rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo na zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego następuje po zasięgnięciu pisemnej opinii organu innego państwa członkowskiego, który udzielił podmiotowi, o którym mowa pkt 1–3, zezwolenia na prowadzenie działalności tym państwie; celem uzyskania opinii jest dokonanie oceny akcjonariuszy podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca, jak również ocena wiarygodności i doświadczenia członków zarządu podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca, lub innych osób mających wpływ na zarządzanie tym podmiotem. walnym zgromadzeniu lub zgromadzeniu wspólników przypadku spółki akcyjnej, spółki komandytowo-akcyjnej lub spółki z ograniczoną odpowiedzialnością, lub uprawnienie do podejmowania decyzji dotyczącej kształtowania polityki finansowej lub bieżącej działalności gospodarczej tej osoby prawnej.
+
+4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o wydaniu zezwolenia na prowadzenie przez firmę inwestycyjną ASO lub OTF, a na żądanie tego Urzędu Komisja udostępnia informacje, o których mowa art. 82 ust. 1 pkt 3 i 4.
+
+**Art. 97.** Dom maklerski utrzymuje kapitał założycielski zgodny ze strukturą określoną art. 9 rozporządzenia 2019/2033.
+
+**Art. 98.**
+
+1. Kapitał założycielski domu maklerskiego na prowadzenie działalności maklerskiej wynosi co najmniej równowartość złotych 150 000 euro.
+
+2. W przypadku gdy dom maklerski nie prowadzi działalności, o której mowa art. 69 ust. 2 pkt 8 lub ust. 4 pkt 1, kapitał założycielski wynosi co najmniej równowartość złotych 75 000 euro.
+
+3. W przypadku gdy dom maklerski prowadzi działalność, o której mowa art. 69 ust. 2 pkt 3, 7 lub 9, kapitał założycielski wynosi co najmniej równowartość złotych 750 000 euro.
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. (uchylony) 8a. (uchylony) 8b. (uchylony)
+
+9. (uchylony) 9a. (uchylony) 9b. (uchylony)
+
+10. Równowartość złotych kwot wyrażonych euro, o których mowa ust. 1–3, jest ustalana na dzień bilansowy, na który jest sporządzane roczne sprawozdanie finansowe, przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego na ten dzień bilansowy, a na potrzeby postępowania przedmiocie udzielenia zezwolenia na prowadzenie działalności maklerskiej przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski na dzień poprzedzający dzień złożenia wniosku o udzielenie zezwolenia na prowadzenie działalności maklerskiej.
+
+11. (uchylony)
+
+**Art. 98a.** (uchylony)
+
+**Art. 98b.** (uchylony)
+
+**Art. 98c.** (uchylony)
+
+**Art. 98d.** (uchylony)
+
+**Art. 98e.** (uchylony)
+
+**Art. 98f.** (uchylony)
+
+**Art. 98g.** (uchylony)
+
+**Art. 98h.** (uchylony)
+
+**Art. 98i.** (uchylony)
+
+**Art. 98j.** (uchylony)
+
+**Art. 99.** (uchylony) informacji finansowych, których obowiązek sporządzenia przez dom maklerski wynika z odrębnych przepisów, lub prawidłowości prowadzenia ksiąg rachunkowych Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych firmie audytorskiej wskazanej przez Komisję albo zobowiązać dom maklerski do zlecenia kontroli tych sprawozdań, informacji i ksiąg rachunkowych firmie audytorskiej wskazanej przez Komisję. 1a. Koszty kontroli zleconej przez Komisję lub kontroli, do której zlecenia Komisja zobowiązała dom maklerski, ponosi Komisja. 1b. Jeżeli wyniku kontroli, o której mowa ust. 1a, stwierdzono istotne nieprawidłowości, dom maklerski zwraca Komisji koszty przeprowadzenia kontroli. 2. W stosunku do oddziału domu maklerskiego znajdującego się na terytorium innego państwa członkowskiego, Komisji przysługują uprawnienia określone ust. 1 oraz art. 88. Wykonanie uprawnień następuje po uprzednim pisemnym poinformowaniu właściwego organu nadzoru państwie, na którego terytorium znajduje się oddział domu maklerskiego. 3. Biegły rewident lub firmy audytorskie badające sprawozdania finansowe domu maklerskiego, podmiotu dominującego wobec domu maklerskiego lub podmiotu wywierającego na dom maklerski znaczny wpływ rozumieniu art. 96 ust. 3 niezwłocznie przekazują Komisji oraz radzie nadzorczej i zarządowi domu maklerskiego, podmiotu dominującego wobec domu maklerskiego lub podmiotu wywierającego na dom maklerski znaczny wpływ rozumieniu art. 96 ust. 3 istotne informacje, posiadanie których weszli związku z wykonywanymi czynnościami, dotyczące zdarzeń powodujących:
+
+**Art. 101.** (uchylony)
+
+**Art. 102.**
+
+1. Dom maklerski jest obowiązany posiadać centralę na terytorium Rzeczypospolitej Polskiej.
+
+2. Za centralę domu maklerskiego uważa się jednostkę organizacyjną domu maklerskiego, której wykonują sposób stały działalność członkowie zarządu domu maklerskiego, komplementariusze spółce komandytowo-akcyjnej lub komandytowej albo wspólnicy spółce jawnej lub partnerskiej będącej domem maklerskim.
+
+**Art. 102a.**
+
+1. Powołanie prezesa zarządu domu maklerskiego i członka zarządu domu maklerskiego, który będzie odpowiedzialny za nadzorowanie systemu zarządzania ryzykiem, a także powierzenie funkcji prezesa lub funkcji członka zarządu domu maklerskiego, który będzie odpowiedzialny za nadzorowanie systemu zarządzania ryzykiem, następuje, z zastrzeżeniem art. 84 ust. 1a, za zgodą Komisji. Z wnioskiem o wyrażenie zgody występuje rada nadzorcza.
+
+2. Rada nadzorcza domu maklerskiego, wraz z wnioskiem, o którym mowa ust. 1, przekazuje informacje i oświadczenia osób wskazanych tym przepisie, odnoszące się do okresu ostatnich 5 lat, dotyczące:
+
+- **1)** identyfikacji tych osób (dane osobowe);
+- **2)** wiedzy, umiejętności i doświadczenia tych osób, a szczególności wykształcenia, przebiegu pracy zawodowej i ukończonych szkoleń zawodowych;
+- **3)** funkcji pełnionych organach innych podmiotów; skarbowe;
+- **5)** sankcji administracyjnych nałożonych na te osoby lub inne podmioty związku z zakresem odpowiedzialności tych osób;
+- **6)** postępowań sądowych, które mogą mieć negatywny wpływ na sytuację finansową tych osób, zagrożonych sankcją postępowań administracyjnych, lub dyscyplinarnych, których te osoby występowały lub występują jako strona, a także postępowań egzekucyjnych zakończonych lub prowadzonych przeciwko tej osobie;
+- **7)** innych okoliczności mogących mieć wpływ na ocenę spełniania przez te osoby wymogów określonych art. 103 ust. 1a.
+
+2a. Komisja, badając rękojmię prawidłowego wykonywania obowiązków przez osobę, której dotyczy wniosek, o którym mowa ust. 1, dokonuje weryfikacji informacji również centralnej bazie sankcji administracyjnych prowadzonej przez Europejski Urząd Nadzoru Bankowego.
+
+3. Komisja odmawia wyrażenia zgody, o której mowa ust. 1, jeżeli osoba, której dotyczy wniosek o wyrażenie zgody, nie spełnia wymogów określonych art. 103 ust. 1a lub 1b.
+
+4. Jeżeli nie zachodzą przesłanki określone ust. 3, przepisu ust. 1 nie stosuje się do powołania na kolejną kadencję osób wymienionych ust. 1.
+
+4a. Dom maklerski niezwłocznie informuje Komisję o powołaniu lub powierzeniu funkcji, o którym mowa ust. 1, ze wskazaniem daty powołania lub powierzenia funkcji.
+
+5. Decyzja, o której mowa ust. 1, może określać termin, do którego powinno nastąpić powołanie lub powierzenie funkcji, o którym mowa ust. 1. W przypadku niedotrzymania tego terminu decyzja wygasa. Przepisu art. 162 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+
+**Art. 102b.**
+
+1. W zarządzie domu maklerskiego wyodrębnia się funkcję prezesa oraz stanowisko członka zarządu nadzorującego lub stanowiska członków zarządu nadzorujących system zarządzania ryzykiem działalności domu maklerskiego.
+
+2. Zarząd domu maklerskiego ustala, a rada nadzorcza zatwierdza wewnętrzny podział kompetencji zarządzie domu maklerskiego.
+
+3. W ramach wewnętrznego podziału kompetencji zarządzie domu maklerskiego nie mogą być łączone funkcje prezesa zarządu oraz członka zarządu nadzorującego system zarządzania ryzykiem działalności domu maklerskiego.
+
+**Art. 102c.**
+
+1. Komisja dokonuje oceny, czy członkowie zarządu i rady nadzorczej spełniają wymogi określone art. 103. W ocenie uwzględnia się szczególności przypadki uzasadnionego podejrzenia popełnienia przestępstwa, o którym mowa art. 165a lub art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2024 r. poz. 17), z wykorzystaniem działalności domu maklerskiego, uzasadnionego podejrzenia usiłowania popełnienia tego przestępstwa lub istnienia podwyższonego ryzyka popełnienia tego przestępstwa.
+
+2. W przypadku gdy członek zarządu domu maklerskiego nie spełnia wymogów określonych art. 103, Komisja może wystąpić do właściwego organu domu maklerskiego z wnioskiem o jego odwołanie albo, drodze decyzji, odwołać go.
+
+3. Komisja może zawiesić czynnościach członka zarządu domu maklerskiego do czasu podjęcia przez właściwy organ domu maklerskiego uchwały sprawie wniosku o jego odwołanie.
+
+4. Rada nadzorcza może delegować członka rady nadzorczej, na okres nie dłuższy niż 3 miesiące, do czasowego wykonywania czynności członka zarządu, który został zawieszony albo odwołany.
+
+5. (uchylony)
+
+**Art. 103.**
+
+1. Liczba członków zarządu i rady nadzorczej domu maklerskiego powinna zapewniać skuteczne, prawidłowe i ostrożne zarządzanie domem maklerskim, szczególności uwzględnia zakres, skalę i złożoność prowadzonej działalności, przy czym skład zarządu powinny wchodzić co najmniej dwie osoby.
+
+1a. W skład zarządu i rady nadzorczej domu maklerskiego mogą wchodzić wyłącznie osoby posiadające nieposzlakowaną opinię związku ze sprawowanymi funkcjami, wiedzę, kompetencje i doświadczenie niezbędne do skutecznego, prawidłowego oraz ostrożnego zarządzania domem maklerskim, tym zarządzania ryzykiem, z uwzględnieniem zakresu, skali i złożoności prowadzonej działalności. Dom maklerski zapewnia utrzymywanie i doskonalenie przez członków organów domu maklerskiego wiedzy i kompetencji niezbędnych do należytego wykonywania powierzonych obowiązków. za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwa określonego art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących innych państwach członkowskich.
+
+1c. Liczba funkcji członka zarządu lub rady nadzorczej pełnionych jednocześnie przez członka zarządu lub rady nadzorczej domu maklerskiego stosującego rozporządzenie 575/2013 powinna być uzależniona od indywidualnych okoliczności oraz charakteru, skali i stopnia złożoności działalności domu maklerskiego.
+
+1d. Członek zarządu lub rady nadzorczej domu maklerskiego stosującego rozporządzenie 575/2013, spełniającego co najmniej jeden z warunków określonych ust. 1h, może sprawować jednocześnie nie więcej niż:
+
+- **1)** jedną funkcję członka zarządu i dwie funkcje członka rady nadzorczej albo
+- **2)** cztery funkcje członka rady nadzorczej.
+
+1e. Za jedną funkcję, o której mowa ust. 1d, uznaje się:
+
+- **1)** funkcje członka zarządu lub rady nadzorczej sprawowane podmiotach należących do tej samej grupy, o której mowa art. 4 ust. 1 pkt 138 rozporządzenia 575/2013;
+- **2)** funkcje członka zarządu lub rady nadzorczej sprawowane podmiotach:
+    - **a)** objętych tym samym instytucjonalnym systemem ochrony spełniającym warunki, o których mowa art. 113 ust. 7 rozporządzenia 575/2013,
+    - **b)** których dom maklerski stosujący rozporządzenie 575/2013 posiada znaczny pakiet akcji, o którym mowa art. 4 ust. 1 pkt 36 rozporządzenia 575/2013.
+
+1f. Przepisu ust. 1d nie stosuje się do funkcji sprawowanych przez członka zarządu lub rady nadzorczej domu maklerskiego stosującego rozporządzenie 575/2013 podmiotach nieprowadzących działalności gospodarczej, jak również do reprezentantów Skarbu Państwa.
+
+1g. Na wniosek rady nadzorczej Komisja, biorąc pod uwagę szczególności zakres, skalę i złożoność działalności prowadzonej przez dom maklerski stosujący rozporządzenie 575/2013, może wyrazić zgodę na sprawowanie przez członka zarządu lub rady nadzorczej, o których mowa ust. 1d, jednej dodatkowej funkcji członka rady nadzorczej ponad ograniczenia przewidziane ust. 1d i 1e, jeżeli nie zagrozi to należytemu wykonywaniu przez członka zarządu lub rady nadzorczej powierzonych mu obowiązków tym domu maklerskim. Komisja informuje Europejski Urząd Nadzoru Bankowego i Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o wydanych zgodach.
+
+1h. Przepis ust. 1d ma zastosowanie do domu maklerskiego stosującego rozporządzenie 575/2013 spełniającego co najmniej jeden z warunków:
+
+- **1)** instrumenty finansowe wyemitowane przez taki dom maklerski zostały dopuszczone do obrotu na rynku regulowanym;
+- **2)** udział takiego domu maklerskiego aktywach sektora domów maklerskich jest nie mniejszy niż 2 %;
+- **3)** udział takiego domu maklerskiego funduszach własnych sektora domów maklerskich jest nie mniejszy niż 2 %.
+
+2. W przypadku domu maklerskiego działającego formie spółki osobowej wymogi określone ust. 1–1b mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania, zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+3. Przepisy:
+
+- **1)** ust. 1–1b stosuje się również do inwestycyjnej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033, oraz do finansowej spółki holdingowej o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033, o ile spółka ta jest podmiotem dominującym wobec domu maklerskiego;
+- **2)** ust. 1c–1h stosuje się również do:
+    - **a)** inwestycyjnej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033,
+    - **b)** finansowej spółki holdingowej o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033,
+    - **c)** finansowej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 20 rozporządzenia 575/2013 o ile spółka ta jest podmiotem dominującym wobec domu maklerskiego stosującego rozporządzenie 575/2013.
+
+4. (uchylony)
+
+5. (uchylony)
+
+**Art. 104.**
+
+1. Zezwolenie na prowadzenie działalności maklerskiej, z zastrzeżeniem ust. 2, 3, 5 i 6–10, uprawnia dom maklerski do prowadzenia, formie oddziału, lub bez konieczności otwierania oddziału, tym za pośrednictwem agenta przebywającego innym państwie członkowskim lub na terytorium Rzeczypospolitej Polskiej, działalności maklerskiej na terytorium wszystkich innych państw członkowskich zakresie czynności objętych zezwoleniem, o którym mowa art. 69 ust. 1.
+
+2. Dom maklerski jest obowiązany zawiadomić Komisję o zamiarze prowadzenia działalności maklerskiej formie oddziału lub bez otwierania oddziału na terytorium innego państwa członkowskiego.
+
+3. Zawiadomienie, o którym mowa ust. 2, zawiera informacje określone w:
+
+- **1)** art. 6 rozporządzenia 2017/1018 przypadku gdy działalność ma być prowadzona formie oddziału lub bez otwierania oddziału, ale za pośrednictwem agenta, który ma przebywać innym państwie członkowskim, którym ma być wykonywana działalność;
+- **2)** art. 3 rozporządzenia 2017/1018 przypadku gdy działalność ma być prowadzona bez otwierania oddziału, tym za pośrednictwem agenta, który ma przebywać na terytorium Rzeczypospolitej Polskiej.
+
+4. (uchylony) 4a. (uchylony)
+
+5. Komisja przekazuje informacje, o których mowa ust. 3, właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego ma działać oddział lub będzie prowadzona działalność, terminie 3 miesięcy od dnia ich otrzymania przypadku gdy działalność ma być prowadzona sposób, o którym mowa ust. 3 pkt 1, albo miesiąca od dnia ich otrzymania przypadku gdy działalność ma być prowadzona sposób, o którym mowa ust. 3 pkt 2. W przypadku gdy działalność ma być prowadzona sposób, o którym mowa ust. 3 pkt 1, wraz z informacjami, o których mowa ust. 3, Komisja przekazuje informacje o ogólnych zasadach funkcjonowania polskiego systemu rekompensat.
+
+5a. (uchylony)
+
+6. O przekazaniu informacji, o których mowa ust. 3, właściwemu organowi nadzoru innego państwa członkowskiego Komisja informuje dom maklerski, którego te informacje dotyczą.
+
+7. W przypadku zmiany zasad funkcjonowania systemu rekompensat, Komisja przekazuje informację o tych zmianach właściwemu organowi nadzoru innym państwie członkowskim, na którego terytorium działa dom maklerski.
+
+8. Informacje o zmianie danych zawartych zawiadomieniu dom maklerski przekazuje Komisji nie później niż na miesiąc przed dniem wejścia życie tych zmian. Komisja przekazuje te informacje właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego działa oddział lub jest prowadzona działalność bez otwierania oddziału.
+
+8a. Informacja, o której mowa ust. 8, zawiera informacje określone w:
+
+- **1)** art. 7 rozporządzenia 2017/1018 przypadku gdy działalność jest prowadzona formie oddziału lub bez otwierania oddziału, ale za pośrednictwem agenta, który przebywa innym państwie członkowskim, którym jest wykonywana działalność;
+- **2)** art. 4 rozporządzenia 2017/1018 przypadku gdy działalność jest prowadzona bez otwierania oddziału, tym za pośrednictwem agenta, który przebywa na terytorium Rzeczypospolitej Polskiej.
+
+9. Komisja może, terminie 3 miesięcy przypadku gdy działalność ma być prowadzona sposób, o którym mowa ust. 3 pkt 1, albo miesiąca przypadku gdy działalność ma być prowadzona sposób, o którym mowa ust. 3 pkt 2, od dnia złożenia zawiadomienia, zgłosić sprzeciw wobec zamiaru utworzenia oddziału lub rozpoczęcia działalności bez otwierania oddziału poza terytorium Rzeczypospolitej Polskiej, jeżeli stanowiłoby to zagrożenie dla funkcjonowania domu maklerskiego na terytorium Rzeczypospolitej Polskiej.
+
+10. Działalność maklerska na terytorium innego państwa członkowskiego może być rozpoczęta po otrzymaniu od właściwego organu nadzoru tego państwa informacji wskazującej warunki prowadzenia tej działalności lub po upływie 2 miesięcy liczonych od dnia otrzymania przez właściwy organ nadzoru innym państwie członkowskim, na którego terytorium działalność ma być prowadzona, zawiadomienia, o którym mowa ust. 2. Działalność, która ma być prowadzona sposób, o którym mowa ust. 3 pkt 2, może być podjęta po otrzymaniu przez dom maklerski od Komisji informacji, o której mowa ust. 6.
+
+11. Komisja niezwłocznie informuje właściwy organ nadzoru innego państwa członkowskiego, na którego terytorium działa dom maklerski, o cofnięciu lub wygaśnięciu zezwolenia na prowadzenie działalności maklerskiej będącego podstawą prowadzenia działalności na terytorium danego państwa.
+
+12. Komisja informuje Komisję Europejską oraz Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o liczbie przypadków zgłoszenia sprzeciwu, o którym mowa ust. 9.
+
+13. Przewidywany zakres działalności, którą dom maklerski zamierza prowadzić, nie może obejmować wyłącznie czynności określonych art. 69 ust. 4. kraju niebędącym państwem członkowskim pod warunkiem uprzedniego zawarcia przez Komisję porozumienia, o którym mowa art. 20 ust. 2 ustawy o nadzorze, z organem nadzoru kraju, którym ma być prowadzona ta działalność. W tym przypadku przepisy ust. 2, 3 i 9 stosuje się odpowiednio.
+
+**Art. 104a.**
+
+1. Zezwolenie na prowadzenie ASO lub OTF uprawnia dom maklerski do instalowania na terytorium innego państwa członkowskiego systemów teleinformatycznych i urządzeń technicznych zapewniających dostęp do prowadzonych przez ten dom maklerski ASO lub OTF podmiotom prowadzącym działalność na terytorium innego państwa członkowskiego.
+
+2. Dom maklerski jest obowiązany zawiadomić Komisję o zamiarze podjęcia czynności, o których mowa ust. 1, ze wskazaniem państwa, na którego terytorium czynności te mają być podjęte.
+
+2a. Zawiadomienie, o którym mowa ust. 2, zawiera informacje określone art. 5 rozporządzenia 2017/1018.
+
+3. Komisja przekazuje zawiadomienie, o którym mowa ust. 2, terminie miesiąca od dnia jego otrzymania, właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego czynności określone ust. 1 mają być podjęte.
+
+**Art. 105.** (uchylony)
+
+**Art. 105a.** (uchylony)
+
+**Art. 105b.** (uchylony)
+
+**Art. 105c.** (uchylony)
+
+**Art. 105d.** (uchylony)
+
+**Art. 105e.** (uchylony)
+
+**Art. 105f.** (uchylony)
+
+**Art. 105g.** (uchylony)
+
+**Art. 106.**
+
+1. Podmiot, który zamierza, bezpośrednio lub pośrednio, nabyć albo objąć akcje lub prawa z akcji domu maklerskiego liczbie zapewniającej osiągnięcie albo przekroczenie odpowiednio 10 %, 20 %, jednej trzeciej, 50 % ogólnej liczby głosów na walnym zgromadzeniu lub udziału kapitale zakładowym, jest obowiązany każdorazowo zawiadomić Komisję o zamiarze ich nabycia albo objęcia. Podmiot, który zamierza, bezpośrednio lub pośrednio, stać się podmiotem dominującym domu maklerskiego sposób inny niż przez nabycie albo objęcie akcji lub praw z akcji domu maklerskiego liczbie zapewniającej większość ogólnej liczby głosów na walnym zgromadzeniu, obowiązany jest każdorazowo zawiadomić o tym zamiarze Komisję.
+
+2. Za pośrednio stającego się podmiotem dominującym domu maklerskiego albo pośrednio nabywającego lub obejmującego akcje lub prawa z akcji domu maklerskiego uważa się podmiot dominujący stosunku do podmiotu, który nabywa albo obejmuje akcje lub prawa z akcji domu maklerskiego bezpośrednio, jak również podmiot, który podejmuje działania powodujące, że stanie się on podmiotem dominującym stosunku do podmiotu, który jest podmiotem dominującym domu maklerskiego albo posiada akcje lub prawa z akcji domu maklerskiego.
+
+3. W przypadku gdy podmiot, który zamierza:
+
+- **1)** bezpośrednio nabyć albo objąć akcje lub prawa z akcji domu maklerskiego lub stać się podmiotem dominującym domu maklerskiego, jest podmiotem zależnym, zawiadomienie składa tylko ten podmiot łącznie z jego pierwotnym podmiotem dominującym;
+- **2)** pośrednio nabyć albo objąć akcje lub prawa z akcji domu maklerskiego lub stać się podmiotem dominującym domu maklerskiego, jest podmiotem zależnym, zawiadomienie składa tylko jego pierwotny podmiot dominujący.
+
+4. Obowiązek zawiadomienia, o którym mowa ust. 1, dotyczy także:
+
+- **1)** zastawnika i użytkownika akcji, jeżeli zgodnie z art. 340 § 1 Kodeksu spółek handlowych są oni uprawnieni do wykonywania prawa głosu z akcji;
+- **2)** podmiotu, który uzyskał prawo głosu na walnym zgromadzeniu na poziomach określonych ust. 1 wyniku zdarzeń innych niż objęcie lub nabycie akcji lub praw z akcji domu maklerskiego, szczególności wyniku zmiany statutu lub następstwie wygaśnięcia uprzywilejowania lub ograniczenia akcji co do prawa głosu, a także nabycia akcji lub praw z akcji domu maklerskiego liczbie zapewniającej osiągnięcie albo przekroczenie poziomów określonych ust. 1 ogólnej liczbie głosów na walnym zgromadzeniu lub udziału kapitale zakładowym wyniku dziedziczenia;
+- **3)** podmiotu, który otrzymał akcje domu maklerskiego wyniku zamiany instrumentów kapitałowych zakwalifikowanych do funduszy własnych jako instrumenty dodatkowe Tier I, o których mowa art. 52 rozporządzenia 575/2013, albo instrumenty Tier II, o których mowa art. 63 rozporządzenia 575/2013. nywania prawa głosu z akcji albo wykonywania uprawnień podmiotu dominującego wobec domu maklerskiego. Przepisy art. 106a–106n stosuje się odpowiednio.
+
+6. Do podmiotów, o których mowa ust. 4, przepisy ust. 2 i 3 stosuje się odpowiednio.
+
+7. Przepisy ust. 1–6 i 9 stosuje się odpowiednio przypadku, którym dwa lub więcej podmiotów działa porozumieniu, którego przedmiotem jest nabycie albo objęcie akcji lub prawa z akcji domu maklerskiego liczbie zapewniającej osiągnięcie albo przekroczenie poziomów określonych ust. 1, wykonywanie prawa głosu z akcji na poziomach określonych ust. 1 lub wykonywanie uprawnień podmiotu dominującego domu maklerskiego.
+
+7a. Działanie porozumieniu, o którym mowa ust. 7, domniemywa się przypadku posiadania lub zamiaru nabycia lub objęcia akcji lub praw z akcji domu maklerskiego przez:
+
+- **1)** małżonków, ich wstępnych, zstępnych i rodzeństwo oraz powinowatych tej samej linii lub stopniu co te osoby, a także osoby pozostające stosunku przysposobienia, opieki i kurateli;
+- **2)** osoby pozostające we wspólnym gospodarstwie domowym;
+- **3)** podmioty należące do tej samej grupy kapitałowej;
+- **4)** osoby finansujące nabycie akcji lub praw z akcji z tego samego źródła.
+
+8. W przypadku działania porozumieniu, o którym mowa ust. 7, zawiadomienie składają wszystkie strony porozumienia łącznie.
+
+9. Przepisu ust. 1 nie stosuje się przypadku, gdy nabycie albo objęcie akcji domu maklerskiego dokonywane jest przez bank krajowy lub instytucję kredytową rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, dom maklerski lub zagraniczną firmę inwestycyjną mającą siedzibę na terytorium państwa członkowskiego, wykonaniu umowy o gwarancję emisji, o której mowa art. 14a ust. 5 ustawy o ofercie publicznej, jeżeli:
+
+- **1)** prawa z akcji nie są wykonywane celu ingerencji zarządzanie domem maklerskim oraz
+- **2)** akcje domu maklerskiego zostaną zbyte ciągu roku od dnia ich nabycia albo objęcia.
+
+**Art. 106a.**
+
+1. Podmiot składający zawiadomienie, o którym mowa art. 106 ust. 1, przekazuje wraz z zawiadomieniem informację o posiadanych bezpośrednio lub pośrednio akcjach lub prawach z akcji domu maklerskiego, o którym mowa art. 106 ust. 1, jak również o podmiotach dominujących tego podmiotu i zawartych przez ten podmiot porozumieniach oraz o pozostawaniu przez ten podmiot stanach faktycznych lub prawnych pozwalających innym podmiotom na wykonywanie praw z akcji domu maklerskiego lub wykonywanie uprawnień podmiotu dominującego domu maklerskiego.
+
+2. Podmiot, o którym mowa ust. 1, wskazuje zawiadomieniu sposób realizacji zamiaru, którego dotyczy zawiadomienie oraz przedkłada dowody wskazujące na istnienie zamiaru objętego zawiadomieniem, szczególności stosowną umowę lub porozumienie, a przypadku, gdy zamiar ma zostać zrealizowany na rynku regulowanym stosowne oświadczenie tym zakresie.
+
+3. W przypadku gdy podmiot składający zawiadomienie jest:
+
+- **1)** zakładem ubezpieczeń, zakładem reasekuracji, instytucją kredytową rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, zagraniczną firmą inwestycyjną, spółką zarządzającą lub zarządzającym z UE, którzy uzyskali zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego, lub
+- **2)** podmiotem dominującym lub podmiotem pozostającym podobnym stosunku do zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, zagranicznej firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, którzy uzyskali zezwolenie na wykonywanie działalności na terytorium państwa członkowskiego zawiadomienie zawiera odpowiednią informację tym zakresie, wskazującą szczególności nazwę i siedzibę zagranicznego zakładu ubezpieczeń, zagranicznego zakładu reasekuracji, instytucji kredytowej, firmy inwestycyjnej, spółki zarządzającej lub zarządzającego z UE, o których mowa pkt 2; jeżeli nie zachodzą okoliczności wymienione pkt 1 i 2, zawiadomienie zawiera stosowne oświadczenie tym zakresie. informacje, o których mowa rozporządzeniu 2017/1946.
+
+2. (uchylony)
+
+3. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia, dokumenty, które należy załączyć do zawiadomienia celu przedstawienia informacji określonych ust. 1, mając na względzie umożliwienie przeprowadzenia właściwej oceny podmiotu zamierzającego nabyć lub objąć akcje lub prawa z akcji domu maklerskiego albo zamierzającego stać się podmiotem dominującym domu maklerskiego inny sposób.
+
+**Art. 106c.**
+
+1. Zawiadomienie i załączane dokumenty powinny być sporządzone języku polskim lub przetłumaczone na język polski. Tłumaczenie powinno być sporządzone przez tłumacza przysięgłego lub właściwego konsula Rzeczypospolitej Polskiej.
+
+2. Dokumenty urzędowe przed tłumaczeniem powinny być zalegalizowane przez konsula Rzeczypospolitej Polskiej. Obowiązku legalizacji nie stosuje się, jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej.
+
+**Art. 106d.** W uzasadnionych przypadkach, szczególności gdy prawo kraju właściwego nie przewiduje sporządzania dokumentów wymaganych dla przedstawienia informacji, o których mowa rozporządzeniu 2017/1946, podmiot składający zawiadomienie lub osoba, której sprawa dotyczy, może, miejsce tych dokumentów, złożyć stosowne oświadczenie zawierające wymagane informacje.
+
+**Art. 106e.**
+
+1. Podmiot składający zawiadomienie, o którym mowa art. 106 ust. 1, niemający miejsca zamieszkania lub zwykłego pobytu albo siedziby Rzeczypospolitej Polskiej lub innym państwie członkowskim, jest obowiązany ustanowić na terytorium Rzeczypospolitej Polskiej pełnomocnika do doręczeń toku postępowania przedmiocie zawiadomienia.
+
+2. W razie niedopełnienia obowiązku, o którym mowa ust. 1, pisma toku postępowania pozostawia się aktach sprawy ze skutkiem doręczenia. O skutku tym Komisja informuje pisemnie podmiot składający zawiadomienie.
+
+**Art. 106f.** W przypadku gdy podmiot składający zawiadomienie jest podmiotem, o którym mowa art. 106a ust. 3 pkt 1 lub 2, Komisja występuje na piśmie do właściwych organów nadzoru o przekazanie informacji zakresie określonym art. 106h ust. 2, celu ustalenia, czy zachodzi przesłanka, o której mowa art. 106h ust. 1 pkt 3.
+
+**Art. 106g.**
+
+1. Komisja, niezwłocznie po otrzymaniu zawiadomienia, nie później jednak niż terminie 2 dni roboczych, potwierdza formie pisemnej jego otrzymanie.
+
+2. W przypadku stwierdzenia braków zawiadomieniu lub gdy nie zostały załączone do niego wymagane informacje lub dokumenty, Komisja wzywa podmiot składający zawiadomienie do uzupełnienia tych braków wyznaczonym terminie.
+
+3. Komisja niezwłocznie po otrzymaniu informacji lub dokumentów stanowiących uzupełnienie zawiadomienia, nie później jednak niż terminie 2 dni roboczych, potwierdza formie pisemnej ich otrzymanie.
+
+4. Komisja, wraz z potwierdzeniem otrzymania zawiadomienia i wszystkich wymaganych informacji i dokumentów, informuje podmiot składający zawiadomienie o dacie upływu terminu na doręczenie decyzji przedmiocie sprzeciwu, o której mowa art. 106h ust. 1.
+
+5. Komisja może, przed upływem 50. dnia roboczego terminu na doręczenie decyzji przedmiocie sprzeciwu, pisemnie wezwać podmiot składający zawiadomienie do przekazania dodatkowych niezbędnych informacji lub dokumentów terminie 20 dni roboczych od dnia otrzymania wezwania, a przypadku gdy:
+
+- **1)** miejsce zamieszkania lub siedziba podmiotu składającego zawiadomienie znajduje się państwie niebędącym państwem członkowskim lub nadzór nad nim sprawują władze nadzorcze państwa niebędącego państwem członkowskim lub
+- **2)** podmiot składający zawiadomienie nie jest podmiotem podlegającym nadzorowi ubezpieczeniowemu, nadzorowi nad rynkiem kapitałowym lub nadzorowi bankowemu sprawowanemu przez władze nadzorcze państwa członkowskiego wyznaczonym terminie, nie krótszym niż 20 i nie dłuższym niż 30 dni roboczych od dnia otrzymania wezwania, wskazując zakres żądanych informacji lub dokumentów.
+
+6. W przypadku wezwania, o którym mowa ust. 5, następuje zawieszenie biegu terminu na doręczenie decyzji przedmiocie sprzeciwu, od dnia wysłania wezwania do dnia otrzymania informacji lub dokumentów, nie dłużej jednak niż do upływu terminu na przekazanie informacji lub dokumentów.
+
+7. Komisja formie pisemnej potwierdza otrzymanie informacji lub dokumentów, o których mowa ust. 5, terminie nie dłuższym niż 2 dni robocze od dnia ich otrzymania. terminów przekazania informacji lub dokumentów, o których mowa ust. 5. Wezwania te nie powodują zawieszenia biegu terminu na doręczenie decyzji przedmiocie sprzeciwu.
+
+**Art. 106h.**
+
+1. Komisja zgłasza, drodze decyzji, sprzeciw co do nabycia albo objęcia akcji lub praw z akcji lub co do stania się podmiotem dominującym domu maklerskiego, jeżeli:
+
+- **1)** podmiot składający zawiadomienie nie uzupełnił wyznaczonym terminie braków zawiadomieniu lub załączanych do zawiadomienia dokumentach i informacjach;
+- **2)** podmiot składający zawiadomienie nie przekazał terminie dodatkowych informacji lub dokumentów żądanych przez Komisję;
+- **3)** uzasadnione jest to potrzebą ostrożnego i stabilnego zarządzania domem maklerskim, z uwagi na możliwy wpływ podmiotu składającego zawiadomienie na dom maklerski lub z uwagi na ocenę sytuacji finansowej podmiotu składającego zawiadomienie.
+
+2. W ramach oceny istnienia przesłanki, o której mowa ust. 1 pkt 3, Komisja bada, czy podmiot składający zawiadomienie wykazał, że:
+
+- **1)** daje rękojmię wykonywania swoich praw i obowiązków sposób należycie zabezpieczający interesy domu maklerskiego i klientów domu maklerskiego oraz zapewnia właściwe prowadzenie działalności maklerskiej;
+- **2)** osoby, które będą kierować działalnością domu maklerskiego dają rękojmię prowadzenia spraw domu maklerskiego sposób należycie zabezpieczający interesy domu maklerskiego i klientów domu maklerskiego oraz zapewnią właściwe wykonywanie działalności maklerskiej, a także posiadają odpowiednie doświadczenie zawodowe;
+- **3)** jest dobrej kondycji finansowej, szczególności odniesieniu do aktualnego zakresu prowadzonej działalności, jak również wpływu realizacji planów inwestycyjnych na przyszłą sytuację finansową podmiotu składającego zawiadomienie i przyszłą sytuację finansową domu maklerskiego;
+- **4)** zapewni przestrzeganie przez dom maklerski wymogów ostrożnościowych wynikających z przepisów prawa, tym wymogów kapitałowych, kontroli wewnętrznej, zarządzania ryzykiem, a szczególności, że struktura grupy, której dom maklerski stanie się częścią, umożliwiać będzie sprawowanie efektywnego nadzoru oraz skuteczną wymianę informacji pomiędzy właściwymi organami nadzorczymi i ustalenie zakresów właściwości tych organów;
+- **5)** środki finansowe związane z nabyciem albo objęciem akcji lub praw z akcji lub podjęciem innych działań zmierzających do stania się podmiotem dominującym, powodujących, że dom maklerski stanie się podmiotem zależnym, nie pochodzą z nielegalnych lub nieujawnionych źródeł oraz nie mają związku z finansowaniem terroryzmu ani związku z zamierzonym nabyciem albo objęciem akcji lub praw z akcji lub podjęciem innych działań zmierzających do stania się podmiotem dominującym nie zachodzi zwiększone ryzyko popełnienia przestępstwa, a także wystąpienia innych działań związanych z wprowadzaniem do obrotu środków finansowych pochodzących z nielegalnych lub nieujawnionych źródeł lub finansowaniem terroryzmu.
+
+3. Dokonując oceny, o której mowa ust. 1 pkt 3, Komisja uwzględnia szczególności, złożone związku z postępowaniem, zobowiązania podmiotu dotyczące domu maklerskiego lub ostrożnego i stabilnego nim zarządzania.
+
+3a. W przypadku gdy zawiadomienie, o którym mowa art. 106 ust. 1, zostało złożone przez więcej niż jeden podmiot odniesieniu do tego samego domu maklerskiego, Komisja, dokonując oceny, o której mowa ust. 1 pkt 3, traktuje potencjalnych nabywców sposób niedyskryminujący.
+
+4. Komisja może, terminie określonym art. 106i ust. 1 wydać decyzję o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu, jeżeli stwierdzi, że nie zachodzą okoliczności wskazane ust. 1.
+
+5. Wydając decyzję, o której mowa ust. 4, Komisja może ustalić termin nabycia albo objęcia akcji lub praw z akcji albo uzyskania uprawnień podmiotu dominującego domu maklerskiego.
+
+6. Termin, o którym mowa ust. 5, może być wydłużony z urzędu lub na wniosek podmiotu składającego zawiadomienie.
+
+**Art. 106i.**
+
+1. Komisja doręcza decyzję przedmiocie sprzeciwu, o którym mowa art. 106h ust. 1, terminie 60 dni roboczych od dnia otrzymania zawiadomienia i wszystkich wymaganych informacji i dokumentów, nie później niż terminie 2 dni roboczych od dnia jej wydania. za zachowane, jeżeli przed ich upływem decyzja została nadana placówce pocztowej operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe lub podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wysłana na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych.
+
+**Art. 106j.** Podmiot składający zawiadomienie, o którym mowa art. 106 ust. 1, może zrealizować zamiar objęty zawiadomieniem, jeżeli Komisja nie doręczy decyzji przedmiocie sprzeciwu terminie 60 dni roboczych, o którym mowa art. 106i ust. 1, albo jeżeli przed upływem tego terminu Komisja wyda decyzję o stwierdzeniu braku podstaw do zgłoszenia sprzeciwu.
+
+**Art. 106k.** W przypadku uchylenia przez sąd administracyjny decyzji przedmiocie sprzeciwu termin, o którym mowa art. 106i ust. 1, biegnie od dnia, którym Komisji doręczono prawomocny wyrok sądu administracyjnego.
+
+**Art. 106l.**
+
+1. W przypadku nabycia albo objęcia akcji lub praw z akcji:
+
+- **1)** z naruszeniem przepisu art. 106 ust. 1 albo
+- **2)** pomimo zgłoszenia przez Komisję sprzeciwu, o którym mowa art. 106h ust. 1, albo
+- **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa art. 106h ust. 1, albo
+- **4)** po wyznaczonym przez Komisję terminie na nabycie albo objęcie akcji lub praw z akcji, o którym mowa art. 106h ust. 5 z akcji tych nie może być wykonywane prawo głosu, z zastrzeżeniem art. 106m.
+
+2. W przypadku wykonywania uprawnień podmiotu dominującego domu maklerskiego:
+
+- **1)** z naruszeniem przepisu art. 106 ust. 1 albo
+- **2)** przypadku zgłoszenia przez Komisję sprzeciwu, o którym mowa art. 106h ust. 1, albo
+- **3)** przed upływem terminu uprawniającego Komisję do zgłoszenia sprzeciwu, o którym mowa art. 106h ust. 1, albo
+- **4)** uzyskanych po upływie terminu, o którym mowa art. 106h ust. 5 członkowie zarządu domu maklerskiego powołani przez podmiot dominujący lub będący członkami zarządu, prokurentami lub osobami pełniącymi kierownicze funkcje podmiocie dominującym nie mogą uczestniczyć czynnościach z zakresu reprezentacji domu maklerskiego; przypadku gdy nie można ustalić, którzy członkowie zarządu zostali powołani przez podmiot dominujący, powołanie zarządu jest bezskuteczne od dnia uzyskania przez ten podmiot uprawnień podmiotu dominującego domu maklerskiego, z zastrzeżeniem art. 106m.
+
+3. Uchwały walnego zgromadzenia domu maklerskiego podjęte z naruszeniem przepisu ust. 1 są nieważne, chyba że spełniają wymogi kworum oraz większości głosów bez uwzględnienia głosów nieważnych. W przypadkach, o których mowa ust. 1, prawo wytoczenia powództwa o stwierdzenie nieważności uchwały walnego zgromadzenia przysługuje również Komisji. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
+
+4. Czynności z zakresu reprezentacji domu maklerskiego podejmowane z udziałem członków zarządu z naruszeniem przepisu ust. 2 są nieważne. Przepis art. 58 § 3 Kodeksu cywilnego stosuje się odpowiednio.
+
+5. W przypadku, o którym mowa ust. 1 lub 2, Komisja może, drodze decyzji, nakazać zbycie akcji wyznaczonym terminie.
+
+6. Jeżeli akcje nie zostaną zbyte terminie, o którym mowa ust. 5, Komisja może nałożyć na akcjonariusza domu maklerskiego karę pieniężną do wysokości 1 000 000 zł lub cofnąć zezwolenie na wykonywanie działalności maklerskiej.
+
+7. Jeżeli podmiot, o którym mowa art. 106 ust. 1, nabył lub objął akcje lub prawa z akcji, o których mowa art. 106 ust. 1, i nie dochowuje zobowiązania, o którym mowa art. 106h ust. 3, Komisja może, drodze decyzji, nałożyć na ten podmiot karę pieniężną do wysokości odpowiadającej wartości tych akcji lub praw z akcji. Wartość akcji lub praw z akcji ustalana jest na dzień ich nabycia albo objęcia według wartości godziwej, o której mowa ustawie z dnia 29 września 1994 r. o rachunkowości.
+
+8. Decyzja, o której mowa ust. 7, jest natychmiast wykonalna.
+
+9. Komisja może określić decyzji, o której mowa ust. 7, że kara pieniężna jest płatna miesięcznych ratach. upływem terminu wskazanego decyzji, o której mowa ust. 7, Komisja wydaje decyzję o umorzeniu kary pieniężnej, o której mowa ust. 7:
+
+- **1)** całości albo
+- **2)** części odpowiadającej niezapłaconym przyszłym ratom przypadku określonym ust. 9.
+
+**Art. 106m.** W przypadku gdy wymagają tego interesy domu maklerskiego oraz klientów domu maklerskiego, a wnioskodawca wykaże, że nie zachodzi przesłanka, o której mowa art. 106h ust. 1 pkt 3, Komisja może, szczególnie uzasadnionych przypadkach, drodze decyzji wydanej na wniosek akcjonariusza lub podmiotu dominującego domu maklerskiego, uchylić zakazy, o których mowa art. 106l ust. 1 lub 2. Do wniosku wnioskodawca dołącza informacje, o których mowa art. 106b ust. 1.
+
+**Art. 106n.** Podmiot nabywający albo obejmujący akcje lub prawa z akcji domu maklerskiego, trybie art. 106 ust. 1, jest obowiązany poinformować o nabyciu lub objęciu dom maklerski, którego akcji nabycie albo objęcie dotyczy, terminie 14 dni od dnia nabycia albo objęcia.
+
+**Art. 106o.** W przypadku zaległej kary pieniężnej, o której mowa art. 106l ust. 6 i 7, Komisja może nakazać domowi maklerskiemu, którego akcjonariuszem jest podmiot, na który została nałożona kara, przekazanie na poczet zaległej kary pieniężnej wraz z odsetkami wszelkich płatności dokonywanych przez dom maklerski na rzecz tego akcjonariusza, kwocie odpowiadającej tej karze wraz z odsetkami.
+
+**Art. 107.**
+
+1. Podmiot, który zamierza zbyć bezpośrednio lub pośrednio akcje lub prawa z akcji domu maklerskiego ma obowiązek każdorazowo powiadomić o zamiarze ich zbycia Komisję nie później niż na 14 dni przed planowanym zbyciem, jeżeli wyniku zbycia:
+
+- **1)** jego udział ogólnej liczbie głosów na walnym zgromadzeniu lub kapitale zakładowym spadłby odpowiednio poniżej 10 %, 20 %, jednej trzeciej, 50 % lub
+- **2)** dom maklerski przestałby być jego podmiotem zależnym.
+
+2. Zamiar zbycia lub zbycie akcji lub praw z akcji domu maklerskiego przez podmiot zależny uważa się za zamiar ich zbycia lub zbycie przez podmiot dominujący.
+
+3. Przepisu ust. 1 nie stosuje się do akcji domu maklerskiego dopuszczonych do obrotu na rynku regulowanym.
+
+4. Podmiot zbywający akcje lub prawa z akcji domu maklerskiego, jest obowiązany poinformować o zbyciu dom maklerski, którego akcji zbycie dotyczy terminie 14 dni od zbycia.
+
+**Art. 108.**
+
+1. Jeżeli uzasadnione jest to potrzebą ostrożnego i stabilnego zarządzania domem maklerskim, z uwagi na ocenę sytuacji finansowej podmiotu, który uzyskał bezpośrednio lub pośrednio prawo wykonywania głosu na walnym zgromadzeniu na poziomach określonych art. 106 ust. 1 albo stał się bezpośrednio lub pośrednio podmiotem dominującym domu maklerskiego lub z uwagi na możliwy wpływ tego podmiotu na dom maklerski, a szczególności przypadku stwierdzenia, że podmiot ten nie dochowuje zobowiązań, o których mowa art. 106h ust. 3, Komisja może, drodze decyzji:
+
+- **1)** nakazać zaprzestanie wywierania takiego wpływu, wskazując termin oraz warunki i zakres podjęcia stosownych czynności lub
+- **2)** zakazać wykonywania prawa głosu z akcji domu maklerskiego posiadanych przez ten podmiot lub wykonywania uprawnień podmiotu dominującego przysługujących temu podmiotowi. Dokonując oceny, czy zachodzi przesłanka do wydania tego zakazu przepisy art. 106h ust. 2 i 3 stosuje się odpowiednio.
+
+2. Decyzje, o których mowa ust. 1, są natychmiast wykonalne.
+
+3. W przypadku wydania decyzji, o których mowa ust. 1, wykonywanie przez akcjonariusza prawa głosu ze wszystkich posiadanych akcji domu maklerskiego jest bezskuteczne.
+
+4. Uchwała walnego zgromadzenia domu maklerskiego jest nieważna, jeżeli przy jej podejmowaniu wykonano prawo głosu z akcji, stosunku do których Komisja wydała na podstawie ust. 1 decyzję przedmiocie zakazu wykonywania prawa głosu, chyba że uchwała spełnia wymogi kworum oraz większości głosów oddanych bez uwzględnienia głosów nieważnych. Prawo wytoczenia powództwa o stwierdzenie nieważności uchwały przysługuje również Komisji. Przepis art. 425 Kodeksu spółek handlowych stosuje się odpowiednio.
+
+5. Jeżeli Komisja wydała na podstawie ust. 1 decyzję przedmiocie zakazu wykonywania uprawnień podmiotu dominującego, przepisy art. 106l ust. 2 i 4 stosuje się odpowiednio. podmiotu dominującego, Komisja może, drodze decyzji, nakazać zbycie akcji wyznaczonym terminie.
+
+7. Jeżeli akcje nie zostaną zbyte terminie, o którym mowa ust. 6, Komisja może drodze decyzji nałożyć na akcjonariusza domu maklerskiego karę pieniężną do wysokości 1 000 000 zł lub cofnąć zezwolenie na wykonywanie działalności przez dom maklerski.
+
+8. Na wniosek akcjonariusza lub podmiotu dominującego Komisja uchyla decyzję przedmiocie zakazu wydaną na podstawie ust. 1, jeżeli ustały okoliczności uzasadniające wydanie tej decyzji.
+
+9. Przepisy ust. 1–8 stosuje się odpowiednio przypadku, o którym mowa art. 106 ust. 7, do podmiotów będących stronami porozumienia.
+
+**Art. 108a.** Przepisy art. 106–108 stosuje się odpowiednio do:
+
+**Art. 109.**
+
+1. Dom maklerski nie może nabywać na własny rachunek akcji wyemitowanych przez podmioty, wobec których jest podmiotem zależnym.
+
+2. Przepisu ust. 1 nie stosuje się do nabywania akcji znajdujących się obrocie zorganizowanym:
+
+- **1)** z zachowaniem wymogów określonych art. 5 ust. 4 rozporządzenia 596/2014 oraz
+- **2)** celu dalszej odsprzedaży, liczbie stanowiącej łącznie nie więcej niż 5 % kapitału zakładowego.
+
+**Art. 110.**
+
+1. W przypadku gdy Komisja Europejska podejmuje kroki zmierzające do likwidacji przeszkód prowadzeniu państwie niebędącym państwem członkowskim działalności maklerskiej przez firmę inwestycyjną z siedzibą państwie członkowskim, Komisja informuje Komisję Europejską, na jej wniosek, o prowadzonych postępowaniach związku z:
+
+- **1)** wnioskami o udzielenie zezwolenia na prowadzenie działalności maklerskiej złożonymi przez podmioty będące bezpośrednio lub pośrednio podmiotem zależnym od podmiotu podlegającego prawu państwa niebędącego państwem członkowskim;
+- **2)** zawiadomieniami o zamiarze nabycia akcji domu maklerskiego, jeżeli nabywcą jest podmiot podlegający prawu państwa niebędącego państwem członkowskim i wyniku tej transakcji może stać się on podmiotem dominującym wobec domu maklerskiego.
+
+2. Do zawiadomień, o których mowa ust. 1, Komisja dołącza opis struktury grupy kapitałowej, z tym że przypadku zawiadomienia, o którym mowa ust. 1 pkt 2, opis powinien być sporządzony według stanu uwzględniającego nabycie akcji podmiotu prowadzącego działalność maklerską.
+
+3. Komisja zawiadamia Komisję Europejską oraz Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o znanych Komisji przeszkodach prawnych i faktycznych, jakie napotykają domy maklerskie lub banki prowadzące działalność maklerską związku z prowadzeniem takiej działalności na terytorium państw niebędących państwami członkowskimi.
+
+##### Oddział 2a Szczególne zasady prowadzenia działalności przez domy maklerskie i małe domy maklerskie
+
+**Art. 110a.**
+
+1. Ilekroć niniejszym oddziale jest mowa o:
+
+- **1)** (uchylony)
+- **2)** (uchylony)
+- **3)** (uchylony)
+- **4)** domu maklerskim rozumie się przez to dom maklerski niebędący małą i niepowiązaną wzajemnie firmą inwestycyjną rozumieniu art. 12 ust. 1 rozporządzenia 2019/2033;
+- **5)** finansowej spółce holdingowej rozumie się przez to finansową spółkę holdingową, o której mowa art. 4 ust. 1 pkt 16 rozporządzenia 2019/2033;
+- **6)** finansowej spółce holdingowej o działalności mieszanej rozumie się przez to finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 40 rozporządzenia 2019/2033;
+- **6a)** (uchylony) porządzenia 2019/2033, skład której wchodzi co najmniej jeden dom maklerski lub mały dom maklerski;
+- **6b)** grupie z państwa trzeciego rozumie się przez to grupę, której jednostka dominująca, o której mowa art. 4 ust. 1 pkt 15 rozporządzenia 575/2013, ma siedzibę na terytorium państwa innego niż państwo członkowskie;
+- **6c)** holdingu mieszanym rozumie się przez to podmiot dominujący niebędący finansową spółką holdingową, inwestycyjną spółką holdingową, instytucją kredytową, firmą inwestycyjną rozumieniu art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033 ani finansową spółką holdingową o działalności mieszanej, do którego podmiotów zależnych należy co najmniej jeden dom maklerski lub mały dom maklerski;
+- **7)** (uchylony)
+- **8)** instytucji finansowej rozumie się przez to instytucję finansową, o której mowa art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033;
+- **9)** instytucji kredytowej rozumie się przez to instytucję, o której mowa art. 4 ust. 1 pkt 1 rozporządzenia 575/2013, do której stosuje się przepisy rozporządzenia 575/2013 zgodnie z art. 1 akapit pierwszy zdanie wstępne rozporządzenia 575/2013;
+- **9a)** inwestycyjnej spółce holdingowej rozumie się przez to inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033;
+- **9b)** małym domu maklerskim rozumie się przez do dom maklerski, o którym mowa art. 95 ust. 1, będący małą i niepowiązaną wzajemnie firmą inwestycyjną rozumieniu art. 12 ust. 1 rozporządzenia 2019/2033;
+- **9c)** na zasadzie skonsolidowanej rozumie się przez to na zasadzie skonsolidowanej rozumieniu art. 4 ust. 1 pkt 12 rozporządzenia 2019/2033;
+- **10)** podmiocie dominującym rozumie się przez to jednostkę dominującą, o której mowa art. 4 ust. 1 pkt 42 rozporządzenia 2019/2033, jak również podmiot uznany przez Komisję za dominujący zgodnie z ust. 2;
+- **10a)** podmiocie prowadzącym handel towarami i uprawnieniami do emisji rozumie się przez to podmiot prowadzący handel towarami i uprawnieniami do emisji rozumieniu art. 4 ust. 1 pkt 150 rozporządzenia 575/2013;
+- **11)** podmiocie zależnym rozumie się przez to jednostkę zależną, o której mowa art. 4 ust. 1 pkt 51 rozporządzenia 2019/2033;
+- **11a)** polityce wynagrodzeń neutralnej pod względem płci rozumie się przez to politykę wynagrodzeń opartą na zasadzie jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości;
+- **11b)** przedsiębiorstwie usług pomocniczych rozumie się przez to przedsiębiorstwo usług pomocniczych, o którym mowa art. 4 ust. 1 pkt 1 rozporządzenia 2019/2033;
+- **12)** (uchylony)
+- **13)** (uchylony)
+- **14)** (uchylony)
+- **15)** unijnej dominującej finansowej spółce holdingowej o działalności mieszanej rozumie się przez to unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033;
+- **15a)** unijnej dominującej firmie inwestycyjnej rozumie się przez to unijną dominującą firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 56 rozporządzenia 2019/2033;
+- **15b)** unijnej dominującej inwestycyjnej spółce holdingowej rozumie się przez to unijną dominującą inwestycyjną spółkę holdingową, o której mowa art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033;
+- **16)** (uchylony)
+- **17)** zagranicznej firmie inwestycyjnej rozumie się przez to firmę inwestycyjną, o której mowa art. 4 ust. 1 pkt 22 rozporządzenia 2019/2033, z siedzibą innym państwie członkowskim;
+- **18)** zgodności z grupowym testem kapitałowym rozumie się przez to zachowanie przez podmiot dominujący grupie firm inwestycyjnych zgodności z wymogami, o których mowa art. 8 rozporządzenia 2019/2033.
+
+2. Komisja może, drodze decyzji, uznać za podmiot dominujący wobec domu maklerskiego lub małego domu maklerskiego osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, jeżeli wywiera ona znaczący wpływ na ten dom maklerski lub mały dom maklerski zgodnie z art. 96 ust. 3. art. 110va, art. 110w ust. 1, 3–5 i 7, art. 110y ust. 1 i art. 110z stosuje się także do małego domu maklerskiego. Przepisów art. 110v nie stosuje się do małego domu maklerskiego zakresie dotyczącym zmiennych składników wynagrodzenia.
+
+2. Jeżeli mały dom maklerski przestanie spełniać warunki określone art. 12 ust. 1 rozporządzenia 2019/2033, niezwłocznie powiadamia o tym Komisję. W takim przypadku, terminie 12 miesięcy od dnia, którym przestał spełniać te warunki, zapewnia zgodność prowadzonej działalności także z dotyczącymi domów maklerskich przepisami niniejszego oddziału niewymienionymi ust. 1 zdanie pierwsze oraz z dotyczącymi domów maklerskich przepisami wykonawczymi wydanymi na podstawie art. 110x i z przepisami wykonawczymi wydanymi na podstawie art. 110zaa, z tym że przepisy art. 110v, zakresie dotyczącym zmiennych składników wynagrodzenia, stosuje do wynagrodzenia przyznanego za rok obrotowy następujący po roku obrotowym, którym przestał spełniać warunki określone art. 12 ust. 1 rozporządzenia 2019/2033.
+
+3. W przypadku gdy dom maklerski spełni warunki określone art. 12 ust. 1 rozporządzenia 2019/2033 i powiadomi Komisję o ich spełnieniu, przepisy niniejszego oddziału dotyczące domów maklerskich, z wyjątkiem przepisów, o których mowa ust. 1 zdanie pierwsze, oraz dotyczące domów maklerskich przepisy wykonawcze wydane na podstawie art. 110x i przepisy wykonawcze wydane na podstawie art. 110zaa przestaje się do niego stosować po upływie 6 miesięcy od dnia, którym spełnił te warunki, o ile warunki te były spełnione nieprzerwanie przez cały ten okres 6 miesięcy. Art. 110ab. 1. Przepisy niniejszego oddziału stosuje się do domu maklerskiego na poziomie jednostkowym.
+
+2. W przypadku udzielenia przez Komisję zezwolenia, o którym mowa art. 8 ust. 1 lub 4 rozporządzenia 2019/2033, do domu maklerskiego objętego grupowym testem kapitałowym stosuje się przepisy niniejszego oddziału na poziomie jednostkowym.
+
+3. Do domu maklerskiego objętego konsolidacją ostrożnościową zgodnie z art. 7 rozporządzenia 2019/2033 stosuje się przepisy niniejszego oddziału na poziomie jednostkowym oraz na zasadzie skonsolidowanej.
+
+4. W przypadku gdy podmiot dominujący mający siedzibę państwie członkowskim przedłoży Komisji opinię prawną, że stosowanie przepisów niniejszego oddziału do podmiotu mającego siedzibę państwie niebędącym państwem członkowskim, będącego podmiotem zależnym od tego podmiotu dominującego, byłoby niezgodne z prawem państwa, którym ten podmiot zależny ma siedzibę, do domu maklerskiego nie stosuje się przepisów niniejszego oddziału na zasadzie skonsolidowanej zakresie tego podmiotu zależnego.
+
+5. W przypadku gdy stosowanie przepisów niniejszego oddziału do podmiotu zależnego, o którym mowa ust. 4, przestanie być niezgodne z prawem państwa, którym ten podmiot zależny ma siedzibę, przepisy niniejszego oddziału stosuje się na zasadzie skonsolidowanej do domu maklerskiego zakresie tego podmiotu zależnego. O ustaniu takiej niezgodności podmiot dominujący, o którym mowa ust. 4, niezwłocznie informuje Komisję. Art. 110ac. 1. W przypadku gdy:
+
+- **1)** dom maklerski ramach prowadzonej działalności maklerskiej wykonuje czynności, o których mowa art. 69 ust. 2 pkt 3 lub 7, oraz
+- **2)** całkowita wartość skonsolidowanych aktywów domu maklerskiego obliczona jako średnia z ostatnich 12 miesięcy jest równa równowartości złotych kwoty 5 000 000 000 euro lub przekracza tę wartość, oraz
+- **3)** dom maklerski spełnia co najmniej jeden z następujących warunków: poz. 2536 oraz z 2023 r. poz. 1723), towarami i uprawnieniami do emisji.
+    - **a)** wykonuje czynności, o których mowa pkt 1, na taką skalę, że jego upadłość lub trudności finansowe mogą prowadzić do ryzyka systemowego, o którym mowa art. 4 pkt 15 ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2022 r.
+    - **b)** jest członkiem rozliczającym, o którym mowa art. 4 ust. 1 pkt 3 rozporządzenia 2019/2033,
+    - **c)** ze względu na wielkość, charakter, skalę i złożoność działalności domu maklerskiego, z uwzględnieniem zasady proporcjonalności oraz znaczenia domu maklerskiego dla gospodarki Unii Europejskiej lub gospodarki Rzeczypospolitej Polskiej, znaczenia działalności transgranicznej domu maklerskiego lub wzajemnych powiązań domu maklerskiego z systemem finansowym, uzasadnione jest stosowanie przez ten dom maklerski przepisów rozporządzenia 575/2013 zgodnie z art. 1 ust. 2 lit. c rozporządzenia 2019/2033 Komisja może, drodze decyzji, nakazać stosowanie przez ten dom maklerski przepisów rozporządzenia 575/2013, zgodnie z art. 1 ust. 2 lit. c rozporządzenia 2019/2033.
+
+3. Komisja uchyla decyzję, o której mowa ust. 1, przypadku gdy warunki wydania takiej decyzji, określone ust. 1, przestają być spełnione.
+
+4. Komisja niezwłocznie informuje Europejski Urząd Nadzoru Bankowego o wydaniu i uchyleniu decyzji, o której mowa ust. 1.
+
+5. Równowartość złotych kwoty wyrażonej euro, o której mowa ust. 1 pkt 2, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy. Art. 110ad. W przypadku gdy stosuje się przepisy art. 8 rozporządzenia 2019/2033, Komisja obejmuje nadzorem nad zgodnością z grupowym testem kapitałowym także inwestycyjną spółkę holdingową i finansową spółkę holdingową o działalności mieszanej, wchodzące skład grupy firm inwestycyjnych, do której należy dom maklerski.
+
+**Art. 110b.**
+
+1. Dom maklerski opracowuje i wdraża odpowiedni i kompleksowy system zarządzania ryzykiem, zakresie którego określa:
+
+- **1)** dokładny, przejrzysty i spójny podział zadań, obowiązków i odpowiedzialności ramach struktury organizacyjnej;
+- **2)** skuteczne procedury celu identyfikacji ryzyka, na które jest lub może być narażony, lub ryzyka, które stwarza lub może stwarzać dla innych, jego szacowania i monitorowania, a także zarządzania tym ryzykiem;
+- **3)** zasady i procedury sporządzania raportów zakresie ryzyka, o którym mowa pkt 2.
+
+2. Dom maklerski wdraża system zarządzania ryzykiem, z zachowaniem proporcjonalności stosunku do charakteru, skali i złożoności rodzajów ryzyka związanych z modelem biznesowym i działalnością prowadzoną przez dom maklerski.
+
+2a. System zarządzania ryzykiem domu maklerskim uwzględnia otoczenie makroekonomiczne oraz cykl koniunkturalny domu maklerskiego. Zarząd domu maklerskiego poświęca wystarczająco dużo czasu na zapewnienie prawidłowego działania systemu zarządzania ryzykiem.
+
+3. Dom maklerski, którego średnia wartość aktywów bilansowych i pozycji pozabilansowych jest wyższa niż równowartość złotych 100 000 000 euro czteroletnim okresie bezpośrednio poprzedzającym dany rok obrotowy, ustanawia komitet do spraw ryzyka. Zadaniem komitetu jest wspieranie zarządu domu maklerskiego zakresie zarządzania ryzykiem.
+
+4. Równowartość złotych kwoty wyrażonej euro, o której mowa ust. 3, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu roboczym odpowiedniego roku obrotowego.
+
+**Art. 110c.**
+
+1. Zarząd domu maklerskiego zapewnia skuteczne i ostrożne zarządzanie domem maklerskim, tym właściwy i przejrzysty podział zadań, obowiązków i odpowiedzialności, a także prawidłowe funkcjonowanie systemu zarządzania ryzykiem domu maklerskim.
+
+2. Zarząd domu maklerskiego szczególności:
+
+- **1)** określa cele strategiczne domu maklerskiego;
+- **2)** określa strategię domu maklerskiego zakresie zarządzania ryzykiem, zapewnia jej wykonanie i przeprowadzanie okresowych przeglądów tej strategii;
+- **2a)** zapewnia odpowiednie zasoby, niezbędne do prawidłowego funkcjonowania systemu zarządzania ryzykiem;
+- **3)** zapewnia integralność systemów rachunkowości i sprawozdawczości finansowej oraz ich zgodność z prawem i stosowanymi standardami;
+- **4)** określa mechanizmy nadzoru zgodności działania domu maklerskiego z przepisami prawa, kontroli wewnętrznej i audytu wewnętrznego, tym procedury wewnętrzne i księgowe;
+- **5)** określa politykę wynagrodzeń, o której mowa art. 110v ust. 1, która jest zgodna z zasadami należytego i skutecznego zarządzania ryzykiem oraz sprzyja takiemu zarządzaniu ryzykiem.
+
+3. Rada nadzorcza domu maklerskiego sprawuje nadzór nad wypełnianiem przez zarząd obowiązków, o których mowa ust. 1 i 2, oraz ocenia adekwatność i skuteczność przyjętych rozwiązań, tym zatwierdza akceptowalny ogólny poziom ryzyka domu maklerskiego.
+
+4. Rada nadzorcza domu maklerskiego oraz komitet do spraw ryzyka, jeżeli został powołany, mają prawo dostępu do informacji dotyczących ryzyka związanego z działalnością domu maklerskiego, szczególności mogą żądać informacji od osób wykonujących domu maklerskim funkcje zakresie zarządzania ryzykiem oraz wyjaśnień od ekspertów zewnętrznych świadczących usługi zakresie zarządzania ryzykiem na rzecz domu maklerskiego. Art. 110cb. (uchylony)
+
+**Art. 110d.** Na potrzeby stosowania:
+
+**Art. 110e.**
+
+1. Dom maklerski dokonuje oszacowania kapitału wewnętrznego i aktywów płynnych. Kapitał wewnętrzny i aktywa płynne powinny zostać oszacowane taki sposób, żeby ich wysokość, rodzaj i struktura zapewniały pokrycie istotnych zidentyfikowanych rodzajów i skali ryzyka, które dom maklerski stwarza lub mógłby stwarzać dla innych oraz na które jest lub może być narażony. Dom maklerski opracowuje i wdraża rozwiązania, strategie i procedury służące do oszacowania i utrzymywania kapitału wewnętrznego i aktywów płynnych.
+
+1a. Rozwiązania, strategie i procedury, o których mowa ust. 1, są odpowiednie, skuteczne, kompletne i proporcjonalne do charakteru, skali i złożoności działalności danego domu maklerskiego. Dom maklerski poddaje je regularnym przeglądom wewnętrznym.
+
+2. Dom maklerski utrzymuje każdym czasie:
+
+- **1)** poziom funduszy własnych, o których mowa art. 9 rozporządzenia 2019/2033, nie niższy niż poziom kapitału wewnętrznego;
+- **2)** aktywa płynne na poziomie nie niższym niż wynika to z oszacowania dokonanego zgodnie z ust. 1.
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Komisja może, drodze decyzji, objąć obowiązkami, o których mowa ust. 1–2, mały dom maklerski, zakresie, jakim uzna to za uzasadnione ze względu na poziom ryzyka wynikającego z modelu biznesowego małego domu maklerskiego. Art. 110ea. 160) 1. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty dodatkowe Tier I, zgodnie z art. 52 rozporządzenia 575/2013, po uzyskaniu zgody Komisji.
+
+2. Komisja udziela zgody, o której mowa ust. 1, jeżeli są spełnione warunki, o których mowa art. 52 rozporządzenia 575/2013.
+
+3. Instrumenty kapitałowe i pożyczki podporządkowane kwalifikuje się do funduszy własnych jako instrumenty Tier II, zgodnie z art. 63 rozporządzenia 575/2013, po zawiadomieniu Komisji. Art. 110eb. 160) 1. Zaciągnięcie pożyczki podporządkowanej kwalifikowanej do funduszy własnych jako instrumenty dodatkowe Tier I, o których mowa art. 52 rozporządzenia 575/2013, wymaga uchwały zarządu domu maklerskiego albo małego domu maklerskiego oraz zgody rady nadzorczej odpowiednio domu maklerskiego albo małego domu maklerskiego.
+
+2. Przedmiotem pożyczki podporządkowanej, o której mowa ust. 1, mogą być środki pieniężne wysokości nie niższej niż 400 000 zł lub równowartość tej kwoty wyrażona innej walucie, ustalona przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski dniu podjęcia uchwały, o której mowa ust. 1. Art. 110ec. 160) 1. Umowa pożyczki podporządkowanej, o której mowa art. 110eb ust. 1, może być zawarta wyłącznie z podmiotami wymienionymi art. 3 pkt 39b lit. a–m formie pisemnej pod rygorem nieważności.
+
+2. W umowie pożyczki podporządkowanej określa się ryzyko związane z możliwością wystąpienia zdarzenia inicjującego, o którym mowa art. 54 ust. 1 rozporządzenia 575/2013, oraz ryzyko dokonania umorzenia, formie odpisu trwałego albo odpisu tymczasowego, obniżających całości albo części kwotę tej pożyczki, a także ryzyko umorzenia odsetek albo części odsetek z tytułu tej pożyczki.
+
+3. Udzielającemu pożyczki podporządkowanej nie przysługuje prawo wypowiedzenia umowy pożyczki podporządkowanej ani odstąpienia od tej umowy. czas nieoznaczony odsetek od kwoty udzielonej pożyczki podporządkowanej. Przepisów art. 359 § 2 –2 , art. 365 i art. 395 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny nie stosuje się.
+
+5. Wierzytelność wynikająca z pożyczki podporządkowanej może być przedmiotem przeniesienia wyłącznie między podmiotami wymienionymi art. 3 pkt 39b lit. a–m. Art. 110ed. 160) 1. Pożyczka podporządkowana, o której mowa art. 110eb ust. 1, podlega spłacie, przypadku gdy:
+
+- **1)** umowa pożyczki podporządkowanej przewiduje jej spłatę oraz
+- **2)** dom maklerski albo mały dom maklerski uzyskał zezwolenie Komisji na spłatę pożyczki podporządkowanej, oraz
+- **3)** upłynęło nie mniej niż 5 lat od dnia zawarcia umowy pożyczki podporządkowanej zgodnie z art. 77 rozporządzenia 575/2013, z wyjątkiem przypadku określonego art. 78 ust. 4 rozporządzenia 575/2013.
+
+2. Pożyczka podporządkowana może podlegać spłacie przez dom maklerski albo mały dom maklerski również przypadku odmowy wydania zezwolenia przez Komisję na jej zakwalifikowanie do funduszy własnych jako instrumentu dodatkowego Tier I, o którym mowa art. 52 rozporządzenia 575/213, jeżeli umowie pożyczki podporządkowanej zostało zawarte uprawnienie domu maklerskiego albo małego domu maklerskiego do spłaty pożyczki podporządkowanej takim przypadku.
+
+3. Wymogu uzyskania zezwolenia na spłatę pożyczki podporządkowanej, o którym mowa ust. 1 pkt 2, nie stosuje się przypadku określonym art. 9 ust. 3 rozporządzenia 2019/2033. Art. 110ee. 160) 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego może, drodze uchwały, umorzyć odsetki albo część odsetek z tytułu umowy pożyczki podporządkowanej, o której mowa art. 110eb ust. 1. Zarząd domu maklerskiego i zarząd małego domu maklerskiego niezwłocznie informuje o tym umorzeniu udzielającego pożyczkę podporządkowaną.
+
+2. W przypadku, o którym mowa ust. 1, umorzenie odsetek nie stanowi niewykonania lub nienależytego wykonania zobowiązania lub zwłoki wykonaniu zobowiązania przez dom maklerski albo mały dom maklerski. Art. 110ef. 160) 1. W przypadku wystąpienia zdarzenia inicjującego, o którym mowa art. 54 ust. 1 rozporządzenia 575/2013, określonego umowie pożyczki podporządkowanej, o której mowa art. 110eb ust. 1, dom maklerski i mały dom maklerski dokonuje umorzenia tej pożyczki formie odpisu trwałego albo odpisu tymczasowego obniżających całości albo części kwotę tej pożyczki.
+
+2. Wysokość odpisu, o którym mowa ust. 1, określa uchwała zarządu domu maklerskiego albo zarządu małego domu maklerskiego.
+
+3. Umowa pożyczki podporządkowanej może przewidywać kryteria, po których spełnieniu dom maklerski albo mały domu maklerski będzie uprawniony do podwyższenia kwoty tej pożyczki, przypadku gdy została ona umorzona formie odpisu tymczasowego obniżającego części kwotę tej pożyczki wyniku wystąpienia zdarzenia inicjującego, o którym mowa art. 54 ust. 1 rozporządzenia 575/2013.
+
+4. W przypadku, o którym mowa ust. 3, kwota pożyczki podporządkowanej nie może być wyższa niż kwota z dnia jej zaciągnięcia. Art. 110eg. 160) Roszczenie o spłatę pożyczki podporządkowanej, o której mowa art. 110eb ust. 1, staje się wymagalne z chwilą ogłoszenia upadłości albo likwidacji domu maklerskiego albo małego domu maklerskiego.
+
+**Art. 110f.**
+
+1. W ramach sprawowanego nadzoru Komisja uwzględnia potencjalny wpływ swoich decyzji na stabilność systemów finansowych innych państwach członkowskich, a także Unii Europejskiej, szczególności sytuacjach nadzwyczajnych.
+
+2. W przypadku gdy dom maklerski prowadzi działalność na terytorium innego państwa członkowskiego, zwanego dalej „przyjmującym państwem członkowskim”, zakresie określonym przepisach niniejszego oddziału oraz rozporządzenia 2019/2033, nadzór nad działalnością tego domu maklerskiego sprawuje Komisja.
+
+3. W przypadku, o którym mowa ust. 2, Komisja współpracuje z właściwymi organami nadzoru przyjmujących państw członkowskich, na terytorium których dom maklerski prowadzi działalność, zwanymi dalej „właściwymi organami przyjmującego państwa członkowskiego”, i zakresie niezbędnym do wykonywania obowiązków określonych przepisach niniejszego oddziału oraz rozporządzenia 2019/2033 niezwłocznie przekazuje tym organom niezbędne informacje, dotyczące:
+
+- **1)** struktury zarządzania i własności domu maklerskim;
+- **2)** spełniania przez dom maklerski wymogów zakresie funduszy własnych;
+- **3)** spełniania wymogów dotyczących ryzyka koncentracji i wymogów płynności domu maklerskim; z prawem oraz audytu wewnętrznego domu maklerskim;
+- **5)** innych istotnych czynników, które mogą wpływać na ryzyko stwarzane przez dom maklerski.
+
+4. W przypadku ustalenia przez Komisję, że działalność domu maklerskiego może powodować zagrożenie ochrony klientów lub stabilności systemu finansowego przyjmującym państwie członkowskim, Komisja niezwłocznie powiadamia właściwy organ przyjmującego państwa członkowskiego.
+
+5. W przypadku otrzymania od właściwego organu przyjmującego państwa członkowskiego informacji o działalności domu maklerskiego na terytorium tego przyjmującego państwa członkowskiego Komisja wykorzystuje te informacje, sprawując nadzór nad domem maklerskim, szczególności celu uniknięcia zagrożenia ochrony klientów lub stabilności systemu finansowego przyjmującym państwie członkowskim. Na wniosek właściwego organu przyjmującego państwa członkowskiego Komisja wyjaśnia, jaki sposób uwzględniła informacje uzyskane od tego organu.
+
+6. W przypadku gdy właściwy organ przyjmującego państwa członkowskiego nie współpracuje z Komisją, Komisja może skierować informację tym zakresie do Europejskiego Urzędu Nadzoru Bankowego. Komisja może skierować taką informację także przypadku, gdy właściwy organ przyjmującego państwa członkowskiego podjął wobec domu maklerskiego działania, z którymi Komisja się nie zgadza.
+
+7. W przypadku gdy zagraniczna firma inwestycyjna prowadzi działalność na terytorium Rzeczypospolitej Polskiej, Komisja współpracuje z właściwymi organami państwa członkowskiego, które sprawują nad zagraniczną firmą inwestycyjną nadzór zakresie odpowiadającym przepisom niniejszego oddziału oraz przepisów rozporządzenia 2019/2033, zwanymi dalej „właściwymi organami państwa członkowskiego pochodzenia”, szczególności może zwracać się o informacje dotyczące zagranicznej firmy inwestycyjnej określone ust. 3.
+
+8. W przypadku gdy działalność zagranicznej firmy inwestycyjnej na terytorium Rzeczypospolitej Polskiej stwarza zagrożenie dla klientów mających siedzibę lub miejsce zamieszkania lub przebywających na terytorium Rzeczypospolitej Polskiej, lub dla stabilności systemu finansowego Rzeczypospolitej Polskiej, Komisja niezwłocznie przekazuje odpowiednie informacje, zakresie niezbędnym do wykonywania obowiązków określonych przepisach niniejszego oddziału oraz rozporządzenia 2019/2033, właściwemu organowi państwa członkowskiego pochodzenia i może zwrócić się do tego organu o podjęcie właściwych działań celu zapobieżenia tym zagrożeniom. Komisja może zwrócić się jednocześnie o przekazanie informacji o działaniach podjętych przez właściwy organ państwa członkowskiego pochodzenia. Jeżeli Komisja uzna działania podjęte przez właściwy organ państwa członkowskiego pochodzenia za nieskuteczne, po powiadomieniu tego organu, Europejskiego Urzędu Nadzoru Bankowego oraz Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, może podjąć działania celu ochrony klientów, na rzecz których świadczone są usługi, lub stabilności systemu finansowego. Komisja może także skierować informację o niewystarczającej współpracy ze strony właściwego organu państwa członkowskiego pochodzenia do Europejskiego Urzędu Nadzoru Bankowego.
+
+9. Dla oceny spełnienia warunku, o którym mowa art. 23 ust. 1 akapit pierwszy lit. c rozporządzenia 2019/2033, Komisja może zwrócić się do właściwego organu innym państwie członkowskim, którym członek rozliczający rozumieniu art. 2 pkt 14 rozporządzenia 648/2012 ma siedzibę, o przekazanie informacji dotyczących modelu i parametrów dotyczących depozytu zabezpieczającego, wykorzystywanych do obliczania wymogu dotyczącego tego depozytu dla domu maklerskiego.
+
+10. Na żądanie właściwego organu państwa członkowskiego pochodzenia i zakresie niezbędnym dla oceny spełnienia warunku, o którym mowa art. 23 ust. 1 akapit pierwszy lit. c rozporządzenia 2019/2033, Komisja przekazuje temu organowi informacje dotyczące modelu i parametrów dotyczących depozytu zabezpieczającego, wymaganego przez członka rozliczającego rozumieniu art. 2 pkt 14 rozporządzenia 648/2012, mającego siedzibę na terytorium Rzeczypospolitej Polskiej, wykorzystywanych do obliczania wymogu dotyczącego tego depozytu dla zagranicznej firmy inwestycyjnej. Art. 110fa. 1. Do grupy z państwa trzeciego, do której należą:
+
+- **1)** co najmniej dwa podmioty będące domem maklerskim albo finansową spółką holdingową, której działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo finansową spółką holdingową o działalności mieszanej, której działalność została zatwierdzona zgodnie z art. 48q ust. 3 tej ustawy, albo
+- **2)** zagraniczna firma inwestycyjna i jeden z podmiotów, o których mowa pkt 1, albo
+- **3)** instytucja kredytowa i jeden z podmiotów, o których mowa pkt 1, albo
+- **4)** finansowa spółka holdingowa z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 11e ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, której działalność została zatwierdzona przez właściwe władze nadzorcze innego państwa, i jeden z podmiotów, o których mowa pkt 1, albo
+- **5)** finansowa spółka holdingowa o działalności mieszanej z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 11g ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, której działalność została zatwierdzona przez właściwe władze nadzorcze innego państwa, i jeden z podmiotów, o których mowa pkt 1 należy także jeden podmiot będący pośrednią unijną jednostką dominującą. pkt 29d rozporządzenia 575/2013, unijna dominująca finansowa spółka holdingowa rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia 575/2013 albo unijna dominująca finansowa spółka holdingowa o działalności mieszanej rozumieniu art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, których działalność została zatwierdzona przez właściwe władze nadzorcze innego państwa albo została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+3. W przypadku gdy do grupy z państwa trzeciego, o której mowa ust. 1, nie należy instytucja kredytowa, pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013.
+
+4. Do grupy z państwa trzeciego, o której mowa ust. 1, po uzyskaniu zgody Komisji, mogą należeć dwa podmioty będące pośrednimi unijnymi jednostkami dominującymi. Zgody udziela się na wniosek podmiotu, o którym mowa ust. 1 pkt 1.
+
+5. Komisja może wydać zgodę, o której mowa ust. 4, przypadku gdy:
+
+- **1)** przynależenie do grupy z państwa trzeciego, o której mowa ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą byłoby niezgodne z przepisami obowiązującymi państwie trzecim, którym znajduje się siedziba podmiotu dominującego na najwyższym poziomie konsolidacji grupy z państwa trzeciego, z których wynika obowiązek rozdzielenia działalności, lub z decyzjami właściwego organu nadzoru tego państwa, z których wynika obowiązek takiego rozdzielenia, lub
+- **2)** organ właściwy dla pośredniej unijnej jednostki dominującej sprawach przymusowej restrukturyzacji wyda opinię, zgodnie z którą przynależenie do grupy z państwa trzeciego, o której mowa ust. 1, tylko jednego podmiotu będącego pośrednią unijną jednostką dominującą zmniejszyłoby możliwość przeprowadzenia przymusowej restrukturyzacji takiej pośredniej unijnej jednostki dominującej.
+
+6. W przypadku, o którym mowa ust. 5 pkt 1, gdy obowiązek rozdzielenia działalności, o którym mowa tym przepisie, związany jest z działalnością o charakterze inwestycyjnym, jednym z podmiotów będących pośrednią unijną jednostką dominującą może być unijna dominująca firma inwestycyjna rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013. Art. 110fb. 1. W przypadku gdy dom maklerski, finansowa spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, których działalność została zatwierdzona zgodnie z art. 48q ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, należą do grupy z państwa trzeciego, której łączna wartość aktywów na terytorium państw członkowskich jest niższa niż równowartość złotych 40 000 000 000 euro, przepisu art. 110fa nie stosuje się.
+
+2. Łączna wartość aktywów, o której mowa ust. 1, stanowi sumę:
+
+- **1)** aktywów każdego z podmiotów, o których mowa art. 110fa ust. 1 pkt 1–5, należących do grupy z państwa trzeciego, działających na terytorium państw członkowskich, wynikających z bilansu skonsolidowanego albo bilansów tych podmiotów sporządzonych na poziomie jednostkowym, jeżeli podmiot nie ma obowiązku sporządzania skonsolidowanego bilansu, oraz
+- **2)** aktywów każdego należącego do grupy z państwa trzeciego oddziału utworzonego przez bank zagraniczny rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, który otrzymał zezwolenie na prowadzenie działalności państwie członkowskim, oraz każdego należącego do grupy z państwa trzeciego oddziału zagranicznej osoby prawnej mającej siedzibę na terytorium państwa innego niż państwo członkowskie, który otrzymał zezwolenie na prowadzenie działalności maklerskiej państwie członkowskim.
+
+3. Równowartość złotych aktywów, o których mowa ust. 1, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu roku obrotowego.
+
+4. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Bankowego informację o grupie z państwa trzeciego działającej na terytorium Rzeczypospolitej Polskiej zawierającą:
+
+- **1)** nazwy podmiotów należących do grupy z państwa trzeciego, nad którymi Komisja sprawuje nadzór, i wartość ich aktywów;
+- **2)** nazwę oddziału banku zagranicznego rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, należącego do grupy z państwa trzeciego, rodzaj czynności bankowych, do których wykonywania oddział został upoważniony, i wartość jego aktywów;
+- **3)** nazwę oddziału zagranicznej osoby prawnej prowadzącej działalność maklerską, o której mowa art. 115, należącego do grupy z państwa trzeciego, rodzaj czynności, o których mowa art. 69, do których wykonywania oddział został upoważniony, i wartość jego aktywów;
+- **4)** nazwę podmiotu będącego pośrednią unijną jednostką dominującą oraz nazwę grupy z państwa trzeciego, do której pośrednia unijna jednostka dominująca należy. inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym.
+
+2. W przypadku gdy podmiot dominujący domu maklerskiego jest unijną dominującą inwestycyjną spółką holdingową lub unijną dominującą finansową spółką holdingową o działalności mieszanej, Komisja sprawuje nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym.
+
+3. W przypadku gdy podmiotem dominującym wobec domu maklerskiego i zagranicznej firmy inwestycyjnej jest ta sama unijna dominująca inwestycyjna spółka holdingowa lub ta sama unijna dominująca finansowa spółka holdingowa o działalności mieszanej, Komisja sprawuje nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym, jeżeli ta unijna dominująca inwestycyjna spółka holdingowa lub ta unijna dominująca finansowa spółka holdingowa o działalności mieszanej ma siedzibę na terytorium Rzeczypospolitej Polskiej.
+
+4. W przypadku gdy podmiotami dominującymi wobec domu maklerskiego oraz zagranicznej firmy inwestycyjnej są:
+
+- **1)** co najmniej dwie inwestycyjne spółki holdingowe, z których co najmniej jedna ma siedzibę na terytorium Rzeczypospolitej Polskiej i co najmniej jedna ma siedzibę innym państwie członkowskim, którym ma siedzibę ta zagraniczna firma inwestycyjna, lub
+- **2)** co najmniej dwie finansowe spółki holdingowe o działalności mieszanej, z których co najmniej jedna ma siedzibę na terytorium Rzeczypospolitej Polskiej i co najmniej jedna ma siedzibę innym państwie członkowskim, którym ma siedzibę ta zagraniczna firma inwestycyjna, lub
+- **3)** co najmniej jedna inwestycyjna spółka holdingowa oraz co najmniej jedna finansowa spółka holdingowa o działalności mieszanej, z których co najmniej jedna ma siedzibę na terytorium Rzeczypospolitej Polskiej i co najmniej jedna ma siedzibę innym państwie członkowskim, którym ma siedzibę ta zagraniczna firma inwestycyjna Komisja sprawuje nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym, jeżeli żadna z zagranicznych firm inwestycyjnych grupie firm inwestycyjnych nie ma większej sumy bilansowej od domu maklerskiego należącego do tej grupy firm inwestycyjnych.
+
+5. W przypadku gdy podmiotem dominującym domu maklerskiego i zagranicznej firmy inwestycyjnej jest ta sama inwestycyjna spółka holdingowa lub ta sama finansowa spółka holdingowa o działalności mieszanej i jednocześnie ta inwestycyjna spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej ma siedzibę innym państwie członkowskim, innym niż państwo, którym udzielono zagranicznej firmie inwestycyjnej zezwolenia na wykonywanie działalności maklerskiej, Komisja sprawuje nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym, jeżeli żadna z zagranicznych firm inwestycyjnych grupie firm inwestycyjnych nie ma większej sumy bilansowej od domu maklerskiego należącego do tej grupy firm inwestycyjnych.
+
+6. Komisja i właściwy organ nadzoru nad zagraniczną firmą inwestycyjną mogą uzgodnić, drodze porozumienia, odstąpienie od kryteriów określonych ust. 3–5, jeżeli ich zastosowanie jest niewłaściwe ze względu na specyfikę domu maklerskiego lub zagranicznej firmy inwestycyjnej i istotność ich działalności poszczególnych państwach członkowskich, oraz ustalić, że Komisja albo właściwy organ nadzoru nad zagraniczną firmą inwestycyjną będzie sprawować nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym. W takim przypadku Komisja, przed zawarciem porozumienia, umożliwia wyrażenie opinii przez odpowiednią unijną dominującą inwestycyjną spółkę holdingową, unijną dominującą finansową spółkę holdingową o działalności mieszanej lub dom maklerski albo zagraniczną firmę inwestycyjną o największej sumie bilansowej ze wszystkich podmiotów wchodzących skład grupy firm inwestycyjnych będących domami maklerskimi lub zagranicznymi firmami inwestycyjnymi, chyba że taka opinia została wyrażona wobec właściwego organu nadzoru z innego państwa członkowskiego.
+
+7. Komisja powiadamia Komisję Europejską i Europejski Urząd Nadzoru Bankowego o zawarciu porozumienia, o którym mowa ust. 6. Art. 110ga. 1. Komisja sprawuje nadzór skonsolidowany zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013, przypadku gdy:
+
+- **1)** dom maklerski stosujący rozporządzenie 575/2013 jest dominującą firmą inwestycyjną z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 29a rozporządzenia 575/2013 lub unijną dominującą firmą inwestycyjną rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013 i żaden z jego podmiotów zależnych nie jest instytucją kredytową;
+- **2)** podmiotem dominującym domu maklerskiego stosującego rozporządzenie 575/2013 jest dominująca finansowa spółka holdingowa z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 30 rozporządzenia 575/2013, dominująca finansowa spółka holdingowa o działalności mieszanej z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 32 rozporządzenia 575/2013, unijna dominująca finansowa spółka holdingowa rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia 575/2013 lub unijna dominująca finansowa spółka holdingowa o działalności mieszanej rozumieniu art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, i żaden z podmiotów zależnych od tych spółek nie jest instytucją kredytową; jednej zagranicznej firmy inwestycyjnej jest ta sama dominująca finansowa spółka holdingowa z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 30 rozporządzenia 575/2013, ta sama dominująca finansowa spółka holdingowa o działalności mieszanej z państwa członkowskiego rozumieniu art. 4 ust. 1 pkt 32 rozporządzenia 575/2013, ta sama unijna dominująca finansowa spółka holdingowa rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia 575/2013 lub ta sama unijna dominująca finansowa spółka holdingowa o działalności mieszanej rozumieniu art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, i żaden z podmiotów zależnych od tych spółek nie jest instytucją kredytową, oraz:
+    - **a)** żadna z takich zagranicznych firm inwestycyjnych nie ma wyższej sumy bilansowej niż taki dom maklerski stosujący rozporządzenie 575/2013 lub
+    - **b)** łączna suma bilansowa domów maklerskich stosujących rozporządzenie 575/2013 będących podmiotami zależnymi od takich spółek jest większa od każdej z łącznych sum bilansowych takich zagranicznych firm inwestycyjnych mających siedzibę tym samym państwie członkowskim.
+
+2. Komisja i właściwy organ nadzoru sprawujący nadzór nad zagraniczną firmą inwestycyjną mogą uzgodnić, drodze porozumienia, odstąpienie od kryteriów określonych ust. 1 pkt 1 lub pkt 3 lit. a, jeżeli ich zastosowanie jest niewłaściwe z uwagi na specyfikę domu maklerskiego stosującego rozporządzenie 575/2013 lub zagranicznej firmy inwestycyjnej i względną istotność ich działalności poszczególnych państwach członkowskich lub potrzebę zapewnienia ciągłości nadzoru skonsolidowanego sprawowanego przez Komisję albo ten właściwy organ nadzoru, oraz ustalić, że Komisja albo właściwy organ nadzoru sprawujący nadzór nad zagraniczną firmą inwestycyjną będzie sprawować nadzór skonsolidowany. W takim przypadku Komisja, przed zawarciem porozumienia, umożliwia wyrażenie opinii przez unijną dominującą finansową spółkę holdingową rozumieniu art. 4 ust. 1 pkt 31 rozporządzenia 575/2013, unijną dominującą finansową spółkę holdingową o działalności mieszanej rozumieniu art. 4 ust. 1 pkt 33 rozporządzenia 575/2013, unijną dominującą firmę inwestycyjną rozumieniu art. 4 ust. 1 pkt 29b rozporządzenia 575/2013 lub firmę inwestycyjną rozumieniu art. 4 ust. 1 pkt 2 rozporządzenia 575/2013 o największej sumie bilansowej, o których mowa ust. 1 pkt 1 lub pkt 3 lit. a.
+
+3. Komisja powiadamia Komisję Europejską i Europejski Urząd Nadzoru Bankowego o zawarciu porozumienia, o którym mowa ust. 2.
+
+4. W przypadku wystąpienia sytuacji nadzwyczajnej, tym sytuacji określonej art. 18 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm. ), zwanego dalej „rozporządzeniem 1093/2010”, lub sytuacji niekorzystnych zmian na rynkach, która potencjalnie zagraża płynności na rynku i stabilności systemu finansowego państwie członkowskim, którym podmioty należące do grupy rozumieniu art. 4 ust. 1 pkt 138 rozporządzenia 575/2013, skład której wchodzi dom maklerski stosujący rozporządzenie 575/2013, otrzymały zezwolenie na prowadzenie działalności lub którym uzyskały zatwierdzenie działalności, Komisja, sprawując nadzór skonsolidowany, zawiadamia o tym niezwłocznie Europejski Urząd Nadzoru Bankowego, Europejską Radę do spraw Ryzyka Systemowego, Komitet Stabilności Finansowej i Narodowy Bank Polski oraz przekazuje im informacje kluczowe dla wykonywania ich zadań.
+
+5. W przypadku gdy Narodowy Bank Polski uzyska informacje o wystąpieniu sytuacji nadzwyczajnej, o której mowa ust. 4, zawiadamia o tym niezwłocznie Komisję.
+
+6. Jeżeli do prawidłowego wykonywania nadzoru skonsolidowanego przez Komisję niezbędne są informacje o wystąpieniu sytuacji nadzwyczajnej, o której mowa ust. 4, będące posiadaniu innego właściwego organu nadzoru, Komisja zwraca się bezpośrednio do tego organu o ich udostępnienie.
+
+7. W celu wykonywania nadzoru skonsolidowanego Komisja ustanawia kolegia właściwych władz nadzorczych i przewodniczy tym kolegiom. Przepisy art. 141f ust. 18–21 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
+
+8. Komisja może zawierać z właściwymi organami nadzoru innych państw członkowskich porozumienia określające zakres i tryb współpracy przy wykonywaniu nadzoru skonsolidowanego, a także określające zakres i tryb działania kolegiów, o których mowa ust. 7. Komisja informuje Europejski Urząd Nadzoru Bankowego o zawarciu oraz o treści takich porozumień. Przepisy art. 141f ust. 3–4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe stosuje się odpowiednio.
+
+9. W przypadku gdy Komisja sprawuje nadzór skonsolidowany, przekazuje zainteresowanym właściwym organom nadzoru innych państw członkowskich oraz Europejskiemu Urzędowi Nadzoru Bankowego dane dotyczące struktury prawnej oraz struktury zarządzania i struktury organizacyjnej grupy rozumieniu art. 4 ust. 1 pkt 138 rozporządzenia 575/2013, do której należą podmioty, o których mowa ust. 1, tym:
+
+- **1)** informacje o istnieniu bliskich powiązań między podmiotami wchodzącymi skład takiej grupy;
+- **2)** opis systemu zarządzania podmiotów wchodzących skład takiej grupy, tym systemu zarządzania ryzykiem i systemu kontroli wewnętrznej oraz polityki wynagrodzeń, o której mowa art. 110v ust. 1.
+
+**Art. 110i.** W przypadku wystąpienia sytuacji nadzwyczajnej, tym określonej art. 18 rozporządzenia 1093/2010, lub wystąpienia niekorzystnych zmian na rynkach, potencjalnie zagrażających płynności na rynku i stabilności systemu finansowego Rzeczypospolitej Polskiej i innego państwa członkowskiego, którym zagranicznej firmie inwestycyjnej należącej do tej samej grupy firm inwestycyjnych co dom maklerski udzielono zezwolenia na wykonywanie działalności maklerskiej, Komisja, ramach sprawowanego nadzoru na zasadzie skonsolidowanej lub nadzoru nad zgodnością z grupowym testem kapitałowym, zawiadamia o tym niezwłocznie Europejski Urząd Nadzoru Bankowego, Europejską Radę do spraw Ryzyka Systemowego i właściwy organ nadzoru nad tą zagraniczną firmą inwestycyjną, i przekazuje im informacje niezbędne do realizacji ich zadań.
+
+**Art. 110j.**
+
+1. W przypadku gdy Komisja sprawuje nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym, może ustanowić kolegium złożone z właściwych organów nadzoru, zwane dalej „kolegium”, celu ułatwienia wykonywania zadań zakresie koordynacji działań i współpracy Komisji i właściwych organów nadzoru nad zagranicznymi firmami inwestycyjnymi, a także zapewnienia koordynacji działań i współpracy z właściwymi organami nadzoru z państw niebędących państwami członkowskimi, szczególności gdy jest to konieczne do celów stosowania art. 23 ust. 1 akapit pierwszy lit. c i ust. 2 rozporządzenia 2019/2033, a także celu umożliwienia dokonywania wymiany i aktualizacji stosownych informacji na temat modelu dotyczącego depozytu zabezpieczającego z właściwymi organami nadzoru sprawującymi nadzór nad kwalifikującymi się kontrahentami centralnymi rozumieniu art. 4 ust. 1 pkt 45 rozporządzenia 2019/2033.
+
+2. W skład kolegium wchodzą właściwe organy nadzoru sprawujące nadzór nad podmiotami zależnymi od domu maklerskiego, unijnej dominującej inwestycyjnej spółki holdingowej lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej. W uzasadnionych przypadkach skład kolegium mogą wchodzić także właściwe organy nadzoru z państw niebędących państwami członkowskimi, jeżeli podmiot z takiego państwa wchodzi skład grupy firm inwestycyjnych, a państwie tym obowiązują przepisy dotyczące zachowania tajemnicy zawodowej, które, opinii Komisji, są równoważne z zasadami określonymi dziale VI, a opinii wszystkich właściwych organów nadzoru z innych państw członkowskich wchodzących skład kolegium są zgodne z zasadami wynikającymi z ich równoważnych przepisów prawa. Prawo udziału kolegium przysługuje także Europejskiemu Urzędowi Nadzoru Bankowego.
+
+3. W uzasadnionych przypadkach Komisja może ustanowić kolegium także przypadku, gdy podmioty zależne domu maklerskiego, unijnej dominującej inwestycyjnej spółki holdingowej lub unijnej dominującej finansowej spółki holdingowej o działalności mieszanej mają siedzibę państwie niebędącym państwem członkowskim.
+
+4. Ustanowienie i określenie zasad funkcjonowania kolegium następuje na podstawie porozumienia zawartego z właściwymi organami nadzoru. Jeżeli właściwy organ nadzoru odmawia zawarcia porozumienia, Komisja może zwrócić się o pomoc do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010.
+
+5. Kolegium umożliwia:
+
+- **1)** wymianę informacji, o której mowa art. 110i;
+- **2)** koordynowanie wniosków o udzielenie informacji, przypadku gdy jest to niezbędne do ułatwienia nadzoru na zasadzie skonsolidowanej, zgodnie z art. 7 rozporządzenia 2019/2033;
+- **3)** koordynowanie wniosków o udzielenie informacji, przypadku gdy większa liczba właściwych organów nadzoru wchodzących skład kolegium zwraca się do właściwego organu nadzoru państwa członkowskiego, którym ma siedzibę członek rozliczający rozumieniu art. 4 ust. 1 pkt 3 rozporządzenia 2019/2033, albo do właściwego organu nadzoru państwa członkowskiego sprawującego nadzór nad kwalifikującym się kontrahentem centralnym rozumieniu art. 4 ust. 1 pkt 45 rozporządzenia 2019/2033, o informacje o modelu i parametrach dotyczących depozytu zabezpieczającego stosowanych do obliczania wymogu dotyczącego tego depozytu dla domu maklerskiego lub zagranicznych firm inwestycyjnych należących do tej samej grupy firm inwestycyjnych co dom maklerski;
+- **4)** wymianę informacji między właściwymi organami nadzoru oraz wymianę informacji z Europejskim Urzędem Nadzoru Bankowego zgodnie z art. 21 rozporządzenia 1093/2010, a także z Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 21 rozporządzenia 1095/2010;
+- **5)** osiąganie porozumienia odniesieniu do przekazywania zadań i obowiązków między właściwymi organami nadzoru na zasadzie dobrowolności;
+- **6)** ustalenie wymogów nadzorczych sposób zapobiegający zbędnemu powielaniu wymogów nadzorczych.
+
+6. W przypadku ustanowienia kolegium przez Komisję przewodniczy ona posiedzeniom kolegium i podejmuje decyzje. Komisja, z odpowiednim wyprzedzeniem, informuje członków kolegium o sposobie organizacji posiedzeń oraz kwestiach, które mają być omawiane na tych posiedzeniach, tym o ewentualnych działaniach, które powinny zostać podjęte przez kolegium. Podejmując decyzje, Komisja uwzględnia zasadność działalności nadzorczej, która ma zostać zaplanowana lub podlegać koordynacji przez kolegium.
+
+8. W przypadku gdy dom maklerski jest podmiotem zależnym grupie firm inwestycyjnych, nad którą nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym sprawuje właściwy organ nadzoru z innego państwa członkowskiego, Komisja może brać udział kolegium złożonym z właściwych organów nadzoru powołanym przez ten właściwy organ nadzoru, zawrzeć odpowiednie porozumienie zakresie ustanowienia i określenia zasad funkcjonowania takiego kolegium, przekazywać i uzyskiwać informacje, zgłaszać wnioski, a uzasadnionych przypadkach zwrócić się o pomoc do Europejskiego Urzędu Nadzoru Bankowego zgodnie z art. 19 rozporządzenia 1093/2010.
+
+**Art. 110k.**
+
+1. Komisja współpracuje z właściwymi organami nadzoru zakresie sprawowanego nad grupą firm inwestycyjnych nadzoru na zasadzie skonsolidowanej lub nadzoru nad zgodnością z grupowym testem kapitałowym, szczególności przekazuje im informacje niezbędne do wykonywania zadań nadzorczych lub zwraca się do nich o udostępnienie takich informacji.
+
+2. Informacje, o których mowa ust. 1, mogą obejmować szczególności informacje o:
+
+- **1)** strukturze prawnej grupy firm inwestycyjnych oraz jej strukturze zarządzania, tym strukturze organizacyjnej, odniesieniu do:
+    - **a)** podmiotów objętych nadzorem,
+    - **b)** podmiotów nieobjętych nadzorem,
+    - **c)** podmiotów dominujących zakresie, o którym mowa przepisach niniejszego oddziału lub równoważnych przepisach obowiązujących innym państwie członkowskim;
+
+- **2)** właściwych organach nadzoru dla podmiotów objętych nadzorem, o którym mowa przepisach niniejszego oddziału lub równoważnych przepisach obowiązujących innym państwie członkowskim, wchodzących skład grupy firm inwestycyjnych;
+- **3)** procedurach gromadzenia informacji od podmiotów wchodzących skład grupy firm inwestycyjnych oraz weryfikacji tych informacji;
+- **4)** niekorzystnych sytuacjach podmiotach wchodzących skład grupy firm inwestycyjnych, mogących mieć poważny wpływ na dom maklerski lub zagraniczną firmę inwestycyjną wchodzące skład grupy firm inwestycyjnych;
+- **5)** sankcjach nałożonych:
+    - **a)** zgodnie z art. 167 związku z naruszeniem przepisów niniejszego oddziału lub rozporządzenia 2019/2033,
+    - **b)** na podstawie równoważnych przepisów obowiązujących innym państwie członkowskim związku z ich naruszeniem lub naruszeniem przepisów rozporządzenia 2019/2033;
+
+- **6)** środkach nadzorczych podjętych przez Komisję zgodnie z przepisami niniejszego oddziału lub przez właściwe organy nadzoru zgodnie z równoważnymi przepisami obowiązującymi innym państwie członkowskim, jeżeli jest to istotne dla zadań nadzorczych sprawowanych przez Komisję lub właściwe organy nadzoru.
+
+3. Komisja może powiadomić Europejski Urząd Nadzoru Bankowego o przypadku, którym:
+
+- **1)** właściwy organ nadzoru sprawujący nadzór nad zagraniczną firmą inwestycyjną wchodzącą skład grupy firm inwestycyjnych nie przekazał niezbędnych informacji, o których mowa ust. 1;
+- **2)** wniosek o współpracę, szczególności dotyczący wymiany istotnych informacji, został odrzucony przez właściwy organ nadzoru sprawujący nadzór nad zagraniczną firmą inwestycyjną wchodzącą skład grupy firm inwestycyjnych lub nie podjęto jego sprawie żadnych działań odpowiednim terminie.
+
+4. Komisja przeprowadza konsultacje z właściwymi organami nadzoru sprawującymi nadzór nad zagranicznymi firmami inwestycyjnymi wchodzącymi skład grupy firm inwestycyjnych przed podjęciem decyzji, która może być istotna dla sprawowanego przez nie nadzoru, sprawach:
+
+- **1)** zmian strukturze właścicielskiej, strukturze organizacyjnej lub strukturze zarządzania zagranicznych firm inwestycyjnych wchodzących skład grupy firm inwestycyjnych, przypadku zmian wymagających zatwierdzenia przez Komisję lub zezwolenia Komisji;
+- **2)** nałożenia na dom maklerski sankcji zgodnie z art. 167, związku z naruszeniem przepisów niniejszego oddziału lub rozporządzenia 2019/2033, lub nałożenia środka nadzorczego, o którym mowa art. 110y ust. 3. którą nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym sprawuje właściwy organ nadzoru z innego państwa członkowskiego, może zwrócić się do tego właściwego organu nadzoru o informacje zakresie, o którym mowa ust. 2, dotyczące zagranicznych firm inwestycyjnych wchodzących skład grupy firm inwestycyjnych, do której należy dom maklerski.
+
+6. Komisja, podejmując decyzję sprawie nałożenia na dom maklerski sankcji zgodnie z art. 167, związku z naruszeniem przepisów niniejszego oddziału lub rozporządzenia 2019/2033, zwraca się o opinię do właściwego organu nadzoru sprawującego nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym.
+
+7. Komisja może odstąpić od przeprowadzenia konsultacji, o których mowa ust. 4, przypadku gdy jest to niezbędne do zapewnienia wykonania decyzji, o której mowa ust. 4. W takim przypadku Komisja niezwłocznie informuje właściwe organy nadzoru o odstąpieniu od przeprowadzenia konsultacji.
+
+8. Komisja może zwrócić się do właściwych organów nadzoru z innych państw członkowskich o przeprowadzenie weryfikacji informacji dotyczących zagranicznej firmy inwestycyjnej, inwestycyjnej spółki holdingowej, finansowej spółki holdingowej o działalności mieszanej, instytucji finansowej, przedsiębiorstwa usług pomocniczych, holdingu mieszanego lub podmiotu zależnego, mających siedzibę państwie członkowskim, tym podmiotu zależnego będącego zakładem ubezpieczeń.
+
+9. W przypadku, o którym mowa ust. 8, Komisja może zwrócić się o umożliwienie Komisji lub jej upoważnionym przedstawicielom przeprowadzenia takiej weryfikacji.
+
+10. Jeżeli Komisja otrzyma od właściwego organu nadzoru z innego państwa członkowskiego wniosek o przeprowadzenie weryfikacji informacji dotyczących domu maklerskiego, inwestycyjnej spółki holdingowej, finansowej spółki holdingowej o działalności mieszanej, instytucji finansowej, przedsiębiorstwa usług pomocniczych, holdingu mieszanego lub podmiotu zależnego, mających siedzibę na terytorium Rzeczypospolitej Polskiej, tym podmiotu zależnego będącego zakładem ubezpieczeń, przeprowadza ją we własnym zakresie lub umożliwia jej przeprowadzenie przez właściwy organ nadzoru składający wniosek albo biegłego rewidenta lub firmę audytorską lub inny podmiot posiadający wiedzę specjalistyczną. Przepisy art. 25 ust. 3‒7 ustawy o nadzorze stosuje się odpowiednio.
+
+**Art. 110l.** Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania podmiotu dominującego wobec domu maklerskiego, inwestycyjnej spółki holdingowej, finansowej spółki holdingowej o działalności mieszanej, holdingu mieszanego lub innych podmiotów wchodzących skład grupy firm inwestycyjnych, do której należy dom maklerski, niezwłocznie sporządzają i przekazują, na koszt odpowiednio tego podmiotu dominującego, tych spółek, tego holdingu lub tych innych podmiotów wchodzących skład grupy firm inwestycyjnych, do której należy dom maklerski, kopie dokumentów i informacji oraz udzielają wyjaśnień, celu umożliwienia Komisji sprawowania nadzoru nad domem maklerskim.
+
+**Art. 110m.**
+
+1. Na żądanie Komisji lub jej upoważnionego przedstawiciela, skierowane bezpośrednio lub za pośrednictwem domu maklerskiego, holding mieszany oraz podmioty zależne tego holdingu przekazują, na własny koszt, informacje niezbędne do sprawowania nadzoru nad domem maklerskim, określone tym żądaniu.
+
+2. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania holdingu mieszanego lub podmiotu zależnego tego holdingu lub osoby wchodzące skład statutowych organów tego holdingu lub jego podmiotu zależnego, niezwłocznie sporządzają i przekazują, na koszt odpowiednio tego holdingu lub jego podmiotu zależnego, kopie dokumentów i informacji oraz udzielają wyjaśnień celu umożliwienia Komisji sprawowania nadzoru nad domem maklerskim, będącym podmiotem zależnym tego holdingu.
+
+3. (uchylony)
+
+4. W przypadku gdy podmiot dominujący domu maklerskiego jest holdingiem mieszanym, Komisja ramach sprawowanego nadzoru monitoruje transakcje dokonywane między domem maklerskim a holdingiem mieszanym lub jego podmiotami zależnymi.
+
+5. Dom maklerski wprowadza procedury zarządzania ryzykiem, tym procedury sprawozdawcze i księgowe, celu identyfikacji, pomiaru, monitorowania i kontrolowania transakcji dokonywanych z jego podmiotem dominującym będącym holdingiem mieszanym i podmiotami zależnymi tego holdingu.
+
+6. Dom maklerski zgłasza Komisji istotną transakcję z podmiotami, o których mowa ust. 4.
+
+7. Procedury, o których mowa ust. 5, oraz istotne transakcje, o których mowa ust. 6, podlegają kontroli Komisji.
+
+**Art. 110o.**
+
+1. W przypadku gdy dom maklerski należący do grupy firm inwestycyjnych jest podmiotem zależnym podmiotu, który ma siedzibę państwie niebędącym państwem członkowskim, i nadzór nad tym domem maklerskim nie jest sprawowany przez Komisję ramach nadzoru nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub ramach nadzoru nad zgodnością z grupowym testem kapitałowym, Komisja ocenia, czy dom maklerski podlega nadzorowi sprawowanemu przez organ nadzoru państwa niebędącego państwem członkowskim na zasadach równoważnych do ustanowionych przepisach niniejszego oddziału i części pierwszej rozporządzenia 2019/2033.
+
+2. W przypadku gdy ocena, o której mowa ust. 1, nie wykaże pełnej równoważności, Komisja może podjąć działania nadzorcze zmierzające do zapewnienia celów nadzoru zgodnie z art. 7 lub art. 8 rozporządzenia 2019/2033. Komisja podejmuje te działania, jeżeli pełniłaby rolę organu sprawującego nad grupą firm inwestycyjnych nadzór na zasadzie skonsolidowanej lub nadzór nad zgodnością z grupowym testem kapitałowym zgodnie z przepisami niniejszego oddziału, gdyby podmiot dominujący miał swoją siedzibę państwie członkowskim. Komisja podejmuje działania po konsultacji z właściwymi organami nadzoru sprawującymi nadzór nad zagranicznymi firmami inwestycyjnymi należącymi do grupy firm inwestycyjnych. Komisja informuje właściwe organy nadzoru sprawujące nadzór nad zagranicznymi firmami inwestycyjnymi należącymi do grupy firm inwestycyjnych, Europejski Urząd Nadzoru Bankowego i Komisję Europejską o podjętych działaniach nadzorczych.
+
+3. W przypadku, o którym mowa ust. 2, Komisja może, drodze decyzji, nakazać domowi maklerskiemu podjęcie działań celu zmiany struktury grupy firm inwestycyjnych taki sposób, aby podmiotem dominującym wobec tego domu maklerskiego stała się inwestycyjna spółka holdingowa lub finansowa spółka holdingowa o działalności mieszanej, której siedziba znajduje się państwie członkowskim, oraz zastosować przepisy art. 7 lub art. 8 rozporządzenia 2019/2033 do tej inwestycyjnej spółki holdingowej lub finansowej spółki holdingowej o działalności mieszanej.
+
+**Art. 110p.**
+
+1. Dom maklerski dokumentuje systemy oraz procesy, o których mowa przepisach niniejszego oddziału oraz rozporządzenia 2019/2033, oraz rejestruje transakcje, sposób umożliwiający Komisji nadzór nad zgodnością działalności domu maklerskiego z tymi przepisami.
+
+2. Dom maklerski przechowuje i archiwizuje dokumenty i inne nośniki informacji, zawierające procedury, strategie, sprawozdania, raporty i analizy sporządzone związku z działalnością domu maklerskiego ramach:
+
+- **1)** systemu zarządzania ryzykiem,
+- **2)** szacowania kapitału wewnętrznego i aktywów płynnych oraz dokonywania przeglądów procesu szacowania i utrzymywania kapitału wewnętrznego i aktywów płynnych,
+- **3)** stosowania metod obliczania wymogów zakresie funduszy własnych, o których mowa art. 22 rozporządzenia 2019/2033, których zastosowanie wymaga zezwolenia Komisji,
+- **4)** polityki wynagrodzeń, o której mowa art. 110v ust. 1 o których mowa przepisach niniejszego oddziału oraz rozporządzenia 2019/2033, oraz przechowuje i archiwizuje dokumenty dotyczące wykonywanych przez dom maklerski tym zakresie czynności i prowadzonych polityk, a także dokumenty i nośniki zawierające inne informacje, których sporządzenia lub przekazania wymagają przepisy niniejszego oddziału, przepisy prawa bankowego stosowane przez niektóre domy maklerskie, przepisy rozporządzenia 2019/2033 lub rozporządzenia 575/2013.
+
+3. Dom maklerski przechowuje i archiwizuje dokumenty i inne nośniki informacji, o których mowa ust. 2, przez 5 lat, licząc od pierwszego dnia roku następującego po roku, którym te dokumenty i inne nośniki sporządzono.
+
+**Art. 110q.**
+
+1. Dom maklerski zarządza ryzykiem płynności sposób dostosowany do charakteru, zakresu i złożoności prowadzonej przez siebie działalności.
+
+2. Komisja powiadamia Europejski Urząd Nadzoru Bankowego o sankcjach administracyjnych i środkach nadzorczych podjętych wobec domu maklerskiego związku z zagrożeniem utraty przez niego płynności.
+
+**Art. 110r.**
+
+1. Komisja dokonuje badania i oceny nadzorczej regulacji, strategii, procesów i mechanizmów wdrożonych przez dom maklerski zakresie zarządzania ryzykiem, tym celu realizacji przepisów niniejszego oddziału i rozporządzenia 2019/2033.
+
+2. W zakresie badania i oceny nadzorczej, o którym mowa ust. 1, Komisja ocenia rodzaje ryzyka:
+
+- **1)** na które jest lub może być narażony dom maklerski;
+- **2)** jakie działalność domu maklerskiego stwarza dla rynku kapitałowego;
+- **3)** jakie działalność domu maklerskiego stwarza dla innych podmiotów;
+- **4)** ujawnione ramach testów warunków skrajnych. jest to uzasadnione wielkością, charakterem, skalą lub złożonością jego działalności, formie odpowiedniej dla małego domu maklerskiego.
+
+4. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Bankowego informacje zakresie:
+
+- **1)** funkcjonowania badania i oceny nadzorczej, tym o kryteriach i metodach stosowanych badaniu i ocenie nadzorczej;
+- **2)** kryteriów uwzględnianych przy wydawaniu decyzji lub zaleceń, o których mowa odpowiednio art. 110y i art. 110ya.
+
+5. Komisja zamieszcza na swojej stronie internetowej kryteria i metody stosowane badaniu i ocenie nadzorczej domów maklerskich lub małych domów maklerskich.
+
+**Art. 110s.** (uchylony)
+
+**Art. 110t.** (uchylony)
+
+**Art. 110u.**
+
+1. W przypadku gdy dom maklerski stosuje do obliczania wymogów zakresie funduszy własnych metody obliczania wymogów zakresie funduszy własnych, o których mowa art. 22 rozporządzenia 2019/2033, których zastosowanie wymaga zezwolenia Komisji, Komisja, nie rzadziej niż raz na 3 lata, weryfikuje spełnianie przez dom maklerski warunków określonych dla uzyskania takiego zezwolenia.
+
+2. Na potrzeby weryfikacji, o której mowa ust. 1, dom maklerski przekazuje na żądanie Komisji wyniki obliczeń wymogów zakresie funduszy własnych uzyskane przy pomocy metod, na które uzyskał zezwolenie, wraz z objaśnieniem tych metod.
+
+3. W ramach weryfikacji, o której mowa ust. 1, Komisja szczególności:
+
+- **1)** uwzględnia:
+    - **a)** zmiany działalności domu maklerskiego zaistniałe od czasu udzielenia zezwolenia na stosowanie metod obliczania wymogów zakresie funduszy własnych, o których mowa art. 22 rozporządzenia 2019/2033, których zastosowanie wymaga zezwolenia Komisji, lub od czasu ostatniej weryfikacji dokonanej zgodnie z ust. 1 oraz
+    - **b)** zasady stosowania metod, na które dom maklerski uzyskał zezwolenie, odniesieniu do nowych produktów;
+
+- **2)** ocenia, czy dom maklerski stosuje prawidłowe i aktualne techniki i praktyki odniesieniu do metod, na które uzyskał zezwolenie.
+
+4. Jeżeli ramach weryfikacji, o której mowa ust. 1, zostanie stwierdzone istotne niedoszacowanie zakresie pokrycia ryzyka przez stosowane na podstawie zezwolenia metody, celu jego usunięcia oraz skorygowania jego negatywnych skutków Komisja, drodze decyzji, nakazuje domowi maklerskiemu przyjęcie wyższych mnożników, nakłada dodatkowy wymóg zakresie funduszy własnych lub podejmuje inne działania zmierzające do przywrócenia zgodności stosowanej na podstawie zezwolenia metody z przepisami rozporządzenia 2019/2033.
+
+5. Jeżeli odniesieniu do stosowanej na podstawie zezwolenia metody dotyczącej ryzyka dla rynku liczne przekroczenia, o których mowa art. 366 rozporządzenia 575/2013, wskazują, że metoda ta przestała być wystarczająco dokładna, Komisja uchyla zezwolenie na stosowanie tej metody przez dom maklerski lub nakazuje domowi maklerskiemu jej zmianę terminie ustalonym przez Komisję.
+
+6. W przypadku gdy dom maklerski przestał spełniać określone przepisach rozporządzenia 2019/2033 wymogi niezbędne do stosowania metody, na stosowanie której uzyskał zezwolenie, Komisja może nakazać domowi maklerskiemu przedstawienie planu przywrócenia zgodności z tymi wymogami wraz ze wskazaniem terminu jego realizacji, chyba że zaprzestanie spełniania takich wymogów nie stanowi istotnego naruszenia. W przypadku gdy ocenie Komisji realizacja planu nie przywróci pełnej zgodności z wymogami lub jeżeli wskazany przez dom maklerski termin jest nieodpowiedni, Komisja może nakazać domowi maklerskiemu zmianę tego planu. W przypadku gdy dom maklerski nie przywróci terminie zgodności z wymogami lub gdy brak zgodności z tymi wymogami stanowi istotne naruszenie, Komisja cofa zezwolenie na stosowanie danej metody lub ogranicza zakres udzielonego zezwolenia do obszarów, których spełniane są te wymogi lub których zgodność z tymi wymogami może zostać osiągnięta odpowiednim terminie.
+
+**Art. 110v.**
+
+1. Dom maklerski sporządza i stosuje politykę wynagrodzeń dla osób, których działalność zawodowa ma istotny wpływ na profil ryzyka domu maklerskiego, obejmującą wynagrodzenia i uznaniowe świadczenia emerytalne, zwaną dalej „polityką wynagrodzeń”. Polityka wynagrodzeń domu maklerskim jest polityką wynagrodzeń neutralną pod względem płci.
+
+1b. (uchylony) 1c. (uchylony) 1d. (uchylony) 1e. (uchylony)
+
+2. Zarząd domu maklerskiego opracowuje i wdraża politykę wynagrodzeń zatwierdzoną przez radę nadzorczą.
+
+3. Stosowana przez dom maklerski polityka wynagrodzeń obejmuje także jego podmioty zależne oraz uwzględnia politykę wynagrodzeń stosowaną przez podmiot dominujący wobec tego domu maklerskiego.
+
+4. Komisja gromadzi i analizuje informacje publikowane przez domy maklerskie zgodnie z art. 51 akapit pierwszy lit. c i d rozporządzenia 2019/2033 oraz informacje dotyczące zróżnicowania wynagrodzenia ze względu na płeć, przekazywane przez domy maklerskie, celu monitorowania tendencji i praktyk zakresie polityki wynagrodzeń stosowanej przez domy maklerskie.
+
+5. Dom maklerski, terminie do dnia 30 czerwca każdego roku, przekazuje Komisji dane o liczbie osób określonych ust. 1, których łączne wynagrodzenie poprzednim roku wyniosło co najmniej równowartość złotych 1 000 000 euro, wraz z informacjami dotyczącymi stanowisk zajmowanych przez te osoby i ich zakresu obowiązków oraz wartości głównych składników wynagrodzenia, przyznanych premii, nagród długookresowych oraz odprowadzonych składek emerytalnych.
+
+6. Komisja przekazuje informacje i dane, o których mowa ust. 4 i 5, Europejskiemu Urzędowi Nadzoru Bankowego.
+
+7. Równowartość złotych kwoty wyrażonej euro, o której mowa ust. 5, oblicza się według średniego kursu euro ogłaszanego przez Narodowy Bank Polski, obowiązującego ostatnim dniu roboczym roku, za który przekazywane są dane zgodnie z ust. 5.
+
+8. Dom maklerski, którego średnia wartość aktywów bilansowych i pozycji pozabilansowych czteroletnim okresie bezpośrednio poprzedzającym dany rok obrotowy jest wyższa niż równowartość złotych 100 000 000 euro, ustanawia zrównoważony pod względem płci komitet do spraw wynagrodzeń. Przepis art. 110b ust. 4 stosuje się odpowiednio.
+
+8a. Członkami komitetu do spraw wynagrodzeń mogą być jedynie członkowie rady nadzorczej domu maklerskiego. Komitet do spraw wynagrodzeń może być ustanawiany na poziomie grupy kapitałowej, do której należy dom maklerski.
+
+8b. Komitet do spraw wynagrodzeń wspiera zarząd domu maklerskiego przygotowaniu rozwiązań dotyczących wynagrodzeń zgodnie z polityką wynagrodzeń, biorąc pod uwagę interes publiczny oraz długoterminowe interesy akcjonariuszy, udziałowców lub inwestorów domu maklerskiego oraz innych osób lub podmiotów posiadających interes prawny albo faktyczny sprawach związanych z domem maklerskim. Komitet do spraw wynagrodzeń wydaje niezależne opinie na temat polityki wynagrodzeń i praktyk zakresie wynagrodzeń związanych z zarządzaniem ryzykiem, kapitałem i płynnością.
+
+9. (uchylony)
+
+10. (uchylony) Art. 110va. Dom maklerski, który korzysta z finansowego wsparcia pochodzącego ze środków publicznych, szczególności na podstawie ustawy z dnia 12 lutego 2009 r. o udzielaniu przez Skarb Państwa wsparcia instytucjom finansowym (Dz. U. z 2023 r. poz. 776) lub ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2022 r. poz. 396 oraz z 2023 r. poz. 825):
+
+- **1)** nie wypłaca członkom zarządu i rady nadzorczej zmiennych składników wynagrodzenia;
+- **2)** przypadku zagrożenia spełniania wymogów zakresie funduszy własnych, określonych przepisach prawa oraz wynikających z indywidualnych decyzji dotyczących domu maklerskiego oraz terminowego wycofania się ze wsparcia pochodzącego ze środków publicznych, ogranicza zmienne składniki wynagrodzenia osób niebędących członkami zarządu lub rady nadzorczej do odsetka zysku netto.
+
+**Art. 110w.**
+
+1. Dom maklerski posiadający oddział lub podmiot zależny będący instytucją finansową rozumieniu art. 4 ust. 1 pkt 26 rozporządzenia 575/2013 innym państwie członkowskim lub państwie niebędącym państwem członkowskim podaje sprawozdaniu z działalności, o którym mowa ustawie z dnia 29 września 1994 r. o rachunkowości, dodatkowo dane dotyczące takiego oddziału lub podmiotu zależnego, obejmujące:
+
+- **1)** nazwę oddziału lub podmiotu zależnego oraz charakter działalności i lokalizację geograficzną działalności,
+- **2)** przychody danym roku wykazane sprawozdaniu finansowym,
+- **3)** liczbę pracowników przeliczeniu na pełne etaty,
+- **5)** podatek dochodowy,
+- **6)** otrzymane wsparcie pochodzące ze środków publicznych odrębnie dla oddziałów i podmiotów zależnych posiadanych innych państwach członkowskich i państwach niebędących państwami członkowskimi.
+
+2. (uchylony)
+
+3. Informacje, o których mowa ust. 1, podlegają badaniu przez biegłego rewidenta.
+
+4. Dom maklerski ogłasza, sposób ogólnie dostępny, opis systemu zarządzania ryzykiem oraz polityki wynagrodzeń, informację o powołaniu komitetu do spraw wynagrodzeń, o którym mowa art. 110v ust. 8, a także informację o spełnianiu przez członków organów domu maklerskiego wymogów określonych art. 103 ust. 1–1h.
+
+5. Dom maklerski prowadzący stronę internetową ogłasza na niej informacje, o których mowa ust. 1 i 4.
+
+6. Komisja może, drodze decyzji, nakazać domowi maklerskiemu lub małemu domowi maklerskiemu, o którym mowa art. 46 ust. 2 rozporządzenia 2019/2033:
+
+- **1)** ogłaszanie częściej niż raz do roku informacji, o których mowa art. 46 rozporządzenia 2019/2033, oraz określić terminy ich ogłaszania;
+- **2)** stosowanie wskazanego przez Komisję sposobu ogłaszania informacji innych niż zamieszczone sprawozdaniu finansowym.
+
+7. Komisja może, drodze decyzji, nakazać podmiotowi dominującemu wobec domu maklerskiego coroczne ogłaszanie, pełnym zakresie lub przez zamieszczenie odesłań do odpowiednich dostępnych publicznie dokumentów, opisu formy prawnej tego podmiotu oraz struktury zarządzania i struktury organizacyjnej grupy firm inwestycyjnych.
+
+**Art. 110x.** Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia:
+
+**Art. 110y.**
+
+1. W przypadku naruszenia przez dom maklerski przepisów niniejszego oddziału lub rozporządzenia 2019/2033 oraz gdy zachodzi uzasadnione prawdopodobieństwo ich naruszenia przez dom maklerski okresie kolejnych 12 miesięcy, Komisja może, drodze decyzji:
+
+- **1)** nakazać zmianę stosowanych rozwiązań, procedur, mechanizmów i strategii zakresie systemu zarządzania ryzykiem oraz szacowania i utrzymywania kapitału wewnętrznego i aktywów płynnych;
+- **2)** nakazać sporządzenie ciągu 12 miesięcy planu przywrócenia stanu zgodnego z przepisami prawa; decyzji tej Komisja może wskazać termin realizacji tego planu;
+- **3)** nakazać zastosowanie szczególnych zasad polityki zakresie wyceny aktywów lub zastosowanie szczególnego kwalifikowania aktywów zakresie wymogów dotyczących funduszy własnych; zbycie zorganizowanej części przedsiębiorstwa, która stanowi zagrożenie dla stabilności finansowej domu maklerskiego;
+- **5)** nakazać ograniczenie ryzyka prowadzonej działalności, tym ryzyka powierzenia wykonywania czynności, o którym mowa art. 2 pkt 3 rozporządzenia 2017/565;
+- **6)** nakazać ograniczenie wysokości zmiennego składnika wynagrodzenia, jako wyznaczonego procentu przychodu netto domu maklerskiego, przypadku gdy jego utrzymanie tej wysokości zagraża spełnianiu wymogów adekwatności kapitałowej;
+- **7)** nakazać domowi maklerskiemu zatrzymanie zysku netto i przeznaczenie go na zwiększenie funduszy własnych;
+- **8)** ograniczyć wypłatę zysków lub zakazać wypłaty zysków akcjonariuszom, udziałowcom lub posiadaczom instrumentów dodatkowych zaliczonych zgodnie z przepisami części drugiej tytułu pierwszego rozdziału 3 rozporządzenia 575/2013 do kapitału dodatkowego Tier I domu maklerskiego, przypadku gdy takie ograniczenie lub taki zakaz nie stanowi niewykonania zobowiązania przez dom maklerski;
+- **9)** nałożyć na dom maklerski dodatkowe wymogi zakresie płynności zgodnie z art. 110yb;
+- **10)** nałożyć dodatkowe obowiązki sprawozdawcze lub zwiększyć częstotliwość sprawozdawczości stosunku do obowiązków określonych przepisach rozporządzenia 2019/2033, tym zakresie sprawozdawczości dotyczącej adekwatności kapitałowej i płynności, gdy jest to niezbędne do celów sprawowanego nadzoru i nie prowadzi do przekazywania danych tożsamych z danymi przekazywanymi na podstawie przepisów tego rozporządzenia;
+- **11)** nakazać ograniczenie ryzyka, na jakie jest narażone bezpieczeństwo sieci i systemów informacyjnych domu maklerskiego;
+- **12)** nakazać dostosowanie funduszy własnych i aktywów płynnych przypadku istotnych zmian działalności domu maklerskiego.
+
+2. (uchylony)
+
+3. W przypadku gdy z badania i oceny nadzorczej lub weryfikacji, o której mowa art. 110u, wynika, że:
+
+- **1)** dom maklerski jest narażony na istotne ryzyko lub stwarza istotne ryzyko, które nie zostało pokryte całości lub zostało pokryte niewystarczającym stopniu wymogiem zakresie funduszy własnych, szczególności wymogiem opartym o współczynnik K, o którym mowa części trzeciej lub czwartej rozporządzenia 2019/2033, lub
+- **2)** dom maklerski nie spełnia wymogów określonych art. 110b, art. 110c lub art. 110e, a zastosowanie innych środków nadzorczych może nie zapewnić we właściwym stopniu i czasie przestrzegania wymogów określonych przepisach niniejszego oddziału i rozporządzenia 2019/2033, lub
+- **3)** korekty ostrożnej wyceny portfela handlowego są niewystarczające, aby umożliwić domowi maklerskiemu, normalnych warunkach rynkowych, sprzedaż lub zabezpieczenie krótkim czasie jego pozycji instrumentach finansowych bez ponoszenia znaczących strat, lub
+- **4)** niespełnienie wymogów dotyczących uzyskania zezwolenia na stosowanie modeli wewnętrznych, o których mowa art. 22 rozporządzenia 2019/2033, może doprowadzić do nieadekwatnych poziomów kapitału, lub
+- **5)** dom maklerski systematycznie uchyla się od osiągnięcia lub utrzymywania odpowiedniego poziomu i odpowiedniej struktury funduszy własnych, niezbędnych do spełnienia zaleceń zakresie funduszy własnych, o których mowa art. 110ya ‒ Komisja może, drodze decyzji, nakazać domowi maklerskiemu utrzymywanie funduszy własnych przewyższających wymogi określone art. 11 rozporządzenia 2019/2033.
+
+3a. (uchylony) 3b. (uchylony) 3c. (uchylony) 3d. (uchylony) 3e. (uchylony) 3f. (uchylony) 3g. (uchylony) 3h. (uchylony) 3j. (uchylony) 3k. (uchylony)
+
+4. (uchylony)
+
+5. (uchylony)
+
+6. Wymogi zakresie funduszy własnych są niewystarczające do pokrycia ryzyk, o których mowa ust. 3 pkt 1, przypadku gdy poziom, rodzaj i struktura kapitału wewnętrznego, które Komisja uznała za adekwatne na podstawie badania i oceny nadzorczej zakresie szacowania dokonanego przez dom maklerski zgodnie z art. 110e, są wyższe niż wymóg zakresie funduszy własnych domu maklerskiego określony części trzeciej lub czwartej rozporządzenia 2019/2033. Kapitał wewnętrzny uznany przez Komisję za adekwatny może obejmować ryzyka wyłączone z zakresu wymogu zakresie funduszy własnych określonego części trzeciej lub czwartej rozporządzenia 2019/2033.
+
+7. Komisja nakazuje domowi maklerskiemu spełnianie wymogu zakresie dodatkowych funduszy własnych, o którym mowa ust. 3, wysokości określonej jako różnica między kapitałem uznanym przez Komisję za adekwatny a wymogiem zakresie funduszy własnych określonym części trzeciej lub czwartej rozporządzenia 2019/2033.
+
+8. Komisja, nakazując domowi maklerskiemu spełnianie wymogu zakresie dodatkowych funduszy własnych, o którym mowa ust. 3, określa, że:
+
+- **1)** co najmniej 75 % wymogu zakresie dodatkowych funduszy własnych stanowi kapitał Tier I, o którym mowa art. 9 rozporządzenia 2019/2033;
+- **2)** co najmniej 75 % kapitału Tier I, o którym mowa pkt 1, składa się z kapitału podstawowego Tier I, o którym mowa art. 9 rozporządzenia 2019/2033;
+- **3)** kapitał, o którym mowa pkt 1 i 2, nie może być wykorzystywany celu spełnienia wymogów zakresie funduszy własnych, określonych art. 11 ust. 1 lit. a, b lub c rozporządzenia 2019/2033.
+
+9. Komisja, na podstawie oceny indywidualnych przypadków, jeżeli uzna to za uzasadnione, może, drodze decyzji, nałożyć wymóg zakresie dodatkowych funduszy własnych zgodnie z ust. 3 i 6–8 na mały dom maklerski.
+
+10. Komisja informuje Bankowy Fundusz Gwarancyjny o nałożeniu wymogów zakresie dodatkowych funduszy własnych zgodnie z ust. 3 na dom maklerski, o którym mowa art. 98 ust. 3. Art. 110ya. 1. Komisja może zalecić domowi maklerskiemu utrzymywanie funduszy własnych na poziomie, który Komisja uznaje za adekwatny dla kapitału wewnętrznego domu maklerskiego, o którym mowa art. 110e. Ustalona ten sposób wysokość funduszy własnych może przewyższać wymogi określone części trzeciej rozporządzenia 2019/2033 oraz wymogi zakresie dodatkowych funduszy własnych nałożone zgodnie z art. 110y ust. 3. W zaleceniu Komisja określa termin zwiększenia funduszy własnych domu maklerskiego.
+
+2. Komisja, wydając zalecenie, o którym mowa ust. 1, uwzględnia zasady proporcjonalności oraz wielkość, znaczenie systemowe, charakter, skalę i złożoność działalności domu maklerskiego oraz bierze pod uwagę konieczność zapewnienia, aby cykliczne wahania koniunktury gospodarczej nie prowadziły do naruszenia przez dom maklerski wymogów zakresie funduszy własnych, tym dodatkowych funduszy własnych, o których mowa art. 110y ust. 3, lub nie zagrażały zdolności domu maklerskiego do likwidacji i zaprzestania działalności uporządkowany sposób.
+
+3. W przypadku gdy z badania i oceny nadzorczej lub weryfikacji, o której mowa art. 110u, wynika że wysokość funduszy własnych zalecona przez Komisję zgodnie z ust. 1 nie jest wystarczająca, Komisja może zalecić domowi maklerskiemu utrzymywanie innego poziomu funduszy własnych, wskazując termin na dostosowanie ich wysokości przez dom maklerski.
+
+4. Komisja informuje Bankowy Fundusz Gwarancyjny o wydaniu domowi maklerskiemu, o którym mowa art. 98 ust. 3, zaleceń określonych ust. 1 i 3. Art. 110yb. 1. Komisja może nałożyć wymogi, o których mowa art. 110y ust. 1 pkt 9, jeżeli na podstawie badania i oceny nadzorczej lub weryfikacji, o której mowa art. 110u, stwierdzi, że dom maklerski albo mały dom maklerski, nieposiadający zwolnienia, o którym mowa art. 43 ust. 1 akapit drugi rozporządzenia 2019/2033:
+
+- **1)** jest narażony na istotne ryzyko płynności niepokryte całości lub pokryte niewystarczającym stopniu wymogiem płynności określonym części piątej rozporządzenia 2019/2033 lub
+- **2)** nie spełnia wymogów określonych art. 110b, art. 110c lub art. 110e, a zastosowanie innych środków nadzorczych może nie zapewnić we właściwym stopniu i czasie przestrzegania wymogów płynności, o których mowa przepisach niniejszego oddziału i rozporządzenia 2019/2033. i rodzaje aktywów płynnych, które Komisja uznała za adekwatne na podstawie badania i oceny nadzorczej zakresie szacowania dokonanego przez dom maklerski zgodnie z art. 110e, są wyższe niż wymóg płynności określony części piątej rozporządzenia 2019/2033.
+
+3. Komisja określa dodatkowe wymogi zakresie płynności, o których mowa art. 110y ust. 1 pkt 9, jako różnicę między poziomem aktywów płynnych, które uznała za adekwatne na podstawie badania i oceny nadzorczej, o którym mowa ust. 2, a wymogiem płynności określonym części piątej rozporządzenia 2019/2033. Dom maklerski spełnia dodatkowe wymogi zakresie płynności przez utrzymywanie aktywów płynnych, o których mowa art. 43 ust. 1 rozporządzenia 2019/2033, odpowiedniej wysokości.
+
+**Art. 110z.**
+
+1. Komisja lub jej upoważniony przedstawiciel mogą żądać przekazywania, jednorazowo lub okresowo, informacji dotyczących spełniania obowiązków określonych przepisach niniejszego oddziału lub rozporządzenia 2019/2033, jeżeli są one niezbędne do wykonywania nadzoru, od:
+
+- **1)** domu maklerskiego;
+- **2)** inwestycyjnej spółki holdingowej, finansowej spółki holdingowej, finansowej spółki holdingowej o działalności mieszanej lub holdingu mieszanego, mających siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **3)** osób uprawnionych do reprezentowania podmiotów, o których mowa pkt 1 i 2, osób wchodzących skład organów tych podmiotów lub pozostających z tymi podmiotami stosunku pracy;
+- **4)** przedsiębiorców, którym podmioty wymienione pkt 1 i 2 zleciły wykonywanie swoich czynności.
+
+2. Informacje, o których mowa ust. 1, są przekazywane niezwłocznie lub terminie wyznaczonym przez Komisję.
+
+3. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania domu maklerskiego lub wchodzące skład jego organów albo pozostające z domem maklerskim stosunku pracy sporządzają i przekazują, na koszt domu maklerskiego:
+
+- **1)** dodatkowe informacje sprawozdawcze, niezwłocznie lub okresowo, tym zakresie sprawozdawczości dotyczącej sytuacji kapitałowej lub poziomu płynności;
+- **2)** inne informacje niezbędne do wykonywania nadzoru zakresie określonym przepisach niniejszego oddziału lub rozporządzenia 2019/2033. Art. 110za. (uchylony) Art. 110zaa. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji, może określić, drodze rozporządzenia, ekspozycje podlegające wyłączeniu z zakresu stosowania przepisów art. 37 rozporządzenia 2019/2033, mając na uwadze spełnienie warunków określonych art. 41 ust. 2 tego rozporządzenia. Art. 110zab. W przypadku domu maklerskiego, który świadczy usługę prowadzenia rejestru akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, wartości akcji zarejestrowanych rejestrze akcjonariuszy nie wlicza się do wartości aktywów zabezpieczonych i objętych administrowaniem, o których mowa art. 4 ust. 1 pkt 29 rozporządzenia 2019/2033. Art. 110zb. 1. Wartość procentowa, o której mowa art. 478 ust. 1 rozporządzenia 575/2013, dla domu maklerskiego wynosi 100 %.
+
+2. Wartość procentowa, o której mowa art. 479 ust. 3 rozporządzenia 575/2013, dla domu maklerskiego wynosi 0 %.
+
+3. Współczynnik, o którym mowa art. 480 ust. 2 rozporządzenia 575/2013, dla domu maklerskiego wynosi 1.
+
+4. Wartość procentowa, o której mowa art. 486 ust. 5 rozporządzenia 575/2013, dla domu maklerskiego wynosi:
+
+- **1)** 40 % do dnia 31 grudnia 2015 r.;
+- **2)** 20 % od dnia 1 stycznia 2016 r. do dnia 31 grudnia 2016 r.;
+- **3)** 0 % od dnia 1 stycznia 2017 r. do dnia 31 grudnia 2017 r.
+
+##### Oddział 2b Postępowanie naprawcze
+
+##### Oddział 2c Plany naprawy i zasady wczesnej interwencji dla niektórych domów maklerskich
+
+##### Oddział 3 Banki prowadzące działalność maklerską
+
+**Art. 111.**
+
+1. Bank z siedzibą na terytorium Rzeczypospolitej Polskiej może prowadzić działalność maklerską po uzyskaniu zezwolenia, o którym mowa art. 34 ust. 1 i art. 36 ust. 1 albo art. 34 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+1a. (uchylony)
+
+2. Do wniosku o udzielenie zezwolenia, o którym mowa art. 36 ust. 2 albo 34 ust. 3 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, przypadku gdy bank zamierza prowadzić działalność maklerską, załącza się:
+
+- **1)** informację o nazwie jednostki organizacyjnej banku, której ma być prowadzona działalność maklerska;
+- **2)** informacje, o których mowa art. 1 lit. a i b, art. 5 lit. a, art. 6 lit. a, c i e–i oraz art. 7 rozporządzenia 2017/1943;
+- **3)** oświadczenia członków zarządu, rady nadzorczej, komisji rewizyjnej, o ile jest ustanowiona, jak również innych osób, które odpowiadają za rozpoczęcie przez wnioskodawcę działalności maklerskiej lub będą nią kierować, że nie były uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących innych państwach członkowskich oraz że okresie 3 lat poprzedzających dzień złożenia wniosku nie zostały ukarane trybie administracyjnym przez właściwy organ nadzoru innego państwa członkowskiego za naruszenie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającą dyrektywę 2002/87/WE i uchylającą dyrektywy 2006/48/WE oraz 2006/49/WE, przepisów rozporządzenia 575/2013, przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE lub przepisów rozporządzenia 2019/2033; nia 2016/824;
+- **5)** przypadku gdy wniosek dotyczy prowadzenia OTF informacje, o których mowa art. 2 i art. 6 rozporządzenia 2016/824, a przypadku gdy przedmiotem obrotu na OTF mają być produkty energetyczne sprzedawane obrocie hurtowym, które muszą być wykonywane przez dostawę także informacje o takich produktach, zakresie, jaki zgodnie z przepisami rozporządzenia 2016/824 jest wymagany wobec klas aktywów rozumieniu art. 1 pkt 2 tego rozporządzenia;
+- **6)** przypadku gdy wnioskowana działalność będzie obejmować nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną informacje wskazujące, jaki sposób wnioskodawca zamierza zapewnić zgodność działalności z art. 19 ust. 3 oraz art. 59 ust. 2 i 3 rozporządzenia 1031/2010;
+- **7)** projekty procedur oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 2 rozporządzenia 596/2014;
+- **8)** projekty procedur oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 1 rozporządzenia 596/2014 przypadku gdy wnioskodawca zamierza prowadzić ASO lub OTF;
+- **9)** projekt regulaminu ochrony przepływu informacji poufnych oraz stanowiących tajemnicę zawodową.
+
+2a. (uchylony) 2b. Wniosek o udzielenie zezwolenia złożony przez bank prowadzący działalność maklerską zawiera:
+
+- **1)** informacje, o których mowa art. 1 lit. a i b, art. 5 lit. a, art. 6 lit. a, c i e–l oraz art. 7 rozporządzenia 2017/1943;
+- **2)** informacje, o których mowa art. 2 i art. 3 rozporządzenia 2016/824 przypadku gdy wniosek dotyczy prowadzenia ASO;
+- **3)** informacje, o których mowa art. 2 i art. 6 rozporządzenia 2016/824 przypadku gdy wniosek dotyczy prowadzenia OTF, a przypadku gdy przedmiotem obrotu na OTF mają być produkty energetyczne sprzedawane obrocie hurtowym, które muszą być wykonywane przez dostawę także informacje o takich produktach, zakresie, jaki zgodnie z przepisami rozporządzenia 2016/824, jest wymagany wobec klas aktywów rozumieniu art. 1 pkt 2 tego rozporządzenia;
+- **4)** informacje wskazujące, jaki sposób wnioskodawca zamierza zapewnić zgodność działalności z art. 19 ust. 3 oraz art. 59 ust. 2 i 3 rozporządzenia 1031/2010 przypadku gdy wnioskowana działalność będzie obejmować nabywanie lub zbywanie na rachunek dającego zlecenie instrumentów finansowych na aukcjach organizowanych przez platformę aukcyjną.
+
+2c. Na potrzeby przekazania informacji określonych ust. 2 pkt 1 oraz ust. 2b pkt 1, za organ zarządzający, o którym mowa art. 4 rozporządzenia 2017/1943, uznaje się zarząd oraz radę nadzorczą.
+
+2d. Do wniosku o udzielenie zezwolenia, o którym mowa art. 31 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, przypadku gdy bank zamierza prowadzić działalność maklerską, załącza się informacje, oświadczenia i projekty procedur, o których mowa art. 1 lit. a i b, art. 5 lit. a oraz art. 6 lit. a rozporządzenia 2017/1943, oraz oświadczenia kandydatów na członków zarządu i rady nadzorczej, o których mowa ust. 2 pkt 3.
+
+3. (uchylony)
+
+4. (uchylony)
+
+5. Bank może prowadzić działalność maklerską pod warunkiem, że działalność ta jest organizacyjnie wyodrębniona od pozostałej działalności banku (wydzielenie organizacyjne), z zastrzeżeniem art. 112a i art. 113.
+
+5a. (uchylony)
+
+6. Liczba członków władz jednostki wydzielonej organizacyjnie zgodnie z ust. 5 powinna zapewniać skuteczne, prawidłowe oraz ostrożne zarządzanie tą jednostką, szczególności uwzględniać zakres, skalę i złożoność prowadzonej działalności, przy czym skład władz tej jednostki powinny wchodzić co najmniej dwie osoby. nieposzlakowaną opinię związku ze sprawowanymi funkcjami, wiedzę, kompetencje i doświadczenie niezbędne do skutecznego, prawidłowego oraz ostrożnego zarządzania tą jednostką, z uwzględnieniem zakresu, skali i złożoności prowadzonej działalności. Bank prowadzący działalność maklerską zapewnia utrzymywanie i doskonalenie przez członków władz jednostki wydzielonej organizacyjnie zgodnie z ust. 5 wiedzy i kompetencji niezbędnych do należytego wykonywania powierzonych obowiązków.
+
+6b. Członkami zarządu ani rady nadzorczej banku prowadzącego działalność maklerską, ani komisji rewizyjnej takiego banku, o ile jest ona ustanowiona, nie mogą być osoby uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej lub przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz przestępstwa stanowiącego naruszenie równoważnych przepisów obowiązujących innych państwach członkowskich.
+
+6c. Przepis ust. 6b stosuje się także do innych, niż określone ust. 6b osób odpowiadających za wykonywanie przez bank działalności maklerskiej lub kierujących taką działalnością.
+
+6d. Oświadczenia, o których mowa ust. 2 pkt 3, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+6e. W przypadku banku prowadzącego działalność maklerską czynności zarządzania ryzykiem, o których mowa art. 23 rozporządzenia 2017/565, związane z działalnością maklerską prowadzoną przez bank oraz działalnością maklerską powierzoną przez bank na podstawie umowy wykonywane są ramach systemu zarządzania ryzykiem banku.
+
+7. (uchylony)
+
+8. Bank prowadzący działalność maklerską obowiązany jest posiadać centralę na terytorium Rzeczypospolitej Polskiej.
+
+9. Za centralę, o której mowa ust. 8, uważa się jednostkę organizacyjną banku, której jest prowadzona działalność maklerska i której sposób stały wykonują działalność osoby kierujące działalnością maklerską.
+
+10. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia:
+
+- **1)** szczegółowe zasady wydzielenia organizacyjnego działalności maklerskiej banku, uwzględniając konieczność zapewnienia zachowania poufności danych wydzielonej jednostce organizacyjnej banku przy jednoczesnym zagwarantowaniu bezpiecznego i sprawnego prowadzenia działalności maklerskiej;
+- **2)** zakres czynności, które związku z działalnością maklerską prowadzoną przez bank i pozostałą działalnością banku mogą być wykonywane przez jednostkę wydzieloną organizacyjnie zgodnie z ust. 5 albo jednostki organizacyjne banku inne niż ta jednostka, oraz sposób ustalenia warunków wykonywania tych czynności przy jednoczesnym zagwarantowaniu bezpiecznego i sprawnego wykonywania tych czynności.
+
+**Art. 111a.**
+
+- **175)** 1. Bank państwowy może prowadzić działalność maklerską po uzyskaniu zezwolenia Komisji.
+
+2. Do wniosku o udzielenie zezwolenia, o którym mowa ust. 1, załącza się informacje, oświadczenia i projekty procedur, o których mowa art. 111 ust. 2.
+
+3. Do wniosku o udzielenie zezwolenia, o którym mowa ust. 1, składanego przez bank państwowy prowadzący działalność maklerską, załącza się informacje, o których mowa art. 111 ust. 2b.
+
+4. Do banku państwowego, o którym mowa ust. 1, stosuje się przepisy art. 111 ust. 5 i 6–6e, art. 112a, art. 113 oraz art. 114 ust. 2 i 3.
+
+**Art. 111b.**
+
+- **175)** 1. Do działalności maklerskiej prowadzonej przez bank państwowy na podstawie zezwolenia, o którym mowa art. 111a ust. 1, stosuje się:
+- **1)** przepisy ustawy oraz bezpośrednio obowiązujące przepisy prawa Unii Europejskiej dotyczące banku prowadzącego działalność maklerską;
+- **2)** przepisy ustaw odrębnych dotyczące firmy inwestycyjnej, jeżeli znajdują zastosowanie do banku państwowego prowadzącego działalność maklerską.
+
+2. Do banku państwowego prowadzącego działalność maklerską nie stosuje się przepisu art. 114 ust. 1.
+
+**Art. 112a.**
+
+- **176)** 1. Bank może, na zasadach i zakresie określonych przepisach wydanych na podstawie art. 111 ust. 10, wykonywać obowiązki związane z prowadzoną przez niego działalnością maklerską i pozostałą działalnością banku ramach:
+- **1)** jednostki wydzielonej organizacyjnie zgodnie z art. 111 ust. 5, na rzecz jednostek organizacyjnych banku innych niż ta jednostka;
+- **2)** jednostek organizacyjnych banku innych niż jednostka wydzielona organizacyjnie zgodnie z art. 111 ust. 5, na rzecz tej jednostki.
+
+2. W celu wypełniania obowiązków, o których mowa ust. 1, jednostka organizacyjna wydzielona zgodnie z art. 111 ust. 5 oraz jednostki organizacyjne banku inne niż ta jednostka mogą wymieniać się informacjami oraz wykorzystywać te same rozwiązania techniczne i organizacyjne pod warunkiem, że zapewnione jest zachowanie bezpieczeństwa, integralności i poufności danych oraz są spełnione wymogi związane z zarządzaniem konfliktami interesów.
+
+**Art. 113.**
+
+1. Czynności związane z zawieraniem umów o świadczenie usług przez bank ramach prowadzonej działalności maklerskiej lub umożliwiające realizację tych umów, szczególności polegające na doradzaniu klientowi lub potencjalnemu klientowi zakresie prowadzonej przez dany bank działalności maklerskiej, przyjmowaniu zleceń, o których mowa art. 69 ust. 2 pkt 1, oraz odbieraniu innych oświadczeń woli dla banku ramach prowadzonej działalności maklerskiej, mogą być wykonywane poza wyodrębnioną jednostką banku, której jest prowadzona działalność maklerska.
+
+2. Podstawą wykonywania czynności, o których mowa ust. 1, poza jednostką banku, której prowadzona jest działalność maklerska, są regulacje wewnętrzne banku określające szczególności szczegółowy zakres tych czynności oraz sposób ich wykonywania. Nie później niż terminie miesiąca przed rozpoczęciem wykonywania czynności, o których mowa ust. 1, poza jednostką organizacyjną, której prowadzona jest działalność maklerska, bank jest obowiązany przedstawić Komisji regulacje wewnętrzne, z których wynika przyjęty sposób postępowania.
+
+3. W przypadku gdy przyjęty przez bank sposób postępowania mógłby doprowadzić do naruszenia bezpieczeństwa obrotu lub interesów klientów banku, Komisja może terminie miesiąca od dnia dokonania zawiadomienia zgłosić sprzeciw wobec jego wdrożenia.
+
+4. W stosunku do jednostek banku wykonujących czynności, o których mowa ust. 1, Komisji przysługują przewidziane ustawie o nadzorze uprawnienia kontrolne, zakresie dotyczącym tych czynności oraz sporządzanych związku z tymi czynnościami dokumentów.
+
+**Art. 114.**
+
+1. Do banku prowadzącego działalność maklerską stosuje się odpowiednio przepisy art. 25e, art. 104 i art. 104a.
+
+2. Do sprawozdania finansowego banku, części dotyczącej wyłącznie działalności maklerskiej, stosuje się odpowiednio art. 100 ust. 3 i 4.
+
+3. Bank prowadzący działalność maklerską nie może zamieszczać firmie (nazwie) wyrazów „dom maklerski” ani używać takiego oznaczenia obrocie handlowym.
+
+##### Oddział 4 Podmioty zagraniczne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej
+
+**Art. 115.**
+
+1. Zagraniczna osoba prawna prowadząca działalność maklerską i mająca siedzibę na terytorium państwa innego niż państwo członkowskie może prowadzić na terytorium Rzeczypospolitej Polskiej działalność maklerską wyłącznie formie oddziału. Prowadzenie takiej działalności wymaga zezwolenia Komisji.
+
+2. Za oddział uważa się wyodrębnioną strukturach zagranicznej osoby prawnej, o której mowa ust. 1, jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi działalność maklerską na terytorium Rzeczypospolitej Polskiej. Za jeden oddział uważa się wszystkie jednostki organizacyjne danej zagranicznej osoby prawnej, o której mowa ust. 1, zlokalizowane na terytorium Rzeczypospolitej Polskiej, ramach których jest prowadzona działalność maklerska.
+
+3. Wniosek o udzielenie zezwolenia na prowadzenie działalności maklerskiej przez zagraniczną osobę prawną zawiera:
+
+- **1)** nazwę organu sprawującego nadzór nad zagraniczną osobą prawną;
+- **2)** informacje dotyczące wnioskodawcy, określone art. 1 rozporządzenia 2017/1943;
+- **3)** informacje o wysokości kapitału założycielskiego pozostającego do dyspozycji oddziału, określone art. 2 rozporządzenia 2017/1943;
+- **5)** informacje dotyczące organu zarządzającego wnioskodawcy oraz osób kierujących oddziałem, określone art. 4 rozporządzenia 2017/1943;
+- **6)** informacje dotyczące organizacji oddziału, określone art. 6 rozporządzenia 2017/1943;
+- **7)** oświadczenia osób kierujących oddziałem, że nie były uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej ani przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym.
+
+4. Udzielenie zagranicznej osobie prawnej, o której mowa ust. 1, zezwolenia na prowadzenie działalności maklerskiej następuje pod warunkiem:
+
+- **1)** istnienia rozwiązań zapewniających Komisji uzyskiwanie informacji niezbędnych z punktu widzenia sprawowanego przez Komisję nadzoru nad prowadzoną na terytorium Rzeczypospolitej Polskiej działalnością maklerską, tym szczególności istnienia porozumienia, o którym mowa art. 20 ust. 2 ustawy o nadzorze, z organem nadzoru, który udzielił tej osobie prawnej zezwolenia na prowadzenie działalności maklerskiej państwie jej siedziby;
+- **1a)** podlegania przez zagraniczną osobę prawną państwie jej siedziby nadzorowi zakresie usług określonych art. 69 ust. 2 i 4, które zagraniczna osoba prawna zamierza świadczyć na terytorium Rzeczypospolitej Polskiej;
+- **2)** podlegania przez zagraniczną osobę prawną państwie jej siedziby wymogom zakresie adekwatności kapitałowej równoważnym z wymogami określonymi przepisach oddziału 2a i rozporządzenia 2019/2033;
+- **3)** wydzielenia przez tę osobę funduszu na prowadzenie działalności maklerskiej na terytorium Rzeczypospolitej Polskiej wysokości nie mniejszej niż określona przepisach dotyczących kapitału założycielskiego domu maklerskiego;
+- **4)** uwzględnienia przez organ nadzoru, który udzielił tej zagranicznej osobie prawnej zezwolenia na prowadzenie działalności maklerskiej państwie jej siedziby, przy wydawaniu zezwolenia na prowadzenie działalności maklerskiej, zaleceń Grupy Specjalnej do Spraw Przeciwdziałania Praniu Pieniędzy (FATF) zakresie przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu;
+- **5)** związania Rzeczypospolitej Polskiej umową zawartą z państwem, na którego terytorium ma siedzibę zagraniczna osoba prawna, zapewniającą stosowanie się tego państwa do standardów określonych art. 26 Modelowej konwencji OECD sprawie podatku od dochodów i majątku oraz zapewniającą skuteczną wymianę informacji sprawach podatkowych lub związania tego państwa wielostronnym porozumieniem sprawie podatków zapewniającym stosowanie się tego państwa do takich standardów oraz skuteczną wymianę takich informacji;
+- **6)** uczestniczenia przez zagraniczną osobę prawną systemie rekompensat dla inwestorów.
+
+5. W skład władz oddziału powinny wchodzić osoby posiadające nieposzlakowaną opinię związku ze sprawowanymi funkcjami, wiedzę, kompetencje i doświadczenie niezbędne do skutecznego, prawidłowego oraz ostrożnego zarządzania oddziałem, tym zarządzania ryzykiem, z uwzględnieniem zakresu, skali i złożoności prowadzonej działalności. Zagraniczna osoba prawna zapewnia utrzymywanie i doskonalenie przez członków władz oddziału wiedzy i kompetencji niezbędnych do należytego wykonywania powierzonych obowiązków.
+
+5a. Do zagranicznej osoby prawnej, o której mowa ust. 1, stosuje się odpowiednio przepisy art. 25e.
+
+6. Do wykonywania nadzoru nad zagraniczną osobą prawną, o której mowa ust. 1, prowadzącą na terytorium Rzeczypospolitej Polskiej działalność maklerską formie oddziału stosuje się odpowiednio przepisy art. 100 ust. 1 i 3 przypadku, gdy z odrębnych przepisów wynika obowiązek sporządzania przez oddział tej zagranicznej osoby prawnej sprawozdań finansowych.
+
+7. Przepisów ust. 1–6 nie stosuje się do podmiotu wpisanego do rejestru, o którym mowa art. 48 rozporządzenia 600/2014, jeżeli zamierza on świadczyć usługi maklerskie na terytorium Rzeczypospolitej Polskiej wyłącznie na rzecz uprawnionych kontrahentów oraz klientów profesjonalnych, o których mowa art. 3 pkt 39b lit. a–m. Podmiot wpisany do rejestru może również prowadzić działalność zakresie, o którym mowa art. 31 ust. 3b lub art. 78 ust. 1bb.
+
+8. Oświadczenia, o których mowa ust. 3 pkt 7, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań. nych osób prawnych, o których mowa ust. 1.
+
+10. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych, na wniosek tego Urzędu, o:
+
+- **1)** wydanych zezwoleniach, o których mowa ust. 1, oraz o zmianach tych zezwoleń;
+- **2)** rodzaju wykonywanych czynności oraz zakresie i skali działalności prowadzonej przez oddziały, o których mowa ust. 1;
+- **3)** kwocie przychodów i całkowitych aktywów oddziałów, o których mowa ust. 1;
+- **4)** nazwie grupy kapitałowej, do której należy zagraniczna osoba prawna, o której mowa ust. 1.
+
+11. Komisja współpracuje z właściwymi organami nadzoru sprawującymi nadzór nad podmiotami wchodzącymi skład grupy kapitałowej, do której należy zagraniczna osoba prawna, o której mowa ust. 1, Europejskim Urzędem Nadzoru Giełd i Papierów Wartościowych oraz Europejskim Urzędem Nadzoru Bankowego.
+
+**Art. 115a.**
+
+1. Nie stanowi działalności maklerskiej wymagającej uzyskania zezwolenia na jej prowadzenie świadczenie przez podmiot, mający miejsce zamieszkania lub siedzibę na terytorium państwa innego niż Rzeczpospolita Polska, usługi na rzecz klienta mającego siedzibę, miejsce zamieszkania lub przebywającego na terytorium Rzeczypospolitej Polskiej, jeżeli do rozpoczęcia świadczenia tej usługi doprowadził ze swojej wyłącznej inicjatywy ten klient.
+
+2. Wyłączenie, o którym mowa ust. 1, nie obejmuje proponowania klientowi przez podmiot, o którym mowa ust. 1, ani przez podmiot lub osobę działające jego imieniu lub podmiot pozostający z nim bliskich powiązaniach usługi dotyczącej instrumentów finansowych innego rodzaju niż będące przedmiotem usług świadczonych zgodnie z ust. 1 lub proponowania mu innych usług niż świadczone zgodnie z ust. 1.
+
+3. Za usługę świadczoną z wyłącznej inicjatywy klienta, o której mowa ust. 1, nie uznaje się usługi świadczonej przypadku, gdy inicjatywa klienta jest następstwem działań reklamowych lub promocyjnych podejmowanych przez podmiot niemający miejsca zamieszkania lub siedziby na terytorium Rzeczypospolitej Polskiej stosunku do potencjalnych klientów na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 115b.** Komisja odmawia udzielenia zezwolenia zagranicznej osobie prawnej, o której mowa art. 115 ust. 1, przypadku gdy:
+
+**Art. 115c.**
+
+1. Oddział zagranicznej osoby prawnej, o której mowa art. 115 ust. 1, przekazuje Komisji, corocznie, informacje o:
+
+- **1)** skali i zakresie świadczonych usług i działalności prowadzonej przez oddział na terytorium Rzeczypospolitej Polskiej;
+- **2)** miesięcznych minimalnych, średnich i maksymalnych ekspozycjach wobec kontrahentów mających miejsce zamieszkania lub siedzibę na terytorium państw członkowskich, przypadku gdy działalność oddziału obejmuje wykonywanie czynności, o których mowa art. 69 ust. 2 pkt 3;
+- **3)** łącznej wartości instrumentów finansowych pochodzących od kontrahentów mających miejsce zamieszkania lub siedzibę na terytorium państw członkowskich, będących przedmiotem czynności, o których mowa art. 69 ust. 2 pkt 7, okresie poprzednich 12 miesięcy;
+- **4)** obrocie i zbiorczej wartości aktywów odpowiadających usługom i działalności, o których mowa pkt 1; z systemu rekompensat dla inwestorów;
+- **6)** polityce i mechanizmach zarządzania ryzykiem stosowanych przez oddział przy świadczeniu usług i prowadzeniu działalności;
+- **7)** zasadach zarządzania, tym o osobach pełniących najważniejsze funkcje działalności tej zagranicznej osoby prawnej.
+
+2. Oddział zagranicznej osoby prawnej, o której mowa art. 115 ust. 1, przekazuje, na żądanie Komisji, inne informacje, które są niezbędne celu monitorowania działalności oddziału.
+
+**Art. 116.**
+
+1. Zagraniczna firma inwestycyjna oraz zagraniczna osoba prawna, o której mowa art. 115 ust. 1, może otworzyć przedstawicielstwo na terytorium Rzeczypospolitej Polskiej.
+
+2. Za przedstawicielstwo uważa się wyodrębnioną strukturach tej firmy lub osoby jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi działalność wyłącznie zakresie reklamy i promocji zagranicznej firmy inwestycyjnej lub zagranicznej osoby prawnej, o której mowa art. 115 ust. 1, na terytorium Rzeczypospolitej Polskiej.
+
+3. O otwarciu przedstawicielstwa na terytorium Rzeczypospolitej Polskiej zagraniczna firma inwestycyjna lub zagraniczna osoba prawna, o której mowa art. 115 ust. 1, niezwłocznie informuje Komisję.
+
+**Art. 117.**
+
+1. Zagraniczna firma inwestycyjna może bez zezwolenia, o którym mowa art. 69 ust. 1, wykonywać na terytorium Rzeczypospolitej Polskiej czynności stanowiące, zgodnie z art. 69 ust. 2 i 4, działalność maklerską, jeżeli dana czynność jest objęta zezwoleniem udzielonym tej firmie inwestycyjnej przez właściwy organ nadzoru innego państwa członkowskiego państwie jej siedziby. Działalność maklerska może być prowadzona przez utworzenie na terytorium Rzeczypospolitej Polskiej oddziału lub bez otwierania oddziału, tym za pośrednictwem agenta przebywającego innym państwie członkowskim lub na terytorium Rzeczypospolitej Polskiej.
+
+1a. Za oddział, o którym mowa ust. 1, uważa się wyodrębnioną strukturach zagranicznej firmy inwestycyjnej jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi działalność maklerską na terytorium Rzeczypospolitej Polskiej. Za jeden oddział uważa się wszystkie jednostki organizacyjne danej zagranicznej firmy inwestycyjnej zlokalizowane na terytorium Rzeczypospolitej Polskiej, ramach których jest prowadzona działalność maklerska.
+
+2. (uchylony)
+
+3. Warunkiem rozpoczęcia na terytorium Rzeczypospolitej Polskiej prowadzenia przez zagraniczną firmę inwestycyjną działalności maklerskiej zakresie określonym ust. 1 jest przekazanie Komisji przez właściwy organ nadzoru innego państwa członkowskiego, który udzielił tej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, odpowiednich informacji dotyczących tej działalności. Komisja informuje zagraniczną firmę inwestycyjną, która zgłosiła zamiar prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej formie oddziału, o warunkach prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej.
+
+3a. (uchylony) 3b. Działalność maklerska, która ma być prowadzona na terytorium Rzeczypospolitej Polskiej:
+
+- **1)** bez otwierania oddziału, tym za pośrednictwem agenta, który ma przebywać na terytorium innego państwa członkowskiego może zostać podjęta po otrzymaniu przez Komisję od właściwego organu nadzoru innego państwa członkowskiego odpowiednich informacji dotyczących tej działalności;
+- **2)** formie oddziału, lub bez otwierania oddziału, ale za pośrednictwem agenta, który ma przebywać na terytorium Rzeczypospolitej Polskiej może zostać podjęta z chwilą poinformowania tej zagranicznej firmy inwestycyjnej przez Komisję o warunkach prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej albo z upływem 2 miesięcy od dnia otrzymania przez Komisję od właściwego organu nadzoru innego państwa członkowskiego odpowiednich informacji dotyczących tej działalności przypadku gdyby przed upływem tego terminu zagraniczna firma inwestycyjna nie otrzymała od Komisji informacji o warunkach prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej.
+
+4. (uchylony)
+
+5. Przez warunki prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o których mowa ust. 3, rozumie się szczególności zasady określone przepisach ustawy, przepisach wykonawczych wydanych na jej podstawie oraz bezpośrednio stosowanych przepisach prawa Unii Europejskiej, mające zastosowanie do działalności wykonywanej sposób określony odpowiednio ust. 3b pkt 1 lub 2. firmę inwestycyjną na terytorium Rzeczypospolitej Polskiej za pośrednictwem agenta, który przebywa na terytorium innego państwa członkowskiego przekazuje do publicznej wiadomości informacje o agentach tej zagranicznej firmy inwestycyjnej, za pośrednictwem których prowadzi ona działalność maklerską na terytorium Rzeczypospolitej Polskiej.
+
+5b. Jeżeli zagraniczna firma inwestycyjna prowadzi działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału, jej agenci przebywający na terytorium Rzeczypospolitej Polskiej, za pośrednictwem których wykonuje ona działalność maklerską na terytorium Rzeczypospolitej Polskiej, wchodzą skład struktury oddziału tej firmy inwestycyjnej. Jeżeli zagraniczna firma inwestycyjna prowadzi działalność maklerską na terytorium Rzeczypospolitej Polskiej bez otwierania oddziału, ale za pośrednictwem agenta, który przebywa na terytorium Rzeczypospolitej Polskiej, do tego agenta, zakresie tej działalności, stosuje się przepisy dotyczące oddziałów.
+
+6. Do tworzenia i działalności oddziałów zagranicznych firm inwestycyjnych nie stosuje się przepisów ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej, z wyjątkiem art. 17 tej ustawy.
+
+7. Przepisów ust. 1, 1a, 3, 3b i 5–6 nie stosuje się do czynności wykonywanych na podstawie umowy z Narodowym Bankiem Polskim, Skarbem Państwa lub organem państwowym wykonującym czynności związane z polityką pieniężną państwa, kształtowaniem kursu wymiany walut, polityką zarządzania długiem publicznym oraz polityką zarządzania wolnymi środkami Skarbu Państwa.
+
+**Art. 117a.**
+
+1. Zagraniczna firma inwestycyjna prowadząca innym państwie członkowskim ASO lub OTF może bez zezwolenia Komisji instalować na terytorium Rzeczypospolitej Polskiej systemy teleinformatyczne i urządzenia techniczne umożliwiające dostęp do prowadzonych przez tę firmę ASO lub OTF podmiotom prowadzącym działalność na terytorium Rzeczypospolitej Polskiej.
+
+2. Warunkiem podjęcia czynności, o których mowa ust. 1, jest poinformowanie o tym Komisji przez właściwy organ nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie ASO lub OTF.
+
+3. Komisja może zwrócić się do organu nadzoru, o którym mowa ust. 2, o wskazanie uczestników ASO lub OTF, o których mowa ust. 1.
+
+4. W przypadkach gdy, zgodnie z art. 90 ust. 2 rozporządzenia 2017/565, działalność podmiotu, o którym mowa ust. 1, uzyska znaczną wagę dla funkcjonowania rynku papierów wartościowych na terytorium Rzeczypospolitej Polskiej oraz dla ochrony inwestorów, Komisja podejmuje współpracę z właściwym organem nadzoru innego państwa członkowskiego, który udzielił temu podmiotowi zezwolenia na prowadzenie rynku regulowanego.
+
+**Art. 118.** Zagraniczna firma inwestycyjna prowadząca działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału lub bez otwierania oddziału, ale za pośrednictwem agenta, który przebywa na terytorium Rzeczypospolitej Polskiej, podlega innym państwie członkowskim nadzorowi właściwego organu, który udzielił jej zezwolenia na prowadzenie działalności maklerskiej, z zastrzeżeniem że nadzór nad przestrzeganiem zasad świadczenia usług maklerskich, określonych przepisach prawa polskiego lub bezpośrednio stosowanych przepisach prawa Unii Europejskiej stosowanych do działalności tej firmy na terytorium Rzeczypospolitej Polskiej, sprawuje Komisja.
+
+#### Rozdział 2 Szczególne typy uczestnictwa obrocie instrumentami finansowymi
+
+##### Oddział 1 Banki powiernicze
+
+**Art. 119.**
+
+1. Za zezwoleniem Komisji bank z siedzibą na terytorium Rzeczypospolitej Polskiej może prowadzić rachunki papierów wartościowych, rachunki derywatów i rachunki zbiorcze (działalność powiernicza).
+
+2. Prowadzenie przez bank rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych na terytorium innego państwa członkowskiego wymaga zezwolenia, o którym mowa ust. 1.
+
+3. Zezwolenie, o którym mowa ust. 1, może być udzielone również przypadku, gdy bank otrzymał już zezwolenie na prowadzenie działalności maklerskiej. W takim przypadku prowadzenie rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych odbywa się poza jednostką organizacyjną banku prowadzącą działalność maklerską.
+
+- **1)** dane osobowe o członkach zarządu i rady nadzorczej banku, jak również innych osobach, które odpowiadają za rozpoczęcie działalności objętej wnioskiem lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
+- **2)** przypadku banku będącego spółką akcyjną wskazanie akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego;
+- **3)** informację o podmiotach dominujących i zależnych wobec wnioskodawcy;
+- **4)** informację o wysokości funduszy własnych;
+- **5)** informację o posiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych niezbędnych do prowadzenia rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych;
+- **6)** informację o planowanej organizacji prowadzenia rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych;
+- **7)** oświadczenia osób, które będą kierować działalnością objętą wnioskiem, o nieuznaniu prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz że okresie 3 lat poprzedzających dzień złożenia wniosku nie zostały ukarane trybie administracyjnym przez właściwy organ nadzoru za naruszenie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającą dyrektywę 2002/87/WE i uchylającą dyrektywy 2006/48/WE oraz 2006/49/WE, przepisów rozporządzenia 575/2013, przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady (UE) 2019/2034 z dnia 27 listopada 2019 r. sprawie nadzoru ostrożnościowego nad firmami inwestycyjnymi oraz zmieniającą dyrektywy 2002/87/WE, 2009/65/WE, 2011/61/UE, 2013/36/UE, 2014/59/UE i 2014/65/UE lub przepisów rozporządzenia 2019/2033.
+
+5. Do wniosku załącza się:
+
+- **1)** statut banku i zaświadczenie albo oświadczenie o wpisie do właściwego rejestru;
+- **2)** regulamin prowadzenia rachunków papierów wartościowych, regulamin prowadzenia rachunków derywatów oraz regulamin prowadzenia rachunków zbiorczych;
+- **3)** regulamin ochrony przepływu informacji poufnych;
+- **4)** ostatnie roczne sprawozdanie finansowe wraz ze sprawozdaniem z tego badania;
+- **5)** opis systemu kontroli wewnętrznej i regulamin nadzoru zgodności działalności z prawem;
+- **6)** kopię umowy z Krajowym Depozytem o uczestnictwo systemie rekompensat zawartej pod warunkiem uzyskania zezwolenia na prowadzenie działalności powierniczej.
+
+5a. Oświadczenia, o których mowa ust. 4 pkt 7 oraz ust. 5 pkt 1, składa się pod rygorem odpowiedzialności karnej. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych zeznań.
+
+6. Działalnością banku polegającą na prowadzeniu rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych powinny kierować co najmniej dwie osoby posiadające wykształcenie wyższe, co najmniej trzyletni staż pracy instytucjach rynku finansowego oraz dobrą opinię związku ze sprawowanymi funkcjami.
+
+7. Kapitał założycielski banku powierniczego nie może być niższy niż wskazany art. 32 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+8. Bank powierniczy obowiązany jest posiadać centralę na terytorium Rzeczypospolitej Polskiej.
+
+9. Za centralę banku powierniczego uważa się jednostkę organizacyjną banku, której sposób stały wykonują działalność osoby kierujące działalnością banku polegającą na prowadzeniu rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych.
+
+10. (uchylony) działalności objętej zezwoleniem, nie dłuższy niż 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna.
+
+**Art. 121.**
+
+1. Klient banku powierniczego może umowie, której przedmiotem jest prowadzenie rachunku papierów wartościowych, zastrzec, że rozliczenie na rachunku klienta transakcji zawartej na podstawie zlecenia klienta nastąpi po dostarczeniu bankowi przez klienta potwierdzenia tej transakcji.
+
+2. Papiery wartościowe nabyte wyniku transakcji, o której mowa ust. 1, zostają zapisane na rachunku papierów wartościowych:
+
+- **1)** firmy inwestycyjnej, zagranicznej firmy inwestycyjnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej lub zagranicznej osoby prawnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o której mowa art. 31 ust. 1 pkt 2a, wykonujących bezpośrednio zlecenie na rynku regulowanym przypadku gdy zlecenie, o którym mowa ust. 1, jest składane bezpośrednio tej firmie inwestycyjnej, zagranicznej firmie inwestycyjnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej lub zagranicznej osobie prawnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o której mowa art. 31 ust. 1 pkt 2a, albo
+- **2)** firmy inwestycyjnej, zagranicznej firmy inwestycyjnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, zagranicznej osoby prawnej nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o której mowa art. 31 ust. 1 pkt 2a lub art. 115 ust. 1 przypadku gdy podmiot ten pośredniczy przekazywaniu zlecenia klienta do podmiotów wymienionych pkt 1 prowadzonym celu ewidencjonowania papierów wartościowych nabywanych lub zbywanych na rzecz klientów, o których mowa ust. 1.
+
+3. Przeniesienie papierów wartościowych będących przedmiotem transakcji, o której mowa ust. 1, pomiędzy rachunkiem papierów wartościowych podmiotu, o którym mowa ust. 2, a rachunkiem papierów wartościowych klienta następuje po dostarczeniu zgodnych potwierdzeń tej transakcji przez klienta i ten podmiot przekazanych odpowiednio do banków prowadzących ich rachunki papierów wartościowych.
+
+4. Papiery wartościowe zbyte wyniku transakcji, o której mowa ust. 1, pozostają zapisane na rachunku papierów wartościowych klienta do chwili wskazanej dostarczonym przez niego potwierdzeniu transakcji.
+
+5. W przypadku niedostarczenia zgodnych potwierdzeń transakcji, o której mowa ust. 1, do dnia, którym powinno nastąpić jej rozliczenie depozycie papierów wartościowych, podmiot, o którym mowa ust. 2 pkt 2, odpowiada wobec podmiotu, który na rachunek klienta zawarł transakcję na rynku regulowanym, za zapłatę ceny oraz dostarczenie papierów wartościowych do rozliczenia. W przypadku gdy klient przekazuje zlecenie bezpośrednio podmiotowi, o którym mowa ust. 2 pkt 1, podmiot ten odpowiada za rozliczenie zawartej transakcji.
+
+6. Przepisy ust. 1–5 nie mają zastosowania przypadku, gdy przed rozliczeniem transakcji, o której mowa ust. 1, depozycie papierów wartościowych nastąpiło wygaśnięcie lub ustanie stosunku prawnego będącego podstawą świadczenia usług przez podmiot, o którym mowa ust. 2, na rzecz klienta lub utrata przez ten podmiot uprawnień do prowadzenia działalności maklerskiej.
+
+7. Przenoszenie papierów wartościowych wyniku transakcji, o której mowa ust. 1, oraz pożytków z tych papierów wartościowych pomiędzy rachunkami papierów wartościowych klienta banku powierniczego i podmiotu określonego ust. 2 oraz pomiędzy rachunkami podmiotów, o których mowa ust. 2, uważa się za dokonywane na rynku regulowanym.
+
+8. Nabycie papierów wartościowych wyniku transakcji, o której mowa ust. 1, przez podmiot, o którym mowa ust. 2, powoduje powstanie po stronie tego podmiotu obowiązków określonych przepisach rozdziału 4 ustawy o ofercie publicznej wyłącznie przypadku, gdy papiery te pozostają zapisane na jego rachunku papierów wartościowych, o którym mowa ust. 2, dniu następującym po dniu rozliczenia tej transakcji depozycie papierów wartościowych.
+
+9. Przepisy ust. 2–8 stosuje się odpowiednio do niebędących papierami wartościowymi instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym, z wyłączeniem instrumentów pochodnych.
+
+10. Przepisy ust. 1–9 stosuje się odpowiednio do klienta firmy inwestycyjnej prowadzącej na jego rzecz rachunek papierów wartościowych oraz do firmy inwestycyjnej.
+
+**Art. 121a.** Przepis art. 121 stosuje się odpowiednio przypadku zamieszczenia umowie o prowadzenie rachunku zbiorczego zawartej z bankiem powierniczym lub z firmą inwestycyjną zastrzeżenia, że rozliczenie na rachunku zbiorczym transakcji, zawartej na podstawie zlecenia posiadacza rachunku zbiorczego, nastąpi po dostarczeniu, odpowiednio, bankowi powierniczemu lub firmie inwestycyjnej potwierdzenia tej transakcji. banku powierniczego lub wchodzące skład jego statutowych organów albo zatrudnione banku powierniczym są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tego banku powierniczego, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień dotyczących prowadzonej działalności powierniczej, zakresie nadzoru sprawowanego przez Komisję nad zgodnością prowadzonej działalności z zasadami prowadzenia rachunków papierów wartościowych, rachunków derywatów lub rachunków zbiorczych, lub innej działalności, do której prowadzenia jest uprawniony ten bank związku z posiadanym zezwoleniem na prowadzenie rachunków papierów wartościowych. 2. Na żądanie Komisji lub jej upoważnionego przedstawiciela bank powierniczy jest zobowiązany również do niezwłocznego przekazywania informacji dotyczących rejestrowanych na prowadzonych przez ten bank rachunkach bankowych środków pieniężnych stanowiących zabezpieczenia pożyczek instrumentów finansowych oraz środków pieniężnych stanowiących depozyt zabezpieczający przypadku dokonywania transakcji instrumentami finansowymi, jeżeli z konstrukcji tego instrumentu wynika obowiązek posiadania depozytu zabezpieczającego. 3. W stosunku do oddziału banku powierniczego znajdującego się na terytorium innego państwa członkowskiego, Komisji przysługują zakresie sprawowania nadzoru nad prowadzoną działalnością powierniczą uprawnienia określone ust. 1. Wykonanie uprawnień następuje po uprzednim pisemnym poinformowaniu właściwego organu nadzoru państwie, na którego terytorium znajduje się oddział banku powierniczego.
+
+**Art. 123.** W zakresie nieuregulowanym niniejszym oddziale do banku powierniczego oraz do wykonywania nadzoru nad takim bankiem stosuje się odpowiednio przepisy art. 83a ust. 4 i 4a, art. 85, art. 86, art. 89, art. 90, art. 92 i art. 104.
+
+**Art. 123a.**
+
+- **179)** 1. Za zezwoleniem Komisji bank powierniczy może wykonywać czynności określone art. 69 ust. 2 pkt 1 i 2 zakresie pośrednictwa zawieraniu transakcji pożyczek papierów wartościowych rozumieniu art. 3 pkt 7 rozporządzenia 2015/2365 dla klientów, przez przyjmowanie i przekazywanie zleceń dotyczących pożyczek papierów wartościowych, zawieranie transakcji pożyczek papierów wartościowych imieniu własnym i na rzecz dającego zlecenie albo imieniu i na rzecz dającego zlecenie (pośrednictwo pożyczkach papierów wartościowych).
+
+2. Wniosek o udzielenie zezwolenia, o którym mowa ust. 1, zawiera:
+
+- **1)** dane osobowe członków zarządu banku powierniczego, którzy odpowiadają za rozpoczęcie wykonywania czynności objętej wnioskiem lub będą nią kierować;
+- **2)** informacje, o których mowa art. 4 rozporządzenia 2017/1943, z wyłączeniem informacji dotyczących członków zarządu i rady nadzorczej banku powierniczego;
+- **3)** oświadczenia osób, które odpowiadają za rozpoczęcie wykonywania czynności objętej wnioskiem lub będą nią kierować, o nieuznaniu prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstwa określonego ustawach, o których mowa art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym, oraz że okresie 3 lat poprzedzających dzień złożenia wniosku nie zostały ukarane trybie administracyjnym przez właściwy organ nadzoru za naruszenie przepisów wdrażających dyrektywę Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi i firmami inwestycyjnymi, zmieniającą dyrektywę 2002/87/WE i uchylającą dyrektywy 2006/48/WE oraz 2006/49/WE lub przepisów rozporządzenia 575/2013;
+- **4)** informacje, o których mowa art. 6 lit. c, e, f oraz h–l rozporządzenia 2017/1943.
+
+3. Do wniosku o udzielenie zezwolenia, o którym mowa ust. 1, załącza się:
+
+- **1)** statut banku powierniczego i zaświadczenie albo oświadczenie o wpisie do właściwego rejestru;
+- **2)** projekt regulaminu prowadzenia rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych obejmujący wykonywanie czynności pośrednictwa pożyczkach papierów wartościowych;
+- **3)** projekt regulaminu ochrony przepływu informacji poufnych oraz stanowiących tajemnicę zawodową;
+- **4)** projekt procedur oraz opis rozwiązań i systemów, o których mowa art. 16 ust. 2 rozporządzenia 596/2014;
+- **5)** kopię umowy z Krajowym Depozytem o uczestnictwo systemie rekompensat zawartej pod warunkiem uzyskania zezwolenia na wykonywanie czynności objętej wnioskiem. szywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+**Art. 123b.**
+
+- **179)** 1. Bank z siedzibą na terytorium Rzeczypospolitej Polskiej, który składa wniosek o udzielenie zezwolenia, o którym mowa art. 119 ust. 1, może jednocześnie złożyć wniosek o udzielenie zezwolenia, o którym mowa art. 123a ust. 1.
+
+2. Zezwolenie, o którym mowa art. 123a ust. 1, nie może być udzielone wyłącznie na wykonywanie pośrednictwa pożyczkach papierów wartościowych.
+
+**Art. 123c.**
+
+- **179)** Wykonywanie przez bank powierniczy, zgodnie z art. 123a, czynności, o których mowa art. 69 ust. 2 pkt 1 i 2, nie stanowi działalności maklerskiej.
+
+**Art. 123d.**
+
+- **179)** 1. Do banku powierniczego wykonującego czynności pośrednictwa pożyczkach papierów wartościowych stosuje się odpowiednio przepisy art. 3a, art. 73 ust. 1, 5j–5o i 6a, art. 73a ust. 1–5 i 9, art. 73b–73d, art. 74b, art. 74c, art. 79–81a, art. 81c, art. 81d, art. 81f, art. 82a, art. 83a ust. 1–5, art. 83b, art. 83c ust. 1–4, art. 83d ust. 1 i 6, art. 83e, art. 83f, art. 83h, art. 83i, art. 83j ust. 1, 2 i 4, art. 83ja, art. 83k oraz art. 88.
+
+2. Do banku powierniczego wykonującego czynności pośrednictwa pożyczkach papierów wartościowych stosuje się bezpośrednio obowiązujące przepisy prawa Unii Europejskiej odnoszące się do wykonywania czynności, o których mowa art. 69 ust. 2 pkt 1 i 2 oraz art. 119 ust. 1, a zakresie nieuregulowanym tych przepisach odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+##### Oddział 2 Kluby inwestorów
+
+**Art. 124.**
+
+1. Osoby fizyczne posiadające pełną zdolność do czynności prawnych mogą, na podstawie umowy zawartej formie pisemnej pod rygorem nieważności, zrzeszać się klubach inwestora. W jednym klubie inwestora może być zrzeszonych nie mniej niż 3 i nie więcej niż 20 osób.
+
+2. W umowie, o której mowa ust. 1, członkowie klubu inwestora zobowiązują się do:
+
+- **1)** wspólnego działania celu zdobywania wiedzy o zasadach inwestowania obrocie zorganizowanym, szczególności przez wspólne inwestowanie zdematerializowane papiery wartościowe lub inne instrumenty finansowe dopuszczone do obrotu na rynku regulowanym;
+- **2)** nieuczestniczenia innych klubach inwestora;
+- **3)** niezaciągania związku z działalnością klubu inwestora zobowiązań o łącznej wartości przewyższającej wartość aktywów zgromadzonych na prowadzonych dla klubu inwestora rachunkach papierów wartościowych, rachunkach derywatów i rachunkach pieniężnych służących do ich obsługi.
+
+3. Każdemu członkowi klubu inwestora przysługuje prawo wniesienia ciągu roku kalendarzowego na rachunki pieniężne służące do obsługi prowadzonych dla tego klubu rachunków papierów wartościowych lub rachunków derywatów środków pieniężnych łącznej wysokości nie wyższej niż 20 000 zł.
+
+4. Klub inwestora ani jego członkowie nie są przedsiębiorcami.
+
+5. W zakresie nieuregulowanym ust. 1–4 do umowy, o której mowa ust. 1, stosuje się przepisy art. 860–864, art. 865 § 1 i art. 866–875 ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+#### Rozdział 3 Maklerzy papierów wartościowych i doradcy inwestycyjni
+
+**Art. 125.**
+
+1. Przez wykonywanie zawodu maklera papierów wartościowych, zwanego dalej „maklerem”, lub doradcy inwestycyjnego, zwanego dalej „doradcą”, rozumie się wykonywanie funkcji organach zarządzających lub nadzorczych firmy inwestycyjnej lub banku państwowego prowadzącego działalność maklerską bądź wykonywanie lub nadzorowanie wykonywania:
+
+- **1)** czynności stanowiących działalność maklerską,
+- **2)** związanych z rynkiem finansowym czynności niestanowiących działalności maklerskiej,
+- **3)** innych czynności związanych z obsługą klientów lub dostępem do rachunków prowadzonych dla klientów ramach pozostawania tej osoby stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z firmą inwestycyjną lub bankiem państwowym prowadzącym działalność maklerską. mentariusza lub wspólnika spółce osobowej będącej domem maklerskim.
+
+2. Przez wykonywanie zawodu maklera lub doradcy rozumie się również:
+
+- **1)** pozostawanie maklera lub doradcy stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z bankiem powierniczym przy wykonywaniu lub nadzorowaniu wykonywania czynności prowadzenia rachunków papierów wartościowych, rachunków derywatów lub rachunków zbiorczych;
+- **2)** pozostawanie maklera lub doradcy stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotem, który jest obowiązany do zatrudniania maklerów lub doradców na podstawie odrębnych przepisów prawa przy wykonywaniu lub nadzorowaniu wykonywania czynności określonych tych przepisach;
+- **3)** wykonywanie przez maklera lub doradcę czynności, o których mowa art. 79 ust. 2.
+- **4)** (uchylony)
+
+**Art. 126.**
+
+1. Makler i doradca, wykonując zawód, są obowiązani działać zgodnie z przepisami prawa i zasadami uczciwego obrotu oraz mieć na względzie słuszne interesy klientów.
+
+2. Tytuły zawodowe „makler papierów wartościowych” i „doradca inwestycyjny” podlegają ochronie prawnej.
+
+3. Prawo wykonywania zawodu maklera lub doradcy przysługuje osobom, które są wpisane odpowiednio na listę maklerów lub na listę doradców, o ile prawo to nie zostało zawieszone zgodnie z przepisem art. 130 ust. 1.
+
+**Art. 127.**
+
+1. Na listę maklerów lub na listę doradców może być wpisana osoba fizyczna:
+
+- **1)** która posiada pełną zdolność do czynności prawnych;
+- **2)** która korzysta z pełni praw publicznych;
+- **3)** która nie była uznana prawomocnym orzeczeniem za winną popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstw określonych ustawie z dnia 26 października 2000 r. o giełdach towarowych, ustawie o funduszach inwestycyjnych, ustawie o ofercie publicznej lub przestępstw określonych niniejszej ustawie;
+- **4)** która złożyła, z zastrzeżeniem art. 129 ust. 1b, 2 i 3, egzamin z wynikiem pozytywnym odpowiednio przed komisją egzaminacyjną dla maklerów albo przed komisją egzaminacyjną dla doradców.
+
+2. W przypadku osoby nieposiadającej polskiego obywatelstwa do stwierdzenia pełni praw publicznych właściwe są przepisy prawa państwa, którego obywatelstwo posiada dana osoba.
+
+**Art. 128.**
+
+1. Egzaminy na maklera i doradcę są sprawdzianem teoretycznego przygotowania kandydatów z następujących dziedzin:
+
+- **1)** prawo cywilne;
+- **2)** prawo gospodarcze;
+- **3)** prawo podatkowe i dewizowe;
+- **4)** prawo papierów wartościowych, instrumenty finansowe oraz obrót takimi instrumentami;
+- **5)** działalność maklerska oraz działalność powiernicza;
+- **6)** system depozytowo-rozliczeniowy zakresie obrotu instrumentami finansowymi;
+- **7)** rynek finansowy;
+- **8)** tworzenie i funkcjonowanie funduszy inwestycyjnych;
+- **9)** komercjalizacja i prywatyzacja przedsiębiorstw;
+- **10)** zasady rachunkowości;
+- **11)** rynek towarów giełdowych;
+- **12)** matematyka finansowa;
+- **13)** analiza finansowa;
+- **14)** strategie inwestycyjne;
+- **15)** etyka zawodowa. dziedzin: ekonomia, statystyka, finanse publiczne, finanse przedsiębiorstw oraz zarządzanie portfelami, skład których wchodzi jeden lub większa liczba instrumentów finansowych.
+
+3. Sprawdzian umiejętności, o którym mowa art. 129 ust. 3, jest sprawdzianem teoretycznego przygotowania kandydatów z następujących dziedzin:
+
+- **1)** prawo cywilne;
+- **2)** prawo gospodarcze;
+- **3)** prawo podatkowe i dewizowe;
+- **4)** prawo papierów wartościowych, instrumenty finansowe oraz obrót takimi instrumentami;
+- **5)** działalność maklerska oraz działalność powiernicza;
+- **6)** system depozytowo-rozliczeniowy zakresie obrotu instrumentami finansowymi;
+- **7)** rynek finansowy;
+- **8)** tworzenie i funkcjonowanie funduszy inwestycyjnych;
+- **9)** komercjalizacja i prywatyzacja przedsiębiorstw;
+- **10)** zasady rachunkowości;
+- **11)** rynek towarów giełdowych;
+- **12)** etyka zawodowa.
+
+4. Ustalony przez komisję egzaminacyjną zakres tematyczny egzaminu lub sprawdzianu umiejętności, o którym mowa art. 129 ust. 3, terminie co najmniej 90 dni przed wyznaczonym terminem egzaminu lub sprawdzianu podawany jest wraz z tym terminem do wiadomości publicznej przez publikację Dzienniku Urzędowym Komisji Nadzoru Finansowego oraz przez zamieszczenie tych informacji na stronie internetowej Komisji.
+
+5. Egzamin na maklera przeprowadza komisja egzaminacyjna dla maklerów, a egzamin na doradcę komisja egzaminacyjna dla doradców. Sprawdziany umiejętności, o których mowa art. 129 ust. 3, przeprowadzają odpowiednio komisja egzaminacyjna dla maklerów albo komisja egzaminacyjna dla doradców.
+
+6. Komisja egzaminacyjna składa się z 6 członków powoływanych i odwoływanych przez Przewodniczącego Komisji. Przewodniczący Komisji powołuje przewodniczącego komisji egzaminacyjnej spośród jej członków oraz, na wniosek przewodniczącego komisji egzaminacyjnej, zastępcę przewodniczącego komisji egzaminacyjnej i sekretarza komisji egzaminacyjnej.
+
+7. Obsługę administracyjno-biurową komisji egzaminacyjnych zapewnia Urząd Komisji.
+
+8. Przewodniczący komisji egzaminacyjnej kieruje jej pracami oraz wyznacza terminy egzaminów albo sprawdzianów umiejętności, o których mowa art. 129 ust. 3.
+
+9. Członkom komisji egzaminacyjnych przysługuje wynagrodzenie za udział pracach komisji.
+
+10. Za egzaminy oraz za sprawdzian umiejętności, o którym mowa art. 129 ust. 3, pobiera się opłaty, które stanowią przychody Urzędu Komisji.
+
+11. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia:
+
+- **1)** wysokość opłat, o których mowa ust. 10 oraz tryb i warunki dokonywania zwrotu wniesionych opłat, mając na uwadze koszty przeprowadzania egzaminów lub sprawdzianu umiejętności, o którym mowa art. 129 ust. 3, oraz wydatki związane z funkcjonowaniem komisji egzaminacyjnych;
+- **2)** regulamin przeprowadzania egzaminów na maklera i doradcę oraz regulamin przeprowadzania sprawdzianu umiejętności, o którym mowa art. 129 ust. 3, uwzględniając konieczność zapewnienia równego traktowania osób składających egzamin lub przystępujących do sprawdzianu umiejętności, poufności egzaminu lub sprawdzianu umiejętności oraz ich sprawnej organizacji, oraz
+- **3)** sposób ustalania i wysokość wynagrodzeń członków komisji egzaminacyjnych za udział posiedzeniach tych komisji, przeprowadzanie egzaminów lub sprawdzianu umiejętności, o którym mowa art. 129 ust. 3, oraz przygotowywanie projektów pytań i zadań na egzaminy lub sprawdzian umiejętności, uwzględniając zakres obowiązków poszczególnych członków. które złożyły z wynikiem pozytywnym egzamin, zdały z wynikiem pozytywnym sprawdzian umiejętności lub których uprawnienia do wykonywania zawodu zostały przez Komisję uznane, składają wniosek terminie 3 miesięcy odpowiednio od dnia złożenia egzaminu, zdania sprawdzianu umiejętności lub uznania uprawnień do wykonywania zawodu.
+
+1a. Do wniosku dołącza się oryginały lub kopie dokumentów potwierdzających spełnienie warunków, o których mowa:
+
+- **1)** art. 127 ust. 1 pkt 3;
+- **2)** odpowiednio art. 127 ust. 1 pkt 4 lub ust. 1b–3;
+- **3)** art. 127 ust. 1 pkt 2 przypadku osób, o których mowa art. 127 ust. 2.
+
+1b. Wpis na listę maklerów albo na listę doradców bez konieczności składania egzaminu mogą uzyskać osoby, które uzyskały dyplom ukończenia studiów wyższych realizowanych na podstawie umowy, o której mowa ust. 1c.
+
+1c. Przewodniczący Komisji, po zasięgnięciu opinii komisji egzaminacyjnej dla maklerów odniesieniu do maklerów lub komisji egzaminacyjnej dla doradców odniesieniu do doradców, może zawrzeć umowę, o której mowa art. 61 ustawy z dnia 20 lipca 2018 r. Prawo o szkolnictwie wyższym i nauce (Dz. U. z 2023 r. poz. 742, z późn. zm. ), z uczelnią posiadającą uprawnienie do nadawania stopnia naukowego doktora zakresie nauk ekonomicznych lub prawnych oraz prowadzącą studia umożliwiające nabycie wiedzy z zakresu dziedzin, o których mowa art. 128 ust. 1 lub ust. 1 i 2.
+
+2. Wpis na listę maklerów lub doradców bez konieczności składania egzaminu mogą uzyskać osoby, których kwalifikacje zostały uznane na zasadach określonych ustawie z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych państwach członkowskich Unii Europejskiej (Dz. U. z 2023 r. poz. 334).
+
+3. Wpis na listę maklerów lub na listę doradców bez konieczności składania egzaminu mogą również uzyskać osoby nieposiadające uprawnień, o których mowa ust. 2, o ile posiadają nadany przez zagraniczną instytucję tytuł, odpowiadający pod względem wymaganej do jego uzyskania wiedzy oraz podstawowych zasad jego wykonywania zawodowi odpowiednio maklera lub doradcy oraz o ile ich kwalifikacje, stwierdzone wyniku przeprowadzonego sprawdzianu umiejętności, gwarantują, że będą one wykonywać zawód na terytorium Rzeczypospolitej Polskiej sposób należyty.
+
+4. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, wykaz nadawanych przez określone zagraniczne instytucje tytułów uprawniających do ubiegania się, zgodnie z ust. 3, o wpis na listę maklerów lub listę doradców bez konieczności składania egzaminu, uwzględniając konieczność zapewnienia, aby zakres wiedzy, którą należy się wykazać celu uzyskania danego tytułu, był zbliżony do zakresu tematycznego obowiązującego na egzaminie odpowiednio dla maklerów lub dla doradców.
+
+5. Osoba wpisana na listę maklerów lub na listę doradców jest obowiązana do niezwłocznego pisemnego informowania Komisji o:
+
+- **1)** (uchylony)
+- **2)** każdorazowej zmianie danych objętych wnioskiem, o którym mowa ust. 1.
+
+6. Komisja udostępnia na swojej stronie internetowej listy maklerów i doradców oraz informacje o skreśleniu z listy oraz zawieszeniu uprawnień do wykonywania zawodu maklera lub doradcy.
+
+7. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, wzór wniosku, o którym mowa ust. 1, uwzględniając konieczność odpowiedniego wykazania przez osoby składające wniosek spełnienia określonych ustawie warunków dokonania wpisu na listę maklerów lub na listę doradców oraz zapewnienia Komisji możliwości weryfikacji spełnienia przez te osoby tych warunków.
+
+**Art. 130.**
+
+1. Komisja może skreślić maklera lub doradcę z listy albo zawiesić jego uprawnienia do wykonywania zawodu na okres od 3 miesięcy do 2 lat na skutek naruszenia związku z wykonywaniem zawodu:
+
+- **1)** przepisów prawa lub regulaminów i innych przepisów wewnętrznych, do których przestrzegania makler lub doradca jest zobowiązany związku z wykonywaniem zawodu, lub
+- **2)** zasad uczciwego obrotu, lub
+- **3)** interesów klientów.
+
+2. (uchylony) sprawach, o których mowa ust. 1, zawiesić uprawnienia maklera lub doradcy do czasu wydania decyzji sprawie, jednak na okres nie dłuższy niż 6 miesięcy.
+
+4. W przypadku wydania decyzji o zawieszeniu uprawnień maklera lub doradcy do wykonywania zawodu, okres zawieszenia uprawnień, o którym mowa ust. 3, wlicza się do okresu zawieszenia uprawnień, o którym mowa ust. 1.
+
+5. Z zastrzeżeniem ust. 6, osoba skreślona z listy maklerów lub listy doradców z przyczyn, o których mowa ust. 1 lub art. 131 ust. 1 pkt 3, nie może być ponownie wpisana na listę maklerów ani na listę doradców przed upływem 10 lat od dnia wydania decyzji. W przypadku gdy skreślenie nastąpiło z przyczyny, o której mowa art. 131 ust. 1 pkt 3, ponowne wpisanie nie może także nastąpić wcześniej, niż nastąpi zatarcie skazania za przestępstwo, którego popełnienie stanowiło podstawę wydania decyzji o skreśleniu z listy maklerów lub z listy doradców.
+
+6. W przypadku, o którym mowa ust. 1, wydając decyzję o skreśleniu z listy maklerów lub doradców, Komisja może skrócić termin, o którym mowa ust. 5.
+
+**Art. 131.**
+
+1. Skreślenie z listy maklerów lub doradców następuje:
+
+- **1)** na wniosek osoby wpisanej na listę;
+- **2)** razie całkowitego albo częściowego ubezwłasnowolnienia;
+- **3)** na skutek uznania prawomocnym orzeczeniem za winnego popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstw lub wykroczeń określonych art. 305, art. 307 lub art. 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, przestępstw określonych ustawie z dnia 26 października 2000 r. o giełdach towarowych, ustawie o funduszach inwestycyjnych, ustawie o ofercie publicznej lub przestępstw określonych niniejszej ustawie;
+- **4)** na skutek śmierci osoby wpisanej na listę;
+- **5)** przypadkach, o których mowa art. 130 ust. 1.
+
+2. Postępowanie wszczęte na wniosek maklera lub doradcy o skreślenie z listy maklerów lub z listy doradców zawiesza się do dnia wydania ostatecznej decyzji sprawie, o której mowa art. 130 ust. 1.
+
+#### Rozdział 4 Prowadzenie działalności zakresie udostępniania informacji
+
+**Art. 131a.** (uchylony)
+
+**Art. 131b.** (uchylony)
+
+**Art. 131c.** (uchylony)
+
+**Art. 131d.** (uchylony)
+
+**Art. 131e.** (uchylony)
+
+**Art. 131f.** (uchylony)
+
+**Art. 131g.** (uchylony)
+
+**Art. 131h.** (uchylony)
+
+**Art. 131i.** (uchylony)
+
+**Art. 131j.** (uchylony)
+
+**Art. 131k.**
+
+1. Na żądanie Komisji lub jej upoważnionego przedstawiciela osoby uprawnione do reprezentowania zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, lub osoby wchodzące skład jego organów statutowych albo pozostające z nim stosunku pracy niezwłocznie sporządzają i przekazują, na koszt tego podmiotu, kopie dokumentów i innych nośników informacji oraz udzielają pisemnych lub ustnych wyjaśnień. lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, niezwłocznie przekazują Komisji oraz organom statutowym tego podmiotu istotne informacje, posiadanie których weszli związku z wykonywanymi czynnościami, dotyczące zdarzeń powodujących:
+
+- **1)** powstanie uzasadnionego podejrzenia naruszenia przepisów prawa regulujących działalność zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego przez podmiot świadczący taką działalność, członków jego organów statutowych lub pracowników;
+- **2)** powstanie zagrożenia dla dalszej działalności zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego;
+- **3)** odmowę wydania opinii dotyczącej sprawozdania finansowego zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego, wydanie opinii negatywnej dotyczącej sprawozdania finansowego zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego lub wniesienie zastrzeżeń tej opinii.
+
+3. Biegły rewident lub firma audytorska może odstąpić od powiadomienia zgodnie z ust. 2 organów statutowych zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego posiadających zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, jeżeli przemawiają za tym ważne powody.
+
+4. Wykonanie obowiązku, o którym mowa ust. 2, nie narusza obowiązku zachowania tajemnicy, o której mowa art. 78 ustawy z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym.
+
+**Art. 131l.** (uchylony)
+
+**Art. 131m.**
+
+1. Zatwierdzony podmiot publikujący i zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, są obowiązane posiadać procedury anonimowego zgłaszania wskazanemu członkowi zarządu, a szczególnych przypadkach radzie nadzorczej, naruszeń przepisów prawa, tym przepisów rozporządzenia 596/2014 i rozporządzenia 600/2014, oraz procedur i standardów etycznych obowiązujących tych podmiotach.
+
+2. W ramach procedur, o których mowa ust. 1, zatwierdzony podmiot publikujący i zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, zapewniają pracownikom, którzy zgłaszają naruszenia, ochronę co najmniej przed działaniami o charakterze represyjnym, dyskryminacją lub innymi rodzajami niesprawiedliwego traktowania.
+
+#### Rozdział 5 Polityka dotycząca zaangażowania
+
+**Art. 131n.** Przepisy niniejszego rozdziału mają zastosowanie do firm inwestycyjnych, które świadczą usługi, o których mowa art. 69 ust. 2 pkt 4.
+
+**Art. 131o.**
+
+1. Firma inwestycyjna dokonująca, ramach świadczenia usługi, o której mowa art. 69 ust. 2 pkt 4, inwestycji dopuszczone do obrotu na rynku regulowanym akcje spółek opracowuje i publikuje politykę dotyczącą zaangażowania, która opisuje, jaki sposób zaangażowanie akcjonariuszy takich spółek jest przez nią uwzględniane jej strategii inwestycyjnej.
+
+2. Polityka, o której mowa ust. 1, zawiera opis sposobów:
+
+- **1)** monitorowania spółek, o których mowa ust. 1, szczególności pod względem strategii, wyników oraz ryzyk finansowych i niefinansowych, struktury kapitałowej, wpływu społecznego i na środowisko naturalne oraz ładu korporacyjnego;
+- **2)** prowadzenia dialogu ze spółkami, o których mowa ust. 1;
+- **3)** wykonywania prawa głosu oraz innych praw związanych z akcjami spółek, o których mowa ust. 1;
+- **4)** współpracy z innymi akcjonariuszami spółek, o których mowa ust. 1;
+- **5)** komunikacji z pozostałymi akcjonariuszami i członkami organów spółek, o których mowa ust. 1;
+- **6)** zarządzania faktycznymi i potencjalnymi konfliktami interesów odniesieniu do zaangażowania firmy inwestycyjnej.
+
+3. Firma inwestycyjna co rok opracowuje i publikuje sprawozdanie z realizacji polityki, o której mowa ust. 1. Sprawozdanie zawiera szczególności:
+
+- **1)** ogólny opis sposobu głosowania;
+- **2)** opis najważniejszych głosowań;
+- **3)** opis sposobu korzystania z usług doradcy akcjonariusza do spraw głosowania, o którym mowa art. 4 § 1 pkt 16 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych. zdania, o którym mowa ust. 3, publikuje wyjaśnienie powodów ich nieopracowania lub nieopublikowania.
+
+5. Sprawozdanie, o którym mowa ust. 3, może nie obejmować głosowań, które są mało istotne ze względu na ich przedmiot lub wielkość udziału firmy inwestycyjnej spółce, o której mowa ust. 1.
+
+**Art. 131p.** Polityka, sprawozdanie oraz wyjaśnienia, o których mowa art. 131o ust. 1, 3 i 4, są publikowane na stronie internetowej firmy inwestycyjnej.
+
+**Art. 131q.**
+
+1. W przypadku gdy firma inwestycyjna ramach:
+
+- **1)** zarządzania aktywami pracowniczego funduszu emerytalnego, o którym mowa art. 152 ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych, lokuje, na podstawie ustaleń z pracowniczym funduszem emerytalnym i jego imieniu, aktywa tego funduszu dopuszczone do obrotu na rynku regulowanym akcje spółek,
+- **2)** świadczenia na rzecz zakładu ubezpieczeń wykonującego działalność zakresie ubezpieczeń, o których mowa dziale I załącznika do ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej, lub na rzecz zakładu reasekuracji wykonującego działalność zakresie reasekuracji ubezpieczeń, o których mowa dziale I załącznika do tej ustawy, usługi, o której mowa art. 69 ust. 2 pkt 4, lokuje, na podstawie ustaleń z tym zakładem ubezpieczeń lub zakładem reasekuracji i jego imieniu, aktywa tego zakładu ubezpieczeń lub tego zakładu reasekuracji, dopuszczone do obrotu na rynku regulowanym akcje spółek firma inwestycyjna przekazuje corocznie, odpowiednio temu pracowniczemu funduszowi emerytalnemu, zakładowi ubezpieczeń lub zakładowi reasekuracji, informację dotyczącą zgodności przyjętej strategii inwestycyjnej i jej realizacji z tymi ustaleniami oraz sposobu, jaki strategia ta i jej realizacja przyczyniają się do średnio- i długoterminowych wyników uzyskiwanych z aktywów tych podmiotów.
+
+2. Informacja, o której mowa ust. 1, zawiera szczególności:
+
+- **1)** opis istotnych czynników ryzyka średnio- i długoterminowego związanego z inwestycjami;
+- **2)** opis struktury portfela, sposobu zarządzania portfelem i kosztów tego zarządzania;
+- **3)** opis sposobu korzystania z usług doradcy akcjonariusza do spraw głosowania, o którym mowa art. 4 § 1 pkt 16 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **4)** opis ewentualnych konfliktów interesów, do których doszło związku z działaniami zakresie zaangażowania, oraz sposobu ich rozwiązania;
+- **5)** wskazanie, czy, i jaki sposób, firma inwestycyjna podejmuje decyzje inwestycyjne oparciu o ocenę średnio- i długoterminowych wyników spółki, której akcje, dopuszczone do obrotu na rynku regulowanym, dokonano lokat.
+
+3. Informacja, o której mowa ust. 1, może być również przekazywana wraz ze sprawozdaniem, o którym mowa art. 83j.
+
+4. Przepisów ust. 1 i 3 nie stosuje się, jeżeli informacja, o której mowa ust. 1, jest publicznie udostępniana przez firmę inwestycyjną.
+
+**Art. 131r.** Za opracowanie i publikację dokumentów, o których mowa art. 131o ust. 1, 3 i 4 oraz art. 131q ust. 1, oraz za informacje zawarte tych dokumentach są odpowiedzialni członkowie zarządu firmy inwestycyjnej, a przypadku firmy inwestycyjnej będącej spółką osobową wspólnicy lub komplementariusze tej spółce, którym przysługuje prawo prowadzenia spraw spółki lub jej reprezentowania zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+### DZIAŁ IVA 193) Uczestnictwo systemie pilotażowym na potrzeby infrastruktury rynkowej opartej na technologii rozproszonego rejestru
+
+**Art. 131s.**
+
+1. Papiery wartościowe będące instrumentami finansowymi obsługiwanymi przez DLT są rejestrowane SS opartym na DLT albo TSS opartym na DLT na rachunkach DLT albo, jeżeli zezwolenie na prowadzenie SS opartego na DLT albo TSS opartego na DLT zwalnia podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT z obowiązku prowadzenia rachunków DLT, ewidencji DLT, o której mowa art. 131u ust. 1.
+
+2. Rachunek DLT oraz ewidencja DLT, o której mowa art. 131u ust. 1, mogą być prowadzone wyłącznie przez podmiot posiadający zezwolenie na prowadzenie SS opartego na DLT albo TSS opartego na DLT. prowadzenia SS opartego na DLT albo TSS opartego na DLT zapewnia zgodność łącznej liczby papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanych na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, z wielkością ich emisji.
+
+**Art. 131t.**
+
+1. Prawa z papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT powstają z chwilą ich zapisania po raz pierwszy na rachunku DLT, jeżeli zapis ten sposób jednoznaczny i nieodwracalny identyfikuje papiery wartościowe oraz osobę uprawnioną z tych papierów wartościowych, a także liczbę przysługujących tej osobie papierów wartościowych, z zastrzeżeniem art. 131z.
+
+2. Do przenoszenia praw z papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanych na rachunkach DLT, stosuje się odpowiednio przepisy art. 7 ust. 1–3, 5b i 6.
+
+**Art. 131u.**
+
+1. W przypadku gdy na podstawie zezwolenia na prowadzenie SS opartego na DLT albo TSS opartego na DLT podmiot prowadzący taki SS oparty na DLT albo TSS oparty na DLT jest zwolniony z obowiązku prowadzenia rachunków papierów wartościowych rozumieniu art. 2 ust. 1 pkt 28 rozporządzenia 909/2014, prawa z papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT powstają z chwilą ich zarejestrowania po raz pierwszy ewidencji DLT prowadzonej technologii rozproszonego rejestru, o której mowa art. 2 pkt 1 rozporządzenia 2022/858, z zastrzeżeniem art. 131z.
+
+2. Ewidencja DLT, o której mowa ust. 1, zapewnia jednoznaczną i nieodwracalną identyfikację papierów wartościowych zapisanych tej ewidencji oraz osoby uprawnionej z tych papierów wartościowych, a także liczby papierów wartościowych przysługujących tej osobie.
+
+3. Umowa zobowiązująca do przeniesienia papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanych ewidencji DLT, o której mowa ust. 1, przenosi te papiery wartościowe z chwilą dokonania odpowiedniego zapisu tej ewidencji, jeżeli zapis ten sposób jednoznaczny i nieodwracalny identyfikuje papiery wartościowe oraz osobę uprawnioną z tych papierów wartościowych, a także liczbę przysługujących jej papierów wartościowych.
+
+4. W przypadku gdy nabycie praw z papierów wartościowych zarejestrowanych ewidencji DLT, o której mowa ust. 1, nastąpiło na podstawie zdarzenia prawnego powodującego z mocy ustawy przeniesienie praw z tych papierów, ich zapis tej ewidencji na rzecz nabywcy jest dokonywany na jego żądanie.
+
+**Art. 131v.**
+
+1. Do wykonywania praw z akcji zarejestrowanych na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, stosuje się odpowiednio przepisy o rejestrze akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+2. Do wykonywania praw z obligacji zarejestrowanych na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, stosuje się odpowiednio przepisy o ewidencji osób uprawnionych z papierów wartościowych, o której mowa art. 55 ust. 1a ustawy z dnia 15 stycznia 2015 r. o obligacjach.
+
+**Art. 131w.**
+
+1. Akcje tej samej spółki nie mogą być jednocześnie zarejestrowane na rachunku DLT oraz ewidencji DLT, o której mowa art. 131u ust. 1.
+
+2. Akcje tej samej spółki zarejestrowane na rachunku DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, nie mogą być jednocześnie zarejestrowane rejestrze akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, oraz depozycie papierów wartościowych.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do obligacji tej samej serii.
+
+**Art. 131x.**
+
+1. Zarejestrowanie papierów wartościowych będących instrumentami finansowymi obsługiwanymi przez DLT oraz wybór podmiotu prowadzącego rachunek DLT albo ewidencję DLT, o której mowa art. 131u ust. 1, wymaga uchwały walnego zgromadzenia. Przy zawiązaniu spółki wyboru sposobu zarejestrowania akcji oraz podmiotu prowadzącego rachunek DLT albo ewidencję DLT, o której mowa art. 131u ust. 1, dokonują założyciele.
+
+2. W przypadku gdy obligacje będą zarejestrowane na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, przepisów art. 7a ust. 1–3, ust. 4 pkt 4 i 5 oraz ust. 5–10 nie stosuje się. Przed zarejestrowaniem obligacji na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1, podmiot, który prowadzi te rachunki lub tę ewidencję, wykonuje czynności, o których mowa art. 7a ust. 4 pkt 1–3.
+
+3. W przypadku, o którym mowa ust. 2, przepisu art. 8 ust. 2 ustawy z dnia 15 stycznia 2015 r. o obligacjach nie stosuje się. wartościowe zarejestrowane na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1. Przepisu art. 5 ust. 1 nie stosuje się.
+
+2. Przedmiotem obrotu ASO opartym na DLT albo TSS opartym na DLT nie mogą być akcje spółki, której akcje są dopuszczone do obrotu zorganizowanego innego niż ASO opartym DLT albo TSS opartym na DLT lub są przedmiotem ubiegania się o takie dopuszczenie.
+
+**Art. 131z.**
+
+1. Przedmiotem wtórnej rejestracji DLT mogą być wyłącznie akcje spółki niebędącej spółką publiczną zarejestrowane rejestrze akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+2. Wtórna rejestracja DLT wymaga uchwały walnego zgromadzenia. Podmiotem prowadzącym rachunki DLT albo ewidencję DLT, o której mowa art. 131u ust. 1, dla tych akcji może być wyłącznie podmiot wybrany drodze uchwały, o której mowa art. 131x ust. 1.
+
+3. W przypadku wtórnej rejestracji DLT podmiot prowadzący rejestr akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, przekazuje spółce oraz SS opartemu na DLT albo TSS opartemu na DLT, wybranemu zgodnie z art. 131x ust. 1, dane osobowe akcjonariuszy, ze wskazaniem liczby akcji posiadanych przez każdego z nich, a także obciążeń ustanowionych na tych akcjach oraz danych osobowych osób, na których rzecz obciążenia te ustanowiono. Informacje te są sporządzane według stanu na dzień wyrejestrowania akcji z rejestru akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
+
+4. Z dniem wyrejestrowania akcji z rejestru akcjonariuszy, o którym mowa art. 328 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych, następuje ich rejestracja SS opartym na DLT albo TSS opartym na DLT, zapisy tym rejestrze akcjonariuszy tracą moc, a moc obowiązującą uzyskują odpowiadające im zapisy na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1. Art. 131za. 1. Spółka prowadząca rynek regulowany może, na zasadach określonych rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT.
+
+2. Krajowy Depozyt lub centralny depozyt papierów wartościowych może prowadzić SS oparty na DLT albo TSS oparty na DLT na zasadach określonych rozporządzeniu 2022/858.
+
+3. Firma inwestycyjna może, na zasadach określonych rozporządzeniu 2022/858, prowadzić ASO oparte na DLT albo TSS oparty na DLT. Art. 131zb. 1. Podmiot, o którym mowa art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858, występujący o specjalne zezwolenie, o którym mowa tych przepisach, wraz z wnioskiem o jego udzielenie składa do Komisji wniosek o udzielenie zezwolenia na prowadzenie odpowiednio działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych rozumieniu rozporządzenia 909/2014.
+
+2. Komisja, odmawiając udzielenia zezwolenia na prowadzenie działalności maklerskiej, rynku regulowanego albo centralnego depozytu papierów wartościowych rozumieniu rozporządzenia 909/2014, odmawia udzielenia specjalnego zezwolenia, o którym mowa art. 8 ust. 2, art. 9 ust. 2 lub art. 10 ust. 2 rozporządzenia 2022/858. Art. 131zc. 1. Podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT może wydawać pieniądz elektroniczny rozumieniu ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych (Dz. U. z 2024 r. poz. 30) dla celów rozrachunku środkach pieniężnych dokonywanego związku z transakcjami zawieranymi na ASO opartym na DLT albo TSS opartym na DLT, zakresie instrumentów finansowych obsługiwanych przez DLT, zarejestrowanych prowadzonym przez ten podmiot SS opartym na DLT albo TSS opartym na DLT.
+
+2. Do podmiotów, o których mowa ust. 1, stosuje się przepisy działu IIIa ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych. Art. 131zd. 1. W celu zapewnienia przestrzegania przez podmiot prowadzący ASO oparty na DLT, TSS oparty na DLT albo SS oparty na DLT przepisów rozporządzenia 2022/858 Komisja może zalecić zaprzestanie wyznaczonym terminie działania naruszającego te przepisy lub niepodejmowanie takiego działania przyszłości. Art. 131ze. 1. W przypadku gdy do wykonania strategii przejścia, o której mowa art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja akcji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, imieniu emitenta, umowy o rejestrację tych akcji depozycie papierów wartościowych z Krajowym Depozytem albo innym centralnym depozytem papierów wartościowych wskazanym strategii przejścia zgodnie z art. 7 ust. 9 rozporządzenia 2022/858 oraz wykonania, imieniu emitenta, czynności związanych z tą rejestracją. przejścia odmówi zawarcia umowy o rejestrację akcji depozycie papierów wartościowych, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, imieniu emitenta, umowy o prowadzenie rejestru akcjonariuszy oraz wykonania imieniu emitenta czynności związanych z tą rejestracją. Przepisu art. 328 § 5 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych nie stosuje się.
+
+3. W przypadku gdy do wykonania strategii przejścia, o której mowa art. 7 ust. 7 rozporządzenia 2022/858, jest niezbędna dematerializacja obligacji będących instrumentami finansowymi obsługiwanymi przez DLT, zarejestrowanymi SS opartym na DLT albo TSS opartym na DLT, podmiot prowadzący SS oparty na DLT albo TSS oparty na DLT jest uprawniony do zawarcia, imieniu emitenta, umowy o wykonywanie funkcji agenta emisji, o której mowa art. 7a ust. 1, depozycie papierów wartościowych oraz do wykonania, imieniu emitenta, czynności związanych z zawarciem tej umowy. Przepisu art. 7a ust. 2 nie stosuje się. Art. 131zf. 1. W przypadku gdy wykonaniu strategii przejścia, o której mowa art. 7 ust. 7 rozporządzenia 2022/858, instrumenty finansowe obsługiwane przez DLT, wprowadzone do obrotu ASO opartym na DLT, mają zostać wprowadzone do obrotu ASO wskazanym strategii przejścia, podmiot prowadzący ASO oparty na DLT albo TSS oparty na DLT jest uprawniony do złożenia imieniu emitenta wniosku o wprowadzenie tych instrumentów do obrotu ASO wskazanym strategii przejścia oraz wykonywania imieniu i na rzecz emitenta czynności dotyczących tego wniosku.
+
+2. W przypadku, o którym mowa ust. 1, podmiot prowadzący ASO może zgłosić sprzeciw wobec wprowadzenia instrumentów finansowych do prowadzonego przez niego ASO, jeżeli uzna, że wprowadzenie instrumentów finansowych do obrotu zagrażałoby bezpieczeństwu obrotu lub interesowi jego uczestników, nie później niż terminie 3 miesięcy od dnia złożenia wniosku o wprowadzenie instrumentów finansowych do obrotu ASO.
+
+3. Podmiot prowadzący ASO wskazany strategii przejścia, o której mowa art. 7 ust. 7 rozporządzenia 2022/858, może, przed upływem terminu, o którym mowa ust. 2, zrezygnować z prawa sprzeciwu, o którym mowa ust. 2, wskazując dzień, którym rezygnacja dochodzi do skutku.
+
+4. Wprowadzenie instrumentów finansowych obsługiwanych przez DLT do obrotu ASO, wskazane strategii przejścia, o której mowa art. 7 ust. 7 rozporządzenia 2022/858, następuje drugim dniu roboczym następującym odpowiednio:
+
+- **1)** po upływie terminu na zgłoszenie sprzeciwu, o którym mowa ust. 2, albo
+- **2)** po dniu, którym dochodzi do skutku rezygnacja z prawa sprzeciwu, o którym mowa ust. 2.
+
+5. W przypadku zgłoszenia sprzeciwu, o którym mowa ust. 2, do emitenta akcji notowanych dotychczas ASO opartym na DLT i jego akcjonariuszy stosuje się odpowiednio przepis art. 83a ustawy o ofercie publicznej.
+
+### DZIAŁ V Zabezpieczanie interesów inwestorów.
+
+**Art. 132.**
+
+1. W rozumieniu przepisów niniejszego działu:
+
+- **1)** za inwestora uważa się osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, na rzecz której dom maklerski świadczy jedną z usług zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, z wyłączeniem:
+    - **a)** Skarbu Państwa,
+    - **b)** Narodowego Banku Polskiego, banków z siedzibą na terytorium Rzeczypospolitej Polskiej oraz banków zagranicznych, ba) Zakładu Ubezpieczeń Społecznych i zarządzanych przez niego funduszy tworzących lub wspierających system zabezpieczenia społecznego,
+    - **c)** firm inwestycyjnych, ca) banku państwowego prowadzącego działalność maklerską,
+    - **d)** spółek prowadzących rynek regulowany,
+    - **e)** Krajowego Depozytu oraz spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2,
+    - **f)** podmiotów działających na podstawie ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej,
+    - **h)** podmiotów działających na podstawie ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
+    - **i)** spółek prowadzących giełdy towarowe, spółek prowadzących giełdowe izby rozrachunkowe, towarowych domów maklerskich, zagranicznych osób prawnych prowadzących działalność maklerską zakresie obrotu towarami giełdowymi, działających na podstawie ustawy z dnia 26 października 2000 r. o giełdach towarowych,
+    - **j)** spółek prowadzących izbę rozliczeniową lub izbę rozrachunkową,
+    - **k)** gmin, związków gmin, powiatów, związków powiatów, związków powiatowo-gminnych, związków metropolitalnych i województw,
+    - **l)** państw i ich jednostek terytorialnych posiadających osobowość prawną,
+    - **m)** podmiotów wchodzących skład tej samej co dom maklerski grupy kapitałowej, ma) podmiotów, o których mowa art. 8a ust. 2,
+    - **n)** osób, które dniu zaistnienia jednej z okoliczności, o której mowa art. 133 ust. 2, lub okresie 6 miesięcy poprzedzających zaistnienie jednej z takich okoliczności, posiadały 5 % lub więcej ogólnej liczby głosów lub kapitału zakładowego domu maklerskiego, oraz osób, które tym czasie były podmiotami dominującymi lub zależnymi wobec domu maklerskiego,
+    - **o)** członków zarządu, rady nadzorczej, komisji rewizyjnej domu maklerskiego oraz osób pełniących domu maklerskim funkcje dyrektorów i zastępców dyrektorów departamentów, jak również dyrektorów i zastępców dyrektorów oddziałów domu maklerskiego, przypadku gdy osoby te pełniły swoje funkcje dniu zaistnienia jednej z okoliczności, o której mowa art. 133 ust. 2, bądź okresie bieżącego lub poprzedniego roku obrotowego,
+    - **p)** osób odpowiedzialnych za badanie sprawozdań finansowych domu maklerskiego, osób zajmujących stanowisko głównego księgowego domu maklerskim oraz osób odpowiedzialnych za sporządzanie i prowadzenie dokumentacji księgowej domu maklerskiego, przypadku gdy osoby te pełniły swoje funkcje dniu zaistnienia jednej z okoliczności, o której mowa art. 133 ust. 2, bądź okresie bieżącego lub poprzedniego roku obrotowego,
+    - **r)** członków zarządu i rady nadzorczej, osób posiadających 5 % lub więcej ogólnej liczby głosów lub kapitału zakładowego podmiotu dominującego lub zależnego stosunku do domu maklerskiego,
+    - **s)** małżonka, wstępnych, zstępnych, rodzeństwa oraz powinowatych do pierwszego stopnia osób, o których mowa lit. n–r,
+    - **t)** inwestorów, stosunku do których ustalono postępowaniu zakończonym prawomocnym orzeczeniem sądu, że wskutek niewywiązywania się ze swoich zobowiązań wobec domu maklerskiego przyczynili się do zaistnienia jednej z okoliczności, o której mowa art. 133 ust. 2;
+
+- **2)** za środki pieniężne inwestorów uważa się środki pieniężne zapisane na rachunkach pieniężnych oraz inne środki pieniężne należne inwestorom od domu maklerskiego z tytułu świadczonych na ich rzecz usług zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, z wyłączeniem należności przedawnionych;
+- **3)** za dom maklerski uważa się dom maklerski, bank prowadzący działalność maklerską, bank państwowy prowadzący działalność maklerską albo bank powierniczy;
+- **4)** przez zarząd domu maklerskiego rozumie się również komplementariuszy domu maklerskiego, o którym mowa art. 95 ust. 1 pkt 2 i 4, albo osoby uprawnione do reprezentowania domu maklerskiego, o którym mowa art. 95 ust. 1 pkt 5 i 6;
+- **5)** przez osoby posiadające udział kapitale zakładowym domu maklerskiego rozumie się również odpowiednio wspólników wnoszących wkład do domu maklerskiego, o którym mowa art. 95 ust. 1 pkt 4–6.
+
+2. Przepisy niniejszego działu stosuje się odpowiednio do oddziałów zagranicznych osób prawnych, o których mowa art. 115 ust. 1, o ile nie są uczestnikami systemu rekompensat obowiązującego państwie ich siedziby lub system rekompensat państwie siedziby nie zapewnia odszkodowań wysokości określonej ustawie.
+
+3. W przypadku banków powierniczych system rekompensat obejmuje papiery wartościowe i inne instrumenty finansowe będące przedmiotem obrotu na rynku zorganizowanym zapisane na rachunkach papierów wartościowych i rachunkach derywatów prowadzonych przez te banki. wypłaty inwestorom rekompensat, pochodzących z wpłat, o których mowa art. 137 ust. 1 i 5.
+
+2. Celem systemu rekompensat jest zapewnienie inwestorom wypłat do wysokości określonej ustawą, środków pieniężnych oraz zrekompensowanie wartości utraconych instrumentów finansowych, zgromadzonych przez nich domach maklerskich, tym ich oddziałach poza terytorium Rzeczypospolitej Polskiej, z tytułu świadczonych na ich rzecz usług, zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, przypadku:
+
+- **1)** ogłoszenia upadłości lub otwarcia postępowania restrukturyzacyjnego domu maklerskiego lub
+- **2)** prawomocnego oddalenia wniosku o ogłoszenie upadłości ze względu na to, że majątek tego domu maklerskiego nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania, lub
+- **3)** stwierdzenia przez Komisję, że dom maklerski nie jest stanie, z powodów ściśle związanych z sytuacją finansową, wykonać ciążących na nim zobowiązań wynikających z roszczeń inwestorów i nie jest możliwe ich wykonanie najbliższym czasie.
+
+2a. Umorzenie postępowania upadłościowego domu maklerskiego nie wstrzymuje dokonywania czynności mających na celu wypłatę rekompensat inwestorom.
+
+3. Koszty prowadzenia przez Krajowy Depozyt systemu rekompensat, opłaty należne z tytułu zarządzania systemem rekompensat oraz koszty wypłaty rekompensat, przypadku, o którym mowa art. 145 ust. 1a, są pokrywane z aktywów tego systemu.
+
+4. Wypłaty z systemu rekompensat nie obejmują utraconych instrumentów finansowych, zapisanych:
+
+- **1)** ewidencjach lub rejestrach prowadzonych na podstawie art. 7a ust. 4 pkt 4 i art. 7aa ust. 2 pkt 2 oraz na podstawie art. 300 i art. 328 ustawy z dnia 15 września 2000 r. ‒ Kodeks spółek handlowych, a także art. 8 ust. 1 ustawy z dnia 15 stycznia 2015 r. o obligacjach (w brzmieniu z dnia 30 czerwca 2019 r., Dz. U. z 2018 r. poz. 2243);
+- **2)** na rachunkach DLT albo ewidencji DLT, o której mowa art. 131u ust. 1.
+
+**Art. 134.**
+
+1. Rada nadzorcza Krajowego Depozytu, na wniosek zarządu, uchwala regulamin funkcjonowania systemu rekompensat. Regulamin oraz jego zmiany wymagają zatwierdzenia przez Komisję. Komisja odmawia zatwierdzenia regulaminu lub jego zmian, jeżeli jego treść lub proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo zarządzania systemem rekompensat lub wypłat rekompensat z tego systemu.
+
+2. Regulamin, o którym mowa ust. 1, określa szczegółowy sposób funkcjonowania systemu rekompensat, a szczególności:
+
+- **1)** sposób gospodarowania aktywami systemu rekompensat;
+- **2)** sposób zapewnienia wykonywania obowiązków przez podmioty objęte systemem rekompensat;
+- **3)** sposób i tryb wnoszenia wpłat do systemu rekompensat przez podmioty objęte tym systemem;
+- **4)** warunki i tryb dokonywania zwrotu domom maklerskim nadwyżki wniesionych rocznych wpłat, o której mowa art. 137 ust. 20;
+- **5)** tryb dokonywania wypłat inwestorom;
+- **6)** sposób dokonywania rozliczeń z podmiotem objętym systemem rekompensat przypadku zwolnienia z uczestnictwa tego podmiotu systemie rekompensat oraz okres, po zwolnieniu uczestnictwa podmiotu systemie rekompensat, ciągu którego ujawnienie się okoliczności stanowiących podstawę dokonania wypłat rekompensat powoduje brak zwrotu podmiotowi jego udziału systemie;
+- **7)** wysokość opłat należnych z tytułu wykonywania przez Krajowy Depozyt obowiązków wynikających z funkcjonowania systemu rekompensat oraz sposób dokonywania z podmiotami objętymi systemem rekompensat rozliczeń kosztów poniesionych związku z funkcjonowaniem tego systemu;
+- **8)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec podmiotów objętych systemem rekompensat naruszających obowiązki wynikające z uczestnictwa systemie rekompensat, zasady i tryb ich stosowania oraz tryb informowania Komisji o naruszaniu obowiązków wynikających z uczestnictwa tym systemie. wadzenie działalności maklerskiej obejmującej świadczenie co najmniej jednej z usług zakresie czynności, o których mowa art. 69 ust. 2 lub ust. 4 pkt 1.
+
+2. Bank powierniczy staje się uczestnikiem systemu rekompensat z chwilą udzielenia mu zezwolenia na prowadzenie rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych.
+
+3. Bank prowadzący działalność maklerską staje się uczestnikiem systemu rekompensat z chwilą udzielenia mu zezwolenia, o którym mowa art. 34 ust. 1 i art. 36 ust. 1 albo art. 34 ust. 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, obejmującego świadczenie co najmniej jednej z usług zakresie czynności, o których mowa art. 69 ust. 2 lub ust. 4 pkt 1.
+
+4. Bank państwowy prowadzący działalność maklerską staje się uczestnikiem systemu rekompensat z chwilą udzielenia mu zezwolenia, o którym mowa art. 111a ust. 1, obejmującego świadczenie co najmniej jednej z usług zakresie czynności, o których mowa art. 69 ust. 2 lub ust. 4 pkt 1.
+
+**Art. 135a.**
+
+- **198)** 1. Dom maklerski jest zwolniony z uczestnictwa systemie rekompensat z chwilą:
+- **1)** zaprzestania działalności, określonej decyzji o cofnięciu lub uchyleniu zezwolenia, o którym mowa art. 69 ust. 1;
+- **2)** wygaśnięcia zezwolenia.
+
+2. Bank powierniczy jest zwolniony z uczestnictwa systemie rekompensat z chwilą wydania decyzji o cofnięciu lub uchyleniu zezwolenia na prowadzenie rachunków papierów wartościowych, rachunków derywatów i rachunków zbiorczych przez bank.
+
+3. Bank prowadzący działalność maklerską jest zwolniony z uczestnictwa systemie rekompensat:
+
+- **1)** z chwilą zaprzestania działalności zakresie czynności, o których mowa art. 69 ust. 2 lub ust. 4 pkt 1, związku z decyzją o uchyleniu zezwolenia, o którym mowa art. 34 ust. 1, lub decyzją o zawieszeniu działalności banku, lub decyzją ograniczającą zakres działalności banku, o której mowa art. 138 ust. 7aa pkt 5 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
+- **2)** przypadku, o którym mowa art. 34 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+
+4. Bank państwowy prowadzący działalność maklerską jest zwolniony z uczestnictwa systemie rekompensat z chwilą:
+
+- **1)** wydania decyzji o cofnięciu zezwolenia, o którym mowa art. 111a ust. 1;
+- **2)** wygaśnięcia zezwolenia przypadku, o którym mowa art. 89 ust. 1 pkt 4, albo cofnięcia zezwolenia przypadku, o którym mowa art. 89 ust. 1b.
+
+**Art. 136.**
+
+1. W przypadku gdy system rekompensat obowiązujący państwie siedziby zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału nie zapewnia rekompensat wysokości lub zakresie określonym ustawie, oddział zagranicznej firmy inwestycyjnej może, celu zagwarantowania inwestorom wypłat rekompensat do wysokości lub zakresu określonego ustawie, złożyć do Krajowego Depozytu wniosek o przystąpienie do systemu rekompensat. Złożenie przez oddział zagranicznej firmy inwestycyjnej wniosku jest równoznaczne z jego uczestnictwem tym systemie.
+
+2. Roczna wpłata, o której mowa art. 137 ust. 1, dokonana przez oddział zagranicznej firmy inwestycyjnej ma na celu uzupełnienie poziomu rekompensat zapewnianego przez system rekompensat obowiązujący państwie jej siedziby do wysokości lub zakresu rekompensat zapewnianego przez system rekompensat.
+
+3. W przypadku gdy oddział zagranicznej firmy inwestycyjnej nie wykonuje bądź nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat, Krajowy Depozyt niezwłocznie informuje o tym Komisję. Komisja przekazuje właściwemu organowi nadzoru, który udzielił zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, informacje otrzymane od Krajowego Depozytu, wskazując jednocześnie termin wykluczenia oddziału zagranicznej firmy inwestycyjnej z systemu rekompensat, nie dłuższy niż 12 miesięcy od dnia przekazania informacji.
+
+4. Krajowy Depozyt współpracuje z organem nadzoru, o którym mowa ust. 3, przy podejmowaniu przez ten organ środków mających na celu zapewnienie przez oddział zagranicznej firmy inwestycyjnej należytego wykonania obowiązków wynikających z uczestnictwa systemie rekompensat. oddział zagranicznej firmy inwestycyjnej nie wykonuje lub nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat, Krajowy Depozyt może, za zgodą organu nadzoru, o którym mowa ust. 3, wykluczyć oddział zagranicznej firmy inwestycyjnej z systemu rekompensat.
+
+6. Udział oddziału zagranicznej firmy inwestycyjnej systemie rekompensat nie ulega zwrotowi przypadku wykluczenia z systemu, jeżeli okresie wskazanym regulaminie, o którym mowa art. 134 ust. 1, przypadającym po tym wykluczeniu ujawnią się okoliczności stanowiące podstawę dokonania wypłat rekompensat inwestorom będącym klientami tego oddziału.
+
+7. System rekompensat zapewnia inwestorom wypłatę rekompensat z tytułu usług świadczonych na ich rzecz zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, przez zagraniczną firmę inwestycyjną ramach jej oddziału na terytorium Rzeczypospolitej Polskiej przed dniem jego wykluczenia z systemu.
+
+8. Oddział zagranicznej firmy inwestycyjnej informuje niezwłocznie klientów o wykluczeniu z systemu rekompensat, wskazując szczególności datę wykluczenia.
+
+9. W przypadku, o którym mowa ust. 1, Krajowy Depozyt określa zasady i tryb wypłaty rekompensat dla inwestorów z tytułu usług świadczonych na ich rzecz zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, przez zagraniczną firmę inwestycyjną prowadzącą działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału.
+
+10. Zasady i tryb, o których mowa ust. 9, są ustalane porozumieniu z podmiotem zarządzającym systemem rekompensat obowiązującym państwie siedziby zagranicznej firmy inwestycyjnej.
+
+11. Zasady i tryb, o których mowa ust. 9, powinny szczególności zapewniać:
+
+- **1)** możliwość żądania przez Krajowy Depozyt przekazania przez zagraniczną firmę inwestycyjną informacji niezbędnych do prawidłowego wykonywania obowiązków wynikających z uczestnictwa systemie rekompensat oraz możliwość wystąpienia do właściwego organu nadzoru państwie siedziby tej zagranicznej firmy inwestycyjnej o weryfikację tych informacji;
+- **2)** wypłatę rekompensat wysokości różnicy między wysokością rekompensat przysługujących inwestorom a wysokością rekompensat wypłacanych przez system obowiązujący państwie siedziby danej zagranicznej firmy inwestycyjnej, po otrzymaniu informacji od właściwego organu nadzoru państwie siedziby danej zagranicznej firmy inwestycyjnej dotyczącej zdarzeń, o których mowa art. 133 ust. 2;
+- **3)** prawo weryfikacji przez Krajowy Depozyt praw przysługujących inwestorom, na rzecz których świadczone są usługi przez zagraniczną firmę inwestycyjną ramach jej oddziału na terytorium Rzeczypospolitej Polskiej;
+- **4)** ścisłą współpracę między Krajowym Depozytem a podmiotem zarządzającym systemem rekompensat państwie siedziby zagranicznej firmy inwestycyjnej celu zapewnienia inwestorom sprawnej wypłaty rekompensat przysługującej im wysokości.
+
+12. Zasady i tryb, o których mowa ust. 9, powinny przewidywać sposób ustalania wysokości rekompensat przysługujących z poszczególnych systemów rekompensat inwestorom posiadającym roszczenie wzajemne wobec zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału.
+
+13. W zakresie nieuregulowanym przepisami ust. 1–12, do uczestnictwa oddziału zagranicznej firmy inwestycyjnej systemie rekompensat, przepisy niniejszego działu stosuje się odpowiednio.
+
+**Art. 137.**
+
+1. Domy maklerskie, z zastrzeżeniem ust. 5 oraz ust. 18–20, wnoszą do systemu rekompensat każdym roku kalendarzowym obowiązkowe roczne wpłaty, zwane dalej „rocznymi wpłatami”, wysokości sumy iloczynów:
+
+- **1)** stawki nie wyższej niż 0,4 % oraz średniego stanu środków pieniężnych inwestorów;
+- **2)** stawki nie wyższej niż 0,01 % oraz średniej wartości instrumentów finansowych, z ostatnich 12 miesięcy, posiadanych przez inwestorów lub rejestrowanych na rachunkach zbiorczych.
+
+2. Przez wartość instrumentów finansowych posiadanych przez inwestorów lub rejestrowanych na rachunkach zbiorczych rozumie się cenę bieżącą, ustaloną zgodnie z zasadami zawartymi przepisach określających szczególne zasady rachunkowości domów maklerskich.
+
+3. Przez średni stan środków pieniężnych inwestorów rozumie się stosunek sumy stanu środków pieniężnych inwestorów na poszczególne dni robocze ciągu 12 miesięcy do liczby dni roboczych przypadających tym okresie.
+
+4. Przez średnią wartość instrumentów finansowych posiadanych przez inwestorów lub rejestrowanych na rachunkach zbiorczych rozumie się stosunek sumy wartości instrumentów finansowych posiadanych przez inwestorów lub rejestrowanych na rachunkach zbiorczych, na poszczególne dni robocze ciągu 12 miesięcy, do liczby dni roboczych przypadających tym okresie. wysokości iloczynu stawki, o której mowa ust. 1 pkt 2, oraz, obliczanej zgodnie z zasadami określonymi ust. 2 i 4, średniej wartości instrumentów finansowych będących przedmiotem obrotu na rynku zorganizowanym, z ostatnich 12 miesięcy, zapisanych na rachunkach inwestorów lub rejestrowanych na rachunkach zbiorczych.
+
+6. Do celów obliczenia średniego stanu środków pieniężnych, o którym mowa ust. 3, oraz średniej wartości, o której mowa ust. 4 i 5, nie stosuje się wyłączenia, o którym mowa art. 132 ust. 1 pkt 1 lit. t.
+
+7. Wysokość stawek, o których mowa ust. 1, na kolejny rok kalendarzowy określa i przekazuje domom maklerskim Krajowy Depozyt, nie później niż do końca roku kalendarzowego poprzedzającego rok, którym wpłata ma być wniesiona.
+
+8. Domy maklerskie wnoszą roczne wpłaty czterech ratach, terminie do ostatniego dnia roboczego miesiąca kończącego każdy kwartał kalendarzowy, z tym że raty za pierwszy oraz drugi kwartał są równe i wnoszone wysokości określonej zgodnie z ust. 1 i 5, zaś raty za trzeci oraz czwarty kwartał są równe i wnoszone wysokości określonej zgodnie z ust. 1 i 5 według średniego stanu środków pieniężnych inwestorów oraz średniej wartości instrumentów finansowych posiadanych przez inwestorów lub rejestrowanych na rachunkach zbiorczych, z drugiego półrocza poprzedniego roku kalendarzowego oraz pierwszego półrocza roku kalendarzowego, którym wpłaty są wnoszone.
+
+9. W przypadku gdy suma roszczeń inwestorów z tytułu rekompensat przekroczy wysokość środków zgromadzonych systemie rekompensat, wartość należnych, a jeszcze niewpłaconych rat na poczet rocznych wpłat za dany rok kalendarzowy jest wnoszona terminie 7 dni od dnia wezwania domów maklerskich do ich wniesienia przez Krajowy Depozyt.
+
+10. W przypadku gdy suma roszczeń inwestorów z tytułu rekompensat przekroczy wysokość środków zgromadzonych systemie rekompensat i należnych, a jeszcze niewpłaconych rat na poczet rocznych wpłat za dany rok kalendarzowy, kwota rocznych wpłat, które powinny zostać wpłacone do systemu tym roku kalendarzowym, może zostać podwyższona przez zastosowanie stawki nie wyższej jednak niż 1,8 %.
+
+11. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji i Krajowego Depozytu, dokonuje, drodze rozporządzenia, podwyższenia, o którym mowa ust. 10, oraz określa termin jego płatności, z uwzględnieniem konieczności zapewnienia realizacji roszczeń inwestorów.
+
+12. W przypadku opóźnienia dokonaniu wpłaty którejkolwiek z rat, o których mowa ust. 8 i 9, lub kwoty określonej ust. 11, Krajowemu Depozytowi przysługuje roszczenie o zapłatę do systemu rekompensat odsetek wysokości odsetek pobieranych od zaległości podatkowych. Wyciągi z ksiąg Krajowego Depozytu, podpisane przez upoważnionych członków zarządu Krajowego Depozytu, stwierdzające istnienie zobowiązania podmiotu objętego systemem rekompensat i zawierające oświadczenie, że oparte na nich roszczenia są wymagalne, mają moc tytułów wykonawczych bez potrzeby uzyskiwania dla nich klauzul wykonalności.
+
+12a. W każdym roku kalendarzowym, najpóźniej do dnia upływu terminu do wniesienia pierwszej raty wpłat rocznych za ten rok, Krajowy Depozyt informuje Komisję o domach maklerskich, obowiązanych do wniesienia wpłat rocznych, o których mowa ust. 1, oraz o ich wysokości.
+
+13. W przypadku stwierdzenia, że dom maklerski nie wykonuje bądź nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat, Krajowy Depozyt niezwłocznie informuje o tym Komisję. Wobec domu maklerskiego, który nie wykonuje bądź nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat, Komisja podejmuje środki, o których mowa art. 167 ust. 1 lub 2.
+
+14. W przypadku gdy oddział domu maklerskiego prowadzący działalność innym państwie członkowskim nie wykonuje bądź nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat, do którego przystąpił, Komisja po otrzymaniu od podmiotu zarządzającego tym systemem informacji o zaistnieniu tych okoliczności współpracuje z tym podmiotem oraz podejmuje środki, o których mowa art. 167 ust. 1 lub 2, związku z nienależytym wykonywaniem przez oddział domu maklerskiego obowiązków wynikających z uczestnictwa tym systemie.
+
+15. W przypadku gdy od poinformowania Komisji przez właściwy podmiot zarządzający systemem rekompensat innym państwie członkowskim upłynęło co najmniej 12 miesięcy i pomimo podjęcia środków, o których mowa art. 167 ust. 1 i 2, oddział domu maklerskiego nie wykonuje lub nienależycie wykonuje obowiązki wynikające z uczestnictwa systemie rekompensat innego państwa członkowskiego, Komisja może, sytuacji gdy wystąpi o to podmiot zarządzający systemem rekompensat tego innego państwa członkowskiego, udzielić zgody na wykluczenie oddziału domu maklerskiego z tego systemu.
+
+16. Oddział domu maklerskiego informuje niezwłocznie klientów o wykluczeniu z systemu rekompensat innego państwa członkowskiego, wskazując szczególności datę wykluczenia.
+
+17. Komisja informuje właściwy podmiot zarządzający systemem rekompensat innym państwie członkowskim, do którego przystąpił oddział domu maklerskiego, o zaistnieniu jednej z okoliczności, o której mowa art. 133 ust. 2. padku gdy dotychczasowe wpłaty domu maklerskiego do systemu osiągną wysokość określoną zgodnie z ust. 19. Nie wyłącza to obowiązku dokonania przez dom maklerski wpłaty do systemu związku z podwyższeniem stawek, o którym mowa ust. 10.
+
+19. Wysokość środków powodującą zawieszenie wpłat domu maklerskiego do systemu rekompensat ustala się odpowiednio, zgodnie z zasadami obliczania wysokości rocznych wpłat, poprzez zastosowanie dziesięciokrotności stawki, o której mowa w:
+
+- **1)** ust. 1 pkt 1, odniesieniu do środków pieniężnych inwestorów;
+- **2)** ust. 1 pkt 2, odniesieniu do instrumentów finansowych inwestorów lub rejestrowanych na rachunkach zbiorczych.
+
+20. W przypadku przekroczenia wysokości środków, o której mowa ust. 19, Krajowy Depozyt zwraca domowi maklerskiemu nadwyżkę wniesionych wpłat. Zwrotu nadwyżki nie dokonuje się, przypadku gdy nadwyżka ta jest skutkiem zaprzestania prowadzenia przez dom maklerski działalności, z którą wiąże się obowiązek wnoszenia wpłat do systemu.
+
+21. Przepisów ust. 18–20 nie stosuje się przypadku, gdy z systemu rekompensat dokonano wypłat na rzecz inwestorów do czasu, gdy wartość aktywów systemu rekompensat osiągnie poziom wymagany przepisami prawa.
+
+**Art. 138.**
+
+1. Środki wniesione przez domy maklerskie tytułem rocznych wpłat i odsetki, o których mowa art. 137 ust. 12, a także pożytki uzyskane z tytułu zarządzania tymi środkami, stanowią współwłasność łączną uczestników systemu.
+
+1a. W przypadku zwolnienia z uczestnictwa systemie rekompensat, podmiotowi jest zwracany udział we współwłasności wysokości, która przysługiwałaby temu podmiotowi przypadku jej ustania. Udział jest zwracany, pod warunkiem że:
+
+- **1)** do dnia zwolnienia tego podmiotu z uczestnictwa systemie rekompensat nie nastąpiły okoliczności, o których mowa art. 133 ust. 2, dotyczące któregokolwiek uczestnika systemu rekompensat, oraz
+- **2)** okresie wskazanym regulaminie funkcjonowania systemu rekompensat nie ujawnią się okoliczności stanowiące podstawę dokonania wypłat rekompensat inwestorom będącym klientami tego podmiotu.
+
+1b. W przypadku gdy którykolwiek z warunków, o których mowa ust. 1a, nie został spełniony, udział podmiotu zwolnionego z uczestnictwa systemie rekompensat może zostać zwrócony jedynie takim zakresie, jakim nie podlega on wykorzystaniu na cele związane z wypłatą rekompensat.
+
+2. W związku z uczestnictwem systemie rekompensat domy maklerskie tworzą, ciężar kosztów, rezerwy do wysokości wpłat wniesionych do systemu. W przypadku zwrotu nadwyżki wniesionych wpłat dom maklerski zmniejsza utworzoną rezerwę o wysokość nadwyżki.
+
+3. Środki wniesione przez dom maklerski tytułem rocznych wpłat, odsetki, o których mowa art. 137 ust. 12, a także pożytki uzyskane z tytułu zarządzania tymi środkami, nie podlegają egzekucji prowadzonej z majątku uczestnika systemu.
+
+**Art. 139.**
+
+1. System rekompensat zabezpiecza wypłatę środków inwestorów, o których mowa art. 133 ust. 2, pomniejszonych o należności domu maklerskiego od inwestora z tytułu świadczonych usług, według stanu z dnia zaistnienia jednej z okoliczności, o której mowa art. 133 ust. 2, do wysokości równowartości złotych 3000 euro 100 % wartości środków objętych systemem rekompensat, oraz 90 % nadwyżki ponad tę kwotę, z tym że górna granica środków objętych systemem rekompensat wynosi równowartość złotych 22 000 euro, z zastrzeżeniem ust. 2.
+
+2. Górna granica środków objętych systemem rekompensat wynosi:
+
+- **1)** równowartość złotych 15 000 euro od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r.;
+- **2)** równowartość złotych 19 000 euro od dnia 1 stycznia 2007 r. do dnia 31 grudnia 2007 r.
+
+3. Do obliczenia wartości euro złotych przyjmuje się kurs średni Narodowego Banku Polskiego, zgodnie z ogłaszaną tabelą kursową, z dnia zaistnienia okoliczności stanowiącej podstawę do wypłat rekompensat.
+
+4. Kwoty, o których mowa ust. 1 i 2, określają maksymalną wysokość roszczeń inwestora niezależnie od tego, jakiej wysokości i na ilu rachunkach posiadał środki, o których mowa art. 133 ust. 2, lub z ilu wierzytelności przysługują mu należności danym domu maklerskim.
+
+5. Rekompensata wypłacana na rzecz współwłaścicieli instrumentów finansowych lub środków pieniężnych nie może przekroczyć kwoty ustalonej zgodnie z ust. 1 i 2. Każdemu ze współwłaścicieli przysługuje prawo do otrzymania takiej części tej kwoty, która odpowiada wysokości jego udziału we współwłasności. W przypadku współwłasności łącznej wysokość udziału określają przepisy odnoszące się do tej współwłasności przypadku jej ustania.
+
+6. Rekompensaty są płatne według terminarza wypłat nie później jednak niż terminie 3 miesięcy od dnia zatwierdzenia tego terminarza przez Krajowy Depozyt. nie 3 miesięcy, Komisja może, na wniosek Krajowego Depozytu, przedłużyć termin wypłat, nie dłużej jednak niż o kolejne 3 miesiące.
+
+8. Krajowy Depozyt składa wniosek, o którym mowa ust. 7, nie później niż na 14 dni przed upływem terminu wypłat rekompensat.
+
+9. Roszczenia z tytułu rekompensaty przedawniają się z upływem 5 lat od dnia zaistnienia okoliczności stanowiącej podstawę do wypłat rekompensat.
+
+10. Inwestor zachowuje prawo do dochodzenia od masy upadłości, masy sanacyjnej lub domu maklerskiego swoich roszczeń ponad kwotę określoną ust. 1 i 2.
+
+**Art. 140.**
+
+1. Syndyk lub zarządca jest obowiązany niezwłocznie, lecz nie później niż terminie 6 miesięcy od dnia ogłoszenia upadłości domu maklerskiego albo otwarcia wobec niego postępowania restrukturyzacyjnego, ustalić i przedstawić formie pisemnej Krajowemu Depozytowi:
+
+- **1)** sporządzoną według wzoru określonego przez Krajowy Depozyt, listę inwestorów uprawnionych do otrzymania rekompensat, z wyszczególnieniem okoliczności stanowiących podstawę do uznania klientów domu maklerskiego za inwestorów, kwot środków pieniężnych oraz wartości instrumentów finansowych inwestorów, za które przysługuje rekompensata, oraz wyliczonych kwot rekompensat należnych poszczególnym inwestorom wraz ze wskazaniem sposobu ich wyliczenia;
+- **2)** kwotę płynnych środków domu maklerskiego wchodzących skład masy upadłości, masy układowej albo masy sanacyjnej według stanu na dzień ogłoszenia upadłości albo otwarcia postępowania restrukturyzacyjnego;
+- **3)** wysokość wydatków związanych z wypłatą wynagrodzeń pracownikom upadłego albo restrukturyzowanego domu maklerskiego i wysokość bieżących wydatków związanych z kosztami postępowania upadłościowego albo restrukturyzacyjnego, poniesionych do dnia sporządzenia listy inwestorów, powiększoną o wysokość niezbędnych wydatków związanych z wypłatą rekompensat, wraz z aktualną wysokością środków płynnych domu maklerskiego znajdujących się dyspozycji syndyka lub zarządcy;
+- **4)** terminarz wypłat.
+
+1a. Ustalenia informacji, o których mowa ust. 1, syndyk lub zarządca dokonuje na podstawie ksiąg domu maklerskiego, z zastrzeżeniem ust. 1b.
+
+1b. Ustalenia okoliczności stanowiących podstawę do uznania klientów domu maklerskiego za inwestorów uprawnionych do otrzymania rekompensaty syndyk lub zarządca dokonuje również na podstawie danych zawartych we właściwych rejestrach lub innych danych urzędowych, a zakresie ustalenia osób, o których mowa art. 132 ust. 1 pkt 1 lit. s, także na podstawie stosownych oświadczeń odebranych od klientów domu maklerskiego.
+
+2. Krajowy Depozyt terminie 30 dni sprawdza przedstawioną przez syndyka lub zarządcę listę inwestorów pod względem zgodności z wymaganiami określonymi ust. 1 pkt 1, wyliczenie kwot rekompensat pod względem zgodności z ustawą oraz terminarz wypłat, o którym mowa ust. 1 pkt 4.
+
+3. W przypadku powstania uzasadnionych wątpliwości co do podanej przez syndyka lub zarządcę wysokości wydatków określonych ust. 1 pkt 3, Krajowy Depozyt zwraca się do sędziego-komisarza o zatwierdzenie wydatków trybie art. 168 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe albo art. 32 ustawy z dnia 15 maja 2015 r. Prawo restrukturyzacyjne, co nie wstrzymuje powzięcia przez Krajowy Depozyt uchwały o przekazaniu kwot na wypłatę rekompensat.
+
+4. Jeżeli Krajowy Depozyt stwierdzi, że lista inwestorów nie odpowiada warunkom określonym ust. 1 pkt 1, odmawia jej przyjęcia i zwraca ją syndykowi lub zarządcy, o czym niezwłocznie powiadamia sędziego-komisarza.
+
+5. Syndyk lub zarządca jest zobowiązany do usunięcia braków wskazanych przez Krajowy Depozyt terminie nie dłuższym niż 14 dni.
+
+6. Po ustaleniu listy wierzytelności, spisu wierzytelności lub po stwierdzeniu wierzytelności prawomocnym orzeczeniem sądu syndyk lub zarządca uzupełnia listę, o której mowa ust. 1 pkt 1, o wierzytelności inwestorów nieobjęte tą listą. Do uzupełnień listy inwestorów przepisy ust. 1–5 stosuje się odpowiednio.
+
+7. W stosunku do roszczeń inwestorów z tytułu rekompensat, nieobjętych listą, o której mowa ust. 1 pkt 1, przyjętą przez Krajowy Depozyt, tym jej uzupełnieniami, podstawą ich uwzględnienia przy dokonywaniu wypłat rekompensat może być wyłącznie prawomocne orzeczenie sądu stwierdzające prawo inwestora do otrzymania rekompensaty oraz jej wysokość. W takim przypadku inwestorowi przysługuje roszczenie do Krajowego Depozytu o wypłatę rekompensaty. pkt 1, podejmuje i podaje do publicznej wiadomości, drodze ogłoszenia dwóch dziennikach o zasięgu ogólnopolskim, uchwałę o przekazaniu syndykowi lub zarządcy kwot na wypłatę rekompensat, z zastrzeżeniem ust. 3.
+
+2. Uchwała, o której mowa ust. 1, określa:
+
+- **1)** kwotę środków przekazywanych syndykowi lub zarządcy na wypłatę rekompensat, stanowiącą różnicę sumy należnych inwestorom rekompensat i środków płynnych domu maklerskiego, pomniejszonych o wydatki określone art. 140 ust. 1 pkt 3;
+- **2)** sposób dokonywania przez syndyka lub zarządcę wypłat rekompensat, tym terminy i miejsce dokonywania wypłat.
+
+3. W kwocie na wypłatę rekompensat uwzględnia się całości udział systemie, jaki przysługuje domowi maklerskiemu stanie upadłości albo restrukturyzacji.
+
+4. Kwoty na wypłatę rekompensat, przekazane na podstawie uchwały zarządu Krajowego Depozytu syndykowi lub zarządcy, nie wchodzą do masy upadłości, masy układowej, ani masy sanacyjnej i nie mogą być wykorzystane przez syndyka lub zarządcę na żaden inny cel niż wypłata rekompensat.
+
+**Art. 142.**
+
+1. Z tytułu przekazania środków syndykowi lub zarządcy, Krajowemu Depozytowi przysługuje roszczenie do masy upadłości o zwrot do systemu rekompensat przekazanych kwot. Roszczenie o zwrot nie obejmuje jednak tej części przekazanej kwoty, jaka odpowiada udziałowi systemie rekompensat domu maklerskiego stanie upadłości.
+
+2. Przepis art. 440 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe stosuje się odpowiednio do zaspokojenia należności z funduszów masy upadłości, podlegających sprawowanemu przez Komisję nadzorowi, tym nadzorowi skonsolidowanemu, nadzorowi na zasadzie skonsolidowanej nad grupą firm inwestycyjnych lub nadzorowi nad zgodnością z grupowym testem kapitałowym, o których mowa przepisach działu IV rozdziału 1 oddziału 2a:
+
+- **1)** firmy inwestycyjnej;
+- **2)** instytucji finansowej, o której mowa art. 4 ust. 1 pkt 26 rozporządzenia 575/2013, z siedzibą państwie członkowskim, jeżeli jest jednostką zależną rozumieniu art. 4 ust. 1 pkt 16 rozporządzenia 575/2013 wobec instytucji kredytowej, o której mowa art. 4 ust. 1 pkt 1 rozporządzenia 575/2013, podmiotu, o którym mowa pkt 3–10, lub firmy inwestycyjnej i jest objęta nadzorem skonsolidowanym sprawowanym zgodnie z przepisami części pierwszej tytułu II rozdziału 1 i rozdziału 2 sekcji 1 rozporządzenia 575/2013;
+- **2a)** instytucji finansowej, o której mowa art. 4 ust. 1 pkt 14 rozporządzenia 2019/2033, z siedzibą państwie członkowskim, jeżeli jest jednostką zależną rozumieniu art. 4 ust. 1 pkt 51 rozporządzenia 2019/2033 wobec instytucji kredytowej, o której mowa art. 4 ust. 1 pkt 1 rozporządzenia 575/2013, podmiotu, o którym mowa pkt 3–10, lub firmy inwestycyjnej i jest objęta nadzorem nad grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa przepisach działu IV rozdziału 1 oddziału 2a;
+- **3)** finansowej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 20 rozporządzenia 575/2013, z siedzibą państwie członkowskim;
+- **3a)** inwestycyjnej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 23 rozporządzenia 2019/2033, z siedzibą państwie członkowskim;
+- **4)** finansowej spółki holdingowej o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 21 rozporządzenia 575/2013, z siedzibą państwie członkowskim;
+- **5)** holdingu mieszanego, o którym mowa art. 4 ust. 1 pkt 22 rozporządzenia 575/2013, z siedzibą państwie członkowskim;
+- **5a)** holdingu mieszanego, o którym mowa art. 110a ust. 1 pkt 6c;
+- **6)** dominującej finansowej spółki holdingowej z państwa członkowskiego, o której mowa art. 4 ust. 1 pkt 30 rozporządzenia 575/2013;
+- **7)** unijnej dominującej finansowej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 31 rozporządzenia 575/2013;
+- **7a)** unijnej dominującej inwestycyjnej spółki holdingowej, o której mowa art. 4 ust. 1 pkt 57 rozporządzenia 2019/2033;
+- **8)** dominującej finansowej spółki holdingowej o działalności mieszanej z państwa członkowskiego, o której mowa art. 4 ust. 1 pkt 32 rozporządzenia 575/2013;
+- **9)** unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 33 rozporządzenia 575/2013;
+- **10)** unijnej dominującej finansowej spółki holdingowej o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 58 rozporządzenia 2019/2033.
+
+3. Roszczenia Krajowego Depozytu, o których mowa ust. 1, wraz z odsetkami i kosztami egzekucji, podlegają zaspokojeniu kategorii pierwszej. ustawą oraz uchwale zarządu Krajowego Depozytu, o której mowa art. 141 ust. 1, zgodnie z terminarzem wypłat.
+
+1a. W przypadku gdy jest prowadzone postępowanie karne, którym zachodzi uzasadnione podejrzenie, że środki objęte systemem rekompensat mogą mieć związek z popełnieniem przestępstwa, o którym mowa art. 299 ustawy z dnia 6 czerwca 1997 r. Kodeks karny, prokurator może postanowieniem wstrzymać wypłatę rekompensaty przysługującej inwestorowi z tytułu tych środków na czas oznaczony, nie dłuższy jednak niż 3 miesiące.
+
+1b. W postanowieniu, o którym mowa ust. 1a, określa się zakres, sposób i termin wstrzymania wypłaty. Na postanowienie przysługuje zażalenie do sądu właściwego do rozpoznania sprawy.
+
+1c. Wstrzymanie wypłaty upada, jeżeli terminie, o którym mowa ust. 1b, nie zostanie wydane postanowienie o zabezpieczeniu majątkowym.
+
+1d. Przepisy ust. 1a–1c stosuje się odpowiednio, przypadku gdy wypłaty rekompensat dokonuje Krajowy Depozyt.
+
+1e. W sprawach dotyczących wstrzymania wypłaty rekompensaty nieuregulowanych ustawie stosuje się przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2024 r. poz. 37).
+
+2. Po zakończeniu wypłat syndyk lub zarządca dokonuje rozliczenia wypłaconych kwot i sporządza sprawozdanie, które przekazuje Krajowemu Depozytowi terminie 21 dni od dnia zakończenia wypłat. W tym terminie syndyk lub zarządca przekazuje Krajowemu Depozytowi, zwracane do systemu rekompensat, kwoty niewypłacone inwestorom oraz odsetki naliczone od kwoty przekazanej przez Krajowy Depozyt na wypłatę rekompensat przez bank prowadzący rachunek, na który wpłacono tę kwotę.
+
+3. Krajowy Depozyt sprawuje kontrolę przestrzegania przez syndyka lub zarządcę domu maklerskiego warunków wypłat rekompensat, określonych ustawie oraz uchwale zarządu Krajowego Depozytu, o której mowa art. 141 ust. 1.
+
+4. O nieprawidłowościach ujawnionych toku kontroli Krajowy Depozyt zawiadamia sędziego-komisarza, wzywając syndyka lub zarządcę do ich usunięcia.
+
+**Art. 144.**
+
+1. Wierzytelności przysługujące inwestorowi stosunku do masy upadłości, masy sanacyjnej lub restrukturyzowanego domu maklerskiego, wysokości kwot wypłaconych z tytułu rekompensat przechodzą z mocy prawa na Krajowy Depozyt, który realizuje je na rzecz systemu rekompensat.
+
+2. Kwoty zwrócone Krajowemu Depozytowi przez syndyka lub zarządcę trybie określonym art. 143 ust. 2 nie zmniejszają wierzytelności Krajowego Depozytu do masy upadłości, masy sanacyjnej lub restrukturyzowanego domu maklerskiego z tytułu przekazania środków pieniężnych na wypłatę rekompensat.
+
+**Art. 145.**
+
+1. W przypadku gdy nastąpi prawomocne oddalenie wniosku o ogłoszenie upadłości ze względu na to, że majątek domu maklerskiego nie wystarcza lub jedynie wystarcza na zaspokojenie kosztów postępowania, albo umorzenie postępowania upadłościowego, albo stwierdzenie przez Komisję zaistnienia okoliczności, o której mowa art. 133 ust. 2 pkt 3, albo gdy dłużnik postępowaniu restrukturyzacyjnym nie zostanie pozbawiony zarządu:
+
+- **1)** czynności, o których mowa art. 140 ust. 1 pkt 1–3, ust. 1a–1b i ust. 5, dokonywane przez syndyka lub zarządcę, wykonuje zarząd uczestnika systemu rekompensat, komplementariusze uczestnika systemu, o którym mowa art. 95 ust. 1 pkt 2 i 4, albo osoby uprawnione do reprezentowania uczestnika systemu, o którym mowa art. 95 ust. 1 pkt 5 i 6, albo inne osoby upoważnione do reprezentowania uczestnika systemu, z wyłączeniem pełnomocników;
+- **1a)** czynności, o których mowa art. 143 ust. 1, wykonuje Krajowy Depozyt;
+- **1b)** przepisów art. 140 ust. 1 pkt 4, art. 141 ust. 1, 2 i 4 oraz ust. 4 oraz art. 143 ust. 2–4 nie stosuje się;
+- **2)** przepisy art. 139 ust. 6, art. 140 ust. 2 i 4–7, art. 141 ust. 3, art. 143 ust. 1–1c oraz art. 144 stosuje się odpowiednio;
+- **3)** Krajowy Depozyt może zlecić badanie prawidłowości wyliczenia wydatków, o których mowa art. 140 ust. 1 pkt 3, przez biegłego rewidenta, który, wykonując zlecone czynności, jest upoważniony do wglądu do ksiąg i dokumentów uczestnika systemu.
+- **4)** (uchylony) 1a. W przypadku, o którym mowa ust. 1 pkt 1a, Zarząd Krajowego Depozytu, terminie 7 dni od dnia przyjęcia listy, o której mowa art. 140 ust. 1 pkt 1, podejmuje uchwałę dotyczącą wypłaty rekompensat i podaje ją do publicznej wiadomości drodze publikacji dwóch dziennikach o zasięgu ogólnopolskim. Uchwała określa kwotę przeznaczoną na wypłatę rekompensat, sposób dokonywania wypłat, terminarz oraz miejsce dokonywania wypłat rekompensat.
+
+1b. Po zakończeniu wypłat Krajowy Depozyt dokonuje rozliczenia wypłaconych kwot i sporządza sprawozdanie, które przekazuje Komisji terminie 21 dni od dnia zakończenia wypłat. dłużnika z tytułu usług świadczonych na ich rzecz zakresie czynności, o których mowa art. 69 ust. 2 i ust. 4 pkt 1, do wysokości przysługujących im rekompensat, nie są objęte układem, a głosowaniu nad układem, obok innych wierzycieli, mogą brać udział jedynie inwestorzy, których wierzytelności wobec upadłego są wyższe od przysługujących im rekompensat, i tylko zakresie tej nadwyżki.
+
+**Art. 146.**
+
+1. Krajowy Depozyt składa Komisji corocznie sprawozdanie z działalności systemu rekompensat za rok poprzedni, nie później niż terminie 3 miesięcy od dnia kończącego poprzedni rok obrotowy.
+
+2. Sprawozdanie z działalności systemu rekompensat podlega zbadaniu przez firmę audytorską.
+
+### DZIAŁ VI Dostęp do informacji o szczególnym charakterze
+
+#### Rozdział 1 Tajemnica zawodowa
+
+**Art. 147.** Tajemnica zawodowa obejmuje informację uzyskaną, przez osobę wymienioną art. 148 ust. 1, związku z podejmowanymi czynnościami służbowymi ramach pozostawania stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze, dotyczącą chronionych prawem interesów podmiotów dokonujących czynności związanych z obrotem instrumentami finansowymi, lub innych czynności ramach regulowanej ustawą działalności objętej nadzorem Komisji lub zagranicznego organu nadzoru, jak również dotyczącą czynności podejmowanych ramach wykonywania tego nadzoru, oraz czynności związanych z prowadzeniem rejestru akcjonariuszy, szczególności informację zawierającą:
+
+**Art. 148.**
+
+1. Do zachowania tajemnicy zawodowej są obowiązani:
+
+- **1)** maklerzy i doradcy;
+- **2)** osoby wchodzące skład statutowych organów:
+    - **a)** firmy inwestycyjnej,
+    - **b)** (uchylona)
+    - **c)** banku powierniczego,
+    - **d)** (uchylona)
+    - **e)** spółek prowadzących rynek regulowany,
+    - **f)** Krajowego Depozytu,
+    - **g)** izby, o której mowa art. 92,
+    - **h)** stowarzyszeń i organizacji zrzeszających maklerów, doradców, emitentów zdematerializowanych papierów wartościowych albo banki powiernicze,
+    - **i)** spółek prowadzących izbę rozliczeniową,
+    - **j)** spółek prowadzących izbę rozrachunkową,
+    - **k)** spółek, którym Krajowy Depozyt przekazał wykonywanie czynności, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2,
+    - **l)** agenta firmy inwestycyjnej,
+    - **m)** banku, o którym mowa art. 70 ust. 2,
+    - **n)** banku państwowego prowadzącego działalność maklerską;
+
+- **4)** osoby pozostające stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotami, o których mowa pkt 2;
+- **5)** osoby pozostające stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotami pozostającymi stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze z podmiotami, o których mowa pkt 2;
+- **6)** osoby wchodzące skład zespołu doradczego, o którym mowa art. 46 ust. 5;
+- **7)** inne osoby, jeżeli obowiązek taki wynika z przepisów innych ustaw.
+
+2. Obowiązek zachowania tajemnicy zawodowej istnieje również po ustaniu stosunków prawnych, o których mowa ust. 1.
+
+**Art. 149.**
+
+1. Z zastrzeżeniem art. 150–153 oraz art. 20, art. 21, art. 23 i art. 25 ustawy o nadzorze, informacje stanowiące tajemnicę zawodową, będące posiadaniu osób fizycznych wymienionych art. 148 ust. 1, są ujawniane wyłącznie na żądanie:
+
+- **1)** sądu lub prokuratora związku z toczącym się postępowaniem karnym lub postępowaniem sprawie o przestępstwo skarbowe;
+- **2)** sądu lub prokuratora związku z wykonaniem wniosku o udzielenie pomocy prawnej, pochodzącego od państwa obcego, które na mocy ratyfikowanej umowy międzynarodowej wiążącej Rzeczpospolitą Polską ma prawo występować o udzielenie informacji objętych tajemnicą zawodową;
+- **3)** sądu związku z toczącym się postępowaniem cywilnym sprawie, której stroną jest podmiot będący stroną umowy lub innej czynności objętej tą tajemnicą zakresie informacji dotyczących tego podmiotu;
+- **4)** organu Krajowej Administracji Skarbowej:
+    - **a)** związku z toczącym się postępowaniem sprawie o: przestępstwo skarbowe lub o wykroczenie skarbowe przeciwko osobie fizycznej będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową zakresie informacji dotyczących tej osoby, przestępstwo skarbowe popełnione przy wykonywaniu czynności związanych z działalnością osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, będącej stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową zakresie informacji dotyczących tej osoby prawnej lub jednostki organizacyjnej;
+    - **b)** jeżeli jest to konieczne do skutecznego zapobieżenia przestępstwom lub przestępstwom skarbowym, ich wykrycia albo ustalenia ich sprawców i uzyskania dowodów ich popełnienia, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa lub przestępstwa skarbowego albo ich równowartości zakresie, o którym mowa art. 127a ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej (Dz. U. z 2023 r. poz. 615, z późn. zm. );
+
+- **5)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera zakresie informacji dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki, określonym ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623);
+- **6)** firmy audytorskiej badającej sprawozdania finansowe podmiotu, o którym mowa art. 148 ust. 1 pkt 2, na podstawie zawartej z nim umowy zakresie informacji określonych przepisami o rachunkowości;
+- **7)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego lub kontrolnego postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **7a)** Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy zakresie niezbędnym do przeprowadzenia postępowania bezpieczeństwa przemysłowego na podstawie przepisów o ochronie informacji niejawnych; sprawcy i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i trybie określonych art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2024 r. poz. 145);
+- **8a)** Centralnego Biura Antykorupcyjnego, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów lub weryfikacji prawdziwości oświadczenia albo deklaracji dotyczących konfliktu interesów, podlegających weryfikacji Centralnego Biura Antykorupcyjnego na podstawie przepisów odrębnych, na zasadach i trybie określonych art. 23 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2024 r. poz. 184);
+- **8b)** Szefa Agencji Bezpieczeństwa Wewnętrznego, trybie i na zasadach określonych art. 34a ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2023 r. poz. 1136, 1834 i 1860);
+- **8c)** Żandarmerii Wojskowej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawcy i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i trybie określonych art. 40b ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2023 r. poz. 1266 i 1860);
+- **8d)** Straży Granicznej, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i trybie określonych art. 10c ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489, 1723, 1860 i 2608);
+- **9)** komornika sądowego związku z toczącym się postępowaniem zabezpieczającym lub egzekucyjnym sprawie roszczeń wobec podmiotu będącego stroną umowy lub innej czynności prawnej objętej tajemnicą zawodową albo wykonywaniem postanowienia o zabezpieczeniu spadku lub ze sporządzaniem spisu inwentarza dotyczących spadku po takim podmiocie zakresie informacji dotyczących tego podmiotu;
+- **9a)** Prezesa Urzędu Ochrony Konkurencji i Konsumentów zakresie niezbędnym do realizacji przez niego ustawowych zadań;
+- **10)** administracyjnego organu egzekucyjnego oraz centralnego biura łącznikowego, o którym mowa art. 9 ustawy z dnia 11 października 2013 r. o wzajemnej pomocy przy dochodzeniu podatków, należności celnych i innych należności pieniężnych (Dz. U. z 2023 r. poz. 2009), zakresie wykonywania ich ustawowych zadań;
+- **11)** monitorującego aukcję zakresie, o którym mowa art. 53 ust. 1 rozporządzenia 1031/2010;
+- **12)** Rzecznika Finansowego zakresie niezbędnym do realizacji przez niego ustawowych zadań;
+- **13)** Inspektora Nadzoru Wewnętrznego jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, a także wykrycia i identyfikacji przedmiotów i innych korzyści majątkowych pochodzących z przestępstwa albo ich równowartości, na zasadach i trybie określonych art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2024 r. poz. 309);
+- **13a)** Szefa Inspektoratu Wewnętrznego Służby Więziennej jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i trybie określonych art. 23s ust. 3 ustawy z dnia 9 kwietnia 2010 r. o Służbie Więziennej (Dz. U. z 2023 r. poz. 1683 i 1860);
+- **14)** Prezesa Urzędu Ochrony Danych Osobowych zakresie niezbędnym do realizacji przez niego ustawowych zadań.
+
+2. Osoby, o których mowa art. 148 ust. 1, zachowują tajemnicy informację o przekazaniu danych:
+
+- **1)** Policji ‒ na zasadach i trybie określonych art. 20 ust. 4‒10 ustawy z dnia 6 kwietnia 1990 r. o Policji;
+- **2)** Centralnemu Biuru Antykorupcyjnemu ‒ na zasadach i trybie określonych art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
+- **3)** Agencji Bezpieczeństwa Wewnętrznego na zasadach i trybie określonych art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu; o Żandarmerii Wojskowej i wojskowych organach porządkowych;
+- **5)** Straży Granicznej ‒ na zasadach i trybie określonych art. 10c ust. 3–9 ustawy z dnia 12 października 1990 r. o Straży Granicznej;
+- **6)** Inspektorowi Nadzoru Wewnętrznego ‒ na zasadach i trybie określonych art. 11p ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych.
+
+**Art. 150.**
+
+1. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie informacji stanowiących taką tajemnicę:
+
+- **1)** bezpośrednio osobie, której ta informacja dotyczy, lub innemu podmiotowi, jeżeli osoba, której informacje dotyczą, upoważni podmiot udzielający informacji do przekazania określonych informacji wskazanej przez siebie osobie lub jednostce organizacyjnej, na piśmie lub postaci elektronicznej spełniającej wymogi, o których mowa art. 13 ust. 2 i 3;
+- **2)** zawiadomieniu o przestępstwie oraz dokumentach przekazywanych uzupełnieniu do zawiadomienia;
+- **2a)** Szefowi Krajowej Administracji Skarbowej oraz izbie rozliczeniowej, o której mowa art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, zakresie niezbędnym do wykonywania odpowiednio zadań i obowiązków, o których mowa ustawie z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej (Dz. U. z 2023 r. poz. 180);
+- **3)** Generalnemu Inspektorowi Informacji Finansowej zakresie i na zasadach określonych przepisach o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;
+- **4)** organowi Krajowej Administracji Skarbowej lub osobom przez ten organ upoważnionym zakresie niezbędnym do realizacji jego zadań wynikających z ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej;
+- **5)** Szefowi Krajowego Centrum Informacji Kryminalnych na zasadach określonych odrębnych przepisach, zakresie niezbędnym do realizacji jego ustawowych zadań;
+- **6)** organom podatkowym na zasadach określonych odrębnych przepisach, zakresie niezbędnym do realizacji ich ustawowych zadań;
+- **7)** przez dom maklerski bankowi będącemu stosunku do tego domu maklerskiego podmiotem dominującym rozumieniu art. 4 ust. 1 pkt 8 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe na potrzeby sporządzania skonsolidowanego sprawozdania finansowego, Komisji zakresie niezbędnym do wykonywania nadzoru skonsolidowanego nad tym bankiem oraz Bankowemu Funduszowi Gwarancyjnemu zakresie niezbędnym do realizacji zadań zakresie przymusowej restrukturyzacji, o których mowa ustawie z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji;
+- **7a)** przez dom maklerski podmiotowi podlegającemu Rzeczypospolitej Polskiej lub innym państwie członkowskim obowiązkom, o których mowa przepisach działu IV rozdziału 1 oddziałów 2a i 2c, przepisach prawa bankowego stosowanych przez niektóre domy maklerskie, równoważnych przepisach obowiązujących innym państwie członkowskim, przepisach rozporządzenia 2019/2033 lub rozporządzenia 575/2013, zakresie, jakim jest to niezbędne do wykonania tych obowiązków;
+- **7b)** między podmiotami zależnymi i podmiotami dominującymi grupie firm inwestycyjnych, rozumieniu odpowiednio art. 110a ust. 1 pkt 11, 10 i 6aa, jeżeli informacje są objęte zakresem nadzoru nad taką grupą firm inwestycyjnych na zasadzie skonsolidowanej lub nadzorem nad zgodnością z grupowym testem kapitałowym, o których mowa dziale IV rozdziale 1 oddziale 2a, o ile przekazanie tych informacji jest niezbędne do wykonania obowiązków, o których mowa przepisach art. 110b, art. 110c, art. 110e, art. 110f, art. 110g, art. 110ga, art. 110i–110k, art. 110m, art. 110p, art. 110q, art. 110v, art. 110va lub art. 110w oraz przepisach działu IV rozdziału 1 oddziału 2c;
+- **8)** przez firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa art. 70 ust. 2, oraz banki powiernicze: cyjną:
+    - **a)** przypadku określonym art. 54 i art. 152,
+    - **b)** zakresie i na zasadach określonych ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2023 r. poz. 2160);
+    - **a)** podmiotowi wiodącemu rozumieniu art. 4 ust. 5 i 6 ustawy o nadzorze uzupełniającym,
+    - **b)** koordynatorowi rozumieniu art. 3 pkt 19 ustawy o nadzorze uzupełniającym,
+    - **c)** koordynatorowi zagranicznemu rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym wykonaniu obowiązków określonych ustawą o nadzorze uzupełniającym;
+
+- **10)** przez Krajowy Depozyt, spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, domy maklerskie, banki prowadzące działalność maklerską oraz banki powiernicze zakresie określonym art. 81 ust. 3 ustawy z dnia 11 września 2015 r. o działalności ubezpieczeniowej i reasekuracyjnej;
+- **11)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, a także przez uczestników Krajowego Depozytu lub tej spółki, spółce publicznej lub spółce niebędącej spółką publiczną, z którą została rozwiązana umowa o rejestrację akcji depozycie papierów wartościowych przypadku określonym art. 91 ust. 15 ustawy o ofercie publicznej;
+- **11a)** Komisji zakresie niezbędnym do wykonywania zadania określonego art. 4 ust. 1 pkt 3b ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **11b)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, a także przez uczestników Krajowego Depozytu lub tej spółki spółce, której zarząd podjął uchwałę o przyznaniu akcji na zasadach określonych warunkach emisji obligacji kapitałowych, przypadku i zakresie określonych art. 454 § 1 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **12)** między Komisją lub właściwym organem nadzoru innym państwie członkowskim a:
+    - **a)** firmą audytorską badającą sprawozdania finansowe domu maklerskiego, banku prowadzącego działalność maklerską, banku, o którym mowa art. 70 ust. 2, banku powierniczego lub firmą audytorską badającą sprawozdania finansowe zagranicznej firmy inwestycyjnej,
+    - **b)** sędzią-komisarzem, nadzorcą sądowym, syndykiem lub zarządcą albo likwidatorem domu maklerskiego, banku prowadzącego działalność maklerską, banku, o którym mowa art. 70 ust. 2, banku powierniczego lub organem odpowiedzialnym za prowadzenie postępowania upadłościowego lub likwidacyjnego zagranicznej firmy inwestycyjnej jeżeli informacje te są niezbędne do wykonywania zadań zakresie nadzoru przez Komisję lub właściwy organ nadzoru innym państwie członkowskim albo do skutecznego prowadzenia postępowania upadłościowego, sprawowania zarządu masą upadłości lub prowadzenia likwidacji, lub zakresie informacji określonych przepisami o rachunkowości do celów badania sprawozdań finansowych tych domów maklerskich, banków lub zagranicznych firm inwestycyjnych;
+
+- **13)** Krajowemu Depozytowi jeżeli informacje te są niezbędne do wykonywania jego ustawowych zadań, szczególności związanych z tworzeniem, organizacją i zarządzaniem systemem rekompensat;
+- **13a)** spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2, jeżeli informacje te są niezbędne do wykonywania tych czynności;
+- **13b)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 4 lub 5 albo ust. 2 pkt 3 emitentowi papierów wartościowych, podmiotowi wykonującemu poza terytorium Rzeczypospolitej Polskiej zadania zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych obrocie papierami wartościowymi albo uprawnionemu do prowadzenia poza terytorium Rzeczypospolitej Polskiej rachunków, na których są rejestrowane papiery wartościowe, za pośrednictwem którego papiery wartościowe, których dotyczą te informacje, są rejestrowane depozycie papierów wartościowych, przypadkach określonych art. 54 ust. 2;
+- **13c)** przez Krajowy Depozyt zgodnie z art. 48 ust. 5e;
+- **14)** przez Komisję lub jej upoważnionego przedstawiciela:
+    - **a)** do publicznej wiadomości zakresie dotyczącym treści podjętych uchwał i decyzji, także sprawach indywidualnych, jeżeli ze względu na interes rynku instrumentów finansowych, rynku towarów giełdowych lub rynku działalności funduszy inwestycyjnych, Komisja uznała przekazanie takiej informacji za uzasadnione,
+    - **c)** postępowaniu wyjaśniającym, przypadku określonym art. 38 ust. 5 ustawy o nadzorze,
+    - **d)** przypadkach określonych art. 20 i art. 23 ustawy o nadzorze,
+    - **e)** przypadkach określonych art. 151 oraz art. 21 ust. 1, art. 21a, art. 22 i art. 24a ustawy o nadzorze, a także art. 62a ust. 2, art. 96 ust. 10–10c oraz art. 97 ust. 1f ustawy o ofercie publicznej,
+    - **f)** (uchylona)
+    - **g)** na wniosek klienta domu maklerskiego na potrzeby wszczętego lub planowanego postępowania cywilnego przeciwko domowi maklerskiemu, którego upadłość ogłoszono;
+
+- **15)** przez Komisję lub jej upoważnionego przedstawiciela:
+    - **a)** (uchylona)
+    - **b)** Prezesowi Narodowego Banku Polskiego jeżeli informacje te są niezbędne celu realizacji ustawowych zadań Narodowego Banku Polskiego,
+    - **c)** monitorującemu aukcję przypadku, o którym mowa art. 53 ust. 3 i 4 rozporządzenia 1031/2010,
+    - **d)** do Europejskiego Urzędu Nadzoru Bankowego, Europejskiego Urzędu Nadzoru Ubezpieczeń i Pracowniczych Programów Emerytalnych, Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych, Europejskiej Rady do spraw Ryzyka Systemowego, Komitetu Stabilności Finansowej, Europejskiego Systemu Banków Centralnych, Europejskiego Banku Centralnego, do banków centralnych innych państwach członkowskich oraz do właściwego organu nadzoru innym państwie członkowskim, Bankowego Funduszu Gwarancyjnego, organów do spraw przymusowej restrukturyzacji oraz organów do spraw restrukturyzacji i uporządkowanej likwidacji CCP innych państwach członkowskich, zakresie koniecznym do realizacji zadań ustawowych oraz zadań określonych przez bezpośrednio stosowane akty prawa europejskiego,
+    - **e)** przypadkach, o których mowa art. 30 ust. 2, art. 32a i art. 33 ust. 2 ustawy o nadzorze,
+    - **f)** ministrowi właściwemu do spraw budżetu zakresie niezbędnym do realizacji ustawowych zadań związanych z organizacją rynku obrotu skarbowymi papierami wartościowymi sposób, o którym mowa art. 13d ust. 1 i 2,
+    - **g)** ministrowi właściwemu do spraw klimatu lub do Krajowego ośrodka bilansowania i zarządzania emisjami, o którym mowa art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2022 r. poz. 673) zakresie administrowania systemem handlu uprawnieniami do emisji gazów cieplarnianych,
+    - **h)** Agencji do spraw Współpracy Organów Regulacji Energetyki przypadkach określonych art. 32c ust. 14 i art. 32e ust. 5,
+    - **i)** Prezesowi Urzędu Regulacji Energetyki zakresie niezbędnym do wydania opinii, o których mowa art. 32c ust. 6 pkt 1 i art. 32e ust. 6 pkt 1, oraz prowadzenia współpracy, o której mowa art. 32c ust. 15 pkt 1,
+    - **j)** ministrowi właściwemu do spraw rynków rolnych zakresie niezbędnym do wydania opinii, o których mowa art. 32c ust. 6 pkt 2 i art. 32e ust. 6 pkt 2, oraz prowadzenia współpracy, o której mowa art. 32c ust. 15 pkt 2,
+    - **k)** właściwemu ministrowi kierującemu działem administracji rządowej obejmującym sprawy produkcji, wydobycia lub obrotu określonym towarem, innym niż paliwo, energia lub produkt rolny zakresie niezbędnym do wydania opinii, o których mowa art. 32c ust. 6 pkt 3 i art. 32e ust. 6 pkt 3, oraz prowadzenia współpracy, o której mowa art. 32c ust. 15 pkt 3,
+    - **l)** spółce prowadzącej rynek regulowany przypadkach określonych art. 163a,
+    - **m)** Międzynarodowemu Funduszowi Walutowemu lub Bankowi Światowemu, na ich wniosek, zakresie niezbędnym do programów oceny sektora finansowego,
+    - **n)** Bankowi Rozrachunków Międzynarodowych, na jego wniosek, zakresie niezbędnym do prowadzonych przez ten Bank ilościowych badań skutków,
+    - **o)** Radzie Stabilności Finansowej, na jej wniosek, zakresie niezbędnym do wykonywania jej mandatu;
+
+- **17)** przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, lub bank powierniczy związku z zawarciem lub wykonywaniem umowy związanej z prowadzeniem działalności maklerskiej, działalności wykonywanej na podstawie art. 70 ust. 2, lub powierniczej, tym umowy, o której mowa art. 81a ust. 1, lub umowy, o której mowa art. 79 ust. 1, jeżeli przekazanie tych informacji jest niezbędne dla zawarcia lub wykonania umowy;
+- **17a)** przez przedsiębiorcę lub przedsiębiorcę zagranicznego związku z zawarciem lub wykonywaniem umowy, o której mowa art. 81f ust. 1, o ile przekazanie tych informacji jest niezbędne do zawarcia lub wykonywania tej umowy;
+- **18)** przez spółki prowadzące rynek regulowany monitorującemu aukcję zakresie wykonania obowiązku, o którym mowa art. 53 ust. 3 i 4 rozporządzenia 1031/2010;
+- **18a)** przez spółkę prowadzącą rynek regulowany związku z zawarciem lub wykonywaniem umowy, o której mowa art. 16b ust. 1, o ile przekazanie tych informacji jest niezbędne dla zawarcia lub wykonania umowy;
+- **19)** Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych, komitetom ustanowionym przez ten organ oraz powołanym przez nie grupom celu realizacji ich zadań i uprawnień;
+- **20)** Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych zakresie dotyczącym treści informacji zawartych zaleceniach, o których mowa art. 68 ust. 5 ustawy o ofercie publicznej, oraz decyzjach podjętych przez Komisję celu ich publikacji;
+- **21)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, lub przez uczestników Krajowego Depozytu lub tej spółki, lub przez firmę inwestycyjną lub bank powierniczy, Bankowemu Funduszowi Gwarancyjnemu zakresie:
+    - **a)** dotyczącym liczby papierów wartościowych zapisanych na prowadzonych przez te podmioty rachunkach papierów wartościowych i rachunkach zbiorczych albo rejestrach akcjonariuszy, na dzień wskazany przez Bankowy Fundusz Gwarancyjny,
+    - **b)** danych umożliwiających identyfikację osób uprawnionych z papierów wartościowych wskazanych decyzji Bankowego Funduszu Gwarancyjnego sprawie wszczęcia przymusowej restrukturyzacji albo sprawie umorzenia lub konwersji instrumentów kapitałowych podmiotu restrukturyzacji, albo sprawie umorzenia lub konwersji zobowiązań podmiotu restrukturyzacji, a także liczby tych papierów wartościowych posiadanych przez te osoby, na dzień umorzenia lub konwersji określony tej decyzji,
+    - **c)** danych umożliwiających identyfikację osób uprawnionych z papierów wartościowych wskazanych decyzji Bankowego Funduszu Gwarancyjnego sprawie objęcia restrukturyzacją i uporządkowaną likwidacją CCP, o której mowa art. 22 rozporządzenia 2021/23, albo decyzji sprawie umorzenia lub konwersji instrumentów właścicielskich oraz instrumentów dłużnych, o której mowa art. 33 rozporządzenia 2021/23, a także liczby tych papierów wartościowych posiadanych przez te osoby, na dzień umorzenia lub konwersji określony tej decyzji jeżeli informacje te są niezbędne do realizacji ustawowych zadań Bankowego Funduszu Gwarancyjnego, przy czym Bankowy Fundusz Gwarancyjny może wystąpić o te informacje do uczestników Krajowego Depozytu lub spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, odpowiednio, za pośrednictwem Krajowego Depozytu lub za pośrednictwem tej spółki;
+
+- **22)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, lub przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, lub bank powierniczy, Bankowemu Funduszowi Gwarancyjnemu zakresie umożliwiającym identyfikację uczestników prowadzących rachunki papierów wartościowych lub rachunki zbiorcze albo podmiotów prowadzących rejestry akcjonariuszy, na których, według stanu na dany dzień, były zapisane papiery wartościowe wskazane przez Bankowy Fundusz Gwarancyjny, jeżeli informacje te są niezbędne do realizacji ustawowych zadań Bankowego Funduszu Gwarancyjnego;
+- **22a)** przez Krajowy Depozyt lub spółkę, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6, firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, lub bank powierniczy, spółce, której akcje są zarejestrowane depozycie papierów wartościowych, lub jej akcjonariuszowi przypadku i zakresie określonych art. 328 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych; działu IIIA;
+- **23a)** przez firmę inwestycyjną podmiotowi objętemu systemem gwarantowania rozumieniu ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, prowadzącemu rachunek tej firmy inwestycyjnej, na którym są zdeponowane środki pieniężne powierzone przez jej klientów związku ze świadczeniem usług maklerskich zakresie niezbędnym do realizacji zadań tego podmiotu, o których mowa art. 29 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, związku z art. 26 ust. 3 tej ustawy.
+- **24)** przez firmę inwestycyjną, bank państwowy prowadzący działalność maklerską, bank, o którym mowa art. 70 ust. 2, lub bank powierniczy, spółce, której akcje są zarejestrowane rejestrze akcjonariuszy prowadzonym przez tę firmę lub ten bank, lub jej akcjonariuszowi przypadku i zakresie określonych art. 300 i art. 328 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych;
+- **25)** spółce, o której mowa art. 77 ust. 2 ustawy z dnia 4 października 2018 r. o pracowniczych planach kapitałowych (Dz. U. z 2023 r. poz. 46, 1723 i 1941), lub przedsiębiorcy wykonującemu zadania powierzone przez tę spółkę na podstawie przepisów ustawy z dnia 7 lipca 2023 r. o Centralnej Informacji Emerytalnej (Dz. U. poz. 1941) na zasadach i zakresie określonych przepisach tej ustawy.
+
+2. Osoby, o których mowa art. 148 ust. 1, są obowiązane do zachowania tajemnicy informacji dotyczących udzielania:
+
+- **1)** Policji informacji na zasadach określonych art. 20 ust. 4–10 ustawy z dnia 6 kwietnia 1990 r. o Policji oraz informacji dotyczących zawiadomienia, o którym mowa art. 20 ust. 13 tej ustawy,
+- **2)** Inspektorowi Nadzoru Wewnętrznego informacji na zasadach określonych art. 11p ust. 2–10 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych oraz informacji dotyczących zawiadomienia, o którym mowa art. 11p ust. 13 tej ustawy,
+- **3)** Żandarmerii Wojskowej informacji na zasadach określonych art. 40b ust. 3–6 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych,
+- **4)** Agencji Bezpieczeństwa Wewnętrznego informacji na zasadach określonych art. 34a ust. 3–9 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu oraz informacji dotyczących zawiadomienia, o którym mowa art. 34a ust. 12 tej ustawy,
+- **5)** Centralnemu Biuru Antykorupcyjnemu informacji na zasadach określonych art. 23 ust. 3–9 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym oraz informacji dotyczących zawiadomienia, o którym mowa art. 23 ust. 12 tej ustawy,
+- **6)** organom Krajowej Administracji Skarbowej informacji na zasadach określonych art. 127a ust. 3–10 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej oraz informacji dotyczących zawiadomienia, o którym mowa art. 127a ust. 12 tej ustawy przy czym zachowanie tajemnicy obowiązuje wobec osób, których ta informacja dotyczy, oraz osób trzecich, z wyjątkiem osób reprezentujących Komisję oraz pracowników Urzędu Komisji, którym te informacje są przekazywane związku z wykonywaniem ustawowo określonych zadań zakresie nadzoru.
+
+3. Wniosek podmiotu, o którym mowa ust. 1 pkt 15 lit. m–o, zawiera szczególności:
+
+- **1)** uzasadnienie potrzeby udzielenia informacji odniesieniu do zadań wykonywanych przez wnioskodawcę;
+- **2)** określenie charakteru, zakresu i formy informacji oraz sposobu ich ujawniania lub przekazywania;
+- **3)** zapewnienie, że informacje: zbiorczo lub formie zanonimizowanej.
+    - **a)** są niezbędne do realizacji zadań wykonywanych przez wnioskodawcę i nie wykraczają poza zakres zadań przez niego wykonywanych,
+    - **b)** zostaną przekazane lub ujawnione wyłącznie osobom realizującym zadanie, na potrzeby którego złożony został wniosek, oraz które na mocy przepisów prawa obowiązującego państwie siedziby wnioskodawcy lub prawa międzynarodowego są obowiązane do zachowania tajemnicy zawodowej związku z podejmowanymi czynnościami służbowymi ramach pozostawania stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze.
+
+5. Komisja może udostępnić wnioskodawcom, o których mowa ust. 1 pkt 15 lit. m–o, informacje inne niż określone ust. 4 wyłącznie siedzibie Komisji.
+
+**Art. 150a.** Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie przez Komisję ministrowi właściwemu do spraw finansów publicznych informacji ramach współpracy przy wykonywaniu zadań właściwego organu rozumieniu rozporządzenia 236/2012.
+
+**Art. 151.** Komisja może również przekazać będące jej posiadaniu informacje stanowiące tajemnicę zawodową:
+
+**Art. 151a.**
+
+- **218)** Informacje dotyczące firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską albo banku, o którym mowa art. 70 ust. 2, przekazane przez tę firmę albo ten bank Komisji ramach sprawowanego nadzoru oraz oświadczenia Komisji dotyczące tej firmy albo tego banku, zawarte dokumentacji nadzorczej, mogą zostać ujawnione, o ile nie narusza to interesu podmiotu, który je przekazał, lub interesu osób trzecich lub nie stanowi zagrożenia dla prawidłowego funkcjonowania systemu nadzoru nad działalnością firm inwestycyjnych lub banków.
+
+**Art. 152.**
+
+- **219)** Firmy inwestycyjne, banki państwowe prowadzące działalność maklerską, banki, o których mowa art. 70 ust. 2, i banki powiernicze mogą przekazywać sobie, objęte tajemnicą zawodową, informacje o wierzytelnościach przysługujących im względem klientów z tytułu świadczonych usług zakresie, jakim informacje te są niezbędne do ochrony ich interesów przed nierzetelnymi klientami.
+
+**Art. 153.**
+
+1. Obowiązek zachowania tajemnicy zawodowej mają także osoby, którym informacje stanowiące taką tajemnicę zostały ujawnione przypadkach określonych art. 149–152 lub art. 19a, art. 20, art. 21 i art. 23 ustawy o nadzorze, chyba że na ujawnienie takich informacji przez te osoby zezwala przepis prawa.
+
+2. Osoby, o których mowa art. 148 ust. 1, oraz osoby, o których mowa ust. 1, ponoszą odpowiedzialność za szkody wynikające z nieuprawnionego ujawnienia informacji stanowiącej tajemnicę zawodową i wykorzystania jej niezgodnie z przeznaczeniem.
+
+3. Osoby, o których mowa art. 148 ust. 1, nie ponoszą odpowiedzialności za szkodę wynikającą z ujawnienia i wykorzystania niezgodnie z przeznaczeniem informacji stanowiącej tajemnicę zawodową przez osoby, którym informacje takie zostały przekazane na podstawie art. 149–152 lub art. 20, art. 21 i art. 23 ustawy o nadzorze.
+
+#### Rozdział 2 (uchylony)
+
+### DZIAŁ VII Opłaty
+
+**Art. 162.**
+
+1. Udzielenie zezwolenia, pozwolenia lub zgody przewidzianych niniejszą ustawą, rozporządzeniem 2019/2033 lub rozporządzeniem 575/2013 ‒ zakresie zezwoleń, pozwoleń lub zgód udzielanych domom maklerskim, lub rozporządzeniem 648/2012 podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+1a. Udzielenie bankowi państwowemu zezwolenia, o którym mowa art. 111a ust. 1, podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+3. Wydanie decyzji sprawie zatwierdzenia zmian regulaminie:
+
+- **1)** Krajowego Depozytu, tym także odrębnym regulaminie mającym zastosowanie do pełnienia przez Krajowy Depozyt funkcji giełdowej izby rozrachunkowej,
+- **2)** spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 i ust. 2, tym także odrębnym regulaminie mającym zastosowanie do pełnienia przez spółkę, której Krajowy Depozyt przekazał wykonywanie czynności, o których mowa art. 48 ust. 2, funkcji giełdowej izby rozrachunkowej,
+- **3)** izby rozliczeniowej lub izby rozrachunkowej,
+- **4)** funduszy zabezpieczających, o których mowa art. 65 ust. 1 i art. 68d ust. 1,
+- **5)** funkcjonowania systemu rekompensat podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+4. (uchylony)
+
+5. Złożenie zawiadomienia, o którym mowa art. 21 ust. 3a, podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+6. Przekazanie informacji, o której mowa art. 21 ust. 3b, podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+7. Przekazanie Komisji przez właściwy organ nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, odpowiednich informacji dotyczących działalności maklerskiej, jaka ma być przez tę firmę inwestycyjną prowadzona na terytorium Rzeczypospolitej Polskiej sposób określony art. 117 ust. 3b pkt 2, podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro, wnoszonej przez zagraniczną firmę inwestycyjną, której takie odpowiednie informacje dotyczą.
+
+8. Zagraniczna firma inwestycyjna, o której mowa ust. 7, nie ponosi opłaty, o której mowa tym przepisie, jeżeli na zasadzie wzajemności polskie podmioty prowadzące działalność maklerską sposób określony art. 104 ust. 3 pkt 1 na terytorium państwa, którym firma ta ma swoją siedzibę, nie ponoszą tego rodzaju opłaty.
+
+8a. Udzielenie zezwolenia zatwierdzonemu podmiotowi publikującemu lub zatwierdzonemu mechanizmowi sprawozdawczemu podlega opłacie wysokości nie większej niż równowartość złotych 4500 euro.
+
+9. Udzielenie zezwolenia przewidzianego rozporządzeniem 2016/1011 podlega opłacie wysokości równowartości złotych 4500 euro.
+
+10. Dokonanie rejestracji przewidzianej rozporządzeniem 2016/1011 podlega opłacie wysokości równowartości złotych 2250 euro.
+
+11. Dokonanie zatwierdzenia przewidzianego rozporządzeniem 2016/1011 podlega opłacie wysokości równowartości złotych 2250 euro.
+
+12. Dokonanie uznania przewidzianego rozporządzeniem 2016/1011 podlega opłacie wysokości równowartości złotych 2250 euro.
+
+**Art. 163.**
+
+1. Od spółki prowadzącej rynek regulowany pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów okresie trzech lat poprzedzających rok, za który jest należna opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości, zwanych dalej „jednostkami zależnymi lub stowarzyszonymi”, oraz przychodów z rynku skarbowych papierów wartościowych, przypadku gdy spółka na podstawie umowy z ministrem właściwym do spraw budżetu prowadzi taki rynek, wysokości nie większej niż 3,5 % tej średniej, jednak nie mniej niż równowartość złotych 6250 euro.
+
+2. (uchylony)
+
+3. Od Krajowego Depozytu pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, wysokości nie większej niż 5,5 % tej średniej, jednak nie mniej niż równowartość złotych 6250 euro. z zakresu rozliczania transakcji, pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, wysokości nie większej niż 5,5 % tej średniej, jednak nie mniej niż równowartość złotych 6250 euro.
+
+5. Od spółki prowadzącej izbę rozrachunkową oraz od spółki, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu rozrachunku transakcji, pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, wysokości nie większej niż 5,5 % tej średniej, jednak nie mniej niż równowartość złotych 6250 euro.
+
+6. Od spółki prowadzącej izbę rozliczeniową i izbę rozrachunkową, która wykonuje funkcję giełdowej izby rozrachunkowej, pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów okresie trzech lat poprzedzających rok, za który należna jest opłata, z wyłączeniem dywidend otrzymanych od jednostek zależnych i stowarzyszonych, wysokości nie większej niż 5,5 % tej średniej, jednak nie mniej niż równowartość złotych 6250 euro.
+
+7. Od domu maklerskiego pobiera się roczną opłatę ustalaną na podstawie średniej wartości przychodów ogółem okresie trzech lat poprzedzających rok, za który należna jest opłata, wysokości nie większej niż 0,5 % tej średniej, jednak nie mniej niż równowartość złotych 750 euro. Wielkość przychodów ogółem, o których mowa zdaniu pierwszym, stanowi suma następujących pozycji rachunku zysków i strat:
+
+- **1)** przychody z podstawowej działalności,
+- **2)** przychody z instrumentów finansowych przeznaczonych do obrotu,
+- **3)** przychody z instrumentów finansowych utrzymywanych do terminu zapadalności,
+- **4)** przychody z instrumentów finansowych dostępnych do sprzedaży,
+- **5)** pozostałe przychody operacyjne,
+- **6)** przychody finansowe pomniejszona o dywidendy otrzymane od jednostek zależnych i stowarzyszonych, które są obowiązane do wnoszenia opłat na pokrycie kosztów, o których mowa art. 17 ust. 1 ustawy o nadzorze.
+
+8. Od agenta firmy inwestycyjnej będącego:
+
+- **1)** osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, z wyłączeniem banku i domu maklerskiego, pobiera się opłatę roczną wysokości równowartości złotych 500 euro;
+- **2)** osobą fizyczną pobiera się opłatę roczną wysokości równowartości złotych 100 euro.
+
+9. Od zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału lub bez otwierania oddziału, za pośrednictwem agenta, który przebywa na terytorium Rzeczypospolitej Polskiej, oraz od zagranicznej osoby prawnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej formie oddziału pobiera się opłatę roczną, ustalaną odpowiednio na podstawie przychodów oddziału lub przychodów zagranicznej firmy inwestycyjnej uzyskanych wyniku działalności agenta przebywającego na terytorium Rzeczypospolitej Polskiej poprzednim roku kalendarzowym, wysokości nie większej niż 0,15 % tych przychodów, jednak nie mniej niż równowartość złotych 500 euro. Przychody, o których mowa zdaniu pierwszym, są przychodami oddziału rozumieniu przepisów o podatku dochodowym od osób prawnych. Zagraniczne firmy inwestycyjne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej oraz zagraniczne osoby prawne prowadzące taką działalność na terytorium Rzeczypospolitej Polskiej nie ponoszą opłaty, o której mowa zdaniu pierwszym, jeżeli na zasadzie wzajemności polskie podmioty prowadzące działalność maklerską na terytorium państwa, którym podmioty takie mają swoją siedzibę, nie ponoszą tego rodzaju opłat.
+
+10. Zagraniczne firmy inwestycyjne będące stronami transakcji zawieranych na rynku regulowanym są obowiązane do wnoszenia opłaty rocznej wysokości równowartości złotych 10 000 euro.
+
+10a. Zagraniczne osoby prawne nieprowadzące działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o których mowa art. 31 ust. 1 pkt 2a, będące stronami transakcji zawieranych na rynku regulowanym są obowiązane do wnoszenia opłaty rocznej wysokości równowartości złotych 10 000 euro. zwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, za każdy rodzaj prowadzonej usługi pobiera się opłatę roczną wysokości równowartości złotych 500 euro.
+
+12. Od administratora kluczowego wskaźnika referencyjnego rozumieniu art. 3 ust. 1 pkt 25 rozporządzenia 2016/1011 pobiera się opłatę roczną wysokości równowartości złotych 1000 euro.
+
+13. Od administratora istotnego wskaźnika referencyjnego rozumieniu art. 3 ust. 1 pkt 26 rozporządzenia 2016/1011 pobiera się opłatę roczną wysokości równowartości złotych 500 euro.
+
+14. Od administratora pozaistotnego wskaźnika referencyjnego rozumieniu art. 3 ust. 1 pkt 27 rozporządzenia 2016/1011 pobiera się opłatę roczną wysokości równowartości złotych 100 euro.
+
+15. Od administratora wskaźnika referencyjnego stóp procentowych rozumieniu art. 3 ust. 1 pkt 22 rozporządzenia 2016/1011 niebędącego kluczowym wskaźnikiem referencyjnym rozumieniu art. 3 ust. 1 pkt 25 rozporządzenia 2016/1011 pobiera się opłatę roczną wysokości równowartości złotych 500 euro.
+
+16. Od administratora towarowego wskaźnika referencyjnego rozumieniu art. 3 ust. 1 pkt 23 rozporządzenia 2016/1011 niebędącego kluczowym wskaźnikiem referencyjnym rozumieniu art. 3 ust. 1 pkt 25 rozporządzenia 2016/1011 pobiera się opłatę roczną wysokości równowartości złotych 500 euro.
+
+**Art. 163a.**
+
+1. W przypadku nieuiszczenia opłaty, o której mowa art. 163 ust. 10, spółka prowadząca rynek regulowany zawiesza, do czasu uregulowania zaległości, możliwość zawierania transakcji na rynku regulowanym przez zagraniczną firmę inwestycyjną.
+
+2. Zawieszenie możliwości zawierania transakcji na rynku regulowanym przez zagraniczną firmę inwestycyjną następuje nie później niż drugiego dnia sesyjnego następującego po dniu przekazania przez Komisję spółce prowadzącej rynek regulowany informacji o wydaniu ostatecznej decyzji, o której mowa art. 17 ust. 12 ustawy o nadzorze, określającej wysokość zaległości z tytułu opłaty, o której mowa art. 163 ust. 10, należnej od tej zagranicznej firmy inwestycyjnej.
+
+3. Przywrócenie możliwości zawierania transakcji na rynku regulowanym przez zagraniczną firmę inwestycyjną następuje nie później niż drugiego dnia sesyjnego następującego po dniu przekazania przez Komisję spółce prowadzącej rynek regulowany informacji o uiszczeniu przez tę zagraniczną firmę inwestycyjną należności z tytułu opłaty, o której mowa art. 163 ust. 10.
+
+4. Przepisu ust. 1 nie stosuje się, przypadku gdy opłata, o której mowa art. 163 ust. 10, została uiszczona części, a wartość zaległości nie przekracza równowartości złotych 500 euro.
+
+5. W celu zapewnienia możliwości prawidłowego wykonywania przez spółki prowadzące rynek regulowany obowiązków wynikających z ust. 1–3 Komisja może zawierać z takimi spółkami porozumienia określające szczegółowy zakres informacji przekazywanych dla celów określonych ust. 1–3 oraz tryb ich przekazywania.
+
+6. Przepisy ust. 1–5 stosuje się odpowiednio przypadku nieuiszczenia opłaty, o której mowa art. 163 ust. 10a, przez zagraniczną osobę prawną nieprowadzącą działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, o której mowa art. 31 ust. 1 pkt 2a.
+
+**Art. 164.** Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa art. 162 i art. 163, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, trybie i na warunkach określonych art. 17 ustawy o nadzorze.
+
+### DZIAŁ VIII Sankcje administracyjne za naruszenie przepisów
+
+**Art. 165.**
+
+1. Komisja może cofnąć zezwolenie na prowadzenie rynku regulowanego, przypadku gdy spółka prowadząca rynek regulowany:
+
+- **1)** nie rozpoczęła prowadzenia działalności objętej zezwoleniem terminie 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna;
+- **2)** przez okres co najmniej 6 miesięcy nie prowadziła rynku regulowanego;
+- **3)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę;
+- **4)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **5)** prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie rynku regulowanego;
+- **6)** nie przestrzega zasad uczciwego obrotu;
+- **7)** narusza interesy uczestników obrotu.
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+- **2)** zastosować sankcję określoną ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+1b. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany przepisów regulujących prowadzenie tego rynku Komisja może również nakazać tej spółce zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+1c. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany wyniku naruszenia, o którym mowa ust. 1 pkt 3 lub 5–7, kara pieniężna, o której mowa ust. 1a pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+1d. W przypadku gdy spółka prowadząca rynek regulowany jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1a pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+1e. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1a pkt 1 lub ust. 1d.
+
+2. (uchylony) 2a. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 1a, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się spółki prowadzącej rynek regulowany do powstania naruszenia;
+- **3)** sytuację finansową spółki prowadzącej rynek regulowany, na którą jest nakładana kara, szczególności wysokość jej całkowitych obrotów;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez spółkę prowadzącą rynek regulowany, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań spółki prowadzącej rynek regulowany;
+- **7)** gotowość spółki prowadzącej rynek regulowany do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności przez podmiot prowadzący rynek regulowany, popełnione przez spółkę prowadzącą rynek regulowany, na którą jest nakładana kara.
+
+3. (uchylony)
+
+4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku cofnięcia zezwolenia na prowadzenie rynku regulowanego.
+
+**Art. 165a.**
+
+1. Komisja może cofnąć zezwolenie na prowadzenie platformy aukcyjnej przez spółkę prowadzącą rynek regulowany, przypadku gdy spółka ta:
+
+- **1)** nie złożyła terminie 12 miesięcy od dnia uzyskania zezwolenia wniosku o wpis platformy aukcyjnej do wykazu, o którym mowa załączniku III do rozporządzenia 1031/2010, albo nie rozpoczęła prowadzenia działalności objętej zezwoleniem terminie 12 miesięcy od dnia wpisu platformy aukcyjnej do tego wykazu;
+- **2)** przez okres co najmniej 6 miesięcy nie prowadziła działalności objętej zezwoleniem;
+- **3)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę; ust. 2;
+- **5)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **6)** poważnie i systematycznie narusza przepisy prawa regulujące prowadzenie platformy aukcyjnej, szczególności rozporządzenia 1031/2010 oraz rozporządzenia 596/2014;
+- **7)** nie przestrzega zasad uczciwego prowadzenia aukcji;
+- **8)** narusza interesy uczestników aukcji uprawnień do emisji.
+
+2. W przypadkach, o których mowa ust. 1 pkt 3 i 6–8, Komisja może:
+
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć, drodze decyzji, na spółkę prowadzącą rynek regulowany karę pieniężną wysokości do 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu określonego przedłożonej Komisji analizie ekonomiczno-finansowej, o której mowa art. 29a ust. 3 pkt 9,
+- **2)** zastosować sankcję, określoną ust. 1, i jednocześnie nałożyć drodze decyzji karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany, prowadząc platformę aukcyjną.
+
+3. (uchylony)
+
+**Art. 165b.**
+
+1. Komisja może zakazać prowadzenia rynku regulowanego, przypadku gdy spółka prowadząca rynek regulowany na podstawie innej niż zezwolenie:
+
+- **1)** przez okres co najmniej 6 miesięcy nie prowadziła rynku regulowanego;
+- **2)** prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie rynku regulowanego;
+- **3)** nie przestrzega zasad uczciwego obrotu;
+- **4)** narusza interesy uczestników obrotu.
+
+2. W przypadkach, o których mowa ust. 1 pkt 2–4, Komisja może:
+
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+- **2)** zastosować sankcję określoną ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+2a. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany przepisów regulujących prowadzenie tego rynku Komisja może również nakazać tej spółce zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+2b. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany wyniku naruszenia, o którym mowa ust. 1 pkt 2–4, kara pieniężna, o której mowa ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+2c. W przypadku gdy spółka prowadząca rynek regulowany jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+2d. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 1 lub ust. 2c.
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się spółki prowadzącej rynek regulowany do powstania naruszenia;
+- **3)** sytuację finansową spółki prowadzącej rynek regulowany, na którą jest nakładana kara, szczególności wysokość jej całkowitych obrotów;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez spółkę prowadzącą rynek regulowany, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań spółki prowadzącej rynek regulowany;
+- **7)** gotowość spółki prowadzącej rynek regulowany do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności przez podmiot prowadzący rynek regulowany, popełnione przez spółkę prowadzącą rynek regulowany, na którą jest nakładana kara.
+
+3. (uchylony)
+
+4. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku zakazania prowadzenia rynku regulowanego.
+
+**Art. 165c.**
+
+1. Komisja może cofnąć spółce prowadzącej rynek regulowany, posiadającej zezwolenie na prowadzenie ASO, zezwolenie na prowadzenie ASO, przypadku gdy odniesieniu do działalności polegającej na prowadzeniu ASO spółka:
+
+- **1)** nie rozpoczęła prowadzenia działalności objętej zezwoleniem terminie 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna;
+- **2)** przez okres co najmniej 6 miesięcy nie prowadziła działalności objętej zezwoleniem;
+- **3)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę;
+- **4)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **5)** prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie ASO;
+- **6)** nie przestrzega zasad uczciwego obrotu;
+- **7)** narusza interesy uczestników obrotu.
+
+2. W przypadkach, o których mowa ust. 1 pkt 3 lub 5–7, Komisja może:
+
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+- **2)** zastosować sankcję określoną ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+3. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany, posiadającą zezwolenie na prowadzenie ASO, przepisów prawa regulujących prowadzenie ASO Komisja może również nakazać tej spółce zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+4. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2, uwzględnia szczególności okoliczności wymienione art. 165 ust. 2a.
+
+5. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany, posiadającą zezwolenie na prowadzenie ASO, wyniku naruszenia, o którym mowa ust. 1 pkt 3 lub 5–7, kara pieniężna, o której mowa ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+6. W przypadku gdy spółka prowadząca rynek regulowany, posiadająca zezwolenie na prowadzenie ASO, jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy. Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 1 lub ust. 6.
+
+8. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o cofnięciu zezwolenia na prowadzenie ASO przez spółkę prowadzącą rynek regulowany.
+
+**Art. 165d.**
+
+1. Komisja może zakazać prowadzenia ASO przez spółkę prowadzącą rynek regulowany, przypadku gdy spółka prowadząca rynek regulowany, uprawniona do prowadzenia ASO na podstawie innej niż zezwolenie:
+
+- **1)** przez okres co najmniej 6 miesięcy nie prowadziła ASO;
+- **2)** prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie ASO;
+- **3)** nie przestrzega zasad uczciwego obrotu;
+- **4)** narusza interesy uczestników obrotu.
+
+2. W przypadkach, o których mowa ust. 1 pkt 2–4, Komisja może:
+
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+- **2)** zastosować sankcję określoną ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+3. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany, uprawnioną do prowadzenia ASO na podstawie innej niż zezwolenie, przepisów prawa regulujących prowadzenie ASO Komisja może również nakazać jej zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+4. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2, uwzględnia szczególności okoliczności wymienione art. 165 ust. 2a.
+
+5. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany, uprawnioną do prowadzenia ASO na podstawie innej niż zezwolenie, wyniku naruszenia, o którym mowa ust. 1 pkt 2–4, kara pieniężna, o której mowa ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+6. W przypadku gdy spółka prowadząca rynek regulowany, uprawniona do prowadzenia ASO na podstawie innej niż zezwolenie, jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+7. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 1 lub ust. 6.
+
+8. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o zakazaniu prowadzenia ASO przez spółkę prowadzącą rynek regulowany.
+
+**Art. 165e.**
+
+1. Komisja może cofnąć spółce prowadzącej rynek regulowany, posiadającej zezwolenie na prowadzenie OTF, zezwolenie na prowadzenie OTF, przypadku gdy odniesieniu do działalności polegającej na prowadzeniu OTF spółka:
+
+- **1)** nie rozpoczęła prowadzenia działalności objętej zezwoleniem terminie 12 miesięcy od dnia, którym decyzja o udzieleniu zezwolenia stała się ostateczna;
+- **2)** przez okres co najmniej 6 miesięcy nie prowadziła działalności objętej zezwoleniem;
+- **3)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę;
+- **4)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **5)** prowadzi działalność z istotnym naruszeniem przepisów prawa regulujących prowadzenie OTF;
+- **6)** nie przestrzega zasad uczciwego obrotu;
+- **7)** narusza interesy uczestników obrotu.
+- **1)** odstąpić od zastosowania sankcji, o której mowa ust. 1, i nałożyć na spółkę prowadzącą rynek regulowany karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo
+- **2)** zastosować sankcję określoną ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się spółka prowadząca rynek regulowany.
+
+3. W przypadku naruszenia przez spółkę prowadzącą rynek regulowany, posiadającą zezwolenie na prowadzenie OTF, przepisów prawa regulujących prowadzenie OTF Komisja może również nakazać tej spółce zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+4. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2, uwzględnia szczególności okoliczności wymienione art. 165 ust. 2a.
+
+5. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez spółkę prowadzącą rynek regulowany, posiadającą zezwolenie na prowadzenie OTF, wyniku naruszenia, o którym mowa ust. 1 pkt 3 lub 5–7, kara pieniężna, o której mowa ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+6. W przypadku gdy spółka prowadząca rynek regulowany, posiadająca zezwolenie na prowadzenie OTF, jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+7. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 1 lub ust. 6.
+
+8. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o cofnięciu zezwolenia na prowadzenie OTF przez spółkę prowadzącą rynek regulowany.
+
+**Art. 165f.** W przypadku cofnięcia albo wygaśnięcia zezwolenia na prowadzenie rynku regulowanego uprawnienie do prowadzenia ASO oraz OTF wygasa terminie, którym odpowiednio decyzja o cofnięciu zezwolenia powinna zostać wykonana albo decyzja o udzieleniu zezwolenia wygasła.
+
+**Art. 165g.**
+
+- **230)** 1. W przypadku naruszenia przepisów rozporządzenia 2022/858 przez podmiot prowadzący ASO oparty na DLT, TSS oparty na DLT albo SS oparty na DLT Komisja może nałożyć na te podmioty karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł.
+
+2. Jeżeli uzasadnia to charakter naruszenia, kara pieniężna, o której mowa ust. 1, może być również nałożona przypadku cofnięcia specjalnego zezwolenia lub powiązanych z nim zwolnień na podstawie art. 8 ust. 12, art. 9 ust. 12 lub art. 10 ust. 12 rozporządzenia 2022/858.
+
+**Art. 166.** (uchylony)
+
+**Art. 166a.**
+
+1. W przypadku stwierdzenia przez Komisję, że podmiot prowadzący zagraniczny rynek regulowany, prowadząc działalność, o której mowa art. 14a ust. 1, lub prowadząc działalność, o której mowa art. 117a, narusza przepisy prawa obowiązujące państwie siedziby tego rynku zakresie funkcjonowania rynku regulowanego lub prowadzenia ASO lub OTF, Komisja informuje o stwierdzonych naruszeniach właściwy organ nadzoru innego państwa członkowskiego, który udzielił temu podmiotowi zezwolenia na prowadzenie działalności.
+
+2. Jeżeli mimo środków podjętych przez właściwy organ nadzoru innego państwa członkowskiego, który udzielił podmiotowi prowadzącemu zagraniczny rynek regulowany zezwolenia, działalność tego podmiotu stanowi zagrożenie dla prawidłowego funkcjonowania na terytorium innego państwa członkowskiego obrotu instrumentami finansowymi lub interesów inwestorów, Komisja może zakazać podmiotowi prowadzącemu zagraniczny rynek regulowany prowadzenia działalności, o której mowa art. 14a ust. 1 lub art. 117a ust. 1, na terytorium Rzeczypospolitej Polskiej. O podjętej decyzji Komisja informuje Komisję Europejską, Europejski Urząd Nadzoru Giełd i Papierów Wartościowych oraz właściwy organ nadzoru innego państwa członkowskiego, który udzielił temu podmiotowi zezwolenia. z art. 19 rozporządzenia 1095/2010.
+
+3. (uchylony)
+
+4. Komisja może nakazać ogłoszenie rozstrzygnięcia, o którym mowa ust. 2, dwóch dziennikach ogólnopolskich lub inny sposób, na koszt podmiotu prowadzącego zagraniczny rynek regulowany.
+
+5. W przypadku zakazania prowadzenia działalności zgodnie z ust. 2, podmiot prowadzący zagraniczny rynek regulowany nie może podjąć tej działalności przed upływem 5 lat od dnia, którym decyzja zakazująca prowadzenia działalności stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
+
+6. W razie konieczności zabezpieczenia interesu publicznego Komisja może przed podjęciem czynności określonych ust. 1 i 2 zawiesić na okres nie dłuższy niż miesiąc, możliwość prowadzenia przez podmiot prowadzący zagraniczny rynek regulowany działalności zgodnie z art. 14a ust. 1 lub art. 117a ust. 1 na terytorium Rzeczypospolitej Polskiej, informując o tym jednocześnie Komisję Europejską, Europejski Urząd Nadzoru Giełd i Papierów Wartościowych oraz właściwy organ nadzoru innym państwie członkowskim, który udzielił zezwolenia temu podmiotowi.
+
+**Art. 166b.** (uchylony)
+
+**Art. 167.**
+
+1. Komisja może, z zastrzeżeniem ust. 2, cofnąć zezwolenie na prowadzenie działalności maklerskiej albo ograniczyć zakres wykonywanej działalności maklerskiej, przypadku gdy firma inwestycyjna:
+
+- **1)** narusza przepisy ustawy lub innych ustaw mających zastosowanie do działalności firmy inwestycyjnej, tym zasad i trybu jej wykonywania, przepisy wydane na ich podstawie lub przepisy rozporządzenia 2019/2033, rozporządzenia 575/2013, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 1031/2010 lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności firmy inwestycyjnej;
+- **2)** nie przestrzega zasad uczciwego obrotu;
+- **3)** narusza interesy zleceniodawcy;
+- **4)** (uchylony)
+- **5)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia, z zastrzeżeniem przepisu art. 95 ust. 10;
+- **6)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę.
+
+1a. Jeżeli przypadku, o którym mowa ust. 1 pkt 1, Komisja ograniczy zakres wykonywanej działalności maklerskiej, Komisja może również:
+
+- **1)** nakazać firmie inwestycyjnej zaprzestania działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości lub
+- **2)** zakazać, na czas określony, zawierania na rynku regulowanym, ASO lub na OTF transakcji mających za przedmiot określony instrument finansowy.
+
+2. W przypadkach, o których mowa ust. 1 pkt 1–3 lub 6, Komisja może również:
+
+- **1)** nałożyć na firmę inwestycyjną karę pieniężną do wysokości 21 312 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu pierwszym roku działalności, określonego przedłożonej Komisji informacji finansowej, o której mowa art. 5 lit. a rozporządzenia 2017/1943, jeżeli przekracza ona 21 312 000 zł, albo
+- **2)** zastosować jedną z sankcji określonych ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się firma inwestycyjna.
+
+2a. W przypadku gdy firma inwestycyjna jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy. Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 1 lub ust. 2a.
+
+2c. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez firmę inwestycyjną wyniku naruszenia, o którym mowa ust. 1 pkt 1–3 lub 6, kara pieniężna, o której mowa ust. 2 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+2d. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się firmy inwestycyjnej do powstania naruszenia;
+- **3)** sytuację finansową firmy inwestycyjnej, na którą jest nakładana kara, szczególności wartość jej przychodów ogółem;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez firmę inwestycyjną, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań firmy inwestycyjnej;
+- **7)** gotowość firmy inwestycyjnej do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności przez firmy inwestycyjne, popełnione przez firmę inwestycyjną, na którą jest nakładana kara.
+
+3. Sankcje, o których mowa ust. 1, 1a lub 2, Komisja może zastosować również wobec firmy inwestycyjnej powierzającej do wykonywania czynności wskazane art. 79 ust. 2 agentowi firmy inwestycyjnej, który związku z wykonywaniem czynności na rzecz tej firmy inwestycyjnej narusza przepisy prawa, zasady uczciwego obrotu lub interesy zleceniodawców.
+
+4. W przypadku cofnięcia zezwolenia na prowadzenie działalności maklerskiej, podmiot, który je utracił, nie może ponownie wystąpić z wnioskiem o udzielenie zezwolenia na prowadzenie tej działalności przed upływem 5 lat od dnia, którym decyzja o cofnięciu zezwolenia stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
+
+5. W razie konieczności zabezpieczenia interesu publicznego, Komisja może, od chwili wszczęcia postępowania sprawach, o których mowa ust. 1, zawiesić, na okres nie dłuższy niż miesiąc, możliwość wykonywania, całości lub części, działalności maklerskiej, informując o tym jednocześnie Komisję Europejską oraz Europejski Urząd Nadzoru Giełd i Papierów Wartościowych.
+
+5a. W razie konieczności zabezpieczenia interesu publicznego Komisja może decyzji sprawie cofnięcia zezwolenia na prowadzenie działalności maklerskiej wskazać termin, którym następuje zakończenie jej prowadzenia.
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. (uchylony)
+
+9. Przepisy ust. 1–5a stosuje się odpowiednio przypadku powzięcia przez Komisję informacji o naruszeniu przez dom maklerski prowadzący działalność maklerską na terytorium innego państwa członkowskiego przepisów regulujących prowadzenie działalności maklerskiej na terytorium tego państwa. W takim przypadku o zastosowaniu sankcji Komisja informuje właściwy organ nadzoru tego państwa członkowskiego.
+
+9a. Sankcje, o których mowa ust. 1–2c, Komisja może zastosować także wobec domu maklerskiego, który nie wykonuje decyzji, o których mowa art. 110y ust. 1 i 3 lub art. 110yb, lub wobec domu maklerskiego stosującego rozporządzenie 575/2013, który nie realizuje zaleceń lub nakazów, o których mowa art. 138 ust. 1 i 2 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe. Przepisy ust. 2d–5a stosuje się.
+
+10. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o każdym przypadku cofnięcia zezwolenia na prowadzenie działalności maklerskiej.
+
+11. Komisja może zastosować sankcje, o których mowa ust. 1 i 2, przypadku gdy firma inwestycyjna nie przedstawi nowego planu naprawy, o którym mowa art. 110zk ust. 7, lub nie przedstawi nowego planu naprawy terminie, o którym mowa art. 110zk ust. 8.
+
+12. W przypadku naruszenia przez firmę inwestycyjną obowiązków, o których mowa art. 83b ust. 7–17, Komisja może zakazać tej firmie inwestycyjnej zawierania określonych umów, których przedmiotem są instrumenty finansowe. sowa spółka holdingowa, o której mowa art. 110a ust. 1 pkt 5, finansowa spółka holdingowa o działalności mieszanej, o której mowa art. 110a ust. 1 pkt 6, lub holding mieszany, o którym mowa art. 110a ust. 1 pkt 6c, naruszają przepisy ustawy, przepisy wydane na jej podstawie, przepisy prawa bankowego stosowane przez niektóre domy maklerskie, przepisy rozporządzenia 2019/2033 lub przepisy rozporządzenia 575/2013, Komisja może nakazać tym podmiotom usunięcie stwierdzonych naruszeń lub przyczyn tych naruszeń lub nałożyć na te podmioty karę pieniężną wysokości do 10 % całkowitego skonsolidowanego rocznego przychodu wykazanego ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy, a jeżeli ostatnie zbadane skonsolidowane sprawozdanie finansowe nie jest dostępne ‒ do wysokości 21 312 000 zł, uwzględniając szczególności wagę naruszenia, uprzednie naruszenia przepisów oraz sytuację finansową tych podmiotów.
+
+2. W przypadku, o którym mowa ust. 1, Komisja może również nałożyć karę pieniężną do wysokości 21 312 000 zł na osoby odpowiedzialne za zaistniałe naruszenie, uwzględniając szczególności wagę naruszenia oraz czas jego trwania, przyczyny naruszenia oraz sytuację finansową osoby, na którą nakładana jest kara.
+
+2a. (uchylony) 2b. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez inwestycyjną spółkę holdingową, o której mowa art. 110a ust. 1 pkt 9a, finansową spółkę holdingową, o której mowa art. 110a ust. 1 pkt 5, finansową spółkę holdingową o działalności mieszanej, o której mowa art. 110a ust. 1 pkt 6, lub holding mieszany, o którym mowa art. 110a ust. 1 pkt 6c, wyniku naruszenia, o którym mowa ust. 1, zamiast kary, o której mowa ust. 1, Komisja może nałożyć karę pieniężną wysokości do dwukrotności kwoty osiągniętej korzyści lub unikniętej straty. Do ustalenia wysokości kary pieniężnej przepis ust. 1 stosuje się.
+
+2c. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy.
+
+3. (uchylony)
+
+4. (uchylony) Art. 167aa. 238) 1. W przypadku gdy agent firmy inwestycyjnej, wykonując czynności, o których mowa art. 79 ust. 2, narusza przepisy ustawy lub innych ustaw mających zastosowanie do działalności agenta firmy inwestycyjnej, przepisy wydane na ich podstawie lub przepisy rozporządzenia 2019/2033, rozporządzenia 575/2013, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 1031/2010, lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności agenta firmy inwestycyjnej, wykonuje czynności powierzone mu na podstawie umowy zawartej z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa art. 70 ust. 2, niezgodnie z przepisami prawa, a także przypadku gdy nie przestrzega zasad uczciwego obrotu lub narusza interesy zleceniodawcy firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską lub banku, o którym mowa art. 70 ust. 2, których jest agentem, Komisja może:
+
+- **1)** przypadku agenta firmy inwestycyjnej będącego osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej nałożyć karę pieniężną do wysokości 1 000 000 zł;
+- **2)** przypadku agenta firmy inwestycyjnej będącego osobą fizyczną nałożyć karę pieniężną do wysokości 500 000 zł;
+- **3)** nakazać agentowi firmy inwestycyjnej zaprzestanie działań skutkujących powstaniem naruszenia i niepodejmowanie tych działań przyszłości;
+- **4)** zakazać, na czas określony nie dłuższy niż 12 miesięcy, wykonywania czynności agenta firmy inwestycyjnej; takim przypadku Komisja wskazuje zakres czynności podlegających zakazowi;
+- **5)** skreślić agenta firmy inwestycyjnej z rejestru, o którym mowa art. 79 ust. 8.
+
+2. Komisja, ustalając karę pieniężną, o której mowa ust. 1 pkt 1 i 2, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się agenta firmy inwestycyjnej do powstania naruszenia;
+- **3)** sytuację finansową agenta firmy inwestycyjnej, na którego jest nakładana kara, szczególności wysokość jego całkowitych obrotów;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez agenta firmy inwestycyjnej, jeżeli można te korzyści lub straty ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań agenta firmy inwestycyjnej;
+- **7)** gotowość agenta firmy inwestycyjnej do współpracy z Komisją podczas wyjaśniania okoliczności powstania naruszenia;
+- **8)** uprzednie naruszenie przepisów prawa regulujących prowadzenie działalności przez agentów firm inwestycyjnych przez agenta firmy inwestycyjnej, na którego jest nakładana kara.
+
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio przypadku powzięcia przez Komisję informacji o naruszeniu przez agenta firmy inwestycyjnej prowadzącego działalność na terytorium innego państwa członkowskiego przepisów regulujących prowadzenie działalności przez agentów firm inwestycyjnych na terytorium tego państwa. W takim przypadku o zastosowaniu sankcji Komisja informuje właściwy organ nadzoru państwa członkowskiego.
+
+4. Podmiot, który został skreślony z rejestru agentów firm inwestycyjnych zgodnie z ust. 1 pkt 5, nie może ponownie być wpisany do tego rejestru przed upływem 10 lat od dnia skreślenia, a przypadku gdy skreślenie nastąpiło związku z popełnieniem przez agenta firmy inwestycyjnej przestępstwa także przed zatarciem skazania za to przestępstwo.
+
+5. Stroną postępowania sprawie, o której mowa ust. 1 pkt 5, jest agent firmy inwestycyjnej i firma inwestycyjna, bank państwowy prowadzący działalność maklerską lub bank, o którym mowa art. 70 ust. 2, z którymi agent firmy inwestycyjnej pozostawał stosunku umownym o wykonywanie czynności pośrednictwa czasie gdy naruszył przepisy, o których mowa ust. 1, wykonywał powierzone mu czynności wynikające z umowy zawartej z firmą inwestycyjną lub bankiem, o którym mowa art. 70 ust. 2, niezgodnie z przepisami prawa, nie przestrzegał zasad uczciwego obrotu lub naruszył interesy zleceniodawcy firmy inwestycyjnej lub banku, o którym mowa art. 70 ust. 2, których był agentem.
+
+**Art. 167b.** (uchylony) Art. 167ba. 1. W przypadku gdy zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, naruszają wymogi:
+
+**Art. 167c.**
+
+1. Komisja może zatwierdzonemu podmiotowi publikującemu lub zatwierdzonemu mechanizmowi sprawozdawczemu posiadającym zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, zawiesić zezwolenie na świadczenie usług przypadkach określonych art. 27e ust. 1 rozporządzenia 600/2014 do czasu zaprzestania działań skutkujących powstaniem naruszeń, jednak nie dłużej niż na okres 6 miesięcy.
+
+2. W przypadku zawieszenia zezwolenia, o którym mowa ust. 1, na podstawie art. 27e ust. 1 lit. b–d rozporządzenia 600/2014, Komisja może jednocześnie nałożyć karę pieniężną wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 złotych, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy.
+
+3. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2, uwzględnia szczególności okoliczności, o których mowa art. 167ba ust. 2. Przepisy art. 167ba ust. 3–5 stosuje się odpowiednio.
+
+4. (uchylony)
+
+5. Decyzja, o której mowa ust. 1, podlega ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego. Art. 167ca. 1. W przypadku cofnięcia przez Komisję zatwierdzonemu podmiotowi publikującemu lub zatwierdzonemu mechanizmowi sprawozdawczemu posiadającym zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, zezwolenia na świadczenie usług na podstawie art. 27e ust. 1 lit. b–d rozporządzenia 600/2014 Komisja może jednocześnie nałożyć karę pieniężną wysokości do 20 750 000 złotych albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 złotych, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy.
+
+2. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 1, uwzględnia szczególności okoliczności, o których mowa art. 167ba ust. 2. Przepisy art. 167ba ust. 3–5 stosuje się odpowiednio.
+
+3. (uchylony)
+
+4. Decyzja, o której mowa ust. 1, podlega ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+**Art. 167d.**
+
+1. W przypadku gdy firma inwestycyjna, świadcząc usługę pośrednictwa zawieraniu umowy lokaty strukturyzowanej lub wykonując czynności odpowiadające działalności, o której mowa art. 69 ust. 2 pkt 5, odniesieniu do lokat strukturyzowanych, narusza przepisy, o których mowa art. 69h ust. 2, Komisja może:
+
+- **1)** nakazać firmie inwestycyjnej zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości lub nałożyć na firmę inwestycyjną karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł, albo gdy jest możliwe ustalenie kwoty korzyści osiągniętej wyniku naruszenia nałożyć na firmę inwestycyjną karę pieniężną do wysokości dwukrotności kwoty osiągniętej korzyści; lub nałożyć na te osoby, drodze decyzji, karę pieniężną do wysokości 20 750 000 zł;
+- **3)** zawiesić czynnościach członka zarządu firmy inwestycyjnej odpowiedzialnego za stwierdzone naruszenie na okres nie dłuższy niż 12 miesięcy;
+- **4)** nakazać odwołanie członka zarządu firmy inwestycyjnej odpowiedzialnego za stwierdzone naruszenie przypadku rażących i uporczywych naruszeń przepisów, o których mowa art. 69h ust. 2.
+
+2. W przypadku gdy firma inwestycyjna jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1 pkt 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+3. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1 pkt 1 lub ust. 2.
+
+4. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 1 pkt 1 lub 2, uwzględnia szczególności okoliczności określone art. 167 ust. 2d.
+
+**Art. 167e.** W przypadku gdy pośrednik, o którym mowa art. 68i ust. 1 pkt 1, lub podmiot mający siedzibę na terytorium państwa innego niż państwo członkowskie, o którym mowa art. 68i ust. 2, narusza przepisy działu IIIA, Komisja może nakazać, odpowiednio temu pośrednikowi albo temu podmiotowi, zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości albo nałożyć na tego pośrednika albo na ten podmiot karę pieniężną do wysokości 500 000 zł.
+
+**Art. 167f.**
+
+- **244)** 1. Komisja może, z zastrzeżeniem ust. 3, cofnąć zezwolenie na prowadzenie działalności maklerskiej albo ograniczyć zakres prowadzonej działalności maklerskiej, przypadku gdy bank państwowy prowadzący działalność maklerską:
+- **1)** narusza przepisy ustawy lub innych ustaw mających zastosowanie do prowadzenia działalności maklerskiej, tym zasad i trybu jej prowadzenia, przepisy wydane na ich podstawie lub bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do prowadzenia działalności maklerskiej;
+- **2)** nie przestrzega zasad uczciwego obrotu;
+- **3)** narusza interesy zleceniodawcy;
+- **4)** przestał spełniać warunki, które były podstawą udzielenia zezwolenia;
+- **5)** otrzymał zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę.
+
+2. Jeżeli przypadku, o którym mowa ust. 1 pkt 1, Komisja ograniczy zakres prowadzonej działalności maklerskiej, Komisja może również:
+
+- **1)** nakazać bankowi państwowemu prowadzącemu działalność maklerską zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości lub
+- **2)** zakazać, na czas określony, zawierania na rynku regulowanym, ASO lub na OTF transakcji mających za przedmiot określony instrument finansowy.
+
+3. W przypadkach, o których mowa ust. 1 pkt 1–3 lub 5, Komisja może również:
+
+- **1)** nałożyć na bank państwowy prowadzący działalność maklerską karę pieniężną do wysokości 21 312 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu pierwszym roku działalności, określonego przedłożonej Komisji informacji finansowej, o której mowa art. 5 lit. a rozporządzenia 2017/1943, jeżeli przekracza ona 21 312 000 zł, albo
+- **2)** zastosować jedną z sankcji określonych ust. 1 i jednocześnie nałożyć karę pieniężną, o której mowa pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuścił się bank państwowy prowadzący działalność maklerską.
+
+4. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 3 pkt 1. maklerską wyniku naruszenia, o którym mowa ust. 1 pkt 1–3 lub 5, kara pieniężna, o której mowa ust. 3 pkt 1 albo 2, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+6. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 3, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się banku państwowego prowadzącego działalność maklerską do powstania naruszenia;
+- **3)** sytuację banku państwowego prowadzącego działalność maklerską, na który jest nakładana kara, szczególności wysokość jego całkowitych obrotów;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez bank państwowy prowadzący działalność maklerską, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań banku państwowego prowadzącego działalność maklerską;
+- **7)** gotowość banku państwowego prowadzącego działalność maklerską do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności przez banki prowadzące działalność maklerską, popełnione przez bank państwowy prowadzący działalność maklerską, na który jest nakładana kara.
+
+7. Sankcje, o których mowa ust. 1, 2 lub 3, Komisja może zastosować również wobec banku państwowego prowadzącego działalność maklerską, powierzającego do wykonywania czynności wskazane art. 79 ust. 2 agentowi firmy inwestycyjnej, który związku z wykonywaniem czynności na rzecz tego banku narusza przepisy prawa, zasady uczciwego obrotu lub interesy zleceniodawców.
+
+8. W przypadku cofnięcia zezwolenia na prowadzenie działalności maklerskiej, o którym mowa art. 111a ust. 1, bank państwowy, który je utracił, nie może ponownie wystąpić z wnioskiem o udzielenie zezwolenia na prowadzenie tej działalności przed upływem 5 lat od dnia, którym decyzja o cofnięciu zezwolenia stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
+
+9. W razie konieczności zabezpieczenia interesu publicznego, Komisja może, od chwili wszczęcia postępowania sprawach, o których mowa ust. 1, zawiesić, na okres nie dłuższy niż miesiąc, możliwość prowadzenia, całości lub części, działalności maklerskiej.
+
+10. W razie konieczności zabezpieczenia interesu publicznego Komisja może decyzji sprawie cofnięcia zezwolenia na prowadzenie działalności maklerskiej wskazać termin, którym następuje zakończenie jej prowadzenia.
+
+**Art. 168.**
+
+1. W przypadku gdy bank powierniczy:
+
+- **1)** istotnie narusza przepisy prawa, szczególności przepisy wydane na podstawie art. 94 ust. 1 pkt 1 i 5,
+- **2)** nie przestrzega zasad uczciwego obrotu,
+- **3)** narusza interesy zleceniodawcy Komisja może, z zastrzeżeniem ust. 2, nałożyć na ten bank karę pieniężną do wysokości 500 000 zł.
+
+2. W przypadku gdy uzasadnia to charakter naruszeń, których dopuścił się bank powierniczy, Komisja może cofnąć zezwolenie na prowadzenie działalności powierniczej.
+
+3. Przepisy art. 167 ust. 4, 5 i 9 stosuje się odpowiednio do banku powierniczego.
+
+**Art. 168a.**
+
+1. W przypadku stwierdzenia przez Komisję, że zagraniczna firma inwestycyjna prowadząca działalność maklerską na terytorium Rzeczypospolitej Polskiej przez utworzenie oddziału lub bez otwierania oddziału narusza przepisy prawa, których przestrzeganie pozostaje pod nadzorem właściwego organu nadzoru innego państwa członkowskiego, który udzielił tej zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, lub że przepisy te narusza jej agent, Komisja zawiadamia ten organ nadzoru. W zawiadomieniu Komisja przedstawia opis naruszeń i zwraca się o podjęcie odpowiednich środków przez właściwy organ nadzoru innego państwa członkowskiego, a przypadku gdy zagraniczna firma inwestycyjna lub jej agent, naruszając te przepisy, działa na szkodę interesów inwestorów lub prawidłowego funkcjonowania rynku finansowego, Komisja wyznacza również termin, ciągu którego środki podjęte przez ten organ powinny doprowadzić do zaprzestania naruszeń przez zagraniczną firmę inwestycyjną. udzielił zagranicznej firmie inwestycyjnej zezwolenia, odpowiedzi na zawiadomienie, o którym mowa ust. 1, lub niepodjęcia przez ten organ odpowiednich środków, lub gdy pomimo ich podjęcia nie okażą się one skuteczne, i zagraniczna firma inwestycyjna, naruszając przepisy, o których mowa ust. 1, lub jej agent, nadal działa na szkodę interesów inwestorów lub prawidłowego funkcjonowania rynku finansowego, Komisja, po poinformowaniu tego organu nadzoru, może, drodze decyzji:
+
+- **1)** zakazać tej firmie, całości albo części, wykonywania działalności maklerskiej na terytorium Rzeczypospolitej Polskiej albo
+- **2)** zawiesić, całości albo części, prawo wykonywania działalności maklerskiej przez tę firmę do czasu zaprzestania działań skutkujących powstaniem naruszeń, jednak nie dłużej niż na okres 6 miesięcy, albo
+- **3)** zakazać tej firmie prowadzenia działalności, o której mowa art. 117a ust. 1, albo
+- **4)** nałożyć na tę firmę karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania karę pieniężną do wysokości 10 % prognozowanego przychodu pierwszym roku działalności, określonego przedłożonej właściwemu organowi nadzoru innego państwa członkowskiego informacji, o której mowa art. 5 lit. a rozporządzenia 2017/1943 jeżeli przekracza ona 20 750 000 zł, albo
+- **5)** nakazać naprawienie szkody wyrządzonej inwestorom wskutek działań zagranicznej firmy inwestycyjnej lub jej agenta, o ile możliwe jest jej ustalenie, albo
+- **6)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości, albo
+- **7)** zakazać osobom odpowiedzialnym za zaistniałe naruszenie udziału prowadzeniu działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, albo
+- **8)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenia, albo
+- **9)** zastosować jedną lub kilka sankcji określonych pkt 1–3 lub 5–7 oraz nałożyć karę pieniężną, o której mowa pkt 4 lub 8.
+
+3. W przypadku gdy właściwy organ nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, nie zgadza się z oceną naruszeń, o których mowa ust. 1, Komisja może, przed wydaniem decyzji, o której mowa ust. 2, skierować sprawę do Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 19 rozporządzenia 1095/2010.
+
+4. W przypadku gdy naruszenia dokonane przez zagraniczną firmę inwestycyjną dotyczą przepisów działu IV rozdziału 1 oddziału 2a, przepisów prawa bankowego stosowanych przez niektóre domy maklerskie, przepisów rozporządzenia 2019/2033 lub rozporządzenia 575/2013, zastosowanie sankcji, o których mowa ust. 2, następuje po poinformowaniu również Europejskiego Urzędu Nadzoru Bankowego.
+
+5. W przypadku gdy zagraniczna firma inwestycyjna jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 2 pkt 4, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+6. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 2 pkt 4 lub ust. 5.
+
+7. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez firmę inwestycyjną wyniku naruszenia, o którym mowa ust. 1, kara pieniężna, o której mowa ust. 2 pkt 4 albo 8, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+8. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 2 pkt 4 lub 8, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się zagranicznej firmy inwestycyjnej lub jej agenta do powstania naruszenia;
+- **3)** sytuację finansową zagranicznej firmy inwestycyjnej, na którą jest nakładana kara, szczególności wysokość jej całkowitych obrotów; korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań zagranicznej firmy inwestycyjnej lub jej agenta;
+- **7)** gotowość zagranicznej firmy inwestycyjnej do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie, stwierdzone przez Komisję, naruszenia przepisów prawa regulujących prowadzenie działalności przez zagraniczne firmy inwestycyjne, popełnione odpowiednio przez zagraniczną firmę inwestycyjną, jej agenta lub osoby, na które jest nakładana kara.
+
+9. W przypadku zakazania zagranicznej firmie inwestycyjnej prowadzenia, całości albo części, działalności maklerskiej na terytorium Rzeczypospolitej Polskiej firma ta nie może podjąć tej działalności przed upływem 5 lat od dnia, którym decyzja zakazująca prowadzenie takiej działalności stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
+
+10. W przypadku zakazania osobie odpowiedzialnej za zaistniałe naruszenie udziału prowadzeniu działalności maklerskiej na terytorium Rzeczypospolitej Polskiej osoba ta nie może wykonywać czynności związanych z działalnością maklerską ramach umowy o pracę, zlecenia lub innej umowy o podobnym charakterze, zawartej z firmą inwestycyjną, ani pełnić funkcji organach domu maklerskiego, przez okres 5 lat od dnia, którym decyzja o takim zakazie stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego okresu.
+
+11. Komisja prowadzi jawny rejestr osób, którym wydano zakaz, o którym mowa ust. 2 pkt 7.
+
+12. Komisja informuje Komisję Europejską oraz Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o sankcjach zastosowanych zgodnie z ust. 2.
+
+**Art. 169.**
+
+1. W przypadku stwierdzenia przez Komisję, że zagraniczna firma inwestycyjna prowadząca działalność maklerską na terytorium Rzeczypospolitej Polskiej przez utworzenie oddziału, lub bez otwierania oddziału, ale za pośrednictwem agenta przebywającego na terytorium Rzeczypospolitej Polskiej, narusza przepisy prawa, których przestrzeganie pozostaje pod nadzorem Komisji, lub że przepisy te narusza taki agent, Komisja wzywa pisemnie zagraniczną firmę inwestycyjną do zaprzestania tych naruszeń, wyznaczając termin do ich usunięcia.
+
+2. Bieg terminu do usunięcia przez zagraniczną firmę inwestycyjną naruszeń wskazanych wezwaniu rozpoczyna się dniu następującym po dniu otrzymania wezwania.
+
+3. Zagraniczna firma inwestycyjna niezwłocznie, jednak nie później niż dniu następującym po upływie terminu do usunięcia naruszeń wskazanych wezwaniu, przekazuje Komisji informację o sposobie uwzględnienia wezwania, wskazując szczegółowy sposób usunięcia wskazanych wezwaniu naruszeń.
+
+4. Przez wezwanie, o którym mowa ust. 1, rozumie się również wydanie zaleceń, o których mowa art. 36 ust. 5 lub 6 ustawy o nadzorze. Do obliczania biegu terminu i informowania Komisji o sposobie uwzględnienia wezwania stosuje się przepisy art. 36 ust. 7 i 8 ustawy o nadzorze.
+
+5. Jeżeli zagraniczna firma inwestycyjna nie usunęła całości stwierdzonych naruszeń lub bezskutecznie upłynął termin na ich usunięcie, Komisja może:
+
+- **1)** drodze decyzji:
+    - **a)** zawiesić, całości albo części, prawo wykonywania działalności maklerskiej na terytorium Rzeczypospolitej Polskiej przez zagraniczną firmę inwestycyjną do czasu zaprzestania działań skutkujących powstaniem naruszeń, jednak nie dłużej niż na okres 6 miesięcy, lub
+    - **b)** nakazać naprawienie szkody wyrządzonej inwestorom wskutek działań zagranicznej firmy inwestycyjnej lub jej agenta, o ile jest możliwe jej ustalenie, albo
+
+- **2)** skierować sprawę do Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 19 rozporządzenia 1095/2010.
+
+6. Wydając decyzję, o której mowa ust. 5 pkt 1 lit. a, Komisja może określić szczegółowe warunki zawieszenia prawa wykonywania działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, tym termin, od którego prawo to jest zawieszone, oraz czynności, które zagraniczna firma inwestycyjna jest obowiązana podjąć celu należytego zabezpieczenia interesów inwestorów związku z zawieszeniem.
+
+7. O wydaniu decyzji, o której mowa ust. 5 pkt 1, oraz o jej treści Komisja informuje właściwy organ nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia. szym ciągu, naruszając przepisy, o których mowa ust. 1, działa na szkodę interesów inwestorów lub prawidłowego funkcjonowania rynku finansowego lub działa sposób naruszający zasady uczciwego obrotu, Komisja, po poinformowaniu właściwego organu nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia, może, drodze decyzji:
+
+- **1)** zakazać tej firmie, całości albo części, wykonywania działalności maklerskiej na terytorium Rzeczypospolitej Polskiej albo
+- **2)** nałożyć na tę firmę karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku takiego sprawozdania karę pieniężną wysokości do 10 % prognozowanego przychodu pierwszym roku działalności, określonego przedłożonej właściwemu organowi nadzoru innego państwa członkowskiego informacji, o której mowa art. 5 lit. a rozporządzenia 2017/1943 jeżeli przekracza ona 20 750 000 zł, albo
+- **3)** nakazać naprawienie szkody wyrządzonej inwestorom wskutek działań zagranicznej firmy inwestycyjnej lub jej agenta, o ile możliwe jest jej ustalenie, a nakaz nie był wcześniej nałożony, albo szkoda ujawniła się po wydaniu decyzji, o której mowa ust. 5 pkt 1, albo
+- **4)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości, albo
+- **5)** zakazać osobom odpowiedzialnym za zaistniałe naruszenie udziału prowadzeniu działalności maklerskiej na terytorium Rzeczypospolitej Polskiej, albo
+- **6)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenia, albo
+- **7)** zastosować jedną lub kilka sankcji określonych pkt 1 lub 3–5 oraz nałożyć karę pieniężną, o której mowa pkt 2 lub 6.
+
+9. W przypadku gdy właściwy organ nadzoru innego państwa członkowskiego, który udzielił zagranicznej firmie inwestycyjnej zezwolenia, po otrzymaniu informacji, o której mowa ust. 7, nie zgadza się z decyzją, o której mowa ust. 5 pkt 1, a informację o tym przekazał Komisji przed wydaniem decyzji, o której mowa ust. 8, Komisja może skierować sprawę do Europejskiego Urzędu Nadzoru Giełd i Papierów Wartościowych zgodnie z art. 19 rozporządzenia 1095/2010.
+
+10. W przypadku gdy zagraniczna firma inwestycyjna jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 8 pkt 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+11. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 8 pkt 2 lub ust. 10.
+
+12. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez firmę inwestycyjną wyniku naruszenia, o którym mowa ust. 1, kara pieniężna, o której mowa ust. 8 pkt 2 albo 6, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+13. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 8 pkt 2 lub 6, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się zagranicznej firmy inwestycyjnej lub jej agenta do powstania naruszenia;
+- **3)** sytuację finansową zagranicznej firmy inwestycyjnej, na którą jest nakładana kara, szczególności wysokość jej całkowitych obrotów;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez zagraniczną firmę inwestycyjną lub jej agenta, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań zagranicznej firmy inwestycyjnej lub jej agenta;
+- **7)** gotowość zagranicznej firmy inwestycyjnej do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie, stwierdzone przez Komisję, naruszenia przepisów prawa regulujących prowadzenie działalności przez zagraniczne firmy inwestycyjne, popełnione przez zagraniczną firmę inwestycyjną, jej agenta lub osoby, na które jest nakładana kara. maklerskiej na terytorium Rzeczypospolitej Polskiej firma ta nie może podjąć tej działalności przed upływem 5 lat od dnia, którym decyzja zakazująca prowadzenie takiej działalności stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
+
+15. W przypadku zakazania osobie odpowiedzialnej za zaistniałe naruszenie udziału prowadzeniu działalności maklerskiej na terytorium Rzeczypospolitej Polskiej osoba ta nie może wykonywać czynności związanych z działalnością maklerską ramach umowy o pracę, zlecenia lub innej umowy o podobnym charakterze, zawartej z firmą inwestycyjną, ani pełnić funkcji organach domu maklerskiego, przez okres 5 lat od dnia, którym decyzja o takim zakazie stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego okresu.
+
+16. Komisja prowadzi jawny rejestr osób, którym wydano zakaz, o którym mowa ust. 8 pkt 5.
+
+17. Komisja informuje Komisję Europejską oraz Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o sankcjach zastosowanych zgodnie z ust. 8.
+
+**Art. 169a.**
+
+1. W przypadku gdy dom maklerski narusza przepisy regulujące prowadzenie działalności maklerskiej, Komisja może, drodze decyzji:
+
+- **1)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenie lub
+- **2)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości, lub
+- **3)** nakazać odwołanie członka zarządu odpowiedzialnego za stwierdzone naruszenie, przypadku gdy naruszenia mają charakter poważny.
+
+1a. W przypadku gdy spółka prowadząca rynek regulowany narusza przepisy regulujące zasady prowadzenia działalności przez spółkę prowadzącą rynek regulowany, Komisja może, drodze decyzji:
+
+- **1)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenie lub
+- **2)** nakazać odwołanie członka zarządu spółki prowadzącej rynek regulowany odpowiedzialnego za zaistniałe naruszenie, przypadku gdy naruszenia mają charakter poważny. 1aa. W przypadku gdy agent firmy inwestycyjnej będący osobą prawną albo jednostką organizacyjną nieposiadającą osobowości prawnej, wykonując czynności, o których mowa art. 79 ust. 2, narusza przepisy ustawy lub innych ustaw mających zastosowanie do działalności agenta firmy inwestycyjnej, przepisy wydane na ich podstawie lub przepisy rozporządzenia 2019/2033, rozporządzenia 575/2013, rozporządzenia 596/2014, rozporządzenia 600/2014, rozporządzenia 1031/2010 lub inne bezpośrednio stosowane przepisy prawa Unii Europejskiej mające zastosowanie do działalności agenta firmy inwestycyjnej, wykonuje czynności powierzone mu na podstawie umowy zawartej z firmą inwestycyjną, bankiem państwowym prowadzącym działalność maklerską lub bankiem, o którym mowa art. 70 ust. 2, niezgodnie z przepisami prawa, a także przypadku gdy nie przestrzega zasad uczciwego obrotu lub narusza interesy zleceniodawcy firmy inwestycyjnej, banku państwowego prowadzącego działalność maklerską lub banku, o którym mowa art. 70 ust. 2, których jest agentem, Komisja może:
+- **1)** nałożyć karę pieniężną do wysokości 500 000 zł na osoby odpowiedzialne za powstanie naruszenia lub
+- **2)** nakazać osobom odpowiedzialnym za powstanie naruszenia zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości, lub
+- **3)** nakazać odwołanie członka zarządu agenta firmy inwestycyjnej odpowiedzialnego za powstanie naruszenia, przypadku gdy naruszenia mają charakter poważny.
+
+1b. W przypadku gdy bank prowadzący działalność maklerską lub zagraniczna osoba prawna prowadząca działalność maklerską na terytorium Rzeczypospolitej Polskiej narusza przepisy regulujące prowadzenie działalności maklerskiej, Komisja może, drodze decyzji:
+
+- **1)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenie lub
+- **2)** nakazać odwołanie osoby odpowiedzialnej za zaistniałe naruszenia, przypadku gdy naruszenia mają charakter poważny. zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, narusza przepisy określające zasady świadczenia usług zakresie udostępniania informacji, Komisja może, drodze decyzji:
+- **1)** nałożyć karę pieniężną do wysokości 20 750 000 zł na osoby odpowiedzialne za zaistniałe naruszenie lub
+- **2)** nakazać odwołanie członka zarządu zatwierdzonego podmiotu publikującego lub zatwierdzonego mechanizmu sprawozdawczego odpowiedzialnego za zaistniałe naruszenie, przypadku gdy naruszenia mają charakter poważny. 1bb. W przypadku, o którym mowa ust. 1 pkt 1, ust. 1a pkt 1, ust. 1aa pkt 1, ust. 1b pkt 1 oraz ust. 1ba pkt 1, Komisja może nałożyć karę również na osobę, która okresie, którym powstały naruszenia, pełniła funkcję członka zarządu lub rady nadzorczej.
+
+1c. (uchylony) 1d. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 1–1bb, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się osoby odpowiedzialnej za dane naruszenie do jego powstania;
+- **3)** sytuację finansową osoby odpowiedzialnej za dane naruszenie;
+- **4)** skalę korzyści uzyskanych lub strat unikniętych przez osobę odpowiedzialną za dane naruszenie, jeżeli można te korzyści lub straty ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań osoby odpowiedzialnej za dane naruszenie;
+- **7)** gotowość osoby odpowiedzialnej za dane naruszenie do współpracy z Komisją;
+- **8)** uprzednie naruszenia przepisów prawa regulujących prowadzenie działalności odpowiednio przez dom maklerski, spółkę prowadzącą rynek regulowany, bank prowadzący działalność maklerską lub zatwierdzony podmiot publikujący lub zatwierdzony mechanizm sprawozdawczy posiadające zezwolenie Komisji, o którym mowa art. 27c ust. 1 rozporządzenia 600/2014, popełnione przez osobę odpowiedzialną za dane naruszenie;
+- **9)** potencjalne skutki systemowe naruszenia.
+
+1e. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej przez osoby, o których mowa ust. 1–1bb, wyniku naruszenia, o którym mowa tych przepisach, kara pieniężna, o której mowa ust. 1–1bb, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+2. (uchylony)
+
+**Art. 169b.**
+
+1. Komisja przekazuje corocznie Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych informację o przypadkach zastosowania poprzednim roku kalendarzowym sankcji, o których mowa art. 165 ust. 1a i art. 169a ust. 1–1ba, oraz sankcji, o których mowa art. 167 ust. 1–3, z wyłączeniem cofnięcia zezwolenia na prowadzenie działalności maklerskiej.
+
+2. Z zastrzeżeniem wymogów dotyczących ochrony tajemnicy zawodowej, o których mowa art. 147, Komisja informuje Europejski Urząd Nadzoru Bankowego o sankcjach nałożonych związku z naruszeniem przepisów działu IV rozdziału 1 oddziału 2a, przepisów prawa bankowego stosowanych przez niektóre domy maklerskie, przepisów rozporządzenia 2019/2033 lub rozporządzenia 575/2013, a także o wniesionych środkach odwoławczych oraz o sposobie ich rozpatrzenia. Art. 169ba. 250) 1. W przypadku naruszenia art. 110ec ust. 1 przez osobę inną niż dom maklerski Komisja może, drodze decyzji:
+
+- **1)** nakazać osobie oferującej podmiotowi innemu niż podmioty wymienione art. 3 pkt 39b lit. a–m zawarcie umowy pożyczki podporządkowanej, o której mowa art. 110eb ust. 1, zaprzestanie działań skutkujących naruszeniem art. 110ec ust. 1 lub powstrzymanie się od takich działań przyszłości; pożyczki podporządkowanej, o której mowa art. 110eb ust. 1, karę pieniężną do wysokości nieprzekraczającej:
+    - **a)** przypadku osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej: 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych wyniku naruszenia przypadku gdy jest możliwe ich ustalenie,
+    - **b)** przypadku osoby fizycznej: kwoty 2 905 000 zł albo dwukrotności kwoty korzyści uzyskanych lub strat unikniętych wyniku naruszenia przypadku gdy jest możliwe ich ustalenie.
+
+2. Przepisy art. 3h ust. 3–8 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym stosuje się odpowiednio.
+
+**Art. 169c.**
+
+1. W przypadku gdy spółka prowadząca rynek regulowany narusza przepisy regulujące prowadzenie platformy aukcyjnej, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 5 000 000 euro na osoby odpowiedzialne za zaistniałe naruszenia.
+
+2. Równowartość złotych kwoty euro wyznacza się oparciu o średni kurs euro ogłoszony przez Narodowy Bank Polski dniu 19 listopada 2010 r.
+
+3. (uchylony)
+
+**Art. 170.**
+
+1. W przypadku gdy Krajowy Depozyt narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jego uczestników, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+2. (uchylony)
+
+**Art. 170a.**
+
+1. W przypadku gdy spółka, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1–6 lub ust. 2, narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jej uczestników, Komisja może zakazać wykonywania tych czynności lub nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+2. (uchylony)
+
+3. (uchylony)
+
+**Art. 170b.**
+
+1. W przypadku gdy spółka prowadząca izbę rozliczeniową narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jej uczestników, Komisja może cofnąć spółce zezwolenie na prowadzenie izby rozliczeniowej lub nałożyć na spółkę karę pieniężną do wysokości 1 000 000 zł.
+
+2. (uchylony)
+
+3. (uchylony)
+
+**Art. 170c.**
+
+1. W przypadku gdy spółka prowadząca izbę rozrachunkową narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jej uczestników, Komisja może cofnąć spółce zezwolenie na prowadzenie izby rozrachunkowej lub nałożyć na spółkę karę pieniężną do wysokości 1 000 000 zł.
+
+2. (uchylony)
+
+**Art. 170d.**
+
+1. W przypadku gdy posiadacz rachunku zbiorczego nie przekazuje informacji odpowiedzi na przekazane mu przez podmiot prowadzący rachunek zbiorczy żądanie Komisji, o którym mowa art. 8b ust. 1, albo przekazuje informacje nieprawdziwe lub nierzetelne, Komisja może nałożyć na posiadacza rachunku zbiorczego karę pieniężną do wysokości 500 000 zł.
+
+2. W przypadku gdy podmiot prowadzący rachunek zbiorczy nie przekazuje posiadaczowi rachunku zbiorczego żądania Komisji, o którym mowa art. 8b ust. 1, lub nie przekazuje Komisji informacji otrzymanych od posiadacza rachunku zbiorczego odpowiedzi na żądanie Komisji, o którym mowa art. 8b ust. 1, Komisja może nałożyć na podmiot prowadzący rachunek zbiorczy karę pieniężną do wysokości 500 000 zł.
+
+- **1)** wymogi organizacyjne określone art. 26–30 rozporządzenia 909/2014,
+- **2)** zasady prowadzenia działalności określone art. 32–35 rozporządzenia 909/2014,
+- **3)** wymogi dotyczące usług centralnego depozytu papierów wartościowych określone art. 37–41 rozporządzenia 909/2014,
+- **4)** wymogi ostrożnościowe określone art. 43–46 oraz art. 47 ust. 2 rozporządzenia 909/2014,
+- **5)** wymogi kapitałowe określone art. 47 ust. 1 rozporządzenia 909/2014,
+- **6)** wymogi dotyczące połączeń operacyjnych centralnych depozytów papierów wartościowych określone art. 48 rozporządzenia 909/2014,
+- **7)** zasady udzielania przez centralne depozyty papierów wartościowych poszczególnych rodzajów dostępu, określone art. 49–53 rozporządzenia 909/2014 Komisja może nakazać centralnemu depozytowi papierów wartościowych usunięcie stwierdzonych naruszeń lub przyczyn tych naruszeń lub nałożyć na ten podmiot karę pieniężną do wysokości 82 680 000 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 82 680 000 zł.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez centralny depozyt papierów wartościowych wyniku naruszenia wymogów i zasad, o których mowa ust. 1, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości dwukrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+3. W przypadku gdy centralny depozyt papierów wartościowych jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu centralnego depozytu ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Komisja może cofnąć zezwolenie udzielone centralnemu depozytowi papierów wartościowych na podstawie art. 16 rozporządzenia 909/2014 przypadkach określonych art. 20 tego rozporządzenia.
+
+5. W decyzji przedmiocie cofnięcia zezwolenia udzielonego centralnemu depozytowi papierów wartościowych na podstawie art. 16 rozporządzenia 909/2014 Komisja może jednocześnie nałożyć karę pieniężną, o której mowa ust. 1 lub 2, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się centralny depozyt papierów wartościowych.
+
+6. W przypadku gdy centralny depozyt papierów wartościowych narusza wymogi i zasady, o których mowa ust. 1, Komisja może:
+
+- **1)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestania działań skutkujących powstaniem naruszeń lub nałożyć na te osoby karę pieniężną do wysokości 20 670 000 zł;
+- **2)** zawiesić czynnościach członka zarządu centralnego depozytu papierów wartościowych odpowiedzialnego za stwierdzone naruszenie na okres nie dłuższy niż 12 miesięcy;
+- **3)** odwołać członka zarządu centralnego depozytu papierów wartościowych odpowiedzialnego za stwierdzone naruszenie przypadku gdy naruszenia, o których mowa ust. 1, mają charakter poważny i systematyczny.
+
+7. Komisja przekazuje do publicznej wiadomości informację o:
+
+- **1)** treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, imię i nazwisko osoby fizycznej lub firmę (nazwę) centralnego depozytu papierów wartościowych, na który została nałożona sankcja,
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy,
+- **3)** treści rozstrzygnięcia ostatecznej decyzji zgodnie z zasadami określonymi art. 62 rozporządzenia 909/2014.
+
+8. Przekazanie do publicznej wiadomości informacji określonych ust. 7 pkt 1 lub 3 wymaga podjęcia przez Komisję uchwały.
+
+9. Informacje, o których mowa ust. 7, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na swojej stronie internetowej przez okres roku, licząc od dnia ich udostępnienia. depozyt papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia, narusza:
+
+- **1)** wymogi ostrożnościowe dotyczące ryzyk kredytowych, określone art. 59 ust. 3 rozporządzenia 909/2014,
+- **2)** wymogi ostrożnościowe dotyczące ryzyk utraty płynności, określone art. 59 ust. 4 rozporządzenia 909/2014 Komisja może nakazać tym podmiotom usunięcie stwierdzonych naruszeń lub przyczyn tych naruszeń lub nałożyć na te podmioty karę pieniężną do wysokości 82 680 000 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 82 680 000 zł.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmioty, o których mowa ust. 1, wyniku naruszenia wymogów, o których mowa ust. 1, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości dwukrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+3. W przypadku gdy podmiot wyznaczony do świadczenia bankowych usług pomocniczych lub centralny depozyt papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia, jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu tych podmiotów ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Komisja może cofnąć zezwolenie udzielone centralnemu depozytowi papierów wartościowych na podstawie art. 54 rozporządzenia 909/2014 przypadkach określonych art. 57 tego rozporządzenia.
+
+5. W przypadku gdy podmiot wyznaczony do świadczenia bankowych usług pomocniczych lub centralny depozyt papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia, narusza wymogi, o których mowa ust. 1, Komisja może:
+
+- **1)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestania działań skutkujących powstaniem naruszeń lub nałożyć na te osoby karę pieniężną do wysokości 20 670 000 zł;
+- **2)** zawiesić czynnościach członka zarządu odpowiedzialnego za stwierdzone naruszenie podmiotu wyznaczonego do świadczenia bankowych usług pomocniczych lub centralnego depozytu papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia na okres nie dłuższy niż 12 miesięcy;
+- **3)** odwołać członka zarządu odpowiedzialnego za stwierdzone naruszenie podmiotu wyznaczonego do świadczenia bankowych usług pomocniczych lub centralnego depozytu papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia przypadku gdy naruszenia, o których mowa ust. 1, mają charakter poważny i systematyczny.
+
+6. Komisja przekazuje do publicznej wiadomości informację o:
+
+- **1)** treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, imię i nazwisko osoby fizycznej lub firmę (nazwę) podmiotu wyznaczonego do świadczenia bankowych usług pomocniczych lub centralnego depozytu papierów wartościowych, który na podstawie art. 54 ust. 2 lit. a rozporządzenia 909/2014 uzyskał zezwolenie na świadczenie bankowych usług pomocniczych określonych załączniku do tego rozporządzenia, na który została nałożona sankcja,
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy,
+- **3)** treści rozstrzygnięcia ostatecznej decyzji zgodnie z zasadami określonymi art. 62 rozporządzenia 909/2014.
+
+7. Przekazanie do publicznej wiadomości informacji określonych ust. 6 pkt 1 lub 3 wymaga podjęcia przez Komisję uchwały.
+
+8. Informacje, o których mowa ust. 6, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na swojej stronie internetowej przez okres roku, licząc od dnia ich udostępnienia. mowa art. 64 rozporządzenia 909/2014.
+
+**Art. 171.**
+
+1. Na każdego, kto nie dokonuje zawiadomienia, o którym mowa art. 24 ust. 1, art. 47 ust. 1, art. 106 ust. 1, art. 107 ust. 1 lub art. 31 ust. 2 rozporządzenia 648/2012, lub nie wykonuje tej czynności, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 500 000 zł.
+
+2. Komisja może, drodze decyzji, nałożyć karę, o której mowa ust. 1, również na osobę, która:
+
+- **1)** nabywa lub obejmuje akcje pomimo zgłoszenia sprzeciwu, o którym mowa art. 24 ust. 3 lub art. 47 ust. 3, lub
+- **2)** nabywa lub obejmuje akcje lub prawa z akcji pomimo zgłoszenia sprzeciwu, o którym mowa art. 106h lub art. 32 ust. 2 rozporządzenia 648/2012, lub
+- **3)** wykonuje czynności, o których mowa pkt 1 lub 2, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+2a. Komisja może, drodze decyzji, nałożyć karę, o której mowa ust. 1, również na osobę, która:
+
+- **1)** nabywa lub obejmuje akcje przed upływem terminu do zgłoszenia sprzeciwu, o którym mowa art. 24 ust. 3 lub art. 47 ust. 3, lub
+- **2)** nabywa lub obejmuje akcje lub prawa z akcji przed upływem terminu do zgłoszenia sprzeciwu, o którym mowa art. 106h lub art. 32 ust. 2 rozporządzenia 648/2012, lub
+- **3)** nabywa lub obejmuje akcje z naruszeniem terminu wyznaczonego przez Komisję, którym nabycie lub objęcie akcji może zostać dokonane, o którym mowa art. 24 ust. 3a pkt 2 lub art. 47 ust. 3a pkt 2, lub
+- **4)** nabywa lub obejmuje akcje lub prawa z akcji z naruszeniem terminu wyznaczonego przez Komisję, którym nabycie lub objęcie akcji lub praw z akcji może zostać dokonane, o którym mowa art. 106h ust. 5 lub art. 31 ust. 7 rozporządzenia 648/2012, lub
+- **5)** wykonuje czynności, o których mowa pkt 1–4, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+3. (uchylony)
+
+4. Komisja może nakazać ogłoszenie rozstrzygnięcia dwóch dziennikach ogólnopolskich lub inny sposób na koszt strony.
+
+**Art. 171a.**
+
+1. Na każdego, kto narusza:
+
+- **1)** ograniczenia zakresie dokonywania krótkiej sprzedaży, określone art. 12 lub art. 13 rozporządzenia 236/2012,
+- **2)** ograniczenia zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego, określone art. 14 rozporządzenia 236/2012,
+- **3)** ograniczenia zakresie zawierania transakcji swapu ryzyka kredytowego z tytułu długu państwowego lub zakresie wartości otwieranych pozycji dotyczących swapu ryzyka kredytowego z tytułu długu państwowego, wprowadzone na podstawie art. 21 rozporządzenia 236/2012,
+- **4)** zakaz lub ograniczenia zakresie dokonywania krótkiej sprzedaży lub zawierania innych transakcji, przypadku których spadek ceny lub wartości instrumentu finansowego wiąże się z uzyskaniem korzyści majątkowej, wprowadzone na podstawie art. 20 lub art. 28 ust. 1 lit. b rozporządzenia 236/2012,
+- **5)** zakaz lub ograniczenia zakresie dokonywania na rynku regulowanym lub ASO krótkiej sprzedaży określonego instrumentu finansowego lub zawierania innych transakcji mających za przedmiot określony instrument finansowy, wprowadzone na podstawie art. 23 rozporządzenia 236/2012 Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł albo do wysokości dziesięciokrotności korzyści majątkowej uzyskanej wyniku transakcji. rozporządzeniu 236/2012 lub obowiązki określone rozporządzeniu delegowanym Komisji (UE) nr 918/2012 z dnia 5 lipca 2012 r. uzupełniającym rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 236/2012 r. sprawie krótkiej sprzedaży i wybranych aspektów dotyczących swapów ryzyka kredytowego odniesieniu do definicji, obliczania pozycji krótkich netto, pokrytych swapów ryzyka kredytowego z tytułu długu państwowego, progów powodujących obowiązek zgłoszenia, progów płynności odniesieniu do zawieszenia ograniczeń, znacznych spadków wartości instrumentów finansowych i wystąpienia niekorzystnych zdarzeń (Dz. Urz. UE L 274 z 09.10.2012, str. 1), Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 500 000 zł.
+
+**Art. 171b.** Przy ustalaniu wysokości kar pieniężnych, o których mowa art. 171a, uwzględnia się szczególności stopień i zakres naruszenia, jego wpływ na prawidłowe funkcjonowanie rynku kapitałowego oraz możliwości finansowe podmiotu, który dokonał naruszenia.
+
+**Art. 171c.**
+
+1. W przypadku gdy kontrahent rozumieniu art. 3 pkt 2 rozporządzenia 2015/2365 nie wykonuje obowiązków, o których mowa art. 4 tego rozporządzenia, lub nienależycie je wykonuje, Komisja może:
+
+- **1)** nakazać kontrahentowi, który dopuścił się naruszenia, zaprzestania dalszego naruszania tego przepisu oraz zobowiązać go do podjęcia we wskazanym terminie działań, które mają zapobiegać naruszaniu tego przepisu przyszłości;
+- **2)** nałożyć na kontrahenta karę pieniężną do wysokości 21 784 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 21 784 000 zł;
+- **3)** przypadku kontrahenta prowadzącego działalność na podstawie zezwolenia wydanego przez Komisję cofnąć to zezwolenie.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez kontrahenta wyniku niewykonania lub nienależytego wykonania obowiązków, o których mowa art. 4 rozporządzenia 2015/2365, kara pieniężna, o której mowa ust. 1 pkt 2, może zostać nałożona do wysokości trzykrotności kwoty osiągniętej korzyści lub unikniętej straty.
+
+3. W przypadku gdy kontrahent jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1 pkt 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1 pkt 2 lub ust. 3.
+
+5. W decyzji, o której mowa ust. 1 pkt 3, Komisja może jednocześnie nałożyć karę pieniężną, o której mowa ust. 1 pkt 2, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się kontrahent.
+
+6. W przypadku gdy kontrahent nie wykonuje obowiązków, o których mowa art. 4 rozporządzenia 2015/2365, lub nienależycie je wykonuje, Komisja może:
+
+- **1)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestania działań skutkujących powstaniem naruszeń;
+- **2)** zawiesić czynnościach członka zarządu tego podmiotu, którego działania lub zaniechania doprowadziły do naruszenia tego przepisu, na okres nie dłuższy niż 12 miesięcy.
+
+7. W przypadku kontrahenta będącego funduszem inwestycyjnym kara pieniężna nakładana jest na towarzystwo funduszy inwestycyjnych będące organem tego funduszu, a sankcje, o których mowa ust. 6:
+
+- **1)** pkt 1 są nakładane na osoby odpowiedzialne tym towarzystwie za zaistniałe naruszenie;
+- **2)** pkt 2 są nakładane na członka zarządu tego towarzystwa.
+
+8. W przypadku kontrahenta będącego alternatywną spółką inwestycyjną zarządzaną przez zewnętrznie zarządzającego ASI albo zarządzającego z UE, rozumieniu ustawy o funduszach inwestycyjnych, kara pieniężna nakładana jest odpowiednio na zewnętrznie zarządzającego ASI albo zarządzającego z UE, a sankcje, o których mowa ust. 6:
+
+- **1)** pkt 1 są nakładane na osoby odpowiedzialne u zewnętrznie zarządzającego ASI albo u zarządzającego z UE za zaistniałe naruszenie;
+- **2)** pkt 2 są nakładane na członka zarządu zewnętrznie zarządzającego ASI albo na członka zarządu zarządzającego z UE.
+- **1)** treści rozstrzygnięcia sprawach, o których mowa ust. 1, 2 i 5–8, oraz o rodzaju i charakterze naruszenia, zawierające imię i nazwisko osoby fizycznej lub firmę (nazwę) kontrahenta, na których została nałożona sankcja,
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy,
+- **3)** treści rozstrzygnięcia ostatecznej decyzji zgodnie z zasadami określonymi art. 26 rozporządzenia 2015/2365.
+
+10. Przekazanie do publicznej wiadomości informacji określonych ust. 9 pkt 1 lub 3 wymaga podjęcia przez Komisję uchwały.
+
+11. Informacje, o których mowa ust. 9, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na swojej stronie internetowej przez okres roku, licząc od dnia ich udostępnienia.
+
+**Art. 171d.**
+
+1. W przypadku gdy kontrahent rozumieniu art. 3 pkt 2 rozporządzenia 2015/2365 dokonuje ponownego wykorzystania rozumieniu art. 3 pkt 12 rozporządzenia 2015/2365 wbrew warunkom określonym art. 15 tego rozporządzenia, Komisja może:
+
+- **1)** nakazać kontrahentowi, który dopuścił się naruszenia, zaprzestania dalszego naruszania tego przepisu oraz zobowiązać go do podjęcia we wskazanym terminie działań, które mają zapobiegać naruszaniu tego przepisu przyszłości;
+- **2)** nałożyć na kontrahenta karę pieniężną:
+    - **a)** przypadku kontrahenta będącego osobą fizyczną do wysokości 21 784 000 zł,
+    - **b)** przypadku kontrahenta niebędącego osobą fizyczną do wysokości 65 352 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 65 352 000 zł;
+
+- **3)** przypadku kontrahenta prowadzącego działalność na podstawie zezwolenia wydanego przez Komisję cofnąć to zezwolenie.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez kontrahenta wyniku naruszenia, o którym mowa ust. 1, kara pieniężna, o której mowa ust. 1 pkt 2, może zostać nałożona do wysokości trzykrotności kwoty osiągniętej korzyści lub unikniętej straty.
+
+3. W przypadku gdy kontrahent jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1 pkt 2 lit. b, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1 pkt 2 lit. b lub ust. 3.
+
+5. W decyzji, o której mowa ust. 1 pkt 3, Komisja może jednocześnie nałożyć karę pieniężną, o której mowa ust. 1 pkt 2, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się kontrahent.
+
+6. W przypadku dopuszczenia się przez kontrahenta naruszenia, o którym mowa ust. 1, Komisja może:
+
+- **1)** nakazać osobom odpowiedzialnym za zaistniałe naruszenie zaprzestania działań skutkujących powstaniem naruszeń;
+- **2)** zawiesić czynnościach członka zarządu tego podmiotu, którego działania lub zaniechania doprowadziły do naruszenia tego przepisu, na okres nie dłuższy niż 12 miesięcy.
+
+7. W przypadku kontrahenta będącego funduszem inwestycyjnym kara pieniężna nakładana jest na towarzystwo funduszy inwestycyjnych będące organem tego funduszu, a sankcje, o których mowa ust. 6:
+
+- **1)** pkt 1 są nakładane na osoby odpowiedzialne tym towarzystwie za zaistniałe naruszenie;
+- **2)** pkt 2 są nakładane na członka zarządu tego towarzystwa. ASI albo zarządzającego z UE, rozumieniu ustawy o funduszach inwestycyjnych, kara pieniężna nakładana jest odpowiednio na zewnętrznie zarządzającego ASI albo zarządzającego z UE, a sankcje, o których mowa ust. 6:
+- **1)** pkt 1 są nakładane na osoby odpowiedzialne u zewnętrznie zarządzającego ASI albo u zarządzającego z UE za zaistniałe naruszenie;
+- **2)** pkt 2 są nakładane na członka zarządu zewnętrznie zarządzającego ASI albo na członka zarządu zarządzającego z UE.
+
+9. Komisja przekazuje do publicznej wiadomości informacje o:
+
+- **1)** treści rozstrzygnięcia sprawach, o których mowa ust. 1, 2 i 5–8, oraz o rodzaju i charakterze naruszenia, zawierające imię i nazwisko osoby fizycznej lub firmę (nazwę) kontrahenta, na których została nałożona sankcja,
+- **2)** złożeniu wniosku o ponowne rozpatrzenie sprawy o ile Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy,
+- **3)** treści rozstrzygnięcia ostatecznej decyzji zgodnie z zasadami określonymi art. 26 rozporządzenia 2015/2365.
+
+10. Przekazanie do publicznej wiadomości informacji określonych ust. 9 pkt 1 lub 3 wymaga podjęcia przez Komisję uchwały.
+
+11. Informacje, o których mowa ust. 9, dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, Komisja udostępnia na swojej stronie internetowej przez okres roku, licząc od dnia ich udostępnienia.
+
+**Art. 171e.** Komisja, nakładając sankcje, o których mowa art. 171c lub art. 171d, uwzględnia okoliczności, o których mowa art. 23 rozporządzenia 2015/2365.
+
+**Art. 171f.**
+
+1. Na każdego, kto narusza zakazy lub ograniczenia, o których mowa art. 40, art. 41, art. 42 lub art. 45 rozporządzenia 600/2014, lub nie stosuje się do żądania, o którym mowa art. 45 rozporządzenia 600/2014, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 20 750 000 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł.
+
+2. W przypadku gdy podmiot, o którym mowa ust. 1, jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+3. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1 lub 2.
+
+**Art. 172.** (uchylony)
+
+**Art. 173.**
+
+1. Na każdego kto dokonuje lub zleca dokonanie realizacji programu odkupu, o którym mowa art. 3 ust. 1 pkt 17 rozporządzenia 596/2014, lub stabilizacji, o której mowa art. 3 ust. 2 lit. d tego rozporządzenia, z naruszeniem zasad określonych prospekcie lub z naruszeniem art. 5 rozporządzenia 596/2014, lub z naruszeniem standardów technicznych, wydanych na podstawie art. 5 ust. 6 tego rozporządzenia, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 500 000 zł.
+
+1a. W przypadku gdy naruszenia, o którym mowa ust. 1, dopuszcza się alternatywna spółka inwestycyjna, zarządzana przez zewnętrznie zarządzającego ASI, kara, o której mowa ust. 1, jest nakładana na zewnętrznie zarządzającego ASI rozumieniu ustawy o funduszach inwestycyjnych.
+
+2. (uchylony)
+
+3. Na każdego, kto nabywa, nie będąc uprawnionym, akcje spółki prowadzącej rynek regulowany, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł. porządzenia 596/2014, lub nie przekazuje informacji, o których mowa art. 16 ust. 1 i 2 tego rozporządzenia, lub przekazuje je z naruszeniem warunków określonych tym przepisie, Komisja może, drodze decyzji, nałożyć karę pieniężną:
+
+- **1)** przypadku osób fizycznych do wysokości 4 145 600 zł;
+- **2)** przypadku innych podmiotów do wysokości 10 364 000 zł lub do kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 10 364 000 zł.
+
+4a. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmiot wyniku naruszeń, o których mowa ust. 4, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+5. (uchylony)
+
+6. Tej samej karze podlega, kto dopuszcza się czynu określonego ust. 1, 1a, 3 i 4, działając imieniu lub interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+
+7. Na każdego kto sporządza lub rozpowszechnia rekomendacje inwestycyjne lub inne informacje rekomendujące lub sugerujące strategię inwestycyjną z naruszeniem art. 20 ust. 1 rozporządzenia 596/2014 lub nie zachowuje należytej staranności przy dokonywaniu tych czynności, lub nie zapewnia rzetelności sporządzanych rekomendacji albo nie ujawnia swojego interesu i konfliktów interesów istniejących chwili ich sporządzania lub rozpowszechniania, Komisja może, drodze decyzji, nałożyć karę pieniężną:
+
+- **1)** przypadku osób fizycznych do wysokości 2 072 800 zł;
+- **2)** przypadku innych podmiotów do wysokości 4 145 600 zł lub do kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 4 145 600 zł.
+
+7a. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmiot wyniku naruszeń, o których mowa ust. 7, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+8. W decyzji o nałożeniu kary Komisja może wyznaczyć termin ponownego wykonania obowiązku lub dokonania czynności wymaganej przepisami, których naruszenie było podstawą nałożenia kary pieniężnej. W razie bezskutecznego upływu tego terminu Komisja może powtórnie wydać decyzję o nałożeniu kary pieniężnej.
+
+9. (uchylony)
+
+**Art. 173a.**
+
+1. Na kontrahentów finansowych rozumieniu art. 2 pkt 8 rozporządzenia 648/2012, którzy nie wykonują lub nienależycie wykonują obowiązki, o których mowa rozporządzeniu 648/2012, lub przepisach wydanych na jego podstawie, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 10 000 000 zł, nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku obowiązku badania sprawozdania finansowego nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zatwierdzonym sprawozdaniu finansowym za rok obrotowy.
+
+2. Na kontrahentów finansowych, którzy nie wykonują lub nienależycie wykonują obowiązki określone ust. 1, i którzy wbrew obowiązkowi nie sporządzili lub nie poddali badaniu sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 10 000 000 zł.
+
+3. Na kontrahentów finansowych, którzy nie wykonują lub nienależycie wykonują obowiązki określone ust. 1, i którzy nie mają obowiązku sporządzenia sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+**Art. 173b.**
+
+1. Na kontrahentów niefinansowych rozumieniu art. 2 pkt 9 rozporządzenia 648/2012, którzy nie wykonują lub nienależycie wykonują obowiązki, o których mowa tym rozporządzeniu lub przepisach wydanych na jego podstawie, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł, nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku obowiązku badania sprawozdania finansowego nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zatwierdzonym sprawozdaniu finansowym za rok obrotowy. i którzy wbrew obowiązkowi nie sporządzili lub nie poddali badaniu sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+3. Na kontrahentów niefinansowych, którzy nie wykonują lub nienależycie wykonują obowiązki określone ust. 1, i którzy nie mają obowiązku sporządzenia sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 500 000 zł.
+
+**Art. 173c.**
+
+1. W przypadku gdy:
+
+- **1)** CCP,
+- **2)** członek rozliczający rozumieniu art. 2 pkt 14 rozporządzenia 648/2012,
+- **3)** klient rozumieniu art. 2 pkt 15 rozporządzenia 648/2012, świadczący pośrednie usługi rozliczeniowe, o których mowa rozdziale II rozporządzenia delegowanego Komisji (UE) nr 149/2013 z dnia 19 grudnia 2012 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 648/2012 odniesieniu do regulacyjnych standardów technicznych dotyczących pośrednich uzgodnień rozliczeniowych, obowiązku rozliczania, rejestru publicznego, dostępu do systemu obrotu, kontrahentów niefinansowych, technik ograniczania ryzyka związanego z kontraktami pochodnymi będącymi przedmiotem obrotu poza rynkiem regulowanym, które nie są rozliczane przez kontrahenta centralnego (Dz. Urz. UE L 52 z 23.02.2013, str. 11),
+- **4)** podmiot prowadzący system obrotu rozumieniu art. 2 pkt 4 rozporządzenia 648/2012 nie wykonuje lub nienależycie wykonuje obowiązki określone rozporządzeniu 648/2012 lub przepisach wydanych na jego podstawie, Komisja może, drodze decyzji, nałożyć na te podmioty karę pieniężną do wysokości 10 000 000 zł, nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, a przypadku braku obowiązku badania sprawozdania finansowego nie większą niż 10 % całkowitego rocznego przychodu wykazanego ostatnim zatwierdzonym sprawozdaniu finansowym za rok obrotowy.
+
+2. Na podmioty, o których mowa ust. 1 pkt 1–3, które nie wykonują lub nienależycie wykonują obowiązki określone tym przepisie, i które wbrew obowiązkowi nie sporządziły lub nie poddały badaniu sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 10 000 000 zł.
+
+3. Na podmioty, o których mowa ust. 1, które nie wykonują lub nienależycie wykonują obowiązki określone tym przepisie, i które nie mają obowiązku sporządzenia sprawozdania finansowego, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
+
+4. W przypadku gdy podmioty, o których mowa ust. 1, nie wykonują lub nienależycie wykonują obowiązki, o których mowa ust. 1, Komisja może, drodze decyzji, nałożyć na osoby odpowiedzialne za ich niewykonanie lub nienależyte wykonanie karę pieniężną do wysokości 100 000 zł.
+
+5. (uchylony)
+
+**Art. 173d.**
+
+1. W przypadku stwierdzenia okoliczności wskazujących na zagrożenie niewykonywania lub nienależytego wykonywania przez CCP zobowiązań wobec swoich członków lub naruszenia interesów uczestników obrotu, Komisja po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego może:
+
+- **1)** zakazać na czas określony, nie dłuższy niż 6 miesięcy, inwestowania całości lub części kapitału własnego we wszystkie lub niektóre rodzaje instrumentów finansowych, o których mowa art. 47 rozporządzenia 648/2012, lub nakazać wstrzymanie wypłat z zysku;
+- **2)** zakazać na czas określony, nie dłuższy niż 6 miesięcy, przyjmowania do rozliczania przez CCP wszystkich lub niektórych rodzajów transakcji.
+
+2. W przypadku gdy niektóre inwestycje lub transakcje nie prowadzą do zwiększenia zagrożenia niewykonywania, lub nienależytego wykonywania przez CCP zobowiązań wobec swoich członków, lub zwiększenia zagrożenia naruszenia interesów uczestników obrotu, Komisja może czasie trwania zakazu zezwolić na dokonanie niektórych inwestycji lub przyjęcie do rozliczenia niektórych transakcji. o którym mowa art. 9 rozporządzenia 2021/23, lub obowiązku powiadomienia Komisji o wystąpieniu sytuacji, o której mowa art. 70 ust. 1 rozporządzenia 2021/23, Komisja może, drodze decyzji:
+
+- **1)** podać do publicznej wiadomości informację wskazującą osobę fizyczną, CCP lub inną osobę prawną odpowiedzialne za naruszenie, a także wskazującą charakter tego naruszenia;
+- **2)** nakazać osobie fizycznej, CCP lub innej osobie prawnej odpowiedzialnym za naruszenie zaprzestanie zachowania skutkującego naruszeniem oraz powstrzymanie się od takiego zachowania przyszłości;
+- **3)** tymczasowo zakazać osobie fizycznej odpowiedzialnej za naruszenie pełnienia funkcji członka organu CCP lub funkcji kierowniczych CCP;
+- **4)** nałożyć na osobę fizyczną odpowiedzialną za naruszenie karę pieniężną do wysokości:
+    - **a)** 22 500 000 zł albo
+    - **b)** dwukrotności kwoty korzyści uzyskanych lub strat unikniętych wyniku naruszenia przypadku gdy jest możliwe ich ustalenie;
+
+- **5)** nałożyć na CCP lub inną osobę prawną odpowiedzialne za naruszenie karę pieniężną do wysokości:
+    - **a)** 10 % przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym, a przypadku braku takiego sprawozdania wysokości do 10 % prognozowanego przychodu określonego na podstawie sytuacji ekonomiczno-finansowej tego CCP lub tej innej osoby prawnej, albo
+    - **b)** dwukrotności kwoty korzyści uzyskanych lub strat unikniętych wyniku naruszenia przypadku gdy jest możliwe ich ustalenie.
+
+2. W przypadku gdy CCP lub inna osoba prawna, o których mowa ust. 1 pkt 5, są podmiotami zależnymi, przy obliczaniu przychodu bierze się pod uwagę przychód wynikający ze skonsolidowanego sprawozdania finansowego jednostki dominującej najwyższego szczebla wykazany ostatnim zbadanym sprawozdaniu finansowym, a przypadku braku takiego sprawozdania prognozowany przychód określony na podstawie sytuacji ekonomiczno-finansowej tej jednostki dominującej.
+
+3. Wydając decyzję, o której mowa ust. 1, Komisja uwzględnia okoliczności, o których mowa art. 85 rozporządzenia 2021/23.
+
+**Art. 173f.**
+
+- **264)** W przypadku, o którym mowa art. 173e ust. 1, Komisja niezwłocznie podaje do publicznej wiadomości, szczególności przez publikację na swojej stronie internetowej, informację o treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, imieniu i nazwisku osoby fizycznej lub o firmie (nazwie) podmiotu, na który została nałożona sankcja zgodnie z art. 83 rozporządzenia 2021/23.
+
+**Art. 174.**
+
+1. Na każdego kto, wbrew zakazowi, o którym mowa art. 19 ust. 11 rozporządzenia 596/2014, czasie trwania okresu zamkniętego, dokonuje transakcji na rachunek własny lub na rachunek osoby trzeciej, Komisja może nałożyć, drodze decyzji, karę pieniężną do wysokości 2 072 800 zł.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmiot wyniku naruszeń, o których mowa ust. 1, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+3. (uchylony)
+
+**Art. 174a.**
+
+1. W przypadku gdy emitent, na wniosek osoby pełniącej obowiązki zarządcze, udzielił zgody, o której mowa art. 19 ust. 12 rozporządzenia 596/2014, z naruszeniem art. 7–9 rozporządzenia delegowanego Komisji (UE) 2016/522 z dnia 17 grudnia 2015 r. uzupełniającego rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 596/2014 kwestiach dotyczących wyłączenia niektórych organów publicznych i banków centralnych państw trzecich, okoliczności wskazujących na manipulację na rynku, progów powodujących powstanie obowiązku podania informacji do wiadomości publicznej, właściwych organów do celów powiadomień o opóźnieniach, zgody na obrót okresach zamkniętych oraz rodzajów transakcji wykonywanych przez osoby pełniące obowiązki zarządcze podlegających obowiązkowi powiadomienia (Dz. Urz. UE L 88 z 05.04.2016, str. 1), Komisja może nałożyć na emitenta karę pieniężną do wysokości 4 145 600 zł.
+
+2. W przypadku emitenta będącego funduszem inwestycyjnym albo alternatywną spółką inwestycyjną, kara pieniężna jest nakładana odpowiednio na towarzystwo funduszy inwestycyjnych będące organem tego funduszu inwestycyjnego, a przypadku funduszu inwestycyjnego, co do którego towarzystwo funduszy inwestycyjnych zawarło umowę, o której mowa art. 4 ust. 1b ustawy o funduszach inwestycyjnych, na zarządzającego z UE, zewnętrznie zarządzającego ASI rozumieniu ustawy o funduszach inwestycyjnych albo zarządzającego z UE rozumieniu ustawy o funduszach inwestycyjnych, zarządzającego tą alternatywną spółką inwestycyjną. porządzenia 596/2014, Komisja może, drodze decyzji, nałożyć karę pieniężną:
+
+- **1)** przypadku osób fizycznych do wysokości 2 072 800 zł;
+- **2)** przypadku innych podmiotów do wysokości 4 145 600 zł.
+
+2. (uchylony)
+
+3. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez podmiot wyniku naruszeń, o których mowa ust. 1, zamiast kary, o której mowa tym ustępie, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+4. W przypadku emitenta będącego funduszem inwestycyjnym albo alternatywną spółką inwestycyjną, kara pieniężna jest nakładana odpowiednio na towarzystwo funduszy inwestycyjnych będące organem tego funduszu inwestycyjnego, a przypadku funduszu inwestycyjnego, co do którego towarzystwo funduszy inwestycyjnych zawarło umowę, o której mowa art. 4 ust. 1b ustawy o funduszach inwestycyjnych, na zarządzającego z UE, zewnętrznie zarządzającego ASI rozumieniu ustawy o funduszach inwestycyjnych albo zarządzającego z UE rozumieniu ustawy o funduszach inwestycyjnych, zarządzającego tą alternatywną spółką inwestycyjną.
+
+**Art. 175a.** W przypadku gdy uczestnik rynku uprawnień do emisji lub platforma aukcyjna nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa art. 18 ust. 1–5 rozporządzenia 596/2014, Komisja może nałożyć karę pieniężną do wysokości 4 145 600 zł lub do kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 4 145 600 zł.
+
+**Art. 176.**
+
+1. W przypadku gdy emitent nie wykonuje lub nienależycie wykonuje obowiązki, o których mowa art. 18 ust. 1–6 rozporządzenia 596/2014, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 4 145 600 zł lub do kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 4 145 600 zł.
+
+2. W przypadku naruszenia obowiązków, o których mowa art. 18 ust. 1–6 rozporządzenia 596/2014, Komisja może nałożyć na osobę, która tym okresie pełniła funkcję członka zarządu emitenta, zewnętrznie zarządzającego ASI lub zarządzającego z UE rozumieniu ustawy o funduszach inwestycyjnych lub towarzystwa funduszy inwestycyjnych będącego organem funduszu inwestycyjnego zamkniętego, karę pieniężną do wysokości 2 072 800 zł.
+
+3. Przepisy art. 96 ust. 6 pkt 2 oraz ust. 7–8a ustawy o ofercie publicznej stosuje się odpowiednio.
+
+4. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej przez emitenta wyniku naruszeń, o których mowa ust. 1, zamiast kary, o której mowa ust. 1, Komisja może nałożyć karę pieniężną do wysokości trzykrotnej kwoty osiągniętej korzyści lub unikniętej straty.
+
+**Art. 176a.** W przypadku gdy emitent nie wykonuje obowiązków wynikających z art. 5 albo wykonuje je nienależycie, Komisja może nałożyć na niego karę pieniężną do wysokości 1 000 000 zł.
+
+**Art. 176b.** Na każdego, kto nie przekazał Komisji zgodnie z art. 110m ust. 1 i 2 i art. 110z ust. 1 i 3 informacji na żądanie skierowane przez Komisję lub jej upoważnionego przedstawiciela, Komisja może nałożyć karę pieniężną wysokości do 1 000 000 zł. Komisja, ustalając karę pieniężną, uwzględnia szczególności wagę żądanej informacji dla sprawowanego nadzoru oraz sytuację finansową podmiotu lub osoby, na które jest nakładana kara.
+
+**Art. 176c.** W przypadku stwierdzenia naruszenia przepisów rozporządzenia 596/2014 zakresie wskazanym art. 165 ust. 1 pkt 5, art. 165a ust. 1 pkt 6, art. 167 ust. 1 pkt 1, art. 173, art. 174, art. 175, art. 175a lub art. 176 Komisja może nakazać podmiotowi, który dopuścił się naruszenia, zaprzestania dalszego naruszania tych przepisów oraz zobowiązać go do podjęcia we wskazanym terminie działań, które mają zapobiegać naruszaniu tych przepisów przyszłości. Środek ten może być stosowany bez względu na zastosowanie innych sankcji za naruszenie obowiązków, o których mowa art. 165 ust. 1 pkt 5, art. 165a ust. 1 pkt 6, art. 167 ust. 1 pkt 1, art. 173, art. 174, art. 175, art. 175a lub art. 176.
+
+**Art. 176d.**
+
+1. W przypadku stwierdzenia naruszenia przez osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej przepisów rozporządzenia 596/2014 zakresie wskazanym art. 173, art. 174, art. 175 lub art. 176, Komisja może, drodze decyzji, zakazać osobie fizycznej, do której obowiązków należy zapewnienie przestrzegania przez tę osobę prawną lub tę jednostkę przepisów rozporządzenia 596/2014 zakresie wskazanym art. 173, art. 174, art. 175 lub art. 176, zawierania, na rachunek własny lub na rachunek osoby trzeciej, transakcji, których przedmiotem są instrumenty finansowe, dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu ASO, na czas określony, nieprzekraczający 5 lat. Środek ten może być stosowany bez względu na zastosowanie innych sankcji za naruszenie obowiązków, o których mowa art. 173, art. 174, art. 175 i art. 176. art. 175 lub art. 176, przez osobę fizyczną, Komisja może, decyzji sprawie zastosowania środków, o których mowa art. 173, art. 174, art. 175 lub art. 176, zakazać tej osobie fizycznej zawierania, na rachunek własny lub na rachunek osoby trzeciej, transakcji, których przedmiotem są instrumenty finansowe, dopuszczone do obrotu na rynku regulowanym lub wprowadzone do obrotu ASO, na czas określony, nieprzekraczający 5 lat.
+
+**Art. 176e.** W przypadku gdy podmiot, o którym mowa art. 173 ust. 4 lub 7, art. 175a lub art. 176 ust. 1, jest jednostką dominującą, która sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa art. 173 ust. 4 pkt 2 lub ust. 7 pkt 2, art. 175a lub art. 176 ust. 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu tego podmiotu ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+**Art. 176f.** Komisja, nakładając sankcję, o której mowa art. 173–176, uwzględnia okoliczności, o których mowa art. 31 ust. 1 rozporządzenia 596/2014.
+
+**Art. 176g.**
+
+1. Na każdego, kto narusza ustalone przez Komisję limity pozycji, o których mowa art. 32c ust. 1, Komisja może, drodze decyzji, nałożyć karę pieniężną do wysokości 20 750 000 zł albo kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 20 750 000 zł.
+
+2. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej wyniku naruszenia, o którym mowa ust. 1, kara pieniężna, o której mowa ust. 1, może zostać nałożona do wysokości dwukrotności kwoty osiągniętej korzyści.
+
+3. W przypadku gdy podmiot naruszający limit pozycji jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+4. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1 lub 3.
+
+5. Komisja, ustalając wysokość kary pieniężnej, o której mowa ust. 1, uwzględnia szczególności:
+
+- **1)** wagę naruszenia i czas jego trwania;
+- **2)** stopień przyczynienia się osoby, na którą jest nakładana kara, do powstania naruszenia;
+- **3)** sytuację finansową osoby, na którą jest nakładana kara;
+- **4)** skalę korzyści uzyskanych przez osobę, na którą jest nakładana kara, jeżeli można te korzyści ustalić;
+- **5)** straty poniesione przez podmioty trzecie związku z naruszeniem, jeżeli można je ustalić;
+- **6)** stopień naprawienia szkody wyrządzonej inwestorom wskutek działań osoby, na którą jest nakładana kara;
+- **7)** gotowość do współpracy z Komisją podczas wyjaśniania okoliczności naruszenia;
+- **8)** uprzednie naruszenia przepisów prawa regulujących funkcjonowanie rynku finansowego popełnione przez osobę, na którą jest nakładana kara;
+- **9)** wpływ posiadanej pozycji towarowym instrumencie pochodnym na ważny interes publiczny lub wykonanie obowiązków wynikających z przepisów prawa regulujących funkcjonowanie rynku towaru stanowiącego instrument bazowy dla towarowego instrumentu pochodnego, stosunku do którego nastąpiło przekroczenie limitu pozycji.
+
+6. Jeżeli zachowanie limitów pozycji ustalonych przez Komisję nie jest możliwe bez naruszenia przez podmiot naruszający limit pozycji obowiązków wynikających z przepisów prawa regulujących funkcjonowanie rynku towaru stanowiącego instrument bazowy dla towarowego instrumentu pochodnego, stosunku do którego nastąpiło przekroczenie limitu pozycji, Komisja odstępuje od wymierzenia kary.
+
+**Art. 176h.**
+
+1. Komisja przekazuje do publicznej wiadomości, przez zamieszczenie na swojej stronie internetowej:
+
+- **1)** informację o treści rozstrzygnięcia oraz o rodzaju i charakterze naruszenia, zawierającą imię i nazwisko osoby fizycznej lub firmę (nazwę) innego podmiotu, na który nałożona została sankcja, o której mowa art. 165, art. 165b–165e, art. 166a, art. 167, art. 167d, art. 168a, art. 169 i art. 169a;
+- **2)** przypadku złożenia wniosku o ponowne rozpatrzenie sprawy informację o jego złożeniu, jeżeli Komisja przekazała do publicznej wiadomości informację o decyzji, której ten wniosek dotyczy;
+- **3)** informację o treści rozstrzygnięcia ostatecznej decyzji. stronie postępowania.
+
+3. Komisja może, drodze uchwały, opóźnić przekazanie do publicznej wiadomości informacji o decyzji, o której mowa ust. 1, lub przekazać taką informację bez wskazywania osoby fizycznej lub innego podmiotu, na który została nałożona sankcja, przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości:
+
+- **1)** wyrządziłoby niewspółmierną i znaczącą szkodę uczestnikom rynku finansowego;
+- **2)** przypadku danych osobowych lub nazwy podmiotu jest nieproporcjonalne do wagi stwierdzonego naruszenia;
+- **3)** stanowiłoby poważne zagrożenie dla stabilności systemu finansowego lub będącego toku postępowania administracyjnego, wyjaśniającego lub karnego.
+
+4. Komisja może nie przekazywać do publicznej wiadomości informacji o sankcjach nałożonych na podstawie art. 165, art. 165b–165e, art. 166a, art. 167, art. 167d, art. 168a, art. 169 i art. 169a przypadku stwierdzenia, że podanie takiej informacji do publicznej wiadomości mogłoby:
+
+- **1)** naruszyć stabilność systemu finansowego lub
+- **2)** wyrządzić niewspółmierną i znaczącą szkodę podmiotom, które dopuściły się naruszenia.
+
+5. W przypadku gdy Komisja nie przekazała do publicznej wiadomości informacji o imieniu i nazwisku osoby fizycznej lub firmie (nazwie) innego podmiotu, może upublicznić te dane, jeżeli ustały przesłanki, o których mowa ust. 3 pkt 1.
+
+6. Informacje, o których mowa ust. 1, są dostępne na stronie internetowej Komisji przez co najmniej 5 lat, licząc od dnia ich udostępnienia, z tym że informacje dotyczące imienia i nazwiska osoby, na którą została nałożona sankcja, są dostępne na tej stronie przez rok. Usunięcie danych ze strony internetowej następuje na wniosek podmiotu, który dopuścił się naruszenia.
+
+7. Komisja informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o nieprzekazaniu do publicznej wiadomości informacji zgodnie z ust. 4. Komisja informuje ten Urząd również o złożeniu przez stronę wniosku o ponowne rozpatrzenie sprawy oraz o treści rozstrzygnięcia ostatecznej decyzji.
+
+8. Komisja przekazuje Europejskiemu Urzędowi Nadzoru Giełd i Papierów Wartościowych raz roku informację zbiorczą o zastosowaniu środków, o których mowa ust. 1, 3 i 4.
+
+9. W przypadku nałożenia sankcji, o której mowa art. 167f, na bank państwowy prowadzący działalność maklerską stosuje się odpowiednio przepisy ust. 1–6.
+
+**Art. 176i.**
+
+1. W przypadku gdy:
+
+- **1)** administrator narusza wymogi zakresie zarządzania i kontroli sprawowanych przez administratora, określone art. 4–10 rozporządzenia 2016/1011,
+- **2)** administrator narusza wymogi dotyczące danych wejściowych, metod wyznaczania wskaźnika referencyjnego lub zgłaszania naruszeń, określone art. 11–14 rozporządzenia 2016/1011, inne niż wymogi określone art. 11 ust. 1 lit. d lub ust. 4 tego rozporządzenia,
+- **3)** administrator narusza wymogi zakresie kodeksu postępowania, określone art. 15 rozporządzenia 2016/1011,
+- **4)** podmiot nadzorowany przekazujący dane, rozumieniu art. 3 ust. 1 pkt 10 rozporządzenia 2016/1011, narusza wymogi zakresie zarządzania i kontroli, określone art. 16 tego rozporządzenia,
+- **5)** administrator narusza wymogi dotyczące kluczowego wskaźnika referencyjnego, określone art. 21 rozporządzenia 2016/1011,
+- **6)** administrator lub podmiot nadzorowany przekazujący dane, rozumieniu art. 3 ust. 1 pkt 10 rozporządzenia 2016/1011, narusza wymogi dotyczące przekazywania danych na potrzeby kluczowego wskaźnika referencyjnego, określone art. 23 rozporządzenia 2016/1011,
+- **7)** administrator narusza wymogi dotyczące istotnego wskaźnika referencyjnego, określone art. 24 lub art. 25 rozporządzenia 2016/1011,
+- **8)** administrator narusza wymogi dotyczące pozaistotnego wskaźnika referencyjnego, określone art. 26 rozporządzenia 2016/1011,
+- **9)** administrator narusza wymogi zakresie oświadczenia, określone art. 27 rozporządzenia 2016/1011,
+- **11)** podmiot nadzorowany rozumieniu art. 3 ust. 1 pkt 17 rozporządzenia 2016/1011 narusza wymogi określone art. 28 ust. 2 rozporządzenia 2016/1011,
+- **12)** podmiot nadzorowany rozumieniu art. 3 ust. 1 pkt 17 rozporządzenia 2016/1011 narusza wymogi zakresie stosowania wskaźników referencyjnych, określone art. 29 rozporządzenia 2016/1011 Komisja może nałożyć, odpowiednio na administratora, podmiot nadzorowany przekazujący dane albo na podmiot nadzorowany, karę pieniężną do wysokości 2 212 750 zł przypadku osoby fizycznej, a przypadku administratora, podmiotu nadzorowanego przekazującego dane oraz podmiotu nadzorowanego niebędących osobami fizycznymi karę pieniężną do wysokości 4 425 500 zł albo do wysokości kwoty stanowiącej równowartość 10 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 4 425 500 zł.
+
+2. W przypadku gdy administrator narusza art. 11 ust. 1 lit. d lub ust. 4 rozporządzenia 2016/1011, Komisja może nałożyć na administratora karę pieniężną:
+
+- **1)** przypadku administratora będącego osobą fizyczną do wysokości 442 550 zł;
+- **2)** przypadku administratora niebędącego osobą fizyczną do wysokości 1 106 375 zł albo do wysokości kwoty stanowiącej równowartość 2 % całkowitego rocznego przychodu wykazanego ostatnim zbadanym sprawozdaniu finansowym za rok obrotowy, jeżeli przekracza ona 1 106 375 zł.
+
+3. W przypadku gdy jest możliwe ustalenie kwoty korzyści osiągniętej lub straty unikniętej odpowiednio przez administratora, podmiot nadzorowany przekazujący dane albo przez podmiot nadzorowany wyniku naruszeń, o których mowa ust. 1 lub 2, kara pieniężna, o której mowa tych przepisach, może zostać nałożona do wysokości trzykrotności kwoty osiągniętej korzyści lub unikniętej straty.
+
+4. W przypadku gdy administrator, podmiot nadzorowany przekazujący dane albo podmiot nadzorowany jest podmiotem dominującym, który sporządza skonsolidowane sprawozdanie finansowe, lub podmiotem zależnym od podmiotu dominującego, który sporządza skonsolidowane sprawozdanie finansowe, całkowity roczny przychód, o którym mowa ust. 1 lub 2, stanowi kwota całkowitego skonsolidowanego rocznego przychodu podmiotu dominującego ujawniona ostatnim zbadanym skonsolidowanym sprawozdaniu finansowym za rok obrotowy.
+
+5. Równowartość złotych kwoty walucie obcej oblicza się według średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski dniu bilansowym, na który zostało sporządzone ostatnie zbadane sprawozdanie finansowe za rok obrotowy, o którym mowa ust. 1, 2 lub 4.
+
+6. W decyzji o nałożeniu kary Komisja może wyznaczyć termin wykonania obowiązku lub dokonania czynności wymaganej przepisami, których naruszenie było podstawą nałożenia kary pieniężnej. W razie bezskutecznego upływu tego terminu Komisja może powtórnie wydać decyzję o nałożeniu kary pieniężnej, o której mowa odpowiednio ust. 1 albo 2.
+
+7. W przypadku gdy administrator, podmiot nadzorowany przekazujący dane albo podmiot nadzorowany narusza wymogi, o których mowa ust. 1, Komisja może również nakazać zaprzestanie działań skutkujących powstaniem naruszeń i niepodejmowanie tych działań przyszłości.
+
+8. W przypadku gdy administrator, podmiot nadzorowany przekazujący dane albo podmiot nadzorowany narusza wymogi, o których mowa ust. 1, Komisja może również:
+
+- **1)** zawiesić czynnościach członka zarządu odpowiedzialnego za stwierdzone naruszenie na okres nie dłuższy niż 12 miesięcy;
+- **2)** nakazać odwołanie członka zarządu odpowiedzialnego za stwierdzone naruszenie przypadku gdy naruszenia, o których mowa ust. 1, mają charakter poważny i systematyczny.
+
+**Art. 176j.**
+
+1. Komisja może cofnąć albo zawiesić, na okres 6 miesięcy, zezwolenie udzielone administratorowi na podstawie art. 34 ust. 1 rozporządzenia 2016/1011 lub jego rejestrację przypadkach określonych art. 35 ust. 1 tego rozporządzenia.
+
+2. W okresie, na który Komisja zawiesiła administratorowi zezwolenie lub rejestrację, przypadkach określonych art. 35 ust. 3 rozporządzenia 2016/1011 Komisja może zezwolić na kontynuowanie opracowywania wskaźnika referencyjnego.
+
+3. W decyzji sprawie cofnięcia albo zawieszenia zezwolenia lub rejestracji udzielonych administratorowi na podstawie art. 34 ust. 1 rozporządzenia 2016/1011 Komisja może jednocześnie nałożyć karę pieniężną, o której mowa art. 176i ust. 1 albo 2, jeżeli uzasadnia to charakter naruszeń, jakich dopuścił się administrator.
+
+4. Decyzja podlega ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+5. Komisja, terminie 5 dni roboczych, informuje Europejski Urząd Nadzoru Giełd i Papierów Wartościowych o cofnięciu oraz zawieszeniu zezwolenia lub rejestracji, o których mowa ust. 1. siedzibę lub miejsce zamieszkania państwie innym niż państwo członkowskie na podstawie art. 32 ust. 5 rozporządzenia 2016/1011, przypadkach określonych art. 32 ust. 8 tego rozporządzenia.
+
+2. Decyzja podlega ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+**Art. 176l.**
+
+1. Komisja może nakazać administratorowi lub innemu podmiotowi nadzorowanemu zaprzestanie stosowania danego wskaźnika referencyjnego, zatwierdzonego na podstawie art. 33 ust. 1 rozporządzenia 2016/1011, przypadku gdy przestały być spełnione warunki określone art. 33 ust. 1 rozporządzenia 2016/1011.
+
+2. Decyzja podlega ogłoszeniu Dzienniku Urzędowym Komisji Nadzoru Finansowego.
+
+**Art. 176m.** Komisja, nakładając sankcje, o których mowa art. 176i–176l, uwzględnia okoliczności określone art. 43 ust. 1 rozporządzenia 2016/1011.
+
+**Art. 176n.**
+
+1. Komisja, drodze uchwały, przekazuje do publicznej wiadomości informacje o wydaniu decyzji, o których mowa art. 176i–176l, zakresie określonym art. 45 rozporządzenia 2016/1011 i sposób określony tym przepisie.
+
+2. Informacje, o których mowa ust. 1, dotyczące imienia i nazwiska osoby, której dotyczy decyzja, Komisja udostępnia na swojej stronie internetowej przez okres roku, licząc od dnia ich udostępnienia.
+
+### DZIAŁ IX Odpowiedzialność cywilna
+
+**Art. 177.**
+
+1. Wystawiający świadectwo odpowiada za szkodę wyrządzoną wskutek wystawienia świadectwa nieważnego, wydania świadectwa osobie nieuprawnionej lub niedokonania blokady papierów wartościowych związku z wystawieniem świadectwa, chyba że szkoda nastąpiła z powodu siły wyższej albo wyłącznie z winy poszkodowanego lub osoby trzeciej, za którą wystawiający nie ponosi odpowiedzialności.
+
+2. Jeżeli wystawiający świadectwo działał na zlecenie innej osoby, odpowiedzialność wystawiającego i zleceniodawcy jest solidarna i nie można jej ograniczyć lub wyłączyć z góry.
+
+### DZIAŁ X Przepisy karne
+
+**Art. 178.**
+
+- **267)** Kto bez wymaganego zezwolenia lub upoważnienia zawartego odrębnych przepisach albo nie będąc do tego uprawnionym inny sposób określony ustawie, prowadzi działalność zakresie obrotu instrumentami finansowymi, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
+
+**Art. 178a.** Kto, nie będąc do tego uprawnionym, używa oznaczeń, o których mowa art. 21 ust. 4a i 5, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
+
+**Art. 178b.** Kto bez wymaganego zezwolenia lub upoważnienia zawartego odrębnych przepisach albo nie będąc do tego uprawnionym inny sposób określony przepisach ustawy lub rozporządzenia 2016/1011 prowadzi działalność zakresie sprawowania kontroli nad opracowywaniem wskaźnika referencyjnego, podlega grzywnie do 5 000 000 zł.
+
+**Art. 178c.** Kto, działając imieniu lub na rachunek emitenta lub agenta emisji, celu doprowadzenia do zarejestrowania papierów wartościowych depozycie papierów wartościowych, przekazuje Krajowemu Depozytowi lub spółce, której Krajowy Depozyt przekazał wykonywanie czynności z zakresu zadań, o których mowa art. 48 ust. 1 pkt 1, nieprawdziwe informacje lub zataja prawdziwe informacje dotyczące tych papierów wartościowych lub emitenta, które są istotne dla oceny dopuszczalności dokonania tej rejestracji, podlega grzywnie do 2 000 000 zł.
+
+**Art. 178d.**
+
+- **268)** 1. Kto, będąc osobą uprawnioną do reprezentowania emitenta, dopuszcza do tego, że emitent nie wykonuje obowiązków, o których mowa art. 7b lub art. 7c, albo wykonuje je nienależycie, podlega grzywnie do 2 000 000 zł.
+
+2. Tej samej karze podlega, kto przekazuje Krajowemu Depozytowi nieprawdziwe dane, o których mowa art. 7b lub art. 7c, lub zataja prawdziwe dane. mowa art. 131o ust. 1, 3 i 4 lub art. 131q ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+**Art. 178f.** Kto, będąc odpowiedzialnym za informacje zawarte polityce dotyczącej zaangażowania, o której mowa art. 131o, podaje niej nieprawdziwe dane lub zataja prawdziwe dane wpływające istotny sposób na treść tej polityki, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+**Art. 178g.** Kto, będąc odpowiedzialnym za informacje, o których mowa art. 131q, podaje nich nieprawdziwe dane lub zataja prawdziwe dane wpływające istotny sposób na treść tych informacji, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+**Art. 178h.** Kto, działając imieniu lub na rachunek emitenta lub będąc osobą uprawnioną do reprezentowania emitenta, ujawnia agentowi emisji nieprawdziwe lub nierzetelne dane, lub podaje nieprawdziwe informacje lub zataja prawdziwe informacje dotyczące papierów wartościowych lub emitenta, które są istotne dla realizacji przez agenta emisji obowiązków wskazanych art. 7a ust. 4, dopuszczając do tego, że agent emisji nie wykonuje obowiązków, o których mowa art. 7a ust. 4, albo wykonuje je nienależycie, podlega grzywnie do 2 000 000 zł.
+
+**Art. 178i.**
+
+1. Kto wystawia fałszywe świadectwo, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
+
+2. Tej samej karze podlega, kto posługuje się fałszywym świadectwem.
+
+**Art. 179.** Kto, będąc obowiązanym do zachowania tajemnicy zawodowej albo tajemnicy służbowej rozumieniu rozporządzenia 236/2012 lub rozporządzenia 648/2012, ujawnia lub wykorzystuje obrocie instrumentami finansowymi informacje stanowiące taką tajemnicę, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+
+**Art. 179a.** Kto wbrew obowiązkowi określonemu art. 28 ust. 4, art. 33 ust. 5, art. 83 lub art. 84 rozporządzenia 648/2012 ujawnia informacje poufne rozumieniu tego rozporządzenia lub wykorzystuje takie informacje do celów innych niż określone tym rozporządzeniu, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
+
+**Art. 180.** Kto wbrew zakazowi, o którym mowa art. 14 lit. c rozporządzenia 596/2014, ujawnia informację poufną, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 4, albo obu tym karom łącznie.
+
+**Art. 181.**
+
+1. Kto wbrew zakazowi, o którym mowa art. 14 lit. a rozporządzenia 596/2014, wykorzystuje informację poufną, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie.
+
+2. (uchylony)
+
+**Art. 182.** Kto wbrew zakazowi, o którym mowa art. 14 lit. b rozporządzenia 596/2014, udziela rekomendacji lub nakłania do nabycia lub zbycia instrumentów finansowych, których dotyczy informacja poufna, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 4, albo obu tym karom łącznie.
+
+**Art. 183.**
+
+1. Kto wbrew zakazowi, o którym mowa art. 15 rozporządzenia 596/2014, dokonuje manipulacji, o której mowa art. 12 tego rozporządzenia, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie.
+
+2. Kto wchodzi porozumienie z inną osobą mające na celu manipulację, o której mowa art. 12 rozporządzenia 596/2014, podlega grzywnie do 2 000 000 zł.
+
+**Art. 184.**
+
+1. Kto uniemożliwia lub utrudnia przeprowadzanie czynności, o których mowa art. 30 ust. 1–3, art. 32d, art. 79 ust. 11, art. 88, art. 90 ust. 2 i 3 oraz art. 122, podlega karze aresztu, ograniczenia wolności albo grzywny. posiadającej osobowości prawnej:
+
+- **1)** wbrew nakazowi określonemu art. 89 ust. 4 nie dokonuje przeniesienia papierów wartościowych, innych instrumentów finansowych i środków pieniężnych lub dokumentów związanych z prowadzeniem tych rachunków;
+- **2)** wbrew obowiązkowi, o którym mowa art. 90 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności maklerskiej lub powierniczej.
+
+3. Orzekanie sprawach określonych ust. 1 i 2 następuje trybie przepisów o postępowaniu sprawach o wykroczenia.
+
+### DZIAŁ XI Zmiany przepisach obowiązujących
+
+### DZIAŁ XII Przepisy przejściowe i końcowe
+
+**Art. 214.**
+
+1. Z dniem wejścia życie ustawy, do działalności spółki Giełda Papierów Wartościowych Warszawie S.A. stosuje się przepisy tej ustawy, z wyłączeniem art. 25 i art. 165 ust. 3.
+
+2. (uchylony)
+
+3. Papiery wartościowe rozumieniu art. 3 ust. 3 i 4 ustawy, o której mowa art. 224, będące dniu wejścia życie niniejszej ustawy przedmiotem obrotu na rynku regulowanym, stają się z tym dniem niebędącymi papierami wartościowymi instrumentami finansowymi, o których mowa art. 2 ust. 1 pkt 2 lit. c i d.
+
+4. Papiery wartościowe rozumieniu art. 3 i 4 ustawy, o której mowa art. 224, będące dniu wejścia życie niniejszej ustawy przedmiotem obrotu na rynku regulowanym, które nie są tym dniu zarejestrowane depozycie papierów wartościowych, stają się niebędącymi papierami wartościowymi instrumentami finansowymi, o których mowa art. 2 ust. 1 pkt 2 lit. c i d, z dniem zarejestrowania tym depozycie, pod warunkiem że rejestracja ta nastąpi terminie 30 dni od dnia wejścia życie niniejszej ustawy.
+
+5. Z dniem wejścia życie ustawy, urzędowy rynek giełdowy organizowany przez spółkę, o której mowa ust. 1, spełniający warunki określone przepisach wydanych na podstawie art. 90 ust. 2 ustawy, o której mowa art. 224, staje się rynkiem oficjalnych notowań, o którym mowa art. 16 ust. 2.
+
+**Art. 215.**
+
+1. Z dniem wejścia życie ustawy, do działalności spółki prowadzącej rynek pozagiełdowy stosuje się przepisy tej ustawy, z wyłączeniem art. 36, art. 37 ust. 2 i art. 166 ust. 1 pkt 2 i 3.
+
+2. (uchylony)
+
+**Art. 216.**
+
+1. Zezwolenia na prowadzenie działalności maklerskiej lub na prowadzenie rachunków papierów wartościowych udzielone przez Komisję przed dniem wejścia życie ustawy uprawniają do wykonywania czynności określonych odpowiednio art. 69 ust. 2–4 albo art. 119 ust. 1. W przypadku zamiaru wykonywania przez dom maklerski lub bank prowadzący działalność maklerską czynności określonych art. 69 ust. 2–4, które przed dniem wejścia życie ustawy nie stanowiły działalności maklerskiej, przepisy art. 87 i art. 78 ust. 4 stosuje się odpowiednio.
+
+2. Podmioty prowadzące działalność maklerską na podstawie zezwoleń udzielonych przez Komisję przed dniem wejścia życie ustawy są obowiązane, terminie 6 miesięcy od dnia jej wejścia życie, do dostosowania prowadzonej działalności do warunków wymaganych przepisami ustawy.
+
+3. Spółki prowadzące rynek regulowany dniu wejścia życie ustawy są obowiązane do dostosowania treści regulaminów, o których mowa odpowiednio art. 105 ust. 1 i art. 115 ust. 1 ustawy, o której mowa art. 224, do zmian wynikających z przepisów niniejszej ustawy, terminie 3 miesięcy od dnia jej wejścia życie.
+
+4. Emitenci papierów wartościowych dopuszczonych do publicznego obrotu na podstawie przepisów ustawy, o której mowa art. 224, którzy nie zawarli umowy, o której mowa art. 70 tej ustawy, przed dniem wejścia życie niniejszej ustawy, są obowiązani do zawarcia umowy, o której mowa art. 5 ust. 3–5, terminie 14 dni od dnia wejścia życie niniejszej ustawy.
+
+**Art. 217.**
+
+1. Zachowują ważność wpisy na listę maklerów papierów wartościowych i listę doradców inwestycyjnych dokonane przed dniem wejścia ustawy życie.
+
+2. Pozostają mocy zgody i zezwolenia udzielone przez Komisję przed dniem wejścia ustawy życie. uzyskania uprawnień do wykonywania czynności doradztwa inwestycyjnego są zobowiązani zdać egzamin uzupełniający. Wymóg ten dotyczy również doradztwa inwestycyjnego ramach wykonywania przez takiego maklera czynności agenta firmy inwestycyjnej.
+
+2. Egzamin uzupełniający jest przeprowadzany przez komisję egzaminacyjną dla maklerów. Do przeprowadzania egzaminu uzupełniającego stosuje się odpowiednio art. 128 ust. 1, 4, 9 i 10 zakresie dotyczącym egzaminu przed komisją egzaminacyjną dla maklerów, z zastrzeżeniem, że zakres tematyczny egzaminu uzupełniającego obejmuje wyłącznie zagadnienia związane z wykonywaniem czynności doradztwa inwestycyjnego.
+
+2a. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia:
+
+- **1)** wysokość opłat za egzamin uzupełniający oraz tryb i warunki dokonywania zwrotu wniesionych opłat, mając na uwadze koszty przeprowadzania egzaminu oraz wydatki związane z funkcjonowaniem komisji egzaminacyjnej;
+- **2)** regulamin przeprowadzania egzaminu uzupełniającego, uwzględniając konieczność zapewnienia równego traktowania osób składających egzamin, poufności składanego egzaminu oraz jego sprawnej organizacji;
+- **3)** sposób ustalania i wysokość wynagrodzeń członków komisji egzaminacyjnej za udział posiedzeniach komisji egzaminacyjnej, przeprowadzanie egzaminu uzupełniającego oraz przygotowywanie projektów pytań na egzamin uzupełniający, uwzględniając zakres obowiązków poszczególnych członków komisji egzaminacyjnej.
+
+3. W przypadku maklera wpisanego na listę maklerów papierów wartościowych przed dniem wejścia życie ustawy, wymóg zatrudnienia, o którym mowa art. 83 ust. 1 pkt 3, uważa się za spełniony, jeżeli złożył on z wynikiem pozytywnym egzamin uzupełniający.
+
+4. Fakt złożenia egzaminu uzupełniającego, o którym mowa ust. 1, podlega ogłoszeniu Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd, o którym mowa art. 7 ust. 4 ustawy o nadzorze.
+
+**Art. 219.**
+
+1. W sprawach o przestępstwa określone art. 167–173 ustawy, o której mowa art. 224, co do których postępowanie karne zostało umorzone lub nastąpiła odmowa jego wszczęcia ze względu na ustanie karalności tego przestępstwa związku z wejściem życie niniejszej ustawy, Przewodniczący Komisji może zwrócić się do sądu lub prokuratora o udostępnienie informacji lub kopii dokumentów dotyczących tych spraw, zakresie niezbędnym do wszczęcia przez Komisję postępowania administracyjnego sprawach o odpowiadające tym przestępstwom czyny określone art. 171 ust. 1, art. 172–174.
+
+2. Do czynów stanowiących przestępstwa określone art. 167–173 ustawy, o której mowa art. 224, popełnionych przed dniem wejścia życie niniejszej ustawy, a ujawnionych po tym dniu, stosuje się przepisy tej ustawy zakresie dotyczącym czynów określonych art. 171 ust. 1, art. 172–174.
+
+**Art. 220.**
+
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia życie ustawy stosuje się przepisy niniejszej ustawy, z zastrzeżeniem ust. 2 i 3.
+
+2. Osoby, które dniu wejścia życie ustawy spełniają, według przepisów dotychczasowych, warunki do uzyskania wpisu na listę maklerów lub listę doradców, uzyskują wpis na listę, po złożeniu stosownego wniosku, z zachowaniem 3-miesięcznego terminu, o którym mowa art. 129 ust. 1.
+
+3. Do czynów popełnionych przed dniem wejścia życie niniejszej ustawy skutkujących odpowiedzialnością na podstawie ustawy, o której mowa art. 224, stosuje się przepisy dotychczasowe, chyba że przepisy niniejszej ustawy są względniejsze dla sprawcy.
+
+**Art. 221.** Do dnia 31 grudnia 2005 r. system rekompensat, o którym mowa przepisach działu V niniejszej ustawy, zabezpiecza wypłatę środków inwestorów, o których mowa art. 133 ust. 2, do wysokości równowartości złotych 3000 euro 100 % wartości środków objętych systemem rekompensat oraz 90 % nadwyżki ponad tę kwotę, z tym że górna granica środków objętych systemem rekompensat wynosi równowartość złotych 11 000 euro obliczanej według kursu średniego Narodowego Banku Polskiego, zgodnie z ogłaszaną tabelą kursową, z dnia zaistnienia okoliczności stanowiącej podstawę do wypłat rekompensat.
+
+**Art. 222.** Do czasu wydania przepisów wykonawczych określonych ustawie pozostają mocy, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia życie, przepisy wykonawcze wydane na podstawie art. 23 ust. 5 i 6, art. 31 ust. 2, art. 59c ust. 2, art. 60 ust. 1, art. 60 ust. 3 pkt 2, art. 60 ust. 5, art. 90 ust. 2 i 4, art. 97a ust. 2 i art. 161g ustawy, o której mowa art. 224. wysokości wpłat do systemu rekompensat, zgodnie z art. 121 ust. 6 ustawy, o której mowa art. 224, stosuje się przepisy niniejszej ustawy.
+
+**Art. 224.** Traci moc ustawa z dnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2005 r. poz. 937, 1108, 1199 i 1362), z wyjątkiem art. 118–123 oraz art. 123a i 123b i art. 146a, z zastrzeżeniem art. 223, które tracą moc z dniem 31 grudnia 2005 r.
+
+**Art. 225.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+

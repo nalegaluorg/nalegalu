@@ -1,0 +1,950 @@
+# Orzecznictwo — Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.
+
+Orzeczenia powołujące: *Ustawa z dnia 29 sierpnia 1997 r. o Narodowym Banku Polskim.*
+
+Łącznie: **658** orzeczeń
+
+## art. 1 (1)
+
+- 2024-07-02 | SO | [III Ca 237/24](https://www.saos.org.pl/judgments/541136) | Uzasadnienie
+
+## art. 2 (1)
+
+- 2020-10-05 | SO | [I C 234/19](https://www.saos.org.pl/judgments/426044) | Wyrok
+
+## art. 6 (3)
+
+- 2023-12-01 | SO | [I ACa 510/22](https://www.saos.org.pl/judgments/494261) | Wyrok
+- 2022-12-08 | SO | [V ACa 695/22](https://www.saos.org.pl/judgments/509846) | Wyrok
+- 2017-12-27 | SO | [III Ca 1653/17](https://www.saos.org.pl/judgments/330150) | Uzasadnienie
+
+## art. 7 (4)
+
+- 2023-12-01 | SO | [I ACa 510/22](https://www.saos.org.pl/judgments/494261) | Wyrok
+- 2022-12-08 | SO | [V ACa 695/22](https://www.saos.org.pl/judgments/509846) | Wyrok
+- 2004-09-23 | SN | [I PK 494/03](https://www.saos.org.pl/judgments/82840) | Wyrok
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 11 (2)
+
+- 2004-09-23 | SN | [I PK 494/03](https://www.saos.org.pl/judgments/82840) | Wyrok
+- 1999-10-01 | SN | [I PKN 283/99](https://www.saos.org.pl/judgments/79290) | Wyrok
+
+## art. 12 (15)
+
+- 2018-11-05 | SO | [III Ca 999/18](https://www.saos.org.pl/judgments/363652) | Uzasadnienie
+- 2017-12-27 | SO | [III Ca 1653/17](https://www.saos.org.pl/judgments/330150) | Uzasadnienie
+- 2017-12-22 | SO | [VIII GC 429/17](https://www.saos.org.pl/judgments/326536) | Wyrok
+- 2017-04-24 | SO | [III Ca 1801/16](https://www.saos.org.pl/judgments/285464) | Uzasadnienie
+- 2017-03-21 | SO | [III Ca 143/17](https://www.saos.org.pl/judgments/284520) | Uzasadnienie
+- 2016-06-07 | SO | [III Ca 579/16](https://www.saos.org.pl/judgments/242073) | Uzasadnienie
+- 2016-05-31 | SO | [I ACa 121/16](https://www.saos.org.pl/judgments/233116) | Wyrok
+- 2016-02-04 | SO | [I C 495/15](https://www.saos.org.pl/judgments/208153) | Wyrok
+- 2015-07-23 | SO | [III Ca 885/15](https://www.saos.org.pl/judgments/185504) | Uzasadnienie
+- 2015-04-09 | SO | [III Ca 1794/14](https://www.saos.org.pl/judgments/172894) | Uzasadnienie
+- 2015-04-01 | SO | [XII C 100/14](https://www.saos.org.pl/judgments/153359) | Wyrok
+- 2015-02-13 | SO | [II Ca 1617/14](https://www.saos.org.pl/judgments/135512) | Wyrok
+- 2014-08-22 | SO | [XIII Ga 49/14](https://www.saos.org.pl/judgments/57104) | Uzasadnienie
+- 2006-03-29 | SN | [II UK 103/05](https://www.saos.org.pl/judgments/84209) | Wyrok
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 13 (1)
+
+- 2003-11-24 | TK | [K 26/03](https://www.saos.org.pl/judgments/106335) | Wyrok
+
+## art. 17 (22)
+
+- 2025-07-01 | SO | [I ACa 1700/22](https://www.saos.org.pl/judgments/537055) | Wyrok
+- 2024-01-12 | SO | [III Ca 272/23](https://www.saos.org.pl/judgments/529951) | Uzasadnienie
+- 2023-12-06 | SO | [I ACa 768/22](https://www.saos.org.pl/judgments/494562) | Wyrok
+- 2023-11-30 | SO | [I ACa 645/22](https://www.saos.org.pl/judgments/531189) | Wyrok
+- 2023-11-08 | SO | [I ACa 1974/22](https://www.saos.org.pl/judgments/539256) | Wyrok
+- 2023-09-14 | SO | [I ACa 1824/22](https://www.saos.org.pl/judgments/493810) | Wyrok
+- 2023-09-08 | SO | [I ACa 1836/22](https://www.saos.org.pl/judgments/493815) | Wyrok
+- 2023-08-24 | SO | [I ACa 1505/22](https://www.saos.org.pl/judgments/493670) | Wyrok
+- 2023-06-28 | SO | [I ACa 1245/22](https://www.saos.org.pl/judgments/533423) | Wyrok
+- 2023-06-06 | SO | [V ACa 516/21](https://www.saos.org.pl/judgments/543900) | Wyrok
+- 2023-04-26 | SO | [I ACa 1743/22](https://www.saos.org.pl/judgments/518632) | Wyrok
+- 2023-03-20 | SO | [V ACa 795/22](https://www.saos.org.pl/judgments/486728) | Wyrok
+- 2023-01-19 | SO | [I ACa 1892/22](https://www.saos.org.pl/judgments/489798) | Wyrok
+- 2022-11-28 | SO | [VI ACa 124/22](https://www.saos.org.pl/judgments/510559) | Wyrok
+- 2022-10-14 | SO | [I ACa 665/22](https://www.saos.org.pl/judgments/484491) | Wyrok
+- 2022-09-19 | SO | [III Ca 778/21](https://www.saos.org.pl/judgments/489010) | Uzasadnienie
+- 2022-04-28 | SO | [I ACa 565/21](https://www.saos.org.pl/judgments/482828) | Wyrok
+- 2021-12-22 | SO | [I ACa 838/20](https://www.saos.org.pl/judgments/483940) | Wyrok
+- 2020-07-20 | SO | [XXV C 1058/18](https://www.saos.org.pl/judgments/419293) | Wyrok
+- 2019-12-11 | SO | [I ACa 91/19](https://www.saos.org.pl/judgments/410124) | Wyrok
+- 2019-09-16 | SO | [XXV C 809/17](https://www.saos.org.pl/judgments/395255) | Wyrok
+- 2004-09-23 | SN | [I PK 494/03](https://www.saos.org.pl/judgments/82840) | Wyrok
+
+## art. 23 (1)
+
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 24 (560)
+
+- 2026-02-03 | SO | [I C 564/25](https://www.saos.org.pl/judgments/542453) | Wyrok
+- 2026-01-13 | SO | [I ACa 2287/25](https://www.saos.org.pl/judgments/542512) | Wyrok
+- 2026-01-09 | SO | [I ACa 1093/24](https://www.saos.org.pl/judgments/543367) | Wyrok
+- 2025-12-23 | SO | [I ACa 3549/23](https://www.saos.org.pl/judgments/542422) | Wyrok
+- 2025-12-22 | SO | [I ACa 714/23](https://www.saos.org.pl/judgments/541546) | Wyrok
+- 2025-12-19 | SO | [I ACa 1766/22](https://www.saos.org.pl/judgments/541306) | Wyrok
+- 2025-12-15 | SO | [I ACa 156/23](https://www.saos.org.pl/judgments/541885) | Wyrok
+- 2025-12-03 | SO | [I ACa 142/23](https://www.saos.org.pl/judgments/541543) | Wyrok
+- 2025-12-02 | SO | [I ACa 3879/23](https://www.saos.org.pl/judgments/540248) | Wyrok
+- 2025-12-01 | SO | [I ACa 33/23](https://www.saos.org.pl/judgments/541495) | Wyrok
+- 2025-11-28 | SO | [I ACa 435/24](https://www.saos.org.pl/judgments/543867) | Wyrok
+- 2025-11-25 | SO | [I ACa 4241/24](https://www.saos.org.pl/judgments/540056) | Wyrok
+- 2025-11-24 | SO | [I ACa 1961/25](https://www.saos.org.pl/judgments/539990) | Wyrok
+- 2025-11-04 | SO | [I ACa 3433/23](https://www.saos.org.pl/judgments/538136) | Wyrok
+- 2025-11-03 | SO | [I ACa 2075/24](https://www.saos.org.pl/judgments/539886) | Wyrok
+- 2025-11-03 | SO | [I ACa 1984/23](https://www.saos.org.pl/judgments/538677) | Wyrok
+- 2025-10-31 | SO | [I ACa 753/25](https://www.saos.org.pl/judgments/544198) | Wyrok
+- 2025-10-09 | SO | [I C 527/24](https://www.saos.org.pl/judgments/536355) | Wyrok
+- 2025-10-06 | SO | [I ACa 2092/22](https://www.saos.org.pl/judgments/537065) | Wyrok
+- 2025-09-30 | SO | [I ACa 887/23](https://www.saos.org.pl/judgments/536340) | Wyrok
+- 2025-09-24 | SO | [I ACa 3325/24](https://www.saos.org.pl/judgments/543527) | Wyrok
+- 2025-09-23 | SO | [I ACa 172/23](https://www.saos.org.pl/judgments/543515) | Wyrok
+- 2025-09-19 | SO | [I ACa 35/23](https://www.saos.org.pl/judgments/544342) | Wyrok
+- 2025-09-17 | SO | [I ACa 915/23](https://www.saos.org.pl/judgments/536607) | Wyrok
+- 2025-09-01 | SO | [I Ca 92/25](https://www.saos.org.pl/judgments/534159) | Uzasadnienie
+- 2025-08-21 | SO | [I ACa 2120/22](https://www.saos.org.pl/judgments/537068) | Wyrok
+- 2025-08-08 | SO | [I ACa 2112/23](https://www.saos.org.pl/judgments/533089) | Wyrok
+- 2025-07-23 | SO | [I ACa 1746/22](https://www.saos.org.pl/judgments/537056) | Wyrok
+- 2025-07-22 | SO | [I ACa 2069/22](https://www.saos.org.pl/judgments/542618) | Wyrok
+- 2025-07-18 | SO | [I ACa 707/23](https://www.saos.org.pl/judgments/537991) | Wyrok
+- 2025-07-17 | SO | [I ACa 1698/22](https://www.saos.org.pl/judgments/543136) | Wyrok
+- 2025-07-17 | SO | [I ACa 1506/22](https://www.saos.org.pl/judgments/542508) | Wyrok
+- 2025-07-07 | SO | [I ACa 265/25](https://www.saos.org.pl/judgments/532221) | Wyrok
+- 2025-07-01 | SO | [I ACa 1700/22](https://www.saos.org.pl/judgments/537055) | Wyrok
+- 2025-06-18 | SO | [I ACa 770/23](https://www.saos.org.pl/judgments/536335) | Wyrok
+- 2025-06-13 | SO | [I ACa 3694/24](https://www.saos.org.pl/judgments/541176) | Wyrok
+- 2025-06-10 | SO | [I ACa 2834/23](https://www.saos.org.pl/judgments/539264) | Wyrok
+- 2025-06-05 | SO | [I ACa 1067/24](https://www.saos.org.pl/judgments/540528) | Wyrok
+- 2025-06-04 | SO | [I ACa 35/24](https://www.saos.org.pl/judgments/539267) | Wyrok
+- 2025-05-30 | SO | [I ACa 2904/22](https://www.saos.org.pl/judgments/543524) | Wyrok
+- 2025-05-29 | SO | [I ACa 1659/22](https://www.saos.org.pl/judgments/542110) | Wyrok
+- 2025-05-26 | SO | [I ACa 1060/24](https://www.saos.org.pl/judgments/540333) | Wyrok
+- 2025-05-22 | SO | [I ACa 1929/22](https://www.saos.org.pl/judgments/540310) | Wyrok
+- 2025-05-15 | SO | [I ACa 1948/22](https://www.saos.org.pl/judgments/542112) | Wyrok
+- 2025-04-24 | SO | [I ACa 3091/23](https://www.saos.org.pl/judgments/532976) | Wyrok
+- 2025-04-11 | SO | [I ACa 368/22](https://www.saos.org.pl/judgments/541175) | Wyrok
+- 2025-04-08 | SO | [I ACa 1478/22](https://www.saos.org.pl/judgments/539516) | Wyrok
+- 2025-03-28 | SO | [I ACa 3220/23](https://www.saos.org.pl/judgments/525563) | Wyrok
+- 2025-03-27 | SO | [I ACa 4026/24](https://www.saos.org.pl/judgments/539015) | Wyrok
+- 2025-03-27 | SO | [I ACa 1377/22](https://www.saos.org.pl/judgments/538034) | Wyrok
+- 2025-03-26 | SO | [V ACa 721/23](https://www.saos.org.pl/judgments/533055) | Wyrok
+- 2025-03-18 | SO | [I ACa 2077/23](https://www.saos.org.pl/judgments/525561) | Wyrok
+- 2025-03-12 | SO | [I C 541/24](https://www.saos.org.pl/judgments/534129) | Wyrok
+- 2025-02-28 | SO | [I ACa 2053/22](https://www.saos.org.pl/judgments/543518) | Wyrok
+- 2025-02-27 | SO | [I ACa 72/24](https://www.saos.org.pl/judgments/527701) | Uzasadnienie
+- 2025-02-25 | SO | [I ACa 1966/22](https://www.saos.org.pl/judgments/536598) | Wyrok
+- 2025-02-24 | SO | [I ACa 4025/24](https://www.saos.org.pl/judgments/536878) | Wyrok
+- 2025-02-17 | SO | [I ACa 1123/24](https://www.saos.org.pl/judgments/536903) | Wyrok
+- 2025-01-28 | SO | [I ACa 184/24](https://www.saos.org.pl/judgments/540336) | Wyrok
+- 2025-01-28 | SO | [I ACa 1248/22](https://www.saos.org.pl/judgments/539639) | Wyrok
+- 2025-01-28 | SO | [I ACa 708/22](https://www.saos.org.pl/judgments/536604) | Wyrok
+- 2024-12-20 | SO | [I ACa 1623/22](https://www.saos.org.pl/judgments/535142) | Wyrok
+- 2024-12-20 | SO | [II Ca 1459/23](https://www.saos.org.pl/judgments/530374) | Wyrok
+- 2024-12-19 | SO | [I ACa 1626/22](https://www.saos.org.pl/judgments/533846) | Wyrok
+- 2024-12-19 | SO | [V ACa 174/23](https://www.saos.org.pl/judgments/520759) | Wyrok
+- 2024-12-17 | SO | [I ACa 3328/24](https://www.saos.org.pl/judgments/533648) | Wyrok
+- 2024-12-12 | SO | [V ACa 960/23](https://www.saos.org.pl/judgments/532610) | Wyrok
+- 2024-12-10 | SO | [I ACa 1509/22](https://www.saos.org.pl/judgments/534419) | Wyrok
+- 2024-11-29 | SO | [I ACa 1255/22](https://www.saos.org.pl/judgments/533522) | Wyrok
+- 2024-11-28 | SO | [I ACa 539/24](https://www.saos.org.pl/judgments/535780) | Uzasadnienie
+- 2024-11-28 | SO | [I ACa 1086/22](https://www.saos.org.pl/judgments/533841) | Wyrok
+- 2024-11-22 | SO | [I ACa 2224/24](https://www.saos.org.pl/judgments/536599) | Uzasadnienie
+- 2024-11-19 | SO | [I ACa 1121/22](https://www.saos.org.pl/judgments/532219) | Wyrok
+- 2024-11-15 | SO | [I ACa 1118/23](https://www.saos.org.pl/judgments/533421) | Wyrok
+- 2024-11-15 | SO | [I ACa 297/24](https://www.saos.org.pl/judgments/531494) | Wyrok
+- 2024-11-14 | SO | [I ACa 1356/23](https://www.saos.org.pl/judgments/533844) | Wyrok
+- 2024-11-13 | SO | [I ACa 311/22](https://www.saos.org.pl/judgments/532223) | Wyrok
+- 2024-11-08 | SO | [I ACa 2318/23](https://www.saos.org.pl/judgments/531493) | Wyrok
+- 2024-11-07 | SO | [I ACa 2956/23](https://www.saos.org.pl/judgments/532222) | Wyrok
+- 2024-11-07 | SO | [I ACa 1036/22](https://www.saos.org.pl/judgments/531805) | Wyrok
+- 2024-11-06 | SO | [I ACa 2080/24](https://www.saos.org.pl/judgments/534112) | Wyrok
+- 2024-11-06 | SO | [I ACa 1605/22](https://www.saos.org.pl/judgments/532220) | Wyrok
+- 2024-10-16 | SO | [I ACa 1997/23](https://www.saos.org.pl/judgments/531964) | Wyrok
+- 2024-10-16 | SO | [I ACa 3129/23](https://www.saos.org.pl/judgments/531625) | Wyrok
+- 2024-10-14 | SO | [V ACa 736/22](https://www.saos.org.pl/judgments/542482) | Wyrok
+- 2024-10-09 | SO | [I ACa 1554/24](https://www.saos.org.pl/judgments/530876) | Wyrok
+- 2024-10-09 | SO | [I ACa 3116/23](https://www.saos.org.pl/judgments/529415) | Wyrok
+- 2024-10-04 | SO | [I ACa 3035/23](https://www.saos.org.pl/judgments/529414) | Wyrok
+- 2024-10-03 | SO | [I ACa 309/24](https://www.saos.org.pl/judgments/531022) | Wyrok
+- 2024-09-30 | SO | [I ACa 2417/24](https://www.saos.org.pl/judgments/531021) | Wyrok
+- 2024-09-20 | SO | [I ACa 253/24](https://www.saos.org.pl/judgments/529478) | Wyrok
+- 2024-09-19 | SO | [I ACa 2958/23](https://www.saos.org.pl/judgments/532704) | Wyrok
+- 2024-09-16 | SO | [I ACa 3040/23](https://www.saos.org.pl/judgments/529107) | Wyrok
+- 2024-09-10 | SO | [I ACa 821/23](https://www.saos.org.pl/judgments/544199) | Wyrok
+- 2024-09-06 | SO | [I ACa 150/23](https://www.saos.org.pl/judgments/544187) | Wyrok
+- 2024-09-04 | SO | [I ACa 2736/23](https://www.saos.org.pl/judgments/528767) | Wyrok
+- 2024-09-04 | SO | [I ACa 1091/22](https://www.saos.org.pl/judgments/527799) | Wyrok
+- 2024-09-03 | SO | [I ACa 891/22](https://www.saos.org.pl/judgments/494696) | Wyrok
+- 2024-08-30 | SO | [I ACa 2282/23](https://www.saos.org.pl/judgments/541807) | Wyrok
+- 2024-08-22 | SO | [I ACa 2731/23](https://www.saos.org.pl/judgments/528527) | Wyrok
+- 2024-07-31 | SO | [I ACa 1841/23](https://www.saos.org.pl/judgments/541802) | Wyrok
+- 2024-07-24 | SO | [I ACa 2022/23](https://www.saos.org.pl/judgments/522031) | Wyrok
+- 2024-07-22 | SO | [III Ca 159/22](https://www.saos.org.pl/judgments/541319) | Uzasadnienie
+- 2024-07-18 | SO | [I ACa 1790/23](https://www.saos.org.pl/judgments/521099) | Wyrok
+- 2024-07-08 | SO | [I ACa 1909/22](https://www.saos.org.pl/judgments/543858) | Wyrok
+- 2024-07-04 | SO | [I ACa 1698/23](https://www.saos.org.pl/judgments/543857) | Wyrok
+- 2024-07-02 | SO | [III Ca 237/24](https://www.saos.org.pl/judgments/541136) | Uzasadnienie
+- 2024-07-02 | SO | [II Ca 1503/23](https://www.saos.org.pl/judgments/522908) | Wyrok
+- 2024-07-01 | SO | [I ACa 2999/23](https://www.saos.org.pl/judgments/529106) | Wyrok
+- 2024-07-01 | SO | [I ACa 263/22](https://www.saos.org.pl/judgments/526941) | Wyrok
+- 2024-06-27 | SO | [I ACa 1625/23](https://www.saos.org.pl/judgments/541800) | Wyrok
+- 2024-06-19 | SO | [I ACa 1479/24](https://www.saos.org.pl/judgments/526111) | Wyrok
+- 2024-06-17 | SO | [III Ca 2000/22](https://www.saos.org.pl/judgments/536467) | Uzasadnienie
+- 2024-06-14 | SO | [III Ca 2131/22](https://www.saos.org.pl/judgments/536473) | Uzasadnienie
+- 2024-06-13 | SO | [I ACa 2955/23](https://www.saos.org.pl/judgments/527980) | Wyrok
+- 2024-06-11 | SO | [I ACa 1247/22](https://www.saos.org.pl/judgments/527883) | Wyrok
+- 2024-06-05 | SO | [I ACa 3077/23](https://www.saos.org.pl/judgments/525878) | Wyrok
+- 2024-06-05 | SO | [I ACa 663/23](https://www.saos.org.pl/judgments/525692) | Wyrok
+- 2024-06-04 | SO | [I ACa 867/22](https://www.saos.org.pl/judgments/525881) | Wyrok
+- 2024-06-04 | SO | [I ACa 1012/22](https://www.saos.org.pl/judgments/525558) | Wyrok
+- 2024-05-31 | SO | [I ACa 372/24](https://www.saos.org.pl/judgments/522374) | Wyrok
+- 2024-05-29 | SO | [I ACa 3537/23](https://www.saos.org.pl/judgments/528769) | Wyrok
+- 2024-05-28 | SO | [I ACa 524/23](https://www.saos.org.pl/judgments/522375) | Wyrok
+- 2024-05-16 | SO | [III Ca 2598/22](https://www.saos.org.pl/judgments/533771) | Uzasadnienie
+- 2024-05-16 | SO | [I ACa 2679/23](https://www.saos.org.pl/judgments/524544) | Wyrok
+- 2024-05-15 | SO | [I ACa 1494/23](https://www.saos.org.pl/judgments/518179) | Wyrok
+- 2024-05-09 | SO | [I ACa 3927/23](https://www.saos.org.pl/judgments/494139) | Wyrok
+- 2024-05-06 | SO | [I ACa 2961/23](https://www.saos.org.pl/judgments/525356) | Wyrok
+- 2024-04-25 | SO | [III Ca 821/23](https://www.saos.org.pl/judgments/534256) | Uzasadnienie
+- 2024-04-18 | SO | [I ACa 707/22](https://www.saos.org.pl/judgments/521593) | Wyrok
+- 2024-04-16 | SO | [I ACa 2457/22](https://www.saos.org.pl/judgments/533364) | Wyrok
+- 2024-04-15 | SO | [III Ca 852/22](https://www.saos.org.pl/judgments/531903) | Uzasadnienie
+- 2024-04-03 | SO | [I ACa 484/24](https://www.saos.org.pl/judgments/524773) | Wyrok
+- 2024-04-03 | SO | [I C 363/23](https://www.saos.org.pl/judgments/497826) | Wyrok
+- 2024-04-02 | SO | [III Ca 1021/22](https://www.saos.org.pl/judgments/531843) | Uzasadnienie
+- 2024-03-29 | SO | [I C 1563/19](https://www.saos.org.pl/judgments/496115) | Wyrok
+- 2024-03-28 | SO | [I ACa 1412/23](https://www.saos.org.pl/judgments/531477) | Wyrok
+- 2024-03-27 | SO | [III Ca 2250/21](https://www.saos.org.pl/judgments/531870) | Uzasadnienie
+- 2024-03-27 | SO | [IV C 1362/23](https://www.saos.org.pl/judgments/525038) | Wyrok
+- 2024-03-22 | SO | [I ACa 36/24](https://www.saos.org.pl/judgments/528299) | Wyrok
+- 2024-03-21 | SO | [I ACa 3401/23](https://www.saos.org.pl/judgments/520889) | Wyrok
+- 2024-03-20 | SO | [I ACa 2951/23](https://www.saos.org.pl/judgments/544823) | Wyrok
+- 2024-03-20 | SO | [I ACa 2837/23](https://www.saos.org.pl/judgments/544822) | Wyrok
+- 2024-03-15 | SO | [III Ca 2570/22](https://www.saos.org.pl/judgments/533898) | Uzasadnienie
+- 2024-03-14 | SO | [I ACa 1020/22](https://www.saos.org.pl/judgments/520064) | Wyrok
+- 2024-03-12 | SO | [I ACa 2967/23](https://www.saos.org.pl/judgments/519729) | Wyrok
+- 2024-03-08 | SO | [III Ca 723/22](https://www.saos.org.pl/judgments/531724) | Uzasadnienie
+- 2024-03-06 | SO | [I ACa 1003/22](https://www.saos.org.pl/judgments/521086) | Wyrok
+- 2024-03-04 | SO | [V ACa 513/22](https://www.saos.org.pl/judgments/544782) | Wyrok
+- 2024-03-01 | SO | [V ACa 1242/23](https://www.saos.org.pl/judgments/541869) | Wyrok
+- 2024-02-29 | SO | [I ACa 2190/22](https://www.saos.org.pl/judgments/533360) | Wyrok
+- 2024-02-27 | SO | [I ACa 3830/23](https://www.saos.org.pl/judgments/533222) | Wyrok
+- 2024-02-22 | SO | [I ACa 115/24](https://www.saos.org.pl/judgments/493400) | Wyrok
+- 2024-02-21 | SO | [V ACa 496/22](https://www.saos.org.pl/judgments/544411) | Wyrok
+- 2024-02-16 | SO | [III Ca 528/22](https://www.saos.org.pl/judgments/530976) | Uzasadnienie
+- 2024-02-15 | SO | [V ACa 437/22](https://www.saos.org.pl/judgments/544169) | Wyrok
+- 2024-02-14 | SO | [III Ca 2547/22](https://www.saos.org.pl/judgments/530134) | Uzasadnienie
+- 2024-02-14 | SO | [III Ca 1999/22](https://www.saos.org.pl/judgments/529933) | Uzasadnienie
+- 2024-02-12 | SO | [I ACa 742/22](https://www.saos.org.pl/judgments/519093) | Wyrok
+- 2024-02-09 | SO | [V ACa 811/23](https://www.saos.org.pl/judgments/520119) | Wyrok
+- 2024-02-09 | SO | [I ACa 1986/22](https://www.saos.org.pl/judgments/518776) | Wyrok
+- 2024-02-05 | SO | [I ACa 2960/23](https://www.saos.org.pl/judgments/520888) | Wyrok
+- 2024-02-01 | SO | [III Ca 2447/23](https://www.saos.org.pl/judgments/530763) | Uzasadnienie
+- 2024-02-01 | SO | [I ACa 2962/23](https://www.saos.org.pl/judgments/517929) | Wyrok
+- 2024-01-31 | SO | [V ACa 374/22](https://www.saos.org.pl/judgments/544168) | Wyrok
+- 2024-01-31 | SO | [I ACa 750/22](https://www.saos.org.pl/judgments/516681) | Wyrok
+- 2024-01-31 | SO | [XV Ca 788/23](https://www.saos.org.pl/judgments/514950) | Wyrok
+- 2024-01-26 | SO | [III Ca 793/22](https://www.saos.org.pl/judgments/529959) | Uzasadnienie
+- 2024-01-26 | SO | [I ACa 901/22](https://www.saos.org.pl/judgments/517865) | Wyrok
+- 2024-01-25 | SO | [I ACa 2194/22](https://www.saos.org.pl/judgments/533427) | Wyrok
+- 2024-01-25 | SO | [III Ca 1069/22](https://www.saos.org.pl/judgments/529917) | Uzasadnienie
+- 2024-01-24 | SO | [V ACa 1037/23](https://www.saos.org.pl/judgments/529203) | Wyrok
+- 2024-01-23 | SO | [I ACa 2171/22](https://www.saos.org.pl/judgments/543444) | Wyrok
+- 2024-01-19 | SO | [I ACa 1750/22](https://www.saos.org.pl/judgments/533425) | Wyrok
+- 2024-01-19 | SO | [I ACa 1738/22](https://www.saos.org.pl/judgments/519031) | Wyrok
+- 2024-01-18 | SO | [I ACa 2219/22](https://www.saos.org.pl/judgments/519389) | Wyrok
+- 2024-01-16 | SO | [I ACa 2769/22](https://www.saos.org.pl/judgments/519035) | Wyrok
+- 2024-01-12 | SO | [I ACa 2131/22](https://www.saos.org.pl/judgments/519387) | Wyrok
+- 2024-01-08 | SO | [I ACa 2783/23](https://www.saos.org.pl/judgments/543523) | Wyrok
+- 2024-01-08 | SO | [I ACa 156/22](https://www.saos.org.pl/judgments/517859) | Wyrok
+- 2023-12-28 | SO | [I ACa 594/22](https://www.saos.org.pl/judgments/494365) | Wyrok
+- 2023-12-21 | SO | [V ACa 1184/23](https://www.saos.org.pl/judgments/516871) | Wyrok
+- 2023-12-20 | SO | [I ACa 333/22](https://www.saos.org.pl/judgments/494074) | Wyrok
+- 2023-12-19 | SO | [I ACa 860/22](https://www.saos.org.pl/judgments/494663) | Wyrok
+- 2023-12-15 | SO | [II Ca 2206/22](https://www.saos.org.pl/judgments/501827) | Wyrok
+- 2023-12-13 | SO | [I ACa 1137/23](https://www.saos.org.pl/judgments/493379) | Wyrok
+- 2023-12-12 | SO | [I ACa 1469/21](https://www.saos.org.pl/judgments/517715) | Wyrok
+- 2023-12-12 | SO | [XXV C 493/23](https://www.saos.org.pl/judgments/515598) | Wyrok
+- 2023-12-07 | SO | [I ACa 2123/22](https://www.saos.org.pl/judgments/531177) | Wyrok
+- 2023-12-06 | SO | [V ACa 434/22](https://www.saos.org.pl/judgments/543978) | Wyrok
+- 2023-12-06 | SO | [XXVII Ca 2375/22](https://www.saos.org.pl/judgments/515700) | Wyrok
+- 2023-12-01 | SO | [V ACa 874/23](https://www.saos.org.pl/judgments/509866) | Wyrok
+- 2023-12-01 | SO | [I ACa 510/22](https://www.saos.org.pl/judgments/494261) | Wyrok
+- 2023-11-30 | SO | [I ACa 1675/22](https://www.saos.org.pl/judgments/532968) | Wyrok
+- 2023-11-30 | SO | [I ACa 645/22](https://www.saos.org.pl/judgments/531189) | Wyrok
+- 2023-11-29 | SO | [I ACa 964/23](https://www.saos.org.pl/judgments/494796) | Wyrok
+- 2023-11-28 | SO | [I ACa 769/22](https://www.saos.org.pl/judgments/517720) | Wyrok
+- 2023-11-27 | SO | [I ACa 1973/22](https://www.saos.org.pl/judgments/531175) | Wyrok
+- 2023-11-27 | SO | [I ACa 421/22](https://www.saos.org.pl/judgments/494171) | Wyrok
+- 2023-11-23 | SO | [I ACa 2762/23](https://www.saos.org.pl/judgments/493994) | Wyrok
+- 2023-11-17 | SO | [I ACa 2002/22](https://www.saos.org.pl/judgments/539164) | Wyrok
+- 2023-11-17 | SO | [I ACa 2000/22](https://www.saos.org.pl/judgments/539163) | Wyrok
+- 2023-11-16 | SO | [III Ca 1112/22](https://www.saos.org.pl/judgments/519064) | Uzasadnienie
+- 2023-11-15 | SO | [III Ca 343/22](https://www.saos.org.pl/judgments/518835) | Uzasadnienie
+- 2023-11-14 | SO | [I ACa 2751/22](https://www.saos.org.pl/judgments/539263) | Wyrok
+- 2023-11-10 | SO | [III Ca 1114/22](https://www.saos.org.pl/judgments/518310) | Uzasadnienie
+- 2023-11-09 | SO | [I ACa 1958/22](https://www.saos.org.pl/judgments/539253) | Wyrok
+- 2023-11-07 | SO | [I ACa 502/22](https://www.saos.org.pl/judgments/494249) | Wyrok
+- 2023-11-06 | SO | [I ACa 1242/22](https://www.saos.org.pl/judgments/544336) | Wyrok
+- 2023-11-06 | SO | [V ACa 619/22](https://www.saos.org.pl/judgments/544038) | Wyrok
+- 2023-11-03 | SO | [I ACa 440/22](https://www.saos.org.pl/judgments/494187) | Wyrok
+- 2023-10-31 | SO | [I ACa 1916/22](https://www.saos.org.pl/judgments/532970) | Wyrok
+- 2023-10-30 | SO | [I ACa 1949/22](https://www.saos.org.pl/judgments/532971) | Wyrok
+- 2023-10-30 | SO | [I C 119/22](https://www.saos.org.pl/judgments/495530) | Zarządzenie
+- 2023-10-30 | SO | [I ACa 1876/22](https://www.saos.org.pl/judgments/493832) | Wyrok
+- 2023-10-30 | SO | [I ACa 1856/22](https://www.saos.org.pl/judgments/493823) | Wyrok
+- 2023-10-27 | SO | [XXVII Ca 1120/22](https://www.saos.org.pl/judgments/515649) | Wyrok
+- 2023-10-20 | SO | [I ACa 1785/22](https://www.saos.org.pl/judgments/524927) | Wyrok
+- 2023-10-19 | SO | [I ACa 952/22](https://www.saos.org.pl/judgments/494780) | Wyrok
+- 2023-10-19 | SO | [I ACa 1378/22](https://www.saos.org.pl/judgments/493579) | Wyrok
+- 2023-10-19 | SO | [I ACa 1279/22](https://www.saos.org.pl/judgments/493507) | Wyrok
+- 2023-10-11 | SO | [XXVII Ca 2302/22](https://www.saos.org.pl/judgments/520166) | Wyrok
+- 2023-10-11 | SO | [I ACa 2932/22](https://www.saos.org.pl/judgments/494022) | Wyrok
+- 2023-10-11 | SO | [I ACa 1275/22](https://www.saos.org.pl/judgments/493502) | Wyrok
+- 2023-10-10 | SO | [I ACa 1947/22](https://www.saos.org.pl/judgments/493852) | Wyrok
+- 2023-10-09 | SO | [III Ca 1060/22](https://www.saos.org.pl/judgments/505486) | Uzasadnienie
+- 2023-10-06 | SO | [III Ca 111/22](https://www.saos.org.pl/judgments/505505) | Uzasadnienie
+- 2023-10-06 | SO | [I ACa 1284/22](https://www.saos.org.pl/judgments/493511) | Wyrok
+- 2023-10-04 | SO | [I ACa 1784/22](https://www.saos.org.pl/judgments/493792) | Wyrok
+- 2023-10-03 | SO | [I ACa 442/22](https://www.saos.org.pl/judgments/494188) | Wyrok
+- 2023-09-29 | SO | [I ACa 1842/22](https://www.saos.org.pl/judgments/493820) | Wyrok
+- 2023-09-29 | SO | [I ACa 1167/22](https://www.saos.org.pl/judgments/493415) | Wyrok
+- 2023-09-28 | SO | [I ACa 532/22](https://www.saos.org.pl/judgments/494283) | Wyrok
+- 2023-09-26 | SO | [I ACa 1454/22](https://www.saos.org.pl/judgments/493634) | Wyrok
+- 2023-09-26 | SO | [I ACa 1375/22](https://www.saos.org.pl/judgments/493577) | Wyrok
+- 2023-09-21 | SO | [I ACa 90/23](https://www.saos.org.pl/judgments/494713) | Wyrok
+- 2023-09-20 | SO | [XXVII Ca 1424/22](https://www.saos.org.pl/judgments/515661) | Wyrok
+- 2023-09-20 | SO | [XXVII Ca 1329/22](https://www.saos.org.pl/judgments/515657) | Wyrok
+- 2023-09-18 | SO | [I ACa 248/22](https://www.saos.org.pl/judgments/493942) | Wyrok
+- 2023-09-13 | SO | [I ACa 1181/22](https://www.saos.org.pl/judgments/493430) | Wyrok
+- 2023-09-13 | SO | [I ACa 1141/22](https://www.saos.org.pl/judgments/493387) | Wyrok
+- 2023-09-13 | SO | [I ACa 1119/22](https://www.saos.org.pl/judgments/493355) | Wyrok
+- 2023-09-11 | SO | [I ACa 583/22](https://www.saos.org.pl/judgments/494347) | Wyrok
+- 2023-09-11 | SO | [I ACa 1425/22](https://www.saos.org.pl/judgments/493611) | Wyrok
+- 2023-09-08 | SO | [V ACa 461/21](https://www.saos.org.pl/judgments/532902) | Wyrok
+- 2023-09-08 | SO | [I ACa 685/23](https://www.saos.org.pl/judgments/517719) | Wyrok
+- 2023-09-08 | SO | [I ACa 590/23](https://www.saos.org.pl/judgments/494359) | Wyrok
+- 2023-08-23 | SO | [I ACa 1489/22](https://www.saos.org.pl/judgments/493658) | Wyrok
+- 2023-08-17 | SO | [I ACa 113/23](https://www.saos.org.pl/judgments/493372) | Wyrok
+- 2023-08-09 | SO | [I ACa 1803/22](https://www.saos.org.pl/judgments/493801) | Wyrok
+- 2023-07-31 | SO | [I ACa 184/22](https://www.saos.org.pl/judgments/493817) | Wyrok
+- 2023-07-31 | SO | [I ACa 1073/22](https://www.saos.org.pl/judgments/493319) | Wyrok
+- 2023-07-28 | SO | [I ACa 1810/22](https://www.saos.org.pl/judgments/493804) | Wyrok
+- 2023-07-26 | SO | [I ACa 934/22](https://www.saos.org.pl/judgments/528300) | Wyrok
+- 2023-07-25 | SO | [I ACa 1045/22](https://www.saos.org.pl/judgments/493292) | Wyrok
+- 2023-07-21 | SO | [I ACa 17/23](https://www.saos.org.pl/judgments/493758) | Wyrok
+- 2023-07-19 | SO | [V ACa 379/22](https://www.saos.org.pl/judgments/528512) | Wyrok
+- 2023-07-18 | SO | [V ACa 267/23](https://www.saos.org.pl/judgments/509752) | Wyrok
+- 2023-07-14 | SO | [I ACa 1777/22](https://www.saos.org.pl/judgments/493788) | Wyrok
+- 2023-07-13 | SO | [II Ca 559/23](https://www.saos.org.pl/judgments/502067) | Wyrok
+- 2023-07-10 | SO | [I ACa 1564/22](https://www.saos.org.pl/judgments/493706) | Wyrok
+- 2023-06-27 | SO | [V ACa 481/22](https://www.saos.org.pl/judgments/533054) | Wyrok
+- 2023-06-27 | SO | [I ACa 211/22](https://www.saos.org.pl/judgments/493891) | Wyrok
+- 2023-06-22 | SO | [I ACa 1447/22](https://www.saos.org.pl/judgments/493629) | Wyrok
+- 2023-06-21 | SO | [I ACa 959/22](https://www.saos.org.pl/judgments/494787) | Wyrok
+- 2023-06-20 | SO | [I ACa 1176/22](https://www.saos.org.pl/judgments/493424) | Wyrok
+- 2023-06-20 | SO | [I ACa 1151/22](https://www.saos.org.pl/judgments/493406) | Wyrok
+- 2023-06-19 | SO | [I ACa 2628/22](https://www.saos.org.pl/judgments/493973) | Wyrok
+- 2023-06-15 | SO | [I ACa 651/22](https://www.saos.org.pl/judgments/517003) | Wyrok
+- 2023-06-14 | SO | [I ACa 843/22](https://www.saos.org.pl/judgments/523894) | Wyrok
+- 2023-06-14 | SO | [I ACa 405/22](https://www.saos.org.pl/judgments/494156) | Wyrok
+- 2023-06-13 | SO | [I ACa 953/22](https://www.saos.org.pl/judgments/494781) | Wyrok
+- 2023-06-06 | SO | [V ACa 516/21](https://www.saos.org.pl/judgments/543900) | Wyrok
+- 2023-06-06 | SO | [V ACa 461/22](https://www.saos.org.pl/judgments/532903) | Wyrok
+- 2023-06-06 | SO | [I ACa 1498/22](https://www.saos.org.pl/judgments/516379) | Wyrok
+- 2023-06-06 | SO | [I ACa 927/22](https://www.saos.org.pl/judgments/494749) | Wyrok
+- 2023-06-05 | SO | [II Ca 201/23](https://www.saos.org.pl/judgments/501789) | Uzasadnienie
+- 2023-06-01 | SO | [I ACa 505/22](https://www.saos.org.pl/judgments/494255) | Wyrok
+- 2023-05-30 | SO | [I ACa 1289/22](https://www.saos.org.pl/judgments/516367) | Wyrok
+- 2023-05-30 | SO | [I ACa 628/23](https://www.saos.org.pl/judgments/491172) | Wyrok
+- 2023-05-25 | SO | [XV Ca 594/23](https://www.saos.org.pl/judgments/514944) | Wyrok
+- 2023-05-25 | SO | [I ACa 2434/22](https://www.saos.org.pl/judgments/493938) | Wyrok
+- 2023-05-24 | SO | [I ACa 112/23](https://www.saos.org.pl/judgments/516350) | Wyrok
+- 2023-05-24 | SO | [I ACa 992/22](https://www.saos.org.pl/judgments/494835) | Wyrok
+- 2023-05-24 | SO | [I ACa 572/23](https://www.saos.org.pl/judgments/490693) | Wyrok
+- 2023-05-24 | SO | [I ACa 1151/22](https://www.saos.org.pl/judgments/490100) | Wyrok
+- 2023-05-23 | SO | [III Ca 1931/21](https://www.saos.org.pl/judgments/505966) | Uzasadnienie
+- 2023-05-23 | SO | [I ACa 536/22](https://www.saos.org.pl/judgments/492217) | Wyrok
+- 2023-05-22 | SO | [III Ca 2088/21](https://www.saos.org.pl/judgments/506072) | Uzasadnienie
+- 2023-05-17 | SO | [I ACa 634/22](https://www.saos.org.pl/judgments/494415) | Wyrok
+- 2023-05-16 | SO | [V ACa 123/22](https://www.saos.org.pl/judgments/528511) | Wyrok
+- 2023-05-12 | SO | [XV Ca 1404/22](https://www.saos.org.pl/judgments/538325) | Wyrok
+- 2023-05-10 | SO | [I ACa 1573/21](https://www.saos.org.pl/judgments/532700) | Wyrok
+- 2023-05-10 | SO | [V ACa 693/22](https://www.saos.org.pl/judgments/490950) | Wyrok
+- 2023-05-10 | SO | [V ACa 685/22](https://www.saos.org.pl/judgments/490949) | Wyrok
+- 2023-05-09 | SO | [I ACa 352/22](https://www.saos.org.pl/judgments/492204) | Wyrok
+- 2023-05-08 | SO | [III Ca 2497/21](https://www.saos.org.pl/judgments/506339) | Uzasadnienie
+- 2023-05-08 | SO | [III Ca 2472/21](https://www.saos.org.pl/judgments/506317) | Uzasadnienie
+- 2023-04-28 | SO | [II Ca 620/22](https://www.saos.org.pl/judgments/502100) | Wyrok
+- 2023-04-27 | SO | [III Ca 278/23](https://www.saos.org.pl/judgments/506490) | Uzasadnienie
+- 2023-04-27 | SO | [I ACa 205/22](https://www.saos.org.pl/judgments/493879) | Wyrok
+- 2023-04-27 | SO | [I ACa 163/22](https://www.saos.org.pl/judgments/493734) | Wyrok
+- 2023-04-26 | SO | [V ACa 1561/22](https://www.saos.org.pl/judgments/509729) | Wyrok
+- 2023-04-26 | SO | [III Ca 752/22](https://www.saos.org.pl/judgments/506709) | Uzasadnienie
+- 2023-04-26 | SO | [I ACa 62/22](https://www.saos.org.pl/judgments/494387) | Wyrok
+- 2023-04-26 | SO | [I ACa 1297/21](https://www.saos.org.pl/judgments/490692) | Wyrok
+- 2023-04-25 | SO | [I ACa 789/22](https://www.saos.org.pl/judgments/516813) | Wyrok
+- 2023-04-25 | SO | [III Ca 2252/21](https://www.saos.org.pl/judgments/506174) | Uzasadnienie
+- 2023-04-24 | SO | [I ACa 1372/22](https://www.saos.org.pl/judgments/523254) | Wyrok
+- 2023-04-24 | SO | [III Ca 2143/21](https://www.saos.org.pl/judgments/506102) | Uzasadnienie
+- 2023-04-21 | SO | [I ACa 1048/22](https://www.saos.org.pl/judgments/493297) | Wyrok
+- 2023-04-20 | SO | [I ACa 1383/22](https://www.saos.org.pl/judgments/523255) | Wyrok
+- 2023-04-19 | SO | [I ACa 836/22](https://www.saos.org.pl/judgments/518641) | Wyrok
+- 2023-04-19 | SO | [I ACa 704/22](https://www.saos.org.pl/judgments/516811) | Wyrok
+- 2023-04-18 | SO | [I ACa 192/22](https://www.saos.org.pl/judgments/488651) | Wyrok
+- 2023-04-12 | SO | [I ACa 691/22](https://www.saos.org.pl/judgments/518639) | Wyrok
+- 2023-04-12 | SO | [V ACa 1029/22](https://www.saos.org.pl/judgments/509695) | Wyrok
+- 2023-04-11 | SO | [III Ca 1793/22](https://www.saos.org.pl/judgments/505872) | Uzasadnienie
+- 2023-04-06 | SO | [I ACa 568/22](https://www.saos.org.pl/judgments/516810) | Wyrok
+- 2023-04-06 | SO | [V ACa 1318/22](https://www.saos.org.pl/judgments/509716) | Wyrok
+- 2023-04-05 | SO | [I ACa 1213/22](https://www.saos.org.pl/judgments/516362) | Wyrok
+- 2023-04-04 | SO | [I ACa 1215/22](https://www.saos.org.pl/judgments/516363) | Wyrok
+- 2023-04-04 | SO | [XXVII Ca 1292/21](https://www.saos.org.pl/judgments/515655) | Wyrok
+- 2023-03-30 | SO | [I ACa 132/22](https://www.saos.org.pl/judgments/493546) | Wyrok
+- 2023-03-29 | SO | [I ACa 606/22](https://www.saos.org.pl/judgments/518782) | Wyrok
+- 2023-03-29 | SO | [I Ca 116/23](https://www.saos.org.pl/judgments/499827) | Wyrok
+- 2023-03-29 | SO | [I ACa 1484/21](https://www.saos.org.pl/judgments/493656) | Wyrok
+- 2023-03-29 | SO | [I ACa 1352/21](https://www.saos.org.pl/judgments/493568) | Wyrok
+- 2023-03-28 | SO | [I ACa 1067/22](https://www.saos.org.pl/judgments/493316) | Wyrok
+- 2023-03-27 | SO | [I ACa 1941/22](https://www.saos.org.pl/judgments/493849) | Wyrok
+- 2023-03-23 | SO | [I ACa 672/22](https://www.saos.org.pl/judgments/516453) | Wyrok
+- 2023-03-20 | SO | [III Ca 1552/21](https://www.saos.org.pl/judgments/505727) | Uzasadnienie
+- 2023-03-20 | SO | [V ACa 795/22](https://www.saos.org.pl/judgments/486728) | Wyrok
+- 2023-03-17 | SO | [VI ACa 355/22](https://www.saos.org.pl/judgments/510572) | Wyrok
+- 2023-03-17 | SO | [I ACa 1342/21](https://www.saos.org.pl/judgments/493560) | Wyrok
+- 2023-03-17 | SO | [I ACa 1225/21](https://www.saos.org.pl/judgments/493461) | Wyrok
+- 2023-03-14 | SO | [I ACa 1157/22](https://www.saos.org.pl/judgments/516355) | Wyrok
+- 2023-03-14 | SO | [V ACa 324/21](https://www.saos.org.pl/judgments/509765) | Wyrok
+- 2023-03-14 | SO | [II Ca 1831/22](https://www.saos.org.pl/judgments/485255) | Wyrok
+- 2023-03-13 | SO | [I ACa 624/22](https://www.saos.org.pl/judgments/494397) | Wyrok
+- 2023-03-08 | SO | [I ACa 405/22](https://www.saos.org.pl/judgments/522032) | Wyrok
+- 2023-03-08 | SO | [V ACa 381/22](https://www.saos.org.pl/judgments/517080) | Wyrok
+- 2023-03-08 | SO | [I ACa 1073/22](https://www.saos.org.pl/judgments/493318) | Wyrok
+- 2023-03-03 | SO | [II Ca 903/22](https://www.saos.org.pl/judgments/502277) | Uzasadnienie
+- 2023-03-03 | SO | [I ACa 2373/22](https://www.saos.org.pl/judgments/493931) | Wyrok
+- 2023-02-28 | SO | [I ACa 253/22](https://www.saos.org.pl/judgments/493956) | Wyrok
+- 2023-02-23 | SO | [I ACa 953/22](https://www.saos.org.pl/judgments/494782) | Wyrok
+- 2023-02-22 | SO | [I ACa 2080/22](https://www.saos.org.pl/judgments/533358) | Wyrok
+- 2023-02-20 | SO | [I ACa 897/22](https://www.saos.org.pl/judgments/494707) | Wyrok
+- 2023-02-20 | SO | [I ACa 1935/22](https://www.saos.org.pl/judgments/493847) | Wyrok
+- 2023-02-15 | SO | [I ACa 1096/22](https://www.saos.org.pl/judgments/516347) | Wyrok
+- 2023-02-13 | SO | [I ACa 342/22](https://www.saos.org.pl/judgments/488016) | Wyrok
+- 2023-02-13 | SO | [I ACa 1823/21](https://www.saos.org.pl/judgments/488008) | Wyrok
+- 2023-02-10 | SO | [V ACa 1173/22](https://www.saos.org.pl/judgments/509706) | Wyrok
+- 2023-02-08 | SO | [I ACa 146/22](https://www.saos.org.pl/judgments/493640) | Wyrok
+- 2023-02-07 | SO | [I ACa 23/22](https://www.saos.org.pl/judgments/493926) | Wyrok
+- 2023-02-06 | SO | [I ACa 1300/22](https://www.saos.org.pl/judgments/485062) | Wyrok
+- 2023-01-30 | SO | [I ACa 777/22](https://www.saos.org.pl/judgments/488038) | Wyrok
+- 2023-01-27 | SO | [XV Ca 620/22](https://www.saos.org.pl/judgments/491488) | Wyrok
+- 2023-01-26 | SO | [I ACa 1065/22](https://www.saos.org.pl/judgments/493314) | Wyrok
+- 2023-01-24 | SO | [V ACa 926/22](https://www.saos.org.pl/judgments/509870) | Wyrok
+- 2023-01-24 | SO | [V ACa 866/22](https://www.saos.org.pl/judgments/509863) | Wyrok
+- 2023-01-20 | SO | [I ACa 596/22](https://www.saos.org.pl/judgments/494367) | Wyrok
+- 2023-01-17 | SO | [I ACa 1121/21](https://www.saos.org.pl/judgments/483663) | Wyrok
+- 2023-01-12 | SO | [I ACa 107/22](https://www.saos.org.pl/judgments/493317) | Wyrok
+- 2023-01-12 | SO | [II Ca 234/22](https://www.saos.org.pl/judgments/484873) | Wyrok
+- 2023-01-11 | SO | [I ACa 1860/22](https://www.saos.org.pl/judgments/493824) | Wyrok
+- 2023-01-11 | SO | [V ACa 399/22](https://www.saos.org.pl/judgments/481975) | Wyrok
+- 2023-01-09 | SO | [I ACa 704/21](https://www.saos.org.pl/judgments/491211) | Wyrok
+- 2022-12-30 | SO | [III Ca 928/22](https://www.saos.org.pl/judgments/506786) | Uzasadnienie
+- 2022-12-29 | SO | [I ACa 813/22](https://www.saos.org.pl/judgments/494609) | Wyrok
+- 2022-12-29 | SO | [I ACa 589/22](https://www.saos.org.pl/judgments/494353) | Wyrok
+- 2022-12-29 | SO | [I ACa 1226/22](https://www.saos.org.pl/judgments/493463) | Wyrok
+- 2022-12-22 | SO | [V ACa 1004/22](https://www.saos.org.pl/judgments/509689) | Wyrok
+- 2022-12-21 | SO | [I ACa 685/22](https://www.saos.org.pl/judgments/494469) | Wyrok
+- 2022-12-15 | SO | [III Ca 1822/21](https://www.saos.org.pl/judgments/505892) | Uzasadnienie
+- 2022-12-15 | SO | [VI C 641/22](https://www.saos.org.pl/judgments/485307) | Uzasadnienie
+- 2022-12-13 | SO | [I ACa 918/21](https://www.saos.org.pl/judgments/481169) | Wyrok
+- 2022-12-12 | SO | [I ACa 1643/21](https://www.saos.org.pl/judgments/493738) | Wyrok
+- 2022-12-09 | SO | [I ACa 1283/21](https://www.saos.org.pl/judgments/493508) | Wyrok
+- 2022-12-08 | SO | [V ACa 695/22](https://www.saos.org.pl/judgments/509846) | Wyrok
+- 2022-12-02 | SO | [V ACa 217/22](https://www.saos.org.pl/judgments/481935) | Wyrok
+- 2022-12-01 | SO | [I ACa 724/22](https://www.saos.org.pl/judgments/494512) | Wyrok
+- 2022-11-30 | SO | [I ACa 675/22](https://www.saos.org.pl/judgments/494460) | Wyrok
+- 2022-11-30 | SO | [I ACa 424/21](https://www.saos.org.pl/judgments/494175) | Wyrok
+- 2022-11-30 | SO | [II Ca 1034/22](https://www.saos.org.pl/judgments/482311) | Wyrok
+- 2022-11-29 | SO | [I ACa 669/22](https://www.saos.org.pl/judgments/494452) | Wyrok
+- 2022-11-29 | SO | [I ACa 668/22](https://www.saos.org.pl/judgments/494449) | Wyrok
+- 2022-11-28 | SO | [V ACa 698/22](https://www.saos.org.pl/judgments/509847) | Wyrok
+- 2022-11-25 | SO | [I ACa 477/21](https://www.saos.org.pl/judgments/484942) | Wyrok
+- 2022-11-22 | SO | [I ACa 1001/21](https://www.saos.org.pl/judgments/493251) | Wyrok
+- 2022-11-18 | SO | [II Ca 320/22](https://www.saos.org.pl/judgments/482696) | Wyrok
+- 2022-11-17 | SO | [I ACa 1147/22](https://www.saos.org.pl/judgments/493395) | Wyrok
+- 2022-11-16 | SO | [V ACa 746/22](https://www.saos.org.pl/judgments/509855) | Wyrok
+- 2022-11-16 | SO | [V ACa 307/22](https://www.saos.org.pl/judgments/480479) | Wyrok
+- 2022-11-16 | SO | [V ACa 181/22](https://www.saos.org.pl/judgments/480035) | Wyrok
+- 2022-11-14 | SO | [V ACa 442/22](https://www.saos.org.pl/judgments/509792) | Wyrok
+- 2022-11-04 | SO | [VI ACa 554/21](https://www.saos.org.pl/judgments/483926) | Wyrok
+- 2022-11-04 | SO | [V ACa 229/22](https://www.saos.org.pl/judgments/477907) | Wyrok
+- 2022-11-03 | SO | [VI ACa 184/22](https://www.saos.org.pl/judgments/510564) | Wyrok
+- 2022-10-31 | SO | [III Ca 2318/21](https://www.saos.org.pl/judgments/491297) | Uzasadnienie
+- 2022-10-28 | SO | [V ACa 491/22](https://www.saos.org.pl/judgments/509806) | Wyrok
+- 2022-10-28 | SO | [I ACa 530/22](https://www.saos.org.pl/judgments/494282) | Wyrok
+- 2022-10-28 | SO | [II Ca 1092/22](https://www.saos.org.pl/judgments/482909) | Wyrok
+- 2022-10-27 | SO | [V ACa 325/21](https://www.saos.org.pl/judgments/478085) | Wyrok
+- 2022-10-25 | SO | [I ACa 556/22](https://www.saos.org.pl/judgments/494315) | Wyrok
+- 2022-10-25 | SO | [I ACa 1298/21](https://www.saos.org.pl/judgments/493522) | Wyrok
+- 2022-10-21 | SO | [V ACa 540/22](https://www.saos.org.pl/judgments/509819) | Wyrok
+- 2022-10-17 | SO | [I ACa 27/22](https://www.saos.org.pl/judgments/483624) | Wyrok
+- 2022-10-17 | SO | [IV C 1411/20](https://www.saos.org.pl/judgments/481298) | Wyrok
+- 2022-10-14 | SO | [I ACa 466/22](https://www.saos.org.pl/judgments/486013) | Wyrok
+- 2022-10-14 | SO | [I ACa 665/22](https://www.saos.org.pl/judgments/484491) | Wyrok
+- 2022-10-13 | SO | [I ACa 535/22](https://www.saos.org.pl/judgments/494287) | Wyrok
+- 2022-10-12 | SO | [II Ca 111/22](https://www.saos.org.pl/judgments/482219) | Wyrok
+- 2022-10-06 | SO | [I ACa 427/22](https://www.saos.org.pl/judgments/494177) | Wyrok
+- 2022-09-30 | SO | [I ACa 185/22](https://www.saos.org.pl/judgments/483622) | Wyrok
+- 2022-09-29 | SO | [I ACa 255/22](https://www.saos.org.pl/judgments/516405) | Wyrok
+- 2022-09-29 | SO | [VI ACa 740/21](https://www.saos.org.pl/judgments/477484) | Wyrok
+- 2022-09-28 | SO | [I ACa 168/22](https://www.saos.org.pl/judgments/516389) | Wyrok
+- 2022-09-28 | SO | [V ACa 102/22](https://www.saos.org.pl/judgments/509692) | Wyrok
+- 2022-09-23 | SO | [I ACa 379/22](https://www.saos.org.pl/judgments/494123) | Wyrok
+- 2022-09-22 | SO | [I ACa 498/22](https://www.saos.org.pl/judgments/516434) | Wyrok
+- 2022-09-19 | SO | [III Ca 778/21](https://www.saos.org.pl/judgments/489010) | Uzasadnienie
+- 2022-09-19 | SO | [III Ca 1308/21](https://www.saos.org.pl/judgments/488988) | Uzasadnienie
+- 2022-09-15 | SO | [I ACa 328/22](https://www.saos.org.pl/judgments/494069) | Wyrok
+- 2022-09-13 | SO | [I ACa 66/22](https://www.saos.org.pl/judgments/486017) | Wyrok
+- 2022-09-09 | SO | [I ACa 704/22](https://www.saos.org.pl/judgments/516455) | Wyrok
+- 2022-09-09 | SO | [I ACa 67/22](https://www.saos.org.pl/judgments/494457) | Wyrok
+- 2022-09-07 | SO | [V ACa 102/22](https://www.saos.org.pl/judgments/475734) | Wyrok
+- 2022-08-31 | SO | [I ACa 405/22](https://www.saos.org.pl/judgments/494154) | Wyrok
+- 2022-08-30 | SO | [I ACa 911/21](https://www.saos.org.pl/judgments/476372) | Wyrok
+- 2022-08-26 | SO | [I ACa 387/22](https://www.saos.org.pl/judgments/490040) | Uzasadnienie
+- 2022-08-26 | SO | [VI ACa 630/21](https://www.saos.org.pl/judgments/478005) | Wyrok
+- 2022-08-25 | SO | [V ACa 41/22](https://www.saos.org.pl/judgments/475074) | Wyrok
+- 2022-08-25 | SO | [V ACa 27/22](https://www.saos.org.pl/judgments/472870) | Wyrok
+- 2022-08-24 | SO | [I ACa 186/22](https://www.saos.org.pl/judgments/485158) | Wyrok
+- 2022-08-24 | SO | [I ACa 233/22](https://www.saos.org.pl/judgments/476929) | Wyrok
+- 2022-08-18 | SO | [I ACa 1012/21](https://www.saos.org.pl/judgments/493262) | Wyrok
+- 2022-08-10 | SO | [I ACa 135/22](https://www.saos.org.pl/judgments/493565) | Wyrok
+- 2022-08-10 | SO | [I ACa 104/22](https://www.saos.org.pl/judgments/493285) | Wyrok
+- 2022-08-09 | SO | [VI ACa 1012/21](https://www.saos.org.pl/judgments/492981) | Wyrok
+- 2022-08-04 | SO | [I ACa 1419/21](https://www.saos.org.pl/judgments/493606) | Wyrok
+- 2022-08-01 | SO | [I ACa 965/21](https://www.saos.org.pl/judgments/543545) | Wyrok
+- 2022-07-29 | SO | [I ACa 952/21](https://www.saos.org.pl/judgments/475833) | Wyrok
+- 2022-07-15 | SO | [I ACa 232/22](https://www.saos.org.pl/judgments/493928) | Wyrok
+- 2022-07-15 | SO | [I ACa 197/22](https://www.saos.org.pl/judgments/493861) | Wyrok
+- 2022-07-15 | SO | [I ACa 194/22](https://www.saos.org.pl/judgments/493848) | Wyrok
+- 2022-07-14 | SO | [I ACa 205/22](https://www.saos.org.pl/judgments/493878) | Wyrok
+- 2022-07-12 | SO | [I ACa 219/22](https://www.saos.org.pl/judgments/493905) | Wyrok
+- 2022-07-07 | SO | [I ACa 922/21](https://www.saos.org.pl/judgments/494736) | Uzasadnienie
+- 2022-07-06 | SO | [I ACa 34/22](https://www.saos.org.pl/judgments/494081) | Wyrok
+- 2022-06-23 | SO | [I ACa 71/22](https://www.saos.org.pl/judgments/494502) | Wyrok
+- 2022-06-22 | SO | [I ACa 563/21](https://www.saos.org.pl/judgments/494327) | Wyrok
+- 2022-06-21 | SO | [IV C 2414/20](https://www.saos.org.pl/judgments/478616) | Wyrok
+- 2022-06-17 | SO | [I Ca 189/22](https://www.saos.org.pl/judgments/470560) | Wyrok
+- 2022-06-15 | SO | [V ACa 757/21](https://www.saos.org.pl/judgments/516874) | Wyrok
+- 2022-06-15 | SO | [V ACa 143/22](https://www.saos.org.pl/judgments/490683) | Wyrok
+- 2022-06-14 | SO | [I ACa 818/21](https://www.saos.org.pl/judgments/494613) | Wyrok
+- 2022-06-10 | SO | [V Ca 421/21](https://www.saos.org.pl/judgments/490155) | Wyrok
+- 2022-06-07 | SO | [I ACa 698/21](https://www.saos.org.pl/judgments/492094) | Wyrok
+- 2022-06-06 | SO | [XV Ca 398/22](https://www.saos.org.pl/judgments/482790) | Wyrok
+- 2022-06-03 | SO | [I ACa 912/21](https://www.saos.org.pl/judgments/482839) | Wyrok
+- 2022-06-03 | SO | [III Ca 752/21](https://www.saos.org.pl/judgments/480156) | Uzasadnienie
+- 2022-06-01 | SO | [V ACa 872/21](https://www.saos.org.pl/judgments/471149) | Wyrok
+- 2022-06-01 | SO | [V ACa 942/21](https://www.saos.org.pl/judgments/469742) | Wyrok
+- 2022-05-31 | SO | [I ACa 975/21](https://www.saos.org.pl/judgments/494814) | Wyrok
+- 2022-05-31 | SO | [I ACa 131/22](https://www.saos.org.pl/judgments/477214) | Wyrok
+- 2022-05-30 | SO | [V ACa 132/22](https://www.saos.org.pl/judgments/509717) | Wyrok
+- 2022-05-26 | SO | [I ACa 5/21](https://www.saos.org.pl/judgments/476548) | Wyrok
+- 2022-05-25 | SO | [V ACa 839/21](https://www.saos.org.pl/judgments/469499) | Wyrok
+- 2022-05-23 | SO | [I C 1432/21](https://www.saos.org.pl/judgments/516917) | Uzasadnienie
+- 2022-05-23 | SO | [V ACa 114/22](https://www.saos.org.pl/judgments/469193) | Wyrok
+- 2022-05-20 | SO | [IV C 558/21](https://www.saos.org.pl/judgments/477897) | Wyrok
+- 2022-05-19 | SO | [VI ACa 1056/21](https://www.saos.org.pl/judgments/481140) | Wyrok
+- 2022-05-19 | SO | [III Ca 657/21](https://www.saos.org.pl/judgments/478430) | Uzasadnienie
+- 2022-05-19 | SO | [I ACa 582/21](https://www.saos.org.pl/judgments/477066) | Wyrok
+- 2022-05-17 | SO | [IV C 2909/20](https://www.saos.org.pl/judgments/477896) | Wyrok
+- 2022-05-17 | SO | [V ACa 691/21](https://www.saos.org.pl/judgments/469661) | Wyrok
+- 2022-05-16 | SO | [I ACa 186/21](https://www.saos.org.pl/judgments/476750) | Wyrok
+- 2022-05-16 | SO | [VI C 19/22](https://www.saos.org.pl/judgments/475753) | Uzasadnienie
+- 2022-05-12 | SO | [VI C 51/22](https://www.saos.org.pl/judgments/474877) | Uzasadnienie
+- 2022-05-12 | SO | [III Ca 655/21](https://www.saos.org.pl/judgments/473880) | Uzasadnienie
+- 2022-05-12 | SO | [I ACa 940/21](https://www.saos.org.pl/judgments/473227) | Wyrok
+- 2022-05-10 | SO | [I ACa 692/21](https://www.saos.org.pl/judgments/492227) | Wyrok
+- 2022-05-09 | SO | [III Ca 2559/21](https://www.saos.org.pl/judgments/473856) | Uzasadnienie
+- 2022-05-06 | SO | [I ACa 9/22](https://www.saos.org.pl/judgments/492095) | Wyrok
+- 2022-04-28 | SO | [VI ACa 896/21](https://www.saos.org.pl/judgments/483929) | Wyrok
+- 2022-04-28 | SO | [VI ACa 800/21](https://www.saos.org.pl/judgments/483928) | Wyrok
+- 2022-04-28 | SO | [I ACa 565/21](https://www.saos.org.pl/judgments/482828) | Wyrok
+- 2022-04-28 | SO | [I ACa 14/22](https://www.saos.org.pl/judgments/482814) | Wyrok
+- 2022-04-28 | SO | [I ACa 676/21](https://www.saos.org.pl/judgments/468158) | Wyrok
+- 2022-04-27 | SO | [I ACa 681/21](https://www.saos.org.pl/judgments/482676) | Wyrok
+- 2022-04-27 | SO | [V ACa 752/21](https://www.saos.org.pl/judgments/477408) | Wyrok
+- 2022-04-27 | SO | [I ACa 395/21](https://www.saos.org.pl/judgments/469004) | Wyrok
+- 2022-04-26 | SO | [I ACa 603/21](https://www.saos.org.pl/judgments/482829) | Wyrok
+- 2022-04-26 | SO | [I ACa 895/21](https://www.saos.org.pl/judgments/482677) | Wyrok
+- 2022-04-25 | SO | [I ACa 299/22](https://www.saos.org.pl/judgments/494029) | Wyrok
+- 2022-04-25 | SO | [I ACa 673/21](https://www.saos.org.pl/judgments/487928) | Wyrok
+- 2022-04-25 | SO | [I ACa 890/21](https://www.saos.org.pl/judgments/482836) | Wyrok
+- 2022-04-21 | SO | [VI ACa 770/21](https://www.saos.org.pl/judgments/483927) | Wyrok
+- 2022-04-20 | SO | [I C 797/20](https://www.saos.org.pl/judgments/464986) | Wyrok
+- 2022-04-14 | SO | [I ACa 1135/21](https://www.saos.org.pl/judgments/493377) | Wyrok
+- 2022-04-13 | SO | [I ACa 1001/21](https://www.saos.org.pl/judgments/468466) | Wyrok
+- 2022-04-12 | SO | [I ACa 50/22](https://www.saos.org.pl/judgments/475153) | Wyrok
+- 2022-04-11 | SO | [I ACa 832/21](https://www.saos.org.pl/judgments/476989) | Wyrok
+- 2022-04-07 | SO | [I ACa 523/21](https://www.saos.org.pl/judgments/482825) | Wyrok
+- 2022-04-04 | SO | [V Ca 1337/21](https://www.saos.org.pl/judgments/492567) | Wyrok
+- 2022-03-30 | SO | [I ACa 686/21](https://www.saos.org.pl/judgments/494470) | Wyrok
+- 2022-03-30 | SO | [I ACa 488/21](https://www.saos.org.pl/judgments/494239) | Wyrok
+- 2022-03-25 | SO | [I ACa 700/21](https://www.saos.org.pl/judgments/494493) | Wyrok
+- 2022-03-21 | SO | [V ACa 689/21](https://www.saos.org.pl/judgments/509845) | Wyrok
+- 2022-03-21 | SO | [V ACa 729/21](https://www.saos.org.pl/judgments/469136) | Wyrok
+- 2022-03-17 | SO | [I ACa 914/21](https://www.saos.org.pl/judgments/475277) | Wyrok
+- 2022-03-07 | SO | [I ACa 489/21](https://www.saos.org.pl/judgments/543530) | Wyrok
+- 2022-02-28 | SO | [V ACa 627/21](https://www.saos.org.pl/judgments/490892) | Wyrok
+- 2022-02-28 | SO | [I ACa 512/21](https://www.saos.org.pl/judgments/467718) | Wyrok
+- 2022-02-24 | SO | [I ACa 1000/21](https://www.saos.org.pl/judgments/467716) | Wyrok
+- 2022-02-24 | SO | [I ACa 911/21](https://www.saos.org.pl/judgments/467177) | Wyrok
+- 2022-02-24 | SO | [I ACa 143/21](https://www.saos.org.pl/judgments/463304) | Wyrok
+- 2022-02-23 | SO | [I ACa 630/21](https://www.saos.org.pl/judgments/467168) | Wyrok
+- 2022-02-18 | SO | [V Ca 1707/21](https://www.saos.org.pl/judgments/492571) | Wyrok
+- 2022-02-17 | SO | [I ACa 623/21](https://www.saos.org.pl/judgments/494395) | Wyrok
+- 2022-02-16 | SO | [I ACa 154/21](https://www.saos.org.pl/judgments/470835) | Wyrok
+- 2022-02-10 | SO | [I ACa 766/21](https://www.saos.org.pl/judgments/494556) | Wyrok
+- 2022-02-08 | SO | [I ACa 795/21](https://www.saos.org.pl/judgments/467172) | Wyrok
+- 2022-02-03 | SO | [I ACa 189/21](https://www.saos.org.pl/judgments/487607) | Wyrok
+- 2022-01-31 | SO | [VI ACa 1025/20](https://www.saos.org.pl/judgments/473556) | Wyrok
+- 2022-01-31 | SO | [VI ACa 15/21](https://www.saos.org.pl/judgments/467793) | Wyrok
+- 2022-01-26 | SO | [V ACa 665/21](https://www.saos.org.pl/judgments/459868) | Wyrok
+- 2022-01-18 | SO | [I ACa 618/20](https://www.saos.org.pl/judgments/476516) | Wyrok
+- 2022-01-17 | SO | [I ACa 817/21](https://www.saos.org.pl/judgments/462539) | Wyrok
+- 2021-12-29 | SO | [I ACa 652/21](https://www.saos.org.pl/judgments/464447) | Wyrok
+- 2021-12-22 | SO | [I ACa 838/20](https://www.saos.org.pl/judgments/483940) | Wyrok
+- 2021-12-20 | SO | [I ACa 160/21](https://www.saos.org.pl/judgments/468088) | Wyrok
+- 2021-12-20 | SO | [I ACa 605/21](https://www.saos.org.pl/judgments/464443) | Wyrok
+- 2021-12-20 | SO | [I ACa 77/20](https://www.saos.org.pl/judgments/460019) | Wyrok
+- 2021-12-16 | SO | [I ACa 623/21](https://www.saos.org.pl/judgments/468475) | Wyrok
+- 2021-12-16 | SO | [I ACa 769/20](https://www.saos.org.pl/judgments/460285) | Wyrok
+- 2021-12-15 | SO | [I ACa 179/21](https://www.saos.org.pl/judgments/479692) | Wyrok
+- 2021-12-15 | SO | [I ACa 643/21](https://www.saos.org.pl/judgments/478033) | Wyrok
+- 2021-12-13 | SO | [I ACa 80/20](https://www.saos.org.pl/judgments/459814) | Wyrok
+- 2021-12-02 | SO | [I ACa 99/21](https://www.saos.org.pl/judgments/480067) | Wyrok
+- 2021-11-30 | SO | [V ACa 398/21](https://www.saos.org.pl/judgments/467786) | Wyrok
+- 2021-11-29 | SO | [IV C 2513/20](https://www.saos.org.pl/judgments/484813) | Wyrok
+- 2021-11-29 | SO | [V Ca 509/21](https://www.saos.org.pl/judgments/469500) | Wyrok
+- 2021-11-23 | SO | [I ACa 469/21](https://www.saos.org.pl/judgments/461905) | Wyrok
+- 2021-11-15 | SO | [V Ca 1403/21](https://www.saos.org.pl/judgments/465006) | Wyrok
+- 2021-10-29 | SO | [I ACa 179/21](https://www.saos.org.pl/judgments/484405) | Wyrok
+- 2021-10-27 | SO | [I ACa 419/21](https://www.saos.org.pl/judgments/468560) | Wyrok
+- 2021-10-27 | SO | [V ACa 32/21](https://www.saos.org.pl/judgments/462385) | Wyrok
+- 2021-10-27 | SO | [I ACa 422/21](https://www.saos.org.pl/judgments/457762) | Wyrok
+- 2021-10-25 | SO | [V Ca 651/21](https://www.saos.org.pl/judgments/471150) | Wyrok
+- 2021-07-30 | SO | [I ACa 349/21](https://www.saos.org.pl/judgments/483937) | Wyrok
+- 2020-07-20 | SO | [XXV C 1058/18](https://www.saos.org.pl/judgments/419293) | Wyrok
+- 2020-06-22 | SO | [I ACa 1684/17](https://www.saos.org.pl/judgments/417639) | Wyrok
+- 2019-12-19 | SO | [I ACa 1/19](https://www.saos.org.pl/judgments/493247) | Wyrok
+- 2019-12-11 | SO | [I ACa 91/19](https://www.saos.org.pl/judgments/410124) | Wyrok
+- 2019-09-16 | SO | [XXV C 809/17](https://www.saos.org.pl/judgments/395255) | Wyrok
+- 2019-06-18 | SO | [I ACa 537/18](https://www.saos.org.pl/judgments/387752) | Wyrok
+- 2017-11-14 | SO | [VI GC 1107/17](https://www.saos.org.pl/judgments/321396) | Wyrok
+
+## art. 24 § 3 (1)
+
+- 2024-09-04 | SO | [I ACa 1091/22](https://www.saos.org.pl/judgments/527799) | Wyrok
+
+## art. 25 (2)
+
+- 2012-10-05 | SO | [I ACa 701/12](https://www.saos.org.pl/judgments/5858) | Wyrok
+- 2011-06-15 | TK | [K 2/09](https://www.saos.org.pl/judgments/110254) | Wyrok
+
+## art. 30 (16)
+
+- 2025-11-24 | SO | [I ACa 1961/25](https://www.saos.org.pl/judgments/539990) | Wyrok
+- 2024-12-12 | SO | [V ACa 960/23](https://www.saos.org.pl/judgments/532610) | Wyrok
+- 2024-11-06 | SO | [I ACa 2080/24](https://www.saos.org.pl/judgments/534112) | Wyrok
+- 2024-10-16 | SO | [I ACa 3129/23](https://www.saos.org.pl/judgments/531625) | Wyrok
+- 2024-05-09 | SO | [I ACa 3927/23](https://www.saos.org.pl/judgments/494139) | Wyrok
+- 2023-02-10 | SO | [V ACa 1173/22](https://www.saos.org.pl/judgments/509706) | Wyrok
+- 2022-11-30 | SO | [I ACa 675/22](https://www.saos.org.pl/judgments/494460) | Wyrok
+- 2022-06-15 | SO | [V ACa 757/21](https://www.saos.org.pl/judgments/516874) | Wyrok
+- 2022-04-27 | SO | [I ACa 395/21](https://www.saos.org.pl/judgments/469004) | Wyrok
+- 2022-04-11 | SO | [I ACa 832/21](https://www.saos.org.pl/judgments/476989) | Wyrok
+- 2022-03-30 | SO | [I ACa 488/21](https://www.saos.org.pl/judgments/494239) | Wyrok
+- 2022-02-10 | SO | [I ACa 766/21](https://www.saos.org.pl/judgments/494556) | Wyrok
+- 2022-01-31 | SO | [VI ACa 1025/20](https://www.saos.org.pl/judgments/473556) | Wyrok
+- 2022-01-31 | SO | [VI ACa 15/21](https://www.saos.org.pl/judgments/467793) | Wyrok
+- 2022-01-17 | SO | [I ACa 817/21](https://www.saos.org.pl/judgments/462539) | Wyrok
+- 2021-12-15 | SO | [I ACa 643/21](https://www.saos.org.pl/judgments/478033) | Wyrok
+
+## art. 31 (8)
+
+- 2022-07-14 | SO | [III K 329/19](https://www.saos.org.pl/judgments/471129) | Wyrok
+- 2022-03-04 | SO | [I C 269/21](https://www.saos.org.pl/judgments/464794) | Wyrok
+- 2021-05-11 | SO | [III Ca 1051/19](https://www.saos.org.pl/judgments/439012) | Wyrok
+- 2019-03-18 | SO | [II K 120/18](https://www.saos.org.pl/judgments/375345) | Zarządzenie
+- 2016-07-13 | SO | [XIV K 104/15](https://www.saos.org.pl/judgments/420055) | Uzasadnienie
+- 2011-08-30 | KIO | [KIO 1768/11](https://www.saos.org.pl/judgments/118737) | Wyrok
+- 2008-08-07 | KIO | [KIO/UZP 766/08](https://www.saos.org.pl/judgments/112975) | Wyrok
+- 2008-04-02 | KIO | [KIO/UZP 237/08](https://www.saos.org.pl/judgments/112538) | Wyrok
+
+## art. 32 (155)
+
+- 2026-01-09 | SO | [I ACa 1093/24](https://www.saos.org.pl/judgments/543367) | Wyrok
+- 2025-12-01 | SO | [I ACa 33/23](https://www.saos.org.pl/judgments/541495) | Wyrok
+- 2025-11-25 | SO | [I ACa 4241/24](https://www.saos.org.pl/judgments/540056) | Wyrok
+- 2025-11-04 | SO | [I ACa 3433/23](https://www.saos.org.pl/judgments/538136) | Wyrok
+- 2025-11-03 | SO | [I ACa 2075/24](https://www.saos.org.pl/judgments/539886) | Wyrok
+- 2025-10-31 | SO | [I ACa 753/25](https://www.saos.org.pl/judgments/544198) | Wyrok
+- 2025-09-23 | SO | [I ACa 172/23](https://www.saos.org.pl/judgments/543515) | Wyrok
+- 2025-09-19 | SO | [I ACa 35/23](https://www.saos.org.pl/judgments/544342) | Wyrok
+- 2025-07-22 | SO | [I ACa 2069/22](https://www.saos.org.pl/judgments/542618) | Wyrok
+- 2025-07-18 | SO | [I ACa 707/23](https://www.saos.org.pl/judgments/537991) | Wyrok
+- 2025-07-17 | SO | [I ACa 1698/22](https://www.saos.org.pl/judgments/543136) | Wyrok
+- 2025-07-17 | SO | [I ACa 1506/22](https://www.saos.org.pl/judgments/542508) | Wyrok
+- 2025-06-04 | SO | [I ACa 35/24](https://www.saos.org.pl/judgments/539267) | Wyrok
+- 2025-05-29 | SO | [I ACa 1659/22](https://www.saos.org.pl/judgments/542110) | Wyrok
+- 2025-05-22 | SO | [I ACa 1929/22](https://www.saos.org.pl/judgments/540310) | Wyrok
+- 2025-05-15 | SO | [I ACa 1948/22](https://www.saos.org.pl/judgments/542112) | Wyrok
+- 2025-04-24 | SO | [I ACa 3091/23](https://www.saos.org.pl/judgments/532976) | Wyrok
+- 2025-04-08 | SO | [I ACa 1478/22](https://www.saos.org.pl/judgments/539516) | Wyrok
+- 2025-03-28 | SO | [I ACa 3220/23](https://www.saos.org.pl/judgments/525563) | Wyrok
+- 2025-03-27 | SO | [I ACa 1377/22](https://www.saos.org.pl/judgments/538034) | Wyrok
+- 2025-03-18 | SO | [I ACa 2077/23](https://www.saos.org.pl/judgments/525561) | Wyrok
+- 2025-02-28 | SO | [I ACa 2053/22](https://www.saos.org.pl/judgments/543518) | Wyrok
+- 2025-02-17 | SO | [I ACa 1123/24](https://www.saos.org.pl/judgments/536903) | Wyrok
+- 2025-01-28 | SO | [I ACa 1248/22](https://www.saos.org.pl/judgments/539639) | Wyrok
+- 2024-12-20 | SO | [II Ca 1459/23](https://www.saos.org.pl/judgments/530374) | Wyrok
+- 2024-12-19 | SO | [I ACa 1626/22](https://www.saos.org.pl/judgments/533846) | Wyrok
+- 2024-11-29 | SO | [I ACa 1255/22](https://www.saos.org.pl/judgments/533522) | Wyrok
+- 2024-11-28 | SO | [I ACa 1086/22](https://www.saos.org.pl/judgments/533841) | Wyrok
+- 2024-11-15 | SO | [I ACa 1118/23](https://www.saos.org.pl/judgments/533421) | Wyrok
+- 2024-11-14 | SO | [I ACa 1356/23](https://www.saos.org.pl/judgments/533844) | Wyrok
+- 2024-11-07 | SO | [I ACa 1036/22](https://www.saos.org.pl/judgments/531805) | Wyrok
+- 2024-10-16 | SO | [I ACa 1997/23](https://www.saos.org.pl/judgments/531964) | Wyrok
+- 2024-09-10 | SO | [I ACa 821/23](https://www.saos.org.pl/judgments/544199) | Wyrok
+- 2024-09-03 | SO | [I ACa 891/22](https://www.saos.org.pl/judgments/494696) | Wyrok
+- 2024-07-31 | SO | [I ACa 1841/23](https://www.saos.org.pl/judgments/541802) | Wyrok
+- 2024-07-08 | SO | [I ACa 1909/22](https://www.saos.org.pl/judgments/543858) | Wyrok
+- 2024-07-02 | SO | [II Ca 1503/23](https://www.saos.org.pl/judgments/522908) | Wyrok
+- 2024-06-27 | SO | [I ACa 1625/23](https://www.saos.org.pl/judgments/541800) | Wyrok
+- 2024-06-11 | SO | [I ACa 1247/22](https://www.saos.org.pl/judgments/527883) | Wyrok
+- 2024-06-05 | SO | [I ACa 663/23](https://www.saos.org.pl/judgments/525692) | Wyrok
+- 2024-06-04 | SO | [I ACa 1012/22](https://www.saos.org.pl/judgments/525558) | Wyrok
+- 2024-05-28 | SO | [I ACa 524/23](https://www.saos.org.pl/judgments/522375) | Wyrok
+- 2024-05-16 | SO | [III Ca 2598/22](https://www.saos.org.pl/judgments/533771) | Uzasadnienie
+- 2024-03-28 | SO | [I ACa 1412/23](https://www.saos.org.pl/judgments/531477) | Wyrok
+- 2024-03-15 | SO | [III Ca 2570/22](https://www.saos.org.pl/judgments/533898) | Uzasadnienie
+- 2024-03-01 | SO | [V ACa 1242/23](https://www.saos.org.pl/judgments/541869) | Wyrok
+- 2024-02-29 | SO | [I ACa 2190/22](https://www.saos.org.pl/judgments/533360) | Wyrok
+- 2024-02-12 | SO | [I ACa 742/22](https://www.saos.org.pl/judgments/519093) | Wyrok
+- 2024-02-09 | SO | [V ACa 811/23](https://www.saos.org.pl/judgments/520119) | Wyrok
+- 2024-01-31 | SO | [XV Ca 788/23](https://www.saos.org.pl/judgments/514950) | Wyrok
+- 2024-01-26 | SO | [I ACa 901/22](https://www.saos.org.pl/judgments/517865) | Wyrok
+- 2024-01-23 | SO | [I ACa 2171/22](https://www.saos.org.pl/judgments/543444) | Wyrok
+- 2024-01-16 | SO | [I ACa 2769/22](https://www.saos.org.pl/judgments/519035) | Wyrok
+- 2023-12-21 | SO | [V ACa 1184/23](https://www.saos.org.pl/judgments/516871) | Wyrok
+- 2023-12-20 | SO | [I ACa 333/22](https://www.saos.org.pl/judgments/494074) | Wyrok
+- 2023-12-15 | SO | [II Ca 2206/22](https://www.saos.org.pl/judgments/501827) | Wyrok
+- 2023-12-12 | SO | [II Ca 394/23](https://www.saos.org.pl/judgments/501968) | Zarządzenie
+- 2023-12-06 | SO | [XXVII Ca 2375/22](https://www.saos.org.pl/judgments/515700) | Wyrok
+- 2023-12-01 | SO | [I ACa 510/22](https://www.saos.org.pl/judgments/494261) | Wyrok
+- 2023-11-27 | SO | [I ACa 1973/22](https://www.saos.org.pl/judgments/531175) | Wyrok
+- 2023-11-27 | SO | [I ACa 421/22](https://www.saos.org.pl/judgments/494171) | Wyrok
+- 2023-11-17 | SO | [I ACa 2002/22](https://www.saos.org.pl/judgments/539164) | Wyrok
+- 2023-11-17 | SO | [I ACa 2000/22](https://www.saos.org.pl/judgments/539163) | Wyrok
+- 2023-11-14 | SO | [I ACa 2751/22](https://www.saos.org.pl/judgments/539263) | Wyrok
+- 2023-10-30 | SO | [I ACa 1876/22](https://www.saos.org.pl/judgments/493832) | Wyrok
+- 2023-10-27 | SO | [XXVII Ca 1120/22](https://www.saos.org.pl/judgments/515649) | Wyrok
+- 2023-10-19 | SO | [I ACa 952/22](https://www.saos.org.pl/judgments/494780) | Wyrok
+- 2023-09-28 | SO | [I ACa 532/22](https://www.saos.org.pl/judgments/494283) | Wyrok
+- 2023-09-26 | SO | [I ACa 1375/22](https://www.saos.org.pl/judgments/493577) | Wyrok
+- 2023-09-20 | SO | [XXVII Ca 1424/22](https://www.saos.org.pl/judgments/515661) | Wyrok
+- 2023-09-20 | SO | [XXVII Ca 1329/22](https://www.saos.org.pl/judgments/515657) | Wyrok
+- 2023-09-18 | SO | [I ACa 248/22](https://www.saos.org.pl/judgments/493942) | Wyrok
+- 2023-09-08 | SO | [V ACa 461/21](https://www.saos.org.pl/judgments/532902) | Wyrok
+- 2023-09-08 | SO | [I ACa 685/23](https://www.saos.org.pl/judgments/517719) | Wyrok
+- 2023-09-08 | SO | [I ACa 590/23](https://www.saos.org.pl/judgments/494359) | Wyrok
+- 2023-07-26 | SO | [I ACa 934/22](https://www.saos.org.pl/judgments/528300) | Wyrok
+- 2023-07-13 | SO | [II Ca 559/23](https://www.saos.org.pl/judgments/502067) | Wyrok
+- 2023-07-07 | SO | [V ACa 612/23](https://www.saos.org.pl/judgments/509835) | Wyrok
+- 2023-06-22 | SO | [I ACa 1447/22](https://www.saos.org.pl/judgments/493629) | Wyrok
+- 2023-06-21 | SO | [I ACa 1144/21](https://www.saos.org.pl/judgments/493392) | Wyrok
+- 2023-06-20 | SO | [I ACa 1176/22](https://www.saos.org.pl/judgments/493424) | Wyrok
+- 2023-06-14 | SO | [I ACa 843/22](https://www.saos.org.pl/judgments/523894) | Wyrok
+- 2023-06-13 | SO | [I ACa 953/22](https://www.saos.org.pl/judgments/494781) | Wyrok
+- 2023-06-05 | SO | [II Ca 201/23](https://www.saos.org.pl/judgments/501789) | Uzasadnienie
+- 2023-06-01 | SO | [I ACa 505/22](https://www.saos.org.pl/judgments/494255) | Wyrok
+- 2023-05-25 | SO | [XV Ca 594/23](https://www.saos.org.pl/judgments/514944) | Wyrok
+- 2023-05-25 | SO | [I ACa 2434/22](https://www.saos.org.pl/judgments/493938) | Wyrok
+- 2023-05-24 | SO | [I ACa 572/23](https://www.saos.org.pl/judgments/490693) | Wyrok
+- 2023-04-28 | SO | [II Ca 620/22](https://www.saos.org.pl/judgments/502100) | Wyrok
+- 2023-04-27 | SO | [I ACa 205/22](https://www.saos.org.pl/judgments/493879) | Wyrok
+- 2023-04-27 | SO | [I ACa 163/22](https://www.saos.org.pl/judgments/493734) | Wyrok
+- 2023-04-26 | SO | [I ACa 62/22](https://www.saos.org.pl/judgments/494387) | Wyrok
+- 2023-04-26 | SO | [I ACa 209/22](https://www.saos.org.pl/judgments/493888) | Wyrok
+- 2023-04-25 | SO | [I ACa 789/22](https://www.saos.org.pl/judgments/516813) | Wyrok
+- 2023-04-24 | SO | [I ACa 1372/22](https://www.saos.org.pl/judgments/523254) | Wyrok
+- 2023-04-04 | SO | [I ACa 1215/22](https://www.saos.org.pl/judgments/516363) | Wyrok
+- 2023-03-29 | SO | [I Ca 116/23](https://www.saos.org.pl/judgments/499827) | Wyrok
+- 2023-03-29 | SO | [I ACa 1484/21](https://www.saos.org.pl/judgments/493656) | Wyrok
+- 2023-03-28 | SO | [I ACa 1067/22](https://www.saos.org.pl/judgments/493316) | Wyrok
+- 2023-03-14 | SO | [II Ca 1831/22](https://www.saos.org.pl/judgments/485255) | Wyrok
+- 2023-02-06 | SO | [I ACa 1300/22](https://www.saos.org.pl/judgments/485062) | Wyrok
+- 2023-01-27 | SO | [XV Ca 620/22](https://www.saos.org.pl/judgments/491488) | Wyrok
+- 2023-01-24 | SO | [V ACa 866/22](https://www.saos.org.pl/judgments/509863) | Wyrok
+- 2023-01-11 | SO | [V ACa 399/22](https://www.saos.org.pl/judgments/481975) | Wyrok
+- 2022-12-14 | SO | [V ACa 677/22](https://www.saos.org.pl/judgments/509844) | Wyrok
+- 2022-12-13 | SO | [I ACa 918/21](https://www.saos.org.pl/judgments/481169) | Wyrok
+- 2022-12-08 | SO | [V ACa 695/22](https://www.saos.org.pl/judgments/509846) | Wyrok
+- 2022-11-30 | SO | [II Ca 1034/22](https://www.saos.org.pl/judgments/482311) | Wyrok
+- 2022-11-17 | SO | [I ACa 1147/22](https://www.saos.org.pl/judgments/493395) | Wyrok
+- 2022-11-16 | SO | [V ACa 181/22](https://www.saos.org.pl/judgments/480035) | Wyrok
+- 2022-11-04 | SO | [V ACa 229/22](https://www.saos.org.pl/judgments/477907) | Wyrok
+- 2022-10-28 | SO | [V ACa 491/22](https://www.saos.org.pl/judgments/509806) | Wyrok
+- 2022-10-28 | SO | [II Ca 1092/22](https://www.saos.org.pl/judgments/482909) | Wyrok
+- 2022-10-21 | SO | [V ACa 434/22](https://www.saos.org.pl/judgments/509789) | Wyrok
+- 2022-09-13 | SO | [I ACa 66/22](https://www.saos.org.pl/judgments/486017) | Wyrok
+- 2022-09-07 | SO | [V ACa 102/22](https://www.saos.org.pl/judgments/475734) | Wyrok
+- 2022-08-26 | SO | [I ACa 387/22](https://www.saos.org.pl/judgments/490040) | Uzasadnienie
+- 2022-08-24 | SO | [I ACa 186/22](https://www.saos.org.pl/judgments/485158) | Wyrok
+- 2022-07-29 | SO | [I ACa 952/21](https://www.saos.org.pl/judgments/475833) | Wyrok
+- 2022-07-15 | SO | [I ACa 194/22](https://www.saos.org.pl/judgments/493848) | Wyrok
+- 2022-07-12 | SO | [I ACa 219/22](https://www.saos.org.pl/judgments/493905) | Wyrok
+- 2022-06-23 | SO | [I ACa 71/22](https://www.saos.org.pl/judgments/494502) | Wyrok
+- 2022-05-30 | SO | [V ACa 132/22](https://www.saos.org.pl/judgments/509717) | Wyrok
+- 2022-05-23 | SO | [V ACa 114/22](https://www.saos.org.pl/judgments/469193) | Wyrok
+- 2022-05-19 | SO | [III Ca 657/21](https://www.saos.org.pl/judgments/478430) | Uzasadnienie
+- 2022-05-17 | SO | [V ACa 691/21](https://www.saos.org.pl/judgments/469661) | Wyrok
+- 2022-05-16 | SO | [I ACa 186/21](https://www.saos.org.pl/judgments/476750) | Wyrok
+- 2022-05-12 | SO | [III Ca 655/21](https://www.saos.org.pl/judgments/473880) | Uzasadnienie
+- 2022-05-10 | SO | [I ACa 692/21](https://www.saos.org.pl/judgments/492227) | Wyrok
+- 2022-04-28 | SO | [VI ACa 800/21](https://www.saos.org.pl/judgments/483928) | Wyrok
+- 2022-04-26 | SO | [I ACa 895/21](https://www.saos.org.pl/judgments/482677) | Wyrok
+- 2022-04-21 | SO | [VI ACa 770/21](https://www.saos.org.pl/judgments/483927) | Wyrok
+- 2022-04-04 | SO | [V Ca 1337/21](https://www.saos.org.pl/judgments/492567) | Wyrok
+- 2022-03-25 | SO | [I ACa 700/21](https://www.saos.org.pl/judgments/494493) | Wyrok
+- 2022-03-21 | SO | [V ACa 689/21](https://www.saos.org.pl/judgments/509845) | Wyrok
+- 2022-03-17 | SO | [I ACa 914/21](https://www.saos.org.pl/judgments/475277) | Wyrok
+- 2022-03-04 | SO | [I C 269/21](https://www.saos.org.pl/judgments/464794) | Wyrok
+- 2022-02-24 | SO | [I ACa 143/21](https://www.saos.org.pl/judgments/463304) | Wyrok
+- 2022-01-18 | SO | [I ACa 618/20](https://www.saos.org.pl/judgments/476516) | Wyrok
+- 2021-12-20 | SO | [I ACa 160/21](https://www.saos.org.pl/judgments/468088) | Wyrok
+- 2021-12-20 | SO | [I ACa 605/21](https://www.saos.org.pl/judgments/464443) | Wyrok
+- 2021-12-20 | SO | [I ACa 77/20](https://www.saos.org.pl/judgments/460019) | Wyrok
+- 2021-12-15 | SO | [I ACa 179/21](https://www.saos.org.pl/judgments/479692) | Wyrok
+- 2021-12-13 | SO | [I ACa 80/20](https://www.saos.org.pl/judgments/459814) | Wyrok
+- 2021-12-02 | SO | [I ACa 99/21](https://www.saos.org.pl/judgments/480067) | Wyrok
+- 2021-11-29 | SO | [V Ca 509/21](https://www.saos.org.pl/judgments/469500) | Wyrok
+- 2021-10-27 | SO | [I ACa 419/21](https://www.saos.org.pl/judgments/468560) | Wyrok
+- 2021-10-27 | SO | [I ACa 422/21](https://www.saos.org.pl/judgments/457762) | Wyrok
+- 2021-10-25 | SO | [V Ca 651/21](https://www.saos.org.pl/judgments/471150) | Wyrok
+- 2021-05-11 | SO | [III Ca 1051/19](https://www.saos.org.pl/judgments/439012) | Wyrok
+- 2020-06-22 | SO | [I ACa 1684/17](https://www.saos.org.pl/judgments/417639) | Wyrok
+- 2019-12-19 | SO | [I ACa 1/19](https://www.saos.org.pl/judgments/493247) | Wyrok
+- 2016-11-02 | SO | [I ACa 446/16](https://www.saos.org.pl/judgments/262362) | Wyrok
+- 2016-07-13 | SO | [XIV K 104/15](https://www.saos.org.pl/judgments/420055) | Uzasadnienie
+- 2002-02-14 | SN | [III CZP 81/01](https://www.saos.org.pl/judgments/81208) | Uchwała
+
+## art. 35 (1)
+
+- 2019-04-25 | SO | [I ACa 863/18](https://www.saos.org.pl/judgments/382081) | Wyrok
+
+## art. 40 (1)
+
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 41 (1)
+
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 42 (2)
+
+- 2016-05-02 | SO | [I C 1994/14](https://www.saos.org.pl/judgments/241553) | Zarządzenie
+- 2006-03-29 | SN | [II UK 103/05](https://www.saos.org.pl/judgments/84209) | Wyrok
+
+## art. 46 (1)
+
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 54 (2)
+
+- 2018-05-17 | SO | [I ACa 1375/17](https://www.saos.org.pl/judgments/347876) | Wyrok
+- 2016-02-04 | SO | [I C 495/15](https://www.saos.org.pl/judgments/208153) | Wyrok
+
+## art. 56 (1)
+
+- 2013-08-06 | SO | [VI ACa 1715/12](https://www.saos.org.pl/judgments/27143) | Wyrok
+
+## art. 57 (1)
+
+- 2004-04-27 | TK | [P 16/03](https://www.saos.org.pl/judgments/106739) | Postanowienie
+
+## art. 69 (3)
+
+- 2025-07-17 | SO | [I ACa 1698/22](https://www.saos.org.pl/judgments/543136) | Wyrok
+- 2023-04-24 | SO | [I ACa 1372/22](https://www.saos.org.pl/judgments/523254) | Wyrok
+- 2022-04-04 | SO | [V Ca 1337/21](https://www.saos.org.pl/judgments/492567) | Wyrok
+
+## art. 74 (1)
+
+- 2000-06-28 | TK | [K 25/99](https://www.saos.org.pl/judgments/206021) | Wyrok
+
+## art. 111 (3)
+
+- 2024-05-09 | SO | [I ACa 3927/23](https://www.saos.org.pl/judgments/494139) | Wyrok
+- 2023-01-24 | SO | [V ACa 926/22](https://www.saos.org.pl/judgments/509870) | Wyrok
+- 2022-12-08 | SO | [V ACa 695/22](https://www.saos.org.pl/judgments/509846) | Wyrok
+
+## art. 235(2) § 1 (1)
+
+- 2024-05-09 | SO | [I ACa 3927/23](https://www.saos.org.pl/judgments/494139) | Wyrok
+
+## art. 385 (1)
+
+- 2025-04-08 | SO | [I ACa 1478/22](https://www.saos.org.pl/judgments/539516) | Wyrok
+
+## (ogólnie) (46)
+
+- 2026-02-13 | SO | [I ACa 1317/24](https://www.saos.org.pl/judgments/543850) | Wyrok
+- 2025-08-08 | SO | [I ACa 1879/24](https://www.saos.org.pl/judgments/533355) | Wyrok
+- 2025-07-17 | SO | [I ACa 1032/25](https://www.saos.org.pl/judgments/542552) | Wyrok
+- 2024-11-21 | SO | [I ACa 1219/23](https://www.saos.org.pl/judgments/539158) | Wyrok
+- 2024-11-15 | SO | [I ACa 1271/23](https://www.saos.org.pl/judgments/533424) | Wyrok
+- 2024-08-06 | SO | [I C 219/24](https://www.saos.org.pl/judgments/525889) | Postanowienie
+- 2024-05-28 | SO | [I ACa 2943/22](https://www.saos.org.pl/judgments/522265) | Wyrok
+- 2024-05-23 | SO | [I ACa 2846/22](https://www.saos.org.pl/judgments/494010) | Wyrok
+- 2024-04-30 | SO | [I ACa 2893/22](https://www.saos.org.pl/judgments/531185) | Wyrok
+- 2024-03-18 | SO | [I ACa 521/24](https://www.saos.org.pl/judgments/520176) | Wyrok
+- 2024-02-27 | SO | [I ACa 2340/22](https://www.saos.org.pl/judgments/533220) | Wyrok
+- 2024-01-19 | SO | [I ACa 2214/22](https://www.saos.org.pl/judgments/533430) | Wyrok
+- 2024-01-17 | SO | [I ACa 2133/22](https://www.saos.org.pl/judgments/519033) | Wyrok
+- 2024-01-12 | SO | [I ACa 1112/23](https://www.saos.org.pl/judgments/519028) | Wyrok
+- 2024-01-12 | SO | [I ACa 1389/23](https://www.saos.org.pl/judgments/493585) | Wyrok
+- 2023-12-14 | SO | [I ACa 2996/22](https://www.saos.org.pl/judgments/519394) | Wyrok
+- 2023-11-30 | SO | [I ACa 1704/22](https://www.saos.org.pl/judgments/533087) | Wyrok
+- 2023-11-14 | SO | [I ACa 1970/22](https://www.saos.org.pl/judgments/542295) | Wyrok
+- 2023-10-24 | SO | [I ACa 1695/22](https://www.saos.org.pl/judgments/532969) | Wyrok
+- 2023-10-24 | SO | [I ACa 1930/22](https://www.saos.org.pl/judgments/493846) | Wyrok
+- 2023-10-23 | SO | [I ACa 1887/22](https://www.saos.org.pl/judgments/493834) | Wyrok
+- 2023-10-12 | SO | [I ACa 1779/22](https://www.saos.org.pl/judgments/493789) | Wyrok
+- 2023-10-11 | SO | [I ACa 1772/22](https://www.saos.org.pl/judgments/493787) | Wyrok
+- 2023-10-04 | SO | [I ACa 1831/22](https://www.saos.org.pl/judgments/493813) | Wyrok
+- 2023-09-27 | SO | [I ACa 1220/22](https://www.saos.org.pl/judgments/493459) | Wyrok
+- 2023-08-16 | SO | [I ACa 1434/22](https://www.saos.org.pl/judgments/493617) | Wyrok
+- 2023-07-04 | SO | [I ACa 556/23](https://www.saos.org.pl/judgments/494317) | Wyrok
+- 2023-06-23 | SO | [I ACa 1229/22](https://www.saos.org.pl/judgments/493464) | Wyrok
+- 2023-06-16 | SO | [I ACa 993/22](https://www.saos.org.pl/judgments/531192) | Wyrok
+- 2023-06-12 | SO | [I ACa 204/23](https://www.saos.org.pl/judgments/493876) | Wyrok
+- 2023-04-21 | SO | [I ACa 1043/22](https://www.saos.org.pl/judgments/493290) | Wyrok
+- 2023-04-06 | SO | [I ACa 461/22](https://www.saos.org.pl/judgments/518780) | Wyrok
+- 2023-03-31 | SO | [I ACa 859/22](https://www.saos.org.pl/judgments/518785) | Wyrok
+- 2023-03-31 | SO | [I ACa 551/22](https://www.saos.org.pl/judgments/518781) | Wyrok
+- 2023-03-27 | SO | [I ACa 510/22](https://www.saos.org.pl/judgments/494262) | Wyrok
+- 2023-03-07 | SO | [I ACa 602/22](https://www.saos.org.pl/judgments/539271) | Wyrok
+- 2023-02-28 | SO | [I ACa 947/22](https://www.saos.org.pl/judgments/494773) | Wyrok
+- 2023-02-28 | SO | [I ACa 627/22](https://www.saos.org.pl/judgments/494404) | Wyrok
+- 2023-02-15 | SO | [III Ca 624/22](https://www.saos.org.pl/judgments/506643) | Uzasadnienie
+- 2023-01-27 | SO | [I ACa 255/22](https://www.saos.org.pl/judgments/488717) | Wyrok
+- 2023-01-24 | SO | [I ACa 400/22](https://www.saos.org.pl/judgments/488903) | Wyrok
+- 2022-12-21 | SO | [III Ca 615/22](https://www.saos.org.pl/judgments/506637) | Uzasadnienie
+- 2022-11-08 | SO | [III Ca 561/22](https://www.saos.org.pl/judgments/491397) | Uzasadnienie
+- 2022-05-17 | SO | [I ACa 1505/21](https://www.saos.org.pl/judgments/475585) | Wyrok
+- 2020-07-30 | SO | [V Ca 288/20](https://www.saos.org.pl/judgments/442555) | Wyrok
+- 2017-06-20 | SO | [VIII Pa 166/16](https://www.saos.org.pl/judgments/297594) | Uzasadnienie
+

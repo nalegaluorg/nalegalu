@@ -1,0 +1,311 @@
+---
+title: Ustawa z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw.
+address: WDU20000880983
+eli: DU/2000/983
+publisher: DU
+year: 2000
+pos: 983
+act_type: Ustawa
+status: akt posiada tekst jednolity
+domain: null
+---
+
+# o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw
+
+*USTAWA z dnia 15 września 2000 r.*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2000 nr 88 poz. 983 |
+| ISAP | WDU20000880983 |
+| Typ aktu | Ustawa |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2000-09-15 |
+| Data wydania | 2000-10-20 |
+| Wejście w życie | 2000-11-21 |
+| Ostatnia zmiana | 2025-06-11 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000880983) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/983/text.pdf) |
+
+Art. 25–28. (pominięte)
+
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa zasady organizowania się producentów rolnych grupy producentów rolnych i ich związki.
+
+**Art. 2.**
+
+1. Osoby fizyczne, jednostki organizacyjne nieposiadające osobowości prawnej oraz osoby prawne, które ramach działalności rolniczej prowadzą gospodarstwo rolne rozumieniu przepisów o podatku rolnym lub dział specjalny produkcji rolnej, mogą organizować się grupy producentów rolnych do realizacji co najmniej jednego celu spośród następujących celów:
+
+- **1)** dostosowanie produktów rolnych i procesu produkcyjnego do wymogów rynkowych;
+- **2)** wspólne wprowadzanie towarów do obrotu, tym przygotowanie do sprzedaży, centralizacja sprzedaży i dostawy do odbiorców hurtowych;
+- **3)** optymalizacja kosztów produkcji oraz stabilizowanie cen producentów.
+
+2. Uznaje się, że podmioty wymienione ust. 1 prowadzą działalność rolniczą, jeżeli prowadzą działalność określoną art. 21 ust. 1 pkt 1 ustawy z dnia 8 lutego 2023 r. o Planie Strategicznym dla Wspólnej Polityki Rolnej na lata 2023– 2027 (Dz. U. poz. 412).
+
+3. Grupy producentów rolnych mogą także realizować inne cele, szczególności takie jak:
+
+- **1)** ustanowienie wspólnych zasad dotyczących informacji o produkcji ze szczególnym uwzględnieniem zbiorów i dostępności produktów rolnych; drodze decyzji stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), o ile przepisy niniejszej ustawy nie stanowią inaczej.
+
+2. Jeżeli przepisy ustawy przewidują złożenie wniosku do Prezesa Agencji Restrukturyzacji i Modernizacji Rolnictwa, zwanej dalej „Agencją”, albo do dyrektora oddziału regionalnego Agencji, wniosek ten składa się na piśmie.
+
+3. Jeżeli przepisy ustawy przewidują złożenie na piśmie sprawozdania lub informacji do Prezesa Agencji albo do dyrektora oddziału regionalnego Agencji sprawach, do których nie stosuje się przepisów ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego, odpowiednio sprawozdanie to lub informacja ta spełnia wymagania dla pisma kierowanego do organów administracji publicznej określone przepisach ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
+
+#### Rozdział 2 Zasady organizowania i działania grup
+
+**Art. 3.**
+
+1. Grupa producentów rolnych, zwana dalej „grupą”, prowadzi działalność jako przedsiębiorca mający osobowość prawną, pod warunkiem że:
+
+- **1)** została utworzona przez producentów jednego produktu rolnego, zwanego dalej „produktem”, lub grupy produktów do realizacji co najmniej jednego celu spośród celów, o których mowa art. 2 ust. 1;
+- **2)** działa na podstawie statutu lub umowy, zwanych dalej „aktem założycielskim”, spełniających wymagania określone art. 4;
+- **3)** żaden z członków, udziałowców lub akcjonariuszy, zwanych dalej „członkami grupy”, nie może mieć więcej niż 20% głosów na walnym zgromadzeniu, zgromadzeniu wspólników lub walnym zebraniu członków, także pośrednio:
+    - **a)** przez dysponowanie bezpośrednio lub pośrednio większością głosów: porozumień z innymi osobami,
+    - **b)** gdy członkowie zarządu osoby prawnej będącej członkiem grupy stanowią więcej niż połowę członków zarządu innej osoby prawnej będącej członkiem grupy;
+
+- **4)** coroczne przychody ze sprzedaży produktów lub grup produktów wytworzonych gospodarstwach lub działach specjalnych produkcji rolnej członków grupy stanowią więcej niż połowę przychodów grupy ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona;
+- **5)** określi obowiązujące członków grupy zasady produkcji, tym dotyczące jakości i ilości produktów lub grup produktów oraz sposoby przygotowania produktów do sprzedaży;
+- **6)** każdy z członków grupy każdym roku działalności grupy produkuje oraz sprzedaje do grupy co najmniej 70% wyprodukowanych przez siebie produktów lub grup produktów, ze względu na które grupa została utworzona;
+- **7)** każdy z członków grupy przynależy tylko do jednej grupy zakresie danego produktu lub grupy produktów, ze względu na które grupa została utworzona;
+- **8)** żaden z członków grupy nie przynależy do organizacji producentów, o której mowa przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r. poz. 287 i 412), zwanej dalej „ustawą o rynkach rolnych”, albo ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2022 r. poz. 381 oraz z 2023 r. poz. 412), zwanej dalej „ustawą o rynku mleka”, utworzonej zakresie tego samego produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+2. (uchylony)
+
+**Art. 3a.** Spółdzielnia może również prowadzić działalność jako grupa, jeżeli:
+
+**Art. 4.**
+
+1. Akt założycielski grupy oprócz wymagań określonych odrębnych przepisach powinien zawierać szczególności:
+
+- **1)** zasady przyjmowania do grupy nowych członków oraz występowania członków z grupy, przy czym minimalny okres członkostwa, który liczy się od dnia wydania decyzji, o której mowa art. 7, nie może być krótszy niż trzy lata działalności grupy, a informacja o zamiarze wystąpienia z grupy powinna być złożona na piśmie co najmniej na 12 miesięcy przed końcem danego roku działalności grupy;
+- **2)** zasady zbywania akcji lub udziałów spółce akcyjnej lub spółce z ograniczoną odpowiedzialnością;
+- **3)** (uchylony)
+- **4)** (uchylony)
+- **5)** zasady dostarczania przez członków grupy informacji dotyczących wielkości sprzedaży i cen uzyskiwanych za produkty, z uwagi na które grupa została powołana, a są sprzedawane poza grupą;
+- **6)** zasady tworzenia i wykorzystania funduszu specjalnego, o którym mowa art. 5, jeżeli będzie on utworzony;
+- **7)** sankcje wobec członka grupy, który:
+    - **a)** nie wypełnia nałożonych na niego obowiązków,
+    - **b)** nie spełnia warunków określonych art. 2 ust. 1 i 2 oraz art. 3 albo art. 2 ust. 1 i 2 oraz art. 3a;
+
+- **8)** wskazanie celu albo celów realizowanych przez grupę. obszarów wiejskich.
+
+2. W akcie założycielskim mogą być również zawarte postanowienia dotyczące szczególności:
+
+- **1)** zaopatrzenia członków grupy środki produkcji;
+- **2)** zasad wspólnego użytkowania sprzętu rolniczego;
+- **3)** promocji produktów lub grupy produktów wprowadzanych do obrotu;
+- **4)** przechowywania, konfekcjonowania i standaryzacji produktów lub grupy produktów.
+
+**Art. 5.**
+
+1. Grupa producentów może tworzyć fundusz specjalny. Wysokość oraz zasady zwrotu funduszu specjalnego określa akt założycielski.
+
+2. Fundusz specjalny jest przeznaczony na wypłacanie członkom grupy zaliczek za dostarczone produkty lub grupy produktów oraz na inne cele określone akcie założycielskim.
+
+**Art. 6.** Minister właściwy do spraw rynków rolnych, po zasięgnięciu opinii Krajowej Rady Izb Rolniczych oraz organizacji rolniczych o zasięgu krajowym, określi, drodze rozporządzenia, wykaz produktów i grup produktów, o których mowa art. 3 ust. 1 pkt 1 oraz art. 3a pkt 1, minimalną roczną wielkość produkcji towarowej wyprodukowanej przez wszystkich członków grupy i sprzedanej do grupy oraz minimalną liczbę członków grupy, biorąc pod uwagę zróżnicowanie regionalne, koncentrację podaży oraz sytuację na rynku produktów rolnych, a także aktualny stan zorganizowania się producentów grupy.
+
+#### Rozdział 3 Rejestracja grup i związków
+
+**Art. 7.**
+
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy wydaje decyzję o:
+
+- **1)** uznaniu grupy, jeżeli spełnia ona warunki określone art. 3 albo art. 3a oraz przepisach wydanych na podstawie art. 6, oraz zatwierdzeniu planu przepisach wydanych na podstawie art. 8 ust. 9.
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. Decyzję, o której mowa ust. 1 pkt 1, wydaje się terminie 90 dni od dnia złożenia wniosku o jej wydanie.
+
+**Art. 8.**
+
+1. Wniosek o wydanie decyzji administracyjnej dla grupy, o której mowa art. 3, zawiera:
+
+- **1)** nazwę i siedzibę grupy;
+- **2)** dane osobowe osób upoważnionych do reprezentowania grupy zgodnie z jej aktem założycielskim;
+- **3)** oznaczenie produktu lub grupy produktów;
+- **4)** listę członków grupy;
+- **5)** numer grupy Krajowym Rejestrze Sądowym;
+- **6)** numer nadany trybie przepisów o krajowym systemie ewidencji producentów, ewidencji gospodarstw rolnych oraz ewidencji wniosków o przyznanie płatności.
+
+2. Wniosek o wydanie decyzji administracyjnej dla grupy, o której mowa art. 3a, zawiera:
+
+- **1)** dane, o których mowa ust. 1 pkt 1–3 i 5;
+- **2)** listę członków grupy, o których mowa art. 3a pkt 1.
+
+3. Do wniosku, o którym mowa ust. 1, dołącza się:
+
+- **1)** (uchylony)
+- **2)** akt założycielski grupy;
+- **3)** plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a przypadku gdy ten wniosek został złożony postaci papierowej, plan biznesowy przesyła się również postaci elektronicznej za pomocą grup produktów, ze względu na które grupa została utworzona,
+    - **b)** o nieprzynależności do innej grupy utworzonej ze względu na ten sam produkt lub grupę produktów,
+    - **c)** o nieprzynależności do organizacji producentów, o której mowa przepisach ustawy о rynkach rolnych albo ustawy o rynku mleka, utworzonej zakresie tego samego produktu lub grupy produktów,
+    - **d)** zawierające zobowiązanie do dostarczania do grupy, każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona;
+
+- **5)** oświadczenie zawierające zobowiązanie osób upoważnionych do reprezentowania grupy, że coroczne przychody grupy ze sprzedaży produktów lub grup produktów wytworzonych gospodarstwach lub działach specjalnych produkcji rolnej członków grupy będą stanowić więcej niż połowę przychodów grupy ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona.
+
+4. Do wniosku, o którym mowa ust. 2, dołącza się:
+
+- **1)** (uchylony)
+- **2)** akt założycielski grupy;
+- **3)** plan biznesowy grupy sporządzony na co najmniej 5 lat na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji, a przypadku gdy ten wniosek został złożony postaci papierowej, plan biznesowy przesyła się również postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych;
+- **4)** oświadczenia członków grupy wskazanych art. 3a pkt 1:
+    - **a)** o prowadzeniu, dniu składania wniosku, gospodarstwa rolnego lub działu specjalnego produkcji rolnej zakresie produkcji produktów lub grup produktów, ze względu na które grupa została utworzona,
+    - **d)** zawierające zobowiązanie do dostarczania do grupy, każdym roku jej działalności, co najmniej 70% wyprodukowanych przez nich produktów lub grup produktów, ze względu na które grupa została utworzona;
+
+- **5)** oświadczenie zawierające zobowiązanie osób upoważnionych do składania oświadczeń woli imieniu spółdzielni, że coroczne przychody spółdzielni ze sprzedaży produktów lub grup produktów wytworzonych gospodarstwach lub działach specjalnych produkcji rolnej członków grupy wskazanych art. 3a pkt 1 będą stanowić więcej niż połowę przychodów spółdzielni ze sprzedaży produktów lub grup produktów, ze względu na które grupa została utworzona.
+
+4a. Oświadczenia, o których mowa ust. 3 pkt 4 lit. a–c oraz ust. 4 pkt 4 lit. a–c, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia nim klauzuli następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+
+5. Wniosek o wydanie decyzji, o której mowa art. 7 ust. 1 pkt 2, składa się terminie do 60 dni przed zakończeniem danego roku działalności grupy, którego dotyczy zmiana.
+
+5a. W przypadku dokonania zmiany składzie członkowskim grupy wniosek o wydanie decyzji, o której mowa art. 7 ust. 1 pkt 2, składa się do zakończenia danego roku działalności grupy, którego dotyczy zmiana.
+
+6. Wniosek, o którym mowa ust. 5, zawiera nazwę, siedzibę i adres grupy oraz określenie zmian proponowanych planie biznesowym wraz z ich uzasadnieniem.
+
+7. Do wniosku, o którym mowa ust. 5, dołącza się: również postaci elektronicznej za pomocą środków komunikacji elektronicznej albo dołącza się na informatycznym nośniku danych.
+
+7a. Wnioski o wydanie decyzji, o których mowa art. 7 ust. 1, składa się na formularzu opracowanym przez Agencję i udostępnionym na stronie internetowej Agencji.
+
+7b. Wnioski o wydanie decyzji, o których mowa art. 7 ust. 1, można składać za pomocą systemu teleinformatycznego Agencji sposób określony przepisach o Agencji Restrukturyzacji i Modernizacji Rolnictwa.
+
+8. (uchylony)
+
+9. Minister właściwy do spraw rynków rolnych określi, drodze rozporządzenia, wymagania, jakie powinien spełniać plan biznesowy, o którym mowa ust. 3 pkt 3 oraz ust. 4 pkt 3, mając na względzie ujednolicenie zakresu informacji zawartych planie biznesowym oraz sposobu jego tworzenia, a także zapewnienie właściwego funkcjonowania grup.
+
+**Art. 9.**
+
+1. Rejestr grup prowadzi dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy.
+
+2. Rejestr grup zawiera:
+
+- **1)** nazwę i siedzibę grupy;
+- **2)** datę wydania decyzji administracyjnej, o której mowa art. 7 ust. 1;
+- **3)** nazwę produktu lub grupy produktów, ze względu na które grupa otrzymała decyzję;
+- **4)** dane osób upoważnionych do reprezentowania grupy zgodnie z jej aktem założycielskim;
+- **5)** liczbę członków grupy;
+- **6)** informację o dacie wydania decyzji o cofnięciu danej grupie uznania i skreśleniu jej z rejestru grup, decyzji o stwierdzeniu nieważności decyzji o uznaniu albo decyzji uchylającej decyzję o uznaniu grupy – jeżeli taka decyzja została wydana. dyrektor oddziału regionalnego Agencji wzywa grupę do wypełnienia tego obowiązku, terminie 14 dni od dnia otrzymania wezwania przez grupę.
+
+6. Dyrektor oddziału regionalnego Agencji informuje ministra właściwego do spraw rynków rolnych oraz Prezesa Agencji o każdej zmianie danych zawartych rejestrze, terminie 7 dni od dnia dokonania zmiany tym rejestrze.
+
+**Art. 10.** W przypadku niespełniania przez wnioskodawcę warunków określonych art. 3 albo art. 3a lub przepisach wydanych na podstawie art. 6 dyrektor oddziału regionalnego Agencji wydaje decyzję o odmowie:
+
+**Art. 11.**
+
+1. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy, przypadku gdy grupa przestała spełniać co najmniej jeden z warunków uznania określonych art. 3 ust. 1 pkt 1–3, 5 lub 7 albo art. 3a pkt 1– 3, 5 lub 7, wzywa grupę na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności grupy następującego po roku, którym wezwano grupę do spełnienia tych warunków.
+
+1a. Osoba upoważniona do reprezentowania grupy terminie określonym wezwaniu, o którym mowa ust. 1, informuje na piśmie dyrektora oddziału regionalnego Agencji właściwego ze względu na siedzibę grupy o spełnieniu brakujących warunków i przedkłada dokumenty potwierdzające ich spełnienie albo kopie tych dokumentów potwierdzone przez tę osobę za zgodność z oryginałem.
+
+1b. Dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy przypadku gdy grupa:
+
+- **1)** mimo wezwania, o którym mowa ust. 1, terminie określonym tym wezwaniu nie spełniła brakujących warunków lub art. 3 ust. 1 pkt 4 lub 6 albo art. 3a pkt 4 lub 6, lub art. 3aa, lub przepisach wydanych na podstawie art. 6 – wydaje decyzję o cofnięciu grupie uznania i skreśleniu jej z rejestru grup.
+
+2. (uchylony)
+
+3. (uchylony)
+
+**Art. 12.**
+
+1. Nadzór nad działalnością grupy sprawuje dyrektor oddziału regionalnego Agencji właściwy ze względu na siedzibę grupy.
+
+2. Dyrektor oddziału regionalnego Agencji ramach sprawowanego nadzoru przeprowadza kontrole zakresie:
+
+- **1)** poprawności i zgodności ze stanem faktycznym danych zawartych we wniosku, o którym mowa art. 8 ust. 1, i planie biznesowym, o którym mowa art. 8 ust. 3 pkt 3, lub wniosku, o którym mowa art. 8 ust. 2, i planie biznesowym, o którym mowa art. 8 ust. 4 pkt 3;
+- **2)** spełniania przez grupę warunków, o których mowa art. 3 lub art. 3a oraz przepisach wydanych na podstawie art. 6;
+- **3)** realizacji planu biznesowego, o którym mowa art. 8 ust. 3 pkt 3 lub art. 8 ust. 4 pkt 3.
+
+2a. Kontrole, o których mowa ust. 2:
+
+- **1)** pkt 1 – przeprowadza się przed wydaniem decyzji, o której mowa art. 7 ust. 1 pkt 1;
+- **2)** pkt 2 i 3 – przeprowadza się co najmniej raz na trzy lata, licząc od dnia wydania decyzji, o której mowa art. 7 ust. 1 pkt 1.
+
+3. Czynności kontrolne są wykonywane przez osoby posiadające imienne upoważnienie wydane przez dyrektora oddziału regionalnego Agencji.
+
+4. Upoważnienie zawiera wskazanie osoby upoważnionej do wykonywania czynności kontrolnych, ich miejsce i zakres oraz podstawę prawną do ich wykonywania.
+
+- **2)** żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli;
+- **3)** wglądu do dokumentów związanych z przedmiotem kontroli, sporządzania z nich odpisów, wyciągów lub kserokopii oraz zabezpieczania tych dokumentów.
+
+7. Osoba wykonująca czynności kontrolne sporządza z tych czynności protokół.
+
+8. Protokół podpisuje osoba wykonująca czynności kontrolne oraz kontrolowany.
+
+9. W przypadku odmowy podpisania protokołu przez kontrolowanego protokół podpisuje tylko osoba wykonująca czynności kontrolne, dokonując protokole stosownej adnotacji o tej odmowie.
+
+10. W przypadku gdy kontrolowany nie zgadza się z ustaleniami zawartymi protokole, może, terminie 14 dni od dnia doręczenia protokołu, zgłosić dyrektorowi oddziału regionalnego Agencji umotywowane zastrzeżenia do ustaleń zawartych protokole.
+
+11. Minister właściwy do spraw rynków rolnych określi, drodze rozporządzenia, wzór imiennego upoważnienia do wykonywania czynności kontrolnych, mając na względzie ujednolicenie informacji zawartych upoważnieniu.
+
+12. Prezes Agencji przekazuje, raz na kwartał, ministrowi właściwemu do spraw rynków rolnych zbiorcze zestawienie informacji o przeprowadzonych kontrolach oraz informację o sposobie realizacji przez grupę zaleceń lub wniosków – przypadku ich sformułowania.
+
+**Art. 13.**
+
+1. Grupa składa corocznie, na formularzu opracowanym przez Prezesa Agencji i udostępnionym na stronie internetowej Agencji, dyrektorowi oddziału regionalnego Agencji właściwemu ze względu na siedzibę grupy podpisane przez osoby uprawnione do reprezentowania grupy sprawozdanie utworzona;
+
+- **3)** aktualną liczbę członków grupy;
+- **4)** informację o rocznej wielkości produkcji i wartości przychodów netto grupy ze sprzedaży produktu lub grupy produktów, ze względu na które grupa została utworzona, wytworzonych gospodarstwach lub działach specjalnych produkcji rolnej członków grupy;
+- **5)** informację o łącznej rocznej wielkości produkcji i wartości przychodów netto grupy ze sprzedaży produktu lub grupy produktów, ze względu na które grupa została utworzona.
+
+2. W przypadku gdy grupa nie wypełnia obowiązku, o którym mowa ust. 1, dyrektor oddziału regionalnego Agencji wzywa grupę do wypełnienia tego obowiązku, terminie 14 dni od dnia otrzymania wezwania przez grupę.
+
+**Art. 14.** Grupy, celu reprezentowania swoich interesów, mogą organizować się związki grup, zwane dalej „związkami”, do realizacji szczególności co najmniej dwóch spośród następujących celów:
+
+**Art. 16.**
+
+1. Prezes Agencji wydaje decyzję o uznaniu związku, jeżeli spełnia on warunki określone art. 14 i art. 15, i dokonuje wpisu związku do rejestru związków.
+
+1a. W przypadku niespełniania przez wnioskodawcę warunków określonych art. 14 i art. 15 Prezes Agencji wydaje decyzję o odmowie:
+
+- **1)** uznania związku;
+- **2)** dokonania wpisu związku do rejestru związków.
+
+2. Prezes Agencji prowadzi rejestr związków.
+
+3. Do wniosku o wydanie decyzji, o której mowa ust. 1, stosuje się odpowiednio przepisy art. 8.
+
+4. Do prowadzenia rejestru związków stosuje się odpowiednio przepisy art. 9 i 10.
+
+**Art. 17.**
+
+1. Nadzór nad działalnością związków sprawuje Prezes Agencji. odpowiednio przepisy art. 12 ust. 3–11.
+
+5. Prezes Agencji przypadku gdy związek przestał spełniać co najmniej jeden z warunków uznania określonych art. 14 lub art. 15, wzywa związek na piśmie do spełnienia brakujących warunków oraz, biorąc pod uwagę ich rodzaj, określa termin na ich spełnienie nie dłuższy niż 12 miesięcy, licząc od początku roku działalności związku następującego po roku, którym wezwano związek do spełnienia tych warunków.
+
+6. (uchylony)
+
+7. (uchylony)
+
+8. Osoba upoważniona do reprezentowania związku terminie określonym wezwaniu, o którym mowa ust. 5, informuje na piśmie Prezesa Agencji o spełnieniu brakujących warunków i przedkłada dokumenty potwierdzające ich spełnienie albo kopie tych dokumentów potwierdzone przez tę osobę za zgodność z oryginałem.
+
+9. Prezes Agencji przypadku gdy związek:
+
+- **1)** mimo wezwania, o którym mowa ust. 5, terminie określonym tym wezwaniu nie spełnił brakujących warunków lub
+- **2)** uniemożliwia albo utrudnia przeprowadzenie kontroli, o których mowa ust. 2, lub
+- **3)** mimo wezwania, o którym mowa art. 17a ust. 1a, nie wypełnił obowiązku określonego art. 17a ust. 1, lub
+- **4)** przestał spełniać co najmniej jeden z warunków uznania określonych art. 14 lub art. 15 – wydaje decyzję o cofnięciu związkowi uznania i skreśleniu go z rejestru związków.
+
+**Art. 17a.**
+
+1. Związek składa Prezesowi Agencji na piśmie sprawozdanie z realizacji celów wybranych spośród celów, o których mowa art. 14, terminie 3 miesięcy od dnia zakończenia każdego roku jego działalności.
+
+#### Rozdział 4 Pomoc finansowa
+
+**Art. 18.** (uchylony)
+
+**Art. 19.** (uchylony)
+
+**Art. 20.** (uchylony)
+
+**Art. 21.** (uchylony)
+
+**Art. 22.** (uchylony)
+
+**Art. 23.** (uchylony)
+
+**Art. 24.** (uchylony)
+
+#### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe i przepisy końcowe
+
+**Art. 29.** Ustawa wchodzi życie po upływie jednego miesiąca od dnia ogłoszenia .
+

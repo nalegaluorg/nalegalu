@@ -1,0 +1,35 @@
+---
+title: Ustawa z dnia 29 lutego 2008 r. o zmianie ustawy o lekarzu sądowym
+address: WDU20080510293
+eli: DU/2008/293
+publisher: DU
+year: 2008
+pos: 293
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 26 marca 2008 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2008 nr 51 poz. 293 |
+| ISAP | WDU20080510293 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2008-02-29 |
+| Data wydania | 2008-03-26 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080510293) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/293/text.pdf) |
+
+TREÂå: Poz.:
+USTAWA 293 — zdnia 29 lutego 2008 r. ozmianie ustawy olekarzu sàdowym . . . . . . . . 2857 ROZPORZÑDZENIE RADY MINISTRÓW 294 — zdnia 11 marca 2008 r. wsprawie listy spó∏ek konsolidowanych, których akcje podlegajà wniesieniu na pokrycie kapita∏u zak∏adowego spó∏ek konsolidujàcych, oraz listy spó∏ek konsolidujàcych . . . . . . . . . . . . . . . . . . . . . 2858 ROZPORZÑDZENIE PREZESA RADY MINISTRÓW 295 — zdnia 17 marca 2008 r. zmieniajàce rozporzàdzenie wsprawie czasu pracy pracowników urz´dów administracji rzàdowej . . . . . . . . . . . . . . . . . 2859 ROZPORZÑDZENIA: 296 — Ministra Finansów zdnia 18 marca 2008 r. zmieniajàce rozporzàdzenie wsprawie stawek uposa˝enia zasadniczego w S∏u˝bie Celnej, wysokoÊci oraz szczegó∏owych zasad przyznawania iwyp∏acania dodatków do uposa˝enia zasadniczego . . . . . . . . 2859 297 — Ministra Spraw Wewn´trznych i Administracji z dnia 11 marca 2008 r. w sprawie post´powania w sprawach oÊwiadczeƒ o stanie majàtkowym funkcjonariuszy oraz pracowników Stra˝y Granicznej . . . . . . . . . . . . . . . . . . . . 2861 298 — Ministra Spraw Wewn´trznych i Administracji zdnia 14 marca 2008 r. zmieniajàce rozporzàdzenie wsprawie wysokoÊci iwarunków przyznawania nagród rocznych, nagród uznaniowych oraz zapomóg dla funkcjonariuszy Biura Ochrony Rzàdu . . . . . . . 2867 WYROK TRYBUNA¸U KONSTYTUCYJNEGO 299 — zdnia 17 marca 2008 r. sygn. akt K 32/05 . . . . . . . . . . . . . . 2867 293
+USTAWA z dnia 29 lutego 2008 r.
+o zmianie ustawy o lekarzu sàdowym
+
+**Art. 1.** W ustawie z dnia 15 czerwca 2007 r. o leka- okr´gowego w przypadku rzu sàdowym (Dz. U. Nr 123, poz. 849) po art. 28 doda- zawarcia dostatecznej je si´ art. 28a w brzmieniu: konywanie czynnoÊci „Art. 28a. 1. W okresie do dnia 31 grudnia 2008 r. le- 3. Do lekarza dopuszczonego karzem sàdowym w rozumieniu ustawy wania czynnoÊci lekarza jest równie˝ inny lekarz dopuszczony stosuje si´ art. 5 ust. przez prezesa sàdu okr´gowego do wy- art. 7 i art. 15.”. konywania czynnoÊci lekarza sàdowego.
+
+**Art. 2.** Ustawa wchodzi w ˝ycie 2. Dopuszczenie do wykonywania czynno- nia. Êci lekarza sàdowego odbywa si´ na podstawie zarzàdzenia prezesa sàdu Prezydent Rzeczypospolitej
+

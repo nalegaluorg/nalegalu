@@ -1,0 +1,502 @@
+# Orzecznictwo — Ustawa z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.
+
+Orzeczenia powołujące: *Ustawa z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw.*
+
+Łącznie: **399** orzeczeń
+
+## art. 2 (24)
+
+- 2015-07-15 | SO | [IV Pa 24/15](https://www.saos.org.pl/judgments/212173) | Wyrok
+- 2015-07-15 | SO | [IV Pa 23/15](https://www.saos.org.pl/judgments/212172) | Wyrok
+- 2015-07-15 | SO | [IV Pa 28/15](https://www.saos.org.pl/judgments/190812) | Wyrok
+- 2015-07-15 | SO | [IV Pa 26/15](https://www.saos.org.pl/judgments/190810) | Wyrok
+- 2015-06-24 | SO | [IV Pa 18/15](https://www.saos.org.pl/judgments/190807) | Wyrok
+- 2015-06-24 | SO | [IV Pa 22/15](https://www.saos.org.pl/judgments/190635) | Wyrok
+- 2010-12-10 | TK | [P 27/09](https://www.saos.org.pl/judgments/109711) | Postanowienie
+- 2010-04-19 | TK | [P 40/09](https://www.saos.org.pl/judgments/206262) | Postanowienie
+- 2009-10-08 | TK | [P 117/08](https://www.saos.org.pl/judgments/109017) | Postanowienie
+- 2009-06-30 | TK | [P 99/08](https://www.saos.org.pl/judgments/109065) | Postanowienie
+- 2009-05-20 | TK | [K 25/08](https://www.saos.org.pl/judgments/108973) | Postanowienie
+- 2009-03-27 | TK | [P 23/08](https://www.saos.org.pl/judgments/109026) | Postanowienie
+- 2009-03-27 | TK | [P 10/09](https://www.saos.org.pl/judgments/109015) | Postanowienie
+- 2009-02-26 | TK | [P 69/08](https://www.saos.org.pl/judgments/109054) | Postanowienie
+- 2009-02-18 | TK | [P 119/08](https://www.saos.org.pl/judgments/109018) | Postanowienie
+- 2009-02-17 | TK | [P 51/08](https://www.saos.org.pl/judgments/109039) | Postanowienie
+- 2009-02-17 | TK | [P 30/08](https://www.saos.org.pl/judgments/109027) | Postanowienie
+- 2009-02-16 | TK | [P 104/08](https://www.saos.org.pl/judgments/109013) | Postanowienie
+- 2009-02-13 | TK | [P 65/08](https://www.saos.org.pl/judgments/109049) | Postanowienie
+- 2009-02-12 | TK | [P 66/08](https://www.saos.org.pl/judgments/109051) | Postanowienie
+- 2009-02-11 | TK | [P 35/08](https://www.saos.org.pl/judgments/109032) | Postanowienie
+- 2008-12-10 | TK | [P 39/08](https://www.saos.org.pl/judgments/108591) | Postanowienie
+- 2008-12-10 | TK | [P 19/08](https://www.saos.org.pl/judgments/108574) | Postanowienie
+- 2008-11-20 | TK | [P 18/08](https://www.saos.org.pl/judgments/108573) | Postanowienie
+
+## art. 4 (21)
+
+- 2019-06-24 | SO | [XXI P 113/18](https://www.saos.org.pl/judgments/394461) | Wyrok
+- 2017-04-07 | SO | [X P 339/14](https://www.saos.org.pl/judgments/283921) | Wyrok
+- 2016-09-21 | SO | [VII Pa 98/16](https://www.saos.org.pl/judgments/249459) | Uzasadnienie
+- 2016-09-15 | SO | [XXI P 230/15](https://www.saos.org.pl/judgments/313514) | Postanowienie
+- 2016-07-28 | SO | [IV Pa 42/16](https://www.saos.org.pl/judgments/541238) | Wyrok
+- 2016-03-10 | SO | [V Pa 74/15](https://www.saos.org.pl/judgments/215529) | Wyrok
+- 2016-02-22 | SO | [III Pa 4/16](https://www.saos.org.pl/judgments/268783) | Wyrok
+- 2015-12-30 | SO | [IV P 564/15](https://www.saos.org.pl/judgments/274534) | Wyrok
+- 2015-10-21 | SO | [VI P 829/14](https://www.saos.org.pl/judgments/187870) | Wyrok
+- 2015-07-15 | SO | [IV Pa 24/15](https://www.saos.org.pl/judgments/212173) | Wyrok
+- 2015-07-15 | SO | [IV Pa 23/15](https://www.saos.org.pl/judgments/212172) | Wyrok
+- 2015-07-15 | SO | [IV Pa 28/15](https://www.saos.org.pl/judgments/190812) | Wyrok
+- 2015-07-15 | SO | [IV Pa 26/15](https://www.saos.org.pl/judgments/190810) | Wyrok
+- 2015-07-03 | SO | [VI Pa 60/15](https://www.saos.org.pl/judgments/174961) | Wyrok
+- 2015-06-24 | SO | [IV Pa 18/15](https://www.saos.org.pl/judgments/190807) | Wyrok
+- 2015-06-24 | SO | [IV Pa 22/15](https://www.saos.org.pl/judgments/190635) | Wyrok
+- 2015-06-10 | SO | [IV P 138/14](https://www.saos.org.pl/judgments/179905) | Wyrok
+- 2015-02-03 | SO | [XXI P 32/13](https://www.saos.org.pl/judgments/156822) | Uzasadnienie
+- 2012-12-12 | TK | [K 1/12](https://www.saos.org.pl/judgments/110895) | Wyrok
+- 2009-02-12 | TK | [P 66/08](https://www.saos.org.pl/judgments/109051) | Postanowienie
+- 2003-11-17 | TK | [K 32/02](https://www.saos.org.pl/judgments/106339) | Wyrok
+
+## art. 5 (29)
+
+- 2022-09-14 | SO | [IV P 83/22](https://www.saos.org.pl/judgments/475467) | Wyrok
+- 2019-06-24 | SO | [XXI P 113/18](https://www.saos.org.pl/judgments/394461) | Wyrok
+- 2019-01-22 | SO | [III AUz 227/18](https://www.saos.org.pl/judgments/371405) | Postanowienie
+- 2016-09-15 | SO | [XXI P 230/15](https://www.saos.org.pl/judgments/313514) | Postanowienie
+- 2016-05-12 | SO | [I C 924/15](https://www.saos.org.pl/judgments/234154) | Wyrok
+- 2016-01-12 | SO | [VII Pz 145/15](https://www.saos.org.pl/judgments/196607) | Zarządzenie
+- 2015-05-28 | SO | [II Cz 775/15](https://www.saos.org.pl/judgments/171974) | Postanowienie
+- 2015-02-06 | SO | [II Cz 144/15](https://www.saos.org.pl/judgments/133335) | Postanowienie
+- 2015-02-03 | SO | [XXI P 32/13](https://www.saos.org.pl/judgments/156822) | Uzasadnienie
+- 2014-10-08 | SO | [II Cz 1594/14](https://www.saos.org.pl/judgments/65339) | Postanowienie
+- 2014-10-03 | SO | [VIII Gz 127/14](https://www.saos.org.pl/judgments/66484) | Postanowienie
+- 2014-08-29 | SO | [II C 448/12](https://www.saos.org.pl/judgments/199029) | Wyrok
+- 2014-04-29 | SO | [II Cz 499/14](https://www.saos.org.pl/judgments/44557) | Postanowienie
+- 2014-04-01 | SO | [II Cz 367/14](https://www.saos.org.pl/judgments/40828) | Postanowienie
+- 2014-03-07 | SO | [V Pz 82/13](https://www.saos.org.pl/judgments/40289) | Postanowienie
+- 2014-01-07 | SO | [II Cz 942/13](https://www.saos.org.pl/judgments/231340) | Postanowienie
+- 2013-12-03 | SO | [II Cz 1008/13](https://www.saos.org.pl/judgments/35931) | Postanowienie
+- 2013-11-28 | SO | [I Cz 286/13](https://www.saos.org.pl/judgments/141777) | Postanowienie
+- 2013-11-28 | SO | [II Cz 1062/13](https://www.saos.org.pl/judgments/35933) | Postanowienie
+- 2013-08-12 | SO | [III AUz 401/13](https://www.saos.org.pl/judgments/19551) | Postanowienie
+- 2013-06-13 | SO | [II Cz 382/13](https://www.saos.org.pl/judgments/23816) | Postanowienie
+- 2013-01-24 | SO | [VIII C 520/12](https://www.saos.org.pl/judgments/5695) | Wyrok
+- 2013-01-21 | SO | [II Cz 1226/12](https://www.saos.org.pl/judgments/6430) | Postanowienie
+- 2012-12-10 | SO | [I C 1173/09](https://www.saos.org.pl/judgments/69627) | Postanowienie
+- 2012-11-28 | SO | [II C 497/08](https://www.saos.org.pl/judgments/69671) | Postanowienie
+- 2012-10-09 | TK | [Ts 256/11](https://www.saos.org.pl/judgments/111392) | Postanowienie
+- 2012-07-09 | SO | [II C 497/08](https://www.saos.org.pl/judgments/69673) | Postanowienie
+- 2008-02-05 | SN | [II PK 150/07](https://www.saos.org.pl/judgments/87261) | Wyrok
+- 2004-10-14 | SN | [I PZP 7/04](https://www.saos.org.pl/judgments/82911) | Postanowienie
+
+## art. 6 (55)
+
+- 2019-06-24 | SO | [XXI P 113/18](https://www.saos.org.pl/judgments/394461) | Wyrok
+- 2017-01-26 | SO | [XXI Pa 705/16](https://www.saos.org.pl/judgments/273040) | Wyrok
+- 2016-10-11 | SO | [XXI P 231/15](https://www.saos.org.pl/judgments/313730) | Postanowienie
+- 2016-09-15 | SO | [XXI P 230/15](https://www.saos.org.pl/judgments/313514) | Postanowienie
+- 2016-07-28 | SO | [IV Pa 42/16](https://www.saos.org.pl/judgments/541238) | Wyrok
+- 2016-03-10 | SO | [V Pa 74/15](https://www.saos.org.pl/judgments/215529) | Wyrok
+- 2016-03-10 | SO | [V Pa 105/15](https://www.saos.org.pl/judgments/215527) | Wyrok
+- 2016-02-22 | SO | [III Pa 4/16](https://www.saos.org.pl/judgments/268783) | Wyrok
+- 2015-12-30 | SO | [IV P 564/15](https://www.saos.org.pl/judgments/274534) | Wyrok
+- 2015-10-29 | SO | [IV Pa 64/15](https://www.saos.org.pl/judgments/527583) | Wyrok
+- 2015-10-29 | SO | [IV Pa 63/15](https://www.saos.org.pl/judgments/236907) | Wyrok
+- 2015-10-29 | SO | [IV Pa 56/15](https://www.saos.org.pl/judgments/236906) | Wyrok
+- 2015-10-29 | SO | [IV Pa 70/15](https://www.saos.org.pl/judgments/186574) | Wyrok
+- 2015-10-29 | SO | [IV Pa 59/15](https://www.saos.org.pl/judgments/186572) | Wyrok
+- 2015-10-29 | SO | [IV Pa 57/15](https://www.saos.org.pl/judgments/186571) | Wyrok
+- 2015-10-21 | SO | [VI P 829/14](https://www.saos.org.pl/judgments/187870) | Wyrok
+- 2015-09-29 | SO | [IV Pa 52/15](https://www.saos.org.pl/judgments/236905) | Wyrok
+- 2015-09-29 | SO | [IV Pa 55/15](https://www.saos.org.pl/judgments/236697) | Wyrok
+- 2015-09-29 | SO | [IV Pa 54/15](https://www.saos.org.pl/judgments/236696) | Wyrok
+- 2015-09-29 | SO | [IV Pa 53/15](https://www.saos.org.pl/judgments/236695) | Wyrok
+- 2015-09-29 | SO | [IV Pa 51/15](https://www.saos.org.pl/judgments/236694) | Wyrok
+- 2015-09-29 | SO | [IV Pa 48/15](https://www.saos.org.pl/judgments/236693) | Wyrok
+- 2015-09-29 | SO | [IV Pa 47/15](https://www.saos.org.pl/judgments/236692) | Wyrok
+- 2015-09-29 | SO | [IV Pa 46/15](https://www.saos.org.pl/judgments/236691) | Wyrok
+- 2015-09-29 | SO | [IV Pa 45/15](https://www.saos.org.pl/judgments/236690) | Wyrok
+- 2015-09-29 | SO | [IV Pa 44/15](https://www.saos.org.pl/judgments/236689) | Wyrok
+- 2015-09-29 | SO | [IV Pa 41/15](https://www.saos.org.pl/judgments/236688) | Wyrok
+- 2015-09-29 | SO | [IV Pa 37/15](https://www.saos.org.pl/judgments/236687) | Wyrok
+- 2015-09-22 | SO | [IV Pa 35/15](https://www.saos.org.pl/judgments/236686) | Wyrok
+- 2015-09-22 | SO | [IV Pa 50/15](https://www.saos.org.pl/judgments/222065) | Wyrok
+- 2015-09-22 | SO | [IV Pa 49/15](https://www.saos.org.pl/judgments/212181) | Wyrok
+- 2015-09-22 | SO | [IV Pa 43/15](https://www.saos.org.pl/judgments/212180) | Wyrok
+- 2015-09-22 | SO | [IV Pa 36/15](https://www.saos.org.pl/judgments/212179) | Wyrok
+- 2015-09-22 | SO | [IV Pa 34/15](https://www.saos.org.pl/judgments/212178) | Wyrok
+- 2015-09-22 | SO | [IV Pa 33/15](https://www.saos.org.pl/judgments/212177) | Wyrok
+- 2015-09-22 | SO | [IV Pa 32/15](https://www.saos.org.pl/judgments/212176) | Wyrok
+- 2015-09-22 | SO | [IV Pa 31/15](https://www.saos.org.pl/judgments/212175) | Wyrok
+- 2015-07-15 | SO | [IV Pa 30/15](https://www.saos.org.pl/judgments/212174) | Wyrok
+- 2015-07-15 | SO | [IV Pa 24/15](https://www.saos.org.pl/judgments/212173) | Wyrok
+- 2015-07-15 | SO | [IV Pa 23/15](https://www.saos.org.pl/judgments/212172) | Wyrok
+- 2015-07-15 | SO | [IV Pa 42/15](https://www.saos.org.pl/judgments/190814) | Wyrok
+- 2015-07-15 | SO | [IV Pa 28/15](https://www.saos.org.pl/judgments/190812) | Wyrok
+- 2015-07-15 | SO | [IV Pa 27/15](https://www.saos.org.pl/judgments/190811) | Wyrok
+- 2015-07-15 | SO | [IV Pa 26/15](https://www.saos.org.pl/judgments/190810) | Wyrok
+- 2015-07-15 | SO | [IV Pa 25/15](https://www.saos.org.pl/judgments/190809) | Wyrok
+- 2015-07-03 | SO | [VI Pa 60/15](https://www.saos.org.pl/judgments/174961) | Wyrok
+- 2015-06-24 | SO | [IV Pa 19/15](https://www.saos.org.pl/judgments/190808) | Wyrok
+- 2015-06-24 | SO | [IV Pa 18/15](https://www.saos.org.pl/judgments/190807) | Wyrok
+- 2015-06-24 | SO | [IV Pa 22/15](https://www.saos.org.pl/judgments/190635) | Wyrok
+- 2015-06-10 | SO | [IV P 138/14](https://www.saos.org.pl/judgments/179905) | Wyrok
+- 2015-02-03 | SO | [XXI P 32/13](https://www.saos.org.pl/judgments/156822) | Uzasadnienie
+- 2014-10-28 | SO | [IV Pa 61/14](https://www.saos.org.pl/judgments/71297) | Wyrok
+- 2009-02-26 | TK | [P 69/08](https://www.saos.org.pl/judgments/109054) | Postanowienie
+- 2004-10-14 | SN | [I PZP 7/04](https://www.saos.org.pl/judgments/82911) | Postanowienie
+- 2003-04-14 | TK | [K 34/02](https://www.saos.org.pl/judgments/106340) | Wyrok
+
+## art. 8 (4)
+
+- 2022-02-10 | SO | [V P 81/21](https://www.saos.org.pl/judgments/466171) | Uzasadnienie
+- 2019-06-24 | SO | [XXI P 113/18](https://www.saos.org.pl/judgments/394461) | Wyrok
+- 2017-01-26 | SO | [XXI Pa 705/16](https://www.saos.org.pl/judgments/273040) | Wyrok
+- 2012-12-12 | TK | [K 1/12](https://www.saos.org.pl/judgments/110895) | Wyrok
+
+## art. 9 (31)
+
+- 2019-07-04 | SO | [II C 2154/16](https://www.saos.org.pl/judgments/449365) | Wyrok
+- 2019-02-22 | SO | [II C 1850/16](https://www.saos.org.pl/judgments/449362) | Wyrok
+- 2017-01-26 | SO | [XXI Pa 705/16](https://www.saos.org.pl/judgments/273040) | Wyrok
+- 2016-11-07 | SO | [II Ca 1375/15](https://www.saos.org.pl/judgments/305138) | Postanowienie
+- 2016-07-28 | SO | [IV Pa 42/16](https://www.saos.org.pl/judgments/541238) | Wyrok
+- 2016-04-22 | SO | [II K 477/15](https://www.saos.org.pl/judgments/223323) | Wyrok
+- 2015-08-25 | SO | [VIII Gz 39/15](https://www.saos.org.pl/judgments/176018) | Postanowienie
+- 2015-07-15 | SO | [IV Pa 24/15](https://www.saos.org.pl/judgments/212173) | Wyrok
+- 2015-07-15 | SO | [IV Pa 23/15](https://www.saos.org.pl/judgments/212172) | Wyrok
+- 2015-07-15 | SO | [IV Pa 28/15](https://www.saos.org.pl/judgments/190812) | Wyrok
+- 2015-07-15 | SO | [IV Pa 26/15](https://www.saos.org.pl/judgments/190810) | Wyrok
+- 2015-06-24 | SO | [IV Pa 18/15](https://www.saos.org.pl/judgments/190807) | Wyrok
+- 2015-06-24 | SO | [IV Pa 22/15](https://www.saos.org.pl/judgments/190635) | Wyrok
+- 2013-01-21 | SO | [II Cz 1226/12](https://www.saos.org.pl/judgments/6430) | Postanowienie
+- 2010-12-10 | TK | [P 27/09](https://www.saos.org.pl/judgments/109711) | Postanowienie
+- 2010-04-19 | TK | [P 40/09](https://www.saos.org.pl/judgments/206262) | Postanowienie
+- 2009-10-08 | TK | [P 117/08](https://www.saos.org.pl/judgments/109017) | Postanowienie
+- 2009-06-30 | TK | [P 99/08](https://www.saos.org.pl/judgments/109065) | Postanowienie
+- 2009-05-20 | TK | [K 25/08](https://www.saos.org.pl/judgments/108973) | Postanowienie
+- 2009-03-27 | TK | [P 23/08](https://www.saos.org.pl/judgments/109026) | Postanowienie
+- 2009-03-27 | TK | [P 10/09](https://www.saos.org.pl/judgments/109015) | Postanowienie
+- 2009-02-26 | TK | [P 69/08](https://www.saos.org.pl/judgments/109054) | Postanowienie
+- 2009-02-18 | TK | [P 119/08](https://www.saos.org.pl/judgments/109018) | Postanowienie
+- 2009-02-17 | TK | [P 51/08](https://www.saos.org.pl/judgments/109039) | Postanowienie
+- 2009-02-17 | TK | [P 30/08](https://www.saos.org.pl/judgments/109027) | Postanowienie
+- 2009-02-16 | TK | [P 104/08](https://www.saos.org.pl/judgments/109013) | Postanowienie
+- 2009-02-13 | TK | [P 65/08](https://www.saos.org.pl/judgments/109049) | Postanowienie
+- 2009-02-11 | TK | [P 35/08](https://www.saos.org.pl/judgments/109032) | Postanowienie
+- 2008-12-10 | TK | [P 39/08](https://www.saos.org.pl/judgments/108591) | Postanowienie
+- 2008-12-10 | TK | [P 19/08](https://www.saos.org.pl/judgments/108574) | Postanowienie
+- 2008-11-20 | TK | [P 18/08](https://www.saos.org.pl/judgments/108573) | Postanowienie
+
+## art. 10 (3)
+
+- 2016-10-11 | SO | [XXI P 231/15](https://www.saos.org.pl/judgments/313730) | Postanowienie
+- 2016-09-15 | SO | [XXI P 230/15](https://www.saos.org.pl/judgments/313514) | Postanowienie
+- 2015-02-03 | SO | [XXI P 32/13](https://www.saos.org.pl/judgments/156822) | Uzasadnienie
+
+## art. 14 (1)
+
+- 2009-02-12 | TK | [P 66/08](https://www.saos.org.pl/judgments/109051) | Postanowienie
+
+## art. 15 (1)
+
+- 2016-09-15 | SO | [XXI P 230/15](https://www.saos.org.pl/judgments/313514) | Postanowienie
+
+## art. 21 (2)
+
+- 2016-07-28 | SO | [IV Pa 42/16](https://www.saos.org.pl/judgments/541238) | Wyrok
+- 2015-06-10 | SO | [IV P 138/14](https://www.saos.org.pl/judgments/179905) | Wyrok
+
+## (ogólnie) (292)
+
+- 2025-12-15 | SO | [IX P 864/24](https://www.saos.org.pl/judgments/538728) | Zarządzenie
+- 2025-11-26 | SO | [IX P 490/23](https://www.saos.org.pl/judgments/538056) | Zarządzenie
+- 2025-10-13 | SO | [IX P 644/24](https://www.saos.org.pl/judgments/536045) | Zarządzenie
+- 2025-10-09 | SO | [IX P 519/23](https://www.saos.org.pl/judgments/536044) | Uzasadnienie
+- 2025-09-17 | SO | [IX P 639/24](https://www.saos.org.pl/judgments/535751) | Zarządzenie
+- 2025-09-17 | SO | [IX P 480/24](https://www.saos.org.pl/judgments/534453) | Zarządzenie
+- 2025-09-10 | SO | [IX P 645/24](https://www.saos.org.pl/judgments/533507) | Zarządzenie
+- 2025-09-08 | SO | [IX P 292/24](https://www.saos.org.pl/judgments/533505) | Zarządzenie
+- 2025-09-05 | SO | [IX P 400/24](https://www.saos.org.pl/judgments/533389) | Zarządzenie
+- 2025-09-02 | SO | [IX P 247/24](https://www.saos.org.pl/judgments/533179) | Zarządzenie
+- 2025-08-12 | SO | [IV P 150/25](https://www.saos.org.pl/judgments/534933) | Wyrok
+- 2025-08-11 | SO | [IX P 506/24](https://www.saos.org.pl/judgments/531910) | Zarządzenie
+- 2025-08-07 | SO | [IX P 325/24](https://www.saos.org.pl/judgments/531598) | Zarządzenie
+- 2025-06-18 | SO | [III Pa 10/25](https://www.saos.org.pl/judgments/537329) | Wyrok
+- 2025-06-13 | SO | [IX P 642/24](https://www.saos.org.pl/judgments/528240) | Uzasadnienie
+- 2025-06-04 | SO | [VI P 547/24](https://www.saos.org.pl/judgments/532032) | Wyrok
+- 2025-06-04 | SO | [VI P 476/24](https://www.saos.org.pl/judgments/532031) | Wyrok
+- 2025-06-04 | SO | [VI P 17/25](https://www.saos.org.pl/judgments/532026) | Wyrok
+- 2025-05-30 | SO | [III Pa 23/25](https://www.saos.org.pl/judgments/537454) | Wyrok
+- 2025-05-30 | SO | [IX P 274/24](https://www.saos.org.pl/judgments/527962) | Zarządzenie
+- 2025-05-23 | SO | [III Pa 11/25](https://www.saos.org.pl/judgments/538432) | Wyrok
+- 2025-04-29 | SO | [IX P 187/23](https://www.saos.org.pl/judgments/525673) | Zarządzenie
+- 2025-04-28 | SO | [VIII Pa 47/25](https://www.saos.org.pl/judgments/529539) | Uzasadnienie
+- 2025-04-28 | SO | [VIII Pa 35/25](https://www.saos.org.pl/judgments/529531) | Uzasadnienie
+- 2025-04-28 | SO | [VIII Pa 16/25](https://www.saos.org.pl/judgments/529530) | Uzasadnienie
+- 2025-04-24 | SO | [IX P 428/24](https://www.saos.org.pl/judgments/525387) | Zarządzenie
+- 2025-04-10 | SO | [VI P 44/25](https://www.saos.org.pl/judgments/530406) | Wyrok
+- 2025-04-09 | SO | [IX P 481/24](https://www.saos.org.pl/judgments/525043) | Zarządzenie
+- 2025-04-07 | SO | [IX P 280/24](https://www.saos.org.pl/judgments/525041) | Zarządzenie
+- 2025-03-24 | SO | [IX P 323/24](https://www.saos.org.pl/judgments/523633) | Zarządzenie
+- 2025-03-20 | SO | [IX P 451/23](https://www.saos.org.pl/judgments/524084) | Zarządzenie
+- 2025-03-18 | SO | [VIII Pa 26/25](https://www.saos.org.pl/judgments/529452) | Uzasadnienie
+- 2025-03-17 | SO | [IV P 32/25](https://www.saos.org.pl/judgments/526321) | Wyrok
+- 2025-03-12 | SO | [IV P 610/24](https://www.saos.org.pl/judgments/527012) | Wyrok
+- 2025-03-06 | SO | [VI P 287/24](https://www.saos.org.pl/judgments/527137) | Wyrok
+- 2025-03-06 | SO | [VI P 77/24](https://www.saos.org.pl/judgments/527037) | Wyrok
+- 2025-03-04 | SO | [VI P 261/24](https://www.saos.org.pl/judgments/532027) | Wyrok
+- 2025-03-04 | SO | [VI P 513/24](https://www.saos.org.pl/judgments/527143) | Wyrok
+- 2025-03-04 | SO | [VI P 394/24](https://www.saos.org.pl/judgments/527140) | Wyrok
+- 2025-03-04 | SO | [VI P 297/24](https://www.saos.org.pl/judgments/527139) | Wyrok
+- 2025-03-04 | SO | [VI P 295/24](https://www.saos.org.pl/judgments/527138) | Wyrok
+- 2025-03-04 | SO | [VI P 365/24](https://www.saos.org.pl/judgments/526871) | Wyrok
+- 2025-03-04 | SO | [VI P 351/24](https://www.saos.org.pl/judgments/526870) | Wyrok
+- 2025-03-03 | SO | [VIII Pa 512/24](https://www.saos.org.pl/judgments/526514) | Uzasadnienie
+- 2025-02-27 | SO | [VIII Pa 22/25](https://www.saos.org.pl/judgments/526506) | Uzasadnienie
+- 2025-02-21 | SO | [VIII Pa 520/24](https://www.saos.org.pl/judgments/526365) | Uzasadnienie
+- 2025-02-14 | SO | [VIII Pa 506/24](https://www.saos.org.pl/judgments/526363) | Uzasadnienie
+- 2025-02-12 | SO | [VIII Pa 507/24](https://www.saos.org.pl/judgments/526511) | Uzasadnienie
+- 2025-02-04 | SO | [VI P 286/24](https://www.saos.org.pl/judgments/527036) | Wyrok
+- 2025-02-04 | SO | [VI P 515/24](https://www.saos.org.pl/judgments/526873) | Wyrok
+- 2025-01-24 | SO | [VI P 613/24](https://www.saos.org.pl/judgments/530178) | Wyrok
+- 2025-01-24 | SO | [VI P 798/24](https://www.saos.org.pl/judgments/527144) | Wyrok
+- 2025-01-22 | SO | [IX P 279/23](https://www.saos.org.pl/judgments/522520) | Zarządzenie
+- 2025-01-22 | SO | [IX P 50/24](https://www.saos.org.pl/judgments/521942) | Zarządzenie
+- 2025-01-22 | SO | [IX P 279/24](https://www.saos.org.pl/judgments/521937) | Zarządzenie
+- 2025-01-21 | SO | [VI P 93/24](https://www.saos.org.pl/judgments/530416) | Wyrok
+- 2025-01-21 | SO | [VI P 364/24](https://www.saos.org.pl/judgments/530403) | Wyrok
+- 2025-01-16 | SO | [IX P 382/24](https://www.saos.org.pl/judgments/522424) | Zarządzenie
+- 2025-01-15 | SO | [VIII Pa 464/24](https://www.saos.org.pl/judgments/526358) | Uzasadnienie
+- 2025-01-15 | SO | [IX P 695/24](https://www.saos.org.pl/judgments/521943) | Zarządzenie
+- 2025-01-14 | SO | [VI P 381/24](https://www.saos.org.pl/judgments/530170) | Wyrok
+- 2025-01-13 | SO | [VIII Pa 462/24](https://www.saos.org.pl/judgments/526256) | Uzasadnienie
+- 2025-01-13 | SO | [VI P 507/24](https://www.saos.org.pl/judgments/525061) | Wyrok
+- 2025-01-10 | SO | [IX P 418/23](https://www.saos.org.pl/judgments/521939) | Zarządzenie
+- 2025-01-08 | SO | [VI P 469/24](https://www.saos.org.pl/judgments/525772) | Wyrok
+- 2025-01-08 | SO | [IX P 418/24](https://www.saos.org.pl/judgments/520756) | Zarządzenie
+- 2025-01-07 | SO | [VI P 390/24](https://www.saos.org.pl/judgments/532029) | Wyrok
+- 2025-01-07 | SO | [IX P 381/24](https://www.saos.org.pl/judgments/522423) | Zarządzenie
+- 2025-01-07 | SO | [IX P 420/24](https://www.saos.org.pl/judgments/521940) | Zarządzenie
+- 2025-01-07 | SO | [IX P 272/24](https://www.saos.org.pl/judgments/521935) | Zarządzenie
+- 2025-01-07 | SO | [IX P 250/24](https://www.saos.org.pl/judgments/521934) | Zarządzenie
+- 2025-01-07 | SO | [IX P 212/24](https://www.saos.org.pl/judgments/520755) | Zarządzenie
+- 2025-01-07 | SO | [IX P 109/24](https://www.saos.org.pl/judgments/520754) | Zarządzenie
+- 2025-01-02 | SO | [VIII Pa 350/24](https://www.saos.org.pl/judgments/526346) | Uzasadnienie
+- 2024-12-30 | SO | [VIII Pa 426/24](https://www.saos.org.pl/judgments/526252) | Uzasadnienie
+- 2024-12-30 | SO | [VIII Pa 414/24](https://www.saos.org.pl/judgments/522249) | Uzasadnienie
+- 2024-12-30 | SO | [IX P 499/23](https://www.saos.org.pl/judgments/520110) | Zarządzenie
+- 2024-12-18 | SO | [IX P 173/24](https://www.saos.org.pl/judgments/522050) | Zarządzenie
+- 2024-12-18 | SO | [IX P 514/24](https://www.saos.org.pl/judgments/520757) | Zarządzenie
+- 2024-12-17 | SO | [VIII Pa 354/24](https://www.saos.org.pl/judgments/526350) | Uzasadnienie
+- 2024-12-17 | SO | [VIII Pa 352/24](https://www.saos.org.pl/judgments/526349) | Uzasadnienie
+- 2024-12-12 | SO | [VIII Pa 362/24](https://www.saos.org.pl/judgments/526244) | Uzasadnienie
+- 2024-12-12 | SO | [VIII Pa 346/24](https://www.saos.org.pl/judgments/526240) | Uzasadnienie
+- 2024-12-11 | SO | [IX P 385/24](https://www.saos.org.pl/judgments/518495) | Zarządzenie
+- 2024-12-11 | SO | [IX P 130/24](https://www.saos.org.pl/judgments/518494) | Zarządzenie
+- 2024-12-09 | SO | [VIII Pa 359/24](https://www.saos.org.pl/judgments/526243) | Uzasadnienie
+- 2024-12-05 | SO | [VI P 260/24](https://www.saos.org.pl/judgments/540902) | Wyrok
+- 2024-12-05 | SO | [VI P 237/24](https://www.saos.org.pl/judgments/530399) | Wyrok
+- 2024-12-05 | SO | [IX P 176/24](https://www.saos.org.pl/judgments/517832) | Zarządzenie
+- 2024-12-02 | SO | [VIII Pa 393/24](https://www.saos.org.pl/judgments/526249) | Uzasadnienie
+- 2024-11-28 | SO | [IX P 462/23](https://www.saos.org.pl/judgments/517379) | Zarządzenie
+- 2024-11-27 | SO | [IX P 171/24](https://www.saos.org.pl/judgments/517378) | Zarządzenie
+- 2024-11-27 | SO | [IX P 484/23](https://www.saos.org.pl/judgments/517076) | Zarządzenie
+- 2024-11-26 | SO | [VIII Pa 283/24](https://www.saos.org.pl/judgments/526340) | Uzasadnienie
+- 2024-11-21 | SO | [VIII Pa 345/24](https://www.saos.org.pl/judgments/526344) | Uzasadnienie
+- 2024-11-20 | SO | [IX P 183/24](https://www.saos.org.pl/judgments/516299) | Zarządzenie
+- 2024-11-13 | SO | [VI P 385/24](https://www.saos.org.pl/judgments/530171) | Wyrok
+- 2024-11-12 | SO | [VIII Pa 357/24](https://www.saos.org.pl/judgments/522347) | Uzasadnienie
+- 2024-11-12 | SO | [VIII Pa 251/24](https://www.saos.org.pl/judgments/522341) | Uzasadnienie
+- 2024-11-08 | SO | [VI P 395/24](https://www.saos.org.pl/judgments/530172) | Wyrok
+- 2024-11-06 | SO | [VI Pa 65/24](https://www.saos.org.pl/judgments/519131) | Wyrok
+- 2024-11-06 | SO | [IX P 229/24](https://www.saos.org.pl/judgments/509382) | Zarządzenie
+- 2024-11-05 | SO | [VI P 376/24](https://www.saos.org.pl/judgments/536762) | Wyrok
+- 2024-11-05 | SO | [VI P 296/24](https://www.saos.org.pl/judgments/527681) | Wyrok
+- 2024-11-05 | SO | [VIII Pa 383/24](https://www.saos.org.pl/judgments/522350) | Uzasadnienie
+- 2024-10-30 | SO | [VIII Pa 260/24](https://www.saos.org.pl/judgments/522344) | Uzasadnienie
+- 2024-10-29 | SO | [VIII Pa 364/24](https://www.saos.org.pl/judgments/526353) | Uzasadnienie
+- 2024-10-29 | SO | [VIII Pa 220/24](https://www.saos.org.pl/judgments/522337) | Uzasadnienie
+- 2024-10-29 | SO | [IX P 403/24](https://www.saos.org.pl/judgments/509438) | Zarządzenie
+- 2024-10-25 | SO | [VIII Pa 201/24](https://www.saos.org.pl/judgments/522336) | Uzasadnienie
+- 2024-10-25 | SO | [VIII Pa 199/24](https://www.saos.org.pl/judgments/522333) | Uzasadnienie
+- 2024-10-24 | SO | [VI P 280/24](https://www.saos.org.pl/judgments/530400) | Wyrok
+- 2024-10-24 | SO | [VIII Pa 356/24](https://www.saos.org.pl/judgments/522126) | Uzasadnienie
+- 2024-10-24 | SO | [VIII Pa 353/24](https://www.saos.org.pl/judgments/522124) | Uzasadnienie
+- 2024-10-24 | SO | [IX P 567/24](https://www.saos.org.pl/judgments/509461) | Zarządzenie
+- 2024-10-24 | SO | [IX P 55/24](https://www.saos.org.pl/judgments/509458) | Zarządzenie
+- 2024-10-24 | SO | [IX P 515/24](https://www.saos.org.pl/judgments/509457) | Zarządzenie
+- 2024-10-24 | SO | [IX P 264/24](https://www.saos.org.pl/judgments/509391) | Zarządzenie
+- 2024-10-24 | SO | [IX P 254/24](https://www.saos.org.pl/judgments/509389) | Zarządzenie
+- 2024-10-23 | SO | [VIII Pa 149/24](https://www.saos.org.pl/judgments/522246) | Uzasadnienie
+- 2024-10-21 | SO | [IX P 316/24](https://www.saos.org.pl/judgments/509408) | Zarządzenie
+- 2024-10-18 | SO | [VIII Pa 274/24](https://www.saos.org.pl/judgments/526339) | Uzasadnienie
+- 2024-10-16 | SO | [IV P 209/24](https://www.saos.org.pl/judgments/536319) | Wyrok
+- 2024-10-16 | SO | [VIII Pa 225/24](https://www.saos.org.pl/judgments/522339) | Uzasadnienie
+- 2024-10-16 | SO | [IV P 210/24](https://www.saos.org.pl/judgments/520879) | Wyrok
+- 2024-10-16 | SO | [IX P 310/24](https://www.saos.org.pl/judgments/509406) | Zarządzenie
+- 2024-10-14 | SO | [IX P 346/23](https://www.saos.org.pl/judgments/509418) | Zarządzenie
+- 2024-10-14 | SO | [IX P 216/24](https://www.saos.org.pl/judgments/509379) | Zarządzenie
+- 2024-10-11 | SO | [IX P 601/24](https://www.saos.org.pl/judgments/509467) | Zarządzenie
+- 2024-10-09 | SO | [VIII Pa 200/24](https://www.saos.org.pl/judgments/521954) | Uzasadnienie
+- 2024-10-09 | SO | [IX P 383/24](https://www.saos.org.pl/judgments/509434) | Zarządzenie
+- 2024-10-09 | SO | [IX P 380/24](https://www.saos.org.pl/judgments/509429) | Zarządzenie
+- 2024-10-09 | SO | [IX P 248/24](https://www.saos.org.pl/judgments/509388) | Zarządzenie
+- 2024-10-04 | SO | [VIII Pa 372/24](https://www.saos.org.pl/judgments/522065) | Uzasadnienie
+- 2024-10-04 | SO | [VIII Pa 310/24](https://www.saos.org.pl/judgments/522063) | Uzasadnienie
+- 2024-10-02 | SO | [VIII Pa 343/24](https://www.saos.org.pl/judgments/520519) | Uzasadnienie
+- 2024-10-02 | SO | [VIII Pa 269/24](https://www.saos.org.pl/judgments/520518) | Uzasadnienie
+- 2024-10-02 | SO | [VIII Pa 258/24](https://www.saos.org.pl/judgments/520515) | Uzasadnienie
+- 2024-10-02 | SO | [VIII Pa 221/24](https://www.saos.org.pl/judgments/520148) | Uzasadnienie
+- 2024-10-02 | SO | [IX P 89/24](https://www.saos.org.pl/judgments/509480) | Zarządzenie
+- 2024-10-02 | SO | [IX P 561/24](https://www.saos.org.pl/judgments/509460) | Zarządzenie
+- 2024-10-01 | SO | [VIII Pa 342/24](https://www.saos.org.pl/judgments/520150) | Uzasadnienie
+- 2024-10-01 | SO | [IX P 306/24](https://www.saos.org.pl/judgments/509405) | Zarządzenie
+- 2024-09-30 | SO | [VI P 511/24](https://www.saos.org.pl/judgments/530407) | Wyrok
+- 2024-09-30 | SO | [VIII Pa 344/24](https://www.saos.org.pl/judgments/520574) | Uzasadnienie
+- 2024-09-30 | SO | [IX P 63/24](https://www.saos.org.pl/judgments/509469) | Zarządzenie
+- 2024-09-27 | SO | [VI P 371/24](https://www.saos.org.pl/judgments/530405) | Wyrok
+- 2024-09-27 | SO | [VI P 366/24](https://www.saos.org.pl/judgments/530404) | Wyrok
+- 2024-09-26 | SO | [VI P 292/24](https://www.saos.org.pl/judgments/528878) | Wyrok
+- 2024-09-25 | SO | [VIII Pa 297/24](https://www.saos.org.pl/judgments/521576) | Uzasadnienie
+- 2024-09-25 | SO | [XIV Pa 168/24](https://www.saos.org.pl/judgments/520629) | Wyrok
+- 2024-09-24 | SO | [IX P 368/23](https://www.saos.org.pl/judgments/509424) | Zarządzenie
+- 2024-09-23 | SO | [VIII Pa 331/24](https://www.saos.org.pl/judgments/521957) | Uzasadnienie
+- 2024-09-23 | SO | [VIII Pa 214/24](https://www.saos.org.pl/judgments/521573) | Uzasadnienie
+- 2024-09-18 | SO | [IV P 426/24](https://www.saos.org.pl/judgments/508744) | Wyrok
+- 2024-09-16 | SO | [VIII Pa 132/24](https://www.saos.org.pl/judgments/521953) | Uzasadnienie
+- 2024-09-09 | SO | [VIII Pa 171/24](https://www.saos.org.pl/judgments/522120) | Uzasadnienie
+- 2024-09-05 | SO | [VIII Pa 188/24](https://www.saos.org.pl/judgments/517461) | Uzasadnienie
+- 2024-09-04 | SO | [IX P 46/23](https://www.saos.org.pl/judgments/509450) | Zarządzenie
+- 2024-09-04 | SO | [IX P 278/23](https://www.saos.org.pl/judgments/509400) | Zarządzenie
+- 2024-09-03 | SO | [VIII Pa 261/24](https://www.saos.org.pl/judgments/521838) | Uzasadnienie
+- 2024-09-03 | SO | [VIII Pa 175/24](https://www.saos.org.pl/judgments/520571) | Uzasadnienie
+- 2024-08-28 | SO | [IX P 234/24](https://www.saos.org.pl/judgments/509383) | Zarządzenie
+- 2024-08-27 | SO | [VIII Pa 173/24](https://www.saos.org.pl/judgments/522248) | Uzasadnienie
+- 2024-08-27 | SO | [VIII Pa 180/24](https://www.saos.org.pl/judgments/522122) | Uzasadnienie
+- 2024-08-27 | SO | [VIII Pa 130/24](https://www.saos.org.pl/judgments/522115) | Uzasadnienie
+- 2024-08-27 | SO | [IX P 237/24](https://www.saos.org.pl/judgments/509385) | Zarządzenie
+- 2024-08-22 | SO | [VIII Pa 159/24](https://www.saos.org.pl/judgments/522117) | Uzasadnienie
+- 2024-08-21 | SO | [VIII Pa 257/24](https://www.saos.org.pl/judgments/517465) | Uzasadnienie
+- 2024-08-21 | SO | [VIII Pa 244/24](https://www.saos.org.pl/judgments/512951) | Uzasadnienie
+- 2024-08-19 | SO | [IV P 172/24](https://www.saos.org.pl/judgments/508697) | Wyrok
+- 2024-08-19 | SO | [IV P 163/24](https://www.saos.org.pl/judgments/508692) | Wyrok
+- 2024-08-19 | SO | [IV P 146/24](https://www.saos.org.pl/judgments/508683) | Wyrok
+- 2024-08-12 | SO | [VIII Pa 270/24](https://www.saos.org.pl/judgments/512956) | Uzasadnienie
+- 2024-08-01 | SO | [VIII Pa 169/24](https://www.saos.org.pl/judgments/522060) | Uzasadnienie
+- 2024-07-25 | SO | [IX P 495/23](https://www.saos.org.pl/judgments/509453) | Zarządzenie
+- 2024-07-23 | SO | [VIII Pa 124/24](https://www.saos.org.pl/judgments/521834) | Uzasadnienie
+- 2024-07-23 | SO | [VIII Pa 136/24](https://www.saos.org.pl/judgments/517458) | Uzasadnienie
+- 2024-07-19 | SO | [IX P 382/22](https://www.saos.org.pl/judgments/509432) | Zarządzenie
+- 2024-07-18 | SO | [VIII Pa 204/24](https://www.saos.org.pl/judgments/517463) | Uzasadnienie
+- 2024-07-18 | SO | [VIII Pa 156/24](https://www.saos.org.pl/judgments/517459) | Uzasadnienie
+- 2024-07-17 | SO | [VIII Pa 122/24](https://www.saos.org.pl/judgments/517455) | Uzasadnienie
+- 2024-07-16 | SO | [VIII Pa 87/24](https://www.saos.org.pl/judgments/517473) | Uzasadnienie
+- 2024-07-16 | SO | [VIII Pa 79/24](https://www.saos.org.pl/judgments/517469) | Uzasadnienie
+- 2024-07-11 | SO | [VIII Pa 131/24](https://www.saos.org.pl/judgments/512930) | Uzasadnienie
+- 2024-07-08 | SO | [VIII Pa 77/24](https://www.saos.org.pl/judgments/513032) | Uzasadnienie
+- 2024-07-08 | SO | [VIII Pa 177/24](https://www.saos.org.pl/judgments/512939) | Uzasadnienie
+- 2024-07-03 | SO | [IV Pa 39/24](https://www.saos.org.pl/judgments/508850) | Wyrok
+- 2024-07-03 | SO | [IV Pa 30/24](https://www.saos.org.pl/judgments/508831) | Wyrok
+- 2024-06-28 | SO | [VIII Pa 86/24](https://www.saos.org.pl/judgments/520154) | Uzasadnienie
+- 2024-06-26 | SO | [IV P 158/24](https://www.saos.org.pl/judgments/520874) | Wyrok
+- 2024-06-26 | SO | [IV P 157/24](https://www.saos.org.pl/judgments/520873) | Wyrok
+- 2024-06-26 | SO | [VIII Pa 80/24](https://www.saos.org.pl/judgments/517472) | Uzasadnienie
+- 2024-06-26 | SO | [VIII Pa 63/24](https://www.saos.org.pl/judgments/513005) | Uzasadnienie
+- 2024-06-26 | SO | [VIII Pa 146/24](https://www.saos.org.pl/judgments/512935) | Uzasadnienie
+- 2024-06-26 | SO | [VIII Pa 109/24](https://www.saos.org.pl/judgments/512905) | Uzasadnienie
+- 2024-06-26 | SO | [IV P 147/24](https://www.saos.org.pl/judgments/508684) | Wyrok
+- 2024-06-25 | SO | [VIII Pa 135/24](https://www.saos.org.pl/judgments/512931) | Uzasadnienie
+- 2024-06-20 | SO | [VIII Pa 66/24](https://www.saos.org.pl/judgments/513012) | Uzasadnienie
+- 2024-06-19 | SO | [IX P 479/23](https://www.saos.org.pl/judgments/509452) | Zarządzenie
+- 2024-06-19 | SO | [IX P 18/24](https://www.saos.org.pl/judgments/509366) | Zarządzenie
+- 2024-06-18 | SO | [VIII Pa 74/24](https://www.saos.org.pl/judgments/513025) | Uzasadnienie
+- 2024-06-18 | SO | [VIII Pa 45/24](https://www.saos.org.pl/judgments/512981) | Uzasadnienie
+- 2024-06-18 | SO | [VIII Pa 102/24](https://www.saos.org.pl/judgments/512890) | Uzasadnienie
+- 2024-06-17 | SO | [VIII Pa 98/24](https://www.saos.org.pl/judgments/517476) | Uzasadnienie
+- 2024-06-17 | SO | [VIII Pa 81/24](https://www.saos.org.pl/judgments/513038) | Uzasadnienie
+- 2024-06-17 | SO | [VIII Pa 106/24](https://www.saos.org.pl/judgments/512898) | Uzasadnienie
+- 2024-06-07 | SO | [IV Pa 78/24](https://www.saos.org.pl/judgments/508889) | Wyrok
+- 2024-06-07 | SO | [IV Pa 71/24](https://www.saos.org.pl/judgments/508885) | Wyrok
+- 2024-06-07 | SO | [IV Pa 65/24](https://www.saos.org.pl/judgments/508876) | Wyrok
+- 2024-06-06 | SO | [VIII Pa 104/24](https://www.saos.org.pl/judgments/512896) | Uzasadnienie
+- 2024-06-05 | SO | [IV P 84/24](https://www.saos.org.pl/judgments/508790) | Wyrok
+- 2024-06-05 | SO | [IV P 127/24](https://www.saos.org.pl/judgments/508678) | Wyrok
+- 2024-05-31 | SO | [VIII Pa 38/24](https://www.saos.org.pl/judgments/512971) | Uzasadnienie
+- 2024-05-29 | SO | [VIII Pa 73/24](https://www.saos.org.pl/judgments/513023) | Uzasadnienie
+- 2024-05-24 | SO | [VIII Pa 56/24](https://www.saos.org.pl/judgments/513000) | Uzasadnienie
+- 2024-05-23 | SO | [VIII Pa 46/24](https://www.saos.org.pl/judgments/512985) | Uzasadnienie
+- 2024-05-21 | SO | [VIII Pa 82/24](https://www.saos.org.pl/judgments/513040) | Uzasadnienie
+- 2024-05-20 | SO | [VIII Pa 76/24](https://www.saos.org.pl/judgments/513026) | Uzasadnienie
+- 2024-05-20 | SO | [IX P 240/23](https://www.saos.org.pl/judgments/509387) | Zarządzenie
+- 2024-05-13 | SO | [IV Pa 69/24](https://www.saos.org.pl/judgments/508880) | Wyrok
+- 2024-05-08 | SO | [IV Pa 56/24](https://www.saos.org.pl/judgments/508865) | Wyrok
+- 2024-05-08 | SO | [IV P 60/24](https://www.saos.org.pl/judgments/508770) | Wyrok
+- 2024-05-07 | SO | [IV Pa 64/24](https://www.saos.org.pl/judgments/508874) | Wyrok
+- 2024-04-30 | SO | [VIII Pa 35/24](https://www.saos.org.pl/judgments/512966) | Uzasadnienie
+- 2024-04-29 | SO | [IV Pa 67/24](https://www.saos.org.pl/judgments/508878) | Wyrok
+- 2024-04-25 | SO | [VIII Pa 34/24](https://www.saos.org.pl/judgments/512964) | Uzasadnienie
+- 2024-04-24 | SO | [IV P 52/24](https://www.saos.org.pl/judgments/508763) | Wyrok
+- 2024-04-23 | SO | [VII P 179/23](https://www.saos.org.pl/judgments/511779) | Uzasadnienie
+- 2024-04-22 | SO | [VIII Pa 43/24](https://www.saos.org.pl/judgments/512977) | Uzasadnienie
+- 2024-04-15 | SO | [IV Pa 36/24](https://www.saos.org.pl/judgments/508844) | Wyrok
+- 2024-04-11 | SO | [IV P 188/23](https://www.saos.org.pl/judgments/520878) | Wyrok
+- 2024-04-11 | SO | [IV P 185/23](https://www.saos.org.pl/judgments/520877) | Wyrok
+- 2024-04-11 | SO | [IV P 183/23](https://www.saos.org.pl/judgments/520876) | Wyrok
+- 2024-04-11 | SO | [IV P 182/23](https://www.saos.org.pl/judgments/520875) | Wyrok
+- 2024-04-11 | SO | [IV P 7/24](https://www.saos.org.pl/judgments/508778) | Wyrok
+- 2024-04-11 | SO | [IV P 5/24](https://www.saos.org.pl/judgments/508759) | Wyrok
+- 2024-04-09 | SO | [IV Pa 9/24](https://www.saos.org.pl/judgments/508891) | Wyrok
+- 2024-04-09 | SO | [IV Pa 40/24](https://www.saos.org.pl/judgments/508852) | Wyrok
+- 2024-04-09 | SO | [IV Pa 38/24](https://www.saos.org.pl/judgments/508848) | Wyrok
+- 2024-04-09 | SO | [IV Pa 37/24](https://www.saos.org.pl/judgments/508847) | Wyrok
+- 2024-04-04 | SO | [IV P 34/24](https://www.saos.org.pl/judgments/508730) | Wyrok
+- 2024-04-04 | SO | [IV P 27/24](https://www.saos.org.pl/judgments/508719) | Wyrok
+- 2024-04-04 | SO | [IV P 23/24](https://www.saos.org.pl/judgments/508712) | Wyrok
+- 2024-04-04 | SO | [IV P 20/24](https://www.saos.org.pl/judgments/508705) | Wyrok
+- 2024-04-02 | SO | [IV Pa 35/24](https://www.saos.org.pl/judgments/508840) | Wyrok
+- 2024-03-29 | SO | [IV Pa 24/24](https://www.saos.org.pl/judgments/508821) | Wyrok
+- 2024-03-28 | SO | [III Pa 3/24](https://www.saos.org.pl/judgments/523754) | Wyrok
+- 2024-03-26 | SO | [IV P 119/23](https://www.saos.org.pl/judgments/508674) | Wyrok
+- 2024-03-22 | SO | [VI Pa 102/23](https://www.saos.org.pl/judgments/511419) | Wyrok
+- 2024-03-20 | SO | [IV P 191/23](https://www.saos.org.pl/judgments/508701) | Wyrok
+- 2024-03-13 | SO | [VI Pa 16/24](https://www.saos.org.pl/judgments/511427) | Wyrok
+- 2024-03-07 | SO | [IX P 186/23](https://www.saos.org.pl/judgments/509369) | Zarządzenie
+- 2024-03-07 | SO | [IV Pa 6/24](https://www.saos.org.pl/judgments/508869) | Wyrok
+- 2024-03-05 | SO | [IV Pa 14/24](https://www.saos.org.pl/judgments/508804) | Wyrok
+- 2024-03-04 | SO | [IV Pa 37/23](https://www.saos.org.pl/judgments/508846) | Wyrok
+- 2024-02-29 | SO | [IV P 413/23](https://www.saos.org.pl/judgments/508740) | Wyrok
+- 2024-02-28 | SO | [IV P 445/23](https://www.saos.org.pl/judgments/508751) | Wyrok
+- 2024-02-20 | SO | [IV Pa 65/23](https://www.saos.org.pl/judgments/508875) | Wyrok
+- 2024-02-12 | SO | [IV P 421/23](https://www.saos.org.pl/judgments/508742) | Wyrok
+- 2024-02-01 | SO | [IV Pa 7/24](https://www.saos.org.pl/judgments/508882) | Wyrok
+- 2024-01-23 | SO | [IV Pa 44/23](https://www.saos.org.pl/judgments/508853) | Wyrok
+- 2024-01-19 | SO | [IV Pa 71/23](https://www.saos.org.pl/judgments/508884) | Wyrok
+- 2024-01-12 | SO | [VII P 545/23](https://www.saos.org.pl/judgments/511805) | Wyrok
+- 2024-01-10 | SO | [IV Pa 36/23](https://www.saos.org.pl/judgments/508843) | Wyrok
+- 2024-01-08 | SO | [IV Pa 54/23](https://www.saos.org.pl/judgments/508863) | Wyrok
+- 2023-12-28 | SO | [IV Pa 59/23](https://www.saos.org.pl/judgments/508868) | Wyrok
+- 2023-12-28 | SO | [IV Pa 37/23](https://www.saos.org.pl/judgments/508845) | Wyrok
+- 2023-12-20 | SO | [IV Pa 62/23](https://www.saos.org.pl/judgments/508871) | Wyrok
+- 2023-12-11 | SO | [IV Pa 61/23](https://www.saos.org.pl/judgments/508870) | Wyrok
+- 2023-12-07 | SO | [IV Pa 28/23](https://www.saos.org.pl/judgments/508825) | Wyrok
+- 2023-12-07 | SO | [IV Pa 27/23](https://www.saos.org.pl/judgments/508824) | Wyrok
+- 2023-12-05 | SO | [IV Pa 29/23](https://www.saos.org.pl/judgments/508827) | Wyrok
+- 2023-11-29 | SO | [VII P 476/23](https://www.saos.org.pl/judgments/511801) | Wyrok
+- 2023-11-14 | SO | [VII P 436/23](https://www.saos.org.pl/judgments/511792) | Wyrok
+- 2023-11-13 | SO | [VII P 486/23](https://www.saos.org.pl/judgments/511803) | Wyrok
+- 2023-11-07 | SO | [VII P 432/23](https://www.saos.org.pl/judgments/511791) | Wyrok
+- 2023-11-07 | SO | [IV P 237/23](https://www.saos.org.pl/judgments/508713) | Wyrok
+- 2023-10-18 | SO | [VII P 339/23](https://www.saos.org.pl/judgments/511789) | Wyrok
+- 2023-10-16 | SO | [VII P 466/23](https://www.saos.org.pl/judgments/511799) | Wyrok
+- 2023-10-09 | SO | [IV P 167/23](https://www.saos.org.pl/judgments/508693) | Wyrok
+- 2023-10-04 | SO | [IV P 94/23](https://www.saos.org.pl/judgments/508796) | Wyrok
+- 2023-09-13 | SO | [IX P 55/23](https://www.saos.org.pl/judgments/493195) | Zarządzenie
+- 2023-09-08 | SO | [IV P 140/23](https://www.saos.org.pl/judgments/508681) | Wyrok
+- 2023-03-13 | SO | [IV P 300/22](https://www.saos.org.pl/judgments/486715) | Wyrok
+- 2021-02-10 | SO | [VIII Pa 62/20](https://www.saos.org.pl/judgments/435631) | Wyrok
+- 2017-01-26 | SO | [III K 895/16](https://www.saos.org.pl/judgments/275651) | Wyrok
+- 2015-12-17 | SO | [VI P 934/14](https://www.saos.org.pl/judgments/198339) | Wyrok
+- 2015-12-02 | SO | [I C 363/15](https://www.saos.org.pl/judgments/194286) | Wyrok
+- 2015-05-22 | SO | [IV P 160/14](https://www.saos.org.pl/judgments/186505) | Zarządzenie
+- 2015-04-08 | SO | [IV Pa 10/15](https://www.saos.org.pl/judgments/152095) | Wyrok
+- 2013-09-11 | SO | [X P 1054/12](https://www.saos.org.pl/judgments/22355) | Wyrok
+

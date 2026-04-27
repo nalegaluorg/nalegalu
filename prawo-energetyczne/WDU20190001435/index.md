@@ -1,0 +1,32 @@
+---
+title: "Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy - Prawo energetyczne"
+address: WDU20190001435
+eli: DU/2019/1435
+publisher: DU
+year: 2019
+pos: 1435
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# Ustawa z dnia 4 lipca 2019 r. o zmianie ustawy - Prawo energetyczne
+
+*USTAWA dnia 4 lipca 2019 zmianie ustawy Prawo energetyczne*
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2019 poz. 1435 |
+| ISAP | WDU20190001435 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2019-07-04 |
+| Data wydania | 2019-08-01 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20190001435) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2019/1435/text.pdf) |
+
+**Art. 1.** ustawie dnia 10 kwietnia 1997 Prawo energetyczne (Dz. U. 2019 poz. 755 i 730) wprowadza się następujące zmiany:
+
+**Art. 3.** Ustawa wchodzi życie dniem następującym po dniu ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+

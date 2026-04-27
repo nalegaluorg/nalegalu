@@ -1,0 +1,240 @@
+---
+title: "Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiej z dnia 31 marca 2021 r. w sprawie ogłoszenia jednolitego tekstu ustawy o szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa"
+address: WDU20210000795
+eli: DU/2021/795
+publisher: DU
+year: 2021
+pos: 795
+act_type: Obwieszczenie
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 29 kwietnia 2021 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2021 poz. 795 |
+| ISAP | WDU20210000795 |
+| Typ aktu | Obwieszczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2021-03-31 |
+| Data wydania | 2021-04-29 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210000795) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/795/text.pdf) |
+
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 31 marca 2021 r.
+sprawie ogłoszenia jednolitego tekstu ustawy szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa Na podstawie 16 ust. zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 marca 2017 r. szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa (Dz. U. z 2018 r. poz. 2267), z uwzględnieniem zmian wprowadzonych ustawą z dnia 17 września 2020 r. zmianie ustawy szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, ustawy komercjalizacji i niektórych uprawnieniach pracowników oraz ustawy gospodarce nieruchomościami (Dz. U. poz. 1709) oraz zmian wynikających z przepisów ogłoszonych przed dniem 25 marca 2021 r.
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje 4−11 ustawy z dnia 17 września 2020 r. zmianie ustawy szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa, ustawy komercjalizacji i niektórych uprawnieniach pracowników oraz ustawy gospodarce nieruchomościami (Dz. U. poz. 1709), które stanowią: „Art. 4. Okres, którym 6 ustawy z dnia 26 stycznia 2018 r. zmianie ustawy szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa oraz niektórych innych ustaw (Dz. U. poz. 431), uznaje się za okres składkowy rozumieniu 6 ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U.
+z 2020 r. poz. 53, 252, 568, 1222 i 1578). Nieopłacone składki na ubezpieczenia społeczne i ubezpieczenie zdrowotne za członków Komisji do spraw usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa za okres od dnia ich powołania do dnia 13 marca 2018 r., części finansowanej płatnika składek oraz pracownika, uiści urząd obsługujący Ministra Sprawiedliwości terminie 30 dni od dnia wejścia życie niniejszej ustawy. Wypłacone wynagrodzenia członków Komisji do spraw usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa za okres od dnia ich powołania do dnia 13 marca 2018 r. nie podlegają zwrotowi.
+Art. Ustawa określa:
+1) szczególny tryb postępowania przedmiocie usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa;
+2) organ właściwy do prowadzenia postępowania, którym 1;
+3) skutki cywilnoprawne decyzji wydanych postępowaniu, którym
+
+**Art. 5.** W terminie 14 dni od dnia wejścia życie niniejszej ustawy m.st. Warszawa przekaże środki, których 32 ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, na rachunek Funduszu Reprywatyzacji, którym 56 ust. ustawy zmienianej 2, brzmieniu nadanym niniejszą ustawą.
+
+**Art. 6.** Do spraw i postępowań wszczętych i niezakończonych do dnia wejścia życie niniejszej ustawy stosuje się przepisy ustaw zmienianych i 3, brzmieniu nadanym niniejszą ustawą. 2. Wszczęte i niezakończone do dnia wejścia życie niniejszej ustawy postępowania sądowe odszkodowanie lub zadośćuczynienie, którym 33 ustawy zmienianej 1, brzmieniu dotychczasowym, wszczęte wskutek wniesienia sprzeciwu wyłącznie m.st. Warszawę na podstawie 34 ust. 3 ustawy zmienianej 1, brzmieniu dotychczasowym, podlegają umorzeniu z mocy prawa z dniem wejścia życie niniejszej ustawy. 3. W przedmiocie umorzenia postępowania, którym ust. 2, sąd wydaje postanowienie, które nie pod4. Uprawnienia, których 3 ust. 4 ustawy zmienianej 1, brzmieniu dotychczasowym, Komisja do spraw reprywatyzacji nieruchomości warszawskich zachowuje do czasu zakończenia postępowań wszczętych i niezakończonych do dnia wejścia życie niniejszej ustawy.
+
+**Art. 7.** Decyzje wydane do dnia wejścia życie niniejszej ustawy na podstawie 34 ust. ustawy zmienianej 1, brzmieniu dotychczasowym, od których został wniesiony sprzeciw wyłącznie m.st. Warszawę na podstawie 34 ust. 3 ustawy zmienianej 1, brzmieniu dotychczasowym, uważa się za ostateczne i prawomocne.
+
+**Art. 8.** Minister właściwy do spraw finansów publicznych wypłaca terminie 30 dni od dnia wejścia życie niniejszego przepisu odszkodowania i zadośćuczynienia przysługujące na podstawie decyzji, których 7.
+
+**Art. 9.** W przypadku śmierci osoby, Komisja do spraw reprywatyzacji nieruchomości warszawskich przyznała decyzją, 7, odszkodowanie lub zadośćuczynienie, świadczenie wypłacane jest na rzecz jej następców prawnych, trybie określonym 8.
+
+**Art. 10.** Przepis 40e ustawy zmienianej 1, brzmieniu nadanym niniejszą ustawą, stosuje się także do decyzji wydanych Komisję do spraw reprywatyzacji nieruchomości warszawskich na podstawie 40e ust. ustawy zmienianej przed dniem wejścia życie niniejszej ustawy.
+
+**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem 8 i 10, które wchodzą życie po upływie 30 dni od dnia ogłoszenia.”. Marszałek Sejmu: E. Witek USTAWA z dnia 9 marca 2017 r. szczególnych zasadach usuwania skutków prawnych decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich, wydanych z naruszeniem prawa
+
+#### Rozdział Przepisy ogólne
+
+**Art. 2.** Ilekroć niniejszej ustawie jest o:
+
+#### Rozdział 2 Komisja do spraw reprywatyzacji nieruchomości warszawskich
+
+**Art. 3.** Tworzy się Komisję do spraw reprywatyzacji nieruchomości warszawskich, zwaną dalej „Komisją”. 2. Zadaniem Komisji jest wyjaśnianie nieprawidłowości i uchybień działalności organów i osób prowadzących postępowania przedmiocie wydawania decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich oraz występowanie do właściwych organów razie stwierdzenia toku postępowania przed Komisją istnienia okoliczności sprzyjających wydawaniu decyzji reprywatyzacyjnych z naruszeniem prawa lub popełnianiu przestępstw bądź utrudniających ich ujawnianie. 3. Komisja jest organem administracji publicznej stojącym na straży interesu publicznego, zakresie postępowań przedmiocie wydania decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich. 4. (uchylony)
+
+**Art. 4.** W skład Komisji wchodzi przewodniczący powoływany i odwoływany Prezesa Rady Ministrów, na wniosek Ministra Sprawiedliwości złożony porozumieniu z Ministrem Spraw Wewnętrznych i Administracji, oraz 8 członków randze sekretarza stanu powoływanych i odwoływanych Sejm Rzeczypospolitej Polskiej. 2. W skład Komisji może zostać powołana osoba, która:
+
+**Art. 4a.** Przewodniczący Komisji kieruje jej pracami, reprezentuje Komisję na zewnątrz oraz wykonuje inne czynności przewidziane ustawie oraz regulaminie działania Komisji. 2. Komisja może, na wniosek przewodniczącego Komisji, powołać ze swojego grona do dwóch zastępców przewodniczącego. 3. Przewodniczący Komisji może upoważnić członka Komisji do wykonywania niektórych czynności przewodniczącego Komisji. 4. Przewodniczący Komisji lub jego zastępca może udzielić pełnomocnictwa adwokatowi lub radcy prawnemu do reprezentowania Komisji przed sądami powszechnymi, sądami administracyjnymi, Sądem Najwyższym, Trybunałem Konstytucyjnym oraz zagranicznymi organami sądowymi.
+
+**Art. 5.** Przewodniczącemu Komisji przysługuje ryczałtowa miesięczna dieta wysokości 3-krotności minimalnego wynagrodzenia za pracę ustalonego na podstawie przepisów ustawy z dnia 10 października 2002 r. minimalnym wynagrodzeniu za pracę (Dz. U. z 2020 r. poz. 2207). 2. Do członków Komisji powoływanych Sejm Rzeczypospolitej Polskiej nie stosuje się przepisów 3b, 5 i 5b ustawy z dnia 31 lipca 1981 r. wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. z 2020 r. poz. 1637). 2a. Członków Komisji zakresie ubezpieczeń społecznych i ubezpieczenia zdrowotnego traktuje się jak pracowników. 2b. Płatnikiem składek na ubezpieczenia społeczne i ubezpieczenie zdrowotne za członków Komisji jest urząd obsługujący Ministra Sprawiedliwości. 3. Obsługę merytoryczną, administracyjną i biurową Komisji zapewnia urząd obsługujący Ministra Sprawiedliwości. Przewodniczący Komisji może upoważniać pracownika urzędu do załatwiania określonych spraw jego imieniu, szczególności do wydawania zaświadczeń oraz do poświadczania odpisów dokumentów za zgodność z oryginałem na potrzeby prowadzonych postępowań. 4. Finansowanie Komisji następuje z budżetu państwa z części 37 Sprawiedliwość. 5. Minister Sprawiedliwości określa regulamin działania Komisji drodze zarządzenia.
+
+**Art. 6.** Przewodniczący oraz członkowie Komisji nie mogą być pociągnięci do odpowiedzialności za swoją działalność wchodzącą zakres sprawowania funkcji Komisji.
+
+**Art. 7.** Przewodniczący oraz członek Komisji składa oświadczenie tym, czy:
+
+**Art. 8.** Przy Komisji działa Społeczna Rada, będąca organem opiniodawczo-doradczym Komisji. 2. Członków Społecznej Rady, liczbie do 9 osób, powołuje i odwołuje Minister Sprawiedliwości porozumieniu z Ministrem Spraw Wewnętrznych i Administracji spośród członków organizacji pozarządowych prowadzących działalność pożytku publicznego, a także stowarzyszeń, których statutowym celem jest szczególności działalność wspomagająca rozwój wspólnot i społeczności lokalnych, zwiększanie świadomości prawnej społeczeństwa oraz kształtowanie kompetencji obywatelskich.
+
+**Art. 8a.**
+
+- **3)** Członkom Społecznej Rady przysługuje ryczałtowa miesięczna dieta wysokości 10,56% przeciętnego wynagrodzenia drugim kwartale roku poprzedniego, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” Prezesa Głównego Urzędu Statystycznego na podstawie 20 2 ustawy z dnia 17 grudnia 1998 r. emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2021 r. poz. 291 i 353).
+
+#### Rozdział 3 Postępowanie przed Komisją
+
+**Art. 9.** Komisja wydaje decyzje i postanowienia oraz podejmuje uchwały, których 37c ust. 2. Przewodniczący Komisji może wydawać zarządzenia.
+
+**Art. 10.** Komisja wydaje decyzje i postanowienia oraz podejmuje uchwały, których 37c ust. 1, większością głosów, głosowaniu jawnym, obecności co najmniej 5 członków Komisji, tym przewodniczącego Komisji. 2. W razie równej liczby głosów rozstrzyga głos przewodniczącego Komisji. 3. Decyzje, postanowienia oraz uchwały, których 37c ust. 1, podpisuje przewodniczący Komisji. 4. Decyzje Komisji, z wyłączeniem decyzji, których 34 ust. 3, oraz postanowienia są ostateczne.
+
+**Art. 11.** Komisja wydaje decyzję po zasięgnięciu opinii Społecznej Rady. 2. Społeczna Rada wydaje opinię terminie 14 dni od dnia otrzymania wniosku Komisji jej wydanie. Na wniosek Społecznej Rady przewodniczący Komisji może przedłużyć termin do wydania opinii. 3. Niewydanie opinii Społeczną Radę terminie, którym ust. 2, nie wstrzymuje wydania decyzji Komisję. 4. Przepisu 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+
+**Art. 12.** Organy administracji rządowej i samorządowej, podległe im jednostki organizacyjne, organy samorządów zawodowych, a także inne jednostki organizacyjne i instytucje, na wniosek przewodniczącego Komisji, udzielają Komisji, ramach swoich kompetencji i terminie wskazanym we wniosku, wszelkiej pomocy przy wykonywaniu zadań, szczególności przedstawiają informacje i dokumenty oraz wydają opinie. 1a. Na wniosek przewodniczącego Komisji prezes właściwego sądu przekazuje niezbędne dokumenty z akt sprawy lub ich kopie, a także przesyła akta albo ich kopie całości lub określonej części. W wypadku sprawy toku lub postępowania niezakończonego prawomocnym orzeczeniem prezes sądu może przekazać zamiast dokumentów lub akt ich kopie. 2. Podmioty, których ust. i 1a, przekazują Komisji akta postępowań sądowych, akta postępowań przedmiocie wydania decyzji reprywatyzacyjnych albo innych postępowań administracyjnych lub inne dokumenty terminie wskazanym we wniosku przewodniczącego Komisji.
+
+**Art. 12a.** Komisja ma dostęp do aktualnych i pełnych danych i informacji zawartych w:
+
+**Art. 13.** Przewodniczący Komisji może wystąpić do prokuratora z wnioskiem przeszukanie pomieszczeń lub innych miejsc lub zajęcie rzeczy celu zabezpieczenia dowodu sprawie lub zabezpieczenia zwrotu równowartości nienależnego świadczenia, którym 31 ust. 2. Prokurator może wydać postanowienie przeszukaniu pomieszczeń lub innych miejsc lub zajęciu rzeczy celu zabezpieczenia dowodu sprawie lub zabezpieczenia zwrotu równowartości nienależnego świadczenia, którym 31 ust. 1, jeśli jest to niezbędne dla zabezpieczenia prawidłowego toku postępowania. Przepisy 217, 219, 220–234 i 236 § ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. z 2021 r. poz. 534) stosuje się odpowiednio. 3. Prokurator przekazuje Komisji zajęte rzeczy. Postanowienie zwrocie rzeczy prokurator wydaje po zasięgnięciu opinii Komisji.
+
+**Art. 14.** Na wniosek przewodniczącego Komisji albo z urzędu prokurator przekazuje Komisji informacje toczącym się:
+
+**Art. 14a.** Komisja celu realizacji zadań wynikających z ustawy może korzystać z danych osobie uzyskanych na podstawie 12 ust. i 1a oraz 14 oraz przetwarzać je bez wiedzy i zgody osoby, te dane dotyczą.
+
+**Art. 15.** Komisja przeprowadza czynności sprawdzające oraz prowadzi postępowanie rozpoznawcze i ogólne. Komisja przeprowadza z urzędu czynności sprawdzające celu stwierdzenia, czy związku z wydaniem decyzji reprywatyzacyjnej istnieją podstawy do wszczęcia postępowania rozpoznawczego. Komisja może powierzyć przeprowadzenie czynności sprawdzających wyznaczonemu członkowi albo wyznaczonym członkom Komisji. 2. Komisja wyniku przeprowadzenia czynności sprawdzających wydaje postanowienie wszczęciu postępowania rozpoznawczego przypadku uprawdopodobnienia, że decyzja reprywatyzacyjna została wydana z naruszeniem prawa. Nie wszczyna się postępowania rozpoznawczego, jeżeli uprawdopodobnienie dotyczy wyłącznie braku zbadania przesłanki posiadania, którym 30 ust. 4b, a z akt sprawy zgromadzonych na etapie czynności sprawdzających wynika, że dotychczasowy właściciel lub jego następcy prawni, których 7 ust. dekretu, przesłankę posiadania spełnili. Jeśli z akt sprawy zgromadzonych na etapie czynności sprawdzających wynika, iż decyzja reprywatyzacyjna wywołała nieodwracalne skutki prawne, postępowanie rozpoznawcze można ograniczyć do wszczęcia postępowania jedynie przedmiocie nałożenia obowiązku zwrotu równowartości nienależnego świadczenia, którym 31. 3. Postanowienie, którym ust. 2, zawiera co najmniej oznaczenie nieruchomości warszawskiej, dotyczy postępowanie, według księgi wieczystej oraz ewidencji gruntów i budynków oraz dane stron postępowania, znane organowi dacie wszczęcia postępowania.
+
+**Art. 16.** Komisja wszczyna z urzędu postępowanie rozpoznawcze. 2. O wszczęciu postępowania rozpoznawczego Komisja zawiadamia m.st. Warszawę oraz pozostałe strony postępowania. Jeżeli decyzja reprywatyzacyjna została wydana inny organ, stroną postępowania przed Komisją jest ten organ albo inny organ właściwy do rozpoznania sprawy. 3. Strony mogą być zawiadamiane wszczęciu postępowania, decyzjach i innych czynnościach Komisji poprzez ogłoszenie Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości. 4. Przepis ust. 3 stosuje się odpowiednio do wezwania strony lub świadka na rozprawę. Zawiadomienie lub doręczenie zawiadomienia lub wezwania uważa się za dokonane po upływie 7 dni od dnia publicznego ogłoszenia.
+
+**Art. 16a.** Komisja może wszcząć postępowanie rozpoznawcze razie wniesienia prokuratora sprzeciwu od ostatecznej decyzji reprywatyzacyjnej do organu właściwego do wznowienia postępowania albo uchylenia lub zmiany tej decyzji. 2. W razie wszczęcia postępowania rozpoznawczego sprawie, ust. 1, prokuratorowi służą prawa strony. 3. W postępowaniu, którym ust. 1, nie stosuje się 184 § 2 i 185 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego.
+
+**Art. 16b.** Prokurator niezwłocznie zawiadamia Komisję wniesieniu sprzeciwu, którym 16a ust. Do zawiadomienia dołącza się odpis sprzeciwu.
+
+**Art. 17.** W toku postępowania rozpoznawczego Komisja może przeprowadzić rozprawę. 2. Rozprawa przed Komisją jest jawna. 3. Komisja może wyłączyć jawność rozprawy całości lub części ze względu na bezpieczeństwo państwa, zagrożenie spokoju, moralności i porządku publicznego, a także jeżeli toku rozprawy mają być roztrząsane szczegóły życia rodzinnego lub rozpatrywane informacje stanowiące tajemnicę podlegającą ochronie na podstawie odrębnych przepisów lub informacje stanowiące dane, których 27 ust. ustawy z dnia 29 sierpnia 1997 r. ochronie danych osobowych (Dz. U. z 2016 r. poz. 922 oraz z 2018 r. poz. 138 i 723) . 4. Komisja rozstrzyga wyłączeniu jawności rozprawy postanowieniem. 5. Podczas rozprawy odbywającej się z wyłączeniem jawności na sali mogą być obecni: strony, świadkowie, przedstawiciele ustawowi i pełnomocnicy stron, prokurator oraz wyznaczeni przewodniczącego Komisji pracownicy urzędu obsługującego Ministra Sprawiedliwości. 6. Postanowienia wyłączeniu jawności oraz decyzje kończące postępowanie sprawie ogłasza się Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości.
+
+**Art. 17a.** Dowodami postępowaniu rozpoznawczym mogą być szczególności: dokumenty, zeznania świadków, opinie biegłych, materiały i informacje zebrane wyniku oględzin oraz inne dokumenty zgromadzone toku postępowania karnego albo postępowania sprawach przestępstwa skarbowe lub wykroczenia skarbowe.
+
+**Art. 17b.** Przewodniczący Komisji zezwala przedstawicielom środków masowego przekazu na dokonywanie za pomocą aparatury utrwaleń obrazu i dźwięku z przebiegu rozprawy oraz transmisję audiowizualną za pośrednictwem sieci Internet. 2. Komisja może określić warunki udziału rozprawie przedstawicieli środków masowego przekazu. 3. Jeżeli ze względów techniczno-organizacyjnych obecność przedstawicieli środków masowego przekazu utrudnia przebieg rozprawy, Komisja ogranicza liczbę przedstawicieli środków masowego przekazu na sali, odbywa się rozprawa, i wskazuje uprawnionych do dokonywania za pomocą aparatury utrwaleń obrazu i dźwięku z przebiegu rozprawy oraz transmisji audiowizualnej za pośrednictwem sieci Internet według kolejności zgłoszeń lub na podstawie losowania. 4. Przewodniczący Komisji zarządza opuszczenie sali, odbywa się rozprawa, przedstawicieli środków masowego przekazu, którzy zakłócają przebieg rozprawy. 5. W razie gdyby obecność przedstawicieli środków masowego przekazu mogła oddziaływać krępująco na zeznania świadka, przewodniczący Komisji może zarządzić opuszczenie sali, odbywa się rozprawa, przedstawicieli środków masowego przekazu na czas przesłuchania świadka.
+
+**Art. 18.** Komisja może wezwać stronę albo osobę fizyczną działającą charakterze organu lub działającą jej imieniu albo z jej upoważnienia do stawienia się na rozprawę osobiście. Udział osoby wezwanej do stawienia się na rozprawę osobiście jest obowiązkowy niezależnie od miejsca zamieszkania. 2. Strona, która mimo prawidłowego wezwania nie stawiła się bez uzasadnionej przyczyny albo bez zezwolenia kierującego rozprawą opuściła rozprawę Komisji przed jej zakończeniem, może być ukarana grzywną do 10 000 zł, a razie ponownego niezastosowania się do wezwania grzywną do 30 000 zł. 3. Jeżeli stroną jest osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, Komisja może ukarać grzywną osobę, która według przepisów dotyczących ustroju danej osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej jest jej ustawowym reprezentantem, członkiem organu uprawnionego do jej reprezentowania lub jest upoważniona do prowadzenia jej spraw. Przepis ust. 2 stosuje się odpowiednio.
+
+**Art. 19.** Osoba wezwana Komisję charakterze świadka lub biegłego ma obowiązek niezależnie od swojego miejsca zamieszkania stawić się na wezwanie i złożyć zeznania. 2. Przed rozpoczęciem przesłuchania świadka należy pouczyć odpowiedzialności karnej na podstawie 233 § ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. z 2020 r. poz. 1444 i 1517). 3. Świadek lub biegły, który mimo prawidłowego wezwania nie stawił się bez uzasadnionej przyczyny, bez zezwolenia kierującego rozprawą opuścił rozprawę Komisji przed jej zakończeniem lub bezzasadnie odmówił złożenia zeznania albo wydania opinii, może być ukarany grzywną do 10 000 zł, a razie ponownego niezastosowania się do wezwania grzywną do 30 000 zł. 4. Do świadka wezwanego na rozprawę wyłącznie sposób, którym 16 ust. 4, przepisu ust. 3 zakresie karania grzywną za niestawienie się bez uzasadnionej przyczyny nie stosuje się.
+
+**Art. 20.** Komisja może na wniosek ukaranego, którym 18 ust. 2 lub 3 lub 19 ust. 3, złożony terminie 7 dni od dnia otrzymania zawiadomienia ukaraniu, uznać za usprawiedliwioną nieobecność, odmowę zeznania albo wydania opinii i zwolnić od grzywny. Przepisu 88 § i 2 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się. 2. Należności pieniężne z tytułu grzywny są dochodzone na podstawie tytułu wykonawczego wystawionego Komisję. Należności te stanowią dochód budżetu państwa.
+
+**Art. 20a.** W przypadkach określonych 18 ust. 2 i 3 oraz 19 ust. 3 razie ponownego niezastosowania się do wezwania Komisja może ponadto wystąpić do właściwego prokuratora okręgowego z wnioskiem zarządzenie zatrzymania i przymusowego doprowadzenia osoby wezwanej. Wniosek zawiera uzasadnienie. 2. Na zarządzenie prokuratora osobie, ust. 1, przysługuje zażalenie do sądu rejonowego, którego okręgu prowadzi się postępowanie.
+
+**Art. 21.** Do zabezpieczenia i egzekucji należności, których 18 ust. 2 i 19 ust. 3, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji (Dz. U. z 2020 r. poz. 1427, 1492 i 2320 oraz z 2021 r. poz. 11 i 41).
+
+**Art. 22.** Posiedzenia Komisji wyznaczone poza rozprawą są niejawne, chyba że przewodniczący Komisji zarządzi inaczej.
+
+**Art. 23.** Jeżeli jest to niezbędne dla zabezpieczenia prawidłowego toku postępowania, Komisja może, drodze postanowienia, nakazać wpis księdze wieczystej ostrzeżenia toczącym się postępowaniu rozpoznawczym, a przypadku decyzji, która nie wywołała nieodwracalnych skutków prawnych, także ustanowić zakaz zbywania lub obciążania nieruchomości. Wpis wywołuje skutek ostrzeżenia, którym 8 ustawy z dnia 6 lipca 1982 r. księgach wieczystych i hipotece. 2. Postanowienie, którym ust. 1, stanowi, z chwilą wydania, podstawę wpisu księdze wieczystej. 3. (uchylony) 4. Wniosek wpis księdze wieczystej składa Komisja. 5. Wniosek wpis księdze wieczystej składa się za pośrednictwem systemu teleinformatycznego obsługującego postępowanie sądowe lub na urzędowym formularzu. Wniosek podpisuje przewodniczący Komisji lub wyznaczony niego członek Komisji. Wniosek składany za pośrednictwem systemu teleinformatycznego opatruje się kwalifikowanym podpisem elektronicznym. 6. Dokumenty stanowiące podstawę wpisu księdze wieczystej niesporządzone postaci elektronicznej Komisja przesyła sądowi właściwemu do prowadzenia księgi wieczystej terminie 3 dni od dnia złożenia wniosku wpis. Dokumenty te przewodniczący Komisji lub wyznaczony niego członek Komisji zaopatruje z urzędu we wzmiankę wykonalności. 7. Wniosek wpis księdze wieczystej jest wolny od opłaty.
+
+**Art. 24.** Komisja uchyla postanowieniem zabezpieczenie postaci wpisu księdze wieczystej, którym 23 ust. 1, jeżeli stało się ono zbędne dla zabezpieczenia prawidłowego toku postępowania lub wydano decyzję, 29 ust. 1, 4 albo 5. 2. Postanowienie, którym ust. 1, stanowi podstawę wpisu księdze wieczystej. Przepisy 23 ust. 4–7 stosuje się.
+
+**Art. 24a.** Komisja może, drodze postanowienia, nakazać wpis księdze wieczystej ostrzeżenia podjęciu czynności sprawdzających, których 15 ust. 2. Komisja uchyla postanowieniem zabezpieczenie, którym ust. 1, jeżeli toku czynności sprawdzających nie uprawdopodobniono okoliczności uzasadniających wszczęcie postępowania rozpoznawczego albo jeżeli Komisja nakazuje, drodze postanowienia, wpis ostrzeżenia toczącym się postępowaniu rozpoznawczym, albo jeżeli stało się ono zbędne toku czynności sprawdzających. 3. Wpis ostrzeżenia, którym ust. 1, od chwili wszczęcia postępowania rozpoznawczego wywołuje skutki ostrzeżenia, którym 23. 4. Art. 23 stosuje się odpowiednio do ostrzeżenia, którym ust.
+
+**Art. 25.** W przypadku wydania decyzji, 29 ust. 3, wykreślenie zabezpieczenia postaci wpisu księdze wieczystej, którym 23 ust. 1, może nastąpić tylko na wniosek Komisji.
+
+**Art. 26.** W razie wszczęcia postępowania rozpoznawczego toczące się przed organem administracji, sądem administracyjnym, sądem powszechnym lub Sądem Najwyższym postępowanie dotyczące decyzji reprywatyzacyjnej albo postępowanie zapłatę odszkodowania lub wynagrodzenia za korzystanie z nieruchomości, albo inne postępowanie przed tymi organami lub sądami toczące się na skutek wydania decyzji reprywatyzacyjnej podlegają zawieszeniu. 2. W razie powzięcia Komisję informacji toczącym się postępowaniu, którym ust. 1, Komisja zawiadamia organ lub sąd wszczęciu postępowania rozpoznawczego. 3. W przypadku, którym ust. 2, Komisja przekazuje organowi lub sądowi prawomocną decyzję, 29. Zawieszone postępowanie podlega podjęciu z chwilą przekazania organowi lub sądowi decyzji. Przekazanie może nastąpić poprzez ogłoszenie Biuletynie Informacji Publicznej, na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości.
+
+**Art. 26a.**
+
+- **8)** W razie powzięcia Komisję informacji toczącym się postępowaniu opróżnienie lokalu służącego zaspokojeniu potrzeb mieszkaniowych z osób lub rzeczy lub postępowaniu egzekucyjnym dotyczącym nieruchomości warszawskiej lub dotyczącym osoby zajmującej lokal nieruchomości warszawskiej będącej przedmiotem decyzji reprywatyzacyjnej, Komisja występuje do sądu z wnioskiem zawieszenie postępowania opróżnienie lokalu służącego zaspokojeniu potrzeb mieszkaniowych z osób lub rzeczy lub zawieszenie postępowania egzekucyjnego, lub wstrzymanie czynności organu egzekucyjnego tym postępowaniu. W przypadku wystąpienia Komisji do sądu z wnioskiem zawieszenie postępowania egzekucyjnego Komisja informuje tym niezwłocznie organ egzekucyjny.
+
+2. Sąd rozstrzyga przedmiocie wniosku, którym ust. 1, niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania wniosku.
+
+3. Do czasu rozstrzygnięcia sąd wniosku, którym ust. 1, postępowanie opróżnienie lokalu służącego zaspokojeniu potrzeb mieszkaniowych z osób lub rzeczy lub postępowanie egzekucyjne podlega zawieszeniu lub wstrzymuje się czynności tym postępowaniu.
+
+**Art. 26b.** W razie powzięcia Komisję informacji administracyjnym postępowaniu egzekucyjnym dotyczącym nieruchomości warszawskiej będącej przedmiotem decyzji reprywatyzacyjnej Komisja może wystąpić do organu egzekucyjnego z wnioskiem zawieszenie tego postępowania lub wstrzymanie czynności egzekucyjnych tym postępowaniu. 2. Organ egzekucyjny rozstrzyga przedmiocie wniosku, którym ust. 1, niezwłocznie, nie później jednak niż terminie 7 dni od dnia otrzymania wniosku. 3. Do czasu rozstrzygnięcia organ egzekucyjny wniosku, którym ust. 1, administracyjne postępowanie egzekucyjne podlega zawieszeniu lub wstrzymuje się czynności egzekucyjne tym postępowaniu.
+
+**Art. 27.** Wartość nieruchomości postępowaniu rozpoznawczym określa rzeczoznawca majątkowy zgodnie z przepisami ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami, według stanu na dzień wydania decyzji reprywatyzacyjnej.
+
+**Art. 28.** Jeżeli toku postępowania Komisja stwierdzi istnienie okoliczności sprzyjających wydawaniu decyzji reprywatyzacyjnych z naruszeniem prawa lub popełnianiu przestępstw albo utrudniających ich ujawnianie, kieruje wystąpienie do odpowiedniego organu. 2. W wystąpieniu, którym ust. 1, Komisja może żądać przeprowadzenia kontroli, a także wszczęcia postępowania przedmiocie odpowiedzialności dyscyplinarnej, służbowej, materialnej lub innej przewidzianej przepisach dotyczących stosunku pracy. 3. Organ, do którego wystąpiła Komisja, jest obowiązany terminie 30 dni od dnia otrzymania wystąpienia zawiadomić Komisję podjętych środkach lub zajętym stanowisku albo sposobie zakończenia kontroli lub postępowania.
+
+**Art. 28a.** Przewodniczący Komisji po zamknięciu rozprawy zakreśla stronom postępowania rozpoznawczego termin do wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
+
+**Art. 29.** W wyniku postępowania rozpoznawczego Komisja wydaje decyzję, której:
+
+**Art. 30.** Komisja wydaje decyzję, 29 ust. 2–4, jeżeli:
+
+**Art. 31.** W decyzji, 29 ust. 1, Komisja może nałożyć obowiązek zwrotu równowartości nienależnego świadczenia na osobę:
+
+**Art. 31a.** Osobę fizyczną, która dopuściła się naruszeń, których 30 ust. 6, polegających na istotnym lub uporczywym utrudnianiu korzystania z lokalu nieruchomości warszawskiej, Komisja drodze decyzji może ukarać administracyjną karą pieniężną wysokości od 1000 do 000 000 zł. 2. Jeżeli naruszeń, których 30 ust. 6, dopuściła się osoba działająca imieniu lub interesie osoby prawnej, administracyjną karą pieniężną, ust. 1, może być ukarana osoba prawna. 3. Przepisu 189g § ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego nie stosuje się.
+
+**Art. 32.** (uchylony)
+
+**Art. 33.**
+
+- **16)** Osobie zajmującej lokal nieruchomości warszawskiej dniu wydania decyzji reprywatyzacyjnej, dotyczy ostateczna decyzja, 29 ust. 1, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę z powodu:
+- **1)** trwałej lub czasowej niemożności korzystania z nieruchomości warszawskiej lub jej części lub
+- **2)** podwyższenia czynszu albo innych opłat za używanie lokalu stosunku do czynszu dotychczasowego.
+
+2. Osobie, ust. 1, przysługuje od Skarbu Państwa zadośćuczynienie za doznaną krzywdę, jeżeli:
+
+- **1)** wobec tej osoby zastosowano groźbę bezprawną, przemoc wobec osoby lub przemoc innego rodzaju, jeżeli działania te były uporczywe lub sposób istotny utrudniały korzystanie z nieruchomości lub jej części lub
+- **2)** nastąpiło podwyższenie czynszu albo innych opłat, którym ust. 2, co spowodowało istotne pogorszenie sytuacji materialnej osoby zajmującej lokal.
+
+**Art. 34.** Odszkodowanie lub zadośćuczynienie, którym 33, Komisja przyznaje drodze decyzji, na wniosek osoby, tym przepisie. 2. Wniosek odszkodowanie lub zadośćuczynienie osoba, 33 ust. 1, składa terminie 30 dni od dnia doręczenia decyzji, 29 ust. 2a. Doręczenie decyzji, 29 ust. 1, uważa się za dokonane po upływie 7 dni od dnia ogłoszenia Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego Ministra Sprawiedliwości. 3. Od decyzji Komisji przedmiocie przyznania odszkodowania lub zadośćuczynienia osoba, 33 ust. 1, może wnieść sprzeciw terminie 14 dni od dnia doręczenia decyzji. Wniesienie sprzeciwu jest równoznaczne z żądaniem przekazania sprawy do sądu właściwego ze względu na miejsce położenia nieruchomości. 4. Komisja przekazuje właściwemu sądowi sprzeciw wraz z aktami sprawy. Wniosek, którym ust. 1, zastępuje pozew. 5. W razie wniesienia sprzeciwu terminie, decyzja, ust. 1, traci moc, także przypadku gdy sprzeciw odnosi się do części decyzji. 6. Przyznanie odszkodowania lub zadośćuczynienia albo odmowa ich przyznania Komisję nie stoi na przeszkodzie dochodzeniu niezaspokojonej części roszczenia drodze postępowania cywilnego. 7. Decyzja Komisji, ust. 1, od nie złożono sprzeciwu, staje się ostateczna i prawomocna po upływie terminu do jego złożenia. Odpis takiej decyzji doręcza się z urzędu dysponentowi Funduszu Reprywatyzacji, którym 56 ust. ustawy z dnia 30 sierpnia 1996 r. komercjalizacji i niektórych uprawnieniach pracowników (Dz. U. z 2021 r. poz. 425). 8. Uchylenie, zmiana lub stwierdzenie nieważności decyzji, 29 ust. 1, nie stanowi podstawy do wznowienia postępowania, uchylenia albo stwierdzenia nieważności decyzji przedmiocie odszkodowania lub zadośćuczynienia. 9. Decyzja, ust. 7, stanowi podstawę do wypłaty odszkodowania lub zadośćuczynienia osobie niej wskazanej.
+
+**Art. 35.** Roszczenia z tytułu zwrotu równowartości nienależnego świadczenia, którym 31 ust. 1, oraz roszczenia zwrot spełnionego lub wyegzekwowanego świadczenia, którym 39 ust. 3, przedawniają się z upływem 30 lat od dnia:
+
+**Art. 36.** (uchylony)
+
+**Art. 37.** W postępowaniach sprawie wznowienia postępowania administracyjnego, stwierdzenia nieważności decyzji, a także zmiany lub uchylenia decyzji ostatecznej do przewodniczącego Komisji oraz członków Komisji nie stosuje się przepisu 24 § 5 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego. 2. W przypadkach określonych 24 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego wyłączeniu członków Komisji od udziału postępowaniu sprawie postanawia przewodniczący Komisji, na wniosek strony, członka Komisji albo z urzędu. 3. W przypadkach określonych 24 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego wyłączeniu przewodniczącego Komisji od udziału postępowaniu sprawie postanawia Komisja, wydając postanowienie bez udziału przewodniczącego Komisji, na wniosek strony, przewodniczącego lub członka Komisji albo z urzędu. 4. W przypadkach określonych 24 § 3 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego tożsamość okoliczności dotyczących przewodniczącego Komisji z okolicznościami dotyczącymi członków Komisji nie sprzeciwia się ich udziałowi wydaniu postanowienia, którym ust. 3.
+
+**Art. 37a.**
+
+- **22)** Stenogram sporządzony na podstawie zapisu dźwiękowego rozprawy, posiedzenia, przesłuchania świadka oraz strony, po podpisaniu przewodniczącego Komisji, stanowi protokół.
+
+2. O rejestracji przebiegu rozprawy, posiedzenia, przesłuchania świadka oraz strony przewodniczący Komisji informuje osobę wezwaną oraz osoby biorące udział czynności. Następnie przewodniczący Komisji poucza obecnych, że udzielenie zgody na rejestrację zapisu dźwiękowego lub dźwięku oraz obrazu osobę wezwaną oraz osoby biorące udział czynnościach nie jest wymagane.
+
+3. Zapis dźwiękowy stanowi załącznik do protokołu.
+
+3a. Osoba wezwana ma prawo zapoznać się ze stenogramem sporządzonym na podstawie zapisu dźwiękowego oraz wnieść zastrzeżenie przypadku stwierdzenia nią rozbieżności pomiędzy zapisem dźwiękowym a stenogramem.
+
+4. Protokół podpisuje przewodniczący Komisji. Podpis osoby wezwanej oraz osób biorących udział czynności nie jest wymagany.
+
+**Art. 37b.** W celu wyjaśnienia nieprawidłowości lub uchybień działalności organów i osób prowadzących postępowania przedmiocie wydawania decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich Komisja może wszcząć postępowanie ogólne. 2. Do postępowania ogólnego stosuje się odpowiednio przepisy postępowaniu rozpoznawczym, z wyjątkiem 29–31. 3. Dowody i materiały zebrane i dopuszczone postępowaniu ogólnym Komisja może włączyć i uwzględnić jako dowody i materiały postępowaniu rozpoznawczym bez przeprowadzania dowodu tym postępowaniu.
+
+**Art. 37c.** W postępowaniu ogólnym Komisja może podjąć uchwałę stwierdzeniu nieprawidłowości lub uchybień działalności organów i osób prowadzących postępowania przedmiocie wydawania decyzji reprywatyzacyjnych dotyczących nieruchomości warszawskich lub skierować zawiadomienie do odpowiedniego organu. 2. W razie niestwierdzenia nieprawidłowości lub uchybień, których ust. 1, Komisja może umorzyć postępowanie ogólne, żądać przeprowadzenia kontroli lub wszczęcia postępowań, których 28. 3. W razie stwierdzenia nieprawidłowości lub uchybień mniejszej wagi Komisja może zakończyć postępowanie bez podejmowania uchwały, ust.
+
+**Art. 37d.** Od uchwały, 37c ust. 1, i czynności, których 37a ust. i 2, nie służy odwołanie, powództwo do sądu powszechnego, sprzeciw ani skarga do sądu administracyjnego.
+
+**Art. 38.**
+
+- **25)** W sprawach nieuregulowanych niniejszą ustawą stosuje się odpowiednio przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z wyłączeniem 8 § 2, 13, 25, 31, 96a–96n, 114–122h, 127–144 i 156 § 2 tej ustawy.
+
+2. Przepisów ust. 1, nie stosuje się do czynności sprawdzających, których 15 ust.
+
+3. Do zabezpieczenia i egzekucji należności oraz obowiązków wynikających z decyzji i postanowień Komisji stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji. Komisja postępowaniu egzekucyjnym pełni rolę wierzyciela, chociażby beneficjentem należności oraz obowiązków nie była Komisja, z wyjątkiem decyzji, których 34 ust.
+
+4. Do zawiadomień i wezwań, których 16 ust. 3 i 4, oraz do spraw określonych 17b nie stosuje się przepisów ustawy z dnia 10 maja 2018 r. ochronie danych osobowych (Dz. U. z 2019 r. poz. 1781).
+
+5. Nie stwierdza się nieważności decyzji Komisji, jeżeli od dnia jej doręczenia lub ogłoszenia upłynęło dziesięć lat, a także gdy decyzja wywołała nieodwracalne skutki prawne.
+
+6. Nie obciąża się Komisji jako wierzyciela kosztami egzekucyjnymi ani opłatą komorniczą, których 64–66 ustawy z dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji.
+
+#### Rozdział 4 Skutki cywilnoprawne decyzji Komisji
+
+**Art. 39.** Decyzja, 29 ust. 2, 3a i 4, oraz ostateczna decyzja właściwego organu wydana na skutek decyzji, 29 ust. 3, zawierająca odmienne rozstrzygnięcie niż uchylona decyzja reprywatyzacyjna, stanowią podstawę wznowienia postępowania cywilnego zapłatę odszkodowania lub dotyczącego zapłaty wynagrodzenia za bezumowne korzystanie z nieruchomości. 2. Z żądaniem wznowienia postępowania może wystąpić także prokurator. 3. Uwzględniając skargę wznowienie postępowania, sąd orzeczeniu kończącym postępowanie sprawie orzeka zwrocie spełnionego lub wyegzekwowanego świadczenia. Nie wyłącza to możliwości dochodzenia osobnym procesie naprawienia szkody poniesionej wskutek wykonania wyroku. 4. Przepisów 408 i 415 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego nie stosuje się.
+
+**Art. 39a.** Od decyzji Komisji stronie nie przysługują przewidziane odrębnych przepisach środki prawne wzruszenia decyzji dotyczące wznowienia postępowania, uchylenia, zmiany lub stwierdzenia nieważności decyzji. 2. Przepis ust. stosuje się odpowiednio do postanowień Komisji.
+
+**Art. 40.**
+
+- **28)** Decyzja, 29 ust. 2, 3 lub 3a oraz ust. 3, stanowi podstawę wykreślenia księdze wieczystej wpisu dokonanego na podstawie uchylonej decyzji reprywatyzacyjnej, decyzji przekształceniu prawa użytkowania wieczystego prawo własności nieruchomości, 29 ust. 3, lub zaświadczenia przekształceniu prawa użytkowania wieczystego gruntów zabudowanych na cele mieszkaniowe prawo własności tych gruntów, lub na podstawie aktu notarialnego sporządzonego z uwzględnieniem uchylonej decyzji reprywatyzacyjnej albo dokonanych po tym wpisie wpisów użytkowania wieczystego lub własności nieruchomości, oraz stanowi podstawę wpisania jako właściciela odpowiednio m.st. Warszawy albo Skarbu Państwa. Przepisu 10 ustawy z dnia 6 lipca 1982 r. księgach wieczystych i hipotece nie stosuje się.
+
+2. Przepis ust. stosuje się odpowiednio do wpisu dokonanego na podstawie aktu notarialnego, na mocy albo wskutek którego osoba trzecia nabyła prawo lub została zwolniona z obowiązku.
+
+**Art. 40a.** W przypadku sprzedaży nieruchomości warszawskiej postępowaniu egzekucyjnym lub innym postępowaniu mającym skutki sprzedaży egzekucyjnej prawa osobiste i roszczenia dotyczące nieruchomości warszawskiej ujawnione wpis księdze wieczystej lub nieujawnione ten sposób pozostają mocy bez potrącania ich wartości z ceny nabycia.
+
+**Art. 40b.** Decyzja Komisji, 29 ust. 2–3, stanowi podstawę niezwłocznego przywrócenia posiadania nieruchomości warszawskiej lub jej odpowiedniej części najemcy lub innej osobie zajmującej nieruchomość na podstawie umowy zawartej z gminą albo Skarbem Państwa przed wydaniem decyzji reprywatyzacyjnej. 2. Gmina albo Skarb Państwa ma obowiązek niezwłocznego przywrócenia posiadania najemcy lub innej osobie zajmującej nieruchomość warszawską lub jej część przed dniem wydania decyzji reprywatyzacyjnej od chwili wpisu, którym 40. 3. Decyzja, ust. 1, ma rygor natychmiastowej wykonalności z mocy prawa. 4. Czynności prawne dokonane osobę, na rzecz wydano decyzję reprywatyzacyjną, ust. 1, lub jej następcę prawnego uznaje się za bezskuteczne wobec osoby zajmującej nieruchomość warszawską lub jej część. 5. Umowę, ust. 1, poczytuje się razie wątpliwości za przedłużoną na czas nieoznaczony. 6. Prawa i obowiązki, których ust. i 2, pozostają mocy do czasu wydania Komisję decyzji prawomocnej.
+
+**Art. 40c.** Decyzja reprywatyzacyjna nie narusza uprawnień i obowiązków z umowy najmu zawartej z najemcą nieruchomości warszawskiej lub jej części gminę albo Skarb Państwa. 2. Jeżeli umowa najmu, ust. 1, została zawarta przed wydaniem decyzji reprywatyzacyjnej, osoba, na rzecz wydano decyzję reprywatyzacyjną, ani jej następca prawny nie wstępuje stosunek najmu. Nie dotyczy to osoby, na rzecz wydana została prawomocna decyzja Komisji, albo gdy Komisja umorzyła postępowanie na podstawie 29 ust. 5. 3. Osoba, która wstąpiła stosunek najmu, może wypowiedzieć najem na zasadach określonych ustawie z dnia 21 czerwca 2001 r. ochronie praw lokatorów, mieszkaniowym zasobie gminy i zmianie Kodeksu cywilnego. 4. Do czasu zapewnienia najemcy lub innej osobie zajmującej lokal nieruchomości warszawskiej odpowiedniego lokalu zamiennego i pokrycia kosztów przeprowadzki decyzja Komisji, decyzja reprywatyzacyjna oraz zawarta na ich podstawie umowa ustanowieniu użytkowania wieczystego oraz sprzedaży budynku na podstawie 31 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami, a także decyzja przekształceniu prawa użytkowania wieczystego nieruchomości prawo własności nie podlegają wykonaniu ani egzekucji zakresie, jakim naruszałoby to uprawnienia i obowiązki, których 40b ust. i 2, chociażby decyzja była ostateczna lub prawomocna. 5. Przepisu ust. 2 nie stosuje się razie sprzedaży budynku osobie, na rzecz wydano decyzję reprywatyzacyjną, na podstawie 31 ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami.
+
+**Art. 40d.** Umowa najmu nieruchomości warszawskiej lub jej części powinna być zawarta na piśmie pod rygorem nieważności.
+
+**Art. 40e.**
+
+- **29)** W przypadku wydania decyzji, 29 ust. 2–3, gmina albo Skarb Państwa są obowiązane do przejęcia zarządu nieruchomością warszawską lub jej odpowiednią częścią na zasadach określonych 184a–186a ustawy z dnia 21 sierpnia 1997 r. gospodarce nieruchomościami. Osoba, na rzecz wydano decyzję reprywatyzacyjną, jej następca prawny albo dotychczasowy zarządca są obowiązani niezwłocznie wydać nieruchomość lub jej odpowiednią część gminie albo Skarbowi Państwa, a także dopełnić wszelkich czynności niezbędnych do prawidłowego przejęcia i sprawowania zarządu.
+
+2. Gmina albo Skarb Państwa od dnia wydania decyzji, 29 ust. 2–3, pobiera czynsz za zajmowany lokal na podstawie umowy, 40b ust. 1, według aktualnych stawek określanych uchwale lub zarządzeniu właściwego organu.
+
+3. Do zabezpieczenia i egzekucji obowiązku, którym ust. 1, stosuje się przepisy ustawy z dnia 17 czerwca 1966 r. postępowaniu egzekucyjnym administracji.
+
+**Art. 41.** W decyzji, 29 ust. 1, Komisja może stwierdzić, że wskutek wydania decyzji reprywatyzacyjnej wyrządzono szkodę gminie lub Skarbowi Państwa niezgodne z prawem działanie lub zaniechanie przy wykonywaniu władzy publicznej. 2. Wyrządzenie szkody, ust. 1, stanowi podstawę odpowiedzialności osoby działającej charakterze organu administracji publicznej lub z jego upoważnienia albo jako członek kolegialnego organu administracji publicznej lub osoby wykonującej urzędzie organu administracji publicznej pracę ramach stosunku pracy, stosunku służbowego lub umowy cywilnoprawnej, biorącej udział prowadzeniu sprawy rozstrzyganej drodze decyzji reprywatyzacyjnej. 3. Komisja doręcza decyzję, ust. 1, prokuratorowi okręgowemu właściwemu ze względu na siedzibę organu, który wydał decyzję reprywatyzacyjną. 4. Jeżeli osoba, ust. 2, dopuściła się działania lub zaniechania z winy umyślnej, odpowiada ona do pełnej wysokości szkody, ust. 5. Jeżeli osoba, ust. 2, dopuściła się działania lub zaniechania nieumyślnie, odszkodowanie ustala się wysokości określonej decyzji, ust. 1, jednak nie może ono przewyższać 12-krotności miesięcznego wynagrodzenia tej osoby. 6. Wynagrodzenie przysługujące osobie, ust. 2, określa się na dzień działania lub na koniec okresu zaniechania, którym wyrządzono szkodę. W przypadku gdy zgodnie ze zdaniem poprzedzającym wynagrodzenie może być określone różnej wysokości, przyjmuje się wysokość najwyższą. 7. Do postępowania dotyczącego odpowiedzialności osoby, ust. 2, stosuje się przepisy 7 ust. 3–5 i 8 ustawy z dnia 20 stycznia 2011 r. odpowiedzialności majątkowej funkcjonariuszy publicznych za rażące naruszenie prawa (Dz. U. z 2016 r. poz. 1169). Decyzja określona ust. zastępuje wniosek, którym 7 ust. tej ustawy.
+
+**Art. 41a.** Nieważne jest oświadczenie woli mające za przedmiot nieruchomość warszawską, złożone osobę, na rzecz wydano decyzję reprywatyzacyjną na podstawie okoliczności, których 30 ust. 1, która nabyła prawo lub roszczenie od osoby uprawnionej lub która nie była osobą uprawnioną rozumieniu 7 ust. dekretu. 2. Nieważność oświadczenia woli, którym ust. 1, nie ma wpływu na skuteczność dokonanej na jego podstawie odpłatnej czynności prawnej, jeżeli wskutek tej czynności osoba trzecia nabyła prawo lub została zwolniona od obowiązku, chyba że działała złej wierze. 3. W złej wierze jest ten, kto chwili dokonania czynności prawnej z osobą, ust. 1, wiedział lub z łatwością mógł się dowiedzieć okolicznościach, których 30 ust.
+
+#### Rozdział 5 Przepis końcowy
+
+**Art. 42.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia .
+

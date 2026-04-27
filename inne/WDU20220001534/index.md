@@ -1,0 +1,33 @@
+---
+title: "Ustawa z dnia 9 czerwca 2022 r. o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego \"Polskie Koleje Państwowe\""
+address: WDU20220001534
+eli: DU/2022/1534
+publisher: DU
+year: 2022
+pos: 1534
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# Warszawa, 21 lipca 2022 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2022 poz. 1534 |
+| ISAP | WDU20220001534 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2022-06-09 |
+| Data wydania | 2022-07-21 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001534) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/1534/text.pdf) |
+
+USTAWA 9 czerwca 2022 r.
+o zmianie ustawy o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe”
+
+**Art. 1.** W ustawie 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. 2021 r. poz. 146 oraz 2022 r. poz. 655) wprowadza następujące zmiany:
+
+**Art. 2.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Duda
+

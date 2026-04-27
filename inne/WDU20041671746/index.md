@@ -1,0 +1,30 @@
+---
+title: Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy o nadmiernych zapasach produktów rolnych i produktów cukrowych
+address: WDU20041671746
+eli: DU/2004/1746
+publisher: DU
+year: 2004
+pos: 1746
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# Ustawa z dnia 2 lipca 2004 r. o zmianie ustawy o nadmiernych zapasach produktów rolnych i produktów cukrowych
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2004 nr 167 poz. 1746 |
+| ISAP | WDU20041671746 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2004-07-02 |
+| Data wydania | 2004-07-27 |
+| Ostatnia zmiana | 2024-03-15 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041671746) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1746/text.pdf) |
+
+**Art. 1.** W ustawie dnia 16 kwietnia 2004 r. o nad- rzàdzenia, o którym miernych zapasach produktów rolnych i produktów lit. a.”; cukrowych (Dz. U. 97, poz. 964) wprowadza si´ nast´pujàce zmiany: 2) za∏àcznik do ustawy otrzymuje ne w za∏àczniku do niniejszej
+
+**Art. 2.** Ustawa wchodzi w ˝ycie „Art. 1a. Przepisów niniejszej ustawy nie stosuje nia. si´ do tego produktu rolnego wymienionego w za∏àczniku, który zostanie skreÊlony przez Komisj´ Europejskà rozpo- Prezydent Rzeczypospolitej Polskiej: dnia lipca 2004 r. o zmianie ustawy o nadmiernych zapasach produktów rolnych i produktów cukrowych WIELKOÂCI ZAPASÓW PRODUKTÓW ROLNYCH, POWY˚EJ KTÓRYCH ICH W¸AÂCICIELE LUB SAMOISTNI POSIADACZE SK¸ADAJÑ INFORMACJE DOTYCZÑCE STANU ZAPASÓW TYCH PRODUKTÓW Lp. Kod CN Opis produktu rolnego 0201 30 Mi´so byd∏a, Êwie˝e lub sch∏odzone, bez koÊci 0202 30 10 Mi´so zbyd∏a, zamro˝one, bez koÊci, çwierci przednie ca∏e lub pokrojone na maksymalnie pi´ç cz´Êci, aka˝da çwiartka stanowi pojedynczy blok; çwierci „kompensowane” wdwóch blokach, których jeden zawiera çwierç przednià ca∏à lub pokrojonà na maksymalnie pi´ç kawa∏ków, a drugi çwierç tylnà, wy∏àczeniem pol´dwicy, w jednym kawa∏ku 0202 30 50 Mi´so byd∏a, zamro˝one, bez koÊci, rostbef, antrykot i szponder, kawa∏ki 0202 30 90 Mi´so byd∏a, zamro˝one, pozosta∏e, bez koÊci (tj. bez çwierci przednich ca∏ych lub pokrojonych na maksymalnie pi´ç cz´Êci, a ka˝da çwiartka stanowi pojedynczy blok; çwierci „kompensowanych” w dwóch blokach, których jeden zawiera çwierç przednià ca∏à lub pokrojonà na maksymalnie pi´ç kawa∏ków, a drugi çwierç tylnà, wy∏àczeniem pol´dwicy, w jednym kawa∏ku oraz rostbefu, antrykotu i szpondra, kawa∏ki) 5 0204 30 Tusze i pó∏tusze jagniàt, zamro˝one 6 0204 43 10 Mi´so jagni´ce, bez koÊci, zamro˝one 7 0206 29 91 Przepona gruba i przepona cienka byd∏a, zamro˝one, nie do produkcji wyrobów farmaceutycznych 9 0207 14 70 Mi´so (kawa∏ki, koÊçmi, pozosta∏e) i podroby jadalne, zdrobiu 0105, zptactwa zgatunku Gallus domesticus, zamro˝one 10 0402 10 Mleko iÊmietana, wproszku, granulkach lub winnej postaci sta∏ej, ozawartoÊci t∏uszczu nieprzekraczajàcej 1,5 % masy, niezawierajàce dodatku cukru lub innego Êrodka s∏odzàcego 11 0402 21 Mleko iÊmietana, wproszku, granulkach lub winnej sta∏ej postaci, niezawierajàce dodatku cukru ani innego Êrodka s∏odzàcego, ozawartoÊci t∏uszczu przekraczajàcej 1,5 % masy,ale nieprzekraczajàcej 27 % masy 12 0405 10 Mas∏o naturalne otrzymane mleka, o zawartoÊci t∏uszczu nieprzekraczajàcej 85 % masy 13 0405 90 10 Pozosta∏e mas∏o i pozosta∏e t∏uszcze oraz oleje otrzymane zmleka; produkty mleczarskie do smarowania, ozawartoÊci t∏uszczu 99,3 % masy iwi´kszej oraz ozawartoÊci wody nieprzekraczajàcej 0,5 % masy 14 0406 Sery i twarogi 15 0703 20 Czosnek Êwie˝y lub sch∏odzony 16 0711 51 Grzyby rodzaju Agaricus, zakonserwowane tymczasowo, nienadajàce si´ w tym stanie do bezpoÊredniego spo˝ycia 17 1001 Pszenica i meslin 18 1002 ˚yto 19 1003 J´czmieƒ 20 1004 Owies 21 1005 Kukurydza 22 1006 10 Ry˝ nie∏uskany 23 1006 20 Ry˝ ∏uskany (bràzowy) 24 1006 30 Ry˝ ca∏kowicie lub cz´Êciowo bielony, nawet polerowany lub glazurowany 25 1006 40 Ry˝ ∏amany 26 1007 Ziarno sorgo 27 1008 Nasiona gryki, prosa i mozgi kanaryjskiej; pozosta∏e zbo˝a 28 1101 Màka pszenna lub meslin 29 1102 Màka ze zbó˝ innych ni˝ pszenica lub meslin 30 1103 Kasze, màczki i granulki zbo˝owe 32 1107 S∏ód, nawet palony 33 1108 Skrobie; inulina 34 1509 Oliwa ijej frakcje, nawet rafinowane, ale niemodyfikowane chemicznie 35 1510 Pozosta∏e oleje i ich frakcje, otrzymywane wy∏àcznie oliwek, nawet rafinowane, ale niemodyfikowane chemicznie, w∏àcznie mieszaninami tych olejów lub ich frakcji olejami lub frakcjami obj´tymi 1509 36 1602 32 11 Pozosta∏e mi´so, podroby lub krew, przetworzone lub zakonserwowane, zdrobiu zgatunku Gallus domesticus, 0105, zawierajàce 57 % masy lub wi´cej mi´sa lub podrobów drobiowych, niegotowane 37 1702 30 (1) Glukoza i syrop glukozowy, niezawierajàce fruktozy lub zawierajàce w stanie suchym mniej ni˝ 20 % masy fruktozy 38 1702 40 (2) Glukoza i syrop glukozowy, zawierajàce w stanie suchym co najmniej 20 % masy, ale mniej ni˝ 50 % masy fruktozy, wy∏àczeniem cukru inwertowanego 39 1702 90 (3) Pozosta∏e cukry, w∏àcznie zcukrem inwertowanym iinnymi cukrami oraz mieszankami wyrobów cukrowych, zawierajàcymi wstanie suchym 50 % masy fruktozy 40 2003 10 20 Grzyby rodzaju Agaricus, tymczasowo zakonserwowane, gotowane 41 2003 10 30 Pozosta∏e grzyby rodzaju Agaricus, przetworzone lub zakonserwowane inaczej ni˝ octem lub kwasem octowym 42 2008 30 55 Mandarynki (w∏àczajàc tangeryny i satsuma); klementynki, wilkingi i inne podobne hybrydy cytrusowe, inaczej przetworzone lub zakonserwowane, niezawierajàce dodatku alkoholu, zawierajàce dodatek cukru, w bezpoÊrednich opakowaniach o zawartoÊci netto przekraczajàcej kg 43 2008 30 75 Mandarynki (w∏àczajàc tangeryny i satsuma); klementynki, wilkingi i inne podobne hybrydy cytrusowe, inaczej przetworzone lub zakonserwowane, niezawierajàce dodatku alkoholu, zawierajàce dodatek cukru, w bezpoÊrednich opakowaniach o zawartoÊci netto nieprzekraczajàcej kg (1) wyjàtkiem 1702 30 10 (2) wyjàtkiem 1702 40 10 (3) ograniczone do 1702 90 10, 1702 90 50, 1702 90 75, 1702 90 79.
+

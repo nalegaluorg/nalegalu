@@ -1,0 +1,301 @@
+---
+title: Ustawa z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej
+address: WDU20230001831
+eli: DU/2023/1831
+publisher: DU
+year: 2023
+pos: 1831
+act_type: Ustawa
+status: akt posiada tekst jednolity
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 8 września 2023 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2023 poz. 1831 |
+| ISAP | WDU20230001831 |
+| Typ aktu | Ustawa |
+| Status | akt posiada tekst jednolity |
+| W mocy | tak |
+| Data ogłoszenia | 2023-08-17 |
+| Data wydania | 2023-09-08 |
+| Ostatnia zmiana | 2026-02-27 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230001831) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/1831/text.pdf) |
+
+USTAWA z dnia 17 sierpnia 2023 r.
+o szczególnej opiece geriatrycznej
+1. Ustawa określa cele, organizację i zasady funkcjonowania szczególnych form geriatrycznej opieki zdrowotnej nad osobami, które ukończyły 75. rok życia, zwanej dalej „szczególną opieką geriatryczną”.
+2. Szczególna opieka geriatryczna jest sprawowana w:
+1) szpitalnych oddziałach geriatrycznych wskazanych w wojewódzkim planie działania szczególnej opieki geriatrycznej, zwanym dalej „wojewódzkim planem”;
+2) centrach zdrowia 75+, zwanych dalej „centrami”;
+3) podstawowej opiece zdrowotnej.
+3. 1. Do korzystania ze szczególnej opieki geriatrycznej mają prawo osoby uprawnione do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r.
+o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ), które ukończyły 75. rok życia, zwane dalej „osobami uprawnionymi”.
+2. Szczególna opieka geriatryczna ma na celu:
+1) zachowanie możliwie największej sprawności funkcjonalnej i samodzielności osób uprawnionych;
+2) zapewnienie określonych w ustawie świadczeń opieki zdrowotnej;
+3) planowanie i koordynowanie opieki zdrowotnej nad pacjentami centrum, w szczególności przez zapewnienie całościowej oceny geriatrycznej oraz opracowanie i realizację indywidualnego planu postępowania terapeutycznego, zwanego dalej „indywidualnym planem”;
+4) zapewnienie koncyliacji lekowej pacjentom centrum;
+5) zapewnienie działań profilaktycznych i promocji zdrowia dostosowanych do potrzeb osób uprawnionych, w tym mających na celu zapobieganie ich niepełnosprawności i niesamodzielności;
+6) zapewnienie edukacji zdrowotnej pacjentom centrum oraz ich opiekunom;
+7) zapewnienie wsparcia psychologicznego pacjentom centrum.
+1) całościowa ocena geriatryczna wielowymiarowy, interdyscyplinarny proces diagnostyczny prowadzony w celu identyfikacji problemów zdrowotnych i opiekuńczych, optymalizacji leczenia, planowania opieki zdrowotnej oraz poprawy sprawności funkcjonalnej i jakości życia;
+2) lekarz podstawowej opieki zdrowotnej lekarza, o którym mowa w art. 6 ust. 1 i 2 ustawy z dnia 27 października 2017 r.
+o podstawowej opiece zdrowotnej (Dz. U. z 2022 r. poz. 2527);
+3) obszar działania centrum obszar działania centrum określony w wojewódzkim planie;
+4) opiekun osobę bliską lub opiekuna faktycznego w rozumieniu ustawy z dnia 6 listopada 2008 r. o prawach pacjenta i Rzeczniku Praw Pacjenta (Dz. U. z 2023 r. poz. 1545, 1675 i 1692);
+5) pielęgniarka podstawowej opieki zdrowotnej pielęgniarkę, o której mowa w art. 7 ustawy z dnia 27 października 2017 r.
+o podstawowej opiece zdrowotnej;
+6) podmiot leczniczy podmiot, o którym mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2023 r. poz. 991 i 1675);
+7) podmiot wykonujący działalność leczniczą podmiot, o którym mowa w art. 2 ust. 1 pkt 5 ustawy z dnia 15 kwietnia 2011 r.
+o działalności leczniczej;
+8) skala VES-13 (Vulnerable Elders Survey 13) badanie kwestionariuszowe, obejmujące samoocenę stanu zdrowia i wykonywania codziennych czynności, pomagające zidentyfikować osoby o zwiększonym ryzyku znacznego pogorszenia stanu zdrowia i sprawności funkcjonalnej;
+9) świadczenie opieki zdrowotnej świadczenie opieki zdrowotnej, o którym mowa w art. 5 pkt 34 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych;
+10) wstępna ocena geriatryczna badanie przesiewowe przeprowadzone na podstawie wywiadu bezpośredniego, uwzględniające skalę VES-13, badanie fizykalne i badania laboratoryjne, mające na celu stwierdzenie potrzeby objęcia danej osoby szczególną opieką geriatryczną.
+5. Zadania z zakresu szczególnej opieki geriatrycznej wykonują:
+1) minister właściwy do spraw zdrowia;
+2) wojewoda;
+3) powiat.
+6. 1. Do zadań ministra właściwego do spraw zdrowia z zakresu szczególnej opieki geriatrycznej należy:
+1) określanie kierunków rozwoju szczególnej opieki geriatrycznej;
+2) monitorowanie organizacji i dostępności szczególnej opieki geriatrycznej;
+3) dokonywanie oceny projektów wojewódzkich planów oraz ich aktualizacji;
+4) zatwierdzanie wojewódzkich planów oraz ich aktualizacji.
+2. Zadania, o których mowa w ust. 1 pkt 2 i 3, minister właściwy do spraw zdrowia może wykonywać przy pomocy podległej mu lub nadzorowanej przez niego jednostki, właściwej w zakresie geriatrii.
+7. Do zadań wojewody z zakresu szczególnej opieki geriatrycznej należy:
+1) sporządzanie projektu wojewódzkiego planu oraz jego aktualizacji;
+2) uzgadnianie z właściwymi powiatami warunków utworzenia centrum;
+3) monitorowanie działalności centrum w zakresie organizacji i dostępności do świadczeń opieki zdrowotnej.
+8. Do zadań powiatu z zakresu szczególnej opieki geriatrycznej należy:
+1) rozpoznawanie potrzeb zdrowotnych i stanu zdrowia osób, które ukończyły 75. rok życia, zamieszkujących na terenie powiatu;
+2) zgłaszanie propozycji dotyczącej utworzenia i lokalizacji centrum, o której mowa w art. 13 ust. 2;
+3) utworzenie centrum, w przypadku gdy taka potrzeba wynika z wojewódzkiego planu;
+4) zawieranie porozumień, o których mowa w art. 19 ust. 1.
+Wojewódzki plan
+9. 1. Placówki szczególnej opieki geriatrycznej działają na terenie województwa na podstawie wojewódzkiego planu, sporządzanego przez właściwego wojewodę i zatwierdzanego przez ministra właściwego do spraw zdrowia, po zaopiniowaniu przez Krajową Radę do Spraw Opieki Geriatrycznej, zwaną dalej „Krajową Radą”.
+2. Wojewódzki plan określa:
+1) lokalizację szpitalnych oddziałów geriatrycznych sprawujących szczególną opiekę geriatryczną, zwanych dalej „oddziałami geriatrycznymi”, na terenie województwa, ze wskazaniem podmiotu leczniczego prowadzącego szpital, w którym zlokalizowany jest oddział geriatryczny lub w którym będzie utworzony oddział geriatryczny;
+2) obszary działania wraz z lokalizacją poszczególnych centrów;
+3) minimalną liczbę łóżek w poszczególnych oddziałach geriatrycznych;
+4) nie więcej niż 3 centra współpracujące z danym oddziałem geriatrycznym.
+10. 1. Oddziały geriatryczne lokalizuje się w podmiotach leczniczych zakwalifikowanych do poziomu szpitali ogólnopolskich, szpitali III lub II stopnia w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w dziale IVB ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z uwzględnieniem:
+1) potrzeby zapewnienia równomiernego rozmieszczenia oddziałów geriatrycznych na terenie województwa;
+2) potrzeby zapewnienia kompleksowości udzielanych świadczeń opieki zdrowotnej.
+2. W przypadku braku możliwości zlokalizowania oddziałów geriatrycznych w podmiotach leczniczych, o których mowa w ust. 1, oddziały te lokalizuje się w podmiotach leczniczych zakwalifikowanych do poziomu szpitali I stopnia w ramach systemu podstawowego szpitalnego zabezpieczenia świadczeń opieki zdrowotnej, o którym mowa w dziale IVB ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, a przy braku takiej możliwości w innych szpitalach, które zawarły umowę o udzielanie świadczeń opieki zdrowotnej z Narodowym Funduszem Zdrowia.
+3. Łączna liczba łóżek w oddziałach geriatrycznych na terenie województwa nie może być mniejsza niż 50 łóżek na 100 tys. osób, które ukończyły 60. rok życia, zamieszkujących na terenie tego województwa, według stanu na dzień 31 grudnia roku poprzedniego.
+4. Lokalizację oddziału geriatrycznego wojewoda określa po otrzymaniu pisemnej deklaracji podmiotu leczniczego prowadzącego szpital, o którym mowa w ust. 1 i 2, o gotowości włączenia oddziału geriatrycznego do wojewódzkiego planu.
+11. 1. Obszar działania centrum obejmuje teren powiatu, jego części, kilku powiatów albo ich części, zamieszkały łącznie przez nie mniej niż 6 tys. i nie więcej niż 12 tys. osób, które ukończyły 75. rok życia, według stanu na dzień 31 grudnia roku poprzedniego.
+2. Przy sporządzaniu wojewódzkiego planu wojewoda uwzględnia zgłoszenia, o których mowa w art. 13 ust. 2, chyba że ich uwzględnienie nie jest możliwe ze względu na konieczność zapewnienia równomiernego rozmieszczenia centrów na terenie województwa lub dostępności świadczeń opieki zdrowotnej udzielanych w centrach.
+3. W przypadku braku zgłoszenia, o którym mowa w art. 13 ust. 2, na obszarze działania centrum, albo niezłożenia deklaracji, o której mowa w art. 13 ust. 4, centrum lokalizuje się w podmiocie leczniczym wykonującym działalność na obszarze działania centrum, biorąc pod uwagę kryteria określone w art. 12.
+12. Przy sporządzaniu wojewódzkiego planu wojewoda bierze pod uwagę:
+1) liczbę osób, które ukończyły 60. rok życia zamieszkujących na terenie województwa, ustaloną zgodnie z art. 10 ust. 3;
+2) liczbę osób, które ukończyły 75. rok życia zamieszkujących na terenie poszczególnych powiatów, ustaloną zgodnie z art. 11 ust. 1;
+3) potrzebę zapewnienia równomiernego rozmieszczenia na terenie województwa:
+a) oddziałów geriatrycznych,
+b) centrów;
+4) potrzebę zapewnienia dostępności świadczeń opieki zdrowotnej udzielanych w:
+a) oddziałach geriatrycznych,
+b) centrach.
+w Biuletynie Informacji Publicznej urzędu wojewódzkiego.
+2. W terminie 60 dni od dnia udostępnienia informacji, o której mowa w ust. 1, powiat zgłasza pisemną propozycję dotyczącą utworzenia i lokalizacji centrum, uwzględniając przepisy art. 11 ust. 1 i art. 12 pkt 2, pkt 3 lit. b i pkt 4 lit. b.
+3. Zgłoszenie, o którym mowa w ust. 2, zawiera:
+1) propozycję lokalizacji centrum:
+a) wraz ze wskazaniem podmiotu leczniczego, w którym ma ono być utworzone w przypadku gdy centrum ma zostać utworzone w ramach struktury organizacyjnej istniejącego podmiotu leczniczego, albo
+b) wraz z informacją, że ma być ono utworzone jako nowy podmiot leczniczy, w formie, o której mowa w art. 6 ust. 2 pkt 1 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej;
+2) propozycję obszaru działania centrum;
+3) liczbę osób, które ukończyły 75. rok życia, zamieszkujących na obszarze, o którym mowa w pkt 2, ustaloną według stanu na dzień 31 grudnia roku poprzedniego.
+4. W przypadku, o którym mowa w art. 17 ust. 1 pkt 1, do zgłoszenia dołącza się pisemną deklarację podmiotu leczniczego, o którym mowa w ust. 3 pkt 1 lit. a, o gotowości utworzenia w tym podmiocie centrum, a w przypadku, o którym mowa w art. 19 ust. 1 również porozumienie o przyjęciu do realizacji zadania utworzenia centrum.
+14. 1. Wojewoda udostępnia projekt wojewódzkiego planu w Biuletynie Informacji Publicznej urzędu wojewódzkiego w celu przedstawienia przez zainteresowane podmioty opinii dotyczących tego projektu.
+2. W terminie 30 dni od dnia udostępnienia projektu wojewódzkiego planu zainteresowane podmioty mogą przedstawić wojewodzie opinie dotyczące tego projektu.
+3. Wojewoda, po rozpatrzeniu opinii zainteresowanych podmiotów, przygotowuje w porozumieniu z Narodowym Funduszem Zdrowia projekt wojewódzkiego planu, który przekazuje do zatwierdzenia ministrowi właściwemu do spraw zdrowia.
+15. 1. Minister właściwy do spraw zdrowia w terminie 60 dni od dnia otrzymania projektu wojewódzkiego planu, po zaopiniowaniu go przez Krajową Radę, dokonuje jego oceny i zatwierdza go albo zgłasza do niego uwagi.
+2. Dokonując oceny projektu wojewódzkiego planu, minister właściwy do spraw zdrowia bierze w szczególności pod uwagę dostępność świadczeń opieki zdrowotnej udzielanych osobom, które ukończyły 75. rok życia.
+3. Wojewoda, w terminie 14 dni od dnia otrzymania uwag ministra właściwego do spraw zdrowia, uwzględnia te uwagi i ponownie przekazuje projekt wojewódzkiego planu ministrowi właściwemu do spraw zdrowia w celu zatwierdzenia. Przepisy ust. 1 i 2 stosuje się odpowiednio.
+4. Zatwierdzony przez ministra właściwego do spraw zdrowia wojewódzki plan wojewoda udostępnia w Biuletynie Informacji Publicznej urzędu wojewódzkiego.
+16. Wojewódzki plan podlega aktualizacji, w szczególności w przypadku konieczności zapewnienia dostępności w zakresie szczególnej opieki geriatrycznej. Do aktualizacji wojewódzkiego planu stosuje się odpowiednio przepisy art. 9–15.
+17. 1. Centrum tworzy się:
+1) w ramach struktury organizacyjnej podmiotu leczniczego wskazanego w wojewódzkim planie albo
+2) jako nowy podmiot leczniczy utworzony przez powiat, w formie, o której mowa w art. 6 ust. 2 pkt 1 i 3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej, wskazany w wojewódzkim planie.
+2. Utworzenie centrum następuje po zatwierdzeniu wojewódzkiego planu albo jego aktualizacji przez ministra właściwego do spraw zdrowia i udostępnieniu wojewódzkiego planu przez wojewodę w Biuletynie Informacji Publicznej urzędu wojewódzkiego.
+18. 1. Nazwa „centrum zdrowia 75+” może być używana wyłącznie dla oznaczenia podmiotu leczniczego będącego centrum wskazanego w wojewódzkim planie.
+2. Nazwa „centrum zdrowia 75+” podlega ochronie prawnej.
+19. 1. Powiat może zawrzeć z powiatem sąsiednim, położonym na terenie tego samego województwa, porozumienie o przekazaniu temu powiatowi sąsiedniemu do realizacji zadania utworzenia centrum.
+2. Porozumienie, o którym mowa w ust. 1, określa w szczególności sposób realizacji zadania, o którym mowa w ust. 1, warunki wzajemnych rozliczeń oraz tryb kontroli realizacji tego zadania.
+Organizacja szczególnej opieki geriatrycznej w centrum
+20. 1. Centrum jest zakładem leczniczym w rozumieniu art. 2 ust. 1 pkt 14 ustawy z dnia 15 kwietnia 2011 r.
+o działalności leczniczej, w którym podmiot leczniczy wykonuje działalność leczniczą w rodzaju ambulatoryjne świadczenia zdrowotne.
+2. W centrum udziela się świadczeń opieki zdrowotnej, obejmujących w szczególności:
+1) świadczenia z zakresu geriatrii, udzielane przez lekarza;
+2) świadczenia z zakresu geriatrii, udzielane przez pielęgniarkę;
+3) świadczenia z zakresu fizjoterapii, udzielane przez fizjoterapeutę;
+4) świadczenia z zakresu opieki psychiatrycznej, udzielane przez psychologa;
+5) porady dietetyka;
+6) terapię zajęciową;
+7) edukację zdrowotną.
+3. Centrum zapewnia:
+1) planowanie i koordynowanie opieki zdrowotnej nad pacjentami centrum, w tym opracowywanie dla tych osób indywidualnych planów i ich realizację;
+2) transport pacjentów centrum oraz ich wyżywienie.
+4. Transport, o którym mowa w ust. 3 pkt 2, jest wykonywany na zlecenie lekarza udzielającego świadczeń opieki zdrowotnej w centrum i obejmuje transport z miejsca zamieszkania pacjenta centrum do centrum i z powrotem.
+5. Świadczenia opieki zdrowotnej, o których mowa w ust. 2, są świadczeniami ambulatoryjnej opieki zdrowotnej w rozumieniu art. 10 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+21. W centrum udziela się świadczeń opieki zdrowotnej osobom uprawnionym mającym miejsce zamieszkania na obszarze działania centrum.
+22. W centrum wyodrębnia się:
+1) poradnię konsultacyjną;
+2) co najmniej jeden dzienny ośrodek opieki geriatrycznej;
+3) geriatryczny zespół opieki domowej;
+4) zespół koordynatorów opieki geriatrycznej;
+5) zespół edukatorów zdrowotnych.
+23. W poradni konsultacyjnej zapewnia się udzielanie porad specjalistycznych w zakresie, o którym mowa w art. 20 ust. 2 pkt 1 i 3, porad psychologicznych oraz świadczeń pielęgniarskich.
+24. 1. W dziennym ośrodku opieki geriatrycznej zapewnia się czasową, dzienną opiekę dla pacjentów, u których zgodnie z indywidualnym planem stwierdzono potrzebę objęcia taką opieką, oraz wsparcie i doradztwo dla opiekunów pacjentów centrum w zakresie organizacji opieki i leczenia pacjentów centrum.
+2. W dziennym ośrodku opieki geriatrycznej zapewnia się pacjentowi centrum wyżywienie w dniu korzystania ze świadczeń opieki zdrowotnej oraz, na zlecenie lekarza udzielającego świadczeń opieki zdrowotnej w centrum, transport z miejsca zamieszkania tego pacjenta do dziennego ośrodka opieki geriatrycznej i z powrotem.
+3. Łączny okres korzystania ze świadczeń dziennego ośrodka opieki geriatrycznej nie może przekroczyć 12 tygodni w okresie 12 miesięcy od dnia rozpoczęcia korzystania z usług dziennego ośrodka opieki geriatrycznej.
+4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób funkcjonowania i minimalny zakres świadczeń realizowanych przez dzienny ośrodek opieki geriatrycznej, kierując się potrzebą zapewnienia pacjentom centrum właściwego wsparcia oraz realizacją celów określonych w art. 3 ust. 2.
+zdrowotnej udzielanych pacjentom centrum, których stan zdrowia uniemożliwia uzyskanie tych świadczeń w warunkach ambulatoryjnych, w tym realizację indywidualnych planów.
+2. W skład geriatrycznego zespołu opieki domowej wchodzą: lekarz, pielęgniarka, fizjoterapeuta, psycholog oraz koordynator opieki geriatrycznej.
+26. Koordynatorem opieki geriatrycznej może być osoba, która posiada wykształcenie wyższe w dziedzinie nauk medycznych i nauk o zdrowiu lub ukończyła studia podyplomowe z zakresu: gerontologii, geriatrii, opieki nad osobami starszymi lub opieki geriatrycznej.
+27. 1. Do zadań koordynatora opieki geriatrycznej należy:
+1) udzielanie pacjentom centrum oraz ich opiekunom informacji o organizacji postępowania terapeutycznego;
+2) uczestniczenie w opracowywaniu indywidualnych planów;
+3) koordynowanie wykonania indywidualnych planów;
+4) zapewnienie współpracy pomiędzy podmiotami i osobami uczestniczącymi w postępowaniu terapeutycznym;
+5) udzielanie pacjentom centrum wsparcia na wszystkich etapach postępowania terapeutycznego;
+6) współpraca z podmiotami wykonującymi działalność leczniczą, jednostkami organizacyjnymi pomocy społecznej oraz centrami usług społecznych w zakresie dotyczącym potrzeb pacjentów centrum.
+2. Koordynator opieki geriatrycznej nie może udzielać w centrum świadczeń opieki zdrowotnej innych niż określone w ust. 1.
+28. 1. Edukatorem zdrowotnym może być osoba, która posiada wykształcenie wyższe w zakresie nauk medycznych lub nauk o zdrowiu oraz ukończyła szkolenie z zakresu promocji zdrowia i edukacji zdrowotnej.
+2. Szkolenie, o którym mowa w ust. 1, ma na celu pogłębienie i aktualizację wiedzy oraz umiejętności zawodowych w zakresie promocji zdrowia i edukacji zdrowotnej uwzględniającej potrzeby osób, które wymagają opieki geriatrycznej, i odbywa się na podstawie programu szkolenia.
+3. Program szkolenia zawiera:
+1) założenia organizacyjno-programowe określające rodzaj i cel szkolenia, czas jego trwania, sposób organizacji oraz sposób sprawdzania jego efektów;
+2) plan nauczania;
+3) wykaz umiejętności wynikowych;
+4) treści nauczania;
+5) wskazówki metodyczne;
+6) standardy dotyczące kadry i bazy dydaktycznej.
+4. Program szkolenia opracowuje Centrum Medyczne Kształcenia Podyplomowego, przy udziale ekspertów posiadających doświadczenie zawodowe i dorobek naukowy w zakresie geriatrii.
+5. Program, o którym mowa w ust. 4, zatwierdza minister właściwy do spraw zdrowia.
+6. Zatwierdzony program szkolenia dyrektor Centrum Medycznego Kształcenia Podyplomowego udostępnia na stronie internetowej Centrum Medycznego Kształcenia Podyplomowego.
+29. Do zadań edukatora zdrowotnego należy prowadzenie różnych form edukacji zdrowotnej dostosowanej do potrzeb pacjentów oraz ich opiekunów, obejmującej:
+1) rozpoznawanie potrzeb edukacyjnych i planowanie edukacji zdrowotnej z uwzględnieniem stanu zdrowia pacjenta i warunków środowiskowych, w których funkcjonuje, w celu uzyskania przez niego kompetencji do podejmowania samoopieki;
+2) podnoszenie poziomu wiedzy i umiejętności związanych z korzystaniem z systemu ochrony zdrowia i rozumieniem zasad jego funkcjonowania;
+3) zwiększanie poziomu świadomości w zakresie czynników społecznych i środowiskowych wpływających na zdrowie;
+4) ewaluację samodzielności pacjenta w zakresie kontroli stanu zdrowia, przebiegu choroby oraz zapobiegania jej skutkom, radzenia sobie w sytuacjach trudnych, a także zwiększenia aktywności fizycznej i uczestnictwa w życiu społecznym.
+1) informowanie o świadczeniach opieki zdrowotnej udzielanych w centrum oraz zasadach ich udzielania;
+2) informowanie o zasadach korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych oraz zasadach korzystania ze świadczeń pomocy społecznej i usług społecznych realizowanych przez jednostki organizacyjne pomocy społecznej i centra usług społecznych działające na obszarze działania centrum;
+3) w przypadku osób uprawnionych, które zgłosiły się do centrum bez skierowania lekarza podstawowej opieki zdrowotnej oraz:
+a) dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r. o podstawowej opiece zdrowotnej umówienie, za zgodą osoby uprawnionej, terminu wizyty u tego świadczeniodawcy w celu przeprowadzenia wstępnej oceny geriatrycznej,
+b) nie dokonały wyboru świadczeniodawcy, o którym mowa w art. 9 ust. 1 ustawy z dnia 27 października 2017 r.
+o podstawowej opiece zdrowotnej poinformowanie o możliwości wyboru takiego świadczeniodawcy i przeprowadzenia przez niego wstępnej oceny geriatrycznej.
+31. 1. Centrum w ramach współpracy z podmiotami wykonującymi działalność leczniczą może pozyskiwać od tych podmiotów informacje o stanie zdrowia oraz leczeniu pacjenta centrum.
+2. W przypadku, o którym mowa w ust. 1, podmioty wykonujące działalność leczniczą są obowiązane niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku kierownika centrum, udostępnić informacje, o których mowa w ust. 1.
+3. Informacje, o których mowa w ust. 1, obejmują również dokumentację medyczną, jeżeli dokumentacja ta jest niezbędna do zapewnienia ciągłości udzielania świadczeń zdrowotnych.
+32. 1. Centrum w ramach współpracy z ośrodkiem pomocy społecznej, powiatowym centrum pomocy rodzinie lub centrum usług społecznych może, po uzyskaniu pisemnej zgody pacjenta, pozyskiwać od ośrodka pomocy społecznej, powiatowego centrum pomocy rodzinie lub centrum usług społecznych informacje mające znaczenie dla udzielanych pacjentowi w centrum świadczeń opieki zdrowotnej.
+2. W przypadku, o którym mowa w ust. 1, ośrodek pomocy społecznej, powiatowe centrum pomocy rodzinie lub centrum usług społecznych są obowiązane niezwłocznie, nie później jednak niż w terminie 7 dni od dnia otrzymania wniosku kierownika centrum, udostępnić informacje, o których mowa w ust. 1.
+33. Osoby zatrudnione w podmiotach leczniczych, jednostkach pomocy społecznej oraz centrach usług społecznych informują osoby uprawnione o możliwości korzystania ze świadczeń opieki zdrowotnej udzielanych w centrum.
+34. 1. Do monitorowania działalności centrum w zakresie organizacji i dostępności świadczeń opieki zdrowotnej udzielanych w centrum wojewoda stosuje odpowiednio przepisy art. 118 ust. 2 pkt 1–5 i ust. 4 oraz art. 122 ust. 1–3 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej.
+2. Przeprowadzenie czynności wykonywanych w ramach monitorowania działalności centrów wojewoda może zlecić konsultantowi wojewódzkiemu w dziedzinie geriatrii. Zlecenie to następuje na podstawie umowy, zawierającej w szczególności określenie terminu wykonania czynności oraz wysokość wynagrodzenia za ich wykonanie.
+3. Na podstawie danych pozyskanych z monitoringu, o którym mowa w ust. 1 i 2, wojewoda opracowuje raport za rok poprzedni dotyczący oceny organizacji i dostępności świadczeń opieki zdrowotnej udzielanych w centrach działających na terenie województwa i przekazuje go, w terminie do dnia 30 czerwca, ministrowi właściwemu do spraw zdrowia oraz Krajowej Radzie.
+35. 1. Do zadań podmiotu leczniczego, w ramach którego działa oddział geriatryczny, należy współpraca z przypisanymi w wojewódzkim planie centrami w zakresie udzielania przez te centra świadczeń opieki zdrowotnej osobom uprawnionym.
+2. Sposób realizacji współpracy, o której mowa w ust. 1, określa porozumienie zawarte pomiędzy podmiotem leczniczym prowadzącym szpital a centrum.
+Udzielanie świadczeń opieki zdrowotnej w centrum
+36. 1. Lekarz podstawowej opieki zdrowotnej, lekarz udzielający świadczeń ambulatoryjnej specjalistycznej opieki zdrowotnej w zakresie geriatrii, lekarz wykonujący zawód w oddziale geriatrycznym albo lekarz wykonujący zawód w innym oddziale szpitala, w którym nie ma oddziału geriatrycznego, będący lekarzami ubezpieczenia zdrowotnego, kierują osobę uprawnioną do centrum właściwego ze względu na miejsce jej zamieszkania.
+2. Skierowanie osoby uprawionej do centrum przez lekarza podstawowej opieki zdrowotnej następuje po przeprowadzeniu wstępnej oceny geriatrycznej tej osoby, jeżeli wynik wstępnej oceny geriatrycznej wynosi co najmniej 6 punktów w skali VES-13.
+3. Wstępną ocenę geriatryczną poprzedzającą skierowanie osoby uprawnionej do centrum przeprowadza lekarz podstawowej opieki zdrowotnej lub pielęgniarka podstawowej opieki zdrowotnej, po uzyskaniu zgody osoby uprawnionej, w terminie 6 miesięcy od dnia ukończenia przez tę osobę 75. roku życia, a następnie w zależności od stanu jej zdrowia, nie rzadziej jednak niż raz na rok.
+4. Wyniki wstępnej oceny geriatrycznej dołącza się do skierowania do centrum.
+5. Skierowanie do centrum przez lekarza udzielającego świadczeń ambulatoryjnej specjalistycznej opieki zdrowotnej w zakresie geriatrii, lekarza wykonującego zawód w oddziale geriatrycznym albo lekarza wykonującego zawód w innym oddziale szpitala, w którym nie ma oddziału geriatrycznego, będących lekarzami ubezpieczenia zdrowotnego, następuje po przeprowadzeniu całościowej oceny geriatrycznej osoby uprawnionej. Wyniki całościowej oceny geriatrycznej dołącza się do skierowania do centrum.
+37. 1. W centrum przeprowadza się całościową ocenę geriatryczną osoby uprawnionej.
+2. Całościowej oceny geriatrycznej nie przeprowadza się, jeżeli osoba uprawniona posiada wyniki całościowej oceny geriatrycznej przeprowadzonej w okresie 30 dni przed dniem wystawienia skierowania do centrum.
+38. 1. Na podstawie wyników całościowej oceny geriatrycznej, o której mowa w art. 37, w centrum opracowuje się indywidualny plan dla osoby uprawnionej i w porozumieniu z tą osobą.
+2. Indywidualny plan obejmuje:
+1) informację o podstawowych problemach zdrowotnych i społecznych pacjenta centrum;
+2) określenie celu postępowania terapeutycznego;
+3) określenie planowanych metod osiągnięcia celu postępowania terapeutycznego, w szczególności wskazanie świadczeń opieki zdrowotnej udzielanych pacjentowi w centrum;
+4) określenie potrzeb opiekuńczych i pielęgnacyjnych pacjenta, w tym potrzeby zbadania przez właściwy ośrodek pomocy społecznej lub centrum usług społecznych możliwości objęcia go świadczeniami z zakresu pomocy społecznej lub usługami społecznymi;
+5) wskazanie okresu i harmonogram realizacji indywidualnego planu.
+3. Indywidualny plan jest opracowywany przez zespół geriatryczny, w którego skład wchodzą: lekarz, pielęgniarka, fizjoterapeuta, psycholog i koordynator opieki geriatrycznej.
+4. Indywidualny plan podlega okresowej ewaluacji przez zespół, o którym mowa w ust. 3, nie rzadziej jednak niż raz na 3 miesiące.
+39. 1. Koordynację realizacji indywidualnego planu zapewnia koordynator opieki geriatrycznej.
+2. W ramach koordynacji, o której mowa w ust. 1, koordynator opieki geriatrycznej:
+1) monitoruje wykonanie indywidualnego planu;
+2) udziela pacjentowi centrum oraz jego opiekunowi informacji o sposobie realizacji indywidualnego planu;
+3) zapewnia współpracę między osobami i podmiotami udzielającymi świadczeń opieki zdrowotnej wynikających z indywidualnego planu;
+4) zapewnia przepływ informacji na wszystkich etapach realizacji indywidualnego planu;
+5) współpracuje z opiekunem pacjenta centrum oraz podmiotami leczniczymi i innymi jednostkami.
+3. Po zakończeniu realizacji indywidualnego planu koordynator opieki geriatrycznej przeprowadza z pacjentem centrum, jego opiekunem oraz osobami zaangażowanymi w realizację indywidualnego planu rozmowy podsumowujące realizację indywidualnego planu.
+usług z zakresu pomocy społecznej, w szczególności usług opiekuńczych, specjalistycznych usług opiekuńczych lub umieszczenia w domu pomocy społecznej, centrum, po uzyskaniu zgody pacjenta centrum, zawiadamia właściwy ośrodek pomocy społecznej albo centrum usług społecznych o konieczności rozpoznania jego potrzeb.
+41. Po zakończeniu realizacji indywidualnego planu centrum wydaje pacjentowi centrum kartę informacyjną zawierającą zalecenia dotyczące dalszego postępowania, w tym objęcia pacjenta centrum innymi formami opieki zdrowotnej.
+42. 1. Krajowa Rada jest organem opiniodawczo-doradczym ministra właściwego do spraw zdrowia.
+2. Do zadań Krajowej Rady należy:
+1) doradztwo w zakresie opieki geriatrycznej, w szczególności w zakresie określania przez ministra właściwego do spraw zdrowia kierunków rozwoju opieki geriatrycznej;
+2) przedstawianie propozycji zmian w zakresie opieki geriatrycznej;
+3) opiniowanie przekazywanych projektów wojewódzkich planów oraz ich aktualizacji;
+4) opiniowanie przekazywanych przez wojewodów raportów dotyczących oceny organizacji i dostępności świadczeń opieki zdrowotnej;
+5) opiniowanie finansowania świadczeń zdrowotnych udzielanych w centrach i w oddziałach geriatrycznych.
+43. 1. Krajowa Rada składa się z:
+1) dwóch przedstawicieli ministra właściwego do spraw zdrowia;
+2) dwóch przedstawicieli Prezydenta Rzeczypospolitej Polskiej;
+3) przedstawiciela ministra właściwego do spraw zabezpieczenia społecznego;
+4) konsultantów krajowych w dziedzinach: geriatrii, rehabilitacji medycznej, fizjoterapii, psychiatrii, pielęgniarstwa geriatrycznego oraz zdrowia publicznego;
+5) przedstawiciela Prezesa Narodowego Funduszu Zdrowia;
+6) przedstawiciela Narodowego Instytutu Zdrowia Publicznego PZH Państwowego Instytutu Badawczego;
+7) przedstawiciela Narodowego Instytutu Geriatrii, Reumatologii i Rehabilitacji im. prof. dr hab. med. Eleonory Reicher;
+8) przedstawiciela wskazanego przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego;
+9) przedstawiciela Rzecznika Praw Pacjenta;
+10) przedstawiciela stowarzyszeń będących, zgodnie z postanowieniami ich statutów, towarzystwami naukowymi o zasięgu krajowym, zrzeszającymi specjalistów w dziedzinie geriatrii lub medycyny rodzinnej;
+11) przedstawiciela organizacji zrzeszających pacjentów, do których zadań statutowych należą sprawy dotyczące opieki nad osobami starszymi.
+2. Członków Krajowej Rady, o których mowa w ust. 1, powołuje i odwołuje minister właściwy do spraw zdrowia.
+Członków Rady, o których mowa w ust. 1 pkt 2–11, minister właściwy do spraw zdrowia powołuje i odwołuje na wniosek podmiotów, których są przedstawicielami.
+3. Członkowie Krajowej Rady, o których mowa w ust. 1 pkt 10 i 11, są powoływani spośród kandydatów wskazanych przez stowarzyszenia i organizacje, o których mowa w ust. 1 pkt 10 i 11, zgłoszonych w terminie 14 dni od dnia udostępnienia na stronie podmiotowej Biuletynu Informacji Publicznej urzędu obsługującego ministra właściwego do spraw zdrowia ogłoszenia o naborze przedstawicieli takich stowarzyszeń i organizacji na członków Rady.
+44. 1. Przewodniczącego Krajowej Rady wskazuje minister właściwy do spraw zdrowia spośród członków Krajowej Rady.
+2. W pracach Krajowej Rady mogą uczestniczyć osoby niebędące członkami Krajowej Rady, zaproszone przez Przewodniczącego Krajowej Rady. Osobom tym nie przysługuje prawo głosu przy podejmowaniu rozstrzygnięć.
+3. Krajowa Rada podejmuje rozstrzygnięcia zwykłą większością głosów w obecności co najmniej połowy jej członków.
+W przypadku równej liczby głosów decyduje głos Przewodniczącego Krajowej Rady.
+do spraw zdrowia.
+5. Za udział w pracach Krajowej Rady nie przysługuje wynagrodzenie.
+6. Członkom Krajowej Rady biorącym udział w posiedzeniu Krajowej Rady oraz osobom, o których mowa w ust. 2, zamieszkałym poza miejscowością, w której odbywa się posiedzenie Krajowej Rady, przysługuje zwrot kosztów przejazdu i zakwaterowania oraz dieta na zasadach określonych w przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej.
+7. Obsługę Krajowej Rady zapewnia urząd obsługujący ministra właściwego do spraw zdrowia.
+8. Koszty funkcjonowania Krajowej Rady są pokrywane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia.
+45. 1. Do finansowania świadczeń opieki zdrowotnej, o których mowa w art. 20 ust. 2 i 3, udzielanych pacjentom w centrum, stosuje się przepisy ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, z wyłączeniem przepisów dotyczących zawierania umów w trybie konkursu ofert i rokowań.
+2. W przypadku, o którym mowa w ust. 1, Narodowy Fundusz Zdrowia zawiera umowę ze świadczeniodawcą wskazanym w wojewódzkim planie, spełniającym warunki do zawarcia umowy na realizację świadczeń, o których mowa w ust. 1, określone przez Prezesa Narodowego Funduszu Zdrowia. Przepisy art. 146 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych stosuje się odpowiednio.
+46. 1. Kto, nie będąc do tego uprawnionym, używa w nazwie, w firmie lub do określenia wykonywanej przez siebie działalności gospodarczej albo w reklamie określenia „centrum zdrowia 75+”, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+2. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1, działając w imieniu osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
+47. W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2023 r. poz. 1516 i 1617) w art. 29 w ust. 4 pkt 3 otrzymuje brzmienie: „3) dyrektor instytutu badawczego nadzorowanego przez ministra właściwego do spraw zdrowia, dyrektor państwowego instytutu badawczego uczestniczącego w systemie ochrony zdrowia i nadzorowanego przez Ministra Obrony Narodowej, dyrektor Państwowego Instytutu Medycznego Ministerstwa Spraw Wewnętrznych i Administracji lub dyrektor instytutu Polskiej Akademii Nauk należącego do Wydziału Nauk Medycznych.”.
+48. W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2022 r. poz. 2561, z późn. zm. ) wprowadza się następujące zmiany:
+1) art. 29 otrzymuje brzmienie: „Art. 29. Świadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 325 i art. 599 ustawy z dnia 11 marca 2022 r. o obronie Ojczyzny, art. 153 ust. 7a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2023 r. poz. 1080, 1088, 1489 i 1723), art. 115 § 1a Kodeksu karnego wykonawczego, art. 112 ust. 1 i 2 ustawy z dnia 9 czerwca 2022 r. o wspieraniu i resocjalizacji nieletnich (Dz. U.
+poz. 1700 oraz z 2023 r. poz. 289) oraz art. 21 i art. 36 ust. 1 ustawy z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U. poz. 1831).”;
+2) w art. 95d w ust. 2 w pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 w brzmieniu: „6) centrum zdrowia 75+, o którym mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej.”.
+następujące zmiany:
+1) w art. 7:
+a) w pkt 2 po wyrazach „polegającego na” dodaje się wyrazy „budowie,”,
+b) w pkt 8 kropkę zastępuje się średnikiem i dodaje się pkt 9 w brzmieniu: „9) dofinansowanie zadania polegającego na budowie, modernizacji, przebudowie lub doposażeniu centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej (Dz. U.
+poz. 1831), w ramach subfunduszu modernizacji podmiotów leczniczych.”;
+2) w art. 13 w ust. 2 w pkt 2 kropkę zastępuje się średnikiem i dodaje się pkt 3 w brzmieniu: „3) podmiotem leczniczym wykonującym działalność leczniczą w rodzaju stacjonarne i całodobowe świadczenie zdrowotne w zakresie opieka psychiatryczna i leczenie uzależnień, na podstawie umowy z Narodowym Funduszem Zdrowia.”;
+3) w art. 19 w ust. 3:
+a) w pkt 1 po wyrazach „opiekuńczo-leczniczych” dodaje się przecinek oraz wyrazy „świadczeń z zakresu opieka psychiatryczna i leczenie uzależnień oraz świadczeń z zakresu opieki paliatywnej i hospicyjnej udzielanych w warunkach stacjonarnych”,
+b) w pkt 4 kropkę zastępuje się średnikiem i dodaje się pkt 5 w brzmieniu: „5) wsparcie tworzenia centrów zdrowia 75+, o których mowa w ustawie z dnia 17 sierpnia 2023 r. o szczególnej opiece geriatrycznej.”.
+50. 1. Wojewoda rozpoczyna prace nad opracowaniem pierwszego wojewódzkiego planu, udostępniając w Biuletynie Informacji Publicznej urzędu wojewódzkiego informację, o której mowa w art. 13 ust. 1, w terminie 14 dni od dnia wejścia w życie ustawy.
+2. W pierwszym wojewódzkim planie uwzględnia się:
+1) wszystkie oddziały geriatryczne istniejące w dniu wejścia w życie ustawy;
+2) centra zgłoszone na podstawie art. 13 ust. 2.
+51. 1. Tworzy się Krajową Radę do Spraw Opieki Geriatrycznej.
+2. Pierwszych członków Krajowej Rady minister właściwy do spraw zdrowia powołuje do dnia 1 marca 2024 r.
+52. W przypadku osób, które ukończyły 75. rok życia przed dniem wejścia w życie ustawy, wstępną ocenę geriatryczną, o której mowa w art. 36 ust. 3, przeprowadza się w terminie roku od dnia wejścia w życie ustawy.
+53. W okresie 5 lat od dnia wejścia w życie ustawy łączna liczba łóżek w oddziałach geriatrycznych ujętych w wojewódzkim planie może być mniejsza niż określona na podstawie art. 10 ust. 3.
+54. W okresie 3 lat od dnia wejścia w życie ustawy edukatorem zdrowotnym może być osoba, która nie spełnia wymogu ukończenia szkolenia, o którym mowa w art. 28 ust. 1.
+55. Powiat jest obowiązany do utworzenia centrum, w przypadku gdy wynika to z wojewódzkiego planu, albo do zawarcia porozumienia, o którym mowa w art. 19 ust. 1, nie później niż w terminie 5 lat od dnia wejścia w życie ustawy.
+56. Ustawa wchodzi w życie z dniem 1 stycznia 2024 r., z wyjątkiem art. 47, art. 49 pkt 1 lit. a, pkt 2 i 3 lit. a, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: A. Duda
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Wykonywanie zadań z zakresu szczególnej opieki geriatrycznej
+
+#### Rozdział 4 Utworzenie centrum
+
+#### Rozdział 7 Krajowa Rada
+
+#### Rozdział 8 Finansowanie szczególnej opieki geriatrycznej
+
+#### Rozdział 9 Przepisy karne
+
+#### Rozdział 10 Zmiany w przepisach, przepisy dostosowujące i przepis końcowy
+

@@ -1,0 +1,30 @@
+---
+title: "Ustawa z dnia 28 lipca 2011 r. zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw"
+address: WDU20111851095
+eli: DU/2011/1095
+publisher: DU
+year: 2011
+pos: 1095
+act_type: Ustawa
+status: obowiązujący
+domain: null
+---
+
+# Ustawa z dnia 28 lipca 2011 r. zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy - Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2011 nr 185 poz. 1095 |
+| ISAP | WDU20111851095 |
+| Typ aktu | Ustawa |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2011-07-28 |
+| Data wydania | 2011-09-06 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111851095) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/1095/text.pdf) |
+
+**Art. 1.** W ustawie z dnia 24 kwietnia 2009 r. o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy — Prawo bankowe (Dz. U. Nr 71, poz. 609 oraz z 2010 r. Nr 257, poz. 1725) wprowadza się następujące zmiany:
+
+**Art. 2.** W ustawie z dnia 16 grudnia 2010 r. o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw (Dz. U. Nr 257, poz. 1725) uchyla się art. 9. pieczenia emerytalne i rentowe za okres pobierania zasiłku macierzyńskiego lub zasiłku Art. 3. Ustawa wchodzi w życie z dniem ogłoszew wysokości zasiłku macierzyńskiego, ustalo- nia. nych od podstawy odpowiadającej kwocie tego zasiłku. W przypadku uwzględnienia Prezydent Rzeczypospolitej Polskiej: B. Komorowski 1095 USTAWA z dnia 28 lipca 2011 r. zmieniająca ustawę o zmianie ustawy o systemie ubezpieczeń społecznych oraz ustawy — Prawo bankowe oraz ustawę o zmianie ustawy o promocji zatrudnienia i instytucjach rynku pracy oraz niektórych innych ustaw w w . r c l . g o v . p
+

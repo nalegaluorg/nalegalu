@@ -1,0 +1,33 @@
+---
+title: Wyrok Trybunału Konstytucyjnego z dnia 22 października 2013 r. sygn. akt SK 14/11
+address: WDU20130001427
+eli: DU/2013/1427
+publisher: DU
+year: 2013
+pos: 1427
+act_type: Orzeczenie
+status: obowiązujący
+domain: null
+---
+
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 grudnia 2013 r.
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2013 poz. 1427 |
+| ISAP | WDU20130001427 |
+| Typ aktu | Orzeczenie |
+| Status | obowiązujący |
+| W mocy | tak |
+| Data ogłoszenia | 2013-10-22 |
+| Data wydania | 2013-12-03 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20130001427) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2013/1427/text.pdf) |
+
+Poz. 1427 WYROK TRYBUNAŁU KONSTYTUCYJNEGO z dnia 22 października 2013 r.
+sygn. akt SK 14/11 Trybunał Konstytucyjny w składzie: Stanisław Rymar – przewodniczący, Stanisław Biernat – sprawozdawca, Wojciech Hermeliński, Leon Kieres, Marek Kotlinowski, po rozpoznaniu, z udziałem skarżącej oraz Sejmu, Prokuratora Generalnego i Rzecznika Praw Obywatelskich, na rozprawie w dniu 22 października 2013 r., połączonych skarg konstytucyjnych:
+1) Anny Nowikowskiej o zbadanie zgodności art. 357 § 2 zdanie drugie ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) w zakresie, w jakim wyklucza sporządzenie uzasadnienia postanowienia wydanego na posiedzeniu niejawnym, na które nie przysługuje środek zaskarżenia tj. postanowienia w przedmiocie oddalenia skargi na czynności komornika, co uniemożliwia stronie zapoznanie się z motywami jakimi kierował się sąd wydając orzeczenie, z art. 45 ust. 1 w związku z art. 31 ust. 3 oraz art. 2 Konstytucji Rzeczypospolitej Polskiej,
+2) Wiesławy Mirosław o zbadanie zgodności art. 357 § 2 zdanie drugie w związku z art. 766 w związku z art. 13 § 2 ustawy powołanej w punkcie 1 w zakresie, w jakim obowiązek sporządzenia przez sąd uzasadnienia postanowienia wydanego na posiedzeniu niejawnym, a oddalającego skargę na czynność komornika sądowego warunkowany jest tym, czy stronie przysługuje środek zaskarżenia, z art. 45 ust. 1 w związku z art. 2 Konstytucji oraz z preambułą Konstytucji w zakresie zapewnienia rzetelnego działania instytucji publicznych, do których należą sądy w sprawach obywateli i z art. 31 ust. 3 Konstytucji, orzeka:
+Art. 357 § 2 zdanie drugie w związku z art. 13 § 2 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.) w zakresie, w jakim nie przewiduje obowiązku sporządzenia przez sąd uzasadnienia postanowienia rozstrzygającego skargę na czynności komornika, na które nie przysługuje zażalenie, jest zgodny z art. 45 Ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r. Nr 48, poz. 552 i Nr 53, poz. 638, z 2001 r. Nr 98, poz. 1070, z 2005 r. Nr 169, poz. 1417, z 2009 r. Nr 56, poz. 459 i Nr 178, poz. 1375, z 2010 r. Nr 182, poz. 1228 i Nr 197, poz. 1307 oraz z 2011 r. Nr 112, poz. 654) umorzyć postępowanie w pozostałym zakresie.
+Stanisław Rymar Stanisław Biernat Wojciech Hermeliński Leon Kieres Marek Kotlinowski
+
