@@ -6,6 +6,6 @@ Akty prawne z dziedziny: **Prawo konstytucyjne**.
 
 | Akt | Tytuł | Typ | Status | Orzecznictwo |
 |-----|-------|-----|--------|:---:|
-| [WDU19970780483](WDU19970780483/index.md) | Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. | Ustawa | obowiązujący |  |
+| [WDU19970780483](WDU19970780483/index.md) | Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r. | Ustawa | obowiązujący | [tak](WDU19970780483/orzecznictwo.md) |
 
 *1 aktów • [← Powrót do spisu głównego](../README.md)*

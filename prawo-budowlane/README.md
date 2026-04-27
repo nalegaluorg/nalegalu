@@ -25,15 +25,15 @@ Akty prawne z dziedziny: **Prawo budowlane**.
 | [WDU20150000443](WDU20150000443/index.md) | Ustawa z dnia 20 lutego 2015 r. o zmianie ustawy - Prawo budowlane oraz nie | Ustawa | obowiązujący |  |
 | [WDU20150001165](WDU20150001165/index.md) | Ustawa z dnia 25 czerwca 2015 r. o zmianie ustawy o wyrobach budowlanych, u | Ustawa | obowiązujący |  |
 | [WDU20111530901](WDU20111530901/index.md) | Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o planowaniu i zagospodarowa | Ustawa | obowiązujący |  |
-| [WDU20101300871](WDU20101300871/index.md) | Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o planowaniu i zagospodar | Ustawa | obowiązujący |  |
-| [WDU20101551043](WDU20101551043/index.md) | Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o gospodarce nieruchomośc | Ustawa | obowiązujący |  |
+| [WDU20101300871](WDU20101300871/index.md) | Ustawa z dnia 25 czerwca 2010 r. o zmianie ustawy o planowaniu i zagospodar | Ustawa | obowiązujący | [tak](WDU20101300871/orzecznictwo.md) |
+| [WDU20101551043](WDU20101551043/index.md) | Ustawa z dnia 6 sierpnia 2010 r. o zmianie ustawy o gospodarce nieruchomośc | Ustawa | obowiązujący | [tak](WDU20101551043/orzecznictwo.md) |
 | [WDU20082101321](WDU20082101321/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o samorządach zawodowych | Ustawa | obowiązujący |  |
 | [WDU20070990665](WDU20070990665/index.md) | Ustawa z dnia 10 maja 2007 r. o zmianie ustawy - Prawo budowlane oraz niekt | Ustawa | obowiązujący |  |
-| [WDU20051631364](WDU20051631364/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący |  |
-| [WDU20030800718](WDU20030800718/index.md) | Ustawa z dnia 27 marca 2003 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący |  |
-| [WDU20030800717](WDU20030800717/index.md) | Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzenny | Ustawa | akt posiada tekst jednolity |  |
+| [WDU20051631364](WDU20051631364/index.md) | Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący | [tak](WDU20051631364/orzecznictwo.md) |
+| [WDU20030800718](WDU20030800718/index.md) | Ustawa z dnia 27 marca 2003 r. o zmianie ustawy - Prawo budowlane oraz o zm | Ustawa | obowiązujący | [tak](WDU20030800718/orzecznictwo.md) |
+| [WDU20030800717](WDU20030800717/index.md) | Ustawa z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzenny | Ustawa | akt posiada tekst jednolity | [tak](WDU20030800717/orzecznictwo.md) |
 | [WDU19971110726](WDU19971110726/index.md) | Ustawa z dnia 22 sierpnia 1997 r. o zmianie ustawy - Prawo budowlane, ustaw | Ustawa | obowiązujący |  |
 | [WDU19961460680](WDU19961460680/index.md) | Ustawa z dnia 11 października 1996 r. o zmianie ustawy o postępowaniu egzek | Ustawa | obowiązujący |  |
-| [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity |  |
+| [WDU19940890414](WDU19940890414/index.md) | Ustawa z dnia 7 lipca 1994 r. - Prawo budowlane. | Ustawa | akt posiada tekst jednolity | [tak](WDU19940890414/orzecznictwo.md) |
 
 *29 aktów • [← Powrót do spisu głównego](../README.md)*

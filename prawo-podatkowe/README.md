@@ -95,74 +95,74 @@ Akty prawne z dziedziny: **Prawo podatkowe**.
 | [WDU20140001478](WDU20140001478/index.md) | Ustawa z dnia 21 października 2014 r. zmieniająca ustawę o zmianie ustawy o | Ustawa | obowiązujący |  |
 | [WDU20140001328](WDU20140001328/index.md) | Ustawa z dnia 29 sierpnia 2014 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20140001171](WDU20140001171/index.md) | Ustawa z dnia 25 lipca 2014 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
-| [WDU20130000035](WDU20130000035/index.md) | Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
+| [WDU20130000035](WDU20130000035/index.md) | Ustawa z dnia 7 grudnia 2012 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący | [tak](WDU20130000035/orzecznictwo.md) |
 | [WDU20130001387](WDU20130001387/index.md) | Ustawa z dnia 8 listopada 2013 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20130001145](WDU20130001145/index.md) | Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
 | [WDU20130001027](WDU20130001027/index.md) | Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
 | [WDU20120001530](WDU20120001530/index.md) | Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o finansach publicznych o | Ustawa | obowiązujący |  |
 | [WDU20111340780](WDU20111340780/index.md) | Ustawa z dnia 9 czerwca 2011 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
-| [WDU20110640332](WDU20110640332/index.md) | Ustawa z dnia 18 marca 2011 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
+| [WDU20110640332](WDU20110640332/index.md) | Ustawa z dnia 18 marca 2011 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący | [tak](WDU20110640332/orzecznictwo.md) |
 | [WDU20112341389](WDU20112341389/index.md) | Ustawa z dnia 16 września 2011 r. o zmianie ustawy o funduszach inwestycyjn | Ustawa | obowiązujący |  |
 | [WDU20100750473](WDU20100750473/index.md) | Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
 | [WDU20100570357](WDU20100570357/index.md) | Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
 | [WDU20100570352](WDU20100570352/index.md) | Ustawa z dnia 19 lutego 2010 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
-| [WDU20102471652](WDU20102471652/index.md) | Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
-| [WDU20102261476](WDU20102261476/index.md) | Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku od towarów | Ustawa | obowiązujący |  |
+| [WDU20102471652](WDU20102471652/index.md) | Ustawa z dnia 16 grudnia 2010 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący | [tak](WDU20102471652/orzecznictwo.md) |
+| [WDU20102261476](WDU20102261476/index.md) | Ustawa z dnia 29 października 2010 r. o zmianie ustawy o podatku od towarów | Ustawa | obowiązujący | [tak](WDU20102261476/orzecznictwo.md) |
 | [WDU20102191442](WDU20102191442/index.md) | Ustawa z dnia 24 września 24 września 2010 r. o zmianie ustawy o podatku do | Ustawa | obowiązujący |  |
 | [WDU20101971306](WDU20101971306/index.md) | Ustawa z dnia 24 września 2010 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
 | [WDU20090690587](WDU20090690587/index.md) | Ustawa z dnia 5 marca 2009 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
-| [WDU20090570466](WDU20090570466/index.md) | Ustawa z dnia 5 marca 2009 r. o zmianie ustawy - Ordynacja podatkowa oraz u | Ustawa | obowiązujący |  |
-| [WDU20092151666](WDU20092151666/index.md) | Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący |  |
+| [WDU20090570466](WDU20090570466/index.md) | Ustawa z dnia 5 marca 2009 r. o zmianie ustawy - Ordynacja podatkowa oraz u | Ustawa | obowiązujący | [tak](WDU20090570466/orzecznictwo.md) |
+| [WDU20092151666](WDU20092151666/index.md) | Ustawa z dnia 2 grudnia 2009 r. o zmianie ustawy o podatku od towarów i usł | Ustawa | obowiązujący | [tak](WDU20092151666/orzecznictwo.md) |
 | [WDU20092011541](WDU20092011541/index.md) | Ustawa z dnia 23 października 2009 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
 | [WDU20091951504](WDU20091951504/index.md) | Ustawa z dnia 23 października 2009 r. o zmianie ustawy o podatku od towarów | Ustawa | obowiązujący |  |
 | [WDU20081300826](WDU20081300826/index.md) | Ustawa z dnia 30 maja 2008 r. o zmianie ustawy o podatku od towarów i usług | Ustawa | obowiązujący |  |
-| [WDU20080740444](WDU20080740444/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
-| [WDU20082091320](WDU20082091320/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
-| [WDU20082091318](WDU20082091318/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
-| [WDU20082091316](WDU20082091316/index.md) | Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
+| [WDU20080740444](WDU20080740444/index.md) | Ustawa z dnia 11 kwietnia 2008 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący | [tak](WDU20080740444/orzecznictwo.md) |
+| [WDU20082091320](WDU20082091320/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący | [tak](WDU20082091320/orzecznictwo.md) |
+| [WDU20082091318](WDU20082091318/index.md) | Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20082091318/orzecznictwo.md) |
+| [WDU20082091316](WDU20082091316/index.md) | Ustawa z dnia 6 listopada 2008 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący | [tak](WDU20082091316/orzecznictwo.md) |
 | [WDU20070990658](WDU20070990658/index.md) | Ustawa z dnia 29 marca 2007 r. o zmianie ustawy o kombatantach oraz niektór | Ustawa | obowiązujący |  |
-| [WDU20071921382](WDU20071921382/index.md) | Ustawa z dnia 19 września 2007 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
+| [WDU20071921382](WDU20071921382/index.md) | Ustawa z dnia 19 września 2007 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący | [tak](WDU20071921382/orzecznictwo.md) |
 | [WDU20071911361](WDU20071911361/index.md) | Ustawa z dnia 5 września 2007 r. o zmianie ustawy o podatku dochodowym od o | Ustawa | obowiązujący |  |
 | [WDU20060660470](WDU20060660470/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy o kontroli skarbowej oraz  | Ustawa | obowiązujący |  |
 | [WDU20060460328](WDU20060460328/index.md) | Ustawa z dnia 26 stycznia 2006 r. o zmianie ustawy - Prawo o szkolnictwie w | Ustawa | obowiązujący |  |
-| [WDU20062171590](WDU20062171590/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Ordynacja podatkowa o | Ustawa | obowiązujący |  |
+| [WDU20062171590](WDU20062171590/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy - Ordynacja podatkowa o | Ustawa | obowiązujący | [tak](WDU20062171590/orzecznictwo.md) |
 | [WDU20062171589](WDU20062171589/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
-| [WDU20062171588](WDU20062171588/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
+| [WDU20062171588](WDU20062171588/index.md) | Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20062171588/orzecznictwo.md) |
 | [WDU20061431031](WDU20061431031/index.md) | Ustawa z dnia 13 lipca 2006 r. zmieniająca ustawę o zmianie ustawy - Ordyna | Ustawa | obowiązujący |  |
 | [WDU20061431029](WDU20061431029/index.md) | Ustawa z dnia 13 lipca 2006 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
 | [WDU20061431028](WDU20061431028/index.md) | Ustawa z dnia 13 lipca 2006 r. o zmianie ustawy o podatku od towarów i usłu | Ustawa | obowiązujący |  |
-| [WDU20050900756](WDU20050900756/index.md) | Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący |  |
-| [WDU20051431199](WDU20051431199/index.md) | Ustawa z dnia 30 czerwca 2005 r. o zmianie ustawy - Ordynacja podatkowa ora | Ustawa | obowiązujący |  |
+| [WDU20050900756](WDU20050900756/index.md) | Ustawa z dnia 21 kwietnia 2005 r. o zmianie ustawy o podatku od towarów i u | Ustawa | obowiązujący | [tak](WDU20050900756/orzecznictwo.md) |
+| [WDU20051431199](WDU20051431199/index.md) | Ustawa z dnia 30 czerwca 2005 r. o zmianie ustawy - Ordynacja podatkowa ora | Ustawa | obowiązujący | [tak](WDU20051431199/orzecznictwo.md) |
 | [WDU20050140113](WDU20050140113/index.md) | Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o podatku od towarów i us | Ustawa | obowiązujący |  |
 | [WDU20040930894](WDU20040930894/index.md) | Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
 | [WDU20040910868](WDU20040910868/index.md) | Ustawa z dnia 19 marca 2004 r. o zmianie ustawy - Ordynacja podatkowa oraz  | Ustawa | obowiązujący |  |
-| [WDU20040540535](WDU20040540535/index.md) | Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług | Ustawa | akt posiada tekst jednolity |  |
+| [WDU20040540535](WDU20040540535/index.md) | Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług | Ustawa | akt posiada tekst jednolity | [tak](WDU20040540535/orzecznictwo.md) |
 | [WDU20042812781](WDU20042812781/index.md) | Ustawa z dnia 16 grudnia 2004 r. o zmianie ustawy o systemie oświaty oraz u | Ustawa | obowiązujący |  |
-| [WDU20042632619](WDU20042632619/index.md) | Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
+| [WDU20042632619](WDU20042632619/index.md) | Ustawa z dnia 18 listopada 2004 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20042632619/orzecznictwo.md) |
 | [WDU20032222201](WDU20032222201/index.md) | Ustawa z dnia 10 grudnia 2003 r. zmieniająca ustawę o zmianie ustawy o poda | Ustawa | obowiązujący |  |
 | [WDU20032021957](WDU20032021957/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
-| [WDU20032021956](WDU20032021956/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
+| [WDU20032021956](WDU20032021956/index.md) | Ustawa z dnia 12 listopada 2003 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20032021956/orzecznictwo.md) |
 | [WDU20022001684](WDU20022001684/index.md) | Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
-| [WDU20021811515](WDU20021811515/index.md) | Ustawa z dnia 11 października 2002 r. o zmianie ustawy o zaopatrzeniu inwal | Ustawa | obowiązujący |  |
-| [WDU20021691387](WDU20021691387/index.md) | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
+| [WDU20021811515](WDU20021811515/index.md) | Ustawa z dnia 11 października 2002 r. o zmianie ustawy o zaopatrzeniu inwal | Ustawa | obowiązujący | [tak](WDU20021811515/orzecznictwo.md) |
+| [WDU20021691387](WDU20021691387/index.md) | Ustawa z dnia 12 września 2002 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20021691387/orzecznictwo.md) |
 | [WDU20021691384](WDU20021691384/index.md) | Ustawa z dnia 30 sierpnia 2002 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
-| [WDU20021411182](WDU20021411182/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
+| [WDU20021411182](WDU20021411182/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący | [tak](WDU20021411182/orzecznictwo.md) |
 | [WDU20021411179](WDU20021411179/index.md) | Ustawa z dnia 27 lipca 2002 r. o zmianie ustawy o podatku dochodowym od osó | Ustawa | obowiązujący |  |
-| [WDU20010890968](WDU20010890968/index.md) | Ustawa z dnia 20 czerwca 2001 r. o zmianie ustawy o świadczeniu pieniężnym  | Ustawa | obowiązujący |  |
-| [WDU20010390459](WDU20010390459/index.md) | Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący |  |
+| [WDU20010890968](WDU20010890968/index.md) | Ustawa z dnia 20 czerwca 2001 r. o zmianie ustawy o świadczeniu pieniężnym  | Ustawa | obowiązujący | [tak](WDU20010890968/orzecznictwo.md) |
+| [WDU20010390459](WDU20010390459/index.md) | Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy - Ordynacja podatkowa or | Ustawa | obowiązujący | [tak](WDU20010390459/orzecznictwo.md) |
 | [WDU20010160166](WDU20010160166/index.md) | Ustawa z dnia 3 lutego 2001 r. o zmianie ustawy o nabywaniu nieruchomości p | Ustawa | obowiązujący |  |
-| [WDU20011341509](WDU20011341509/index.md) | Ustawa z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący |  |
+| [WDU20011341509](WDU20011341509/index.md) | Ustawa z dnia 21 listopada 2001 r. o zmianie ustawy o podatku dochodowym od | Ustawa | obowiązujący | [tak](WDU20011341509/orzecznictwo.md) |
 | [WDU20011061150](WDU20011061150/index.md) | Ustawa z dnia 6 września 2001 r. o zmianie ustaw: o podatku dochodowym od o | Ustawa | obowiązujący |  |
 | [WDU20000600700](WDU20000600700/index.md) | Ustawa z dnia 9 czerwca 2000 r. o zmianie ustawy o podatku dochodowym od os | Ustawa | obowiązujący |  |
 | [WDU20001221324](WDU20001221324/index.md) | Ustawa z dnia 22 grudnia 2000 r. o zmianie ustawy o powszechnym ubezpieczen | Ustawa | obowiązujący |  |
-| [WDU20001221315](WDU20001221315/index.md) | Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjny | Ustawa | obowiązujący |  |
-| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący |  |
-| [WDU19971370926](WDU19971370926/index.md) | Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa. | Ustawa | akt posiada tekst jednolity |  |
+| [WDU20001221315](WDU20001221315/index.md) | Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o postępowaniu egzekucyjny | Ustawa | obowiązujący | [tak](WDU20001221315/orzecznictwo.md) |
+| [WDU20001041104](WDU20001041104/index.md) | Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy o podatku dochodowym od  | Ustawa | obowiązujący | [tak](WDU20001041104/orzecznictwo.md) |
+| [WDU19971370926](WDU19971370926/index.md) | Ustawa z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa. | Ustawa | akt posiada tekst jednolity | [tak](WDU19971370926/orzecznictwo.md) |
 | [WDU19951420704](WDU19951420704/index.md) | Ustawa z dnia 13 października 1995 r. o zmianie ustawy o podatku dochodowym | Ustawa | obowiązujący |  |
 | [WDU19950960478](WDU19950960478/index.md) | Ustawa z dnia 8 czerwca 1995 r. o zmianie ustawy o działalności ubezpieczen | Ustawa | obowiązujący |  |
 | [WDU19941260626](WDU19941260626/index.md) | Obwieszczenie Prezesa Trybunału Konstytucyjnego z dnia 19 listopada 1994 r. | Obwieszczenie | obowiązujący |  |
 | [WDU19940870406](WDU19940870406/index.md) | Ustawa z dnia 28 maja 1994 r. o zmianie ustawy o podatku dochodowym od osób | Ustawa | obowiązujący |  |
-| [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity |  |
-| [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity |  |
+| [WDU19920210086](WDU19920210086/index.md) | Ustawa z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych | Ustawa | akt posiada tekst jednolity | [tak](WDU19920210086/orzecznictwo.md) |
+| [WDU19910800350](WDU19910800350/index.md) | Ustawa z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych. | Ustawa | akt posiada tekst jednolity | [tak](WDU19910800350/orzecznictwo.md) |
 
 *158 aktów • [← Powrót do spisu głównego](../README.md)*

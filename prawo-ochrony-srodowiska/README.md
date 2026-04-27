@@ -32,28 +32,28 @@ Akty prawne z dziedziny: **Prawo ochrony środowiska**.
 | [WDU20150002278](WDU20150002278/index.md) | Ustawa z dnia 16 grudnia 2015 r. o zmianie ustawy - Prawo ochrony środowisk | Ustawa | obowiązujący |  |
 | [WDU20150001434](WDU20150001434/index.md) | Ustawa z dnia 23 lipca 2015 r. o zmianie ustawy - Prawo ochrony środowiska  | Ustawa | obowiązujący |  |
 | [WDU20140000850](WDU20140000850/index.md) | Ustawa z dnia 30 maja 2014 r. o zmianie ustawy - Prawo wodne oraz niektóryc | Ustawa | obowiązujący |  |
-| [WDU20140000659](WDU20140000659/index.md) | Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy - Prawo wodne oraz niektó | Ustawa | obowiązujący |  |
-| [WDU20140001101](WDU20140001101/index.md) | Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo ochrony środowiska  | Ustawa | obowiązujący |  |
+| [WDU20140000659](WDU20140000659/index.md) | Ustawa z dnia 4 kwietnia 2014 r. o zmianie ustawy - Prawo wodne oraz niektó | Ustawa | obowiązujący | [tak](WDU20140000659/orzecznictwo.md) |
+| [WDU20140001101](WDU20140001101/index.md) | Ustawa z dnia 11 lipca 2014 r. o zmianie ustawy - Prawo ochrony środowiska  | Ustawa | obowiązujący | [tak](WDU20140001101/orzecznictwo.md) |
 | [WDU20130000165](WDU20130000165/index.md) | Ustawa z dnia 4 stycznia 2013 r. o zmianie ustawy - Prawo wodne oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20130000139](WDU20130000139/index.md) | Ustawa z dnia 12 grudnia 2012 r. o zmianie ustawy o systemie zarządzania em | Ustawa | obowiązujący |  |
 | [WDU20120000460](WDU20120000460/index.md) | Ustawa z dnia 13 kwietnia 2012 r. o zmianie ustawy - Prawo ochrony środowis | Ustawa | obowiązujący |  |
 | [WDU20110320159](WDU20110320159/index.md) | Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy - Prawo wodne oraz niektó | Ustawa | obowiązujący |  |
 | [WDU20102491657](WDU20102491657/index.md) | Ustawa z dnia 3 grudnia 2010 r. o zmianie ustawy - Prawo ochrony środowiska | Ustawa | obowiązujący |  |
 | [WDU20092151664](WDU20092151664/index.md) | Ustawa z dnia 20 listopada 2009 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
-| [WDU20070880587](WDU20070880587/index.md) | Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy - Prawo ochrony środowis | Ustawa | obowiązujący |  |
-| [WDU20070210124](WDU20070210124/index.md) | Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy - Prawo energetyczne, us | Ustawa | obowiązujący |  |
+| [WDU20070880587](WDU20070880587/index.md) | Ustawa z dnia 26 kwietnia 2007 r. o zmianie ustawy - Prawo ochrony środowis | Ustawa | obowiązujący | [tak](WDU20070880587/orzecznictwo.md) |
+| [WDU20070210124](WDU20070210124/index.md) | Ustawa z dnia 12 stycznia 2007 r. o zmianie ustawy - Prawo energetyczne, us | Ustawa | obowiązujący | [tak](WDU20070210124/orzecznictwo.md) |
 | [WDU20060500360](WDU20060500360/index.md) | Ustawa z dnia 24 lutego 2006 r. o zmianie ustawy - Prawo ochrony środowiska | Ustawa | obowiązujący |  |
-| [WDU20051130954](WDU20051130954/index.md) | Ustawa z dnia 18 maja 2005 r. o zmianie ustawy - Prawo ochrony środowiska o | Ustawa | obowiązujący |  |
-| [WDU20050620552](WDU20050620552/index.md) | Ustawa z dnia 4 marca 2005 r. o zmianie ustawy - Prawo energetyczne oraz us | Ustawa | obowiązujący |  |
+| [WDU20051130954](WDU20051130954/index.md) | Ustawa z dnia 18 maja 2005 r. o zmianie ustawy - Prawo ochrony środowiska o | Ustawa | obowiązujący | [tak](WDU20051130954/orzecznictwo.md) |
+| [WDU20050620552](WDU20050620552/index.md) | Ustawa z dnia 4 marca 2005 r. o zmianie ustawy - Prawo energetyczne oraz us | Ustawa | obowiązujący | [tak](WDU20050620552/orzecznictwo.md) |
 | [WDU20051301087](WDU20051301087/index.md) | Ustawa z dnia 3 czerwca 2005 r. o zmianie ustawy - Prawo wodne oraz niektór | Ustawa | obowiązujący |  |
-| [WDU20040910875](WDU20040910875/index.md) | Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy - Prawo energetyczne oraz | Ustawa | obowiązujący |  |
+| [WDU20040910875](WDU20040910875/index.md) | Ustawa z dnia 2 kwietnia 2004 r. o zmianie ustawy - Prawo energetyczne oraz | Ustawa | obowiązujący | [tak](WDU20040910875/orzecznictwo.md) |
 | [WDU20040490464](WDU20040490464/index.md) | Ustawa z dnia 19 lutego 2004 r. o zmianie ustawy - Prawo ochrony środowiska | Ustawa | obowiązujący |  |
 | [WDU20030460392](WDU20030460392/index.md) | Ustawa z dnia 14 lutego 2003 r. o zmianie ustawy o przeznaczeniu gruntów ro | Ustawa | obowiązujący |  |
 | [WDU20031901865](WDU20031901865/index.md) | Ustawa z dnia 3 października 2003 r. o zmianie ustawy - Prawo ochrony środo | Ustawa | obowiązujący |  |
 | [WDU20031751693](WDU20031751693/index.md) | Ustawa z dnia 29 sierpnia 2003 r. o zmianie ustawy o restrukturyzacji finan | Ustawa | obowiązujący |  |
 | [WDU20022331957](WDU20022331957/index.md) | Ustawa z dnia 23 listopada 2002 r. o zmianie ustawy - Prawo ochrony środowi | Ustawa | obowiązujący |  |
 | [WDU20021431196](WDU20021431196/index.md) | Ustawa z dnia 18 lipca 2002 r. o zmianie ustawy o wprowadzeniu ustawy - Pra | Ustawa | obowiązujący |  |
-| [WDU20010620627](WDU20010620627/index.md) | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. | Ustawa | akt posiada tekst jednolity |  |
-| [WDU20011001085](WDU20011001085/index.md) | Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środow | Ustawa | obowiązujący |  |
+| [WDU20010620627](WDU20010620627/index.md) | Ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska. | Ustawa | akt posiada tekst jednolity | [tak](WDU20010620627/orzecznictwo.md) |
+| [WDU20011001085](WDU20011001085/index.md) | Ustawa z dnia 27 lipca 2001 r. o wprowadzeniu ustawy - Prawo ochrony środow | Ustawa | obowiązujący | [tak](WDU20011001085/orzecznictwo.md) |
 
 *49 aktów • [← Powrót do spisu głównego](../README.md)*
