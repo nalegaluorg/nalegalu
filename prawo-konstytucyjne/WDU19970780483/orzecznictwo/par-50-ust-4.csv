@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-108986|2009-01-15|TK|K 45/07|Wyrok|https://www.saos.org.pl/judgments/108986
+saos_id|date|court|case_number|type|score|saos_url
+108986|2009-01-15|TK|K 45/07|Wyrok|98|https://www.saos.org.pl/judgments/108986

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-88569|2008-08-08|SN|V CNP 28/08|Wyrok|https://www.saos.org.pl/judgments/88569
+saos_id|date|court|case_number|type|score|saos_url
+88569|2008-08-08|SN|V CNP 28/08|Wyrok|78|https://www.saos.org.pl/judgments/88569

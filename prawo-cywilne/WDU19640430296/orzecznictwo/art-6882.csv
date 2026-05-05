@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-505814|2023-01-11|SO|III Ca 1700/21|Uzasadnienie|https://www.saos.org.pl/judgments/505814
-465291|2021-12-14|SO|II Ca 1774/20|Uzasadnienie|https://www.saos.org.pl/judgments/465291
-278337|2016-11-24|SO|II Ca 1825/16|Wyrok|https://www.saos.org.pl/judgments/278337
+saos_id|date|court|case_number|type|score|saos_url
+278337|2016-11-24|SO|II Ca 1825/16|Wyrok|40|https://www.saos.org.pl/judgments/278337
+505814|2023-01-11|SO|III Ca 1700/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505814
+465291|2021-12-14|SO|II Ca 1774/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/465291

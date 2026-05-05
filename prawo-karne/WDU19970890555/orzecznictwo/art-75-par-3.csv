@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-380333|2018-12-14|SO|VIII Ka 594/18|Wyrok|https://www.saos.org.pl/judgments/380333
-394850|2017-03-02|SO|II Ko 264/16|Uzasadnienie|https://www.saos.org.pl/judgments/394850
-204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|https://www.saos.org.pl/judgments/204484
-190066|2014-05-27|SO|IX Ka 99/14|Wyrok|https://www.saos.org.pl/judgments/190066
-45536|2014-03-18|SO|VII Ka 1127/13|Wyrok|https://www.saos.org.pl/judgments/45536
-31245|2013-12-12|SO|II Ka 538/13|Wyrok|https://www.saos.org.pl/judgments/31245
-99501|2012-10-29|SN|I KZP 14/12|Postanowienie|https://www.saos.org.pl/judgments/99501
-92653|2010-07-16|SN|SNO 30/10|Uchwała|https://www.saos.org.pl/judgments/92653
-107189|2005-03-14|TK|K 35/04|Wyrok|https://www.saos.org.pl/judgments/107189
+saos_id|date|court|case_number|type|score|saos_url
+107189|2005-03-14|TK|K 35/04|Wyrok|98|https://www.saos.org.pl/judgments/107189
+92653|2010-07-16|SN|SNO 30/10|Uchwała|89|https://www.saos.org.pl/judgments/92653
+99501|2012-10-29|SN|I KZP 14/12|Postanowienie|69|https://www.saos.org.pl/judgments/99501
+204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|47|https://www.saos.org.pl/judgments/204484
+394850|2017-03-02|SO|II Ko 264/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/394850

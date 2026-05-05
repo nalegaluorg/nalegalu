@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-286820|2017-03-01|SO|VI ACa 1076/15|Wyrok|https://www.saos.org.pl/judgments/286820
+saos_id|date|court|case_number|type|score|saos_url
+286820|2017-03-01|SO|VI ACa 1076/15|Wyrok|56|https://www.saos.org.pl/judgments/286820

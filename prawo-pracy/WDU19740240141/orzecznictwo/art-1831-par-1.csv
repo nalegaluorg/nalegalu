@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-60316|2014-06-23|SO|VII Ua 22/14|Wyrok|https://www.saos.org.pl/judgments/60316
+saos_id|date|court|case_number|type|score|saos_url
+439170|2019-10-03|SO|VI P 439/16|Wyrok|40|https://www.saos.org.pl/judgments/439170
+380800|2019-01-14|SO|VIII Ua 110/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380800

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-464813|2021-09-07|SO|I ACa 245/20|Wyrok|https://www.saos.org.pl/judgments/464813
-437167|2017-12-28|SO|I ACa 764/17|Wyrok|https://www.saos.org.pl/judgments/437167
-198644|2016-01-11|SO|III Ca 1489/15|Uzasadnienie|https://www.saos.org.pl/judgments/198644
-92475|2010-06-18|SN|V CSK 422/09|Wyrok|https://www.saos.org.pl/judgments/92475
-164296|2006-05-18|SN|IV CK 367/05|Wyrok|https://www.saos.org.pl/judgments/164296
+saos_id|date|court|case_number|type|score|saos_url
+92475|2010-06-18|SN|V CSK 422/09|Wyrok|78|https://www.saos.org.pl/judgments/92475
+164296|2006-05-18|SN|IV CK 367/05|Wyrok|78|https://www.saos.org.pl/judgments/164296
+464813|2021-09-07|SO|I ACa 245/20|Wyrok|56|https://www.saos.org.pl/judgments/464813
+437167|2017-12-28|SO|I ACa 764/17|Wyrok|56|https://www.saos.org.pl/judgments/437167
+198644|2016-01-11|SO|III Ca 1489/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/198644

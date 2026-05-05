@@ -1,13 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-526467|2025-04-10|SO|IV Pa 197/24|Wyrok|https://www.saos.org.pl/judgments/526467
-518652|2024-06-07|SO|I C 326/22|Wyrok|https://www.saos.org.pl/judgments/518652
-412906|2020-01-31|SO|IV P 85/19|Wyrok|https://www.saos.org.pl/judgments/412906
-402146|2019-12-19|SO|VIII Gz 218/19|Postanowienie|https://www.saos.org.pl/judgments/402146
-339404|2018-03-26|SO|VIII Pz 2/18|Postanowienie|https://www.saos.org.pl/judgments/339404
-245329|2016-05-24|SN|I PK 143/15|Wyrok|https://www.saos.org.pl/judgments/245329
-153004|2015-05-11|SO|V ACz 362/15|Postanowienie|https://www.saos.org.pl/judgments/153004
-143633|2013-10-25|SO|I C 1970/12|Wyrok|https://www.saos.org.pl/judgments/143633
-26516|2013-10-17|SO|I ACa 766/13|Wyrok|https://www.saos.org.pl/judgments/26516
-19701|2013-08-09|SO|VI Gz 204/13|Postanowienie|https://www.saos.org.pl/judgments/19701
-147705|2013-06-28|SO|I C 611/11|Wyrok|https://www.saos.org.pl/judgments/147705
-83892|2005-11-29|SN|II PZP 8/05|Uchwała|https://www.saos.org.pl/judgments/83892
+saos_id|date|court|case_number|type|score|saos_url
+83892|2005-11-29|SN|II PZP 8/05|Uchwała|89|https://www.saos.org.pl/judgments/83892
+245329|2016-05-24|SN|I PK 143/15|Wyrok|78|https://www.saos.org.pl/judgments/245329
+26516|2013-10-17|SO|I ACa 766/13|Wyrok|56|https://www.saos.org.pl/judgments/26516
+153004|2015-05-11|SO|V ACz 362/15|Postanowienie|47|https://www.saos.org.pl/judgments/153004
+19701|2013-08-09|SO|VI Gz 204/13|Postanowienie|31|https://www.saos.org.pl/judgments/19701

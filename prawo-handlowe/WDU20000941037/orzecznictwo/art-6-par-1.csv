@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-362092|2018-07-12|SO|I AGa 32/18|Wyrok|https://www.saos.org.pl/judgments/362092
-321297|2017-10-24|SO|III AUa 591/17|Wyrok|https://www.saos.org.pl/judgments/321297
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-355607|2016-11-10|SO|V GC 539/15|Uzasadnienie|https://www.saos.org.pl/judgments/355607
-102903|2013-09-18|SN|III CZP 13/13|Uchwała|https://www.saos.org.pl/judgments/102903
-19100|2013-07-23|SO|I ACa 90/13|Wyrok|https://www.saos.org.pl/judgments/19100
-86968|2008-01-04|SN|III CSK 238/07|Wyrok|https://www.saos.org.pl/judgments/86968
+saos_id|date|court|case_number|type|score|saos_url
+102903|2013-09-18|SN|III CZP 13/13|Uchwała|96|https://www.saos.org.pl/judgments/102903
+86968|2008-01-04|SN|III CSK 238/07|Wyrok|78|https://www.saos.org.pl/judgments/86968
+362092|2018-07-12|SO|I AGa 32/18|Wyrok|56|https://www.saos.org.pl/judgments/362092
+321297|2017-10-24|SO|III AUa 591/17|Wyrok|56|https://www.saos.org.pl/judgments/321297
+19100|2013-07-23|SO|I ACa 90/13|Wyrok|56|https://www.saos.org.pl/judgments/19100
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

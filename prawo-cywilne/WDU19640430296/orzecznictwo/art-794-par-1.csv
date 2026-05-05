@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-431427|2020-11-23|SO|I C 3/19|Wyrok|https://www.saos.org.pl/judgments/431427
-59846|2014-09-11|SO|I ACz 1425/14|Postanowienie|https://www.saos.org.pl/judgments/59846
-144560|2014-02-18|SO|I Co 73/13|Postanowienie|https://www.saos.org.pl/judgments/144560
-31360|2013-11-26|SO|II Cz 552/13|Postanowienie|https://www.saos.org.pl/judgments/31360
-25075|2013-10-31|SO|VIII Cz 606/13|Postanowienie|https://www.saos.org.pl/judgments/25075
+saos_id|date|court|case_number|type|score|saos_url
+59846|2014-09-11|SO|I ACz 1425/14|Postanowienie|47|https://www.saos.org.pl/judgments/59846

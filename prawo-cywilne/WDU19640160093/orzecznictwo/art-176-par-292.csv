@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243574|2015-10-14|SN|V CSK 5/15|Postanowienie|https://www.saos.org.pl/judgments/243574
+saos_id|date|court|case_number|type|score|saos_url
+243574|2015-10-14|SN|V CSK 5/15|Postanowienie|69|https://www.saos.org.pl/judgments/243574

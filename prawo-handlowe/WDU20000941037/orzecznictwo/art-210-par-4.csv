@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-124551|2014-04-01|KIO|KIO 470/14|Wyrok|https://www.saos.org.pl/judgments/124551
+saos_id|date|court|case_number|type|score|saos_url
+124551|2014-04-01|KIO|KIO 470/14|Wyrok|44|https://www.saos.org.pl/judgments/124551

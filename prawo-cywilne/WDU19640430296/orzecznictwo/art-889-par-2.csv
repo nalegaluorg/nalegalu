@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-501246|2023-05-23|SO|II AKa 66/23|Uzasadnienie|https://www.saos.org.pl/judgments/501246
-297337|2015-01-23|SO|II Ca 719/14|Wyrok|https://www.saos.org.pl/judgments/297337
-68391|2014-01-24|SO|I ACa 1464/13|Wyrok|https://www.saos.org.pl/judgments/68391
+saos_id|date|court|case_number|type|score|saos_url
+68391|2014-01-24|SO|I ACa 1464/13|Wyrok|56|https://www.saos.org.pl/judgments/68391
+501246|2023-05-23|SO|II AKa 66/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/501246

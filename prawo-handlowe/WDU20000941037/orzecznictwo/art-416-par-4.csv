@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-334354|2017-04-03|SO|XX GC 280/14|Wyrok|https://www.saos.org.pl/judgments/334354
-69098|2014-10-23|SO|I Ns 620/14|Postanowienie|https://www.saos.org.pl/judgments/69098
-54711|2014-06-27|SO|V GC 125/14|Wyrok|https://www.saos.org.pl/judgments/54711
-88767|2008-09-26|SN|V CSK 91/08|Wyrok|https://www.saos.org.pl/judgments/88767
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
-163088|2005-03-08|SN|IV CK 607/04|Wyrok|https://www.saos.org.pl/judgments/163088
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+88767|2008-09-26|SN|V CSK 91/08|Wyrok|78|https://www.saos.org.pl/judgments/88767
+163088|2005-03-08|SN|IV CK 607/04|Wyrok|78|https://www.saos.org.pl/judgments/163088

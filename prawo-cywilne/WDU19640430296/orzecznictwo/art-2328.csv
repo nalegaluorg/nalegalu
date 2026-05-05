@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-168847|2015-04-16|SN|III SK 7/14|Wyrok|https://www.saos.org.pl/judgments/168847
+saos_id|date|court|case_number|type|score|saos_url
+168847|2015-04-16|SN|III SK 7/14|Wyrok|78|https://www.saos.org.pl/judgments/168847

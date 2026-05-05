@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-530443|2025-04-02|SO|VIII U 1905/24|Uzasadnienie|https://www.saos.org.pl/judgments/530443
-408503|2019-07-31|SO|I C 231/09|Wyrok|https://www.saos.org.pl/judgments/408503
-337034|2018-02-19|SO|III AUa 352/17|Wyrok|https://www.saos.org.pl/judgments/337034
-306711|2017-04-05|SO|VII U 591/14|Wyrok|https://www.saos.org.pl/judgments/306711
-257424|2016-10-07|SO|III AUa 738/15|Wyrok|https://www.saos.org.pl/judgments/257424
-166507|2014-08-06|SN|II UK 525/13|Wyrok|https://www.saos.org.pl/judgments/166507
+saos_id|date|court|case_number|type|score|saos_url
+166507|2014-08-06|SN|II UK 525/13|Wyrok|78|https://www.saos.org.pl/judgments/166507
+337034|2018-02-19|SO|III AUa 352/17|Wyrok|56|https://www.saos.org.pl/judgments/337034
+257424|2016-10-07|SO|III AUa 738/15|Wyrok|56|https://www.saos.org.pl/judgments/257424
+306711|2017-04-05|SO|VII U 591/14|Wyrok|40|https://www.saos.org.pl/judgments/306711
+530443|2025-04-02|SO|VIII U 1905/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/530443

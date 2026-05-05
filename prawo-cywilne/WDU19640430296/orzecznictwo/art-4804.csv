@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-522756|2024-02-15|SO|V C 1676/23|Wyrok|https://www.saos.org.pl/judgments/522756
-510303|2023-10-18|SO|V Nc 2080/22|Postanowienie|https://www.saos.org.pl/judgments/510303
-477646|2022-04-28|SO|I C 537/21|Wyrok|https://www.saos.org.pl/judgments/477646
-450462|2021-06-02|SO|I Nc 586/21|Postanowienie|https://www.saos.org.pl/judgments/450462
+saos_id|date|court|case_number|type|score|saos_url
+522756|2024-02-15|SO|V C 1676/23|Wyrok|40|https://www.saos.org.pl/judgments/522756
+510303|2023-10-18|SO|V Nc 2080/22|Postanowienie|31|https://www.saos.org.pl/judgments/510303

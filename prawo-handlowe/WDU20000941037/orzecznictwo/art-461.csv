@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-420864|2020-01-27|SO|III Ca 1733/19|Uzasadnienie|https://www.saos.org.pl/judgments/420864
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-83566|2005-07-07|SN|II PK 353/04|Wyrok|https://www.saos.org.pl/judgments/83566
+saos_id|date|court|case_number|type|score|saos_url
+83566|2005-07-07|SN|II PK 353/04|Wyrok|78|https://www.saos.org.pl/judgments/83566
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850
+420864|2020-01-27|SO|III Ca 1733/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/420864

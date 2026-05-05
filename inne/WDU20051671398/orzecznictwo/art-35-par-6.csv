@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-24740|2013-09-10|SO|III AUa 2398/12|Wyrok|https://www.saos.org.pl/judgments/24740
-16452|2013-07-17|SO|IV Pa 51/13|Wyrok|https://www.saos.org.pl/judgments/16452
+saos_id|date|court|case_number|type|score|saos_url
+24740|2013-09-10|SO|III AUa 2398/12|Wyrok|56|https://www.saos.org.pl/judgments/24740

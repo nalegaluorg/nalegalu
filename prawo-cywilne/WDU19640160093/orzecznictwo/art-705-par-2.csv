@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-103243|2013-10-23|SN|IV CSK 92/13|Wyrok|https://www.saos.org.pl/judgments/103243
-101660|2013-05-09|SN|II CSK 523/12|Wyrok|https://www.saos.org.pl/judgments/101660
-91563|2010-01-08|SN|IV CSK 273/09|Wyrok|https://www.saos.org.pl/judgments/91563
-88999|2008-10-30|SN|II CSK 233/08|Wyrok|https://www.saos.org.pl/judgments/88999
-85293|2007-02-22|SN|III CSK 308/06|Wyrok|https://www.saos.org.pl/judgments/85293
+saos_id|date|court|case_number|type|score|saos_url
+103243|2013-10-23|SN|IV CSK 92/13|Wyrok|78|https://www.saos.org.pl/judgments/103243
+101660|2013-05-09|SN|II CSK 523/12|Wyrok|78|https://www.saos.org.pl/judgments/101660
+91563|2010-01-08|SN|IV CSK 273/09|Wyrok|78|https://www.saos.org.pl/judgments/91563
+88999|2008-10-30|SN|II CSK 233/08|Wyrok|78|https://www.saos.org.pl/judgments/88999
+85293|2007-02-22|SN|III CSK 308/06|Wyrok|78|https://www.saos.org.pl/judgments/85293

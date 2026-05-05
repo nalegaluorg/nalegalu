@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-512218|2024-05-28|SO|VII U 821/22|Wyrok|https://www.saos.org.pl/judgments/512218
-478833|2022-12-07|SO|VIII U 299/22|Zarządzenie|https://www.saos.org.pl/judgments/478833
-460665|2021-06-15|SO|III AUz 61/21|Postanowienie|https://www.saos.org.pl/judgments/460665
-462452|2020-04-01|SO|III AUa 83/20|Wyrok|https://www.saos.org.pl/judgments/462452
-398431|2019-09-30|SO|IV U 1174/19|Wyrok|https://www.saos.org.pl/judgments/398431
-51422|2014-05-09|SO|III AUa 1402/13|Wyrok|https://www.saos.org.pl/judgments/51422
+saos_id|date|court|case_number|type|score|saos_url
+462452|2020-04-01|SO|III AUa 83/20|Wyrok|56|https://www.saos.org.pl/judgments/462452
+51422|2014-05-09|SO|III AUa 1402/13|Wyrok|56|https://www.saos.org.pl/judgments/51422
+460665|2021-06-15|SO|III AUz 61/21|Postanowienie|47|https://www.saos.org.pl/judgments/460665
+512218|2024-05-28|SO|VII U 821/22|Wyrok|40|https://www.saos.org.pl/judgments/512218
+398431|2019-09-30|SO|IV U 1174/19|Wyrok|40|https://www.saos.org.pl/judgments/398431
+478833|2022-12-07|SO|VIII U 299/22|Zarządzenie|27|https://www.saos.org.pl/judgments/478833

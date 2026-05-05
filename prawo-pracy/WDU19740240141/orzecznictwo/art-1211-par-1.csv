@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-518486|2024-12-12|SO|IV Po 19/24|Postanowienie|https://www.saos.org.pl/judgments/518486
-387519|2019-02-21|SO|VI Po 30/18|Postanowienie|https://www.saos.org.pl/judgments/387519
-15421|2013-06-26|SO|III APz 5/13|Postanowienie|https://www.saos.org.pl/judgments/15421
+saos_id|date|court|case_number|type|score|saos_url
+15421|2013-06-26|SO|III APz 5/13|Postanowienie|47|https://www.saos.org.pl/judgments/15421
+518486|2024-12-12|SO|IV Po 19/24|Postanowienie|31|https://www.saos.org.pl/judgments/518486
+387519|2019-02-21|SO|VI Po 30/18|Postanowienie|31|https://www.saos.org.pl/judgments/387519

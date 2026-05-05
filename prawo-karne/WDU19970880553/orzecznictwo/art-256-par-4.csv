@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-352322|2018-05-30|SO|II AKa 432/17|Wyrok|https://www.saos.org.pl/judgments/352322
-336926|2018-04-11|SO|II K 481/17|Wyrok|https://www.saos.org.pl/judgments/336926
-288024|2012-10-29|SO|II K 884/12|Wyrok|https://www.saos.org.pl/judgments/288024
-110267|2011-07-19|TK|K 11/10|Wyrok|https://www.saos.org.pl/judgments/110267
+saos_id|date|court|case_number|type|score|saos_url
+110267|2011-07-19|TK|K 11/10|Wyrok|98|https://www.saos.org.pl/judgments/110267
+352322|2018-05-30|SO|II AKa 432/17|Wyrok|56|https://www.saos.org.pl/judgments/352322

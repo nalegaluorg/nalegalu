@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-216335|2016-03-03|SO|VI Po 116/15|Postanowienie|https://www.saos.org.pl/judgments/216335
-16077|2013-06-05|SO|III AUa 1246/12|Wyrok|https://www.saos.org.pl/judgments/16077
-93860|2011-01-11|SN|I PK 166/10|Postanowienie|https://www.saos.org.pl/judgments/93860
-87367|2008-02-22|SN|I PZP 12/07|Uchwała|https://www.saos.org.pl/judgments/87367
+saos_id|date|court|case_number|type|score|saos_url
+87367|2008-02-22|SN|I PZP 12/07|Uchwała|89|https://www.saos.org.pl/judgments/87367
+93860|2011-01-11|SN|I PK 166/10|Postanowienie|69|https://www.saos.org.pl/judgments/93860
+16077|2013-06-05|SO|III AUa 1246/12|Wyrok|56|https://www.saos.org.pl/judgments/16077

@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-131216|2014-10-02|SO|XXV C 738/13|Uzasadnienie|https://www.saos.org.pl/judgments/131216
+saos_id|date|court|case_number|type|score|saos_url
+408859|2019-11-18|SO|VI ACa 459/19|Wyrok|56|https://www.saos.org.pl/judgments/408859
+126343|2014-10-28|SO|V ACa 378/14|Wyrok|56|https://www.saos.org.pl/judgments/126343
+67975|2014-02-06|SO|I ACa 1520/13|Wyrok|56|https://www.saos.org.pl/judgments/67975
+317690|2017-10-12|SO|VI Ga 187/17|Wyrok|40|https://www.saos.org.pl/judgments/317690
+289298|2017-05-26|SO|VI GC 441/16|Wyrok|40|https://www.saos.org.pl/judgments/289298
+279961|2017-03-30|SO|VI Ga 409/16|Wyrok|40|https://www.saos.org.pl/judgments/279961
+279504|2017-03-03|SO|VI GC 232/16|Wyrok|40|https://www.saos.org.pl/judgments/279504
+247071|2016-06-17|SO|VI GC 158/13|Wyrok|40|https://www.saos.org.pl/judgments/247071
+187624|2015-10-12|SO|VI GC 51/15|Wyrok|40|https://www.saos.org.pl/judgments/187624

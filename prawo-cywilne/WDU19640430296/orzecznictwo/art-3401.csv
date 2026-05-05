@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-167843|2015-01-14|SN|I CZ 111/14|Postanowienie|https://www.saos.org.pl/judgments/167843
-91175|2009-11-06|SN|I CZ 57/09|Postanowienie|https://www.saos.org.pl/judgments/91175
+saos_id|date|court|case_number|type|score|saos_url
+167843|2015-01-14|SN|I CZ 111/14|Postanowienie|69|https://www.saos.org.pl/judgments/167843
+91175|2009-11-06|SN|I CZ 57/09|Postanowienie|69|https://www.saos.org.pl/judgments/91175

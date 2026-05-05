@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-27400|2013-12-03|SO|II Kz 284/13|Postanowienie|https://www.saos.org.pl/judgments/27400
-205741|1997-01-07|TK|K 7/96|Wyrok|https://www.saos.org.pl/judgments/205741
+saos_id|date|court|case_number|type|score|saos_url
+205741|1997-01-07|TK|K 7/96|Wyrok|98|https://www.saos.org.pl/judgments/205741

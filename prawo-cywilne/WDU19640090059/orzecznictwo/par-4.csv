@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-269242|2016-10-20|SO|III RC 265/16|Wyrok|https://www.saos.org.pl/judgments/269242
-241191|2016-06-08|SO|III Ca 1984/15|Wyrok|https://www.saos.org.pl/judgments/241191
-222599|2016-03-07|SO|III Ca 1761/15|Wyrok|https://www.saos.org.pl/judgments/222599
-207776|2016-02-22|SO|III RC 464/15|Wyrok|https://www.saos.org.pl/judgments/207776
-222788|2015-12-02|SO|IV U 1199/14|Wyrok|https://www.saos.org.pl/judgments/222788
-29050|2013-06-14|SO|VI ACa 1693/12|Wyrok|https://www.saos.org.pl/judgments/29050
-3829|2013-01-16|SO|I ACa 798/12|Wyrok|https://www.saos.org.pl/judgments/3829
+saos_id|date|court|case_number|type|score|saos_url
+29050|2013-06-14|SO|VI ACa 1693/12|Wyrok|56|https://www.saos.org.pl/judgments/29050
+3829|2013-01-16|SO|I ACa 798/12|Wyrok|56|https://www.saos.org.pl/judgments/3829
+222599|2016-03-07|SO|III Ca 1761/15|Wyrok|40|https://www.saos.org.pl/judgments/222599

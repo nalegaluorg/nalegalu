@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-394407|2019-07-03|SO|IV Ca 247/19|Wyrok|https://www.saos.org.pl/judgments/394407
-287101|2017-01-23|SO|XX GC 641/15|Wyrok|https://www.saos.org.pl/judgments/287101
-65244|2014-05-30|SO|VI ACa 1445/13|Wyrok|https://www.saos.org.pl/judgments/65244
-56431|2014-01-15|SO|VI ACa 663/13|Wyrok|https://www.saos.org.pl/judgments/56431
-287327|2013-08-06|SO|XX GC 517/11|Wyrok|https://www.saos.org.pl/judgments/287327
-285001|2013-06-20|SO|XX GC 17/11|Wyrok|https://www.saos.org.pl/judgments/285001
-286485|2013-02-05|SO|III C 1029/12|Wyrok|https://www.saos.org.pl/judgments/286485
-284512|2012-10-19|SO|III C 472/11|Wyrok|https://www.saos.org.pl/judgments/284512
-89686|2009-02-17|SN|II CSK 530/08|Wyrok|https://www.saos.org.pl/judgments/89686
-89535|2009-01-21|SN|III CZP 136/08|Uchwała|https://www.saos.org.pl/judgments/89535
-86972|2008-01-04|SN|III CZP 113/07|Uchwała|https://www.saos.org.pl/judgments/86972
+saos_id|date|court|case_number|type|score|saos_url
+89535|2009-01-21|SN|III CZP 136/08|Uchwała|89|https://www.saos.org.pl/judgments/89535
+86972|2008-01-04|SN|III CZP 113/07|Uchwała|89|https://www.saos.org.pl/judgments/86972
+89686|2009-02-17|SN|II CSK 530/08|Wyrok|78|https://www.saos.org.pl/judgments/89686
+65244|2014-05-30|SO|VI ACa 1445/13|Wyrok|56|https://www.saos.org.pl/judgments/65244
+56431|2014-01-15|SO|VI ACa 663/13|Wyrok|56|https://www.saos.org.pl/judgments/56431

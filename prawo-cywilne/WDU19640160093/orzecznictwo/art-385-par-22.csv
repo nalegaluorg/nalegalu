@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-375783|2018-11-28|SO|VII Pa 138/18|Wyrok|https://www.saos.org.pl/judgments/375783
-358775|2017-11-24|SO|II C 592/17|Wyrok|https://www.saos.org.pl/judgments/358775
+saos_id|date|court|case_number|type|score|saos_url
+375783|2018-11-28|SO|VII Pa 138/18|Wyrok|40|https://www.saos.org.pl/judgments/375783

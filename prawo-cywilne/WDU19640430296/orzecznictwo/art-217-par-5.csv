@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-68200|2014-10-15|SO|II Ca 524/14|Wyrok|https://www.saos.org.pl/judgments/68200
-147659|2014-07-08|SO|I C 50/13|Wyrok|https://www.saos.org.pl/judgments/147659
-15842|2013-04-23|SO|VI ACa 975/12|Wyrok|https://www.saos.org.pl/judgments/15842
+saos_id|date|court|case_number|type|score|saos_url
+15842|2013-04-23|SO|VI ACa 975/12|Wyrok|56|https://www.saos.org.pl/judgments/15842

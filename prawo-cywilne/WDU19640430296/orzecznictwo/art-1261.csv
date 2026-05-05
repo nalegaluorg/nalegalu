@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-376500|2019-02-20|SO|I ACa 577/18|Wyrok|https://www.saos.org.pl/judgments/376500
-267005|2016-12-07|SO|I C 483/16|Wyrok|https://www.saos.org.pl/judgments/267005
-190441|2015-12-07|SO|I ACz 2190/15|Postanowienie|https://www.saos.org.pl/judgments/190441
-50166|2014-04-17|SO|II Ca 357/14|Postanowienie|https://www.saos.org.pl/judgments/50166
-15284|2013-05-22|SO|I ACa 1359/12|Wyrok|https://www.saos.org.pl/judgments/15284
+saos_id|date|court|case_number|type|score|saos_url
+376500|2019-02-20|SO|I ACa 577/18|Wyrok|56|https://www.saos.org.pl/judgments/376500
+15284|2013-05-22|SO|I ACa 1359/12|Wyrok|56|https://www.saos.org.pl/judgments/15284
+190441|2015-12-07|SO|I ACz 2190/15|Postanowienie|47|https://www.saos.org.pl/judgments/190441
+50166|2014-04-17|SO|II Ca 357/14|Postanowienie|31|https://www.saos.org.pl/judgments/50166

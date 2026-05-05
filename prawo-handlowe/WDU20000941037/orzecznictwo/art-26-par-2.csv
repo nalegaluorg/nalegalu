@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-361288|2018-10-03|SO|II W 3843/18|Wyrok|https://www.saos.org.pl/judgments/361288
-340676|2018-04-25|SO|I Ca 56/18|Postanowienie|https://www.saos.org.pl/judgments/340676
-220112|2016-01-26|SO|I C 106/15|Uzasadnienie|https://www.saos.org.pl/judgments/220112
-170855|2015-06-30|SO|I C 298/14|Wyrok|https://www.saos.org.pl/judgments/170855
-38679|2014-03-07|SO|XIII Ga 474/13|Uzasadnienie|https://www.saos.org.pl/judgments/38679
-140998|2013-09-30|SO|I C 1048/13|Wyrok|https://www.saos.org.pl/judgments/140998
+saos_id|date|court|case_number|type|score|saos_url
+38679|2014-03-07|SO|XIII Ga 474/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/38679

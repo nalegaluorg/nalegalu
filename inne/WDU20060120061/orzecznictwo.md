@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 grudnia 2005 r. o Funduszu Kolejowym*
 
-Łącznie: **13** orzeczeń
+Łącznie: **12** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 8 (7)
 
@@ -14,12 +15,11 @@ Orzeczenia powołujące: *Ustawa z dnia 16 grudnia 2005 r. o Funduszu Kolejowym*
 - 2022-09-23 | SO | [I ACa 355/22](https://www.saos.org.pl/judgments/516415) | Wyrok
 - 2021-11-25 | SO | [I ACa 598/21](https://www.saos.org.pl/judgments/458976) | Wyrok
 
-## (ogólnie) (6)
+## (ogólnie) (5)
 
 - 2024-01-23 | SO | [I ACa 1236/23](https://www.saos.org.pl/judgments/493468) | Wyrok
 - 2023-08-23 | SO | [I ACa 371/23](https://www.saos.org.pl/judgments/494117) | Wyrok
 - 2023-07-28 | SO | [I ACa 1728/22](https://www.saos.org.pl/judgments/516394) | Wyrok
 - 2023-05-30 | SO | [I ACa 1433/22](https://www.saos.org.pl/judgments/516374) | Wyrok
 - 2013-11-08 | SO | [I ACa 526/13](https://www.saos.org.pl/judgments/31027) | Wyrok
-- 2012-12-10 | SO | [II C 680/11](https://www.saos.org.pl/judgments/158943) | Wyrok
 

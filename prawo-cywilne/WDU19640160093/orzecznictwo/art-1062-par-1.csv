@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-92788|2010-08-19|SN|IV CSK 37/10|Postanowienie|https://www.saos.org.pl/judgments/92788
-91383|2009-12-03|SN|II CNP 61/09|Postanowienie|https://www.saos.org.pl/judgments/91383
-82711|2004-06-04|SN|III CK 61/03|Postanowienie|https://www.saos.org.pl/judgments/82711
+saos_id|date|court|case_number|type|score|saos_url
+92788|2010-08-19|SN|IV CSK 37/10|Postanowienie|69|https://www.saos.org.pl/judgments/92788
+91383|2009-12-03|SN|II CNP 61/09|Postanowienie|69|https://www.saos.org.pl/judgments/91383
+82711|2004-06-04|SN|III CK 61/03|Postanowienie|69|https://www.saos.org.pl/judgments/82711

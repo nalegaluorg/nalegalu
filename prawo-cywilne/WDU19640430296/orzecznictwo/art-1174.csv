@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-99360|2012-10-17|SN|I CSK 119/12|Postanowienie|https://www.saos.org.pl/judgments/99360
-118383|2011-07-05|KIO|KIO 1306/11|Wyrok|https://www.saos.org.pl/judgments/118383
-93990|2011-01-28|SN|I CSK 231/10|Wyrok|https://www.saos.org.pl/judgments/93990
-92478|2010-06-18|SN|V CSK 434/09|Postanowienie|https://www.saos.org.pl/judgments/92478
+saos_id|date|court|case_number|type|score|saos_url
+93990|2011-01-28|SN|I CSK 231/10|Wyrok|78|https://www.saos.org.pl/judgments/93990
+99360|2012-10-17|SN|I CSK 119/12|Postanowienie|69|https://www.saos.org.pl/judgments/99360
+92478|2010-06-18|SN|V CSK 434/09|Postanowienie|69|https://www.saos.org.pl/judgments/92478
+118383|2011-07-05|KIO|KIO 1306/11|Wyrok|44|https://www.saos.org.pl/judgments/118383

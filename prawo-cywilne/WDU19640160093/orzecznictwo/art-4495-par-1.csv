@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-475944|2021-01-22|SO|I C 135/13|Wyrok|https://www.saos.org.pl/judgments/475944
-430890|2021-01-19|SO|XII C 1291/17|Wyrok|https://www.saos.org.pl/judgments/430890
-304212|2017-05-30|SO|XVIII C 606/15|Wyrok|https://www.saos.org.pl/judgments/304212
-228565|2016-02-12|SO|II C 1215/06|Wyrok|https://www.saos.org.pl/judgments/228565
-53143|2014-05-29|SO|I ACa 377/13|Wyrok|https://www.saos.org.pl/judgments/53143
+saos_id|date|court|case_number|type|score|saos_url
+53143|2014-05-29|SO|I ACa 377/13|Wyrok|56|https://www.saos.org.pl/judgments/53143
+430890|2021-01-19|SO|XII C 1291/17|Wyrok|40|https://www.saos.org.pl/judgments/430890
+304212|2017-05-30|SO|XVIII C 606/15|Wyrok|40|https://www.saos.org.pl/judgments/304212
+228565|2016-02-12|SO|II C 1215/06|Wyrok|40|https://www.saos.org.pl/judgments/228565

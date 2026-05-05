@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-317747|2017-10-26|SO|VII Kz 427/17|Postanowienie|https://www.saos.org.pl/judgments/317747
-194023|2015-09-22|SO|VI ACa 1273/14|Wyrok|https://www.saos.org.pl/judgments/194023
-203377|2014-11-21|SO|IX GC 307/14|Wyrok|https://www.saos.org.pl/judgments/203377
-52148|2014-06-18|SO|VIII GC 165/14|Wyrok|https://www.saos.org.pl/judgments/52148
-147614|2014-06-06|SO|I C 437/13|Wyrok|https://www.saos.org.pl/judgments/147614
+saos_id|date|court|case_number|type|score|saos_url
+194023|2015-09-22|SO|VI ACa 1273/14|Wyrok|56|https://www.saos.org.pl/judgments/194023
+203377|2014-11-21|SO|IX GC 307/14|Wyrok|40|https://www.saos.org.pl/judgments/203377
+317747|2017-10-26|SO|VII Kz 427/17|Postanowienie|31|https://www.saos.org.pl/judgments/317747

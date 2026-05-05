@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-512889|2024-01-11|SO|VIII Pa 102/23|Uzasadnienie|https://www.saos.org.pl/judgments/512889
-324904|2018-01-08|SO|VIII Pa 242/17|Uzasadnienie|https://www.saos.org.pl/judgments/324904
-235854|2015-09-17|SO|II Ca 550/15|Wyrok|https://www.saos.org.pl/judgments/235854
+saos_id|date|court|case_number|type|score|saos_url
+512889|2024-01-11|SO|VIII Pa 102/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/512889
+324904|2018-01-08|SO|VIII Pa 242/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324904

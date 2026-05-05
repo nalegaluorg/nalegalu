@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-281815|2017-03-09|SO|IV Ka 96/17|Wyrok|https://www.saos.org.pl/judgments/281815
-41169|2014-03-27|SO|III K 441/13|Uzasadnienie|https://www.saos.org.pl/judgments/41169
+saos_id|date|court|case_number|type|score|saos_url
+281815|2017-03-09|SO|IV Ka 96/17|Wyrok|40|https://www.saos.org.pl/judgments/281815

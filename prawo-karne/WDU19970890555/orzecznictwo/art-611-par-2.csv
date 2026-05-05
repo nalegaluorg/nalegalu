@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-9556|2013-03-12|SO|II Kop 3/13|Postanowienie|https://www.saos.org.pl/judgments/9556
-82519|2004-02-25|SN|II KK 391/03|Postanowienie|https://www.saos.org.pl/judgments/82519
+saos_id|date|court|case_number|type|score|saos_url
+82519|2004-02-25|SN|II KK 391/03|Postanowienie|69|https://www.saos.org.pl/judgments/82519
+9556|2013-03-12|SO|II Kop 3/13|Postanowienie|31|https://www.saos.org.pl/judgments/9556

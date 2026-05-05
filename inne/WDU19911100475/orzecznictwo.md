@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 19 października 1991 r. o zmianie ustaw
 
 ## art. 9 (1)
 
-- 1993-06-23 | TK | [W 3/92](https://www.saos.org.pl/judgments/205579) | Uchwała
+- 1993-06-23 | TK | [W 3/92](https://www.saos.org.pl/judgments/205579) | Uchwała ★
 

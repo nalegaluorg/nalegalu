@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-426381|2017-12-20|SO|I C 343/17|Uzasadnienie|https://www.saos.org.pl/judgments/426381
-142739|2013-10-29|SO|II AKa 182/13|Wyrok|https://www.saos.org.pl/judgments/142739
+saos_id|date|court|case_number|type|score|saos_url
+142739|2013-10-29|SO|II AKa 182/13|Wyrok|56|https://www.saos.org.pl/judgments/142739
+426381|2017-12-20|SO|I C 343/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/426381

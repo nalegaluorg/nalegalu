@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-544813|2023-06-12|SO|XVII AmE 45/22|Wyrok|https://www.saos.org.pl/judgments/544813
-483538|2023-01-19|SO|VIII U 1336/22|Uzasadnienie|https://www.saos.org.pl/judgments/483538
-515315|2022-07-20|SO|XVII Amz 11/22|Postanowienie|https://www.saos.org.pl/judgments/515315
-466785|2021-10-12|SO|IV U 843/20|Wyrok|https://www.saos.org.pl/judgments/466785
-444430|2018-11-08|SO|II Ca 661/17|Postanowienie|https://www.saos.org.pl/judgments/444430
-347386|2018-04-17|SO|VII AGa 913/18|Wyrok|https://www.saos.org.pl/judgments/347386
-336451|2017-12-13|SO|VII ACa 943/17|Wyrok|https://www.saos.org.pl/judgments/336451
-315093|2017-10-13|SO|VIII Ga 360/17|Wyrok|https://www.saos.org.pl/judgments/315093
-285807|2017-02-13|SO|VI ACa 1511/15|Wyrok|https://www.saos.org.pl/judgments/285807
-261683|2016-11-10|SO|XVII AmA 9/16|Wyrok|https://www.saos.org.pl/judgments/261683
-339056|2016-03-24|SO|XVII AmK 23/14|Wyrok|https://www.saos.org.pl/judgments/339056
-213688|2016-01-21|SO|XVII AmK 20/14|Wyrok|https://www.saos.org.pl/judgments/213688
-243090|2015-08-06|SN|III SZP 3/15|Uchwała|https://www.saos.org.pl/judgments/243090
-235755|2015-08-05|SO|XVII AmK 24/14|Wyrok|https://www.saos.org.pl/judgments/235755
-303634|2014-11-12|SO|XVII AmE 134/13|Wyrok|https://www.saos.org.pl/judgments/303634
-8997|2013-03-28|SO|III AUz 53/13|Postanowienie|https://www.saos.org.pl/judgments/8997
-84017|2006-01-12|SN|III SZP 5/05|Uchwała|https://www.saos.org.pl/judgments/84017
-107215|2005-03-07|TK|P 8/03|Wyrok|https://www.saos.org.pl/judgments/107215
+saos_id|date|court|case_number|type|score|saos_url
+107215|2005-03-07|TK|P 8/03|Wyrok|98|https://www.saos.org.pl/judgments/107215
+243090|2015-08-06|SN|III SZP 3/15|Uchwała|89|https://www.saos.org.pl/judgments/243090
+84017|2006-01-12|SN|III SZP 5/05|Uchwała|89|https://www.saos.org.pl/judgments/84017
+347386|2018-04-17|SO|VII AGa 913/18|Wyrok|56|https://www.saos.org.pl/judgments/347386
+336451|2017-12-13|SO|VII ACa 943/17|Wyrok|56|https://www.saos.org.pl/judgments/336451
+285807|2017-02-13|SO|VI ACa 1511/15|Wyrok|56|https://www.saos.org.pl/judgments/285807
+8997|2013-03-28|SO|III AUz 53/13|Postanowienie|47|https://www.saos.org.pl/judgments/8997
+483538|2023-01-19|SO|VIII U 1336/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/483538

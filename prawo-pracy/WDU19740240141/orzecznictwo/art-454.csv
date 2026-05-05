@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-351915|2018-05-16|SO|VI P 752/16|Wyrok|https://www.saos.org.pl/judgments/351915
-334084|2018-03-14|SO|II AKa 40/18|Wyrok|https://www.saos.org.pl/judgments/334084
+saos_id|date|court|case_number|type|score|saos_url
+334084|2018-03-14|SO|II AKa 40/18|Wyrok|56|https://www.saos.org.pl/judgments/334084

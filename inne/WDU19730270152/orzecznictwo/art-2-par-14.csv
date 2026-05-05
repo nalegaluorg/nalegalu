@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-312844|2016-05-30|SO|II AKa 63/16|Uzasadnienie|https://www.saos.org.pl/judgments/312844
-147383|2014-06-05|SO|II AKa 113/14|Wyrok|https://www.saos.org.pl/judgments/147383
-53539|2014-01-10|SO|II K 580/12|Wyrok|https://www.saos.org.pl/judgments/53539
-139757|2013-07-31|SO|II AKa 129/13|Wyrok|https://www.saos.org.pl/judgments/139757
+saos_id|date|court|case_number|type|score|saos_url
+147383|2014-06-05|SO|II AKa 113/14|Wyrok|56|https://www.saos.org.pl/judgments/147383
+139757|2013-07-31|SO|II AKa 129/13|Wyrok|56|https://www.saos.org.pl/judgments/139757
+312844|2016-05-30|SO|II AKa 63/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/312844
+53539|2014-01-10|SO|II K 580/12|Wyrok|40|https://www.saos.org.pl/judgments/53539

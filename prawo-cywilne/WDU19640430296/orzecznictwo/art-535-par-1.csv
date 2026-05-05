@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-498117|2023-09-19|SO|I C 427/23|Wyrok|https://www.saos.org.pl/judgments/498117
-467139|2022-03-22|SO|XI GC 2123/18|Wyrok|https://www.saos.org.pl/judgments/467139
-420176|2020-07-28|SO|XI GC 294/19|Wyrok|https://www.saos.org.pl/judgments/420176
-376339|2019-02-27|SO|I ACa 1513/17|Postanowienie|https://www.saos.org.pl/judgments/376339
-402122|2018-08-08|SO|VI GC 982/15|Uzasadnienie|https://www.saos.org.pl/judgments/402122
-236383|2016-07-28|SO|XIII Ga 342/16|Uzasadnienie|https://www.saos.org.pl/judgments/236383
-234652|2016-07-14|SO|XIII Ga 388/16|Uzasadnienie|https://www.saos.org.pl/judgments/234652
-225516|2016-05-31|SO|XIII Ga 106/16|Uzasadnienie|https://www.saos.org.pl/judgments/225516
-183343|2015-10-22|SO|II Ca 528/15|Wyrok|https://www.saos.org.pl/judgments/183343
-198986|2015-07-15|SO|I ACa 110/15|Wyrok|https://www.saos.org.pl/judgments/198986
+saos_id|date|court|case_number|type|score|saos_url
+198986|2015-07-15|SO|I ACa 110/15|Wyrok|56|https://www.saos.org.pl/judgments/198986
+376339|2019-02-27|SO|I ACa 1513/17|Postanowienie|47|https://www.saos.org.pl/judgments/376339
+236383|2016-07-28|SO|XIII Ga 342/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/236383
+234652|2016-07-14|SO|XIII Ga 388/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/234652
+225516|2016-05-31|SO|XIII Ga 106/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/225516

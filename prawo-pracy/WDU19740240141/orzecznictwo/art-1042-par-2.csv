@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-489745|2023-04-12|SO|IV P 96/22|Wyrok|https://www.saos.org.pl/judgments/489745
-516981|2022-12-16|SO|VI Pa 81/22|Wyrok|https://www.saos.org.pl/judgments/516981
-516980|2022-11-03|SO|VI Pa 78/22|Wyrok|https://www.saos.org.pl/judgments/516980
-476006|2022-09-29|SO|IV P 44/21|Wyrok|https://www.saos.org.pl/judgments/476006
-459350|2022-01-14|SO|V P 228/21|Wyrok|https://www.saos.org.pl/judgments/459350
-339651|2018-04-27|SO|IV Ka 162/18|Uzasadnienie|https://www.saos.org.pl/judgments/339651
-320607|2017-11-27|SO|II W 383/17|Wyrok|https://www.saos.org.pl/judgments/320607
-84087|2006-02-06|SN|III PK 114/05|Wyrok|https://www.saos.org.pl/judgments/84087
-83916|2005-12-07|SN|III PK 29/04|Wyrok|https://www.saos.org.pl/judgments/83916
-81292|2002-03-19|SN|III PZP 2/02|Uchwała|https://www.saos.org.pl/judgments/81292
-80430|2001-03-21|SN|I PKN 320/00|Wyrok|https://www.saos.org.pl/judgments/80430
+saos_id|date|court|case_number|type|score|saos_url
+81292|2002-03-19|SN|III PZP 2/02|Uchwała|89|https://www.saos.org.pl/judgments/81292
+84087|2006-02-06|SN|III PK 114/05|Wyrok|78|https://www.saos.org.pl/judgments/84087
+83916|2005-12-07|SN|III PK 29/04|Wyrok|78|https://www.saos.org.pl/judgments/83916
+80430|2001-03-21|SN|I PKN 320/00|Wyrok|78|https://www.saos.org.pl/judgments/80430

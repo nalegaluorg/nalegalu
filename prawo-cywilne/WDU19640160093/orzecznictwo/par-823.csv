@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481679|2022-10-26|SO|V GC 911/20|Wyrok|https://www.saos.org.pl/judgments/481679
-416295|2019-09-03|SO|I C 3330/17|Wyrok|https://www.saos.org.pl/judgments/416295
-386832|2018-12-05|SO|I C 883/15|Wyrok|https://www.saos.org.pl/judgments/386832
-357373|2018-07-09|SO|II C 1208/15|Uzasadnienie|https://www.saos.org.pl/judgments/357373
-336083|2018-03-20|SO|I C 3319/16|Wyrok|https://www.saos.org.pl/judgments/336083
-220546|2016-04-21|SO|I C 191/15|Wyrok|https://www.saos.org.pl/judgments/220546
-144318|2014-02-13|SO|I C 388/12|Wyrok|https://www.saos.org.pl/judgments/144318
+saos_id|date|court|case_number|type|score|saos_url
+386832|2018-12-05|SO|I C 883/15|Wyrok|40|https://www.saos.org.pl/judgments/386832
+220546|2016-04-21|SO|I C 191/15|Wyrok|40|https://www.saos.org.pl/judgments/220546
+357373|2018-07-09|SO|II C 1208/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/357373

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-474001|2021-12-28|SO|VI Ka 537/21|Wyrok|https://www.saos.org.pl/judgments/474001
-398904|2019-03-07|SO|II AKa 260/18|Wyrok|https://www.saos.org.pl/judgments/398904
-94598|2011-03-29|SN|III KK 365/10|Wyrok|https://www.saos.org.pl/judgments/94598
-87027|2008-01-10|SN|SNO 84/07|Postanowienie|https://www.saos.org.pl/judgments/87027
-81808|2003-01-22|SN|I KZP 39/02|Uchwała|https://www.saos.org.pl/judgments/81808
+saos_id|date|court|case_number|type|score|saos_url
+81808|2003-01-22|SN|I KZP 39/02|Uchwała|96|https://www.saos.org.pl/judgments/81808
+94598|2011-03-29|SN|III KK 365/10|Wyrok|78|https://www.saos.org.pl/judgments/94598
+87027|2008-01-10|SN|SNO 84/07|Postanowienie|69|https://www.saos.org.pl/judgments/87027
+398904|2019-03-07|SO|II AKa 260/18|Wyrok|56|https://www.saos.org.pl/judgments/398904
+474001|2021-12-28|SO|VI Ka 537/21|Wyrok|40|https://www.saos.org.pl/judgments/474001

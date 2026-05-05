@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-496301|2023-03-20|SO|I C 1697/21|Wyrok|https://www.saos.org.pl/judgments/496301
-50161|2014-04-14|SO|II Ca 2468/13|Wyrok|https://www.saos.org.pl/judgments/50161
+saos_id|date|court|case_number|type|score|saos_url
+50161|2014-04-14|SO|II Ca 2468/13|Wyrok|40|https://www.saos.org.pl/judgments/50161

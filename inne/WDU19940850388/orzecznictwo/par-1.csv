@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-464642|2020-11-04|SO|I C 12/20|Wyrok|https://www.saos.org.pl/judgments/464642
-314108|2017-07-19|SO|I ACa 235/17|Wyrok|https://www.saos.org.pl/judgments/314108
-191809|2015-08-20|SO|I ACa 329/15|Wyrok|https://www.saos.org.pl/judgments/191809
-13992|2013-03-15|SO|VI ACa 1159/12|Wyrok|https://www.saos.org.pl/judgments/13992
+saos_id|date|court|case_number|type|score|saos_url
+314108|2017-07-19|SO|I ACa 235/17|Wyrok|56|https://www.saos.org.pl/judgments/314108
+191809|2015-08-20|SO|I ACa 329/15|Wyrok|56|https://www.saos.org.pl/judgments/191809
+13992|2013-03-15|SO|VI ACa 1159/12|Wyrok|56|https://www.saos.org.pl/judgments/13992

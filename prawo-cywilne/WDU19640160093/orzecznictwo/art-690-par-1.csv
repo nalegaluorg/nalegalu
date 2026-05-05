@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497088|2021-12-10|SO|I C 250/21|Wyrok|https://www.saos.org.pl/judgments/497088
-447331|2021-05-31|SO|VII AGa 402/20|Wyrok|https://www.saos.org.pl/judgments/447331
-359927|2018-05-28|SO|II Ca 1404/17|Zarządzenie|https://www.saos.org.pl/judgments/359927
-179766|2015-09-09|SO|III Ca 952/15|Postanowienie|https://www.saos.org.pl/judgments/179766
-155723|2014-10-30|SO|II Ca 259/14|Uzasadnienie|https://www.saos.org.pl/judgments/155723
+saos_id|date|court|case_number|type|score|saos_url
+447331|2021-05-31|SO|VII AGa 402/20|Wyrok|56|https://www.saos.org.pl/judgments/447331

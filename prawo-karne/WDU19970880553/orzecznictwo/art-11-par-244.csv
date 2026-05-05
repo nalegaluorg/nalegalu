@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-370503|2018-09-27|SO|II K 323/18|Wyrok|https://www.saos.org.pl/judgments/370503
+saos_id|date|court|case_number|type|score|saos_url
+370503|2018-09-27|SO|II K 323/18|Wyrok|40|https://www.saos.org.pl/judgments/370503

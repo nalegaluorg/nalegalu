@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-376442|2019-02-27|SO|I ACa 449/18|Wyrok|https://www.saos.org.pl/judgments/376442
-330282|2018-01-30|SO|III Ca 347/17|Postanowienie|https://www.saos.org.pl/judgments/330282
-305330|2016-12-20|SO|II Ca 378/16|Wyrok|https://www.saos.org.pl/judgments/305330
-296537|2015-04-17|SO|II Ca 840/14|Postanowienie|https://www.saos.org.pl/judgments/296537
-75535|2014-12-30|SO|I C 759/13|Wyrok|https://www.saos.org.pl/judgments/75535
-129080|2014-12-10|SO|III Ca 912/14|Uzasadnienie|https://www.saos.org.pl/judgments/129080
-69771|2014-10-07|SO|I ACa 406/14|Wyrok|https://www.saos.org.pl/judgments/69771
-144580|2014-03-12|SO|II Ca 1047/13|Wyrok|https://www.saos.org.pl/judgments/144580
-36486|2013-06-05|SO|I ACa 30/13|Wyrok|https://www.saos.org.pl/judgments/36486
+saos_id|date|court|case_number|type|score|saos_url
+376442|2019-02-27|SO|I ACa 449/18|Wyrok|56|https://www.saos.org.pl/judgments/376442
+69771|2014-10-07|SO|I ACa 406/14|Wyrok|56|https://www.saos.org.pl/judgments/69771
+36486|2013-06-05|SO|I ACa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/36486
+129080|2014-12-10|SO|III Ca 912/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/129080

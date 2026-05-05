@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-384787|2018-07-23|SO|XVI GC 324/17|Wyrok|https://www.saos.org.pl/judgments/384787
-213211|2016-02-22|SO|I ACa 699/15|Wyrok|https://www.saos.org.pl/judgments/213211
-47497|2014-02-26|SO|I ACa 1347/13|Wyrok|https://www.saos.org.pl/judgments/47497
-8046|2012-11-22|SO|I ACa 516/12|Wyrok|https://www.saos.org.pl/judgments/8046
+saos_id|date|court|case_number|type|score|saos_url
+213211|2016-02-22|SO|I ACa 699/15|Wyrok|56|https://www.saos.org.pl/judgments/213211
+47497|2014-02-26|SO|I ACa 1347/13|Wyrok|56|https://www.saos.org.pl/judgments/47497
+8046|2012-11-22|SO|I ACa 516/12|Wyrok|56|https://www.saos.org.pl/judgments/8046

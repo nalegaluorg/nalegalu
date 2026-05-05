@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-147742|2014-05-26|SO|I C 292/12|Wyrok|https://www.saos.org.pl/judgments/147742
+saos_id|date|court|case_number|type|score|saos_url
+147742|2014-05-26|SO|I C 292/12|Wyrok|40|https://www.saos.org.pl/judgments/147742

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-514738|2024-03-20|SO|XIV C 1069/22|Wyrok|https://www.saos.org.pl/judgments/514738
-188531|2015-09-29|SO|VIII Ga 250/15|Wyrok|https://www.saos.org.pl/judgments/188531
+saos_id|date|court|case_number|type|score|saos_url
+514738|2024-03-20|SO|XIV C 1069/22|Wyrok|40|https://www.saos.org.pl/judgments/514738

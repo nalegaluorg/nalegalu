@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-105101|2014-05-15|SN|IV CSK 470/13|Wyrok|https://www.saos.org.pl/judgments/105101
-100885|2013-02-28|SN|III CZP 108/12|Uchwała|https://www.saos.org.pl/judgments/100885
+saos_id|date|court|case_number|type|score|saos_url
+100885|2013-02-28|SN|III CZP 108/12|Uchwała|89|https://www.saos.org.pl/judgments/100885
+105101|2014-05-15|SN|IV CSK 470/13|Wyrok|78|https://www.saos.org.pl/judgments/105101

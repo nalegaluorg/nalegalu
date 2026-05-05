@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-372375|2017-07-26|SO|I ACa 258/17|Uzasadnienie|https://www.saos.org.pl/judgments/372375
-187089|2015-09-04|SO|V ACa 937/14|Wyrok|https://www.saos.org.pl/judgments/187089
+saos_id|date|court|case_number|type|score|saos_url
+187089|2015-09-04|SO|V ACa 937/14|Wyrok|56|https://www.saos.org.pl/judgments/187089
+372375|2017-07-26|SO|I ACa 258/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/372375

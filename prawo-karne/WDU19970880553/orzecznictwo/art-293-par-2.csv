@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-413298|2019-06-19|SO|II AKa 47/19|Wyrok|https://www.saos.org.pl/judgments/413298
-342858|2014-10-30|SO|II K 411/14|Wyrok|https://www.saos.org.pl/judgments/342858
-57505|2014-07-16|SO|II AKa 189/14|Wyrok|https://www.saos.org.pl/judgments/57505
-34579|2014-01-21|SO|IV Ka 1360/13|Wyrok|https://www.saos.org.pl/judgments/34579
-25651|2013-10-31|SO|IV Ka 866/13|Wyrok|https://www.saos.org.pl/judgments/25651
-27236|2013-10-30|SO|V K 1055/13|Wyrok|https://www.saos.org.pl/judgments/27236
-30495|2013-10-10|SO|XI Ka 771/13|Wyrok|https://www.saos.org.pl/judgments/30495
-26729|2013-10-09|SO|II K 583/13|Wyrok|https://www.saos.org.pl/judgments/26729
-102776|2013-09-04|SN|III KK 256/13|Wyrok|https://www.saos.org.pl/judgments/102776
-8213|2012-11-09|SO|II K 319/12|Wyrok|https://www.saos.org.pl/judgments/8213
-135898|2012-03-14|SO|II AKa 52/12|Wyrok|https://www.saos.org.pl/judgments/135898
+saos_id|date|court|case_number|type|score|saos_url
+102776|2013-09-04|SN|III KK 256/13|Wyrok|78|https://www.saos.org.pl/judgments/102776
+413298|2019-06-19|SO|II AKa 47/19|Wyrok|56|https://www.saos.org.pl/judgments/413298
+57505|2014-07-16|SO|II AKa 189/14|Wyrok|56|https://www.saos.org.pl/judgments/57505
+135898|2012-03-14|SO|II AKa 52/12|Wyrok|56|https://www.saos.org.pl/judgments/135898
+342858|2014-10-30|SO|II K 411/14|Wyrok|40|https://www.saos.org.pl/judgments/342858
+8213|2012-11-09|SO|II K 319/12|Wyrok|40|https://www.saos.org.pl/judgments/8213

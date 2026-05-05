@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-393197|2019-05-29|SO|IV Ka 196/19|Wyrok|https://www.saos.org.pl/judgments/393197
-297638|2017-03-19|SO|XIV K 427/16|Uzasadnienie|https://www.saos.org.pl/judgments/297638
-204305|2016-01-22|SO|I ACa 694/15|Wyrok|https://www.saos.org.pl/judgments/204305
-134536|2014-11-19|SO|IV Ka 772/14|Wyrok|https://www.saos.org.pl/judgments/134536
-166398|2014-07-16|SN|III KK 211/14|Postanowienie|https://www.saos.org.pl/judgments/166398
-55186|2014-07-04|SO|IV Kz 379/14|Postanowienie|https://www.saos.org.pl/judgments/55186
-105025|2014-04-30|SN|I KZP 3/14|Uchwała|https://www.saos.org.pl/judgments/105025
-33546|2014-01-15|SO|II Ka 356/13|Wyrok|https://www.saos.org.pl/judgments/33546
-102732|2013-08-30|SN|SNO 19/13|Uchwała|https://www.saos.org.pl/judgments/102732
-135978|2012-03-08|SO|II AKa 388/11|Wyrok|https://www.saos.org.pl/judgments/135978
-86570|2007-09-20|SN|I KZP 27/07|Uchwała|https://www.saos.org.pl/judgments/86570
+saos_id|date|court|case_number|type|score|saos_url
+105025|2014-04-30|SN|I KZP 3/14|Uchwała|89|https://www.saos.org.pl/judgments/105025
+102732|2013-08-30|SN|SNO 19/13|Uchwała|89|https://www.saos.org.pl/judgments/102732
+86570|2007-09-20|SN|I KZP 27/07|Uchwała|89|https://www.saos.org.pl/judgments/86570
+166398|2014-07-16|SN|III KK 211/14|Postanowienie|69|https://www.saos.org.pl/judgments/166398
+204305|2016-01-22|SO|I ACa 694/15|Wyrok|56|https://www.saos.org.pl/judgments/204305
+135978|2012-03-08|SO|II AKa 388/11|Wyrok|56|https://www.saos.org.pl/judgments/135978
+55186|2014-07-04|SO|IV Kz 379/14|Postanowienie|31|https://www.saos.org.pl/judgments/55186

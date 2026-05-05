@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-530930|2024-02-14|SO|III Ca 1019/22|Uzasadnienie|https://www.saos.org.pl/judgments/530930
-495243|2023-07-13|SO|I C 103/23|Wyrok|https://www.saos.org.pl/judgments/495243
-397616|2018-08-13|SO|V C 757/18|Wyrok|https://www.saos.org.pl/judgments/397616
-334508|2018-03-15|SO|VIII C 1379/17|Wyrok|https://www.saos.org.pl/judgments/334508
-226774|2016-04-26|SO|VI GC 1063/15|Wyrok|https://www.saos.org.pl/judgments/226774
+saos_id|date|court|case_number|type|score|saos_url
+397616|2018-08-13|SO|V C 757/18|Wyrok|40|https://www.saos.org.pl/judgments/397616
+334508|2018-03-15|SO|VIII C 1379/17|Wyrok|40|https://www.saos.org.pl/judgments/334508
+530930|2024-02-14|SO|III Ca 1019/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/530930

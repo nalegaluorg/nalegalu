@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-177280|2015-08-25|SO|VI Gz 220/15|Postanowienie|https://www.saos.org.pl/judgments/177280
-154321|2015-05-26|SO|VII Pz 51/15|Uzasadnienie|https://www.saos.org.pl/judgments/154321
-45334|2014-04-30|SO|VI Gz 88/14|Postanowienie|https://www.saos.org.pl/judgments/45334
-52785|2014-03-28|SO|I ACa 752/13|Wyrok|https://www.saos.org.pl/judgments/52785
+saos_id|date|court|case_number|type|score|saos_url
+52785|2014-03-28|SO|I ACa 752/13|Wyrok|56|https://www.saos.org.pl/judgments/52785
+177280|2015-08-25|SO|VI Gz 220/15|Postanowienie|31|https://www.saos.org.pl/judgments/177280
+45334|2014-04-30|SO|VI Gz 88/14|Postanowienie|31|https://www.saos.org.pl/judgments/45334
+154321|2015-05-26|SO|VII Pz 51/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/154321

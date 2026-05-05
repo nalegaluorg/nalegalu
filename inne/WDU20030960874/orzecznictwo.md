@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2003 r. Przepisy wprowadzaj�
 
 ## art. 7 (1)
 
-- 2006-06-13 | TK | [K 11/05](https://www.saos.org.pl/judgments/107585) | Wyrok
+- 2006-06-13 | TK | [K 11/05](https://www.saos.org.pl/judgments/107585) | Wyrok ★
 

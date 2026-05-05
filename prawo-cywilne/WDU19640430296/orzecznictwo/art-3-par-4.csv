@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-493897|2024-01-26|SO|I ACa 2143/22|Wyrok|https://www.saos.org.pl/judgments/493897
-224841|2016-04-28|SO|I ACa 961/15|Wyrok|https://www.saos.org.pl/judgments/224841
+saos_id|date|court|case_number|type|score|saos_url
+493897|2024-01-26|SO|I ACa 2143/22|Wyrok|56|https://www.saos.org.pl/judgments/493897
+224841|2016-04-28|SO|I ACa 961/15|Wyrok|56|https://www.saos.org.pl/judgments/224841

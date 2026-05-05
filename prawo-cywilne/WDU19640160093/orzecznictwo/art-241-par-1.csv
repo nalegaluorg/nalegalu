@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-242918|2015-07-03|SN|IV CSK 640/14|Wyrok|https://www.saos.org.pl/judgments/242918
-168378|2015-02-27|SN|V CSK 269/14|Postanowienie|https://www.saos.org.pl/judgments/168378
-45193|2014-04-17|SO|II Ca 726/13|Uzasadnienie|https://www.saos.org.pl/judgments/45193
+saos_id|date|court|case_number|type|score|saos_url
+242918|2015-07-03|SN|IV CSK 640/14|Wyrok|78|https://www.saos.org.pl/judgments/242918
+168378|2015-02-27|SN|V CSK 269/14|Postanowienie|69|https://www.saos.org.pl/judgments/168378

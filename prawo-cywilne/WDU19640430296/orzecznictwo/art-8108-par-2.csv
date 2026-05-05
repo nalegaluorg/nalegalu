@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163928|2006-01-11|SN|III CK 358/05|Wyrok|https://www.saos.org.pl/judgments/163928
+saos_id|date|court|case_number|type|score|saos_url
+163928|2006-01-11|SN|III CK 358/05|Wyrok|78|https://www.saos.org.pl/judgments/163928

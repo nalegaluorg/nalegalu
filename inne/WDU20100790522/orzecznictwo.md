@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Ustawa z dnia 18 marca 2010 r. o zmianie ustawy o Inst
 
 ## art. 5 (3)
 
-- 2024-04-30 | SO | [I C 1721/22](https://www.saos.org.pl/judgments/517572) | Wyrok
 - 2021-05-28 | SO | [I ACa 978/19](https://www.saos.org.pl/judgments/475164) | Wyrok
 - 2020-09-24 | SO | [I ACa 111/20](https://www.saos.org.pl/judgments/425262) | Wyrok
+- 2024-04-30 | SO | [I C 1721/22](https://www.saos.org.pl/judgments/517572) | Wyrok
 
 ## art. 30 (1)
 

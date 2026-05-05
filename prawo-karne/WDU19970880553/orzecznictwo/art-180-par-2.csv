@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516699|2024-10-09|SO|II AKz 1013/24|Postanowienie|https://www.saos.org.pl/judgments/516699
-321907|2017-07-17|SO|II Kp 306/17|Postanowienie|https://www.saos.org.pl/judgments/321907
-328583|2017-07-14|SO|X Kz 826/17|Postanowienie|https://www.saos.org.pl/judgments/328583
-7721|2013-01-28|SO|IV Kz 1179/12|Postanowienie|https://www.saos.org.pl/judgments/7721
+saos_id|date|court|case_number|type|score|saos_url
+516699|2024-10-09|SO|II AKz 1013/24|Postanowienie|47|https://www.saos.org.pl/judgments/516699

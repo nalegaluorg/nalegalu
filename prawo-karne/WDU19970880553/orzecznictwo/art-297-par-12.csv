@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-324102|2017-10-30|SO|VI Ka 37/17|Wyrok|https://www.saos.org.pl/judgments/324102
-105011|2014-04-24|SN|V KK 37/14|Postanowienie|https://www.saos.org.pl/judgments/105011
-8903|2013-03-19|SO|IV Ka 1365/12|Wyrok|https://www.saos.org.pl/judgments/8903
-6496|2013-03-05|SO|VI Ka 32/13|Wyrok|https://www.saos.org.pl/judgments/6496
+saos_id|date|court|case_number|type|score|saos_url
+105011|2014-04-24|SN|V KK 37/14|Postanowienie|69|https://www.saos.org.pl/judgments/105011

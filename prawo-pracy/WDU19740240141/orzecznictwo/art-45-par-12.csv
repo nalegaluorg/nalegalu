@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-218756|2016-03-30|SO|VII Pz 23/16|Uzasadnienie|https://www.saos.org.pl/judgments/218756
-162685|2004-03-19|SN|II PK 4/04|Postanowienie|https://www.saos.org.pl/judgments/162685
+saos_id|date|court|case_number|type|score|saos_url
+162685|2004-03-19|SN|II PK 4/04|Postanowienie|69|https://www.saos.org.pl/judgments/162685
+218756|2016-03-30|SO|VII Pz 23/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/218756

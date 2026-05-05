@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-164918|2007-10-17|SN|II CZ 82/07|Postanowienie|https://www.saos.org.pl/judgments/164918
-164452|2006-08-04|SN|III CZ 48/06|Postanowienie|https://www.saos.org.pl/judgments/164452
+saos_id|date|court|case_number|type|score|saos_url
+164918|2007-10-17|SN|II CZ 82/07|Postanowienie|69|https://www.saos.org.pl/judgments/164918
+164452|2006-08-04|SN|III CZ 48/06|Postanowienie|69|https://www.saos.org.pl/judgments/164452

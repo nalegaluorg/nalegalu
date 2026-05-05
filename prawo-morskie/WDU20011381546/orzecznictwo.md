@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Ustawa z dnia 18 września 2001 r. Przepisy wprowadzaj
 
 ## art. 1 (1)
 
-- 2013-05-23 | SN | [II CSK 250/12](https://www.saos.org.pl/judgments/101807) | Wyrok
+- 2013-05-23 | SN | [II CSK 250/12](https://www.saos.org.pl/judgments/101807) | Wyrok ★
 
 ## art. 2 (1)
 
-- 2013-05-23 | SN | [II CSK 250/12](https://www.saos.org.pl/judgments/101807) | Wyrok
+- 2013-05-23 | SN | [II CSK 250/12](https://www.saos.org.pl/judgments/101807) | Wyrok ★
 

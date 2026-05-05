@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-521945|2025-01-07|SO|IX U 229/23|Uzasadnienie|https://www.saos.org.pl/judgments/521945
-476971|2022-04-28|SO|V U 198/21|Wyrok|https://www.saos.org.pl/judgments/476971
-319706|2017-12-14|SO|IV U 367/17|Wyrok|https://www.saos.org.pl/judgments/319706
-266763|2016-12-28|SO|III AUa 2182/15|Wyrok|https://www.saos.org.pl/judgments/266763
-199795|2015-12-21|SO|IV U 1237/15|Wyrok|https://www.saos.org.pl/judgments/199795
-84748|2006-11-21|SN|II PK 52/06|Wyrok|https://www.saos.org.pl/judgments/84748
+saos_id|date|court|case_number|type|score|saos_url
+84748|2006-11-21|SN|II PK 52/06|Wyrok|78|https://www.saos.org.pl/judgments/84748
+266763|2016-12-28|SO|III AUa 2182/15|Wyrok|56|https://www.saos.org.pl/judgments/266763
+199795|2015-12-21|SO|IV U 1237/15|Wyrok|40|https://www.saos.org.pl/judgments/199795

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-168539|2015-03-12|SN|II CSK 486/14|Postanowienie|https://www.saos.org.pl/judgments/168539
-167852|2015-01-14|SN|I CZ 98/14|Postanowienie|https://www.saos.org.pl/judgments/167852
-164011|2006-02-01|SN|V CSK 86/05|Wyrok|https://www.saos.org.pl/judgments/164011
+saos_id|date|court|case_number|type|score|saos_url
+164011|2006-02-01|SN|V CSK 86/05|Wyrok|78|https://www.saos.org.pl/judgments/164011
+168539|2015-03-12|SN|II CSK 486/14|Postanowienie|69|https://www.saos.org.pl/judgments/168539
+167852|2015-01-14|SN|I CZ 98/14|Postanowienie|69|https://www.saos.org.pl/judgments/167852

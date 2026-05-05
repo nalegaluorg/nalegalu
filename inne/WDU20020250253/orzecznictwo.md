@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 1 marca 2002 r. o zmianach w organizacji i funkcjonowaniu centralnych organów administracji rządowej i jednostek im podporządkowanych oraz o zmianie niektórych ustaw.*
 
-Łącznie: **9** orzeczeń
+Łącznie: **8** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
@@ -14,17 +15,17 @@ Orzeczenia powołujące: *Ustawa z dnia 1 marca 2002 r. o zmianach w organizacji
 
 ## art. 30 (1)
 
-- 2006-02-14 | SN | [II CSK 84/05](https://www.saos.org.pl/judgments/164052) | Wyrok
+- 2006-02-14 | SN | [II CSK 84/05](https://www.saos.org.pl/judgments/164052) | Wyrok ★
 
 ## art. 39 (1)
 
-- 2003-09-29 | TK | [K 5/03](https://www.saos.org.pl/judgments/106318) | Wyrok
+- 2003-09-29 | TK | [K 5/03](https://www.saos.org.pl/judgments/106318) | Wyrok ★
 
 ## art. 52 (3)
 
-- 2005-01-19 | SN | [I CK 484/04](https://www.saos.org.pl/judgments/162913) | Wyrok
-- 2005-01-19 | SN | [I CK 466/04](https://www.saos.org.pl/judgments/162910) | Wyrok
-- 2005-01-19 | SN | [I CK 465/04](https://www.saos.org.pl/judgments/162909) | Wyrok
+- 2005-01-19 | SN | [I CK 484/04](https://www.saos.org.pl/judgments/162913) | Wyrok ★
+- 2005-01-19 | SN | [I CK 466/04](https://www.saos.org.pl/judgments/162910) | Wyrok ★
+- 2005-01-19 | SN | [I CK 465/04](https://www.saos.org.pl/judgments/162909) | Wyrok ★
 
 ## art. 70 (1)
 
@@ -32,9 +33,5 @@ Orzeczenia powołujące: *Ustawa z dnia 1 marca 2002 r. o zmianach w organizacji
 
 ## art. 71 (1)
 
-- 2011-07-12 | TK | [K 26/09](https://www.saos.org.pl/judgments/110280) | Wyrok
-
-## (ogólnie) (1)
-
-- 2015-10-16 | SO | [II Ca 956/15](https://www.saos.org.pl/judgments/183441) | Wyrok
+- 2011-07-12 | TK | [K 26/09](https://www.saos.org.pl/judgments/110280) | Wyrok ★
 

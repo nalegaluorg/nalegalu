@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-361082|2018-05-25|SO|II Ca 2257/17|Postanowienie|https://www.saos.org.pl/judgments/361082
-330582|2017-12-28|SO|III Ca 1590/17|Uzasadnienie|https://www.saos.org.pl/judgments/330582
-296812|2016-09-29|SO|II Ca 522/16|Postanowienie|https://www.saos.org.pl/judgments/296812
-222627|2016-03-16|SO|III Ca 1837/15|Uzasadnienie|https://www.saos.org.pl/judgments/222627
-195788|2015-11-19|SO|I ACa 1072/15|Wyrok|https://www.saos.org.pl/judgments/195788
-167102|2014-10-22|SN|II CSK 687/13|Wyrok|https://www.saos.org.pl/judgments/167102
+saos_id|date|court|case_number|type|score|saos_url
+167102|2014-10-22|SN|II CSK 687/13|Wyrok|78|https://www.saos.org.pl/judgments/167102
+195788|2015-11-19|SO|I ACa 1072/15|Wyrok|56|https://www.saos.org.pl/judgments/195788
+361082|2018-05-25|SO|II Ca 2257/17|Postanowienie|31|https://www.saos.org.pl/judgments/361082
+330582|2017-12-28|SO|III Ca 1590/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/330582
+222627|2016-03-16|SO|III Ca 1837/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/222627

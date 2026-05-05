@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-228691|2016-06-15|SO|XIII Ga 1144/15|Uzasadnienie|https://www.saos.org.pl/judgments/228691
-23267|2013-09-26|SO|I ACz 1388/13|Postanowienie|https://www.saos.org.pl/judgments/23267
+saos_id|date|court|case_number|type|score|saos_url
+23267|2013-09-26|SO|I ACz 1388/13|Postanowienie|47|https://www.saos.org.pl/judgments/23267
+228691|2016-06-15|SO|XIII Ga 1144/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/228691

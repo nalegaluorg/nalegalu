@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-487551|2023-05-05|SO|VIII Ua 45/22|Uzasadnienie|https://www.saos.org.pl/judgments/487551
-519930|2023-04-18|SO|XIII Ua 41/21|Wyrok|https://www.saos.org.pl/judgments/519930
+saos_id|date|court|case_number|type|score|saos_url
+487551|2023-05-05|SO|VIII Ua 45/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/487551

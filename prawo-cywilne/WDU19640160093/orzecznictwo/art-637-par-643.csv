@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467303|2022-04-26|SO|XI GC 128/22|Zarządzenie|https://www.saos.org.pl/judgments/467303
-84668|2006-10-20|SN|IV CSK 178/06|Wyrok|https://www.saos.org.pl/judgments/84668
+saos_id|date|court|case_number|type|score|saos_url
+84668|2006-10-20|SN|IV CSK 178/06|Wyrok|78|https://www.saos.org.pl/judgments/84668

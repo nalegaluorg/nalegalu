@@ -1,18 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-544966|2026-03-30|SO|I Ns 180/25|Zarządzenie|https://www.saos.org.pl/judgments/544966
-468461|2022-02-09|SO|XIII Ns 990/21|Zarządzenie|https://www.saos.org.pl/judgments/468461
-377565|2019-03-18|SO|I Ns 345/18|Postanowienie|https://www.saos.org.pl/judgments/377565
-377902|2017-11-08|SO|II Ca 1532/17|Postanowienie|https://www.saos.org.pl/judgments/377902
-310584|2017-10-05|SO|I Ns 169/17|Postanowienie|https://www.saos.org.pl/judgments/310584
-316226|2017-09-28|SO|I Ns 752/16|Postanowienie|https://www.saos.org.pl/judgments/316226
-311599|2017-09-20|SO|III Ca 713/17|Uzasadnienie|https://www.saos.org.pl/judgments/311599
-258783|2016-11-09|SO|I Ns 269/15|Postanowienie|https://www.saos.org.pl/judgments/258783
-233707|2016-06-16|SO|I Ns 157/15|Uzasadnienie|https://www.saos.org.pl/judgments/233707
-195236|2015-09-02|SO|I Ns 66/15|Postanowienie|https://www.saos.org.pl/judgments/195236
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-129074|2014-12-11|SO|III Ca 553/14|Uzasadnienie|https://www.saos.org.pl/judgments/129074
-125281|2014-10-30|SO|II Ca 601/13|Uzasadnienie|https://www.saos.org.pl/judgments/125281
-61163|2014-04-10|SO|II Ca 704/13|Uzasadnienie|https://www.saos.org.pl/judgments/61163
-43635|2014-03-07|SO|XV Cz 238/14|Postanowienie|https://www.saos.org.pl/judgments/43635
-110894|2011-07-07|TK|U 8/08|Wyrok|https://www.saos.org.pl/judgments/110894
-90901|2009-09-23|SN|I CZ 49/09|Postanowienie|https://www.saos.org.pl/judgments/90901
+saos_id|date|court|case_number|type|score|saos_url
+110894|2011-07-07|TK|U 8/08|Wyrok|98|https://www.saos.org.pl/judgments/110894
+90901|2009-09-23|SN|I CZ 49/09|Postanowienie|69|https://www.saos.org.pl/judgments/90901
+377902|2017-11-08|SO|II Ca 1532/17|Postanowienie|31|https://www.saos.org.pl/judgments/377902
+43635|2014-03-07|SO|XV Cz 238/14|Postanowienie|31|https://www.saos.org.pl/judgments/43635
+311599|2017-09-20|SO|III Ca 713/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/311599
+129074|2014-12-11|SO|III Ca 553/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/129074

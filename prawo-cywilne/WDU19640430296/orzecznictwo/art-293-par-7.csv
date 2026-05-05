@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-407536|2019-09-18|SO|I ACa 13/19|Wyrok|https://www.saos.org.pl/judgments/407536
+saos_id|date|court|case_number|type|score|saos_url
+407536|2019-09-18|SO|I ACa 13/19|Wyrok|56|https://www.saos.org.pl/judgments/407536

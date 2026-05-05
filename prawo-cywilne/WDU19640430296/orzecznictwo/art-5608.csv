@@ -1,20 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-544494|2026-03-31|SO|I Ns 68/26|Postanowienie|https://www.saos.org.pl/judgments/544494
-541699|2025-11-06|SO|I Ns 953/25|Postanowienie|https://www.saos.org.pl/judgments/541699
-542288|2025-08-25|SO|VII Ns 679/24|Uzasadnienie|https://www.saos.org.pl/judgments/542288
-535353|2025-08-01|SO|I Ns 711/25|Postanowienie|https://www.saos.org.pl/judgments/535353
-543237|2025-06-18|SO|II Ca 1424/25|Postanowienie|https://www.saos.org.pl/judgments/543237
-525576|2025-04-28|SO|I Ns 1040/24|Postanowienie|https://www.saos.org.pl/judgments/525576
-524558|2025-03-12|SO|I Ns 82/25|Postanowienie|https://www.saos.org.pl/judgments/524558
-532568|2025-02-12|SO|I Ns 755/24|Postanowienie|https://www.saos.org.pl/judgments/532568
-538821|2025-01-27|SO|I Ns 634/24|Postanowienie|https://www.saos.org.pl/judgments/538821
-531273|2024-10-07|SO|I Ns 1176/23|Postanowienie|https://www.saos.org.pl/judgments/531273
-538893|2024-09-18|SO|I Ns 120/24|Uzasadnienie|https://www.saos.org.pl/judgments/538893
-500226|2024-08-29|SO|I Ns 495/24|Postanowienie|https://www.saos.org.pl/judgments/500226
-500107|2024-08-14|SO|I Ns 185/24|Postanowienie|https://www.saos.org.pl/judgments/500107
-500131|2024-08-05|SO|I Ns 245/24|Postanowienie|https://www.saos.org.pl/judgments/500131
-538895|2024-07-30|SO|I Ns 134/24|Uzasadnienie|https://www.saos.org.pl/judgments/538895
-500088|2024-04-05|SO|I Ns 146/24|Postanowienie|https://www.saos.org.pl/judgments/500088
-500180|2024-02-12|SO|I Ns 354/23|Uzasadnienie|https://www.saos.org.pl/judgments/500180
-518573|2023-09-15|SO|I Ns 274/23|Postanowienie|https://www.saos.org.pl/judgments/518573
-480301|2022-07-01|SO|I Ns 179/22|Postanowienie|https://www.saos.org.pl/judgments/480301
+saos_id|date|court|case_number|type|score|saos_url
+543237|2025-06-18|SO|II Ca 1424/25|Postanowienie|31|https://www.saos.org.pl/judgments/543237
+538821|2025-01-27|SO|I Ns 634/24|Postanowienie|31|https://www.saos.org.pl/judgments/538821
+500226|2024-08-29|SO|I Ns 495/24|Postanowienie|31|https://www.saos.org.pl/judgments/500226
+542288|2025-08-25|SO|VII Ns 679/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/542288
+538893|2024-09-18|SO|I Ns 120/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/538893
+538895|2024-07-30|SO|I Ns 134/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/538895
+500180|2024-02-12|SO|I Ns 354/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/500180

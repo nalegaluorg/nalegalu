@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-321322|2017-10-17|SO|III Ca 805/17|Uzasadnienie|https://www.saos.org.pl/judgments/321322
-285106|2016-11-09|SO|I C 1215/14|Wyrok|https://www.saos.org.pl/judgments/285106
-10702|2012-05-24|SO|I ACa 465/12|Wyrok|https://www.saos.org.pl/judgments/10702
+saos_id|date|court|case_number|type|score|saos_url
+10702|2012-05-24|SO|I ACa 465/12|Wyrok|56|https://www.saos.org.pl/judgments/10702
+285106|2016-11-09|SO|I C 1215/14|Wyrok|40|https://www.saos.org.pl/judgments/285106
+321322|2017-10-17|SO|III Ca 805/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/321322

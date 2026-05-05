@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-514178|2023-09-04|SO|VIII U 87/23|Uzasadnienie|https://www.saos.org.pl/judgments/514178
-384805|2019-05-23|SO|I ACa 1749/17|Wyrok|https://www.saos.org.pl/judgments/384805
-309433|2017-06-29|SO|I ACa 549/16|Wyrok|https://www.saos.org.pl/judgments/309433
-151299|2015-03-19|SO|I ACa 1316/14|Wyrok|https://www.saos.org.pl/judgments/151299
+saos_id|date|court|case_number|type|score|saos_url
+384805|2019-05-23|SO|I ACa 1749/17|Wyrok|56|https://www.saos.org.pl/judgments/384805
+309433|2017-06-29|SO|I ACa 549/16|Wyrok|56|https://www.saos.org.pl/judgments/309433
+151299|2015-03-19|SO|I ACa 1316/14|Wyrok|56|https://www.saos.org.pl/judgments/151299
+514178|2023-09-04|SO|VIII U 87/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514178

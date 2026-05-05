@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Ustawa z dnia 7 marca 2007 r. o zmianie ustawy - Kodek
 
 ## art. 552 (1)
 
-- 2015-07-13 | SN | [WA 7/15](https://www.saos.org.pl/judgments/243020) | Wyrok
+- 2015-07-13 | SN | [WA 7/15](https://www.saos.org.pl/judgments/243020) | Wyrok ★
 
 ## art. 558 (1)
 
-- 2010-12-02 | TK | [Ts 12/09](https://www.saos.org.pl/judgments/206270) | Postanowienie
+- 2010-12-02 | TK | [Ts 12/09](https://www.saos.org.pl/judgments/206270) | Postanowienie ★
 
 ## (ogólnie) (3)
 

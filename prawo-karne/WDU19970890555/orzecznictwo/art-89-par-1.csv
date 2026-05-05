@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-432670|2021-02-23|SO|III K 364/20|Wyrok|https://www.saos.org.pl/judgments/432670
-432018|2021-01-05|SO|II AKa 113/20|Uzasadnienie|https://www.saos.org.pl/judgments/432018
-432019|2020-12-17|SO|II AKa 113/20|Wyrok|https://www.saos.org.pl/judgments/432019
-372720|2019-02-07|SO|XII K 98/18|Wyrok|https://www.saos.org.pl/judgments/372720
-318391|2017-12-07|SO|II Ka 652/17|Wyrok|https://www.saos.org.pl/judgments/318391
-271669|2017-01-12|SO|IV Ka 1175/16|Wyrok|https://www.saos.org.pl/judgments/271669
-258963|2016-09-19|SO|II K 546/16|Wyrok|https://www.saos.org.pl/judgments/258963
-227220|2016-03-17|SO|II K 837/15|Wyrok|https://www.saos.org.pl/judgments/227220
-179054|2015-08-25|SO|II Ka 330/15|Wyrok|https://www.saos.org.pl/judgments/179054
-179403|2015-04-16|SO|II AKa 42/15|Wyrok|https://www.saos.org.pl/judgments/179403
-129632|2015-02-06|SO|II Ka 690/14|Wyrok|https://www.saos.org.pl/judgments/129632
-177568|2014-11-13|SO|II AKa 390/14|Wyrok|https://www.saos.org.pl/judgments/177568
-68078|2014-10-15|SO|XVI K 123/14|Wyrok|https://www.saos.org.pl/judgments/68078
-166203|2014-06-25|SN|IV KK 182/14|Wyrok|https://www.saos.org.pl/judgments/166203
-50532|2014-06-18|SO|VII Kz 421/14|Postanowienie|https://www.saos.org.pl/judgments/50532
-59181|2014-05-16|SO|IV K 26/14|Wyrok|https://www.saos.org.pl/judgments/59181
-30337|2013-05-21|SO|IV Ka 231/13|Wyrok|https://www.saos.org.pl/judgments/30337
+saos_id|date|court|case_number|type|score|saos_url
+166203|2014-06-25|SN|IV KK 182/14|Wyrok|78|https://www.saos.org.pl/judgments/166203
+432019|2020-12-17|SO|II AKa 113/20|Wyrok|56|https://www.saos.org.pl/judgments/432019
+179403|2015-04-16|SO|II AKa 42/15|Wyrok|56|https://www.saos.org.pl/judgments/179403
+177568|2014-11-13|SO|II AKa 390/14|Wyrok|56|https://www.saos.org.pl/judgments/177568
+432018|2021-01-05|SO|II AKa 113/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/432018
+432670|2021-02-23|SO|III K 364/20|Wyrok|40|https://www.saos.org.pl/judgments/432670
+68078|2014-10-15|SO|XVI K 123/14|Wyrok|40|https://www.saos.org.pl/judgments/68078
+50532|2014-06-18|SO|VII Kz 421/14|Postanowienie|31|https://www.saos.org.pl/judgments/50532

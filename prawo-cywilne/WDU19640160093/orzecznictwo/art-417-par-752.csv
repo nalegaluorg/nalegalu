@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-164298|2006-05-18|SN|IV CSK 8/05|Wyrok|https://www.saos.org.pl/judgments/164298
+saos_id|date|court|case_number|type|score|saos_url
+164298|2006-05-18|SN|IV CSK 8/05|Wyrok|78|https://www.saos.org.pl/judgments/164298

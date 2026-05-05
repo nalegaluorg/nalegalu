@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-452494|2021-07-02|SO|I C 1304/20|Uzasadnienie|https://www.saos.org.pl/judgments/452494
-326584|2018-01-10|SO|I C 346/17|Wyrok|https://www.saos.org.pl/judgments/326584
-86987|2008-01-09|SN|II CSK 394/07|Wyrok|https://www.saos.org.pl/judgments/86987
+saos_id|date|court|case_number|type|score|saos_url
+86987|2008-01-09|SN|II CSK 394/07|Wyrok|78|https://www.saos.org.pl/judgments/86987

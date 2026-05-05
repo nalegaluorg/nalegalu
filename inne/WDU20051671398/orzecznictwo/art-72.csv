@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-502327|2021-12-01|SO|II Co 409/20|Zarządzenie|https://www.saos.org.pl/judgments/502327
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-127736|2015-01-16|SO|II Cz 2197/14|Postanowienie|https://www.saos.org.pl/judgments/127736
-61690|2014-09-17|SO|II Cz 1193/14|Postanowienie|https://www.saos.org.pl/judgments/61690
-23070|2013-09-19|SO|II Cz 1892/12|Postanowienie|https://www.saos.org.pl/judgments/23070
+saos_id|date|court|case_number|type|score|saos_url
+502327|2021-12-01|SO|II Co 409/20|Zarządzenie|27|https://www.saos.org.pl/judgments/502327

@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-511847|2024-07-30|SO|VII Pa 47/24|Wyrok|https://www.saos.org.pl/judgments/511847
-507174|2023-10-12|SO|III Pa 43/23|Wyrok|https://www.saos.org.pl/judgments/507174
-426287|2020-11-17|SO|III APa 5/20|Wyrok|https://www.saos.org.pl/judgments/426287
-419791|2020-07-13|SO|VIII U 3856/14|Zarządzenie|https://www.saos.org.pl/judgments/419791
-412907|2019-10-09|SO|IV P 86/18|Wyrok|https://www.saos.org.pl/judgments/412907
-329030|2018-01-22|SO|VII Ua 70/17|Wyrok|https://www.saos.org.pl/judgments/329030
-328050|2017-12-19|SO|VI Pa 70/17|Wyrok|https://www.saos.org.pl/judgments/328050
-318707|2017-11-07|SO|V Pa 32/17|Wyrok|https://www.saos.org.pl/judgments/318707
-368616|2016-10-26|SO|VII P 227/16|Wyrok|https://www.saos.org.pl/judgments/368616
-247177|2016-09-19|SO|V Ka 398/16|Uzasadnienie|https://www.saos.org.pl/judgments/247177
-187217|2015-10-27|SO|V Ka 434/15|Wyrok|https://www.saos.org.pl/judgments/187217
-130303|2015-01-19|SO|IV P 308/14|Wyrok|https://www.saos.org.pl/judgments/130303
-56581|2014-06-24|SO|VI Ka 248/14|Wyrok|https://www.saos.org.pl/judgments/56581
-89931|2009-03-26|SN|I KZP 39/08|Postanowienie|https://www.saos.org.pl/judgments/89931
-89538|2009-01-29|SN|I KZP 25/08|Uchwała|https://www.saos.org.pl/judgments/89538
-83026|2004-11-30|SN|I KZP 26/04|Uchwała|https://www.saos.org.pl/judgments/83026
-82214|2003-09-30|SN|I KZP 23/03|Uchwała|https://www.saos.org.pl/judgments/82214
+saos_id|date|court|case_number|type|score|saos_url
+89538|2009-01-29|SN|I KZP 25/08|Uchwała|89|https://www.saos.org.pl/judgments/89538
+83026|2004-11-30|SN|I KZP 26/04|Uchwała|89|https://www.saos.org.pl/judgments/83026
+82214|2003-09-30|SN|I KZP 23/03|Uchwała|89|https://www.saos.org.pl/judgments/82214
+89931|2009-03-26|SN|I KZP 39/08|Postanowienie|69|https://www.saos.org.pl/judgments/89931
+426287|2020-11-17|SO|III APa 5/20|Wyrok|56|https://www.saos.org.pl/judgments/426287
+511847|2024-07-30|SO|VII Pa 47/24|Wyrok|40|https://www.saos.org.pl/judgments/511847
+507174|2023-10-12|SO|III Pa 43/23|Wyrok|40|https://www.saos.org.pl/judgments/507174
+329030|2018-01-22|SO|VII Ua 70/17|Wyrok|40|https://www.saos.org.pl/judgments/329030
+419791|2020-07-13|SO|VIII U 3856/14|Zarządzenie|27|https://www.saos.org.pl/judgments/419791

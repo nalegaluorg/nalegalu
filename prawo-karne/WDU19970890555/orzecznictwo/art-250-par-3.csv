@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-493515|2022-06-30|SO|I ACa 1288/20|Wyrok|https://www.saos.org.pl/judgments/493515
-111654|2013-01-29|TK|SK 10/11|Postanowienie|https://www.saos.org.pl/judgments/111654
-108545|2008-06-03|TK|K 42/07|Wyrok|https://www.saos.org.pl/judgments/108545
+saos_id|date|court|case_number|type|score|saos_url
+108545|2008-06-03|TK|K 42/07|Wyrok|98|https://www.saos.org.pl/judgments/108545
+111654|2013-01-29|TK|SK 10/11|Postanowienie|80|https://www.saos.org.pl/judgments/111654
+493515|2022-06-30|SO|I ACa 1288/20|Wyrok|56|https://www.saos.org.pl/judgments/493515

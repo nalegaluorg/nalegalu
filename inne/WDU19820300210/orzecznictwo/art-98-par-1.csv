@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-268008|2016-10-28|SO|I ACa 1517/15|Wyrok|https://www.saos.org.pl/judgments/268008
-228215|2016-01-28|SO|I ACa 1621/14|Wyrok|https://www.saos.org.pl/judgments/228215
-36888|2013-10-10|SO|I ACa 47/13|Wyrok|https://www.saos.org.pl/judgments/36888
+saos_id|date|court|case_number|type|score|saos_url
+268008|2016-10-28|SO|I ACa 1517/15|Wyrok|56|https://www.saos.org.pl/judgments/268008
+228215|2016-01-28|SO|I ACa 1621/14|Wyrok|56|https://www.saos.org.pl/judgments/228215
+36888|2013-10-10|SO|I ACa 47/13|Wyrok|56|https://www.saos.org.pl/judgments/36888

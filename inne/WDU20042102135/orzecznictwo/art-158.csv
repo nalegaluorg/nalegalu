@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-379086|2018-09-25|SO|IV C 596/14|Wyrok|https://www.saos.org.pl/judgments/379086
-484033|2015-06-03|SO|I ACa 302/15|Wyrok|https://www.saos.org.pl/judgments/484033
-64154|2014-03-26|SO|I ACa 872/13|Wyrok|https://www.saos.org.pl/judgments/64154
+saos_id|date|court|case_number|type|score|saos_url
+484033|2015-06-03|SO|I ACa 302/15|Wyrok|56|https://www.saos.org.pl/judgments/484033
+64154|2014-03-26|SO|I ACa 872/13|Wyrok|56|https://www.saos.org.pl/judgments/64154

@@ -1,14 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-469761|2019-10-28|SO|VI P 19/18|Wyrok|https://www.saos.org.pl/judgments/469761
-419691|2019-06-14|SO|I ACa 708/18|Wyrok|https://www.saos.org.pl/judgments/419691
-306545|2017-08-07|SO|VI Ka 451/17|Wyrok|https://www.saos.org.pl/judgments/306545
-280695|2016-02-25|SO|II AKa 5/16|Wyrok|https://www.saos.org.pl/judgments/280695
-214296|2016-02-25|SO|II AKa 4/16|Wyrok|https://www.saos.org.pl/judgments/214296
-178582|2015-05-14|SO|II AKa 58/15|Wyrok|https://www.saos.org.pl/judgments/178582
-167138|2014-10-30|SN|I KZP 22/14|Postanowienie|https://www.saos.org.pl/judgments/167138
-331360|2014-03-06|SO|II AKa 200/13|Wyrok|https://www.saos.org.pl/judgments/331360
-36929|2013-06-28|SO|II Kz 109/13|Postanowienie|https://www.saos.org.pl/judgments/36929
-1356|2012-06-12|SO|II S 15/12|Postanowienie|https://www.saos.org.pl/judgments/1356
-91109|2009-10-28|SN|I KZP 19/09|Uchwała|https://www.saos.org.pl/judgments/91109
-85890|2007-05-17|SN|SNO 29/07|Wyrok|https://www.saos.org.pl/judgments/85890
-85325|2007-02-22|SN|SNO 7/07|Wyrok|https://www.saos.org.pl/judgments/85325
+saos_id|date|court|case_number|type|score|saos_url
+91109|2009-10-28|SN|I KZP 19/09|Uchwała|89|https://www.saos.org.pl/judgments/91109
+85890|2007-05-17|SN|SNO 29/07|Wyrok|78|https://www.saos.org.pl/judgments/85890
+85325|2007-02-22|SN|SNO 7/07|Wyrok|78|https://www.saos.org.pl/judgments/85325
+167138|2014-10-30|SN|I KZP 22/14|Postanowienie|69|https://www.saos.org.pl/judgments/167138
+419691|2019-06-14|SO|I ACa 708/18|Wyrok|56|https://www.saos.org.pl/judgments/419691
+280695|2016-02-25|SO|II AKa 5/16|Wyrok|56|https://www.saos.org.pl/judgments/280695
+214296|2016-02-25|SO|II AKa 4/16|Wyrok|56|https://www.saos.org.pl/judgments/214296
+178582|2015-05-14|SO|II AKa 58/15|Wyrok|56|https://www.saos.org.pl/judgments/178582
+331360|2014-03-06|SO|II AKa 200/13|Wyrok|56|https://www.saos.org.pl/judgments/331360
+1356|2012-06-12|SO|II S 15/12|Postanowienie|47|https://www.saos.org.pl/judgments/1356
+469761|2019-10-28|SO|VI P 19/18|Wyrok|40|https://www.saos.org.pl/judgments/469761
+306545|2017-08-07|SO|VI Ka 451/17|Wyrok|40|https://www.saos.org.pl/judgments/306545

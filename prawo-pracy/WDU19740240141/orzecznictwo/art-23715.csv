@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-307165|2017-08-23|SO|X P 878/15|Wyrok|https://www.saos.org.pl/judgments/307165
-17825|2013-06-06|SO|II Ca 184/13|Postanowienie|https://www.saos.org.pl/judgments/17825
-100830|2013-02-19|SN|IV KK 216/12|Wyrok|https://www.saos.org.pl/judgments/100830
+saos_id|date|court|case_number|type|score|saos_url
+100830|2013-02-19|SN|IV KK 216/12|Wyrok|78|https://www.saos.org.pl/judgments/100830

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-520766|2024-12-05|SO|V ACa 614/24|Wyrok|https://www.saos.org.pl/judgments/520766
-494280|2023-09-07|SO|I ACa 53/23|Wyrok|https://www.saos.org.pl/judgments/494280
-481596|2022-12-15|SO|V ACa 254/22|Wyrok|https://www.saos.org.pl/judgments/481596
-400057|2019-10-16|SO|V Ca 3290/18|Wyrok|https://www.saos.org.pl/judgments/400057
+saos_id|date|court|case_number|type|score|saos_url
+520766|2024-12-05|SO|V ACa 614/24|Wyrok|56|https://www.saos.org.pl/judgments/520766
+494280|2023-09-07|SO|I ACa 53/23|Wyrok|56|https://www.saos.org.pl/judgments/494280
+481596|2022-12-15|SO|V ACa 254/22|Wyrok|56|https://www.saos.org.pl/judgments/481596

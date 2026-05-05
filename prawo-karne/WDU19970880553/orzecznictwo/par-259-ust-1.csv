@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-267153|2017-01-23|SO|III K 254/16|Postanowienie|https://www.saos.org.pl/judgments/267153
-194764|2015-09-28|SO|III Kow 1146/15|Postanowienie|https://www.saos.org.pl/judgments/194764
-144005|2014-03-04|SO|II AKz 26/14|Postanowienie|https://www.saos.org.pl/judgments/144005
+saos_id|date|court|case_number|type|score|saos_url
+144005|2014-03-04|SO|II AKz 26/14|Postanowienie|47|https://www.saos.org.pl/judgments/144005
+267153|2017-01-23|SO|III K 254/16|Postanowienie|31|https://www.saos.org.pl/judgments/267153

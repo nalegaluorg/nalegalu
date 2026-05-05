@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-68570|2014-09-23|SO|I ACa 331/14|Wyrok|https://www.saos.org.pl/judgments/68570
-22402|2013-04-04|SO|VI ACa 4/13|Wyrok|https://www.saos.org.pl/judgments/22402
-98441|2012-06-21|SN|III CZP 28/12|Uchwała|https://www.saos.org.pl/judgments/98441
+saos_id|date|court|case_number|type|score|saos_url
+98441|2012-06-21|SN|III CZP 28/12|Uchwała|89|https://www.saos.org.pl/judgments/98441
+68570|2014-09-23|SO|I ACa 331/14|Wyrok|56|https://www.saos.org.pl/judgments/68570
+22402|2013-04-04|SO|VI ACa 4/13|Wyrok|56|https://www.saos.org.pl/judgments/22402

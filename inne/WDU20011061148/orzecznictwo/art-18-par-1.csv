@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-327926|2017-06-09|SO|II W 1205/16|Wyrok|https://www.saos.org.pl/judgments/327926
-283057|2017-02-09|SO|VII Kz 12/17|Postanowienie|https://www.saos.org.pl/judgments/283057
-81929|2003-03-27|SN|I KZP 3/03|Uchwała|https://www.saos.org.pl/judgments/81929
+saos_id|date|court|case_number|type|score|saos_url
+81929|2003-03-27|SN|I KZP 3/03|Uchwała|89|https://www.saos.org.pl/judgments/81929
+283057|2017-02-09|SO|VII Kz 12/17|Postanowienie|31|https://www.saos.org.pl/judgments/283057

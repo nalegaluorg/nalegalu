@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-260|2012-10-24|SO|III AUa 627/12|Wyrok|https://www.saos.org.pl/judgments/260
+saos_id|date|court|case_number|type|score|saos_url
+260|2012-10-24|SO|III AUa 627/12|Wyrok|56|https://www.saos.org.pl/judgments/260

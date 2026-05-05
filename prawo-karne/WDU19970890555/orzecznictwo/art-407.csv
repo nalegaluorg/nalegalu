@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-359697|2018-10-05|SO|II Ka 385/18|Wyrok|https://www.saos.org.pl/judgments/359697
-135300|2015-02-09|SO|IX Ka 1693/14|Wyrok|https://www.saos.org.pl/judgments/135300
-136260|2012-11-21|SO|II AKa 335/12|Wyrok|https://www.saos.org.pl/judgments/136260
-79714|2000-05-17|SN|IV KKN 122/97|Postanowienie|https://www.saos.org.pl/judgments/79714
-78185|1998-03-05|SN|III SZ 7/97|Wyrok|https://www.saos.org.pl/judgments/78185
+saos_id|date|court|case_number|type|score|saos_url
+78185|1998-03-05|SN|III SZ 7/97|Wyrok|78|https://www.saos.org.pl/judgments/78185
+79714|2000-05-17|SN|IV KKN 122/97|Postanowienie|69|https://www.saos.org.pl/judgments/79714
+136260|2012-11-21|SO|II AKa 335/12|Wyrok|56|https://www.saos.org.pl/judgments/136260

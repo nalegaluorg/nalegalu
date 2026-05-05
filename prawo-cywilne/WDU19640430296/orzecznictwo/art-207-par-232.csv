@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-216183|2016-02-18|SO|III Ca 1006/15|Wyrok|https://www.saos.org.pl/judgments/216183
-92498|2010-06-23|SN|II CSK 14/10|Wyrok|https://www.saos.org.pl/judgments/92498
+saos_id|date|court|case_number|type|score|saos_url
+92498|2010-06-23|SN|II CSK 14/10|Wyrok|78|https://www.saos.org.pl/judgments/92498

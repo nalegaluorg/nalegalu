@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-44531|2014-02-20|SO|I ACa 909/13|Wyrok|https://www.saos.org.pl/judgments/44531
+saos_id|date|court|case_number|type|score|saos_url
+44531|2014-02-20|SO|I ACa 909/13|Wyrok|56|https://www.saos.org.pl/judgments/44531

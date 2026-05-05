@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-77834|1997-09-24|SN|III RN 44/97|Postanowienie|https://www.saos.org.pl/judgments/77834
-77195|1996-06-20|SN|III PO 11/96|Postanowienie|https://www.saos.org.pl/judgments/77195
-76635|1994-09-21|SN|III ARN 43/94|Postanowienie|https://www.saos.org.pl/judgments/76635
+saos_id|date|court|case_number|type|score|saos_url
+77834|1997-09-24|SN|III RN 44/97|Postanowienie|69|https://www.saos.org.pl/judgments/77834
+77195|1996-06-20|SN|III PO 11/96|Postanowienie|69|https://www.saos.org.pl/judgments/77195
+76635|1994-09-21|SN|III ARN 43/94|Postanowienie|69|https://www.saos.org.pl/judgments/76635

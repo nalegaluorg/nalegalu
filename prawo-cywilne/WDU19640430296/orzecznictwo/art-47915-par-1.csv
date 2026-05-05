@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-248011|2016-04-27|SO|VI ACa 232/15|Wyrok|https://www.saos.org.pl/judgments/248011
+saos_id|date|court|case_number|type|score|saos_url
+248011|2016-04-27|SO|VI ACa 232/15|Wyrok|56|https://www.saos.org.pl/judgments/248011

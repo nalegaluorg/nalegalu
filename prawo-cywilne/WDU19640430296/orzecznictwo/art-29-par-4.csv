@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-504702|2023-11-22|SO|III AUa 1220/22|Wyrok|https://www.saos.org.pl/judgments/504702
-489535|2023-02-22|SO|XXV C 3830/20|Wyrok|https://www.saos.org.pl/judgments/489535
-506630|2023-01-23|SO|III Ca 597/22|Uzasadnienie|https://www.saos.org.pl/judgments/506630
+saos_id|date|court|case_number|type|score|saos_url
+504702|2023-11-22|SO|III AUa 1220/22|Wyrok|56|https://www.saos.org.pl/judgments/504702
+506630|2023-01-23|SO|III Ca 597/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/506630

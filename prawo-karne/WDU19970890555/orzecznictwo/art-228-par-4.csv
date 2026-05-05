@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-101532|2013-04-18|SN|V KK 105/12|Wyrok|https://www.saos.org.pl/judgments/101532
-81737|2002-12-03|SN|II KKN 208/01|Postanowienie|https://www.saos.org.pl/judgments/81737
+saos_id|date|court|case_number|type|score|saos_url
+101532|2013-04-18|SN|V KK 105/12|Wyrok|78|https://www.saos.org.pl/judgments/101532
+81737|2002-12-03|SN|II KKN 208/01|Postanowienie|69|https://www.saos.org.pl/judgments/81737

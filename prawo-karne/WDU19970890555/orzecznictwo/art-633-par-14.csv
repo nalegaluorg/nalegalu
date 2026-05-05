@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-282212|2017-01-30|SO|II K 339/15|Wyrok|https://www.saos.org.pl/judgments/282212
-24497|2013-05-16|SO|IV Ka 179/13|Wyrok|https://www.saos.org.pl/judgments/24497
-137402|2013-03-12|SO|II AKa 34/13|Wyrok|https://www.saos.org.pl/judgments/137402
-136413|2012-10-31|SO|II AKa 121/12|Wyrok|https://www.saos.org.pl/judgments/136413
+saos_id|date|court|case_number|type|score|saos_url
+137402|2013-03-12|SO|II AKa 34/13|Wyrok|56|https://www.saos.org.pl/judgments/137402
+136413|2012-10-31|SO|II AKa 121/12|Wyrok|56|https://www.saos.org.pl/judgments/136413
+282212|2017-01-30|SO|II K 339/15|Wyrok|40|https://www.saos.org.pl/judgments/282212

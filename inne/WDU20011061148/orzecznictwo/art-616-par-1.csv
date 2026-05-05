@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-285744|2017-02-09|SO|IV W 905/15|Wyrok|https://www.saos.org.pl/judgments/285744
-269783|2016-10-28|SO|VI Ka 943/16|Wyrok|https://www.saos.org.pl/judgments/269783
-235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|https://www.saos.org.pl/judgments/235683
+saos_id|date|court|case_number|type|score|saos_url
+285744|2017-02-09|SO|IV W 905/15|Wyrok|40|https://www.saos.org.pl/judgments/285744
+235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/235683

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-220787|2016-04-14|SO|II Ka 163/16|Wyrok|https://www.saos.org.pl/judgments/220787
-500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|https://www.saos.org.pl/judgments/500745
-417853|2009-05-06|SO|II AKa 394/08|Wyrok|https://www.saos.org.pl/judgments/417853
+saos_id|date|court|case_number|type|score|saos_url
+417853|2009-05-06|SO|II AKa 394/08|Wyrok|56|https://www.saos.org.pl/judgments/417853
+500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/500745

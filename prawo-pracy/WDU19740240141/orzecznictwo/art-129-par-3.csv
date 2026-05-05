@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-508775|2023-12-05|SO|IV P 63/23|Wyrok|https://www.saos.org.pl/judgments/508775
-345026|2018-05-28|SO|IV P 369/16|Wyrok|https://www.saos.org.pl/judgments/345026
-339651|2018-04-27|SO|IV Ka 162/18|Uzasadnienie|https://www.saos.org.pl/judgments/339651
-331262|2018-02-21|SO|IV P 57/16|Wyrok|https://www.saos.org.pl/judgments/331262
-320607|2017-11-27|SO|II W 383/17|Wyrok|https://www.saos.org.pl/judgments/320607
-321053|2017-11-21|SO|XXI Pa 483/17|Wyrok|https://www.saos.org.pl/judgments/321053
-298991|2017-07-05|SO|IV P 102/17|Wyrok|https://www.saos.org.pl/judgments/298991
-231675|2016-04-29|SO|VII Pa 114/15|Wyrok|https://www.saos.org.pl/judgments/231675
-226017|2016-04-27|SO|IV P 1132/14|Wyrok|https://www.saos.org.pl/judgments/226017
-203335|2015-12-31|SO|IV P 158/15|Wyrok|https://www.saos.org.pl/judgments/203335
-203343|2015-12-29|SO|IV P 81/15|Wyrok|https://www.saos.org.pl/judgments/203343
-205113|2015-12-15|SO|X P 378/15|Wyrok|https://www.saos.org.pl/judgments/205113
-7181|2013-01-30|SO|IV Pa 56/12|Wyrok|https://www.saos.org.pl/judgments/7181
+saos_id|date|court|case_number|type|score|saos_url
+508775|2023-12-05|SO|IV P 63/23|Wyrok|40|https://www.saos.org.pl/judgments/508775
+231675|2016-04-29|SO|VII Pa 114/15|Wyrok|40|https://www.saos.org.pl/judgments/231675
+7181|2013-01-30|SO|IV Pa 56/12|Wyrok|40|https://www.saos.org.pl/judgments/7181

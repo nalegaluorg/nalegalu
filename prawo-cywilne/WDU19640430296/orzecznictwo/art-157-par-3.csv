@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-461589|2022-03-30|SO|XIII Ga 1958/21|Uzasadnienie|https://www.saos.org.pl/judgments/461589
-469384|2021-12-22|SO|VII AGa 793/20|Wyrok|https://www.saos.org.pl/judgments/469384
-367773|2018-11-22|SO|III Ca 414/18|Wyrok|https://www.saos.org.pl/judgments/367773
-168039|2015-01-20|SN|III SPP 236/14|Postanowienie|https://www.saos.org.pl/judgments/168039
-153509|2014-11-26|SO|XII Ga 342/14|Wyrok|https://www.saos.org.pl/judgments/153509
-65638|2014-08-13|SO|XII Ga 231/14|Wyrok|https://www.saos.org.pl/judgments/65638
-36360|2014-01-31|SO|XII Ga 500/13|Wyrok|https://www.saos.org.pl/judgments/36360
-31788|2013-09-27|SO|V Pz 97/13|Postanowienie|https://www.saos.org.pl/judgments/31788
-48752|2013-03-21|SO|III U 484/13|Wyrok|https://www.saos.org.pl/judgments/48752
-13318|2013-02-22|SO|I ACa 857/12|Wyrok|https://www.saos.org.pl/judgments/13318
-89647|2009-02-12|SN|III CZP 143/08|Uchwała|https://www.saos.org.pl/judgments/89647
+saos_id|date|court|case_number|type|score|saos_url
+89647|2009-02-12|SN|III CZP 143/08|Uchwała|89|https://www.saos.org.pl/judgments/89647
+168039|2015-01-20|SN|III SPP 236/14|Postanowienie|69|https://www.saos.org.pl/judgments/168039
+469384|2021-12-22|SO|VII AGa 793/20|Wyrok|56|https://www.saos.org.pl/judgments/469384
+13318|2013-02-22|SO|I ACa 857/12|Wyrok|56|https://www.saos.org.pl/judgments/13318
+153509|2014-11-26|SO|XII Ga 342/14|Wyrok|40|https://www.saos.org.pl/judgments/153509
+65638|2014-08-13|SO|XII Ga 231/14|Wyrok|40|https://www.saos.org.pl/judgments/65638
+36360|2014-01-31|SO|XII Ga 500/13|Wyrok|40|https://www.saos.org.pl/judgments/36360
+461589|2022-03-30|SO|XIII Ga 1958/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/461589

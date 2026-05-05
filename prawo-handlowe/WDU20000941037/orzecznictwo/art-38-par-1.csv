@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-488556|2022-09-21|SO|X GC 714/22|Zarządzenie|https://www.saos.org.pl/judgments/488556
-465891|2022-04-13|SO|VIII GC 63/21|Uzasadnienie|https://www.saos.org.pl/judgments/465891
-515744|2019-03-04|SO|XXVII Ca 40/19|Postanowienie|https://www.saos.org.pl/judgments/515744
-399656|2018-01-19|SO|II AKa 238/17|Uzasadnienie|https://www.saos.org.pl/judgments/399656
-346674|2017-12-29|SO|X GC 522/17|Zarządzenie|https://www.saos.org.pl/judgments/346674
+saos_id|date|court|case_number|type|score|saos_url
+399656|2018-01-19|SO|II AKa 238/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/399656
+488556|2022-09-21|SO|X GC 714/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488556
+346674|2017-12-29|SO|X GC 522/17|Zarządzenie|27|https://www.saos.org.pl/judgments/346674

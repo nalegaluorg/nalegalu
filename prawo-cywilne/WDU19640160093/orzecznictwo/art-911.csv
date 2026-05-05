@@ -1,21 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-514750|2023-06-30|SO|XIV C 1170/20|Wyrok|https://www.saos.org.pl/judgments/514750
-433131|2020-11-23|SO|II Ca 1045/20|Wyrok|https://www.saos.org.pl/judgments/433131
-421909|2020-08-27|SO|II Ca 736/19|Postanowienie|https://www.saos.org.pl/judgments/421909
-416529|2020-07-08|SO|I C 1339/18|Wyrok|https://www.saos.org.pl/judgments/416529
-401660|2019-12-19|SO|XIV C 435/18|Wyrok|https://www.saos.org.pl/judgments/401660
-391505|2019-05-30|SO|I ACa 84/19|Wyrok|https://www.saos.org.pl/judgments/391505
-360048|2018-10-13|SO|VII Ca 473/18|Uzasadnienie|https://www.saos.org.pl/judgments/360048
-358526|2018-07-26|SO|III C 277/18|Wyrok|https://www.saos.org.pl/judgments/358526
-333142|2018-02-13|SO|I C 1086/15|Wyrok|https://www.saos.org.pl/judgments/333142
-263603|2016-12-13|SO|I Ca 164/16|Wyrok|https://www.saos.org.pl/judgments/263603
-234377|2016-06-30|SO|IV Ca 202/16|Wyrok|https://www.saos.org.pl/judgments/234377
-218842|2016-03-15|SO|I ACa 1296/15|Wyrok|https://www.saos.org.pl/judgments/218842
-181620|2015-11-05|SO|I C 1030/14|Wyrok|https://www.saos.org.pl/judgments/181620
-196729|2015-10-27|SO|XVIII C 410/15|Wyrok|https://www.saos.org.pl/judgments/196729
-148373|2015-03-18|SO|I ACa 903/14|Wyrok|https://www.saos.org.pl/judgments/148373
-145035|2014-02-24|SO|I C 2171/13|Wyrok|https://www.saos.org.pl/judgments/145035
-144643|2014-02-21|SO|I C 605/13|Wyrok|https://www.saos.org.pl/judgments/144643
-32483|2013-10-17|SO|I ACa 1068/13|Wyrok|https://www.saos.org.pl/judgments/32483
-53960|2013-10-15|SO|II Ca 182/13|Uzasadnienie|https://www.saos.org.pl/judgments/53960
-143907|2013-06-06|SO|II Ca 1336/12|Wyrok|https://www.saos.org.pl/judgments/143907
+saos_id|date|court|case_number|type|score|saos_url
+391505|2019-05-30|SO|I ACa 84/19|Wyrok|56|https://www.saos.org.pl/judgments/391505
+218842|2016-03-15|SO|I ACa 1296/15|Wyrok|56|https://www.saos.org.pl/judgments/218842
+148373|2015-03-18|SO|I ACa 903/14|Wyrok|56|https://www.saos.org.pl/judgments/148373
+32483|2013-10-17|SO|I ACa 1068/13|Wyrok|56|https://www.saos.org.pl/judgments/32483
+514750|2023-06-30|SO|XIV C 1170/20|Wyrok|40|https://www.saos.org.pl/judgments/514750
+401660|2019-12-19|SO|XIV C 435/18|Wyrok|40|https://www.saos.org.pl/judgments/401660
+358526|2018-07-26|SO|III C 277/18|Wyrok|40|https://www.saos.org.pl/judgments/358526
+196729|2015-10-27|SO|XVIII C 410/15|Wyrok|40|https://www.saos.org.pl/judgments/196729
+360048|2018-10-13|SO|VII Ca 473/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/360048

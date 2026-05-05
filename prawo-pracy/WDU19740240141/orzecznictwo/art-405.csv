@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-384295|2019-04-25|SO|IV Pa 17/19|Wyrok|https://www.saos.org.pl/judgments/384295
-318221|2017-11-24|SO|IV P 334/15|Wyrok|https://www.saos.org.pl/judgments/318221
-95191|2011-06-16|SN|I PK 272/10|Wyrok|https://www.saos.org.pl/judgments/95191
+saos_id|date|court|case_number|type|score|saos_url
+95191|2011-06-16|SN|I PK 272/10|Wyrok|78|https://www.saos.org.pl/judgments/95191
+384295|2019-04-25|SO|IV Pa 17/19|Wyrok|40|https://www.saos.org.pl/judgments/384295

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-446028|2021-04-27|SO|VII AGa 2326/18|Wyrok|https://www.saos.org.pl/judgments/446028
-14563|2013-05-21|SO|II Ca 267/13|Wyrok|https://www.saos.org.pl/judgments/14563
+saos_id|date|court|case_number|type|score|saos_url
+446028|2021-04-27|SO|VII AGa 2326/18|Wyrok|56|https://www.saos.org.pl/judgments/446028

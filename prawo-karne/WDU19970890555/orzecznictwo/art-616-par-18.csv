@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-490735|2022-02-09|SO|V K 123/20|Wyrok|https://www.saos.org.pl/judgments/490735
+saos_id|date|court|case_number|type|score|saos_url
+490735|2022-02-09|SO|V K 123/20|Wyrok|40|https://www.saos.org.pl/judgments/490735

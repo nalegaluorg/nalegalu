@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243984|2015-12-03|SN|III CSK 299/15|Postanowienie|https://www.saos.org.pl/judgments/243984
-104991|2014-04-24|SN|II CSK 600/13|Postanowienie|https://www.saos.org.pl/judgments/104991
-87616|2008-03-13|SN|V CSK 558/07|Postanowienie|https://www.saos.org.pl/judgments/87616
+saos_id|date|court|case_number|type|score|saos_url
+243984|2015-12-03|SN|III CSK 299/15|Postanowienie|69|https://www.saos.org.pl/judgments/243984
+104991|2014-04-24|SN|II CSK 600/13|Postanowienie|69|https://www.saos.org.pl/judgments/104991
+87616|2008-03-13|SN|V CSK 558/07|Postanowienie|69|https://www.saos.org.pl/judgments/87616

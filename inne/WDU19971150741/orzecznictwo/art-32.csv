@@ -1,15 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-487622|2020-02-13|SO|I C 484/19|Wyrok|https://www.saos.org.pl/judgments/487622
-417678|2019-05-31|SO|I ACa 549/18|Wyrok|https://www.saos.org.pl/judgments/417678
-371146|2018-06-21|SO|XVIII C 1963/17|Wyrok|https://www.saos.org.pl/judgments/371146
-336869|2018-04-09|SO|XII C 851/16|Wyrok|https://www.saos.org.pl/judgments/336869
-341170|2018-02-06|SO|III K 350/12|Wyrok|https://www.saos.org.pl/judgments/341170
-257038|2016-11-14|SO|I C 2136/16|Wyrok|https://www.saos.org.pl/judgments/257038
-257162|2015-12-14|SO|I Ns 13/15|Zarządzenie|https://www.saos.org.pl/judgments/257162
-246850|2015-07-07|SO|I C 1055/14|Wyrok|https://www.saos.org.pl/judgments/246850
-149685|2015-02-25|SO|I Ns 560/14|Postanowienie|https://www.saos.org.pl/judgments/149685
-72128|2014-09-29|SO|III Ca 240/14|Uzasadnienie|https://www.saos.org.pl/judgments/72128
-56441|2014-06-12|SO|I ACa 278/14|Wyrok|https://www.saos.org.pl/judgments/56441
-71876|2014-02-05|SO|I ACa 1437/13|Wyrok|https://www.saos.org.pl/judgments/71876
-295039|2013-06-30|SO|II Ca 729/12|Postanowienie|https://www.saos.org.pl/judgments/295039
-206009|2000-04-12|TK|K 8/98|Wyrok|https://www.saos.org.pl/judgments/206009
+saos_id|date|court|case_number|type|score|saos_url
+206009|2000-04-12|TK|K 8/98|Wyrok|98|https://www.saos.org.pl/judgments/206009
+417678|2019-05-31|SO|I ACa 549/18|Wyrok|56|https://www.saos.org.pl/judgments/417678
+56441|2014-06-12|SO|I ACa 278/14|Wyrok|56|https://www.saos.org.pl/judgments/56441
+71876|2014-02-05|SO|I ACa 1437/13|Wyrok|56|https://www.saos.org.pl/judgments/71876
+371146|2018-06-21|SO|XVIII C 1963/17|Wyrok|40|https://www.saos.org.pl/judgments/371146
+336869|2018-04-09|SO|XII C 851/16|Wyrok|40|https://www.saos.org.pl/judgments/336869
+72128|2014-09-29|SO|III Ca 240/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/72128

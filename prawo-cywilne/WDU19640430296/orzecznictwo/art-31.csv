@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-534420|2024-12-04|SO|I ACa 2125/23|Wyrok|https://www.saos.org.pl/judgments/534420
-365878|2018-11-08|SO|III Ca 725/18|Uzasadnienie|https://www.saos.org.pl/judgments/365878
-28868|2013-11-06|SO|III AUa 318/13|Wyrok|https://www.saos.org.pl/judgments/28868
-27792|2013-10-24|SO|III AUa 737/13|Wyrok|https://www.saos.org.pl/judgments/27792
-21691|2013-09-19|SO|III AUa 370/13|Wyrok|https://www.saos.org.pl/judgments/21691
+saos_id|date|court|case_number|type|score|saos_url
+534420|2024-12-04|SO|I ACa 2125/23|Wyrok|56|https://www.saos.org.pl/judgments/534420
+28868|2013-11-06|SO|III AUa 318/13|Wyrok|56|https://www.saos.org.pl/judgments/28868
+27792|2013-10-24|SO|III AUa 737/13|Wyrok|56|https://www.saos.org.pl/judgments/27792
+21691|2013-09-19|SO|III AUa 370/13|Wyrok|56|https://www.saos.org.pl/judgments/21691
+365878|2018-11-08|SO|III Ca 725/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/365878

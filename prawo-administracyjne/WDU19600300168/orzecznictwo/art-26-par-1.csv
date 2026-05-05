@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-291373|2017-06-26|SO|XII C 1928/15|Wyrok|https://www.saos.org.pl/judgments/291373
-224255|2016-03-24|SO|XII C 573/13|Wyrok|https://www.saos.org.pl/judgments/224255
-490568|2015-04-30|SO|I ACa 1397/14|Wyrok|https://www.saos.org.pl/judgments/490568
-66489|2014-10-22|SO|XII C 1830/13|Wyrok|https://www.saos.org.pl/judgments/66489
-159912|2014-06-30|TK|Ts 100/14|Postanowienie|https://www.saos.org.pl/judgments/159912
+saos_id|date|court|case_number|type|score|saos_url
+159912|2014-06-30|TK|Ts 100/14|Postanowienie|80|https://www.saos.org.pl/judgments/159912
+490568|2015-04-30|SO|I ACa 1397/14|Wyrok|56|https://www.saos.org.pl/judgments/490568
+291373|2017-06-26|SO|XII C 1928/15|Wyrok|40|https://www.saos.org.pl/judgments/291373
+224255|2016-03-24|SO|XII C 573/13|Wyrok|40|https://www.saos.org.pl/judgments/224255
+66489|2014-10-22|SO|XII C 1830/13|Wyrok|40|https://www.saos.org.pl/judgments/66489

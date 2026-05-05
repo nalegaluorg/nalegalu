@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-502698|2023-08-17|SO|II K 1768/22|Uzasadnienie|https://www.saos.org.pl/judgments/502698
-288237|2017-05-26|SO|VI Ka 110/17|Wyrok|https://www.saos.org.pl/judgments/288237
+saos_id|date|court|case_number|type|score|saos_url
+288237|2017-05-26|SO|VI Ka 110/17|Wyrok|40|https://www.saos.org.pl/judgments/288237

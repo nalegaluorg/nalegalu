@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-411081|2019-01-24|SO|II AKa 23/18|Wyrok|https://www.saos.org.pl/judgments/411081
-291792|2017-03-29|SO|II AKa 336/16|Wyrok|https://www.saos.org.pl/judgments/291792
+saos_id|date|court|case_number|type|score|saos_url
+411081|2019-01-24|SO|II AKa 23/18|Wyrok|56|https://www.saos.org.pl/judgments/411081
+291792|2017-03-29|SO|II AKa 336/16|Wyrok|56|https://www.saos.org.pl/judgments/291792

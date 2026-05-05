@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-365705|2018-12-12|SO|I Ca 425/18|Postanowienie|https://www.saos.org.pl/judgments/365705
-287128|2017-05-12|SO|I ACa 612/16|Wyrok|https://www.saos.org.pl/judgments/287128
+saos_id|date|court|case_number|type|score|saos_url
+287128|2017-05-12|SO|I ACa 612/16|Wyrok|56|https://www.saos.org.pl/judgments/287128

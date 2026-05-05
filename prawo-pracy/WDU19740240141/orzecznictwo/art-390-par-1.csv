@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-299945|2017-05-11|SO|IV P 427/16|Wyrok|https://www.saos.org.pl/judgments/299945
-79464|2000-01-07|SN|III ZP 18/99|Uchwała|https://www.saos.org.pl/judgments/79464
+saos_id|date|court|case_number|type|score|saos_url
+79464|2000-01-07|SN|III ZP 18/99|Uchwała|89|https://www.saos.org.pl/judgments/79464

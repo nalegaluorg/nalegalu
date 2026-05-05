@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-467694|2022-03-08|SO|XVII AmE 273/20|Wyrok|https://www.saos.org.pl/judgments/467694
-459809|2021-10-22|SO|XVII AmT 24/20|Wyrok|https://www.saos.org.pl/judgments/459809
-80488|2001-04-06|SN|III RN 93/00|Wyrok|https://www.saos.org.pl/judgments/80488
-80401|2001-03-08|SN|III RN 76/00|Wyrok|https://www.saos.org.pl/judgments/80401
-78170|1998-02-25|SN|III RN 129/97|Wyrok|https://www.saos.org.pl/judgments/78170
-77523|1997-03-11|SN|III RN 49/96|Wyrok|https://www.saos.org.pl/judgments/77523
-76936|1995-09-26|SN|III ARN 32/95|Wyrok|https://www.saos.org.pl/judgments/76936
-76796|1995-03-07|SN|III ARN 3/95|Wyrok|https://www.saos.org.pl/judgments/76796
+saos_id|date|court|case_number|type|score|saos_url
+80488|2001-04-06|SN|III RN 93/00|Wyrok|78|https://www.saos.org.pl/judgments/80488
+80401|2001-03-08|SN|III RN 76/00|Wyrok|78|https://www.saos.org.pl/judgments/80401
+78170|1998-02-25|SN|III RN 129/97|Wyrok|78|https://www.saos.org.pl/judgments/78170
+77523|1997-03-11|SN|III RN 49/96|Wyrok|78|https://www.saos.org.pl/judgments/77523
+76936|1995-09-26|SN|III ARN 32/95|Wyrok|78|https://www.saos.org.pl/judgments/76936
+76796|1995-03-07|SN|III ARN 3/95|Wyrok|78|https://www.saos.org.pl/judgments/76796

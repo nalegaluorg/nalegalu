@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-454875|2021-12-20|SO|III C 2051/19|Wyrok|https://www.saos.org.pl/judgments/454875
-314027|2016-11-21|SO|XIII GC 1442/16|Wyrok|https://www.saos.org.pl/judgments/314027
-184850|2015-11-02|SO|III C 842/15|Wyrok|https://www.saos.org.pl/judgments/184850
+saos_id|date|court|case_number|type|score|saos_url
+314027|2016-11-21|SO|XIII GC 1442/16|Wyrok|40|https://www.saos.org.pl/judgments/314027

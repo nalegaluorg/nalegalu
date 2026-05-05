@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-173797|2015-03-30|SO|I ACa 651/14|Wyrok|https://www.saos.org.pl/judgments/173797
+saos_id|date|court|case_number|type|score|saos_url
+173797|2015-03-30|SO|I ACa 651/14|Wyrok|56|https://www.saos.org.pl/judgments/173797

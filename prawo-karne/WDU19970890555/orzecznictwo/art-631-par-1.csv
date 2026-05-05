@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-326801|2017-12-27|SO|VI Ka 641/17|Wyrok|https://www.saos.org.pl/judgments/326801
-324072|2017-12-18|SO|V Ka 350/17|Wyrok|https://www.saos.org.pl/judgments/324072
-298311|2017-07-03|SO|V Ka 216/17|Wyrok|https://www.saos.org.pl/judgments/298311
-29961|2013-11-28|SO|II Ka 321/13|Wyrok|https://www.saos.org.pl/judgments/29961
+saos_id|date|court|case_number|type|score|saos_url
+326801|2017-12-27|SO|VI Ka 641/17|Wyrok|40|https://www.saos.org.pl/judgments/326801

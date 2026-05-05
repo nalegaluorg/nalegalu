@@ -1,15 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-488140|2022-09-01|SO|II C 1227/21|Wyrok|https://www.saos.org.pl/judgments/488140
-477701|2022-02-22|SO|V Ca 335/21|Wyrok|https://www.saos.org.pl/judgments/477701
-515422|2019-12-04|SO|XXIII Gz 883/19|Postanowienie|https://www.saos.org.pl/judgments/515422
-397293|2019-09-26|SO|III C 784/18|Wyrok|https://www.saos.org.pl/judgments/397293
-515689|2019-08-06|SO|XXVII Ca 2068/18|Wyrok|https://www.saos.org.pl/judgments/515689
-232815|2016-04-22|SO|I ACa 37/16|Wyrok|https://www.saos.org.pl/judgments/232815
-188279|2015-10-15|SO|VII Pz 87/15|Uzasadnienie|https://www.saos.org.pl/judgments/188279
-177784|2015-09-18|SO|VII Pz 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/177784
-31520|2013-12-12|SO|VIII GC 157/13|Wyrok|https://www.saos.org.pl/judgments/31520
-103583|2013-11-22|SN|II CSK 114/13|Wyrok|https://www.saos.org.pl/judgments/103583
-2273|2012-03-30|SO|I ACz 594/12|Postanowienie|https://www.saos.org.pl/judgments/2273
-165345|2010-05-26|SN|II PZ 16/10|Postanowienie|https://www.saos.org.pl/judgments/165345
-87496|2008-03-06|SN|II PK 192/07|Wyrok|https://www.saos.org.pl/judgments/87496
-82705|2004-05-25|SN|III SK 48/04|Wyrok|https://www.saos.org.pl/judgments/82705
+saos_id|date|court|case_number|type|score|saos_url
+103583|2013-11-22|SN|II CSK 114/13|Wyrok|78|https://www.saos.org.pl/judgments/103583
+87496|2008-03-06|SN|II PK 192/07|Wyrok|78|https://www.saos.org.pl/judgments/87496
+82705|2004-05-25|SN|III SK 48/04|Wyrok|78|https://www.saos.org.pl/judgments/82705
+165345|2010-05-26|SN|II PZ 16/10|Postanowienie|69|https://www.saos.org.pl/judgments/165345
+232815|2016-04-22|SO|I ACa 37/16|Wyrok|56|https://www.saos.org.pl/judgments/232815
+2273|2012-03-30|SO|I ACz 594/12|Postanowienie|47|https://www.saos.org.pl/judgments/2273
+188279|2015-10-15|SO|VII Pz 87/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188279
+177784|2015-09-18|SO|VII Pz 77/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177784

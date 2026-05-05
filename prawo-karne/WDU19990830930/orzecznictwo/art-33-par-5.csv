@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511250|2023-12-13|SO|VI Ka 704/23|Wyrok|https://www.saos.org.pl/judgments/511250
-500475|2018-01-15|SO|II AKa 135/17|Uzasadnienie|https://www.saos.org.pl/judgments/500475
-308117|2017-02-21|SO|II K 1061/13|Wyrok|https://www.saos.org.pl/judgments/308117
+saos_id|date|court|case_number|type|score|saos_url
+500475|2018-01-15|SO|II AKa 135/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/500475

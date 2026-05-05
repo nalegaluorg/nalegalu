@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-269851|2016-01-21|SO|I ACa 775/15|Wyrok|https://www.saos.org.pl/judgments/269851
-155552|2015-05-08|SO|I ACa 42/15|Wyrok|https://www.saos.org.pl/judgments/155552
+saos_id|date|court|case_number|type|score|saos_url
+269851|2016-01-21|SO|I ACa 775/15|Wyrok|56|https://www.saos.org.pl/judgments/269851
+155552|2015-05-08|SO|I ACa 42/15|Wyrok|56|https://www.saos.org.pl/judgments/155552

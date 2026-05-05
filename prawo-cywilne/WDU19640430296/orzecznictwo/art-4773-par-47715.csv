@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-77031|1996-01-12|SN|II PRN 12/95|Wyrok|https://www.saos.org.pl/judgments/77031
+saos_id|date|court|case_number|type|score|saos_url
+77031|1996-01-12|SN|II PRN 12/95|Wyrok|78|https://www.saos.org.pl/judgments/77031

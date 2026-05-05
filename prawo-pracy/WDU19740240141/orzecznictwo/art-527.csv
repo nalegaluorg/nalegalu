@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-282124|2017-01-12|SO|I ACa 879/16|Wyrok|https://www.saos.org.pl/judgments/282124
-228081|2016-04-04|SO|II C 27/15|Zarządzenie|https://www.saos.org.pl/judgments/228081
+saos_id|date|court|case_number|type|score|saos_url
+282124|2017-01-12|SO|I ACa 879/16|Wyrok|56|https://www.saos.org.pl/judgments/282124
+228081|2016-04-04|SO|II C 27/15|Zarządzenie|27|https://www.saos.org.pl/judgments/228081

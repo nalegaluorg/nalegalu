@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-415450|2018-01-26|SO|I ACa 285/17|Wyrok|https://www.saos.org.pl/judgments/415450
-94709|2011-04-15|SN|II CSK 512/10|Wyrok|https://www.saos.org.pl/judgments/94709
+saos_id|date|court|case_number|type|score|saos_url
+72008|2014-10-29|SO|III AUa 261/14|Wyrok|56|https://www.saos.org.pl/judgments/72008

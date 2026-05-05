@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-118858|2011-09-19|KIO|KIO 1918/11|Wyrok|https://www.saos.org.pl/judgments/118858
-118850|2011-09-19|KIO|KIO 1910/11|Wyrok|https://www.saos.org.pl/judgments/118850
+saos_id|date|court|case_number|type|score|saos_url
+118858|2011-09-19|KIO|KIO 1918/11|Wyrok|44|https://www.saos.org.pl/judgments/118858
+118850|2011-09-19|KIO|KIO 1910/11|Wyrok|44|https://www.saos.org.pl/judgments/118850

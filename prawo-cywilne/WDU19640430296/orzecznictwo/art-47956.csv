@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-447336|2019-01-23|SO|XVII AmT 12/19|Postanowienie|https://www.saos.org.pl/judgments/447336
-82897|2004-10-05|SN|III SZP 1/04|Postanowienie|https://www.saos.org.pl/judgments/82897
+saos_id|date|court|case_number|type|score|saos_url
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897

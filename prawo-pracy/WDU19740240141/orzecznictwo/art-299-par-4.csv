@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-492388|2023-01-11|SO|III APa 86/20|Wyrok|https://www.saos.org.pl/judgments/492388
-419465|2020-07-17|SO|IV P 20/20|Wyrok|https://www.saos.org.pl/judgments/419465
-260322|2016-11-24|SO|VIII Ua 6/16|Uzasadnienie|https://www.saos.org.pl/judgments/260322
+saos_id|date|court|case_number|type|score|saos_url
+492388|2023-01-11|SO|III APa 86/20|Wyrok|56|https://www.saos.org.pl/judgments/492388
+419465|2020-07-17|SO|IV P 20/20|Wyrok|40|https://www.saos.org.pl/judgments/419465
+260322|2016-11-24|SO|VIII Ua 6/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/260322

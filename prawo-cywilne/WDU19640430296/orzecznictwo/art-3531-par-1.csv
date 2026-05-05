@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78059|1998-01-16|SN|I PKN 475/97|Wyrok|https://www.saos.org.pl/judgments/78059
+saos_id|date|court|case_number|type|score|saos_url
+78059|1998-01-16|SN|I PKN 475/97|Wyrok|78|https://www.saos.org.pl/judgments/78059

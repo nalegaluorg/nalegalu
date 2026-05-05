@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|https://www.saos.org.pl/judgments/528917
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-507113|2023-08-21|SO|III K 955/22|Uzasadnienie|https://www.saos.org.pl/judgments/507113
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-403889|2019-04-24|SO|I AGa 372/18|Wyrok|https://www.saos.org.pl/judgments/403889
-256425|2016-11-21|SO|VIII Gz 276/16|Postanowienie|https://www.saos.org.pl/judgments/256425
-256677|2016-10-21|SO|VI P 131/14|Wyrok|https://www.saos.org.pl/judgments/256677
-205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|https://www.saos.org.pl/judgments/205168
-180938|2015-09-24|SO|XX GCo 163/15|Postanowienie|https://www.saos.org.pl/judgments/180938
-155554|2015-05-08|SO|I ACa 481/14|Wyrok|https://www.saos.org.pl/judgments/155554
-129130|2015-01-29|SO|VI Gz 25/15|Postanowienie|https://www.saos.org.pl/judgments/129130
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-19143|2013-08-30|SO|VI Gz 239/13|Postanowienie|https://www.saos.org.pl/judgments/19143
-14416|2013-06-20|SO|VI Gz 119/13|Postanowienie|https://www.saos.org.pl/judgments/14416
-14854|2013-06-17|SO|VI Gz 164/13|Postanowienie|https://www.saos.org.pl/judgments/14854
+saos_id|date|court|case_number|type|score|saos_url
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+403889|2019-04-24|SO|I AGa 372/18|Wyrok|56|https://www.saos.org.pl/judgments/403889
+155554|2015-05-08|SO|I ACa 481/14|Wyrok|56|https://www.saos.org.pl/judgments/155554
+528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/528917
+129130|2015-01-29|SO|VI Gz 25/15|Postanowienie|31|https://www.saos.org.pl/judgments/129130
+19143|2013-08-30|SO|VI Gz 239/13|Postanowienie|31|https://www.saos.org.pl/judgments/19143
+14416|2013-06-20|SO|VI Gz 119/13|Postanowienie|31|https://www.saos.org.pl/judgments/14416
+14854|2013-06-17|SO|VI Gz 164/13|Postanowienie|31|https://www.saos.org.pl/judgments/14854
+205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205168

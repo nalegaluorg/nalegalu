@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-158230|2015-06-01|SO|IV Ka 450/15|Wyrok|https://www.saos.org.pl/judgments/158230
-108111|2007-10-22|TK|P 24/07|Postanowienie|https://www.saos.org.pl/judgments/108111
+saos_id|date|court|case_number|type|score|saos_url
+108111|2007-10-22|TK|P 24/07|Postanowienie|80|https://www.saos.org.pl/judgments/108111
+158230|2015-06-01|SO|IV Ka 450/15|Wyrok|40|https://www.saos.org.pl/judgments/158230

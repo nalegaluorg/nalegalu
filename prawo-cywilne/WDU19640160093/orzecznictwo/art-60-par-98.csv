@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-275834|2016-12-30|SO|I ACa 723/16|Wyrok|https://www.saos.org.pl/judgments/275834
+saos_id|date|court|case_number|type|score|saos_url
+275834|2016-12-30|SO|I ACa 723/16|Wyrok|56|https://www.saos.org.pl/judgments/275834

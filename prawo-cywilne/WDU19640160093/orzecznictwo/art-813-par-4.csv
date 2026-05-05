@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-494542|2024-01-17|SO|I ACa 755/22|Wyrok|https://www.saos.org.pl/judgments/494542
+saos_id|date|court|case_number|type|score|saos_url
+494542|2024-01-17|SO|I ACa 755/22|Wyrok|56|https://www.saos.org.pl/judgments/494542

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-427403|2020-12-03|SO|II K 124/20|Wyrok|https://www.saos.org.pl/judgments/427403
+saos_id|date|court|case_number|type|score|saos_url
+427403|2020-12-03|SO|II K 124/20|Wyrok|40|https://www.saos.org.pl/judgments/427403

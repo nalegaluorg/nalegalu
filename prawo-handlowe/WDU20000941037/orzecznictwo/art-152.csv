@@ -1,18 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-537905|2025-02-05|SO|III AUa 179/24|Wyrok|https://www.saos.org.pl/judgments/537905
-536087|2023-11-06|SO|I C 140/23|Wyrok|https://www.saos.org.pl/judgments/536087
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-414177|2020-02-26|SO|II AKa 243/19|Wyrok|https://www.saos.org.pl/judgments/414177
-393230|2019-06-19|SO|XXV C 1661/18|Wyrok|https://www.saos.org.pl/judgments/393230
-399393|2018-12-20|SO|XI Ka 771/18|Wyrok|https://www.saos.org.pl/judgments/399393
-335496|2018-04-05|SO|VIII GC 94/18|Wyrok|https://www.saos.org.pl/judgments/335496
-322247|2017-09-22|SO|I ACa 111/17|Wyrok|https://www.saos.org.pl/judgments/322247
-285062|2016-11-28|SO|I ACa 1941/15|Wyrok|https://www.saos.org.pl/judgments/285062
-129121|2014-07-17|SO|VI ACa 1604/13|Wyrok|https://www.saos.org.pl/judgments/129121
-65484|2014-07-08|SO|II Ca 822/13|Wyrok|https://www.saos.org.pl/judgments/65484
-24841|2013-09-13|SO|V ACa 448/13|Wyrok|https://www.saos.org.pl/judgments/24841
-126359|2013-04-02|SO|VIII GC 181/12|Uzasadnienie|https://www.saos.org.pl/judgments/126359
-6416|2013-02-14|SO|V ACa 775/12|Wyrok|https://www.saos.org.pl/judgments/6416
-140211|2013-01-31|SO|I ACz 8/13|Postanowienie|https://www.saos.org.pl/judgments/140211
-20499|2013-01-31|SO|I ACz 129/13|Postanowienie|https://www.saos.org.pl/judgments/20499
-86664|2007-10-02|SN|II CSK 323/07|Wyrok|https://www.saos.org.pl/judgments/86664
+saos_id|date|court|case_number|type|score|saos_url
+86664|2007-10-02|SN|II CSK 323/07|Wyrok|78|https://www.saos.org.pl/judgments/86664
+537905|2025-02-05|SO|III AUa 179/24|Wyrok|56|https://www.saos.org.pl/judgments/537905
+414177|2020-02-26|SO|II AKa 243/19|Wyrok|56|https://www.saos.org.pl/judgments/414177
+322247|2017-09-22|SO|I ACa 111/17|Wyrok|56|https://www.saos.org.pl/judgments/322247
+285062|2016-11-28|SO|I ACa 1941/15|Wyrok|56|https://www.saos.org.pl/judgments/285062
+129121|2014-07-17|SO|VI ACa 1604/13|Wyrok|56|https://www.saos.org.pl/judgments/129121
+24841|2013-09-13|SO|V ACa 448/13|Wyrok|56|https://www.saos.org.pl/judgments/24841
+6416|2013-02-14|SO|V ACa 775/12|Wyrok|56|https://www.saos.org.pl/judgments/6416
+140211|2013-01-31|SO|I ACz 8/13|Postanowienie|47|https://www.saos.org.pl/judgments/140211
+20499|2013-01-31|SO|I ACz 129/13|Postanowienie|47|https://www.saos.org.pl/judgments/20499

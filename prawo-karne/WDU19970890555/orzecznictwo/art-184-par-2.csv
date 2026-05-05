@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-327694|2017-11-24|SO|II AKa 269/17|Wyrok|https://www.saos.org.pl/judgments/327694
-500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|https://www.saos.org.pl/judgments/500745
-136006|2012-06-28|SO|II AKa 98/12|Wyrok|https://www.saos.org.pl/judgments/136006
-93300|2010-10-27|SN|V KK 119/10|Wyrok|https://www.saos.org.pl/judgments/93300
-91909|2010-02-24|SN|I KZP 34/09|Uchwała|https://www.saos.org.pl/judgments/91909
-90783|2009-08-25|SN|V KK 93/09|Wyrok|https://www.saos.org.pl/judgments/90783
-89129|2008-11-05|SN|V KK 146/08|Wyrok|https://www.saos.org.pl/judgments/89129
-88829|2008-10-03|SN|III KK 121/08|Wyrok|https://www.saos.org.pl/judgments/88829
-87548|2008-03-07|SN|V KK 134/07|Wyrok|https://www.saos.org.pl/judgments/87548
-108174|2007-07-10|TK|SK 50/06|Wyrok|https://www.saos.org.pl/judgments/108174
-81081|2001-12-10|SN|IV KKN 229/01|Wyrok|https://www.saos.org.pl/judgments/81081
-80405|2001-03-07|SN|IV KKN 617/00|Postanowienie|https://www.saos.org.pl/judgments/80405
+saos_id|date|court|case_number|type|score|saos_url
+108174|2007-07-10|TK|SK 50/06|Wyrok|98|https://www.saos.org.pl/judgments/108174
+91909|2010-02-24|SN|I KZP 34/09|Uchwała|96|https://www.saos.org.pl/judgments/91909
+93300|2010-10-27|SN|V KK 119/10|Wyrok|78|https://www.saos.org.pl/judgments/93300
+90783|2009-08-25|SN|V KK 93/09|Wyrok|78|https://www.saos.org.pl/judgments/90783
+89129|2008-11-05|SN|V KK 146/08|Wyrok|78|https://www.saos.org.pl/judgments/89129
+88829|2008-10-03|SN|III KK 121/08|Wyrok|78|https://www.saos.org.pl/judgments/88829
+87548|2008-03-07|SN|V KK 134/07|Wyrok|78|https://www.saos.org.pl/judgments/87548
+81081|2001-12-10|SN|IV KKN 229/01|Wyrok|78|https://www.saos.org.pl/judgments/81081
+80405|2001-03-07|SN|IV KKN 617/00|Postanowienie|69|https://www.saos.org.pl/judgments/80405
+327694|2017-11-24|SO|II AKa 269/17|Wyrok|56|https://www.saos.org.pl/judgments/327694
+136006|2012-06-28|SO|II AKa 98/12|Wyrok|56|https://www.saos.org.pl/judgments/136006
+500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/500745

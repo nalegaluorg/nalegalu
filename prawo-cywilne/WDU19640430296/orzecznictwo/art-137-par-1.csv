@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-318571|2017-12-01|SO|I ACz 1186/17|Postanowienie|https://www.saos.org.pl/judgments/318571
-245862|2016-08-05|SO|III RC 24/15|Wyrok|https://www.saos.org.pl/judgments/245862
-70264|2014-10-30|SO|VIII Gz 115/14|Postanowienie|https://www.saos.org.pl/judgments/70264
-166354|2014-07-17|SN|III CZP 43/14|Uchwała|https://www.saos.org.pl/judgments/166354
+saos_id|date|court|case_number|type|score|saos_url
+166354|2014-07-17|SN|III CZP 43/14|Uchwała|89|https://www.saos.org.pl/judgments/166354
+318571|2017-12-01|SO|I ACz 1186/17|Postanowienie|47|https://www.saos.org.pl/judgments/318571

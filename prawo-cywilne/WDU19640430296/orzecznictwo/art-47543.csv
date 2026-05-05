@@ -1,11 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-14609|2012-09-10|SO|XVII AmC 2904/11|Uzasadnienie|https://www.saos.org.pl/judgments/14609
-270108|2012-06-21|SO|XVII AmC 2904/11|Wyrok|https://www.saos.org.pl/judgments/270108
-57356|2012-06-15|SO|XVII AmC 3814/10|Uzasadnienie|https://www.saos.org.pl/judgments/57356
-5264|2012-05-15|SO|VI ACa 1276/11|Wyrok|https://www.saos.org.pl/judgments/5264
-273443|2012-04-18|SO|XVII AmC 3814/10|Wyrok|https://www.saos.org.pl/judgments/273443
-231811|2011-12-08|SO|XVII AmC 2905/11|Wyrok|https://www.saos.org.pl/judgments/231811
-18088|2010-12-22|SO|XVII AmC 1260/09|Uzasadnienie|https://www.saos.org.pl/judgments/18088
-267982|2010-10-26|SO|XVII AmC 1260/09|Wyrok|https://www.saos.org.pl/judgments/267982
-265822|2010-02-11|SO|XVII AmC 618/09|Wyrok|https://www.saos.org.pl/judgments/265822
-128670|2010-02-11|SO|XVII AmC 618/09|Uzasadnienie|https://www.saos.org.pl/judgments/128670
+saos_id|date|court|case_number|type|score|saos_url
+5264|2012-05-15|SO|VI ACa 1276/11|Wyrok|56|https://www.saos.org.pl/judgments/5264

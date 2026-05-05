@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-304696|2017-01-26|SO|I C 418/15|Wyrok|https://www.saos.org.pl/judgments/304696
-205451|1990-10-23|TK|U 1/90|Wyrok|https://www.saos.org.pl/judgments/205451
+saos_id|date|court|case_number|type|score|saos_url
+205451|1990-10-23|TK|U 1/90|Wyrok|98|https://www.saos.org.pl/judgments/205451

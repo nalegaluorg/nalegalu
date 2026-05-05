@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-530223|2024-12-10|SO|X C 1273/23|Wyrok|https://www.saos.org.pl/judgments/530223
-418404|2020-06-30|SO|II Kow 165/20|Postanowienie|https://www.saos.org.pl/judgments/418404
-217713|2016-03-31|SO|I ACa 1041/15|Wyrok|https://www.saos.org.pl/judgments/217713
-204482|2016-02-09|SO|II AKo 28/16|Postanowienie|https://www.saos.org.pl/judgments/204482
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-136008|2012-06-01|SO|II AKo 108/12|Postanowienie|https://www.saos.org.pl/judgments/136008
+saos_id|date|court|case_number|type|score|saos_url
+217713|2016-03-31|SO|I ACa 1041/15|Wyrok|56|https://www.saos.org.pl/judgments/217713
+204482|2016-02-09|SO|II AKo 28/16|Postanowienie|47|https://www.saos.org.pl/judgments/204482
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113
+136008|2012-06-01|SO|II AKo 108/12|Postanowienie|47|https://www.saos.org.pl/judgments/136008

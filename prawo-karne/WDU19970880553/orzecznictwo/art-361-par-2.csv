@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-413662|2020-02-25|SO|II AKa 333/19|Wyrok|https://www.saos.org.pl/judgments/413662
-352546|2018-04-27|SO|VI Ka 300/18|Wyrok|https://www.saos.org.pl/judgments/352546
-192046|2015-12-01|SO|XV C 628/13|Wyrok|https://www.saos.org.pl/judgments/192046
+saos_id|date|court|case_number|type|score|saos_url
+413662|2020-02-25|SO|II AKa 333/19|Wyrok|56|https://www.saos.org.pl/judgments/413662

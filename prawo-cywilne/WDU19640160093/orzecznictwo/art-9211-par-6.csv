@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-332681|2018-01-11|SO|V ACa 1020/17|Wyrok|https://www.saos.org.pl/judgments/332681
+saos_id|date|court|case_number|type|score|saos_url
+332681|2018-01-11|SO|V ACa 1020/17|Wyrok|56|https://www.saos.org.pl/judgments/332681

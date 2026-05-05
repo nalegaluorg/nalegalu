@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245446|2015-04-29|SN|V CSK 415/14|Wyrok|https://www.saos.org.pl/judgments/245446
-135210|2015-03-09|SO|VIII Ga 7/15|Wyrok|https://www.saos.org.pl/judgments/135210
+saos_id|date|court|case_number|type|score|saos_url
+245446|2015-04-29|SN|V CSK 415/14|Wyrok|78|https://www.saos.org.pl/judgments/245446

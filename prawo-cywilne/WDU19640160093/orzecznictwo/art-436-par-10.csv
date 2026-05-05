@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-423669|2018-08-31|SO|I C 18/16|Wyrok|https://www.saos.org.pl/judgments/423669
-158746|2014-11-27|SO|VI ACa 259/14|Wyrok|https://www.saos.org.pl/judgments/158746
+saos_id|date|court|case_number|type|score|saos_url
+158746|2014-11-27|SO|VI ACa 259/14|Wyrok|56|https://www.saos.org.pl/judgments/158746

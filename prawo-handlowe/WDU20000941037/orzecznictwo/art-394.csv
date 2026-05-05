@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|https://www.saos.org.pl/judgments/528917
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-507113|2023-08-21|SO|III K 955/22|Uzasadnienie|https://www.saos.org.pl/judgments/507113
-490202|2022-07-14|SO|II AKa 109/22|Uzasadnienie|https://www.saos.org.pl/judgments/490202
-432681|2020-12-17|SO|I ACz 408/20|Postanowienie|https://www.saos.org.pl/judgments/432681
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-393190|2019-05-13|SO|IV Ka 110/19|Wyrok|https://www.saos.org.pl/judgments/393190
-403889|2019-04-24|SO|I AGa 372/18|Wyrok|https://www.saos.org.pl/judgments/403889
-351283|2018-06-07|SO|XXIII Ga 566/18|Postanowienie|https://www.saos.org.pl/judgments/351283
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|https://www.saos.org.pl/judgments/205168
-180938|2015-09-24|SO|XX GCo 163/15|Postanowienie|https://www.saos.org.pl/judgments/180938
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-21900|2013-07-12|SO|VI ACa 81/13|Wyrok|https://www.saos.org.pl/judgments/21900
-99228|2012-10-03|SN|III PK 100/11|Wyrok|https://www.saos.org.pl/judgments/99228
+saos_id|date|court|case_number|type|score|saos_url
+99228|2012-10-03|SN|III PK 100/11|Wyrok|78|https://www.saos.org.pl/judgments/99228
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+403889|2019-04-24|SO|I AGa 372/18|Wyrok|56|https://www.saos.org.pl/judgments/403889
+21900|2013-07-12|SO|VI ACa 81/13|Wyrok|56|https://www.saos.org.pl/judgments/21900
+432681|2020-12-17|SO|I ACz 408/20|Postanowienie|47|https://www.saos.org.pl/judgments/432681
+528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/528917
+490202|2022-07-14|SO|II AKa 109/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/490202
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850
+205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205168

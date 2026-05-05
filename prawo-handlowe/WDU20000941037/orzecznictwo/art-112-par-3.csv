@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-373030|2019-03-05|SO|VIII Ga 620/18|Uzasadnienie|https://www.saos.org.pl/judgments/373030
-87558|2008-03-12|SN|I CSK 447/07|Wyrok|https://www.saos.org.pl/judgments/87558
+saos_id|date|court|case_number|type|score|saos_url
+87558|2008-03-12|SN|I CSK 447/07|Wyrok|78|https://www.saos.org.pl/judgments/87558

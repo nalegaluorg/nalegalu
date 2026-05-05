@@ -1,13 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-448073|2020-09-15|SO|V Ca 616/19|Postanowienie|https://www.saos.org.pl/judgments/448073
-364465|2018-10-31|SO|III Ca 385/18|Wyrok|https://www.saos.org.pl/judgments/364465
-339277|2017-06-27|SO|I ACa 1844/16|Wyrok|https://www.saos.org.pl/judgments/339277
-71433|2014-10-21|SO|I ACa 535/14|Wyrok|https://www.saos.org.pl/judgments/71433
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-30473|2013-09-30|SO|VI GC 117/13|Wyrok|https://www.saos.org.pl/judgments/30473
-5603|2012-10-18|SO|V ACa 738/12|Wyrok|https://www.saos.org.pl/judgments/5603
-86880|2007-11-29|SN|III CSK 169/07|Wyrok|https://www.saos.org.pl/judgments/86880
-164830|2007-10-05|SN|I CSK 225/07|Wyrok|https://www.saos.org.pl/judgments/164830
-164711|2006-11-30|SN|I CSK 252/06|Wyrok|https://www.saos.org.pl/judgments/164711
-163839|2005-12-06|SN|I CK 184/05|Wyrok|https://www.saos.org.pl/judgments/163839
-106795|2004-03-08|TK|SK 23/03|Wyrok|https://www.saos.org.pl/judgments/106795
+saos_id|date|court|case_number|type|score|saos_url
+106795|2004-03-08|TK|SK 23/03|Wyrok|98|https://www.saos.org.pl/judgments/106795
+86880|2007-11-29|SN|III CSK 169/07|Wyrok|78|https://www.saos.org.pl/judgments/86880
+164830|2007-10-05|SN|I CSK 225/07|Wyrok|78|https://www.saos.org.pl/judgments/164830
+164711|2006-11-30|SN|I CSK 252/06|Wyrok|78|https://www.saos.org.pl/judgments/164711
+163839|2005-12-06|SN|I CK 184/05|Wyrok|78|https://www.saos.org.pl/judgments/163839
+339277|2017-06-27|SO|I ACa 1844/16|Wyrok|56|https://www.saos.org.pl/judgments/339277
+71433|2014-10-21|SO|I ACa 535/14|Wyrok|56|https://www.saos.org.pl/judgments/71433
+5603|2012-10-18|SO|V ACa 738/12|Wyrok|56|https://www.saos.org.pl/judgments/5603
+30473|2013-09-30|SO|VI GC 117/13|Wyrok|40|https://www.saos.org.pl/judgments/30473

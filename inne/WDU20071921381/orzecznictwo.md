@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 19 września 2007 r. o zmianie ustawy o 
 
 ## art. 2 (1)
 
-- 2012-11-14 | TK | [Ts 130/12](https://www.saos.org.pl/judgments/111213) | Postanowienie
+- 2012-11-14 | TK | [Ts 130/12](https://www.saos.org.pl/judgments/111213) | Postanowienie ★
 

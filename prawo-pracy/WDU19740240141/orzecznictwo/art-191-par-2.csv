@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-527065|2024-12-20|SO|VIII U 1992/24|Uzasadnienie|https://www.saos.org.pl/judgments/527065
-524701|2024-11-29|SO|III U 370/24|Wyrok|https://www.saos.org.pl/judgments/524701
-516106|2024-06-04|SO|VIII U 192/24|Uzasadnienie|https://www.saos.org.pl/judgments/516106
-400229|2019-08-05|SO|III AUa 1173/18|Wyrok|https://www.saos.org.pl/judgments/400229
-388173|2019-07-29|SO|VIII U 2556/18|Uzasadnienie|https://www.saos.org.pl/judgments/388173
-389398|2019-01-08|SO|III AUa 338/18|Wyrok|https://www.saos.org.pl/judgments/389398
-346951|2018-05-29|SO|V U 163/18|Wyrok|https://www.saos.org.pl/judgments/346951
-376045|2018-04-11|SO|VII U 61/18|Wyrok|https://www.saos.org.pl/judgments/376045
-287301|2017-03-02|SO|VII U 1469/16|Wyrok|https://www.saos.org.pl/judgments/287301
-271388|2016-11-18|SO|VIII U 992/16|Wyrok|https://www.saos.org.pl/judgments/271388
-187415|2015-07-02|SO|V U 88/15|Wyrok|https://www.saos.org.pl/judgments/187415
-170185|2015-06-09|SO|III AUa 741/14|Wyrok|https://www.saos.org.pl/judgments/170185
-157387|2015-06-02|SO|V U 97/15|Wyrok|https://www.saos.org.pl/judgments/157387
-75759|2014-11-19|SO|VIII U 1903/14|Wyrok|https://www.saos.org.pl/judgments/75759
-59060|2014-07-23|SO|VIII U 362/14|Wyrok|https://www.saos.org.pl/judgments/59060
-29163|2013-11-18|SO|V U 1201/12|Wyrok|https://www.saos.org.pl/judgments/29163
-23663|2013-07-04|SO|V U 445/13|Wyrok|https://www.saos.org.pl/judgments/23663
+saos_id|date|court|case_number|type|score|saos_url
+400229|2019-08-05|SO|III AUa 1173/18|Wyrok|56|https://www.saos.org.pl/judgments/400229
+389398|2019-01-08|SO|III AUa 338/18|Wyrok|56|https://www.saos.org.pl/judgments/389398
+170185|2015-06-09|SO|III AUa 741/14|Wyrok|56|https://www.saos.org.pl/judgments/170185
+346951|2018-05-29|SO|V U 163/18|Wyrok|40|https://www.saos.org.pl/judgments/346951
+376045|2018-04-11|SO|VII U 61/18|Wyrok|40|https://www.saos.org.pl/judgments/376045
+287301|2017-03-02|SO|VII U 1469/16|Wyrok|40|https://www.saos.org.pl/judgments/287301
+527065|2024-12-20|SO|VIII U 1992/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/527065
+516106|2024-06-04|SO|VIII U 192/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/516106
+388173|2019-07-29|SO|VIII U 2556/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/388173

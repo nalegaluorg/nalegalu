@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-311185|2017-09-13|SO|I Ca 317/17|Wyrok|https://www.saos.org.pl/judgments/311185
-260563|2016-11-08|SO|VII U 1677/15|Wyrok|https://www.saos.org.pl/judgments/260563
-234047|2016-04-26|SO|V U 35/16|Wyrok|https://www.saos.org.pl/judgments/234047
-212044|2016-02-03|SO|III AUa 1455/15|Wyrok|https://www.saos.org.pl/judgments/212044
-73190|2014-12-03|SO|III U 1143/14|Wyrok|https://www.saos.org.pl/judgments/73190
+saos_id|date|court|case_number|type|score|saos_url
+212044|2016-02-03|SO|III AUa 1455/15|Wyrok|56|https://www.saos.org.pl/judgments/212044
+260563|2016-11-08|SO|VII U 1677/15|Wyrok|40|https://www.saos.org.pl/judgments/260563
+234047|2016-04-26|SO|V U 35/16|Wyrok|40|https://www.saos.org.pl/judgments/234047

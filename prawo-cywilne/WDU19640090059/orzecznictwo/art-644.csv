@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-398281|2019-11-21|SO|III AUa 912/18|Wyrok|https://www.saos.org.pl/judgments/398281
-349795|2018-07-31|SO|VIII U 1935/17|Wyrok|https://www.saos.org.pl/judgments/349795
-197503|2016-01-14|SO|VI U 334/15|Wyrok|https://www.saos.org.pl/judgments/197503
+saos_id|date|court|case_number|type|score|saos_url
+398281|2019-11-21|SO|III AUa 912/18|Wyrok|56|https://www.saos.org.pl/judgments/398281

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-107006|2004-11-16|TK|Ts 149/04|Postanowienie|https://www.saos.org.pl/judgments/107006
+saos_id|date|court|case_number|type|score|saos_url
+107006|2004-11-16|TK|Ts 149/04|Postanowienie|80|https://www.saos.org.pl/judgments/107006

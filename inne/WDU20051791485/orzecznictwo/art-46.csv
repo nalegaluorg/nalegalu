@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-344083|2018-05-28|SO|II AKa 336/17|Wyrok|https://www.saos.org.pl/judgments/344083
-312314|2017-05-19|SO|XII K 112/16|Wyrok|https://www.saos.org.pl/judgments/312314
-267026|2016-11-29|SO|II AKa 285/16|Wyrok|https://www.saos.org.pl/judgments/267026
-157031|2015-04-29|SO|XVI K 211/14|Wyrok|https://www.saos.org.pl/judgments/157031
-129005|2014-12-01|SO|II AKa 79/14|Wyrok|https://www.saos.org.pl/judgments/129005
-134163|2014-06-11|SO|III K 903/09|Wyrok|https://www.saos.org.pl/judgments/134163
-138555|2012-11-26|SO|II AKa 149/12|Wyrok|https://www.saos.org.pl/judgments/138555
-84816|2006-12-05|SN|III KK 273/06|Wyrok|https://www.saos.org.pl/judgments/84816
+saos_id|date|court|case_number|type|score|saos_url
+84816|2006-12-05|SN|III KK 273/06|Wyrok|78|https://www.saos.org.pl/judgments/84816
+344083|2018-05-28|SO|II AKa 336/17|Wyrok|56|https://www.saos.org.pl/judgments/344083
+267026|2016-11-29|SO|II AKa 285/16|Wyrok|56|https://www.saos.org.pl/judgments/267026
+129005|2014-12-01|SO|II AKa 79/14|Wyrok|56|https://www.saos.org.pl/judgments/129005
+138555|2012-11-26|SO|II AKa 149/12|Wyrok|56|https://www.saos.org.pl/judgments/138555
+157031|2015-04-29|SO|XVI K 211/14|Wyrok|40|https://www.saos.org.pl/judgments/157031
+134163|2014-06-11|SO|III K 903/09|Wyrok|40|https://www.saos.org.pl/judgments/134163

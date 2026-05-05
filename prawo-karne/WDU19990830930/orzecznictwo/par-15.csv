@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-277555|2015-12-28|SO|II K 214/13|Wyrok|https://www.saos.org.pl/judgments/277555
-179592|2015-09-01|SO|II K 680/13|Wyrok|https://www.saos.org.pl/judgments/179592
-178580|2014-12-17|SO|II AKa 274/14|Wyrok|https://www.saos.org.pl/judgments/178580
-147370|2014-04-30|SO|II AKa 37/14|Wyrok|https://www.saos.org.pl/judgments/147370
-144045|2014-01-23|SO|II AKa 275/13|Wyrok|https://www.saos.org.pl/judgments/144045
+saos_id|date|court|case_number|type|score|saos_url
+178580|2014-12-17|SO|II AKa 274/14|Wyrok|56|https://www.saos.org.pl/judgments/178580
+147370|2014-04-30|SO|II AKa 37/14|Wyrok|56|https://www.saos.org.pl/judgments/147370
+144045|2014-01-23|SO|II AKa 275/13|Wyrok|56|https://www.saos.org.pl/judgments/144045

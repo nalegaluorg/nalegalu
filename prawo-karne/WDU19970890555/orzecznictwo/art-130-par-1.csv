@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-512918|2024-07-08|SO|VIII Pa 116/23|Uzasadnienie|https://www.saos.org.pl/judgments/512918
-91904|2010-02-24|SN|I KZP 28/09|Uchwała|https://www.saos.org.pl/judgments/91904
-205686|1995-09-06|TK|W 20/94|Uchwała|https://www.saos.org.pl/judgments/205686
+saos_id|date|court|case_number|type|score|saos_url
+205686|1995-09-06|TK|W 20/94|Uchwała|100|https://www.saos.org.pl/judgments/205686
+91904|2010-02-24|SN|I KZP 28/09|Uchwała|96|https://www.saos.org.pl/judgments/91904
+512918|2024-07-08|SO|VIII Pa 116/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/512918

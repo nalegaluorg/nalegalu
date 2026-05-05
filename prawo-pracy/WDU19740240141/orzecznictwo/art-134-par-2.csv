@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-490884|2023-07-05|SO|IX P 154/22|Zarządzenie|https://www.saos.org.pl/judgments/490884
-329020|2017-06-08|SO|VII Pa 47/17|Wyrok|https://www.saos.org.pl/judgments/329020
-85616|2007-04-04|SN|III PK 2/07|Wyrok|https://www.saos.org.pl/judgments/85616
-79655|2000-04-12|SN|III ZP 4/00|Uchwała|https://www.saos.org.pl/judgments/79655
-77154|1996-05-16|SN|I PZP 5/96|Uchwała|https://www.saos.org.pl/judgments/77154
+saos_id|date|court|case_number|type|score|saos_url
+77154|1996-05-16|SN|I PZP 5/96|Uchwała|96|https://www.saos.org.pl/judgments/77154
+79655|2000-04-12|SN|III ZP 4/00|Uchwała|89|https://www.saos.org.pl/judgments/79655
+85616|2007-04-04|SN|III PK 2/07|Wyrok|78|https://www.saos.org.pl/judgments/85616
+329020|2017-06-08|SO|VII Pa 47/17|Wyrok|40|https://www.saos.org.pl/judgments/329020

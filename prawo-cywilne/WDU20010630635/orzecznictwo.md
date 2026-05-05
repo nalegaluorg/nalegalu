@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księ
 
 ## art. 20 (1)
 
-- 2004-01-07 | SN | [III CZP 99/03](https://www.saos.org.pl/judgments/82423) | Uchwała
+- 2004-01-07 | SN | [III CZP 99/03](https://www.saos.org.pl/judgments/82423) | Uchwała ★
 
 ## art. 57 (1)
 
@@ -24,8 +24,8 @@ Orzeczenia powołujące: *Ustawa z dnia 11 maja 2001 r. o zmianie ustawy o księ
 
 ## art. 76 (2)
 
+- 2012-04-12 | SN | [II CSK 472/11](https://www.saos.org.pl/judgments/97785) | Wyrok ★
 - 2024-03-19 | SO | [I ACa 259/22](https://www.saos.org.pl/judgments/520886) | Wyrok
-- 2012-04-12 | SN | [II CSK 472/11](https://www.saos.org.pl/judgments/97785) | Wyrok
 
 ## art. 109 (2)
 

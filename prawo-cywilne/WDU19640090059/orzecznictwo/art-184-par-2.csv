@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-507408|2024-03-28|SO|III RNs 172/23|Postanowienie|https://www.saos.org.pl/judgments/507408
-462397|2022-03-10|SO|VI RNs 55/22|Uzasadnienie|https://www.saos.org.pl/judgments/462397
-461763|2022-01-26|SO|I ACa 1018/20|Wyrok|https://www.saos.org.pl/judgments/461763
-434813|2020-11-20|SO|I ACa 650/19|Wyrok|https://www.saos.org.pl/judgments/434813
-421528|2020-08-12|SO|VI RNs 115/20|Uzasadnienie|https://www.saos.org.pl/judgments/421528
-390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|https://www.saos.org.pl/judgments/390318
-191784|2015-12-14|SO|XIII Ga 463/15|Uzasadnienie|https://www.saos.org.pl/judgments/191784
-52570|2013-09-05|SO|XXIII Ga 817/13|Postanowienie|https://www.saos.org.pl/judgments/52570
+saos_id|date|court|case_number|type|score|saos_url
+461763|2022-01-26|SO|I ACa 1018/20|Wyrok|56|https://www.saos.org.pl/judgments/461763
+434813|2020-11-20|SO|I ACa 650/19|Wyrok|56|https://www.saos.org.pl/judgments/434813
+390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390318
+191784|2015-12-14|SO|XIII Ga 463/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/191784

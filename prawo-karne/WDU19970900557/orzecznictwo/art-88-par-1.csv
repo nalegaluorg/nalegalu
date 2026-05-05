@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-475298|2021-11-25|SO|I C 271/20|Wyrok|https://www.saos.org.pl/judgments/475298
-359459|2018-08-13|SO|XII Ko 86/16|Wyrok|https://www.saos.org.pl/judgments/359459
-176109|2015-05-22|SO|I ACa 72/15|Wyrok|https://www.saos.org.pl/judgments/176109
-165959|2014-06-05|SN|WA 18/14|Wyrok|https://www.saos.org.pl/judgments/165959
-45792|2014-04-11|SO|I ACa 1396/13|Wyrok|https://www.saos.org.pl/judgments/45792
+saos_id|date|court|case_number|type|score|saos_url
+165959|2014-06-05|SN|WA 18/14|Wyrok|78|https://www.saos.org.pl/judgments/165959
+176109|2015-05-22|SO|I ACa 72/15|Wyrok|56|https://www.saos.org.pl/judgments/176109
+45792|2014-04-11|SO|I ACa 1396/13|Wyrok|56|https://www.saos.org.pl/judgments/45792

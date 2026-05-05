@@ -1,3 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-51643|2014-06-06|SO|VIII Ga 22/14|Postanowienie|https://www.saos.org.pl/judgments/51643
-46644|2014-04-17|SO|VIII Ga 63/14|Postanowienie|https://www.saos.org.pl/judgments/46644
+saos_id|date|court|case_number|type|score|saos_url
+98290|2012-06-06|SN|III CZP 22/12|Uchwała|89|https://www.saos.org.pl/judgments/98290
+430495|2020-10-21|SO|I AGa 141/19|Wyrok|56|https://www.saos.org.pl/judgments/430495
+527896|2025-05-21|SO|II AKa 275/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/527896
+533568|2025-02-05|SO|II Ca 1786/24|Postanowienie|31|https://www.saos.org.pl/judgments/533568
+287057|2017-03-09|SO|XII Ga 525/16|Postanowienie|31|https://www.saos.org.pl/judgments/287057
+420791|2020-01-13|SO|III Ca 895/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/420791

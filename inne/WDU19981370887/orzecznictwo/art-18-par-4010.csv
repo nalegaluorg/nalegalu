@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-407568|2019-09-17|SO|III AUa 1868/18|Wyrok|https://www.saos.org.pl/judgments/407568
+saos_id|date|court|case_number|type|score|saos_url
+407568|2019-09-17|SO|III AUa 1868/18|Wyrok|56|https://www.saos.org.pl/judgments/407568

@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-387494|2018-09-07|SO|V GC 921/15|Wyrok|https://www.saos.org.pl/judgments/387494
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-349128|2017-12-29|SO|II AKa 152/17|Wyrok|https://www.saos.org.pl/judgments/349128
-228401|2016-02-11|SO|VIII C 1504/12|Wyrok|https://www.saos.org.pl/judgments/228401
-154659|2015-05-06|SO|I ACa 1634/14|Wyrok|https://www.saos.org.pl/judgments/154659
-69685|2014-10-21|SO|II Ca 731/14|Postanowienie|https://www.saos.org.pl/judgments/69685
-74320|2014-10-17|SO|III Ca 639/14|Uzasadnienie|https://www.saos.org.pl/judgments/74320
-246821|2014-09-29|SO|XVII AmA 57/13|Wyrok|https://www.saos.org.pl/judgments/246821
-59684|2014-07-30|SO|II C 1456/13|Uzasadnienie|https://www.saos.org.pl/judgments/59684
+saos_id|date|court|case_number|type|score|saos_url
+349128|2017-12-29|SO|II AKa 152/17|Wyrok|56|https://www.saos.org.pl/judgments/349128
+154659|2015-05-06|SO|I ACa 1634/14|Wyrok|56|https://www.saos.org.pl/judgments/154659
+69685|2014-10-21|SO|II Ca 731/14|Postanowienie|31|https://www.saos.org.pl/judgments/69685
+74320|2014-10-17|SO|III Ca 639/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74320
+59684|2014-07-30|SO|II C 1456/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/59684

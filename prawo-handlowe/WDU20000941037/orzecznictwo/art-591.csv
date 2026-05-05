@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-472394|2022-07-15|SO|V K 646/20|Uzasadnienie|https://www.saos.org.pl/judgments/472394
-430887|2021-01-25|SO|VIII GC 541/18|Uzasadnienie|https://www.saos.org.pl/judgments/430887
-301934|2017-04-13|KIO|KIO 619/17|Wyrok|https://www.saos.org.pl/judgments/301934
-261519|2015-09-17|SO|V GC 138/14|Wyrok|https://www.saos.org.pl/judgments/261519
-73822|2014-11-28|SO|III K 97/14|Wyrok|https://www.saos.org.pl/judgments/73822
-45732|2014-04-17|SO|VIII Gz 27/14|Postanowienie|https://www.saos.org.pl/judgments/45732
-20778|2013-04-25|SO|V ACa 600/12|Wyrok|https://www.saos.org.pl/judgments/20778
-206324|2011-05-20|TK|Ts 18/11|Postanowienie|https://www.saos.org.pl/judgments/206324
+saos_id|date|court|case_number|type|score|saos_url
+206324|2011-05-20|TK|Ts 18/11|Postanowienie|80|https://www.saos.org.pl/judgments/206324
+20778|2013-04-25|SO|V ACa 600/12|Wyrok|56|https://www.saos.org.pl/judgments/20778
+301934|2017-04-13|KIO|KIO 619/17|Wyrok|44|https://www.saos.org.pl/judgments/301934
+261519|2015-09-17|SO|V GC 138/14|Wyrok|40|https://www.saos.org.pl/judgments/261519
+73822|2014-11-28|SO|III K 97/14|Wyrok|40|https://www.saos.org.pl/judgments/73822

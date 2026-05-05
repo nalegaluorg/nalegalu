@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243291|2015-09-09|SN|IV CSK 754/14|Wyrok|https://www.saos.org.pl/judgments/243291
+saos_id|date|court|case_number|type|score|saos_url
+243291|2015-09-09|SN|IV CSK 754/14|Wyrok|78|https://www.saos.org.pl/judgments/243291

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-518194|2024-03-14|SO|I AGa 106/23|Wyrok|https://www.saos.org.pl/judgments/518194
-352303|2017-12-28|SO|I C 440/17|Wyrok|https://www.saos.org.pl/judgments/352303
+saos_id|date|court|case_number|type|score|saos_url
+518194|2024-03-14|SO|I AGa 106/23|Wyrok|56|https://www.saos.org.pl/judgments/518194

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-99836|2012-11-28|SN|III CZP 77/12|Uchwała|https://www.saos.org.pl/judgments/99836
-93185|2010-10-20|SN|III CZP 59/10|Uchwała|https://www.saos.org.pl/judgments/93185
+saos_id|date|court|case_number|type|score|saos_url
+99836|2012-11-28|SN|III CZP 77/12|Uchwała|89|https://www.saos.org.pl/judgments/99836
+93185|2010-10-20|SN|III CZP 59/10|Uchwała|89|https://www.saos.org.pl/judgments/93185

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-407117|2019-04-03|SO|I AGa 422/18|Wyrok|https://www.saos.org.pl/judgments/407117
-280059|2017-01-27|SO|X Ga 315/16|Wyrok|https://www.saos.org.pl/judgments/280059
+saos_id|date|court|case_number|type|score|saos_url
+407117|2019-04-03|SO|I AGa 422/18|Wyrok|56|https://www.saos.org.pl/judgments/407117

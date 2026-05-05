@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-282066|2017-03-09|SO|I ACa 1079/16|Wyrok|https://www.saos.org.pl/judgments/282066
-151948|2014-11-19|SO|V GC 399/13|Wyrok|https://www.saos.org.pl/judgments/151948
+saos_id|date|court|case_number|type|score|saos_url
+282066|2017-03-09|SO|I ACa 1079/16|Wyrok|56|https://www.saos.org.pl/judgments/282066

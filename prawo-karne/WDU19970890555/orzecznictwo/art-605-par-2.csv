@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-540357|2025-11-19|SO|II AKz 1173/25|Postanowienie|https://www.saos.org.pl/judgments/540357
-525637|2024-04-17|SO|II AKz 229/24|Postanowienie|https://www.saos.org.pl/judgments/525637
-525504|2023-10-10|SO|II AKz 1077/23|Postanowienie|https://www.saos.org.pl/judgments/525504
-525503|2023-09-06|SO|II AKz 1062/23|Postanowienie|https://www.saos.org.pl/judgments/525503
-525582|2023-04-04|SO|II AKz 193/23|Postanowienie|https://www.saos.org.pl/judgments/525582
-225022|2016-05-24|SO|II AKz 177/16|Postanowienie|https://www.saos.org.pl/judgments/225022
-135683|2012-09-25|SO|II AKz 136/12|Postanowienie|https://www.saos.org.pl/judgments/135683
+saos_id|date|court|case_number|type|score|saos_url
+540357|2025-11-19|SO|II AKz 1173/25|Postanowienie|47|https://www.saos.org.pl/judgments/540357
+525637|2024-04-17|SO|II AKz 229/24|Postanowienie|47|https://www.saos.org.pl/judgments/525637
+525504|2023-10-10|SO|II AKz 1077/23|Postanowienie|47|https://www.saos.org.pl/judgments/525504
+525503|2023-09-06|SO|II AKz 1062/23|Postanowienie|47|https://www.saos.org.pl/judgments/525503
+525582|2023-04-04|SO|II AKz 193/23|Postanowienie|47|https://www.saos.org.pl/judgments/525582
+225022|2016-05-24|SO|II AKz 177/16|Postanowienie|47|https://www.saos.org.pl/judgments/225022
+135683|2012-09-25|SO|II AKz 136/12|Postanowienie|47|https://www.saos.org.pl/judgments/135683

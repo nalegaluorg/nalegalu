@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-265605|2016-12-29|SO|IV P 24/15|Wyrok|https://www.saos.org.pl/judgments/265605
-89420|2009-01-06|SN|II PK 117/08|Wyrok|https://www.saos.org.pl/judgments/89420
+saos_id|date|court|case_number|type|score|saos_url
+89420|2009-01-06|SN|II PK 117/08|Wyrok|78|https://www.saos.org.pl/judgments/89420

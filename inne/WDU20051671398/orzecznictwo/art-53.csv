@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-127927|2015-01-09|SO|VIII Ga 389/14|Postanowienie|https://www.saos.org.pl/judgments/127927
-109145|2009-07-08|TK|Ts 21/08|Postanowienie|https://www.saos.org.pl/judgments/109145
-109143|2009-03-10|TK|Ts 21/08|Postanowienie|https://www.saos.org.pl/judgments/109143
+saos_id|date|court|case_number|type|score|saos_url
+109145|2009-07-08|TK|Ts 21/08|Postanowienie|80|https://www.saos.org.pl/judgments/109145
+109143|2009-03-10|TK|Ts 21/08|Postanowienie|80|https://www.saos.org.pl/judgments/109143

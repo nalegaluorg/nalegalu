@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|https://www.saos.org.pl/judgments/518583
-464854|2021-07-13|SO|II AKa 82/21|Uzasadnienie|https://www.saos.org.pl/judgments/464854
-443490|2021-05-26|SO|V Kz 523/21|Postanowienie|https://www.saos.org.pl/judgments/443490
-390087|2019-08-13|SO|II Kz 185/19|Postanowienie|https://www.saos.org.pl/judgments/390087
-282236|2016-08-11|SO|II Kp 605/16|Postanowienie|https://www.saos.org.pl/judgments/282236
+saos_id|date|court|case_number|type|score|saos_url
+518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/518583
+464854|2021-07-13|SO|II AKa 82/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/464854
+443490|2021-05-26|SO|V Kz 523/21|Postanowienie|31|https://www.saos.org.pl/judgments/443490

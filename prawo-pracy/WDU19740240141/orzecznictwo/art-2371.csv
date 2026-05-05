@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-479362|2022-10-20|SO|V Pa 30/22|Wyrok|https://www.saos.org.pl/judgments/479362
-246015|2016-08-02|SO|VII U 1223/15|Wyrok|https://www.saos.org.pl/judgments/246015
-77590|1997-04-17|SN|III ZP 45/97|Uchwała|https://www.saos.org.pl/judgments/77590
+saos_id|date|court|case_number|type|score|saos_url
+77590|1997-04-17|SN|III ZP 45/97|Uchwała|89|https://www.saos.org.pl/judgments/77590

@@ -1,35 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-534767|2025-09-08|SO|II K 350/24|Wyrok|https://www.saos.org.pl/judgments/534767
-523802|2025-01-14|SO|IV Ka 706/24|Uzasadnienie|https://www.saos.org.pl/judgments/523802
-523931|2025-01-02|SO|II K 508/23|Wyrok|https://www.saos.org.pl/judgments/523931
-519991|2024-11-26|SO|IV Ka 670/24|Uzasadnienie|https://www.saos.org.pl/judgments/519991
-487899|2023-03-07|SO|II K 502/22|Wyrok|https://www.saos.org.pl/judgments/487899
-483815|2022-12-16|SO|II K 281/22|Wyrok|https://www.saos.org.pl/judgments/483815
-475459|2022-09-02|SO|IV Ka 477/22|Uzasadnienie|https://www.saos.org.pl/judgments/475459
-471426|2021-12-07|SO|II K 46/21|Wyrok|https://www.saos.org.pl/judgments/471426
-445789|2021-03-16|SO|XII K 204/20|Wyrok|https://www.saos.org.pl/judgments/445789
-420545|2020-09-22|SO|II Kzw 68/20|Postanowienie|https://www.saos.org.pl/judgments/420545
-424373|2020-09-18|SO|IV Ka 448/20|Uzasadnienie|https://www.saos.org.pl/judgments/424373
-397819|2019-12-04|SO|II Ko 348/19|Postanowienie|https://www.saos.org.pl/judgments/397819
-401568|2019-11-21|SO|II AKa 196/19|Wyrok|https://www.saos.org.pl/judgments/401568
-472746|2019-07-03|SO|II K 120/19|Wyrok|https://www.saos.org.pl/judgments/472746
-405914|2019-06-06|SO|V K 294/19|Wyrok|https://www.saos.org.pl/judgments/405914
-378394|2019-04-18|SO|II Ko 111/19|Postanowienie|https://www.saos.org.pl/judgments/378394
-380234|2019-03-29|SO|VII Kzw 64/19|Postanowienie|https://www.saos.org.pl/judgments/380234
-435569|2019-01-09|SO|II K 426/18|Wyrok|https://www.saos.org.pl/judgments/435569
-426066|2018-11-07|SO|II K 402/18|Wyrok|https://www.saos.org.pl/judgments/426066
-361667|2018-10-31|SO|II K 52/18|Wyrok|https://www.saos.org.pl/judgments/361667
-336283|2018-01-18|SO|I ACa 655/17|Wyrok|https://www.saos.org.pl/judgments/336283
-262833|2016-11-30|SO|IV Ka 585/16|Uzasadnienie|https://www.saos.org.pl/judgments/262833
-238161|2016-07-21|SO|V K 37/16|Wyrok|https://www.saos.org.pl/judgments/238161
-74287|2014-12-23|SO|II Kzw 292/14|Postanowienie|https://www.saos.org.pl/judgments/74287
-75812|2014-12-01|SO|II AKa 274/14|Wyrok|https://www.saos.org.pl/judgments/75812
-160360|2014-11-04|TK|Ts 244/13|Postanowienie|https://www.saos.org.pl/judgments/160360
-66628|2014-10-09|SO|IV Ka 617/14|Wyrok|https://www.saos.org.pl/judgments/66628
-62453|2014-07-16|SO|II Ka 391/13|Wyrok|https://www.saos.org.pl/judgments/62453
-142993|2014-01-15|SO|II AKa 425/13|Wyrok|https://www.saos.org.pl/judgments/142993
-102222|2013-06-19|SN|V KK 78/13|Postanowienie|https://www.saos.org.pl/judgments/102222
-72903|2012-02-07|SO|VIII K 381/11|Uzasadnienie|https://www.saos.org.pl/judgments/72903
-94885|2011-05-05|SN|III KK 42/11|Postanowienie|https://www.saos.org.pl/judgments/94885
-107257|2005-07-05|TK|SK 26/04|Wyrok|https://www.saos.org.pl/judgments/107257
-82547|2004-03-03|SN|SNO 6/04|Wyrok|https://www.saos.org.pl/judgments/82547
+saos_id|date|court|case_number|type|score|saos_url
+107257|2005-07-05|TK|SK 26/04|Wyrok|98|https://www.saos.org.pl/judgments/107257
+160360|2014-11-04|TK|Ts 244/13|Postanowienie|80|https://www.saos.org.pl/judgments/160360
+82547|2004-03-03|SN|SNO 6/04|Wyrok|78|https://www.saos.org.pl/judgments/82547
+102222|2013-06-19|SN|V KK 78/13|Postanowienie|69|https://www.saos.org.pl/judgments/102222
+94885|2011-05-05|SN|III KK 42/11|Postanowienie|69|https://www.saos.org.pl/judgments/94885
+401568|2019-11-21|SO|II AKa 196/19|Wyrok|56|https://www.saos.org.pl/judgments/401568
+336283|2018-01-18|SO|I ACa 655/17|Wyrok|56|https://www.saos.org.pl/judgments/336283
+75812|2014-12-01|SO|II AKa 274/14|Wyrok|56|https://www.saos.org.pl/judgments/75812
+142993|2014-01-15|SO|II AKa 425/13|Wyrok|56|https://www.saos.org.pl/judgments/142993
+238161|2016-07-21|SO|V K 37/16|Wyrok|40|https://www.saos.org.pl/judgments/238161
+397819|2019-12-04|SO|II Ko 348/19|Postanowienie|31|https://www.saos.org.pl/judgments/397819
+378394|2019-04-18|SO|II Ko 111/19|Postanowienie|31|https://www.saos.org.pl/judgments/378394
+380234|2019-03-29|SO|VII Kzw 64/19|Postanowienie|31|https://www.saos.org.pl/judgments/380234

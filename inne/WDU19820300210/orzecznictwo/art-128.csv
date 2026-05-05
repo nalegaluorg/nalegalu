@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-318482|2017-05-30|SO|VI ACa 915/16|Wyrok|https://www.saos.org.pl/judgments/318482
-285670|2017-02-07|SO|IV P 208/16|Wyrok|https://www.saos.org.pl/judgments/285670
-253871|2016-10-21|SO|I C 45/15|Wyrok|https://www.saos.org.pl/judgments/253871
-326169|2014-10-09|SO|I ACa 931/14|Wyrok|https://www.saos.org.pl/judgments/326169
-37073|2014-01-15|SO|VI P 201/13|Wyrok|https://www.saos.org.pl/judgments/37073
+saos_id|date|court|case_number|type|score|saos_url
+318482|2017-05-30|SO|VI ACa 915/16|Wyrok|56|https://www.saos.org.pl/judgments/318482
+326169|2014-10-09|SO|I ACa 931/14|Wyrok|56|https://www.saos.org.pl/judgments/326169
+253871|2016-10-21|SO|I C 45/15|Wyrok|40|https://www.saos.org.pl/judgments/253871

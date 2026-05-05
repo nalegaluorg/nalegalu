@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-107160|2005-03-15|TK|K 9/04|Wyrok|https://www.saos.org.pl/judgments/107160
+saos_id|date|court|case_number|type|score|saos_url
+107160|2005-03-15|TK|K 9/04|Wyrok|98|https://www.saos.org.pl/judgments/107160

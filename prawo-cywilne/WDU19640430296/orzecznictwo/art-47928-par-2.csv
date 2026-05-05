@@ -1,16 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-514985|2024-06-18|SO|XVI GC 483/24|Wyrok|https://www.saos.org.pl/judgments/514985
-486007|2022-11-07|SO|XVII AmA 55/21|Postanowienie|https://www.saos.org.pl/judgments/486007
-484012|2022-11-07|SO|XVII AmA 54/21|Postanowienie|https://www.saos.org.pl/judgments/484012
-485843|2022-10-19|SO|XVII AmA 53/21|Postanowienie|https://www.saos.org.pl/judgments/485843
-485842|2022-10-19|SO|XVII AmA 52/21|Postanowienie|https://www.saos.org.pl/judgments/485842
-485841|2022-10-19|SO|XVII AmA 51/21|Postanowienie|https://www.saos.org.pl/judgments/485841
-449846|2021-03-19|SO|XVII AmA 23/21|Postanowienie|https://www.saos.org.pl/judgments/449846
-422317|2020-07-15|SO|XVII AmA 43/20|Postanowienie|https://www.saos.org.pl/judgments/422317
-422169|2019-12-05|SO|XVII Amz 20/18|Postanowienie|https://www.saos.org.pl/judgments/422169
-195679|2015-11-26|SO|VI ACa 1724/14|Postanowienie|https://www.saos.org.pl/judgments/195679
-243090|2015-08-06|SN|III SZP 3/15|Uchwała|https://www.saos.org.pl/judgments/243090
-63705|2013-02-22|SO|XVII AmA 15/13|Postanowienie|https://www.saos.org.pl/judgments/63705
-482074|2012-10-03|SO|XXVI GC 543/12|Wyrok|https://www.saos.org.pl/judgments/482074
-91877|2010-02-18|SN|III SK 28/09|Wyrok|https://www.saos.org.pl/judgments/91877
-106640|2003-03-19|TK|Ts 192/02|Postanowienie|https://www.saos.org.pl/judgments/106640
+saos_id|date|court|case_number|type|score|saos_url
+243090|2015-08-06|SN|III SZP 3/15|Uchwała|89|https://www.saos.org.pl/judgments/243090
+106640|2003-03-19|TK|Ts 192/02|Postanowienie|80|https://www.saos.org.pl/judgments/106640
+91877|2010-02-18|SN|III SK 28/09|Wyrok|78|https://www.saos.org.pl/judgments/91877
+195679|2015-11-26|SO|VI ACa 1724/14|Postanowienie|47|https://www.saos.org.pl/judgments/195679

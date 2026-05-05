@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-330195|2018-01-11|SO|XVII Ka 1234/17|Wyrok|https://www.saos.org.pl/judgments/330195
+saos_id|date|court|case_number|type|score|saos_url
+330195|2018-01-11|SO|XVII Ka 1234/17|Wyrok|40|https://www.saos.org.pl/judgments/330195

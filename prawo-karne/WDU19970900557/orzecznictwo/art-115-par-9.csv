@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-477816|2022-05-17|SO|II Ca 1897/21|Wyrok|https://www.saos.org.pl/judgments/477816
-456934|2021-12-07|SO|I C 192/19|Wyrok|https://www.saos.org.pl/judgments/456934
-407737|2019-09-19|SO|I Ca 211/19|Uzasadnienie|https://www.saos.org.pl/judgments/407737
-391650|2019-04-17|SO|I C 410/18|Wyrok|https://www.saos.org.pl/judgments/391650
-324568|2017-07-20|SO|XVIII C 72/15|Wyrok|https://www.saos.org.pl/judgments/324568
-309013|2016-11-25|SO|II Ca 644/16|Wyrok|https://www.saos.org.pl/judgments/309013
-398019|2016-07-19|SO|I C 1050/15|Wyrok|https://www.saos.org.pl/judgments/398019
-217234|2016-03-03|SO|I C 166/11|Uzasadnienie|https://www.saos.org.pl/judgments/217234
-127123|2014-11-20|SO|I ACa 682/14|Wyrok|https://www.saos.org.pl/judgments/127123
-66226|2014-05-15|SO|II AKa 101/13|Wyrok|https://www.saos.org.pl/judgments/66226
-138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|https://www.saos.org.pl/judgments/138247
+saos_id|date|court|case_number|type|score|saos_url
+127123|2014-11-20|SO|I ACa 682/14|Wyrok|56|https://www.saos.org.pl/judgments/127123
+66226|2014-05-15|SO|II AKa 101/13|Wyrok|56|https://www.saos.org.pl/judgments/66226
+138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|47|https://www.saos.org.pl/judgments/138247
+477816|2022-05-17|SO|II Ca 1897/21|Wyrok|40|https://www.saos.org.pl/judgments/477816
+391650|2019-04-17|SO|I C 410/18|Wyrok|40|https://www.saos.org.pl/judgments/391650
+324568|2017-07-20|SO|XVIII C 72/15|Wyrok|40|https://www.saos.org.pl/judgments/324568
+407737|2019-09-19|SO|I Ca 211/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/407737

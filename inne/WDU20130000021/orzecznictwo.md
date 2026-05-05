@@ -39,17 +39,17 @@ Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 2012 r. o odpadach*
 
 ## art. 20 (11)
 
-- 2016-10-12 | KIO | [KIO 1864/16](https://www.saos.org.pl/judgments/264902) | Postanowienie
 - 2016-06-07 | KIO | [KIO 846/16](https://www.saos.org.pl/judgments/230735) | Wyrok
 - 2016-02-12 | KIO | [KIO 93/16](https://www.saos.org.pl/judgments/230152) | Wyrok
 - 2015-08-11 | KIO | [KIO 1594/15](https://www.saos.org.pl/judgments/201687) | Wyrok
 - 2015-05-04 | KIO | [KIO 818/15](https://www.saos.org.pl/judgments/201044) | Wyrok
 - 2015-02-09 | KIO | [KIO 173/15](https://www.saos.org.pl/judgments/162045) | Wyrok
 - 2014-12-19 | KIO | [KIO 2633/14](https://www.saos.org.pl/judgments/160630) | Wyrok
-- 2014-07-23 | KIO | [KIO 1432/14](https://www.saos.org.pl/judgments/161013) | Postanowienie
 - 2013-04-29 | KIO | [KIO 884/13](https://www.saos.org.pl/judgments/122496) | Wyrok
 - 2013-04-02 | KIO | [KIO 669/13](https://www.saos.org.pl/judgments/122320) | Wyrok
 - 2013-02-26 | KIO | [KIO 306/13](https://www.saos.org.pl/judgments/122036) | Wyrok
+- 2016-10-12 | KIO | [KIO 1864/16](https://www.saos.org.pl/judgments/264902) | Postanowienie
+- 2014-07-23 | KIO | [KIO 1432/14](https://www.saos.org.pl/judgments/161013) | Postanowienie
 
 ## art. 22 (1)
 
@@ -82,13 +82,13 @@ Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 2012 r. o odpadach*
 
 - 2016-02-01 | KIO | [KIO 52/16](https://www.saos.org.pl/judgments/230120) | Wyrok
 - 2015-08-07 | KIO | [KIO 1611/15](https://www.saos.org.pl/judgments/201703) | Wyrok
-- 2015-08-07 | KIO | [KIO 1610/15](https://www.saos.org.pl/judgments/201702) | Postanowienie
 - 2013-07-02 | KIO | [KIO 1515/13](https://www.saos.org.pl/judgments/122993) | Wyrok
 - 2013-05-09 | KIO | [KIO 912/13](https://www.saos.org.pl/judgments/122502) | Wyrok
+- 2013-03-19 | KIO | [KIO 469/13](https://www.saos.org.pl/judgments/122175) | Wyrok
+- 2015-08-07 | KIO | [KIO 1610/15](https://www.saos.org.pl/judgments/201702) | Postanowienie
 - 2013-04-11 | KIO | [KIO 759/13](https://www.saos.org.pl/judgments/122398) | Postanowienie
 - 2013-04-03 | KIO | [KIO 696/13](https://www.saos.org.pl/judgments/122345) | Postanowienie
 - 2013-03-21 | KIO | [KIO 615/13](https://www.saos.org.pl/judgments/122276) | Postanowienie
-- 2013-03-19 | KIO | [KIO 469/13](https://www.saos.org.pl/judgments/122175) | Wyrok
 
 ## art. 36 (2)
 
@@ -105,14 +105,14 @@ Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 2012 r. o odpadach*
 
 ## art. 41 (8)
 
-- 2016-04-29 | KIO | [KIO 591/16](https://www.saos.org.pl/judgments/230562) | Postanowienie
 - 2016-02-01 | KIO | [KIO 52/16](https://www.saos.org.pl/judgments/230120) | Wyrok
 - 2015-08-31 | KIO | [KIO 1788/15](https://www.saos.org.pl/judgments/201851) | Wyrok
 - 2015-07-23 | KIO | [KIO 1451/15](https://www.saos.org.pl/judgments/201566) | Wyrok
 - 2015-03-31 | KIO | [KIO 540/15](https://www.saos.org.pl/judgments/161453) | Wyrok
-- 2015-01-23 | KIO | [KIO 80/15](https://www.saos.org.pl/judgments/161974) | Postanowienie
 - 2014-07-18 | KIO | [KIO 1362/14](https://www.saos.org.pl/judgments/161707) | Wyrok
 - 2013-06-26 | KIO | [KIO 1407/13](https://www.saos.org.pl/judgments/122908) | Wyrok
+- 2016-04-29 | KIO | [KIO 591/16](https://www.saos.org.pl/judgments/230562) | Postanowienie
+- 2015-01-23 | KIO | [KIO 80/15](https://www.saos.org.pl/judgments/161974) | Postanowienie
 
 ## art. 42 (5)
 

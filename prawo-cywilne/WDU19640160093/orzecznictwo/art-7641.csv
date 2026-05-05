@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495103|2022-06-23|SO|I AGa 48/21|Wyrok|https://www.saos.org.pl/judgments/495103
-354927|2018-06-08|SO|I1 C 362/18|Wyrok|https://www.saos.org.pl/judgments/354927
+saos_id|date|court|case_number|type|score|saos_url
+495103|2022-06-23|SO|I AGa 48/21|Wyrok|56|https://www.saos.org.pl/judgments/495103

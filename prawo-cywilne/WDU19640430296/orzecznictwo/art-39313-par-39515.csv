@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78445|1998-07-16|SN|II UKN 135/98|Wyrok|https://www.saos.org.pl/judgments/78445
+saos_id|date|court|case_number|type|score|saos_url
+78445|1998-07-16|SN|II UKN 135/98|Wyrok|78|https://www.saos.org.pl/judgments/78445

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-352265|2018-07-10|SO|VII Ka 538/18|Wyrok|https://www.saos.org.pl/judgments/352265
+saos_id|date|court|case_number|type|score|saos_url
+352265|2018-07-10|SO|VII Ka 538/18|Wyrok|40|https://www.saos.org.pl/judgments/352265

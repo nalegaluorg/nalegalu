@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495056|2022-07-08|SO|I AGa 33/21|Wyrok|https://www.saos.org.pl/judgments/495056
-463539|2022-02-08|SO|XI GC 937/21|Zarządzenie|https://www.saos.org.pl/judgments/463539
-149512|2015-04-10|SO|IV Ca 108/15|Wyrok|https://www.saos.org.pl/judgments/149512
-179069|2014-07-22|SO|IX GC 1583/14|Uzasadnienie|https://www.saos.org.pl/judgments/179069
-189346|2014-04-03|SO|XV GC 2499/11|Uzasadnienie|https://www.saos.org.pl/judgments/189346
+saos_id|date|court|case_number|type|score|saos_url
+495056|2022-07-08|SO|I AGa 33/21|Wyrok|56|https://www.saos.org.pl/judgments/495056

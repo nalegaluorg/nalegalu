@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Ustawa z dnia 14 lipca 2006 r. o zmianie ustawy o zak�
 
 ## art. 1 (1)
 
-- 2012-02-02 | TK | [SK 14/09](https://www.saos.org.pl/judgments/110990) | Postanowienie
+- 2012-02-02 | TK | [SK 14/09](https://www.saos.org.pl/judgments/110990) | Postanowienie ★
 
 ## art. 8 (1)
 
-- 2014-05-20 | SN | [I PK 206/13](https://www.saos.org.pl/judgments/105123) | Wyrok
+- 2014-05-20 | SN | [I PK 206/13](https://www.saos.org.pl/judgments/105123) | Wyrok ★
 
 ## (ogólnie) (2)
 

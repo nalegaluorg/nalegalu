@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-508760|2023-08-31|SO|IV P 50/22|Wyrok|https://www.saos.org.pl/judgments/508760
-292384|2017-05-10|SO|VIII Pa 81/16|Wyrok|https://www.saos.org.pl/judgments/292384
-106271|2002-10-09|TK|K 37/01|Postanowienie|https://www.saos.org.pl/judgments/106271
-105496|2000-12-20|TK|K 13/00|Postanowienie|https://www.saos.org.pl/judgments/105496
+saos_id|date|court|case_number|type|score|saos_url
+106271|2002-10-09|TK|K 37/01|Postanowienie|80|https://www.saos.org.pl/judgments/106271
+105496|2000-12-20|TK|K 13/00|Postanowienie|80|https://www.saos.org.pl/judgments/105496
+508760|2023-08-31|SO|IV P 50/22|Wyrok|40|https://www.saos.org.pl/judgments/508760

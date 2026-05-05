@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-539948|2025-10-24|SO|I Ns 260/17|Postanowienie|https://www.saos.org.pl/judgments/539948
-421909|2020-08-27|SO|II Ca 736/19|Postanowienie|https://www.saos.org.pl/judgments/421909
-510378|2018-10-09|SO|V Pa 39/18|Wyrok|https://www.saos.org.pl/judgments/510378
-244976|2016-03-22|SN|I UZ 42/15|Postanowienie|https://www.saos.org.pl/judgments/244976
-227915|2016-02-18|SO|III AUa 2139/15|Wyrok|https://www.saos.org.pl/judgments/227915
-188878|2015-10-26|SO|VIII U 30/15|Zarządzenie|https://www.saos.org.pl/judgments/188878
-158163|2015-05-19|SO|III AUa 2207/14|Wyrok|https://www.saos.org.pl/judgments/158163
-135652|2012-09-28|SO|I ACz 664/12|Postanowienie|https://www.saos.org.pl/judgments/135652
+saos_id|date|court|case_number|type|score|saos_url
+244976|2016-03-22|SN|I UZ 42/15|Postanowienie|69|https://www.saos.org.pl/judgments/244976
+227915|2016-02-18|SO|III AUa 2139/15|Wyrok|56|https://www.saos.org.pl/judgments/227915
+158163|2015-05-19|SO|III AUa 2207/14|Wyrok|56|https://www.saos.org.pl/judgments/158163
+135652|2012-09-28|SO|I ACz 664/12|Postanowienie|47|https://www.saos.org.pl/judgments/135652
+188878|2015-10-26|SO|VIII U 30/15|Zarządzenie|27|https://www.saos.org.pl/judgments/188878

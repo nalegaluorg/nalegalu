@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-202022|2015-09-28|KIO|KIO 2014/15|Wyrok|https://www.saos.org.pl/judgments/202022
-180310|2015-08-24|SO|XI GC 570/15|Wyrok|https://www.saos.org.pl/judgments/180310
-201362|2015-06-25|KIO|KIO 1201/15|Wyrok|https://www.saos.org.pl/judgments/201362
-200977|2015-04-29|KIO|KIO 736/15|Wyrok|https://www.saos.org.pl/judgments/200977
-123466|2013-10-07|KIO|KIO 2149/13|Wyrok|https://www.saos.org.pl/judgments/123466
-122637|2013-05-22|KIO|KIO 1057/13|Wyrok|https://www.saos.org.pl/judgments/122637
-122566|2013-05-13|KIO|KIO 966/13|Wyrok|https://www.saos.org.pl/judgments/122566
-122496|2013-04-29|KIO|KIO 884/13|Wyrok|https://www.saos.org.pl/judgments/122496
-121290|2012-11-09|KIO|KIO 2272/12|Wyrok|https://www.saos.org.pl/judgments/121290
-119853|2012-03-14|KIO|KIO 399/12|Wyrok|https://www.saos.org.pl/judgments/119853
-116783|2010-10-04|KIO|KIO 2036/10|Wyrok|https://www.saos.org.pl/judgments/116783
+saos_id|date|court|case_number|type|score|saos_url
+202022|2015-09-28|KIO|KIO 2014/15|Wyrok|44|https://www.saos.org.pl/judgments/202022
+201362|2015-06-25|KIO|KIO 1201/15|Wyrok|44|https://www.saos.org.pl/judgments/201362
+200977|2015-04-29|KIO|KIO 736/15|Wyrok|44|https://www.saos.org.pl/judgments/200977
+123466|2013-10-07|KIO|KIO 2149/13|Wyrok|44|https://www.saos.org.pl/judgments/123466
+122637|2013-05-22|KIO|KIO 1057/13|Wyrok|44|https://www.saos.org.pl/judgments/122637
+122566|2013-05-13|KIO|KIO 966/13|Wyrok|44|https://www.saos.org.pl/judgments/122566
+122496|2013-04-29|KIO|KIO 884/13|Wyrok|44|https://www.saos.org.pl/judgments/122496
+121290|2012-11-09|KIO|KIO 2272/12|Wyrok|44|https://www.saos.org.pl/judgments/121290
+119853|2012-03-14|KIO|KIO 399/12|Wyrok|44|https://www.saos.org.pl/judgments/119853
+116783|2010-10-04|KIO|KIO 2036/10|Wyrok|44|https://www.saos.org.pl/judgments/116783

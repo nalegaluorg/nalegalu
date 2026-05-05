@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-482194|2022-02-17|SO|VI P 297/17|Zarządzenie|https://www.saos.org.pl/judgments/482194
-349039|2018-05-09|SO|III APa 26/17|Wyrok|https://www.saos.org.pl/judgments/349039
-357116|2018-04-24|SO|III APa 1/18|Wyrok|https://www.saos.org.pl/judgments/357116
-313687|2017-10-11|SO|VII P 31/16|Wyrok|https://www.saos.org.pl/judgments/313687
-212973|2016-01-28|SO|V P 15/15|Wyrok|https://www.saos.org.pl/judgments/212973
-179900|2015-05-14|SO|IV Ka 990/14|Wyrok|https://www.saos.org.pl/judgments/179900
-98118|2012-05-18|SN|III PK 78/11|Wyrok|https://www.saos.org.pl/judgments/98118
+saos_id|date|court|case_number|type|score|saos_url
+98118|2012-05-18|SN|III PK 78/11|Wyrok|78|https://www.saos.org.pl/judgments/98118
+349039|2018-05-09|SO|III APa 26/17|Wyrok|56|https://www.saos.org.pl/judgments/349039
+357116|2018-04-24|SO|III APa 1/18|Wyrok|56|https://www.saos.org.pl/judgments/357116
+179900|2015-05-14|SO|IV Ka 990/14|Wyrok|40|https://www.saos.org.pl/judgments/179900
+482194|2022-02-17|SO|VI P 297/17|Zarządzenie|27|https://www.saos.org.pl/judgments/482194

@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443806|2019-10-11|SO|I C 45/19|Wyrok|https://www.saos.org.pl/judgments/443806
-299411|2017-04-27|SO|XXVII Ca 2794/16|Wyrok|https://www.saos.org.pl/judgments/299411
-337572|2017-04-26|SO|I ACa 1703/16|Wyrok|https://www.saos.org.pl/judgments/337572
-274425|2017-01-30|SO|III K 107/16|Wyrok|https://www.saos.org.pl/judgments/274425
-296771|2014-12-05|SO|II Ca 393/14|Postanowienie|https://www.saos.org.pl/judgments/296771
-54944|2014-06-27|SO|IV Ca 248/14|Wyrok|https://www.saos.org.pl/judgments/54944
+saos_id|date|court|case_number|type|score|saos_url
+337572|2017-04-26|SO|I ACa 1703/16|Wyrok|56|https://www.saos.org.pl/judgments/337572

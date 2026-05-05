@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-70355|2014-10-07|SO|II K 15/13|Wyrok|https://www.saos.org.pl/judgments/70355
-90115|2009-04-29|SN|I KZP 3/09|Postanowienie|https://www.saos.org.pl/judgments/90115
-108166|2007-12-20|TK|SK 42/06|Postanowienie|https://www.saos.org.pl/judgments/108166
-82719|2004-06-08|SN|III KK 419/03|Wyrok|https://www.saos.org.pl/judgments/82719
-81961|2003-04-11|SN|SNO 16/03|Wyrok|https://www.saos.org.pl/judgments/81961
-78961|1999-04-15|SN|I PKN 10/99|Wyrok|https://www.saos.org.pl/judgments/78961
-78213|1998-03-26|SN|I PKN 5/98|Wyrok|https://www.saos.org.pl/judgments/78213
-77869|1997-10-24|SN|I PKN 264/97|Wyrok|https://www.saos.org.pl/judgments/77869
+saos_id|date|court|case_number|type|score|saos_url
+108166|2007-12-20|TK|SK 42/06|Postanowienie|80|https://www.saos.org.pl/judgments/108166
+82719|2004-06-08|SN|III KK 419/03|Wyrok|78|https://www.saos.org.pl/judgments/82719
+81961|2003-04-11|SN|SNO 16/03|Wyrok|78|https://www.saos.org.pl/judgments/81961
+78961|1999-04-15|SN|I PKN 10/99|Wyrok|78|https://www.saos.org.pl/judgments/78961
+78213|1998-03-26|SN|I PKN 5/98|Wyrok|78|https://www.saos.org.pl/judgments/78213
+77869|1997-10-24|SN|I PKN 264/97|Wyrok|78|https://www.saos.org.pl/judgments/77869
+90115|2009-04-29|SN|I KZP 3/09|Postanowienie|69|https://www.saos.org.pl/judgments/90115

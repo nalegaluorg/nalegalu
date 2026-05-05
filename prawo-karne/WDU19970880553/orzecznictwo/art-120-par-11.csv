@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-367981|2018-11-29|SO|II AKa 207/18|Wyrok|https://www.saos.org.pl/judgments/367981
-276727|2016-09-30|SO|VI Ka 380/16|Wyrok|https://www.saos.org.pl/judgments/276727
-245198|2016-04-28|SN|I KZP 24/15|Postanowienie|https://www.saos.org.pl/judgments/245198
-244682|2016-02-25|SN|I KZP 19/15|Postanowienie|https://www.saos.org.pl/judgments/244682
-102440|2013-07-10|SN|IV KK 92/13|Wyrok|https://www.saos.org.pl/judgments/102440
-93009|2010-09-30|SN|I KZP 16/10|Postanowienie|https://www.saos.org.pl/judgments/93009
-91108|2009-10-28|SN|I KZP 17/09|Postanowienie|https://www.saos.org.pl/judgments/91108
-83062|2004-12-08|SN|IV KK 126/04|Postanowienie|https://www.saos.org.pl/judgments/83062
-81299|2002-03-28|SN|I KZP 35/01|Uchwała|https://www.saos.org.pl/judgments/81299
+saos_id|date|court|case_number|type|score|saos_url
+81299|2002-03-28|SN|I KZP 35/01|Uchwała|96|https://www.saos.org.pl/judgments/81299
+102440|2013-07-10|SN|IV KK 92/13|Wyrok|78|https://www.saos.org.pl/judgments/102440
+245198|2016-04-28|SN|I KZP 24/15|Postanowienie|69|https://www.saos.org.pl/judgments/245198
+244682|2016-02-25|SN|I KZP 19/15|Postanowienie|69|https://www.saos.org.pl/judgments/244682
+93009|2010-09-30|SN|I KZP 16/10|Postanowienie|69|https://www.saos.org.pl/judgments/93009
+91108|2009-10-28|SN|I KZP 17/09|Postanowienie|69|https://www.saos.org.pl/judgments/91108
+83062|2004-12-08|SN|IV KK 126/04|Postanowienie|69|https://www.saos.org.pl/judgments/83062
+367981|2018-11-29|SO|II AKa 207/18|Wyrok|56|https://www.saos.org.pl/judgments/367981

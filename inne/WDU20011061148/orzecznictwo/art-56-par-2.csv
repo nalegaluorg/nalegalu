@@ -1,15 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-291524|2017-05-31|SO|II W 452/16|Wyrok|https://www.saos.org.pl/judgments/291524
-260876|2016-12-02|SO|IX W 2991/16|Wyrok|https://www.saos.org.pl/judgments/260876
-237744|2016-06-17|SO|VI Ka 210/16|Wyrok|https://www.saos.org.pl/judgments/237744
-151383|2015-04-17|SO|IX W 953/15|Wyrok|https://www.saos.org.pl/judgments/151383
-65519|2014-09-26|SO|IX W 3140/14|Wyrok|https://www.saos.org.pl/judgments/65519
-57250|2014-08-12|SO|VI Ka 465/14|Wyrok|https://www.saos.org.pl/judgments/57250
-56721|2014-08-06|SO|IX W 2260/14|Wyrok|https://www.saos.org.pl/judgments/56721
-56142|2014-07-28|SO|IV Kz 120/14|Postanowienie|https://www.saos.org.pl/judgments/56142
-56141|2014-07-28|SO|IV Kz 119/14|Postanowienie|https://www.saos.org.pl/judgments/56141
-59761|2014-07-04|SO|VIII Ka 1058/13|Wyrok|https://www.saos.org.pl/judgments/59761
-54013|2014-06-06|SO|IX W 1005/14|Wyrok|https://www.saos.org.pl/judgments/54013
-206456|2014-06-03|TK|K 19/11|Wyrok|https://www.saos.org.pl/judgments/206456
-47862|2014-05-16|SO|IX W 1413/14|Wyrok|https://www.saos.org.pl/judgments/47862
-104861|2014-04-02|SN|V KK 378/13|Postanowienie|https://www.saos.org.pl/judgments/104861
+saos_id|date|court|case_number|type|score|saos_url
+206456|2014-06-03|TK|K 19/11|Wyrok|98|https://www.saos.org.pl/judgments/206456
+104861|2014-04-02|SN|V KK 378/13|Postanowienie|69|https://www.saos.org.pl/judgments/104861
+56142|2014-07-28|SO|IV Kz 120/14|Postanowienie|31|https://www.saos.org.pl/judgments/56142
+56141|2014-07-28|SO|IV Kz 119/14|Postanowienie|31|https://www.saos.org.pl/judgments/56141

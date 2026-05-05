@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-258368|2016-09-06|SO|I C 131/15|Wyrok|https://www.saos.org.pl/judgments/258368
-81669|2002-10-29|SN|I KZP 27/02|Uchwała|https://www.saos.org.pl/judgments/81669
+saos_id|date|court|case_number|type|score|saos_url
+81669|2002-10-29|SN|I KZP 27/02|Uchwała|89|https://www.saos.org.pl/judgments/81669

@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-251842|2016-09-21|SO|I C 404/16|Wyrok|https://www.saos.org.pl/judgments/251842
-241944|2015-04-30|SO|I C 969/14|Wyrok|https://www.saos.org.pl/judgments/241944
-22598|2013-09-27|SO|II Ca 485/13|Postanowienie|https://www.saos.org.pl/judgments/22598
-15207|2013-06-21|SO|VIII Cz 279/13|Postanowienie|https://www.saos.org.pl/judgments/15207
-139965|2013-03-29|SO|I C 126/12|Wyrok|https://www.saos.org.pl/judgments/139965
+saos_id|date|court|case_number|type|score|saos_url
+251842|2016-09-21|SO|I C 404/16|Wyrok|40|https://www.saos.org.pl/judgments/251842

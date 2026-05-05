@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-37402|2013-11-27|SO|VI ACa 258/13|Wyrok|https://www.saos.org.pl/judgments/37402
-37957|2013-10-31|SO|I ACa 471/13|Wyrok|https://www.saos.org.pl/judgments/37957
-8011|2013-02-28|SO|VIII GC 145/11|Wyrok|https://www.saos.org.pl/judgments/8011
+saos_id|date|court|case_number|type|score|saos_url
+37402|2013-11-27|SO|VI ACa 258/13|Wyrok|56|https://www.saos.org.pl/judgments/37402
+37957|2013-10-31|SO|I ACa 471/13|Wyrok|56|https://www.saos.org.pl/judgments/37957

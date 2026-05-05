@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-54347|2013-10-30|SO|I ACa 991/13|Wyrok|https://www.saos.org.pl/judgments/54347
+saos_id|date|court|case_number|type|score|saos_url
+54347|2013-10-30|SO|I ACa 991/13|Wyrok|56|https://www.saos.org.pl/judgments/54347

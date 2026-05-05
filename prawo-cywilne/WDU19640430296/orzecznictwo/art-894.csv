@@ -1,10 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539210|2024-04-22|SO|I 1 Co 2346/24|Postanowienie|https://www.saos.org.pl/judgments/539210
-479814|2021-04-30|SO|II C 213/17|Zarządzenie|https://www.saos.org.pl/judgments/479814
-300687|2017-07-24|SO|I C 37/17|Wyrok|https://www.saos.org.pl/judgments/300687
-241978|2016-08-18|SO|III APz 20/16|Postanowienie|https://www.saos.org.pl/judgments/241978
-236241|2016-07-26|SO|II K 421/15|Wyrok|https://www.saos.org.pl/judgments/236241
-227123|2015-10-29|SO|I C 415/15|Wyrok|https://www.saos.org.pl/judgments/227123
-144016|2014-02-20|SO|II Ca 1306/13|Postanowienie|https://www.saos.org.pl/judgments/144016
-7198|2013-02-28|SO|IX C 1117/12|Wyrok|https://www.saos.org.pl/judgments/7198
-205667|1995-12-12|TK|U 6/95|Wyrok|https://www.saos.org.pl/judgments/205667
+saos_id|date|court|case_number|type|score|saos_url
+205667|1995-12-12|TK|U 6/95|Wyrok|98|https://www.saos.org.pl/judgments/205667
+241978|2016-08-18|SO|III APz 20/16|Postanowienie|47|https://www.saos.org.pl/judgments/241978

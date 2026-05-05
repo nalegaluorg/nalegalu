@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-297707|2016-12-16|SO|II AKa 398/16|Wyrok|https://www.saos.org.pl/judgments/297707
-208327|2015-12-01|SO|IV Ka 182/15|Uzasadnienie|https://www.saos.org.pl/judgments/208327
+saos_id|date|court|case_number|type|score|saos_url
+297707|2016-12-16|SO|II AKa 398/16|Wyrok|56|https://www.saos.org.pl/judgments/297707

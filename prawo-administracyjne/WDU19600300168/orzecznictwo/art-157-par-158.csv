@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-377401|2017-11-22|SO|I C 939/16|Wyrok|https://www.saos.org.pl/judgments/377401
-3851|2012-11-29|SO|I ACa 355/12|Wyrok|https://www.saos.org.pl/judgments/3851
+saos_id|date|court|case_number|type|score|saos_url
+3851|2012-11-29|SO|I ACa 355/12|Wyrok|56|https://www.saos.org.pl/judgments/3851

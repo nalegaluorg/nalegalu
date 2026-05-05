@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-341239|2018-05-23|SO|VIII Gz 123/18|Postanowienie|https://www.saos.org.pl/judgments/341239
-286257|2016-04-19|SO|I C 1247/15|Postanowienie|https://www.saos.org.pl/judgments/286257
-293582|2016-01-18|SO|I C 1275/15|Postanowienie|https://www.saos.org.pl/judgments/293582
-171459|2015-06-16|SO|VI Ga 54/13|Wyrok|https://www.saos.org.pl/judgments/171459
-158324|2015-05-07|SO|I C 570/07|Wyrok|https://www.saos.org.pl/judgments/158324
-148945|2015-02-05|SO|XVII AmC 6959/13|Wyrok|https://www.saos.org.pl/judgments/148945
-126641|2014-10-15|SO|VI ACa 1442/13|Wyrok|https://www.saos.org.pl/judgments/126641
-381442|2009-01-22|SO|V ACa 551/08|Wyrok|https://www.saos.org.pl/judgments/381442
+saos_id|date|court|case_number|type|score|saos_url
+126641|2014-10-15|SO|VI ACa 1442/13|Wyrok|56|https://www.saos.org.pl/judgments/126641
+381442|2009-01-22|SO|V ACa 551/08|Wyrok|56|https://www.saos.org.pl/judgments/381442
+171459|2015-06-16|SO|VI Ga 54/13|Wyrok|40|https://www.saos.org.pl/judgments/171459

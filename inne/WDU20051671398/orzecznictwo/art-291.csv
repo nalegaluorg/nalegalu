@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-42543|2013-12-04|SO|I ACz 2106/13|Postanowienie|https://www.saos.org.pl/judgments/42543
+saos_id|date|court|case_number|type|score|saos_url
+42543|2013-12-04|SO|I ACz 2106/13|Postanowienie|47|https://www.saos.org.pl/judgments/42543

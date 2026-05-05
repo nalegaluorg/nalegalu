@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-198327|2016-01-08|SO|VI Gz 301/15|Postanowienie|https://www.saos.org.pl/judgments/198327
-26669|2013-11-05|SO|IV Ka 540/13|Wyrok|https://www.saos.org.pl/judgments/26669
+saos_id|date|court|case_number|type|score|saos_url
+198327|2016-01-08|SO|VI Gz 301/15|Postanowienie|31|https://www.saos.org.pl/judgments/198327

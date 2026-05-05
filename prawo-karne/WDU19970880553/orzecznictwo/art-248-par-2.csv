@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-538762|2025-12-16|SO|VI Ka 522/25|Wyrok|https://www.saos.org.pl/judgments/538762
-484445|2020-09-30|SO|III APa 112/19|Wyrok|https://www.saos.org.pl/judgments/484445
-411612|2019-04-25|SO|XII K 186/18|Wyrok|https://www.saos.org.pl/judgments/411612
-396846|2019-03-06|SO|I AGa 307/18|Wyrok|https://www.saos.org.pl/judgments/396846
-236307|2016-06-30|SO|V Pa 56/16|Wyrok|https://www.saos.org.pl/judgments/236307
-223384|2016-03-31|SO|VI P 19/16|Wyrok|https://www.saos.org.pl/judgments/223384
-165959|2014-06-05|SN|WA 18/14|Wyrok|https://www.saos.org.pl/judgments/165959
-56823|2014-05-15|SO|III K 175/13|Wyrok|https://www.saos.org.pl/judgments/56823
-49218|2014-04-17|SO|VIII Ga 30/14|Wyrok|https://www.saos.org.pl/judgments/49218
-24227|2013-09-30|SO|I ACa 420/13|Wyrok|https://www.saos.org.pl/judgments/24227
-28388|2013-09-11|SO|I ACa 522/13|Wyrok|https://www.saos.org.pl/judgments/28388
-98705|2012-07-17|SN|SNO 32/12|Postanowienie|https://www.saos.org.pl/judgments/98705
-94485|2011-03-15|SN|WZ 8/11|Postanowienie|https://www.saos.org.pl/judgments/94485
-20529|2009-01-30|SO|I ACa 1347/08|Wyrok|https://www.saos.org.pl/judgments/20529
+saos_id|date|court|case_number|type|score|saos_url
+165959|2014-06-05|SN|WA 18/14|Wyrok|78|https://www.saos.org.pl/judgments/165959
+98705|2012-07-17|SN|SNO 32/12|Postanowienie|69|https://www.saos.org.pl/judgments/98705
+94485|2011-03-15|SN|WZ 8/11|Postanowienie|69|https://www.saos.org.pl/judgments/94485
+484445|2020-09-30|SO|III APa 112/19|Wyrok|56|https://www.saos.org.pl/judgments/484445
+396846|2019-03-06|SO|I AGa 307/18|Wyrok|56|https://www.saos.org.pl/judgments/396846
+24227|2013-09-30|SO|I ACa 420/13|Wyrok|56|https://www.saos.org.pl/judgments/24227
+28388|2013-09-11|SO|I ACa 522/13|Wyrok|56|https://www.saos.org.pl/judgments/28388
+20529|2009-01-30|SO|I ACa 1347/08|Wyrok|56|https://www.saos.org.pl/judgments/20529
+538762|2025-12-16|SO|VI Ka 522/25|Wyrok|40|https://www.saos.org.pl/judgments/538762
+236307|2016-06-30|SO|V Pa 56/16|Wyrok|40|https://www.saos.org.pl/judgments/236307
+56823|2014-05-15|SO|III K 175/13|Wyrok|40|https://www.saos.org.pl/judgments/56823

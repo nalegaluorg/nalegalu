@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-319664|2017-11-23|SO|II K 150/17|Wyrok|https://www.saos.org.pl/judgments/319664
-156886|2015-04-22|SO|I ACa 5/15|Wyrok|https://www.saos.org.pl/judgments/156886
+saos_id|date|court|case_number|type|score|saos_url
+156886|2015-04-22|SO|I ACa 5/15|Wyrok|56|https://www.saos.org.pl/judgments/156886

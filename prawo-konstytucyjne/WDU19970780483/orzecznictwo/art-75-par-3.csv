@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-434075|2021-03-18|SO|IV Cz 451/20|Uzasadnienie|https://www.saos.org.pl/judgments/434075
-30048|2013-11-22|SO|V Ka 806/13|Uzasadnienie|https://www.saos.org.pl/judgments/30048
-30043|2013-11-08|SO|V Ka 659/13|Uzasadnienie|https://www.saos.org.pl/judgments/30043
-24893|2013-11-05|SO|II Ca 995/13|Wyrok|https://www.saos.org.pl/judgments/24893
-24943|2013-11-04|SO|V Ka 751/13|Uzasadnienie|https://www.saos.org.pl/judgments/24943
-24890|2013-10-28|SO|II Ca 834/13|Wyrok|https://www.saos.org.pl/judgments/24890
+saos_id|date|court|case_number|type|score|saos_url
+30048|2013-11-22|SO|V Ka 806/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/30048
+30043|2013-11-08|SO|V Ka 659/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/30043
+24943|2013-11-04|SO|V Ka 751/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/24943

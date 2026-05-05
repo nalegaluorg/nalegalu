@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-312992|2017-08-31|SO|VII Kz 360/17|Postanowienie|https://www.saos.org.pl/judgments/312992
-83235|2005-02-25|SN|I KZP 35/04|Uchwała|https://www.saos.org.pl/judgments/83235
+saos_id|date|court|case_number|type|score|saos_url
+83235|2005-02-25|SN|I KZP 35/04|Uchwała|89|https://www.saos.org.pl/judgments/83235
+312992|2017-08-31|SO|VII Kz 360/17|Postanowienie|31|https://www.saos.org.pl/judgments/312992

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-277376|2016-12-19|SO|I C 316/14|Uzasadnienie|https://www.saos.org.pl/judgments/277376
-50803|2014-05-23|SO|I ACa 1531/13|Wyrok|https://www.saos.org.pl/judgments/50803
+saos_id|date|court|case_number|type|score|saos_url
+50803|2014-05-23|SO|I ACa 1531/13|Wyrok|56|https://www.saos.org.pl/judgments/50803

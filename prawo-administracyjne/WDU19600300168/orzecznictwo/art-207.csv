@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-511944|2023-07-03|SO|VII U 1302/22|Wyrok|https://www.saos.org.pl/judgments/511944
-386361|2019-05-23|SO|I ACa 653/18|Wyrok|https://www.saos.org.pl/judgments/386361
-386644|2019-02-27|SO|XVII AmT 46/16|Wyrok|https://www.saos.org.pl/judgments/386644
-358192|2018-06-18|SO|XVII AmT 8/16|Wyrok|https://www.saos.org.pl/judgments/358192
-279134|2017-01-24|SO|VI ACa 1587/15|Wyrok|https://www.saos.org.pl/judgments/279134
-238895|2015-05-04|SO|XVII AmT 72/13|Wyrok|https://www.saos.org.pl/judgments/238895
-63717|2014-09-11|SO|XVII AmT 41/12|Uzasadnienie|https://www.saos.org.pl/judgments/63717
-408146|2014-07-11|SO|XVII AmT 41/12|Wyrok|https://www.saos.org.pl/judgments/408146
-54123|2013-09-19|SO|VI ACa 173/13|Wyrok|https://www.saos.org.pl/judgments/54123
-20472|2011-11-29|SO|VI ACa 553/11|Wyrok|https://www.saos.org.pl/judgments/20472
-77067|1996-02-08|SN|III ARN 64/95|Wyrok|https://www.saos.org.pl/judgments/77067
-77066|1996-02-08|SN|III ARN 62/95|Postanowienie|https://www.saos.org.pl/judgments/77066
-76717|1994-12-01|SN|III ARN 64/94|Wyrok|https://www.saos.org.pl/judgments/76717
-76658|1994-10-05|SN|III ARN 51/94|Wyrok|https://www.saos.org.pl/judgments/76658
+saos_id|date|court|case_number|type|score|saos_url
+77067|1996-02-08|SN|III ARN 64/95|Wyrok|78|https://www.saos.org.pl/judgments/77067
+76717|1994-12-01|SN|III ARN 64/94|Wyrok|78|https://www.saos.org.pl/judgments/76717
+76658|1994-10-05|SN|III ARN 51/94|Wyrok|78|https://www.saos.org.pl/judgments/76658
+77066|1996-02-08|SN|III ARN 62/95|Postanowienie|69|https://www.saos.org.pl/judgments/77066
+386361|2019-05-23|SO|I ACa 653/18|Wyrok|56|https://www.saos.org.pl/judgments/386361
+279134|2017-01-24|SO|VI ACa 1587/15|Wyrok|56|https://www.saos.org.pl/judgments/279134
+54123|2013-09-19|SO|VI ACa 173/13|Wyrok|56|https://www.saos.org.pl/judgments/54123
+20472|2011-11-29|SO|VI ACa 553/11|Wyrok|56|https://www.saos.org.pl/judgments/20472
+511944|2023-07-03|SO|VII U 1302/22|Wyrok|40|https://www.saos.org.pl/judgments/511944

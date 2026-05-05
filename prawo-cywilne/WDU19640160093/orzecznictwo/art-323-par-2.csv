@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-247849|2016-05-18|SO|XIII GC 1079/15|Wyrok|https://www.saos.org.pl/judgments/247849
-101120|2013-03-21|SN|II CSK 396/12|Postanowienie|https://www.saos.org.pl/judgments/101120
+saos_id|date|court|case_number|type|score|saos_url
+101120|2013-03-21|SN|II CSK 396/12|Postanowienie|69|https://www.saos.org.pl/judgments/101120
+247849|2016-05-18|SO|XIII GC 1079/15|Wyrok|40|https://www.saos.org.pl/judgments/247849

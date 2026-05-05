@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-9483|2013-03-21|SO|III AUa 1888/12|Wyrok|https://www.saos.org.pl/judgments/9483
-1706|2012-07-26|SO|III AUa 549/12|Wyrok|https://www.saos.org.pl/judgments/1706
+saos_id|date|court|case_number|type|score|saos_url
+9483|2013-03-21|SO|III AUa 1888/12|Wyrok|56|https://www.saos.org.pl/judgments/9483
+1706|2012-07-26|SO|III AUa 549/12|Wyrok|56|https://www.saos.org.pl/judgments/1706

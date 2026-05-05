@@ -1,14 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-288222|2017-06-01|SO|VI Cz 623/17|Postanowienie|https://www.saos.org.pl/judgments/288222
-252728|2016-10-20|SO|VI Cz 1378/16|Postanowienie|https://www.saos.org.pl/judgments/252728
-31716|2013-11-25|SO|III AUz 221/13|Postanowienie|https://www.saos.org.pl/judgments/31716
-163998|2006-02-03|SN|I CZ 142/05|Postanowienie|https://www.saos.org.pl/judgments/163998
-163591|2005-10-05|SN|II CZ 84/05|Postanowienie|https://www.saos.org.pl/judgments/163591
-82775|2004-07-21|SN|V CZ 67/04|Postanowienie|https://www.saos.org.pl/judgments/82775
-80914|2001-10-17|SN|III CZ 98/01|Postanowienie|https://www.saos.org.pl/judgments/80914
-80249|2001-01-17|SN|II UZ 145/00|Postanowienie|https://www.saos.org.pl/judgments/80249
-79467|2000-01-11|SN|I PZ 81/99|Postanowienie|https://www.saos.org.pl/judgments/79467
-79457|1999-12-20|SN|I PZ 60/99|Postanowienie|https://www.saos.org.pl/judgments/79457
-79186|1999-07-27|SN|II UZ 73/99|Postanowienie|https://www.saos.org.pl/judgments/79186
-78745|1998-12-09|SN|II CZ 143/98|Postanowienie|https://www.saos.org.pl/judgments/78745
-78327|1998-05-11|SN|II UZ 30/98|Postanowienie|https://www.saos.org.pl/judgments/78327
+saos_id|date|court|case_number|type|score|saos_url
+163998|2006-02-03|SN|I CZ 142/05|Postanowienie|69|https://www.saos.org.pl/judgments/163998
+163591|2005-10-05|SN|II CZ 84/05|Postanowienie|69|https://www.saos.org.pl/judgments/163591
+82775|2004-07-21|SN|V CZ 67/04|Postanowienie|69|https://www.saos.org.pl/judgments/82775
+80914|2001-10-17|SN|III CZ 98/01|Postanowienie|69|https://www.saos.org.pl/judgments/80914
+80249|2001-01-17|SN|II UZ 145/00|Postanowienie|69|https://www.saos.org.pl/judgments/80249
+79467|2000-01-11|SN|I PZ 81/99|Postanowienie|69|https://www.saos.org.pl/judgments/79467
+79457|1999-12-20|SN|I PZ 60/99|Postanowienie|69|https://www.saos.org.pl/judgments/79457
+79186|1999-07-27|SN|II UZ 73/99|Postanowienie|69|https://www.saos.org.pl/judgments/79186
+78745|1998-12-09|SN|II CZ 143/98|Postanowienie|69|https://www.saos.org.pl/judgments/78745
+78327|1998-05-11|SN|II UZ 30/98|Postanowienie|69|https://www.saos.org.pl/judgments/78327
+31716|2013-11-25|SO|III AUz 221/13|Postanowienie|47|https://www.saos.org.pl/judgments/31716
+288222|2017-06-01|SO|VI Cz 623/17|Postanowienie|31|https://www.saos.org.pl/judgments/288222
+252728|2016-10-20|SO|VI Cz 1378/16|Postanowienie|31|https://www.saos.org.pl/judgments/252728

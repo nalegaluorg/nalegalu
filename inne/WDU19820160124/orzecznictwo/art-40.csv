@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-12817|2013-04-04|SO|IX C 1187/12|Wyrok|https://www.saos.org.pl/judgments/12817
-106745|2004-02-18|TK|P 21/02|Wyrok|https://www.saos.org.pl/judgments/106745
+saos_id|date|court|case_number|type|score|saos_url
+106745|2004-02-18|TK|P 21/02|Wyrok|98|https://www.saos.org.pl/judgments/106745

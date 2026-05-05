@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-90808|2009-09-04|SN|III CZP 52/09|Uchwała|https://www.saos.org.pl/judgments/90808
-84010|2006-01-11|SN|III CZP 119/05|Uchwała|https://www.saos.org.pl/judgments/84010
+saos_id|date|court|case_number|type|score|saos_url
+90808|2009-09-04|SN|III CZP 52/09|Uchwała|89|https://www.saos.org.pl/judgments/90808
+84010|2006-01-11|SN|III CZP 119/05|Uchwała|89|https://www.saos.org.pl/judgments/84010

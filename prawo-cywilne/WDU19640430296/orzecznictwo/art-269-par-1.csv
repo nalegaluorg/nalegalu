@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-338685|2018-04-27|SO|IV Pa 17/18|Wyrok|https://www.saos.org.pl/judgments/338685
-340723|2018-04-12|SO|III AUa 454/17|Wyrok|https://www.saos.org.pl/judgments/340723
-327933|2018-01-30|SO|III AUa 211/17|Wyrok|https://www.saos.org.pl/judgments/327933
-296607|2017-02-03|SO|IV P 163/16|Wyrok|https://www.saos.org.pl/judgments/296607
-514|2008-01-09|SO|V ACa 799/07|Wyrok|https://www.saos.org.pl/judgments/514
+saos_id|date|court|case_number|type|score|saos_url
+340723|2018-04-12|SO|III AUa 454/17|Wyrok|56|https://www.saos.org.pl/judgments/340723
+327933|2018-01-30|SO|III AUa 211/17|Wyrok|56|https://www.saos.org.pl/judgments/327933
+514|2008-01-09|SO|V ACa 799/07|Wyrok|56|https://www.saos.org.pl/judgments/514

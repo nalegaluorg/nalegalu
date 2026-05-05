@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-53330|2014-06-05|SO|I ACa 200/14|Wyrok|https://www.saos.org.pl/judgments/53330
-17818|2013-03-27|SO|I ACa 900/12|Wyrok|https://www.saos.org.pl/judgments/17818
-164049|2006-02-14|SN|II CK 403/05|Wyrok|https://www.saos.org.pl/judgments/164049
+saos_id|date|court|case_number|type|score|saos_url
+164049|2006-02-14|SN|II CK 403/05|Wyrok|78|https://www.saos.org.pl/judgments/164049
+53330|2014-06-05|SO|I ACa 200/14|Wyrok|56|https://www.saos.org.pl/judgments/53330
+17818|2013-03-27|SO|I ACa 900/12|Wyrok|56|https://www.saos.org.pl/judgments/17818

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 4 listopada 1999 r. o zmianie ustawy o n
 
 ## art. 1 (1)
 
-- 2000-10-10 | TK | [P 8/99](https://www.saos.org.pl/judgments/206032) | Wyrok
+- 2000-10-10 | TK | [P 8/99](https://www.saos.org.pl/judgments/206032) | Wyrok ★
 

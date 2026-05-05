@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-438992|2018-05-07|SO|II Ko 24/17|Wyrok|https://www.saos.org.pl/judgments/438992
-133330|2015-02-26|SO|VI Ka 6/15|Wyrok|https://www.saos.org.pl/judgments/133330
-66630|2014-10-22|SO|IV Ka 808/14|Wyrok|https://www.saos.org.pl/judgments/66630
-51022|2014-06-06|SO|IV Ka 405/14|Wyrok|https://www.saos.org.pl/judgments/51022
-56587|2014-05-13|SO|VI Ka 639/13|Wyrok|https://www.saos.org.pl/judgments/56587
-103459|2013-11-07|SN|SNO 28/13|Wyrok|https://www.saos.org.pl/judgments/103459
-136387|2012-11-14|SO|II AKa 311/12|Wyrok|https://www.saos.org.pl/judgments/136387
-417851|2006-12-07|SO|II AKa 344/06|Wyrok|https://www.saos.org.pl/judgments/417851
+saos_id|date|court|case_number|type|score|saos_url
+103459|2013-11-07|SN|SNO 28/13|Wyrok|78|https://www.saos.org.pl/judgments/103459
+136387|2012-11-14|SO|II AKa 311/12|Wyrok|56|https://www.saos.org.pl/judgments/136387
+417851|2006-12-07|SO|II AKa 344/06|Wyrok|56|https://www.saos.org.pl/judgments/417851
+51022|2014-06-06|SO|IV Ka 405/14|Wyrok|40|https://www.saos.org.pl/judgments/51022

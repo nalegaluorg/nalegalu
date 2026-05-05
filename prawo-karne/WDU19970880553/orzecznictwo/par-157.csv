@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-470884|2022-06-02|SO|IV Ka 392/22|Uzasadnienie|https://www.saos.org.pl/judgments/470884
-309002|2017-06-01|SO|II AKa 65/17|Wyrok|https://www.saos.org.pl/judgments/309002
+saos_id|date|court|case_number|type|score|saos_url
+309002|2017-06-01|SO|II AKa 65/17|Wyrok|56|https://www.saos.org.pl/judgments/309002

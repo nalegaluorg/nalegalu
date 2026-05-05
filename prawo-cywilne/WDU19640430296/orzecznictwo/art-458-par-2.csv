@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-539620|2025-08-20|SO|V ACz 570/24|Postanowienie|https://www.saos.org.pl/judgments/539620
-320756|2017-04-12|SO|I C 2229/16|Zarządzenie|https://www.saos.org.pl/judgments/320756
-94127|2011-02-01|SN|III CZP 78/10|Uchwała|https://www.saos.org.pl/judgments/94127
-80206|2001-01-05|SN|I CKN 1180/00|Postanowienie|https://www.saos.org.pl/judgments/80206
-78222|1998-03-24|SN|I PKN 97/98|Postanowienie|https://www.saos.org.pl/judgments/78222
+saos_id|date|court|case_number|type|score|saos_url
+94127|2011-02-01|SN|III CZP 78/10|Uchwała|96|https://www.saos.org.pl/judgments/94127
+80206|2001-01-05|SN|I CKN 1180/00|Postanowienie|69|https://www.saos.org.pl/judgments/80206
+78222|1998-03-24|SN|I PKN 97/98|Postanowienie|69|https://www.saos.org.pl/judgments/78222
+539620|2025-08-20|SO|V ACz 570/24|Postanowienie|47|https://www.saos.org.pl/judgments/539620

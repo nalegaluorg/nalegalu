@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-448464|2021-07-07|SO|III Kow 754/21|Postanowienie|https://www.saos.org.pl/judgments/448464
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-111952|2013-05-08|TK|Ts 210/12|Postanowienie|https://www.saos.org.pl/judgments/111952
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-10486|2011-09-09|SO|I ACa 733/11|Wyrok|https://www.saos.org.pl/judgments/10486
+saos_id|date|court|case_number|type|score|saos_url
+111952|2013-05-08|TK|Ts 210/12|Postanowienie|80|https://www.saos.org.pl/judgments/111952
+10486|2011-09-09|SO|I ACa 733/11|Wyrok|56|https://www.saos.org.pl/judgments/10486
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113

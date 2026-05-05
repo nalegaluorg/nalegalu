@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-267271|2016-11-29|SO|I ACa 1668/16|Wyrok|https://www.saos.org.pl/judgments/267271
+saos_id|date|court|case_number|type|score|saos_url
+267271|2016-11-29|SO|I ACa 1668/16|Wyrok|56|https://www.saos.org.pl/judgments/267271

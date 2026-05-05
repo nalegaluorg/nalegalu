@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-244959|2016-03-23|SN|III CZP 102/15|Uchwała|https://www.saos.org.pl/judgments/244959
-245655|2014-05-23|SN|II PK 31/14|Postanowienie|https://www.saos.org.pl/judgments/245655
-48077|2014-04-28|SO|I ACa 828/13|Wyrok|https://www.saos.org.pl/judgments/48077
-49301|2014-04-24|SO|V Pa 38/14|Wyrok|https://www.saos.org.pl/judgments/49301
-102768|2013-09-04|SN|II PK 366/12|Wyrok|https://www.saos.org.pl/judgments/102768
-13237|2013-05-15|SO|I ACa 134/13|Wyrok|https://www.saos.org.pl/judgments/13237
-96910|2012-01-23|SN|II PK 251/11|Postanowienie|https://www.saos.org.pl/judgments/96910
+saos_id|date|court|case_number|type|score|saos_url
+244959|2016-03-23|SN|III CZP 102/15|Uchwała|89|https://www.saos.org.pl/judgments/244959
+102768|2013-09-04|SN|II PK 366/12|Wyrok|78|https://www.saos.org.pl/judgments/102768
+245655|2014-05-23|SN|II PK 31/14|Postanowienie|69|https://www.saos.org.pl/judgments/245655
+96910|2012-01-23|SN|II PK 251/11|Postanowienie|69|https://www.saos.org.pl/judgments/96910
+48077|2014-04-28|SO|I ACa 828/13|Wyrok|56|https://www.saos.org.pl/judgments/48077
+13237|2013-05-15|SO|I ACa 134/13|Wyrok|56|https://www.saos.org.pl/judgments/13237
+49301|2014-04-24|SO|V Pa 38/14|Wyrok|40|https://www.saos.org.pl/judgments/49301

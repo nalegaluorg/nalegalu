@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-376185|2019-02-27|SO|X P 189/18|Wyrok|https://www.saos.org.pl/judgments/376185
-151406|2015-03-23|SO|X P 1251/14|Wyrok|https://www.saos.org.pl/judgments/151406
-129715|2014-10-20|SO|VI P 996/12|Wyrok|https://www.saos.org.pl/judgments/129715
+saos_id|date|court|case_number|type|score|saos_url
+129715|2014-10-20|SO|VI P 996/12|Wyrok|40|https://www.saos.org.pl/judgments/129715

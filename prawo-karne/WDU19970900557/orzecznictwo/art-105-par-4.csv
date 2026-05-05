@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-527992|2025-05-08|SO|I C 888/24|Wyrok|https://www.saos.org.pl/judgments/527992
-509757|2023-05-31|SO|V ACa 288/21|Wyrok|https://www.saos.org.pl/judgments/509757
-349186|2018-05-09|SO|I C 2365/16|Wyrok|https://www.saos.org.pl/judgments/349186
-260385|2016-11-10|SO|I ACa 694/16|Wyrok|https://www.saos.org.pl/judgments/260385
-398022|2016-03-18|SO|I C 1362/13|Wyrok|https://www.saos.org.pl/judgments/398022
-171335|2015-06-30|SO|I C 74/15|Wyrok|https://www.saos.org.pl/judgments/171335
-109439|2009-10-08|TK|Ts 247/07|Postanowienie|https://www.saos.org.pl/judgments/109439
-109438|2009-07-14|TK|Ts 247/07|Postanowienie|https://www.saos.org.pl/judgments/109438
+saos_id|date|court|case_number|type|score|saos_url
+109439|2009-10-08|TK|Ts 247/07|Postanowienie|80|https://www.saos.org.pl/judgments/109439
+109438|2009-07-14|TK|Ts 247/07|Postanowienie|80|https://www.saos.org.pl/judgments/109438
+509757|2023-05-31|SO|V ACa 288/21|Wyrok|56|https://www.saos.org.pl/judgments/509757
+260385|2016-11-10|SO|I ACa 694/16|Wyrok|56|https://www.saos.org.pl/judgments/260385

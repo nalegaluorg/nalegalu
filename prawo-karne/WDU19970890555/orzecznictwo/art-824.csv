@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-457356|2021-12-24|SO|II AKa 122/21|Uzasadnienie|https://www.saos.org.pl/judgments/457356
-246216|2016-01-05|SO|IV Ka 637/15|Wyrok|https://www.saos.org.pl/judgments/246216
+saos_id|date|court|case_number|type|score|saos_url
+457356|2021-12-24|SO|II AKa 122/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/457356

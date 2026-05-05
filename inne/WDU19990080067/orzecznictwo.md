@@ -2,108 +2,134 @@
 
 Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dnia 18 października 1961 r.*
 
-Łącznie: **265** orzeczeń
+Łącznie: **262** orzeczeń
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
-- 2011-05-05 | TK | [P 110/08](https://www.saos.org.pl/judgments/110302) | Wyrok
-- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok
+- 2011-05-05 | TK | [P 110/08](https://www.saos.org.pl/judgments/110302) | Wyrok ★
+- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok ★
 
 ## art. 2 (2)
 
-- 2015-09-29 | TK | [K 14/14](https://www.saos.org.pl/judgments/206666) | Wyrok
-- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie
+- 2015-09-29 | TK | [K 14/14](https://www.saos.org.pl/judgments/206666) | Wyrok ★
+- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie ★
 
 ## art. 4 (5)
 
-- 2014-01-21 | TK | [P 26/12](https://www.saos.org.pl/judgments/160153) | Wyrok
-- 2011-05-05 | TK | [P 110/08](https://www.saos.org.pl/judgments/110302) | Wyrok
-- 2006-05-29 | SN | [I PK 230/05](https://www.saos.org.pl/judgments/84345) | Wyrok
+- 2014-01-21 | TK | [P 26/12](https://www.saos.org.pl/judgments/160153) | Wyrok ★
+- 2011-05-05 | TK | [P 110/08](https://www.saos.org.pl/judgments/110302) | Wyrok ★
+- 2006-05-29 | SN | [I PK 230/05](https://www.saos.org.pl/judgments/84345) | Wyrok ★
+- 2002-11-26 | SN | [I PKN 632/01](https://www.saos.org.pl/judgments/81713) | Wyrok ★
 - 2004-01-12 | SN | [I PZ 109/03](https://www.saos.org.pl/judgments/82425) | Postanowienie
-- 2002-11-26 | SN | [I PKN 632/01](https://www.saos.org.pl/judgments/81713) | Wyrok
 
 ## art. 5 (2)
 
-- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok
-- 2008-05-13 | TK | [P 50/07](https://www.saos.org.pl/judgments/108599) | Wyrok
+- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok ★
+- 2008-05-13 | TK | [P 50/07](https://www.saos.org.pl/judgments/108599) | Wyrok ★
 
 ## art. 6 (8)
 
-- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok
-- 2014-03-11 | SN | [III PK 78/13](https://www.saos.org.pl/judgments/165671) | Wyrok
-- 2013-05-22 | TK | [P 46/11](https://www.saos.org.pl/judgments/111640) | Wyrok
-- 2011-03-08 | SN | [II PK 165/10](https://www.saos.org.pl/judgments/94391) | Wyrok
-- 2008-01-04 | SN | [I PZP 9/07](https://www.saos.org.pl/judgments/86960) | Uchwała
-- 2005-08-23 | SN | [I PK 24/05](https://www.saos.org.pl/judgments/83689) | Wyrok
-- 2002-11-18 | TK | [K 37/01](https://www.saos.org.pl/judgments/106272) | Wyrok
-- 2002-10-09 | TK | [K 37/01](https://www.saos.org.pl/judgments/106271) | Postanowienie
+- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok ★
+- 2013-05-22 | TK | [P 46/11](https://www.saos.org.pl/judgments/111640) | Wyrok ★
+- 2002-11-18 | TK | [K 37/01](https://www.saos.org.pl/judgments/106272) | Wyrok ★
+- 2008-01-04 | SN | [I PZP 9/07](https://www.saos.org.pl/judgments/86960) | Uchwała ★
+- 2002-10-09 | TK | [K 37/01](https://www.saos.org.pl/judgments/106271) | Postanowienie ★
+- 2014-03-11 | SN | [III PK 78/13](https://www.saos.org.pl/judgments/165671) | Wyrok ★
+- 2011-03-08 | SN | [II PK 165/10](https://www.saos.org.pl/judgments/94391) | Wyrok ★
+- 2005-08-23 | SN | [I PK 24/05](https://www.saos.org.pl/judgments/83689) | Wyrok ★
 
 ## art. 10 (1)
 
-- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok
+- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok ★
 
 ## art. 12 (10)
 
-- 2015-05-27 | TK | [Tw 36/14](https://www.saos.org.pl/judgments/207125) | Postanowienie
-- 2015-03-11 | TK | [Tw 36/14](https://www.saos.org.pl/judgments/207124) | Postanowienie
-- 2014-03-26 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160509) | Postanowienie
-- 2013-12-17 | TK | [SK 29/12](https://www.saos.org.pl/judgments/111680) | Wyrok
-- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie
-- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok
-- 2012-03-12 | TK | [Ts 222/10](https://www.saos.org.pl/judgments/206342) | Postanowienie
-- 2008-02-19 | TK | [K 20/05](https://www.saos.org.pl/judgments/108527) | Postanowienie
-- 2007-04-13 | SN | [I CSK 488/06](https://www.saos.org.pl/judgments/85637) | Wyrok
-- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok
+- 2013-12-17 | TK | [SK 29/12](https://www.saos.org.pl/judgments/111680) | Wyrok ★
+- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok ★
+- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok ★
+- 2015-05-27 | TK | [Tw 36/14](https://www.saos.org.pl/judgments/207125) | Postanowienie ★
+- 2015-03-11 | TK | [Tw 36/14](https://www.saos.org.pl/judgments/207124) | Postanowienie ★
+- 2014-03-26 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160509) | Postanowienie ★
+- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie ★
+- 2012-03-12 | TK | [Ts 222/10](https://www.saos.org.pl/judgments/206342) | Postanowienie ★
+- 2008-02-19 | TK | [K 20/05](https://www.saos.org.pl/judgments/108527) | Postanowienie ★
+- 2007-04-13 | SN | [I CSK 488/06](https://www.saos.org.pl/judgments/85637) | Wyrok ★
 
 ## art. 13 (2)
 
-- 2013-07-23 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111919) | Postanowienie
-- 2013-04-24 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111918) | Postanowienie
+- 2013-07-23 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111919) | Postanowienie ★
+- 2013-04-24 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111918) | Postanowienie ★
 
 ## art. 15 (1)
 
-- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok
+- 2006-06-12 | TK | [K 38/05](https://www.saos.org.pl/judgments/107606) | Wyrok ★
 
 ## art. 16 (2)
 
-- 2013-07-23 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111919) | Postanowienie
-- 2013-04-24 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111918) | Postanowienie
+- 2013-07-23 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111919) | Postanowienie ★
+- 2013-04-24 | TK | [Ts 182/12](https://www.saos.org.pl/judgments/111918) | Postanowienie ★
 
 ## art. 17 (1)
 
-- 2005-11-09 | TK | [K 14/04](https://www.saos.org.pl/judgments/107163) | Postanowienie
+- 2005-11-09 | TK | [K 14/04](https://www.saos.org.pl/judgments/107163) | Postanowienie ★
 
 ## art. 30 (4)
 
-- 2014-03-26 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160509) | Postanowienie
-- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie
-- 2008-04-01 | TK | [SK 96/06](https://www.saos.org.pl/judgments/108688) | Wyrok
-- 2007-04-13 | SN | [I CSK 488/06](https://www.saos.org.pl/judgments/85637) | Wyrok
+- 2008-04-01 | TK | [SK 96/06](https://www.saos.org.pl/judgments/108688) | Wyrok ★
+- 2014-03-26 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160509) | Postanowienie ★
+- 2013-05-08 | TK | [Tw 50/12](https://www.saos.org.pl/judgments/160132) | Postanowienie ★
+- 2007-04-13 | SN | [I CSK 488/06](https://www.saos.org.pl/judgments/85637) | Wyrok ★
 
 ## art. 31 (1)
 
-- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok
+- 2015-11-17 | TK | [K 5/15](https://www.saos.org.pl/judgments/206661) | Wyrok ★
 
 ## art. 74 (1)
 
-- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok
+- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok ★
 
 ## § 11 ust. 1 (1)
 
-- 2006-08-29 | TK | [SK 23/05](https://www.saos.org.pl/judgments/107676) | Wyrok
+- 2006-08-29 | TK | [SK 23/05](https://www.saos.org.pl/judgments/107676) | Wyrok ★
 
 ## § 154 (1)
 
-- 2009-04-28 | TK | [K 27/07](https://www.saos.org.pl/judgments/108975) | Wyrok
+- 2009-04-28 | TK | [K 27/07](https://www.saos.org.pl/judgments/108975) | Wyrok ★
 
 ## § 157 (1)
 
-- 2009-04-28 | TK | [K 27/07](https://www.saos.org.pl/judgments/108975) | Wyrok
+- 2009-04-28 | TK | [K 27/07](https://www.saos.org.pl/judgments/108975) | Wyrok ★
 
-## (ogólnie) (234)
+## (ogólnie) (231)
 
-- 2023-06-14 | SO | [VIII U 100/23](https://www.saos.org.pl/judgments/490371) | Uzasadnienie
+- 2021-06-11 | SO | [III AUa 1595/20](https://www.saos.org.pl/judgments/447071) | Wyrok
 - 2023-05-22 | SO | [IV U 57/23](https://www.saos.org.pl/judgments/490838) | Wyrok
+- 2022-09-16 | SO | [IV U 591/22](https://www.saos.org.pl/judgments/475545) | Wyrok
+- 2022-06-08 | SO | [IV U 355/22](https://www.saos.org.pl/judgments/471053) | Wyrok
+- 2022-05-27 | SO | [IV U 349/22](https://www.saos.org.pl/judgments/468424) | Wyrok
+- 2022-05-10 | SO | [IV U 301/22](https://www.saos.org.pl/judgments/467038) | Wyrok
+- 2022-04-01 | SO | [IV U 122/22](https://www.saos.org.pl/judgments/464898) | Wyrok
+- 2021-10-21 | SO | [IV U 769/21](https://www.saos.org.pl/judgments/452831) | Wyrok
+- 2021-09-16 | SO | [IV U 718/21](https://www.saos.org.pl/judgments/449506) | Wyrok
+- 2021-09-03 | SO | [IV U 591/21](https://www.saos.org.pl/judgments/449118) | Wyrok
+- 2021-02-23 | SO | [VII U 3928/19](https://www.saos.org.pl/judgments/435250) | Wyrok
+- 2020-10-22 | SO | [VII U 595/19](https://www.saos.org.pl/judgments/435252) | Wyrok
+- 2020-07-06 | SO | [VII U 2542/19](https://www.saos.org.pl/judgments/435246) | Wyrok
+- 2020-01-08 | SO | [IV U 1787/19](https://www.saos.org.pl/judgments/406071) | Wyrok
+- 2019-12-19 | SO | [VII U 2602/19](https://www.saos.org.pl/judgments/435248) | Wyrok
+- 2019-12-05 | SO | [VII U 802/19](https://www.saos.org.pl/judgments/435253) | Wyrok
+- 2019-10-25 | SO | [IV U 1607/19](https://www.saos.org.pl/judgments/398503) | Wyrok
+- 2019-09-20 | SO | [IV U 826/19](https://www.saos.org.pl/judgments/393770) | Wyrok
+- 2019-08-08 | SO | [IV U 313/19](https://www.saos.org.pl/judgments/392772) | Wyrok
+- 2019-07-30 | SO | [IV U 99/19](https://www.saos.org.pl/judgments/395895) | Wyrok
+- 2019-07-30 | SO | [IV U 699/19](https://www.saos.org.pl/judgments/395162) | Wyrok
+- 2019-07-30 | SO | [IV U 610/19](https://www.saos.org.pl/judgments/394897) | Wyrok
+- 2019-07-30 | SO | [IV U 357/19](https://www.saos.org.pl/judgments/394428) | Wyrok
+- 2019-05-31 | SO | [IV U 202/19](https://www.saos.org.pl/judgments/394896) | Wyrok
+- 2019-05-31 | SO | [IV U 241/19](https://www.saos.org.pl/judgments/388253) | Wyrok
+- 2013-12-20 | SO | [IV U 1470/12](https://www.saos.org.pl/judgments/51921) | Postanowienie
+- 2023-06-14 | SO | [VIII U 100/23](https://www.saos.org.pl/judgments/490371) | Uzasadnienie
 - 2023-04-24 | SO | [VIII U 1985/22](https://www.saos.org.pl/judgments/487516) | Uzasadnienie
 - 2023-04-19 | SO | [VIII U 2293/22](https://www.saos.org.pl/judgments/487529) | Uzasadnienie
 - 2023-04-19 | SO | [VIII U 2291/22](https://www.saos.org.pl/judgments/487526) | Uzasadnienie
@@ -134,7 +160,6 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2022-09-27 | SO | [VIII U 716/22](https://www.saos.org.pl/judgments/476432) | Zarządzenie
 - 2022-09-27 | SO | [VIII U 710/22](https://www.saos.org.pl/judgments/476430) | Zarządzenie
 - 2022-09-27 | SO | [VIII U 708/22](https://www.saos.org.pl/judgments/476425) | Zarządzenie
-- 2022-09-16 | SO | [IV U 591/22](https://www.saos.org.pl/judgments/475545) | Wyrok
 - 2022-09-13 | SO | [VIII U 962/22](https://www.saos.org.pl/judgments/476506) | Zarządzenie
 - 2022-09-13 | SO | [VIII U 505/22](https://www.saos.org.pl/judgments/476485) | Zarządzenie
 - 2022-09-13 | SO | [VIII U 489/22](https://www.saos.org.pl/judgments/476483) | Zarządzenie
@@ -152,17 +177,14 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2022-07-18 | SO | [VIII U 90/22](https://www.saos.org.pl/judgments/473920) | Uzasadnienie
 - 2022-06-22 | SO | [VIII U 195/22](https://www.saos.org.pl/judgments/474238) | Uzasadnienie
 - 2022-06-15 | SO | [VIII U 368/22](https://www.saos.org.pl/judgments/476422) | Zarządzenie
-- 2022-06-08 | SO | [IV U 355/22](https://www.saos.org.pl/judgments/471053) | Wyrok
 - 2022-06-07 | SO | [VIII U 247/22](https://www.saos.org.pl/judgments/471903) | Zarządzenie
 - 2022-06-01 | SO | [VIII U 116/22](https://www.saos.org.pl/judgments/471821) | Zarządzenie
 - 2022-05-30 | SO | [VIII U 5035/19](https://www.saos.org.pl/judgments/471877) | Zarządzenie
 - 2022-05-30 | SO | [VIII U 1617/19](https://www.saos.org.pl/judgments/471823) | Zarządzenie
-- 2022-05-27 | SO | [IV U 349/22](https://www.saos.org.pl/judgments/468424) | Wyrok
 - 2022-05-25 | SO | [VIII U 2939/21](https://www.saos.org.pl/judgments/471826) | Zarządzenie
 - 2022-05-18 | SO | [VIII U 2732/21](https://www.saos.org.pl/judgments/464934) | Zarządzenie
 - 2022-05-18 | SO | [VIII U 2344/21](https://www.saos.org.pl/judgments/464922) | Zarządzenie
 - 2022-05-16 | SO | [VIII U 2294/21](https://www.saos.org.pl/judgments/464920) | Uzasadnienie
-- 2022-05-10 | SO | [IV U 301/22](https://www.saos.org.pl/judgments/467038) | Wyrok
 - 2022-04-13 | SO | [VIII U 2861/21](https://www.saos.org.pl/judgments/462867) | Uzasadnienie
 - 2022-04-13 | SO | [VIII U 2712/21](https://www.saos.org.pl/judgments/462861) | Uzasadnienie
 - 2022-04-13 | SO | [VIII U 2396/21](https://www.saos.org.pl/judgments/462857) | Uzasadnienie
@@ -173,7 +195,6 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2022-04-07 | SO | [VIII U 2160/21](https://www.saos.org.pl/judgments/463407) | Uzasadnienie
 - 2022-04-07 | SO | [VIII U 1996/21](https://www.saos.org.pl/judgments/463405) | Uzasadnienie
 - 2022-04-07 | SO | [VIII U 1727/21](https://www.saos.org.pl/judgments/463397) | Uzasadnienie
-- 2022-04-01 | SO | [IV U 122/22](https://www.saos.org.pl/judgments/464898) | Wyrok
 - 2022-03-29 | SO | [VIII U 2172/21](https://www.saos.org.pl/judgments/463102) | Uzasadnienie
 - 2022-03-29 | SO | [VIII U 1998/21](https://www.saos.org.pl/judgments/462007) | Uzasadnienie
 - 2022-03-21 | SO | [VIII U 2636/21](https://www.saos.org.pl/judgments/461257) | Zarządzenie
@@ -204,7 +225,6 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2021-11-09 | SO | [VIII U 1974/21](https://www.saos.org.pl/judgments/453159) | Zarządzenie
 - 2021-11-05 | SO | [VIII U 1544/21](https://www.saos.org.pl/judgments/453135) | Zarządzenie
 - 2021-10-29 | SO | [VIII U 252/21](https://www.saos.org.pl/judgments/453427) | Zarządzenie
-- 2021-10-21 | SO | [IV U 769/21](https://www.saos.org.pl/judgments/452831) | Wyrok
 - 2021-10-15 | SO | [VIII U 755/21](https://www.saos.org.pl/judgments/451687) | Zarządzenie
 - 2021-10-06 | SO | [VIII U 1613/21](https://www.saos.org.pl/judgments/451674) | Zarządzenie
 - 2021-09-28 | SO | [VIII U 1595/21](https://www.saos.org.pl/judgments/453141) | Zarządzenie
@@ -216,15 +236,12 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2021-09-27 | SO | [VIII U 683/21](https://www.saos.org.pl/judgments/453206) | Zarządzenie
 - 2021-09-27 | SO | [VIII U 3002/19](https://www.saos.org.pl/judgments/453173) | Zarządzenie
 - 2021-09-23 | SO | [VIII U 1571/21](https://www.saos.org.pl/judgments/453137) | Zarządzenie
-- 2021-09-16 | SO | [IV U 718/21](https://www.saos.org.pl/judgments/449506) | Wyrok
-- 2021-09-03 | SO | [IV U 591/21](https://www.saos.org.pl/judgments/449118) | Wyrok
 - 2021-07-23 | SO | [VIII U 757/21](https://www.saos.org.pl/judgments/451232) | Uzasadnienie
 - 2021-07-15 | SO | [VIII U 288/21](https://www.saos.org.pl/judgments/451217) | Zarządzenie
 - 2021-07-12 | SO | [VIII U 1319/21](https://www.saos.org.pl/judgments/451189) | Zarządzenie
 - 2021-06-24 | SO | [VIII U 2309/20](https://www.saos.org.pl/judgments/451212) | Zarządzenie
 - 2021-06-23 | SO | [VIII U 2885/20](https://www.saos.org.pl/judgments/445329) | Zarządzenie
 - 2021-06-22 | SO | [VIII U 1780/20](https://www.saos.org.pl/judgments/442855) | Zarządzenie
-- 2021-06-11 | SO | [III AUa 1595/20](https://www.saos.org.pl/judgments/447071) | Wyrok
 - 2021-06-11 | SO | [VIII U 220/21](https://www.saos.org.pl/judgments/441647) | Zarządzenie
 - 2021-06-10 | SO | [VIII U 754/21](https://www.saos.org.pl/judgments/441199) | Uzasadnienie
 - 2021-06-07 | SO | [VIII U 892/21](https://www.saos.org.pl/judgments/441207) | Zarządzenie
@@ -286,7 +303,6 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2021-03-01 | SO | [VIII U 2921/20](https://www.saos.org.pl/judgments/433596) | Zarządzenie
 - 2021-03-01 | SO | [VIII U 2882/20](https://www.saos.org.pl/judgments/433587) | Uzasadnienie
 - 2021-02-25 | SO | [VIII U 3019/20](https://www.saos.org.pl/judgments/433604) | Uzasadnienie
-- 2021-02-23 | SO | [VII U 3928/19](https://www.saos.org.pl/judgments/435250) | Wyrok
 - 2021-02-17 | SO | [VIII U 2936/20](https://www.saos.org.pl/judgments/433597) | Zarządzenie
 - 2021-02-05 | SO | [VIII U 2487/20](https://www.saos.org.pl/judgments/433586) | Uzasadnienie
 - 2021-02-05 | SO | [VIII U 2371/20](https://www.saos.org.pl/judgments/433584) | Uzasadnienie
@@ -296,14 +312,12 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2020-12-11 | SO | [VIII U 2056/20](https://www.saos.org.pl/judgments/427976) | Uzasadnienie
 - 2020-12-01 | SO | [VIII U 2242/20](https://www.saos.org.pl/judgments/426190) | Uzasadnienie
 - 2020-10-26 | SO | [VIII U 1993/20](https://www.saos.org.pl/judgments/422971) | Zarządzenie
-- 2020-10-22 | SO | [VII U 595/19](https://www.saos.org.pl/judgments/435252) | Wyrok
 - 2020-09-15 | SO | [VIII U 1539/19](https://www.saos.org.pl/judgments/422066) | Zarządzenie
 - 2020-09-15 | SO | [VIII U 5090/19](https://www.saos.org.pl/judgments/421863) | Zarządzenie
 - 2020-09-14 | SO | [VIII U 4378/19](https://www.saos.org.pl/judgments/422102) | Zarządzenie
 - 2020-09-14 | SO | [VIII U 3841/19](https://www.saos.org.pl/judgments/422093) | Zarządzenie
 - 2020-08-24 | SO | [VIII U 1371/19](https://www.saos.org.pl/judgments/422058) | Uzasadnienie
 - 2020-07-16 | SO | [VIII U 3935/19](https://www.saos.org.pl/judgments/418538) | Zarządzenie
-- 2020-07-06 | SO | [VII U 2542/19](https://www.saos.org.pl/judgments/435246) | Wyrok
 - 2020-07-06 | SO | [VIII U 3317/19](https://www.saos.org.pl/judgments/420464) | Zarządzenie
 - 2020-07-06 | SO | [VIII U 3290/19](https://www.saos.org.pl/judgments/420462) | Zarządzenie
 - 2020-07-06 | SO | [VIII U 4965/19](https://www.saos.org.pl/judgments/416597) | Zarządzenie
@@ -319,21 +333,5 @@ Orzeczenia powołujące: *Europejska Karta Społeczna sporządzona w Turynie dni
 - 2020-03-12 | SO | [VIII U 3934/19](https://www.saos.org.pl/judgments/410944) | Zarządzenie
 - 2020-03-12 | SO | [VIII U 3377/19](https://www.saos.org.pl/judgments/410924) | Zarządzenie
 - 2020-03-10 | SO | [VIII U 310/19](https://www.saos.org.pl/judgments/416370) | Zarządzenie
-- 2020-01-08 | SO | [IV U 1787/19](https://www.saos.org.pl/judgments/406071) | Wyrok
-- 2019-12-19 | SO | [VII U 2602/19](https://www.saos.org.pl/judgments/435248) | Wyrok
-- 2019-12-19 | SO | [III U 925/19](https://www.saos.org.pl/judgments/434362) | Wyrok
-- 2019-12-05 | SO | [VII U 802/19](https://www.saos.org.pl/judgments/435253) | Wyrok
-- 2019-10-29 | SO | [III U 819/19](https://www.saos.org.pl/judgments/398195) | Wyrok
-- 2019-10-29 | SO | [III U 789/19](https://www.saos.org.pl/judgments/398194) | Wyrok
-- 2019-10-25 | SO | [IV U 1607/19](https://www.saos.org.pl/judgments/398503) | Wyrok
-- 2019-09-20 | SO | [IV U 826/19](https://www.saos.org.pl/judgments/393770) | Wyrok
-- 2019-08-08 | SO | [IV U 313/19](https://www.saos.org.pl/judgments/392772) | Wyrok
-- 2019-07-30 | SO | [IV U 99/19](https://www.saos.org.pl/judgments/395895) | Wyrok
-- 2019-07-30 | SO | [IV U 699/19](https://www.saos.org.pl/judgments/395162) | Wyrok
-- 2019-07-30 | SO | [IV U 610/19](https://www.saos.org.pl/judgments/394897) | Wyrok
-- 2019-07-30 | SO | [IV U 357/19](https://www.saos.org.pl/judgments/394428) | Wyrok
-- 2019-05-31 | SO | [IV U 202/19](https://www.saos.org.pl/judgments/394896) | Wyrok
-- 2019-05-31 | SO | [IV U 241/19](https://www.saos.org.pl/judgments/388253) | Wyrok
 - 2016-03-18 | SO | [IV U 1470/12](https://www.saos.org.pl/judgments/219025) | Uzasadnienie
-- 2013-12-20 | SO | [IV U 1470/12](https://www.saos.org.pl/judgments/51921) | Postanowienie
 

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-37200|2014-01-15|SO|II Ca 2184/13|Postanowienie|https://www.saos.org.pl/judgments/37200
-95251|2011-06-21|SN|I CSK 601/10|Wyrok|https://www.saos.org.pl/judgments/95251
-77066|1996-02-08|SN|III ARN 62/95|Postanowienie|https://www.saos.org.pl/judgments/77066
-76920|1995-09-05|SN|III AZP 16/95|Uchwała|https://www.saos.org.pl/judgments/76920
-76660|1994-10-05|SN|III ARN 54/94|Postanowienie|https://www.saos.org.pl/judgments/76660
+saos_id|date|court|case_number|type|score|saos_url
+76920|1995-09-05|SN|III AZP 16/95|Uchwała|89|https://www.saos.org.pl/judgments/76920
+95251|2011-06-21|SN|I CSK 601/10|Wyrok|78|https://www.saos.org.pl/judgments/95251
+77066|1996-02-08|SN|III ARN 62/95|Postanowienie|69|https://www.saos.org.pl/judgments/77066
+76660|1994-10-05|SN|III ARN 54/94|Postanowienie|69|https://www.saos.org.pl/judgments/76660
+37200|2014-01-15|SO|II Ca 2184/13|Postanowienie|31|https://www.saos.org.pl/judgments/37200

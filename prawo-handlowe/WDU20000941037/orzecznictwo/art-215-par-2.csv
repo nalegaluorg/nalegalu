@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-283081|2017-04-11|SO|VIII GC 61/16|Wyrok|https://www.saos.org.pl/judgments/283081
-126735|2014-12-11|SO|VIII Ga 203/14|Uzasadnienie|https://www.saos.org.pl/judgments/126735
-73163|2014-11-18|SO|I ACa 501/14|Wyrok|https://www.saos.org.pl/judgments/73163
-164515|2006-09-21|SN|I CSK 120/06|Wyrok|https://www.saos.org.pl/judgments/164515
-162899|2005-01-21|SN|I CK 521/04|Wyrok|https://www.saos.org.pl/judgments/162899
+saos_id|date|court|case_number|type|score|saos_url
+164515|2006-09-21|SN|I CSK 120/06|Wyrok|78|https://www.saos.org.pl/judgments/164515
+162899|2005-01-21|SN|I CK 521/04|Wyrok|78|https://www.saos.org.pl/judgments/162899
+73163|2014-11-18|SO|I ACa 501/14|Wyrok|56|https://www.saos.org.pl/judgments/73163

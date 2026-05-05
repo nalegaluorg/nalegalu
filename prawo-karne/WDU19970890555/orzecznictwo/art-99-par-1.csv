@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-465994|2022-03-30|SO|II AKa 445/21|Wyrok|https://www.saos.org.pl/judgments/465994
-451522|2021-10-19|SO|II AKa 81/21|Wyrok|https://www.saos.org.pl/judgments/451522
-441822|2020-02-17|SO|III K 864/15|Uzasadnienie|https://www.saos.org.pl/judgments/441822
-273947|2016-12-28|SO|II AKa 395/16|Wyrok|https://www.saos.org.pl/judgments/273947
-243068|2015-07-30|SN|IV KZ 47/15|Postanowienie|https://www.saos.org.pl/judgments/243068
+saos_id|date|court|case_number|type|score|saos_url
+243068|2015-07-30|SN|IV KZ 47/15|Postanowienie|69|https://www.saos.org.pl/judgments/243068
+465994|2022-03-30|SO|II AKa 445/21|Wyrok|56|https://www.saos.org.pl/judgments/465994
+451522|2021-10-19|SO|II AKa 81/21|Wyrok|56|https://www.saos.org.pl/judgments/451522
+273947|2016-12-28|SO|II AKa 395/16|Wyrok|56|https://www.saos.org.pl/judgments/273947

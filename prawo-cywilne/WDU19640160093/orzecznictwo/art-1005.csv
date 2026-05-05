@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-80297|2001-01-31|SN|III CZP 50/00|Uchwała|https://www.saos.org.pl/judgments/80297
-78169|1998-02-25|SN|III RN 117/97|Wyrok|https://www.saos.org.pl/judgments/78169
-77603|1997-04-24|SN|III RN 17/97|Wyrok|https://www.saos.org.pl/judgments/77603
+saos_id|date|court|case_number|type|score|saos_url
+80297|2001-01-31|SN|III CZP 50/00|Uchwała|89|https://www.saos.org.pl/judgments/80297
+78169|1998-02-25|SN|III RN 117/97|Wyrok|78|https://www.saos.org.pl/judgments/78169
+77603|1997-04-24|SN|III RN 17/97|Wyrok|78|https://www.saos.org.pl/judgments/77603

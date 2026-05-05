@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-442066|2021-05-06|SO|V GC 706/20|Wyrok|https://www.saos.org.pl/judgments/442066
-44436|2014-03-31|SO|VI GC 163/13|Wyrok|https://www.saos.org.pl/judgments/44436
-138681|2013-04-17|SO|I C 1370/12|Wyrok|https://www.saos.org.pl/judgments/138681
+saos_id|date|court|case_number|type|score|saos_url
+44436|2014-03-31|SO|VI GC 163/13|Wyrok|40|https://www.saos.org.pl/judgments/44436

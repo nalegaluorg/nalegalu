@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-455702|2021-09-22|SO|XV Ca 743/21|Wyrok|https://www.saos.org.pl/judgments/455702
-30245|2013-11-28|SO|II Ca 754/13|Postanowienie|https://www.saos.org.pl/judgments/30245
+saos_id|date|court|case_number|type|score|saos_url
+455702|2021-09-22|SO|XV Ca 743/21|Wyrok|40|https://www.saos.org.pl/judgments/455702

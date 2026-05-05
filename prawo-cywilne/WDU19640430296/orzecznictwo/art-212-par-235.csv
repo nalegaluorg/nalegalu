@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-296609|2017-02-28|SO|IV Pa 1/17|Wyrok|https://www.saos.org.pl/judgments/296609
-6461|2013-01-30|SO|I ACa 1008/12|Wyrok|https://www.saos.org.pl/judgments/6461
+saos_id|date|court|case_number|type|score|saos_url
+6461|2013-01-30|SO|I ACa 1008/12|Wyrok|56|https://www.saos.org.pl/judgments/6461
+296609|2017-02-28|SO|IV Pa 1/17|Wyrok|40|https://www.saos.org.pl/judgments/296609

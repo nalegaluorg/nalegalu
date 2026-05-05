@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-226290|2016-05-11|SO|I C 1462/15|Wyrok|https://www.saos.org.pl/judgments/226290
-145828|2014-03-31|SO|II C 739/13|Wyrok|https://www.saos.org.pl/judgments/145828
+saos_id|date|court|case_number|type|score|saos_url
+145828|2014-03-31|SO|II C 739/13|Wyrok|40|https://www.saos.org.pl/judgments/145828

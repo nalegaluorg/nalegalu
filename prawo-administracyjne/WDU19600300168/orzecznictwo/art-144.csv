@@ -1,19 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-515185|2023-07-14|SO|XVII AmE 79/23|Wyrok|https://www.saos.org.pl/judgments/515185
-515051|2021-05-05|SO|XVII AmE 121/19|Wyrok|https://www.saos.org.pl/judgments/515051
-326090|2017-06-20|SO|XV Ca 133/17|Wyrok|https://www.saos.org.pl/judgments/326090
-287087|2017-04-28|SO|XVII AmA 11/16|Wyrok|https://www.saos.org.pl/judgments/287087
-279494|2017-02-22|SO|VI ACa 1979/15|Wyrok|https://www.saos.org.pl/judgments/279494
-440255|2015-10-20|SO|XVII AmA 145/11|Wyrok|https://www.saos.org.pl/judgments/440255
-166978|2014-10-08|SN|III SZP 2/14|Uchwała|https://www.saos.org.pl/judgments/166978
-240327|2014-06-18|SO|XVII AmA 145/11|Wyrok|https://www.saos.org.pl/judgments/240327
-146776|2014-06-04|SO|I ACz 944/14|Postanowienie|https://www.saos.org.pl/judgments/146776
-46296|2014-05-14|SO|III AUz 54/14|Postanowienie|https://www.saos.org.pl/judgments/46296
-44169|2014-04-28|SO|III AUz 26/14|Postanowienie|https://www.saos.org.pl/judgments/44169
-36697|2014-01-29|SO|VI U 1968/13|Postanowienie|https://www.saos.org.pl/judgments/36697
-33398|2013-12-18|SO|VI U 1850/13|Postanowienie|https://www.saos.org.pl/judgments/33398
-81946|2003-04-02|SN|III RN 51/02|Wyrok|https://www.saos.org.pl/judgments/81946
-81631|2002-10-08|SN|III RN 175/01|Wyrok|https://www.saos.org.pl/judgments/81631
-79038|1999-05-13|SN|III SZ 1/99|Wyrok|https://www.saos.org.pl/judgments/79038
-77600|1997-04-24|SN|III KKO 3/97|Postanowienie|https://www.saos.org.pl/judgments/77600
-77424|1997-01-22|SN|III RN 56/96|Wyrok|https://www.saos.org.pl/judgments/77424
+saos_id|date|court|case_number|type|score|saos_url
+166978|2014-10-08|SN|III SZP 2/14|Uchwała|89|https://www.saos.org.pl/judgments/166978
+81946|2003-04-02|SN|III RN 51/02|Wyrok|78|https://www.saos.org.pl/judgments/81946
+81631|2002-10-08|SN|III RN 175/01|Wyrok|78|https://www.saos.org.pl/judgments/81631
+79038|1999-05-13|SN|III SZ 1/99|Wyrok|78|https://www.saos.org.pl/judgments/79038
+77424|1997-01-22|SN|III RN 56/96|Wyrok|78|https://www.saos.org.pl/judgments/77424
+77600|1997-04-24|SN|III KKO 3/97|Postanowienie|69|https://www.saos.org.pl/judgments/77600
+279494|2017-02-22|SO|VI ACa 1979/15|Wyrok|56|https://www.saos.org.pl/judgments/279494
+146776|2014-06-04|SO|I ACz 944/14|Postanowienie|47|https://www.saos.org.pl/judgments/146776
+46296|2014-05-14|SO|III AUz 54/14|Postanowienie|47|https://www.saos.org.pl/judgments/46296
+44169|2014-04-28|SO|III AUz 26/14|Postanowienie|47|https://www.saos.org.pl/judgments/44169
+326090|2017-06-20|SO|XV Ca 133/17|Wyrok|40|https://www.saos.org.pl/judgments/326090

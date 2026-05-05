@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|https://www.saos.org.pl/judgments/288223
-168526|2015-03-13|SN|III CZP 4/15|Uchwała|https://www.saos.org.pl/judgments/168526
-129391|2015-02-10|SO|VI RC 46/14|Zarządzenie|https://www.saos.org.pl/judgments/129391
-133919|2015-01-23|SO|I C 1362/12|Wyrok|https://www.saos.org.pl/judgments/133919
-62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|https://www.saos.org.pl/judgments/62210
-59001|2013-12-05|SO|VI ACa 677/13|Wyrok|https://www.saos.org.pl/judgments/59001
+saos_id|date|court|case_number|type|score|saos_url
+168526|2015-03-13|SN|III CZP 4/15|Uchwała|89|https://www.saos.org.pl/judgments/168526
+59001|2013-12-05|SO|VI ACa 677/13|Wyrok|56|https://www.saos.org.pl/judgments/59001
+288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|31|https://www.saos.org.pl/judgments/288223
+62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62210

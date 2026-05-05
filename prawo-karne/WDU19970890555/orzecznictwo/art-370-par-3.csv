@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-448348|2019-09-05|SO|IX Ka 486/19|Wyrok|https://www.saos.org.pl/judgments/448348
-366059|2018-07-20|SO|II AKa 358/16|Wyrok|https://www.saos.org.pl/judgments/366059
-340688|2017-11-22|SO|II AKa 34/17|Wyrok|https://www.saos.org.pl/judgments/340688
-231535|2016-05-13|SO|IV Ka 28/16|Uzasadnienie|https://www.saos.org.pl/judgments/231535
-186409|2015-10-30|SO|IV Ka 559/15|Uzasadnienie|https://www.saos.org.pl/judgments/186409
-186321|2015-10-23|SO|IV Ka 374/15|Uzasadnienie|https://www.saos.org.pl/judgments/186321
-182957|2015-10-06|SO|II AKa 199/15|Wyrok|https://www.saos.org.pl/judgments/182957
-194346|2015-07-23|SO|II AKa 38/15|Wyrok|https://www.saos.org.pl/judgments/194346
-75234|2014-10-21|SO|II AKa 22/14|Wyrok|https://www.saos.org.pl/judgments/75234
-142166|2013-10-25|SO|II AKa 70/13|Uzasadnienie|https://www.saos.org.pl/judgments/142166
+saos_id|date|court|case_number|type|score|saos_url
+366059|2018-07-20|SO|II AKa 358/16|Wyrok|56|https://www.saos.org.pl/judgments/366059
+340688|2017-11-22|SO|II AKa 34/17|Wyrok|56|https://www.saos.org.pl/judgments/340688
+182957|2015-10-06|SO|II AKa 199/15|Wyrok|56|https://www.saos.org.pl/judgments/182957
+194346|2015-07-23|SO|II AKa 38/15|Wyrok|56|https://www.saos.org.pl/judgments/194346
+75234|2014-10-21|SO|II AKa 22/14|Wyrok|56|https://www.saos.org.pl/judgments/75234
+142166|2013-10-25|SO|II AKa 70/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/142166

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-460034|2019-04-25|SO|I C 689/18|Wyrok|https://www.saos.org.pl/judgments/460034
-127094|2014-02-27|SO|I ACa 1201/12|Wyrok|https://www.saos.org.pl/judgments/127094
+saos_id|date|court|case_number|type|score|saos_url
+127094|2014-02-27|SO|I ACa 1201/12|Wyrok|56|https://www.saos.org.pl/judgments/127094
+460034|2019-04-25|SO|I C 689/18|Wyrok|40|https://www.saos.org.pl/judgments/460034

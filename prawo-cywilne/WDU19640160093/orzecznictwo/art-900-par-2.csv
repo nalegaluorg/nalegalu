@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-164880|2007-10-11|SN|IV CSK 237/07|Wyrok|https://www.saos.org.pl/judgments/164880
+saos_id|date|court|case_number|type|score|saos_url
+164880|2007-10-11|SN|IV CSK 237/07|Wyrok|78|https://www.saos.org.pl/judgments/164880

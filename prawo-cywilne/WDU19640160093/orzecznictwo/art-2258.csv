@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-379786|2019-03-28|SO|V Ca 91/16|Postanowienie|https://www.saos.org.pl/judgments/379786
-196796|2015-10-08|SO|I Ns 1590/14|Postanowienie|https://www.saos.org.pl/judgments/196796
-168823|2015-04-17|SN|III CSK 272/14|Wyrok|https://www.saos.org.pl/judgments/168823
+saos_id|date|court|case_number|type|score|saos_url
+168823|2015-04-17|SN|III CSK 272/14|Wyrok|78|https://www.saos.org.pl/judgments/168823

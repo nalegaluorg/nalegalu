@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-259185|2016-04-21|SO|VI P 185/14|Wyrok|https://www.saos.org.pl/judgments/259185
-92925|2010-09-14|SN|II PK 67/10|Wyrok|https://www.saos.org.pl/judgments/92925
+saos_id|date|court|case_number|type|score|saos_url
+92925|2010-09-14|SN|II PK 67/10|Wyrok|78|https://www.saos.org.pl/judgments/92925
+259185|2016-04-21|SO|VI P 185/14|Wyrok|40|https://www.saos.org.pl/judgments/259185

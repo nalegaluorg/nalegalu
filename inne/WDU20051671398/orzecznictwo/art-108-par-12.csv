@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-68607|2014-02-12|SO|I ACa 1559/13|Wyrok|https://www.saos.org.pl/judgments/68607
-63203|2014-01-21|SO|I ACa 1402/13|Wyrok|https://www.saos.org.pl/judgments/63203
-13524|2013-06-07|SO|IV Ca 260/13|Wyrok|https://www.saos.org.pl/judgments/13524
+saos_id|date|court|case_number|type|score|saos_url
+68607|2014-02-12|SO|I ACa 1559/13|Wyrok|56|https://www.saos.org.pl/judgments/68607
+63203|2014-01-21|SO|I ACa 1402/13|Wyrok|56|https://www.saos.org.pl/judgments/63203

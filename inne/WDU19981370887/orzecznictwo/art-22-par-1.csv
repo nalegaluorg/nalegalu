@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-290148|2017-04-21|SO|III AUa 736/16|Wyrok|https://www.saos.org.pl/judgments/290148
-199077|2015-12-04|SO|III AUa 1068/15|Wyrok|https://www.saos.org.pl/judgments/199077
-4434|2012-12-06|SO|III AUa 910/12|Wyrok|https://www.saos.org.pl/judgments/4434
+saos_id|date|court|case_number|type|score|saos_url
+290148|2017-04-21|SO|III AUa 736/16|Wyrok|56|https://www.saos.org.pl/judgments/290148
+199077|2015-12-04|SO|III AUa 1068/15|Wyrok|56|https://www.saos.org.pl/judgments/199077
+4434|2012-12-06|SO|III AUa 910/12|Wyrok|56|https://www.saos.org.pl/judgments/4434

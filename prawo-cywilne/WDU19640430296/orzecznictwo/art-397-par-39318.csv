@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-163441|2005-07-12|SN|I CZ 34/05|Postanowienie|https://www.saos.org.pl/judgments/163441
-79916|2000-09-15|SN|I PZ 58/00|Postanowienie|https://www.saos.org.pl/judgments/79916
-78061|1998-01-16|SN|I PZ 48/97|Postanowienie|https://www.saos.org.pl/judgments/78061
-78013|1997-12-19|SN|I PZ 45/97|Postanowienie|https://www.saos.org.pl/judgments/78013
+saos_id|date|court|case_number|type|score|saos_url
+163441|2005-07-12|SN|I CZ 34/05|Postanowienie|69|https://www.saos.org.pl/judgments/163441
+79916|2000-09-15|SN|I PZ 58/00|Postanowienie|69|https://www.saos.org.pl/judgments/79916
+78061|1998-01-16|SN|I PZ 48/97|Postanowienie|69|https://www.saos.org.pl/judgments/78061
+78013|1997-12-19|SN|I PZ 45/97|Postanowienie|69|https://www.saos.org.pl/judgments/78013

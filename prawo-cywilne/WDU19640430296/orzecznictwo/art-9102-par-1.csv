@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-440718|2021-03-25|SO|VIII U 682/19|Zarządzenie|https://www.saos.org.pl/judgments/440718
-222295|2016-04-13|SO|X GC 456/15|Uzasadnienie|https://www.saos.org.pl/judgments/222295
-125003|2015-01-02|SO|X GC 966/13|Uzasadnienie|https://www.saos.org.pl/judgments/125003
-65717|2014-10-08|SO|I ACa 139/14|Wyrok|https://www.saos.org.pl/judgments/65717
-64591|2014-07-04|SO|I ACa 764/13|Wyrok|https://www.saos.org.pl/judgments/64591
-57399|2014-06-27|SO|I ACa 659/13|Wyrok|https://www.saos.org.pl/judgments/57399
-36619|2013-09-25|SO|I ACa 468/13|Wyrok|https://www.saos.org.pl/judgments/36619
+saos_id|date|court|case_number|type|score|saos_url
+65717|2014-10-08|SO|I ACa 139/14|Wyrok|56|https://www.saos.org.pl/judgments/65717
+64591|2014-07-04|SO|I ACa 764/13|Wyrok|56|https://www.saos.org.pl/judgments/64591
+57399|2014-06-27|SO|I ACa 659/13|Wyrok|56|https://www.saos.org.pl/judgments/57399
+36619|2013-09-25|SO|I ACa 468/13|Wyrok|56|https://www.saos.org.pl/judgments/36619
+440718|2021-03-25|SO|VIII U 682/19|Zarządzenie|27|https://www.saos.org.pl/judgments/440718
+125003|2015-01-02|SO|X GC 966/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/125003

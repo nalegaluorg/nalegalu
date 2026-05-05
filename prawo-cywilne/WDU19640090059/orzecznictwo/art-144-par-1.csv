@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-335995|2018-03-28|SO|III RC 347/17|Wyrok|https://www.saos.org.pl/judgments/335995
-325348|2018-01-10|SO|VI RC 31/16|Uzasadnienie|https://www.saos.org.pl/judgments/325348
-309780|2017-09-27|SO|III RC 41/17|Wyrok|https://www.saos.org.pl/judgments/309780
-178738|2015-08-20|SO|III Ca 390/15|Wyrok|https://www.saos.org.pl/judgments/178738
-70840|2014-11-19|SO|I Ca 313/14|Wyrok|https://www.saos.org.pl/judgments/70840
-138182|2013-04-17|SO|I Ca 68/13|Wyrok|https://www.saos.org.pl/judgments/138182
+saos_id|date|court|case_number|type|score|saos_url
+70840|2014-11-19|SO|I Ca 313/14|Wyrok|40|https://www.saos.org.pl/judgments/70840

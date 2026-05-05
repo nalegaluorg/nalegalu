@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-358132|2018-10-01|SO|VI GC 236/18|Wyrok|https://www.saos.org.pl/judgments/358132
-320667|2017-10-26|SO|VII P 49/16|Wyrok|https://www.saos.org.pl/judgments/320667
-242148|2016-06-09|SO|I ACa 1758/15|Wyrok|https://www.saos.org.pl/judgments/242148
-121090|2012-10-04|KIO|KIO 2009/12|Wyrok|https://www.saos.org.pl/judgments/121090
-114081|2009-05-12|KIO|KIO/UZP 539/09|Postanowienie|https://www.saos.org.pl/judgments/114081
+saos_id|date|court|case_number|type|score|saos_url
+242148|2016-06-09|SO|I ACa 1758/15|Wyrok|56|https://www.saos.org.pl/judgments/242148
+121090|2012-10-04|KIO|KIO 2009/12|Wyrok|44|https://www.saos.org.pl/judgments/121090
+358132|2018-10-01|SO|VI GC 236/18|Wyrok|40|https://www.saos.org.pl/judgments/358132
+320667|2017-10-26|SO|VII P 49/16|Wyrok|40|https://www.saos.org.pl/judgments/320667
+114081|2009-05-12|KIO|KIO/UZP 539/09|Postanowienie|36|https://www.saos.org.pl/judgments/114081

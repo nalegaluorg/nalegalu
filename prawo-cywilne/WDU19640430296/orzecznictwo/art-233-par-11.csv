@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-537436|2025-03-03|SO|I AGa 325/22|Wyrok|https://www.saos.org.pl/judgments/537436
-539523|2025-01-28|SO|I ACa 1709/22|Wyrok|https://www.saos.org.pl/judgments/539523
-352120|2018-07-04|SO|III Ca 475/18|Uzasadnienie|https://www.saos.org.pl/judgments/352120
-254550|2016-11-02|SO|VIII Pa 97/16|Uzasadnienie|https://www.saos.org.pl/judgments/254550
-231675|2016-04-29|SO|VII Pa 114/15|Wyrok|https://www.saos.org.pl/judgments/231675
-80571|2001-05-16|SN|I PKN 573/00|Wyrok|https://www.saos.org.pl/judgments/80571
+saos_id|date|court|case_number|type|score|saos_url
+80571|2001-05-16|SN|I PKN 573/00|Wyrok|78|https://www.saos.org.pl/judgments/80571
+537436|2025-03-03|SO|I AGa 325/22|Wyrok|56|https://www.saos.org.pl/judgments/537436
+539523|2025-01-28|SO|I ACa 1709/22|Wyrok|56|https://www.saos.org.pl/judgments/539523
+231675|2016-04-29|SO|VII Pa 114/15|Wyrok|40|https://www.saos.org.pl/judgments/231675
+352120|2018-07-04|SO|III Ca 475/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/352120
+254550|2016-11-02|SO|VIII Pa 97/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/254550

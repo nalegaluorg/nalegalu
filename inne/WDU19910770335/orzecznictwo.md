@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 20 lipca 1991 r. o Inspekcji Ochrony Środowiska*
 
-Łącznie: **8** orzeczeń
+Łącznie: **5** orzeczeń
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
@@ -20,16 +21,7 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 1991 r. o Inspekcji Ochrony Śr
 
 - 2018-01-31 | SO | [XVII Ka 1421/17](https://www.saos.org.pl/judgments/330202) | Wyrok
 
-## art. 31 (1)
-
-- 2023-02-21 | SO | [IV Ka 1649/22](https://www.saos.org.pl/judgments/486714) | Uzasadnienie
-
 ## § 1 (1)
 
 - 2019-03-15 | SO | [VIII K 779/17](https://www.saos.org.pl/judgments/418048) | Uzasadnienie
-
-## (ogólnie) (2)
-
-- 2021-09-10 | SO | [V Ca 1607/19](https://www.saos.org.pl/judgments/476539) | Wyrok
-- 2019-10-17 | SO | [II C 661/19](https://www.saos.org.pl/judgments/406721) | Zarządzenie
 

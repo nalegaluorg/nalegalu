@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80155|2000-12-05|SN|V KKN 317/00|Postanowienie|https://www.saos.org.pl/judgments/80155
+saos_id|date|court|case_number|type|score|saos_url
+80155|2000-12-05|SN|V KKN 317/00|Postanowienie|69|https://www.saos.org.pl/judgments/80155

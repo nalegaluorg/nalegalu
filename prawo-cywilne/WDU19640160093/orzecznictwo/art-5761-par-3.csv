@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-198782|2015-12-29|SO|V ACa 393/15|Wyrok|https://www.saos.org.pl/judgments/198782
+saos_id|date|court|case_number|type|score|saos_url
+198782|2015-12-29|SO|V ACa 393/15|Wyrok|56|https://www.saos.org.pl/judgments/198782

@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - Prawo telekomunikacyjne oraz niektórych innych ustaw*
 
-Łącznie: **12** orzeczeń
+Łącznie: **8** orzeczeń
+(pominięto 4 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
@@ -12,33 +13,24 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - P
 
 - 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
 
-## art. 13 (4)
+## art. 13 (2)
 
-- 2015-10-07 | SO | [XVII AmT 25/15](https://www.saos.org.pl/judgments/189617) | Uzasadnienie
+- 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
 - 2014-01-29 | SO | [VI ACa 791/13](https://www.saos.org.pl/judgments/52997) | Wyrok
+
+## art. 21 (2)
+
 - 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
-- 2013-04-03 | SO | [XVII AmT 218/09](https://www.saos.org.pl/judgments/16515) | Uzasadnienie
+- 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
 
-## art. 14 (1)
+## art. 22 (2)
 
-- 2022-01-31 | SO | [XVII AmT 33/20](https://www.saos.org.pl/judgments/473203) | Wyrok
+- 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
+- 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
 
-## art. 21 (3)
+## art. 24 (1)
 
 - 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
-- 2015-05-06 | SO | [XVII AmT 71/13](https://www.saos.org.pl/judgments/326145) | Wyrok
-- 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
-
-## art. 22 (3)
-
-- 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
-- 2015-05-06 | SO | [XVII AmT 71/13](https://www.saos.org.pl/judgments/326145) | Wyrok
-- 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
-
-## art. 24 (2)
-
-- 2016-10-27 | SO | [VI ACa 995/15](https://www.saos.org.pl/judgments/269323) | Wyrok
-- 2015-05-06 | SO | [XVII AmT 71/13](https://www.saos.org.pl/judgments/326145) | Wyrok
 
 ## art. 27 (1)
 
@@ -50,19 +42,15 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - P
 
 ## art. 53 (1)
 
-- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok
+- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok ★
 
 ## art. 56 (1)
 
-- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok
+- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok ★
 
 ## art. 79 (1)
 
 - 2013-05-28 | SN | [III SK 52/12](https://www.saos.org.pl/judgments/101932) | Postanowienie
-
-## art. 181 (1)
-
-- 2022-01-31 | SO | [XVII AmT 33/20](https://www.saos.org.pl/judgments/473203) | Wyrok
 
 ## art. 206 (1)
 
@@ -70,7 +58,7 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o zmianie ustawy - P
 
 ## art. 209 (1)
 
-- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok
+- 2011-03-09 | SN | [III SK 38/10](https://www.saos.org.pl/judgments/94411) | Wyrok ★
 
 ## (ogólnie) (3)
 

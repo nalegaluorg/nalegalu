@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-431931|2021-02-09|SO|XI GC 1022/20|Wyrok|https://www.saos.org.pl/judgments/431931
-6421|2012-08-09|SO|I ACa 731/12|Wyrok|https://www.saos.org.pl/judgments/6421
+saos_id|date|court|case_number|type|score|saos_url
+6421|2012-08-09|SO|I ACa 731/12|Wyrok|56|https://www.saos.org.pl/judgments/6421

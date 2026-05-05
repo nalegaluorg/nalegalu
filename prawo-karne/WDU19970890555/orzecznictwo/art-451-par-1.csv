@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-484000|2023-01-25|SO|VI Ka 743/22|Wyrok|https://www.saos.org.pl/judgments/484000
-71118|2014-10-28|SO|IV Ka 790/14|Wyrok|https://www.saos.org.pl/judgments/71118
-103646|2013-11-26|SN|III KK 237/13|Wyrok|https://www.saos.org.pl/judgments/103646
-80911|2001-10-18|SN|I KZP 25/01|Uchwała|https://www.saos.org.pl/judgments/80911
-80482|2001-04-06|SN|III KKN 13/01|Postanowienie|https://www.saos.org.pl/judgments/80482
-80173|2000-12-15|SN|II KKN 142/98|Postanowienie|https://www.saos.org.pl/judgments/80173
-79993|2000-10-04|SN|III KKN 164/00|Wyrok|https://www.saos.org.pl/judgments/79993
+saos_id|date|court|case_number|type|score|saos_url
+80911|2001-10-18|SN|I KZP 25/01|Uchwała|96|https://www.saos.org.pl/judgments/80911
+103646|2013-11-26|SN|III KK 237/13|Wyrok|78|https://www.saos.org.pl/judgments/103646
+79993|2000-10-04|SN|III KKN 164/00|Wyrok|78|https://www.saos.org.pl/judgments/79993
+80482|2001-04-06|SN|III KKN 13/01|Postanowienie|69|https://www.saos.org.pl/judgments/80482
+80173|2000-12-15|SN|II KKN 142/98|Postanowienie|69|https://www.saos.org.pl/judgments/80173
+71118|2014-10-28|SO|IV Ka 790/14|Wyrok|40|https://www.saos.org.pl/judgments/71118

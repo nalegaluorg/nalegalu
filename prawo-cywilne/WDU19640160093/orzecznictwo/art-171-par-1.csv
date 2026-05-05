@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-485105|2023-03-07|SO|II Ca 1974/22|Postanowienie|https://www.saos.org.pl/judgments/485105
-348633|2018-02-28|SO|III Ca 1840/17|Uzasadnienie|https://www.saos.org.pl/judgments/348633
-130034|2015-02-04|SO|III Ca 41/15|Postanowienie|https://www.saos.org.pl/judgments/130034
-65189|2014-09-18|SO|I Ca 157/14|Postanowienie|https://www.saos.org.pl/judgments/65189
+saos_id|date|court|case_number|type|score|saos_url
+348633|2018-02-28|SO|III Ca 1840/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348633

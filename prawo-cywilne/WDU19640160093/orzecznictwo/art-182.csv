@@ -1,17 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-540719|2025-04-03|SO|II Ca 240/24|Postanowienie|https://www.saos.org.pl/judgments/540719
-539221|2024-07-26|SO|III Ca 1687/22|Uzasadnienie|https://www.saos.org.pl/judgments/539221
-412151|2019-02-11|SO|II Co 5155/18|Postanowienie|https://www.saos.org.pl/judgments/412151
-380800|2019-01-14|SO|VIII Ua 110/18|Uzasadnienie|https://www.saos.org.pl/judgments/380800
-372314|2018-10-05|SO|VII Ca 647/15|Uzasadnienie|https://www.saos.org.pl/judgments/372314
-349094|2018-07-04|SO|V ACa 1356/17|Wyrok|https://www.saos.org.pl/judgments/349094
-330282|2018-01-30|SO|III Ca 347/17|Postanowienie|https://www.saos.org.pl/judgments/330282
-329509|2017-09-05|SO|II Ca 587/17|Wyrok|https://www.saos.org.pl/judgments/329509
-339218|2017-02-10|SO|I C 623/15|Wyrok|https://www.saos.org.pl/judgments/339218
-159854|2015-04-23|SO|VII C 137/15|Wyrok|https://www.saos.org.pl/judgments/159854
-184901|2015-04-08|SO|III Ca 13/15|Wyrok|https://www.saos.org.pl/judgments/184901
-246388|2015-03-06|SO|I ACa 6/15|Wyrok|https://www.saos.org.pl/judgments/246388
-175557|2014-10-28|SO|VII C 525/14|Wyrok|https://www.saos.org.pl/judgments/175557
-146956|2014-05-22|SO|I C 214/14|Wyrok|https://www.saos.org.pl/judgments/146956
-17888|2013-04-16|SO|V Ca 2142/12|Wyrok|https://www.saos.org.pl/judgments/17888
-119258|2011-11-25|KIO|KIO 2452/11|Postanowienie|https://www.saos.org.pl/judgments/119258
+saos_id|date|court|case_number|type|score|saos_url
+349094|2018-07-04|SO|V ACa 1356/17|Wyrok|56|https://www.saos.org.pl/judgments/349094
+246388|2015-03-06|SO|I ACa 6/15|Wyrok|56|https://www.saos.org.pl/judgments/246388
+339218|2017-02-10|SO|I C 623/15|Wyrok|40|https://www.saos.org.pl/judgments/339218
+119258|2011-11-25|KIO|KIO 2452/11|Postanowienie|36|https://www.saos.org.pl/judgments/119258
+540719|2025-04-03|SO|II Ca 240/24|Postanowienie|31|https://www.saos.org.pl/judgments/540719
+412151|2019-02-11|SO|II Co 5155/18|Postanowienie|31|https://www.saos.org.pl/judgments/412151
+539221|2024-07-26|SO|III Ca 1687/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/539221
+380800|2019-01-14|SO|VIII Ua 110/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380800
+372314|2018-10-05|SO|VII Ca 647/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/372314

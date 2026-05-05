@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-414261|2019-01-17|SO|XXIV Ns 101/18|Postanowienie|https://www.saos.org.pl/judgments/414261
-364931|2018-10-11|SO|II AKa 160/18|Wyrok|https://www.saos.org.pl/judgments/364931
-152701|2015-05-12|SO|I ACz 415/15|Postanowienie|https://www.saos.org.pl/judgments/152701
+saos_id|date|court|case_number|type|score|saos_url
+364931|2018-10-11|SO|II AKa 160/18|Wyrok|56|https://www.saos.org.pl/judgments/364931
+152701|2015-05-12|SO|I ACz 415/15|Postanowienie|47|https://www.saos.org.pl/judgments/152701

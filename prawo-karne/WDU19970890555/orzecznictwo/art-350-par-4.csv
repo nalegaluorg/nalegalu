@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-472317|2022-04-29|SO|IV Ka 163/22|Uzasadnienie|https://www.saos.org.pl/judgments/472317
-459947|2021-11-10|SO|IV Ka 1064/21|Uzasadnienie|https://www.saos.org.pl/judgments/459947
-478584|2021-09-29|SO|II AKa 152/20|Wyrok|https://www.saos.org.pl/judgments/478584
-424561|2020-06-30|SO|IV Ka 327/20|Wyrok|https://www.saos.org.pl/judgments/424561
-344322|2018-03-09|SO|IV Ka 64/18|Wyrok|https://www.saos.org.pl/judgments/344322
+saos_id|date|court|case_number|type|score|saos_url
+478584|2021-09-29|SO|II AKa 152/20|Wyrok|56|https://www.saos.org.pl/judgments/478584
+424561|2020-06-30|SO|IV Ka 327/20|Wyrok|40|https://www.saos.org.pl/judgments/424561
+459947|2021-11-10|SO|IV Ka 1064/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/459947

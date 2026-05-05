@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-81840|2003-02-03|SN|SNO 1/03|Postanowienie|https://www.saos.org.pl/judgments/81840
+saos_id|date|court|case_number|type|score|saos_url
+81840|2003-02-03|SN|SNO 1/03|Postanowienie|69|https://www.saos.org.pl/judgments/81840

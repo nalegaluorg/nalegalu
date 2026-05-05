@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-510778|2024-06-06|SO|VI C 526/24|Uzasadnienie|https://www.saos.org.pl/judgments/510778
-383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|https://www.saos.org.pl/judgments/383740
+saos_id|date|court|case_number|type|score|saos_url
+383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|56|https://www.saos.org.pl/judgments/383740

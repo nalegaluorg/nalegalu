@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-448524|2018-06-05|SO|I ACa 1279/17|Wyrok|https://www.saos.org.pl/judgments/448524
-5059|2013-01-31|SO|II Cz 66/13|Postanowienie|https://www.saos.org.pl/judgments/5059
-109281|2009-04-23|TK|Ts 133/06|Postanowienie|https://www.saos.org.pl/judgments/109281
-108325|2007-05-24|TK|Ts 133/06|Postanowienie|https://www.saos.org.pl/judgments/108325
+saos_id|date|court|case_number|type|score|saos_url
+109281|2009-04-23|TK|Ts 133/06|Postanowienie|80|https://www.saos.org.pl/judgments/109281
+108325|2007-05-24|TK|Ts 133/06|Postanowienie|80|https://www.saos.org.pl/judgments/108325
+448524|2018-06-05|SO|I ACa 1279/17|Wyrok|56|https://www.saos.org.pl/judgments/448524

@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-360473|2018-09-07|SO|III Ca 1029/18|Uzasadnienie|https://www.saos.org.pl/judgments/360473
-337225|2017-09-13|SO|XV C 294/17|Wyrok|https://www.saos.org.pl/judgments/337225
-285042|2017-04-10|SO|I ACa 1261/16|Wyrok|https://www.saos.org.pl/judgments/285042
-282768|2016-12-29|SO|II Ca 521/16|Wyrok|https://www.saos.org.pl/judgments/282768
-267635|2015-10-06|SO|I C 2624/14|Wyrok|https://www.saos.org.pl/judgments/267635
-246388|2015-03-06|SO|I ACa 6/15|Wyrok|https://www.saos.org.pl/judgments/246388
-64078|2014-06-27|SO|I C 1866/13|Wyrok|https://www.saos.org.pl/judgments/64078
-49278|2014-04-25|SO|III Ca 1496/13|Uzasadnienie|https://www.saos.org.pl/judgments/49278
-140252|2013-08-26|SO|I C 1277/12|Wyrok|https://www.saos.org.pl/judgments/140252
-30993|2013-02-27|SO|I ACa 1398/12|Wyrok|https://www.saos.org.pl/judgments/30993
-163437|2005-07-13|SN|I CK 78/05|Wyrok|https://www.saos.org.pl/judgments/163437
+saos_id|date|court|case_number|type|score|saos_url
+163437|2005-07-13|SN|I CK 78/05|Wyrok|78|https://www.saos.org.pl/judgments/163437
+285042|2017-04-10|SO|I ACa 1261/16|Wyrok|56|https://www.saos.org.pl/judgments/285042
+246388|2015-03-06|SO|I ACa 6/15|Wyrok|56|https://www.saos.org.pl/judgments/246388
+30993|2013-02-27|SO|I ACa 1398/12|Wyrok|56|https://www.saos.org.pl/judgments/30993
+360473|2018-09-07|SO|III Ca 1029/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/360473
+49278|2014-04-25|SO|III Ca 1496/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/49278

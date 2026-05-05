@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-449655|2021-10-20|SO|VII Pa 59/21|Wyrok|https://www.saos.org.pl/judgments/449655
-457728|2021-06-09|SO|VI P 11/21|Wyrok|https://www.saos.org.pl/judgments/457728
-309602|2017-07-27|SO|VI P 502/16|Wyrok|https://www.saos.org.pl/judgments/309602
+saos_id|date|court|case_number|type|score|saos_url
+449655|2021-10-20|SO|VII Pa 59/21|Wyrok|40|https://www.saos.org.pl/judgments/449655
+457728|2021-06-09|SO|VI P 11/21|Wyrok|40|https://www.saos.org.pl/judgments/457728

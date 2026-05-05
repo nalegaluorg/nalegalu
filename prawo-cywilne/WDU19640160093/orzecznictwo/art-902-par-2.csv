@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504600|2024-01-11|SO|III APa 17/22|Wyrok|https://www.saos.org.pl/judgments/504600
-482522|2022-10-04|SO|I C 588/21|Wyrok|https://www.saos.org.pl/judgments/482522
-195181|2015-09-24|SO|I ACa 801/15|Wyrok|https://www.saos.org.pl/judgments/195181
-99374|2012-10-17|SN|II CSK 646/11|Wyrok|https://www.saos.org.pl/judgments/99374
+saos_id|date|court|case_number|type|score|saos_url
+99374|2012-10-17|SN|II CSK 646/11|Wyrok|78|https://www.saos.org.pl/judgments/99374
+504600|2024-01-11|SO|III APa 17/22|Wyrok|56|https://www.saos.org.pl/judgments/504600
+195181|2015-09-24|SO|I ACa 801/15|Wyrok|56|https://www.saos.org.pl/judgments/195181

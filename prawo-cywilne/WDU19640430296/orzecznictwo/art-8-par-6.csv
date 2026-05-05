@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500997|2023-03-15|SO|II AKa 352/22|Wyrok|https://www.saos.org.pl/judgments/500997
-176023|2015-08-19|SO|VIII Gz 86/15|Postanowienie|https://www.saos.org.pl/judgments/176023
+saos_id|date|court|case_number|type|score|saos_url
+500997|2023-03-15|SO|II AKa 352/22|Wyrok|56|https://www.saos.org.pl/judgments/500997

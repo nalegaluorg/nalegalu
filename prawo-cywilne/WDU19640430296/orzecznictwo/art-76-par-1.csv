@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-430251|2020-10-29|SO|I AGa 91/19|Wyrok|https://www.saos.org.pl/judgments/430251
-529726|2020-06-30|SO|II Cz 361/20|Zarządzenie|https://www.saos.org.pl/judgments/529726
+saos_id|date|court|case_number|type|score|saos_url
+430251|2020-10-29|SO|I AGa 91/19|Wyrok|56|https://www.saos.org.pl/judgments/430251

@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-439903|2021-05-04|SO|IV Ka 774/20|Uzasadnienie|https://www.saos.org.pl/judgments/439903
-455676|2021-03-30|SO|IX Ka 643/20|Wyrok|https://www.saos.org.pl/judgments/455676
-179594|2015-06-24|SO|II K 683/14|Uzasadnienie|https://www.saos.org.pl/judgments/179594
-147672|2014-07-10|SO|II AKa 177/14|Wyrok|https://www.saos.org.pl/judgments/147672
-141802|2013-10-24|SO|II AKa 326/13|Wyrok|https://www.saos.org.pl/judgments/141802
-111011|2012-09-25|TK|SK 28/10|Wyrok|https://www.saos.org.pl/judgments/111011
-84717|2006-11-09|SN|WZ 27/06|Postanowienie|https://www.saos.org.pl/judgments/84717
-84338|2006-05-23|SN|I KZP 5/06|Uchwała|https://www.saos.org.pl/judgments/84338
+saos_id|date|court|case_number|type|score|saos_url
+111011|2012-09-25|TK|SK 28/10|Wyrok|98|https://www.saos.org.pl/judgments/111011
+84338|2006-05-23|SN|I KZP 5/06|Uchwała|89|https://www.saos.org.pl/judgments/84338
+84717|2006-11-09|SN|WZ 27/06|Postanowienie|69|https://www.saos.org.pl/judgments/84717
+147672|2014-07-10|SO|II AKa 177/14|Wyrok|56|https://www.saos.org.pl/judgments/147672
+141802|2013-10-24|SO|II AKa 326/13|Wyrok|56|https://www.saos.org.pl/judgments/141802

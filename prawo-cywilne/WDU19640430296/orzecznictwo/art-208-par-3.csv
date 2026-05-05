@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-528004|2023-12-15|SO|III Ca 2128/22|Uzasadnienie|https://www.saos.org.pl/judgments/528004
-479394|2022-06-29|SO|II Ca 108/21|Wyrok|https://www.saos.org.pl/judgments/479394
-416308|2019-03-06|SO|V ACa 98/18|Wyrok|https://www.saos.org.pl/judgments/416308
-125725|2014-12-19|SO|I ACa 1057/13|Wyrok|https://www.saos.org.pl/judgments/125725
+saos_id|date|court|case_number|type|score|saos_url
+416308|2019-03-06|SO|V ACa 98/18|Wyrok|56|https://www.saos.org.pl/judgments/416308
+125725|2014-12-19|SO|I ACa 1057/13|Wyrok|56|https://www.saos.org.pl/judgments/125725
+528004|2023-12-15|SO|III Ca 2128/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/528004

@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-485822|2023-04-06|SO|IX P 76/21|Zarządzenie|https://www.saos.org.pl/judgments/485822
+saos_id|date|court|case_number|type|score|saos_url
+436698|2020-12-22|SO|VI P 171/17|Wyrok|40|https://www.saos.org.pl/judgments/436698
+372621|2018-06-28|SO|IV Pa 7/17|Wyrok|40|https://www.saos.org.pl/judgments/372621
+306582|2017-06-14|SO|VI P 648/14|Wyrok|40|https://www.saos.org.pl/judgments/306582
+286720|2017-03-30|SO|IV P 7/16|Wyrok|40|https://www.saos.org.pl/judgments/286720
+281222|2017-03-31|SO|VIII Pa 178/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281222
+44098|2014-04-28|SO|VII Pa 68/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/44098

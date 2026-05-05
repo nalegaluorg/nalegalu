@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-496224|2022-05-04|SO|I C 1632/21|Uzasadnienie|https://www.saos.org.pl/judgments/496224
-445002|2019-06-26|SO|I AGa 290/18|Wyrok|https://www.saos.org.pl/judgments/445002
-259191|2016-10-24|SO|VI P 777/14|Wyrok|https://www.saos.org.pl/judgments/259191
-110937|2012-07-27|TK|P 8/12|Wyrok|https://www.saos.org.pl/judgments/110937
-98697|2012-07-18|SN|III CZP 33/12|Uchwała|https://www.saos.org.pl/judgments/98697
-108116|2007-10-17|TK|P 29/07|Postanowienie|https://www.saos.org.pl/judgments/108116
+saos_id|date|court|case_number|type|score|saos_url
+110937|2012-07-27|TK|P 8/12|Wyrok|98|https://www.saos.org.pl/judgments/110937
+98697|2012-07-18|SN|III CZP 33/12|Uchwała|89|https://www.saos.org.pl/judgments/98697
+108116|2007-10-17|TK|P 29/07|Postanowienie|80|https://www.saos.org.pl/judgments/108116
+445002|2019-06-26|SO|I AGa 290/18|Wyrok|56|https://www.saos.org.pl/judgments/445002

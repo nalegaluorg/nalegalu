@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-301287|2016-12-28|KIO|KIO 2339/16|Wyrok|https://www.saos.org.pl/judgments/301287
-233463|2016-06-17|SO|I C 202/15|Wyrok|https://www.saos.org.pl/judgments/233463
-201006|2015-05-05|KIO|KIO 773/15|Wyrok|https://www.saos.org.pl/judgments/201006
+saos_id|date|court|case_number|type|score|saos_url
+301287|2016-12-28|KIO|KIO 2339/16|Wyrok|44|https://www.saos.org.pl/judgments/301287
+201006|2015-05-05|KIO|KIO 773/15|Wyrok|44|https://www.saos.org.pl/judgments/201006

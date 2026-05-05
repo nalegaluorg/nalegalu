@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-438683|2020-10-26|SO|V AGa 608/18|Wyrok|https://www.saos.org.pl/judgments/438683
-239747|2016-07-14|SO|VIII Gz 103/16|Postanowienie|https://www.saos.org.pl/judgments/239747
-224050|2016-05-10|SO|I ACz 747/16|Postanowienie|https://www.saos.org.pl/judgments/224050
-196492|2016-01-08|SO|V ACz 1350/15|Postanowienie|https://www.saos.org.pl/judgments/196492
-215205|2015-11-06|SO|II C 1808/14|Uzasadnienie|https://www.saos.org.pl/judgments/215205
-159754|2015-03-24|SO|III Ca 667/14|Wyrok|https://www.saos.org.pl/judgments/159754
-190300|2015-02-03|SO|II Cz 51/15|Postanowienie|https://www.saos.org.pl/judgments/190300
-133457|2014-12-29|SO|II Cz 858/14|Postanowienie|https://www.saos.org.pl/judgments/133457
+saos_id|date|court|case_number|type|score|saos_url
+438683|2020-10-26|SO|V AGa 608/18|Wyrok|56|https://www.saos.org.pl/judgments/438683
+224050|2016-05-10|SO|I ACz 747/16|Postanowienie|47|https://www.saos.org.pl/judgments/224050
+196492|2016-01-08|SO|V ACz 1350/15|Postanowienie|47|https://www.saos.org.pl/judgments/196492
+215205|2015-11-06|SO|II C 1808/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/215205

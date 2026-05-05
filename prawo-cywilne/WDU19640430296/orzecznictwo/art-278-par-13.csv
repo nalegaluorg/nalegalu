@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-472773|2022-07-28|SO|IX Ca 1474/21|Postanowienie|https://www.saos.org.pl/judgments/472773
-134693|2014-12-24|SO|III Ca 956/14|Uzasadnienie|https://www.saos.org.pl/judgments/134693
+saos_id|date|court|case_number|type|score|saos_url
+134693|2014-12-24|SO|III Ca 956/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/134693

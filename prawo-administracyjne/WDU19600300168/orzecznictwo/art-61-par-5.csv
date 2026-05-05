@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-530443|2025-04-02|SO|VIII U 1905/24|Uzasadnienie|https://www.saos.org.pl/judgments/530443
-517767|2024-06-06|SO|VIII U 1273/23|Uzasadnienie|https://www.saos.org.pl/judgments/517767
-438547|2021-02-17|SO|III AUa 1290/19|Wyrok|https://www.saos.org.pl/judgments/438547
+saos_id|date|court|case_number|type|score|saos_url
+438547|2021-02-17|SO|III AUa 1290/19|Wyrok|56|https://www.saos.org.pl/judgments/438547
+530443|2025-04-02|SO|VIII U 1905/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/530443
+517767|2024-06-06|SO|VIII U 1273/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/517767

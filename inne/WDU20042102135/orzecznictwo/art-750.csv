@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245769|2016-05-12|SO|III AUa 696/15|Wyrok|https://www.saos.org.pl/judgments/245769
+saos_id|date|court|case_number|type|score|saos_url
+245769|2016-05-12|SO|III AUa 696/15|Wyrok|56|https://www.saos.org.pl/judgments/245769

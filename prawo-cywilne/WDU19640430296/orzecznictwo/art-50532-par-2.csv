@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-342447|2018-05-07|SO|I C 1359/17|Wyrok|https://www.saos.org.pl/judgments/342447
-341516|2018-04-13|SO|I C 1272/17|Wyrok|https://www.saos.org.pl/judgments/341516
-236393|2016-07-28|SO|XIII Ga 445/16|Uzasadnienie|https://www.saos.org.pl/judgments/236393
-48507|2014-05-26|SO|II Cz 795/14|Postanowienie|https://www.saos.org.pl/judgments/48507
+saos_id|date|court|case_number|type|score|saos_url
+236393|2016-07-28|SO|XIII Ga 445/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/236393

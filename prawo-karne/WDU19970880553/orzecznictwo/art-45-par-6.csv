@@ -1,16 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-452380|2021-07-09|SO|VII K 828/18|Uzasadnienie|https://www.saos.org.pl/judgments/452380
-452379|2021-05-21|SO|VII K 828/18|Wyrok|https://www.saos.org.pl/judgments/452379
-339082|2018-03-01|SO|II K 602/15|Wyrok|https://www.saos.org.pl/judgments/339082
-270325|2017-01-27|SO|II K 1499/15|Wyrok|https://www.saos.org.pl/judgments/270325
-232248|2016-06-24|SO|IV K 158/15|Uzasadnienie|https://www.saos.org.pl/judgments/232248
-232247|2016-06-07|SO|IV K 158/15|Wyrok|https://www.saos.org.pl/judgments/232247
-233502|2016-05-24|SO|II AKa 72/16|Wyrok|https://www.saos.org.pl/judgments/233502
-210277|2015-08-28|SO|II K 81/11|Uzasadnienie|https://www.saos.org.pl/judgments/210277
-218071|2015-08-20|SO|IV Ka 519/15|Wyrok|https://www.saos.org.pl/judgments/218071
-178571|2015-07-30|SO|II AKa 170/15|Wyrok|https://www.saos.org.pl/judgments/178571
-190169|2015-03-31|SO|XI Ka 1380/14|Wyrok|https://www.saos.org.pl/judgments/190169
-167896|2015-01-12|SN|III KK 247/14|Postanowienie|https://www.saos.org.pl/judgments/167896
-21965|2013-07-26|SO|IX Ka 868/13|Wyrok|https://www.saos.org.pl/judgments/21965
-101879|2013-05-23|SN|IV KK 56/13|Wyrok|https://www.saos.org.pl/judgments/101879
-136533|2012-12-20|SO|II AKa 485/12|Wyrok|https://www.saos.org.pl/judgments/136533
+saos_id|date|court|case_number|type|score|saos_url
+101879|2013-05-23|SN|IV KK 56/13|Wyrok|78|https://www.saos.org.pl/judgments/101879
+167896|2015-01-12|SN|III KK 247/14|Postanowienie|69|https://www.saos.org.pl/judgments/167896
+233502|2016-05-24|SO|II AKa 72/16|Wyrok|56|https://www.saos.org.pl/judgments/233502
+178571|2015-07-30|SO|II AKa 170/15|Wyrok|56|https://www.saos.org.pl/judgments/178571
+136533|2012-12-20|SO|II AKa 485/12|Wyrok|56|https://www.saos.org.pl/judgments/136533
+232247|2016-06-07|SO|IV K 158/15|Wyrok|40|https://www.saos.org.pl/judgments/232247
+232248|2016-06-24|SO|IV K 158/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/232248

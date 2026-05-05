@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-536873|2025-06-23|SO|II W 104/25|Wyrok|https://www.saos.org.pl/judgments/536873
-544770|2025-04-24|SO|II W 885/23|Wyrok|https://www.saos.org.pl/judgments/544770
-397938|2019-05-15|SO|II W 1210/18|Wyrok|https://www.saos.org.pl/judgments/397938
-393295|2019-04-24|SO|II W 1175/18|Wyrok|https://www.saos.org.pl/judgments/393295
-364754|2018-11-14|SO|XI W 391/17|Postanowienie|https://www.saos.org.pl/judgments/364754
+saos_id|date|court|case_number|type|score|saos_url
+536873|2025-06-23|SO|II W 104/25|Wyrok|40|https://www.saos.org.pl/judgments/536873

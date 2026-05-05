@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-540869|2023-10-10|SO|V AGa 357/22|Wyrok|https://www.saos.org.pl/judgments/540869
-520144|2022-06-20|SO|V GC 167/21|Wyrok|https://www.saos.org.pl/judgments/520144
-465891|2022-04-13|SO|VIII GC 63/21|Uzasadnienie|https://www.saos.org.pl/judgments/465891
-381816|2018-05-22|SO|V AGa 199/18|Wyrok|https://www.saos.org.pl/judgments/381816
+saos_id|date|court|case_number|type|score|saos_url
+540869|2023-10-10|SO|V AGa 357/22|Wyrok|56|https://www.saos.org.pl/judgments/540869
+381816|2018-05-22|SO|V AGa 199/18|Wyrok|56|https://www.saos.org.pl/judgments/381816
+520144|2022-06-20|SO|V GC 167/21|Wyrok|40|https://www.saos.org.pl/judgments/520144

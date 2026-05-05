@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-97117|2012-02-10|SN|II PK 145/11|Wyrok|https://www.saos.org.pl/judgments/97117
+saos_id|date|court|case_number|type|score|saos_url
+97117|2012-02-10|SN|II PK 145/11|Wyrok|78|https://www.saos.org.pl/judgments/97117

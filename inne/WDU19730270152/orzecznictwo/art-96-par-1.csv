@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-385418|2019-05-14|SO|IV 1Ka 272/18|Wyrok|https://www.saos.org.pl/judgments/385418
+saos_id|date|court|case_number|type|score|saos_url
+385418|2019-05-14|SO|IV 1Ka 272/18|Wyrok|40|https://www.saos.org.pl/judgments/385418

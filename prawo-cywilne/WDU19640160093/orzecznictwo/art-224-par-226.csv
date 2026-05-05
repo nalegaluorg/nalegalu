@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-342998|2018-02-28|SO|I ACa 538/17|Wyrok|https://www.saos.org.pl/judgments/342998
-178434|2015-06-29|SO|I ACa 231/15|Wyrok|https://www.saos.org.pl/judgments/178434
+saos_id|date|court|case_number|type|score|saos_url
+342998|2018-02-28|SO|I ACa 538/17|Wyrok|56|https://www.saos.org.pl/judgments/342998
+178434|2015-06-29|SO|I ACa 231/15|Wyrok|56|https://www.saos.org.pl/judgments/178434

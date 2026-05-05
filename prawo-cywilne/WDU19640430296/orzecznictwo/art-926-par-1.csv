@@ -1,28 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-538295|2025-05-07|SO|I Ns 365/20|Postanowienie|https://www.saos.org.pl/judgments/538295
-478967|2022-11-18|SO|IX Ca 773/22|Postanowienie|https://www.saos.org.pl/judgments/478967
-478668|2022-10-17|SO|II1 Co 1842/22|Postanowienie|https://www.saos.org.pl/judgments/478668
-480303|2022-08-24|SO|I Ns 347/22|Uzasadnienie|https://www.saos.org.pl/judgments/480303
-464195|2021-12-16|SO|I Ns 334/20|Postanowienie|https://www.saos.org.pl/judgments/464195
-445736|2020-08-12|SO|I Ns 177/18|Zarządzenie|https://www.saos.org.pl/judgments/445736
-377588|2019-04-04|SO|I Ns 86/19|Postanowienie|https://www.saos.org.pl/judgments/377588
-377543|2019-02-12|SO|I Ns 1086/18|Postanowienie|https://www.saos.org.pl/judgments/377543
-341831|2018-05-15|SO|I Ns 95/18|Postanowienie|https://www.saos.org.pl/judgments/341831
-338197|2018-04-19|SO|IX Ca 431/17|Wyrok|https://www.saos.org.pl/judgments/338197
-331209|2018-02-01|SO|I ACa 777/17|Wyrok|https://www.saos.org.pl/judgments/331209
-317545|2017-07-21|SO|III Ns 302/17|Postanowienie|https://www.saos.org.pl/judgments/317545
-318450|2017-07-06|SO|III Ns 36/17|Postanowienie|https://www.saos.org.pl/judgments/318450
-295022|2017-06-22|SO|I Ns 391/17|Postanowienie|https://www.saos.org.pl/judgments/295022
-281057|2017-03-21|SO|V Ka 1682/16|Uzasadnienie|https://www.saos.org.pl/judgments/281057
-292430|2017-02-09|SO|I C 344/16|Wyrok|https://www.saos.org.pl/judgments/292430
-437187|2016-11-21|SO|I Ns 1011/16|Zarządzenie|https://www.saos.org.pl/judgments/437187
-432710|2016-09-14|SO|I Ns 698/15|Postanowienie|https://www.saos.org.pl/judgments/432710
-311737|2016-09-14|SO|I C 32/16|Wyrok|https://www.saos.org.pl/judgments/311737
-411931|2016-08-31|SO|I Ns 99/16|Postanowienie|https://www.saos.org.pl/judgments/411931
-210198|2015-12-22|SO|I Ns 979/14|Postanowienie|https://www.saos.org.pl/judgments/210198
-70134|2014-07-29|SO|I Ns 999/13|Postanowienie|https://www.saos.org.pl/judgments/70134
-50466|2014-05-22|SO|II Ca 223/14|Postanowienie|https://www.saos.org.pl/judgments/50466
-33151|2013-11-07|SO|II Ca 988/13|Postanowienie|https://www.saos.org.pl/judgments/33151
-275575|2013-10-09|SO|II Cz 1444/13|Postanowienie|https://www.saos.org.pl/judgments/275575
-141108|2013-10-01|SO|I Ns 1112/13|Postanowienie|https://www.saos.org.pl/judgments/141108
-137480|2013-02-21|SO|I Ns 1027/12|Postanowienie|https://www.saos.org.pl/judgments/137480
+saos_id|date|court|case_number|type|score|saos_url
+331209|2018-02-01|SO|I ACa 777/17|Wyrok|56|https://www.saos.org.pl/judgments/331209
+478668|2022-10-17|SO|II1 Co 1842/22|Postanowienie|31|https://www.saos.org.pl/judgments/478668
+317545|2017-07-21|SO|III Ns 302/17|Postanowienie|31|https://www.saos.org.pl/judgments/317545
+318450|2017-07-06|SO|III Ns 36/17|Postanowienie|31|https://www.saos.org.pl/judgments/318450
+33151|2013-11-07|SO|II Ca 988/13|Postanowienie|31|https://www.saos.org.pl/judgments/33151
+281057|2017-03-21|SO|V Ka 1682/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281057

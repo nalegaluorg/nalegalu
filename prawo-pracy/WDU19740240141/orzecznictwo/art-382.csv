@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-521591|2024-04-12|SO|I ACa 596/23|Wyrok|https://www.saos.org.pl/judgments/521591
-419897|2020-07-22|SO|I Ca 172/20|Wyrok|https://www.saos.org.pl/judgments/419897
-413792|2020-05-13|SO|I Ca 88/20|Wyrok|https://www.saos.org.pl/judgments/413792
-289512|2017-05-25|SO|VIII Ua 99/16|Uzasadnienie|https://www.saos.org.pl/judgments/289512
-67158|2014-10-28|SO|VII Pa 246/14|Uzasadnienie|https://www.saos.org.pl/judgments/67158
-97926|2012-04-25|SN|II PK 209/11|Wyrok|https://www.saos.org.pl/judgments/97926
-95840|2011-09-30|SN|III PK 14/11|Wyrok|https://www.saos.org.pl/judgments/95840
-78967|1999-04-13|SN|I PKN 3/99|Wyrok|https://www.saos.org.pl/judgments/78967
-77774|1997-09-05|SN|I PKN 226/97|Wyrok|https://www.saos.org.pl/judgments/77774
+saos_id|date|court|case_number|type|score|saos_url
+97926|2012-04-25|SN|II PK 209/11|Wyrok|78|https://www.saos.org.pl/judgments/97926
+95840|2011-09-30|SN|III PK 14/11|Wyrok|78|https://www.saos.org.pl/judgments/95840
+78967|1999-04-13|SN|I PKN 3/99|Wyrok|78|https://www.saos.org.pl/judgments/78967
+77774|1997-09-05|SN|I PKN 226/97|Wyrok|78|https://www.saos.org.pl/judgments/77774
+521591|2024-04-12|SO|I ACa 596/23|Wyrok|56|https://www.saos.org.pl/judgments/521591
+289512|2017-05-25|SO|VIII Ua 99/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/289512
+67158|2014-10-28|SO|VII Pa 246/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/67158

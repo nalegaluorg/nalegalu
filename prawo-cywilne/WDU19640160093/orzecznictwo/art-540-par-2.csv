@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-164442|2006-07-26|SN|IV CSK 97/06|Wyrok|https://www.saos.org.pl/judgments/164442
-82538|2004-03-03|SN|III CZP 122/03|Uchwała|https://www.saos.org.pl/judgments/82538
+saos_id|date|court|case_number|type|score|saos_url
+82538|2004-03-03|SN|III CZP 122/03|Uchwała|89|https://www.saos.org.pl/judgments/82538
+164442|2006-07-26|SN|IV CSK 97/06|Wyrok|78|https://www.saos.org.pl/judgments/164442

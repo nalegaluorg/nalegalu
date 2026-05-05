@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-534061|2025-05-19|SO|VIII U 1409/24|Uzasadnienie|https://www.saos.org.pl/judgments/534061
-527003|2025-04-23|SO|III U 561/24|Wyrok|https://www.saos.org.pl/judgments/527003
-532817|2025-04-04|SO|VIII U 1443/24|Uzasadnienie|https://www.saos.org.pl/judgments/532817
-513682|2023-07-27|SO|VIII U 2247/21|Uzasadnienie|https://www.saos.org.pl/judgments/513682
-491966|2023-07-21|SO|VIII U 2288/21|Uzasadnienie|https://www.saos.org.pl/judgments/491966
-492142|2023-07-11|SO|VIII U 2270/22|Uzasadnienie|https://www.saos.org.pl/judgments/492142
-487990|2023-05-02|SO|VIII U 2477/22|Uzasadnienie|https://www.saos.org.pl/judgments/487990
-484283|2023-03-02|SO|VIII U 2410/21|Uzasadnienie|https://www.saos.org.pl/judgments/484283
-481822|2023-01-10|SO|VIII U 1458/21|Uzasadnienie|https://www.saos.org.pl/judgments/481822
-478915|2022-12-07|SO|VIII U 1945/21|Zarządzenie|https://www.saos.org.pl/judgments/478915
-478228|2022-11-29|SO|VIII U 1630/21|Uzasadnienie|https://www.saos.org.pl/judgments/478228
-464941|2022-05-17|SO|VIII U 3982/19|Uzasadnienie|https://www.saos.org.pl/judgments/464941
+saos_id|date|court|case_number|type|score|saos_url
+534061|2025-05-19|SO|VIII U 1409/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534061
+532817|2025-04-04|SO|VIII U 1443/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/532817
+513682|2023-07-27|SO|VIII U 2247/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/513682
+491966|2023-07-21|SO|VIII U 2288/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/491966
+492142|2023-07-11|SO|VIII U 2270/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/492142
+487990|2023-05-02|SO|VIII U 2477/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/487990
+484283|2023-03-02|SO|VIII U 2410/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/484283
+481822|2023-01-10|SO|VIII U 1458/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/481822
+478915|2022-12-07|SO|VIII U 1945/21|Zarządzenie|27|https://www.saos.org.pl/judgments/478915
+478228|2022-11-29|SO|VIII U 1630/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/478228
+464941|2022-05-17|SO|VIII U 3982/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/464941

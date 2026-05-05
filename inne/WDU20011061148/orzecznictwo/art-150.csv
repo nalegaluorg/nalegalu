@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467574|2020-04-09|SO|V ACa 117/20|Wyrok|https://www.saos.org.pl/judgments/467574
-400684|2019-12-17|SO|I C 2009/18|Wyrok|https://www.saos.org.pl/judgments/400684
-406864|2019-10-01|SO|XI Ka 758/19|Wyrok|https://www.saos.org.pl/judgments/406864
+saos_id|date|court|case_number|type|score|saos_url
+467574|2020-04-09|SO|V ACa 117/20|Wyrok|56|https://www.saos.org.pl/judgments/467574

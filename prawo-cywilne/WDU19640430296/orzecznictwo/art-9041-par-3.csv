@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-452021|2020-02-26|SO|V AGa 599/18|Wyrok|https://www.saos.org.pl/judgments/452021
+saos_id|date|court|case_number|type|score|saos_url
+452021|2020-02-26|SO|V AGa 599/18|Wyrok|56|https://www.saos.org.pl/judgments/452021

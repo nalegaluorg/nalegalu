@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-426718|2020-11-05|SO|XII C 707/19|Wyrok|https://www.saos.org.pl/judgments/426718
-534810|2017-09-28|SO|I ACa 636/17|Uzasadnienie|https://www.saos.org.pl/judgments/534810
-154848|2015-02-10|SO|I ACa 1114/14|Wyrok|https://www.saos.org.pl/judgments/154848
-72066|2014-09-04|SO|I ACa 364/14|Wyrok|https://www.saos.org.pl/judgments/72066
-287201|2014-01-13|SO|II C 210/07|Wyrok|https://www.saos.org.pl/judgments/287201
-136052|2012-05-10|SO|I ACz 660/12|Postanowienie|https://www.saos.org.pl/judgments/136052
-91264|2009-11-20|SN|III CZP 88/09|Uchwała|https://www.saos.org.pl/judgments/91264
-87354|2008-02-11|SN|V CSK 497/07|Postanowienie|https://www.saos.org.pl/judgments/87354
-86972|2008-01-04|SN|III CZP 113/07|Uchwała|https://www.saos.org.pl/judgments/86972
+saos_id|date|court|case_number|type|score|saos_url
+91264|2009-11-20|SN|III CZP 88/09|Uchwała|89|https://www.saos.org.pl/judgments/91264
+86972|2008-01-04|SN|III CZP 113/07|Uchwała|89|https://www.saos.org.pl/judgments/86972
+87354|2008-02-11|SN|V CSK 497/07|Postanowienie|69|https://www.saos.org.pl/judgments/87354
+154848|2015-02-10|SO|I ACa 1114/14|Wyrok|56|https://www.saos.org.pl/judgments/154848
+72066|2014-09-04|SO|I ACa 364/14|Wyrok|56|https://www.saos.org.pl/judgments/72066
+136052|2012-05-10|SO|I ACz 660/12|Postanowienie|47|https://www.saos.org.pl/judgments/136052
+534810|2017-09-28|SO|I ACa 636/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/534810
+426718|2020-11-05|SO|XII C 707/19|Wyrok|40|https://www.saos.org.pl/judgments/426718

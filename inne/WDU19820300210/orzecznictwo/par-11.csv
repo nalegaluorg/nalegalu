@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-542094|2026-01-21|SO|IV P 553/24|Uzasadnienie|https://www.saos.org.pl/judgments/542094
-476987|2022-06-22|SO|I ACa 669/21|Wyrok|https://www.saos.org.pl/judgments/476987
-470663|2020-12-09|SO|I ACa 1093/19|Wyrok|https://www.saos.org.pl/judgments/470663
+saos_id|date|court|case_number|type|score|saos_url
+476987|2022-06-22|SO|I ACa 669/21|Wyrok|56|https://www.saos.org.pl/judgments/476987
+470663|2020-12-09|SO|I ACa 1093/19|Wyrok|56|https://www.saos.org.pl/judgments/470663

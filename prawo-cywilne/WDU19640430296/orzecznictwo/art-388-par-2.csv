@@ -1,21 +1,17 @@
-saos_id|date|court|case_number|type|saos_url
-531019|2024-10-17|SO|I ACa 1486/22|Wyrok|https://www.saos.org.pl/judgments/531019
-429305|2020-11-30|SO|I ACa 360/20|Wyrok|https://www.saos.org.pl/judgments/429305
-425638|2020-10-08|SO|I C 2028/18|Wyrok|https://www.saos.org.pl/judgments/425638
-437833|2020-08-05|SO|X C 682/20|Wyrok|https://www.saos.org.pl/judgments/437833
-410195|2020-04-06|SO|XXIV C 716/19|Wyrok|https://www.saos.org.pl/judgments/410195
-481110|2017-10-11|SO|I ACa 584/17|Wyrok|https://www.saos.org.pl/judgments/481110
-273174|2017-02-10|SO|III C 396/16|Wyrok|https://www.saos.org.pl/judgments/273174
-278275|2016-12-28|SO|I ACa 515/16|Wyrok|https://www.saos.org.pl/judgments/278275
-72658|2014-06-05|SO|II Ca 205/14|Wyrok|https://www.saos.org.pl/judgments/72658
-75816|2014-05-09|SO|I ACa 511/14|Wyrok|https://www.saos.org.pl/judgments/75816
-91292|2009-11-26|SN|I CZ 74/09|Postanowienie|https://www.saos.org.pl/judgments/91292
-87746|2008-04-04|SN|I PK 247/07|Wyrok|https://www.saos.org.pl/judgments/87746
-108597|2008-02-19|TK|P 49/06|Wyrok|https://www.saos.org.pl/judgments/108597
-164622|2006-11-09|SN|IV CSK 189/06|Postanowienie|https://www.saos.org.pl/judgments/164622
-78360|1998-06-03|SN|I PKN 161/98|Wyrok|https://www.saos.org.pl/judgments/78360
-77291|1996-10-24|SN|II URN 33/96|Wyrok|https://www.saos.org.pl/judgments/77291
-77285|1996-10-23|SN|I PRN 79/96|Wyrok|https://www.saos.org.pl/judgments/77285
-76980|1995-10-25|SN|I PRN 81/95|Postanowienie|https://www.saos.org.pl/judgments/76980
-76733|1994-12-16|SN|I PRN 33/94|Wyrok|https://www.saos.org.pl/judgments/76733
-76566|1994-06-14|SN|I PRN 34/94|Wyrok|https://www.saos.org.pl/judgments/76566
+saos_id|date|court|case_number|type|score|saos_url
+108597|2008-02-19|TK|P 49/06|Wyrok|98|https://www.saos.org.pl/judgments/108597
+87746|2008-04-04|SN|I PK 247/07|Wyrok|78|https://www.saos.org.pl/judgments/87746
+78360|1998-06-03|SN|I PKN 161/98|Wyrok|78|https://www.saos.org.pl/judgments/78360
+77291|1996-10-24|SN|II URN 33/96|Wyrok|78|https://www.saos.org.pl/judgments/77291
+77285|1996-10-23|SN|I PRN 79/96|Wyrok|78|https://www.saos.org.pl/judgments/77285
+76733|1994-12-16|SN|I PRN 33/94|Wyrok|78|https://www.saos.org.pl/judgments/76733
+76566|1994-06-14|SN|I PRN 34/94|Wyrok|78|https://www.saos.org.pl/judgments/76566
+91292|2009-11-26|SN|I CZ 74/09|Postanowienie|69|https://www.saos.org.pl/judgments/91292
+164622|2006-11-09|SN|IV CSK 189/06|Postanowienie|69|https://www.saos.org.pl/judgments/164622
+76980|1995-10-25|SN|I PRN 81/95|Postanowienie|69|https://www.saos.org.pl/judgments/76980
+531019|2024-10-17|SO|I ACa 1486/22|Wyrok|56|https://www.saos.org.pl/judgments/531019
+429305|2020-11-30|SO|I ACa 360/20|Wyrok|56|https://www.saos.org.pl/judgments/429305
+481110|2017-10-11|SO|I ACa 584/17|Wyrok|56|https://www.saos.org.pl/judgments/481110
+278275|2016-12-28|SO|I ACa 515/16|Wyrok|56|https://www.saos.org.pl/judgments/278275
+75816|2014-05-09|SO|I ACa 511/14|Wyrok|56|https://www.saos.org.pl/judgments/75816
+273174|2017-02-10|SO|III C 396/16|Wyrok|40|https://www.saos.org.pl/judgments/273174

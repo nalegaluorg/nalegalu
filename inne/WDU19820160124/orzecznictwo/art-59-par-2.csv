@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205924|1999-01-27|TK|K 1/98|Wyrok|https://www.saos.org.pl/judgments/205924
+saos_id|date|court|case_number|type|score|saos_url
+205924|1999-01-27|TK|K 1/98|Wyrok|98|https://www.saos.org.pl/judgments/205924

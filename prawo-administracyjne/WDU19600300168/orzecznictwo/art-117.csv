@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-458039|2022-02-10|SO|III Ka 606/21|Uzasadnienie|https://www.saos.org.pl/judgments/458039
-345941|2018-05-23|SO|V ACa 114/17|Wyrok|https://www.saos.org.pl/judgments/345941
-314342|2017-10-20|SO|I Ns 225/12|Uzasadnienie|https://www.saos.org.pl/judgments/314342
-375115|2017-07-20|SO|I C 115/17|Wyrok|https://www.saos.org.pl/judgments/375115
+saos_id|date|court|case_number|type|score|saos_url
+345941|2018-05-23|SO|V ACa 114/17|Wyrok|56|https://www.saos.org.pl/judgments/345941
+375115|2017-07-20|SO|I C 115/17|Wyrok|40|https://www.saos.org.pl/judgments/375115
+314342|2017-10-20|SO|I Ns 225/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/314342

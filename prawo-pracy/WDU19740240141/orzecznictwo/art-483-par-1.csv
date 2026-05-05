@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-521468|2022-05-27|SO|I AGa 338/20|Wyrok|https://www.saos.org.pl/judgments/521468
+saos_id|date|court|case_number|type|score|saos_url
+521468|2022-05-27|SO|I AGa 338/20|Wyrok|56|https://www.saos.org.pl/judgments/521468

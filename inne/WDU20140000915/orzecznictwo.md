@@ -52,6 +52,6 @@ Orzeczenia powołujące: *Ustawa z dnia 9 maja 2014 r. o informowaniu o cenach t
 
 ## art. 26 (2)
 
-- 2015-11-18 | SN | [III CZP 73/15](https://www.saos.org.pl/judgments/243864) | Uchwała
-- 2015-02-18 | SN | [I CSK 64/14](https://www.saos.org.pl/judgments/168325) | Wyrok
+- 2015-11-18 | SN | [III CZP 73/15](https://www.saos.org.pl/judgments/243864) | Uchwała ★
+- 2015-02-18 | SN | [I CSK 64/14](https://www.saos.org.pl/judgments/168325) | Wyrok ★
 

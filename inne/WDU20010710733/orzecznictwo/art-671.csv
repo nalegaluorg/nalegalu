@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-203609|2016-01-19|SO|VIII C 4440/14|Wyrok|https://www.saos.org.pl/judgments/203609
+saos_id|date|court|case_number|type|score|saos_url
+203609|2016-01-19|SO|VIII C 4440/14|Wyrok|40|https://www.saos.org.pl/judgments/203609

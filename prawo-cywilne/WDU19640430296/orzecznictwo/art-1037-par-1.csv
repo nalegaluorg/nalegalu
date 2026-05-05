@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-544650|2026-04-16|SO|I 1 Cz 7/26|Postanowienie|https://www.saos.org.pl/judgments/544650
-536492|2024-06-25|SO|III Ca 741/22|Uzasadnienie|https://www.saos.org.pl/judgments/536492
-500163|2023-07-27|SO|I Ns 313/23|Postanowienie|https://www.saos.org.pl/judgments/500163
-532626|2023-05-19|SO|XV Ca 1733/22|Postanowienie|https://www.saos.org.pl/judgments/532626
-417023|2020-05-14|SO|VI GC 163/17|Wyrok|https://www.saos.org.pl/judgments/417023
-363248|2018-10-17|SO|III Ca 732/18|Uzasadnienie|https://www.saos.org.pl/judgments/363248
-357931|2018-10-09|SO|III Ca 631/18|Uzasadnienie|https://www.saos.org.pl/judgments/357931
-299458|2017-08-29|SO|I Ns 1241/15|Uzasadnienie|https://www.saos.org.pl/judgments/299458
-287534|2017-04-25|SO|II C 368/15|Uzasadnienie|https://www.saos.org.pl/judgments/287534
-502028|2016-02-11|SO|II Ca 49/16|Wyrok|https://www.saos.org.pl/judgments/502028
-64206|2014-10-16|SO|IV Cz 606/14|Postanowienie|https://www.saos.org.pl/judgments/64206
-67512|2014-10-14|SO|IV Cz 609/14|Postanowienie|https://www.saos.org.pl/judgments/67512
-40807|2014-01-15|SO|VI ACa 447/13|Wyrok|https://www.saos.org.pl/judgments/40807
-61227|2014-01-07|SO|III Cz 1511/13|Postanowienie|https://www.saos.org.pl/judgments/61227
-17278|2013-03-13|SO|II Cz 209/13|Postanowienie|https://www.saos.org.pl/judgments/17278
+saos_id|date|court|case_number|type|score|saos_url
+40807|2014-01-15|SO|VI ACa 447/13|Wyrok|56|https://www.saos.org.pl/judgments/40807
+417023|2020-05-14|SO|VI GC 163/17|Wyrok|40|https://www.saos.org.pl/judgments/417023
+532626|2023-05-19|SO|XV Ca 1733/22|Postanowienie|31|https://www.saos.org.pl/judgments/532626
+536492|2024-06-25|SO|III Ca 741/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/536492
+363248|2018-10-17|SO|III Ca 732/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/363248
+357931|2018-10-09|SO|III Ca 631/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/357931
+299458|2017-08-29|SO|I Ns 1241/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/299458
+287534|2017-04-25|SO|II C 368/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/287534

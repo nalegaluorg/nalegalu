@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-104073|2014-01-15|SN|I CSK 196/13|Postanowienie|https://www.saos.org.pl/judgments/104073
-101796|2013-05-23|SN|I CZ 46/13|Postanowienie|https://www.saos.org.pl/judgments/101796
-97808|2012-04-12|SN|II UK 235/11|Wyrok|https://www.saos.org.pl/judgments/97808
-97807|2012-04-12|SN|II UK 233/11|Wyrok|https://www.saos.org.pl/judgments/97807
-96628|2011-12-16|SN|V CSK 37/11|Postanowienie|https://www.saos.org.pl/judgments/96628
+saos_id|date|court|case_number|type|score|saos_url
+97808|2012-04-12|SN|II UK 235/11|Wyrok|78|https://www.saos.org.pl/judgments/97808
+97807|2012-04-12|SN|II UK 233/11|Wyrok|78|https://www.saos.org.pl/judgments/97807
+104073|2014-01-15|SN|I CSK 196/13|Postanowienie|69|https://www.saos.org.pl/judgments/104073
+101796|2013-05-23|SN|I CZ 46/13|Postanowienie|69|https://www.saos.org.pl/judgments/101796
+96628|2011-12-16|SN|V CSK 37/11|Postanowienie|69|https://www.saos.org.pl/judgments/96628

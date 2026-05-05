@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-251979|2016-05-13|SO|V ACa 177/16|Wyrok|https://www.saos.org.pl/judgments/251979
-99186|2012-10-04|SN|I CSK 124/12|Wyrok|https://www.saos.org.pl/judgments/99186
-4474|2011-02-15|SO|I ACa 1/11|Wyrok|https://www.saos.org.pl/judgments/4474
-90562|2009-07-09|SN|III CSK 341/08|Wyrok|https://www.saos.org.pl/judgments/90562
-381442|2009-01-22|SO|V ACa 551/08|Wyrok|https://www.saos.org.pl/judgments/381442
+saos_id|date|court|case_number|type|score|saos_url
+99186|2012-10-04|SN|I CSK 124/12|Wyrok|78|https://www.saos.org.pl/judgments/99186
+90562|2009-07-09|SN|III CSK 341/08|Wyrok|78|https://www.saos.org.pl/judgments/90562
+251979|2016-05-13|SO|V ACa 177/16|Wyrok|56|https://www.saos.org.pl/judgments/251979
+4474|2011-02-15|SO|I ACa 1/11|Wyrok|56|https://www.saos.org.pl/judgments/4474
+381442|2009-01-22|SO|V ACa 551/08|Wyrok|56|https://www.saos.org.pl/judgments/381442

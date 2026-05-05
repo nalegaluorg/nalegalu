@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-519929|2024-11-27|SO|XII Ko 60/24|Wyrok|https://www.saos.org.pl/judgments/519929
-249563|2016-08-25|SO|XXI Pa 430/16|Wyrok|https://www.saos.org.pl/judgments/249563
-152250|2015-03-20|SO|III AUa 72/14|Wyrok|https://www.saos.org.pl/judgments/152250
+saos_id|date|court|case_number|type|score|saos_url
+152250|2015-03-20|SO|III AUa 72/14|Wyrok|56|https://www.saos.org.pl/judgments/152250

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-257390|2016-10-28|SO|III APa 43/15|Wyrok|https://www.saos.org.pl/judgments/257390
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
+saos_id|date|court|case_number|type|score|saos_url
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+257390|2016-10-28|SO|III APa 43/15|Wyrok|56|https://www.saos.org.pl/judgments/257390

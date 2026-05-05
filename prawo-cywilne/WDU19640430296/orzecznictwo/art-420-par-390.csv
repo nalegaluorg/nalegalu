@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-77225|1996-09-05|SN|II PRN 9/96|Wyrok|https://www.saos.org.pl/judgments/77225
+saos_id|date|court|case_number|type|score|saos_url
+77225|1996-09-05|SN|II PRN 9/96|Wyrok|78|https://www.saos.org.pl/judgments/77225

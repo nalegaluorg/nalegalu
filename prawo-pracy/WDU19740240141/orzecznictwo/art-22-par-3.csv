@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-512940|2024-04-16|SO|VIII Pa 18/24|Uzasadnienie|https://www.saos.org.pl/judgments/512940
-451293|2021-09-16|SO|III AUa 661/21|Wyrok|https://www.saos.org.pl/judgments/451293
-456055|2019-05-08|SO|III AUa 1228/18|Wyrok|https://www.saos.org.pl/judgments/456055
-337356|2018-04-05|SO|III AUa 837/17|Wyrok|https://www.saos.org.pl/judgments/337356
-150729|2015-03-31|SO|V Pa 81/14|Wyrok|https://www.saos.org.pl/judgments/150729
-16050|2013-06-19|SO|I ACa 141/13|Wyrok|https://www.saos.org.pl/judgments/16050
-12114|2013-04-29|SO|IV P 405/12|Wyrok|https://www.saos.org.pl/judgments/12114
-12113|2013-04-29|SO|IV P 405/12|Wyrok|https://www.saos.org.pl/judgments/12113
-27086|2012-09-04|SO|I ACa 834/12|Wyrok|https://www.saos.org.pl/judgments/27086
+saos_id|date|court|case_number|type|score|saos_url
+451293|2021-09-16|SO|III AUa 661/21|Wyrok|56|https://www.saos.org.pl/judgments/451293
+456055|2019-05-08|SO|III AUa 1228/18|Wyrok|56|https://www.saos.org.pl/judgments/456055
+337356|2018-04-05|SO|III AUa 837/17|Wyrok|56|https://www.saos.org.pl/judgments/337356
+16050|2013-06-19|SO|I ACa 141/13|Wyrok|56|https://www.saos.org.pl/judgments/16050
+27086|2012-09-04|SO|I ACa 834/12|Wyrok|56|https://www.saos.org.pl/judgments/27086
+512940|2024-04-16|SO|VIII Pa 18/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/512940

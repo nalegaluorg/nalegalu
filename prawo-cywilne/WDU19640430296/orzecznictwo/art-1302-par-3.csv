@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-75356|2014-09-25|SO|I ACa 456/14|Wyrok|https://www.saos.org.pl/judgments/75356
-292|2012-10-16|SO|III AUz 179/12|Postanowienie|https://www.saos.org.pl/judgments/292
-94714|2011-04-15|SN|II CZ 7/11|Postanowienie|https://www.saos.org.pl/judgments/94714
-91396|2009-12-03|SN|II CZ 69/09|Postanowienie|https://www.saos.org.pl/judgments/91396
-91241|2009-11-18|SN|II CZ 60/09|Postanowienie|https://www.saos.org.pl/judgments/91241
-164560|2006-10-13|SN|III CZ 59/06|Postanowienie|https://www.saos.org.pl/judgments/164560
+saos_id|date|court|case_number|type|score|saos_url
+94714|2011-04-15|SN|II CZ 7/11|Postanowienie|69|https://www.saos.org.pl/judgments/94714
+91396|2009-12-03|SN|II CZ 69/09|Postanowienie|69|https://www.saos.org.pl/judgments/91396
+91241|2009-11-18|SN|II CZ 60/09|Postanowienie|69|https://www.saos.org.pl/judgments/91241
+164560|2006-10-13|SN|III CZ 59/06|Postanowienie|69|https://www.saos.org.pl/judgments/164560
+75356|2014-09-25|SO|I ACa 456/14|Wyrok|56|https://www.saos.org.pl/judgments/75356
+292|2012-10-16|SO|III AUz 179/12|Postanowienie|47|https://www.saos.org.pl/judgments/292

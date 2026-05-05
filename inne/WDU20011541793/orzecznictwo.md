@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2001 r. o zmianie ustawy o go
 
 ## art. 3 (1)
 
-- 2009-07-02 | SN | [II BU 28/08](https://www.saos.org.pl/judgments/90499) | Wyrok
+- 2009-07-02 | SN | [II BU 28/08](https://www.saos.org.pl/judgments/90499) | Wyrok ★
 

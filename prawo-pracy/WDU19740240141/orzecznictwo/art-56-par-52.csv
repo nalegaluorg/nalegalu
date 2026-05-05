@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-226843|2016-04-12|SO|VII Pa 25/16|Wyrok|https://www.saos.org.pl/judgments/226843
+saos_id|date|court|case_number|type|score|saos_url
+226843|2016-04-12|SO|VII Pa 25/16|Wyrok|40|https://www.saos.org.pl/judgments/226843

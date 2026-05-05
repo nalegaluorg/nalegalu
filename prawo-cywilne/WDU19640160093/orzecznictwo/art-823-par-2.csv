@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-455412|2021-10-20|SO|I ACa 536/20|Wyrok|https://www.saos.org.pl/judgments/455412
-338445|2018-02-14|SO|I1 C 476/17|Wyrok|https://www.saos.org.pl/judgments/338445
-372578|2017-12-21|SO|I1 C 777/17|Wyrok|https://www.saos.org.pl/judgments/372578
-285143|2017-05-10|SO|I C 34/17|Wyrok|https://www.saos.org.pl/judgments/285143
-155740|2013-09-05|SO|II Ca 41/13|Wyrok|https://www.saos.org.pl/judgments/155740
+saos_id|date|court|case_number|type|score|saos_url
+455412|2021-10-20|SO|I ACa 536/20|Wyrok|56|https://www.saos.org.pl/judgments/455412

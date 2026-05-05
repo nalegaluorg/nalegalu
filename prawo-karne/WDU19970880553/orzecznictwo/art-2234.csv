@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-280678|2017-03-22|SO|II AKa 37/17|Wyrok|https://www.saos.org.pl/judgments/280678
+saos_id|date|court|case_number|type|score|saos_url
+280678|2017-03-22|SO|II AKa 37/17|Wyrok|56|https://www.saos.org.pl/judgments/280678

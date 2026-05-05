@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 18 kwietnia 20
 
 ## art. 4 (1)
 
-- 2011-10-05 | SN | [IV CSK 662/10](https://www.saos.org.pl/judgments/95928) | Wyrok
+- 2011-10-05 | SN | [IV CSK 662/10](https://www.saos.org.pl/judgments/95928) | Wyrok ★
 

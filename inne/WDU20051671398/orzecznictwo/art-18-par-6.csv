@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-127406|2014-12-16|SO|II Ca 147/14|Wyrok|https://www.saos.org.pl/judgments/127406
-65561|2014-09-25|SO|I Ca 199/14|Wyrok|https://www.saos.org.pl/judgments/65561
-26907|2013-11-13|SO|II Ca 890/13|Wyrok|https://www.saos.org.pl/judgments/26907
-20373|2013-06-21|SO|I ACa 611/13|Wyrok|https://www.saos.org.pl/judgments/20373
+saos_id|date|court|case_number|type|score|saos_url
+20373|2013-06-21|SO|I ACa 611/13|Wyrok|56|https://www.saos.org.pl/judgments/20373
+127406|2014-12-16|SO|II Ca 147/14|Wyrok|40|https://www.saos.org.pl/judgments/127406

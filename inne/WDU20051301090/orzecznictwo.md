@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 29 czerwca 200
 
 ## art. 31 § 1 (1)
 
-- 2006-02-28 | SN | [V KK 472/05](https://www.saos.org.pl/judgments/84129) | Wyrok
+- 2006-02-28 | SN | [V KK 472/05](https://www.saos.org.pl/judgments/84129) | Wyrok ★
 

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-80721|2001-07-06|SN|III RN 121/00|Postanowienie|https://www.saos.org.pl/judgments/80721
-80183|2000-12-13|SN|III RN 26/00|Postanowienie|https://www.saos.org.pl/judgments/80183
-76635|1994-09-21|SN|III ARN 43/94|Postanowienie|https://www.saos.org.pl/judgments/76635
+saos_id|date|court|case_number|type|score|saos_url
+80721|2001-07-06|SN|III RN 121/00|Postanowienie|69|https://www.saos.org.pl/judgments/80721
+80183|2000-12-13|SN|III RN 26/00|Postanowienie|69|https://www.saos.org.pl/judgments/80183
+76635|1994-09-21|SN|III ARN 43/94|Postanowienie|69|https://www.saos.org.pl/judgments/76635

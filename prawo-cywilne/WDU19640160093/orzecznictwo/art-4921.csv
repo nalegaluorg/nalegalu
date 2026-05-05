@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495243|2023-07-13|SO|I C 103/23|Wyrok|https://www.saos.org.pl/judgments/495243
-451170|2019-11-20|SO|IX GC 1305/17|Uzasadnienie|https://www.saos.org.pl/judgments/451170
-334508|2018-03-15|SO|VIII C 1379/17|Wyrok|https://www.saos.org.pl/judgments/334508
+saos_id|date|court|case_number|type|score|saos_url
+334508|2018-03-15|SO|VIII C 1379/17|Wyrok|40|https://www.saos.org.pl/judgments/334508

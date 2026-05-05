@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539510|2018-10-10|SO|VI C 1766/17|Zarządzenie|https://www.saos.org.pl/judgments/539510
-249575|2016-06-13|SO|I ACa 23/15|Wyrok|https://www.saos.org.pl/judgments/249575
+saos_id|date|court|case_number|type|score|saos_url
+249575|2016-06-13|SO|I ACa 23/15|Wyrok|56|https://www.saos.org.pl/judgments/249575

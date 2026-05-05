@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-458979|2021-10-12|SO|I AGa 32/18|Wyrok|https://www.saos.org.pl/judgments/458979
+saos_id|date|court|case_number|type|score|saos_url
+458979|2021-10-12|SO|I AGa 32/18|Wyrok|56|https://www.saos.org.pl/judgments/458979

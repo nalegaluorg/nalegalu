@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-441829|2016-02-10|SO|V ACa 490/15|Wyrok|https://www.saos.org.pl/judgments/441829
+saos_id|date|court|case_number|type|score|saos_url
+441829|2016-02-10|SO|V ACa 490/15|Wyrok|56|https://www.saos.org.pl/judgments/441829

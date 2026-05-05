@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-85398|2007-03-09|SN|V CSK 462/06|Postanowienie|https://www.saos.org.pl/judgments/85398
-85317|2007-02-22|SN|IV CSK 9/07|Postanowienie|https://www.saos.org.pl/judgments/85317
-164053|2006-02-14|SN|II CSK 86/05|Postanowienie|https://www.saos.org.pl/judgments/164053
+saos_id|date|court|case_number|type|score|saos_url
+85398|2007-03-09|SN|V CSK 462/06|Postanowienie|69|https://www.saos.org.pl/judgments/85398
+85317|2007-02-22|SN|IV CSK 9/07|Postanowienie|69|https://www.saos.org.pl/judgments/85317
+164053|2006-02-14|SN|II CSK 86/05|Postanowienie|69|https://www.saos.org.pl/judgments/164053

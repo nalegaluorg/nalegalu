@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-100780|2013-02-21|SN|II KK 21/13|Postanowienie|https://www.saos.org.pl/judgments/100780
+saos_id|date|court|case_number|type|score|saos_url
+100780|2013-02-21|SN|II KK 21/13|Postanowienie|69|https://www.saos.org.pl/judgments/100780

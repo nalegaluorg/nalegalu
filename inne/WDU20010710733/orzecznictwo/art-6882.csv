@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-359367|2018-06-22|SO|II Ca 1536/17|Zarządzenie|https://www.saos.org.pl/judgments/359367
-106483|2003-10-21|TK|Ts 74/03|Postanowienie|https://www.saos.org.pl/judgments/106483
+saos_id|date|court|case_number|type|score|saos_url
+106483|2003-10-21|TK|Ts 74/03|Postanowienie|80|https://www.saos.org.pl/judgments/106483

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-402678|2019-05-17|SO|I AGa 362/18|Wyrok|https://www.saos.org.pl/judgments/402678
-339912|2017-10-24|SO|I ACa 1110/17|Wyrok|https://www.saos.org.pl/judgments/339912
-172018|2015-02-20|SO|VII Ga 20/15|Wyrok|https://www.saos.org.pl/judgments/172018
-163652|2005-10-19|SN|V CK 255/05|Wyrok|https://www.saos.org.pl/judgments/163652
+saos_id|date|court|case_number|type|score|saos_url
+163652|2005-10-19|SN|V CK 255/05|Wyrok|78|https://www.saos.org.pl/judgments/163652
+402678|2019-05-17|SO|I AGa 362/18|Wyrok|56|https://www.saos.org.pl/judgments/402678
+339912|2017-10-24|SO|I ACa 1110/17|Wyrok|56|https://www.saos.org.pl/judgments/339912

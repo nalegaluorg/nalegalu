@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-191149|2015-11-24|SO|III AUz 306/15|Postanowienie|https://www.saos.org.pl/judgments/191149
-191148|2015-11-24|SO|III AUz 305/15|Postanowienie|https://www.saos.org.pl/judgments/191148
-190788|2015-11-24|SO|III AUz 307/15|Postanowienie|https://www.saos.org.pl/judgments/190788
-189997|2015-11-24|SO|III AUz 308/15|Postanowienie|https://www.saos.org.pl/judgments/189997
+saos_id|date|court|case_number|type|score|saos_url
+191149|2015-11-24|SO|III AUz 306/15|Postanowienie|47|https://www.saos.org.pl/judgments/191149
+191148|2015-11-24|SO|III AUz 305/15|Postanowienie|47|https://www.saos.org.pl/judgments/191148
+190788|2015-11-24|SO|III AUz 307/15|Postanowienie|47|https://www.saos.org.pl/judgments/190788
+189997|2015-11-24|SO|III AUz 308/15|Postanowienie|47|https://www.saos.org.pl/judgments/189997

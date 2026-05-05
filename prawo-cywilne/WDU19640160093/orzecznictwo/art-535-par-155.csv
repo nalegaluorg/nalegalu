@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-441227|2018-03-26|SO|I ACa 1251/17|Wyrok|https://www.saos.org.pl/judgments/441227
-441225|2018-03-26|SO|I ACa 1061/17|Wyrok|https://www.saos.org.pl/judgments/441225
-338544|2018-03-26|SO|I ACa 1231/17|Wyrok|https://www.saos.org.pl/judgments/338544
-338543|2018-03-26|SO|I ACa 1230/17|Wyrok|https://www.saos.org.pl/judgments/338543
+saos_id|date|court|case_number|type|score|saos_url
+441227|2018-03-26|SO|I ACa 1251/17|Wyrok|56|https://www.saos.org.pl/judgments/441227
+441225|2018-03-26|SO|I ACa 1061/17|Wyrok|56|https://www.saos.org.pl/judgments/441225
+338544|2018-03-26|SO|I ACa 1231/17|Wyrok|56|https://www.saos.org.pl/judgments/338544
+338543|2018-03-26|SO|I ACa 1230/17|Wyrok|56|https://www.saos.org.pl/judgments/338543

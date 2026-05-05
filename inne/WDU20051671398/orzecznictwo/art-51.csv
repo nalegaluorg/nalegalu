@@ -1,20 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-365708|2018-11-21|SO|I Ns 239/17|Postanowienie|https://www.saos.org.pl/judgments/365708
-368367|2018-10-09|SO|III Cz 759/18|Postanowienie|https://www.saos.org.pl/judgments/368367
-370362|2018-10-03|SO|II Ca 282/18|Postanowienie|https://www.saos.org.pl/judgments/370362
-335967|2017-06-14|SO|I Ns 995/15|Postanowienie|https://www.saos.org.pl/judgments/335967
-271059|2017-01-04|SO|I Ca 333/16|Postanowienie|https://www.saos.org.pl/judgments/271059
-232782|2016-05-24|SO|II Cz 208/16|Postanowienie|https://www.saos.org.pl/judgments/232782
-179371|2015-09-10|SO|I Ns 1074/13|Uzasadnienie|https://www.saos.org.pl/judgments/179371
-182808|2015-08-07|SO|I Ns 1155/10|Postanowienie|https://www.saos.org.pl/judgments/182808
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-149114|2015-02-18|SO|II Cz 6/15|Postanowienie|https://www.saos.org.pl/judgments/149114
-71412|2014-11-07|SO|II Ca 871/14|Postanowienie|https://www.saos.org.pl/judgments/71412
-189927|2014-04-24|SO|II Ca 871/13|Postanowienie|https://www.saos.org.pl/judgments/189927
-64909|2014-02-27|SO|XVI Ca 530/13|Postanowienie|https://www.saos.org.pl/judgments/64909
-144736|2014-02-21|SO|II Ca 1235/13|Postanowienie|https://www.saos.org.pl/judgments/144736
-37734|2014-01-30|SO|III Ca 129/13|Postanowienie|https://www.saos.org.pl/judgments/37734
-294681|2013-11-26|SO|II Ca 1188/13|Postanowienie|https://www.saos.org.pl/judgments/294681
-139983|2013-06-26|SO|I Ca 168/13|Postanowienie|https://www.saos.org.pl/judgments/139983
-89009|2008-10-30|SN|II CZ 69/08|Postanowienie|https://www.saos.org.pl/judgments/89009
-164445|2006-07-26|SN|IV CZ 57/06|Postanowienie|https://www.saos.org.pl/judgments/164445
+saos_id|date|court|case_number|type|score|saos_url
+89009|2008-10-30|SN|II CZ 69/08|Postanowienie|69|https://www.saos.org.pl/judgments/89009
+164445|2006-07-26|SN|IV CZ 57/06|Postanowienie|69|https://www.saos.org.pl/judgments/164445
+139983|2013-06-26|SO|I Ca 168/13|Postanowienie|31|https://www.saos.org.pl/judgments/139983

@@ -1,18 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-508153|2024-07-16|SO|IV Ka 403/24|Wyrok|https://www.saos.org.pl/judgments/508153
-540108|2023-11-08|SO|IX Ka 569/23|Uzasadnienie|https://www.saos.org.pl/judgments/540108
-464586|2022-04-22|SO|II Ka 175/22|Wyrok|https://www.saos.org.pl/judgments/464586
-456708|2021-12-10|SO|IV Ka 760/21|Uzasadnienie|https://www.saos.org.pl/judgments/456708
-343076|2018-05-18|SO|IV Ka 232/18|Uzasadnienie|https://www.saos.org.pl/judgments/343076
-356637|2018-05-15|SO|VI Ka 1517/17|Wyrok|https://www.saos.org.pl/judgments/356637
-307773|2017-10-04|SO|II Ka 220/17|Wyrok|https://www.saos.org.pl/judgments/307773
-287383|2017-05-31|SO|II Ka 23/17|Wyrok|https://www.saos.org.pl/judgments/287383
-250967|2016-07-19|SO|VI Ka 280/16|Wyrok|https://www.saos.org.pl/judgments/250967
-290535|2016-02-09|SO|IX Ka 791/15|Wyrok|https://www.saos.org.pl/judgments/290535
-218489|2015-09-04|SO|II W 445/15|Wyrok|https://www.saos.org.pl/judgments/218489
-180384|2015-09-01|SO|XVII Ka 675/15|Wyrok|https://www.saos.org.pl/judgments/180384
-152385|2015-04-13|SO|XVII Ka 232/15|Wyrok|https://www.saos.org.pl/judgments/152385
-152117|2015-03-31|SO|VI Ka 98/15|Wyrok|https://www.saos.org.pl/judgments/152117
-126470|2014-12-16|SO|VI Ka 535/14|Wyrok|https://www.saos.org.pl/judgments/126470
-64758|2014-09-26|SO|IV Ka 518/14|Wyrok|https://www.saos.org.pl/judgments/64758
-29496|2013-11-22|SO|IX Ka 1096/13|Wyrok|https://www.saos.org.pl/judgments/29496
+saos_id|date|court|case_number|type|score|saos_url
+356637|2018-05-15|SO|VI Ka 1517/17|Wyrok|40|https://www.saos.org.pl/judgments/356637
+307773|2017-10-04|SO|II Ka 220/17|Wyrok|40|https://www.saos.org.pl/judgments/307773
+250967|2016-07-19|SO|VI Ka 280/16|Wyrok|40|https://www.saos.org.pl/judgments/250967
+218489|2015-09-04|SO|II W 445/15|Wyrok|40|https://www.saos.org.pl/judgments/218489
+180384|2015-09-01|SO|XVII Ka 675/15|Wyrok|40|https://www.saos.org.pl/judgments/180384
+152385|2015-04-13|SO|XVII Ka 232/15|Wyrok|40|https://www.saos.org.pl/judgments/152385
+152117|2015-03-31|SO|VI Ka 98/15|Wyrok|40|https://www.saos.org.pl/judgments/152117

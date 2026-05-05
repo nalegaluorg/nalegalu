@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-382734|2019-03-29|SO|IV P 322/18|Wyrok|https://www.saos.org.pl/judgments/382734
-366081|2018-10-09|SO|II C 581/15|Uzasadnienie|https://www.saos.org.pl/judgments/366081
+saos_id|date|court|case_number|type|score|saos_url
+366081|2018-10-09|SO|II C 581/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/366081

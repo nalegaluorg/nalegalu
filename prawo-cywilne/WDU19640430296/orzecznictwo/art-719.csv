@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245594|2015-06-01|SN|III CO 37/15|Postanowienie|https://www.saos.org.pl/judgments/245594
-220669|2014-04-01|SO|I Co 3669/13|Postanowienie|https://www.saos.org.pl/judgments/220669
-10501|2013-05-09|SO|I ACz 416/13|Postanowienie|https://www.saos.org.pl/judgments/10501
-88892|2008-10-17|SN|I CSK 100/08|Wyrok|https://www.saos.org.pl/judgments/88892
+saos_id|date|court|case_number|type|score|saos_url
+88892|2008-10-17|SN|I CSK 100/08|Wyrok|78|https://www.saos.org.pl/judgments/88892
+245594|2015-06-01|SN|III CO 37/15|Postanowienie|69|https://www.saos.org.pl/judgments/245594
+10501|2013-05-09|SO|I ACz 416/13|Postanowienie|47|https://www.saos.org.pl/judgments/10501

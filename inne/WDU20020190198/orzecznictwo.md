@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 25 lutego 2002
 
 ## art. 45 (1)
 
-- 2004-10-12 | SN | [III PZP 2/04](https://www.saos.org.pl/judgments/82923) | Uchwała
+- 2004-10-12 | SN | [III PZP 2/04](https://www.saos.org.pl/judgments/82923) | Uchwała ★
 

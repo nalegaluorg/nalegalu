@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-368408|2018-11-29|SO|VIII Pa 149/16|Uzasadnienie|https://www.saos.org.pl/judgments/368408
-180156|2015-07-09|SO|VI U 896/15|Wyrok|https://www.saos.org.pl/judgments/180156
-85164|2007-02-08|SN|II UK 124/06|Wyrok|https://www.saos.org.pl/judgments/85164
-83139|2005-01-20|SN|I PK 152/04|Wyrok|https://www.saos.org.pl/judgments/83139
-106615|2003-04-09|TK|Ts 164/02|Postanowienie|https://www.saos.org.pl/judgments/106615
+saos_id|date|court|case_number|type|score|saos_url
+106615|2003-04-09|TK|Ts 164/02|Postanowienie|80|https://www.saos.org.pl/judgments/106615
+85164|2007-02-08|SN|II UK 124/06|Wyrok|78|https://www.saos.org.pl/judgments/85164
+83139|2005-01-20|SN|I PK 152/04|Wyrok|78|https://www.saos.org.pl/judgments/83139
+180156|2015-07-09|SO|VI U 896/15|Wyrok|40|https://www.saos.org.pl/judgments/180156
+368408|2018-11-29|SO|VIII Pa 149/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/368408

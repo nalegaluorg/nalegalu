@@ -1,15 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-511027|2024-03-14|SO|VI Ka 19/24|Wyrok|https://www.saos.org.pl/judgments/511027
-485072|2023-01-18|SO|II AKa 182/22|Wyrok|https://www.saos.org.pl/judgments/485072
-398879|2019-02-25|SO|II AKa 150/18|Wyrok|https://www.saos.org.pl/judgments/398879
-324538|2017-12-12|SO|XVII Ka 1217/17|Wyrok|https://www.saos.org.pl/judgments/324538
-296109|2017-05-30|SO|II AKa 57/17|Wyrok|https://www.saos.org.pl/judgments/296109
-271566|2016-11-09|SO|II AKa 170/16|Wyrok|https://www.saos.org.pl/judgments/271566
-160166|2014-05-20|TK|SK 13/13|Wyrok|https://www.saos.org.pl/judgments/160166
-25833|2013-10-30|SO|IV Ka 602/13|Wyrok|https://www.saos.org.pl/judgments/25833
-138769|2013-03-27|SO|II AKz 97/13|Postanowienie|https://www.saos.org.pl/judgments/138769
-138562|2013-03-27|SO|II AKz 96/13|Postanowienie|https://www.saos.org.pl/judgments/138562
-138561|2013-03-27|SO|II AKz 95/13|Postanowienie|https://www.saos.org.pl/judgments/138561
-137200|2012-12-28|SO|II AKa 378/12|Wyrok|https://www.saos.org.pl/judgments/137200
-93994|2011-01-27|SN|I KZP 23/10|Uchwała|https://www.saos.org.pl/judgments/93994
-108545|2008-06-03|TK|K 42/07|Wyrok|https://www.saos.org.pl/judgments/108545
+saos_id|date|court|case_number|type|score|saos_url
+160166|2014-05-20|TK|SK 13/13|Wyrok|98|https://www.saos.org.pl/judgments/160166
+108545|2008-06-03|TK|K 42/07|Wyrok|98|https://www.saos.org.pl/judgments/108545
+93994|2011-01-27|SN|I KZP 23/10|Uchwała|96|https://www.saos.org.pl/judgments/93994
+485072|2023-01-18|SO|II AKa 182/22|Wyrok|56|https://www.saos.org.pl/judgments/485072
+398879|2019-02-25|SO|II AKa 150/18|Wyrok|56|https://www.saos.org.pl/judgments/398879
+296109|2017-05-30|SO|II AKa 57/17|Wyrok|56|https://www.saos.org.pl/judgments/296109
+271566|2016-11-09|SO|II AKa 170/16|Wyrok|56|https://www.saos.org.pl/judgments/271566
+137200|2012-12-28|SO|II AKa 378/12|Wyrok|56|https://www.saos.org.pl/judgments/137200
+138769|2013-03-27|SO|II AKz 97/13|Postanowienie|47|https://www.saos.org.pl/judgments/138769
+138562|2013-03-27|SO|II AKz 96/13|Postanowienie|47|https://www.saos.org.pl/judgments/138562
+138561|2013-03-27|SO|II AKz 95/13|Postanowienie|47|https://www.saos.org.pl/judgments/138561
+324538|2017-12-12|SO|XVII Ka 1217/17|Wyrok|40|https://www.saos.org.pl/judgments/324538
+25833|2013-10-30|SO|IV Ka 602/13|Wyrok|40|https://www.saos.org.pl/judgments/25833

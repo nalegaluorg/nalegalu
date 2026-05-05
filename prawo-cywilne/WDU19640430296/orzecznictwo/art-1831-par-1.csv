@@ -1,21 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-447522|2021-07-30|SO|I ACa 241/21|Wyrok|https://www.saos.org.pl/judgments/447522
-443621|2021-03-30|SO|I C 1066/20|Wyrok|https://www.saos.org.pl/judgments/443621
-488389|2020-08-03|SO|X GC 138/20|Zarządzenie|https://www.saos.org.pl/judgments/488389
-393232|2019-09-02|SO|I C 124/19|Wyrok|https://www.saos.org.pl/judgments/393232
-452307|2019-06-11|SO|I AGa 333/18|Wyrok|https://www.saos.org.pl/judgments/452307
-361535|2018-07-20|SO|IX GC 117/17|Wyrok|https://www.saos.org.pl/judgments/361535
-403167|2018-04-25|SO|I C 522/17|Zarządzenie|https://www.saos.org.pl/judgments/403167
-350659|2018-02-09|SO|IX GC 472/17|Wyrok|https://www.saos.org.pl/judgments/350659
-350621|2017-12-15|SO|IX Ga 329/17|Wyrok|https://www.saos.org.pl/judgments/350621
-306131|2017-09-22|SO|IX Ga 218/17|Wyrok|https://www.saos.org.pl/judgments/306131
-310491|2017-08-18|SO|IX GC 92/17|Uzasadnienie|https://www.saos.org.pl/judgments/310491
-310483|2017-08-02|SO|IX GC 461/16|Uzasadnienie|https://www.saos.org.pl/judgments/310483
-268201|2017-01-11|SO|VIII GC 398/16|Wyrok|https://www.saos.org.pl/judgments/268201
-247021|2016-08-30|SO|IV P 149/16|Wyrok|https://www.saos.org.pl/judgments/247021
-247020|2016-08-30|SO|IV P 148/16|Wyrok|https://www.saos.org.pl/judgments/247020
-247023|2016-08-29|SO|IV P 158/16|Wyrok|https://www.saos.org.pl/judgments/247023
-247022|2016-08-29|SO|IV P 152/16|Wyrok|https://www.saos.org.pl/judgments/247022
-240618|2016-08-18|SO|X GC 444/16|Zarządzenie|https://www.saos.org.pl/judgments/240618
-241227|2016-07-12|SO|III S 88/16|Postanowienie|https://www.saos.org.pl/judgments/241227
-140550|2013-06-27|SO|I C 912/13|Wyrok|https://www.saos.org.pl/judgments/140550
+saos_id|date|court|case_number|type|score|saos_url
+447522|2021-07-30|SO|I ACa 241/21|Wyrok|56|https://www.saos.org.pl/judgments/447522
+452307|2019-06-11|SO|I AGa 333/18|Wyrok|56|https://www.saos.org.pl/judgments/452307
+488389|2020-08-03|SO|X GC 138/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488389
+403167|2018-04-25|SO|I C 522/17|Zarządzenie|27|https://www.saos.org.pl/judgments/403167
+240618|2016-08-18|SO|X GC 444/16|Zarządzenie|27|https://www.saos.org.pl/judgments/240618

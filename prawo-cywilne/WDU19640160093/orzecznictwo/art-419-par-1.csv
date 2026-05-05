@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-530930|2024-02-14|SO|III Ca 1019/22|Uzasadnienie|https://www.saos.org.pl/judgments/530930
-433954|2020-09-23|SO|I ACa 309/20|Wyrok|https://www.saos.org.pl/judgments/433954
-207180|2016-02-10|SO|I ACa 670/15|Wyrok|https://www.saos.org.pl/judgments/207180
-174701|2015-07-29|SO|IV Ca 385/15|Wyrok|https://www.saos.org.pl/judgments/174701
+saos_id|date|court|case_number|type|score|saos_url
+433954|2020-09-23|SO|I ACa 309/20|Wyrok|56|https://www.saos.org.pl/judgments/433954
+207180|2016-02-10|SO|I ACa 670/15|Wyrok|56|https://www.saos.org.pl/judgments/207180
+530930|2024-02-14|SO|III Ca 1019/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/530930

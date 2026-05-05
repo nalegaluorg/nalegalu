@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-376684|2018-09-11|SO|I AGa 83/18|Wyrok|https://www.saos.org.pl/judgments/376684
-240355|2016-07-22|SO|I C 3086/15|Wyrok|https://www.saos.org.pl/judgments/240355
+saos_id|date|court|case_number|type|score|saos_url
+376684|2018-09-11|SO|I AGa 83/18|Wyrok|56|https://www.saos.org.pl/judgments/376684

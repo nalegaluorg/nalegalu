@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-454207|2021-05-27|SO|III AUa 70/21|Wyrok|https://www.saos.org.pl/judgments/454207
-1764|2012-01-31|SO|III AUa 1581/11|Wyrok|https://www.saos.org.pl/judgments/1764
-90874|2009-09-15|SN|II UK 419/08|Wyrok|https://www.saos.org.pl/judgments/90874
+saos_id|date|court|case_number|type|score|saos_url
+90874|2009-09-15|SN|II UK 419/08|Wyrok|78|https://www.saos.org.pl/judgments/90874
+454207|2021-05-27|SO|III AUa 70/21|Wyrok|56|https://www.saos.org.pl/judgments/454207
+1764|2012-01-31|SO|III AUa 1581/11|Wyrok|56|https://www.saos.org.pl/judgments/1764

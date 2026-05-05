@@ -1,7 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-426966|2019-06-28|SO|I Co 28/19|Postanowienie|https://www.saos.org.pl/judgments/426966
-422612|2019-05-30|SO|I Co 821/18|Postanowienie|https://www.saos.org.pl/judgments/422612
-377537|2017-01-26|SO|I Co 1175/16|Uzasadnienie|https://www.saos.org.pl/judgments/377537
-356278|2016-07-21|SO|I Co 1318/15|Postanowienie|https://www.saos.org.pl/judgments/356278
-356279|2016-06-09|SO|I Co 2193/15|Postanowienie|https://www.saos.org.pl/judgments/356279
-246138|2015-10-23|SO|I Co 1573/15|Postanowienie|https://www.saos.org.pl/judgments/246138
+saos_id|date|court|case_number|type|score|saos_url
+111659|2013-10-22|TK|SK 14/11|Wyrok|98|https://www.saos.org.pl/judgments/111659
+160447|2014-07-29|TK|Ts 316/13|Postanowienie|80|https://www.saos.org.pl/judgments/160447
+112042|2013-01-16|TK|Ts 274/11|Postanowienie|80|https://www.saos.org.pl/judgments/112042
+111415|2012-04-11|TK|Ts 274/11|Postanowienie|80|https://www.saos.org.pl/judgments/111415
+104593|2014-02-28|SN|SNO 43/13|Wyrok|78|https://www.saos.org.pl/judgments/104593
+95756|2011-09-13|SN|SNO 33/11|Wyrok|78|https://www.saos.org.pl/judgments/95756
+401907|2019-07-16|SO|II S 192/19|Postanowienie|31|https://www.saos.org.pl/judgments/401907
+401767|2019-02-22|SO|II S 419/18|Postanowienie|31|https://www.saos.org.pl/judgments/401767
+311191|2017-10-31|SO|I Cz 238/17|Postanowienie|31|https://www.saos.org.pl/judgments/311191
+415422|2016-07-13|SO|II S 173/16|Postanowienie|31|https://www.saos.org.pl/judgments/415422
+68835|2014-06-25|SO|VII Co 1388/13|Postanowienie|31|https://www.saos.org.pl/judgments/68835

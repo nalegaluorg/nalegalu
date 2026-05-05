@@ -1,10 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-379086|2018-09-25|SO|IV C 596/14|Wyrok|https://www.saos.org.pl/judgments/379086
-248120|2016-06-17|SO|I C 1233/14|Wyrok|https://www.saos.org.pl/judgments/248120
-149714|2015-03-16|SO|VI GC 557/14|Wyrok|https://www.saos.org.pl/judgments/149714
-135147|2014-12-19|SO|I C 288/14|Wyrok|https://www.saos.org.pl/judgments/135147
-148925|2014-10-21|SO|I C 831/11|Wyrok|https://www.saos.org.pl/judgments/148925
-144421|2013-12-20|SO|I C 912/10|Wyrok|https://www.saos.org.pl/judgments/144421
-141794|2013-10-17|SO|I C 911/10|Wyrok|https://www.saos.org.pl/judgments/141794
-139492|2013-06-27|SO|I C 462/11|Wyrok|https://www.saos.org.pl/judgments/139492
-99440|2012-10-25|SN|I CSK 159/12|Wyrok|https://www.saos.org.pl/judgments/99440
+saos_id|date|court|case_number|type|score|saos_url
+99440|2012-10-25|SN|I CSK 159/12|Wyrok|78|https://www.saos.org.pl/judgments/99440

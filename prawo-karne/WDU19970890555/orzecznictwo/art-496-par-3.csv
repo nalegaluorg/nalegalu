@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-479217|2022-11-30|SO|VII Ka 541/22|Wyrok|https://www.saos.org.pl/judgments/479217
-462410|2022-03-14|SO|I C 1891/20|Wyrok|https://www.saos.org.pl/judgments/462410
-430700|2021-01-21|SO|II K 296/19|Uzasadnienie|https://www.saos.org.pl/judgments/430700
-270495|2016-12-15|SO|X K 799/15|Wyrok|https://www.saos.org.pl/judgments/270495
-257771|2016-09-30|SO|VII Ka 705/16|Wyrok|https://www.saos.org.pl/judgments/257771
-238334|2016-07-29|SO|II Ka 360/16|Wyrok|https://www.saos.org.pl/judgments/238334
-245205|2016-04-28|SN|II KK 13/16|Postanowienie|https://www.saos.org.pl/judgments/245205
-217838|2016-03-16|SO|IV Ka 1389/15|Wyrok|https://www.saos.org.pl/judgments/217838
-207446|2016-01-29|SO|IV Ka 1180/15|Wyrok|https://www.saos.org.pl/judgments/207446
-199819|2015-12-11|SO|VI Ka 436/15|Wyrok|https://www.saos.org.pl/judgments/199819
-186467|2015-10-08|SO|IV Ka 886/15|Wyrok|https://www.saos.org.pl/judgments/186467
-157624|2015-05-21|SO|I ACa 207/15|Wyrok|https://www.saos.org.pl/judgments/157624
-168232|2015-02-13|SN|II KK 276/14|Postanowienie|https://www.saos.org.pl/judgments/168232
-142482|2013-06-24|SO|I C 179/12|Wyrok|https://www.saos.org.pl/judgments/142482
-12348|2013-06-03|SO|IV Kz 365/13|Postanowienie|https://www.saos.org.pl/judgments/12348
-100291|2013-01-09|SN|III KO 114/12|Postanowienie|https://www.saos.org.pl/judgments/100291
-88735|2008-09-23|SN|I KZP 19/08|Uchwała|https://www.saos.org.pl/judgments/88735
+saos_id|date|court|case_number|type|score|saos_url
+88735|2008-09-23|SN|I KZP 19/08|Uchwała|89|https://www.saos.org.pl/judgments/88735
+245205|2016-04-28|SN|II KK 13/16|Postanowienie|69|https://www.saos.org.pl/judgments/245205
+168232|2015-02-13|SN|II KK 276/14|Postanowienie|69|https://www.saos.org.pl/judgments/168232
+100291|2013-01-09|SN|III KO 114/12|Postanowienie|69|https://www.saos.org.pl/judgments/100291
+157624|2015-05-21|SO|I ACa 207/15|Wyrok|56|https://www.saos.org.pl/judgments/157624
+257771|2016-09-30|SO|VII Ka 705/16|Wyrok|40|https://www.saos.org.pl/judgments/257771
+207446|2016-01-29|SO|IV Ka 1180/15|Wyrok|40|https://www.saos.org.pl/judgments/207446
+430700|2021-01-21|SO|II K 296/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/430700

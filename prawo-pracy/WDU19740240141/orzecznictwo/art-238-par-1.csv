@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-313722|2017-11-16|SO|XII C 2029/15|Wyrok|https://www.saos.org.pl/judgments/313722
-77408|1997-01-17|SN|I PRN 93/96|Postanowienie|https://www.saos.org.pl/judgments/77408
-77134|1996-04-18|SN|I PZP 6/96|Postanowienie|https://www.saos.org.pl/judgments/77134
+saos_id|date|court|case_number|type|score|saos_url
+77134|1996-04-18|SN|I PZP 6/96|Postanowienie|76|https://www.saos.org.pl/judgments/77134
+77408|1997-01-17|SN|I PRN 93/96|Postanowienie|69|https://www.saos.org.pl/judgments/77408
+313722|2017-11-16|SO|XII C 2029/15|Wyrok|40|https://www.saos.org.pl/judgments/313722

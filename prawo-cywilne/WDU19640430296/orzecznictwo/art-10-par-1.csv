@@ -1,14 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-532959|2025-08-12|SO|XIV U 1605/24|Wyrok|https://www.saos.org.pl/judgments/532959
-505463|2023-08-24|SO|III Ca 1010/22|Wyrok|https://www.saos.org.pl/judgments/505463
-456320|2021-06-23|SO|III AUa 817/19|Wyrok|https://www.saos.org.pl/judgments/456320
-375513|2019-03-26|SO|IV Ka 4/19|Uzasadnienie|https://www.saos.org.pl/judgments/375513
-310502|2017-08-17|SO|VI U 177/17|Wyrok|https://www.saos.org.pl/judgments/310502
-178048|2015-09-11|SO|IV Ca 401/15|Wyrok|https://www.saos.org.pl/judgments/178048
-73801|2014-10-30|SO|III AUz 121/14|Postanowienie|https://www.saos.org.pl/judgments/73801
-61004|2014-08-01|SO|V ACz 955/13|Postanowienie|https://www.saos.org.pl/judgments/61004
-26690|2013-11-05|SO|V U 973/12|Wyrok|https://www.saos.org.pl/judgments/26690
-26686|2013-11-05|SO|V U 152/13|Wyrok|https://www.saos.org.pl/judgments/26686
-25454|2013-10-28|SO|V Ua 33/13|Wyrok|https://www.saos.org.pl/judgments/25454
-25551|2013-10-22|SO|V U 223/13|Wyrok|https://www.saos.org.pl/judgments/25551
-8803|2013-03-12|SO|V ACa 698/12|Wyrok|https://www.saos.org.pl/judgments/8803
+saos_id|date|court|case_number|type|score|saos_url
+456320|2021-06-23|SO|III AUa 817/19|Wyrok|56|https://www.saos.org.pl/judgments/456320
+8803|2013-03-12|SO|V ACa 698/12|Wyrok|56|https://www.saos.org.pl/judgments/8803
+73801|2014-10-30|SO|III AUz 121/14|Postanowienie|47|https://www.saos.org.pl/judgments/73801
+61004|2014-08-01|SO|V ACz 955/13|Postanowienie|47|https://www.saos.org.pl/judgments/61004
+310502|2017-08-17|SO|VI U 177/17|Wyrok|40|https://www.saos.org.pl/judgments/310502

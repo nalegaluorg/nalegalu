@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-442244|2021-01-22|SO|II Ca 1150/20|Postanowienie|https://www.saos.org.pl/judgments/442244
-412151|2019-02-11|SO|II Co 5155/18|Postanowienie|https://www.saos.org.pl/judgments/412151
-35705|2013-11-04|SO|II Ca 508/13|Postanowienie|https://www.saos.org.pl/judgments/35705
-6778|2013-02-19|SO|II Ca 990/12|Wyrok|https://www.saos.org.pl/judgments/6778
+saos_id|date|court|case_number|type|score|saos_url
+442244|2021-01-22|SO|II Ca 1150/20|Postanowienie|31|https://www.saos.org.pl/judgments/442244
+412151|2019-02-11|SO|II Co 5155/18|Postanowienie|31|https://www.saos.org.pl/judgments/412151

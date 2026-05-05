@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-501130|2024-05-20|SO|II AKa 445/23|Wyrok|https://www.saos.org.pl/judgments/501130
-129702|2015-02-12|SO|VI Ka 19/15|Wyrok|https://www.saos.org.pl/judgments/129702
-28824|2013-11-28|SO|VI Ka 423/13|Wyrok|https://www.saos.org.pl/judgments/28824
+saos_id|date|court|case_number|type|score|saos_url
+501130|2024-05-20|SO|II AKa 445/23|Wyrok|56|https://www.saos.org.pl/judgments/501130
+129702|2015-02-12|SO|VI Ka 19/15|Wyrok|40|https://www.saos.org.pl/judgments/129702
+28824|2013-11-28|SO|VI Ka 423/13|Wyrok|40|https://www.saos.org.pl/judgments/28824

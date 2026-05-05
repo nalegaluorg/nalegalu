@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-97365|2012-02-28|SN|I UK 353/11|Postanowienie|https://www.saos.org.pl/judgments/97365
-92952|2010-09-24|SN|I UK 118/10|Postanowienie|https://www.saos.org.pl/judgments/92952
-90271|2009-05-19|SN|II PK 66/09|Postanowienie|https://www.saos.org.pl/judgments/90271
+saos_id|date|court|case_number|type|score|saos_url
+97365|2012-02-28|SN|I UK 353/11|Postanowienie|69|https://www.saos.org.pl/judgments/97365
+92952|2010-09-24|SN|I UK 118/10|Postanowienie|69|https://www.saos.org.pl/judgments/92952
+90271|2009-05-19|SN|II PK 66/09|Postanowienie|69|https://www.saos.org.pl/judgments/90271

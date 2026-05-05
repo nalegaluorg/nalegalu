@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504742|2023-12-12|SO|III AUa 1393/22|Wyrok|https://www.saos.org.pl/judgments/504742
-504740|2023-12-12|SO|III AUa 1388/22|Wyrok|https://www.saos.org.pl/judgments/504740
-481629|2022-11-09|SO|III AUa 1269/20|Wyrok|https://www.saos.org.pl/judgments/481629
+saos_id|date|court|case_number|type|score|saos_url
+504742|2023-12-12|SO|III AUa 1393/22|Wyrok|56|https://www.saos.org.pl/judgments/504742
+504740|2023-12-12|SO|III AUa 1388/22|Wyrok|56|https://www.saos.org.pl/judgments/504740
+481629|2022-11-09|SO|III AUa 1269/20|Wyrok|56|https://www.saos.org.pl/judgments/481629

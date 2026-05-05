@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-514829|2022-12-19|SO|XIV C 5/17|Wyrok|https://www.saos.org.pl/judgments/514829
-498362|2022-09-19|SO|I C 49/22|Wyrok|https://www.saos.org.pl/judgments/498362
-465232|2022-03-28|SO|I ACa 165/21|Wyrok|https://www.saos.org.pl/judgments/465232
-494767|2018-09-21|SO|I ACa 943/17|Wyrok|https://www.saos.org.pl/judgments/494767
-325605|2018-01-24|SO|XII C 2500/15|Wyrok|https://www.saos.org.pl/judgments/325605
-330697|2017-12-08|SO|XXIII Ga 752/17|Wyrok|https://www.saos.org.pl/judgments/330697
-317148|2017-12-01|SO|I ACa 781/17|Wyrok|https://www.saos.org.pl/judgments/317148
-348235|2017-01-03|SO|I C 3169/15|Uzasadnienie|https://www.saos.org.pl/judgments/348235
-76858|1995-06-02|SN|I PZP 16/95|Uchwała|https://www.saos.org.pl/judgments/76858
+saos_id|date|court|case_number|type|score|saos_url
+76858|1995-06-02|SN|I PZP 16/95|Uchwała|89|https://www.saos.org.pl/judgments/76858
+465232|2022-03-28|SO|I ACa 165/21|Wyrok|56|https://www.saos.org.pl/judgments/465232
+494767|2018-09-21|SO|I ACa 943/17|Wyrok|56|https://www.saos.org.pl/judgments/494767
+317148|2017-12-01|SO|I ACa 781/17|Wyrok|56|https://www.saos.org.pl/judgments/317148
+514829|2022-12-19|SO|XIV C 5/17|Wyrok|40|https://www.saos.org.pl/judgments/514829
+325605|2018-01-24|SO|XII C 2500/15|Wyrok|40|https://www.saos.org.pl/judgments/325605

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-389216|2018-10-04|SO|III K 547/18|Wyrok|https://www.saos.org.pl/judgments/389216
-260360|2016-10-20|SO|I ACa 381/16|Wyrok|https://www.saos.org.pl/judgments/260360
-27670|2013-11-29|SO|II Ka 460/13|Wyrok|https://www.saos.org.pl/judgments/27670
+saos_id|date|court|case_number|type|score|saos_url
+260360|2016-10-20|SO|I ACa 381/16|Wyrok|56|https://www.saos.org.pl/judgments/260360

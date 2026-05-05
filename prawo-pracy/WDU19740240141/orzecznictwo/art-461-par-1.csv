@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-440776|2021-02-03|SO|IV P 37/20|Wyrok|https://www.saos.org.pl/judgments/440776
-434280|2021-02-03|SO|IV P 43/20|Wyrok|https://www.saos.org.pl/judgments/434280
+saos_id|date|court|case_number|type|score|saos_url
+78613|1998-10-20|SN|I PKN 387/98|Wyrok|78|https://www.saos.org.pl/judgments/78613
+408327|2020-03-12|SO|IV P 1/20|Wyrok|40|https://www.saos.org.pl/judgments/408327

@@ -1,13 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-315472|2017-10-23|SO|II AKa 180/17|Wyrok|https://www.saos.org.pl/judgments/315472
-288819|2017-03-01|SO|VII Ka 105/17|Wyrok|https://www.saos.org.pl/judgments/288819
-273214|2016-07-22|SO|IV Ka 456/16|Wyrok|https://www.saos.org.pl/judgments/273214
-243828|2015-11-19|SN|II KK 212/15|Wyrok|https://www.saos.org.pl/judgments/243828
-168134|2015-01-26|SN|II KK 80/14|Postanowienie|https://www.saos.org.pl/judgments/168134
-68420|2014-10-21|SO|IV Ka 330/14|Wyrok|https://www.saos.org.pl/judgments/68420
-61910|2014-09-15|SO|II K 54/13|Wyrok|https://www.saos.org.pl/judgments/61910
-239812|2014-07-30|SO|X Ka 564/14|Wyrok|https://www.saos.org.pl/judgments/239812
-27843|2013-11-05|SO|II K 693/12|Wyrok|https://www.saos.org.pl/judgments/27843
-141339|2013-04-29|SO|II AKa 46/13|Wyrok|https://www.saos.org.pl/judgments/141339
-101093|2013-03-15|SN|V KK 11/13|Postanowienie|https://www.saos.org.pl/judgments/101093
-86923|2007-12-07|SN|SNO 80/07|Wyrok|https://www.saos.org.pl/judgments/86923
+saos_id|date|court|case_number|type|score|saos_url
+243828|2015-11-19|SN|II KK 212/15|Wyrok|78|https://www.saos.org.pl/judgments/243828
+86923|2007-12-07|SN|SNO 80/07|Wyrok|78|https://www.saos.org.pl/judgments/86923
+168134|2015-01-26|SN|II KK 80/14|Postanowienie|69|https://www.saos.org.pl/judgments/168134
+101093|2013-03-15|SN|V KK 11/13|Postanowienie|69|https://www.saos.org.pl/judgments/101093
+315472|2017-10-23|SO|II AKa 180/17|Wyrok|56|https://www.saos.org.pl/judgments/315472
+141339|2013-04-29|SO|II AKa 46/13|Wyrok|56|https://www.saos.org.pl/judgments/141339

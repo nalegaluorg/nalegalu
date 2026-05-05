@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-412955|2020-01-28|SO|I AGa 222/19|Wyrok|https://www.saos.org.pl/judgments/412955
-397520|2018-07-05|SO|XII Ga 646/17|Postanowienie|https://www.saos.org.pl/judgments/397520
-330554|2017-12-21|SO|III AUa 323/17|Wyrok|https://www.saos.org.pl/judgments/330554
-245285|2016-05-20|SN|II CSK 555/15|Postanowienie|https://www.saos.org.pl/judgments/245285
-86584|2007-09-20|SN|II CSK 240/07|Postanowienie|https://www.saos.org.pl/judgments/86584
+saos_id|date|court|case_number|type|score|saos_url
+245285|2016-05-20|SN|II CSK 555/15|Postanowienie|69|https://www.saos.org.pl/judgments/245285
+86584|2007-09-20|SN|II CSK 240/07|Postanowienie|69|https://www.saos.org.pl/judgments/86584
+412955|2020-01-28|SO|I AGa 222/19|Wyrok|56|https://www.saos.org.pl/judgments/412955
+330554|2017-12-21|SO|III AUa 323/17|Wyrok|56|https://www.saos.org.pl/judgments/330554
+397520|2018-07-05|SO|XII Ga 646/17|Postanowienie|31|https://www.saos.org.pl/judgments/397520

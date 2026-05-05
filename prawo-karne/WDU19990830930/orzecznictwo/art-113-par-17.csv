@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-492398|2023-01-31|SO|III K 165/22|Uzasadnienie|https://www.saos.org.pl/judgments/492398
-468420|2022-05-13|SO|IV Ka 577/21|Uzasadnienie|https://www.saos.org.pl/judgments/468420
-299373|2017-08-18|SO|V Kz 591/17|Uzasadnienie|https://www.saos.org.pl/judgments/299373
+saos_id|date|court|case_number|type|score|saos_url
+299373|2017-08-18|SO|V Kz 591/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299373

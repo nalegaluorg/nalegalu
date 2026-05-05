@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-258956|2016-09-20|SO|II K 419/16|Wyrok|https://www.saos.org.pl/judgments/258956
-239625|2015-12-22|SO|II K 862/15|Wyrok|https://www.saos.org.pl/judgments/239625
-144045|2014-01-23|SO|II AKa 275/13|Wyrok|https://www.saos.org.pl/judgments/144045
+saos_id|date|court|case_number|type|score|saos_url
+144045|2014-01-23|SO|II AKa 275/13|Wyrok|56|https://www.saos.org.pl/judgments/144045

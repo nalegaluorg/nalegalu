@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-365661|2018-11-19|SO|VII Ka 844/18|Wyrok|https://www.saos.org.pl/judgments/365661
+saos_id|date|court|case_number|type|score|saos_url
+365661|2018-11-19|SO|VII Ka 844/18|Wyrok|40|https://www.saos.org.pl/judgments/365661

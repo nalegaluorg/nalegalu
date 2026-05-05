@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-418469|2018-05-16|SO|III Kow 385/18|Postanowienie|https://www.saos.org.pl/judgments/418469
-327694|2017-11-24|SO|II AKa 269/17|Wyrok|https://www.saos.org.pl/judgments/327694
-312698|2017-08-31|SO|VI ACa 893/16|Wyrok|https://www.saos.org.pl/judgments/312698
-514446|2016-03-30|SO|X Ka 57/16|Wyrok|https://www.saos.org.pl/judgments/514446
-112207|2014-05-15|TK|SK 21/13|Postanowienie|https://www.saos.org.pl/judgments/112207
-145723|2014-04-25|SO|II AKz 117/14|Postanowienie|https://www.saos.org.pl/judgments/145723
-111754|2013-04-16|TK|Ts 44/12|Postanowienie|https://www.saos.org.pl/judgments/111754
-111006|2012-07-10|TK|SK 25/10|Postanowienie|https://www.saos.org.pl/judgments/111006
-91909|2010-02-24|SN|I KZP 34/09|Uchwała|https://www.saos.org.pl/judgments/91909
-109510|2009-10-04|TK|Ts 304/07|Postanowienie|https://www.saos.org.pl/judgments/109510
-79960|2000-09-28|SN|III ZP 21/00|Uchwała|https://www.saos.org.pl/judgments/79960
+saos_id|date|court|case_number|type|score|saos_url
+91909|2010-02-24|SN|I KZP 34/09|Uchwała|96|https://www.saos.org.pl/judgments/91909
+79960|2000-09-28|SN|III ZP 21/00|Uchwała|96|https://www.saos.org.pl/judgments/79960
+112207|2014-05-15|TK|SK 21/13|Postanowienie|80|https://www.saos.org.pl/judgments/112207
+111754|2013-04-16|TK|Ts 44/12|Postanowienie|80|https://www.saos.org.pl/judgments/111754
+111006|2012-07-10|TK|SK 25/10|Postanowienie|80|https://www.saos.org.pl/judgments/111006
+109510|2009-10-04|TK|Ts 304/07|Postanowienie|80|https://www.saos.org.pl/judgments/109510
+327694|2017-11-24|SO|II AKa 269/17|Wyrok|56|https://www.saos.org.pl/judgments/327694
+312698|2017-08-31|SO|VI ACa 893/16|Wyrok|56|https://www.saos.org.pl/judgments/312698
+145723|2014-04-25|SO|II AKz 117/14|Postanowienie|47|https://www.saos.org.pl/judgments/145723

@@ -1,19 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539427|2025-11-20|SO|XVII AmE 201/24|Wyrok|https://www.saos.org.pl/judgments/539427
-533348|2025-06-03|SO|XVII AmE 251/23|Wyrok|https://www.saos.org.pl/judgments/533348
-533217|2025-06-03|SO|XVII AmE 258/23|Wyrok|https://www.saos.org.pl/judgments/533217
-532631|2025-04-15|SO|XVII AmE 36/24|Wyrok|https://www.saos.org.pl/judgments/532631
-532540|2025-02-26|SO|XVII AmE 262/23|Wyrok|https://www.saos.org.pl/judgments/532540
-528606|2025-01-16|SO|XVII AmE 179/23|Wyrok|https://www.saos.org.pl/judgments/528606
-523415|2024-11-21|SO|XVII AmE 236/23|Wyrok|https://www.saos.org.pl/judgments/523415
-523414|2024-11-21|SO|XVII AmE 211/23|Wyrok|https://www.saos.org.pl/judgments/523414
-492733|2023-07-24|SO|XVII AmA 27/23|Wyrok|https://www.saos.org.pl/judgments/492733
-459434|2022-02-14|SO|XVII AmA 23/20|Wyrok|https://www.saos.org.pl/judgments/459434
-352876|2018-08-09|SO|I C 364/18|Wyrok|https://www.saos.org.pl/judgments/352876
-347872|2018-06-15|SO|XVII AmA 15/16|Wyrok|https://www.saos.org.pl/judgments/347872
-294909|2017-02-28|SO|I C 171/15|Wyrok|https://www.saos.org.pl/judgments/294909
-207249|2015-12-30|SO|I C 513/15|Uzasadnienie|https://www.saos.org.pl/judgments/207249
-193326|2015-10-20|SO|III Ca 827/15|Uzasadnienie|https://www.saos.org.pl/judgments/193326
-229331|2015-05-12|SO|I C 1479/13|Wyrok|https://www.saos.org.pl/judgments/229331
-33827|2008-11-12|SO|XVII AmA 109/07|Uzasadnienie|https://www.saos.org.pl/judgments/33827
-84018|2006-01-12|SN|III ZS 2/05|Wyrok|https://www.saos.org.pl/judgments/84018
+saos_id|date|court|case_number|type|score|saos_url
+84018|2006-01-12|SN|III ZS 2/05|Wyrok|78|https://www.saos.org.pl/judgments/84018
+193326|2015-10-20|SO|III Ca 827/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193326

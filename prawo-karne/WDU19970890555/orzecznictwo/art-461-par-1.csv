@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-226548|2016-05-19|SO|II Kz 73/16|Postanowienie|https://www.saos.org.pl/judgments/226548
-94607|2011-03-31|SN|WZP 2/10|Uchwała|https://www.saos.org.pl/judgments/94607
-90361|2009-06-05|SN|V KZ 31/09|Postanowienie|https://www.saos.org.pl/judgments/90361
-107399|2005-06-20|TK|Ts 118/04|Postanowienie|https://www.saos.org.pl/judgments/107399
+saos_id|date|court|case_number|type|score|saos_url
+94607|2011-03-31|SN|WZP 2/10|Uchwała|96|https://www.saos.org.pl/judgments/94607
+107399|2005-06-20|TK|Ts 118/04|Postanowienie|80|https://www.saos.org.pl/judgments/107399
+90361|2009-06-05|SN|V KZ 31/09|Postanowienie|69|https://www.saos.org.pl/judgments/90361
+226548|2016-05-19|SO|II Kz 73/16|Postanowienie|31|https://www.saos.org.pl/judgments/226548

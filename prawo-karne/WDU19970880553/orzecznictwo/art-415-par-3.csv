@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-157995|2015-05-21|SO|V Ka 181/15|Wyrok|https://www.saos.org.pl/judgments/157995
-167316|2014-11-14|SN|III KK 340/14|Postanowienie|https://www.saos.org.pl/judgments/167316
-68319|2014-09-29|SO|II AKa 133/14|Wyrok|https://www.saos.org.pl/judgments/68319
-146675|2014-04-16|SO|II AKa 61/14|Wyrok|https://www.saos.org.pl/judgments/146675
-135709|2012-10-04|SO|II AKa 146/12|Wyrok|https://www.saos.org.pl/judgments/135709
+saos_id|date|court|case_number|type|score|saos_url
+167316|2014-11-14|SN|III KK 340/14|Postanowienie|69|https://www.saos.org.pl/judgments/167316
+68319|2014-09-29|SO|II AKa 133/14|Wyrok|56|https://www.saos.org.pl/judgments/68319
+146675|2014-04-16|SO|II AKa 61/14|Wyrok|56|https://www.saos.org.pl/judgments/146675
+135709|2012-10-04|SO|II AKa 146/12|Wyrok|56|https://www.saos.org.pl/judgments/135709

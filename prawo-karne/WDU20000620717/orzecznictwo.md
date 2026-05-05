@@ -14,19 +14,19 @@ Orzeczenia powołujące: *Ustawa z dnia 20 lipca 2000 r. o zmianie ustawy - Kode
 
 ## art. 180 § 2 (1)
 
-- 2004-11-22 | TK | [SK 64/03](https://www.saos.org.pl/judgments/106791) | Wyrok
+- 2004-11-22 | TK | [SK 64/03](https://www.saos.org.pl/judgments/106791) | Wyrok ★
 
 ## art. 254 (1)
 
-- 2004-10-29 | SN | [I KZP 19/04](https://www.saos.org.pl/judgments/82940) | Uchwała
+- 2004-10-29 | SN | [I KZP 19/04](https://www.saos.org.pl/judgments/82940) | Uchwała ★
 
 ## art. 254 § 2 (1)
 
-- 2003-11-26 | SN | [I KZP 30/03](https://www.saos.org.pl/judgments/82342) | Uchwała
+- 2003-11-26 | SN | [I KZP 30/03](https://www.saos.org.pl/judgments/82342) | Uchwała ★
 
 ## art. 451 (1)
 
-- 2001-05-15 | SN | [V KKN 517/00](https://www.saos.org.pl/judgments/80585) | Wyrok
+- 2001-05-15 | SN | [V KKN 517/00](https://www.saos.org.pl/judgments/80585) | Wyrok ★
 
 ## art. 523 (1)
 

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-242843|2015-06-25|SN|V CZ 27/15|Postanowienie|https://www.saos.org.pl/judgments/242843
-96717|2012-01-12|SN|II CSK 273/11|Wyrok|https://www.saos.org.pl/judgments/96717
+saos_id|date|court|case_number|type|score|saos_url
+96717|2012-01-12|SN|II CSK 273/11|Wyrok|78|https://www.saos.org.pl/judgments/96717
+242843|2015-06-25|SN|V CZ 27/15|Postanowienie|69|https://www.saos.org.pl/judgments/242843

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-320991|2017-12-18|SO|II K 1016/16|Wyrok|https://www.saos.org.pl/judgments/320991
-282968|2017-05-05|SO|IV Kz 112/17|Postanowienie|https://www.saos.org.pl/judgments/282968
-218077|2016-04-08|SO|IV Kz 51/16|Postanowienie|https://www.saos.org.pl/judgments/218077
-166144|2014-06-26|SN|I KZP 7/14|Uchwała|https://www.saos.org.pl/judgments/166144
+saos_id|date|court|case_number|type|score|saos_url
+166144|2014-06-26|SN|I KZP 7/14|Uchwała|89|https://www.saos.org.pl/judgments/166144
+320991|2017-12-18|SO|II K 1016/16|Wyrok|40|https://www.saos.org.pl/judgments/320991
+282968|2017-05-05|SO|IV Kz 112/17|Postanowienie|31|https://www.saos.org.pl/judgments/282968
+218077|2016-04-08|SO|IV Kz 51/16|Postanowienie|31|https://www.saos.org.pl/judgments/218077

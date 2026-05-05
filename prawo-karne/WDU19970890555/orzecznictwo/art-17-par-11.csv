@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-461792|2020-09-17|SO|II AKa 92/20|Wyrok|https://www.saos.org.pl/judgments/461792
-387236|2018-12-21|SO|II AKa 93/18|Wyrok|https://www.saos.org.pl/judgments/387236
-192010|2015-11-19|SO|VI Ka 370/15|Wyrok|https://www.saos.org.pl/judgments/192010
-171248|2015-06-26|SO|IV Ka 571/15|Wyrok|https://www.saos.org.pl/judgments/171248
-4779|2013-02-07|SO|IV Kz 15/13|Postanowienie|https://www.saos.org.pl/judgments/4779
+saos_id|date|court|case_number|type|score|saos_url
+461792|2020-09-17|SO|II AKa 92/20|Wyrok|56|https://www.saos.org.pl/judgments/461792
+387236|2018-12-21|SO|II AKa 93/18|Wyrok|56|https://www.saos.org.pl/judgments/387236
+171248|2015-06-26|SO|IV Ka 571/15|Wyrok|40|https://www.saos.org.pl/judgments/171248

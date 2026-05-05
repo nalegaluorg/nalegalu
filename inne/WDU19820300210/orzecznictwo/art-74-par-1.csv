@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-357240|2018-07-03|SO|VI Ka 1224/17|Wyrok|https://www.saos.org.pl/judgments/357240
-342340|2018-04-24|SO|IV Ka 42/18|Wyrok|https://www.saos.org.pl/judgments/342340
-300961|2016-10-19|SO|IV Ka 472/16|Uzasadnienie|https://www.saos.org.pl/judgments/300961
-59350|2014-08-22|SO|VI Ka 603/14|Wyrok|https://www.saos.org.pl/judgments/59350
+saos_id|date|court|case_number|type|score|saos_url
+357240|2018-07-03|SO|VI Ka 1224/17|Wyrok|40|https://www.saos.org.pl/judgments/357240
+342340|2018-04-24|SO|IV Ka 42/18|Wyrok|40|https://www.saos.org.pl/judgments/342340

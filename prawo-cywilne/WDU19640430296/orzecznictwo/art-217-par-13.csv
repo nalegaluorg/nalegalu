@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-439497|2020-02-11|SO|I ACa 148/19|Wyrok|https://www.saos.org.pl/judgments/439497
-522730|2018-12-28|SO|II Ca 185/18|Postanowienie|https://www.saos.org.pl/judgments/522730
-379767|2018-02-23|SO|V Ca 1393/17|Wyrok|https://www.saos.org.pl/judgments/379767
+saos_id|date|court|case_number|type|score|saos_url
+439497|2020-02-11|SO|I ACa 148/19|Wyrok|56|https://www.saos.org.pl/judgments/439497

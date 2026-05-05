@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-490209|2022-02-04|SO|II AKa 12/21|Uzasadnienie|https://www.saos.org.pl/judgments/490209
-398904|2019-03-07|SO|II AKa 260/18|Wyrok|https://www.saos.org.pl/judgments/398904
-364791|2018-07-18|SO|II AKa 94/18|Wyrok|https://www.saos.org.pl/judgments/364791
-399204|2018-06-08|SO|X K 313/18|Wyrok|https://www.saos.org.pl/judgments/399204
-318447|2017-12-20|SO|III K 221/17|Postanowienie|https://www.saos.org.pl/judgments/318447
-283756|2017-01-26|SO|I ACa 968/16|Postanowienie|https://www.saos.org.pl/judgments/283756
-215410|2016-03-07|SO|III K 232/15|Wyrok|https://www.saos.org.pl/judgments/215410
-126556|2014-12-18|SO|III K 121/14|Wyrok|https://www.saos.org.pl/judgments/126556
-92399|2010-06-02|SN|V KK 369/09|Postanowienie|https://www.saos.org.pl/judgments/92399
-86998|2008-01-07|SN|II KK 252/07|Postanowienie|https://www.saos.org.pl/judgments/86998
-81538|2002-08-09|SN|V KKN 377/01|Postanowienie|https://www.saos.org.pl/judgments/81538
+saos_id|date|court|case_number|type|score|saos_url
+92399|2010-06-02|SN|V KK 369/09|Postanowienie|69|https://www.saos.org.pl/judgments/92399
+86998|2008-01-07|SN|II KK 252/07|Postanowienie|69|https://www.saos.org.pl/judgments/86998
+81538|2002-08-09|SN|V KKN 377/01|Postanowienie|69|https://www.saos.org.pl/judgments/81538
+398904|2019-03-07|SO|II AKa 260/18|Wyrok|56|https://www.saos.org.pl/judgments/398904
+364791|2018-07-18|SO|II AKa 94/18|Wyrok|56|https://www.saos.org.pl/judgments/364791
+283756|2017-01-26|SO|I ACa 968/16|Postanowienie|47|https://www.saos.org.pl/judgments/283756
+490209|2022-02-04|SO|II AKa 12/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/490209
+215410|2016-03-07|SO|III K 232/15|Wyrok|40|https://www.saos.org.pl/judgments/215410
+318447|2017-12-20|SO|III K 221/17|Postanowienie|31|https://www.saos.org.pl/judgments/318447

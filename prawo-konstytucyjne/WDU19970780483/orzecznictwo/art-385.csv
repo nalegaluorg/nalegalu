@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-539641|2025-04-16|SO|I ACa 1559/22|Wyrok|https://www.saos.org.pl/judgments/539641
-538033|2025-03-19|SO|I ACa 1359/22|Wyrok|https://www.saos.org.pl/judgments/538033
-536903|2025-02-17|SO|I ACa 1123/24|Wyrok|https://www.saos.org.pl/judgments/536903
-531964|2024-10-16|SO|I ACa 1997/23|Wyrok|https://www.saos.org.pl/judgments/531964
+saos_id|date|court|case_number|type|score|saos_url
+539641|2025-04-16|SO|I ACa 1559/22|Wyrok|56|https://www.saos.org.pl/judgments/539641
+538033|2025-03-19|SO|I ACa 1359/22|Wyrok|56|https://www.saos.org.pl/judgments/538033
+536903|2025-02-17|SO|I ACa 1123/24|Wyrok|56|https://www.saos.org.pl/judgments/536903
+531964|2024-10-16|SO|I ACa 1997/23|Wyrok|56|https://www.saos.org.pl/judgments/531964

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-380032|2019-02-05|SO|VI Ka 1133/18|Wyrok|https://www.saos.org.pl/judgments/380032
-172101|2015-04-28|SO|V ACa 709/14|Wyrok|https://www.saos.org.pl/judgments/172101
-27231|2013-07-09|SO|V ACa 166/13|Wyrok|https://www.saos.org.pl/judgments/27231
+saos_id|date|court|case_number|type|score|saos_url
+172101|2015-04-28|SO|V ACa 709/14|Wyrok|56|https://www.saos.org.pl/judgments/172101
+27231|2013-07-09|SO|V ACa 166/13|Wyrok|56|https://www.saos.org.pl/judgments/27231

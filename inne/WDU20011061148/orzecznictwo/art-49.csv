@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-333086|2017-11-23|SO|VII Ka 971/17|Wyrok|https://www.saos.org.pl/judgments/333086
-192263|2015-12-15|SO|VI Ka 1014/15|Wyrok|https://www.saos.org.pl/judgments/192263
-71907|2014-11-06|SO|IV Kz 167/14|Postanowienie|https://www.saos.org.pl/judgments/71907
-21975|2013-10-03|SO|VIII Ka 499/13|Wyrok|https://www.saos.org.pl/judgments/21975
-11634|2013-04-25|SO|VIII Ka 162/13|Wyrok|https://www.saos.org.pl/judgments/11634
+saos_id|date|court|case_number|type|score|saos_url
+71907|2014-11-06|SO|IV Kz 167/14|Postanowienie|31|https://www.saos.org.pl/judgments/71907

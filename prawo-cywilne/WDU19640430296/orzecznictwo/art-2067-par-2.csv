@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-355334|2018-05-11|SO|IV Pa 19/18|Wyrok|https://www.saos.org.pl/judgments/355334
+saos_id|date|court|case_number|type|score|saos_url
+355334|2018-05-11|SO|IV Pa 19/18|Wyrok|40|https://www.saos.org.pl/judgments/355334

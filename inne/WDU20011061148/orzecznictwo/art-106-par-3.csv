@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-327725|2017-11-29|SO|IV Ka 672/17|Wyrok|https://www.saos.org.pl/judgments/327725
-167249|2014-11-06|SN|III KK 168/14|Wyrok|https://www.saos.org.pl/judgments/167249
-101995|2013-06-06|SN|III KK 140/13|Wyrok|https://www.saos.org.pl/judgments/101995
+saos_id|date|court|case_number|type|score|saos_url
+167249|2014-11-06|SN|III KK 168/14|Wyrok|78|https://www.saos.org.pl/judgments/167249
+101995|2013-06-06|SN|III KK 140/13|Wyrok|78|https://www.saos.org.pl/judgments/101995

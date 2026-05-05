@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-457541|2022-01-18|SO|X Ka 482/21|Wyrok|https://www.saos.org.pl/judgments/457541
-402670|2019-06-08|SO|XIV K 817/17|Uzasadnienie|https://www.saos.org.pl/judgments/402670
-417103|2018-11-26|SO|XVIII C 161/15|Wyrok|https://www.saos.org.pl/judgments/417103
-360061|2018-09-11|SO|XIV C 399/17|Wyrok|https://www.saos.org.pl/judgments/360061
-345019|2018-03-13|SO|II K 896/17|Wyrok|https://www.saos.org.pl/judgments/345019
+saos_id|date|court|case_number|type|score|saos_url
+417103|2018-11-26|SO|XVIII C 161/15|Wyrok|40|https://www.saos.org.pl/judgments/417103
+360061|2018-09-11|SO|XIV C 399/17|Wyrok|40|https://www.saos.org.pl/judgments/360061

@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-535091|2025-07-28|SO|VIII U 1831/24|Uzasadnienie|https://www.saos.org.pl/judgments/535091
-352932|2018-05-09|SO|III AUa 207/18|Wyrok|https://www.saos.org.pl/judgments/352932
-184212|2015-09-24|SO|III AUa 1552/14|Wyrok|https://www.saos.org.pl/judgments/184212
-152597|2015-03-12|SO|III AUa 1816/14|Wyrok|https://www.saos.org.pl/judgments/152597
-26928|2013-11-12|SO|III AUa 521/13|Wyrok|https://www.saos.org.pl/judgments/26928
-1430|2012-08-23|SO|III AUa 761/12|Wyrok|https://www.saos.org.pl/judgments/1430
-1538|2012-04-26|SO|III AUa 158/12|Wyrok|https://www.saos.org.pl/judgments/1538
-81017|2001-11-21|SN|II UKN 634/00|Wyrok|https://www.saos.org.pl/judgments/81017
+saos_id|date|court|case_number|type|score|saos_url
+81017|2001-11-21|SN|II UKN 634/00|Wyrok|78|https://www.saos.org.pl/judgments/81017
+352932|2018-05-09|SO|III AUa 207/18|Wyrok|56|https://www.saos.org.pl/judgments/352932
+184212|2015-09-24|SO|III AUa 1552/14|Wyrok|56|https://www.saos.org.pl/judgments/184212
+152597|2015-03-12|SO|III AUa 1816/14|Wyrok|56|https://www.saos.org.pl/judgments/152597
+26928|2013-11-12|SO|III AUa 521/13|Wyrok|56|https://www.saos.org.pl/judgments/26928
+1430|2012-08-23|SO|III AUa 761/12|Wyrok|56|https://www.saos.org.pl/judgments/1430
+1538|2012-04-26|SO|III AUa 158/12|Wyrok|56|https://www.saos.org.pl/judgments/1538
+535091|2025-07-28|SO|VIII U 1831/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/535091

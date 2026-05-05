@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-541781|2025-12-19|SO|IV Ka 723/25|Uzasadnienie|https://www.saos.org.pl/judgments/541781
-45932|2014-04-11|SO|IV Ka 124/14|Wyrok|https://www.saos.org.pl/judgments/45932
-84677|2006-10-26|SN|I KZP 24/06|Postanowienie|https://www.saos.org.pl/judgments/84677
+saos_id|date|court|case_number|type|score|saos_url
+84677|2006-10-26|SN|I KZP 24/06|Postanowienie|69|https://www.saos.org.pl/judgments/84677

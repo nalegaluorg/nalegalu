@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539072|2025-10-31|SO|I Cz 200/25|Uzasadnienie|https://www.saos.org.pl/judgments/539072
-507668|2023-12-11|SO|IV GNc 3279/23|Uzasadnienie|https://www.saos.org.pl/judgments/507668
-491811|2023-05-29|SO|III Nc 11/23|Postanowienie|https://www.saos.org.pl/judgments/491811
-432893|2021-02-11|SO|I Nc 1988/20|Zarządzenie|https://www.saos.org.pl/judgments/432893
-215392|2016-02-16|SO|III Ca 940/15|Postanowienie|https://www.saos.org.pl/judgments/215392
-71412|2014-11-07|SO|II Ca 871/14|Postanowienie|https://www.saos.org.pl/judgments/71412
-80515|2001-04-18|SN|I PKN 358/00|Wyrok|https://www.saos.org.pl/judgments/80515
+saos_id|date|court|case_number|type|score|saos_url
+80515|2001-04-18|SN|I PKN 358/00|Wyrok|78|https://www.saos.org.pl/judgments/80515

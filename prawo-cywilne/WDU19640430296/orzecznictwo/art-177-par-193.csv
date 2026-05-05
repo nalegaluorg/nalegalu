@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-92300|2010-05-20|SN|V CSK 386/09|Wyrok|https://www.saos.org.pl/judgments/92300
+saos_id|date|court|case_number|type|score|saos_url
+92300|2010-05-20|SN|V CSK 386/09|Wyrok|78|https://www.saos.org.pl/judgments/92300

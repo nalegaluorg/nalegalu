@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-519606|2024-02-27|SO|II K 1191/23|Uzasadnienie|https://www.saos.org.pl/judgments/519606
-519607|2024-02-20|SO|II K 1191/23|Wyrok|https://www.saos.org.pl/judgments/519607
-233604|2016-05-06|SO|V Kz 296/16|Postanowienie|https://www.saos.org.pl/judgments/233604
-231626|2016-05-06|SO|V Kz 295/16|Postanowienie|https://www.saos.org.pl/judgments/231626
-231625|2016-05-06|SO|V Kz 243/16|Postanowienie|https://www.saos.org.pl/judgments/231625
-204779|2016-02-12|SO|V Kz 90/16|Postanowienie|https://www.saos.org.pl/judgments/204779
-199698|2015-06-19|SO|II Kp 223/15|Postanowienie|https://www.saos.org.pl/judgments/199698
-108580|2008-04-15|TK|P 26/06|Wyrok|https://www.saos.org.pl/judgments/108580
+saos_id|date|court|case_number|type|score|saos_url
+108580|2008-04-15|TK|P 26/06|Wyrok|98|https://www.saos.org.pl/judgments/108580
+233604|2016-05-06|SO|V Kz 296/16|Postanowienie|31|https://www.saos.org.pl/judgments/233604
+231626|2016-05-06|SO|V Kz 295/16|Postanowienie|31|https://www.saos.org.pl/judgments/231626
+231625|2016-05-06|SO|V Kz 243/16|Postanowienie|31|https://www.saos.org.pl/judgments/231625
+204779|2016-02-12|SO|V Kz 90/16|Postanowienie|31|https://www.saos.org.pl/judgments/204779

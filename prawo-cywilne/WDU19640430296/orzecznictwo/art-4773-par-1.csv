@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-77355|1996-12-13|SN|I PKN 2/96|Wyrok|https://www.saos.org.pl/judgments/77355
-77101|1996-03-12|SN|I PRN 14/96|Wyrok|https://www.saos.org.pl/judgments/77101
-77031|1996-01-12|SN|II PRN 12/95|Wyrok|https://www.saos.org.pl/judgments/77031
-76911|1995-09-07|SN|I PRN 43/95|Wyrok|https://www.saos.org.pl/judgments/76911
-76765|1995-02-03|SN|I PRN 121/94|Wyrok|https://www.saos.org.pl/judgments/76765
-76665|1994-10-11|SN|I PRN 80/94|Wyrok|https://www.saos.org.pl/judgments/76665
-76640|1994-09-28|SN|I PRN 61/94|Wyrok|https://www.saos.org.pl/judgments/76640
+saos_id|date|court|case_number|type|score|saos_url
+77355|1996-12-13|SN|I PKN 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77355
+77101|1996-03-12|SN|I PRN 14/96|Wyrok|78|https://www.saos.org.pl/judgments/77101
+77031|1996-01-12|SN|II PRN 12/95|Wyrok|78|https://www.saos.org.pl/judgments/77031
+76911|1995-09-07|SN|I PRN 43/95|Wyrok|78|https://www.saos.org.pl/judgments/76911
+76765|1995-02-03|SN|I PRN 121/94|Wyrok|78|https://www.saos.org.pl/judgments/76765
+76665|1994-10-11|SN|I PRN 80/94|Wyrok|78|https://www.saos.org.pl/judgments/76665
+76640|1994-09-28|SN|I PRN 61/94|Wyrok|78|https://www.saos.org.pl/judgments/76640

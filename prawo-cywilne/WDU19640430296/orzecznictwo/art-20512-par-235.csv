@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-513051|2024-02-14|SO|VIII Pa 93/23|Uzasadnienie|https://www.saos.org.pl/judgments/513051
-493616|2023-12-12|SO|I ACa 1433/22|Wyrok|https://www.saos.org.pl/judgments/493616
-494885|2022-09-19|SO|I AGa 130/21|Wyrok|https://www.saos.org.pl/judgments/494885
+saos_id|date|court|case_number|type|score|saos_url
+493616|2023-12-12|SO|I ACa 1433/22|Wyrok|56|https://www.saos.org.pl/judgments/493616
+494885|2022-09-19|SO|I AGa 130/21|Wyrok|56|https://www.saos.org.pl/judgments/494885
+513051|2024-02-14|SO|VIII Pa 93/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513051

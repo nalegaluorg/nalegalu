@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90202|2009-05-14|SN|I BP 23/08|Postanowienie|https://www.saos.org.pl/judgments/90202
+saos_id|date|court|case_number|type|score|saos_url
+90202|2009-05-14|SN|I BP 23/08|Postanowienie|69|https://www.saos.org.pl/judgments/90202

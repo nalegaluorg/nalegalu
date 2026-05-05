@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-147059|2013-11-28|SO|I ACz 891/13|Postanowienie|https://www.saos.org.pl/judgments/147059
-77305|1996-11-07|SN|I PKN 9/96|Postanowienie|https://www.saos.org.pl/judgments/77305
+saos_id|date|court|case_number|type|score|saos_url
+77305|1996-11-07|SN|I PKN 9/96|Postanowienie|69|https://www.saos.org.pl/judgments/77305
+147059|2013-11-28|SO|I ACz 891/13|Postanowienie|47|https://www.saos.org.pl/judgments/147059

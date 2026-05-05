@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-437954|2021-03-10|SO|V GC 1501/20|Wyrok|https://www.saos.org.pl/judgments/437954
-283560|2016-03-07|SO|IX GC 1396/14|Wyrok|https://www.saos.org.pl/judgments/283560
-165551|2013-11-08|SN|I CSK 712/12|Wyrok|https://www.saos.org.pl/judgments/165551
-6215|2013-02-05|SO|I ACa 741/12|Wyrok|https://www.saos.org.pl/judgments/6215
-2884|2012-08-09|SO|VI ACa 1009/10|Wyrok|https://www.saos.org.pl/judgments/2884
+saos_id|date|court|case_number|type|score|saos_url
+165551|2013-11-08|SN|I CSK 712/12|Wyrok|78|https://www.saos.org.pl/judgments/165551
+6215|2013-02-05|SO|I ACa 741/12|Wyrok|56|https://www.saos.org.pl/judgments/6215
+2884|2012-08-09|SO|VI ACa 1009/10|Wyrok|56|https://www.saos.org.pl/judgments/2884
+283560|2016-03-07|SO|IX GC 1396/14|Wyrok|40|https://www.saos.org.pl/judgments/283560

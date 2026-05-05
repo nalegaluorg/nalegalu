@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-80025|2000-10-17|SN|V KKN 362/00|Postanowienie|https://www.saos.org.pl/judgments/80025
-79856|2000-07-21|SN|II KKN 204/00|Wyrok|https://www.saos.org.pl/judgments/79856
+saos_id|date|court|case_number|type|score|saos_url
+79856|2000-07-21|SN|II KKN 204/00|Wyrok|78|https://www.saos.org.pl/judgments/79856
+80025|2000-10-17|SN|V KKN 362/00|Postanowienie|69|https://www.saos.org.pl/judgments/80025

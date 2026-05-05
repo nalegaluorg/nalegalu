@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-372511|2019-01-10|SO|V ACa 78/18|Wyrok|https://www.saos.org.pl/judgments/372511
-152400|2015-03-19|SO|I ACa 26/15|Wyrok|https://www.saos.org.pl/judgments/152400
-13292|2013-01-24|SO|I ACa 771/12|Wyrok|https://www.saos.org.pl/judgments/13292
-15|2012-08-22|SO|I ACa 710/12|Wyrok|https://www.saos.org.pl/judgments/15
-98565|2012-07-05|SN|IV CSK 603/11|Wyrok|https://www.saos.org.pl/judgments/98565
+saos_id|date|court|case_number|type|score|saos_url
+98565|2012-07-05|SN|IV CSK 603/11|Wyrok|78|https://www.saos.org.pl/judgments/98565
+372511|2019-01-10|SO|V ACa 78/18|Wyrok|56|https://www.saos.org.pl/judgments/372511
+152400|2015-03-19|SO|I ACa 26/15|Wyrok|56|https://www.saos.org.pl/judgments/152400
+13292|2013-01-24|SO|I ACa 771/12|Wyrok|56|https://www.saos.org.pl/judgments/13292
+15|2012-08-22|SO|I ACa 710/12|Wyrok|56|https://www.saos.org.pl/judgments/15

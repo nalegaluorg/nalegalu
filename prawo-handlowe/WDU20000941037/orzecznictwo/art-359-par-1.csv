@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-488471|2022-06-23|SO|X GC 4/22|Zarządzenie|https://www.saos.org.pl/judgments/488471
-412319|2019-11-04|SO|VII AGa 6/18|Wyrok|https://www.saos.org.pl/judgments/412319
-347569|2018-05-25|SO|IX GC 415/17|Wyrok|https://www.saos.org.pl/judgments/347569
-37372|2013-11-12|SO|VIII Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/37372
-35609|2013-11-12|SO|VIII Pa 42/13|Wyrok|https://www.saos.org.pl/judgments/35609
-3161|2012-11-14|SO|I ACa 808/12|Wyrok|https://www.saos.org.pl/judgments/3161
-98352|2012-06-15|SN|II CSK 585/11|Wyrok|https://www.saos.org.pl/judgments/98352
-89004|2008-10-30|SN|II CSK 251/08|Wyrok|https://www.saos.org.pl/judgments/89004
+saos_id|date|court|case_number|type|score|saos_url
+98352|2012-06-15|SN|II CSK 585/11|Wyrok|78|https://www.saos.org.pl/judgments/98352
+89004|2008-10-30|SN|II CSK 251/08|Wyrok|78|https://www.saos.org.pl/judgments/89004
+412319|2019-11-04|SO|VII AGa 6/18|Wyrok|56|https://www.saos.org.pl/judgments/412319
+3161|2012-11-14|SO|I ACa 808/12|Wyrok|56|https://www.saos.org.pl/judgments/3161
+347569|2018-05-25|SO|IX GC 415/17|Wyrok|40|https://www.saos.org.pl/judgments/347569
+488471|2022-06-23|SO|X GC 4/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488471

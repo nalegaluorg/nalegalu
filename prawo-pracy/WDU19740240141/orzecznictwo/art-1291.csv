@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-87495|2008-03-06|SN|II PK 189/07|Wyrok|https://www.saos.org.pl/judgments/87495
-86384|2007-08-03|SN|I PZP 6/07|Uchwała|https://www.saos.org.pl/judgments/86384
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
-80987|2001-11-14|SN|III ZP 20/01|Uchwała|https://www.saos.org.pl/judgments/80987
-80517|2001-04-18|SN|I PKN 360/00|Wyrok|https://www.saos.org.pl/judgments/80517
+saos_id|date|court|case_number|type|score|saos_url
+80987|2001-11-14|SN|III ZP 20/01|Uchwała|96|https://www.saos.org.pl/judgments/80987
+86384|2007-08-03|SN|I PZP 6/07|Uchwała|89|https://www.saos.org.pl/judgments/86384
+87495|2008-03-06|SN|II PK 189/07|Wyrok|78|https://www.saos.org.pl/judgments/87495
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275
+80517|2001-04-18|SN|I PKN 360/00|Wyrok|78|https://www.saos.org.pl/judgments/80517

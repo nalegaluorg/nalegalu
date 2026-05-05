@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511135|2023-12-19|SO|VI Ka 410/23|Wyrok|https://www.saos.org.pl/judgments/511135
-135173|2015-03-06|SO|II Ka 32/15|Wyrok|https://www.saos.org.pl/judgments/135173
+saos_id|date|court|case_number|type|score|saos_url
+511135|2023-12-19|SO|VI Ka 410/23|Wyrok|40|https://www.saos.org.pl/judgments/511135

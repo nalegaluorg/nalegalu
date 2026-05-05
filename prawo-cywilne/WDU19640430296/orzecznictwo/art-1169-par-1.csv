@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-131074|2014-12-15|SO|VI ACa 311/14|Wyrok|https://www.saos.org.pl/judgments/131074
-147630|2014-05-29|SO|II C 68/14|Wyrok|https://www.saos.org.pl/judgments/147630
+saos_id|date|court|case_number|type|score|saos_url
+131074|2014-12-15|SO|VI ACa 311/14|Wyrok|56|https://www.saos.org.pl/judgments/131074

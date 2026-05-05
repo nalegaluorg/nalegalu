@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-87125|2008-01-22|SN|II PK 138/07|Wyrok|https://www.saos.org.pl/judgments/87125
-85566|2007-03-27|SN|II PK 241/06|Wyrok|https://www.saos.org.pl/judgments/85566
-82202|2003-09-24|SN|I PK 411/02|Wyrok|https://www.saos.org.pl/judgments/82202
-79928|2000-09-22|SN|I PKN 30/00|Wyrok|https://www.saos.org.pl/judgments/79928
-79896|2000-09-07|SN|I PKN 6/00|Wyrok|https://www.saos.org.pl/judgments/79896
-79615|2000-04-04|SN|I PKN 566/99|Wyrok|https://www.saos.org.pl/judgments/79615
-79225|1999-08-26|SN|I PKN 182/99|Wyrok|https://www.saos.org.pl/judgments/79225
-77204|1996-07-11|SN|I PR 2/96|Wyrok|https://www.saos.org.pl/judgments/77204
+saos_id|date|court|case_number|type|score|saos_url
+87125|2008-01-22|SN|II PK 138/07|Wyrok|78|https://www.saos.org.pl/judgments/87125
+85566|2007-03-27|SN|II PK 241/06|Wyrok|78|https://www.saos.org.pl/judgments/85566
+82202|2003-09-24|SN|I PK 411/02|Wyrok|78|https://www.saos.org.pl/judgments/82202
+79928|2000-09-22|SN|I PKN 30/00|Wyrok|78|https://www.saos.org.pl/judgments/79928
+79896|2000-09-07|SN|I PKN 6/00|Wyrok|78|https://www.saos.org.pl/judgments/79896
+79615|2000-04-04|SN|I PKN 566/99|Wyrok|78|https://www.saos.org.pl/judgments/79615
+79225|1999-08-26|SN|I PKN 182/99|Wyrok|78|https://www.saos.org.pl/judgments/79225
+77204|1996-07-11|SN|I PR 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77204

@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-372971|2018-10-01|SO|V ACa 660/17|Wyrok|https://www.saos.org.pl/judgments/372971
-66886|2014-11-05|SO|I C 80/14|Wyrok|https://www.saos.org.pl/judgments/66886
-148925|2014-10-21|SO|I C 831/11|Wyrok|https://www.saos.org.pl/judgments/148925
-15315|2012-06-28|SO|I ACa 204/12|Wyrok|https://www.saos.org.pl/judgments/15315
-88877|2008-10-08|SN|V CSK 139/08|Wyrok|https://www.saos.org.pl/judgments/88877
+saos_id|date|court|case_number|type|score|saos_url
+88877|2008-10-08|SN|V CSK 139/08|Wyrok|78|https://www.saos.org.pl/judgments/88877
+372971|2018-10-01|SO|V ACa 660/17|Wyrok|56|https://www.saos.org.pl/judgments/372971
+15315|2012-06-28|SO|I ACa 204/12|Wyrok|56|https://www.saos.org.pl/judgments/15315

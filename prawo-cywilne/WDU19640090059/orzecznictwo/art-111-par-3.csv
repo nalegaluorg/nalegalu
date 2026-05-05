@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-72034|2014-08-29|SO|XV Ca 602/14|Wyrok|https://www.saos.org.pl/judgments/72034
+saos_id|date|court|case_number|type|score|saos_url
+72034|2014-08-29|SO|XV Ca 602/14|Wyrok|40|https://www.saos.org.pl/judgments/72034

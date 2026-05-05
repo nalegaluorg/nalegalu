@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-347716|2018-03-02|SO|V AGa 8/18|Wyrok|https://www.saos.org.pl/judgments/347716
-210510|2016-01-27|SO|VI P 81/15|Wyrok|https://www.saos.org.pl/judgments/210510
+saos_id|date|court|case_number|type|score|saos_url
+347716|2018-03-02|SO|V AGa 8/18|Wyrok|56|https://www.saos.org.pl/judgments/347716

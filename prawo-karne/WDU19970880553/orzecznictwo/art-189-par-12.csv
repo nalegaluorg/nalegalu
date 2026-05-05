@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-493998|2023-02-24|SO|I ACa 277/21|Wyrok|https://www.saos.org.pl/judgments/493998
+saos_id|date|court|case_number|type|score|saos_url
+493998|2023-02-24|SO|I ACa 277/21|Wyrok|56|https://www.saos.org.pl/judgments/493998

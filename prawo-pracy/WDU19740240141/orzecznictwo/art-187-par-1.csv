@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-369407|2018-12-06|SO|XXI Pa 397/18|Wyrok|https://www.saos.org.pl/judgments/369407
-369282|2018-07-17|SO|VIII P 1185/17|Uzasadnienie|https://www.saos.org.pl/judgments/369282
-242509|2016-06-16|SO|XXI Pa 872/15|Wyrok|https://www.saos.org.pl/judgments/242509
-150496|2015-03-25|SO|IV P 45/14|Wyrok|https://www.saos.org.pl/judgments/150496
-131033|2014-12-16|SO|IX U 1385/14|Wyrok|https://www.saos.org.pl/judgments/131033
-16677|2013-05-28|SO|V Pa 207/12|Wyrok|https://www.saos.org.pl/judgments/16677
-3730|2012-12-31|SO|V Pa 193/12|Wyrok|https://www.saos.org.pl/judgments/3730
+saos_id|date|court|case_number|type|score|saos_url
+3730|2012-12-31|SO|V Pa 193/12|Wyrok|40|https://www.saos.org.pl/judgments/3730

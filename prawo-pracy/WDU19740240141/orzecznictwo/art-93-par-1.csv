@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-516859|2024-09-26|SO|IV P 56/24|Wyrok|https://www.saos.org.pl/judgments/516859
-380374|2019-03-01|SO|VIII Pa 172/18|Uzasadnienie|https://www.saos.org.pl/judgments/380374
-366133|2018-12-19|SO|III APa 16/18|Wyrok|https://www.saos.org.pl/judgments/366133
-341355|2018-05-08|SO|IV P 2/15|Wyrok|https://www.saos.org.pl/judgments/341355
-263628|2016-12-15|SO|II W 910/16|Wyrok|https://www.saos.org.pl/judgments/263628
-254734|2016-10-12|SO|IV P 869/15|Wyrok|https://www.saos.org.pl/judgments/254734
-166296|2014-07-09|SN|II KK 154/14|Wyrok|https://www.saos.org.pl/judgments/166296
-43565|2014-03-13|SO|V Pa 21/14|Wyrok|https://www.saos.org.pl/judgments/43565
-43943|2014-01-29|SO|X P 826/13|Wyrok|https://www.saos.org.pl/judgments/43943
-39509|2013-12-17|SO|IV Ka 616/13|Wyrok|https://www.saos.org.pl/judgments/39509
-103670|2013-11-28|SN|IV KK 367/13|Wyrok|https://www.saos.org.pl/judgments/103670
-102471|2013-07-16|SN|III KK 193/13|Wyrok|https://www.saos.org.pl/judgments/102471
-101672|2013-05-08|SN|II KK 338/12|Wyrok|https://www.saos.org.pl/judgments/101672
-10854|2013-03-06|SO|I ACa 85/13|Wyrok|https://www.saos.org.pl/judgments/10854
+saos_id|date|court|case_number|type|score|saos_url
+166296|2014-07-09|SN|II KK 154/14|Wyrok|78|https://www.saos.org.pl/judgments/166296
+103670|2013-11-28|SN|IV KK 367/13|Wyrok|78|https://www.saos.org.pl/judgments/103670
+102471|2013-07-16|SN|III KK 193/13|Wyrok|78|https://www.saos.org.pl/judgments/102471
+101672|2013-05-08|SN|II KK 338/12|Wyrok|78|https://www.saos.org.pl/judgments/101672
+366133|2018-12-19|SO|III APa 16/18|Wyrok|56|https://www.saos.org.pl/judgments/366133
+10854|2013-03-06|SO|I ACa 85/13|Wyrok|56|https://www.saos.org.pl/judgments/10854
+263628|2016-12-15|SO|II W 910/16|Wyrok|40|https://www.saos.org.pl/judgments/263628
+43565|2014-03-13|SO|V Pa 21/14|Wyrok|40|https://www.saos.org.pl/judgments/43565
+380374|2019-03-01|SO|VIII Pa 172/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380374

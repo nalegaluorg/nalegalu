@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-429553|2020-09-29|SO|IV Ka 750/19|Uzasadnienie|https://www.saos.org.pl/judgments/429553
-403788|2015-05-12|SO|VII K 346/15|Wyrok|https://www.saos.org.pl/judgments/403788
-128148|2014-12-30|SO|II AKa 387/14|Wyrok|https://www.saos.org.pl/judgments/128148
-44620|2014-04-30|SO|VIII Cz 192/14|Postanowienie|https://www.saos.org.pl/judgments/44620
-44288|2014-04-07|SO|IV K 298/10|Uzasadnienie|https://www.saos.org.pl/judgments/44288
-300316|2013-07-09|SO|XIV K 149/11|Wyrok|https://www.saos.org.pl/judgments/300316
-4273|2013-01-16|SO|VII K 1264/12|Wyrok|https://www.saos.org.pl/judgments/4273
+saos_id|date|court|case_number|type|score|saos_url
+128148|2014-12-30|SO|II AKa 387/14|Wyrok|56|https://www.saos.org.pl/judgments/128148

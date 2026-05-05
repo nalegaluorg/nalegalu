@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-478861|2022-10-27|SO|I C 70/21|Wyrok|https://www.saos.org.pl/judgments/478861
-178488|2014-06-25|SO|I C 2175/12|Wyrok|https://www.saos.org.pl/judgments/178488
-147292|2014-06-04|SO|I C 348/14|Wyrok|https://www.saos.org.pl/judgments/147292
-37358|2014-02-04|SO|VII Ca 872/13|Wyrok|https://www.saos.org.pl/judgments/37358
+saos_id|date|court|case_number|type|score|saos_url
+37358|2014-02-04|SO|VII Ca 872/13|Wyrok|40|https://www.saos.org.pl/judgments/37358

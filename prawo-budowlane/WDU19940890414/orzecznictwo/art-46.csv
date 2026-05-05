@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-471784|2022-08-29|SO|IX P 643/18|Zarządzenie|https://www.saos.org.pl/judgments/471784
-300331|2017-07-25|SO|I C 117/14|Wyrok|https://www.saos.org.pl/judgments/300331
-260683|2016-11-17|SO|I ACa 709/16|Wyrok|https://www.saos.org.pl/judgments/260683
-214234|2016-01-26|SO|I C 121/11|Wyrok|https://www.saos.org.pl/judgments/214234
-133902|2015-02-06|SO|I ACa 822/14|Wyrok|https://www.saos.org.pl/judgments/133902
-51652|2014-02-10|SO|I ACa 1479/13|Wyrok|https://www.saos.org.pl/judgments/51652
-51109|2013-09-27|SO|III K 111/12|Wyrok|https://www.saos.org.pl/judgments/51109
-138553|2013-04-24|SO|I Ca 60/13|Wyrok|https://www.saos.org.pl/judgments/138553
-140568|2013-01-29|SO|I C 466/12|Wyrok|https://www.saos.org.pl/judgments/140568
+saos_id|date|court|case_number|type|score|saos_url
+260683|2016-11-17|SO|I ACa 709/16|Wyrok|56|https://www.saos.org.pl/judgments/260683
+133902|2015-02-06|SO|I ACa 822/14|Wyrok|56|https://www.saos.org.pl/judgments/133902
+51652|2014-02-10|SO|I ACa 1479/13|Wyrok|56|https://www.saos.org.pl/judgments/51652
+140568|2013-01-29|SO|I C 466/12|Wyrok|40|https://www.saos.org.pl/judgments/140568

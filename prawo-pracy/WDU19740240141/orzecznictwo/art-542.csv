@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-490161|2023-02-16|SO|VII C 267/21|Wyrok|https://www.saos.org.pl/judgments/490161
-468462|2022-05-09|SO|XXV C 1561/21|Wyrok|https://www.saos.org.pl/judgments/468462
-383869|2018-11-05|SO|IV P 247/18|Wyrok|https://www.saos.org.pl/judgments/383869
-360723|2018-10-11|SO|VII P 302/18|Wyrok|https://www.saos.org.pl/judgments/360723
-360722|2018-10-11|SO|VII P 258/18|Wyrok|https://www.saos.org.pl/judgments/360722
+saos_id|date|court|case_number|type|score|saos_url
+490161|2023-02-16|SO|VII C 267/21|Wyrok|40|https://www.saos.org.pl/judgments/490161

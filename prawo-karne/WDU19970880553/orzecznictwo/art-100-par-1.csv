@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-493614|2023-07-20|SO|I ACa 1427/22|Wyrok|https://www.saos.org.pl/judgments/493614
-81427|2002-06-07|SN|I KZP 15/02|Uchwała|https://www.saos.org.pl/judgments/81427
+saos_id|date|court|case_number|type|score|saos_url
+81427|2002-06-07|SN|I KZP 15/02|Uchwała|96|https://www.saos.org.pl/judgments/81427
+493614|2023-07-20|SO|I ACa 1427/22|Wyrok|56|https://www.saos.org.pl/judgments/493614

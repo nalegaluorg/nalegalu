@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76875|1995-06-20|SN|III ARN 21/95|Postanowienie|https://www.saos.org.pl/judgments/76875
+saos_id|date|court|case_number|type|score|saos_url
+76875|1995-06-20|SN|III ARN 21/95|Postanowienie|69|https://www.saos.org.pl/judgments/76875

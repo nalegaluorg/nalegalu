@@ -1,15 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-363774|2018-09-27|SO|XXIII Ga 1454/18|Postanowienie|https://www.saos.org.pl/judgments/363774
-358453|2018-07-05|SO|XXIII Ga 773/18|Postanowienie|https://www.saos.org.pl/judgments/358453
-346992|2018-05-18|SO|VIII Ga 172/18|Zarządzenie|https://www.saos.org.pl/judgments/346992
-325434|2018-02-06|SO|XIII Ga 1164/17|Uzasadnienie|https://www.saos.org.pl/judgments/325434
-299712|2017-09-01|SO|XIII Ga 182/17|Uzasadnienie|https://www.saos.org.pl/judgments/299712
-290030|2017-06-26|SO|II Cz 392/17|Postanowienie|https://www.saos.org.pl/judgments/290030
-268288|2016-12-05|SO|XXIII Gz 958/16|Postanowienie|https://www.saos.org.pl/judgments/268288
-197097|2015-12-18|SO|XXIII Ga 1311/15|Postanowienie|https://www.saos.org.pl/judgments/197097
-191259|2015-11-19|SO|XXIII Ga 1664/15|Postanowienie|https://www.saos.org.pl/judgments/191259
-180397|2015-09-17|SO|XXIII Ga 496/15|Postanowienie|https://www.saos.org.pl/judgments/180397
-166354|2014-07-17|SN|III CZP 43/14|Uchwała|https://www.saos.org.pl/judgments/166354
-96190|2011-11-04|SN|I CSK 34/11|Wyrok|https://www.saos.org.pl/judgments/96190
-92698|2010-07-21|SN|III CZP 49/10|Uchwała|https://www.saos.org.pl/judgments/92698
-82382|2003-12-03|SN|III CZP 93/03|Uchwała|https://www.saos.org.pl/judgments/82382
+saos_id|date|court|case_number|type|score|saos_url
+166354|2014-07-17|SN|III CZP 43/14|Uchwała|89|https://www.saos.org.pl/judgments/166354
+92698|2010-07-21|SN|III CZP 49/10|Uchwała|89|https://www.saos.org.pl/judgments/92698
+82382|2003-12-03|SN|III CZP 93/03|Uchwała|89|https://www.saos.org.pl/judgments/82382
+96190|2011-11-04|SN|I CSK 34/11|Wyrok|78|https://www.saos.org.pl/judgments/96190
+325434|2018-02-06|SO|XIII Ga 1164/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/325434
+299712|2017-09-01|SO|XIII Ga 182/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299712

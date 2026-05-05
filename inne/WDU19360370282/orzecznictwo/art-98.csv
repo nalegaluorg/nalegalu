@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-402199|2019-04-18|SO|I Ca 98/19|Wyrok|https://www.saos.org.pl/judgments/402199
-173131|2015-01-27|SO|XV Ca 1109/14|Postanowienie|https://www.saos.org.pl/judgments/173131
-87467|2008-02-27|SN|III CZP 153/07|Uchwała|https://www.saos.org.pl/judgments/87467
+saos_id|date|court|case_number|type|score|saos_url
+87467|2008-02-27|SN|III CZP 153/07|Uchwała|89|https://www.saos.org.pl/judgments/87467
+402199|2019-04-18|SO|I Ca 98/19|Wyrok|40|https://www.saos.org.pl/judgments/402199
+173131|2015-01-27|SO|XV Ca 1109/14|Postanowienie|31|https://www.saos.org.pl/judgments/173131

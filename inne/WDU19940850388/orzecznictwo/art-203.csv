@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-485102|2023-01-17|SO|II Ca 1759/22|Postanowienie|https://www.saos.org.pl/judgments/485102
-142450|2013-12-04|SO|I C 497/13|Wyrok|https://www.saos.org.pl/judgments/142450
-486|2008-06-26|SO|V ACa 196/08|Wyrok|https://www.saos.org.pl/judgments/486
+saos_id|date|court|case_number|type|score|saos_url
+486|2008-06-26|SO|V ACa 196/08|Wyrok|56|https://www.saos.org.pl/judgments/486

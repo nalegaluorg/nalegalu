@@ -6,13 +6,13 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 19 grudnia 200
 
 ## art. 31 (1)
 
-- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok
+- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok ★
 
 ## art. 64 (1)
 
-- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok
+- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok ★
 
 ## art. 91 (1)
 
-- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok
+- 2005-01-19 | SN | [IV CK 262/04](https://www.saos.org.pl/judgments/162917) | Wyrok ★
 

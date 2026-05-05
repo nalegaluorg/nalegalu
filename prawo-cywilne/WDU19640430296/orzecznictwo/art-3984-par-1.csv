@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-245442|2015-04-29|SN|IV CSK 495/14|Wyrok|https://www.saos.org.pl/judgments/245442
-101033|2013-03-12|SN|I PK 225/12|Wyrok|https://www.saos.org.pl/judgments/101033
-100875|2013-02-27|SN|III CSK 22/13|Postanowienie|https://www.saos.org.pl/judgments/100875
-165329|2010-05-21|SN|I UZ 27/10|Postanowienie|https://www.saos.org.pl/judgments/165329
-92134|2010-04-28|SN|II PK 326/09|Postanowienie|https://www.saos.org.pl/judgments/92134
-164057|2006-02-24|SN|II CSK 136/05|Wyrok|https://www.saos.org.pl/judgments/164057
+saos_id|date|court|case_number|type|score|saos_url
+245442|2015-04-29|SN|IV CSK 495/14|Wyrok|78|https://www.saos.org.pl/judgments/245442
+101033|2013-03-12|SN|I PK 225/12|Wyrok|78|https://www.saos.org.pl/judgments/101033
+164057|2006-02-24|SN|II CSK 136/05|Wyrok|78|https://www.saos.org.pl/judgments/164057
+100875|2013-02-27|SN|III CSK 22/13|Postanowienie|69|https://www.saos.org.pl/judgments/100875
+165329|2010-05-21|SN|I UZ 27/10|Postanowienie|69|https://www.saos.org.pl/judgments/165329
+92134|2010-04-28|SN|II PK 326/09|Postanowienie|69|https://www.saos.org.pl/judgments/92134

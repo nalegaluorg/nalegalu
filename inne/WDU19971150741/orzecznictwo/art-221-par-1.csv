@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-263776|2016-11-24|SO|I ACa 745/16|Wyrok|https://www.saos.org.pl/judgments/263776
-295920|2014-11-07|SO|I ACa 1112/14|Wyrok|https://www.saos.org.pl/judgments/295920
+saos_id|date|court|case_number|type|score|saos_url
+263776|2016-11-24|SO|I ACa 745/16|Wyrok|56|https://www.saos.org.pl/judgments/263776
+295920|2014-11-07|SO|I ACa 1112/14|Wyrok|56|https://www.saos.org.pl/judgments/295920

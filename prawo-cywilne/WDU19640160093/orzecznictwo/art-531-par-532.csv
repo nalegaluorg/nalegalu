@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-494466|2022-09-21|SO|I ACa 683/21|Wyrok|https://www.saos.org.pl/judgments/494466
-363549|2018-10-12|SO|I C 26/17|Wyrok|https://www.saos.org.pl/judgments/363549
-199907|2016-01-22|SO|I C 326/15|Wyrok|https://www.saos.org.pl/judgments/199907
-28959|2013-09-10|SO|XV C 279/13|Wyrok|https://www.saos.org.pl/judgments/28959
+saos_id|date|court|case_number|type|score|saos_url
+494466|2022-09-21|SO|I ACa 683/21|Wyrok|56|https://www.saos.org.pl/judgments/494466

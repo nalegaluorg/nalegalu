@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525927|2024-05-29|SO|VI GC 1212/23|Wyrok|https://www.saos.org.pl/judgments/525927
-470662|2018-08-31|SO|I ACa 100/18|Wyrok|https://www.saos.org.pl/judgments/470662
+saos_id|date|court|case_number|type|score|saos_url
+470662|2018-08-31|SO|I ACa 100/18|Wyrok|56|https://www.saos.org.pl/judgments/470662

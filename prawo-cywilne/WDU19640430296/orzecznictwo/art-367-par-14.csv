@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243929|2015-11-25|SN|II CSK 683/14|Wyrok|https://www.saos.org.pl/judgments/243929
+saos_id|date|court|case_number|type|score|saos_url
+243929|2015-11-25|SN|II CSK 683/14|Wyrok|78|https://www.saos.org.pl/judgments/243929

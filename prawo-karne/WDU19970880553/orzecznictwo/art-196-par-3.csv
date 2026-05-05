@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-507709|2023-10-05|SO|IV K 17/23|Uzasadnienie|https://www.saos.org.pl/judgments/507709
-67348|2014-10-29|SO|XVII Ka 801/14|Wyrok|https://www.saos.org.pl/judgments/67348
-71611|2014-10-21|SO|VII Ka 756/14|Wyrok|https://www.saos.org.pl/judgments/71611
-144271|2013-12-11|SO|II AKa 93/13|Wyrok|https://www.saos.org.pl/judgments/144271
-139914|2013-06-12|SO|II AKa 167/13|Wyrok|https://www.saos.org.pl/judgments/139914
-141833|2013-02-11|SO|II AKa 268/12|Wyrok|https://www.saos.org.pl/judgments/141833
+saos_id|date|court|case_number|type|score|saos_url
+144271|2013-12-11|SO|II AKa 93/13|Wyrok|56|https://www.saos.org.pl/judgments/144271
+139914|2013-06-12|SO|II AKa 167/13|Wyrok|56|https://www.saos.org.pl/judgments/139914
+141833|2013-02-11|SO|II AKa 268/12|Wyrok|56|https://www.saos.org.pl/judgments/141833
+67348|2014-10-29|SO|XVII Ka 801/14|Wyrok|40|https://www.saos.org.pl/judgments/67348
+507709|2023-10-05|SO|IV K 17/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/507709

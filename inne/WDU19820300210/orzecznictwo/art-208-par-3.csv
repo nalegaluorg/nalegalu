@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-409668|2020-02-11|SO|I C 116/19|Wyrok|https://www.saos.org.pl/judgments/409668
-127105|2014-12-22|SO|I ACa 1631/14|Wyrok|https://www.saos.org.pl/judgments/127105
-125558|2014-12-12|SO|II Ca 1149/14|Wyrok|https://www.saos.org.pl/judgments/125558
-35498|2013-06-11|SO|I ACa 1451/12|Wyrok|https://www.saos.org.pl/judgments/35498
-136783|2013-01-30|SO|I C 1665/12|Wyrok|https://www.saos.org.pl/judgments/136783
+saos_id|date|court|case_number|type|score|saos_url
+127105|2014-12-22|SO|I ACa 1631/14|Wyrok|56|https://www.saos.org.pl/judgments/127105
+35498|2013-06-11|SO|I ACa 1451/12|Wyrok|56|https://www.saos.org.pl/judgments/35498
+136783|2013-01-30|SO|I C 1665/12|Wyrok|40|https://www.saos.org.pl/judgments/136783

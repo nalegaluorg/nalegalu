@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-535360|2025-09-17|SO|VII U 1164/23|Wyrok|https://www.saos.org.pl/judgments/535360
-538404|2025-02-26|SO|XXVI GC 1089/22|Wyrok|https://www.saos.org.pl/judgments/538404
-540045|2024-12-16|SO|V AGa 384/22|Wyrok|https://www.saos.org.pl/judgments/540045
-523418|2024-11-27|SO|XXVII Ca 1409/23|Wyrok|https://www.saos.org.pl/judgments/523418
-541811|2024-06-26|SO|I ACa 241/22|Wyrok|https://www.saos.org.pl/judgments/541811
-509785|2023-12-15|SO|V ACa 410/22|Wyrok|https://www.saos.org.pl/judgments/509785
-512316|2023-06-22|SO|VII Ua 83/22|Wyrok|https://www.saos.org.pl/judgments/512316
-492716|2023-03-28|SO|VII Ua 91/22|Wyrok|https://www.saos.org.pl/judgments/492716
-481648|2022-11-16|SO|III AUa 617/21|Wyrok|https://www.saos.org.pl/judgments/481648
-482832|2022-04-06|SO|I ACa 861/21|Wyrok|https://www.saos.org.pl/judgments/482832
-458484|2022-01-26|SO|XXV C 805/19|Wyrok|https://www.saos.org.pl/judgments/458484
-487621|2021-09-07|SO|I C 483/18|Wyrok|https://www.saos.org.pl/judgments/487621
-442564|2021-07-05|SO|I C 250/18|Zarządzenie|https://www.saos.org.pl/judgments/442564
-484034|2021-03-11|SO|I ACa 306/20|Wyrok|https://www.saos.org.pl/judgments/484034
-436968|2021-02-18|SO|III AUa 452/20|Wyrok|https://www.saos.org.pl/judgments/436968
-439317|2021-01-28|SO|VIII Ua 30/19|Wyrok|https://www.saos.org.pl/judgments/439317
+saos_id|date|court|case_number|type|score|saos_url
+540045|2024-12-16|SO|V AGa 384/22|Wyrok|56|https://www.saos.org.pl/judgments/540045
+541811|2024-06-26|SO|I ACa 241/22|Wyrok|56|https://www.saos.org.pl/judgments/541811
+509785|2023-12-15|SO|V ACa 410/22|Wyrok|56|https://www.saos.org.pl/judgments/509785
+481648|2022-11-16|SO|III AUa 617/21|Wyrok|56|https://www.saos.org.pl/judgments/481648
+482832|2022-04-06|SO|I ACa 861/21|Wyrok|56|https://www.saos.org.pl/judgments/482832
+484034|2021-03-11|SO|I ACa 306/20|Wyrok|56|https://www.saos.org.pl/judgments/484034
+436968|2021-02-18|SO|III AUa 452/20|Wyrok|56|https://www.saos.org.pl/judgments/436968
+535360|2025-09-17|SO|VII U 1164/23|Wyrok|40|https://www.saos.org.pl/judgments/535360
+512316|2023-06-22|SO|VII Ua 83/22|Wyrok|40|https://www.saos.org.pl/judgments/512316
+492716|2023-03-28|SO|VII Ua 91/22|Wyrok|40|https://www.saos.org.pl/judgments/492716

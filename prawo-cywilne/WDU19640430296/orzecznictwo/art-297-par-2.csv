@@ -1,19 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-334711|2018-04-05|SO|VIII Gz 151/18|Postanowienie|https://www.saos.org.pl/judgments/334711
-334709|2018-04-05|SO|VIII Gz 132/18|Postanowienie|https://www.saos.org.pl/judgments/334709
-334707|2018-04-05|SO|VIII Gz 110/18|Postanowienie|https://www.saos.org.pl/judgments/334707
-334708|2018-04-04|SO|VIII Gz 124/18|Postanowienie|https://www.saos.org.pl/judgments/334708
-220998|2016-03-30|SO|V Ua 46/15|Wyrok|https://www.saos.org.pl/judgments/220998
-172548|2015-04-30|SO|I ACz 292/15|Postanowienie|https://www.saos.org.pl/judgments/172548
-125300|2014-11-28|SO|II Cz 660/14|Postanowienie|https://www.saos.org.pl/judgments/125300
-59933|2014-07-21|SO|IV Pz 25/14|Postanowienie|https://www.saos.org.pl/judgments/59933
-67402|2014-06-30|SO|II Cz 100/14|Postanowienie|https://www.saos.org.pl/judgments/67402
-27877|2013-11-28|SO|VIII Gz 147/13|Postanowienie|https://www.saos.org.pl/judgments/27877
-274105|2013-11-15|SO|II Cz 1529/13|Postanowienie|https://www.saos.org.pl/judgments/274105
-141715|2013-10-24|SO|I Ca 263/13|Postanowienie|https://www.saos.org.pl/judgments/141715
-31785|2013-07-15|SO|V Pz 84/13|Postanowienie|https://www.saos.org.pl/judgments/31785
-138325|2013-05-08|SO|I ACz 730/13|Postanowienie|https://www.saos.org.pl/judgments/138325
-10261|2013-02-27|SO|III APa 1/13|Wyrok|https://www.saos.org.pl/judgments/10261
-1901|2012-04-19|SO|III AUz 91/12|Postanowienie|https://www.saos.org.pl/judgments/1901
-1893|2012-03-09|SO|III AUz 67/12|Postanowienie|https://www.saos.org.pl/judgments/1893
-1900|2012-01-25|SO|III AUz 8/12|Postanowienie|https://www.saos.org.pl/judgments/1900
+saos_id|date|court|case_number|type|score|saos_url
+10261|2013-02-27|SO|III APa 1/13|Wyrok|56|https://www.saos.org.pl/judgments/10261
+172548|2015-04-30|SO|I ACz 292/15|Postanowienie|47|https://www.saos.org.pl/judgments/172548
+138325|2013-05-08|SO|I ACz 730/13|Postanowienie|47|https://www.saos.org.pl/judgments/138325
+1901|2012-04-19|SO|III AUz 91/12|Postanowienie|47|https://www.saos.org.pl/judgments/1901
+1893|2012-03-09|SO|III AUz 67/12|Postanowienie|47|https://www.saos.org.pl/judgments/1893
+1900|2012-01-25|SO|III AUz 8/12|Postanowienie|47|https://www.saos.org.pl/judgments/1900

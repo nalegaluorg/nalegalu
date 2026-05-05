@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-190393|2015-12-08|SO|VI Ka 946/15|Wyrok|https://www.saos.org.pl/judgments/190393
-186423|2015-10-13|SO|IV Ka 630/15|Wyrok|https://www.saos.org.pl/judgments/186423
-147827|2014-07-17|SO|II AKz 247/14|Postanowienie|https://www.saos.org.pl/judgments/147827
-48565|2014-02-26|SO|IV Ka 52/14|Wyrok|https://www.saos.org.pl/judgments/48565
+saos_id|date|court|case_number|type|score|saos_url
+147827|2014-07-17|SO|II AKz 247/14|Postanowienie|47|https://www.saos.org.pl/judgments/147827
+48565|2014-02-26|SO|IV Ka 52/14|Wyrok|40|https://www.saos.org.pl/judgments/48565

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-485533|2023-02-06|SO|VII U 435/19|Wyrok|https://www.saos.org.pl/judgments/485533
-423534|2020-09-30|SO|VIII Ga 607/19|Uzasadnienie|https://www.saos.org.pl/judgments/423534
-261169|2016-10-06|SO|VI P 629/13|Wyrok|https://www.saos.org.pl/judgments/261169
+saos_id|date|court|case_number|type|score|saos_url
+485533|2023-02-06|SO|VII U 435/19|Wyrok|40|https://www.saos.org.pl/judgments/485533
+261169|2016-10-06|SO|VI P 629/13|Wyrok|40|https://www.saos.org.pl/judgments/261169

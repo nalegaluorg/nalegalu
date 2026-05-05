@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-411256|2018-03-29|SO|II AKa 200/17|Uzasadnienie|https://www.saos.org.pl/judgments/411256
-81657|2002-10-18|SN|V CKN 1830/00|Postanowienie|https://www.saos.org.pl/judgments/81657
+saos_id|date|court|case_number|type|score|saos_url
+81657|2002-10-18|SN|V CKN 1830/00|Postanowienie|69|https://www.saos.org.pl/judgments/81657
+411256|2018-03-29|SO|II AKa 200/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/411256

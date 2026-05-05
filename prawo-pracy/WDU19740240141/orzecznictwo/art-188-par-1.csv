@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-511363|2024-01-15|SO|VI P 221/20|Wyrok|https://www.saos.org.pl/judgments/511363
-412472|2020-05-28|SO|III Pa 5/20|Wyrok|https://www.saos.org.pl/judgments/412472
-392222|2019-08-21|SO|X P 343/18|Wyrok|https://www.saos.org.pl/judgments/392222
+saos_id|date|court|case_number|type|score|saos_url
+511363|2024-01-15|SO|VI P 221/20|Wyrok|40|https://www.saos.org.pl/judgments/511363
+412472|2020-05-28|SO|III Pa 5/20|Wyrok|40|https://www.saos.org.pl/judgments/412472

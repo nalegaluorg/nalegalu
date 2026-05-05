@@ -1,19 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-446229|2021-07-06|SO|VI Ka 224/21|Wyrok|https://www.saos.org.pl/judgments/446229
-442022|2021-01-04|SO|II AKa 217/19|Wyrok|https://www.saos.org.pl/judgments/442022
-495964|2017-12-21|SO|I C 146/15|Wyrok|https://www.saos.org.pl/judgments/495964
-324583|2017-12-14|SO|XXV C 375/17|Wyrok|https://www.saos.org.pl/judgments/324583
-304306|2017-08-02|SO|I ACa 1780/16|Wyrok|https://www.saos.org.pl/judgments/304306
-273493|2017-01-31|SO|I ACa 241/16|Wyrok|https://www.saos.org.pl/judgments/273493
-218485|2016-04-15|SO|II Kp 80/16|Postanowienie|https://www.saos.org.pl/judgments/218485
-237155|2016-03-17|SO|I Ns 722/16|Postanowienie|https://www.saos.org.pl/judgments/237155
-215965|2016-03-11|SO|I C 1165/14|Wyrok|https://www.saos.org.pl/judgments/215965
-200259|2015-12-29|SO|VIII GC 206/13|Wyrok|https://www.saos.org.pl/judgments/200259
-189346|2014-04-03|SO|XV GC 2499/11|Uzasadnienie|https://www.saos.org.pl/judgments/189346
-42148|2014-03-21|SO|II Ka 372/13|Wyrok|https://www.saos.org.pl/judgments/42148
-33561|2013-12-06|SO|IV Ka 573/13|Wyrok|https://www.saos.org.pl/judgments/33561
-74588|2013-09-11|SO|II Ka 186/13|Wyrok|https://www.saos.org.pl/judgments/74588
-26659|2010-11-10|SO|I ACa 873/10|Wyrok|https://www.saos.org.pl/judgments/26659
-164849|2007-10-03|SN|IV CSK 159/07|Wyrok|https://www.saos.org.pl/judgments/164849
-82728|2004-06-15|SN|II KK 38/03|Wyrok|https://www.saos.org.pl/judgments/82728
-205806|1998-10-06|TK|K 36/97|Wyrok|https://www.saos.org.pl/judgments/205806
+saos_id|date|court|case_number|type|score|saos_url
+205806|1998-10-06|TK|K 36/97|Wyrok|98|https://www.saos.org.pl/judgments/205806
+164849|2007-10-03|SN|IV CSK 159/07|Wyrok|78|https://www.saos.org.pl/judgments/164849
+82728|2004-06-15|SN|II KK 38/03|Wyrok|78|https://www.saos.org.pl/judgments/82728
+442022|2021-01-04|SO|II AKa 217/19|Wyrok|56|https://www.saos.org.pl/judgments/442022
+304306|2017-08-02|SO|I ACa 1780/16|Wyrok|56|https://www.saos.org.pl/judgments/304306
+273493|2017-01-31|SO|I ACa 241/16|Wyrok|56|https://www.saos.org.pl/judgments/273493
+26659|2010-11-10|SO|I ACa 873/10|Wyrok|56|https://www.saos.org.pl/judgments/26659

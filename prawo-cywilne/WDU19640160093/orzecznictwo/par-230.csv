@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-28754|2013-11-08|SO|I ACa 636/13|Wyrok|https://www.saos.org.pl/judgments/28754
+saos_id|date|court|case_number|type|score|saos_url
+28754|2013-11-08|SO|I ACa 636/13|Wyrok|56|https://www.saos.org.pl/judgments/28754

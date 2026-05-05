@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243770|2015-11-04|SN|I UK 207/14|Wyrok|https://www.saos.org.pl/judgments/243770
+saos_id|date|court|case_number|type|score|saos_url
+243770|2015-11-04|SN|I UK 207/14|Wyrok|78|https://www.saos.org.pl/judgments/243770

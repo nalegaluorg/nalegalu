@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-8697|2012-08-22|SO|I ACa 718/12|Wyrok|https://www.saos.org.pl/judgments/8697
+saos_id|date|court|case_number|type|score|saos_url
+8697|2012-08-22|SO|I ACa 718/12|Wyrok|56|https://www.saos.org.pl/judgments/8697

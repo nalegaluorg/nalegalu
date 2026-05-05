@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-381397|2018-10-29|SO|III APz 5/18|Postanowienie|https://www.saos.org.pl/judgments/381397
-181603|2015-09-25|SO|I ACz 890/15|Postanowienie|https://www.saos.org.pl/judgments/181603
-181553|2015-09-25|SO|I ACz 1067/15|Postanowienie|https://www.saos.org.pl/judgments/181553
+saos_id|date|court|case_number|type|score|saos_url
+381397|2018-10-29|SO|III APz 5/18|Postanowienie|47|https://www.saos.org.pl/judgments/381397
+181603|2015-09-25|SO|I ACz 890/15|Postanowienie|47|https://www.saos.org.pl/judgments/181603
+181553|2015-09-25|SO|I ACz 1067/15|Postanowienie|47|https://www.saos.org.pl/judgments/181553

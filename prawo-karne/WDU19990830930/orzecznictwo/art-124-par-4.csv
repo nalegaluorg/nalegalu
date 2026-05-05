@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-206881|2015-07-22|TK|Ts 97/14|Postanowienie|https://www.saos.org.pl/judgments/206881
+saos_id|date|court|case_number|type|score|saos_url
+206881|2015-07-22|TK|Ts 97/14|Postanowienie|80|https://www.saos.org.pl/judgments/206881

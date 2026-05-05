@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-135924|2012-05-31|SO|II AKa 123/12|Wyrok|https://www.saos.org.pl/judgments/135924
+saos_id|date|court|case_number|type|score|saos_url
+135924|2012-05-31|SO|II AKa 123/12|Wyrok|56|https://www.saos.org.pl/judgments/135924

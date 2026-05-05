@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-375384|2019-02-25|SO|II K 555/16|Wyrok|https://www.saos.org.pl/judgments/375384
-204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|https://www.saos.org.pl/judgments/204484
-128149|2014-12-30|SO|II AKa 401/14|Wyrok|https://www.saos.org.pl/judgments/128149
-24034|2013-10-08|SO|IV Ka 455/13|Wyrok|https://www.saos.org.pl/judgments/24034
-246880|2011-04-20|SO|II AKa 104/11|Wyrok|https://www.saos.org.pl/judgments/246880
+saos_id|date|court|case_number|type|score|saos_url
+128149|2014-12-30|SO|II AKa 401/14|Wyrok|56|https://www.saos.org.pl/judgments/128149
+246880|2011-04-20|SO|II AKa 104/11|Wyrok|56|https://www.saos.org.pl/judgments/246880
+204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|47|https://www.saos.org.pl/judgments/204484
+375384|2019-02-25|SO|II K 555/16|Wyrok|40|https://www.saos.org.pl/judgments/375384

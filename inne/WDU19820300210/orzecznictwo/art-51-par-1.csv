@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-373004|2019-02-19|SO|VI Ka 632/18|Wyrok|https://www.saos.org.pl/judgments/373004
-372707|2018-11-29|SO|XI W 1660/18|Postanowienie|https://www.saos.org.pl/judgments/372707
-306554|2017-09-05|SO|VI Ka 509/17|Wyrok|https://www.saos.org.pl/judgments/306554
-171249|2015-06-22|SO|IV Ka 572/15|Wyrok|https://www.saos.org.pl/judgments/171249
+saos_id|date|court|case_number|type|score|saos_url
+306554|2017-09-05|SO|VI Ka 509/17|Wyrok|40|https://www.saos.org.pl/judgments/306554
+171249|2015-06-22|SO|IV Ka 572/15|Wyrok|40|https://www.saos.org.pl/judgments/171249

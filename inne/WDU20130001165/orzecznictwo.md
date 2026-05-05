@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2013 r. o zmianie ustawy o p
 
 ## art. 1 (1)
 
-- 2013-11-07 | TK | [K 3/12](https://www.saos.org.pl/judgments/111570) | Postanowienie
+- 2013-11-07 | TK | [K 3/12](https://www.saos.org.pl/judgments/111570) | Postanowienie ★
 
 ## art. 33 (1)
 

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-335243|2018-03-27|SO|V Ca 943/17|Wyrok|https://www.saos.org.pl/judgments/335243
-11658|2013-04-11|SO|V ACa 17/13|Wyrok|https://www.saos.org.pl/judgments/11658
+saos_id|date|court|case_number|type|score|saos_url
+11658|2013-04-11|SO|V ACa 17/13|Wyrok|56|https://www.saos.org.pl/judgments/11658
+335243|2018-03-27|SO|V Ca 943/17|Wyrok|40|https://www.saos.org.pl/judgments/335243

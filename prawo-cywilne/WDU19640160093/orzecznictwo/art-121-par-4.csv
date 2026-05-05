@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-536436|2024-06-24|SO|III Ca 1453/23|Uzasadnienie|https://www.saos.org.pl/judgments/536436
-251375|2016-09-09|SO|III Ca 774/16|Uzasadnienie|https://www.saos.org.pl/judgments/251375
-142917|2013-11-07|SO|II Ca 1247/12|Postanowienie|https://www.saos.org.pl/judgments/142917
-140586|2013-08-21|SO|I Ca 293/13|Postanowienie|https://www.saos.org.pl/judgments/140586
-139775|2013-07-24|SO|I Ca 265/13|Postanowienie|https://www.saos.org.pl/judgments/139775
-139350|2013-06-19|SO|I Ca 205/13|Postanowienie|https://www.saos.org.pl/judgments/139350
-17828|2013-06-18|SO|II Ca 375/13|Postanowienie|https://www.saos.org.pl/judgments/17828
-17826|2013-05-29|SO|II Ca 195/13|Postanowienie|https://www.saos.org.pl/judgments/17826
-8111|2013-02-22|SO|II Ca 1410/12|Postanowienie|https://www.saos.org.pl/judgments/8111
+saos_id|date|court|case_number|type|score|saos_url
+142917|2013-11-07|SO|II Ca 1247/12|Postanowienie|31|https://www.saos.org.pl/judgments/142917
+536436|2024-06-24|SO|III Ca 1453/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/536436
+251375|2016-09-09|SO|III Ca 774/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/251375

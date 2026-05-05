@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-99671|2012-11-23|SN|I CSK 292/12|Wyrok|https://www.saos.org.pl/judgments/99671
-96599|2011-12-13|SN|III CZP 48/11|Uchwała|https://www.saos.org.pl/judgments/96599
-110306|2011-12-07|TK|P 15/11|Postanowienie|https://www.saos.org.pl/judgments/110306
-93953|2011-01-21|SN|III CZP 116/10|Uchwała|https://www.saos.org.pl/judgments/93953
-206255|2010-11-04|TK|K 19/06|Wyrok|https://www.saos.org.pl/judgments/206255
-207154|2008-03-04|TK|S 2/08|Postanowienie|https://www.saos.org.pl/judgments/207154
-108073|2007-12-04|TK|K 26/05|Wyrok|https://www.saos.org.pl/judgments/108073
-86263|2007-07-06|SN|III CZP 61/07|Uchwała|https://www.saos.org.pl/judgments/86263
-86043|2007-06-06|SN|III CZP 63/07|Uchwała|https://www.saos.org.pl/judgments/86043
-85182|2007-02-09|SN|III CZP 157/06|Uchwała|https://www.saos.org.pl/judgments/85182
-107632|2006-09-11|TK|P 14/06|Wyrok|https://www.saos.org.pl/judgments/107632
-205947|1999-06-02|TK|K 34/98|Wyrok|https://www.saos.org.pl/judgments/205947
+saos_id|date|court|case_number|type|score|saos_url
+206255|2010-11-04|TK|K 19/06|Wyrok|98|https://www.saos.org.pl/judgments/206255
+108073|2007-12-04|TK|K 26/05|Wyrok|98|https://www.saos.org.pl/judgments/108073
+107632|2006-09-11|TK|P 14/06|Wyrok|98|https://www.saos.org.pl/judgments/107632
+205947|1999-06-02|TK|K 34/98|Wyrok|98|https://www.saos.org.pl/judgments/205947
+96599|2011-12-13|SN|III CZP 48/11|Uchwała|96|https://www.saos.org.pl/judgments/96599
+93953|2011-01-21|SN|III CZP 116/10|Uchwała|89|https://www.saos.org.pl/judgments/93953
+86263|2007-07-06|SN|III CZP 61/07|Uchwała|89|https://www.saos.org.pl/judgments/86263
+86043|2007-06-06|SN|III CZP 63/07|Uchwała|89|https://www.saos.org.pl/judgments/86043
+85182|2007-02-09|SN|III CZP 157/06|Uchwała|89|https://www.saos.org.pl/judgments/85182
+110306|2011-12-07|TK|P 15/11|Postanowienie|80|https://www.saos.org.pl/judgments/110306
+207154|2008-03-04|TK|S 2/08|Postanowienie|80|https://www.saos.org.pl/judgments/207154
+99671|2012-11-23|SN|I CSK 292/12|Wyrok|78|https://www.saos.org.pl/judgments/99671

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-458039|2022-02-10|SO|III Ka 606/21|Uzasadnienie|https://www.saos.org.pl/judgments/458039
-438506|2020-10-27|SO|II K 694/18|Wyrok|https://www.saos.org.pl/judgments/438506
-438538|2020-08-13|SO|II Ns 24/20|Postanowienie|https://www.saos.org.pl/judgments/438538
-225897|2016-05-12|SO|VII Ua 58/16|Uzasadnienie|https://www.saos.org.pl/judgments/225897
+saos_id|date|court|case_number|type|score|saos_url
+225897|2016-05-12|SO|VII Ua 58/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/225897

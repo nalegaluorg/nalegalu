@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-104497|2014-02-19|SN|II UZ 74/13|Postanowienie|https://www.saos.org.pl/judgments/104497
-90021|2009-04-09|SN|II UZ 7/09|Postanowienie|https://www.saos.org.pl/judgments/90021
+saos_id|date|court|case_number|type|score|saos_url
+104497|2014-02-19|SN|II UZ 74/13|Postanowienie|69|https://www.saos.org.pl/judgments/104497
+90021|2009-04-09|SN|II UZ 7/09|Postanowienie|69|https://www.saos.org.pl/judgments/90021

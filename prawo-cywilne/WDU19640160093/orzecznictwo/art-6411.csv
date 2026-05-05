@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-341494|2018-01-24|SO|XXV C 242/16|Wyrok|https://www.saos.org.pl/judgments/341494
-84357|2006-05-30|SN|IV CSK 61/06|Wyrok|https://www.saos.org.pl/judgments/84357
+saos_id|date|court|case_number|type|score|saos_url
+84357|2006-05-30|SN|IV CSK 61/06|Wyrok|78|https://www.saos.org.pl/judgments/84357

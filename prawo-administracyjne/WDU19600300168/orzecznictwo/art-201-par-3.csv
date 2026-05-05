@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205480|1991-04-24|TK|S 4/91|Postanowienie|https://www.saos.org.pl/judgments/205480
+saos_id|date|court|case_number|type|score|saos_url
+205480|1991-04-24|TK|S 4/91|Postanowienie|80|https://www.saos.org.pl/judgments/205480

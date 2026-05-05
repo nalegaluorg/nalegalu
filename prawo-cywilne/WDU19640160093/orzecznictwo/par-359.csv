@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-381488|2018-03-15|SO|I C 15/15|Wyrok|https://www.saos.org.pl/judgments/381488
-346342|2017-05-11|SO|I C 138/17|Wyrok|https://www.saos.org.pl/judgments/346342
-308338|2016-06-30|SO|I C 202/16|Wyrok|https://www.saos.org.pl/judgments/308338
+saos_id|date|court|case_number|type|score|saos_url
+381488|2018-03-15|SO|I C 15/15|Wyrok|40|https://www.saos.org.pl/judgments/381488
+346342|2017-05-11|SO|I C 138/17|Wyrok|40|https://www.saos.org.pl/judgments/346342
+308338|2016-06-30|SO|I C 202/16|Wyrok|40|https://www.saos.org.pl/judgments/308338

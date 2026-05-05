@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-511199|2024-10-09|SO|VI Ka 536/24|Wyrok|https://www.saos.org.pl/judgments/511199
-509268|2023-12-20|SO|IX Ka 1343/23|Wyrok|https://www.saos.org.pl/judgments/509268
-321362|2017-12-20|SO|IV Ka 626/17|Uzasadnienie|https://www.saos.org.pl/judgments/321362
-279490|2017-03-01|SO|V W 2861/16|Wyrok|https://www.saos.org.pl/judgments/279490
-272303|2016-11-21|SO|IV Ka 964/16|Wyrok|https://www.saos.org.pl/judgments/272303
-131342|2015-01-13|SO|IX Ka 1244/14|Wyrok|https://www.saos.org.pl/judgments/131342
-49517|2014-06-05|SO|IV Ka 336/14|Wyrok|https://www.saos.org.pl/judgments/49517
-45316|2014-04-23|SO|V Ka 165/14|Wyrok|https://www.saos.org.pl/judgments/45316
-76847|1995-05-26|SN|I PRN 18/95|Wyrok|https://www.saos.org.pl/judgments/76847
+saos_id|date|court|case_number|type|score|saos_url
+76847|1995-05-26|SN|I PRN 18/95|Wyrok|78|https://www.saos.org.pl/judgments/76847
+272303|2016-11-21|SO|IV Ka 964/16|Wyrok|40|https://www.saos.org.pl/judgments/272303
+45316|2014-04-23|SO|V Ka 165/14|Wyrok|40|https://www.saos.org.pl/judgments/45316

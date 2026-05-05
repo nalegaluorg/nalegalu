@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501628|2022-10-06|SO|II Ca 123/22|Postanowienie|https://www.saos.org.pl/judgments/501628
-296991|2017-02-09|SO|II AKa 294/16|Wyrok|https://www.saos.org.pl/judgments/296991
-294131|2014-05-20|SO|II Ca 959/13|Wyrok|https://www.saos.org.pl/judgments/294131
+saos_id|date|court|case_number|type|score|saos_url
+296991|2017-02-09|SO|II AKa 294/16|Wyrok|56|https://www.saos.org.pl/judgments/296991

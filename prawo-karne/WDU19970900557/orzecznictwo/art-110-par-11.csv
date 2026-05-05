@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-389853|2018-04-23|SO|I C 431/17|Wyrok|https://www.saos.org.pl/judgments/389853
-196069|2015-12-10|SO|II C 252/13|Wyrok|https://www.saos.org.pl/judgments/196069
+saos_id|date|court|case_number|type|score|saos_url
+389853|2018-04-23|SO|I C 431/17|Wyrok|40|https://www.saos.org.pl/judgments/389853
+196069|2015-12-10|SO|II C 252/13|Wyrok|40|https://www.saos.org.pl/judgments/196069

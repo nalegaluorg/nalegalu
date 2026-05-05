@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-83163|2005-01-18|SN|WK 22/04|Postanowienie|https://www.saos.org.pl/judgments/83163
-82724|2004-06-08|SN|WK 12/04|Postanowienie|https://www.saos.org.pl/judgments/82724
-79071|1999-06-01|SN|WZP 2/99|Postanowienie|https://www.saos.org.pl/judgments/79071
+saos_id|date|court|case_number|type|score|saos_url
+83163|2005-01-18|SN|WK 22/04|Postanowienie|76|https://www.saos.org.pl/judgments/83163
+82724|2004-06-08|SN|WK 12/04|Postanowienie|69|https://www.saos.org.pl/judgments/82724
+79071|1999-06-01|SN|WZP 2/99|Postanowienie|69|https://www.saos.org.pl/judgments/79071

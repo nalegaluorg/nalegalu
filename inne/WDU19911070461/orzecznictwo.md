@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 16 października 1991 r. o zmianie ustaw
 
 ## art. 90 (1)
 
-- 2008-05-15 | SN | [I CSK 526/07](https://www.saos.org.pl/judgments/88067) | Wyrok
+- 2008-05-15 | SN | [I CSK 526/07](https://www.saos.org.pl/judgments/88067) | Wyrok ★
 

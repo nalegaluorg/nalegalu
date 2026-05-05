@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-474983|2022-06-07|SO|III AUa 762/20|Wyrok|https://www.saos.org.pl/judgments/474983
-483507|2021-02-17|SO|III AUa 1004/19|Uzasadnienie|https://www.saos.org.pl/judgments/483507
-470379|2020-10-21|SO|III AUa 309/19|Uzasadnienie|https://www.saos.org.pl/judgments/470379
-465746|2020-08-13|SO|III AUa 308/19|Uzasadnienie|https://www.saos.org.pl/judgments/465746
-418646|2020-06-19|SO|VIII U 2285/19|Wyrok|https://www.saos.org.pl/judgments/418646
-473560|2020-01-29|SO|VI U 2614/19|Uzasadnienie|https://www.saos.org.pl/judgments/473560
-358016|2018-05-21|SO|III AUa 1628/17|Postanowienie|https://www.saos.org.pl/judgments/358016
+saos_id|date|court|case_number|type|score|saos_url
+474983|2022-06-07|SO|III AUa 762/20|Wyrok|56|https://www.saos.org.pl/judgments/474983
+358016|2018-05-21|SO|III AUa 1628/17|Postanowienie|47|https://www.saos.org.pl/judgments/358016
+483507|2021-02-17|SO|III AUa 1004/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/483507
+470379|2020-10-21|SO|III AUa 309/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/470379
+465746|2020-08-13|SO|III AUa 308/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/465746

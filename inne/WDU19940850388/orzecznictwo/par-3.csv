@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-416288|2018-06-21|SO|I ACa 846/17|Wyrok|https://www.saos.org.pl/judgments/416288
-219221|2016-02-01|SO|II Ca 1126/15|Wyrok|https://www.saos.org.pl/judgments/219221
-2728|2012-11-08|SO|V ACa 497/12|Wyrok|https://www.saos.org.pl/judgments/2728
+saos_id|date|court|case_number|type|score|saos_url
+416288|2018-06-21|SO|I ACa 846/17|Wyrok|56|https://www.saos.org.pl/judgments/416288
+2728|2012-11-08|SO|V ACa 497/12|Wyrok|56|https://www.saos.org.pl/judgments/2728

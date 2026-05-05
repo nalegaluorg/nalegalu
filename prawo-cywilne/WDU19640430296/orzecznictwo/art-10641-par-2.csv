@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-307605|2017-08-02|SO|XXIII Gz 800/17|Postanowienie|https://www.saos.org.pl/judgments/307605
-236241|2016-07-26|SO|II K 421/15|Wyrok|https://www.saos.org.pl/judgments/236241
-239434|2016-05-23|SO|III Ca 200/16|Uzasadnienie|https://www.saos.org.pl/judgments/239434
+saos_id|date|court|case_number|type|score|saos_url
+239434|2016-05-23|SO|III Ca 200/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/239434

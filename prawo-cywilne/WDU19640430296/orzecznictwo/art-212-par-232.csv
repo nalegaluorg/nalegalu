@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-141224|2013-10-24|SO|I Ca 283/13|Wyrok|https://www.saos.org.pl/judgments/141224
+saos_id|date|court|case_number|type|score|saos_url
+141224|2013-10-24|SO|I Ca 283/13|Wyrok|40|https://www.saos.org.pl/judgments/141224

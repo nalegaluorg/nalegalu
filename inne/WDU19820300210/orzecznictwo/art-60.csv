@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-379266|2019-03-04|SO|IV Ka 83/19|Wyrok|https://www.saos.org.pl/judgments/379266
-267906|2017-01-24|SO|VI Ka 1250/16|Wyrok|https://www.saos.org.pl/judgments/267906
-303659|2016-12-16|SO|I C 517/16|Postanowienie|https://www.saos.org.pl/judgments/303659
+saos_id|date|court|case_number|type|score|saos_url
+379266|2019-03-04|SO|IV Ka 83/19|Wyrok|40|https://www.saos.org.pl/judgments/379266
+267906|2017-01-24|SO|VI Ka 1250/16|Wyrok|40|https://www.saos.org.pl/judgments/267906
+303659|2016-12-16|SO|I C 517/16|Postanowienie|31|https://www.saos.org.pl/judgments/303659

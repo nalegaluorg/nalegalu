@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-26517|2011-12-14|SO|I ACa 1229/11|Wyrok|https://www.saos.org.pl/judgments/26517
+saos_id|date|court|case_number|type|score|saos_url
+26517|2011-12-14|SO|I ACa 1229/11|Wyrok|56|https://www.saos.org.pl/judgments/26517

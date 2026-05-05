@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-446850|2021-07-08|SO|I AGa 410/18|Wyrok|https://www.saos.org.pl/judgments/446850
+saos_id|date|court|case_number|type|score|saos_url
+446850|2021-07-08|SO|I AGa 410/18|Wyrok|56|https://www.saos.org.pl/judgments/446850

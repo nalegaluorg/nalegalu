@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-399503|2018-02-19|SO|II AKa 151/17|Uzasadnienie|https://www.saos.org.pl/judgments/399503
-283034|2016-10-18|SO|VI Ka 412/16|Wyrok|https://www.saos.org.pl/judgments/283034
+saos_id|date|court|case_number|type|score|saos_url
+399503|2018-02-19|SO|II AKa 151/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/399503

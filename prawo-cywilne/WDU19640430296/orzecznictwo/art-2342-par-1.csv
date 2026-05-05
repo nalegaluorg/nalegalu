@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-496109|2023-12-01|SO|I C 156/23|Uzasadnienie|https://www.saos.org.pl/judgments/496109
-491933|2023-07-28|SO|VIII U 1005/20|Uzasadnienie|https://www.saos.org.pl/judgments/491933
+saos_id|date|court|case_number|type|score|saos_url
+491933|2023-07-28|SO|VIII U 1005/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/491933

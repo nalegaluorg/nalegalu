@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-529343|2025-06-17|SO|I Ns 102/25|Postanowienie|https://www.saos.org.pl/judgments/529343
-245637|2015-06-09|SN|WK 5/15|Postanowienie|https://www.saos.org.pl/judgments/245637
-102609|2013-08-06|SN|WK 12/13|Wyrok|https://www.saos.org.pl/judgments/102609
-99804|2012-11-19|SN|WK 6/12|Wyrok|https://www.saos.org.pl/judgments/99804
-83233|2005-02-15|SN|WK 1/05|Postanowienie|https://www.saos.org.pl/judgments/83233
-82325|2003-11-13|SN|WZP 3/03|Uchwała|https://www.saos.org.pl/judgments/82325
-79941|2000-09-21|SN|WZP 2/00|Wyrok|https://www.saos.org.pl/judgments/79941
-78939|1999-03-26|SN|WKN 6/99|Wyrok|https://www.saos.org.pl/judgments/78939
+saos_id|date|court|case_number|type|score|saos_url
+82325|2003-11-13|SN|WZP 3/03|Uchwała|96|https://www.saos.org.pl/judgments/82325
+102609|2013-08-06|SN|WK 12/13|Wyrok|78|https://www.saos.org.pl/judgments/102609
+99804|2012-11-19|SN|WK 6/12|Wyrok|78|https://www.saos.org.pl/judgments/99804
+79941|2000-09-21|SN|WZP 2/00|Wyrok|78|https://www.saos.org.pl/judgments/79941
+78939|1999-03-26|SN|WKN 6/99|Wyrok|78|https://www.saos.org.pl/judgments/78939
+245637|2015-06-09|SN|WK 5/15|Postanowienie|69|https://www.saos.org.pl/judgments/245637
+83233|2005-02-15|SN|WK 1/05|Postanowienie|69|https://www.saos.org.pl/judgments/83233

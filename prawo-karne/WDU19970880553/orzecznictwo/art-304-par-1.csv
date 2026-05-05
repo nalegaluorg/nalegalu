@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-518018|2024-09-27|SO|I C 1935/21|Wyrok|https://www.saos.org.pl/judgments/518018
-500934|2023-09-22|SO|II AKa 317/20|Wyrok|https://www.saos.org.pl/judgments/500934
-495583|2022-11-14|SO|I C 1219/22|Wyrok|https://www.saos.org.pl/judgments/495583
-523158|2022-06-08|SO|II AKa 341/21|Wyrok|https://www.saos.org.pl/judgments/523158
-482903|2021-12-16|SO|II AKa 490/21|Wyrok|https://www.saos.org.pl/judgments/482903
-452295|2020-12-10|SO|I ACa 1022/19|Wyrok|https://www.saos.org.pl/judgments/452295
-364043|2018-10-25|SO|I ACa 400/18|Wyrok|https://www.saos.org.pl/judgments/364043
-243922|2015-11-26|SN|WO 17/15|Wyrok|https://www.saos.org.pl/judgments/243922
-243720|2015-10-26|SN|WO 15/15|Wyrok|https://www.saos.org.pl/judgments/243720
-243719|2015-10-26|SN|WO 14/15|Wyrok|https://www.saos.org.pl/judgments/243719
-243330|2015-09-17|SN|WO 11/15|Wyrok|https://www.saos.org.pl/judgments/243330
-72577|2013-01-24|SO|X Kz 115/13|Postanowienie|https://www.saos.org.pl/judgments/72577
-164947|2007-11-30|SN|IV CSK 310/07|Wyrok|https://www.saos.org.pl/judgments/164947
+saos_id|date|court|case_number|type|score|saos_url
+243922|2015-11-26|SN|WO 17/15|Wyrok|78|https://www.saos.org.pl/judgments/243922
+243720|2015-10-26|SN|WO 15/15|Wyrok|78|https://www.saos.org.pl/judgments/243720
+243719|2015-10-26|SN|WO 14/15|Wyrok|78|https://www.saos.org.pl/judgments/243719
+243330|2015-09-17|SN|WO 11/15|Wyrok|78|https://www.saos.org.pl/judgments/243330
+164947|2007-11-30|SN|IV CSK 310/07|Wyrok|78|https://www.saos.org.pl/judgments/164947
+500934|2023-09-22|SO|II AKa 317/20|Wyrok|56|https://www.saos.org.pl/judgments/500934
+523158|2022-06-08|SO|II AKa 341/21|Wyrok|56|https://www.saos.org.pl/judgments/523158
+482903|2021-12-16|SO|II AKa 490/21|Wyrok|56|https://www.saos.org.pl/judgments/482903
+452295|2020-12-10|SO|I ACa 1022/19|Wyrok|56|https://www.saos.org.pl/judgments/452295
+364043|2018-10-25|SO|I ACa 400/18|Wyrok|56|https://www.saos.org.pl/judgments/364043

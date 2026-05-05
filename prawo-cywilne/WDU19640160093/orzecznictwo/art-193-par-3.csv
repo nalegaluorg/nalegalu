@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-459522|2021-10-13|SO|III Ca 1388/20|Uzasadnienie|https://www.saos.org.pl/judgments/459522
-405170|2019-01-02|SO|I ACa 236/18|Wyrok|https://www.saos.org.pl/judgments/405170
-74411|2014-10-22|SO|I ACa 974/14|Wyrok|https://www.saos.org.pl/judgments/74411
+saos_id|date|court|case_number|type|score|saos_url
+405170|2019-01-02|SO|I ACa 236/18|Wyrok|56|https://www.saos.org.pl/judgments/405170
+74411|2014-10-22|SO|I ACa 974/14|Wyrok|56|https://www.saos.org.pl/judgments/74411
+459522|2021-10-13|SO|III Ca 1388/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459522

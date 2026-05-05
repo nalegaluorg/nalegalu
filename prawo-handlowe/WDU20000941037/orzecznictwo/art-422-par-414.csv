@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245564|2015-06-03|SN|V CSK 592/14|Wyrok|https://www.saos.org.pl/judgments/245564
+saos_id|date|court|case_number|type|score|saos_url
+245564|2015-06-03|SN|V CSK 592/14|Wyrok|78|https://www.saos.org.pl/judgments/245564

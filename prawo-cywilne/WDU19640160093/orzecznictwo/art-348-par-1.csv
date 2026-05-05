@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-522805|2024-02-28|SO|I C 588/22|Wyrok|https://www.saos.org.pl/judgments/522805
-323356|2017-06-28|SO|I ACa 607/17|Wyrok|https://www.saos.org.pl/judgments/323356
-1212|2012-08-21|SO|VI ACa 440/12|Wyrok|https://www.saos.org.pl/judgments/1212
+saos_id|date|court|case_number|type|score|saos_url
+323356|2017-06-28|SO|I ACa 607/17|Wyrok|56|https://www.saos.org.pl/judgments/323356
+1212|2012-08-21|SO|VI ACa 440/12|Wyrok|56|https://www.saos.org.pl/judgments/1212

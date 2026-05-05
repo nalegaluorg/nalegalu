@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-304347|2017-07-27|SO|I ACa 325/16|Wyrok|https://www.saos.org.pl/judgments/304347
-67743|2014-09-30|SO|I ACa 538/14|Wyrok|https://www.saos.org.pl/judgments/67743
-25677|2013-10-24|SO|I ACa 285/13|Wyrok|https://www.saos.org.pl/judgments/25677
-4911|2012-09-21|SO|I ACa 934/12|Wyrok|https://www.saos.org.pl/judgments/4911
+saos_id|date|court|case_number|type|score|saos_url
+304347|2017-07-27|SO|I ACa 325/16|Wyrok|56|https://www.saos.org.pl/judgments/304347
+67743|2014-09-30|SO|I ACa 538/14|Wyrok|56|https://www.saos.org.pl/judgments/67743
+25677|2013-10-24|SO|I ACa 285/13|Wyrok|56|https://www.saos.org.pl/judgments/25677
+4911|2012-09-21|SO|I ACa 934/12|Wyrok|56|https://www.saos.org.pl/judgments/4911

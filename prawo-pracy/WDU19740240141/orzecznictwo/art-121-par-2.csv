@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-542187|2026-01-19|SO|IV P 391/25|Wyrok|https://www.saos.org.pl/judgments/542187
-518486|2024-12-12|SO|IV Po 19/24|Postanowienie|https://www.saos.org.pl/judgments/518486
-509449|2024-06-20|SO|IX P 454/24|Zarządzenie|https://www.saos.org.pl/judgments/509449
-510307|2023-07-27|SO|V P 1/23|Wyrok|https://www.saos.org.pl/judgments/510307
-350554|2018-07-16|SO|X P 258/17|Wyrok|https://www.saos.org.pl/judgments/350554
-348180|2018-07-10|SO|X P 207/17|Wyrok|https://www.saos.org.pl/judgments/348180
-322868|2018-01-02|SO|IV P 156/17|Wyrok|https://www.saos.org.pl/judgments/322868
-470512|2017-12-29|SO|III APa 12/17|Wyrok|https://www.saos.org.pl/judgments/470512
-285872|2017-03-06|SO|VI P 796/15|Wyrok|https://www.saos.org.pl/judgments/285872
-90485|2009-06-23|SN|III PK 15/09|Wyrok|https://www.saos.org.pl/judgments/90485
+saos_id|date|court|case_number|type|score|saos_url
+90485|2009-06-23|SN|III PK 15/09|Wyrok|78|https://www.saos.org.pl/judgments/90485
+470512|2017-12-29|SO|III APa 12/17|Wyrok|56|https://www.saos.org.pl/judgments/470512
+518486|2024-12-12|SO|IV Po 19/24|Postanowienie|31|https://www.saos.org.pl/judgments/518486

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-183329|2015-08-06|SO|II Ca 479/15|Wyrok|https://www.saos.org.pl/judgments/183329
-82187|2003-09-18|SN|I CK 66/02|Wyrok|https://www.saos.org.pl/judgments/82187
+saos_id|date|court|case_number|type|score|saos_url
+82187|2003-09-18|SN|I CK 66/02|Wyrok|78|https://www.saos.org.pl/judgments/82187

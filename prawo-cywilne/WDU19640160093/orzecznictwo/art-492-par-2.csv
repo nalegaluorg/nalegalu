@@ -1,8 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-465042|2020-02-25|SO|I ACa 747/19|Wyrok|https://www.saos.org.pl/judgments/465042
-321947|2017-12-18|SO|IX Ca 857/17|Wyrok|https://www.saos.org.pl/judgments/321947
-276137|2015-03-31|SO|II C 167/13|Wyrok|https://www.saos.org.pl/judgments/276137
-65436|2014-09-18|SO|VIII Ga 80/14|Uzasadnienie|https://www.saos.org.pl/judgments/65436
-449859|2014-03-05|SO|I ACa 1286/13|Wyrok|https://www.saos.org.pl/judgments/449859
-14247|2013-05-23|SO|I ACa 336/13|Wyrok|https://www.saos.org.pl/judgments/14247
-10655|2013-02-07|SO|I ACa 31/13|Wyrok|https://www.saos.org.pl/judgments/10655
+saos_id|date|court|case_number|type|score|saos_url
+465042|2020-02-25|SO|I ACa 747/19|Wyrok|56|https://www.saos.org.pl/judgments/465042
+449859|2014-03-05|SO|I ACa 1286/13|Wyrok|56|https://www.saos.org.pl/judgments/449859
+14247|2013-05-23|SO|I ACa 336/13|Wyrok|56|https://www.saos.org.pl/judgments/14247
+10655|2013-02-07|SO|I ACa 31/13|Wyrok|56|https://www.saos.org.pl/judgments/10655

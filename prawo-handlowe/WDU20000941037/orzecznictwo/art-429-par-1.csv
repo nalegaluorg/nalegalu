@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-470196|2022-07-15|SO|XIII GC 343/18|Uzasadnienie|https://www.saos.org.pl/judgments/470196
-358457|2018-02-08|SO|XXVI GC 553/17|Wyrok|https://www.saos.org.pl/judgments/358457
-364139|2016-09-30|SO|III C 2079/13|Wyrok|https://www.saos.org.pl/judgments/364139
-237918|2016-05-05|SO|I ACa 1201/15|Wyrok|https://www.saos.org.pl/judgments/237918
-228679|2016-01-26|SO|XII Ga 437/15|Postanowienie|https://www.saos.org.pl/judgments/228679
-420714|2015-10-16|SO|I C 2345/13|Wyrok|https://www.saos.org.pl/judgments/420714
-173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|https://www.saos.org.pl/judgments/173455
-155821|2015-04-27|SO|II Cz 188/15|Postanowienie|https://www.saos.org.pl/judgments/155821
-153389|2015-04-22|SO|I C 2547/14|Wyrok|https://www.saos.org.pl/judgments/153389
-129956|2015-02-05|SO|II C 463/14|Wyrok|https://www.saos.org.pl/judgments/129956
-21426|2013-04-17|SO|I ACa 38/13|Wyrok|https://www.saos.org.pl/judgments/21426
+saos_id|date|court|case_number|type|score|saos_url
+237918|2016-05-05|SO|I ACa 1201/15|Wyrok|56|https://www.saos.org.pl/judgments/237918
+173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|56|https://www.saos.org.pl/judgments/173455
+21426|2013-04-17|SO|I ACa 38/13|Wyrok|56|https://www.saos.org.pl/judgments/21426
+129956|2015-02-05|SO|II C 463/14|Wyrok|40|https://www.saos.org.pl/judgments/129956
+228679|2016-01-26|SO|XII Ga 437/15|Postanowienie|31|https://www.saos.org.pl/judgments/228679

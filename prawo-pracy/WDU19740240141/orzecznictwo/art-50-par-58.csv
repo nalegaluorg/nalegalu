@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-198723|2015-12-15|SO|IV Pa 84/15|Wyrok|https://www.saos.org.pl/judgments/198723
-125821|2014-04-01|SO|VI P 296/13|Wyrok|https://www.saos.org.pl/judgments/125821
+saos_id|date|court|case_number|type|score|saos_url
+125821|2014-04-01|SO|VI P 296/13|Wyrok|40|https://www.saos.org.pl/judgments/125821

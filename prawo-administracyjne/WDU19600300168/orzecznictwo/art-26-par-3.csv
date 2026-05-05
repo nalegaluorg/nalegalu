@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-411606|2020-03-30|SO|XII C 1641/16|Wyrok|https://www.saos.org.pl/judgments/411606
-436899|2019-11-13|SO|I ACa 1058/18|Wyrok|https://www.saos.org.pl/judgments/436899
-291373|2017-06-26|SO|XII C 1928/15|Wyrok|https://www.saos.org.pl/judgments/291373
-224255|2016-03-24|SO|XII C 573/13|Wyrok|https://www.saos.org.pl/judgments/224255
-490568|2015-04-30|SO|I ACa 1397/14|Wyrok|https://www.saos.org.pl/judgments/490568
-66489|2014-10-22|SO|XII C 1830/13|Wyrok|https://www.saos.org.pl/judgments/66489
+saos_id|date|court|case_number|type|score|saos_url
+436899|2019-11-13|SO|I ACa 1058/18|Wyrok|56|https://www.saos.org.pl/judgments/436899
+490568|2015-04-30|SO|I ACa 1397/14|Wyrok|56|https://www.saos.org.pl/judgments/490568
+411606|2020-03-30|SO|XII C 1641/16|Wyrok|40|https://www.saos.org.pl/judgments/411606
+291373|2017-06-26|SO|XII C 1928/15|Wyrok|40|https://www.saos.org.pl/judgments/291373
+224255|2016-03-24|SO|XII C 573/13|Wyrok|40|https://www.saos.org.pl/judgments/224255
+66489|2014-10-22|SO|XII C 1830/13|Wyrok|40|https://www.saos.org.pl/judgments/66489

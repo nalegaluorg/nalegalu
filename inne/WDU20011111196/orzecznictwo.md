@@ -6,16 +6,16 @@ Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji h
 
 ## art. 2 (2)
 
-- 2008-04-11 | SN | [I UK 261/07](https://www.saos.org.pl/judgments/87787) | Wyrok
-- 2007-06-13 | SN | [II UK 224/06](https://www.saos.org.pl/judgments/86087) | Wyrok
+- 2008-04-11 | SN | [I UK 261/07](https://www.saos.org.pl/judgments/87787) | Wyrok ★
+- 2007-06-13 | SN | [II UK 224/06](https://www.saos.org.pl/judgments/86087) | Wyrok ★
 
 ## art. 18 (1)
 
-- 2006-10-05 | SN | [I PK 101/06](https://www.saos.org.pl/judgments/84604) | Wyrok
+- 2006-10-05 | SN | [I PK 101/06](https://www.saos.org.pl/judgments/84604) | Wyrok ★
 
 ## art. 19 (1)
 
-- 2007-06-13 | SN | [II UK 224/06](https://www.saos.org.pl/judgments/86087) | Wyrok
+- 2007-06-13 | SN | [II UK 224/06](https://www.saos.org.pl/judgments/86087) | Wyrok ★
 
 ## art. 28 (1)
 
@@ -27,5 +27,5 @@ Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji h
 
 ## art. 33 (1)
 
-- 2013-12-13 | SN | [III CZP 81/13](https://www.saos.org.pl/judgments/103853) | Uchwała
+- 2013-12-13 | SN | [III CZP 81/13](https://www.saos.org.pl/judgments/103853) | Uchwała ★
 

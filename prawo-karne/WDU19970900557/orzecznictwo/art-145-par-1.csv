@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-448461|2021-09-28|SO|III Kow 1174/21|Postanowienie|https://www.saos.org.pl/judgments/448461
-409409|2019-03-05|SO|III C 544/18|Wyrok|https://www.saos.org.pl/judgments/409409
-111952|2013-05-08|TK|Ts 210/12|Postanowienie|https://www.saos.org.pl/judgments/111952
-111469|2012-07-24|TK|Ts 310/10|Postanowienie|https://www.saos.org.pl/judgments/111469
+saos_id|date|court|case_number|type|score|saos_url
+111952|2013-05-08|TK|Ts 210/12|Postanowienie|80|https://www.saos.org.pl/judgments/111952
+111469|2012-07-24|TK|Ts 310/10|Postanowienie|80|https://www.saos.org.pl/judgments/111469

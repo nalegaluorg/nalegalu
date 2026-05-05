@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78403|1998-06-26|SN|I PKN 195/98|Wyrok|https://www.saos.org.pl/judgments/78403
+saos_id|date|court|case_number|type|score|saos_url
+78403|1998-06-26|SN|I PKN 195/98|Wyrok|78|https://www.saos.org.pl/judgments/78403

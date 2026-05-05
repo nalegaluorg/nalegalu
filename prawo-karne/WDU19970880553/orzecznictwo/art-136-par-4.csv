@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-517446|2023-03-03|SO|VIII K 1238/22|Postanowienie|https://www.saos.org.pl/judgments/517446
-177071|2015-08-21|SO|II K 67/15|Uzasadnienie|https://www.saos.org.pl/judgments/177071
-98406|2012-06-20|SN|I KZP 8/12|Uchwała|https://www.saos.org.pl/judgments/98406
+saos_id|date|court|case_number|type|score|saos_url
+98406|2012-06-20|SN|I KZP 8/12|Uchwała|96|https://www.saos.org.pl/judgments/98406
+177071|2015-08-21|SO|II K 67/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177071

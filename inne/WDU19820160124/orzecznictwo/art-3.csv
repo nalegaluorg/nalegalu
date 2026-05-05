@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-227328|2016-01-20|SO|V ACa 620/15|Wyrok|https://www.saos.org.pl/judgments/227328
-106745|2004-02-18|TK|P 21/02|Wyrok|https://www.saos.org.pl/judgments/106745
-106066|2002-05-20|TK|SK 28/01|Postanowienie|https://www.saos.org.pl/judgments/106066
-80602|2001-05-29|SN|I CKN 1217/98|Wyrok|https://www.saos.org.pl/judgments/80602
+saos_id|date|court|case_number|type|score|saos_url
+106745|2004-02-18|TK|P 21/02|Wyrok|98|https://www.saos.org.pl/judgments/106745
+106066|2002-05-20|TK|SK 28/01|Postanowienie|80|https://www.saos.org.pl/judgments/106066
+80602|2001-05-29|SN|I CKN 1217/98|Wyrok|78|https://www.saos.org.pl/judgments/80602
+227328|2016-01-20|SO|V ACa 620/15|Wyrok|56|https://www.saos.org.pl/judgments/227328

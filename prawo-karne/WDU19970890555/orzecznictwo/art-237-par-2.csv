@@ -1,25 +1,25 @@
-saos_id|date|court|case_number|type|saos_url
-538589|2025-04-10|SO|II AKa 44/25|Wyrok|https://www.saos.org.pl/judgments/538589
-515931|2024-10-31|SO|VI Ka 196/23|Wyrok|https://www.saos.org.pl/judgments/515931
-500412|2024-10-10|SO|II AKa 102/23|Uzasadnienie|https://www.saos.org.pl/judgments/500412
-364776|2018-01-31|SO|II AKa 157/17|Wyrok|https://www.saos.org.pl/judgments/364776
-244681|2016-02-25|SN|I KZP 18/15|Postanowienie|https://www.saos.org.pl/judgments/244681
-284409|2016-02-08|SO|II AKa 333/15|Wyrok|https://www.saos.org.pl/judgments/284409
-168755|2015-03-31|SN|I KZP 27/14|Postanowienie|https://www.saos.org.pl/judgments/168755
-127467|2014-11-07|SO|II AKa 203/14|Wyrok|https://www.saos.org.pl/judgments/127467
-71906|2014-11-05|SO|IV Ka 876/14|Wyrok|https://www.saos.org.pl/judgments/71906
-166867|2014-09-30|SN|I KZP 17/14|Postanowienie|https://www.saos.org.pl/judgments/166867
-60008|2014-08-29|SO|II AKa 153/14|Wyrok|https://www.saos.org.pl/judgments/60008
-145939|2014-01-30|SO|II AKa 129/13|Wyrok|https://www.saos.org.pl/judgments/145939
-147857|2013-11-20|SO|II AKa 185/13|Wyrok|https://www.saos.org.pl/judgments/147857
-102368|2013-07-03|SN|V KK 412/12|Wyrok|https://www.saos.org.pl/judgments/102368
-138763|2013-04-18|SO|II AKa 46/13|Wyrok|https://www.saos.org.pl/judgments/138763
-138286|2013-02-04|SO|II AKa 246/12|Wyrok|https://www.saos.org.pl/judgments/138286
-136935|2012-09-14|SO|II AKa 223/12|Wyrok|https://www.saos.org.pl/judgments/136935
-110279|2011-07-18|TK|K 25/09|Wyrok|https://www.saos.org.pl/judgments/110279
-94739|2011-04-13|SN|III KK 367/10|Postanowienie|https://www.saos.org.pl/judgments/94739
-94503|2011-03-23|SN|I KZP 32/10|Uchwała|https://www.saos.org.pl/judgments/94503
-93985|2011-01-19|SN|WZ 53/10|Postanowienie|https://www.saos.org.pl/judgments/93985
-76283|2010-03-25|SN|I KZP 2/10|Postanowienie|https://www.saos.org.pl/judgments/76283
-89321|2008-12-03|SN|V KK 195/08|Wyrok|https://www.saos.org.pl/judgments/89321
-84120|2006-02-23|SN|SNO 3/06|Uchwała|https://www.saos.org.pl/judgments/84120
+saos_id|date|court|case_number|type|score|saos_url
+110279|2011-07-18|TK|K 25/09|Wyrok|98|https://www.saos.org.pl/judgments/110279
+94503|2011-03-23|SN|I KZP 32/10|Uchwała|96|https://www.saos.org.pl/judgments/94503
+84120|2006-02-23|SN|SNO 3/06|Uchwała|89|https://www.saos.org.pl/judgments/84120
+102368|2013-07-03|SN|V KK 412/12|Wyrok|78|https://www.saos.org.pl/judgments/102368
+89321|2008-12-03|SN|V KK 195/08|Wyrok|78|https://www.saos.org.pl/judgments/89321
+244681|2016-02-25|SN|I KZP 18/15|Postanowienie|76|https://www.saos.org.pl/judgments/244681
+168755|2015-03-31|SN|I KZP 27/14|Postanowienie|69|https://www.saos.org.pl/judgments/168755
+166867|2014-09-30|SN|I KZP 17/14|Postanowienie|69|https://www.saos.org.pl/judgments/166867
+94739|2011-04-13|SN|III KK 367/10|Postanowienie|69|https://www.saos.org.pl/judgments/94739
+93985|2011-01-19|SN|WZ 53/10|Postanowienie|69|https://www.saos.org.pl/judgments/93985
+76283|2010-03-25|SN|I KZP 2/10|Postanowienie|69|https://www.saos.org.pl/judgments/76283
+538589|2025-04-10|SO|II AKa 44/25|Wyrok|56|https://www.saos.org.pl/judgments/538589
+364776|2018-01-31|SO|II AKa 157/17|Wyrok|56|https://www.saos.org.pl/judgments/364776
+284409|2016-02-08|SO|II AKa 333/15|Wyrok|56|https://www.saos.org.pl/judgments/284409
+127467|2014-11-07|SO|II AKa 203/14|Wyrok|56|https://www.saos.org.pl/judgments/127467
+60008|2014-08-29|SO|II AKa 153/14|Wyrok|56|https://www.saos.org.pl/judgments/60008
+145939|2014-01-30|SO|II AKa 129/13|Wyrok|56|https://www.saos.org.pl/judgments/145939
+147857|2013-11-20|SO|II AKa 185/13|Wyrok|56|https://www.saos.org.pl/judgments/147857
+138763|2013-04-18|SO|II AKa 46/13|Wyrok|56|https://www.saos.org.pl/judgments/138763
+138286|2013-02-04|SO|II AKa 246/12|Wyrok|56|https://www.saos.org.pl/judgments/138286
+136935|2012-09-14|SO|II AKa 223/12|Wyrok|56|https://www.saos.org.pl/judgments/136935
+500412|2024-10-10|SO|II AKa 102/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/500412
+515931|2024-10-31|SO|VI Ka 196/23|Wyrok|40|https://www.saos.org.pl/judgments/515931
+71906|2014-11-05|SO|IV Ka 876/14|Wyrok|40|https://www.saos.org.pl/judgments/71906

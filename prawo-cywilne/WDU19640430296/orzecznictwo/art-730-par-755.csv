@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-321189|2017-05-23|SO|I ACz 745/17|Postanowienie|https://www.saos.org.pl/judgments/321189
-226914|2016-05-25|SO|VIII Cz 372/16|Postanowienie|https://www.saos.org.pl/judgments/226914
+saos_id|date|court|case_number|type|score|saos_url
+321189|2017-05-23|SO|I ACz 745/17|Postanowienie|47|https://www.saos.org.pl/judgments/321189

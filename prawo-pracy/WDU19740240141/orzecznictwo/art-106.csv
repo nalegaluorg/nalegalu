@@ -1,14 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-537838|2025-03-10|SO|IV P 230/24|Wyrok|https://www.saos.org.pl/judgments/537838
-520619|2025-01-16|SO|VI Ka 1267/24|Wyrok|https://www.saos.org.pl/judgments/520619
-513056|2024-04-04|SO|VIII Pa 97/23|Uzasadnienie|https://www.saos.org.pl/judgments/513056
-492648|2023-05-30|SO|VI P 380/19|Wyrok|https://www.saos.org.pl/judgments/492648
-465695|2022-04-06|SO|XVII AmA 57/20|Wyrok|https://www.saos.org.pl/judgments/465695
-468072|2022-02-28|SO|XIII P 17/21|Wyrok|https://www.saos.org.pl/judgments/468072
-357240|2018-07-03|SO|VI Ka 1224/17|Wyrok|https://www.saos.org.pl/judgments/357240
-321470|2017-11-20|SO|VIII U 415/17|Zarządzenie|https://www.saos.org.pl/judgments/321470
-262924|2016-11-08|SO|V Pa 45/16|Wyrok|https://www.saos.org.pl/judgments/262924
-190855|2015-10-15|SO|IX Ka 1137/15|Wyrok|https://www.saos.org.pl/judgments/190855
-73598|2014-05-26|SO|I ACa 305/14|Wyrok|https://www.saos.org.pl/judgments/73598
-242718|2014-02-28|SO|XVII AmA 168/11|Wyrok|https://www.saos.org.pl/judgments/242718
-102470|2013-07-16|SN|III KK 183/13|Wyrok|https://www.saos.org.pl/judgments/102470
+saos_id|date|court|case_number|type|score|saos_url
+102470|2013-07-16|SN|III KK 183/13|Wyrok|78|https://www.saos.org.pl/judgments/102470
+73598|2014-05-26|SO|I ACa 305/14|Wyrok|56|https://www.saos.org.pl/judgments/73598
+520619|2025-01-16|SO|VI Ka 1267/24|Wyrok|40|https://www.saos.org.pl/judgments/520619
+492648|2023-05-30|SO|VI P 380/19|Wyrok|40|https://www.saos.org.pl/judgments/492648
+357240|2018-07-03|SO|VI Ka 1224/17|Wyrok|40|https://www.saos.org.pl/judgments/357240
+513056|2024-04-04|SO|VIII Pa 97/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513056
+321470|2017-11-20|SO|VIII U 415/17|Zarządzenie|27|https://www.saos.org.pl/judgments/321470

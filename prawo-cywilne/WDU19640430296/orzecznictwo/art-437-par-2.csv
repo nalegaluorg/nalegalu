@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-288298|2017-03-16|SO|I ACa 1021/16|Wyrok|https://www.saos.org.pl/judgments/288298
-256416|2016-10-12|SO|VIII GC 73/16|Wyrok|https://www.saos.org.pl/judgments/256416
-243826|2015-11-20|SN|SNO 71/15|Postanowienie|https://www.saos.org.pl/judgments/243826
+saos_id|date|court|case_number|type|score|saos_url
+243826|2015-11-20|SN|SNO 71/15|Postanowienie|69|https://www.saos.org.pl/judgments/243826
+288298|2017-03-16|SO|I ACa 1021/16|Wyrok|56|https://www.saos.org.pl/judgments/288298

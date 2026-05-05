@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-453878|2021-08-25|SO|XII C 551/19|Wyrok|https://www.saos.org.pl/judgments/453878
+saos_id|date|court|case_number|type|score|saos_url
+453878|2021-08-25|SO|XII C 551/19|Wyrok|40|https://www.saos.org.pl/judgments/453878

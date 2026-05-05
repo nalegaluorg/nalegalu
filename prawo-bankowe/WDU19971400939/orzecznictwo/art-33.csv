@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-520765|2024-12-05|SO|V ACa 3159/24|Wyrok|https://www.saos.org.pl/judgments/520765
-453482|2021-10-28|SO|I ACa 463/20|Wyrok|https://www.saos.org.pl/judgments/453482
-52569|2013-09-06|SO|XXIII Ga 810/13|Postanowienie|https://www.saos.org.pl/judgments/52569
+saos_id|date|court|case_number|type|score|saos_url
+520765|2024-12-05|SO|V ACa 3159/24|Wyrok|56|https://www.saos.org.pl/judgments/520765
+453482|2021-10-28|SO|I ACa 463/20|Wyrok|56|https://www.saos.org.pl/judgments/453482

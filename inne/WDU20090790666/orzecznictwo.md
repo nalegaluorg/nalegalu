@@ -2,15 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumulatorach*
 
-Łącznie: **11** orzeczeń
-
-## art. 4 (1)
-
-- 2021-02-12 | SO | [X C 2826/20](https://www.saos.org.pl/judgments/432832) | Uzasadnienie
-
-## art. 6 (1)
-
-- 2021-02-12 | SO | [X C 2826/20](https://www.saos.org.pl/judgments/432832) | Uzasadnienie
+Łącznie: **8** orzeczeń
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 8 (1)
 
@@ -52,7 +45,7 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumul
 
 ## art. 38 (1)
 
-- 2012-07-09 | TK | [P 8/10](https://www.saos.org.pl/judgments/110935) | Wyrok
+- 2012-07-09 | TK | [P 8/10](https://www.saos.org.pl/judgments/110935) | Wyrok ★
 
 ## art. 41 (1)
 
@@ -82,19 +75,16 @@ Orzeczenia powołujące: *Ustawa z dnia 24 kwietnia 2009 r. o bateriach i akumul
 
 - 2022-04-04 | SO | [VIII Pa 181/21](https://www.saos.org.pl/judgments/461875) | Uzasadnienie
 
-## art. 59 (2)
+## art. 59 (1)
 
-- 2021-02-12 | SO | [X C 2826/20](https://www.saos.org.pl/judgments/432832) | Uzasadnienie
 - 2018-10-18 | SO | [IV W 455/18](https://www.saos.org.pl/judgments/361695) | Wyrok
 
 ## art. 64 (1)
 
 - 2018-10-18 | SO | [IV W 455/18](https://www.saos.org.pl/judgments/361695) | Wyrok
 
-## (ogólnie) (4)
+## (ogólnie) (2)
 
 - 2016-04-12 | SO | [I ACa 1827/15](https://www.saos.org.pl/judgments/227036) | Wyrok
 - 2015-10-01 | SO | [I C 1636/14](https://www.saos.org.pl/judgments/460327) | Wyrok
-- 2014-07-04 | SO | [IV Ka 270/14](https://www.saos.org.pl/judgments/53496) | Wyrok
-- 2013-01-31 | SO | [X P 143/12](https://www.saos.org.pl/judgments/12585) | Wyrok
 

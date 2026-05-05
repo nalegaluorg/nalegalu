@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-166718|2014-09-17|SN|I CSK 678/13|Wyrok|https://www.saos.org.pl/judgments/166718
-102797|2013-09-06|SN|V CSK 417/12|Postanowienie|https://www.saos.org.pl/judgments/102797
-95141|2011-06-08|SN|I PK 212/10|Wyrok|https://www.saos.org.pl/judgments/95141
-94857|2011-05-04|SN|I PK 171/10|Wyrok|https://www.saos.org.pl/judgments/94857
-94855|2011-05-04|SN|I PK 138/10|Wyrok|https://www.saos.org.pl/judgments/94855
-93350|2010-11-04|SN|IV CSK 181/10|Postanowienie|https://www.saos.org.pl/judgments/93350
-91741|2010-01-28|SN|II UK 276/09|Postanowienie|https://www.saos.org.pl/judgments/91741
-164204|2006-04-11|SN|I CSK 185/05|Wyrok|https://www.saos.org.pl/judgments/164204
-84236|2006-04-06|SN|III PK 12/06|Wyrok|https://www.saos.org.pl/judgments/84236
+saos_id|date|court|case_number|type|score|saos_url
+166718|2014-09-17|SN|I CSK 678/13|Wyrok|78|https://www.saos.org.pl/judgments/166718
+95141|2011-06-08|SN|I PK 212/10|Wyrok|78|https://www.saos.org.pl/judgments/95141
+94857|2011-05-04|SN|I PK 171/10|Wyrok|78|https://www.saos.org.pl/judgments/94857
+94855|2011-05-04|SN|I PK 138/10|Wyrok|78|https://www.saos.org.pl/judgments/94855
+164204|2006-04-11|SN|I CSK 185/05|Wyrok|78|https://www.saos.org.pl/judgments/164204
+84236|2006-04-06|SN|III PK 12/06|Wyrok|78|https://www.saos.org.pl/judgments/84236
+102797|2013-09-06|SN|V CSK 417/12|Postanowienie|69|https://www.saos.org.pl/judgments/102797
+93350|2010-11-04|SN|IV CSK 181/10|Postanowienie|69|https://www.saos.org.pl/judgments/93350
+91741|2010-01-28|SN|II UK 276/09|Postanowienie|69|https://www.saos.org.pl/judgments/91741

@@ -1,15 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-525026|2024-11-29|SO|I C 773/23|Wyrok|https://www.saos.org.pl/judgments/525026
-487038|2023-02-27|SO|I C 481/22|Wyrok|https://www.saos.org.pl/judgments/487038
-448184|2021-07-15|SO|V Ca 945/20|Wyrok|https://www.saos.org.pl/judgments/448184
-348307|2018-02-09|SO|III Ca 1686/17|Uzasadnienie|https://www.saos.org.pl/judgments/348307
-322626|2017-11-28|SO|V Ca 610/17|Wyrok|https://www.saos.org.pl/judgments/322626
-323716|2017-11-09|SO|III Ca 1143/17|Uzasadnienie|https://www.saos.org.pl/judgments/323716
-304281|2017-06-07|SO|I ACa 1589/16|Wyrok|https://www.saos.org.pl/judgments/304281
-317288|2017-05-18|SO|I C 878/16|Wyrok|https://www.saos.org.pl/judgments/317288
-273850|2017-03-01|SO|I Ca 389/16|Wyrok|https://www.saos.org.pl/judgments/273850
-253158|2016-10-05|SO|VIII C 331/16|Wyrok|https://www.saos.org.pl/judgments/253158
-390438|2016-09-30|SO|V Ca 3987/15|Wyrok|https://www.saos.org.pl/judgments/390438
-390435|2016-04-13|SO|V Ca 2069/15|Wyrok|https://www.saos.org.pl/judgments/390435
-248211|2014-10-23|SO|II Ca 194/14|Wyrok|https://www.saos.org.pl/judgments/248211
-106794|2004-02-03|TK|SK 18/03|Postanowienie|https://www.saos.org.pl/judgments/106794
+saos_id|date|court|case_number|type|score|saos_url
+106794|2004-02-03|TK|SK 18/03|Postanowienie|80|https://www.saos.org.pl/judgments/106794
+304281|2017-06-07|SO|I ACa 1589/16|Wyrok|56|https://www.saos.org.pl/judgments/304281
+317288|2017-05-18|SO|I C 878/16|Wyrok|40|https://www.saos.org.pl/judgments/317288
+253158|2016-10-05|SO|VIII C 331/16|Wyrok|40|https://www.saos.org.pl/judgments/253158
+348307|2018-02-09|SO|III Ca 1686/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348307
+323716|2017-11-09|SO|III Ca 1143/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/323716

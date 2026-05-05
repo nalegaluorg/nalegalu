@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-33042|2013-10-01|SO|I ACa 387/13|Wyrok|https://www.saos.org.pl/judgments/33042
+saos_id|date|court|case_number|type|score|saos_url
+33042|2013-10-01|SO|I ACa 387/13|Wyrok|56|https://www.saos.org.pl/judgments/33042

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539846|2025-12-17|SO|II K 30/25|Postanowienie|https://www.saos.org.pl/judgments/539846
-500471|2023-08-28|SO|II AKa 132/23|Uzasadnienie|https://www.saos.org.pl/judgments/500471
-63770|2014-09-24|SO|IV Ka 668/14|Wyrok|https://www.saos.org.pl/judgments/63770
-98407|2012-06-20|SN|I KZP 9/12|Uchwała|https://www.saos.org.pl/judgments/98407
+saos_id|date|court|case_number|type|score|saos_url
+98407|2012-06-20|SN|I KZP 9/12|Uchwała|89|https://www.saos.org.pl/judgments/98407
+500471|2023-08-28|SO|II AKa 132/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/500471

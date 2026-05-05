@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-374056|2018-06-26|SO|I AGa 217/18|Wyrok|https://www.saos.org.pl/judgments/374056
+saos_id|date|court|case_number|type|score|saos_url
+374056|2018-06-26|SO|I AGa 217/18|Wyrok|56|https://www.saos.org.pl/judgments/374056

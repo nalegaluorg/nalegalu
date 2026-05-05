@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-472655|2022-04-19|SO|IV Ka 640/21|Uzasadnienie|https://www.saos.org.pl/judgments/472655
-381217|2016-03-18|SO|XIV K 286/14|Uzasadnienie|https://www.saos.org.pl/judgments/381217
-81044|2001-12-04|SN|II KKN 175/99|Postanowienie|https://www.saos.org.pl/judgments/81044
+saos_id|date|court|case_number|type|score|saos_url
+81044|2001-12-04|SN|II KKN 175/99|Postanowienie|69|https://www.saos.org.pl/judgments/81044

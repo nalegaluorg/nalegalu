@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-379086|2018-09-25|SO|IV C 596/14|Wyrok|https://www.saos.org.pl/judgments/379086
-285504|2017-04-14|SO|III Ca 188/17|Uzasadnienie|https://www.saos.org.pl/judgments/285504
-261169|2016-10-06|SO|VI P 629/13|Wyrok|https://www.saos.org.pl/judgments/261169
-176896|2015-06-25|SO|I ACa 453/15|Wyrok|https://www.saos.org.pl/judgments/176896
-12522|2013-04-18|SO|VI ACa 1395/12|Wyrok|https://www.saos.org.pl/judgments/12522
+saos_id|date|court|case_number|type|score|saos_url
+176896|2015-06-25|SO|I ACa 453/15|Wyrok|56|https://www.saos.org.pl/judgments/176896
+12522|2013-04-18|SO|VI ACa 1395/12|Wyrok|56|https://www.saos.org.pl/judgments/12522
+261169|2016-10-06|SO|VI P 629/13|Wyrok|40|https://www.saos.org.pl/judgments/261169
+285504|2017-04-14|SO|III Ca 188/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/285504

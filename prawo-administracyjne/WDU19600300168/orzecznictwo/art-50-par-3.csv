@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504788|2023-11-23|SO|III AUa 1578/21|Wyrok|https://www.saos.org.pl/judgments/504788
-71861|2014-10-17|SO|V K 1272/13|Wyrok|https://www.saos.org.pl/judgments/71861
+saos_id|date|court|case_number|type|score|saos_url
+504788|2023-11-23|SO|III AUa 1578/21|Wyrok|56|https://www.saos.org.pl/judgments/504788

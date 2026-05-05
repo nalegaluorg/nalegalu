@@ -1,24 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-540293|2025-12-29|SO|I Co 2371/25|Postanowienie|https://www.saos.org.pl/judgments/540293
-539835|2025-12-29|SO|I Co 2372/25|Postanowienie|https://www.saos.org.pl/judgments/539835
-539834|2025-09-05|SO|I Co 1258/25|Postanowienie|https://www.saos.org.pl/judgments/539834
-533107|2025-07-29|SO|I Co 1145/25|Postanowienie|https://www.saos.org.pl/judgments/533107
-524223|2025-03-19|SO|XII 1Co 1645/24|Postanowienie|https://www.saos.org.pl/judgments/524223
-520474|2025-01-22|SO|I Co 2683/24|Postanowienie|https://www.saos.org.pl/judgments/520474
-517138|2024-11-27|SO|I Co 2466/24|Uzasadnienie|https://www.saos.org.pl/judgments/517138
-539205|2024-04-05|SO|I 1 Co 1843/24|Postanowienie|https://www.saos.org.pl/judgments/539205
-502335|2023-10-04|SO|II Cz 24/22|Postanowienie|https://www.saos.org.pl/judgments/502335
-460439|2022-02-28|SO|II AKa 2/22|Uzasadnienie|https://www.saos.org.pl/judgments/460439
-423499|2020-07-14|SO|III Cz 1000/19|Postanowienie|https://www.saos.org.pl/judgments/423499
-395512|2019-10-31|SO|II Cz 807/19|Postanowienie|https://www.saos.org.pl/judgments/395512
-440215|2019-08-09|SO|I Co 943/19|Uzasadnienie|https://www.saos.org.pl/judgments/440215
-386393|2019-07-11|SO|II Cz 532/19|Postanowienie|https://www.saos.org.pl/judgments/386393
-383664|2019-06-14|SO|II Cz 410/19|Postanowienie|https://www.saos.org.pl/judgments/383664
-383663|2019-05-30|SO|II Cz 404/19|Postanowienie|https://www.saos.org.pl/judgments/383663
-381084|2019-04-18|SO|XII 1Co 419/19|Postanowienie|https://www.saos.org.pl/judgments/381084
-365604|2018-10-09|SO|III Cz 594/18|Postanowienie|https://www.saos.org.pl/judgments/365604
-356924|2018-09-28|SO|II Cz 617/18|Postanowienie|https://www.saos.org.pl/judgments/356924
-351839|2018-07-05|SO|III Cz 400/18|Postanowienie|https://www.saos.org.pl/judgments/351839
-332750|2018-02-12|SO|II Cz 811/17|Postanowienie|https://www.saos.org.pl/judgments/332750
-323539|2018-01-23|SO|II Cz 819/17|Postanowienie|https://www.saos.org.pl/judgments/323539
-336918|2018-01-17|SO|II Co 2923/17|Postanowienie|https://www.saos.org.pl/judgments/336918
+saos_id|date|court|case_number|type|score|saos_url
+460439|2022-02-28|SO|II AKa 2/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/460439
+502335|2023-10-04|SO|II Cz 24/22|Postanowienie|31|https://www.saos.org.pl/judgments/502335
+336918|2018-01-17|SO|II Co 2923/17|Postanowienie|31|https://www.saos.org.pl/judgments/336918
+517138|2024-11-27|SO|I Co 2466/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/517138

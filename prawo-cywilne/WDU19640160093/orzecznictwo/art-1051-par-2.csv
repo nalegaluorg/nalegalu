@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-483879|2022-12-15|SO|I Ns 1/22|Postanowienie|https://www.saos.org.pl/judgments/483879
-442244|2021-01-22|SO|II Ca 1150/20|Postanowienie|https://www.saos.org.pl/judgments/442244
-295624|2014-12-22|SO|II Cs 262/14|Postanowienie|https://www.saos.org.pl/judgments/295624
+saos_id|date|court|case_number|type|score|saos_url
+442244|2021-01-22|SO|II Ca 1150/20|Postanowienie|31|https://www.saos.org.pl/judgments/442244

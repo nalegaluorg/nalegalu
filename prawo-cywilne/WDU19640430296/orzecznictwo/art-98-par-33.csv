@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-158071|2015-04-17|SO|I ACa 13/15|Wyrok|https://www.saos.org.pl/judgments/158071
+saos_id|date|court|case_number|type|score|saos_url
+158071|2015-04-17|SO|I ACa 13/15|Wyrok|56|https://www.saos.org.pl/judgments/158071

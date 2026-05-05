@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-538122|2025-10-17|SO|VII U 461/24|Wyrok|https://www.saos.org.pl/judgments/538122
-513957|2024-04-12|SO|VIII U 581/23|Uzasadnienie|https://www.saos.org.pl/judgments/513957
-491967|2023-07-24|SO|VIII U 2297/22|Uzasadnienie|https://www.saos.org.pl/judgments/491967
-456193|2021-12-02|SO|VII U 277/20|Wyrok|https://www.saos.org.pl/judgments/456193
-43943|2014-01-29|SO|X P 826/13|Wyrok|https://www.saos.org.pl/judgments/43943
-26663|2013-11-07|SO|III AUa 906/13|Wyrok|https://www.saos.org.pl/judgments/26663
+saos_id|date|court|case_number|type|score|saos_url
+26663|2013-11-07|SO|III AUa 906/13|Wyrok|56|https://www.saos.org.pl/judgments/26663
+538122|2025-10-17|SO|VII U 461/24|Wyrok|40|https://www.saos.org.pl/judgments/538122
+456193|2021-12-02|SO|VII U 277/20|Wyrok|40|https://www.saos.org.pl/judgments/456193
+513957|2024-04-12|SO|VIII U 581/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513957
+491967|2023-07-24|SO|VIII U 2297/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/491967

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-246353|2016-08-11|SO|X P 298/15|Wyrok|https://www.saos.org.pl/judgments/246353
-72825|2014-10-23|SO|III APa 13/14|Wyrok|https://www.saos.org.pl/judgments/72825
-50059|2014-05-07|SO|III APa 35/13|Wyrok|https://www.saos.org.pl/judgments/50059
-31579|2013-12-05|SO|III APa 29/13|Wyrok|https://www.saos.org.pl/judgments/31579
-10676|2012-09-05|SO|III APa 9/12|Wyrok|https://www.saos.org.pl/judgments/10676
+saos_id|date|court|case_number|type|score|saos_url
+72825|2014-10-23|SO|III APa 13/14|Wyrok|56|https://www.saos.org.pl/judgments/72825
+50059|2014-05-07|SO|III APa 35/13|Wyrok|56|https://www.saos.org.pl/judgments/50059
+31579|2013-12-05|SO|III APa 29/13|Wyrok|56|https://www.saos.org.pl/judgments/31579
+10676|2012-09-05|SO|III APa 9/12|Wyrok|56|https://www.saos.org.pl/judgments/10676

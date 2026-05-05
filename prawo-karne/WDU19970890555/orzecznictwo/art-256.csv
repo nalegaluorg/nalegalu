@@ -1,15 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-516993|2022-12-30|SO|I ACa 112/22|Wyrok|https://www.saos.org.pl/judgments/516993
-477231|2022-09-26|SO|II AKa 262/22|Wyrok|https://www.saos.org.pl/judgments/477231
-493515|2022-06-30|SO|I ACa 1288/20|Wyrok|https://www.saos.org.pl/judgments/493515
-364648|2018-11-06|SO|XI W 3386/17|Wyrok|https://www.saos.org.pl/judgments/364648
-352322|2018-05-30|SO|II AKa 432/17|Wyrok|https://www.saos.org.pl/judgments/352322
-245182|2016-04-19|SN|SNO 5/16|Wyrok|https://www.saos.org.pl/judgments/245182
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-40078|2014-02-06|SO|I ACa 950/13|Wyrok|https://www.saos.org.pl/judgments/40078
-39117|2014-01-09|SO|I ACa 837/13|Wyrok|https://www.saos.org.pl/judgments/39117
-30773|2013-12-20|SO|VIII Ka 809/13|Wyrok|https://www.saos.org.pl/judgments/30773
-33622|2013-12-13|SO|V P 3/13|Wyrok|https://www.saos.org.pl/judgments/33622
-102125|2013-06-13|SN|V CSK 348/12|Wyrok|https://www.saos.org.pl/judgments/102125
-146705|2006-11-08|SO|II AKz 687/06|Postanowienie|https://www.saos.org.pl/judgments/146705
-77964|1997-12-04|SN|I PKN 418/97|Wyrok|https://www.saos.org.pl/judgments/77964
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+245182|2016-04-19|SN|SNO 5/16|Wyrok|78|https://www.saos.org.pl/judgments/245182
+102125|2013-06-13|SN|V CSK 348/12|Wyrok|78|https://www.saos.org.pl/judgments/102125
+77964|1997-12-04|SN|I PKN 418/97|Wyrok|78|https://www.saos.org.pl/judgments/77964
+516993|2022-12-30|SO|I ACa 112/22|Wyrok|56|https://www.saos.org.pl/judgments/516993
+477231|2022-09-26|SO|II AKa 262/22|Wyrok|56|https://www.saos.org.pl/judgments/477231
+493515|2022-06-30|SO|I ACa 1288/20|Wyrok|56|https://www.saos.org.pl/judgments/493515
+352322|2018-05-30|SO|II AKa 432/17|Wyrok|56|https://www.saos.org.pl/judgments/352322
+40078|2014-02-06|SO|I ACa 950/13|Wyrok|56|https://www.saos.org.pl/judgments/40078
+39117|2014-01-09|SO|I ACa 837/13|Wyrok|56|https://www.saos.org.pl/judgments/39117
+146705|2006-11-08|SO|II AKz 687/06|Postanowienie|47|https://www.saos.org.pl/judgments/146705
+33622|2013-12-13|SO|V P 3/13|Wyrok|40|https://www.saos.org.pl/judgments/33622

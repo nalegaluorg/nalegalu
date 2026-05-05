@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-244745|2016-03-04|SN|I CSK 750/15|Postanowienie|https://www.saos.org.pl/judgments/244745
-219127|2016-02-10|SO|I ACa 772/15|Wyrok|https://www.saos.org.pl/judgments/219127
-243580|2015-10-14|SN|V CSK 739/14|Wyrok|https://www.saos.org.pl/judgments/243580
-168723|2015-04-02|SN|I CSK 245/14|Wyrok|https://www.saos.org.pl/judgments/168723
-165789|2014-05-08|SN|V CSK 376/13|Wyrok|https://www.saos.org.pl/judgments/165789
-95707|2011-09-16|SN|I CSK 676/10|Postanowienie|https://www.saos.org.pl/judgments/95707
-92643|2010-07-15|SN|IV CSK 25/10|Wyrok|https://www.saos.org.pl/judgments/92643
-92640|2010-07-15|SN|IV CSK 138/10|Wyrok|https://www.saos.org.pl/judgments/92640
-91936|2010-02-24|SN|III CSK 144/09|Postanowienie|https://www.saos.org.pl/judgments/91936
-91935|2010-02-24|SN|III CSK 139/09|Wyrok|https://www.saos.org.pl/judgments/91935
+saos_id|date|court|case_number|type|score|saos_url
+243580|2015-10-14|SN|V CSK 739/14|Wyrok|78|https://www.saos.org.pl/judgments/243580
+168723|2015-04-02|SN|I CSK 245/14|Wyrok|78|https://www.saos.org.pl/judgments/168723
+165789|2014-05-08|SN|V CSK 376/13|Wyrok|78|https://www.saos.org.pl/judgments/165789
+92643|2010-07-15|SN|IV CSK 25/10|Wyrok|78|https://www.saos.org.pl/judgments/92643
+92640|2010-07-15|SN|IV CSK 138/10|Wyrok|78|https://www.saos.org.pl/judgments/92640
+91935|2010-02-24|SN|III CSK 139/09|Wyrok|78|https://www.saos.org.pl/judgments/91935
+244745|2016-03-04|SN|I CSK 750/15|Postanowienie|69|https://www.saos.org.pl/judgments/244745
+95707|2011-09-16|SN|I CSK 676/10|Postanowienie|69|https://www.saos.org.pl/judgments/95707
+91936|2010-02-24|SN|III CSK 144/09|Postanowienie|69|https://www.saos.org.pl/judgments/91936
+219127|2016-02-10|SO|I ACa 772/15|Wyrok|56|https://www.saos.org.pl/judgments/219127

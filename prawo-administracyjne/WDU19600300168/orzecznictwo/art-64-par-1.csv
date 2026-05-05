@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-522768|2024-12-16|SO|VIII GC 1114/21|Wyrok|https://www.saos.org.pl/judgments/522768
-482066|2022-10-26|SO|XVII AmE 62/21|Wyrok|https://www.saos.org.pl/judgments/482066
-477172|2022-04-05|SO|VII U 1761/21|Wyrok|https://www.saos.org.pl/judgments/477172
-369202|2018-08-23|SO|III AUa 306/18|Wyrok|https://www.saos.org.pl/judgments/369202
-354863|2018-06-25|KIO|KIO 918/18|Wyrok|https://www.saos.org.pl/judgments/354863
-278995|2017-01-17|SO|III AUa 1359/16|Wyrok|https://www.saos.org.pl/judgments/278995
-215570|2016-03-24|SO|VII U 103/16|Wyrok|https://www.saos.org.pl/judgments/215570
-79778|2000-06-08|SN|III ZP 11/00|Uchwała|https://www.saos.org.pl/judgments/79778
+saos_id|date|court|case_number|type|score|saos_url
+79778|2000-06-08|SN|III ZP 11/00|Uchwała|96|https://www.saos.org.pl/judgments/79778
+369202|2018-08-23|SO|III AUa 306/18|Wyrok|56|https://www.saos.org.pl/judgments/369202
+278995|2017-01-17|SO|III AUa 1359/16|Wyrok|56|https://www.saos.org.pl/judgments/278995
+354863|2018-06-25|KIO|KIO 918/18|Wyrok|44|https://www.saos.org.pl/judgments/354863
+477172|2022-04-05|SO|VII U 1761/21|Wyrok|40|https://www.saos.org.pl/judgments/477172

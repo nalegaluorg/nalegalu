@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-438394|2021-03-10|SO|II AKa 398/19|Wyrok|https://www.saos.org.pl/judgments/438394
-336718|2018-02-26|SO|II AKa 460/17|Wyrok|https://www.saos.org.pl/judgments/336718
-42342|2014-01-27|SO|XVI K 256/13|Postanowienie|https://www.saos.org.pl/judgments/42342
-138465|2013-04-29|SO|II AKo 36/13|Postanowienie|https://www.saos.org.pl/judgments/138465
-136535|2012-11-23|SO|II AKa 323/12|Wyrok|https://www.saos.org.pl/judgments/136535
-92396|2010-06-01|SN|III SO 6/10|Postanowienie|https://www.saos.org.pl/judgments/92396
-145448|2002-01-30|SO|II AKa 577/01|Wyrok|https://www.saos.org.pl/judgments/145448
+saos_id|date|court|case_number|type|score|saos_url
+92396|2010-06-01|SN|III SO 6/10|Postanowienie|69|https://www.saos.org.pl/judgments/92396
+438394|2021-03-10|SO|II AKa 398/19|Wyrok|56|https://www.saos.org.pl/judgments/438394
+336718|2018-02-26|SO|II AKa 460/17|Wyrok|56|https://www.saos.org.pl/judgments/336718
+136535|2012-11-23|SO|II AKa 323/12|Wyrok|56|https://www.saos.org.pl/judgments/136535
+145448|2002-01-30|SO|II AKa 577/01|Wyrok|56|https://www.saos.org.pl/judgments/145448
+138465|2013-04-29|SO|II AKo 36/13|Postanowienie|47|https://www.saos.org.pl/judgments/138465
+42342|2014-01-27|SO|XVI K 256/13|Postanowienie|31|https://www.saos.org.pl/judgments/42342

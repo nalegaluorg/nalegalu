@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-337366|2018-02-22|SO|IV Kow 32/18|Postanowienie|https://www.saos.org.pl/judgments/337366
-337365|2017-03-07|SO|IV Kow 26/17|Postanowienie|https://www.saos.org.pl/judgments/337365
-240086|2016-07-14|SO|IV Kow 760/16|Postanowienie|https://www.saos.org.pl/judgments/240086
-240078|2016-07-14|SO|IV Kow 693/16|Postanowienie|https://www.saos.org.pl/judgments/240078
-240057|2016-06-21|SO|IV Kow 555/16|Postanowienie|https://www.saos.org.pl/judgments/240057
-220470|2015-12-17|SO|I ACa 713/15|Wyrok|https://www.saos.org.pl/judgments/220470
+saos_id|date|court|case_number|type|score|saos_url
+220470|2015-12-17|SO|I ACa 713/15|Wyrok|56|https://www.saos.org.pl/judgments/220470

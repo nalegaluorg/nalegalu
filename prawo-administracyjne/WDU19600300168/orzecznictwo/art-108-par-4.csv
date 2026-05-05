@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-409861|2020-01-16|SO|III AUa 1477/18|Uzasadnienie|https://www.saos.org.pl/judgments/409861
+saos_id|date|court|case_number|type|score|saos_url
+409861|2020-01-16|SO|III AUa 1477/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/409861

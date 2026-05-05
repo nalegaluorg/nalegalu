@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-477105|2018-05-18|SO|II AKa 311/17|Uzasadnienie|https://www.saos.org.pl/judgments/477105
-289918|2017-04-20|SO|II AKa 64/17|Wyrok|https://www.saos.org.pl/judgments/289918
-277593|2017-02-10|SO|II Ka 332/16|Wyrok|https://www.saos.org.pl/judgments/277593
-269218|2017-02-03|SO|II K 343/14|Wyrok|https://www.saos.org.pl/judgments/269218
-133710|2015-01-30|SO|VI Ka 1046/14|Wyrok|https://www.saos.org.pl/judgments/133710
-206650|2014-12-16|TK|U 2/14|Wyrok|https://www.saos.org.pl/judgments/206650
-134885|2014-12-12|SO|II K 1030/14|Wyrok|https://www.saos.org.pl/judgments/134885
-24384|2013-09-27|SO|VI Ka 311/13|Wyrok|https://www.saos.org.pl/judgments/24384
-13404|2013-01-25|SO|IV Ka 933/12|Wyrok|https://www.saos.org.pl/judgments/13404
-83822|2005-10-27|SN|I KZP 35/05|Postanowienie|https://www.saos.org.pl/judgments/83822
-80702|2001-06-28|SN|WZ 26/01|Postanowienie|https://www.saos.org.pl/judgments/80702
+saos_id|date|court|case_number|type|score|saos_url
+206650|2014-12-16|TK|U 2/14|Wyrok|98|https://www.saos.org.pl/judgments/206650
+83822|2005-10-27|SN|I KZP 35/05|Postanowienie|69|https://www.saos.org.pl/judgments/83822
+80702|2001-06-28|SN|WZ 26/01|Postanowienie|69|https://www.saos.org.pl/judgments/80702
+289918|2017-04-20|SO|II AKa 64/17|Wyrok|56|https://www.saos.org.pl/judgments/289918
+477105|2018-05-18|SO|II AKa 311/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/477105
+269218|2017-02-03|SO|II K 343/14|Wyrok|40|https://www.saos.org.pl/judgments/269218
+24384|2013-09-27|SO|VI Ka 311/13|Wyrok|40|https://www.saos.org.pl/judgments/24384

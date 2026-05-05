@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-386304|2019-04-08|SO|XVII AmE 102/17|Wyrok|https://www.saos.org.pl/judgments/386304
-454732|2018-12-05|SO|III AUa 707/18|Wyrok|https://www.saos.org.pl/judgments/454732
-229028|2016-05-13|SO|XIII U 1035/15|Wyrok|https://www.saos.org.pl/judgments/229028
-212594|2016-02-17|SO|III AUa 1570/15|Wyrok|https://www.saos.org.pl/judgments/212594
-249557|2015-11-26|SO|XVII AmE 136/14|Wyrok|https://www.saos.org.pl/judgments/249557
-158042|2015-05-26|SO|VII U 2420/14|Wyrok|https://www.saos.org.pl/judgments/158042
-152229|2015-03-20|SO|III AUa 1801/14|Wyrok|https://www.saos.org.pl/judgments/152229
-126099|2014-09-16|SO|XVII AmE 44/13|Uzasadnienie|https://www.saos.org.pl/judgments/126099
-277098|2014-07-03|SO|XVII AmE 44/13|Wyrok|https://www.saos.org.pl/judgments/277098
-1204|2012-08-09|SO|VI ACa 419/12|Wyrok|https://www.saos.org.pl/judgments/1204
-77173|1996-05-29|SN|III ARN 97/95|Wyrok|https://www.saos.org.pl/judgments/77173
+saos_id|date|court|case_number|type|score|saos_url
+77173|1996-05-29|SN|III ARN 97/95|Wyrok|78|https://www.saos.org.pl/judgments/77173
+454732|2018-12-05|SO|III AUa 707/18|Wyrok|56|https://www.saos.org.pl/judgments/454732
+212594|2016-02-17|SO|III AUa 1570/15|Wyrok|56|https://www.saos.org.pl/judgments/212594
+152229|2015-03-20|SO|III AUa 1801/14|Wyrok|56|https://www.saos.org.pl/judgments/152229
+1204|2012-08-09|SO|VI ACa 419/12|Wyrok|56|https://www.saos.org.pl/judgments/1204

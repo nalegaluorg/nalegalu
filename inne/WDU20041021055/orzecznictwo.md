@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Ustawa z dnia 20 kwietnia 2004 r. o zmianie ustawy - O
 
 ## art. 1 (1)
 
-- 2008-11-24 | TK | [K 66/07](https://www.saos.org.pl/judgments/108555) | Wyrok
+- 2008-11-24 | TK | [K 66/07](https://www.saos.org.pl/judgments/108555) | Wyrok ★
 
 ## art. 8 (1)
 
-- 2008-11-24 | TK | [K 66/07](https://www.saos.org.pl/judgments/108555) | Wyrok
+- 2008-11-24 | TK | [K 66/07](https://www.saos.org.pl/judgments/108555) | Wyrok ★
 

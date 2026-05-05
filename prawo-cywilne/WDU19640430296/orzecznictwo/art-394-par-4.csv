@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539068|2025-10-02|SO|I Cz 177/25|Uzasadnienie|https://www.saos.org.pl/judgments/539068
-478321|2022-09-06|SO|V Gz 15/22|Postanowienie|https://www.saos.org.pl/judgments/478321
-408304|2019-02-27|SO|III AUa 304/18|Wyrok|https://www.saos.org.pl/judgments/408304
+saos_id|date|court|case_number|type|score|saos_url
+408304|2019-02-27|SO|III AUa 304/18|Wyrok|56|https://www.saos.org.pl/judgments/408304

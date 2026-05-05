@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-538835|2025-04-14|SO|I 1 Co 158/25|Postanowienie|https://www.saos.org.pl/judgments/538835
-484632|2023-02-22|SO|II Ca 1647/22|Postanowienie|https://www.saos.org.pl/judgments/484632
-105706|2000-04-05|TK|Ts 170/99|Postanowienie|https://www.saos.org.pl/judgments/105706
+saos_id|date|court|case_number|type|score|saos_url
+105706|2000-04-05|TK|Ts 170/99|Postanowienie|80|https://www.saos.org.pl/judgments/105706
+484632|2023-02-22|SO|II Ca 1647/22|Postanowienie|31|https://www.saos.org.pl/judgments/484632

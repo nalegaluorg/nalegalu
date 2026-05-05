@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205474|1991-01-28|TK|K 13/90|Wyrok|https://www.saos.org.pl/judgments/205474
+saos_id|date|court|case_number|type|score|saos_url
+205474|1991-01-28|TK|K 13/90|Wyrok|98|https://www.saos.org.pl/judgments/205474

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-415724|2020-03-09|SO|II AKa 215/18|Wyrok|https://www.saos.org.pl/judgments/415724
+saos_id|date|court|case_number|type|score|saos_url
+415724|2020-03-09|SO|II AKa 215/18|Wyrok|56|https://www.saos.org.pl/judgments/415724

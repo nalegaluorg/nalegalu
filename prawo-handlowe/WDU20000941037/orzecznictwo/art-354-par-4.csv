@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|https://www.saos.org.pl/judgments/41315
-162899|2005-01-21|SN|I CK 521/04|Wyrok|https://www.saos.org.pl/judgments/162899
-83134|2005-01-21|SN|I CK 528/04|Wyrok|https://www.saos.org.pl/judgments/83134
+saos_id|date|court|case_number|type|score|saos_url
+162899|2005-01-21|SN|I CK 521/04|Wyrok|78|https://www.saos.org.pl/judgments/162899
+83134|2005-01-21|SN|I CK 528/04|Wyrok|78|https://www.saos.org.pl/judgments/83134
+41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/41315

@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-536629|2025-09-29|SO|II AKa 70/25|Uzasadnienie|https://www.saos.org.pl/judgments/536629
-501139|2023-09-13|SO|II AKa 457/22|Wyrok|https://www.saos.org.pl/judgments/501139
-460469|2021-06-07|SO|II AKa 340/20|Wyrok|https://www.saos.org.pl/judgments/460469
-291289|2017-06-05|SO|VI Ka 292/17|Wyrok|https://www.saos.org.pl/judgments/291289
-296554|2017-05-22|SO|II K 158/16|Wyrok|https://www.saos.org.pl/judgments/296554
-218103|2016-03-08|SO|V Ka 1160/15|Uzasadnienie|https://www.saos.org.pl/judgments/218103
-132833|2014-12-03|SO|II AKa 160/14|Wyrok|https://www.saos.org.pl/judgments/132833
-98249|2012-05-24|SN|V KK 84/12|Wyrok|https://www.saos.org.pl/judgments/98249
-83439|2005-05-24|SN|I KZP 17/05|Uchwała|https://www.saos.org.pl/judgments/83439
+saos_id|date|court|case_number|type|score|saos_url
+83439|2005-05-24|SN|I KZP 17/05|Uchwała|89|https://www.saos.org.pl/judgments/83439
+98249|2012-05-24|SN|V KK 84/12|Wyrok|78|https://www.saos.org.pl/judgments/98249
+501139|2023-09-13|SO|II AKa 457/22|Wyrok|56|https://www.saos.org.pl/judgments/501139
+460469|2021-06-07|SO|II AKa 340/20|Wyrok|56|https://www.saos.org.pl/judgments/460469
+132833|2014-12-03|SO|II AKa 160/14|Wyrok|56|https://www.saos.org.pl/judgments/132833
+536629|2025-09-29|SO|II AKa 70/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/536629
+296554|2017-05-22|SO|II K 158/16|Wyrok|40|https://www.saos.org.pl/judgments/296554
+218103|2016-03-08|SO|V Ka 1160/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/218103

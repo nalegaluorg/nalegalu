@@ -1,3 +1,34 @@
-saos_id|date|court|case_number|type|saos_url
-424911|2018-12-10|SO|IX GC 3848/17|Uzasadnienie|https://www.saos.org.pl/judgments/424911
-337582|2017-02-03|SO|I C 1227/15|Wyrok|https://www.saos.org.pl/judgments/337582
+saos_id|date|court|case_number|type|score|saos_url
+389822|2019-05-23|SO|VII AGa 684/18|Wyrok|56|https://www.saos.org.pl/judgments/389822
+376655|2018-11-20|SO|I AGa 194/18|Wyrok|56|https://www.saos.org.pl/judgments/376655
+320916|2017-05-24|SO|I ACa 1845/16|Wyrok|56|https://www.saos.org.pl/judgments/320916
+272469|2016-11-15|SO|VI ACa 1349/15|Wyrok|56|https://www.saos.org.pl/judgments/272469
+271413|2016-11-15|SO|VI ACa 1339/15|Wyrok|56|https://www.saos.org.pl/judgments/271413
+235351|2016-05-24|SO|I ACa 1149/15|Wyrok|56|https://www.saos.org.pl/judgments/235351
+172539|2015-06-17|SO|I ACa 432/15|Wyrok|56|https://www.saos.org.pl/judgments/172539
+512584|2023-01-12|SO|VIII C 569/22|Wyrok|40|https://www.saos.org.pl/judgments/512584
+512449|2023-01-11|SO|VIII C 25/22|Wyrok|40|https://www.saos.org.pl/judgments/512449
+470594|2022-05-12|SO|VIII C 107/22|Wyrok|40|https://www.saos.org.pl/judgments/470594
+470592|2022-04-26|SO|VIII C 1015/21|Wyrok|40|https://www.saos.org.pl/judgments/470592
+462677|2022-03-01|SO|VIII C 953/21|Wyrok|40|https://www.saos.org.pl/judgments/462677
+462625|2022-01-27|SO|VIII C 336/21|Wyrok|40|https://www.saos.org.pl/judgments/462625
+450741|2021-10-05|SO|VIII C 240/21|Wyrok|40|https://www.saos.org.pl/judgments/450741
+450485|2021-05-28|SO|VIII C 1129/20|Wyrok|40|https://www.saos.org.pl/judgments/450485
+450385|2020-12-18|SO|VIII C 1238/19|Wyrok|40|https://www.saos.org.pl/judgments/450385
+414600|2020-06-08|SO|VIII C 974/19|Wyrok|40|https://www.saos.org.pl/judgments/414600
+334521|2018-03-12|SO|VIII C 754/17|Wyrok|40|https://www.saos.org.pl/judgments/334521
+334520|2018-03-02|SO|VIII C 743/17|Wyrok|40|https://www.saos.org.pl/judgments/334520
+331714|2018-02-14|SO|VIII C 1750/14|Wyrok|40|https://www.saos.org.pl/judgments/331714
+328494|2018-01-24|SO|VIII C 437/17|Wyrok|40|https://www.saos.org.pl/judgments/328494
+326861|2017-12-06|SO|VIII C 2669/16|Wyrok|40|https://www.saos.org.pl/judgments/326861
+316887|2017-11-08|SO|VIII C 2301/16|Wyrok|40|https://www.saos.org.pl/judgments/316887
+311183|2017-10-13|SO|I C 953/16|Wyrok|40|https://www.saos.org.pl/judgments/311183
+266373|2016-12-22|SO|VIII C 2605/15|Wyrok|40|https://www.saos.org.pl/judgments/266373
+222924|2016-04-14|SO|VIII C 2657/14|Wyrok|40|https://www.saos.org.pl/judgments/222924
+156644|2015-06-02|SO|VI Ga 110/15|Wyrok|40|https://www.saos.org.pl/judgments/156644
+144434|2014-01-15|SO|II Ca 1158/13|Wyrok|40|https://www.saos.org.pl/judgments/144434
+361303|2018-09-25|SO|III Ca 1036/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/361303
+350235|2018-04-18|SO|III Ca 2033/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/350235
+348565|2018-03-12|SO|III Ca 1731/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348565
+241660|2016-06-24|SO|III Ca 379/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/241660
+194489|2015-12-23|SO|III Ca 1237/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194489

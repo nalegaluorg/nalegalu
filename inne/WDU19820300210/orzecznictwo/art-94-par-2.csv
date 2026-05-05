@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-535935|2012-08-31|SO|II W 730/12|Wyrok|https://www.saos.org.pl/judgments/535935
-536132|2012-06-19|SO|II W 538/12|Wyrok|https://www.saos.org.pl/judgments/536132
+saos_id|date|court|case_number|type|score|saos_url
+535935|2012-08-31|SO|II W 730/12|Wyrok|40|https://www.saos.org.pl/judgments/535935
+536132|2012-06-19|SO|II W 538/12|Wyrok|40|https://www.saos.org.pl/judgments/536132

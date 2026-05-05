@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-436491|2021-02-25|SO|I Ca 21/21|Postanowienie|https://www.saos.org.pl/judgments/436491
-92405|2010-06-10|SN|I PK 52/10|Wyrok|https://www.saos.org.pl/judgments/92405
+saos_id|date|court|case_number|type|score|saos_url
+92405|2010-06-10|SN|I PK 52/10|Wyrok|78|https://www.saos.org.pl/judgments/92405

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-105254|1998-10-06|TK|Ts 56/98|Postanowienie|https://www.saos.org.pl/judgments/105254
+saos_id|date|court|case_number|type|score|saos_url
+105254|1998-10-06|TK|Ts 56/98|Postanowienie|80|https://www.saos.org.pl/judgments/105254

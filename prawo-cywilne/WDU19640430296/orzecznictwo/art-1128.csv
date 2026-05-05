@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-502337|2024-07-08|SO|II Cz 26/24|Postanowienie|https://www.saos.org.pl/judgments/502337
-425415|2019-07-11|SO|V ACa 329/19|Wyrok|https://www.saos.org.pl/judgments/425415
-375522|2019-03-01|SO|IX Ca 259/19|Wyrok|https://www.saos.org.pl/judgments/375522
-379698|2018-12-04|SO|V ACa 167/18|Wyrok|https://www.saos.org.pl/judgments/379698
-332265|2017-12-08|SO|I C 1111/15|Wyrok|https://www.saos.org.pl/judgments/332265
-204186|2016-01-11|SO|X GC 380/13|Zarządzenie|https://www.saos.org.pl/judgments/204186
-191776|2015-11-19|SO|X GC 868/15|Uzasadnienie|https://www.saos.org.pl/judgments/191776
-74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|https://www.saos.org.pl/judgments/74077
-177324|2013-11-04|SO|VII Co 669/11|Uzasadnienie|https://www.saos.org.pl/judgments/177324
-284077|2013-10-22|SO|VII Co 669/11|Postanowienie|https://www.saos.org.pl/judgments/284077
+saos_id|date|court|case_number|type|score|saos_url
+425415|2019-07-11|SO|V ACa 329/19|Wyrok|56|https://www.saos.org.pl/judgments/425415
+379698|2018-12-04|SO|V ACa 167/18|Wyrok|56|https://www.saos.org.pl/judgments/379698
+502337|2024-07-08|SO|II Cz 26/24|Postanowienie|31|https://www.saos.org.pl/judgments/502337
+204186|2016-01-11|SO|X GC 380/13|Zarządzenie|27|https://www.saos.org.pl/judgments/204186
+191776|2015-11-19|SO|X GC 868/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/191776
+74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74077

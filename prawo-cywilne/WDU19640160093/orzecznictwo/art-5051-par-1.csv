@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-458496|2022-01-28|SO|II C 486/21|Wyrok|https://www.saos.org.pl/judgments/458496
+saos_id|date|court|case_number|type|score|saos_url
+458496|2022-01-28|SO|II C 486/21|Wyrok|40|https://www.saos.org.pl/judgments/458496

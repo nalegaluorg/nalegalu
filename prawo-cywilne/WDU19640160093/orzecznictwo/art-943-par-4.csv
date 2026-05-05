@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-332514|2018-02-13|SO|VII Pa 11/18|Wyrok|https://www.saos.org.pl/judgments/332514
+saos_id|date|court|case_number|type|score|saos_url
+332514|2018-02-13|SO|VII Pa 11/18|Wyrok|40|https://www.saos.org.pl/judgments/332514

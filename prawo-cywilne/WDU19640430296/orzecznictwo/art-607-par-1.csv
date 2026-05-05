@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-217987|2016-03-22|SO|II K 101/15|Wyrok|https://www.saos.org.pl/judgments/217987
+saos_id|date|court|case_number|type|score|saos_url
+217987|2016-03-22|SO|II K 101/15|Wyrok|40|https://www.saos.org.pl/judgments/217987

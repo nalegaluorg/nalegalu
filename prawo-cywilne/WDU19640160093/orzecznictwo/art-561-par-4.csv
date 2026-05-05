@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516628|2023-12-27|SO|V GC 471/21|Wyrok|https://www.saos.org.pl/judgments/516628
+saos_id|date|court|case_number|type|score|saos_url
+516628|2023-12-27|SO|V GC 471/21|Wyrok|40|https://www.saos.org.pl/judgments/516628

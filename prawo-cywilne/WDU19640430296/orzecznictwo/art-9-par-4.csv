@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-259505|2016-11-07|SO|IV U 237/16|Wyrok|https://www.saos.org.pl/judgments/259505
-94995|2011-05-20|SN|II PK 288/10|Wyrok|https://www.saos.org.pl/judgments/94995
+saos_id|date|court|case_number|type|score|saos_url
+94995|2011-05-20|SN|II PK 288/10|Wyrok|78|https://www.saos.org.pl/judgments/94995

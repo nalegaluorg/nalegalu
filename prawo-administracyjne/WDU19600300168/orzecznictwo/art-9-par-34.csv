@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-368204|2018-10-03|SO|III AUa 243/17|Wyrok|https://www.saos.org.pl/judgments/368204
+saos_id|date|court|case_number|type|score|saos_url
+368204|2018-10-03|SO|III AUa 243/17|Wyrok|56|https://www.saos.org.pl/judgments/368204

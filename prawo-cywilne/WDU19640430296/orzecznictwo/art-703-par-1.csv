@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-16984|2013-03-21|SO|I ACa 855/12|Wyrok|https://www.saos.org.pl/judgments/16984
-92478|2010-06-18|SN|V CSK 434/09|Postanowienie|https://www.saos.org.pl/judgments/92478
-90868|2009-09-16|SN|II CZ 42/09|Postanowienie|https://www.saos.org.pl/judgments/90868
-89268|2008-11-27|SN|IV CSK 292/08|Wyrok|https://www.saos.org.pl/judgments/89268
+saos_id|date|court|case_number|type|score|saos_url
+89268|2008-11-27|SN|IV CSK 292/08|Wyrok|78|https://www.saos.org.pl/judgments/89268
+92478|2010-06-18|SN|V CSK 434/09|Postanowienie|69|https://www.saos.org.pl/judgments/92478
+90868|2009-09-16|SN|II CZ 42/09|Postanowienie|69|https://www.saos.org.pl/judgments/90868
+16984|2013-03-21|SO|I ACa 855/12|Wyrok|56|https://www.saos.org.pl/judgments/16984

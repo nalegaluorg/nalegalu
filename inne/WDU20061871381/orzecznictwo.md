@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 22 września 2006 r. o uruchamianiu śro
 
 ## art. 4 (1)
 
-- 2010-10-18 | TK | [Kp 1/10](https://www.saos.org.pl/judgments/109686) | Postanowienie
+- 2010-10-18 | TK | [Kp 1/10](https://www.saos.org.pl/judgments/109686) | Postanowienie ★
 
 ## (ogólnie) (2)
 

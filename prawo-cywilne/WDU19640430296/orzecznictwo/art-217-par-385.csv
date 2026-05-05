@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-92105|2010-04-21|SN|V CSK 356/09|Wyrok|https://www.saos.org.pl/judgments/92105
-80384|2001-03-07|SN|I PKN 285/00|Wyrok|https://www.saos.org.pl/judgments/80384
-79109|1999-06-15|SN|II UKN 606/98|Wyrok|https://www.saos.org.pl/judgments/79109
-78712|1998-11-25|SN|II UKN 332/98|Wyrok|https://www.saos.org.pl/judgments/78712
+saos_id|date|court|case_number|type|score|saos_url
+92105|2010-04-21|SN|V CSK 356/09|Wyrok|78|https://www.saos.org.pl/judgments/92105
+80384|2001-03-07|SN|I PKN 285/00|Wyrok|78|https://www.saos.org.pl/judgments/80384
+79109|1999-06-15|SN|II UKN 606/98|Wyrok|78|https://www.saos.org.pl/judgments/79109
+78712|1998-11-25|SN|II UKN 332/98|Wyrok|78|https://www.saos.org.pl/judgments/78712

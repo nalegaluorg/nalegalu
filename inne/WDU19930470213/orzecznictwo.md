@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 15 maja 1993 r. o zmianie ustaw - Prawo 
 
 ## art. 3 (1)
 
-- 2002-11-27 | SN | [III CZP 13/02](https://www.saos.org.pl/judgments/81718) | Postanowienie
+- 2002-11-27 | SN | [III CZP 13/02](https://www.saos.org.pl/judgments/81718) | Postanowienie ★
 

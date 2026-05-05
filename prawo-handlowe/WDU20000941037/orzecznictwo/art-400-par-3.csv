@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-405840|2019-11-28|SO|VII AGa 727/19|Wyrok|https://www.saos.org.pl/judgments/405840
-384029|2019-05-23|SO|XXIII Ga 28/19|Postanowienie|https://www.saos.org.pl/judgments/384029
-100549|2013-01-30|SN|V CSK 84/12|Wyrok|https://www.saos.org.pl/judgments/100549
+saos_id|date|court|case_number|type|score|saos_url
+100549|2013-01-30|SN|V CSK 84/12|Wyrok|78|https://www.saos.org.pl/judgments/100549
+405840|2019-11-28|SO|VII AGa 727/19|Wyrok|56|https://www.saos.org.pl/judgments/405840

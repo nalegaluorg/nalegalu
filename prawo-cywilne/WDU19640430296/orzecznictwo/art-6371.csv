@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-489687|2022-10-26|SO|I Ns 26/22|Uzasadnienie|https://www.saos.org.pl/judgments/489687
-478441|2022-10-21|SO|III Ns 237/19|Postanowienie|https://www.saos.org.pl/judgments/478441
-438343|2021-04-29|SO|I Ns 316/20|Postanowienie|https://www.saos.org.pl/judgments/438343
-252728|2016-10-20|SO|VI Cz 1378/16|Postanowienie|https://www.saos.org.pl/judgments/252728
+saos_id|date|court|case_number|type|score|saos_url
+252728|2016-10-20|SO|VI Cz 1378/16|Postanowienie|31|https://www.saos.org.pl/judgments/252728

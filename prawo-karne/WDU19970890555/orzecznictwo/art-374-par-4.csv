@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-508199|2024-09-24|SO|IV Ka 442/24|Uzasadnienie|https://www.saos.org.pl/judgments/508199
-508162|2024-09-03|SO|IV Ka 412/24|Uzasadnienie|https://www.saos.org.pl/judgments/508162
-476408|2022-09-20|SO|VI Ka 712/22|Uzasadnienie|https://www.saos.org.pl/judgments/476408
+saos_id|date|court|case_number|type|score|saos_url
+476408|2022-09-20|SO|VI Ka 712/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/476408

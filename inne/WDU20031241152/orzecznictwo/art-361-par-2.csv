@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-487027|2022-05-16|SO|I C 32/22|Wyrok|https://www.saos.org.pl/judgments/487027
-199444|2016-02-04|SO|XIII Ga 751/15|Uzasadnienie|https://www.saos.org.pl/judgments/199444
+saos_id|date|court|case_number|type|score|saos_url
+199444|2016-02-04|SO|XIII Ga 751/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/199444

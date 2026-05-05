@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-474816|2022-09-29|SO|IV U 329/22|Wyrok|https://www.saos.org.pl/judgments/474816
-397847|2019-12-05|SO|VIII Pa 132/19|Uzasadnienie|https://www.saos.org.pl/judgments/397847
-407105|2019-10-18|SO|I ACa 357/19|Wyrok|https://www.saos.org.pl/judgments/407105
-149672|2015-03-19|SO|X Ga 77/15|Postanowienie|https://www.saos.org.pl/judgments/149672
-56780|2014-05-28|SO|XII Ga 5/14|Postanowienie|https://www.saos.org.pl/judgments/56780
+saos_id|date|court|case_number|type|score|saos_url
+407105|2019-10-18|SO|I ACa 357/19|Wyrok|56|https://www.saos.org.pl/judgments/407105
+149672|2015-03-19|SO|X Ga 77/15|Postanowienie|31|https://www.saos.org.pl/judgments/149672
+56780|2014-05-28|SO|XII Ga 5/14|Postanowienie|31|https://www.saos.org.pl/judgments/56780
+397847|2019-12-05|SO|VIII Pa 132/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/397847

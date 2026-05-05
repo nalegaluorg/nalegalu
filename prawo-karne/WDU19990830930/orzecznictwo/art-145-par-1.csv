@@ -1,8 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-316745|2017-09-15|SO|V Kz 662/17|Postanowienie|https://www.saos.org.pl/judgments/316745
-257378|2016-11-29|SO|II K 906/16|Wyrok|https://www.saos.org.pl/judgments/257378
-224637|2016-05-18|SO|V Ka 312/16|Uzasadnienie|https://www.saos.org.pl/judgments/224637
-212580|2015-09-11|SO|II K 443/15|Wyrok|https://www.saos.org.pl/judgments/212580
-173124|2015-07-01|SO|XI W 10601/14|Wyrok|https://www.saos.org.pl/judgments/173124
-94367|2011-03-01|SN|V KK 299/10|Postanowienie|https://www.saos.org.pl/judgments/94367
-108586|2008-01-08|TK|P 35/06|Wyrok|https://www.saos.org.pl/judgments/108586
+saos_id|date|court|case_number|type|score|saos_url
+108586|2008-01-08|TK|P 35/06|Wyrok|98|https://www.saos.org.pl/judgments/108586
+94367|2011-03-01|SN|V KK 299/10|Postanowienie|69|https://www.saos.org.pl/judgments/94367
+316745|2017-09-15|SO|V Kz 662/17|Postanowienie|31|https://www.saos.org.pl/judgments/316745
+224637|2016-05-18|SO|V Ka 312/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/224637

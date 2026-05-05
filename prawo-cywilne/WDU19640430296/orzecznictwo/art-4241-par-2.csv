@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-506092|2023-03-24|SO|III Ca 2128/21|Uzasadnienie|https://www.saos.org.pl/judgments/506092
-347244|2017-09-21|SO|I C 2931/16|Wyrok|https://www.saos.org.pl/judgments/347244
-258649|2016-11-03|SO|I ACa 1767/15|Wyrok|https://www.saos.org.pl/judgments/258649
-243767|2015-11-04|SN|I BU 9/14|Wyrok|https://www.saos.org.pl/judgments/243767
-171325|2014-06-03|SO|I C 2/14|Wyrok|https://www.saos.org.pl/judgments/171325
-102795|2013-09-06|SN|V CNP 67/12|Postanowienie|https://www.saos.org.pl/judgments/102795
-89240|2008-11-27|SN|II CNP 105/08|Postanowienie|https://www.saos.org.pl/judgments/89240
-89151|2008-11-13|SN|II CNP 90/08|Postanowienie|https://www.saos.org.pl/judgments/89151
-85140|2007-02-05|SN|I BU 12/06|Postanowienie|https://www.saos.org.pl/judgments/85140
-84493|2006-08-03|SN|II BP 2/06|Postanowienie|https://www.saos.org.pl/judgments/84493
+saos_id|date|court|case_number|type|score|saos_url
+243767|2015-11-04|SN|I BU 9/14|Wyrok|78|https://www.saos.org.pl/judgments/243767
+102795|2013-09-06|SN|V CNP 67/12|Postanowienie|69|https://www.saos.org.pl/judgments/102795
+89240|2008-11-27|SN|II CNP 105/08|Postanowienie|69|https://www.saos.org.pl/judgments/89240
+89151|2008-11-13|SN|II CNP 90/08|Postanowienie|69|https://www.saos.org.pl/judgments/89151
+85140|2007-02-05|SN|I BU 12/06|Postanowienie|69|https://www.saos.org.pl/judgments/85140
+84493|2006-08-03|SN|II BP 2/06|Postanowienie|69|https://www.saos.org.pl/judgments/84493
+258649|2016-11-03|SO|I ACa 1767/15|Wyrok|56|https://www.saos.org.pl/judgments/258649
+506092|2023-03-24|SO|III Ca 2128/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506092

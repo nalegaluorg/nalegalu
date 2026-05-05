@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-435695|2021-02-12|SO|IV Ka 24/21|Uzasadnienie|https://www.saos.org.pl/judgments/435695
-433898|2020-10-26|SO|II1 Co 1955/20|Postanowienie|https://www.saos.org.pl/judgments/433898
+saos_id|date|court|case_number|type|score|saos_url
+433898|2020-10-26|SO|II1 Co 1955/20|Postanowienie|31|https://www.saos.org.pl/judgments/433898

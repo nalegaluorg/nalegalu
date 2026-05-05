@@ -1,26 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-520676|2024-12-13|SO|IV Ka 531/24|Uzasadnienie|https://www.saos.org.pl/judgments/520676
-511771|2024-01-31|SO|VII Ka 919/23|Wyrok|https://www.saos.org.pl/judgments/511771
-503277|2024-01-26|SO|II K 527/22|Wyrok|https://www.saos.org.pl/judgments/503277
-481453|2022-11-30|SO|IV Ka 519/22|Uzasadnienie|https://www.saos.org.pl/judgments/481453
-437601|2021-04-07|SO|II Ka 791/20|Wyrok|https://www.saos.org.pl/judgments/437601
-419763|2020-03-05|SO|IV Ka 51/20|Wyrok|https://www.saos.org.pl/judgments/419763
-411488|2020-01-24|SO|VI Ka 643/19|Wyrok|https://www.saos.org.pl/judgments/411488
-387912|2019-05-27|SO|II W 1622/18|Uzasadnienie|https://www.saos.org.pl/judgments/387912
-375357|2019-02-26|SO|II K 174/18|Wyrok|https://www.saos.org.pl/judgments/375357
-375395|2019-02-07|SO|II K 746/17|Wyrok|https://www.saos.org.pl/judgments/375395
-358381|2018-08-02|SO|II AKa 227/18|Wyrok|https://www.saos.org.pl/judgments/358381
-360543|2018-07-19|SO|VI Ka 413/18|Wyrok|https://www.saos.org.pl/judgments/360543
-314477|2017-05-24|SO|II K 447/15|Wyrok|https://www.saos.org.pl/judgments/314477
-293521|2017-05-22|SO|VII K 132/17|Wyrok|https://www.saos.org.pl/judgments/293521
-278365|2016-10-25|SO|II K 257/16|Wyrok|https://www.saos.org.pl/judgments/278365
-192265|2015-12-15|SO|VI Ka 893/15|Wyrok|https://www.saos.org.pl/judgments/192265
-150746|2015-04-09|SO|VIII Ka 131/15|Wyrok|https://www.saos.org.pl/judgments/150746
-73736|2014-12-10|SO|VII K 288/14|Wyrok|https://www.saos.org.pl/judgments/73736
-75692|2014-08-14|SO|IX Ka 264/14|Wyrok|https://www.saos.org.pl/judgments/75692
-58419|2014-07-25|SO|IX Ka 338/14|Wyrok|https://www.saos.org.pl/judgments/58419
-51742|2014-06-18|SO|II Ka 164/14|Wyrok|https://www.saos.org.pl/judgments/51742
-51487|2014-06-03|SO|V Ka 342/14|Wyrok|https://www.saos.org.pl/judgments/51487
-54895|2014-02-28|SO|II K 519/13|Wyrok|https://www.saos.org.pl/judgments/54895
-32918|2014-01-14|SO|IV Ka 681/13|Wyrok|https://www.saos.org.pl/judgments/32918
-132606|2013-12-31|SO|X Ka 1099/13|Uzasadnienie|https://www.saos.org.pl/judgments/132606
+saos_id|date|court|case_number|type|score|saos_url
+358381|2018-08-02|SO|II AKa 227/18|Wyrok|56|https://www.saos.org.pl/judgments/358381
+419763|2020-03-05|SO|IV Ka 51/20|Wyrok|40|https://www.saos.org.pl/judgments/419763
+375357|2019-02-26|SO|II K 174/18|Wyrok|40|https://www.saos.org.pl/judgments/375357

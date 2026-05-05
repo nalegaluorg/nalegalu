@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79531|2000-02-03|SN|III RN 195/99|Postanowienie|https://www.saos.org.pl/judgments/79531
+saos_id|date|court|case_number|type|score|saos_url
+79531|2000-02-03|SN|III RN 195/99|Postanowienie|69|https://www.saos.org.pl/judgments/79531

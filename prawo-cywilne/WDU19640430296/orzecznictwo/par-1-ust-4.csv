@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467883|2022-04-07|SO|III AUa 1313/20|Wyrok|https://www.saos.org.pl/judgments/467883
+saos_id|date|court|case_number|type|score|saos_url
+467883|2022-04-07|SO|III AUa 1313/20|Wyrok|56|https://www.saos.org.pl/judgments/467883

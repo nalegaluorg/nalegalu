@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-325043|2017-11-07|SO|I ACa 623/16|Wyrok|https://www.saos.org.pl/judgments/325043
-494043|2015-06-10|SO|I ACa 308/15|Wyrok|https://www.saos.org.pl/judgments/494043
-28418|2013-11-28|SO|I ACa 700/13|Wyrok|https://www.saos.org.pl/judgments/28418
+saos_id|date|court|case_number|type|score|saos_url
+325043|2017-11-07|SO|I ACa 623/16|Wyrok|56|https://www.saos.org.pl/judgments/325043
+494043|2015-06-10|SO|I ACa 308/15|Wyrok|56|https://www.saos.org.pl/judgments/494043
+28418|2013-11-28|SO|I ACa 700/13|Wyrok|56|https://www.saos.org.pl/judgments/28418

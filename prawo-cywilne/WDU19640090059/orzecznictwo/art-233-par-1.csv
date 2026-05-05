@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-506216|2023-10-05|SO|III Ca 2335/22|Uzasadnienie|https://www.saos.org.pl/judgments/506216
-66909|2014-08-07|SO|III Ca 610/14|Wyrok|https://www.saos.org.pl/judgments/66909
-145994|2014-04-03|SO|II Ca 127/14|Postanowienie|https://www.saos.org.pl/judgments/145994
+saos_id|date|court|case_number|type|score|saos_url
+506216|2023-10-05|SO|III Ca 2335/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/506216

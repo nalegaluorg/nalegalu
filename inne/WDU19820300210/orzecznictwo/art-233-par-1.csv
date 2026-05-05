@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-373361|2018-12-24|SO|III Ca 1080/18|Uzasadnienie|https://www.saos.org.pl/judgments/373361
-309621|2016-07-13|SO|XI Ka 488/16|Wyrok|https://www.saos.org.pl/judgments/309621
-131685|2015-01-12|SO|I ACa 1056/14|Wyrok|https://www.saos.org.pl/judgments/131685
+saos_id|date|court|case_number|type|score|saos_url
+131685|2015-01-12|SO|I ACa 1056/14|Wyrok|56|https://www.saos.org.pl/judgments/131685
+373361|2018-12-24|SO|III Ca 1080/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/373361

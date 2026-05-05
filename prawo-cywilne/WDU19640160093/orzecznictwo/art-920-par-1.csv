@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-51062|2013-06-19|SO|I ACa 120/13|Wyrok|https://www.saos.org.pl/judgments/51062
-12471|2013-01-22|SO|XV GC 89/12|Wyrok|https://www.saos.org.pl/judgments/12471
+saos_id|date|court|case_number|type|score|saos_url
+51062|2013-06-19|SO|I ACa 120/13|Wyrok|56|https://www.saos.org.pl/judgments/51062

@@ -1,18 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-522197|2025-01-23|SO|IV Ca 812/24|Postanowienie|https://www.saos.org.pl/judgments/522197
-483492|2023-01-24|SO|II Ca 1861/22|Postanowienie|https://www.saos.org.pl/judgments/483492
-460280|2021-12-10|SO|I ACa 609/20|Wyrok|https://www.saos.org.pl/judgments/460280
-408983|2020-03-13|SO|I AGa 86/19|Postanowienie|https://www.saos.org.pl/judgments/408983
-351691|2018-07-25|SO|IX Ca 401/18|Postanowienie|https://www.saos.org.pl/judgments/351691
-288043|2017-05-29|SO|III Ca 1613/16|Uzasadnienie|https://www.saos.org.pl/judgments/288043
-282522|2016-12-19|SO|II C 1770/13|Zarządzenie|https://www.saos.org.pl/judgments/282522
-244600|2016-02-19|SN|IV CNP 48/15|Postanowienie|https://www.saos.org.pl/judgments/244600
-299509|2015-11-18|SO|II Ca 784/15|Postanowienie|https://www.saos.org.pl/judgments/299509
-166910|2014-10-10|SN|III CZP 71/14|Uchwała|https://www.saos.org.pl/judgments/166910
-68015|2014-09-09|SO|II Ca 901/14|Postanowienie|https://www.saos.org.pl/judgments/68015
-181742|2014-08-29|SO|I C 1272/13|Uzasadnienie|https://www.saos.org.pl/judgments/181742
-51179|2014-04-24|SO|VIII C 128/14|Postanowienie|https://www.saos.org.pl/judgments/51179
-96537|2011-12-14|SN|I CSK 138/11|Postanowienie|https://www.saos.org.pl/judgments/96537
-96536|2011-12-14|SN|I CSK 138/11|Postanowienie|https://www.saos.org.pl/judgments/96536
-95691|2011-09-08|SN|III CZP 44/11|Uchwała|https://www.saos.org.pl/judgments/95691
-86940|2007-12-14|SN|III CZP 124/07|Uchwała|https://www.saos.org.pl/judgments/86940
+saos_id|date|court|case_number|type|score|saos_url
+166910|2014-10-10|SN|III CZP 71/14|Uchwała|89|https://www.saos.org.pl/judgments/166910
+95691|2011-09-08|SN|III CZP 44/11|Uchwała|89|https://www.saos.org.pl/judgments/95691
+86940|2007-12-14|SN|III CZP 124/07|Uchwała|89|https://www.saos.org.pl/judgments/86940
+244600|2016-02-19|SN|IV CNP 48/15|Postanowienie|69|https://www.saos.org.pl/judgments/244600
+96537|2011-12-14|SN|I CSK 138/11|Postanowienie|69|https://www.saos.org.pl/judgments/96537
+96536|2011-12-14|SN|I CSK 138/11|Postanowienie|69|https://www.saos.org.pl/judgments/96536
+460280|2021-12-10|SO|I ACa 609/20|Wyrok|56|https://www.saos.org.pl/judgments/460280
+408983|2020-03-13|SO|I AGa 86/19|Postanowienie|47|https://www.saos.org.pl/judgments/408983
+68015|2014-09-09|SO|II Ca 901/14|Postanowienie|31|https://www.saos.org.pl/judgments/68015
+288043|2017-05-29|SO|III Ca 1613/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/288043

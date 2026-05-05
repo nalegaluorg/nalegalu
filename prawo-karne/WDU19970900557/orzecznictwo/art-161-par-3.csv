@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-384229|2019-05-09|SO|III Ca 1484/18|Wyrok|https://www.saos.org.pl/judgments/384229
-284777|2017-04-12|SO|VI Ka 52/17|Wyrok|https://www.saos.org.pl/judgments/284777
-256486|2016-09-29|SO|I ACa 351/16|Wyrok|https://www.saos.org.pl/judgments/256486
-211979|2016-02-02|SO|II AKzw 7/16|Postanowienie|https://www.saos.org.pl/judgments/211979
-145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|https://www.saos.org.pl/judgments/145205
-137194|2013-01-07|SO|II AKzw 1481/12|Postanowienie|https://www.saos.org.pl/judgments/137194
-80545|2001-04-27|SN|I KZP 8/01|Uchwała|https://www.saos.org.pl/judgments/80545
-206044|2000-07-10|TK|SK 21/99|Wyrok|https://www.saos.org.pl/judgments/206044
+saos_id|date|court|case_number|type|score|saos_url
+206044|2000-07-10|TK|SK 21/99|Wyrok|98|https://www.saos.org.pl/judgments/206044
+80545|2001-04-27|SN|I KZP 8/01|Uchwała|89|https://www.saos.org.pl/judgments/80545
+256486|2016-09-29|SO|I ACa 351/16|Wyrok|56|https://www.saos.org.pl/judgments/256486
+211979|2016-02-02|SO|II AKzw 7/16|Postanowienie|47|https://www.saos.org.pl/judgments/211979
+145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|47|https://www.saos.org.pl/judgments/145205
+137194|2013-01-07|SO|II AKzw 1481/12|Postanowienie|47|https://www.saos.org.pl/judgments/137194

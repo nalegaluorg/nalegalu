@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-331856|2017-12-27|SO|IV P 155/15|Wyrok|https://www.saos.org.pl/judgments/331856
-207677|2015-12-17|SO|I ACa 399/15|Wyrok|https://www.saos.org.pl/judgments/207677
-126618|2014-09-02|SO|VIII Pa 166/13|Wyrok|https://www.saos.org.pl/judgments/126618
+saos_id|date|court|case_number|type|score|saos_url
+207677|2015-12-17|SO|I ACa 399/15|Wyrok|56|https://www.saos.org.pl/judgments/207677

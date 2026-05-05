@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-505328|2023-12-19|SO|III C 314/23|Wyrok|https://www.saos.org.pl/judgments/505328
-494106|2022-07-28|SO|I ACa 36/22|Wyrok|https://www.saos.org.pl/judgments/494106
-42648|2014-01-22|SO|VIII C 334/13|Wyrok|https://www.saos.org.pl/judgments/42648
-138165|2013-03-11|SO|I C 370/11|Wyrok|https://www.saos.org.pl/judgments/138165
+saos_id|date|court|case_number|type|score|saos_url
+494106|2022-07-28|SO|I ACa 36/22|Wyrok|56|https://www.saos.org.pl/judgments/494106

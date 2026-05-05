@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 15 stycznia 20
 
 ## art. 5 (1)
 
-- 2010-12-02 | SN | [I CSK 111/10](https://www.saos.org.pl/judgments/93561) | Wyrok
+- 2010-12-02 | SN | [I CSK 111/10](https://www.saos.org.pl/judgments/93561) | Wyrok ★
 
 ## art. 10 (1)
 

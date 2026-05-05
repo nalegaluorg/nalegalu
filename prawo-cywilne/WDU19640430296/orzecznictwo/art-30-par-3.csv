@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-472026|2022-05-27|SO|VIII Pa 39/22|Wyrok|https://www.saos.org.pl/judgments/472026
-421094|2020-09-17|SO|IV P 17/20|Wyrok|https://www.saos.org.pl/judgments/421094
+saos_id|date|court|case_number|type|score|saos_url
+421094|2020-09-17|SO|IV P 17/20|Wyrok|40|https://www.saos.org.pl/judgments/421094

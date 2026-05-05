@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-96144|2011-10-26|SN|I KZP 11/11|Postanowienie|https://www.saos.org.pl/judgments/96144
+saos_id|date|court|case_number|type|score|saos_url
+96144|2011-10-26|SN|I KZP 11/11|Postanowienie|69|https://www.saos.org.pl/judgments/96144

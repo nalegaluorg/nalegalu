@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-344417|2017-11-17|SO|I ACz 2727/17|Postanowienie|https://www.saos.org.pl/judgments/344417
-189782|2015-10-30|SO|XXV Co 144/15|Postanowienie|https://www.saos.org.pl/judgments/189782
-57050|2014-07-31|SO|VI Gz 187/14|Postanowienie|https://www.saos.org.pl/judgments/57050
-53118|2014-07-09|SO|V Cz 505/14|Postanowienie|https://www.saos.org.pl/judgments/53118
-48501|2014-05-28|SO|II Cz 756/14|Postanowienie|https://www.saos.org.pl/judgments/48501
-64115|2014-05-23|SO|I ACz 289/14|Postanowienie|https://www.saos.org.pl/judgments/64115
-25186|2013-09-27|SO|XII Ga 375/13|Postanowienie|https://www.saos.org.pl/judgments/25186
-15126|2013-06-21|SO|VIII Cz 357/13|Postanowienie|https://www.saos.org.pl/judgments/15126
-137445|2013-01-12|SO|I C 23/13|Postanowienie|https://www.saos.org.pl/judgments/137445
-3259|2012-12-14|SO|I ACz 1946/12|Postanowienie|https://www.saos.org.pl/judgments/3259
-135666|2012-11-09|SO|I ACz 750/12|Postanowienie|https://www.saos.org.pl/judgments/135666
-135550|2012-09-27|SO|I ACz 894/12|Postanowienie|https://www.saos.org.pl/judgments/135550
-119|2012-09-04|SO|I ACz 1227/12|Postanowienie|https://www.saos.org.pl/judgments/119
-85460|2007-03-16|SN|III CZP 4/07|Uchwała|https://www.saos.org.pl/judgments/85460
+saos_id|date|court|case_number|type|score|saos_url
+85460|2007-03-16|SN|III CZP 4/07|Uchwała|89|https://www.saos.org.pl/judgments/85460
+344417|2017-11-17|SO|I ACz 2727/17|Postanowienie|47|https://www.saos.org.pl/judgments/344417
+64115|2014-05-23|SO|I ACz 289/14|Postanowienie|47|https://www.saos.org.pl/judgments/64115
+3259|2012-12-14|SO|I ACz 1946/12|Postanowienie|47|https://www.saos.org.pl/judgments/3259
+135666|2012-11-09|SO|I ACz 750/12|Postanowienie|47|https://www.saos.org.pl/judgments/135666
+135550|2012-09-27|SO|I ACz 894/12|Postanowienie|47|https://www.saos.org.pl/judgments/135550
+119|2012-09-04|SO|I ACz 1227/12|Postanowienie|47|https://www.saos.org.pl/judgments/119
+57050|2014-07-31|SO|VI Gz 187/14|Postanowienie|31|https://www.saos.org.pl/judgments/57050
+53118|2014-07-09|SO|V Cz 505/14|Postanowienie|31|https://www.saos.org.pl/judgments/53118

@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-372448|2018-03-29|SO|II Kop 16/18|Postanowienie|https://www.saos.org.pl/judgments/372448
-234698|2016-07-05|SO|II AKz 227/16|Postanowienie|https://www.saos.org.pl/judgments/234698
-143395|2014-02-18|SO|II AKz 56/14|Postanowienie|https://www.saos.org.pl/judgments/143395
-28821|2013-10-31|SO|VI Ka 386/13|Wyrok|https://www.saos.org.pl/judgments/28821
-135683|2012-09-25|SO|II AKz 136/12|Postanowienie|https://www.saos.org.pl/judgments/135683
-136014|2012-01-05|SO|II AKz 3/12|Postanowienie|https://www.saos.org.pl/judgments/136014
+saos_id|date|court|case_number|type|score|saos_url
+234698|2016-07-05|SO|II AKz 227/16|Postanowienie|47|https://www.saos.org.pl/judgments/234698
+143395|2014-02-18|SO|II AKz 56/14|Postanowienie|47|https://www.saos.org.pl/judgments/143395
+135683|2012-09-25|SO|II AKz 136/12|Postanowienie|47|https://www.saos.org.pl/judgments/135683
+136014|2012-01-05|SO|II AKz 3/12|Postanowienie|47|https://www.saos.org.pl/judgments/136014
+28821|2013-10-31|SO|VI Ka 386/13|Wyrok|40|https://www.saos.org.pl/judgments/28821

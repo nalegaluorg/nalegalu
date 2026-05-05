@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-524033|2024-08-27|SO|VIII U 686/23|Uzasadnienie|https://www.saos.org.pl/judgments/524033
-369560|2019-01-28|SO|III AUz 3/19|Postanowienie|https://www.saos.org.pl/judgments/369560
-369561|2018-12-13|SO|III AUz 87/18|Postanowienie|https://www.saos.org.pl/judgments/369561
-292159|2017-06-08|SO|IV U 233/17|Wyrok|https://www.saos.org.pl/judgments/292159
+saos_id|date|court|case_number|type|score|saos_url
+369560|2019-01-28|SO|III AUz 3/19|Postanowienie|47|https://www.saos.org.pl/judgments/369560
+369561|2018-12-13|SO|III AUz 87/18|Postanowienie|47|https://www.saos.org.pl/judgments/369561
+524033|2024-08-27|SO|VIII U 686/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/524033

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-370368|2018-10-29|SO|II Ca 404/18|Wyrok|https://www.saos.org.pl/judgments/370368
-91023|2009-10-15|SN|I CSK 107/09|Wyrok|https://www.saos.org.pl/judgments/91023
+saos_id|date|court|case_number|type|score|saos_url
+91023|2009-10-15|SN|I CSK 107/09|Wyrok|78|https://www.saos.org.pl/judgments/91023

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-494872|2022-12-15|SO|I AGa 118/22|Wyrok|https://www.saos.org.pl/judgments/494872
-187075|2015-09-29|SO|V ACa 590/15|Wyrok|https://www.saos.org.pl/judgments/187075
-69285|2014-04-15|SO|VI ACa 1308/13|Wyrok|https://www.saos.org.pl/judgments/69285
-45102|2014-04-08|SO|V ACa 825/13|Wyrok|https://www.saos.org.pl/judgments/45102
-14121|2013-04-23|SO|I ACa 1421/12|Wyrok|https://www.saos.org.pl/judgments/14121
+saos_id|date|court|case_number|type|score|saos_url
+494872|2022-12-15|SO|I AGa 118/22|Wyrok|56|https://www.saos.org.pl/judgments/494872
+187075|2015-09-29|SO|V ACa 590/15|Wyrok|56|https://www.saos.org.pl/judgments/187075
+69285|2014-04-15|SO|VI ACa 1308/13|Wyrok|56|https://www.saos.org.pl/judgments/69285
+45102|2014-04-08|SO|V ACa 825/13|Wyrok|56|https://www.saos.org.pl/judgments/45102
+14121|2013-04-23|SO|I ACa 1421/12|Wyrok|56|https://www.saos.org.pl/judgments/14121

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-251209|2016-06-15|SO|I C 1636/15|Wyrok|https://www.saos.org.pl/judgments/251209
-85950|2007-05-24|SN|V CZ 42/07|Postanowienie|https://www.saos.org.pl/judgments/85950
+saos_id|date|court|case_number|type|score|saos_url
+85950|2007-05-24|SN|V CZ 42/07|Postanowienie|69|https://www.saos.org.pl/judgments/85950

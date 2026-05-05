@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-420545|2020-09-22|SO|II Kzw 68/20|Postanowienie|https://www.saos.org.pl/judgments/420545
-380234|2019-03-29|SO|VII Kzw 64/19|Postanowienie|https://www.saos.org.pl/judgments/380234
-262833|2016-11-30|SO|IV Ka 585/16|Uzasadnienie|https://www.saos.org.pl/judgments/262833
-230800|2016-04-27|SO|II AKa 49/16|Wyrok|https://www.saos.org.pl/judgments/230800
-313135|2015-12-22|SO|II AKa 124/15|Uzasadnienie|https://www.saos.org.pl/judgments/313135
-186350|2015-10-09|SO|IV Ka 449/15|Uzasadnienie|https://www.saos.org.pl/judgments/186350
-168849|2015-04-16|SN|V KK 407/14|Wyrok|https://www.saos.org.pl/judgments/168849
-55449|2014-06-05|SO|IV Kzw 386/14|Postanowienie|https://www.saos.org.pl/judgments/55449
-36935|2013-12-30|SO|II Kzw 309/13|Postanowienie|https://www.saos.org.pl/judgments/36935
-136349|2012-11-21|SO|II AKa 244/12|Wyrok|https://www.saos.org.pl/judgments/136349
-106774|2004-05-17|TK|SK 32/03|Wyrok|https://www.saos.org.pl/judgments/106774
+saos_id|date|court|case_number|type|score|saos_url
+106774|2004-05-17|TK|SK 32/03|Wyrok|98|https://www.saos.org.pl/judgments/106774
+168849|2015-04-16|SN|V KK 407/14|Wyrok|78|https://www.saos.org.pl/judgments/168849
+230800|2016-04-27|SO|II AKa 49/16|Wyrok|56|https://www.saos.org.pl/judgments/230800
+136349|2012-11-21|SO|II AKa 244/12|Wyrok|56|https://www.saos.org.pl/judgments/136349
+313135|2015-12-22|SO|II AKa 124/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/313135
+380234|2019-03-29|SO|VII Kzw 64/19|Postanowienie|31|https://www.saos.org.pl/judgments/380234

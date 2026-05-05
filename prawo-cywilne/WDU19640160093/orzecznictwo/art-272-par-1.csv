@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-512870|2022-08-23|SO|VIII Ns 639/21|Postanowienie|https://www.saos.org.pl/judgments/512870
-287963|2017-01-04|SO|I Ns 499/15|Uzasadnienie|https://www.saos.org.pl/judgments/287963
-262486|2016-12-09|SO|IV Ca 600/16|Wyrok|https://www.saos.org.pl/judgments/262486
-15227|2012-12-07|SO|V GC 409/12|Wyrok|https://www.saos.org.pl/judgments/15227
+saos_id|date|court|case_number|type|score|saos_url
+15227|2012-12-07|SO|V GC 409/12|Wyrok|40|https://www.saos.org.pl/judgments/15227
+512870|2022-08-23|SO|VIII Ns 639/21|Postanowienie|31|https://www.saos.org.pl/judgments/512870

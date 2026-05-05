@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-169164|2015-06-10|SO|I ACa 47/15|Wyrok|https://www.saos.org.pl/judgments/169164
-132790|2015-02-11|SO|I ACa 738/14|Wyrok|https://www.saos.org.pl/judgments/132790
-51889|2014-04-09|SO|I ACa 700/13|Wyrok|https://www.saos.org.pl/judgments/51889
+saos_id|date|court|case_number|type|score|saos_url
+169164|2015-06-10|SO|I ACa 47/15|Wyrok|56|https://www.saos.org.pl/judgments/169164
+132790|2015-02-11|SO|I ACa 738/14|Wyrok|56|https://www.saos.org.pl/judgments/132790
+51889|2014-04-09|SO|I ACa 700/13|Wyrok|56|https://www.saos.org.pl/judgments/51889

@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-460665|2021-06-15|SO|III AUz 61/21|Postanowienie|https://www.saos.org.pl/judgments/460665
-430352|2020-07-01|SO|XVII AmT 130/18|Wyrok|https://www.saos.org.pl/judgments/430352
-373622|2018-12-21|SO|V ACa 1516/17|Wyrok|https://www.saos.org.pl/judgments/373622
-343089|2018-05-21|SO|V AGa 90/18|Wyrok|https://www.saos.org.pl/judgments/343089
-227068|2016-05-09|SO|I C 1088/15|Wyrok|https://www.saos.org.pl/judgments/227068
-188215|2015-11-12|SO|VII Pa 222/15|Uzasadnienie|https://www.saos.org.pl/judgments/188215
-110900|2012-10-16|TK|K 4/10|Wyrok|https://www.saos.org.pl/judgments/110900
-109677|2010-03-16|TK|K 24/08|Wyrok|https://www.saos.org.pl/judgments/109677
+saos_id|date|court|case_number|type|score|saos_url
+110900|2012-10-16|TK|K 4/10|Wyrok|98|https://www.saos.org.pl/judgments/110900
+109677|2010-03-16|TK|K 24/08|Wyrok|98|https://www.saos.org.pl/judgments/109677
+373622|2018-12-21|SO|V ACa 1516/17|Wyrok|56|https://www.saos.org.pl/judgments/373622
+343089|2018-05-21|SO|V AGa 90/18|Wyrok|56|https://www.saos.org.pl/judgments/343089
+460665|2021-06-15|SO|III AUz 61/21|Postanowienie|47|https://www.saos.org.pl/judgments/460665
+188215|2015-11-12|SO|VII Pa 222/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188215

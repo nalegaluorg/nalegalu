@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-281057|2017-03-21|SO|V Ka 1682/16|Uzasadnienie|https://www.saos.org.pl/judgments/281057
-64851|2014-10-09|SO|II Cz 1786/14|Postanowienie|https://www.saos.org.pl/judgments/64851
-13026|2013-06-14|SO|VIII Cz 313/13|Postanowienie|https://www.saos.org.pl/judgments/13026
-6590|2013-03-14|SO|IV Cz 116/13|Postanowienie|https://www.saos.org.pl/judgments/6590
-82024|2003-05-20|SN|III CZP 24/03|Uchwała|https://www.saos.org.pl/judgments/82024
+saos_id|date|court|case_number|type|score|saos_url
+82024|2003-05-20|SN|III CZP 24/03|Uchwała|89|https://www.saos.org.pl/judgments/82024
+281057|2017-03-21|SO|V Ka 1682/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281057

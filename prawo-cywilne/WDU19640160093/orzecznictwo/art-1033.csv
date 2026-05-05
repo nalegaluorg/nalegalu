@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-102881|2013-09-20|SN|II CSK 42/13|Wyrok|https://www.saos.org.pl/judgments/102881
-100949|2013-03-07|SN|II CSK 486/12|Wyrok|https://www.saos.org.pl/judgments/100949
+saos_id|date|court|case_number|type|score|saos_url
+102881|2013-09-20|SN|II CSK 42/13|Wyrok|78|https://www.saos.org.pl/judgments/102881
+100949|2013-03-07|SN|II CSK 486/12|Wyrok|78|https://www.saos.org.pl/judgments/100949

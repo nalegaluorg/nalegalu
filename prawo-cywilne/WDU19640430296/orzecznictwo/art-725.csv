@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-395109|2019-01-30|SO|I AGa 257/18|Wyrok|https://www.saos.org.pl/judgments/395109
-283802|2016-12-27|SO|II AKa 163/16|Wyrok|https://www.saos.org.pl/judgments/283802
-85076|2007-01-24|SN|III CZP 147/06|Uchwała|https://www.saos.org.pl/judgments/85076
+saos_id|date|court|case_number|type|score|saos_url
+85076|2007-01-24|SN|III CZP 147/06|Uchwała|89|https://www.saos.org.pl/judgments/85076
+395109|2019-01-30|SO|I AGa 257/18|Wyrok|56|https://www.saos.org.pl/judgments/395109
+283802|2016-12-27|SO|II AKa 163/16|Wyrok|56|https://www.saos.org.pl/judgments/283802

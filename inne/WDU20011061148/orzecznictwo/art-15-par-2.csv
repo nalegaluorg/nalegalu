@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101284|2013-04-04|SN|II KZ 9/13|Postanowienie|https://www.saos.org.pl/judgments/101284
+saos_id|date|court|case_number|type|score|saos_url
+101284|2013-04-04|SN|II KZ 9/13|Postanowienie|69|https://www.saos.org.pl/judgments/101284

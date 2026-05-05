@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-327217|2017-11-24|SO|II W 62/17|Uzasadnienie|https://www.saos.org.pl/judgments/327217
-158759|2015-06-15|SO|II W 47/15|Wyrok|https://www.saos.org.pl/judgments/158759
+saos_id|date|court|case_number|type|score|saos_url
+158759|2015-06-15|SO|II W 47/15|Wyrok|40|https://www.saos.org.pl/judgments/158759

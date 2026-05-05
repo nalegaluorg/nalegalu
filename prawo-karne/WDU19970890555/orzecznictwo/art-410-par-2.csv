@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-446863|2019-07-24|SO|II AKa 82/18|Wyrok|https://www.saos.org.pl/judgments/446863
-419804|2018-05-29|SO|XI Ka 422/18|Wyrok|https://www.saos.org.pl/judgments/419804
-169103|2015-05-28|SN|SNO 26/15|Uchwała|https://www.saos.org.pl/judgments/169103
-150199|2015-04-01|SO|IV Ka 227/15|Wyrok|https://www.saos.org.pl/judgments/150199
+saos_id|date|court|case_number|type|score|saos_url
+169103|2015-05-28|SN|SNO 26/15|Uchwała|89|https://www.saos.org.pl/judgments/169103
+446863|2019-07-24|SO|II AKa 82/18|Wyrok|56|https://www.saos.org.pl/judgments/446863
+150199|2015-04-01|SO|IV Ka 227/15|Wyrok|40|https://www.saos.org.pl/judgments/150199

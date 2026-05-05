@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego*
 
-Łącznie: **17** orzeczeń
+Łącznie: **14** orzeczeń
+(pominięto 3 orzeczeń sądów rejonowych)
 
 ## art. 2 (1)
 
@@ -21,13 +22,11 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacz
 - 2018-12-20 | SO | [III AUa 1673/18](https://www.saos.org.pl/judgments/446890) | Wyrok
 - 2018-12-17 | SO | [III APo 20/18](https://www.saos.org.pl/judgments/378451) | Wyrok
 - 2018-09-26 | SO | [III AUa 1972/17](https://www.saos.org.pl/judgments/489960) | Wyrok
-- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 - 2013-03-12 | SO | [III APa 5/13](https://www.saos.org.pl/judgments/8947) | Wyrok
+- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 
-## art. 15 (3)
+## art. 15 (1)
 
-- 2018-02-06 | SO | [I C 693/16](https://www.saos.org.pl/judgments/332376) | Postanowienie
-- 2016-07-20 | SO | [II Ca 272/16](https://www.saos.org.pl/judgments/239918) | Wyrok
 - 2013-03-12 | SO | [III APa 5/13](https://www.saos.org.pl/judgments/8947) | Wyrok
 
 ## art. 16 (2)
@@ -37,8 +36,8 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacz
 
 ## art. 17 (2)
 
-- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 - 2013-03-12 | SO | [III APa 5/13](https://www.saos.org.pl/judgments/8947) | Wyrok
+- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 
 ## art. 18 (1)
 
@@ -51,8 +50,8 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacz
 ## art. 21 (3)
 
 - 2018-12-17 | SO | [III APo 20/18](https://www.saos.org.pl/judgments/378451) | Wyrok
-- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 - 2013-03-12 | SO | [III APa 5/13](https://www.saos.org.pl/judgments/8947) | Wyrok
+- 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
 
 ## art. 22 (1)
 
@@ -72,10 +71,10 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacz
 
 ## art. 26 (4)
 
+- 2011-03-07 | TK | [Ts 205/10](https://www.saos.org.pl/judgments/110672) | Postanowienie ★
+- 2010-10-27 | TK | [Ts 205/10](https://www.saos.org.pl/judgments/110021) | Postanowienie ★
 - 2018-12-17 | SO | [III APo 20/18](https://www.saos.org.pl/judgments/378451) | Wyrok
 - 2017-01-31 | SO | [III APo 4/16](https://www.saos.org.pl/judgments/279743) | Postanowienie
-- 2011-03-07 | TK | [Ts 205/10](https://www.saos.org.pl/judgments/110672) | Postanowienie
-- 2010-10-27 | TK | [Ts 205/10](https://www.saos.org.pl/judgments/110021) | Postanowienie
 
 ## art. 28 (2)
 
@@ -84,15 +83,14 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zawodzie tłumacz
 
 ## art. 33 (1)
 
-- 2008-05-13 | TK | [SK 91/06](https://www.saos.org.pl/judgments/108684) | Wyrok
+- 2008-05-13 | TK | [SK 91/06](https://www.saos.org.pl/judgments/108684) | Wyrok ★
 
 ## art. 35 (1)
 
-- 2008-05-13 | TK | [SK 91/06](https://www.saos.org.pl/judgments/108684) | Wyrok
+- 2008-05-13 | TK | [SK 91/06](https://www.saos.org.pl/judgments/108684) | Wyrok ★
 
-## (ogólnie) (3)
+## (ogólnie) (2)
 
-- 2016-11-14 | SO | [V Pz 21/16](https://www.saos.org.pl/judgments/255288) | Postanowienie
 - 2016-01-12 | SO | [V ACa 87/15](https://www.saos.org.pl/judgments/483059) | Wyrok
 - 2013-03-12 | SO | [III APa 5/13](https://www.saos.org.pl/judgments/8947) | Wyrok
 

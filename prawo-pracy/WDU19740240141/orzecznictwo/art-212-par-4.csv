@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93607|2010-12-03|SN|I PK 124/10|Wyrok|https://www.saos.org.pl/judgments/93607
+saos_id|date|court|case_number|type|score|saos_url
+93607|2010-12-03|SN|I PK 124/10|Wyrok|78|https://www.saos.org.pl/judgments/93607

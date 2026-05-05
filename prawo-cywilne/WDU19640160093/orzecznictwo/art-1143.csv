@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-121113|2012-10-08|KIO|KIO 2036/12|Wyrok|https://www.saos.org.pl/judgments/121113
+saos_id|date|court|case_number|type|score|saos_url
+121113|2012-10-08|KIO|KIO 2036/12|Wyrok|44|https://www.saos.org.pl/judgments/121113

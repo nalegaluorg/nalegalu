@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-25183|2013-10-11|SO|VIII Ga 16/13|Uzasadnienie|https://www.saos.org.pl/judgments/25183
-98460|2012-06-22|SN|V CSK 282/11|Wyrok|https://www.saos.org.pl/judgments/98460
+saos_id|date|court|case_number|type|score|saos_url
+98460|2012-06-22|SN|V CSK 282/11|Wyrok|78|https://www.saos.org.pl/judgments/98460

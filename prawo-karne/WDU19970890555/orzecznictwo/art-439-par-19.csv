@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-81019|2001-11-21|SN|III KKN 81/01|Wyrok|https://www.saos.org.pl/judgments/81019
+saos_id|date|court|case_number|type|score|saos_url
+81019|2001-11-21|SN|III KKN 81/01|Wyrok|78|https://www.saos.org.pl/judgments/81019

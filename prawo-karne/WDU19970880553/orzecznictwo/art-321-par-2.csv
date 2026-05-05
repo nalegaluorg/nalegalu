@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-436710|2021-03-01|SO|VII Ka 878/20|Wyrok|https://www.saos.org.pl/judgments/436710
-153744|2015-01-27|SO|II AKa 415/14|Wyrok|https://www.saos.org.pl/judgments/153744
+saos_id|date|court|case_number|type|score|saos_url
+153744|2015-01-27|SO|II AKa 415/14|Wyrok|56|https://www.saos.org.pl/judgments/153744

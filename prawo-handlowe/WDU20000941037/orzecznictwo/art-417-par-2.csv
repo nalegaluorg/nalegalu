@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-357076|2016-09-14|SO|XVI GC 52/15|Wyrok|https://www.saos.org.pl/judgments/357076
-54711|2014-06-27|SO|V GC 125/14|Wyrok|https://www.saos.org.pl/judgments/54711
-87374|2008-02-20|SN|II CSK 441/07|Wyrok|https://www.saos.org.pl/judgments/87374
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+87374|2008-02-20|SN|II CSK 441/07|Wyrok|78|https://www.saos.org.pl/judgments/87374

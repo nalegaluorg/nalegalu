@@ -10,20 +10,20 @@ Akty z największą liczbą powiązanych orzeczeń sądowych:
 
 | Akt | Orzeczeń | Orzecznictwo |
 |-----|---:|---|
-| [Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.](prawo-cywilne/WDU19640430296/index.md) | 344 783 | [orzecznictwo.md](prawo-cywilne/WDU19640430296/orzecznictwo.md) |
-| [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.](prawo-cywilne/WDU19640160093/index.md) | 232 159 | [orzecznictwo.md](prawo-cywilne/WDU19640160093/orzecznictwo.md) |
-| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny.](prawo-karne/WDU19970880553/index.md) | 106 591 | [orzecznictwo.md](prawo-karne/WDU19970880553/orzecznictwo.md) |
-| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.](prawo-karne/WDU19970890555/index.md) | 97 145 | [orzecznictwo.md](prawo-karne/WDU19970890555/orzecznictwo.md) |
-| [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.](prawo-konstytucyjne/WDU19970780483/index.md) | 47 157 | [orzecznictwo.md](prawo-konstytucyjne/WDU19970780483/orzecznictwo.md) |
-| [Ustawa z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ub](inne/WDU19981621118/index.md) | 40 625 | [orzecznictwo.md](inne/WDU19981621118/orzecznictwo.md) |
-| [Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy.](prawo-pracy/WDU19740240141/index.md) | 40 534 | [orzecznictwo.md](prawo-pracy/WDU19740240141/orzecznictwo.md) |
-| [Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnyc](inne/WDU20051671398/index.md) | 33 840 | [orzecznictwo.md](inne/WDU20051671398/orzecznictwo.md) |
-| [Ustawa z dnia 23 czerwca 1973 r. o opłatach w sprawach karnych.](inne/WDU19730270152/index.md) | 29 074 | [orzecznictwo.md](inne/WDU19730270152/orzecznictwo.md) |
-| [Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społeczny](inne/WDU19981370887/index.md) | 25 800 | [orzecznictwo.md](inne/WDU19981370887/orzecznictwo.md) |
+| [Ustawa z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego.](prawo-cywilne/WDU19640430296/index.md) | 171 932 | [orzecznictwo.md](prawo-cywilne/WDU19640430296/orzecznictwo.md) |
+| [Ustawa z dnia 23 kwietnia 1964 r. - Kodeks cywilny.](prawo-cywilne/WDU19640160093/index.md) | 114 790 | [orzecznictwo.md](prawo-cywilne/WDU19640160093/orzecznictwo.md) |
+| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks karny.](prawo-karne/WDU19970880553/index.md) | 43 300 | [orzecznictwo.md](prawo-karne/WDU19970880553/orzecznictwo.md) |
+| [Ustawa z dnia 6 czerwca 1997 r. - Kodeks postępowania karnego.](prawo-karne/WDU19970890555/index.md) | 39 899 | [orzecznictwo.md](prawo-karne/WDU19970890555/orzecznictwo.md) |
+| [Konstytucja Rzeczypospolitej Polskiej z dnia 2 kwietnia 1997 r.](prawo-konstytucyjne/WDU19970780483/index.md) | 33 445 | [orzecznictwo.md](prawo-konstytucyjne/WDU19970780483/orzecznictwo.md) |
+| [Ustawa z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ub](inne/WDU19981621118/index.md) | 22 969 | [orzecznictwo.md](inne/WDU19981621118/orzecznictwo.md) |
+| [Ustawa z dnia 26 czerwca 1974 r. Kodeks pracy.](prawo-pracy/WDU19740240141/index.md) | 21 714 | [orzecznictwo.md](prawo-pracy/WDU19740240141/orzecznictwo.md) |
+| [Ustawa z dnia 13 października 1998 r. o systemie ubezpieczeń społeczny](inne/WDU19981370887/index.md) | 17 612 | [orzecznictwo.md](inne/WDU19981370887/orzecznictwo.md) |
+| [Ustawa z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnyc](inne/WDU20051671398/index.md) | 12 435 | [orzecznictwo.md](inne/WDU20051671398/orzecznictwo.md) |
+| [Ustawa z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego](prawo-administracyjne/WDU19600300168/index.md) | 9 155 | [orzecznictwo.md](prawo-administracyjne/WDU19600300168/orzecznictwo.md) |
 
 ## Orzecznictwo
 
-Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **1 332 970** powiązań między orzeczeniami a aktami prawnymi.
+Repozytorium zawiera kompaktowe indeksy orzecznictwa — łącznie **649 792** powiązań między orzeczeniami a aktami prawnymi.
 
 Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznictwo.md` z listą cytujących orzeczeń pogrupowanych wg artykułu. Dla największych aktów (np. Kodeks cywilny) orzecznictwo jest podzielone na osobne pliki per artykuł.
 

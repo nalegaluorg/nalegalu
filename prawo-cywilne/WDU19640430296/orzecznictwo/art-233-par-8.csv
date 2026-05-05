@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-485867|2023-01-26|SO|II Ca 919/22|Wyrok|https://www.saos.org.pl/judgments/485867
+saos_id|date|court|case_number|type|score|saos_url
+485867|2023-01-26|SO|II Ca 919/22|Wyrok|40|https://www.saos.org.pl/judgments/485867

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163897|2005-12-20|SN|V CK 413/05|Wyrok|https://www.saos.org.pl/judgments/163897
+saos_id|date|court|case_number|type|score|saos_url
+163897|2005-12-20|SN|V CK 413/05|Wyrok|78|https://www.saos.org.pl/judgments/163897

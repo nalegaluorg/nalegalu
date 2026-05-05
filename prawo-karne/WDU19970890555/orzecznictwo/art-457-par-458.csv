@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-100739|2013-02-12|SN|III KK 350/12|Postanowienie|https://www.saos.org.pl/judgments/100739
-93938|2011-01-19|SN|II KK 200/10|Postanowienie|https://www.saos.org.pl/judgments/93938
+saos_id|date|court|case_number|type|score|saos_url
+100739|2013-02-12|SN|III KK 350/12|Postanowienie|69|https://www.saos.org.pl/judgments/100739
+93938|2011-01-19|SN|II KK 200/10|Postanowienie|69|https://www.saos.org.pl/judgments/93938

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-327971|2017-12-07|SO|III Ca 399/17|Wyrok|https://www.saos.org.pl/judgments/327971
-294047|2017-06-06|SO|I C 125/16|Wyrok|https://www.saos.org.pl/judgments/294047
-232278|2016-03-24|SO|V GC 85/16|Wyrok|https://www.saos.org.pl/judgments/232278
-94769|2011-04-13|SN|V CSK 334/10|Wyrok|https://www.saos.org.pl/judgments/94769
+saos_id|date|court|case_number|type|score|saos_url
+94769|2011-04-13|SN|V CSK 334/10|Wyrok|78|https://www.saos.org.pl/judgments/94769

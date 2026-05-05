@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-186570|2015-10-23|SO|IV Pa 56/15|Wyrok|https://www.saos.org.pl/judgments/186570
-86381|2007-08-03|SN|I PK 78/07|Wyrok|https://www.saos.org.pl/judgments/86381
+saos_id|date|court|case_number|type|score|saos_url
+86381|2007-08-03|SN|I PK 78/07|Wyrok|78|https://www.saos.org.pl/judgments/86381

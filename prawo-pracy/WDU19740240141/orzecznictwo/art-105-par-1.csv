@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-348456|2018-05-18|SO|XVII AmA 4/15|Wyrok|https://www.saos.org.pl/judgments/348456
-166999|2014-10-07|SN|V KK 200/14|Wyrok|https://www.saos.org.pl/judgments/166999
-89931|2009-03-26|SN|I KZP 39/08|Postanowienie|https://www.saos.org.pl/judgments/89931
+saos_id|date|court|case_number|type|score|saos_url
+166999|2014-10-07|SN|V KK 200/14|Wyrok|78|https://www.saos.org.pl/judgments/166999
+89931|2009-03-26|SN|I KZP 39/08|Postanowienie|69|https://www.saos.org.pl/judgments/89931

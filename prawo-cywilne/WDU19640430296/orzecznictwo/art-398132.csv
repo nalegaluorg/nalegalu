@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-242750|2015-06-17|SN|I CSK 309/14|Postanowienie|https://www.saos.org.pl/judgments/242750
-95548|2011-08-03|SN|I PK 36/11|Wyrok|https://www.saos.org.pl/judgments/95548
-92803|2010-08-24|SN|I PK 36/10|Wyrok|https://www.saos.org.pl/judgments/92803
+saos_id|date|court|case_number|type|score|saos_url
+95548|2011-08-03|SN|I PK 36/11|Wyrok|78|https://www.saos.org.pl/judgments/95548
+92803|2010-08-24|SN|I PK 36/10|Wyrok|78|https://www.saos.org.pl/judgments/92803
+242750|2015-06-17|SN|I CSK 309/14|Postanowienie|69|https://www.saos.org.pl/judgments/242750

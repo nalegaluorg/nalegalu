@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-333622|2017-12-28|SO|II AKa 203/17|Wyrok|https://www.saos.org.pl/judgments/333622
-271109|2017-02-17|SO|IV K 166/11|Uzasadnienie|https://www.saos.org.pl/judgments/271109
-271110|2016-10-05|SO|IV K 166/11|Wyrok|https://www.saos.org.pl/judgments/271110
-137244|2013-01-30|SO|II AKa 387/12|Wyrok|https://www.saos.org.pl/judgments/137244
-99502|2012-10-29|SN|I KZP 17/12|Uchwała|https://www.saos.org.pl/judgments/99502
+saos_id|date|court|case_number|type|score|saos_url
+99502|2012-10-29|SN|I KZP 17/12|Uchwała|96|https://www.saos.org.pl/judgments/99502
+333622|2017-12-28|SO|II AKa 203/17|Wyrok|56|https://www.saos.org.pl/judgments/333622
+137244|2013-01-30|SO|II AKa 387/12|Wyrok|56|https://www.saos.org.pl/judgments/137244
+271110|2016-10-05|SO|IV K 166/11|Wyrok|40|https://www.saos.org.pl/judgments/271110
+271109|2017-02-17|SO|IV K 166/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/271109

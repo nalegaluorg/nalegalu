@@ -1,21 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-470433|2021-09-08|SO|II S 19/21|Postanowienie|https://www.saos.org.pl/judgments/470433
-402222|2019-07-10|SO|II K 5/19|Wyrok|https://www.saos.org.pl/judgments/402222
-371388|2018-07-31|SO|II W 1006/17|Wyrok|https://www.saos.org.pl/judgments/371388
-325951|2018-01-11|SO|II S 3/17|Postanowienie|https://www.saos.org.pl/judgments/325951
-319263|2017-11-08|SO|IV Ka 644/17|Wyrok|https://www.saos.org.pl/judgments/319263
-290108|2017-06-01|SO|II W 333/16|Wyrok|https://www.saos.org.pl/judgments/290108
-298641|2017-04-06|SO|II W 1641/16|Wyrok|https://www.saos.org.pl/judgments/298641
-318831|2017-02-14|SO|VI W 1584/16|Wyrok|https://www.saos.org.pl/judgments/318831
-250042|2016-10-11|SO|VII W 1251/15|Wyrok|https://www.saos.org.pl/judgments/250042
-249049|2016-09-23|SO|VII W 2892/15|Wyrok|https://www.saos.org.pl/judgments/249049
-248995|2016-09-05|SO|II W 239/15|Wyrok|https://www.saos.org.pl/judgments/248995
-241809|2016-08-08|SO|VII W 210/16|Wyrok|https://www.saos.org.pl/judgments/241809
-249420|2016-07-14|SO|VI Ka 260/16|Wyrok|https://www.saos.org.pl/judgments/249420
-226557|2016-04-07|SO|II W 393/15|Wyrok|https://www.saos.org.pl/judgments/226557
-225122|2016-01-29|SO|II W 588/14|Wyrok|https://www.saos.org.pl/judgments/225122
-180869|2015-09-16|SO|VII W 3/15|Wyrok|https://www.saos.org.pl/judgments/180869
-30570|2013-10-30|SO|VII Ka 903/13|Wyrok|https://www.saos.org.pl/judgments/30570
-15079|2013-04-23|SO|IX Kz 111/13|Postanowienie|https://www.saos.org.pl/judgments/15079
-94292|2011-02-25|SN|SDI 3/11|Wyrok|https://www.saos.org.pl/judgments/94292
-82574|2004-03-23|SN|WZ 24/04|Postanowienie|https://www.saos.org.pl/judgments/82574
+saos_id|date|court|case_number|type|score|saos_url
+94292|2011-02-25|SN|SDI 3/11|Wyrok|78|https://www.saos.org.pl/judgments/94292
+82574|2004-03-23|SN|WZ 24/04|Postanowienie|69|https://www.saos.org.pl/judgments/82574
+470433|2021-09-08|SO|II S 19/21|Postanowienie|47|https://www.saos.org.pl/judgments/470433
+248995|2016-09-05|SO|II W 239/15|Wyrok|40|https://www.saos.org.pl/judgments/248995
+249420|2016-07-14|SO|VI Ka 260/16|Wyrok|40|https://www.saos.org.pl/judgments/249420

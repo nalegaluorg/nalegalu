@@ -1,2 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-381083|2019-03-11|SO|XII 1Co 1703/18|Postanowienie|https://www.saos.org.pl/judgments/381083
+saos_id|date|court|case_number|type|score|saos_url
+96083|2011-10-20|SN|IV CSK 653/10|Postanowienie|69|https://www.saos.org.pl/judgments/96083
+41948|2014-02-12|SO|I ACa 1042/13|Wyrok|56|https://www.saos.org.pl/judgments/41948
+136476|2013-01-07|SO|II AKzw 1483/12|Postanowienie|47|https://www.saos.org.pl/judgments/136476
+203348|2015-12-18|SO|IV RC 353/15|Wyrok|40|https://www.saos.org.pl/judgments/203348
+43121|2014-02-18|SO|II Cz 2177/13|Postanowienie|31|https://www.saos.org.pl/judgments/43121
+477558|2022-08-31|SO|III Ca 173/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/477558
+322592|2017-12-28|SO|IV Ca 151/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/322592
+193873|2015-11-17|SO|III Ca 1278/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193873
+185432|2015-06-19|SO|III Ca 748/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185432
+174537|2015-04-29|SO|III Ca 442/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174537
+174533|2015-04-29|SO|III Ca 440/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174533
+174540|2015-04-21|SO|III Ca 444/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174540
+174538|2015-04-21|SO|III Ca 443/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174538
+174534|2015-04-21|SO|III Ca 441/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174534
+60617|2014-06-23|SO|III Ca 716/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60617

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-335604|2018-03-16|SO|I ACa 936/17|Wyrok|https://www.saos.org.pl/judgments/335604
-244813|2016-03-11|SN|I CSK 144/15|Wyrok|https://www.saos.org.pl/judgments/244813
-33663|2013-12-06|SO|VI ACa 322/13|Wyrok|https://www.saos.org.pl/judgments/33663
-29547|2013-09-18|SO|VI ACa 1044/12|Wyrok|https://www.saos.org.pl/judgments/29547
+saos_id|date|court|case_number|type|score|saos_url
+244813|2016-03-11|SN|I CSK 144/15|Wyrok|78|https://www.saos.org.pl/judgments/244813
+335604|2018-03-16|SO|I ACa 936/17|Wyrok|56|https://www.saos.org.pl/judgments/335604
+33663|2013-12-06|SO|VI ACa 322/13|Wyrok|56|https://www.saos.org.pl/judgments/33663
+29547|2013-09-18|SO|VI ACa 1044/12|Wyrok|56|https://www.saos.org.pl/judgments/29547

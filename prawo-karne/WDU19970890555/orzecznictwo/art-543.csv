@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-138836|2013-03-26|SO|II AKz 85/13|Postanowienie|https://www.saos.org.pl/judgments/138836
-29531|2012-03-06|SO|I ACa 952/11|Wyrok|https://www.saos.org.pl/judgments/29531
-85845|2007-05-07|SN|V KZ 24/07|Postanowienie|https://www.saos.org.pl/judgments/85845
-82216|2003-09-30|SN|I KZP 25/03|Uchwała|https://www.saos.org.pl/judgments/82216
+saos_id|date|court|case_number|type|score|saos_url
+82216|2003-09-30|SN|I KZP 25/03|Uchwała|89|https://www.saos.org.pl/judgments/82216
+85845|2007-05-07|SN|V KZ 24/07|Postanowienie|69|https://www.saos.org.pl/judgments/85845
+29531|2012-03-06|SO|I ACa 952/11|Wyrok|56|https://www.saos.org.pl/judgments/29531
+138836|2013-03-26|SO|II AKz 85/13|Postanowienie|47|https://www.saos.org.pl/judgments/138836

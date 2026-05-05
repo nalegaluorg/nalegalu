@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-349667|2017-04-19|SO|VIII C 965/16|Wyrok|https://www.saos.org.pl/judgments/349667
-249278|2016-08-31|SO|III Ca 735/16|Uzasadnienie|https://www.saos.org.pl/judgments/249278
+saos_id|date|court|case_number|type|score|saos_url
+249278|2016-08-31|SO|III Ca 735/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249278

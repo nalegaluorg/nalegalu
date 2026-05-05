@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-443551|2021-07-01|SO|I C 1143/20|Wyrok|https://www.saos.org.pl/judgments/443551
-419718|2020-07-17|SO|I Ca 92/20|Wyrok|https://www.saos.org.pl/judgments/419718
-383235|2019-06-05|SO|III Ca 809/18|Wyrok|https://www.saos.org.pl/judgments/383235
-377118|2019-03-20|SO|I C 384/18|Wyrok|https://www.saos.org.pl/judgments/377118
-359909|2018-06-04|SO|II Ca 1290/17|Zarządzenie|https://www.saos.org.pl/judgments/359909
-335381|2018-03-07|SO|I Ca 35/18|Wyrok|https://www.saos.org.pl/judgments/335381
-313324|2017-09-25|SO|III Ca 865/17|Uzasadnienie|https://www.saos.org.pl/judgments/313324
-228038|2015-10-22|SO|I C 205/15|Zarządzenie|https://www.saos.org.pl/judgments/228038
-277519|2015-03-04|SO|II C 3340/14|Zarządzenie|https://www.saos.org.pl/judgments/277519
-125725|2014-12-19|SO|I ACa 1057/13|Wyrok|https://www.saos.org.pl/judgments/125725
-59684|2014-07-30|SO|II C 1456/13|Uzasadnienie|https://www.saos.org.pl/judgments/59684
-25186|2013-09-27|SO|XII Ga 375/13|Postanowienie|https://www.saos.org.pl/judgments/25186
-14765|2013-06-18|SO|II Ca 349/13|Wyrok|https://www.saos.org.pl/judgments/14765
+saos_id|date|court|case_number|type|score|saos_url
+125725|2014-12-19|SO|I ACa 1057/13|Wyrok|56|https://www.saos.org.pl/judgments/125725
+313324|2017-09-25|SO|III Ca 865/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/313324
+59684|2014-07-30|SO|II C 1456/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/59684

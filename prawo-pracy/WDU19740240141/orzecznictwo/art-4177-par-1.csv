@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79230|1999-09-02|SN|I PKN 225/99|Wyrok|https://www.saos.org.pl/judgments/79230
+saos_id|date|court|case_number|type|score|saos_url
+79230|1999-09-02|SN|I PKN 225/99|Wyrok|78|https://www.saos.org.pl/judgments/79230

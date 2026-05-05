@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-295291|2017-07-18|SO|VIII GC 82/17|Uzasadnienie|https://www.saos.org.pl/judgments/295291
-164135|2006-03-23|SN|II CSK 76/05|Wyrok|https://www.saos.org.pl/judgments/164135
-83579|2005-07-06|SN|III PK 52/05|Wyrok|https://www.saos.org.pl/judgments/83579
-80270|2001-01-25|SN|II CKN 1343/00|Postanowienie|https://www.saos.org.pl/judgments/80270
+saos_id|date|court|case_number|type|score|saos_url
+164135|2006-03-23|SN|II CSK 76/05|Wyrok|78|https://www.saos.org.pl/judgments/164135
+83579|2005-07-06|SN|III PK 52/05|Wyrok|78|https://www.saos.org.pl/judgments/83579
+80270|2001-01-25|SN|II CKN 1343/00|Postanowienie|69|https://www.saos.org.pl/judgments/80270

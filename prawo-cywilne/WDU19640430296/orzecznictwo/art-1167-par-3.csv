@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-155549|2015-05-08|SO|I ACa 255/15|Wyrok|https://www.saos.org.pl/judgments/155549
-58291|2013-11-12|SO|I ACz 1879/13|Postanowienie|https://www.saos.org.pl/judgments/58291
+saos_id|date|court|case_number|type|score|saos_url
+155549|2015-05-08|SO|I ACa 255/15|Wyrok|56|https://www.saos.org.pl/judgments/155549
+58291|2013-11-12|SO|I ACz 1879/13|Postanowienie|47|https://www.saos.org.pl/judgments/58291

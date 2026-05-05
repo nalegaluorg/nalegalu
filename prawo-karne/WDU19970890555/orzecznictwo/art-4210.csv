@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-375649|2019-03-14|SO|VI Ka 380/18|Wyrok|https://www.saos.org.pl/judgments/375649
-17156|2013-06-07|SO|IX Ka 1231/12|Wyrok|https://www.saos.org.pl/judgments/17156
+saos_id|date|court|case_number|type|score|saos_url
+375649|2019-03-14|SO|VI Ka 380/18|Wyrok|40|https://www.saos.org.pl/judgments/375649

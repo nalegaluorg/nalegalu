@@ -1,14 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-524404|2023-03-23|SO|VIII K 47/23|Wyrok|https://www.saos.org.pl/judgments/524404
-446803|2021-07-12|SO|VI K 328/21|Wyrok|https://www.saos.org.pl/judgments/446803
-400908|2019-03-28|SO|III K 721/16|Uzasadnienie|https://www.saos.org.pl/judgments/400908
-314033|2017-10-12|SO|XVII Ka 1018/17|Wyrok|https://www.saos.org.pl/judgments/314033
-300790|2017-03-30|SO|II K 403/16|Wyrok|https://www.saos.org.pl/judgments/300790
-305492|2016-10-26|SO|II K 277/16|Wyrok|https://www.saos.org.pl/judgments/305492
-275681|2016-09-28|SO|IV Ka 577/16|Wyrok|https://www.saos.org.pl/judgments/275681
-216321|2016-03-01|SO|VI Ka 1199/15|Wyrok|https://www.saos.org.pl/judgments/216321
-173314|2015-06-19|SO|III K 44/15|Wyrok|https://www.saos.org.pl/judgments/173314
-172720|2015-03-27|SO|II K 44/15|Wyrok|https://www.saos.org.pl/judgments/172720
-50483|2014-06-06|SO|II Ka 105/14|Wyrok|https://www.saos.org.pl/judgments/50483
-133548|2013-08-19|SO|X Ka 426/13|Uzasadnienie|https://www.saos.org.pl/judgments/133548
-88390|2008-06-30|SN|I KZP 10/08|Uchwała|https://www.saos.org.pl/judgments/88390
+saos_id|date|court|case_number|type|score|saos_url
+88390|2008-06-30|SN|I KZP 10/08|Uchwała|96|https://www.saos.org.pl/judgments/88390
+446803|2021-07-12|SO|VI K 328/21|Wyrok|40|https://www.saos.org.pl/judgments/446803
+314033|2017-10-12|SO|XVII Ka 1018/17|Wyrok|40|https://www.saos.org.pl/judgments/314033
+305492|2016-10-26|SO|II K 277/16|Wyrok|40|https://www.saos.org.pl/judgments/305492

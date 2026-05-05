@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-187865|2015-10-14|SO|VI P 569/14|Wyrok|https://www.saos.org.pl/judgments/187865
-5929|2013-02-14|SO|III APa 12/12|Wyrok|https://www.saos.org.pl/judgments/5929
-86534|2007-09-11|SN|II PK 13/07|Wyrok|https://www.saos.org.pl/judgments/86534
-82813|2004-09-10|SN|I PK 592/03|Wyrok|https://www.saos.org.pl/judgments/82813
+saos_id|date|court|case_number|type|score|saos_url
+86534|2007-09-11|SN|II PK 13/07|Wyrok|78|https://www.saos.org.pl/judgments/86534
+82813|2004-09-10|SN|I PK 592/03|Wyrok|78|https://www.saos.org.pl/judgments/82813
+5929|2013-02-14|SO|III APa 12/12|Wyrok|56|https://www.saos.org.pl/judgments/5929

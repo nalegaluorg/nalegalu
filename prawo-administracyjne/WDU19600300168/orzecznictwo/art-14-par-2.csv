@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-543992|2025-12-10|SO|XVII AmE 33/25|Wyrok|https://www.saos.org.pl/judgments/543992
-333912|2018-02-13|SO|XVII AmA 52/16|Wyrok|https://www.saos.org.pl/judgments/333912
-339031|2017-12-27|SO|VII ACa 1018/17|Wyrok|https://www.saos.org.pl/judgments/339031
-285106|2016-11-09|SO|I C 1215/14|Wyrok|https://www.saos.org.pl/judgments/285106
-232363|2016-04-26|SO|XVII AmA 29/15|Wyrok|https://www.saos.org.pl/judgments/232363
-184592|2015-10-09|SO|III AUa 674/15|Wyrok|https://www.saos.org.pl/judgments/184592
-35411|2014-02-10|SO|III AUz 3/14|Postanowienie|https://www.saos.org.pl/judgments/35411
-38213|2013-11-14|SO|I ACa 470/13|Wyrok|https://www.saos.org.pl/judgments/38213
-103450|2013-11-06|SN|IV CSK 125/13|Postanowienie|https://www.saos.org.pl/judgments/103450
-94140|2011-02-11|SN|I CSK 213/10|Postanowienie|https://www.saos.org.pl/judgments/94140
-163214|2005-05-06|SN|II CK 166/04|Wyrok|https://www.saos.org.pl/judgments/163214
-82397|2003-12-12|SN|III RN 135/03|Wyrok|https://www.saos.org.pl/judgments/82397
-76718|1994-12-01|SN|III ARN 65/94|Wyrok|https://www.saos.org.pl/judgments/76718
-76483|1994-03-29|SN|III ARN 12/94|Postanowienie|https://www.saos.org.pl/judgments/76483
+saos_id|date|court|case_number|type|score|saos_url
+163214|2005-05-06|SN|II CK 166/04|Wyrok|78|https://www.saos.org.pl/judgments/163214
+82397|2003-12-12|SN|III RN 135/03|Wyrok|78|https://www.saos.org.pl/judgments/82397
+76718|1994-12-01|SN|III ARN 65/94|Wyrok|78|https://www.saos.org.pl/judgments/76718
+103450|2013-11-06|SN|IV CSK 125/13|Postanowienie|69|https://www.saos.org.pl/judgments/103450
+94140|2011-02-11|SN|I CSK 213/10|Postanowienie|69|https://www.saos.org.pl/judgments/94140
+76483|1994-03-29|SN|III ARN 12/94|Postanowienie|69|https://www.saos.org.pl/judgments/76483
+339031|2017-12-27|SO|VII ACa 1018/17|Wyrok|56|https://www.saos.org.pl/judgments/339031
+184592|2015-10-09|SO|III AUa 674/15|Wyrok|56|https://www.saos.org.pl/judgments/184592
+38213|2013-11-14|SO|I ACa 470/13|Wyrok|56|https://www.saos.org.pl/judgments/38213
+35411|2014-02-10|SO|III AUz 3/14|Postanowienie|47|https://www.saos.org.pl/judgments/35411
+285106|2016-11-09|SO|I C 1215/14|Wyrok|40|https://www.saos.org.pl/judgments/285106

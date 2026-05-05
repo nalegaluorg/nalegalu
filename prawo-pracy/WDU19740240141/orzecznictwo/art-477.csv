@@ -1,21 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-485799|2023-03-07|SO|VIII Pa 98/22|Uzasadnienie|https://www.saos.org.pl/judgments/485799
-478458|2022-11-28|SO|VIII U 1237/22|Uzasadnienie|https://www.saos.org.pl/judgments/478458
-458350|2022-02-10|SO|VIII Pa 118/21|Zarządzenie|https://www.saos.org.pl/judgments/458350
-452897|2021-08-02|SO|VIII Pa 36/21|Uzasadnienie|https://www.saos.org.pl/judgments/452897
-422485|2020-08-13|SO|VIII Pa 230/19|Uzasadnienie|https://www.saos.org.pl/judgments/422485
-394592|2019-10-03|SO|IV U 610/19|Wyrok|https://www.saos.org.pl/judgments/394592
-348666|2018-07-06|SO|IV P 34/18|Wyrok|https://www.saos.org.pl/judgments/348666
-326056|2017-11-23|SO|V Pa 37/17|Wyrok|https://www.saos.org.pl/judgments/326056
-312670|2017-10-25|SO|IV P 185/17|Wyrok|https://www.saos.org.pl/judgments/312670
-297944|2016-12-01|SO|V Pa 39/16|Wyrok|https://www.saos.org.pl/judgments/297944
-235663|2016-03-31|SO|IV Pa 9/16|Wyrok|https://www.saos.org.pl/judgments/235663
-215008|2016-03-30|SO|VIII U 544/15|Zarządzenie|https://www.saos.org.pl/judgments/215008
-197997|2015-11-24|SO|IV P 214/15|Postanowienie|https://www.saos.org.pl/judgments/197997
-177918|2015-09-22|SO|VII Pa 159/15|Uzasadnienie|https://www.saos.org.pl/judgments/177918
-152979|2015-03-03|SO|IV U 458/14|Wyrok|https://www.saos.org.pl/judgments/152979
-73347|2014-11-21|SO|IV U 190/14|Wyrok|https://www.saos.org.pl/judgments/73347
-74154|2014-10-28|SO|VIII U 1557/14|Wyrok|https://www.saos.org.pl/judgments/74154
-71128|2014-10-23|SO|V Pa 107/14|Wyrok|https://www.saos.org.pl/judgments/71128
-50025|2014-05-08|SO|IV U 805/13|Wyrok|https://www.saos.org.pl/judgments/50025
-88707|2008-09-18|SN|II PK 16/08|Wyrok|https://www.saos.org.pl/judgments/88707
+saos_id|date|court|case_number|type|score|saos_url
+88707|2008-09-18|SN|II PK 16/08|Wyrok|78|https://www.saos.org.pl/judgments/88707
+235663|2016-03-31|SO|IV Pa 9/16|Wyrok|40|https://www.saos.org.pl/judgments/235663
+485799|2023-03-07|SO|VIII Pa 98/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/485799
+478458|2022-11-28|SO|VIII U 1237/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/478458
+458350|2022-02-10|SO|VIII Pa 118/21|Zarządzenie|27|https://www.saos.org.pl/judgments/458350
+452897|2021-08-02|SO|VIII Pa 36/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/452897
+422485|2020-08-13|SO|VIII Pa 230/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/422485
+215008|2016-03-30|SO|VIII U 544/15|Zarządzenie|27|https://www.saos.org.pl/judgments/215008
+177918|2015-09-22|SO|VII Pa 159/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177918

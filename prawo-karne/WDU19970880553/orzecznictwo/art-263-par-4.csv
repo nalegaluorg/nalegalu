@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-484389|2023-01-04|SO|IV Ka 794/22|Uzasadnienie|https://www.saos.org.pl/judgments/484389
-484388|2023-01-04|SO|IV Ka 794/22|Wyrok|https://www.saos.org.pl/judgments/484388
-322113|2017-12-22|SO|II K 113/17|Wyrok|https://www.saos.org.pl/judgments/322113
-300965|2016-10-26|SO|IV Ka 558/16|Uzasadnienie|https://www.saos.org.pl/judgments/300965
-287552|2016-04-08|SO|II K 172/14|Wyrok|https://www.saos.org.pl/judgments/287552
-152377|2015-04-21|SO|XVII Ka 197/15|Wyrok|https://www.saos.org.pl/judgments/152377
-134587|2015-03-05|SO|II K 625/14|Wyrok|https://www.saos.org.pl/judgments/134587
-168001|2015-01-21|SN|IV KK 343/14|Wyrok|https://www.saos.org.pl/judgments/168001
-156348|2015-01-16|SO|II K 143/13|Wyrok|https://www.saos.org.pl/judgments/156348
-141235|2013-09-30|SO|II AKa 95/13|Wyrok|https://www.saos.org.pl/judgments/141235
+saos_id|date|court|case_number|type|score|saos_url
+168001|2015-01-21|SN|IV KK 343/14|Wyrok|78|https://www.saos.org.pl/judgments/168001
+141235|2013-09-30|SO|II AKa 95/13|Wyrok|56|https://www.saos.org.pl/judgments/141235
+287552|2016-04-08|SO|II K 172/14|Wyrok|40|https://www.saos.org.pl/judgments/287552
+152377|2015-04-21|SO|XVII Ka 197/15|Wyrok|40|https://www.saos.org.pl/judgments/152377

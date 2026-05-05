@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-527317|2025-01-29|SO|II AKa 260/24|Wyrok|https://www.saos.org.pl/judgments/527317
-26634|2013-09-19|SO|XI Ka 150/13|Wyrok|https://www.saos.org.pl/judgments/26634
-22125|2013-07-18|SO|XI Ka 546/13|Wyrok|https://www.saos.org.pl/judgments/22125
+saos_id|date|court|case_number|type|score|saos_url
+527317|2025-01-29|SO|II AKa 260/24|Wyrok|56|https://www.saos.org.pl/judgments/527317

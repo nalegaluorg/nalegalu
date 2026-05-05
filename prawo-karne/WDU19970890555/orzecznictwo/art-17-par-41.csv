@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-244522|2016-02-02|SN|V KK 402/14|Wyrok|https://www.saos.org.pl/judgments/244522
-243570|2015-10-14|SN|I KZP 7/15|Uchwała|https://www.saos.org.pl/judgments/243570
+saos_id|date|court|case_number|type|score|saos_url
+243570|2015-10-14|SN|I KZP 7/15|Uchwała|96|https://www.saos.org.pl/judgments/243570
+244522|2016-02-02|SN|V KK 402/14|Wyrok|78|https://www.saos.org.pl/judgments/244522

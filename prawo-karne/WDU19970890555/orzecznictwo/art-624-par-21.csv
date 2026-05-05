@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-223129|2016-05-17|SO|II K 589/15|Uzasadnienie|https://www.saos.org.pl/judgments/223129
-63047|2014-06-04|SO|II AKa 124/14|Wyrok|https://www.saos.org.pl/judgments/63047
-143553|2014-01-29|SO|II AKa 426/13|Wyrok|https://www.saos.org.pl/judgments/143553
+saos_id|date|court|case_number|type|score|saos_url
+63047|2014-06-04|SO|II AKa 124/14|Wyrok|56|https://www.saos.org.pl/judgments/63047
+143553|2014-01-29|SO|II AKa 426/13|Wyrok|56|https://www.saos.org.pl/judgments/143553
+223129|2016-05-17|SO|II K 589/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/223129

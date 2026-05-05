@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-62586|2014-07-10|SO|II AKa 56/14|Uzasadnienie|https://www.saos.org.pl/judgments/62586
-52542|2014-06-24|SO|VI Ka 4/14|Wyrok|https://www.saos.org.pl/judgments/52542
-55961|2014-06-17|SO|VI Ka 243/14|Wyrok|https://www.saos.org.pl/judgments/55961
-16769|2013-04-24|SO|IV Ka 224/13|Wyrok|https://www.saos.org.pl/judgments/16769
+saos_id|date|court|case_number|type|score|saos_url
+62586|2014-07-10|SO|II AKa 56/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/62586

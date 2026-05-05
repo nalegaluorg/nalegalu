@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-45698|2014-02-13|SO|IX Ca 479/13|Postanowienie|https://www.saos.org.pl/judgments/45698
-16157|2013-06-25|SO|V ACa 826/12|Wyrok|https://www.saos.org.pl/judgments/16157
+saos_id|date|court|case_number|type|score|saos_url
+16157|2013-06-25|SO|V ACa 826/12|Wyrok|56|https://www.saos.org.pl/judgments/16157

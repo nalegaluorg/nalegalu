@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497804|2023-11-22|SO|I C 36/22|Wyrok|https://www.saos.org.pl/judgments/497804
-371074|2019-01-08|SO|III Cz 1699/18|Postanowienie|https://www.saos.org.pl/judgments/371074
+saos_id|date|court|case_number|type|score|saos_url
+497804|2023-11-22|SO|I C 36/22|Wyrok|40|https://www.saos.org.pl/judgments/497804

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 27 lipca 2012 
 
 ## art. 491 (1)
 
-- 2012-10-09 | TK | [SK 22/12](https://www.saos.org.pl/judgments/111001) | Postanowienie
+- 2012-10-09 | TK | [SK 22/12](https://www.saos.org.pl/judgments/111001) | Postanowienie ★
 

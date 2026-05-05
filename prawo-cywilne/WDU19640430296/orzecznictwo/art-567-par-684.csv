@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-372589|2019-02-13|SO|II Ca 692/18|Postanowienie|https://www.saos.org.pl/judgments/372589
-86922|2007-12-07|SN|SNO 79/07|Wyrok|https://www.saos.org.pl/judgments/86922
+saos_id|date|court|case_number|type|score|saos_url
+86922|2007-12-07|SN|SNO 79/07|Wyrok|78|https://www.saos.org.pl/judgments/86922

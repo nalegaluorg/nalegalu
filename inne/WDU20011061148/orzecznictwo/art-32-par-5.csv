@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-434884|2021-02-10|SO|V Kz 871/20|Postanowienie|https://www.saos.org.pl/judgments/434884
-303569|2017-08-28|SO|V Ka 805/17|Uzasadnienie|https://www.saos.org.pl/judgments/303569
-177082|2015-08-26|SO|II Ka 284/15|Wyrok|https://www.saos.org.pl/judgments/177082
-111748|2013-11-27|TK|Ts 41/13|Postanowienie|https://www.saos.org.pl/judgments/111748
-18822|2013-07-25|SO|II Ka 241/13|Wyrok|https://www.saos.org.pl/judgments/18822
-111747|2013-06-27|TK|Ts 41/13|Postanowienie|https://www.saos.org.pl/judgments/111747
+saos_id|date|court|case_number|type|score|saos_url
+111748|2013-11-27|TK|Ts 41/13|Postanowienie|80|https://www.saos.org.pl/judgments/111748
+111747|2013-06-27|TK|Ts 41/13|Postanowienie|80|https://www.saos.org.pl/judgments/111747
+177082|2015-08-26|SO|II Ka 284/15|Wyrok|40|https://www.saos.org.pl/judgments/177082
+18822|2013-07-25|SO|II Ka 241/13|Wyrok|40|https://www.saos.org.pl/judgments/18822
+434884|2021-02-10|SO|V Kz 871/20|Postanowienie|31|https://www.saos.org.pl/judgments/434884
+303569|2017-08-28|SO|V Ka 805/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303569

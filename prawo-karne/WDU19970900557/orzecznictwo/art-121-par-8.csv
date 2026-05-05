@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-537663|2025-09-09|SO|IV P 102/24|Wyrok|https://www.saos.org.pl/judgments/537663
-525395|2025-04-12|SO|VII Pa 79/23|Wyrok|https://www.saos.org.pl/judgments/525395
-511810|2023-11-08|SO|VII Pa 107/22|Wyrok|https://www.saos.org.pl/judgments/511810
-330230|2018-02-19|SO|I ACa 804/17|Postanowienie|https://www.saos.org.pl/judgments/330230
+saos_id|date|court|case_number|type|score|saos_url
+330230|2018-02-19|SO|I ACa 804/17|Postanowienie|47|https://www.saos.org.pl/judgments/330230
+525395|2025-04-12|SO|VII Pa 79/23|Wyrok|40|https://www.saos.org.pl/judgments/525395
+511810|2023-11-08|SO|VII Pa 107/22|Wyrok|40|https://www.saos.org.pl/judgments/511810

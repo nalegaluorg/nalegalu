@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-442510|2021-03-25|SO|IV Ka 207/21|Uzasadnienie|https://www.saos.org.pl/judgments/442510
-438365|2021-03-11|SO|II AKa 189/19|Wyrok|https://www.saos.org.pl/judgments/438365
-413875|2017-05-23|SO|II AKz 169/17|Postanowienie|https://www.saos.org.pl/judgments/413875
-189870|2015-10-13|SO|II AKz 358/15|Postanowienie|https://www.saos.org.pl/judgments/189870
-426788|2013-10-16|SO|II AKz 619/13|Postanowienie|https://www.saos.org.pl/judgments/426788
-110335|2011-07-05|TK|SK 3/10|Postanowienie|https://www.saos.org.pl/judgments/110335
+saos_id|date|court|case_number|type|score|saos_url
+110335|2011-07-05|TK|SK 3/10|Postanowienie|80|https://www.saos.org.pl/judgments/110335
+438365|2021-03-11|SO|II AKa 189/19|Wyrok|56|https://www.saos.org.pl/judgments/438365
+413875|2017-05-23|SO|II AKz 169/17|Postanowienie|47|https://www.saos.org.pl/judgments/413875
+189870|2015-10-13|SO|II AKz 358/15|Postanowienie|47|https://www.saos.org.pl/judgments/189870
+426788|2013-10-16|SO|II AKz 619/13|Postanowienie|47|https://www.saos.org.pl/judgments/426788
+442510|2021-03-25|SO|IV Ka 207/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/442510

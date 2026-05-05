@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-500848|2023-10-23|SO|II AKa 280/23|Wyrok|https://www.saos.org.pl/judgments/500848
-471801|2022-02-03|SO|V GC 657/21|Zarządzenie|https://www.saos.org.pl/judgments/471801
-427471|2020-10-12|SO|I C 1443/19|Wyrok|https://www.saos.org.pl/judgments/427471
-420889|2020-08-28|SO|V GC 2265/19|Zarządzenie|https://www.saos.org.pl/judgments/420889
-416287|2019-04-17|SO|I ACa 628/18|Wyrok|https://www.saos.org.pl/judgments/416287
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-318723|2017-08-29|SO|VI ACa 619/16|Wyrok|https://www.saos.org.pl/judgments/318723
-300756|2017-07-20|SO|II C 1327/16|Uzasadnienie|https://www.saos.org.pl/judgments/300756
-265285|2016-10-07|SO|I ACa 977/16|Wyrok|https://www.saos.org.pl/judgments/265285
-245192|2016-04-29|SN|I CSK 283/15|Wyrok|https://www.saos.org.pl/judgments/245192
-181670|2015-11-16|SO|I C 1126/13|Wyrok|https://www.saos.org.pl/judgments/181670
-196941|2015-10-28|SO|IX C 12/15|Wyrok|https://www.saos.org.pl/judgments/196941
-190140|2015-10-21|SO|VIII Ga 171/15|Uzasadnienie|https://www.saos.org.pl/judgments/190140
-235712|2015-08-11|SO|VIII GC 1551/13|Wyrok|https://www.saos.org.pl/judgments/235712
-131348|2014-12-11|SO|V ACa 559/14|Wyrok|https://www.saos.org.pl/judgments/131348
-8779|2013-01-16|SO|VIII C 1414/12|Wyrok|https://www.saos.org.pl/judgments/8779
-96104|2011-10-26|SN|I CSK 715/10|Wyrok|https://www.saos.org.pl/judgments/96104
+saos_id|date|court|case_number|type|score|saos_url
+245192|2016-04-29|SN|I CSK 283/15|Wyrok|78|https://www.saos.org.pl/judgments/245192
+96104|2011-10-26|SN|I CSK 715/10|Wyrok|78|https://www.saos.org.pl/judgments/96104
+500848|2023-10-23|SO|II AKa 280/23|Wyrok|56|https://www.saos.org.pl/judgments/500848
+416287|2019-04-17|SO|I ACa 628/18|Wyrok|56|https://www.saos.org.pl/judgments/416287
+318723|2017-08-29|SO|VI ACa 619/16|Wyrok|56|https://www.saos.org.pl/judgments/318723
+265285|2016-10-07|SO|I ACa 977/16|Wyrok|56|https://www.saos.org.pl/judgments/265285
+131348|2014-12-11|SO|V ACa 559/14|Wyrok|56|https://www.saos.org.pl/judgments/131348
+300756|2017-07-20|SO|II C 1327/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/300756

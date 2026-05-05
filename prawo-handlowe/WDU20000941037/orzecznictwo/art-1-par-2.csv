@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-465843|2020-12-02|SO|III AUa 1124/19|Wyrok|https://www.saos.org.pl/judgments/465843
-333251|2018-01-22|SO|III K 86/16|Wyrok|https://www.saos.org.pl/judgments/333251
-226661|2016-04-25|SO|IV Ka 445/15|Uzasadnienie|https://www.saos.org.pl/judgments/226661
-176007|2015-07-17|SO|VIII Ga 121/15|Uzasadnienie|https://www.saos.org.pl/judgments/176007
-156743|2015-06-01|SO|X GC 536/14|Uzasadnienie|https://www.saos.org.pl/judgments/156743
-210201|2015-03-12|SO|II AKa 21/15|Wyrok|https://www.saos.org.pl/judgments/210201
-334939|2014-06-04|SO|VIII Ga 3/14|Uzasadnienie|https://www.saos.org.pl/judgments/334939
-59100|2014-04-09|SO|XX GC 1096/12|Uzasadnienie|https://www.saos.org.pl/judgments/59100
-95473|2011-07-21|SN|I KZP 7/11|Postanowienie|https://www.saos.org.pl/judgments/95473
-91065|2009-10-14|SN|V CSK 109/09|Wyrok|https://www.saos.org.pl/judgments/91065
-86876|2007-11-23|SN|IV CSK 281/07|Wyrok|https://www.saos.org.pl/judgments/86876
-163967|2006-01-26|SN|II CK 374/05|Wyrok|https://www.saos.org.pl/judgments/163967
-80621|2001-05-27|SN|III CZP 6/01|Uchwała|https://www.saos.org.pl/judgments/80621
-80261|2001-01-23|SN|I PKN 208/00|Wyrok|https://www.saos.org.pl/judgments/80261
+saos_id|date|court|case_number|type|score|saos_url
+80621|2001-05-27|SN|III CZP 6/01|Uchwała|89|https://www.saos.org.pl/judgments/80621
+91065|2009-10-14|SN|V CSK 109/09|Wyrok|78|https://www.saos.org.pl/judgments/91065
+86876|2007-11-23|SN|IV CSK 281/07|Wyrok|78|https://www.saos.org.pl/judgments/86876
+163967|2006-01-26|SN|II CK 374/05|Wyrok|78|https://www.saos.org.pl/judgments/163967
+80261|2001-01-23|SN|I PKN 208/00|Wyrok|78|https://www.saos.org.pl/judgments/80261
+95473|2011-07-21|SN|I KZP 7/11|Postanowienie|69|https://www.saos.org.pl/judgments/95473
+465843|2020-12-02|SO|III AUa 1124/19|Wyrok|56|https://www.saos.org.pl/judgments/465843
+210201|2015-03-12|SO|II AKa 21/15|Wyrok|56|https://www.saos.org.pl/judgments/210201
+333251|2018-01-22|SO|III K 86/16|Wyrok|40|https://www.saos.org.pl/judgments/333251
+156743|2015-06-01|SO|X GC 536/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/156743

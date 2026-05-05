@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-45792|2014-04-11|SO|I ACa 1396/13|Wyrok|https://www.saos.org.pl/judgments/45792
+saos_id|date|court|case_number|type|score|saos_url
+45792|2014-04-11|SO|I ACa 1396/13|Wyrok|56|https://www.saos.org.pl/judgments/45792

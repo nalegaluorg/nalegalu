@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-315603|2017-10-11|SO|XVII AmK 20/16|Wyrok|https://www.saos.org.pl/judgments/315603
-248011|2016-04-27|SO|VI ACa 232/15|Wyrok|https://www.saos.org.pl/judgments/248011
-173624|2014-11-13|SO|XVII AmK 11/12|Uzasadnienie|https://www.saos.org.pl/judgments/173624
-275288|2014-09-04|SO|XVII AmK 11/12|Wyrok|https://www.saos.org.pl/judgments/275288
+saos_id|date|court|case_number|type|score|saos_url
+248011|2016-04-27|SO|VI ACa 232/15|Wyrok|56|https://www.saos.org.pl/judgments/248011

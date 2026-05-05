@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-188279|2015-10-15|SO|VII Pz 87/15|Uzasadnienie|https://www.saos.org.pl/judgments/188279
-177784|2015-09-18|SO|VII Pz 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/177784
+saos_id|date|court|case_number|type|score|saos_url
+188279|2015-10-15|SO|VII Pz 87/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188279
+177784|2015-09-18|SO|VII Pz 77/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177784

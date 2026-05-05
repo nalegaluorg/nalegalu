@@ -1,13 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-464949|2022-05-09|SO|XII C 41/21|Zarządzenie|https://www.saos.org.pl/judgments/464949
-459023|2021-09-16|SO|III Ca 1034/20|Uzasadnienie|https://www.saos.org.pl/judgments/459023
-449930|2020-03-31|SO|I C 1056/19|Wyrok|https://www.saos.org.pl/judgments/449930
-447157|2016-12-13|SO|I C 910/16|Zarządzenie|https://www.saos.org.pl/judgments/447157
-227123|2015-10-29|SO|I C 415/15|Wyrok|https://www.saos.org.pl/judgments/227123
-181836|2015-10-02|SO|I C 153/15|Wyrok|https://www.saos.org.pl/judgments/181836
-168828|2015-04-17|SN|III CZP 9/15|Uchwała|https://www.saos.org.pl/judgments/168828
-56226|2014-06-13|SO|I ACa 1602/13|Wyrok|https://www.saos.org.pl/judgments/56226
-275557|2014-05-15|SO|II Ca 933/13|Wyrok|https://www.saos.org.pl/judgments/275557
-45526|2014-03-19|SO|VI ACa 1178/13|Wyrok|https://www.saos.org.pl/judgments/45526
-31446|2013-11-27|SO|VIII Ca 472/13|Wyrok|https://www.saos.org.pl/judgments/31446
-25321|2013-10-15|SO|IV Ca 1405/12|Wyrok|https://www.saos.org.pl/judgments/25321
+saos_id|date|court|case_number|type|score|saos_url
+168828|2015-04-17|SN|III CZP 9/15|Uchwała|89|https://www.saos.org.pl/judgments/168828
+56226|2014-06-13|SO|I ACa 1602/13|Wyrok|56|https://www.saos.org.pl/judgments/56226
+45526|2014-03-19|SO|VI ACa 1178/13|Wyrok|56|https://www.saos.org.pl/judgments/45526
+449930|2020-03-31|SO|I C 1056/19|Wyrok|40|https://www.saos.org.pl/judgments/449930
+25321|2013-10-15|SO|IV Ca 1405/12|Wyrok|40|https://www.saos.org.pl/judgments/25321
+459023|2021-09-16|SO|III Ca 1034/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459023

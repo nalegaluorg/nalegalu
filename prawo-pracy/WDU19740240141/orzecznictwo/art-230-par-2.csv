@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-484476|2023-03-15|SO|VIII Pa 125/22|Uzasadnienie|https://www.saos.org.pl/judgments/484476
-479315|2022-02-11|SO|VI Ka 605/21|Wyrok|https://www.saos.org.pl/judgments/479315
-340245|2018-05-21|SO|IX P 359/16|Zarządzenie|https://www.saos.org.pl/judgments/340245
-135435|2014-04-18|SO|IV P 5/14|Wyrok|https://www.saos.org.pl/judgments/135435
-165594|2014-01-07|SN|I PK 150/13|Wyrok|https://www.saos.org.pl/judgments/165594
-95869|2011-10-04|SN|I PK 48/11|Wyrok|https://www.saos.org.pl/judgments/95869
-93804|2011-01-07|SN|I PK 142/10|Wyrok|https://www.saos.org.pl/judgments/93804
-79393|1999-12-01|SN|I PKN 425/99|Wyrok|https://www.saos.org.pl/judgments/79393
+saos_id|date|court|case_number|type|score|saos_url
+165594|2014-01-07|SN|I PK 150/13|Wyrok|78|https://www.saos.org.pl/judgments/165594
+95869|2011-10-04|SN|I PK 48/11|Wyrok|78|https://www.saos.org.pl/judgments/95869
+93804|2011-01-07|SN|I PK 142/10|Wyrok|78|https://www.saos.org.pl/judgments/93804
+79393|1999-12-01|SN|I PKN 425/99|Wyrok|78|https://www.saos.org.pl/judgments/79393
+479315|2022-02-11|SO|VI Ka 605/21|Wyrok|40|https://www.saos.org.pl/judgments/479315
+484476|2023-03-15|SO|VIII Pa 125/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/484476

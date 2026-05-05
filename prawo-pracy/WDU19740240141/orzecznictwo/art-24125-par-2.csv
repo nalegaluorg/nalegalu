@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-330545|2017-11-27|SO|III APa 34/17|Wyrok|https://www.saos.org.pl/judgments/330545
-225470|2015-11-26|SO|VIII Pa 145/15|Wyrok|https://www.saos.org.pl/judgments/225470
+saos_id|date|court|case_number|type|score|saos_url
+330545|2017-11-27|SO|III APa 34/17|Wyrok|56|https://www.saos.org.pl/judgments/330545

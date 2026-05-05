@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-38998|2014-02-27|SO|V Ca 189/13|Wyrok|https://www.saos.org.pl/judgments/38998
+saos_id|date|court|case_number|type|score|saos_url
+38998|2014-02-27|SO|V Ca 189/13|Wyrok|40|https://www.saos.org.pl/judgments/38998

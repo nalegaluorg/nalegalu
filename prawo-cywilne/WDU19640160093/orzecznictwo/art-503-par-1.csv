@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-193448|2015-10-27|SO|III Ca 990/15|Uzasadnienie|https://www.saos.org.pl/judgments/193448
-60245|2014-06-24|SO|II Ca 351/14|Wyrok|https://www.saos.org.pl/judgments/60245
-39372|2013-06-11|SO|I ACa 4/13|Wyrok|https://www.saos.org.pl/judgments/39372
+saos_id|date|court|case_number|type|score|saos_url
+39372|2013-06-11|SO|I ACa 4/13|Wyrok|56|https://www.saos.org.pl/judgments/39372
+193448|2015-10-27|SO|III Ca 990/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193448

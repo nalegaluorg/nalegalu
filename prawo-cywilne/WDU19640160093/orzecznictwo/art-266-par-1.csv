@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-421519|2019-06-05|SO|VI ACa 129/18|Wyrok|https://www.saos.org.pl/judgments/421519
-46915|2013-01-30|SO|V Ca 2878/12|Wyrok|https://www.saos.org.pl/judgments/46915
+saos_id|date|court|case_number|type|score|saos_url
+421519|2019-06-05|SO|VI ACa 129/18|Wyrok|56|https://www.saos.org.pl/judgments/421519

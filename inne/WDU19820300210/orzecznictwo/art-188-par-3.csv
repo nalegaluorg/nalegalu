@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-284789|2017-02-22|SO|VI P 783/15|Wyrok|https://www.saos.org.pl/judgments/284789
-180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|https://www.saos.org.pl/judgments/180174
-81773|2002-12-18|SN|I PK 44/02|Wyrok|https://www.saos.org.pl/judgments/81773
+saos_id|date|court|case_number|type|score|saos_url
+81773|2002-12-18|SN|I PK 44/02|Wyrok|78|https://www.saos.org.pl/judgments/81773
+180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/180174

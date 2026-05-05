@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-473733|2022-06-17|SO|I C 1317/19|Wyrok|https://www.saos.org.pl/judgments/473733
-308092|2016-11-04|SO|II Ca 523/16|Wyrok|https://www.saos.org.pl/judgments/308092
-196068|2015-11-03|SO|II C 243/15|Wyrok|https://www.saos.org.pl/judgments/196068
-164367|2006-06-21|SN|I CSK 43/06|Wyrok|https://www.saos.org.pl/judgments/164367
-190919|2006-03-07|SO|I ACa 752/05|Wyrok|https://www.saos.org.pl/judgments/190919
+saos_id|date|court|case_number|type|score|saos_url
+164367|2006-06-21|SN|I CSK 43/06|Wyrok|78|https://www.saos.org.pl/judgments/164367
+190919|2006-03-07|SO|I ACa 752/05|Wyrok|56|https://www.saos.org.pl/judgments/190919

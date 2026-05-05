@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-409953|2020-02-26|SO|III AUa 472/19|Wyrok|https://www.saos.org.pl/judgments/409953
-408410|2020-02-12|SO|III AUa 470/19|Wyrok|https://www.saos.org.pl/judgments/408410
-401314|2019-10-31|SO|IV U 1038/19|Wyrok|https://www.saos.org.pl/judgments/401314
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
-81017|2001-11-21|SN|II UKN 634/00|Wyrok|https://www.saos.org.pl/judgments/81017
+saos_id|date|court|case_number|type|score|saos_url
+81017|2001-11-21|SN|II UKN 634/00|Wyrok|78|https://www.saos.org.pl/judgments/81017
+409953|2020-02-26|SO|III AUa 472/19|Wyrok|56|https://www.saos.org.pl/judgments/409953
+408410|2020-02-12|SO|III AUa 470/19|Wyrok|56|https://www.saos.org.pl/judgments/408410
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336
+401314|2019-10-31|SO|IV U 1038/19|Wyrok|40|https://www.saos.org.pl/judgments/401314

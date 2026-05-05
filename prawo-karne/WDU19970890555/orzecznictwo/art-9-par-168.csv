@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-421627|2020-09-11|SO|II Ka 73/20|Wyrok|https://www.saos.org.pl/judgments/421627
-103700|2013-11-26|SN|V KK 184/13|Wyrok|https://www.saos.org.pl/judgments/103700
+saos_id|date|court|case_number|type|score|saos_url
+103700|2013-11-26|SN|V KK 184/13|Wyrok|78|https://www.saos.org.pl/judgments/103700

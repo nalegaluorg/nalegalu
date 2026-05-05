@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-282183|2017-02-16|SO|I Ca 282/16|Postanowienie|https://www.saos.org.pl/judgments/282183
-276107|2017-02-16|SO|I Ca 287/16|Postanowienie|https://www.saos.org.pl/judgments/276107
-231250|2016-04-28|SO|I Ca 45/16|Postanowienie|https://www.saos.org.pl/judgments/231250
-217296|2015-12-31|SO|I Ca 231/15|Postanowienie|https://www.saos.org.pl/judgments/217296
-288138|2013-11-18|SO|V C 203/13|Wyrok|https://www.saos.org.pl/judgments/288138
+saos_id|date|court|case_number|type|score|saos_url
+288138|2013-11-18|SO|V C 203/13|Wyrok|40|https://www.saos.org.pl/judgments/288138

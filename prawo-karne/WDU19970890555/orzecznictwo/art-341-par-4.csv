@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-370898|2018-11-14|SO|II K 244/18|Wyrok|https://www.saos.org.pl/judgments/370898
-190382|2015-11-23|SO|V Ka 330/15|Wyrok|https://www.saos.org.pl/judgments/190382
-205998|2000-05-16|TK|P 1/99|Wyrok|https://www.saos.org.pl/judgments/205998
+saos_id|date|court|case_number|type|score|saos_url
+205998|2000-05-16|TK|P 1/99|Wyrok|98|https://www.saos.org.pl/judgments/205998

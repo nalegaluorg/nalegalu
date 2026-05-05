@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-448799|2021-10-06|SO|III Ca 830/20|Wyrok|https://www.saos.org.pl/judgments/448799
-443672|2021-05-17|SO|I ACa 1121/19|Wyrok|https://www.saos.org.pl/judgments/443672
-425564|2020-04-28|SO|I ACa 795/19|Wyrok|https://www.saos.org.pl/judgments/425564
-345609|2018-01-29|SO|I ACa 711/17|Wyrok|https://www.saos.org.pl/judgments/345609
-323925|2017-11-20|SO|III Ca 994/17|Uzasadnienie|https://www.saos.org.pl/judgments/323925
-249088|2016-06-24|SO|XXVII Ca 74/16|Wyrok|https://www.saos.org.pl/judgments/249088
-211854|2016-02-11|SO|I ACa 1542/15|Wyrok|https://www.saos.org.pl/judgments/211854
-6927|2012-05-30|SO|I ACa 228/11|Wyrok|https://www.saos.org.pl/judgments/6927
-78818|1999-01-26|SN|I PKN 557/98|Wyrok|https://www.saos.org.pl/judgments/78818
+saos_id|date|court|case_number|type|score|saos_url
+78818|1999-01-26|SN|I PKN 557/98|Wyrok|78|https://www.saos.org.pl/judgments/78818
+443672|2021-05-17|SO|I ACa 1121/19|Wyrok|56|https://www.saos.org.pl/judgments/443672
+425564|2020-04-28|SO|I ACa 795/19|Wyrok|56|https://www.saos.org.pl/judgments/425564
+345609|2018-01-29|SO|I ACa 711/17|Wyrok|56|https://www.saos.org.pl/judgments/345609
+211854|2016-02-11|SO|I ACa 1542/15|Wyrok|56|https://www.saos.org.pl/judgments/211854
+6927|2012-05-30|SO|I ACa 228/11|Wyrok|56|https://www.saos.org.pl/judgments/6927
+323925|2017-11-20|SO|III Ca 994/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/323925

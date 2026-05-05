@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-463697|2022-03-30|SO|IX Ca 1484/21|Postanowienie|https://www.saos.org.pl/judgments/463697
-330404|2018-03-07|SO|I ACa 3/17|Postanowienie|https://www.saos.org.pl/judgments/330404
-165762|2014-04-24|SN|III CSK 184/13|Postanowienie|https://www.saos.org.pl/judgments/165762
-251882|2014-01-31|SO|II Ca 503/13|Postanowienie|https://www.saos.org.pl/judgments/251882
-311299|2013-05-20|SO|V Ca 731/13|Postanowienie|https://www.saos.org.pl/judgments/311299
-100379|2013-01-17|SN|III CSK 81/12|Postanowienie|https://www.saos.org.pl/judgments/100379
-90795|2009-09-04|SN|I CZ 83/09|Postanowienie|https://www.saos.org.pl/judgments/90795
-82262|2003-10-21|SN|I PK 414/02|Wyrok|https://www.saos.org.pl/judgments/82262
-77598|1997-04-24|SN|II UZ 16/97|Postanowienie|https://www.saos.org.pl/judgments/77598
+saos_id|date|court|case_number|type|score|saos_url
+82262|2003-10-21|SN|I PK 414/02|Wyrok|78|https://www.saos.org.pl/judgments/82262
+165762|2014-04-24|SN|III CSK 184/13|Postanowienie|69|https://www.saos.org.pl/judgments/165762
+100379|2013-01-17|SN|III CSK 81/12|Postanowienie|69|https://www.saos.org.pl/judgments/100379
+90795|2009-09-04|SN|I CZ 83/09|Postanowienie|69|https://www.saos.org.pl/judgments/90795
+77598|1997-04-24|SN|II UZ 16/97|Postanowienie|69|https://www.saos.org.pl/judgments/77598
+330404|2018-03-07|SO|I ACa 3/17|Postanowienie|47|https://www.saos.org.pl/judgments/330404

@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-492684|2023-03-16|SO|VII U 380/22|Wyrok|https://www.saos.org.pl/judgments/492684
-476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|https://www.saos.org.pl/judgments/476726
-477176|2022-09-23|SO|VII U 454/16|Wyrok|https://www.saos.org.pl/judgments/477176
-437821|2021-04-13|SO|VIII U 3238/19|Uzasadnienie|https://www.saos.org.pl/judgments/437821
-455733|2018-12-05|SO|III AUa 480/18|Wyrok|https://www.saos.org.pl/judgments/455733
-241173|2016-07-08|SO|III AUa 180/16|Wyrok|https://www.saos.org.pl/judgments/241173
-208062|2016-02-02|SO|VI U 2208/13|Wyrok|https://www.saos.org.pl/judgments/208062
-2619|2012-11-28|SO|III AUa 602/12|Wyrok|https://www.saos.org.pl/judgments/2619
+saos_id|date|court|case_number|type|score|saos_url
+455733|2018-12-05|SO|III AUa 480/18|Wyrok|56|https://www.saos.org.pl/judgments/455733
+241173|2016-07-08|SO|III AUa 180/16|Wyrok|56|https://www.saos.org.pl/judgments/241173
+2619|2012-11-28|SO|III AUa 602/12|Wyrok|56|https://www.saos.org.pl/judgments/2619
+492684|2023-03-16|SO|VII U 380/22|Wyrok|40|https://www.saos.org.pl/judgments/492684
+477176|2022-09-23|SO|VII U 454/16|Wyrok|40|https://www.saos.org.pl/judgments/477176
+476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/476726
+437821|2021-04-13|SO|VIII U 3238/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/437821

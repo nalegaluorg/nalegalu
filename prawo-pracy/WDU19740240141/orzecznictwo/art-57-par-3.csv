@@ -1,15 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-386005|2019-06-11|SO|VIII Pa 28/19|Uzasadnienie|https://www.saos.org.pl/judgments/386005
-394995|2018-02-08|SO|III Pa 37/17|Wyrok|https://www.saos.org.pl/judgments/394995
-331087|2017-12-05|SO|VII Pa 145/17|Wyrok|https://www.saos.org.pl/judgments/331087
-318221|2017-11-24|SO|IV P 334/15|Wyrok|https://www.saos.org.pl/judgments/318221
-316608|2017-10-25|SO|IV Pa 35/17|Wyrok|https://www.saos.org.pl/judgments/316608
-320369|2017-10-10|SO|VII U 149/17|Wyrok|https://www.saos.org.pl/judgments/320369
-243620|2015-10-21|SN|I PK 308/14|Wyrok|https://www.saos.org.pl/judgments/243620
-97645|2012-03-28|SN|I KZP 23/11|Postanowienie|https://www.saos.org.pl/judgments/97645
-94650|2011-04-06|SN|II PK 239/10|Wyrok|https://www.saos.org.pl/judgments/94650
-85336|2007-02-27|SN|II PK 211/06|Wyrok|https://www.saos.org.pl/judgments/85336
-83677|2005-08-16|SN|I PK 11/05|Wyrok|https://www.saos.org.pl/judgments/83677
-81207|2002-02-14|SN|I PKN 876/00|Wyrok|https://www.saos.org.pl/judgments/81207
-76981|1995-10-25|SN|I PZP 30/95|Uchwała|https://www.saos.org.pl/judgments/76981
-76817|1995-04-04|SN|I PZP 11/95|Uchwała|https://www.saos.org.pl/judgments/76817
+saos_id|date|court|case_number|type|score|saos_url
+76981|1995-10-25|SN|I PZP 30/95|Uchwała|89|https://www.saos.org.pl/judgments/76981
+76817|1995-04-04|SN|I PZP 11/95|Uchwała|89|https://www.saos.org.pl/judgments/76817
+243620|2015-10-21|SN|I PK 308/14|Wyrok|78|https://www.saos.org.pl/judgments/243620
+94650|2011-04-06|SN|II PK 239/10|Wyrok|78|https://www.saos.org.pl/judgments/94650
+85336|2007-02-27|SN|II PK 211/06|Wyrok|78|https://www.saos.org.pl/judgments/85336
+83677|2005-08-16|SN|I PK 11/05|Wyrok|78|https://www.saos.org.pl/judgments/83677
+81207|2002-02-14|SN|I PKN 876/00|Wyrok|78|https://www.saos.org.pl/judgments/81207
+97645|2012-03-28|SN|I KZP 23/11|Postanowienie|69|https://www.saos.org.pl/judgments/97645
+394995|2018-02-08|SO|III Pa 37/17|Wyrok|40|https://www.saos.org.pl/judgments/394995
+331087|2017-12-05|SO|VII Pa 145/17|Wyrok|40|https://www.saos.org.pl/judgments/331087
+320369|2017-10-10|SO|VII U 149/17|Wyrok|40|https://www.saos.org.pl/judgments/320369
+386005|2019-06-11|SO|VIII Pa 28/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/386005

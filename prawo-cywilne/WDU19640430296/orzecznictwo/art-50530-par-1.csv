@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-110966|2012-03-13|TK|P 39/10|Wyrok|https://www.saos.org.pl/judgments/110966
+saos_id|date|court|case_number|type|score|saos_url
+110966|2012-03-13|TK|P 39/10|Wyrok|98|https://www.saos.org.pl/judgments/110966

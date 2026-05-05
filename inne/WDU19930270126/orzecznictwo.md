@@ -6,13 +6,13 @@ Orzeczenia powołujące: *Uchwała Pełnego Składu Trybunału Konstytucyjnego z
 
 ## art. 1 (1)
 
-- 1995-05-25 | SN | [III ARN 16/95](https://www.saos.org.pl/judgments/76852) | Wyrok
+- 1995-05-25 | SN | [III ARN 16/95](https://www.saos.org.pl/judgments/76852) | Wyrok ★
 
 ## art. 7 (1)
 
-- 1995-05-25 | SN | [III ARN 16/95](https://www.saos.org.pl/judgments/76852) | Wyrok
+- 1995-05-25 | SN | [III ARN 16/95](https://www.saos.org.pl/judgments/76852) | Wyrok ★
 
 ## art. 10 (1)
 
-- 1996-08-07 | SN | [III ARN 28/96](https://www.saos.org.pl/judgments/77213) | Wyrok
+- 1996-08-07 | SN | [III ARN 28/96](https://www.saos.org.pl/judgments/77213) | Wyrok ★
 

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-293613|2015-11-24|SO|II AKa 146/15|Uzasadnienie|https://www.saos.org.pl/judgments/293613
-68322|2014-10-06|SO|II AKa 225/14|Wyrok|https://www.saos.org.pl/judgments/68322
-31478|2013-12-03|SO|II K 1036/13|Wyrok|https://www.saos.org.pl/judgments/31478
+saos_id|date|court|case_number|type|score|saos_url
+68322|2014-10-06|SO|II AKa 225/14|Wyrok|56|https://www.saos.org.pl/judgments/68322
+293613|2015-11-24|SO|II AKa 146/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/293613
+31478|2013-12-03|SO|II K 1036/13|Wyrok|40|https://www.saos.org.pl/judgments/31478

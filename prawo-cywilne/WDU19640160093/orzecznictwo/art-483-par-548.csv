@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-265185|2016-12-12|KIO|KIO 2224/16|Postanowienie|https://www.saos.org.pl/judgments/265185
+saos_id|date|court|case_number|type|score|saos_url
+265185|2016-12-12|KIO|KIO 2224/16|Postanowienie|36|https://www.saos.org.pl/judgments/265185

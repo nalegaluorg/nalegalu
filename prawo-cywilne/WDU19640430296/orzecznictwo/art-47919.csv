@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-165848|2014-05-22|SN|IV CSK 524/13|Postanowienie|https://www.saos.org.pl/judgments/165848
-101460|2013-04-18|SN|II CSK 503/12|Postanowienie|https://www.saos.org.pl/judgments/101460
-99636|2012-11-14|SN|III CZP 70/12|Uchwała|https://www.saos.org.pl/judgments/99636
-90809|2009-09-04|SN|III CZP 55/09|Postanowienie|https://www.saos.org.pl/judgments/90809
+saos_id|date|court|case_number|type|score|saos_url
+99636|2012-11-14|SN|III CZP 70/12|Uchwała|89|https://www.saos.org.pl/judgments/99636
+165848|2014-05-22|SN|IV CSK 524/13|Postanowienie|69|https://www.saos.org.pl/judgments/165848
+101460|2013-04-18|SN|II CSK 503/12|Postanowienie|69|https://www.saos.org.pl/judgments/101460
+90809|2009-09-04|SN|III CZP 55/09|Postanowienie|69|https://www.saos.org.pl/judgments/90809

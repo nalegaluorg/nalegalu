@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-406119|2020-01-29|SO|XIV Co 6/20|Postanowienie|https://www.saos.org.pl/judgments/406119
-342930|2018-05-29|SO|V AGz 372/18|Postanowienie|https://www.saos.org.pl/judgments/342930
-149111|2014-09-25|SO|II Cz 552/14|Postanowienie|https://www.saos.org.pl/judgments/149111
+saos_id|date|court|case_number|type|score|saos_url
+342930|2018-05-29|SO|V AGz 372/18|Postanowienie|47|https://www.saos.org.pl/judgments/342930
+406119|2020-01-29|SO|XIV Co 6/20|Postanowienie|31|https://www.saos.org.pl/judgments/406119

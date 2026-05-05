@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-494932|2022-11-04|SO|I AGa 185/22|Wyrok|https://www.saos.org.pl/judgments/494932
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-393230|2019-06-19|SO|XXV C 1661/18|Wyrok|https://www.saos.org.pl/judgments/393230
-359468|2018-06-20|SO|I ACa 1377/17|Wyrok|https://www.saos.org.pl/judgments/359468
-380291|2018-05-23|SO|VIII GC 235/18|Wyrok|https://www.saos.org.pl/judgments/380291
-335496|2018-04-05|SO|VIII GC 94/18|Wyrok|https://www.saos.org.pl/judgments/335496
-47956|2014-04-22|SO|I ACa 900/13|Wyrok|https://www.saos.org.pl/judgments/47956
-39248|2013-12-05|SO|I ACa 745/13|Wyrok|https://www.saos.org.pl/judgments/39248
-14212|2013-05-09|SO|I ACa 124/13|Wyrok|https://www.saos.org.pl/judgments/14212
-162899|2005-01-21|SN|I CK 521/04|Wyrok|https://www.saos.org.pl/judgments/162899
-83134|2005-01-21|SN|I CK 528/04|Wyrok|https://www.saos.org.pl/judgments/83134
+saos_id|date|court|case_number|type|score|saos_url
+162899|2005-01-21|SN|I CK 521/04|Wyrok|78|https://www.saos.org.pl/judgments/162899
+83134|2005-01-21|SN|I CK 528/04|Wyrok|78|https://www.saos.org.pl/judgments/83134
+494932|2022-11-04|SO|I AGa 185/22|Wyrok|56|https://www.saos.org.pl/judgments/494932
+359468|2018-06-20|SO|I ACa 1377/17|Wyrok|56|https://www.saos.org.pl/judgments/359468
+47956|2014-04-22|SO|I ACa 900/13|Wyrok|56|https://www.saos.org.pl/judgments/47956
+39248|2013-12-05|SO|I ACa 745/13|Wyrok|56|https://www.saos.org.pl/judgments/39248
+14212|2013-05-09|SO|I ACa 124/13|Wyrok|56|https://www.saos.org.pl/judgments/14212

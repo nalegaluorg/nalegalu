@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-520336|2024-10-29|SO|II Ca 860/22|Postanowienie|https://www.saos.org.pl/judgments/520336
-400044|2019-12-12|SO|III Ca 558/19|Wyrok|https://www.saos.org.pl/judgments/400044
-218367|2015-12-29|SO|I C 41/15|Wyrok|https://www.saos.org.pl/judgments/218367
-187167|2015-10-30|SO|V GC 427/15|Wyrok|https://www.saos.org.pl/judgments/187167
-131455|2015-02-18|SO|I C 369/14|Wyrok|https://www.saos.org.pl/judgments/131455
-275557|2014-05-15|SO|II Ca 933/13|Wyrok|https://www.saos.org.pl/judgments/275557
-1968|2012-06-26|SO|I ACa 601/12|Wyrok|https://www.saos.org.pl/judgments/1968
+saos_id|date|court|case_number|type|score|saos_url
+1968|2012-06-26|SO|I ACa 601/12|Wyrok|56|https://www.saos.org.pl/judgments/1968
+187167|2015-10-30|SO|V GC 427/15|Wyrok|40|https://www.saos.org.pl/judgments/187167
+520336|2024-10-29|SO|II Ca 860/22|Postanowienie|31|https://www.saos.org.pl/judgments/520336

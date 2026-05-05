@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80194|2000-12-20|SN|I PKN 713/00|Postanowienie|https://www.saos.org.pl/judgments/80194
+saos_id|date|court|case_number|type|score|saos_url
+80194|2000-12-20|SN|I PKN 713/00|Postanowienie|69|https://www.saos.org.pl/judgments/80194

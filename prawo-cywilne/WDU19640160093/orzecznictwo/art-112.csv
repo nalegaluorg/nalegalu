@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511437|2024-09-06|SO|VI Pa 67/24|Wyrok|https://www.saos.org.pl/judgments/511437
-253678|2016-10-24|SO|VIII Pa 64/16|Uzasadnienie|https://www.saos.org.pl/judgments/253678
+saos_id|date|court|case_number|type|score|saos_url
+253678|2016-10-24|SO|VIII Pa 64/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/253678

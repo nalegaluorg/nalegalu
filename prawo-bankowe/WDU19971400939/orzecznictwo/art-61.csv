@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-515694|2023-11-22|SO|XXVII Ca 2162/22|Wyrok|https://www.saos.org.pl/judgments/515694
-459279|2021-11-03|SO|III Ca 783/20|Uzasadnienie|https://www.saos.org.pl/judgments/459279
-459263|2021-09-27|SO|III Ca 692/20|Uzasadnienie|https://www.saos.org.pl/judgments/459263
-456987|2021-07-16|SO|III Ca 13/19|Uzasadnienie|https://www.saos.org.pl/judgments/456987
-435085|2020-12-16|SO|VII AGa 421/19|Wyrok|https://www.saos.org.pl/judgments/435085
-364634|2018-04-18|SO|VII AGa 238/18|Wyrok|https://www.saos.org.pl/judgments/364634
-360604|2018-03-19|SO|I ACa 1049/17|Wyrok|https://www.saos.org.pl/judgments/360604
-358758|2017-11-10|SO|II C 254/17|Wyrok|https://www.saos.org.pl/judgments/358758
-323182|2017-09-05|SO|I ACa 788/17|Wyrok|https://www.saos.org.pl/judgments/323182
-296731|2016-05-16|SO|II Ca 276/16|Wyrok|https://www.saos.org.pl/judgments/296731
-192236|2015-11-09|SO|V GC 617/15|Wyrok|https://www.saos.org.pl/judgments/192236
-172538|2015-03-06|SO|I ACa 40/15|Wyrok|https://www.saos.org.pl/judgments/172538
-73564|2014-11-25|SO|I ACa 727/14|Wyrok|https://www.saos.org.pl/judgments/73564
-69064|2014-10-06|SO|VIII GC 234/14|Wyrok|https://www.saos.org.pl/judgments/69064
+saos_id|date|court|case_number|type|score|saos_url
+435085|2020-12-16|SO|VII AGa 421/19|Wyrok|56|https://www.saos.org.pl/judgments/435085
+364634|2018-04-18|SO|VII AGa 238/18|Wyrok|56|https://www.saos.org.pl/judgments/364634
+360604|2018-03-19|SO|I ACa 1049/17|Wyrok|56|https://www.saos.org.pl/judgments/360604
+323182|2017-09-05|SO|I ACa 788/17|Wyrok|56|https://www.saos.org.pl/judgments/323182
+172538|2015-03-06|SO|I ACa 40/15|Wyrok|56|https://www.saos.org.pl/judgments/172538
+73564|2014-11-25|SO|I ACa 727/14|Wyrok|56|https://www.saos.org.pl/judgments/73564
+192236|2015-11-09|SO|V GC 617/15|Wyrok|40|https://www.saos.org.pl/judgments/192236
+459279|2021-11-03|SO|III Ca 783/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459279
+459263|2021-09-27|SO|III Ca 692/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459263
+456987|2021-07-16|SO|III Ca 13/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/456987

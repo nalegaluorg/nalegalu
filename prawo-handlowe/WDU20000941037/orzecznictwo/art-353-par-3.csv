@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-256518|2016-09-23|SO|I ACa 634/16|Wyrok|https://www.saos.org.pl/judgments/256518
-51342|2014-05-28|SO|I ACa 3/14|Wyrok|https://www.saos.org.pl/judgments/51342
-47956|2014-04-22|SO|I ACa 900/13|Wyrok|https://www.saos.org.pl/judgments/47956
+saos_id|date|court|case_number|type|score|saos_url
+256518|2016-09-23|SO|I ACa 634/16|Wyrok|56|https://www.saos.org.pl/judgments/256518
+51342|2014-05-28|SO|I ACa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/51342
+47956|2014-04-22|SO|I ACa 900/13|Wyrok|56|https://www.saos.org.pl/judgments/47956

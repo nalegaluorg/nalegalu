@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-537071|2025-10-20|SO|I ACa 2208/22|Wyrok|https://www.saos.org.pl/judgments/537071
-501653|2022-02-11|SO|II Ca 1337/21|Wyrok|https://www.saos.org.pl/judgments/501653
+saos_id|date|court|case_number|type|score|saos_url
+537071|2025-10-20|SO|I ACa 2208/22|Wyrok|56|https://www.saos.org.pl/judgments/537071
+501653|2022-02-11|SO|II Ca 1337/21|Wyrok|40|https://www.saos.org.pl/judgments/501653

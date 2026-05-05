@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-397804|2019-11-21|SO|II C 696/19|Zarządzenie|https://www.saos.org.pl/judgments/397804
-304260|2017-04-28|SO|I ACa 1371/16|Wyrok|https://www.saos.org.pl/judgments/304260
-249609|2016-07-13|SO|I C 658/13|Wyrok|https://www.saos.org.pl/judgments/249609
-102873|2013-09-19|SN|I CSK 732/12|Wyrok|https://www.saos.org.pl/judgments/102873
-97413|2012-03-09|SN|I CSK 277/11|Wyrok|https://www.saos.org.pl/judgments/97413
-91496|2009-12-16|SN|I CSK 175/09|Wyrok|https://www.saos.org.pl/judgments/91496
+saos_id|date|court|case_number|type|score|saos_url
+102873|2013-09-19|SN|I CSK 732/12|Wyrok|78|https://www.saos.org.pl/judgments/102873
+97413|2012-03-09|SN|I CSK 277/11|Wyrok|78|https://www.saos.org.pl/judgments/97413
+91496|2009-12-16|SN|I CSK 175/09|Wyrok|78|https://www.saos.org.pl/judgments/91496
+304260|2017-04-28|SO|I ACa 1371/16|Wyrok|56|https://www.saos.org.pl/judgments/304260
+249609|2016-07-13|SO|I C 658/13|Wyrok|40|https://www.saos.org.pl/judgments/249609
+397804|2019-11-21|SO|II C 696/19|Zarządzenie|27|https://www.saos.org.pl/judgments/397804

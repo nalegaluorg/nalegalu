@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-446850|2021-07-08|SO|I AGa 410/18|Wyrok|https://www.saos.org.pl/judgments/446850
-342742|2017-11-06|SO|I C 359/17|Wyrok|https://www.saos.org.pl/judgments/342742
-267583|2016-11-10|SO|I ACa 567/16|Wyrok|https://www.saos.org.pl/judgments/267583
-271470|2016-10-13|SO|I C 1310/15|Wyrok|https://www.saos.org.pl/judgments/271470
-134040|2015-02-19|SO|III AUa 1525/14|Wyrok|https://www.saos.org.pl/judgments/134040
-129046|2015-01-22|SO|III AUa 1180/14|Wyrok|https://www.saos.org.pl/judgments/129046
+saos_id|date|court|case_number|type|score|saos_url
+446850|2021-07-08|SO|I AGa 410/18|Wyrok|56|https://www.saos.org.pl/judgments/446850
+267583|2016-11-10|SO|I ACa 567/16|Wyrok|56|https://www.saos.org.pl/judgments/267583
+134040|2015-02-19|SO|III AUa 1525/14|Wyrok|56|https://www.saos.org.pl/judgments/134040
+129046|2015-01-22|SO|III AUa 1180/14|Wyrok|56|https://www.saos.org.pl/judgments/129046
+342742|2017-11-06|SO|I C 359/17|Wyrok|40|https://www.saos.org.pl/judgments/342742
+271470|2016-10-13|SO|I C 1310/15|Wyrok|40|https://www.saos.org.pl/judgments/271470

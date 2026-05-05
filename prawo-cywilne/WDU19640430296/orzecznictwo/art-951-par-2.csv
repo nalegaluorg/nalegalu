@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-150658|2015-03-18|SO|II Ca 1059/14|Postanowienie|https://www.saos.org.pl/judgments/150658
-134570|2015-03-11|SO|I Ca 18/15|Postanowienie|https://www.saos.org.pl/judgments/134570
+saos_id|date|court|case_number|type|score|saos_url
+134570|2015-03-11|SO|I Ca 18/15|Postanowienie|31|https://www.saos.org.pl/judgments/134570

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-402660|2018-06-06|SO|XII Ko 11/16|Wyrok|https://www.saos.org.pl/judgments/402660
-206650|2014-12-16|TK|U 2/14|Wyrok|https://www.saos.org.pl/judgments/206650
+saos_id|date|court|case_number|type|score|saos_url
+206650|2014-12-16|TK|U 2/14|Wyrok|98|https://www.saos.org.pl/judgments/206650

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-447873|2021-07-12|SO|IV Ca 893/21|Wyrok|https://www.saos.org.pl/judgments/447873
-439765|2021-04-14|SO|I ACa 549/20|Wyrok|https://www.saos.org.pl/judgments/439765
-408152|2020-01-23|SO|I ACa 313/19|Wyrok|https://www.saos.org.pl/judgments/408152
-522933|2018-11-19|SO|II Ca 578/18|Wyrok|https://www.saos.org.pl/judgments/522933
-226178|2016-05-30|SO|VIII U 4333/14|Zarządzenie|https://www.saos.org.pl/judgments/226178
+saos_id|date|court|case_number|type|score|saos_url
+439765|2021-04-14|SO|I ACa 549/20|Wyrok|56|https://www.saos.org.pl/judgments/439765
+408152|2020-01-23|SO|I ACa 313/19|Wyrok|56|https://www.saos.org.pl/judgments/408152
+447873|2021-07-12|SO|IV Ca 893/21|Wyrok|40|https://www.saos.org.pl/judgments/447873
+226178|2016-05-30|SO|VIII U 4333/14|Zarządzenie|27|https://www.saos.org.pl/judgments/226178

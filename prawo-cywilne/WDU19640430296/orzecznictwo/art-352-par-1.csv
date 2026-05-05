@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-530245|2021-10-28|SO|II Ca 739/21|Wyrok|https://www.saos.org.pl/judgments/530245
-425995|2020-07-29|SO|VIII Ns 151/18|Postanowienie|https://www.saos.org.pl/judgments/425995
-381246|2018-05-15|SO|XV Ca 1616/17|Postanowienie|https://www.saos.org.pl/judgments/381246
-342208|2018-04-19|SO|I ACa 1058/17|Wyrok|https://www.saos.org.pl/judgments/342208
-311533|2017-09-27|SO|VIII Ns 272/14|Postanowienie|https://www.saos.org.pl/judgments/311533
-321997|2017-07-26|SO|XV Ca 207/17|Postanowienie|https://www.saos.org.pl/judgments/321997
-291092|2017-06-14|SO|II C 22/16|Uzasadnienie|https://www.saos.org.pl/judgments/291092
-276826|2017-03-13|SO|VIII Ns 395/14|Postanowienie|https://www.saos.org.pl/judgments/276826
-279271|2017-03-03|SO|VIII Ns 213/15|Postanowienie|https://www.saos.org.pl/judgments/279271
-249476|2016-09-12|SO|VIII Ns 217/14|Postanowienie|https://www.saos.org.pl/judgments/249476
-202838|2015-04-16|SO|II Ca 1135/14|Postanowienie|https://www.saos.org.pl/judgments/202838
-102877|2013-09-20|SN|II CNP 7/13|Wyrok|https://www.saos.org.pl/judgments/102877
-102446|2013-07-10|SN|V CSK 320/12|Wyrok|https://www.saos.org.pl/judgments/102446
+saos_id|date|court|case_number|type|score|saos_url
+102877|2013-09-20|SN|II CNP 7/13|Wyrok|78|https://www.saos.org.pl/judgments/102877
+102446|2013-07-10|SN|V CSK 320/12|Wyrok|78|https://www.saos.org.pl/judgments/102446
+342208|2018-04-19|SO|I ACa 1058/17|Wyrok|56|https://www.saos.org.pl/judgments/342208
+425995|2020-07-29|SO|VIII Ns 151/18|Postanowienie|31|https://www.saos.org.pl/judgments/425995
+381246|2018-05-15|SO|XV Ca 1616/17|Postanowienie|31|https://www.saos.org.pl/judgments/381246
+311533|2017-09-27|SO|VIII Ns 272/14|Postanowienie|31|https://www.saos.org.pl/judgments/311533
+321997|2017-07-26|SO|XV Ca 207/17|Postanowienie|31|https://www.saos.org.pl/judgments/321997
+276826|2017-03-13|SO|VIII Ns 395/14|Postanowienie|31|https://www.saos.org.pl/judgments/276826
+279271|2017-03-03|SO|VIII Ns 213/15|Postanowienie|31|https://www.saos.org.pl/judgments/279271
+249476|2016-09-12|SO|VIII Ns 217/14|Postanowienie|31|https://www.saos.org.pl/judgments/249476
+291092|2017-06-14|SO|II C 22/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/291092

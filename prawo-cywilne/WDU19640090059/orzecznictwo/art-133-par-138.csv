@@ -1,21 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-542385|2025-06-10|SO|III RC 416/24|Wyrok|https://www.saos.org.pl/judgments/542385
-535938|2025-04-29|SO|III RC 800/24|Wyrok|https://www.saos.org.pl/judgments/535938
-507401|2024-05-08|SO|III RC 950/23|Wyrok|https://www.saos.org.pl/judgments/507401
-520856|2024-03-27|SO|III RC 859/23|Wyrok|https://www.saos.org.pl/judgments/520856
-507329|2024-01-11|SO|III RC 492/23|Wyrok|https://www.saos.org.pl/judgments/507329
-507369|2023-10-10|SO|III RC 77/22|Wyrok|https://www.saos.org.pl/judgments/507369
-507393|2023-08-11|SO|III RC 902/22|Wyrok|https://www.saos.org.pl/judgments/507393
-415313|2020-06-17|SO|I Ca 142/20|Wyrok|https://www.saos.org.pl/judgments/415313
-379004|2019-03-28|SO|III RC 1/19|Wyrok|https://www.saos.org.pl/judgments/379004
-294376|2017-06-26|SO|III RC 153/17|Uzasadnienie|https://www.saos.org.pl/judgments/294376
-213473|2016-02-26|SO|III RC 123/15|Wyrok|https://www.saos.org.pl/judgments/213473
-196442|2016-01-18|SO|III RC 76/15|Uzasadnienie|https://www.saos.org.pl/judgments/196442
-192026|2015-11-06|SO|XIII Ca 405/15|Wyrok|https://www.saos.org.pl/judgments/192026
-317993|2015-06-15|SO|XII Ca 86/15|Uzasadnienie|https://www.saos.org.pl/judgments/317993
-194977|2015-02-24|SO|V RC 735/14|Uzasadnienie|https://www.saos.org.pl/judgments/194977
-74879|2014-12-19|SO|III RC 345/13|Wyrok|https://www.saos.org.pl/judgments/74879
-71898|2014-11-18|SO|III RC 258/14|Wyrok|https://www.saos.org.pl/judgments/71898
-47621|2014-04-30|SO|III Ca 76/13|Wyrok|https://www.saos.org.pl/judgments/47621
-36317|2014-02-06|SO|III Ca 951/13|Wyrok|https://www.saos.org.pl/judgments/36317
-31010|2014-01-10|SO|XI 1Cz 572/13|Postanowienie|https://www.saos.org.pl/judgments/31010
+saos_id|date|court|case_number|type|score|saos_url
+213473|2016-02-26|SO|III RC 123/15|Wyrok|40|https://www.saos.org.pl/judgments/213473
+31010|2014-01-10|SO|XI 1Cz 572/13|Postanowienie|31|https://www.saos.org.pl/judgments/31010
+317993|2015-06-15|SO|XII Ca 86/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/317993

@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-111794|2013-07-05|TK|Ts 85/12|Postanowienie|https://www.saos.org.pl/judgments/111794
-111153|2012-06-19|TK|Ts 85/12|Postanowienie|https://www.saos.org.pl/judgments/111153
-110489|2011-11-10|TK|Ts 81/10|Postanowienie|https://www.saos.org.pl/judgments/110489
-110605|2011-01-25|TK|Ts 156/10|Postanowienie|https://www.saos.org.pl/judgments/110605
-109886|2010-07-14|TK|Ts 81/10|Postanowienie|https://www.saos.org.pl/judgments/109886
-109470|2009-05-26|TK|Ts 273/08|Postanowienie|https://www.saos.org.pl/judgments/109470
-109469|2009-01-06|TK|Ts 273/08|Postanowienie|https://www.saos.org.pl/judgments/109469
-89420|2009-01-06|SN|II PK 117/08|Wyrok|https://www.saos.org.pl/judgments/89420
+saos_id|date|court|case_number|type|score|saos_url
+111794|2013-07-05|TK|Ts 85/12|Postanowienie|80|https://www.saos.org.pl/judgments/111794
+111153|2012-06-19|TK|Ts 85/12|Postanowienie|80|https://www.saos.org.pl/judgments/111153
+110489|2011-11-10|TK|Ts 81/10|Postanowienie|80|https://www.saos.org.pl/judgments/110489
+110605|2011-01-25|TK|Ts 156/10|Postanowienie|80|https://www.saos.org.pl/judgments/110605
+109886|2010-07-14|TK|Ts 81/10|Postanowienie|80|https://www.saos.org.pl/judgments/109886
+109470|2009-05-26|TK|Ts 273/08|Postanowienie|80|https://www.saos.org.pl/judgments/109470
+109469|2009-01-06|TK|Ts 273/08|Postanowienie|80|https://www.saos.org.pl/judgments/109469
+89420|2009-01-06|SN|II PK 117/08|Wyrok|78|https://www.saos.org.pl/judgments/89420

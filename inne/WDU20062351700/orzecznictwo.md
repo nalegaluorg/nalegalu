@@ -2,16 +2,16 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa*
 
-Łącznie: **9** orzeczeń
+Łącznie: **8** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 1 (1)
 
 - 2011-03-29 | KIO | [KIO 588/11](https://www.saos.org.pl/judgments/117813) | Wyrok
 
-## art. 6 (3)
+## art. 6 (2)
 
 - 2026-03-03 | SO | [I ACa 2664/23](https://www.saos.org.pl/judgments/543445) | Wyrok
-- 2023-04-13 | SO | [XXV C 3502/20](https://www.saos.org.pl/judgments/515567) | Wyrok
 - 2017-06-01 | SO | [IV Ca 487/17](https://www.saos.org.pl/judgments/331642) | Wyrok
 
 ## art. 7 (1)

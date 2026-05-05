@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99271|2012-10-10|SN|I CZ 121/12|Postanowienie|https://www.saos.org.pl/judgments/99271
+saos_id|date|court|case_number|type|score|saos_url
+99271|2012-10-10|SN|I CZ 121/12|Postanowienie|69|https://www.saos.org.pl/judgments/99271

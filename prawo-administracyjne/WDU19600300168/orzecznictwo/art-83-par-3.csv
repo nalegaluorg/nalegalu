@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-456522|2022-02-03|SO|VII K 753/20|Uzasadnienie|https://www.saos.org.pl/judgments/456522
-443028|2021-05-13|SO|XVII AmE 195/19|Wyrok|https://www.saos.org.pl/judgments/443028
-433806|2019-03-13|SO|VII U 981/18|Wyrok|https://www.saos.org.pl/judgments/433806
-274154|2017-02-08|SO|II K 1039/15|Wyrok|https://www.saos.org.pl/judgments/274154
-130098|2015-02-03|SO|III AUa 3652/13|Wyrok|https://www.saos.org.pl/judgments/130098
-143899|2014-02-11|SO|II AKa 283/13|Wyrok|https://www.saos.org.pl/judgments/143899
-26764|2013-11-22|SO|II Ka 416/13|Wyrok|https://www.saos.org.pl/judgments/26764
-90289|2009-05-18|SN|IV KK 459/08|Wyrok|https://www.saos.org.pl/judgments/90289
-205992|1999-11-22|TK|U 6/99|Wyrok|https://www.saos.org.pl/judgments/205992
+saos_id|date|court|case_number|type|score|saos_url
+205992|1999-11-22|TK|U 6/99|Wyrok|98|https://www.saos.org.pl/judgments/205992
+90289|2009-05-18|SN|IV KK 459/08|Wyrok|78|https://www.saos.org.pl/judgments/90289
+130098|2015-02-03|SO|III AUa 3652/13|Wyrok|56|https://www.saos.org.pl/judgments/130098
+143899|2014-02-11|SO|II AKa 283/13|Wyrok|56|https://www.saos.org.pl/judgments/143899
+433806|2019-03-13|SO|VII U 981/18|Wyrok|40|https://www.saos.org.pl/judgments/433806

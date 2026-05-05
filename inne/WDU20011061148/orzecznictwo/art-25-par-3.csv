@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-46118|2014-04-08|SO|IX Ka 245/14|Wyrok|https://www.saos.org.pl/judgments/46118
-106780|2004-05-18|TK|SK 38/03|Wyrok|https://www.saos.org.pl/judgments/106780
+saos_id|date|court|case_number|type|score|saos_url
+106780|2004-05-18|TK|SK 38/03|Wyrok|98|https://www.saos.org.pl/judgments/106780

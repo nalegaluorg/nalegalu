@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-464119|2022-03-08|SO|IV Ka 120/22|Uzasadnienie|https://www.saos.org.pl/judgments/464119
-439151|2020-08-13|SO|VI Ka 250/20|Wyrok|https://www.saos.org.pl/judgments/439151
-381862|2019-04-02|SO|V Ka 86/19|Uzasadnienie|https://www.saos.org.pl/judgments/381862
-303566|2017-08-25|SO|V Ka 596/17|Uzasadnienie|https://www.saos.org.pl/judgments/303566
+saos_id|date|court|case_number|type|score|saos_url
+439151|2020-08-13|SO|VI Ka 250/20|Wyrok|40|https://www.saos.org.pl/judgments/439151
+381862|2019-04-02|SO|V Ka 86/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/381862
+303566|2017-08-25|SO|V Ka 596/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303566

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-538038|2025-03-06|SO|I ACa 356/22|Wyrok|https://www.saos.org.pl/judgments/538038
-288862|2017-05-17|SO|I ACa 14/17|Wyrok|https://www.saos.org.pl/judgments/288862
-233677|2016-04-28|SO|I ACa 763/15|Wyrok|https://www.saos.org.pl/judgments/233677
+saos_id|date|court|case_number|type|score|saos_url
+538038|2025-03-06|SO|I ACa 356/22|Wyrok|56|https://www.saos.org.pl/judgments/538038
+288862|2017-05-17|SO|I ACa 14/17|Wyrok|56|https://www.saos.org.pl/judgments/288862
+233677|2016-04-28|SO|I ACa 763/15|Wyrok|56|https://www.saos.org.pl/judgments/233677

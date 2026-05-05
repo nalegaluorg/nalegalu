@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-193326|2015-10-20|SO|III Ca 827/15|Uzasadnienie|https://www.saos.org.pl/judgments/193326
-217273|2015-02-25|SO|I C 814/13|Uzasadnienie|https://www.saos.org.pl/judgments/217273
+saos_id|date|court|case_number|type|score|saos_url
+193326|2015-10-20|SO|III Ca 827/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193326

@@ -1,29 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-542208|2026-01-20|SO|I C 2157/24|Zarządzenie|https://www.saos.org.pl/judgments/542208
-532479|2025-01-28|SO|I C 2133/24|Wyrok|https://www.saos.org.pl/judgments/532479
-539299|2024-11-25|SO|I C 2867/24|Wyrok|https://www.saos.org.pl/judgments/539299
-540676|2024-09-26|SO|I C 1678/24|Wyrok|https://www.saos.org.pl/judgments/540676
-540672|2024-07-29|SO|I C 1548/24|Wyrok|https://www.saos.org.pl/judgments/540672
-522683|2024-06-25|SO|I C 1005/24|Wyrok|https://www.saos.org.pl/judgments/522683
-540690|2024-04-05|SO|I C 3579/23|Wyrok|https://www.saos.org.pl/judgments/540690
-539304|2024-04-05|SO|I C 3364/23|Wyrok|https://www.saos.org.pl/judgments/539304
-498887|2023-11-29|SO|I C 624/23|Wyrok|https://www.saos.org.pl/judgments/498887
-537616|2023-11-23|SO|I C 2419/23|Wyrok|https://www.saos.org.pl/judgments/537616
-497203|2023-10-20|SO|I C 2663/23|Wyrok|https://www.saos.org.pl/judgments/497203
-498743|2023-10-18|SO|I C 585/23|Wyrok|https://www.saos.org.pl/judgments/498743
-496083|2023-10-17|SO|I C 1544/23|Wyrok|https://www.saos.org.pl/judgments/496083
-496466|2023-10-10|SO|I C 1840/23|Wyrok|https://www.saos.org.pl/judgments/496466
-496009|2023-09-22|SO|I C 1499/22|Wyrok|https://www.saos.org.pl/judgments/496009
-539289|2023-09-14|SO|I C 2044/23|Wyrok|https://www.saos.org.pl/judgments/539289
-496538|2023-09-14|SO|I C 1921/23|Wyrok|https://www.saos.org.pl/judgments/496538
-522689|2023-08-14|SO|I C 1741/23|Wyrok|https://www.saos.org.pl/judgments/522689
-499708|2023-08-14|SO|I C 940/23|Wyrok|https://www.saos.org.pl/judgments/499708
-495904|2023-08-08|SO|I C 1402/23|Wyrok|https://www.saos.org.pl/judgments/495904
-496412|2023-08-07|SO|I C 1786/23|Wyrok|https://www.saos.org.pl/judgments/496412
-495937|2023-08-04|SO|I C 1430/23|Wyrok|https://www.saos.org.pl/judgments/495937
-495985|2023-07-27|SO|I C 1475/23|Wyrok|https://www.saos.org.pl/judgments/495985
-495501|2023-07-27|SO|I C 1173/23|Wyrok|https://www.saos.org.pl/judgments/495501
-514509|2023-07-17|SO|XI GC 810/22|Zarządzenie|https://www.saos.org.pl/judgments/514509
-495950|2023-07-05|SO|I C 1441/22|Wyrok|https://www.saos.org.pl/judgments/495950
-514508|2023-07-03|SO|XI GC 795/22|Zarządzenie|https://www.saos.org.pl/judgments/514508
-539295|2023-03-14|SO|I C 2506/22|Wyrok|https://www.saos.org.pl/judgments/539295
+saos_id|date|court|case_number|type|score|saos_url
+498887|2023-11-29|SO|I C 624/23|Wyrok|40|https://www.saos.org.pl/judgments/498887
+498743|2023-10-18|SO|I C 585/23|Wyrok|40|https://www.saos.org.pl/judgments/498743

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90057|2009-04-17|SN|I UK 320/08|Wyrok|https://www.saos.org.pl/judgments/90057
+saos_id|date|court|case_number|type|score|saos_url
+90057|2009-04-17|SN|I UK 320/08|Wyrok|78|https://www.saos.org.pl/judgments/90057

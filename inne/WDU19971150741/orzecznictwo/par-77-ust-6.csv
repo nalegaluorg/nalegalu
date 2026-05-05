@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-207909|2015-12-21|SO|I C 1813/14|Wyrok|https://www.saos.org.pl/judgments/207909
+saos_id|date|court|case_number|type|score|saos_url
+207909|2015-12-21|SO|I C 1813/14|Wyrok|40|https://www.saos.org.pl/judgments/207909

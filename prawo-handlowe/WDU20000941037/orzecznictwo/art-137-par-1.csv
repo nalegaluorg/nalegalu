@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-407866|2019-10-28|SO|I AGa 19/18|Wyrok|https://www.saos.org.pl/judgments/407866
-368206|2018-09-21|SO|III AUa 939/16|Wyrok|https://www.saos.org.pl/judgments/368206
-261147|2016-06-29|SO|V Ga 72/16|Uzasadnienie|https://www.saos.org.pl/judgments/261147
-46388|2014-04-09|SO|I ACa 898/13|Wyrok|https://www.saos.org.pl/judgments/46388
-80621|2001-05-27|SN|III CZP 6/01|Uchwała|https://www.saos.org.pl/judgments/80621
+saos_id|date|court|case_number|type|score|saos_url
+80621|2001-05-27|SN|III CZP 6/01|Uchwała|89|https://www.saos.org.pl/judgments/80621
+407866|2019-10-28|SO|I AGa 19/18|Wyrok|56|https://www.saos.org.pl/judgments/407866
+368206|2018-09-21|SO|III AUa 939/16|Wyrok|56|https://www.saos.org.pl/judgments/368206
+46388|2014-04-09|SO|I ACa 898/13|Wyrok|56|https://www.saos.org.pl/judgments/46388
+261147|2016-06-29|SO|V Ga 72/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/261147

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-52973|2014-04-08|SO|IX GC 619/13|Wyrok|https://www.saos.org.pl/judgments/52973
-46375|2013-12-30|SO|I ACa 1259/13|Wyrok|https://www.saos.org.pl/judgments/46375
+saos_id|date|court|case_number|type|score|saos_url
+46375|2013-12-30|SO|I ACa 1259/13|Wyrok|56|https://www.saos.org.pl/judgments/46375
+52973|2014-04-08|SO|IX GC 619/13|Wyrok|40|https://www.saos.org.pl/judgments/52973

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-492653|2023-06-19|SO|VII Pa 27/23|Wyrok|https://www.saos.org.pl/judgments/492653
-475060|2022-10-03|SO|IX P 422/20|Zarządzenie|https://www.saos.org.pl/judgments/475060
-474820|2022-10-03|SO|IX P 160/18|Zarządzenie|https://www.saos.org.pl/judgments/474820
+saos_id|date|court|case_number|type|score|saos_url
+492653|2023-06-19|SO|VII Pa 27/23|Wyrok|40|https://www.saos.org.pl/judgments/492653

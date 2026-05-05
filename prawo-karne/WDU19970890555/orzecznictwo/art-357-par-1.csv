@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-494549|2023-06-22|SO|I ACa 76/22|Wyrok|https://www.saos.org.pl/judgments/494549
-485760|2021-09-21|SO|III C 342/19|Wyrok|https://www.saos.org.pl/judgments/485760
-438805|2018-10-12|SO|I C 168/18|Wyrok|https://www.saos.org.pl/judgments/438805
-331771|2018-01-23|SO|I ACa 666/17|Wyrok|https://www.saos.org.pl/judgments/331771
-340688|2017-11-22|SO|II AKa 34/17|Wyrok|https://www.saos.org.pl/judgments/340688
-312753|2017-05-15|SO|XII Ko 81/16|Wyrok|https://www.saos.org.pl/judgments/312753
-238628|2016-05-11|SO|III Ca 121/16|Uzasadnienie|https://www.saos.org.pl/judgments/238628
-211563|2016-02-12|SO|II Ka 310/15|Wyrok|https://www.saos.org.pl/judgments/211563
-191510|2015-10-26|SO|I C 223/14|Wyrok|https://www.saos.org.pl/judgments/191510
-199321|2015-07-30|SO|II C 1696/14|Uzasadnienie|https://www.saos.org.pl/judgments/199321
-183076|2015-04-08|SO|II AKa 79/15|Wyrok|https://www.saos.org.pl/judgments/183076
-178096|2015-03-03|SO|XII Ko 50/13|Uzasadnienie|https://www.saos.org.pl/judgments/178096
-146929|2014-06-25|SO|I C 540/13|Wyrok|https://www.saos.org.pl/judgments/146929
-110279|2011-07-18|TK|K 25/09|Wyrok|https://www.saos.org.pl/judgments/110279
-144309|2011-05-09|SO|I C 266/10|Wyrok|https://www.saos.org.pl/judgments/144309
+saos_id|date|court|case_number|type|score|saos_url
+110279|2011-07-18|TK|K 25/09|Wyrok|98|https://www.saos.org.pl/judgments/110279
+494549|2023-06-22|SO|I ACa 76/22|Wyrok|56|https://www.saos.org.pl/judgments/494549
+331771|2018-01-23|SO|I ACa 666/17|Wyrok|56|https://www.saos.org.pl/judgments/331771
+340688|2017-11-22|SO|II AKa 34/17|Wyrok|56|https://www.saos.org.pl/judgments/340688
+183076|2015-04-08|SO|II AKa 79/15|Wyrok|56|https://www.saos.org.pl/judgments/183076
+485760|2021-09-21|SO|III C 342/19|Wyrok|40|https://www.saos.org.pl/judgments/485760
+191510|2015-10-26|SO|I C 223/14|Wyrok|40|https://www.saos.org.pl/judgments/191510
+144309|2011-05-09|SO|I C 266/10|Wyrok|40|https://www.saos.org.pl/judgments/144309
+238628|2016-05-11|SO|III Ca 121/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/238628
+199321|2015-07-30|SO|II C 1696/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/199321

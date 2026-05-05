@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-539114|2024-10-22|SO|VI P 279/17|Wyrok|https://www.saos.org.pl/judgments/539114
-171300|2015-03-19|SO|VIII Pa 212/14|Wyrok|https://www.saos.org.pl/judgments/171300
-44454|2014-04-24|SO|VII Pz 29/14|Uzasadnienie|https://www.saos.org.pl/judgments/44454
-26450|2013-03-07|SO|IV P 1038/12|Wyrok|https://www.saos.org.pl/judgments/26450
-7181|2013-01-30|SO|IV Pa 56/12|Wyrok|https://www.saos.org.pl/judgments/7181
-97675|2012-03-27|SN|III PK 77/11|Postanowienie|https://www.saos.org.pl/judgments/97675
-111059|2012-02-22|TK|Ts 24/11|Postanowienie|https://www.saos.org.pl/judgments/111059
-88429|2008-07-09|SN|I PK 315/07|Wyrok|https://www.saos.org.pl/judgments/88429
-87171|2008-01-29|SN|I PK 196/07|Wyrok|https://www.saos.org.pl/judgments/87171
-81978|2003-04-25|SN|III CZP 8/03|Uchwała|https://www.saos.org.pl/judgments/81978
-80987|2001-11-14|SN|III ZP 20/01|Uchwała|https://www.saos.org.pl/judgments/80987
+saos_id|date|court|case_number|type|score|saos_url
+81978|2003-04-25|SN|III CZP 8/03|Uchwała|96|https://www.saos.org.pl/judgments/81978
+80987|2001-11-14|SN|III ZP 20/01|Uchwała|96|https://www.saos.org.pl/judgments/80987
+111059|2012-02-22|TK|Ts 24/11|Postanowienie|80|https://www.saos.org.pl/judgments/111059
+88429|2008-07-09|SN|I PK 315/07|Wyrok|78|https://www.saos.org.pl/judgments/88429
+87171|2008-01-29|SN|I PK 196/07|Wyrok|78|https://www.saos.org.pl/judgments/87171
+97675|2012-03-27|SN|III PK 77/11|Postanowienie|69|https://www.saos.org.pl/judgments/97675
+539114|2024-10-22|SO|VI P 279/17|Wyrok|40|https://www.saos.org.pl/judgments/539114
+7181|2013-01-30|SO|IV Pa 56/12|Wyrok|40|https://www.saos.org.pl/judgments/7181
+44454|2014-04-24|SO|VII Pz 29/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/44454

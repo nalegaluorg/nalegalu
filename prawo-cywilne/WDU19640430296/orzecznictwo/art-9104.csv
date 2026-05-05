@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-447743|2021-09-10|SO|I ACa 772/20|Uzasadnienie|https://www.saos.org.pl/judgments/447743
-133460|2015-01-30|SO|II Cz 884/14|Postanowienie|https://www.saos.org.pl/judgments/133460
-70675|2014-10-21|SO|I ACa 704/14|Wyrok|https://www.saos.org.pl/judgments/70675
-63815|2014-09-02|SO|I ACz 1457/14|Postanowienie|https://www.saos.org.pl/judgments/63815
-636|2012-08-23|SO|I ACa 593/12|Wyrok|https://www.saos.org.pl/judgments/636
+saos_id|date|court|case_number|type|score|saos_url
+70675|2014-10-21|SO|I ACa 704/14|Wyrok|56|https://www.saos.org.pl/judgments/70675
+636|2012-08-23|SO|I ACa 593/12|Wyrok|56|https://www.saos.org.pl/judgments/636
+63815|2014-09-02|SO|I ACz 1457/14|Postanowienie|47|https://www.saos.org.pl/judgments/63815
+447743|2021-09-10|SO|I ACa 772/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/447743

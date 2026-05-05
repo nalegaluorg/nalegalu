@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-45625|2014-04-09|SO|I ACa 1299/13|Wyrok|https://www.saos.org.pl/judgments/45625
+saos_id|date|court|case_number|type|score|saos_url
+45625|2014-04-09|SO|I ACa 1299/13|Wyrok|56|https://www.saos.org.pl/judgments/45625

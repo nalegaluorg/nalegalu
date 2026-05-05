@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-417910|2020-01-17|SO|VI Ka 747/19|Wyrok|https://www.saos.org.pl/judgments/417910
-429629|2018-06-14|SO|II AKa 143/18|Wyrok|https://www.saos.org.pl/judgments/429629
-341974|2018-05-11|SO|VI Ka 158/18|Wyrok|https://www.saos.org.pl/judgments/341974
-38475|2014-02-05|SO|IV Ka 1240/13|Wyrok|https://www.saos.org.pl/judgments/38475
-96422|2011-11-30|SN|I KZP 16/11|Postanowienie|https://www.saos.org.pl/judgments/96422
+saos_id|date|court|case_number|type|score|saos_url
+96422|2011-11-30|SN|I KZP 16/11|Postanowienie|69|https://www.saos.org.pl/judgments/96422
+429629|2018-06-14|SO|II AKa 143/18|Wyrok|56|https://www.saos.org.pl/judgments/429629
+341974|2018-05-11|SO|VI Ka 158/18|Wyrok|40|https://www.saos.org.pl/judgments/341974

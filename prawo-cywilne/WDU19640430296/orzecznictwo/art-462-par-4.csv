@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-471195|2022-05-20|SO|VII Ua 66/21|Wyrok|https://www.saos.org.pl/judgments/471195
+saos_id|date|court|case_number|type|score|saos_url
+471195|2022-05-20|SO|VII Ua 66/21|Wyrok|40|https://www.saos.org.pl/judgments/471195

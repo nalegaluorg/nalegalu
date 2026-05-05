@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-83370|2005-04-27|SN|IV KK 89/05|Postanowienie|https://www.saos.org.pl/judgments/83370
-82519|2004-02-25|SN|II KK 391/03|Postanowienie|https://www.saos.org.pl/judgments/82519
+saos_id|date|court|case_number|type|score|saos_url
+83370|2005-04-27|SN|IV KK 89/05|Postanowienie|69|https://www.saos.org.pl/judgments/83370
+82519|2004-02-25|SN|II KK 391/03|Postanowienie|69|https://www.saos.org.pl/judgments/82519

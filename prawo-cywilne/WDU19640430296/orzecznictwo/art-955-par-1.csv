@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-303909|2017-09-14|SO|II Cz 836/17|Postanowienie|https://www.saos.org.pl/judgments/303909
-276377|2017-02-15|SO|III Ca 1529/16|Uzasadnienie|https://www.saos.org.pl/judgments/276377
-234831|2016-06-08|SO|I C 4/16|Wyrok|https://www.saos.org.pl/judgments/234831
-158076|2015-05-20|SO|I ACa 152/15|Wyrok|https://www.saos.org.pl/judgments/158076
-151341|2015-03-04|SO|II Cz 30/15|Postanowienie|https://www.saos.org.pl/judgments/151341
-152032|2015-02-27|SO|II Cz 353/14|Postanowienie|https://www.saos.org.pl/judgments/152032
-60483|2014-08-28|SO|I ACa 510/14|Wyrok|https://www.saos.org.pl/judgments/60483
-104376|2014-02-05|SN|V CSK 172/13|Wyrok|https://www.saos.org.pl/judgments/104376
-17428|2013-08-02|SO|VIII Cz 430/13|Postanowienie|https://www.saos.org.pl/judgments/17428
+saos_id|date|court|case_number|type|score|saos_url
+104376|2014-02-05|SN|V CSK 172/13|Wyrok|78|https://www.saos.org.pl/judgments/104376
+158076|2015-05-20|SO|I ACa 152/15|Wyrok|56|https://www.saos.org.pl/judgments/158076
+60483|2014-08-28|SO|I ACa 510/14|Wyrok|56|https://www.saos.org.pl/judgments/60483
+234831|2016-06-08|SO|I C 4/16|Wyrok|40|https://www.saos.org.pl/judgments/234831
+276377|2017-02-15|SO|III Ca 1529/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/276377

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 11 września 2
 
 ## art. 118 (1)
 
-- 2010-04-07 | SN | [I UK 345/09](https://www.saos.org.pl/judgments/76324) | Wyrok
+- 2010-04-07 | SN | [I UK 345/09](https://www.saos.org.pl/judgments/76324) | Wyrok ★
 

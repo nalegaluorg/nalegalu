@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-334108|2018-03-15|SO|IX Ca 1096/17|Wyrok|https://www.saos.org.pl/judgments/334108
-33758|2014-01-29|SO|VI GC 7/14|Wyrok|https://www.saos.org.pl/judgments/33758
-22483|2013-09-18|SO|VI GC 188/13|Wyrok|https://www.saos.org.pl/judgments/22483
+saos_id|date|court|case_number|type|score|saos_url
+33758|2014-01-29|SO|VI GC 7/14|Wyrok|40|https://www.saos.org.pl/judgments/33758
+22483|2013-09-18|SO|VI GC 188/13|Wyrok|40|https://www.saos.org.pl/judgments/22483

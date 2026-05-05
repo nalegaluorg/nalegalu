@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481629|2022-11-09|SO|III AUa 1269/20|Wyrok|https://www.saos.org.pl/judgments/481629
-460665|2021-06-15|SO|III AUz 61/21|Postanowienie|https://www.saos.org.pl/judgments/460665
-426541|2020-11-12|SO|IV U 1218/20|Wyrok|https://www.saos.org.pl/judgments/426541
-410647|2020-02-28|SO|I C 3405/16|Wyrok|https://www.saos.org.pl/judgments/410647
-342911|2018-05-22|SO|IV U 135/18|Wyrok|https://www.saos.org.pl/judgments/342911
-305635|2017-08-10|SO|III AUa 1184/16|Wyrok|https://www.saos.org.pl/judgments/305635
+saos_id|date|court|case_number|type|score|saos_url
+481629|2022-11-09|SO|III AUa 1269/20|Wyrok|56|https://www.saos.org.pl/judgments/481629
+305635|2017-08-10|SO|III AUa 1184/16|Wyrok|56|https://www.saos.org.pl/judgments/305635
+460665|2021-06-15|SO|III AUz 61/21|Postanowienie|47|https://www.saos.org.pl/judgments/460665

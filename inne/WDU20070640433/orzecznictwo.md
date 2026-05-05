@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 29 marca 2007 r. o zmianie ustawy o Kraj
 
 ## art. 6 (1)
 
-- 2015-04-01 | SN | [II UK 190/14](https://www.saos.org.pl/judgments/168749) | Wyrok
+- 2015-04-01 | SN | [II UK 190/14](https://www.saos.org.pl/judgments/168749) | Wyrok ★
 

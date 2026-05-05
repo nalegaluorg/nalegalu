@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-166867|2014-09-30|SN|I KZP 17/14|Postanowienie|https://www.saos.org.pl/judgments/166867
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-140769|2013-09-11|SO|II AKa 249/13|Wyrok|https://www.saos.org.pl/judgments/140769
-110982|2012-04-04|TK|SK 7/10|Postanowienie|https://www.saos.org.pl/judgments/110982
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460
+110982|2012-04-04|TK|SK 7/10|Postanowienie|80|https://www.saos.org.pl/judgments/110982
+166867|2014-09-30|SN|I KZP 17/14|Postanowienie|69|https://www.saos.org.pl/judgments/166867
+140769|2013-09-11|SO|II AKa 249/13|Wyrok|56|https://www.saos.org.pl/judgments/140769

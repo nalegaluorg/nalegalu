@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-383685|2019-06-12|SO|II Kz 138/19|Postanowienie|https://www.saos.org.pl/judgments/383685
-404957|2017-06-26|SO|VIII K 33/16|Wyrok|https://www.saos.org.pl/judgments/404957
-282530|2017-02-01|SO|II K 504/15|Wyrok|https://www.saos.org.pl/judgments/282530
-204589|2015-12-02|SO|II Ko 585/15|Wyrok|https://www.saos.org.pl/judgments/204589
-145802|2014-04-30|SO|II AKa 109/14|Wyrok|https://www.saos.org.pl/judgments/145802
-35559|2014-01-23|SO|IV Ka 1293/12|Wyrok|https://www.saos.org.pl/judgments/35559
-103764|2013-12-04|SN|III KK 298/13|Wyrok|https://www.saos.org.pl/judgments/103764
-109772|2010-06-09|TK|SK 52/08|Wyrok|https://www.saos.org.pl/judgments/109772
-87284|2008-02-07|SN|SND 1/07|Postanowienie|https://www.saos.org.pl/judgments/87284
-86679|2007-10-05|SN|SND 2/07|Postanowienie|https://www.saos.org.pl/judgments/86679
-85833|2007-05-08|SN|IV KK 93/07|Wyrok|https://www.saos.org.pl/judgments/85833
-81880|2003-02-25|SN|WK 3/03|Postanowienie|https://www.saos.org.pl/judgments/81880
-80891|2001-10-11|SN|II CKN 559/99|Wyrok|https://www.saos.org.pl/judgments/80891
-136673|1998-03-26|SO|II AKa 31/98|Wyrok|https://www.saos.org.pl/judgments/136673
+saos_id|date|court|case_number|type|score|saos_url
+109772|2010-06-09|TK|SK 52/08|Wyrok|98|https://www.saos.org.pl/judgments/109772
+103764|2013-12-04|SN|III KK 298/13|Wyrok|78|https://www.saos.org.pl/judgments/103764
+85833|2007-05-08|SN|IV KK 93/07|Wyrok|78|https://www.saos.org.pl/judgments/85833
+80891|2001-10-11|SN|II CKN 559/99|Wyrok|78|https://www.saos.org.pl/judgments/80891
+87284|2008-02-07|SN|SND 1/07|Postanowienie|69|https://www.saos.org.pl/judgments/87284
+86679|2007-10-05|SN|SND 2/07|Postanowienie|69|https://www.saos.org.pl/judgments/86679
+81880|2003-02-25|SN|WK 3/03|Postanowienie|69|https://www.saos.org.pl/judgments/81880
+145802|2014-04-30|SO|II AKa 109/14|Wyrok|56|https://www.saos.org.pl/judgments/145802
+136673|1998-03-26|SO|II AKa 31/98|Wyrok|56|https://www.saos.org.pl/judgments/136673
+282530|2017-02-01|SO|II K 504/15|Wyrok|40|https://www.saos.org.pl/judgments/282530
+35559|2014-01-23|SO|IV Ka 1293/12|Wyrok|40|https://www.saos.org.pl/judgments/35559

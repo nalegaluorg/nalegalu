@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-166506|2014-08-06|SN|II UK 523/13|Wyrok|https://www.saos.org.pl/judgments/166506
-98948|2012-09-05|SN|IV CSK 137/12|Wyrok|https://www.saos.org.pl/judgments/98948
-92791|2010-08-19|SN|IV CSK 53/10|Wyrok|https://www.saos.org.pl/judgments/92791
-83205|2005-02-11|SN|III CK 304/04|Wyrok|https://www.saos.org.pl/judgments/83205
+saos_id|date|court|case_number|type|score|saos_url
+166506|2014-08-06|SN|II UK 523/13|Wyrok|78|https://www.saos.org.pl/judgments/166506
+98948|2012-09-05|SN|IV CSK 137/12|Wyrok|78|https://www.saos.org.pl/judgments/98948
+92791|2010-08-19|SN|IV CSK 53/10|Wyrok|78|https://www.saos.org.pl/judgments/92791
+83205|2005-02-11|SN|III CK 304/04|Wyrok|78|https://www.saos.org.pl/judgments/83205

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-272868|2016-12-15|SO|III AUa 266/16|Wyrok|https://www.saos.org.pl/judgments/272868
+saos_id|date|court|case_number|type|score|saos_url
+272868|2016-12-15|SO|III AUa 266/16|Wyrok|56|https://www.saos.org.pl/judgments/272868

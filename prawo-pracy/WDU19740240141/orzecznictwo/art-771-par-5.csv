@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-235715|2016-05-20|SO|VIII Pa 16/16|Wyrok|https://www.saos.org.pl/judgments/235715
-268856|2015-05-28|SO|VIII Pa 23/15|Wyrok|https://www.saos.org.pl/judgments/268856
+saos_id|date|court|case_number|type|score|saos_url
+512915|2023-11-23|SO|VIII Pa 116/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/512915
+380422|2019-02-26|SO|VIII Pa 53/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/380422

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 5 stycznia 2011 r. o zmianie ustawy o br
 
 ## art. 3 (1)
 
-- 2013-10-17 | TK | [Ts 41/12](https://www.saos.org.pl/judgments/206380) | Postanowienie
+- 2013-10-17 | TK | [Ts 41/12](https://www.saos.org.pl/judgments/206380) | Postanowienie ★
 

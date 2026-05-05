@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-515934|2024-11-05|SO|VI Ka 991/23|Wyrok|https://www.saos.org.pl/judgments/515934
-486264|2023-02-08|SO|II AKa 7/22|Wyrok|https://www.saos.org.pl/judgments/486264
-349030|2018-08-02|SO|II AKa 205/18|Wyrok|https://www.saos.org.pl/judgments/349030
-341977|2018-04-24|SO|VI Ka 81/18|Wyrok|https://www.saos.org.pl/judgments/341977
-324881|2017-12-15|SO|VII Ka 817/17|Wyrok|https://www.saos.org.pl/judgments/324881
-297281|2017-03-16|SO|I ACa 760/16|Wyrok|https://www.saos.org.pl/judgments/297281
-536812|2016-12-13|SO|II AKa 129/16|Wyrok|https://www.saos.org.pl/judgments/536812
-271916|2016-06-07|SO|XV C 520/15|Wyrok|https://www.saos.org.pl/judgments/271916
-245104|2016-04-14|SN|II KK 373/15|Wyrok|https://www.saos.org.pl/judgments/245104
-220787|2016-04-14|SO|II Ka 163/16|Wyrok|https://www.saos.org.pl/judgments/220787
-536814|2015-02-26|SO|II AKa 256/13|Wyrok|https://www.saos.org.pl/judgments/536814
-74060|2014-11-28|SO|IV Ka 960/14|Wyrok|https://www.saos.org.pl/judgments/74060
-135987|2012-06-05|SO|II AKa 43/12|Wyrok|https://www.saos.org.pl/judgments/135987
+saos_id|date|court|case_number|type|score|saos_url
+245104|2016-04-14|SN|II KK 373/15|Wyrok|78|https://www.saos.org.pl/judgments/245104
+486264|2023-02-08|SO|II AKa 7/22|Wyrok|56|https://www.saos.org.pl/judgments/486264
+349030|2018-08-02|SO|II AKa 205/18|Wyrok|56|https://www.saos.org.pl/judgments/349030
+297281|2017-03-16|SO|I ACa 760/16|Wyrok|56|https://www.saos.org.pl/judgments/297281
+536812|2016-12-13|SO|II AKa 129/16|Wyrok|56|https://www.saos.org.pl/judgments/536812
+536814|2015-02-26|SO|II AKa 256/13|Wyrok|56|https://www.saos.org.pl/judgments/536814
+135987|2012-06-05|SO|II AKa 43/12|Wyrok|56|https://www.saos.org.pl/judgments/135987
+515934|2024-11-05|SO|VI Ka 991/23|Wyrok|40|https://www.saos.org.pl/judgments/515934
+341977|2018-04-24|SO|VI Ka 81/18|Wyrok|40|https://www.saos.org.pl/judgments/341977
+324881|2017-12-15|SO|VII Ka 817/17|Wyrok|40|https://www.saos.org.pl/judgments/324881
+74060|2014-11-28|SO|IV Ka 960/14|Wyrok|40|https://www.saos.org.pl/judgments/74060

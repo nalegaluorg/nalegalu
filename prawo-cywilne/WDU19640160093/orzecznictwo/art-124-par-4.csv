@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-499949|2022-02-14|SO|I Ca 624/21|Postanowienie|https://www.saos.org.pl/judgments/499949
-167748|2014-12-16|SN|III CSK 42/14|Postanowienie|https://www.saos.org.pl/judgments/167748
-92234|2010-05-13|SN|IV CSK 510/09|Postanowienie|https://www.saos.org.pl/judgments/92234
+saos_id|date|court|case_number|type|score|saos_url
+167748|2014-12-16|SN|III CSK 42/14|Postanowienie|69|https://www.saos.org.pl/judgments/167748
+92234|2010-05-13|SN|IV CSK 510/09|Postanowienie|69|https://www.saos.org.pl/judgments/92234

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-103062|2013-10-03|SN|SNO 24/13|Wyrok|https://www.saos.org.pl/judgments/103062
+saos_id|date|court|case_number|type|score|saos_url
+103062|2013-10-03|SN|SNO 24/13|Wyrok|78|https://www.saos.org.pl/judgments/103062

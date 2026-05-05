@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-470306|2022-06-06|SO|VIII GC 500/19|Uzasadnienie|https://www.saos.org.pl/judgments/470306
-448781|2021-10-18|SO|VIII GC 84/21|Uzasadnienie|https://www.saos.org.pl/judgments/448781
-413082|2020-02-21|SO|I C 1225/12|Uzasadnienie|https://www.saos.org.pl/judgments/413082
-464431|2020-01-29|SO|XXV C 2118/18|Wyrok|https://www.saos.org.pl/judgments/464431
-349672|2018-06-18|SO|X GC 501/16|Zarządzenie|https://www.saos.org.pl/judgments/349672
-332585|2017-11-22|SO|I ACa 919/17|Wyrok|https://www.saos.org.pl/judgments/332585
-342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|https://www.saos.org.pl/judgments/342818
-320450|2017-05-10|SO|X GC 203/16|Zarządzenie|https://www.saos.org.pl/judgments/320450
-320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|https://www.saos.org.pl/judgments/320463
-218277|2016-01-28|SO|I ACa 1464/15|Wyrok|https://www.saos.org.pl/judgments/218277
-199292|2015-12-10|SO|I ACa 845/15|Wyrok|https://www.saos.org.pl/judgments/199292
-149902|2015-03-31|SO|II C 316/14|Uzasadnienie|https://www.saos.org.pl/judgments/149902
-10991|2013-01-17|SO|VI ACa 963/12|Wyrok|https://www.saos.org.pl/judgments/10991
+saos_id|date|court|case_number|type|score|saos_url
+332585|2017-11-22|SO|I ACa 919/17|Wyrok|56|https://www.saos.org.pl/judgments/332585
+218277|2016-01-28|SO|I ACa 1464/15|Wyrok|56|https://www.saos.org.pl/judgments/218277
+199292|2015-12-10|SO|I ACa 845/15|Wyrok|56|https://www.saos.org.pl/judgments/199292
+10991|2013-01-17|SO|VI ACa 963/12|Wyrok|56|https://www.saos.org.pl/judgments/10991
+413082|2020-02-21|SO|I C 1225/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/413082
+349672|2018-06-18|SO|X GC 501/16|Zarządzenie|27|https://www.saos.org.pl/judgments/349672
+342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/342818
+320450|2017-05-10|SO|X GC 203/16|Zarządzenie|27|https://www.saos.org.pl/judgments/320450
+320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/320463
+149902|2015-03-31|SO|II C 316/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/149902

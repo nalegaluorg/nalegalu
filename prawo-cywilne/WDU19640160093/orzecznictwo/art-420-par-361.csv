@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-164367|2006-06-21|SN|I CSK 43/06|Wyrok|https://www.saos.org.pl/judgments/164367
+saos_id|date|court|case_number|type|score|saos_url
+164367|2006-06-21|SN|I CSK 43/06|Wyrok|78|https://www.saos.org.pl/judgments/164367

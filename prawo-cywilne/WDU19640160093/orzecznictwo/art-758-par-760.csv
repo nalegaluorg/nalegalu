@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-376655|2018-11-20|SO|I AGa 194/18|Wyrok|https://www.saos.org.pl/judgments/376655
-344870|2018-06-25|SO|VIII GC 128/18|Zarządzenie|https://www.saos.org.pl/judgments/344870
+saos_id|date|court|case_number|type|score|saos_url
+376655|2018-11-20|SO|I AGa 194/18|Wyrok|56|https://www.saos.org.pl/judgments/376655

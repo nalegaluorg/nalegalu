@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-528742|2025-01-29|SO|VI Ka 462/24|Wyrok|https://www.saos.org.pl/judgments/528742
-1359|2012-09-05|SO|II S 18/12|Postanowienie|https://www.saos.org.pl/judgments/1359
-110341|2011-07-18|TK|SK 10/10|Wyrok|https://www.saos.org.pl/judgments/110341
+saos_id|date|court|case_number|type|score|saos_url
+110341|2011-07-18|TK|SK 10/10|Wyrok|98|https://www.saos.org.pl/judgments/110341
+1359|2012-09-05|SO|II S 18/12|Postanowienie|47|https://www.saos.org.pl/judgments/1359

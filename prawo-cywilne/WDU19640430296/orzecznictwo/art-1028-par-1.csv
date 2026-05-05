@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-91510|2009-12-18|SN|III CNP 46/09|Postanowienie|https://www.saos.org.pl/judgments/91510
-84360|2006-06-02|SN|SNO 23/06|Wyrok|https://www.saos.org.pl/judgments/84360
-107584|2006-04-04|TK|K 11/04|Wyrok|https://www.saos.org.pl/judgments/107584
-163655|2005-10-19|SN|V CK 642/04|Wyrok|https://www.saos.org.pl/judgments/163655
+saos_id|date|court|case_number|type|score|saos_url
+107584|2006-04-04|TK|K 11/04|Wyrok|98|https://www.saos.org.pl/judgments/107584
+84360|2006-06-02|SN|SNO 23/06|Wyrok|78|https://www.saos.org.pl/judgments/84360
+163655|2005-10-19|SN|V CK 642/04|Wyrok|78|https://www.saos.org.pl/judgments/163655
+91510|2009-12-18|SN|III CNP 46/09|Postanowienie|69|https://www.saos.org.pl/judgments/91510

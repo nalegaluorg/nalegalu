@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-419777|2020-08-10|SO|V AGa 39/20|Wyrok|https://www.saos.org.pl/judgments/419777
+saos_id|date|court|case_number|type|score|saos_url
+419777|2020-08-10|SO|V AGa 39/20|Wyrok|56|https://www.saos.org.pl/judgments/419777

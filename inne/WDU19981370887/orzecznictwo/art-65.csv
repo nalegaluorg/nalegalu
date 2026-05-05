@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504880|2024-04-17|SO|III AUa 2649/20|Wyrok|https://www.saos.org.pl/judgments/504880
-34862|2013-12-19|SO|IV U 1460/12|Wyrok|https://www.saos.org.pl/judgments/34862
-4849|2012-12-19|SO|III AUa 544/12|Wyrok|https://www.saos.org.pl/judgments/4849
-204|2012-10-24|SO|III AUa 407/12|Wyrok|https://www.saos.org.pl/judgments/204
+saos_id|date|court|case_number|type|score|saos_url
+504880|2024-04-17|SO|III AUa 2649/20|Wyrok|56|https://www.saos.org.pl/judgments/504880
+4849|2012-12-19|SO|III AUa 544/12|Wyrok|56|https://www.saos.org.pl/judgments/4849
+204|2012-10-24|SO|III AUa 407/12|Wyrok|56|https://www.saos.org.pl/judgments/204

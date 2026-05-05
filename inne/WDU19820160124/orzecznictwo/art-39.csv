@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-455609|2021-04-21|SO|I C 1384/18|Postanowienie|https://www.saos.org.pl/judgments/455609
-363539|2018-05-18|SO|I ACa 1431/17|Wyrok|https://www.saos.org.pl/judgments/363539
-267185|2016-11-29|SO|V ACa 946/15|Wyrok|https://www.saos.org.pl/judgments/267185
-82397|2003-12-12|SN|III RN 135/03|Wyrok|https://www.saos.org.pl/judgments/82397
-80602|2001-05-29|SN|I CKN 1217/98|Wyrok|https://www.saos.org.pl/judgments/80602
+saos_id|date|court|case_number|type|score|saos_url
+82397|2003-12-12|SN|III RN 135/03|Wyrok|78|https://www.saos.org.pl/judgments/82397
+80602|2001-05-29|SN|I CKN 1217/98|Wyrok|78|https://www.saos.org.pl/judgments/80602
+363539|2018-05-18|SO|I ACa 1431/17|Wyrok|56|https://www.saos.org.pl/judgments/363539
+267185|2016-11-29|SO|V ACa 946/15|Wyrok|56|https://www.saos.org.pl/judgments/267185

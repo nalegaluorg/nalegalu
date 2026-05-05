@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-359445|2018-04-17|SO|VII AGa 251/18|Wyrok|https://www.saos.org.pl/judgments/359445
-283508|2017-03-13|SO|II W 1715/16|Wyrok|https://www.saos.org.pl/judgments/283508
-225045|2013-10-16|SO|II C 310/13|Wyrok|https://www.saos.org.pl/judgments/225045
+saos_id|date|court|case_number|type|score|saos_url
+359445|2018-04-17|SO|VII AGa 251/18|Wyrok|56|https://www.saos.org.pl/judgments/359445

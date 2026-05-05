@@ -1,11 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-463653|2021-12-13|SO|I C 828/18|Postanowienie|https://www.saos.org.pl/judgments/463653
-313000|2017-11-08|SO|VII Pz 142/17|Postanowienie|https://www.saos.org.pl/judgments/313000
-256027|2016-10-14|SO|I C 22/14|Postanowienie|https://www.saos.org.pl/judgments/256027
-215052|2016-03-21|SO|XVII AmA 40/14|Postanowienie|https://www.saos.org.pl/judgments/215052
-191748|2015-12-09|SO|VIII Gz 162/15|Postanowienie|https://www.saos.org.pl/judgments/191748
-191747|2015-12-09|SO|VIII Gz 161/15|Postanowienie|https://www.saos.org.pl/judgments/191747
-184921|2015-06-17|SO|III Ca 1592/14|Postanowienie|https://www.saos.org.pl/judgments/184921
-58259|2014-07-03|SO|I Ns 122/14|Postanowienie|https://www.saos.org.pl/judgments/58259
-144592|2013-10-22|SO|I S 202/13|Postanowienie|https://www.saos.org.pl/judgments/144592
-10757|2013-04-15|SO|II Cz 225/13|Postanowienie|https://www.saos.org.pl/judgments/10757
+saos_id|date|court|case_number|type|score|saos_url
+144592|2013-10-22|SO|I S 202/13|Postanowienie|47|https://www.saos.org.pl/judgments/144592
+256027|2016-10-14|SO|I C 22/14|Postanowienie|31|https://www.saos.org.pl/judgments/256027

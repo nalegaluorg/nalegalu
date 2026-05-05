@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-386726|2018-03-19|SO|XXV C 1582/17|Postanowienie|https://www.saos.org.pl/judgments/386726
-426157|2016-11-30|SO|IX GC 323/16|Postanowienie|https://www.saos.org.pl/judgments/426157
+saos_id|date|court|case_number|type|score|saos_url
+426157|2016-11-30|SO|IX GC 323/16|Postanowienie|31|https://www.saos.org.pl/judgments/426157

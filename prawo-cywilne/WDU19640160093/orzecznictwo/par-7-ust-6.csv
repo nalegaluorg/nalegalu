@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-541000|2025-05-12|SO|I ACa 3639/24|Wyrok|https://www.saos.org.pl/judgments/541000
-537607|2025-05-09|SO|I C 1710/24|Wyrok|https://www.saos.org.pl/judgments/537607
-524545|2024-05-15|SO|I ACa 618/23|Wyrok|https://www.saos.org.pl/judgments/524545
-520118|2024-01-03|SO|V ACa 755/23|Wyrok|https://www.saos.org.pl/judgments/520118
-539164|2023-11-17|SO|I ACa 2002/22|Wyrok|https://www.saos.org.pl/judgments/539164
-501835|2023-10-25|SO|II Ca 2291/22|Wyrok|https://www.saos.org.pl/judgments/501835
-528154|2023-04-06|SO|I ACa 337/22|Wyrok|https://www.saos.org.pl/judgments/528154
-493770|2023-03-31|SO|I ACa 174/22|Wyrok|https://www.saos.org.pl/judgments/493770
-479480|2022-12-21|SO|I C 373/22|Uzasadnienie|https://www.saos.org.pl/judgments/479480
-483467|2022-11-18|SO|I C 835/21|Wyrok|https://www.saos.org.pl/judgments/483467
-471631|2022-07-21|SO|I ACa 1290/21|Wyrok|https://www.saos.org.pl/judgments/471631
-473374|2022-06-15|SO|I C 453/21|Wyrok|https://www.saos.org.pl/judgments/473374
-482881|2022-06-06|SO|I C 755/20|Zarządzenie|https://www.saos.org.pl/judgments/482881
-477728|2022-05-20|SO|I C 1834/21|Zarządzenie|https://www.saos.org.pl/judgments/477728
-311441|2015-09-28|SO|II Ca 393/15|Wyrok|https://www.saos.org.pl/judgments/311441
+saos_id|date|court|case_number|type|score|saos_url
+541000|2025-05-12|SO|I ACa 3639/24|Wyrok|56|https://www.saos.org.pl/judgments/541000
+524545|2024-05-15|SO|I ACa 618/23|Wyrok|56|https://www.saos.org.pl/judgments/524545
+520118|2024-01-03|SO|V ACa 755/23|Wyrok|56|https://www.saos.org.pl/judgments/520118
+539164|2023-11-17|SO|I ACa 2002/22|Wyrok|56|https://www.saos.org.pl/judgments/539164
+528154|2023-04-06|SO|I ACa 337/22|Wyrok|56|https://www.saos.org.pl/judgments/528154
+493770|2023-03-31|SO|I ACa 174/22|Wyrok|56|https://www.saos.org.pl/judgments/493770
+471631|2022-07-21|SO|I ACa 1290/21|Wyrok|56|https://www.saos.org.pl/judgments/471631
+501835|2023-10-25|SO|II Ca 2291/22|Wyrok|40|https://www.saos.org.pl/judgments/501835
+311441|2015-09-28|SO|II Ca 393/15|Wyrok|40|https://www.saos.org.pl/judgments/311441

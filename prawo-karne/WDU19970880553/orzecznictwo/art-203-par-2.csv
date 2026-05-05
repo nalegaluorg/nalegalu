@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-473613|2022-08-11|SO|II AKa 203/20|Uzasadnienie|https://www.saos.org.pl/judgments/473613
-443103|2021-06-21|SO|II K 1321/20|Wyrok|https://www.saos.org.pl/judgments/443103
-440798|2021-03-25|SO|XII K 17/21|Wyrok|https://www.saos.org.pl/judgments/440798
-432181|2021-02-05|SO|II K 115/20|Wyrok|https://www.saos.org.pl/judgments/432181
-366363|2018-10-30|SO|II AKa 205/18|Wyrok|https://www.saos.org.pl/judgments/366363
-267152|2017-01-23|SO|III K 246/16|Postanowienie|https://www.saos.org.pl/judgments/267152
-272293|2016-11-17|SO|IV Ka 897/16|Wyrok|https://www.saos.org.pl/judgments/272293
-228790|2016-04-25|SO|II K 207/16|Wyrok|https://www.saos.org.pl/judgments/228790
-169096|2015-05-28|SN|III KK 424/14|Wyrok|https://www.saos.org.pl/judgments/169096
-152040|2015-04-17|SO|II K 20/15|Wyrok|https://www.saos.org.pl/judgments/152040
-150382|2015-03-11|SO|II AKa 31/15|Wyrok|https://www.saos.org.pl/judgments/150382
-149596|2015-02-19|SO|I ACa 1686/14|Wyrok|https://www.saos.org.pl/judgments/149596
-54415|2014-04-22|SO|III K 30/13|Wyrok|https://www.saos.org.pl/judgments/54415
-143549|2013-12-30|SO|II AKa 367/13|Wyrok|https://www.saos.org.pl/judgments/143549
-9024|2013-01-24|SO|III K 383/12|Postanowienie|https://www.saos.org.pl/judgments/9024
-77305|1996-11-07|SN|I PKN 9/96|Postanowienie|https://www.saos.org.pl/judgments/77305
+saos_id|date|court|case_number|type|score|saos_url
+169096|2015-05-28|SN|III KK 424/14|Wyrok|78|https://www.saos.org.pl/judgments/169096
+77305|1996-11-07|SN|I PKN 9/96|Postanowienie|69|https://www.saos.org.pl/judgments/77305
+366363|2018-10-30|SO|II AKa 205/18|Wyrok|56|https://www.saos.org.pl/judgments/366363
+150382|2015-03-11|SO|II AKa 31/15|Wyrok|56|https://www.saos.org.pl/judgments/150382
+149596|2015-02-19|SO|I ACa 1686/14|Wyrok|56|https://www.saos.org.pl/judgments/149596
+143549|2013-12-30|SO|II AKa 367/13|Wyrok|56|https://www.saos.org.pl/judgments/143549
+473613|2022-08-11|SO|II AKa 203/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/473613
+272293|2016-11-17|SO|IV Ka 897/16|Wyrok|40|https://www.saos.org.pl/judgments/272293
+54415|2014-04-22|SO|III K 30/13|Wyrok|40|https://www.saos.org.pl/judgments/54415
+267152|2017-01-23|SO|III K 246/16|Postanowienie|31|https://www.saos.org.pl/judgments/267152

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-376391|2018-06-08|SO|I ACa 21/18|Wyrok|https://www.saos.org.pl/judgments/376391
-143242|2013-12-20|SO|I ACz 966/13|Postanowienie|https://www.saos.org.pl/judgments/143242
-23251|2013-08-07|SO|VI ACa 689/13|Wyrok|https://www.saos.org.pl/judgments/23251
+saos_id|date|court|case_number|type|score|saos_url
+376391|2018-06-08|SO|I ACa 21/18|Wyrok|56|https://www.saos.org.pl/judgments/376391
+23251|2013-08-07|SO|VI ACa 689/13|Wyrok|56|https://www.saos.org.pl/judgments/23251
+143242|2013-12-20|SO|I ACz 966/13|Postanowienie|47|https://www.saos.org.pl/judgments/143242

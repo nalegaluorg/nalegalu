@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-514696|2024-04-25|SO|XIII Ga 715/23|Uzasadnienie|https://www.saos.org.pl/judgments/514696
-142268|2013-12-06|SO|II AKz 329/13|Postanowienie|https://www.saos.org.pl/judgments/142268
+saos_id|date|court|case_number|type|score|saos_url
+142268|2013-12-06|SO|II AKz 329/13|Postanowienie|47|https://www.saos.org.pl/judgments/142268
+514696|2024-04-25|SO|XIII Ga 715/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514696

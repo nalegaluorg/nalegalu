@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-487079|2022-09-30|SO|I Ca 319/22|Wyrok|https://www.saos.org.pl/judgments/487079
-344213|2018-05-09|SO|I ACa 1113/17|Wyrok|https://www.saos.org.pl/judgments/344213
-308323|2017-06-29|SO|I ACa 585/16|Wyrok|https://www.saos.org.pl/judgments/308323
-285071|2017-03-02|SO|I ACa 412/16|Wyrok|https://www.saos.org.pl/judgments/285071
-274409|2017-01-31|SO|III Ca 1823/16|Uzasadnienie|https://www.saos.org.pl/judgments/274409
-254392|2016-10-27|SO|III Ca 957/16|Wyrok|https://www.saos.org.pl/judgments/254392
-189737|2015-10-14|SO|XXIII Ga 1313/15|Wyrok|https://www.saos.org.pl/judgments/189737
-173370|2015-05-12|SO|I ACa 1677/14|Wyrok|https://www.saos.org.pl/judgments/173370
+saos_id|date|court|case_number|type|score|saos_url
+344213|2018-05-09|SO|I ACa 1113/17|Wyrok|56|https://www.saos.org.pl/judgments/344213
+308323|2017-06-29|SO|I ACa 585/16|Wyrok|56|https://www.saos.org.pl/judgments/308323
+285071|2017-03-02|SO|I ACa 412/16|Wyrok|56|https://www.saos.org.pl/judgments/285071
+173370|2015-05-12|SO|I ACa 1677/14|Wyrok|56|https://www.saos.org.pl/judgments/173370
+274409|2017-01-31|SO|III Ca 1823/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/274409

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 7 październik
 
 ## art. 115 § 21 (1)
 
-- 2009-06-30 | TK | [P 34/07](https://www.saos.org.pl/judgments/109030) | Postanowienie
+- 2009-06-30 | TK | [P 34/07](https://www.saos.org.pl/judgments/109030) | Postanowienie ★
 

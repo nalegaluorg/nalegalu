@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-434744|2021-02-25|SO|III Ca 387/19|Postanowienie|https://www.saos.org.pl/judgments/434744
-135468|2014-03-25|SO|XV Ca 1444/13|Postanowienie|https://www.saos.org.pl/judgments/135468
-21612|2013-07-23|SO|II Cz 696/13|Postanowienie|https://www.saos.org.pl/judgments/21612
-23077|2013-06-12|SO|II Cz 373/13|Postanowienie|https://www.saos.org.pl/judgments/23077
+saos_id|date|court|case_number|type|score|saos_url
+135468|2014-03-25|SO|XV Ca 1444/13|Postanowienie|31|https://www.saos.org.pl/judgments/135468

@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-407411|2020-02-14|SO|IX C 1982/18|Zarządzenie|https://www.saos.org.pl/judgments/407411
-390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|https://www.saos.org.pl/judgments/390318
-152118|2015-05-12|SO|VI RNs 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/152118
-157489|2015-02-26|SO|III Ca 1329/14|Uzasadnienie|https://www.saos.org.pl/judgments/157489
-53463|2014-03-25|SO|XV Ca 1801/13|Postanowienie|https://www.saos.org.pl/judgments/53463
-49849|2014-02-04|SO|III Cz 42/14|Postanowienie|https://www.saos.org.pl/judgments/49849
+saos_id|date|court|case_number|type|score|saos_url
+53463|2014-03-25|SO|XV Ca 1801/13|Postanowienie|31|https://www.saos.org.pl/judgments/53463
+390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390318
+157489|2015-02-26|SO|III Ca 1329/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/157489

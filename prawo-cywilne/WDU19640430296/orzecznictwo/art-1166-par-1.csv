@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-390380|2019-07-24|SO|VIII GCo 113/19|Postanowienie|https://www.saos.org.pl/judgments/390380
-388862|2018-10-29|SO|I AGz 391/18|Postanowienie|https://www.saos.org.pl/judgments/388862
-356595|2018-09-24|SO|V AGz 598/18|Postanowienie|https://www.saos.org.pl/judgments/356595
-418783|2015-05-15|SO|XX GCo 94/15|Postanowienie|https://www.saos.org.pl/judgments/418783
-58295|2013-12-18|SO|I ACz 2287/13|Postanowienie|https://www.saos.org.pl/judgments/58295
+saos_id|date|court|case_number|type|score|saos_url
+388862|2018-10-29|SO|I AGz 391/18|Postanowienie|47|https://www.saos.org.pl/judgments/388862
+356595|2018-09-24|SO|V AGz 598/18|Postanowienie|47|https://www.saos.org.pl/judgments/356595
+58295|2013-12-18|SO|I ACz 2287/13|Postanowienie|47|https://www.saos.org.pl/judgments/58295

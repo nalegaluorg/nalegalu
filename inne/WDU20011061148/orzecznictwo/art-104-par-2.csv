@@ -1,24 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-543482|2026-02-03|SO|IV Ka 749/25|Uzasadnienie|https://www.saos.org.pl/judgments/543482
-543473|2026-02-03|SO|IV Ka 351/25|Uzasadnienie|https://www.saos.org.pl/judgments/543473
-543012|2026-01-27|SO|IV Ka 765/25|Uzasadnienie|https://www.saos.org.pl/judgments/543012
-542723|2026-01-13|SO|IV Ka 760/25|Uzasadnienie|https://www.saos.org.pl/judgments/542723
-536027|2025-07-04|SO|IV Ka 325/25|Uzasadnienie|https://www.saos.org.pl/judgments/536027
-533909|2025-06-02|SO|IV Ka 343/25|Wyrok|https://www.saos.org.pl/judgments/533909
-530158|2025-05-20|SO|IV Ka 247/25|Uzasadnienie|https://www.saos.org.pl/judgments/530158
-508003|2024-06-07|SO|IV Ka 286/24|Wyrok|https://www.saos.org.pl/judgments/508003
-508602|2024-03-05|SO|IV Ka 840/23|Uzasadnienie|https://www.saos.org.pl/judgments/508602
-507948|2023-06-23|SO|IV Ka 224/23|Wyrok|https://www.saos.org.pl/judgments/507948
-479133|2022-08-23|SO|IV Ka 356/22|Uzasadnienie|https://www.saos.org.pl/judgments/479133
-472619|2022-06-09|SO|IV Ka 316/22|Uzasadnienie|https://www.saos.org.pl/judgments/472619
-457818|2022-01-14|SO|IV Ka 629/21|Uzasadnienie|https://www.saos.org.pl/judgments/457818
-456706|2021-12-14|SO|IV Ka 721/21|Uzasadnienie|https://www.saos.org.pl/judgments/456706
-456701|2021-11-30|SO|IV Ka 702/21|Uzasadnienie|https://www.saos.org.pl/judgments/456701
-389237|2018-12-03|SO|IV Ka 890/18|Wyrok|https://www.saos.org.pl/judgments/389237
-362241|2018-10-29|SO|IV Ka 932/18|Wyrok|https://www.saos.org.pl/judgments/362241
-344652|2018-05-21|SO|IV Ka 382/18|Wyrok|https://www.saos.org.pl/judgments/344652
-342345|2018-03-26|SO|IV Ka 67/18|Wyrok|https://www.saos.org.pl/judgments/342345
-342348|2018-03-19|SO|IV Ka 89/18|Wyrok|https://www.saos.org.pl/judgments/342348
-333433|2018-02-06|SO|IV Ka 1145/17|Wyrok|https://www.saos.org.pl/judgments/333433
-311810|2017-10-16|SO|IV Ka 818/17|Wyrok|https://www.saos.org.pl/judgments/311810
-293682|2017-06-12|SO|IV Ka 431/17|Wyrok|https://www.saos.org.pl/judgments/293682
+saos_id|date|court|case_number|type|score|saos_url
+533909|2025-06-02|SO|IV Ka 343/25|Wyrok|40|https://www.saos.org.pl/judgments/533909
+508003|2024-06-07|SO|IV Ka 286/24|Wyrok|40|https://www.saos.org.pl/judgments/508003
+507948|2023-06-23|SO|IV Ka 224/23|Wyrok|40|https://www.saos.org.pl/judgments/507948
+389237|2018-12-03|SO|IV Ka 890/18|Wyrok|40|https://www.saos.org.pl/judgments/389237
+362241|2018-10-29|SO|IV Ka 932/18|Wyrok|40|https://www.saos.org.pl/judgments/362241
+344652|2018-05-21|SO|IV Ka 382/18|Wyrok|40|https://www.saos.org.pl/judgments/344652
+342345|2018-03-26|SO|IV Ka 67/18|Wyrok|40|https://www.saos.org.pl/judgments/342345
+342348|2018-03-19|SO|IV Ka 89/18|Wyrok|40|https://www.saos.org.pl/judgments/342348
+333433|2018-02-06|SO|IV Ka 1145/17|Wyrok|40|https://www.saos.org.pl/judgments/333433
+311810|2017-10-16|SO|IV Ka 818/17|Wyrok|40|https://www.saos.org.pl/judgments/311810
+293682|2017-06-12|SO|IV Ka 431/17|Wyrok|40|https://www.saos.org.pl/judgments/293682

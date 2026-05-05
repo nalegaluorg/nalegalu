@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-528520|2024-08-22|SO|VIII Kop 185/24|Postanowienie|https://www.saos.org.pl/judgments/528520
-501187|2018-11-09|SO|II AKa 522/17|Wyrok|https://www.saos.org.pl/judgments/501187
+saos_id|date|court|case_number|type|score|saos_url
+501187|2018-11-09|SO|II AKa 522/17|Wyrok|56|https://www.saos.org.pl/judgments/501187

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504628|2023-05-31|SO|III APa 6/22|Wyrok|https://www.saos.org.pl/judgments/504628
+saos_id|date|court|case_number|type|score|saos_url
+504628|2023-05-31|SO|III APa 6/22|Wyrok|56|https://www.saos.org.pl/judgments/504628

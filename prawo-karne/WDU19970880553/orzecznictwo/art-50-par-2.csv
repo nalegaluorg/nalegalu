@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-452353|2021-06-24|SO|III K 206/20|Uzasadnienie|https://www.saos.org.pl/judgments/452353
-410738|2020-02-20|SO|VI Ka 591/19|Wyrok|https://www.saos.org.pl/judgments/410738
-299929|2017-01-10|SO|III K 73/16|Wyrok|https://www.saos.org.pl/judgments/299929
-512825|2016-04-19|SO|VIII K 176/15|Wyrok|https://www.saos.org.pl/judgments/512825
-63641|2014-09-15|SO|II Ka 584/14|Wyrok|https://www.saos.org.pl/judgments/63641
-137406|2012-10-15|SO|II AKa 220/12|Wyrok|https://www.saos.org.pl/judgments/137406
-135676|2012-09-06|SO|II AKa 86/12|Wyrok|https://www.saos.org.pl/judgments/135676
+saos_id|date|court|case_number|type|score|saos_url
+137406|2012-10-15|SO|II AKa 220/12|Wyrok|56|https://www.saos.org.pl/judgments/137406
+135676|2012-09-06|SO|II AKa 86/12|Wyrok|56|https://www.saos.org.pl/judgments/135676
+410738|2020-02-20|SO|VI Ka 591/19|Wyrok|40|https://www.saos.org.pl/judgments/410738

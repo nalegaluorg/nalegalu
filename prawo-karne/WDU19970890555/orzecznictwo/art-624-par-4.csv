@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-337784|2018-04-11|SO|II Ka 48/18|Wyrok|https://www.saos.org.pl/judgments/337784
-314464|2017-05-18|SO|II K 2/17|Wyrok|https://www.saos.org.pl/judgments/314464
-259854|2016-10-26|SO|IV Ka 58/16|Wyrok|https://www.saos.org.pl/judgments/259854
-228925|2016-05-31|SO|VIII K 457/16|Uzasadnienie|https://www.saos.org.pl/judgments/228925
+saos_id|date|court|case_number|type|score|saos_url
+337784|2018-04-11|SO|II Ka 48/18|Wyrok|40|https://www.saos.org.pl/judgments/337784

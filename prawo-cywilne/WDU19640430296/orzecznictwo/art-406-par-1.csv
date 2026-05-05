@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-304389|2017-08-29|SO|I ACa 841/16|Wyrok|https://www.saos.org.pl/judgments/304389
-90447|2009-06-16|SN|V CZ 24/09|Postanowienie|https://www.saos.org.pl/judgments/90447
+saos_id|date|court|case_number|type|score|saos_url
+90447|2009-06-16|SN|V CZ 24/09|Postanowienie|69|https://www.saos.org.pl/judgments/90447
+304389|2017-08-29|SO|I ACa 841/16|Wyrok|56|https://www.saos.org.pl/judgments/304389

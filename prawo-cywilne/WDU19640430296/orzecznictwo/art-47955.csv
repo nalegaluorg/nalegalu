@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-425362|2020-06-01|SO|XVII Amz 43/19|Postanowienie|https://www.saos.org.pl/judgments/425362
+saos_id|date|court|case_number|type|score|saos_url
+93669|2010-12-07|SN|III CZP 86/10|Uchwała|96|https://www.saos.org.pl/judgments/93669
+91629|2010-01-14|SN|III SZP 3/09|Uchwała|89|https://www.saos.org.pl/judgments/91629
+85984|2007-06-01|SN|III CZP 42/07|Uchwała|89|https://www.saos.org.pl/judgments/85984
+94612|2011-04-06|SN|I CSK 412/09|Wyrok|78|https://www.saos.org.pl/judgments/94612

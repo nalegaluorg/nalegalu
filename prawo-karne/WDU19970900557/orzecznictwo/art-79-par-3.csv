@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-411163|2020-03-05|SO|I C 237/19|Wyrok|https://www.saos.org.pl/judgments/411163
-349820|2018-06-07|SO|I ACa 123/18|Wyrok|https://www.saos.org.pl/judgments/349820
-398061|2016-04-19|SO|V ACa 699/15|Wyrok|https://www.saos.org.pl/judgments/398061
-9541|2013-04-10|SO|I ACa 1238/12|Wyrok|https://www.saos.org.pl/judgments/9541
+saos_id|date|court|case_number|type|score|saos_url
+349820|2018-06-07|SO|I ACa 123/18|Wyrok|56|https://www.saos.org.pl/judgments/349820
+398061|2016-04-19|SO|V ACa 699/15|Wyrok|56|https://www.saos.org.pl/judgments/398061
+9541|2013-04-10|SO|I ACa 1238/12|Wyrok|56|https://www.saos.org.pl/judgments/9541

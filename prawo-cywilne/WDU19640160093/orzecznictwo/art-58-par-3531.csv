@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-119669|2012-02-09|KIO|KIO 164/12|Wyrok|https://www.saos.org.pl/judgments/119669
-93363|2010-11-03|SN|V CSK 142/10|Wyrok|https://www.saos.org.pl/judgments/93363
-115199|2010-02-04|KIO|KIO/UZP 1876/09|Wyrok|https://www.saos.org.pl/judgments/115199
-83709|2005-09-07|SN|II PK 296/04|Wyrok|https://www.saos.org.pl/judgments/83709
-162713|2004-11-03|SN|III CK 572/03|Wyrok|https://www.saos.org.pl/judgments/162713
-82683|2004-05-20|SN|II CK 354/03|Wyrok|https://www.saos.org.pl/judgments/82683
+saos_id|date|court|case_number|type|score|saos_url
+93363|2010-11-03|SN|V CSK 142/10|Wyrok|78|https://www.saos.org.pl/judgments/93363
+83709|2005-09-07|SN|II PK 296/04|Wyrok|78|https://www.saos.org.pl/judgments/83709
+162713|2004-11-03|SN|III CK 572/03|Wyrok|78|https://www.saos.org.pl/judgments/162713
+82683|2004-05-20|SN|II CK 354/03|Wyrok|78|https://www.saos.org.pl/judgments/82683
+119669|2012-02-09|KIO|KIO 164/12|Wyrok|44|https://www.saos.org.pl/judgments/119669
+115199|2010-02-04|KIO|KIO/UZP 1876/09|Wyrok|44|https://www.saos.org.pl/judgments/115199

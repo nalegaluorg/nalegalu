@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-419101|2018-11-28|SO|I C 658/17|Wyrok|https://www.saos.org.pl/judgments/419101
-398385|2018-11-21|SO|I C 1547/16|Wyrok|https://www.saos.org.pl/judgments/398385
-254352|2016-10-06|SO|III Ca 881/16|Uzasadnienie|https://www.saos.org.pl/judgments/254352
-320930|2016-05-04|SO|I C 1210/15|Zarządzenie|https://www.saos.org.pl/judgments/320930
-266074|2016-04-18|SO|I C 16/13|Uzasadnienie|https://www.saos.org.pl/judgments/266074
-139550|2013-06-28|SO|I C 874/12|Wyrok|https://www.saos.org.pl/judgments/139550
+saos_id|date|court|case_number|type|score|saos_url
+254352|2016-10-06|SO|III Ca 881/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/254352

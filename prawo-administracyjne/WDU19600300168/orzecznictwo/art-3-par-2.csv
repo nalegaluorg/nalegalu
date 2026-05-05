@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-488630|2021-07-26|SO|X GC 997/19|Zarządzenie|https://www.saos.org.pl/judgments/488630
-374049|2019-01-18|SO|I ACa 1652/17|Wyrok|https://www.saos.org.pl/judgments/374049
-296086|2017-07-14|SO|I C 1132/12|Wyrok|https://www.saos.org.pl/judgments/296086
-26223|2013-10-02|SO|III Ca 612/13|Wyrok|https://www.saos.org.pl/judgments/26223
-78593|1998-10-08|SN|III KKO 3/98|Postanowienie|https://www.saos.org.pl/judgments/78593
+saos_id|date|court|case_number|type|score|saos_url
+78593|1998-10-08|SN|III KKO 3/98|Postanowienie|69|https://www.saos.org.pl/judgments/78593
+374049|2019-01-18|SO|I ACa 1652/17|Wyrok|56|https://www.saos.org.pl/judgments/374049
+488630|2021-07-26|SO|X GC 997/19|Zarządzenie|27|https://www.saos.org.pl/judgments/488630

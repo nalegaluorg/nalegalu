@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-506056|2023-02-23|SO|III Ca 2036/21|Uzasadnienie|https://www.saos.org.pl/judgments/506056
-481216|2022-09-26|SO|I Ca 392/22|Wyrok|https://www.saos.org.pl/judgments/481216
-423128|2020-09-21|SO|I C 219/19|Wyrok|https://www.saos.org.pl/judgments/423128
-432489|2020-09-14|SO|I C 127/19|Wyrok|https://www.saos.org.pl/judgments/432489
-423096|2020-09-07|SO|I C 126/19|Wyrok|https://www.saos.org.pl/judgments/423096
-423194|2020-08-28|SO|I C 71/19|Wyrok|https://www.saos.org.pl/judgments/423194
-423106|2020-08-24|SO|I C 152/19|Wyrok|https://www.saos.org.pl/judgments/423106
-199444|2016-02-04|SO|XIII Ga 751/15|Uzasadnienie|https://www.saos.org.pl/judgments/199444
-210737|2016-01-14|SO|I ACa 1414/15|Wyrok|https://www.saos.org.pl/judgments/210737
-523723|2014-06-27|SO|II Ca 328/14|Wyrok|https://www.saos.org.pl/judgments/523723
-139157|2013-06-14|SO|I Ca 118/13|Wyrok|https://www.saos.org.pl/judgments/139157
+saos_id|date|court|case_number|type|score|saos_url
+210737|2016-01-14|SO|I ACa 1414/15|Wyrok|56|https://www.saos.org.pl/judgments/210737
+423128|2020-09-21|SO|I C 219/19|Wyrok|40|https://www.saos.org.pl/judgments/423128
+432489|2020-09-14|SO|I C 127/19|Wyrok|40|https://www.saos.org.pl/judgments/432489
+423096|2020-09-07|SO|I C 126/19|Wyrok|40|https://www.saos.org.pl/judgments/423096
+423194|2020-08-28|SO|I C 71/19|Wyrok|40|https://www.saos.org.pl/judgments/423194
+423106|2020-08-24|SO|I C 152/19|Wyrok|40|https://www.saos.org.pl/judgments/423106
+139157|2013-06-14|SO|I Ca 118/13|Wyrok|40|https://www.saos.org.pl/judgments/139157
+506056|2023-02-23|SO|III Ca 2036/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506056
+199444|2016-02-04|SO|XIII Ga 751/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/199444

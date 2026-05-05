@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-202793|2015-11-04|SO|II AKa 252/15|Wyrok|https://www.saos.org.pl/judgments/202793
-27239|2013-11-13|SO|V Ka 687/13|Wyrok|https://www.saos.org.pl/judgments/27239
+saos_id|date|court|case_number|type|score|saos_url
+202793|2015-11-04|SO|II AKa 252/15|Wyrok|56|https://www.saos.org.pl/judgments/202793
+27239|2013-11-13|SO|V Ka 687/13|Wyrok|40|https://www.saos.org.pl/judgments/27239

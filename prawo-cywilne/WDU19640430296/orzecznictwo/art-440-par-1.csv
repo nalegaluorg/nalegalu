@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-489387|2023-04-28|SO|XIV C 223/22|Postanowienie|https://www.saos.org.pl/judgments/489387
-439038|2021-01-13|SO|III RC 1012/18|Wyrok|https://www.saos.org.pl/judgments/439038
-330412|2018-01-12|SO|I ACa 688/17|Wyrok|https://www.saos.org.pl/judgments/330412
-20211|2013-08-22|SO|II Ca 499/13|Postanowienie|https://www.saos.org.pl/judgments/20211
+saos_id|date|court|case_number|type|score|saos_url
+330412|2018-01-12|SO|I ACa 688/17|Wyrok|56|https://www.saos.org.pl/judgments/330412
+489387|2023-04-28|SO|XIV C 223/22|Postanowienie|31|https://www.saos.org.pl/judgments/489387

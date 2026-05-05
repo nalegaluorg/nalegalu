@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-110338|2011-09-21|TK|SK 6/10|Wyrok|https://www.saos.org.pl/judgments/110338
+saos_id|date|court|case_number|type|score|saos_url
+110338|2011-09-21|TK|SK 6/10|Wyrok|98|https://www.saos.org.pl/judgments/110338

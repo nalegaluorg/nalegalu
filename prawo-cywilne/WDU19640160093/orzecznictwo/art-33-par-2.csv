@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-457181|2021-03-08|SO|III Ca 1535/20|Uzasadnienie|https://www.saos.org.pl/judgments/457181
-427269|2020-04-06|SO|III Ca 116/19|Uzasadnienie|https://www.saos.org.pl/judgments/427269
-97855|2012-04-20|SN|III CSK 258/11|Postanowienie|https://www.saos.org.pl/judgments/97855
-1988|2012-03-27|SO|III APa 20/11|Wyrok|https://www.saos.org.pl/judgments/1988
-1987|2012-03-27|SO|III APa 20/10|Wyrok|https://www.saos.org.pl/judgments/1987
+saos_id|date|court|case_number|type|score|saos_url
+97855|2012-04-20|SN|III CSK 258/11|Postanowienie|69|https://www.saos.org.pl/judgments/97855
+1988|2012-03-27|SO|III APa 20/11|Wyrok|56|https://www.saos.org.pl/judgments/1988
+1987|2012-03-27|SO|III APa 20/10|Wyrok|56|https://www.saos.org.pl/judgments/1987
+457181|2021-03-08|SO|III Ca 1535/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/457181
+427269|2020-04-06|SO|III Ca 116/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/427269

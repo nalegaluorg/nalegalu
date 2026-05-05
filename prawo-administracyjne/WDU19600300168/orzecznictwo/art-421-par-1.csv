@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76995|1995-11-09|SN|III ARN 51/95|Wyrok|https://www.saos.org.pl/judgments/76995
+saos_id|date|court|case_number|type|score|saos_url
+76995|1995-11-09|SN|III ARN 51/95|Wyrok|78|https://www.saos.org.pl/judgments/76995

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-447458|2021-07-22|SO|I ACa 180/21|Wyrok|https://www.saos.org.pl/judgments/447458
-326801|2017-12-27|SO|VI Ka 641/17|Wyrok|https://www.saos.org.pl/judgments/326801
+saos_id|date|court|case_number|type|score|saos_url
+447458|2021-07-22|SO|I ACa 180/21|Wyrok|56|https://www.saos.org.pl/judgments/447458
+326801|2017-12-27|SO|VI Ka 641/17|Wyrok|40|https://www.saos.org.pl/judgments/326801

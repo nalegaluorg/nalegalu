@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-427713|2016-10-28|SO|I ACa 569/16|Wyrok|https://www.saos.org.pl/judgments/427713
-245138|2016-04-12|SN|V KK 448/15|Postanowienie|https://www.saos.org.pl/judgments/245138
+saos_id|date|court|case_number|type|score|saos_url
+245138|2016-04-12|SN|V KK 448/15|Postanowienie|69|https://www.saos.org.pl/judgments/245138
+427713|2016-10-28|SO|I ACa 569/16|Wyrok|56|https://www.saos.org.pl/judgments/427713

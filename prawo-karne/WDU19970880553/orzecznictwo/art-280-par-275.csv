@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-317636|2017-09-07|SO|V ACa 855/16|Wyrok|https://www.saos.org.pl/judgments/317636
-220229|2016-02-11|SO|IV Kow 1855/15|Postanowienie|https://www.saos.org.pl/judgments/220229
-179395|2014-10-07|SO|II AKa 177/14|Wyrok|https://www.saos.org.pl/judgments/179395
-68182|2014-06-30|SO|II AKa 244/13|Wyrok|https://www.saos.org.pl/judgments/68182
-37515|2014-03-06|SO|IV K 205/13|Uzasadnienie|https://www.saos.org.pl/judgments/37515
-37304|2014-02-21|SO|IV K 205/13|Wyrok|https://www.saos.org.pl/judgments/37304
+saos_id|date|court|case_number|type|score|saos_url
+317636|2017-09-07|SO|V ACa 855/16|Wyrok|56|https://www.saos.org.pl/judgments/317636
+179395|2014-10-07|SO|II AKa 177/14|Wyrok|56|https://www.saos.org.pl/judgments/179395
+68182|2014-06-30|SO|II AKa 244/13|Wyrok|56|https://www.saos.org.pl/judgments/68182
+37304|2014-02-21|SO|IV K 205/13|Wyrok|40|https://www.saos.org.pl/judgments/37304
+37515|2014-03-06|SO|IV K 205/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/37515

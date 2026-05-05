@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-493729|2022-11-22|SO|I ACa 162/21|Wyrok|https://www.saos.org.pl/judgments/493729
-416291|2019-11-05|SO|I C 1349/17|Wyrok|https://www.saos.org.pl/judgments/416291
+saos_id|date|court|case_number|type|score|saos_url
+493729|2022-11-22|SO|I ACa 162/21|Wyrok|56|https://www.saos.org.pl/judgments/493729

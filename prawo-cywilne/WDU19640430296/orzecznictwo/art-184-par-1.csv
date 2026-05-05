@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-436302|2018-10-12|SO|I C 796/15|Uzasadnienie|https://www.saos.org.pl/judgments/436302
-333671|2017-11-20|SO|I C 2007/16|Postanowienie|https://www.saos.org.pl/judgments/333671
-47105|2014-05-16|SO|II Cz 614/14|Postanowienie|https://www.saos.org.pl/judgments/47105
-45703|2014-05-08|SO|V ACz 343/14|Postanowienie|https://www.saos.org.pl/judgments/45703
-165647|2014-02-26|SN|III CZP 117/13|Uchwała|https://www.saos.org.pl/judgments/165647
-141539|2013-10-08|SO|I C 404/13|Wyrok|https://www.saos.org.pl/judgments/141539
-675|2012-09-25|SO|III AUa 218/12|Wyrok|https://www.saos.org.pl/judgments/675
-92779|2010-08-18|SN|II PZP 7/10|Uchwała|https://www.saos.org.pl/judgments/92779
+saos_id|date|court|case_number|type|score|saos_url
+165647|2014-02-26|SN|III CZP 117/13|Uchwała|89|https://www.saos.org.pl/judgments/165647
+92779|2010-08-18|SN|II PZP 7/10|Uchwała|89|https://www.saos.org.pl/judgments/92779
+675|2012-09-25|SO|III AUa 218/12|Wyrok|56|https://www.saos.org.pl/judgments/675
+45703|2014-05-08|SO|V ACz 343/14|Postanowienie|47|https://www.saos.org.pl/judgments/45703

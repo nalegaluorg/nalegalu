@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-490127|2023-05-11|SO|II K 15/20|Wyrok|https://www.saos.org.pl/judgments/490127
-392655|2019-09-30|SO|IV K 133/14|Uzasadnienie|https://www.saos.org.pl/judgments/392655
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
+saos_id|date|court|case_number|type|score|saos_url
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+392655|2019-09-30|SO|IV K 133/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/392655
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902

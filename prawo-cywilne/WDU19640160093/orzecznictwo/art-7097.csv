@@ -1,4 +1,22 @@
-saos_id|date|court|case_number|type|saos_url
-468554|2021-06-22|SO|XV GC 2345/20|Zarządzenie|https://www.saos.org.pl/judgments/468554
-362957|2018-11-08|SO|XI GC 303/18|Wyrok|https://www.saos.org.pl/judgments/362957
-284052|2017-02-15|SO|IX GC 1353/16|Uzasadnienie|https://www.saos.org.pl/judgments/284052
+saos_id|date|court|case_number|type|score|saos_url
+495056|2022-07-08|SO|I AGa 33/21|Wyrok|56|https://www.saos.org.pl/judgments/495056
+417701|2019-03-21|SO|I AGa 229/18|Wyrok|56|https://www.saos.org.pl/judgments/417701
+241905|2016-06-09|SO|I ACa 1754/15|Wyrok|56|https://www.saos.org.pl/judgments/241905
+189791|2015-10-15|SO|I ACa 304/15|Wyrok|56|https://www.saos.org.pl/judgments/189791
+18075|2013-04-29|SO|I ACa 1428/12|Wyrok|56|https://www.saos.org.pl/judgments/18075
+477805|2022-11-03|SO|II AKa 3/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/477805
+465588|2021-02-03|SO|XIII GC 1301/20|Wyrok|40|https://www.saos.org.pl/judgments/465588
+450186|2020-09-14|SO|XIII GC 697/20|Wyrok|40|https://www.saos.org.pl/judgments/450186
+414939|2019-12-04|SO|XIII GC 2867/19|Wyrok|40|https://www.saos.org.pl/judgments/414939
+396750|2018-06-20|SO|XIII GC 1993/17|Wyrok|40|https://www.saos.org.pl/judgments/396750
+401659|2018-03-27|SO|XIII GC 751/16|Wyrok|40|https://www.saos.org.pl/judgments/401659
+342602|2017-11-30|SO|VI GC 3/17|Wyrok|40|https://www.saos.org.pl/judgments/342602
+221189|2016-03-07|SO|XIII GC 1658/15|Wyrok|40|https://www.saos.org.pl/judgments/221189
+58071|2014-05-27|SO|II Ca 360/14|Wyrok|40|https://www.saos.org.pl/judgments/58071
+489579|2022-09-22|SO|III Ca 1476/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/489579
+460003|2022-03-16|SO|XIII Ga 204/21|Zarządzenie|27|https://www.saos.org.pl/judgments/460003
+411619|2020-05-20|SO|XIII Ga 1979/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/411619
+323774|2017-10-26|SO|III Ca 1297/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/323774
+291387|2017-07-03|SO|XIII Ga 64/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/291387
+193842|2015-11-24|SO|III Ca 1194/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193842
+191761|2015-11-13|SO|X GC 282/14|Zarządzenie|27|https://www.saos.org.pl/judgments/191761

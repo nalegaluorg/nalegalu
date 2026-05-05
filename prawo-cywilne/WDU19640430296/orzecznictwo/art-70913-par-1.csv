@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-349002|2018-06-19|SO|V ACa 483/17|Wyrok|https://www.saos.org.pl/judgments/349002
-279570|2017-03-14|SO|I C 1478/16|Wyrok|https://www.saos.org.pl/judgments/279570
-232129|2016-05-19|SO|I C 1206/15|Wyrok|https://www.saos.org.pl/judgments/232129
-190729|2015-11-27|SO|I C 1137/15|Wyrok|https://www.saos.org.pl/judgments/190729
+saos_id|date|court|case_number|type|score|saos_url
+349002|2018-06-19|SO|V ACa 483/17|Wyrok|56|https://www.saos.org.pl/judgments/349002

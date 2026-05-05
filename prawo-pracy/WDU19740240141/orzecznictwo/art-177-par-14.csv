@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78682|1998-11-17|SN|I PKN 331/98|Wyrok|https://www.saos.org.pl/judgments/78682
+saos_id|date|court|case_number|type|score|saos_url
+78682|1998-11-17|SN|I PKN 331/98|Wyrok|78|https://www.saos.org.pl/judgments/78682

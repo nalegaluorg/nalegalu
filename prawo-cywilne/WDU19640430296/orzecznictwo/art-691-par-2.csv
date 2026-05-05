@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-540846|2024-12-12|SO|I C 654/24|Wyrok|https://www.saos.org.pl/judgments/540846
-454789|2021-12-21|SO|IV Ca 255/19|Wyrok|https://www.saos.org.pl/judgments/454789
-528817|2019-10-28|SO|II Ca 37/19|Uzasadnienie|https://www.saos.org.pl/judgments/528817
-376763|2018-11-09|SO|I C 1168/18|Wyrok|https://www.saos.org.pl/judgments/376763
-256030|2016-11-16|SO|I C 2418/15|Wyrok|https://www.saos.org.pl/judgments/256030
-263804|2015-05-26|SO|I C 2641/13|Zarządzenie|https://www.saos.org.pl/judgments/263804
-63298|2014-09-05|SO|III Ca 455/14|Uzasadnienie|https://www.saos.org.pl/judgments/63298
-155700|2013-04-25|SO|II Ca 1202/12|Wyrok|https://www.saos.org.pl/judgments/155700
-13657|2013-03-07|SO|IX C 929/12|Wyrok|https://www.saos.org.pl/judgments/13657
+saos_id|date|court|case_number|type|score|saos_url
+454789|2021-12-21|SO|IV Ca 255/19|Wyrok|40|https://www.saos.org.pl/judgments/454789
+256030|2016-11-16|SO|I C 2418/15|Wyrok|40|https://www.saos.org.pl/judgments/256030
+63298|2014-09-05|SO|III Ca 455/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/63298

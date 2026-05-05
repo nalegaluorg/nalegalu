@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-240074|2016-07-14|SO|IV Kow 673/16|Postanowienie|https://www.saos.org.pl/judgments/240074
-219890|2016-01-13|SO|IV Kow 1603/15|Postanowienie|https://www.saos.org.pl/judgments/219890
-102223|2013-06-20|SN|V KK 79/13|Postanowienie|https://www.saos.org.pl/judgments/102223
-102077|2013-06-10|SN|III KK 22/13|Wyrok|https://www.saos.org.pl/judgments/102077
+saos_id|date|court|case_number|type|score|saos_url
+102077|2013-06-10|SN|III KK 22/13|Wyrok|78|https://www.saos.org.pl/judgments/102077
+102223|2013-06-20|SN|V KK 79/13|Postanowienie|69|https://www.saos.org.pl/judgments/102223

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-233167|2016-05-10|SO|I C 474/14|Wyrok|https://www.saos.org.pl/judgments/233167
-182249|2015-09-28|SO|I C 306/15|Wyrok|https://www.saos.org.pl/judgments/182249
-137240|2013-03-05|SO|II AKzw 125/13|Postanowienie|https://www.saos.org.pl/judgments/137240
+saos_id|date|court|case_number|type|score|saos_url
+137240|2013-03-05|SO|II AKzw 125/13|Postanowienie|47|https://www.saos.org.pl/judgments/137240

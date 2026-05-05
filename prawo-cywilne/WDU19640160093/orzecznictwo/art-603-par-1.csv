@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-250021|2016-09-22|SO|V W 5994/15|Wyrok|https://www.saos.org.pl/judgments/250021
+saos_id|date|court|case_number|type|score|saos_url
+92489|2010-06-25|SN|I CSK 513/09|Wyrok|78|https://www.saos.org.pl/judgments/92489
+399740|2017-11-29|SO|I ACa 586/17|Wyrok|56|https://www.saos.org.pl/judgments/399740

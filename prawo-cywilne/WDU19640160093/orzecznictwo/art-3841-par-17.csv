@@ -1,3 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-542298|2023-11-14|SO|I ACa 2949/22|Wyrok|https://www.saos.org.pl/judgments/542298
-494016|2022-06-02|SO|I ACa 29/22|Wyrok|https://www.saos.org.pl/judgments/494016
+saos_id|date|court|case_number|type|score|saos_url
+493423|2023-03-15|SO|I ACa 1173/22|Wyrok|56|https://www.saos.org.pl/judgments/493423
+509719|2023-03-07|SO|V ACa 1352/22|Wyrok|56|https://www.saos.org.pl/judgments/509719
+494426|2023-02-28|SO|I ACa 646/22|Wyrok|56|https://www.saos.org.pl/judgments/494426

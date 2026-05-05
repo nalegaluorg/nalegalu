@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-295968|2017-07-26|SO|II K 431/17|Wyrok|https://www.saos.org.pl/judgments/295968
-271107|2017-02-20|SO|IV K 164/16|Uzasadnienie|https://www.saos.org.pl/judgments/271107
+saos_id|date|court|case_number|type|score|saos_url
+271107|2017-02-20|SO|IV K 164/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/271107

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-373612|2019-03-13|SO|IX P 368/18|Zarządzenie|https://www.saos.org.pl/judgments/373612
-152598|2015-04-08|SO|III AUa 600/14|Wyrok|https://www.saos.org.pl/judgments/152598
-8548|2013-02-21|SO|V ACa 740/12|Wyrok|https://www.saos.org.pl/judgments/8548
-165415|2010-09-09|SN|II UK 84/10|Wyrok|https://www.saos.org.pl/judgments/165415
+saos_id|date|court|case_number|type|score|saos_url
+165415|2010-09-09|SN|II UK 84/10|Wyrok|78|https://www.saos.org.pl/judgments/165415
+152598|2015-04-08|SO|III AUa 600/14|Wyrok|56|https://www.saos.org.pl/judgments/152598
+8548|2013-02-21|SO|V ACa 740/12|Wyrok|56|https://www.saos.org.pl/judgments/8548

@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-471353|2022-06-03|SO|II C 815/20|Zarządzenie|https://www.saos.org.pl/judgments/471353
-348179|2018-05-30|SO|X P 1206/14|Wyrok|https://www.saos.org.pl/judgments/348179
-352962|2017-11-13|SO|IV U 508/16|Wyrok|https://www.saos.org.pl/judgments/352962
-323825|2017-10-31|SO|III Ca 1337/14|Wyrok|https://www.saos.org.pl/judgments/323825
-316405|2017-08-10|SO|III AUa 1148/16|Wyrok|https://www.saos.org.pl/judgments/316405
-257865|2016-12-05|SO|VIII U 3317/15|Zarządzenie|https://www.saos.org.pl/judgments/257865
-235309|2016-07-06|SO|VIII U 2552/14|Uzasadnienie|https://www.saos.org.pl/judgments/235309
-203443|2015-12-08|SO|V U 769/15|Wyrok|https://www.saos.org.pl/judgments/203443
-251884|2014-02-13|SO|II Ca 563/13|Wyrok|https://www.saos.org.pl/judgments/251884
+saos_id|date|court|case_number|type|score|saos_url
+316405|2017-08-10|SO|III AUa 1148/16|Wyrok|56|https://www.saos.org.pl/judgments/316405
+203443|2015-12-08|SO|V U 769/15|Wyrok|40|https://www.saos.org.pl/judgments/203443
+471353|2022-06-03|SO|II C 815/20|Zarządzenie|27|https://www.saos.org.pl/judgments/471353
+257865|2016-12-05|SO|VIII U 3317/15|Zarządzenie|27|https://www.saos.org.pl/judgments/257865
+235309|2016-07-06|SO|VIII U 2552/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/235309

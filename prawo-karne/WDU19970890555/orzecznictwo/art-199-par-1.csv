@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-357596|2018-10-10|SO|I ACz 796/18|Postanowienie|https://www.saos.org.pl/judgments/357596
-423631|2017-01-12|SO|V ACa 296/16|Wyrok|https://www.saos.org.pl/judgments/423631
-61905|2014-06-17|SO|II Cz 659/14|Postanowienie|https://www.saos.org.pl/judgments/61905
-136684|2012-08-29|SO|II AKa 227/12|Wyrok|https://www.saos.org.pl/judgments/136684
+saos_id|date|court|case_number|type|score|saos_url
+423631|2017-01-12|SO|V ACa 296/16|Wyrok|56|https://www.saos.org.pl/judgments/423631
+136684|2012-08-29|SO|II AKa 227/12|Wyrok|56|https://www.saos.org.pl/judgments/136684
+357596|2018-10-10|SO|I ACz 796/18|Postanowienie|47|https://www.saos.org.pl/judgments/357596
+61905|2014-06-17|SO|II Cz 659/14|Postanowienie|31|https://www.saos.org.pl/judgments/61905

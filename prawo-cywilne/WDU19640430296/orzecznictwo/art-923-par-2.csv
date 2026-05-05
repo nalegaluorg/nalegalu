@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-507271|2024-02-08|SO|III RC 289/22|Wyrok|https://www.saos.org.pl/judgments/507271
-185432|2015-06-19|SO|III Ca 748/15|Uzasadnienie|https://www.saos.org.pl/judgments/185432
-63865|2014-09-08|SO|II Ca 237/14|Postanowienie|https://www.saos.org.pl/judgments/63865
+saos_id|date|court|case_number|type|score|saos_url
+185432|2015-06-19|SO|III Ca 748/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185432

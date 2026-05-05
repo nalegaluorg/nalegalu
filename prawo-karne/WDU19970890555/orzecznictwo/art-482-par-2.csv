@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-148267|2015-03-31|SO|IV Ka 607/14|Wyrok|https://www.saos.org.pl/judgments/148267
-74786|2014-12-17|SO|II Ka 286/14|Wyrok|https://www.saos.org.pl/judgments/74786
-160412|2014-12-04|TK|Ts 291/12|Postanowienie|https://www.saos.org.pl/judgments/160412
-12347|2013-06-03|SO|IV Kz 364/13|Postanowienie|https://www.saos.org.pl/judgments/12347
-6336|2013-03-04|SO|IV Kz 78/13|Postanowienie|https://www.saos.org.pl/judgments/6336
-6335|2013-03-04|SO|IV Kz 65/13|Postanowienie|https://www.saos.org.pl/judgments/6335
-160306|2013-02-14|TK|Ts 291/12|Postanowienie|https://www.saos.org.pl/judgments/160306
-110645|2011-01-05|TK|Ts 184/09|Postanowienie|https://www.saos.org.pl/judgments/110645
-109996|2010-08-06|TK|Ts 184/09|Postanowienie|https://www.saos.org.pl/judgments/109996
-83853|2005-11-07|SN|V KK 59/05|Wyrok|https://www.saos.org.pl/judgments/83853
-83237|2005-02-25|SN|I KZP 37/04|Uchwała|https://www.saos.org.pl/judgments/83237
+saos_id|date|court|case_number|type|score|saos_url
+83237|2005-02-25|SN|I KZP 37/04|Uchwała|89|https://www.saos.org.pl/judgments/83237
+160412|2014-12-04|TK|Ts 291/12|Postanowienie|80|https://www.saos.org.pl/judgments/160412
+160306|2013-02-14|TK|Ts 291/12|Postanowienie|80|https://www.saos.org.pl/judgments/160306
+110645|2011-01-05|TK|Ts 184/09|Postanowienie|80|https://www.saos.org.pl/judgments/110645
+109996|2010-08-06|TK|Ts 184/09|Postanowienie|80|https://www.saos.org.pl/judgments/109996
+83853|2005-11-07|SN|V KK 59/05|Wyrok|78|https://www.saos.org.pl/judgments/83853

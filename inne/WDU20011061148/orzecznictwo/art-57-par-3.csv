@@ -1,25 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-439649|2021-02-25|SO|IV Ka 88/21|Wyrok|https://www.saos.org.pl/judgments/439649
-423922|2020-11-09|SO|II W 1006/20|Postanowienie|https://www.saos.org.pl/judgments/423922
-371429|2019-01-29|SO|IV Ka 1173/18|Wyrok|https://www.saos.org.pl/judgments/371429
-376219|2018-10-17|SO|XI W 4162/17|Wyrok|https://www.saos.org.pl/judgments/376219
-357654|2018-09-24|SO|IV Ka 818/18|Wyrok|https://www.saos.org.pl/judgments/357654
-314054|2017-09-14|SO|XVII Ka 806/17|Wyrok|https://www.saos.org.pl/judgments/314054
-306554|2017-09-05|SO|VI Ka 509/17|Wyrok|https://www.saos.org.pl/judgments/306554
-291127|2017-06-21|SO|II Ka 105/17|Wyrok|https://www.saos.org.pl/judgments/291127
-288679|2017-05-10|SO|XVII Ka 376/17|Wyrok|https://www.saos.org.pl/judgments/288679
-271712|2017-02-09|SO|V Ka 703/16|Wyrok|https://www.saos.org.pl/judgments/271712
-231610|2016-04-26|SO|IX W 1715/15|Wyrok|https://www.saos.org.pl/judgments/231610
-235883|2016-04-21|SO|IV 1Kz 13/16|Postanowienie|https://www.saos.org.pl/judgments/235883
-222979|2016-04-19|SO|XI W 9883/15|Wyrok|https://www.saos.org.pl/judgments/222979
-240287|2016-03-04|SO|XI W 10227/15|Wyrok|https://www.saos.org.pl/judgments/240287
-210451|2016-02-26|SO|V Ka 1576/15|Uzasadnienie|https://www.saos.org.pl/judgments/210451
-227533|2015-12-21|SO|XI W 11515/15|Wyrok|https://www.saos.org.pl/judgments/227533
-192263|2015-12-15|SO|VI Ka 1014/15|Wyrok|https://www.saos.org.pl/judgments/192263
-196677|2015-12-10|SO|XI W 3478/15|Wyrok|https://www.saos.org.pl/judgments/196677
-208107|2015-10-13|SO|XI W 3439/15|Wyrok|https://www.saos.org.pl/judgments/208107
-150755|2015-03-16|SO|XI W 9615/14|Wyrok|https://www.saos.org.pl/judgments/150755
-75346|2014-11-05|SO|IV Ka 982/14|Wyrok|https://www.saos.org.pl/judgments/75346
-72871|2014-11-05|SO|VII W 644/14|Wyrok|https://www.saos.org.pl/judgments/72871
-73384|2014-10-29|SO|IV Ka 718/14|Wyrok|https://www.saos.org.pl/judgments/73384
-20013|2013-09-05|SO|IV Ka 644/13|Wyrok|https://www.saos.org.pl/judgments/20013
+saos_id|date|court|case_number|type|score|saos_url
+439649|2021-02-25|SO|IV Ka 88/21|Wyrok|40|https://www.saos.org.pl/judgments/439649
+371429|2019-01-29|SO|IV Ka 1173/18|Wyrok|40|https://www.saos.org.pl/judgments/371429
+357654|2018-09-24|SO|IV Ka 818/18|Wyrok|40|https://www.saos.org.pl/judgments/357654
+314054|2017-09-14|SO|XVII Ka 806/17|Wyrok|40|https://www.saos.org.pl/judgments/314054
+306554|2017-09-05|SO|VI Ka 509/17|Wyrok|40|https://www.saos.org.pl/judgments/306554
+288679|2017-05-10|SO|XVII Ka 376/17|Wyrok|40|https://www.saos.org.pl/judgments/288679
+235883|2016-04-21|SO|IV 1Kz 13/16|Postanowienie|31|https://www.saos.org.pl/judgments/235883
+210451|2016-02-26|SO|V Ka 1576/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/210451

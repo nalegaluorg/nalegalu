@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-420832|2017-05-31|SO|I C 283/15|Wyrok|https://www.saos.org.pl/judgments/420832
-263283|2016-06-23|SO|I ACa 244/16|Wyrok|https://www.saos.org.pl/judgments/263283
+saos_id|date|court|case_number|type|score|saos_url
+263283|2016-06-23|SO|I ACa 244/16|Wyrok|56|https://www.saos.org.pl/judgments/263283

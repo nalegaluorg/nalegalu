@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-284084|2017-03-17|SO|VIII Ga 5/17|Uzasadnienie|https://www.saos.org.pl/judgments/284084
+saos_id|date|court|case_number|type|score|saos_url
+94687|2011-04-07|SN|IV CZ 142/10|Postanowienie|69|https://www.saos.org.pl/judgments/94687
+394798|2019-07-18|SO|XV Ca 1007/19|Wyrok|40|https://www.saos.org.pl/judgments/394798
+24380|2013-10-15|SO|VI Gz 285/13|Postanowienie|31|https://www.saos.org.pl/judgments/24380
+19137|2013-08-30|SO|VI Gz 211/13|Postanowienie|31|https://www.saos.org.pl/judgments/19137
+329912|2018-03-06|SO|XIII Ga 1041/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/329912
+127008|2014-11-20|SO|III Ca 1407/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/127008

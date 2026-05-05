@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-525653|2024-11-26|SO|II AKz 687/24|Postanowienie|https://www.saos.org.pl/judgments/525653
-525636|2024-04-17|SO|II AKz 189/24|Postanowienie|https://www.saos.org.pl/judgments/525636
-525593|2022-12-19|SO|II AKz 711/22|Postanowienie|https://www.saos.org.pl/judgments/525593
+saos_id|date|court|case_number|type|score|saos_url
+525653|2024-11-26|SO|II AKz 687/24|Postanowienie|47|https://www.saos.org.pl/judgments/525653
+525636|2024-04-17|SO|II AKz 189/24|Postanowienie|47|https://www.saos.org.pl/judgments/525636
+525593|2022-12-19|SO|II AKz 711/22|Postanowienie|47|https://www.saos.org.pl/judgments/525593

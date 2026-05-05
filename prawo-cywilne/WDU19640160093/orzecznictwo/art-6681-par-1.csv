@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-316889|2017-11-13|SO|VIII C 335/16|Wyrok|https://www.saos.org.pl/judgments/316889
-291775|2017-06-29|SO|I C 1409/16|Wyrok|https://www.saos.org.pl/judgments/291775
-289534|2017-01-12|SO|XI C 1785/16|Wyrok|https://www.saos.org.pl/judgments/289534
-252005|2016-10-10|SO|VIII C 3758/14|Wyrok|https://www.saos.org.pl/judgments/252005
-248567|2016-09-12|SO|VIII C 2456/15|Wyrok|https://www.saos.org.pl/judgments/248567
-173088|2015-06-12|SO|VIII C 29/15|Wyrok|https://www.saos.org.pl/judgments/173088
-73090|2014-10-23|SO|VIII C 1245/14|Wyrok|https://www.saos.org.pl/judgments/73090
-99326|2012-10-12|SN|IV CNP 14/12|Wyrok|https://www.saos.org.pl/judgments/99326
+saos_id|date|court|case_number|type|score|saos_url
+99326|2012-10-12|SN|IV CNP 14/12|Wyrok|78|https://www.saos.org.pl/judgments/99326
+316889|2017-11-13|SO|VIII C 335/16|Wyrok|40|https://www.saos.org.pl/judgments/316889
+252005|2016-10-10|SO|VIII C 3758/14|Wyrok|40|https://www.saos.org.pl/judgments/252005
+248567|2016-09-12|SO|VIII C 2456/15|Wyrok|40|https://www.saos.org.pl/judgments/248567

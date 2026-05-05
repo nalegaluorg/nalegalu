@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-236272|2016-06-17|SO|IV Ca 127/16|Wyrok|https://www.saos.org.pl/judgments/236272
-224048|2016-04-27|SO|I ACz 692/16|Postanowienie|https://www.saos.org.pl/judgments/224048
-154365|2015-04-13|SO|I ACz 27/15|Postanowienie|https://www.saos.org.pl/judgments/154365
+saos_id|date|court|case_number|type|score|saos_url
+224048|2016-04-27|SO|I ACz 692/16|Postanowienie|47|https://www.saos.org.pl/judgments/224048
+154365|2015-04-13|SO|I ACz 27/15|Postanowienie|47|https://www.saos.org.pl/judgments/154365

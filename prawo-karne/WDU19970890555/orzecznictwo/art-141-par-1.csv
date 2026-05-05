@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205969|1999-06-01|TK|SK 20/98|Wyrok|https://www.saos.org.pl/judgments/205969
+saos_id|date|court|case_number|type|score|saos_url
+205969|1999-06-01|TK|SK 20/98|Wyrok|98|https://www.saos.org.pl/judgments/205969

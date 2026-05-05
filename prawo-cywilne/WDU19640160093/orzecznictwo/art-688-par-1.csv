@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-496243|2024-07-11|SO|I C 165/24|Wyrok|https://www.saos.org.pl/judgments/496243
-502318|2024-02-15|SO|II Ca 997/23|Wyrok|https://www.saos.org.pl/judgments/502318
-228913|2016-06-02|SO|VIII C 1397/15|Wyrok|https://www.saos.org.pl/judgments/228913
-228178|2016-05-23|SO|VIII C 2506/15|Wyrok|https://www.saos.org.pl/judgments/228178
-223700|2016-04-28|SO|VIII C 3155/14|Wyrok|https://www.saos.org.pl/judgments/223700
-214944|2016-03-14|SO|VIII C 3067/15|Wyrok|https://www.saos.org.pl/judgments/214944
-211753|2016-02-18|SO|VIII C 3107/15|Wyrok|https://www.saos.org.pl/judgments/211753
-214934|2016-02-11|SO|VIII C 2496/15|Wyrok|https://www.saos.org.pl/judgments/214934
-367446|2008-11-19|SO|I C 1246/08|Wyrok|https://www.saos.org.pl/judgments/367446
+saos_id|date|court|case_number|type|score|saos_url
+228913|2016-06-02|SO|VIII C 1397/15|Wyrok|40|https://www.saos.org.pl/judgments/228913
+228178|2016-05-23|SO|VIII C 2506/15|Wyrok|40|https://www.saos.org.pl/judgments/228178
+223700|2016-04-28|SO|VIII C 3155/14|Wyrok|40|https://www.saos.org.pl/judgments/223700
+214944|2016-03-14|SO|VIII C 3067/15|Wyrok|40|https://www.saos.org.pl/judgments/214944
+211753|2016-02-18|SO|VIII C 3107/15|Wyrok|40|https://www.saos.org.pl/judgments/211753
+214934|2016-02-11|SO|VIII C 2496/15|Wyrok|40|https://www.saos.org.pl/judgments/214934
+367446|2008-11-19|SO|I C 1246/08|Wyrok|40|https://www.saos.org.pl/judgments/367446

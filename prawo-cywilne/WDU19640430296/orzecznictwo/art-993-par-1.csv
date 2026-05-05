@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-195788|2015-11-19|SO|I ACa 1072/15|Wyrok|https://www.saos.org.pl/judgments/195788
-152411|2015-02-23|SO|I C 1491/13|Wyrok|https://www.saos.org.pl/judgments/152411
-23411|2011-11-23|SO|I ACa 501/11|Wyrok|https://www.saos.org.pl/judgments/23411
+saos_id|date|court|case_number|type|score|saos_url
+195788|2015-11-19|SO|I ACa 1072/15|Wyrok|56|https://www.saos.org.pl/judgments/195788
+23411|2011-11-23|SO|I ACa 501/11|Wyrok|56|https://www.saos.org.pl/judgments/23411
+152411|2015-02-23|SO|I C 1491/13|Wyrok|40|https://www.saos.org.pl/judgments/152411

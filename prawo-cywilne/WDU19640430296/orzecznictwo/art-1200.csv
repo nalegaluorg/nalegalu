@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-454907|2021-02-24|SO|XXIII Ga 2051/20|Postanowienie|https://www.saos.org.pl/judgments/454907
-394836|2019-09-30|SO|II Ca 759/19|Postanowienie|https://www.saos.org.pl/judgments/394836
-364049|2018-10-17|SO|I AGa 11/18|Wyrok|https://www.saos.org.pl/judgments/364049
-268251|2016-12-30|SO|XII C 531/14|Wyrok|https://www.saos.org.pl/judgments/268251
-283702|2016-06-07|SO|XVI GC 381/15|Wyrok|https://www.saos.org.pl/judgments/283702
-223840|2015-09-18|SO|I C 568/15|Wyrok|https://www.saos.org.pl/judgments/223840
-177974|2015-06-17|SO|I ACz 868/15|Postanowienie|https://www.saos.org.pl/judgments/177974
-154848|2015-02-10|SO|I ACa 1114/14|Wyrok|https://www.saos.org.pl/judgments/154848
-537530|2014-11-28|SO|XXV C 731/13|Uzasadnienie|https://www.saos.org.pl/judgments/537530
-52406|2014-05-20|SO|I ACa 1501/13|Wyrok|https://www.saos.org.pl/judgments/52406
-397162|2014-03-12|SO|II Ca 2007/13|Postanowienie|https://www.saos.org.pl/judgments/397162
-68392|2014-01-28|SO|I ACa 1494/13|Wyrok|https://www.saos.org.pl/judgments/68392
-31356|2013-11-20|SO|II Cz 443/13|Postanowienie|https://www.saos.org.pl/judgments/31356
-53148|2013-10-24|SO|I ACz 1722/13|Postanowienie|https://www.saos.org.pl/judgments/53148
-136052|2012-05-10|SO|I ACz 660/12|Postanowienie|https://www.saos.org.pl/judgments/136052
+saos_id|date|court|case_number|type|score|saos_url
+364049|2018-10-17|SO|I AGa 11/18|Wyrok|56|https://www.saos.org.pl/judgments/364049
+154848|2015-02-10|SO|I ACa 1114/14|Wyrok|56|https://www.saos.org.pl/judgments/154848
+52406|2014-05-20|SO|I ACa 1501/13|Wyrok|56|https://www.saos.org.pl/judgments/52406
+68392|2014-01-28|SO|I ACa 1494/13|Wyrok|56|https://www.saos.org.pl/judgments/68392
+177974|2015-06-17|SO|I ACz 868/15|Postanowienie|47|https://www.saos.org.pl/judgments/177974
+53148|2013-10-24|SO|I ACz 1722/13|Postanowienie|47|https://www.saos.org.pl/judgments/53148
+136052|2012-05-10|SO|I ACz 660/12|Postanowienie|47|https://www.saos.org.pl/judgments/136052
+268251|2016-12-30|SO|XII C 531/14|Wyrok|40|https://www.saos.org.pl/judgments/268251
+397162|2014-03-12|SO|II Ca 2007/13|Postanowienie|31|https://www.saos.org.pl/judgments/397162

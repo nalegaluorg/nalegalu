@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-211308|2015-04-29|SO|I C 336/14|Wyrok|https://www.saos.org.pl/judgments/211308
-67317|2014-08-22|SO|III Ca 607/14|Postanowienie|https://www.saos.org.pl/judgments/67317
+saos_id|date|court|case_number|type|score|saos_url
+69562|2014-08-27|SO|I ACa 175/14|Wyrok|56|https://www.saos.org.pl/judgments/69562

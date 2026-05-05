@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-477540|2022-07-01|SO|I AGa 394/21|Wyrok|https://www.saos.org.pl/judgments/477540
-358711|2016-11-03|SO|XXVI GC 425/15|Wyrok|https://www.saos.org.pl/judgments/358711
-173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|https://www.saos.org.pl/judgments/173455
-256528|2015-04-10|SO|I ACz 393/15|Uzasadnienie|https://www.saos.org.pl/judgments/256528
-13687|2013-05-27|SO|II Ka 376/13|Wyrok|https://www.saos.org.pl/judgments/13687
+saos_id|date|court|case_number|type|score|saos_url
+477540|2022-07-01|SO|I AGa 394/21|Wyrok|56|https://www.saos.org.pl/judgments/477540
+173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|56|https://www.saos.org.pl/judgments/173455
+256528|2015-04-10|SO|I ACz 393/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/256528

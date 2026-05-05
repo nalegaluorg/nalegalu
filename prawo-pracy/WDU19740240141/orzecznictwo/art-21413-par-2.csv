@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-466761|2021-09-03|SO|IV Pa 27/21|Wyrok|https://www.saos.org.pl/judgments/466761
-450470|2020-03-03|SO|VI P 72/18|Wyrok|https://www.saos.org.pl/judgments/450470
-324270|2018-01-12|SO|VIII Pa 252/17|Uzasadnienie|https://www.saos.org.pl/judgments/324270
-331472|2017-12-07|SO|VII Pa 134/17|Wyrok|https://www.saos.org.pl/judgments/331472
-242723|2016-06-28|SO|XXI Pa 301/16|Wyrok|https://www.saos.org.pl/judgments/242723
-240693|2016-06-28|SO|XXI Pa 272/16|Wyrok|https://www.saos.org.pl/judgments/240693
-134707|2015-03-24|SO|VII Pa 24/15|Uzasadnienie|https://www.saos.org.pl/judgments/134707
-134705|2015-03-24|SO|VII Pa 20/15|Uzasadnienie|https://www.saos.org.pl/judgments/134705
-134703|2015-03-24|SO|VII Pa 18/15|Uzasadnienie|https://www.saos.org.pl/judgments/134703
-133739|2015-03-24|SO|VII Pa 19/15|Uzasadnienie|https://www.saos.org.pl/judgments/133739
-96490|2011-12-09|SN|II PK 67/11|Wyrok|https://www.saos.org.pl/judgments/96490
-94337|2011-03-03|SN|II PK 161/10|Wyrok|https://www.saos.org.pl/judgments/94337
-94336|2011-03-03|SN|II PK 107/10|Wyrok|https://www.saos.org.pl/judgments/94336
-80383|2001-03-07|SN|I PKN 284/00|Wyrok|https://www.saos.org.pl/judgments/80383
+saos_id|date|court|case_number|type|score|saos_url
+96490|2011-12-09|SN|II PK 67/11|Wyrok|78|https://www.saos.org.pl/judgments/96490
+94337|2011-03-03|SN|II PK 161/10|Wyrok|78|https://www.saos.org.pl/judgments/94337
+94336|2011-03-03|SN|II PK 107/10|Wyrok|78|https://www.saos.org.pl/judgments/94336
+80383|2001-03-07|SN|I PKN 284/00|Wyrok|78|https://www.saos.org.pl/judgments/80383
+450470|2020-03-03|SO|VI P 72/18|Wyrok|40|https://www.saos.org.pl/judgments/450470
+331472|2017-12-07|SO|VII Pa 134/17|Wyrok|40|https://www.saos.org.pl/judgments/331472
+324270|2018-01-12|SO|VIII Pa 252/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324270
+134707|2015-03-24|SO|VII Pa 24/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/134707
+134705|2015-03-24|SO|VII Pa 20/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/134705
+134703|2015-03-24|SO|VII Pa 18/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/134703
+133739|2015-03-24|SO|VII Pa 19/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/133739

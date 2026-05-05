@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-542490|2025-11-25|SO|VIII U 1991/25|Uzasadnienie|https://www.saos.org.pl/judgments/542490
-493277|2023-04-05|SO|I ACa 1034/21|Wyrok|https://www.saos.org.pl/judgments/493277
-471630|2022-07-01|SO|I ACa 100/21|Wyrok|https://www.saos.org.pl/judgments/471630
-467505|2022-06-10|SO|III U 162/22|Wyrok|https://www.saos.org.pl/judgments/467505
-432153|2021-02-17|SO|VIII U 966/20|Uzasadnienie|https://www.saos.org.pl/judgments/432153
-317688|2017-09-13|SO|VI ACa 840/16|Wyrok|https://www.saos.org.pl/judgments/317688
+saos_id|date|court|case_number|type|score|saos_url
+493277|2023-04-05|SO|I ACa 1034/21|Wyrok|56|https://www.saos.org.pl/judgments/493277
+471630|2022-07-01|SO|I ACa 100/21|Wyrok|56|https://www.saos.org.pl/judgments/471630
+317688|2017-09-13|SO|VI ACa 840/16|Wyrok|56|https://www.saos.org.pl/judgments/317688
+467505|2022-06-10|SO|III U 162/22|Wyrok|40|https://www.saos.org.pl/judgments/467505
+542490|2025-11-25|SO|VIII U 1991/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/542490
+432153|2021-02-17|SO|VIII U 966/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/432153

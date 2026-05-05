@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-465320|2019-05-23|SO|III C 1392/18|Wyrok|https://www.saos.org.pl/judgments/465320
+saos_id|date|court|case_number|type|score|saos_url
+465320|2019-05-23|SO|III C 1392/18|Wyrok|40|https://www.saos.org.pl/judgments/465320

@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-477869|2022-06-15|SO|II AKa 129/22|Wyrok|https://www.saos.org.pl/judgments/477869
-426427|2020-04-27|SO|II AKa 248/18|Uzasadnienie|https://www.saos.org.pl/judgments/426427
-501311|2020-03-19|SO|II AKa 89/18|Uzasadnienie|https://www.saos.org.pl/judgments/501311
-393153|2019-08-14|SO|II AKa 202/18|Wyrok|https://www.saos.org.pl/judgments/393153
-363994|2018-10-26|SO|VI Ka 189/18|Wyrok|https://www.saos.org.pl/judgments/363994
-400374|2018-04-04|SO|II Ka 88/18|Wyrok|https://www.saos.org.pl/judgments/400374
-324556|2017-12-06|SO|XVII Ka 948/17|Wyrok|https://www.saos.org.pl/judgments/324556
-400506|2017-10-31|SO|II Ka 307/17|Wyrok|https://www.saos.org.pl/judgments/400506
-250448|2016-09-26|SO|II Ka 341/16|Wyrok|https://www.saos.org.pl/judgments/250448
-244909|2016-03-17|SN|WK 3/16|Wyrok|https://www.saos.org.pl/judgments/244909
+saos_id|date|court|case_number|type|score|saos_url
+244909|2016-03-17|SN|WK 3/16|Wyrok|78|https://www.saos.org.pl/judgments/244909
+477869|2022-06-15|SO|II AKa 129/22|Wyrok|56|https://www.saos.org.pl/judgments/477869
+393153|2019-08-14|SO|II AKa 202/18|Wyrok|56|https://www.saos.org.pl/judgments/393153
+426427|2020-04-27|SO|II AKa 248/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/426427
+501311|2020-03-19|SO|II AKa 89/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/501311
+363994|2018-10-26|SO|VI Ka 189/18|Wyrok|40|https://www.saos.org.pl/judgments/363994
+324556|2017-12-06|SO|XVII Ka 948/17|Wyrok|40|https://www.saos.org.pl/judgments/324556
+250448|2016-09-26|SO|II Ka 341/16|Wyrok|40|https://www.saos.org.pl/judgments/250448

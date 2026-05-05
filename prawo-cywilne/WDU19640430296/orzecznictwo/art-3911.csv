@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-458641|2022-02-14|SO|VIII Pa 146/21|Uzasadnienie|https://www.saos.org.pl/judgments/458641
-165806|2014-05-15|SN|II CSK 450/13|Wyrok|https://www.saos.org.pl/judgments/165806
-94786|2011-04-20|SN|I BU 5/11|Postanowienie|https://www.saos.org.pl/judgments/94786
-164227|2006-04-28|SN|V CK 6/06|Wyrok|https://www.saos.org.pl/judgments/164227
-164057|2006-02-24|SN|II CSK 136/05|Wyrok|https://www.saos.org.pl/judgments/164057
-78428|1998-07-02|SN|II UKN 125/98|Wyrok|https://www.saos.org.pl/judgments/78428
-78319|1998-05-13|SN|I PKN 93/98|Wyrok|https://www.saos.org.pl/judgments/78319
-77686|1997-05-20|SN|II UKN 128/97|Wyrok|https://www.saos.org.pl/judgments/77686
-77390|1997-01-08|SN|II UKN 38/96|Wyrok|https://www.saos.org.pl/judgments/77390
+saos_id|date|court|case_number|type|score|saos_url
+165806|2014-05-15|SN|II CSK 450/13|Wyrok|78|https://www.saos.org.pl/judgments/165806
+164227|2006-04-28|SN|V CK 6/06|Wyrok|78|https://www.saos.org.pl/judgments/164227
+164057|2006-02-24|SN|II CSK 136/05|Wyrok|78|https://www.saos.org.pl/judgments/164057
+78428|1998-07-02|SN|II UKN 125/98|Wyrok|78|https://www.saos.org.pl/judgments/78428
+78319|1998-05-13|SN|I PKN 93/98|Wyrok|78|https://www.saos.org.pl/judgments/78319
+77686|1997-05-20|SN|II UKN 128/97|Wyrok|78|https://www.saos.org.pl/judgments/77686
+77390|1997-01-08|SN|II UKN 38/96|Wyrok|78|https://www.saos.org.pl/judgments/77390
+94786|2011-04-20|SN|I BU 5/11|Postanowienie|69|https://www.saos.org.pl/judgments/94786
+458641|2022-02-14|SO|VIII Pa 146/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/458641

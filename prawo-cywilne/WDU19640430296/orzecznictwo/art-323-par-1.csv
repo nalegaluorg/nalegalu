@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-373105|2019-01-28|SO|I C 1981/18|Wyrok|https://www.saos.org.pl/judgments/373105
-457172|2018-10-04|SO|III AUa 767/17|Wyrok|https://www.saos.org.pl/judgments/457172
-321094|2017-11-08|SO|I Ca 329/17|Wyrok|https://www.saos.org.pl/judgments/321094
-296609|2017-02-28|SO|IV Pa 1/17|Wyrok|https://www.saos.org.pl/judgments/296609
-68861|2014-10-16|SO|VIII Ga 119/14|Uzasadnienie|https://www.saos.org.pl/judgments/68861
-32377|2013-12-18|SO|I ACa 819/13|Wyrok|https://www.saos.org.pl/judgments/32377
+saos_id|date|court|case_number|type|score|saos_url
+457172|2018-10-04|SO|III AUa 767/17|Wyrok|56|https://www.saos.org.pl/judgments/457172
+32377|2013-12-18|SO|I ACa 819/13|Wyrok|56|https://www.saos.org.pl/judgments/32377
+373105|2019-01-28|SO|I C 1981/18|Wyrok|40|https://www.saos.org.pl/judgments/373105
+321094|2017-11-08|SO|I Ca 329/17|Wyrok|40|https://www.saos.org.pl/judgments/321094
+296609|2017-02-28|SO|IV Pa 1/17|Wyrok|40|https://www.saos.org.pl/judgments/296609

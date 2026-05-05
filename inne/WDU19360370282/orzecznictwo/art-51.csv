@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-539620|2025-08-20|SO|V ACz 570/24|Postanowienie|https://www.saos.org.pl/judgments/539620
-464431|2020-01-29|SO|XXV C 2118/18|Wyrok|https://www.saos.org.pl/judgments/464431
-349672|2018-06-18|SO|X GC 501/16|Zarządzenie|https://www.saos.org.pl/judgments/349672
-332585|2017-11-22|SO|I ACa 919/17|Wyrok|https://www.saos.org.pl/judgments/332585
-342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|https://www.saos.org.pl/judgments/342818
-320450|2017-05-10|SO|X GC 203/16|Zarządzenie|https://www.saos.org.pl/judgments/320450
-320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|https://www.saos.org.pl/judgments/320463
+saos_id|date|court|case_number|type|score|saos_url
+332585|2017-11-22|SO|I ACa 919/17|Wyrok|56|https://www.saos.org.pl/judgments/332585
+539620|2025-08-20|SO|V ACz 570/24|Postanowienie|47|https://www.saos.org.pl/judgments/539620
+349672|2018-06-18|SO|X GC 501/16|Zarządzenie|27|https://www.saos.org.pl/judgments/349672
+342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/342818
+320450|2017-05-10|SO|X GC 203/16|Zarządzenie|27|https://www.saos.org.pl/judgments/320450
+320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/320463

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-322567|2017-05-15|SO|III C 1651/15|Wyrok|https://www.saos.org.pl/judgments/322567
-38504|2013-10-10|SO|I ACa 351/13|Wyrok|https://www.saos.org.pl/judgments/38504
+saos_id|date|court|case_number|type|score|saos_url
+38504|2013-10-10|SO|I ACa 351/13|Wyrok|56|https://www.saos.org.pl/judgments/38504

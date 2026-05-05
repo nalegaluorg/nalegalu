@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-153062|2014-12-23|SO|I ACa 441/14|Wyrok|https://www.saos.org.pl/judgments/153062
+saos_id|date|court|case_number|type|score|saos_url
+153062|2014-12-23|SO|I ACa 441/14|Wyrok|56|https://www.saos.org.pl/judgments/153062

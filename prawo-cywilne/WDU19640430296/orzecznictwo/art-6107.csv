@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-67501|2014-07-01|SO|III Ca 693/14|Postanowienie|https://www.saos.org.pl/judgments/67501
-18868|2013-06-20|SO|VI Ns 195/13|Postanowienie|https://www.saos.org.pl/judgments/18868
+saos_id|date|court|case_number|type|score|saos_url
+322108|2017-11-07|SO|II Ca 787/17|Postanowienie|31|https://www.saos.org.pl/judgments/322108
+365619|2018-12-11|SO|IV Ca 492/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/365619

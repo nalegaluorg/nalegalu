@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-260338|2016-10-31|SO|XVI K 99/15|Wyrok|https://www.saos.org.pl/judgments/260338
-247392|2016-08-03|SO|III APa 15/16|Wyrok|https://www.saos.org.pl/judgments/247392
-164337|2006-06-09|SN|IV CK 415/05|Wyrok|https://www.saos.org.pl/judgments/164337
+saos_id|date|court|case_number|type|score|saos_url
+164337|2006-06-09|SN|IV CK 415/05|Wyrok|78|https://www.saos.org.pl/judgments/164337
+247392|2016-08-03|SO|III APa 15/16|Wyrok|56|https://www.saos.org.pl/judgments/247392
+260338|2016-10-31|SO|XVI K 99/15|Wyrok|40|https://www.saos.org.pl/judgments/260338

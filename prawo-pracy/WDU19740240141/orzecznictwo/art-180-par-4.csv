@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-542497|2025-10-29|SO|VIII Ua 48/25|Uzasadnienie|https://www.saos.org.pl/judgments/542497
-432254|2021-02-16|SO|VIII Ua 122/20|Uzasadnienie|https://www.saos.org.pl/judgments/432254
-435623|2021-01-18|SO|VI U 187/20|Wyrok|https://www.saos.org.pl/judgments/435623
-368533|2018-11-20|SO|VIII Ua 72/18|Uzasadnienie|https://www.saos.org.pl/judgments/368533
-314793|2017-11-13|SO|IX P 128/17|Zarządzenie|https://www.saos.org.pl/judgments/314793
+saos_id|date|court|case_number|type|score|saos_url
+435623|2021-01-18|SO|VI U 187/20|Wyrok|40|https://www.saos.org.pl/judgments/435623
+542497|2025-10-29|SO|VIII Ua 48/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/542497
+432254|2021-02-16|SO|VIII Ua 122/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/432254
+368533|2018-11-20|SO|VIII Ua 72/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/368533

@@ -1,35 +1,27 @@
-saos_id|date|court|case_number|type|saos_url
-526217|2025-01-22|SO|III AUa 233/24|Wyrok|https://www.saos.org.pl/judgments/526217
-512216|2024-01-10|SO|VII U 81/22|Wyrok|https://www.saos.org.pl/judgments/512216
-511971|2023-07-28|SO|VII U 1360/20|Wyrok|https://www.saos.org.pl/judgments/511971
-482430|2023-01-30|SO|VIII U 530/22|Wyrok|https://www.saos.org.pl/judgments/482430
-519201|2022-12-20|SO|III AUa 361/22|Wyrok|https://www.saos.org.pl/judgments/519201
-472464|2022-02-17|SO|III AUa 1125/21|Wyrok|https://www.saos.org.pl/judgments/472464
-424310|2020-10-06|SO|III AUa 94/20|Wyrok|https://www.saos.org.pl/judgments/424310
-391590|2019-08-13|SO|IV U 274/19|Wyrok|https://www.saos.org.pl/judgments/391590
-364815|2018-11-22|SO|III AUa 589/18|Wyrok|https://www.saos.org.pl/judgments/364815
-364814|2018-11-22|SO|III AUa 587/18|Wyrok|https://www.saos.org.pl/judgments/364814
-256762|2016-10-20|SO|I ACa 740/16|Wyrok|https://www.saos.org.pl/judgments/256762
-214731|2016-01-13|SO|II Co 3180/15|Postanowienie|https://www.saos.org.pl/judgments/214731
-182750|2015-10-28|SO|I Ca 343/15|Postanowienie|https://www.saos.org.pl/judgments/182750
-170755|2015-07-08|SO|I C 3381/14|Wyrok|https://www.saos.org.pl/judgments/170755
-69960|2014-10-13|SO|I C 1084/14|Wyrok|https://www.saos.org.pl/judgments/69960
-69955|2014-10-13|SO|I C 1004/14|Wyrok|https://www.saos.org.pl/judgments/69955
-182199|2014-06-02|SO|I C 2844/13|Wyrok|https://www.saos.org.pl/judgments/182199
-109065|2009-06-30|TK|P 99/08|Postanowienie|https://www.saos.org.pl/judgments/109065
-109026|2009-03-27|TK|P 23/08|Postanowienie|https://www.saos.org.pl/judgments/109026
-109015|2009-03-27|TK|P 10/09|Postanowienie|https://www.saos.org.pl/judgments/109015
-109054|2009-02-26|TK|P 69/08|Postanowienie|https://www.saos.org.pl/judgments/109054
-109039|2009-02-17|TK|P 51/08|Postanowienie|https://www.saos.org.pl/judgments/109039
-109027|2009-02-17|TK|P 30/08|Postanowienie|https://www.saos.org.pl/judgments/109027
-109013|2009-02-16|TK|P 104/08|Postanowienie|https://www.saos.org.pl/judgments/109013
-109049|2009-02-13|TK|P 65/08|Postanowienie|https://www.saos.org.pl/judgments/109049
-108591|2008-12-10|TK|P 39/08|Postanowienie|https://www.saos.org.pl/judgments/108591
-108574|2008-12-10|TK|P 19/08|Postanowienie|https://www.saos.org.pl/judgments/108574
-108573|2008-11-20|TK|P 18/08|Postanowienie|https://www.saos.org.pl/judgments/108573
-106983|2004-01-07|TK|Ts 133/03|Postanowienie|https://www.saos.org.pl/judgments/106983
-80842|2001-09-11|SN|III ZP 15/01|Uchwała|https://www.saos.org.pl/judgments/80842
-80782|2001-08-07|SN|III ZP 13/01|Uchwała|https://www.saos.org.pl/judgments/80782
-80628|2001-06-08|SN|I PKN 483/00|Wyrok|https://www.saos.org.pl/judgments/80628
-206110|2001-01-30|TK|K 17/00|Wyrok|https://www.saos.org.pl/judgments/206110
-105468|2000-02-22|TK|T 29/99|Postanowienie|https://www.saos.org.pl/judgments/105468
+saos_id|date|court|case_number|type|score|saos_url
+206110|2001-01-30|TK|K 17/00|Wyrok|98|https://www.saos.org.pl/judgments/206110
+80842|2001-09-11|SN|III ZP 15/01|Uchwała|89|https://www.saos.org.pl/judgments/80842
+80782|2001-08-07|SN|III ZP 13/01|Uchwała|89|https://www.saos.org.pl/judgments/80782
+109065|2009-06-30|TK|P 99/08|Postanowienie|80|https://www.saos.org.pl/judgments/109065
+109026|2009-03-27|TK|P 23/08|Postanowienie|80|https://www.saos.org.pl/judgments/109026
+109015|2009-03-27|TK|P 10/09|Postanowienie|80|https://www.saos.org.pl/judgments/109015
+109054|2009-02-26|TK|P 69/08|Postanowienie|80|https://www.saos.org.pl/judgments/109054
+109039|2009-02-17|TK|P 51/08|Postanowienie|80|https://www.saos.org.pl/judgments/109039
+109027|2009-02-17|TK|P 30/08|Postanowienie|80|https://www.saos.org.pl/judgments/109027
+109013|2009-02-16|TK|P 104/08|Postanowienie|80|https://www.saos.org.pl/judgments/109013
+109049|2009-02-13|TK|P 65/08|Postanowienie|80|https://www.saos.org.pl/judgments/109049
+108591|2008-12-10|TK|P 39/08|Postanowienie|80|https://www.saos.org.pl/judgments/108591
+108574|2008-12-10|TK|P 19/08|Postanowienie|80|https://www.saos.org.pl/judgments/108574
+108573|2008-11-20|TK|P 18/08|Postanowienie|80|https://www.saos.org.pl/judgments/108573
+106983|2004-01-07|TK|Ts 133/03|Postanowienie|80|https://www.saos.org.pl/judgments/106983
+105468|2000-02-22|TK|T 29/99|Postanowienie|80|https://www.saos.org.pl/judgments/105468
+80628|2001-06-08|SN|I PKN 483/00|Wyrok|78|https://www.saos.org.pl/judgments/80628
+526217|2025-01-22|SO|III AUa 233/24|Wyrok|56|https://www.saos.org.pl/judgments/526217
+519201|2022-12-20|SO|III AUa 361/22|Wyrok|56|https://www.saos.org.pl/judgments/519201
+472464|2022-02-17|SO|III AUa 1125/21|Wyrok|56|https://www.saos.org.pl/judgments/472464
+424310|2020-10-06|SO|III AUa 94/20|Wyrok|56|https://www.saos.org.pl/judgments/424310
+364815|2018-11-22|SO|III AUa 589/18|Wyrok|56|https://www.saos.org.pl/judgments/364815
+364814|2018-11-22|SO|III AUa 587/18|Wyrok|56|https://www.saos.org.pl/judgments/364814
+256762|2016-10-20|SO|I ACa 740/16|Wyrok|56|https://www.saos.org.pl/judgments/256762
+512216|2024-01-10|SO|VII U 81/22|Wyrok|40|https://www.saos.org.pl/judgments/512216
+511971|2023-07-28|SO|VII U 1360/20|Wyrok|40|https://www.saos.org.pl/judgments/511971

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-394460|2019-10-14|SO|XX GCo 258/19|Postanowienie|https://www.saos.org.pl/judgments/394460
-269524|2016-12-06|SO|VI ACa 346/16|Wyrok|https://www.saos.org.pl/judgments/269524
-408201|2011-05-18|SO|V ACz 342/11|Postanowienie|https://www.saos.org.pl/judgments/408201
-76949|1995-10-05|SN|III ARN 34/95|Wyrok|https://www.saos.org.pl/judgments/76949
-205627|1994-09-14|TK|W 5/94|Uchwała|https://www.saos.org.pl/judgments/205627
+saos_id|date|court|case_number|type|score|saos_url
+205627|1994-09-14|TK|W 5/94|Uchwała|100|https://www.saos.org.pl/judgments/205627
+76949|1995-10-05|SN|III ARN 34/95|Wyrok|78|https://www.saos.org.pl/judgments/76949
+269524|2016-12-06|SO|VI ACa 346/16|Wyrok|56|https://www.saos.org.pl/judgments/269524
+408201|2011-05-18|SO|V ACz 342/11|Postanowienie|47|https://www.saos.org.pl/judgments/408201

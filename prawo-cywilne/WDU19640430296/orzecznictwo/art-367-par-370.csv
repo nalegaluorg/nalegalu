@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-364578|2018-09-27|SO|III AUa 1423/17|Wyrok|https://www.saos.org.pl/judgments/364578
-244979|2016-03-22|SN|I UZ 40/15|Postanowienie|https://www.saos.org.pl/judgments/244979
-125102|2014-10-14|SO|III AUa 93/14|Postanowienie|https://www.saos.org.pl/judgments/125102
-42577|2014-03-26|SO|III AUa 1296/13|Postanowienie|https://www.saos.org.pl/judgments/42577
-94721|2011-04-14|SN|II UZ 7/11|Postanowienie|https://www.saos.org.pl/judgments/94721
+saos_id|date|court|case_number|type|score|saos_url
+244979|2016-03-22|SN|I UZ 40/15|Postanowienie|69|https://www.saos.org.pl/judgments/244979
+94721|2011-04-14|SN|II UZ 7/11|Postanowienie|69|https://www.saos.org.pl/judgments/94721
+364578|2018-09-27|SO|III AUa 1423/17|Wyrok|56|https://www.saos.org.pl/judgments/364578
+125102|2014-10-14|SO|III AUa 93/14|Postanowienie|47|https://www.saos.org.pl/judgments/125102
+42577|2014-03-26|SO|III AUa 1296/13|Postanowienie|47|https://www.saos.org.pl/judgments/42577

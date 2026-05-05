@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-468034|2022-04-21|SO|III Ca 496/21|Wyrok|https://www.saos.org.pl/judgments/468034
-469268|2021-12-30|SO|VII AGa 939/20|Wyrok|https://www.saos.org.pl/judgments/469268
-314128|2017-08-10|SO|I ACa 351/17|Wyrok|https://www.saos.org.pl/judgments/314128
-278859|2017-03-08|SO|I Ca 58/17|Postanowienie|https://www.saos.org.pl/judgments/278859
+saos_id|date|court|case_number|type|score|saos_url
+469268|2021-12-30|SO|VII AGa 939/20|Wyrok|56|https://www.saos.org.pl/judgments/469268
+314128|2017-08-10|SO|I ACa 351/17|Wyrok|56|https://www.saos.org.pl/judgments/314128

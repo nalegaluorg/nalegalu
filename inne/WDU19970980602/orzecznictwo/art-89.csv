@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-330809|2018-03-09|SO|II Ka 400/17|Wyrok|https://www.saos.org.pl/judgments/330809
-314054|2017-09-14|SO|XVII Ka 806/17|Wyrok|https://www.saos.org.pl/judgments/314054
-295777|2017-06-20|SO|I C 730/15|Wyrok|https://www.saos.org.pl/judgments/295777
-154650|2015-04-14|SO|I ACa 1504/14|Wyrok|https://www.saos.org.pl/judgments/154650
-73679|2014-11-18|SO|II Ka 340/14|Wyrok|https://www.saos.org.pl/judgments/73679
+saos_id|date|court|case_number|type|score|saos_url
+154650|2015-04-14|SO|I ACa 1504/14|Wyrok|56|https://www.saos.org.pl/judgments/154650
+314054|2017-09-14|SO|XVII Ka 806/17|Wyrok|40|https://www.saos.org.pl/judgments/314054

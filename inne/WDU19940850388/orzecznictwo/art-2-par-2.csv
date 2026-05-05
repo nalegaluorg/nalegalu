@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-399803|2018-10-25|SO|I C 637/18|Wyrok|https://www.saos.org.pl/judgments/399803
+saos_id|date|court|case_number|type|score|saos_url
+399803|2018-10-25|SO|I C 637/18|Wyrok|40|https://www.saos.org.pl/judgments/399803

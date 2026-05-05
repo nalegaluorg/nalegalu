@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-185409|2015-06-29|SO|III Ca 718/15|Uzasadnienie|https://www.saos.org.pl/judgments/185409
-19826|2013-09-06|SO|VIII Ca 484/13|Postanowienie|https://www.saos.org.pl/judgments/19826
+saos_id|date|court|case_number|type|score|saos_url
+185409|2015-06-29|SO|III Ca 718/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185409

@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-168870|2015-04-15|SN|IV KK 409/14|Postanowienie|https://www.saos.org.pl/judgments/168870
-168319|2015-02-19|SN|V KK 250/14|Wyrok|https://www.saos.org.pl/judgments/168319
-168130|2015-01-27|SN|V KK 195/14|Postanowienie|https://www.saos.org.pl/judgments/168130
-102391|2013-07-10|SN|II KK 133/12|Postanowienie|https://www.saos.org.pl/judgments/102391
-99353|2012-10-10|SN|V KK 77/12|Postanowienie|https://www.saos.org.pl/judgments/99353
-99352|2012-10-10|SN|V KK 71/12|Postanowienie|https://www.saos.org.pl/judgments/99352
-109278|2009-04-08|TK|Ts 132/07|Postanowienie|https://www.saos.org.pl/judgments/109278
-108189|2007-05-30|TK|SK 68/06|Wyrok|https://www.saos.org.pl/judgments/108189
-107681|2006-01-16|TK|SK 30/05|Wyrok|https://www.saos.org.pl/judgments/107681
+saos_id|date|court|case_number|type|score|saos_url
+108189|2007-05-30|TK|SK 68/06|Wyrok|98|https://www.saos.org.pl/judgments/108189
+107681|2006-01-16|TK|SK 30/05|Wyrok|98|https://www.saos.org.pl/judgments/107681
+109278|2009-04-08|TK|Ts 132/07|Postanowienie|80|https://www.saos.org.pl/judgments/109278
+168319|2015-02-19|SN|V KK 250/14|Wyrok|78|https://www.saos.org.pl/judgments/168319
+168870|2015-04-15|SN|IV KK 409/14|Postanowienie|69|https://www.saos.org.pl/judgments/168870
+168130|2015-01-27|SN|V KK 195/14|Postanowienie|69|https://www.saos.org.pl/judgments/168130
+102391|2013-07-10|SN|II KK 133/12|Postanowienie|69|https://www.saos.org.pl/judgments/102391
+99353|2012-10-10|SN|V KK 77/12|Postanowienie|69|https://www.saos.org.pl/judgments/99353
+99352|2012-10-10|SN|V KK 71/12|Postanowienie|69|https://www.saos.org.pl/judgments/99352

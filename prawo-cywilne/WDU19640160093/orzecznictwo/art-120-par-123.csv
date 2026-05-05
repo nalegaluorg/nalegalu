@@ -1,11 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-454840|2022-01-03|SO|XVI C 2619/19|Uzasadnienie|https://www.saos.org.pl/judgments/454840
-388221|2017-11-17|SO|II C 1120/17|Uzasadnienie|https://www.saos.org.pl/judgments/388221
-311884|2017-10-17|SO|XVI C 2680/15|Zarządzenie|https://www.saos.org.pl/judgments/311884
-249064|2016-09-08|SO|XVI C 1719/12|Wyrok|https://www.saos.org.pl/judgments/249064
-189384|2015-10-12|SO|XVI C 941/15|Wyrok|https://www.saos.org.pl/judgments/189384
-148764|2015-03-20|SO|I C 1955/14|Wyrok|https://www.saos.org.pl/judgments/148764
-132649|2015-02-13|SO|I C 1794/14|Wyrok|https://www.saos.org.pl/judgments/132649
-126426|2014-12-10|SO|I C 1396/14|Wyrok|https://www.saos.org.pl/judgments/126426
-130221|2014-10-09|SO|I ACa 907/14|Wyrok|https://www.saos.org.pl/judgments/130221
-146999|2014-06-06|SO|I Ca 143/14|Wyrok|https://www.saos.org.pl/judgments/146999
+saos_id|date|court|case_number|type|score|saos_url
+130221|2014-10-09|SO|I ACa 907/14|Wyrok|56|https://www.saos.org.pl/judgments/130221
+388221|2017-11-17|SO|II C 1120/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/388221

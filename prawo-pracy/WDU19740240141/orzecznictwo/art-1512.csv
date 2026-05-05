@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-507174|2023-10-12|SO|III Pa 43/23|Wyrok|https://www.saos.org.pl/judgments/507174
-464729|2022-01-13|SO|VIII Pa 128/21|Wyrok|https://www.saos.org.pl/judgments/464729
-466654|2021-11-23|SO|VIII Pa 106/21|Wyrok|https://www.saos.org.pl/judgments/466654
-434112|2021-02-23|SO|VIII Pa 62/20|Uzasadnienie|https://www.saos.org.pl/judgments/434112
-381322|2019-03-05|SO|XXI Pa 459/18|Wyrok|https://www.saos.org.pl/judgments/381322
-375801|2018-07-26|SO|VII Pa 76/18|Wyrok|https://www.saos.org.pl/judgments/375801
-297217|2017-06-26|SO|VIII Pa 112/17|Uzasadnienie|https://www.saos.org.pl/judgments/297217
-295267|2017-04-25|SO|VI Pa 91/16|Uzasadnienie|https://www.saos.org.pl/judgments/295267
-196592|2016-01-11|SO|VII Pa 290/15|Uzasadnienie|https://www.saos.org.pl/judgments/196592
+saos_id|date|court|case_number|type|score|saos_url
+507174|2023-10-12|SO|III Pa 43/23|Wyrok|40|https://www.saos.org.pl/judgments/507174
+375801|2018-07-26|SO|VII Pa 76/18|Wyrok|40|https://www.saos.org.pl/judgments/375801
+434112|2021-02-23|SO|VIII Pa 62/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/434112
+297217|2017-06-26|SO|VIII Pa 112/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/297217
+196592|2016-01-11|SO|VII Pa 290/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/196592

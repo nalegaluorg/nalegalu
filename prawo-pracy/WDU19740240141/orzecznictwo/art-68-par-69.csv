@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80330|2001-02-14|SN|I PKN 258/00|Wyrok|https://www.saos.org.pl/judgments/80330
+saos_id|date|court|case_number|type|score|saos_url
+80330|2001-02-14|SN|I PKN 258/00|Wyrok|78|https://www.saos.org.pl/judgments/80330

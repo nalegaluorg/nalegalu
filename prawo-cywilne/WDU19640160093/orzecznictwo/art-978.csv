@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-499924|2023-09-13|SO|I Ca 408/23|Wyrok|https://www.saos.org.pl/judgments/499924
-467570|2022-05-25|SO|IX Ca 280/22|Postanowienie|https://www.saos.org.pl/judgments/467570
-397529|2019-04-26|SO|XV Ca 521/18|Postanowienie|https://www.saos.org.pl/judgments/397529
-383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|https://www.saos.org.pl/judgments/383740
-378722|2019-04-11|SO|III Ca 1250/18|Wyrok|https://www.saos.org.pl/judgments/378722
-300385|2017-07-05|SO|III Ca 1549/16|Uzasadnienie|https://www.saos.org.pl/judgments/300385
-237165|2016-05-27|SO|II Ca 287/16|Postanowienie|https://www.saos.org.pl/judgments/237165
-288140|2016-03-18|SO|V C 852/13|Wyrok|https://www.saos.org.pl/judgments/288140
-69130|2014-10-30|SO|I C 559/14|Wyrok|https://www.saos.org.pl/judgments/69130
+saos_id|date|court|case_number|type|score|saos_url
+383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|56|https://www.saos.org.pl/judgments/383740
+288140|2016-03-18|SO|V C 852/13|Wyrok|40|https://www.saos.org.pl/judgments/288140
+397529|2019-04-26|SO|XV Ca 521/18|Postanowienie|31|https://www.saos.org.pl/judgments/397529
+300385|2017-07-05|SO|III Ca 1549/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/300385

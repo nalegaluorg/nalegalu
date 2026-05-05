@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-3552|2012-08-07|SO|VI ACa 392/12|Wyrok|https://www.saos.org.pl/judgments/3552
-392462|2012-02-21|SO|XVII AmC 5137/11|Uzasadnienie|https://www.saos.org.pl/judgments/392462
-13453|2012-02-03|SO|XVII AmC 3635/11|Uzasadnienie|https://www.saos.org.pl/judgments/13453
-13448|2012-02-03|SO|XVII AmC 315/11|Uzasadnienie|https://www.saos.org.pl/judgments/13448
-270110|2012-01-04|SO|XVII AmC 3635/11|Wyrok|https://www.saos.org.pl/judgments/270110
+saos_id|date|court|case_number|type|score|saos_url
+3552|2012-08-07|SO|VI ACa 392/12|Wyrok|56|https://www.saos.org.pl/judgments/3552

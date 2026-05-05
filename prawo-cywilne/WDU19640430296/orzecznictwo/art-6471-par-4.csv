@@ -1,2 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-57120|2013-12-19|SO|XVI GC 1131/12|Uzasadnienie|https://www.saos.org.pl/judgments/57120
+saos_id|date|court|case_number|type|score|saos_url
+102739|2013-08-28|SN|V CSK 362/12|Wyrok|78|https://www.saos.org.pl/judgments/102739
+481950|2015-07-29|SO|I ACa 387/15|Wyrok|56|https://www.saos.org.pl/judgments/481950
+61092|2014-03-19|SO|VI ACa 1005/13|Wyrok|56|https://www.saos.org.pl/judgments/61092
+52575|2013-06-05|SO|I ACa 466/13|Wyrok|56|https://www.saos.org.pl/judgments/52575
+60696|2014-07-24|SO|VI Ga 157/14|Wyrok|40|https://www.saos.org.pl/judgments/60696

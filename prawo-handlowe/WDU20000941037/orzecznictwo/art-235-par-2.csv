@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-460226|2022-01-24|SO|I AGa 108/21|Wyrok|https://www.saos.org.pl/judgments/460226
-433509|2020-09-28|SO|XVI GC 1242/20|Postanowienie|https://www.saos.org.pl/judgments/433509
-384673|2018-12-21|SO|XXVI GC 181/17|Wyrok|https://www.saos.org.pl/judgments/384673
-273525|2016-12-28|SO|I ACa 690/16|Wyrok|https://www.saos.org.pl/judgments/273525
-266853|2016-12-20|SO|VI GC 288/16|Wyrok|https://www.saos.org.pl/judgments/266853
-227047|2016-05-20|SO|I ACa 62/16|Wyrok|https://www.saos.org.pl/judgments/227047
-199404|2016-01-27|SO|VI Ga 9/16|Postanowienie|https://www.saos.org.pl/judgments/199404
-199402|2015-10-15|SO|VI Ga 103/15|Postanowienie|https://www.saos.org.pl/judgments/199402
-148892|2015-01-23|SO|VIII GC 391/13|Wyrok|https://www.saos.org.pl/judgments/148892
-129121|2014-07-17|SO|VI ACa 1604/13|Wyrok|https://www.saos.org.pl/judgments/129121
-70969|2014-03-26|SO|I ACa 102/14|Wyrok|https://www.saos.org.pl/judgments/70969
-13411|2013-03-20|SO|VI ACa 1228/12|Wyrok|https://www.saos.org.pl/judgments/13411
-6416|2013-02-14|SO|V ACa 775/12|Wyrok|https://www.saos.org.pl/judgments/6416
-99329|2012-10-12|SN|IV CSK 186/12|Wyrok|https://www.saos.org.pl/judgments/99329
+saos_id|date|court|case_number|type|score|saos_url
+99329|2012-10-12|SN|IV CSK 186/12|Wyrok|78|https://www.saos.org.pl/judgments/99329
+460226|2022-01-24|SO|I AGa 108/21|Wyrok|56|https://www.saos.org.pl/judgments/460226
+273525|2016-12-28|SO|I ACa 690/16|Wyrok|56|https://www.saos.org.pl/judgments/273525
+227047|2016-05-20|SO|I ACa 62/16|Wyrok|56|https://www.saos.org.pl/judgments/227047
+129121|2014-07-17|SO|VI ACa 1604/13|Wyrok|56|https://www.saos.org.pl/judgments/129121
+70969|2014-03-26|SO|I ACa 102/14|Wyrok|56|https://www.saos.org.pl/judgments/70969
+13411|2013-03-20|SO|VI ACa 1228/12|Wyrok|56|https://www.saos.org.pl/judgments/13411
+6416|2013-02-14|SO|V ACa 775/12|Wyrok|56|https://www.saos.org.pl/judgments/6416
+266853|2016-12-20|SO|VI GC 288/16|Wyrok|40|https://www.saos.org.pl/judgments/266853
+199404|2016-01-27|SO|VI Ga 9/16|Postanowienie|31|https://www.saos.org.pl/judgments/199404
+199402|2015-10-15|SO|VI Ga 103/15|Postanowienie|31|https://www.saos.org.pl/judgments/199402

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-382595|2019-03-01|SO|V P 14/17|Wyrok|https://www.saos.org.pl/judgments/382595
+saos_id|date|court|case_number|type|score|saos_url
+382595|2019-03-01|SO|V P 14/17|Wyrok|40|https://www.saos.org.pl/judgments/382595

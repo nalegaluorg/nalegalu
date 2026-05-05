@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-261312|2016-07-14|SO|II AKa 106/16|Wyrok|https://www.saos.org.pl/judgments/261312
-147152|2014-06-11|SO|II AKa 150/14|Wyrok|https://www.saos.org.pl/judgments/147152
-88988|2008-10-24|SN|WZ 64/08|Postanowienie|https://www.saos.org.pl/judgments/88988
+saos_id|date|court|case_number|type|score|saos_url
+88988|2008-10-24|SN|WZ 64/08|Postanowienie|69|https://www.saos.org.pl/judgments/88988
+261312|2016-07-14|SO|II AKa 106/16|Wyrok|56|https://www.saos.org.pl/judgments/261312
+147152|2014-06-11|SO|II AKa 150/14|Wyrok|56|https://www.saos.org.pl/judgments/147152

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-521525|2024-06-06|SO|I C 551/22|Wyrok|https://www.saos.org.pl/judgments/521525
-543523|2024-01-08|SO|I ACa 2783/23|Wyrok|https://www.saos.org.pl/judgments/543523
-518630|2023-04-12|SO|I ACa 170/22|Wyrok|https://www.saos.org.pl/judgments/518630
-405998|2019-10-04|SO|XXV C 2517/17|Wyrok|https://www.saos.org.pl/judgments/405998
+saos_id|date|court|case_number|type|score|saos_url
+543523|2024-01-08|SO|I ACa 2783/23|Wyrok|56|https://www.saos.org.pl/judgments/543523
+518630|2023-04-12|SO|I ACa 170/22|Wyrok|56|https://www.saos.org.pl/judgments/518630

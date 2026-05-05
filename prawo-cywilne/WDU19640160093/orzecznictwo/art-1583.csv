@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-497055|2022-10-24|SO|I C 2470/20|Wyrok|https://www.saos.org.pl/judgments/497055
-97189|2012-02-16|SN|II CNP 71/11|Postanowienie|https://www.saos.org.pl/judgments/97189
+saos_id|date|court|case_number|type|score|saos_url
+97189|2012-02-16|SN|II CNP 71/11|Postanowienie|69|https://www.saos.org.pl/judgments/97189
+497055|2022-10-24|SO|I C 2470/20|Wyrok|40|https://www.saos.org.pl/judgments/497055

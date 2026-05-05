@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-534907|2024-12-20|SO|VII AGa 119/24|Wyrok|https://www.saos.org.pl/judgments/534907
-437589|2020-05-21|SO|II Ca 396/20|Wyrok|https://www.saos.org.pl/judgments/437589
-350076|2018-06-22|SO|I C 1511/17|Wyrok|https://www.saos.org.pl/judgments/350076
-325626|2017-01-30|SO|I C 2944/13|Uzasadnienie|https://www.saos.org.pl/judgments/325626
-267057|2016-11-17|SO|II Ca 511/16|Postanowienie|https://www.saos.org.pl/judgments/267057
-53756|2013-12-13|SO|I ACa 1277/13|Wyrok|https://www.saos.org.pl/judgments/53756
+saos_id|date|court|case_number|type|score|saos_url
+534907|2024-12-20|SO|VII AGa 119/24|Wyrok|56|https://www.saos.org.pl/judgments/534907
+53756|2013-12-13|SO|I ACa 1277/13|Wyrok|56|https://www.saos.org.pl/judgments/53756
+437589|2020-05-21|SO|II Ca 396/20|Wyrok|40|https://www.saos.org.pl/judgments/437589
+350076|2018-06-22|SO|I C 1511/17|Wyrok|40|https://www.saos.org.pl/judgments/350076

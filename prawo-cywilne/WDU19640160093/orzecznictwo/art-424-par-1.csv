@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-407354|2019-11-28|SO|I ACa 132/19|Wyrok|https://www.saos.org.pl/judgments/407354
-213716|2016-01-21|SO|I ACa 262/15|Wyrok|https://www.saos.org.pl/judgments/213716
+saos_id|date|court|case_number|type|score|saos_url
+407354|2019-11-28|SO|I ACa 132/19|Wyrok|56|https://www.saos.org.pl/judgments/407354
+213716|2016-01-21|SO|I ACa 262/15|Wyrok|56|https://www.saos.org.pl/judgments/213716

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511237|2023-10-25|SO|VI Ka 656/23|Wyrok|https://www.saos.org.pl/judgments/511237
-333474|2018-02-21|SO|IV Ka 82/18|Wyrok|https://www.saos.org.pl/judgments/333474
+saos_id|date|court|case_number|type|score|saos_url
+333474|2018-02-21|SO|IV Ka 82/18|Wyrok|40|https://www.saos.org.pl/judgments/333474

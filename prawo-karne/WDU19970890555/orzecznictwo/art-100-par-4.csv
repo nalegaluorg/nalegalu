@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-475151|2022-03-24|SO|I ACa 443/21|Wyrok|https://www.saos.org.pl/judgments/475151
-413703|2020-05-25|SO|IX Kz 414/20|Postanowienie|https://www.saos.org.pl/judgments/413703
-391321|2019-04-11|SO|II AKa 23/19|Wyrok|https://www.saos.org.pl/judgments/391321
-371779|2019-02-22|SO|VII Kz 27/19|Postanowienie|https://www.saos.org.pl/judgments/371779
-403182|2018-06-29|SO|II AKa 78/18|Uzasadnienie|https://www.saos.org.pl/judgments/403182
-327694|2017-11-24|SO|II AKa 269/17|Wyrok|https://www.saos.org.pl/judgments/327694
-314928|2017-09-12|SO|VI Ka 542/17|Wyrok|https://www.saos.org.pl/judgments/314928
-312911|2017-08-16|SO|IV 1Kz 109/17|Postanowienie|https://www.saos.org.pl/judgments/312911
-298909|2017-07-19|SO|II AKa 171/17|Wyrok|https://www.saos.org.pl/judgments/298909
-292307|2017-06-19|SO|IV Pa 55/17|Wyrok|https://www.saos.org.pl/judgments/292307
-274515|2017-02-20|SO|IV P 103/16|Wyrok|https://www.saos.org.pl/judgments/274515
-102499|2013-07-18|SN|SNO 13/13|Uchwała|https://www.saos.org.pl/judgments/102499
-88041|2008-05-07|SN|SNO 43/08|Uchwała|https://www.saos.org.pl/judgments/88041
-82036|2003-05-29|SN|I KZP 15/03|Postanowienie|https://www.saos.org.pl/judgments/82036
+saos_id|date|court|case_number|type|score|saos_url
+102499|2013-07-18|SN|SNO 13/13|Uchwała|89|https://www.saos.org.pl/judgments/102499
+88041|2008-05-07|SN|SNO 43/08|Uchwała|89|https://www.saos.org.pl/judgments/88041
+82036|2003-05-29|SN|I KZP 15/03|Postanowienie|76|https://www.saos.org.pl/judgments/82036
+475151|2022-03-24|SO|I ACa 443/21|Wyrok|56|https://www.saos.org.pl/judgments/475151
+391321|2019-04-11|SO|II AKa 23/19|Wyrok|56|https://www.saos.org.pl/judgments/391321
+327694|2017-11-24|SO|II AKa 269/17|Wyrok|56|https://www.saos.org.pl/judgments/327694
+298909|2017-07-19|SO|II AKa 171/17|Wyrok|56|https://www.saos.org.pl/judgments/298909
+403182|2018-06-29|SO|II AKa 78/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/403182
+371779|2019-02-22|SO|VII Kz 27/19|Postanowienie|31|https://www.saos.org.pl/judgments/371779
+312911|2017-08-16|SO|IV 1Kz 109/17|Postanowienie|31|https://www.saos.org.pl/judgments/312911

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-175614|2015-05-11|SO|XII C 2006/14|Wyrok|https://www.saos.org.pl/judgments/175614
-35806|2014-01-17|SO|V Ca 147/14|Wyrok|https://www.saos.org.pl/judgments/35806
+saos_id|date|court|case_number|type|score|saos_url
+175614|2015-05-11|SO|XII C 2006/14|Wyrok|40|https://www.saos.org.pl/judgments/175614
+35806|2014-01-17|SO|V Ca 147/14|Wyrok|40|https://www.saos.org.pl/judgments/35806

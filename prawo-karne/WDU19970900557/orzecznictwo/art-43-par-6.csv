@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-444408|2020-02-04|SO|II AKzw 167/20|Postanowienie|https://www.saos.org.pl/judgments/444408
-268367|2016-11-24|SO|III Kow 1380/16|Postanowienie|https://www.saos.org.pl/judgments/268367
+saos_id|date|court|case_number|type|score|saos_url
+444408|2020-02-04|SO|II AKzw 167/20|Postanowienie|47|https://www.saos.org.pl/judgments/444408

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-338599|2018-04-30|SO|II C 55/16|Wyrok|https://www.saos.org.pl/judgments/338599
+saos_id|date|court|case_number|type|score|saos_url
+338599|2018-04-30|SO|II C 55/16|Wyrok|40|https://www.saos.org.pl/judgments/338599

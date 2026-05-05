@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-45166|2014-01-09|SO|I ACa 704/13|Wyrok|https://www.saos.org.pl/judgments/45166
-26118|2013-10-25|SO|VIII Ga 292/13|Wyrok|https://www.saos.org.pl/judgments/26118
+saos_id|date|court|case_number|type|score|saos_url
+45166|2014-01-09|SO|I ACa 704/13|Wyrok|56|https://www.saos.org.pl/judgments/45166

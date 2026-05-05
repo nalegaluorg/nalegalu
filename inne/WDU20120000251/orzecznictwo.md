@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 28 lutego 2012
 
 ## art. 114 (1)
 
-- 2013-12-03 | SN | [I UK 190/13](https://www.saos.org.pl/judgments/165578) | Wyrok
+- 2013-12-03 | SN | [I UK 190/13](https://www.saos.org.pl/judgments/165578) | Wyrok ★
 
 ## art. 155 (1)
 
-- 2014-08-06 | SN | [II UK 523/13](https://www.saos.org.pl/judgments/166506) | Wyrok
+- 2014-08-06 | SN | [II UK 523/13](https://www.saos.org.pl/judgments/166506) | Wyrok ★
 
 ## art. 405 (1)
 

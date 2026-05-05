@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-534577|2025-05-06|SO|VIII U 301/24|Uzasadnienie|https://www.saos.org.pl/judgments/534577
-493933|2022-05-19|SO|I ACa 24/21|Wyrok|https://www.saos.org.pl/judgments/493933
-452222|2021-04-14|SO|I C 1308/19|Wyrok|https://www.saos.org.pl/judgments/452222
+saos_id|date|court|case_number|type|score|saos_url
+493933|2022-05-19|SO|I ACa 24/21|Wyrok|56|https://www.saos.org.pl/judgments/493933
+534577|2025-05-06|SO|VIII U 301/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534577

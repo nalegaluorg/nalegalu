@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-352895|2018-08-16|SO|II AKa 181/18|Wyrok|https://www.saos.org.pl/judgments/352895
-228801|2016-04-21|SO|II K 590/15|Wyrok|https://www.saos.org.pl/judgments/228801
-80910|2001-10-18|SN|I KZP 22/01|Uchwała|https://www.saos.org.pl/judgments/80910
+saos_id|date|court|case_number|type|score|saos_url
+80910|2001-10-18|SN|I KZP 22/01|Uchwała|96|https://www.saos.org.pl/judgments/80910
+352895|2018-08-16|SO|II AKa 181/18|Wyrok|56|https://www.saos.org.pl/judgments/352895

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-320394|2017-11-27|SO|VIII Pa 205/17|Uzasadnienie|https://www.saos.org.pl/judgments/320394
-276275|2017-01-05|SO|III AUa 1346/16|Wyrok|https://www.saos.org.pl/judgments/276275
-173342|2015-05-27|SO|XII Ga 194/15|Wyrok|https://www.saos.org.pl/judgments/173342
+saos_id|date|court|case_number|type|score|saos_url
+276275|2017-01-05|SO|III AUa 1346/16|Wyrok|56|https://www.saos.org.pl/judgments/276275
+173342|2015-05-27|SO|XII Ga 194/15|Wyrok|40|https://www.saos.org.pl/judgments/173342
+320394|2017-11-27|SO|VIII Pa 205/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/320394

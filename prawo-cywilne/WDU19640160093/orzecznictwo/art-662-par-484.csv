@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-454690|2021-10-26|SO|I AGa 110/20|Wyrok|https://www.saos.org.pl/judgments/454690
+saos_id|date|court|case_number|type|score|saos_url
+454690|2021-10-26|SO|I AGa 110/20|Wyrok|56|https://www.saos.org.pl/judgments/454690

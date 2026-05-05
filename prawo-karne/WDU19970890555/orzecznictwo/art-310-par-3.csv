@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
-144453|2014-01-30|SO|II AKa 437/13|Wyrok|https://www.saos.org.pl/judgments/144453
-86355|2007-07-26|SN|I KZP 17/07|Postanowienie|https://www.saos.org.pl/judgments/86355
-85488|2007-03-21|SN|I KZP 1/07|Postanowienie|https://www.saos.org.pl/judgments/85488
-106037|2002-11-20|TK|K 41/02|Wyrok|https://www.saos.org.pl/judgments/106037
+saos_id|date|court|case_number|type|score|saos_url
+106037|2002-11-20|TK|K 41/02|Wyrok|98|https://www.saos.org.pl/judgments/106037
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+86355|2007-07-26|SN|I KZP 17/07|Postanowienie|69|https://www.saos.org.pl/judgments/86355
+85488|2007-03-21|SN|I KZP 1/07|Postanowienie|69|https://www.saos.org.pl/judgments/85488
+144453|2014-01-30|SO|II AKa 437/13|Wyrok|56|https://www.saos.org.pl/judgments/144453

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76318|2010-03-24|SN|V CZ 14/10|Postanowienie|https://www.saos.org.pl/judgments/76318
+saos_id|date|court|case_number|type|score|saos_url
+76318|2010-03-24|SN|V CZ 14/10|Postanowienie|69|https://www.saos.org.pl/judgments/76318

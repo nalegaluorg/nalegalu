@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-246500|2016-07-12|SO|III Ca 498/16|Uzasadnienie|https://www.saos.org.pl/judgments/246500
-150383|2015-02-20|SO|II AKa 326/14|Wyrok|https://www.saos.org.pl/judgments/150383
+saos_id|date|court|case_number|type|score|saos_url
+150383|2015-02-20|SO|II AKa 326/14|Wyrok|56|https://www.saos.org.pl/judgments/150383
+246500|2016-07-12|SO|III Ca 498/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/246500

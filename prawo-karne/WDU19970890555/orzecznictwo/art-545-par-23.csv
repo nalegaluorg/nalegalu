@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101892|2013-05-22|SN|IV KZ 21/13|Postanowienie|https://www.saos.org.pl/judgments/101892
+saos_id|date|court|case_number|type|score|saos_url
+101892|2013-05-22|SN|IV KZ 21/13|Postanowienie|69|https://www.saos.org.pl/judgments/101892

@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-525636|2024-04-17|SO|II AKz 189/24|Postanowienie|https://www.saos.org.pl/judgments/525636
-525588|2023-09-13|SO|II AKz 458/23|Postanowienie|https://www.saos.org.pl/judgments/525588
-432767|2020-10-29|SO|III K 897/16|Uzasadnienie|https://www.saos.org.pl/judgments/432767
-332726|2018-03-08|SO|II AKz 51/18|Postanowienie|https://www.saos.org.pl/judgments/332726
-413876|2017-01-11|SO|II AKz 432/16|Postanowienie|https://www.saos.org.pl/judgments/413876
-8921|2013-04-11|SO|III Kop 67/13|Postanowienie|https://www.saos.org.pl/judgments/8921
-3772|2012-12-21|SO|III Kop 218/12|Postanowienie|https://www.saos.org.pl/judgments/3772
-96399|2011-11-22|SN|IV KK 267/11|Postanowienie|https://www.saos.org.pl/judgments/96399
-21038|2010-09-13|SO|III Kop 103/10|Postanowienie|https://www.saos.org.pl/judgments/21038
-83370|2005-04-27|SN|IV KK 89/05|Postanowienie|https://www.saos.org.pl/judgments/83370
-82519|2004-02-25|SN|II KK 391/03|Postanowienie|https://www.saos.org.pl/judgments/82519
+saos_id|date|court|case_number|type|score|saos_url
+96399|2011-11-22|SN|IV KK 267/11|Postanowienie|69|https://www.saos.org.pl/judgments/96399
+83370|2005-04-27|SN|IV KK 89/05|Postanowienie|69|https://www.saos.org.pl/judgments/83370
+82519|2004-02-25|SN|II KK 391/03|Postanowienie|69|https://www.saos.org.pl/judgments/82519
+525636|2024-04-17|SO|II AKz 189/24|Postanowienie|47|https://www.saos.org.pl/judgments/525636
+525588|2023-09-13|SO|II AKz 458/23|Postanowienie|47|https://www.saos.org.pl/judgments/525588
+332726|2018-03-08|SO|II AKz 51/18|Postanowienie|47|https://www.saos.org.pl/judgments/332726
+413876|2017-01-11|SO|II AKz 432/16|Postanowienie|47|https://www.saos.org.pl/judgments/413876

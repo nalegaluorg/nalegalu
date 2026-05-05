@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-464919|2022-05-16|SO|VIII U 2218/21|Uzasadnienie|https://www.saos.org.pl/judgments/464919
-413188|2017-12-21|SO|III AUa 63/17|Wyrok|https://www.saos.org.pl/judgments/413188
-309241|2017-10-20|SO|XIII Ga 38/17|Uzasadnienie|https://www.saos.org.pl/judgments/309241
-190895|2015-12-09|SO|XXIII Ga 1874/15|Postanowienie|https://www.saos.org.pl/judgments/190895
-191259|2015-11-19|SO|XXIII Ga 1664/15|Postanowienie|https://www.saos.org.pl/judgments/191259
-64322|2014-05-21|SO|III AUa 1475/13|Wyrok|https://www.saos.org.pl/judgments/64322
-98290|2012-06-06|SN|III CZP 22/12|Uchwała|https://www.saos.org.pl/judgments/98290
+saos_id|date|court|case_number|type|score|saos_url
+98290|2012-06-06|SN|III CZP 22/12|Uchwała|89|https://www.saos.org.pl/judgments/98290
+413188|2017-12-21|SO|III AUa 63/17|Wyrok|56|https://www.saos.org.pl/judgments/413188
+64322|2014-05-21|SO|III AUa 1475/13|Wyrok|56|https://www.saos.org.pl/judgments/64322
+464919|2022-05-16|SO|VIII U 2218/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/464919
+309241|2017-10-20|SO|XIII Ga 38/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/309241

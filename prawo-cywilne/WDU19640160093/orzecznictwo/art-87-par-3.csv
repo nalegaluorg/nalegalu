@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-444431|2019-12-30|SO|II Ca 679/19|Postanowienie|https://www.saos.org.pl/judgments/444431
-56163|2014-08-01|SO|VII Pa 186/14|Uzasadnienie|https://www.saos.org.pl/judgments/56163
+saos_id|date|court|case_number|type|score|saos_url
+56163|2014-08-01|SO|VII Pa 186/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/56163

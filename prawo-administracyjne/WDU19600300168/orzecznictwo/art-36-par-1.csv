@@ -1,38 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-535512|2025-05-30|SO|XVII AmE 85/22|Wyrok|https://www.saos.org.pl/judgments/535512
-523249|2023-06-13|SO|XVII AmE 237/21|Wyrok|https://www.saos.org.pl/judgments/523249
-515110|2022-08-10|SO|XVII AmE 226/21|Wyrok|https://www.saos.org.pl/judgments/515110
-474150|2022-06-20|SO|VII U 1686/21|Wyrok|https://www.saos.org.pl/judgments/474150
-480274|2022-05-23|SO|I ACa 626/21|Wyrok|https://www.saos.org.pl/judgments/480274
-482002|2022-03-30|SO|XVII AmE 82/20|Wyrok|https://www.saos.org.pl/judgments/482002
-467690|2022-02-28|SO|XVII AmE 26/20|Wyrok|https://www.saos.org.pl/judgments/467690
-459878|2021-11-30|SO|XVII AmA 42/20|Wyrok|https://www.saos.org.pl/judgments/459878
-464634|2021-03-11|SO|I ACa 125/20|Wyrok|https://www.saos.org.pl/judgments/464634
-435652|2020-06-18|SO|XVII AmE 219/17|Wyrok|https://www.saos.org.pl/judgments/435652
-397765|2019-10-18|SO|XVII AmE 351/17|Wyrok|https://www.saos.org.pl/judgments/397765
-487585|2019-05-23|SO|XVII AmK 17/17|Wyrok|https://www.saos.org.pl/judgments/487585
-459060|2019-04-30|SO|XVII AmK 16/17|Wyrok|https://www.saos.org.pl/judgments/459060
-444538|2019-04-19|SO|XVII AmT 17/17|Wyrok|https://www.saos.org.pl/judgments/444538
-485847|2019-04-08|SO|XVII AmK 21/17|Wyrok|https://www.saos.org.pl/judgments/485847
-464068|2019-02-05|SO|XVII AmK 19/17|Wyrok|https://www.saos.org.pl/judgments/464068
-370772|2018-11-27|SO|I ACa 99/18|Wyrok|https://www.saos.org.pl/judgments/370772
-399290|2018-09-11|SO|XVII AmE 170/17|Wyrok|https://www.saos.org.pl/judgments/399290
-376084|2018-03-22|SO|VII U 773/17|Wyrok|https://www.saos.org.pl/judgments/376084
-259888|2016-11-14|SO|IV Pa 142/16|Wyrok|https://www.saos.org.pl/judgments/259888
-246554|2016-08-18|SO|IV P 741/15|Wyrok|https://www.saos.org.pl/judgments/246554
-195495|2015-12-09|SO|VI U 545/15|Wyrok|https://www.saos.org.pl/judgments/195495
-180403|2015-09-10|SO|I ACa 6/15|Wyrok|https://www.saos.org.pl/judgments/180403
-152472|2015-04-14|SO|VI ACa 821/14|Wyrok|https://www.saos.org.pl/judgments/152472
-157175|2015-03-12|SO|V U 6176/14|Wyrok|https://www.saos.org.pl/judgments/157175
-167804|2015-01-16|SN|III CSK 96/14|Wyrok|https://www.saos.org.pl/judgments/167804
-223658|2014-11-19|SO|V Ca 294/14|Wyrok|https://www.saos.org.pl/judgments/223658
-242719|2014-03-27|SO|XVII AmA 58/12|Wyrok|https://www.saos.org.pl/judgments/242719
-41906|2014-03-27|SO|IX Ka 1163/13|Wyrok|https://www.saos.org.pl/judgments/41906
-210658|2013-11-06|SO|XVII AmA 41/12|Uzasadnienie|https://www.saos.org.pl/judgments/210658
-262648|2013-10-29|SO|XVII AmA 41/12|Wyrok|https://www.saos.org.pl/judgments/262648
-111818|2013-04-09|TK|Ts 105/12|Postanowienie|https://www.saos.org.pl/judgments/111818
-10156|2013-04-04|SO|IV P 796/12|Wyrok|https://www.saos.org.pl/judgments/10156
-10822|2013-04-03|SO|I ACa 206/13|Wyrok|https://www.saos.org.pl/judgments/10822
-145327|2012-11-22|SO|II C 159/12|Wyrok|https://www.saos.org.pl/judgments/145327
-3059|2012-09-06|SO|VI ACa 442/12|Wyrok|https://www.saos.org.pl/judgments/3059
-106404|2003-03-07|TK|Ts 4/03|Postanowienie|https://www.saos.org.pl/judgments/106404
+saos_id|date|court|case_number|type|score|saos_url
+111818|2013-04-09|TK|Ts 105/12|Postanowienie|80|https://www.saos.org.pl/judgments/111818
+106404|2003-03-07|TK|Ts 4/03|Postanowienie|80|https://www.saos.org.pl/judgments/106404
+167804|2015-01-16|SN|III CSK 96/14|Wyrok|78|https://www.saos.org.pl/judgments/167804
+480274|2022-05-23|SO|I ACa 626/21|Wyrok|56|https://www.saos.org.pl/judgments/480274
+464634|2021-03-11|SO|I ACa 125/20|Wyrok|56|https://www.saos.org.pl/judgments/464634
+370772|2018-11-27|SO|I ACa 99/18|Wyrok|56|https://www.saos.org.pl/judgments/370772
+180403|2015-09-10|SO|I ACa 6/15|Wyrok|56|https://www.saos.org.pl/judgments/180403
+152472|2015-04-14|SO|VI ACa 821/14|Wyrok|56|https://www.saos.org.pl/judgments/152472
+10822|2013-04-03|SO|I ACa 206/13|Wyrok|56|https://www.saos.org.pl/judgments/10822
+3059|2012-09-06|SO|VI ACa 442/12|Wyrok|56|https://www.saos.org.pl/judgments/3059
+474150|2022-06-20|SO|VII U 1686/21|Wyrok|40|https://www.saos.org.pl/judgments/474150
+376084|2018-03-22|SO|VII U 773/17|Wyrok|40|https://www.saos.org.pl/judgments/376084

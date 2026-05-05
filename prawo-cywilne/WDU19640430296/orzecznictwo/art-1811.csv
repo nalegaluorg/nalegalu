@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-228425|2016-06-06|SO|VIII GC 493/14|Uzasadnienie|https://www.saos.org.pl/judgments/228425
+saos_id|date|court|case_number|type|score|saos_url
+521734|2024-05-09|SO|I AGa 192/22|Wyrok|56|https://www.saos.org.pl/judgments/521734
+504987|2023-03-30|SO|III AUa 433/22|Wyrok|56|https://www.saos.org.pl/judgments/504987

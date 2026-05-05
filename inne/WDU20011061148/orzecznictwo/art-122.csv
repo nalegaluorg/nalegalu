@@ -1,20 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-485700|2023-03-02|SO|II K 640/19|Wyrok|https://www.saos.org.pl/judgments/485700
-454296|2021-12-09|SO|II Ka 660/21|Wyrok|https://www.saos.org.pl/judgments/454296
-441572|2021-03-26|SO|II K 279/18|Wyrok|https://www.saos.org.pl/judgments/441572
-359584|2018-05-02|SO|III K 139/17|Zarządzenie|https://www.saos.org.pl/judgments/359584
-359583|2018-04-13|SO|III K 139/17|Wyrok|https://www.saos.org.pl/judgments/359583
-308523|2017-07-13|SO|II AKa 156/17|Wyrok|https://www.saos.org.pl/judgments/308523
-217476|2016-02-19|SO|IV K 729/14|Wyrok|https://www.saos.org.pl/judgments/217476
-252342|2016-02-18|SO|II AKa 237/15|Wyrok|https://www.saos.org.pl/judgments/252342
-203543|2016-02-17|SO|VII Kz 62/16|Postanowienie|https://www.saos.org.pl/judgments/203543
-247008|2016-02-05|SO|III K 26/13|Wyrok|https://www.saos.org.pl/judgments/247008
-204861|2015-12-11|SO|VI Ka 733/15|Wyrok|https://www.saos.org.pl/judgments/204861
-183632|2015-10-26|SO|II K 18/14|Wyrok|https://www.saos.org.pl/judgments/183632
-194415|2015-05-20|SO|II Ka 128/15|Wyrok|https://www.saos.org.pl/judgments/194415
-133725|2015-01-27|SO|VI Ka 863/14|Wyrok|https://www.saos.org.pl/judgments/133725
-153823|2014-12-04|SO|IX Ka 487/14|Wyrok|https://www.saos.org.pl/judgments/153823
-51786|2014-05-30|SO|VI Ka 192/14|Wyrok|https://www.saos.org.pl/judgments/51786
-37768|2014-01-29|SO|IV Ka 879/13|Wyrok|https://www.saos.org.pl/judgments/37768
-28181|2013-12-05|SO|IV Ka 1026/13|Wyrok|https://www.saos.org.pl/judgments/28181
-33770|2013-11-21|SO|VI Ka 422/13|Wyrok|https://www.saos.org.pl/judgments/33770
+saos_id|date|court|case_number|type|score|saos_url
+308523|2017-07-13|SO|II AKa 156/17|Wyrok|56|https://www.saos.org.pl/judgments/308523
+252342|2016-02-18|SO|II AKa 237/15|Wyrok|56|https://www.saos.org.pl/judgments/252342
+183632|2015-10-26|SO|II K 18/14|Wyrok|40|https://www.saos.org.pl/judgments/183632
+37768|2014-01-29|SO|IV Ka 879/13|Wyrok|40|https://www.saos.org.pl/judgments/37768
+28181|2013-12-05|SO|IV Ka 1026/13|Wyrok|40|https://www.saos.org.pl/judgments/28181
+33770|2013-11-21|SO|VI Ka 422/13|Wyrok|40|https://www.saos.org.pl/judgments/33770

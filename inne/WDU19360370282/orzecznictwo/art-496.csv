@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-440150|2020-06-24|SO|V AGa 37/20|Wyrok|https://www.saos.org.pl/judgments/440150
-356046|2018-02-22|SO|I ACa 871/17|Wyrok|https://www.saos.org.pl/judgments/356046
+saos_id|date|court|case_number|type|score|saos_url
+440150|2020-06-24|SO|V AGa 37/20|Wyrok|56|https://www.saos.org.pl/judgments/440150
+356046|2018-02-22|SO|I ACa 871/17|Wyrok|56|https://www.saos.org.pl/judgments/356046

@@ -1,14 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-503865|2024-07-18|SO|II Ka 245/24|Wyrok|https://www.saos.org.pl/judgments/503865
-410713|2020-02-11|SO|IV Ka 931/19|Wyrok|https://www.saos.org.pl/judgments/410713
-326289|2018-01-18|SO|V ACa 874/16|Wyrok|https://www.saos.org.pl/judgments/326289
-322616|2017-12-21|SO|V ACa 124/17|Wyrok|https://www.saos.org.pl/judgments/322616
-497386|2016-12-01|SO|I C 294/13|Wyrok|https://www.saos.org.pl/judgments/497386
-362337|2016-09-14|SO|XII C 242/15|Wyrok|https://www.saos.org.pl/judgments/362337
-203928|2015-12-09|SO|II AKa 358/15|Wyrok|https://www.saos.org.pl/judgments/203928
-170111|2015-06-11|SO|II AKa 137/15|Wyrok|https://www.saos.org.pl/judgments/170111
-206475|2014-11-25|TK|K 54/13|Wyrok|https://www.saos.org.pl/judgments/206475
-18704|2011-04-18|SO|IX C 90/11|Wyrok|https://www.saos.org.pl/judgments/18704
-108964|2009-07-02|TK|K 1/07|Wyrok|https://www.saos.org.pl/judgments/108964
-108530|2008-07-22|TK|K 24/07|Wyrok|https://www.saos.org.pl/judgments/108530
-108632|2008-06-10|TK|SK 17/07|Wyrok|https://www.saos.org.pl/judgments/108632
+saos_id|date|court|case_number|type|score|saos_url
+206475|2014-11-25|TK|K 54/13|Wyrok|98|https://www.saos.org.pl/judgments/206475
+108964|2009-07-02|TK|K 1/07|Wyrok|98|https://www.saos.org.pl/judgments/108964
+108530|2008-07-22|TK|K 24/07|Wyrok|98|https://www.saos.org.pl/judgments/108530
+108632|2008-06-10|TK|SK 17/07|Wyrok|98|https://www.saos.org.pl/judgments/108632
+326289|2018-01-18|SO|V ACa 874/16|Wyrok|56|https://www.saos.org.pl/judgments/326289
+322616|2017-12-21|SO|V ACa 124/17|Wyrok|56|https://www.saos.org.pl/judgments/322616
+203928|2015-12-09|SO|II AKa 358/15|Wyrok|56|https://www.saos.org.pl/judgments/203928
+170111|2015-06-11|SO|II AKa 137/15|Wyrok|56|https://www.saos.org.pl/judgments/170111

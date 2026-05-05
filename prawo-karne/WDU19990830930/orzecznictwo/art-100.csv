@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-367547|2018-11-29|SO|VII Ka 864/18|Wyrok|https://www.saos.org.pl/judgments/367547
-355360|2018-08-23|SO|V Ka 272/18|Wyrok|https://www.saos.org.pl/judgments/355360
-400718|2018-06-27|SO|II Ka 224/18|Wyrok|https://www.saos.org.pl/judgments/400718
-346975|2018-06-06|SO|VII Kz 223/18|Postanowienie|https://www.saos.org.pl/judgments/346975
-340486|2018-03-15|SO|IV K 593/16|Wyrok|https://www.saos.org.pl/judgments/340486
-400515|2017-12-06|SO|II Ka 366/17|Wyrok|https://www.saos.org.pl/judgments/400515
-400514|2017-12-06|SO|II Ka 365/17|Wyrok|https://www.saos.org.pl/judgments/400514
-319091|2017-11-27|SO|II K 285/16|Uzasadnienie|https://www.saos.org.pl/judgments/319091
-314476|2017-10-11|SO|II K 436/17|Uzasadnienie|https://www.saos.org.pl/judgments/314476
-310623|2017-10-09|SO|II K 507/15|Uzasadnienie|https://www.saos.org.pl/judgments/310623
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-70224|2014-10-23|SO|III K 299/14|Uzasadnienie|https://www.saos.org.pl/judgments/70224
-56587|2014-05-13|SO|VI Ka 639/13|Wyrok|https://www.saos.org.pl/judgments/56587
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
+saos_id|date|court|case_number|type|score|saos_url
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+367547|2018-11-29|SO|VII Ka 864/18|Wyrok|40|https://www.saos.org.pl/judgments/367547
+340486|2018-03-15|SO|IV K 593/16|Wyrok|40|https://www.saos.org.pl/judgments/340486
+346975|2018-06-06|SO|VII Kz 223/18|Postanowienie|31|https://www.saos.org.pl/judgments/346975
+319091|2017-11-27|SO|II K 285/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/319091
+314476|2017-10-11|SO|II K 436/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/314476
+310623|2017-10-09|SO|II K 507/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/310623
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902
+70224|2014-10-23|SO|III K 299/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/70224

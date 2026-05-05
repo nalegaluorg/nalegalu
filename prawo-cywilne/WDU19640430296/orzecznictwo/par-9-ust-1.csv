@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-387495|2019-04-18|SO|V Pa 10/19|Wyrok|https://www.saos.org.pl/judgments/387495
-381881|2019-03-11|SO|VIII Pa 201/18|Uzasadnienie|https://www.saos.org.pl/judgments/381881
-343976|2018-05-14|SO|VIII Pa 20/18|Uzasadnienie|https://www.saos.org.pl/judgments/343976
-490628|2018-05-08|SO|VI Pa 24/18|Wyrok|https://www.saos.org.pl/judgments/490628
-316834|2017-09-29|SO|VI P 580/16|Wyrok|https://www.saos.org.pl/judgments/316834
-285620|2017-03-24|SO|III Pa 9/17|Wyrok|https://www.saos.org.pl/judgments/285620
-327053|2017-02-15|SO|VII Pa 169/16|Wyrok|https://www.saos.org.pl/judgments/327053
-274543|2016-10-28|SO|IV Pa 37/16|Wyrok|https://www.saos.org.pl/judgments/274543
+saos_id|date|court|case_number|type|score|saos_url
+387495|2019-04-18|SO|V Pa 10/19|Wyrok|40|https://www.saos.org.pl/judgments/387495
+327053|2017-02-15|SO|VII Pa 169/16|Wyrok|40|https://www.saos.org.pl/judgments/327053
+274543|2016-10-28|SO|IV Pa 37/16|Wyrok|40|https://www.saos.org.pl/judgments/274543
+381881|2019-03-11|SO|VIII Pa 201/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/381881
+343976|2018-05-14|SO|VIII Pa 20/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/343976

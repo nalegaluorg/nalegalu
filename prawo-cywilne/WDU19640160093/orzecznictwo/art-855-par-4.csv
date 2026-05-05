@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-480811|2022-01-27|SO|I C 428/21|Wyrok|https://www.saos.org.pl/judgments/480811
-412317|2020-02-05|SO|VII AGa 287/19|Wyrok|https://www.saos.org.pl/judgments/412317
-419325|2018-09-11|SO|I AGa 139/18|Wyrok|https://www.saos.org.pl/judgments/419325
-236865|2016-06-10|SO|I Ca 678/15|Wyrok|https://www.saos.org.pl/judgments/236865
-186867|2015-11-17|SO|IX Ca 575/15|Wyrok|https://www.saos.org.pl/judgments/186867
-57966|2014-07-24|SO|IX Ca 276/14|Wyrok|https://www.saos.org.pl/judgments/57966
-111640|2013-05-22|TK|P 46/11|Wyrok|https://www.saos.org.pl/judgments/111640
-7222|2012-11-14|SO|VI ACa 803/12|Wyrok|https://www.saos.org.pl/judgments/7222
-9288|2012-06-20|SO|I ACa 1147/11|Wyrok|https://www.saos.org.pl/judgments/9288
+saos_id|date|court|case_number|type|score|saos_url
+111640|2013-05-22|TK|P 46/11|Wyrok|98|https://www.saos.org.pl/judgments/111640
+412317|2020-02-05|SO|VII AGa 287/19|Wyrok|56|https://www.saos.org.pl/judgments/412317
+419325|2018-09-11|SO|I AGa 139/18|Wyrok|56|https://www.saos.org.pl/judgments/419325
+7222|2012-11-14|SO|VI ACa 803/12|Wyrok|56|https://www.saos.org.pl/judgments/7222
+9288|2012-06-20|SO|I ACa 1147/11|Wyrok|56|https://www.saos.org.pl/judgments/9288
+480811|2022-01-27|SO|I C 428/21|Wyrok|40|https://www.saos.org.pl/judgments/480811

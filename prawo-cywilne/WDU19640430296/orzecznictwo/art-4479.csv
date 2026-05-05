@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-249984|2016-09-02|SO|IX U 138/15|Zarządzenie|https://www.saos.org.pl/judgments/249984
-186679|2015-11-06|SO|IV U 219/14|Wyrok|https://www.saos.org.pl/judgments/186679
-65432|2014-10-21|SO|VII Ua 108/14|Uzasadnienie|https://www.saos.org.pl/judgments/65432
-15583|2013-05-28|SO|III AUz 124/13|Postanowienie|https://www.saos.org.pl/judgments/15583
-2592|2012-11-29|SO|III AUz 98/12|Postanowienie|https://www.saos.org.pl/judgments/2592
-79012|1999-05-06|SN|II UKN 616/98|Wyrok|https://www.saos.org.pl/judgments/79012
+saos_id|date|court|case_number|type|score|saos_url
+79012|1999-05-06|SN|II UKN 616/98|Wyrok|78|https://www.saos.org.pl/judgments/79012
+15583|2013-05-28|SO|III AUz 124/13|Postanowienie|47|https://www.saos.org.pl/judgments/15583
+2592|2012-11-29|SO|III AUz 98/12|Postanowienie|47|https://www.saos.org.pl/judgments/2592
+65432|2014-10-21|SO|VII Ua 108/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/65432

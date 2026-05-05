@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-432254|2021-02-16|SO|VIII Ua 122/20|Uzasadnienie|https://www.saos.org.pl/judgments/432254
-435623|2021-01-18|SO|VI U 187/20|Wyrok|https://www.saos.org.pl/judgments/435623
-178280|2015-07-07|SO|III AUa 887/14|Wyrok|https://www.saos.org.pl/judgments/178280
-58519|2013-12-19|SO|IV P 883/13|Wyrok|https://www.saos.org.pl/judgments/58519
+saos_id|date|court|case_number|type|score|saos_url
+178280|2015-07-07|SO|III AUa 887/14|Wyrok|56|https://www.saos.org.pl/judgments/178280
+435623|2021-01-18|SO|VI U 187/20|Wyrok|40|https://www.saos.org.pl/judgments/435623
+432254|2021-02-16|SO|VIII Ua 122/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/432254

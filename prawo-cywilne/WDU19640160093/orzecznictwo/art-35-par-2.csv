@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-518652|2024-06-07|SO|I C 326/22|Wyrok|https://www.saos.org.pl/judgments/518652
-50135|2014-06-03|SO|I ACa 124/14|Wyrok|https://www.saos.org.pl/judgments/50135
-163146|2005-04-15|SN|I CK 716/04|Wyrok|https://www.saos.org.pl/judgments/163146
+saos_id|date|court|case_number|type|score|saos_url
+163146|2005-04-15|SN|I CK 716/04|Wyrok|78|https://www.saos.org.pl/judgments/163146
+50135|2014-06-03|SO|I ACa 124/14|Wyrok|56|https://www.saos.org.pl/judgments/50135

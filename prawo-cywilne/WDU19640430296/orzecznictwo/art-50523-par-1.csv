@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-257264|2016-09-21|SO|II C 447/15|Wyrok|https://www.saos.org.pl/judgments/257264
-185126|2015-07-09|SO|III Ca 451/15|Uzasadnienie|https://www.saos.org.pl/judgments/185126
+saos_id|date|court|case_number|type|score|saos_url
+185126|2015-07-09|SO|III Ca 451/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185126

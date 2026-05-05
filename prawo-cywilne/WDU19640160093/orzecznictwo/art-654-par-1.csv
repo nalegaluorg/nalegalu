@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-461561|2022-01-31|SO|VIII GC 1396/21|Wyrok|https://www.saos.org.pl/judgments/461561
-195683|2015-11-19|SO|VI Ga 293/15|Wyrok|https://www.saos.org.pl/judgments/195683
-164583|2006-10-18|SN|II CSK 121/06|Wyrok|https://www.saos.org.pl/judgments/164583
+saos_id|date|court|case_number|type|score|saos_url
+164583|2006-10-18|SN|II CSK 121/06|Wyrok|78|https://www.saos.org.pl/judgments/164583
+195683|2015-11-19|SO|VI Ga 293/15|Wyrok|40|https://www.saos.org.pl/judgments/195683

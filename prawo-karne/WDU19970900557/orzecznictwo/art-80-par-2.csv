@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-468598|2022-04-19|SO|IV Ka 111/22|Uzasadnienie|https://www.saos.org.pl/judgments/468598
-221888|2016-03-30|SO|II AKa 69/16|Wyrok|https://www.saos.org.pl/judgments/221888
-199732|2015-11-05|SO|III Kow 1617/15|Postanowienie|https://www.saos.org.pl/judgments/199732
-167594|2014-12-04|SN|III KO 46/14|Postanowienie|https://www.saos.org.pl/judgments/167594
-67924|2014-09-08|SO|III Ko 105/14|Wyrok|https://www.saos.org.pl/judgments/67924
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|https://www.saos.org.pl/judgments/145205
-160066|2014-02-19|TK|Ts 201/13|Postanowienie|https://www.saos.org.pl/judgments/160066
-160550|2013-11-12|TK|Ts 201/13|Postanowienie|https://www.saos.org.pl/judgments/160550
-63807|2013-09-13|SO|I ACa 751/13|Wyrok|https://www.saos.org.pl/judgments/63807
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-88990|2008-10-30|SN|I KZP 17/08|Uchwała|https://www.saos.org.pl/judgments/88990
-86948|2007-12-20|SN|I KZP 34/07|Postanowienie|https://www.saos.org.pl/judgments/86948
-84583|2006-09-28|SN|I KZP 16/06|Postanowienie|https://www.saos.org.pl/judgments/84583
+saos_id|date|court|case_number|type|score|saos_url
+88990|2008-10-30|SN|I KZP 17/08|Uchwała|96|https://www.saos.org.pl/judgments/88990
+160066|2014-02-19|TK|Ts 201/13|Postanowienie|80|https://www.saos.org.pl/judgments/160066
+160550|2013-11-12|TK|Ts 201/13|Postanowienie|80|https://www.saos.org.pl/judgments/160550
+167594|2014-12-04|SN|III KO 46/14|Postanowienie|69|https://www.saos.org.pl/judgments/167594
+86948|2007-12-20|SN|I KZP 34/07|Postanowienie|69|https://www.saos.org.pl/judgments/86948
+84583|2006-09-28|SN|I KZP 16/06|Postanowienie|69|https://www.saos.org.pl/judgments/84583
+221888|2016-03-30|SO|II AKa 69/16|Wyrok|56|https://www.saos.org.pl/judgments/221888
+63807|2013-09-13|SO|I ACa 751/13|Wyrok|56|https://www.saos.org.pl/judgments/63807
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|47|https://www.saos.org.pl/judgments/145205
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113

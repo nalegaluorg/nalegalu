@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-393893|2019-07-19|SO|VIII Pa 173/18|Uzasadnienie|https://www.saos.org.pl/judgments/393893
-384453|2019-03-08|SO|VIII Pa 122/18|Uzasadnienie|https://www.saos.org.pl/judgments/384453
-372070|2018-12-28|SO|V Pa 68/17|Wyrok|https://www.saos.org.pl/judgments/372070
+saos_id|date|court|case_number|type|score|saos_url
+393893|2019-07-19|SO|VIII Pa 173/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/393893
+384453|2019-03-08|SO|VIII Pa 122/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/384453

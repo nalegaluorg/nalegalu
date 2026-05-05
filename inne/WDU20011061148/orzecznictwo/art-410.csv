@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516060|2024-10-04|SO|IV Ka 471/24|Uzasadnienie|https://www.saos.org.pl/judgments/516060
-400219|2019-08-30|SO|II Ka 312/19|Wyrok|https://www.saos.org.pl/judgments/400219
-159138|2015-06-01|SO|XVII Ka 369/15|Wyrok|https://www.saos.org.pl/judgments/159138
+saos_id|date|court|case_number|type|score|saos_url
+159138|2015-06-01|SO|XVII Ka 369/15|Wyrok|40|https://www.saos.org.pl/judgments/159138

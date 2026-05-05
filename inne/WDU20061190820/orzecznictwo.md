@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 27 czerwca 200
 
 ## art. 19 (1)
 
-- 2008-04-18 | SN | [II CSK 651/07](https://www.saos.org.pl/judgments/87884) | Wyrok
+- 2008-04-18 | SN | [II CSK 651/07](https://www.saos.org.pl/judgments/87884) | Wyrok ★
 

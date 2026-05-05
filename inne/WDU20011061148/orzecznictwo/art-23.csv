@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-348964|2018-06-26|SO|VI Ka 401/18|Wyrok|https://www.saos.org.pl/judgments/348964
-301019|2017-05-12|SO|VIII W 1430/16|Uzasadnienie|https://www.saos.org.pl/judgments/301019
-167319|2014-11-14|SN|III KZ 86/14|Postanowienie|https://www.saos.org.pl/judgments/167319
-166041|2014-06-10|SN|III KZ 27/14|Postanowienie|https://www.saos.org.pl/judgments/166041
-206456|2014-06-03|TK|K 19/11|Wyrok|https://www.saos.org.pl/judgments/206456
+saos_id|date|court|case_number|type|score|saos_url
+206456|2014-06-03|TK|K 19/11|Wyrok|98|https://www.saos.org.pl/judgments/206456
+167319|2014-11-14|SN|III KZ 86/14|Postanowienie|69|https://www.saos.org.pl/judgments/167319
+166041|2014-06-10|SN|III KZ 27/14|Postanowienie|69|https://www.saos.org.pl/judgments/166041
+301019|2017-05-12|SO|VIII W 1430/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/301019

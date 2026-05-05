@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-245530|2015-05-28|SN|III CZ 20/15|Postanowienie|https://www.saos.org.pl/judgments/245530
-165544|2013-10-11|SN|I CSK 769/12|Wyrok|https://www.saos.org.pl/judgments/165544
-95688|2011-09-08|SN|III CZP 41/11|Uchwała|https://www.saos.org.pl/judgments/95688
-93990|2011-01-28|SN|I CSK 231/10|Wyrok|https://www.saos.org.pl/judgments/93990
+saos_id|date|court|case_number|type|score|saos_url
+95688|2011-09-08|SN|III CZP 41/11|Uchwała|89|https://www.saos.org.pl/judgments/95688
+165544|2013-10-11|SN|I CSK 769/12|Wyrok|78|https://www.saos.org.pl/judgments/165544
+93990|2011-01-28|SN|I CSK 231/10|Wyrok|78|https://www.saos.org.pl/judgments/93990
+245530|2015-05-28|SN|III CZ 20/15|Postanowienie|69|https://www.saos.org.pl/judgments/245530

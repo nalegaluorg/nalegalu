@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-195790|2015-10-13|SO|I ACa 115/15|Wyrok|https://www.saos.org.pl/judgments/195790
-180402|2015-02-10|SO|I ACa 1894/14|Wyrok|https://www.saos.org.pl/judgments/180402
-394812|2013-11-25|SO|I ACa 955/13|Wyrok|https://www.saos.org.pl/judgments/394812
+saos_id|date|court|case_number|type|score|saos_url
+195790|2015-10-13|SO|I ACa 115/15|Wyrok|56|https://www.saos.org.pl/judgments/195790
+180402|2015-02-10|SO|I ACa 1894/14|Wyrok|56|https://www.saos.org.pl/judgments/180402
+394812|2013-11-25|SO|I ACa 955/13|Wyrok|56|https://www.saos.org.pl/judgments/394812

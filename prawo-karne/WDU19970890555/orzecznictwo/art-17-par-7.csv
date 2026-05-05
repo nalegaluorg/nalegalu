@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-259020|2016-10-25|SO|II Ko 345/16|Uzasadnienie|https://www.saos.org.pl/judgments/259020
-218543|2016-03-02|SO|III AUa 972/15|Wyrok|https://www.saos.org.pl/judgments/218543
-220463|2015-11-26|SO|I ACa 621/15|Wyrok|https://www.saos.org.pl/judgments/220463
-229387|2015-01-27|SO|I C 884/12|Wyrok|https://www.saos.org.pl/judgments/229387
-43084|2014-01-16|SO|I ACa 705/13|Wyrok|https://www.saos.org.pl/judgments/43084
-137761|2012-10-29|SO|II AKa 212/12|Wyrok|https://www.saos.org.pl/judgments/137761
-136446|2012-09-28|SO|II AKa 258/12|Wyrok|https://www.saos.org.pl/judgments/136446
-109715|2010-11-18|TK|P 29/09|Wyrok|https://www.saos.org.pl/judgments/109715
-109842|2010-03-09|TK|Ts 50/09|Postanowienie|https://www.saos.org.pl/judgments/109842
+saos_id|date|court|case_number|type|score|saos_url
+109715|2010-11-18|TK|P 29/09|Wyrok|98|https://www.saos.org.pl/judgments/109715
+109842|2010-03-09|TK|Ts 50/09|Postanowienie|80|https://www.saos.org.pl/judgments/109842
+218543|2016-03-02|SO|III AUa 972/15|Wyrok|56|https://www.saos.org.pl/judgments/218543
+220463|2015-11-26|SO|I ACa 621/15|Wyrok|56|https://www.saos.org.pl/judgments/220463
+43084|2014-01-16|SO|I ACa 705/13|Wyrok|56|https://www.saos.org.pl/judgments/43084
+137761|2012-10-29|SO|II AKa 212/12|Wyrok|56|https://www.saos.org.pl/judgments/137761
+136446|2012-09-28|SO|II AKa 258/12|Wyrok|56|https://www.saos.org.pl/judgments/136446

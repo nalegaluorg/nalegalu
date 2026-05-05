@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78834|1999-02-03|SN|III RN 72/98|Wyrok|https://www.saos.org.pl/judgments/78834
+saos_id|date|court|case_number|type|score|saos_url
+78834|1999-02-03|SN|III RN 72/98|Wyrok|78|https://www.saos.org.pl/judgments/78834

@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-417023|2020-05-14|SO|VI GC 163/17|Wyrok|https://www.saos.org.pl/judgments/417023
-444912|2019-03-19|SO|I ACa 422/18|Wyrok|https://www.saos.org.pl/judgments/444912
-337819|2017-11-28|SO|XVIII C 1241/17|Wyrok|https://www.saos.org.pl/judgments/337819
-207768|2015-11-10|SO|III Cz 632/15|Postanowienie|https://www.saos.org.pl/judgments/207768
-243473|2015-10-08|SN|III CZP 55/15|Uchwała|https://www.saos.org.pl/judgments/243473
-315737|2015-09-10|SO|IX Co 4050/13|Postanowienie|https://www.saos.org.pl/judgments/315737
-191123|2015-04-23|SO|I Co 2759/12|Postanowienie|https://www.saos.org.pl/judgments/191123
-185597|2015-03-31|SO|III Cz 204/15|Postanowienie|https://www.saos.org.pl/judgments/185597
-148292|2015-02-25|SO|I ACa 822/14|Wyrok|https://www.saos.org.pl/judgments/148292
-179473|2015-01-30|SO|II Cz 2137/14|Postanowienie|https://www.saos.org.pl/judgments/179473
-345865|2015-01-12|SO|II Cz 10/14|Postanowienie|https://www.saos.org.pl/judgments/345865
-53192|2014-07-15|SO|XV S 104/14|Postanowienie|https://www.saos.org.pl/judgments/53192
-40807|2014-01-15|SO|VI ACa 447/13|Wyrok|https://www.saos.org.pl/judgments/40807
-61227|2014-01-07|SO|III Cz 1511/13|Postanowienie|https://www.saos.org.pl/judgments/61227
-53072|2014-01-03|SO|II Cz 448/13|Postanowienie|https://www.saos.org.pl/judgments/53072
-16758|2013-07-26|SO|IV Cz 403/13|Postanowienie|https://www.saos.org.pl/judgments/16758
-164380|2006-06-29|SN|IV CSK 196/05|Postanowienie|https://www.saos.org.pl/judgments/164380
+saos_id|date|court|case_number|type|score|saos_url
+243473|2015-10-08|SN|III CZP 55/15|Uchwała|89|https://www.saos.org.pl/judgments/243473
+164380|2006-06-29|SN|IV CSK 196/05|Postanowienie|69|https://www.saos.org.pl/judgments/164380
+444912|2019-03-19|SO|I ACa 422/18|Wyrok|56|https://www.saos.org.pl/judgments/444912
+148292|2015-02-25|SO|I ACa 822/14|Wyrok|56|https://www.saos.org.pl/judgments/148292
+40807|2014-01-15|SO|VI ACa 447/13|Wyrok|56|https://www.saos.org.pl/judgments/40807
+417023|2020-05-14|SO|VI GC 163/17|Wyrok|40|https://www.saos.org.pl/judgments/417023
+337819|2017-11-28|SO|XVIII C 1241/17|Wyrok|40|https://www.saos.org.pl/judgments/337819
+53192|2014-07-15|SO|XV S 104/14|Postanowienie|31|https://www.saos.org.pl/judgments/53192

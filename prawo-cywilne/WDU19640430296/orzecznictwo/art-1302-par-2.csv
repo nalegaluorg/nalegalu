@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-320139|2017-12-29|SO|X GC 873/15|Zarządzenie|https://www.saos.org.pl/judgments/320139
-146477|2013-05-24|SO|I C 1066/12|Wyrok|https://www.saos.org.pl/judgments/146477
+saos_id|date|court|case_number|type|score|saos_url
+320139|2017-12-29|SO|X GC 873/15|Zarządzenie|27|https://www.saos.org.pl/judgments/320139

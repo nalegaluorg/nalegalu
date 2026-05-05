@@ -1,13 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-540035|2025-12-05|SO|IV P 1625/24|Wyrok|https://www.saos.org.pl/judgments/540035
-537838|2025-03-10|SO|IV P 230/24|Wyrok|https://www.saos.org.pl/judgments/537838
-504532|2024-05-17|SO|II W 70/23|Uzasadnienie|https://www.saos.org.pl/judgments/504532
-511823|2023-11-03|SO|VII Pa 159/22|Wyrok|https://www.saos.org.pl/judgments/511823
-470004|2022-04-28|SO|VIII U 647/21|Wyrok|https://www.saos.org.pl/judgments/470004
-379595|2019-04-01|SO|IX P 22/16|Zarządzenie|https://www.saos.org.pl/judgments/379595
-345953|2018-05-17|SO|VI P 72/16|Wyrok|https://www.saos.org.pl/judgments/345953
-252662|2016-09-28|SO|IV P 368/15|Wyrok|https://www.saos.org.pl/judgments/252662
-239752|2016-06-17|SO|VIII Pa 34/16|Wyrok|https://www.saos.org.pl/judgments/239752
-55749|2014-04-08|SO|X P 46/14|Wyrok|https://www.saos.org.pl/judgments/55749
-108961|2008-09-16|TK|U 5/08|Wyrok|https://www.saos.org.pl/judgments/108961
-83010|2004-11-24|SN|I PK 91/04|Wyrok|https://www.saos.org.pl/judgments/83010
+saos_id|date|court|case_number|type|score|saos_url
+108961|2008-09-16|TK|U 5/08|Wyrok|98|https://www.saos.org.pl/judgments/108961
+83010|2004-11-24|SN|I PK 91/04|Wyrok|78|https://www.saos.org.pl/judgments/83010

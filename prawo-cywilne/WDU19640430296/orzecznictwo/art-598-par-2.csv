@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-299993|2016-03-11|SO|VI Gz 60/16|Postanowienie|https://www.saos.org.pl/judgments/299993
-72089|2014-02-05|SO|I ACz 145/14|Postanowienie|https://www.saos.org.pl/judgments/72089
-160162|2014-01-21|TK|SK 5/12|Wyrok|https://www.saos.org.pl/judgments/160162
-93916|2011-01-20|SN|I CSK 185/10|Postanowienie|https://www.saos.org.pl/judgments/93916
+saos_id|date|court|case_number|type|score|saos_url
+160162|2014-01-21|TK|SK 5/12|Wyrok|98|https://www.saos.org.pl/judgments/160162
+93916|2011-01-20|SN|I CSK 185/10|Postanowienie|69|https://www.saos.org.pl/judgments/93916
+72089|2014-02-05|SO|I ACz 145/14|Postanowienie|47|https://www.saos.org.pl/judgments/72089
+299993|2016-03-11|SO|VI Gz 60/16|Postanowienie|31|https://www.saos.org.pl/judgments/299993

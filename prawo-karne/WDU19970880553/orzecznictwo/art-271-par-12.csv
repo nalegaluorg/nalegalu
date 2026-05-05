@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-168590|2015-03-20|SN|II CSK 254/14|Wyrok|https://www.saos.org.pl/judgments/168590
+saos_id|date|court|case_number|type|score|saos_url
+168590|2015-03-20|SN|II CSK 254/14|Wyrok|78|https://www.saos.org.pl/judgments/168590

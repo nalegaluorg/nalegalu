@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-167927|2015-01-22|SN|II KK 323/14|Wyrok|https://www.saos.org.pl/judgments/167927
-166997|2014-10-07|SN|V KK 172/14|Wyrok|https://www.saos.org.pl/judgments/166997
-104407|2014-02-13|SN|II KK 318/13|Postanowienie|https://www.saos.org.pl/judgments/104407
+saos_id|date|court|case_number|type|score|saos_url
+167927|2015-01-22|SN|II KK 323/14|Wyrok|78|https://www.saos.org.pl/judgments/167927
+166997|2014-10-07|SN|V KK 172/14|Wyrok|78|https://www.saos.org.pl/judgments/166997
+104407|2014-02-13|SN|II KK 318/13|Postanowienie|69|https://www.saos.org.pl/judgments/104407

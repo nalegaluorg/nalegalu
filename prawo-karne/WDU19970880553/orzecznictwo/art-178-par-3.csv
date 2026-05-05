@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-544772|2025-06-16|SO|III K 634/24|Uzasadnienie|https://www.saos.org.pl/judgments/544772
-531366|2025-02-10|SO|II K 245/24|Wyrok|https://www.saos.org.pl/judgments/531366
-518269|2024-12-11|SO|II K 16/24|Wyrok|https://www.saos.org.pl/judgments/518269
-243660|2015-10-30|SN|IV KK 282/15|Postanowienie|https://www.saos.org.pl/judgments/243660
-21223|2013-08-07|SO|VII Ka 650/13|Wyrok|https://www.saos.org.pl/judgments/21223
-80920|2001-10-17|SN|IV KKN 165/97|Postanowienie|https://www.saos.org.pl/judgments/80920
+saos_id|date|court|case_number|type|score|saos_url
+243660|2015-10-30|SN|IV KK 282/15|Postanowienie|69|https://www.saos.org.pl/judgments/243660
+80920|2001-10-17|SN|IV KKN 165/97|Postanowienie|69|https://www.saos.org.pl/judgments/80920
+531366|2025-02-10|SO|II K 245/24|Wyrok|40|https://www.saos.org.pl/judgments/531366

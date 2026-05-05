@@ -1,13 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-544055|2026-02-03|SO|VI Ka 778/25|Wyrok|https://www.saos.org.pl/judgments/544055
-409432|2020-02-11|SO|VI Ka 756/19|Wyrok|https://www.saos.org.pl/judgments/409432
-379256|2019-01-08|SO|IV Ka 775/18|Wyrok|https://www.saos.org.pl/judgments/379256
-372956|2018-12-11|SO|IV Ka 330/18|Wyrok|https://www.saos.org.pl/judgments/372956
-214835|2016-03-08|SO|IV Ka 693/15|Uzasadnienie|https://www.saos.org.pl/judgments/214835
-310190|2015-02-03|SO|II AKz 16/15|Postanowienie|https://www.saos.org.pl/judgments/310190
-52447|2014-07-02|SO|II Ka 314/14|Wyrok|https://www.saos.org.pl/judgments/52447
-142144|2013-11-07|SO|II AKa 208/13|Wyrok|https://www.saos.org.pl/judgments/142144
-26236|2013-10-28|SO|IV Ka 891/13|Wyrok|https://www.saos.org.pl/judgments/26236
-21642|2013-06-18|SO|VI Ka 270/13|Wyrok|https://www.saos.org.pl/judgments/21642
-107972|2006-09-11|TK|Ts 209/05|Postanowienie|https://www.saos.org.pl/judgments/107972
-107970|2006-04-03|TK|Ts 209/05|Postanowienie|https://www.saos.org.pl/judgments/107970
+saos_id|date|court|case_number|type|score|saos_url
+107972|2006-09-11|TK|Ts 209/05|Postanowienie|80|https://www.saos.org.pl/judgments/107972
+107970|2006-04-03|TK|Ts 209/05|Postanowienie|80|https://www.saos.org.pl/judgments/107970
+142144|2013-11-07|SO|II AKa 208/13|Wyrok|56|https://www.saos.org.pl/judgments/142144
+310190|2015-02-03|SO|II AKz 16/15|Postanowienie|47|https://www.saos.org.pl/judgments/310190
+52447|2014-07-02|SO|II Ka 314/14|Wyrok|40|https://www.saos.org.pl/judgments/52447

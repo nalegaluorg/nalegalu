@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-83112|2005-01-12|SN|I UK 160/04|Wyrok|https://www.saos.org.pl/judgments/83112
-105864|2001-10-17|TK|SK 14/01|Postanowienie|https://www.saos.org.pl/judgments/105864
-79229|1999-08-26|SN|I PKN 241/99|Wyrok|https://www.saos.org.pl/judgments/79229
-78643|1998-10-29|SN|II UKN 282/98|Wyrok|https://www.saos.org.pl/judgments/78643
+saos_id|date|court|case_number|type|score|saos_url
+105864|2001-10-17|TK|SK 14/01|Postanowienie|80|https://www.saos.org.pl/judgments/105864
+83112|2005-01-12|SN|I UK 160/04|Wyrok|78|https://www.saos.org.pl/judgments/83112
+79229|1999-08-26|SN|I PKN 241/99|Wyrok|78|https://www.saos.org.pl/judgments/79229
+78643|1998-10-29|SN|II UKN 282/98|Wyrok|78|https://www.saos.org.pl/judgments/78643

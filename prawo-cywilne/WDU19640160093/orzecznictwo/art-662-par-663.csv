@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-450073|2020-10-28|SO|VI GC 1266/17|Wyrok|https://www.saos.org.pl/judgments/450073
-405447|2019-12-18|SO|I C 2388/15|Wyrok|https://www.saos.org.pl/judgments/405447
-357312|2018-01-19|SO|I AGa 5/18|Wyrok|https://www.saos.org.pl/judgments/357312
-338118|2017-05-25|SO|I C 1205/15|Wyrok|https://www.saos.org.pl/judgments/338118
+saos_id|date|court|case_number|type|score|saos_url
+357312|2018-01-19|SO|I AGa 5/18|Wyrok|56|https://www.saos.org.pl/judgments/357312

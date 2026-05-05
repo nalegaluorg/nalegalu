@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-534933|2025-08-12|SO|IV P 150/25|Wyrok|https://www.saos.org.pl/judgments/534933
-335487|2018-03-14|SO|VII Pa 25/18|Wyrok|https://www.saos.org.pl/judgments/335487
+saos_id|date|court|case_number|type|score|saos_url
+335487|2018-03-14|SO|VII Pa 25/18|Wyrok|40|https://www.saos.org.pl/judgments/335487

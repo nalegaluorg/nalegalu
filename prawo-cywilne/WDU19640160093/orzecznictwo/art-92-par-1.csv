@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-498616|2023-04-05|SO|I C 550/21|Wyrok|https://www.saos.org.pl/judgments/498616
-509924|2022-10-11|SO|V AGa 391/21|Wyrok|https://www.saos.org.pl/judgments/509924
-530246|2019-12-16|SO|II Ca 74/19|Wyrok|https://www.saos.org.pl/judgments/530246
-447366|2019-01-10|SO|II C 4124/18|Uzasadnienie|https://www.saos.org.pl/judgments/447366
-38744|2013-03-13|SO|I ACa 1164/12|Wyrok|https://www.saos.org.pl/judgments/38744
-14986|2013-01-15|SO|I ACa 1290/12|Wyrok|https://www.saos.org.pl/judgments/14986
+saos_id|date|court|case_number|type|score|saos_url
+509924|2022-10-11|SO|V AGa 391/21|Wyrok|56|https://www.saos.org.pl/judgments/509924
+38744|2013-03-13|SO|I ACa 1164/12|Wyrok|56|https://www.saos.org.pl/judgments/38744
+14986|2013-01-15|SO|I ACa 1290/12|Wyrok|56|https://www.saos.org.pl/judgments/14986

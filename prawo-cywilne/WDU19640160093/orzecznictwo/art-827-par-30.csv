@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495058|2024-04-04|SO|I AGa 334/22|Wyrok|https://www.saos.org.pl/judgments/495058
+saos_id|date|court|case_number|type|score|saos_url
+495058|2024-04-04|SO|I AGa 334/22|Wyrok|56|https://www.saos.org.pl/judgments/495058

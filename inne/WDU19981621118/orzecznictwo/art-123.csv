@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-519131|2024-11-06|SO|VI Pa 65/24|Wyrok|https://www.saos.org.pl/judgments/519131
-508740|2024-02-29|SO|IV P 413/23|Wyrok|https://www.saos.org.pl/judgments/508740
-483786|2022-09-06|SO|III AUa 170/22|Wyrok|https://www.saos.org.pl/judgments/483786
-408959|2020-01-13|SO|VI U 2983/19|Wyrok|https://www.saos.org.pl/judgments/408959
-385965|2019-06-27|SO|III AUa 803/18|Wyrok|https://www.saos.org.pl/judgments/385965
-378623|2019-03-27|SO|III AUa 785/18|Wyrok|https://www.saos.org.pl/judgments/378623
-376095|2018-10-31|SO|VII U 846/18|Wyrok|https://www.saos.org.pl/judgments/376095
-355921|2018-05-14|SO|IV U 756/17|Wyrok|https://www.saos.org.pl/judgments/355921
-348671|2018-03-19|SO|IV U 876/17|Wyrok|https://www.saos.org.pl/judgments/348671
-361124|2018-02-21|SO|XIII U 5739/17|Postanowienie|https://www.saos.org.pl/judgments/361124
-275006|2017-02-13|SO|VIII U 1165/14|Uzasadnienie|https://www.saos.org.pl/judgments/275006
-249950|2016-09-26|SO|IV U 230/16|Wyrok|https://www.saos.org.pl/judgments/249950
-235623|2016-07-15|SO|III U 149/16|Wyrok|https://www.saos.org.pl/judgments/235623
-242006|2016-05-24|SO|III AUa 232/16|Wyrok|https://www.saos.org.pl/judgments/242006
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
-84685|2006-10-27|SN|I UK 129/06|Wyrok|https://www.saos.org.pl/judgments/84685
+saos_id|date|court|case_number|type|score|saos_url
+84685|2006-10-27|SN|I UK 129/06|Wyrok|78|https://www.saos.org.pl/judgments/84685
+483786|2022-09-06|SO|III AUa 170/22|Wyrok|56|https://www.saos.org.pl/judgments/483786
+385965|2019-06-27|SO|III AUa 803/18|Wyrok|56|https://www.saos.org.pl/judgments/385965
+378623|2019-03-27|SO|III AUa 785/18|Wyrok|56|https://www.saos.org.pl/judgments/378623
+242006|2016-05-24|SO|III AUa 232/16|Wyrok|56|https://www.saos.org.pl/judgments/242006
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336
+376095|2018-10-31|SO|VII U 846/18|Wyrok|40|https://www.saos.org.pl/judgments/376095
+275006|2017-02-13|SO|VIII U 1165/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/275006

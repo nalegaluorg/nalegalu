@@ -1,15 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-423534|2020-09-30|SO|VIII Ga 607/19|Uzasadnienie|https://www.saos.org.pl/judgments/423534
-339808|2017-12-28|SO|II AKa 492/17|Wyrok|https://www.saos.org.pl/judgments/339808
-176007|2015-07-17|SO|VIII Ga 121/15|Uzasadnienie|https://www.saos.org.pl/judgments/176007
-131543|2015-02-05|SO|VIII Ga 220/14|Uzasadnienie|https://www.saos.org.pl/judgments/131543
-381481|2014-10-02|SO|XVII AmA 49/12|Wyrok|https://www.saos.org.pl/judgments/381481
-60110|2014-08-29|SO|II Cz 1562/14|Postanowienie|https://www.saos.org.pl/judgments/60110
-59555|2014-08-26|SO|II Cz 1497/14|Postanowienie|https://www.saos.org.pl/judgments/59555
-59554|2014-08-26|SO|II Cz 1496/14|Postanowienie|https://www.saos.org.pl/judgments/59554
-59543|2014-08-20|SO|II Cz 1233/14|Postanowienie|https://www.saos.org.pl/judgments/59543
-58105|2014-07-24|SO|II Cz 1203/14|Postanowienie|https://www.saos.org.pl/judgments/58105
-65869|2014-07-23|SO|XII Ga 183/14|Wyrok|https://www.saos.org.pl/judgments/65869
-73109|2014-06-16|SO|XXVI GC 1037/13|Uzasadnienie|https://www.saos.org.pl/judgments/73109
-334939|2014-06-04|SO|VIII Ga 3/14|Uzasadnienie|https://www.saos.org.pl/judgments/334939
-116273|2010-07-15|KIO|KIO 1356/10|Wyrok|https://www.saos.org.pl/judgments/116273
+saos_id|date|court|case_number|type|score|saos_url
+339808|2017-12-28|SO|II AKa 492/17|Wyrok|56|https://www.saos.org.pl/judgments/339808
+116273|2010-07-15|KIO|KIO 1356/10|Wyrok|44|https://www.saos.org.pl/judgments/116273
+65869|2014-07-23|SO|XII Ga 183/14|Wyrok|40|https://www.saos.org.pl/judgments/65869

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-109171|2009-02-10|TK|Ts 44/07|Postanowienie|https://www.saos.org.pl/judgments/109171
+saos_id|date|court|case_number|type|score|saos_url
+109171|2009-02-10|TK|Ts 44/07|Postanowienie|80|https://www.saos.org.pl/judgments/109171

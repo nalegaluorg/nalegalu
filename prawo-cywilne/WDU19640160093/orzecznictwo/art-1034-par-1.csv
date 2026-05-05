@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-244812|2016-03-11|SN|I CSK 137/15|Wyrok|https://www.saos.org.pl/judgments/244812
-198803|2016-01-14|SO|V P 195/15|Wyrok|https://www.saos.org.pl/judgments/198803
-169055|2015-05-13|SN|III CSK 309/14|Wyrok|https://www.saos.org.pl/judgments/169055
-93235|2010-10-29|SN|I CSK 698/09|Wyrok|https://www.saos.org.pl/judgments/93235
-90258|2009-05-20|SN|I CSK 503/08|Wyrok|https://www.saos.org.pl/judgments/90258
+saos_id|date|court|case_number|type|score|saos_url
+244812|2016-03-11|SN|I CSK 137/15|Wyrok|78|https://www.saos.org.pl/judgments/244812
+169055|2015-05-13|SN|III CSK 309/14|Wyrok|78|https://www.saos.org.pl/judgments/169055
+93235|2010-10-29|SN|I CSK 698/09|Wyrok|78|https://www.saos.org.pl/judgments/93235
+90258|2009-05-20|SN|I CSK 503/08|Wyrok|78|https://www.saos.org.pl/judgments/90258

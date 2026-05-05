@@ -1,20 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-505820|2023-08-10|SO|III Ca 1706/23|Uzasadnienie|https://www.saos.org.pl/judgments/505820
-538731|2023-05-25|SO|V AGo 74/23|Postanowienie|https://www.saos.org.pl/judgments/538731
-440089|2021-05-26|SO|XXIII Ga 1634/20|Wyrok|https://www.saos.org.pl/judgments/440089
-456116|2020-12-09|SO|III Ca 2454/19|Uzasadnienie|https://www.saos.org.pl/judgments/456116
-437765|2020-09-01|SO|III Ca 802/20|Uzasadnienie|https://www.saos.org.pl/judgments/437765
-383417|2019-05-14|SO|XXIII Ga 2372/18|Wyrok|https://www.saos.org.pl/judgments/383417
-395104|2019-03-27|SO|XXV C 910/18|Postanowienie|https://www.saos.org.pl/judgments/395104
-376266|2019-01-15|SO|XXV C 865/17|Postanowienie|https://www.saos.org.pl/judgments/376266
-376248|2018-12-06|SO|XXV C 1138/17|Postanowienie|https://www.saos.org.pl/judgments/376248
-308971|2017-05-31|SO|I ACa 734/16|Postanowienie|https://www.saos.org.pl/judgments/308971
-255952|2016-09-08|SO|I C 286/16|Wyrok|https://www.saos.org.pl/judgments/255952
-233859|2016-07-06|SO|VIII Gz 185/16|Postanowienie|https://www.saos.org.pl/judgments/233859
-231325|2016-06-13|SO|II Cz 482/16|Postanowienie|https://www.saos.org.pl/judgments/231325
-194274|2015-12-17|SO|I C 298/15|Uzasadnienie|https://www.saos.org.pl/judgments/194274
-179452|2015-09-17|SO|II Ca 342/15|Wyrok|https://www.saos.org.pl/judgments/179452
-57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|https://www.saos.org.pl/judgments/57490
-46578|2014-04-17|SO|I ACa 910/13|Wyrok|https://www.saos.org.pl/judgments/46578
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-84044|2006-01-19|SN|IV CZ 144/05|Postanowienie|https://www.saos.org.pl/judgments/84044
+saos_id|date|court|case_number|type|score|saos_url
+84044|2006-01-19|SN|IV CZ 144/05|Postanowienie|69|https://www.saos.org.pl/judgments/84044
+46578|2014-04-17|SO|I ACa 910/13|Wyrok|56|https://www.saos.org.pl/judgments/46578
+538731|2023-05-25|SO|V AGo 74/23|Postanowienie|47|https://www.saos.org.pl/judgments/538731
+308971|2017-05-31|SO|I ACa 734/16|Postanowienie|47|https://www.saos.org.pl/judgments/308971
+505820|2023-08-10|SO|III Ca 1706/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/505820
+456116|2020-12-09|SO|III Ca 2454/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/456116
+437765|2020-09-01|SO|III Ca 802/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/437765
+57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/57490

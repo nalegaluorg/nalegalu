@@ -1,13 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-515856|2024-10-25|SO|V Kzw 339/24|Postanowienie|https://www.saos.org.pl/judgments/515856
-418392|2020-07-22|SO|II K 7/18|Postanowienie|https://www.saos.org.pl/judgments/418392
-204696|2015-12-23|SO|IV K 889/15|Wyrok|https://www.saos.org.pl/judgments/204696
-204695|2015-12-23|SO|IV K 889/15|Uzasadnienie|https://www.saos.org.pl/judgments/204695
-158451|2015-06-18|SO|IV Kow 303/15|Postanowienie|https://www.saos.org.pl/judgments/158451
-57515|2014-08-11|SO|II AKzw 1411/14|Postanowienie|https://www.saos.org.pl/judgments/57515
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-44424|2014-04-18|SO|IV Kzw 436/14|Postanowienie|https://www.saos.org.pl/judgments/44424
-102300|2013-06-25|SN|V KZ 39/13|Postanowienie|https://www.saos.org.pl/judgments/102300
-9051|2013-04-10|SO|II S 8/13|Postanowienie|https://www.saos.org.pl/judgments/9051
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-90145|2009-04-29|SN|SNO 33/09|Wyrok|https://www.saos.org.pl/judgments/90145
+saos_id|date|court|case_number|type|score|saos_url
+90145|2009-04-29|SN|SNO 33/09|Wyrok|78|https://www.saos.org.pl/judgments/90145
+102300|2013-06-25|SN|V KZ 39/13|Postanowienie|69|https://www.saos.org.pl/judgments/102300
+57515|2014-08-11|SO|II AKzw 1411/14|Postanowienie|47|https://www.saos.org.pl/judgments/57515
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+9051|2013-04-10|SO|II S 8/13|Postanowienie|47|https://www.saos.org.pl/judgments/9051
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113

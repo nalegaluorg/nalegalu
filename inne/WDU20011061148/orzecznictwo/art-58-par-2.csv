@@ -1,15 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-356758|2018-09-10|SO|IV Ka 686/18|Wyrok|https://www.saos.org.pl/judgments/356758
-285329|2017-05-10|SO|II W 43/17|Uzasadnienie|https://www.saos.org.pl/judgments/285329
-303702|2016-12-27|SO|II W 1062/16|Wyrok|https://www.saos.org.pl/judgments/303702
-276600|2016-09-13|SO|IX W 590/16|Wyrok|https://www.saos.org.pl/judgments/276600
-210394|2016-03-02|SO|III W 887/15|Uzasadnienie|https://www.saos.org.pl/judgments/210394
-167808|2015-01-15|SN|III KK 301/14|Wyrok|https://www.saos.org.pl/judgments/167808
-126404|2014-12-11|SO|IX Ka 1433/14|Wyrok|https://www.saos.org.pl/judgments/126404
-170540|2014-11-27|SO|VII W 623/14|Wyrok|https://www.saos.org.pl/judgments/170540
-59387|2014-09-01|SO|IV Ka 578/14|Wyrok|https://www.saos.org.pl/judgments/59387
-125065|2014-07-17|SO|II W 821/14|Wyrok|https://www.saos.org.pl/judgments/125065
-47772|2014-04-08|SO|VI W 87/14|Wyrok|https://www.saos.org.pl/judgments/47772
-23344|2013-10-10|SO|VIII Ka 470/13|Wyrok|https://www.saos.org.pl/judgments/23344
-103100|2013-10-08|SN|III KK 229/13|Wyrok|https://www.saos.org.pl/judgments/103100
-9222|2013-02-11|SO|II W 330/12|Wyrok|https://www.saos.org.pl/judgments/9222
+saos_id|date|court|case_number|type|score|saos_url
+167808|2015-01-15|SN|III KK 301/14|Wyrok|78|https://www.saos.org.pl/judgments/167808
+103100|2013-10-08|SN|III KK 229/13|Wyrok|78|https://www.saos.org.pl/judgments/103100

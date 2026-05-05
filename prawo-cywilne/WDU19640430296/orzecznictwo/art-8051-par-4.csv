@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-376296|2018-06-07|SO|I ACa 103/17|Wyrok|https://www.saos.org.pl/judgments/376296
-400835|2017-10-26|SO|I ACa 402/17|Wyrok|https://www.saos.org.pl/judgments/400835
-181508|2015-06-30|SO|I ACa 739/14|Wyrok|https://www.saos.org.pl/judgments/181508
+saos_id|date|court|case_number|type|score|saos_url
+376296|2018-06-07|SO|I ACa 103/17|Wyrok|56|https://www.saos.org.pl/judgments/376296
+400835|2017-10-26|SO|I ACa 402/17|Wyrok|56|https://www.saos.org.pl/judgments/400835
+181508|2015-06-30|SO|I ACa 739/14|Wyrok|56|https://www.saos.org.pl/judgments/181508

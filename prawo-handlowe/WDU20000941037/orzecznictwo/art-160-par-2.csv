@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-431359|2020-09-30|SO|I ACa 849/19|Wyrok|https://www.saos.org.pl/judgments/431359
-417109|2018-12-04|SO|XVIII C 371/17|Wyrok|https://www.saos.org.pl/judgments/417109
-349598|2018-06-06|SO|XVIII C 1872/16|Wyrok|https://www.saos.org.pl/judgments/349598
-311099|2017-10-11|SO|VII Ca 583/17|Wyrok|https://www.saos.org.pl/judgments/311099
-210600|2016-02-11|SO|VIII Gz 166/15|Postanowienie|https://www.saos.org.pl/judgments/210600
-299510|2015-12-18|SO|II Ca 788/15|Wyrok|https://www.saos.org.pl/judgments/299510
-174936|2015-06-25|SO|VI GC 172/15|Wyrok|https://www.saos.org.pl/judgments/174936
-66356|2014-09-23|SO|I C 1765/12|Wyrok|https://www.saos.org.pl/judgments/66356
-52297|2014-04-25|SO|X Ga 68/14|Postanowienie|https://www.saos.org.pl/judgments/52297
-98054|2012-05-09|SN|V CSK 258/11|Wyrok|https://www.saos.org.pl/judgments/98054
+saos_id|date|court|case_number|type|score|saos_url
+98054|2012-05-09|SN|V CSK 258/11|Wyrok|78|https://www.saos.org.pl/judgments/98054
+431359|2020-09-30|SO|I ACa 849/19|Wyrok|56|https://www.saos.org.pl/judgments/431359
+417109|2018-12-04|SO|XVIII C 371/17|Wyrok|40|https://www.saos.org.pl/judgments/417109
+349598|2018-06-06|SO|XVIII C 1872/16|Wyrok|40|https://www.saos.org.pl/judgments/349598
+311099|2017-10-11|SO|VII Ca 583/17|Wyrok|40|https://www.saos.org.pl/judgments/311099
+174936|2015-06-25|SO|VI GC 172/15|Wyrok|40|https://www.saos.org.pl/judgments/174936

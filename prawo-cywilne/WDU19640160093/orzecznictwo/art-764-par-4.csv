@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-437954|2021-03-10|SO|V GC 1501/20|Wyrok|https://www.saos.org.pl/judgments/437954
-85723|2007-04-27|SN|I CSK 37/07|Wyrok|https://www.saos.org.pl/judgments/85723
+saos_id|date|court|case_number|type|score|saos_url
+85723|2007-04-27|SN|I CSK 37/07|Wyrok|78|https://www.saos.org.pl/judgments/85723

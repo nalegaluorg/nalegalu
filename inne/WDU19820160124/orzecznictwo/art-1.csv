@@ -1,17 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-529077|2019-12-23|SO|II Ca 955/19|Zarządzenie|https://www.saos.org.pl/judgments/529077
-414393|2019-11-05|SO|I ACa 269/19|Wyrok|https://www.saos.org.pl/judgments/414393
-310579|2017-09-07|SO|I C 836/15|Wyrok|https://www.saos.org.pl/judgments/310579
-282878|2017-03-16|SO|III AUa 1761/16|Wyrok|https://www.saos.org.pl/judgments/282878
-229206|2016-03-31|SO|VI ACa 253/15|Wyrok|https://www.saos.org.pl/judgments/229206
-12307|2013-05-22|SO|III AUa 1694/12|Wyrok|https://www.saos.org.pl/judgments/12307
-6562|2013-02-05|SO|III AUa 1306/12|Wyrok|https://www.saos.org.pl/judgments/6562
-135970|2012-09-27|SO|II AKa 282/12|Wyrok|https://www.saos.org.pl/judgments/135970
-135871|2012-09-06|SO|II AKa 233/12|Wyrok|https://www.saos.org.pl/judgments/135871
-108878|2008-03-05|TK|Ts 262/07|Postanowienie|https://www.saos.org.pl/judgments/108878
-108879|2008-03-04|TK|Ts 263/07|Postanowienie|https://www.saos.org.pl/judgments/108879
-106745|2004-02-18|TK|P 21/02|Wyrok|https://www.saos.org.pl/judgments/106745
-82397|2003-12-12|SN|III RN 135/03|Wyrok|https://www.saos.org.pl/judgments/82397
-106066|2002-05-20|TK|SK 28/01|Postanowienie|https://www.saos.org.pl/judgments/106066
-80602|2001-05-29|SN|I CKN 1217/98|Wyrok|https://www.saos.org.pl/judgments/80602
-79937|2000-09-21|SN|III CZP 14/00|Uchwała|https://www.saos.org.pl/judgments/79937
+saos_id|date|court|case_number|type|score|saos_url
+106745|2004-02-18|TK|P 21/02|Wyrok|98|https://www.saos.org.pl/judgments/106745
+79937|2000-09-21|SN|III CZP 14/00|Uchwała|96|https://www.saos.org.pl/judgments/79937
+108878|2008-03-05|TK|Ts 262/07|Postanowienie|80|https://www.saos.org.pl/judgments/108878
+108879|2008-03-04|TK|Ts 263/07|Postanowienie|80|https://www.saos.org.pl/judgments/108879
+106066|2002-05-20|TK|SK 28/01|Postanowienie|80|https://www.saos.org.pl/judgments/106066
+82397|2003-12-12|SN|III RN 135/03|Wyrok|78|https://www.saos.org.pl/judgments/82397
+80602|2001-05-29|SN|I CKN 1217/98|Wyrok|78|https://www.saos.org.pl/judgments/80602
+414393|2019-11-05|SO|I ACa 269/19|Wyrok|56|https://www.saos.org.pl/judgments/414393
+282878|2017-03-16|SO|III AUa 1761/16|Wyrok|56|https://www.saos.org.pl/judgments/282878
+229206|2016-03-31|SO|VI ACa 253/15|Wyrok|56|https://www.saos.org.pl/judgments/229206
+12307|2013-05-22|SO|III AUa 1694/12|Wyrok|56|https://www.saos.org.pl/judgments/12307
+6562|2013-02-05|SO|III AUa 1306/12|Wyrok|56|https://www.saos.org.pl/judgments/6562
+135970|2012-09-27|SO|II AKa 282/12|Wyrok|56|https://www.saos.org.pl/judgments/135970
+135871|2012-09-06|SO|II AKa 233/12|Wyrok|56|https://www.saos.org.pl/judgments/135871

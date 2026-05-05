@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-67597|2014-08-29|SO|V ACa 352/14|Wyrok|https://www.saos.org.pl/judgments/67597
-41319|2013-10-09|SO|XII Ga 357/13|Wyrok|https://www.saos.org.pl/judgments/41319
+saos_id|date|court|case_number|type|score|saos_url
+67597|2014-08-29|SO|V ACa 352/14|Wyrok|56|https://www.saos.org.pl/judgments/67597

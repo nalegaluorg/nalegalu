@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-400255|2019-05-27|SO|IX K 1638/18|Wyrok|https://www.saos.org.pl/judgments/400255
-310858|2017-10-19|SO|V Ka 618/17|Uzasadnienie|https://www.saos.org.pl/judgments/310858
-150651|2015-03-20|SO|II AKa 44/15|Wyrok|https://www.saos.org.pl/judgments/150651
-42052|2014-02-26|SO|II K 345/13|Wyrok|https://www.saos.org.pl/judgments/42052
-13339|2013-06-07|SO|II Kz 93/13|Uzasadnienie|https://www.saos.org.pl/judgments/13339
+saos_id|date|court|case_number|type|score|saos_url
+150651|2015-03-20|SO|II AKa 44/15|Wyrok|56|https://www.saos.org.pl/judgments/150651
+42052|2014-02-26|SO|II K 345/13|Wyrok|40|https://www.saos.org.pl/judgments/42052
+310858|2017-10-19|SO|V Ka 618/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/310858

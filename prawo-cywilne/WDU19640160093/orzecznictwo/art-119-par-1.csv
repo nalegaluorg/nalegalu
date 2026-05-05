@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-505513|2023-12-07|SO|III Ca 1151/22|Wyrok|https://www.saos.org.pl/judgments/505513
-507542|2023-08-18|SO|III W 1681/22|Uzasadnienie|https://www.saos.org.pl/judgments/507542
-336094|2017-12-28|SO|I C 394/17|Wyrok|https://www.saos.org.pl/judgments/336094
-284552|2017-03-21|SO|III Ca 1762/16|Uzasadnienie|https://www.saos.org.pl/judgments/284552
-268673|2016-12-09|SO|VIII Ga 255/16|Wyrok|https://www.saos.org.pl/judgments/268673
-227736|2016-05-06|SO|IV Ka 189/16|Uzasadnienie|https://www.saos.org.pl/judgments/227736
-194673|2015-12-21|SO|III Ca 1586/15|Uzasadnienie|https://www.saos.org.pl/judgments/194673
-185736|2015-10-16|SO|III K 673/14|Wyrok|https://www.saos.org.pl/judgments/185736
-157406|2015-05-28|SO|I ACa 117/15|Wyrok|https://www.saos.org.pl/judgments/157406
-157052|2015-01-29|SO|I ACa 771/14|Wyrok|https://www.saos.org.pl/judgments/157052
+saos_id|date|court|case_number|type|score|saos_url
+157406|2015-05-28|SO|I ACa 117/15|Wyrok|56|https://www.saos.org.pl/judgments/157406
+157052|2015-01-29|SO|I ACa 771/14|Wyrok|56|https://www.saos.org.pl/judgments/157052
+284552|2017-03-21|SO|III Ca 1762/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/284552
+194673|2015-12-21|SO|III Ca 1586/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194673

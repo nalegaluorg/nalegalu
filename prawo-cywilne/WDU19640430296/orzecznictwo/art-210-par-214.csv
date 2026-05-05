@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-87107|2008-01-22|SN|I UK 210/07|Wyrok|https://www.saos.org.pl/judgments/87107
+saos_id|date|court|case_number|type|score|saos_url
+87107|2008-01-22|SN|I UK 210/07|Wyrok|78|https://www.saos.org.pl/judgments/87107

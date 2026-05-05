@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-47143|2014-04-02|SO|IV Ka 1244/13|Wyrok|https://www.saos.org.pl/judgments/47143
+saos_id|date|court|case_number|type|score|saos_url
+47143|2014-04-02|SO|IV Ka 1244/13|Wyrok|40|https://www.saos.org.pl/judgments/47143

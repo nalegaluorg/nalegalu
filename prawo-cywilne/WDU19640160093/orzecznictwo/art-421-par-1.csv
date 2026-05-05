@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-512813|2023-10-12|SO|VIII Gz 126/23|Postanowienie|https://www.saos.org.pl/judgments/512813
-489462|2022-11-22|SO|I ACa 957/20|Wyrok|https://www.saos.org.pl/judgments/489462
-462306|2020-12-10|SO|I ACa 710/19|Wyrok|https://www.saos.org.pl/judgments/462306
-433071|2020-03-05|SO|I ACa 18/19|Wyrok|https://www.saos.org.pl/judgments/433071
-371168|2018-09-28|SO|XVIII C 939/17|Wyrok|https://www.saos.org.pl/judgments/371168
-309947|2017-03-23|SO|II Ca 1258/16|Wyrok|https://www.saos.org.pl/judgments/309947
+saos_id|date|court|case_number|type|score|saos_url
+489462|2022-11-22|SO|I ACa 957/20|Wyrok|56|https://www.saos.org.pl/judgments/489462
+462306|2020-12-10|SO|I ACa 710/19|Wyrok|56|https://www.saos.org.pl/judgments/462306
+433071|2020-03-05|SO|I ACa 18/19|Wyrok|56|https://www.saos.org.pl/judgments/433071
+371168|2018-09-28|SO|XVIII C 939/17|Wyrok|40|https://www.saos.org.pl/judgments/371168

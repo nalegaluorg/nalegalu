@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-491203|2023-02-06|SO|I ACa 1175/21|Wyrok|https://www.saos.org.pl/judgments/491203
-345346|2018-05-25|SO|I AGa 86/18|Wyrok|https://www.saos.org.pl/judgments/345346
-339686|2017-12-22|SO|IX GC 138/13|Wyrok|https://www.saos.org.pl/judgments/339686
-317149|2017-10-18|SO|I ACa 813/16|Wyrok|https://www.saos.org.pl/judgments/317149
-314208|2017-07-14|SO|I C 1572/16|Wyrok|https://www.saos.org.pl/judgments/314208
-308323|2017-06-29|SO|I ACa 585/16|Wyrok|https://www.saos.org.pl/judgments/308323
-282291|2017-03-20|SO|III Ca 1753/16|Uzasadnienie|https://www.saos.org.pl/judgments/282291
-272208|2017-01-11|SO|III Ca 1401/16|Uzasadnienie|https://www.saos.org.pl/judgments/272208
+saos_id|date|court|case_number|type|score|saos_url
+491203|2023-02-06|SO|I ACa 1175/21|Wyrok|56|https://www.saos.org.pl/judgments/491203
+345346|2018-05-25|SO|I AGa 86/18|Wyrok|56|https://www.saos.org.pl/judgments/345346
+317149|2017-10-18|SO|I ACa 813/16|Wyrok|56|https://www.saos.org.pl/judgments/317149
+308323|2017-06-29|SO|I ACa 585/16|Wyrok|56|https://www.saos.org.pl/judgments/308323
+339686|2017-12-22|SO|IX GC 138/13|Wyrok|40|https://www.saos.org.pl/judgments/339686
+314208|2017-07-14|SO|I C 1572/16|Wyrok|40|https://www.saos.org.pl/judgments/314208
+282291|2017-03-20|SO|III Ca 1753/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/282291
+272208|2017-01-11|SO|III Ca 1401/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/272208

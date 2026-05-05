@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543175|2025-06-30|SO|II AKa 347/24|Wyrok|https://www.saos.org.pl/judgments/543175
+saos_id|date|court|case_number|type|score|saos_url
+543175|2025-06-30|SO|II AKa 347/24|Wyrok|56|https://www.saos.org.pl/judgments/543175

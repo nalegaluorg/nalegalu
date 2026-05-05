@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-385418|2019-05-14|SO|IV 1Ka 272/18|Wyrok|https://www.saos.org.pl/judgments/385418
-187837|2015-11-20|SO|VI Ka 969/15|Wyrok|https://www.saos.org.pl/judgments/187837
-71907|2014-11-06|SO|IV Kz 167/14|Postanowienie|https://www.saos.org.pl/judgments/71907
-206456|2014-06-03|TK|K 19/11|Wyrok|https://www.saos.org.pl/judgments/206456
+saos_id|date|court|case_number|type|score|saos_url
+206456|2014-06-03|TK|K 19/11|Wyrok|98|https://www.saos.org.pl/judgments/206456
+385418|2019-05-14|SO|IV 1Ka 272/18|Wyrok|40|https://www.saos.org.pl/judgments/385418
+71907|2014-11-06|SO|IV Kz 167/14|Postanowienie|31|https://www.saos.org.pl/judgments/71907

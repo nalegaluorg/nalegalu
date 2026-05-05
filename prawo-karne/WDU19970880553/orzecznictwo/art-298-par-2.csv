@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-338345|2018-03-27|SO|VI Ka 224/18|Wyrok|https://www.saos.org.pl/judgments/338345
-166862|2014-10-01|SN|III KK 103/14|Postanowienie|https://www.saos.org.pl/judgments/166862
+saos_id|date|court|case_number|type|score|saos_url
+166862|2014-10-01|SN|III KK 103/14|Postanowienie|69|https://www.saos.org.pl/judgments/166862

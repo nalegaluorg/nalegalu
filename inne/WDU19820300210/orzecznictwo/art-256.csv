@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-175146|2015-07-23|SO|I ACa 1980/14|Wyrok|https://www.saos.org.pl/judgments/175146
-154353|2015-04-28|SO|VI ACa 942/14|Wyrok|https://www.saos.org.pl/judgments/154353
+saos_id|date|court|case_number|type|score|saos_url
+175146|2015-07-23|SO|I ACa 1980/14|Wyrok|56|https://www.saos.org.pl/judgments/175146
+154353|2015-04-28|SO|VI ACa 942/14|Wyrok|56|https://www.saos.org.pl/judgments/154353

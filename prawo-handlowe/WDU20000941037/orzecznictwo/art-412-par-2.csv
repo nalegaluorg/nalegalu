@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-482435|2022-10-21|SO|I AGa 221/20|Wyrok|https://www.saos.org.pl/judgments/482435
-15884|2013-06-06|SO|I ACa 225/13|Wyrok|https://www.saos.org.pl/judgments/15884
+saos_id|date|court|case_number|type|score|saos_url
+482435|2022-10-21|SO|I AGa 221/20|Wyrok|56|https://www.saos.org.pl/judgments/482435
+15884|2013-06-06|SO|I ACa 225/13|Wyrok|56|https://www.saos.org.pl/judgments/15884

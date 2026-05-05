@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-434884|2021-02-10|SO|V Kz 871/20|Postanowienie|https://www.saos.org.pl/judgments/434884
-425451|2020-09-25|SO|X Ka 508/20|Wyrok|https://www.saos.org.pl/judgments/425451
-387605|2019-03-28|SO|III Ca 1599/18|Uzasadnienie|https://www.saos.org.pl/judgments/387605
-303569|2017-08-28|SO|V Ka 805/17|Uzasadnienie|https://www.saos.org.pl/judgments/303569
-177082|2015-08-26|SO|II Ka 284/15|Wyrok|https://www.saos.org.pl/judgments/177082
-18822|2013-07-25|SO|II Ka 241/13|Wyrok|https://www.saos.org.pl/judgments/18822
+saos_id|date|court|case_number|type|score|saos_url
+177082|2015-08-26|SO|II Ka 284/15|Wyrok|40|https://www.saos.org.pl/judgments/177082
+18822|2013-07-25|SO|II Ka 241/13|Wyrok|40|https://www.saos.org.pl/judgments/18822
+434884|2021-02-10|SO|V Kz 871/20|Postanowienie|31|https://www.saos.org.pl/judgments/434884
+387605|2019-03-28|SO|III Ca 1599/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/387605
+303569|2017-08-28|SO|V Ka 805/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303569

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-321189|2017-05-23|SO|I ACz 745/17|Postanowienie|https://www.saos.org.pl/judgments/321189
-175520|2015-08-11|SO|VI Pz 28/15|Postanowienie|https://www.saos.org.pl/judgments/175520
-158729|2015-06-29|SO|VII Pz 67/15|Uzasadnienie|https://www.saos.org.pl/judgments/158729
-138329|2013-05-09|SO|I ACz 772/13|Postanowienie|https://www.saos.org.pl/judgments/138329
+saos_id|date|court|case_number|type|score|saos_url
+321189|2017-05-23|SO|I ACz 745/17|Postanowienie|47|https://www.saos.org.pl/judgments/321189
+138329|2013-05-09|SO|I ACz 772/13|Postanowienie|47|https://www.saos.org.pl/judgments/138329
+158729|2015-06-29|SO|VII Pz 67/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/158729

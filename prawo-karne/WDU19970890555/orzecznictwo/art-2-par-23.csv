@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-89387|2008-12-16|SN|SNO 91/08|Uchwała|https://www.saos.org.pl/judgments/89387
+saos_id|date|court|case_number|type|score|saos_url
+89387|2008-12-16|SN|SNO 91/08|Uchwała|89|https://www.saos.org.pl/judgments/89387

@@ -1,24 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-415511|2020-05-14|SO|II Kow 552/20|Postanowienie|https://www.saos.org.pl/judgments/415511
-415501|2020-03-12|SO|II Kow 176/20|Postanowienie|https://www.saos.org.pl/judgments/415501
-415523|2020-02-05|SO|II Kow 931/19|Postanowienie|https://www.saos.org.pl/judgments/415523
-415500|2019-12-10|SO|II Kow 1270/19|Postanowienie|https://www.saos.org.pl/judgments/415500
-415516|2019-08-12|SO|II Kow 784/19|Postanowienie|https://www.saos.org.pl/judgments/415516
-415508|2019-06-12|SO|II Kow 352/19|Postanowienie|https://www.saos.org.pl/judgments/415508
-415504|2019-02-21|SO|II Kow 237/19|Postanowienie|https://www.saos.org.pl/judgments/415504
-415326|2019-02-20|SO|II Kow 3/18|Postanowienie|https://www.saos.org.pl/judgments/415326
-416045|2018-11-05|SO|III Kow 1338/18|Postanowienie|https://www.saos.org.pl/judgments/416045
-416044|2018-10-25|SO|III Kow 1288/18|Postanowienie|https://www.saos.org.pl/judgments/416044
-416043|2018-09-13|SO|III Kow 1151/18|Postanowienie|https://www.saos.org.pl/judgments/416043
-416058|2018-08-06|SO|III Kow 972/18|Postanowienie|https://www.saos.org.pl/judgments/416058
-416057|2018-07-30|SO|III Kow 916/18|Postanowienie|https://www.saos.org.pl/judgments/416057
-416056|2018-07-10|SO|III Kow 841/18|Postanowienie|https://www.saos.org.pl/judgments/416056
-416054|2018-06-14|SO|III Kow 667/18|Postanowienie|https://www.saos.org.pl/judgments/416054
-416050|2018-04-12|SO|III Kow 347/18|Postanowienie|https://www.saos.org.pl/judgments/416050
-416049|2018-04-12|SO|III Kow 253/18|Postanowienie|https://www.saos.org.pl/judgments/416049
-416051|2018-04-04|SO|III Kow 49/18|Postanowienie|https://www.saos.org.pl/judgments/416051
-416048|2018-03-26|SO|III Kow 236/18|Postanowienie|https://www.saos.org.pl/judgments/416048
-416046|2018-01-31|SO|III Kow 1354/17|Postanowienie|https://www.saos.org.pl/judgments/416046
-416047|2018-01-18|SO|III Kow 1672/17|Postanowienie|https://www.saos.org.pl/judgments/416047
-416053|2018-01-16|SO|III Kow 59/18|Postanowienie|https://www.saos.org.pl/judgments/416053
-84105|2006-02-24|SN|I KZP 54/05|Uchwała|https://www.saos.org.pl/judgments/84105
+saos_id|date|court|case_number|type|score|saos_url
+84105|2006-02-24|SN|I KZP 54/05|Uchwała|89|https://www.saos.org.pl/judgments/84105

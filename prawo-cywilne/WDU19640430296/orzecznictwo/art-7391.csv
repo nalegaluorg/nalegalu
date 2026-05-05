@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-157817|2015-05-12|SO|I ACz 792/15|Postanowienie|https://www.saos.org.pl/judgments/157817
-63815|2014-09-02|SO|I ACz 1457/14|Postanowienie|https://www.saos.org.pl/judgments/63815
+saos_id|date|court|case_number|type|score|saos_url
+157817|2015-05-12|SO|I ACz 792/15|Postanowienie|47|https://www.saos.org.pl/judgments/157817
+63815|2014-09-02|SO|I ACz 1457/14|Postanowienie|47|https://www.saos.org.pl/judgments/63815

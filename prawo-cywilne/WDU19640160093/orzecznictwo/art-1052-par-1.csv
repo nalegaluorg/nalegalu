@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245601|2015-06-12|SN|II CSK 518/14|Wyrok|https://www.saos.org.pl/judgments/245601
-97710|2012-04-04|SN|I CSK 359/11|Postanowienie|https://www.saos.org.pl/judgments/97710
-97709|2012-04-04|SN|I CSK 359/11|Postanowienie|https://www.saos.org.pl/judgments/97709
+saos_id|date|court|case_number|type|score|saos_url
+245601|2015-06-12|SN|II CSK 518/14|Wyrok|78|https://www.saos.org.pl/judgments/245601
+97710|2012-04-04|SN|I CSK 359/11|Postanowienie|69|https://www.saos.org.pl/judgments/97710
+97709|2012-04-04|SN|I CSK 359/11|Postanowienie|69|https://www.saos.org.pl/judgments/97709

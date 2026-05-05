@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 6 maja 2005 r. o zmianie ustawy o zaopat
 
 ## art. 1 (1)
 
-- 2008-06-04 | SN | [II UZP 4/08](https://www.saos.org.pl/judgments/88175) | Uchwała
+- 2008-06-04 | SN | [II UZP 4/08](https://www.saos.org.pl/judgments/88175) | Uchwała ★
 

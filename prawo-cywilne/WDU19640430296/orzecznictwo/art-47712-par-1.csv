@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-451289|2021-09-24|SO|III AUa 595/21|Uzasadnienie|https://www.saos.org.pl/judgments/451289
-344945|2018-05-28|SO|VIII U 562/17|Zarządzenie|https://www.saos.org.pl/judgments/344945
-318717|2017-11-27|SO|V U 807/17|Wyrok|https://www.saos.org.pl/judgments/318717
-241063|2016-02-29|SO|VIII U 128/15|Uzasadnienie|https://www.saos.org.pl/judgments/241063
-191992|2015-12-09|SO|V U 275/15|Wyrok|https://www.saos.org.pl/judgments/191992
-52508|2014-05-23|SO|III U 1759/13|Wyrok|https://www.saos.org.pl/judgments/52508
-31082|2013-12-18|SO|III U 1662/13|Wyrok|https://www.saos.org.pl/judgments/31082
-262468|2013-11-29|SO|III U 38/13|Wyrok|https://www.saos.org.pl/judgments/262468
-2696|2012-10-25|SO|III AUa 345/12|Wyrok|https://www.saos.org.pl/judgments/2696
+saos_id|date|court|case_number|type|score|saos_url
+2696|2012-10-25|SO|III AUa 345/12|Wyrok|56|https://www.saos.org.pl/judgments/2696
+451289|2021-09-24|SO|III AUa 595/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/451289
+344945|2018-05-28|SO|VIII U 562/17|Zarządzenie|27|https://www.saos.org.pl/judgments/344945

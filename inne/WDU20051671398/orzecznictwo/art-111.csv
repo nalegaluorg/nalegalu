@@ -1,21 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-495403|2023-05-08|SO|I C 1110/20|Wyrok|https://www.saos.org.pl/judgments/495403
-480013|2022-07-14|SO|II Ca 511/20|Postanowienie|https://www.saos.org.pl/judgments/480013
-442155|2020-12-28|SO|III Cz 42/20|Postanowienie|https://www.saos.org.pl/judgments/442155
-442149|2020-09-02|SO|III Cz 29/20|Postanowienie|https://www.saos.org.pl/judgments/442149
-442141|2020-08-03|SO|III Cz 11/20|Postanowienie|https://www.saos.org.pl/judgments/442141
-413392|2020-02-27|SO|I C 1059/18|Wyrok|https://www.saos.org.pl/judgments/413392
-400003|2019-06-17|SO|I Ns 1415/10|Postanowienie|https://www.saos.org.pl/judgments/400003
-383223|2018-07-03|SO|I Ns 7/15|Postanowienie|https://www.saos.org.pl/judgments/383223
-349409|2018-05-28|SO|X GC 111/17|Uzasadnienie|https://www.saos.org.pl/judgments/349409
-339343|2018-04-19|SO|III C 1312/17|Wyrok|https://www.saos.org.pl/judgments/339343
-263015|2016-11-14|SO|I C 1220/11|Wyrok|https://www.saos.org.pl/judgments/263015
-231301|2016-04-01|SO|II Ca 1346/15|Postanowienie|https://www.saos.org.pl/judgments/231301
-182832|2015-11-02|SO|I Ns 2134/14|Uzasadnienie|https://www.saos.org.pl/judgments/182832
-170141|2015-06-30|SO|II Cz 427/15|Postanowienie|https://www.saos.org.pl/judgments/170141
-197156|2015-04-08|SO|I C 1039/12|Wyrok|https://www.saos.org.pl/judgments/197156
-318861|2015-01-27|SO|II C 67/14|Wyrok|https://www.saos.org.pl/judgments/318861
-47709|2014-02-12|SO|I ACa 384/13|Wyrok|https://www.saos.org.pl/judgments/47709
-33269|2014-01-31|SO|XI 1Cz 24/14|Postanowienie|https://www.saos.org.pl/judgments/33269
-21006|2013-09-04|SO|VIII Ca 306/13|Wyrok|https://www.saos.org.pl/judgments/21006
-89602|2009-02-03|SN|I PZP 6/08|Uchwała|https://www.saos.org.pl/judgments/89602
+saos_id|date|court|case_number|type|score|saos_url
+89602|2009-02-03|SN|I PZP 6/08|Uchwała|89|https://www.saos.org.pl/judgments/89602
+47709|2014-02-12|SO|I ACa 384/13|Wyrok|56|https://www.saos.org.pl/judgments/47709
+400003|2019-06-17|SO|I Ns 1415/10|Postanowienie|31|https://www.saos.org.pl/judgments/400003
+33269|2014-01-31|SO|XI 1Cz 24/14|Postanowienie|31|https://www.saos.org.pl/judgments/33269
+349409|2018-05-28|SO|X GC 111/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/349409

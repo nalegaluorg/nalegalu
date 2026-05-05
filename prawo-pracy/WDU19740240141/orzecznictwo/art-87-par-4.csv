@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-265605|2016-12-29|SO|IV P 24/15|Wyrok|https://www.saos.org.pl/judgments/265605
-273264|2016-12-15|SO|VI P 905/12|Wyrok|https://www.saos.org.pl/judgments/273264
-251488|2016-04-14|SO|VIII P 216/15|Uzasadnienie|https://www.saos.org.pl/judgments/251488
-220236|2015-01-23|SO|IV P 110/14|Wyrok|https://www.saos.org.pl/judgments/220236
-103643|2013-11-26|SN|II PK 65/13|Wyrok|https://www.saos.org.pl/judgments/103643
-1984|2012-07-26|SO|III APa 14/12|Wyrok|https://www.saos.org.pl/judgments/1984
-109470|2009-05-26|TK|Ts 273/08|Postanowienie|https://www.saos.org.pl/judgments/109470
-109469|2009-01-06|TK|Ts 273/08|Postanowienie|https://www.saos.org.pl/judgments/109469
-89420|2009-01-06|SN|II PK 117/08|Wyrok|https://www.saos.org.pl/judgments/89420
+saos_id|date|court|case_number|type|score|saos_url
+109470|2009-05-26|TK|Ts 273/08|Postanowienie|80|https://www.saos.org.pl/judgments/109470
+109469|2009-01-06|TK|Ts 273/08|Postanowienie|80|https://www.saos.org.pl/judgments/109469
+103643|2013-11-26|SN|II PK 65/13|Wyrok|78|https://www.saos.org.pl/judgments/103643
+89420|2009-01-06|SN|II PK 117/08|Wyrok|78|https://www.saos.org.pl/judgments/89420
+1984|2012-07-26|SO|III APa 14/12|Wyrok|56|https://www.saos.org.pl/judgments/1984
+273264|2016-12-15|SO|VI P 905/12|Wyrok|40|https://www.saos.org.pl/judgments/273264

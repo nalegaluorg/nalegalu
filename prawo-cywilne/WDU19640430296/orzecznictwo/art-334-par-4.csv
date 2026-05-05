@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-331705|2018-02-06|SO|VII Pa 164/17|Wyrok|https://www.saos.org.pl/judgments/331705
-266581|2016-10-28|SO|VI P 296/15|Wyrok|https://www.saos.org.pl/judgments/266581
-258276|2016-02-15|SO|VI P 590/14|Wyrok|https://www.saos.org.pl/judgments/258276
-244152|2015-12-16|SN|III CZP 77/15|Uchwała|https://www.saos.org.pl/judgments/244152
+saos_id|date|court|case_number|type|score|saos_url
+244152|2015-12-16|SN|III CZP 77/15|Uchwała|96|https://www.saos.org.pl/judgments/244152
+331705|2018-02-06|SO|VII Pa 164/17|Wyrok|40|https://www.saos.org.pl/judgments/331705
+266581|2016-10-28|SO|VI P 296/15|Wyrok|40|https://www.saos.org.pl/judgments/266581
+258276|2016-02-15|SO|VI P 590/14|Wyrok|40|https://www.saos.org.pl/judgments/258276

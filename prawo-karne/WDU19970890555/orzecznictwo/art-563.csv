@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-446798|2020-12-02|SO|VI ACa 203/19|Wyrok|https://www.saos.org.pl/judgments/446798
-419305|2018-08-08|SO|XXV C 43/17|Wyrok|https://www.saos.org.pl/judgments/419305
-291494|2017-06-20|SO|II AKo 59/17|Postanowienie|https://www.saos.org.pl/judgments/291494
-160473|2014-12-02|TK|Ts 354/11|Postanowienie|https://www.saos.org.pl/judgments/160473
-167368|2014-11-12|SN|WO 11/14|Wyrok|https://www.saos.org.pl/judgments/167368
-160312|2013-01-10|TK|Ts 354/11|Postanowienie|https://www.saos.org.pl/judgments/160312
-99539|2012-10-30|SN|WO 13/12|Postanowienie|https://www.saos.org.pl/judgments/99539
-108250|2007-02-21|TK|Ts 47/06|Postanowienie|https://www.saos.org.pl/judgments/108250
-107773|2006-09-12|TK|Ts 47/06|Postanowienie|https://www.saos.org.pl/judgments/107773
+saos_id|date|court|case_number|type|score|saos_url
+160473|2014-12-02|TK|Ts 354/11|Postanowienie|80|https://www.saos.org.pl/judgments/160473
+160312|2013-01-10|TK|Ts 354/11|Postanowienie|80|https://www.saos.org.pl/judgments/160312
+108250|2007-02-21|TK|Ts 47/06|Postanowienie|80|https://www.saos.org.pl/judgments/108250
+107773|2006-09-12|TK|Ts 47/06|Postanowienie|80|https://www.saos.org.pl/judgments/107773
+167368|2014-11-12|SN|WO 11/14|Wyrok|78|https://www.saos.org.pl/judgments/167368
+99539|2012-10-30|SN|WO 13/12|Postanowienie|69|https://www.saos.org.pl/judgments/99539
+446798|2020-12-02|SO|VI ACa 203/19|Wyrok|56|https://www.saos.org.pl/judgments/446798
+291494|2017-06-20|SO|II AKo 59/17|Postanowienie|47|https://www.saos.org.pl/judgments/291494

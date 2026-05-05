@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-399008|2019-05-22|SO|III AUa 2316/18|Wyrok|https://www.saos.org.pl/judgments/399008
-424728|2018-03-21|SO|IV P 11/17|Wyrok|https://www.saos.org.pl/judgments/424728
-111640|2013-05-22|TK|P 46/11|Wyrok|https://www.saos.org.pl/judgments/111640
-97901|2012-04-24|SN|I PK 56/12|Wyrok|https://www.saos.org.pl/judgments/97901
+saos_id|date|court|case_number|type|score|saos_url
+111640|2013-05-22|TK|P 46/11|Wyrok|98|https://www.saos.org.pl/judgments/111640
+97901|2012-04-24|SN|I PK 56/12|Wyrok|78|https://www.saos.org.pl/judgments/97901
+399008|2019-05-22|SO|III AUa 2316/18|Wyrok|56|https://www.saos.org.pl/judgments/399008
+424728|2018-03-21|SO|IV P 11/17|Wyrok|40|https://www.saos.org.pl/judgments/424728

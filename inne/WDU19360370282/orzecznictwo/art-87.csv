@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-530796|2025-01-16|SO|I C 181/24|Uzasadnienie|https://www.saos.org.pl/judgments/530796
-509922|2022-12-09|SO|V AGa 382/21|Wyrok|https://www.saos.org.pl/judgments/509922
-261334|2016-09-30|SO|II C 817/11|Wyrok|https://www.saos.org.pl/judgments/261334
-227048|2016-02-04|SO|I ACa 686/15|Wyrok|https://www.saos.org.pl/judgments/227048
-65003|2014-09-30|SO|I ACa 588/14|Wyrok|https://www.saos.org.pl/judgments/65003
+saos_id|date|court|case_number|type|score|saos_url
+509922|2022-12-09|SO|V AGa 382/21|Wyrok|56|https://www.saos.org.pl/judgments/509922
+227048|2016-02-04|SO|I ACa 686/15|Wyrok|56|https://www.saos.org.pl/judgments/227048
+65003|2014-09-30|SO|I ACa 588/14|Wyrok|56|https://www.saos.org.pl/judgments/65003
+261334|2016-09-30|SO|II C 817/11|Wyrok|40|https://www.saos.org.pl/judgments/261334

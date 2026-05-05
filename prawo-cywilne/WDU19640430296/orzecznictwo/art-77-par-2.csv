@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-495057|2023-12-01|SO|I AGa 33/23|Wyrok|https://www.saos.org.pl/judgments/495057
-417823|2020-02-17|SO|I C 1023/19|Wyrok|https://www.saos.org.pl/judgments/417823
-255011|2016-10-12|SO|VIII Pz 62/16|Postanowienie|https://www.saos.org.pl/judgments/255011
-255010|2016-10-12|SO|VIII Pz 60/16|Postanowienie|https://www.saos.org.pl/judgments/255010
-190436|2015-10-05|SO|I ACz 1658/15|Postanowienie|https://www.saos.org.pl/judgments/190436
-56825|2014-05-20|SO|XV Ca 1811/13|Wyrok|https://www.saos.org.pl/judgments/56825
-48540|2014-04-14|SO|III Ca 1436/13|Uzasadnienie|https://www.saos.org.pl/judgments/48540
-100245|2013-01-11|SN|I CZ 184/12|Postanowienie|https://www.saos.org.pl/judgments/100245
-84998|2007-01-18|SN|I CZ 119/06|Postanowienie|https://www.saos.org.pl/judgments/84998
-82118|2003-07-16|SN|III CZP 47/03|Uchwała|https://www.saos.org.pl/judgments/82118
+saos_id|date|court|case_number|type|score|saos_url
+82118|2003-07-16|SN|III CZP 47/03|Uchwała|89|https://www.saos.org.pl/judgments/82118
+100245|2013-01-11|SN|I CZ 184/12|Postanowienie|69|https://www.saos.org.pl/judgments/100245
+84998|2007-01-18|SN|I CZ 119/06|Postanowienie|69|https://www.saos.org.pl/judgments/84998
+495057|2023-12-01|SO|I AGa 33/23|Wyrok|56|https://www.saos.org.pl/judgments/495057
+190436|2015-10-05|SO|I ACz 1658/15|Postanowienie|47|https://www.saos.org.pl/judgments/190436
+56825|2014-05-20|SO|XV Ca 1811/13|Wyrok|40|https://www.saos.org.pl/judgments/56825
+48540|2014-04-14|SO|III Ca 1436/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/48540

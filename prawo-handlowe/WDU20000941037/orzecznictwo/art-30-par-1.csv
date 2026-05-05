@@ -1,19 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-494930|2023-11-16|SO|I AGa 184/22|Wyrok|https://www.saos.org.pl/judgments/494930
-488556|2022-09-21|SO|X GC 714/22|Zarządzenie|https://www.saos.org.pl/judgments/488556
-422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|https://www.saos.org.pl/judgments/422478
-488553|2019-05-09|SO|X GC 713/18|Zarządzenie|https://www.saos.org.pl/judgments/488553
-381038|2019-03-25|SO|XI GC 1815/17|Wyrok|https://www.saos.org.pl/judgments/381038
-352821|2018-09-07|SO|VI Ka 877/17|Wyrok|https://www.saos.org.pl/judgments/352821
-343078|2018-05-15|SO|IV Ka 260/18|Uzasadnienie|https://www.saos.org.pl/judgments/343078
-376624|2018-04-19|SO|I AGa 117/18|Wyrok|https://www.saos.org.pl/judgments/376624
-346674|2017-12-29|SO|X GC 522/17|Zarządzenie|https://www.saos.org.pl/judgments/346674
-320655|2017-12-05|SO|V ACa 160/17|Wyrok|https://www.saos.org.pl/judgments/320655
-189938|2015-11-24|SO|II Cz 686/15|Postanowienie|https://www.saos.org.pl/judgments/189938
-65511|2014-10-10|SO|I C 4/14|Wyrok|https://www.saos.org.pl/judgments/65511
-68980|2014-09-29|SO|I ACa 372/14|Wyrok|https://www.saos.org.pl/judgments/68980
-40079|2014-02-06|SO|I ACa 965/13|Wyrok|https://www.saos.org.pl/judgments/40079
-14865|2013-05-14|SO|XII Gz 196/13|Postanowienie|https://www.saos.org.pl/judgments/14865
-3849|2009-10-29|SO|I ACa 272/09|Wyrok|https://www.saos.org.pl/judgments/3849
-88151|2008-05-30|SN|III CZP 43/08|Uchwała|https://www.saos.org.pl/judgments/88151
-80621|2001-05-27|SN|III CZP 6/01|Uchwała|https://www.saos.org.pl/judgments/80621
+saos_id|date|court|case_number|type|score|saos_url
+88151|2008-05-30|SN|III CZP 43/08|Uchwała|89|https://www.saos.org.pl/judgments/88151
+80621|2001-05-27|SN|III CZP 6/01|Uchwała|89|https://www.saos.org.pl/judgments/80621
+494930|2023-11-16|SO|I AGa 184/22|Wyrok|56|https://www.saos.org.pl/judgments/494930
+376624|2018-04-19|SO|I AGa 117/18|Wyrok|56|https://www.saos.org.pl/judgments/376624
+320655|2017-12-05|SO|V ACa 160/17|Wyrok|56|https://www.saos.org.pl/judgments/320655
+68980|2014-09-29|SO|I ACa 372/14|Wyrok|56|https://www.saos.org.pl/judgments/68980
+40079|2014-02-06|SO|I ACa 965/13|Wyrok|56|https://www.saos.org.pl/judgments/40079
+3849|2009-10-29|SO|I ACa 272/09|Wyrok|56|https://www.saos.org.pl/judgments/3849
+488556|2022-09-21|SO|X GC 714/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488556
+422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/422478
+488553|2019-05-09|SO|X GC 713/18|Zarządzenie|27|https://www.saos.org.pl/judgments/488553
+346674|2017-12-29|SO|X GC 522/17|Zarządzenie|27|https://www.saos.org.pl/judgments/346674

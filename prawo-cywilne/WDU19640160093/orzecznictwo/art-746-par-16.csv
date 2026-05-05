@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-100873|2013-02-28|SN|III CSK 154/12|Wyrok|https://www.saos.org.pl/judgments/100873
+saos_id|date|court|case_number|type|score|saos_url
+100873|2013-02-28|SN|III CSK 154/12|Wyrok|78|https://www.saos.org.pl/judgments/100873

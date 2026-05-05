@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443010|2020-06-18|SO|I Ns 48/20|Postanowienie|https://www.saos.org.pl/judgments/443010
-392233|2019-04-12|SO|I C 1169/17|Wyrok|https://www.saos.org.pl/judgments/392233
+saos_id|date|court|case_number|type|score|saos_url
+443010|2020-06-18|SO|I Ns 48/20|Postanowienie|31|https://www.saos.org.pl/judgments/443010

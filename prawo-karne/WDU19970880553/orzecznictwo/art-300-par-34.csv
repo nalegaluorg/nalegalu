@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-168492|2015-03-04|SN|III KK 371/14|Wyrok|https://www.saos.org.pl/judgments/168492
+saos_id|date|court|case_number|type|score|saos_url
+168492|2015-03-04|SN|III KK 371/14|Wyrok|78|https://www.saos.org.pl/judgments/168492

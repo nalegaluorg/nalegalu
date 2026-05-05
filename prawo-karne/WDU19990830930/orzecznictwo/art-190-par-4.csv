@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-105509|2000-12-06|TK|SK 24/99|Postanowienie|https://www.saos.org.pl/judgments/105509
+saos_id|date|court|case_number|type|score|saos_url
+105509|2000-12-06|TK|SK 24/99|Postanowienie|80|https://www.saos.org.pl/judgments/105509

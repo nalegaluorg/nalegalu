@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-339224|2017-12-13|SO|II AKa 242/17|Wyrok|https://www.saos.org.pl/judgments/339224
+saos_id|date|court|case_number|type|score|saos_url
+339224|2017-12-13|SO|II AKa 242/17|Wyrok|56|https://www.saos.org.pl/judgments/339224

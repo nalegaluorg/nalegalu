@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-365947|2018-11-28|SO|II Ka 250/18|Wyrok|https://www.saos.org.pl/judgments/365947
+saos_id|date|court|case_number|type|score|saos_url
+365947|2018-11-28|SO|II Ka 250/18|Wyrok|40|https://www.saos.org.pl/judgments/365947

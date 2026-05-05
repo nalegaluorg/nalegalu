@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-328677|2018-01-11|SO|V ACa 1024/17|Wyrok|https://www.saos.org.pl/judgments/328677
-166334|2014-07-18|SN|IV CSK 640/13|Wyrok|https://www.saos.org.pl/judgments/166334
-31019|2013-06-06|SO|I ACa 234/13|Wyrok|https://www.saos.org.pl/judgments/31019
+saos_id|date|court|case_number|type|score|saos_url
+166334|2014-07-18|SN|IV CSK 640/13|Wyrok|78|https://www.saos.org.pl/judgments/166334
+328677|2018-01-11|SO|V ACa 1024/17|Wyrok|56|https://www.saos.org.pl/judgments/328677
+31019|2013-06-06|SO|I ACa 234/13|Wyrok|56|https://www.saos.org.pl/judgments/31019

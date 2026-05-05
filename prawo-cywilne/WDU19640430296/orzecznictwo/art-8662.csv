@@ -1,3 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-288960|2015-06-01|SO|I C 1973/14|Uzasadnienie|https://www.saos.org.pl/judgments/288960
-176308|2015-03-30|SO|II C 2551/14|Uzasadnienie|https://www.saos.org.pl/judgments/176308
+saos_id|date|court|case_number|type|score|saos_url
+38412|2013-10-18|SO|VI ACa 439/13|Wyrok|56|https://www.saos.org.pl/judgments/38412
+415149|2016-08-26|SO|II S 91/16|Postanowienie|31|https://www.saos.org.pl/judgments/415149
+267754|2017-01-03|SO|III Ca 1486/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/267754

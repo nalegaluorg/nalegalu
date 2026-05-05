@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-386913|2019-05-07|SO|IV P 496/18|Wyrok|https://www.saos.org.pl/judgments/386913
-18607|2013-08-01|SO|III APa 12/13|Wyrok|https://www.saos.org.pl/judgments/18607
-5596|2013-01-17|SO|III AUa 957/12|Wyrok|https://www.saos.org.pl/judgments/5596
-108577|2008-06-19|TK|P 23/07|Wyrok|https://www.saos.org.pl/judgments/108577
+saos_id|date|court|case_number|type|score|saos_url
+108577|2008-06-19|TK|P 23/07|Wyrok|98|https://www.saos.org.pl/judgments/108577
+18607|2013-08-01|SO|III APa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/18607
+5596|2013-01-17|SO|III AUa 957/12|Wyrok|56|https://www.saos.org.pl/judgments/5596

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-374407|2018-12-14|SO|I ACa 203/18|Wyrok|https://www.saos.org.pl/judgments/374407
+saos_id|date|court|case_number|type|score|saos_url
+374407|2018-12-14|SO|I ACa 203/18|Wyrok|56|https://www.saos.org.pl/judgments/374407

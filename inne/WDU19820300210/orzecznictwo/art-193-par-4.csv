@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-376189|2019-04-17|SO|X P 435/18|Wyrok|https://www.saos.org.pl/judgments/376189
-386910|2019-02-19|SO|IV P 355/18|Wyrok|https://www.saos.org.pl/judgments/386910
-226836|2016-05-16|SO|VII P 20/14|Wyrok|https://www.saos.org.pl/judgments/226836
-50059|2014-05-07|SO|III APa 35/13|Wyrok|https://www.saos.org.pl/judgments/50059
-33565|2014-01-10|SO|IV P 694/13|Wyrok|https://www.saos.org.pl/judgments/33565
-10676|2012-09-05|SO|III APa 9/12|Wyrok|https://www.saos.org.pl/judgments/10676
+saos_id|date|court|case_number|type|score|saos_url
+50059|2014-05-07|SO|III APa 35/13|Wyrok|56|https://www.saos.org.pl/judgments/50059
+10676|2012-09-05|SO|III APa 9/12|Wyrok|56|https://www.saos.org.pl/judgments/10676

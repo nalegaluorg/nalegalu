@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-306882|2016-04-20|SO|VIII Pa 221/15|Wyrok|https://www.saos.org.pl/judgments/306882
-43788|2013-11-06|SO|III AUz 152/13|Postanowienie|https://www.saos.org.pl/judgments/43788
+saos_id|date|court|case_number|type|score|saos_url
+43788|2013-11-06|SO|III AUz 152/13|Postanowienie|47|https://www.saos.org.pl/judgments/43788

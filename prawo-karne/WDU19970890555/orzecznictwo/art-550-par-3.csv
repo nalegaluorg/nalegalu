@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-95472|2011-07-21|SN|I KZP 6/11|Postanowienie|https://www.saos.org.pl/judgments/95472
+saos_id|date|court|case_number|type|score|saos_url
+95472|2011-07-21|SN|I KZP 6/11|Postanowienie|69|https://www.saos.org.pl/judgments/95472

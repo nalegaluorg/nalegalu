@@ -1,18 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-286174|2017-04-04|SO|XXIII Gz 215/17|Postanowienie|https://www.saos.org.pl/judgments/286174
-303044|2016-12-22|SO|I C 186/16|Wyrok|https://www.saos.org.pl/judgments/303044
-249362|2016-09-16|SO|IX Ga 221/16|Wyrok|https://www.saos.org.pl/judgments/249362
-221008|2016-03-04|SO|VI ACa 119/15|Wyrok|https://www.saos.org.pl/judgments/221008
-204048|2016-01-29|SO|IX Ga 465/15|Wyrok|https://www.saos.org.pl/judgments/204048
-241867|2014-10-23|SO|XVII AmK 9/13|Wyrok|https://www.saos.org.pl/judgments/241867
-294677|2014-06-26|SO|II Ca 1168/13|Wyrok|https://www.saos.org.pl/judgments/294677
-350613|2014-02-28|SO|IX Ga 23/14|Wyrok|https://www.saos.org.pl/judgments/350613
-94612|2011-04-06|SN|I CSK 412/09|Wyrok|https://www.saos.org.pl/judgments/94612
-93669|2010-12-07|SN|III CZP 86/10|Uchwała|https://www.saos.org.pl/judgments/93669
-110096|2010-10-19|TK|Ts 257/08|Postanowienie|https://www.saos.org.pl/judgments/110096
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
-109099|2009-02-18|TK|SK 35/07|Postanowienie|https://www.saos.org.pl/judgments/109099
-85984|2007-06-01|SN|III CZP 42/07|Uchwała|https://www.saos.org.pl/judgments/85984
-84499|2006-08-02|SN|III CZP 46/06|Uchwała|https://www.saos.org.pl/judgments/84499
-82897|2004-10-05|SN|III SZP 1/04|Postanowienie|https://www.saos.org.pl/judgments/82897
-106051|2002-06-12|TK|P 13/01|Wyrok|https://www.saos.org.pl/judgments/106051
+saos_id|date|court|case_number|type|score|saos_url
+106051|2002-06-12|TK|P 13/01|Wyrok|98|https://www.saos.org.pl/judgments/106051
+93669|2010-12-07|SN|III CZP 86/10|Uchwała|96|https://www.saos.org.pl/judgments/93669
+85984|2007-06-01|SN|III CZP 42/07|Uchwała|89|https://www.saos.org.pl/judgments/85984
+84499|2006-08-02|SN|III CZP 46/06|Uchwała|89|https://www.saos.org.pl/judgments/84499
+110096|2010-10-19|TK|Ts 257/08|Postanowienie|80|https://www.saos.org.pl/judgments/110096
+109099|2009-02-18|TK|SK 35/07|Postanowienie|80|https://www.saos.org.pl/judgments/109099
+94612|2011-04-06|SN|I CSK 412/09|Wyrok|78|https://www.saos.org.pl/judgments/94612
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456
+221008|2016-03-04|SO|VI ACa 119/15|Wyrok|56|https://www.saos.org.pl/judgments/221008

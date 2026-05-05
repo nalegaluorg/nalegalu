@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-5216|2012-12-12|SO|I ACa 226/12|Wyrok|https://www.saos.org.pl/judgments/5216
-91337|2009-11-26|SN|III CZP 98/09|Uchwała|https://www.saos.org.pl/judgments/91337
+saos_id|date|court|case_number|type|score|saos_url
+91337|2009-11-26|SN|III CZP 98/09|Uchwała|89|https://www.saos.org.pl/judgments/91337
+5216|2012-12-12|SO|I ACa 226/12|Wyrok|56|https://www.saos.org.pl/judgments/5216

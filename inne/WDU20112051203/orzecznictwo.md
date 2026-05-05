@@ -2,15 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 19 sierpnia 2011 r. o weteranach działań poza granicami państwa*
 
-Łącznie: **4** orzeczeń
-
-## art. 33 (1)
-
-- 2023-06-26 | SO | [I C 722/16](https://www.saos.org.pl/judgments/517641) | Wyrok
-
-## art. 35 (1)
-
-- 2014-05-22 | SO | [IV P 620/13](https://www.saos.org.pl/judgments/50748) | Wyrok
+Łącznie: **2** orzeczeń
+(pominięto 2 orzeczeń sądów rejonowych)
 
 ## (ogólnie) (2)
 

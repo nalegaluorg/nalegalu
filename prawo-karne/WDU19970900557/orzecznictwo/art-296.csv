@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-341083|2018-04-06|SO|II AKa 468/17|Wyrok|https://www.saos.org.pl/judgments/341083
-136342|2012-12-13|SO|II AKa 103/12|Wyrok|https://www.saos.org.pl/judgments/136342
-137418|2012-11-27|SO|II AKa 245/12|Wyrok|https://www.saos.org.pl/judgments/137418
-136964|2012-02-21|SO|II AKa 338/11|Wyrok|https://www.saos.org.pl/judgments/136964
+saos_id|date|court|case_number|type|score|saos_url
+341083|2018-04-06|SO|II AKa 468/17|Wyrok|56|https://www.saos.org.pl/judgments/341083
+136342|2012-12-13|SO|II AKa 103/12|Wyrok|56|https://www.saos.org.pl/judgments/136342
+137418|2012-11-27|SO|II AKa 245/12|Wyrok|56|https://www.saos.org.pl/judgments/137418
+136964|2012-02-21|SO|II AKa 338/11|Wyrok|56|https://www.saos.org.pl/judgments/136964

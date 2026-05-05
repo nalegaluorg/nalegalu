@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-108073|2007-12-04|TK|K 26/05|Wyrok|https://www.saos.org.pl/judgments/108073
+saos_id|date|court|case_number|type|score|saos_url
+108073|2007-12-04|TK|K 26/05|Wyrok|98|https://www.saos.org.pl/judgments/108073

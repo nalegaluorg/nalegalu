@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-310411|2017-06-01|SO|II AKa 164/17|Wyrok|https://www.saos.org.pl/judgments/310411
-283861|2016-03-31|SO|III Ko 13/16|Wyrok|https://www.saos.org.pl/judgments/283861
+saos_id|date|court|case_number|type|score|saos_url
+310411|2017-06-01|SO|II AKa 164/17|Wyrok|56|https://www.saos.org.pl/judgments/310411

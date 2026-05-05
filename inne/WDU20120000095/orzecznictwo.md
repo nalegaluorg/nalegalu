@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Ustawa z dnia 13 stycznia 2012 r. o zmianie ustawy o r
 
 ## art. 1 (1)
 
-- 2012-02-20 | TK | [Tw 33/11](https://www.saos.org.pl/judgments/206366) | Postanowienie
+- 2012-02-20 | TK | [Tw 33/11](https://www.saos.org.pl/judgments/206366) | Postanowienie ★
 
 ## art. 9 (1)
 
-- 2012-02-20 | TK | [Tw 33/11](https://www.saos.org.pl/judgments/206366) | Postanowienie
+- 2012-02-20 | TK | [Tw 33/11](https://www.saos.org.pl/judgments/206366) | Postanowienie ★
 

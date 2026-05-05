@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-454117|2018-11-29|SO|I ACo 59/18|Postanowienie|https://www.saos.org.pl/judgments/454117
-453978|2018-06-29|SO|I ACo 26/18|Postanowienie|https://www.saos.org.pl/judgments/453978
-454142|2017-10-16|SO|I ACo 82/17|Postanowienie|https://www.saos.org.pl/judgments/454142
+saos_id|date|court|case_number|type|score|saos_url
+454117|2018-11-29|SO|I ACo 59/18|Postanowienie|47|https://www.saos.org.pl/judgments/454117
+453978|2018-06-29|SO|I ACo 26/18|Postanowienie|47|https://www.saos.org.pl/judgments/453978
+454142|2017-10-16|SO|I ACo 82/17|Postanowienie|47|https://www.saos.org.pl/judgments/454142

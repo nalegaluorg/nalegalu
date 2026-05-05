@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-135735|2012-06-27|SO|II AKa 184/12|Wyrok|https://www.saos.org.pl/judgments/135735
-64371|2012-02-09|SO|VIII K 300/10|Wyrok|https://www.saos.org.pl/judgments/64371
+saos_id|date|court|case_number|type|score|saos_url
+135735|2012-06-27|SO|II AKa 184/12|Wyrok|56|https://www.saos.org.pl/judgments/135735

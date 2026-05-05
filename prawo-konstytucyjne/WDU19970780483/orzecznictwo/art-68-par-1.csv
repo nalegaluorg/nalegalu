@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-539679|2025-05-27|SO|II AKz 514/25|Postanowienie|https://www.saos.org.pl/judgments/539679
-341547|2018-04-24|SO|I C 884/17|Wyrok|https://www.saos.org.pl/judgments/341547
-135193|2015-02-11|SO|IV Pa 4/15|Wyrok|https://www.saos.org.pl/judgments/135193
-105484|2000-08-25|TK|Ts 78/00|Postanowienie|https://www.saos.org.pl/judgments/105484
-105598|2000-06-30|TK|Ts 78/00|Postanowienie|https://www.saos.org.pl/judgments/105598
-205408|1989-09-27|TK|K 2/89|Wyrok|https://www.saos.org.pl/judgments/205408
+saos_id|date|court|case_number|type|score|saos_url
+205408|1989-09-27|TK|K 2/89|Wyrok|98|https://www.saos.org.pl/judgments/205408
+105484|2000-08-25|TK|Ts 78/00|Postanowienie|80|https://www.saos.org.pl/judgments/105484
+105598|2000-06-30|TK|Ts 78/00|Postanowienie|80|https://www.saos.org.pl/judgments/105598
+539679|2025-05-27|SO|II AKz 514/25|Postanowienie|47|https://www.saos.org.pl/judgments/539679

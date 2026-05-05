@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93014|2010-10-01|SN|II KK 141/10|Wyrok|https://www.saos.org.pl/judgments/93014
+saos_id|date|court|case_number|type|score|saos_url
+93014|2010-10-01|SN|II KK 141/10|Wyrok|78|https://www.saos.org.pl/judgments/93014

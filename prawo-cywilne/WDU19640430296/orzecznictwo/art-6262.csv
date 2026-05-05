@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|https://www.saos.org.pl/judgments/530385
-446370|2021-06-08|SO|II Ca 922/20|Postanowienie|https://www.saos.org.pl/judgments/446370
-427555|2020-09-10|SO|I Ca 288/20|Postanowienie|https://www.saos.org.pl/judgments/427555
-529674|2019-10-30|SO|II Ca 1504/19|Zarządzenie|https://www.saos.org.pl/judgments/529674
-516930|2018-12-18|SO|II Ca 808/18|Postanowienie|https://www.saos.org.pl/judgments/516930
-359947|2018-04-23|SO|II Ca 428/18|Zarządzenie|https://www.saos.org.pl/judgments/359947
-331947|2017-11-23|SO|I ACa 1296/16|Wyrok|https://www.saos.org.pl/judgments/331947
-336481|2017-11-03|SO|I ACa 260/17|Wyrok|https://www.saos.org.pl/judgments/336481
-303392|2017-07-24|SO|I C 157/16|Wyrok|https://www.saos.org.pl/judgments/303392
-325686|2015-12-21|SO|II Ca 692/15|Wyrok|https://www.saos.org.pl/judgments/325686
-157695|2015-06-02|SO|IX GC 1187/14|Wyrok|https://www.saos.org.pl/judgments/157695
-72508|2014-10-07|SO|I C 1166/13|Wyrok|https://www.saos.org.pl/judgments/72508
-71169|2014-09-26|SO|I C 553/14|Wyrok|https://www.saos.org.pl/judgments/71169
-73043|2014-06-12|SO|II Ca 293/14|Wyrok|https://www.saos.org.pl/judgments/73043
-49291|2014-04-28|SO|III Ca 1658/13|Uzasadnienie|https://www.saos.org.pl/judgments/49291
-44158|2013-10-28|SO|II Ca 752/13|Postanowienie|https://www.saos.org.pl/judgments/44158
-20478|2013-09-10|SO|VIII Ca 368/13|Wyrok|https://www.saos.org.pl/judgments/20478
-9275|2013-04-03|SO|VII Ca 538/12|Postanowienie|https://www.saos.org.pl/judgments/9275
+saos_id|date|court|case_number|type|score|saos_url
+331947|2017-11-23|SO|I ACa 1296/16|Wyrok|56|https://www.saos.org.pl/judgments/331947
+336481|2017-11-03|SO|I ACa 260/17|Wyrok|56|https://www.saos.org.pl/judgments/336481
+303392|2017-07-24|SO|I C 157/16|Wyrok|40|https://www.saos.org.pl/judgments/303392
+157695|2015-06-02|SO|IX GC 1187/14|Wyrok|40|https://www.saos.org.pl/judgments/157695
+446370|2021-06-08|SO|II Ca 922/20|Postanowienie|31|https://www.saos.org.pl/judgments/446370
+9275|2013-04-03|SO|VII Ca 538/12|Postanowienie|31|https://www.saos.org.pl/judgments/9275
+530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/530385
+49291|2014-04-28|SO|III Ca 1658/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/49291

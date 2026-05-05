@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-236780|2016-07-06|SO|V W 5331/15|Wyrok|https://www.saos.org.pl/judgments/236780
-216290|2016-03-30|SO|V Kz 113/16|Postanowienie|https://www.saos.org.pl/judgments/216290
-195703|2015-10-30|SO|VII Ka 716/15|Wyrok|https://www.saos.org.pl/judgments/195703
+saos_id|date|court|case_number|type|score|saos_url
+216290|2016-03-30|SO|V Kz 113/16|Postanowienie|31|https://www.saos.org.pl/judgments/216290

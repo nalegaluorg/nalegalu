@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-67098|2014-10-07|SO|III AUa 2583/13|Wyrok|https://www.saos.org.pl/judgments/67098
-101036|2013-03-14|SN|I UK 555/12|Wyrok|https://www.saos.org.pl/judgments/101036
-95574|2011-08-05|SN|III UZ 17/11|Postanowienie|https://www.saos.org.pl/judgments/95574
-165415|2010-09-09|SN|II UK 84/10|Wyrok|https://www.saos.org.pl/judgments/165415
+saos_id|date|court|case_number|type|score|saos_url
+101036|2013-03-14|SN|I UK 555/12|Wyrok|78|https://www.saos.org.pl/judgments/101036
+165415|2010-09-09|SN|II UK 84/10|Wyrok|78|https://www.saos.org.pl/judgments/165415
+95574|2011-08-05|SN|III UZ 17/11|Postanowienie|69|https://www.saos.org.pl/judgments/95574
+67098|2014-10-07|SO|III AUa 2583/13|Wyrok|56|https://www.saos.org.pl/judgments/67098

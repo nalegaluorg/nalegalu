@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-515109|2022-01-12|SO|XVII AmE 223/20|Wyrok|https://www.saos.org.pl/judgments/515109
-25144|2013-10-08|SO|III AUa 1469/12|Wyrok|https://www.saos.org.pl/judgments/25144
-102988|2013-09-24|SN|III SK 7/13|Postanowienie|https://www.saos.org.pl/judgments/102988
-13058|2013-04-11|SO|VI ACa 936/12|Wyrok|https://www.saos.org.pl/judgments/13058
+saos_id|date|court|case_number|type|score|saos_url
+102988|2013-09-24|SN|III SK 7/13|Postanowienie|69|https://www.saos.org.pl/judgments/102988
+25144|2013-10-08|SO|III AUa 1469/12|Wyrok|56|https://www.saos.org.pl/judgments/25144
+13058|2013-04-11|SO|VI ACa 936/12|Wyrok|56|https://www.saos.org.pl/judgments/13058

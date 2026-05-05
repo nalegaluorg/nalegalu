@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-103762|2013-12-04|SN|III CZP 85/13|Uchwała|https://www.saos.org.pl/judgments/103762
-100414|2013-01-23|SN|I CSK 186/12|Postanowienie|https://www.saos.org.pl/judgments/100414
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
+saos_id|date|court|case_number|type|score|saos_url
+103762|2013-12-04|SN|III CZP 85/13|Uchwała|89|https://www.saos.org.pl/judgments/103762
+100414|2013-01-23|SN|I CSK 186/12|Postanowienie|69|https://www.saos.org.pl/judgments/100414
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456

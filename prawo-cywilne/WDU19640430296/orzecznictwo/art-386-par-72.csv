@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93757|2010-12-15|SN|II PK 137/10|Wyrok|https://www.saos.org.pl/judgments/93757
+saos_id|date|court|case_number|type|score|saos_url
+93757|2010-12-15|SN|II PK 137/10|Wyrok|78|https://www.saos.org.pl/judgments/93757

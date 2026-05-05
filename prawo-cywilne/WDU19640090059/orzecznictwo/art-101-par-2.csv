@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-405256|2019-10-15|SO|IV Ka 613/19|Wyrok|https://www.saos.org.pl/judgments/405256
-392554|2019-09-13|SO|II C 30/18|Wyrok|https://www.saos.org.pl/judgments/392554
-376470|2019-02-13|SO|I ACa 518/18|Wyrok|https://www.saos.org.pl/judgments/376470
-347427|2018-04-20|SO|III Ns 1021/17|Postanowienie|https://www.saos.org.pl/judgments/347427
+saos_id|date|court|case_number|type|score|saos_url
+376470|2019-02-13|SO|I ACa 518/18|Wyrok|56|https://www.saos.org.pl/judgments/376470
+392554|2019-09-13|SO|II C 30/18|Wyrok|40|https://www.saos.org.pl/judgments/392554
+347427|2018-04-20|SO|III Ns 1021/17|Postanowienie|31|https://www.saos.org.pl/judgments/347427

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-367619|2018-12-05|SO|II K 341/18|Wyrok|https://www.saos.org.pl/judgments/367619
+saos_id|date|court|case_number|type|score|saos_url
+367619|2018-12-05|SO|II K 341/18|Wyrok|40|https://www.saos.org.pl/judgments/367619

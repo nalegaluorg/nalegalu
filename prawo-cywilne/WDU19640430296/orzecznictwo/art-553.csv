@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520958|2024-10-29|SO|I Ns 393/22|Uzasadnienie|https://www.saos.org.pl/judgments/520958
-448156|2021-07-14|SO|I Ns 612/14|Postanowienie|https://www.saos.org.pl/judgments/448156
-358036|2018-08-23|SO|III Ca 699/18|Uzasadnienie|https://www.saos.org.pl/judgments/358036
+saos_id|date|court|case_number|type|score|saos_url
+358036|2018-08-23|SO|III Ca 699/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/358036

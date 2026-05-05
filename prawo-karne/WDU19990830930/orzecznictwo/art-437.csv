@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-327921|2018-01-31|SO|II Ka 13/18|Wyrok|https://www.saos.org.pl/judgments/327921
+saos_id|date|court|case_number|type|score|saos_url
+327921|2018-01-31|SO|II Ka 13/18|Wyrok|40|https://www.saos.org.pl/judgments/327921

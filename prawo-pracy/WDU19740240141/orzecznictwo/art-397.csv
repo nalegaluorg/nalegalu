@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-51946|2014-06-26|SO|II Cz 521/14|Postanowienie|https://www.saos.org.pl/judgments/51946
-52074|2014-05-30|SO|II Cz 286/14|Postanowienie|https://www.saos.org.pl/judgments/52074
-45877|2014-02-10|SO|II Cz 987/13|Postanowienie|https://www.saos.org.pl/judgments/45877
-40969|2014-02-05|SO|V Pz 5/14|Postanowienie|https://www.saos.org.pl/judgments/40969
-46868|2014-01-07|SO|III Cz 1379/13|Postanowienie|https://www.saos.org.pl/judgments/46868
-16584|2013-07-11|SO|V Pz 37/13|Postanowienie|https://www.saos.org.pl/judgments/16584
-18940|2013-02-25|SO|V Cz 392/13|Postanowienie|https://www.saos.org.pl/judgments/18940
-7709|2013-02-19|SO|V Pz 9/13|Postanowienie|https://www.saos.org.pl/judgments/7709
-7706|2013-01-31|SO|V Pa 18/13|Wyrok|https://www.saos.org.pl/judgments/7706
+saos_id|date|court|case_number|type|score|saos_url
+7706|2013-01-31|SO|V Pa 18/13|Wyrok|40|https://www.saos.org.pl/judgments/7706
+40969|2014-02-05|SO|V Pz 5/14|Postanowienie|31|https://www.saos.org.pl/judgments/40969
+16584|2013-07-11|SO|V Pz 37/13|Postanowienie|31|https://www.saos.org.pl/judgments/16584
+7709|2013-02-19|SO|V Pz 9/13|Postanowienie|31|https://www.saos.org.pl/judgments/7709

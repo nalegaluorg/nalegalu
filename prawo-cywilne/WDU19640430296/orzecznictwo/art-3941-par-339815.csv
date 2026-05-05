@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93506|2010-11-24|SN|II CZ 125/10|Postanowienie|https://www.saos.org.pl/judgments/93506
+saos_id|date|court|case_number|type|score|saos_url
+93506|2010-11-24|SN|II CZ 125/10|Postanowienie|69|https://www.saos.org.pl/judgments/93506

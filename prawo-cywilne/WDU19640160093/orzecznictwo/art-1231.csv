@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-105570|2000-10-25|TK|Ts 54/00|Postanowienie|https://www.saos.org.pl/judgments/105570
+saos_id|date|court|case_number|type|score|saos_url
+105570|2000-10-25|TK|Ts 54/00|Postanowienie|80|https://www.saos.org.pl/judgments/105570

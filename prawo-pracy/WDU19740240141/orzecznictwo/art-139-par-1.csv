@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-504379|2023-04-18|SO|II W 1208/22|Wyrok|https://www.saos.org.pl/judgments/504379
-391286|2019-06-06|SO|VIII Pa 2/19|Wyrok|https://www.saos.org.pl/judgments/391286
-382318|2019-05-21|SO|VIII Pa 275/18|Uzasadnienie|https://www.saos.org.pl/judgments/382318
-390218|2019-04-10|SO|VII Pa 1/19|Wyrok|https://www.saos.org.pl/judgments/390218
-345246|2018-06-21|SO|IV P 1/18|Wyrok|https://www.saos.org.pl/judgments/345246
-337102|2018-04-18|SO|IX P 73/17|Zarządzenie|https://www.saos.org.pl/judgments/337102
-332180|2017-10-05|SO|IV P 157/16|Wyrok|https://www.saos.org.pl/judgments/332180
-283925|2017-03-24|SO|X P 536/15|Wyrok|https://www.saos.org.pl/judgments/283925
-135436|2014-10-29|SO|IV P 9/14|Wyrok|https://www.saos.org.pl/judgments/135436
-156833|2014-10-08|SO|IV P 2/13|Wyrok|https://www.saos.org.pl/judgments/156833
-99215|2012-10-02|SN|II PK 311/11|Wyrok|https://www.saos.org.pl/judgments/99215
-90970|2009-10-08|SN|II CSK 105/09|Wyrok|https://www.saos.org.pl/judgments/90970
-88683|2008-09-12|SN|I PK 25/08|Wyrok|https://www.saos.org.pl/judgments/88683
-86462|2007-08-23|SN|I PK 84/07|Wyrok|https://www.saos.org.pl/judgments/86462
-83147|2005-01-18|SN|II PK 151/04|Wyrok|https://www.saos.org.pl/judgments/83147
-81978|2003-04-25|SN|III CZP 8/03|Uchwała|https://www.saos.org.pl/judgments/81978
-80987|2001-11-14|SN|III ZP 20/01|Uchwała|https://www.saos.org.pl/judgments/80987
+saos_id|date|court|case_number|type|score|saos_url
+81978|2003-04-25|SN|III CZP 8/03|Uchwała|96|https://www.saos.org.pl/judgments/81978
+80987|2001-11-14|SN|III ZP 20/01|Uchwała|96|https://www.saos.org.pl/judgments/80987
+99215|2012-10-02|SN|II PK 311/11|Wyrok|78|https://www.saos.org.pl/judgments/99215
+90970|2009-10-08|SN|II CSK 105/09|Wyrok|78|https://www.saos.org.pl/judgments/90970
+88683|2008-09-12|SN|I PK 25/08|Wyrok|78|https://www.saos.org.pl/judgments/88683
+86462|2007-08-23|SN|I PK 84/07|Wyrok|78|https://www.saos.org.pl/judgments/86462
+83147|2005-01-18|SN|II PK 151/04|Wyrok|78|https://www.saos.org.pl/judgments/83147
+390218|2019-04-10|SO|VII Pa 1/19|Wyrok|40|https://www.saos.org.pl/judgments/390218
+382318|2019-05-21|SO|VIII Pa 275/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/382318

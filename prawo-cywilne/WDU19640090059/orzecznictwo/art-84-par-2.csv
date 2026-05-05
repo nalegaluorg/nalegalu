@@ -1,18 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-532149|2024-06-04|SO|III RC 474/23|Wyrok|https://www.saos.org.pl/judgments/532149
-487801|2022-10-14|SO|III RC 197/22|Wyrok|https://www.saos.org.pl/judgments/487801
-427322|2020-10-30|SO|III RC 173/17|Wyrok|https://www.saos.org.pl/judgments/427322
-390528|2019-07-23|SO|VI RC 385/18|Wyrok|https://www.saos.org.pl/judgments/390528
-457798|2019-06-05|SO|III AUa 60/19|Wyrok|https://www.saos.org.pl/judgments/457798
-397855|2019-05-15|SO|VIII RC 343/18|Wyrok|https://www.saos.org.pl/judgments/397855
-393478|2019-03-21|SO|VIII RC 391/17|Wyrok|https://www.saos.org.pl/judgments/393478
-393498|2018-10-18|SO|VIII RC 686/17|Wyrok|https://www.saos.org.pl/judgments/393498
-344151|2018-06-07|SO|VI RC 152/17|Wyrok|https://www.saos.org.pl/judgments/344151
-341418|2018-04-25|SO|VIII RC 321/17|Wyrok|https://www.saos.org.pl/judgments/341418
-317802|2017-11-17|SO|VIII RC 393/17|Wyrok|https://www.saos.org.pl/judgments/317802
-303140|2017-09-06|SO|V RC 854/15|Uzasadnienie|https://www.saos.org.pl/judgments/303140
-306903|2017-07-26|SO|VIII RC 398/16|Wyrok|https://www.saos.org.pl/judgments/306903
-288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|https://www.saos.org.pl/judgments/288223
-276738|2017-03-09|SO|VI RC 486/15|Wyrok|https://www.saos.org.pl/judgments/276738
-234944|2016-04-12|SO|VIII RC 47/14|Wyrok|https://www.saos.org.pl/judgments/234944
-221143|2016-04-06|SO|VIII RC 27/14|Wyrok|https://www.saos.org.pl/judgments/221143
+saos_id|date|court|case_number|type|score|saos_url
+457798|2019-06-05|SO|III AUa 60/19|Wyrok|56|https://www.saos.org.pl/judgments/457798
+288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|31|https://www.saos.org.pl/judgments/288223

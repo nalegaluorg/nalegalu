@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-313012|2017-06-21|SO|VII U 398/17|Wyrok|https://www.saos.org.pl/judgments/313012
-280824|2017-02-21|SO|III AUa 245/16|Wyrok|https://www.saos.org.pl/judgments/280824
-158768|2015-06-10|SO|III AUa 1793/14|Wyrok|https://www.saos.org.pl/judgments/158768
+saos_id|date|court|case_number|type|score|saos_url
+280824|2017-02-21|SO|III AUa 245/16|Wyrok|56|https://www.saos.org.pl/judgments/280824
+158768|2015-06-10|SO|III AUa 1793/14|Wyrok|56|https://www.saos.org.pl/judgments/158768
+313012|2017-06-21|SO|VII U 398/17|Wyrok|40|https://www.saos.org.pl/judgments/313012

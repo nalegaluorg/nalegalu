@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-450373|2020-12-03|SO|VIII C 1034/20|Postanowienie|https://www.saos.org.pl/judgments/450373
-169980|2015-05-19|SO|II Cz 203/15|Postanowienie|https://www.saos.org.pl/judgments/169980
-49585|2014-06-05|SO|XIII Ga 728/13|Uzasadnienie|https://www.saos.org.pl/judgments/49585
-47895|2014-05-20|SO|VI Gz 106/14|Postanowienie|https://www.saos.org.pl/judgments/47895
+saos_id|date|court|case_number|type|score|saos_url
+450373|2020-12-03|SO|VIII C 1034/20|Postanowienie|31|https://www.saos.org.pl/judgments/450373
+47895|2014-05-20|SO|VI Gz 106/14|Postanowienie|31|https://www.saos.org.pl/judgments/47895
+49585|2014-06-05|SO|XIII Ga 728/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/49585

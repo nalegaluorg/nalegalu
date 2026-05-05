@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495962|2023-11-29|SO|I C 1458/22|Wyrok|https://www.saos.org.pl/judgments/495962
-485346|2023-01-18|SO|II AKa 301/21|Uzasadnienie|https://www.saos.org.pl/judgments/485346
-411933|2019-08-26|SO|II C 1105/19|Postanowienie|https://www.saos.org.pl/judgments/411933
+saos_id|date|court|case_number|type|score|saos_url
+485346|2023-01-18|SO|II AKa 301/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/485346

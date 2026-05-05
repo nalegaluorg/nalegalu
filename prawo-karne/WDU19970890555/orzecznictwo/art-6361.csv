@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511161|2024-01-10|SO|VI Ka 457/23|Wyrok|https://www.saos.org.pl/judgments/511161
-338985|2018-03-28|SO|IV Ka 208/17|Wyrok|https://www.saos.org.pl/judgments/338985
-46107|2014-03-21|SO|IX Ka 1662/13|Wyrok|https://www.saos.org.pl/judgments/46107
+saos_id|date|court|case_number|type|score|saos_url
+511161|2024-01-10|SO|VI Ka 457/23|Wyrok|40|https://www.saos.org.pl/judgments/511161

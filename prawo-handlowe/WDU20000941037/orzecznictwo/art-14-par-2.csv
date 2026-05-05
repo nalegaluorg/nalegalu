@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-13735|2013-05-29|SO|XII Ga 126/13|Wyrok|https://www.saos.org.pl/judgments/13735
-3161|2012-11-14|SO|I ACa 808/12|Wyrok|https://www.saos.org.pl/judgments/3161
-9295|2012-06-14|SO|I ACa 1382/11|Wyrok|https://www.saos.org.pl/judgments/9295
-91142|2009-10-29|SN|III CZP 61/09|Uchwała|https://www.saos.org.pl/judgments/91142
+saos_id|date|court|case_number|type|score|saos_url
+91142|2009-10-29|SN|III CZP 61/09|Uchwała|89|https://www.saos.org.pl/judgments/91142
+3161|2012-11-14|SO|I ACa 808/12|Wyrok|56|https://www.saos.org.pl/judgments/3161
+9295|2012-06-14|SO|I ACa 1382/11|Wyrok|56|https://www.saos.org.pl/judgments/9295

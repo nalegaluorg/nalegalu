@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-508812|2023-09-28|SO|IV Pa 20/23|Wyrok|https://www.saos.org.pl/judgments/508812
-457271|2022-02-09|SO|IX P 19/21|Zarządzenie|https://www.saos.org.pl/judgments/457271
-447882|2021-08-13|SO|VII Pa 61/20|Wyrok|https://www.saos.org.pl/judgments/447882
-364613|2018-06-19|SO|IV P 373/17|Wyrok|https://www.saos.org.pl/judgments/364613
-303940|2015-12-21|SO|III APa 31/15|Wyrok|https://www.saos.org.pl/judgments/303940
-27240|2013-10-25|SO|V P 17/13|Wyrok|https://www.saos.org.pl/judgments/27240
-84721|2006-11-15|SN|I PK 128/06|Wyrok|https://www.saos.org.pl/judgments/84721
-83179|2005-01-26|SN|II PK 197/04|Wyrok|https://www.saos.org.pl/judgments/83179
-80130|2000-12-05|SN|I PKN 121/00|Wyrok|https://www.saos.org.pl/judgments/80130
-78143|1998-02-17|SN|I PKN 527/97|Wyrok|https://www.saos.org.pl/judgments/78143
-77942|1997-11-27|SN|I PKN 393/97|Wyrok|https://www.saos.org.pl/judgments/77942
+saos_id|date|court|case_number|type|score|saos_url
+84721|2006-11-15|SN|I PK 128/06|Wyrok|78|https://www.saos.org.pl/judgments/84721
+83179|2005-01-26|SN|II PK 197/04|Wyrok|78|https://www.saos.org.pl/judgments/83179
+80130|2000-12-05|SN|I PKN 121/00|Wyrok|78|https://www.saos.org.pl/judgments/80130
+78143|1998-02-17|SN|I PKN 527/97|Wyrok|78|https://www.saos.org.pl/judgments/78143
+77942|1997-11-27|SN|I PKN 393/97|Wyrok|78|https://www.saos.org.pl/judgments/77942
+303940|2015-12-21|SO|III APa 31/15|Wyrok|56|https://www.saos.org.pl/judgments/303940
+447882|2021-08-13|SO|VII Pa 61/20|Wyrok|40|https://www.saos.org.pl/judgments/447882
+27240|2013-10-25|SO|V P 17/13|Wyrok|40|https://www.saos.org.pl/judgments/27240

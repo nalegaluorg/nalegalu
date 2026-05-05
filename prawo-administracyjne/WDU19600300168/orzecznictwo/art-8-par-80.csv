@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-512075|2024-05-21|SO|VII U 303/24|Wyrok|https://www.saos.org.pl/judgments/512075
+saos_id|date|court|case_number|type|score|saos_url
+512075|2024-05-21|SO|VII U 303/24|Wyrok|40|https://www.saos.org.pl/judgments/512075

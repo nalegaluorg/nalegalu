@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-364123|2016-11-17|SO|II AKa 96/16|Uzasadnienie|https://www.saos.org.pl/judgments/364123
-183041|2014-11-27|SO|II AKa 357/14|Wyrok|https://www.saos.org.pl/judgments/183041
-436959|2014-03-18|SO|II AKa 384/13|Wyrok|https://www.saos.org.pl/judgments/436959
+saos_id|date|court|case_number|type|score|saos_url
+183041|2014-11-27|SO|II AKa 357/14|Wyrok|56|https://www.saos.org.pl/judgments/183041
+436959|2014-03-18|SO|II AKa 384/13|Wyrok|56|https://www.saos.org.pl/judgments/436959
+364123|2016-11-17|SO|II AKa 96/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/364123

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243930|2015-11-25|SN|II CSK 692/14|Wyrok|https://www.saos.org.pl/judgments/243930
-164017|2006-02-09|SN|V CSK 128/05|Wyrok|https://www.saos.org.pl/judgments/164017
-162812|2004-12-15|SN|IV CK 376/04|Wyrok|https://www.saos.org.pl/judgments/162812
+saos_id|date|court|case_number|type|score|saos_url
+243930|2015-11-25|SN|II CSK 692/14|Wyrok|78|https://www.saos.org.pl/judgments/243930
+164017|2006-02-09|SN|V CSK 128/05|Wyrok|78|https://www.saos.org.pl/judgments/164017
+162812|2004-12-15|SN|IV CK 376/04|Wyrok|78|https://www.saos.org.pl/judgments/162812

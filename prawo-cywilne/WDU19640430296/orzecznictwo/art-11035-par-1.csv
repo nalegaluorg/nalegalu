@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-392752|2019-06-27|SO|I C 717/17|Wyrok|https://www.saos.org.pl/judgments/392752
+saos_id|date|court|case_number|type|score|saos_url
+275819|2017-01-25|SO|I ACa 2168/15|Wyrok|56|https://www.saos.org.pl/judgments/275819
+61036|2014-08-22|SO|I ACa 268/14|Wyrok|56|https://www.saos.org.pl/judgments/61036
+174945|2015-07-31|SO|VI Gz 202/15|Postanowienie|31|https://www.saos.org.pl/judgments/174945
+418365|2019-12-19|SO|I C 2092/17|Zarządzenie|27|https://www.saos.org.pl/judgments/418365
+418366|2019-02-20|SO|I C 2095/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/418366
+357373|2018-07-09|SO|II C 1208/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/357373

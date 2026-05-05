@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-418783|2015-05-15|SO|XX GCo 94/15|Postanowienie|https://www.saos.org.pl/judgments/418783
-58295|2013-12-18|SO|I ACz 2287/13|Postanowienie|https://www.saos.org.pl/judgments/58295
+saos_id|date|court|case_number|type|score|saos_url
+58295|2013-12-18|SO|I ACz 2287/13|Postanowienie|47|https://www.saos.org.pl/judgments/58295

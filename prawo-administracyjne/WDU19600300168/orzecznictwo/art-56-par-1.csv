@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-357371|2018-07-03|SO|II C 114/15|Uzasadnienie|https://www.saos.org.pl/judgments/357371
-56505|2014-06-25|SO|III AUa 2066/13|Wyrok|https://www.saos.org.pl/judgments/56505
-8997|2013-03-28|SO|III AUz 53/13|Postanowienie|https://www.saos.org.pl/judgments/8997
+saos_id|date|court|case_number|type|score|saos_url
+56505|2014-06-25|SO|III AUa 2066/13|Wyrok|56|https://www.saos.org.pl/judgments/56505
+8997|2013-03-28|SO|III AUz 53/13|Postanowienie|47|https://www.saos.org.pl/judgments/8997
+357371|2018-07-03|SO|II C 114/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/357371

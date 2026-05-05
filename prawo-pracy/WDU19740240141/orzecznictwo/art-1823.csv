@@ -1,9 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-528505|2025-06-10|SO|IV U 52/25|Wyrok|https://www.saos.org.pl/judgments/528505
-509632|2024-07-30|SO|IX U 562/23|Zarządzenie|https://www.saos.org.pl/judgments/509632
-431177|2020-11-25|SO|X P 602/19|Wyrok|https://www.saos.org.pl/judgments/431177
-526503|2019-12-13|SO|VIII P 94/19|Uzasadnienie|https://www.saos.org.pl/judgments/526503
-283049|2017-01-10|SO|VI U 129/16|Wyrok|https://www.saos.org.pl/judgments/283049
-198122|2015-12-08|SO|X P 124/15|Wyrok|https://www.saos.org.pl/judgments/198122
-152455|2015-03-30|SO|IV P 18/15|Wyrok|https://www.saos.org.pl/judgments/152455
-198727|2014-01-15|SO|IV U 106/13|Wyrok|https://www.saos.org.pl/judgments/198727
+saos_id|date|court|case_number|type|score|saos_url
+528505|2025-06-10|SO|IV U 52/25|Wyrok|40|https://www.saos.org.pl/judgments/528505
+283049|2017-01-10|SO|VI U 129/16|Wyrok|40|https://www.saos.org.pl/judgments/283049

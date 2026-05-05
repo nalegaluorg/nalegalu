@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-490211|2022-07-29|SO|II AKa 139/21|Uzasadnienie|https://www.saos.org.pl/judgments/490211
-442283|2021-03-02|SO|XI Ka 856/20|Wyrok|https://www.saos.org.pl/judgments/442283
-367372|2018-11-02|SO|II Ka 276/18|Wyrok|https://www.saos.org.pl/judgments/367372
+saos_id|date|court|case_number|type|score|saos_url
+490211|2022-07-29|SO|II AKa 139/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/490211

@@ -1,16 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-420458|2020-06-30|SO|VIII U 3208/19|Uzasadnienie|https://www.saos.org.pl/judgments/420458
-383085|2019-04-10|SO|VIII U 1149/18|Zarządzenie|https://www.saos.org.pl/judgments/383085
-331261|2018-02-16|SO|IV P 3/17|Wyrok|https://www.saos.org.pl/judgments/331261
-313233|2017-07-05|SO|III AUa 691/16|Wyrok|https://www.saos.org.pl/judgments/313233
-428513|2017-02-14|SO|III AUa 1232/16|Wyrok|https://www.saos.org.pl/judgments/428513
-252922|2016-09-08|SO|XXI Pa 381/16|Wyrok|https://www.saos.org.pl/judgments/252922
-220510|2015-12-21|SO|I C 1441/13|Wyrok|https://www.saos.org.pl/judgments/220510
-124882|2015-01-08|SO|II AKzw 677/14|Postanowienie|https://www.saos.org.pl/judgments/124882
-133050|2014-12-23|SO|III Ca 1039/14|Uzasadnienie|https://www.saos.org.pl/judgments/133050
-216644|2014-12-15|SO|I C 950/13|Uzasadnienie|https://www.saos.org.pl/judgments/216644
-143703|2014-02-18|SO|II AKzw 41/14|Postanowienie|https://www.saos.org.pl/judgments/143703
-139392|2013-06-25|SO|II AKzw 350/13|Postanowienie|https://www.saos.org.pl/judgments/139392
-139391|2013-06-25|SO|II AKzw 349/13|Postanowienie|https://www.saos.org.pl/judgments/139391
-139390|2013-06-25|SO|II AKzw 346/13|Postanowienie|https://www.saos.org.pl/judgments/139390
-137239|2013-03-05|SO|II AKzw 107/13|Postanowienie|https://www.saos.org.pl/judgments/137239
+saos_id|date|court|case_number|type|score|saos_url
+313233|2017-07-05|SO|III AUa 691/16|Wyrok|56|https://www.saos.org.pl/judgments/313233
+428513|2017-02-14|SO|III AUa 1232/16|Wyrok|56|https://www.saos.org.pl/judgments/428513
+124882|2015-01-08|SO|II AKzw 677/14|Postanowienie|47|https://www.saos.org.pl/judgments/124882
+143703|2014-02-18|SO|II AKzw 41/14|Postanowienie|47|https://www.saos.org.pl/judgments/143703
+139392|2013-06-25|SO|II AKzw 350/13|Postanowienie|47|https://www.saos.org.pl/judgments/139392
+139391|2013-06-25|SO|II AKzw 349/13|Postanowienie|47|https://www.saos.org.pl/judgments/139391
+139390|2013-06-25|SO|II AKzw 346/13|Postanowienie|47|https://www.saos.org.pl/judgments/139390
+137239|2013-03-05|SO|II AKzw 107/13|Postanowienie|47|https://www.saos.org.pl/judgments/137239
+420458|2020-06-30|SO|VIII U 3208/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/420458
+383085|2019-04-10|SO|VIII U 1149/18|Zarządzenie|27|https://www.saos.org.pl/judgments/383085
+133050|2014-12-23|SO|III Ca 1039/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/133050

@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-289340|2017-04-04|SO|VI Pa 108/16|Wyrok|https://www.saos.org.pl/judgments/289340
-245271|2016-05-11|SN|I PK 151/15|Wyrok|https://www.saos.org.pl/judgments/245271
-245204|2016-04-28|SN|I PK 127/15|Wyrok|https://www.saos.org.pl/judgments/245204
-243125|2015-08-13|SN|II PK 234/14|Wyrok|https://www.saos.org.pl/judgments/243125
-94662|2011-04-06|SN|II UK 331/10|Postanowienie|https://www.saos.org.pl/judgments/94662
-88207|2008-06-09|SN|II PK 328/07|Wyrok|https://www.saos.org.pl/judgments/88207
-84680|2006-10-23|SN|I PK 28/06|Wyrok|https://www.saos.org.pl/judgments/84680
+saos_id|date|court|case_number|type|score|saos_url
+245271|2016-05-11|SN|I PK 151/15|Wyrok|78|https://www.saos.org.pl/judgments/245271
+245204|2016-04-28|SN|I PK 127/15|Wyrok|78|https://www.saos.org.pl/judgments/245204
+243125|2015-08-13|SN|II PK 234/14|Wyrok|78|https://www.saos.org.pl/judgments/243125
+88207|2008-06-09|SN|II PK 328/07|Wyrok|78|https://www.saos.org.pl/judgments/88207
+84680|2006-10-23|SN|I PK 28/06|Wyrok|78|https://www.saos.org.pl/judgments/84680
+94662|2011-04-06|SN|II UK 331/10|Postanowienie|69|https://www.saos.org.pl/judgments/94662

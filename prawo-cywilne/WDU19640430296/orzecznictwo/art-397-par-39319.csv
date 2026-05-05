@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-163441|2005-07-12|SN|I CZ 34/05|Postanowienie|https://www.saos.org.pl/judgments/163441
-82198|2003-09-24|SN|I CZ 81/03|Postanowienie|https://www.saos.org.pl/judgments/82198
-79828|2000-07-03|SN|II UZ 75/00|Postanowienie|https://www.saos.org.pl/judgments/79828
-78040|1998-01-08|SN|II UZ 118/97|Postanowienie|https://www.saos.org.pl/judgments/78040
-77994|1997-12-09|SN|II UZ 110/97|Postanowienie|https://www.saos.org.pl/judgments/77994
-77681|1997-05-23|SN|I PZ 21/97|Postanowienie|https://www.saos.org.pl/judgments/77681
-77459|1997-02-13|SN|I PZ 3/97|Postanowienie|https://www.saos.org.pl/judgments/77459
-77294|1996-10-23|SN|II UZ 4/96|Postanowienie|https://www.saos.org.pl/judgments/77294
+saos_id|date|court|case_number|type|score|saos_url
+163441|2005-07-12|SN|I CZ 34/05|Postanowienie|69|https://www.saos.org.pl/judgments/163441
+82198|2003-09-24|SN|I CZ 81/03|Postanowienie|69|https://www.saos.org.pl/judgments/82198
+79828|2000-07-03|SN|II UZ 75/00|Postanowienie|69|https://www.saos.org.pl/judgments/79828
+78040|1998-01-08|SN|II UZ 118/97|Postanowienie|69|https://www.saos.org.pl/judgments/78040
+77994|1997-12-09|SN|II UZ 110/97|Postanowienie|69|https://www.saos.org.pl/judgments/77994
+77681|1997-05-23|SN|I PZ 21/97|Postanowienie|69|https://www.saos.org.pl/judgments/77681
+77459|1997-02-13|SN|I PZ 3/97|Postanowienie|69|https://www.saos.org.pl/judgments/77459
+77294|1996-10-23|SN|II UZ 4/96|Postanowienie|69|https://www.saos.org.pl/judgments/77294

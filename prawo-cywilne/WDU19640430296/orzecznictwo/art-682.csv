@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-157620|2015-05-06|SO|X Ga 62/15|Wyrok|https://www.saos.org.pl/judgments/157620
+saos_id|date|court|case_number|type|score|saos_url
+157620|2015-05-06|SO|X Ga 62/15|Wyrok|40|https://www.saos.org.pl/judgments/157620

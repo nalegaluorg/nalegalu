@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-357052|2018-06-26|SO|VI Ka 1149/17|Wyrok|https://www.saos.org.pl/judgments/357052
-71861|2014-10-17|SO|V K 1272/13|Wyrok|https://www.saos.org.pl/judgments/71861
+saos_id|date|court|case_number|type|score|saos_url
+357052|2018-06-26|SO|VI Ka 1149/17|Wyrok|40|https://www.saos.org.pl/judgments/357052

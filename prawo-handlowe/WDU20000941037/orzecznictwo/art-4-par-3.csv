@@ -1,8 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-514474|2023-10-10|SO|XI GC 1024/21|Zarządzenie|https://www.saos.org.pl/judgments/514474
-510374|2022-09-23|SO|V Pa 36/22|Wyrok|https://www.saos.org.pl/judgments/510374
-480043|2019-01-10|SO|V Pa 81/18|Wyrok|https://www.saos.org.pl/judgments/480043
-310680|2017-10-16|SO|V GC 9/17|Wyrok|https://www.saos.org.pl/judgments/310680
-191695|2015-11-10|SO|VI GC 433/13|Wyrok|https://www.saos.org.pl/judgments/191695
-253763|2015-07-24|SO|XVII AmE 61/14|Wyrok|https://www.saos.org.pl/judgments/253763
-90650|2009-07-24|SN|II CSK 41/09|Wyrok|https://www.saos.org.pl/judgments/90650
+saos_id|date|court|case_number|type|score|saos_url
+90650|2009-07-24|SN|II CSK 41/09|Wyrok|78|https://www.saos.org.pl/judgments/90650
+191695|2015-11-10|SO|VI GC 433/13|Wyrok|40|https://www.saos.org.pl/judgments/191695

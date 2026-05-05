@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-437611|2021-02-12|SO|III C 1464/19|Postanowienie|https://www.saos.org.pl/judgments/437611
-146070|2014-05-22|SO|I ACz 797/14|Postanowienie|https://www.saos.org.pl/judgments/146070
+saos_id|date|court|case_number|type|score|saos_url
+146070|2014-05-22|SO|I ACz 797/14|Postanowienie|47|https://www.saos.org.pl/judgments/146070

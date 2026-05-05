@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-229513|2016-05-24|SO|I ACa 1259/15|Wyrok|https://www.saos.org.pl/judgments/229513
+saos_id|date|court|case_number|type|score|saos_url
+229513|2016-05-24|SO|I ACa 1259/15|Wyrok|56|https://www.saos.org.pl/judgments/229513

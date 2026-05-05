@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-414177|2020-02-26|SO|II AKa 243/19|Wyrok|https://www.saos.org.pl/judgments/414177
-275344|2017-01-12|SO|XXIII Ga 1516/16|Postanowienie|https://www.saos.org.pl/judgments/275344
+saos_id|date|court|case_number|type|score|saos_url
+414177|2020-02-26|SO|II AKa 243/19|Wyrok|56|https://www.saos.org.pl/judgments/414177

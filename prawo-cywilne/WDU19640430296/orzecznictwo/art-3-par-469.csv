@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76744|1995-01-13|SN|II URN 53/94|Postanowienie|https://www.saos.org.pl/judgments/76744
+saos_id|date|court|case_number|type|score|saos_url
+76744|1995-01-13|SN|II URN 53/94|Postanowienie|69|https://www.saos.org.pl/judgments/76744

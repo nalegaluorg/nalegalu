@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-39345|2013-04-10|SO|I ACa 3/13|Wyrok|https://www.saos.org.pl/judgments/39345
+saos_id|date|court|case_number|type|score|saos_url
+39345|2013-04-10|SO|I ACa 3/13|Wyrok|56|https://www.saos.org.pl/judgments/39345

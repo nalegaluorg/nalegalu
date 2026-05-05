@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-411676|2020-03-05|SO|I AGa 61/19|Wyrok|https://www.saos.org.pl/judgments/411676
-399393|2018-12-20|SO|XI Ka 771/18|Wyrok|https://www.saos.org.pl/judgments/399393
-314081|2017-03-17|SO|I ACa 1382/16|Wyrok|https://www.saos.org.pl/judgments/314081
-180233|2015-08-27|SO|VIII GC 212/14|Wyrok|https://www.saos.org.pl/judgments/180233
-24841|2013-09-13|SO|V ACa 448/13|Wyrok|https://www.saos.org.pl/judgments/24841
-18060|2013-07-25|SO|I ACa 291/13|Wyrok|https://www.saos.org.pl/judgments/18060
-102093|2013-06-13|SN|IV CSK 694/12|Wyrok|https://www.saos.org.pl/judgments/102093
-126359|2013-04-02|SO|VIII GC 181/12|Uzasadnienie|https://www.saos.org.pl/judgments/126359
-8697|2012-08-22|SO|I ACa 718/12|Wyrok|https://www.saos.org.pl/judgments/8697
-92189|2010-05-07|SN|III CSK 246/09|Wyrok|https://www.saos.org.pl/judgments/92189
-84736|2006-11-15|SN|V CSK 241/06|Wyrok|https://www.saos.org.pl/judgments/84736
+saos_id|date|court|case_number|type|score|saos_url
+102093|2013-06-13|SN|IV CSK 694/12|Wyrok|78|https://www.saos.org.pl/judgments/102093
+92189|2010-05-07|SN|III CSK 246/09|Wyrok|78|https://www.saos.org.pl/judgments/92189
+84736|2006-11-15|SN|V CSK 241/06|Wyrok|78|https://www.saos.org.pl/judgments/84736
+411676|2020-03-05|SO|I AGa 61/19|Wyrok|56|https://www.saos.org.pl/judgments/411676
+314081|2017-03-17|SO|I ACa 1382/16|Wyrok|56|https://www.saos.org.pl/judgments/314081
+24841|2013-09-13|SO|V ACa 448/13|Wyrok|56|https://www.saos.org.pl/judgments/24841
+18060|2013-07-25|SO|I ACa 291/13|Wyrok|56|https://www.saos.org.pl/judgments/18060
+8697|2012-08-22|SO|I ACa 718/12|Wyrok|56|https://www.saos.org.pl/judgments/8697

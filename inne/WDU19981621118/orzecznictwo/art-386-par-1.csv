@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-416997|2020-01-15|SO|III AUa 628/19|Wyrok|https://www.saos.org.pl/judgments/416997
-416994|2020-01-15|SO|III AUa 511/19|Wyrok|https://www.saos.org.pl/judgments/416994
-408412|2020-01-15|SO|III AUa 512/19|Wyrok|https://www.saos.org.pl/judgments/408412
+saos_id|date|court|case_number|type|score|saos_url
+416997|2020-01-15|SO|III AUa 628/19|Wyrok|56|https://www.saos.org.pl/judgments/416997
+416994|2020-01-15|SO|III AUa 511/19|Wyrok|56|https://www.saos.org.pl/judgments/416994
+408412|2020-01-15|SO|III AUa 512/19|Wyrok|56|https://www.saos.org.pl/judgments/408412

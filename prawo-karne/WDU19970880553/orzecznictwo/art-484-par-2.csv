@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-390312|2019-05-14|SO|III Ca 1684/18|Uzasadnienie|https://www.saos.org.pl/judgments/390312
-200254|2015-12-22|SO|VI Ka 545/15|Wyrok|https://www.saos.org.pl/judgments/200254
+saos_id|date|court|case_number|type|score|saos_url
+390312|2019-05-14|SO|III Ca 1684/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390312

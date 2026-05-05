@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-262219|2016-12-16|SO|III Ca 1143/16|Uzasadnienie|https://www.saos.org.pl/judgments/262219
-227654|2016-04-26|SO|I Ns 1023/15|Postanowienie|https://www.saos.org.pl/judgments/227654
-98794|2012-08-08|SN|III CZ 56/12|Postanowienie|https://www.saos.org.pl/judgments/98794
+saos_id|date|court|case_number|type|score|saos_url
+98794|2012-08-08|SN|III CZ 56/12|Postanowienie|69|https://www.saos.org.pl/judgments/98794
+227654|2016-04-26|SO|I Ns 1023/15|Postanowienie|31|https://www.saos.org.pl/judgments/227654
+262219|2016-12-16|SO|III Ca 1143/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/262219

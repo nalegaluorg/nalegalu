@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-55497|2014-06-27|SO|IV Kz 166/14|Postanowienie|https://www.saos.org.pl/judgments/55497
-84188|2006-03-16|SN|V KK 85/06|Wyrok|https://www.saos.org.pl/judgments/84188
+saos_id|date|court|case_number|type|score|saos_url
+84188|2006-03-16|SN|V KK 85/06|Wyrok|78|https://www.saos.org.pl/judgments/84188
+55497|2014-06-27|SO|IV Kz 166/14|Postanowienie|31|https://www.saos.org.pl/judgments/55497

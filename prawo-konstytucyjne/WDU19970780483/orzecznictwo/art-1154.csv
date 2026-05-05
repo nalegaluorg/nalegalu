@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-110766|2011-03-21|TK|Ts 279/10|Postanowienie|https://www.saos.org.pl/judgments/110766
+saos_id|date|court|case_number|type|score|saos_url
+110766|2011-03-21|TK|Ts 279/10|Postanowienie|80|https://www.saos.org.pl/judgments/110766

@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-477309|2022-05-05|SO|I AGa 171/21|Wyrok|https://www.saos.org.pl/judgments/477309
-286842|2017-04-25|SO|VI GC 443/16|Wyrok|https://www.saos.org.pl/judgments/286842
-279506|2017-03-21|SO|VI GC 334/16|Wyrok|https://www.saos.org.pl/judgments/279506
-269824|2016-10-05|SO|XXV C 760/14|Wyrok|https://www.saos.org.pl/judgments/269824
-217560|2016-03-16|SO|VI GC 304/15|Wyrok|https://www.saos.org.pl/judgments/217560
-191691|2015-11-26|SO|VI GC 306/14|Wyrok|https://www.saos.org.pl/judgments/191691
-58437|2014-08-11|SO|VI GC 25/14|Wyrok|https://www.saos.org.pl/judgments/58437
-34983|2014-01-09|SO|I ACa 833/13|Wyrok|https://www.saos.org.pl/judgments/34983
+saos_id|date|court|case_number|type|score|saos_url
+477309|2022-05-05|SO|I AGa 171/21|Wyrok|56|https://www.saos.org.pl/judgments/477309
+34983|2014-01-09|SO|I ACa 833/13|Wyrok|56|https://www.saos.org.pl/judgments/34983
+286842|2017-04-25|SO|VI GC 443/16|Wyrok|40|https://www.saos.org.pl/judgments/286842
+279506|2017-03-21|SO|VI GC 334/16|Wyrok|40|https://www.saos.org.pl/judgments/279506
+217560|2016-03-16|SO|VI GC 304/15|Wyrok|40|https://www.saos.org.pl/judgments/217560
+191691|2015-11-26|SO|VI GC 306/14|Wyrok|40|https://www.saos.org.pl/judgments/191691
+58437|2014-08-11|SO|VI GC 25/14|Wyrok|40|https://www.saos.org.pl/judgments/58437

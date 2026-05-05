@@ -1,16 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-543992|2025-12-10|SO|XVII AmE 33/25|Wyrok|https://www.saos.org.pl/judgments/543992
-533151|2025-04-14|SO|II Ca 3199/24|Postanowienie|https://www.saos.org.pl/judgments/533151
-533003|2024-12-10|SO|II Ca 1930/24|Postanowienie|https://www.saos.org.pl/judgments/533003
-448195|2021-01-18|SO|VII U 1400/20|Wyrok|https://www.saos.org.pl/judgments/448195
-405424|2019-07-03|SO|XVII Amz 20/19|Postanowienie|https://www.saos.org.pl/judgments/405424
-371922|2018-12-18|SO|III Ua 17/18|Wyrok|https://www.saos.org.pl/judgments/371922
-333912|2018-02-13|SO|XVII AmA 52/16|Wyrok|https://www.saos.org.pl/judgments/333912
-328577|2018-01-15|SO|X Kz 1627/17|Postanowienie|https://www.saos.org.pl/judgments/328577
-249559|2015-11-18|SO|XVII AmE 90/14|Wyrok|https://www.saos.org.pl/judgments/249559
-440255|2015-10-20|SO|XVII AmA 145/11|Wyrok|https://www.saos.org.pl/judgments/440255
-238895|2015-05-04|SO|XVII AmT 72/13|Wyrok|https://www.saos.org.pl/judgments/238895
-240327|2014-06-18|SO|XVII AmA 145/11|Wyrok|https://www.saos.org.pl/judgments/240327
-133540|2014-04-04|SO|VIII GC 85/12|Uzasadnienie|https://www.saos.org.pl/judgments/133540
-35411|2014-02-10|SO|III AUz 3/14|Postanowienie|https://www.saos.org.pl/judgments/35411
-82397|2003-12-12|SN|III RN 135/03|Wyrok|https://www.saos.org.pl/judgments/82397
+saos_id|date|court|case_number|type|score|saos_url
+82397|2003-12-12|SN|III RN 135/03|Wyrok|78|https://www.saos.org.pl/judgments/82397
+35411|2014-02-10|SO|III AUz 3/14|Postanowienie|47|https://www.saos.org.pl/judgments/35411
+448195|2021-01-18|SO|VII U 1400/20|Wyrok|40|https://www.saos.org.pl/judgments/448195
+533151|2025-04-14|SO|II Ca 3199/24|Postanowienie|31|https://www.saos.org.pl/judgments/533151
+533003|2024-12-10|SO|II Ca 1930/24|Postanowienie|31|https://www.saos.org.pl/judgments/533003

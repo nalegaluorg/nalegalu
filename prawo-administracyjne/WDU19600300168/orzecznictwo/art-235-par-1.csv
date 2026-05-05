@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78738|1998-12-02|SN|III RN 92/98|Wyrok|https://www.saos.org.pl/judgments/78738
+saos_id|date|court|case_number|type|score|saos_url
+78738|1998-12-02|SN|III RN 92/98|Wyrok|78|https://www.saos.org.pl/judgments/78738

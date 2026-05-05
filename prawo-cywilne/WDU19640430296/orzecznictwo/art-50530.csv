@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-464423|2022-04-12|SO|XXIII Gz 166/22|Postanowienie|https://www.saos.org.pl/judgments/464423
-443986|2021-07-16|SO|XXIII Gz 390/21|Postanowienie|https://www.saos.org.pl/judgments/443986
-437670|2021-02-23|SO|XXIII Gz 162/21|Postanowienie|https://www.saos.org.pl/judgments/437670
-29865|2013-12-03|SO|VIII Cz 701/13|Postanowienie|https://www.saos.org.pl/judgments/29865
-110966|2012-03-13|TK|P 39/10|Wyrok|https://www.saos.org.pl/judgments/110966
+saos_id|date|court|case_number|type|score|saos_url
+110966|2012-03-13|TK|P 39/10|Wyrok|98|https://www.saos.org.pl/judgments/110966

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163199|2005-04-29|SN|V CK 491/04|Wyrok|https://www.saos.org.pl/judgments/163199
+saos_id|date|court|case_number|type|score|saos_url
+163199|2005-04-29|SN|V CK 491/04|Wyrok|78|https://www.saos.org.pl/judgments/163199

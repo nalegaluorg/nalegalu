@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-107659|2006-07-24|TK|SK 8/06|Wyrok|https://www.saos.org.pl/judgments/107659
+saos_id|date|court|case_number|type|score|saos_url
+107659|2006-07-24|TK|SK 8/06|Wyrok|98|https://www.saos.org.pl/judgments/107659

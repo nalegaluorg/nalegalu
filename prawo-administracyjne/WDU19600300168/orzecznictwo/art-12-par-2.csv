@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-534331|2025-06-16|SO|VIII U 2817/24|Uzasadnienie|https://www.saos.org.pl/judgments/534331
-513832|2024-04-04|SO|VIII U 2996/21|Uzasadnienie|https://www.saos.org.pl/judgments/513832
-516295|2024-02-08|SO|III U 587/23|Wyrok|https://www.saos.org.pl/judgments/516295
-513062|2024-01-03|SO|VIII U 1003/23|Uzasadnienie|https://www.saos.org.pl/judgments/513062
-515233|2023-10-12|SO|XVII AmT 51/22|Wyrok|https://www.saos.org.pl/judgments/515233
-515231|2023-05-25|SO|XVII AmT 49/22|Wyrok|https://www.saos.org.pl/judgments/515231
-494305|2022-12-02|SO|I ACa 549/21|Wyrok|https://www.saos.org.pl/judgments/494305
-464068|2019-02-05|SO|XVII AmK 19/17|Wyrok|https://www.saos.org.pl/judgments/464068
-387871|2018-06-19|SO|XVII Amz 141/17|Postanowienie|https://www.saos.org.pl/judgments/387871
-262284|2016-10-27|SO|VI ACa 1118/15|Wyrok|https://www.saos.org.pl/judgments/262284
+saos_id|date|court|case_number|type|score|saos_url
+494305|2022-12-02|SO|I ACa 549/21|Wyrok|56|https://www.saos.org.pl/judgments/494305
+262284|2016-10-27|SO|VI ACa 1118/15|Wyrok|56|https://www.saos.org.pl/judgments/262284
+534331|2025-06-16|SO|VIII U 2817/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534331
+513832|2024-04-04|SO|VIII U 2996/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/513832
+513062|2024-01-03|SO|VIII U 1003/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513062

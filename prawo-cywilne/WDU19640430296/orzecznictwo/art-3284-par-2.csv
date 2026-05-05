@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-166657|2014-09-12|SN|I CSK 628/13|Wyrok|https://www.saos.org.pl/judgments/166657
+saos_id|date|court|case_number|type|score|saos_url
+166657|2014-09-12|SN|I CSK 628/13|Wyrok|78|https://www.saos.org.pl/judgments/166657

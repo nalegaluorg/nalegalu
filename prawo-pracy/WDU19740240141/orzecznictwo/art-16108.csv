@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-82499|2004-02-17|SN|I PK 217/03|Wyrok|https://www.saos.org.pl/judgments/82499
+saos_id|date|court|case_number|type|score|saos_url
+82499|2004-02-17|SN|I PK 217/03|Wyrok|78|https://www.saos.org.pl/judgments/82499

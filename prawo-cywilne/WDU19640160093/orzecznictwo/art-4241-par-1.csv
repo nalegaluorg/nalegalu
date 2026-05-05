@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-342441|2018-01-17|SO|I ACa 720/17|Wyrok|https://www.saos.org.pl/judgments/342441
-213208|2015-10-29|SO|I ACa 567/15|Wyrok|https://www.saos.org.pl/judgments/213208
-104322|2014-02-07|SN|II CNP 50/13|Postanowienie|https://www.saos.org.pl/judgments/104322
-101061|2013-03-12|SN|IV CNP 77/12|Postanowienie|https://www.saos.org.pl/judgments/101061
-100109|2012-12-13|SN|IV CNP 21/12|Wyrok|https://www.saos.org.pl/judgments/100109
-99878|2012-11-29|SN|V CSK 573/11|Wyrok|https://www.saos.org.pl/judgments/99878
+saos_id|date|court|case_number|type|score|saos_url
+100109|2012-12-13|SN|IV CNP 21/12|Wyrok|78|https://www.saos.org.pl/judgments/100109
+99878|2012-11-29|SN|V CSK 573/11|Wyrok|78|https://www.saos.org.pl/judgments/99878
+104322|2014-02-07|SN|II CNP 50/13|Postanowienie|69|https://www.saos.org.pl/judgments/104322
+101061|2013-03-12|SN|IV CNP 77/12|Postanowienie|69|https://www.saos.org.pl/judgments/101061
+342441|2018-01-17|SO|I ACa 720/17|Wyrok|56|https://www.saos.org.pl/judgments/342441
+213208|2015-10-29|SO|I ACa 567/15|Wyrok|56|https://www.saos.org.pl/judgments/213208

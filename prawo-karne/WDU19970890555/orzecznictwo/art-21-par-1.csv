@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-292291|2017-07-10|SO|II Ka 253/17|Wyrok|https://www.saos.org.pl/judgments/292291
-291521|2017-06-23|SO|II Ka 153/17|Wyrok|https://www.saos.org.pl/judgments/291521
-192735|2015-10-09|SO|IV Ka 890/15|Wyrok|https://www.saos.org.pl/judgments/192735
+saos_id|date|court|case_number|type|score|saos_url
+192735|2015-10-09|SO|IV Ka 890/15|Wyrok|40|https://www.saos.org.pl/judgments/192735

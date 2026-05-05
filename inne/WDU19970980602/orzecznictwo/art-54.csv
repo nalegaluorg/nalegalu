@@ -1,17 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-541874|2025-06-30|SO|VI Ka 261/25|Wyrok|https://www.saos.org.pl/judgments/541874
-527227|2025-05-08|SO|II Ka 527/24|Wyrok|https://www.saos.org.pl/judgments/527227
-519258|2024-09-25|SO|V W 3207/23|Uzasadnienie|https://www.saos.org.pl/judgments/519258
-512202|2023-10-04|SO|VII U 765/22|Wyrok|https://www.saos.org.pl/judgments/512202
-456885|2022-01-21|SO|VI Ka 307/21|Wyrok|https://www.saos.org.pl/judgments/456885
-404573|2019-10-30|SO|II W 404/19|Wyrok|https://www.saos.org.pl/judgments/404573
-376213|2019-01-22|SO|XI W 2435/17|Wyrok|https://www.saos.org.pl/judgments/376213
-373208|2018-11-22|SO|I ACa 86/18|Wyrok|https://www.saos.org.pl/judgments/373208
-332166|2018-02-16|SO|IV Ka 819/17|Uzasadnienie|https://www.saos.org.pl/judgments/332166
-328488|2017-12-14|SO|VII W 458/17|Wyrok|https://www.saos.org.pl/judgments/328488
-297551|2017-07-13|SO|V W 1125/17|Wyrok|https://www.saos.org.pl/judgments/297551
-280888|2017-02-28|SO|IV K 569/15|Wyrok|https://www.saos.org.pl/judgments/280888
-277015|2017-02-13|SO|XI W 2734/16|Wyrok|https://www.saos.org.pl/judgments/277015
-225668|2016-04-18|SO|IV Ka 215/16|Wyrok|https://www.saos.org.pl/judgments/225668
-216311|2016-01-29|SO|V W 6572/15|Wyrok|https://www.saos.org.pl/judgments/216311
-60080|2014-06-06|SO|VI W 2664/13|Wyrok|https://www.saos.org.pl/judgments/60080
+saos_id|date|court|case_number|type|score|saos_url
+373208|2018-11-22|SO|I ACa 86/18|Wyrok|56|https://www.saos.org.pl/judgments/373208
+512202|2023-10-04|SO|VII U 765/22|Wyrok|40|https://www.saos.org.pl/judgments/512202
+456885|2022-01-21|SO|VI Ka 307/21|Wyrok|40|https://www.saos.org.pl/judgments/456885
+225668|2016-04-18|SO|IV Ka 215/16|Wyrok|40|https://www.saos.org.pl/judgments/225668

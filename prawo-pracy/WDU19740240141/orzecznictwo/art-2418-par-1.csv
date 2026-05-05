@@ -1,2 +1,28 @@
-saos_id|date|court|case_number|type|saos_url
-242723|2016-06-28|SO|XXI Pa 301/16|Wyrok|https://www.saos.org.pl/judgments/242723
+saos_id|date|court|case_number|type|score|saos_url
+245204|2016-04-28|SN|I PK 127/15|Wyrok|78|https://www.saos.org.pl/judgments/245204
+243043|2015-07-22|SN|I PK 254/14|Wyrok|78|https://www.saos.org.pl/judgments/243043
+168877|2015-04-14|SN|II PK 141/14|Wyrok|78|https://www.saos.org.pl/judgments/168877
+168875|2015-04-14|SN|II PK 137/14|Wyrok|78|https://www.saos.org.pl/judgments/168875
+168753|2015-04-01|SN|I PK 211/14|Wyrok|78|https://www.saos.org.pl/judgments/168753
+165496|2011-12-02|SN|III PK 30/11|Wyrok|78|https://www.saos.org.pl/judgments/165496
+95840|2011-09-30|SN|III PK 14/11|Wyrok|78|https://www.saos.org.pl/judgments/95840
+94337|2011-03-03|SN|II PK 161/10|Wyrok|78|https://www.saos.org.pl/judgments/94337
+94336|2011-03-03|SN|II PK 107/10|Wyrok|78|https://www.saos.org.pl/judgments/94336
+93168|2010-10-19|SN|II PK 91/10|Wyrok|78|https://www.saos.org.pl/judgments/93168
+92403|2010-06-08|SN|I PK 23/10|Wyrok|78|https://www.saos.org.pl/judgments/92403
+92005|2010-03-11|SN|I PK 191/09|Wyrok|78|https://www.saos.org.pl/judgments/92005
+85648|2007-04-11|SN|II PK 268/06|Wyrok|78|https://www.saos.org.pl/judgments/85648
+84368|2006-06-08|SN|II PK 311/05|Wyrok|78|https://www.saos.org.pl/judgments/84368
+83916|2005-12-07|SN|III PK 29/04|Wyrok|78|https://www.saos.org.pl/judgments/83916
+83741|2005-09-29|SN|I PK 531/03|Wyrok|78|https://www.saos.org.pl/judgments/83741
+83689|2005-08-23|SN|I PK 24/05|Wyrok|78|https://www.saos.org.pl/judgments/83689
+82963|2004-11-04|SN|I PK 25/04|Wyrok|78|https://www.saos.org.pl/judgments/82963
+82484|2004-02-12|SN|I PK 349/03|Wyrok|78|https://www.saos.org.pl/judgments/82484
+81308|2002-03-26|SN|I PKN 933/00|Wyrok|78|https://www.saos.org.pl/judgments/81308
+80998|2001-11-22|SN|I PKN 690/00|Wyrok|78|https://www.saos.org.pl/judgments/80998
+11966|2013-05-09|SO|III AUa 1672/12|Wyrok|56|https://www.saos.org.pl/judgments/11966
+10048|2013-04-09|SO|III AUa 1853/12|Wyrok|56|https://www.saos.org.pl/judgments/10048
+75878|2013-02-28|SO|III APa 32/12|Wyrok|56|https://www.saos.org.pl/judgments/75878
+196927|2015-08-28|SO|IV Pa 44/15|Wyrok|40|https://www.saos.org.pl/judgments/196927
+343980|2018-05-14|SO|VIII Pa 47/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/343980
+64054|2014-10-06|SO|VII Pa 223/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/64054

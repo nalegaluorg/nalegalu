@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-230804|2016-06-10|SO|II AKz 199/16|Postanowienie|https://www.saos.org.pl/judgments/230804
-204472|2016-01-22|SO|II AKa 330/15|Wyrok|https://www.saos.org.pl/judgments/204472
-135700|2012-09-13|SO|II AKa 128/12|Wyrok|https://www.saos.org.pl/judgments/135700
-109110|2009-10-06|TK|SK 46/07|Wyrok|https://www.saos.org.pl/judgments/109110
+saos_id|date|court|case_number|type|score|saos_url
+109110|2009-10-06|TK|SK 46/07|Wyrok|98|https://www.saos.org.pl/judgments/109110
+204472|2016-01-22|SO|II AKa 330/15|Wyrok|56|https://www.saos.org.pl/judgments/204472
+135700|2012-09-13|SO|II AKa 128/12|Wyrok|56|https://www.saos.org.pl/judgments/135700
+230804|2016-06-10|SO|II AKz 199/16|Postanowienie|47|https://www.saos.org.pl/judgments/230804

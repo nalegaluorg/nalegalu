@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-244845|2016-03-10|SN|IV KK 30/16|Postanowienie|https://www.saos.org.pl/judgments/244845
+saos_id|date|court|case_number|type|score|saos_url
+244845|2016-03-10|SN|IV KK 30/16|Postanowienie|69|https://www.saos.org.pl/judgments/244845

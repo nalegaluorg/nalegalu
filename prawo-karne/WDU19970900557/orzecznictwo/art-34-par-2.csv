@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-418404|2020-06-30|SO|II Kow 165/20|Postanowienie|https://www.saos.org.pl/judgments/418404
-346049|2018-05-17|SO|I ACa 1179/17|Wyrok|https://www.saos.org.pl/judgments/346049
-419449|2017-06-08|SO|I ACa 94/17|Wyrok|https://www.saos.org.pl/judgments/419449
-254820|2016-10-20|SO|XII C 1345/16|Wyrok|https://www.saos.org.pl/judgments/254820
-54138|2014-04-30|SO|I ACa 106/14|Wyrok|https://www.saos.org.pl/judgments/54138
-144659|2014-02-18|SO|I C 224/13|Uzasadnienie|https://www.saos.org.pl/judgments/144659
-144160|2014-01-29|SO|I Ca 480/13|Uzasadnienie|https://www.saos.org.pl/judgments/144160
-30238|2013-08-08|SO|I ACa 460/13|Wyrok|https://www.saos.org.pl/judgments/30238
-20384|2013-07-03|SO|II Ca 481/13|Wyrok|https://www.saos.org.pl/judgments/20384
-5536|2012-12-05|SO|I ACa 584/12|Wyrok|https://www.saos.org.pl/judgments/5536
+saos_id|date|court|case_number|type|score|saos_url
+346049|2018-05-17|SO|I ACa 1179/17|Wyrok|56|https://www.saos.org.pl/judgments/346049
+419449|2017-06-08|SO|I ACa 94/17|Wyrok|56|https://www.saos.org.pl/judgments/419449
+54138|2014-04-30|SO|I ACa 106/14|Wyrok|56|https://www.saos.org.pl/judgments/54138
+30238|2013-08-08|SO|I ACa 460/13|Wyrok|56|https://www.saos.org.pl/judgments/30238
+5536|2012-12-05|SO|I ACa 584/12|Wyrok|56|https://www.saos.org.pl/judgments/5536
+254820|2016-10-20|SO|XII C 1345/16|Wyrok|40|https://www.saos.org.pl/judgments/254820

@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-367783|2018-05-30|SO|IV P 668/17|Wyrok|https://www.saos.org.pl/judgments/367783
-369819|2017-02-09|SO|VIII Pa 139/16|Wyrok|https://www.saos.org.pl/judgments/369819
-207463|2015-12-22|SO|IV P 16/15|Wyrok|https://www.saos.org.pl/judgments/207463
-99637|2012-11-13|SN|III PK 4/12|Wyrok|https://www.saos.org.pl/judgments/99637
-95069|2011-05-24|SN|II PK 299/10|Wyrok|https://www.saos.org.pl/judgments/95069
-83101|2005-01-12|SN|I PK 142/04|Wyrok|https://www.saos.org.pl/judgments/83101
-82318|2003-11-12|SN|I PK 625/02|Wyrok|https://www.saos.org.pl/judgments/82318
-80850|2001-09-21|SN|I PKN 627/00|Wyrok|https://www.saos.org.pl/judgments/80850
+saos_id|date|court|case_number|type|score|saos_url
+99637|2012-11-13|SN|III PK 4/12|Wyrok|78|https://www.saos.org.pl/judgments/99637
+95069|2011-05-24|SN|II PK 299/10|Wyrok|78|https://www.saos.org.pl/judgments/95069
+83101|2005-01-12|SN|I PK 142/04|Wyrok|78|https://www.saos.org.pl/judgments/83101
+82318|2003-11-12|SN|I PK 625/02|Wyrok|78|https://www.saos.org.pl/judgments/82318
+80850|2001-09-21|SN|I PKN 627/00|Wyrok|78|https://www.saos.org.pl/judgments/80850

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-270126|2017-01-05|SO|XVIII C 1392/16|Wyrok|https://www.saos.org.pl/judgments/270126
-191036|2015-09-25|SO|V GC 358/15|Postanowienie|https://www.saos.org.pl/judgments/191036
-515|2009-05-25|SO|V ACz 300/09|Postanowienie|https://www.saos.org.pl/judgments/515
+saos_id|date|court|case_number|type|score|saos_url
+515|2009-05-25|SO|V ACz 300/09|Postanowienie|47|https://www.saos.org.pl/judgments/515
+270126|2017-01-05|SO|XVIII C 1392/16|Wyrok|40|https://www.saos.org.pl/judgments/270126

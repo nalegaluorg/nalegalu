@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-206475|2014-11-25|TK|K 54/13|Wyrok|https://www.saos.org.pl/judgments/206475
-30238|2013-08-08|SO|I ACa 460/13|Wyrok|https://www.saos.org.pl/judgments/30238
+saos_id|date|court|case_number|type|score|saos_url
+206475|2014-11-25|TK|K 54/13|Wyrok|98|https://www.saos.org.pl/judgments/206475
+30238|2013-08-08|SO|I ACa 460/13|Wyrok|56|https://www.saos.org.pl/judgments/30238

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-346345|2016-10-25|SO|I C 25/15|Wyrok|https://www.saos.org.pl/judgments/346345
+saos_id|date|court|case_number|type|score|saos_url
+346345|2016-10-25|SO|I C 25/15|Wyrok|40|https://www.saos.org.pl/judgments/346345

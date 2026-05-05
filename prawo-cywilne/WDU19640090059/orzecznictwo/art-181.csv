@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-438141|2020-09-08|SO|I C 120/17|Wyrok|https://www.saos.org.pl/judgments/438141
-433977|2019-05-08|SO|I AGa 274/18|Wyrok|https://www.saos.org.pl/judgments/433977
-336463|2018-01-31|SO|I ACa 1706/16|Wyrok|https://www.saos.org.pl/judgments/336463
-278112|2017-03-20|SO|VIII Gz 27/17|Postanowienie|https://www.saos.org.pl/judgments/278112
-180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|https://www.saos.org.pl/judgments/180563
-154244|2015-04-01|SO|III AUa 951/14|Wyrok|https://www.saos.org.pl/judgments/154244
-44173|2014-01-16|SO|V ACa 761/13|Wyrok|https://www.saos.org.pl/judgments/44173
-29801|2013-06-28|SO|IV Ca 290/13|Postanowienie|https://www.saos.org.pl/judgments/29801
-9659|2013-03-26|SO|I ACz 262/13|Postanowienie|https://www.saos.org.pl/judgments/9659
+saos_id|date|court|case_number|type|score|saos_url
+433977|2019-05-08|SO|I AGa 274/18|Wyrok|56|https://www.saos.org.pl/judgments/433977
+336463|2018-01-31|SO|I ACa 1706/16|Wyrok|56|https://www.saos.org.pl/judgments/336463
+154244|2015-04-01|SO|III AUa 951/14|Wyrok|56|https://www.saos.org.pl/judgments/154244
+44173|2014-01-16|SO|V ACa 761/13|Wyrok|56|https://www.saos.org.pl/judgments/44173
+9659|2013-03-26|SO|I ACz 262/13|Postanowienie|47|https://www.saos.org.pl/judgments/9659
+180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|31|https://www.saos.org.pl/judgments/180563

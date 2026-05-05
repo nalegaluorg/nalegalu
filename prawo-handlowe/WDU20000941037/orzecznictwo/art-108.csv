@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-433567|2021-01-15|SO|V AGa 119/19|Postanowienie|https://www.saos.org.pl/judgments/433567
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-414570|2020-02-25|SO|V ACa 600/19|Wyrok|https://www.saos.org.pl/judgments/414570
-467942|2019-09-17|SO|XXIV C 805/16|Wyrok|https://www.saos.org.pl/judgments/467942
-416755|2019-04-15|SO|V ACa 40/18|Wyrok|https://www.saos.org.pl/judgments/416755
-383601|2019-04-15|SO|V ACa 485/18|Wyrok|https://www.saos.org.pl/judgments/383601
-321297|2017-10-24|SO|III AUa 591/17|Wyrok|https://www.saos.org.pl/judgments/321297
-253139|2016-09-29|SO|VI U 198/14|Wyrok|https://www.saos.org.pl/judgments/253139
-46421|2014-04-08|SO|I ACa 4/14|Wyrok|https://www.saos.org.pl/judgments/46421
-43682|2014-03-26|SO|III AUa 552/13|Wyrok|https://www.saos.org.pl/judgments/43682
-287326|2013-02-05|SO|XX GC 154/12|Wyrok|https://www.saos.org.pl/judgments/287326
+saos_id|date|court|case_number|type|score|saos_url
+414570|2020-02-25|SO|V ACa 600/19|Wyrok|56|https://www.saos.org.pl/judgments/414570
+416755|2019-04-15|SO|V ACa 40/18|Wyrok|56|https://www.saos.org.pl/judgments/416755
+383601|2019-04-15|SO|V ACa 485/18|Wyrok|56|https://www.saos.org.pl/judgments/383601
+321297|2017-10-24|SO|III AUa 591/17|Wyrok|56|https://www.saos.org.pl/judgments/321297
+46421|2014-04-08|SO|I ACa 4/14|Wyrok|56|https://www.saos.org.pl/judgments/46421
+43682|2014-03-26|SO|III AUa 552/13|Wyrok|56|https://www.saos.org.pl/judgments/43682
+433567|2021-01-15|SO|V AGa 119/19|Postanowienie|47|https://www.saos.org.pl/judgments/433567

@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-472651|2022-05-24|SO|IV Ka 489/21|Uzasadnienie|https://www.saos.org.pl/judgments/472651
-350403|2018-06-15|SO|IV Ka 320/18|Wyrok|https://www.saos.org.pl/judgments/350403
-140380|2013-09-11|SO|II AKa 256/13|Wyrok|https://www.saos.org.pl/judgments/140380
-18262|2013-07-17|SO|II Ka 305/13|Wyrok|https://www.saos.org.pl/judgments/18262
-16235|2013-04-25|SO|II K 10/13|Uzasadnienie|https://www.saos.org.pl/judgments/16235
+saos_id|date|court|case_number|type|score|saos_url
+140380|2013-09-11|SO|II AKa 256/13|Wyrok|56|https://www.saos.org.pl/judgments/140380

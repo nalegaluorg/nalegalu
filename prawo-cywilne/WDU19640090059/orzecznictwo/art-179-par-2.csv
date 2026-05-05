@@ -1,20 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-544918|2026-04-17|SO|IV GC 1307/25|Uzasadnienie|https://www.saos.org.pl/judgments/544918
-532950|2025-09-02|SO|IV GC 844/25|Uzasadnienie|https://www.saos.org.pl/judgments/532950
-532898|2025-07-31|SO|IV GC 844/25|Postanowienie|https://www.saos.org.pl/judgments/532898
-390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|https://www.saos.org.pl/judgments/390318
-349621|2018-06-20|SO|I Ca 214/18|Postanowienie|https://www.saos.org.pl/judgments/349621
-352782|2018-06-12|SO|III Cz 574/18|Postanowienie|https://www.saos.org.pl/judgments/352782
-352764|2018-06-12|SO|III Cz 1035/18|Postanowienie|https://www.saos.org.pl/judgments/352764
-331620|2017-11-07|SO|III Cz 1094/17|Postanowienie|https://www.saos.org.pl/judgments/331620
-272809|2017-02-09|SO|I ACz 2706/16|Postanowienie|https://www.saos.org.pl/judgments/272809
-221170|2016-05-04|SO|XIII Ga 1038/15|Uzasadnienie|https://www.saos.org.pl/judgments/221170
-198893|2016-01-14|SO|VIII Gz 148/15|Postanowienie|https://www.saos.org.pl/judgments/198893
-185778|2015-10-05|SO|III Nsm 652/15|Postanowienie|https://www.saos.org.pl/judgments/185778
-188674|2015-09-29|SO|VIII Gz 97/15|Postanowienie|https://www.saos.org.pl/judgments/188674
-180882|2015-09-18|SO|VIII Ga 260/15|Postanowienie|https://www.saos.org.pl/judgments/180882
-180881|2015-09-18|SO|VIII Ga 259/15|Postanowienie|https://www.saos.org.pl/judgments/180881
-180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|https://www.saos.org.pl/judgments/180563
-68015|2014-09-09|SO|II Ca 901/14|Postanowienie|https://www.saos.org.pl/judgments/68015
-11504|2012-05-24|SO|VIII Gz 65/13|Postanowienie|https://www.saos.org.pl/judgments/11504
-11503|2012-05-24|SO|VIII Gz 64/13|Postanowienie|https://www.saos.org.pl/judgments/11503
+saos_id|date|court|case_number|type|score|saos_url
+272809|2017-02-09|SO|I ACz 2706/16|Postanowienie|47|https://www.saos.org.pl/judgments/272809
+185778|2015-10-05|SO|III Nsm 652/15|Postanowienie|31|https://www.saos.org.pl/judgments/185778
+180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|31|https://www.saos.org.pl/judgments/180563
+68015|2014-09-09|SO|II Ca 901/14|Postanowienie|31|https://www.saos.org.pl/judgments/68015
+390318|2019-05-06|SO|III Ca 2028/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390318
+221170|2016-05-04|SO|XIII Ga 1038/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/221170

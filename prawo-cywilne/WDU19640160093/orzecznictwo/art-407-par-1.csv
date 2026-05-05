@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-423703|2020-06-30|SO|I C 867/19|Wyrok|https://www.saos.org.pl/judgments/423703
-231258|2016-06-08|SO|I Ns 818/15|Postanowienie|https://www.saos.org.pl/judgments/231258
-154017|2015-04-29|SO|VIII GC 180/14|Postanowienie|https://www.saos.org.pl/judgments/154017
-104147|2014-01-22|SN|III CZ 62/13|Postanowienie|https://www.saos.org.pl/judgments/104147
-102273|2013-06-27|SN|III CZP 27/13|Uchwała|https://www.saos.org.pl/judgments/102273
+saos_id|date|court|case_number|type|score|saos_url
+102273|2013-06-27|SN|III CZP 27/13|Uchwała|89|https://www.saos.org.pl/judgments/102273
+104147|2014-01-22|SN|III CZ 62/13|Postanowienie|69|https://www.saos.org.pl/judgments/104147
+231258|2016-06-08|SO|I Ns 818/15|Postanowienie|31|https://www.saos.org.pl/judgments/231258

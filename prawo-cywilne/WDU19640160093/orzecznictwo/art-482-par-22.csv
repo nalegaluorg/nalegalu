@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-541746|2024-11-13|SO|I C 1221/16|Wyrok|https://www.saos.org.pl/judgments/541746
-472135|2019-05-21|SO|III C 1724/13|Wyrok|https://www.saos.org.pl/judgments/472135
-366288|2018-08-13|SO|II C 891/12|Uzasadnienie|https://www.saos.org.pl/judgments/366288
+saos_id|date|court|case_number|type|score|saos_url
+472135|2019-05-21|SO|III C 1724/13|Wyrok|40|https://www.saos.org.pl/judgments/472135
+366288|2018-08-13|SO|II C 891/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/366288

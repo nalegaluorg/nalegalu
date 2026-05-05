@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-453737|2021-12-03|SO|VII U 885/21|Wyrok|https://www.saos.org.pl/judgments/453737
-257780|2016-09-27|SO|VII U 1538/15|Wyrok|https://www.saos.org.pl/judgments/257780
-9851|2013-03-28|SO|V Pa 45/13|Wyrok|https://www.saos.org.pl/judgments/9851
+saos_id|date|court|case_number|type|score|saos_url
+453737|2021-12-03|SO|VII U 885/21|Wyrok|40|https://www.saos.org.pl/judgments/453737
+9851|2013-03-28|SO|V Pa 45/13|Wyrok|40|https://www.saos.org.pl/judgments/9851

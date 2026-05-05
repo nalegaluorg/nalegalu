@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-447794|2021-09-08|SO|VI Ka 1265/20|Wyrok|https://www.saos.org.pl/judgments/447794
-356984|2018-06-25|SO|VI Ka 341/18|Wyrok|https://www.saos.org.pl/judgments/356984
-193036|2015-12-18|SO|II Ka 618/15|Wyrok|https://www.saos.org.pl/judgments/193036
-158269|2015-06-02|SO|VI Ka 396/15|Wyrok|https://www.saos.org.pl/judgments/158269
-126944|2014-12-19|SO|VI W 5505/13|Wyrok|https://www.saos.org.pl/judgments/126944
-71119|2014-10-20|SO|IV Kz 152/14|Postanowienie|https://www.saos.org.pl/judgments/71119
-206456|2014-06-03|TK|K 19/11|Wyrok|https://www.saos.org.pl/judgments/206456
-56147|2013-07-17|SO|IV Kz 97/14|Postanowienie|https://www.saos.org.pl/judgments/56147
+saos_id|date|court|case_number|type|score|saos_url
+206456|2014-06-03|TK|K 19/11|Wyrok|98|https://www.saos.org.pl/judgments/206456
+447794|2021-09-08|SO|VI Ka 1265/20|Wyrok|40|https://www.saos.org.pl/judgments/447794
+356984|2018-06-25|SO|VI Ka 341/18|Wyrok|40|https://www.saos.org.pl/judgments/356984
+71119|2014-10-20|SO|IV Kz 152/14|Postanowienie|31|https://www.saos.org.pl/judgments/71119
+56147|2013-07-17|SO|IV Kz 97/14|Postanowienie|31|https://www.saos.org.pl/judgments/56147

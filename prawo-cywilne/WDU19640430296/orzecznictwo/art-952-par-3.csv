@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-462062|2022-01-27|SO|II Ca 750/20|Postanowienie|https://www.saos.org.pl/judgments/462062
-481090|2021-03-30|SO|V Ca 260/20|Postanowienie|https://www.saos.org.pl/judgments/481090
-186155|2015-10-15|SO|IV Ca 488/15|Postanowienie|https://www.saos.org.pl/judgments/186155
-177041|2015-06-26|SO|II Ca 1012/14|Postanowienie|https://www.saos.org.pl/judgments/177041
-132534|2014-11-05|SO|II Ca 527/14|Postanowienie|https://www.saos.org.pl/judgments/132534
-36089|2013-12-30|SO|II Ca 818/13|Postanowienie|https://www.saos.org.pl/judgments/36089
-143905|2013-05-24|SO|II Ca 1303/12|Postanowienie|https://www.saos.org.pl/judgments/143905
+saos_id|date|court|case_number|type|score|saos_url
+132534|2014-11-05|SO|II Ca 527/14|Postanowienie|31|https://www.saos.org.pl/judgments/132534

@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-411506|2020-02-07|SO|VI P 142/18|Wyrok|https://www.saos.org.pl/judgments/411506
-320683|2017-11-29|SO|VIII Pa 106/17|Wyrok|https://www.saos.org.pl/judgments/320683
-284789|2017-02-22|SO|VI P 783/15|Wyrok|https://www.saos.org.pl/judgments/284789
-285871|2017-02-15|SO|VI P 785/15|Wyrok|https://www.saos.org.pl/judgments/285871
-78513|1998-09-10|SN|I PKN 301/98|Wyrok|https://www.saos.org.pl/judgments/78513
+saos_id|date|court|case_number|type|score|saos_url
+78513|1998-09-10|SN|I PKN 301/98|Wyrok|78|https://www.saos.org.pl/judgments/78513

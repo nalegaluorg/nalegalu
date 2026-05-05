@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-384671|2016-03-15|SO|XXVI GC 1094/14|Wyrok|https://www.saos.org.pl/judgments/384671
-150018|2014-11-28|SO|I ACa 805/14|Wyrok|https://www.saos.org.pl/judgments/150018
-46578|2014-04-17|SO|I ACa 910/13|Wyrok|https://www.saos.org.pl/judgments/46578
+saos_id|date|court|case_number|type|score|saos_url
+150018|2014-11-28|SO|I ACa 805/14|Wyrok|56|https://www.saos.org.pl/judgments/150018
+46578|2014-04-17|SO|I ACa 910/13|Wyrok|56|https://www.saos.org.pl/judgments/46578

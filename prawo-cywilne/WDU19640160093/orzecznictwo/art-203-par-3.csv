@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-143748|2013-11-12|SO|I C 1990/12|Wyrok|https://www.saos.org.pl/judgments/143748
+saos_id|date|court|case_number|type|score|saos_url
+143748|2013-11-12|SO|I C 1990/12|Wyrok|40|https://www.saos.org.pl/judgments/143748

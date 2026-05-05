@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-483650|2022-11-22|SO|III AUa 1558/21|Wyrok|https://www.saos.org.pl/judgments/483650
-384793|2019-05-16|SO|I ACa 11/19|Wyrok|https://www.saos.org.pl/judgments/384793
-302658|2016-06-23|SO|I ACa 43/16|Wyrok|https://www.saos.org.pl/judgments/302658
-259376|2014-11-28|SO|XVII AmA 160/11|Wyrok|https://www.saos.org.pl/judgments/259376
-160371|2014-02-06|TK|Ts 254/13|Postanowienie|https://www.saos.org.pl/judgments/160371
-253188|2013-12-17|SO|XVII AmE 78/12|Wyrok|https://www.saos.org.pl/judgments/253188
-92078|2010-03-18|SN|II UZP 2/10|Uchwała|https://www.saos.org.pl/judgments/92078
-87393|2008-02-19|SN|II UZP 8/07|Uchwała|https://www.saos.org.pl/judgments/87393
-84577|2006-09-21|SN|II PZ 33/06|Postanowienie|https://www.saos.org.pl/judgments/84577
-76772|1995-01-31|SN|III AZP 11/94|Uchwała|https://www.saos.org.pl/judgments/76772
+saos_id|date|court|case_number|type|score|saos_url
+92078|2010-03-18|SN|II UZP 2/10|Uchwała|89|https://www.saos.org.pl/judgments/92078
+87393|2008-02-19|SN|II UZP 8/07|Uchwała|89|https://www.saos.org.pl/judgments/87393
+76772|1995-01-31|SN|III AZP 11/94|Uchwała|89|https://www.saos.org.pl/judgments/76772
+160371|2014-02-06|TK|Ts 254/13|Postanowienie|80|https://www.saos.org.pl/judgments/160371
+84577|2006-09-21|SN|II PZ 33/06|Postanowienie|69|https://www.saos.org.pl/judgments/84577
+483650|2022-11-22|SO|III AUa 1558/21|Wyrok|56|https://www.saos.org.pl/judgments/483650
+384793|2019-05-16|SO|I ACa 11/19|Wyrok|56|https://www.saos.org.pl/judgments/384793
+302658|2016-06-23|SO|I ACa 43/16|Wyrok|56|https://www.saos.org.pl/judgments/302658

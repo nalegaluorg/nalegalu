@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-311246|2017-09-12|SO|III Ca 760/17|Postanowienie|https://www.saos.org.pl/judgments/311246
-100301|2013-01-10|SN|IV CSK 362/12|Postanowienie|https://www.saos.org.pl/judgments/100301
-205708|1996-11-20|TK|K 27/95|Wyrok|https://www.saos.org.pl/judgments/205708
+saos_id|date|court|case_number|type|score|saos_url
+205708|1996-11-20|TK|K 27/95|Wyrok|98|https://www.saos.org.pl/judgments/205708
+100301|2013-01-10|SN|IV CSK 362/12|Postanowienie|69|https://www.saos.org.pl/judgments/100301

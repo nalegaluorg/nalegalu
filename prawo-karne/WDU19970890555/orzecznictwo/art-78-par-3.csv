@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-524852|2024-07-23|SO|IV Ka 490/24|Wyrok|https://www.saos.org.pl/judgments/524852
-322826|2017-11-22|SO|II AKa 229/17|Wyrok|https://www.saos.org.pl/judgments/322826
+saos_id|date|court|case_number|type|score|saos_url
+322826|2017-11-22|SO|II AKa 229/17|Wyrok|56|https://www.saos.org.pl/judgments/322826
+524852|2024-07-23|SO|IV Ka 490/24|Wyrok|40|https://www.saos.org.pl/judgments/524852

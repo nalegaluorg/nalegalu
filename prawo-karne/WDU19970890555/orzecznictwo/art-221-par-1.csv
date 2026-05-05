@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-434841|2021-03-01|SO|II W 172/19|Wyrok|https://www.saos.org.pl/judgments/434841
-411848|2019-04-03|SO|VII W 205/18|Uzasadnienie|https://www.saos.org.pl/judgments/411848
-320752|2017-09-22|SO|I C 1896/16|Zarządzenie|https://www.saos.org.pl/judgments/320752
+saos_id|date|court|case_number|type|score|saos_url
+320752|2017-09-22|SO|I C 1896/16|Zarządzenie|27|https://www.saos.org.pl/judgments/320752

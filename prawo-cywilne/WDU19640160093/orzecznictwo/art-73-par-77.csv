@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-190222|2015-07-08|SO|I ACa 387/15|Wyrok|https://www.saos.org.pl/judgments/190222
-86814|2007-11-09|SN|V CSK 263/07|Wyrok|https://www.saos.org.pl/judgments/86814
-78806|1999-01-22|SN|I PKN 474/98|Wyrok|https://www.saos.org.pl/judgments/78806
+saos_id|date|court|case_number|type|score|saos_url
+86814|2007-11-09|SN|V CSK 263/07|Wyrok|78|https://www.saos.org.pl/judgments/86814
+78806|1999-01-22|SN|I PKN 474/98|Wyrok|78|https://www.saos.org.pl/judgments/78806
+190222|2015-07-08|SO|I ACa 387/15|Wyrok|56|https://www.saos.org.pl/judgments/190222

@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-489308|2022-09-08|SO|III Ca 584/21|Uzasadnienie|https://www.saos.org.pl/judgments/489308
-441431|2021-05-28|SO|XI GC 373/21|Zarządzenie|https://www.saos.org.pl/judgments/441431
-376571|2019-02-08|SO|I ACa 767/18|Wyrok|https://www.saos.org.pl/judgments/376571
-218093|2016-04-19|SO|IX P 621/15|Zarządzenie|https://www.saos.org.pl/judgments/218093
-297359|2015-09-28|SO|II Ca 773/14|Wyrok|https://www.saos.org.pl/judgments/297359
+saos_id|date|court|case_number|type|score|saos_url
+376571|2019-02-08|SO|I ACa 767/18|Wyrok|56|https://www.saos.org.pl/judgments/376571
+489308|2022-09-08|SO|III Ca 584/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/489308

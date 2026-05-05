@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-318395|2017-09-21|SO|III APa 13/17|Wyrok|https://www.saos.org.pl/judgments/318395
-211865|2015-09-25|SO|I ACa 343/15|Wyrok|https://www.saos.org.pl/judgments/211865
-84325|2006-05-17|SN|II PZ 17/06|Postanowienie|https://www.saos.org.pl/judgments/84325
+saos_id|date|court|case_number|type|score|saos_url
+84325|2006-05-17|SN|II PZ 17/06|Postanowienie|69|https://www.saos.org.pl/judgments/84325
+318395|2017-09-21|SO|III APa 13/17|Wyrok|56|https://www.saos.org.pl/judgments/318395
+211865|2015-09-25|SO|I ACa 343/15|Wyrok|56|https://www.saos.org.pl/judgments/211865

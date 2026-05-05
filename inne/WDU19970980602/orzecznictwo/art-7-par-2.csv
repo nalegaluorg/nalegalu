@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-448396|2021-04-08|SO|IV Ka 274/21|Wyrok|https://www.saos.org.pl/judgments/448396
+saos_id|date|court|case_number|type|score|saos_url
+448396|2021-04-08|SO|IV Ka 274/21|Wyrok|40|https://www.saos.org.pl/judgments/448396

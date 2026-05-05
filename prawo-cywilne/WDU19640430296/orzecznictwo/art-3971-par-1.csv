@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-243631|2015-10-21|SN|III CZ 49/15|Postanowienie|https://www.saos.org.pl/judgments/243631
-170016|2015-02-16|SO|II Cz 98/15|Postanowienie|https://www.saos.org.pl/judgments/170016
-166899|2014-09-30|SN|III UZ 9/14|Postanowienie|https://www.saos.org.pl/judgments/166899
+saos_id|date|court|case_number|type|score|saos_url
+243631|2015-10-21|SN|III CZ 49/15|Postanowienie|69|https://www.saos.org.pl/judgments/243631
+166899|2014-09-30|SN|III UZ 9/14|Postanowienie|69|https://www.saos.org.pl/judgments/166899

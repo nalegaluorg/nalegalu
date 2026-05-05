@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-201006|2015-05-05|KIO|KIO 773/15|Wyrok|https://www.saos.org.pl/judgments/201006
+saos_id|date|court|case_number|type|score|saos_url
+201006|2015-05-05|KIO|KIO 773/15|Wyrok|44|https://www.saos.org.pl/judgments/201006

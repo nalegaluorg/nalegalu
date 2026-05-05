@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-110829|2011-10-12|TK|Ts 317/10|Postanowienie|https://www.saos.org.pl/judgments/110829
-110851|2011-05-25|TK|Ts 337/10|Postanowienie|https://www.saos.org.pl/judgments/110851
-110827|2011-01-18|TK|Ts 317/10|Postanowienie|https://www.saos.org.pl/judgments/110827
-89420|2009-01-06|SN|II PK 117/08|Wyrok|https://www.saos.org.pl/judgments/89420
+saos_id|date|court|case_number|type|score|saos_url
+110829|2011-10-12|TK|Ts 317/10|Postanowienie|80|https://www.saos.org.pl/judgments/110829
+110851|2011-05-25|TK|Ts 337/10|Postanowienie|80|https://www.saos.org.pl/judgments/110851
+110827|2011-01-18|TK|Ts 317/10|Postanowienie|80|https://www.saos.org.pl/judgments/110827
+89420|2009-01-06|SN|II PK 117/08|Wyrok|78|https://www.saos.org.pl/judgments/89420

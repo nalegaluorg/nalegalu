@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-169428|2015-06-26|SO|II Kop 12/15|Postanowienie|https://www.saos.org.pl/judgments/169428
-137545|2013-03-21|SO|II AKz 6/13|Postanowienie|https://www.saos.org.pl/judgments/137545
-89776|2009-03-03|SN|I KZP 30/08|Uchwała|https://www.saos.org.pl/judgments/89776
+saos_id|date|court|case_number|type|score|saos_url
+89776|2009-03-03|SN|I KZP 30/08|Uchwała|89|https://www.saos.org.pl/judgments/89776
+137545|2013-03-21|SO|II AKz 6/13|Postanowienie|47|https://www.saos.org.pl/judgments/137545
+169428|2015-06-26|SO|II Kop 12/15|Postanowienie|31|https://www.saos.org.pl/judgments/169428

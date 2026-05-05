@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-98443|2012-06-21|SN|III CZP 31/12|Postanowienie|https://www.saos.org.pl/judgments/98443
+saos_id|date|court|case_number|type|score|saos_url
+98443|2012-06-21|SN|III CZP 31/12|Postanowienie|69|https://www.saos.org.pl/judgments/98443

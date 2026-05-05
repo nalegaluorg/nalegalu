@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-406339|2019-12-18|SO|IV Ka 910/19|Wyrok|https://www.saos.org.pl/judgments/406339
-20395|2013-08-27|SO|IV Ka 776/13|Wyrok|https://www.saos.org.pl/judgments/20395
+saos_id|date|court|case_number|type|score|saos_url
+406339|2019-12-18|SO|IV Ka 910/19|Wyrok|40|https://www.saos.org.pl/judgments/406339

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-93301|2010-10-28|SN|WZP 1/10|Uchwała|https://www.saos.org.pl/judgments/93301
-108609|2008-02-12|TK|P 62/07|Postanowienie|https://www.saos.org.pl/judgments/108609
+saos_id|date|court|case_number|type|score|saos_url
+93301|2010-10-28|SN|WZP 1/10|Uchwała|89|https://www.saos.org.pl/judgments/93301
+108609|2008-02-12|TK|P 62/07|Postanowienie|80|https://www.saos.org.pl/judgments/108609

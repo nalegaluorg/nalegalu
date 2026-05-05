@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-134301|2014-12-05|SO|III Ca 1555/14|Uzasadnienie|https://www.saos.org.pl/judgments/134301
-134838|2014-12-04|SO|III Ca 1557/14|Uzasadnienie|https://www.saos.org.pl/judgments/134838
-132884|2014-12-04|SO|III Ca 1558/14|Uzasadnienie|https://www.saos.org.pl/judgments/132884
-132882|2014-12-04|SO|III Ca 1556/14|Uzasadnienie|https://www.saos.org.pl/judgments/132882
+saos_id|date|court|case_number|type|score|saos_url
+134301|2014-12-05|SO|III Ca 1555/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/134301
+134838|2014-12-04|SO|III Ca 1557/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/134838
+132884|2014-12-04|SO|III Ca 1558/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/132884
+132882|2014-12-04|SO|III Ca 1556/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/132882

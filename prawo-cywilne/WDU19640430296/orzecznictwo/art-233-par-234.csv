@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-464813|2021-09-07|SO|I ACa 245/20|Wyrok|https://www.saos.org.pl/judgments/464813
-45062|2014-01-28|SO|III AUa 369/13|Wyrok|https://www.saos.org.pl/judgments/45062
-40848|2013-12-03|SO|III AUa 403/13|Wyrok|https://www.saos.org.pl/judgments/40848
-41781|2013-11-07|SO|III AUa 364/13|Wyrok|https://www.saos.org.pl/judgments/41781
-37255|2013-09-11|SO|III AUa 201/13|Wyrok|https://www.saos.org.pl/judgments/37255
-34263|2013-09-11|SO|III AUa 225/13|Wyrok|https://www.saos.org.pl/judgments/34263
-34633|2013-07-24|SO|III AUa 164/13|Wyrok|https://www.saos.org.pl/judgments/34633
-6927|2012-05-30|SO|I ACa 228/11|Wyrok|https://www.saos.org.pl/judgments/6927
-92475|2010-06-18|SN|V CSK 422/09|Wyrok|https://www.saos.org.pl/judgments/92475
-91756|2010-02-03|SN|II CSK 430/09|Postanowienie|https://www.saos.org.pl/judgments/91756
+saos_id|date|court|case_number|type|score|saos_url
+92475|2010-06-18|SN|V CSK 422/09|Wyrok|78|https://www.saos.org.pl/judgments/92475
+91756|2010-02-03|SN|II CSK 430/09|Postanowienie|69|https://www.saos.org.pl/judgments/91756
+464813|2021-09-07|SO|I ACa 245/20|Wyrok|56|https://www.saos.org.pl/judgments/464813
+45062|2014-01-28|SO|III AUa 369/13|Wyrok|56|https://www.saos.org.pl/judgments/45062
+40848|2013-12-03|SO|III AUa 403/13|Wyrok|56|https://www.saos.org.pl/judgments/40848
+41781|2013-11-07|SO|III AUa 364/13|Wyrok|56|https://www.saos.org.pl/judgments/41781
+37255|2013-09-11|SO|III AUa 201/13|Wyrok|56|https://www.saos.org.pl/judgments/37255
+34263|2013-09-11|SO|III AUa 225/13|Wyrok|56|https://www.saos.org.pl/judgments/34263
+34633|2013-07-24|SO|III AUa 164/13|Wyrok|56|https://www.saos.org.pl/judgments/34633
+6927|2012-05-30|SO|I ACa 228/11|Wyrok|56|https://www.saos.org.pl/judgments/6927

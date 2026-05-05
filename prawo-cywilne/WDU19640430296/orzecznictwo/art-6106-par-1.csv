@@ -1,12 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-487713|2023-02-15|SO|VI Ns 541/22|Zarządzenie|https://www.saos.org.pl/judgments/487713
-475773|2022-08-24|SO|VI Ns 528/21|Zarządzenie|https://www.saos.org.pl/judgments/475773
-419899|2020-08-24|SO|I Ca 234/20|Postanowienie|https://www.saos.org.pl/judgments/419899
-403175|2019-11-13|SO|I Ns 805/19|Postanowienie|https://www.saos.org.pl/judgments/403175
-356574|2018-09-12|SO|I Ca 327/18|Postanowienie|https://www.saos.org.pl/judgments/356574
-259818|2016-11-29|SO|I Ns 1325/15|Postanowienie|https://www.saos.org.pl/judgments/259818
-241130|2016-05-23|SO|I Ns 149/16|Zarządzenie|https://www.saos.org.pl/judgments/241130
-132515|2014-12-19|SO|II Ca 2132/14|Postanowienie|https://www.saos.org.pl/judgments/132515
-42654|2014-01-23|SO|VIII Ns 133/13|Postanowienie|https://www.saos.org.pl/judgments/42654
-202871|2013-11-19|SO|II Ca 294/13|Postanowienie|https://www.saos.org.pl/judgments/202871
-23782|2013-04-17|SO|VIII Ns 393/12|Postanowienie|https://www.saos.org.pl/judgments/23782
+saos_id|date|court|case_number|type|score|saos_url
+132515|2014-12-19|SO|II Ca 2132/14|Postanowienie|31|https://www.saos.org.pl/judgments/132515

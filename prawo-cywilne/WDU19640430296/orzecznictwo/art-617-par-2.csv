@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-66953|2014-08-21|SO|II Ca 594/14|Postanowienie|https://www.saos.org.pl/judgments/66953
-76028|2014-05-06|SO|I ACa 1594/13|Wyrok|https://www.saos.org.pl/judgments/76028
+saos_id|date|court|case_number|type|score|saos_url
+76028|2014-05-06|SO|I ACa 1594/13|Wyrok|56|https://www.saos.org.pl/judgments/76028
+66953|2014-08-21|SO|II Ca 594/14|Postanowienie|31|https://www.saos.org.pl/judgments/66953

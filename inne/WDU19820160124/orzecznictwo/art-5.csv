@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-436031|2020-09-25|SO|VI Ka 572/20|Wyrok|https://www.saos.org.pl/judgments/436031
-248196|2016-04-22|SO|II Ca 1414/15|Wyrok|https://www.saos.org.pl/judgments/248196
-32468|2013-10-08|SO|I ACa 391/13|Wyrok|https://www.saos.org.pl/judgments/32468
-15645|2013-06-27|SO|I ACa 263/13|Wyrok|https://www.saos.org.pl/judgments/15645
-139406|2013-05-28|SO|II AKa 80/13|Wyrok|https://www.saos.org.pl/judgments/139406
-137284|2013-01-22|SO|II AKa 301/12|Wyrok|https://www.saos.org.pl/judgments/137284
-135801|2012-10-11|SO|II AKa 228/12|Wyrok|https://www.saos.org.pl/judgments/135801
-135612|2012-09-20|SO|II AKa 209/12|Wyrok|https://www.saos.org.pl/judgments/135612
-135600|2012-08-30|SO|II AKa 176/12|Wyrok|https://www.saos.org.pl/judgments/135600
-135585|2012-06-19|SO|II AKa 129/12|Wyrok|https://www.saos.org.pl/judgments/135585
-9880|2012-05-10|SO|V ACa 344/12|Wyrok|https://www.saos.org.pl/judgments/9880
-82995|2004-11-18|SN|SDI 32/04|Wyrok|https://www.saos.org.pl/judgments/82995
+saos_id|date|court|case_number|type|score|saos_url
+82995|2004-11-18|SN|SDI 32/04|Wyrok|78|https://www.saos.org.pl/judgments/82995
+32468|2013-10-08|SO|I ACa 391/13|Wyrok|56|https://www.saos.org.pl/judgments/32468
+15645|2013-06-27|SO|I ACa 263/13|Wyrok|56|https://www.saos.org.pl/judgments/15645
+139406|2013-05-28|SO|II AKa 80/13|Wyrok|56|https://www.saos.org.pl/judgments/139406
+137284|2013-01-22|SO|II AKa 301/12|Wyrok|56|https://www.saos.org.pl/judgments/137284
+135801|2012-10-11|SO|II AKa 228/12|Wyrok|56|https://www.saos.org.pl/judgments/135801
+135612|2012-09-20|SO|II AKa 209/12|Wyrok|56|https://www.saos.org.pl/judgments/135612
+135600|2012-08-30|SO|II AKa 176/12|Wyrok|56|https://www.saos.org.pl/judgments/135600
+135585|2012-06-19|SO|II AKa 129/12|Wyrok|56|https://www.saos.org.pl/judgments/135585
+9880|2012-05-10|SO|V ACa 344/12|Wyrok|56|https://www.saos.org.pl/judgments/9880
+248196|2016-04-22|SO|II Ca 1414/15|Wyrok|40|https://www.saos.org.pl/judgments/248196

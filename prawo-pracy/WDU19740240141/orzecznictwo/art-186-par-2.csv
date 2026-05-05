@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-505021|2023-04-28|SO|III AUa 480/22|Wyrok|https://www.saos.org.pl/judgments/505021
-454064|2021-11-17|SO|VII U 118/21|Wyrok|https://www.saos.org.pl/judgments/454064
-481178|2021-08-04|SO|I C 825/19|Wyrok|https://www.saos.org.pl/judgments/481178
-415808|2020-06-10|SO|II Ka 93/20|Wyrok|https://www.saos.org.pl/judgments/415808
-392925|2019-07-08|SO|VIII Pa 17/19|Zarządzenie|https://www.saos.org.pl/judgments/392925
-355731|2018-08-02|SO|III AUa 589/17|Wyrok|https://www.saos.org.pl/judgments/355731
-331860|2017-11-30|SO|IV P 47/17|Wyrok|https://www.saos.org.pl/judgments/331860
-312546|2017-10-19|SO|VIII U 1662/15|Wyrok|https://www.saos.org.pl/judgments/312546
-327270|2017-10-05|SO|IV P 62/17|Wyrok|https://www.saos.org.pl/judgments/327270
-255259|2016-10-19|SO|IV P 84/16|Wyrok|https://www.saos.org.pl/judgments/255259
-214776|2016-02-10|SO|III AUa 862/15|Wyrok|https://www.saos.org.pl/judgments/214776
-244599|2016-02-09|SN|II PK 331/14|Wyrok|https://www.saos.org.pl/judgments/244599
-51158|2014-05-07|SO|III AUa 972/13|Wyrok|https://www.saos.org.pl/judgments/51158
-32251|2014-01-15|SO|III AUa 773/13|Wyrok|https://www.saos.org.pl/judgments/32251
-79775|2000-06-08|SN|II UKN 576/99|Wyrok|https://www.saos.org.pl/judgments/79775
+saos_id|date|court|case_number|type|score|saos_url
+244599|2016-02-09|SN|II PK 331/14|Wyrok|78|https://www.saos.org.pl/judgments/244599
+79775|2000-06-08|SN|II UKN 576/99|Wyrok|78|https://www.saos.org.pl/judgments/79775
+505021|2023-04-28|SO|III AUa 480/22|Wyrok|56|https://www.saos.org.pl/judgments/505021
+355731|2018-08-02|SO|III AUa 589/17|Wyrok|56|https://www.saos.org.pl/judgments/355731
+214776|2016-02-10|SO|III AUa 862/15|Wyrok|56|https://www.saos.org.pl/judgments/214776
+51158|2014-05-07|SO|III AUa 972/13|Wyrok|56|https://www.saos.org.pl/judgments/51158
+32251|2014-01-15|SO|III AUa 773/13|Wyrok|56|https://www.saos.org.pl/judgments/32251
+454064|2021-11-17|SO|VII U 118/21|Wyrok|40|https://www.saos.org.pl/judgments/454064
+392925|2019-07-08|SO|VIII Pa 17/19|Zarządzenie|27|https://www.saos.org.pl/judgments/392925

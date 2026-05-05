@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-498099|2024-06-10|SO|I C 425/24|Wyrok|https://www.saos.org.pl/judgments/498099
-489653|2023-03-31|SO|V Ca 1050/22|Wyrok|https://www.saos.org.pl/judgments/489653
-494855|2022-07-07|SO|I AGa 101/22|Wyrok|https://www.saos.org.pl/judgments/494855
-412191|2020-03-02|SO|I C 441/19|Wyrok|https://www.saos.org.pl/judgments/412191
+saos_id|date|court|case_number|type|score|saos_url
+494855|2022-07-07|SO|I AGa 101/22|Wyrok|56|https://www.saos.org.pl/judgments/494855

@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-342340|2018-04-24|SO|IV Ka 42/18|Wyrok|https://www.saos.org.pl/judgments/342340
-189669|2015-10-14|SO|XVII Ka 795/15|Wyrok|https://www.saos.org.pl/judgments/189669
-171255|2015-07-13|SO|IV Ka 625/15|Wyrok|https://www.saos.org.pl/judgments/171255
-58748|2014-04-02|SO|II W 2896/13|Wyrok|https://www.saos.org.pl/judgments/58748
-38360|2014-02-04|SO|VII Ka 37/14|Wyrok|https://www.saos.org.pl/judgments/38360
+saos_id|date|court|case_number|type|score|saos_url
+342340|2018-04-24|SO|IV Ka 42/18|Wyrok|40|https://www.saos.org.pl/judgments/342340
+189669|2015-10-14|SO|XVII Ka 795/15|Wyrok|40|https://www.saos.org.pl/judgments/189669
+171255|2015-07-13|SO|IV Ka 625/15|Wyrok|40|https://www.saos.org.pl/judgments/171255

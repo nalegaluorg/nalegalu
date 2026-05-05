@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-451014|2021-07-14|SO|II1 C 50/21|Postanowienie|https://www.saos.org.pl/judgments/451014
-54571|2014-06-24|SO|II Cz 266/14|Postanowienie|https://www.saos.org.pl/judgments/54571
-49949|2014-05-20|SO|II Cz 262/14|Postanowienie|https://www.saos.org.pl/judgments/49949
+saos_id|date|court|case_number|type|score|saos_url
+451014|2021-07-14|SO|II1 C 50/21|Postanowienie|31|https://www.saos.org.pl/judgments/451014

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-181314|2015-09-16|SO|I ACa 421/15|Wyrok|https://www.saos.org.pl/judgments/181314
-53330|2014-06-05|SO|I ACa 200/14|Wyrok|https://www.saos.org.pl/judgments/53330
-77324|1996-11-20|SN|I PKN 12/96|Wyrok|https://www.saos.org.pl/judgments/77324
+saos_id|date|court|case_number|type|score|saos_url
+77324|1996-11-20|SN|I PKN 12/96|Wyrok|78|https://www.saos.org.pl/judgments/77324
+181314|2015-09-16|SO|I ACa 421/15|Wyrok|56|https://www.saos.org.pl/judgments/181314
+53330|2014-06-05|SO|I ACa 200/14|Wyrok|56|https://www.saos.org.pl/judgments/53330

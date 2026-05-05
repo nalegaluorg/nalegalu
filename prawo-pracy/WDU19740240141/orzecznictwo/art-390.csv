@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-299945|2017-05-11|SO|IV P 427/16|Wyrok|https://www.saos.org.pl/judgments/299945
-90592|2009-07-17|SN|I PK 26/09|Wyrok|https://www.saos.org.pl/judgments/90592
+saos_id|date|court|case_number|type|score|saos_url
+90592|2009-07-17|SN|I PK 26/09|Wyrok|78|https://www.saos.org.pl/judgments/90592

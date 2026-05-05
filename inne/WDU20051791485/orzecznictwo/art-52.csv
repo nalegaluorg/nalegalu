@@ -1,15 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-490209|2022-02-04|SO|II AKa 12/21|Uzasadnienie|https://www.saos.org.pl/judgments/490209
-470479|2020-12-17|SO|II AKa 348/20|Wyrok|https://www.saos.org.pl/judgments/470479
-398916|2019-11-27|SO|II AKa 97/19|Wyrok|https://www.saos.org.pl/judgments/398916
-398909|2019-05-23|SO|II AKa 54/19|Wyrok|https://www.saos.org.pl/judgments/398909
-392635|2019-03-19|SO|II K 71/18|Wyrok|https://www.saos.org.pl/judgments/392635
-392448|2018-09-24|SO|II K 70/18|Wyrok|https://www.saos.org.pl/judgments/392448
-411263|2018-05-25|SO|II AKa 35/18|Uzasadnienie|https://www.saos.org.pl/judgments/411263
-335681|2018-04-10|SO|III K 2/18|Wyrok|https://www.saos.org.pl/judgments/335681
-335413|2018-03-12|SO|III K 62/17|Wyrok|https://www.saos.org.pl/judgments/335413
-339814|2018-01-11|SO|II AKa 555/17|Wyrok|https://www.saos.org.pl/judgments/339814
-332043|2017-11-22|SO|II AKa 170/17|Wyrok|https://www.saos.org.pl/judgments/332043
-253289|2016-05-31|SO|II K 1/15|Wyrok|https://www.saos.org.pl/judgments/253289
-145605|2014-04-10|SO|II AKa 86/14|Wyrok|https://www.saos.org.pl/judgments/145605
-145093|2014-03-14|SO|II AKa 60/14|Wyrok|https://www.saos.org.pl/judgments/145093
+saos_id|date|court|case_number|type|score|saos_url
+470479|2020-12-17|SO|II AKa 348/20|Wyrok|56|https://www.saos.org.pl/judgments/470479
+398916|2019-11-27|SO|II AKa 97/19|Wyrok|56|https://www.saos.org.pl/judgments/398916
+398909|2019-05-23|SO|II AKa 54/19|Wyrok|56|https://www.saos.org.pl/judgments/398909
+339814|2018-01-11|SO|II AKa 555/17|Wyrok|56|https://www.saos.org.pl/judgments/339814
+332043|2017-11-22|SO|II AKa 170/17|Wyrok|56|https://www.saos.org.pl/judgments/332043
+145605|2014-04-10|SO|II AKa 86/14|Wyrok|56|https://www.saos.org.pl/judgments/145605
+145093|2014-03-14|SO|II AKa 60/14|Wyrok|56|https://www.saos.org.pl/judgments/145093
+490209|2022-02-04|SO|II AKa 12/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/490209
+411263|2018-05-25|SO|II AKa 35/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/411263
+392635|2019-03-19|SO|II K 71/18|Wyrok|40|https://www.saos.org.pl/judgments/392635
+392448|2018-09-24|SO|II K 70/18|Wyrok|40|https://www.saos.org.pl/judgments/392448
+253289|2016-05-31|SO|II K 1/15|Wyrok|40|https://www.saos.org.pl/judgments/253289

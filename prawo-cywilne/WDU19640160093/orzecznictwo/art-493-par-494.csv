@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-297917|2015-11-30|SO|IX C 2583/14|Wyrok|https://www.saos.org.pl/judgments/297917
-32709|2013-06-07|SO|VI ACa 1598/12|Wyrok|https://www.saos.org.pl/judgments/32709
-92058|2010-03-17|SN|II CSK 454/09|Wyrok|https://www.saos.org.pl/judgments/92058
-88453|2008-07-09|SN|V CNP 39/08|Postanowienie|https://www.saos.org.pl/judgments/88453
+saos_id|date|court|case_number|type|score|saos_url
+92058|2010-03-17|SN|II CSK 454/09|Wyrok|78|https://www.saos.org.pl/judgments/92058
+88453|2008-07-09|SN|V CNP 39/08|Postanowienie|69|https://www.saos.org.pl/judgments/88453
+32709|2013-06-07|SO|VI ACa 1598/12|Wyrok|56|https://www.saos.org.pl/judgments/32709

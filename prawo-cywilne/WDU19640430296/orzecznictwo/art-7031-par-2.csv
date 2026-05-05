@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-329062|2018-02-19|SO|VIII Gz 14/18|Postanowienie|https://www.saos.org.pl/judgments/329062
-198103|2016-01-14|SO|VIII Gz 273/15|Postanowienie|https://www.saos.org.pl/judgments/198103
-198101|2016-01-14|SO|VIII Gz 258/15|Postanowienie|https://www.saos.org.pl/judgments/198101
-181045|2015-10-20|SO|VIII Gz 133/15|Postanowienie|https://www.saos.org.pl/judgments/181045
-4211|2012-11-13|SO|I ACz 1904/12|Postanowienie|https://www.saos.org.pl/judgments/4211
+saos_id|date|court|case_number|type|score|saos_url
+4211|2012-11-13|SO|I ACz 1904/12|Postanowienie|47|https://www.saos.org.pl/judgments/4211

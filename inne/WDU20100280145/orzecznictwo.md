@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 22 stycznia 2010 r. o zmianie ustawy o o
 
 ## art. 4 (2)
 
-- 2015-06-10 | TK | [Ts 139/13](https://www.saos.org.pl/judgments/206915) | Postanowienie
-- 2014-03-17 | TK | [Ts 139/13](https://www.saos.org.pl/judgments/206560) | Postanowienie
+- 2015-06-10 | TK | [Ts 139/13](https://www.saos.org.pl/judgments/206915) | Postanowienie ★
+- 2014-03-17 | TK | [Ts 139/13](https://www.saos.org.pl/judgments/206560) | Postanowienie ★
 
 ## art. 8 (1)
 

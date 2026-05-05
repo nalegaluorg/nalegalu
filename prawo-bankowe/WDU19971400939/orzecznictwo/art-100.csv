@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-519954|2024-10-29|SO|I C 2182/23|Wyrok|https://www.saos.org.pl/judgments/519954
-522474|2024-09-24|SO|XIV C 342/19|Wyrok|https://www.saos.org.pl/judgments/522474
-516020|2024-04-16|SO|I C 596/23|Wyrok|https://www.saos.org.pl/judgments/516020
-515987|2024-03-07|SO|I C 1213/23|Wyrok|https://www.saos.org.pl/judgments/515987
-525952|2023-07-03|SO|I C 295/22|Wyrok|https://www.saos.org.pl/judgments/525952
-493441|2022-10-25|SO|I ACa 1193/21|Wyrok|https://www.saos.org.pl/judgments/493441
-494671|2022-09-23|SO|I ACa 870/21|Wyrok|https://www.saos.org.pl/judgments/494671
-464566|2022-01-25|SO|I C 720/21|Wyrok|https://www.saos.org.pl/judgments/464566
-433477|2020-09-28|SO|V C 540/19|Wyrok|https://www.saos.org.pl/judgments/433477
+saos_id|date|court|case_number|type|score|saos_url
+493441|2022-10-25|SO|I ACa 1193/21|Wyrok|56|https://www.saos.org.pl/judgments/493441
+494671|2022-09-23|SO|I ACa 870/21|Wyrok|56|https://www.saos.org.pl/judgments/494671
+522474|2024-09-24|SO|XIV C 342/19|Wyrok|40|https://www.saos.org.pl/judgments/522474
+433477|2020-09-28|SO|V C 540/19|Wyrok|40|https://www.saos.org.pl/judgments/433477

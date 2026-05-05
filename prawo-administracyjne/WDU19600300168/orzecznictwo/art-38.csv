@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-532069|2025-01-29|SO|III AUa 424/23|Wyrok|https://www.saos.org.pl/judgments/532069
-518066|2023-06-06|SO|XVII AmT 142/19|Wyrok|https://www.saos.org.pl/judgments/518066
-515136|2022-02-02|SO|XVII AmE 283/20|Wyrok|https://www.saos.org.pl/judgments/515136
-456904|2021-01-27|SO|XVII AmE 279/20|Wyrok|https://www.saos.org.pl/judgments/456904
-515745|2019-12-17|SO|XXVII Ca 40/19|Postanowienie|https://www.saos.org.pl/judgments/515745
-364402|2018-11-14|SO|I ACa 570/18|Wyrok|https://www.saos.org.pl/judgments/364402
-359963|2018-10-11|SO|III AUa 131/18|Wyrok|https://www.saos.org.pl/judgments/359963
-356132|2018-08-23|SO|XVII AmE 142/15|Wyrok|https://www.saos.org.pl/judgments/356132
-345181|2018-05-09|SO|I C 45/17|Wyrok|https://www.saos.org.pl/judgments/345181
-307265|2017-09-19|SO|XVII AmA 143/14|Wyrok|https://www.saos.org.pl/judgments/307265
-304195|2017-07-04|SO|XVII AmE 100/15|Wyrok|https://www.saos.org.pl/judgments/304195
-248418|2016-02-02|SO|IV P 474/12|Wyrok|https://www.saos.org.pl/judgments/248418
-101287|2013-04-05|SN|III CSK 198/12|Wyrok|https://www.saos.org.pl/judgments/101287
-82134|2003-07-31|SN|III RN 17/03|Wyrok|https://www.saos.org.pl/judgments/82134
-77600|1997-04-24|SN|III KKO 3/97|Postanowienie|https://www.saos.org.pl/judgments/77600
-77193|1996-06-20|SN|III ARN 14/96|Wyrok|https://www.saos.org.pl/judgments/77193
-76948|1995-10-05|SN|III ARN 31/95|Wyrok|https://www.saos.org.pl/judgments/76948
+saos_id|date|court|case_number|type|score|saos_url
+101287|2013-04-05|SN|III CSK 198/12|Wyrok|78|https://www.saos.org.pl/judgments/101287
+82134|2003-07-31|SN|III RN 17/03|Wyrok|78|https://www.saos.org.pl/judgments/82134
+77193|1996-06-20|SN|III ARN 14/96|Wyrok|78|https://www.saos.org.pl/judgments/77193
+76948|1995-10-05|SN|III ARN 31/95|Wyrok|78|https://www.saos.org.pl/judgments/76948
+77600|1997-04-24|SN|III KKO 3/97|Postanowienie|69|https://www.saos.org.pl/judgments/77600
+532069|2025-01-29|SO|III AUa 424/23|Wyrok|56|https://www.saos.org.pl/judgments/532069
+364402|2018-11-14|SO|I ACa 570/18|Wyrok|56|https://www.saos.org.pl/judgments/364402
+359963|2018-10-11|SO|III AUa 131/18|Wyrok|56|https://www.saos.org.pl/judgments/359963

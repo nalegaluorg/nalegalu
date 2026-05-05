@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-85092|2007-01-25|SN|V CZ 113/06|Postanowienie|https://www.saos.org.pl/judgments/85092
+saos_id|date|court|case_number|type|score|saos_url
+85092|2007-01-25|SN|V CZ 113/06|Postanowienie|69|https://www.saos.org.pl/judgments/85092

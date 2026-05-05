@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-520144|2022-06-20|SO|V GC 167/21|Wyrok|https://www.saos.org.pl/judgments/520144
-461589|2022-03-30|SO|XIII Ga 1958/21|Uzasadnienie|https://www.saos.org.pl/judgments/461589
-395752|2019-07-31|SO|III Ca 223/19|Uzasadnienie|https://www.saos.org.pl/judgments/395752
-338561|2017-12-07|SO|I ACa 975/17|Wyrok|https://www.saos.org.pl/judgments/338561
-347446|2017-04-20|SO|I ACa 1613/16|Wyrok|https://www.saos.org.pl/judgments/347446
-199401|2016-02-02|SO|VI Ga 1/16|Postanowienie|https://www.saos.org.pl/judgments/199401
-191055|2015-11-13|SO|VIII Ga 326/15|Postanowienie|https://www.saos.org.pl/judgments/191055
-224422|2015-04-14|SO|I C 733/13|Uzasadnienie|https://www.saos.org.pl/judgments/224422
-176466|2014-04-11|SO|XXVI GC 42/13|Uzasadnienie|https://www.saos.org.pl/judgments/176466
-37366|2014-02-12|SO|VIII GC 422/13|Wyrok|https://www.saos.org.pl/judgments/37366
-55881|2014-01-13|SO|XX GC 962/12|Zarządzenie|https://www.saos.org.pl/judgments/55881
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-138581|2013-05-20|SO|I ACz 736/13|Postanowienie|https://www.saos.org.pl/judgments/138581
-17822|2013-03-15|SO|I ACa 224/13|Wyrok|https://www.saos.org.pl/judgments/17822
-164577|2006-10-19|SN|V CSK 215/06|Wyrok|https://www.saos.org.pl/judgments/164577
+saos_id|date|court|case_number|type|score|saos_url
+164577|2006-10-19|SN|V CSK 215/06|Wyrok|78|https://www.saos.org.pl/judgments/164577
+338561|2017-12-07|SO|I ACa 975/17|Wyrok|56|https://www.saos.org.pl/judgments/338561
+347446|2017-04-20|SO|I ACa 1613/16|Wyrok|56|https://www.saos.org.pl/judgments/347446
+17822|2013-03-15|SO|I ACa 224/13|Wyrok|56|https://www.saos.org.pl/judgments/17822
+138581|2013-05-20|SO|I ACz 736/13|Postanowienie|47|https://www.saos.org.pl/judgments/138581
+520144|2022-06-20|SO|V GC 167/21|Wyrok|40|https://www.saos.org.pl/judgments/520144
+199401|2016-02-02|SO|VI Ga 1/16|Postanowienie|31|https://www.saos.org.pl/judgments/199401
+461589|2022-03-30|SO|XIII Ga 1958/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/461589
+395752|2019-07-31|SO|III Ca 223/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/395752

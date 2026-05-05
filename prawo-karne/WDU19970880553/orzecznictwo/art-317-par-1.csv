@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-538905|2025-06-09|SO|II K 1145/24|Zarządzenie|https://www.saos.org.pl/judgments/538905
-538904|2025-06-09|SO|II K 1145/24|Wyrok|https://www.saos.org.pl/judgments/538904
-412736|2020-01-24|SO|I ACa 149/19|Wyrok|https://www.saos.org.pl/judgments/412736
-405928|2019-12-10|SO|VII Ka 1040/19|Wyrok|https://www.saos.org.pl/judgments/405928
-397463|2019-11-20|SO|IV Ka 886/19|Wyrok|https://www.saos.org.pl/judgments/397463
-40988|2013-08-23|SO|VI Ka 333/13|Wyrok|https://www.saos.org.pl/judgments/40988
-81974|2003-04-17|SN|WZP 1/03|Postanowienie|https://www.saos.org.pl/judgments/81974
-80934|2001-10-26|SN|WA 25/01|Wyrok|https://www.saos.org.pl/judgments/80934
+saos_id|date|court|case_number|type|score|saos_url
+80934|2001-10-26|SN|WA 25/01|Wyrok|78|https://www.saos.org.pl/judgments/80934
+81974|2003-04-17|SN|WZP 1/03|Postanowienie|76|https://www.saos.org.pl/judgments/81974
+412736|2020-01-24|SO|I ACa 149/19|Wyrok|56|https://www.saos.org.pl/judgments/412736
+538904|2025-06-09|SO|II K 1145/24|Wyrok|40|https://www.saos.org.pl/judgments/538904
+405928|2019-12-10|SO|VII Ka 1040/19|Wyrok|40|https://www.saos.org.pl/judgments/405928
+538905|2025-06-09|SO|II K 1145/24|Zarządzenie|27|https://www.saos.org.pl/judgments/538905

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-473779|2022-06-30|SO|I1 C 164/22|Wyrok|https://www.saos.org.pl/judgments/473779
-351250|2018-08-20|SO|V AGa 208/18|Wyrok|https://www.saos.org.pl/judgments/351250
-328701|2018-01-18|SO|VIII Gz 211/17|Postanowienie|https://www.saos.org.pl/judgments/328701
+saos_id|date|court|case_number|type|score|saos_url
+351250|2018-08-20|SO|V AGa 208/18|Wyrok|56|https://www.saos.org.pl/judgments/351250

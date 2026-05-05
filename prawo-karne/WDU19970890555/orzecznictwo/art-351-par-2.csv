@@ -1,12 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-398883|2019-10-17|SO|II AKa 161/19|Wyrok|https://www.saos.org.pl/judgments/398883
-393055|2019-04-25|SO|II AKa 415/17|Wyrok|https://www.saos.org.pl/judgments/393055
-244677|2016-02-26|SN|SNO 81/15|Uchwała|https://www.saos.org.pl/judgments/244677
-242963|2015-07-10|SN|SNO 41/15|Wyrok|https://www.saos.org.pl/judgments/242963
-245534|2015-05-28|SN|SNO 21/15|Uchwała|https://www.saos.org.pl/judgments/245534
-167463|2014-11-18|SN|SNO 54/14|Uchwała|https://www.saos.org.pl/judgments/167463
-91073|2009-10-13|SN|WD 7/09|Postanowienie|https://www.saos.org.pl/judgments/91073
-84567|2006-09-12|SN|SNO 42/06|Uchwała|https://www.saos.org.pl/judgments/84567
-84420|2006-06-26|SN|SNO 27/06|Uchwała|https://www.saos.org.pl/judgments/84420
-83857|2005-11-17|SN|I KZP 43/05|Uchwała|https://www.saos.org.pl/judgments/83857
-81760|2002-12-13|SN|SNO 46/02|Uchwała|https://www.saos.org.pl/judgments/81760
+saos_id|date|court|case_number|type|score|saos_url
+244677|2016-02-26|SN|SNO 81/15|Uchwała|89|https://www.saos.org.pl/judgments/244677
+245534|2015-05-28|SN|SNO 21/15|Uchwała|89|https://www.saos.org.pl/judgments/245534
+167463|2014-11-18|SN|SNO 54/14|Uchwała|89|https://www.saos.org.pl/judgments/167463
+84567|2006-09-12|SN|SNO 42/06|Uchwała|89|https://www.saos.org.pl/judgments/84567
+84420|2006-06-26|SN|SNO 27/06|Uchwała|89|https://www.saos.org.pl/judgments/84420
+83857|2005-11-17|SN|I KZP 43/05|Uchwała|89|https://www.saos.org.pl/judgments/83857
+81760|2002-12-13|SN|SNO 46/02|Uchwała|89|https://www.saos.org.pl/judgments/81760
+242963|2015-07-10|SN|SNO 41/15|Wyrok|78|https://www.saos.org.pl/judgments/242963
+91073|2009-10-13|SN|WD 7/09|Postanowienie|69|https://www.saos.org.pl/judgments/91073
+398883|2019-10-17|SO|II AKa 161/19|Wyrok|56|https://www.saos.org.pl/judgments/398883
+393055|2019-04-25|SO|II AKa 415/17|Wyrok|56|https://www.saos.org.pl/judgments/393055

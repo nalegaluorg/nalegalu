@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-65365|2014-09-19|SO|III K 172/13|Wyrok|https://www.saos.org.pl/judgments/65365
+saos_id|date|court|case_number|type|score|saos_url
+65365|2014-09-19|SO|III K 172/13|Wyrok|40|https://www.saos.org.pl/judgments/65365

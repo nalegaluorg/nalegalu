@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-170074|2015-06-03|SO|I ACa 1791/14|Wyrok|https://www.saos.org.pl/judgments/170074
+saos_id|date|court|case_number|type|score|saos_url
+170074|2015-06-03|SO|I ACa 1791/14|Wyrok|56|https://www.saos.org.pl/judgments/170074

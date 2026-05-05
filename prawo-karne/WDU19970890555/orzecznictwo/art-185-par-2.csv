@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-492523|2022-01-03|SO|IV Ka 940/21|Uzasadnienie|https://www.saos.org.pl/judgments/492523
-348913|2018-04-10|SO|VI Ka 231/18|Wyrok|https://www.saos.org.pl/judgments/348913
-296625|2017-06-13|SO|VI K 764/16|Wyrok|https://www.saos.org.pl/judgments/296625
+saos_id|date|court|case_number|type|score|saos_url
+492523|2022-01-03|SO|IV Ka 940/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/492523

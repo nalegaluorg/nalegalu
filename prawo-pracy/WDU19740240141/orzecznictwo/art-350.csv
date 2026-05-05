@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-407207|2019-10-17|SO|I ACa 281/19|Wyrok|https://www.saos.org.pl/judgments/407207
-76601|1994-07-21|SN|I PRN 48/94|Wyrok|https://www.saos.org.pl/judgments/76601
+saos_id|date|court|case_number|type|score|saos_url
+76601|1994-07-21|SN|I PRN 48/94|Wyrok|78|https://www.saos.org.pl/judgments/76601
+407207|2019-10-17|SO|I ACa 281/19|Wyrok|56|https://www.saos.org.pl/judgments/407207

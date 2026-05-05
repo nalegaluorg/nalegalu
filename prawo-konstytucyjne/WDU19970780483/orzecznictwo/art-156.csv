@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-527856|2025-01-13|SO|V K 1535/24|Zarządzenie|https://www.saos.org.pl/judgments/527856
-442913|2021-05-21|SO|II W 51/21|Postanowienie|https://www.saos.org.pl/judgments/442913
-442907|2021-03-30|SO|II W 342/21|Postanowienie|https://www.saos.org.pl/judgments/442907
-65284|2012-01-12|SO|VIII K 24/08|Wyrok|https://www.saos.org.pl/judgments/65284
-72897|2011-12-14|SO|VIII K 182/10|Postanowienie|https://www.saos.org.pl/judgments/72897
-206301|2011-07-20|TK|K 9/11|Wyrok|https://www.saos.org.pl/judgments/206301
-90895|2009-09-23|SN|I CSK 346/08|Wyrok|https://www.saos.org.pl/judgments/90895
-206069|2001-02-21|TK|P 12/00|Wyrok|https://www.saos.org.pl/judgments/206069
+saos_id|date|court|case_number|type|score|saos_url
+206301|2011-07-20|TK|K 9/11|Wyrok|98|https://www.saos.org.pl/judgments/206301
+206069|2001-02-21|TK|P 12/00|Wyrok|98|https://www.saos.org.pl/judgments/206069
+90895|2009-09-23|SN|I CSK 346/08|Wyrok|78|https://www.saos.org.pl/judgments/90895

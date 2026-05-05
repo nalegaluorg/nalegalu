@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482099|2022-11-25|SO|III Ca 30/22|Postanowienie|https://www.saos.org.pl/judgments/482099
-22822|2013-09-23|SO|V ACz 916/13|Postanowienie|https://www.saos.org.pl/judgments/22822
+saos_id|date|court|case_number|type|score|saos_url
+22822|2013-09-23|SO|V ACz 916/13|Postanowienie|47|https://www.saos.org.pl/judgments/22822

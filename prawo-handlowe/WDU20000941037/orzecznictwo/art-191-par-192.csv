@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-247596|2016-06-14|SO|I ACa 124/16|Wyrok|https://www.saos.org.pl/judgments/247596
-188605|2015-10-27|SO|VIII GC 439/14|Uzasadnienie|https://www.saos.org.pl/judgments/188605
+saos_id|date|court|case_number|type|score|saos_url
+247596|2016-06-14|SO|I ACa 124/16|Wyrok|56|https://www.saos.org.pl/judgments/247596

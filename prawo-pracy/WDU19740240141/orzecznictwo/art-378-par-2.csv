@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-352758|2018-04-26|SO|III AUa 562/17|Wyrok|https://www.saos.org.pl/judgments/352758
-81461|2002-06-18|SN|I PKN 171/01|Wyrok|https://www.saos.org.pl/judgments/81461
+saos_id|date|court|case_number|type|score|saos_url
+81461|2002-06-18|SN|I PKN 171/01|Wyrok|78|https://www.saos.org.pl/judgments/81461
+352758|2018-04-26|SO|III AUa 562/17|Wyrok|56|https://www.saos.org.pl/judgments/352758

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-105496|2000-12-20|TK|K 13/00|Postanowienie|https://www.saos.org.pl/judgments/105496
+saos_id|date|court|case_number|type|score|saos_url
+105496|2000-12-20|TK|K 13/00|Postanowienie|80|https://www.saos.org.pl/judgments/105496

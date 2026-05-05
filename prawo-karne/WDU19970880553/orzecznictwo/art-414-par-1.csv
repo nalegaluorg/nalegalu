@@ -1,22 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-500962|2023-07-12|SO|II AKa 329/21|Uzasadnienie|https://www.saos.org.pl/judgments/500962
-500961|2023-03-13|SO|II AKa 329/21|Wyrok|https://www.saos.org.pl/judgments/500961
-502779|2023-01-31|SO|II K 22/22|Wyrok|https://www.saos.org.pl/judgments/502779
-466553|2021-10-26|SO|II K 701/20|Wyrok|https://www.saos.org.pl/judgments/466553
-409162|2020-01-29|SO|II AKa 178/19|Wyrok|https://www.saos.org.pl/judgments/409162
-371261|2019-01-21|SO|IV Ka 1108/18|Uzasadnienie|https://www.saos.org.pl/judgments/371261
-341887|2017-02-01|SO|II K 506/14|Wyrok|https://www.saos.org.pl/judgments/341887
-328237|2017-02-01|SO|II K 19/11|Wyrok|https://www.saos.org.pl/judgments/328237
-273953|2017-01-27|SO|II AKa 492/16|Wyrok|https://www.saos.org.pl/judgments/273953
-277566|2016-08-11|SO|II K 47/11|Wyrok|https://www.saos.org.pl/judgments/277566
-252548|2016-06-22|SO|II K 502/13|Wyrok|https://www.saos.org.pl/judgments/252548
-224109|2016-04-11|SO|II AKa 506/15|Wyrok|https://www.saos.org.pl/judgments/224109
-180095|2015-08-28|SO|VI Ka 310/15|Wyrok|https://www.saos.org.pl/judgments/180095
-152266|2015-04-17|SO|III K 900/14|Wyrok|https://www.saos.org.pl/judgments/152266
-127683|2015-01-20|SO|V Ka 27/15|Wyrok|https://www.saos.org.pl/judgments/127683
-129543|2015-01-16|SO|III K 247/14|Wyrok|https://www.saos.org.pl/judgments/129543
-254584|2014-09-26|SO|XIV K 37/13|Uzasadnienie|https://www.saos.org.pl/judgments/254584
-31114|2013-11-26|SO|IV Ka 576/13|Wyrok|https://www.saos.org.pl/judgments/31114
-102368|2013-07-03|SN|V KK 412/12|Wyrok|https://www.saos.org.pl/judgments/102368
-102309|2013-06-27|SN|WA 14/13|Wyrok|https://www.saos.org.pl/judgments/102309
-14362|2013-03-06|SO|IV Ka 107/13|Wyrok|https://www.saos.org.pl/judgments/14362
+saos_id|date|court|case_number|type|score|saos_url
+102368|2013-07-03|SN|V KK 412/12|Wyrok|78|https://www.saos.org.pl/judgments/102368
+102309|2013-06-27|SN|WA 14/13|Wyrok|78|https://www.saos.org.pl/judgments/102309
+500961|2023-03-13|SO|II AKa 329/21|Wyrok|56|https://www.saos.org.pl/judgments/500961
+409162|2020-01-29|SO|II AKa 178/19|Wyrok|56|https://www.saos.org.pl/judgments/409162
+273953|2017-01-27|SO|II AKa 492/16|Wyrok|56|https://www.saos.org.pl/judgments/273953
+224109|2016-04-11|SO|II AKa 506/15|Wyrok|56|https://www.saos.org.pl/judgments/224109
+500962|2023-07-12|SO|II AKa 329/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/500962
+252548|2016-06-22|SO|II K 502/13|Wyrok|40|https://www.saos.org.pl/judgments/252548

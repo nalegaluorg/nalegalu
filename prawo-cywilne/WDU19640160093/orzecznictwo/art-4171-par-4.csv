@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-479814|2021-04-30|SO|II C 213/17|Zarządzenie|https://www.saos.org.pl/judgments/479814
-523871|2019-11-28|SO|II Ca 624/19|Wyrok|https://www.saos.org.pl/judgments/523871
-523732|2019-11-28|SO|II Ca 629/19|Wyrok|https://www.saos.org.pl/judgments/523732
-406721|2019-10-17|SO|II C 661/19|Zarządzenie|https://www.saos.org.pl/judgments/406721
-288692|2016-11-04|SO|XXVII Ca 2543/16|Wyrok|https://www.saos.org.pl/judgments/288692
-131747|2014-10-15|SO|I ACa 471/14|Wyrok|https://www.saos.org.pl/judgments/131747
-58915|2014-05-28|SO|I C 550/14|Wyrok|https://www.saos.org.pl/judgments/58915
-59287|2013-07-16|SO|I C 80/13|Wyrok|https://www.saos.org.pl/judgments/59287
-98931|2012-09-06|SN|I CSK 77/12|Wyrok|https://www.saos.org.pl/judgments/98931
-110356|2011-06-13|TK|SK 26/09|Postanowienie|https://www.saos.org.pl/judgments/110356
-86406|2007-08-08|SN|I CSK 125/07|Wyrok|https://www.saos.org.pl/judgments/86406
+saos_id|date|court|case_number|type|score|saos_url
+110356|2011-06-13|TK|SK 26/09|Postanowienie|80|https://www.saos.org.pl/judgments/110356
+98931|2012-09-06|SN|I CSK 77/12|Wyrok|78|https://www.saos.org.pl/judgments/98931
+86406|2007-08-08|SN|I CSK 125/07|Wyrok|78|https://www.saos.org.pl/judgments/86406
+131747|2014-10-15|SO|I ACa 471/14|Wyrok|56|https://www.saos.org.pl/judgments/131747

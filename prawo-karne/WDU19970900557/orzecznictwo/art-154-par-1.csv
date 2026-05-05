@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-159898|2014-11-05|TK|Ts 91/14|Postanowienie|https://www.saos.org.pl/judgments/159898
-159897|2014-07-23|TK|Ts 91/14|Postanowienie|https://www.saos.org.pl/judgments/159897
-89712|2009-02-25|SN|I KZP 32/08|Uchwała|https://www.saos.org.pl/judgments/89712
-84583|2006-09-28|SN|I KZP 16/06|Postanowienie|https://www.saos.org.pl/judgments/84583
+saos_id|date|court|case_number|type|score|saos_url
+89712|2009-02-25|SN|I KZP 32/08|Uchwała|96|https://www.saos.org.pl/judgments/89712
+159898|2014-11-05|TK|Ts 91/14|Postanowienie|80|https://www.saos.org.pl/judgments/159898
+159897|2014-07-23|TK|Ts 91/14|Postanowienie|80|https://www.saos.org.pl/judgments/159897
+84583|2006-09-28|SN|I KZP 16/06|Postanowienie|69|https://www.saos.org.pl/judgments/84583

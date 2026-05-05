@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-470682|2021-11-29|SO|I C 1/21|Wyrok|https://www.saos.org.pl/judgments/470682
-444994|2021-05-10|SO|XV Ca 546/21|Wyrok|https://www.saos.org.pl/judgments/444994
-224313|2016-05-11|SO|IV Ca 119/16|Wyrok|https://www.saos.org.pl/judgments/224313
-147176|2013-10-18|SO|II C 1051/11|Wyrok|https://www.saos.org.pl/judgments/147176
+saos_id|date|court|case_number|type|score|saos_url
+444994|2021-05-10|SO|XV Ca 546/21|Wyrok|40|https://www.saos.org.pl/judgments/444994

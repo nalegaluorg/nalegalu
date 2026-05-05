@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-407225|2019-02-28|SO|I ACa 987/16|Wyrok|https://www.saos.org.pl/judgments/407225
-386417|2018-08-03|SO|V ACa 546/17|Wyrok|https://www.saos.org.pl/judgments/386417
-111582|2013-01-31|TK|K 14/11|Wyrok|https://www.saos.org.pl/judgments/111582
-107579|2006-02-08|TK|K 5/06|Postanowienie|https://www.saos.org.pl/judgments/107579
+saos_id|date|court|case_number|type|score|saos_url
+111582|2013-01-31|TK|K 14/11|Wyrok|98|https://www.saos.org.pl/judgments/111582
+107579|2006-02-08|TK|K 5/06|Postanowienie|80|https://www.saos.org.pl/judgments/107579
+407225|2019-02-28|SO|I ACa 987/16|Wyrok|56|https://www.saos.org.pl/judgments/407225
+386417|2018-08-03|SO|V ACa 546/17|Wyrok|56|https://www.saos.org.pl/judgments/386417

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515569|2023-06-07|SO|XXV C 3511/20|Wyrok|https://www.saos.org.pl/judgments/515569
-509907|2022-10-18|SO|V AGa 273/21|Wyrok|https://www.saos.org.pl/judgments/509907
+saos_id|date|court|case_number|type|score|saos_url
+509907|2022-10-18|SO|V AGa 273/21|Wyrok|56|https://www.saos.org.pl/judgments/509907

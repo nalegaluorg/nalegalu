@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520203|2024-09-16|SO|II K 67/24|Wyrok|https://www.saos.org.pl/judgments/520203
-207133|2015-04-21|TK|U 8/14|Wyrok|https://www.saos.org.pl/judgments/207133
+saos_id|date|court|case_number|type|score|saos_url
+207133|2015-04-21|TK|U 8/14|Wyrok|98|https://www.saos.org.pl/judgments/207133

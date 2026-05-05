@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-431154|2020-02-24|SO|XVII AmT 12/18|Wyrok|https://www.saos.org.pl/judgments/431154
+saos_id|date|court|case_number|type|score|saos_url
+90614|2009-07-15|SN|III SZP 1/09|Uchwała|89|https://www.saos.org.pl/judgments/90614
+85233|2007-02-14|SN|III SK 19/06|Wyrok|78|https://www.saos.org.pl/judgments/85233
+244470|2016-01-25|SN|III SZ 7/15|Postanowienie|69|https://www.saos.org.pl/judgments/244470
+168752|2015-04-01|SN|III SZ 1/15|Postanowienie|69|https://www.saos.org.pl/judgments/168752
+104502|2014-02-20|SN|III SK 55/13|Postanowienie|69|https://www.saos.org.pl/judgments/104502
+104094|2014-01-14|SN|III SK 30/13|Postanowienie|69|https://www.saos.org.pl/judgments/104094
+345965|2018-05-09|SO|VII AGa 996/18|Wyrok|56|https://www.saos.org.pl/judgments/345965
+187539|2015-09-15|SO|VI ACa 546/15|Wyrok|56|https://www.saos.org.pl/judgments/187539
+16954|2012-05-17|SO|VI ACa 31/12|Wyrok|56|https://www.saos.org.pl/judgments/16954

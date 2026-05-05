@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-373209|2018-10-31|SO|I ACa 91/18|Wyrok|https://www.saos.org.pl/judgments/373209
-534|2012-07-25|SO|I ACa 310/12|Wyrok|https://www.saos.org.pl/judgments/534
+saos_id|date|court|case_number|type|score|saos_url
+373209|2018-10-31|SO|I ACa 91/18|Wyrok|56|https://www.saos.org.pl/judgments/373209
+534|2012-07-25|SO|I ACa 310/12|Wyrok|56|https://www.saos.org.pl/judgments/534

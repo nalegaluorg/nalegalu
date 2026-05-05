@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-378688|2019-03-18|SO|III C 626/17|Wyrok|https://www.saos.org.pl/judgments/378688
-350991|2018-06-20|SO|VIII Ga 31/18|Uzasadnienie|https://www.saos.org.pl/judgments/350991
-256475|2016-09-28|SO|I ACa 292/16|Wyrok|https://www.saos.org.pl/judgments/256475
-149206|2015-03-19|SO|VIII Ga 41/15|Wyrok|https://www.saos.org.pl/judgments/149206
-229501|2013-01-28|SO|XVII AmC 992/12|Wyrok|https://www.saos.org.pl/judgments/229501
-96886|2012-01-27|SN|I CSK 211/11|Wyrok|https://www.saos.org.pl/judgments/96886
-165019|2007-12-11|SN|II CSK 370/07|Wyrok|https://www.saos.org.pl/judgments/165019
+saos_id|date|court|case_number|type|score|saos_url
+96886|2012-01-27|SN|I CSK 211/11|Wyrok|78|https://www.saos.org.pl/judgments/96886
+165019|2007-12-11|SN|II CSK 370/07|Wyrok|78|https://www.saos.org.pl/judgments/165019
+256475|2016-09-28|SO|I ACa 292/16|Wyrok|56|https://www.saos.org.pl/judgments/256475

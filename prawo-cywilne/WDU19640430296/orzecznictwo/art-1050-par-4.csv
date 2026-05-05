@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-544587|2025-02-13|SO|I C 77/24|Wyrok|https://www.saos.org.pl/judgments/544587
-493839|2024-01-31|SO|I ACa 1908/22|Wyrok|https://www.saos.org.pl/judgments/493839
+saos_id|date|court|case_number|type|score|saos_url
+493839|2024-01-31|SO|I ACa 1908/22|Wyrok|56|https://www.saos.org.pl/judgments/493839

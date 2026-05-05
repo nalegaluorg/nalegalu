@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-427187|2019-12-03|SO|I C 1231/17|Wyrok|https://www.saos.org.pl/judgments/427187
-5988|2013-01-10|SO|I ACa 1091/12|Wyrok|https://www.saos.org.pl/judgments/5988
+saos_id|date|court|case_number|type|score|saos_url
+5988|2013-01-10|SO|I ACa 1091/12|Wyrok|56|https://www.saos.org.pl/judgments/5988

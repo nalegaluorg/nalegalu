@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-226927|2015-11-30|SO|VIII Gz 19/16|Postanowienie|https://www.saos.org.pl/judgments/226927
-149672|2015-03-19|SO|X Ga 77/15|Postanowienie|https://www.saos.org.pl/judgments/149672
-46359|2014-03-20|SO|X Ga 4/14|Postanowienie|https://www.saos.org.pl/judgments/46359
+saos_id|date|court|case_number|type|score|saos_url
+149672|2015-03-19|SO|X Ga 77/15|Postanowienie|31|https://www.saos.org.pl/judgments/149672
+46359|2014-03-20|SO|X Ga 4/14|Postanowienie|31|https://www.saos.org.pl/judgments/46359

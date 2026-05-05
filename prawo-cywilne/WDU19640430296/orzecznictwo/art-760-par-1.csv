@@ -1,15 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-532311|2025-04-29|SO|I C 1957/23|Wyrok|https://www.saos.org.pl/judgments/532311
-444662|2021-05-19|SO|II AKa 358/20|Wyrok|https://www.saos.org.pl/judgments/444662
-412364|2020-03-18|SO|I Co 16/20|Zarządzenie|https://www.saos.org.pl/judgments/412364
-391467|2019-04-24|SO|VI ACa 48/19|Wyrok|https://www.saos.org.pl/judgments/391467
-507602|2019-04-01|SO|IV Co 65/19|Postanowienie|https://www.saos.org.pl/judgments/507602
-382705|2019-03-07|SO|III Cz 1926/18|Postanowienie|https://www.saos.org.pl/judgments/382705
-378965|2019-03-07|SO|III Cz 1751/17|Postanowienie|https://www.saos.org.pl/judgments/378965
-25357|2013-09-25|SO|II Cz 521/13|Postanowienie|https://www.saos.org.pl/judgments/25357
-31465|2013-07-05|SO|I ACa 686/13|Wyrok|https://www.saos.org.pl/judgments/31465
-111569|2013-01-29|TK|K 1/11|Wyrok|https://www.saos.org.pl/judgments/111569
-96453|2011-11-30|SN|III CZP 74/11|Uchwała|https://www.saos.org.pl/judgments/96453
-96449|2011-11-30|SN|III CZP 66/11|Uchwała|https://www.saos.org.pl/judgments/96449
-110330|2011-08-30|TK|SK 1/10|Postanowienie|https://www.saos.org.pl/judgments/110330
-89281|2008-11-28|SN|V CSK 281/08|Wyrok|https://www.saos.org.pl/judgments/89281
+saos_id|date|court|case_number|type|score|saos_url
+111569|2013-01-29|TK|K 1/11|Wyrok|98|https://www.saos.org.pl/judgments/111569
+96453|2011-11-30|SN|III CZP 74/11|Uchwała|89|https://www.saos.org.pl/judgments/96453
+96449|2011-11-30|SN|III CZP 66/11|Uchwała|89|https://www.saos.org.pl/judgments/96449
+110330|2011-08-30|TK|SK 1/10|Postanowienie|80|https://www.saos.org.pl/judgments/110330
+89281|2008-11-28|SN|V CSK 281/08|Wyrok|78|https://www.saos.org.pl/judgments/89281
+444662|2021-05-19|SO|II AKa 358/20|Wyrok|56|https://www.saos.org.pl/judgments/444662
+391467|2019-04-24|SO|VI ACa 48/19|Wyrok|56|https://www.saos.org.pl/judgments/391467
+31465|2013-07-05|SO|I ACa 686/13|Wyrok|56|https://www.saos.org.pl/judgments/31465

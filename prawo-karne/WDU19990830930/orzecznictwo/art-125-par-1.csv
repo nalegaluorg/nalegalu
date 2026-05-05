@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-479426|2022-11-23|SO|VI Ka 669/22|Uzasadnienie|https://www.saos.org.pl/judgments/479426
-417910|2020-01-17|SO|VI Ka 747/19|Wyrok|https://www.saos.org.pl/judgments/417910
-314401|2017-11-14|SO|II AKz 432/17|Postanowienie|https://www.saos.org.pl/judgments/314401
-250834|2016-09-28|SO|II K 704/16|Wyrok|https://www.saos.org.pl/judgments/250834
-239970|2016-07-14|SO|II K 162/15|Wyrok|https://www.saos.org.pl/judgments/239970
-179595|2015-08-07|SO|II K 688/15|Wyrok|https://www.saos.org.pl/judgments/179595
-206881|2015-07-22|TK|Ts 97/14|Postanowienie|https://www.saos.org.pl/judgments/206881
-22778|2013-09-27|SO|II Ka 440/13|Wyrok|https://www.saos.org.pl/judgments/22778
-84129|2006-02-28|SN|V KK 472/05|Wyrok|https://www.saos.org.pl/judgments/84129
+saos_id|date|court|case_number|type|score|saos_url
+206881|2015-07-22|TK|Ts 97/14|Postanowienie|80|https://www.saos.org.pl/judgments/206881
+84129|2006-02-28|SN|V KK 472/05|Wyrok|78|https://www.saos.org.pl/judgments/84129
+314401|2017-11-14|SO|II AKz 432/17|Postanowienie|47|https://www.saos.org.pl/judgments/314401
+22778|2013-09-27|SO|II Ka 440/13|Wyrok|40|https://www.saos.org.pl/judgments/22778
+479426|2022-11-23|SO|VI Ka 669/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/479426

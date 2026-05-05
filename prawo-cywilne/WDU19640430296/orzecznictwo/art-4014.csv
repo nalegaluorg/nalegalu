@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79579|2000-03-23|SN|I PKN 671/99|Postanowienie|https://www.saos.org.pl/judgments/79579
+saos_id|date|court|case_number|type|score|saos_url
+79579|2000-03-23|SN|I PKN 671/99|Postanowienie|69|https://www.saos.org.pl/judgments/79579

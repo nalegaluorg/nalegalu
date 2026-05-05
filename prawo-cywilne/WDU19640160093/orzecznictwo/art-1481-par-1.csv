@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-335167|2017-08-03|SO|I C 709/17|Uzasadnienie|https://www.saos.org.pl/judgments/335167
-304458|2017-06-17|SO|I C 1137/17|Zarządzenie|https://www.saos.org.pl/judgments/304458
-184634|2015-09-23|SO|III AUa 75/15|Wyrok|https://www.saos.org.pl/judgments/184634
+saos_id|date|court|case_number|type|score|saos_url
+184634|2015-09-23|SO|III AUa 75/15|Wyrok|56|https://www.saos.org.pl/judgments/184634

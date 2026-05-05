@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-379182|2019-03-29|SO|IV Ka 174/19|Wyrok|https://www.saos.org.pl/judgments/379182
-57291|2014-08-12|SO|IV Ka 463/14|Wyrok|https://www.saos.org.pl/judgments/57291
-45947|2013-10-15|SO|IX Ka 679/12|Wyrok|https://www.saos.org.pl/judgments/45947
+saos_id|date|court|case_number|type|score|saos_url
+379182|2019-03-29|SO|IV Ka 174/19|Wyrok|40|https://www.saos.org.pl/judgments/379182

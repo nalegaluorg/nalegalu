@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-207523|2015-12-02|SO|VI ACa 1612/14|Wyrok|https://www.saos.org.pl/judgments/207523
+saos_id|date|court|case_number|type|score|saos_url
+207523|2015-12-02|SO|VI ACa 1612/14|Wyrok|56|https://www.saos.org.pl/judgments/207523

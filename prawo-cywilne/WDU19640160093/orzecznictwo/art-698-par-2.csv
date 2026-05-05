@@ -1,22 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-515596|2023-11-20|SO|XXV C 484/22|Wyrok|https://www.saos.org.pl/judgments/515596
-497837|2023-02-22|SO|I C 366/22|Wyrok|https://www.saos.org.pl/judgments/497837
-469430|2022-07-05|SO|I C 1109/21|Wyrok|https://www.saos.org.pl/judgments/469430
-494938|2021-01-25|SO|I AGa 192/19|Wyrok|https://www.saos.org.pl/judgments/494938
-407361|2019-10-24|SO|I ACa 464/19|Wyrok|https://www.saos.org.pl/judgments/407361
-365908|2018-11-14|SO|I C 566/18|Wyrok|https://www.saos.org.pl/judgments/365908
-368353|2018-09-26|SO|III Ca 1553/17|Wyrok|https://www.saos.org.pl/judgments/368353
-347262|2017-11-13|SO|I C 767/16|Wyrok|https://www.saos.org.pl/judgments/347262
-339034|2017-10-25|SO|VII ACa 539/17|Wyrok|https://www.saos.org.pl/judgments/339034
-310150|2017-07-06|SO|I C 477/17|Wyrok|https://www.saos.org.pl/judgments/310150
-295469|2017-05-25|SO|I Ns 490/16|Postanowienie|https://www.saos.org.pl/judgments/295469
-277251|2016-11-04|SO|I ACa 539/16|Wyrok|https://www.saos.org.pl/judgments/277251
-181787|2015-11-05|SO|I C 1404/15|Wyrok|https://www.saos.org.pl/judgments/181787
-189844|2015-11-03|SO|I C 52/15|Wyrok|https://www.saos.org.pl/judgments/189844
-179025|2015-09-15|SO|I C 675/15|Wyrok|https://www.saos.org.pl/judgments/179025
-245445|2015-04-29|SN|IV CSK 529/14|Postanowienie|https://www.saos.org.pl/judgments/245445
-168984|2015-04-29|SN|IV CSK 527/14|Postanowienie|https://www.saos.org.pl/judgments/168984
-26146|2013-09-06|SO|I ACa 390/13|Wyrok|https://www.saos.org.pl/judgments/26146
-12116|2013-03-15|SO|XV GC 1019/12|Wyrok|https://www.saos.org.pl/judgments/12116
-7214|2013-01-25|SO|I ACa 724/12|Wyrok|https://www.saos.org.pl/judgments/7214
-96718|2012-01-12|SN|II CSK 274/11|Wyrok|https://www.saos.org.pl/judgments/96718
+saos_id|date|court|case_number|type|score|saos_url
+96718|2012-01-12|SN|II CSK 274/11|Wyrok|78|https://www.saos.org.pl/judgments/96718
+245445|2015-04-29|SN|IV CSK 529/14|Postanowienie|69|https://www.saos.org.pl/judgments/245445
+168984|2015-04-29|SN|IV CSK 527/14|Postanowienie|69|https://www.saos.org.pl/judgments/168984
+494938|2021-01-25|SO|I AGa 192/19|Wyrok|56|https://www.saos.org.pl/judgments/494938
+407361|2019-10-24|SO|I ACa 464/19|Wyrok|56|https://www.saos.org.pl/judgments/407361
+339034|2017-10-25|SO|VII ACa 539/17|Wyrok|56|https://www.saos.org.pl/judgments/339034
+277251|2016-11-04|SO|I ACa 539/16|Wyrok|56|https://www.saos.org.pl/judgments/277251
+26146|2013-09-06|SO|I ACa 390/13|Wyrok|56|https://www.saos.org.pl/judgments/26146
+7214|2013-01-25|SO|I ACa 724/12|Wyrok|56|https://www.saos.org.pl/judgments/7214
+181787|2015-11-05|SO|I C 1404/15|Wyrok|40|https://www.saos.org.pl/judgments/181787

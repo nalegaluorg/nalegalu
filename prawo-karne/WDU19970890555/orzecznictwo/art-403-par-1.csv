@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500978|2022-10-06|SO|II AKa 339/20|Wyrok|https://www.saos.org.pl/judgments/500978
-277733|2017-01-24|SO|III C 1289/15|Wyrok|https://www.saos.org.pl/judgments/277733
+saos_id|date|court|case_number|type|score|saos_url
+500978|2022-10-06|SO|II AKa 339/20|Wyrok|56|https://www.saos.org.pl/judgments/500978

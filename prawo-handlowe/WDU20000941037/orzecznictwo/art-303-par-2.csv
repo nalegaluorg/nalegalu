@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-407369|2019-12-04|SO|I AGa 112/19|Wyrok|https://www.saos.org.pl/judgments/407369
-397471|2019-04-16|SO|IV U 192/19|Wyrok|https://www.saos.org.pl/judgments/397471
-244997|2016-03-31|SN|III CZP 89/15|Uchwała|https://www.saos.org.pl/judgments/244997
+saos_id|date|court|case_number|type|score|saos_url
+244997|2016-03-31|SN|III CZP 89/15|Uchwała|96|https://www.saos.org.pl/judgments/244997
+407369|2019-12-04|SO|I AGa 112/19|Wyrok|56|https://www.saos.org.pl/judgments/407369
+397471|2019-04-16|SO|IV U 192/19|Wyrok|40|https://www.saos.org.pl/judgments/397471

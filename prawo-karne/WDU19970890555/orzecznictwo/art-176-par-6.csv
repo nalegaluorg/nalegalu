@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-466094|2022-04-08|SO|II AKa 97/20|Wyrok|https://www.saos.org.pl/judgments/466094
-54752|2014-06-27|SO|II Ka 127/14|Wyrok|https://www.saos.org.pl/judgments/54752
-103869|2013-12-12|SN|III KK 417/13|Postanowienie|https://www.saos.org.pl/judgments/103869
+saos_id|date|court|case_number|type|score|saos_url
+103869|2013-12-12|SN|III KK 417/13|Postanowienie|69|https://www.saos.org.pl/judgments/103869
+466094|2022-04-08|SO|II AKa 97/20|Wyrok|56|https://www.saos.org.pl/judgments/466094

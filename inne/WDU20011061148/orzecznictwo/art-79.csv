@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516729|2024-11-05|SO|II Ka 572/24|Wyrok|https://www.saos.org.pl/judgments/516729
-471478|2022-06-02|SO|II Ka 36/22|Wyrok|https://www.saos.org.pl/judgments/471478
-389237|2018-12-03|SO|IV Ka 890/18|Wyrok|https://www.saos.org.pl/judgments/389237
-355316|2018-08-31|SO|IV Ka 429/18|Uzasadnienie|https://www.saos.org.pl/judgments/355316
-75722|2014-10-28|SO|VI Ka 532/14|Wyrok|https://www.saos.org.pl/judgments/75722
-49187|2014-05-30|SO|II Ka 347/14|Wyrok|https://www.saos.org.pl/judgments/49187
+saos_id|date|court|case_number|type|score|saos_url
+389237|2018-12-03|SO|IV Ka 890/18|Wyrok|40|https://www.saos.org.pl/judgments/389237

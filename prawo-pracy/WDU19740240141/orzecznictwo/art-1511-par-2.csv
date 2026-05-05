@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-408775|2019-07-05|SO|III APa 3/19|Wyrok|https://www.saos.org.pl/judgments/408775
-381322|2019-03-05|SO|XXI Pa 459/18|Wyrok|https://www.saos.org.pl/judgments/381322
-381559|2019-02-26|SO|VII Pa 154/18|Wyrok|https://www.saos.org.pl/judgments/381559
-311647|2016-12-15|SO|VI P 494/11|Wyrok|https://www.saos.org.pl/judgments/311647
-268796|2016-12-08|SO|IV Pa 41/16|Wyrok|https://www.saos.org.pl/judgments/268796
-177783|2015-09-02|SO|VII Pa 56/15|Wyrok|https://www.saos.org.pl/judgments/177783
-152302|2015-03-19|SO|V Pa 21/15|Wyrok|https://www.saos.org.pl/judgments/152302
-70026|2014-03-27|SO|VIII Pa 172/13|Wyrok|https://www.saos.org.pl/judgments/70026
-30918|2013-12-30|SO|VI P 449/13|Wyrok|https://www.saos.org.pl/judgments/30918
+saos_id|date|court|case_number|type|score|saos_url
+408775|2019-07-05|SO|III APa 3/19|Wyrok|56|https://www.saos.org.pl/judgments/408775
+381559|2019-02-26|SO|VII Pa 154/18|Wyrok|40|https://www.saos.org.pl/judgments/381559
+311647|2016-12-15|SO|VI P 494/11|Wyrok|40|https://www.saos.org.pl/judgments/311647
+152302|2015-03-19|SO|V Pa 21/15|Wyrok|40|https://www.saos.org.pl/judgments/152302

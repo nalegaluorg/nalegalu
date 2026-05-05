@@ -1,2 +1,31 @@
-saos_id|date|court|case_number|type|saos_url
-203215|2015-10-13|SO|III Cz 1267/15|Postanowienie|https://www.saos.org.pl/judgments/203215
+saos_id|date|court|case_number|type|score|saos_url
+101837|2013-05-22|SN|III CZP 25/13|Uchwała|89|https://www.saos.org.pl/judgments/101837
+94460|2011-03-18|SN|III CZP 139/10|Uchwała|89|https://www.saos.org.pl/judgments/94460
+168664|2015-03-16|SN|V CNP 15/15|Postanowienie|69|https://www.saos.org.pl/judgments/168664
+519654|2024-02-27|SO|I ACa 929/22|Wyrok|56|https://www.saos.org.pl/judgments/519654
+519163|2024-02-06|SO|I ACa 668/22|Wyrok|56|https://www.saos.org.pl/judgments/519163
+517864|2024-01-26|SO|I ACa 790/22|Wyrok|56|https://www.saos.org.pl/judgments/517864
+493929|2023-02-28|SO|I ACa 2329/22|Wyrok|56|https://www.saos.org.pl/judgments/493929
+494561|2023-02-16|SO|I ACa 768/21|Wyrok|56|https://www.saos.org.pl/judgments/494561
+483931|2022-11-07|SO|VI ACa 933/21|Wyrok|56|https://www.saos.org.pl/judgments/483931
+458791|2021-11-26|SO|VI ACa 692/20|Wyrok|56|https://www.saos.org.pl/judgments/458791
+448080|2020-09-14|SO|VI ACa 670/19|Wyrok|56|https://www.saos.org.pl/judgments/448080
+419810|2018-10-04|SO|I ACa 19/18|Wyrok|56|https://www.saos.org.pl/judgments/419810
+345773|2018-05-25|SO|I ACa 116/18|Wyrok|56|https://www.saos.org.pl/judgments/345773
+148015|2014-10-09|SO|I ACz 1723/14|Postanowienie|47|https://www.saos.org.pl/judgments/148015
+485759|2021-07-30|SO|III C 1366/20|Wyrok|40|https://www.saos.org.pl/judgments/485759
+463179|2019-06-14|SO|III C 502/17|Wyrok|40|https://www.saos.org.pl/judgments/463179
+303984|2017-04-05|SO|III RC 337/16|Wyrok|40|https://www.saos.org.pl/judgments/303984
+358131|2018-10-04|SO|VI Cz 969/18|Postanowienie|31|https://www.saos.org.pl/judgments/358131
+349225|2018-07-10|SO|III Nsm 179/18|Postanowienie|31|https://www.saos.org.pl/judgments/349225
+340965|2018-05-23|SO|III Nsm 116/18|Postanowienie|31|https://www.saos.org.pl/judgments/340965
+335870|2018-03-29|SO|III Nsm 22/17|Postanowienie|31|https://www.saos.org.pl/judgments/335870
+327396|2018-01-29|SO|III Nsm 388/17|Postanowienie|31|https://www.saos.org.pl/judgments/327396
+323060|2017-12-20|SO|III Nsm 250/17|Postanowienie|31|https://www.saos.org.pl/judgments/323060
+314704|2017-11-20|SO|IV Nsm 418/17|Postanowienie|31|https://www.saos.org.pl/judgments/314704
+305996|2017-09-13|SO|IV Nsm 400/17|Postanowienie|31|https://www.saos.org.pl/judgments/305996
+253589|2016-10-12|SO|III Nsm 28/16|Postanowienie|31|https://www.saos.org.pl/judgments/253589
+210365|2016-02-22|SO|III Nsm 197/15|Postanowienie|31|https://www.saos.org.pl/judgments/210365
+150449|2015-01-20|SO|II Cz 1923/14|Postanowienie|31|https://www.saos.org.pl/judgments/150449
+44522|2014-03-07|SO|XV Cz 266/14|Postanowienie|31|https://www.saos.org.pl/judgments/44522
+507591|2024-08-27|SO|IV Ca 57/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/507591

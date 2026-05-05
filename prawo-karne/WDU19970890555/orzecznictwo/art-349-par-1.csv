@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-469781|2022-05-06|SO|II AKa 213/21|Wyrok|https://www.saos.org.pl/judgments/469781
-94359|2011-03-02|SN|III KK 366/10|Wyrok|https://www.saos.org.pl/judgments/94359
+saos_id|date|court|case_number|type|score|saos_url
+94359|2011-03-02|SN|III KK 366/10|Wyrok|78|https://www.saos.org.pl/judgments/94359
+469781|2022-05-06|SO|II AKa 213/21|Wyrok|56|https://www.saos.org.pl/judgments/469781

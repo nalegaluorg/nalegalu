@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-426313|2020-09-08|SO|VI U 3240/19|Wyrok|https://www.saos.org.pl/judgments/426313
-462446|2020-04-24|SO|III AUa 1705/19|Wyrok|https://www.saos.org.pl/judgments/462446
-462341|2020-04-24|SO|III AUa 1618/19|Wyrok|https://www.saos.org.pl/judgments/462341
+saos_id|date|court|case_number|type|score|saos_url
+462446|2020-04-24|SO|III AUa 1705/19|Wyrok|56|https://www.saos.org.pl/judgments/462446
+462341|2020-04-24|SO|III AUa 1618/19|Wyrok|56|https://www.saos.org.pl/judgments/462341

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-290681|2017-05-19|SO|VI Ka 313/17|Wyrok|https://www.saos.org.pl/judgments/290681
-51955|2014-07-02|SO|II Ka 135/14|Wyrok|https://www.saos.org.pl/judgments/51955
-109770|2010-05-11|TK|SK 50/08|Wyrok|https://www.saos.org.pl/judgments/109770
+saos_id|date|court|case_number|type|score|saos_url
+109770|2010-05-11|TK|SK 50/08|Wyrok|98|https://www.saos.org.pl/judgments/109770

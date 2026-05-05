@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-496550|2022-08-25|SO|I C 1933/21|Wyrok|https://www.saos.org.pl/judgments/496550
-336219|2018-01-19|SO|VI ACa 430/16|Wyrok|https://www.saos.org.pl/judgments/336219
-195916|2015-10-14|SO|I C 1627/14|Wyrok|https://www.saos.org.pl/judgments/195916
-172057|2015-06-19|SO|I ACa 390/15|Wyrok|https://www.saos.org.pl/judgments/172057
-86111|2007-06-20|SN|II CZ 50/07|Postanowienie|https://www.saos.org.pl/judgments/86111
-85468|2007-03-14|SN|IV CSK 47/07|Postanowienie|https://www.saos.org.pl/judgments/85468
-164242|2006-04-27|SN|I CZ 15/06|Postanowienie|https://www.saos.org.pl/judgments/164242
-163397|2005-07-08|SN|II CK 767/04|Wyrok|https://www.saos.org.pl/judgments/163397
+saos_id|date|court|case_number|type|score|saos_url
+163397|2005-07-08|SN|II CK 767/04|Wyrok|78|https://www.saos.org.pl/judgments/163397
+86111|2007-06-20|SN|II CZ 50/07|Postanowienie|69|https://www.saos.org.pl/judgments/86111
+85468|2007-03-14|SN|IV CSK 47/07|Postanowienie|69|https://www.saos.org.pl/judgments/85468
+164242|2006-04-27|SN|I CZ 15/06|Postanowienie|69|https://www.saos.org.pl/judgments/164242
+336219|2018-01-19|SO|VI ACa 430/16|Wyrok|56|https://www.saos.org.pl/judgments/336219
+172057|2015-06-19|SO|I ACa 390/15|Wyrok|56|https://www.saos.org.pl/judgments/172057
+496550|2022-08-25|SO|I C 1933/21|Wyrok|40|https://www.saos.org.pl/judgments/496550
+195916|2015-10-14|SO|I C 1627/14|Wyrok|40|https://www.saos.org.pl/judgments/195916

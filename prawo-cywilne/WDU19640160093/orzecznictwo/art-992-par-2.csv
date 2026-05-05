@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-517240|2022-10-06|SO|I C 46/22|Wyrok|https://www.saos.org.pl/judgments/517240
-461689|2022-02-24|SO|III C 1471/19|Wyrok|https://www.saos.org.pl/judgments/461689
-411196|2019-08-22|SO|I C 685/18|Wyrok|https://www.saos.org.pl/judgments/411196
-371172|2018-11-28|SO|I ACa 1034/17|Wyrok|https://www.saos.org.pl/judgments/371172
-360393|2018-09-20|SO|XII C 48/17|Wyrok|https://www.saos.org.pl/judgments/360393
-371141|2018-06-26|SO|XVIII C 1037/16|Wyrok|https://www.saos.org.pl/judgments/371141
-324566|2017-10-31|SO|XVIII C 684/16|Wyrok|https://www.saos.org.pl/judgments/324566
-291743|2017-06-01|SO|XVIII C 1594/15|Wyrok|https://www.saos.org.pl/judgments/291743
-322567|2017-05-15|SO|III C 1651/15|Wyrok|https://www.saos.org.pl/judgments/322567
-148113|2014-07-09|SO|I C 1155/13|Uzasadnienie|https://www.saos.org.pl/judgments/148113
-39341|2013-05-29|SO|I ACa 230/13|Wyrok|https://www.saos.org.pl/judgments/39341
+saos_id|date|court|case_number|type|score|saos_url
+371172|2018-11-28|SO|I ACa 1034/17|Wyrok|56|https://www.saos.org.pl/judgments/371172
+39341|2013-05-29|SO|I ACa 230/13|Wyrok|56|https://www.saos.org.pl/judgments/39341
+360393|2018-09-20|SO|XII C 48/17|Wyrok|40|https://www.saos.org.pl/judgments/360393
+371141|2018-06-26|SO|XVIII C 1037/16|Wyrok|40|https://www.saos.org.pl/judgments/371141
+324566|2017-10-31|SO|XVIII C 684/16|Wyrok|40|https://www.saos.org.pl/judgments/324566
+291743|2017-06-01|SO|XVIII C 1594/15|Wyrok|40|https://www.saos.org.pl/judgments/291743

@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 18 maja 2005 r. o zmianie ustawy - Prawo
 
 ## art. 1 (2)
 
-- 2012-11-29 | SN | [II CSK 254/12](https://www.saos.org.pl/judgments/99814) | Wyrok
-- 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok
+- 2012-11-29 | SN | [II CSK 254/12](https://www.saos.org.pl/judgments/99814) | Wyrok ★
+- 2008-10-10 | SN | [II CSK 216/08](https://www.saos.org.pl/judgments/88846) | Wyrok ★
 
 ## (ogólnie) (5)
 

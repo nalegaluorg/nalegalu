@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-392762|2019-09-18|SO|I Ca 277/19|Wyrok|https://www.saos.org.pl/judgments/392762
-342553|2018-05-09|SO|I Ca 133/18|Wyrok|https://www.saos.org.pl/judgments/342553
-327271|2018-01-26|SO|IV RC 194/17|Wyrok|https://www.saos.org.pl/judgments/327271
-225723|2016-05-09|SO|VI RC 15/16|Wyrok|https://www.saos.org.pl/judgments/225723
-143716|2014-02-06|SO|I C 2138/13|Wyrok|https://www.saos.org.pl/judgments/143716
+saos_id|date|court|case_number|type|score|saos_url
+327271|2018-01-26|SO|IV RC 194/17|Wyrok|40|https://www.saos.org.pl/judgments/327271

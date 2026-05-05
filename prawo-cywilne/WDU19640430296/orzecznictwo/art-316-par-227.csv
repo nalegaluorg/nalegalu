@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-402678|2019-05-17|SO|I AGa 362/18|Wyrok|https://www.saos.org.pl/judgments/402678
-367305|2018-11-28|SO|I ACa 1185/17|Wyrok|https://www.saos.org.pl/judgments/367305
-339912|2017-10-24|SO|I ACa 1110/17|Wyrok|https://www.saos.org.pl/judgments/339912
-240667|2016-08-26|SO|XIII Ga 509/16|Uzasadnienie|https://www.saos.org.pl/judgments/240667
-163577|2005-10-07|SN|IV CK 155/05|Wyrok|https://www.saos.org.pl/judgments/163577
+saos_id|date|court|case_number|type|score|saos_url
+163577|2005-10-07|SN|IV CK 155/05|Wyrok|78|https://www.saos.org.pl/judgments/163577
+402678|2019-05-17|SO|I AGa 362/18|Wyrok|56|https://www.saos.org.pl/judgments/402678
+367305|2018-11-28|SO|I ACa 1185/17|Wyrok|56|https://www.saos.org.pl/judgments/367305
+339912|2017-10-24|SO|I ACa 1110/17|Wyrok|56|https://www.saos.org.pl/judgments/339912
+240667|2016-08-26|SO|XIII Ga 509/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/240667

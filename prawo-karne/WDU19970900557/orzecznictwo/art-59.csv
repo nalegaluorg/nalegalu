@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-383619|2019-05-21|SO|VII Kzw 249/19|Postanowienie|https://www.saos.org.pl/judgments/383619
-338172|2018-04-18|SO|II K 492/17|Wyrok|https://www.saos.org.pl/judgments/338172
-278035|2017-02-10|SO|VI Ka 1289/16|Wyrok|https://www.saos.org.pl/judgments/278035
-11150|2013-04-26|SO|VI Ka 141/13|Wyrok|https://www.saos.org.pl/judgments/11150
+saos_id|date|court|case_number|type|score|saos_url
+11150|2013-04-26|SO|VI Ka 141/13|Wyrok|40|https://www.saos.org.pl/judgments/11150
+383619|2019-05-21|SO|VII Kzw 249/19|Postanowienie|31|https://www.saos.org.pl/judgments/383619

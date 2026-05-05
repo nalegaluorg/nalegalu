@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-491531|2023-07-03|SO|XI GC 570/22|Zarządzenie|https://www.saos.org.pl/judgments/491531
-459437|2020-02-06|SO|XVII AmT 41/18|Wyrok|https://www.saos.org.pl/judgments/459437
-58595|2013-11-06|SO|I ACa 1025/13|Wyrok|https://www.saos.org.pl/judgments/58595
-5955|2013-01-18|SO|I ACa 736/12|Wyrok|https://www.saos.org.pl/judgments/5955
+saos_id|date|court|case_number|type|score|saos_url
+58595|2013-11-06|SO|I ACa 1025/13|Wyrok|56|https://www.saos.org.pl/judgments/58595
+5955|2013-01-18|SO|I ACa 736/12|Wyrok|56|https://www.saos.org.pl/judgments/5955

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504883|2024-06-10|SO|III AUa 277/23|Uzasadnienie|https://www.saos.org.pl/judgments/504883
+saos_id|date|court|case_number|type|score|saos_url
+504883|2024-06-10|SO|III AUa 277/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/504883

@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-540984|2026-02-03|SO|VIII Pa 138/25|Uzasadnienie|https://www.saos.org.pl/judgments/540984
-483380|2022-09-08|SO|III AUa 451/21|Wyrok|https://www.saos.org.pl/judgments/483380
-477686|2022-05-27|SO|III AUa 65/22|Uzasadnienie|https://www.saos.org.pl/judgments/477686
-460167|2021-11-04|SO|III Ca 991/20|Uzasadnienie|https://www.saos.org.pl/judgments/460167
-425845|2019-06-17|SO|III AUa 261/19|Wyrok|https://www.saos.org.pl/judgments/425845
-401278|2019-01-10|SO|II S 364/18|Postanowienie|https://www.saos.org.pl/judgments/401278
-380175|2018-12-05|SO|VII AGa 1595/18|Wyrok|https://www.saos.org.pl/judgments/380175
-364384|2018-09-07|SO|I ACa 1671/17|Wyrok|https://www.saos.org.pl/judgments/364384
-324910|2018-01-18|SO|VIII U 1132/17|Uzasadnienie|https://www.saos.org.pl/judgments/324910
-339190|2017-05-25|SO|I ACa 1553/16|Wyrok|https://www.saos.org.pl/judgments/339190
-263671|2016-12-27|SO|V Pa 60/16|Wyrok|https://www.saos.org.pl/judgments/263671
-280465|2016-11-22|SO|I ACa 540/16|Wyrok|https://www.saos.org.pl/judgments/280465
-270974|2016-11-15|SO|XVII AmC 1263/16|Wyrok|https://www.saos.org.pl/judgments/270974
-189914|2015-11-10|SO|II Ca 517/15|Wyrok|https://www.saos.org.pl/judgments/189914
+saos_id|date|court|case_number|type|score|saos_url
+483380|2022-09-08|SO|III AUa 451/21|Wyrok|56|https://www.saos.org.pl/judgments/483380
+425845|2019-06-17|SO|III AUa 261/19|Wyrok|56|https://www.saos.org.pl/judgments/425845
+380175|2018-12-05|SO|VII AGa 1595/18|Wyrok|56|https://www.saos.org.pl/judgments/380175
+364384|2018-09-07|SO|I ACa 1671/17|Wyrok|56|https://www.saos.org.pl/judgments/364384
+339190|2017-05-25|SO|I ACa 1553/16|Wyrok|56|https://www.saos.org.pl/judgments/339190
+280465|2016-11-22|SO|I ACa 540/16|Wyrok|56|https://www.saos.org.pl/judgments/280465
+477686|2022-05-27|SO|III AUa 65/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/477686
+401278|2019-01-10|SO|II S 364/18|Postanowienie|31|https://www.saos.org.pl/judgments/401278
+540984|2026-02-03|SO|VIII Pa 138/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/540984
+460167|2021-11-04|SO|III Ca 991/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/460167
+324910|2018-01-18|SO|VIII U 1132/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324910

@@ -1,17 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-364831|2018-12-20|SO|III RC 206/18|Wyrok|https://www.saos.org.pl/judgments/364831
-336930|2018-04-10|SO|III RC 104/17|Wyrok|https://www.saos.org.pl/judgments/336930
-308554|2017-09-28|SO|III RC 91/16|Wyrok|https://www.saos.org.pl/judgments/308554
-259496|2016-12-14|SO|III RC 186/15|Wyrok|https://www.saos.org.pl/judgments/259496
-242012|2016-07-20|SO|III AUa 367/16|Wyrok|https://www.saos.org.pl/judgments/242012
-212921|2016-03-03|SO|III RC 234/14|Wyrok|https://www.saos.org.pl/judgments/212921
-157582|2015-05-22|SO|V U 6320/14|Wyrok|https://www.saos.org.pl/judgments/157582
-220189|2015-03-18|SO|III RC 281/14|Wyrok|https://www.saos.org.pl/judgments/220189
-222045|2015-02-18|SO|III RC 262/14|Wyrok|https://www.saos.org.pl/judgments/222045
-129348|2015-01-28|SO|III RC 557/14|Wyrok|https://www.saos.org.pl/judgments/129348
-61972|2014-09-08|SO|III RC 377/14|Wyrok|https://www.saos.org.pl/judgments/61972
-52321|2014-05-23|SO|III RC 277/13|Wyrok|https://www.saos.org.pl/judgments/52321
-53105|2014-05-22|SO|III RC 208/14|Wyrok|https://www.saos.org.pl/judgments/53105
-41663|2014-03-28|SO|III RC 40/14|Wyrok|https://www.saos.org.pl/judgments/41663
-8139|2013-03-08|SO|VIII RC 28/13|Uzasadnienie|https://www.saos.org.pl/judgments/8139
-7485|2013-02-20|SO|VIII RC 28/13|Wyrok|https://www.saos.org.pl/judgments/7485
+saos_id|date|court|case_number|type|score|saos_url
+242012|2016-07-20|SO|III AUa 367/16|Wyrok|56|https://www.saos.org.pl/judgments/242012

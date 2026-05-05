@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 7 września 2007 r. o zmianie ustawy o p
 
 ## art. 1 (1)
 
-- 2010-01-26 | TK | [K 9/08](https://www.saos.org.pl/judgments/109667) | Wyrok
+- 2010-01-26 | TK | [K 9/08](https://www.saos.org.pl/judgments/109667) | Wyrok ★
 

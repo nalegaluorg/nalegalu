@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-133919|2015-01-23|SO|I C 1362/12|Wyrok|https://www.saos.org.pl/judgments/133919
-59001|2013-12-05|SO|VI ACa 677/13|Wyrok|https://www.saos.org.pl/judgments/59001
+saos_id|date|court|case_number|type|score|saos_url
+59001|2013-12-05|SO|VI ACa 677/13|Wyrok|56|https://www.saos.org.pl/judgments/59001

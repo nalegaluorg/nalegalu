@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-417707|2019-04-26|SO|I AGa 281/18|Wyrok|https://www.saos.org.pl/judgments/417707
-316688|2017-10-02|SO|IX GC 1094/16|Wyrok|https://www.saos.org.pl/judgments/316688
-284235|2017-03-01|SO|I C 1435/16|Wyrok|https://www.saos.org.pl/judgments/284235
-68576|2014-07-17|SO|I ACa 176/14|Wyrok|https://www.saos.org.pl/judgments/68576
-61908|2014-07-04|SO|II Cz 750/14|Postanowienie|https://www.saos.org.pl/judgments/61908
+saos_id|date|court|case_number|type|score|saos_url
+417707|2019-04-26|SO|I AGa 281/18|Wyrok|56|https://www.saos.org.pl/judgments/417707
+68576|2014-07-17|SO|I ACa 176/14|Wyrok|56|https://www.saos.org.pl/judgments/68576
+316688|2017-10-02|SO|IX GC 1094/16|Wyrok|40|https://www.saos.org.pl/judgments/316688
+61908|2014-07-04|SO|II Cz 750/14|Postanowienie|31|https://www.saos.org.pl/judgments/61908

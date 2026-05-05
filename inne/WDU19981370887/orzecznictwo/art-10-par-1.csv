@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-344010|2018-05-18|SO|VIII U 4487/14|Zarządzenie|https://www.saos.org.pl/judgments/344010
-319368|2015-12-04|SO|VII U 561/15|Wyrok|https://www.saos.org.pl/judgments/319368
+saos_id|date|court|case_number|type|score|saos_url
+319368|2015-12-04|SO|VII U 561/15|Wyrok|40|https://www.saos.org.pl/judgments/319368
+344010|2018-05-18|SO|VIII U 4487/14|Zarządzenie|27|https://www.saos.org.pl/judgments/344010

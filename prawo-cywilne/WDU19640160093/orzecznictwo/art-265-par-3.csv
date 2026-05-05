@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-482614|2022-11-24|SO|I C 273/21|Wyrok|https://www.saos.org.pl/judgments/482614
-494740|2022-03-17|SO|I ACa 923/20|Wyrok|https://www.saos.org.pl/judgments/494740
-371376|2018-10-05|SO|II Ca 2711/17|Wyrok|https://www.saos.org.pl/judgments/371376
-296113|2017-06-01|SO|II C 1059/16|Uzasadnienie|https://www.saos.org.pl/judgments/296113
-100471|2013-01-24|SN|V CSK 549/11|Postanowienie|https://www.saos.org.pl/judgments/100471
+saos_id|date|court|case_number|type|score|saos_url
+100471|2013-01-24|SN|V CSK 549/11|Postanowienie|69|https://www.saos.org.pl/judgments/100471
+494740|2022-03-17|SO|I ACa 923/20|Wyrok|56|https://www.saos.org.pl/judgments/494740
+371376|2018-10-05|SO|II Ca 2711/17|Wyrok|40|https://www.saos.org.pl/judgments/371376

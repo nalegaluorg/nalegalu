@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-156873|2015-04-28|SO|I ACa 215/15|Wyrok|https://www.saos.org.pl/judgments/156873
-91387|2009-12-03|SN|II CSK 273/09|Postanowienie|https://www.saos.org.pl/judgments/91387
+saos_id|date|court|case_number|type|score|saos_url
+91387|2009-12-03|SN|II CSK 273/09|Postanowienie|69|https://www.saos.org.pl/judgments/91387
+156873|2015-04-28|SO|I ACa 215/15|Wyrok|56|https://www.saos.org.pl/judgments/156873

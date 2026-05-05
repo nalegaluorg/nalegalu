@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-418404|2020-06-30|SO|II Kow 165/20|Postanowienie|https://www.saos.org.pl/judgments/418404
-369196|2019-01-23|SO|II Ka 353/18|Wyrok|https://www.saos.org.pl/judgments/369196
-260130|2016-06-24|SO|II AKa 73/16|Wyrok|https://www.saos.org.pl/judgments/260130
-190976|2015-10-06|SO|II AKa 202/15|Wyrok|https://www.saos.org.pl/judgments/190976
-182937|2015-08-19|SO|II AKa 181/15|Wyrok|https://www.saos.org.pl/judgments/182937
-135101|2014-05-07|SO|X Ka 1048/13|Uzasadnienie|https://www.saos.org.pl/judgments/135101
-144832|2014-03-11|SO|II AKa 21/14|Wyrok|https://www.saos.org.pl/judgments/144832
-389633|2014-02-04|SO|II AKzw 2057/13|Postanowienie|https://www.saos.org.pl/judgments/389633
-135935|2012-07-11|SO|II AKa 158/12|Wyrok|https://www.saos.org.pl/judgments/135935
-89898|2009-03-19|SN|III KZ 15/09|Postanowienie|https://www.saos.org.pl/judgments/89898
+saos_id|date|court|case_number|type|score|saos_url
+89898|2009-03-19|SN|III KZ 15/09|Postanowienie|69|https://www.saos.org.pl/judgments/89898
+260130|2016-06-24|SO|II AKa 73/16|Wyrok|56|https://www.saos.org.pl/judgments/260130
+190976|2015-10-06|SO|II AKa 202/15|Wyrok|56|https://www.saos.org.pl/judgments/190976
+182937|2015-08-19|SO|II AKa 181/15|Wyrok|56|https://www.saos.org.pl/judgments/182937
+144832|2014-03-11|SO|II AKa 21/14|Wyrok|56|https://www.saos.org.pl/judgments/144832
+135935|2012-07-11|SO|II AKa 158/12|Wyrok|56|https://www.saos.org.pl/judgments/135935
+389633|2014-02-04|SO|II AKzw 2057/13|Postanowienie|47|https://www.saos.org.pl/judgments/389633

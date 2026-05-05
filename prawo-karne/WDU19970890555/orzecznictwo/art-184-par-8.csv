@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-352321|2018-04-04|SO|II AKa 393/17|Wyrok|https://www.saos.org.pl/judgments/352321
-287761|2017-03-09|SO|VI Ka 61/17|Wyrok|https://www.saos.org.pl/judgments/287761
-187700|2015-09-24|SO|VI Ka 307/15|Wyrok|https://www.saos.org.pl/judgments/187700
-236870|2014-12-23|SO|II AKa 393/14|Wyrok|https://www.saos.org.pl/judgments/236870
-160393|2014-12-16|TK|Ts 275/13|Postanowienie|https://www.saos.org.pl/judgments/160393
-160392|2014-09-25|TK|Ts 275/13|Postanowienie|https://www.saos.org.pl/judgments/160392
-111007|2012-07-10|TK|SK 26/10|Postanowienie|https://www.saos.org.pl/judgments/111007
-97648|2012-03-28|SN|I KZP 26/11|Uchwała|https://www.saos.org.pl/judgments/97648
-84128|2006-02-28|SN|V KK 258/05|Wyrok|https://www.saos.org.pl/judgments/84128
+saos_id|date|court|case_number|type|score|saos_url
+97648|2012-03-28|SN|I KZP 26/11|Uchwała|96|https://www.saos.org.pl/judgments/97648
+160393|2014-12-16|TK|Ts 275/13|Postanowienie|80|https://www.saos.org.pl/judgments/160393
+160392|2014-09-25|TK|Ts 275/13|Postanowienie|80|https://www.saos.org.pl/judgments/160392
+111007|2012-07-10|TK|SK 26/10|Postanowienie|80|https://www.saos.org.pl/judgments/111007
+84128|2006-02-28|SN|V KK 258/05|Wyrok|78|https://www.saos.org.pl/judgments/84128
+352321|2018-04-04|SO|II AKa 393/17|Wyrok|56|https://www.saos.org.pl/judgments/352321
+236870|2014-12-23|SO|II AKa 393/14|Wyrok|56|https://www.saos.org.pl/judgments/236870
+287761|2017-03-09|SO|VI Ka 61/17|Wyrok|40|https://www.saos.org.pl/judgments/287761
+187700|2015-09-24|SO|VI Ka 307/15|Wyrok|40|https://www.saos.org.pl/judgments/187700

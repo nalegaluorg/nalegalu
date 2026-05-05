@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-44424|2014-04-18|SO|IV Kzw 436/14|Postanowienie|https://www.saos.org.pl/judgments/44424
-103976|2013-12-18|SN|III KK 392/13|Postanowienie|https://www.saos.org.pl/judgments/103976
-98403|2012-06-20|SN|I KZP 4/12|Uchwała|https://www.saos.org.pl/judgments/98403
-389636|2012-05-09|SO|II AKzw 462/12|Postanowienie|https://www.saos.org.pl/judgments/389636
-85920|2007-05-24|SN|I KZP 12/07|Uchwała|https://www.saos.org.pl/judgments/85920
-84202|2006-03-29|SN|I KZP 3/06|Uchwała|https://www.saos.org.pl/judgments/84202
+saos_id|date|court|case_number|type|score|saos_url
+98403|2012-06-20|SN|I KZP 4/12|Uchwała|89|https://www.saos.org.pl/judgments/98403
+85920|2007-05-24|SN|I KZP 12/07|Uchwała|89|https://www.saos.org.pl/judgments/85920
+84202|2006-03-29|SN|I KZP 3/06|Uchwała|89|https://www.saos.org.pl/judgments/84202
+103976|2013-12-18|SN|III KK 392/13|Postanowienie|69|https://www.saos.org.pl/judgments/103976
+389636|2012-05-09|SO|II AKzw 462/12|Postanowienie|47|https://www.saos.org.pl/judgments/389636

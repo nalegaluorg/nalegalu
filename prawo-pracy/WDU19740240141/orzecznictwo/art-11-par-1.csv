@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-218791|2016-03-29|SO|X P 385/13|Wyrok|https://www.saos.org.pl/judgments/218791
-170046|2015-06-10|SO|VII Pa 91/15|Uzasadnienie|https://www.saos.org.pl/judgments/170046
-155095|2015-05-22|SO|II Ko 99/15|Postanowienie|https://www.saos.org.pl/judgments/155095
-91665|2010-01-20|SN|II PK 178/09|Wyrok|https://www.saos.org.pl/judgments/91665
+saos_id|date|court|case_number|type|score|saos_url
+91665|2010-01-20|SN|II PK 178/09|Wyrok|78|https://www.saos.org.pl/judgments/91665
+155095|2015-05-22|SO|II Ko 99/15|Postanowienie|31|https://www.saos.org.pl/judgments/155095
+170046|2015-06-10|SO|VII Pa 91/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/170046

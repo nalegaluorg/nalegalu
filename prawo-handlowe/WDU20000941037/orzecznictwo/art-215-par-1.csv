@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-417927|2020-03-13|SO|I AGa 120/19|Wyrok|https://www.saos.org.pl/judgments/417927
-283081|2017-04-11|SO|VIII GC 61/16|Wyrok|https://www.saos.org.pl/judgments/283081
-195345|2016-01-11|SO|XIII Ga 653/15|Uzasadnienie|https://www.saos.org.pl/judgments/195345
-154048|2015-05-22|SO|X GC 677/13|Uzasadnienie|https://www.saos.org.pl/judgments/154048
-126735|2014-12-11|SO|VIII Ga 203/14|Uzasadnienie|https://www.saos.org.pl/judgments/126735
-73163|2014-11-18|SO|I ACa 501/14|Wyrok|https://www.saos.org.pl/judgments/73163
-160514|2014-04-14|TK|U 8/13|Wyrok|https://www.saos.org.pl/judgments/160514
-98701|2012-07-18|SN|III CZP 40/12|Uchwała|https://www.saos.org.pl/judgments/98701
+saos_id|date|court|case_number|type|score|saos_url
+160514|2014-04-14|TK|U 8/13|Wyrok|98|https://www.saos.org.pl/judgments/160514
+98701|2012-07-18|SN|III CZP 40/12|Uchwała|89|https://www.saos.org.pl/judgments/98701
+417927|2020-03-13|SO|I AGa 120/19|Wyrok|56|https://www.saos.org.pl/judgments/417927
+73163|2014-11-18|SO|I ACa 501/14|Wyrok|56|https://www.saos.org.pl/judgments/73163
+195345|2016-01-11|SO|XIII Ga 653/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/195345
+154048|2015-05-22|SO|X GC 677/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/154048

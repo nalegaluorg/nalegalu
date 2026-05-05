@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-75511|2014-12-11|SO|VIII Ga 204/14|Uzasadnienie|https://www.saos.org.pl/judgments/75511
-29204|2013-12-11|SO|VI Gz 329/13|Postanowienie|https://www.saos.org.pl/judgments/29204
+saos_id|date|court|case_number|type|score|saos_url
+29204|2013-12-11|SO|VI Gz 329/13|Postanowienie|31|https://www.saos.org.pl/judgments/29204

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-477138|2022-08-29|SO|IV P 88/22|Wyrok|https://www.saos.org.pl/judgments/477138
-228877|2016-03-31|SO|V Pa 28/16|Wyrok|https://www.saos.org.pl/judgments/228877
+saos_id|date|court|case_number|type|score|saos_url
+228877|2016-03-31|SO|V Pa 28/16|Wyrok|40|https://www.saos.org.pl/judgments/228877

@@ -1,19 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-531750|2024-10-03|SO|I ACa 1317/22|Wyrok|https://www.saos.org.pl/judgments/531750
-463191|2022-03-30|SO|IV P 395/21|Wyrok|https://www.saos.org.pl/judgments/463191
-448783|2021-08-19|SO|VIII Pa 16/21|Wyrok|https://www.saos.org.pl/judgments/448783
-489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|https://www.saos.org.pl/judgments/489823
-388173|2019-07-29|SO|VIII U 2556/18|Uzasadnienie|https://www.saos.org.pl/judgments/388173
-376045|2018-04-11|SO|VII U 61/18|Wyrok|https://www.saos.org.pl/judgments/376045
-297219|2017-06-29|SO|VIII Pa 17/17|Wyrok|https://www.saos.org.pl/judgments/297219
-287301|2017-03-02|SO|VII U 1469/16|Wyrok|https://www.saos.org.pl/judgments/287301
-274629|2017-02-17|SO|IX W 2892/16|Wyrok|https://www.saos.org.pl/judgments/274629
-261748|2016-11-23|SO|I Ca 375/16|Wyrok|https://www.saos.org.pl/judgments/261748
-249563|2016-08-25|SO|XXI Pa 430/16|Wyrok|https://www.saos.org.pl/judgments/249563
-192585|2015-12-03|SO|III AUa 794/15|Wyrok|https://www.saos.org.pl/judgments/192585
-74448|2014-10-20|SO|III Ca 567/14|Uzasadnienie|https://www.saos.org.pl/judgments/74448
-64160|2014-09-05|SO|I C 168/14|Wyrok|https://www.saos.org.pl/judgments/64160
-54098|2014-04-07|SO|IV P 92/13|Uzasadnienie|https://www.saos.org.pl/judgments/54098
-35723|2013-12-12|SO|II Cz 1791/13|Uzasadnienie|https://www.saos.org.pl/judgments/35723
-20305|2013-07-04|SO|III APa 12/13|Wyrok|https://www.saos.org.pl/judgments/20305
-9644|2013-02-27|SO|I ACa 45/13|Wyrok|https://www.saos.org.pl/judgments/9644
+saos_id|date|court|case_number|type|score|saos_url
+531750|2024-10-03|SO|I ACa 1317/22|Wyrok|56|https://www.saos.org.pl/judgments/531750
+192585|2015-12-03|SO|III AUa 794/15|Wyrok|56|https://www.saos.org.pl/judgments/192585
+20305|2013-07-04|SO|III APa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/20305
+9644|2013-02-27|SO|I ACa 45/13|Wyrok|56|https://www.saos.org.pl/judgments/9644
+489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/489823
+376045|2018-04-11|SO|VII U 61/18|Wyrok|40|https://www.saos.org.pl/judgments/376045
+287301|2017-03-02|SO|VII U 1469/16|Wyrok|40|https://www.saos.org.pl/judgments/287301
+388173|2019-07-29|SO|VIII U 2556/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/388173
+74448|2014-10-20|SO|III Ca 567/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74448

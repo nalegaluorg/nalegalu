@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-493357|2023-02-20|SO|I ACa 112/22|Wyrok|https://www.saos.org.pl/judgments/493357
-463157|2021-09-24|SO|I C 515/20|Uzasadnienie|https://www.saos.org.pl/judgments/463157
+saos_id|date|court|case_number|type|score|saos_url
+493357|2023-02-20|SO|I ACa 112/22|Wyrok|56|https://www.saos.org.pl/judgments/493357
+463157|2021-09-24|SO|I C 515/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/463157

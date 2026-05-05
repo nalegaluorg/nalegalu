@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-483659|2023-01-27|SO|VII Ka 933/22|Wyrok|https://www.saos.org.pl/judgments/483659
-447661|2021-09-14|SO|VII Ka 676/21|Wyrok|https://www.saos.org.pl/judgments/447661
-442112|2021-03-05|SO|II AKa 68/20|Wyrok|https://www.saos.org.pl/judgments/442112
-443833|2021-02-09|SO|II AKa 358/19|Wyrok|https://www.saos.org.pl/judgments/443833
-59774|2014-08-21|SO|VIII Ka 331/14|Wyrok|https://www.saos.org.pl/judgments/59774
+saos_id|date|court|case_number|type|score|saos_url
+442112|2021-03-05|SO|II AKa 68/20|Wyrok|56|https://www.saos.org.pl/judgments/442112
+443833|2021-02-09|SO|II AKa 358/19|Wyrok|56|https://www.saos.org.pl/judgments/443833

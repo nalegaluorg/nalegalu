@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-26143|2013-08-29|SO|I ACa 299/13|Wyrok|https://www.saos.org.pl/judgments/26143
-139940|2013-07-22|SO|I C 426/08|Wyrok|https://www.saos.org.pl/judgments/139940
+saos_id|date|court|case_number|type|score|saos_url
+26143|2013-08-29|SO|I ACa 299/13|Wyrok|56|https://www.saos.org.pl/judgments/26143

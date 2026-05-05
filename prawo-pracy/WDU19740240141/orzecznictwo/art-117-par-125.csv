@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-319701|2017-11-20|SO|IV P 609/16|Wyrok|https://www.saos.org.pl/judgments/319701
-76651|1994-10-04|SN|I PZP 41/94|Uchwała|https://www.saos.org.pl/judgments/76651
+saos_id|date|court|case_number|type|score|saos_url
+76651|1994-10-04|SN|I PZP 41/94|Uchwała|89|https://www.saos.org.pl/judgments/76651

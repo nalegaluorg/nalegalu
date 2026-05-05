@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-528018|2025-01-21|SO|IV Ca 790/24|Wyrok|https://www.saos.org.pl/judgments/528018
-501710|2024-04-24|SO|II Ca 154/24|Wyrok|https://www.saos.org.pl/judgments/501710
-494144|2023-01-12|SO|I ACa 40/21|Wyrok|https://www.saos.org.pl/judgments/494144
-464638|2021-10-27|SO|I ACa 487/21|Wyrok|https://www.saos.org.pl/judgments/464638
-330929|2018-03-12|SO|I C 576/16|Uzasadnienie|https://www.saos.org.pl/judgments/330929
-270133|2016-11-24|SO|XVIII C 320/15|Wyrok|https://www.saos.org.pl/judgments/270133
-63742|2014-02-10|SO|I C 598/12|Wyrok|https://www.saos.org.pl/judgments/63742
-143524|2013-11-26|SO|I C 1330/11|Wyrok|https://www.saos.org.pl/judgments/143524
-27611|2012-09-04|SO|V Ca 826/12|Wyrok|https://www.saos.org.pl/judgments/27611
+saos_id|date|court|case_number|type|score|saos_url
+494144|2023-01-12|SO|I ACa 40/21|Wyrok|56|https://www.saos.org.pl/judgments/494144
+464638|2021-10-27|SO|I ACa 487/21|Wyrok|56|https://www.saos.org.pl/judgments/464638
+270133|2016-11-24|SO|XVIII C 320/15|Wyrok|40|https://www.saos.org.pl/judgments/270133
+63742|2014-02-10|SO|I C 598/12|Wyrok|40|https://www.saos.org.pl/judgments/63742

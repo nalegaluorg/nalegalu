@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-540734|2025-12-10|SO|III APa 31/24|Wyrok|https://www.saos.org.pl/judgments/540734
-511787|2024-03-01|SO|VII P 32/21|Wyrok|https://www.saos.org.pl/judgments/511787
-94391|2011-03-08|SN|II PK 165/10|Wyrok|https://www.saos.org.pl/judgments/94391
-94336|2011-03-03|SN|II PK 107/10|Wyrok|https://www.saos.org.pl/judgments/94336
-80767|2001-08-07|SN|I PKN 408/00|Wyrok|https://www.saos.org.pl/judgments/80767
+saos_id|date|court|case_number|type|score|saos_url
+94391|2011-03-08|SN|II PK 165/10|Wyrok|78|https://www.saos.org.pl/judgments/94391
+94336|2011-03-03|SN|II PK 107/10|Wyrok|78|https://www.saos.org.pl/judgments/94336
+80767|2001-08-07|SN|I PKN 408/00|Wyrok|78|https://www.saos.org.pl/judgments/80767
+540734|2025-12-10|SO|III APa 31/24|Wyrok|56|https://www.saos.org.pl/judgments/540734
+511787|2024-03-01|SO|VII P 32/21|Wyrok|40|https://www.saos.org.pl/judgments/511787

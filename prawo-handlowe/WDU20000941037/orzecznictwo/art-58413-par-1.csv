@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-521583|2024-10-10|SO|XVII AmT 28/24|Wyrok|https://www.saos.org.pl/judgments/521583
-297282|2017-07-20|SO|I ACa 809/16|Wyrok|https://www.saos.org.pl/judgments/297282
+saos_id|date|court|case_number|type|score|saos_url
+297282|2017-07-20|SO|I ACa 809/16|Wyrok|56|https://www.saos.org.pl/judgments/297282

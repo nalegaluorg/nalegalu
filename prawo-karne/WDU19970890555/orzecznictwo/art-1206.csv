@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531003|2017-06-12|SO|V ACa 729/16|Wyrok|https://www.saos.org.pl/judgments/531003
+saos_id|date|court|case_number|type|score|saos_url
+531003|2017-06-12|SO|V ACa 729/16|Wyrok|56|https://www.saos.org.pl/judgments/531003

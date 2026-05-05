@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-507910|2024-04-04|SO|IV Ka 188/24|Wyrok|https://www.saos.org.pl/judgments/507910
-481413|2022-11-30|SO|II AKa 457/22|Wyrok|https://www.saos.org.pl/judgments/481413
-338340|2018-04-12|SO|V Ka 73/18|Wyrok|https://www.saos.org.pl/judgments/338340
+saos_id|date|court|case_number|type|score|saos_url
+481413|2022-11-30|SO|II AKa 457/22|Wyrok|56|https://www.saos.org.pl/judgments/481413

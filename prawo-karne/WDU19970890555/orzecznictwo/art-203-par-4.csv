@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-480344|2022-11-25|SO|II Kz 264/22|Postanowienie|https://www.saos.org.pl/judgments/480344
-94540|2011-03-25|SN|SNO 9/11|Postanowienie|https://www.saos.org.pl/judgments/94540
-93482|2010-11-24|SN|I KZP 22/10|Uchwała|https://www.saos.org.pl/judgments/93482
-108633|2008-05-27|TK|SK 18/07|Postanowienie|https://www.saos.org.pl/judgments/108633
-108174|2007-07-10|TK|SK 50/06|Wyrok|https://www.saos.org.pl/judgments/108174
+saos_id|date|court|case_number|type|score|saos_url
+108174|2007-07-10|TK|SK 50/06|Wyrok|98|https://www.saos.org.pl/judgments/108174
+93482|2010-11-24|SN|I KZP 22/10|Uchwała|89|https://www.saos.org.pl/judgments/93482
+108633|2008-05-27|TK|SK 18/07|Postanowienie|80|https://www.saos.org.pl/judgments/108633
+94540|2011-03-25|SN|SNO 9/11|Postanowienie|69|https://www.saos.org.pl/judgments/94540

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-155187|2015-04-24|SO|VI GC 413/14|Wyrok|https://www.saos.org.pl/judgments/155187
+saos_id|date|court|case_number|type|score|saos_url
+155187|2015-04-24|SO|VI GC 413/14|Wyrok|40|https://www.saos.org.pl/judgments/155187

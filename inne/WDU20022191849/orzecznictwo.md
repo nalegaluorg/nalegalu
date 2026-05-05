@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 11 grudnia 200
 
 ## art. 45 (1)
 
-- 2004-03-02 | TK | [SK 53/03](https://www.saos.org.pl/judgments/106787) | Wyrok
+- 2004-03-02 | TK | [SK 53/03](https://www.saos.org.pl/judgments/106787) | Wyrok ★
 

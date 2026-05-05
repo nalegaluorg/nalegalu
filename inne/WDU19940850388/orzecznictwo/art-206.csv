@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-305015|2017-07-27|SO|II C 497/16|Wyrok|https://www.saos.org.pl/judgments/305015
-142450|2013-12-04|SO|I C 497/13|Wyrok|https://www.saos.org.pl/judgments/142450
-486|2008-06-26|SO|V ACa 196/08|Wyrok|https://www.saos.org.pl/judgments/486
+saos_id|date|court|case_number|type|score|saos_url
+486|2008-06-26|SO|V ACa 196/08|Wyrok|56|https://www.saos.org.pl/judgments/486
+305015|2017-07-27|SO|II C 497/16|Wyrok|40|https://www.saos.org.pl/judgments/305015

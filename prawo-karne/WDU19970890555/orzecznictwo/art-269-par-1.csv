@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-247081|2016-06-29|SO|VI Ka 441/16|Wyrok|https://www.saos.org.pl/judgments/247081
-152694|2015-03-27|SO|I ACa 84/15|Wyrok|https://www.saos.org.pl/judgments/152694
-258540|2014-07-10|SO|X Ka 516/14|Wyrok|https://www.saos.org.pl/judgments/258540
-9192|2013-03-25|SO|IV Kz 114/13|Postanowienie|https://www.saos.org.pl/judgments/9192
-24638|2012-07-11|SO|I ACa 364/12|Wyrok|https://www.saos.org.pl/judgments/24638
-79478|2000-01-13|SN|III RN 116/99|Wyrok|https://www.saos.org.pl/judgments/79478
+saos_id|date|court|case_number|type|score|saos_url
+79478|2000-01-13|SN|III RN 116/99|Wyrok|78|https://www.saos.org.pl/judgments/79478
+152694|2015-03-27|SO|I ACa 84/15|Wyrok|56|https://www.saos.org.pl/judgments/152694
+24638|2012-07-11|SO|I ACa 364/12|Wyrok|56|https://www.saos.org.pl/judgments/24638

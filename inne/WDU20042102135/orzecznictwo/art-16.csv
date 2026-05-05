@@ -1,17 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-538312|2025-10-13|SO|VII U 1545/24|Wyrok|https://www.saos.org.pl/judgments/538312
-467253|2022-05-04|SO|III AUa 1062/21|Wyrok|https://www.saos.org.pl/judgments/467253
-312888|2017-09-05|SO|III AUa 452/17|Wyrok|https://www.saos.org.pl/judgments/312888
-310789|2017-04-25|SO|III AUa 1890/16|Wyrok|https://www.saos.org.pl/judgments/310789
-311452|2017-04-04|SO|III AUa 701/16|Wyrok|https://www.saos.org.pl/judgments/311452
-312885|2017-03-30|SO|III AUa 1985/15|Wyrok|https://www.saos.org.pl/judgments/312885
-312879|2017-03-28|SO|III AUa 1114/15|Wyrok|https://www.saos.org.pl/judgments/312879
-313904|2017-03-21|SO|III AUa 545/16|Wyrok|https://www.saos.org.pl/judgments/313904
-313901|2017-03-21|SO|III AUa 1522/15|Wyrok|https://www.saos.org.pl/judgments/313901
-313903|2017-03-14|SO|III AUa 1676/15|Wyrok|https://www.saos.org.pl/judgments/313903
-314516|2017-03-07|SO|III AUa 1110/15|Wyrok|https://www.saos.org.pl/judgments/314516
-409872|2017-02-23|SO|III AUa 359/16|Wyrok|https://www.saos.org.pl/judgments/409872
-282243|2017-02-23|SO|III AUa 373/16|Wyrok|https://www.saos.org.pl/judgments/282243
-251227|2016-08-31|SO|I C 269/16|Wyrok|https://www.saos.org.pl/judgments/251227
-199272|2015-12-21|SO|I ACa 666/15|Wyrok|https://www.saos.org.pl/judgments/199272
-35671|2013-09-17|SO|I ACa 650/13|Wyrok|https://www.saos.org.pl/judgments/35671
+saos_id|date|court|case_number|type|score|saos_url
+467253|2022-05-04|SO|III AUa 1062/21|Wyrok|56|https://www.saos.org.pl/judgments/467253
+312888|2017-09-05|SO|III AUa 452/17|Wyrok|56|https://www.saos.org.pl/judgments/312888
+310789|2017-04-25|SO|III AUa 1890/16|Wyrok|56|https://www.saos.org.pl/judgments/310789
+311452|2017-04-04|SO|III AUa 701/16|Wyrok|56|https://www.saos.org.pl/judgments/311452
+312885|2017-03-30|SO|III AUa 1985/15|Wyrok|56|https://www.saos.org.pl/judgments/312885
+312879|2017-03-28|SO|III AUa 1114/15|Wyrok|56|https://www.saos.org.pl/judgments/312879
+313904|2017-03-21|SO|III AUa 545/16|Wyrok|56|https://www.saos.org.pl/judgments/313904
+313901|2017-03-21|SO|III AUa 1522/15|Wyrok|56|https://www.saos.org.pl/judgments/313901
+313903|2017-03-14|SO|III AUa 1676/15|Wyrok|56|https://www.saos.org.pl/judgments/313903
+314516|2017-03-07|SO|III AUa 1110/15|Wyrok|56|https://www.saos.org.pl/judgments/314516
+409872|2017-02-23|SO|III AUa 359/16|Wyrok|56|https://www.saos.org.pl/judgments/409872
+282243|2017-02-23|SO|III AUa 373/16|Wyrok|56|https://www.saos.org.pl/judgments/282243
+199272|2015-12-21|SO|I ACa 666/15|Wyrok|56|https://www.saos.org.pl/judgments/199272
+35671|2013-09-17|SO|I ACa 650/13|Wyrok|56|https://www.saos.org.pl/judgments/35671
+538312|2025-10-13|SO|VII U 1545/24|Wyrok|40|https://www.saos.org.pl/judgments/538312

@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-449970|2021-04-29|SO|I C 727/20|Wyrok|https://www.saos.org.pl/judgments/449970
-439330|2021-01-26|SO|X Ga 443/20|Postanowienie|https://www.saos.org.pl/judgments/439330
-256151|2016-08-31|SO|I ACa 514/16|Wyrok|https://www.saos.org.pl/judgments/256151
-229207|2016-05-25|SO|VI Ga 40/16|Postanowienie|https://www.saos.org.pl/judgments/229207
-230951|2016-05-19|SO|IV GC 1075/15|Wyrok|https://www.saos.org.pl/judgments/230951
-155249|2014-08-07|SO|XV GC 6/12|Uzasadnienie|https://www.saos.org.pl/judgments/155249
-20328|2013-05-07|SO|IX GC 899/12|Wyrok|https://www.saos.org.pl/judgments/20328
-90046|2009-04-16|SN|I CSK 362/08|Wyrok|https://www.saos.org.pl/judgments/90046
+saos_id|date|court|case_number|type|score|saos_url
+90046|2009-04-16|SN|I CSK 362/08|Wyrok|78|https://www.saos.org.pl/judgments/90046
+256151|2016-08-31|SO|I ACa 514/16|Wyrok|56|https://www.saos.org.pl/judgments/256151
+229207|2016-05-25|SO|VI Ga 40/16|Postanowienie|31|https://www.saos.org.pl/judgments/229207

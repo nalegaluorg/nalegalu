@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-194685|2015-12-23|SO|III Ca 1637/15|Uzasadnienie|https://www.saos.org.pl/judgments/194685
-77834|1997-09-24|SN|III RN 44/97|Postanowienie|https://www.saos.org.pl/judgments/77834
-77057|1996-01-25|SN|III ARN 61/95|Wyrok|https://www.saos.org.pl/judgments/77057
-76717|1994-12-01|SN|III ARN 64/94|Wyrok|https://www.saos.org.pl/judgments/76717
+saos_id|date|court|case_number|type|score|saos_url
+77057|1996-01-25|SN|III ARN 61/95|Wyrok|78|https://www.saos.org.pl/judgments/77057
+76717|1994-12-01|SN|III ARN 64/94|Wyrok|78|https://www.saos.org.pl/judgments/76717
+77834|1997-09-24|SN|III RN 44/97|Postanowienie|69|https://www.saos.org.pl/judgments/77834
+194685|2015-12-23|SO|III Ca 1637/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194685

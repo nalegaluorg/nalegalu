@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-181381|2015-10-15|SO|I ACa 504/15|Wyrok|https://www.saos.org.pl/judgments/181381
-148157|2015-01-29|SO|VI ACa 1917/13|Wyrok|https://www.saos.org.pl/judgments/148157
-124999|2015-01-08|SO|X GC 554/10|Uzasadnienie|https://www.saos.org.pl/judgments/124999
-66473|2014-08-22|SO|VIII GC 170/12|Wyrok|https://www.saos.org.pl/judgments/66473
-14595|2013-06-13|SO|VIII GC 327/11|Wyrok|https://www.saos.org.pl/judgments/14595
+saos_id|date|court|case_number|type|score|saos_url
+181381|2015-10-15|SO|I ACa 504/15|Wyrok|56|https://www.saos.org.pl/judgments/181381
+148157|2015-01-29|SO|VI ACa 1917/13|Wyrok|56|https://www.saos.org.pl/judgments/148157
+124999|2015-01-08|SO|X GC 554/10|Uzasadnienie|27|https://www.saos.org.pl/judgments/124999

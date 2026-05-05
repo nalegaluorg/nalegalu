@@ -1,8 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-532587|2025-07-08|SO|II Ca 925/25|Postanowienie|https://www.saos.org.pl/judgments/532587
-543237|2025-06-18|SO|II Ca 1424/25|Postanowienie|https://www.saos.org.pl/judgments/543237
-532396|2025-02-27|SO|II Ca 3191/24|Postanowienie|https://www.saos.org.pl/judgments/532396
-483079|2023-01-20|SO|VI Ka 1272/22|Uzasadnienie|https://www.saos.org.pl/judgments/483079
-484880|2023-01-02|SO|II Ka 287/22|Postanowienie|https://www.saos.org.pl/judgments/484880
-466227|2022-05-25|SO|IV Ka 1522/21|Wyrok|https://www.saos.org.pl/judgments/466227
-414328|2020-01-13|SO|II Cz 3429/19|Postanowienie|https://www.saos.org.pl/judgments/414328
+saos_id|date|court|case_number|type|score|saos_url
+543237|2025-06-18|SO|II Ca 1424/25|Postanowienie|31|https://www.saos.org.pl/judgments/543237
+532396|2025-02-27|SO|II Ca 3191/24|Postanowienie|31|https://www.saos.org.pl/judgments/532396
+414328|2020-01-13|SO|II Cz 3429/19|Postanowienie|31|https://www.saos.org.pl/judgments/414328
+483079|2023-01-20|SO|VI Ka 1272/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/483079

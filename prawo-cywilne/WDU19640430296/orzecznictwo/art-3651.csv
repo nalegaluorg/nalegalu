@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-512740|2024-03-07|SO|VIII Ga 257/23|Wyrok|https://www.saos.org.pl/judgments/512740
-465641|2022-05-09|SO|I C 661/21|Wyrok|https://www.saos.org.pl/judgments/465641
-421519|2019-06-05|SO|VI ACa 129/18|Wyrok|https://www.saos.org.pl/judgments/421519
-148610|2014-07-15|SO|II Cz 416/14|Postanowienie|https://www.saos.org.pl/judgments/148610
-181611|2014-03-11|SO|I C 1008/13|Wyrok|https://www.saos.org.pl/judgments/181611
-88793|2008-09-29|SN|II CNP 72/08|Postanowienie|https://www.saos.org.pl/judgments/88793
+saos_id|date|court|case_number|type|score|saos_url
+88793|2008-09-29|SN|II CNP 72/08|Postanowienie|69|https://www.saos.org.pl/judgments/88793
+421519|2019-06-05|SO|VI ACa 129/18|Wyrok|56|https://www.saos.org.pl/judgments/421519

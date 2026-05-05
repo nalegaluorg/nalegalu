@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-403979|2017-03-22|SO|VII K 51/17|Wyrok|https://www.saos.org.pl/judgments/403979
-196412|2015-12-21|SO|III K 87/15|Wyrok|https://www.saos.org.pl/judgments/196412
+saos_id|date|court|case_number|type|score|saos_url
+196412|2015-12-21|SO|III K 87/15|Wyrok|40|https://www.saos.org.pl/judgments/196412

@@ -1,17 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-511255|2024-07-03|SO|VI Ka 715/24|Wyrok|https://www.saos.org.pl/judgments/511255
-508638|2024-04-29|SO|IV Ka 94/24|Wyrok|https://www.saos.org.pl/judgments/508638
-436591|2020-10-06|SO|II AKzw 1504/20|Postanowienie|https://www.saos.org.pl/judgments/436591
-417270|2020-06-29|SO|VI Ka 325/19|Wyrok|https://www.saos.org.pl/judgments/417270
-410085|2020-01-13|SO|VI Ka 176/19|Wyrok|https://www.saos.org.pl/judgments/410085
-237571|2016-06-21|SO|IV Ka 411/16|Wyrok|https://www.saos.org.pl/judgments/237571
-227736|2016-05-06|SO|IV Ka 189/16|Uzasadnienie|https://www.saos.org.pl/judgments/227736
-243906|2015-11-27|SN|II KK 253/15|Wyrok|https://www.saos.org.pl/judgments/243906
-155052|2015-05-14|SO|II AKa 102/15|Wyrok|https://www.saos.org.pl/judgments/155052
-74020|2014-11-06|SO|IV Ka 452/14|Wyrok|https://www.saos.org.pl/judgments/74020
-105065|2014-05-08|SN|SDI 11/14|Postanowienie|https://www.saos.org.pl/judgments/105065
-41545|2014-03-20|SO|I ACa 848/13|Wyrok|https://www.saos.org.pl/judgments/41545
-140425|2013-09-23|SO|I C 648/12|Wyrok|https://www.saos.org.pl/judgments/140425
-102927|2013-09-18|SN|V KZ 66/13|Postanowienie|https://www.saos.org.pl/judgments/102927
-100801|2013-02-19|SN|II KZ 5/13|Postanowienie|https://www.saos.org.pl/judgments/100801
-94342|2011-03-02|SN|II PK 213/10|Wyrok|https://www.saos.org.pl/judgments/94342
+saos_id|date|court|case_number|type|score|saos_url
+243906|2015-11-27|SN|II KK 253/15|Wyrok|78|https://www.saos.org.pl/judgments/243906
+94342|2011-03-02|SN|II PK 213/10|Wyrok|78|https://www.saos.org.pl/judgments/94342
+105065|2014-05-08|SN|SDI 11/14|Postanowienie|69|https://www.saos.org.pl/judgments/105065
+102927|2013-09-18|SN|V KZ 66/13|Postanowienie|69|https://www.saos.org.pl/judgments/102927
+100801|2013-02-19|SN|II KZ 5/13|Postanowienie|69|https://www.saos.org.pl/judgments/100801
+155052|2015-05-14|SO|II AKa 102/15|Wyrok|56|https://www.saos.org.pl/judgments/155052
+41545|2014-03-20|SO|I ACa 848/13|Wyrok|56|https://www.saos.org.pl/judgments/41545
+436591|2020-10-06|SO|II AKzw 1504/20|Postanowienie|47|https://www.saos.org.pl/judgments/436591
+511255|2024-07-03|SO|VI Ka 715/24|Wyrok|40|https://www.saos.org.pl/judgments/511255
+508638|2024-04-29|SO|IV Ka 94/24|Wyrok|40|https://www.saos.org.pl/judgments/508638
+417270|2020-06-29|SO|VI Ka 325/19|Wyrok|40|https://www.saos.org.pl/judgments/417270
+410085|2020-01-13|SO|VI Ka 176/19|Wyrok|40|https://www.saos.org.pl/judgments/410085
+74020|2014-11-06|SO|IV Ka 452/14|Wyrok|40|https://www.saos.org.pl/judgments/74020

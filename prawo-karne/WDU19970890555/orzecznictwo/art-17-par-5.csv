@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-507955|2024-07-19|SO|IV Ka 235/24|Uzasadnienie|https://www.saos.org.pl/judgments/507955
-330269|2017-12-28|SO|II AKa 267/17|Wyrok|https://www.saos.org.pl/judgments/330269
-241231|2016-08-23|SO|IV Ka 754/16|Wyrok|https://www.saos.org.pl/judgments/241231
-231314|2016-06-02|SO|II Ca 295/16|Wyrok|https://www.saos.org.pl/judgments/231314
-257324|2016-03-14|SO|II Ca 97/16|Wyrok|https://www.saos.org.pl/judgments/257324
-257323|2016-03-14|SO|II Ca 96/16|Wyrok|https://www.saos.org.pl/judgments/257323
-136446|2012-09-28|SO|II AKa 258/12|Wyrok|https://www.saos.org.pl/judgments/136446
+saos_id|date|court|case_number|type|score|saos_url
+330269|2017-12-28|SO|II AKa 267/17|Wyrok|56|https://www.saos.org.pl/judgments/330269
+136446|2012-09-28|SO|II AKa 258/12|Wyrok|56|https://www.saos.org.pl/judgments/136446
+241231|2016-08-23|SO|IV Ka 754/16|Wyrok|40|https://www.saos.org.pl/judgments/241231

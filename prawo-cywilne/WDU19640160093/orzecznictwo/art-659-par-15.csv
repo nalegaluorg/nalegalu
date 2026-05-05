@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-102040|2013-06-12|SN|II CSK 610/12|Wyrok|https://www.saos.org.pl/judgments/102040
+saos_id|date|court|case_number|type|score|saos_url
+102040|2013-06-12|SN|II CSK 610/12|Wyrok|78|https://www.saos.org.pl/judgments/102040

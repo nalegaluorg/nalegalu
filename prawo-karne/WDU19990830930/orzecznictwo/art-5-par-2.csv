@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-442029|2020-12-29|SO|II AKa 388/19|Wyrok|https://www.saos.org.pl/judgments/442029
-365065|2018-10-11|SO|II K 13/18|Wyrok|https://www.saos.org.pl/judgments/365065
-257959|2016-11-17|SO|XVII Ka 1040/16|Wyrok|https://www.saos.org.pl/judgments/257959
-194965|2015-12-21|SO|V Ka 1289/15|Uzasadnienie|https://www.saos.org.pl/judgments/194965
-46518|2014-05-19|SO|V Kz 234/14|Uzasadnienie|https://www.saos.org.pl/judgments/46518
-82677|2004-05-21|SN|I KZP 6/04|Uchwała|https://www.saos.org.pl/judgments/82677
+saos_id|date|court|case_number|type|score|saos_url
+82677|2004-05-21|SN|I KZP 6/04|Uchwała|89|https://www.saos.org.pl/judgments/82677
+442029|2020-12-29|SO|II AKa 388/19|Wyrok|56|https://www.saos.org.pl/judgments/442029
+365065|2018-10-11|SO|II K 13/18|Wyrok|40|https://www.saos.org.pl/judgments/365065
+257959|2016-11-17|SO|XVII Ka 1040/16|Wyrok|40|https://www.saos.org.pl/judgments/257959
+194965|2015-12-21|SO|V Ka 1289/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194965
+46518|2014-05-19|SO|V Kz 234/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/46518

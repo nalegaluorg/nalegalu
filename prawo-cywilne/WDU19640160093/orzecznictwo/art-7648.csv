@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-376285|2017-10-04|SO|XXVI GC 753/16|Wyrok|https://www.saos.org.pl/judgments/376285
-283560|2016-03-07|SO|IX GC 1396/14|Wyrok|https://www.saos.org.pl/judgments/283560
-7780|2012-10-18|SO|VI ACa 240/12|Wyrok|https://www.saos.org.pl/judgments/7780
+saos_id|date|court|case_number|type|score|saos_url
+7780|2012-10-18|SO|VI ACa 240/12|Wyrok|56|https://www.saos.org.pl/judgments/7780
+283560|2016-03-07|SO|IX GC 1396/14|Wyrok|40|https://www.saos.org.pl/judgments/283560

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-531005|2024-10-30|SO|V AGa 335/22|Wyrok|https://www.saos.org.pl/judgments/531005
-463332|2021-07-08|SO|V AGo 15/20|Postanowienie|https://www.saos.org.pl/judgments/463332
-286683|2012-02-09|SO|IV C 196/11|Wyrok|https://www.saos.org.pl/judgments/286683
+saos_id|date|court|case_number|type|score|saos_url
+531005|2024-10-30|SO|V AGa 335/22|Wyrok|56|https://www.saos.org.pl/judgments/531005
+463332|2021-07-08|SO|V AGo 15/20|Postanowienie|47|https://www.saos.org.pl/judgments/463332

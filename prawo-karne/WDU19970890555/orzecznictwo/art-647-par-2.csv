@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243655|2015-10-20|SN|WZ 16/15|Postanowienie|https://www.saos.org.pl/judgments/243655
-245637|2015-06-09|SN|WK 5/15|Postanowienie|https://www.saos.org.pl/judgments/245637
-78870|1999-02-23|SN|WZP 1/99|Postanowienie|https://www.saos.org.pl/judgments/78870
+saos_id|date|court|case_number|type|score|saos_url
+243655|2015-10-20|SN|WZ 16/15|Postanowienie|69|https://www.saos.org.pl/judgments/243655
+245637|2015-06-09|SN|WK 5/15|Postanowienie|69|https://www.saos.org.pl/judgments/245637
+78870|1999-02-23|SN|WZP 1/99|Postanowienie|69|https://www.saos.org.pl/judgments/78870

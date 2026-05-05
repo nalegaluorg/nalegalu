@@ -1,2 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-472566|2020-11-09|SO|III RC 290/19|Postanowienie|https://www.saos.org.pl/judgments/472566
+saos_id|date|court|case_number|type|score|saos_url
+528104|2024-12-10|SO|I ACa 1337/23|Wyrok|56|https://www.saos.org.pl/judgments/528104
+485165|2022-04-06|SO|I AGa 248/21|Wyrok|56|https://www.saos.org.pl/judgments/485165
+453092|2021-09-17|SO|VIII Pa 73/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/453092

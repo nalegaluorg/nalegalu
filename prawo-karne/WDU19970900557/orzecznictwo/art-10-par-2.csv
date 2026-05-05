@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-16921|2013-03-14|SO|I ACa 846/12|Wyrok|https://www.saos.org.pl/judgments/16921
-24994|2012-10-11|SO|II Ca 466/12|Wyrok|https://www.saos.org.pl/judgments/24994
-238095|2012-05-10|SO|II Ca 235/12|Wyrok|https://www.saos.org.pl/judgments/238095
-238094|2012-04-19|SO|II Ca 206/12|Wyrok|https://www.saos.org.pl/judgments/238094
+saos_id|date|court|case_number|type|score|saos_url
+16921|2013-03-14|SO|I ACa 846/12|Wyrok|56|https://www.saos.org.pl/judgments/16921

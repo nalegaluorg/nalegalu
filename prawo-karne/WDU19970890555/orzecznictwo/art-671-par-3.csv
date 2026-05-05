@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-252118|2015-10-22|SO|II AKa 310/15|Wyrok|https://www.saos.org.pl/judgments/252118
-105078|2014-05-06|SN|WK 3/14|Wyrok|https://www.saos.org.pl/judgments/105078
-102456|2013-07-10|SN|WK 11/13|Wyrok|https://www.saos.org.pl/judgments/102456
-100236|2013-01-03|SN|WK 11/12|Wyrok|https://www.saos.org.pl/judgments/100236
+saos_id|date|court|case_number|type|score|saos_url
+105078|2014-05-06|SN|WK 3/14|Wyrok|78|https://www.saos.org.pl/judgments/105078
+102456|2013-07-10|SN|WK 11/13|Wyrok|78|https://www.saos.org.pl/judgments/102456
+100236|2013-01-03|SN|WK 11/12|Wyrok|78|https://www.saos.org.pl/judgments/100236
+252118|2015-10-22|SO|II AKa 310/15|Wyrok|56|https://www.saos.org.pl/judgments/252118

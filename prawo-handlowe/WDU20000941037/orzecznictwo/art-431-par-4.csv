@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-377687|2019-02-22|SO|II AKa 259/18|Wyrok|https://www.saos.org.pl/judgments/377687
-205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|https://www.saos.org.pl/judgments/205168
-51342|2014-05-28|SO|I ACa 3/14|Wyrok|https://www.saos.org.pl/judgments/51342
+saos_id|date|court|case_number|type|score|saos_url
+377687|2019-02-22|SO|II AKa 259/18|Wyrok|56|https://www.saos.org.pl/judgments/377687
+51342|2014-05-28|SO|I ACa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/51342
+205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205168

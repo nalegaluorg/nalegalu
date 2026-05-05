@@ -1,14 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|https://www.saos.org.pl/judgments/54648
-51443|2014-05-29|SO|III AUz 103/14|Postanowienie|https://www.saos.org.pl/judgments/51443
-95693|2011-09-09|SN|III PK 4/11|Wyrok|https://www.saos.org.pl/judgments/95693
-86935|2007-12-11|SN|I PK 157/07|Wyrok|https://www.saos.org.pl/judgments/86935
-86505|2007-08-27|SN|SNO 45/07|Wyrok|https://www.saos.org.pl/judgments/86505
-85641|2007-04-12|SN|I PK 15/07|Postanowienie|https://www.saos.org.pl/judgments/85641
-84385|2006-06-14|SN|I PK 249/05|Wyrok|https://www.saos.org.pl/judgments/84385
-83364|2005-04-28|SN|III CZP 22/05|Uchwała|https://www.saos.org.pl/judgments/83364
-106336|2003-02-24|TK|K 28/02|Postanowienie|https://www.saos.org.pl/judgments/106336
-81179|2002-02-05|SN|I PKN 845/00|Wyrok|https://www.saos.org.pl/judgments/81179
-80917|2001-10-18|SN|III CZP 50/01|Uchwała|https://www.saos.org.pl/judgments/80917
-79958|2000-09-26|SN|III CZP 25/00|Uchwała|https://www.saos.org.pl/judgments/79958
-78337|1998-05-20|SN|I PKN 143/98|Wyrok|https://www.saos.org.pl/judgments/78337
+saos_id|date|court|case_number|type|score|saos_url
+83364|2005-04-28|SN|III CZP 22/05|Uchwała|89|https://www.saos.org.pl/judgments/83364
+80917|2001-10-18|SN|III CZP 50/01|Uchwała|89|https://www.saos.org.pl/judgments/80917
+79958|2000-09-26|SN|III CZP 25/00|Uchwała|89|https://www.saos.org.pl/judgments/79958
+106336|2003-02-24|TK|K 28/02|Postanowienie|80|https://www.saos.org.pl/judgments/106336
+95693|2011-09-09|SN|III PK 4/11|Wyrok|78|https://www.saos.org.pl/judgments/95693
+86935|2007-12-11|SN|I PK 157/07|Wyrok|78|https://www.saos.org.pl/judgments/86935
+86505|2007-08-27|SN|SNO 45/07|Wyrok|78|https://www.saos.org.pl/judgments/86505
+84385|2006-06-14|SN|I PK 249/05|Wyrok|78|https://www.saos.org.pl/judgments/84385
+81179|2002-02-05|SN|I PKN 845/00|Wyrok|78|https://www.saos.org.pl/judgments/81179
+78337|1998-05-20|SN|I PKN 143/98|Wyrok|78|https://www.saos.org.pl/judgments/78337
+85641|2007-04-12|SN|I PK 15/07|Postanowienie|69|https://www.saos.org.pl/judgments/85641
+51443|2014-05-29|SO|III AUz 103/14|Postanowienie|47|https://www.saos.org.pl/judgments/51443
+54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/54648

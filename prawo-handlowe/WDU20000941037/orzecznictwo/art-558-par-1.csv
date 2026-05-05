@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-520144|2022-06-20|SO|V GC 167/21|Wyrok|https://www.saos.org.pl/judgments/520144
-216524|2016-04-07|SO|XIII Ga 981/15|Uzasadnienie|https://www.saos.org.pl/judgments/216524
-88809|2008-10-02|SN|II CSK 186/08|Postanowienie|https://www.saos.org.pl/judgments/88809
+saos_id|date|court|case_number|type|score|saos_url
+88809|2008-10-02|SN|II CSK 186/08|Postanowienie|69|https://www.saos.org.pl/judgments/88809
+520144|2022-06-20|SO|V GC 167/21|Wyrok|40|https://www.saos.org.pl/judgments/520144
+216524|2016-04-07|SO|XIII Ga 981/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/216524

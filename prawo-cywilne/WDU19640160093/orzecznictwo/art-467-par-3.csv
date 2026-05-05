@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-443985|2021-04-08|SO|XXIII Ga 1443/20|Postanowienie|https://www.saos.org.pl/judgments/443985
-299383|2016-05-30|SO|VI GC 1/16|Wyrok|https://www.saos.org.pl/judgments/299383
-148376|2015-03-20|SO|I ACa 935/14|Wyrok|https://www.saos.org.pl/judgments/148376
+saos_id|date|court|case_number|type|score|saos_url
+148376|2015-03-20|SO|I ACa 935/14|Wyrok|56|https://www.saos.org.pl/judgments/148376
+299383|2016-05-30|SO|VI GC 1/16|Wyrok|40|https://www.saos.org.pl/judgments/299383

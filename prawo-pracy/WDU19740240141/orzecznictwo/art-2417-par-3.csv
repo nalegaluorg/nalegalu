@@ -1,2 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-417617|2020-02-20|SO|VIII Pa 73/19|Wyrok|https://www.saos.org.pl/judgments/417617
+saos_id|date|court|case_number|type|score|saos_url
+98714|2012-07-26|SN|I PK 24/12|Wyrok|78|https://www.saos.org.pl/judgments/98714
+98713|2012-07-26|SN|I PK 23/12|Wyrok|78|https://www.saos.org.pl/judgments/98713
+540734|2025-12-10|SO|III APa 31/24|Wyrok|56|https://www.saos.org.pl/judgments/540734
+284498|2017-04-06|SO|III APa 2/17|Wyrok|56|https://www.saos.org.pl/judgments/284498
+511787|2024-03-01|SO|VII P 32/21|Wyrok|40|https://www.saos.org.pl/judgments/511787

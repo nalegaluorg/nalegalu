@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-419321|2020-06-22|SO|I ACa 736/18|Wyrok|https://www.saos.org.pl/judgments/419321
-434698|2018-12-13|SO|I ACa 284/18|Wyrok|https://www.saos.org.pl/judgments/434698
+saos_id|date|court|case_number|type|score|saos_url
+419321|2020-06-22|SO|I ACa 736/18|Wyrok|56|https://www.saos.org.pl/judgments/419321
+434698|2018-12-13|SO|I ACa 284/18|Wyrok|56|https://www.saos.org.pl/judgments/434698

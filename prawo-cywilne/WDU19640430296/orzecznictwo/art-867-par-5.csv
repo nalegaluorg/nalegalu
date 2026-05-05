@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-451981|2021-09-10|SO|I C 1414/16|Wyrok|https://www.saos.org.pl/judgments/451981
-434682|2019-12-09|SO|I ACa 1163/18|Wyrok|https://www.saos.org.pl/judgments/434682
+saos_id|date|court|case_number|type|score|saos_url
+434682|2019-12-09|SO|I ACa 1163/18|Wyrok|56|https://www.saos.org.pl/judgments/434682

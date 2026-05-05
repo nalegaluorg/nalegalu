@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-537838|2025-03-10|SO|IV P 230/24|Wyrok|https://www.saos.org.pl/judgments/537838
-492648|2023-05-30|SO|VI P 380/19|Wyrok|https://www.saos.org.pl/judgments/492648
-489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|https://www.saos.org.pl/judgments/489823
-371613|2019-01-22|SO|X P 597/17|Wyrok|https://www.saos.org.pl/judgments/371613
-294024|2017-04-19|SO|V U 212/17|Wyrok|https://www.saos.org.pl/judgments/294024
+saos_id|date|court|case_number|type|score|saos_url
+489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/489823
+492648|2023-05-30|SO|VI P 380/19|Wyrok|40|https://www.saos.org.pl/judgments/492648
+294024|2017-04-19|SO|V U 212/17|Wyrok|40|https://www.saos.org.pl/judgments/294024

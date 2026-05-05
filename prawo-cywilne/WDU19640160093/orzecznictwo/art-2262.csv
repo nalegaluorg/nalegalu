@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-101876|2013-05-23|SN|IV CZ 50/13|Postanowienie|https://www.saos.org.pl/judgments/101876
-99059|2012-09-20|SN|IV CSK 46/12|Wyrok|https://www.saos.org.pl/judgments/99059
+saos_id|date|court|case_number|type|score|saos_url
+99059|2012-09-20|SN|IV CSK 46/12|Wyrok|78|https://www.saos.org.pl/judgments/99059
+101876|2013-05-23|SN|IV CZ 50/13|Postanowienie|69|https://www.saos.org.pl/judgments/101876

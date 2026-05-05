@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-467141|2022-04-05|SO|XI GC 758/21|Zarządzenie|https://www.saos.org.pl/judgments/467141
-247840|2016-07-28|SO|XII C 916/15|Wyrok|https://www.saos.org.pl/judgments/247840
-4401|2012-12-28|SO|I ACa 928/12|Wyrok|https://www.saos.org.pl/judgments/4401
-81225|2002-02-20|SN|III RN 220/00|Wyrok|https://www.saos.org.pl/judgments/81225
-105548|2000-04-18|TK|Ts 32/00|Postanowienie|https://www.saos.org.pl/judgments/105548
-205950|1999-01-12|TK|P 2/98|Wyrok|https://www.saos.org.pl/judgments/205950
-77835|1997-09-24|SN|III RN 45/97|Wyrok|https://www.saos.org.pl/judgments/77835
-77785|1997-09-03|SN|III RN 33/97|Wyrok|https://www.saos.org.pl/judgments/77785
-77588|1997-04-17|SN|III RN 12/97|Wyrok|https://www.saos.org.pl/judgments/77588
-77586|1997-04-17|SN|III RN 10/97|Wyrok|https://www.saos.org.pl/judgments/77586
-205697|1996-01-31|TK|K 9/95|Wyrok|https://www.saos.org.pl/judgments/205697
+saos_id|date|court|case_number|type|score|saos_url
+205950|1999-01-12|TK|P 2/98|Wyrok|98|https://www.saos.org.pl/judgments/205950
+205697|1996-01-31|TK|K 9/95|Wyrok|98|https://www.saos.org.pl/judgments/205697
+105548|2000-04-18|TK|Ts 32/00|Postanowienie|80|https://www.saos.org.pl/judgments/105548
+81225|2002-02-20|SN|III RN 220/00|Wyrok|78|https://www.saos.org.pl/judgments/81225
+77835|1997-09-24|SN|III RN 45/97|Wyrok|78|https://www.saos.org.pl/judgments/77835
+77785|1997-09-03|SN|III RN 33/97|Wyrok|78|https://www.saos.org.pl/judgments/77785
+77588|1997-04-17|SN|III RN 12/97|Wyrok|78|https://www.saos.org.pl/judgments/77588
+77586|1997-04-17|SN|III RN 10/97|Wyrok|78|https://www.saos.org.pl/judgments/77586
+4401|2012-12-28|SO|I ACa 928/12|Wyrok|56|https://www.saos.org.pl/judgments/4401
+247840|2016-07-28|SO|XII C 916/15|Wyrok|40|https://www.saos.org.pl/judgments/247840

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-167586|2014-12-05|SN|IV CZ 89/14|Postanowienie|https://www.saos.org.pl/judgments/167586
-90468|2009-06-23|SN|II PZ 3/09|Postanowienie|https://www.saos.org.pl/judgments/90468
-88097|2008-05-14|SN|IV CZ 37/08|Postanowienie|https://www.saos.org.pl/judgments/88097
-87093|2008-01-18|SN|V CZ 131/07|Postanowienie|https://www.saos.org.pl/judgments/87093
+saos_id|date|court|case_number|type|score|saos_url
+167586|2014-12-05|SN|IV CZ 89/14|Postanowienie|69|https://www.saos.org.pl/judgments/167586
+90468|2009-06-23|SN|II PZ 3/09|Postanowienie|69|https://www.saos.org.pl/judgments/90468
+88097|2008-05-14|SN|IV CZ 37/08|Postanowienie|69|https://www.saos.org.pl/judgments/88097
+87093|2008-01-18|SN|V CZ 131/07|Postanowienie|69|https://www.saos.org.pl/judgments/87093

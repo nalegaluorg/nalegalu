@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-528413|2024-04-24|SO|VIII Kop 25/24|Postanowienie|https://www.saos.org.pl/judgments/528413
-415551|2020-04-22|SO|III K 371/19|Wyrok|https://www.saos.org.pl/judgments/415551
+saos_id|date|court|case_number|type|score|saos_url
+415551|2020-04-22|SO|III K 371/19|Wyrok|40|https://www.saos.org.pl/judgments/415551

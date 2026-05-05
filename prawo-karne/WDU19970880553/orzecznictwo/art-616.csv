@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-356338|2018-05-17|SO|II K 263/17|Uzasadnienie|https://www.saos.org.pl/judgments/356338
-338167|2018-03-21|SO|II AKa 44/18|Wyrok|https://www.saos.org.pl/judgments/338167
-284023|2016-12-16|SO|II K 772/15|Wyrok|https://www.saos.org.pl/judgments/284023
+saos_id|date|court|case_number|type|score|saos_url
+338167|2018-03-21|SO|II AKa 44/18|Wyrok|56|https://www.saos.org.pl/judgments/338167

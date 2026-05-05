@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101476|2013-04-18|SN|II KK 97/13|Wyrok|https://www.saos.org.pl/judgments/101476
+saos_id|date|court|case_number|type|score|saos_url
+101476|2013-04-18|SN|II KK 97/13|Wyrok|78|https://www.saos.org.pl/judgments/101476

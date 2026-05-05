@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-544643|2025-12-11|SO|I Ns 62/24|Postanowienie|https://www.saos.org.pl/judgments/544643
-465573|2021-07-08|SO|VI Ga 309/20|Wyrok|https://www.saos.org.pl/judgments/465573
+saos_id|date|court|case_number|type|score|saos_url
+465573|2021-07-08|SO|VI Ga 309/20|Wyrok|40|https://www.saos.org.pl/judgments/465573

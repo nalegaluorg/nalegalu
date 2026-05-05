@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-544276|2025-03-10|SO|III Nsm 879/21|Uzasadnienie|https://www.saos.org.pl/judgments/544276
-430271|2020-06-16|SO|II Ca 1328/19|Wyrok|https://www.saos.org.pl/judgments/430271
-266501|2016-12-21|SO|III Ca 1243/16|Wyrok|https://www.saos.org.pl/judgments/266501
-128702|2014-12-15|SO|II Cz 703/14|Postanowienie|https://www.saos.org.pl/judgments/128702
+saos_id|date|court|case_number|type|score|saos_url
+430271|2020-06-16|SO|II Ca 1328/19|Wyrok|40|https://www.saos.org.pl/judgments/430271

@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-533915|2025-05-21|SO|VI Pa 144/24|Wyrok|https://www.saos.org.pl/judgments/533915
+saos_id|date|court|case_number|type|score|saos_url
+530919|2024-09-30|SO|III APa 2/24|Wyrok|56|https://www.saos.org.pl/judgments/530919
+500922|2023-10-30|SO|II AKa 309/23|Wyrok|56|https://www.saos.org.pl/judgments/500922
+514652|2024-07-05|SO|XIII Ga 1081/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514652
+534251|2024-06-03|SO|III Ca 358/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534251

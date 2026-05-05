@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-445638|2021-07-02|SO|IV Ka 361/21|Uzasadnienie|https://www.saos.org.pl/judgments/445638
-244739|2016-02-23|SN|WA 21/15|Wyrok|https://www.saos.org.pl/judgments/244739
+saos_id|date|court|case_number|type|score|saos_url
+244739|2016-02-23|SN|WA 21/15|Wyrok|78|https://www.saos.org.pl/judgments/244739

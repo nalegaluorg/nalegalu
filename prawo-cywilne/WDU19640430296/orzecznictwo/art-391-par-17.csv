@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-170107|2015-05-21|SO|I Ca 208/15|Wyrok|https://www.saos.org.pl/judgments/170107
-165862|2014-05-21|SN|II CSK 52/14|Wyrok|https://www.saos.org.pl/judgments/165862
-102822|2013-09-11|SN|III CSK 5/13|Wyrok|https://www.saos.org.pl/judgments/102822
+saos_id|date|court|case_number|type|score|saos_url
+165862|2014-05-21|SN|II CSK 52/14|Wyrok|78|https://www.saos.org.pl/judgments/165862
+102822|2013-09-11|SN|III CSK 5/13|Wyrok|78|https://www.saos.org.pl/judgments/102822
+170107|2015-05-21|SO|I Ca 208/15|Wyrok|40|https://www.saos.org.pl/judgments/170107

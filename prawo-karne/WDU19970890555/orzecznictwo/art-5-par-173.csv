@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-356776|2018-05-09|SO|VI Ka 1055/17|Wyrok|https://www.saos.org.pl/judgments/356776
-169084|2015-05-19|SN|V KK 53/15|Wyrok|https://www.saos.org.pl/judgments/169084
-143706|2014-02-07|SO|II AKa 427/13|Wyrok|https://www.saos.org.pl/judgments/143706
+saos_id|date|court|case_number|type|score|saos_url
+169084|2015-05-19|SN|V KK 53/15|Wyrok|78|https://www.saos.org.pl/judgments/169084
+143706|2014-02-07|SO|II AKa 427/13|Wyrok|56|https://www.saos.org.pl/judgments/143706
+356776|2018-05-09|SO|VI Ka 1055/17|Wyrok|40|https://www.saos.org.pl/judgments/356776

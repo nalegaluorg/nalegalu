@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-340871|2017-11-27|SO|VII ACa 824/17|Wyrok|https://www.saos.org.pl/judgments/340871
-181907|2015-08-05|SO|I C 1765/14|Wyrok|https://www.saos.org.pl/judgments/181907
-269487|2014-07-25|SO|III C 439/11|Wyrok|https://www.saos.org.pl/judgments/269487
-29606|2013-12-05|SO|II Ca 814/13|Wyrok|https://www.saos.org.pl/judgments/29606
-524966|2012-12-12|SO|XX GC 635/12|Uzasadnienie|https://www.saos.org.pl/judgments/524966
-89199|2008-11-20|SN|III CSK 184/08|Wyrok|https://www.saos.org.pl/judgments/89199
+saos_id|date|court|case_number|type|score|saos_url
+89199|2008-11-20|SN|III CSK 184/08|Wyrok|78|https://www.saos.org.pl/judgments/89199
+340871|2017-11-27|SO|VII ACa 824/17|Wyrok|56|https://www.saos.org.pl/judgments/340871
+269487|2014-07-25|SO|III C 439/11|Wyrok|40|https://www.saos.org.pl/judgments/269487

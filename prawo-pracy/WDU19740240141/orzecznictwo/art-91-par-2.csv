@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-369297|2018-11-22|SO|VIII Pa 80/18|Wyrok|https://www.saos.org.pl/judgments/369297
-98741|2012-08-03|SN|I BP 2/12|Wyrok|https://www.saos.org.pl/judgments/98741
+saos_id|date|court|case_number|type|score|saos_url
+98741|2012-08-03|SN|I BP 2/12|Wyrok|78|https://www.saos.org.pl/judgments/98741

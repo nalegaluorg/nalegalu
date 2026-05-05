@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-241498|2016-07-15|SO|I Ca 260/16|Wyrok|https://www.saos.org.pl/judgments/241498
-54321|2014-05-22|SO|I ACa 110/14|Wyrok|https://www.saos.org.pl/judgments/54321
+saos_id|date|court|case_number|type|score|saos_url
+54321|2014-05-22|SO|I ACa 110/14|Wyrok|56|https://www.saos.org.pl/judgments/54321

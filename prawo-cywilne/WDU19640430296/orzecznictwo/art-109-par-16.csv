@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-457641|2021-06-02|SO|III Ca 236/20|Uzasadnienie|https://www.saos.org.pl/judgments/457641
-414775|2019-04-10|SO|I ACa 31/19|Wyrok|https://www.saos.org.pl/judgments/414775
+saos_id|date|court|case_number|type|score|saos_url
+414775|2019-04-10|SO|I ACa 31/19|Wyrok|56|https://www.saos.org.pl/judgments/414775
+457641|2021-06-02|SO|III Ca 236/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/457641

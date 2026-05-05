@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-455719|2021-12-10|SO|II AKa 179/20|Uzasadnienie|https://www.saos.org.pl/judgments/455719
-108530|2008-07-22|TK|K 24/07|Wyrok|https://www.saos.org.pl/judgments/108530
+saos_id|date|court|case_number|type|score|saos_url
+108530|2008-07-22|TK|K 24/07|Wyrok|98|https://www.saos.org.pl/judgments/108530
+455719|2021-12-10|SO|II AKa 179/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/455719

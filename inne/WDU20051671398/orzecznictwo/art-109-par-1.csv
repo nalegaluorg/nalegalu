@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-152644|2015-03-24|SO|V Ua 28/14|Wyrok|https://www.saos.org.pl/judgments/152644
-95144|2011-06-08|SN|I PZ 12/11|Postanowienie|https://www.saos.org.pl/judgments/95144
+saos_id|date|court|case_number|type|score|saos_url
+95144|2011-06-08|SN|I PZ 12/11|Postanowienie|69|https://www.saos.org.pl/judgments/95144

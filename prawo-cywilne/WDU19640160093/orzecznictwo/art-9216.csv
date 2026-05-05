@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-313507|2017-11-06|SO|XII C 58/17|Wyrok|https://www.saos.org.pl/judgments/313507
+saos_id|date|court|case_number|type|score|saos_url
+313507|2017-11-06|SO|XII C 58/17|Wyrok|40|https://www.saos.org.pl/judgments/313507

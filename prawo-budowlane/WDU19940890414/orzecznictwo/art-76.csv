@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-527554|2025-04-09|SO|II K 1378/23|Uzasadnienie|https://www.saos.org.pl/judgments/527554
-438057|2021-01-19|SO|I ACa 505/19|Wyrok|https://www.saos.org.pl/judgments/438057
-141103|2013-04-19|SO|II AKa 447/12|Wyrok|https://www.saos.org.pl/judgments/141103
+saos_id|date|court|case_number|type|score|saos_url
+438057|2021-01-19|SO|I ACa 505/19|Wyrok|56|https://www.saos.org.pl/judgments/438057
+141103|2013-04-19|SO|II AKa 447/12|Wyrok|56|https://www.saos.org.pl/judgments/141103
+527554|2025-04-09|SO|II K 1378/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/527554

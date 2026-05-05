@@ -1,2 +1,26 @@
-saos_id|date|court|case_number|type|saos_url
-268796|2016-12-08|SO|IV Pa 41/16|Wyrok|https://www.saos.org.pl/judgments/268796
+saos_id|date|court|case_number|type|score|saos_url
+403257|2019-03-21|SO|III APa 10/18|Wyrok|56|https://www.saos.org.pl/judgments/403257
+400678|2018-04-18|SO|I AGa 69/18|Wyrok|56|https://www.saos.org.pl/judgments/400678
+340434|2018-02-16|SO|III AUa 123/17|Wyrok|56|https://www.saos.org.pl/judgments/340434
+156367|2014-11-04|SO|III APa 6/14|Wyrok|56|https://www.saos.org.pl/judgments/156367
+151746|2014-10-30|SO|III APa 10/14|Wyrok|56|https://www.saos.org.pl/judgments/151746
+539114|2024-10-22|SO|VI P 279/17|Wyrok|40|https://www.saos.org.pl/judgments/539114
+375796|2018-10-04|SO|VII Pa 67/18|Wyrok|40|https://www.saos.org.pl/judgments/375796
+374668|2018-04-10|SO|VII Pa 33/18|Wyrok|40|https://www.saos.org.pl/judgments/374668
+290702|2016-12-05|SO|VI P 746/13|Wyrok|40|https://www.saos.org.pl/judgments/290702
+471201|2022-05-31|SO|VIII U 1094/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/471201
+343983|2018-05-08|SO|VIII Pa 48/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/343983
+313480|2017-10-31|SO|VIII Pa 95/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/313480
+298754|2017-08-18|SO|VIII Pa 131/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/298754
+297590|2017-07-17|SO|VIII Pa 116/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/297590
+281218|2017-03-27|SO|VIII Pa 173/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281218
+280265|2017-01-23|SO|VIII Pa 66/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/280265
+249477|2016-09-26|SO|VIII Pa 51/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249477
+216348|2016-03-30|SO|VII Pa 321/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/216348
+203549|2016-02-15|SO|VII Pa 324/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/203549
+188227|2015-11-24|SO|VII Pa 257/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188227
+188196|2015-11-09|SO|VII Pa 174/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188196
+188211|2015-10-30|SO|VII Pa 214/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188211
+158852|2015-06-29|SO|VII Pa 119/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/158852
+148106|2015-04-03|SO|VII Pa 37/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/148106
+63464|2014-10-09|SO|VII Pa 257/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/63464

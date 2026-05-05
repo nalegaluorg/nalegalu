@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-423534|2020-09-30|SO|VIII Ga 607/19|Uzasadnienie|https://www.saos.org.pl/judgments/423534
-240259|2016-04-05|SO|X GC 740/15|Zarządzenie|https://www.saos.org.pl/judgments/240259
+saos_id|date|court|case_number|type|score|saos_url
+240259|2016-04-05|SO|X GC 740/15|Zarządzenie|27|https://www.saos.org.pl/judgments/240259

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93500|2010-11-24|SN|II CSK 274/10|Wyrok|https://www.saos.org.pl/judgments/93500
+saos_id|date|court|case_number|type|score|saos_url
+93500|2010-11-24|SN|II CSK 274/10|Wyrok|78|https://www.saos.org.pl/judgments/93500

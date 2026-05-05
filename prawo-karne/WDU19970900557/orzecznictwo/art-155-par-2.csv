@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-250603|2016-09-27|SO|II AKzw 1645/16|Postanowienie|https://www.saos.org.pl/judgments/250603
-199725|2015-12-17|SO|III Kow 1557/15|Postanowienie|https://www.saos.org.pl/judgments/199725
-126450|2015-01-28|SO|II AKzw 2226/14|Postanowienie|https://www.saos.org.pl/judgments/126450
-111651|2013-07-17|TK|SK 9/10|Wyrok|https://www.saos.org.pl/judgments/111651
-84105|2006-02-24|SN|I KZP 54/05|Uchwała|https://www.saos.org.pl/judgments/84105
+saos_id|date|court|case_number|type|score|saos_url
+111651|2013-07-17|TK|SK 9/10|Wyrok|98|https://www.saos.org.pl/judgments/111651
+84105|2006-02-24|SN|I KZP 54/05|Uchwała|89|https://www.saos.org.pl/judgments/84105
+250603|2016-09-27|SO|II AKzw 1645/16|Postanowienie|47|https://www.saos.org.pl/judgments/250603
+126450|2015-01-28|SO|II AKzw 2226/14|Postanowienie|47|https://www.saos.org.pl/judgments/126450

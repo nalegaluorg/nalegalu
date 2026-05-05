@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-338514|2018-04-04|SO|XVII Ka 139/18|Wyrok|https://www.saos.org.pl/judgments/338514
-339920|2017-12-05|SO|I ACa 590/17|Wyrok|https://www.saos.org.pl/judgments/339920
-189334|2014-02-27|SO|XV Ca 1745/13|Wyrok|https://www.saos.org.pl/judgments/189334
+saos_id|date|court|case_number|type|score|saos_url
+339920|2017-12-05|SO|I ACa 590/17|Wyrok|56|https://www.saos.org.pl/judgments/339920
+338514|2018-04-04|SO|XVII Ka 139/18|Wyrok|40|https://www.saos.org.pl/judgments/338514
+189334|2014-02-27|SO|XV Ca 1745/13|Wyrok|40|https://www.saos.org.pl/judgments/189334

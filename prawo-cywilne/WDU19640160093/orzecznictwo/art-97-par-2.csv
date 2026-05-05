@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-450805|2021-09-16|SO|I ACa 33/20|Wyrok|https://www.saos.org.pl/judgments/450805
-501957|2021-06-24|SO|II Ca 379/21|Postanowienie|https://www.saos.org.pl/judgments/501957
-393607|2019-01-10|SO|VII Pa 130/17|Wyrok|https://www.saos.org.pl/judgments/393607
-366757|2018-06-19|SO|III AUa 1858/17|Wyrok|https://www.saos.org.pl/judgments/366757
+saos_id|date|court|case_number|type|score|saos_url
+450805|2021-09-16|SO|I ACa 33/20|Wyrok|56|https://www.saos.org.pl/judgments/450805
+366757|2018-06-19|SO|III AUa 1858/17|Wyrok|56|https://www.saos.org.pl/judgments/366757
+393607|2019-01-10|SO|VII Pa 130/17|Wyrok|40|https://www.saos.org.pl/judgments/393607

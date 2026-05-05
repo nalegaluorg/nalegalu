@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-423401|2020-04-16|SO|III Cz 77/20|Postanowienie|https://www.saos.org.pl/judgments/423401
-173559|2015-07-23|SO|III AUz 37/15|Postanowienie|https://www.saos.org.pl/judgments/173559
-38287|2014-03-11|SO|VI Gz 45/14|Postanowienie|https://www.saos.org.pl/judgments/38287
-84054|2006-01-27|SN|III CK 369/05|Postanowienie|https://www.saos.org.pl/judgments/84054
+saos_id|date|court|case_number|type|score|saos_url
+84054|2006-01-27|SN|III CK 369/05|Postanowienie|69|https://www.saos.org.pl/judgments/84054
+173559|2015-07-23|SO|III AUz 37/15|Postanowienie|47|https://www.saos.org.pl/judgments/173559
+38287|2014-03-11|SO|VI Gz 45/14|Postanowienie|31|https://www.saos.org.pl/judgments/38287

@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-533640|2025-07-10|SO|I ACa 1089/22|Wyrok|https://www.saos.org.pl/judgments/533640
-533840|2024-11-15|SO|I ACa 1071/23|Wyrok|https://www.saos.org.pl/judgments/533840
-522974|2024-04-19|SO|I ACa 2891/23|Wyrok|https://www.saos.org.pl/judgments/522974
-494454|2023-04-04|SO|I ACa 67/21|Wyrok|https://www.saos.org.pl/judgments/494454
-485261|2023-01-20|SO|II Ca 691/22|Wyrok|https://www.saos.org.pl/judgments/485261
-481338|2022-11-03|SO|I Ca 465/21|Postanowienie|https://www.saos.org.pl/judgments/481338
-473226|2022-05-16|SO|I ACa 862/21|Wyrok|https://www.saos.org.pl/judgments/473226
-468227|2022-02-01|SO|XV Ca 1069/21|Wyrok|https://www.saos.org.pl/judgments/468227
-469809|2022-01-21|SO|VI ACa 567/21|Wyrok|https://www.saos.org.pl/judgments/469809
-455699|2021-08-06|SO|XV Ca 1906/20|Wyrok|https://www.saos.org.pl/judgments/455699
-426725|2020-09-09|SO|I ACa 177/20|Postanowienie|https://www.saos.org.pl/judgments/426725
-56436|2014-05-21|SO|I ACa 227/14|Wyrok|https://www.saos.org.pl/judgments/56436
+saos_id|date|court|case_number|type|score|saos_url
+533640|2025-07-10|SO|I ACa 1089/22|Wyrok|56|https://www.saos.org.pl/judgments/533640
+533840|2024-11-15|SO|I ACa 1071/23|Wyrok|56|https://www.saos.org.pl/judgments/533840
+522974|2024-04-19|SO|I ACa 2891/23|Wyrok|56|https://www.saos.org.pl/judgments/522974
+494454|2023-04-04|SO|I ACa 67/21|Wyrok|56|https://www.saos.org.pl/judgments/494454
+473226|2022-05-16|SO|I ACa 862/21|Wyrok|56|https://www.saos.org.pl/judgments/473226
+469809|2022-01-21|SO|VI ACa 567/21|Wyrok|56|https://www.saos.org.pl/judgments/469809
+56436|2014-05-21|SO|I ACa 227/14|Wyrok|56|https://www.saos.org.pl/judgments/56436
+426725|2020-09-09|SO|I ACa 177/20|Postanowienie|47|https://www.saos.org.pl/judgments/426725
+485261|2023-01-20|SO|II Ca 691/22|Wyrok|40|https://www.saos.org.pl/judgments/485261
+468227|2022-02-01|SO|XV Ca 1069/21|Wyrok|40|https://www.saos.org.pl/judgments/468227
+455699|2021-08-06|SO|XV Ca 1906/20|Wyrok|40|https://www.saos.org.pl/judgments/455699

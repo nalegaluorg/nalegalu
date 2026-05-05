@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-154177|2015-04-01|SO|II AKa 7/15|Wyrok|https://www.saos.org.pl/judgments/154177
-141833|2013-02-11|SO|II AKa 268/12|Wyrok|https://www.saos.org.pl/judgments/141833
+saos_id|date|court|case_number|type|score|saos_url
+154177|2015-04-01|SO|II AKa 7/15|Wyrok|56|https://www.saos.org.pl/judgments/154177
+141833|2013-02-11|SO|II AKa 268/12|Wyrok|56|https://www.saos.org.pl/judgments/141833

@@ -1,14 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-511266|2024-03-21|SO|VI Ka 740/23|Uzasadnienie|https://www.saos.org.pl/judgments/511266
-447363|2020-08-20|SO|II AKa 73/20|Wyrok|https://www.saos.org.pl/judgments/447363
-404357|2019-12-12|SO|XII K 99/19|Wyrok|https://www.saos.org.pl/judgments/404357
-378398|2019-03-26|SO|II Kzw 29/19|Postanowienie|https://www.saos.org.pl/judgments/378398
-362242|2018-11-06|SO|IV Ka 936/18|Uzasadnienie|https://www.saos.org.pl/judgments/362242
-331555|2018-01-30|SO|I C 509/17|Wyrok|https://www.saos.org.pl/judgments/331555
-73620|2014-12-10|SO|II Ka 277/14|Wyrok|https://www.saos.org.pl/judgments/73620
-32501|2014-01-27|SO|IV Kz 1183/13|Postanowienie|https://www.saos.org.pl/judgments/32501
-136687|2012-12-19|SO|II AKa 264/12|Wyrok|https://www.saos.org.pl/judgments/136687
-86740|2007-10-25|SN|I KZP 33/07|Postanowienie|https://www.saos.org.pl/judgments/86740
-84106|2006-02-24|SN|I KZP 55/05|Postanowienie|https://www.saos.org.pl/judgments/84106
-83375|2005-04-25|SN|V KZ 12/05|Postanowienie|https://www.saos.org.pl/judgments/83375
-83131|2005-01-14|SN|V KK 309/04|Wyrok|https://www.saos.org.pl/judgments/83131
+saos_id|date|court|case_number|type|score|saos_url
+83131|2005-01-14|SN|V KK 309/04|Wyrok|78|https://www.saos.org.pl/judgments/83131
+86740|2007-10-25|SN|I KZP 33/07|Postanowienie|69|https://www.saos.org.pl/judgments/86740
+84106|2006-02-24|SN|I KZP 55/05|Postanowienie|69|https://www.saos.org.pl/judgments/84106
+83375|2005-04-25|SN|V KZ 12/05|Postanowienie|69|https://www.saos.org.pl/judgments/83375
+447363|2020-08-20|SO|II AKa 73/20|Wyrok|56|https://www.saos.org.pl/judgments/447363
+136687|2012-12-19|SO|II AKa 264/12|Wyrok|56|https://www.saos.org.pl/judgments/136687
+378398|2019-03-26|SO|II Kzw 29/19|Postanowienie|31|https://www.saos.org.pl/judgments/378398
+511266|2024-03-21|SO|VI Ka 740/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/511266
+362242|2018-11-06|SO|IV Ka 936/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/362242

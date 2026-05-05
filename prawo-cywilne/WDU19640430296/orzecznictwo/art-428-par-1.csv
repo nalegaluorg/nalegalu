@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-402510|2019-12-30|SO|I ACz 1399/19|Postanowienie|https://www.saos.org.pl/judgments/402510
-299903|2017-06-30|SO|III Ca 547/17|Uzasadnienie|https://www.saos.org.pl/judgments/299903
-159199|2015-02-24|SO|III Ca 1382/14|Postanowienie|https://www.saos.org.pl/judgments/159199
-29385|2013-08-13|SO|I ACa 358/13|Wyrok|https://www.saos.org.pl/judgments/29385
-110604|2011-11-09|TK|Ts 155/11|Postanowienie|https://www.saos.org.pl/judgments/110604
+saos_id|date|court|case_number|type|score|saos_url
+110604|2011-11-09|TK|Ts 155/11|Postanowienie|80|https://www.saos.org.pl/judgments/110604
+29385|2013-08-13|SO|I ACa 358/13|Wyrok|56|https://www.saos.org.pl/judgments/29385
+402510|2019-12-30|SO|I ACz 1399/19|Postanowienie|47|https://www.saos.org.pl/judgments/402510
+299903|2017-06-30|SO|III Ca 547/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299903

@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-336481|2017-11-03|SO|I ACa 260/17|Wyrok|https://www.saos.org.pl/judgments/336481
-298017|2017-06-01|SO|I ACa 79/17|Wyrok|https://www.saos.org.pl/judgments/298017
-236206|2016-05-16|SO|XXIV C 247/15|Wyrok|https://www.saos.org.pl/judgments/236206
-213803|2015-07-21|SO|I Ns 19/15|Uzasadnienie|https://www.saos.org.pl/judgments/213803
-187036|2015-07-17|SO|V ACa 176/15|Wyrok|https://www.saos.org.pl/judgments/187036
-175141|2015-05-07|SO|I ACa 1010/14|Wyrok|https://www.saos.org.pl/judgments/175141
-70844|2014-02-18|SO|VI ACa 1020/13|Wyrok|https://www.saos.org.pl/judgments/70844
-10329|2013-03-28|SO|II Ca 46/13|Wyrok|https://www.saos.org.pl/judgments/10329
-85364|2007-03-09|SN|II CSK 457/06|Wyrok|https://www.saos.org.pl/judgments/85364
-106495|2003-12-10|TK|Ts 85/03|Postanowienie|https://www.saos.org.pl/judgments/106495
-106494|2003-08-06|TK|Ts 85/03|Postanowienie|https://www.saos.org.pl/judgments/106494
-81388|2002-05-07|SN|III RN 59/01|Wyrok|https://www.saos.org.pl/judgments/81388
+saos_id|date|court|case_number|type|score|saos_url
+106495|2003-12-10|TK|Ts 85/03|Postanowienie|80|https://www.saos.org.pl/judgments/106495
+106494|2003-08-06|TK|Ts 85/03|Postanowienie|80|https://www.saos.org.pl/judgments/106494
+85364|2007-03-09|SN|II CSK 457/06|Wyrok|78|https://www.saos.org.pl/judgments/85364
+81388|2002-05-07|SN|III RN 59/01|Wyrok|78|https://www.saos.org.pl/judgments/81388
+336481|2017-11-03|SO|I ACa 260/17|Wyrok|56|https://www.saos.org.pl/judgments/336481
+298017|2017-06-01|SO|I ACa 79/17|Wyrok|56|https://www.saos.org.pl/judgments/298017
+187036|2015-07-17|SO|V ACa 176/15|Wyrok|56|https://www.saos.org.pl/judgments/187036
+175141|2015-05-07|SO|I ACa 1010/14|Wyrok|56|https://www.saos.org.pl/judgments/175141
+70844|2014-02-18|SO|VI ACa 1020/13|Wyrok|56|https://www.saos.org.pl/judgments/70844
+10329|2013-03-28|SO|II Ca 46/13|Wyrok|40|https://www.saos.org.pl/judgments/10329
+213803|2015-07-21|SO|I Ns 19/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/213803

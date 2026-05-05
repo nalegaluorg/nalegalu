@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-471801|2022-02-03|SO|V GC 657/21|Zarządzenie|https://www.saos.org.pl/judgments/471801
-397499|2019-09-04|SO|VII AGa 1315/18|Wyrok|https://www.saos.org.pl/judgments/397499
+saos_id|date|court|case_number|type|score|saos_url
+397499|2019-09-04|SO|VII AGa 1315/18|Wyrok|56|https://www.saos.org.pl/judgments/397499

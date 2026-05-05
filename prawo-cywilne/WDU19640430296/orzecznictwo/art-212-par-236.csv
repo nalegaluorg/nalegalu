@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-296609|2017-02-28|SO|IV Pa 1/17|Wyrok|https://www.saos.org.pl/judgments/296609
+saos_id|date|court|case_number|type|score|saos_url
+296609|2017-02-28|SO|IV Pa 1/17|Wyrok|40|https://www.saos.org.pl/judgments/296609

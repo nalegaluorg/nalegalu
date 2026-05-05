@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-501010|2023-11-17|SO|II AKa 360/23|Wyrok|https://www.saos.org.pl/judgments/501010
-235621|2016-02-19|SO|III Ko 139/13|Wyrok|https://www.saos.org.pl/judgments/235621
-204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|https://www.saos.org.pl/judgments/204484
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-46717|2014-05-15|SO|IV Kz 394/14|Postanowienie|https://www.saos.org.pl/judgments/46717
-160177|2014-01-14|TK|SK 54/12|Postanowienie|https://www.saos.org.pl/judgments/160177
-107796|2006-04-05|TK|Ts 69/05|Postanowienie|https://www.saos.org.pl/judgments/107796
-106769|2004-12-06|TK|SK 29/04|Wyrok|https://www.saos.org.pl/judgments/106769
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+106769|2004-12-06|TK|SK 29/04|Wyrok|98|https://www.saos.org.pl/judgments/106769
+160177|2014-01-14|TK|SK 54/12|Postanowienie|80|https://www.saos.org.pl/judgments/160177
+107796|2006-04-05|TK|Ts 69/05|Postanowienie|80|https://www.saos.org.pl/judgments/107796
+501010|2023-11-17|SO|II AKa 360/23|Wyrok|56|https://www.saos.org.pl/judgments/501010
+204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|47|https://www.saos.org.pl/judgments/204484

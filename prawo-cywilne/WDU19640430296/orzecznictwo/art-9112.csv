@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-311896|2017-09-25|SO|I ACa 23/17|Wyrok|https://www.saos.org.pl/judgments/311896
-33043|2013-11-28|SO|I ACa 467/13|Wyrok|https://www.saos.org.pl/judgments/33043
-27739|2013-09-12|SO|II Ca 542/13|Postanowienie|https://www.saos.org.pl/judgments/27739
+saos_id|date|court|case_number|type|score|saos_url
+311896|2017-09-25|SO|I ACa 23/17|Wyrok|56|https://www.saos.org.pl/judgments/311896
+33043|2013-11-28|SO|I ACa 467/13|Wyrok|56|https://www.saos.org.pl/judgments/33043

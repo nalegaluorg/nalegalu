@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-318806|2017-10-25|SO|X P 220/17|Wyrok|https://www.saos.org.pl/judgments/318806
-275691|2016-12-15|SO|IV Pa 49/16|Wyrok|https://www.saos.org.pl/judgments/275691
-237607|2016-06-16|SO|VII P 9/14|Wyrok|https://www.saos.org.pl/judgments/237607
-220929|2016-04-06|SO|IV P 442/15|Wyrok|https://www.saos.org.pl/judgments/220929
-257849|2016-03-23|SO|VIII P 672/14|Uzasadnienie|https://www.saos.org.pl/judgments/257849
-178419|2015-09-01|SO|VIII P 1158/13|Uzasadnienie|https://www.saos.org.pl/judgments/178419
-188736|2015-02-20|SO|VIII P 252/14|Uzasadnienie|https://www.saos.org.pl/judgments/188736
-51415|2014-04-23|SO|III APa 3/14|Wyrok|https://www.saos.org.pl/judgments/51415
-81893|2003-03-06|SN|III PZP 1/03|Uchwała|https://www.saos.org.pl/judgments/81893
+saos_id|date|court|case_number|type|score|saos_url
+81893|2003-03-06|SN|III PZP 1/03|Uchwała|89|https://www.saos.org.pl/judgments/81893
+51415|2014-04-23|SO|III APa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/51415
+275691|2016-12-15|SO|IV Pa 49/16|Wyrok|40|https://www.saos.org.pl/judgments/275691

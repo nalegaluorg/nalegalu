@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-420024|2020-05-26|SO|V AGa 21/20|Wyrok|https://www.saos.org.pl/judgments/420024
-374150|2016-04-20|SO|III Cz 254/16|Postanowienie|https://www.saos.org.pl/judgments/374150
-41499|2013-05-28|SO|I ACa 349/13|Wyrok|https://www.saos.org.pl/judgments/41499
-381313|2011-12-07|SO|XX GC 801/10|Wyrok|https://www.saos.org.pl/judgments/381313
+saos_id|date|court|case_number|type|score|saos_url
+420024|2020-05-26|SO|V AGa 21/20|Wyrok|56|https://www.saos.org.pl/judgments/420024
+41499|2013-05-28|SO|I ACa 349/13|Wyrok|56|https://www.saos.org.pl/judgments/41499

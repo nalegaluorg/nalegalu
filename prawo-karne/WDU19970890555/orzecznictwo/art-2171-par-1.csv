@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90663|2009-07-22|SN|SNO 46/09|Wyrok|https://www.saos.org.pl/judgments/90663
+saos_id|date|court|case_number|type|score|saos_url
+90663|2009-07-22|SN|SNO 46/09|Wyrok|78|https://www.saos.org.pl/judgments/90663

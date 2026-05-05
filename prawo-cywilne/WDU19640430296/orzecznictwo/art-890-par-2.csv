@@ -1,27 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-489631|2022-12-08|SO|III AUa 1272/19|Wyrok|https://www.saos.org.pl/judgments/489631
-485405|2022-10-25|SO|VI C 2153/21|Uzasadnienie|https://www.saos.org.pl/judgments/485405
-479399|2022-03-24|SO|II Ca 489/21|Wyrok|https://www.saos.org.pl/judgments/479399
-375650|2019-04-18|SO|VI Ka 391/18|Wyrok|https://www.saos.org.pl/judgments/375650
-395109|2019-01-30|SO|I AGa 257/18|Wyrok|https://www.saos.org.pl/judgments/395109
-364838|2018-11-19|SO|IV Pa 115/18|Wyrok|https://www.saos.org.pl/judgments/364838
-350299|2018-04-13|SO|III Ca 37/18|Uzasadnienie|https://www.saos.org.pl/judgments/350299
-328638|2017-11-06|SO|I C 349/17|Wyrok|https://www.saos.org.pl/judgments/328638
-279856|2017-02-17|SO|IV Ka 747/16|Uzasadnienie|https://www.saos.org.pl/judgments/279856
-223377|2016-04-18|SO|V Ka 43/16|Uzasadnienie|https://www.saos.org.pl/judgments/223377
-215559|2016-02-26|SO|VI P 351/15|Wyrok|https://www.saos.org.pl/judgments/215559
-203506|2016-01-22|SO|VI P 322/15|Wyrok|https://www.saos.org.pl/judgments/203506
-197760|2015-12-21|SO|V Pa 119/14|Wyrok|https://www.saos.org.pl/judgments/197760
-244152|2015-12-16|SN|III CZP 77/15|Uchwała|https://www.saos.org.pl/judgments/244152
-227123|2015-10-29|SO|I C 415/15|Wyrok|https://www.saos.org.pl/judgments/227123
-133706|2015-02-17|SO|VI Ka 1008/14|Wyrok|https://www.saos.org.pl/judgments/133706
-66076|2014-09-12|SO|VI Pa 18/14|Wyrok|https://www.saos.org.pl/judgments/66076
-104729|2014-03-18|SN|II PK 176/13|Wyrok|https://www.saos.org.pl/judgments/104729
-31446|2013-11-27|SO|VIII Ca 472/13|Wyrok|https://www.saos.org.pl/judgments/31446
-24625|2013-06-27|SO|VI ACa 1652/12|Wyrok|https://www.saos.org.pl/judgments/24625
-8363|2012-11-21|SO|III AUa 805/12|Wyrok|https://www.saos.org.pl/judgments/8363
-98716|2012-07-27|SN|I PK 53/12|Wyrok|https://www.saos.org.pl/judgments/98716
-108629|2008-06-24|TK|SK 16/06|Wyrok|https://www.saos.org.pl/judgments/108629
-87540|2008-03-05|SN|V CSK 459/07|Wyrok|https://www.saos.org.pl/judgments/87540
-162903|2005-01-20|SN|II CK 375/04|Wyrok|https://www.saos.org.pl/judgments/162903
-80554|2001-04-27|SN|III CZP 12/01|Uchwała|https://www.saos.org.pl/judgments/80554
+saos_id|date|court|case_number|type|score|saos_url
+108629|2008-06-24|TK|SK 16/06|Wyrok|98|https://www.saos.org.pl/judgments/108629
+244152|2015-12-16|SN|III CZP 77/15|Uchwała|96|https://www.saos.org.pl/judgments/244152
+80554|2001-04-27|SN|III CZP 12/01|Uchwała|89|https://www.saos.org.pl/judgments/80554
+104729|2014-03-18|SN|II PK 176/13|Wyrok|78|https://www.saos.org.pl/judgments/104729
+98716|2012-07-27|SN|I PK 53/12|Wyrok|78|https://www.saos.org.pl/judgments/98716
+87540|2008-03-05|SN|V CSK 459/07|Wyrok|78|https://www.saos.org.pl/judgments/87540
+162903|2005-01-20|SN|II CK 375/04|Wyrok|78|https://www.saos.org.pl/judgments/162903
+489631|2022-12-08|SO|III AUa 1272/19|Wyrok|56|https://www.saos.org.pl/judgments/489631
+395109|2019-01-30|SO|I AGa 257/18|Wyrok|56|https://www.saos.org.pl/judgments/395109
+24625|2013-06-27|SO|VI ACa 1652/12|Wyrok|56|https://www.saos.org.pl/judgments/24625
+8363|2012-11-21|SO|III AUa 805/12|Wyrok|56|https://www.saos.org.pl/judgments/8363
+375650|2019-04-18|SO|VI Ka 391/18|Wyrok|40|https://www.saos.org.pl/judgments/375650
+328638|2017-11-06|SO|I C 349/17|Wyrok|40|https://www.saos.org.pl/judgments/328638
+350299|2018-04-13|SO|III Ca 37/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/350299

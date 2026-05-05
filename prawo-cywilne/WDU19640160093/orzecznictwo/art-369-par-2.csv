@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-433478|2019-11-27|SO|V C 806/19|Wyrok|https://www.saos.org.pl/judgments/433478
-392938|2019-08-22|SO|I C 1027/19|Wyrok|https://www.saos.org.pl/judgments/392938
-97457|2012-03-08|SN|III CSK 219/11|Wyrok|https://www.saos.org.pl/judgments/97457
-367446|2008-11-19|SO|I C 1246/08|Wyrok|https://www.saos.org.pl/judgments/367446
+saos_id|date|court|case_number|type|score|saos_url
+97457|2012-03-08|SN|III CSK 219/11|Wyrok|78|https://www.saos.org.pl/judgments/97457
+433478|2019-11-27|SO|V C 806/19|Wyrok|40|https://www.saos.org.pl/judgments/433478
+367446|2008-11-19|SO|I C 1246/08|Wyrok|40|https://www.saos.org.pl/judgments/367446

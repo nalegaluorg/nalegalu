@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-544880|2025-11-28|SO|I ACa 740/23|Wyrok|https://www.saos.org.pl/judgments/544880
-533527|2024-11-27|SO|I ACa 661/23|Wyrok|https://www.saos.org.pl/judgments/533527
-532219|2024-11-19|SO|I ACa 1121/22|Wyrok|https://www.saos.org.pl/judgments/532219
-516871|2023-12-21|SO|V ACa 1184/23|Wyrok|https://www.saos.org.pl/judgments/516871
-501968|2023-12-12|SO|II Ca 394/23|Zarządzenie|https://www.saos.org.pl/judgments/501968
-539263|2023-11-14|SO|I ACa 2751/22|Wyrok|https://www.saos.org.pl/judgments/539263
-516350|2023-05-24|SO|I ACa 112/23|Wyrok|https://www.saos.org.pl/judgments/516350
-516467|2023-05-19|SO|I ACa 898/22|Wyrok|https://www.saos.org.pl/judgments/516467
-493888|2023-04-26|SO|I ACa 209/22|Wyrok|https://www.saos.org.pl/judgments/493888
-482823|2022-12-05|SO|I ACa 433/22|Wyrok|https://www.saos.org.pl/judgments/482823
-494177|2022-10-06|SO|I ACa 427/22|Wyrok|https://www.saos.org.pl/judgments/494177
-447836|2021-06-28|SO|XVII AmA 40/18|Wyrok|https://www.saos.org.pl/judgments/447836
-72922|2014-12-03|SO|XVII AmA 89/13|Uzasadnienie|https://www.saos.org.pl/judgments/72922
-338102|2014-11-25|SO|XVII AmA 89/13|Wyrok|https://www.saos.org.pl/judgments/338102
+saos_id|date|court|case_number|type|score|saos_url
+544880|2025-11-28|SO|I ACa 740/23|Wyrok|56|https://www.saos.org.pl/judgments/544880
+533527|2024-11-27|SO|I ACa 661/23|Wyrok|56|https://www.saos.org.pl/judgments/533527
+532219|2024-11-19|SO|I ACa 1121/22|Wyrok|56|https://www.saos.org.pl/judgments/532219
+516871|2023-12-21|SO|V ACa 1184/23|Wyrok|56|https://www.saos.org.pl/judgments/516871
+539263|2023-11-14|SO|I ACa 2751/22|Wyrok|56|https://www.saos.org.pl/judgments/539263
+516350|2023-05-24|SO|I ACa 112/23|Wyrok|56|https://www.saos.org.pl/judgments/516350
+516467|2023-05-19|SO|I ACa 898/22|Wyrok|56|https://www.saos.org.pl/judgments/516467
+493888|2023-04-26|SO|I ACa 209/22|Wyrok|56|https://www.saos.org.pl/judgments/493888
+482823|2022-12-05|SO|I ACa 433/22|Wyrok|56|https://www.saos.org.pl/judgments/482823
+494177|2022-10-06|SO|I ACa 427/22|Wyrok|56|https://www.saos.org.pl/judgments/494177

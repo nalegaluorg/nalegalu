@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-528741|2025-06-10|SO|VI Ka 266/25|Wyrok|https://www.saos.org.pl/judgments/528741
+saos_id|date|court|case_number|type|score|saos_url
+528741|2025-06-10|SO|VI Ka 266/25|Wyrok|40|https://www.saos.org.pl/judgments/528741

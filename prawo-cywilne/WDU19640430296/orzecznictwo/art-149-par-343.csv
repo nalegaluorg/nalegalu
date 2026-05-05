@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-244797|2016-03-01|SN|I BP 2/15|Postanowienie|https://www.saos.org.pl/judgments/244797
+saos_id|date|court|case_number|type|score|saos_url
+244797|2016-03-01|SN|I BP 2/15|Postanowienie|69|https://www.saos.org.pl/judgments/244797

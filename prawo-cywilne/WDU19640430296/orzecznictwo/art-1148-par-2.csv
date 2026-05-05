@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-110197|2010-11-17|TK|Ts 350/08|Postanowienie|https://www.saos.org.pl/judgments/110197
-110196|2010-02-23|TK|Ts 350/08|Postanowienie|https://www.saos.org.pl/judgments/110196
-82154|2003-08-21|SN|III CO 9/03|Postanowienie|https://www.saos.org.pl/judgments/82154
+saos_id|date|court|case_number|type|score|saos_url
+110197|2010-11-17|TK|Ts 350/08|Postanowienie|80|https://www.saos.org.pl/judgments/110197
+110196|2010-02-23|TK|Ts 350/08|Postanowienie|80|https://www.saos.org.pl/judgments/110196
+82154|2003-08-21|SN|III CO 9/03|Postanowienie|69|https://www.saos.org.pl/judgments/82154

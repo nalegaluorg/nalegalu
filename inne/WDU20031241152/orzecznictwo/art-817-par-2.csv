@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-15904|2013-06-20|SO|II Ca 218/13|Wyrok|https://www.saos.org.pl/judgments/15904
+saos_id|date|court|case_number|type|score|saos_url
+15904|2013-06-20|SO|II Ca 218/13|Wyrok|40|https://www.saos.org.pl/judgments/15904

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-514796|2024-06-04|SO|XIV C 269/23|Wyrok|https://www.saos.org.pl/judgments/514796
-499533|2024-03-28|SO|I C 866/23|Wyrok|https://www.saos.org.pl/judgments/499533
-477574|2022-10-20|SO|V ACa 71/22|Wyrok|https://www.saos.org.pl/judgments/477574
+saos_id|date|court|case_number|type|score|saos_url
+477574|2022-10-20|SO|V ACa 71/22|Wyrok|56|https://www.saos.org.pl/judgments/477574
+514796|2024-06-04|SO|XIV C 269/23|Wyrok|40|https://www.saos.org.pl/judgments/514796

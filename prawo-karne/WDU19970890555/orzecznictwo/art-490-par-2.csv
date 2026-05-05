@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-455521|2021-11-26|SO|II AKa 105/21|Wyrok|https://www.saos.org.pl/judgments/455521
-441782|2021-06-08|SO|II AKa 32/21|Uzasadnienie|https://www.saos.org.pl/judgments/441782
-384168|2019-04-11|SO|II AKa 9/19|Wyrok|https://www.saos.org.pl/judgments/384168
-182919|2015-09-17|SO|II AKa 156/15|Wyrok|https://www.saos.org.pl/judgments/182919
-98407|2012-06-20|SN|I KZP 9/12|Uchwała|https://www.saos.org.pl/judgments/98407
-109105|2009-06-16|TK|SK 42/08|Wyrok|https://www.saos.org.pl/judgments/109105
-86923|2007-12-07|SN|SNO 80/07|Wyrok|https://www.saos.org.pl/judgments/86923
+saos_id|date|court|case_number|type|score|saos_url
+109105|2009-06-16|TK|SK 42/08|Wyrok|98|https://www.saos.org.pl/judgments/109105
+98407|2012-06-20|SN|I KZP 9/12|Uchwała|89|https://www.saos.org.pl/judgments/98407
+86923|2007-12-07|SN|SNO 80/07|Wyrok|78|https://www.saos.org.pl/judgments/86923
+455521|2021-11-26|SO|II AKa 105/21|Wyrok|56|https://www.saos.org.pl/judgments/455521
+384168|2019-04-11|SO|II AKa 9/19|Wyrok|56|https://www.saos.org.pl/judgments/384168
+182919|2015-09-17|SO|II AKa 156/15|Wyrok|56|https://www.saos.org.pl/judgments/182919
+441782|2021-06-08|SO|II AKa 32/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/441782

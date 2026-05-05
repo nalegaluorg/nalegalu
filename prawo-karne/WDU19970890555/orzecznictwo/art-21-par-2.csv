@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-419033|2020-02-25|SO|IV Ka 152/20|Wyrok|https://www.saos.org.pl/judgments/419033
-292291|2017-07-10|SO|II Ka 253/17|Wyrok|https://www.saos.org.pl/judgments/292291
-192735|2015-10-09|SO|IV Ka 890/15|Wyrok|https://www.saos.org.pl/judgments/192735
-47744|2014-04-14|SO|IV Ka 98/14|Wyrok|https://www.saos.org.pl/judgments/47744
+saos_id|date|court|case_number|type|score|saos_url
+419033|2020-02-25|SO|IV Ka 152/20|Wyrok|40|https://www.saos.org.pl/judgments/419033
+192735|2015-10-09|SO|IV Ka 890/15|Wyrok|40|https://www.saos.org.pl/judgments/192735

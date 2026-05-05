@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-367171|2018-11-08|SO|II C 958/18|Uzasadnienie|https://www.saos.org.pl/judgments/367171
-336219|2018-01-19|SO|VI ACa 430/16|Wyrok|https://www.saos.org.pl/judgments/336219
-306399|2017-03-31|SO|VI ACa 2051/15|Wyrok|https://www.saos.org.pl/judgments/306399
+saos_id|date|court|case_number|type|score|saos_url
+336219|2018-01-19|SO|VI ACa 430/16|Wyrok|56|https://www.saos.org.pl/judgments/336219
+306399|2017-03-31|SO|VI ACa 2051/15|Wyrok|56|https://www.saos.org.pl/judgments/306399
+367171|2018-11-08|SO|II C 958/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/367171

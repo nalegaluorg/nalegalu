@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-404465|2018-09-11|SO|II Ca 497/18|Wyrok|https://www.saos.org.pl/judgments/404465
-362639|2018-07-19|SO|II Ca 594/18|Wyrok|https://www.saos.org.pl/judgments/362639
+saos_id|date|court|case_number|type|score|saos_url
+404465|2018-09-11|SO|II Ca 497/18|Wyrok|40|https://www.saos.org.pl/judgments/404465
+362639|2018-07-19|SO|II Ca 594/18|Wyrok|40|https://www.saos.org.pl/judgments/362639

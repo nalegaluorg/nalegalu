@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-432016|2021-01-02|SO|II AKa 109/20|Uzasadnienie|https://www.saos.org.pl/judgments/432016
+saos_id|date|court|case_number|type|score|saos_url
+432016|2021-01-02|SO|II AKa 109/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/432016

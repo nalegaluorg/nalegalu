@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-451028|2021-09-17|SO|IV Ua 40/21|Wyrok|https://www.saos.org.pl/judgments/451028
+saos_id|date|court|case_number|type|score|saos_url
+451028|2021-09-17|SO|IV Ua 40/21|Wyrok|40|https://www.saos.org.pl/judgments/451028

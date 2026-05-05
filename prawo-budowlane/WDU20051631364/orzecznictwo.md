@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy - Praw
 
 ## art. 1 (2)
 
+- 2007-10-11 | SN | [IV CSK 264/07](https://www.saos.org.pl/judgments/86704) | Wyrok ★
 - 2017-12-19 | KIO | [KIO 2569/17](https://www.saos.org.pl/judgments/353966) | Wyrok
-- 2007-10-11 | SN | [IV CSK 264/07](https://www.saos.org.pl/judgments/86704) | Wyrok
 
 ## art. 36 (1)
 

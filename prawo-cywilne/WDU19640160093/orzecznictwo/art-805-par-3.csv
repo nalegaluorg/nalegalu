@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-420883|2020-01-13|SO|III Ca 451/19|Uzasadnienie|https://www.saos.org.pl/judgments/420883
-428289|2019-12-05|SO|I ACa 1234/18|Wyrok|https://www.saos.org.pl/judgments/428289
-367357|2018-11-26|SO|II Ca 1248/18|Wyrok|https://www.saos.org.pl/judgments/367357
-357300|2018-07-18|SO|I ACa 273/18|Wyrok|https://www.saos.org.pl/judgments/357300
-134740|2014-03-12|SO|III Ca 185/14|Wyrok|https://www.saos.org.pl/judgments/134740
+saos_id|date|court|case_number|type|score|saos_url
+428289|2019-12-05|SO|I ACa 1234/18|Wyrok|56|https://www.saos.org.pl/judgments/428289
+357300|2018-07-18|SO|I ACa 273/18|Wyrok|56|https://www.saos.org.pl/judgments/357300
+420883|2020-01-13|SO|III Ca 451/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/420883

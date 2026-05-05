@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76354|2010-04-07|SN|V KK 273/09|Wyrok|https://www.saos.org.pl/judgments/76354
+saos_id|date|court|case_number|type|score|saos_url
+76354|2010-04-07|SN|V KK 273/09|Wyrok|78|https://www.saos.org.pl/judgments/76354

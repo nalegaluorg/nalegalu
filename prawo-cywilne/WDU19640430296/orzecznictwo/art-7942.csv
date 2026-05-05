@@ -1,2 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-489099|2022-11-18|SO|I Co 3140/22|Postanowienie|https://www.saos.org.pl/judgments/489099
+saos_id|date|court|case_number|type|score|saos_url
+197886|2015-12-17|SO|I ACz 1181/15|Postanowienie|47|https://www.saos.org.pl/judgments/197886
+154390|2015-05-07|SO|II C 623/14|Wyrok|40|https://www.saos.org.pl/judgments/154390
+518486|2024-12-12|SO|IV Po 19/24|Postanowienie|31|https://www.saos.org.pl/judgments/518486
+240163|2016-07-18|SO|VI Gz 144/16|Postanowienie|31|https://www.saos.org.pl/judgments/240163
+182802|2015-09-22|SO|I Cz 590/15|Postanowienie|31|https://www.saos.org.pl/judgments/182802
+254263|2016-09-26|SO|III Ca 319/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/254263
+64522|2014-10-13|SO|VII Pz 80/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/64522
+62098|2014-09-26|SO|VII Pz 106/13|Zarządzenie|27|https://www.saos.org.pl/judgments/62098

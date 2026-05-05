@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-345953|2018-05-17|SO|VI P 72/16|Wyrok|https://www.saos.org.pl/judgments/345953
-281222|2017-03-31|SO|VIII Pa 178/16|Uzasadnienie|https://www.saos.org.pl/judgments/281222
-215559|2016-02-26|SO|VI P 351/15|Wyrok|https://www.saos.org.pl/judgments/215559
+saos_id|date|court|case_number|type|score|saos_url
+281222|2017-03-31|SO|VIII Pa 178/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281222

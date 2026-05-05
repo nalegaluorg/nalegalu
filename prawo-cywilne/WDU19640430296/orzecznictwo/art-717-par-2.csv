@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-487776|2023-01-30|SO|I Co 531/22|Postanowienie|https://www.saos.org.pl/judgments/487776
-297428|2015-05-20|SO|II Cz 310/15|Postanowienie|https://www.saos.org.pl/judgments/297428
-128404|2015-01-23|SO|VIII Cz 21/15|Postanowienie|https://www.saos.org.pl/judgments/128404
-17315|2013-07-26|SO|VI Gz 201/13|Postanowienie|https://www.saos.org.pl/judgments/17315
-88892|2008-10-17|SN|I CSK 100/08|Wyrok|https://www.saos.org.pl/judgments/88892
-85076|2007-01-24|SN|III CZP 147/06|Uchwała|https://www.saos.org.pl/judgments/85076
+saos_id|date|court|case_number|type|score|saos_url
+85076|2007-01-24|SN|III CZP 147/06|Uchwała|89|https://www.saos.org.pl/judgments/85076
+88892|2008-10-17|SN|I CSK 100/08|Wyrok|78|https://www.saos.org.pl/judgments/88892
+17315|2013-07-26|SO|VI Gz 201/13|Postanowienie|31|https://www.saos.org.pl/judgments/17315

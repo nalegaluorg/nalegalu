@@ -1,22 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|https://www.saos.org.pl/judgments/505685
-448394|2021-09-23|SO|III Ca 872/20|Wyrok|https://www.saos.org.pl/judgments/448394
-522607|2021-08-05|SO|XXVII Ca 1327/21|Wyrok|https://www.saos.org.pl/judgments/522607
-433252|2020-07-20|SO|III Ca 1713/19|Uzasadnienie|https://www.saos.org.pl/judgments/433252
-364099|2018-10-19|SO|I ACa 47/18|Wyrok|https://www.saos.org.pl/judgments/364099
-476540|2018-08-10|SO|V Ca 162/18|Wyrok|https://www.saos.org.pl/judgments/476540
-294625|2017-07-14|SO|I C 242/16|Wyrok|https://www.saos.org.pl/judgments/294625
-245843|2016-04-29|SO|III Cz 2059/15|Postanowienie|https://www.saos.org.pl/judgments/245843
-185025|2015-10-08|SO|III Ca 367/15|Wyrok|https://www.saos.org.pl/judgments/185025
-185445|2015-07-08|SO|III Ca 767/15|Uzasadnienie|https://www.saos.org.pl/judgments/185445
-185442|2015-07-08|SO|III Ca 766/15|Uzasadnienie|https://www.saos.org.pl/judgments/185442
-245405|2015-04-09|SN|V CSK 393/14|Postanowienie|https://www.saos.org.pl/judgments/245405
-167856|2015-01-14|SN|II CSK 290/14|Wyrok|https://www.saos.org.pl/judgments/167856
-130724|2014-12-19|SO|I Ca 378/14|Postanowienie|https://www.saos.org.pl/judgments/130724
-74569|2014-08-01|SO|XII C 39/13|Wyrok|https://www.saos.org.pl/judgments/74569
-60137|2014-01-15|SO|III Ca 1887/13|Postanowienie|https://www.saos.org.pl/judgments/60137
-17474|2013-04-25|SO|II Ca 83/13|Postanowienie|https://www.saos.org.pl/judgments/17474
-17473|2013-04-25|SO|II Ca 82/13|Postanowienie|https://www.saos.org.pl/judgments/17473
-17472|2013-04-25|SO|II Ca 81/13|Postanowienie|https://www.saos.org.pl/judgments/17472
-17471|2013-04-25|SO|II Ca 79/13|Postanowienie|https://www.saos.org.pl/judgments/17471
-381444|2011-05-09|SO|V ACa 617/10|Wyrok|https://www.saos.org.pl/judgments/381444
+saos_id|date|court|case_number|type|score|saos_url
+167856|2015-01-14|SN|II CSK 290/14|Wyrok|78|https://www.saos.org.pl/judgments/167856
+245405|2015-04-09|SN|V CSK 393/14|Postanowienie|69|https://www.saos.org.pl/judgments/245405
+364099|2018-10-19|SO|I ACa 47/18|Wyrok|56|https://www.saos.org.pl/judgments/364099
+381444|2011-05-09|SO|V ACa 617/10|Wyrok|56|https://www.saos.org.pl/judgments/381444
+505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505685
+433252|2020-07-20|SO|III Ca 1713/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/433252
+185445|2015-07-08|SO|III Ca 767/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185445
+185442|2015-07-08|SO|III Ca 766/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185442

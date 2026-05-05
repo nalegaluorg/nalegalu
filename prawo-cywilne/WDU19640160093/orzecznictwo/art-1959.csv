@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-278296|2017-03-14|SO|I C 191/16|Wyrok|https://www.saos.org.pl/judgments/278296
-174102|2015-06-25|SO|II Ca 1085/14|Wyrok|https://www.saos.org.pl/judgments/174102
-224420|2013-10-30|SO|I C 724/12|Wyrok|https://www.saos.org.pl/judgments/224420
-138167|2013-03-13|SO|I C 60/10|Wyrok|https://www.saos.org.pl/judgments/138167
-12156|2013-01-11|SO|V ACa 989/12|Wyrok|https://www.saos.org.pl/judgments/12156
+saos_id|date|court|case_number|type|score|saos_url
+12156|2013-01-11|SO|V ACa 989/12|Wyrok|56|https://www.saos.org.pl/judgments/12156

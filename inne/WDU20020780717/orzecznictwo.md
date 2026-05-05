@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 29 maja 2002 r
 
 ## art. 92 (1)
 
-- 2002-11-27 | SN | [III CZP 13/02](https://www.saos.org.pl/judgments/81718) | Postanowienie
+- 2002-11-27 | SN | [III CZP 13/02](https://www.saos.org.pl/judgments/81718) | Postanowienie ★
 
 ## § 11 ust. 1 (1)
 

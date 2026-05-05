@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 10 lipca 2008 
 
 ## art. 32 (1)
 
-- 2011-08-09 | SN | [I UK 82/11](https://www.saos.org.pl/judgments/95600) | Wyrok
+- 2011-08-09 | SN | [I UK 82/11](https://www.saos.org.pl/judgments/95600) | Wyrok ★
 

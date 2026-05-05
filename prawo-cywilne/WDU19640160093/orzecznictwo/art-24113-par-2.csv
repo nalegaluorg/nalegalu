@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-94934|2011-05-12|SN|II PK 6/11|Wyrok|https://www.saos.org.pl/judgments/94934
+saos_id|date|court|case_number|type|score|saos_url
+94934|2011-05-12|SN|II PK 6/11|Wyrok|78|https://www.saos.org.pl/judgments/94934

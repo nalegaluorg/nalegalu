@@ -10,7 +10,7 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 8 październik
 
 ## art. 99 § 2 (1)
 
-- 2014-11-25 | SN | [SNO 49/14](https://www.saos.org.pl/judgments/167562) | Uchwała
+- 2014-11-25 | SN | [SNO 49/14](https://www.saos.org.pl/judgments/167562) | Uchwała ★
 
 ## art. 545 § 1 (1)
 

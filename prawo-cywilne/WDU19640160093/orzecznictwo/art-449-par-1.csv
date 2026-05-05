@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-119702|2012-02-13|KIO|KIO 211/12|Wyrok|https://www.saos.org.pl/judgments/119702
-164627|2006-11-08|SN|III CSK 174/06|Wyrok|https://www.saos.org.pl/judgments/164627
+saos_id|date|court|case_number|type|score|saos_url
+164627|2006-11-08|SN|III CSK 174/06|Wyrok|78|https://www.saos.org.pl/judgments/164627
+119702|2012-02-13|KIO|KIO 211/12|Wyrok|44|https://www.saos.org.pl/judgments/119702

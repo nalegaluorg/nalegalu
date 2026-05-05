@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-474042|2022-07-15|SO|II AKa 55/22|Uzasadnienie|https://www.saos.org.pl/judgments/474042
-179388|2015-08-20|SO|II AKa 129/15|Wyrok|https://www.saos.org.pl/judgments/179388
-167794|2015-01-05|SN|WO 12/14|Postanowienie|https://www.saos.org.pl/judgments/167794
-137158|2013-01-25|SO|II AKa 401/12|Wyrok|https://www.saos.org.pl/judgments/137158
-136536|2012-12-03|SO|II AKa 339/12|Wyrok|https://www.saos.org.pl/judgments/136536
-80494|2001-04-02|SN|V KKN 481/99|Wyrok|https://www.saos.org.pl/judgments/80494
-105390|1999-11-24|TK|Ts 94/99|Postanowienie|https://www.saos.org.pl/judgments/105390
+saos_id|date|court|case_number|type|score|saos_url
+105390|1999-11-24|TK|Ts 94/99|Postanowienie|80|https://www.saos.org.pl/judgments/105390
+80494|2001-04-02|SN|V KKN 481/99|Wyrok|78|https://www.saos.org.pl/judgments/80494
+167794|2015-01-05|SN|WO 12/14|Postanowienie|69|https://www.saos.org.pl/judgments/167794
+179388|2015-08-20|SO|II AKa 129/15|Wyrok|56|https://www.saos.org.pl/judgments/179388
+137158|2013-01-25|SO|II AKa 401/12|Wyrok|56|https://www.saos.org.pl/judgments/137158
+136536|2012-12-03|SO|II AKa 339/12|Wyrok|56|https://www.saos.org.pl/judgments/136536
+474042|2022-07-15|SO|II AKa 55/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/474042

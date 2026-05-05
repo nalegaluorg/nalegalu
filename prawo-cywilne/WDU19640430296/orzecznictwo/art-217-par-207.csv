@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-303471|2017-05-23|SO|II Ca 604/16|Postanowienie|https://www.saos.org.pl/judgments/303471
-263279|2016-07-07|SO|I ACa 110/16|Wyrok|https://www.saos.org.pl/judgments/263279
-240989|2016-06-08|SO|III Ca 299/16|Uzasadnienie|https://www.saos.org.pl/judgments/240989
-59995|2014-07-24|SO|I ACa 536/14|Wyrok|https://www.saos.org.pl/judgments/59995
-45342|2014-04-01|SO|VIII Ga 162/13|Uzasadnienie|https://www.saos.org.pl/judgments/45342
-34817|2013-11-04|SO|II Ca 617/13|Postanowienie|https://www.saos.org.pl/judgments/34817
+saos_id|date|court|case_number|type|score|saos_url
+263279|2016-07-07|SO|I ACa 110/16|Wyrok|56|https://www.saos.org.pl/judgments/263279
+59995|2014-07-24|SO|I ACa 536/14|Wyrok|56|https://www.saos.org.pl/judgments/59995
+240989|2016-06-08|SO|III Ca 299/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/240989

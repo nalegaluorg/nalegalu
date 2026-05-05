@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-53255|2014-07-10|SO|III Ko 223/14|Wyrok|https://www.saos.org.pl/judgments/53255
-160140|2014-02-26|TK|K 22/10|Wyrok|https://www.saos.org.pl/judgments/160140
-108964|2009-07-02|TK|K 1/07|Wyrok|https://www.saos.org.pl/judgments/108964
-108530|2008-07-22|TK|K 24/07|Wyrok|https://www.saos.org.pl/judgments/108530
-108439|2007-03-12|TK|Ts 268/06|Postanowienie|https://www.saos.org.pl/judgments/108439
-164220|2006-04-19|SN|V CSK 193/05|Wyrok|https://www.saos.org.pl/judgments/164220
+saos_id|date|court|case_number|type|score|saos_url
+160140|2014-02-26|TK|K 22/10|Wyrok|98|https://www.saos.org.pl/judgments/160140
+108964|2009-07-02|TK|K 1/07|Wyrok|98|https://www.saos.org.pl/judgments/108964
+108530|2008-07-22|TK|K 24/07|Wyrok|98|https://www.saos.org.pl/judgments/108530
+108439|2007-03-12|TK|Ts 268/06|Postanowienie|80|https://www.saos.org.pl/judgments/108439
+164220|2006-04-19|SN|V CSK 193/05|Wyrok|78|https://www.saos.org.pl/judgments/164220

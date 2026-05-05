@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-518041|2024-11-18|SO|II K 343/23|Wyrok|https://www.saos.org.pl/judgments/518041
-345674|2014-02-27|SO|II K 105/12|Wyrok|https://www.saos.org.pl/judgments/345674
+saos_id|date|court|case_number|type|score|saos_url
+345674|2014-02-27|SO|II K 105/12|Wyrok|40|https://www.saos.org.pl/judgments/345674

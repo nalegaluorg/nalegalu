@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-473064|2022-05-16|SO|I ACa 831/21|Wyrok|https://www.saos.org.pl/judgments/473064
-27725|2013-10-02|SO|X Ca 169/13|Wyrok|https://www.saos.org.pl/judgments/27725
+saos_id|date|court|case_number|type|score|saos_url
+473064|2022-05-16|SO|I ACa 831/21|Wyrok|56|https://www.saos.org.pl/judgments/473064

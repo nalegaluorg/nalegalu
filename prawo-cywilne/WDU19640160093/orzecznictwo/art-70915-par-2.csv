@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-371357|2018-11-06|SO|I AGa 268/18|Wyrok|https://www.saos.org.pl/judgments/371357
+saos_id|date|court|case_number|type|score|saos_url
+371357|2018-11-06|SO|I AGa 268/18|Wyrok|56|https://www.saos.org.pl/judgments/371357

@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-478321|2022-09-06|SO|V Gz 15/22|Postanowienie|https://www.saos.org.pl/judgments/478321
-433827|2021-03-19|SO|XIII Ga 1439/19|Uzasadnienie|https://www.saos.org.pl/judgments/433827
-421003|2020-08-31|SO|VIII Ga 19/20|Postanowienie|https://www.saos.org.pl/judgments/421003
-412955|2020-01-28|SO|I AGa 222/19|Wyrok|https://www.saos.org.pl/judgments/412955
-407340|2019-12-19|SO|VIII Ga 479/19|Uzasadnienie|https://www.saos.org.pl/judgments/407340
-274892|2017-02-17|SO|VIII Ga 220/16|Uzasadnienie|https://www.saos.org.pl/judgments/274892
-252357|2016-09-30|SO|I ACa 596/16|Postanowienie|https://www.saos.org.pl/judgments/252357
-299057|2016-01-28|SO|VI Gz 365/15|Postanowienie|https://www.saos.org.pl/judgments/299057
-172122|2015-07-30|SO|VIII Gz 34/15|Postanowienie|https://www.saos.org.pl/judgments/172122
-171657|2015-07-29|SO|VIII Gz 68/15|Postanowienie|https://www.saos.org.pl/judgments/171657
-149202|2015-02-27|SO|XII Gz 123/15|Postanowienie|https://www.saos.org.pl/judgments/149202
-75489|2014-12-30|SO|IX GCo 290/14|Postanowienie|https://www.saos.org.pl/judgments/75489
-15824|2013-07-11|SO|VI Gz 186/13|Postanowienie|https://www.saos.org.pl/judgments/15824
-11504|2012-05-24|SO|VIII Gz 65/13|Postanowienie|https://www.saos.org.pl/judgments/11504
-11503|2012-05-24|SO|VIII Gz 64/13|Postanowienie|https://www.saos.org.pl/judgments/11503
-89208|2008-11-20|SN|III CZP 111/08|Uchwała|https://www.saos.org.pl/judgments/89208
+saos_id|date|court|case_number|type|score|saos_url
+89208|2008-11-20|SN|III CZP 111/08|Uchwała|89|https://www.saos.org.pl/judgments/89208
+412955|2020-01-28|SO|I AGa 222/19|Wyrok|56|https://www.saos.org.pl/judgments/412955
+252357|2016-09-30|SO|I ACa 596/16|Postanowienie|47|https://www.saos.org.pl/judgments/252357
+299057|2016-01-28|SO|VI Gz 365/15|Postanowienie|31|https://www.saos.org.pl/judgments/299057
+149202|2015-02-27|SO|XII Gz 123/15|Postanowienie|31|https://www.saos.org.pl/judgments/149202
+75489|2014-12-30|SO|IX GCo 290/14|Postanowienie|31|https://www.saos.org.pl/judgments/75489
+15824|2013-07-11|SO|VI Gz 186/13|Postanowienie|31|https://www.saos.org.pl/judgments/15824
+433827|2021-03-19|SO|XIII Ga 1439/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/433827

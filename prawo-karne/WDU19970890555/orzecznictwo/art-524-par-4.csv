@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-103055|2013-10-04|SN|IV KK 136/13|Wyrok|https://www.saos.org.pl/judgments/103055
-102564|2013-08-07|SN|II KK 15/13|Postanowienie|https://www.saos.org.pl/judgments/102564
-83376|2005-05-06|SN|II KK 127/04|Postanowienie|https://www.saos.org.pl/judgments/83376
+saos_id|date|court|case_number|type|score|saos_url
+103055|2013-10-04|SN|IV KK 136/13|Wyrok|78|https://www.saos.org.pl/judgments/103055
+102564|2013-08-07|SN|II KK 15/13|Postanowienie|69|https://www.saos.org.pl/judgments/102564
+83376|2005-05-06|SN|II KK 127/04|Postanowienie|69|https://www.saos.org.pl/judgments/83376

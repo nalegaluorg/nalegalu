@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-376823|2018-12-28|SO|I C 1313/17|Wyrok|https://www.saos.org.pl/judgments/376823
-346088|2017-07-03|SO|I C 1044/15|Uzasadnienie|https://www.saos.org.pl/judgments/346088
-279836|2017-01-24|SO|IV Ka 242/16|Uzasadnienie|https://www.saos.org.pl/judgments/279836
-168213|2015-02-04|SN|V KK 342/14|Postanowienie|https://www.saos.org.pl/judgments/168213
-126527|2014-11-20|SO|III APa 24/14|Wyrok|https://www.saos.org.pl/judgments/126527
-75589|2014-09-17|SO|I ACa 823/14|Wyrok|https://www.saos.org.pl/judgments/75589
-70533|2014-09-03|SO|V ACa 359/14|Wyrok|https://www.saos.org.pl/judgments/70533
-137428|2013-02-28|SO|II AKa 6/13|Wyrok|https://www.saos.org.pl/judgments/137428
+saos_id|date|court|case_number|type|score|saos_url
+168213|2015-02-04|SN|V KK 342/14|Postanowienie|69|https://www.saos.org.pl/judgments/168213
+126527|2014-11-20|SO|III APa 24/14|Wyrok|56|https://www.saos.org.pl/judgments/126527
+75589|2014-09-17|SO|I ACa 823/14|Wyrok|56|https://www.saos.org.pl/judgments/75589
+70533|2014-09-03|SO|V ACa 359/14|Wyrok|56|https://www.saos.org.pl/judgments/70533
+137428|2013-02-28|SO|II AKa 6/13|Wyrok|56|https://www.saos.org.pl/judgments/137428

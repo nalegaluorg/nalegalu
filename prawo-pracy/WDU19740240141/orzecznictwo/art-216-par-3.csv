@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-78259|1998-04-07|SN|III RN 17/98|Wyrok|https://www.saos.org.pl/judgments/78259
+saos_id|date|court|case_number|type|score|saos_url
+78259|1998-04-07|SN|III RN 17/98|Wyrok|78|https://www.saos.org.pl/judgments/78259

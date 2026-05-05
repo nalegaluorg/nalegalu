@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-493040|2023-06-06|SO|I C 413/21|Wyrok|https://www.saos.org.pl/judgments/493040
-359470|2018-06-22|SO|I ACa 1459/17|Wyrok|https://www.saos.org.pl/judgments/359470
-58832|2014-06-27|SO|I ACa 62/14|Wyrok|https://www.saos.org.pl/judgments/58832
-124855|2014-05-22|SO|I ACa 381/14|Wyrok|https://www.saos.org.pl/judgments/124855
-52404|2014-05-22|SO|I ACa 1458/13|Wyrok|https://www.saos.org.pl/judgments/52404
+saos_id|date|court|case_number|type|score|saos_url
+359470|2018-06-22|SO|I ACa 1459/17|Wyrok|56|https://www.saos.org.pl/judgments/359470
+58832|2014-06-27|SO|I ACa 62/14|Wyrok|56|https://www.saos.org.pl/judgments/58832
+124855|2014-05-22|SO|I ACa 381/14|Wyrok|56|https://www.saos.org.pl/judgments/124855
+52404|2014-05-22|SO|I ACa 1458/13|Wyrok|56|https://www.saos.org.pl/judgments/52404

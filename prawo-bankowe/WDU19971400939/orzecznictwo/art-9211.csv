@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-435085|2020-12-16|SO|VII AGa 421/19|Wyrok|https://www.saos.org.pl/judgments/435085
-276154|2013-02-06|SO|II C 360/12|Wyrok|https://www.saos.org.pl/judgments/276154
+saos_id|date|court|case_number|type|score|saos_url
+435085|2020-12-16|SO|VII AGa 421/19|Wyrok|56|https://www.saos.org.pl/judgments/435085

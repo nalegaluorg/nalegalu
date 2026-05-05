@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-72066|2014-09-04|SO|I ACa 364/14|Wyrok|https://www.saos.org.pl/judgments/72066
+saos_id|date|court|case_number|type|score|saos_url
+72066|2014-09-04|SO|I ACa 364/14|Wyrok|56|https://www.saos.org.pl/judgments/72066

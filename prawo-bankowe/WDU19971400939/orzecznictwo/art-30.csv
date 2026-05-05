@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-477076|2022-05-26|SO|I AGa 25/22|Wyrok|https://www.saos.org.pl/judgments/477076
-432439|2020-12-21|SO|XXVI GC 586/20|Wyrok|https://www.saos.org.pl/judgments/432439
-408456|2019-03-27|SO|I ACa 678/18|Wyrok|https://www.saos.org.pl/judgments/408456
-307201|2017-09-08|SO|XIII Ga 330/17|Uzasadnienie|https://www.saos.org.pl/judgments/307201
-249530|2016-10-05|SO|XIII Ga 290/16|Uzasadnienie|https://www.saos.org.pl/judgments/249530
-247246|2016-09-16|SO|XIII Ga 245/16|Uzasadnienie|https://www.saos.org.pl/judgments/247246
-106265|2002-01-29|TK|K 19/01|Wyrok|https://www.saos.org.pl/judgments/106265
-206006|2000-11-21|TK|K 4/00|Postanowienie|https://www.saos.org.pl/judgments/206006
+saos_id|date|court|case_number|type|score|saos_url
+106265|2002-01-29|TK|K 19/01|Wyrok|98|https://www.saos.org.pl/judgments/106265
+206006|2000-11-21|TK|K 4/00|Postanowienie|80|https://www.saos.org.pl/judgments/206006
+477076|2022-05-26|SO|I AGa 25/22|Wyrok|56|https://www.saos.org.pl/judgments/477076
+408456|2019-03-27|SO|I ACa 678/18|Wyrok|56|https://www.saos.org.pl/judgments/408456
+307201|2017-09-08|SO|XIII Ga 330/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/307201
+249530|2016-10-05|SO|XIII Ga 290/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249530
+247246|2016-09-16|SO|XIII Ga 245/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/247246

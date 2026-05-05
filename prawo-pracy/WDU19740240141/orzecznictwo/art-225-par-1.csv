@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-537248|2025-05-05|SO|II K 569/23|Uzasadnienie|https://www.saos.org.pl/judgments/537248
-459394|2022-01-11|SO|VIII Pa 136/21|Zarządzenie|https://www.saos.org.pl/judgments/459394
-466783|2021-11-09|SO|IV U 729/20|Wyrok|https://www.saos.org.pl/judgments/466783
-376903|2019-04-10|SO|I C 1609/17|Uzasadnienie|https://www.saos.org.pl/judgments/376903
-380379|2019-03-04|SO|VIII Pa 180/18|Uzasadnienie|https://www.saos.org.pl/judgments/380379
-226089|2016-05-16|SO|VII Pa 71/16|Uzasadnienie|https://www.saos.org.pl/judgments/226089
-197957|2015-12-17|SO|III APa 29/15|Wyrok|https://www.saos.org.pl/judgments/197957
-52530|2014-05-23|SO|VIII Ka 869/13|Wyrok|https://www.saos.org.pl/judgments/52530
-33691|2013-06-06|SO|III APa 12/13|Wyrok|https://www.saos.org.pl/judgments/33691
-95259|2011-06-20|SN|I PK 277/10|Wyrok|https://www.saos.org.pl/judgments/95259
+saos_id|date|court|case_number|type|score|saos_url
+95259|2011-06-20|SN|I PK 277/10|Wyrok|78|https://www.saos.org.pl/judgments/95259
+197957|2015-12-17|SO|III APa 29/15|Wyrok|56|https://www.saos.org.pl/judgments/197957
+33691|2013-06-06|SO|III APa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/33691
+459394|2022-01-11|SO|VIII Pa 136/21|Zarządzenie|27|https://www.saos.org.pl/judgments/459394
+376903|2019-04-10|SO|I C 1609/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/376903
+380379|2019-03-04|SO|VIII Pa 180/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380379
+226089|2016-05-16|SO|VII Pa 71/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/226089

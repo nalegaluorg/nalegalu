@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245462|2015-05-07|SN|II CSK 449/14|Wyrok|https://www.saos.org.pl/judgments/245462
-320152|2013-01-18|SO|XX GC 390/11|Wyrok|https://www.saos.org.pl/judgments/320152
+saos_id|date|court|case_number|type|score|saos_url
+245462|2015-05-07|SN|II CSK 449/14|Wyrok|78|https://www.saos.org.pl/judgments/245462

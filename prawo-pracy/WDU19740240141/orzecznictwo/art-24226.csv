@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83514|2005-06-23|SN|II PK 289/04|Wyrok|https://www.saos.org.pl/judgments/83514
+saos_id|date|court|case_number|type|score|saos_url
+83514|2005-06-23|SN|II PK 289/04|Wyrok|78|https://www.saos.org.pl/judgments/83514

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-89623|2009-02-06|SN|IV CZ 7/09|Postanowienie|https://www.saos.org.pl/judgments/89623
+saos_id|date|court|case_number|type|score|saos_url
+89623|2009-02-06|SN|IV CZ 7/09|Postanowienie|69|https://www.saos.org.pl/judgments/89623

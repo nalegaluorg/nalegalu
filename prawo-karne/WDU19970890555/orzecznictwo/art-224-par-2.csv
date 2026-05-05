@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-460435|2022-01-04|SO|II AKa 165/21|Uzasadnienie|https://www.saos.org.pl/judgments/460435
-479119|2021-12-20|SO|XVII Amz 51/21|Postanowienie|https://www.saos.org.pl/judgments/479119
-454525|2021-05-20|SO|II Ko 2/21|Uzasadnienie|https://www.saos.org.pl/judgments/454525
-393198|2019-04-23|SO|IV Ka 207/19|Wyrok|https://www.saos.org.pl/judgments/393198
-376805|2019-03-26|SO|I C 127/17|Wyrok|https://www.saos.org.pl/judgments/376805
-311802|2017-09-28|SO|IV Ka 747/17|Wyrok|https://www.saos.org.pl/judgments/311802
-237873|2016-06-17|SO|VI Ka 510/16|Wyrok|https://www.saos.org.pl/judgments/237873
-231120|2016-04-29|SO|I ACa 71/16|Wyrok|https://www.saos.org.pl/judgments/231120
-215413|2015-11-10|SO|III K 859/14|Wyrok|https://www.saos.org.pl/judgments/215413
-19738|2013-06-28|SO|IV Ka 384/13|Wyrok|https://www.saos.org.pl/judgments/19738
+saos_id|date|court|case_number|type|score|saos_url
+231120|2016-04-29|SO|I ACa 71/16|Wyrok|56|https://www.saos.org.pl/judgments/231120
+460435|2022-01-04|SO|II AKa 165/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/460435
+311802|2017-09-28|SO|IV Ka 747/17|Wyrok|40|https://www.saos.org.pl/judgments/311802

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-458797|2021-08-27|SO|III Ca 1098/20|Uzasadnienie|https://www.saos.org.pl/judgments/458797
-529674|2019-10-30|SO|II Ca 1504/19|Zarządzenie|https://www.saos.org.pl/judgments/529674
-418681|2019-05-29|SO|I ACa 662/18|Wyrok|https://www.saos.org.pl/judgments/418681
-359947|2018-04-23|SO|II Ca 428/18|Zarządzenie|https://www.saos.org.pl/judgments/359947
+saos_id|date|court|case_number|type|score|saos_url
+418681|2019-05-29|SO|I ACa 662/18|Wyrok|56|https://www.saos.org.pl/judgments/418681
+458797|2021-08-27|SO|III Ca 1098/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/458797

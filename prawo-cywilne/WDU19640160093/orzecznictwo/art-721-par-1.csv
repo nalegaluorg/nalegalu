@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-272036|2017-02-03|SO|VIII C 2530/16|Wyrok|https://www.saos.org.pl/judgments/272036
-181231|2015-08-12|SO|I ACa 270/15|Wyrok|https://www.saos.org.pl/judgments/181231
+saos_id|date|court|case_number|type|score|saos_url
+181231|2015-08-12|SO|I ACa 270/15|Wyrok|56|https://www.saos.org.pl/judgments/181231

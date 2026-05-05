@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-451589|2021-11-19|SO|I C 48/21|Wyrok|https://www.saos.org.pl/judgments/451589
-300667|2017-05-31|SO|I C 1612/16|Wyrok|https://www.saos.org.pl/judgments/300667
+saos_id|date|court|case_number|type|score|saos_url
+300667|2017-05-31|SO|I C 1612/16|Wyrok|40|https://www.saos.org.pl/judgments/300667

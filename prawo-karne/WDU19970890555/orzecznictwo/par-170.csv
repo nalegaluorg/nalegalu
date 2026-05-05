@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-328010|2018-02-22|SO|IX U 313/17|Uzasadnienie|https://www.saos.org.pl/judgments/328010
-312011|2017-09-20|SO|IV Ka 71/17|Wyrok|https://www.saos.org.pl/judgments/312011
-171575|2015-06-03|SO|II AKa 64/15|Wyrok|https://www.saos.org.pl/judgments/171575
+saos_id|date|court|case_number|type|score|saos_url
+171575|2015-06-03|SO|II AKa 64/15|Wyrok|56|https://www.saos.org.pl/judgments/171575

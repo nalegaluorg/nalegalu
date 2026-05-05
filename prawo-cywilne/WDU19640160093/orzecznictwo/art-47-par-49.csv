@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-461842|2021-04-28|SO|IX Ka 123/21|Wyrok|https://www.saos.org.pl/judgments/461842
-166746|2014-09-26|SN|IV CSK 711/13|Postanowienie|https://www.saos.org.pl/judgments/166746
-137865|2013-03-14|SO|I Ca 296/12|Wyrok|https://www.saos.org.pl/judgments/137865
-107936|2006-02-21|TK|Ts 189/04|Postanowienie|https://www.saos.org.pl/judgments/107936
+saos_id|date|court|case_number|type|score|saos_url
+107936|2006-02-21|TK|Ts 189/04|Postanowienie|80|https://www.saos.org.pl/judgments/107936
+166746|2014-09-26|SN|IV CSK 711/13|Postanowienie|69|https://www.saos.org.pl/judgments/166746

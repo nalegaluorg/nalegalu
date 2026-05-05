@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501987|2023-08-17|SO|II Ca 429/23|Wyrok|https://www.saos.org.pl/judgments/501987
-439482|2021-03-17|SO|V ACa 364/20|Wyrok|https://www.saos.org.pl/judgments/439482
+saos_id|date|court|case_number|type|score|saos_url
+439482|2021-03-17|SO|V ACa 364/20|Wyrok|56|https://www.saos.org.pl/judgments/439482

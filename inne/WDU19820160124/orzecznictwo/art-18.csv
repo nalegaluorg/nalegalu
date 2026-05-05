@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-65758|2014-04-09|SO|III APa 3/14|Wyrok|https://www.saos.org.pl/judgments/65758
-7928|2012-10-31|SO|III AUa 291/12|Wyrok|https://www.saos.org.pl/judgments/7928
+saos_id|date|court|case_number|type|score|saos_url
+65758|2014-04-09|SO|III APa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/65758
+7928|2012-10-31|SO|III AUa 291/12|Wyrok|56|https://www.saos.org.pl/judgments/7928

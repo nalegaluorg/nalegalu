@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-108161|2007-05-22|TK|SK 38/05|Postanowienie|https://www.saos.org.pl/judgments/108161
-84344|2006-05-29|SN|I PK 189/05|Wyrok|https://www.saos.org.pl/judgments/84344
-78795|1999-01-12|SN|I PKN 528/98|Wyrok|https://www.saos.org.pl/judgments/78795
+saos_id|date|court|case_number|type|score|saos_url
+108161|2007-05-22|TK|SK 38/05|Postanowienie|80|https://www.saos.org.pl/judgments/108161
+84344|2006-05-29|SN|I PK 189/05|Wyrok|78|https://www.saos.org.pl/judgments/84344
+78795|1999-01-12|SN|I PKN 528/98|Wyrok|78|https://www.saos.org.pl/judgments/78795

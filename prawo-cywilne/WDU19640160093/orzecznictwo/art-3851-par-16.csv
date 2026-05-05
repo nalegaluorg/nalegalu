@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525098|2025-02-20|SO|I C 1500/24|Wyrok|https://www.saos.org.pl/judgments/525098
-476989|2022-04-11|SO|I ACa 832/21|Wyrok|https://www.saos.org.pl/judgments/476989
+saos_id|date|court|case_number|type|score|saos_url
+476989|2022-04-11|SO|I ACa 832/21|Wyrok|56|https://www.saos.org.pl/judgments/476989

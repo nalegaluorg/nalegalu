@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-459394|2022-01-11|SO|VIII Pa 136/21|Zarządzenie|https://www.saos.org.pl/judgments/459394
-466783|2021-11-09|SO|IV U 729/20|Wyrok|https://www.saos.org.pl/judgments/466783
-52530|2014-05-23|SO|VIII Ka 869/13|Wyrok|https://www.saos.org.pl/judgments/52530
-33691|2013-06-06|SO|III APa 12/13|Wyrok|https://www.saos.org.pl/judgments/33691
+saos_id|date|court|case_number|type|score|saos_url
+33691|2013-06-06|SO|III APa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/33691
+459394|2022-01-11|SO|VIII Pa 136/21|Zarządzenie|27|https://www.saos.org.pl/judgments/459394

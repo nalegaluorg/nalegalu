@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90196|2009-05-07|SN|IV CSK 552/08|Wyrok|https://www.saos.org.pl/judgments/90196
+saos_id|date|court|case_number|type|score|saos_url
+90196|2009-05-07|SN|IV CSK 552/08|Wyrok|78|https://www.saos.org.pl/judgments/90196

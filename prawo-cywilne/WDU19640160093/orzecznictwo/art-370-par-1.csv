@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-242934|2015-07-02|SN|V CSK 421/14|Wyrok|https://www.saos.org.pl/judgments/242934
+saos_id|date|court|case_number|type|score|saos_url
+242934|2015-07-02|SN|V CSK 421/14|Wyrok|78|https://www.saos.org.pl/judgments/242934

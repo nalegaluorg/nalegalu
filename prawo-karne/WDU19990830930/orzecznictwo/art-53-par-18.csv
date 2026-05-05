@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93010|2010-09-30|SN|I KZP 17/10|Postanowienie|https://www.saos.org.pl/judgments/93010
+saos_id|date|court|case_number|type|score|saos_url
+93010|2010-09-30|SN|I KZP 17/10|Postanowienie|69|https://www.saos.org.pl/judgments/93010

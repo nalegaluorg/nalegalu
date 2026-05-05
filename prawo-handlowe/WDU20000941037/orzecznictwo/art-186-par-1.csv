@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-380291|2018-05-23|SO|VIII GC 235/18|Wyrok|https://www.saos.org.pl/judgments/380291
-39248|2013-12-05|SO|I ACa 745/13|Wyrok|https://www.saos.org.pl/judgments/39248
-14212|2013-05-09|SO|I ACa 124/13|Wyrok|https://www.saos.org.pl/judgments/14212
-86539|2007-09-13|SN|III CNP 23/07|Wyrok|https://www.saos.org.pl/judgments/86539
+saos_id|date|court|case_number|type|score|saos_url
+86539|2007-09-13|SN|III CNP 23/07|Wyrok|78|https://www.saos.org.pl/judgments/86539
+39248|2013-12-05|SO|I ACa 745/13|Wyrok|56|https://www.saos.org.pl/judgments/39248
+14212|2013-05-09|SO|I ACa 124/13|Wyrok|56|https://www.saos.org.pl/judgments/14212

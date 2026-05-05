@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-186247|2015-12-01|SO|IV K 335/11|Uzasadnienie|https://www.saos.org.pl/judgments/186247
-176571|2015-01-15|SO|II AKa 293/14|Wyrok|https://www.saos.org.pl/judgments/176571
-382790|2014-05-22|SO|II AKa 75/14|Wyrok|https://www.saos.org.pl/judgments/382790
-22960|2013-10-02|SO|VII Ka 803/13|Wyrok|https://www.saos.org.pl/judgments/22960
+saos_id|date|court|case_number|type|score|saos_url
+176571|2015-01-15|SO|II AKa 293/14|Wyrok|56|https://www.saos.org.pl/judgments/176571
+382790|2014-05-22|SO|II AKa 75/14|Wyrok|56|https://www.saos.org.pl/judgments/382790

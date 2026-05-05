@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-296679|2017-05-23|SO|I C 319/17|Wyrok|https://www.saos.org.pl/judgments/296679
-49609|2014-05-23|SO|XV S 76/14|Postanowienie|https://www.saos.org.pl/judgments/49609
-47163|2013-05-08|SO|V Ca 245/13|Wyrok|https://www.saos.org.pl/judgments/47163
-23411|2011-11-23|SO|I ACa 501/11|Wyrok|https://www.saos.org.pl/judgments/23411
+saos_id|date|court|case_number|type|score|saos_url
+23411|2011-11-23|SO|I ACa 501/11|Wyrok|56|https://www.saos.org.pl/judgments/23411
+296679|2017-05-23|SO|I C 319/17|Wyrok|40|https://www.saos.org.pl/judgments/296679
+49609|2014-05-23|SO|XV S 76/14|Postanowienie|31|https://www.saos.org.pl/judgments/49609

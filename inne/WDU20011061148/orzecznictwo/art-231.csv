@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-161603|2014-07-03|KIO|KIO 1229/14|Wyrok|https://www.saos.org.pl/judgments/161603
+saos_id|date|court|case_number|type|score|saos_url
+161603|2014-07-03|KIO|KIO 1229/14|Wyrok|44|https://www.saos.org.pl/judgments/161603

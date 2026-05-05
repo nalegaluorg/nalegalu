@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-460751|2021-11-04|SO|III Ca 1395/20|Wyrok|https://www.saos.org.pl/judgments/460751
-172847|2015-03-20|SO|III Ca 1734/14|Uzasadnienie|https://www.saos.org.pl/judgments/172847
+saos_id|date|court|case_number|type|score|saos_url
+460751|2021-11-04|SO|III Ca 1395/20|Wyrok|40|https://www.saos.org.pl/judgments/460751
+172847|2015-03-20|SO|III Ca 1734/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/172847

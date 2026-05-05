@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-424681|2020-10-12|SO|V W 3515/19|Wyrok|https://www.saos.org.pl/judgments/424681
-57291|2014-08-12|SO|IV Ka 463/14|Wyrok|https://www.saos.org.pl/judgments/57291
-45947|2013-10-15|SO|IX Ka 679/12|Wyrok|https://www.saos.org.pl/judgments/45947
-106780|2004-05-18|TK|SK 38/03|Wyrok|https://www.saos.org.pl/judgments/106780
+saos_id|date|court|case_number|type|score|saos_url
+106780|2004-05-18|TK|SK 38/03|Wyrok|98|https://www.saos.org.pl/judgments/106780

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-440235|2018-05-18|SO|V ACa 657/17|Wyrok|https://www.saos.org.pl/judgments/440235
-78495|1998-08-25|SN|I PKN 268/98|Wyrok|https://www.saos.org.pl/judgments/78495
-78430|1998-07-09|SN|I PKN 226/98|Wyrok|https://www.saos.org.pl/judgments/78430
-77683|1997-05-20|SN|II UKN 121/97|Wyrok|https://www.saos.org.pl/judgments/77683
-77355|1996-12-13|SN|I PKN 2/96|Wyrok|https://www.saos.org.pl/judgments/77355
+saos_id|date|court|case_number|type|score|saos_url
+78495|1998-08-25|SN|I PKN 268/98|Wyrok|78|https://www.saos.org.pl/judgments/78495
+78430|1998-07-09|SN|I PKN 226/98|Wyrok|78|https://www.saos.org.pl/judgments/78430
+77683|1997-05-20|SN|II UKN 121/97|Wyrok|78|https://www.saos.org.pl/judgments/77683
+77355|1996-12-13|SN|I PKN 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77355
+440235|2018-05-18|SO|V ACa 657/17|Wyrok|56|https://www.saos.org.pl/judgments/440235

@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-519258|2024-09-25|SO|V W 3207/23|Uzasadnienie|https://www.saos.org.pl/judgments/519258
-446849|2019-07-11|SO|I AGa 308/18|Wyrok|https://www.saos.org.pl/judgments/446849
-444926|2019-07-11|SO|I ACa 906/18|Wyrok|https://www.saos.org.pl/judgments/444926
-332166|2018-02-16|SO|IV Ka 819/17|Uzasadnienie|https://www.saos.org.pl/judgments/332166
-277444|2016-10-19|SO|I C 837/17|Wyrok|https://www.saos.org.pl/judgments/277444
+saos_id|date|court|case_number|type|score|saos_url
+446849|2019-07-11|SO|I AGa 308/18|Wyrok|56|https://www.saos.org.pl/judgments/446849
+444926|2019-07-11|SO|I ACa 906/18|Wyrok|56|https://www.saos.org.pl/judgments/444926
+277444|2016-10-19|SO|I C 837/17|Wyrok|40|https://www.saos.org.pl/judgments/277444

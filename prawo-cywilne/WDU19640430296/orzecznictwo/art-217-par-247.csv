@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-158612|2015-06-08|SO|V Ca 302/15|Wyrok|https://www.saos.org.pl/judgments/158612
+saos_id|date|court|case_number|type|score|saos_url
+158612|2015-06-08|SO|V Ca 302/15|Wyrok|40|https://www.saos.org.pl/judgments/158612

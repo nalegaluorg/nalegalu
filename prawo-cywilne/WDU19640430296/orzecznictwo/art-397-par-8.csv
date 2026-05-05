@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-414329|2020-01-13|SO|II Cz 3430/19|Postanowienie|https://www.saos.org.pl/judgments/414329
-233231|2016-04-19|SO|II Cz 127/16|Postanowienie|https://www.saos.org.pl/judgments/233231
+saos_id|date|court|case_number|type|score|saos_url
+414329|2020-01-13|SO|II Cz 3430/19|Postanowienie|31|https://www.saos.org.pl/judgments/414329

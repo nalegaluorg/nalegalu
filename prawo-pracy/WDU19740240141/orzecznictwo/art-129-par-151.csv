@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-381886|2019-04-15|SO|VIII Pa 277/18|Zarządzenie|https://www.saos.org.pl/judgments/381886
-339652|2018-04-27|SO|IV Ka 162/18|Wyrok|https://www.saos.org.pl/judgments/339652
+saos_id|date|court|case_number|type|score|saos_url
+381886|2019-04-15|SO|VIII Pa 277/18|Zarządzenie|27|https://www.saos.org.pl/judgments/381886

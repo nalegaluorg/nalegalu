@@ -1,12 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509325|2023-11-03|SO|IX Ka 812/23|Wyrok|https://www.saos.org.pl/judgments/509325
-530745|2023-05-04|SO|II K 799/21|Uzasadnienie|https://www.saos.org.pl/judgments/530745
-517446|2023-03-03|SO|VIII K 1238/22|Postanowienie|https://www.saos.org.pl/judgments/517446
-442951|2021-05-25|SO|V K 94/20|Wyrok|https://www.saos.org.pl/judgments/442951
-468944|2019-01-28|SO|II K 1118/18|Postanowienie|https://www.saos.org.pl/judgments/468944
-519837|2018-11-15|SO|X K 51/17|Uzasadnienie|https://www.saos.org.pl/judgments/519837
-519836|2018-09-13|SO|X K 51/17|Wyrok|https://www.saos.org.pl/judgments/519836
-519638|2018-03-22|SO|X K 129/18|Wyrok|https://www.saos.org.pl/judgments/519638
-355964|2018-03-07|SO|XI W 1957/17|Wyrok|https://www.saos.org.pl/judgments/355964
-295968|2017-07-26|SO|II K 431/17|Wyrok|https://www.saos.org.pl/judgments/295968
-130809|2015-01-23|SO|XVII Ka 1364/14|Wyrok|https://www.saos.org.pl/judgments/130809
+saos_id|date|court|case_number|type|score|saos_url
+130809|2015-01-23|SO|XVII Ka 1364/14|Wyrok|40|https://www.saos.org.pl/judgments/130809

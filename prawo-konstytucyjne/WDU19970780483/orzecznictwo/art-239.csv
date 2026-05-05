@@ -1,22 +1,22 @@
-saos_id|date|court|case_number|type|saos_url
-111764|2013-07-03|TK|Ts 54/12|Postanowienie|https://www.saos.org.pl/judgments/111764
-14390|2013-03-26|SO|VI ACa 1175/12|Wyrok|https://www.saos.org.pl/judgments/14390
-206300|2011-09-13|TK|K 8/09|Wyrok|https://www.saos.org.pl/judgments/206300
-109668|2010-10-27|TK|K 10/08|Wyrok|https://www.saos.org.pl/judgments/109668
-91515|2009-12-17|SN|III PZP 2/09|Uchwała|https://www.saos.org.pl/judgments/91515
-89004|2008-10-30|SN|II CSK 251/08|Wyrok|https://www.saos.org.pl/judgments/89004
-86752|2007-10-26|SN|III CZP 84/07|Uchwała|https://www.saos.org.pl/judgments/86752
-164176|2006-04-06|SN|IV CK 418/05|Wyrok|https://www.saos.org.pl/judgments/164176
-106274|2002-02-20|TK|K 39/00|Wyrok|https://www.saos.org.pl/judgments/106274
-105861|2001-11-28|TK|SK 5/01|Postanowienie|https://www.saos.org.pl/judgments/105861
-105510|2000-07-24|TK|SK 26/99|Postanowienie|https://www.saos.org.pl/judgments/105510
-206046|2000-04-17|TK|SK 28/99|Wyrok|https://www.saos.org.pl/judgments/206046
-79595|2000-03-28|SN|II UKN 438/99|Wyrok|https://www.saos.org.pl/judgments/79595
-205999|2000-03-08|TK|Pp 1/99|Wyrok|https://www.saos.org.pl/judgments/205999
-79447|1999-12-16|SN|II CKN 632/98|Wyrok|https://www.saos.org.pl/judgments/79447
-205952|1999-06-16|TK|P 4/98|Wyrok|https://www.saos.org.pl/judgments/205952
-105221|1998-09-22|TK|P 5/98|Postanowienie|https://www.saos.org.pl/judgments/105221
-205760|1997-11-25|TK|K 26/97|Wyrok|https://www.saos.org.pl/judgments/205760
-205785|1997-11-12|TK|W 11/96|Postanowienie|https://www.saos.org.pl/judgments/205785
-205783|1997-11-12|TK|W 9/96|Postanowienie|https://www.saos.org.pl/judgments/205783
-205778|1997-11-12|TK|W 2/97|Postanowienie|https://www.saos.org.pl/judgments/205778
+saos_id|date|court|case_number|type|score|saos_url
+206300|2011-09-13|TK|K 8/09|Wyrok|98|https://www.saos.org.pl/judgments/206300
+109668|2010-10-27|TK|K 10/08|Wyrok|98|https://www.saos.org.pl/judgments/109668
+106274|2002-02-20|TK|K 39/00|Wyrok|98|https://www.saos.org.pl/judgments/106274
+206046|2000-04-17|TK|SK 28/99|Wyrok|98|https://www.saos.org.pl/judgments/206046
+205999|2000-03-08|TK|Pp 1/99|Wyrok|98|https://www.saos.org.pl/judgments/205999
+205952|1999-06-16|TK|P 4/98|Wyrok|98|https://www.saos.org.pl/judgments/205952
+205760|1997-11-25|TK|K 26/97|Wyrok|98|https://www.saos.org.pl/judgments/205760
+91515|2009-12-17|SN|III PZP 2/09|Uchwała|96|https://www.saos.org.pl/judgments/91515
+86752|2007-10-26|SN|III CZP 84/07|Uchwała|89|https://www.saos.org.pl/judgments/86752
+111764|2013-07-03|TK|Ts 54/12|Postanowienie|80|https://www.saos.org.pl/judgments/111764
+105861|2001-11-28|TK|SK 5/01|Postanowienie|80|https://www.saos.org.pl/judgments/105861
+105510|2000-07-24|TK|SK 26/99|Postanowienie|80|https://www.saos.org.pl/judgments/105510
+105221|1998-09-22|TK|P 5/98|Postanowienie|80|https://www.saos.org.pl/judgments/105221
+205785|1997-11-12|TK|W 11/96|Postanowienie|80|https://www.saos.org.pl/judgments/205785
+205783|1997-11-12|TK|W 9/96|Postanowienie|80|https://www.saos.org.pl/judgments/205783
+205778|1997-11-12|TK|W 2/97|Postanowienie|80|https://www.saos.org.pl/judgments/205778
+89004|2008-10-30|SN|II CSK 251/08|Wyrok|78|https://www.saos.org.pl/judgments/89004
+164176|2006-04-06|SN|IV CK 418/05|Wyrok|78|https://www.saos.org.pl/judgments/164176
+79595|2000-03-28|SN|II UKN 438/99|Wyrok|78|https://www.saos.org.pl/judgments/79595
+79447|1999-12-16|SN|II CKN 632/98|Wyrok|78|https://www.saos.org.pl/judgments/79447
+14390|2013-03-26|SO|VI ACa 1175/12|Wyrok|56|https://www.saos.org.pl/judgments/14390

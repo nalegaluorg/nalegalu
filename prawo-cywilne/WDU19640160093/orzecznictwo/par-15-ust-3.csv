@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-534159|2025-09-01|SO|I Ca 92/25|Uzasadnienie|https://www.saos.org.pl/judgments/534159
-418334|2019-11-27|SO|VI ACa 602/18|Wyrok|https://www.saos.org.pl/judgments/418334
+saos_id|date|court|case_number|type|score|saos_url
+418334|2019-11-27|SO|VI ACa 602/18|Wyrok|56|https://www.saos.org.pl/judgments/418334

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-447012|2019-01-21|SO|XVII AmK 16/16|Wyrok|https://www.saos.org.pl/judgments/447012
-189616|2011-06-28|SO|XVII AmT 150/09|Uzasadnienie|https://www.saos.org.pl/judgments/189616
+saos_id|date|court|case_number|type|score|saos_url
+83737|2005-09-20|SN|III SZP 2/05|Postanowienie|69|https://www.saos.org.pl/judgments/83737

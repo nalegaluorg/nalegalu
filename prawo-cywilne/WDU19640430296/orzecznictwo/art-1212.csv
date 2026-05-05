@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-97763|2012-04-13|SN|I CSK 416/11|Wyrok|https://www.saos.org.pl/judgments/97763
-97762|2012-04-13|SN|I CSK 416/11|Wyrok|https://www.saos.org.pl/judgments/97762
-97460|2012-03-08|SN|III CSK 292/11|Wyrok|https://www.saos.org.pl/judgments/97460
-110766|2011-03-21|TK|Ts 279/10|Postanowienie|https://www.saos.org.pl/judgments/110766
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
-87057|2008-01-17|SN|III CZP 112/07|Uchwała|https://www.saos.org.pl/judgments/87057
-84994|2007-01-18|SN|I CSK 330/06|Postanowienie|https://www.saos.org.pl/judgments/84994
+saos_id|date|court|case_number|type|score|saos_url
+87057|2008-01-17|SN|III CZP 112/07|Uchwała|89|https://www.saos.org.pl/judgments/87057
+110766|2011-03-21|TK|Ts 279/10|Postanowienie|80|https://www.saos.org.pl/judgments/110766
+97763|2012-04-13|SN|I CSK 416/11|Wyrok|78|https://www.saos.org.pl/judgments/97763
+97762|2012-04-13|SN|I CSK 416/11|Wyrok|78|https://www.saos.org.pl/judgments/97762
+97460|2012-03-08|SN|III CSK 292/11|Wyrok|78|https://www.saos.org.pl/judgments/97460
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456
+84994|2007-01-18|SN|I CSK 330/06|Postanowienie|69|https://www.saos.org.pl/judgments/84994

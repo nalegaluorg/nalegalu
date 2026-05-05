@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-475524|2022-09-13|SO|II K 167/22|Wyrok|https://www.saos.org.pl/judgments/475524
-233886|2016-05-23|SO|XVIII C 289/15|Wyrok|https://www.saos.org.pl/judgments/233886
-187217|2015-10-27|SO|V Ka 434/15|Wyrok|https://www.saos.org.pl/judgments/187217
-169590|2015-06-09|SO|VI Ka 317/15|Wyrok|https://www.saos.org.pl/judgments/169590
-67349|2014-10-02|SO|XVII Ka 869/14|Wyrok|https://www.saos.org.pl/judgments/67349
-103707|2013-11-27|SN|V KK 283/13|Postanowienie|https://www.saos.org.pl/judgments/103707
-103385|2013-10-30|SN|V CSK 582/12|Postanowienie|https://www.saos.org.pl/judgments/103385
-143179|2013-07-25|SO|II AKa 167/13|Wyrok|https://www.saos.org.pl/judgments/143179
-11188|2013-04-25|SO|I ACa 1447/12|Wyrok|https://www.saos.org.pl/judgments/11188
-15069|2013-03-12|SO|IV Ka 18/13|Wyrok|https://www.saos.org.pl/judgments/15069
-532245|2012-07-20|SO|I ACz 611/12|Postanowienie|https://www.saos.org.pl/judgments/532245
+saos_id|date|court|case_number|type|score|saos_url
+103707|2013-11-27|SN|V KK 283/13|Postanowienie|69|https://www.saos.org.pl/judgments/103707
+103385|2013-10-30|SN|V CSK 582/12|Postanowienie|69|https://www.saos.org.pl/judgments/103385
+143179|2013-07-25|SO|II AKa 167/13|Wyrok|56|https://www.saos.org.pl/judgments/143179
+11188|2013-04-25|SO|I ACa 1447/12|Wyrok|56|https://www.saos.org.pl/judgments/11188
+532245|2012-07-20|SO|I ACz 611/12|Postanowienie|47|https://www.saos.org.pl/judgments/532245
+233886|2016-05-23|SO|XVIII C 289/15|Wyrok|40|https://www.saos.org.pl/judgments/233886
+67349|2014-10-02|SO|XVII Ka 869/14|Wyrok|40|https://www.saos.org.pl/judgments/67349

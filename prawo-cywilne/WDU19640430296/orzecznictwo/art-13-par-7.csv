@@ -1,15 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-303719|2017-08-21|SO|III Ca 488/17|Uzasadnienie|https://www.saos.org.pl/judgments/303719
-263368|2016-06-16|SO|II Ca 953/15|Uzasadnienie|https://www.saos.org.pl/judgments/263368
-190614|2015-11-27|SO|IV Cz 638/15|Postanowienie|https://www.saos.org.pl/judgments/190614
-183259|2015-09-10|SO|II Ca 2642/14|Postanowienie|https://www.saos.org.pl/judgments/183259
-185052|2015-06-29|SO|III Ca 383/15|Uzasadnienie|https://www.saos.org.pl/judgments/185052
-175423|2015-05-18|SO|III Ca 99/15|Uzasadnienie|https://www.saos.org.pl/judgments/175423
-133233|2014-12-11|SO|II Ca 1475/14|Postanowienie|https://www.saos.org.pl/judgments/133233
-186130|2014-06-25|SO|IV Ca 1541/13|Postanowienie|https://www.saos.org.pl/judgments/186130
-58078|2014-06-11|SO|II Ca 466/14|Postanowienie|https://www.saos.org.pl/judgments/58078
-246481|2014-05-28|SO|III Ca 1714/13|Postanowienie|https://www.saos.org.pl/judgments/246481
-62717|2014-03-06|SO|II Ca 2168/13|Postanowienie|https://www.saos.org.pl/judgments/62717
-141717|2013-11-06|SO|I Ca 396/13|Postanowienie|https://www.saos.org.pl/judgments/141717
-37212|2013-07-31|SO|II Ca 409/13|Postanowienie|https://www.saos.org.pl/judgments/37212
-184024|2012-08-01|SO|II Ns 583/12|Postanowienie|https://www.saos.org.pl/judgments/184024
+saos_id|date|court|case_number|type|score|saos_url
+183259|2015-09-10|SO|II Ca 2642/14|Postanowienie|31|https://www.saos.org.pl/judgments/183259
+133233|2014-12-11|SO|II Ca 1475/14|Postanowienie|31|https://www.saos.org.pl/judgments/133233
+186130|2014-06-25|SO|IV Ca 1541/13|Postanowienie|31|https://www.saos.org.pl/judgments/186130
+58078|2014-06-11|SO|II Ca 466/14|Postanowienie|31|https://www.saos.org.pl/judgments/58078
+62717|2014-03-06|SO|II Ca 2168/13|Postanowienie|31|https://www.saos.org.pl/judgments/62717
+303719|2017-08-21|SO|III Ca 488/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303719
+185052|2015-06-29|SO|III Ca 383/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185052
+175423|2015-05-18|SO|III Ca 99/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/175423

@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-444280|2021-07-27|SO|XIII Ga 833/20|Uzasadnienie|https://www.saos.org.pl/judgments/444280
-429948|2020-07-01|SO|VII AGa 1893/18|Wyrok|https://www.saos.org.pl/judgments/429948
-446916|2020-02-12|SO|VI ACa 303/18|Wyrok|https://www.saos.org.pl/judgments/446916
-395752|2019-07-31|SO|III Ca 223/19|Uzasadnienie|https://www.saos.org.pl/judgments/395752
-244234|2016-01-13|SN|II CSK 186/15|Wyrok|https://www.saos.org.pl/judgments/244234
-196686|2015-10-09|SO|XII Ga 802/14|Uzasadnienie|https://www.saos.org.pl/judgments/196686
-157871|2015-05-22|SO|I C 960/15|Wyrok|https://www.saos.org.pl/judgments/157871
-154016|2015-04-16|SO|VIII GC 1/13|Wyrok|https://www.saos.org.pl/judgments/154016
-71915|2014-10-29|SO|V ACa 288/14|Wyrok|https://www.saos.org.pl/judgments/71915
-166477|2014-08-07|SN|II CSK 636/13|Wyrok|https://www.saos.org.pl/judgments/166477
-76366|2010-04-15|SN|II CSK 526/09|Wyrok|https://www.saos.org.pl/judgments/76366
+saos_id|date|court|case_number|type|score|saos_url
+244234|2016-01-13|SN|II CSK 186/15|Wyrok|78|https://www.saos.org.pl/judgments/244234
+166477|2014-08-07|SN|II CSK 636/13|Wyrok|78|https://www.saos.org.pl/judgments/166477
+76366|2010-04-15|SN|II CSK 526/09|Wyrok|78|https://www.saos.org.pl/judgments/76366
+429948|2020-07-01|SO|VII AGa 1893/18|Wyrok|56|https://www.saos.org.pl/judgments/429948
+446916|2020-02-12|SO|VI ACa 303/18|Wyrok|56|https://www.saos.org.pl/judgments/446916
+71915|2014-10-29|SO|V ACa 288/14|Wyrok|56|https://www.saos.org.pl/judgments/71915
+444280|2021-07-27|SO|XIII Ga 833/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/444280
+395752|2019-07-31|SO|III Ca 223/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/395752

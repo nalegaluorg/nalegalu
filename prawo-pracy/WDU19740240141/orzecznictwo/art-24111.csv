@@ -1,26 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-537979|2025-09-02|SO|V Pa 87/25|Wyrok|https://www.saos.org.pl/judgments/537979
-537978|2025-09-02|SO|V Pa 86/25|Wyrok|https://www.saos.org.pl/judgments/537978
-537977|2025-09-02|SO|V Pa 131/25|Wyrok|https://www.saos.org.pl/judgments/537977
-510379|2023-12-29|SO|V Pa 39/23|Wyrok|https://www.saos.org.pl/judgments/510379
-474875|2022-01-31|SO|IV P 64/21|Wyrok|https://www.saos.org.pl/judgments/474875
-422036|2020-07-28|SO|VIII Pa 30/20|Uzasadnienie|https://www.saos.org.pl/judgments/422036
-379628|2019-05-09|SO|IX Pa 22/19|Wyrok|https://www.saos.org.pl/judgments/379628
-342970|2018-04-19|SO|VIII Pa 3/18|Wyrok|https://www.saos.org.pl/judgments/342970
-337935|2018-04-05|SO|V Pa 55/17|Wyrok|https://www.saos.org.pl/judgments/337935
-320385|2017-11-08|SO|VIII Pa 177/17|Uzasadnienie|https://www.saos.org.pl/judgments/320385
-284043|2017-04-27|SO|IV P 52/16|Wyrok|https://www.saos.org.pl/judgments/284043
-284498|2017-04-06|SO|III APa 2/17|Wyrok|https://www.saos.org.pl/judgments/284498
-255265|2016-10-27|SO|IX Pa 48/16|Wyrok|https://www.saos.org.pl/judgments/255265
-216335|2016-03-03|SO|VI Po 116/15|Postanowienie|https://www.saos.org.pl/judgments/216335
-485043|2016-02-18|SO|VII Pa 109/15|Wyrok|https://www.saos.org.pl/judgments/485043
-52724|2014-05-30|SO|VI U 387/14|Wyrok|https://www.saos.org.pl/judgments/52724
-59581|2014-03-26|SO|VIII P 27/13|Wyrok|https://www.saos.org.pl/judgments/59581
-33750|2013-11-28|SO|V Pa 111/13|Wyrok|https://www.saos.org.pl/judgments/33750
-28669|2013-07-26|SO|V Pa 2/13|Wyrok|https://www.saos.org.pl/judgments/28669
-8712|2013-03-12|SO|III AUa 760/12|Wyrok|https://www.saos.org.pl/judgments/8712
-93860|2011-01-11|SN|I PK 166/10|Postanowienie|https://www.saos.org.pl/judgments/93860
-93326|2010-11-04|SN|II PK 106/10|Wyrok|https://www.saos.org.pl/judgments/93326
-82492|2004-02-11|SN|III PZP 12/03|Uchwała|https://www.saos.org.pl/judgments/82492
-81324|2002-04-04|SN|I PKN 262/01|Wyrok|https://www.saos.org.pl/judgments/81324
-80598|2001-05-23|SN|III ZP 17/00|Uchwała|https://www.saos.org.pl/judgments/80598
+saos_id|date|court|case_number|type|score|saos_url
+82492|2004-02-11|SN|III PZP 12/03|Uchwała|96|https://www.saos.org.pl/judgments/82492
+80598|2001-05-23|SN|III ZP 17/00|Uchwała|96|https://www.saos.org.pl/judgments/80598
+93326|2010-11-04|SN|II PK 106/10|Wyrok|78|https://www.saos.org.pl/judgments/93326
+81324|2002-04-04|SN|I PKN 262/01|Wyrok|78|https://www.saos.org.pl/judgments/81324
+93860|2011-01-11|SN|I PK 166/10|Postanowienie|69|https://www.saos.org.pl/judgments/93860
+284498|2017-04-06|SO|III APa 2/17|Wyrok|56|https://www.saos.org.pl/judgments/284498
+8712|2013-03-12|SO|III AUa 760/12|Wyrok|56|https://www.saos.org.pl/judgments/8712
+485043|2016-02-18|SO|VII Pa 109/15|Wyrok|40|https://www.saos.org.pl/judgments/485043
+422036|2020-07-28|SO|VIII Pa 30/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/422036
+320385|2017-11-08|SO|VIII Pa 177/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/320385

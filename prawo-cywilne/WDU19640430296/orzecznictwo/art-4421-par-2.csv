@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-494087|2022-02-25|SO|I ACa 346/20|Wyrok|https://www.saos.org.pl/judgments/494087
-288352|2015-07-02|SO|I C 499/15|Zarządzenie|https://www.saos.org.pl/judgments/288352
+saos_id|date|court|case_number|type|score|saos_url
+494087|2022-02-25|SO|I ACa 346/20|Wyrok|56|https://www.saos.org.pl/judgments/494087

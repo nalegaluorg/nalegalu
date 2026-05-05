@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467763|2022-04-12|SO|IV Ca 2059/19|Postanowienie|https://www.saos.org.pl/judgments/467763
-305285|2016-09-20|SO|II Ca 276/16|Postanowienie|https://www.saos.org.pl/judgments/305285
+saos_id|date|court|case_number|type|score|saos_url
+467763|2022-04-12|SO|IV Ca 2059/19|Postanowienie|31|https://www.saos.org.pl/judgments/467763

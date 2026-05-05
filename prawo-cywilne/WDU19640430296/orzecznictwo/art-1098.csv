@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-502337|2024-07-08|SO|II Cz 26/24|Postanowienie|https://www.saos.org.pl/judgments/502337
-406044|2020-01-08|SO|I Cz 10/20|Postanowienie|https://www.saos.org.pl/judgments/406044
-395510|2019-10-31|SO|II Cz 775/19|Postanowienie|https://www.saos.org.pl/judgments/395510
-425415|2019-07-11|SO|V ACa 329/19|Wyrok|https://www.saos.org.pl/judgments/425415
-385479|2019-05-16|SO|VIII Gz 70/19|Postanowienie|https://www.saos.org.pl/judgments/385479
-385478|2019-05-16|SO|VIII Gz 52/19|Postanowienie|https://www.saos.org.pl/judgments/385478
-379698|2018-12-04|SO|V ACa 167/18|Wyrok|https://www.saos.org.pl/judgments/379698
-332265|2017-12-08|SO|I C 1111/15|Wyrok|https://www.saos.org.pl/judgments/332265
-288910|2017-05-25|SO|I ACz 420/17|Postanowienie|https://www.saos.org.pl/judgments/288910
-290697|2017-04-28|SO|VI P 491/15|Wyrok|https://www.saos.org.pl/judgments/290697
-279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|https://www.saos.org.pl/judgments/279949
-283950|2017-02-16|SO|I ACa 1268/16|Wyrok|https://www.saos.org.pl/judgments/283950
-188598|2015-11-12|SO|VIII GC 366/14|Wyrok|https://www.saos.org.pl/judgments/188598
-74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|https://www.saos.org.pl/judgments/74077
-4588|2013-01-15|SO|I ACz 2057/12|Postanowienie|https://www.saos.org.pl/judgments/4588
+saos_id|date|court|case_number|type|score|saos_url
+425415|2019-07-11|SO|V ACa 329/19|Wyrok|56|https://www.saos.org.pl/judgments/425415
+379698|2018-12-04|SO|V ACa 167/18|Wyrok|56|https://www.saos.org.pl/judgments/379698
+283950|2017-02-16|SO|I ACa 1268/16|Wyrok|56|https://www.saos.org.pl/judgments/283950
+288910|2017-05-25|SO|I ACz 420/17|Postanowienie|47|https://www.saos.org.pl/judgments/288910
+4588|2013-01-15|SO|I ACz 2057/12|Postanowienie|47|https://www.saos.org.pl/judgments/4588
+502337|2024-07-08|SO|II Cz 26/24|Postanowienie|31|https://www.saos.org.pl/judgments/502337
+279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|31|https://www.saos.org.pl/judgments/279949
+74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74077

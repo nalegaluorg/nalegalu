@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-168252|2015-02-11|SN|I CSK 50/14|Wyrok|https://www.saos.org.pl/judgments/168252
-79486|2000-01-19|SN|I PKN 488/99|Wyrok|https://www.saos.org.pl/judgments/79486
-78306|1998-05-13|SN|I PKN 108/98|Wyrok|https://www.saos.org.pl/judgments/78306
+saos_id|date|court|case_number|type|score|saos_url
+168252|2015-02-11|SN|I CSK 50/14|Wyrok|78|https://www.saos.org.pl/judgments/168252
+79486|2000-01-19|SN|I PKN 488/99|Wyrok|78|https://www.saos.org.pl/judgments/79486
+78306|1998-05-13|SN|I PKN 108/98|Wyrok|78|https://www.saos.org.pl/judgments/78306

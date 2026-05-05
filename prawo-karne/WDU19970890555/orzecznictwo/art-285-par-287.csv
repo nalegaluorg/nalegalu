@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-469232|2021-11-03|SO|II AKa 275/20|Uzasadnienie|https://www.saos.org.pl/judgments/469232
+saos_id|date|court|case_number|type|score|saos_url
+469232|2021-11-03|SO|II AKa 275/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/469232

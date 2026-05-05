@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-535789|2025-05-15|SO|I C 308/24|Wyrok|https://www.saos.org.pl/judgments/535789
-520921|2024-10-15|SO|I C 364/24|Wyrok|https://www.saos.org.pl/judgments/520921
-494120|2022-07-21|SO|I ACa 377/20|Wyrok|https://www.saos.org.pl/judgments/494120
-470813|2022-03-10|SO|VIII C 770/21|Wyrok|https://www.saos.org.pl/judgments/470813
-444010|2021-03-22|SO|I C 1422/20|Wyrok|https://www.saos.org.pl/judgments/444010
-387138|2018-11-30|SO|I C 2440/18|Wyrok|https://www.saos.org.pl/judgments/387138
-355041|2017-12-22|SO|I ACa 812/17|Wyrok|https://www.saos.org.pl/judgments/355041
-311524|2017-10-02|SO|VIII C 779/14|Wyrok|https://www.saos.org.pl/judgments/311524
-336348|2017-03-30|SO|I C 1253/16|Uzasadnienie|https://www.saos.org.pl/judgments/336348
-267750|2017-01-17|SO|III Ca 1444/16|Uzasadnienie|https://www.saos.org.pl/judgments/267750
-230901|2016-05-17|SO|III Ca 2029/15|Wyrok|https://www.saos.org.pl/judgments/230901
-143666|2014-02-14|SO|I C 254/12|Wyrok|https://www.saos.org.pl/judgments/143666
-37115|2013-10-10|SO|I ACa 219/13|Wyrok|https://www.saos.org.pl/judgments/37115
-21194|2013-06-28|SO|I ACa 203/13|Wyrok|https://www.saos.org.pl/judgments/21194
-32778|2013-06-26|SO|I ACa 125/13|Wyrok|https://www.saos.org.pl/judgments/32778
-137478|2013-03-11|SO|I C 985/12|Wyrok|https://www.saos.org.pl/judgments/137478
-13310|2013-02-13|SO|I ACa 825/12|Wyrok|https://www.saos.org.pl/judgments/13310
+saos_id|date|court|case_number|type|score|saos_url
+494120|2022-07-21|SO|I ACa 377/20|Wyrok|56|https://www.saos.org.pl/judgments/494120
+355041|2017-12-22|SO|I ACa 812/17|Wyrok|56|https://www.saos.org.pl/judgments/355041
+37115|2013-10-10|SO|I ACa 219/13|Wyrok|56|https://www.saos.org.pl/judgments/37115
+21194|2013-06-28|SO|I ACa 203/13|Wyrok|56|https://www.saos.org.pl/judgments/21194
+32778|2013-06-26|SO|I ACa 125/13|Wyrok|56|https://www.saos.org.pl/judgments/32778
+13310|2013-02-13|SO|I ACa 825/12|Wyrok|56|https://www.saos.org.pl/judgments/13310
+470813|2022-03-10|SO|VIII C 770/21|Wyrok|40|https://www.saos.org.pl/judgments/470813
+311524|2017-10-02|SO|VIII C 779/14|Wyrok|40|https://www.saos.org.pl/judgments/311524
+267750|2017-01-17|SO|III Ca 1444/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/267750

@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-332745|2018-02-22|SO|II Ca 931/17|Wyrok|https://www.saos.org.pl/judgments/332745
-332257|2017-03-02|SO|I ACa 2398/15|Wyrok|https://www.saos.org.pl/judgments/332257
-293361|2017-02-16|SO|II Ca 574/16|Wyrok|https://www.saos.org.pl/judgments/293361
-184080|2015-06-24|SO|III AUa 1001/14|Wyrok|https://www.saos.org.pl/judgments/184080
-39227|2013-02-05|SO|V Ca 3397/12|Wyrok|https://www.saos.org.pl/judgments/39227
+saos_id|date|court|case_number|type|score|saos_url
+332257|2017-03-02|SO|I ACa 2398/15|Wyrok|56|https://www.saos.org.pl/judgments/332257
+184080|2015-06-24|SO|III AUa 1001/14|Wyrok|56|https://www.saos.org.pl/judgments/184080

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-215649|2016-02-23|SO|I ACa 743/13|Wyrok|https://www.saos.org.pl/judgments/215649
-79094|1999-06-09|SN|III RN 9/99|Wyrok|https://www.saos.org.pl/judgments/79094
-77600|1997-04-24|SN|III KKO 3/97|Postanowienie|https://www.saos.org.pl/judgments/77600
-76922|1995-09-05|SN|III AZP 18/95|Uchwała|https://www.saos.org.pl/judgments/76922
-76721|1994-12-01|SN|III AZP 8/94|Uchwała|https://www.saos.org.pl/judgments/76721
+saos_id|date|court|case_number|type|score|saos_url
+76922|1995-09-05|SN|III AZP 18/95|Uchwała|89|https://www.saos.org.pl/judgments/76922
+76721|1994-12-01|SN|III AZP 8/94|Uchwała|89|https://www.saos.org.pl/judgments/76721
+79094|1999-06-09|SN|III RN 9/99|Wyrok|78|https://www.saos.org.pl/judgments/79094
+77600|1997-04-24|SN|III KKO 3/97|Postanowienie|69|https://www.saos.org.pl/judgments/77600
+215649|2016-02-23|SO|I ACa 743/13|Wyrok|56|https://www.saos.org.pl/judgments/215649

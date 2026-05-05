@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-491375|2023-07-04|SO|III AUa 971/21|Wyrok|https://www.saos.org.pl/judgments/491375
-433977|2019-05-08|SO|I AGa 274/18|Wyrok|https://www.saos.org.pl/judgments/433977
-222330|2016-04-15|SO|I ACa 1114/15|Wyrok|https://www.saos.org.pl/judgments/222330
-152118|2015-05-12|SO|VI RNs 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/152118
-49849|2014-02-04|SO|III Cz 42/14|Postanowienie|https://www.saos.org.pl/judgments/49849
-2743|2012-10-12|SO|I ACa 920/12|Wyrok|https://www.saos.org.pl/judgments/2743
+saos_id|date|court|case_number|type|score|saos_url
+491375|2023-07-04|SO|III AUa 971/21|Wyrok|56|https://www.saos.org.pl/judgments/491375
+433977|2019-05-08|SO|I AGa 274/18|Wyrok|56|https://www.saos.org.pl/judgments/433977
+222330|2016-04-15|SO|I ACa 1114/15|Wyrok|56|https://www.saos.org.pl/judgments/222330
+2743|2012-10-12|SO|I ACa 920/12|Wyrok|56|https://www.saos.org.pl/judgments/2743

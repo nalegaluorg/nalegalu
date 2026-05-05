@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-484378|2022-12-30|SO|IV Ka 767/22|Uzasadnienie|https://www.saos.org.pl/judgments/484378
-418238|2020-05-21|SO|VI Ka 94/20|Wyrok|https://www.saos.org.pl/judgments/418238
-265290|2015-05-19|SO|I C 137/14|Wyrok|https://www.saos.org.pl/judgments/265290
-104543|2014-02-26|SN|I KZP 29/13|Postanowienie|https://www.saos.org.pl/judgments/104543
+saos_id|date|court|case_number|type|score|saos_url
+104543|2014-02-26|SN|I KZP 29/13|Postanowienie|69|https://www.saos.org.pl/judgments/104543
+418238|2020-05-21|SO|VI Ka 94/20|Wyrok|40|https://www.saos.org.pl/judgments/418238
+265290|2015-05-19|SO|I C 137/14|Wyrok|40|https://www.saos.org.pl/judgments/265290

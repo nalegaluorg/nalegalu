@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-355851|2018-07-18|SO|I C 8/17|Wyrok|https://www.saos.org.pl/judgments/355851
-2410|2012-10-19|SO|I ACa 421/12|Wyrok|https://www.saos.org.pl/judgments/2410
-92718|2010-07-27|SN|II CSK 121/10|Wyrok|https://www.saos.org.pl/judgments/92718
+saos_id|date|court|case_number|type|score|saos_url
+92718|2010-07-27|SN|II CSK 121/10|Wyrok|78|https://www.saos.org.pl/judgments/92718
+2410|2012-10-19|SO|I ACa 421/12|Wyrok|56|https://www.saos.org.pl/judgments/2410
+355851|2018-07-18|SO|I C 8/17|Wyrok|40|https://www.saos.org.pl/judgments/355851

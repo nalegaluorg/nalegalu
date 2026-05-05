@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-335244|2018-03-06|SO|V GC 261/17|Wyrok|https://www.saos.org.pl/judgments/335244
-167305|2014-11-14|SN|I CSK 713/13|Postanowienie|https://www.saos.org.pl/judgments/167305
-62424|2014-08-28|SO|I ACa 272/14|Wyrok|https://www.saos.org.pl/judgments/62424
-102875|2013-09-19|SN|I CZ 69/13|Postanowienie|https://www.saos.org.pl/judgments/102875
+saos_id|date|court|case_number|type|score|saos_url
+167305|2014-11-14|SN|I CSK 713/13|Postanowienie|69|https://www.saos.org.pl/judgments/167305
+102875|2013-09-19|SN|I CZ 69/13|Postanowienie|69|https://www.saos.org.pl/judgments/102875
+62424|2014-08-28|SO|I ACa 272/14|Wyrok|56|https://www.saos.org.pl/judgments/62424

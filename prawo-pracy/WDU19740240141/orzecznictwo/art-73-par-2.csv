@@ -1,2 +1,19 @@
-saos_id|date|court|case_number|type|saos_url
-471159|2022-06-08|SO|VII Pa 89/21|Wyrok|https://www.saos.org.pl/judgments/471159
+saos_id|date|court|case_number|type|score|saos_url
+243295|2015-09-08|SN|I PK 297/14|Wyrok|78|https://www.saos.org.pl/judgments/243295
+97092|2012-02-09|SN|I UK 260/11|Wyrok|78|https://www.saos.org.pl/judgments/97092
+165304|2010-04-27|SN|II PK 314/09|Wyrok|78|https://www.saos.org.pl/judgments/165304
+76336|2010-04-07|SN|II UK 357/09|Wyrok|78|https://www.saos.org.pl/judgments/76336
+88208|2008-06-09|SN|II PK 330/07|Wyrok|78|https://www.saos.org.pl/judgments/88208
+84640|2006-10-09|SN|II PK 27/06|Wyrok|78|https://www.saos.org.pl/judgments/84640
+83680|2005-08-16|SN|I PK 32/05|Wyrok|78|https://www.saos.org.pl/judgments/83680
+82943|2004-10-27|SN|I PK 599/03|Wyrok|78|https://www.saos.org.pl/judgments/82943
+81003|2001-11-23|SN|I PKN 699/00|Wyrok|78|https://www.saos.org.pl/judgments/81003
+80657|2001-06-20|SN|I PKN 477/00|Wyrok|78|https://www.saos.org.pl/judgments/80657
+80604|2001-05-30|SN|I PKN 416/00|Wyrok|78|https://www.saos.org.pl/judgments/80604
+80262|2001-01-25|SN|I PKN 210/00|Wyrok|78|https://www.saos.org.pl/judgments/80262
+80142|2000-12-07|SN|I PKN 143/00|Wyrok|78|https://www.saos.org.pl/judgments/80142
+417464|2019-12-03|SO|III AUa 960/19|Wyrok|56|https://www.saos.org.pl/judgments/417464
+429395|2017-08-31|SO|I ACa 264/17|Wyrok|56|https://www.saos.org.pl/judgments/429395
+6288|2013-01-29|SO|III AUa 712/12|Wyrok|56|https://www.saos.org.pl/judgments/6288
+219915|2015-11-05|SO|IV U 421/15|Wyrok|40|https://www.saos.org.pl/judgments/219915
+195664|2016-01-13|SO|IV P 218/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/195664

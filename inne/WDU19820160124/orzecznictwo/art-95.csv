@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-424760|2020-10-13|SO|I C 1506/19|Uzasadnienie|https://www.saos.org.pl/judgments/424760
-429416|2017-12-21|SO|I ACa 747/17|Wyrok|https://www.saos.org.pl/judgments/429416
-102856|2013-09-09|SN|SDI 22/13|Postanowienie|https://www.saos.org.pl/judgments/102856
-15064|2013-03-19|SO|IV Ka 147/13|Wyrok|https://www.saos.org.pl/judgments/15064
-82828|2004-09-16|SN|III ZS 1/04|Wyrok|https://www.saos.org.pl/judgments/82828
-82276|2003-10-24|SN|III DS 5/02|Wyrok|https://www.saos.org.pl/judgments/82276
-80213|2001-01-05|SN|III SZ 9/00|Wyrok|https://www.saos.org.pl/judgments/80213
+saos_id|date|court|case_number|type|score|saos_url
+82828|2004-09-16|SN|III ZS 1/04|Wyrok|78|https://www.saos.org.pl/judgments/82828
+82276|2003-10-24|SN|III DS 5/02|Wyrok|78|https://www.saos.org.pl/judgments/82276
+80213|2001-01-05|SN|III SZ 9/00|Wyrok|78|https://www.saos.org.pl/judgments/80213
+102856|2013-09-09|SN|SDI 22/13|Postanowienie|69|https://www.saos.org.pl/judgments/102856
+429416|2017-12-21|SO|I ACa 747/17|Wyrok|56|https://www.saos.org.pl/judgments/429416

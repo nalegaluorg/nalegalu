@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-504642|2023-11-13|SO|III APo 19/22|Wyrok|https://www.saos.org.pl/judgments/504642
-477231|2022-09-26|SO|II AKa 262/22|Wyrok|https://www.saos.org.pl/judgments/477231
-451522|2021-10-19|SO|II AKa 81/21|Wyrok|https://www.saos.org.pl/judgments/451522
-428943|2020-06-24|SO|III APo 1/20|Wyrok|https://www.saos.org.pl/judgments/428943
-333006|2018-03-06|SO|II Ka 22/18|Wyrok|https://www.saos.org.pl/judgments/333006
-265382|2016-11-10|SO|II AKa 219/16|Wyrok|https://www.saos.org.pl/judgments/265382
-204454|2015-12-29|SO|II AKa 184/15|Wyrok|https://www.saos.org.pl/judgments/204454
-157031|2015-04-29|SO|XVI K 211/14|Wyrok|https://www.saos.org.pl/judgments/157031
-17049|2013-07-04|SO|VIII Ka 415/13|Wyrok|https://www.saos.org.pl/judgments/17049
-135905|2012-05-24|SO|II AKa 87/12|Wyrok|https://www.saos.org.pl/judgments/135905
+saos_id|date|court|case_number|type|score|saos_url
+504642|2023-11-13|SO|III APo 19/22|Wyrok|56|https://www.saos.org.pl/judgments/504642
+477231|2022-09-26|SO|II AKa 262/22|Wyrok|56|https://www.saos.org.pl/judgments/477231
+451522|2021-10-19|SO|II AKa 81/21|Wyrok|56|https://www.saos.org.pl/judgments/451522
+428943|2020-06-24|SO|III APo 1/20|Wyrok|56|https://www.saos.org.pl/judgments/428943
+265382|2016-11-10|SO|II AKa 219/16|Wyrok|56|https://www.saos.org.pl/judgments/265382
+204454|2015-12-29|SO|II AKa 184/15|Wyrok|56|https://www.saos.org.pl/judgments/204454
+135905|2012-05-24|SO|II AKa 87/12|Wyrok|56|https://www.saos.org.pl/judgments/135905
+157031|2015-04-29|SO|XVI K 211/14|Wyrok|40|https://www.saos.org.pl/judgments/157031

@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-535234|2025-07-14|SO|VIII U 753/24|Uzasadnienie|https://www.saos.org.pl/judgments/535234
-501577|2024-03-15|SO|II Ca 1066/23|Wyrok|https://www.saos.org.pl/judgments/501577
-510362|2023-10-26|SO|V Pa 24/23|Wyrok|https://www.saos.org.pl/judgments/510362
-494165|2023-07-05|SO|I ACa 417/21|Wyrok|https://www.saos.org.pl/judgments/494165
-483777|2023-01-10|SO|II Ca 782/22|Wyrok|https://www.saos.org.pl/judgments/483777
-452429|2021-10-19|SO|I C 80/19|Wyrok|https://www.saos.org.pl/judgments/452429
-484504|2021-04-22|SO|I C 1620/19|Wyrok|https://www.saos.org.pl/judgments/484504
+saos_id|date|court|case_number|type|score|saos_url
+494165|2023-07-05|SO|I ACa 417/21|Wyrok|56|https://www.saos.org.pl/judgments/494165
+501577|2024-03-15|SO|II Ca 1066/23|Wyrok|40|https://www.saos.org.pl/judgments/501577
+483777|2023-01-10|SO|II Ca 782/22|Wyrok|40|https://www.saos.org.pl/judgments/483777
+452429|2021-10-19|SO|I C 80/19|Wyrok|40|https://www.saos.org.pl/judgments/452429
+484504|2021-04-22|SO|I C 1620/19|Wyrok|40|https://www.saos.org.pl/judgments/484504
+535234|2025-07-14|SO|VIII U 753/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/535234

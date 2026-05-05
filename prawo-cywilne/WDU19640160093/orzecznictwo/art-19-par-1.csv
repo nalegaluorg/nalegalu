@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-263276|2016-10-21|SO|VI ACa 1467/16|Wyrok|https://www.saos.org.pl/judgments/263276
-157011|2015-02-12|SO|VI ACa 1017/13|Wyrok|https://www.saos.org.pl/judgments/157011
-145323|2014-03-26|SO|I Ca 116/14|Wyrok|https://www.saos.org.pl/judgments/145323
+saos_id|date|court|case_number|type|score|saos_url
+263276|2016-10-21|SO|VI ACa 1467/16|Wyrok|56|https://www.saos.org.pl/judgments/263276
+157011|2015-02-12|SO|VI ACa 1017/13|Wyrok|56|https://www.saos.org.pl/judgments/157011

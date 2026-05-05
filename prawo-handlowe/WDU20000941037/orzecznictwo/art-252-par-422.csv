@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-32795|2013-12-03|SO|I ACa 743/13|Wyrok|https://www.saos.org.pl/judgments/32795
-90455|2009-06-24|SN|I CSK 535/08|Wyrok|https://www.saos.org.pl/judgments/90455
+saos_id|date|court|case_number|type|score|saos_url
+90455|2009-06-24|SN|I CSK 535/08|Wyrok|78|https://www.saos.org.pl/judgments/90455
+32795|2013-12-03|SO|I ACa 743/13|Wyrok|56|https://www.saos.org.pl/judgments/32795

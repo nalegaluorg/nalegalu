@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|https://www.saos.org.pl/judgments/476726
-470222|2022-06-28|SO|II Ka 223/22|Wyrok|https://www.saos.org.pl/judgments/470222
+saos_id|date|court|case_number|type|score|saos_url
+476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/476726

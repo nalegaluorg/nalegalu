@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-233676|2016-03-23|SO|I ACa 40/16|Wyrok|https://www.saos.org.pl/judgments/233676
-231553|2016-02-04|SO|IV Pa 38/15|Wyrok|https://www.saos.org.pl/judgments/231553
-196818|2015-11-27|SO|III AUa 1012/15|Wyrok|https://www.saos.org.pl/judgments/196818
-184688|2015-11-04|SO|III AUa 844/15|Wyrok|https://www.saos.org.pl/judgments/184688
-190634|2015-05-26|SO|IV Pa 17/15|Wyrok|https://www.saos.org.pl/judgments/190634
-179914|2015-04-28|SO|IV Pa 2/15|Wyrok|https://www.saos.org.pl/judgments/179914
-64135|2014-09-26|SO|IV Pa 28/14|Wyrok|https://www.saos.org.pl/judgments/64135
-48694|2014-05-13|SO|IV Pa 23/14|Wyrok|https://www.saos.org.pl/judgments/48694
-3572|2012-11-08|SO|I ACa 587/12|Wyrok|https://www.saos.org.pl/judgments/3572
-4562|2012-06-26|SO|I ACa 320/12|Wyrok|https://www.saos.org.pl/judgments/4562
+saos_id|date|court|case_number|type|score|saos_url
+233676|2016-03-23|SO|I ACa 40/16|Wyrok|56|https://www.saos.org.pl/judgments/233676
+196818|2015-11-27|SO|III AUa 1012/15|Wyrok|56|https://www.saos.org.pl/judgments/196818
+184688|2015-11-04|SO|III AUa 844/15|Wyrok|56|https://www.saos.org.pl/judgments/184688
+3572|2012-11-08|SO|I ACa 587/12|Wyrok|56|https://www.saos.org.pl/judgments/3572
+4562|2012-06-26|SO|I ACa 320/12|Wyrok|56|https://www.saos.org.pl/judgments/4562

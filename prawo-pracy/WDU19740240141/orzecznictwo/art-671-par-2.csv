@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-403270|2019-03-19|SO|III AUa 456/18|Wyrok|https://www.saos.org.pl/judgments/403270
-297462|2017-02-08|SO|III AUa 375/16|Wyrok|https://www.saos.org.pl/judgments/297462
-245166|2016-04-20|SN|II UK 238/14|Wyrok|https://www.saos.org.pl/judgments/245166
-245088|2016-04-05|SN|II UK 176/14|Wyrok|https://www.saos.org.pl/judgments/245088
+saos_id|date|court|case_number|type|score|saos_url
+245166|2016-04-20|SN|II UK 238/14|Wyrok|78|https://www.saos.org.pl/judgments/245166
+245088|2016-04-05|SN|II UK 176/14|Wyrok|78|https://www.saos.org.pl/judgments/245088
+403270|2019-03-19|SO|III AUa 456/18|Wyrok|56|https://www.saos.org.pl/judgments/403270
+297462|2017-02-08|SO|III AUa 375/16|Wyrok|56|https://www.saos.org.pl/judgments/297462

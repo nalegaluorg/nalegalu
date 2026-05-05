@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-542007|2023-01-24|SO|IV P 150/21|Wyrok|https://www.saos.org.pl/judgments/542007
-92370|2010-06-02|SN|II PK 364/09|Wyrok|https://www.saos.org.pl/judgments/92370
-82318|2003-11-12|SN|I PK 625/02|Wyrok|https://www.saos.org.pl/judgments/82318
+saos_id|date|court|case_number|type|score|saos_url
+92370|2010-06-02|SN|II PK 364/09|Wyrok|78|https://www.saos.org.pl/judgments/92370
+82318|2003-11-12|SN|I PK 625/02|Wyrok|78|https://www.saos.org.pl/judgments/82318

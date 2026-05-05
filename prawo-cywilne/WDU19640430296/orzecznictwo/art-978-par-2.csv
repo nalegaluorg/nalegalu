@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-341747|2018-04-24|SO|II Cz 111/18|Postanowienie|https://www.saos.org.pl/judgments/341747
-317870|2017-06-16|SO|XI Co 285/15|Postanowienie|https://www.saos.org.pl/judgments/317870
-317869|2017-06-16|SO|XI Co 284/15|Postanowienie|https://www.saos.org.pl/judgments/317869
-258553|2016-06-28|SO|XI Co 1061/14|Postanowienie|https://www.saos.org.pl/judgments/258553
-14577|2013-05-28|SO|I ACa 28/13|Wyrok|https://www.saos.org.pl/judgments/14577
+saos_id|date|court|case_number|type|score|saos_url
+14577|2013-05-28|SO|I ACa 28/13|Wyrok|56|https://www.saos.org.pl/judgments/14577

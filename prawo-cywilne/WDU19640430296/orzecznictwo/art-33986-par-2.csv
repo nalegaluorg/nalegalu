@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-244561|2016-02-11|SN|V CZ 1/16|Postanowienie|https://www.saos.org.pl/judgments/244561
+saos_id|date|court|case_number|type|score|saos_url
+244561|2016-02-11|SN|V CZ 1/16|Postanowienie|69|https://www.saos.org.pl/judgments/244561

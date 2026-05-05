@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-465201|2022-05-17|SO|IX U 241/18|Zarządzenie|https://www.saos.org.pl/judgments/465201
-456895|2021-10-26|SO|VIII Pa 110/21|Uzasadnienie|https://www.saos.org.pl/judgments/456895
-76220|2014-11-27|SO|V Pa 126/13|Wyrok|https://www.saos.org.pl/judgments/76220
+saos_id|date|court|case_number|type|score|saos_url
+456895|2021-10-26|SO|VIII Pa 110/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/456895

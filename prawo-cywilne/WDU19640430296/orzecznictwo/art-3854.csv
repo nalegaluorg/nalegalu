@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-89383|2008-12-19|SN|III SK 14/08|Wyrok|https://www.saos.org.pl/judgments/89383
-89295|2008-12-04|SN|I CSK 238/08|Wyrok|https://www.saos.org.pl/judgments/89295
+saos_id|date|court|case_number|type|score|saos_url
+89383|2008-12-19|SN|III SK 14/08|Wyrok|78|https://www.saos.org.pl/judgments/89383
+89295|2008-12-04|SN|I CSK 238/08|Wyrok|78|https://www.saos.org.pl/judgments/89295

@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-243969|2015-12-04|SN|I CSK 26/15|Postanowienie|https://www.saos.org.pl/judgments/243969
-167851|2015-01-14|SN|I CZ 97/14|Postanowienie|https://www.saos.org.pl/judgments/167851
-103762|2013-12-04|SN|III CZP 85/13|Uchwała|https://www.saos.org.pl/judgments/103762
-92964|2010-09-23|SN|III CZP 57/10|Uchwała|https://www.saos.org.pl/judgments/92964
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
-88373|2008-07-04|SN|I CZ 139/07|Postanowienie|https://www.saos.org.pl/judgments/88373
+saos_id|date|court|case_number|type|score|saos_url
+103762|2013-12-04|SN|III CZP 85/13|Uchwała|89|https://www.saos.org.pl/judgments/103762
+92964|2010-09-23|SN|III CZP 57/10|Uchwała|89|https://www.saos.org.pl/judgments/92964
+243969|2015-12-04|SN|I CSK 26/15|Postanowienie|69|https://www.saos.org.pl/judgments/243969
+167851|2015-01-14|SN|I CZ 97/14|Postanowienie|69|https://www.saos.org.pl/judgments/167851
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456
+88373|2008-07-04|SN|I CZ 139/07|Postanowienie|69|https://www.saos.org.pl/judgments/88373

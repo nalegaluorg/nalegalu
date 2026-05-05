@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-85779|2007-04-25|SN|IV CZ 17/07|Postanowienie|https://www.saos.org.pl/judgments/85779
-163152|2005-04-14|SN|II CK 600/04|Wyrok|https://www.saos.org.pl/judgments/163152
+saos_id|date|court|case_number|type|score|saos_url
+163152|2005-04-14|SN|II CK 600/04|Wyrok|78|https://www.saos.org.pl/judgments/163152
+85779|2007-04-25|SN|IV CZ 17/07|Postanowienie|69|https://www.saos.org.pl/judgments/85779

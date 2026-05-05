@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-354428|2018-03-15|KIO|KIO 382/18|Wyrok|https://www.saos.org.pl/judgments/354428
+saos_id|date|court|case_number|type|score|saos_url
+354428|2018-03-15|KIO|KIO 382/18|Wyrok|44|https://www.saos.org.pl/judgments/354428

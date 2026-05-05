@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-73927|2014-12-12|SO|I ACz 904/14|Postanowienie|https://www.saos.org.pl/judgments/73927
-100045|2012-12-14|SN|I CSK 248/12|Wyrok|https://www.saos.org.pl/judgments/100045
+saos_id|date|court|case_number|type|score|saos_url
+100045|2012-12-14|SN|I CSK 248/12|Wyrok|78|https://www.saos.org.pl/judgments/100045
+73927|2014-12-12|SO|I ACz 904/14|Postanowienie|47|https://www.saos.org.pl/judgments/73927

@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-451381|2020-10-19|SO|XVI GC 7066/19|Zarządzenie|https://www.saos.org.pl/judgments/451381
-407125|2019-07-16|SO|I Ca 100/19|Postanowienie|https://www.saos.org.pl/judgments/407125
-318264|2017-12-04|SO|VIII GC 200/17|Wyrok|https://www.saos.org.pl/judgments/318264
-265957|2016-11-29|SO|VI ACa 1366/15|Wyrok|https://www.saos.org.pl/judgments/265957
-74532|2014-11-19|SO|VIII Ga 146/14|Uzasadnienie|https://www.saos.org.pl/judgments/74532
-61095|2013-12-19|SO|VI ACa 535/13|Wyrok|https://www.saos.org.pl/judgments/61095
-8215|2013-02-20|SO|I ACa 1183/12|Wyrok|https://www.saos.org.pl/judgments/8215
+saos_id|date|court|case_number|type|score|saos_url
+265957|2016-11-29|SO|VI ACa 1366/15|Wyrok|56|https://www.saos.org.pl/judgments/265957
+61095|2013-12-19|SO|VI ACa 535/13|Wyrok|56|https://www.saos.org.pl/judgments/61095
+8215|2013-02-20|SO|I ACa 1183/12|Wyrok|56|https://www.saos.org.pl/judgments/8215

@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481607|2022-12-19|SO|XIV C 1000/22|Postanowienie|https://www.saos.org.pl/judgments/481607
-443683|2021-04-26|SO|I C 150/21|Postanowienie|https://www.saos.org.pl/judgments/443683
-544245|2018-12-19|SO|II Ca 1063/18|Wyrok|https://www.saos.org.pl/judgments/544245
-344292|2018-05-23|SO|III RC 25/18|Wyrok|https://www.saos.org.pl/judgments/344292
-274989|2017-02-13|SO|VIII RC 263/16|Wyrok|https://www.saos.org.pl/judgments/274989
-66015|2014-09-24|SO|I ACz 1647/14|Postanowienie|https://www.saos.org.pl/judgments/66015
+saos_id|date|court|case_number|type|score|saos_url
+66015|2014-09-24|SO|I ACz 1647/14|Postanowienie|47|https://www.saos.org.pl/judgments/66015
+344292|2018-05-23|SO|III RC 25/18|Wyrok|40|https://www.saos.org.pl/judgments/344292
+481607|2022-12-19|SO|XIV C 1000/22|Postanowienie|31|https://www.saos.org.pl/judgments/481607

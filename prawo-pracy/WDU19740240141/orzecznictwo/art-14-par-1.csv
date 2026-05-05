@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-89538|2009-01-29|SN|I KZP 25/08|Uchwała|https://www.saos.org.pl/judgments/89538
-84781|2006-11-29|SN|I KZP 28/06|Postanowienie|https://www.saos.org.pl/judgments/84781
-80970|2001-11-09|SN|V KKN 264/01|Wyrok|https://www.saos.org.pl/judgments/80970
+saos_id|date|court|case_number|type|score|saos_url
+89538|2009-01-29|SN|I KZP 25/08|Uchwała|89|https://www.saos.org.pl/judgments/89538
+80970|2001-11-09|SN|V KKN 264/01|Wyrok|78|https://www.saos.org.pl/judgments/80970
+84781|2006-11-29|SN|I KZP 28/06|Postanowienie|69|https://www.saos.org.pl/judgments/84781

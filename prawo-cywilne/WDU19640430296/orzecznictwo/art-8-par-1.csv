@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-537950|2025-08-13|SO|III AUz 154/25|Postanowienie|https://www.saos.org.pl/judgments/537950
-530693|2024-07-18|SO|III AUa 208/23|Wyrok|https://www.saos.org.pl/judgments/530693
-511892|2023-12-01|SO|VII U 1128/21|Wyrok|https://www.saos.org.pl/judgments/511892
-470578|2022-03-28|SO|I Ca 63/22|Postanowienie|https://www.saos.org.pl/judgments/470578
-254834|2016-06-09|SO|XII Ga 763/15|Wyrok|https://www.saos.org.pl/judgments/254834
+saos_id|date|court|case_number|type|score|saos_url
+530693|2024-07-18|SO|III AUa 208/23|Wyrok|56|https://www.saos.org.pl/judgments/530693
+537950|2025-08-13|SO|III AUz 154/25|Postanowienie|47|https://www.saos.org.pl/judgments/537950
+511892|2023-12-01|SO|VII U 1128/21|Wyrok|40|https://www.saos.org.pl/judgments/511892
+254834|2016-06-09|SO|XII Ga 763/15|Wyrok|40|https://www.saos.org.pl/judgments/254834

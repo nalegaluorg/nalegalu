@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-345322|2018-06-26|SO|XII C 942/16|Wyrok|https://www.saos.org.pl/judgments/345322
+saos_id|date|court|case_number|type|score|saos_url
+345322|2018-06-26|SO|XII C 942/16|Wyrok|40|https://www.saos.org.pl/judgments/345322

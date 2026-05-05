@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-81829|2003-01-29|SN|I CZ 192/02|Postanowienie|https://www.saos.org.pl/judgments/81829
+saos_id|date|court|case_number|type|score|saos_url
+81829|2003-01-29|SN|I CZ 192/02|Postanowienie|69|https://www.saos.org.pl/judgments/81829

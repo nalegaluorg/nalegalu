@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-426504|2020-08-24|SO|I C 1432/17|Zarządzenie|https://www.saos.org.pl/judgments/426504
-459437|2020-02-06|SO|XVII AmT 41/18|Wyrok|https://www.saos.org.pl/judgments/459437
+saos_id|date|court|case_number|type|score|saos_url
+426504|2020-08-24|SO|I C 1432/17|Zarządzenie|27|https://www.saos.org.pl/judgments/426504

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-500876|2023-11-20|SO|II AKa 296/23|Wyrok|https://www.saos.org.pl/judgments/500876
-489567|2022-04-19|SO|II AKa 313/21|Uzasadnienie|https://www.saos.org.pl/judgments/489567
-44504|2014-03-27|SO|II Ka 4/14|Wyrok|https://www.saos.org.pl/judgments/44504
+saos_id|date|court|case_number|type|score|saos_url
+500876|2023-11-20|SO|II AKa 296/23|Wyrok|56|https://www.saos.org.pl/judgments/500876
+489567|2022-04-19|SO|II AKa 313/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/489567
+44504|2014-03-27|SO|II Ka 4/14|Wyrok|40|https://www.saos.org.pl/judgments/44504

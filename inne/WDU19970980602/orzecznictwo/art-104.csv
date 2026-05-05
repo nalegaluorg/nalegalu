@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-109113|2009-07-09|TK|SK 48/05|Wyrok|https://www.saos.org.pl/judgments/109113
+saos_id|date|court|case_number|type|score|saos_url
+109113|2009-07-09|TK|SK 48/05|Wyrok|98|https://www.saos.org.pl/judgments/109113

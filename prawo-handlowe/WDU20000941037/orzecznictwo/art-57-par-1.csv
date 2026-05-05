@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-488556|2022-09-21|SO|X GC 714/22|Zarządzenie|https://www.saos.org.pl/judgments/488556
-488537|2021-07-19|SO|X GC 675/20|Zarządzenie|https://www.saos.org.pl/judgments/488537
-462307|2020-09-09|SO|I ACa 832/19|Wyrok|https://www.saos.org.pl/judgments/462307
-346674|2017-12-29|SO|X GC 522/17|Zarządzenie|https://www.saos.org.pl/judgments/346674
-243148|2015-08-20|SN|II CSK 505/14|Wyrok|https://www.saos.org.pl/judgments/243148
-221778|2015-08-13|SO|I ACa 260/15|Wyrok|https://www.saos.org.pl/judgments/221778
-44358|2014-02-13|SO|I ACa 752/13|Wyrok|https://www.saos.org.pl/judgments/44358
-22406|2013-04-30|SO|I ACa 157/13|Wyrok|https://www.saos.org.pl/judgments/22406
-5867|2012-11-20|SO|I ACa 525/12|Wyrok|https://www.saos.org.pl/judgments/5867
-2319|2012-10-11|SO|III APa 17/12|Wyrok|https://www.saos.org.pl/judgments/2319
+saos_id|date|court|case_number|type|score|saos_url
+243148|2015-08-20|SN|II CSK 505/14|Wyrok|78|https://www.saos.org.pl/judgments/243148
+462307|2020-09-09|SO|I ACa 832/19|Wyrok|56|https://www.saos.org.pl/judgments/462307
+221778|2015-08-13|SO|I ACa 260/15|Wyrok|56|https://www.saos.org.pl/judgments/221778
+44358|2014-02-13|SO|I ACa 752/13|Wyrok|56|https://www.saos.org.pl/judgments/44358
+22406|2013-04-30|SO|I ACa 157/13|Wyrok|56|https://www.saos.org.pl/judgments/22406
+5867|2012-11-20|SO|I ACa 525/12|Wyrok|56|https://www.saos.org.pl/judgments/5867
+2319|2012-10-11|SO|III APa 17/12|Wyrok|56|https://www.saos.org.pl/judgments/2319
+488556|2022-09-21|SO|X GC 714/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488556
+488537|2021-07-19|SO|X GC 675/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488537
+346674|2017-12-29|SO|X GC 522/17|Zarządzenie|27|https://www.saos.org.pl/judgments/346674

@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-241356|2016-06-29|SO|I ACz 436/16|Postanowienie|https://www.saos.org.pl/judgments/241356
-235783|2016-06-29|SO|I ACz 446/16|Postanowienie|https://www.saos.org.pl/judgments/235783
-234666|2016-06-29|SO|I ACz 390/16|Postanowienie|https://www.saos.org.pl/judgments/234666
-234665|2016-06-29|SO|I ACz 384/16|Postanowienie|https://www.saos.org.pl/judgments/234665
-234667|2016-06-21|SO|I ACz 428/16|Postanowienie|https://www.saos.org.pl/judgments/234667
-234482|2016-06-13|SO|I ACz 358/16|Postanowienie|https://www.saos.org.pl/judgments/234482
-234481|2016-06-13|SO|I ACz 338/16|Postanowienie|https://www.saos.org.pl/judgments/234481
+saos_id|date|court|case_number|type|score|saos_url
+241356|2016-06-29|SO|I ACz 436/16|Postanowienie|47|https://www.saos.org.pl/judgments/241356
+235783|2016-06-29|SO|I ACz 446/16|Postanowienie|47|https://www.saos.org.pl/judgments/235783
+234666|2016-06-29|SO|I ACz 390/16|Postanowienie|47|https://www.saos.org.pl/judgments/234666
+234665|2016-06-29|SO|I ACz 384/16|Postanowienie|47|https://www.saos.org.pl/judgments/234665
+234667|2016-06-21|SO|I ACz 428/16|Postanowienie|47|https://www.saos.org.pl/judgments/234667
+234482|2016-06-13|SO|I ACz 358/16|Postanowienie|47|https://www.saos.org.pl/judgments/234482
+234481|2016-06-13|SO|I ACz 338/16|Postanowienie|47|https://www.saos.org.pl/judgments/234481

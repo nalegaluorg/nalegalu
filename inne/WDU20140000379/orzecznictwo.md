@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 24 stycznia 2014 r. o zmianie ustawy o z
 
 ## art. 2 (1)
 
-- 2015-02-26 | SN | [III CZP 104/14](https://www.saos.org.pl/judgments/168386) | Uchwała
+- 2015-02-26 | SN | [III CZP 104/14](https://www.saos.org.pl/judgments/168386) | Uchwała ★
 

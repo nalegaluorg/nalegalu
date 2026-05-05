@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243705|2015-10-27|SN|II KK 112/15|Postanowienie|https://www.saos.org.pl/judgments/243705
-168250|2015-02-12|SN|IV KK 335/14|Wyrok|https://www.saos.org.pl/judgments/168250
-82875|2004-10-01|SN|SDI 17/04|Wyrok|https://www.saos.org.pl/judgments/82875
+saos_id|date|court|case_number|type|score|saos_url
+168250|2015-02-12|SN|IV KK 335/14|Wyrok|78|https://www.saos.org.pl/judgments/168250
+82875|2004-10-01|SN|SDI 17/04|Wyrok|78|https://www.saos.org.pl/judgments/82875
+243705|2015-10-27|SN|II KK 112/15|Postanowienie|69|https://www.saos.org.pl/judgments/243705

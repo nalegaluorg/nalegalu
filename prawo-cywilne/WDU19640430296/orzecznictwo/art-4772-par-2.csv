@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-514715|2024-01-11|SO|XIII Pa 142/22|Wyrok|https://www.saos.org.pl/judgments/514715
-450838|2021-11-22|SO|IX P 179/21|Zarządzenie|https://www.saos.org.pl/judgments/450838
-440523|2021-04-07|SO|VIII Pa 102/20|Uzasadnienie|https://www.saos.org.pl/judgments/440523
-195496|2015-12-15|SO|VII Pa 104/15|Wyrok|https://www.saos.org.pl/judgments/195496
-56894|2014-03-27|SO|VIII Pa 13/14|Wyrok|https://www.saos.org.pl/judgments/56894
-8292|2013-03-12|SO|IV P 3/13|Wyrok|https://www.saos.org.pl/judgments/8292
-78362|1998-06-03|SN|I PKN 165/98|Wyrok|https://www.saos.org.pl/judgments/78362
-77071|1996-02-14|SN|II PRN 2/96|Wyrok|https://www.saos.org.pl/judgments/77071
-76621|1994-09-07|SN|I PRN 54/94|Wyrok|https://www.saos.org.pl/judgments/76621
+saos_id|date|court|case_number|type|score|saos_url
+78362|1998-06-03|SN|I PKN 165/98|Wyrok|78|https://www.saos.org.pl/judgments/78362
+77071|1996-02-14|SN|II PRN 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77071
+76621|1994-09-07|SN|I PRN 54/94|Wyrok|78|https://www.saos.org.pl/judgments/76621
+440523|2021-04-07|SO|VIII Pa 102/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/440523

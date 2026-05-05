@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504591|2024-01-11|SO|III APa 10/23|Wyrok|https://www.saos.org.pl/judgments/504591
+saos_id|date|court|case_number|type|score|saos_url
+504591|2024-01-11|SO|III APa 10/23|Wyrok|56|https://www.saos.org.pl/judgments/504591

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509876|2023-01-03|SO|V ACa 993/22|Wyrok|https://www.saos.org.pl/judgments/509876
-434022|2020-07-21|SO|I C 285/19|Wyrok|https://www.saos.org.pl/judgments/434022
+saos_id|date|court|case_number|type|score|saos_url
+509876|2023-01-03|SO|V ACa 993/22|Wyrok|56|https://www.saos.org.pl/judgments/509876

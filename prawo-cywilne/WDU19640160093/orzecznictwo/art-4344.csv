@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-12936|2013-02-26|SO|I ACa 1001/12|Wyrok|https://www.saos.org.pl/judgments/12936
+saos_id|date|court|case_number|type|score|saos_url
+12936|2013-02-26|SO|I ACa 1001/12|Wyrok|56|https://www.saos.org.pl/judgments/12936

@@ -1,14 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-526673|2024-12-09|SO|VIII U 896/24|Uzasadnienie|https://www.saos.org.pl/judgments/526673
-524762|2024-10-30|SO|VIII U 2296/23|Uzasadnienie|https://www.saos.org.pl/judgments/524762
-509602|2024-07-18|SO|IX U 434/22|Uzasadnienie|https://www.saos.org.pl/judgments/509602
-513069|2023-11-16|SO|VIII U 1012/23|Uzasadnienie|https://www.saos.org.pl/judgments/513069
-514019|2023-08-31|SO|VIII U 659/23|Uzasadnienie|https://www.saos.org.pl/judgments/514019
-467899|2020-11-18|SO|III AUa 894/19|Wyrok|https://www.saos.org.pl/judgments/467899
-422095|2020-10-12|SO|VIII U 3907/19|Uzasadnienie|https://www.saos.org.pl/judgments/422095
-331382|2017-12-07|SO|III AUa 297/17|Wyrok|https://www.saos.org.pl/judgments/331382
-298334|2017-06-20|SO|VI Ua 23/17|Wyrok|https://www.saos.org.pl/judgments/298334
-296220|2017-03-15|SO|III AUa 240/16|Wyrok|https://www.saos.org.pl/judgments/296220
-195044|2015-12-10|SO|VII U 1425/14|Wyrok|https://www.saos.org.pl/judgments/195044
-24398|2013-09-12|SO|VI U 640/13|Uzasadnienie|https://www.saos.org.pl/judgments/24398
-165113|2009-11-05|SN|II UK 88/09|Wyrok|https://www.saos.org.pl/judgments/165113
+saos_id|date|court|case_number|type|score|saos_url
+165113|2009-11-05|SN|II UK 88/09|Wyrok|78|https://www.saos.org.pl/judgments/165113
+467899|2020-11-18|SO|III AUa 894/19|Wyrok|56|https://www.saos.org.pl/judgments/467899
+331382|2017-12-07|SO|III AUa 297/17|Wyrok|56|https://www.saos.org.pl/judgments/331382
+296220|2017-03-15|SO|III AUa 240/16|Wyrok|56|https://www.saos.org.pl/judgments/296220
+526673|2024-12-09|SO|VIII U 896/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/526673
+524762|2024-10-30|SO|VIII U 2296/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/524762
+513069|2023-11-16|SO|VIII U 1012/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513069
+514019|2023-08-31|SO|VIII U 659/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514019
+422095|2020-10-12|SO|VIII U 3907/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/422095

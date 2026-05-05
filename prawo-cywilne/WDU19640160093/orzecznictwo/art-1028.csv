@@ -1,14 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-243809|2015-11-20|SN|I CSK 919/14|Wyrok|https://www.saos.org.pl/judgments/243809
-245613|2015-06-11|SN|III CZP 112/14|Uchwała|https://www.saos.org.pl/judgments/245613
-166064|2014-06-18|SN|V CSK 412/13|Wyrok|https://www.saos.org.pl/judgments/166064
-100417|2013-01-23|SN|I CSK 262/12|Postanowienie|https://www.saos.org.pl/judgments/100417
-98915|2012-08-29|SN|V KK 419/11|Wyrok|https://www.saos.org.pl/judgments/98915
-95628|2011-08-24|SN|IV CSK 521/10|Postanowienie|https://www.saos.org.pl/judgments/95628
-91643|2010-01-14|SN|V KK 235/09|Wyrok|https://www.saos.org.pl/judgments/91643
-91249|2009-11-20|SN|III CSK 56/09|Wyrok|https://www.saos.org.pl/judgments/91249
-89565|2009-01-28|SN|IV CSK 361/08|Postanowienie|https://www.saos.org.pl/judgments/89565
-164896|2007-10-19|SN|I CNP 51/07|Wyrok|https://www.saos.org.pl/judgments/164896
-85591|2007-04-05|SN|II CSK 23/07|Wyrok|https://www.saos.org.pl/judgments/85591
-164591|2006-10-27|SN|I CSK 167/06|Postanowienie|https://www.saos.org.pl/judgments/164591
-163076|2005-03-09|SN|II CK 438/04|Wyrok|https://www.saos.org.pl/judgments/163076
+saos_id|date|court|case_number|type|score|saos_url
+245613|2015-06-11|SN|III CZP 112/14|Uchwała|96|https://www.saos.org.pl/judgments/245613
+243809|2015-11-20|SN|I CSK 919/14|Wyrok|78|https://www.saos.org.pl/judgments/243809
+166064|2014-06-18|SN|V CSK 412/13|Wyrok|78|https://www.saos.org.pl/judgments/166064
+98915|2012-08-29|SN|V KK 419/11|Wyrok|78|https://www.saos.org.pl/judgments/98915
+91643|2010-01-14|SN|V KK 235/09|Wyrok|78|https://www.saos.org.pl/judgments/91643
+91249|2009-11-20|SN|III CSK 56/09|Wyrok|78|https://www.saos.org.pl/judgments/91249
+164896|2007-10-19|SN|I CNP 51/07|Wyrok|78|https://www.saos.org.pl/judgments/164896
+85591|2007-04-05|SN|II CSK 23/07|Wyrok|78|https://www.saos.org.pl/judgments/85591
+163076|2005-03-09|SN|II CK 438/04|Wyrok|78|https://www.saos.org.pl/judgments/163076
+100417|2013-01-23|SN|I CSK 262/12|Postanowienie|69|https://www.saos.org.pl/judgments/100417
+95628|2011-08-24|SN|IV CSK 521/10|Postanowienie|69|https://www.saos.org.pl/judgments/95628
+89565|2009-01-28|SN|IV CSK 361/08|Postanowienie|69|https://www.saos.org.pl/judgments/89565
+164591|2006-10-27|SN|I CSK 167/06|Postanowienie|69|https://www.saos.org.pl/judgments/164591

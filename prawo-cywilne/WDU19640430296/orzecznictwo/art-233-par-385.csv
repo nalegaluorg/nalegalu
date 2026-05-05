@@ -1,12 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-96734|2012-01-09|SN|II UK 204/11|Postanowienie|https://www.saos.org.pl/judgments/96734
-96245|2011-11-18|SN|II CSK 278/11|Postanowienie|https://www.saos.org.pl/judgments/96245
-80382|2001-03-07|SN|I PKN 283/00|Wyrok|https://www.saos.org.pl/judgments/80382
-79355|1999-11-10|SN|I PKN 342/99|Wyrok|https://www.saos.org.pl/judgments/79355
-79097|1999-06-16|SN|I PKN 106/99|Wyrok|https://www.saos.org.pl/judgments/79097
-79044|1999-05-21|SN|I PKN 74/99|Wyrok|https://www.saos.org.pl/judgments/79044
-78922|1999-03-23|SN|II UKN 533/98|Wyrok|https://www.saos.org.pl/judgments/78922
-78872|1999-03-05|SN|I PKN 591/98|Wyrok|https://www.saos.org.pl/judgments/78872
-78584|1998-10-06|SN|I PKN 378/98|Wyrok|https://www.saos.org.pl/judgments/78584
-78558|1998-09-25|SN|II UKN 373/98|Postanowienie|https://www.saos.org.pl/judgments/78558
-77886|1997-11-03|SN|I PKN 334/97|Wyrok|https://www.saos.org.pl/judgments/77886
+saos_id|date|court|case_number|type|score|saos_url
+80382|2001-03-07|SN|I PKN 283/00|Wyrok|78|https://www.saos.org.pl/judgments/80382
+79355|1999-11-10|SN|I PKN 342/99|Wyrok|78|https://www.saos.org.pl/judgments/79355
+79097|1999-06-16|SN|I PKN 106/99|Wyrok|78|https://www.saos.org.pl/judgments/79097
+79044|1999-05-21|SN|I PKN 74/99|Wyrok|78|https://www.saos.org.pl/judgments/79044
+78922|1999-03-23|SN|II UKN 533/98|Wyrok|78|https://www.saos.org.pl/judgments/78922
+78872|1999-03-05|SN|I PKN 591/98|Wyrok|78|https://www.saos.org.pl/judgments/78872
+78584|1998-10-06|SN|I PKN 378/98|Wyrok|78|https://www.saos.org.pl/judgments/78584
+77886|1997-11-03|SN|I PKN 334/97|Wyrok|78|https://www.saos.org.pl/judgments/77886
+96734|2012-01-09|SN|II UK 204/11|Postanowienie|69|https://www.saos.org.pl/judgments/96734
+96245|2011-11-18|SN|II CSK 278/11|Postanowienie|69|https://www.saos.org.pl/judgments/96245
+78558|1998-09-25|SN|II UKN 373/98|Postanowienie|69|https://www.saos.org.pl/judgments/78558

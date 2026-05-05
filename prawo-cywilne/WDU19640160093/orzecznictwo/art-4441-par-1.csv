@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-414871|2020-02-13|SO|I ACa 593/19|Wyrok|https://www.saos.org.pl/judgments/414871
-153003|2015-04-22|SO|V ACa 762/14|Wyrok|https://www.saos.org.pl/judgments/153003
-50699|2013-06-07|SO|I ACa 425/13|Wyrok|https://www.saos.org.pl/judgments/50699
+saos_id|date|court|case_number|type|score|saos_url
+414871|2020-02-13|SO|I ACa 593/19|Wyrok|56|https://www.saos.org.pl/judgments/414871
+153003|2015-04-22|SO|V ACa 762/14|Wyrok|56|https://www.saos.org.pl/judgments/153003
+50699|2013-06-07|SO|I ACa 425/13|Wyrok|56|https://www.saos.org.pl/judgments/50699

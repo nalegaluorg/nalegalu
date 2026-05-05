@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-530139|2024-02-05|SO|III Ca 427/22|Uzasadnienie|https://www.saos.org.pl/judgments/530139
-370603|2019-02-05|SO|VIII GC 264/16|Zarządzenie|https://www.saos.org.pl/judgments/370603
-363011|2018-07-06|SO|IV U 439/18|Wyrok|https://www.saos.org.pl/judgments/363011
+saos_id|date|court|case_number|type|score|saos_url
+530139|2024-02-05|SO|III Ca 427/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/530139

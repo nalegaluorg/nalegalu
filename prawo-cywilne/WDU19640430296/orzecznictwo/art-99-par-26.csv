@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-403209|2017-05-23|SO|V ACa 677/16|Wyrok|https://www.saos.org.pl/judgments/403209
+saos_id|date|court|case_number|type|score|saos_url
+403209|2017-05-23|SO|V ACa 677/16|Wyrok|56|https://www.saos.org.pl/judgments/403209

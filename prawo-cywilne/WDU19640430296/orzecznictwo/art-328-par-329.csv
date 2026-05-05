@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-129916|2014-11-14|SO|VI ACa 256/13|Wyrok|https://www.saos.org.pl/judgments/129916
-7448|2013-02-21|SO|II Ca 731/12|Wyrok|https://www.saos.org.pl/judgments/7448
-94451|2011-03-18|SN|III CNP 19/10|Wyrok|https://www.saos.org.pl/judgments/94451
+saos_id|date|court|case_number|type|score|saos_url
+94451|2011-03-18|SN|III CNP 19/10|Wyrok|78|https://www.saos.org.pl/judgments/94451
+129916|2014-11-14|SO|VI ACa 256/13|Wyrok|56|https://www.saos.org.pl/judgments/129916
+7448|2013-02-21|SO|II Ca 731/12|Wyrok|40|https://www.saos.org.pl/judgments/7448

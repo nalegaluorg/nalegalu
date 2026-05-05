@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-244335|2016-01-20|SN|IV CSK 282/15|Wyrok|https://www.saos.org.pl/judgments/244335
+saos_id|date|court|case_number|type|score|saos_url
+68392|2014-01-28|SO|I ACa 1494/13|Wyrok|56|https://www.saos.org.pl/judgments/68392
+177974|2015-06-17|SO|I ACz 868/15|Postanowienie|47|https://www.saos.org.pl/judgments/177974
+53148|2013-10-24|SO|I ACz 1722/13|Postanowienie|47|https://www.saos.org.pl/judgments/53148
+397162|2014-03-12|SO|II Ca 2007/13|Postanowienie|31|https://www.saos.org.pl/judgments/397162

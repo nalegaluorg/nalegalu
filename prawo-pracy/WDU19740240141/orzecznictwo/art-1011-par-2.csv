@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-295171|2017-07-11|SO|IV P 422/16|Zarządzenie|https://www.saos.org.pl/judgments/295171
-510365|2016-07-21|SO|V Pa 28/16|Wyrok|https://www.saos.org.pl/judgments/510365
-78421|1998-07-01|SN|I PKN 218/98|Wyrok|https://www.saos.org.pl/judgments/78421
+saos_id|date|court|case_number|type|score|saos_url
+78421|1998-07-01|SN|I PKN 218/98|Wyrok|78|https://www.saos.org.pl/judgments/78421

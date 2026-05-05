@@ -1,5 +1,31 @@
-saos_id|date|court|case_number|type|saos_url
-323453|2017-12-21|SO|I Ca 493/17|Wyrok|https://www.saos.org.pl/judgments/323453
-282618|2017-04-21|SO|VIII Gz 41/17|Postanowienie|https://www.saos.org.pl/judgments/282618
-130251|2014-03-11|SO|III Cz 295/14|Postanowienie|https://www.saos.org.pl/judgments/130251
-18954|2013-05-22|SO|VIII C 387/13|Wyrok|https://www.saos.org.pl/judgments/18954
+saos_id|date|court|case_number|type|score|saos_url
+108570|2008-12-16|TK|P 17/07|Wyrok|98|https://www.saos.org.pl/judgments/108570
+107686|2006-10-02|TK|SK 34/06|Wyrok|98|https://www.saos.org.pl/judgments/107686
+106731|2004-07-28|TK|P 2/04|Wyrok|98|https://www.saos.org.pl/judgments/106731
+106753|2004-01-13|TK|SK 10/03|Wyrok|98|https://www.saos.org.pl/judgments/106753
+106399|2003-02-25|TK|SK 9/02|Wyrok|98|https://www.saos.org.pl/judgments/106399
+106047|2002-03-12|TK|P 9/01|Wyrok|98|https://www.saos.org.pl/judgments/106047
+88863|2008-10-07|SN|III CZP 81/08|Uchwała|89|https://www.saos.org.pl/judgments/88863
+84770|2006-11-22|SN|III CZP 91/06|Uchwała|89|https://www.saos.org.pl/judgments/84770
+81894|2003-03-06|SN|III PZP 2/03|Uchwała|89|https://www.saos.org.pl/judgments/81894
+81030|2001-11-27|SN|III CZP 61/01|Uchwała|89|https://www.saos.org.pl/judgments/81030
+206167|2003-01-14|TK|Ts 96/02|Postanowienie|80|https://www.saos.org.pl/judgments/206167
+106189|2002-01-16|TK|Ts 122/01|Postanowienie|80|https://www.saos.org.pl/judgments/106189
+167336|2014-11-13|SN|V CNP 8/14|Wyrok|78|https://www.saos.org.pl/judgments/167336
+88754|2008-09-25|SN|II PK 45/08|Wyrok|78|https://www.saos.org.pl/judgments/88754
+85052|2007-01-25|SN|I PZ 30/06|Postanowienie|69|https://www.saos.org.pl/judgments/85052
+82726|2004-06-16|SN|I PZP 1/04|Postanowienie|69|https://www.saos.org.pl/judgments/82726
+346848|2017-04-07|SO|I ACa 2242/15|Wyrok|56|https://www.saos.org.pl/judgments/346848
+128481|2014-12-01|SO|I ACz 2160/14|Postanowienie|47|https://www.saos.org.pl/judgments/128481
+469488|2022-06-27|SO|II Ca 933/22|Wyrok|40|https://www.saos.org.pl/judgments/469488
+361490|2018-07-11|SO|II Ca 761/18|Wyrok|40|https://www.saos.org.pl/judgments/361490
+404464|2018-07-04|SO|II Ca 493/18|Wyrok|40|https://www.saos.org.pl/judgments/404464
+361852|2018-06-21|SO|II Ca 463/18|Wyrok|40|https://www.saos.org.pl/judgments/361852
+253553|2016-10-24|SO|II C 683/16|Wyrok|40|https://www.saos.org.pl/judgments/253553
+128845|2014-12-16|SO|I Ca 376/14|Wyrok|40|https://www.saos.org.pl/judgments/128845
+71594|2014-11-21|SO|X Ga 554/14|Wyrok|40|https://www.saos.org.pl/judgments/71594
+50402|2014-05-16|SO|XV Cz 576/14|Postanowienie|31|https://www.saos.org.pl/judgments/50402
+390312|2019-05-14|SO|III Ca 1684/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390312
+357000|2018-10-02|SO|XIII Ga 371/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/357000
+344602|2018-02-01|SO|III Ca 1642/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/344602
+273636|2016-08-01|SO|I C 1168/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/273636

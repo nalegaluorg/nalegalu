@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 27 stycznia 20
 
 ## art. 39 (1)
 
-- 2010-04-08 | TK | [P 6/08](https://www.saos.org.pl/judgments/109695) | Postanowienie
+- 2010-04-08 | TK | [P 6/08](https://www.saos.org.pl/judgments/109695) | Postanowienie ★
 

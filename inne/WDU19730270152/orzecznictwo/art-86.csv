@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-508003|2024-06-07|SO|IV Ka 286/24|Wyrok|https://www.saos.org.pl/judgments/508003
-183991|2015-11-26|SO|II Ka 575/15|Wyrok|https://www.saos.org.pl/judgments/183991
-176610|2015-08-11|SO|II Ka 347/15|Wyrok|https://www.saos.org.pl/judgments/176610
+saos_id|date|court|case_number|type|score|saos_url
+508003|2024-06-07|SO|IV Ka 286/24|Wyrok|40|https://www.saos.org.pl/judgments/508003
+183991|2015-11-26|SO|II Ka 575/15|Wyrok|40|https://www.saos.org.pl/judgments/183991
+176610|2015-08-11|SO|II Ka 347/15|Wyrok|40|https://www.saos.org.pl/judgments/176610

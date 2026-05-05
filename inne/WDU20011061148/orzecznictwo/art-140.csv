@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-479311|2022-03-01|SO|VI Ka 519/21|Wyrok|https://www.saos.org.pl/judgments/479311
+saos_id|date|court|case_number|type|score|saos_url
+479311|2022-03-01|SO|VI Ka 519/21|Wyrok|40|https://www.saos.org.pl/judgments/479311

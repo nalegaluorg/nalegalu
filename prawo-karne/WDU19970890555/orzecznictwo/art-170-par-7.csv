@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-451594|2021-06-25|SO|II AKa 102/19|Wyrok|https://www.saos.org.pl/judgments/451594
-142538|2013-10-29|SO|II AKa 261/13|Wyrok|https://www.saos.org.pl/judgments/142538
-139419|2013-05-21|SO|II AKa 87/13|Wyrok|https://www.saos.org.pl/judgments/139419
-101309|2013-04-04|SN|IV KK 355/12|Wyrok|https://www.saos.org.pl/judgments/101309
-94462|2011-03-16|SN|III KK 278/10|Wyrok|https://www.saos.org.pl/judgments/94462
+saos_id|date|court|case_number|type|score|saos_url
+101309|2013-04-04|SN|IV KK 355/12|Wyrok|78|https://www.saos.org.pl/judgments/101309
+94462|2011-03-16|SN|III KK 278/10|Wyrok|78|https://www.saos.org.pl/judgments/94462
+451594|2021-06-25|SO|II AKa 102/19|Wyrok|56|https://www.saos.org.pl/judgments/451594
+142538|2013-10-29|SO|II AKa 261/13|Wyrok|56|https://www.saos.org.pl/judgments/142538
+139419|2013-05-21|SO|II AKa 87/13|Wyrok|56|https://www.saos.org.pl/judgments/139419

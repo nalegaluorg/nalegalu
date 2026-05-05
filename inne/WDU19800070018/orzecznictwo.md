@@ -2,14 +2,14 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych*
 
-Łącznie: **7** orzeczeń
+Łącznie: **6** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
-## art. 1 (4)
+## art. 1 (3)
 
 - 2018-09-20 | SO | [II AKa 200/18](https://www.saos.org.pl/judgments/434184) | Wyrok
-- 2017-04-12 | SO | [II W 305/16](https://www.saos.org.pl/judgments/280807) | Wyrok
 - 2011-08-11 | SO | [VI ACa 867/10](https://www.saos.org.pl/judgments/2657) | Wyrok
-- 2009-08-26 | SO | [XX GC 491/08](https://www.saos.org.pl/judgments/73662) | Wyrok
+- 2017-04-12 | SO | [II W 305/16](https://www.saos.org.pl/judgments/280807) | Wyrok
 
 ## art. 3 (1)
 

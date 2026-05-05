@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-75855|2014-09-25|SO|II Ca 316/14|Postanowienie|https://www.saos.org.pl/judgments/75855
-13282|2013-01-31|SO|I ACa 731/12|Wyrok|https://www.saos.org.pl/judgments/13282
+saos_id|date|court|case_number|type|score|saos_url
+13282|2013-01-31|SO|I ACa 731/12|Wyrok|56|https://www.saos.org.pl/judgments/13282

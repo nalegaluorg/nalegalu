@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-457755|2021-09-20|SO|XXIII Zs 77/21|Wyrok|https://www.saos.org.pl/judgments/457755
-234687|2016-07-01|SO|I C 906/15|Wyrok|https://www.saos.org.pl/judgments/234687
-98403|2012-06-20|SN|I KZP 4/12|Uchwała|https://www.saos.org.pl/judgments/98403
+saos_id|date|court|case_number|type|score|saos_url
+98403|2012-06-20|SN|I KZP 4/12|Uchwała|89|https://www.saos.org.pl/judgments/98403

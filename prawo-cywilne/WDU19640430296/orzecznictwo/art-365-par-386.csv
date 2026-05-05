@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-152097|2015-04-15|SO|IV Pa 13/15|Wyrok|https://www.saos.org.pl/judgments/152097
-163783|2005-11-23|SN|II CK 237/05|Postanowienie|https://www.saos.org.pl/judgments/163783
+saos_id|date|court|case_number|type|score|saos_url
+163783|2005-11-23|SN|II CK 237/05|Postanowienie|69|https://www.saos.org.pl/judgments/163783

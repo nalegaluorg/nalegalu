@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-83712|2005-09-13|SN|I UK 354/04|Wyrok|https://www.saos.org.pl/judgments/83712
-83198|2005-02-11|SN|I UK 169/04|Wyrok|https://www.saos.org.pl/judgments/83198
+saos_id|date|court|case_number|type|score|saos_url
+83712|2005-09-13|SN|I UK 354/04|Wyrok|78|https://www.saos.org.pl/judgments/83712
+83198|2005-02-11|SN|I UK 169/04|Wyrok|78|https://www.saos.org.pl/judgments/83198

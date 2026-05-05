@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-483042|2023-02-15|SO|IX Ca 498/22|Postanowienie|https://www.saos.org.pl/judgments/483042
-407102|2019-11-06|SO|I ACa 244/19|Wyrok|https://www.saos.org.pl/judgments/407102
-175691|2015-05-14|SO|I ACa 60/15|Wyrok|https://www.saos.org.pl/judgments/175691
-172362|2015-03-19|SO|III Ca 1111/14|Uzasadnienie|https://www.saos.org.pl/judgments/172362
+saos_id|date|court|case_number|type|score|saos_url
+407102|2019-11-06|SO|I ACa 244/19|Wyrok|56|https://www.saos.org.pl/judgments/407102
+175691|2015-05-14|SO|I ACa 60/15|Wyrok|56|https://www.saos.org.pl/judgments/175691
+172362|2015-03-19|SO|III Ca 1111/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/172362

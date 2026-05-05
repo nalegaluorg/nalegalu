@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-511434|2024-02-02|SO|VI Pa 63/23|Wyrok|https://www.saos.org.pl/judgments/511434
-489603|2023-04-26|SO|VII P 352/22|Wyrok|https://www.saos.org.pl/judgments/489603
-104920|2014-04-10|SN|IV KK 62/14|Wyrok|https://www.saos.org.pl/judgments/104920
-95155|2011-06-07|SN|II PK 320/10|Wyrok|https://www.saos.org.pl/judgments/95155
-80594|2001-05-24|SN|I PKN 414/00|Wyrok|https://www.saos.org.pl/judgments/80594
+saos_id|date|court|case_number|type|score|saos_url
+104920|2014-04-10|SN|IV KK 62/14|Wyrok|78|https://www.saos.org.pl/judgments/104920
+95155|2011-06-07|SN|II PK 320/10|Wyrok|78|https://www.saos.org.pl/judgments/95155
+80594|2001-05-24|SN|I PKN 414/00|Wyrok|78|https://www.saos.org.pl/judgments/80594

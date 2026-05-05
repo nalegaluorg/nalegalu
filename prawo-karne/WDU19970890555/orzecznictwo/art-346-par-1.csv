@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-174076|2015-04-15|SO|II AKa 80/15|Wyrok|https://www.saos.org.pl/judgments/174076
-134953|2015-03-24|SO|VI Ka 93/15|Wyrok|https://www.saos.org.pl/judgments/134953
+saos_id|date|court|case_number|type|score|saos_url
+174076|2015-04-15|SO|II AKa 80/15|Wyrok|56|https://www.saos.org.pl/judgments/174076

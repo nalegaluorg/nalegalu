@@ -1,3 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-287333|2017-04-25|SO|XXI Pa 56/17|Wyrok|https://www.saos.org.pl/judgments/287333
-2466|2012-10-30|SO|III AUa 560/12|Wyrok|https://www.saos.org.pl/judgments/2466
+saos_id|date|court|case_number|type|score|saos_url
+79708|2000-05-10|SN|III ZP 13/00|Uchwała|89|https://www.saos.org.pl/judgments/79708
+78187|1998-03-06|SN|III ZP 50/97|Uchwała|89|https://www.saos.org.pl/judgments/78187
+92404|2010-06-08|SN|I PK 31/10|Wyrok|78|https://www.saos.org.pl/judgments/92404
+89491|2009-01-23|SN|I PK 128/08|Wyrok|78|https://www.saos.org.pl/judgments/89491
+80950|2001-11-06|SN|I PKN 687/00|Wyrok|78|https://www.saos.org.pl/judgments/80950
+79023|1999-05-11|SN|I PKN 658/98|Wyrok|78|https://www.saos.org.pl/judgments/79023

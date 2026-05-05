@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-187738|2015-10-14|SO|VI Ka 587/15|Wyrok|https://www.saos.org.pl/judgments/187738
+saos_id|date|court|case_number|type|score|saos_url
+187738|2015-10-14|SO|VI Ka 587/15|Wyrok|40|https://www.saos.org.pl/judgments/187738

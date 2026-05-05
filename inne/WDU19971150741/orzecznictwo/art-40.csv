@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-522528|2025-01-09|SO|VI C 1735/24|Uzasadnienie|https://www.saos.org.pl/judgments/522528
-399373|2019-11-28|SO|V ACa 23/19|Wyrok|https://www.saos.org.pl/judgments/399373
-407381|2017-12-21|SO|II AKa 124/17|Wyrok|https://www.saos.org.pl/judgments/407381
-303825|2017-03-28|SO|I C 144/17|Wyrok|https://www.saos.org.pl/judgments/303825
-263776|2016-11-24|SO|I ACa 745/16|Wyrok|https://www.saos.org.pl/judgments/263776
-270152|2016-09-20|SO|XVIII C 845/15|Wyrok|https://www.saos.org.pl/judgments/270152
-150362|2015-02-13|SO|II AKa 205/14|Wyrok|https://www.saos.org.pl/judgments/150362
-62692|2014-09-19|SO|I ACz 1512/14|Postanowienie|https://www.saos.org.pl/judgments/62692
-62119|2014-06-24|SO|II Ca 336/14|Wyrok|https://www.saos.org.pl/judgments/62119
-56441|2014-06-12|SO|I ACa 278/14|Wyrok|https://www.saos.org.pl/judgments/56441
-633|2012-08-14|SO|I ACa 579/12|Wyrok|https://www.saos.org.pl/judgments/633
+saos_id|date|court|case_number|type|score|saos_url
+399373|2019-11-28|SO|V ACa 23/19|Wyrok|56|https://www.saos.org.pl/judgments/399373
+407381|2017-12-21|SO|II AKa 124/17|Wyrok|56|https://www.saos.org.pl/judgments/407381
+263776|2016-11-24|SO|I ACa 745/16|Wyrok|56|https://www.saos.org.pl/judgments/263776
+150362|2015-02-13|SO|II AKa 205/14|Wyrok|56|https://www.saos.org.pl/judgments/150362
+56441|2014-06-12|SO|I ACa 278/14|Wyrok|56|https://www.saos.org.pl/judgments/56441
+633|2012-08-14|SO|I ACa 579/12|Wyrok|56|https://www.saos.org.pl/judgments/633
+62692|2014-09-19|SO|I ACz 1512/14|Postanowienie|47|https://www.saos.org.pl/judgments/62692
+270152|2016-09-20|SO|XVIII C 845/15|Wyrok|40|https://www.saos.org.pl/judgments/270152

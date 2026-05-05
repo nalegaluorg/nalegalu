@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-167361|2014-11-12|SN|II PK 24/14|Wyrok|https://www.saos.org.pl/judgments/167361
-62006|2014-05-23|SO|VI Pa 164/14|Wyrok|https://www.saos.org.pl/judgments/62006
-89609|2009-02-04|SN|II PK 64/08|Wyrok|https://www.saos.org.pl/judgments/89609
-88553|2008-08-05|SN|I PK 29/08|Wyrok|https://www.saos.org.pl/judgments/88553
-85503|2007-03-20|SN|II PK 220/06|Wyrok|https://www.saos.org.pl/judgments/85503
-82454|2004-01-27|SN|I PK 191/03|Wyrok|https://www.saos.org.pl/judgments/82454
-77228|1996-09-05|SN|II URN 19/96|Wyrok|https://www.saos.org.pl/judgments/77228
-76880|1995-07-05|SN|I PRN 34/95|Wyrok|https://www.saos.org.pl/judgments/76880
+saos_id|date|court|case_number|type|score|saos_url
+167361|2014-11-12|SN|II PK 24/14|Wyrok|78|https://www.saos.org.pl/judgments/167361
+89609|2009-02-04|SN|II PK 64/08|Wyrok|78|https://www.saos.org.pl/judgments/89609
+88553|2008-08-05|SN|I PK 29/08|Wyrok|78|https://www.saos.org.pl/judgments/88553
+85503|2007-03-20|SN|II PK 220/06|Wyrok|78|https://www.saos.org.pl/judgments/85503
+82454|2004-01-27|SN|I PK 191/03|Wyrok|78|https://www.saos.org.pl/judgments/82454
+77228|1996-09-05|SN|II URN 19/96|Wyrok|78|https://www.saos.org.pl/judgments/77228
+76880|1995-07-05|SN|I PRN 34/95|Wyrok|78|https://www.saos.org.pl/judgments/76880
+62006|2014-05-23|SO|VI Pa 164/14|Wyrok|40|https://www.saos.org.pl/judgments/62006

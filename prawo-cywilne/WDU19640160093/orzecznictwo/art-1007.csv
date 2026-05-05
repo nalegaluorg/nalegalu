@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-244718|2016-02-24|SN|I CSK 67/15|Wyrok|https://www.saos.org.pl/judgments/244718
-168255|2015-02-11|SN|I CSK 753/13|Wyrok|https://www.saos.org.pl/judgments/168255
-103094|2013-10-10|SN|III CZP 53/13|Uchwała|https://www.saos.org.pl/judgments/103094
-90064|2009-04-17|SN|III CSK 298/08|Wyrok|https://www.saos.org.pl/judgments/90064
-82737|2004-06-24|SN|III CK 127/03|Wyrok|https://www.saos.org.pl/judgments/82737
+saos_id|date|court|case_number|type|score|saos_url
+103094|2013-10-10|SN|III CZP 53/13|Uchwała|89|https://www.saos.org.pl/judgments/103094
+244718|2016-02-24|SN|I CSK 67/15|Wyrok|78|https://www.saos.org.pl/judgments/244718
+168255|2015-02-11|SN|I CSK 753/13|Wyrok|78|https://www.saos.org.pl/judgments/168255
+90064|2009-04-17|SN|III CSK 298/08|Wyrok|78|https://www.saos.org.pl/judgments/90064
+82737|2004-06-24|SN|III CK 127/03|Wyrok|78|https://www.saos.org.pl/judgments/82737

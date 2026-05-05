@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-6434|2013-02-28|SO|II Cz 182/13|Postanowienie|https://www.saos.org.pl/judgments/6434
-165142|2010-01-08|SN|III BP 3/09|Postanowienie|https://www.saos.org.pl/judgments/165142
+saos_id|date|court|case_number|type|score|saos_url
+165142|2010-01-08|SN|III BP 3/09|Postanowienie|69|https://www.saos.org.pl/judgments/165142

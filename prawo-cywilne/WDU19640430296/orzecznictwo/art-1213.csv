@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-167910|2015-01-23|SN|V CSK 672/13|Postanowienie|https://www.saos.org.pl/judgments/167910
-100414|2013-01-23|SN|I CSK 186/12|Postanowienie|https://www.saos.org.pl/judgments/100414
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
-109478|2009-06-01|TK|Ts 282/08|Postanowienie|https://www.saos.org.pl/judgments/109478
+saos_id|date|court|case_number|type|score|saos_url
+109478|2009-06-01|TK|Ts 282/08|Postanowienie|80|https://www.saos.org.pl/judgments/109478
+167910|2015-01-23|SN|V CSK 672/13|Postanowienie|69|https://www.saos.org.pl/judgments/167910
+100414|2013-01-23|SN|I CSK 186/12|Postanowienie|69|https://www.saos.org.pl/judgments/100414
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456

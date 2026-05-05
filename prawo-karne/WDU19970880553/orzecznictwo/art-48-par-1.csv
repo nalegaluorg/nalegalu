@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-448661|2021-06-28|SO|II W 1049/20|Uzasadnienie|https://www.saos.org.pl/judgments/448661
-273908|2016-12-30|SO|II AKa 167/16|Wyrok|https://www.saos.org.pl/judgments/273908
-249427|2016-09-06|SO|VI Ka 300/16|Wyrok|https://www.saos.org.pl/judgments/249427
-227228|2016-03-16|SO|II W 227/15|Wyrok|https://www.saos.org.pl/judgments/227228
-210500|2016-01-29|SO|VI Ka 451/15|Wyrok|https://www.saos.org.pl/judgments/210500
-193026|2015-12-22|SO|II K 630/15|Wyrok|https://www.saos.org.pl/judgments/193026
-206808|2015-10-28|TK|SK 59/13|Wyrok|https://www.saos.org.pl/judgments/206808
-169577|2015-06-16|SO|VI Ka 237/15|Wyrok|https://www.saos.org.pl/judgments/169577
-59171|2014-03-11|SO|IV K 228/13|Uzasadnienie|https://www.saos.org.pl/judgments/59171
-457954|2008-10-23|SO|II AKa 223/08|Wyrok|https://www.saos.org.pl/judgments/457954
-82569|2004-03-25|SN|I KZP 43/03|Uchwała|https://www.saos.org.pl/judgments/82569
+saos_id|date|court|case_number|type|score|saos_url
+206808|2015-10-28|TK|SK 59/13|Wyrok|98|https://www.saos.org.pl/judgments/206808
+82569|2004-03-25|SN|I KZP 43/03|Uchwała|89|https://www.saos.org.pl/judgments/82569
+273908|2016-12-30|SO|II AKa 167/16|Wyrok|56|https://www.saos.org.pl/judgments/273908
+457954|2008-10-23|SO|II AKa 223/08|Wyrok|56|https://www.saos.org.pl/judgments/457954
+249427|2016-09-06|SO|VI Ka 300/16|Wyrok|40|https://www.saos.org.pl/judgments/249427
+210500|2016-01-29|SO|VI Ka 451/15|Wyrok|40|https://www.saos.org.pl/judgments/210500

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-402199|2019-04-18|SO|I Ca 98/19|Wyrok|https://www.saos.org.pl/judgments/402199
+saos_id|date|court|case_number|type|score|saos_url
+402199|2019-04-18|SO|I Ca 98/19|Wyrok|40|https://www.saos.org.pl/judgments/402199

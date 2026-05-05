@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-435467|2021-01-25|SO|XXIII Ga 1899/20|Postanowienie|https://www.saos.org.pl/judgments/435467
-297283|2017-05-18|SO|I ACa 810/16|Wyrok|https://www.saos.org.pl/judgments/297283
-279740|2017-01-31|SO|III APa 31/16|Wyrok|https://www.saos.org.pl/judgments/279740
-168502|2015-03-04|SN|IV CZ 107/14|Postanowienie|https://www.saos.org.pl/judgments/168502
-126258|2014-12-17|SO|VIII Ns 612/12|Postanowienie|https://www.saos.org.pl/judgments/126258
-2532|2012-11-08|SO|I ACz 1632/12|Postanowienie|https://www.saos.org.pl/judgments/2532
-97877|2012-04-19|SN|IV CZ 153/11|Postanowienie|https://www.saos.org.pl/judgments/97877
-109082|2009-03-31|TK|SK 19/08|Wyrok|https://www.saos.org.pl/judgments/109082
+saos_id|date|court|case_number|type|score|saos_url
+109082|2009-03-31|TK|SK 19/08|Wyrok|98|https://www.saos.org.pl/judgments/109082
+168502|2015-03-04|SN|IV CZ 107/14|Postanowienie|69|https://www.saos.org.pl/judgments/168502
+97877|2012-04-19|SN|IV CZ 153/11|Postanowienie|69|https://www.saos.org.pl/judgments/97877
+297283|2017-05-18|SO|I ACa 810/16|Wyrok|56|https://www.saos.org.pl/judgments/297283
+279740|2017-01-31|SO|III APa 31/16|Wyrok|56|https://www.saos.org.pl/judgments/279740
+2532|2012-11-08|SO|I ACz 1632/12|Postanowienie|47|https://www.saos.org.pl/judgments/2532

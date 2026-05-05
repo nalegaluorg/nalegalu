@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309656|2017-06-01|SO|I ACa 37/17|Wyrok|https://www.saos.org.pl/judgments/309656
+saos_id|date|court|case_number|type|score|saos_url
+309656|2017-06-01|SO|I ACa 37/17|Wyrok|56|https://www.saos.org.pl/judgments/309656

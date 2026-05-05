@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-234731|2016-06-03|SO|VI Ga 81/16|Wyrok|https://www.saos.org.pl/judgments/234731
+saos_id|date|court|case_number|type|score|saos_url
+234731|2016-06-03|SO|VI Ga 81/16|Wyrok|40|https://www.saos.org.pl/judgments/234731

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-336467|2017-10-25|SO|I ACa 196/17|Wyrok|https://www.saos.org.pl/judgments/336467
-306823|2017-09-18|SO|VIII Gz 313/17|Postanowienie|https://www.saos.org.pl/judgments/306823
-236046|2016-04-14|SO|I ACa 24/16|Wyrok|https://www.saos.org.pl/judgments/236046
+saos_id|date|court|case_number|type|score|saos_url
+336467|2017-10-25|SO|I ACa 196/17|Wyrok|56|https://www.saos.org.pl/judgments/336467
+236046|2016-04-14|SO|I ACa 24/16|Wyrok|56|https://www.saos.org.pl/judgments/236046

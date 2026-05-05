@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-490970|2023-04-18|SO|VI P 180/10|Wyrok|https://www.saos.org.pl/judgments/490970
-291295|2017-05-26|SO|VI P 743/16|Wyrok|https://www.saos.org.pl/judgments/291295
+saos_id|date|court|case_number|type|score|saos_url
+490970|2023-04-18|SO|VI P 180/10|Wyrok|40|https://www.saos.org.pl/judgments/490970

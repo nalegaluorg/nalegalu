@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-477010|2021-06-18|SO|I C 375/17|Wyrok|https://www.saos.org.pl/judgments/477010
-457667|2021-04-09|SO|III Ca 2701/19|Uzasadnienie|https://www.saos.org.pl/judgments/457667
-347488|2018-05-09|SO|I ACa 967/17|Wyrok|https://www.saos.org.pl/judgments/347488
-220976|2016-03-15|SO|V GC 305/12|Wyrok|https://www.saos.org.pl/judgments/220976
-36375|2013-10-24|SO|IV Ca 353/13|Wyrok|https://www.saos.org.pl/judgments/36375
+saos_id|date|court|case_number|type|score|saos_url
+347488|2018-05-09|SO|I ACa 967/17|Wyrok|56|https://www.saos.org.pl/judgments/347488
+36375|2013-10-24|SO|IV Ca 353/13|Wyrok|40|https://www.saos.org.pl/judgments/36375
+457667|2021-04-09|SO|III Ca 2701/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/457667

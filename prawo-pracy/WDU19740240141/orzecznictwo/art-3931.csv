@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-83366|2005-04-29|SN|III PK 1/05|Wyrok|https://www.saos.org.pl/judgments/83366
-81734|2002-12-05|SN|I PKN 620/01|Wyrok|https://www.saos.org.pl/judgments/81734
+saos_id|date|court|case_number|type|score|saos_url
+83366|2005-04-29|SN|III PK 1/05|Wyrok|78|https://www.saos.org.pl/judgments/83366
+81734|2002-12-05|SN|I PKN 620/01|Wyrok|78|https://www.saos.org.pl/judgments/81734

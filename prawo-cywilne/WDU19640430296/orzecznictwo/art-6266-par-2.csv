@@ -1,2 +1,24 @@
-saos_id|date|court|case_number|type|saos_url
-151605|2014-11-23|SO|I C 510/14|Wyrok|https://www.saos.org.pl/judgments/151605
+saos_id|date|court|case_number|type|score|saos_url
+244700|2016-02-25|SN|III CZP 86/15|Uchwała|96|https://www.saos.org.pl/judgments/244700
+91513|2009-12-16|SN|III CZP 80/09|Uchwała|96|https://www.saos.org.pl/judgments/91513
+165763|2014-04-24|SN|III CSK 319/13|Wyrok|78|https://www.saos.org.pl/judgments/165763
+243116|2015-08-13|SN|I CSK 766/14|Postanowienie|69|https://www.saos.org.pl/judgments/243116
+242967|2015-07-09|SN|I CSK 509/14|Postanowienie|69|https://www.saos.org.pl/judgments/242967
+166956|2014-10-08|SN|II CSK 781/13|Postanowienie|69|https://www.saos.org.pl/judgments/166956
+101547|2013-04-26|SN|II CSK 506/12|Postanowienie|69|https://www.saos.org.pl/judgments/101547
+98417|2012-06-21|SN|II CSK 552/11|Postanowienie|69|https://www.saos.org.pl/judgments/98417
+97915|2012-04-25|SN|II CSK 461/11|Postanowienie|69|https://www.saos.org.pl/judgments/97915
+96981|2012-01-25|SN|V CSK 47/11|Postanowienie|69|https://www.saos.org.pl/judgments/96981
+94262|2011-02-17|SN|IV CSK 311/10|Postanowienie|69|https://www.saos.org.pl/judgments/94262
+94192|2011-02-09|SN|V CSK 220/10|Postanowienie|69|https://www.saos.org.pl/judgments/94192
+92503|2010-06-23|SN|II CSK 661/09|Postanowienie|69|https://www.saos.org.pl/judgments/92503
+92282|2010-05-21|SN|II CSK 641/09|Postanowienie|69|https://www.saos.org.pl/judgments/92282
+92111|2010-04-22|SN|V CSK 376/09|Postanowienie|69|https://www.saos.org.pl/judgments/92111
+89445|2009-01-16|SN|III CSK 239/08|Postanowienie|69|https://www.saos.org.pl/judgments/89445
+88216|2008-06-12|SN|III CSK 54/08|Postanowienie|69|https://www.saos.org.pl/judgments/88216
+449881|2021-05-31|SO|II Ca 199/21|Postanowienie|31|https://www.saos.org.pl/judgments/449881
+401766|2019-02-22|SO|II S 418/18|Postanowienie|31|https://www.saos.org.pl/judgments/401766
+305373|2017-08-11|SO|II Ca 849/17|Postanowienie|31|https://www.saos.org.pl/judgments/305373
+202858|2015-12-30|SO|II Ca 1347/15|Postanowienie|31|https://www.saos.org.pl/judgments/202858
+155691|2015-03-03|SO|II Ca 105/15|Postanowienie|31|https://www.saos.org.pl/judgments/155691
+142342|2013-07-18|SO|I Ca 200/13|Postanowienie|31|https://www.saos.org.pl/judgments/142342

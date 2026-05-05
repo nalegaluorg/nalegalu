@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-253139|2016-09-29|SO|VI U 198/14|Wyrok|https://www.saos.org.pl/judgments/253139
-43682|2014-03-26|SO|III AUa 552/13|Wyrok|https://www.saos.org.pl/judgments/43682
+saos_id|date|court|case_number|type|score|saos_url
+43682|2014-03-26|SO|III AUa 552/13|Wyrok|56|https://www.saos.org.pl/judgments/43682

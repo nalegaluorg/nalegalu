@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-166798|2014-09-24|SN|IV KK 232/14|Postanowienie|https://www.saos.org.pl/judgments/166798
-99395|2012-10-17|SN|IV KK 196/12|Postanowienie|https://www.saos.org.pl/judgments/99395
-99389|2012-10-17|SN|IV KK 171/12|Postanowienie|https://www.saos.org.pl/judgments/99389
-96882|2012-01-17|SN|V KZ 79/11|Postanowienie|https://www.saos.org.pl/judgments/96882
+saos_id|date|court|case_number|type|score|saos_url
+166798|2014-09-24|SN|IV KK 232/14|Postanowienie|69|https://www.saos.org.pl/judgments/166798
+99395|2012-10-17|SN|IV KK 196/12|Postanowienie|69|https://www.saos.org.pl/judgments/99395
+99389|2012-10-17|SN|IV KK 171/12|Postanowienie|69|https://www.saos.org.pl/judgments/99389
+96882|2012-01-17|SN|V KZ 79/11|Postanowienie|69|https://www.saos.org.pl/judgments/96882

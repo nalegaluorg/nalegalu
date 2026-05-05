@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-512052|2023-09-29|SO|VII U 2355/23|Wyrok|https://www.saos.org.pl/judgments/512052
+saos_id|date|court|case_number|type|score|saos_url
+512052|2023-09-29|SO|VII U 2355/23|Wyrok|40|https://www.saos.org.pl/judgments/512052

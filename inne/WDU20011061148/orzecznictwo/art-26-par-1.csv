@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243682|2015-10-29|SN|IV KK 242/15|Wyrok|https://www.saos.org.pl/judgments/243682
+saos_id|date|court|case_number|type|score|saos_url
+243682|2015-10-29|SN|IV KK 242/15|Wyrok|78|https://www.saos.org.pl/judgments/243682

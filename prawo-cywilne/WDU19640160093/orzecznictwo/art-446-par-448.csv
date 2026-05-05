@@ -1,15 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-499069|2024-03-28|SO|I C 687/21|Wyrok|https://www.saos.org.pl/judgments/499069
-494454|2023-04-04|SO|I ACa 67/21|Wyrok|https://www.saos.org.pl/judgments/494454
-404127|2019-09-25|SO|I C 343/19|Wyrok|https://www.saos.org.pl/judgments/404127
-377461|2019-03-26|SO|I Ca 15/19|Wyrok|https://www.saos.org.pl/judgments/377461
-309635|2017-08-03|SO|I ACa 211/17|Wyrok|https://www.saos.org.pl/judgments/309635
-66093|2014-10-01|SO|I Ca 298/14|Wyrok|https://www.saos.org.pl/judgments/66093
-72055|2014-04-03|SO|I ACa 139/14|Wyrok|https://www.saos.org.pl/judgments/72055
-39184|2014-02-20|SO|II Ca 1412/13|Wyrok|https://www.saos.org.pl/judgments/39184
-44174|2014-01-08|SO|V ACa 783/13|Wyrok|https://www.saos.org.pl/judgments/44174
-30168|2013-12-13|SO|V ACa 556/13|Wyrok|https://www.saos.org.pl/judgments/30168
-35568|2013-12-03|SO|V ACa 683/13|Wyrok|https://www.saos.org.pl/judgments/35568
-140141|2013-07-31|SO|I C 876/12|Wyrok|https://www.saos.org.pl/judgments/140141
-35570|2013-06-20|SO|V Pa 146/12|Wyrok|https://www.saos.org.pl/judgments/35570
-63396|2011-04-08|SO|II C 121/11|Postanowienie|https://www.saos.org.pl/judgments/63396
+saos_id|date|court|case_number|type|score|saos_url
+494454|2023-04-04|SO|I ACa 67/21|Wyrok|56|https://www.saos.org.pl/judgments/494454
+309635|2017-08-03|SO|I ACa 211/17|Wyrok|56|https://www.saos.org.pl/judgments/309635
+72055|2014-04-03|SO|I ACa 139/14|Wyrok|56|https://www.saos.org.pl/judgments/72055
+44174|2014-01-08|SO|V ACa 783/13|Wyrok|56|https://www.saos.org.pl/judgments/44174
+30168|2013-12-13|SO|V ACa 556/13|Wyrok|56|https://www.saos.org.pl/judgments/30168
+35568|2013-12-03|SO|V ACa 683/13|Wyrok|56|https://www.saos.org.pl/judgments/35568

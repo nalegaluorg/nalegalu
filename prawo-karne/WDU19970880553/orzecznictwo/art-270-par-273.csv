@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-409161|2019-12-11|SO|II AKa 126/19|Wyrok|https://www.saos.org.pl/judgments/409161
-501187|2018-11-09|SO|II AKa 522/17|Wyrok|https://www.saos.org.pl/judgments/501187
+saos_id|date|court|case_number|type|score|saos_url
+409161|2019-12-11|SO|II AKa 126/19|Wyrok|56|https://www.saos.org.pl/judgments/409161
+501187|2018-11-09|SO|II AKa 522/17|Wyrok|56|https://www.saos.org.pl/judgments/501187

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-435197|2021-04-08|SO|II Ka 64/21|Uzasadnienie|https://www.saos.org.pl/judgments/435197
-257233|2016-05-05|SO|II AKa 285/15|Wyrok|https://www.saos.org.pl/judgments/257233
+saos_id|date|court|case_number|type|score|saos_url
+257233|2016-05-05|SO|II AKa 285/15|Wyrok|56|https://www.saos.org.pl/judgments/257233

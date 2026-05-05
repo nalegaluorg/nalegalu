@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-507310|2024-01-05|SO|III RC 412/23|Wyrok|https://www.saos.org.pl/judgments/507310
-62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|https://www.saos.org.pl/judgments/62210
+saos_id|date|court|case_number|type|score|saos_url
+62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62210

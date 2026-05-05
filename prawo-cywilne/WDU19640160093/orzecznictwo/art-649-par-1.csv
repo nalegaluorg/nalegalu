@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-457726|2021-01-27|SO|VI ACa 252/20|Wyrok|https://www.saos.org.pl/judgments/457726
-446480|2020-07-23|SO|III C 1010/19|Wyrok|https://www.saos.org.pl/judgments/446480
-118858|2011-09-19|KIO|KIO 1918/11|Wyrok|https://www.saos.org.pl/judgments/118858
+saos_id|date|court|case_number|type|score|saos_url
+457726|2021-01-27|SO|VI ACa 252/20|Wyrok|56|https://www.saos.org.pl/judgments/457726
+118858|2011-09-19|KIO|KIO 1918/11|Wyrok|44|https://www.saos.org.pl/judgments/118858
+446480|2020-07-23|SO|III C 1010/19|Wyrok|40|https://www.saos.org.pl/judgments/446480

@@ -1,15 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-470759|2022-11-30|SO|I C 473/21|Uzasadnienie|https://www.saos.org.pl/judgments/470759
-480731|2021-12-30|SO|I C 222/21|Wyrok|https://www.saos.org.pl/judgments/480731
-479034|2021-12-28|SO|I1 C 1072/21|Wyrok|https://www.saos.org.pl/judgments/479034
-500302|2021-12-10|SO|I1 C 1092/21|Wyrok|https://www.saos.org.pl/judgments/500302
-479035|2021-12-06|SO|I1 C 1115/21|Wyrok|https://www.saos.org.pl/judgments/479035
-490640|2021-12-01|SO|I1 C 1088/21|Wyrok|https://www.saos.org.pl/judgments/490640
-500306|2021-11-29|SO|I1 C 1172/21|Wyrok|https://www.saos.org.pl/judgments/500306
-487183|2021-11-29|SO|I1 C 1090/21|Wyrok|https://www.saos.org.pl/judgments/487183
-490643|2021-11-25|SO|I1 C 1106/21|Wyrok|https://www.saos.org.pl/judgments/490643
-482634|2021-10-29|SO|I1 C 840/21|Wyrok|https://www.saos.org.pl/judgments/482634
-479042|2021-10-29|SO|I1 C 835/21|Wyrok|https://www.saos.org.pl/judgments/479042
-428677|2020-06-05|SO|I ACa 31/20|Wyrok|https://www.saos.org.pl/judgments/428677
-153403|2015-04-28|SO|II Ca 209/15|Postanowienie|https://www.saos.org.pl/judgments/153403
-152914|2015-03-06|SO|I C 93/14|Wyrok|https://www.saos.org.pl/judgments/152914
+saos_id|date|court|case_number|type|score|saos_url
+428677|2020-06-05|SO|I ACa 31/20|Wyrok|56|https://www.saos.org.pl/judgments/428677

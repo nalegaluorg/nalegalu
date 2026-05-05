@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-198679|2015-05-04|SO|III K 828/14|Uzasadnienie|https://www.saos.org.pl/judgments/198679
-153937|2015-04-28|SO|IV K 109/12|Wyrok|https://www.saos.org.pl/judgments/153937
-139559|2013-06-07|SO|II AKa 153/13|Wyrok|https://www.saos.org.pl/judgments/139559
+saos_id|date|court|case_number|type|score|saos_url
+139559|2013-06-07|SO|II AKa 153/13|Wyrok|56|https://www.saos.org.pl/judgments/139559

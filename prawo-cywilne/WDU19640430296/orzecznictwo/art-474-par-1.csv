@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-335759|2017-07-28|SO|I ACa 263/17|Wyrok|https://www.saos.org.pl/judgments/335759
+saos_id|date|court|case_number|type|score|saos_url
+335759|2017-07-28|SO|I ACa 263/17|Wyrok|56|https://www.saos.org.pl/judgments/335759

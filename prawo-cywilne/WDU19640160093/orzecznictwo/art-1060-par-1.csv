@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-108107|2007-09-05|TK|P 21/06|Wyrok|https://www.saos.org.pl/judgments/108107
-206127|2001-01-31|TK|P 4/99|Wyrok|https://www.saos.org.pl/judgments/206127
+saos_id|date|court|case_number|type|score|saos_url
+108107|2007-09-05|TK|P 21/06|Wyrok|98|https://www.saos.org.pl/judgments/108107
+206127|2001-01-31|TK|P 4/99|Wyrok|98|https://www.saos.org.pl/judgments/206127

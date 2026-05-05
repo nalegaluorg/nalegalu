@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-535176|2025-07-08|SO|VI Cz 66/25|Postanowienie|https://www.saos.org.pl/judgments/535176
-46298|2014-03-31|SO|III Ca 1366/13|Uzasadnienie|https://www.saos.org.pl/judgments/46298
+saos_id|date|court|case_number|type|score|saos_url
+46298|2014-03-31|SO|III Ca 1366/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/46298

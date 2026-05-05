@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-97362|2012-02-28|SN|I UK 279/11|Wyrok|https://www.saos.org.pl/judgments/97362
+saos_id|date|court|case_number|type|score|saos_url
+97362|2012-02-28|SN|I UK 279/11|Wyrok|78|https://www.saos.org.pl/judgments/97362

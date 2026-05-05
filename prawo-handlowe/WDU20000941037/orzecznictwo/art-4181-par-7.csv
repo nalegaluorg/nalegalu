@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-285086|2017-04-13|SO|I ACa 765/15|Wyrok|https://www.saos.org.pl/judgments/285086
-54711|2014-06-27|SO|V GC 125/14|Wyrok|https://www.saos.org.pl/judgments/54711
-111381|2012-11-05|TK|Ts 247/10|Postanowienie|https://www.saos.org.pl/judgments/111381
-111379|2012-07-03|TK|Ts 247/10|Postanowienie|https://www.saos.org.pl/judgments/111379
+saos_id|date|court|case_number|type|score|saos_url
+111381|2012-11-05|TK|Ts 247/10|Postanowienie|80|https://www.saos.org.pl/judgments/111381
+111379|2012-07-03|TK|Ts 247/10|Postanowienie|80|https://www.saos.org.pl/judgments/111379
+285086|2017-04-13|SO|I ACa 765/15|Wyrok|56|https://www.saos.org.pl/judgments/285086

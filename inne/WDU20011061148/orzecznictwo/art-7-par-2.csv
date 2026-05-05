@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-170776|2015-06-30|SO|II Ka 183/15|Wyrok|https://www.saos.org.pl/judgments/170776
-62251|2014-09-03|SO|IV Ka 680/14|Wyrok|https://www.saos.org.pl/judgments/62251
-49025|2014-05-08|SO|IV Ka 252/14|Wyrok|https://www.saos.org.pl/judgments/49025
+saos_id|date|court|case_number|type|score|saos_url
+62251|2014-09-03|SO|IV Ka 680/14|Wyrok|40|https://www.saos.org.pl/judgments/62251
+49025|2014-05-08|SO|IV Ka 252/14|Wyrok|40|https://www.saos.org.pl/judgments/49025

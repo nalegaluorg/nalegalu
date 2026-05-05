@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539616|2022-04-21|SO|V ACa 253/20|Wyrok|https://www.saos.org.pl/judgments/539616
-421732|2020-07-16|SO|V AGa 703/18|Wyrok|https://www.saos.org.pl/judgments/421732
+saos_id|date|court|case_number|type|score|saos_url
+539616|2022-04-21|SO|V ACa 253/20|Wyrok|56|https://www.saos.org.pl/judgments/539616
+421732|2020-07-16|SO|V AGa 703/18|Wyrok|56|https://www.saos.org.pl/judgments/421732

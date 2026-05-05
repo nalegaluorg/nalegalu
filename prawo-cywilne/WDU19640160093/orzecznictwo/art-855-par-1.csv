@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-540201|2025-12-16|SO|XI GC 187/23|Zarządzenie|https://www.saos.org.pl/judgments/540201
-541829|2022-06-30|SO|I AGa 198/21|Wyrok|https://www.saos.org.pl/judgments/541829
-412317|2020-02-05|SO|VII AGa 287/19|Wyrok|https://www.saos.org.pl/judgments/412317
-325780|2017-12-07|SO|III Ca 328/17|Uzasadnienie|https://www.saos.org.pl/judgments/325780
-268922|2016-12-22|SO|I ACa 593/16|Wyrok|https://www.saos.org.pl/judgments/268922
-52915|2014-04-04|SO|I ACa 1137/13|Wyrok|https://www.saos.org.pl/judgments/52915
+saos_id|date|court|case_number|type|score|saos_url
+541829|2022-06-30|SO|I AGa 198/21|Wyrok|56|https://www.saos.org.pl/judgments/541829
+412317|2020-02-05|SO|VII AGa 287/19|Wyrok|56|https://www.saos.org.pl/judgments/412317
+268922|2016-12-22|SO|I ACa 593/16|Wyrok|56|https://www.saos.org.pl/judgments/268922
+52915|2014-04-04|SO|I ACa 1137/13|Wyrok|56|https://www.saos.org.pl/judgments/52915
+325780|2017-12-07|SO|III Ca 328/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/325780

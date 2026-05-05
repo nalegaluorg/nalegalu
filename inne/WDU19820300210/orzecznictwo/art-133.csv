@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-402848|2019-10-21|SO|III AUa 124/19|Wyrok|https://www.saos.org.pl/judgments/402848
-397717|2019-05-06|SO|II Ca 199/19|Wyrok|https://www.saos.org.pl/judgments/397717
-368498|2018-11-23|SO|VIII U 581/14|Zarządzenie|https://www.saos.org.pl/judgments/368498
-51014|2014-05-23|SO|III AUa 85/13|Wyrok|https://www.saos.org.pl/judgments/51014
+saos_id|date|court|case_number|type|score|saos_url
+402848|2019-10-21|SO|III AUa 124/19|Wyrok|56|https://www.saos.org.pl/judgments/402848
+51014|2014-05-23|SO|III AUa 85/13|Wyrok|56|https://www.saos.org.pl/judgments/51014
+368498|2018-11-23|SO|VIII U 581/14|Zarządzenie|27|https://www.saos.org.pl/judgments/368498

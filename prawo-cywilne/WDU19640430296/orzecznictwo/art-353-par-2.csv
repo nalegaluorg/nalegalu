@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-228838|2016-05-19|SO|III Ca 785/15|Wyrok|https://www.saos.org.pl/judgments/228838
-207251|2016-02-02|SO|I C 549/15|Wyrok|https://www.saos.org.pl/judgments/207251
-22741|2013-09-13|SO|I ACa 376/13|Wyrok|https://www.saos.org.pl/judgments/22741
-23400|2010-05-28|SO|I ACa 231/10|Wyrok|https://www.saos.org.pl/judgments/23400
+saos_id|date|court|case_number|type|score|saos_url
+22741|2013-09-13|SO|I ACa 376/13|Wyrok|56|https://www.saos.org.pl/judgments/22741
+23400|2010-05-28|SO|I ACa 231/10|Wyrok|56|https://www.saos.org.pl/judgments/23400
+207251|2016-02-02|SO|I C 549/15|Wyrok|40|https://www.saos.org.pl/judgments/207251

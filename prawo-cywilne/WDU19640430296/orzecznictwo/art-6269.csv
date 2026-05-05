@@ -1,15 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|https://www.saos.org.pl/judgments/530385
-529674|2019-10-30|SO|II Ca 1504/19|Zarządzenie|https://www.saos.org.pl/judgments/529674
-389305|2018-12-28|SO|I ACa 301/18|Wyrok|https://www.saos.org.pl/judgments/389305
-359947|2018-04-23|SO|II Ca 428/18|Zarządzenie|https://www.saos.org.pl/judgments/359947
-327970|2018-01-08|SO|III Ca 1901/17|Postanowienie|https://www.saos.org.pl/judgments/327970
-67858|2014-08-19|SO|III Ca 858/14|Postanowienie|https://www.saos.org.pl/judgments/67858
-69010|2014-05-08|SO|III Ca 231/14|Postanowienie|https://www.saos.org.pl/judgments/69010
-134732|2014-04-22|SO|III Ca 118/14|Postanowienie|https://www.saos.org.pl/judgments/134732
-155772|2013-10-03|SO|II Ca 717/13|Postanowienie|https://www.saos.org.pl/judgments/155772
-155731|2013-08-23|SO|II Ca 348/13|Postanowienie|https://www.saos.org.pl/judgments/155731
-28987|2013-08-20|SO|II Ca 483/13|Postanowienie|https://www.saos.org.pl/judgments/28987
-9275|2013-04-03|SO|VII Ca 538/12|Postanowienie|https://www.saos.org.pl/judgments/9275
-96976|2012-01-25|SN|V CSK 33/11|Postanowienie|https://www.saos.org.pl/judgments/96976
-322875|2009-12-29|SO|V Ca 2904/09|Postanowienie|https://www.saos.org.pl/judgments/322875
+saos_id|date|court|case_number|type|score|saos_url
+96976|2012-01-25|SN|V CSK 33/11|Postanowienie|69|https://www.saos.org.pl/judgments/96976
+389305|2018-12-28|SO|I ACa 301/18|Wyrok|56|https://www.saos.org.pl/judgments/389305
+9275|2013-04-03|SO|VII Ca 538/12|Postanowienie|31|https://www.saos.org.pl/judgments/9275
+530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/530385

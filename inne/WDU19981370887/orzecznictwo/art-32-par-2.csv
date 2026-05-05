@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-516662|2024-05-28|SO|VIII U 1442/23|Uzasadnienie|https://www.saos.org.pl/judgments/516662
-513139|2024-01-24|SO|VIII U 1144/23|Uzasadnienie|https://www.saos.org.pl/judgments/513139
-513699|2023-12-14|SO|VIII U 2282/22|Uzasadnienie|https://www.saos.org.pl/judgments/513699
-464928|2022-05-12|SO|VIII U 2472/18|Zarządzenie|https://www.saos.org.pl/judgments/464928
-461314|2022-03-17|SO|VIII U 951/21|Zarządzenie|https://www.saos.org.pl/judgments/461314
+saos_id|date|court|case_number|type|score|saos_url
+516662|2024-05-28|SO|VIII U 1442/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/516662
+513139|2024-01-24|SO|VIII U 1144/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513139
+513699|2023-12-14|SO|VIII U 2282/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/513699
+464928|2022-05-12|SO|VIII U 2472/18|Zarządzenie|27|https://www.saos.org.pl/judgments/464928
+461314|2022-03-17|SO|VIII U 951/21|Zarządzenie|27|https://www.saos.org.pl/judgments/461314

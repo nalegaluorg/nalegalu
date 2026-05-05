@@ -1,17 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-540440|2025-09-12|SO|VI Ka 446/25|Wyrok|https://www.saos.org.pl/judgments/540440
-444753|2021-07-12|SO|II Ka 397/21|Wyrok|https://www.saos.org.pl/judgments/444753
-130416|2015-02-05|SO|II Ka 695/14|Wyrok|https://www.saos.org.pl/judgments/130416
-46108|2014-02-14|SO|IX Ka 1828/13|Wyrok|https://www.saos.org.pl/judgments/46108
-147382|2014-02-12|SO|II AKa 112/13|Wyrok|https://www.saos.org.pl/judgments/147382
-143706|2014-02-07|SO|II AKa 427/13|Wyrok|https://www.saos.org.pl/judgments/143706
-160162|2014-01-21|TK|SK 5/12|Wyrok|https://www.saos.org.pl/judgments/160162
-141620|2013-09-30|SO|II AKa 250/13|Wyrok|https://www.saos.org.pl/judgments/141620
-139928|2013-07-04|SO|II AKa 161/13|Wyrok|https://www.saos.org.pl/judgments/139928
-137791|2013-02-15|SO|II AKa 367/12|Wyrok|https://www.saos.org.pl/judgments/137791
-8195|2013-01-30|SO|IV Ka 1480/12|Wyrok|https://www.saos.org.pl/judgments/8195
-412202|2013-01-21|SO|II AKa 413/12|Wyrok|https://www.saos.org.pl/judgments/412202
-136774|2013-01-21|SO|II AKa 413/12|Wyrok|https://www.saos.org.pl/judgments/136774
-136817|2012-10-11|SO|II AKa 175/12|Wyrok|https://www.saos.org.pl/judgments/136817
-136099|2012-06-05|SO|II AKa 175/12|Wyrok|https://www.saos.org.pl/judgments/136099
-135905|2012-05-24|SO|II AKa 87/12|Wyrok|https://www.saos.org.pl/judgments/135905
+saos_id|date|court|case_number|type|score|saos_url
+160162|2014-01-21|TK|SK 5/12|Wyrok|98|https://www.saos.org.pl/judgments/160162
+147382|2014-02-12|SO|II AKa 112/13|Wyrok|56|https://www.saos.org.pl/judgments/147382
+143706|2014-02-07|SO|II AKa 427/13|Wyrok|56|https://www.saos.org.pl/judgments/143706
+141620|2013-09-30|SO|II AKa 250/13|Wyrok|56|https://www.saos.org.pl/judgments/141620
+139928|2013-07-04|SO|II AKa 161/13|Wyrok|56|https://www.saos.org.pl/judgments/139928
+137791|2013-02-15|SO|II AKa 367/12|Wyrok|56|https://www.saos.org.pl/judgments/137791
+412202|2013-01-21|SO|II AKa 413/12|Wyrok|56|https://www.saos.org.pl/judgments/412202
+136774|2013-01-21|SO|II AKa 413/12|Wyrok|56|https://www.saos.org.pl/judgments/136774
+136817|2012-10-11|SO|II AKa 175/12|Wyrok|56|https://www.saos.org.pl/judgments/136817
+136099|2012-06-05|SO|II AKa 175/12|Wyrok|56|https://www.saos.org.pl/judgments/136099
+135905|2012-05-24|SO|II AKa 87/12|Wyrok|56|https://www.saos.org.pl/judgments/135905

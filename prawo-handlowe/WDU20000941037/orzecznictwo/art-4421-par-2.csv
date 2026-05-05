@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-452277|2018-11-19|SO|V AGa 620/18|Wyrok|https://www.saos.org.pl/judgments/452277
-166419|2014-07-24|SN|II CSK 582/13|Wyrok|https://www.saos.org.pl/judgments/166419
+saos_id|date|court|case_number|type|score|saos_url
+166419|2014-07-24|SN|II CSK 582/13|Wyrok|78|https://www.saos.org.pl/judgments/166419
+452277|2018-11-19|SO|V AGa 620/18|Wyrok|56|https://www.saos.org.pl/judgments/452277

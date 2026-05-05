@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-80481|2001-04-06|SN|II UKN 321/00|Wyrok|https://www.saos.org.pl/judgments/80481
-78101|1998-01-21|SN|III RN 111/97|Wyrok|https://www.saos.org.pl/judgments/78101
-77709|1997-06-06|SN|II UKN 168/97|Wyrok|https://www.saos.org.pl/judgments/77709
-77437|1997-02-06|SN|I PKN 75/96|Wyrok|https://www.saos.org.pl/judgments/77437
+saos_id|date|court|case_number|type|score|saos_url
+80481|2001-04-06|SN|II UKN 321/00|Wyrok|78|https://www.saos.org.pl/judgments/80481
+78101|1998-01-21|SN|III RN 111/97|Wyrok|78|https://www.saos.org.pl/judgments/78101
+77709|1997-06-06|SN|II UKN 168/97|Wyrok|78|https://www.saos.org.pl/judgments/77709
+77437|1997-02-06|SN|I PKN 75/96|Wyrok|78|https://www.saos.org.pl/judgments/77437

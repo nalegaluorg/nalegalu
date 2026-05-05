@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-542007|2023-01-24|SO|IV P 150/21|Wyrok|https://www.saos.org.pl/judgments/542007
-469269|2022-02-10|SO|VIII Pa 29/20|Wyrok|https://www.saos.org.pl/judgments/469269
-410866|2020-03-02|SO|VIII Pa 223/19|Uzasadnienie|https://www.saos.org.pl/judgments/410866
-338094|2018-02-08|SO|VIII Pa 166/17|Wyrok|https://www.saos.org.pl/judgments/338094
-178360|2015-08-13|SO|V Pa 1/15|Wyrok|https://www.saos.org.pl/judgments/178360
-53341|2014-06-05|SO|IV P 163/13|Wyrok|https://www.saos.org.pl/judgments/53341
-104093|2014-01-14|SN|III PK 50/13|Wyrok|https://www.saos.org.pl/judgments/104093
-99637|2012-11-13|SN|III PK 4/12|Wyrok|https://www.saos.org.pl/judgments/99637
-92370|2010-06-02|SN|II PK 364/09|Wyrok|https://www.saos.org.pl/judgments/92370
-91036|2009-10-16|SN|I PK 89/09|Wyrok|https://www.saos.org.pl/judgments/91036
-83101|2005-01-12|SN|I PK 142/04|Wyrok|https://www.saos.org.pl/judgments/83101
-82318|2003-11-12|SN|I PK 625/02|Wyrok|https://www.saos.org.pl/judgments/82318
-80850|2001-09-21|SN|I PKN 627/00|Wyrok|https://www.saos.org.pl/judgments/80850
-80130|2000-12-05|SN|I PKN 121/00|Wyrok|https://www.saos.org.pl/judgments/80130
-79675|2000-05-09|SN|I PKN 619/99|Wyrok|https://www.saos.org.pl/judgments/79675
+saos_id|date|court|case_number|type|score|saos_url
+104093|2014-01-14|SN|III PK 50/13|Wyrok|78|https://www.saos.org.pl/judgments/104093
+99637|2012-11-13|SN|III PK 4/12|Wyrok|78|https://www.saos.org.pl/judgments/99637
+92370|2010-06-02|SN|II PK 364/09|Wyrok|78|https://www.saos.org.pl/judgments/92370
+91036|2009-10-16|SN|I PK 89/09|Wyrok|78|https://www.saos.org.pl/judgments/91036
+83101|2005-01-12|SN|I PK 142/04|Wyrok|78|https://www.saos.org.pl/judgments/83101
+82318|2003-11-12|SN|I PK 625/02|Wyrok|78|https://www.saos.org.pl/judgments/82318
+80850|2001-09-21|SN|I PKN 627/00|Wyrok|78|https://www.saos.org.pl/judgments/80850
+80130|2000-12-05|SN|I PKN 121/00|Wyrok|78|https://www.saos.org.pl/judgments/80130
+79675|2000-05-09|SN|I PKN 619/99|Wyrok|78|https://www.saos.org.pl/judgments/79675
+410866|2020-03-02|SO|VIII Pa 223/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/410866

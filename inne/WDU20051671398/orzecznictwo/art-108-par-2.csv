@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-267149|2016-11-28|SO|III Ca 1511/16|Uzasadnienie|https://www.saos.org.pl/judgments/267149
-57372|2014-03-04|SO|II Cz 215/14|Postanowienie|https://www.saos.org.pl/judgments/57372
+saos_id|date|court|case_number|type|score|saos_url
+57372|2014-03-04|SO|II Cz 215/14|Postanowienie|31|https://www.saos.org.pl/judgments/57372
+267149|2016-11-28|SO|III Ca 1511/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/267149

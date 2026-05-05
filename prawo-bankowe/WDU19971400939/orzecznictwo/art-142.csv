@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-534350|2025-05-30|SO|XXV C 637/24|Wyrok|https://www.saos.org.pl/judgments/534350
-411944|2020-04-14|SO|II C 339/20|Postanowienie|https://www.saos.org.pl/judgments/411944
-26151|2013-09-05|SO|I ACa 523/13|Wyrok|https://www.saos.org.pl/judgments/26151
+saos_id|date|court|case_number|type|score|saos_url
+26151|2013-09-05|SO|I ACa 523/13|Wyrok|56|https://www.saos.org.pl/judgments/26151

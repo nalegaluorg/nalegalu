@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-522902|2023-12-19|SO|II Ca 1469/23|Wyrok|https://www.saos.org.pl/judgments/522902
-280577|2017-04-10|SO|I C 378/16|Wyrok|https://www.saos.org.pl/judgments/280577
-240262|2016-05-09|SO|X GC 766/13|Uzasadnienie|https://www.saos.org.pl/judgments/240262
+saos_id|date|court|case_number|type|score|saos_url
+522902|2023-12-19|SO|II Ca 1469/23|Wyrok|40|https://www.saos.org.pl/judgments/522902
+280577|2017-04-10|SO|I C 378/16|Wyrok|40|https://www.saos.org.pl/judgments/280577
+240262|2016-05-09|SO|X GC 766/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/240262

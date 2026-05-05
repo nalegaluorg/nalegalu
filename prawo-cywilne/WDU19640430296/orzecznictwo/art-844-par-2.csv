@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-459471|2022-03-03|SO|II AKa 254/21|Uzasadnienie|https://www.saos.org.pl/judgments/459471
-511164|2020-09-18|SO|VI Ka 463/19|Wyrok|https://www.saos.org.pl/judgments/511164
-482320|2019-02-05|SO|II K 603/17|Wyrok|https://www.saos.org.pl/judgments/482320
+saos_id|date|court|case_number|type|score|saos_url
+459471|2022-03-03|SO|II AKa 254/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/459471

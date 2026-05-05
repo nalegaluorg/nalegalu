@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-313504|2017-11-13|SO|XII C 2058/16|Wyrok|https://www.saos.org.pl/judgments/313504
+saos_id|date|court|case_number|type|score|saos_url
+313504|2017-11-13|SO|XII C 2058/16|Wyrok|40|https://www.saos.org.pl/judgments/313504

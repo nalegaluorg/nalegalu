@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-217557|2016-03-08|SO|VI ACa 52/15|Wyrok|https://www.saos.org.pl/judgments/217557
-15235|2013-01-31|SO|VI ACa 964/12|Wyrok|https://www.saos.org.pl/judgments/15235
-99916|2012-12-07|SN|II CSK 77/12|Wyrok|https://www.saos.org.pl/judgments/99916
-97460|2012-03-08|SN|III CSK 292/11|Wyrok|https://www.saos.org.pl/judgments/97460
+saos_id|date|court|case_number|type|score|saos_url
+99916|2012-12-07|SN|II CSK 77/12|Wyrok|78|https://www.saos.org.pl/judgments/99916
+97460|2012-03-08|SN|III CSK 292/11|Wyrok|78|https://www.saos.org.pl/judgments/97460
+217557|2016-03-08|SO|VI ACa 52/15|Wyrok|56|https://www.saos.org.pl/judgments/217557
+15235|2013-01-31|SO|VI ACa 964/12|Wyrok|56|https://www.saos.org.pl/judgments/15235

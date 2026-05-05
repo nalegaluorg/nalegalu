@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-155039|2015-05-05|SO|I C 956/12|Uzasadnienie|https://www.saos.org.pl/judgments/155039
+saos_id|date|court|case_number|type|score|saos_url
+88739|2008-09-24|SN|II CSK 118/08|Wyrok|78|https://www.saos.org.pl/judgments/88739
+454198|2021-09-30|SO|III AUa 461/21|Wyrok|56|https://www.saos.org.pl/judgments/454198
+173807|2015-03-30|SO|I ACa 825/14|Wyrok|56|https://www.saos.org.pl/judgments/173807
+124873|2014-12-03|SO|I Ca 325/14|Postanowienie|31|https://www.saos.org.pl/judgments/124873

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-516731|2024-07-25|SO|III AUa 153/23|Wyrok|https://www.saos.org.pl/judgments/516731
-355211|2018-07-19|SO|III AUa 437/18|Wyrok|https://www.saos.org.pl/judgments/355211
-250394|2016-06-23|SO|I ACa 97/16|Wyrok|https://www.saos.org.pl/judgments/250394
-10406|2013-04-16|SO|VIII Ga 423/12|Wyrok|https://www.saos.org.pl/judgments/10406
+saos_id|date|court|case_number|type|score|saos_url
+516731|2024-07-25|SO|III AUa 153/23|Wyrok|56|https://www.saos.org.pl/judgments/516731
+355211|2018-07-19|SO|III AUa 437/18|Wyrok|56|https://www.saos.org.pl/judgments/355211
+250394|2016-06-23|SO|I ACa 97/16|Wyrok|56|https://www.saos.org.pl/judgments/250394

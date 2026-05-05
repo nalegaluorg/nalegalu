@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-490521|2023-06-27|SO|IX P 97/22|Zarządzenie|https://www.saos.org.pl/judgments/490521
-396791|2019-10-30|SO|IX P 335/17|Zarządzenie|https://www.saos.org.pl/judgments/396791
-287765|2017-04-03|SO|VI P 209/16|Wyrok|https://www.saos.org.pl/judgments/287765
-214776|2016-02-10|SO|III AUa 862/15|Wyrok|https://www.saos.org.pl/judgments/214776
-44067|2014-03-04|SO|IV U 1252/13|Wyrok|https://www.saos.org.pl/judgments/44067
-32251|2014-01-15|SO|III AUa 773/13|Wyrok|https://www.saos.org.pl/judgments/32251
-89419|2009-01-06|SN|II PK 111/08|Wyrok|https://www.saos.org.pl/judgments/89419
-88012|2008-05-09|SN|II PK 318/07|Wyrok|https://www.saos.org.pl/judgments/88012
-83120|2005-01-13|SN|II UK 122/04|Wyrok|https://www.saos.org.pl/judgments/83120
+saos_id|date|court|case_number|type|score|saos_url
+89419|2009-01-06|SN|II PK 111/08|Wyrok|78|https://www.saos.org.pl/judgments/89419
+88012|2008-05-09|SN|II PK 318/07|Wyrok|78|https://www.saos.org.pl/judgments/88012
+83120|2005-01-13|SN|II UK 122/04|Wyrok|78|https://www.saos.org.pl/judgments/83120
+214776|2016-02-10|SO|III AUa 862/15|Wyrok|56|https://www.saos.org.pl/judgments/214776
+32251|2014-01-15|SO|III AUa 773/13|Wyrok|56|https://www.saos.org.pl/judgments/32251

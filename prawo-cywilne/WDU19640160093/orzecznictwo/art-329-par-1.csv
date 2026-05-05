@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-347226|2017-11-23|SO|I C 1890/16|Wyrok|https://www.saos.org.pl/judgments/347226
-304985|2016-10-19|SO|II C 222/16|Wyrok|https://www.saos.org.pl/judgments/304985
-277519|2015-03-04|SO|II C 3340/14|Zarządzenie|https://www.saos.org.pl/judgments/277519
-69599|2014-09-26|SO|I ACa 478/14|Wyrok|https://www.saos.org.pl/judgments/69599
-71648|2014-03-13|SO|I ACa 59/14|Wyrok|https://www.saos.org.pl/judgments/71648
-89593|2009-02-05|SN|I CSK 325/08|Wyrok|https://www.saos.org.pl/judgments/89593
-89532|2009-01-21|SN|III CZP 130/08|Uchwała|https://www.saos.org.pl/judgments/89532
-163517|2005-08-24|SN|II CK 53/05|Postanowienie|https://www.saos.org.pl/judgments/163517
-82577|2004-03-31|SN|III CK 429/02|Postanowienie|https://www.saos.org.pl/judgments/82577
+saos_id|date|court|case_number|type|score|saos_url
+89532|2009-01-21|SN|III CZP 130/08|Uchwała|89|https://www.saos.org.pl/judgments/89532
+89593|2009-02-05|SN|I CSK 325/08|Wyrok|78|https://www.saos.org.pl/judgments/89593
+163517|2005-08-24|SN|II CK 53/05|Postanowienie|69|https://www.saos.org.pl/judgments/163517
+82577|2004-03-31|SN|III CK 429/02|Postanowienie|69|https://www.saos.org.pl/judgments/82577
+69599|2014-09-26|SO|I ACa 478/14|Wyrok|56|https://www.saos.org.pl/judgments/69599
+71648|2014-03-13|SO|I ACa 59/14|Wyrok|56|https://www.saos.org.pl/judgments/71648

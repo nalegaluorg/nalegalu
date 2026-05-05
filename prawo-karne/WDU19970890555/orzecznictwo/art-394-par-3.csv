@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-381372|2019-03-15|SO|II AKa 17/18|Wyrok|https://www.saos.org.pl/judgments/381372
-273278|2017-02-01|SO|VII Ka 1056/16|Wyrok|https://www.saos.org.pl/judgments/273278
-268183|2017-01-05|SO|VII Ka 994/16|Wyrok|https://www.saos.org.pl/judgments/268183
+saos_id|date|court|case_number|type|score|saos_url
+381372|2019-03-15|SO|II AKa 17/18|Wyrok|56|https://www.saos.org.pl/judgments/381372
+273278|2017-02-01|SO|VII Ka 1056/16|Wyrok|40|https://www.saos.org.pl/judgments/273278
+268183|2017-01-05|SO|VII Ka 994/16|Wyrok|40|https://www.saos.org.pl/judgments/268183

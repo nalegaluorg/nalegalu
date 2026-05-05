@@ -1,3 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-266149|2016-12-13|SO|VI Ua 40/16|Wyrok|https://www.saos.org.pl/judgments/266149
-60316|2014-06-23|SO|VII Ua 22/14|Wyrok|https://www.saos.org.pl/judgments/60316
+saos_id|date|court|case_number|type|score|saos_url
+376124|2018-08-07|SO|VII Ua 41/18|Wyrok|40|https://www.saos.org.pl/judgments/376124
+329030|2018-01-22|SO|VII Ua 70/17|Wyrok|40|https://www.saos.org.pl/judgments/329030
+207820|2015-12-08|SO|VI U 121/14|Wyrok|40|https://www.saos.org.pl/judgments/207820
+207821|2015-11-18|SO|VI U 337/15|Wyrok|40|https://www.saos.org.pl/judgments/207821
+125825|2014-11-03|SO|VI U 311/14|Wyrok|40|https://www.saos.org.pl/judgments/125825
+69818|2014-10-30|SO|IV Ua 29/14|Wyrok|40|https://www.saos.org.pl/judgments/69818
+56937|2014-07-23|SO|VII Ua 19/14|Wyrok|40|https://www.saos.org.pl/judgments/56937
+56092|2014-07-23|SO|VII Ua 27/14|Wyrok|40|https://www.saos.org.pl/judgments/56092
+65084|2014-02-06|SO|IV Ua 31/13|Wyrok|40|https://www.saos.org.pl/judgments/65084
+154773|2015-05-25|SO|VII Ua 22/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/154773
+42753|2014-04-14|SO|VII Ua 27/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/42753
+41833|2014-04-08|SO|VII Ua 39/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/41833

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-155264|2015-05-13|SO|I C 672/11|Wyrok|https://www.saos.org.pl/judgments/155264
-68452|2014-08-29|SO|VI ACa 702/13|Wyrok|https://www.saos.org.pl/judgments/68452
+saos_id|date|court|case_number|type|score|saos_url
+68452|2014-08-29|SO|VI ACa 702/13|Wyrok|56|https://www.saos.org.pl/judgments/68452

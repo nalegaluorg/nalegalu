@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-134349|2015-02-05|SO|XI W 7455/12|Wyrok|https://www.saos.org.pl/judgments/134349
-108580|2008-04-15|TK|P 26/06|Wyrok|https://www.saos.org.pl/judgments/108580
+saos_id|date|court|case_number|type|score|saos_url
+108580|2008-04-15|TK|P 26/06|Wyrok|98|https://www.saos.org.pl/judgments/108580

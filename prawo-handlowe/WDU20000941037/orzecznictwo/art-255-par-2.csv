@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|https://www.saos.org.pl/judgments/528917
-400969|2019-11-05|SO|VI GC 59/17|Wyrok|https://www.saos.org.pl/judgments/400969
-339128|2018-02-23|SO|VII AGa 166/18|Wyrok|https://www.saos.org.pl/judgments/339128
-345615|2018-02-16|SO|I ACa 827/17|Wyrok|https://www.saos.org.pl/judgments/345615
-92205|2010-05-14|SN|II CSK 505/09|Wyrok|https://www.saos.org.pl/judgments/92205
+saos_id|date|court|case_number|type|score|saos_url
+92205|2010-05-14|SN|II CSK 505/09|Wyrok|78|https://www.saos.org.pl/judgments/92205
+339128|2018-02-23|SO|VII AGa 166/18|Wyrok|56|https://www.saos.org.pl/judgments/339128
+345615|2018-02-16|SO|I ACa 827/17|Wyrok|56|https://www.saos.org.pl/judgments/345615
+528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/528917
+400969|2019-11-05|SO|VI GC 59/17|Wyrok|40|https://www.saos.org.pl/judgments/400969

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-183986|2015-11-26|SO|II Ka 562/15|Wyrok|https://www.saos.org.pl/judgments/183986
-82828|2004-09-16|SN|III ZS 1/04|Wyrok|https://www.saos.org.pl/judgments/82828
-80582|2001-05-18|SN|III SZ 3/01|Postanowienie|https://www.saos.org.pl/judgments/80582
+saos_id|date|court|case_number|type|score|saos_url
+82828|2004-09-16|SN|III ZS 1/04|Wyrok|78|https://www.saos.org.pl/judgments/82828
+80582|2001-05-18|SN|III SZ 3/01|Postanowienie|69|https://www.saos.org.pl/judgments/80582
+183986|2015-11-26|SO|II Ka 562/15|Wyrok|40|https://www.saos.org.pl/judgments/183986

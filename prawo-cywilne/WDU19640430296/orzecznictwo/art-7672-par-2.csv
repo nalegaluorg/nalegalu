@@ -1,4 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-372563|2017-02-20|SO|I Co 223/16|Postanowienie|https://www.saos.org.pl/judgments/372563
-298599|2015-06-12|SO|II Ca 50/15|Postanowienie|https://www.saos.org.pl/judgments/298599
-148616|2015-01-13|SO|II Cz 549/14|Postanowienie|https://www.saos.org.pl/judgments/148616
+saos_id|date|court|case_number|type|score|saos_url
+111659|2013-10-22|TK|SK 14/11|Wyrok|98|https://www.saos.org.pl/judgments/111659
+86754|2007-10-23|SN|III CZP 89/07|Uchwała|89|https://www.saos.org.pl/judgments/86754
+160447|2014-07-29|TK|Ts 316/13|Postanowienie|80|https://www.saos.org.pl/judgments/160447
+112042|2013-01-16|TK|Ts 274/11|Postanowienie|80|https://www.saos.org.pl/judgments/112042
+111415|2012-04-11|TK|Ts 274/11|Postanowienie|80|https://www.saos.org.pl/judgments/111415
+267917|2016-12-09|SO|VI Ka 760/16|Wyrok|40|https://www.saos.org.pl/judgments/267917
+280240|2017-04-13|SO|VI Cz 320/17|Postanowienie|31|https://www.saos.org.pl/judgments/280240
+415149|2016-08-26|SO|II S 91/16|Postanowienie|31|https://www.saos.org.pl/judgments/415149
+61899|2014-05-20|SO|II Cz 482/14|Postanowienie|31|https://www.saos.org.pl/judgments/61899
+291161|2017-05-30|SO|III Ca 473/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/291161

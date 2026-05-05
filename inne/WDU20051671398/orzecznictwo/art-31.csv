@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-271018|2017-01-18|SO|I ACa 611/16|Wyrok|https://www.saos.org.pl/judgments/271018
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-27299|2013-11-08|SO|I ACa 426/13|Wyrok|https://www.saos.org.pl/judgments/27299
-86073|2007-06-15|SN|II CZ 37/07|Postanowienie|https://www.saos.org.pl/judgments/86073
+saos_id|date|court|case_number|type|score|saos_url
+86073|2007-06-15|SN|II CZ 37/07|Postanowienie|69|https://www.saos.org.pl/judgments/86073
+271018|2017-01-18|SO|I ACa 611/16|Wyrok|56|https://www.saos.org.pl/judgments/271018
+27299|2013-11-08|SO|I ACa 426/13|Wyrok|56|https://www.saos.org.pl/judgments/27299

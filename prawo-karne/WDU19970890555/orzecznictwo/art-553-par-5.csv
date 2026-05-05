@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-222458|2016-03-18|SO|II AKa 49/16|Wyrok|https://www.saos.org.pl/judgments/222458
+saos_id|date|court|case_number|type|score|saos_url
+222458|2016-03-18|SO|II AKa 49/16|Wyrok|56|https://www.saos.org.pl/judgments/222458

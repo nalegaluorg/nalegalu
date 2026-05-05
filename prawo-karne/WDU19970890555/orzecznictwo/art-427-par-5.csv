@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-358265|2018-09-28|SO|IV Ka 532/18|Uzasadnienie|https://www.saos.org.pl/judgments/358265
-360001|2018-07-20|SO|IV Ka 629/18|Wyrok|https://www.saos.org.pl/judgments/360001
-399656|2018-01-19|SO|II AKa 238/17|Uzasadnienie|https://www.saos.org.pl/judgments/399656
-329624|2017-12-27|SO|VI Ka 905/17|Uzasadnienie|https://www.saos.org.pl/judgments/329624
-318136|2017-10-12|SO|II AKa 95/17|Wyrok|https://www.saos.org.pl/judgments/318136
-298904|2017-06-21|SO|II AKa 143/17|Wyrok|https://www.saos.org.pl/judgments/298904
-285211|2017-03-08|SO|II AKa 216/16|Wyrok|https://www.saos.org.pl/judgments/285211
-273280|2017-02-13|SO|VII Ka 817/16|Wyrok|https://www.saos.org.pl/judgments/273280
-472237|2016-10-27|SO|II AKa 121/16|Uzasadnienie|https://www.saos.org.pl/judgments/472237
-271072|2016-10-27|SO|II AKa 157/16|Wyrok|https://www.saos.org.pl/judgments/271072
-288398|2016-09-29|SO|II AKa 111/16|Wyrok|https://www.saos.org.pl/judgments/288398
-249427|2016-09-06|SO|VI Ka 300/16|Wyrok|https://www.saos.org.pl/judgments/249427
-242470|2016-07-06|SO|VIII Ka 320/16|Wyrok|https://www.saos.org.pl/judgments/242470
-218971|2016-04-06|SO|II Ka 34/16|Wyrok|https://www.saos.org.pl/judgments/218971
+saos_id|date|court|case_number|type|score|saos_url
+318136|2017-10-12|SO|II AKa 95/17|Wyrok|56|https://www.saos.org.pl/judgments/318136
+298904|2017-06-21|SO|II AKa 143/17|Wyrok|56|https://www.saos.org.pl/judgments/298904
+285211|2017-03-08|SO|II AKa 216/16|Wyrok|56|https://www.saos.org.pl/judgments/285211
+271072|2016-10-27|SO|II AKa 157/16|Wyrok|56|https://www.saos.org.pl/judgments/271072
+288398|2016-09-29|SO|II AKa 111/16|Wyrok|56|https://www.saos.org.pl/judgments/288398
+399656|2018-01-19|SO|II AKa 238/17|Uzasadnienie|42|https://www.saos.org.pl/judgments/399656
+472237|2016-10-27|SO|II AKa 121/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/472237
+360001|2018-07-20|SO|IV Ka 629/18|Wyrok|40|https://www.saos.org.pl/judgments/360001
+273280|2017-02-13|SO|VII Ka 817/16|Wyrok|40|https://www.saos.org.pl/judgments/273280
+249427|2016-09-06|SO|VI Ka 300/16|Wyrok|40|https://www.saos.org.pl/judgments/249427

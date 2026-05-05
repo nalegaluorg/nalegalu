@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-120968|2012-09-12|KIO|KIO 1842/12|Wyrok|https://www.saos.org.pl/judgments/120968
+saos_id|date|court|case_number|type|score|saos_url
+120968|2012-09-12|KIO|KIO 1842/12|Wyrok|44|https://www.saos.org.pl/judgments/120968

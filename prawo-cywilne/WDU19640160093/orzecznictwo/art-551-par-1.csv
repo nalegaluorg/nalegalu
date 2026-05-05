@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-498847|2021-03-09|SO|I C 609/20|Wyrok|https://www.saos.org.pl/judgments/498847
-181396|2015-06-30|SO|I ACa 517/14|Wyrok|https://www.saos.org.pl/judgments/181396
+saos_id|date|court|case_number|type|score|saos_url
+181396|2015-06-30|SO|I ACa 517/14|Wyrok|56|https://www.saos.org.pl/judgments/181396

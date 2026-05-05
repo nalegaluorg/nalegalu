@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-311446|2017-04-04|SO|III APa 3/17|Wyrok|https://www.saos.org.pl/judgments/311446
-263283|2016-06-23|SO|I ACa 244/16|Wyrok|https://www.saos.org.pl/judgments/263283
-39250|2013-12-06|SO|I ACa 790/13|Wyrok|https://www.saos.org.pl/judgments/39250
+saos_id|date|court|case_number|type|score|saos_url
+311446|2017-04-04|SO|III APa 3/17|Wyrok|56|https://www.saos.org.pl/judgments/311446
+263283|2016-06-23|SO|I ACa 244/16|Wyrok|56|https://www.saos.org.pl/judgments/263283
+39250|2013-12-06|SO|I ACa 790/13|Wyrok|56|https://www.saos.org.pl/judgments/39250

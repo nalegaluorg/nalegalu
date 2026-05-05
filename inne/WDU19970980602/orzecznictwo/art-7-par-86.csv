@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-74032|2014-11-24|SO|IV Ka 855/14|Wyrok|https://www.saos.org.pl/judgments/74032
+saos_id|date|court|case_number|type|score|saos_url
+74032|2014-11-24|SO|IV Ka 855/14|Wyrok|40|https://www.saos.org.pl/judgments/74032

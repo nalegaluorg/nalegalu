@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-243122|2015-08-13|SN|II KK 221/15|Postanowienie|https://www.saos.org.pl/judgments/243122
+saos_id|date|court|case_number|type|score|saos_url
+243122|2015-08-13|SN|II KK 221/15|Postanowienie|69|https://www.saos.org.pl/judgments/243122

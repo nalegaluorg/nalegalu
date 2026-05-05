@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-448538|2019-08-21|SO|I ACa 820/18|Wyrok|https://www.saos.org.pl/judgments/448538
-340443|2018-03-20|SO|III AUa 595/17|Wyrok|https://www.saos.org.pl/judgments/340443
-273171|2017-02-02|SO|III AUa 882/16|Wyrok|https://www.saos.org.pl/judgments/273171
-193073|2015-11-18|SO|III AUa 466/15|Wyrok|https://www.saos.org.pl/judgments/193073
-68861|2014-10-16|SO|VIII Ga 119/14|Uzasadnienie|https://www.saos.org.pl/judgments/68861
-62059|2014-06-27|SO|I ACz 394/14|Postanowienie|https://www.saos.org.pl/judgments/62059
-63097|2014-05-27|SO|III AUa 2631/13|Wyrok|https://www.saos.org.pl/judgments/63097
-52055|2014-01-30|SO|II Ca 839/13|Postanowienie|https://www.saos.org.pl/judgments/52055
-35523|2013-10-24|SO|II Ca 572/13|Postanowienie|https://www.saos.org.pl/judgments/35523
-57823|2013-10-07|SO|VI ACa 184/13|Wyrok|https://www.saos.org.pl/judgments/57823
-1731|2012-01-12|SO|III AUa 1450/11|Wyrok|https://www.saos.org.pl/judgments/1731
+saos_id|date|court|case_number|type|score|saos_url
+448538|2019-08-21|SO|I ACa 820/18|Wyrok|56|https://www.saos.org.pl/judgments/448538
+340443|2018-03-20|SO|III AUa 595/17|Wyrok|56|https://www.saos.org.pl/judgments/340443
+273171|2017-02-02|SO|III AUa 882/16|Wyrok|56|https://www.saos.org.pl/judgments/273171
+193073|2015-11-18|SO|III AUa 466/15|Wyrok|56|https://www.saos.org.pl/judgments/193073
+63097|2014-05-27|SO|III AUa 2631/13|Wyrok|56|https://www.saos.org.pl/judgments/63097
+57823|2013-10-07|SO|VI ACa 184/13|Wyrok|56|https://www.saos.org.pl/judgments/57823
+1731|2012-01-12|SO|III AUa 1450/11|Wyrok|56|https://www.saos.org.pl/judgments/1731
+62059|2014-06-27|SO|I ACz 394/14|Postanowienie|47|https://www.saos.org.pl/judgments/62059

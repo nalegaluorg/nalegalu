@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-290861|2017-05-26|SO|XII C 2283/15|Wyrok|https://www.saos.org.pl/judgments/290861
+saos_id|date|court|case_number|type|score|saos_url
+290861|2017-05-26|SO|XII C 2283/15|Wyrok|40|https://www.saos.org.pl/judgments/290861

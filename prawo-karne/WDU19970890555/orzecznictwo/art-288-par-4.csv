@@ -1,12 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-541489|2025-12-09|SO|VI Ka 468/25|Wyrok|https://www.saos.org.pl/judgments/541489
-520831|2024-11-05|SO|VI Ka 667/24|Wyrok|https://www.saos.org.pl/judgments/520831
-503949|2023-09-07|SO|II Ka 345/23|Wyrok|https://www.saos.org.pl/judgments/503949
-439897|2021-04-06|SO|IV Ka 703/20|Uzasadnienie|https://www.saos.org.pl/judgments/439897
-366839|2018-11-16|SO|IV Ka 645/18|Uzasadnienie|https://www.saos.org.pl/judgments/366839
-358437|2018-08-13|SO|VI Ka 1465/17|Wyrok|https://www.saos.org.pl/judgments/358437
-352985|2018-05-18|SO|VI Ka 262/18|Wyrok|https://www.saos.org.pl/judgments/352985
-227736|2016-05-06|SO|IV Ka 189/16|Uzasadnienie|https://www.saos.org.pl/judgments/227736
-234903|2016-04-19|SO|VI Ka 1140/15|Wyrok|https://www.saos.org.pl/judgments/234903
-133129|2015-03-10|SO|IV Ka 676/14|Wyrok|https://www.saos.org.pl/judgments/133129
-130563|2014-11-14|SO|VI Ka 326/14|Wyrok|https://www.saos.org.pl/judgments/130563
+saos_id|date|court|case_number|type|score|saos_url
+358437|2018-08-13|SO|VI Ka 1465/17|Wyrok|40|https://www.saos.org.pl/judgments/358437
+130563|2014-11-14|SO|VI Ka 326/14|Wyrok|40|https://www.saos.org.pl/judgments/130563

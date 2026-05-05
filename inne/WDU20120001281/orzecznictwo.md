@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 6 listopada 20
 
 ## (ogólnie) (1)
 
-- 2013-06-05 | TK | [SK 8/11](https://www.saos.org.pl/judgments/111650) | Postanowienie
+- 2013-06-05 | TK | [SK 8/11](https://www.saos.org.pl/judgments/111650) | Postanowienie ★
 

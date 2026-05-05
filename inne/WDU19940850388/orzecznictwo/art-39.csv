@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-465184|2022-02-21|SO|III C 2091/21|Wyrok|https://www.saos.org.pl/judgments/465184
-448565|2021-08-26|SO|III C 1484/21|Wyrok|https://www.saos.org.pl/judgments/448565
-3293|2012-09-27|SO|I ACa 422/12|Wyrok|https://www.saos.org.pl/judgments/3293
+saos_id|date|court|case_number|type|score|saos_url
+3293|2012-09-27|SO|I ACa 422/12|Wyrok|56|https://www.saos.org.pl/judgments/3293

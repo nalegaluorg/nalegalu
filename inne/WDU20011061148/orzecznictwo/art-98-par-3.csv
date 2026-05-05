@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-357543|2018-07-10|SO|VI Ka 554/18|Wyrok|https://www.saos.org.pl/judgments/357543
-299173|2017-06-28|SO|I C 216/15|Wyrok|https://www.saos.org.pl/judgments/299173
-299962|2017-06-26|SO|V Ga 132/17|Wyrok|https://www.saos.org.pl/judgments/299962
-249862|2016-09-08|SO|II C 284/15|Wyrok|https://www.saos.org.pl/judgments/249862
-346264|2014-01-03|SO|II Cz 836/13|Postanowienie|https://www.saos.org.pl/judgments/346264
-112107|2013-06-19|TK|Ts 318/12|Postanowienie|https://www.saos.org.pl/judgments/112107
-112105|2013-03-12|TK|Ts 318/12|Postanowienie|https://www.saos.org.pl/judgments/112105
-108719|2008-12-11|TK|Ts 51/07|Postanowienie|https://www.saos.org.pl/judgments/108719
+saos_id|date|court|case_number|type|score|saos_url
+112107|2013-06-19|TK|Ts 318/12|Postanowienie|80|https://www.saos.org.pl/judgments/112107
+112105|2013-03-12|TK|Ts 318/12|Postanowienie|80|https://www.saos.org.pl/judgments/112105
+108719|2008-12-11|TK|Ts 51/07|Postanowienie|80|https://www.saos.org.pl/judgments/108719
+299962|2017-06-26|SO|V Ga 132/17|Wyrok|40|https://www.saos.org.pl/judgments/299962
+249862|2016-09-08|SO|II C 284/15|Wyrok|40|https://www.saos.org.pl/judgments/249862

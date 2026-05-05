@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-379949|2019-03-26|SO|VI GC 1125/17|Wyrok|https://www.saos.org.pl/judgments/379949
-380192|2019-01-18|SO|VII AGa 467/18|Wyrok|https://www.saos.org.pl/judgments/380192
-361954|2017-10-10|SO|VI GC 735/16|Wyrok|https://www.saos.org.pl/judgments/361954
-320916|2017-05-24|SO|I ACa 1845/16|Wyrok|https://www.saos.org.pl/judgments/320916
+saos_id|date|court|case_number|type|score|saos_url
+380192|2019-01-18|SO|VII AGa 467/18|Wyrok|56|https://www.saos.org.pl/judgments/380192
+320916|2017-05-24|SO|I ACa 1845/16|Wyrok|56|https://www.saos.org.pl/judgments/320916

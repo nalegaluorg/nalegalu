@@ -6,10 +6,10 @@ Orzeczenia powołujące: *Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polski
 
 ## art. 2 (2)
 
-- 2015-02-18 | TK | [S 2/15](https://www.saos.org.pl/judgments/206818) | Postanowienie
-- 2015-02-18 | TK | [P 48/13](https://www.saos.org.pl/judgments/160581) | Postanowienie
+- 2015-02-18 | TK | [S 2/15](https://www.saos.org.pl/judgments/206818) | Postanowienie ★
+- 2015-02-18 | TK | [P 48/13](https://www.saos.org.pl/judgments/160581) | Postanowienie ★
 
 ## art. 9 (1)
 
-- 2014-12-10 | TK | [K 52/13](https://www.saos.org.pl/judgments/206474) | Wyrok
+- 2014-12-10 | TK | [K 52/13](https://www.saos.org.pl/judgments/206474) | Wyrok ★
 

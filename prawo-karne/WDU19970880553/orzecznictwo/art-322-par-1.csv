@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-503108|2024-02-20|SO|II K 408/23|Wyrok|https://www.saos.org.pl/judgments/503108
-499193|2023-11-24|SO|I C 726/22|Wyrok|https://www.saos.org.pl/judgments/499193
-484231|2023-03-14|SO|VIII GC 39/21|Uzasadnienie|https://www.saos.org.pl/judgments/484231
-461061|2020-06-05|SO|VI Ka 166/20|Wyrok|https://www.saos.org.pl/judgments/461061
-427681|2019-09-23|SO|I ACa 1270/17|Wyrok|https://www.saos.org.pl/judgments/427681
-431624|2018-12-13|SO|II K 817/17|Wyrok|https://www.saos.org.pl/judgments/431624
-329669|2018-01-19|SO|XVIII C 197/17|Wyrok|https://www.saos.org.pl/judgments/329669
-271420|2016-07-20|SO|I ACa 144/16|Wyrok|https://www.saos.org.pl/judgments/271420
-195739|2015-12-29|SO|XII C 458/15|Wyrok|https://www.saos.org.pl/judgments/195739
-64123|2014-09-25|SO|II AKzw 497/14|Postanowienie|https://www.saos.org.pl/judgments/64123
-94502|2011-03-23|SN|I KZP 31/10|Uchwała|https://www.saos.org.pl/judgments/94502
-84586|2006-09-28|SN|I KZP 20/06|Postanowienie|https://www.saos.org.pl/judgments/84586
-80749|2001-07-18|SN|IV KKN 205/01|Postanowienie|https://www.saos.org.pl/judgments/80749
-80601|2001-05-25|SN|WKN 10/01|Wyrok|https://www.saos.org.pl/judgments/80601
+saos_id|date|court|case_number|type|score|saos_url
+94502|2011-03-23|SN|I KZP 31/10|Uchwała|89|https://www.saos.org.pl/judgments/94502
+80601|2001-05-25|SN|WKN 10/01|Wyrok|78|https://www.saos.org.pl/judgments/80601
+84586|2006-09-28|SN|I KZP 20/06|Postanowienie|76|https://www.saos.org.pl/judgments/84586
+80749|2001-07-18|SN|IV KKN 205/01|Postanowienie|69|https://www.saos.org.pl/judgments/80749
+427681|2019-09-23|SO|I ACa 1270/17|Wyrok|56|https://www.saos.org.pl/judgments/427681
+271420|2016-07-20|SO|I ACa 144/16|Wyrok|56|https://www.saos.org.pl/judgments/271420
+64123|2014-09-25|SO|II AKzw 497/14|Postanowienie|47|https://www.saos.org.pl/judgments/64123
+329669|2018-01-19|SO|XVIII C 197/17|Wyrok|40|https://www.saos.org.pl/judgments/329669
+195739|2015-12-29|SO|XII C 458/15|Wyrok|40|https://www.saos.org.pl/judgments/195739

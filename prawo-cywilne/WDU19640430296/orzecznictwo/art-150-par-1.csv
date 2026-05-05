@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-481257|2021-12-29|SO|I1 C 854/21|Wyrok|https://www.saos.org.pl/judgments/481257
-63391|2014-05-23|SO|I ACa 477/14|Wyrok|https://www.saos.org.pl/judgments/63391
-58789|2013-02-20|SO|I C 407/12|Wyrok|https://www.saos.org.pl/judgments/58789
+saos_id|date|court|case_number|type|score|saos_url
+63391|2014-05-23|SO|I ACa 477/14|Wyrok|56|https://www.saos.org.pl/judgments/63391

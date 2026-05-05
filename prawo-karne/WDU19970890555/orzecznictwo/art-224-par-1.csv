@@ -1,15 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-504208|2024-06-14|SO|II Ka 886/23|Wyrok|https://www.saos.org.pl/judgments/504208
-544949|2023-10-13|SO|XVII Amo 36/23|Postanowienie|https://www.saos.org.pl/judgments/544949
-480866|2022-11-10|SO|XVII AmA 58/21|Wyrok|https://www.saos.org.pl/judgments/480866
-484013|2022-05-26|SO|XVII Amo 4/22|Postanowienie|https://www.saos.org.pl/judgments/484013
-479119|2021-12-20|SO|XVII Amz 51/21|Postanowienie|https://www.saos.org.pl/judgments/479119
-525352|2021-03-15|SO|XVII Amo 23/20|Postanowienie|https://www.saos.org.pl/judgments/525352
-376805|2019-03-26|SO|I C 127/17|Wyrok|https://www.saos.org.pl/judgments/376805
-381302|2019-03-05|SO|XVII Amz 9/18|Postanowienie|https://www.saos.org.pl/judgments/381302
-322452|2017-06-20|SO|XVII Amz 16/17|Postanowienie|https://www.saos.org.pl/judgments/322452
-422784|2017-01-30|SO|II Ca 7/17|Wyrok|https://www.saos.org.pl/judgments/422784
-274759|2016-11-10|SO|VI Ka 431/16|Wyrok|https://www.saos.org.pl/judgments/274759
-231120|2016-04-29|SO|I ACa 71/16|Wyrok|https://www.saos.org.pl/judgments/231120
-19738|2013-06-28|SO|IV Ka 384/13|Wyrok|https://www.saos.org.pl/judgments/19738
-137342|2013-01-24|SO|II AKa 197/12|Wyrok|https://www.saos.org.pl/judgments/137342
+saos_id|date|court|case_number|type|score|saos_url
+231120|2016-04-29|SO|I ACa 71/16|Wyrok|56|https://www.saos.org.pl/judgments/231120
+137342|2013-01-24|SO|II AKa 197/12|Wyrok|56|https://www.saos.org.pl/judgments/137342

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-95896|2011-10-07|SN|II CSK 723/10|Wyrok|https://www.saos.org.pl/judgments/95896
+saos_id|date|court|case_number|type|score|saos_url
+95896|2011-10-07|SN|II CSK 723/10|Wyrok|78|https://www.saos.org.pl/judgments/95896

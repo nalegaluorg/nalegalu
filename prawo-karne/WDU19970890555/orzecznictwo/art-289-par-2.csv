@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245032|2016-04-08|SN|II KK 90/16|Postanowienie|https://www.saos.org.pl/judgments/245032
-199520|2015-09-18|SO|III K 442/14|Uzasadnienie|https://www.saos.org.pl/judgments/199520
-134823|2015-03-13|SO|II Ka 51/15|Wyrok|https://www.saos.org.pl/judgments/134823
-145200|2014-04-07|SO|II AKa 46/14|Wyrok|https://www.saos.org.pl/judgments/145200
-278891|2006-04-27|SO|II AKa 110/06|Wyrok|https://www.saos.org.pl/judgments/278891
+saos_id|date|court|case_number|type|score|saos_url
+245032|2016-04-08|SN|II KK 90/16|Postanowienie|69|https://www.saos.org.pl/judgments/245032
+145200|2014-04-07|SO|II AKa 46/14|Wyrok|56|https://www.saos.org.pl/judgments/145200
+278891|2006-04-27|SO|II AKa 110/06|Wyrok|56|https://www.saos.org.pl/judgments/278891

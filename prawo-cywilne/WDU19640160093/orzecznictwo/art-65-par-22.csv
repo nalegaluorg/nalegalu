@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-525483|2025-03-18|SO|I ACa 2308/24|Wyrok|https://www.saos.org.pl/judgments/525483
-470834|2022-07-12|SO|I ACa 143/21|Wyrok|https://www.saos.org.pl/judgments/470834
-469296|2022-05-30|SO|I ACa 107/21|Wyrok|https://www.saos.org.pl/judgments/469296
-433981|2020-06-09|SO|I AGa 6/20|Wyrok|https://www.saos.org.pl/judgments/433981
-297822|2017-06-07|SO|III Ca 127/17|Uzasadnienie|https://www.saos.org.pl/judgments/297822
+saos_id|date|court|case_number|type|score|saos_url
+525483|2025-03-18|SO|I ACa 2308/24|Wyrok|56|https://www.saos.org.pl/judgments/525483
+470834|2022-07-12|SO|I ACa 143/21|Wyrok|56|https://www.saos.org.pl/judgments/470834
+469296|2022-05-30|SO|I ACa 107/21|Wyrok|56|https://www.saos.org.pl/judgments/469296
+433981|2020-06-09|SO|I AGa 6/20|Wyrok|56|https://www.saos.org.pl/judgments/433981
+297822|2017-06-07|SO|III Ca 127/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/297822

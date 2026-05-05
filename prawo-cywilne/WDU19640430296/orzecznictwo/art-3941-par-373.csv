@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-2134|2012-04-10|SO|I ACz 199/12|Postanowienie|https://www.saos.org.pl/judgments/2134
-87431|2008-02-22|SN|V CZ 144/07|Postanowienie|https://www.saos.org.pl/judgments/87431
-87093|2008-01-18|SN|V CZ 131/07|Postanowienie|https://www.saos.org.pl/judgments/87093
+saos_id|date|court|case_number|type|score|saos_url
+87431|2008-02-22|SN|V CZ 144/07|Postanowienie|69|https://www.saos.org.pl/judgments/87431
+87093|2008-01-18|SN|V CZ 131/07|Postanowienie|69|https://www.saos.org.pl/judgments/87093
+2134|2012-04-10|SO|I ACz 199/12|Postanowienie|47|https://www.saos.org.pl/judgments/2134

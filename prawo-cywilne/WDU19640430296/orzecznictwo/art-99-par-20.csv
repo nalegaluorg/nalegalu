@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-273612|2017-02-14|SO|I ACz 1328/16|Postanowienie|https://www.saos.org.pl/judgments/273612
-47424|2014-03-21|SO|I ACa 1233/13|Wyrok|https://www.saos.org.pl/judgments/47424
-14245|2013-05-14|SO|I ACa 325/13|Wyrok|https://www.saos.org.pl/judgments/14245
-10831|2013-04-10|SO|I ACa 27/13|Wyrok|https://www.saos.org.pl/judgments/10831
+saos_id|date|court|case_number|type|score|saos_url
+47424|2014-03-21|SO|I ACa 1233/13|Wyrok|56|https://www.saos.org.pl/judgments/47424
+14245|2013-05-14|SO|I ACa 325/13|Wyrok|56|https://www.saos.org.pl/judgments/14245
+10831|2013-04-10|SO|I ACa 27/13|Wyrok|56|https://www.saos.org.pl/judgments/10831
+273612|2017-02-14|SO|I ACz 1328/16|Postanowienie|47|https://www.saos.org.pl/judgments/273612

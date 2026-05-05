@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-184060|2015-11-09|SO|II W 810/14|Wyrok|https://www.saos.org.pl/judgments/184060
-310190|2015-02-03|SO|II AKz 16/15|Postanowienie|https://www.saos.org.pl/judgments/310190
-166030|2014-06-10|SN|III KK 144/14|Wyrok|https://www.saos.org.pl/judgments/166030
+saos_id|date|court|case_number|type|score|saos_url
+166030|2014-06-10|SN|III KK 144/14|Wyrok|78|https://www.saos.org.pl/judgments/166030
+310190|2015-02-03|SO|II AKz 16/15|Postanowienie|47|https://www.saos.org.pl/judgments/310190
+184060|2015-11-09|SO|II W 810/14|Wyrok|40|https://www.saos.org.pl/judgments/184060

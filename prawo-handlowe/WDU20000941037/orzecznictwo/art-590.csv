@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-527234|2025-04-02|SO|III AUa 584/24|Wyrok|https://www.saos.org.pl/judgments/527234
-472394|2022-07-15|SO|V K 646/20|Uzasadnienie|https://www.saos.org.pl/judgments/472394
-430887|2021-01-25|SO|VIII GC 541/18|Uzasadnienie|https://www.saos.org.pl/judgments/430887
-261519|2015-09-17|SO|V GC 138/14|Wyrok|https://www.saos.org.pl/judgments/261519
-73822|2014-11-28|SO|III K 97/14|Wyrok|https://www.saos.org.pl/judgments/73822
-13687|2013-05-27|SO|II Ka 376/13|Wyrok|https://www.saos.org.pl/judgments/13687
-101903|2013-05-24|SN|V CSK 313/12|Wyrok|https://www.saos.org.pl/judgments/101903
-20778|2013-04-25|SO|V ACa 600/12|Wyrok|https://www.saos.org.pl/judgments/20778
-98053|2012-05-09|SN|V CSK 238/11|Wyrok|https://www.saos.org.pl/judgments/98053
-206324|2011-05-20|TK|Ts 18/11|Postanowienie|https://www.saos.org.pl/judgments/206324
+saos_id|date|court|case_number|type|score|saos_url
+206324|2011-05-20|TK|Ts 18/11|Postanowienie|80|https://www.saos.org.pl/judgments/206324
+101903|2013-05-24|SN|V CSK 313/12|Wyrok|78|https://www.saos.org.pl/judgments/101903
+98053|2012-05-09|SN|V CSK 238/11|Wyrok|78|https://www.saos.org.pl/judgments/98053
+527234|2025-04-02|SO|III AUa 584/24|Wyrok|56|https://www.saos.org.pl/judgments/527234
+20778|2013-04-25|SO|V ACa 600/12|Wyrok|56|https://www.saos.org.pl/judgments/20778
+261519|2015-09-17|SO|V GC 138/14|Wyrok|40|https://www.saos.org.pl/judgments/261519
+73822|2014-11-28|SO|III K 97/14|Wyrok|40|https://www.saos.org.pl/judgments/73822

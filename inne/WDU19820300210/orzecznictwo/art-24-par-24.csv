@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-299780|2017-06-12|SO|II C 1306/16|Wyrok|https://www.saos.org.pl/judgments/299780
-219941|2015-11-26|SO|VI ACa 1359/14|Wyrok|https://www.saos.org.pl/judgments/219941
+saos_id|date|court|case_number|type|score|saos_url
+219941|2015-11-26|SO|VI ACa 1359/14|Wyrok|56|https://www.saos.org.pl/judgments/219941
+299780|2017-06-12|SO|II C 1306/16|Wyrok|40|https://www.saos.org.pl/judgments/299780

@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-368114|2018-12-10|SO|XII C 1615/18|Wyrok|https://www.saos.org.pl/judgments/368114
-381377|2018-12-05|SO|II Ca 1657/18|Wyrok|https://www.saos.org.pl/judgments/381377
-322174|2017-12-04|SO|VIII C 502/17|Wyrok|https://www.saos.org.pl/judgments/322174
-293117|2017-05-09|SO|II Ca 1850/16|Wyrok|https://www.saos.org.pl/judgments/293117
-202687|2015-12-09|SO|I C 681/15|Wyrok|https://www.saos.org.pl/judgments/202687
-74489|2014-10-09|SO|III Ca 686/14|Wyrok|https://www.saos.org.pl/judgments/74489
-74488|2014-10-09|SO|III Ca 686/14|Uzasadnienie|https://www.saos.org.pl/judgments/74488
-174115|2014-06-02|SO|II Ca 258/14|Wyrok|https://www.saos.org.pl/judgments/174115
-46838|2014-04-01|SO|VIII C 2322/13|Wyrok|https://www.saos.org.pl/judgments/46838
-9201|2013-03-11|SO|VIII C 1625/12|Wyrok|https://www.saos.org.pl/judgments/9201
+saos_id|date|court|case_number|type|score|saos_url
+368114|2018-12-10|SO|XII C 1615/18|Wyrok|40|https://www.saos.org.pl/judgments/368114
+381377|2018-12-05|SO|II Ca 1657/18|Wyrok|40|https://www.saos.org.pl/judgments/381377
+74489|2014-10-09|SO|III Ca 686/14|Wyrok|40|https://www.saos.org.pl/judgments/74489
+74488|2014-10-09|SO|III Ca 686/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74488

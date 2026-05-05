@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-538832|2025-09-03|SO|I 1 Co 1218/25|Postanowienie|https://www.saos.org.pl/judgments/538832
-525659|2024-04-26|SO|II C 6/24|Postanowienie|https://www.saos.org.pl/judgments/525659
-443177|2020-09-24|SO|VI ACa 725/18|Wyrok|https://www.saos.org.pl/judgments/443177
-446397|2018-03-23|SO|III C 888/14|Wyrok|https://www.saos.org.pl/judgments/446397
-350622|2016-12-09|SO|IX Ga 347/16|Postanowienie|https://www.saos.org.pl/judgments/350622
-260228|2016-11-25|SO|IX Ga 330/16|Postanowienie|https://www.saos.org.pl/judgments/260228
-260227|2016-11-18|SO|IX Ga 329/16|Postanowienie|https://www.saos.org.pl/judgments/260227
-260226|2016-11-18|SO|IX Ga 328/16|Postanowienie|https://www.saos.org.pl/judgments/260226
-232779|2016-04-20|SO|II Cz 181/16|Postanowienie|https://www.saos.org.pl/judgments/232779
-204227|2016-02-05|SO|XII 1Co 4528/15|Postanowienie|https://www.saos.org.pl/judgments/204227
-29634|2013-12-10|SO|II Cz 776/13|Postanowienie|https://www.saos.org.pl/judgments/29634
+saos_id|date|court|case_number|type|score|saos_url
+443177|2020-09-24|SO|VI ACa 725/18|Wyrok|56|https://www.saos.org.pl/judgments/443177
+446397|2018-03-23|SO|III C 888/14|Wyrok|40|https://www.saos.org.pl/judgments/446397
+525659|2024-04-26|SO|II C 6/24|Postanowienie|31|https://www.saos.org.pl/judgments/525659

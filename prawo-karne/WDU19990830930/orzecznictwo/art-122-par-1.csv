@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-321688|2018-01-05|SO|V Kz 1058/17|Postanowienie|https://www.saos.org.pl/judgments/321688
-313674|2017-10-03|SO|VI Ka 721/17|Uzasadnienie|https://www.saos.org.pl/judgments/313674
-276202|2017-01-30|SO|II K 126/15|Wyrok|https://www.saos.org.pl/judgments/276202
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
-177233|2014-09-11|SO|IX Ka 270/14|Wyrok|https://www.saos.org.pl/judgments/177233
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
-166030|2014-06-10|SN|III KK 144/14|Wyrok|https://www.saos.org.pl/judgments/166030
-101319|2013-04-04|SN|V KK 52/13|Postanowienie|https://www.saos.org.pl/judgments/101319
-94367|2011-03-01|SN|V KK 299/10|Postanowienie|https://www.saos.org.pl/judgments/94367
+saos_id|date|court|case_number|type|score|saos_url
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+166030|2014-06-10|SN|III KK 144/14|Wyrok|78|https://www.saos.org.pl/judgments/166030
+101319|2013-04-04|SN|V KK 52/13|Postanowienie|69|https://www.saos.org.pl/judgments/101319
+94367|2011-03-01|SN|V KK 299/10|Postanowienie|69|https://www.saos.org.pl/judgments/94367
+321688|2018-01-05|SO|V Kz 1058/17|Postanowienie|31|https://www.saos.org.pl/judgments/321688
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

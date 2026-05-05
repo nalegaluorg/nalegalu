@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-502099|2024-03-27|SO|II Ca 62/24|Postanowienie|https://www.saos.org.pl/judgments/502099
-322076|2017-12-21|SO|I Ns 1230/13|Postanowienie|https://www.saos.org.pl/judgments/322076
-308074|2016-12-12|SO|II Ca 447/16|Postanowienie|https://www.saos.org.pl/judgments/308074
-304888|2015-09-10|SO|I Ns 2646/12|Postanowienie|https://www.saos.org.pl/judgments/304888
-127855|2014-12-08|SO|III Ca 907/14|Uzasadnienie|https://www.saos.org.pl/judgments/127855
-143168|2013-06-04|SO|I Ns 332/13|Postanowienie|https://www.saos.org.pl/judgments/143168
+saos_id|date|court|case_number|type|score|saos_url
+127855|2014-12-08|SO|III Ca 907/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/127855

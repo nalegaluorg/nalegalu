@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-515008|2017-05-29|SO|XVII AmA 56/15|Wyrok|https://www.saos.org.pl/judgments/515008
-41492|2014-04-04|SO|XVII AmA 148/13|Uzasadnienie|https://www.saos.org.pl/judgments/41492
-263753|2014-03-17|SO|XVII AmA 148/13|Wyrok|https://www.saos.org.pl/judgments/263753
+saos_id|date|court|case_number|type|score|saos_url
+103053|2013-10-03|SN|III SK 67/12|Wyrok|78|https://www.saos.org.pl/judgments/103053
+83737|2005-09-20|SN|III SZP 2/05|Postanowienie|69|https://www.saos.org.pl/judgments/83737
+298740|2017-03-15|SO|VI ACa 1620/15|Wyrok|56|https://www.saos.org.pl/judgments/298740

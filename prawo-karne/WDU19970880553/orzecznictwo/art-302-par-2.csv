@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-491369|2023-06-22|SO|II AKa 125/22|Uzasadnienie|https://www.saos.org.pl/judgments/491369
-406706|2019-11-14|SO|II AKa 177/19|Wyrok|https://www.saos.org.pl/judgments/406706
-413015|2019-01-30|SO|I C 185/18|Uzasadnienie|https://www.saos.org.pl/judgments/413015
-362884|2018-08-16|SO|V Ka 481/18|Uzasadnienie|https://www.saos.org.pl/judgments/362884
-344296|2018-03-21|SO|IV Ka 112/18|Wyrok|https://www.saos.org.pl/judgments/344296
-288237|2017-05-26|SO|VI Ka 110/17|Wyrok|https://www.saos.org.pl/judgments/288237
-345481|2017-04-11|SO|II K 125/16|Zarządzenie|https://www.saos.org.pl/judgments/345481
-274229|2017-01-26|SO|II K 631/15|Wyrok|https://www.saos.org.pl/judgments/274229
-268816|2017-01-02|SO|V Ka 534/16|Uzasadnienie|https://www.saos.org.pl/judgments/268816
-262919|2016-12-21|SO|V Ka 441/16|Wyrok|https://www.saos.org.pl/judgments/262919
-334464|2016-12-20|SO|IV K 972/13|Wyrok|https://www.saos.org.pl/judgments/334464
-183066|2015-05-28|SO|II AKa 55/15|Wyrok|https://www.saos.org.pl/judgments/183066
-167876|2015-01-14|SN|V KK 400/14|Postanowienie|https://www.saos.org.pl/judgments/167876
-56229|2014-06-25|SO|I ACa 1613/13|Wyrok|https://www.saos.org.pl/judgments/56229
-137243|2012-12-21|SO|II AKa 271/12|Wyrok|https://www.saos.org.pl/judgments/137243
-182881|2010-05-20|SO|II AKa 105/10|Wyrok|https://www.saos.org.pl/judgments/182881
+saos_id|date|court|case_number|type|score|saos_url
+167876|2015-01-14|SN|V KK 400/14|Postanowienie|69|https://www.saos.org.pl/judgments/167876
+406706|2019-11-14|SO|II AKa 177/19|Wyrok|56|https://www.saos.org.pl/judgments/406706
+183066|2015-05-28|SO|II AKa 55/15|Wyrok|56|https://www.saos.org.pl/judgments/183066
+56229|2014-06-25|SO|I ACa 1613/13|Wyrok|56|https://www.saos.org.pl/judgments/56229
+137243|2012-12-21|SO|II AKa 271/12|Wyrok|56|https://www.saos.org.pl/judgments/137243
+182881|2010-05-20|SO|II AKa 105/10|Wyrok|56|https://www.saos.org.pl/judgments/182881
+491369|2023-06-22|SO|II AKa 125/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/491369
+288237|2017-05-26|SO|VI Ka 110/17|Wyrok|40|https://www.saos.org.pl/judgments/288237
+362884|2018-08-16|SO|V Ka 481/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/362884
+268816|2017-01-02|SO|V Ka 534/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/268816

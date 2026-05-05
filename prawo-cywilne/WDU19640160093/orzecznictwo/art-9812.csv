@@ -1,3 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-325095|2018-01-09|SO|I C 485/17|Zarządzenie|https://www.saos.org.pl/judgments/325095
-327692|2016-09-02|SO|I Ns 564/15|Uzasadnienie|https://www.saos.org.pl/judgments/327692
+saos_id|date|court|case_number|type|score|saos_url
+98703|2012-07-18|SN|III CZP 46/12|Uchwała|89|https://www.saos.org.pl/judgments/98703
+440536|2021-02-09|SO|I ACa 275/20|Wyrok|56|https://www.saos.org.pl/judgments/440536
+512862|2022-10-24|SO|VIII Ns 292/19|Postanowienie|31|https://www.saos.org.pl/judgments/512862
+453848|2021-11-10|SO|IV Ca 1883/19|Postanowienie|31|https://www.saos.org.pl/judgments/453848
+363070|2018-06-19|SO|XV Ca 1463/17|Postanowienie|31|https://www.saos.org.pl/judgments/363070
+346611|2018-06-19|SO|II Ns 1488/12|Postanowienie|31|https://www.saos.org.pl/judgments/346611
+458304|2021-07-08|SO|III Ca 2273/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/458304
+387613|2019-03-14|SO|III Ca 1626/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/387613
+351605|2018-05-14|SO|III Ca 1762/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/351605

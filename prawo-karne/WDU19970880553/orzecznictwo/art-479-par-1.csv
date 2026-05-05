@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-200060|2016-01-22|SO|XVII Ka 1186/15|Wyrok|https://www.saos.org.pl/judgments/200060
-74875|2014-11-21|SO|II K 975/14|Wyrok|https://www.saos.org.pl/judgments/74875
+saos_id|date|court|case_number|type|score|saos_url
+200060|2016-01-22|SO|XVII Ka 1186/15|Wyrok|40|https://www.saos.org.pl/judgments/200060

@@ -1,20 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-508188|2024-07-31|SO|IV Ka 430/24|Wyrok|https://www.saos.org.pl/judgments/508188
-481756|2022-10-21|SO|IV Ka 849/22|Uzasadnienie|https://www.saos.org.pl/judgments/481756
-446241|2021-05-17|SO|VI Ka 79/21|Wyrok|https://www.saos.org.pl/judgments/446241
-383299|2019-03-11|SO|II AKa 82/18|Uzasadnienie|https://www.saos.org.pl/judgments/383299
-367209|2018-12-07|SO|IV Ka 538/18|Uzasadnienie|https://www.saos.org.pl/judgments/367209
-371283|2018-09-28|SO|VI Ka 717/18|Wyrok|https://www.saos.org.pl/judgments/371283
-345232|2018-07-03|SO|II Ka 248/17|Uzasadnienie|https://www.saos.org.pl/judgments/345232
-342774|2018-05-09|SO|IV Ka 1601/17|Uzasadnienie|https://www.saos.org.pl/judgments/342774
-333652|2017-11-24|SO|VII Ka 852/17|Wyrok|https://www.saos.org.pl/judgments/333652
-278405|2016-12-06|SO|IV Ka 313/16|Wyrok|https://www.saos.org.pl/judgments/278405
-250968|2016-09-30|SO|VI Ka 320/16|Wyrok|https://www.saos.org.pl/judgments/250968
-233963|2016-05-10|SO|II AKa 18/16|Uzasadnienie|https://www.saos.org.pl/judgments/233963
-234264|2015-02-20|SO|X Ka 979/14|Wyrok|https://www.saos.org.pl/judgments/234264
-132749|2015-02-17|SO|IV Ka 1348/14|Wyrok|https://www.saos.org.pl/judgments/132749
-126682|2014-10-29|SO|II AKa 103/14|Wyrok|https://www.saos.org.pl/judgments/126682
-33748|2014-02-03|SO|V Ka 1643/13|Wyrok|https://www.saos.org.pl/judgments/33748
-140299|2013-08-21|SO|II AKa 233/13|Wyrok|https://www.saos.org.pl/judgments/140299
-18289|2013-07-02|SO|IX Ka 797/13|Wyrok|https://www.saos.org.pl/judgments/18289
-72562|2013-04-08|SO|X Ka 117/13|Uzasadnienie|https://www.saos.org.pl/judgments/72562
+saos_id|date|court|case_number|type|score|saos_url
+126682|2014-10-29|SO|II AKa 103/14|Wyrok|56|https://www.saos.org.pl/judgments/126682
+140299|2013-08-21|SO|II AKa 233/13|Wyrok|56|https://www.saos.org.pl/judgments/140299
+383299|2019-03-11|SO|II AKa 82/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/383299
+233963|2016-05-10|SO|II AKa 18/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/233963
+333652|2017-11-24|SO|VII Ka 852/17|Wyrok|40|https://www.saos.org.pl/judgments/333652
+250968|2016-09-30|SO|VI Ka 320/16|Wyrok|40|https://www.saos.org.pl/judgments/250968
+33748|2014-02-03|SO|V Ka 1643/13|Wyrok|40|https://www.saos.org.pl/judgments/33748
+342774|2018-05-09|SO|IV Ka 1601/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/342774

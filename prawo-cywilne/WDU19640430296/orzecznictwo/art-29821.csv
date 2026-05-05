@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-258648|2016-09-15|SO|I ACa 1556/15|Wyrok|https://www.saos.org.pl/judgments/258648
-240392|2016-04-11|SO|II Ca 146/16|Postanowienie|https://www.saos.org.pl/judgments/240392
+saos_id|date|court|case_number|type|score|saos_url
+258648|2016-09-15|SO|I ACa 1556/15|Wyrok|56|https://www.saos.org.pl/judgments/258648

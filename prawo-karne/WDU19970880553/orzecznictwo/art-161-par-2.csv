@@ -1,18 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-538899|2025-04-28|SO|II K 1037/24|Uzasadnienie|https://www.saos.org.pl/judgments/538899
-538898|2025-04-28|SO|II K 1037/24|Wyrok|https://www.saos.org.pl/judgments/538898
-523749|2025-01-30|SO|III K 157/21|Wyrok|https://www.saos.org.pl/judgments/523749
-500913|2023-12-21|SO|II AKa 307/22|Uzasadnienie|https://www.saos.org.pl/judgments/500913
-490733|2023-06-06|SO|IV P 14/22|Wyrok|https://www.saos.org.pl/judgments/490733
-451166|2021-11-24|SO|IV K 244/20|Uzasadnienie|https://www.saos.org.pl/judgments/451166
-451165|2021-11-08|SO|IV K 244/20|Wyrok|https://www.saos.org.pl/judgments/451165
-390207|2019-06-28|SO|VI Ka 462/19|Wyrok|https://www.saos.org.pl/judgments/390207
-317420|2017-06-07|SO|II K 16/17|Wyrok|https://www.saos.org.pl/judgments/317420
-291760|2017-05-04|SO|XVIII C 824/16|Wyrok|https://www.saos.org.pl/judgments/291760
-288440|2017-04-13|SO|II K 514/15|Wyrok|https://www.saos.org.pl/judgments/288440
-258868|2016-10-13|SO|II AKa 55/15|Wyrok|https://www.saos.org.pl/judgments/258868
-231520|2016-05-20|SO|IV Ka 229/16|Wyrok|https://www.saos.org.pl/judgments/231520
-288439|2016-04-28|SO|II K 514/15|Wyrok|https://www.saos.org.pl/judgments/288439
-174169|2015-07-17|SO|II K 262/15|Wyrok|https://www.saos.org.pl/judgments/174169
-345674|2014-02-27|SO|II K 105/12|Wyrok|https://www.saos.org.pl/judgments/345674
-103328|2013-10-30|SN|II KO 10/13|Postanowienie|https://www.saos.org.pl/judgments/103328
+saos_id|date|court|case_number|type|score|saos_url
+103328|2013-10-30|SN|II KO 10/13|Postanowienie|69|https://www.saos.org.pl/judgments/103328
+258868|2016-10-13|SO|II AKa 55/15|Wyrok|56|https://www.saos.org.pl/judgments/258868
+500913|2023-12-21|SO|II AKa 307/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/500913
+538898|2025-04-28|SO|II K 1037/24|Wyrok|40|https://www.saos.org.pl/judgments/538898
+451165|2021-11-08|SO|IV K 244/20|Wyrok|40|https://www.saos.org.pl/judgments/451165
+390207|2019-06-28|SO|VI Ka 462/19|Wyrok|40|https://www.saos.org.pl/judgments/390207
+291760|2017-05-04|SO|XVIII C 824/16|Wyrok|40|https://www.saos.org.pl/judgments/291760
+174169|2015-07-17|SO|II K 262/15|Wyrok|40|https://www.saos.org.pl/judgments/174169
+345674|2014-02-27|SO|II K 105/12|Wyrok|40|https://www.saos.org.pl/judgments/345674
+538899|2025-04-28|SO|II K 1037/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/538899
+451166|2021-11-24|SO|IV K 244/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/451166

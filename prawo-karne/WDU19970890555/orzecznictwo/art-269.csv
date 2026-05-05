@@ -1,14 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-364648|2018-11-06|SO|XI W 3386/17|Wyrok|https://www.saos.org.pl/judgments/364648
-304958|2017-07-03|SO|II AKz 158/17|Postanowienie|https://www.saos.org.pl/judgments/304958
-247081|2016-06-29|SO|VI Ka 441/16|Wyrok|https://www.saos.org.pl/judgments/247081
-244681|2016-02-25|SN|I KZP 18/15|Postanowienie|https://www.saos.org.pl/judgments/244681
-152694|2015-03-27|SO|I ACa 84/15|Wyrok|https://www.saos.org.pl/judgments/152694
-183570|2015-01-29|SO|II K 1086/13|Postanowienie|https://www.saos.org.pl/judgments/183570
-258540|2014-07-10|SO|X Ka 516/14|Wyrok|https://www.saos.org.pl/judgments/258540
-47307|2014-05-26|SO|V Kz 312/14|Uzasadnienie|https://www.saos.org.pl/judgments/47307
-9192|2013-03-25|SO|IV Kz 114/13|Postanowienie|https://www.saos.org.pl/judgments/9192
-99489|2012-10-25|SN|IV KK 226/12|Postanowienie|https://www.saos.org.pl/judgments/99489
-24638|2012-07-11|SO|I ACa 364/12|Wyrok|https://www.saos.org.pl/judgments/24638
-87041|2008-01-08|SN|V KK 416/07|Postanowienie|https://www.saos.org.pl/judgments/87041
-79478|2000-01-13|SN|III RN 116/99|Wyrok|https://www.saos.org.pl/judgments/79478
+saos_id|date|court|case_number|type|score|saos_url
+79478|2000-01-13|SN|III RN 116/99|Wyrok|78|https://www.saos.org.pl/judgments/79478
+244681|2016-02-25|SN|I KZP 18/15|Postanowienie|76|https://www.saos.org.pl/judgments/244681
+99489|2012-10-25|SN|IV KK 226/12|Postanowienie|69|https://www.saos.org.pl/judgments/99489
+87041|2008-01-08|SN|V KK 416/07|Postanowienie|69|https://www.saos.org.pl/judgments/87041
+152694|2015-03-27|SO|I ACa 84/15|Wyrok|56|https://www.saos.org.pl/judgments/152694
+24638|2012-07-11|SO|I ACa 364/12|Wyrok|56|https://www.saos.org.pl/judgments/24638
+304958|2017-07-03|SO|II AKz 158/17|Postanowienie|47|https://www.saos.org.pl/judgments/304958
+47307|2014-05-26|SO|V Kz 312/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/47307

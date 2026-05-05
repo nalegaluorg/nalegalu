@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-527234|2025-04-02|SO|III AUa 584/24|Wyrok|https://www.saos.org.pl/judgments/527234
-41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|https://www.saos.org.pl/judgments/41315
-16159|2013-07-05|SO|V ACz 634/13|Postanowienie|https://www.saos.org.pl/judgments/16159
-3161|2012-11-14|SO|I ACa 808/12|Wyrok|https://www.saos.org.pl/judgments/3161
+saos_id|date|court|case_number|type|score|saos_url
+527234|2025-04-02|SO|III AUa 584/24|Wyrok|56|https://www.saos.org.pl/judgments/527234
+3161|2012-11-14|SO|I ACa 808/12|Wyrok|56|https://www.saos.org.pl/judgments/3161
+16159|2013-07-05|SO|V ACz 634/13|Postanowienie|47|https://www.saos.org.pl/judgments/16159
+41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/41315

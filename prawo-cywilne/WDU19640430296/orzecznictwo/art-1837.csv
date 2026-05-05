@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-488389|2020-08-03|SO|X GC 138/20|Zarządzenie|https://www.saos.org.pl/judgments/488389
-288500|2017-05-24|SO|IX Ca 1017/16|Wyrok|https://www.saos.org.pl/judgments/288500
-240618|2016-08-18|SO|X GC 444/16|Zarządzenie|https://www.saos.org.pl/judgments/240618
-91839|2010-02-10|SN|II UZP 11/09|Uchwała|https://www.saos.org.pl/judgments/91839
+saos_id|date|court|case_number|type|score|saos_url
+91839|2010-02-10|SN|II UZP 11/09|Uchwała|89|https://www.saos.org.pl/judgments/91839
+488389|2020-08-03|SO|X GC 138/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488389
+240618|2016-08-18|SO|X GC 444/16|Zarządzenie|27|https://www.saos.org.pl/judgments/240618

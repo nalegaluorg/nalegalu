@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-169811|2013-11-26|SO|II AKzw 1282/13|Postanowienie|https://www.saos.org.pl/judgments/169811
-138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|https://www.saos.org.pl/judgments/138247
+saos_id|date|court|case_number|type|score|saos_url
+169811|2013-11-26|SO|II AKzw 1282/13|Postanowienie|47|https://www.saos.org.pl/judgments/169811
+138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|47|https://www.saos.org.pl/judgments/138247

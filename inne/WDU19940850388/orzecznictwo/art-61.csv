@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-377836|2018-01-19|SO|II Ca 1016/17|Wyrok|https://www.saos.org.pl/judgments/377836
+saos_id|date|court|case_number|type|score|saos_url
+377836|2018-01-19|SO|II Ca 1016/17|Wyrok|40|https://www.saos.org.pl/judgments/377836

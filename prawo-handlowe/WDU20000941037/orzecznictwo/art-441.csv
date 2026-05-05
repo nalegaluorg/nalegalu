@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-364695|2018-12-06|SO|V AGz 681/18|Postanowienie|https://www.saos.org.pl/judgments/364695
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-65220|2014-09-09|SO|IV Ka 497/14|Wyrok|https://www.saos.org.pl/judgments/65220
-45753|2014-04-02|SO|II K 292/13|Wyrok|https://www.saos.org.pl/judgments/45753
+saos_id|date|court|case_number|type|score|saos_url
+364695|2018-12-06|SO|V AGz 681/18|Postanowienie|47|https://www.saos.org.pl/judgments/364695
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

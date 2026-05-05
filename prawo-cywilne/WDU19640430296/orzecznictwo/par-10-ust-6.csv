@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-526940|2024-12-19|SO|I ACa 188/22|Wyrok|https://www.saos.org.pl/judgments/526940
-528531|2024-08-06|SO|I ACa 944/22|Wyrok|https://www.saos.org.pl/judgments/528531
+saos_id|date|court|case_number|type|score|saos_url
+526940|2024-12-19|SO|I ACa 188/22|Wyrok|56|https://www.saos.org.pl/judgments/526940
+528531|2024-08-06|SO|I ACa 944/22|Wyrok|56|https://www.saos.org.pl/judgments/528531

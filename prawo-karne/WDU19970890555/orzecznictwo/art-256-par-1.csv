@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-352322|2018-05-30|SO|II AKa 432/17|Wyrok|https://www.saos.org.pl/judgments/352322
-33622|2013-12-13|SO|V P 3/13|Wyrok|https://www.saos.org.pl/judgments/33622
-77964|1997-12-04|SN|I PKN 418/97|Wyrok|https://www.saos.org.pl/judgments/77964
+saos_id|date|court|case_number|type|score|saos_url
+77964|1997-12-04|SN|I PKN 418/97|Wyrok|78|https://www.saos.org.pl/judgments/77964
+352322|2018-05-30|SO|II AKa 432/17|Wyrok|56|https://www.saos.org.pl/judgments/352322
+33622|2013-12-13|SO|V P 3/13|Wyrok|40|https://www.saos.org.pl/judgments/33622

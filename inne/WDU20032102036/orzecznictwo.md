@@ -6,6 +6,6 @@ Orzeczenia powołujące: *Ustawa z dnia 29 października 2003 o zmianie ustawy o
 
 ## art. 1 (2)
 
-- 2013-08-20 | SN | [WA 16/13](https://www.saos.org.pl/judgments/102709) | Wyrok
-- 2005-09-29 | SN | [I UK 13/05](https://www.saos.org.pl/judgments/83742) | Wyrok
+- 2013-08-20 | SN | [WA 16/13](https://www.saos.org.pl/judgments/102709) | Wyrok ★
+- 2005-09-29 | SN | [I UK 13/05](https://www.saos.org.pl/judgments/83742) | Wyrok ★
 

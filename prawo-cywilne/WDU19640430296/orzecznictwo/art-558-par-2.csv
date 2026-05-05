@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-463144|2022-02-07|SO|I ACa 855/19|Postanowienie|https://www.saos.org.pl/judgments/463144
-434703|2020-03-04|SO|I ACa 383/19|Postanowienie|https://www.saos.org.pl/judgments/434703
+saos_id|date|court|case_number|type|score|saos_url
+463144|2022-02-07|SO|I ACa 855/19|Postanowienie|47|https://www.saos.org.pl/judgments/463144
+434703|2020-03-04|SO|I ACa 383/19|Postanowienie|47|https://www.saos.org.pl/judgments/434703

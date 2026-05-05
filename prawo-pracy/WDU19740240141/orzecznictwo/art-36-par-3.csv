@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-487358|2022-05-04|SO|IV P 56/21|Wyrok|https://www.saos.org.pl/judgments/487358
-426002|2020-12-07|SO|VIII Pa 137/19|Uzasadnienie|https://www.saos.org.pl/judgments/426002
-406192|2020-02-11|SO|VIII Pa 42/19|Uzasadnienie|https://www.saos.org.pl/judgments/406192
-404760|2020-01-15|SO|IV Pa 93/19|Wyrok|https://www.saos.org.pl/judgments/404760
-326733|2017-06-13|SO|IX P 399/16|Zarządzenie|https://www.saos.org.pl/judgments/326733
-187850|2015-10-19|SO|VI P 14/15|Wyrok|https://www.saos.org.pl/judgments/187850
-153697|2015-04-10|SO|VI Pa 18/15|Wyrok|https://www.saos.org.pl/judgments/153697
-76511|1994-04-20|SN|I PZP 19/94|Uchwała|https://www.saos.org.pl/judgments/76511
+saos_id|date|court|case_number|type|score|saos_url
+76511|1994-04-20|SN|I PZP 19/94|Uchwała|89|https://www.saos.org.pl/judgments/76511
+404760|2020-01-15|SO|IV Pa 93/19|Wyrok|40|https://www.saos.org.pl/judgments/404760
+426002|2020-12-07|SO|VIII Pa 137/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/426002
+406192|2020-02-11|SO|VIII Pa 42/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/406192

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-494090|2023-12-19|SO|I ACa 346/22|Wyrok|https://www.saos.org.pl/judgments/494090
-91353|2009-11-24|SN|V CSK 71/09|Wyrok|https://www.saos.org.pl/judgments/91353
-88807|2008-10-02|SN|II CSK 182/08|Wyrok|https://www.saos.org.pl/judgments/88807
-78815|1999-01-26|SN|I PKN 534/97|Wyrok|https://www.saos.org.pl/judgments/78815
+saos_id|date|court|case_number|type|score|saos_url
+91353|2009-11-24|SN|V CSK 71/09|Wyrok|78|https://www.saos.org.pl/judgments/91353
+88807|2008-10-02|SN|II CSK 182/08|Wyrok|78|https://www.saos.org.pl/judgments/88807
+78815|1999-01-26|SN|I PKN 534/97|Wyrok|78|https://www.saos.org.pl/judgments/78815
+494090|2023-12-19|SO|I ACa 346/22|Wyrok|56|https://www.saos.org.pl/judgments/494090

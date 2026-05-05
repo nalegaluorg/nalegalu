@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-378446|2019-03-20|SO|III APa 1/19|Wyrok|https://www.saos.org.pl/judgments/378446
+saos_id|date|court|case_number|type|score|saos_url
+378446|2019-03-20|SO|III APa 1/19|Wyrok|56|https://www.saos.org.pl/judgments/378446

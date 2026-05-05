@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-73733|2014-11-18|SO|VI Ka 451/14|Wyrok|https://www.saos.org.pl/judgments/73733
-175895|2007-05-31|SO|II AKa 162/07|Wyrok|https://www.saos.org.pl/judgments/175895
+saos_id|date|court|case_number|type|score|saos_url
+175895|2007-05-31|SO|II AKa 162/07|Wyrok|56|https://www.saos.org.pl/judgments/175895

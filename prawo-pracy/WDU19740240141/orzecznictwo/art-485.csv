@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-259093|2016-11-09|SO|IV Pa 36/16|Wyrok|https://www.saos.org.pl/judgments/259093
-135057|2015-03-27|SO|VI Gz 77/15|Postanowienie|https://www.saos.org.pl/judgments/135057
-86779|2007-10-29|SN|II PK 56/07|Wyrok|https://www.saos.org.pl/judgments/86779
+saos_id|date|court|case_number|type|score|saos_url
+86779|2007-10-29|SN|II PK 56/07|Wyrok|78|https://www.saos.org.pl/judgments/86779
+135057|2015-03-27|SO|VI Gz 77/15|Postanowienie|31|https://www.saos.org.pl/judgments/135057

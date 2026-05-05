@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-275880|2017-02-08|SO|I ACa 968/16|Wyrok|https://www.saos.org.pl/judgments/275880
-268578|2016-12-14|SO|III Ca 1327/16|Wyrok|https://www.saos.org.pl/judgments/268578
-257817|2016-11-03|SO|VIII GC 228/16|Wyrok|https://www.saos.org.pl/judgments/257817
-228073|2016-04-14|SO|II C 1589/13|Uzasadnienie|https://www.saos.org.pl/judgments/228073
-87709|2008-03-27|SN|III CSK 329/07|Wyrok|https://www.saos.org.pl/judgments/87709
+saos_id|date|court|case_number|type|score|saos_url
+87709|2008-03-27|SN|III CSK 329/07|Wyrok|78|https://www.saos.org.pl/judgments/87709
+275880|2017-02-08|SO|I ACa 968/16|Wyrok|56|https://www.saos.org.pl/judgments/275880
+228073|2016-04-14|SO|II C 1589/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/228073

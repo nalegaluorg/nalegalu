@@ -1,3 +1,32 @@
-saos_id|date|court|case_number|type|saos_url
-491914|2019-06-14|SO|I C 167/12|Wyrok|https://www.saos.org.pl/judgments/491914
-430967|2019-03-22|SO|VI GC 603/18|Uzasadnienie|https://www.saos.org.pl/judgments/430967
+saos_id|date|court|case_number|type|score|saos_url
+88647|2008-09-05|SN|I CSK 51/08|Wyrok|78|https://www.saos.org.pl/judgments/88647
+163726|2005-11-09|SN|II CSK 6/05|Wyrok|78|https://www.saos.org.pl/judgments/163726
+163587|2005-10-05|SN|II CK 757/04|Wyrok|78|https://www.saos.org.pl/judgments/163587
+82948|2004-10-28|SN|III CK 461/03|Wyrok|78|https://www.saos.org.pl/judgments/82948
+541070|2024-05-22|SO|V ACa 137/22|Wyrok|56|https://www.saos.org.pl/judgments/541070
+469660|2022-05-25|SO|V ACa 360/19|Wyrok|56|https://www.saos.org.pl/judgments/469660
+467787|2022-01-12|SO|V ACa 589/21|Wyrok|56|https://www.saos.org.pl/judgments/467787
+417046|2020-03-25|SO|I ACa 763/18|Wyrok|56|https://www.saos.org.pl/judgments/417046
+383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|56|https://www.saos.org.pl/judgments/383740
+365338|2018-10-15|SO|VI ACa 942/17|Wyrok|56|https://www.saos.org.pl/judgments/365338
+346061|2018-03-29|SO|I ACa 1990/16|Wyrok|56|https://www.saos.org.pl/judgments/346061
+347944|2018-03-07|SO|V ACa 676/13|Wyrok|56|https://www.saos.org.pl/judgments/347944
+235182|2016-05-19|SO|I ACa 146/16|Wyrok|56|https://www.saos.org.pl/judgments/235182
+51204|2014-05-16|SO|I ACa 113/14|Wyrok|56|https://www.saos.org.pl/judgments/51204
+43479|2014-01-22|SO|I ACa 728/13|Wyrok|56|https://www.saos.org.pl/judgments/43479
+20850|2013-07-18|SO|I ACa 289/13|Wyrok|56|https://www.saos.org.pl/judgments/20850
+22502|2013-06-28|SO|VI ACa 1629/12|Wyrok|56|https://www.saos.org.pl/judgments/22502
+6955|2013-02-27|SO|I ACa 1156/12|Wyrok|56|https://www.saos.org.pl/judgments/6955
+12031|2013-02-14|SO|VI ACa 1045/12|Wyrok|56|https://www.saos.org.pl/judgments/12031
+9288|2012-06-20|SO|I ACa 1147/11|Wyrok|56|https://www.saos.org.pl/judgments/9288
+347158|2018-01-16|SO|XV Ca 925/17|Wyrok|40|https://www.saos.org.pl/judgments/347158
+288140|2016-03-18|SO|V C 852/13|Wyrok|40|https://www.saos.org.pl/judgments/288140
+134655|2015-02-10|SO|II C 759/13|Wyrok|40|https://www.saos.org.pl/judgments/134655
+127792|2015-01-27|SO|I C 259/14|Wyrok|40|https://www.saos.org.pl/judgments/127792
+143768|2013-12-19|SO|I C 1606/12|Wyrok|40|https://www.saos.org.pl/judgments/143768
+446869|2021-04-15|SO|II Ca 2130/20|Postanowienie|31|https://www.saos.org.pl/judgments/446869
+397529|2019-04-26|SO|XV Ca 521/18|Postanowienie|31|https://www.saos.org.pl/judgments/397529
+360048|2018-10-13|SO|VII Ca 473/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/360048
+300385|2017-07-05|SO|III Ca 1549/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/300385
+49282|2014-04-23|SO|III Ca 1507/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/49282
+45259|2014-03-31|SO|III Ca 328/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/45259

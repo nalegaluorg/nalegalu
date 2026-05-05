@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-375092|2018-12-07|SO|VI Ka 760/18|Wyrok|https://www.saos.org.pl/judgments/375092
-393166|2018-05-04|SO|II K 197/17|Wyrok|https://www.saos.org.pl/judgments/393166
-355591|2018-03-28|SO|III K 150/17|Wyrok|https://www.saos.org.pl/judgments/355591
-126682|2014-10-29|SO|II AKa 103/14|Wyrok|https://www.saos.org.pl/judgments/126682
-25760|2013-05-24|SO|VIII Pa 18/13|Wyrok|https://www.saos.org.pl/judgments/25760
+saos_id|date|court|case_number|type|score|saos_url
+126682|2014-10-29|SO|II AKa 103/14|Wyrok|56|https://www.saos.org.pl/judgments/126682
+393166|2018-05-04|SO|II K 197/17|Wyrok|40|https://www.saos.org.pl/judgments/393166

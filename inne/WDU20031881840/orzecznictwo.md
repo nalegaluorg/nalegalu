@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 2 października 2003 r. o zmianie ustawy
 
 ## art. 3 (1)
 
-- 2014-07-22 | TK | [Ts 230/13](https://www.saos.org.pl/judgments/160347) | Postanowienie
+- 2014-07-22 | TK | [Ts 230/13](https://www.saos.org.pl/judgments/160347) | Postanowienie ★
 
 ## art. 7 (1)
 

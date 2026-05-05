@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-379945|2018-08-23|SO|VI Ga 94/18|Postanowienie|https://www.saos.org.pl/judgments/379945
-131142|2015-02-04|SO|X Ga 729/14|Postanowienie|https://www.saos.org.pl/judgments/131142
+saos_id|date|court|case_number|type|score|saos_url
+379945|2018-08-23|SO|VI Ga 94/18|Postanowienie|31|https://www.saos.org.pl/judgments/379945
+131142|2015-02-04|SO|X Ga 729/14|Postanowienie|31|https://www.saos.org.pl/judgments/131142

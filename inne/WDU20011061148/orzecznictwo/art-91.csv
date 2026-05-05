@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-520546|2024-12-19|SO|II Ka 302/24|Uzasadnienie|https://www.saos.org.pl/judgments/520546
-508863|2024-01-08|SO|IV Pa 54/23|Wyrok|https://www.saos.org.pl/judgments/508863
-158238|2015-06-08|SO|IV Ka 481/15|Wyrok|https://www.saos.org.pl/judgments/158238
-158230|2015-06-01|SO|IV Ka 450/15|Wyrok|https://www.saos.org.pl/judgments/158230
+saos_id|date|court|case_number|type|score|saos_url
+158238|2015-06-08|SO|IV Ka 481/15|Wyrok|40|https://www.saos.org.pl/judgments/158238
+158230|2015-06-01|SO|IV Ka 450/15|Wyrok|40|https://www.saos.org.pl/judgments/158230

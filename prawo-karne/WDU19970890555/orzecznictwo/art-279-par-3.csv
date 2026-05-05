@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-493515|2022-06-30|SO|I ACa 1288/20|Wyrok|https://www.saos.org.pl/judgments/493515
-418113|2020-08-19|SO|V Kz 694/20|Postanowienie|https://www.saos.org.pl/judgments/418113
-402390|2018-03-06|SO|VIII Ko 2/17|Wyrok|https://www.saos.org.pl/judgments/402390
-230804|2016-06-10|SO|II AKz 199/16|Postanowienie|https://www.saos.org.pl/judgments/230804
+saos_id|date|court|case_number|type|score|saos_url
+493515|2022-06-30|SO|I ACa 1288/20|Wyrok|56|https://www.saos.org.pl/judgments/493515
+230804|2016-06-10|SO|II AKz 199/16|Postanowienie|47|https://www.saos.org.pl/judgments/230804
+418113|2020-08-19|SO|V Kz 694/20|Postanowienie|31|https://www.saos.org.pl/judgments/418113

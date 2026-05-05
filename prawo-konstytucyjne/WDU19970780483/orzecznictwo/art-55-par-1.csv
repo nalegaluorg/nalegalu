@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-218748|2016-04-25|SO|VII Ka 200/16|Uzasadnienie|https://www.saos.org.pl/judgments/218748
-126171|2014-12-09|SO|III AUa 639/14|Wyrok|https://www.saos.org.pl/judgments/126171
+saos_id|date|court|case_number|type|score|saos_url
+126171|2014-12-09|SO|III AUa 639/14|Wyrok|56|https://www.saos.org.pl/judgments/126171
+218748|2016-04-25|SO|VII Ka 200/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/218748

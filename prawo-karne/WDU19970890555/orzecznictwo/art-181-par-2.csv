@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-514447|2023-12-20|SO|X Ka 613/23|Wyrok|https://www.saos.org.pl/judgments/514447
-183946|2015-10-15|SO|II Ka 337/15|Wyrok|https://www.saos.org.pl/judgments/183946
-182957|2015-10-06|SO|II AKa 199/15|Wyrok|https://www.saos.org.pl/judgments/182957
-206889|2015-06-10|TK|Ts 104/14|Postanowienie|https://www.saos.org.pl/judgments/206889
-72036|2014-11-12|SO|II AKa 195/14|Wyrok|https://www.saos.org.pl/judgments/72036
-141900|2013-11-26|SO|II AKa 364/13|Wyrok|https://www.saos.org.pl/judgments/141900
-136377|2012-12-14|SO|II AKa 324/12|Wyrok|https://www.saos.org.pl/judgments/136377
-111006|2012-07-10|TK|SK 25/10|Postanowienie|https://www.saos.org.pl/judgments/111006
-91909|2010-02-24|SN|I KZP 34/09|Uchwała|https://www.saos.org.pl/judgments/91909
-90932|2009-09-30|SN|I KZP 13/09|Postanowienie|https://www.saos.org.pl/judgments/90932
-89129|2008-11-05|SN|V KK 146/08|Wyrok|https://www.saos.org.pl/judgments/89129
+saos_id|date|court|case_number|type|score|saos_url
+91909|2010-02-24|SN|I KZP 34/09|Uchwała|96|https://www.saos.org.pl/judgments/91909
+206889|2015-06-10|TK|Ts 104/14|Postanowienie|80|https://www.saos.org.pl/judgments/206889
+111006|2012-07-10|TK|SK 25/10|Postanowienie|80|https://www.saos.org.pl/judgments/111006
+89129|2008-11-05|SN|V KK 146/08|Wyrok|78|https://www.saos.org.pl/judgments/89129
+90932|2009-09-30|SN|I KZP 13/09|Postanowienie|69|https://www.saos.org.pl/judgments/90932
+182957|2015-10-06|SO|II AKa 199/15|Wyrok|56|https://www.saos.org.pl/judgments/182957
+72036|2014-11-12|SO|II AKa 195/14|Wyrok|56|https://www.saos.org.pl/judgments/72036
+141900|2013-11-26|SO|II AKa 364/13|Wyrok|56|https://www.saos.org.pl/judgments/141900
+136377|2012-12-14|SO|II AKa 324/12|Wyrok|56|https://www.saos.org.pl/judgments/136377
+183946|2015-10-15|SO|II Ka 337/15|Wyrok|40|https://www.saos.org.pl/judgments/183946

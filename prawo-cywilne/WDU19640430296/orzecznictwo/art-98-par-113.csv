@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-475020|2022-06-23|SO|III Ca 945/21|Uzasadnienie|https://www.saos.org.pl/judgments/475020
-204423|2016-01-07|SO|I C 781/15|Wyrok|https://www.saos.org.pl/judgments/204423
-187049|2015-08-26|SO|V ACa 237/15|Wyrok|https://www.saos.org.pl/judgments/187049
+saos_id|date|court|case_number|type|score|saos_url
+187049|2015-08-26|SO|V ACa 237/15|Wyrok|56|https://www.saos.org.pl/judgments/187049
+475020|2022-06-23|SO|III Ca 945/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/475020

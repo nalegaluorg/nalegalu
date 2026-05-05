@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-477123|2022-11-02|SO|II Ka 294/22|Uzasadnienie|https://www.saos.org.pl/judgments/477123
-331081|2018-01-09|SO|VII Ka 980/17|Wyrok|https://www.saos.org.pl/judgments/331081
+saos_id|date|court|case_number|type|score|saos_url
+331081|2018-01-09|SO|VII Ka 980/17|Wyrok|40|https://www.saos.org.pl/judgments/331081

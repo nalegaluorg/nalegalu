@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-103558|2013-11-14|SN|IV CZ 79/13|Postanowienie|https://www.saos.org.pl/judgments/103558
-92278|2010-05-21|SN|II CSK 564/09|Wyrok|https://www.saos.org.pl/judgments/92278
+saos_id|date|court|case_number|type|score|saos_url
+92278|2010-05-21|SN|II CSK 564/09|Wyrok|78|https://www.saos.org.pl/judgments/92278
+103558|2013-11-14|SN|IV CZ 79/13|Postanowienie|69|https://www.saos.org.pl/judgments/103558

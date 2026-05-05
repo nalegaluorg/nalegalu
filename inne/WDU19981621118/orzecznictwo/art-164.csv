@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
-1835|2012-02-23|SO|III AUa 1656/11|Wyrok|https://www.saos.org.pl/judgments/1835
-79831|2000-07-06|SN|III ZP 9/00|Uchwała|https://www.saos.org.pl/judgments/79831
+saos_id|date|court|case_number|type|score|saos_url
+79831|2000-07-06|SN|III ZP 9/00|Uchwała|96|https://www.saos.org.pl/judgments/79831
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336
+1835|2012-02-23|SO|III AUa 1656/11|Wyrok|56|https://www.saos.org.pl/judgments/1835

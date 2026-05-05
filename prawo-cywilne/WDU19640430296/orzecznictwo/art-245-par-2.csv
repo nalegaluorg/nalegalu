@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-384521|2019-05-09|SO|I Ns 419/15|Postanowienie|https://www.saos.org.pl/judgments/384521
-367307|2018-11-23|SO|I ACa 1301/17|Wyrok|https://www.saos.org.pl/judgments/367307
-184082|2015-04-01|SO|III AUa 1017/14|Wyrok|https://www.saos.org.pl/judgments/184082
-66087|2014-10-09|SO|I ACa 349/14|Wyrok|https://www.saos.org.pl/judgments/66087
-94524|2011-03-25|SN|IV CSK 377/10|Wyrok|https://www.saos.org.pl/judgments/94524
-164220|2006-04-19|SN|V CSK 193/05|Wyrok|https://www.saos.org.pl/judgments/164220
+saos_id|date|court|case_number|type|score|saos_url
+94524|2011-03-25|SN|IV CSK 377/10|Wyrok|78|https://www.saos.org.pl/judgments/94524
+164220|2006-04-19|SN|V CSK 193/05|Wyrok|78|https://www.saos.org.pl/judgments/164220
+367307|2018-11-23|SO|I ACa 1301/17|Wyrok|56|https://www.saos.org.pl/judgments/367307
+184082|2015-04-01|SO|III AUa 1017/14|Wyrok|56|https://www.saos.org.pl/judgments/184082
+66087|2014-10-09|SO|I ACa 349/14|Wyrok|56|https://www.saos.org.pl/judgments/66087

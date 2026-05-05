@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-439342|2021-04-22|SO|X GC 198/21|Zarządzenie|https://www.saos.org.pl/judgments/439342
-308323|2017-06-29|SO|I ACa 585/16|Wyrok|https://www.saos.org.pl/judgments/308323
-240712|2016-03-08|SO|I ACa 921/15|Wyrok|https://www.saos.org.pl/judgments/240712
-58907|2013-12-17|SO|I ACz 2109/13|Postanowienie|https://www.saos.org.pl/judgments/58907
+saos_id|date|court|case_number|type|score|saos_url
+308323|2017-06-29|SO|I ACa 585/16|Wyrok|56|https://www.saos.org.pl/judgments/308323
+240712|2016-03-08|SO|I ACa 921/15|Wyrok|56|https://www.saos.org.pl/judgments/240712
+58907|2013-12-17|SO|I ACz 2109/13|Postanowienie|47|https://www.saos.org.pl/judgments/58907
+439342|2021-04-22|SO|X GC 198/21|Zarządzenie|27|https://www.saos.org.pl/judgments/439342

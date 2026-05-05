@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-520689|2025-01-21|SO|IX P 717/20|Zarządzenie|https://www.saos.org.pl/judgments/520689
-432617|2019-06-03|SO|VI P 225/17|Wyrok|https://www.saos.org.pl/judgments/432617
-96485|2011-12-09|SN|II PK 115/11|Wyrok|https://www.saos.org.pl/judgments/96485
-163720|2005-11-10|SN|V CK 371/05|Wyrok|https://www.saos.org.pl/judgments/163720
-76503|1994-04-12|SN|I PZP 13/94|Uchwała|https://www.saos.org.pl/judgments/76503
+saos_id|date|court|case_number|type|score|saos_url
+76503|1994-04-12|SN|I PZP 13/94|Uchwała|89|https://www.saos.org.pl/judgments/76503
+96485|2011-12-09|SN|II PK 115/11|Wyrok|78|https://www.saos.org.pl/judgments/96485
+163720|2005-11-10|SN|V CK 371/05|Wyrok|78|https://www.saos.org.pl/judgments/163720
+432617|2019-06-03|SO|VI P 225/17|Wyrok|40|https://www.saos.org.pl/judgments/432617

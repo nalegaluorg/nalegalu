@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-311209|2017-10-05|SO|II Ca 366/17|Wyrok|https://www.saos.org.pl/judgments/311209
-30843|2013-05-29|SO|I ACa 74/13|Wyrok|https://www.saos.org.pl/judgments/30843
+saos_id|date|court|case_number|type|score|saos_url
+30843|2013-05-29|SO|I ACa 74/13|Wyrok|56|https://www.saos.org.pl/judgments/30843

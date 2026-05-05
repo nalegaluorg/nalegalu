@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-528979|2024-03-22|SO|X S 30/24|Postanowienie|https://www.saos.org.pl/judgments/528979
-334711|2018-04-05|SO|VIII Gz 151/18|Postanowienie|https://www.saos.org.pl/judgments/334711
-288621|2017-06-08|SO|VIII Gz 33/17|Postanowienie|https://www.saos.org.pl/judgments/288621
-240163|2016-07-18|SO|VI Gz 144/16|Postanowienie|https://www.saos.org.pl/judgments/240163
-229614|2016-06-20|SO|VI Pz 24/16|Postanowienie|https://www.saos.org.pl/judgments/229614
-154390|2015-05-07|SO|II C 623/14|Wyrok|https://www.saos.org.pl/judgments/154390
-202919|2015-04-24|SO|II Cz 549/15|Postanowienie|https://www.saos.org.pl/judgments/202919
-202918|2015-04-24|SO|II Cz 548/15|Postanowienie|https://www.saos.org.pl/judgments/202918
-64522|2014-10-13|SO|VII Pz 80/14|Uzasadnienie|https://www.saos.org.pl/judgments/64522
-62098|2014-09-26|SO|VII Pz 106/13|Zarządzenie|https://www.saos.org.pl/judgments/62098
+saos_id|date|court|case_number|type|score|saos_url
+154390|2015-05-07|SO|II C 623/14|Wyrok|40|https://www.saos.org.pl/judgments/154390
+240163|2016-07-18|SO|VI Gz 144/16|Postanowienie|31|https://www.saos.org.pl/judgments/240163
+64522|2014-10-13|SO|VII Pz 80/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/64522
+62098|2014-09-26|SO|VII Pz 106/13|Zarządzenie|27|https://www.saos.org.pl/judgments/62098

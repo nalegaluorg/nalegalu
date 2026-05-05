@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-423420|2019-11-27|SO|VII Pa 88/19|Wyrok|https://www.saos.org.pl/judgments/423420
-435629|2019-08-01|SO|VIII Pa 131/18|Wyrok|https://www.saos.org.pl/judgments/435629
-319725|2017-09-19|SO|VI Pa 50/17|Wyrok|https://www.saos.org.pl/judgments/319725
-174960|2015-06-19|SO|VI Pa 47/15|Wyrok|https://www.saos.org.pl/judgments/174960
-87171|2008-01-29|SN|I PK 196/07|Wyrok|https://www.saos.org.pl/judgments/87171
+saos_id|date|court|case_number|type|score|saos_url
+87171|2008-01-29|SN|I PK 196/07|Wyrok|78|https://www.saos.org.pl/judgments/87171
+423420|2019-11-27|SO|VII Pa 88/19|Wyrok|40|https://www.saos.org.pl/judgments/423420

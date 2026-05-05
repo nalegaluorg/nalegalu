@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-385413|2019-02-27|SO|III Ca 7/19|Uzasadnienie|https://www.saos.org.pl/judgments/385413
-356954|2018-09-25|SO|IX Ca 1168/18|Wyrok|https://www.saos.org.pl/judgments/356954
+saos_id|date|court|case_number|type|score|saos_url
+385413|2019-02-27|SO|III Ca 7/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/385413

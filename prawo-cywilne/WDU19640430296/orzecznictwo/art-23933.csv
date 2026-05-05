@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79068|1999-06-01|SN|II UZ 61/99|Postanowienie|https://www.saos.org.pl/judgments/79068
+saos_id|date|court|case_number|type|score|saos_url
+79068|1999-06-01|SN|II UZ 61/99|Postanowienie|69|https://www.saos.org.pl/judgments/79068

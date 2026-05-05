@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243118|2015-08-13|SN|I CSK 786/14|Wyrok|https://www.saos.org.pl/judgments/243118
-87168|2008-01-30|SN|I CSK 448/07|Postanowienie|https://www.saos.org.pl/judgments/87168
-79808|2000-06-30|SN|II UKN 620/99|Wyrok|https://www.saos.org.pl/judgments/79808
+saos_id|date|court|case_number|type|score|saos_url
+243118|2015-08-13|SN|I CSK 786/14|Wyrok|78|https://www.saos.org.pl/judgments/243118
+79808|2000-06-30|SN|II UKN 620/99|Wyrok|78|https://www.saos.org.pl/judgments/79808
+87168|2008-01-30|SN|I CSK 448/07|Postanowienie|69|https://www.saos.org.pl/judgments/87168

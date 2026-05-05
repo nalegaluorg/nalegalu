@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-139283|2013-07-01|SO|I Cz 274/13|Postanowienie|https://www.saos.org.pl/judgments/139283
-94207|2011-02-16|SN|I BP 10/10|Postanowienie|https://www.saos.org.pl/judgments/94207
+saos_id|date|court|case_number|type|score|saos_url
+94207|2011-02-16|SN|I BP 10/10|Postanowienie|69|https://www.saos.org.pl/judgments/94207
+139283|2013-07-01|SO|I Cz 274/13|Postanowienie|31|https://www.saos.org.pl/judgments/139283

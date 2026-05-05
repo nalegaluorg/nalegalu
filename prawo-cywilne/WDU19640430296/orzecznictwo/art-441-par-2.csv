@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-463985|2022-03-25|SO|II AKa 74/21|Wyrok|https://www.saos.org.pl/judgments/463985
-361201|2018-10-02|SO|I ACa 129/18|Wyrok|https://www.saos.org.pl/judgments/361201
-330405|2017-10-30|SO|I ACa 300/17|Wyrok|https://www.saos.org.pl/judgments/330405
-331303|2017-05-30|SO|I ACa 16/17|Wyrok|https://www.saos.org.pl/judgments/331303
-241078|2016-07-07|SO|XXIII Ga 505/16|Wyrok|https://www.saos.org.pl/judgments/241078
-258404|2015-11-23|SO|II C 217/14|Wyrok|https://www.saos.org.pl/judgments/258404
-628|2012-10-01|SO|I ACa 420/12|Wyrok|https://www.saos.org.pl/judgments/628
+saos_id|date|court|case_number|type|score|saos_url
+463985|2022-03-25|SO|II AKa 74/21|Wyrok|56|https://www.saos.org.pl/judgments/463985
+361201|2018-10-02|SO|I ACa 129/18|Wyrok|56|https://www.saos.org.pl/judgments/361201
+330405|2017-10-30|SO|I ACa 300/17|Wyrok|56|https://www.saos.org.pl/judgments/330405
+331303|2017-05-30|SO|I ACa 16/17|Wyrok|56|https://www.saos.org.pl/judgments/331303
+628|2012-10-01|SO|I ACa 420/12|Wyrok|56|https://www.saos.org.pl/judgments/628

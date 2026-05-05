@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-436592|2020-10-27|SO|II AKzw 1708/20|Postanowienie|https://www.saos.org.pl/judgments/436592
-46814|2014-05-06|SO|II Ka 24/14|Wyrok|https://www.saos.org.pl/judgments/46814
+saos_id|date|court|case_number|type|score|saos_url
+436592|2020-10-27|SO|II AKzw 1708/20|Postanowienie|47|https://www.saos.org.pl/judgments/436592

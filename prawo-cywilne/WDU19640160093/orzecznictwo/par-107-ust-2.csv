@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-530238|2025-07-09|SO|I C 2034/21|Zarządzenie|https://www.saos.org.pl/judgments/530238
-486348|2023-01-26|SO|II Ca 1814/22|Wyrok|https://www.saos.org.pl/judgments/486348
+saos_id|date|court|case_number|type|score|saos_url
+486348|2023-01-26|SO|II Ca 1814/22|Wyrok|40|https://www.saos.org.pl/judgments/486348

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-32246|2014-01-10|SO|III AUa 717/13|Postanowienie|https://www.saos.org.pl/judgments/32246
-14471|2013-06-06|SO|III AUa 255/13|Wyrok|https://www.saos.org.pl/judgments/14471
-13706|2013-06-06|SO|III AUa 144/13|Wyrok|https://www.saos.org.pl/judgments/13706
-13695|2013-05-28|SO|III AUa 1238/12|Wyrok|https://www.saos.org.pl/judgments/13695
-13700|2013-05-23|SO|III AUa 1316/12|Wyrok|https://www.saos.org.pl/judgments/13700
+saos_id|date|court|case_number|type|score|saos_url
+14471|2013-06-06|SO|III AUa 255/13|Wyrok|56|https://www.saos.org.pl/judgments/14471
+13706|2013-06-06|SO|III AUa 144/13|Wyrok|56|https://www.saos.org.pl/judgments/13706
+13695|2013-05-28|SO|III AUa 1238/12|Wyrok|56|https://www.saos.org.pl/judgments/13695
+13700|2013-05-23|SO|III AUa 1316/12|Wyrok|56|https://www.saos.org.pl/judgments/13700
+32246|2014-01-10|SO|III AUa 717/13|Postanowienie|47|https://www.saos.org.pl/judgments/32246

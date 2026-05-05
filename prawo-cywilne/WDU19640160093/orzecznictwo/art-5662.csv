@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-341924|2018-05-23|SO|IX Ca 1341/17|Wyrok|https://www.saos.org.pl/judgments/341924
-281424|2017-03-07|SO|I C 17/17|Wyrok|https://www.saos.org.pl/judgments/281424
+saos_id|date|court|case_number|type|score|saos_url
+281424|2017-03-07|SO|I C 17/17|Wyrok|40|https://www.saos.org.pl/judgments/281424

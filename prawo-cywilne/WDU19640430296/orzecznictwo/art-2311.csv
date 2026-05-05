@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-486324|2023-03-15|SO|I AGa 183/22|Wyrok|https://www.saos.org.pl/judgments/486324
-476973|2022-10-31|SO|VIII GC 237/22|Uzasadnienie|https://www.saos.org.pl/judgments/476973
-470311|2022-06-23|SO|VIII GC 62/22|Uzasadnienie|https://www.saos.org.pl/judgments/470311
-465017|2022-05-17|SO|VIII GC 238/21|Uzasadnienie|https://www.saos.org.pl/judgments/465017
+saos_id|date|court|case_number|type|score|saos_url
+486324|2023-03-15|SO|I AGa 183/22|Wyrok|56|https://www.saos.org.pl/judgments/486324

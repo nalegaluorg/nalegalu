@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-538131|2022-10-11|SO|XX GC 795/18|Wyrok|https://www.saos.org.pl/judgments/538131
-400524|2019-10-23|SO|III AUa 221/19|Wyrok|https://www.saos.org.pl/judgments/400524
-398206|2019-04-17|SO|IX GC 843/18|Wyrok|https://www.saos.org.pl/judgments/398206
-369788|2018-11-27|SO|VII AGa 2141/18|Wyrok|https://www.saos.org.pl/judgments/369788
-355708|2017-11-02|SO|III AUa 1924/16|Wyrok|https://www.saos.org.pl/judgments/355708
-39748|2013-07-04|SO|III APa 9/13|Wyrok|https://www.saos.org.pl/judgments/39748
-1246|2012-09-07|SO|I ACa 308/12|Wyrok|https://www.saos.org.pl/judgments/1246
-92696|2010-07-21|SN|III CZP 23/10|Uchwała|https://www.saos.org.pl/judgments/92696
-90046|2009-04-16|SN|I CSK 362/08|Wyrok|https://www.saos.org.pl/judgments/90046
+saos_id|date|court|case_number|type|score|saos_url
+92696|2010-07-21|SN|III CZP 23/10|Uchwała|89|https://www.saos.org.pl/judgments/92696
+90046|2009-04-16|SN|I CSK 362/08|Wyrok|78|https://www.saos.org.pl/judgments/90046
+400524|2019-10-23|SO|III AUa 221/19|Wyrok|56|https://www.saos.org.pl/judgments/400524
+369788|2018-11-27|SO|VII AGa 2141/18|Wyrok|56|https://www.saos.org.pl/judgments/369788
+355708|2017-11-02|SO|III AUa 1924/16|Wyrok|56|https://www.saos.org.pl/judgments/355708
+39748|2013-07-04|SO|III APa 9/13|Wyrok|56|https://www.saos.org.pl/judgments/39748
+1246|2012-09-07|SO|I ACa 308/12|Wyrok|56|https://www.saos.org.pl/judgments/1246
+398206|2019-04-17|SO|IX GC 843/18|Wyrok|40|https://www.saos.org.pl/judgments/398206

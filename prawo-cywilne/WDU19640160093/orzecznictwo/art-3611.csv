@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-290009|2016-12-19|SO|II Ca 2086/16|Wyrok|https://www.saos.org.pl/judgments/290009
-102133|2013-06-13|SN|V CSK 391/12|Wyrok|https://www.saos.org.pl/judgments/102133
+saos_id|date|court|case_number|type|score|saos_url
+102133|2013-06-13|SN|V CSK 391/12|Wyrok|78|https://www.saos.org.pl/judgments/102133
+290009|2016-12-19|SO|II Ca 2086/16|Wyrok|40|https://www.saos.org.pl/judgments/290009

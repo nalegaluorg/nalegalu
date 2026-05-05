@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-397717|2019-05-06|SO|II Ca 199/19|Wyrok|https://www.saos.org.pl/judgments/397717
-393610|2017-12-19|SO|VII Pa 260/17|Wyrok|https://www.saos.org.pl/judgments/393610
-308246|2017-09-18|SO|VI Pa 64/17|Wyrok|https://www.saos.org.pl/judgments/308246
-285670|2017-02-07|SO|IV P 208/16|Wyrok|https://www.saos.org.pl/judgments/285670
-149830|2015-04-16|SO|VII Pa 51/15|Uzasadnienie|https://www.saos.org.pl/judgments/149830
-130988|2014-10-07|SO|III AUa 58/14|Wyrok|https://www.saos.org.pl/judgments/130988
-65430|2014-10-02|SO|VII Pa 222/14|Uzasadnienie|https://www.saos.org.pl/judgments/65430
-49956|2014-06-12|SO|VII Pa 103/14|Uzasadnienie|https://www.saos.org.pl/judgments/49956
-40722|2014-02-12|SO|V GC 463/13|Wyrok|https://www.saos.org.pl/judgments/40722
-205678|1995-01-11|TK|W 11/94|Uchwała|https://www.saos.org.pl/judgments/205678
+saos_id|date|court|case_number|type|score|saos_url
+205678|1995-01-11|TK|W 11/94|Uchwała|100|https://www.saos.org.pl/judgments/205678
+130988|2014-10-07|SO|III AUa 58/14|Wyrok|56|https://www.saos.org.pl/judgments/130988
+393610|2017-12-19|SO|VII Pa 260/17|Wyrok|40|https://www.saos.org.pl/judgments/393610
+149830|2015-04-16|SO|VII Pa 51/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/149830
+65430|2014-10-02|SO|VII Pa 222/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/65430
+49956|2014-06-12|SO|VII Pa 103/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/49956

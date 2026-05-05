@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-336404|2018-03-13|SO|II Ka 591/17|Wyrok|https://www.saos.org.pl/judgments/336404
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
+saos_id|date|court|case_number|type|score|saos_url
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+336404|2018-03-13|SO|II Ka 591/17|Wyrok|40|https://www.saos.org.pl/judgments/336404
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

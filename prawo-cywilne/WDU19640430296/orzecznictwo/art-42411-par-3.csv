@@ -1,27 +1,24 @@
-saos_id|date|court|case_number|type|saos_url
-275361|2017-02-13|SO|I ACa 475/16|Wyrok|https://www.saos.org.pl/judgments/275361
-217721|2016-03-18|SO|I C 1092/10|Wyrok|https://www.saos.org.pl/judgments/217721
-181181|2015-08-27|SO|I ACa 185/15|Wyrok|https://www.saos.org.pl/judgments/181181
-159735|2015-05-20|SO|III Ca 392/15|Wyrok|https://www.saos.org.pl/judgments/159735
-147347|2014-06-18|SO|I C 552/13|Wyrok|https://www.saos.org.pl/judgments/147347
-103160|2013-10-18|SN|III CZP 64/13|Uchwała|https://www.saos.org.pl/judgments/103160
-102389|2013-07-10|SN|I CNP 55/12|Postanowienie|https://www.saos.org.pl/judgments/102389
-95003|2011-05-20|SN|III CO 5/11|Postanowienie|https://www.saos.org.pl/judgments/95003
-109776|2010-12-31|TK|Ts 3/09|Postanowienie|https://www.saos.org.pl/judgments/109776
-109780|2010-07-01|TK|Ts 5/09|Postanowienie|https://www.saos.org.pl/judgments/109780
-110209|2010-05-10|TK|Ts 401/08|Postanowienie|https://www.saos.org.pl/judgments/110209
-91603|2010-01-13|SN|II CSK 349/09|Postanowienie|https://www.saos.org.pl/judgments/91603
-91105|2009-10-27|SN|I CNP 78/09|Postanowienie|https://www.saos.org.pl/judgments/91105
-206232|2009-05-26|TK|Ts 119/07|Postanowienie|https://www.saos.org.pl/judgments/206232
-109441|2009-03-02|TK|Ts 251/06|Postanowienie|https://www.saos.org.pl/judgments/109441
-88666|2008-09-04|SN|III SN 1/08|Wyrok|https://www.saos.org.pl/judgments/88666
-165028|2007-12-20|SN|IV CNP 191/07|Postanowienie|https://www.saos.org.pl/judgments/165028
-165026|2007-12-20|SN|IV CNP 189/07|Postanowienie|https://www.saos.org.pl/judgments/165026
-164926|2007-11-23|SN|IV CNP 88/07|Postanowienie|https://www.saos.org.pl/judgments/164926
-86768|2007-10-24|SN|IV CZ 76/07|Postanowienie|https://www.saos.org.pl/judgments/86768
-164834|2007-10-05|SN|I CZ 109/07|Postanowienie|https://www.saos.org.pl/judgments/164834
-85744|2007-04-26|SN|II CNP 50/07|Postanowienie|https://www.saos.org.pl/judgments/85744
-85704|2007-04-17|SN|V CNP 32/07|Postanowienie|https://www.saos.org.pl/judgments/85704
-85038|2007-01-17|SN|IV CNP 126/06|Postanowienie|https://www.saos.org.pl/judgments/85038
-164252|2006-04-26|SN|V CNP 79/05|Postanowienie|https://www.saos.org.pl/judgments/164252
-163343|2005-06-14|SN|V CZ 61/05|Postanowienie|https://www.saos.org.pl/judgments/163343
+saos_id|date|court|case_number|type|score|saos_url
+103160|2013-10-18|SN|III CZP 64/13|Uchwała|89|https://www.saos.org.pl/judgments/103160
+109776|2010-12-31|TK|Ts 3/09|Postanowienie|80|https://www.saos.org.pl/judgments/109776
+109780|2010-07-01|TK|Ts 5/09|Postanowienie|80|https://www.saos.org.pl/judgments/109780
+110209|2010-05-10|TK|Ts 401/08|Postanowienie|80|https://www.saos.org.pl/judgments/110209
+206232|2009-05-26|TK|Ts 119/07|Postanowienie|80|https://www.saos.org.pl/judgments/206232
+109441|2009-03-02|TK|Ts 251/06|Postanowienie|80|https://www.saos.org.pl/judgments/109441
+88666|2008-09-04|SN|III SN 1/08|Wyrok|78|https://www.saos.org.pl/judgments/88666
+102389|2013-07-10|SN|I CNP 55/12|Postanowienie|69|https://www.saos.org.pl/judgments/102389
+95003|2011-05-20|SN|III CO 5/11|Postanowienie|69|https://www.saos.org.pl/judgments/95003
+91603|2010-01-13|SN|II CSK 349/09|Postanowienie|69|https://www.saos.org.pl/judgments/91603
+91105|2009-10-27|SN|I CNP 78/09|Postanowienie|69|https://www.saos.org.pl/judgments/91105
+165028|2007-12-20|SN|IV CNP 191/07|Postanowienie|69|https://www.saos.org.pl/judgments/165028
+165026|2007-12-20|SN|IV CNP 189/07|Postanowienie|69|https://www.saos.org.pl/judgments/165026
+164926|2007-11-23|SN|IV CNP 88/07|Postanowienie|69|https://www.saos.org.pl/judgments/164926
+86768|2007-10-24|SN|IV CZ 76/07|Postanowienie|69|https://www.saos.org.pl/judgments/86768
+164834|2007-10-05|SN|I CZ 109/07|Postanowienie|69|https://www.saos.org.pl/judgments/164834
+85744|2007-04-26|SN|II CNP 50/07|Postanowienie|69|https://www.saos.org.pl/judgments/85744
+85704|2007-04-17|SN|V CNP 32/07|Postanowienie|69|https://www.saos.org.pl/judgments/85704
+85038|2007-01-17|SN|IV CNP 126/06|Postanowienie|69|https://www.saos.org.pl/judgments/85038
+164252|2006-04-26|SN|V CNP 79/05|Postanowienie|69|https://www.saos.org.pl/judgments/164252
+163343|2005-06-14|SN|V CZ 61/05|Postanowienie|69|https://www.saos.org.pl/judgments/163343
+275361|2017-02-13|SO|I ACa 475/16|Wyrok|56|https://www.saos.org.pl/judgments/275361
+181181|2015-08-27|SO|I ACa 185/15|Wyrok|56|https://www.saos.org.pl/judgments/181181

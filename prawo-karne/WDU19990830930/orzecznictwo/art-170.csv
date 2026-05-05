@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-333835|2017-11-28|SO|II K 29/15|Wyrok|https://www.saos.org.pl/judgments/333835
-84129|2006-02-28|SN|V KK 472/05|Wyrok|https://www.saos.org.pl/judgments/84129
-83938|2005-12-15|SN|I KZP 48/05|Uchwała|https://www.saos.org.pl/judgments/83938
+saos_id|date|court|case_number|type|score|saos_url
+83938|2005-12-15|SN|I KZP 48/05|Uchwała|96|https://www.saos.org.pl/judgments/83938
+84129|2006-02-28|SN|V KK 472/05|Wyrok|78|https://www.saos.org.pl/judgments/84129
+333835|2017-11-28|SO|II K 29/15|Wyrok|40|https://www.saos.org.pl/judgments/333835

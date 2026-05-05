@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-177483|2015-03-10|SO|VI ACa 535/14|Wyrok|https://www.saos.org.pl/judgments/177483
+saos_id|date|court|case_number|type|score|saos_url
+177483|2015-03-10|SO|VI ACa 535/14|Wyrok|56|https://www.saos.org.pl/judgments/177483

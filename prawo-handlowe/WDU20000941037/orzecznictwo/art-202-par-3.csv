@@ -1,11 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-433346|2020-11-17|SO|III AUa 192/18|Wyrok|https://www.saos.org.pl/judgments/433346
-426891|2020-09-25|SO|VII U 813/19|Wyrok|https://www.saos.org.pl/judgments/426891
-289276|2017-05-11|SO|V Pa 26/17|Wyrok|https://www.saos.org.pl/judgments/289276
-52947|2014-05-08|SO|I ACa 99/14|Wyrok|https://www.saos.org.pl/judgments/52947
-27277|2013-11-21|SO|VI Gz 309/13|Postanowienie|https://www.saos.org.pl/judgments/27277
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-92696|2010-07-21|SN|III CZP 23/10|Uchwała|https://www.saos.org.pl/judgments/92696
-89867|2009-03-20|SN|I PK 182/08|Wyrok|https://www.saos.org.pl/judgments/89867
-85163|2007-02-06|SN|II PK 191/06|Wyrok|https://www.saos.org.pl/judgments/85163
-464437|2006-06-22|SO|I ACa 2321/05|Wyrok|https://www.saos.org.pl/judgments/464437
+saos_id|date|court|case_number|type|score|saos_url
+92696|2010-07-21|SN|III CZP 23/10|Uchwała|89|https://www.saos.org.pl/judgments/92696
+89867|2009-03-20|SN|I PK 182/08|Wyrok|78|https://www.saos.org.pl/judgments/89867
+85163|2007-02-06|SN|II PK 191/06|Wyrok|78|https://www.saos.org.pl/judgments/85163
+433346|2020-11-17|SO|III AUa 192/18|Wyrok|56|https://www.saos.org.pl/judgments/433346
+52947|2014-05-08|SO|I ACa 99/14|Wyrok|56|https://www.saos.org.pl/judgments/52947
+464437|2006-06-22|SO|I ACa 2321/05|Wyrok|56|https://www.saos.org.pl/judgments/464437
+426891|2020-09-25|SO|VII U 813/19|Wyrok|40|https://www.saos.org.pl/judgments/426891
+289276|2017-05-11|SO|V Pa 26/17|Wyrok|40|https://www.saos.org.pl/judgments/289276
+27277|2013-11-21|SO|VI Gz 309/13|Postanowienie|31|https://www.saos.org.pl/judgments/27277

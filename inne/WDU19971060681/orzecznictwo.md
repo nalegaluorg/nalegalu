@@ -6,19 +6,19 @@ Orzeczenia powołujące: *Ustawa z dnia 22 sierpnia 1997 r. o publicznej służb
 
 ## art. 4 (1)
 
-- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała
+- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała ★
 
 ## art. 15 (1)
 
-- 2007-03-07 | TK | [K 28/05](https://www.saos.org.pl/judgments/108074) | Wyrok
+- 2007-03-07 | TK | [K 28/05](https://www.saos.org.pl/judgments/108074) | Wyrok ★
 
 ## art. 19 (1)
 
-- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała
+- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała ★
 
 ## art. 23 (1)
 
-- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała
+- 2005-07-14 | SN | [III CZP 44/05](https://www.saos.org.pl/judgments/83615) | Uchwała ★
 
 ## art. 25 (3)
 
@@ -28,7 +28,7 @@ Orzeczenia powołujące: *Ustawa z dnia 22 sierpnia 1997 r. o publicznej służb
 
 ## (ogólnie) (3)
 
+- 2019-11-20 | SO | [I ACa 645/18](https://www.saos.org.pl/judgments/398123) | Wyrok
 - 2022-06-15 | SO | [III Ca 1685/20](https://www.saos.org.pl/judgments/473846) | Uzasadnienie
 - 2020-02-26 | SO | [I C 26/18](https://www.saos.org.pl/judgments/413115) | Uzasadnienie
-- 2019-11-20 | SO | [I ACa 645/18](https://www.saos.org.pl/judgments/398123) | Wyrok
 

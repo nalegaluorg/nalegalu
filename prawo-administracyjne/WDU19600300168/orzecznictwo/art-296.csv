@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-248392|2016-07-06|SO|IV Ka 135/16|Wyrok|https://www.saos.org.pl/judgments/248392
+saos_id|date|court|case_number|type|score|saos_url
+248392|2016-07-06|SO|IV Ka 135/16|Wyrok|40|https://www.saos.org.pl/judgments/248392

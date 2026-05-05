@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-436592|2020-10-27|SO|II AKzw 1708/20|Postanowienie|https://www.saos.org.pl/judgments/436592
-200044|2015-12-16|SO|XVII Ka 1087/15|Wyrok|https://www.saos.org.pl/judgments/200044
+saos_id|date|court|case_number|type|score|saos_url
+436592|2020-10-27|SO|II AKzw 1708/20|Postanowienie|47|https://www.saos.org.pl/judgments/436592
+200044|2015-12-16|SO|XVII Ka 1087/15|Wyrok|40|https://www.saos.org.pl/judgments/200044

@@ -1,18 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-508141|2024-04-19|SO|IV Ka 388/23|Uzasadnienie|https://www.saos.org.pl/judgments/508141
-492633|2023-03-23|SO|VI Ka 40/23|Wyrok|https://www.saos.org.pl/judgments/492633
-425503|2019-12-05|SO|IX Ka 1011/18|Wyrok|https://www.saos.org.pl/judgments/425503
-368042|2018-12-06|SO|IV Ka 1014/18|Wyrok|https://www.saos.org.pl/judgments/368042
-357116|2018-04-24|SO|III APa 1/18|Wyrok|https://www.saos.org.pl/judgments/357116
-286856|2017-05-09|SO|VI Ka 1125/16|Wyrok|https://www.saos.org.pl/judgments/286856
-318086|2017-01-20|SO|XXVII Ca 3570/16|Wyrok|https://www.saos.org.pl/judgments/318086
-241279|2016-07-12|SO|VI Ka 502/16|Wyrok|https://www.saos.org.pl/judgments/241279
-181786|2015-05-19|SO|I C 1399/12|Wyrok|https://www.saos.org.pl/judgments/181786
-294138|2014-05-23|SO|II Ca 998/13|Wyrok|https://www.saos.org.pl/judgments/294138
-64927|2014-04-01|SO|II K 691/13|Wyrok|https://www.saos.org.pl/judgments/64927
-182104|2014-03-20|SO|I C 2467/12|Wyrok|https://www.saos.org.pl/judgments/182104
-36109|2013-11-19|SO|II K 598/13|Uzasadnienie|https://www.saos.org.pl/judgments/36109
-8935|2013-03-21|SO|IV Ka 28/13|Wyrok|https://www.saos.org.pl/judgments/8935
-135829|2012-06-06|SO|II AKa 128/12|Wyrok|https://www.saos.org.pl/judgments/135829
-92922|2010-09-15|SN|II KK 42/10|Postanowienie|https://www.saos.org.pl/judgments/92922
-87164|2008-01-21|SN|V KK 221/07|Wyrok|https://www.saos.org.pl/judgments/87164
+saos_id|date|court|case_number|type|score|saos_url
+87164|2008-01-21|SN|V KK 221/07|Wyrok|78|https://www.saos.org.pl/judgments/87164
+92922|2010-09-15|SN|II KK 42/10|Postanowienie|69|https://www.saos.org.pl/judgments/92922
+357116|2018-04-24|SO|III APa 1/18|Wyrok|56|https://www.saos.org.pl/judgments/357116
+135829|2012-06-06|SO|II AKa 128/12|Wyrok|56|https://www.saos.org.pl/judgments/135829
+492633|2023-03-23|SO|VI Ka 40/23|Wyrok|40|https://www.saos.org.pl/judgments/492633
+368042|2018-12-06|SO|IV Ka 1014/18|Wyrok|40|https://www.saos.org.pl/judgments/368042
+286856|2017-05-09|SO|VI Ka 1125/16|Wyrok|40|https://www.saos.org.pl/judgments/286856

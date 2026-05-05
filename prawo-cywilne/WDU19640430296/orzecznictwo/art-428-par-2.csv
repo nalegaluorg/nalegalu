@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-523512|2023-11-03|SO|I C 550/22|Wyrok|https://www.saos.org.pl/judgments/523512
-394363|2019-09-17|SO|III AUa 39/19|Wyrok|https://www.saos.org.pl/judgments/394363
-425747|2019-05-30|SO|XXIII Gz 414/19|Postanowienie|https://www.saos.org.pl/judgments/425747
-320756|2017-04-12|SO|I C 2229/16|Zarządzenie|https://www.saos.org.pl/judgments/320756
-220422|2016-03-24|SO|I ACa 1068/15|Wyrok|https://www.saos.org.pl/judgments/220422
-188269|2015-11-10|SO|VII Pz 135/15|Uzasadnienie|https://www.saos.org.pl/judgments/188269
-159199|2015-02-24|SO|III Ca 1382/14|Postanowienie|https://www.saos.org.pl/judgments/159199
-127603|2015-01-30|SO|I C 344/14|Wyrok|https://www.saos.org.pl/judgments/127603
-96487|2011-12-09|SN|II PK 63/11|Wyrok|https://www.saos.org.pl/judgments/96487
+saos_id|date|court|case_number|type|score|saos_url
+96487|2011-12-09|SN|II PK 63/11|Wyrok|78|https://www.saos.org.pl/judgments/96487
+394363|2019-09-17|SO|III AUa 39/19|Wyrok|56|https://www.saos.org.pl/judgments/394363
+220422|2016-03-24|SO|I ACa 1068/15|Wyrok|56|https://www.saos.org.pl/judgments/220422
+188269|2015-11-10|SO|VII Pz 135/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188269

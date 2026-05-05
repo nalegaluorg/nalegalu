@@ -1,19 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-246353|2016-08-11|SO|X P 298/15|Wyrok|https://www.saos.org.pl/judgments/246353
-224676|2016-04-26|SO|VII Pa 52/16|Uzasadnienie|https://www.saos.org.pl/judgments/224676
-180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|https://www.saos.org.pl/judgments/180174
-184166|2015-09-15|SO|III AUa 1417/14|Wyrok|https://www.saos.org.pl/judgments/184166
-158144|2015-06-10|SO|III APa 14/14|Wyrok|https://www.saos.org.pl/judgments/158144
-170170|2015-05-12|SO|III AUa 1107/14|Wyrok|https://www.saos.org.pl/judgments/170170
-152636|2015-03-09|SO|V ACa 916/14|Wyrok|https://www.saos.org.pl/judgments/152636
-132753|2015-02-20|SO|IV P 82/14|Wyrok|https://www.saos.org.pl/judgments/132753
-72825|2014-10-23|SO|III APa 13/14|Wyrok|https://www.saos.org.pl/judgments/72825
-61626|2014-05-28|SO|I ACa 130/14|Wyrok|https://www.saos.org.pl/judgments/61626
-50059|2014-05-07|SO|III APa 35/13|Wyrok|https://www.saos.org.pl/judgments/50059
-38121|2014-01-31|SO|VII P 46/13|Wyrok|https://www.saos.org.pl/judgments/38121
-31579|2013-12-05|SO|III APa 29/13|Wyrok|https://www.saos.org.pl/judgments/31579
-37126|2013-10-16|SO|I ACa 422/13|Wyrok|https://www.saos.org.pl/judgments/37126
-29046|2013-08-20|SO|VI ACa 121/13|Wyrok|https://www.saos.org.pl/judgments/29046
-14141|2013-05-28|SO|III APa 4/13|Wyrok|https://www.saos.org.pl/judgments/14141
-138279|2013-03-27|SO|I C 162/12|Wyrok|https://www.saos.org.pl/judgments/138279
-10676|2012-09-05|SO|III APa 9/12|Wyrok|https://www.saos.org.pl/judgments/10676
+saos_id|date|court|case_number|type|score|saos_url
+184166|2015-09-15|SO|III AUa 1417/14|Wyrok|56|https://www.saos.org.pl/judgments/184166
+158144|2015-06-10|SO|III APa 14/14|Wyrok|56|https://www.saos.org.pl/judgments/158144
+170170|2015-05-12|SO|III AUa 1107/14|Wyrok|56|https://www.saos.org.pl/judgments/170170
+152636|2015-03-09|SO|V ACa 916/14|Wyrok|56|https://www.saos.org.pl/judgments/152636
+72825|2014-10-23|SO|III APa 13/14|Wyrok|56|https://www.saos.org.pl/judgments/72825
+61626|2014-05-28|SO|I ACa 130/14|Wyrok|56|https://www.saos.org.pl/judgments/61626
+50059|2014-05-07|SO|III APa 35/13|Wyrok|56|https://www.saos.org.pl/judgments/50059
+31579|2013-12-05|SO|III APa 29/13|Wyrok|56|https://www.saos.org.pl/judgments/31579
+37126|2013-10-16|SO|I ACa 422/13|Wyrok|56|https://www.saos.org.pl/judgments/37126
+29046|2013-08-20|SO|VI ACa 121/13|Wyrok|56|https://www.saos.org.pl/judgments/29046
+14141|2013-05-28|SO|III APa 4/13|Wyrok|56|https://www.saos.org.pl/judgments/14141
+10676|2012-09-05|SO|III APa 9/12|Wyrok|56|https://www.saos.org.pl/judgments/10676
+224676|2016-04-26|SO|VII Pa 52/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/224676
+180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/180174

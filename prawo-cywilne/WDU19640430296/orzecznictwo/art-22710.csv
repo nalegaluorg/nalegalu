@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-89651|2009-02-12|SN|III SK 29/08|Wyrok|https://www.saos.org.pl/judgments/89651
+saos_id|date|court|case_number|type|score|saos_url
+89651|2009-02-12|SN|III SK 29/08|Wyrok|78|https://www.saos.org.pl/judgments/89651

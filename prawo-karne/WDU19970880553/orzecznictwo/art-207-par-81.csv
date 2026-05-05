@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83844|2005-11-07|SN|III KK 177/05|Wyrok|https://www.saos.org.pl/judgments/83844
+saos_id|date|court|case_number|type|score|saos_url
+83844|2005-11-07|SN|III KK 177/05|Wyrok|78|https://www.saos.org.pl/judgments/83844

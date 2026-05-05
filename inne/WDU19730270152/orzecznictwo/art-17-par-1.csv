@@ -1,16 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-511112|2024-07-08|SO|VI Ka 351/24|Wyrok|https://www.saos.org.pl/judgments/511112
-473120|2022-09-13|SO|II K 458/22|Uzasadnienie|https://www.saos.org.pl/judgments/473120
-467431|2022-06-03|SO|II K 135/22|Uzasadnienie|https://www.saos.org.pl/judgments/467431
-463173|2022-04-19|SO|II K 735/21|Uzasadnienie|https://www.saos.org.pl/judgments/463173
-464122|2022-03-22|SO|IV Ka 125/22|Uzasadnienie|https://www.saos.org.pl/judgments/464122
-462774|2022-01-14|SO|IV Ka 825/21|Uzasadnienie|https://www.saos.org.pl/judgments/462774
-444704|2021-07-19|SO|II AKa 39/21|Uzasadnienie|https://www.saos.org.pl/judgments/444704
-406501|2020-03-02|SO|II K 1099/19|Uzasadnienie|https://www.saos.org.pl/judgments/406501
-407191|2020-02-28|SO|IV Ka 1042/19|Uzasadnienie|https://www.saos.org.pl/judgments/407191
-405116|2020-02-20|SO|II K 598/19|Uzasadnienie|https://www.saos.org.pl/judgments/405116
-419660|2018-04-05|SO|XI Ka 240/18|Wyrok|https://www.saos.org.pl/judgments/419660
-65804|2014-10-09|SO|IX Ka 1046/14|Wyrok|https://www.saos.org.pl/judgments/65804
-65866|2014-07-08|SO|XI Ka 511/14|Wyrok|https://www.saos.org.pl/judgments/65866
-140919|2013-10-03|SO|II AKa 316/13|Wyrok|https://www.saos.org.pl/judgments/140919
-405114|2013-06-18|SO|II K 51/12|Wyrok|https://www.saos.org.pl/judgments/405114
+saos_id|date|court|case_number|type|score|saos_url
+140919|2013-10-03|SO|II AKa 316/13|Wyrok|56|https://www.saos.org.pl/judgments/140919
+444704|2021-07-19|SO|II AKa 39/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/444704
+405114|2013-06-18|SO|II K 51/12|Wyrok|40|https://www.saos.org.pl/judgments/405114

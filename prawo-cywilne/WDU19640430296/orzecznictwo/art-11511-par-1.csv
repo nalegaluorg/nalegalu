@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-288910|2017-05-25|SO|I ACz 420/17|Postanowienie|https://www.saos.org.pl/judgments/288910
-274658|2016-09-23|SO|V ACz 698/16|Postanowienie|https://www.saos.org.pl/judgments/274658
-159080|2015-06-29|SO|IX GCo 162/15|Postanowienie|https://www.saos.org.pl/judgments/159080
-140576|2013-09-26|SO|I Co 354/13|Postanowienie|https://www.saos.org.pl/judgments/140576
-139792|2013-07-25|SO|I ACz 646/13|Postanowienie|https://www.saos.org.pl/judgments/139792
-32079|2013-04-15|SO|I ACz 549/13|Postanowienie|https://www.saos.org.pl/judgments/32079
-283115|2013-02-22|SO|XX GCo 49/13|Postanowienie|https://www.saos.org.pl/judgments/283115
-177392|2011-09-05|SO|XXV Co 69/11|Postanowienie|https://www.saos.org.pl/judgments/177392
+saos_id|date|court|case_number|type|score|saos_url
+288910|2017-05-25|SO|I ACz 420/17|Postanowienie|47|https://www.saos.org.pl/judgments/288910
+274658|2016-09-23|SO|V ACz 698/16|Postanowienie|47|https://www.saos.org.pl/judgments/274658
+139792|2013-07-25|SO|I ACz 646/13|Postanowienie|47|https://www.saos.org.pl/judgments/139792
+32079|2013-04-15|SO|I ACz 549/13|Postanowienie|47|https://www.saos.org.pl/judgments/32079
+159080|2015-06-29|SO|IX GCo 162/15|Postanowienie|31|https://www.saos.org.pl/judgments/159080

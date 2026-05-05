@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-526536|2024-05-20|SO|I ACa 1121/21|Wyrok|https://www.saos.org.pl/judgments/526536
-159173|2015-05-26|SO|I C 1880/14|Wyrok|https://www.saos.org.pl/judgments/159173
+saos_id|date|court|case_number|type|score|saos_url
+526536|2024-05-20|SO|I ACa 1121/21|Wyrok|56|https://www.saos.org.pl/judgments/526536

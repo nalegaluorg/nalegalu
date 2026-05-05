@@ -14,10 +14,10 @@ Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2006 r. o zmianie ustawy o 
 
 ## art. 10 (1)
 
-- 2008-01-24 | TK | [Ts 98/06](https://www.saos.org.pl/judgments/108751) | Postanowienie
+- 2008-01-24 | TK | [Ts 98/06](https://www.saos.org.pl/judgments/108751) | Postanowienie ★
 
 ## (ogólnie) (2)
 
-- 2017-03-31 | SO | [I C 1253/16](https://www.saos.org.pl/judgments/289687) | Wyrok
 - 2013-03-27 | SO | [I ACa 892/12](https://www.saos.org.pl/judgments/17122) | Wyrok
+- 2017-03-31 | SO | [I C 1253/16](https://www.saos.org.pl/judgments/289687) | Wyrok
 

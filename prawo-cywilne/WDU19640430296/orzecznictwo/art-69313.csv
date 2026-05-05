@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-420365|2019-12-24|SO|III Ca 2174/19|Uzasadnienie|https://www.saos.org.pl/judgments/420365
-399872|2019-09-17|SO|III Ca 343/19|Postanowienie|https://www.saos.org.pl/judgments/399872
-236026|2016-04-14|SO|I ACa 1/15|Wyrok|https://www.saos.org.pl/judgments/236026
+saos_id|date|court|case_number|type|score|saos_url
+236026|2016-04-14|SO|I ACa 1/15|Wyrok|56|https://www.saos.org.pl/judgments/236026
+420365|2019-12-24|SO|III Ca 2174/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/420365

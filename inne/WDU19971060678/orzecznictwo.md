@@ -54,5 +54,5 @@ Orzeczenia powołujące: *Ustawa z dnia 21 sierpnia 1997 r. o zmianie ustawy o z
 
 ## (ogólnie) (1)
 
-- 2008-02-20 | TK | [SK 2/05](https://www.saos.org.pl/judgments/108612) | Postanowienie
+- 2008-02-20 | TK | [SK 2/05](https://www.saos.org.pl/judgments/108612) | Postanowienie ★
 

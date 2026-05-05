@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-448464|2021-07-07|SO|III Kow 754/21|Postanowienie|https://www.saos.org.pl/judgments/448464
-386458|2018-11-08|SO|I ACa 1527/17|Wyrok|https://www.saos.org.pl/judgments/386458
+saos_id|date|court|case_number|type|score|saos_url
+386458|2018-11-08|SO|I ACa 1527/17|Wyrok|56|https://www.saos.org.pl/judgments/386458

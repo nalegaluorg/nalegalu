@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-463142|2020-09-18|SO|I ACa 503/20|Wyrok|https://www.saos.org.pl/judgments/463142
-252579|2016-09-22|SO|III AUa 765/16|Wyrok|https://www.saos.org.pl/judgments/252579
-61626|2014-05-28|SO|I ACa 130/14|Wyrok|https://www.saos.org.pl/judgments/61626
-138279|2013-03-27|SO|I C 162/12|Wyrok|https://www.saos.org.pl/judgments/138279
+saos_id|date|court|case_number|type|score|saos_url
+463142|2020-09-18|SO|I ACa 503/20|Wyrok|56|https://www.saos.org.pl/judgments/463142
+252579|2016-09-22|SO|III AUa 765/16|Wyrok|56|https://www.saos.org.pl/judgments/252579
+61626|2014-05-28|SO|I ACa 130/14|Wyrok|56|https://www.saos.org.pl/judgments/61626

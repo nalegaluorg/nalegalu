@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-432449|2020-10-07|SO|I C 486/20|Wyrok|https://www.saos.org.pl/judgments/432449
-398262|2019-09-11|SO|I C 482/19|Wyrok|https://www.saos.org.pl/judgments/398262
-176887|2015-07-28|SO|I ACa 314/15|Wyrok|https://www.saos.org.pl/judgments/176887
-242898|2015-06-23|SN|V CNP 60/14|Postanowienie|https://www.saos.org.pl/judgments/242898
-87111|2008-01-22|SN|II CNP 149/07|Wyrok|https://www.saos.org.pl/judgments/87111
-165024|2007-12-20|SN|II CNP 201/07|Postanowienie|https://www.saos.org.pl/judgments/165024
-86780|2007-11-07|SN|II CNP 129/07|Wyrok|https://www.saos.org.pl/judgments/86780
+saos_id|date|court|case_number|type|score|saos_url
+87111|2008-01-22|SN|II CNP 149/07|Wyrok|78|https://www.saos.org.pl/judgments/87111
+86780|2007-11-07|SN|II CNP 129/07|Wyrok|78|https://www.saos.org.pl/judgments/86780
+242898|2015-06-23|SN|V CNP 60/14|Postanowienie|69|https://www.saos.org.pl/judgments/242898
+165024|2007-12-20|SN|II CNP 201/07|Postanowienie|69|https://www.saos.org.pl/judgments/165024
+176887|2015-07-28|SO|I ACa 314/15|Wyrok|56|https://www.saos.org.pl/judgments/176887
+432449|2020-10-07|SO|I C 486/20|Wyrok|40|https://www.saos.org.pl/judgments/432449
+398262|2019-09-11|SO|I C 482/19|Wyrok|40|https://www.saos.org.pl/judgments/398262

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|https://www.saos.org.pl/judgments/500745
+saos_id|date|court|case_number|type|score|saos_url
+500745|2015-07-28|SO|II AKa 244/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/500745

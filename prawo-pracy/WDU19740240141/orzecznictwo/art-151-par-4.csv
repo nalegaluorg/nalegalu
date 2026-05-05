@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-490317|2023-04-12|SO|V Pa 33/22|Wyrok|https://www.saos.org.pl/judgments/490317
-365683|2018-11-15|SO|XXI Pa 338/18|Wyrok|https://www.saos.org.pl/judgments/365683
-260285|2016-11-24|SO|VIII Pa 33/16|Uzasadnienie|https://www.saos.org.pl/judgments/260285
-234928|2016-06-23|SO|VII Pa 320/15|Uzasadnienie|https://www.saos.org.pl/judgments/234928
-212696|2016-03-16|SO|VII Pa 312/15|Uzasadnienie|https://www.saos.org.pl/judgments/212696
-258276|2016-02-15|SO|VI P 590/14|Wyrok|https://www.saos.org.pl/judgments/258276
-152123|2015-05-07|SO|VII Pa 96/15|Uzasadnienie|https://www.saos.org.pl/judgments/152123
-152120|2015-05-07|SO|VII Pa 128/14|Uzasadnienie|https://www.saos.org.pl/judgments/152120
-510367|2013-12-03|SO|V Pa 31/13|Wyrok|https://www.saos.org.pl/judgments/510367
-101969|2013-06-04|SN|I PK 293/12|Wyrok|https://www.saos.org.pl/judgments/101969
-106728|2004-02-24|TK|K 54/02|Wyrok|https://www.saos.org.pl/judgments/106728
+saos_id|date|court|case_number|type|score|saos_url
+106728|2004-02-24|TK|K 54/02|Wyrok|98|https://www.saos.org.pl/judgments/106728
+101969|2013-06-04|SN|I PK 293/12|Wyrok|78|https://www.saos.org.pl/judgments/101969
+258276|2016-02-15|SO|VI P 590/14|Wyrok|40|https://www.saos.org.pl/judgments/258276
+260285|2016-11-24|SO|VIII Pa 33/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/260285
+234928|2016-06-23|SO|VII Pa 320/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/234928
+212696|2016-03-16|SO|VII Pa 312/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/212696
+152123|2015-05-07|SO|VII Pa 96/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/152123
+152120|2015-05-07|SO|VII Pa 128/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/152120

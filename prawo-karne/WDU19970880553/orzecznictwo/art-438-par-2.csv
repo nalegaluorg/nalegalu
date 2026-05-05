@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-156354|2015-05-26|SO|II Ka 157/15|Wyrok|https://www.saos.org.pl/judgments/156354
-62365|2014-09-24|SO|II Ka 323/14|Wyrok|https://www.saos.org.pl/judgments/62365
-52909|2014-06-26|SO|II Ka 188/14|Wyrok|https://www.saos.org.pl/judgments/52909
-135712|2012-08-23|SO|II AKa 154/12|Wyrok|https://www.saos.org.pl/judgments/135712
+saos_id|date|court|case_number|type|score|saos_url
+135712|2012-08-23|SO|II AKa 154/12|Wyrok|56|https://www.saos.org.pl/judgments/135712

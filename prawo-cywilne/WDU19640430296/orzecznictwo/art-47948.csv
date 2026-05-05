@@ -1,3 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-515152|2021-10-29|SO|XVII AmE 415/18|Wyrok|https://www.saos.org.pl/judgments/515152
-425362|2020-06-01|SO|XVII Amz 43/19|Postanowienie|https://www.saos.org.pl/judgments/425362
+saos_id|date|court|case_number|type|score|saos_url
+469679|2022-03-28|SO|VII AGa 494/21|Wyrok|56|https://www.saos.org.pl/judgments/469679
+446027|2021-01-22|SO|VII AGa 22/20|Wyrok|56|https://www.saos.org.pl/judgments/446027
+419175|2020-03-10|SO|VII AGa 366/19|Wyrok|56|https://www.saos.org.pl/judgments/419175
+356809|2018-09-04|SO|VII AGa 769/18|Wyrok|56|https://www.saos.org.pl/judgments/356809
+320342|2017-03-13|SO|VI ACa 1866/15|Wyrok|56|https://www.saos.org.pl/judgments/320342
+69932|2014-08-22|SO|VI ACa 1774/13|Wyrok|56|https://www.saos.org.pl/judgments/69932

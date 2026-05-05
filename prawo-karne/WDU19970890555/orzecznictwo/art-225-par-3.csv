@@ -1,17 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-527088|2025-05-19|SO|XVII Amz 28/25|Postanowienie|https://www.saos.org.pl/judgments/527088
-544949|2023-10-13|SO|XVII Amo 36/23|Postanowienie|https://www.saos.org.pl/judgments/544949
-484013|2022-05-26|SO|XVII Amo 4/22|Postanowienie|https://www.saos.org.pl/judgments/484013
-479119|2021-12-20|SO|XVII Amz 51/21|Postanowienie|https://www.saos.org.pl/judgments/479119
-525352|2021-03-15|SO|XVII Amo 23/20|Postanowienie|https://www.saos.org.pl/judgments/525352
-405426|2019-05-27|SO|XVII Amz 23/19|Postanowienie|https://www.saos.org.pl/judgments/405426
-405425|2019-05-27|SO|XVII Amz 22/19|Postanowienie|https://www.saos.org.pl/judgments/405425
-294813|2017-03-07|SO|XVII Amz 15/17|Postanowienie|https://www.saos.org.pl/judgments/294813
-245018|2016-03-30|SN|I KZP 21/15|Uchwała|https://www.saos.org.pl/judgments/245018
-196923|2015-12-01|SO|IV Kz 676/15|Postanowienie|https://www.saos.org.pl/judgments/196923
-169388|2015-04-14|SO|II Ca 87/15|Wyrok|https://www.saos.org.pl/judgments/169388
-7721|2013-01-28|SO|IV Kz 1179/12|Postanowienie|https://www.saos.org.pl/judgments/7721
-110920|2012-12-10|TK|K 25/11|Wyrok|https://www.saos.org.pl/judgments/110920
-135580|2012-08-03|SO|II AKo 139/12|Postanowienie|https://www.saos.org.pl/judgments/135580
-110982|2012-04-04|TK|SK 7/10|Postanowienie|https://www.saos.org.pl/judgments/110982
-96145|2011-10-26|SN|I KZP 12/11|Postanowienie|https://www.saos.org.pl/judgments/96145
+saos_id|date|court|case_number|type|score|saos_url
+110920|2012-12-10|TK|K 25/11|Wyrok|98|https://www.saos.org.pl/judgments/110920
+245018|2016-03-30|SN|I KZP 21/15|Uchwała|89|https://www.saos.org.pl/judgments/245018
+110982|2012-04-04|TK|SK 7/10|Postanowienie|80|https://www.saos.org.pl/judgments/110982
+96145|2011-10-26|SN|I KZP 12/11|Postanowienie|69|https://www.saos.org.pl/judgments/96145
+135580|2012-08-03|SO|II AKo 139/12|Postanowienie|47|https://www.saos.org.pl/judgments/135580
+196923|2015-12-01|SO|IV Kz 676/15|Postanowienie|31|https://www.saos.org.pl/judgments/196923

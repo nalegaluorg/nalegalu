@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-214756|2015-12-14|SO|II Ka 349/15|Wyrok|https://www.saos.org.pl/judgments/214756
-183060|2015-01-21|SO|II AKa 448/14|Wyrok|https://www.saos.org.pl/judgments/183060
+saos_id|date|court|case_number|type|score|saos_url
+183060|2015-01-21|SO|II AKa 448/14|Wyrok|56|https://www.saos.org.pl/judgments/183060

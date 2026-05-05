@@ -1,20 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-527631|2025-05-14|SO|XII 1Co 183/25|Postanowienie|https://www.saos.org.pl/judgments/527631
-525987|2025-03-24|SO|II1 Co 83/25|Postanowienie|https://www.saos.org.pl/judgments/525987
-504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|https://www.saos.org.pl/judgments/504587
-521110|2024-04-05|SO|I AGa 129/23|Wyrok|https://www.saos.org.pl/judgments/521110
-515719|2023-12-11|SO|XXVII Ca 3004/23|Wyrok|https://www.saos.org.pl/judgments/515719
-496649|2023-11-21|SO|I C 202/23|Wyrok|https://www.saos.org.pl/judgments/496649
-533027|2023-10-24|SO|II Ca 835/23|Postanowienie|https://www.saos.org.pl/judgments/533027
-496633|2023-07-25|SO|I C 2007/22|Wyrok|https://www.saos.org.pl/judgments/496633
-488919|2023-02-17|SO|I C 452/22|Wyrok|https://www.saos.org.pl/judgments/488919
-484312|2023-01-10|SO|XII 1Co 495/22|Postanowienie|https://www.saos.org.pl/judgments/484312
-487106|2022-12-21|SO|I Ca 509/22|Wyrok|https://www.saos.org.pl/judgments/487106
-482373|2022-09-13|SO|I C 529/22|Wyrok|https://www.saos.org.pl/judgments/482373
-473520|2022-06-21|SO|III C 67/22|Wyrok|https://www.saos.org.pl/judgments/473520
-480264|2022-05-19|SO|VII AGa 568/21|Wyrok|https://www.saos.org.pl/judgments/480264
-437973|2021-03-24|SO|I C 1407/19|Wyrok|https://www.saos.org.pl/judgments/437973
-442106|2021-03-23|SO|I C 964/19|Wyrok|https://www.saos.org.pl/judgments/442106
-433888|2020-11-09|SO|II1 C 21/20|Wyrok|https://www.saos.org.pl/judgments/433888
-399409|2019-11-19|SO|I Co 938/19|Postanowienie|https://www.saos.org.pl/judgments/399409
-407113|2019-10-10|SO|I AGa 12/19|Wyrok|https://www.saos.org.pl/judgments/407113
+saos_id|date|court|case_number|type|score|saos_url
+521110|2024-04-05|SO|I AGa 129/23|Wyrok|56|https://www.saos.org.pl/judgments/521110
+480264|2022-05-19|SO|VII AGa 568/21|Wyrok|56|https://www.saos.org.pl/judgments/480264
+407113|2019-10-10|SO|I AGa 12/19|Wyrok|56|https://www.saos.org.pl/judgments/407113
+433888|2020-11-09|SO|II1 C 21/20|Wyrok|40|https://www.saos.org.pl/judgments/433888
+525987|2025-03-24|SO|II1 Co 83/25|Postanowienie|31|https://www.saos.org.pl/judgments/525987
+504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|31|https://www.saos.org.pl/judgments/504587
+533027|2023-10-24|SO|II Ca 835/23|Postanowienie|31|https://www.saos.org.pl/judgments/533027
+399409|2019-11-19|SO|I Co 938/19|Postanowienie|31|https://www.saos.org.pl/judgments/399409

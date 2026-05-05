@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-386828|2018-12-17|SO|I C 829/13|Wyrok|https://www.saos.org.pl/judgments/386828
-281715|2017-03-13|SO|III Ca 1618/16|Uzasadnienie|https://www.saos.org.pl/judgments/281715
-256111|2016-07-27|SO|I C 6/15|Wyrok|https://www.saos.org.pl/judgments/256111
-193803|2015-11-26|SO|III Ca 1120/15|Uzasadnienie|https://www.saos.org.pl/judgments/193803
+saos_id|date|court|case_number|type|score|saos_url
+386828|2018-12-17|SO|I C 829/13|Wyrok|40|https://www.saos.org.pl/judgments/386828
+256111|2016-07-27|SO|I C 6/15|Wyrok|40|https://www.saos.org.pl/judgments/256111
+281715|2017-03-13|SO|III Ca 1618/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281715
+193803|2015-11-26|SO|III Ca 1120/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193803

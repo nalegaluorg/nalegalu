@@ -1,14 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-542812|2025-11-28|SO|III Ns 856/16|Postanowienie|https://www.saos.org.pl/judgments/542812
-505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|https://www.saos.org.pl/judgments/505685
-251809|2016-09-08|SO|XIV C 451/14|Wyrok|https://www.saos.org.pl/judgments/251809
-183286|2015-07-30|SO|II Ca 395/15|Postanowienie|https://www.saos.org.pl/judgments/183286
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-71408|2014-11-27|SO|I C 1893/14|Postanowienie|https://www.saos.org.pl/judgments/71408
-68207|2014-09-16|SO|III Cz 1038/14|Postanowienie|https://www.saos.org.pl/judgments/68207
-36909|2013-12-30|SO|II Cz 2011/13|Postanowienie|https://www.saos.org.pl/judgments/36909
-6448|2013-03-04|SO|II Cz 15/13|Postanowienie|https://www.saos.org.pl/judgments/6448
-88496|2008-07-17|SN|II CZ 54/08|Postanowienie|https://www.saos.org.pl/judgments/88496
-87977|2008-04-29|SN|III CZP 18/08|Uchwała|https://www.saos.org.pl/judgments/87977
-87160|2008-01-23|SN|V CZ 132/07|Postanowienie|https://www.saos.org.pl/judgments/87160
-86352|2007-07-27|SN|I CSK 235/07|Postanowienie|https://www.saos.org.pl/judgments/86352
+saos_id|date|court|case_number|type|score|saos_url
+87977|2008-04-29|SN|III CZP 18/08|Uchwała|89|https://www.saos.org.pl/judgments/87977
+88496|2008-07-17|SN|II CZ 54/08|Postanowienie|69|https://www.saos.org.pl/judgments/88496
+87160|2008-01-23|SN|V CZ 132/07|Postanowienie|69|https://www.saos.org.pl/judgments/87160
+86352|2007-07-27|SN|I CSK 235/07|Postanowienie|69|https://www.saos.org.pl/judgments/86352
+251809|2016-09-08|SO|XIV C 451/14|Wyrok|40|https://www.saos.org.pl/judgments/251809
+505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505685

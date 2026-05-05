@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-186867|2015-11-17|SO|IX Ca 575/15|Wyrok|https://www.saos.org.pl/judgments/186867
-57966|2014-07-24|SO|IX Ca 276/14|Wyrok|https://www.saos.org.pl/judgments/57966
-9288|2012-06-20|SO|I ACa 1147/11|Wyrok|https://www.saos.org.pl/judgments/9288
+saos_id|date|court|case_number|type|score|saos_url
+9288|2012-06-20|SO|I ACa 1147/11|Wyrok|56|https://www.saos.org.pl/judgments/9288

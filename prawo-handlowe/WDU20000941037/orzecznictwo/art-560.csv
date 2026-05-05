@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-520144|2022-06-20|SO|V GC 167/21|Wyrok|https://www.saos.org.pl/judgments/520144
-423534|2020-09-30|SO|VIII Ga 607/19|Uzasadnienie|https://www.saos.org.pl/judgments/423534
-381816|2018-05-22|SO|V AGa 199/18|Wyrok|https://www.saos.org.pl/judgments/381816
-339808|2017-12-28|SO|II AKa 492/17|Wyrok|https://www.saos.org.pl/judgments/339808
-216524|2016-04-07|SO|XIII Ga 981/15|Uzasadnienie|https://www.saos.org.pl/judgments/216524
-176007|2015-07-17|SO|VIII Ga 121/15|Uzasadnienie|https://www.saos.org.pl/judgments/176007
-206671|2015-06-16|TK|K 25/12|Wyrok|https://www.saos.org.pl/judgments/206671
-131543|2015-02-05|SO|VIII Ga 220/14|Uzasadnienie|https://www.saos.org.pl/judgments/131543
-381481|2014-10-02|SO|XVII AmA 49/12|Wyrok|https://www.saos.org.pl/judgments/381481
-65869|2014-07-23|SO|XII Ga 183/14|Wyrok|https://www.saos.org.pl/judgments/65869
-73109|2014-06-16|SO|XXVI GC 1037/13|Uzasadnienie|https://www.saos.org.pl/judgments/73109
-334939|2014-06-04|SO|VIII Ga 3/14|Uzasadnienie|https://www.saos.org.pl/judgments/334939
-30787|2013-11-12|SO|VI ACa 182/13|Wyrok|https://www.saos.org.pl/judgments/30787
-88809|2008-10-02|SN|II CSK 186/08|Postanowienie|https://www.saos.org.pl/judgments/88809
-87235|2008-02-08|SN|I CSK 399/07|Wyrok|https://www.saos.org.pl/judgments/87235
+saos_id|date|court|case_number|type|score|saos_url
+206671|2015-06-16|TK|K 25/12|Wyrok|98|https://www.saos.org.pl/judgments/206671
+87235|2008-02-08|SN|I CSK 399/07|Wyrok|78|https://www.saos.org.pl/judgments/87235
+88809|2008-10-02|SN|II CSK 186/08|Postanowienie|69|https://www.saos.org.pl/judgments/88809
+381816|2018-05-22|SO|V AGa 199/18|Wyrok|56|https://www.saos.org.pl/judgments/381816
+339808|2017-12-28|SO|II AKa 492/17|Wyrok|56|https://www.saos.org.pl/judgments/339808
+30787|2013-11-12|SO|VI ACa 182/13|Wyrok|56|https://www.saos.org.pl/judgments/30787
+520144|2022-06-20|SO|V GC 167/21|Wyrok|40|https://www.saos.org.pl/judgments/520144
+65869|2014-07-23|SO|XII Ga 183/14|Wyrok|40|https://www.saos.org.pl/judgments/65869
+216524|2016-04-07|SO|XIII Ga 981/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/216524

@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-494986|2023-08-10|SO|I AGa 255/22|Wyrok|https://www.saos.org.pl/judgments/494986
-372305|2018-09-06|SO|V AGa 102/18|Wyrok|https://www.saos.org.pl/judgments/372305
-364778|2018-05-10|SO|II AKa 18/18|Wyrok|https://www.saos.org.pl/judgments/364778
-271417|2016-12-09|SO|I ACa 1151/15|Wyrok|https://www.saos.org.pl/judgments/271417
-290977|2016-09-20|SO|I ACa 876/14|Wyrok|https://www.saos.org.pl/judgments/290977
-104209|2014-01-28|SN|I CSK 200/13|Wyrok|https://www.saos.org.pl/judgments/104209
+saos_id|date|court|case_number|type|score|saos_url
+104209|2014-01-28|SN|I CSK 200/13|Wyrok|78|https://www.saos.org.pl/judgments/104209
+494986|2023-08-10|SO|I AGa 255/22|Wyrok|56|https://www.saos.org.pl/judgments/494986
+372305|2018-09-06|SO|V AGa 102/18|Wyrok|56|https://www.saos.org.pl/judgments/372305
+364778|2018-05-10|SO|II AKa 18/18|Wyrok|56|https://www.saos.org.pl/judgments/364778
+271417|2016-12-09|SO|I ACa 1151/15|Wyrok|56|https://www.saos.org.pl/judgments/271417
+290977|2016-09-20|SO|I ACa 876/14|Wyrok|56|https://www.saos.org.pl/judgments/290977

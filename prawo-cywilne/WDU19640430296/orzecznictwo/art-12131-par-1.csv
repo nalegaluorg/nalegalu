@@ -1,16 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-447534|2021-06-30|SO|I AGo 16/20|Postanowienie|https://www.saos.org.pl/judgments/447534
-419703|2020-04-23|SO|I AGo 5/20|Postanowienie|https://www.saos.org.pl/judgments/419703
-454113|2019-09-10|SO|I ACo 51/19|Postanowienie|https://www.saos.org.pl/judgments/454113
-388861|2019-02-28|SO|I AGo 30/18|Postanowienie|https://www.saos.org.pl/judgments/388861
-361770|2018-10-09|SO|I AGo 12/18|Postanowienie|https://www.saos.org.pl/judgments/361770
-453975|2017-12-08|SO|I ACo 100/17|Postanowienie|https://www.saos.org.pl/judgments/453975
-453976|2017-04-13|SO|I ACo 13/17|Postanowienie|https://www.saos.org.pl/judgments/453976
-454137|2017-03-16|SO|I ACo 77/16|Postanowienie|https://www.saos.org.pl/judgments/454137
-454100|2017-02-28|SO|I ACo 1/17|Postanowienie|https://www.saos.org.pl/judgments/454100
-271450|2016-12-30|SO|I ACo 60/16|Postanowienie|https://www.saos.org.pl/judgments/271450
-324588|2016-12-22|SO|XXVI GCo 177/16|Postanowienie|https://www.saos.org.pl/judgments/324588
-454120|2016-11-25|SO|I ACo 60/16|Postanowienie|https://www.saos.org.pl/judgments/454120
-251672|2016-04-20|SO|XXII GWo 48/16|Postanowienie|https://www.saos.org.pl/judgments/251672
-324589|2016-04-09|SO|XXVI GCo 39/16|Postanowienie|https://www.saos.org.pl/judgments/324589
-324576|2016-03-04|SO|XX GCo 13/16|Postanowienie|https://www.saos.org.pl/judgments/324576
+saos_id|date|court|case_number|type|score|saos_url
+447534|2021-06-30|SO|I AGo 16/20|Postanowienie|47|https://www.saos.org.pl/judgments/447534
+419703|2020-04-23|SO|I AGo 5/20|Postanowienie|47|https://www.saos.org.pl/judgments/419703
+454113|2019-09-10|SO|I ACo 51/19|Postanowienie|47|https://www.saos.org.pl/judgments/454113
+388861|2019-02-28|SO|I AGo 30/18|Postanowienie|47|https://www.saos.org.pl/judgments/388861
+361770|2018-10-09|SO|I AGo 12/18|Postanowienie|47|https://www.saos.org.pl/judgments/361770
+453975|2017-12-08|SO|I ACo 100/17|Postanowienie|47|https://www.saos.org.pl/judgments/453975
+453976|2017-04-13|SO|I ACo 13/17|Postanowienie|47|https://www.saos.org.pl/judgments/453976
+454137|2017-03-16|SO|I ACo 77/16|Postanowienie|47|https://www.saos.org.pl/judgments/454137
+454100|2017-02-28|SO|I ACo 1/17|Postanowienie|47|https://www.saos.org.pl/judgments/454100
+271450|2016-12-30|SO|I ACo 60/16|Postanowienie|47|https://www.saos.org.pl/judgments/271450
+454120|2016-11-25|SO|I ACo 60/16|Postanowienie|47|https://www.saos.org.pl/judgments/454120

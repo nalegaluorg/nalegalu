@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 7 czerwca 2004
 
 ## art. 4 (1)
 
-- 2005-02-23 | SN | [III UK 213/04](https://www.saos.org.pl/judgments/83248) | Wyrok
+- 2005-02-23 | SN | [III UK 213/04](https://www.saos.org.pl/judgments/83248) | Wyrok ★
 

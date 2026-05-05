@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-542424|2025-06-10|SO|I ACa 647/20|Wyrok|https://www.saos.org.pl/judgments/542424
-474207|2022-07-08|SO|VIII GC 160/21|Uzasadnienie|https://www.saos.org.pl/judgments/474207
-425669|2020-09-29|SO|I C 726/19|Wyrok|https://www.saos.org.pl/judgments/425669
-417413|2020-07-06|SO|I C 286/20|Wyrok|https://www.saos.org.pl/judgments/417413
-407355|2019-11-19|SO|I ACa 255/19|Wyrok|https://www.saos.org.pl/judgments/407355
-66453|2014-09-19|SO|VIII Ga 223/14|Wyrok|https://www.saos.org.pl/judgments/66453
-56663|2014-07-04|SO|I ACa 386/14|Wyrok|https://www.saos.org.pl/judgments/56663
-52036|2014-01-24|SO|I ACa 1187/13|Wyrok|https://www.saos.org.pl/judgments/52036
-29422|2013-11-07|SO|VI ACa 251/13|Wyrok|https://www.saos.org.pl/judgments/29422
-81948|2003-04-01|SN|IV CKN 366/01|Wyrok|https://www.saos.org.pl/judgments/81948
+saos_id|date|court|case_number|type|score|saos_url
+81948|2003-04-01|SN|IV CKN 366/01|Wyrok|78|https://www.saos.org.pl/judgments/81948
+542424|2025-06-10|SO|I ACa 647/20|Wyrok|56|https://www.saos.org.pl/judgments/542424
+407355|2019-11-19|SO|I ACa 255/19|Wyrok|56|https://www.saos.org.pl/judgments/407355
+56663|2014-07-04|SO|I ACa 386/14|Wyrok|56|https://www.saos.org.pl/judgments/56663
+52036|2014-01-24|SO|I ACa 1187/13|Wyrok|56|https://www.saos.org.pl/judgments/52036
+29422|2013-11-07|SO|VI ACa 251/13|Wyrok|56|https://www.saos.org.pl/judgments/29422

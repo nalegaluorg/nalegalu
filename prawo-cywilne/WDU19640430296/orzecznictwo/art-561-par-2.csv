@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-476274|2022-10-05|SO|II Ca 1470/22|Postanowienie|https://www.saos.org.pl/judgments/476274
-196371|2015-12-16|SO|III Ca 725/15|Postanowienie|https://www.saos.org.pl/judgments/196371
-193311|2015-12-10|SO|III Ca 723/15|Postanowienie|https://www.saos.org.pl/judgments/193311
-42858|2014-04-09|SO|III Ca 63/14|Postanowienie|https://www.saos.org.pl/judgments/42858
-103855|2013-12-13|SN|III CZP 89/13|Postanowienie|https://www.saos.org.pl/judgments/103855
-22813|2013-09-12|SO|III Ca 526/13|Postanowienie|https://www.saos.org.pl/judgments/22813
-22698|2012-12-05|SO|VI ACa 705/12|Wyrok|https://www.saos.org.pl/judgments/22698
-81383|2002-05-09|SN|III CZP 7/02|Uchwała|https://www.saos.org.pl/judgments/81383
-79353|1999-11-10|SN|I CKN 202/98|Wyrok|https://www.saos.org.pl/judgments/79353
+saos_id|date|court|case_number|type|score|saos_url
+81383|2002-05-09|SN|III CZP 7/02|Uchwała|96|https://www.saos.org.pl/judgments/81383
+79353|1999-11-10|SN|I CKN 202/98|Wyrok|78|https://www.saos.org.pl/judgments/79353
+103855|2013-12-13|SN|III CZP 89/13|Postanowienie|69|https://www.saos.org.pl/judgments/103855
+22698|2012-12-05|SO|VI ACa 705/12|Wyrok|56|https://www.saos.org.pl/judgments/22698

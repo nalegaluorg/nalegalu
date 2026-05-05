@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-394438|2019-08-06|SO|VII Ka 622/19|Wyrok|https://www.saos.org.pl/judgments/394438
-88552|2008-07-29|SN|WA 27/08|Wyrok|https://www.saos.org.pl/judgments/88552
+saos_id|date|court|case_number|type|score|saos_url
+88552|2008-07-29|SN|WA 27/08|Wyrok|78|https://www.saos.org.pl/judgments/88552
+394438|2019-08-06|SO|VII Ka 622/19|Wyrok|40|https://www.saos.org.pl/judgments/394438

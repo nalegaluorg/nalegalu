@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-111591|2013-03-27|TK|K 27/12|Wyrok|https://www.saos.org.pl/judgments/111591
-94780|2011-04-14|SN|WZ 10/11|Postanowienie|https://www.saos.org.pl/judgments/94780
-109704|2010-07-20|TK|P 13/10|Postanowienie|https://www.saos.org.pl/judgments/109704
+saos_id|date|court|case_number|type|score|saos_url
+111591|2013-03-27|TK|K 27/12|Wyrok|98|https://www.saos.org.pl/judgments/111591
+109704|2010-07-20|TK|P 13/10|Postanowienie|80|https://www.saos.org.pl/judgments/109704
+94780|2011-04-14|SN|WZ 10/11|Postanowienie|69|https://www.saos.org.pl/judgments/94780

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-413279|2020-01-31|SO|II AKa 192/19|Uzasadnienie|https://www.saos.org.pl/judgments/413279
-149068|2015-03-11|SO|II AKa 42/15|Wyrok|https://www.saos.org.pl/judgments/149068
-147978|2014-06-04|SO|II AKa 88/14|Wyrok|https://www.saos.org.pl/judgments/147978
+saos_id|date|court|case_number|type|score|saos_url
+149068|2015-03-11|SO|II AKa 42/15|Wyrok|56|https://www.saos.org.pl/judgments/149068
+147978|2014-06-04|SO|II AKa 88/14|Wyrok|56|https://www.saos.org.pl/judgments/147978
+413279|2020-01-31|SO|II AKa 192/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/413279

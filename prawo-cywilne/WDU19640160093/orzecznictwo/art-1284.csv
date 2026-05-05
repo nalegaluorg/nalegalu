@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-371359|2018-12-13|SO|I AGa 283/18|Wyrok|https://www.saos.org.pl/judgments/371359
-380970|2018-06-22|SO|X GC 85/17|Uzasadnienie|https://www.saos.org.pl/judgments/380970
-282066|2017-03-09|SO|I ACa 1079/16|Wyrok|https://www.saos.org.pl/judgments/282066
-317140|2016-12-29|SO|I ACa 460/16|Wyrok|https://www.saos.org.pl/judgments/317140
-240623|2016-05-24|SO|X GC 479/15|Zarządzenie|https://www.saos.org.pl/judgments/240623
-240622|2016-04-21|SO|X GC 479/15|Wyrok|https://www.saos.org.pl/judgments/240622
-240271|2016-03-23|SO|X GC 914/14|Uzasadnienie|https://www.saos.org.pl/judgments/240271
-223774|2016-03-15|SO|I ACa 100/16|Wyrok|https://www.saos.org.pl/judgments/223774
-175077|2015-07-08|SO|X GC 783/14|Uzasadnienie|https://www.saos.org.pl/judgments/175077
-21799|2013-09-26|SO|I ACa 469/13|Wyrok|https://www.saos.org.pl/judgments/21799
+saos_id|date|court|case_number|type|score|saos_url
+371359|2018-12-13|SO|I AGa 283/18|Wyrok|56|https://www.saos.org.pl/judgments/371359
+282066|2017-03-09|SO|I ACa 1079/16|Wyrok|56|https://www.saos.org.pl/judgments/282066
+317140|2016-12-29|SO|I ACa 460/16|Wyrok|56|https://www.saos.org.pl/judgments/317140
+223774|2016-03-15|SO|I ACa 100/16|Wyrok|56|https://www.saos.org.pl/judgments/223774
+21799|2013-09-26|SO|I ACa 469/13|Wyrok|56|https://www.saos.org.pl/judgments/21799
+240622|2016-04-21|SO|X GC 479/15|Wyrok|40|https://www.saos.org.pl/judgments/240622
+380970|2018-06-22|SO|X GC 85/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/380970
+240623|2016-05-24|SO|X GC 479/15|Zarządzenie|27|https://www.saos.org.pl/judgments/240623
+240271|2016-03-23|SO|X GC 914/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/240271
+175077|2015-07-08|SO|X GC 783/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/175077

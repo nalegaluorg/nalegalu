@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-371142|2018-07-17|SO|XVIII C 1239/17|Wyrok|https://www.saos.org.pl/judgments/371142
-250695|2016-07-28|SO|I ACa 400/16|Wyrok|https://www.saos.org.pl/judgments/250695
-221287|2016-04-22|SO|I C 1814/15|Wyrok|https://www.saos.org.pl/judgments/221287
-204737|2016-01-22|SO|V ACa 350/15|Wyrok|https://www.saos.org.pl/judgments/204737
-74508|2014-11-27|SO|VI Ga 301/14|Wyrok|https://www.saos.org.pl/judgments/74508
-41141|2014-01-31|SO|VI Ga 20/14|Wyrok|https://www.saos.org.pl/judgments/41141
-251659|2010-10-13|SO|XX GC 163/10|Wyrok|https://www.saos.org.pl/judgments/251659
-164753|2006-12-06|SN|IV CSK 232/06|Wyrok|https://www.saos.org.pl/judgments/164753
+saos_id|date|court|case_number|type|score|saos_url
+164753|2006-12-06|SN|IV CSK 232/06|Wyrok|78|https://www.saos.org.pl/judgments/164753
+250695|2016-07-28|SO|I ACa 400/16|Wyrok|56|https://www.saos.org.pl/judgments/250695
+204737|2016-01-22|SO|V ACa 350/15|Wyrok|56|https://www.saos.org.pl/judgments/204737
+371142|2018-07-17|SO|XVIII C 1239/17|Wyrok|40|https://www.saos.org.pl/judgments/371142
+74508|2014-11-27|SO|VI Ga 301/14|Wyrok|40|https://www.saos.org.pl/judgments/74508
+41141|2014-01-31|SO|VI Ga 20/14|Wyrok|40|https://www.saos.org.pl/judgments/41141

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-405064|2019-12-23|SO|VI Ka 647/19|Wyrok|https://www.saos.org.pl/judgments/405064
-461786|2019-10-25|SO|II AKa 339/19|Wyrok|https://www.saos.org.pl/judgments/461786
+saos_id|date|court|case_number|type|score|saos_url
+461786|2019-10-25|SO|II AKa 339/19|Wyrok|56|https://www.saos.org.pl/judgments/461786

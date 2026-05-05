@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-51292|2014-02-18|SO|III Ca 1524/13|Postanowienie|https://www.saos.org.pl/judgments/51292
-7448|2013-02-21|SO|II Ca 731/12|Wyrok|https://www.saos.org.pl/judgments/7448
+saos_id|date|court|case_number|type|score|saos_url
+7448|2013-02-21|SO|II Ca 731/12|Wyrok|40|https://www.saos.org.pl/judgments/7448

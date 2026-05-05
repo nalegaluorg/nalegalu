@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-420527|2019-06-26|SO|II AKa 239/18|Uzasadnienie|https://www.saos.org.pl/judgments/420527
-343296|2018-05-10|SO|II AKa 99/18|Wyrok|https://www.saos.org.pl/judgments/343296
-304929|2017-07-26|SO|II AKa 179/17|Wyrok|https://www.saos.org.pl/judgments/304929
-297709|2017-04-19|SO|II AKa 452/16|Wyrok|https://www.saos.org.pl/judgments/297709
+saos_id|date|court|case_number|type|score|saos_url
+343296|2018-05-10|SO|II AKa 99/18|Wyrok|56|https://www.saos.org.pl/judgments/343296
+304929|2017-07-26|SO|II AKa 179/17|Wyrok|56|https://www.saos.org.pl/judgments/304929
+297709|2017-04-19|SO|II AKa 452/16|Wyrok|56|https://www.saos.org.pl/judgments/297709
+420527|2019-06-26|SO|II AKa 239/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/420527

@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-430559|2019-11-27|SO|II K 576/18|Zarządzenie|https://www.saos.org.pl/judgments/430559
+saos_id|date|court|case_number|type|score|saos_url
+83714|2005-09-14|SN|III CZP 57/05|Uchwała|89|https://www.saos.org.pl/judgments/83714
+468484|2022-05-27|SO|I AGa 60/21|Wyrok|56|https://www.saos.org.pl/judgments/468484
+445339|2020-11-23|SO|I ACa 1006/19|Wyrok|56|https://www.saos.org.pl/judgments/445339
+333074|2017-10-23|SO|VI ACa 1133/16|Wyrok|56|https://www.saos.org.pl/judgments/333074
+447743|2021-09-10|SO|I ACa 772/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/447743
+75556|2014-12-05|SO|VI Gz 296/14|Postanowienie|31|https://www.saos.org.pl/judgments/75556

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-438084|2021-03-24|SO|I ACa 83/21|Wyrok|https://www.saos.org.pl/judgments/438084
-337737|2018-04-05|SO|I C 231/16|Wyrok|https://www.saos.org.pl/judgments/337737
-58802|2014-07-07|SO|I ACa 1038/13|Wyrok|https://www.saos.org.pl/judgments/58802
-14227|2013-06-06|SO|I ACa 203/13|Wyrok|https://www.saos.org.pl/judgments/14227
-7794|2013-01-17|SO|I ACa 857/12|Wyrok|https://www.saos.org.pl/judgments/7794
+saos_id|date|court|case_number|type|score|saos_url
+438084|2021-03-24|SO|I ACa 83/21|Wyrok|56|https://www.saos.org.pl/judgments/438084
+58802|2014-07-07|SO|I ACa 1038/13|Wyrok|56|https://www.saos.org.pl/judgments/58802
+14227|2013-06-06|SO|I ACa 203/13|Wyrok|56|https://www.saos.org.pl/judgments/14227
+7794|2013-01-17|SO|I ACa 857/12|Wyrok|56|https://www.saos.org.pl/judgments/7794

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-469191|2021-03-25|SO|III AUa 916/20|Wyrok|https://www.saos.org.pl/judgments/469191
-19772|2013-04-16|SO|VI ACa 11/13|Wyrok|https://www.saos.org.pl/judgments/19772
-78945|1999-04-07|SN|I PKN 648/98|Wyrok|https://www.saos.org.pl/judgments/78945
+saos_id|date|court|case_number|type|score|saos_url
+78945|1999-04-07|SN|I PKN 648/98|Wyrok|78|https://www.saos.org.pl/judgments/78945
+469191|2021-03-25|SO|III AUa 916/20|Wyrok|56|https://www.saos.org.pl/judgments/469191
+19772|2013-04-16|SO|VI ACa 11/13|Wyrok|56|https://www.saos.org.pl/judgments/19772

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-517536|2024-05-07|SO|I C 1334/23|Wyrok|https://www.saos.org.pl/judgments/517536
-298652|2017-03-31|SO|III C 509/16|Wyrok|https://www.saos.org.pl/judgments/298652
+saos_id|date|court|case_number|type|score|saos_url
+298652|2017-03-31|SO|III C 509/16|Wyrok|40|https://www.saos.org.pl/judgments/298652

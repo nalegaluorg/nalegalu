@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-537591|2025-03-17|SO|I ACa 1378/22|Wyrok|https://www.saos.org.pl/judgments/537591
-530699|2024-06-18|SO|III AUa 344/23|Wyrok|https://www.saos.org.pl/judgments/530699
-475383|2020-01-22|SO|VIII U 1513/19|Wyrok|https://www.saos.org.pl/judgments/475383
-370253|2018-10-15|SO|III RC 78/18|Postanowienie|https://www.saos.org.pl/judgments/370253
-448524|2018-06-05|SO|I ACa 1279/17|Wyrok|https://www.saos.org.pl/judgments/448524
-332318|2018-02-28|SO|I C 2206/12|Wyrok|https://www.saos.org.pl/judgments/332318
-214096|2016-03-09|SO|VII U 740/15|Wyrok|https://www.saos.org.pl/judgments/214096
-213745|2016-01-11|SO|I ACz 2406/15|Postanowienie|https://www.saos.org.pl/judgments/213745
-198732|2015-12-16|SO|IV U 1307/14|Wyrok|https://www.saos.org.pl/judgments/198732
-210710|2015-11-19|SO|VI ACa 1632/14|Wyrok|https://www.saos.org.pl/judgments/210710
-180557|2015-08-19|SO|II Ca 1010/15|Postanowienie|https://www.saos.org.pl/judgments/180557
-170026|2015-07-01|SO|III AUa 339/15|Wyrok|https://www.saos.org.pl/judgments/170026
-191855|2015-04-14|SO|I Ns 275/14|Postanowienie|https://www.saos.org.pl/judgments/191855
-72033|2014-08-22|SO|XV Ca 574/14|Wyrok|https://www.saos.org.pl/judgments/72033
-139412|2013-06-18|SO|I Ca 234/13|Postanowienie|https://www.saos.org.pl/judgments/139412
-13168|2013-06-14|SO|VIII Cz 344/13|Postanowienie|https://www.saos.org.pl/judgments/13168
-5059|2013-01-31|SO|II Cz 66/13|Postanowienie|https://www.saos.org.pl/judgments/5059
+saos_id|date|court|case_number|type|score|saos_url
+537591|2025-03-17|SO|I ACa 1378/22|Wyrok|56|https://www.saos.org.pl/judgments/537591
+530699|2024-06-18|SO|III AUa 344/23|Wyrok|56|https://www.saos.org.pl/judgments/530699
+448524|2018-06-05|SO|I ACa 1279/17|Wyrok|56|https://www.saos.org.pl/judgments/448524
+210710|2015-11-19|SO|VI ACa 1632/14|Wyrok|56|https://www.saos.org.pl/judgments/210710
+170026|2015-07-01|SO|III AUa 339/15|Wyrok|56|https://www.saos.org.pl/judgments/170026
+213745|2016-01-11|SO|I ACz 2406/15|Postanowienie|47|https://www.saos.org.pl/judgments/213745
+72033|2014-08-22|SO|XV Ca 574/14|Wyrok|40|https://www.saos.org.pl/judgments/72033
+180557|2015-08-19|SO|II Ca 1010/15|Postanowienie|31|https://www.saos.org.pl/judgments/180557

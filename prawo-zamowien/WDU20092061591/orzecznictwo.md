@@ -2,14 +2,12 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - Prawo zamówień publicznych oraz ustawy o kosztach sądowych w sprawach cywilnych*
 
-Łącznie: **83** orzeczeń
-
-## art. 1 (1)
-
-- 2016-03-17 | SO | [XXIII Ga 2113/15](https://www.saos.org.pl/judgments/232506) | Wyrok
+Łącznie: **82** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 2 (8)
 
+- 2010-12-17 | SN | [III CZP 103/10](https://www.saos.org.pl/judgments/93774) | Uchwała ★
 - 2014-02-12 | KIO | [KIO 197/14](https://www.saos.org.pl/judgments/124340) | Wyrok
 - 2012-11-09 | KIO | [KIO 2280/12](https://www.saos.org.pl/judgments/121297) | Wyrok
 - 2012-10-30 | KIO | [KIO 2255/12](https://www.saos.org.pl/judgments/121276) | Wyrok
@@ -17,7 +15,6 @@ Orzeczenia powołujące: *Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - P
 - 2012-07-26 | KIO | [KIO 1485/12](https://www.saos.org.pl/judgments/120694) | Wyrok
 - 2012-01-18 | KIO | [KIO 41/12](https://www.saos.org.pl/judgments/119572) | Wyrok
 - 2012-01-12 | KIO | [KIO 2801/11](https://www.saos.org.pl/judgments/119524) | Wyrok
-- 2010-12-17 | SN | [III CZP 103/10](https://www.saos.org.pl/judgments/93774) | Uchwała
 
 ## art. 3 (2)
 
@@ -133,10 +130,10 @@ Orzeczenia powołujące: *Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - P
 - 2011-12-01 | KIO | [KIO 2510/11](https://www.saos.org.pl/judgments/119305) | Wyrok
 - 2011-10-18 | KIO | [KIO 2172/11](https://www.saos.org.pl/judgments/119055) | Wyrok
 - 2010-12-27 | KIO | [KIO 2661/10](https://www.saos.org.pl/judgments/117281) | Wyrok
-- 2010-12-21 | KIO | [KIO/UZP 2659/10](https://www.saos.org.pl/judgments/117279) | Postanowienie
 - 2010-10-27 | KIO | [KIO 2238/10](https://www.saos.org.pl/judgments/116943) | Wyrok
 - 2010-08-25 | KIO | [KIO 1704/10](https://www.saos.org.pl/judgments/116535) | Wyrok
 - 2010-07-22 | KIO | [KIO 1435/10](https://www.saos.org.pl/judgments/116333) | Wyrok
+- 2010-12-21 | KIO | [KIO/UZP 2659/10](https://www.saos.org.pl/judgments/117279) | Postanowienie
 
 ## art. 25 (7)
 
@@ -318,10 +315,10 @@ Orzeczenia powołujące: *Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - P
 - 2011-12-13 | KIO | [KIO 2567/11](https://www.saos.org.pl/judgments/119351) | Wyrok
 - 2011-11-29 | KIO | [KIO 2478/11](https://www.saos.org.pl/judgments/119283) | Wyrok
 - 2011-10-18 | KIO | [KIO 2172/11](https://www.saos.org.pl/judgments/119055) | Wyrok
-- 2010-12-21 | KIO | [KIO/UZP 2659/10](https://www.saos.org.pl/judgments/117279) | Postanowienie
 - 2010-07-22 | KIO | [KIO 1435/10](https://www.saos.org.pl/judgments/116333) | Wyrok
 - 2010-04-19 | KIO | [KIO 412/10](https://www.saos.org.pl/judgments/115600) | Wyrok
 - 2010-04-14 | KIO | [KIO 471/10](https://www.saos.org.pl/judgments/115647) | Wyrok
+- 2010-12-21 | KIO | [KIO/UZP 2659/10](https://www.saos.org.pl/judgments/117279) | Postanowienie
 
 ## art. 90 (12)
 
@@ -458,8 +455,8 @@ Orzeczenia powołujące: *Ustawa z dnia 5 listopada 2009 r. o zmianie ustawy - P
 
 ## art. 187 (3)
 
-- 2010-11-19 | KIO | [KIO/UZP 2431/10](https://www.saos.org.pl/judgments/117105) | Postanowienie
 - 2010-06-23 | KIO | [KIO/UZP 1146/10](https://www.saos.org.pl/judgments/116128) | Wyrok
+- 2010-11-19 | KIO | [KIO/UZP 2431/10](https://www.saos.org.pl/judgments/117105) | Postanowienie
 - 2010-06-09 | KIO | [KIO 1038/10](https://www.saos.org.pl/judgments/116049) | Postanowienie
 
 ## art. 189 (37)

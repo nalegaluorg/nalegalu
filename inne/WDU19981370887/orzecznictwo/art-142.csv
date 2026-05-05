@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-532065|2025-03-21|SO|III AUa 251/24|Wyrok|https://www.saos.org.pl/judgments/532065
-427348|2020-12-09|SO|VIII U 4783/19|Zarządzenie|https://www.saos.org.pl/judgments/427348
-410953|2020-03-18|SO|VIII U 436/19|Uzasadnienie|https://www.saos.org.pl/judgments/410953
+saos_id|date|court|case_number|type|score|saos_url
+532065|2025-03-21|SO|III AUa 251/24|Wyrok|56|https://www.saos.org.pl/judgments/532065
+427348|2020-12-09|SO|VIII U 4783/19|Zarządzenie|27|https://www.saos.org.pl/judgments/427348
+410953|2020-03-18|SO|VIII U 436/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/410953

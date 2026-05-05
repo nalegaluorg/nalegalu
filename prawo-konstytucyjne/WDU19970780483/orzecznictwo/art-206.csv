@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-448300|2021-09-15|SO|I ACa 461/21|Wyrok|https://www.saos.org.pl/judgments/448300
-478996|2018-11-19|SO|XVII AmT 16/18|Wyrok|https://www.saos.org.pl/judgments/478996
-306403|2017-06-27|SO|VI ACa 293/16|Wyrok|https://www.saos.org.pl/judgments/306403
-206684|2015-12-09|TK|K 35/15|Wyrok|https://www.saos.org.pl/judgments/206684
-194997|2015-07-14|SO|VI ACa 1171/14|Wyrok|https://www.saos.org.pl/judgments/194997
-206122|2001-11-28|TK|K 36/01|Wyrok|https://www.saos.org.pl/judgments/206122
+saos_id|date|court|case_number|type|score|saos_url
+206684|2015-12-09|TK|K 35/15|Wyrok|98|https://www.saos.org.pl/judgments/206684
+206122|2001-11-28|TK|K 36/01|Wyrok|98|https://www.saos.org.pl/judgments/206122
+448300|2021-09-15|SO|I ACa 461/21|Wyrok|56|https://www.saos.org.pl/judgments/448300
+306403|2017-06-27|SO|VI ACa 293/16|Wyrok|56|https://www.saos.org.pl/judgments/306403
+194997|2015-07-14|SO|VI ACa 1171/14|Wyrok|56|https://www.saos.org.pl/judgments/194997

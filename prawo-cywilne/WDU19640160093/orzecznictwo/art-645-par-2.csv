@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-520585|2024-02-20|SO|I C 93/21|Wyrok|https://www.saos.org.pl/judgments/520585
-97498|2012-03-15|SN|I CSK 287/11|Wyrok|https://www.saos.org.pl/judgments/97498
-97497|2012-03-15|SN|I CSK 287/11|Wyrok|https://www.saos.org.pl/judgments/97497
+saos_id|date|court|case_number|type|score|saos_url
+97498|2012-03-15|SN|I CSK 287/11|Wyrok|78|https://www.saos.org.pl/judgments/97498
+97497|2012-03-15|SN|I CSK 287/11|Wyrok|78|https://www.saos.org.pl/judgments/97497
+520585|2024-02-20|SO|I C 93/21|Wyrok|40|https://www.saos.org.pl/judgments/520585

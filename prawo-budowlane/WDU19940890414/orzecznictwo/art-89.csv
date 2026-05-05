@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-294857|2015-08-25|SO|I ACa 829/15|Wyrok|https://www.saos.org.pl/judgments/294857
+saos_id|date|court|case_number|type|score|saos_url
+294857|2015-08-25|SO|I ACa 829/15|Wyrok|56|https://www.saos.org.pl/judgments/294857

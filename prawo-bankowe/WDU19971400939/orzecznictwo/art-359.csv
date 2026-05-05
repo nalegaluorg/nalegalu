@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531667|2024-03-11|SO|III Ca 1606/23|Uzasadnienie|https://www.saos.org.pl/judgments/531667
-497696|2023-12-18|SO|I C 339/23|Wyrok|https://www.saos.org.pl/judgments/497696
-498865|2022-12-20|SO|I C 615/22|Wyrok|https://www.saos.org.pl/judgments/498865
-487931|2022-03-24|SO|I C 199/22|Wyrok|https://www.saos.org.pl/judgments/487931
-498245|2021-03-11|SO|I C 463/20|Wyrok|https://www.saos.org.pl/judgments/498245
-498772|2020-12-01|SO|I C 591/19|Wyrok|https://www.saos.org.pl/judgments/498772
+saos_id|date|court|case_number|type|score|saos_url
+531667|2024-03-11|SO|III Ca 1606/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/531667

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 11 stycznia 2001 r. o zmianie ustawy o s
 
 ## art. 1 (1)
 
-- 2008-12-18 | TK | [P 16/07](https://www.saos.org.pl/judgments/108568) | Wyrok
+- 2008-12-18 | TK | [P 16/07](https://www.saos.org.pl/judgments/108568) | Wyrok ★
 

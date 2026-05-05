@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245291|2016-05-19|SN|II PK 100/15|Wyrok|https://www.saos.org.pl/judgments/245291
+saos_id|date|court|case_number|type|score|saos_url
+245291|2016-05-19|SN|II PK 100/15|Wyrok|78|https://www.saos.org.pl/judgments/245291

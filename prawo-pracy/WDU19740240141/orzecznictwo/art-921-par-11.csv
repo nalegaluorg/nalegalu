@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-517756|2024-11-20|SO|VII Pa 84/23|Wyrok|https://www.saos.org.pl/judgments/517756
-517755|2024-11-20|SO|VII Pa 82/23|Wyrok|https://www.saos.org.pl/judgments/517755
+saos_id|date|court|case_number|type|score|saos_url
+517756|2024-11-20|SO|VII Pa 84/23|Wyrok|40|https://www.saos.org.pl/judgments/517756
+517755|2024-11-20|SO|VII Pa 82/23|Wyrok|40|https://www.saos.org.pl/judgments/517755

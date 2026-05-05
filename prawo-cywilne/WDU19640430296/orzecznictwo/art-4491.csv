@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-157805|2015-02-25|SO|I ACa 760/14|Wyrok|https://www.saos.org.pl/judgments/157805
-53143|2014-05-29|SO|I ACa 377/13|Wyrok|https://www.saos.org.pl/judgments/53143
+saos_id|date|court|case_number|type|score|saos_url
+157805|2015-02-25|SO|I ACa 760/14|Wyrok|56|https://www.saos.org.pl/judgments/157805
+53143|2014-05-29|SO|I ACa 377/13|Wyrok|56|https://www.saos.org.pl/judgments/53143

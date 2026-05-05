@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163074|2005-03-10|SN|III CZ 6/05|Postanowienie|https://www.saos.org.pl/judgments/163074
+saos_id|date|court|case_number|type|score|saos_url
+163074|2005-03-10|SN|III CZ 6/05|Postanowienie|69|https://www.saos.org.pl/judgments/163074

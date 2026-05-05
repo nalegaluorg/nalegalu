@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-85444|2007-03-15|SN|II CZ 11/07|Postanowienie|https://www.saos.org.pl/judgments/85444
+saos_id|date|court|case_number|type|score|saos_url
+85444|2007-03-15|SN|II CZ 11/07|Postanowienie|69|https://www.saos.org.pl/judgments/85444

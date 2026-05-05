@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-88849|2008-10-10|SN|II CSK 232/08|Wyrok|https://www.saos.org.pl/judgments/88849
+saos_id|date|court|case_number|type|score|saos_url
+88849|2008-10-10|SN|II CSK 232/08|Wyrok|78|https://www.saos.org.pl/judgments/88849

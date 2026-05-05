@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-32192|2013-11-08|SO|VI Pa 79/13|Wyrok|https://www.saos.org.pl/judgments/32192
-102578|2013-08-08|SN|III KK 205/13|Postanowienie|https://www.saos.org.pl/judgments/102578
+saos_id|date|court|case_number|type|score|saos_url
+102578|2013-08-08|SN|III KK 205/13|Postanowienie|69|https://www.saos.org.pl/judgments/102578

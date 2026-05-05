@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-430857|2020-11-06|SO|V GC 552/20|Wyrok|https://www.saos.org.pl/judgments/430857
-430295|2020-10-05|SO|V GC 2332/18|Wyrok|https://www.saos.org.pl/judgments/430295
-150579|2015-03-12|SO|I ACa 1795/14|Wyrok|https://www.saos.org.pl/judgments/150579
-50811|2014-04-10|SO|II Ca 174/14|Wyrok|https://www.saos.org.pl/judgments/50811
+saos_id|date|court|case_number|type|score|saos_url
+150579|2015-03-12|SO|I ACa 1795/14|Wyrok|56|https://www.saos.org.pl/judgments/150579

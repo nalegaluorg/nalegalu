@@ -1,23 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504147|2023-11-06|SO|II Ka 710/23|Wyrok|https://www.saos.org.pl/judgments/504147
-504128|2023-10-31|SO|II Ka 640/23|Wyrok|https://www.saos.org.pl/judgments/504128
-492412|2022-09-05|SO|III W 1287/20|Uzasadnienie|https://www.saos.org.pl/judgments/492412
-431138|2020-12-23|SO|V W 2569/19|Wyrok|https://www.saos.org.pl/judgments/431138
-393337|2019-05-28|SO|XI W 3133/18|Wyrok|https://www.saos.org.pl/judgments/393337
-398564|2019-03-05|SO|XI W 717/18|Wyrok|https://www.saos.org.pl/judgments/398564
-371236|2019-02-14|SO|II Ka 30/19|Wyrok|https://www.saos.org.pl/judgments/371236
-330631|2018-01-23|SO|IV Ka 845/17|Uzasadnienie|https://www.saos.org.pl/judgments/330631
-287383|2017-05-31|SO|II Ka 23/17|Wyrok|https://www.saos.org.pl/judgments/287383
-274264|2017-03-09|SO|II Ka 78/17|Wyrok|https://www.saos.org.pl/judgments/274264
-252690|2016-10-13|SO|IV W 2048/15|Wyrok|https://www.saos.org.pl/judgments/252690
-238530|2016-07-08|SO|VI Ka 557/16|Wyrok|https://www.saos.org.pl/judgments/238530
-197661|2016-01-18|SO|II Ka 665/15|Wyrok|https://www.saos.org.pl/judgments/197661
-215499|2015-12-29|SO|IV W 1707/15|Wyrok|https://www.saos.org.pl/judgments/215499
-192263|2015-12-15|SO|VI Ka 1014/15|Wyrok|https://www.saos.org.pl/judgments/192263
-175105|2015-08-03|SO|XI W 4838/14|Wyrok|https://www.saos.org.pl/judgments/175105
-171273|2015-07-17|SO|VI Ka 115/15|Wyrok|https://www.saos.org.pl/judgments/171273
-176445|2015-06-09|SO|XI W 1928/15|Wyrok|https://www.saos.org.pl/judgments/176445
-158230|2015-06-01|SO|IV Ka 450/15|Wyrok|https://www.saos.org.pl/judgments/158230
-48120|2014-05-06|SO|IV Ka 204/14|Wyrok|https://www.saos.org.pl/judgments/48120
-41482|2014-03-19|SO|VIII W 1735/13|Wyrok|https://www.saos.org.pl/judgments/41482
-38477|2014-03-04|SO|IV Ka 1306/13|Wyrok|https://www.saos.org.pl/judgments/38477
+saos_id|date|court|case_number|type|score|saos_url
+252690|2016-10-13|SO|IV W 2048/15|Wyrok|40|https://www.saos.org.pl/judgments/252690
+215499|2015-12-29|SO|IV W 1707/15|Wyrok|40|https://www.saos.org.pl/judgments/215499
+158230|2015-06-01|SO|IV Ka 450/15|Wyrok|40|https://www.saos.org.pl/judgments/158230

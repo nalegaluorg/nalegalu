@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-219873|2016-02-23|SO|IV Ka 53/16|Wyrok|https://www.saos.org.pl/judgments/219873
+saos_id|date|court|case_number|type|score|saos_url
+219873|2016-02-23|SO|IV Ka 53/16|Wyrok|40|https://www.saos.org.pl/judgments/219873

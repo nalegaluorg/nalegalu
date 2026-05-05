@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-183479|2015-09-22|SO|II Cz 564/15|Postanowienie|https://www.saos.org.pl/judgments/183479
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-6448|2013-03-04|SO|II Cz 15/13|Postanowienie|https://www.saos.org.pl/judgments/6448
-85758|2007-04-26|SN|III CZ 22/07|Postanowienie|https://www.saos.org.pl/judgments/85758
-85456|2007-03-16|SN|III CZ 13/07|Postanowienie|https://www.saos.org.pl/judgments/85456
-164559|2006-10-13|SN|III CZ 55/06|Postanowienie|https://www.saos.org.pl/judgments/164559
+saos_id|date|court|case_number|type|score|saos_url
+85758|2007-04-26|SN|III CZ 22/07|Postanowienie|69|https://www.saos.org.pl/judgments/85758
+85456|2007-03-16|SN|III CZ 13/07|Postanowienie|69|https://www.saos.org.pl/judgments/85456
+164559|2006-10-13|SN|III CZ 55/06|Postanowienie|69|https://www.saos.org.pl/judgments/164559

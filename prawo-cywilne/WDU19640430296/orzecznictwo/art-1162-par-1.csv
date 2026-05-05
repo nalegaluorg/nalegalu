@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-100414|2013-01-23|SN|I CSK 186/12|Postanowienie|https://www.saos.org.pl/judgments/100414
-99331|2012-10-12|SN|IV CSK 82/12|Wyrok|https://www.saos.org.pl/judgments/99331
-94381|2011-03-11|SN|II CSK 385/10|Wyrok|https://www.saos.org.pl/judgments/94381
-90032|2009-04-08|SN|V CSK 405/08|Wyrok|https://www.saos.org.pl/judgments/90032
-89007|2008-10-30|SN|II CSK 263/08|Postanowienie|https://www.saos.org.pl/judgments/89007
-86159|2007-06-20|SN|V CSK 126/07|Wyrok|https://www.saos.org.pl/judgments/86159
+saos_id|date|court|case_number|type|score|saos_url
+99331|2012-10-12|SN|IV CSK 82/12|Wyrok|78|https://www.saos.org.pl/judgments/99331
+94381|2011-03-11|SN|II CSK 385/10|Wyrok|78|https://www.saos.org.pl/judgments/94381
+90032|2009-04-08|SN|V CSK 405/08|Wyrok|78|https://www.saos.org.pl/judgments/90032
+86159|2007-06-20|SN|V CSK 126/07|Wyrok|78|https://www.saos.org.pl/judgments/86159
+100414|2013-01-23|SN|I CSK 186/12|Postanowienie|69|https://www.saos.org.pl/judgments/100414
+89007|2008-10-30|SN|II CSK 263/08|Postanowienie|69|https://www.saos.org.pl/judgments/89007

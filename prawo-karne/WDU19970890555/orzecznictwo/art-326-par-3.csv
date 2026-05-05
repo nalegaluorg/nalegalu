@@ -1,14 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-518977|2022-12-22|SO|II S 31/22|Postanowienie|https://www.saos.org.pl/judgments/518977
-356183|2018-07-31|SO|I C 623/17|Wyrok|https://www.saos.org.pl/judgments/356183
-349036|2018-07-20|SO|II S 32/18|Postanowienie|https://www.saos.org.pl/judgments/349036
-349082|2018-03-13|SO|III AUa 68/17|Wyrok|https://www.saos.org.pl/judgments/349082
-318041|2017-10-24|SO|XVII Ka 805/17|Wyrok|https://www.saos.org.pl/judgments/318041
-243981|2015-12-03|SN|II KK 272/15|Wyrok|https://www.saos.org.pl/judgments/243981
-169169|2015-03-05|SO|I ACa 747/14|Wyrok|https://www.saos.org.pl/judgments/169169
-150357|2014-10-30|SO|II AKa 188/14|Wyrok|https://www.saos.org.pl/judgments/150357
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
-17251|2013-07-31|SO|I ACa 738/13|Wyrok|https://www.saos.org.pl/judgments/17251
-102544|2013-07-25|SN|SDI 19/13|Wyrok|https://www.saos.org.pl/judgments/102544
-108542|2008-07-03|TK|K 38/07|Wyrok|https://www.saos.org.pl/judgments/108542
-84363|2006-06-09|SN|I KZP 13/06|Postanowienie|https://www.saos.org.pl/judgments/84363
+saos_id|date|court|case_number|type|score|saos_url
+108542|2008-07-03|TK|K 38/07|Wyrok|98|https://www.saos.org.pl/judgments/108542
+243981|2015-12-03|SN|II KK 272/15|Wyrok|78|https://www.saos.org.pl/judgments/243981
+102544|2013-07-25|SN|SDI 19/13|Wyrok|78|https://www.saos.org.pl/judgments/102544
+84363|2006-06-09|SN|I KZP 13/06|Postanowienie|69|https://www.saos.org.pl/judgments/84363
+349082|2018-03-13|SO|III AUa 68/17|Wyrok|56|https://www.saos.org.pl/judgments/349082
+169169|2015-03-05|SO|I ACa 747/14|Wyrok|56|https://www.saos.org.pl/judgments/169169
+150357|2014-10-30|SO|II AKa 188/14|Wyrok|56|https://www.saos.org.pl/judgments/150357
+17251|2013-07-31|SO|I ACa 738/13|Wyrok|56|https://www.saos.org.pl/judgments/17251
+518977|2022-12-22|SO|II S 31/22|Postanowienie|47|https://www.saos.org.pl/judgments/518977
+349036|2018-07-20|SO|II S 32/18|Postanowienie|47|https://www.saos.org.pl/judgments/349036
+318041|2017-10-24|SO|XVII Ka 805/17|Wyrok|40|https://www.saos.org.pl/judgments/318041
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-420539|2019-09-20|SO|II AKa 99/19|Uzasadnienie|https://www.saos.org.pl/judgments/420539
-420433|2019-04-30|SO|VII GC 53/19|Wyrok|https://www.saos.org.pl/judgments/420433
-233085|2016-06-30|SO|XIII Ga 268/16|Uzasadnienie|https://www.saos.org.pl/judgments/233085
-59355|2014-06-16|SO|XV GC 4206/13|Uzasadnienie|https://www.saos.org.pl/judgments/59355
+saos_id|date|court|case_number|type|score|saos_url
+420539|2019-09-20|SO|II AKa 99/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/420539
+233085|2016-06-30|SO|XIII Ga 268/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/233085

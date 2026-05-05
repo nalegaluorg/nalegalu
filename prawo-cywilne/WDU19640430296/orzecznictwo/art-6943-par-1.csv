@@ -1,23 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-458179|2021-10-25|SO|II Ca 1215/21|Uzasadnienie|https://www.saos.org.pl/judgments/458179
-423534|2020-09-30|SO|VIII Ga 607/19|Uzasadnienie|https://www.saos.org.pl/judgments/423534
-361572|2018-10-23|SO|VIII Gz 213/18|Postanowienie|https://www.saos.org.pl/judgments/361572
-351284|2018-07-04|SO|XXIII Gz 686/18|Postanowienie|https://www.saos.org.pl/judgments/351284
-346992|2018-05-18|SO|VIII Ga 172/18|Zarządzenie|https://www.saos.org.pl/judgments/346992
-276800|2017-03-08|SO|VIII Ga 226/16|Uzasadnienie|https://www.saos.org.pl/judgments/276800
-280092|2017-02-27|SO|XXIII Ga 1293/16|Postanowienie|https://www.saos.org.pl/judgments/280092
-268287|2016-12-05|SO|XXIII Gz 939/16|Postanowienie|https://www.saos.org.pl/judgments/268287
-268280|2016-11-16|SO|XXIII Ga 777/16|Postanowienie|https://www.saos.org.pl/judgments/268280
-232476|2016-06-07|SO|VIII Ga 17/16|Postanowienie|https://www.saos.org.pl/judgments/232476
-127927|2015-01-09|SO|VIII Ga 389/14|Postanowienie|https://www.saos.org.pl/judgments/127927
-51641|2014-06-06|SO|VIII Ga 114/14|Postanowienie|https://www.saos.org.pl/judgments/51641
-38281|2014-02-25|SO|VI Gz 23/14|Postanowienie|https://www.saos.org.pl/judgments/38281
-41623|2014-01-10|SO|XII Ga 449/13|Postanowienie|https://www.saos.org.pl/judgments/41623
-30921|2013-12-20|SO|VIII Gz 128/13|Postanowienie|https://www.saos.org.pl/judgments/30921
-32208|2013-12-19|SO|VIII Ga 250/11|Postanowienie|https://www.saos.org.pl/judgments/32208
-12934|2013-04-24|SO|XII Ga 84/13|Postanowienie|https://www.saos.org.pl/judgments/12934
-111963|2013-02-20|TK|Ts 221/12|Postanowienie|https://www.saos.org.pl/judgments/111963
-110018|2010-12-01|TK|Ts 204/07|Postanowienie|https://www.saos.org.pl/judgments/110018
-109384|2009-07-29|TK|Ts 204/07|Postanowienie|https://www.saos.org.pl/judgments/109384
-90344|2009-06-04|SN|III CZP 30/09|Uchwała|https://www.saos.org.pl/judgments/90344
-88714|2008-09-17|SN|III CSK 56/08|Postanowienie|https://www.saos.org.pl/judgments/88714
+saos_id|date|court|case_number|type|score|saos_url
+90344|2009-06-04|SN|III CZP 30/09|Uchwała|89|https://www.saos.org.pl/judgments/90344
+111963|2013-02-20|TK|Ts 221/12|Postanowienie|80|https://www.saos.org.pl/judgments/111963
+110018|2010-12-01|TK|Ts 204/07|Postanowienie|80|https://www.saos.org.pl/judgments/110018
+109384|2009-07-29|TK|Ts 204/07|Postanowienie|80|https://www.saos.org.pl/judgments/109384
+88714|2008-09-17|SN|III CSK 56/08|Postanowienie|69|https://www.saos.org.pl/judgments/88714
+38281|2014-02-25|SO|VI Gz 23/14|Postanowienie|31|https://www.saos.org.pl/judgments/38281
+41623|2014-01-10|SO|XII Ga 449/13|Postanowienie|31|https://www.saos.org.pl/judgments/41623

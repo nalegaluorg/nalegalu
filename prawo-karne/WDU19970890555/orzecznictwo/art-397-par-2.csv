@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-477016|2022-05-31|SO|II AKa 194/19|Wyrok|https://www.saos.org.pl/judgments/477016
-327546|2017-10-30|SO|III AUz 96/17|Postanowienie|https://www.saos.org.pl/judgments/327546
-238993|2016-08-10|SO|III AUz 69/16|Postanowienie|https://www.saos.org.pl/judgments/238993
-90146|2009-04-27|SN|V KK 398/08|Wyrok|https://www.saos.org.pl/judgments/90146
+saos_id|date|court|case_number|type|score|saos_url
+90146|2009-04-27|SN|V KK 398/08|Wyrok|78|https://www.saos.org.pl/judgments/90146
+477016|2022-05-31|SO|II AKa 194/19|Wyrok|56|https://www.saos.org.pl/judgments/477016
+327546|2017-10-30|SO|III AUz 96/17|Postanowienie|47|https://www.saos.org.pl/judgments/327546
+238993|2016-08-10|SO|III AUz 69/16|Postanowienie|47|https://www.saos.org.pl/judgments/238993

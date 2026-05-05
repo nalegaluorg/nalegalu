@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-343217|2017-09-29|SO|V C 1787/16|Wyrok|https://www.saos.org.pl/judgments/343217
-158744|2015-04-13|SO|VI ACa 792/14|Wyrok|https://www.saos.org.pl/judgments/158744
-74386|2014-07-04|SO|VI ACa 1608/13|Wyrok|https://www.saos.org.pl/judgments/74386
+saos_id|date|court|case_number|type|score|saos_url
+158744|2015-04-13|SO|VI ACa 792/14|Wyrok|56|https://www.saos.org.pl/judgments/158744
+74386|2014-07-04|SO|VI ACa 1608/13|Wyrok|56|https://www.saos.org.pl/judgments/74386
+343217|2017-09-29|SO|V C 1787/16|Wyrok|40|https://www.saos.org.pl/judgments/343217

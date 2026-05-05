@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-378751|2019-02-15|SO|III Ca 1429/18|Wyrok|https://www.saos.org.pl/judgments/378751
-360235|2018-05-23|SO|II Ca 1400/17|Zarządzenie|https://www.saos.org.pl/judgments/360235
-259074|2016-10-21|SO|III RC 598/15|Wyrok|https://www.saos.org.pl/judgments/259074
-186596|2015-08-21|SO|IV RC 835/13|Wyrok|https://www.saos.org.pl/judgments/186596
-126022|2014-10-22|SO|III Ca 763/14|Wyrok|https://www.saos.org.pl/judgments/126022
-24283|2013-09-26|SO|II Ca 574/13|Wyrok|https://www.saos.org.pl/judgments/24283
-23405|2013-09-25|SO|I ACa 435/13|Wyrok|https://www.saos.org.pl/judgments/23405
+saos_id|date|court|case_number|type|score|saos_url
+23405|2013-09-25|SO|I ACa 435/13|Wyrok|56|https://www.saos.org.pl/judgments/23405

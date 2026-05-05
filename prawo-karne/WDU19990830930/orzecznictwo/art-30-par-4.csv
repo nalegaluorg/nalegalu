@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-449891|2021-10-11|SO|II K 273/21|Wyrok|https://www.saos.org.pl/judgments/449891
-336149|2017-12-15|SO|II K 835/13|Wyrok|https://www.saos.org.pl/judgments/336149
-175027|2015-06-25|SO|VIII Ka 408/15|Wyrok|https://www.saos.org.pl/judgments/175027
-206067|2001-01-16|TK|P 5/00|Wyrok|https://www.saos.org.pl/judgments/206067
+saos_id|date|court|case_number|type|score|saos_url
+206067|2001-01-16|TK|P 5/00|Wyrok|98|https://www.saos.org.pl/judgments/206067

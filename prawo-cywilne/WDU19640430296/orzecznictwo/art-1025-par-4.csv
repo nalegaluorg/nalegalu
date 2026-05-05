@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-206777|2015-10-08|TK|SK 11/13|Wyrok|https://www.saos.org.pl/judgments/206777
-85870|2007-05-17|SN|III CK 9/06|Postanowienie|https://www.saos.org.pl/judgments/85870
-79965|2000-09-27|SN|V CKN 1485/00|Postanowienie|https://www.saos.org.pl/judgments/79965
+saos_id|date|court|case_number|type|score|saos_url
+206777|2015-10-08|TK|SK 11/13|Wyrok|98|https://www.saos.org.pl/judgments/206777
+85870|2007-05-17|SN|III CK 9/06|Postanowienie|69|https://www.saos.org.pl/judgments/85870
+79965|2000-09-27|SN|V CKN 1485/00|Postanowienie|69|https://www.saos.org.pl/judgments/79965

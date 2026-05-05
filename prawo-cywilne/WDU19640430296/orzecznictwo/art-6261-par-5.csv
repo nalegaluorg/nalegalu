@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-323830|2017-11-24|SO|III Ca 1343/17|Postanowienie|https://www.saos.org.pl/judgments/323830
-89643|2009-02-12|SN|III CZ 5/09|Postanowienie|https://www.saos.org.pl/judgments/89643
+saos_id|date|court|case_number|type|score|saos_url
+89643|2009-02-12|SN|III CZ 5/09|Postanowienie|69|https://www.saos.org.pl/judgments/89643

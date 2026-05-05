@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-26543|2011-11-15|SO|I ACa 700/11|Wyrok|https://www.saos.org.pl/judgments/26543
+saos_id|date|court|case_number|type|score|saos_url
+26543|2011-11-15|SO|I ACa 700/11|Wyrok|56|https://www.saos.org.pl/judgments/26543

@@ -1,2 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-60316|2014-06-23|SO|VII Ua 22/14|Wyrok|https://www.saos.org.pl/judgments/60316
+saos_id|date|court|case_number|type|score|saos_url
+125825|2014-11-03|SO|VI U 311/14|Wyrok|40|https://www.saos.org.pl/judgments/125825
+69818|2014-10-30|SO|IV Ua 29/14|Wyrok|40|https://www.saos.org.pl/judgments/69818
+56937|2014-07-23|SO|VII Ua 19/14|Wyrok|40|https://www.saos.org.pl/judgments/56937

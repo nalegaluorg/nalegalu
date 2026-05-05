@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-517141|2019-11-18|SO|II Ca 468/19|Wyrok|https://www.saos.org.pl/judgments/517141
-299807|2016-01-22|SO|II Ca 877/15|Wyrok|https://www.saos.org.pl/judgments/299807
-160215|2014-12-18|TK|Ts 24/13|Postanowienie|https://www.saos.org.pl/judgments/160215
-160214|2014-08-19|TK|Ts 24/13|Postanowienie|https://www.saos.org.pl/judgments/160214
+saos_id|date|court|case_number|type|score|saos_url
+160215|2014-12-18|TK|Ts 24/13|Postanowienie|80|https://www.saos.org.pl/judgments/160215
+160214|2014-08-19|TK|Ts 24/13|Postanowienie|80|https://www.saos.org.pl/judgments/160214

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-380192|2019-01-18|SO|VII AGa 467/18|Wyrok|https://www.saos.org.pl/judgments/380192
-322400|2017-10-30|SO|V GC 1438/16|Wyrok|https://www.saos.org.pl/judgments/322400
+saos_id|date|court|case_number|type|score|saos_url
+380192|2019-01-18|SO|VII AGa 467/18|Wyrok|56|https://www.saos.org.pl/judgments/380192

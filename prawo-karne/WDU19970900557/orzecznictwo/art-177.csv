@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-400723|2018-07-30|SO|II Ka 271/18|Wyrok|https://www.saos.org.pl/judgments/400723
-347364|2018-05-11|SO|VI Ka 327/18|Wyrok|https://www.saos.org.pl/judgments/347364
-282968|2017-05-05|SO|IV Kz 112/17|Postanowienie|https://www.saos.org.pl/judgments/282968
-133533|2015-02-13|SO|VI Ka 529/14|Wyrok|https://www.saos.org.pl/judgments/133533
+saos_id|date|court|case_number|type|score|saos_url
+282968|2017-05-05|SO|IV Kz 112/17|Postanowienie|31|https://www.saos.org.pl/judgments/282968

@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-243669|2015-10-29|SN|I CSK 922/14|Wyrok|https://www.saos.org.pl/judgments/243669
-175919|2015-07-30|SO|II Cz 245/15|Postanowienie|https://www.saos.org.pl/judgments/175919
-163488|2005-08-11|SN|V CK 86/05|Wyrok|https://www.saos.org.pl/judgments/163488
-82352|2003-11-26|SN|III CZP 83/03|Uchwała|https://www.saos.org.pl/judgments/82352
-81940|2003-04-02|SN|I CK 287/02|Postanowienie|https://www.saos.org.pl/judgments/81940
-81254|2002-03-08|SN|III CZP 8/02|Uchwała|https://www.saos.org.pl/judgments/81254
+saos_id|date|court|case_number|type|score|saos_url
+82352|2003-11-26|SN|III CZP 83/03|Uchwała|89|https://www.saos.org.pl/judgments/82352
+81254|2002-03-08|SN|III CZP 8/02|Uchwała|89|https://www.saos.org.pl/judgments/81254
+243669|2015-10-29|SN|I CSK 922/14|Wyrok|78|https://www.saos.org.pl/judgments/243669
+163488|2005-08-11|SN|V CK 86/05|Wyrok|78|https://www.saos.org.pl/judgments/163488
+81940|2003-04-02|SN|I CK 287/02|Postanowienie|69|https://www.saos.org.pl/judgments/81940

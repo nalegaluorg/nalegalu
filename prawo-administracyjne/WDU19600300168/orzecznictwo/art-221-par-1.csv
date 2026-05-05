@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-344860|2017-11-06|SO|VII K 266/16|Wyrok|https://www.saos.org.pl/judgments/344860
-338537|2015-02-25|SO|XXIV C 454/13|Wyrok|https://www.saos.org.pl/judgments/338537
-81108|2002-01-08|SN|I CKN 581/99|Wyrok|https://www.saos.org.pl/judgments/81108
+saos_id|date|court|case_number|type|score|saos_url
+81108|2002-01-08|SN|I CKN 581/99|Wyrok|78|https://www.saos.org.pl/judgments/81108

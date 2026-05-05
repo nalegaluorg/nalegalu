@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-241202|2016-06-21|SO|III Ca 799/16|Postanowienie|https://www.saos.org.pl/judgments/241202
-197984|2015-12-18|SO|IV Ca 638/15|Wyrok|https://www.saos.org.pl/judgments/197984
-56064|2014-07-08|SO|VIII GC 75/11|Wyrok|https://www.saos.org.pl/judgments/56064
-26370|2013-06-21|SO|V ACa 260/13|Wyrok|https://www.saos.org.pl/judgments/26370
+saos_id|date|court|case_number|type|score|saos_url
+26370|2013-06-21|SO|V ACa 260/13|Wyrok|56|https://www.saos.org.pl/judgments/26370

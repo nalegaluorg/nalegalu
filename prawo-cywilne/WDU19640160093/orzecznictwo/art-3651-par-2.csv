@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-486776|2022-04-11|SO|XV Ca 964/19|Wyrok|https://www.saos.org.pl/judgments/486776
+saos_id|date|court|case_number|type|score|saos_url
+486776|2022-04-11|SO|XV Ca 964/19|Wyrok|40|https://www.saos.org.pl/judgments/486776

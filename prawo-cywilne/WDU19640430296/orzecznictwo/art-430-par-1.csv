@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-402018|2019-06-13|SO|I ACa 666/18|Wyrok|https://www.saos.org.pl/judgments/402018
-218447|2016-02-18|SO|II Ca 1225/15|Wyrok|https://www.saos.org.pl/judgments/218447
+saos_id|date|court|case_number|type|score|saos_url
+402018|2019-06-13|SO|I ACa 666/18|Wyrok|56|https://www.saos.org.pl/judgments/402018

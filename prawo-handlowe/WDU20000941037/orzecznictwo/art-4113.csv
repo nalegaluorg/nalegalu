@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-413994|2019-02-21|SO|V AGa 454/18|Wyrok|https://www.saos.org.pl/judgments/413994
-351924|2018-05-24|SO|VII AGa 932/18|Wyrok|https://www.saos.org.pl/judgments/351924
-104442|2014-02-13|SN|V CSK 162/13|Wyrok|https://www.saos.org.pl/judgments/104442
-102829|2013-09-11|SN|III CZP 39/13|Uchwała|https://www.saos.org.pl/judgments/102829
-42522|2012-08-13|SO|XIV GC 244/12|Uzasadnienie|https://www.saos.org.pl/judgments/42522
+saos_id|date|court|case_number|type|score|saos_url
+102829|2013-09-11|SN|III CZP 39/13|Uchwała|89|https://www.saos.org.pl/judgments/102829
+104442|2014-02-13|SN|V CSK 162/13|Wyrok|78|https://www.saos.org.pl/judgments/104442
+413994|2019-02-21|SO|V AGa 454/18|Wyrok|56|https://www.saos.org.pl/judgments/413994
+351924|2018-05-24|SO|VII AGa 932/18|Wyrok|56|https://www.saos.org.pl/judgments/351924

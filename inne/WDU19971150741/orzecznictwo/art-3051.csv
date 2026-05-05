@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-391591|2019-08-13|SO|IX Ca 778/19|Wyrok|https://www.saos.org.pl/judgments/391591
-359711|2018-04-16|SO|I ACa 566/17|Wyrok|https://www.saos.org.pl/judgments/359711
+saos_id|date|court|case_number|type|score|saos_url
+359711|2018-04-16|SO|I ACa 566/17|Wyrok|56|https://www.saos.org.pl/judgments/359711

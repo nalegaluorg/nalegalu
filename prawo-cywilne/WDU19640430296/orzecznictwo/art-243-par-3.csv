@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-428854|2020-10-16|SO|I C 927/20|Postanowienie|https://www.saos.org.pl/judgments/428854
-246836|2015-04-29|SO|I ACa 214/15|Wyrok|https://www.saos.org.pl/judgments/246836
+saos_id|date|court|case_number|type|score|saos_url
+246836|2015-04-29|SO|I ACa 214/15|Wyrok|56|https://www.saos.org.pl/judgments/246836

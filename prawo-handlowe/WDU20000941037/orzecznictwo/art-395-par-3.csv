@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-409499|2019-12-12|SO|VI ACa 504/18|Wyrok|https://www.saos.org.pl/judgments/409499
-405054|2018-12-18|SO|IV C 426/18|Wyrok|https://www.saos.org.pl/judgments/405054
-381598|2018-10-26|SO|XVI GC 1280/16|Wyrok|https://www.saos.org.pl/judgments/381598
-368944|2018-06-19|SO|VII AGa 1267/18|Wyrok|https://www.saos.org.pl/judgments/368944
-357578|2018-01-09|SO|XVI GC 1279/16|Wyrok|https://www.saos.org.pl/judgments/357578
-334054|2017-09-19|SO|XVI GC 1209/16|Wyrok|https://www.saos.org.pl/judgments/334054
-258287|2016-09-28|SO|VII P 20/10|Wyrok|https://www.saos.org.pl/judgments/258287
-187549|2015-04-30|SO|VI ACa 829/14|Wyrok|https://www.saos.org.pl/judgments/187549
-109092|2009-06-02|TK|SK 31/08|Wyrok|https://www.saos.org.pl/judgments/109092
-87032|2008-01-11|SN|V CSK 363/07|Wyrok|https://www.saos.org.pl/judgments/87032
+saos_id|date|court|case_number|type|score|saos_url
+109092|2009-06-02|TK|SK 31/08|Wyrok|98|https://www.saos.org.pl/judgments/109092
+87032|2008-01-11|SN|V CSK 363/07|Wyrok|78|https://www.saos.org.pl/judgments/87032
+409499|2019-12-12|SO|VI ACa 504/18|Wyrok|56|https://www.saos.org.pl/judgments/409499
+368944|2018-06-19|SO|VII AGa 1267/18|Wyrok|56|https://www.saos.org.pl/judgments/368944
+187549|2015-04-30|SO|VI ACa 829/14|Wyrok|56|https://www.saos.org.pl/judgments/187549
+258287|2016-09-28|SO|VII P 20/10|Wyrok|40|https://www.saos.org.pl/judgments/258287

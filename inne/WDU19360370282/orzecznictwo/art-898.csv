@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-177511|2014-05-21|SO|I ACa 357/14|Wyrok|https://www.saos.org.pl/judgments/177511
+saos_id|date|court|case_number|type|score|saos_url
+177511|2014-05-21|SO|I ACa 357/14|Wyrok|56|https://www.saos.org.pl/judgments/177511

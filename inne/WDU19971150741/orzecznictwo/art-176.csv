@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-392804|2019-05-08|SO|I C 813/18|Wyrok|https://www.saos.org.pl/judgments/392804
-327183|2017-01-19|SO|II Ca 845/16|Postanowienie|https://www.saos.org.pl/judgments/327183
-106061|2002-12-02|TK|SK 20/01|Wyrok|https://www.saos.org.pl/judgments/106061
+saos_id|date|court|case_number|type|score|saos_url
+106061|2002-12-02|TK|SK 20/01|Wyrok|98|https://www.saos.org.pl/judgments/106061

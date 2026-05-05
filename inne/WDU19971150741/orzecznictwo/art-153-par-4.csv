@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-494603|2023-03-02|SO|I ACa 806/22|Wyrok|https://www.saos.org.pl/judgments/494603
-360100|2016-10-22|SO|I Co 76/16|Postanowienie|https://www.saos.org.pl/judgments/360100
-236637|2016-05-31|SO|II Cz 229/16|Postanowienie|https://www.saos.org.pl/judgments/236637
-31563|2014-01-14|SO|II Cz 1987/13|Postanowienie|https://www.saos.org.pl/judgments/31563
+saos_id|date|court|case_number|type|score|saos_url
+494603|2023-03-02|SO|I ACa 806/22|Wyrok|56|https://www.saos.org.pl/judgments/494603
+31563|2014-01-14|SO|II Cz 1987/13|Postanowienie|31|https://www.saos.org.pl/judgments/31563

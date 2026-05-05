@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-507023|2023-09-08|SO|III K 57/22|Wyrok|https://www.saos.org.pl/judgments/507023
-428157|2020-11-09|SO|II K 310/20|Wyrok|https://www.saos.org.pl/judgments/428157
-452667|2019-03-21|SO|II K 55/18|Wyrok|https://www.saos.org.pl/judgments/452667
-399533|2019-01-24|SO|II AKa 91/18|Uzasadnienie|https://www.saos.org.pl/judgments/399533
-429629|2018-06-14|SO|II AKa 143/18|Wyrok|https://www.saos.org.pl/judgments/429629
-320300|2017-11-23|SO|IV K 665/16|Wyrok|https://www.saos.org.pl/judgments/320300
-281814|2017-02-03|SO|IV Ka 884/16|Wyrok|https://www.saos.org.pl/judgments/281814
-268072|2017-01-12|SO|II K 775/15|Wyrok|https://www.saos.org.pl/judgments/268072
-261326|2016-09-08|SO|II AKa 71/16|Wyrok|https://www.saos.org.pl/judgments/261326
-241228|2016-07-12|SO|IV Ka 547/16|Wyrok|https://www.saos.org.pl/judgments/241228
-220751|2015-10-27|SO|II K 349/14|Wyrok|https://www.saos.org.pl/judgments/220751
-129614|2015-01-20|SO|II AKa 422/14|Wyrok|https://www.saos.org.pl/judgments/129614
-59173|2014-02-17|SO|IV K 23/12|Uzasadnienie|https://www.saos.org.pl/judgments/59173
-7336|2013-02-05|SO|VIII Ka 995/12|Wyrok|https://www.saos.org.pl/judgments/7336
-137695|2012-12-05|SO|II AKa 197/12|Wyrok|https://www.saos.org.pl/judgments/137695
-5681|2010-03-12|SO|II Ks 11/09|Wyrok|https://www.saos.org.pl/judgments/5681
+saos_id|date|court|case_number|type|score|saos_url
+429629|2018-06-14|SO|II AKa 143/18|Wyrok|56|https://www.saos.org.pl/judgments/429629
+261326|2016-09-08|SO|II AKa 71/16|Wyrok|56|https://www.saos.org.pl/judgments/261326
+129614|2015-01-20|SO|II AKa 422/14|Wyrok|56|https://www.saos.org.pl/judgments/129614
+137695|2012-12-05|SO|II AKa 197/12|Wyrok|56|https://www.saos.org.pl/judgments/137695
+399533|2019-01-24|SO|II AKa 91/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/399533
+281814|2017-02-03|SO|IV Ka 884/16|Wyrok|40|https://www.saos.org.pl/judgments/281814
+241228|2016-07-12|SO|IV Ka 547/16|Wyrok|40|https://www.saos.org.pl/judgments/241228
+5681|2010-03-12|SO|II Ks 11/09|Wyrok|40|https://www.saos.org.pl/judgments/5681

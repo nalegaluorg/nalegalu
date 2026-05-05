@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-349820|2018-06-07|SO|I ACa 123/18|Wyrok|https://www.saos.org.pl/judgments/349820
-320955|2017-11-27|SO|I C 411/17|Wyrok|https://www.saos.org.pl/judgments/320955
+saos_id|date|court|case_number|type|score|saos_url
+349820|2018-06-07|SO|I ACa 123/18|Wyrok|56|https://www.saos.org.pl/judgments/349820

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-194724|2015-12-02|SO|III Ca 615/15|Postanowienie|https://www.saos.org.pl/judgments/194724
-91647|2010-01-21|SN|I CSK 207/09|Postanowienie|https://www.saos.org.pl/judgments/91647
+saos_id|date|court|case_number|type|score|saos_url
+91647|2010-01-21|SN|I CSK 207/09|Postanowienie|69|https://www.saos.org.pl/judgments/91647

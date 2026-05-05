@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|https://www.saos.org.pl/judgments/422478
-255618|2016-11-14|SO|XIII Ga 374/16|Uzasadnienie|https://www.saos.org.pl/judgments/255618
-245642|2015-06-19|SN|IV CSK 564/14|Postanowienie|https://www.saos.org.pl/judgments/245642
+saos_id|date|court|case_number|type|score|saos_url
+245642|2015-06-19|SN|IV CSK 564/14|Postanowienie|69|https://www.saos.org.pl/judgments/245642
+422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/422478
+255618|2016-11-14|SO|XIII Ga 374/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/255618

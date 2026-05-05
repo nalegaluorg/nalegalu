@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525466|2025-03-26|SO|VI Pa 138/24|Wyrok|https://www.saos.org.pl/judgments/525466
-486262|2023-02-22|SO|II AKa 252/21|Wyrok|https://www.saos.org.pl/judgments/486262
+saos_id|date|court|case_number|type|score|saos_url
+486262|2023-02-22|SO|II AKa 252/21|Wyrok|56|https://www.saos.org.pl/judgments/486262

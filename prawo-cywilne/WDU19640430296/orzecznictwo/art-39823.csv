@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-53514|2014-07-02|SO|IX GNc 1162/13|Postanowienie|https://www.saos.org.pl/judgments/53514
-6434|2013-02-28|SO|II Cz 182/13|Postanowienie|https://www.saos.org.pl/judgments/6434
+saos_id|date|court|case_number|type|score|saos_url
+53514|2014-07-02|SO|IX GNc 1162/13|Postanowienie|31|https://www.saos.org.pl/judgments/53514

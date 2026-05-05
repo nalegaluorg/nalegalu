@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-408533|2018-05-10|SO|III APa 8/18|Wyrok|https://www.saos.org.pl/judgments/408533
-309728|2017-09-20|SO|II Cz 501/17|Postanowienie|https://www.saos.org.pl/judgments/309728
-305388|2017-06-27|SO|II Cz 209/17|Postanowienie|https://www.saos.org.pl/judgments/305388
-278354|2017-03-14|SO|II Cz 28/17|Postanowienie|https://www.saos.org.pl/judgments/278354
-63632|2014-09-22|SO|II Cz 576/14|Postanowienie|https://www.saos.org.pl/judgments/63632
-59891|2014-08-26|SO|II Cz 458/14|Postanowienie|https://www.saos.org.pl/judgments/59891
-36141|2014-01-30|SO|III Ca 804/13|Wyrok|https://www.saos.org.pl/judgments/36141
+saos_id|date|court|case_number|type|score|saos_url
+408533|2018-05-10|SO|III APa 8/18|Wyrok|56|https://www.saos.org.pl/judgments/408533

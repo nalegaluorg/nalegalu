@@ -1,2 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-384468|2018-11-19|SO|XXVII Ca 1220/18|Wyrok|https://www.saos.org.pl/judgments/384468
+saos_id|date|court|case_number|type|score|saos_url
+110914|2012-03-06|TK|K 15/08|Wyrok|98|https://www.saos.org.pl/judgments/110914
+82948|2004-10-28|SN|III CK 461/03|Wyrok|78|https://www.saos.org.pl/judgments/82948
+81107|2002-01-08|SN|I CKN 482/00|Postanowienie|69|https://www.saos.org.pl/judgments/81107
+432843|2019-12-06|SO|I ACa 461/19|Wyrok|56|https://www.saos.org.pl/judgments/432843
+285038|2017-03-15|SO|I ACa 1201/16|Wyrok|56|https://www.saos.org.pl/judgments/285038
+173816|2015-04-09|SO|I ACa 934/14|Wyrok|56|https://www.saos.org.pl/judgments/173816
+149210|2015-02-05|SO|I ACa 1169/14|Wyrok|56|https://www.saos.org.pl/judgments/149210
+232489|2016-06-16|SO|XIV C 438/15|Wyrok|40|https://www.saos.org.pl/judgments/232489
+197832|2015-08-21|SO|XV Ca 1153/14|Wyrok|40|https://www.saos.org.pl/judgments/197832
+331822|2018-02-15|SO|II Ns 627/17|Postanowienie|31|https://www.saos.org.pl/judgments/331822
+180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|31|https://www.saos.org.pl/judgments/180563
+531703|2024-03-04|SO|III Ca 232/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/531703
+358046|2018-08-21|SO|III Ca 822/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/358046
+221541|2016-02-25|SO|III Ca 1756/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/221541

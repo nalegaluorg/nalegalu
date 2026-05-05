@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90261|2009-05-20|SN|I CZ 22/09|Postanowienie|https://www.saos.org.pl/judgments/90261
+saos_id|date|court|case_number|type|score|saos_url
+90261|2009-05-20|SN|I CZ 22/09|Postanowienie|69|https://www.saos.org.pl/judgments/90261

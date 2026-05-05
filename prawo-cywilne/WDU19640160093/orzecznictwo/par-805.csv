@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-381488|2018-03-15|SO|I C 15/15|Wyrok|https://www.saos.org.pl/judgments/381488
-248647|2016-05-18|SO|XV C 994/15|Wyrok|https://www.saos.org.pl/judgments/248647
+saos_id|date|court|case_number|type|score|saos_url
+381488|2018-03-15|SO|I C 15/15|Wyrok|40|https://www.saos.org.pl/judgments/381488

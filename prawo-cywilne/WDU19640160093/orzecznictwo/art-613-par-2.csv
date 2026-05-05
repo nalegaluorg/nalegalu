@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-496613|2023-11-27|SO|I C 199/22|Uzasadnienie|https://www.saos.org.pl/judgments/496613
-488598|2022-06-09|SO|X GC 861/20|Zarządzenie|https://www.saos.org.pl/judgments/488598
-455107|2022-01-04|SO|X GC 895/21|Zarządzenie|https://www.saos.org.pl/judgments/455107
-294505|2017-05-12|SO|VI GC 39/17|Wyrok|https://www.saos.org.pl/judgments/294505
-256560|2016-09-23|SO|I C 536/15|Wyrok|https://www.saos.org.pl/judgments/256560
-168501|2015-03-04|SN|IV CSK 437/14|Wyrok|https://www.saos.org.pl/judgments/168501
-127465|2015-01-15|SO|I Ca 299/14|Wyrok|https://www.saos.org.pl/judgments/127465
-65435|2014-09-18|SO|VIII Ga 75/14|Uzasadnienie|https://www.saos.org.pl/judgments/65435
-34150|2013-12-04|SO|VIII Ga 58/13|Uzasadnienie|https://www.saos.org.pl/judgments/34150
+saos_id|date|court|case_number|type|score|saos_url
+168501|2015-03-04|SN|IV CSK 437/14|Wyrok|78|https://www.saos.org.pl/judgments/168501
+127465|2015-01-15|SO|I Ca 299/14|Wyrok|40|https://www.saos.org.pl/judgments/127465
+488598|2022-06-09|SO|X GC 861/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488598
+455107|2022-01-04|SO|X GC 895/21|Zarządzenie|27|https://www.saos.org.pl/judgments/455107

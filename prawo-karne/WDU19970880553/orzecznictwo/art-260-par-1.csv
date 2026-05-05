@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-541162|2025-12-22|SO|IV Ka 766/25|Wyrok|https://www.saos.org.pl/judgments/541162
-533116|2025-07-17|SO|II AKa 22/25|Wyrok|https://www.saos.org.pl/judgments/533116
-518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|https://www.saos.org.pl/judgments/518583
-54690|2014-04-01|SO|II K 940/11|Wyrok|https://www.saos.org.pl/judgments/54690
-145231|2014-03-31|SO|I C 412/11|Wyrok|https://www.saos.org.pl/judgments/145231
+saos_id|date|court|case_number|type|score|saos_url
+533116|2025-07-17|SO|II AKa 22/25|Wyrok|56|https://www.saos.org.pl/judgments/533116
+518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/518583
+541162|2025-12-22|SO|IV Ka 766/25|Wyrok|40|https://www.saos.org.pl/judgments/541162

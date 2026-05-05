@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-532539|2025-04-02|SO|XVII AmE 178/24|Wyrok|https://www.saos.org.pl/judgments/532539
-384655|2019-04-15|SO|VIII Ua 117/18|Uzasadnienie|https://www.saos.org.pl/judgments/384655
-239380|2016-08-08|SO|III AUz 142/16|Postanowienie|https://www.saos.org.pl/judgments/239380
+saos_id|date|court|case_number|type|score|saos_url
+239380|2016-08-08|SO|III AUz 142/16|Postanowienie|47|https://www.saos.org.pl/judgments/239380
+384655|2019-04-15|SO|VIII Ua 117/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/384655

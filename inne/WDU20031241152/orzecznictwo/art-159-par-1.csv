@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-304375|2017-09-06|SO|I ACa 631/17|Wyrok|https://www.saos.org.pl/judgments/304375
-194198|2015-12-11|SO|I ACa 690/15|Wyrok|https://www.saos.org.pl/judgments/194198
-29547|2013-09-18|SO|VI ACa 1044/12|Wyrok|https://www.saos.org.pl/judgments/29547
+saos_id|date|court|case_number|type|score|saos_url
+304375|2017-09-06|SO|I ACa 631/17|Wyrok|56|https://www.saos.org.pl/judgments/304375
+194198|2015-12-11|SO|I ACa 690/15|Wyrok|56|https://www.saos.org.pl/judgments/194198
+29547|2013-09-18|SO|VI ACa 1044/12|Wyrok|56|https://www.saos.org.pl/judgments/29547

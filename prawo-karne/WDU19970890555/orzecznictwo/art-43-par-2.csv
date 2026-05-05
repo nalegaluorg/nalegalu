@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-457963|2020-09-17|SO|II AKa 280/20|Wyrok|https://www.saos.org.pl/judgments/457963
-375700|2019-04-03|SO|VI Ka 950/18|Wyrok|https://www.saos.org.pl/judgments/375700
-67003|2014-10-02|SO|VIII Ka 403/14|Wyrok|https://www.saos.org.pl/judgments/67003
+saos_id|date|court|case_number|type|score|saos_url
+457963|2020-09-17|SO|II AKa 280/20|Wyrok|56|https://www.saos.org.pl/judgments/457963
+375700|2019-04-03|SO|VI Ka 950/18|Wyrok|40|https://www.saos.org.pl/judgments/375700

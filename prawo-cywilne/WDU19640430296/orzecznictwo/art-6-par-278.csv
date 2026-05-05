@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516731|2024-07-25|SO|III AUa 153/23|Wyrok|https://www.saos.org.pl/judgments/516731
-10406|2013-04-16|SO|VIII Ga 423/12|Wyrok|https://www.saos.org.pl/judgments/10406
+saos_id|date|court|case_number|type|score|saos_url
+516731|2024-07-25|SO|III AUa 153/23|Wyrok|56|https://www.saos.org.pl/judgments/516731

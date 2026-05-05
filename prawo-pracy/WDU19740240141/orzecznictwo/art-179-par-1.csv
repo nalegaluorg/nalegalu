@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-472297|2022-07-26|SO|IV P 116/21|Wyrok|https://www.saos.org.pl/judgments/472297
-469931|2022-06-09|SO|IV P 151/21|Wyrok|https://www.saos.org.pl/judgments/469931
-440411|2021-06-21|SO|IV P 138/20|Uzasadnienie|https://www.saos.org.pl/judgments/440411
-345246|2018-06-21|SO|IV P 1/18|Wyrok|https://www.saos.org.pl/judgments/345246
-283925|2017-03-24|SO|X P 536/15|Wyrok|https://www.saos.org.pl/judgments/283925
-65591|2014-10-27|SO|IV Pa 79/14|Wyrok|https://www.saos.org.pl/judgments/65591
-104883|2014-04-10|SN|II PK 179/13|Wyrok|https://www.saos.org.pl/judgments/104883
-6122|2013-02-21|SO|V Ua 30/12|Wyrok|https://www.saos.org.pl/judgments/6122
-95420|2011-07-13|SN|I PK 8/11|Wyrok|https://www.saos.org.pl/judgments/95420
-76740|1995-01-06|SN|I PRN 118/94|Wyrok|https://www.saos.org.pl/judgments/76740
-76517|1994-04-28|SN|I PZP 6/94|Uchwała|https://www.saos.org.pl/judgments/76517
+saos_id|date|court|case_number|type|score|saos_url
+76517|1994-04-28|SN|I PZP 6/94|Uchwała|96|https://www.saos.org.pl/judgments/76517
+104883|2014-04-10|SN|II PK 179/13|Wyrok|78|https://www.saos.org.pl/judgments/104883
+95420|2011-07-13|SN|I PK 8/11|Wyrok|78|https://www.saos.org.pl/judgments/95420
+76740|1995-01-06|SN|I PRN 118/94|Wyrok|78|https://www.saos.org.pl/judgments/76740

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-459775|2022-02-14|SO|IV P 205/21|Wyrok|https://www.saos.org.pl/judgments/459775
-261544|2016-10-21|SO|VI ACa 485/15|Wyrok|https://www.saos.org.pl/judgments/261544
-180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|https://www.saos.org.pl/judgments/180174
-61626|2014-05-28|SO|I ACa 130/14|Wyrok|https://www.saos.org.pl/judgments/61626
-78160|1998-02-24|SN|I PKN 540/97|Wyrok|https://www.saos.org.pl/judgments/78160
+saos_id|date|court|case_number|type|score|saos_url
+78160|1998-02-24|SN|I PKN 540/97|Wyrok|78|https://www.saos.org.pl/judgments/78160
+261544|2016-10-21|SO|VI ACa 485/15|Wyrok|56|https://www.saos.org.pl/judgments/261544
+61626|2014-05-28|SO|I ACa 130/14|Wyrok|56|https://www.saos.org.pl/judgments/61626
+180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/180174

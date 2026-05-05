@@ -1,13 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-525008|2024-12-10|SO|I C 1745/23|Wyrok|https://www.saos.org.pl/judgments/525008
-509254|2023-10-17|SO|IX Ka 1055/23|Wyrok|https://www.saos.org.pl/judgments/509254
-379238|2018-11-20|SO|IV Ka 725/18|Uzasadnienie|https://www.saos.org.pl/judgments/379238
-306500|2017-07-20|SO|VI Ka 243/17|Wyrok|https://www.saos.org.pl/judgments/306500
-152297|2015-04-07|SO|IX Ka 230/15|Wyrok|https://www.saos.org.pl/judgments/152297
-135482|2015-03-18|SO|XVII Ka 135/15|Wyrok|https://www.saos.org.pl/judgments/135482
-93994|2011-01-27|SN|I KZP 23/10|Uchwała|https://www.saos.org.pl/judgments/93994
-108886|2008-09-22|TK|Ts 273/07|Postanowienie|https://www.saos.org.pl/judgments/108886
-85187|2007-02-07|SN|III KK 243/06|Postanowienie|https://www.saos.org.pl/judgments/85187
-82747|2004-06-22|SN|V KK 70/04|Postanowienie|https://www.saos.org.pl/judgments/82747
-81591|2002-09-26|SN|I KZP 32/02|Uchwała|https://www.saos.org.pl/judgments/81591
-205503|1992-10-20|TK|K 1/92|Wyrok|https://www.saos.org.pl/judgments/205503
+saos_id|date|court|case_number|type|score|saos_url
+205503|1992-10-20|TK|K 1/92|Wyrok|98|https://www.saos.org.pl/judgments/205503
+93994|2011-01-27|SN|I KZP 23/10|Uchwała|96|https://www.saos.org.pl/judgments/93994
+81591|2002-09-26|SN|I KZP 32/02|Uchwała|89|https://www.saos.org.pl/judgments/81591
+108886|2008-09-22|TK|Ts 273/07|Postanowienie|80|https://www.saos.org.pl/judgments/108886
+85187|2007-02-07|SN|III KK 243/06|Postanowienie|69|https://www.saos.org.pl/judgments/85187
+82747|2004-06-22|SN|V KK 70/04|Postanowienie|69|https://www.saos.org.pl/judgments/82747
+306500|2017-07-20|SO|VI Ka 243/17|Wyrok|40|https://www.saos.org.pl/judgments/306500
+135482|2015-03-18|SO|XVII Ka 135/15|Wyrok|40|https://www.saos.org.pl/judgments/135482

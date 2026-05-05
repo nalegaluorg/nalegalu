@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-238057|2016-05-12|SO|I ACa 1178/15|Wyrok|https://www.saos.org.pl/judgments/238057
-145531|2014-04-09|SO|I C 1484/13|Wyrok|https://www.saos.org.pl/judgments/145531
+saos_id|date|court|case_number|type|score|saos_url
+238057|2016-05-12|SO|I ACa 1178/15|Wyrok|56|https://www.saos.org.pl/judgments/238057

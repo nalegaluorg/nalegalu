@@ -1,2 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-482584|2022-11-08|SO|VI C 2359/21|Zarządzenie|https://www.saos.org.pl/judgments/482584
+saos_id|date|court|case_number|type|score|saos_url
+91921|2010-02-23|SN|II PK 235/09|Wyrok|78|https://www.saos.org.pl/judgments/91921
+78951|1999-04-08|SN|II UKN 551/98|Wyrok|78|https://www.saos.org.pl/judgments/78951
+537592|2025-02-26|SO|I ACa 1471/22|Wyrok|56|https://www.saos.org.pl/judgments/537592
+376315|2018-12-10|SO|I ACa 1219/16|Wyrok|56|https://www.saos.org.pl/judgments/376315
+311012|2017-10-05|SO|III APa 15/17|Wyrok|56|https://www.saos.org.pl/judgments/311012
+290579|2017-06-07|SO|V ACa 733/16|Wyrok|56|https://www.saos.org.pl/judgments/290579
+401409|2017-05-17|SO|I ACa 1295/16|Wyrok|56|https://www.saos.org.pl/judgments/401409
+386461|2013-10-24|SO|I ACa 683/13|Wyrok|56|https://www.saos.org.pl/judgments/386461
+14820|2013-03-26|SO|III APa 1/13|Wyrok|56|https://www.saos.org.pl/judgments/14820
+7113|2013-02-11|SO|I ACa 720/12|Wyrok|56|https://www.saos.org.pl/judgments/7113
+9785|2012-10-25|SO|I ACa 396/12|Wyrok|56|https://www.saos.org.pl/judgments/9785
+4852|2012-08-22|SO|VI ACa 372/12|Wyrok|56|https://www.saos.org.pl/judgments/4852
+350937|2018-08-24|SO|I C 33/18|Wyrok|40|https://www.saos.org.pl/judgments/350937
+349247|2018-07-25|SO|I C 275/16|Wyrok|40|https://www.saos.org.pl/judgments/349247
+488911|2023-05-26|SO|I C 1620/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/488911

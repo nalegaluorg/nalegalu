@@ -1,16 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-328447|2018-02-19|SO|VI Ka 813/17|Wyrok|https://www.saos.org.pl/judgments/328447
-332170|2018-02-16|SO|IV Ka 848/17|Uzasadnienie|https://www.saos.org.pl/judgments/332170
-303029|2017-08-23|SO|XVII Ka 746/17|Wyrok|https://www.saos.org.pl/judgments/303029
-308887|2017-08-21|SO|VII Ka 560/17|Wyrok|https://www.saos.org.pl/judgments/308887
-299373|2017-08-18|SO|V Kz 591/17|Uzasadnienie|https://www.saos.org.pl/judgments/299373
-291799|2017-07-10|SO|II K 897/15|Uzasadnienie|https://www.saos.org.pl/judgments/291799
-296340|2017-07-06|SO|VII Kz 259/17|Postanowienie|https://www.saos.org.pl/judgments/296340
-288185|2017-04-27|SO|V Ka 87/17|Uzasadnienie|https://www.saos.org.pl/judgments/288185
-284662|2017-04-24|SO|IV Ka 30/17|Wyrok|https://www.saos.org.pl/judgments/284662
-282652|2017-04-18|SO|XVII Ka 253/17|Wyrok|https://www.saos.org.pl/judgments/282652
-274814|2017-02-16|SO|VII Kz 22/17|Postanowienie|https://www.saos.org.pl/judgments/274814
-281022|2017-02-15|SO|V Ka 1245/16|Uzasadnienie|https://www.saos.org.pl/judgments/281022
-268153|2017-01-17|SO|VI Ka 595/16|Wyrok|https://www.saos.org.pl/judgments/268153
-262825|2017-01-09|SO|IV Ka 484/15|Uzasadnienie|https://www.saos.org.pl/judgments/262825
-271756|2016-12-20|SO|VI Ka 1172/16|Wyrok|https://www.saos.org.pl/judgments/271756
+saos_id|date|court|case_number|type|score|saos_url
+328447|2018-02-19|SO|VI Ka 813/17|Wyrok|40|https://www.saos.org.pl/judgments/328447
+303029|2017-08-23|SO|XVII Ka 746/17|Wyrok|40|https://www.saos.org.pl/judgments/303029
+308887|2017-08-21|SO|VII Ka 560/17|Wyrok|40|https://www.saos.org.pl/judgments/308887
+284662|2017-04-24|SO|IV Ka 30/17|Wyrok|40|https://www.saos.org.pl/judgments/284662
+282652|2017-04-18|SO|XVII Ka 253/17|Wyrok|40|https://www.saos.org.pl/judgments/282652
+296340|2017-07-06|SO|VII Kz 259/17|Postanowienie|31|https://www.saos.org.pl/judgments/296340
+274814|2017-02-16|SO|VII Kz 22/17|Postanowienie|31|https://www.saos.org.pl/judgments/274814
+299373|2017-08-18|SO|V Kz 591/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299373
+291799|2017-07-10|SO|II K 897/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/291799
+288185|2017-04-27|SO|V Ka 87/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/288185
+281022|2017-02-15|SO|V Ka 1245/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281022

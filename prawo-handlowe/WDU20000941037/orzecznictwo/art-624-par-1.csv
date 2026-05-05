@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-414177|2020-02-26|SO|II AKa 243/19|Wyrok|https://www.saos.org.pl/judgments/414177
-200793|2014-05-13|KIO|KIO 873/14|Wyrok|https://www.saos.org.pl/judgments/200793
-90046|2009-04-16|SN|I CSK 362/08|Wyrok|https://www.saos.org.pl/judgments/90046
-87947|2008-04-23|SN|III CZP 34/08|Postanowienie|https://www.saos.org.pl/judgments/87947
-85026|2007-01-19|SN|III CSK 360/06|Wyrok|https://www.saos.org.pl/judgments/85026
-163905|2006-01-13|SN|III CSK 79/05|Postanowienie|https://www.saos.org.pl/judgments/163905
+saos_id|date|court|case_number|type|score|saos_url
+90046|2009-04-16|SN|I CSK 362/08|Wyrok|78|https://www.saos.org.pl/judgments/90046
+85026|2007-01-19|SN|III CSK 360/06|Wyrok|78|https://www.saos.org.pl/judgments/85026
+87947|2008-04-23|SN|III CZP 34/08|Postanowienie|69|https://www.saos.org.pl/judgments/87947
+163905|2006-01-13|SN|III CSK 79/05|Postanowienie|69|https://www.saos.org.pl/judgments/163905
+414177|2020-02-26|SO|II AKa 243/19|Wyrok|56|https://www.saos.org.pl/judgments/414177
+200793|2014-05-13|KIO|KIO 873/14|Wyrok|44|https://www.saos.org.pl/judgments/200793

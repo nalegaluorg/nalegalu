@@ -1,8 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-394450|2019-06-25|SO|XVII AmE 107/17|Wyrok|https://www.saos.org.pl/judgments/394450
-367634|2018-12-04|SO|I ACa 1699/17|Wyrok|https://www.saos.org.pl/judgments/367634
-417630|2018-09-20|SO|VIII U 2120/18|Wyrok|https://www.saos.org.pl/judgments/417630
-327094|2017-05-05|SO|I ACa 294/16|Wyrok|https://www.saos.org.pl/judgments/327094
-36884|2013-12-31|SO|XVII AmA 114/10|Uzasadnienie|https://www.saos.org.pl/judgments/36884
-261656|2013-11-21|SO|XVII AmA 114/10|Wyrok|https://www.saos.org.pl/judgments/261656
-33827|2008-11-12|SO|XVII AmA 109/07|Uzasadnienie|https://www.saos.org.pl/judgments/33827
+saos_id|date|court|case_number|type|score|saos_url
+367634|2018-12-04|SO|I ACa 1699/17|Wyrok|56|https://www.saos.org.pl/judgments/367634
+327094|2017-05-05|SO|I ACa 294/16|Wyrok|56|https://www.saos.org.pl/judgments/327094

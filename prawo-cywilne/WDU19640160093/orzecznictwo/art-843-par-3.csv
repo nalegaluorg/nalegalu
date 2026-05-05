@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-418950|2019-12-04|SO|VI ACa 564/19|Wyrok|https://www.saos.org.pl/judgments/418950
-250378|2016-09-08|SO|I ACa 288/16|Wyrok|https://www.saos.org.pl/judgments/250378
+saos_id|date|court|case_number|type|score|saos_url
+418950|2019-12-04|SO|VI ACa 564/19|Wyrok|56|https://www.saos.org.pl/judgments/418950
+250378|2016-09-08|SO|I ACa 288/16|Wyrok|56|https://www.saos.org.pl/judgments/250378

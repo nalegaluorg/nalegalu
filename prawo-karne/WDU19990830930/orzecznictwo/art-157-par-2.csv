@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-490058|2022-11-24|SO|II AKa 402/22|Wyrok|https://www.saos.org.pl/judgments/490058
-342310|2018-04-12|SO|IV Ka 220/18|Wyrok|https://www.saos.org.pl/judgments/342310
-291799|2017-07-10|SO|II K 897/15|Uzasadnienie|https://www.saos.org.pl/judgments/291799
-286709|2017-03-14|SO|IV Ka 92/17|Wyrok|https://www.saos.org.pl/judgments/286709
-282957|2017-03-03|SO|IV Ka 20/17|Wyrok|https://www.saos.org.pl/judgments/282957
-213341|2016-01-20|SO|II AKa 328/15|Wyrok|https://www.saos.org.pl/judgments/213341
-147855|2014-03-18|SO|II AKa 150/13|Wyrok|https://www.saos.org.pl/judgments/147855
-89589|2009-01-28|SN|V KK 309/08|Postanowienie|https://www.saos.org.pl/judgments/89589
+saos_id|date|court|case_number|type|score|saos_url
+89589|2009-01-28|SN|V KK 309/08|Postanowienie|69|https://www.saos.org.pl/judgments/89589
+490058|2022-11-24|SO|II AKa 402/22|Wyrok|56|https://www.saos.org.pl/judgments/490058
+213341|2016-01-20|SO|II AKa 328/15|Wyrok|56|https://www.saos.org.pl/judgments/213341
+147855|2014-03-18|SO|II AKa 150/13|Wyrok|56|https://www.saos.org.pl/judgments/147855
+342310|2018-04-12|SO|IV Ka 220/18|Wyrok|40|https://www.saos.org.pl/judgments/342310
+291799|2017-07-10|SO|II K 897/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/291799

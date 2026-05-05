@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-375666|2018-10-19|SO|VI Ka 571/18|Wyrok|https://www.saos.org.pl/judgments/375666
-394626|2017-10-24|SO|V Ka 378/17|Uzasadnienie|https://www.saos.org.pl/judgments/394626
-57244|2014-07-25|SO|VI Ka 177/14|Wyrok|https://www.saos.org.pl/judgments/57244
-132950|2014-03-05|SO|X Ka 1038/13|Uzasadnienie|https://www.saos.org.pl/judgments/132950
+saos_id|date|court|case_number|type|score|saos_url
+375666|2018-10-19|SO|VI Ka 571/18|Wyrok|40|https://www.saos.org.pl/judgments/375666
+394626|2017-10-24|SO|V Ka 378/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/394626

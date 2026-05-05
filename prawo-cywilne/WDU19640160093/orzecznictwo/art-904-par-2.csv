@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-341277|2018-01-09|SO|I ACa 801/17|Wyrok|https://www.saos.org.pl/judgments/341277
+saos_id|date|court|case_number|type|score|saos_url
+341277|2018-01-09|SO|I ACa 801/17|Wyrok|56|https://www.saos.org.pl/judgments/341277

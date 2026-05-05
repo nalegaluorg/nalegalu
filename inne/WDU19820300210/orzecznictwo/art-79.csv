@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-379266|2019-03-04|SO|IV Ka 83/19|Wyrok|https://www.saos.org.pl/judgments/379266
-304372|2016-12-29|SO|I ACa 616/16|Wyrok|https://www.saos.org.pl/judgments/304372
-231853|2016-05-25|SO|I ACa 52/16|Wyrok|https://www.saos.org.pl/judgments/231853
+saos_id|date|court|case_number|type|score|saos_url
+304372|2016-12-29|SO|I ACa 616/16|Wyrok|56|https://www.saos.org.pl/judgments/304372
+231853|2016-05-25|SO|I ACa 52/16|Wyrok|56|https://www.saos.org.pl/judgments/231853
+379266|2019-03-04|SO|IV Ka 83/19|Wyrok|40|https://www.saos.org.pl/judgments/379266

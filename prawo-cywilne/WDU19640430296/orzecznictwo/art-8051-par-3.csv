@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-434682|2019-12-09|SO|I ACa 1163/18|Wyrok|https://www.saos.org.pl/judgments/434682
-376296|2018-06-07|SO|I ACa 103/17|Wyrok|https://www.saos.org.pl/judgments/376296
-181508|2015-06-30|SO|I ACa 739/14|Wyrok|https://www.saos.org.pl/judgments/181508
-86807|2007-11-06|SN|III CZP 93/07|Uchwała|https://www.saos.org.pl/judgments/86807
+saos_id|date|court|case_number|type|score|saos_url
+86807|2007-11-06|SN|III CZP 93/07|Uchwała|96|https://www.saos.org.pl/judgments/86807
+434682|2019-12-09|SO|I ACa 1163/18|Wyrok|56|https://www.saos.org.pl/judgments/434682
+376296|2018-06-07|SO|I ACa 103/17|Wyrok|56|https://www.saos.org.pl/judgments/376296
+181508|2015-06-30|SO|I ACa 739/14|Wyrok|56|https://www.saos.org.pl/judgments/181508

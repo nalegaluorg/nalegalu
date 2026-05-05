@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-473665|2022-04-21|SO|III Ca 2117/20|Uzasadnienie|https://www.saos.org.pl/judgments/473665
-445173|2021-06-01|SO|XXIII Zs 3/21|Postanowienie|https://www.saos.org.pl/judgments/445173
-263567|2016-11-08|SO|I C 1240/15|Wyrok|https://www.saos.org.pl/judgments/263567
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-101934|2013-05-29|SN|SDI 4/13|Wyrok|https://www.saos.org.pl/judgments/101934
-109235|2009-09-08|TK|Ts 95/08|Postanowienie|https://www.saos.org.pl/judgments/109235
-87977|2008-04-29|SN|III CZP 18/08|Uchwała|https://www.saos.org.pl/judgments/87977
-86352|2007-07-27|SN|I CSK 235/07|Postanowienie|https://www.saos.org.pl/judgments/86352
-164559|2006-10-13|SN|III CZ 55/06|Postanowienie|https://www.saos.org.pl/judgments/164559
+saos_id|date|court|case_number|type|score|saos_url
+87977|2008-04-29|SN|III CZP 18/08|Uchwała|89|https://www.saos.org.pl/judgments/87977
+109235|2009-09-08|TK|Ts 95/08|Postanowienie|80|https://www.saos.org.pl/judgments/109235
+101934|2013-05-29|SN|SDI 4/13|Wyrok|78|https://www.saos.org.pl/judgments/101934
+86352|2007-07-27|SN|I CSK 235/07|Postanowienie|69|https://www.saos.org.pl/judgments/86352
+164559|2006-10-13|SN|III CZ 55/06|Postanowienie|69|https://www.saos.org.pl/judgments/164559
+473665|2022-04-21|SO|III Ca 2117/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/473665

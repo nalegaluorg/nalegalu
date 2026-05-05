@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-313186|2017-05-05|SO|II K 3/17|Wyrok|https://www.saos.org.pl/judgments/313186
-142588|2013-10-18|SO|II AKa 305/13|Wyrok|https://www.saos.org.pl/judgments/142588
-5117|2013-01-29|SO|IV Ka 696/12|Wyrok|https://www.saos.org.pl/judgments/5117
+saos_id|date|court|case_number|type|score|saos_url
+142588|2013-10-18|SO|II AKa 305/13|Wyrok|56|https://www.saos.org.pl/judgments/142588
+5117|2013-01-29|SO|IV Ka 696/12|Wyrok|40|https://www.saos.org.pl/judgments/5117

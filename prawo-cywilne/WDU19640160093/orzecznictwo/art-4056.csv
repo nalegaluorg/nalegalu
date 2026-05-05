@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-104395|2014-02-14|SN|II CSK 288/13|Wyrok|https://www.saos.org.pl/judgments/104395
-85859|2007-05-18|SN|I PK 358/06|Wyrok|https://www.saos.org.pl/judgments/85859
+saos_id|date|court|case_number|type|score|saos_url
+104395|2014-02-14|SN|II CSK 288/13|Wyrok|78|https://www.saos.org.pl/judgments/104395
+85859|2007-05-18|SN|I PK 358/06|Wyrok|78|https://www.saos.org.pl/judgments/85859

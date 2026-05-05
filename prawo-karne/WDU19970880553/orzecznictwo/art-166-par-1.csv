@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-537503|2025-09-25|SO|IV Ka 580/25|Wyrok|https://www.saos.org.pl/judgments/537503
-405929|2020-01-08|SO|VII Kz 634/19|Postanowienie|https://www.saos.org.pl/judgments/405929
-245646|2015-06-19|SN|IV CSK 590/14|Wyrok|https://www.saos.org.pl/judgments/245646
-89358|2008-12-17|SN|I KZP 27/08|Uchwała|https://www.saos.org.pl/judgments/89358
-88390|2008-06-30|SN|I KZP 10/08|Uchwała|https://www.saos.org.pl/judgments/88390
+saos_id|date|court|case_number|type|score|saos_url
+89358|2008-12-17|SN|I KZP 27/08|Uchwała|96|https://www.saos.org.pl/judgments/89358
+88390|2008-06-30|SN|I KZP 10/08|Uchwała|96|https://www.saos.org.pl/judgments/88390
+245646|2015-06-19|SN|IV CSK 590/14|Wyrok|78|https://www.saos.org.pl/judgments/245646
+537503|2025-09-25|SO|IV Ka 580/25|Wyrok|40|https://www.saos.org.pl/judgments/537503
+405929|2020-01-08|SO|VII Kz 634/19|Postanowienie|31|https://www.saos.org.pl/judgments/405929

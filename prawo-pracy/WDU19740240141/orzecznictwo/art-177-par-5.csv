@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-224595|2016-03-23|SO|IV P 12/16|Wyrok|https://www.saos.org.pl/judgments/224595
-511830|2014-05-15|SO|VII Pa 242/13|Wyrok|https://www.saos.org.pl/judgments/511830
+saos_id|date|court|case_number|type|score|saos_url
+511830|2014-05-15|SO|VII Pa 242/13|Wyrok|40|https://www.saos.org.pl/judgments/511830

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-381565|2019-02-26|SO|VII Pa 7/18|Wyrok|https://www.saos.org.pl/judgments/381565
-385678|2018-11-27|SO|III AUa 300/18|Wyrok|https://www.saos.org.pl/judgments/385678
+saos_id|date|court|case_number|type|score|saos_url
+385678|2018-11-27|SO|III AUa 300/18|Wyrok|56|https://www.saos.org.pl/judgments/385678
+381565|2019-02-26|SO|VII Pa 7/18|Wyrok|40|https://www.saos.org.pl/judgments/381565

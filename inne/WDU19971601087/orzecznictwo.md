@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 1997 r. o zmianie ustawy o st
 
 ## art. 2 (1)
 
-- 2002-12-19 | TK | [K 22/02](https://www.saos.org.pl/judgments/106030) | Postanowienie
+- 2002-12-19 | TK | [K 22/02](https://www.saos.org.pl/judgments/106030) | Postanowienie ★
 

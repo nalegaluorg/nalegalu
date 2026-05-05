@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-481980|2021-05-24|SO|V AGa 227/19|Wyrok|https://www.saos.org.pl/judgments/481980
-405840|2019-11-28|SO|VII AGa 727/19|Wyrok|https://www.saos.org.pl/judgments/405840
-351283|2018-06-07|SO|XXIII Ga 566/18|Postanowienie|https://www.saos.org.pl/judgments/351283
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-92278|2010-05-21|SN|II CSK 564/09|Wyrok|https://www.saos.org.pl/judgments/92278
-91682|2010-01-20|SN|III CZP 122/09|Uchwała|https://www.saos.org.pl/judgments/91682
+saos_id|date|court|case_number|type|score|saos_url
+91682|2010-01-20|SN|III CZP 122/09|Uchwała|89|https://www.saos.org.pl/judgments/91682
+92278|2010-05-21|SN|II CSK 564/09|Wyrok|78|https://www.saos.org.pl/judgments/92278
+481980|2021-05-24|SO|V AGa 227/19|Wyrok|56|https://www.saos.org.pl/judgments/481980
+405840|2019-11-28|SO|VII AGa 727/19|Wyrok|56|https://www.saos.org.pl/judgments/405840
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

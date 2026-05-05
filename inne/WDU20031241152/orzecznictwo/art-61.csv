@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-172298|2015-05-21|SO|I ACa 252/15|Wyrok|https://www.saos.org.pl/judgments/172298
-133632|2014-06-11|SO|III Ca 292/14|Wyrok|https://www.saos.org.pl/judgments/133632
+saos_id|date|court|case_number|type|score|saos_url
+172298|2015-05-21|SO|I ACa 252/15|Wyrok|56|https://www.saos.org.pl/judgments/172298

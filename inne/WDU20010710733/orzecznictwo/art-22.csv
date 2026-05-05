@@ -1,17 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-519486|2024-11-20|SO|II1 C 18/24|Wyrok|https://www.saos.org.pl/judgments/519486
-496309|2024-02-15|SO|I C 17/24|Wyrok|https://www.saos.org.pl/judgments/496309
-495586|2024-02-14|SO|I C 122/23|Wyrok|https://www.saos.org.pl/judgments/495586
-514542|2023-11-30|SO|XII C 32/23|Wyrok|https://www.saos.org.pl/judgments/514542
-490721|2023-05-18|SO|II1 C 22/22|Wyrok|https://www.saos.org.pl/judgments/490721
-443709|2021-06-30|SO|XIV C 252/20|Wyrok|https://www.saos.org.pl/judgments/443709
-450880|2020-11-25|SO|I C 174/20|Zarządzenie|https://www.saos.org.pl/judgments/450880
-407665|2020-02-18|SO|I Ca 460/19|Wyrok|https://www.saos.org.pl/judgments/407665
-381762|2019-05-20|SO|I C 318/19|Wyrok|https://www.saos.org.pl/judgments/381762
-37169|2014-01-31|SO|II Ca 1557/13|Wyrok|https://www.saos.org.pl/judgments/37169
-27427|2013-10-03|SO|IX Ca 469/13|Wyrok|https://www.saos.org.pl/judgments/27427
-139453|2013-06-06|SO|I C 47/13|Wyrok|https://www.saos.org.pl/judgments/139453
-138796|2013-05-23|SO|I C 285/13|Wyrok|https://www.saos.org.pl/judgments/138796
-9841|2013-03-20|SO|II Ca 1543/12|Postanowienie|https://www.saos.org.pl/judgments/9841
-147458|2012-06-29|SO|I C 533/12|Wyrok|https://www.saos.org.pl/judgments/147458
-108073|2007-12-04|TK|K 26/05|Wyrok|https://www.saos.org.pl/judgments/108073
+saos_id|date|court|case_number|type|score|saos_url
+108073|2007-12-04|TK|K 26/05|Wyrok|98|https://www.saos.org.pl/judgments/108073
+519486|2024-11-20|SO|II1 C 18/24|Wyrok|40|https://www.saos.org.pl/judgments/519486
+490721|2023-05-18|SO|II1 C 22/22|Wyrok|40|https://www.saos.org.pl/judgments/490721
+443709|2021-06-30|SO|XIV C 252/20|Wyrok|40|https://www.saos.org.pl/judgments/443709
+381762|2019-05-20|SO|I C 318/19|Wyrok|40|https://www.saos.org.pl/judgments/381762
+37169|2014-01-31|SO|II Ca 1557/13|Wyrok|40|https://www.saos.org.pl/judgments/37169

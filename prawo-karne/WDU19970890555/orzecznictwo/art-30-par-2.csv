@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-543179|2026-01-29|SO|II AKa 70/23|Uzasadnienie|https://www.saos.org.pl/judgments/543179
-395678|2019-07-30|SO|IV Ka 551/19|Wyrok|https://www.saos.org.pl/judgments/395678
-244655|2016-02-16|SN|II KK 12/16|Postanowienie|https://www.saos.org.pl/judgments/244655
-168850|2015-04-16|SN|V KK 4/15|Wyrok|https://www.saos.org.pl/judgments/168850
-105027|2014-04-30|SN|I KZP 5/14|Postanowienie|https://www.saos.org.pl/judgments/105027
-104305|2014-01-29|SN|IV KZ 1/14|Postanowienie|https://www.saos.org.pl/judgments/104305
-32802|2014-01-28|SO|II Kz 4/14|Postanowienie|https://www.saos.org.pl/judgments/32802
-27400|2013-12-03|SO|II Kz 284/13|Postanowienie|https://www.saos.org.pl/judgments/27400
-20220|2013-08-21|SO|II Ko 215/13|Postanowienie|https://www.saos.org.pl/judgments/20220
-100433|2013-01-24|SN|I KZP 23/12|Postanowienie|https://www.saos.org.pl/judgments/100433
-99146|2012-09-27|SN|III KZ 71/12|Postanowienie|https://www.saos.org.pl/judgments/99146
-86949|2007-12-20|SN|I KZP 35/07|Uchwała|https://www.saos.org.pl/judgments/86949
-83437|2005-05-24|SN|I KZP 14/05|Uchwała|https://www.saos.org.pl/judgments/83437
-82037|2003-05-29|SN|I KZP 17/03|Postanowienie|https://www.saos.org.pl/judgments/82037
+saos_id|date|court|case_number|type|score|saos_url
+86949|2007-12-20|SN|I KZP 35/07|Uchwała|96|https://www.saos.org.pl/judgments/86949
+83437|2005-05-24|SN|I KZP 14/05|Uchwała|89|https://www.saos.org.pl/judgments/83437
+168850|2015-04-16|SN|V KK 4/15|Wyrok|78|https://www.saos.org.pl/judgments/168850
+244655|2016-02-16|SN|II KK 12/16|Postanowienie|69|https://www.saos.org.pl/judgments/244655
+105027|2014-04-30|SN|I KZP 5/14|Postanowienie|69|https://www.saos.org.pl/judgments/105027
+104305|2014-01-29|SN|IV KZ 1/14|Postanowienie|69|https://www.saos.org.pl/judgments/104305
+100433|2013-01-24|SN|I KZP 23/12|Postanowienie|69|https://www.saos.org.pl/judgments/100433
+99146|2012-09-27|SN|III KZ 71/12|Postanowienie|69|https://www.saos.org.pl/judgments/99146
+82037|2003-05-29|SN|I KZP 17/03|Postanowienie|69|https://www.saos.org.pl/judgments/82037
+543179|2026-01-29|SO|II AKa 70/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/543179
+395678|2019-07-30|SO|IV Ka 551/19|Wyrok|40|https://www.saos.org.pl/judgments/395678

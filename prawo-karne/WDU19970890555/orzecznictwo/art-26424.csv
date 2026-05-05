@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-244166|2015-12-16|SN|V KK 194/15|Wyrok|https://www.saos.org.pl/judgments/244166
+saos_id|date|court|case_number|type|score|saos_url
+244166|2015-12-16|SN|V KK 194/15|Wyrok|78|https://www.saos.org.pl/judgments/244166

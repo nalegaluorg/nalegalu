@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-517479|2024-10-11|SO|VIII W 292/24|Wyrok|https://www.saos.org.pl/judgments/517479
-448456|2021-09-27|SO|II W 540/20|Wyrok|https://www.saos.org.pl/judgments/448456
+saos_id|date|court|case_number|type|score|saos_url
+448456|2021-09-27|SO|II W 540/20|Wyrok|40|https://www.saos.org.pl/judgments/448456

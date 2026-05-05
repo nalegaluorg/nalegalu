@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-203544|2015-11-20|SO|VII P 583/15|Wyrok|https://www.saos.org.pl/judgments/203544
-103548|2013-11-15|SN|III PK 20/13|Wyrok|https://www.saos.org.pl/judgments/103548
-165495|2011-12-02|SN|III PK 28/11|Wyrok|https://www.saos.org.pl/judgments/165495
-95272|2011-06-21|SN|III PK 96/10|Wyrok|https://www.saos.org.pl/judgments/95272
-165409|2010-08-18|SN|II PK 228/09|Wyrok|https://www.saos.org.pl/judgments/165409
-165348|2010-05-25|SN|I PK 192/09|Wyrok|https://www.saos.org.pl/judgments/165348
-88161|2008-06-03|SN|I PZP 10/07|Uchwała|https://www.saos.org.pl/judgments/88161
-79005|1999-05-05|SN|I PKN 671/98|Wyrok|https://www.saos.org.pl/judgments/79005
+saos_id|date|court|case_number|type|score|saos_url
+88161|2008-06-03|SN|I PZP 10/07|Uchwała|89|https://www.saos.org.pl/judgments/88161
+103548|2013-11-15|SN|III PK 20/13|Wyrok|78|https://www.saos.org.pl/judgments/103548
+165495|2011-12-02|SN|III PK 28/11|Wyrok|78|https://www.saos.org.pl/judgments/165495
+95272|2011-06-21|SN|III PK 96/10|Wyrok|78|https://www.saos.org.pl/judgments/95272
+165409|2010-08-18|SN|II PK 228/09|Wyrok|78|https://www.saos.org.pl/judgments/165409
+165348|2010-05-25|SN|I PK 192/09|Wyrok|78|https://www.saos.org.pl/judgments/165348
+79005|1999-05-05|SN|I PKN 671/98|Wyrok|78|https://www.saos.org.pl/judgments/79005

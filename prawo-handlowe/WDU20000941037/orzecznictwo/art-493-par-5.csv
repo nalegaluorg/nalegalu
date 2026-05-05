@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-505820|2023-08-10|SO|III Ca 1706/23|Uzasadnienie|https://www.saos.org.pl/judgments/505820
-437765|2020-09-01|SO|III Ca 802/20|Uzasadnienie|https://www.saos.org.pl/judgments/437765
-328800|2018-01-05|SO|III Ca 1480/17|Uzasadnienie|https://www.saos.org.pl/judgments/328800
-308971|2017-05-31|SO|I ACa 734/16|Postanowienie|https://www.saos.org.pl/judgments/308971
-57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|https://www.saos.org.pl/judgments/57490
-46306|2014-04-11|SO|IV Ca 117/14|Wyrok|https://www.saos.org.pl/judgments/46306
-5886|2013-02-08|SO|I ACz 30/13|Postanowienie|https://www.saos.org.pl/judgments/5886
-112547|2008-04-03|KIO|KIO/UZP 247/08|Postanowienie|https://www.saos.org.pl/judgments/112547
-84044|2006-01-19|SN|IV CZ 144/05|Postanowienie|https://www.saos.org.pl/judgments/84044
+saos_id|date|court|case_number|type|score|saos_url
+84044|2006-01-19|SN|IV CZ 144/05|Postanowienie|69|https://www.saos.org.pl/judgments/84044
+308971|2017-05-31|SO|I ACa 734/16|Postanowienie|47|https://www.saos.org.pl/judgments/308971
+5886|2013-02-08|SO|I ACz 30/13|Postanowienie|47|https://www.saos.org.pl/judgments/5886
+112547|2008-04-03|KIO|KIO/UZP 247/08|Postanowienie|36|https://www.saos.org.pl/judgments/112547
+505820|2023-08-10|SO|III Ca 1706/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/505820
+437765|2020-09-01|SO|III Ca 802/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/437765
+328800|2018-01-05|SO|III Ca 1480/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/328800
+57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/57490

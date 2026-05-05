@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-296220|2017-03-15|SO|III AUa 240/16|Wyrok|https://www.saos.org.pl/judgments/296220
-272078|2016-12-06|SO|I ACa 1889/15|Wyrok|https://www.saos.org.pl/judgments/272078
-194207|2015-10-13|SO|I ACa 878/15|Wyrok|https://www.saos.org.pl/judgments/194207
+saos_id|date|court|case_number|type|score|saos_url
+296220|2017-03-15|SO|III AUa 240/16|Wyrok|56|https://www.saos.org.pl/judgments/296220
+272078|2016-12-06|SO|I ACa 1889/15|Wyrok|56|https://www.saos.org.pl/judgments/272078
+194207|2015-10-13|SO|I ACa 878/15|Wyrok|56|https://www.saos.org.pl/judgments/194207

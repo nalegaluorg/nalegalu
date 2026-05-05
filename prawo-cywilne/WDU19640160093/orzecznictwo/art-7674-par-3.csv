@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-181181|2015-08-27|SO|I ACa 185/15|Wyrok|https://www.saos.org.pl/judgments/181181
+saos_id|date|court|case_number|type|score|saos_url
+181181|2015-08-27|SO|I ACa 185/15|Wyrok|56|https://www.saos.org.pl/judgments/181181

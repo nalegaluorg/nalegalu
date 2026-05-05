@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-325046|2017-12-22|SO|I ACa 652/17|Wyrok|https://www.saos.org.pl/judgments/325046
-298511|2015-07-08|SO|II Ca 141/15|Wyrok|https://www.saos.org.pl/judgments/298511
+saos_id|date|court|case_number|type|score|saos_url
+325046|2017-12-22|SO|I ACa 652/17|Wyrok|56|https://www.saos.org.pl/judgments/325046

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-420343|2019-12-04|SO|III APa 11/19|Wyrok|https://www.saos.org.pl/judgments/420343
-175302|2015-05-18|SO|III Ca 108/15|Uzasadnienie|https://www.saos.org.pl/judgments/175302
+saos_id|date|court|case_number|type|score|saos_url
+420343|2019-12-04|SO|III APa 11/19|Wyrok|56|https://www.saos.org.pl/judgments/420343
+175302|2015-05-18|SO|III Ca 108/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/175302

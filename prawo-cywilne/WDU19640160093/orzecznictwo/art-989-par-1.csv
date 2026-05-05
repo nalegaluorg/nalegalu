@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-477768|2022-09-05|SO|I C 285/18|Wyrok|https://www.saos.org.pl/judgments/477768
-459889|2021-11-24|SO|I ACa 706/20|Wyrok|https://www.saos.org.pl/judgments/459889
-410258|2019-10-02|SO|V ACa 230/19|Wyrok|https://www.saos.org.pl/judgments/410258
-405167|2019-07-18|SO|I ACa 1004/18|Wyrok|https://www.saos.org.pl/judgments/405167
-534662|2017-02-03|SO|I ACa 861/16|Wyrok|https://www.saos.org.pl/judgments/534662
-319820|2016-06-20|SO|I C 2125/12|Uzasadnienie|https://www.saos.org.pl/judgments/319820
-226247|2016-04-08|SO|I ACa 1836/15|Wyrok|https://www.saos.org.pl/judgments/226247
-229317|2016-03-10|SO|I ACa 980/15|Wyrok|https://www.saos.org.pl/judgments/229317
-197855|2015-10-22|SO|I ACa 470/15|Wyrok|https://www.saos.org.pl/judgments/197855
-183444|2015-09-04|SO|II Ca 98/15|Wyrok|https://www.saos.org.pl/judgments/183444
-245486|2015-05-14|SN|I CSK 489/14|Postanowienie|https://www.saos.org.pl/judgments/245486
-157623|2015-04-17|SO|I ACa 160/15|Wyrok|https://www.saos.org.pl/judgments/157623
-75658|2014-11-06|SO|III Ca 730/14|Uzasadnienie|https://www.saos.org.pl/judgments/75658
-34070|2014-01-21|SO|II Ca 889/13|Wyrok|https://www.saos.org.pl/judgments/34070
-14327|2013-06-12|SO|VIII Ca 202/13|Wyrok|https://www.saos.org.pl/judgments/14327
+saos_id|date|court|case_number|type|score|saos_url
+245486|2015-05-14|SN|I CSK 489/14|Postanowienie|69|https://www.saos.org.pl/judgments/245486
+459889|2021-11-24|SO|I ACa 706/20|Wyrok|56|https://www.saos.org.pl/judgments/459889
+410258|2019-10-02|SO|V ACa 230/19|Wyrok|56|https://www.saos.org.pl/judgments/410258
+405167|2019-07-18|SO|I ACa 1004/18|Wyrok|56|https://www.saos.org.pl/judgments/405167
+534662|2017-02-03|SO|I ACa 861/16|Wyrok|56|https://www.saos.org.pl/judgments/534662
+226247|2016-04-08|SO|I ACa 1836/15|Wyrok|56|https://www.saos.org.pl/judgments/226247
+229317|2016-03-10|SO|I ACa 980/15|Wyrok|56|https://www.saos.org.pl/judgments/229317
+197855|2015-10-22|SO|I ACa 470/15|Wyrok|56|https://www.saos.org.pl/judgments/197855
+157623|2015-04-17|SO|I ACa 160/15|Wyrok|56|https://www.saos.org.pl/judgments/157623
+75658|2014-11-06|SO|III Ca 730/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/75658

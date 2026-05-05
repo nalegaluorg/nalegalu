@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-527784|2025-01-22|SO|VI Ka 709/24|Wyrok|https://www.saos.org.pl/judgments/527784
-442590|2020-02-14|SO|I C 565/18|Wyrok|https://www.saos.org.pl/judgments/442590
-289224|2017-03-24|SO|IX GC 1326/16|Uzasadnienie|https://www.saos.org.pl/judgments/289224
-266082|2016-10-07|SO|I C 43/16|Wyrok|https://www.saos.org.pl/judgments/266082
-192115|2015-09-11|SO|I C 2458/14|Wyrok|https://www.saos.org.pl/judgments/192115
+saos_id|date|court|case_number|type|score|saos_url
+266082|2016-10-07|SO|I C 43/16|Wyrok|40|https://www.saos.org.pl/judgments/266082

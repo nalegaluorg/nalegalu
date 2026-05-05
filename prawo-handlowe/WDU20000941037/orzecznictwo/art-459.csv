@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-384668|2018-12-10|SO|XX GC 459/17|Wyrok|https://www.saos.org.pl/judgments/384668
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-189072|2015-09-18|SO|X GC 830/12|Zarządzenie|https://www.saos.org.pl/judgments/189072
-166169|2014-06-25|SN|I CSK 360/13|Wyrok|https://www.saos.org.pl/judgments/166169
-334939|2014-06-04|SO|VIII Ga 3/14|Uzasadnienie|https://www.saos.org.pl/judgments/334939
-99228|2012-10-03|SN|III PK 100/11|Wyrok|https://www.saos.org.pl/judgments/99228
-91700|2010-01-22|SN|V CSK 208/09|Postanowienie|https://www.saos.org.pl/judgments/91700
-108383|2007-07-19|TK|Ts 208/05|Postanowienie|https://www.saos.org.pl/judgments/108383
-107969|2006-07-26|TK|Ts 208/05|Postanowienie|https://www.saos.org.pl/judgments/107969
+saos_id|date|court|case_number|type|score|saos_url
+108383|2007-07-19|TK|Ts 208/05|Postanowienie|80|https://www.saos.org.pl/judgments/108383
+107969|2006-07-26|TK|Ts 208/05|Postanowienie|80|https://www.saos.org.pl/judgments/107969
+166169|2014-06-25|SN|I CSK 360/13|Wyrok|78|https://www.saos.org.pl/judgments/166169
+99228|2012-10-03|SN|III PK 100/11|Wyrok|78|https://www.saos.org.pl/judgments/99228
+91700|2010-01-22|SN|V CSK 208/09|Postanowienie|69|https://www.saos.org.pl/judgments/91700
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850
+189072|2015-09-18|SO|X GC 830/12|Zarządzenie|27|https://www.saos.org.pl/judgments/189072

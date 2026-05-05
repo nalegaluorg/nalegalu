@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-419213|2020-09-04|SO|XII C 1854/19|Wyrok|https://www.saos.org.pl/judgments/419213
-183235|2015-09-24|SO|II Ca 167/15|Uzasadnienie|https://www.saos.org.pl/judgments/183235
+saos_id|date|court|case_number|type|score|saos_url
+419213|2020-09-04|SO|XII C 1854/19|Wyrok|40|https://www.saos.org.pl/judgments/419213

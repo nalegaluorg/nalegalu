@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-239055|2016-06-16|SO|VIII Pa 28/16|Wyrok|https://www.saos.org.pl/judgments/239055
-77866|1997-10-14|SN|I PKN 319/97|Wyrok|https://www.saos.org.pl/judgments/77866
+saos_id|date|court|case_number|type|score|saos_url
+77866|1997-10-14|SN|I PKN 319/97|Wyrok|78|https://www.saos.org.pl/judgments/77866

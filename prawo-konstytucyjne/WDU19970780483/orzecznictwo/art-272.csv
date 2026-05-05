@@ -1,20 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-266108|2016-12-07|SO|III APa 27/16|Wyrok|https://www.saos.org.pl/judgments/266108
-181958|2015-07-30|SO|I C 1946/14|Wyrok|https://www.saos.org.pl/judgments/181958
-54546|2014-05-23|SO|I ACa 795/12|Wyrok|https://www.saos.org.pl/judgments/54546
-19476|2013-08-07|SO|VII U 1247/13|Wyrok|https://www.saos.org.pl/judgments/19476
-19468|2013-08-07|SO|VII U 1080/13|Wyrok|https://www.saos.org.pl/judgments/19468
-19475|2013-07-31|SO|VII U 1239/13|Wyrok|https://www.saos.org.pl/judgments/19475
-19474|2013-07-31|SO|VII U 1199/13|Wyrok|https://www.saos.org.pl/judgments/19474
-19473|2013-07-31|SO|VII U 1191/13|Wyrok|https://www.saos.org.pl/judgments/19473
-19472|2013-07-31|SO|VII U 1183/13|Wyrok|https://www.saos.org.pl/judgments/19472
-19471|2013-07-31|SO|VII U 1159/13|Wyrok|https://www.saos.org.pl/judgments/19471
-19466|2013-07-17|SO|VII U 1039/13|Wyrok|https://www.saos.org.pl/judgments/19466
-19463|2013-07-17|SO|VII U 1015/13|Wyrok|https://www.saos.org.pl/judgments/19463
-19464|2013-07-10|SO|VII U 1023/13|Wyrok|https://www.saos.org.pl/judgments/19464
-28456|2013-07-03|SO|VII U 950/13|Wyrok|https://www.saos.org.pl/judgments/28456
-18949|2013-06-12|SO|VII U 996/13|Wyrok|https://www.saos.org.pl/judgments/18949
-19367|2013-06-05|SO|VII U 940/13|Wyrok|https://www.saos.org.pl/judgments/19367
-19151|2013-06-05|SO|VII U 956/13|Wyrok|https://www.saos.org.pl/judgments/19151
-18660|2013-06-05|SO|VII U 932/13|Wyrok|https://www.saos.org.pl/judgments/18660
-18659|2013-06-05|SO|VII U 916/13|Wyrok|https://www.saos.org.pl/judgments/18659
+saos_id|date|court|case_number|type|score|saos_url
+266108|2016-12-07|SO|III APa 27/16|Wyrok|56|https://www.saos.org.pl/judgments/266108
+54546|2014-05-23|SO|I ACa 795/12|Wyrok|56|https://www.saos.org.pl/judgments/54546

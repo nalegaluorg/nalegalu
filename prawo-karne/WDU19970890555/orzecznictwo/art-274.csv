@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-444033|2021-04-23|SO|I C 521/20|Wyrok|https://www.saos.org.pl/judgments/444033
-365989|2018-11-30|SO|VI Ka 617/18|Wyrok|https://www.saos.org.pl/judgments/365989
-364648|2018-11-06|SO|XI W 3386/17|Wyrok|https://www.saos.org.pl/judgments/364648
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660

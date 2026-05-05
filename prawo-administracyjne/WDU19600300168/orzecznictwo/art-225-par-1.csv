@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-306392|2017-06-02|SO|VI ACa 1711/14|Wyrok|https://www.saos.org.pl/judgments/306392
-294494|2017-03-21|SO|VI ACa 1967/15|Wyrok|https://www.saos.org.pl/judgments/294494
-338537|2015-02-25|SO|XXIV C 454/13|Wyrok|https://www.saos.org.pl/judgments/338537
-100655|2013-02-06|SN|V CSK 123/12|Wyrok|https://www.saos.org.pl/judgments/100655
-3782|2012-12-19|SO|I ACa 1241/12|Wyrok|https://www.saos.org.pl/judgments/3782
-108666|2008-06-18|TK|SK 64/06|Postanowienie|https://www.saos.org.pl/judgments/108666
-83483|2005-06-16|SN|I PK 257/04|Wyrok|https://www.saos.org.pl/judgments/83483
+saos_id|date|court|case_number|type|score|saos_url
+108666|2008-06-18|TK|SK 64/06|Postanowienie|80|https://www.saos.org.pl/judgments/108666
+100655|2013-02-06|SN|V CSK 123/12|Wyrok|78|https://www.saos.org.pl/judgments/100655
+83483|2005-06-16|SN|I PK 257/04|Wyrok|78|https://www.saos.org.pl/judgments/83483
+306392|2017-06-02|SO|VI ACa 1711/14|Wyrok|56|https://www.saos.org.pl/judgments/306392
+294494|2017-03-21|SO|VI ACa 1967/15|Wyrok|56|https://www.saos.org.pl/judgments/294494
+3782|2012-12-19|SO|I ACa 1241/12|Wyrok|56|https://www.saos.org.pl/judgments/3782

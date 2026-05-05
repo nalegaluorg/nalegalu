@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-100831|2013-02-21|SN|IV KK 309/12|Wyrok|https://www.saos.org.pl/judgments/100831
+saos_id|date|court|case_number|type|score|saos_url
+100831|2013-02-21|SN|IV KK 309/12|Wyrok|78|https://www.saos.org.pl/judgments/100831

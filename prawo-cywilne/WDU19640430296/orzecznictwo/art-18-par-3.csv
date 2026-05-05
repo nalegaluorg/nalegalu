@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-533510|2022-08-11|SO|XIV P 125/20|Wyrok|https://www.saos.org.pl/judgments/533510
-508838|2019-01-23|SO|IV Pa 35/18|Wyrok|https://www.saos.org.pl/judgments/508838
-210485|2016-01-20|SO|VI Gz 146/15|Postanowienie|https://www.saos.org.pl/judgments/210485
-3461|2012-12-20|SO|I ACa 968/12|Wyrok|https://www.saos.org.pl/judgments/3461
+saos_id|date|court|case_number|type|score|saos_url
+3461|2012-12-20|SO|I ACa 968/12|Wyrok|56|https://www.saos.org.pl/judgments/3461
+210485|2016-01-20|SO|VI Gz 146/15|Postanowienie|31|https://www.saos.org.pl/judgments/210485

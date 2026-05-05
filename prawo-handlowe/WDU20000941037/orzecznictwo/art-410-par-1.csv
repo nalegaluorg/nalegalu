@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-477540|2022-07-01|SO|I AGa 394/21|Wyrok|https://www.saos.org.pl/judgments/477540
-462952|2022-02-11|SO|I AGa 251/20|Wyrok|https://www.saos.org.pl/judgments/462952
-173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|https://www.saos.org.pl/judgments/173455
-13687|2013-05-27|SO|II Ka 376/13|Wyrok|https://www.saos.org.pl/judgments/13687
-86165|2007-06-20|SN|V CSK 154/07|Wyrok|https://www.saos.org.pl/judgments/86165
+saos_id|date|court|case_number|type|score|saos_url
+86165|2007-06-20|SN|V CSK 154/07|Wyrok|78|https://www.saos.org.pl/judgments/86165
+477540|2022-07-01|SO|I AGa 394/21|Wyrok|56|https://www.saos.org.pl/judgments/477540
+462952|2022-02-11|SO|I AGa 251/20|Wyrok|56|https://www.saos.org.pl/judgments/462952
+173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|56|https://www.saos.org.pl/judgments/173455

@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-206812|2015-03-10|TK|SK 65/13|Postanowienie|https://www.saos.org.pl/judgments/206812
-33595|2013-10-29|SO|VII Ka 869/13|Wyrok|https://www.saos.org.pl/judgments/33595
-206438|2013-09-27|TK|Ts 299/11|Postanowienie|https://www.saos.org.pl/judgments/206438
-206345|2012-04-12|TK|Ts 299/11|Postanowienie|https://www.saos.org.pl/judgments/206345
-95539|2011-07-28|SN|III KK 54/11|Postanowienie|https://www.saos.org.pl/judgments/95539
-206306|2011-03-23|TK|Ts 283/10|Postanowienie|https://www.saos.org.pl/judgments/206306
-109375|2009-03-04|TK|Ts 197/06|Postanowienie|https://www.saos.org.pl/judgments/109375
-108727|2008-08-20|TK|Ts 63/07|Postanowienie|https://www.saos.org.pl/judgments/108727
-108376|2007-02-15|TK|Ts 197/06|Postanowienie|https://www.saos.org.pl/judgments/108376
-107972|2006-09-11|TK|Ts 209/05|Postanowienie|https://www.saos.org.pl/judgments/107972
-107970|2006-04-03|TK|Ts 209/05|Postanowienie|https://www.saos.org.pl/judgments/107970
+saos_id|date|court|case_number|type|score|saos_url
+206812|2015-03-10|TK|SK 65/13|Postanowienie|80|https://www.saos.org.pl/judgments/206812
+206438|2013-09-27|TK|Ts 299/11|Postanowienie|80|https://www.saos.org.pl/judgments/206438
+206345|2012-04-12|TK|Ts 299/11|Postanowienie|80|https://www.saos.org.pl/judgments/206345
+206306|2011-03-23|TK|Ts 283/10|Postanowienie|80|https://www.saos.org.pl/judgments/206306
+109375|2009-03-04|TK|Ts 197/06|Postanowienie|80|https://www.saos.org.pl/judgments/109375
+108727|2008-08-20|TK|Ts 63/07|Postanowienie|80|https://www.saos.org.pl/judgments/108727
+108376|2007-02-15|TK|Ts 197/06|Postanowienie|80|https://www.saos.org.pl/judgments/108376
+107972|2006-09-11|TK|Ts 209/05|Postanowienie|80|https://www.saos.org.pl/judgments/107972
+107970|2006-04-03|TK|Ts 209/05|Postanowienie|80|https://www.saos.org.pl/judgments/107970
+95539|2011-07-28|SN|III KK 54/11|Postanowienie|69|https://www.saos.org.pl/judgments/95539

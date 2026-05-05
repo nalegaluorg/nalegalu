@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 200
 
 ## art. 45 (1)
 
-- 2006-10-23 | TK | [SK 42/04](https://www.saos.org.pl/judgments/107697) | Wyrok
+- 2006-10-23 | TK | [SK 42/04](https://www.saos.org.pl/judgments/107697) | Wyrok ★
 

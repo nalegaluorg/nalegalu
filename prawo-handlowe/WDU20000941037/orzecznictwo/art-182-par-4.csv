@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-495069|2024-03-11|SO|I AGa 353/22|Wyrok|https://www.saos.org.pl/judgments/495069
-446054|2021-06-30|SO|I AGa 31/21|Wyrok|https://www.saos.org.pl/judgments/446054
-414612|2020-03-12|SO|X GC 373/19|Wyrok|https://www.saos.org.pl/judgments/414612
-417667|2018-12-19|SO|I ACa 245/17|Wyrok|https://www.saos.org.pl/judgments/417667
-330090|2018-01-25|SO|I AGa 27/18|Wyrok|https://www.saos.org.pl/judgments/330090
-290589|2017-06-12|SO|V GC 279/16|Wyrok|https://www.saos.org.pl/judgments/290589
-246388|2015-03-06|SO|I ACa 6/15|Wyrok|https://www.saos.org.pl/judgments/246388
-52316|2014-06-27|SO|XIII Ga 719/13|Uzasadnienie|https://www.saos.org.pl/judgments/52316
-56945|2014-04-02|SO|I ACa 115/14|Wyrok|https://www.saos.org.pl/judgments/56945
-165636|2014-02-20|SN|I CZ 8/14|Postanowienie|https://www.saos.org.pl/judgments/165636
-40621|2014-02-05|SO|VIII Ga 104/13|Uzasadnienie|https://www.saos.org.pl/judgments/40621
-140194|2013-06-20|SO|I C 626/12|Wyrok|https://www.saos.org.pl/judgments/140194
-101797|2013-05-23|SN|I CZ 47/13|Postanowienie|https://www.saos.org.pl/judgments/101797
-744|2012-10-24|SO|I ACa 707/12|Wyrok|https://www.saos.org.pl/judgments/744
+saos_id|date|court|case_number|type|score|saos_url
+165636|2014-02-20|SN|I CZ 8/14|Postanowienie|69|https://www.saos.org.pl/judgments/165636
+101797|2013-05-23|SN|I CZ 47/13|Postanowienie|69|https://www.saos.org.pl/judgments/101797
+495069|2024-03-11|SO|I AGa 353/22|Wyrok|56|https://www.saos.org.pl/judgments/495069
+446054|2021-06-30|SO|I AGa 31/21|Wyrok|56|https://www.saos.org.pl/judgments/446054
+417667|2018-12-19|SO|I ACa 245/17|Wyrok|56|https://www.saos.org.pl/judgments/417667
+330090|2018-01-25|SO|I AGa 27/18|Wyrok|56|https://www.saos.org.pl/judgments/330090
+246388|2015-03-06|SO|I ACa 6/15|Wyrok|56|https://www.saos.org.pl/judgments/246388
+56945|2014-04-02|SO|I ACa 115/14|Wyrok|56|https://www.saos.org.pl/judgments/56945
+744|2012-10-24|SO|I ACa 707/12|Wyrok|56|https://www.saos.org.pl/judgments/744
+52316|2014-06-27|SO|XIII Ga 719/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/52316

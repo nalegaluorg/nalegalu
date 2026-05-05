@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-461551|2020-12-01|SO|VI U 1984/19|Wyrok|https://www.saos.org.pl/judgments/461551
-454713|2018-11-22|SO|III AUa 440/18|Wyrok|https://www.saos.org.pl/judgments/454713
-98372|2012-06-13|SN|II PK 292/11|Wyrok|https://www.saos.org.pl/judgments/98372
-165328|2010-05-21|SN|I UK 43/10|Wyrok|https://www.saos.org.pl/judgments/165328
+saos_id|date|court|case_number|type|score|saos_url
+98372|2012-06-13|SN|II PK 292/11|Wyrok|78|https://www.saos.org.pl/judgments/98372
+165328|2010-05-21|SN|I UK 43/10|Wyrok|78|https://www.saos.org.pl/judgments/165328
+454713|2018-11-22|SO|III AUa 440/18|Wyrok|56|https://www.saos.org.pl/judgments/454713

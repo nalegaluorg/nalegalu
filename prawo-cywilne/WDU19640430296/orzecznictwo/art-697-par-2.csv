@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-509946|2022-08-29|SO|V AGo 29/22|Postanowienie|https://www.saos.org.pl/judgments/509946
-424701|2020-10-26|SO|I Ca 121/20|Uzasadnienie|https://www.saos.org.pl/judgments/424701
-91361|2009-12-02|SN|I CSK 120/09|Postanowienie|https://www.saos.org.pl/judgments/91361
-89953|2009-03-25|SN|V CSK 390/08|Postanowienie|https://www.saos.org.pl/judgments/89953
-89268|2008-11-27|SN|IV CSK 292/08|Wyrok|https://www.saos.org.pl/judgments/89268
-81940|2003-04-02|SN|I CK 287/02|Postanowienie|https://www.saos.org.pl/judgments/81940
-81254|2002-03-08|SN|III CZP 8/02|Uchwała|https://www.saos.org.pl/judgments/81254
-80156|2000-12-15|SN|I CKN 1131/00|Postanowienie|https://www.saos.org.pl/judgments/80156
-79000|1999-05-06|SN|I PKN 140/99|Postanowienie|https://www.saos.org.pl/judgments/79000
+saos_id|date|court|case_number|type|score|saos_url
+81254|2002-03-08|SN|III CZP 8/02|Uchwała|89|https://www.saos.org.pl/judgments/81254
+89268|2008-11-27|SN|IV CSK 292/08|Wyrok|78|https://www.saos.org.pl/judgments/89268
+91361|2009-12-02|SN|I CSK 120/09|Postanowienie|69|https://www.saos.org.pl/judgments/91361
+89953|2009-03-25|SN|V CSK 390/08|Postanowienie|69|https://www.saos.org.pl/judgments/89953
+81940|2003-04-02|SN|I CK 287/02|Postanowienie|69|https://www.saos.org.pl/judgments/81940
+80156|2000-12-15|SN|I CKN 1131/00|Postanowienie|69|https://www.saos.org.pl/judgments/80156
+79000|1999-05-06|SN|I PKN 140/99|Postanowienie|69|https://www.saos.org.pl/judgments/79000
+509946|2022-08-29|SO|V AGo 29/22|Postanowienie|47|https://www.saos.org.pl/judgments/509946
+424701|2020-10-26|SO|I Ca 121/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/424701

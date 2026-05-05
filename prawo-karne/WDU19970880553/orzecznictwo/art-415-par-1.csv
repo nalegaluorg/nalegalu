@@ -1,20 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-524591|2025-02-14|SO|IV Ka 702/24|Uzasadnienie|https://www.saos.org.pl/judgments/524591
-527785|2025-01-22|SO|VI Ka 786/24|Wyrok|https://www.saos.org.pl/judgments/527785
-510943|2024-06-06|SO|VI Ka 1012/23|Uzasadnienie|https://www.saos.org.pl/judgments/510943
-500457|2024-03-06|SO|II AKa 121/23|Wyrok|https://www.saos.org.pl/judgments/500457
-508238|2023-10-06|SO|IV Ka 471/23|Uzasadnienie|https://www.saos.org.pl/judgments/508238
-536232|2023-02-17|SO|IX Ka 443/22|Uzasadnienie|https://www.saos.org.pl/judgments/536232
-464596|2022-04-07|SO|II Ka 57/22|Wyrok|https://www.saos.org.pl/judgments/464596
-436256|2021-03-12|SO|IV Ka 92/21|Uzasadnienie|https://www.saos.org.pl/judgments/436256
-455166|2019-01-22|SO|II K 615/18|Wyrok|https://www.saos.org.pl/judgments/455166
-370288|2019-01-16|SO|VII Ka 1210/18|Wyrok|https://www.saos.org.pl/judgments/370288
-356597|2018-08-08|SO|V Ka 1/18|Wyrok|https://www.saos.org.pl/judgments/356597
-323992|2018-01-09|SO|IV Ka 1057/17|Wyrok|https://www.saos.org.pl/judgments/323992
-328281|2017-12-15|SO|III K 173/16|Wyrok|https://www.saos.org.pl/judgments/328281
-347500|2017-12-13|SO|II AKa 385/17|Wyrok|https://www.saos.org.pl/judgments/347500
-270590|2016-12-29|SO|II K 1108/13|Wyrok|https://www.saos.org.pl/judgments/270590
-254071|2016-09-09|SO|VI Ka 325/16|Wyrok|https://www.saos.org.pl/judgments/254071
-234015|2016-06-21|SO|III K 430/15|Wyrok|https://www.saos.org.pl/judgments/234015
-135433|2015-04-09|SO|III K 798/11|Uzasadnienie|https://www.saos.org.pl/judgments/135433
-16769|2013-04-24|SO|IV Ka 224/13|Wyrok|https://www.saos.org.pl/judgments/16769
+saos_id|date|court|case_number|type|score|saos_url
+500457|2024-03-06|SO|II AKa 121/23|Wyrok|56|https://www.saos.org.pl/judgments/500457
+347500|2017-12-13|SO|II AKa 385/17|Wyrok|56|https://www.saos.org.pl/judgments/347500
+323992|2018-01-09|SO|IV Ka 1057/17|Wyrok|40|https://www.saos.org.pl/judgments/323992
+510943|2024-06-06|SO|VI Ka 1012/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/510943
+135433|2015-04-09|SO|III K 798/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/135433

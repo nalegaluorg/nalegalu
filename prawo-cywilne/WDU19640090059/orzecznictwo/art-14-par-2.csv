@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-540867|2025-10-30|SO|V ACa 641/25|Wyrok|https://www.saos.org.pl/judgments/540867
+saos_id|date|court|case_number|type|score|saos_url
+540867|2025-10-30|SO|V ACa 641/25|Wyrok|56|https://www.saos.org.pl/judgments/540867

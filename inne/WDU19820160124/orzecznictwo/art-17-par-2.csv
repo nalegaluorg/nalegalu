@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-464588|2022-04-28|SO|II Ka 179/22|Wyrok|https://www.saos.org.pl/judgments/464588
-183984|2015-11-26|SO|II Ka 557/15|Wyrok|https://www.saos.org.pl/judgments/183984
+saos_id|date|court|case_number|type|score|saos_url
+183984|2015-11-26|SO|II Ka 557/15|Wyrok|40|https://www.saos.org.pl/judgments/183984

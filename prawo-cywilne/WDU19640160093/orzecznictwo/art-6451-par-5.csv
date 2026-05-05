@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-210633|2016-02-19|SO|XIII Ga 805/15|Uzasadnienie|https://www.saos.org.pl/judgments/210633
-205368|2016-02-16|SO|XIII Ga 727/15|Uzasadnienie|https://www.saos.org.pl/judgments/205368
-270156|2015-12-11|SO|XXV C 187/15|Wyrok|https://www.saos.org.pl/judgments/270156
+saos_id|date|court|case_number|type|score|saos_url
+210633|2016-02-19|SO|XIII Ga 805/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/210633
+205368|2016-02-16|SO|XIII Ga 727/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205368

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2009 r. o zmianie ustawy o oc
 
 ## art. 2 (1)
 
-- 2010-11-04 | TK | [K 19/06](https://www.saos.org.pl/judgments/206255) | Wyrok
+- 2010-11-04 | TK | [K 19/06](https://www.saos.org.pl/judgments/206255) | Wyrok ★
 

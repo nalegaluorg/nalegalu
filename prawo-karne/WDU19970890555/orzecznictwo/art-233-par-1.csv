@@ -1,32 +1,19 @@
-saos_id|date|court|case_number|type|saos_url
-504069|2024-09-10|SO|II Ka 510/24|Wyrok|https://www.saos.org.pl/judgments/504069
-500732|2024-06-12|SO|II AKa 24/24|Uzasadnienie|https://www.saos.org.pl/judgments/500732
-507910|2024-04-04|SO|IV Ka 188/24|Wyrok|https://www.saos.org.pl/judgments/507910
-489231|2023-05-10|SO|II AKa 115/21|Wyrok|https://www.saos.org.pl/judgments/489231
-487954|2023-04-28|SO|II Ka 134/23|Wyrok|https://www.saos.org.pl/judgments/487954
-488962|2023-04-12|SO|II Ka 43/23|Wyrok|https://www.saos.org.pl/judgments/488962
-479782|2022-11-02|SO|II AKa 150/22|Uzasadnienie|https://www.saos.org.pl/judgments/479782
-471980|2022-06-21|SO|I ACa 303/21|Wyrok|https://www.saos.org.pl/judgments/471980
-457960|2021-09-20|SO|II AKa 268/21|Uzasadnienie|https://www.saos.org.pl/judgments/457960
-440651|2021-02-10|SO|III K 208/20|Wyrok|https://www.saos.org.pl/judgments/440651
-432904|2021-02-05|SO|II K 169/20|Wyrok|https://www.saos.org.pl/judgments/432904
-400521|2019-12-30|SO|II Ka 454/19|Wyrok|https://www.saos.org.pl/judgments/400521
-380813|2019-03-13|SO|VIII Ua 126/18|Uzasadnienie|https://www.saos.org.pl/judgments/380813
-363916|2018-10-30|SO|II Ca 650/18|Wyrok|https://www.saos.org.pl/judgments/363916
-361457|2018-08-30|SO|II AKa 201/18|Wyrok|https://www.saos.org.pl/judgments/361457
-344651|2018-05-22|SO|IV Ka 358/18|Wyrok|https://www.saos.org.pl/judgments/344651
-304460|2017-07-28|SO|I C 1149/16|Wyrok|https://www.saos.org.pl/judgments/304460
-290579|2017-06-07|SO|V ACa 733/16|Wyrok|https://www.saos.org.pl/judgments/290579
-311058|2017-04-27|SO|VI ACa 104/16|Wyrok|https://www.saos.org.pl/judgments/311058
-225831|2016-05-06|SO|II Ka 183/16|Wyrok|https://www.saos.org.pl/judgments/225831
-484038|2016-01-13|SO|I ACa 799/15|Wyrok|https://www.saos.org.pl/judgments/484038
-192765|2015-12-11|SO|IX GC 781/14|Wyrok|https://www.saos.org.pl/judgments/192765
-191712|2015-11-20|SO|VI Ka 883/15|Wyrok|https://www.saos.org.pl/judgments/191712
-217467|2015-11-12|SO|IV K 47/15|Wyrok|https://www.saos.org.pl/judgments/217467
-178146|2015-08-07|SO|I ACa 184/15|Wyrok|https://www.saos.org.pl/judgments/178146
-74285|2014-12-19|SO|II Kz 182/14|Postanowienie|https://www.saos.org.pl/judgments/74285
-166165|2014-06-26|SN|IV KK 141/14|Postanowienie|https://www.saos.org.pl/judgments/166165
-123680|2013-10-29|KIO|KIO 2410/13|Wyrok|https://www.saos.org.pl/judgments/123680
-9115|2013-03-20|SO|II K 19/13|Wyrok|https://www.saos.org.pl/judgments/9115
-13469|2013-01-31|SO|VI ACa 1066/12|Wyrok|https://www.saos.org.pl/judgments/13469
-5864|2012-08-16|SO|I ACa 88/12|Wyrok|https://www.saos.org.pl/judgments/5864
+saos_id|date|court|case_number|type|score|saos_url
+166165|2014-06-26|SN|IV KK 141/14|Postanowienie|69|https://www.saos.org.pl/judgments/166165
+489231|2023-05-10|SO|II AKa 115/21|Wyrok|56|https://www.saos.org.pl/judgments/489231
+471980|2022-06-21|SO|I ACa 303/21|Wyrok|56|https://www.saos.org.pl/judgments/471980
+361457|2018-08-30|SO|II AKa 201/18|Wyrok|56|https://www.saos.org.pl/judgments/361457
+290579|2017-06-07|SO|V ACa 733/16|Wyrok|56|https://www.saos.org.pl/judgments/290579
+311058|2017-04-27|SO|VI ACa 104/16|Wyrok|56|https://www.saos.org.pl/judgments/311058
+484038|2016-01-13|SO|I ACa 799/15|Wyrok|56|https://www.saos.org.pl/judgments/484038
+178146|2015-08-07|SO|I ACa 184/15|Wyrok|56|https://www.saos.org.pl/judgments/178146
+13469|2013-01-31|SO|VI ACa 1066/12|Wyrok|56|https://www.saos.org.pl/judgments/13469
+5864|2012-08-16|SO|I ACa 88/12|Wyrok|56|https://www.saos.org.pl/judgments/5864
+123680|2013-10-29|KIO|KIO 2410/13|Wyrok|44|https://www.saos.org.pl/judgments/123680
+500732|2024-06-12|SO|II AKa 24/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/500732
+479782|2022-11-02|SO|II AKa 150/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/479782
+457960|2021-09-20|SO|II AKa 268/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/457960
+440651|2021-02-10|SO|III K 208/20|Wyrok|40|https://www.saos.org.pl/judgments/440651
+344651|2018-05-22|SO|IV Ka 358/18|Wyrok|40|https://www.saos.org.pl/judgments/344651
+192765|2015-12-11|SO|IX GC 781/14|Wyrok|40|https://www.saos.org.pl/judgments/192765
+380813|2019-03-13|SO|VIII Ua 126/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380813

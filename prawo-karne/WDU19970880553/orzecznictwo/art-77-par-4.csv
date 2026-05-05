@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-544237|2026-01-29|SO|II AKa 287/25|Uzasadnienie|https://www.saos.org.pl/judgments/544237
-536742|2025-10-30|SO|II AKa 166/25|Uzasadnienie|https://www.saos.org.pl/judgments/536742
-500664|2024-01-26|SO|II AKa 210/23|Uzasadnienie|https://www.saos.org.pl/judgments/500664
+saos_id|date|court|case_number|type|score|saos_url
+544237|2026-01-29|SO|II AKa 287/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/544237
+536742|2025-10-30|SO|II AKa 166/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/536742
+500664|2024-01-26|SO|II AKa 210/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/500664

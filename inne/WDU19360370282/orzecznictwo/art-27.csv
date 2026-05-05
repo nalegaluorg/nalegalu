@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-435862|2021-03-16|SO|III Ca 1178/19|Wyrok|https://www.saos.org.pl/judgments/435862
-331963|2017-11-24|SO|I ACa 380/17|Wyrok|https://www.saos.org.pl/judgments/331963
+saos_id|date|court|case_number|type|score|saos_url
+331963|2017-11-24|SO|I ACa 380/17|Wyrok|56|https://www.saos.org.pl/judgments/331963

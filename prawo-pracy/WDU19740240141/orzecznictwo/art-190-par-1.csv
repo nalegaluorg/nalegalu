@@ -1,17 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-506223|2023-01-23|SO|III Ca 2345/21|Uzasadnienie|https://www.saos.org.pl/judgments/506223
-449513|2021-09-28|SO|V U 451/21|Wyrok|https://www.saos.org.pl/judgments/449513
-372204|2018-12-20|SO|I ACa 587/18|Wyrok|https://www.saos.org.pl/judgments/372204
-346951|2018-05-29|SO|V U 163/18|Wyrok|https://www.saos.org.pl/judgments/346951
-267957|2017-01-26|SO|VIII U 1685/16|Zarządzenie|https://www.saos.org.pl/judgments/267957
-271388|2016-11-18|SO|VIII U 992/16|Wyrok|https://www.saos.org.pl/judgments/271388
-184611|2015-09-15|SO|III AUa 7/15|Wyrok|https://www.saos.org.pl/judgments/184611
-171114|2015-06-10|SO|V U 58/15|Wyrok|https://www.saos.org.pl/judgments/171114
-170185|2015-06-09|SO|III AUa 741/14|Wyrok|https://www.saos.org.pl/judgments/170185
-157387|2015-06-02|SO|V U 97/15|Wyrok|https://www.saos.org.pl/judgments/157387
-157382|2015-04-23|SO|V U 64/15|Wyrok|https://www.saos.org.pl/judgments/157382
-184420|2015-01-20|SO|III AUa 406/14|Wyrok|https://www.saos.org.pl/judgments/184420
-128570|2015-01-13|SO|V U 5320/14|Wyrok|https://www.saos.org.pl/judgments/128570
-50393|2014-04-16|SO|V U 1556/13|Wyrok|https://www.saos.org.pl/judgments/50393
-26214|2013-11-07|SO|III AUa 955/13|Wyrok|https://www.saos.org.pl/judgments/26214
-98834|2012-08-22|SN|I UK 130/12|Wyrok|https://www.saos.org.pl/judgments/98834
+saos_id|date|court|case_number|type|score|saos_url
+98834|2012-08-22|SN|I UK 130/12|Wyrok|78|https://www.saos.org.pl/judgments/98834
+372204|2018-12-20|SO|I ACa 587/18|Wyrok|56|https://www.saos.org.pl/judgments/372204
+184611|2015-09-15|SO|III AUa 7/15|Wyrok|56|https://www.saos.org.pl/judgments/184611
+170185|2015-06-09|SO|III AUa 741/14|Wyrok|56|https://www.saos.org.pl/judgments/170185
+184420|2015-01-20|SO|III AUa 406/14|Wyrok|56|https://www.saos.org.pl/judgments/184420
+26214|2013-11-07|SO|III AUa 955/13|Wyrok|56|https://www.saos.org.pl/judgments/26214
+346951|2018-05-29|SO|V U 163/18|Wyrok|40|https://www.saos.org.pl/judgments/346951
+506223|2023-01-23|SO|III Ca 2345/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506223
+267957|2017-01-26|SO|VIII U 1685/16|Zarządzenie|27|https://www.saos.org.pl/judgments/267957

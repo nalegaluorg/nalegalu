@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-418365|2019-12-19|SO|I C 2092/17|Zarządzenie|https://www.saos.org.pl/judgments/418365
-418366|2019-02-20|SO|I C 2095/17|Uzasadnienie|https://www.saos.org.pl/judgments/418366
-182985|2015-09-30|SO|II AKa 225/15|Wyrok|https://www.saos.org.pl/judgments/182985
-143395|2014-02-18|SO|II AKz 56/14|Postanowienie|https://www.saos.org.pl/judgments/143395
+saos_id|date|court|case_number|type|score|saos_url
+182985|2015-09-30|SO|II AKa 225/15|Wyrok|56|https://www.saos.org.pl/judgments/182985
+143395|2014-02-18|SO|II AKz 56/14|Postanowienie|47|https://www.saos.org.pl/judgments/143395
+418365|2019-12-19|SO|I C 2092/17|Zarządzenie|27|https://www.saos.org.pl/judgments/418365
+418366|2019-02-20|SO|I C 2095/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/418366

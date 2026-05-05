@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-486209|2023-03-16|SO|II AKa 393/21|Wyrok|https://www.saos.org.pl/judgments/486209
-494375|2021-11-18|SO|I ACa 607/20|Wyrok|https://www.saos.org.pl/judgments/494375
-308359|2017-06-29|SO|II AKa 68/17|Wyrok|https://www.saos.org.pl/judgments/308359
-136100|2012-08-21|SO|II AKa 238/12|Wyrok|https://www.saos.org.pl/judgments/136100
+saos_id|date|court|case_number|type|score|saos_url
+486209|2023-03-16|SO|II AKa 393/21|Wyrok|56|https://www.saos.org.pl/judgments/486209
+494375|2021-11-18|SO|I ACa 607/20|Wyrok|56|https://www.saos.org.pl/judgments/494375
+308359|2017-06-29|SO|II AKa 68/17|Wyrok|56|https://www.saos.org.pl/judgments/308359
+136100|2012-08-21|SO|II AKa 238/12|Wyrok|56|https://www.saos.org.pl/judgments/136100

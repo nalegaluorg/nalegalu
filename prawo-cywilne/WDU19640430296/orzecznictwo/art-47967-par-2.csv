@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244253|2016-01-13|SN|III SZ 6/15|Postanowienie|https://www.saos.org.pl/judgments/244253
-107006|2004-11-16|TK|Ts 149/04|Postanowienie|https://www.saos.org.pl/judgments/107006
-82897|2004-10-05|SN|III SZP 1/04|Postanowienie|https://www.saos.org.pl/judgments/82897
+saos_id|date|court|case_number|type|score|saos_url
+107006|2004-11-16|TK|Ts 149/04|Postanowienie|80|https://www.saos.org.pl/judgments/107006
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897
+244253|2016-01-13|SN|III SZ 6/15|Postanowienie|69|https://www.saos.org.pl/judgments/244253

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-94780|2011-04-14|SN|WZ 10/11|Postanowienie|https://www.saos.org.pl/judgments/94780
-109704|2010-07-20|TK|P 13/10|Postanowienie|https://www.saos.org.pl/judgments/109704
-79858|2000-07-21|SN|WZ 27/00|Postanowienie|https://www.saos.org.pl/judgments/79858
-78870|1999-02-23|SN|WZP 1/99|Postanowienie|https://www.saos.org.pl/judgments/78870
+saos_id|date|court|case_number|type|score|saos_url
+109704|2010-07-20|TK|P 13/10|Postanowienie|80|https://www.saos.org.pl/judgments/109704
+94780|2011-04-14|SN|WZ 10/11|Postanowienie|69|https://www.saos.org.pl/judgments/94780
+79858|2000-07-21|SN|WZ 27/00|Postanowienie|69|https://www.saos.org.pl/judgments/79858
+78870|1999-02-23|SN|WZP 1/99|Postanowienie|69|https://www.saos.org.pl/judgments/78870

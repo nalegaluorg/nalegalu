@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-509959|2023-04-21|SO|V C 1684/19|Wyrok|https://www.saos.org.pl/judgments/509959
-483493|2023-02-01|SO|II Ca 2025/22|Postanowienie|https://www.saos.org.pl/judgments/483493
-476556|2022-08-01|SO|I C 114/22|Uzasadnienie|https://www.saos.org.pl/judgments/476556
-429954|2020-07-01|SO|VII AGa 245/19|Wyrok|https://www.saos.org.pl/judgments/429954
-386514|2019-03-26|SO|VI ACa 180/19|Wyrok|https://www.saos.org.pl/judgments/386514
-351855|2018-07-03|SO|III Cz 798/18|Postanowienie|https://www.saos.org.pl/judgments/351855
-285504|2017-04-14|SO|III Ca 188/17|Uzasadnienie|https://www.saos.org.pl/judgments/285504
-207794|2016-01-26|SO|V ACa 239/15|Wyrok|https://www.saos.org.pl/judgments/207794
-44114|2014-03-31|SO|VIII Pz 11/14|Postanowienie|https://www.saos.org.pl/judgments/44114
-63574|2013-12-23|SO|I ACa 1268/13|Wyrok|https://www.saos.org.pl/judgments/63574
-39427|2013-12-11|SO|I ACa 505/13|Wyrok|https://www.saos.org.pl/judgments/39427
-142482|2013-06-24|SO|I C 179/12|Wyrok|https://www.saos.org.pl/judgments/142482
-1818|2012-10-15|SO|III APz 16/12|Postanowienie|https://www.saos.org.pl/judgments/1818
-98707|2012-07-17|SN|SNO 34/12|Uchwała|https://www.saos.org.pl/judgments/98707
+saos_id|date|court|case_number|type|score|saos_url
+98707|2012-07-17|SN|SNO 34/12|Uchwała|89|https://www.saos.org.pl/judgments/98707
+429954|2020-07-01|SO|VII AGa 245/19|Wyrok|56|https://www.saos.org.pl/judgments/429954
+386514|2019-03-26|SO|VI ACa 180/19|Wyrok|56|https://www.saos.org.pl/judgments/386514
+207794|2016-01-26|SO|V ACa 239/15|Wyrok|56|https://www.saos.org.pl/judgments/207794
+63574|2013-12-23|SO|I ACa 1268/13|Wyrok|56|https://www.saos.org.pl/judgments/63574
+39427|2013-12-11|SO|I ACa 505/13|Wyrok|56|https://www.saos.org.pl/judgments/39427
+1818|2012-10-15|SO|III APz 16/12|Postanowienie|47|https://www.saos.org.pl/judgments/1818
+509959|2023-04-21|SO|V C 1684/19|Wyrok|40|https://www.saos.org.pl/judgments/509959
+285504|2017-04-14|SO|III Ca 188/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/285504

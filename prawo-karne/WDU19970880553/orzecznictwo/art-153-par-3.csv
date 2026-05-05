@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-438382|2020-12-14|SO|II AKa 308/20|Wyrok|https://www.saos.org.pl/judgments/438382
-274699|2017-01-12|SO|VI ACa 1579/15|Wyrok|https://www.saos.org.pl/judgments/274699
-247183|2016-05-12|SO|VI ACa 632/15|Wyrok|https://www.saos.org.pl/judgments/247183
-154719|2015-01-21|SO|IV K 182/14|Wyrok|https://www.saos.org.pl/judgments/154719
+saos_id|date|court|case_number|type|score|saos_url
+438382|2020-12-14|SO|II AKa 308/20|Wyrok|56|https://www.saos.org.pl/judgments/438382
+274699|2017-01-12|SO|VI ACa 1579/15|Wyrok|56|https://www.saos.org.pl/judgments/274699
+247183|2016-05-12|SO|VI ACa 632/15|Wyrok|56|https://www.saos.org.pl/judgments/247183

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-180983|2015-06-11|SO|III AUa 981/14|Wyrok|https://www.saos.org.pl/judgments/180983
+saos_id|date|court|case_number|type|score|saos_url
+180983|2015-06-11|SO|III AUa 981/14|Wyrok|56|https://www.saos.org.pl/judgments/180983

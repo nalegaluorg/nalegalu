@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-413597|2019-10-15|SO|III Ca 1425/19|Uzasadnienie|https://www.saos.org.pl/judgments/413597
-251686|2016-09-22|SO|I ACa 1609/15|Wyrok|https://www.saos.org.pl/judgments/251686
-236206|2016-05-16|SO|XXIV C 247/15|Wyrok|https://www.saos.org.pl/judgments/236206
+saos_id|date|court|case_number|type|score|saos_url
+251686|2016-09-22|SO|I ACa 1609/15|Wyrok|56|https://www.saos.org.pl/judgments/251686
+413597|2019-10-15|SO|III Ca 1425/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/413597

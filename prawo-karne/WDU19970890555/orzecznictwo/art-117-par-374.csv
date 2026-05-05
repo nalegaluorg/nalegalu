@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-381372|2019-03-15|SO|II AKa 17/18|Wyrok|https://www.saos.org.pl/judgments/381372
-139924|2013-07-25|SO|II AKa 218/13|Wyrok|https://www.saos.org.pl/judgments/139924
+saos_id|date|court|case_number|type|score|saos_url
+381372|2019-03-15|SO|II AKa 17/18|Wyrok|56|https://www.saos.org.pl/judgments/381372
+139924|2013-07-25|SO|II AKa 218/13|Wyrok|56|https://www.saos.org.pl/judgments/139924

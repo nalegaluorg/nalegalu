@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-102934|2013-09-27|SN|I CSK 739/12|Wyrok|https://www.saos.org.pl/judgments/102934
+saos_id|date|court|case_number|type|score|saos_url
+102934|2013-09-27|SN|I CSK 739/12|Wyrok|78|https://www.saos.org.pl/judgments/102934

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-49635|2013-12-18|SO|I ACa 559/13|Wyrok|https://www.saos.org.pl/judgments/49635
+saos_id|date|court|case_number|type|score|saos_url
+49635|2013-12-18|SO|I ACa 559/13|Wyrok|56|https://www.saos.org.pl/judgments/49635

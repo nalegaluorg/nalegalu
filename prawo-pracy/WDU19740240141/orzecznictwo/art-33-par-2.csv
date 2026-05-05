@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-516423|2023-04-26|SO|I ACa 425/22|Wyrok|https://www.saos.org.pl/judgments/516423
-340074|2017-07-04|SO|II W 256/16|Uzasadnienie|https://www.saos.org.pl/judgments/340074
-56075|2014-06-16|SO|V W 121/13|Wyrok|https://www.saos.org.pl/judgments/56075
-56664|2014-06-04|SO|I ACa 88/14|Wyrok|https://www.saos.org.pl/judgments/56664
-81907|2003-03-12|SN|III CZP 97/02|Uchwała|https://www.saos.org.pl/judgments/81907
+saos_id|date|court|case_number|type|score|saos_url
+81907|2003-03-12|SN|III CZP 97/02|Uchwała|89|https://www.saos.org.pl/judgments/81907
+516423|2023-04-26|SO|I ACa 425/22|Wyrok|56|https://www.saos.org.pl/judgments/516423
+56664|2014-06-04|SO|I ACa 88/14|Wyrok|56|https://www.saos.org.pl/judgments/56664

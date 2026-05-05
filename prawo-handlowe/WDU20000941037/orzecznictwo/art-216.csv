@@ -1,16 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-417315|2020-07-28|SO|VIII GC 40/20|Zarządzenie|https://www.saos.org.pl/judgments/417315
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-426462|2020-05-18|SO|VII AGa 1614/18|Wyrok|https://www.saos.org.pl/judgments/426462
-393230|2019-06-19|SO|XXV C 1661/18|Wyrok|https://www.saos.org.pl/judgments/393230
-379731|2019-01-03|SO|V ACa 716/17|Wyrok|https://www.saos.org.pl/judgments/379731
-364324|2018-11-08|SO|V ACa 785/17|Wyrok|https://www.saos.org.pl/judgments/364324
-355351|2018-07-26|SO|V ACa 597/17|Wyrok|https://www.saos.org.pl/judgments/355351
-335496|2018-04-05|SO|VIII GC 94/18|Wyrok|https://www.saos.org.pl/judgments/335496
-313068|2017-10-25|SO|I ACa 229/17|Wyrok|https://www.saos.org.pl/judgments/313068
-333782|2017-09-18|SO|XVI GC 807/15|Wyrok|https://www.saos.org.pl/judgments/333782
-283081|2017-04-11|SO|VIII GC 61/16|Wyrok|https://www.saos.org.pl/judgments/283081
-126735|2014-12-11|SO|VIII Ga 203/14|Uzasadnienie|https://www.saos.org.pl/judgments/126735
-124873|2014-12-03|SO|I Ca 325/14|Postanowienie|https://www.saos.org.pl/judgments/124873
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-22482|2013-10-02|SO|VI GC 177/11|Wyrok|https://www.saos.org.pl/judgments/22482
+saos_id|date|court|case_number|type|score|saos_url
+426462|2020-05-18|SO|VII AGa 1614/18|Wyrok|56|https://www.saos.org.pl/judgments/426462
+379731|2019-01-03|SO|V ACa 716/17|Wyrok|56|https://www.saos.org.pl/judgments/379731
+364324|2018-11-08|SO|V ACa 785/17|Wyrok|56|https://www.saos.org.pl/judgments/364324
+355351|2018-07-26|SO|V ACa 597/17|Wyrok|56|https://www.saos.org.pl/judgments/355351
+313068|2017-10-25|SO|I ACa 229/17|Wyrok|56|https://www.saos.org.pl/judgments/313068
+22482|2013-10-02|SO|VI GC 177/11|Wyrok|40|https://www.saos.org.pl/judgments/22482
+124873|2014-12-03|SO|I Ca 325/14|Postanowienie|31|https://www.saos.org.pl/judgments/124873

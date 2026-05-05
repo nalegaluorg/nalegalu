@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-501260|2024-03-04|SO|II AKa 7/24|Uzasadnienie|https://www.saos.org.pl/judgments/501260
-127143|2014-12-12|SO|I ACa 858/14|Wyrok|https://www.saos.org.pl/judgments/127143
-139157|2013-06-14|SO|I Ca 118/13|Wyrok|https://www.saos.org.pl/judgments/139157
+saos_id|date|court|case_number|type|score|saos_url
+127143|2014-12-12|SO|I ACa 858/14|Wyrok|56|https://www.saos.org.pl/judgments/127143
+501260|2024-03-04|SO|II AKa 7/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/501260
+139157|2013-06-14|SO|I Ca 118/13|Wyrok|40|https://www.saos.org.pl/judgments/139157

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525982|2025-05-07|SO|II Ka 323/24|Uzasadnienie|https://www.saos.org.pl/judgments/525982
-525980|2025-04-04|SO|II Ka 269/24|Uzasadnienie|https://www.saos.org.pl/judgments/525980
-445658|2021-07-01|SO|IV Ka 589/21|Wyrok|https://www.saos.org.pl/judgments/445658
-309308|2017-04-10|SO|II K 335/16|Wyrok|https://www.saos.org.pl/judgments/309308
+saos_id|date|court|case_number|type|score|saos_url
+445658|2021-07-01|SO|IV Ka 589/21|Wyrok|40|https://www.saos.org.pl/judgments/445658

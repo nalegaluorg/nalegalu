@@ -1,20 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-510700|2024-05-17|SO|VI C 1968/22|Zarządzenie|https://www.saos.org.pl/judgments/510700
-383310|2019-04-24|SO|II C 1296/18|Uzasadnienie|https://www.saos.org.pl/judgments/383310
-417780|2019-03-27|SO|I C 2312/18|Wyrok|https://www.saos.org.pl/judgments/417780
-361767|2018-10-23|SO|I ACa 97/18|Wyrok|https://www.saos.org.pl/judgments/361767
-324640|2018-01-17|SO|II Ca 927/17|Wyrok|https://www.saos.org.pl/judgments/324640
-309693|2017-10-11|SO|I Ca 382/17|Wyrok|https://www.saos.org.pl/judgments/309693
-332137|2017-05-04|SO|III RC 291/16|Uzasadnienie|https://www.saos.org.pl/judgments/332137
-355553|2016-10-13|SO|I C 596/12|Uzasadnienie|https://www.saos.org.pl/judgments/355553
-225792|2016-03-10|SO|I C 310/14|Wyrok|https://www.saos.org.pl/judgments/225792
-186354|2015-10-13|SO|IV Ka 453/15|Uzasadnienie|https://www.saos.org.pl/judgments/186354
-155264|2015-05-13|SO|I C 672/11|Wyrok|https://www.saos.org.pl/judgments/155264
-129142|2014-09-11|SO|II Ca 430/14|Postanowienie|https://www.saos.org.pl/judgments/129142
-40109|2014-03-26|SO|II Cz 391/14|Postanowienie|https://www.saos.org.pl/judgments/40109
-23403|2013-08-29|SO|I ACa 382/13|Wyrok|https://www.saos.org.pl/judgments/23403
-110998|2012-09-11|TK|SK 19/12|Postanowienie|https://www.saos.org.pl/judgments/110998
-109708|2010-02-23|TK|P 20/09|Wyrok|https://www.saos.org.pl/judgments/109708
-107891|2006-10-24|TK|Ts 159/05|Postanowienie|https://www.saos.org.pl/judgments/107891
-107890|2006-03-01|TK|Ts 159/05|Postanowienie|https://www.saos.org.pl/judgments/107890
-106708|2004-12-13|TK|K 20/04|Wyrok|https://www.saos.org.pl/judgments/106708
+saos_id|date|court|case_number|type|score|saos_url
+109708|2010-02-23|TK|P 20/09|Wyrok|98|https://www.saos.org.pl/judgments/109708
+106708|2004-12-13|TK|K 20/04|Wyrok|98|https://www.saos.org.pl/judgments/106708
+110998|2012-09-11|TK|SK 19/12|Postanowienie|80|https://www.saos.org.pl/judgments/110998
+107891|2006-10-24|TK|Ts 159/05|Postanowienie|80|https://www.saos.org.pl/judgments/107891
+107890|2006-03-01|TK|Ts 159/05|Postanowienie|80|https://www.saos.org.pl/judgments/107890
+361767|2018-10-23|SO|I ACa 97/18|Wyrok|56|https://www.saos.org.pl/judgments/361767
+23403|2013-08-29|SO|I ACa 382/13|Wyrok|56|https://www.saos.org.pl/judgments/23403
+309693|2017-10-11|SO|I Ca 382/17|Wyrok|40|https://www.saos.org.pl/judgments/309693
+383310|2019-04-24|SO|II C 1296/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/383310

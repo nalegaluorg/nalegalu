@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-398162|2019-06-26|SO|I1 C 919/18|Wyrok|https://www.saos.org.pl/judgments/398162
-338491|2017-12-08|SO|V Ca 784/17|Wyrok|https://www.saos.org.pl/judgments/338491
-251116|2016-05-18|SO|II Ca 543/16|Wyrok|https://www.saos.org.pl/judgments/251116
-199640|2015-11-20|SO|XII C 3567/15|Wyrok|https://www.saos.org.pl/judgments/199640
+saos_id|date|court|case_number|type|score|saos_url
+251116|2016-05-18|SO|II Ca 543/16|Wyrok|40|https://www.saos.org.pl/judgments/251116
+199640|2015-11-20|SO|XII C 3567/15|Wyrok|40|https://www.saos.org.pl/judgments/199640

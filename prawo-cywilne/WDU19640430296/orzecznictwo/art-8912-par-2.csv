@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-464949|2022-05-09|SO|XII C 41/21|Zarządzenie|https://www.saos.org.pl/judgments/464949
-449930|2020-03-31|SO|I C 1056/19|Wyrok|https://www.saos.org.pl/judgments/449930
-227123|2015-10-29|SO|I C 415/15|Wyrok|https://www.saos.org.pl/judgments/227123
-275557|2014-05-15|SO|II Ca 933/13|Wyrok|https://www.saos.org.pl/judgments/275557
-45526|2014-03-19|SO|VI ACa 1178/13|Wyrok|https://www.saos.org.pl/judgments/45526
-25321|2013-10-15|SO|IV Ca 1405/12|Wyrok|https://www.saos.org.pl/judgments/25321
-97130|2012-02-09|SN|III CSK 189/11|Wyrok|https://www.saos.org.pl/judgments/97130
-97129|2012-02-09|SN|III CSK 189/11|Wyrok|https://www.saos.org.pl/judgments/97129
+saos_id|date|court|case_number|type|score|saos_url
+97130|2012-02-09|SN|III CSK 189/11|Wyrok|78|https://www.saos.org.pl/judgments/97130
+97129|2012-02-09|SN|III CSK 189/11|Wyrok|78|https://www.saos.org.pl/judgments/97129
+45526|2014-03-19|SO|VI ACa 1178/13|Wyrok|56|https://www.saos.org.pl/judgments/45526
+449930|2020-03-31|SO|I C 1056/19|Wyrok|40|https://www.saos.org.pl/judgments/449930
+25321|2013-10-15|SO|IV Ca 1405/12|Wyrok|40|https://www.saos.org.pl/judgments/25321

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-87840|2008-04-09|SN|V CSK 527/07|Wyrok|https://www.saos.org.pl/judgments/87840
+saos_id|date|court|case_number|type|score|saos_url
+87840|2008-04-09|SN|V CSK 527/07|Wyrok|78|https://www.saos.org.pl/judgments/87840

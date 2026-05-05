@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80110|2000-11-29|SN|I PKN 85/00|Wyrok|https://www.saos.org.pl/judgments/80110
+saos_id|date|court|case_number|type|score|saos_url
+80110|2000-11-29|SN|I PKN 85/00|Wyrok|78|https://www.saos.org.pl/judgments/80110

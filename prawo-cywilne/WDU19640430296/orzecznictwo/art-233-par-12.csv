@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-531968|2024-11-25|SO|I AGa 206/22|Wyrok|https://www.saos.org.pl/judgments/531968
-14171|2013-02-13|SO|VI ACa 833/12|Wyrok|https://www.saos.org.pl/judgments/14171
-92780|2010-08-18|SN|II UK 151/09|Wyrok|https://www.saos.org.pl/judgments/92780
+saos_id|date|court|case_number|type|score|saos_url
+92780|2010-08-18|SN|II UK 151/09|Wyrok|78|https://www.saos.org.pl/judgments/92780
+531968|2024-11-25|SO|I AGa 206/22|Wyrok|56|https://www.saos.org.pl/judgments/531968
+14171|2013-02-13|SO|VI ACa 833/12|Wyrok|56|https://www.saos.org.pl/judgments/14171

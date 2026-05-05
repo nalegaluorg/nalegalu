@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-486795|2023-02-20|SO|XXV C 516/22|Wyrok|https://www.saos.org.pl/judgments/486795
-443780|2021-05-26|SO|I ACa 534/20|Wyrok|https://www.saos.org.pl/judgments/443780
-287468|2017-04-07|SO|I ACa 2083/16|Wyrok|https://www.saos.org.pl/judgments/287468
-274693|2016-12-13|SO|VI ACa 1175/15|Wyrok|https://www.saos.org.pl/judgments/274693
-156892|2015-01-22|SO|I ACa 660/14|Wyrok|https://www.saos.org.pl/judgments/156892
-34504|2014-02-05|SO|V Ka 851/13|Wyrok|https://www.saos.org.pl/judgments/34504
-37992|2013-10-08|SO|I ACa 179/13|Wyrok|https://www.saos.org.pl/judgments/37992
-14128|2013-02-14|SO|I ACa 756/12|Wyrok|https://www.saos.org.pl/judgments/14128
-4850|2012-09-20|SO|VI ACa 1121/11|Wyrok|https://www.saos.org.pl/judgments/4850
+saos_id|date|court|case_number|type|score|saos_url
+443780|2021-05-26|SO|I ACa 534/20|Wyrok|56|https://www.saos.org.pl/judgments/443780
+287468|2017-04-07|SO|I ACa 2083/16|Wyrok|56|https://www.saos.org.pl/judgments/287468
+274693|2016-12-13|SO|VI ACa 1175/15|Wyrok|56|https://www.saos.org.pl/judgments/274693
+156892|2015-01-22|SO|I ACa 660/14|Wyrok|56|https://www.saos.org.pl/judgments/156892
+37992|2013-10-08|SO|I ACa 179/13|Wyrok|56|https://www.saos.org.pl/judgments/37992
+14128|2013-02-14|SO|I ACa 756/12|Wyrok|56|https://www.saos.org.pl/judgments/14128
+4850|2012-09-20|SO|VI ACa 1121/11|Wyrok|56|https://www.saos.org.pl/judgments/4850
+34504|2014-02-05|SO|V Ka 851/13|Wyrok|40|https://www.saos.org.pl/judgments/34504

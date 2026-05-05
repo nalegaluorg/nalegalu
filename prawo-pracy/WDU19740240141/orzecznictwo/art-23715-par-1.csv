@@ -1,2 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-307165|2017-08-23|SO|X P 878/15|Wyrok|https://www.saos.org.pl/judgments/307165
+saos_id|date|court|case_number|type|score|saos_url
+109702|2010-10-04|TK|P 12/08|Postanowienie|80|https://www.saos.org.pl/judgments/109702
+244103|2015-12-08|SN|II UK 415/14|Wyrok|78|https://www.saos.org.pl/judgments/244103
+101971|2013-06-04|SN|I UK 526/12|Wyrok|78|https://www.saos.org.pl/judgments/101971
+429920|2020-11-05|SO|III AUa 172/20|Wyrok|56|https://www.saos.org.pl/judgments/429920
+407629|2019-04-11|SO|III AUa 51/19|Wyrok|56|https://www.saos.org.pl/judgments/407629
+357116|2018-04-24|SO|III APa 1/18|Wyrok|56|https://www.saos.org.pl/judgments/357116
+247396|2016-07-13|SO|III AUa 132/16|Wyrok|56|https://www.saos.org.pl/judgments/247396
+291135|2016-06-29|SO|III APa 6/16|Wyrok|56|https://www.saos.org.pl/judgments/291135
+236250|2016-03-23|SO|III APa 33/15|Wyrok|56|https://www.saos.org.pl/judgments/236250
+296493|2015-10-02|SO|I ACa 788/15|Wyrok|56|https://www.saos.org.pl/judgments/296493
+35999|2013-12-12|SO|III APa 42/13|Wyrok|56|https://www.saos.org.pl/judgments/35999
+152370|2015-03-31|SO|XVII Ka 176/15|Wyrok|40|https://www.saos.org.pl/judgments/152370
+482194|2022-02-17|SO|VI P 297/17|Zarządzenie|27|https://www.saos.org.pl/judgments/482194

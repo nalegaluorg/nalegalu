@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 15 grudnia 2006 r. o zmianie ustawy o sy
 
 ## art. 12 (1)
 
-- 2014-08-19 | TK | [Ts 297/13](https://www.saos.org.pl/judgments/206633) | Postanowienie
+- 2014-08-19 | TK | [Ts 297/13](https://www.saos.org.pl/judgments/206633) | Postanowienie ★
 

@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-505229|2023-12-28|SO|III AUz 131/23|Postanowienie|https://www.saos.org.pl/judgments/505229
-505228|2023-12-28|SO|III AUz 130/23|Postanowienie|https://www.saos.org.pl/judgments/505228
-508919|2021-03-08|SO|IV Pz 3/21|Postanowienie|https://www.saos.org.pl/judgments/508919
-403118|2019-11-07|SO|III AUa 329/19|Wyrok|https://www.saos.org.pl/judgments/403118
-368439|2018-11-08|SO|VIII Pa 281/17|Uzasadnienie|https://www.saos.org.pl/judgments/368439
-306722|2017-04-28|SO|VII U 996/16|Wyrok|https://www.saos.org.pl/judgments/306722
-246722|2016-05-06|SO|III AUa 422/15|Wyrok|https://www.saos.org.pl/judgments/246722
-73067|2014-12-16|SO|VII Pa 280/14|Uzasadnienie|https://www.saos.org.pl/judgments/73067
+saos_id|date|court|case_number|type|score|saos_url
+403118|2019-11-07|SO|III AUa 329/19|Wyrok|56|https://www.saos.org.pl/judgments/403118
+246722|2016-05-06|SO|III AUa 422/15|Wyrok|56|https://www.saos.org.pl/judgments/246722
+505229|2023-12-28|SO|III AUz 131/23|Postanowienie|47|https://www.saos.org.pl/judgments/505229
+505228|2023-12-28|SO|III AUz 130/23|Postanowienie|47|https://www.saos.org.pl/judgments/505228
+306722|2017-04-28|SO|VII U 996/16|Wyrok|40|https://www.saos.org.pl/judgments/306722
+368439|2018-11-08|SO|VIII Pa 281/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/368439
+73067|2014-12-16|SO|VII Pa 280/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/73067

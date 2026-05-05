@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-494958|2024-06-11|SO|I AGa 214/23|Wyrok|https://www.saos.org.pl/judgments/494958
-398253|2019-09-20|SO|I AGa 5/19|Wyrok|https://www.saos.org.pl/judgments/398253
-307623|2017-03-30|SO|I ACa 1330/15|Wyrok|https://www.saos.org.pl/judgments/307623
-247540|2016-06-17|SO|VIII Ga 154/16|Wyrok|https://www.saos.org.pl/judgments/247540
-129426|2015-01-16|SO|I ACa 712/14|Wyrok|https://www.saos.org.pl/judgments/129426
-125321|2014-12-30|SO|IV Ca 561/14|Wyrok|https://www.saos.org.pl/judgments/125321
-37174|2014-01-24|SO|II Ca 1616/13|Wyrok|https://www.saos.org.pl/judgments/37174
-6927|2012-05-30|SO|I ACa 228/11|Wyrok|https://www.saos.org.pl/judgments/6927
-89177|2008-11-14|SN|V CSK 182/08|Wyrok|https://www.saos.org.pl/judgments/89177
-164648|2006-11-17|SN|V CSK 267/06|Wyrok|https://www.saos.org.pl/judgments/164648
-163077|2005-03-09|SN|II CK 481/04|Wyrok|https://www.saos.org.pl/judgments/163077
-79782|2000-06-13|SN|II UKN 586/99|Wyrok|https://www.saos.org.pl/judgments/79782
-79306|1999-10-15|SN|I PKN 295/99|Wyrok|https://www.saos.org.pl/judgments/79306
+saos_id|date|court|case_number|type|score|saos_url
+89177|2008-11-14|SN|V CSK 182/08|Wyrok|78|https://www.saos.org.pl/judgments/89177
+164648|2006-11-17|SN|V CSK 267/06|Wyrok|78|https://www.saos.org.pl/judgments/164648
+163077|2005-03-09|SN|II CK 481/04|Wyrok|78|https://www.saos.org.pl/judgments/163077
+79782|2000-06-13|SN|II UKN 586/99|Wyrok|78|https://www.saos.org.pl/judgments/79782
+79306|1999-10-15|SN|I PKN 295/99|Wyrok|78|https://www.saos.org.pl/judgments/79306
+494958|2024-06-11|SO|I AGa 214/23|Wyrok|56|https://www.saos.org.pl/judgments/494958
+398253|2019-09-20|SO|I AGa 5/19|Wyrok|56|https://www.saos.org.pl/judgments/398253
+307623|2017-03-30|SO|I ACa 1330/15|Wyrok|56|https://www.saos.org.pl/judgments/307623
+129426|2015-01-16|SO|I ACa 712/14|Wyrok|56|https://www.saos.org.pl/judgments/129426
+6927|2012-05-30|SO|I ACa 228/11|Wyrok|56|https://www.saos.org.pl/judgments/6927
+37174|2014-01-24|SO|II Ca 1616/13|Wyrok|40|https://www.saos.org.pl/judgments/37174

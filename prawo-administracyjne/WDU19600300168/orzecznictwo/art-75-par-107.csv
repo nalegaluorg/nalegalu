@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-249557|2015-11-26|SO|XVII AmE 136/14|Wyrok|https://www.saos.org.pl/judgments/249557
-152229|2015-03-20|SO|III AUa 1801/14|Wyrok|https://www.saos.org.pl/judgments/152229
+saos_id|date|court|case_number|type|score|saos_url
+152229|2015-03-20|SO|III AUa 1801/14|Wyrok|56|https://www.saos.org.pl/judgments/152229

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-357818|2016-11-30|SO|XX GC 1132/14|Wyrok|https://www.saos.org.pl/judgments/357818
-246836|2015-04-29|SO|I ACa 214/15|Wyrok|https://www.saos.org.pl/judgments/246836
-17822|2013-03-15|SO|I ACa 224/13|Wyrok|https://www.saos.org.pl/judgments/17822
+saos_id|date|court|case_number|type|score|saos_url
+246836|2015-04-29|SO|I ACa 214/15|Wyrok|56|https://www.saos.org.pl/judgments/246836
+17822|2013-03-15|SO|I ACa 224/13|Wyrok|56|https://www.saos.org.pl/judgments/17822

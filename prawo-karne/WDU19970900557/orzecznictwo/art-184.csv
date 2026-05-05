@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-457755|2021-09-20|SO|XXIII Zs 77/21|Wyrok|https://www.saos.org.pl/judgments/457755
-265290|2015-05-19|SO|I C 137/14|Wyrok|https://www.saos.org.pl/judgments/265290
+saos_id|date|court|case_number|type|score|saos_url
+265290|2015-05-19|SO|I C 137/14|Wyrok|40|https://www.saos.org.pl/judgments/265290

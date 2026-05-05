@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-519730|2024-11-26|SO|I C 209/22|Wyrok|https://www.saos.org.pl/judgments/519730
-525186|2024-10-31|SO|VI GC 1048/23|Wyrok|https://www.saos.org.pl/judgments/525186
-522676|2024-10-09|SO|XXV C 1936/18|Wyrok|https://www.saos.org.pl/judgments/522676
-504847|2023-11-07|SO|III AUa 206/23|Wyrok|https://www.saos.org.pl/judgments/504847
-495910|2023-09-21|SO|I C 141/23|Wyrok|https://www.saos.org.pl/judgments/495910
-486430|2022-12-14|SO|I AGa 63/22|Wyrok|https://www.saos.org.pl/judgments/486430
-461331|2022-01-04|SO|XIV C 1000/19|Wyrok|https://www.saos.org.pl/judgments/461331
-376650|2019-03-19|SO|I AGa 185/18|Wyrok|https://www.saos.org.pl/judgments/376650
-382763|2019-02-14|SO|XII Ga 861/18|Uzasadnienie|https://www.saos.org.pl/judgments/382763
-376266|2019-01-15|SO|XXV C 865/17|Postanowienie|https://www.saos.org.pl/judgments/376266
-419015|2018-07-20|SO|I C 883/15|Wyrok|https://www.saos.org.pl/judgments/419015
-359804|2018-02-09|SO|IX C 163/16|Zarządzenie|https://www.saos.org.pl/judgments/359804
-329696|2017-09-15|SO|I ACa 316/17|Wyrok|https://www.saos.org.pl/judgments/329696
-307430|2017-08-24|SO|III AUa 846/16|Wyrok|https://www.saos.org.pl/judgments/307430
-194717|2015-12-14|SO|III Ca 1789/15|Uzasadnienie|https://www.saos.org.pl/judgments/194717
-51641|2014-06-06|SO|VIII Ga 114/14|Postanowienie|https://www.saos.org.pl/judgments/51641
-92036|2010-03-11|SN|IV CSK 379/09|Wyrok|https://www.saos.org.pl/judgments/92036
+saos_id|date|court|case_number|type|score|saos_url
+92036|2010-03-11|SN|IV CSK 379/09|Wyrok|78|https://www.saos.org.pl/judgments/92036
+504847|2023-11-07|SO|III AUa 206/23|Wyrok|56|https://www.saos.org.pl/judgments/504847
+486430|2022-12-14|SO|I AGa 63/22|Wyrok|56|https://www.saos.org.pl/judgments/486430
+376650|2019-03-19|SO|I AGa 185/18|Wyrok|56|https://www.saos.org.pl/judgments/376650
+329696|2017-09-15|SO|I ACa 316/17|Wyrok|56|https://www.saos.org.pl/judgments/329696
+307430|2017-08-24|SO|III AUa 846/16|Wyrok|56|https://www.saos.org.pl/judgments/307430
+461331|2022-01-04|SO|XIV C 1000/19|Wyrok|40|https://www.saos.org.pl/judgments/461331
+194717|2015-12-14|SO|III Ca 1789/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194717

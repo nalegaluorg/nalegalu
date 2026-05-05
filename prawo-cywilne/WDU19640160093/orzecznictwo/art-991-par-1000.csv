@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-373170|2018-10-05|SO|V ACa 554/17|Wyrok|https://www.saos.org.pl/judgments/373170
-290205|2017-05-24|SO|III Ca 1922/16|Uzasadnienie|https://www.saos.org.pl/judgments/290205
-272087|2016-11-18|SO|I ACa 847/16|Wyrok|https://www.saos.org.pl/judgments/272087
-128449|2014-12-30|SO|I ACa 160/14|Wyrok|https://www.saos.org.pl/judgments/128449
-69053|2014-07-24|SO|VI ACa 1706/13|Wyrok|https://www.saos.org.pl/judgments/69053
+saos_id|date|court|case_number|type|score|saos_url
+373170|2018-10-05|SO|V ACa 554/17|Wyrok|56|https://www.saos.org.pl/judgments/373170
+272087|2016-11-18|SO|I ACa 847/16|Wyrok|56|https://www.saos.org.pl/judgments/272087
+128449|2014-12-30|SO|I ACa 160/14|Wyrok|56|https://www.saos.org.pl/judgments/128449
+69053|2014-07-24|SO|VI ACa 1706/13|Wyrok|56|https://www.saos.org.pl/judgments/69053
+290205|2017-05-24|SO|III Ca 1922/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/290205

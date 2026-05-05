@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-464172|2022-04-29|SO|IX P 106/20|Zarządzenie|https://www.saos.org.pl/judgments/464172
-71183|2014-11-17|SO|III Pa 18/14|Wyrok|https://www.saos.org.pl/judgments/71183
-51499|2014-06-20|SO|VII Pa 123/14|Uzasadnienie|https://www.saos.org.pl/judgments/51499
-51501|2014-06-17|SO|VII Pa 124/14|Uzasadnienie|https://www.saos.org.pl/judgments/51501
-42231|2014-04-07|SO|VII Pa 50/14|Uzasadnienie|https://www.saos.org.pl/judgments/42231
-107696|2006-10-24|TK|SK 41/05|Wyrok|https://www.saos.org.pl/judgments/107696
+saos_id|date|court|case_number|type|score|saos_url
+107696|2006-10-24|TK|SK 41/05|Wyrok|98|https://www.saos.org.pl/judgments/107696
+51499|2014-06-20|SO|VII Pa 123/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/51499
+51501|2014-06-17|SO|VII Pa 124/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/51501
+42231|2014-04-07|SO|VII Pa 50/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/42231

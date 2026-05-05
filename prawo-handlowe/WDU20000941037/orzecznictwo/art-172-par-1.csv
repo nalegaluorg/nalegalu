@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80902|2001-10-11|SN|IV CZ 140/01|Postanowienie|https://www.saos.org.pl/judgments/80902
+saos_id|date|court|case_number|type|score|saos_url
+80902|2001-10-11|SN|IV CZ 140/01|Postanowienie|69|https://www.saos.org.pl/judgments/80902

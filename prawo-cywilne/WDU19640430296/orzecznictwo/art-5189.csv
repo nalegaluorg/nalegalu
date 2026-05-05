@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-244311|2016-01-21|SN|III CSK 429/15|Wyrok|https://www.saos.org.pl/judgments/244311
+saos_id|date|court|case_number|type|score|saos_url
+244311|2016-01-21|SN|III CSK 429/15|Wyrok|78|https://www.saos.org.pl/judgments/244311

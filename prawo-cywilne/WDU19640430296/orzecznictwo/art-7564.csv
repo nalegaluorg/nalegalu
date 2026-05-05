@@ -1,2 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-515745|2019-12-17|SO|XXVII Ca 40/19|Postanowienie|https://www.saos.org.pl/judgments/515745
+saos_id|date|court|case_number|type|score|saos_url
+402007|2019-12-19|SO|I ACa 260/19|Wyrok|56|https://www.saos.org.pl/judgments/402007
+376647|2018-07-26|SO|I AGa 169/18|Wyrok|56|https://www.saos.org.pl/judgments/376647
+417234|2018-11-16|SO|XVIII C 1164/17|Wyrok|40|https://www.saos.org.pl/judgments/417234
+533290|2025-05-20|SO|II Ca 613/25|Postanowienie|31|https://www.saos.org.pl/judgments/533290
+414478|2020-01-20|SO|II Ca 2462/19|Postanowienie|31|https://www.saos.org.pl/judgments/414478

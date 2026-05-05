@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-453680|2021-11-29|SO|I C 114/21|Wyrok|https://www.saos.org.pl/judgments/453680
-316897|2017-11-16|SO|VIII Ga 164/17|Uzasadnienie|https://www.saos.org.pl/judgments/316897
-214614|2016-03-24|SO|XIII Ga 898/15|Uzasadnienie|https://www.saos.org.pl/judgments/214614
-207816|2016-03-03|SO|VI GC 132/15|Uzasadnienie|https://www.saos.org.pl/judgments/207816
-41026|2014-02-13|SO|II Ca 6/14|Wyrok|https://www.saos.org.pl/judgments/41026
-21303|2013-08-30|SO|II Ca 569/13|Wyrok|https://www.saos.org.pl/judgments/21303
-11229|2013-04-24|SO|VIII Ca 697/12|Wyrok|https://www.saos.org.pl/judgments/11229
+saos_id|date|court|case_number|type|score|saos_url
+214614|2016-03-24|SO|XIII Ga 898/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/214614

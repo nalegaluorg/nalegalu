@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-320831|2018-01-12|SO|IV K 216/16|Uzasadnienie|https://www.saos.org.pl/judgments/320831
-361324|2015-07-09|SO|IV K 559/13|Wyrok|https://www.saos.org.pl/judgments/361324
-55229|2014-06-09|SO|II K 720/13|Wyrok|https://www.saos.org.pl/judgments/55229
-135343|2014-05-08|SO|X Ka 120/14|Uzasadnienie|https://www.saos.org.pl/judgments/135343
+saos_id|date|court|case_number|type|score|saos_url
+320831|2018-01-12|SO|IV K 216/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/320831

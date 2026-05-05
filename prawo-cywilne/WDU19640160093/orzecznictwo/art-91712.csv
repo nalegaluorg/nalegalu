@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-477476|2022-10-20|SO|V ACa 85/22|Wyrok|https://www.saos.org.pl/judgments/477476
-309818|2017-10-16|SO|VI GC 2095/16|Wyrok|https://www.saos.org.pl/judgments/309818
-99936|2012-12-06|SN|III CSK 86/12|Wyrok|https://www.saos.org.pl/judgments/99936
+saos_id|date|court|case_number|type|score|saos_url
+99936|2012-12-06|SN|III CSK 86/12|Wyrok|78|https://www.saos.org.pl/judgments/99936
+477476|2022-10-20|SO|V ACa 85/22|Wyrok|56|https://www.saos.org.pl/judgments/477476

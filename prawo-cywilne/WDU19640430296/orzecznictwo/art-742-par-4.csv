@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-64591|2014-07-04|SO|I ACa 764/13|Wyrok|https://www.saos.org.pl/judgments/64591
-45016|2014-05-06|SO|II Cz 397/14|Postanowienie|https://www.saos.org.pl/judgments/45016
-144986|2014-03-28|SO|I ACz 85/14|Postanowienie|https://www.saos.org.pl/judgments/144986
+saos_id|date|court|case_number|type|score|saos_url
+64591|2014-07-04|SO|I ACa 764/13|Wyrok|56|https://www.saos.org.pl/judgments/64591
+144986|2014-03-28|SO|I ACz 85/14|Postanowienie|47|https://www.saos.org.pl/judgments/144986

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76513|1994-04-21|SN|III ARN 14/94|Wyrok|https://www.saos.org.pl/judgments/76513
+saos_id|date|court|case_number|type|score|saos_url
+76513|1994-04-21|SN|III ARN 14/94|Wyrok|78|https://www.saos.org.pl/judgments/76513

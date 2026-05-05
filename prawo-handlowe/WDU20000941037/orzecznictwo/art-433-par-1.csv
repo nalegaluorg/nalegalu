@@ -1,14 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-515360|2023-02-09|SO|XX GC 449/22|Wyrok|https://www.saos.org.pl/judgments/515360
-492760|2022-09-29|SO|XX GC 160/21|Wyrok|https://www.saos.org.pl/judgments/492760
-539622|2022-04-26|SO|V AGa 507/21|Wyrok|https://www.saos.org.pl/judgments/539622
-425736|2019-10-30|SO|VII AGa 211/19|Wyrok|https://www.saos.org.pl/judgments/425736
-381603|2018-10-30|SO|XVI GC 962/17|Wyrok|https://www.saos.org.pl/judgments/381603
-348460|2018-05-23|SO|I ACa 20/18|Wyrok|https://www.saos.org.pl/judgments/348460
-333781|2017-07-25|SO|XVI GC 663/15|Wyrok|https://www.saos.org.pl/judgments/333781
-257713|2016-09-28|SO|VI ACa 854/15|Wyrok|https://www.saos.org.pl/judgments/257713
-236281|2016-07-01|SO|IV Ca 310/16|Wyrok|https://www.saos.org.pl/judgments/236281
-125322|2014-12-30|SO|IV Ca 567/14|Wyrok|https://www.saos.org.pl/judgments/125322
-51342|2014-05-28|SO|I ACa 3/14|Wyrok|https://www.saos.org.pl/judgments/51342
-82672|2004-05-13|SN|V CK 452/03|Wyrok|https://www.saos.org.pl/judgments/82672
+saos_id|date|court|case_number|type|score|saos_url
+82672|2004-05-13|SN|V CK 452/03|Wyrok|78|https://www.saos.org.pl/judgments/82672
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+539622|2022-04-26|SO|V AGa 507/21|Wyrok|56|https://www.saos.org.pl/judgments/539622
+425736|2019-10-30|SO|VII AGa 211/19|Wyrok|56|https://www.saos.org.pl/judgments/425736
+348460|2018-05-23|SO|I ACa 20/18|Wyrok|56|https://www.saos.org.pl/judgments/348460
+257713|2016-09-28|SO|VI ACa 854/15|Wyrok|56|https://www.saos.org.pl/judgments/257713
+51342|2014-05-28|SO|I ACa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/51342

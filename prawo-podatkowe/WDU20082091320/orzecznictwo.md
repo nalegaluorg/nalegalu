@@ -6,14 +6,14 @@ Orzeczenia powołujące: *Ustawa z dnia 7 listopada 2008 r. o zmianie ustawy o p
 
 ## art. 1 (3)
 
+- 2009-03-10 | TK | [P 80/08](https://www.saos.org.pl/judgments/109058) | Wyrok ★
+- 2013-09-02 | TK | [Ts 89/12](https://www.saos.org.pl/judgments/206388) | Postanowienie ★
 - 2019-05-31 | SO | [I ACa 549/18](https://www.saos.org.pl/judgments/417678) | Wyrok
-- 2013-09-02 | TK | [Ts 89/12](https://www.saos.org.pl/judgments/206388) | Postanowienie
-- 2009-03-10 | TK | [P 80/08](https://www.saos.org.pl/judgments/109058) | Wyrok
 
 ## art. 3 (2)
 
-- 2013-07-04 | TK | [P 7/10](https://www.saos.org.pl/judgments/111609) | Wyrok
-- 2010-04-13 | TK | [P 35/09](https://www.saos.org.pl/judgments/109720) | Postanowienie
+- 2013-07-04 | TK | [P 7/10](https://www.saos.org.pl/judgments/111609) | Wyrok ★
+- 2010-04-13 | TK | [P 35/09](https://www.saos.org.pl/judgments/109720) | Postanowienie ★
 
 ## art. 86 (1)
 

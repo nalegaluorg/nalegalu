@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-402847|2019-06-28|SO|III AUa 1103/18|Wyrok|https://www.saos.org.pl/judgments/402847
-285374|2017-04-20|SO|III AUa 520/16|Wyrok|https://www.saos.org.pl/judgments/285374
-252282|2016-09-06|SO|III AUa 574/16|Wyrok|https://www.saos.org.pl/judgments/252282
-212309|2016-01-27|SO|V U 546/15|Wyrok|https://www.saos.org.pl/judgments/212309
-204091|2016-01-22|SO|V U 93/15|Wyrok|https://www.saos.org.pl/judgments/204091
-204089|2016-01-20|SO|V U 449/15|Wyrok|https://www.saos.org.pl/judgments/204089
-125995|2014-12-03|SO|III AUa 119/14|Wyrok|https://www.saos.org.pl/judgments/125995
-533491|2014-03-25|SO|III AUa 1256/13|Wyrok|https://www.saos.org.pl/judgments/533491
-25028|2013-10-17|SO|III AUa 750/13|Wyrok|https://www.saos.org.pl/judgments/25028
-33570|2013-09-11|SO|IV U 1285/13|Wyrok|https://www.saos.org.pl/judgments/33570
-18655|2013-06-26|SO|VII U 604/13|Wyrok|https://www.saos.org.pl/judgments/18655
-13108|2013-05-28|SO|III AUa 1412/12|Wyrok|https://www.saos.org.pl/judgments/13108
-7524|2013-03-12|SO|V U 1522/12|Wyrok|https://www.saos.org.pl/judgments/7524
-4524|2013-01-22|SO|III AUa 891/12|Wyrok|https://www.saos.org.pl/judgments/4524
-409|2012-08-16|SO|III AUa 2500/11|Wyrok|https://www.saos.org.pl/judgments/409
+saos_id|date|court|case_number|type|score|saos_url
+402847|2019-06-28|SO|III AUa 1103/18|Wyrok|56|https://www.saos.org.pl/judgments/402847
+285374|2017-04-20|SO|III AUa 520/16|Wyrok|56|https://www.saos.org.pl/judgments/285374
+252282|2016-09-06|SO|III AUa 574/16|Wyrok|56|https://www.saos.org.pl/judgments/252282
+125995|2014-12-03|SO|III AUa 119/14|Wyrok|56|https://www.saos.org.pl/judgments/125995
+533491|2014-03-25|SO|III AUa 1256/13|Wyrok|56|https://www.saos.org.pl/judgments/533491
+25028|2013-10-17|SO|III AUa 750/13|Wyrok|56|https://www.saos.org.pl/judgments/25028
+13108|2013-05-28|SO|III AUa 1412/12|Wyrok|56|https://www.saos.org.pl/judgments/13108
+4524|2013-01-22|SO|III AUa 891/12|Wyrok|56|https://www.saos.org.pl/judgments/4524
+409|2012-08-16|SO|III AUa 2500/11|Wyrok|56|https://www.saos.org.pl/judgments/409

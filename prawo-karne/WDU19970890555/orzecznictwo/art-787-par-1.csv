@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-106882|2004-07-21|TK|Ts 64/04|Postanowienie|https://www.saos.org.pl/judgments/106882
+saos_id|date|court|case_number|type|score|saos_url
+106882|2004-07-21|TK|Ts 64/04|Postanowienie|80|https://www.saos.org.pl/judgments/106882

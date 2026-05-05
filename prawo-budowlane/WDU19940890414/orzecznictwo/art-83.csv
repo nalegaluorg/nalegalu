@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-541669|2025-10-16|SO|X Ns 233/24|Postanowienie|https://www.saos.org.pl/judgments/541669
-438057|2021-01-19|SO|I ACa 505/19|Wyrok|https://www.saos.org.pl/judgments/438057
-369975|2019-01-22|SO|II Ca 833/18|Wyrok|https://www.saos.org.pl/judgments/369975
-300762|2017-07-04|SO|II C 1684/15|Uzasadnienie|https://www.saos.org.pl/judgments/300762
-326090|2017-06-20|SO|XV Ca 133/17|Wyrok|https://www.saos.org.pl/judgments/326090
-247840|2016-07-28|SO|XII C 916/15|Wyrok|https://www.saos.org.pl/judgments/247840
-214341|2016-01-28|SO|II W 810/15|Wyrok|https://www.saos.org.pl/judgments/214341
-294857|2015-08-25|SO|I ACa 829/15|Wyrok|https://www.saos.org.pl/judgments/294857
-187545|2015-03-10|SO|VI ACa 684/14|Wyrok|https://www.saos.org.pl/judgments/187545
-134782|2015-02-24|SO|II C 420/14|Wyrok|https://www.saos.org.pl/judgments/134782
-35674|2014-01-09|SO|I ACa 699/13|Wyrok|https://www.saos.org.pl/judgments/35674
-142558|2013-07-31|SO|I C 885/08|Wyrok|https://www.saos.org.pl/judgments/142558
-17978|2013-03-29|SO|I ACa 876/12|Wyrok|https://www.saos.org.pl/judgments/17978
-4149|2012-11-27|SO|I ACa 699/12|Wyrok|https://www.saos.org.pl/judgments/4149
-270777|2012-11-22|SO|XVII AmE 45/11|Wyrok|https://www.saos.org.pl/judgments/270777
+saos_id|date|court|case_number|type|score|saos_url
+438057|2021-01-19|SO|I ACa 505/19|Wyrok|56|https://www.saos.org.pl/judgments/438057
+294857|2015-08-25|SO|I ACa 829/15|Wyrok|56|https://www.saos.org.pl/judgments/294857
+187545|2015-03-10|SO|VI ACa 684/14|Wyrok|56|https://www.saos.org.pl/judgments/187545
+35674|2014-01-09|SO|I ACa 699/13|Wyrok|56|https://www.saos.org.pl/judgments/35674
+17978|2013-03-29|SO|I ACa 876/12|Wyrok|56|https://www.saos.org.pl/judgments/17978
+4149|2012-11-27|SO|I ACa 699/12|Wyrok|56|https://www.saos.org.pl/judgments/4149
+326090|2017-06-20|SO|XV Ca 133/17|Wyrok|40|https://www.saos.org.pl/judgments/326090
+247840|2016-07-28|SO|XII C 916/15|Wyrok|40|https://www.saos.org.pl/judgments/247840
+134782|2015-02-24|SO|II C 420/14|Wyrok|40|https://www.saos.org.pl/judgments/134782
+300762|2017-07-04|SO|II C 1684/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/300762

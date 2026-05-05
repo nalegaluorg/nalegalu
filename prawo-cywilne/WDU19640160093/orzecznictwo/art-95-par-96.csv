@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-407440|2019-10-11|SO|I ACa 727/18|Wyrok|https://www.saos.org.pl/judgments/407440
-92261|2010-05-19|SN|I CZ 19/10|Postanowienie|https://www.saos.org.pl/judgments/92261
+saos_id|date|court|case_number|type|score|saos_url
+92261|2010-05-19|SN|I CZ 19/10|Postanowienie|69|https://www.saos.org.pl/judgments/92261
+407440|2019-10-11|SO|I ACa 727/18|Wyrok|56|https://www.saos.org.pl/judgments/407440

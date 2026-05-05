@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-270145|2017-01-02|SO|XVIII C 701/16|Wyrok|https://www.saos.org.pl/judgments/270145
+saos_id|date|court|case_number|type|score|saos_url
+270145|2017-01-02|SO|XVIII C 701/16|Wyrok|40|https://www.saos.org.pl/judgments/270145

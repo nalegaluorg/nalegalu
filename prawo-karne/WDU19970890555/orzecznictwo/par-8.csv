@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-522868|2024-03-27|SO|I ACa 471/22|Wyrok|https://www.saos.org.pl/judgments/522868
-379353|2019-04-18|SO|IV Pa 6/19|Wyrok|https://www.saos.org.pl/judgments/379353
-111007|2012-07-10|TK|SK 26/10|Postanowienie|https://www.saos.org.pl/judgments/111007
+saos_id|date|court|case_number|type|score|saos_url
+111007|2012-07-10|TK|SK 26/10|Postanowienie|80|https://www.saos.org.pl/judgments/111007
+522868|2024-03-27|SO|I ACa 471/22|Wyrok|56|https://www.saos.org.pl/judgments/522868

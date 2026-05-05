@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-511259|2024-07-30|SO|VI Ka 730/24|Wyrok|https://www.saos.org.pl/judgments/511259
-514457|2024-03-13|SO|X Kp 91/24|Uzasadnienie|https://www.saos.org.pl/judgments/514457
-482338|2022-10-19|SO|VI Ka 348/22|Wyrok|https://www.saos.org.pl/judgments/482338
-472346|2022-05-24|SO|IV Ka 274/22|Uzasadnienie|https://www.saos.org.pl/judgments/472346
-487204|2022-01-27|SO|II AKa 290/21|Wyrok|https://www.saos.org.pl/judgments/487204
-341082|2018-04-05|SO|II AKa 454/17|Wyrok|https://www.saos.org.pl/judgments/341082
-292926|2016-12-28|SO|II AKa 354/16|Wyrok|https://www.saos.org.pl/judgments/292926
-199563|2016-01-22|SO|V Kz 994/15|Postanowienie|https://www.saos.org.pl/judgments/199563
-175719|2014-08-27|SO|II AKa 211/14|Wyrok|https://www.saos.org.pl/judgments/175719
-143798|2013-12-17|SO|II AKa 361/13|Wyrok|https://www.saos.org.pl/judgments/143798
-137492|2012-11-14|SO|II AKa 308/12|Wyrok|https://www.saos.org.pl/judgments/137492
-89013|2008-10-31|SN|II KK 76/08|Postanowienie|https://www.saos.org.pl/judgments/89013
-83235|2005-02-25|SN|I KZP 35/04|Uchwała|https://www.saos.org.pl/judgments/83235
-81359|2002-04-23|SN|I KZP 7/02|Uchwała|https://www.saos.org.pl/judgments/81359
+saos_id|date|court|case_number|type|score|saos_url
+83235|2005-02-25|SN|I KZP 35/04|Uchwała|89|https://www.saos.org.pl/judgments/83235
+81359|2002-04-23|SN|I KZP 7/02|Uchwała|89|https://www.saos.org.pl/judgments/81359
+89013|2008-10-31|SN|II KK 76/08|Postanowienie|69|https://www.saos.org.pl/judgments/89013
+487204|2022-01-27|SO|II AKa 290/21|Wyrok|56|https://www.saos.org.pl/judgments/487204
+341082|2018-04-05|SO|II AKa 454/17|Wyrok|56|https://www.saos.org.pl/judgments/341082
+292926|2016-12-28|SO|II AKa 354/16|Wyrok|56|https://www.saos.org.pl/judgments/292926
+175719|2014-08-27|SO|II AKa 211/14|Wyrok|56|https://www.saos.org.pl/judgments/175719
+143798|2013-12-17|SO|II AKa 361/13|Wyrok|56|https://www.saos.org.pl/judgments/143798
+137492|2012-11-14|SO|II AKa 308/12|Wyrok|56|https://www.saos.org.pl/judgments/137492
+511259|2024-07-30|SO|VI Ka 730/24|Wyrok|40|https://www.saos.org.pl/judgments/511259
+199563|2016-01-22|SO|V Kz 994/15|Postanowienie|31|https://www.saos.org.pl/judgments/199563

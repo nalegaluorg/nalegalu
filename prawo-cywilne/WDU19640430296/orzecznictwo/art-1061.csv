@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-205667|1995-12-12|TK|U 6/95|Wyrok|https://www.saos.org.pl/judgments/205667
-205663|1995-06-20|TK|U 1/95|Wyrok|https://www.saos.org.pl/judgments/205663
+saos_id|date|court|case_number|type|score|saos_url
+205667|1995-12-12|TK|U 6/95|Wyrok|98|https://www.saos.org.pl/judgments/205667
+205663|1995-06-20|TK|U 1/95|Wyrok|98|https://www.saos.org.pl/judgments/205663

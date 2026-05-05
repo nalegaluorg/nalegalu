@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-483635|2021-11-10|SO|I C 39/20|Wyrok|https://www.saos.org.pl/judgments/483635
-429059|2020-04-01|SO|I ACa 86/19|Wyrok|https://www.saos.org.pl/judgments/429059
-7611|2013-02-19|SO|I ACa 878/12|Wyrok|https://www.saos.org.pl/judgments/7611
+saos_id|date|court|case_number|type|score|saos_url
+429059|2020-04-01|SO|I ACa 86/19|Wyrok|56|https://www.saos.org.pl/judgments/429059
+7611|2013-02-19|SO|I ACa 878/12|Wyrok|56|https://www.saos.org.pl/judgments/7611

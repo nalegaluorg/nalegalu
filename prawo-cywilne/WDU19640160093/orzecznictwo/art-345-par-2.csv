@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-544884|2021-11-22|SO|I AGa 140/21|Wyrok|https://www.saos.org.pl/judgments/544884
-464295|2021-09-21|SO|V C 1809/20|Wyrok|https://www.saos.org.pl/judgments/464295
-448665|2021-08-06|SO|III Ca 449/19|Wyrok|https://www.saos.org.pl/judgments/448665
-416091|2020-03-23|SO|XV Ca 237/20|Wyrok|https://www.saos.org.pl/judgments/416091
-415736|2020-01-02|SO|I C 1192/17|Zarządzenie|https://www.saos.org.pl/judgments/415736
-341705|2018-04-26|SO|I ACa 1000/15|Wyrok|https://www.saos.org.pl/judgments/341705
-303378|2017-05-19|SO|I C 1192/16|Wyrok|https://www.saos.org.pl/judgments/303378
-224816|2016-04-15|SO|I ACa 1107/15|Wyrok|https://www.saos.org.pl/judgments/224816
-234799|2015-09-30|SO|I ACa 30/15|Wyrok|https://www.saos.org.pl/judgments/234799
-150432|2015-03-10|SO|II Ca 2257/14|Postanowienie|https://www.saos.org.pl/judgments/150432
-47816|2014-04-29|SO|I ACa 1382/13|Wyrok|https://www.saos.org.pl/judgments/47816
+saos_id|date|court|case_number|type|score|saos_url
+544884|2021-11-22|SO|I AGa 140/21|Wyrok|56|https://www.saos.org.pl/judgments/544884
+341705|2018-04-26|SO|I ACa 1000/15|Wyrok|56|https://www.saos.org.pl/judgments/341705
+224816|2016-04-15|SO|I ACa 1107/15|Wyrok|56|https://www.saos.org.pl/judgments/224816
+234799|2015-09-30|SO|I ACa 30/15|Wyrok|56|https://www.saos.org.pl/judgments/234799
+47816|2014-04-29|SO|I ACa 1382/13|Wyrok|56|https://www.saos.org.pl/judgments/47816
+464295|2021-09-21|SO|V C 1809/20|Wyrok|40|https://www.saos.org.pl/judgments/464295
+416091|2020-03-23|SO|XV Ca 237/20|Wyrok|40|https://www.saos.org.pl/judgments/416091
+150432|2015-03-10|SO|II Ca 2257/14|Postanowienie|31|https://www.saos.org.pl/judgments/150432

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-212726|2016-02-17|SO|I ACa 1195/15|Wyrok|https://www.saos.org.pl/judgments/212726
+saos_id|date|court|case_number|type|score|saos_url
+212726|2016-02-17|SO|I ACa 1195/15|Wyrok|56|https://www.saos.org.pl/judgments/212726

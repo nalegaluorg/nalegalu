@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-540794|2026-01-21|SO|II K 478/25|Wyrok|https://www.saos.org.pl/judgments/540794
-473896|2022-01-13|SO|IX K 685/20|Wyrok|https://www.saos.org.pl/judgments/473896
-444273|2019-06-14|SO|XII K 40/19|Wyrok|https://www.saos.org.pl/judgments/444273
-379141|2019-04-26|SO|IV K 132/18|Uzasadnienie|https://www.saos.org.pl/judgments/379141
-333297|2018-02-08|SO|V Ka 658/17|Wyrok|https://www.saos.org.pl/judgments/333297
-211410|2016-02-05|SO|VI Ka 1205/15|Wyrok|https://www.saos.org.pl/judgments/211410
-190382|2015-11-23|SO|V Ka 330/15|Wyrok|https://www.saos.org.pl/judgments/190382
-175026|2015-06-25|SO|VIII Ka 315/15|Wyrok|https://www.saos.org.pl/judgments/175026
-158270|2015-05-13|SO|VI Ka 7/15|Wyrok|https://www.saos.org.pl/judgments/158270
-157912|2015-04-10|SO|II K 149/14|Wyrok|https://www.saos.org.pl/judgments/157912
-134485|2015-01-12|SO|V Ka 652/14|Wyrok|https://www.saos.org.pl/judgments/134485
-125705|2014-12-10|SO|IV Ka 869/14|Wyrok|https://www.saos.org.pl/judgments/125705
-47627|2014-04-14|SO|III K 67/14|Postanowienie|https://www.saos.org.pl/judgments/47627
+saos_id|date|court|case_number|type|score|saos_url
+125705|2014-12-10|SO|IV Ka 869/14|Wyrok|40|https://www.saos.org.pl/judgments/125705
+47627|2014-04-14|SO|III K 67/14|Postanowienie|31|https://www.saos.org.pl/judgments/47627
+379141|2019-04-26|SO|IV K 132/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/379141

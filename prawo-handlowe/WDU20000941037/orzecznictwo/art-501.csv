@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-383417|2019-05-14|SO|XXIII Ga 2372/18|Wyrok|https://www.saos.org.pl/judgments/383417
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-100222|2012-12-21|SN|V CSK 9/12|Wyrok|https://www.saos.org.pl/judgments/100222
+saos_id|date|court|case_number|type|score|saos_url
+100222|2012-12-21|SN|V CSK 9/12|Wyrok|78|https://www.saos.org.pl/judgments/100222

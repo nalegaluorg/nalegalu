@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-34675|2014-01-14|SO|IX GC 873/12|Wyrok|https://www.saos.org.pl/judgments/34675
+saos_id|date|court|case_number|type|score|saos_url
+34675|2014-01-14|SO|IX GC 873/12|Wyrok|40|https://www.saos.org.pl/judgments/34675

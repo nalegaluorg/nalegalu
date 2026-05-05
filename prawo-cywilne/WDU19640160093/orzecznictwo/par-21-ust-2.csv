@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-514865|2024-03-19|SO|XIV C 691/21|Wyrok|https://www.saos.org.pl/judgments/514865
-494400|2022-04-12|SO|I ACa 625/21|Wyrok|https://www.saos.org.pl/judgments/494400
+saos_id|date|court|case_number|type|score|saos_url
+494400|2022-04-12|SO|I ACa 625/21|Wyrok|56|https://www.saos.org.pl/judgments/494400
+514865|2024-03-19|SO|XIV C 691/21|Wyrok|40|https://www.saos.org.pl/judgments/514865

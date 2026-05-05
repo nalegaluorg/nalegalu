@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-330497|2016-06-06|SO|II Ca 344/16|Postanowienie|https://www.saos.org.pl/judgments/330497
-100650|2013-02-08|SN|IV CZ 172/12|Postanowienie|https://www.saos.org.pl/judgments/100650
+saos_id|date|court|case_number|type|score|saos_url
+100650|2013-02-08|SN|IV CZ 172/12|Postanowienie|69|https://www.saos.org.pl/judgments/100650

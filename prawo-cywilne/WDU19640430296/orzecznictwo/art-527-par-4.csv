@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-496985|2023-01-24|SO|I C 24/22|Wyrok|https://www.saos.org.pl/judgments/496985
-431371|2020-09-16|SO|I AGa 73/19|Wyrok|https://www.saos.org.pl/judgments/431371
-408057|2020-01-10|SO|I ACa 645/19|Wyrok|https://www.saos.org.pl/judgments/408057
-434696|2017-08-09|SO|I ACa 238/17|Wyrok|https://www.saos.org.pl/judgments/434696
-277303|2016-12-12|SO|I C 1479/15|Uzasadnienie|https://www.saos.org.pl/judgments/277303
-273993|2016-12-12|SO|II C 275/16|Wyrok|https://www.saos.org.pl/judgments/273993
-210749|2016-01-26|SO|I ACa 537/15|Wyrok|https://www.saos.org.pl/judgments/210749
-173741|2015-05-13|SO|I ACa 115/15|Wyrok|https://www.saos.org.pl/judgments/173741
-48058|2014-04-30|SO|I ACa 153/14|Wyrok|https://www.saos.org.pl/judgments/48058
-62031|2014-03-18|SO|XV Ca 46/14|Wyrok|https://www.saos.org.pl/judgments/62031
-34800|2014-01-22|SO|I ACa 670/13|Wyrok|https://www.saos.org.pl/judgments/34800
-63585|2013-12-03|SO|I ACa 917/13|Wyrok|https://www.saos.org.pl/judgments/63585
-39032|2013-08-30|SO|I ACz 1651/13|Postanowienie|https://www.saos.org.pl/judgments/39032
+saos_id|date|court|case_number|type|score|saos_url
+431371|2020-09-16|SO|I AGa 73/19|Wyrok|56|https://www.saos.org.pl/judgments/431371
+408057|2020-01-10|SO|I ACa 645/19|Wyrok|56|https://www.saos.org.pl/judgments/408057
+434696|2017-08-09|SO|I ACa 238/17|Wyrok|56|https://www.saos.org.pl/judgments/434696
+210749|2016-01-26|SO|I ACa 537/15|Wyrok|56|https://www.saos.org.pl/judgments/210749
+173741|2015-05-13|SO|I ACa 115/15|Wyrok|56|https://www.saos.org.pl/judgments/173741
+48058|2014-04-30|SO|I ACa 153/14|Wyrok|56|https://www.saos.org.pl/judgments/48058
+34800|2014-01-22|SO|I ACa 670/13|Wyrok|56|https://www.saos.org.pl/judgments/34800
+63585|2013-12-03|SO|I ACa 917/13|Wyrok|56|https://www.saos.org.pl/judgments/63585
+39032|2013-08-30|SO|I ACz 1651/13|Postanowienie|47|https://www.saos.org.pl/judgments/39032
+273993|2016-12-12|SO|II C 275/16|Wyrok|40|https://www.saos.org.pl/judgments/273993
+62031|2014-03-18|SO|XV Ca 46/14|Wyrok|40|https://www.saos.org.pl/judgments/62031

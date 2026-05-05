@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-448872|2020-02-11|SO|I C 425/18|Wyrok|https://www.saos.org.pl/judgments/448872
-333609|2016-11-17|SO|I C 140/15|Wyrok|https://www.saos.org.pl/judgments/333609
-73122|2014-10-23|SO|I ACa 409/14|Wyrok|https://www.saos.org.pl/judgments/73122
-145233|2014-03-07|SO|I C 689/13|Wyrok|https://www.saos.org.pl/judgments/145233
+saos_id|date|court|case_number|type|score|saos_url
+73122|2014-10-23|SO|I ACa 409/14|Wyrok|56|https://www.saos.org.pl/judgments/73122
+448872|2020-02-11|SO|I C 425/18|Wyrok|40|https://www.saos.org.pl/judgments/448872
+333609|2016-11-17|SO|I C 140/15|Wyrok|40|https://www.saos.org.pl/judgments/333609

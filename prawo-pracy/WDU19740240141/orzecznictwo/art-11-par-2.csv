@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511808|2024-05-20|SO|VII P 761/23|Wyrok|https://www.saos.org.pl/judgments/511808
-459781|2022-03-01|SO|VIII P 11/20|Uzasadnienie|https://www.saos.org.pl/judgments/459781
-27207|2013-11-21|SO|IV Ka 951/13|Wyrok|https://www.saos.org.pl/judgments/27207
+saos_id|date|court|case_number|type|score|saos_url
+459781|2022-03-01|SO|VIII P 11/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459781

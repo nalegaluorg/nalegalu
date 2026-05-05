@@ -1,14 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-244084|2015-12-09|SN|IV KZ 68/15|Postanowienie|https://www.saos.org.pl/judgments/244084
-168610|2015-03-19|SN|VI KZ 1/15|Postanowienie|https://www.saos.org.pl/judgments/168610
-166540|2014-08-13|SN|V KZ 29/14|Postanowienie|https://www.saos.org.pl/judgments/166540
-105166|2014-05-27|SN|V KZ 16/14|Postanowienie|https://www.saos.org.pl/judgments/105166
-102980|2013-09-27|SN|II KZ 36/13|Postanowienie|https://www.saos.org.pl/judgments/102980
-102928|2013-09-18|SN|V KZ 67/13|Postanowienie|https://www.saos.org.pl/judgments/102928
-102497|2013-07-17|SN|IV KZ 41/13|Postanowienie|https://www.saos.org.pl/judgments/102497
-102305|2013-06-25|SN|V KZ 44/13|Postanowienie|https://www.saos.org.pl/judgments/102305
-101865|2013-05-23|SN|III KZ 22/13|Postanowienie|https://www.saos.org.pl/judgments/101865
-100295|2013-01-09|SN|III KZ 91/12|Postanowienie|https://www.saos.org.pl/judgments/100295
-100229|2012-12-28|SN|IV KZ 80/12|Postanowienie|https://www.saos.org.pl/judgments/100229
-90315|2009-05-28|SN|III KZ 29/09|Postanowienie|https://www.saos.org.pl/judgments/90315
-82406|2003-12-16|SN|I KZP 35/03|Uchwała|https://www.saos.org.pl/judgments/82406
+saos_id|date|court|case_number|type|score|saos_url
+82406|2003-12-16|SN|I KZP 35/03|Uchwała|89|https://www.saos.org.pl/judgments/82406
+244084|2015-12-09|SN|IV KZ 68/15|Postanowienie|69|https://www.saos.org.pl/judgments/244084
+168610|2015-03-19|SN|VI KZ 1/15|Postanowienie|69|https://www.saos.org.pl/judgments/168610
+166540|2014-08-13|SN|V KZ 29/14|Postanowienie|69|https://www.saos.org.pl/judgments/166540
+105166|2014-05-27|SN|V KZ 16/14|Postanowienie|69|https://www.saos.org.pl/judgments/105166
+102980|2013-09-27|SN|II KZ 36/13|Postanowienie|69|https://www.saos.org.pl/judgments/102980
+102928|2013-09-18|SN|V KZ 67/13|Postanowienie|69|https://www.saos.org.pl/judgments/102928
+102497|2013-07-17|SN|IV KZ 41/13|Postanowienie|69|https://www.saos.org.pl/judgments/102497
+102305|2013-06-25|SN|V KZ 44/13|Postanowienie|69|https://www.saos.org.pl/judgments/102305
+101865|2013-05-23|SN|III KZ 22/13|Postanowienie|69|https://www.saos.org.pl/judgments/101865
+100295|2013-01-09|SN|III KZ 91/12|Postanowienie|69|https://www.saos.org.pl/judgments/100295
+100229|2012-12-28|SN|IV KZ 80/12|Postanowienie|69|https://www.saos.org.pl/judgments/100229
+90315|2009-05-28|SN|III KZ 29/09|Postanowienie|69|https://www.saos.org.pl/judgments/90315

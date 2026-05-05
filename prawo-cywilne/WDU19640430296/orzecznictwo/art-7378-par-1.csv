@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-96286|2011-11-16|SN|V CSK 515/10|Wyrok|https://www.saos.org.pl/judgments/96286
+saos_id|date|court|case_number|type|score|saos_url
+96286|2011-11-16|SN|V CSK 515/10|Wyrok|78|https://www.saos.org.pl/judgments/96286

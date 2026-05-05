@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-51914|2014-06-23|SO|IV Ka 279/14|Wyrok|https://www.saos.org.pl/judgments/51914
+saos_id|date|court|case_number|type|score|saos_url
+51914|2014-06-23|SO|IV Ka 279/14|Wyrok|40|https://www.saos.org.pl/judgments/51914

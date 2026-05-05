@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-304875|2017-08-31|SO|I Co 1076/17|Postanowienie|https://www.saos.org.pl/judgments/304875
-270048|2016-12-21|SO|VI P 712/15|Wyrok|https://www.saos.org.pl/judgments/270048
-269924|2016-10-20|SO|I Co 234/16|Postanowienie|https://www.saos.org.pl/judgments/269924
-291703|2016-09-06|SO|XI Co 1253/15|Postanowienie|https://www.saos.org.pl/judgments/291703
-269923|2016-08-25|SO|I Co 225/16|Postanowienie|https://www.saos.org.pl/judgments/269923
-196682|2015-11-19|SO|XII C 1413/15|Wyrok|https://www.saos.org.pl/judgments/196682
+saos_id|date|court|case_number|type|score|saos_url
+196682|2015-11-19|SO|XII C 1413/15|Wyrok|40|https://www.saos.org.pl/judgments/196682

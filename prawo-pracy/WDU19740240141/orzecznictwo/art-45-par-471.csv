@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-544314|2026-02-10|SO|IV P 840/25|Wyrok|https://www.saos.org.pl/judgments/544314
-79306|1999-10-15|SN|I PKN 295/99|Wyrok|https://www.saos.org.pl/judgments/79306
-79124|1999-07-01|SN|I PKN 143/99|Wyrok|https://www.saos.org.pl/judgments/79124
+saos_id|date|court|case_number|type|score|saos_url
+79306|1999-10-15|SN|I PKN 295/99|Wyrok|78|https://www.saos.org.pl/judgments/79306
+79124|1999-07-01|SN|I PKN 143/99|Wyrok|78|https://www.saos.org.pl/judgments/79124

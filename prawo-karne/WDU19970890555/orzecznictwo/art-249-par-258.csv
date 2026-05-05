@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-142964|2014-01-15|SO|II AKa 459/13|Wyrok|https://www.saos.org.pl/judgments/142964
-4724|2013-02-11|SO|IV Kz 92/13|Postanowienie|https://www.saos.org.pl/judgments/4724
+saos_id|date|court|case_number|type|score|saos_url
+142964|2014-01-15|SO|II AKa 459/13|Wyrok|56|https://www.saos.org.pl/judgments/142964

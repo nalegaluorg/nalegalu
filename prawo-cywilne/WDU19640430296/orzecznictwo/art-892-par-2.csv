@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-479814|2021-04-30|SO|II C 213/17|Zarządzenie|https://www.saos.org.pl/judgments/479814
-371913|2019-01-22|SO|III Cz 1876/18|Postanowienie|https://www.saos.org.pl/judgments/371913
-233971|2016-05-10|SO|II Cz 241/16|Postanowienie|https://www.saos.org.pl/judgments/233971
-204197|2016-01-19|SO|X GC 630/14|Uzasadnienie|https://www.saos.org.pl/judgments/204197
-31446|2013-11-27|SO|VIII Ca 472/13|Wyrok|https://www.saos.org.pl/judgments/31446
+saos_id|date|court|case_number|type|score|saos_url
+204197|2016-01-19|SO|X GC 630/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/204197

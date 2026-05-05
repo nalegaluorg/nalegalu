@@ -1,18 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-433333|2021-03-17|SO|XIII Ga 179/20|Uzasadnienie|https://www.saos.org.pl/judgments/433333
-233503|2016-03-17|SO|II C 1342/15|Wyrok|https://www.saos.org.pl/judgments/233503
-244152|2015-12-16|SN|III CZP 77/15|Uchwała|https://www.saos.org.pl/judgments/244152
-311174|2015-12-04|SO|I C 605/14|Uzasadnienie|https://www.saos.org.pl/judgments/311174
-253000|2015-05-27|SO|II AKa 88/15|Wyrok|https://www.saos.org.pl/judgments/253000
-174635|2015-02-10|SO|III Cz 1822/14|Postanowienie|https://www.saos.org.pl/judgments/174635
-174634|2015-02-10|SO|III Cz 1821/14|Postanowienie|https://www.saos.org.pl/judgments/174634
-258383|2015-01-22|SO|I C 265/13|Wyrok|https://www.saos.org.pl/judgments/258383
-166357|2014-07-17|SN|III KK 54/14|Wyrok|https://www.saos.org.pl/judgments/166357
-64624|2014-07-14|SO|III Cz 804/14|Postanowienie|https://www.saos.org.pl/judgments/64624
-64616|2014-07-14|SO|III Cz 1007/14|Postanowienie|https://www.saos.org.pl/judgments/64616
-36378|2014-01-30|SO|VIII Ga 409/13|Wyrok|https://www.saos.org.pl/judgments/36378
-36377|2014-01-30|SO|VIII Ga 408/13|Wyrok|https://www.saos.org.pl/judgments/36377
-100983|2013-03-08|SN|III CZP 109/12|Uchwała|https://www.saos.org.pl/judgments/100983
-3101|2012-10-18|SO|III AUa 1176/10|Wyrok|https://www.saos.org.pl/judgments/3101
-110943|2012-06-26|TK|P 13/11|Wyrok|https://www.saos.org.pl/judgments/110943
-507|2009-10-08|SO|V ACa 464/09|Wyrok|https://www.saos.org.pl/judgments/507
+saos_id|date|court|case_number|type|score|saos_url
+110943|2012-06-26|TK|P 13/11|Wyrok|98|https://www.saos.org.pl/judgments/110943
+244152|2015-12-16|SN|III CZP 77/15|Uchwała|96|https://www.saos.org.pl/judgments/244152
+100983|2013-03-08|SN|III CZP 109/12|Uchwała|89|https://www.saos.org.pl/judgments/100983
+166357|2014-07-17|SN|III KK 54/14|Wyrok|78|https://www.saos.org.pl/judgments/166357
+253000|2015-05-27|SO|II AKa 88/15|Wyrok|56|https://www.saos.org.pl/judgments/253000
+3101|2012-10-18|SO|III AUa 1176/10|Wyrok|56|https://www.saos.org.pl/judgments/3101
+507|2009-10-08|SO|V ACa 464/09|Wyrok|56|https://www.saos.org.pl/judgments/507
+258383|2015-01-22|SO|I C 265/13|Wyrok|40|https://www.saos.org.pl/judgments/258383
+433333|2021-03-17|SO|XIII Ga 179/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/433333
+311174|2015-12-04|SO|I C 605/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/311174

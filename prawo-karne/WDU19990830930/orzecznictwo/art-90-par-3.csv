@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-174216|2015-03-04|SO|II W 943/14|Wyrok|https://www.saos.org.pl/judgments/174216
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-22960|2013-10-02|SO|VII Ka 803/13|Wyrok|https://www.saos.org.pl/judgments/22960
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460

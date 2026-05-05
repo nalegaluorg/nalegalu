@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-194196|2015-09-18|SO|I ACa 624/15|Wyrok|https://www.saos.org.pl/judgments/194196
+saos_id|date|court|case_number|type|score|saos_url
+194196|2015-09-18|SO|I ACa 624/15|Wyrok|56|https://www.saos.org.pl/judgments/194196

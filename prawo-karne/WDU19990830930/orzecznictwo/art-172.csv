@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443101|2020-03-06|SO|II K 1111/17|Wyrok|https://www.saos.org.pl/judgments/443101
-396578|2019-10-28|SO|IV Ka 1062/19|Uzasadnienie|https://www.saos.org.pl/judgments/396578
-411342|2018-11-06|SO|II K 597/18|Wyrok|https://www.saos.org.pl/judgments/411342
-170521|2015-06-19|SO|VI Ka 327/15|Wyrok|https://www.saos.org.pl/judgments/170521
-54428|2014-07-03|SO|IV Ka 456/14|Wyrok|https://www.saos.org.pl/judgments/54428
+saos_id|date|court|case_number|type|score|saos_url
+54428|2014-07-03|SO|IV Ka 456/14|Wyrok|40|https://www.saos.org.pl/judgments/54428

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-439075|2021-02-09|SO|V AGa 158/20|Wyrok|https://www.saos.org.pl/judgments/439075
+saos_id|date|court|case_number|type|score|saos_url
+439075|2021-02-09|SO|V AGa 158/20|Wyrok|56|https://www.saos.org.pl/judgments/439075

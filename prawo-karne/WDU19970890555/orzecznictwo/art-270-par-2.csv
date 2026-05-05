@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-277817|2017-03-28|SO|IV K 264/15|Uzasadnienie|https://www.saos.org.pl/judgments/277817
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-166867|2014-09-30|SN|I KZP 17/14|Postanowienie|https://www.saos.org.pl/judgments/166867
-160177|2014-01-14|TK|SK 54/12|Postanowienie|https://www.saos.org.pl/judgments/160177
-135737|2012-10-03|SO|II AKa 204/12|Wyrok|https://www.saos.org.pl/judgments/135737
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+160177|2014-01-14|TK|SK 54/12|Postanowienie|80|https://www.saos.org.pl/judgments/160177
+166867|2014-09-30|SN|I KZP 17/14|Postanowienie|69|https://www.saos.org.pl/judgments/166867
+135737|2012-10-03|SO|II AKa 204/12|Wyrok|56|https://www.saos.org.pl/judgments/135737
+277817|2017-03-28|SO|IV K 264/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/277817

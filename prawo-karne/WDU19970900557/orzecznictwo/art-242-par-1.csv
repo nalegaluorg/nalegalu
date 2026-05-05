@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-445198|2021-01-11|SO|I C 361/19|Wyrok|https://www.saos.org.pl/judgments/445198
-206475|2014-11-25|TK|K 54/13|Wyrok|https://www.saos.org.pl/judgments/206475
-25685|2013-10-15|SO|I ACa 421/13|Wyrok|https://www.saos.org.pl/judgments/25685
-83439|2005-05-24|SN|I KZP 17/05|Uchwała|https://www.saos.org.pl/judgments/83439
+saos_id|date|court|case_number|type|score|saos_url
+206475|2014-11-25|TK|K 54/13|Wyrok|98|https://www.saos.org.pl/judgments/206475
+83439|2005-05-24|SN|I KZP 17/05|Uchwała|89|https://www.saos.org.pl/judgments/83439
+25685|2013-10-15|SO|I ACa 421/13|Wyrok|56|https://www.saos.org.pl/judgments/25685
+445198|2021-01-11|SO|I C 361/19|Wyrok|40|https://www.saos.org.pl/judgments/445198

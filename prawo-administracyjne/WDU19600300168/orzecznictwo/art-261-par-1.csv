@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-134082|2014-07-03|SO|III Ca 370/14|Wyrok|https://www.saos.org.pl/judgments/134082
-47616|2014-02-13|SO|III Ca 1363/13|Wyrok|https://www.saos.org.pl/judgments/47616
-82522|2004-02-24|SN|III CZP 119/03|Uchwała|https://www.saos.org.pl/judgments/82522
-106333|2003-07-02|TK|K 25/01|Wyrok|https://www.saos.org.pl/judgments/106333
-77600|1997-04-24|SN|III KKO 3/97|Postanowienie|https://www.saos.org.pl/judgments/77600
+saos_id|date|court|case_number|type|score|saos_url
+106333|2003-07-02|TK|K 25/01|Wyrok|98|https://www.saos.org.pl/judgments/106333
+82522|2004-02-24|SN|III CZP 119/03|Uchwała|89|https://www.saos.org.pl/judgments/82522
+77600|1997-04-24|SN|III KKO 3/97|Postanowienie|69|https://www.saos.org.pl/judgments/77600

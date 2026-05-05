@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-503957|2024-01-30|SO|II Ka 351/23|Wyrok|https://www.saos.org.pl/judgments/503957
-198708|2016-01-19|SO|IV Ka 1193/15|Wyrok|https://www.saos.org.pl/judgments/198708
+saos_id|date|court|case_number|type|score|saos_url
+198708|2016-01-19|SO|IV Ka 1193/15|Wyrok|40|https://www.saos.org.pl/judgments/198708

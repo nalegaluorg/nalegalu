@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-400523|2019-11-06|SO|III APa 14/19|Wyrok|https://www.saos.org.pl/judgments/400523
-388481|2019-07-09|SO|V P 4/18|Wyrok|https://www.saos.org.pl/judgments/388481
+saos_id|date|court|case_number|type|score|saos_url
+400523|2019-11-06|SO|III APa 14/19|Wyrok|56|https://www.saos.org.pl/judgments/400523
+388481|2019-07-09|SO|V P 4/18|Wyrok|40|https://www.saos.org.pl/judgments/388481

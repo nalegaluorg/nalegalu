@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-50114|2013-10-09|SO|VI ACa 385/13|Wyrok|https://www.saos.org.pl/judgments/50114
-236596|2012-12-27|SO|XVII AmA 26/11|Wyrok|https://www.saos.org.pl/judgments/236596
+saos_id|date|court|case_number|type|score|saos_url
+50114|2013-10-09|SO|VI ACa 385/13|Wyrok|56|https://www.saos.org.pl/judgments/50114

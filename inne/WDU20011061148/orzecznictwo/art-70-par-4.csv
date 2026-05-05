@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-425451|2020-09-25|SO|X Ka 508/20|Wyrok|https://www.saos.org.pl/judgments/425451
-291292|2017-06-09|SO|VI Ka 380/17|Wyrok|https://www.saos.org.pl/judgments/291292
-285743|2017-03-02|SO|IV W 1909/16|Wyrok|https://www.saos.org.pl/judgments/285743
+saos_id|date|court|case_number|type|score|saos_url
+285743|2017-03-02|SO|IV W 1909/16|Wyrok|40|https://www.saos.org.pl/judgments/285743

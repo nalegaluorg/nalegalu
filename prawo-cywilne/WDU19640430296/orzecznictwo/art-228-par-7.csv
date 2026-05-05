@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-90619|2009-07-17|SN|IV CSK 163/09|Wyrok|https://www.saos.org.pl/judgments/90619
+saos_id|date|court|case_number|type|score|saos_url
+90619|2009-07-17|SN|IV CSK 163/09|Wyrok|78|https://www.saos.org.pl/judgments/90619

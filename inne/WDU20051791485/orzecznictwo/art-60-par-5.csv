@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-341833|2018-03-28|SO|II AKa 25/18|Wyrok|https://www.saos.org.pl/judgments/341833
-377681|2017-05-15|SO|II AKa 235/16|Uzasadnienie|https://www.saos.org.pl/judgments/377681
+saos_id|date|court|case_number|type|score|saos_url
+341833|2018-03-28|SO|II AKa 25/18|Wyrok|56|https://www.saos.org.pl/judgments/341833
+377681|2017-05-15|SO|II AKa 235/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/377681

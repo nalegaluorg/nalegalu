@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-421359|2020-07-22|SO|V ACa 169/20|Wyrok|https://www.saos.org.pl/judgments/421359
+saos_id|date|court|case_number|type|score|saos_url
+421359|2020-07-22|SO|V ACa 169/20|Wyrok|56|https://www.saos.org.pl/judgments/421359

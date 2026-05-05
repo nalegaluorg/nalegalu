@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-348316|2018-02-19|SO|III Ca 1695/17|Uzasadnienie|https://www.saos.org.pl/judgments/348316
-143158|2013-05-21|SO|I C 478/11|Wyrok|https://www.saos.org.pl/judgments/143158
-140264|2013-02-28|SO|I C 368/11|Wyrok|https://www.saos.org.pl/judgments/140264
+saos_id|date|court|case_number|type|score|saos_url
+348316|2018-02-19|SO|III Ca 1695/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348316

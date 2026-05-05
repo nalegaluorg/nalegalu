@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-479394|2022-06-29|SO|II Ca 108/21|Wyrok|https://www.saos.org.pl/judgments/479394
-382074|2019-04-26|SO|I ACa 16/19|Wyrok|https://www.saos.org.pl/judgments/382074
-250052|2016-09-09|SO|VIII C 3554/15|Wyrok|https://www.saos.org.pl/judgments/250052
-250051|2016-09-09|SO|VIII C 3553/15|Wyrok|https://www.saos.org.pl/judgments/250051
-250050|2016-09-09|SO|VIII C 3552/15|Wyrok|https://www.saos.org.pl/judgments/250050
-168197|2015-02-04|SN|IV CSK 240/14|Wyrok|https://www.saos.org.pl/judgments/168197
+saos_id|date|court|case_number|type|score|saos_url
+168197|2015-02-04|SN|IV CSK 240/14|Wyrok|78|https://www.saos.org.pl/judgments/168197
+382074|2019-04-26|SO|I ACa 16/19|Wyrok|56|https://www.saos.org.pl/judgments/382074
+250052|2016-09-09|SO|VIII C 3554/15|Wyrok|40|https://www.saos.org.pl/judgments/250052
+250051|2016-09-09|SO|VIII C 3553/15|Wyrok|40|https://www.saos.org.pl/judgments/250051
+250050|2016-09-09|SO|VIII C 3552/15|Wyrok|40|https://www.saos.org.pl/judgments/250050

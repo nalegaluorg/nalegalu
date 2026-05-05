@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-427825|2020-09-15|SO|V ACa 541/19|Wyrok|https://www.saos.org.pl/judgments/427825
-360512|2018-06-07|SO|IV C 474/17|Wyrok|https://www.saos.org.pl/judgments/360512
+saos_id|date|court|case_number|type|score|saos_url
+427825|2020-09-15|SO|V ACa 541/19|Wyrok|56|https://www.saos.org.pl/judgments/427825

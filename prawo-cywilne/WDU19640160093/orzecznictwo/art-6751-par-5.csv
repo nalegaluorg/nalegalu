@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-399083|2019-02-15|SO|VI ACa 1574/17|Wyrok|https://www.saos.org.pl/judgments/399083
-282058|2017-03-21|SO|XXV C 1706/15|Wyrok|https://www.saos.org.pl/judgments/282058
+saos_id|date|court|case_number|type|score|saos_url
+399083|2019-02-15|SO|VI ACa 1574/17|Wyrok|56|https://www.saos.org.pl/judgments/399083

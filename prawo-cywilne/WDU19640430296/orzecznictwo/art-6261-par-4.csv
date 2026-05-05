@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-110940|2012-05-15|TK|P 11/10|Wyrok|https://www.saos.org.pl/judgments/110940
-106759|2004-10-06|TK|SK 16/03|Postanowienie|https://www.saos.org.pl/judgments/106759
-106733|2004-09-07|TK|P 4/04|Wyrok|https://www.saos.org.pl/judgments/106733
-81568|2002-09-19|SN|III CZP 56/02|Uchwała|https://www.saos.org.pl/judgments/81568
+saos_id|date|court|case_number|type|score|saos_url
+110940|2012-05-15|TK|P 11/10|Wyrok|98|https://www.saos.org.pl/judgments/110940
+106733|2004-09-07|TK|P 4/04|Wyrok|98|https://www.saos.org.pl/judgments/106733
+81568|2002-09-19|SN|III CZP 56/02|Uchwała|89|https://www.saos.org.pl/judgments/81568
+106759|2004-10-06|TK|SK 16/03|Postanowienie|80|https://www.saos.org.pl/judgments/106759

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-406661|2019-12-19|SO|VIII K 194/19|Wyrok|https://www.saos.org.pl/judgments/406661
-356713|2018-08-22|SO|II AKa 264/18|Wyrok|https://www.saos.org.pl/judgments/356713
+saos_id|date|court|case_number|type|score|saos_url
+356713|2018-08-22|SO|II AKa 264/18|Wyrok|56|https://www.saos.org.pl/judgments/356713

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-167919|2015-01-22|SN|I CSK 224/14|Wyrok|https://www.saos.org.pl/judgments/167919
-103851|2013-12-13|SN|III CZP 79/13|Uchwała|https://www.saos.org.pl/judgments/103851
-102237|2013-06-26|SN|II CSK 583/12|Postanowienie|https://www.saos.org.pl/judgments/102237
+saos_id|date|court|case_number|type|score|saos_url
+103851|2013-12-13|SN|III CZP 79/13|Uchwała|89|https://www.saos.org.pl/judgments/103851
+167919|2015-01-22|SN|I CSK 224/14|Wyrok|78|https://www.saos.org.pl/judgments/167919
+102237|2013-06-26|SN|II CSK 583/12|Postanowienie|69|https://www.saos.org.pl/judgments/102237

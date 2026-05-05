@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-263116|2016-12-13|SO|III AUa 1232/16|Wyrok|https://www.saos.org.pl/judgments/263116
-81151|2002-01-22|SN|II UKN 58/01|Wyrok|https://www.saos.org.pl/judgments/81151
+saos_id|date|court|case_number|type|score|saos_url
+81151|2002-01-22|SN|II UKN 58/01|Wyrok|78|https://www.saos.org.pl/judgments/81151
+263116|2016-12-13|SO|III AUa 1232/16|Wyrok|56|https://www.saos.org.pl/judgments/263116

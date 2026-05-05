@@ -2,35 +2,32 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. o zmianie ustawy o postępowaniu egzekucyjnym w administracji oraz niektórych innych ustaw.*
 
-Łącznie: **20** orzeczeń
+Łącznie: **18** orzeczeń
+(pominięto 2 orzeczeń sądów rejonowych)
 
 ## art. 1 (2)
 
-- 2007-12-14 | SN | [III CZP 114/07](https://www.saos.org.pl/judgments/86939) | Uchwała
-- 2004-10-28 | SN | [III CZP 33/04](https://www.saos.org.pl/judgments/82950) | Uchwała
+- 2004-10-28 | SN | [III CZP 33/04](https://www.saos.org.pl/judgments/82950) | Uchwała ★
+- 2007-12-14 | SN | [III CZP 114/07](https://www.saos.org.pl/judgments/86939) | Uchwała ★
 
 ## art. 2 (1)
 
-- 2006-04-04 | TK | [K 11/04](https://www.saos.org.pl/judgments/107584) | Wyrok
-
-## art. 4 (1)
-
-- 2015-03-25 | SO | [III Ca 919/14](https://www.saos.org.pl/judgments/159759) | Wyrok
+- 2006-04-04 | TK | [K 11/04](https://www.saos.org.pl/judgments/107584) | Wyrok ★
 
 ## art. 13 (2)
 
+- 2006-04-04 | TK | [K 11/04](https://www.saos.org.pl/judgments/107584) | Wyrok ★
 - 2013-06-12 | SO | [III AUa 1568/12](https://www.saos.org.pl/judgments/15437) | Wyrok
-- 2006-04-04 | TK | [K 11/04](https://www.saos.org.pl/judgments/107584) | Wyrok
 
 ## art. 16 (1)
 
-- 2005-07-13 | SN | [I CK 28/05](https://www.saos.org.pl/judgments/163433) | Wyrok
+- 2005-07-13 | SN | [I CK 28/05](https://www.saos.org.pl/judgments/163433) | Wyrok ★
 
 ## art. 27 (3)
 
-- 2016-04-12 | SO | [II Ca 1401/15](https://www.saos.org.pl/judgments/240725) | Postanowienie
+- 2002-09-18 | SN | [III CZP 49/02](https://www.saos.org.pl/judgments/81566) | Uchwała ★
 - 2015-10-22 | SO | [I ACa 726/15](https://www.saos.org.pl/judgments/211883) | Wyrok
-- 2002-09-18 | SN | [III CZP 49/02](https://www.saos.org.pl/judgments/81566) | Uchwała
+- 2016-04-12 | SO | [II Ca 1401/15](https://www.saos.org.pl/judgments/240725) | Postanowienie
 
 ## art. 46 (6)
 
@@ -41,14 +38,13 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. o zmianie ustawy o p
 - 2010-07-21 | SN | [III CSK 322/09](https://www.saos.org.pl/judgments/92687) | Postanowienie
 - 2010-07-21 | SN | [III CSK 279/09](https://www.saos.org.pl/judgments/92686) | Postanowienie
 
-## art. 69 (2)
+## art. 69 (1)
 
 - 2013-12-23 | SO | [I ACa 953/13](https://www.saos.org.pl/judgments/35000) | Wyrok
-- 2013-06-28 | SO | [IV Cz 308/13](https://www.saos.org.pl/judgments/16132) | Postanowienie
 
 ## art. 70 § 1 (1)
 
-- 2002-09-18 | SN | [III CZP 49/02](https://www.saos.org.pl/judgments/81566) | Uchwała
+- 2002-09-18 | SN | [III CZP 49/02](https://www.saos.org.pl/judgments/81566) | Uchwała ★
 
 ## art. 109 (1)
 
@@ -56,7 +52,7 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. o zmianie ustawy o p
 
 ## art. 115 § 1 (1)
 
-- 2008-02-28 | SN | [III CZP 150/07](https://www.saos.org.pl/judgments/87465) | Uchwała
+- 2008-02-28 | SN | [III CZP 150/07](https://www.saos.org.pl/judgments/87465) | Uchwała ★
 
 ## (ogólnie) (1)
 

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 11 sierpnia 2001 r. o szczególnych rozw
 
 ## art. 12 (1)
 
-- 2002-12-19 | TK | [K 22/02](https://www.saos.org.pl/judgments/106030) | Postanowienie
+- 2002-12-19 | TK | [K 22/02](https://www.saos.org.pl/judgments/106030) | Postanowienie ★
 

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-416185|2015-01-14|SO|III Kow 1958/14|Postanowienie|https://www.saos.org.pl/judgments/416185
-96637|2011-12-16|SN|V KK 140/11|Wyrok|https://www.saos.org.pl/judgments/96637
+saos_id|date|court|case_number|type|score|saos_url
+96637|2011-12-16|SN|V KK 140/11|Wyrok|78|https://www.saos.org.pl/judgments/96637

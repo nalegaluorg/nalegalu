@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 28 listopada 2014 r. Prawo o aktach stan
 
 ## art. 3 (1)
 
-- 2015-05-13 | SN | [III CZP 15/15](https://www.saos.org.pl/judgments/169058) | Uchwała
+- 2015-05-13 | SN | [III CZP 15/15](https://www.saos.org.pl/judgments/169058) | Uchwała ★
 
 ## art. 104 (1)
 

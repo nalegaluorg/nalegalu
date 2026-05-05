@@ -1,12 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-534974|2025-05-21|SO|I C 1248/18|Wyrok|https://www.saos.org.pl/judgments/534974
-495842|2023-10-20|SO|I C 1351/18|Wyrok|https://www.saos.org.pl/judgments/495842
-421113|2020-03-09|SO|XXV C 2596/18|Wyrok|https://www.saos.org.pl/judgments/421113
-388048|2019-07-02|SO|VIII Gz 65/19|Postanowienie|https://www.saos.org.pl/judgments/388048
-380318|2019-03-18|SO|VIII Gz 34/19|Postanowienie|https://www.saos.org.pl/judgments/380318
-361739|2018-10-30|SO|VIII Gz 187/18|Postanowienie|https://www.saos.org.pl/judgments/361739
-355111|2018-05-08|SO|II C 488/17|Wyrok|https://www.saos.org.pl/judgments/355111
-76110|2014-12-16|SO|VIII Ga 191/14|Uzasadnienie|https://www.saos.org.pl/judgments/76110
-8588|2013-02-21|SO|X P 861/12|Wyrok|https://www.saos.org.pl/judgments/8588
-89449|2009-01-16|SN|III CZP 128/08|Uchwała|https://www.saos.org.pl/judgments/89449
-106399|2003-02-25|TK|SK 9/02|Wyrok|https://www.saos.org.pl/judgments/106399
+saos_id|date|court|case_number|type|score|saos_url
+106399|2003-02-25|TK|SK 9/02|Wyrok|98|https://www.saos.org.pl/judgments/106399
+89449|2009-01-16|SN|III CZP 128/08|Uchwała|89|https://www.saos.org.pl/judgments/89449

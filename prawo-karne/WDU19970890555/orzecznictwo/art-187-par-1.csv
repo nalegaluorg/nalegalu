@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-520066|2024-03-19|SO|I ACa 1596/21|Wyrok|https://www.saos.org.pl/judgments/520066
-373297|2019-01-15|SO|II AKa 124/18|Wyrok|https://www.saos.org.pl/judgments/373297
-324009|2017-12-07|SO|IV Ka 944/17|Wyrok|https://www.saos.org.pl/judgments/324009
-307825|2017-07-05|SO|IV Ka 346/17|Wyrok|https://www.saos.org.pl/judgments/307825
-265930|2016-12-19|SO|II AKa 390/16|Wyrok|https://www.saos.org.pl/judgments/265930
-28772|2013-11-27|SO|IV Ka 646/13|Wyrok|https://www.saos.org.pl/judgments/28772
-138072|2013-02-14|SO|II AKa 11/13|Wyrok|https://www.saos.org.pl/judgments/138072
+saos_id|date|court|case_number|type|score|saos_url
+520066|2024-03-19|SO|I ACa 1596/21|Wyrok|56|https://www.saos.org.pl/judgments/520066
+373297|2019-01-15|SO|II AKa 124/18|Wyrok|56|https://www.saos.org.pl/judgments/373297
+265930|2016-12-19|SO|II AKa 390/16|Wyrok|56|https://www.saos.org.pl/judgments/265930
+138072|2013-02-14|SO|II AKa 11/13|Wyrok|56|https://www.saos.org.pl/judgments/138072
+324009|2017-12-07|SO|IV Ka 944/17|Wyrok|40|https://www.saos.org.pl/judgments/324009
+28772|2013-11-27|SO|IV Ka 646/13|Wyrok|40|https://www.saos.org.pl/judgments/28772

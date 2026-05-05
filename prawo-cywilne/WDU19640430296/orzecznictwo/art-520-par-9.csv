@@ -1,19 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-285428|2017-04-19|SO|III Ca 1640/16|Uzasadnienie|https://www.saos.org.pl/judgments/285428
-263415|2016-11-03|SO|IV Ca 2059/15|Postanowienie|https://www.saos.org.pl/judgments/263415
-248430|2016-09-20|SO|V Ca 912/15|Postanowienie|https://www.saos.org.pl/judgments/248430
-239707|2016-06-22|SO|IV Ca 1731/15|Postanowienie|https://www.saos.org.pl/judgments/239707
-224588|2016-04-22|SO|IV Ca 1307/15|Postanowienie|https://www.saos.org.pl/judgments/224588
-266264|2016-02-09|SO|II Ca 2350/15|Postanowienie|https://www.saos.org.pl/judgments/266264
-198614|2016-01-11|SO|III Ca 1235/15|Uzasadnienie|https://www.saos.org.pl/judgments/198614
-196881|2015-12-22|SO|III Ca 1449/15|Uzasadnienie|https://www.saos.org.pl/judgments/196881
-202847|2015-12-07|SO|II Ca 1207/15|Postanowienie|https://www.saos.org.pl/judgments/202847
-192469|2015-11-25|SO|II Ca 1695/15|Postanowienie|https://www.saos.org.pl/judgments/192469
-185352|2015-11-10|SO|III Ca 616/15|Postanowienie|https://www.saos.org.pl/judgments/185352
-180570|2015-08-12|SO|II Ca 1669/14|Postanowienie|https://www.saos.org.pl/judgments/180570
-155646|2015-05-20|SO|I Ca 132/15|Postanowienie|https://www.saos.org.pl/judgments/155646
-56667|2014-05-30|SO|II Ca 379/14|Postanowienie|https://www.saos.org.pl/judgments/56667
-42878|2014-03-20|SO|II Ca 686/13|Postanowienie|https://www.saos.org.pl/judgments/42878
-31204|2013-12-05|SO|II Ca 871/13|Postanowienie|https://www.saos.org.pl/judgments/31204
-31556|2013-10-02|SO|II Ca 821/13|Postanowienie|https://www.saos.org.pl/judgments/31556
-140018|2013-06-05|SO|II Ca 1020/12|Postanowienie|https://www.saos.org.pl/judgments/140018
+saos_id|date|court|case_number|type|score|saos_url
+263415|2016-11-03|SO|IV Ca 2059/15|Postanowienie|31|https://www.saos.org.pl/judgments/263415
+248430|2016-09-20|SO|V Ca 912/15|Postanowienie|31|https://www.saos.org.pl/judgments/248430
+239707|2016-06-22|SO|IV Ca 1731/15|Postanowienie|31|https://www.saos.org.pl/judgments/239707
+224588|2016-04-22|SO|IV Ca 1307/15|Postanowienie|31|https://www.saos.org.pl/judgments/224588
+266264|2016-02-09|SO|II Ca 2350/15|Postanowienie|31|https://www.saos.org.pl/judgments/266264
+192469|2015-11-25|SO|II Ca 1695/15|Postanowienie|31|https://www.saos.org.pl/judgments/192469
+180570|2015-08-12|SO|II Ca 1669/14|Postanowienie|31|https://www.saos.org.pl/judgments/180570
+285428|2017-04-19|SO|III Ca 1640/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/285428
+198614|2016-01-11|SO|III Ca 1235/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/198614
+196881|2015-12-22|SO|III Ca 1449/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/196881

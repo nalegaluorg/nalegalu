@@ -1,16 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-544313|2026-02-16|SO|IV P 769/25|Wyrok|https://www.saos.org.pl/judgments/544313
-542094|2026-01-21|SO|IV P 553/24|Uzasadnienie|https://www.saos.org.pl/judgments/542094
-540232|2025-12-08|SO|IV P 1023/25|Wyrok|https://www.saos.org.pl/judgments/540232
-532032|2025-06-04|SO|VI P 547/24|Wyrok|https://www.saos.org.pl/judgments/532032
-527863|2025-05-22|SO|VII Pa 126/24|Wyrok|https://www.saos.org.pl/judgments/527863
-537335|2025-03-12|SO|III U 13/25|Wyrok|https://www.saos.org.pl/judgments/537335
-511792|2023-11-14|SO|VII P 436/23|Wyrok|https://www.saos.org.pl/judgments/511792
-442913|2021-05-21|SO|II W 51/21|Postanowienie|https://www.saos.org.pl/judgments/442913
-443466|2021-04-09|SO|I ACa 853/19|Wyrok|https://www.saos.org.pl/judgments/443466
-442907|2021-03-30|SO|II W 342/21|Postanowienie|https://www.saos.org.pl/judgments/442907
-416997|2020-01-15|SO|III AUa 628/19|Wyrok|https://www.saos.org.pl/judgments/416997
-407066|2020-01-08|SO|III AUa 502/19|Wyrok|https://www.saos.org.pl/judgments/407066
-470841|2019-06-18|SO|I C 611/16|Wyrok|https://www.saos.org.pl/judgments/470841
-287408|2017-05-29|SO|IX P 164/17|Zarządzenie|https://www.saos.org.pl/judgments/287408
-20126|2013-08-06|SO|III AUa 1757/12|Wyrok|https://www.saos.org.pl/judgments/20126
+saos_id|date|court|case_number|type|score|saos_url
+443466|2021-04-09|SO|I ACa 853/19|Wyrok|56|https://www.saos.org.pl/judgments/443466
+416997|2020-01-15|SO|III AUa 628/19|Wyrok|56|https://www.saos.org.pl/judgments/416997
+407066|2020-01-08|SO|III AUa 502/19|Wyrok|56|https://www.saos.org.pl/judgments/407066
+20126|2013-08-06|SO|III AUa 1757/12|Wyrok|56|https://www.saos.org.pl/judgments/20126
+532032|2025-06-04|SO|VI P 547/24|Wyrok|40|https://www.saos.org.pl/judgments/532032
+527863|2025-05-22|SO|VII Pa 126/24|Wyrok|40|https://www.saos.org.pl/judgments/527863

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-168162|2015-02-05|SN|III UK 87/14|Wyrok|https://www.saos.org.pl/judgments/168162
-84236|2006-04-06|SN|III PK 12/06|Wyrok|https://www.saos.org.pl/judgments/84236
+saos_id|date|court|case_number|type|score|saos_url
+168162|2015-02-05|SN|III UK 87/14|Wyrok|78|https://www.saos.org.pl/judgments/168162
+84236|2006-04-06|SN|III PK 12/06|Wyrok|78|https://www.saos.org.pl/judgments/84236

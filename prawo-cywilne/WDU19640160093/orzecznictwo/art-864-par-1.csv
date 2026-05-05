@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-490536|2023-05-23|SO|VIII GC 589/22|Uzasadnienie|https://www.saos.org.pl/judgments/490536
-444667|2016-12-13|SO|III AUa 1209/16|Wyrok|https://www.saos.org.pl/judgments/444667
-154772|2015-05-13|SO|VII U 2371/14|Wyrok|https://www.saos.org.pl/judgments/154772
+saos_id|date|court|case_number|type|score|saos_url
+444667|2016-12-13|SO|III AUa 1209/16|Wyrok|56|https://www.saos.org.pl/judgments/444667

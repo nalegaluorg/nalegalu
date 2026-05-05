@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-500500|2024-04-29|SO|II AKa 147/22|Uzasadnienie|https://www.saos.org.pl/judgments/500500
-375666|2018-10-19|SO|VI Ka 571/18|Wyrok|https://www.saos.org.pl/judgments/375666
-141833|2013-02-11|SO|II AKa 268/12|Wyrok|https://www.saos.org.pl/judgments/141833
+saos_id|date|court|case_number|type|score|saos_url
+141833|2013-02-11|SO|II AKa 268/12|Wyrok|56|https://www.saos.org.pl/judgments/141833
+500500|2024-04-29|SO|II AKa 147/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/500500
+375666|2018-10-19|SO|VI Ka 571/18|Wyrok|40|https://www.saos.org.pl/judgments/375666

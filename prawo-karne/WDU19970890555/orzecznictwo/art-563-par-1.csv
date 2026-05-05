@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-107773|2006-09-12|TK|Ts 47/06|Postanowienie|https://www.saos.org.pl/judgments/107773
+saos_id|date|court|case_number|type|score|saos_url
+107773|2006-09-12|TK|Ts 47/06|Postanowienie|80|https://www.saos.org.pl/judgments/107773

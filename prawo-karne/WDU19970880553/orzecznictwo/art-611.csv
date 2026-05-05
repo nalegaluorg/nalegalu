@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-525644|2024-07-15|SO|II AKz 375/24|Postanowienie|https://www.saos.org.pl/judgments/525644
-525636|2024-04-17|SO|II AKz 189/24|Postanowienie|https://www.saos.org.pl/judgments/525636
-489697|2022-09-27|SO|II AKa 261/22|Wyrok|https://www.saos.org.pl/judgments/489697
-129288|2014-02-11|SO|X Ka 23/14|Uzasadnienie|https://www.saos.org.pl/judgments/129288
-142264|2013-09-03|SO|II AKz 179/13|Postanowienie|https://www.saos.org.pl/judgments/142264
+saos_id|date|court|case_number|type|score|saos_url
+489697|2022-09-27|SO|II AKa 261/22|Wyrok|56|https://www.saos.org.pl/judgments/489697
+525644|2024-07-15|SO|II AKz 375/24|Postanowienie|47|https://www.saos.org.pl/judgments/525644
+525636|2024-04-17|SO|II AKz 189/24|Postanowienie|47|https://www.saos.org.pl/judgments/525636
+142264|2013-09-03|SO|II AKz 179/13|Postanowienie|47|https://www.saos.org.pl/judgments/142264

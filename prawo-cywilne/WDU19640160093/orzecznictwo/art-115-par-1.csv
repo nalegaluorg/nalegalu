@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-483027|2023-01-13|SO|IV Pa 34/22|Wyrok|https://www.saos.org.pl/judgments/483027
-152250|2015-03-20|SO|III AUa 72/14|Wyrok|https://www.saos.org.pl/judgments/152250
+saos_id|date|court|case_number|type|score|saos_url
+152250|2015-03-20|SO|III AUa 72/14|Wyrok|56|https://www.saos.org.pl/judgments/152250

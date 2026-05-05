@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511775|2023-10-25|SO|VII P 11/21|Wyrok|https://www.saos.org.pl/judgments/511775
-417262|2020-07-06|SO|IX P 254/18|Zarządzenie|https://www.saos.org.pl/judgments/417262
-360797|2018-08-30|SO|XXI Pa 266/18|Wyrok|https://www.saos.org.pl/judgments/360797
-11788|2013-04-29|SO|VI Pa 11/13|Wyrok|https://www.saos.org.pl/judgments/11788
+saos_id|date|court|case_number|type|score|saos_url
+511775|2023-10-25|SO|VII P 11/21|Wyrok|40|https://www.saos.org.pl/judgments/511775

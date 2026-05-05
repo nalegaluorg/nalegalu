@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-308506|2017-04-04|SO|I C 494/14|Wyrok|https://www.saos.org.pl/judgments/308506
-327692|2016-09-02|SO|I Ns 564/15|Uzasadnienie|https://www.saos.org.pl/judgments/327692
-4645|2013-02-05|SO|II Ca 833/12|Postanowienie|https://www.saos.org.pl/judgments/4645
+saos_id|date|court|case_number|type|score|saos_url
+308506|2017-04-04|SO|I C 494/14|Wyrok|40|https://www.saos.org.pl/judgments/308506

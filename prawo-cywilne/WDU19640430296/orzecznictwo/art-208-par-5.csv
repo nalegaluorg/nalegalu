@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-380352|2019-01-10|SO|VIII Pa 120/18|Uzasadnienie|https://www.saos.org.pl/judgments/380352
-327968|2018-01-25|SO|III Ca 1710/17|Wyrok|https://www.saos.org.pl/judgments/327968
+saos_id|date|court|case_number|type|score|saos_url
+380352|2019-01-10|SO|VIII Pa 120/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/380352

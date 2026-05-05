@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511177|2023-09-18|SO|VI Ka 483/23|Wyrok|https://www.saos.org.pl/judgments/511177
-544461|2023-07-25|SO|I C 149/23|Wyrok|https://www.saos.org.pl/judgments/544461
-470299|2022-05-26|SO|VIII GC 207/21|Uzasadnienie|https://www.saos.org.pl/judgments/470299
-389668|2019-03-14|SO|II Ca 719/18|Wyrok|https://www.saos.org.pl/judgments/389668
-334508|2018-03-15|SO|VIII C 1379/17|Wyrok|https://www.saos.org.pl/judgments/334508
+saos_id|date|court|case_number|type|score|saos_url
+334508|2018-03-15|SO|VIII C 1379/17|Wyrok|40|https://www.saos.org.pl/judgments/334508

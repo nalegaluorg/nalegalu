@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-534198|2024-06-14|SO|III Ca 1478/22|Uzasadnienie|https://www.saos.org.pl/judgments/534198
-489168|2023-04-13|SO|I C 1224/21|Wyrok|https://www.saos.org.pl/judgments/489168
-3519|2013-01-10|SO|III APz 10/12|Postanowienie|https://www.saos.org.pl/judgments/3519
+saos_id|date|court|case_number|type|score|saos_url
+3519|2013-01-10|SO|III APz 10/12|Postanowienie|47|https://www.saos.org.pl/judgments/3519
+534198|2024-06-14|SO|III Ca 1478/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/534198

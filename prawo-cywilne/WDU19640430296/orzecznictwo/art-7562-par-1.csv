@@ -1,2 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-454745|2021-09-23|SO|V ACa 242/21|Wyrok|https://www.saos.org.pl/judgments/454745
+saos_id|date|court|case_number|type|score|saos_url
+355432|2018-03-28|SO|VII AGa 194/18|Wyrok|56|https://www.saos.org.pl/judgments/355432
+224050|2016-05-10|SO|I ACz 747/16|Postanowienie|47|https://www.saos.org.pl/judgments/224050
+431189|2020-07-30|SO|II Ca 1159/19|Wyrok|40|https://www.saos.org.pl/judgments/431189
+414319|2020-01-20|SO|II Cz 3276/19|Postanowienie|31|https://www.saos.org.pl/judgments/414319
+342768|2018-04-20|SO|IV Cz 107/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/342768

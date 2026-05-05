@@ -1,25 +1,23 @@
-saos_id|date|court|case_number|type|saos_url
-521895|2023-11-13|SO|III Ca 2144/22|Uzasadnienie|https://www.saos.org.pl/judgments/521895
-427768|2020-12-16|SO|I Ca 447/20|Postanowienie|https://www.saos.org.pl/judgments/427768
-427115|2020-12-09|SO|I Cz 315/20|Postanowienie|https://www.saos.org.pl/judgments/427115
-417402|2020-07-03|SO|I ACz 384/20|Postanowienie|https://www.saos.org.pl/judgments/417402
-413724|2019-08-29|SO|V S 40/19|Postanowienie|https://www.saos.org.pl/judgments/413724
-318570|2017-11-27|SO|I ACz 1171/17|Postanowienie|https://www.saos.org.pl/judgments/318570
-413715|2017-10-03|SO|V S 26/17|Postanowienie|https://www.saos.org.pl/judgments/413715
-307510|2017-10-03|SO|V S 26/17|Postanowienie|https://www.saos.org.pl/judgments/307510
-243090|2015-08-06|SN|III SZP 3/15|Uchwała|https://www.saos.org.pl/judgments/243090
-207052|2015-06-09|TK|Ts 308/13|Postanowienie|https://www.saos.org.pl/judgments/207052
-156947|2015-05-15|SO|I S 54/15|Postanowienie|https://www.saos.org.pl/judgments/156947
-47279|2014-04-18|SO|II S 39/14|Postanowienie|https://www.saos.org.pl/judgments/47279
-206637|2014-04-07|TK|Ts 308/13|Postanowienie|https://www.saos.org.pl/judgments/206637
-104022|2014-01-07|SN|II PZ 33/13|Postanowienie|https://www.saos.org.pl/judgments/104022
-135528|2012-09-10|SO|I S 86/12|Postanowienie|https://www.saos.org.pl/judgments/135528
-95993|2011-10-14|SN|III CZP 47/11|Uchwała|https://www.saos.org.pl/judgments/95993
-91570|2010-01-08|SN|IV CZ 101/09|Postanowienie|https://www.saos.org.pl/judgments/91570
-91549|2010-01-06|SN|I PZP 6/09|Postanowienie|https://www.saos.org.pl/judgments/91549
-90218|2009-05-11|SN|I UZ 12/09|Postanowienie|https://www.saos.org.pl/judgments/90218
-87173|2008-01-29|SN|I PZ 29/07|Postanowienie|https://www.saos.org.pl/judgments/87173
-86754|2007-10-23|SN|III CZP 89/07|Uchwała|https://www.saos.org.pl/judgments/86754
-85478|2007-03-21|SN|I CSK 434/06|Postanowienie|https://www.saos.org.pl/judgments/85478
-81973|2003-04-16|SN|SNO 14/03|Wyrok|https://www.saos.org.pl/judgments/81973
-81275|2002-03-13|SN|III CZP 12/02|Uchwała|https://www.saos.org.pl/judgments/81275
+saos_id|date|court|case_number|type|score|saos_url
+243090|2015-08-06|SN|III SZP 3/15|Uchwała|89|https://www.saos.org.pl/judgments/243090
+95993|2011-10-14|SN|III CZP 47/11|Uchwała|89|https://www.saos.org.pl/judgments/95993
+86754|2007-10-23|SN|III CZP 89/07|Uchwała|89|https://www.saos.org.pl/judgments/86754
+81275|2002-03-13|SN|III CZP 12/02|Uchwała|89|https://www.saos.org.pl/judgments/81275
+207052|2015-06-09|TK|Ts 308/13|Postanowienie|80|https://www.saos.org.pl/judgments/207052
+206637|2014-04-07|TK|Ts 308/13|Postanowienie|80|https://www.saos.org.pl/judgments/206637
+81973|2003-04-16|SN|SNO 14/03|Wyrok|78|https://www.saos.org.pl/judgments/81973
+104022|2014-01-07|SN|II PZ 33/13|Postanowienie|69|https://www.saos.org.pl/judgments/104022
+91570|2010-01-08|SN|IV CZ 101/09|Postanowienie|69|https://www.saos.org.pl/judgments/91570
+91549|2010-01-06|SN|I PZP 6/09|Postanowienie|69|https://www.saos.org.pl/judgments/91549
+90218|2009-05-11|SN|I UZ 12/09|Postanowienie|69|https://www.saos.org.pl/judgments/90218
+87173|2008-01-29|SN|I PZ 29/07|Postanowienie|69|https://www.saos.org.pl/judgments/87173
+85478|2007-03-21|SN|I CSK 434/06|Postanowienie|69|https://www.saos.org.pl/judgments/85478
+417402|2020-07-03|SO|I ACz 384/20|Postanowienie|47|https://www.saos.org.pl/judgments/417402
+413724|2019-08-29|SO|V S 40/19|Postanowienie|47|https://www.saos.org.pl/judgments/413724
+318570|2017-11-27|SO|I ACz 1171/17|Postanowienie|47|https://www.saos.org.pl/judgments/318570
+413715|2017-10-03|SO|V S 26/17|Postanowienie|47|https://www.saos.org.pl/judgments/413715
+307510|2017-10-03|SO|V S 26/17|Postanowienie|47|https://www.saos.org.pl/judgments/307510
+156947|2015-05-15|SO|I S 54/15|Postanowienie|47|https://www.saos.org.pl/judgments/156947
+135528|2012-09-10|SO|I S 86/12|Postanowienie|47|https://www.saos.org.pl/judgments/135528
+47279|2014-04-18|SO|II S 39/14|Postanowienie|31|https://www.saos.org.pl/judgments/47279
+521895|2023-11-13|SO|III Ca 2144/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/521895

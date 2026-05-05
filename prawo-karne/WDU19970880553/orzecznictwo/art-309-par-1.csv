@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-291073|2017-05-12|SO|II AKa 112/17|Wyrok|https://www.saos.org.pl/judgments/291073
-244108|2015-12-08|SN|WO 18/15|Wyrok|https://www.saos.org.pl/judgments/244108
-136973|2012-11-27|SO|II AKa 247/12|Wyrok|https://www.saos.org.pl/judgments/136973
+saos_id|date|court|case_number|type|score|saos_url
+244108|2015-12-08|SN|WO 18/15|Wyrok|78|https://www.saos.org.pl/judgments/244108
+291073|2017-05-12|SO|II AKa 112/17|Wyrok|56|https://www.saos.org.pl/judgments/291073
+136973|2012-11-27|SO|II AKa 247/12|Wyrok|56|https://www.saos.org.pl/judgments/136973

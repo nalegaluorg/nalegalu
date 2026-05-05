@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-41248|2013-07-12|SO|I ACa 182/13|Wyrok|https://www.saos.org.pl/judgments/41248
-8808|2013-03-21|SO|V ACa 828/12|Wyrok|https://www.saos.org.pl/judgments/8808
+saos_id|date|court|case_number|type|score|saos_url
+41248|2013-07-12|SO|I ACa 182/13|Wyrok|56|https://www.saos.org.pl/judgments/41248
+8808|2013-03-21|SO|V ACa 828/12|Wyrok|56|https://www.saos.org.pl/judgments/8808

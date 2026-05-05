@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-376660|2019-03-27|SO|I AGa 201/18|Wyrok|https://www.saos.org.pl/judgments/376660
-250695|2016-07-28|SO|I ACa 400/16|Wyrok|https://www.saos.org.pl/judgments/250695
+saos_id|date|court|case_number|type|score|saos_url
+376660|2019-03-27|SO|I AGa 201/18|Wyrok|56|https://www.saos.org.pl/judgments/376660
+250695|2016-07-28|SO|I ACa 400/16|Wyrok|56|https://www.saos.org.pl/judgments/250695

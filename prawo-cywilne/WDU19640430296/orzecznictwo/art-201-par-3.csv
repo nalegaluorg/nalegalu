@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-51340|2014-06-05|SO|I ACa 146/14|Wyrok|https://www.saos.org.pl/judgments/51340
-51179|2014-04-24|SO|VIII C 128/14|Postanowienie|https://www.saos.org.pl/judgments/51179
+saos_id|date|court|case_number|type|score|saos_url
+51340|2014-06-05|SO|I ACa 146/14|Wyrok|56|https://www.saos.org.pl/judgments/51340

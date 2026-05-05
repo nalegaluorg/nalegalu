@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-429393|2018-09-28|SO|I ACa 217/18|Wyrok|https://www.saos.org.pl/judgments/429393
-538853|2014-01-23|SO|I ACa 1065/13|Wyrok|https://www.saos.org.pl/judgments/538853
-41407|2013-12-17|SO|I ACa 116/13|Wyrok|https://www.saos.org.pl/judgments/41407
-37115|2013-10-10|SO|I ACa 219/13|Wyrok|https://www.saos.org.pl/judgments/37115
+saos_id|date|court|case_number|type|score|saos_url
+429393|2018-09-28|SO|I ACa 217/18|Wyrok|56|https://www.saos.org.pl/judgments/429393
+538853|2014-01-23|SO|I ACa 1065/13|Wyrok|56|https://www.saos.org.pl/judgments/538853
+41407|2013-12-17|SO|I ACa 116/13|Wyrok|56|https://www.saos.org.pl/judgments/41407
+37115|2013-10-10|SO|I ACa 219/13|Wyrok|56|https://www.saos.org.pl/judgments/37115

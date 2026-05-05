@@ -1,2 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-28367|2013-11-20|SO|VIII Ca 492/13|Postanowienie|https://www.saos.org.pl/judgments/28367
+saos_id|date|court|case_number|type|score|saos_url
+98218|2012-05-23|SN|III CZP 21/12|Uchwała|89|https://www.saos.org.pl/judgments/98218
+103982|2013-12-20|SN|IV CNP 68/13|Postanowienie|69|https://www.saos.org.pl/judgments/103982
+448080|2020-09-14|SO|VI ACa 670/19|Wyrok|56|https://www.saos.org.pl/judgments/448080
+236061|2016-06-28|SO|I ACz 731/16|Postanowienie|47|https://www.saos.org.pl/judgments/236061
+429817|2014-08-27|SO|I S 84/14|Postanowienie|47|https://www.saos.org.pl/judgments/429817
+431189|2020-07-30|SO|II Ca 1159/19|Wyrok|40|https://www.saos.org.pl/judgments/431189
+430271|2020-06-16|SO|II Ca 1328/19|Wyrok|40|https://www.saos.org.pl/judgments/430271
+253589|2016-10-12|SO|III Nsm 28/16|Postanowienie|31|https://www.saos.org.pl/judgments/253589

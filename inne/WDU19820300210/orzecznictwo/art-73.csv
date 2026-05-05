@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-472985|2020-02-19|SO|I ACa 699/19|Wyrok|https://www.saos.org.pl/judgments/472985
-379266|2019-03-04|SO|IV Ka 83/19|Wyrok|https://www.saos.org.pl/judgments/379266
-81299|2002-03-28|SN|I KZP 35/01|Uchwała|https://www.saos.org.pl/judgments/81299
+saos_id|date|court|case_number|type|score|saos_url
+81299|2002-03-28|SN|I KZP 35/01|Uchwała|96|https://www.saos.org.pl/judgments/81299
+472985|2020-02-19|SO|I ACa 699/19|Wyrok|56|https://www.saos.org.pl/judgments/472985
+379266|2019-03-04|SO|IV Ka 83/19|Wyrok|40|https://www.saos.org.pl/judgments/379266

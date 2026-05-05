@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-85723|2007-04-27|SN|I CSK 37/07|Wyrok|https://www.saos.org.pl/judgments/85723
-85418|2007-03-14|SN|I CSK 454/06|Wyrok|https://www.saos.org.pl/judgments/85418
+saos_id|date|court|case_number|type|score|saos_url
+85723|2007-04-27|SN|I CSK 37/07|Wyrok|78|https://www.saos.org.pl/judgments/85723
+85418|2007-03-14|SN|I CSK 454/06|Wyrok|78|https://www.saos.org.pl/judgments/85418

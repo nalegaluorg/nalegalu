@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-510857|2022-10-12|SO|VI GC 194/20|Uzasadnienie|https://www.saos.org.pl/judgments/510857
-314118|2017-07-14|SO|I ACa 314/17|Wyrok|https://www.saos.org.pl/judgments/314118
-239040|2016-07-07|SO|VIII GC 54/15|Wyrok|https://www.saos.org.pl/judgments/239040
+saos_id|date|court|case_number|type|score|saos_url
+314118|2017-07-14|SO|I ACa 314/17|Wyrok|56|https://www.saos.org.pl/judgments/314118

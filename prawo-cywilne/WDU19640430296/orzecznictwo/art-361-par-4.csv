@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500674|2024-03-28|SO|II AKa 215/23|Wyrok|https://www.saos.org.pl/judgments/500674
+saos_id|date|court|case_number|type|score|saos_url
+500674|2024-03-28|SO|II AKa 215/23|Wyrok|56|https://www.saos.org.pl/judgments/500674

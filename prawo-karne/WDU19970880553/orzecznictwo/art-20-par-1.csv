@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-535263|2025-06-03|SO|II K 328/25|Wyrok|https://www.saos.org.pl/judgments/535263
-452679|2020-09-18|SO|II K 74/17|Wyrok|https://www.saos.org.pl/judgments/452679
-270445|2016-10-05|SO|X K 221/16|Wyrok|https://www.saos.org.pl/judgments/270445
-532595|2016-07-14|SO|III K 78/15|Wyrok|https://www.saos.org.pl/judgments/532595
-219179|2016-02-25|SO|II AKa 226/15|Wyrok|https://www.saos.org.pl/judgments/219179
-260498|2016-01-05|SO|III K 92/15|Wyrok|https://www.saos.org.pl/judgments/260498
-243365|2015-09-25|SN|III KK 131/15|Postanowienie|https://www.saos.org.pl/judgments/243365
-179395|2014-10-07|SO|II AKa 177/14|Wyrok|https://www.saos.org.pl/judgments/179395
+saos_id|date|court|case_number|type|score|saos_url
+243365|2015-09-25|SN|III KK 131/15|Postanowienie|69|https://www.saos.org.pl/judgments/243365
+219179|2016-02-25|SO|II AKa 226/15|Wyrok|56|https://www.saos.org.pl/judgments/219179
+179395|2014-10-07|SO|II AKa 177/14|Wyrok|56|https://www.saos.org.pl/judgments/179395

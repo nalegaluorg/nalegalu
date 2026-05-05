@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-443788|2020-09-02|SO|I C 1152/18|Wyrok|https://www.saos.org.pl/judgments/443788
-355625|2018-09-10|SO|VIII GC 64/18|Zarządzenie|https://www.saos.org.pl/judgments/355625
-332067|2017-06-07|SO|II Ca 1096/17|Postanowienie|https://www.saos.org.pl/judgments/332067
-372054|2017-02-10|SO|III RC 126/16|Wyrok|https://www.saos.org.pl/judgments/372054
-237442|2016-04-27|SO|I ACa 1080/15|Wyrok|https://www.saos.org.pl/judgments/237442
+saos_id|date|court|case_number|type|score|saos_url
+237442|2016-04-27|SO|I ACa 1080/15|Wyrok|56|https://www.saos.org.pl/judgments/237442
+332067|2017-06-07|SO|II Ca 1096/17|Postanowienie|31|https://www.saos.org.pl/judgments/332067

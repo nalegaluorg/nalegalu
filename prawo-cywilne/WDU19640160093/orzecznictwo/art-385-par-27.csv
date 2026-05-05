@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-358775|2017-11-24|SO|II C 592/17|Wyrok|https://www.saos.org.pl/judgments/358775
-162995|2005-02-18|SN|V CK 469/04|Wyrok|https://www.saos.org.pl/judgments/162995
+saos_id|date|court|case_number|type|score|saos_url
+162995|2005-02-18|SN|V CK 469/04|Wyrok|78|https://www.saos.org.pl/judgments/162995

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99672|2012-11-23|SN|I CSK 465/12|Postanowienie|https://www.saos.org.pl/judgments/99672
+saos_id|date|court|case_number|type|score|saos_url
+99672|2012-11-23|SN|I CSK 465/12|Postanowienie|69|https://www.saos.org.pl/judgments/99672

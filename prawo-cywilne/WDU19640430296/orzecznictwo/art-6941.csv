@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-151225|2015-03-19|SO|VIII Ga 15/15|Uzasadnienie|https://www.saos.org.pl/judgments/151225
-101196|2013-03-27|SN|I CSK 402/12|Postanowienie|https://www.saos.org.pl/judgments/101196
+saos_id|date|court|case_number|type|score|saos_url
+101196|2013-03-27|SN|I CSK 402/12|Postanowienie|69|https://www.saos.org.pl/judgments/101196

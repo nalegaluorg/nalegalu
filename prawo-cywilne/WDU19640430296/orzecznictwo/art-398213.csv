@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-166960|2014-10-08|SN|II CZ 55/14|Postanowienie|https://www.saos.org.pl/judgments/166960
-103745|2013-12-04|SN|II CZ 83/13|Postanowienie|https://www.saos.org.pl/judgments/103745
-92934|2010-09-14|SN|II UZ 20/10|Postanowienie|https://www.saos.org.pl/judgments/92934
+saos_id|date|court|case_number|type|score|saos_url
+166960|2014-10-08|SN|II CZ 55/14|Postanowienie|69|https://www.saos.org.pl/judgments/166960
+103745|2013-12-04|SN|II CZ 83/13|Postanowienie|69|https://www.saos.org.pl/judgments/103745
+92934|2010-09-14|SN|II UZ 20/10|Postanowienie|69|https://www.saos.org.pl/judgments/92934

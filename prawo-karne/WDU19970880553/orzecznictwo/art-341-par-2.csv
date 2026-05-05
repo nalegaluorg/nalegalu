@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-103634|2013-11-28|SN|I KZP 11/13|Postanowienie|https://www.saos.org.pl/judgments/103634
-82363|2003-11-27|SN|WK 22/03|Wyrok|https://www.saos.org.pl/judgments/82363
+saos_id|date|court|case_number|type|score|saos_url
+82363|2003-11-27|SN|WK 22/03|Wyrok|78|https://www.saos.org.pl/judgments/82363
+103634|2013-11-28|SN|I KZP 11/13|Postanowienie|69|https://www.saos.org.pl/judgments/103634

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163290|2005-05-25|SN|I CK 751/04|Wyrok|https://www.saos.org.pl/judgments/163290
+saos_id|date|court|case_number|type|score|saos_url
+163290|2005-05-25|SN|I CK 751/04|Wyrok|78|https://www.saos.org.pl/judgments/163290

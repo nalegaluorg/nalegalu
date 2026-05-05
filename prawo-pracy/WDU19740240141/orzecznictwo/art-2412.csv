@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-186947|2015-10-22|SO|IX Pa 58/15|Wyrok|https://www.saos.org.pl/judgments/186947
-37876|2014-01-17|SO|V Pa 166/13|Wyrok|https://www.saos.org.pl/judgments/37876
-78345|1998-05-20|SN|III ZP 11/98|Wyrok|https://www.saos.org.pl/judgments/78345
-205388|1988-01-20|TK|U 1/87|Postanowienie|https://www.saos.org.pl/judgments/205388
+saos_id|date|court|case_number|type|score|saos_url
+205388|1988-01-20|TK|U 1/87|Postanowienie|80|https://www.saos.org.pl/judgments/205388
+78345|1998-05-20|SN|III ZP 11/98|Wyrok|78|https://www.saos.org.pl/judgments/78345

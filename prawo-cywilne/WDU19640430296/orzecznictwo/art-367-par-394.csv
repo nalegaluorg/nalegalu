@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-210623|2015-11-23|SO|XII 1Co 1985/15|Postanowienie|https://www.saos.org.pl/judgments/210623
-210622|2015-05-29|SO|XII 1Co 1602/15|Postanowienie|https://www.saos.org.pl/judgments/210622
-73608|2014-08-04|SO|I ACo 33/14|Postanowienie|https://www.saos.org.pl/judgments/73608
+saos_id|date|court|case_number|type|score|saos_url
+73608|2014-08-04|SO|I ACo 33/14|Postanowienie|47|https://www.saos.org.pl/judgments/73608

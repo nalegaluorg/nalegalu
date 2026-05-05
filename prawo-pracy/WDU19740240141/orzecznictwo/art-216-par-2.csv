@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-471159|2022-06-08|SO|VII Pa 89/21|Wyrok|https://www.saos.org.pl/judgments/471159
-475575|2021-08-30|SO|VI P 361/19|Wyrok|https://www.saos.org.pl/judgments/475575
-371345|2018-11-23|SO|I ACa 30/18|Wyrok|https://www.saos.org.pl/judgments/371345
-335805|2017-11-23|SO|III APa 20/16|Wyrok|https://www.saos.org.pl/judgments/335805
-258439|2016-11-03|SO|III APa 32/16|Wyrok|https://www.saos.org.pl/judgments/258439
-229619|2016-06-22|SO|VII Pa 106/16|Uzasadnienie|https://www.saos.org.pl/judgments/229619
-33691|2013-06-06|SO|III APa 12/13|Wyrok|https://www.saos.org.pl/judgments/33691
+saos_id|date|court|case_number|type|score|saos_url
+371345|2018-11-23|SO|I ACa 30/18|Wyrok|56|https://www.saos.org.pl/judgments/371345
+335805|2017-11-23|SO|III APa 20/16|Wyrok|56|https://www.saos.org.pl/judgments/335805
+258439|2016-11-03|SO|III APa 32/16|Wyrok|56|https://www.saos.org.pl/judgments/258439
+33691|2013-06-06|SO|III APa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/33691
+471159|2022-06-08|SO|VII Pa 89/21|Wyrok|40|https://www.saos.org.pl/judgments/471159
+475575|2021-08-30|SO|VI P 361/19|Wyrok|40|https://www.saos.org.pl/judgments/475575
+229619|2016-06-22|SO|VII Pa 106/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/229619

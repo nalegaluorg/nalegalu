@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-93067|2010-10-08|SN|II PZ 32/10|Postanowienie|https://www.saos.org.pl/judgments/93067
-165329|2010-05-21|SN|I UZ 27/10|Postanowienie|https://www.saos.org.pl/judgments/165329
-92134|2010-04-28|SN|II PK 326/09|Postanowienie|https://www.saos.org.pl/judgments/92134
+saos_id|date|court|case_number|type|score|saos_url
+93067|2010-10-08|SN|II PZ 32/10|Postanowienie|69|https://www.saos.org.pl/judgments/93067
+165329|2010-05-21|SN|I UZ 27/10|Postanowienie|69|https://www.saos.org.pl/judgments/165329
+92134|2010-04-28|SN|II PK 326/09|Postanowienie|69|https://www.saos.org.pl/judgments/92134

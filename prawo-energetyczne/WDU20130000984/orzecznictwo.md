@@ -20,10 +20,10 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy - Praw
 - 2015-01-16 | KIO | [KIO 2787/14](https://www.saos.org.pl/judgments/160747) | Wyrok
 - 2015-01-14 | KIO | [KIO 2734/14](https://www.saos.org.pl/judgments/160708) | Wyrok
 - 2014-12-05 | KIO | [KIO 2463/14](https://www.saos.org.pl/judgments/162586) | Wyrok
+- 2014-07-03 | KIO | [KIO 1229/14](https://www.saos.org.pl/judgments/161603) | Wyrok
 - 2014-12-04 | KIO | [KIO 2404/14](https://www.saos.org.pl/judgments/162541) | Postanowienie
 - 2014-12-03 | KIO | [KIO 2422/14](https://www.saos.org.pl/judgments/162555) | Postanowienie
 - 2014-10-07 | KIO | [KIO 1958/14](https://www.saos.org.pl/judgments/161803) | Postanowienie
-- 2014-07-03 | KIO | [KIO 1229/14](https://www.saos.org.pl/judgments/161603) | Wyrok
 
 ## art. 14 (1)
 
@@ -110,9 +110,9 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 2013 r. o zmianie ustawy - Praw
 - 2015-01-30 | KIO | [KIO 66/15](https://www.saos.org.pl/judgments/161966) | Wyrok
 - 2015-01-16 | KIO | [KIO 2787/14](https://www.saos.org.pl/judgments/160747) | Wyrok
 - 2015-01-14 | KIO | [KIO 2734/14](https://www.saos.org.pl/judgments/160708) | Wyrok
-- 2014-12-10 | KIO | [KIO 2575/14](https://www.saos.org.pl/judgments/162668) | Postanowienie
 - 2014-12-08 | KIO | [KIO 2479/14](https://www.saos.org.pl/judgments/162596) | Wyrok
 - 2014-12-05 | KIO | [KIO 2463/14](https://www.saos.org.pl/judgments/162586) | Wyrok
+- 2014-12-10 | KIO | [KIO 2575/14](https://www.saos.org.pl/judgments/162668) | Postanowienie
 - 2014-12-04 | KIO | [KIO 2404/14](https://www.saos.org.pl/judgments/162541) | Postanowienie
 - 2014-12-03 | KIO | [KIO 2422/14](https://www.saos.org.pl/judgments/162555) | Postanowienie
 - 2014-10-07 | KIO | [KIO 1958/14](https://www.saos.org.pl/judgments/161803) | Postanowienie

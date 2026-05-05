@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-464892|2022-04-27|SO|III Ns 85/19|Postanowienie|https://www.saos.org.pl/judgments/464892
-516847|2018-03-29|SO|II Ca 90/18|Wyrok|https://www.saos.org.pl/judgments/516847
-166229|2014-07-04|SN|II CSK 621/13|Wyrok|https://www.saos.org.pl/judgments/166229
+saos_id|date|court|case_number|type|score|saos_url
+166229|2014-07-04|SN|II CSK 621/13|Wyrok|78|https://www.saos.org.pl/judgments/166229

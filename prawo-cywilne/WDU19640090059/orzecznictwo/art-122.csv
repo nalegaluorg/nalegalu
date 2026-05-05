@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-487220|2023-02-23|SO|II Ca 1232/22|Uzasadnienie|https://www.saos.org.pl/judgments/487220
-507150|2020-11-03|SO|III Nsm 136/19|Postanowienie|https://www.saos.org.pl/judgments/507150
-64729|2014-04-14|SO|I Ns 879/11|Postanowienie|https://www.saos.org.pl/judgments/64729
+saos_id|date|court|case_number|type|score|saos_url
+507150|2020-11-03|SO|III Nsm 136/19|Postanowienie|31|https://www.saos.org.pl/judgments/507150

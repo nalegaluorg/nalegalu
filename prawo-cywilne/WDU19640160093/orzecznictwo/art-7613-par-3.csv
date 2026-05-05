@@ -1,9 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-408553|2019-07-11|SO|V GC 2926/18|Wyrok|https://www.saos.org.pl/judgments/408553
-380293|2019-04-15|SO|VIII GC 247/18|Uzasadnienie|https://www.saos.org.pl/judgments/380293
-376274|2018-07-20|SO|XXVI GC 422/15|Wyrok|https://www.saos.org.pl/judgments/376274
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-379993|2017-12-22|SO|VI GC 421/17|Uzasadnienie|https://www.saos.org.pl/judgments/379993
-235351|2016-05-24|SO|I ACa 1149/15|Wyrok|https://www.saos.org.pl/judgments/235351
-172539|2015-06-17|SO|I ACa 432/15|Wyrok|https://www.saos.org.pl/judgments/172539
-49688|2014-02-05|SO|II K 799/13|Wyrok|https://www.saos.org.pl/judgments/49688
+saos_id|date|court|case_number|type|score|saos_url
+235351|2016-05-24|SO|I ACa 1149/15|Wyrok|56|https://www.saos.org.pl/judgments/235351
+172539|2015-06-17|SO|I ACa 432/15|Wyrok|56|https://www.saos.org.pl/judgments/172539

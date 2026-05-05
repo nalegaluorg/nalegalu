@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-389452|2018-09-05|SO|II W 357/18|Wyrok|https://www.saos.org.pl/judgments/389452
-281059|2017-04-13|SO|V Ka 171/17|Uzasadnienie|https://www.saos.org.pl/judgments/281059
-158268|2015-05-15|SO|VI Ka 276/15|Wyrok|https://www.saos.org.pl/judgments/158268
-133012|2015-02-27|SO|VI Ka 653/14|Wyrok|https://www.saos.org.pl/judgments/133012
+saos_id|date|court|case_number|type|score|saos_url
+281059|2017-04-13|SO|V Ka 171/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/281059

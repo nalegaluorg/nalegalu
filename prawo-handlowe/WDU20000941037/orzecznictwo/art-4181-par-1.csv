@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-528456|2024-07-24|SO|I AGa 42/24|Wyrok|https://www.saos.org.pl/judgments/528456
-349405|2018-03-30|SO|X GC 1057/16|Zarządzenie|https://www.saos.org.pl/judgments/349405
-285086|2017-04-13|SO|I ACa 765/15|Wyrok|https://www.saos.org.pl/judgments/285086
-66221|2014-06-18|SO|VI ACa 1583/13|Wyrok|https://www.saos.org.pl/judgments/66221
-111379|2012-07-03|TK|Ts 247/10|Postanowienie|https://www.saos.org.pl/judgments/111379
+saos_id|date|court|case_number|type|score|saos_url
+111379|2012-07-03|TK|Ts 247/10|Postanowienie|80|https://www.saos.org.pl/judgments/111379
+528456|2024-07-24|SO|I AGa 42/24|Wyrok|56|https://www.saos.org.pl/judgments/528456
+285086|2017-04-13|SO|I ACa 765/15|Wyrok|56|https://www.saos.org.pl/judgments/285086
+66221|2014-06-18|SO|VI ACa 1583/13|Wyrok|56|https://www.saos.org.pl/judgments/66221
+349405|2018-03-30|SO|X GC 1057/16|Zarządzenie|27|https://www.saos.org.pl/judgments/349405

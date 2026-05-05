@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-36508|2014-02-06|SO|III Ca 27/14|Postanowienie|https://www.saos.org.pl/judgments/36508
-93086|2010-10-07|SN|IV CZ 75/10|Postanowienie|https://www.saos.org.pl/judgments/93086
+saos_id|date|court|case_number|type|score|saos_url
+93086|2010-10-07|SN|IV CZ 75/10|Postanowienie|69|https://www.saos.org.pl/judgments/93086

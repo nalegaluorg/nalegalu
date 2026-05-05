@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-453058|2021-11-05|SO|VI Ka 449/19|Uzasadnienie|https://www.saos.org.pl/judgments/453058
-425484|2020-07-24|SO|II AKa 78/20|Wyrok|https://www.saos.org.pl/judgments/425484
-381823|2019-01-09|SO|V Ka 1099/18|Uzasadnienie|https://www.saos.org.pl/judgments/381823
-362164|2018-10-16|SO|II AKa 375/18|Wyrok|https://www.saos.org.pl/judgments/362164
-289414|2017-05-15|SO|VIII Pa 38/17|Uzasadnienie|https://www.saos.org.pl/judgments/289414
-275336|2017-01-19|SO|XVIII C 390/16|Wyrok|https://www.saos.org.pl/judgments/275336
-249413|2016-06-09|SO|VI Ka 176/16|Wyrok|https://www.saos.org.pl/judgments/249413
-183627|2015-08-25|SO|II K 168/14|Wyrok|https://www.saos.org.pl/judgments/183627
-37870|2014-03-06|SO|V Ka 1570/13|Uzasadnienie|https://www.saos.org.pl/judgments/37870
+saos_id|date|court|case_number|type|score|saos_url
+425484|2020-07-24|SO|II AKa 78/20|Wyrok|56|https://www.saos.org.pl/judgments/425484
+362164|2018-10-16|SO|II AKa 375/18|Wyrok|56|https://www.saos.org.pl/judgments/362164
+275336|2017-01-19|SO|XVIII C 390/16|Wyrok|40|https://www.saos.org.pl/judgments/275336
+249413|2016-06-09|SO|VI Ka 176/16|Wyrok|40|https://www.saos.org.pl/judgments/249413
+453058|2021-11-05|SO|VI Ka 449/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/453058
+381823|2019-01-09|SO|V Ka 1099/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/381823
+289414|2017-05-15|SO|VIII Pa 38/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/289414
+37870|2014-03-06|SO|V Ka 1570/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/37870

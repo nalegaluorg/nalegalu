@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504672|2024-02-14|SO|III AUa 108/23|Wyrok|https://www.saos.org.pl/judgments/504672
-218058|2016-03-11|SO|IV Ca 88/16|Postanowienie|https://www.saos.org.pl/judgments/218058
-218057|2016-03-11|SO|IV Ca 87/16|Postanowienie|https://www.saos.org.pl/judgments/218057
+saos_id|date|court|case_number|type|score|saos_url
+504672|2024-02-14|SO|III AUa 108/23|Wyrok|56|https://www.saos.org.pl/judgments/504672

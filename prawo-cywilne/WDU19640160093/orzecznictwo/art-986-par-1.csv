@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-541070|2024-05-22|SO|V ACa 137/22|Wyrok|https://www.saos.org.pl/judgments/541070
-397025|2019-10-29|SO|I Ns 397/16|Postanowienie|https://www.saos.org.pl/judgments/397025
-468517|2019-09-06|SO|II Ca 297/19|Uzasadnienie|https://www.saos.org.pl/judgments/468517
-425172|2018-07-03|SO|I C 1278/16|Wyrok|https://www.saos.org.pl/judgments/425172
-98241|2012-05-24|SN|V CSK 454/11|Postanowienie|https://www.saos.org.pl/judgments/98241
-481559|2010-12-17|SO|V Ca 2795/10|Postanowienie|https://www.saos.org.pl/judgments/481559
-92744|2010-08-11|SN|I CSK 62/10|Postanowienie|https://www.saos.org.pl/judgments/92744
-80648|2001-06-13|SN|II CKN 543/00|Postanowienie|https://www.saos.org.pl/judgments/80648
+saos_id|date|court|case_number|type|score|saos_url
+98241|2012-05-24|SN|V CSK 454/11|Postanowienie|69|https://www.saos.org.pl/judgments/98241
+92744|2010-08-11|SN|I CSK 62/10|Postanowienie|69|https://www.saos.org.pl/judgments/92744
+80648|2001-06-13|SN|II CKN 543/00|Postanowienie|69|https://www.saos.org.pl/judgments/80648
+541070|2024-05-22|SO|V ACa 137/22|Wyrok|56|https://www.saos.org.pl/judgments/541070

@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-494127|2023-10-27|SO|I ACa 383/22|Wyrok|https://www.saos.org.pl/judgments/494127
-526994|2023-05-29|SO|III C 112/22|Wyrok|https://www.saos.org.pl/judgments/526994
-408084|2020-01-22|SO|III AUa 94/19|Wyrok|https://www.saos.org.pl/judgments/408084
-275741|2017-02-20|SO|VI W 6528/14|Wyrok|https://www.saos.org.pl/judgments/275741
-69117|2014-10-09|SO|VI W 3671/13|Wyrok|https://www.saos.org.pl/judgments/69117
-37893|2014-03-05|SO|VI Ca 69/14|Wyrok|https://www.saos.org.pl/judgments/37893
-138876|2013-06-03|SO|I C 1161/11|Wyrok|https://www.saos.org.pl/judgments/138876
-46891|2013-05-07|SO|III U 561/12|Wyrok|https://www.saos.org.pl/judgments/46891
-107618|2006-04-12|TK|Kp 2/04|Wyrok|https://www.saos.org.pl/judgments/107618
+saos_id|date|court|case_number|type|score|saos_url
+107618|2006-04-12|TK|Kp 2/04|Wyrok|98|https://www.saos.org.pl/judgments/107618
+494127|2023-10-27|SO|I ACa 383/22|Wyrok|56|https://www.saos.org.pl/judgments/494127
+408084|2020-01-22|SO|III AUa 94/19|Wyrok|56|https://www.saos.org.pl/judgments/408084
+37893|2014-03-05|SO|VI Ca 69/14|Wyrok|40|https://www.saos.org.pl/judgments/37893

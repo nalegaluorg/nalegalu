@@ -2,42 +2,30 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapitałowych*
 
-Łącznie: **994** orzeczeń
+Łącznie: **644** orzeczeń
+(pominięto 350 orzeczeń sądów rejonowych)
 
-## art. 2 (2)
+## art. 2 (1)
 
 - 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
-- 2017-02-22 | SO | [IV U 13/17](https://www.saos.org.pl/judgments/291223) | Wyrok
 
-## art. 3 (4)
+## art. 3 (1)
 
-- 2026-03-03 | SO | [V U 837/25](https://www.saos.org.pl/judgments/543675) | Wyrok
-- 2024-09-20 | SO | [VIII U 627/24](https://www.saos.org.pl/judgments/516303) | Uzasadnienie
 - 2023-08-17 | SO | [VIII U 547/23](https://www.saos.org.pl/judgments/513936) | Uzasadnienie
-- 2022-07-26 | SO | [VI U 282/22](https://www.saos.org.pl/judgments/475088) | Wyrok
 
-## art. 4 (3)
+## art. 4 (1)
 
-- 2021-06-29 | SO | [V U 537/21](https://www.saos.org.pl/judgments/449635) | Wyrok
 - 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
 
-## art. 5 (9)
+## art. 5 (4)
 
-- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
+- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
 - 2024-11-08 | SO | [VII U 326/23](https://www.saos.org.pl/judgments/517435) | Wyrok
-- 2024-09-20 | SO | [VIII U 627/24](https://www.saos.org.pl/judgments/516303) | Uzasadnienie
 - 2023-08-17 | SO | [VIII U 547/23](https://www.saos.org.pl/judgments/513936) | Uzasadnienie
-- 2023-03-09 | SO | [III U 62/23](https://www.saos.org.pl/judgments/489968) | Wyrok
-- 2022-02-15 | SO | [III U 17/22](https://www.saos.org.pl/judgments/465927) | Wyrok
-- 2018-01-16 | SO | [VI U 1457/17](https://www.saos.org.pl/judgments/331076) | Wyrok
-- 2017-05-11 | SO | [V U 1147/16](https://www.saos.org.pl/judgments/286794) | Wyrok
 
-## art. 6 (15)
+## art. 6 (14)
 
-- 2024-09-20 | SO | [VIII U 627/24](https://www.saos.org.pl/judgments/516303) | Uzasadnienie
-- 2021-11-22 | SO | [VIII Ua 50/21](https://www.saos.org.pl/judgments/453462) | Uzasadnienie
 - 2013-01-24 | SO | [III AUa 931/12](https://www.saos.org.pl/judgments/10607) | Wyrok
 - 2012-07-26 | SO | [III AUa 532/12](https://www.saos.org.pl/judgments/1587) | Wyrok
 - 2012-07-25 | SO | [III AUa 626/12](https://www.saos.org.pl/judgments/1511) | Wyrok
@@ -51,132 +39,111 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2012-04-03 | SO | [III AUa 164/12](https://www.saos.org.pl/judgments/1540) | Wyrok
 - 2012-03-29 | SO | [III AUa 126/12](https://www.saos.org.pl/judgments/1535) | Wyrok
 - 2012-03-29 | SO | [III AUa 128/12](https://www.saos.org.pl/judgments/1438) | Wyrok
+- 2021-11-22 | SO | [VIII Ua 50/21](https://www.saos.org.pl/judgments/453462) | Uzasadnienie
 
-## art. 7 (66)
+## art. 7 (55)
 
-- 2025-10-30 | SO | [VIII U 1498/25](https://www.saos.org.pl/judgments/543045) | Uzasadnienie
+- 2014-05-07 | TK | [K 43/12](https://www.saos.org.pl/judgments/160144) | Wyrok ★
+- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok ★
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
+- 2024-02-07 | SO | [III AUa 1419/22](https://www.saos.org.pl/judgments/504751) | Wyrok
+- 2022-11-17 | SO | [III AUa 282/22](https://www.saos.org.pl/judgments/478748) | Wyrok
+- 2021-03-18 | SO | [III AUa 974/20](https://www.saos.org.pl/judgments/435982) | Wyrok
+- 2020-05-27 | SO | [III AUa 627/19](https://www.saos.org.pl/judgments/422807) | Wyrok
+- 2019-04-03 | SO | [III AUa 9/19](https://www.saos.org.pl/judgments/404178) | Wyrok
+- 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
+- 2025-01-27 | SO | [VII U 396/22](https://www.saos.org.pl/judgments/522859) | Wyrok
+- 2024-11-08 | SO | [VII U 326/23](https://www.saos.org.pl/judgments/517435) | Wyrok
+- 2023-01-12 | SO | [VII U 1063/21](https://www.saos.org.pl/judgments/483107) | Wyrok
+- 2021-02-22 | SO | [VII U 39/18](https://www.saos.org.pl/judgments/447735) | Wyrok
+- 2020-12-16 | SO | [IV U 2213/19](https://www.saos.org.pl/judgments/484763) | Wyrok
+- 2019-02-22 | SO | [VII U 1500/18](https://www.saos.org.pl/judgments/389486) | Wyrok
+- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
+- 2013-10-30 | SO | [V U 900/13](https://www.saos.org.pl/judgments/31644) | Wyrok
+- 2025-10-30 | SO | [VIII U 1498/25](https://www.saos.org.pl/judgments/543045) | Uzasadnienie
 - 2025-04-15 | SO | [VIII U 2007/24](https://www.saos.org.pl/judgments/532833) | Uzasadnienie
 - 2025-03-26 | SO | [VIII U 166/24](https://www.saos.org.pl/judgments/530593) | Uzasadnienie
 - 2025-01-28 | SO | [VIII U 1637/24](https://www.saos.org.pl/judgments/527608) | Uzasadnienie
-- 2025-01-27 | SO | [VII U 396/22](https://www.saos.org.pl/judgments/522859) | Wyrok
 - 2024-12-16 | SO | [VIII U 1746/24](https://www.saos.org.pl/judgments/527057) | Uzasadnienie
-- 2024-11-08 | SO | [VII U 326/23](https://www.saos.org.pl/judgments/517435) | Wyrok
 - 2024-07-25 | SO | [VIII U 241/24](https://www.saos.org.pl/judgments/520444) | Uzasadnienie
 - 2024-07-03 | SO | [VIII U 1911/23](https://www.saos.org.pl/judgments/513520) | Uzasadnienie
-- 2024-02-20 | SO | [III U 32/24](https://www.saos.org.pl/judgments/507453) | Wyrok
-- 2024-02-07 | SO | [III AUa 1419/22](https://www.saos.org.pl/judgments/504751) | Wyrok
 - 2023-09-04 | SO | [VIII U 1868/22](https://www.saos.org.pl/judgments/513504) | Uzasadnienie
 - 2023-07-05 | SO | [VIII U 572/23](https://www.saos.org.pl/judgments/491900) | Uzasadnienie
-- 2023-03-09 | SO | [III U 62/23](https://www.saos.org.pl/judgments/489968) | Wyrok
 - 2023-03-09 | SO | [VIII U 2674/21](https://www.saos.org.pl/judgments/484928) | Uzasadnienie
 - 2023-02-23 | SO | [VIII U 2438/21](https://www.saos.org.pl/judgments/483580) | Uzasadnienie
 - 2023-02-21 | SO | [VIII U 1748/22](https://www.saos.org.pl/judgments/484261) | Uzasadnienie
 - 2023-02-01 | SO | [VIII U 377/22](https://www.saos.org.pl/judgments/483260) | Zarządzenie
-- 2023-01-19 | SO | [VI U 1041/22](https://www.saos.org.pl/judgments/482344) | Wyrok
-- 2023-01-12 | SO | [VII U 1063/21](https://www.saos.org.pl/judgments/483107) | Wyrok
 - 2023-01-05 | SO | [VIII U 293/22](https://www.saos.org.pl/judgments/481379) | Zarządzenie
 - 2022-12-23 | SO | [VIII U 2420/21](https://www.saos.org.pl/judgments/481861) | Zarządzenie
 - 2022-11-21 | SO | [VIII U 2623/21](https://www.saos.org.pl/judgments/478927) | Uzasadnienie
-- 2022-11-17 | SO | [III AUa 282/22](https://www.saos.org.pl/judgments/478748) | Wyrok
 - 2022-10-13 | SO | [VIII U 38/22](https://www.saos.org.pl/judgments/477431) | Uzasadnienie
 - 2022-08-23 | SO | [VIII U 2024/21](https://www.saos.org.pl/judgments/474841) | Uzasadnienie
 - 2022-05-17 | SO | [VIII U 2463/18](https://www.saos.org.pl/judgments/464927) | Uzasadnienie
 - 2022-02-25 | SO | [VIII U 2209/21](https://www.saos.org.pl/judgments/461755) | Uzasadnienie
-- 2022-02-15 | SO | [III U 17/22](https://www.saos.org.pl/judgments/465927) | Wyrok
 - 2021-12-13 | SO | [VIII U 2107/21](https://www.saos.org.pl/judgments/453162) | Uzasadnienie
 - 2021-12-09 | SO | [VIII U 921/21](https://www.saos.org.pl/judgments/453574) | Zarządzenie
-- 2021-07-30 | SO | [IV U 348/21](https://www.saos.org.pl/judgments/466804) | Wyrok
 - 2021-06-16 | SO | [VIII U 2433/20](https://www.saos.org.pl/judgments/441186) | Zarządzenie
-- 2021-05-28 | SO | [VIII U 1347/20](https://www.saos.org.pl/judgments/444641) | Wyrok
 - 2021-04-29 | SO | [VIII U 5073/19](https://www.saos.org.pl/judgments/440442) | Uzasadnienie
-- 2021-04-19 | SO | [III U 153/21](https://www.saos.org.pl/judgments/485709) | Wyrok
-- 2021-03-18 | SO | [III AUa 974/20](https://www.saos.org.pl/judgments/435982) | Wyrok
 - 2021-03-15 | SO | [VIII U 4669/19](https://www.saos.org.pl/judgments/436850) | Zarządzenie
-- 2021-02-22 | SO | [VII U 39/18](https://www.saos.org.pl/judgments/447735) | Wyrok
-- 2020-12-29 | SO | [IV U 712/19](https://www.saos.org.pl/judgments/466590) | Wyrok
-- 2020-12-16 | SO | [IV U 2213/19](https://www.saos.org.pl/judgments/484763) | Wyrok
 - 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
-- 2020-08-31 | SO | [VI U 2134/20](https://www.saos.org.pl/judgments/430305) | Wyrok
 - 2020-07-13 | SO | [VIII U 4296/19](https://www.saos.org.pl/judgments/418260) | Zarządzenie
 - 2020-07-06 | SO | [VIII U 4862/19](https://www.saos.org.pl/judgments/418269) | Zarządzenie
 - 2020-06-17 | SO | [VIII U 3153/19](https://www.saos.org.pl/judgments/416692) | Zarządzenie
-- 2020-05-27 | SO | [III AUa 627/19](https://www.saos.org.pl/judgments/422807) | Wyrok
 - 2020-01-02 | SO | [VIII U 3769/19](https://www.saos.org.pl/judgments/401227) | Uzasadnienie
 - 2019-12-10 | SO | [VIII U 77/19](https://www.saos.org.pl/judgments/398628) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
-- 2019-04-03 | SO | [III AUa 9/19](https://www.saos.org.pl/judgments/404178) | Wyrok
-- 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
-- 2019-02-22 | SO | [VII U 1500/18](https://www.saos.org.pl/judgments/389486) | Wyrok
 - 2019-02-11 | SO | [VIII U 73/18](https://www.saos.org.pl/judgments/380761) | Zarządzenie
 - 2018-12-03 | SO | [VIII U 452/18](https://www.saos.org.pl/judgments/368491) | Zarządzenie
 - 2018-06-07 | SO | [VIII U 1559/16](https://www.saos.org.pl/judgments/342401) | Zarządzenie
 - 2018-05-02 | SO | [VIII U 2394/17](https://www.saos.org.pl/judgments/339161) | Zarządzenie
-- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
-- 2017-03-28 | SO | [IX U 969/15](https://www.saos.org.pl/judgments/291268) | Wyrok
 - 2017-02-27 | SO | [VIII U 1566/16](https://www.saos.org.pl/judgments/275033) | Zarządzenie
 - 2017-02-07 | SO | [VIII U 1558/16](https://www.saos.org.pl/judgments/278587) | Zarządzenie
 - 2016-06-02 | SO | [VIII U 2545/15](https://www.saos.org.pl/judgments/229277) | Zarządzenie
-- 2014-05-07 | TK | [K 43/12](https://www.saos.org.pl/judgments/160144) | Wyrok
-- 2013-10-30 | SO | [V U 900/13](https://www.saos.org.pl/judgments/31644) | Wyrok
-- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok
 
-## art. 8 (30)
+## art. 8 (24)
 
-- 2025-12-15 | SO | [VIII U 2443/25](https://www.saos.org.pl/judgments/542595) | Uzasadnienie
-- 2025-10-14 | SO | [VII U 1767/23](https://www.saos.org.pl/judgments/538120) | Wyrok
-- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
 - 2025-02-19 | SO | [III AUa 30/24](https://www.saos.org.pl/judgments/531377) | Wyrok
+- 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
+- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
+- 2025-10-14 | SO | [VII U 1767/23](https://www.saos.org.pl/judgments/538120) | Wyrok
 - 2025-01-27 | SO | [VII U 396/22](https://www.saos.org.pl/judgments/522859) | Wyrok
 - 2024-11-08 | SO | [VII U 326/23](https://www.saos.org.pl/judgments/517435) | Wyrok
+- 2021-08-06 | SO | [VII U 1573/20](https://www.saos.org.pl/judgments/448265) | Wyrok
+- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
+- 2025-12-15 | SO | [VIII U 2443/25](https://www.saos.org.pl/judgments/542595) | Uzasadnienie
 - 2024-07-03 | SO | [VIII U 1911/23](https://www.saos.org.pl/judgments/513520) | Uzasadnienie
 - 2023-08-17 | SO | [VIII U 547/23](https://www.saos.org.pl/judgments/513936) | Uzasadnienie
-- 2023-03-09 | SO | [III U 62/23](https://www.saos.org.pl/judgments/489968) | Wyrok
 - 2023-02-23 | SO | [VIII U 2438/21](https://www.saos.org.pl/judgments/483580) | Uzasadnienie
 - 2022-05-17 | SO | [VIII U 2463/18](https://www.saos.org.pl/judgments/464927) | Uzasadnienie
 - 2022-02-21 | SO | [VIII U 2480/21](https://www.saos.org.pl/judgments/461238) | Uzasadnienie
-- 2022-02-15 | SO | [III U 17/22](https://www.saos.org.pl/judgments/465927) | Wyrok
-- 2021-08-06 | SO | [VII U 1573/20](https://www.saos.org.pl/judgments/448265) | Wyrok
-- 2021-07-30 | SO | [IV U 348/21](https://www.saos.org.pl/judgments/466804) | Wyrok
-- 2021-06-29 | SO | [V U 537/21](https://www.saos.org.pl/judgments/449635) | Wyrok
 - 2021-06-16 | SO | [VIII U 2433/20](https://www.saos.org.pl/judgments/441186) | Zarządzenie
 - 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
 - 2020-08-10 | SO | [VIII U 3391/19](https://www.saos.org.pl/judgments/421839) | Uzasadnienie
 - 2020-07-13 | SO | [VIII U 4296/19](https://www.saos.org.pl/judgments/418260) | Zarządzenie
 - 2020-03-11 | SO | [VIII U 4480/19](https://www.saos.org.pl/judgments/410956) | Uzasadnienie
 - 2019-12-10 | SO | [VIII U 77/19](https://www.saos.org.pl/judgments/398628) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
 - 2018-10-17 | SO | [VIII U 2523/16](https://www.saos.org.pl/judgments/358329) | Zarządzenie
 - 2018-05-02 | SO | [VIII U 2394/17](https://www.saos.org.pl/judgments/339161) | Zarządzenie
-- 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
-- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
-- 2017-05-11 | SO | [V U 1147/16](https://www.saos.org.pl/judgments/286794) | Wyrok
 - 2017-02-07 | SO | [VIII U 1558/16](https://www.saos.org.pl/judgments/278587) | Zarządzenie
 
-## art. 9 (12)
+## art. 9 (8)
 
-- 2025-11-21 | SO | [VIII U 636/25](https://www.saos.org.pl/judgments/542832) | Uzasadnienie
 - 2025-06-11 | SO | [III AUa 1032/24](https://www.saos.org.pl/judgments/537891) | Wyrok
-- 2025-04-10 | SO | [VIII U 2067/24](https://www.saos.org.pl/judgments/532835) | Uzasadnienie
 - 2025-02-19 | SO | [III AUa 30/24](https://www.saos.org.pl/judgments/531377) | Wyrok
-- 2024-07-03 | SO | [VIII U 1911/23](https://www.saos.org.pl/judgments/513520) | Uzasadnienie
-- 2024-05-23 | SO | [VII U 249/24](https://www.saos.org.pl/judgments/512056) | Wyrok
-- 2022-04-01 | SO | [IV U 1089/21](https://www.saos.org.pl/judgments/477042) | Wyrok
-- 2021-06-29 | SO | [V U 537/21](https://www.saos.org.pl/judgments/449635) | Wyrok
-- 2021-04-19 | SO | [III U 153/21](https://www.saos.org.pl/judgments/485709) | Wyrok
-- 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
 - 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
+- 2024-05-23 | SO | [VII U 249/24](https://www.saos.org.pl/judgments/512056) | Wyrok
+- 2025-11-21 | SO | [VIII U 636/25](https://www.saos.org.pl/judgments/542832) | Uzasadnienie
+- 2025-04-10 | SO | [VIII U 2067/24](https://www.saos.org.pl/judgments/532835) | Uzasadnienie
+- 2024-07-03 | SO | [VIII U 1911/23](https://www.saos.org.pl/judgments/513520) | Uzasadnienie
+- 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
 
-## art. 12 (6)
+## art. 12 (5)
 
+- 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
+- 2012-10-23 | SO | [III AUa 314/12](https://www.saos.org.pl/judgments/1337) | Wyrok
 - 2025-01-27 | SO | [VII U 396/22](https://www.saos.org.pl/judgments/522859) | Wyrok
 - 2020-03-26 | SO | [VII U 221/16](https://www.saos.org.pl/judgments/412699) | Wyrok
 - 2019-09-25 | SO | [VII U 1062/19](https://www.saos.org.pl/judgments/406351) | Wyrok
-- 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
-- 2017-02-22 | SO | [IV U 13/17](https://www.saos.org.pl/judgments/291223) | Wyrok
-- 2012-10-23 | SO | [III AUa 314/12](https://www.saos.org.pl/judgments/1337) | Wyrok
 
 ## art. 13 (1)
 
@@ -190,42 +157,50 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 
 - 2017-11-08 | SO | [III AUa 317/17](https://www.saos.org.pl/judgments/319117) | Wyrok
 
-## art. 17 (7)
+## art. 17 (5)
 
-- 2021-04-19 | SO | [III U 153/21](https://www.saos.org.pl/judgments/485709) | Wyrok
+- 2015-11-04 | TK | [K 1/14](https://www.saos.org.pl/judgments/206657) | Wyrok ★
 - 2020-07-15 | SO | [III AUa 552/20](https://www.saos.org.pl/judgments/420350) | Wyrok
-- 2019-07-05 | SO | [VIII U 2236/18](https://www.saos.org.pl/judgments/388167) | Zarządzenie
 - 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
 - 2019-02-01 | SO | [VII U 1400/18](https://www.saos.org.pl/judgments/428376) | Wyrok
-- 2015-11-04 | TK | [K 1/14](https://www.saos.org.pl/judgments/206657) | Wyrok
-- 2014-03-12 | SO | [VIII U 1762/13](https://www.saos.org.pl/judgments/59596) | Wyrok
+- 2019-07-05 | SO | [VIII U 2236/18](https://www.saos.org.pl/judgments/388167) | Zarządzenie
 
 ## art. 19 (5)
 
+- 2017-10-19 | SO | [III AUa 1494/16](https://www.saos.org.pl/judgments/313228) | Wyrok
+- 2015-10-09 | SO | [III AUa 714/15](https://www.saos.org.pl/judgments/184619) | Wyrok
 - 2024-11-26 | SO | [VIII U 283/24](https://www.saos.org.pl/judgments/528270) | Uzasadnienie
 - 2024-04-04 | SO | [VIII U 1955/23](https://www.saos.org.pl/judgments/513541) | Uzasadnienie
 - 2018-06-08 | SO | [VIII U 612/18](https://www.saos.org.pl/judgments/345747) | Zarządzenie
-- 2017-10-19 | SO | [III AUa 1494/16](https://www.saos.org.pl/judgments/313228) | Wyrok
-- 2015-10-09 | SO | [III AUa 714/15](https://www.saos.org.pl/judgments/184619) | Wyrok
 
 ## art. 20 (1)
 
 - 2016-12-09 | SO | [III AUa 1308/16](https://www.saos.org.pl/judgments/272560) | Wyrok
 
-## art. 21 (1)
-
-- 2019-09-04 | SO | [IX U 613/19](https://www.saos.org.pl/judgments/396017) | Wyrok
-
 ## art. 23 (1)
 
 - 2018-03-20 | SO | [III AUa 347/17](https://www.saos.org.pl/judgments/349052) | Wyrok
 
-## art. 24 (46)
+## art. 24 (31)
 
-- 2026-02-05 | SO | [VII Ka 940/25](https://www.saos.org.pl/judgments/544101) | Wyrok
-- 2025-10-14 | SO | [VII U 1767/23](https://www.saos.org.pl/judgments/538120) | Wyrok
-- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
+- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok ★
+- 2010-11-18 | TK | [P 29/09](https://www.saos.org.pl/judgments/109715) | Wyrok ★
 - 2025-02-19 | SO | [III AUa 30/24](https://www.saos.org.pl/judgments/531377) | Wyrok
+- 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
+- 2018-04-05 | SO | [III AUa 74/18](https://www.saos.org.pl/judgments/352759) | Wyrok
+- 2017-06-29 | SO | [III AUa 1973/16](https://www.saos.org.pl/judgments/444672) | Wyrok
+- 2017-05-11 | SO | [III AUa 2011/16](https://www.saos.org.pl/judgments/308814) | Wyrok
+- 2014-06-24 | SO | [III AUa 1043/13](https://www.saos.org.pl/judgments/52590) | Wyrok
+- 2013-06-25 | SO | [III AUa 296/13](https://www.saos.org.pl/judgments/16445) | Wyrok
+- 2025-06-16 | SO | [III AUa 552/24](https://www.saos.org.pl/judgments/539413) | Uzasadnienie
+- 2020-01-16 | SO | [III AUa 468/19](https://www.saos.org.pl/judgments/409607) | Uzasadnienie
+- 2025-10-14 | SO | [VII U 1767/23](https://www.saos.org.pl/judgments/538120) | Wyrok
+- 2021-08-06 | SO | [VII U 1573/20](https://www.saos.org.pl/judgments/448265) | Wyrok
+- 2021-02-22 | SO | [VII U 39/18](https://www.saos.org.pl/judgments/447735) | Wyrok
+- 2019-02-22 | SO | [VII U 1500/18](https://www.saos.org.pl/judgments/389486) | Wyrok
+- 2018-05-30 | SO | [VII U 228/18](https://www.saos.org.pl/judgments/375966) | Wyrok
+- 2018-01-16 | SO | [VII U 3216/17](https://www.saos.org.pl/judgments/335273) | Wyrok
+- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
 - 2024-07-03 | SO | [VIII U 1911/23](https://www.saos.org.pl/judgments/513520) | Uzasadnienie
 - 2023-06-19 | SO | [VIII U 612/23](https://www.saos.org.pl/judgments/491988) | Uzasadnienie
 - 2023-04-17 | SO | [VIII U 2310/22](https://www.saos.org.pl/judgments/486913) | Uzasadnienie
@@ -234,44 +209,27 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2022-09-02 | SO | [VIII U 1032/20](https://www.saos.org.pl/judgments/476669) | Zarządzenie
 - 2022-04-22 | SO | [VIII U 1962/21](https://www.saos.org.pl/judgments/463098) | Zarządzenie
 - 2022-02-21 | SO | [VIII U 2480/21](https://www.saos.org.pl/judgments/461238) | Uzasadnienie
-- 2021-08-06 | SO | [VII U 1573/20](https://www.saos.org.pl/judgments/448265) | Wyrok
-- 2021-07-30 | SO | [IV U 348/21](https://www.saos.org.pl/judgments/466804) | Wyrok
-- 2021-03-03 | SO | [V U 894/20](https://www.saos.org.pl/judgments/433936) | Wyrok
-- 2021-02-22 | SO | [VII U 39/18](https://www.saos.org.pl/judgments/447735) | Wyrok
-- 2021-02-05 | SO | [VII Ka 43/21](https://www.saos.org.pl/judgments/435878) | Wyrok
-- 2021-01-04 | SO | [VIII U 2808/18](https://www.saos.org.pl/judgments/432551) | Wyrok
 - 2020-08-10 | SO | [VIII U 3391/19](https://www.saos.org.pl/judgments/421839) | Uzasadnienie
 - 2020-07-13 | SO | [VIII U 4296/19](https://www.saos.org.pl/judgments/418260) | Zarządzenie
 - 2020-03-11 | SO | [VIII U 4480/19](https://www.saos.org.pl/judgments/410956) | Uzasadnienie
-- 2020-01-16 | SO | [III AUa 468/19](https://www.saos.org.pl/judgments/409607) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
 - 2019-05-20 | SO | [VIII U 1191/18](https://www.saos.org.pl/judgments/381893) | Uzasadnienie
-- 2019-03-19 | SO | [III AUa 275/18](https://www.saos.org.pl/judgments/391172) | Wyrok
-- 2019-03-04 | SO | [VI U 1963/18](https://www.saos.org.pl/judgments/380130) | Uzasadnienie
-- 2019-02-22 | SO | [VII U 1500/18](https://www.saos.org.pl/judgments/389486) | Wyrok
-- 2019-01-16 | SO | [VII Ka 1210/18](https://www.saos.org.pl/judgments/370288) | Wyrok
-- 2018-11-19 | SO | [VII Ka 932/18](https://www.saos.org.pl/judgments/364644) | Wyrok
-- 2018-05-30 | SO | [VII U 228/18](https://www.saos.org.pl/judgments/375966) | Wyrok
-- 2018-04-05 | SO | [III AUa 74/18](https://www.saos.org.pl/judgments/352759) | Wyrok
-- 2018-02-05 | SO | [VII U 3333/17](https://www.saos.org.pl/judgments/333343) | Wyrok
-- 2018-01-16 | SO | [VII U 3216/17](https://www.saos.org.pl/judgments/335273) | Wyrok
-- 2017-06-29 | SO | [III AUa 1973/16](https://www.saos.org.pl/judgments/444672) | Wyrok
-- 2017-06-14 | SO | [IV U 689/17](https://www.saos.org.pl/judgments/296614) | Wyrok
-- 2017-05-11 | SO | [III AUa 2011/16](https://www.saos.org.pl/judgments/308814) | Wyrok
-- 2017-03-21 | SO | [IV U 51/17](https://www.saos.org.pl/judgments/278441) | Wyrok
-- 2017-03-17 | SO | [VIII U 304/17](https://www.saos.org.pl/judgments/284916) | Wyrok
-- 2017-03-14 | SO | [V U 541/16](https://www.saos.org.pl/judgments/278485) | Wyrok
 - 2016-02-10 | SO | [VIII U 2767/15](https://www.saos.org.pl/judgments/205062) | Zarządzenie
-- 2014-11-05 | SO | [VIII U 1133/14](https://www.saos.org.pl/judgments/129266) | Wyrok
+
+## art. 25 (25)
+
+- 2010-07-15 | TK | [K 63/07](https://www.saos.org.pl/judgments/109684) | Wyrok ★
+- 2018-04-05 | SO | [III AUa 74/18](https://www.saos.org.pl/judgments/352759) | Wyrok
+- 2018-04-05 | SO | [III AUa 747/16](https://www.saos.org.pl/judgments/339864) | Wyrok
+- 2017-06-29 | SO | [III AUa 1973/16](https://www.saos.org.pl/judgments/444672) | Wyrok
+- 2017-05-11 | SO | [III AUa 2011/16](https://www.saos.org.pl/judgments/308814) | Wyrok
 - 2014-06-24 | SO | [III AUa 1043/13](https://www.saos.org.pl/judgments/52590) | Wyrok
-- 2014-03-12 | SO | [VIII U 1762/13](https://www.saos.org.pl/judgments/59596) | Wyrok
 - 2013-06-25 | SO | [III AUa 296/13](https://www.saos.org.pl/judgments/16445) | Wyrok
-- 2012-12-19 | TK | [K 9/12](https://www.saos.org.pl/judgments/110908) | Wyrok
-- 2010-11-18 | TK | [P 29/09](https://www.saos.org.pl/judgments/109715) | Wyrok
-
-## art. 25 (33)
-
 - 2025-09-22 | SO | [III AUa 1165/25](https://www.saos.org.pl/judgments/543665) | Uzasadnienie
+- 2020-01-16 | SO | [III AUa 468/19](https://www.saos.org.pl/judgments/409607) | Uzasadnienie
+- 2018-09-21 | SO | [VII U 329/18](https://www.saos.org.pl/judgments/375988) | Wyrok
+- 2018-05-30 | SO | [VII U 228/18](https://www.saos.org.pl/judgments/375966) | Wyrok
+- 2018-01-16 | SO | [VII U 3216/17](https://www.saos.org.pl/judgments/335273) | Wyrok
+- 2016-07-19 | SO | [VII U 5363/16](https://www.saos.org.pl/judgments/247816) | Wyrok
 - 2023-06-19 | SO | [VIII U 612/23](https://www.saos.org.pl/judgments/491988) | Uzasadnienie
 - 2023-04-17 | SO | [VIII U 2310/22](https://www.saos.org.pl/judgments/486913) | Uzasadnienie
 - 2023-04-05 | SO | [VIII U 2085/22](https://www.saos.org.pl/judgments/486157) | Uzasadnienie
@@ -280,96 +238,72 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2022-09-02 | SO | [VIII U 1032/20](https://www.saos.org.pl/judgments/476669) | Zarządzenie
 - 2022-04-22 | SO | [VIII U 1962/21](https://www.saos.org.pl/judgments/463098) | Zarządzenie
 - 2021-11-15 | SO | [VIII U 462/21](https://www.saos.org.pl/judgments/453191) | Uzasadnienie
-- 2021-06-29 | SO | [V U 537/21](https://www.saos.org.pl/judgments/449635) | Wyrok
-- 2021-03-03 | SO | [V U 894/20](https://www.saos.org.pl/judgments/433936) | Wyrok
 - 2021-01-21 | SO | [VIII U 1668/20](https://www.saos.org.pl/judgments/431863) | Uzasadnienie
-- 2021-01-04 | SO | [VIII U 2808/18](https://www.saos.org.pl/judgments/432551) | Wyrok
 - 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
-- 2020-01-16 | SO | [III AUa 468/19](https://www.saos.org.pl/judgments/409607) | Uzasadnienie
 - 2019-05-20 | SO | [VIII U 1191/18](https://www.saos.org.pl/judgments/381893) | Uzasadnienie
-- 2019-03-04 | SO | [VI U 1963/18](https://www.saos.org.pl/judgments/380130) | Uzasadnienie
-- 2018-09-21 | SO | [VII U 329/18](https://www.saos.org.pl/judgments/375988) | Wyrok
-- 2018-05-30 | SO | [VII U 228/18](https://www.saos.org.pl/judgments/375966) | Wyrok
-- 2018-04-05 | SO | [III AUa 74/18](https://www.saos.org.pl/judgments/352759) | Wyrok
-- 2018-04-05 | SO | [III AUa 747/16](https://www.saos.org.pl/judgments/339864) | Wyrok
-- 2018-02-05 | SO | [VII U 3333/17](https://www.saos.org.pl/judgments/333343) | Wyrok
-- 2018-01-16 | SO | [VII U 3216/17](https://www.saos.org.pl/judgments/335273) | Wyrok
-- 2017-06-29 | SO | [III AUa 1973/16](https://www.saos.org.pl/judgments/444672) | Wyrok
-- 2017-05-11 | SO | [III AUa 2011/16](https://www.saos.org.pl/judgments/308814) | Wyrok
-- 2017-03-17 | SO | [VIII U 304/17](https://www.saos.org.pl/judgments/284916) | Wyrok
-- 2017-03-14 | SO | [V U 541/16](https://www.saos.org.pl/judgments/278485) | Wyrok
-- 2016-07-19 | SO | [VII U 5363/16](https://www.saos.org.pl/judgments/247816) | Wyrok
 - 2016-02-10 | SO | [VIII U 2767/15](https://www.saos.org.pl/judgments/205062) | Zarządzenie
-- 2014-11-05 | SO | [VIII U 1133/14](https://www.saos.org.pl/judgments/129266) | Wyrok
-- 2014-06-24 | SO | [III AUa 1043/13](https://www.saos.org.pl/judgments/52590) | Wyrok
-- 2013-06-25 | SO | [III AUa 296/13](https://www.saos.org.pl/judgments/16445) | Wyrok
-- 2010-07-15 | TK | [K 63/07](https://www.saos.org.pl/judgments/109684) | Wyrok
 
 ## art. 26 (1)
 
 - 2016-05-06 | SO | [III AUa 13/16](https://www.saos.org.pl/judgments/227904) | Wyrok
 
-## art. 30 (4)
+## art. 30 (1)
 
-- 2024-09-20 | SO | [VIII U 627/24](https://www.saos.org.pl/judgments/516303) | Uzasadnienie
-- 2021-06-29 | SO | [V U 537/21](https://www.saos.org.pl/judgments/449635) | Wyrok
 - 2020-10-16 | SO | [VIII U 4212/19](https://www.saos.org.pl/judgments/422098) | Uzasadnienie
-- 2019-10-07 | SO | [III U 767/19](https://www.saos.org.pl/judgments/399048) | Wyrok
 
 ## art. 31 (1)
 
 - 2025-02-19 | SO | [III AUa 30/24](https://www.saos.org.pl/judgments/531377) | Wyrok
 
-## art. 33 (15)
+## art. 33 (12)
 
+- 2010-10-05 | TK | [K 16/08](https://www.saos.org.pl/judgments/109671) | Wyrok ★
 - 2019-12-03 | SO | [III AUa 934/19](https://www.saos.org.pl/judgments/417462) | Wyrok
 - 2019-11-28 | SO | [III AUa 773/19](https://www.saos.org.pl/judgments/406324) | Wyrok
 - 2019-06-17 | SO | [III AUa 952/18](https://www.saos.org.pl/judgments/386902) | Wyrok
-- 2018-10-31 | SO | [IV U 503/18](https://www.saos.org.pl/judgments/361175) | Wyrok
-- 2017-05-26 | SO | [VII U 1621/16](https://www.saos.org.pl/judgments/315003) | Wyrok
-- 2016-07-18 | SO | [IV U 186/16](https://www.saos.org.pl/judgments/239247) | Wyrok
 - 2016-06-02 | SO | [III AUa 560/15](https://www.saos.org.pl/judgments/247409) | Wyrok
 - 2016-02-04 | SO | [III AUa 86/15](https://www.saos.org.pl/judgments/221438) | Wyrok
 - 2015-10-22 | SO | [III AUa 619/15](https://www.saos.org.pl/judgments/184557) | Wyrok
 - 2015-10-09 | SO | [III AUa 714/15](https://www.saos.org.pl/judgments/184619) | Wyrok
 - 2014-07-16 | SO | [III AUa 1941/13](https://www.saos.org.pl/judgments/55648) | Wyrok
 - 2014-05-27 | SO | [III AUa 982/13](https://www.saos.org.pl/judgments/49969) | Wyrok
-- 2013-07-12 | SO | [VI U 822/13](https://www.saos.org.pl/judgments/22115) | Wyrok
 - 2013-03-13 | SO | [III AUa 87/13](https://www.saos.org.pl/judgments/9233) | Wyrok
-- 2010-10-05 | TK | [K 16/08](https://www.saos.org.pl/judgments/109671) | Wyrok
+- 2017-05-26 | SO | [VII U 1621/16](https://www.saos.org.pl/judgments/315003) | Wyrok
 
-## art. 37 (420)
+## art. 37 (250)
 
+- 2012-11-13 | TK | [K 2/12](https://www.saos.org.pl/judgments/110897) | Wyrok ★
+- 2010-07-15 | TK | [K 63/07](https://www.saos.org.pl/judgments/109684) | Wyrok ★
+- 2012-10-03 | SN | [III UZP 4/12](https://www.saos.org.pl/judgments/99230) | Uchwała ★
+- 2011-06-07 | SN | [II UZP 3/11](https://www.saos.org.pl/judgments/95165) | Uchwała ★
+- 2016-04-06 | SN | [II UK 78/15](https://www.saos.org.pl/judgments/245062) | Wyrok ★
+- 2014-03-12 | SN | [II UK 358/13](https://www.saos.org.pl/judgments/104672) | Wyrok ★
+- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok ★
+- 2013-10-23 | SN | [I UK 122/13](https://www.saos.org.pl/judgments/103181) | Wyrok ★
+- 2013-08-14 | SN | [III UK 117/12](https://www.saos.org.pl/judgments/102621) | Wyrok ★
+- 2013-08-06 | SN | [II UK 4/13](https://www.saos.org.pl/judgments/102571) | Wyrok ★
+- 2011-03-03 | SN | [II UK 299/10](https://www.saos.org.pl/judgments/94349) | Wyrok ★
+- 2010-12-06 | SN | [II UK 149/10](https://www.saos.org.pl/judgments/93648) | Wyrok ★
+- 2010-05-06 | SN | [III UK 91/09](https://www.saos.org.pl/judgments/165311) | Wyrok ★
+- 2014-07-08 | SN | [I UK 65/14](https://www.saos.org.pl/judgments/166317) | Postanowienie
+- 2012-03-29 | SN | [I UK 417/11](https://www.saos.org.pl/judgments/97654) | Postanowienie
 - 2024-07-16 | SO | [III AUa 378/23](https://www.saos.org.pl/judgments/520846) | Wyrok
 - 2022-10-26 | SO | [III AUa 1217/20](https://www.saos.org.pl/judgments/477963) | Wyrok
 - 2021-10-20 | SO | [III AUa 222/21](https://www.saos.org.pl/judgments/453765) | Wyrok
 - 2021-06-14 | SO | [III AUa 350/19](https://www.saos.org.pl/judgments/451618) | Wyrok
-- 2021-02-23 | SO | [IV U 7/21](https://www.saos.org.pl/judgments/466024) | Wyrok
 - 2018-07-26 | SO | [III AUa 21/17](https://www.saos.org.pl/judgments/364580) | Wyrok
 - 2018-04-26 | SO | [III AUa 1134/16](https://www.saos.org.pl/judgments/340901) | Wyrok
 - 2017-09-20 | SO | [III AUa 536/17](https://www.saos.org.pl/judgments/312478) | Wyrok
-- 2017-06-29 | SO | [VIII U 3288/16](https://www.saos.org.pl/judgments/296023) | Wyrok
 - 2017-01-19 | SO | [III AUa 1497/16](https://www.saos.org.pl/judgments/277658) | Wyrok
 - 2016-11-03 | SO | [III AUa 462/16](https://www.saos.org.pl/judgments/256224) | Wyrok
-- 2016-08-08 | SO | [II C 352/16](https://www.saos.org.pl/judgments/398397) | Wyrok
 - 2016-06-21 | SO | [III AUa 1769/15](https://www.saos.org.pl/judgments/248283) | Wyrok
 - 2016-06-07 | SO | [III AUa 1915/15](https://www.saos.org.pl/judgments/251931) | Wyrok
-- 2016-04-26 | SO | [V U 1308/15](https://www.saos.org.pl/judgments/234045) | Wyrok
 - 2016-04-08 | SO | [III AUa 596/15](https://www.saos.org.pl/judgments/255173) | Wyrok
-- 2016-04-06 | SN | [II UK 78/15](https://www.saos.org.pl/judgments/245062) | Wyrok
-- 2016-03-17 | SO | [V U 1038/15](https://www.saos.org.pl/judgments/220262) | Wyrok
-- 2016-02-23 | SO | [VII U 1323/15](https://www.saos.org.pl/judgments/219080) | Wyrok
-- 2016-02-09 | SO | [II C 1130/13](https://www.saos.org.pl/judgments/398396) | Wyrok
 - 2016-01-19 | SO | [III AUa 344/15](https://www.saos.org.pl/judgments/240960) | Wyrok
-- 2015-12-03 | SO | [VI U 878/15](https://www.saos.org.pl/judgments/204892) | Wyrok
-- 2015-11-20 | SO | [VI P 441/14](https://www.saos.org.pl/judgments/195013) | Wyrok
 - 2015-10-29 | SO | [III AUa 1539/14](https://www.saos.org.pl/judgments/184209) | Wyrok
 - 2015-10-15 | SO | [III AUa 760/15](https://www.saos.org.pl/judgments/184643) | Wyrok
 - 2015-09-22 | SO | [III AUa 573/15](https://www.saos.org.pl/judgments/184523) | Wyrok
 - 2015-07-29 | SO | [III AUa 1798/13](https://www.saos.org.pl/judgments/177113) | Wyrok
-- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
-- 2015-06-02 | SO | [VI U 2504/14](https://www.saos.org.pl/judgments/187950) | Wyrok
-- 2015-05-22 | SO | [V Ca 2506/14](https://www.saos.org.pl/judgments/224193) | Wyrok
 - 2015-05-12 | SO | [III AUa 704/14](https://www.saos.org.pl/judgments/156387) | Wyrok
 - 2015-03-20 | SO | [III AUa 215/14](https://www.saos.org.pl/judgments/156369) | Wyrok
 - 2015-03-20 | SO | [III AUa 205/14](https://www.saos.org.pl/judgments/153303) | Wyrok
@@ -377,22 +311,17 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2015-01-27 | SO | [III AUa 391/14](https://www.saos.org.pl/judgments/178267) | Wyrok
 - 2014-12-10 | SO | [III AUa 1534/14](https://www.saos.org.pl/judgments/134272) | Wyrok
 - 2014-11-27 | SO | [III AUa 239/14](https://www.saos.org.pl/judgments/129061) | Wyrok
-- 2014-11-26 | SO | [VII U 1184/14](https://www.saos.org.pl/judgments/221725) | Wyrok
-- 2014-10-29 | SO | [VII U 1573/14](https://www.saos.org.pl/judgments/226867) | Wyrok
 - 2014-10-23 | SO | [III AUa 133/14](https://www.saos.org.pl/judgments/134271) | Wyrok
 - 2014-10-14 | SO | [III AUa 95/14](https://www.saos.org.pl/judgments/67311) | Wyrok
 - 2014-09-25 | SO | [III AUa 38/14](https://www.saos.org.pl/judgments/72009) | Wyrok
 - 2014-09-25 | SO | [III AUa 2913/13](https://www.saos.org.pl/judgments/69171) | Wyrok
-- 2014-09-22 | SO | [VIII U 1119/14](https://www.saos.org.pl/judgments/176820) | Zarządzenie
 - 2014-09-18 | SO | [III AUa 1099/13](https://www.saos.org.pl/judgments/75261) | Wyrok
 - 2014-09-04 | SO | [III AUa 712/14](https://www.saos.org.pl/judgments/60536) | Wyrok
 - 2014-08-06 | SO | [III AUa 2050/13](https://www.saos.org.pl/judgments/134276) | Wyrok
 - 2014-08-06 | SO | [III AUa 2038/13](https://www.saos.org.pl/judgments/66272) | Wyrok
 - 2014-07-23 | SO | [III AUa 1187/13](https://www.saos.org.pl/judgments/56986) | Wyrok
 - 2014-07-09 | SO | [III AUa 1663/13](https://www.saos.org.pl/judgments/56987) | Wyrok
-- 2014-07-08 | SN | [I UK 65/14](https://www.saos.org.pl/judgments/166317) | Postanowienie
 - 2014-07-08 | SO | [III AUa 1428/13](https://www.saos.org.pl/judgments/55816) | Wyrok
-- 2014-07-04 | SO | [VII U 3540/13](https://www.saos.org.pl/judgments/213042) | Wyrok
 - 2014-07-03 | SO | [III AUa 1126/13](https://www.saos.org.pl/judgments/58873) | Wyrok
 - 2014-06-18 | SO | [III AUa 1205/13](https://www.saos.org.pl/judgments/55545) | Wyrok
 - 2014-06-18 | SO | [III AUa 1110/13](https://www.saos.org.pl/judgments/55540) | Wyrok
@@ -409,7 +338,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2014-05-15 | SO | [III AUa 962/13](https://www.saos.org.pl/judgments/49967) | Wyrok
 - 2014-05-13 | SO | [III AUa 872/13](https://www.saos.org.pl/judgments/48268) | Wyrok
 - 2014-05-08 | SO | [III AUa 961/13](https://www.saos.org.pl/judgments/48272) | Wyrok
-- 2014-04-30 | SO | [VIII U 867/14](https://www.saos.org.pl/judgments/44467) | Uzasadnienie
 - 2014-04-29 | SO | [III AUa 849/13](https://www.saos.org.pl/judgments/50731) | Wyrok
 - 2014-04-29 | SO | [III AUa 833/13](https://www.saos.org.pl/judgments/48805) | Wyrok
 - 2014-04-23 | SO | [III AUa 1496/13](https://www.saos.org.pl/judgments/46272) | Wyrok
@@ -421,35 +349,26 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2014-03-13 | SO | [III AUa 743/13](https://www.saos.org.pl/judgments/47981) | Wyrok
 - 2014-03-13 | SO | [III AUa 746/13](https://www.saos.org.pl/judgments/41063) | Wyrok
 - 2014-03-13 | SO | [III AUa 737/13](https://www.saos.org.pl/judgments/40580) | Wyrok
-- 2014-03-12 | SN | [II UK 358/13](https://www.saos.org.pl/judgments/104672) | Wyrok
 - 2014-03-11 | SO | [III AUa 725/13](https://www.saos.org.pl/judgments/40579) | Wyrok
 - 2014-03-04 | SO | [III AUa 2007/13](https://www.saos.org.pl/judgments/180671) | Wyrok
 - 2014-02-26 | SO | [III AUa 1413/13](https://www.saos.org.pl/judgments/37253) | Wyrok
 - 2014-02-20 | SO | [III AUa 446/13](https://www.saos.org.pl/judgments/40849) | Wyrok
-- 2014-02-20 | SO | [III AUa 688/13](https://www.saos.org.pl/judgments/38257) | Postanowienie
 - 2014-02-20 | SO | [III AUa 692/13](https://www.saos.org.pl/judgments/37972) | Wyrok
 - 2014-02-20 | SO | [III AUa 687/13](https://www.saos.org.pl/judgments/37272) | Wyrok
-- 2014-02-13 | SO | [III U 1288/13](https://www.saos.org.pl/judgments/37512) | Wyrok
 - 2014-02-11 | SO | [III AUa 964/13](https://www.saos.org.pl/judgments/35756) | Wyrok
 - 2014-02-06 | SO | [III AUa 712/13](https://www.saos.org.pl/judgments/38344) | Wyrok
 - 2014-02-05 | SO | [III AUa 587/13](https://www.saos.org.pl/judgments/38340) | Wyrok
 - 2014-02-04 | SO | [III AUa 1746/13](https://www.saos.org.pl/judgments/210967) | Wyrok
 - 2014-01-30 | SO | [III AUa 496/13](https://www.saos.org.pl/judgments/34655) | Wyrok
 - 2014-01-29 | SO | [III AUa 1741/13](https://www.saos.org.pl/judgments/36001) | Wyrok
-- 2014-01-28 | SO | [VI U 1492/13](https://www.saos.org.pl/judgments/46938) | Wyrok
-- 2014-01-27 | SO | [I C 204/13](https://www.saos.org.pl/judgments/143410) | Wyrok
-- 2014-01-24 | SO | [III AUa 2856/13](https://www.saos.org.pl/judgments/39751) | Postanowienie
 - 2014-01-16 | SO | [III AUa 585/13](https://www.saos.org.pl/judgments/38548) | Wyrok
 - 2014-01-15 | SO | [III AUa 1195/13](https://www.saos.org.pl/judgments/32412) | Wyrok
-- 2014-01-10 | SO | [IV U 814/13](https://www.saos.org.pl/judgments/38601) | Wyrok
-- 2014-01-09 | SO | [VIII U 890/13](https://www.saos.org.pl/judgments/34933) | Wyrok
 - 2014-01-08 | SO | [III AUa 667/13](https://www.saos.org.pl/judgments/36007) | Wyrok
 - 2014-01-07 | SO | [III AUa 1607/13](https://www.saos.org.pl/judgments/210953) | Wyrok
 - 2013-12-30 | SO | [III AUa 785/13](https://www.saos.org.pl/judgments/32835) | Wyrok
 - 2013-12-17 | SO | [III AUa 530/13](https://www.saos.org.pl/judgments/31706) | Wyrok
 - 2013-12-13 | SO | [III AUa 533/13](https://www.saos.org.pl/judgments/31707) | Wyrok
 - 2013-12-11 | SO | [III AUa 1521/13](https://www.saos.org.pl/judgments/210950) | Wyrok
-- 2013-12-11 | SO | [VII U 1564/13](https://www.saos.org.pl/judgments/41007) | Wyrok
 - 2013-12-11 | SO | [III AUa 1107/13](https://www.saos.org.pl/judgments/28601) | Wyrok
 - 2013-12-11 | SO | [III AUa 1057/12](https://www.saos.org.pl/judgments/28317) | Wyrok
 - 2013-12-11 | SO | [III AUa 1106/13](https://www.saos.org.pl/judgments/28143) | Wyrok
@@ -457,7 +376,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-12-05 | SO | [III AUa 1087/13](https://www.saos.org.pl/judgments/29647) | Wyrok
 - 2013-12-05 | SO | [III AUa 645/13](https://www.saos.org.pl/judgments/28615) | Wyrok
 - 2013-12-04 | SO | [III AUa 1448/13](https://www.saos.org.pl/judgments/184180) | Wyrok
-- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok
 - 2013-12-03 | SO | [III AUa 469/13](https://www.saos.org.pl/judgments/38546) | Wyrok
 - 2013-12-03 | SO | [III AUa 473/13](https://www.saos.org.pl/judgments/38252) | Wyrok
 - 2013-11-28 | SO | [III AUa 443/13](https://www.saos.org.pl/judgments/41795) | Wyrok
@@ -465,7 +383,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-11-27 | SO | [III AUa 1407/13](https://www.saos.org.pl/judgments/210942) | Wyrok
 - 2013-11-27 | SO | [III AUa 1101/13](https://www.saos.org.pl/judgments/28142) | Wyrok
 - 2013-11-26 | SO | [III AUa 424/13](https://www.saos.org.pl/judgments/41792) | Wyrok
-- 2013-11-26 | SO | [VIII U 1658/13](https://www.saos.org.pl/judgments/28892) | Wyrok
 - 2013-11-22 | SO | [III AUa 1384/13](https://www.saos.org.pl/judgments/36121) | Wyrok
 - 2013-11-21 | SO | [III AUa 1374/13](https://www.saos.org.pl/judgments/32552) | Wyrok
 - 2013-11-21 | SO | [III AUa 986/13](https://www.saos.org.pl/judgments/29012) | Wyrok
@@ -475,29 +392,23 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-11-13 | SO | [III AUa 931/13](https://www.saos.org.pl/judgments/26665) | Wyrok
 - 2013-11-07 | SO | [III AUa 395/13](https://www.saos.org.pl/judgments/41785) | Wyrok
 - 2013-11-07 | SO | [III AUa 903/13](https://www.saos.org.pl/judgments/30880) | Wyrok
-- 2013-11-07 | SO | [VI U 2358/13](https://www.saos.org.pl/judgments/30196) | Wyrok
 - 2013-11-07 | SO | [III AUa 922/13](https://www.saos.org.pl/judgments/29672) | Wyrok
 - 2013-11-07 | SO | [III AUa 824/13](https://www.saos.org.pl/judgments/29671) | Wyrok
 - 2013-11-07 | SO | [III AUa 929/13](https://www.saos.org.pl/judgments/27030) | Wyrok
 - 2013-11-07 | SO | [III AUa 926/13](https://www.saos.org.pl/judgments/26664) | Wyrok
 - 2013-11-05 | SO | [III AUa 375/13](https://www.saos.org.pl/judgments/27522) | Wyrok
 - 2013-10-24 | SO | [III AUa 876/13](https://www.saos.org.pl/judgments/24916) | Wyrok
-- 2013-10-23 | SN | [I UK 122/13](https://www.saos.org.pl/judgments/103181) | Wyrok
 - 2013-10-17 | SO | [III AUa 311/13](https://www.saos.org.pl/judgments/40574) | Wyrok
 - 2013-10-15 | SO | [III AUa 300/13](https://www.saos.org.pl/judgments/37970) | Wyrok
-- 2013-10-15 | SO | [V U 813/13](https://www.saos.org.pl/judgments/27011) | Wyrok
 - 2013-10-10 | SO | [III AUa 296/13](https://www.saos.org.pl/judgments/40840) | Wyrok
 - 2013-10-10 | SO | [III AUa 289/13](https://www.saos.org.pl/judgments/40839) | Wyrok
 - 2013-10-10 | SO | [III AUa 292/13](https://www.saos.org.pl/judgments/37969) | Wyrok
 - 2013-10-10 | SO | [III AUa 287/13](https://www.saos.org.pl/judgments/35037) | Wyrok
 - 2013-10-10 | SO | [III AUa 171/13](https://www.saos.org.pl/judgments/29299) | Wyrok
-- 2013-10-10 | SO | [IV U 588/13](https://www.saos.org.pl/judgments/26356) | Wyrok
 - 2013-10-10 | SO | [III AUa 556/13](https://www.saos.org.pl/judgments/23144) | Wyrok
 - 2013-10-03 | SO | [III AUa 258/13](https://www.saos.org.pl/judgments/22793) | Wyrok
-- 2013-10-01 | SO | [V U 1193/13](https://www.saos.org.pl/judgments/21879) | Wyrok
 - 2013-09-26 | SO | [III AUa 661/13](https://www.saos.org.pl/judgments/22279) | Wyrok
 - 2013-09-26 | SO | [III AUa 850/13](https://www.saos.org.pl/judgments/22060) | Wyrok
-- 2013-09-24 | SO | [IV U 920/13](https://www.saos.org.pl/judgments/28927) | Wyrok
 - 2013-09-19 | SO | [III AUa 791/13](https://www.saos.org.pl/judgments/21936) | Wyrok
 - 2013-09-18 | SO | [III AUa 787/13](https://www.saos.org.pl/judgments/21935) | Wyrok
 - 2013-09-18 | SO | [III AUa 305/13](https://www.saos.org.pl/judgments/21144) | Wyrok
@@ -508,182 +419,29 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-09-04 | SO | [III AUa 619/13](https://www.saos.org.pl/judgments/20881) | Wyrok
 - 2013-09-04 | SO | [III AUa 720/13](https://www.saos.org.pl/judgments/20721) | Wyrok
 - 2013-09-04 | SO | [III AUa 719/13](https://www.saos.org.pl/judgments/20143) | Wyrok
-- 2013-09-03 | SO | [VII U 1408/13](https://www.saos.org.pl/judgments/21384) | Wyrok
 - 2013-08-28 | SO | [III AUa 580/13](https://www.saos.org.pl/judgments/18919) | Wyrok
-- 2013-08-27 | SO | [IV U 876/13](https://www.saos.org.pl/judgments/53395) | Wyrok
-- 2013-08-27 | SO | [IV U 714/13](https://www.saos.org.pl/judgments/48322) | Wyrok
-- 2013-08-27 | SO | [IV U 544/13](https://www.saos.org.pl/judgments/47302) | Wyrok
-- 2013-08-27 | SO | [VI U 1499/13](https://www.saos.org.pl/judgments/23682) | Wyrok
-- 2013-08-27 | SO | [VI U 1496/13](https://www.saos.org.pl/judgments/23681) | Wyrok
-- 2013-08-27 | SO | [V U 802/13](https://www.saos.org.pl/judgments/22240) | Wyrok
-- 2013-08-20 | SO | [VIII U 1110/13](https://www.saos.org.pl/judgments/20482) | Wyrok
-- 2013-08-14 | SN | [III UK 117/12](https://www.saos.org.pl/judgments/102621) | Wyrok
-- 2013-08-13 | SO | [VIII U 991/13](https://www.saos.org.pl/judgments/19495) | Wyrok
-- 2013-08-13 | SO | [VIII U 987/13](https://www.saos.org.pl/judgments/19494) | Wyrok
 - 2013-08-13 | SO | [III AUa 1281/12](https://www.saos.org.pl/judgments/19160) | Wyrok
 - 2013-08-13 | SO | [III AUa 548/13](https://www.saos.org.pl/judgments/18523) | Wyrok
-- 2013-08-06 | SN | [II UK 4/13](https://www.saos.org.pl/judgments/102571) | Wyrok
-- 2013-08-06 | SO | [VIII U 909/13](https://www.saos.org.pl/judgments/19573) | Wyrok
-- 2013-08-06 | SO | [VIII U 897/13](https://www.saos.org.pl/judgments/19493) | Wyrok
-- 2013-08-06 | SO | [VIII U 891/13](https://www.saos.org.pl/judgments/19492) | Wyrok
-- 2013-08-06 | SO | [VIII U 869/13](https://www.saos.org.pl/judgments/19491) | Wyrok
-- 2013-07-31 | SO | [IV U 555/13](https://www.saos.org.pl/judgments/66742) | Wyrok
-- 2013-07-31 | SO | [IV U 402/13](https://www.saos.org.pl/judgments/66739) | Wyrok
-- 2013-07-30 | SO | [VIII U 779/13](https://www.saos.org.pl/judgments/19570) | Wyrok
 - 2013-07-24 | SO | [III AUa 153/13](https://www.saos.org.pl/judgments/34261) | Wyrok
 - 2013-07-24 | SO | [III AUa 168/13](https://www.saos.org.pl/judgments/27777) | Wyrok
-- 2013-07-22 | SO | [VII U 561/13](https://www.saos.org.pl/judgments/18992) | Wyrok
-- 2013-07-18 | SO | [III U 523/13](https://www.saos.org.pl/judgments/19512) | Wyrok
 - 2013-07-17 | SO | [III AUa 501/13](https://www.saos.org.pl/judgments/18269) | Wyrok
-- 2013-07-17 | SO | [VIII U 900/13](https://www.saos.org.pl/judgments/16948) | Wyrok
-- 2013-07-17 | SO | [VIII U 857/13](https://www.saos.org.pl/judgments/16947) | Wyrok
-- 2013-07-17 | SO | [VIII U 840/13](https://www.saos.org.pl/judgments/16946) | Wyrok
-- 2013-07-17 | SO | [VIII U 888/13](https://www.saos.org.pl/judgments/16880) | Wyrok
-- 2013-07-17 | SO | [VIII U 872/13](https://www.saos.org.pl/judgments/16879) | Wyrok
-- 2013-07-16 | SO | [IV U 811/13](https://www.saos.org.pl/judgments/66443) | Wyrok
-- 2013-07-16 | SO | [IV U 816/13](https://www.saos.org.pl/judgments/20763) | Wyrok
-- 2013-07-15 | SO | [VII U 644/13](https://www.saos.org.pl/judgments/22247) | Wyrok
-- 2013-07-12 | SO | [IV U 644/13](https://www.saos.org.pl/judgments/64661) | Wyrok
-- 2013-07-12 | SO | [IV U 669/13](https://www.saos.org.pl/judgments/54011) | Wyrok
-- 2013-07-12 | SO | [IV U 539/13](https://www.saos.org.pl/judgments/47629) | Wyrok
-- 2013-07-10 | SO | [IV U 514/13](https://www.saos.org.pl/judgments/54010) | Wyrok
 - 2013-07-10 | SO | [III AUa 97/13](https://www.saos.org.pl/judgments/37275) | Wyrok
-- 2013-07-10 | SO | [IV U 362/13](https://www.saos.org.pl/judgments/31981) | Wyrok
-- 2013-07-10 | SO | [IV U 609/13](https://www.saos.org.pl/judgments/28920) | Wyrok
-- 2013-07-10 | SO | [VII U 654/13](https://www.saos.org.pl/judgments/27743) | Wyrok
-- 2013-07-10 | SO | [VII U 744/13](https://www.saos.org.pl/judgments/22248) | Wyrok
-- 2013-07-10 | SO | [VIII U 828/13](https://www.saos.org.pl/judgments/16028) | Wyrok
-- 2013-07-10 | SO | [VIII U 823/13](https://www.saos.org.pl/judgments/16027) | Wyrok
-- 2013-07-09 | SO | [IV U 523/13](https://www.saos.org.pl/judgments/26355) | Wyrok
-- 2013-07-09 | SO | [IV U 751/13](https://www.saos.org.pl/judgments/20762) | Wyrok
-- 2013-07-04 | SO | [V U 793/13](https://www.saos.org.pl/judgments/15949) | Wyrok
 - 2013-07-04 | SO | [III AUa 486/13](https://www.saos.org.pl/judgments/15450) | Wyrok
-- 2013-07-03 | SO | [IV U 475/13](https://www.saos.org.pl/judgments/20758) | Wyrok
-- 2013-07-03 | SO | [IV U 471/13](https://www.saos.org.pl/judgments/20757) | Wyrok
-- 2013-07-03 | SO | [VII U 1197/13](https://www.saos.org.pl/judgments/18990) | Wyrok
-- 2013-06-28 | SO | [IV U 727/13](https://www.saos.org.pl/judgments/46324) | Wyrok
-- 2013-06-27 | SO | [V U 1098/13](https://www.saos.org.pl/judgments/17104) | Wyrok
 - 2013-06-26 | SO | [III AUa 445/13](https://www.saos.org.pl/judgments/15988) | Wyrok
-- 2013-06-25 | SO | [IV U 691/13](https://www.saos.org.pl/judgments/71331) | Wyrok
-- 2013-06-25 | SO | [IV U 701/13](https://www.saos.org.pl/judgments/67876) | Wyrok
-- 2013-06-25 | SO | [IV U 626/13](https://www.saos.org.pl/judgments/59499) | Wyrok
-- 2013-06-25 | SO | [IV U 641/13](https://www.saos.org.pl/judgments/53393) | Wyrok
-- 2013-06-25 | SO | [IV U 596/13](https://www.saos.org.pl/judgments/41748) | Wyrok
-- 2013-06-25 | SO | [IV U 510/13](https://www.saos.org.pl/judgments/41519) | Wyrok
-- 2013-06-25 | SO | [IV U 550/13](https://www.saos.org.pl/judgments/41234) | Wyrok
-- 2013-06-25 | SO | [IV U 591/13](https://www.saos.org.pl/judgments/20759) | Wyrok
-- 2013-06-25 | SO | [VIII U 830/13](https://www.saos.org.pl/judgments/19572) | Wyrok
-- 2013-06-25 | SO | [VIII U 825/13](https://www.saos.org.pl/judgments/19571) | Wyrok
-- 2013-06-25 | SO | [VIII U 752/13](https://www.saos.org.pl/judgments/19569) | Wyrok
-- 2013-06-25 | SO | [V U 744/13](https://www.saos.org.pl/judgments/17488) | Wyrok
-- 2013-06-25 | SO | [V U 764/13](https://www.saos.org.pl/judgments/16501) | Wyrok
-- 2013-06-25 | SO | [VIII U 698/13](https://www.saos.org.pl/judgments/15264) | Wyrok
-- 2013-06-20 | SO | [V U 812/13](https://www.saos.org.pl/judgments/15950) | Wyrok
 - 2013-06-20 | SO | [III AUa 92/13](https://www.saos.org.pl/judgments/15247) | Wyrok
-- 2013-06-19 | SO | [IV U 562/13](https://www.saos.org.pl/judgments/48321) | Wyrok
-- 2013-06-19 | SO | [IV U 582/13](https://www.saos.org.pl/judgments/45944) | Wyrok
-- 2013-06-18 | SO | [IV U 556/13](https://www.saos.org.pl/judgments/66441) | Wyrok
-- 2013-06-18 | SO | [IV U 566/13](https://www.saos.org.pl/judgments/41903) | Wyrok
-- 2013-06-18 | SO | [V U 722/13](https://www.saos.org.pl/judgments/16942) | Wyrok
-- 2013-06-18 | SO | [V U 644/13](https://www.saos.org.pl/judgments/16940) | Wyrok
-- 2013-06-18 | SO | [V U 802/13](https://www.saos.org.pl/judgments/15726) | Wyrok
-- 2013-06-18 | SO | [VIII U 758/13](https://www.saos.org.pl/judgments/15267) | Wyrok
-- 2013-06-18 | SO | [VIII U 745/13](https://www.saos.org.pl/judgments/15266) | Wyrok
-- 2013-06-18 | SO | [VIII U 684/13](https://www.saos.org.pl/judgments/14680) | Wyrok
 - 2013-06-18 | SO | [III AUa 1247/12](https://www.saos.org.pl/judgments/14451) | Wyrok
 - 2013-06-18 | SO | [III AUa 1222/12](https://www.saos.org.pl/judgments/14448) | Wyrok
-- 2013-06-14 | SO | [IV U 497/13](https://www.saos.org.pl/judgments/31766) | Wyrok
-- 2013-06-14 | SO | [V U 671/13](https://www.saos.org.pl/judgments/14839) | Wyrok
-- 2013-06-13 | SO | [V U 792/13](https://www.saos.org.pl/judgments/14845) | Wyrok
-- 2013-06-13 | SO | [V U 783/13](https://www.saos.org.pl/judgments/14844) | Wyrok
-- 2013-06-13 | SO | [V U 772/13](https://www.saos.org.pl/judgments/14843) | Wyrok
-- 2013-06-13 | SO | [V U 732/13](https://www.saos.org.pl/judgments/14842) | Wyrok
-- 2013-06-13 | SO | [V U 722/13](https://www.saos.org.pl/judgments/14840) | Wyrok
-- 2013-06-13 | SO | [V U 733/13](https://www.saos.org.pl/judgments/13986) | Wyrok
-- 2013-06-12 | SO | [V U 727/13](https://www.saos.org.pl/judgments/15722) | Wyrok
-- 2013-06-11 | SO | [IV U 506/13](https://www.saos.org.pl/judgments/41747) | Wyrok
-- 2013-06-11 | SO | [VII U 591/13](https://www.saos.org.pl/judgments/17384) | Wyrok
-- 2013-06-11 | SO | [V U 672/13](https://www.saos.org.pl/judgments/16941) | Wyrok
-- 2013-06-11 | SO | [V U 796/13](https://www.saos.org.pl/judgments/13990) | Wyrok
-- 2013-06-11 | SO | [V U 785/13](https://www.saos.org.pl/judgments/13989) | Wyrok
-- 2013-06-11 | SO | [V U 756/13](https://www.saos.org.pl/judgments/13988) | Wyrok
-- 2013-06-11 | SO | [V U 746/13](https://www.saos.org.pl/judgments/13987) | Wyrok
-- 2013-06-11 | SO | [V U 703/13](https://www.saos.org.pl/judgments/13983) | Wyrok
-- 2013-06-11 | SO | [V U 702/13](https://www.saos.org.pl/judgments/13982) | Wyrok
-- 2013-06-11 | SO | [V U 693/13](https://www.saos.org.pl/judgments/13981) | Wyrok
-- 2013-06-06 | SO | [IV U 407/13](https://www.saos.org.pl/judgments/26801) | Uzasadnienie
-- 2013-06-06 | SO | [V U 726/13](https://www.saos.org.pl/judgments/21165) | Wyrok
 - 2013-06-06 | SO | [III AUa 185/13](https://www.saos.org.pl/judgments/19544) | Wyrok
 - 2013-06-06 | SO | [III AUa 398/13](https://www.saos.org.pl/judgments/15986) | Wyrok
-- 2013-06-06 | SO | [V U 1097/13](https://www.saos.org.pl/judgments/15349) | Wyrok
-- 2013-06-06 | SO | [V U 725/13](https://www.saos.org.pl/judgments/13985) | Wyrok
-- 2013-06-06 | SO | [V U 692/13](https://www.saos.org.pl/judgments/13980) | Wyrok
-- 2013-06-06 | SO | [V U 683/13](https://www.saos.org.pl/judgments/13979) | Wyrok
-- 2013-06-06 | SO | [V U 682/13](https://www.saos.org.pl/judgments/13978) | Wyrok
-- 2013-06-06 | SO | [V U 673/13](https://www.saos.org.pl/judgments/13977) | Wyrok
-- 2013-06-06 | SO | [V U 662/13](https://www.saos.org.pl/judgments/13975) | Wyrok
-- 2013-06-06 | SO | [V U 642/13](https://www.saos.org.pl/judgments/13973) | Wyrok
-- 2013-06-06 | SO | [V U 583/13](https://www.saos.org.pl/judgments/13969) | Wyrok
-- 2013-06-06 | SO | [V U 736/13](https://www.saos.org.pl/judgments/13732) | Wyrok
 - 2013-06-06 | SO | [III AUa 407/13](https://www.saos.org.pl/judgments/12889) | Wyrok
 - 2013-06-05 | SO | [III AUa 1323/12](https://www.saos.org.pl/judgments/13702) | Wyrok
 - 2013-06-05 | SO | [III AUa 1298/12](https://www.saos.org.pl/judgments/13699) | Wyrok
 - 2013-06-05 | SO | [III AUa 1296/12](https://www.saos.org.pl/judgments/13698) | Wyrok
-- 2013-06-04 | SO | [IV U 486/13](https://www.saos.org.pl/judgments/53388) | Wyrok
-- 2013-06-04 | SO | [IV U 467/13](https://www.saos.org.pl/judgments/31765) | Wyrok
-- 2013-06-04 | SO | [V U 592/13](https://www.saos.org.pl/judgments/15278) | Wyrok
-- 2013-06-04 | SO | [V U 544/13](https://www.saos.org.pl/judgments/15277) | Wyrok
-- 2013-06-04 | SO | [V U 706/13](https://www.saos.org.pl/judgments/15094) | Wyrok
-- 2013-06-04 | SO | [V U 584/13](https://www.saos.org.pl/judgments/14895) | Wyrok
-- 2013-06-04 | SO | [V U 623/13](https://www.saos.org.pl/judgments/13972) | Wyrok
-- 2013-06-04 | SO | [V U 621/13](https://www.saos.org.pl/judgments/13971) | Wyrok
-- 2013-06-04 | SO | [V U 613/13](https://www.saos.org.pl/judgments/13970) | Wyrok
-- 2013-06-04 | SO | [V U 705/13](https://www.saos.org.pl/judgments/13731) | Wyrok
-- 2013-06-04 | SO | [V U 645/13](https://www.saos.org.pl/judgments/13730) | Wyrok
-- 2013-06-03 | SO | [III AUz 206/13](https://www.saos.org.pl/judgments/15455) | Postanowienie
-- 2013-06-03 | SO | [V U 790/13](https://www.saos.org.pl/judgments/12746) | Wyrok
-- 2013-06-03 | SO | [V U 770/13](https://www.saos.org.pl/judgments/12743) | Wyrok
-- 2013-06-03 | SO | [V U 760/13](https://www.saos.org.pl/judgments/12742) | Wyrok
-- 2013-05-29 | SO | [V U 1103/13](https://www.saos.org.pl/judgments/16008) | Wyrok
-- 2013-05-29 | SO | [V U 588/13](https://www.saos.org.pl/judgments/12724) | Wyrok
 - 2013-05-28 | SO | [III AUa 110/13](https://www.saos.org.pl/judgments/28222) | Wyrok
 - 2013-05-28 | SO | [III AUa 219/13](https://www.saos.org.pl/judgments/18520) | Wyrok
-- 2013-05-28 | SO | [V U 676/13](https://www.saos.org.pl/judgments/15721) | Wyrok
-- 2013-05-28 | SO | [V U 675/13](https://www.saos.org.pl/judgments/15720) | Wyrok
-- 2013-05-28 | SO | [V U 655/13](https://www.saos.org.pl/judgments/15719) | Wyrok
-- 2013-05-28 | SO | [V U 665/13](https://www.saos.org.pl/judgments/15092) | Wyrok
-- 2013-05-28 | SO | [VIII U 601/13](https://www.saos.org.pl/judgments/13580) | Wyrok
-- 2013-05-28 | SO | [VIII U 607/13](https://www.saos.org.pl/judgments/12772) | Wyrok
-- 2013-05-28 | SO | [VIII U 604/13](https://www.saos.org.pl/judgments/12771) | Wyrok
-- 2013-05-28 | SO | [V U 771/13](https://www.saos.org.pl/judgments/12744) | Wyrok
-- 2013-05-28 | SO | [V U 739/13](https://www.saos.org.pl/judgments/12741) | Wyrok
-- 2013-05-28 | SO | [V U 724/13](https://www.saos.org.pl/judgments/12740) | Wyrok
-- 2013-05-28 | SO | [V U 685/13](https://www.saos.org.pl/judgments/12734) | Wyrok
-- 2013-05-28 | SO | [V U 602/13](https://www.saos.org.pl/judgments/12725) | Wyrok
-- 2013-05-28 | SO | [V U 603/13](https://www.saos.org.pl/judgments/12248) | Wyrok
-- 2013-05-27 | SO | [V U 781/13](https://www.saos.org.pl/judgments/12745) | Wyrok
-- 2013-05-27 | SO | [V U 701/13](https://www.saos.org.pl/judgments/12738) | Wyrok
-- 2013-05-27 | SO | [V U 730/13](https://www.saos.org.pl/judgments/12096) | Wyrok
-- 2013-05-27 | SO | [V U 710/13](https://www.saos.org.pl/judgments/12095) | Wyrok
-- 2013-05-27 | SO | [V U 700/13](https://www.saos.org.pl/judgments/12094) | Wyrok
-- 2013-05-27 | SO | [V U 680/13](https://www.saos.org.pl/judgments/12093) | Wyrok
-- 2013-05-23 | SO | [V U 694/13](https://www.saos.org.pl/judgments/12737) | Wyrok
-- 2013-05-23 | SO | [V U 691/13](https://www.saos.org.pl/judgments/12736) | Wyrok
-- 2013-05-23 | SO | [V U 689/13](https://www.saos.org.pl/judgments/12735) | Wyrok
-- 2013-05-23 | SO | [V U 659/13](https://www.saos.org.pl/judgments/12733) | Wyrok
 - 2013-05-21 | SO | [III AUa 979/12](https://www.saos.org.pl/judgments/30141) | Wyrok
-- 2013-05-21 | SO | [V U 636/13](https://www.saos.org.pl/judgments/12731) | Wyrok
-- 2013-05-21 | SO | [V U 626/13](https://www.saos.org.pl/judgments/12730) | Wyrok
-- 2013-05-21 | SO | [V U 625/13](https://www.saos.org.pl/judgments/12729) | Wyrok
-- 2013-05-21 | SO | [V U 616/13](https://www.saos.org.pl/judgments/12727) | Wyrok
-- 2013-05-21 | SO | [V U 605/13](https://www.saos.org.pl/judgments/12726) | Wyrok
-- 2013-05-21 | SO | [V U 585/13](https://www.saos.org.pl/judgments/12723) | Wyrok
 - 2013-05-20 | SO | [III AUa 1483/12](https://www.saos.org.pl/judgments/14925) | Wyrok
-- 2013-05-17 | SO | [V U 661/13](https://www.saos.org.pl/judgments/12250) | Wyrok
-- 2013-05-17 | SO | [V U 677/13](https://www.saos.org.pl/judgments/12092) | Wyrok
 - 2013-05-16 | SO | [III AUa 1146/12](https://www.saos.org.pl/judgments/15174) | Wyrok
-- 2013-05-16 | SO | [V U 649/13](https://www.saos.org.pl/judgments/14838) | Wyrok
-- 2013-05-15 | SO | [IV U 771/13](https://www.saos.org.pl/judgments/13129) | Wyrok
 - 2013-05-09 | SO | [III AUa 976/12](https://www.saos.org.pl/judgments/28231) | Wyrok
 - 2013-05-08 | SO | [III AUa 977/12](https://www.saos.org.pl/judgments/27794) | Wyrok
 - 2013-04-30 | SO | [III AUa 973/12](https://www.saos.org.pl/judgments/22934) | Wyrok
@@ -693,7 +451,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-04-24 | SO | [III AUa 974/12](https://www.saos.org.pl/judgments/11980) | Wyrok
 - 2013-04-23 | SO | [III AUa 978/12](https://www.saos.org.pl/judgments/21077) | Wyrok
 - 2013-04-18 | SO | [III AUa 191/13](https://www.saos.org.pl/judgments/11968) | Wyrok
-- 2013-04-17 | SO | [VII U 184/13](https://www.saos.org.pl/judgments/24870) | Wyrok
 - 2013-04-17 | SO | [III AUa 1448/12](https://www.saos.org.pl/judgments/13114) | Wyrok
 - 2013-04-16 | SO | [III AUa 813/12](https://www.saos.org.pl/judgments/11646) | Wyrok
 - 2013-04-11 | SO | [III AUa 179/13](https://www.saos.org.pl/judgments/8973) | Wyrok
@@ -701,15 +458,10 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-04-10 | SO | [III AUa 207/13](https://www.saos.org.pl/judgments/9875) | Wyrok
 - 2013-04-09 | SO | [III AUa 926/12](https://www.saos.org.pl/judgments/22810) | Wyrok
 - 2013-04-09 | SO | [III AUa 975/12](https://www.saos.org.pl/judgments/13360) | Wyrok
-- 2013-04-09 | SO | [V U 279/13](https://www.saos.org.pl/judgments/8822) | Wyrok
 - 2013-04-04 | SO | [III AUa 878/12](https://www.saos.org.pl/judgments/21705) | Wyrok
 - 2013-04-03 | SO | [III AUa 148/13](https://www.saos.org.pl/judgments/8874) | Wyrok
-- 2013-04-03 | SO | [V U 205/13](https://www.saos.org.pl/judgments/8820) | Wyrok
 - 2013-03-26 | SO | [III AUa 1379/12](https://www.saos.org.pl/judgments/10084) | Wyrok
 - 2013-03-26 | SO | [III AUa 1044/12](https://www.saos.org.pl/judgments/10044) | Wyrok
-- 2013-03-22 | SO | [IV U 32/13](https://www.saos.org.pl/judgments/47299) | Wyrok
-- 2013-03-20 | SO | [IV U 1266/12](https://www.saos.org.pl/judgments/20744) | Wyrok
-- 2013-03-20 | SO | [IV U 2001/12](https://www.saos.org.pl/judgments/11486) | Wyrok
 - 2013-03-20 | SO | [III AUa 848/12](https://www.saos.org.pl/judgments/11400) | Wyrok
 - 2013-03-20 | SO | [III AUa 1569/12](https://www.saos.org.pl/judgments/11387) | Wyrok
 - 2013-03-20 | SO | [III AUa 1566/12](https://www.saos.org.pl/judgments/11386) | Wyrok
@@ -719,19 +471,16 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-03-20 | SO | [III AUa 1831/12](https://www.saos.org.pl/judgments/9307) | Wyrok
 - 2013-03-20 | SO | [III AUa 100/13](https://www.saos.org.pl/judgments/8069) | Wyrok
 - 2013-03-20 | SO | [III AUa 65/13](https://www.saos.org.pl/judgments/7886) | Wyrok
-- 2013-03-14 | SO | [IV U 2834/12](https://www.saos.org.pl/judgments/11041) | Wyrok
 - 2013-03-13 | SO | [III AUa 1012/12](https://www.saos.org.pl/judgments/10043) | Wyrok
 - 2013-03-13 | SO | [III AUa 740/12](https://www.saos.org.pl/judgments/8361) | Wyrok
 - 2013-03-12 | SO | [III AUa 662/12](https://www.saos.org.pl/judgments/8982) | Wyrok
 - 2013-03-08 | SO | [III AUa 1051/12](https://www.saos.org.pl/judgments/9806) | Wyrok
-- 2013-03-06 | SO | [V U 1167/12](https://www.saos.org.pl/judgments/7476) | Wyrok
 - 2013-03-05 | SO | [III AUa 742/12](https://www.saos.org.pl/judgments/8362) | Wyrok
 - 2013-03-05 | SO | [III AUa 664/12](https://www.saos.org.pl/judgments/8357) | Wyrok
 - 2013-02-27 | SO | [III AUa 25/13](https://www.saos.org.pl/judgments/6656) | Wyrok
 - 2013-02-27 | SO | [III AUa 1122/12](https://www.saos.org.pl/judgments/6539) | Wyrok
 - 2013-02-21 | SO | [III AUa 1140/12](https://www.saos.org.pl/judgments/5935) | Wyrok
 - 2013-02-20 | SO | [III AUa 1098/12](https://www.saos.org.pl/judgments/9382) | Wyrok
-- 2013-02-14 | SO | [XI U 3567/12](https://www.saos.org.pl/judgments/176062) | Wyrok
 - 2013-02-14 | SO | [III AUa 1138/12](https://www.saos.org.pl/judgments/5662) | Wyrok
 - 2013-02-14 | SO | [III AUa 1159/12](https://www.saos.org.pl/judgments/5235) | Wyrok
 - 2013-02-14 | SO | [III AUa 1144/12](https://www.saos.org.pl/judgments/5234) | Wyrok
@@ -745,166 +494,86 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-01-24 | SO | [III AUa 931/12](https://www.saos.org.pl/judgments/10607) | Wyrok
 - 2013-01-23 | SO | [III AUa 1056/12](https://www.saos.org.pl/judgments/4502) | Wyrok
 - 2013-01-10 | SO | [III AUa 612/12](https://www.saos.org.pl/judgments/4515) | Wyrok
-- 2012-12-28 | SO | [IV U 1331/12](https://www.saos.org.pl/judgments/26338) | Wyrok
-- 2012-11-13 | TK | [K 2/12](https://www.saos.org.pl/judgments/110897) | Wyrok
 - 2012-10-30 | SO | [III AUa 694/12](https://www.saos.org.pl/judgments/2819) | Wyrok
 - 2012-10-23 | SO | [III AUa 209/12](https://www.saos.org.pl/judgments/2421) | Wyrok
 - 2012-10-19 | SO | [III AUa 345/12](https://www.saos.org.pl/judgments/696) | Wyrok
-- 2012-10-03 | SN | [III UZP 4/12](https://www.saos.org.pl/judgments/99230) | Uchwała
 - 2012-09-06 | SO | [III AUa 676/12](https://www.saos.org.pl/judgments/588) | Wyrok
 - 2012-06-27 | SO | [III AUa 352/12](https://www.saos.org.pl/judgments/1472) | Wyrok
 - 2012-05-30 | SO | [III AUa 208/12](https://www.saos.org.pl/judgments/533699) | Wyrok
-- 2012-03-29 | SN | [I UK 417/11](https://www.saos.org.pl/judgments/97654) | Postanowienie
-- 2011-06-07 | SN | [II UZP 3/11](https://www.saos.org.pl/judgments/95165) | Uchwała
-- 2011-03-03 | SN | [II UK 299/10](https://www.saos.org.pl/judgments/94349) | Wyrok
-- 2010-12-06 | SN | [II UK 149/10](https://www.saos.org.pl/judgments/93648) | Wyrok
-- 2010-07-15 | TK | [K 63/07](https://www.saos.org.pl/judgments/109684) | Wyrok
-- 2010-05-06 | SN | [III UK 91/09](https://www.saos.org.pl/judgments/165311) | Wyrok
+- 2014-02-20 | SO | [III AUa 688/13](https://www.saos.org.pl/judgments/38257) | Postanowienie
+- 2014-01-24 | SO | [III AUa 2856/13](https://www.saos.org.pl/judgments/39751) | Postanowienie
+- 2013-06-03 | SO | [III AUz 206/13](https://www.saos.org.pl/judgments/15455) | Postanowienie
+- 2016-04-26 | SO | [V U 1308/15](https://www.saos.org.pl/judgments/234045) | Wyrok
+- 2016-03-17 | SO | [V U 1038/15](https://www.saos.org.pl/judgments/220262) | Wyrok
+- 2016-02-23 | SO | [VII U 1323/15](https://www.saos.org.pl/judgments/219080) | Wyrok
+- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
+- 2014-10-29 | SO | [VII U 1573/14](https://www.saos.org.pl/judgments/226867) | Wyrok
+- 2014-07-04 | SO | [VII U 3540/13](https://www.saos.org.pl/judgments/213042) | Wyrok
+- 2013-10-15 | SO | [V U 813/13](https://www.saos.org.pl/judgments/27011) | Wyrok
+- 2013-08-27 | SO | [V U 802/13](https://www.saos.org.pl/judgments/22240) | Wyrok
+- 2013-07-18 | SO | [III U 523/13](https://www.saos.org.pl/judgments/19512) | Wyrok
+- 2013-06-25 | SO | [V U 744/13](https://www.saos.org.pl/judgments/17488) | Wyrok
+- 2013-06-25 | SO | [V U 764/13](https://www.saos.org.pl/judgments/16501) | Wyrok
+- 2013-06-18 | SO | [V U 722/13](https://www.saos.org.pl/judgments/16942) | Wyrok
+- 2013-06-18 | SO | [V U 644/13](https://www.saos.org.pl/judgments/16940) | Wyrok
+- 2013-06-11 | SO | [V U 672/13](https://www.saos.org.pl/judgments/16941) | Wyrok
+- 2013-06-04 | SO | [V U 592/13](https://www.saos.org.pl/judgments/15278) | Wyrok
+- 2013-06-04 | SO | [V U 544/13](https://www.saos.org.pl/judgments/15277) | Wyrok
+- 2013-06-04 | SO | [V U 584/13](https://www.saos.org.pl/judgments/14895) | Wyrok
+- 2013-03-14 | SO | [IV U 2834/12](https://www.saos.org.pl/judgments/11041) | Wyrok
+- 2014-04-30 | SO | [VIII U 867/14](https://www.saos.org.pl/judgments/44467) | Uzasadnienie
 
-## art. 40 (4)
+## art. 42 (23)
 
-- 2026-02-05 | SO | [VII Ka 940/25](https://www.saos.org.pl/judgments/544101) | Wyrok
-- 2021-02-05 | SO | [VII Ka 43/21](https://www.saos.org.pl/judgments/435878) | Wyrok
-- 2019-01-16 | SO | [VII Ka 1210/18](https://www.saos.org.pl/judgments/370288) | Wyrok
-- 2018-11-19 | SO | [VII Ka 932/18](https://www.saos.org.pl/judgments/364644) | Wyrok
-
-## art. 42 (29)
-
-- 2025-06-04 | SO | [VIII U 572/25](https://www.saos.org.pl/judgments/535450) | Uzasadnienie
-- 2025-05-20 | SO | [VIII U 2935/24](https://www.saos.org.pl/judgments/535432) | Uzasadnienie
 - 2025-01-29 | SO | [III AUa 619/24](https://www.saos.org.pl/judgments/530812) | Wyrok
 - 2025-01-28 | SO | [III AUa 896/23](https://www.saos.org.pl/judgments/539093) | Wyrok
 - 2025-01-22 | SO | [III AUa 99/24](https://www.saos.org.pl/judgments/539095) | Wyrok
 - 2024-09-05 | SO | [III AUa 1490/22](https://www.saos.org.pl/judgments/504764) | Wyrok
 - 2024-02-14 | SO | [III AUa 1599/22](https://www.saos.org.pl/judgments/504796) | Wyrok
 - 2023-05-10 | SO | [III AUa 782/21](https://www.saos.org.pl/judgments/492958) | Wyrok
+- 2022-04-27 | SO | [III AUa 760/21](https://www.saos.org.pl/judgments/467896) | Wyrok
+- 2022-04-07 | SO | [III AUa 951/21](https://www.saos.org.pl/judgments/525759) | Wyrok
+- 2019-12-03 | SO | [III AUa 934/19](https://www.saos.org.pl/judgments/417462) | Wyrok
+- 2018-08-07 | SO | [III AUa 612/18](https://www.saos.org.pl/judgments/355222) | Wyrok
+- 2018-07-10 | SO | [III AUa 1946/17](https://www.saos.org.pl/judgments/366758) | Wyrok
+- 2016-12-09 | SO | [III AUa 1308/16](https://www.saos.org.pl/judgments/272560) | Wyrok
+- 2016-06-02 | SO | [III AUa 560/15](https://www.saos.org.pl/judgments/247409) | Wyrok
+- 2015-10-09 | SO | [III AUa 714/15](https://www.saos.org.pl/judgments/184619) | Wyrok
+- 2014-03-12 | SO | [III AUa 783/13](https://www.saos.org.pl/judgments/45984) | Wyrok
+- 2017-05-26 | SO | [VII U 1621/16](https://www.saos.org.pl/judgments/315003) | Wyrok
+- 2025-06-04 | SO | [VIII U 572/25](https://www.saos.org.pl/judgments/535450) | Uzasadnienie
+- 2025-05-20 | SO | [VIII U 2935/24](https://www.saos.org.pl/judgments/535432) | Uzasadnienie
 - 2022-10-12 | SO | [VIII U 1137/20](https://www.saos.org.pl/judgments/476452) | Uzasadnienie
 - 2022-09-20 | SO | [VIII U 1530/21](https://www.saos.org.pl/judgments/476681) | Zarządzenie
 - 2022-07-25 | SO | [VIII U 2231/20](https://www.saos.org.pl/judgments/474738) | Zarządzenie
 - 2022-07-14 | SO | [VIII U 2720/21](https://www.saos.org.pl/judgments/470175) | Zarządzenie
 - 2022-07-05 | SO | [VIII U 2656/21](https://www.saos.org.pl/judgments/470174) | Uzasadnienie
-- 2022-06-29 | SO | [IV U 260/22](https://www.saos.org.pl/judgments/470985) | Wyrok
-- 2022-04-27 | SO | [III AUa 760/21](https://www.saos.org.pl/judgments/467896) | Wyrok
-- 2022-04-07 | SO | [III AUa 951/21](https://www.saos.org.pl/judgments/525759) | Wyrok
-- 2022-03-18 | SO | [VI U 171/22](https://www.saos.org.pl/judgments/477924) | Wyrok
-- 2019-12-03 | SO | [III AUa 934/19](https://www.saos.org.pl/judgments/417462) | Wyrok
-- 2018-10-31 | SO | [IV U 503/18](https://www.saos.org.pl/judgments/361175) | Wyrok
-- 2018-08-07 | SO | [III AUa 612/18](https://www.saos.org.pl/judgments/355222) | Wyrok
-- 2018-07-10 | SO | [III AUa 1946/17](https://www.saos.org.pl/judgments/366758) | Wyrok
-- 2017-05-26 | SO | [VII U 1621/16](https://www.saos.org.pl/judgments/315003) | Wyrok
-- 2016-12-09 | SO | [III AUa 1308/16](https://www.saos.org.pl/judgments/272560) | Wyrok
-- 2016-06-02 | SO | [III AUa 560/15](https://www.saos.org.pl/judgments/247409) | Wyrok
-- 2015-10-09 | SO | [III AUa 714/15](https://www.saos.org.pl/judgments/184619) | Wyrok
-- 2014-10-17 | SO | [IV U 216/14](https://www.saos.org.pl/judgments/69218) | Wyrok
-- 2014-10-10 | SO | [IV U 230/14](https://www.saos.org.pl/judgments/69220) | Wyrok
-- 2014-03-12 | SO | [III AUa 783/13](https://www.saos.org.pl/judgments/45984) | Wyrok
-- 2013-09-17 | SO | [IV U 508/13](https://www.saos.org.pl/judgments/25530) | Wyrok
 
 ## art. 43 (2)
 
-- 2022-01-10 | SO | [VIII U 1792/21](https://www.saos.org.pl/judgments/457307) | Uzasadnienie
 - 2016-12-09 | SO | [III AUa 1308/16](https://www.saos.org.pl/judgments/272560) | Wyrok
+- 2022-01-10 | SO | [VIII U 1792/21](https://www.saos.org.pl/judgments/457307) | Uzasadnienie
 
-## art. 45 (110)
+## art. 45 (42)
 
+- 2012-11-13 | TK | [K 2/12](https://www.saos.org.pl/judgments/110897) | Wyrok ★
+- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok ★
+- 2013-08-14 | SN | [III UK 117/12](https://www.saos.org.pl/judgments/102621) | Wyrok ★
+- 2012-03-29 | SN | [I UK 417/11](https://www.saos.org.pl/judgments/97654) | Postanowienie
 - 2018-07-26 | SO | [III AUa 21/17](https://www.saos.org.pl/judgments/364580) | Wyrok
-- 2016-03-17 | SO | [V U 1038/15](https://www.saos.org.pl/judgments/220262) | Wyrok
-- 2016-02-23 | SO | [VII U 1323/15](https://www.saos.org.pl/judgments/219080) | Wyrok
-- 2015-11-20 | SO | [VI P 441/14](https://www.saos.org.pl/judgments/195013) | Wyrok
 - 2015-10-15 | SO | [III AUa 760/15](https://www.saos.org.pl/judgments/184643) | Wyrok
 - 2015-09-22 | SO | [III AUa 573/15](https://www.saos.org.pl/judgments/184523) | Wyrok
-- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
 - 2015-01-14 | SO | [III AUa 1025/14](https://www.saos.org.pl/judgments/127383) | Wyrok
 - 2014-11-27 | SO | [III AUa 239/14](https://www.saos.org.pl/judgments/129061) | Wyrok
-- 2014-11-26 | SO | [VII U 1184/14](https://www.saos.org.pl/judgments/221725) | Wyrok
 - 2014-09-25 | SO | [III AUa 2913/13](https://www.saos.org.pl/judgments/69171) | Wyrok
-- 2014-09-22 | SO | [VIII U 1119/14](https://www.saos.org.pl/judgments/176820) | Zarządzenie
 - 2014-07-08 | SO | [III AUa 1428/13](https://www.saos.org.pl/judgments/55816) | Wyrok
 - 2014-03-13 | SO | [III AUa 748/13](https://www.saos.org.pl/judgments/48265) | Wyrok
 - 2014-01-30 | SO | [III AUa 496/13](https://www.saos.org.pl/judgments/34655) | Wyrok
-- 2014-01-27 | SO | [I C 204/13](https://www.saos.org.pl/judgments/143410) | Wyrok
-- 2014-01-24 | SO | [III AUa 2856/13](https://www.saos.org.pl/judgments/39751) | Postanowienie
-- 2014-01-09 | SO | [VIII U 890/13](https://www.saos.org.pl/judgments/34933) | Wyrok
 - 2013-12-17 | SO | [III AUa 530/13](https://www.saos.org.pl/judgments/31706) | Wyrok
-- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok
-- 2013-11-26 | SO | [VIII U 1658/13](https://www.saos.org.pl/judgments/28892) | Wyrok
 - 2013-11-22 | SO | [III AUa 1384/13](https://www.saos.org.pl/judgments/36121) | Wyrok
 - 2013-11-21 | SO | [III AUa 1374/13](https://www.saos.org.pl/judgments/32552) | Wyrok
 - 2013-11-20 | SO | [III AUa 1376/13](https://www.saos.org.pl/judgments/36120) | Wyrok
-- 2013-11-07 | SO | [VI U 2358/13](https://www.saos.org.pl/judgments/30196) | Wyrok
-- 2013-10-15 | SO | [V U 813/13](https://www.saos.org.pl/judgments/27011) | Wyrok
-- 2013-09-24 | SO | [IV U 920/13](https://www.saos.org.pl/judgments/28927) | Wyrok
 - 2013-09-18 | SO | [III AUa 305/13](https://www.saos.org.pl/judgments/21144) | Wyrok
-- 2013-09-03 | SO | [VII U 1408/13](https://www.saos.org.pl/judgments/21384) | Wyrok
-- 2013-08-27 | SO | [IV U 876/13](https://www.saos.org.pl/judgments/53395) | Wyrok
-- 2013-08-27 | SO | [VI U 1499/13](https://www.saos.org.pl/judgments/23682) | Wyrok
-- 2013-08-27 | SO | [VI U 1496/13](https://www.saos.org.pl/judgments/23681) | Wyrok
-- 2013-08-27 | SO | [V U 802/13](https://www.saos.org.pl/judgments/22240) | Wyrok
-- 2013-08-20 | SO | [VIII U 1110/13](https://www.saos.org.pl/judgments/20482) | Wyrok
-- 2013-08-14 | SN | [III UK 117/12](https://www.saos.org.pl/judgments/102621) | Wyrok
-- 2013-08-13 | SO | [VIII U 991/13](https://www.saos.org.pl/judgments/19495) | Wyrok
-- 2013-08-13 | SO | [VIII U 987/13](https://www.saos.org.pl/judgments/19494) | Wyrok
-- 2013-08-06 | SO | [VIII U 909/13](https://www.saos.org.pl/judgments/19573) | Wyrok
-- 2013-08-06 | SO | [VIII U 897/13](https://www.saos.org.pl/judgments/19493) | Wyrok
-- 2013-08-06 | SO | [VIII U 891/13](https://www.saos.org.pl/judgments/19492) | Wyrok
-- 2013-08-06 | SO | [VIII U 869/13](https://www.saos.org.pl/judgments/19491) | Wyrok
-- 2013-07-31 | SO | [IV U 402/13](https://www.saos.org.pl/judgments/66739) | Wyrok
-- 2013-07-30 | SO | [VIII U 779/13](https://www.saos.org.pl/judgments/19570) | Wyrok
-- 2013-07-22 | SO | [VII U 561/13](https://www.saos.org.pl/judgments/18992) | Wyrok
-- 2013-07-17 | SO | [VIII U 900/13](https://www.saos.org.pl/judgments/16948) | Wyrok
-- 2013-07-17 | SO | [VIII U 857/13](https://www.saos.org.pl/judgments/16947) | Wyrok
-- 2013-07-17 | SO | [VIII U 840/13](https://www.saos.org.pl/judgments/16946) | Wyrok
-- 2013-07-17 | SO | [VIII U 888/13](https://www.saos.org.pl/judgments/16880) | Wyrok
-- 2013-07-17 | SO | [VIII U 872/13](https://www.saos.org.pl/judgments/16879) | Wyrok
-- 2013-07-16 | SO | [IV U 811/13](https://www.saos.org.pl/judgments/66443) | Wyrok
-- 2013-07-16 | SO | [IV U 816/13](https://www.saos.org.pl/judgments/20763) | Wyrok
-- 2013-07-10 | SO | [VIII U 828/13](https://www.saos.org.pl/judgments/16028) | Wyrok
-- 2013-07-10 | SO | [VIII U 823/13](https://www.saos.org.pl/judgments/16027) | Wyrok
-- 2013-07-09 | SO | [IV U 523/13](https://www.saos.org.pl/judgments/26355) | Wyrok
-- 2013-07-09 | SO | [IV U 751/13](https://www.saos.org.pl/judgments/20762) | Wyrok
-- 2013-07-03 | SO | [VII U 1197/13](https://www.saos.org.pl/judgments/18990) | Wyrok
-- 2013-06-28 | SO | [IV U 727/13](https://www.saos.org.pl/judgments/46324) | Wyrok
-- 2013-06-25 | SO | [IV U 691/13](https://www.saos.org.pl/judgments/71331) | Wyrok
-- 2013-06-25 | SO | [IV U 701/13](https://www.saos.org.pl/judgments/67876) | Wyrok
-- 2013-06-25 | SO | [IV U 626/13](https://www.saos.org.pl/judgments/59499) | Wyrok
-- 2013-06-25 | SO | [IV U 641/13](https://www.saos.org.pl/judgments/53393) | Wyrok
-- 2013-06-25 | SO | [IV U 596/13](https://www.saos.org.pl/judgments/41748) | Wyrok
-- 2013-06-25 | SO | [IV U 591/13](https://www.saos.org.pl/judgments/20759) | Wyrok
-- 2013-06-25 | SO | [VIII U 830/13](https://www.saos.org.pl/judgments/19572) | Wyrok
-- 2013-06-25 | SO | [VIII U 825/13](https://www.saos.org.pl/judgments/19571) | Wyrok
-- 2013-06-25 | SO | [VIII U 752/13](https://www.saos.org.pl/judgments/19569) | Wyrok
-- 2013-06-25 | SO | [V U 744/13](https://www.saos.org.pl/judgments/17488) | Wyrok
-- 2013-06-25 | SO | [V U 764/13](https://www.saos.org.pl/judgments/16501) | Wyrok
-- 2013-06-25 | SO | [VIII U 698/13](https://www.saos.org.pl/judgments/15264) | Wyrok
-- 2013-06-19 | SO | [IV U 562/13](https://www.saos.org.pl/judgments/48321) | Wyrok
-- 2013-06-19 | SO | [IV U 582/13](https://www.saos.org.pl/judgments/45944) | Wyrok
-- 2013-06-18 | SO | [IV U 556/13](https://www.saos.org.pl/judgments/66441) | Wyrok
-- 2013-06-18 | SO | [IV U 566/13](https://www.saos.org.pl/judgments/41903) | Wyrok
-- 2013-06-18 | SO | [V U 722/13](https://www.saos.org.pl/judgments/16942) | Wyrok
-- 2013-06-18 | SO | [V U 644/13](https://www.saos.org.pl/judgments/16940) | Wyrok
-- 2013-06-18 | SO | [VIII U 758/13](https://www.saos.org.pl/judgments/15267) | Wyrok
-- 2013-06-18 | SO | [VIII U 745/13](https://www.saos.org.pl/judgments/15266) | Wyrok
-- 2013-06-18 | SO | [VIII U 684/13](https://www.saos.org.pl/judgments/14680) | Wyrok
-- 2013-06-14 | SO | [IV U 497/13](https://www.saos.org.pl/judgments/31766) | Wyrok
-- 2013-06-11 | SO | [IV U 506/13](https://www.saos.org.pl/judgments/41747) | Wyrok
-- 2013-06-11 | SO | [V U 672/13](https://www.saos.org.pl/judgments/16941) | Wyrok
-- 2013-06-06 | SO | [IV U 407/13](https://www.saos.org.pl/judgments/26801) | Uzasadnienie
-- 2013-06-04 | SO | [IV U 486/13](https://www.saos.org.pl/judgments/53388) | Wyrok
-- 2013-06-04 | SO | [IV U 467/13](https://www.saos.org.pl/judgments/31765) | Wyrok
-- 2013-06-04 | SO | [V U 592/13](https://www.saos.org.pl/judgments/15278) | Wyrok
-- 2013-06-04 | SO | [V U 544/13](https://www.saos.org.pl/judgments/15277) | Wyrok
-- 2013-06-04 | SO | [V U 584/13](https://www.saos.org.pl/judgments/14895) | Wyrok
-- 2013-06-03 | SO | [V U 790/13](https://www.saos.org.pl/judgments/12746) | Wyrok
-- 2013-06-03 | SO | [V U 770/13](https://www.saos.org.pl/judgments/12743) | Wyrok
-- 2013-06-03 | SO | [V U 760/13](https://www.saos.org.pl/judgments/12742) | Wyrok
-- 2013-05-28 | SO | [VIII U 601/13](https://www.saos.org.pl/judgments/13580) | Wyrok
-- 2013-05-28 | SO | [VIII U 607/13](https://www.saos.org.pl/judgments/12772) | Wyrok
-- 2013-05-28 | SO | [VIII U 604/13](https://www.saos.org.pl/judgments/12771) | Wyrok
-- 2013-05-27 | SO | [V U 701/13](https://www.saos.org.pl/judgments/12738) | Wyrok
-- 2013-05-27 | SO | [V U 730/13](https://www.saos.org.pl/judgments/12096) | Wyrok
-- 2013-05-27 | SO | [V U 710/13](https://www.saos.org.pl/judgments/12095) | Wyrok
-- 2013-05-27 | SO | [V U 700/13](https://www.saos.org.pl/judgments/12094) | Wyrok
-- 2013-05-27 | SO | [V U 680/13](https://www.saos.org.pl/judgments/12093) | Wyrok
 - 2013-05-16 | SO | [III AUa 1146/12](https://www.saos.org.pl/judgments/15174) | Wyrok
 - 2013-04-16 | SO | [III AUa 813/12](https://www.saos.org.pl/judgments/11646) | Wyrok
 - 2013-03-20 | SO | [III AUa 848/12](https://www.saos.org.pl/judgments/11400) | Wyrok
@@ -913,13 +582,12 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-03-05 | SO | [III AUa 664/12](https://www.saos.org.pl/judgments/8357) | Wyrok
 - 2013-02-13 | SO | [III AUa 1088/12](https://www.saos.org.pl/judgments/11370) | Wyrok
 - 2012-11-20 | SO | [III AUa 619/12](https://www.saos.org.pl/judgments/2664) | Wyrok
-- 2012-11-13 | TK | [K 2/12](https://www.saos.org.pl/judgments/110897) | Wyrok
 - 2012-10-30 | SO | [III AUa 694/12](https://www.saos.org.pl/judgments/2819) | Wyrok
 - 2012-05-30 | SO | [III AUa 208/12](https://www.saos.org.pl/judgments/533699) | Wyrok
-- 2012-03-29 | SN | [I UK 417/11](https://www.saos.org.pl/judgments/97654) | Postanowienie
-
-## art. 46 (12)
-
+- 2014-01-24 | SO | [III AUa 2856/13](https://www.saos.org.pl/judgments/39751) | Postanowienie
+- 2016-03-17 | SO | [V U 1038/15](https://www.saos.org.pl/judgments/220262) | Wyrok
+- 2016-02-23 | SO | [VII U 1323/15](https://www.saos.org.pl/judgments/219080) | Wyrok
+- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
 - 2013-10-15 | SO | [V U 813/13](https://www.saos.org.pl/judgments/27011) | Wyrok
 - 2013-08-27 | SO | [V U 802/13](https://www.saos.org.pl/judgments/22240) | Wyrok
 - 2013-06-25 | SO | [V U 744/13](https://www.saos.org.pl/judgments/17488) | Wyrok
@@ -930,23 +598,32 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-06-04 | SO | [V U 592/13](https://www.saos.org.pl/judgments/15278) | Wyrok
 - 2013-06-04 | SO | [V U 544/13](https://www.saos.org.pl/judgments/15277) | Wyrok
 - 2013-06-04 | SO | [V U 584/13](https://www.saos.org.pl/judgments/14895) | Wyrok
+
+## art. 46 (12)
+
 - 2013-03-13 | SO | [III AUa 87/13](https://www.saos.org.pl/judgments/9233) | Wyrok
 - 2013-02-13 | SO | [III AUa 1088/12](https://www.saos.org.pl/judgments/11370) | Wyrok
+- 2013-10-15 | SO | [V U 813/13](https://www.saos.org.pl/judgments/27011) | Wyrok
+- 2013-08-27 | SO | [V U 802/13](https://www.saos.org.pl/judgments/22240) | Wyrok
+- 2013-06-25 | SO | [V U 744/13](https://www.saos.org.pl/judgments/17488) | Wyrok
+- 2013-06-25 | SO | [V U 764/13](https://www.saos.org.pl/judgments/16501) | Wyrok
+- 2013-06-18 | SO | [V U 722/13](https://www.saos.org.pl/judgments/16942) | Wyrok
+- 2013-06-18 | SO | [V U 644/13](https://www.saos.org.pl/judgments/16940) | Wyrok
+- 2013-06-11 | SO | [V U 672/13](https://www.saos.org.pl/judgments/16941) | Wyrok
+- 2013-06-04 | SO | [V U 592/13](https://www.saos.org.pl/judgments/15278) | Wyrok
+- 2013-06-04 | SO | [V U 544/13](https://www.saos.org.pl/judgments/15277) | Wyrok
+- 2013-06-04 | SO | [V U 584/13](https://www.saos.org.pl/judgments/14895) | Wyrok
 
-## art. 103 (64)
+## art. 103 (55)
 
 - 2022-10-26 | SO | [III AUa 1217/20](https://www.saos.org.pl/judgments/477963) | Wyrok
 - 2017-08-04 | SO | [I ACa 872/16](https://www.saos.org.pl/judgments/325467) | Wyrok
 - 2016-11-03 | SO | [III AUa 462/16](https://www.saos.org.pl/judgments/256224) | Wyrok
-- 2016-08-08 | SO | [II C 352/16](https://www.saos.org.pl/judgments/398397) | Wyrok
 - 2016-06-07 | SO | [III AUa 1915/15](https://www.saos.org.pl/judgments/251931) | Wyrok
-- 2016-02-09 | SO | [II C 1130/13](https://www.saos.org.pl/judgments/398396) | Wyrok
 - 2015-10-29 | SO | [III AUa 1539/14](https://www.saos.org.pl/judgments/184209) | Wyrok
 - 2015-06-23 | SO | [III AUa 828/14](https://www.saos.org.pl/judgments/171736) | Wyrok
-- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
 - 2014-12-10 | SO | [III AUa 1534/14](https://www.saos.org.pl/judgments/134272) | Wyrok
 - 2014-09-25 | SO | [III AUa 38/14](https://www.saos.org.pl/judgments/72009) | Wyrok
-- 2014-06-18 | SO | [IX U 914/14](https://www.saos.org.pl/judgments/57011) | Wyrok
 - 2014-06-18 | SO | [III AUa 1205/13](https://www.saos.org.pl/judgments/55545) | Wyrok
 - 2014-06-10 | SO | [III AUa 1952/13](https://www.saos.org.pl/judgments/53728) | Wyrok
 - 2014-05-20 | SO | [III AUa 930/13](https://www.saos.org.pl/judgments/55558) | Wyrok
@@ -957,7 +634,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2014-01-09 | SO | [III AUa 1199/13](https://www.saos.org.pl/judgments/32413) | Wyrok
 - 2013-12-30 | SO | [III AUa 785/13](https://www.saos.org.pl/judgments/32835) | Wyrok
 - 2013-12-17 | SO | [III AUa 530/13](https://www.saos.org.pl/judgments/31706) | Wyrok
-- 2013-12-11 | SO | [VII U 1564/13](https://www.saos.org.pl/judgments/41007) | Wyrok
 - 2013-12-05 | SO | [III AUa 489/13](https://www.saos.org.pl/judgments/36551) | Wyrok
 - 2013-12-03 | SO | [III AUa 469/13](https://www.saos.org.pl/judgments/38546) | Wyrok
 - 2013-12-03 | SO | [III AUa 473/13](https://www.saos.org.pl/judgments/38252) | Wyrok
@@ -977,13 +653,8 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-09-18 | SO | [III AUa 640/13](https://www.saos.org.pl/judgments/22278) | Wyrok
 - 2013-09-17 | SO | [III AUa 1465/13](https://www.saos.org.pl/judgments/25976) | Wyrok
 - 2013-08-13 | SO | [III AUa 1281/12](https://www.saos.org.pl/judgments/19160) | Wyrok
-- 2013-07-15 | SO | [VII U 644/13](https://www.saos.org.pl/judgments/22247) | Wyrok
 - 2013-07-10 | SO | [III AUa 97/13](https://www.saos.org.pl/judgments/37275) | Wyrok
-- 2013-07-10 | SO | [VII U 654/13](https://www.saos.org.pl/judgments/27743) | Wyrok
-- 2013-07-10 | SO | [VII U 744/13](https://www.saos.org.pl/judgments/22248) | Wyrok
-- 2013-06-11 | SO | [VII U 591/13](https://www.saos.org.pl/judgments/17384) | Wyrok
 - 2013-05-28 | SO | [III AUa 219/13](https://www.saos.org.pl/judgments/18520) | Wyrok
-- 2013-04-17 | SO | [VII U 184/13](https://www.saos.org.pl/judgments/24870) | Wyrok
 - 2013-04-17 | SO | [III AUa 1448/12](https://www.saos.org.pl/judgments/13114) | Wyrok
 - 2013-04-16 | SO | [III AUa 813/12](https://www.saos.org.pl/judgments/11646) | Wyrok
 - 2013-03-20 | SO | [III AUa 1569/12](https://www.saos.org.pl/judgments/11387) | Wyrok
@@ -999,6 +670,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2012-07-25 | SO | [III AUa 626/12](https://www.saos.org.pl/judgments/1511) | Wyrok
 - 2012-04-19 | SO | [III AUa 100/12](https://www.saos.org.pl/judgments/1370) | Wyrok
 - 2012-04-12 | SO | [III AUa 135/12](https://www.saos.org.pl/judgments/12032) | Wyrok
+- 2015-06-09 | SO | [V U 382/15](https://www.saos.org.pl/judgments/159831) | Wyrok
 
 ## art. 103 § 2 (1)
 
@@ -1027,96 +699,34 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 
 - 2014-07-23 | SO | [III AUa 1187/13](https://www.saos.org.pl/judgments/56986) | Wyrok
 
-## (ogólnie) (369)
+## (ogólnie) (231)
 
-- 2026-02-13 | SO | [VII U 1490/25](https://www.saos.org.pl/judgments/542905) | Wyrok
-- 2026-01-15 | SO | [VII U 1903/25](https://www.saos.org.pl/judgments/542027) | Wyrok
-- 2025-12-15 | SO | [VII U 1660/25](https://www.saos.org.pl/judgments/540815) | Wyrok
-- 2025-06-14 | SO | [VII U 275/25](https://www.saos.org.pl/judgments/531924) | Wyrok
 - 2025-05-14 | SO | [III AUa 270/25](https://www.saos.org.pl/judgments/531035) | Wyrok
-- 2024-08-12 | SO | [VIII U 1785/23](https://www.saos.org.pl/judgments/519081) | Uzasadnienie
-- 2024-07-08 | SO | [VIII U 855/23](https://www.saos.org.pl/judgments/516115) | Uzasadnienie
-- 2023-12-07 | SO | [III U 454/23](https://www.saos.org.pl/judgments/507485) | Wyrok
-- 2023-10-04 | SO | [VII U 877/23](https://www.saos.org.pl/judgments/512243) | Wyrok
-- 2023-09-07 | SO | [VII U 866/23](https://www.saos.org.pl/judgments/512237) | Wyrok
-- 2023-08-07 | SO | [VIII U 787/23](https://www.saos.org.pl/judgments/514102) | Uzasadnienie
 - 2023-07-28 | SO | [III AUa 292/23](https://www.saos.org.pl/judgments/504891) | Wyrok
-- 2023-03-18 | SO | [VII U 1222/22](https://www.saos.org.pl/judgments/487471) | Wyrok
-- 2023-02-09 | SO | [VII U 1003/22](https://www.saos.org.pl/judgments/484209) | Wyrok
-- 2023-02-02 | SO | [VII U 1101/22](https://www.saos.org.pl/judgments/487469) | Wyrok
-- 2023-01-02 | SO | [VIII U 1282/22](https://www.saos.org.pl/judgments/481819) | Uzasadnienie
-- 2022-11-22 | SO | [VII U 618/22](https://www.saos.org.pl/judgments/480556) | Wyrok
-- 2022-10-27 | SO | [VII U 601/22](https://www.saos.org.pl/judgments/478210) | Wyrok
-- 2022-10-17 | SO | [VII U 1718/21](https://www.saos.org.pl/judgments/477171) | Wyrok
-- 2022-09-22 | SO | [VII U 627/22](https://www.saos.org.pl/judgments/477178) | Wyrok
-- 2022-09-15 | SO | [VII U 701/22](https://www.saos.org.pl/judgments/475933) | Wyrok
-- 2022-08-02 | SO | [VII U 189/22](https://www.saos.org.pl/judgments/473184) | Wyrok
-- 2022-07-21 | SO | [VII U 256/22](https://www.saos.org.pl/judgments/473314) | Wyrok
-- 2022-06-28 | SO | [II Ka 223/22](https://www.saos.org.pl/judgments/470222) | Wyrok
-- 2022-06-10 | SO | [VIII U 2494/21](https://www.saos.org.pl/judgments/471622) | Uzasadnienie
-- 2022-05-23 | SO | [VII U 1739/21](https://www.saos.org.pl/judgments/471175) | Wyrok
-- 2022-05-12 | SO | [VII U 1683/21](https://www.saos.org.pl/judgments/471173) | Wyrok
-- 2022-05-12 | SO | [VII U 1069/21](https://www.saos.org.pl/judgments/471161) | Wyrok
-- 2022-05-09 | SO | [VII U 1699/21](https://www.saos.org.pl/judgments/471174) | Wyrok
-- 2022-05-06 | SO | [VII U 67/22](https://www.saos.org.pl/judgments/471190) | Wyrok
-- 2022-05-06 | SO | [VII U 1088/21](https://www.saos.org.pl/judgments/471162) | Wyrok
-- 2022-05-05 | SO | [VII U 193/21](https://www.saos.org.pl/judgments/471179) | Wyrok
-- 2022-04-29 | SO | [VII U 1562/21](https://www.saos.org.pl/judgments/474332) | Wyrok
-- 2022-04-28 | SO | [VII U 19/22](https://www.saos.org.pl/judgments/470987) | Wyrok
 - 2022-04-26 | SO | [III AUa 399/21](https://www.saos.org.pl/judgments/471112) | Wyrok
-- 2022-04-08 | SO | [VII U 200/22](https://www.saos.org.pl/judgments/472974) | Wyrok
-- 2022-03-14 | SO | [VII U 845/20](https://www.saos.org.pl/judgments/465624) | Wyrok
-- 2021-02-10 | SO | [VIII U 770/20](https://www.saos.org.pl/judgments/440250) | Wyrok
-- 2021-02-03 | SO | [IX GC 870/18](https://www.saos.org.pl/judgments/523959) | Zarządzenie
-- 2020-12-11 | SO | [VIII U 1698/20](https://www.saos.org.pl/judgments/427337) | Uzasadnienie
 - 2019-11-27 | SO | [III AUa 477/19](https://www.saos.org.pl/judgments/448042) | Wyrok
 - 2019-05-23 | SO | [III AUa 831/18](https://www.saos.org.pl/judgments/383707) | Wyrok
-- 2019-02-14 | SO | [IV U 541/18](https://www.saos.org.pl/judgments/372141) | Wyrok
-- 2019-01-31 | SO | [VIII U 2586/17](https://www.saos.org.pl/judgments/381949) | Uzasadnienie
-- 2019-01-24 | SO | [VII U 505/18](https://www.saos.org.pl/judgments/387008) | Wyrok
-- 2019-01-11 | SO | [VII U 1326/18](https://www.saos.org.pl/judgments/386950) | Wyrok
 - 2018-12-18 | SO | [III AUa 1109/17](https://www.saos.org.pl/judgments/374532) | Wyrok
 - 2018-11-22 | SO | [III AUa 297/18](https://www.saos.org.pl/judgments/369543) | Wyrok
 - 2018-11-21 | SO | [III AUa 289/18](https://www.saos.org.pl/judgments/383696) | Wyrok
-- 2018-09-18 | SO | [VIII U 1503/18](https://www.saos.org.pl/judgments/430308) | Wyrok
-- 2018-05-23 | SO | [VII U 421/18](https://www.saos.org.pl/judgments/376002) | Wyrok
 - 2018-03-08 | SO | [III AUa 1214/16](https://www.saos.org.pl/judgments/338305) | Wyrok
 - 2018-02-27 | SO | [III AUa 694/17](https://www.saos.org.pl/judgments/340180) | Wyrok
 - 2018-02-20 | SO | [III AUa 1354/17](https://www.saos.org.pl/judgments/343334) | Wyrok
-- 2017-11-27 | SO | [VI Ka 1154/16](https://www.saos.org.pl/judgments/326446) | Wyrok
-- 2017-11-08 | SO | [VII U 797/16](https://www.saos.org.pl/judgments/323131) | Wyrok
 - 2017-10-18 | SO | [III AUa 1752/15](https://www.saos.org.pl/judgments/316423) | Wyrok
 - 2017-07-04 | SO | [III AUa 715/16](https://www.saos.org.pl/judgments/296252) | Wyrok
-- 2017-06-29 | SO | [VIII U 776/17](https://www.saos.org.pl/judgments/296443) | Zarządzenie
 - 2017-03-29 | SO | [III AUa 1447/15](https://www.saos.org.pl/judgments/292999) | Wyrok
-- 2017-03-02 | SO | [IV U 825/16](https://www.saos.org.pl/judgments/276570) | Wyrok
-- 2017-03-02 | SO | [IV U 39/17](https://www.saos.org.pl/judgments/276564) | Wyrok
-- 2016-11-10 | SO | [VII U 373/16](https://www.saos.org.pl/judgments/259729) | Wyrok
-- 2016-10-28 | SO | [III U 133/16](https://www.saos.org.pl/judgments/276449) | Wyrok
-- 2016-09-01 | SO | [VII U 486/16](https://www.saos.org.pl/judgments/256383) | Wyrok
-- 2016-08-11 | SO | [VIII U 985/16](https://www.saos.org.pl/judgments/251626) | Wyrok
-- 2016-06-17 | SO | [VIII U 314/16](https://www.saos.org.pl/judgments/231022) | Uzasadnienie
 - 2016-05-17 | SO | [III AUa 712/15](https://www.saos.org.pl/judgments/246472) | Wyrok
 - 2016-04-15 | SO | [III AUa 647/15](https://www.saos.org.pl/judgments/255176) | Wyrok
 - 2016-01-26 | SO | [III AUa 101/15](https://www.saos.org.pl/judgments/221400) | Wyrok
-- 2015-12-16 | SO | [IV U 1016/14](https://www.saos.org.pl/judgments/212185) | Wyrok
 - 2015-11-24 | SO | [III AUa 137/15](https://www.saos.org.pl/judgments/216727) | Wyrok
-- 2015-10-09 | SO | [III U 660/15](https://www.saos.org.pl/judgments/186053) | Wyrok
 - 2015-09-23 | SO | [III AUa 80/15](https://www.saos.org.pl/judgments/184670) | Wyrok
 - 2015-06-30 | SO | [III AUa 859/14](https://www.saos.org.pl/judgments/184695) | Wyrok
 - 2015-06-17 | SO | [III AUa 118/15](https://www.saos.org.pl/judgments/169438) | Wyrok
-- 2015-05-28 | SO | [VIII U 3961/14](https://www.saos.org.pl/judgments/156173) | Wyrok
-- 2015-04-14 | SO | [IV U 474/14](https://www.saos.org.pl/judgments/176737) | Wyrok
 - 2015-03-18 | SO | [III AUa 48/15](https://www.saos.org.pl/judgments/135419) | Wyrok
-- 2015-03-06 | SO | [II Ca 2439/14](https://www.saos.org.pl/judgments/398924) | Wyrok
-- 2015-02-09 | SO | [VIII U 6033/14](https://www.saos.org.pl/judgments/131897) | Wyrok
 - 2014-12-09 | SO | [III AUa 163/14](https://www.saos.org.pl/judgments/127821) | Wyrok
 - 2014-11-13 | SO | [III AUa 42/14](https://www.saos.org.pl/judgments/73795) | Wyrok
 - 2014-11-05 | SO | [III AUa 2358/13](https://www.saos.org.pl/judgments/72546) | Wyrok
-- 2014-11-03 | SO | [III U 854/14](https://www.saos.org.pl/judgments/69181) | Wyrok
 - 2014-10-28 | SO | [III AUa 2646/13](https://www.saos.org.pl/judgments/72445) | Wyrok
-- 2014-10-03 | SO | [III U 887/14](https://www.saos.org.pl/judgments/65367) | Wyrok
-- 2014-09-08 | SO | [V U 1966/14](https://www.saos.org.pl/judgments/67336) | Wyrok
 - 2014-07-30 | SO | [III AUa 200/14](https://www.saos.org.pl/judgments/61370) | Wyrok
 - 2014-07-09 | SO | [III AUa 1863/13](https://www.saos.org.pl/judgments/73948) | Wyrok
 - 2014-07-03 | SO | [III AUa 1125/13](https://www.saos.org.pl/judgments/63645) | Wyrok
@@ -1143,211 +753,89 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2014-04-16 | SO | [III AUa 831/13](https://www.saos.org.pl/judgments/45443) | Wyrok
 - 2014-04-04 | SO | [III AUa 1122/13](https://www.saos.org.pl/judgments/51259) | Wyrok
 - 2014-03-13 | SO | [III AUa 740/13](https://www.saos.org.pl/judgments/40653) | Wyrok
-- 2014-03-07 | SO | [VII U 1831/13](https://www.saos.org.pl/judgments/125657) | Wyrok
-- 2014-03-04 | SO | [V U 112/14](https://www.saos.org.pl/judgments/44490) | Wyrok
 - 2014-02-20 | SO | [III AUa 477/13](https://www.saos.org.pl/judgments/39901) | Wyrok
 - 2014-02-11 | SO | [III AUa 698/13](https://www.saos.org.pl/judgments/38343) | Wyrok
 - 2014-02-06 | SO | [III AUa 648/13](https://www.saos.org.pl/judgments/45896) | Wyrok
-- 2014-01-29 | SO | [III U 21/14](https://www.saos.org.pl/judgments/34282) | Uzasadnienie
 - 2014-01-28 | SO | [III AUa 622/13](https://www.saos.org.pl/judgments/45436) | Wyrok
 - 2014-01-28 | SO | [III AUa 619/13](https://www.saos.org.pl/judgments/37499) | Wyrok
 - 2014-01-16 | SO | [III AUa 1011/13](https://www.saos.org.pl/judgments/43881) | Wyrok
 - 2014-01-15 | SO | [III AUa 1152/13](https://www.saos.org.pl/judgments/32411) | Wyrok
 - 2014-01-10 | SO | [III AUa 2578/13](https://www.saos.org.pl/judgments/38045) | Wyrok
 - 2014-01-09 | SO | [III AUa 721/13](https://www.saos.org.pl/judgments/31254) | Wyrok
-- 2013-12-18 | SO | [III U 1389/13](https://www.saos.org.pl/judgments/29575) | Uzasadnienie
 - 2013-12-17 | SO | [III AUa 523/13](https://www.saos.org.pl/judgments/43105) | Wyrok
-- 2013-12-12 | SO | [VI U 1231/13](https://www.saos.org.pl/judgments/37350) | Wyrok
 - 2013-12-11 | SO | [III AUa 504/13](https://www.saos.org.pl/judgments/35206) | Wyrok
-- 2013-12-10 | SO | [VI U 1577/13](https://www.saos.org.pl/judgments/37351) | Wyrok
 - 2013-12-05 | SO | [III AUa 1056/13](https://www.saos.org.pl/judgments/29970) | Wyrok
 - 2013-12-05 | SO | [III AUa 634/13](https://www.saos.org.pl/judgments/28613) | Wyrok
 - 2013-12-04 | SO | [III AUa 1047/13](https://www.saos.org.pl/judgments/29005) | Wyrok
 - 2013-11-28 | SO | [III AUa 579/13](https://www.saos.org.pl/judgments/36808) | Wyrok
-- 2013-11-27 | SO | [VI U 1347/13](https://www.saos.org.pl/judgments/28689) | Wyrok
 - 2013-11-21 | SO | [III AUa 996/13](https://www.saos.org.pl/judgments/27797) | Wyrok
 - 2013-11-20 | SO | [III AUa 782/13](https://www.saos.org.pl/judgments/26211) | Wyrok
 - 2013-11-19 | SO | [III AUa 399/13](https://www.saos.org.pl/judgments/41280) | Wyrok
-- 2013-11-19 | SO | [VI U 1404/13](https://www.saos.org.pl/judgments/34905) | Wyrok
 - 2013-11-19 | SO | [III AUa 398/13](https://www.saos.org.pl/judgments/31693) | Wyrok
 - 2013-11-12 | SO | [III AUa 543/13](https://www.saos.org.pl/judgments/25583) | Wyrok
 - 2013-11-06 | SO | [III AUa 934/13](https://www.saos.org.pl/judgments/31944) | Wyrok
 - 2013-11-06 | SO | [III AUa 904/13](https://www.saos.org.pl/judgments/27408) | Wyrok
-- 2013-11-05 | SO | [VI U 1149/13](https://www.saos.org.pl/judgments/34903) | Wyrok
 - 2013-11-05 | SO | [III AUa 384/13](https://www.saos.org.pl/judgments/34267) | Wyrok
-- 2013-11-05 | SO | [III U 1099/13](https://www.saos.org.pl/judgments/25585) | Wyrok
-- 2013-10-29 | SO | [VI U 35/13](https://www.saos.org.pl/judgments/35588) | Wyrok
-- 2013-10-29 | SO | [VI U 19/13](https://www.saos.org.pl/judgments/34912) | Wyrok
-- 2013-10-29 | SO | [VI U 155/13](https://www.saos.org.pl/judgments/34911) | Wyrok
-- 2013-10-29 | SO | [VI U 1449/13](https://www.saos.org.pl/judgments/34908) | Wyrok
 - 2013-10-24 | SO | [III AUa 816/13](https://www.saos.org.pl/judgments/25705) | Wyrok
 - 2013-10-17 | SO | [III AUa 851/13](https://www.saos.org.pl/judgments/23316) | Wyrok
 - 2013-10-16 | SO | [III AUa 436/13](https://www.saos.org.pl/judgments/23137) | Wyrok
-- 2013-10-15 | SO | [VI U 1311/13](https://www.saos.org.pl/judgments/29852) | Uzasadnienie
-- 2013-10-14 | SO | [VI U 1821/13](https://www.saos.org.pl/judgments/29360) | Uzasadnienie
 - 2013-10-10 | SO | [III AUa 458/13](https://www.saos.org.pl/judgments/385681) | Wyrok
-- 2013-10-10 | SO | [VI U 1442/13](https://www.saos.org.pl/judgments/29854) | Uzasadnienie
-- 2013-10-10 | SO | [VI U 1569/13](https://www.saos.org.pl/judgments/29594) | Uzasadnienie
 - 2013-10-10 | SO | [III AUa 450/13](https://www.saos.org.pl/judgments/23141) | Wyrok
 - 2013-10-10 | SO | [III AUa 438/13](https://www.saos.org.pl/judgments/23139) | Wyrok
 - 2013-10-10 | SO | [III AUa 437/13](https://www.saos.org.pl/judgments/23138) | Wyrok
 - 2013-10-10 | SO | [III AUa 435/13](https://www.saos.org.pl/judgments/23136) | Wyrok
 - 2013-10-09 | SO | [III AUa 421/13](https://www.saos.org.pl/judgments/23132) | Wyrok
-- 2013-10-07 | SO | [VI U 920/13](https://www.saos.org.pl/judgments/26982) | Wyrok
-- 2013-09-30 | SO | [V U 827/13](https://www.saos.org.pl/judgments/27105) | Wyrok
 - 2013-09-26 | SO | [III AUa 399/13](https://www.saos.org.pl/judgments/22916) | Wyrok
 - 2013-09-26 | SO | [III AUa 843/13](https://www.saos.org.pl/judgments/22059) | Wyrok
 - 2013-09-26 | SO | [III AUa 844/13](https://www.saos.org.pl/judgments/21831) | Wyrok
 - 2013-09-24 | SO | [III AUa 243/13](https://www.saos.org.pl/judgments/22897) | Wyrok
 - 2013-09-19 | SO | [III AUa 381/13](https://www.saos.org.pl/judgments/21565) | Wyrok
-- 2013-09-18 | SO | [V U 1295/13](https://www.saos.org.pl/judgments/28466) | Wyrok
-- 2013-09-18 | SO | [V U 1438/13](https://www.saos.org.pl/judgments/28261) | Wyrok
-- 2013-09-16 | SO | [VI U 713/13](https://www.saos.org.pl/judgments/31170) | Wyrok
-- 2013-09-16 | SO | [VI U 720/13](https://www.saos.org.pl/judgments/22303) | Wyrok
-- 2013-09-16 | SO | [VI U 704/13](https://www.saos.org.pl/judgments/21758) | Wyrok
-- 2013-09-16 | SO | [VI U 703/13](https://www.saos.org.pl/judgments/21757) | Wyrok
-- 2013-09-10 | SO | [III U 807/13](https://www.saos.org.pl/judgments/44278) | Wyrok
-- 2013-09-09 | SO | [VI U 632/13](https://www.saos.org.pl/judgments/20784) | Wyrok
 - 2013-09-04 | SO | [III AUa 228/13](https://www.saos.org.pl/judgments/21562) | Wyrok
 - 2013-09-04 | SO | [III AUa 226/13](https://www.saos.org.pl/judgments/21134) | Wyrok
 - 2013-09-04 | SO | [III AUa 225/13](https://www.saos.org.pl/judgments/21133) | Wyrok
 - 2013-09-04 | SO | [III AUa 221/13](https://www.saos.org.pl/judgments/20535) | Wyrok
-- 2013-09-03 | SO | [VI U 671/13](https://www.saos.org.pl/judgments/20785) | Wyrok
-- 2013-08-30 | SO | [IV U 1210/12](https://www.saos.org.pl/judgments/23919) | Wyrok
-- 2013-08-28 | SO | [III U 869/13](https://www.saos.org.pl/judgments/25593) | Wyrok
 - 2013-08-28 | SO | [III AUa 596/13](https://www.saos.org.pl/judgments/20717) | Wyrok
 - 2013-08-28 | SO | [III AUa 700/13](https://www.saos.org.pl/judgments/19358) | Wyrok
 - 2013-08-28 | SO | [III AUa 573/13](https://www.saos.org.pl/judgments/19356) | Wyrok
 - 2013-08-28 | SO | [III AUa 565/13](https://www.saos.org.pl/judgments/19355) | Wyrok
 - 2013-08-27 | SO | [III AUa 192/13](https://www.saos.org.pl/judgments/19661) | Wyrok
 - 2013-08-27 | SO | [III AUa 191/13](https://www.saos.org.pl/judgments/19660) | Wyrok
-- 2013-08-26 | SO | [VI U 685/13](https://www.saos.org.pl/judgments/19713) | Wyrok
 - 2013-08-21 | SO | [III AUa 569/13](https://www.saos.org.pl/judgments/18918) | Wyrok
-- 2013-08-20 | SO | [V U 956/13](https://www.saos.org.pl/judgments/18387) | Wyrok
-- 2013-08-14 | SO | [III U 776/13](https://www.saos.org.pl/judgments/44276) | Wyrok
-- 2013-08-14 | SO | [III U 814/13](https://www.saos.org.pl/judgments/19840) | Wyrok
-- 2013-08-14 | SO | [III U 790/13](https://www.saos.org.pl/judgments/18561) | Wyrok
-- 2013-08-13 | SO | [V U 936/13](https://www.saos.org.pl/judgments/18385) | Wyrok
-- 2013-08-13 | SO | [V U 851/13](https://www.saos.org.pl/judgments/18381) | Wyrok
-- 2013-08-08 | SO | [III U 634/13](https://www.saos.org.pl/judgments/48759) | Wyrok
-- 2013-08-08 | SO | [III U 828/13](https://www.saos.org.pl/judgments/18562) | Wyrok
-- 2013-08-08 | SO | [III U 708/13](https://www.saos.org.pl/judgments/18558) | Wyrok
 - 2013-08-07 | SO | [III AUa 546/13](https://www.saos.org.pl/judgments/18149) | Wyrok
 - 2013-08-07 | SO | [III AUa 545/13](https://www.saos.org.pl/judgments/17885) | Wyrok
 - 2013-08-07 | SO | [III AUa 540/13](https://www.saos.org.pl/judgments/17883) | Wyrok
 - 2013-08-07 | SO | [III AUa 539/13](https://www.saos.org.pl/judgments/17882) | Wyrok
-- 2013-08-06 | SO | [III U 850/13](https://www.saos.org.pl/judgments/18564) | Wyrok
-- 2013-07-31 | SO | [VII U 1183/13](https://www.saos.org.pl/judgments/19472) | Wyrok
-- 2013-07-31 | SO | [VII U 1159/13](https://www.saos.org.pl/judgments/19471) | Wyrok
 - 2013-07-31 | SO | [III AUa 525/13](https://www.saos.org.pl/judgments/18147) | Wyrok
-- 2013-07-24 | SO | [III U 813/13](https://www.saos.org.pl/judgments/45265) | Wyrok
-- 2013-07-24 | SO | [III U 775/13](https://www.saos.org.pl/judgments/44275) | Wyrok
 - 2013-07-24 | SO | [III AUa 526/13](https://www.saos.org.pl/judgments/33557) | Wyrok
-- 2013-07-17 | SO | [VII U 1279/13](https://www.saos.org.pl/judgments/19477) | Wyrok
-- 2013-07-17 | SO | [VII U 1127/13](https://www.saos.org.pl/judgments/19470) | Wyrok
-- 2013-07-17 | SO | [VII U 1119/13](https://www.saos.org.pl/judgments/19469) | Wyrok
-- 2013-07-17 | SO | [VII U 1031/13](https://www.saos.org.pl/judgments/19465) | Wyrok
 - 2013-07-17 | SO | [III AUa 395/13](https://www.saos.org.pl/judgments/16640) | Wyrok
-- 2013-07-12 | SO | [VI U 588/13](https://www.saos.org.pl/judgments/19712) | Wyrok
-- 2013-07-10 | SO | [VI U 496/13](https://www.saos.org.pl/judgments/19711) | Wyrok
 - 2013-07-10 | SO | [III AUa 500/13](https://www.saos.org.pl/judgments/15991) | Wyrok
-- 2013-07-09 | SO | [III U 805/13](https://www.saos.org.pl/judgments/16931) | Wyrok
-- 2013-07-05 | SO | [III U 567/13](https://www.saos.org.pl/judgments/44252) | Wyrok
-- 2013-07-04 | SO | [III U 656/13](https://www.saos.org.pl/judgments/44264) | Wyrok
-- 2013-07-04 | SO | [III U 593/13](https://www.saos.org.pl/judgments/44253) | Wyrok
 - 2013-07-04 | SO | [III AUa 473/13](https://www.saos.org.pl/judgments/15549) | Wyrok
-- 2013-07-03 | SO | [VII U 1056/13](https://www.saos.org.pl/judgments/19467) | Wyrok
-- 2013-07-03 | SO | [VI U 542/13](https://www.saos.org.pl/judgments/15510) | Wyrok
-- 2013-06-27 | SO | [V U 793/13](https://www.saos.org.pl/judgments/15497) | Wyrok
-- 2013-06-27 | SO | [V U 799/13](https://www.saos.org.pl/judgments/14660) | Wyrok
-- 2013-06-27 | SO | [V U 786/13](https://www.saos.org.pl/judgments/14659) | Wyrok
-- 2013-06-26 | SO | [III U 693/13](https://www.saos.org.pl/judgments/44270) | Wyrok
-- 2013-06-26 | SO | [III U 704/13](https://www.saos.org.pl/judgments/16927) | Wyrok
 - 2013-06-26 | SO | [III AUa 457/13](https://www.saos.org.pl/judgments/15989) | Wyrok
 - 2013-06-26 | SO | [III AUa 446/13](https://www.saos.org.pl/judgments/15341) | Wyrok
-- 2013-06-21 | SO | [III U 651/13](https://www.saos.org.pl/judgments/52705) | Wyrok
-- 2013-06-21 | SO | [III U 639/13](https://www.saos.org.pl/judgments/44261) | Wyrok
-- 2013-06-21 | SO | [III U 640/13](https://www.saos.org.pl/judgments/14747) | Wyrok
-- 2013-06-21 | SO | [III U 626/13](https://www.saos.org.pl/judgments/14746) | Wyrok
-- 2013-06-20 | SO | [III U 747/13](https://www.saos.org.pl/judgments/44274) | Wyrok
 - 2013-06-20 | SO | [III AUa 429/13](https://www.saos.org.pl/judgments/15446) | Wyrok
-- 2013-06-19 | SO | [III U 663/13](https://www.saos.org.pl/judgments/44267) | Wyrok
-- 2013-06-19 | SO | [VII U 1004/13](https://www.saos.org.pl/judgments/18989) | Wyrok
 - 2013-06-19 | SO | [III AUa 273/13](https://www.saos.org.pl/judgments/15666) | Wyrok
 - 2013-06-19 | SO | [III AUa 419/13](https://www.saos.org.pl/judgments/14829) | Wyrok
-- 2013-06-18 | SO | [III U 606/13](https://www.saos.org.pl/judgments/44254) | Wyrok
-- 2013-06-18 | SO | [V U 754/13](https://www.saos.org.pl/judgments/14317) | Wyrok
-- 2013-06-18 | SO | [V U 728/13](https://www.saos.org.pl/judgments/14314) | Wyrok
-- 2013-06-18 | SO | [V U 721/13](https://www.saos.org.pl/judgments/14311) | Wyrok
-- 2013-06-18 | SO | [V U 708/13](https://www.saos.org.pl/judgments/14309) | Wyrok
-- 2013-06-18 | SO | [V U 689/13](https://www.saos.org.pl/judgments/14307) | Wyrok
-- 2013-06-17 | SO | [III U 684/13](https://www.saos.org.pl/judgments/30719) | Wyrok
-- 2013-06-17 | SO | [III U 750/13](https://www.saos.org.pl/judgments/14749) | Wyrok
-- 2013-06-13 | SO | [III U 655/13](https://www.saos.org.pl/judgments/21333) | Wyrok
-- 2013-06-13 | SO | [VII U 1509/12](https://www.saos.org.pl/judgments/16823) | Wyrok
-- 2013-06-13 | SO | [III U 687/13](https://www.saos.org.pl/judgments/14158) | Wyrok
-- 2013-06-13 | SO | [V U 904/13](https://www.saos.org.pl/judgments/13163) | Wyrok
-- 2013-06-13 | SO | [V U 682/13](https://www.saos.org.pl/judgments/13158) | Wyrok
-- 2013-06-13 | SO | [V U 663/13](https://www.saos.org.pl/judgments/13155) | Wyrok
-- 2013-06-13 | SO | [V U 643/13](https://www.saos.org.pl/judgments/13153) | Wyrok
-- 2013-06-12 | SO | [III U 679/13](https://www.saos.org.pl/judgments/44269) | Wyrok
-- 2013-06-12 | SO | [III U 678/13](https://www.saos.org.pl/judgments/14157) | Wyrok
-- 2013-06-11 | SO | [III U 659/13](https://www.saos.org.pl/judgments/44265) | Wyrok
-- 2013-06-11 | SO | [V U 624/13](https://www.saos.org.pl/judgments/13151) | Wyrok
-- 2013-06-11 | SO | [V U 591/13](https://www.saos.org.pl/judgments/13149) | Wyrok
-- 2013-06-11 | SO | [V U 578/13](https://www.saos.org.pl/judgments/13148) | Wyrok
-- 2013-06-11 | SO | [V U 617/13](https://www.saos.org.pl/judgments/12728) | Wyrok
-- 2013-06-11 | SO | [V U 572/13](https://www.saos.org.pl/judgments/12722) | Wyrok
-- 2013-06-11 | SO | [III U 688/13](https://www.saos.org.pl/judgments/12545) | Wyrok
-- 2013-06-07 | SO | [V U 669/13](https://www.saos.org.pl/judgments/13156) | Wyrok
-- 2013-06-07 | SO | [V U 747/13](https://www.saos.org.pl/judgments/12502) | Wyrok
-- 2013-06-07 | SO | [V U 650/13](https://www.saos.org.pl/judgments/12501) | Wyrok
-- 2013-06-07 | SO | [V U 637/13](https://www.saos.org.pl/judgments/12500) | Wyrok
-- 2013-06-07 | SO | [V U 630/13](https://www.saos.org.pl/judgments/12499) | Wyrok
-- 2013-06-07 | SO | [V U 611/13](https://www.saos.org.pl/judgments/12498) | Wyrok
-- 2013-06-06 | SO | [III U 620/13](https://www.saos.org.pl/judgments/56195) | Wyrok
-- 2013-06-06 | SO | [III U 622/13](https://www.saos.org.pl/judgments/44260) | Wyrok
 - 2013-06-06 | SO | [III AUa 400/13](https://www.saos.org.pl/judgments/15987) | Wyrok
-- 2013-06-06 | SO | [III U 629/13](https://www.saos.org.pl/judgments/15470) | Wyrok
-- 2013-06-06 | SO | [III U 642/13](https://www.saos.org.pl/judgments/12544) | Wyrok
-- 2013-06-05 | SO | [VII U 940/13](https://www.saos.org.pl/judgments/19367) | Wyrok
-- 2013-06-05 | SO | [VII U 932/13](https://www.saos.org.pl/judgments/18660) | Wyrok
-- 2013-06-05 | SO | [V U 858/13](https://www.saos.org.pl/judgments/13161) | Wyrok
-- 2013-06-05 | SO | [V U 565/13](https://www.saos.org.pl/judgments/13147) | Wyrok
 - 2013-06-04 | SO | [III AUa 383/13](https://www.saos.org.pl/judgments/15985) | Wyrok
-- 2013-06-04 | SO | [VI U 657/13](https://www.saos.org.pl/judgments/14862) | Wyrok
 - 2013-06-04 | SO | [III AUa 391/13](https://www.saos.org.pl/judgments/13722) | Wyrok
-- 2013-06-03 | SO | [III U 588/13](https://www.saos.org.pl/judgments/30714) | Wyrok
 - 2013-05-29 | SO | [III AUa 365/13](https://www.saos.org.pl/judgments/15338) | Wyrok
 - 2013-05-29 | SO | [III AUa 378/13](https://www.saos.org.pl/judgments/12137) | Wyrok
-- 2013-05-28 | SO | [V U 526/13](https://www.saos.org.pl/judgments/12247) | Wyrok
-- 2013-05-28 | SO | [V U 513/13](https://www.saos.org.pl/judgments/12246) | Wyrok
 - 2013-05-23 | SO | [III AUa 354/13](https://www.saos.org.pl/judgments/15337) | Wyrok
 - 2013-05-23 | SO | [III AUa 351/13](https://www.saos.org.pl/judgments/12067) | Wyrok
 - 2013-05-22 | SO | [III AUa 181/13](https://www.saos.org.pl/judgments/12132) | Wyrok
 - 2013-05-22 | SO | [III AUa 347/13](https://www.saos.org.pl/judgments/11556) | Wyrok
-- 2013-05-16 | SO | [III U 262/13](https://www.saos.org.pl/judgments/11569) | Wyrok
 - 2013-04-24 | SO | [III AUa 248/13](https://www.saos.org.pl/judgments/11115) | Wyrok
-- 2013-04-09 | SO | [VI U 3285/12](https://www.saos.org.pl/judgments/10011) | Wyrok
-- 2013-04-03 | SO | [IX U 1858/12](https://www.saos.org.pl/judgments/11069) | Wyrok
-- 2013-03-26 | SO | [VI U 156/13](https://www.saos.org.pl/judgments/9165) | Wyrok
-- 2013-03-26 | SO | [VI U 152/13](https://www.saos.org.pl/judgments/9164) | Wyrok
-- 2013-03-26 | SO | [VI U 271/13](https://www.saos.org.pl/judgments/8829) | Wyrok
 - 2013-03-20 | SO | [III AUa 20/13](https://www.saos.org.pl/judgments/7954) | Wyrok
 - 2013-03-20 | SO | [III AUa 72/13](https://www.saos.org.pl/judgments/7889) | Wyrok
 - 2013-03-14 | SO | [III AUa 43/13](https://www.saos.org.pl/judgments/7159) | Wyrok
 - 2013-03-13 | SO | [III AUa 459/12](https://www.saos.org.pl/judgments/11120) | Wyrok
 - 2013-03-13 | SO | [III AUa 1100/12](https://www.saos.org.pl/judgments/7460) | Wyrok
 - 2013-03-07 | SO | [III AUa 64/13](https://www.saos.org.pl/judgments/7885) | Wyrok
-- 2013-03-07 | SO | [V U 62/13](https://www.saos.org.pl/judgments/7283) | Wyrok
 - 2013-03-07 | SO | [III AUa 69/13](https://www.saos.org.pl/judgments/6673) | Wyrok
 - 2013-03-07 | SO | [III AUa 1274/12](https://www.saos.org.pl/judgments/6559) | Wyrok
 - 2013-03-06 | SO | [III AUa 810/12](https://www.saos.org.pl/judgments/9986) | Wyrok
 - 2013-03-06 | SO | [III AUa 1208/12](https://www.saos.org.pl/judgments/7676) | Wyrok
 - 2013-03-06 | SO | [III AUa 1241/12](https://www.saos.org.pl/judgments/6999) | Wyrok
-- 2013-03-05 | SO | [V U 2127/12](https://www.saos.org.pl/judgments/7534) | Wyrok
-- 2013-03-05 | SO | [V U 2062/12](https://www.saos.org.pl/judgments/7531) | Wyrok
-- 2013-02-28 | SO | [V U 2107/12](https://www.saos.org.pl/judgments/7533) | Wyrok
 - 2013-02-28 | SO | [III AUa 1155/12](https://www.saos.org.pl/judgments/6542) | Wyrok
 - 2013-02-27 | SO | [III AUa 34/13](https://www.saos.org.pl/judgments/6169) | Wyrok
 - 2013-02-27 | SO | [III AUa 1142/12](https://www.saos.org.pl/judgments/6162) | Wyrok
@@ -1361,8 +849,6 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2013-02-14 | SO | [III AUa 1097/12](https://www.saos.org.pl/judgments/5933) | Wyrok
 - 2013-02-14 | SO | [III AUa 1095/12](https://www.saos.org.pl/judgments/5561) | Wyrok
 - 2013-02-14 | SO | [III AUa 1085/12](https://www.saos.org.pl/judgments/5560) | Wyrok
-- 2013-02-12 | SO | [V U 2142/12](https://www.saos.org.pl/judgments/7275) | Wyrok
-- 2013-02-12 | SO | [V U 2103/12](https://www.saos.org.pl/judgments/7271) | Wyrok
 - 2013-02-08 | SO | [III AUa 1353/12](https://www.saos.org.pl/judgments/7943) | Wyrok
 - 2013-02-07 | SO | [III AUa 929/12](https://www.saos.org.pl/judgments/5592) | Wyrok
 - 2013-01-31 | SO | [III AUa 694/12](https://www.saos.org.pl/judgments/12487) | Wyrok
@@ -1398,4 +884,52 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 2008 r. o emeryturach kapit
 - 2012-07-11 | SO | [III AUa 350/12](https://www.saos.org.pl/judgments/1564) | Wyrok
 - 2012-07-05 | SO | [III AUa 473/12](https://www.saos.org.pl/judgments/1400) | Wyrok
 - 2012-06-21 | SO | [III AUa 504/12](https://www.saos.org.pl/judgments/1495) | Wyrok
+- 2026-02-13 | SO | [VII U 1490/25](https://www.saos.org.pl/judgments/542905) | Wyrok
+- 2026-01-15 | SO | [VII U 1903/25](https://www.saos.org.pl/judgments/542027) | Wyrok
+- 2025-12-15 | SO | [VII U 1660/25](https://www.saos.org.pl/judgments/540815) | Wyrok
+- 2025-06-14 | SO | [VII U 275/25](https://www.saos.org.pl/judgments/531924) | Wyrok
+- 2023-10-04 | SO | [VII U 877/23](https://www.saos.org.pl/judgments/512243) | Wyrok
+- 2023-09-07 | SO | [VII U 866/23](https://www.saos.org.pl/judgments/512237) | Wyrok
+- 2023-03-18 | SO | [VII U 1222/22](https://www.saos.org.pl/judgments/487471) | Wyrok
+- 2023-02-09 | SO | [VII U 1003/22](https://www.saos.org.pl/judgments/484209) | Wyrok
+- 2023-02-02 | SO | [VII U 1101/22](https://www.saos.org.pl/judgments/487469) | Wyrok
+- 2022-11-22 | SO | [VII U 618/22](https://www.saos.org.pl/judgments/480556) | Wyrok
+- 2022-10-27 | SO | [VII U 601/22](https://www.saos.org.pl/judgments/478210) | Wyrok
+- 2022-10-17 | SO | [VII U 1718/21](https://www.saos.org.pl/judgments/477171) | Wyrok
+- 2022-09-22 | SO | [VII U 627/22](https://www.saos.org.pl/judgments/477178) | Wyrok
+- 2022-09-15 | SO | [VII U 701/22](https://www.saos.org.pl/judgments/475933) | Wyrok
+- 2022-08-02 | SO | [VII U 189/22](https://www.saos.org.pl/judgments/473184) | Wyrok
+- 2022-07-21 | SO | [VII U 256/22](https://www.saos.org.pl/judgments/473314) | Wyrok
+- 2022-05-23 | SO | [VII U 1739/21](https://www.saos.org.pl/judgments/471175) | Wyrok
+- 2022-05-12 | SO | [VII U 1683/21](https://www.saos.org.pl/judgments/471173) | Wyrok
+- 2022-05-12 | SO | [VII U 1069/21](https://www.saos.org.pl/judgments/471161) | Wyrok
+- 2022-05-09 | SO | [VII U 1699/21](https://www.saos.org.pl/judgments/471174) | Wyrok
+- 2022-05-06 | SO | [VII U 67/22](https://www.saos.org.pl/judgments/471190) | Wyrok
+- 2022-05-06 | SO | [VII U 1088/21](https://www.saos.org.pl/judgments/471162) | Wyrok
+- 2022-05-05 | SO | [VII U 193/21](https://www.saos.org.pl/judgments/471179) | Wyrok
+- 2022-04-29 | SO | [VII U 1562/21](https://www.saos.org.pl/judgments/474332) | Wyrok
+- 2022-04-28 | SO | [VII U 19/22](https://www.saos.org.pl/judgments/470987) | Wyrok
+- 2022-04-08 | SO | [VII U 200/22](https://www.saos.org.pl/judgments/472974) | Wyrok
+- 2022-03-14 | SO | [VII U 845/20](https://www.saos.org.pl/judgments/465624) | Wyrok
+- 2019-01-24 | SO | [VII U 505/18](https://www.saos.org.pl/judgments/387008) | Wyrok
+- 2019-01-11 | SO | [VII U 1326/18](https://www.saos.org.pl/judgments/386950) | Wyrok
+- 2018-05-23 | SO | [VII U 421/18](https://www.saos.org.pl/judgments/376002) | Wyrok
+- 2017-11-27 | SO | [VI Ka 1154/16](https://www.saos.org.pl/judgments/326446) | Wyrok
+- 2017-11-08 | SO | [VII U 797/16](https://www.saos.org.pl/judgments/323131) | Wyrok
+- 2016-11-10 | SO | [VII U 373/16](https://www.saos.org.pl/judgments/259729) | Wyrok
+- 2016-09-01 | SO | [VII U 486/16](https://www.saos.org.pl/judgments/256383) | Wyrok
+- 2015-05-28 | SO | [VIII U 3961/14](https://www.saos.org.pl/judgments/156173) | Wyrok
+- 2015-03-06 | SO | [II Ca 2439/14](https://www.saos.org.pl/judgments/398924) | Wyrok
+- 2015-02-09 | SO | [VIII U 6033/14](https://www.saos.org.pl/judgments/131897) | Wyrok
+- 2014-09-08 | SO | [V U 1966/14](https://www.saos.org.pl/judgments/67336) | Wyrok
+- 2014-03-04 | SO | [V U 112/14](https://www.saos.org.pl/judgments/44490) | Wyrok
+- 2013-09-30 | SO | [V U 827/13](https://www.saos.org.pl/judgments/27105) | Wyrok
+- 2024-08-12 | SO | [VIII U 1785/23](https://www.saos.org.pl/judgments/519081) | Uzasadnienie
+- 2024-07-08 | SO | [VIII U 855/23](https://www.saos.org.pl/judgments/516115) | Uzasadnienie
+- 2023-08-07 | SO | [VIII U 787/23](https://www.saos.org.pl/judgments/514102) | Uzasadnienie
+- 2023-01-02 | SO | [VIII U 1282/22](https://www.saos.org.pl/judgments/481819) | Uzasadnienie
+- 2022-06-10 | SO | [VIII U 2494/21](https://www.saos.org.pl/judgments/471622) | Uzasadnienie
+- 2020-12-11 | SO | [VIII U 1698/20](https://www.saos.org.pl/judgments/427337) | Uzasadnienie
+- 2017-06-29 | SO | [VIII U 776/17](https://www.saos.org.pl/judgments/296443) | Zarządzenie
+- 2016-06-17 | SO | [VIII U 314/16](https://www.saos.org.pl/judgments/231022) | Uzasadnienie
 

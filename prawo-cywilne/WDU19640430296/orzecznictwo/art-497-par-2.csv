@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-173717|2015-07-16|SO|V GC 481/15|Postanowienie|https://www.saos.org.pl/judgments/173717
-39124|2014-02-19|SO|I ACa 999/13|Wyrok|https://www.saos.org.pl/judgments/39124
-84705|2006-11-08|SN|III CZP 69/06|Postanowienie|https://www.saos.org.pl/judgments/84705
+saos_id|date|court|case_number|type|score|saos_url
+84705|2006-11-08|SN|III CZP 69/06|Postanowienie|69|https://www.saos.org.pl/judgments/84705
+39124|2014-02-19|SO|I ACa 999/13|Wyrok|56|https://www.saos.org.pl/judgments/39124
+173717|2015-07-16|SO|V GC 481/15|Postanowienie|31|https://www.saos.org.pl/judgments/173717

@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-489803|2022-10-14|SO|I C 1656/20|Wyrok|https://www.saos.org.pl/judgments/489803
-430865|2020-12-03|SO|VIII Ga 283/19|Uzasadnienie|https://www.saos.org.pl/judgments/430865
-428454|2020-10-02|SO|I ACa 140/20|Wyrok|https://www.saos.org.pl/judgments/428454
-445914|2019-04-12|SO|II C 84/13|Wyrok|https://www.saos.org.pl/judgments/445914
-350725|2018-08-16|SO|I AGa 125/18|Wyrok|https://www.saos.org.pl/judgments/350725
-249582|2015-11-04|SO|I ACa 622/15|Wyrok|https://www.saos.org.pl/judgments/249582
-183175|2015-10-28|SO|II C 52/14|Wyrok|https://www.saos.org.pl/judgments/183175
-153072|2015-03-20|SO|I C 1049/13|Wyrok|https://www.saos.org.pl/judgments/153072
+saos_id|date|court|case_number|type|score|saos_url
+428454|2020-10-02|SO|I ACa 140/20|Wyrok|56|https://www.saos.org.pl/judgments/428454
+350725|2018-08-16|SO|I AGa 125/18|Wyrok|56|https://www.saos.org.pl/judgments/350725
+249582|2015-11-04|SO|I ACa 622/15|Wyrok|56|https://www.saos.org.pl/judgments/249582
+445914|2019-04-12|SO|II C 84/13|Wyrok|40|https://www.saos.org.pl/judgments/445914
+183175|2015-10-28|SO|II C 52/14|Wyrok|40|https://www.saos.org.pl/judgments/183175

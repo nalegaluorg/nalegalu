@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-443650|2020-07-15|SO|II C 5590/19|Uzasadnienie|https://www.saos.org.pl/judgments/443650
-401437|2016-06-09|SO|II C 1493/16|Postanowienie|https://www.saos.org.pl/judgments/401437
-194157|2015-11-05|SO|I ACa 249/15|Wyrok|https://www.saos.org.pl/judgments/194157
-148951|2015-01-07|SO|I ACa 1021/14|Wyrok|https://www.saos.org.pl/judgments/148951
-25820|2013-06-25|SO|VI ACa 1695/12|Wyrok|https://www.saos.org.pl/judgments/25820
-89103|2008-11-05|SN|III SK 5/08|Wyrok|https://www.saos.org.pl/judgments/89103
-163171|2005-04-13|SN|V CK 729/04|Postanowienie|https://www.saos.org.pl/judgments/163171
-80542|2001-04-19|SN|III CZP 10/01|Uchwała|https://www.saos.org.pl/judgments/80542
+saos_id|date|court|case_number|type|score|saos_url
+80542|2001-04-19|SN|III CZP 10/01|Uchwała|89|https://www.saos.org.pl/judgments/80542
+89103|2008-11-05|SN|III SK 5/08|Wyrok|78|https://www.saos.org.pl/judgments/89103
+163171|2005-04-13|SN|V CK 729/04|Postanowienie|69|https://www.saos.org.pl/judgments/163171
+194157|2015-11-05|SO|I ACa 249/15|Wyrok|56|https://www.saos.org.pl/judgments/194157
+148951|2015-01-07|SO|I ACa 1021/14|Wyrok|56|https://www.saos.org.pl/judgments/148951
+25820|2013-06-25|SO|VI ACa 1695/12|Wyrok|56|https://www.saos.org.pl/judgments/25820

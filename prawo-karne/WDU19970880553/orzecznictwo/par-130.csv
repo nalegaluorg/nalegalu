@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-234698|2016-07-05|SO|II AKz 227/16|Postanowienie|https://www.saos.org.pl/judgments/234698
-28821|2013-10-31|SO|VI Ka 386/13|Wyrok|https://www.saos.org.pl/judgments/28821
-135683|2012-09-25|SO|II AKz 136/12|Postanowienie|https://www.saos.org.pl/judgments/135683
+saos_id|date|court|case_number|type|score|saos_url
+234698|2016-07-05|SO|II AKz 227/16|Postanowienie|47|https://www.saos.org.pl/judgments/234698
+135683|2012-09-25|SO|II AKz 136/12|Postanowienie|47|https://www.saos.org.pl/judgments/135683
+28821|2013-10-31|SO|VI Ka 386/13|Wyrok|40|https://www.saos.org.pl/judgments/28821

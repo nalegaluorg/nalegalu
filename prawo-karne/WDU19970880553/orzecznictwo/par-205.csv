@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-522084|2025-02-12|SO|II K 1189/24|Uzasadnienie|https://www.saos.org.pl/judgments/522084
-431526|2020-06-30|SO|II AKz 660/20|Postanowienie|https://www.saos.org.pl/judgments/431526
+saos_id|date|court|case_number|type|score|saos_url
+431526|2020-06-30|SO|II AKz 660/20|Postanowienie|47|https://www.saos.org.pl/judgments/431526

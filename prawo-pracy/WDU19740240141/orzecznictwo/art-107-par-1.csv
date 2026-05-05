@@ -1,13 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-465695|2022-04-06|SO|XVII AmA 57/20|Wyrok|https://www.saos.org.pl/judgments/465695
-413422|2020-06-18|SO|IV U 2798/19|Wyrok|https://www.saos.org.pl/judgments/413422
-421876|2020-01-13|SO|XVII AmE 24/18|Wyrok|https://www.saos.org.pl/judgments/421876
-347745|2018-03-16|SO|VIII U 1268/17|Wyrok|https://www.saos.org.pl/judgments/347745
-342973|2018-01-11|SO|VIII Ua 26/17|Wyrok|https://www.saos.org.pl/judgments/342973
-194800|2015-12-10|SO|III U 729/14|Wyrok|https://www.saos.org.pl/judgments/194800
-197584|2014-05-26|SO|XVII AmE 35/13|Uzasadnienie|https://www.saos.org.pl/judgments/197584
-278230|2014-04-25|SO|XVII AmE 35/13|Wyrok|https://www.saos.org.pl/judgments/278230
-36884|2013-12-31|SO|XVII AmA 114/10|Uzasadnienie|https://www.saos.org.pl/judgments/36884
-103908|2013-12-13|SN|SNO 34/13|Wyrok|https://www.saos.org.pl/judgments/103908
-261656|2013-11-21|SO|XVII AmA 114/10|Wyrok|https://www.saos.org.pl/judgments/261656
-33827|2008-11-12|SO|XVII AmA 109/07|Uzasadnienie|https://www.saos.org.pl/judgments/33827
+saos_id|date|court|case_number|type|score|saos_url
+103908|2013-12-13|SN|SNO 34/13|Wyrok|78|https://www.saos.org.pl/judgments/103908

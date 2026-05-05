@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-77106|1996-03-20|SN|I PRN 33/96|Wyrok|https://www.saos.org.pl/judgments/77106
+saos_id|date|court|case_number|type|score|saos_url
+77106|1996-03-20|SN|I PRN 33/96|Wyrok|78|https://www.saos.org.pl/judgments/77106

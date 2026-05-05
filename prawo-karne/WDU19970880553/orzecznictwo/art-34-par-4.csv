@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443252|2020-01-24|SO|IX Ka 598/19|Wyrok|https://www.saos.org.pl/judgments/443252
-405593|2019-07-10|SO|X K 1496/18|Wyrok|https://www.saos.org.pl/judgments/405593
-310849|2017-10-12|SO|V Ka 351/16|Uzasadnienie|https://www.saos.org.pl/judgments/310849
-270030|2016-11-22|SO|VI Ka 1059/16|Wyrok|https://www.saos.org.pl/judgments/270030
+saos_id|date|court|case_number|type|score|saos_url
+310849|2017-10-12|SO|V Ka 351/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/310849

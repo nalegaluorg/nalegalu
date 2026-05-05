@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-381864|2018-12-12|SO|V Ka 953/18|Uzasadnienie|https://www.saos.org.pl/judgments/381864
-206672|2015-09-21|TK|K 28/13|Wyrok|https://www.saos.org.pl/judgments/206672
-177071|2015-08-21|SO|II K 67/15|Uzasadnienie|https://www.saos.org.pl/judgments/177071
-303321|2014-09-18|SO|IV K 432/14|Wyrok|https://www.saos.org.pl/judgments/303321
-99804|2012-11-19|SN|WK 6/12|Wyrok|https://www.saos.org.pl/judgments/99804
-82095|2003-06-26|SN|WA 18/03|Wyrok|https://www.saos.org.pl/judgments/82095
-81881|2003-02-25|SN|WK 45/02|Wyrok|https://www.saos.org.pl/judgments/81881
+saos_id|date|court|case_number|type|score|saos_url
+206672|2015-09-21|TK|K 28/13|Wyrok|98|https://www.saos.org.pl/judgments/206672
+81881|2003-02-25|SN|WK 45/02|Wyrok|84|https://www.saos.org.pl/judgments/81881
+99804|2012-11-19|SN|WK 6/12|Wyrok|78|https://www.saos.org.pl/judgments/99804
+82095|2003-06-26|SN|WA 18/03|Wyrok|78|https://www.saos.org.pl/judgments/82095
+381864|2018-12-12|SO|V Ka 953/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/381864
+177071|2015-08-21|SO|II K 67/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177071

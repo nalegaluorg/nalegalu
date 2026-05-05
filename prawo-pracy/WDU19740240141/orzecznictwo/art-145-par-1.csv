@@ -1,29 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-396275|2019-10-15|SO|VIII U 1893/19|Uzasadnienie|https://www.saos.org.pl/judgments/396275
-396273|2019-10-15|SO|VIII U 1889/19|Uzasadnienie|https://www.saos.org.pl/judgments/396273
-396270|2019-10-15|SO|VIII U 1826/19|Uzasadnienie|https://www.saos.org.pl/judgments/396270
-396266|2019-10-15|SO|VIII U 1780/19|Uzasadnienie|https://www.saos.org.pl/judgments/396266
-396263|2019-10-15|SO|VIII U 1776/19|Uzasadnienie|https://www.saos.org.pl/judgments/396263
-419148|2019-10-10|SO|IV P 74/17|Wyrok|https://www.saos.org.pl/judgments/419148
-345246|2018-06-21|SO|IV P 1/18|Wyrok|https://www.saos.org.pl/judgments/345246
-335086|2018-03-16|SO|IV P 208/12|Wyrok|https://www.saos.org.pl/judgments/335086
-332180|2017-10-05|SO|IV P 157/16|Wyrok|https://www.saos.org.pl/judgments/332180
-336987|2017-09-25|SO|IV P 51/17|Wyrok|https://www.saos.org.pl/judgments/336987
-336986|2017-09-25|SO|IV P 49/17|Wyrok|https://www.saos.org.pl/judgments/336986
-336988|2017-09-06|SO|IV P 55/17|Wyrok|https://www.saos.org.pl/judgments/336988
-335834|2017-09-06|SO|IV P 56/17|Wyrok|https://www.saos.org.pl/judgments/335834
-335833|2017-08-31|SO|IV P 52/17|Wyrok|https://www.saos.org.pl/judgments/335833
-283925|2017-03-24|SO|X P 536/15|Wyrok|https://www.saos.org.pl/judgments/283925
-252715|2016-10-14|SO|V U 1215/16|Wyrok|https://www.saos.org.pl/judgments/252715
-221718|2016-04-20|SO|VII Pa 33/16|Wyrok|https://www.saos.org.pl/judgments/221718
-221754|2016-04-18|SO|VIII U 1857/15|Wyrok|https://www.saos.org.pl/judgments/221754
-221753|2016-04-18|SO|VIII U 1856/15|Wyrok|https://www.saos.org.pl/judgments/221753
-103539|2013-11-14|SN|II UK 133/13|Wyrok|https://www.saos.org.pl/judgments/103539
-48322|2013-08-27|SO|IV U 714/13|Wyrok|https://www.saos.org.pl/judgments/48322
-47302|2013-08-27|SO|IV U 544/13|Wyrok|https://www.saos.org.pl/judgments/47302
-20126|2013-08-06|SO|III AUa 1757/12|Wyrok|https://www.saos.org.pl/judgments/20126
-64661|2013-07-12|SO|IV U 644/13|Wyrok|https://www.saos.org.pl/judgments/64661
-54011|2013-07-12|SO|IV U 669/13|Wyrok|https://www.saos.org.pl/judgments/54011
-47629|2013-07-12|SO|IV U 539/13|Wyrok|https://www.saos.org.pl/judgments/47629
-54010|2013-07-10|SO|IV U 514/13|Wyrok|https://www.saos.org.pl/judgments/54010
-28920|2013-07-10|SO|IV U 609/13|Wyrok|https://www.saos.org.pl/judgments/28920
+saos_id|date|court|case_number|type|score|saos_url
+103539|2013-11-14|SN|II UK 133/13|Wyrok|78|https://www.saos.org.pl/judgments/103539
+20126|2013-08-06|SO|III AUa 1757/12|Wyrok|56|https://www.saos.org.pl/judgments/20126
+396275|2019-10-15|SO|VIII U 1893/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/396275
+396273|2019-10-15|SO|VIII U 1889/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/396273
+396270|2019-10-15|SO|VIII U 1826/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/396270
+396266|2019-10-15|SO|VIII U 1780/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/396266
+396263|2019-10-15|SO|VIII U 1776/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/396263

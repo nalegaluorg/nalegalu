@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-401836|2020-01-16|SO|XIII Ga 658/19|Uzasadnienie|https://www.saos.org.pl/judgments/401836
-398465|2019-12-17|SO|XIII Ga 840/19|Uzasadnienie|https://www.saos.org.pl/judgments/398465
-276800|2017-03-08|SO|VIII Ga 226/16|Uzasadnienie|https://www.saos.org.pl/judgments/276800
-229646|2016-06-09|SO|VIII Ga 3/16|Uzasadnienie|https://www.saos.org.pl/judgments/229646
+saos_id|date|court|case_number|type|score|saos_url
+401836|2020-01-16|SO|XIII Ga 658/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/401836
+398465|2019-12-17|SO|XIII Ga 840/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/398465

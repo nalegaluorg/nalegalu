@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-454150|2019-04-04|SO|I ACo 92/18|Postanowienie|https://www.saos.org.pl/judgments/454150
-352269|2018-06-15|SO|XII C 1343/17|Wyrok|https://www.saos.org.pl/judgments/352269
-333290|2018-02-15|SO|V ACo 53/16|Postanowienie|https://www.saos.org.pl/judgments/333290
+saos_id|date|court|case_number|type|score|saos_url
+454150|2019-04-04|SO|I ACo 92/18|Postanowienie|47|https://www.saos.org.pl/judgments/454150
+333290|2018-02-15|SO|V ACo 53/16|Postanowienie|47|https://www.saos.org.pl/judgments/333290
+352269|2018-06-15|SO|XII C 1343/17|Wyrok|40|https://www.saos.org.pl/judgments/352269

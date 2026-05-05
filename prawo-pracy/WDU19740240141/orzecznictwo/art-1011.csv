@@ -1,13 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-508711|2023-10-09|SO|IV P 221/22|Wyrok|https://www.saos.org.pl/judgments/508711
-339761|2018-04-09|SO|VIII Pa 7/18|Uzasadnienie|https://www.saos.org.pl/judgments/339761
-424728|2018-03-21|SO|IV P 11/17|Wyrok|https://www.saos.org.pl/judgments/424728
-295171|2017-07-11|SO|IV P 422/16|Zarządzenie|https://www.saos.org.pl/judgments/295171
-510365|2016-07-21|SO|V Pa 28/16|Wyrok|https://www.saos.org.pl/judgments/510365
-242237|2016-06-02|SO|III APa 59/15|Wyrok|https://www.saos.org.pl/judgments/242237
-223149|2016-04-26|SO|III Pa 6/16|Wyrok|https://www.saos.org.pl/judgments/223149
-212588|2015-11-10|SO|III APa 28/15|Wyrok|https://www.saos.org.pl/judgments/212588
-175565|2015-08-05|SO|VII Pa 48/15|Wyrok|https://www.saos.org.pl/judgments/175565
-148091|2015-03-09|SO|IV P 390/14|Wyrok|https://www.saos.org.pl/judgments/148091
-78493|1998-08-25|SN|I PKN 265/98|Wyrok|https://www.saos.org.pl/judgments/78493
-78421|1998-07-01|SN|I PKN 218/98|Wyrok|https://www.saos.org.pl/judgments/78421
+saos_id|date|court|case_number|type|score|saos_url
+78493|1998-08-25|SN|I PKN 265/98|Wyrok|78|https://www.saos.org.pl/judgments/78493
+78421|1998-07-01|SN|I PKN 218/98|Wyrok|78|https://www.saos.org.pl/judgments/78421
+242237|2016-06-02|SO|III APa 59/15|Wyrok|56|https://www.saos.org.pl/judgments/242237
+212588|2015-11-10|SO|III APa 28/15|Wyrok|56|https://www.saos.org.pl/judgments/212588
+508711|2023-10-09|SO|IV P 221/22|Wyrok|40|https://www.saos.org.pl/judgments/508711
+424728|2018-03-21|SO|IV P 11/17|Wyrok|40|https://www.saos.org.pl/judgments/424728
+339761|2018-04-09|SO|VIII Pa 7/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/339761

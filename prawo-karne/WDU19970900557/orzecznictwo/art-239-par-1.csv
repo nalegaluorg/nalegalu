@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-542816|2024-09-23|SO|V K 510/18|Uzasadnienie|https://www.saos.org.pl/judgments/542816
-542815|2024-05-18|SO|V K 510/18|Wyrok|https://www.saos.org.pl/judgments/542815
-464283|2019-03-05|SO|II K 676/18|Wyrok|https://www.saos.org.pl/judgments/464283
-80910|2001-10-18|SN|I KZP 22/01|Uchwała|https://www.saos.org.pl/judgments/80910
+saos_id|date|court|case_number|type|score|saos_url
+80910|2001-10-18|SN|I KZP 22/01|Uchwała|96|https://www.saos.org.pl/judgments/80910

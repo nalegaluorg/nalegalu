@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481980|2021-05-24|SO|V AGa 227/19|Wyrok|https://www.saos.org.pl/judgments/481980
-405840|2019-11-28|SO|VII AGa 727/19|Wyrok|https://www.saos.org.pl/judgments/405840
-91682|2010-01-20|SN|III CZP 122/09|Uchwała|https://www.saos.org.pl/judgments/91682
+saos_id|date|court|case_number|type|score|saos_url
+91682|2010-01-20|SN|III CZP 122/09|Uchwała|89|https://www.saos.org.pl/judgments/91682
+481980|2021-05-24|SO|V AGa 227/19|Wyrok|56|https://www.saos.org.pl/judgments/481980
+405840|2019-11-28|SO|VII AGa 727/19|Wyrok|56|https://www.saos.org.pl/judgments/405840

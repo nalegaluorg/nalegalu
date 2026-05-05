@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-111646|2013-07-25|TK|P 56/11|Wyrok|https://www.saos.org.pl/judgments/111646
+saos_id|date|court|case_number|type|score|saos_url
+111646|2013-07-25|TK|P 56/11|Wyrok|98|https://www.saos.org.pl/judgments/111646

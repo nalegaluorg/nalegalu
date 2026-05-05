@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-269314|2016-12-29|SO|V Ka 135/16|Wyrok|https://www.saos.org.pl/judgments/269314
-329524|2015-11-09|SO|II Ca 720/15|Wyrok|https://www.saos.org.pl/judgments/329524
-296726|2015-05-07|SO|II Ca 261/15|Wyrok|https://www.saos.org.pl/judgments/296726
-248210|2014-10-28|SO|II Ca 190/14|Wyrok|https://www.saos.org.pl/judgments/248210
-163329|2005-06-15|SN|IV CK 731/04|Wyrok|https://www.saos.org.pl/judgments/163329
+saos_id|date|court|case_number|type|score|saos_url
+163329|2005-06-15|SN|IV CK 731/04|Wyrok|78|https://www.saos.org.pl/judgments/163329

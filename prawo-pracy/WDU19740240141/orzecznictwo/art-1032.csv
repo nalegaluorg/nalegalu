@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-533795|2025-09-04|SO|VIII Pa 107/25|Uzasadnienie|https://www.saos.org.pl/judgments/533795
-382735|2019-04-02|SO|IV P 658/18|Wyrok|https://www.saos.org.pl/judgments/382735
-357142|2018-10-05|SO|IX P 757/16|Zarządzenie|https://www.saos.org.pl/judgments/357142
-222901|2015-10-26|SO|VII P 1123/14|Wyrok|https://www.saos.org.pl/judgments/222901
+saos_id|date|court|case_number|type|score|saos_url
+533795|2025-09-04|SO|VIII Pa 107/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/533795

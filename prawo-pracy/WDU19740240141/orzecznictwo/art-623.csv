@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-427595|2020-09-17|SO|II S 40/20|Postanowienie|https://www.saos.org.pl/judgments/427595
-411743|2020-02-25|SO|II S 10/20|Postanowienie|https://www.saos.org.pl/judgments/411743
-399846|2019-12-02|SO|II S 62/19|Postanowienie|https://www.saos.org.pl/judgments/399846
-16886|2011-06-29|SO|V Ca 1252/11|Postanowienie|https://www.saos.org.pl/judgments/16886
+saos_id|date|court|case_number|type|score|saos_url
+427595|2020-09-17|SO|II S 40/20|Postanowienie|47|https://www.saos.org.pl/judgments/427595
+411743|2020-02-25|SO|II S 10/20|Postanowienie|47|https://www.saos.org.pl/judgments/411743
+399846|2019-12-02|SO|II S 62/19|Postanowienie|47|https://www.saos.org.pl/judgments/399846

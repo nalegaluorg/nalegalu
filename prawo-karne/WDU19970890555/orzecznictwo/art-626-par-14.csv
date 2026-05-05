@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-257531|2016-06-14|SO|IV K 481/15|Wyrok|https://www.saos.org.pl/judgments/257531
-158435|2015-05-25|SO|IV K 354/14|Uzasadnienie|https://www.saos.org.pl/judgments/158435
-151865|2015-03-25|SO|II AKa 50/15|Wyrok|https://www.saos.org.pl/judgments/151865
-259313|2014-06-13|SO|X Ka 375/14|Wyrok|https://www.saos.org.pl/judgments/259313
+saos_id|date|court|case_number|type|score|saos_url
+151865|2015-03-25|SO|II AKa 50/15|Wyrok|56|https://www.saos.org.pl/judgments/151865

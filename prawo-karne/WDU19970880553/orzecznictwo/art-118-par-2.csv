@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-293102|2017-06-13|SO|II AKa 131/17|Wyrok|https://www.saos.org.pl/judgments/293102
-202420|2015-12-15|SO|I ACa 849/15|Wyrok|https://www.saos.org.pl/judgments/202420
-145669|2013-12-17|SO|II AKa 245/13|Wyrok|https://www.saos.org.pl/judgments/145669
+saos_id|date|court|case_number|type|score|saos_url
+293102|2017-06-13|SO|II AKa 131/17|Wyrok|56|https://www.saos.org.pl/judgments/293102
+202420|2015-12-15|SO|I ACa 849/15|Wyrok|56|https://www.saos.org.pl/judgments/202420
+145669|2013-12-17|SO|II AKa 245/13|Wyrok|56|https://www.saos.org.pl/judgments/145669

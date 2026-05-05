@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-527972|2022-11-29|SO|XVI GC 280/18|Wyrok|https://www.saos.org.pl/judgments/527972
-455883|2021-12-09|SO|III AUa 571/21|Wyrok|https://www.saos.org.pl/judgments/455883
-420856|2018-11-14|SO|III AUa 2245/17|Wyrok|https://www.saos.org.pl/judgments/420856
-345609|2018-01-29|SO|I ACa 711/17|Wyrok|https://www.saos.org.pl/judgments/345609
-309443|2016-12-19|SO|I C 1639/14|Uzasadnienie|https://www.saos.org.pl/judgments/309443
-228607|2016-05-24|SO|V ACa 660/15|Wyrok|https://www.saos.org.pl/judgments/228607
-7041|2012-07-11|SO|I ACa 1341/11|Wyrok|https://www.saos.org.pl/judgments/7041
+saos_id|date|court|case_number|type|score|saos_url
+455883|2021-12-09|SO|III AUa 571/21|Wyrok|56|https://www.saos.org.pl/judgments/455883
+420856|2018-11-14|SO|III AUa 2245/17|Wyrok|56|https://www.saos.org.pl/judgments/420856
+345609|2018-01-29|SO|I ACa 711/17|Wyrok|56|https://www.saos.org.pl/judgments/345609
+228607|2016-05-24|SO|V ACa 660/15|Wyrok|56|https://www.saos.org.pl/judgments/228607
+7041|2012-07-11|SO|I ACa 1341/11|Wyrok|56|https://www.saos.org.pl/judgments/7041

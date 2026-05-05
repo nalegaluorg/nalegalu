@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o pos
 
 ## art. 4 (1)
 
-- 2001-10-11 | SN | [I KZP 23/01](https://www.saos.org.pl/judgments/80890) | Uchwała
+- 2001-10-11 | SN | [I KZP 23/01](https://www.saos.org.pl/judgments/80890) | Uchwała ★
 

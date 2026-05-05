@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-175471|2015-08-13|SO|IX Ga 283/15|Wyrok|https://www.saos.org.pl/judgments/175471
-158820|2015-01-14|SO|VI ACa 458/14|Wyrok|https://www.saos.org.pl/judgments/158820
-165544|2013-10-11|SN|I CSK 769/12|Wyrok|https://www.saos.org.pl/judgments/165544
-96968|2012-01-24|SN|III UZP 3/11|Uchwała|https://www.saos.org.pl/judgments/96968
-88447|2008-07-08|SN|III CZP 154/07|Uchwała|https://www.saos.org.pl/judgments/88447
-84415|2006-06-28|SN|III CZP 27/06|Uchwała|https://www.saos.org.pl/judgments/84415
-106742|2004-11-16|TK|P 19/03|Wyrok|https://www.saos.org.pl/judgments/106742
-82778|2004-07-28|SN|III CZP 32/04|Uchwała|https://www.saos.org.pl/judgments/82778
+saos_id|date|court|case_number|type|score|saos_url
+106742|2004-11-16|TK|P 19/03|Wyrok|98|https://www.saos.org.pl/judgments/106742
+88447|2008-07-08|SN|III CZP 154/07|Uchwała|96|https://www.saos.org.pl/judgments/88447
+96968|2012-01-24|SN|III UZP 3/11|Uchwała|89|https://www.saos.org.pl/judgments/96968
+84415|2006-06-28|SN|III CZP 27/06|Uchwała|89|https://www.saos.org.pl/judgments/84415
+82778|2004-07-28|SN|III CZP 32/04|Uchwała|89|https://www.saos.org.pl/judgments/82778
+165544|2013-10-11|SN|I CSK 769/12|Wyrok|78|https://www.saos.org.pl/judgments/165544
+158820|2015-01-14|SO|VI ACa 458/14|Wyrok|56|https://www.saos.org.pl/judgments/158820

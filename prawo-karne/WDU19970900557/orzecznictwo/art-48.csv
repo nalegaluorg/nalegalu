@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-359459|2018-08-13|SO|XII Ko 86/16|Wyrok|https://www.saos.org.pl/judgments/359459
-343190|2018-05-21|SO|II K 286/17|Uzasadnienie|https://www.saos.org.pl/judgments/343190
-268187|2017-01-13|SO|VII Kzw 666/16|Postanowienie|https://www.saos.org.pl/judgments/268187
-268186|2017-01-11|SO|VII Kzw 665/16|Postanowienie|https://www.saos.org.pl/judgments/268186
-145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|https://www.saos.org.pl/judgments/145205
-139891|2013-08-01|SO|II AKzw 439/13|Postanowienie|https://www.saos.org.pl/judgments/139891
-137696|2012-11-15|SO|II AKzw 1193/12|Postanowienie|https://www.saos.org.pl/judgments/137696
-135786|2012-10-05|SO|II AKo 128/12|Postanowienie|https://www.saos.org.pl/judgments/135786
-97758|2012-04-04|SN|WZ 6/12|Postanowienie|https://www.saos.org.pl/judgments/97758
-107257|2005-07-05|TK|SK 26/04|Wyrok|https://www.saos.org.pl/judgments/107257
+saos_id|date|court|case_number|type|score|saos_url
+107257|2005-07-05|TK|SK 26/04|Wyrok|98|https://www.saos.org.pl/judgments/107257
+97758|2012-04-04|SN|WZ 6/12|Postanowienie|69|https://www.saos.org.pl/judgments/97758
+145205|2014-04-10|SO|II AKzw 146/14|Postanowienie|47|https://www.saos.org.pl/judgments/145205
+139891|2013-08-01|SO|II AKzw 439/13|Postanowienie|47|https://www.saos.org.pl/judgments/139891
+137696|2012-11-15|SO|II AKzw 1193/12|Postanowienie|47|https://www.saos.org.pl/judgments/137696
+135786|2012-10-05|SO|II AKo 128/12|Postanowienie|47|https://www.saos.org.pl/judgments/135786
+268187|2017-01-13|SO|VII Kzw 666/16|Postanowienie|31|https://www.saos.org.pl/judgments/268187
+268186|2017-01-11|SO|VII Kzw 665/16|Postanowienie|31|https://www.saos.org.pl/judgments/268186

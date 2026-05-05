@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-507581|2024-04-24|SO|IV Ca 1735/23|Wyrok|https://www.saos.org.pl/judgments/507581
-374378|2019-01-25|SO|VIII C 431/17|Wyrok|https://www.saos.org.pl/judgments/374378
-66300|2014-10-23|SO|VI Ga 310/14|Wyrok|https://www.saos.org.pl/judgments/66300
-18409|2013-07-31|SO|I ACa 243/13|Wyrok|https://www.saos.org.pl/judgments/18409
-2480|2012-11-07|SO|V ACz 893/12|Postanowienie|https://www.saos.org.pl/judgments/2480
+saos_id|date|court|case_number|type|score|saos_url
+18409|2013-07-31|SO|I ACa 243/13|Wyrok|56|https://www.saos.org.pl/judgments/18409
+2480|2012-11-07|SO|V ACz 893/12|Postanowienie|47|https://www.saos.org.pl/judgments/2480
+507581|2024-04-24|SO|IV Ca 1735/23|Wyrok|40|https://www.saos.org.pl/judgments/507581
+374378|2019-01-25|SO|VIII C 431/17|Wyrok|40|https://www.saos.org.pl/judgments/374378
+66300|2014-10-23|SO|VI Ga 310/14|Wyrok|40|https://www.saos.org.pl/judgments/66300

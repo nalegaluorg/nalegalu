@@ -1,15 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-486618|2022-06-07|SO|II K 691/21|Wyrok|https://www.saos.org.pl/judgments/486618
-432187|2021-02-10|SO|II K 454/20|Wyrok|https://www.saos.org.pl/judgments/432187
-422786|2020-10-07|SO|II K 275/20|Wyrok|https://www.saos.org.pl/judgments/422786
-449104|2020-01-29|SO|II K 103/20|Wyrok|https://www.saos.org.pl/judgments/449104
-483894|2018-05-07|SO|II K 48/11|Wyrok|https://www.saos.org.pl/judgments/483894
-291291|2017-05-30|SO|VI Ka 332/17|Wyrok|https://www.saos.org.pl/judgments/291291
-262276|2016-12-09|SO|V Ko 837/16|Postanowienie|https://www.saos.org.pl/judgments/262276
-260130|2016-06-24|SO|II AKa 73/16|Wyrok|https://www.saos.org.pl/judgments/260130
-234178|2015-10-26|SO|II W 160/15|Wyrok|https://www.saos.org.pl/judgments/234178
-76090|2014-11-25|SO|VI Ka 694/14|Wyrok|https://www.saos.org.pl/judgments/76090
-45968|2014-05-06|SO|II Ka 106/14|Wyrok|https://www.saos.org.pl/judgments/45968
-63778|2014-03-13|SO|IX Ka 9/14|Wyrok|https://www.saos.org.pl/judgments/63778
-144045|2014-01-23|SO|II AKa 275/13|Wyrok|https://www.saos.org.pl/judgments/144045
-16150|2013-04-25|SO|IX Ka 157/13|Wyrok|https://www.saos.org.pl/judgments/16150
+saos_id|date|court|case_number|type|score|saos_url
+260130|2016-06-24|SO|II AKa 73/16|Wyrok|56|https://www.saos.org.pl/judgments/260130
+144045|2014-01-23|SO|II AKa 275/13|Wyrok|56|https://www.saos.org.pl/judgments/144045
+262276|2016-12-09|SO|V Ko 837/16|Postanowienie|31|https://www.saos.org.pl/judgments/262276

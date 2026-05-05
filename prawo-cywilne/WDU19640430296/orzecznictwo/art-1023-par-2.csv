@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-91510|2009-12-18|SN|III CNP 46/09|Postanowienie|https://www.saos.org.pl/judgments/91510
-91334|2009-11-26|SN|III CZP 104/09|Uchwała|https://www.saos.org.pl/judgments/91334
+saos_id|date|court|case_number|type|score|saos_url
+91334|2009-11-26|SN|III CZP 104/09|Uchwała|89|https://www.saos.org.pl/judgments/91334
+91510|2009-12-18|SN|III CNP 46/09|Postanowienie|69|https://www.saos.org.pl/judgments/91510

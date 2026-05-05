@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-534367|2025-01-21|SO|I C 672/24|Wyrok|https://www.saos.org.pl/judgments/534367
-81768|2002-12-13|SN|WZ 42/02|Postanowienie|https://www.saos.org.pl/judgments/81768
+saos_id|date|court|case_number|type|score|saos_url
+81768|2002-12-13|SN|WZ 42/02|Postanowienie|69|https://www.saos.org.pl/judgments/81768

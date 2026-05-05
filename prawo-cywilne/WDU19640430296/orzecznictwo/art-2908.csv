@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-536876|2025-02-17|SO|I ACa 245/23|Wyrok|https://www.saos.org.pl/judgments/536876
+saos_id|date|court|case_number|type|score|saos_url
+536876|2025-02-17|SO|I ACa 245/23|Wyrok|56|https://www.saos.org.pl/judgments/536876

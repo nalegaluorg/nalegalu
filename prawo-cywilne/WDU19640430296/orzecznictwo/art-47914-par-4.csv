@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-158891|2015-04-10|SO|XVI GC 2761/13|Zarządzenie|https://www.saos.org.pl/judgments/158891
-67027|2014-07-11|SO|XV GC 153/12|Uzasadnienie|https://www.saos.org.pl/judgments/67027
-51327|2014-06-06|SO|VIII Ga 132/14|Wyrok|https://www.saos.org.pl/judgments/51327
-54961|2014-05-22|SO|IX GC 3123/12|Uzasadnienie|https://www.saos.org.pl/judgments/54961
-53703|2013-10-23|SO|XXIII Ga 1141/13|Wyrok|https://www.saos.org.pl/judgments/53703
-50528|2013-10-11|SO|VI ACa 997/13|Wyrok|https://www.saos.org.pl/judgments/50528
-26019|2013-09-25|SO|I ACa 369/13|Wyrok|https://www.saos.org.pl/judgments/26019
-13467|2013-03-28|SO|I ACa 820/12|Wyrok|https://www.saos.org.pl/judgments/13467
-4528|2012-10-25|SO|V ACa 422/12|Wyrok|https://www.saos.org.pl/judgments/4528
-5026|2012-10-23|SO|V ACa 647/12|Wyrok|https://www.saos.org.pl/judgments/5026
+saos_id|date|court|case_number|type|score|saos_url
+50528|2013-10-11|SO|VI ACa 997/13|Wyrok|56|https://www.saos.org.pl/judgments/50528
+26019|2013-09-25|SO|I ACa 369/13|Wyrok|56|https://www.saos.org.pl/judgments/26019
+13467|2013-03-28|SO|I ACa 820/12|Wyrok|56|https://www.saos.org.pl/judgments/13467
+4528|2012-10-25|SO|V ACa 422/12|Wyrok|56|https://www.saos.org.pl/judgments/4528
+5026|2012-10-23|SO|V ACa 647/12|Wyrok|56|https://www.saos.org.pl/judgments/5026

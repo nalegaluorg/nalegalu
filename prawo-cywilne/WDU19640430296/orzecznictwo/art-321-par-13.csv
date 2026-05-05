@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-319786|2014-04-10|SO|XX GC 1451/13|Uzasadnienie|https://www.saos.org.pl/judgments/319786
-90518|2009-07-02|SN|V CNP 9/09|Wyrok|https://www.saos.org.pl/judgments/90518
+saos_id|date|court|case_number|type|score|saos_url
+90518|2009-07-02|SN|V CNP 9/09|Wyrok|78|https://www.saos.org.pl/judgments/90518

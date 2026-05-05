@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|https://www.saos.org.pl/judgments/518583
-402400|2018-05-29|SO|XVIII Ko 56/17|Wyrok|https://www.saos.org.pl/judgments/402400
-327862|2017-01-10|SO|II AKa 128/16|Uzasadnienie|https://www.saos.org.pl/judgments/327862
-81129|2002-01-15|SN|II KZ 50/01|Postanowienie|https://www.saos.org.pl/judgments/81129
+saos_id|date|court|case_number|type|score|saos_url
+81129|2002-01-15|SN|II KZ 50/01|Postanowienie|69|https://www.saos.org.pl/judgments/81129
+518583|2024-02-29|SO|II AKa 56/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/518583
+327862|2017-01-10|SO|II AKa 128/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/327862

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-289090|2016-11-18|SO|II K 1317/14|Wyrok|https://www.saos.org.pl/judgments/289090
-127485|2015-01-16|SO|IV Ka 1074/14|Wyrok|https://www.saos.org.pl/judgments/127485
+saos_id|date|court|case_number|type|score|saos_url
+127485|2015-01-16|SO|IV Ka 1074/14|Wyrok|40|https://www.saos.org.pl/judgments/127485

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-294764|2017-02-21|SO|V ACa 298/16|Wyrok|https://www.saos.org.pl/judgments/294764
-53066|2014-05-20|SO|II Cz 266/14|Postanowienie|https://www.saos.org.pl/judgments/53066
+saos_id|date|court|case_number|type|score|saos_url
+294764|2017-02-21|SO|V ACa 298/16|Wyrok|56|https://www.saos.org.pl/judgments/294764

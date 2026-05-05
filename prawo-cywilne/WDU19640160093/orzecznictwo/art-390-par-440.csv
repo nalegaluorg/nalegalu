@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-197120|2015-08-05|SO|I ACa 269/15|Wyrok|https://www.saos.org.pl/judgments/197120
-45388|2014-03-06|SO|I ACa 886/13|Wyrok|https://www.saos.org.pl/judgments/45388
-165057|2008-12-03|SN|V CSK 310/08|Wyrok|https://www.saos.org.pl/judgments/165057
+saos_id|date|court|case_number|type|score|saos_url
+165057|2008-12-03|SN|V CSK 310/08|Wyrok|78|https://www.saos.org.pl/judgments/165057
+197120|2015-08-05|SO|I ACa 269/15|Wyrok|56|https://www.saos.org.pl/judgments/197120
+45388|2014-03-06|SO|I ACa 886/13|Wyrok|56|https://www.saos.org.pl/judgments/45388

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-281714|2017-02-27|SO|III Ca 1608/16|Uzasadnienie|https://www.saos.org.pl/judgments/281714
-7221|2012-11-13|SO|VI ACa 801/12|Wyrok|https://www.saos.org.pl/judgments/7221
-18399|2011-03-03|SO|XVII AmC 2061/09|Uzasadnienie|https://www.saos.org.pl/judgments/18399
+saos_id|date|court|case_number|type|score|saos_url
+7221|2012-11-13|SO|VI ACa 801/12|Wyrok|56|https://www.saos.org.pl/judgments/7221
+281714|2017-02-27|SO|III Ca 1608/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281714

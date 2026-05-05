@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-109666|2010-03-18|TK|K 8/08|Wyrok|https://www.saos.org.pl/judgments/109666
+saos_id|date|court|case_number|type|score|saos_url
+109666|2010-03-18|TK|K 8/08|Wyrok|98|https://www.saos.org.pl/judgments/109666

@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-481602|2022-12-01|SO|VI GNc 3738/22|Zarządzenie|https://www.saos.org.pl/judgments/481602
-391078|2019-01-09|SO|I AGz 610/18|Postanowienie|https://www.saos.org.pl/judgments/391078
-134580|2015-02-09|SO|I S 15/15|Postanowienie|https://www.saos.org.pl/judgments/134580
-44439|2014-04-25|SO|VI Gz 81/14|Postanowienie|https://www.saos.org.pl/judgments/44439
-26669|2013-11-05|SO|IV Ka 540/13|Wyrok|https://www.saos.org.pl/judgments/26669
-23270|2013-10-18|SO|I ACz 1590/13|Postanowienie|https://www.saos.org.pl/judgments/23270
-140592|2013-06-27|SO|I Co 46/13|Postanowienie|https://www.saos.org.pl/judgments/140592
-5050|2013-02-05|SO|II Cz 114/13|Postanowienie|https://www.saos.org.pl/judgments/5050
+saos_id|date|court|case_number|type|score|saos_url
+391078|2019-01-09|SO|I AGz 610/18|Postanowienie|47|https://www.saos.org.pl/judgments/391078
+134580|2015-02-09|SO|I S 15/15|Postanowienie|47|https://www.saos.org.pl/judgments/134580
+23270|2013-10-18|SO|I ACz 1590/13|Postanowienie|47|https://www.saos.org.pl/judgments/23270
+44439|2014-04-25|SO|VI Gz 81/14|Postanowienie|31|https://www.saos.org.pl/judgments/44439

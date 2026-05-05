@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-368710|2018-12-18|SO|II K 45/18|Wyrok|https://www.saos.org.pl/judgments/368710
-344839|2018-03-20|SO|VI K 963/17|Wyrok|https://www.saos.org.pl/judgments/344839
+saos_id|date|court|case_number|type|score|saos_url
+344839|2018-03-20|SO|VI K 963/17|Wyrok|40|https://www.saos.org.pl/judgments/344839

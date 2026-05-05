@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
-105500|2000-12-13|TK|P 9/00|Postanowienie|https://www.saos.org.pl/judgments/105500
+saos_id|date|court|case_number|type|score|saos_url
+105500|2000-12-13|TK|P 9/00|Postanowienie|80|https://www.saos.org.pl/judgments/105500
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902

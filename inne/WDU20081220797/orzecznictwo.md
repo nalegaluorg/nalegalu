@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 27 czerwca 200
 
 ## art. 3 (1)
 
-- 2010-02-12 | SN | [I CSK 340/09](https://www.saos.org.pl/judgments/91816) | Wyrok
+- 2010-02-12 | SN | [I CSK 340/09](https://www.saos.org.pl/judgments/91816) | Wyrok ★
 
 ## art. 70 (1)
 
-- 2010-02-12 | SN | [I CSK 340/09](https://www.saos.org.pl/judgments/91816) | Wyrok
+- 2010-02-12 | SN | [I CSK 340/09](https://www.saos.org.pl/judgments/91816) | Wyrok ★
 

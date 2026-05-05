@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-401125|2019-10-17|SO|VI Ga 119/19|Postanowienie|https://www.saos.org.pl/judgments/401125
+saos_id|date|court|case_number|type|score|saos_url
+401125|2019-10-17|SO|VI Ga 119/19|Postanowienie|31|https://www.saos.org.pl/judgments/401125

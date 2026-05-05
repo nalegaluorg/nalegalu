@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-421207|2019-03-19|SO|I C 452/18|Uzasadnienie|https://www.saos.org.pl/judgments/421207
-53188|2014-06-24|SO|VI Ka 75/14|Wyrok|https://www.saos.org.pl/judgments/53188
+saos_id|date|court|case_number|type|score|saos_url
+421207|2019-03-19|SO|I C 452/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/421207

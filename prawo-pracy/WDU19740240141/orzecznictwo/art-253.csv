@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-511436|2024-09-25|SO|VI Pa 65/23|Wyrok|https://www.saos.org.pl/judgments/511436
-463191|2022-03-30|SO|IV P 395/21|Wyrok|https://www.saos.org.pl/judgments/463191
-489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|https://www.saos.org.pl/judgments/489823
-297219|2017-06-29|SO|VIII Pa 17/17|Wyrok|https://www.saos.org.pl/judgments/297219
-266235|2016-11-24|SO|I C 865/15|Uzasadnienie|https://www.saos.org.pl/judgments/266235
-155514|2014-11-03|SO|VI P 514/14|Wyrok|https://www.saos.org.pl/judgments/155514
-42010|2014-02-27|SO|VII Pa 32/14|Wyrok|https://www.saos.org.pl/judgments/42010
-47782|2013-12-17|SO|X P 687/13|Wyrok|https://www.saos.org.pl/judgments/47782
-92553|2010-06-29|SN|I PK 51/10|Wyrok|https://www.saos.org.pl/judgments/92553
-84718|2006-11-15|SN|I BP 12/06|Wyrok|https://www.saos.org.pl/judgments/84718
+saos_id|date|court|case_number|type|score|saos_url
+92553|2010-06-29|SN|I PK 51/10|Wyrok|78|https://www.saos.org.pl/judgments/92553
+84718|2006-11-15|SN|I BP 12/06|Wyrok|78|https://www.saos.org.pl/judgments/84718
+489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/489823
+155514|2014-11-03|SO|VI P 514/14|Wyrok|40|https://www.saos.org.pl/judgments/155514

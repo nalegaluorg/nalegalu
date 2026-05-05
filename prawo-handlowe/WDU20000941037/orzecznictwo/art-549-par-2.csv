@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-454900|2021-11-03|SO|V ACa 213/21|Wyrok|https://www.saos.org.pl/judgments/454900
-423244|2020-09-25|SO|II Ca 1172/19|Wyrok|https://www.saos.org.pl/judgments/423244
-317254|2017-11-28|SO|I C 559/17|Wyrok|https://www.saos.org.pl/judgments/317254
-345328|2017-11-20|SO|XII Gz 811/17|Postanowienie|https://www.saos.org.pl/judgments/345328
-245520|2015-05-29|SN|V CSK 479/14|Wyrok|https://www.saos.org.pl/judgments/245520
+saos_id|date|court|case_number|type|score|saos_url
+245520|2015-05-29|SN|V CSK 479/14|Wyrok|78|https://www.saos.org.pl/judgments/245520
+454900|2021-11-03|SO|V ACa 213/21|Wyrok|56|https://www.saos.org.pl/judgments/454900
+317254|2017-11-28|SO|I C 559/17|Wyrok|40|https://www.saos.org.pl/judgments/317254
+345328|2017-11-20|SO|XII Gz 811/17|Postanowienie|31|https://www.saos.org.pl/judgments/345328

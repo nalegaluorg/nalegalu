@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-500040|2023-07-20|SO|I Cgg 99/22|Wyrok|https://www.saos.org.pl/judgments/500040
-363070|2018-06-19|SO|XV Ca 1463/17|Postanowienie|https://www.saos.org.pl/judgments/363070
-351605|2018-05-14|SO|III Ca 1762/17|Uzasadnienie|https://www.saos.org.pl/judgments/351605
-337629|2018-04-20|SO|II Ns 811/17|Postanowienie|https://www.saos.org.pl/judgments/337629
-307152|2017-07-03|SO|X Ns 1762/16|Uzasadnienie|https://www.saos.org.pl/judgments/307152
+saos_id|date|court|case_number|type|score|saos_url
+363070|2018-06-19|SO|XV Ca 1463/17|Postanowienie|31|https://www.saos.org.pl/judgments/363070
+337629|2018-04-20|SO|II Ns 811/17|Postanowienie|31|https://www.saos.org.pl/judgments/337629
+351605|2018-05-14|SO|III Ca 1762/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/351605

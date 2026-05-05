@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-431529|2020-08-27|SO|II AKz 866/20|Postanowienie|https://www.saos.org.pl/judgments/431529
-451357|2020-05-12|SO|II AKz 353/20|Postanowienie|https://www.saos.org.pl/judgments/451357
-407835|2019-08-06|SO|II AKz 704/19|Postanowienie|https://www.saos.org.pl/judgments/407835
-267153|2017-01-23|SO|III K 254/16|Postanowienie|https://www.saos.org.pl/judgments/267153
-5285|2013-02-08|SO|III Kop 27/13|Postanowienie|https://www.saos.org.pl/judgments/5285
+saos_id|date|court|case_number|type|score|saos_url
+431529|2020-08-27|SO|II AKz 866/20|Postanowienie|47|https://www.saos.org.pl/judgments/431529
+451357|2020-05-12|SO|II AKz 353/20|Postanowienie|47|https://www.saos.org.pl/judgments/451357
+407835|2019-08-06|SO|II AKz 704/19|Postanowienie|47|https://www.saos.org.pl/judgments/407835
+267153|2017-01-23|SO|III K 254/16|Postanowienie|31|https://www.saos.org.pl/judgments/267153

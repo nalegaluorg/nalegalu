@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-411506|2020-02-07|SO|VI P 142/18|Wyrok|https://www.saos.org.pl/judgments/411506
-284789|2017-02-22|SO|VI P 783/15|Wyrok|https://www.saos.org.pl/judgments/284789
-285871|2017-02-15|SO|VI P 785/15|Wyrok|https://www.saos.org.pl/judgments/285871
-60699|2014-01-09|SO|VI P 100/13|Wyrok|https://www.saos.org.pl/judgments/60699
-70259|2013-11-19|SO|VI P 83/13|Wyrok|https://www.saos.org.pl/judgments/70259
-81179|2002-02-05|SN|I PKN 845/00|Wyrok|https://www.saos.org.pl/judgments/81179
-80849|2001-09-21|SN|I PKN 626/00|Wyrok|https://www.saos.org.pl/judgments/80849
-79685|2000-05-10|SN|I PKN 646/99|Wyrok|https://www.saos.org.pl/judgments/79685
-77724|1997-06-12|SN|I PKN 204/97|Wyrok|https://www.saos.org.pl/judgments/77724
+saos_id|date|court|case_number|type|score|saos_url
+81179|2002-02-05|SN|I PKN 845/00|Wyrok|78|https://www.saos.org.pl/judgments/81179
+80849|2001-09-21|SN|I PKN 626/00|Wyrok|78|https://www.saos.org.pl/judgments/80849
+79685|2000-05-10|SN|I PKN 646/99|Wyrok|78|https://www.saos.org.pl/judgments/79685
+77724|1997-06-12|SN|I PKN 204/97|Wyrok|78|https://www.saos.org.pl/judgments/77724
+60699|2014-01-09|SO|VI P 100/13|Wyrok|40|https://www.saos.org.pl/judgments/60699
+70259|2013-11-19|SO|VI P 83/13|Wyrok|40|https://www.saos.org.pl/judgments/70259

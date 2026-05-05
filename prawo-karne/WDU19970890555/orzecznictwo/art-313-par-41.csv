@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99489|2012-10-25|SN|IV KK 226/12|Postanowienie|https://www.saos.org.pl/judgments/99489
+saos_id|date|court|case_number|type|score|saos_url
+99489|2012-10-25|SN|IV KK 226/12|Postanowienie|69|https://www.saos.org.pl/judgments/99489

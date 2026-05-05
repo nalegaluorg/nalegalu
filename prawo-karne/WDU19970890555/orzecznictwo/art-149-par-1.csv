@@ -1,16 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-444398|2019-07-30|SO|II AKz 664/19|Postanowienie|https://www.saos.org.pl/judgments/444398
-315472|2017-10-23|SO|II AKa 180/17|Wyrok|https://www.saos.org.pl/judgments/315472
-168889|2015-04-14|SN|SNO 14/15|Uchwała|https://www.saos.org.pl/judgments/168889
-168510|2015-03-04|SN|SNO 6/15|Wyrok|https://www.saos.org.pl/judgments/168510
-76089|2014-12-09|SO|VI Ka 671/14|Wyrok|https://www.saos.org.pl/judgments/76089
-65847|2014-10-10|SO|VI Ka 437/14|Wyrok|https://www.saos.org.pl/judgments/65847
-147879|2014-05-28|SO|II AKa 63/14|Wyrok|https://www.saos.org.pl/judgments/147879
-104591|2014-02-25|SN|SNO 41/13|Wyrok|https://www.saos.org.pl/judgments/104591
-31911|2014-01-09|SO|II Ka 580/13|Wyrok|https://www.saos.org.pl/judgments/31911
-132608|2013-12-30|SO|X Ka 1108/13|Uzasadnienie|https://www.saos.org.pl/judgments/132608
-90377|2009-06-09|SN|II KZ 32/09|Postanowienie|https://www.saos.org.pl/judgments/90377
-89700|2009-02-16|SN|SNO 2/09|Wyrok|https://www.saos.org.pl/judgments/89700
-88233|2008-06-10|SN|SNO 41/08|Wyrok|https://www.saos.org.pl/judgments/88233
-88187|2008-06-04|SN|SNO 36/08|Wyrok|https://www.saos.org.pl/judgments/88187
-87144|2008-01-23|SN|SNO 90/07|Wyrok|https://www.saos.org.pl/judgments/87144
+saos_id|date|court|case_number|type|score|saos_url
+168889|2015-04-14|SN|SNO 14/15|Uchwała|89|https://www.saos.org.pl/judgments/168889
+168510|2015-03-04|SN|SNO 6/15|Wyrok|78|https://www.saos.org.pl/judgments/168510
+104591|2014-02-25|SN|SNO 41/13|Wyrok|78|https://www.saos.org.pl/judgments/104591
+89700|2009-02-16|SN|SNO 2/09|Wyrok|78|https://www.saos.org.pl/judgments/89700
+88233|2008-06-10|SN|SNO 41/08|Wyrok|78|https://www.saos.org.pl/judgments/88233
+88187|2008-06-04|SN|SNO 36/08|Wyrok|78|https://www.saos.org.pl/judgments/88187
+87144|2008-01-23|SN|SNO 90/07|Wyrok|78|https://www.saos.org.pl/judgments/87144
+90377|2009-06-09|SN|II KZ 32/09|Postanowienie|69|https://www.saos.org.pl/judgments/90377
+315472|2017-10-23|SO|II AKa 180/17|Wyrok|56|https://www.saos.org.pl/judgments/315472
+147879|2014-05-28|SO|II AKa 63/14|Wyrok|56|https://www.saos.org.pl/judgments/147879
+444398|2019-07-30|SO|II AKz 664/19|Postanowienie|47|https://www.saos.org.pl/judgments/444398
+31911|2014-01-09|SO|II Ka 580/13|Wyrok|40|https://www.saos.org.pl/judgments/31911

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-345812|2018-05-17|SO|I C 271/17|Uzasadnienie|https://www.saos.org.pl/judgments/345812
-325043|2017-11-07|SO|I ACa 623/16|Wyrok|https://www.saos.org.pl/judgments/325043
-234857|2016-05-04|SO|I Ca 361/15|Wyrok|https://www.saos.org.pl/judgments/234857
-494043|2015-06-10|SO|I ACa 308/15|Wyrok|https://www.saos.org.pl/judgments/494043
+saos_id|date|court|case_number|type|score|saos_url
+325043|2017-11-07|SO|I ACa 623/16|Wyrok|56|https://www.saos.org.pl/judgments/325043
+494043|2015-06-10|SO|I ACa 308/15|Wyrok|56|https://www.saos.org.pl/judgments/494043

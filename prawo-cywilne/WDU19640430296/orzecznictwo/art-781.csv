@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531236|2024-09-12|SO|I C 226/24|Wyrok|https://www.saos.org.pl/judgments/531236
-449581|2021-05-28|SO|XV Ca 1902/20|Wyrok|https://www.saos.org.pl/judgments/449581
+saos_id|date|court|case_number|type|score|saos_url
+449581|2021-05-28|SO|XV Ca 1902/20|Wyrok|40|https://www.saos.org.pl/judgments/449581

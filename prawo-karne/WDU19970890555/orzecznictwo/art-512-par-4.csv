@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-80970|2001-11-09|SN|V KKN 264/01|Wyrok|https://www.saos.org.pl/judgments/80970
-80378|2001-03-02|SN|V KKN 3/01|Wyrok|https://www.saos.org.pl/judgments/80378
+saos_id|date|court|case_number|type|score|saos_url
+80970|2001-11-09|SN|V KKN 264/01|Wyrok|78|https://www.saos.org.pl/judgments/80970
+80378|2001-03-02|SN|V KKN 3/01|Wyrok|78|https://www.saos.org.pl/judgments/80378

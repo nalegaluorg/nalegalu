@@ -1,19 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-482470|2023-01-20|SO|II Ka 841/22|Wyrok|https://www.saos.org.pl/judgments/482470
-452575|2021-06-01|SO|II AKa 252/20|Uzasadnienie|https://www.saos.org.pl/judgments/452575
-382982|2019-03-28|SO|V Ka 632/18|Wyrok|https://www.saos.org.pl/judgments/382982
-213581|2016-03-01|SO|VI Ka 5/16|Wyrok|https://www.saos.org.pl/judgments/213581
-190545|2015-11-23|SO|II Ka 412/15|Wyrok|https://www.saos.org.pl/judgments/190545
-152826|2015-04-23|SO|V Ka 42/15|Wyrok|https://www.saos.org.pl/judgments/152826
-152050|2015-04-17|SO|II Ka 85/15|Wyrok|https://www.saos.org.pl/judgments/152050
-152386|2015-04-16|SO|XVII Ka 233/15|Wyrok|https://www.saos.org.pl/judgments/152386
-130815|2015-01-27|SO|XVII Ka 1392/14|Wyrok|https://www.saos.org.pl/judgments/130815
-130816|2015-01-19|SO|XVII Ka 1395/14|Wyrok|https://www.saos.org.pl/judgments/130816
-63440|2014-09-05|SO|II Ka 130/14|Wyrok|https://www.saos.org.pl/judgments/63440
-46098|2014-03-06|SO|IX Ka 1137/13|Wyrok|https://www.saos.org.pl/judgments/46098
-16293|2013-05-24|SO|VII Ka 152/13|Wyrok|https://www.saos.org.pl/judgments/16293
-10475|2013-03-08|SO|I ACa 31/13|Wyrok|https://www.saos.org.pl/judgments/10475
-4469|2013-01-24|SO|IV Ka 1185/12|Wyrok|https://www.saos.org.pl/judgments/4469
-137492|2012-11-14|SO|II AKa 308/12|Wyrok|https://www.saos.org.pl/judgments/137492
-111011|2012-09-25|TK|SK 28/10|Wyrok|https://www.saos.org.pl/judgments/111011
-89567|2009-01-28|SN|IV CSK 386/08|Wyrok|https://www.saos.org.pl/judgments/89567
+saos_id|date|court|case_number|type|score|saos_url
+111011|2012-09-25|TK|SK 28/10|Wyrok|98|https://www.saos.org.pl/judgments/111011
+89567|2009-01-28|SN|IV CSK 386/08|Wyrok|78|https://www.saos.org.pl/judgments/89567
+10475|2013-03-08|SO|I ACa 31/13|Wyrok|56|https://www.saos.org.pl/judgments/10475
+137492|2012-11-14|SO|II AKa 308/12|Wyrok|56|https://www.saos.org.pl/judgments/137492
+452575|2021-06-01|SO|II AKa 252/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/452575
+213581|2016-03-01|SO|VI Ka 5/16|Wyrok|40|https://www.saos.org.pl/judgments/213581
+152386|2015-04-16|SO|XVII Ka 233/15|Wyrok|40|https://www.saos.org.pl/judgments/152386
+130815|2015-01-27|SO|XVII Ka 1392/14|Wyrok|40|https://www.saos.org.pl/judgments/130815
+130816|2015-01-19|SO|XVII Ka 1395/14|Wyrok|40|https://www.saos.org.pl/judgments/130816

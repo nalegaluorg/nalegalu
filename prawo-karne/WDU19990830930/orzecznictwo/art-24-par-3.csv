@@ -1,20 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-436551|2021-02-09|SO|XII K 153/20|Wyrok|https://www.saos.org.pl/judgments/436551
-433342|2019-12-31|SO|II K 759/18|Uzasadnienie|https://www.saos.org.pl/judgments/433342
-433546|2019-12-09|SO|II K 759/18|Wyrok|https://www.saos.org.pl/judgments/433546
-394698|2019-09-18|SO|II Ka 191/19|Wyrok|https://www.saos.org.pl/judgments/394698
-363994|2018-10-26|SO|VI Ka 189/18|Wyrok|https://www.saos.org.pl/judgments/363994
-348414|2018-06-19|SO|IV Ka 541/18|Wyrok|https://www.saos.org.pl/judgments/348414
-358174|2018-05-15|SO|XIV K 431/16|Wyrok|https://www.saos.org.pl/judgments/358174
-344646|2018-03-15|SO|IV Ka 172/18|Wyrok|https://www.saos.org.pl/judgments/344646
-414810|2018-03-07|SO|II K 458/17|Wyrok|https://www.saos.org.pl/judgments/414810
-332500|2017-12-28|SO|V Ka 951/17|Uzasadnienie|https://www.saos.org.pl/judgments/332500
-349139|2017-12-04|SO|II K 344/17|Zarządzenie|https://www.saos.org.pl/judgments/349139
-349138|2017-12-04|SO|II K 344/17|Wyrok|https://www.saos.org.pl/judgments/349138
-303472|2017-08-11|SO|II K 100/17|Wyrok|https://www.saos.org.pl/judgments/303472
-295050|2017-07-12|SO|II K 2/17|Wyrok|https://www.saos.org.pl/judgments/295050
-281656|2017-03-07|SO|II K 31/17|Wyrok|https://www.saos.org.pl/judgments/281656
-216695|2016-01-27|SO|II K 497/14|Wyrok|https://www.saos.org.pl/judgments/216695
-174949|2015-05-05|SO|VI Ka 1021/14|Wyrok|https://www.saos.org.pl/judgments/174949
-63936|2014-08-26|SO|VII K 211/14|Wyrok|https://www.saos.org.pl/judgments/63936
-41522|2014-02-18|SO|VII K 1168/13|Wyrok|https://www.saos.org.pl/judgments/41522
+saos_id|date|court|case_number|type|score|saos_url
+433546|2019-12-09|SO|II K 759/18|Wyrok|40|https://www.saos.org.pl/judgments/433546
+363994|2018-10-26|SO|VI Ka 189/18|Wyrok|40|https://www.saos.org.pl/judgments/363994
+348414|2018-06-19|SO|IV Ka 541/18|Wyrok|40|https://www.saos.org.pl/judgments/348414
+344646|2018-03-15|SO|IV Ka 172/18|Wyrok|40|https://www.saos.org.pl/judgments/344646
+349138|2017-12-04|SO|II K 344/17|Wyrok|40|https://www.saos.org.pl/judgments/349138
+433342|2019-12-31|SO|II K 759/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/433342
+332500|2017-12-28|SO|V Ka 951/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/332500
+349139|2017-12-04|SO|II K 344/17|Zarządzenie|27|https://www.saos.org.pl/judgments/349139

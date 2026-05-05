@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-213561|2016-01-19|SO|VI ACa 1388/15|Wyrok|https://www.saos.org.pl/judgments/213561
-227024|2015-06-03|SO|XXV C 813/14|Wyrok|https://www.saos.org.pl/judgments/227024
+saos_id|date|court|case_number|type|score|saos_url
+213561|2016-01-19|SO|VI ACa 1388/15|Wyrok|56|https://www.saos.org.pl/judgments/213561

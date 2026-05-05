@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-541070|2024-05-22|SO|V ACa 137/22|Wyrok|https://www.saos.org.pl/judgments/541070
-374022|2018-12-20|SO|VI ACa 1108/17|Wyrok|https://www.saos.org.pl/judgments/374022
-169776|2014-10-29|SO|I ACa 455/14|Wyrok|https://www.saos.org.pl/judgments/169776
-29874|2013-02-21|SO|II Ca 951/12|Wyrok|https://www.saos.org.pl/judgments/29874
+saos_id|date|court|case_number|type|score|saos_url
+541070|2024-05-22|SO|V ACa 137/22|Wyrok|56|https://www.saos.org.pl/judgments/541070
+374022|2018-12-20|SO|VI ACa 1108/17|Wyrok|56|https://www.saos.org.pl/judgments/374022
+169776|2014-10-29|SO|I ACa 455/14|Wyrok|56|https://www.saos.org.pl/judgments/169776

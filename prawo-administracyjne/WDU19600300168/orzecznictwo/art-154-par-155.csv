@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-333238|2018-03-07|SO|III AUa 26/18|Wyrok|https://www.saos.org.pl/judgments/333238
-285807|2017-02-13|SO|VI ACa 1511/15|Wyrok|https://www.saos.org.pl/judgments/285807
-81013|2001-11-21|SN|II UKN 619/00|Wyrok|https://www.saos.org.pl/judgments/81013
+saos_id|date|court|case_number|type|score|saos_url
+81013|2001-11-21|SN|II UKN 619/00|Wyrok|78|https://www.saos.org.pl/judgments/81013
+333238|2018-03-07|SO|III AUa 26/18|Wyrok|56|https://www.saos.org.pl/judgments/333238
+285807|2017-02-13|SO|VI ACa 1511/15|Wyrok|56|https://www.saos.org.pl/judgments/285807

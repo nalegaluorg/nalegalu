@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-516575|2024-11-21|SO|II AKa 131/24|Uzasadnienie|https://www.saos.org.pl/judgments/516575
-366958|2018-12-05|SO|II AKa 181/18|Wyrok|https://www.saos.org.pl/judgments/366958
+saos_id|date|court|case_number|type|score|saos_url
+366958|2018-12-05|SO|II AKa 181/18|Wyrok|56|https://www.saos.org.pl/judgments/366958
+516575|2024-11-21|SO|II AKa 131/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/516575

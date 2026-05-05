@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-52920|2014-04-24|SO|I ACa 1587/13|Wyrok|https://www.saos.org.pl/judgments/52920
-15235|2013-01-31|SO|VI ACa 964/12|Wyrok|https://www.saos.org.pl/judgments/15235
-94024|2011-01-26|SN|II CSK 336/10|Wyrok|https://www.saos.org.pl/judgments/94024
+saos_id|date|court|case_number|type|score|saos_url
+94024|2011-01-26|SN|II CSK 336/10|Wyrok|78|https://www.saos.org.pl/judgments/94024
+52920|2014-04-24|SO|I ACa 1587/13|Wyrok|56|https://www.saos.org.pl/judgments/52920
+15235|2013-01-31|SO|VI ACa 964/12|Wyrok|56|https://www.saos.org.pl/judgments/15235

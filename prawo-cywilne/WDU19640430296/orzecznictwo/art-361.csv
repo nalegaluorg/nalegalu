@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-533472|2025-03-26|SO|II Ca 2958/24|Postanowienie|https://www.saos.org.pl/judgments/533472
-533568|2025-02-05|SO|II Ca 1786/24|Postanowienie|https://www.saos.org.pl/judgments/533568
-362179|2018-03-05|SO|II Ca 267/18|Postanowienie|https://www.saos.org.pl/judgments/362179
-38273|2013-11-28|SO|V ACa 738/13|Wyrok|https://www.saos.org.pl/judgments/38273
-36392|2013-11-20|SO|VI P 355/11|Wyrok|https://www.saos.org.pl/judgments/36392
+saos_id|date|court|case_number|type|score|saos_url
+38273|2013-11-28|SO|V ACa 738/13|Wyrok|56|https://www.saos.org.pl/judgments/38273
+36392|2013-11-20|SO|VI P 355/11|Wyrok|40|https://www.saos.org.pl/judgments/36392
+533472|2025-03-26|SO|II Ca 2958/24|Postanowienie|31|https://www.saos.org.pl/judgments/533472
+533568|2025-02-05|SO|II Ca 1786/24|Postanowienie|31|https://www.saos.org.pl/judgments/533568
+362179|2018-03-05|SO|II Ca 267/18|Postanowienie|31|https://www.saos.org.pl/judgments/362179

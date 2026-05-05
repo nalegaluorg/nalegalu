@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-402950|2019-12-31|SO|II Ko 305/18|Wyrok|https://www.saos.org.pl/judgments/402950
-349029|2018-07-05|SO|II AKa 204/18|Wyrok|https://www.saos.org.pl/judgments/349029
-402470|2018-01-12|SO|XII Ko 18/17|Uzasadnienie|https://www.saos.org.pl/judgments/402470
-231946|2016-04-18|SO|II Ko 297/15|Zarządzenie|https://www.saos.org.pl/judgments/231946
-169094|2015-05-28|SN|II KK 135/15|Postanowienie|https://www.saos.org.pl/judgments/169094
-245439|2015-04-29|SN|II KK 30/15|Wyrok|https://www.saos.org.pl/judgments/245439
+saos_id|date|court|case_number|type|score|saos_url
+245439|2015-04-29|SN|II KK 30/15|Wyrok|78|https://www.saos.org.pl/judgments/245439
+169094|2015-05-28|SN|II KK 135/15|Postanowienie|69|https://www.saos.org.pl/judgments/169094
+349029|2018-07-05|SO|II AKa 204/18|Wyrok|56|https://www.saos.org.pl/judgments/349029

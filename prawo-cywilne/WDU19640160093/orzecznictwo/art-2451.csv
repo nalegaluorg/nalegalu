@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-360626|2018-10-15|SO|I C 412/18|Wyrok|https://www.saos.org.pl/judgments/360626
-330466|2018-01-17|SO|I C 4212/17|Wyrok|https://www.saos.org.pl/judgments/330466
-280111|2016-12-01|SO|XXVII Ca 3352/16|Postanowienie|https://www.saos.org.pl/judgments/280111
-145242|2014-02-13|SO|II Ca 1023/13|Wyrok|https://www.saos.org.pl/judgments/145242
-82123|2003-07-23|SN|III CZP 50/03|Uchwała|https://www.saos.org.pl/judgments/82123
+saos_id|date|court|case_number|type|score|saos_url
+82123|2003-07-23|SN|III CZP 50/03|Uchwała|89|https://www.saos.org.pl/judgments/82123

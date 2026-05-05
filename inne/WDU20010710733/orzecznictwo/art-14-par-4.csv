@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-473458|2021-05-21|SO|I C 3548/20|Zarządzenie|https://www.saos.org.pl/judgments/473458
-249294|2016-08-02|SO|III Ca 829/16|Uzasadnienie|https://www.saos.org.pl/judgments/249294
+saos_id|date|court|case_number|type|score|saos_url
+249294|2016-08-02|SO|III Ca 829/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249294

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-82542|2004-03-04|SN|III SK 8/04|Wyrok|https://www.saos.org.pl/judgments/82542
+saos_id|date|court|case_number|type|score|saos_url
+82542|2004-03-04|SN|III SK 8/04|Wyrok|78|https://www.saos.org.pl/judgments/82542

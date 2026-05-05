@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79277|1999-09-23|SN|II UKN 121/99|Wyrok|https://www.saos.org.pl/judgments/79277
+saos_id|date|court|case_number|type|score|saos_url
+79277|1999-09-23|SN|II UKN 121/99|Wyrok|78|https://www.saos.org.pl/judgments/79277

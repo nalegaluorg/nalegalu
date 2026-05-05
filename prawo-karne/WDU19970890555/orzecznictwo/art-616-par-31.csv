@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101074|2013-03-14|SN|IV KK 1/13|Wyrok|https://www.saos.org.pl/judgments/101074
+saos_id|date|court|case_number|type|score|saos_url
+101074|2013-03-14|SN|IV KK 1/13|Wyrok|78|https://www.saos.org.pl/judgments/101074

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-484476|2023-03-15|SO|VIII Pa 125/22|Uzasadnienie|https://www.saos.org.pl/judgments/484476
-490074|2023-02-08|SO|III Pa 21/22|Wyrok|https://www.saos.org.pl/judgments/490074
-172627|2015-08-07|SO|VII Pa 92/15|Uzasadnienie|https://www.saos.org.pl/judgments/172627
-77225|1996-09-05|SN|II PRN 9/96|Wyrok|https://www.saos.org.pl/judgments/77225
+saos_id|date|court|case_number|type|score|saos_url
+77225|1996-09-05|SN|II PRN 9/96|Wyrok|78|https://www.saos.org.pl/judgments/77225
+484476|2023-03-15|SO|VIII Pa 125/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/484476
+172627|2015-08-07|SO|VII Pa 92/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/172627

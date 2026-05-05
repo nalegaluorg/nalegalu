@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-478900|2022-12-06|SO|IX U 249/22|Zarządzenie|https://www.saos.org.pl/judgments/478900
-272696|2017-01-24|SO|V U 1042/16|Postanowienie|https://www.saos.org.pl/judgments/272696
+saos_id|date|court|case_number|type|score|saos_url
+272696|2017-01-24|SO|V U 1042/16|Postanowienie|31|https://www.saos.org.pl/judgments/272696

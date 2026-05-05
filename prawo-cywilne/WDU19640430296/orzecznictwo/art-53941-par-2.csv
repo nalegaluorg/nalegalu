@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-165200|2010-02-11|SN|I PZ 1/10|Postanowienie|https://www.saos.org.pl/judgments/165200
+saos_id|date|court|case_number|type|score|saos_url
+165200|2010-02-11|SN|I PZ 1/10|Postanowienie|69|https://www.saos.org.pl/judgments/165200

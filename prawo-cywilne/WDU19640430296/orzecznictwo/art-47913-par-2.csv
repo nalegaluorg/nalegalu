@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-187616|2015-11-18|SO|VI GC 268/12|Wyrok|https://www.saos.org.pl/judgments/187616
-21797|2013-05-10|SO|VI ACa 1362/12|Wyrok|https://www.saos.org.pl/judgments/21797
+saos_id|date|court|case_number|type|score|saos_url
+21797|2013-05-10|SO|VI ACa 1362/12|Wyrok|56|https://www.saos.org.pl/judgments/21797

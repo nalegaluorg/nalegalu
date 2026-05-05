@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-259783|2015-05-28|SO|I C 162/14|Wyrok|https://www.saos.org.pl/judgments/259783
-275526|2014-09-19|SO|II Ca 1231/13|Wyrok|https://www.saos.org.pl/judgments/275526
+saos_id|date|court|case_number|type|score|saos_url
+259783|2015-05-28|SO|I C 162/14|Wyrok|40|https://www.saos.org.pl/judgments/259783

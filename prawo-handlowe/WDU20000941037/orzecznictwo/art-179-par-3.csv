@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-307881|2017-09-12|SO|VI GC 127/17|Wyrok|https://www.saos.org.pl/judgments/307881
+saos_id|date|court|case_number|type|score|saos_url
+307881|2017-09-12|SO|VI GC 127/17|Wyrok|40|https://www.saos.org.pl/judgments/307881

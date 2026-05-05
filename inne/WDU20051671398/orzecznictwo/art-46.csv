@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|https://www.saos.org.pl/judgments/505685
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-84764|2006-11-21|SN|III CZP 58/06|Uchwała|https://www.saos.org.pl/judgments/84764
+saos_id|date|court|case_number|type|score|saos_url
+84764|2006-11-21|SN|III CZP 58/06|Uchwała|89|https://www.saos.org.pl/judgments/84764
+505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505685

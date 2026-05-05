@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-448538|2019-08-21|SO|I ACa 820/18|Wyrok|https://www.saos.org.pl/judgments/448538
-336252|2018-04-09|SO|XII C 253/16|Wyrok|https://www.saos.org.pl/judgments/336252
+saos_id|date|court|case_number|type|score|saos_url
+448538|2019-08-21|SO|I ACa 820/18|Wyrok|56|https://www.saos.org.pl/judgments/448538
+336252|2018-04-09|SO|XII C 253/16|Wyrok|40|https://www.saos.org.pl/judgments/336252

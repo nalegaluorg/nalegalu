@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-481187|2022-09-09|SO|I Ca 244/22|Postanowienie|https://www.saos.org.pl/judgments/481187
-472916|2022-06-30|SO|I Ca 212/22|Postanowienie|https://www.saos.org.pl/judgments/472916
-427647|2020-11-06|SO|II Ca 1170/19|Wyrok|https://www.saos.org.pl/judgments/427647
+saos_id|date|court|case_number|type|score|saos_url
+427647|2020-11-06|SO|II Ca 1170/19|Wyrok|40|https://www.saos.org.pl/judgments/427647

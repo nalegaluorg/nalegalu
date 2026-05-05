@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-427267|2020-04-03|SO|III Ca 1158/19|Uzasadnienie|https://www.saos.org.pl/judgments/427267
-368206|2018-09-21|SO|III AUa 939/16|Wyrok|https://www.saos.org.pl/judgments/368206
-279935|2016-12-29|SO|VI ACa 1012/15|Wyrok|https://www.saos.org.pl/judgments/279935
-178887|2015-09-08|SO|X GC 554/14|Uzasadnienie|https://www.saos.org.pl/judgments/178887
-103070|2013-10-11|SN|I CSK 753/12|Wyrok|https://www.saos.org.pl/judgments/103070
-12940|2013-03-08|SO|VI ACa 1237/12|Wyrok|https://www.saos.org.pl/judgments/12940
+saos_id|date|court|case_number|type|score|saos_url
+103070|2013-10-11|SN|I CSK 753/12|Wyrok|78|https://www.saos.org.pl/judgments/103070
+368206|2018-09-21|SO|III AUa 939/16|Wyrok|56|https://www.saos.org.pl/judgments/368206
+279935|2016-12-29|SO|VI ACa 1012/15|Wyrok|56|https://www.saos.org.pl/judgments/279935
+12940|2013-03-08|SO|VI ACa 1237/12|Wyrok|56|https://www.saos.org.pl/judgments/12940
+427267|2020-04-03|SO|III Ca 1158/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/427267
+178887|2015-09-08|SO|X GC 554/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/178887

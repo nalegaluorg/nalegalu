@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-505233|2023-11-28|SO|III AUz 156/23|Postanowienie|https://www.saos.org.pl/judgments/505233
-397374|2019-03-21|SO|I ACa 770/18|Postanowienie|https://www.saos.org.pl/judgments/397374
+saos_id|date|court|case_number|type|score|saos_url
+505233|2023-11-28|SO|III AUz 156/23|Postanowienie|47|https://www.saos.org.pl/judgments/505233
+397374|2019-03-21|SO|I ACa 770/18|Postanowienie|47|https://www.saos.org.pl/judgments/397374

@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-533389|2025-09-05|SO|IX P 400/24|Zarządzenie|https://www.saos.org.pl/judgments/533389
-506210|2023-03-13|SO|III Ca 2325/21|Uzasadnienie|https://www.saos.org.pl/judgments/506210
-480189|2022-09-01|SO|VIII Cz 355/22|Uzasadnienie|https://www.saos.org.pl/judgments/480189
-468631|2022-05-25|SO|V Pa 35/21|Wyrok|https://www.saos.org.pl/judgments/468631
-473021|2021-12-10|SO|VI GC 1587/20|Postanowienie|https://www.saos.org.pl/judgments/473021
-421814|2020-09-02|SO|VIII U 1374/16|Uzasadnienie|https://www.saos.org.pl/judgments/421814
-423120|2020-03-11|SO|I C 1902/19|Wyrok|https://www.saos.org.pl/judgments/423120
-527115|2019-12-31|SO|II Ca 409/19|Postanowienie|https://www.saos.org.pl/judgments/527115
-371507|2019-02-01|SO|I C 46/18|Wyrok|https://www.saos.org.pl/judgments/371507
-361752|2018-09-24|SO|VIII Pz 69/18|Postanowienie|https://www.saos.org.pl/judgments/361752
-356829|2018-08-29|SO|VIII Pz 61/18|Postanowienie|https://www.saos.org.pl/judgments/356829
-334970|2018-02-01|SO|III RC 447/16|Wyrok|https://www.saos.org.pl/judgments/334970
-336463|2018-01-31|SO|I ACa 1706/16|Wyrok|https://www.saos.org.pl/judgments/336463
-198503|2014-10-24|SO|II C 179/13|Wyrok|https://www.saos.org.pl/judgments/198503
-13026|2013-06-14|SO|VIII Cz 313/13|Postanowienie|https://www.saos.org.pl/judgments/13026
-91556|2010-01-07|SN|II PZP 13/09|Uchwała|https://www.saos.org.pl/judgments/91556
-89138|2008-11-14|SN|I CZ 86/08|Postanowienie|https://www.saos.org.pl/judgments/89138
-77040|1996-01-18|SN|I PRN 102/95|Wyrok|https://www.saos.org.pl/judgments/77040
+saos_id|date|court|case_number|type|score|saos_url
+91556|2010-01-07|SN|II PZP 13/09|Uchwała|89|https://www.saos.org.pl/judgments/91556
+77040|1996-01-18|SN|I PRN 102/95|Wyrok|78|https://www.saos.org.pl/judgments/77040
+89138|2008-11-14|SN|I CZ 86/08|Postanowienie|69|https://www.saos.org.pl/judgments/89138
+336463|2018-01-31|SO|I ACa 1706/16|Wyrok|56|https://www.saos.org.pl/judgments/336463
+423120|2020-03-11|SO|I C 1902/19|Wyrok|40|https://www.saos.org.pl/judgments/423120
+198503|2014-10-24|SO|II C 179/13|Wyrok|40|https://www.saos.org.pl/judgments/198503
+506210|2023-03-13|SO|III Ca 2325/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506210
+421814|2020-09-02|SO|VIII U 1374/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/421814

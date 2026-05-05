@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-494953|2024-06-28|SO|I AGa 205/23|Wyrok|https://www.saos.org.pl/judgments/494953
-470834|2022-07-12|SO|I ACa 143/21|Wyrok|https://www.saos.org.pl/judgments/470834
-469296|2022-05-30|SO|I ACa 107/21|Wyrok|https://www.saos.org.pl/judgments/469296
-526580|2020-07-27|SO|II Ca 191/20|Uzasadnienie|https://www.saos.org.pl/judgments/526580
+saos_id|date|court|case_number|type|score|saos_url
+494953|2024-06-28|SO|I AGa 205/23|Wyrok|56|https://www.saos.org.pl/judgments/494953
+470834|2022-07-12|SO|I ACa 143/21|Wyrok|56|https://www.saos.org.pl/judgments/470834
+469296|2022-05-30|SO|I ACa 107/21|Wyrok|56|https://www.saos.org.pl/judgments/469296

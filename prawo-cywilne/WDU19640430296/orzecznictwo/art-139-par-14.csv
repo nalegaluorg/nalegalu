@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-437611|2021-02-12|SO|III C 1464/19|Postanowienie|https://www.saos.org.pl/judgments/437611
-254055|2016-06-28|SO|VI ACa 736/15|Wyrok|https://www.saos.org.pl/judgments/254055
-312759|2015-02-04|SO|XVII AmE 112/13|Wyrok|https://www.saos.org.pl/judgments/312759
+saos_id|date|court|case_number|type|score|saos_url
+254055|2016-06-28|SO|VI ACa 736/15|Wyrok|56|https://www.saos.org.pl/judgments/254055

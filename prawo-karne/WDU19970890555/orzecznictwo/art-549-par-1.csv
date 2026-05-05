@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-104605|2014-02-27|SN|WA 4/14|Wyrok|https://www.saos.org.pl/judgments/104605
-107284|2005-01-11|TK|SK 60/03|Wyrok|https://www.saos.org.pl/judgments/107284
-79714|2000-05-17|SN|IV KKN 122/97|Postanowienie|https://www.saos.org.pl/judgments/79714
+saos_id|date|court|case_number|type|score|saos_url
+107284|2005-01-11|TK|SK 60/03|Wyrok|98|https://www.saos.org.pl/judgments/107284
+104605|2014-02-27|SN|WA 4/14|Wyrok|78|https://www.saos.org.pl/judgments/104605
+79714|2000-05-17|SN|IV KKN 122/97|Postanowienie|69|https://www.saos.org.pl/judgments/79714

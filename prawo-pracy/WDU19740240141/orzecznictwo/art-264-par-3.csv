@@ -1,22 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-515376|2021-12-17|SO|XXI Pa 90/21|Wyrok|https://www.saos.org.pl/judgments/515376
-433942|2020-01-24|SO|VII Pa 123/19|Wyrok|https://www.saos.org.pl/judgments/433942
-381557|2019-04-16|SO|VII Pa 15/19|Wyrok|https://www.saos.org.pl/judgments/381557
-375760|2018-11-22|SO|VII Pa 102/18|Wyrok|https://www.saos.org.pl/judgments/375760
-362327|2018-10-17|SO|X P 251/18|Wyrok|https://www.saos.org.pl/judgments/362327
-315597|2017-10-23|SO|X P 235/17|Wyrok|https://www.saos.org.pl/judgments/315597
-313496|2017-10-23|SO|X P 521/16|Wyrok|https://www.saos.org.pl/judgments/313496
-263648|2016-12-22|SO|IV P 92/16|Wyrok|https://www.saos.org.pl/judgments/263648
-233830|2016-05-30|SO|VII P 46/15|Wyrok|https://www.saos.org.pl/judgments/233830
-168036|2015-01-20|SN|III PK 52/14|Wyrok|https://www.saos.org.pl/judgments/168036
-36801|2013-11-05|SO|III APa 18/13|Wyrok|https://www.saos.org.pl/judgments/36801
-15702|2013-06-18|SO|V P 7/11|Wyrok|https://www.saos.org.pl/judgments/15702
-7706|2013-01-31|SO|V Pa 18/13|Wyrok|https://www.saos.org.pl/judgments/7706
-84709|2006-11-10|SN|III PK 73/06|Wyrok|https://www.saos.org.pl/judgments/84709
-82493|2004-02-11|SN|III PZP 14/03|Uchwała|https://www.saos.org.pl/judgments/82493
-81753|2002-12-12|SN|II UK 176/02|Postanowienie|https://www.saos.org.pl/judgments/81753
-81613|2002-10-02|SN|III PZP 17/02|Uchwała|https://www.saos.org.pl/judgments/81613
-80629|2001-06-08|SN|I PKN 490/00|Wyrok|https://www.saos.org.pl/judgments/80629
-78301|1998-05-13|SN|I PKN 101/98|Wyrok|https://www.saos.org.pl/judgments/78301
-77384|1997-01-07|SN|I PKN 54/96|Wyrok|https://www.saos.org.pl/judgments/77384
-77048|1996-01-18|SN|I PZP 37/95|Uchwała|https://www.saos.org.pl/judgments/77048
+saos_id|date|court|case_number|type|score|saos_url
+82493|2004-02-11|SN|III PZP 14/03|Uchwała|96|https://www.saos.org.pl/judgments/82493
+81613|2002-10-02|SN|III PZP 17/02|Uchwała|89|https://www.saos.org.pl/judgments/81613
+77048|1996-01-18|SN|I PZP 37/95|Uchwała|89|https://www.saos.org.pl/judgments/77048
+168036|2015-01-20|SN|III PK 52/14|Wyrok|78|https://www.saos.org.pl/judgments/168036
+84709|2006-11-10|SN|III PK 73/06|Wyrok|78|https://www.saos.org.pl/judgments/84709
+80629|2001-06-08|SN|I PKN 490/00|Wyrok|78|https://www.saos.org.pl/judgments/80629
+78301|1998-05-13|SN|I PKN 101/98|Wyrok|78|https://www.saos.org.pl/judgments/78301
+77384|1997-01-07|SN|I PKN 54/96|Wyrok|78|https://www.saos.org.pl/judgments/77384
+81753|2002-12-12|SN|II UK 176/02|Postanowienie|69|https://www.saos.org.pl/judgments/81753
+36801|2013-11-05|SO|III APa 18/13|Wyrok|56|https://www.saos.org.pl/judgments/36801
+433942|2020-01-24|SO|VII Pa 123/19|Wyrok|40|https://www.saos.org.pl/judgments/433942
+381557|2019-04-16|SO|VII Pa 15/19|Wyrok|40|https://www.saos.org.pl/judgments/381557
+375760|2018-11-22|SO|VII Pa 102/18|Wyrok|40|https://www.saos.org.pl/judgments/375760
+7706|2013-01-31|SO|V Pa 18/13|Wyrok|40|https://www.saos.org.pl/judgments/7706

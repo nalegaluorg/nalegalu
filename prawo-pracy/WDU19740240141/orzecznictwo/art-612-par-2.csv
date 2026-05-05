@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-94095|2011-02-04|SN|II PK 187/10|Wyrok|https://www.saos.org.pl/judgments/94095
-89214|2008-11-20|SN|III UK 57/08|Wyrok|https://www.saos.org.pl/judgments/89214
-78890|1999-03-04|SN|III ZP 3/99|Uchwała|https://www.saos.org.pl/judgments/78890
+saos_id|date|court|case_number|type|score|saos_url
+78890|1999-03-04|SN|III ZP 3/99|Uchwała|89|https://www.saos.org.pl/judgments/78890
+94095|2011-02-04|SN|II PK 187/10|Wyrok|78|https://www.saos.org.pl/judgments/94095
+89214|2008-11-20|SN|III UK 57/08|Wyrok|78|https://www.saos.org.pl/judgments/89214

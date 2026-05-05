@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543179|2026-01-29|SO|II AKa 70/23|Uzasadnienie|https://www.saos.org.pl/judgments/543179
-68463|2014-10-08|SO|VII Ka 610/14|Wyrok|https://www.saos.org.pl/judgments/68463
+saos_id|date|court|case_number|type|score|saos_url
+543179|2026-01-29|SO|II AKa 70/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/543179

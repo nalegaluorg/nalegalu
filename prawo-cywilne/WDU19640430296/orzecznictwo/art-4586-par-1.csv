@@ -1,2 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-451445|2021-07-22|SO|XV GC 1504/20|Wyrok|https://www.saos.org.pl/judgments/451445
+saos_id|date|court|case_number|type|score|saos_url
+538271|2025-09-19|SO|I AGa 304/23|Wyrok|56|https://www.saos.org.pl/judgments/538271
+533392|2025-04-23|SO|V AGa 425/22|Wyrok|56|https://www.saos.org.pl/judgments/533392
+495087|2023-06-02|SO|I AGa 413/21|Wyrok|56|https://www.saos.org.pl/judgments/495087
+512784|2024-01-05|SO|VIII GC 325/22|Wyrok|40|https://www.saos.org.pl/judgments/512784
+528284|2025-02-28|SO|XIII Ga 1018/24|Zarządzenie|27|https://www.saos.org.pl/judgments/528284
+488384|2023-03-14|SO|X GC 1157/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488384
+488533|2022-11-21|SO|X GC 667/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488533

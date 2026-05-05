@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-153521|2015-02-10|SO|I ACa 1539/14|Wyrok|https://www.saos.org.pl/judgments/153521
+saos_id|date|court|case_number|type|score|saos_url
+153521|2015-02-10|SO|I ACa 1539/14|Wyrok|56|https://www.saos.org.pl/judgments/153521

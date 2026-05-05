@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-379558|2019-03-13|SO|IX Ca 1348/18|Wyrok|https://www.saos.org.pl/judgments/379558
-362059|2018-04-09|SO|XII Ga 109/18|Wyrok|https://www.saos.org.pl/judgments/362059
-490428|2015-04-23|SO|I ACa 1363/14|Wyrok|https://www.saos.org.pl/judgments/490428
+saos_id|date|court|case_number|type|score|saos_url
+490428|2015-04-23|SO|I ACa 1363/14|Wyrok|56|https://www.saos.org.pl/judgments/490428
+362059|2018-04-09|SO|XII Ga 109/18|Wyrok|40|https://www.saos.org.pl/judgments/362059

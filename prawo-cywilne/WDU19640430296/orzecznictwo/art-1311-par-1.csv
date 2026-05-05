@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-414994|2020-06-29|SO|I Ca 174/20|Wyrok|https://www.saos.org.pl/judgments/414994
-431336|2019-11-28|SO|I ACa 418/19|Wyrok|https://www.saos.org.pl/judgments/431336
-304142|2017-09-04|SO|VIII Gz 189/17|Postanowienie|https://www.saos.org.pl/judgments/304142
-231464|2016-02-09|SO|III Cz 46/16|Postanowienie|https://www.saos.org.pl/judgments/231464
-152849|2015-02-26|SO|VIII Ga 6/15|Wyrok|https://www.saos.org.pl/judgments/152849
-55889|2014-05-27|SO|IX C 2106/13|Wyrok|https://www.saos.org.pl/judgments/55889
+saos_id|date|court|case_number|type|score|saos_url
+431336|2019-11-28|SO|I ACa 418/19|Wyrok|56|https://www.saos.org.pl/judgments/431336

@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-442913|2021-05-21|SO|II W 51/21|Postanowienie|https://www.saos.org.pl/judgments/442913
-442907|2021-03-30|SO|II W 342/21|Postanowienie|https://www.saos.org.pl/judgments/442907
-245259|2016-05-12|SN|III KK 494/15|Postanowienie|https://www.saos.org.pl/judgments/245259
-1345|2012-11-07|SO|III AUz 304/12|Postanowienie|https://www.saos.org.pl/judgments/1345
-110293|2011-12-12|TK|P 1/11|Wyrok|https://www.saos.org.pl/judgments/110293
-109006|2009-05-20|TK|Kpt 2/08|Postanowienie|https://www.saos.org.pl/judgments/109006
-108557|2008-06-23|TK|Kpt 1/08|Postanowienie|https://www.saos.org.pl/judgments/108557
+saos_id|date|court|case_number|type|score|saos_url
+110293|2011-12-12|TK|P 1/11|Wyrok|98|https://www.saos.org.pl/judgments/110293
+109006|2009-05-20|TK|Kpt 2/08|Postanowienie|80|https://www.saos.org.pl/judgments/109006
+108557|2008-06-23|TK|Kpt 1/08|Postanowienie|80|https://www.saos.org.pl/judgments/108557
+245259|2016-05-12|SN|III KK 494/15|Postanowienie|69|https://www.saos.org.pl/judgments/245259
+1345|2012-11-07|SO|III AUz 304/12|Postanowienie|47|https://www.saos.org.pl/judgments/1345

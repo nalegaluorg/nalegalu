@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-530833|2024-08-29|SO|III APa 4/23|Wyrok|https://www.saos.org.pl/judgments/530833
-468613|2022-07-05|SO|IX P 312/19|Zarządzenie|https://www.saos.org.pl/judgments/468613
-366006|2018-11-22|SO|I ACa 494/18|Wyrok|https://www.saos.org.pl/judgments/366006
-237035|2016-06-21|SO|VII U 409/16|Wyrok|https://www.saos.org.pl/judgments/237035
-50765|2014-05-16|SO|IX W 1290/14|Wyrok|https://www.saos.org.pl/judgments/50765
-34828|2013-12-19|SO|II Ca 777/13|Wyrok|https://www.saos.org.pl/judgments/34828
-35673|2013-12-13|SO|I ACa 691/13|Wyrok|https://www.saos.org.pl/judgments/35673
+saos_id|date|court|case_number|type|score|saos_url
+530833|2024-08-29|SO|III APa 4/23|Wyrok|56|https://www.saos.org.pl/judgments/530833
+366006|2018-11-22|SO|I ACa 494/18|Wyrok|56|https://www.saos.org.pl/judgments/366006
+35673|2013-12-13|SO|I ACa 691/13|Wyrok|56|https://www.saos.org.pl/judgments/35673

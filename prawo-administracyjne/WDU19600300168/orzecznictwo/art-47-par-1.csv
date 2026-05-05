@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-526294|2024-07-17|SO|I C 352/23|Wyrok|https://www.saos.org.pl/judgments/526294
-326209|2016-12-01|SO|II Ca 500/16|Wyrok|https://www.saos.org.pl/judgments/326209
-377981|2014-07-08|SO|II Ca 2332/13|Wyrok|https://www.saos.org.pl/judgments/377981
-123493|2013-10-07|KIO|KIO 2184/13|Wyrok|https://www.saos.org.pl/judgments/123493
+saos_id|date|court|case_number|type|score|saos_url
+123493|2013-10-07|KIO|KIO 2184/13|Wyrok|44|https://www.saos.org.pl/judgments/123493
+526294|2024-07-17|SO|I C 352/23|Wyrok|40|https://www.saos.org.pl/judgments/526294
+377981|2014-07-08|SO|II Ca 2332/13|Wyrok|40|https://www.saos.org.pl/judgments/377981

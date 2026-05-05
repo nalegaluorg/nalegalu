@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-418129|2020-07-27|SO|VIII U 1459/19|Uzasadnienie|https://www.saos.org.pl/judgments/418129
-385040|2019-05-07|SO|III AUa 334/19|Wyrok|https://www.saos.org.pl/judgments/385040
-455733|2018-12-05|SO|III AUa 480/18|Wyrok|https://www.saos.org.pl/judgments/455733
-11988|2013-04-18|SO|III AUz 51/13|Postanowienie|https://www.saos.org.pl/judgments/11988
+saos_id|date|court|case_number|type|score|saos_url
+385040|2019-05-07|SO|III AUa 334/19|Wyrok|56|https://www.saos.org.pl/judgments/385040
+455733|2018-12-05|SO|III AUa 480/18|Wyrok|56|https://www.saos.org.pl/judgments/455733
+11988|2013-04-18|SO|III AUz 51/13|Postanowienie|47|https://www.saos.org.pl/judgments/11988
+418129|2020-07-27|SO|VIII U 1459/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/418129

@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-472085|2021-11-30|SO|II AKa 156/21|Uzasadnienie|https://www.saos.org.pl/judgments/472085
-418571|2019-02-27|SO|XVIII K 256/16|Uzasadnienie|https://www.saos.org.pl/judgments/418571
-369249|2018-11-26|SO|III K 21/18|Wyrok|https://www.saos.org.pl/judgments/369249
-357188|2018-09-12|SO|II AKa 326/18|Wyrok|https://www.saos.org.pl/judgments/357188
-144051|2014-01-28|SO|II AKa 457/13|Wyrok|https://www.saos.org.pl/judgments/144051
-140899|2013-10-02|SO|II AKa 289/13|Wyrok|https://www.saos.org.pl/judgments/140899
-140637|2013-09-19|SO|II AKa 270/13|Wyrok|https://www.saos.org.pl/judgments/140637
-140460|2013-09-18|SO|II AKa 249/13|Wyrok|https://www.saos.org.pl/judgments/140460
-136418|2012-12-20|SO|II AKa 213/12|Wyrok|https://www.saos.org.pl/judgments/136418
+saos_id|date|court|case_number|type|score|saos_url
+357188|2018-09-12|SO|II AKa 326/18|Wyrok|56|https://www.saos.org.pl/judgments/357188
+144051|2014-01-28|SO|II AKa 457/13|Wyrok|56|https://www.saos.org.pl/judgments/144051
+140899|2013-10-02|SO|II AKa 289/13|Wyrok|56|https://www.saos.org.pl/judgments/140899
+140637|2013-09-19|SO|II AKa 270/13|Wyrok|56|https://www.saos.org.pl/judgments/140637
+140460|2013-09-18|SO|II AKa 249/13|Wyrok|56|https://www.saos.org.pl/judgments/140460
+136418|2012-12-20|SO|II AKa 213/12|Wyrok|56|https://www.saos.org.pl/judgments/136418
+472085|2021-11-30|SO|II AKa 156/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/472085

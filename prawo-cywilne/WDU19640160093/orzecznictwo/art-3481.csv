@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515013|2024-07-31|SO|XVII AmA 61/23|Wyrok|https://www.saos.org.pl/judgments/515013
-381483|2019-03-14|SO|XVII AmA 64/16|Wyrok|https://www.saos.org.pl/judgments/381483
-271730|2016-11-29|SO|VI ACa 1067/15|Wyrok|https://www.saos.org.pl/judgments/271730
-385603|2015-05-12|SO|XVII AmA 102/13|Wyrok|https://www.saos.org.pl/judgments/385603
+saos_id|date|court|case_number|type|score|saos_url
+271730|2016-11-29|SO|VI ACa 1067/15|Wyrok|56|https://www.saos.org.pl/judgments/271730

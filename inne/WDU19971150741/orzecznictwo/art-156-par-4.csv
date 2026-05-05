@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-339783|2018-03-27|SO|I ACa 201/14|Wyrok|https://www.saos.org.pl/judgments/339783
-349584|2017-12-19|SO|XVI GC 539/14|Wyrok|https://www.saos.org.pl/judgments/349584
-249278|2016-08-31|SO|III Ca 735/16|Uzasadnienie|https://www.saos.org.pl/judgments/249278
-159003|2015-02-26|SO|III Ca 1820/14|Postanowienie|https://www.saos.org.pl/judgments/159003
-29927|2013-11-19|SO|I ACa 882/13|Wyrok|https://www.saos.org.pl/judgments/29927
+saos_id|date|court|case_number|type|score|saos_url
+339783|2018-03-27|SO|I ACa 201/14|Wyrok|56|https://www.saos.org.pl/judgments/339783
+29927|2013-11-19|SO|I ACa 882/13|Wyrok|56|https://www.saos.org.pl/judgments/29927
+249278|2016-08-31|SO|III Ca 735/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249278

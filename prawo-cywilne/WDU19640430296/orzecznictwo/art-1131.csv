@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-481186|2022-08-05|SO|I Ca 243/22|Postanowienie|https://www.saos.org.pl/judgments/481186
-478308|2022-07-20|SO|III AUa 565/19|Wyrok|https://www.saos.org.pl/judgments/478308
+saos_id|date|court|case_number|type|score|saos_url
+478308|2022-07-20|SO|III AUa 565/19|Wyrok|56|https://www.saos.org.pl/judgments/478308

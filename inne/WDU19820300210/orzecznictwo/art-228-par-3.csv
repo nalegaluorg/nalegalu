@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-505565|2023-03-15|SO|III Ca 1255/22|Uzasadnienie|https://www.saos.org.pl/judgments/505565
-153089|2015-04-09|SO|I C 27/15|Wyrok|https://www.saos.org.pl/judgments/153089
+saos_id|date|court|case_number|type|score|saos_url
+505565|2023-03-15|SO|III Ca 1255/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/505565

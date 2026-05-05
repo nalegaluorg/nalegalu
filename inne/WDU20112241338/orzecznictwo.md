@@ -2,11 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 sierpnia 2011 r. o zmianie ustawy o rencie socjalnej*
 
-Łącznie: **4** orzeczeń
-
-## art. 2 (1)
-
-- 2012-09-26 | SO | [IV U 738/12](https://www.saos.org.pl/judgments/14950) | Wyrok
+Łącznie: **3** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## (ogólnie) (3)
 

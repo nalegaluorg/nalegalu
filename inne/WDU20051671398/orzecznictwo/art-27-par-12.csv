@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-46445|2014-03-14|SO|II Ca 2178/13|Wyrok|https://www.saos.org.pl/judgments/46445
+saos_id|date|court|case_number|type|score|saos_url
+46445|2014-03-14|SO|II Ca 2178/13|Wyrok|40|https://www.saos.org.pl/judgments/46445

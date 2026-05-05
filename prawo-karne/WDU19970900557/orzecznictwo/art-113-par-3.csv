@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-417780|2019-03-27|SO|I C 2312/18|Wyrok|https://www.saos.org.pl/judgments/417780
-361767|2018-10-23|SO|I ACa 97/18|Wyrok|https://www.saos.org.pl/judgments/361767
-286298|2016-06-02|SO|I C 231/15|Wyrok|https://www.saos.org.pl/judgments/286298
-6469|2013-01-25|SO|I ACa 1125/12|Wyrok|https://www.saos.org.pl/judgments/6469
+saos_id|date|court|case_number|type|score|saos_url
+361767|2018-10-23|SO|I ACa 97/18|Wyrok|56|https://www.saos.org.pl/judgments/361767
+6469|2013-01-25|SO|I ACa 1125/12|Wyrok|56|https://www.saos.org.pl/judgments/6469

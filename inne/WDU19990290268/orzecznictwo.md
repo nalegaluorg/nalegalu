@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Rozporządzenie Rady Ministrów z dnia 18 marca 1999 r
 
 ## § 1 (1)
 
-- 2001-05-24 | SN | [I PKN 404/00](https://www.saos.org.pl/judgments/80589) | Wyrok
+- 2001-05-24 | SN | [I PKN 404/00](https://www.saos.org.pl/judgments/80589) | Wyrok ★
 

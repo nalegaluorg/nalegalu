@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-538821|2025-01-27|SO|I Ns 634/24|Postanowienie|https://www.saos.org.pl/judgments/538821
-500226|2024-08-29|SO|I Ns 495/24|Postanowienie|https://www.saos.org.pl/judgments/500226
-489262|2022-08-30|SO|III Ca 1301/22|Uzasadnienie|https://www.saos.org.pl/judgments/489262
+saos_id|date|court|case_number|type|score|saos_url
+538821|2025-01-27|SO|I Ns 634/24|Postanowienie|31|https://www.saos.org.pl/judgments/538821
+500226|2024-08-29|SO|I Ns 495/24|Postanowienie|31|https://www.saos.org.pl/judgments/500226
+489262|2022-08-30|SO|III Ca 1301/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/489262

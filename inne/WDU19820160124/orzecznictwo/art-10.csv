@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-319000|2017-08-25|SO|I ACa 1236/15|Wyrok|https://www.saos.org.pl/judgments/319000
-130824|2014-11-19|SO|I ACa 763/14|Wyrok|https://www.saos.org.pl/judgments/130824
-7928|2012-10-31|SO|III AUa 291/12|Wyrok|https://www.saos.org.pl/judgments/7928
+saos_id|date|court|case_number|type|score|saos_url
+319000|2017-08-25|SO|I ACa 1236/15|Wyrok|56|https://www.saos.org.pl/judgments/319000
+130824|2014-11-19|SO|I ACa 763/14|Wyrok|56|https://www.saos.org.pl/judgments/130824
+7928|2012-10-31|SO|III AUa 291/12|Wyrok|56|https://www.saos.org.pl/judgments/7928

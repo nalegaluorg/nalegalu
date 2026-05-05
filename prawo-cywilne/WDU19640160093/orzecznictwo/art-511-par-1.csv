@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-505925|2022-11-30|SO|III Ca 1868/21|Uzasadnienie|https://www.saos.org.pl/judgments/505925
-355245|2018-07-31|SO|III Ca 487/18|Uzasadnienie|https://www.saos.org.pl/judgments/355245
-300449|2017-07-07|SO|III Ca 437/17|Uzasadnienie|https://www.saos.org.pl/judgments/300449
-244485|2016-02-05|SN|IV CSK 235/15|Postanowienie|https://www.saos.org.pl/judgments/244485
-126289|2015-01-14|SO|I Ca 406/14|Wyrok|https://www.saos.org.pl/judgments/126289
+saos_id|date|court|case_number|type|score|saos_url
+244485|2016-02-05|SN|IV CSK 235/15|Postanowienie|69|https://www.saos.org.pl/judgments/244485
+505925|2022-11-30|SO|III Ca 1868/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505925
+355245|2018-07-31|SO|III Ca 487/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/355245
+300449|2017-07-07|SO|III Ca 437/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/300449

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520319|2024-05-09|SO|II Ca 1583/23|Wyrok|https://www.saos.org.pl/judgments/520319
+saos_id|date|court|case_number|type|score|saos_url
+520319|2024-05-09|SO|II Ca 1583/23|Wyrok|40|https://www.saos.org.pl/judgments/520319

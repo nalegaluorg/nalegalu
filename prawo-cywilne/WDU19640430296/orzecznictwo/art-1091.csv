@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|https://www.saos.org.pl/judgments/422478
-406044|2020-01-08|SO|I Cz 10/20|Postanowienie|https://www.saos.org.pl/judgments/406044
-395510|2019-10-31|SO|II Cz 775/19|Postanowienie|https://www.saos.org.pl/judgments/395510
-279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|https://www.saos.org.pl/judgments/279949
+saos_id|date|court|case_number|type|score|saos_url
+324740|2017-12-04|SO|III Ca 1352/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324740

@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|https://www.saos.org.pl/judgments/528917
-527234|2025-04-02|SO|III AUa 584/24|Wyrok|https://www.saos.org.pl/judgments/527234
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-507113|2023-08-21|SO|III K 955/22|Uzasadnienie|https://www.saos.org.pl/judgments/507113
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-403889|2019-04-24|SO|I AGa 372/18|Wyrok|https://www.saos.org.pl/judgments/403889
-374440|2019-02-06|SO|I AGa 323/18|Wyrok|https://www.saos.org.pl/judgments/374440
-254037|2016-10-13|SO|V ACa 631/16|Wyrok|https://www.saos.org.pl/judgments/254037
-205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|https://www.saos.org.pl/judgments/205168
-180938|2015-09-24|SO|XX GCo 163/15|Postanowienie|https://www.saos.org.pl/judgments/180938
-41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|https://www.saos.org.pl/judgments/41315
-394812|2013-11-25|SO|I ACa 955/13|Wyrok|https://www.saos.org.pl/judgments/394812
-16159|2013-07-05|SO|V ACz 634/13|Postanowienie|https://www.saos.org.pl/judgments/16159
-3161|2012-11-14|SO|I ACa 808/12|Wyrok|https://www.saos.org.pl/judgments/3161
+saos_id|date|court|case_number|type|score|saos_url
+527234|2025-04-02|SO|III AUa 584/24|Wyrok|56|https://www.saos.org.pl/judgments/527234
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+403889|2019-04-24|SO|I AGa 372/18|Wyrok|56|https://www.saos.org.pl/judgments/403889
+374440|2019-02-06|SO|I AGa 323/18|Wyrok|56|https://www.saos.org.pl/judgments/374440
+254037|2016-10-13|SO|V ACa 631/16|Wyrok|56|https://www.saos.org.pl/judgments/254037
+394812|2013-11-25|SO|I ACa 955/13|Wyrok|56|https://www.saos.org.pl/judgments/394812
+3161|2012-11-14|SO|I ACa 808/12|Wyrok|56|https://www.saos.org.pl/judgments/3161
+16159|2013-07-05|SO|V ACz 634/13|Postanowienie|47|https://www.saos.org.pl/judgments/16159
+528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/528917
+205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205168
+41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/41315

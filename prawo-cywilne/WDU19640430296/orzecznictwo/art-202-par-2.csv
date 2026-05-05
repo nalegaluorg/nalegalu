@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-368929|2018-10-25|SO|V ACa 675/17|Wyrok|https://www.saos.org.pl/judgments/368929
-334713|2018-03-30|SO|VIII Gz 20/18|Postanowienie|https://www.saos.org.pl/judgments/334713
-330374|2018-02-23|SO|VIII Gz 464/17|Postanowienie|https://www.saos.org.pl/judgments/330374
-318146|2017-10-05|SO|II Ca 1511/15|Postanowienie|https://www.saos.org.pl/judgments/318146
-364499|2017-01-16|SO|II C 388/16|Wyrok|https://www.saos.org.pl/judgments/364499
-175299|2015-08-31|SO|III C 657/15|Uzasadnienie|https://www.saos.org.pl/judgments/175299
-15230|2013-05-09|SO|I ACa 22/13|Wyrok|https://www.saos.org.pl/judgments/15230
-30402|2013-04-23|SO|I ACa 327/13|Wyrok|https://www.saos.org.pl/judgments/30402
+saos_id|date|court|case_number|type|score|saos_url
+368929|2018-10-25|SO|V ACa 675/17|Wyrok|56|https://www.saos.org.pl/judgments/368929
+15230|2013-05-09|SO|I ACa 22/13|Wyrok|56|https://www.saos.org.pl/judgments/15230
+30402|2013-04-23|SO|I ACa 327/13|Wyrok|56|https://www.saos.org.pl/judgments/30402

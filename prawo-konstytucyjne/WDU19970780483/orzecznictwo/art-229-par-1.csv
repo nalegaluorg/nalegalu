@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509832|2023-06-21|SO|V ACa 600/22|Wyrok|https://www.saos.org.pl/judgments/509832
+saos_id|date|court|case_number|type|score|saos_url
+509832|2023-06-21|SO|V ACa 600/22|Wyrok|56|https://www.saos.org.pl/judgments/509832

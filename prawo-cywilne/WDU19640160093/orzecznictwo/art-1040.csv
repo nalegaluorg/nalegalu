@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-91086|2009-10-22|SN|III CSK 21/09|Postanowienie|https://www.saos.org.pl/judgments/91086
-109525|2009-07-29|TK|Ts 322/08|Postanowienie|https://www.saos.org.pl/judgments/109525
-163060|2005-03-02|SN|III CK 28/05|Postanowienie|https://www.saos.org.pl/judgments/163060
+saos_id|date|court|case_number|type|score|saos_url
+109525|2009-07-29|TK|Ts 322/08|Postanowienie|80|https://www.saos.org.pl/judgments/109525
+91086|2009-10-22|SN|III CSK 21/09|Postanowienie|69|https://www.saos.org.pl/judgments/91086
+163060|2005-03-02|SN|III CK 28/05|Postanowienie|69|https://www.saos.org.pl/judgments/163060

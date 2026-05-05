@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-282587|2016-12-06|SO|III Cz 1694/16|Postanowienie|https://www.saos.org.pl/judgments/282587
-242833|2015-06-25|SN|III CZP 33/15|Uchwała|https://www.saos.org.pl/judgments/242833
-36105|2013-10-11|SO|II Cz 866/13|Postanowienie|https://www.saos.org.pl/judgments/36105
+saos_id|date|court|case_number|type|score|saos_url
+242833|2015-06-25|SN|III CZP 33/15|Uchwała|89|https://www.saos.org.pl/judgments/242833

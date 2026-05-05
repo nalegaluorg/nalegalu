@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-370339|2019-01-02|SO|I Ns 277/18|Postanowienie|https://www.saos.org.pl/judgments/370339
-323918|2017-10-26|SO|III Ca 982/17|Uzasadnienie|https://www.saos.org.pl/judgments/323918
-288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|https://www.saos.org.pl/judgments/288223
-89132|2008-11-14|SN|I CZ 102/08|Postanowienie|https://www.saos.org.pl/judgments/89132
-85569|2007-03-27|SN|II PZP 1/07|Uchwała|https://www.saos.org.pl/judgments/85569
+saos_id|date|court|case_number|type|score|saos_url
+85569|2007-03-27|SN|II PZP 1/07|Uchwała|89|https://www.saos.org.pl/judgments/85569
+89132|2008-11-14|SN|I CZ 102/08|Postanowienie|69|https://www.saos.org.pl/judgments/89132
+288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|31|https://www.saos.org.pl/judgments/288223
+323918|2017-10-26|SO|III Ca 982/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/323918

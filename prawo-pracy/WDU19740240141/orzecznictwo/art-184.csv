@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-310253|2017-09-26|SO|IV Pa 79/17|Wyrok|https://www.saos.org.pl/judgments/310253
-251756|2016-09-23|SO|IV P 65/16|Wyrok|https://www.saos.org.pl/judgments/251756
-251306|2016-08-25|SO|II W 597/16|Wyrok|https://www.saos.org.pl/judgments/251306
-175105|2015-08-03|SO|XI W 4838/14|Wyrok|https://www.saos.org.pl/judgments/175105
-52740|2014-05-28|SO|II W 3/13|Wyrok|https://www.saos.org.pl/judgments/52740
-8539|2013-03-05|SO|III AUa 1187/12|Wyrok|https://www.saos.org.pl/judgments/8539
+saos_id|date|court|case_number|type|score|saos_url
+8539|2013-03-05|SO|III AUa 1187/12|Wyrok|56|https://www.saos.org.pl/judgments/8539

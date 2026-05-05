@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-465534|2022-04-12|SO|III AUa 1285/20|Wyrok|https://www.saos.org.pl/judgments/465534
+saos_id|date|court|case_number|type|score|saos_url
+465534|2022-04-12|SO|III AUa 1285/20|Wyrok|56|https://www.saos.org.pl/judgments/465534

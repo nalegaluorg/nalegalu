@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-504532|2024-05-17|SO|II W 70/23|Uzasadnienie|https://www.saos.org.pl/judgments/504532
-450086|2021-06-09|SO|VII Pa 39/20|Wyrok|https://www.saos.org.pl/judgments/450086
-410349|2020-04-08|SO|III APa 4/20|Wyrok|https://www.saos.org.pl/judgments/410349
-379300|2019-04-01|SO|IV P 127/18|Wyrok|https://www.saos.org.pl/judgments/379300
-350676|2018-07-03|SO|VIII Pa 74/18|Uzasadnienie|https://www.saos.org.pl/judgments/350676
-332694|2018-02-16|SO|VII Ka 1053/17|Wyrok|https://www.saos.org.pl/judgments/332694
-318463|2017-12-01|SO|IV Pa 64/17|Wyrok|https://www.saos.org.pl/judgments/318463
-306877|2017-09-29|SO|VIII Pa 152/17|Uzasadnienie|https://www.saos.org.pl/judgments/306877
-342495|2017-09-15|SO|IV P 50/17|Wyrok|https://www.saos.org.pl/judgments/342495
-331684|2017-05-30|SO|VI P 366/15|Wyrok|https://www.saos.org.pl/judgments/331684
-277850|2017-01-10|SO|IV U 394/16|Wyrok|https://www.saos.org.pl/judgments/277850
-215568|2016-02-29|SO|VII P 26/13|Wyrok|https://www.saos.org.pl/judgments/215568
-154015|2015-04-24|SO|VII Pa 22/15|Wyrok|https://www.saos.org.pl/judgments/154015
-126161|2014-12-30|SO|III APa 37/14|Wyrok|https://www.saos.org.pl/judgments/126161
-47465|2014-05-13|SO|V Pa 43/14|Wyrok|https://www.saos.org.pl/judgments/47465
-36991|2014-02-20|SO|IV Pa 172/13|Wyrok|https://www.saos.org.pl/judgments/36991
+saos_id|date|court|case_number|type|score|saos_url
+410349|2020-04-08|SO|III APa 4/20|Wyrok|56|https://www.saos.org.pl/judgments/410349
+126161|2014-12-30|SO|III APa 37/14|Wyrok|56|https://www.saos.org.pl/judgments/126161
+450086|2021-06-09|SO|VII Pa 39/20|Wyrok|40|https://www.saos.org.pl/judgments/450086
+332694|2018-02-16|SO|VII Ka 1053/17|Wyrok|40|https://www.saos.org.pl/judgments/332694
+331684|2017-05-30|SO|VI P 366/15|Wyrok|40|https://www.saos.org.pl/judgments/331684
+277850|2017-01-10|SO|IV U 394/16|Wyrok|40|https://www.saos.org.pl/judgments/277850
+215568|2016-02-29|SO|VII P 26/13|Wyrok|40|https://www.saos.org.pl/judgments/215568
+36991|2014-02-20|SO|IV Pa 172/13|Wyrok|40|https://www.saos.org.pl/judgments/36991
+350676|2018-07-03|SO|VIII Pa 74/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/350676
+306877|2017-09-29|SO|VIII Pa 152/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/306877

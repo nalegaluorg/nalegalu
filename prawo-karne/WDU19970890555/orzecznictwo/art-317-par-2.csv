@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-541901|2026-01-16|SO|VIII Kp 182/25|Postanowienie|https://www.saos.org.pl/judgments/541901
-523148|2024-10-14|SO|II AKa 225/23|Wyrok|https://www.saos.org.pl/judgments/523148
-342301|2018-03-28|SO|IV Ka 152/18|Wyrok|https://www.saos.org.pl/judgments/342301
-136350|2012-11-28|SO|II AKa 248/12|Wyrok|https://www.saos.org.pl/judgments/136350
+saos_id|date|court|case_number|type|score|saos_url
+523148|2024-10-14|SO|II AKa 225/23|Wyrok|56|https://www.saos.org.pl/judgments/523148
+136350|2012-11-28|SO|II AKa 248/12|Wyrok|56|https://www.saos.org.pl/judgments/136350
+342301|2018-03-28|SO|IV Ka 152/18|Wyrok|40|https://www.saos.org.pl/judgments/342301

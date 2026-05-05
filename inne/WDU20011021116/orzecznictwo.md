@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 27 lipca 2001 r. o zmianie ustawy o fina
 
 ## art. 35 (1)
 
-- 2005-11-09 | TK | [Kp 2/05](https://www.saos.org.pl/judgments/107205) | Wyrok
+- 2005-11-09 | TK | [Kp 2/05](https://www.saos.org.pl/judgments/107205) | Wyrok ★
 

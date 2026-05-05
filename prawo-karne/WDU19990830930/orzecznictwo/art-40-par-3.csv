@@ -1,14 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-440859|2021-05-28|SO|II K 452/20|Wyrok|https://www.saos.org.pl/judgments/440859
-402541|2019-05-30|SO|II K 777/16|Wyrok|https://www.saos.org.pl/judgments/402541
-365459|2018-12-19|SO|II K 5/18|Wyrok|https://www.saos.org.pl/judgments/365459
-373307|2018-10-18|SO|II AKa 424/18|Wyrok|https://www.saos.org.pl/judgments/373307
-274164|2016-11-21|SO|II K 124/15|Wyrok|https://www.saos.org.pl/judgments/274164
-265697|2016-09-30|SO|VI Ka 271/16|Wyrok|https://www.saos.org.pl/judgments/265697
-228261|2016-04-29|SO|II K 117/16|Wyrok|https://www.saos.org.pl/judgments/228261
-220687|2015-10-28|SO|II AKa 259/15|Wyrok|https://www.saos.org.pl/judgments/220687
-133130|2015-03-03|SO|IV Ka 725/14|Wyrok|https://www.saos.org.pl/judgments/133130
-129614|2015-01-20|SO|II AKa 422/14|Wyrok|https://www.saos.org.pl/judgments/129614
-140162|2013-03-26|SO|II AKa 226/12|Wyrok|https://www.saos.org.pl/judgments/140162
-8209|2013-02-06|SO|IV Ka 1623/12|Wyrok|https://www.saos.org.pl/judgments/8209
-141355|2012-10-18|SO|II AKa 207/12|Wyrok|https://www.saos.org.pl/judgments/141355
+saos_id|date|court|case_number|type|score|saos_url
+373307|2018-10-18|SO|II AKa 424/18|Wyrok|56|https://www.saos.org.pl/judgments/373307
+220687|2015-10-28|SO|II AKa 259/15|Wyrok|56|https://www.saos.org.pl/judgments/220687
+129614|2015-01-20|SO|II AKa 422/14|Wyrok|56|https://www.saos.org.pl/judgments/129614
+140162|2013-03-26|SO|II AKa 226/12|Wyrok|56|https://www.saos.org.pl/judgments/140162
+141355|2012-10-18|SO|II AKa 207/12|Wyrok|56|https://www.saos.org.pl/judgments/141355

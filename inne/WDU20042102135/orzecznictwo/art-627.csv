@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-464683|2020-04-27|SO|III AUa 2604/19|Uzasadnienie|https://www.saos.org.pl/judgments/464683
-408789|2019-06-18|SO|III AUa 95/19|Wyrok|https://www.saos.org.pl/judgments/408789
-349060|2018-04-05|SO|III AUa 431/17|Wyrok|https://www.saos.org.pl/judgments/349060
-332772|2017-11-07|SO|III AUa 180/17|Wyrok|https://www.saos.org.pl/judgments/332772
+saos_id|date|court|case_number|type|score|saos_url
+408789|2019-06-18|SO|III AUa 95/19|Wyrok|56|https://www.saos.org.pl/judgments/408789
+349060|2018-04-05|SO|III AUa 431/17|Wyrok|56|https://www.saos.org.pl/judgments/349060
+332772|2017-11-07|SO|III AUa 180/17|Wyrok|56|https://www.saos.org.pl/judgments/332772
+464683|2020-04-27|SO|III AUa 2604/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/464683

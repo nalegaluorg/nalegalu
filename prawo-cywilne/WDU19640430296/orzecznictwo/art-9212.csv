@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-227274|2016-05-25|SO|III Ca 361/16|Wyrok|https://www.saos.org.pl/judgments/227274
-196686|2015-10-09|SO|XII Ga 802/14|Uzasadnienie|https://www.saos.org.pl/judgments/196686
-135099|2015-03-12|SO|X GC 929/13|Uzasadnienie|https://www.saos.org.pl/judgments/135099
+saos_id|date|court|case_number|type|score|saos_url
+135099|2015-03-12|SO|X GC 929/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/135099

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-311026|2017-10-11|SO|IV Ca 426/17|Wyrok|https://www.saos.org.pl/judgments/311026
-268472|2016-12-30|SO|I C 130/15|Wyrok|https://www.saos.org.pl/judgments/268472
-238753|2016-06-17|SO|I ACa 1808/15|Wyrok|https://www.saos.org.pl/judgments/238753
-223080|2016-04-22|SO|I C 18/15|Wyrok|https://www.saos.org.pl/judgments/223080
-21277|2009-02-26|SO|I ACa 21/09|Wyrok|https://www.saos.org.pl/judgments/21277
+saos_id|date|court|case_number|type|score|saos_url
+238753|2016-06-17|SO|I ACa 1808/15|Wyrok|56|https://www.saos.org.pl/judgments/238753
+21277|2009-02-26|SO|I ACa 21/09|Wyrok|56|https://www.saos.org.pl/judgments/21277
+268472|2016-12-30|SO|I C 130/15|Wyrok|40|https://www.saos.org.pl/judgments/268472
+223080|2016-04-22|SO|I C 18/15|Wyrok|40|https://www.saos.org.pl/judgments/223080

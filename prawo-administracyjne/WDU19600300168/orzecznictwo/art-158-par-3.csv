@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-544582|2025-11-27|SO|I C 621/25|Wyrok|https://www.saos.org.pl/judgments/544582
-532864|2023-10-31|SO|XV Ca 40/23|Wyrok|https://www.saos.org.pl/judgments/532864
-487710|2022-12-27|SO|VI C 784/21|Uzasadnienie|https://www.saos.org.pl/judgments/487710
+saos_id|date|court|case_number|type|score|saos_url
+532864|2023-10-31|SO|XV Ca 40/23|Wyrok|40|https://www.saos.org.pl/judgments/532864

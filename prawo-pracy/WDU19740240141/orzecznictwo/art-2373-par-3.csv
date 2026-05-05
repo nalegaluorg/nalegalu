@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-504379|2023-04-18|SO|II W 1208/22|Wyrok|https://www.saos.org.pl/judgments/504379
+saos_id|date|court|case_number|type|score|saos_url
+160531|2013-03-25|TK|Ts 153/12|Postanowienie|80|https://www.saos.org.pl/judgments/160531
+244387|2016-01-29|SN|IV KK 345/15|Wyrok|78|https://www.saos.org.pl/judgments/244387
+83541|2005-06-29|SN|II PK 326/04|Wyrok|78|https://www.saos.org.pl/judgments/83541
+43107|2013-12-17|SO|III AUa 527/13|Wyrok|56|https://www.saos.org.pl/judgments/43107
+508820|2021-05-27|SO|IV Pa 24/21|Wyrok|40|https://www.saos.org.pl/judgments/508820
+513101|2024-01-31|SO|VIII U 1061/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513101

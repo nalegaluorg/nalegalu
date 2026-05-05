@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-492386|2022-03-16|SO|II W 968/19|Wyrok|https://www.saos.org.pl/judgments/492386
-335569|2018-02-27|SO|XVII Ka 55/18|Wyrok|https://www.saos.org.pl/judgments/335569
+saos_id|date|court|case_number|type|score|saos_url
+335569|2018-02-27|SO|XVII Ka 55/18|Wyrok|40|https://www.saos.org.pl/judgments/335569

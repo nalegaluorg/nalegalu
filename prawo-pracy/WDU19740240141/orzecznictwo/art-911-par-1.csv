@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-84142|2006-03-06|SN|II PK 210/05|Wyrok|https://www.saos.org.pl/judgments/84142
+saos_id|date|court|case_number|type|score|saos_url
+84142|2006-03-06|SN|II PK 210/05|Wyrok|78|https://www.saos.org.pl/judgments/84142

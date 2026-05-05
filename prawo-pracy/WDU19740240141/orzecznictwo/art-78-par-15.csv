@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-94565|2011-03-29|SN|I PK 231/10|Wyrok|https://www.saos.org.pl/judgments/94565
+saos_id|date|court|case_number|type|score|saos_url
+94565|2011-03-29|SN|I PK 231/10|Wyrok|78|https://www.saos.org.pl/judgments/94565

@@ -1,21 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-515672|2024-01-11|SO|XXVII Ca 1653/23|Wyrok|https://www.saos.org.pl/judgments/515672
-498166|2023-01-31|SO|I C 440/22|Wyrok|https://www.saos.org.pl/judgments/498166
-401974|2019-07-15|SO|V GC 2255/18|Wyrok|https://www.saos.org.pl/judgments/401974
-377044|2018-06-27|SO|I C 263/17|Wyrok|https://www.saos.org.pl/judgments/377044
-355392|2018-05-11|SO|VI Ka 283/18|Wyrok|https://www.saos.org.pl/judgments/355392
-340120|2018-03-20|SO|I C 1078/16|Wyrok|https://www.saos.org.pl/judgments/340120
-332359|2018-01-22|SO|I C 530/13|Wyrok|https://www.saos.org.pl/judgments/332359
-308429|2017-06-28|SO|IV Ka 251/17|Wyrok|https://www.saos.org.pl/judgments/308429
-289154|2017-04-06|SO|III Ca 192/17|Wyrok|https://www.saos.org.pl/judgments/289154
-248440|2016-07-01|SO|V GC 250/15|Wyrok|https://www.saos.org.pl/judgments/248440
-199816|2016-02-02|SO|VI Ka 1089/15|Wyrok|https://www.saos.org.pl/judgments/199816
-196123|2015-12-11|SO|II Ca 990/15|Wyrok|https://www.saos.org.pl/judgments/196123
-194452|2015-12-02|SO|III Ca 1017/15|Wyrok|https://www.saos.org.pl/judgments/194452
-193729|2015-11-27|SO|II W 346/15|Wyrok|https://www.saos.org.pl/judgments/193729
-73025|2014-10-21|SO|VI Ka 432/14|Wyrok|https://www.saos.org.pl/judgments/73025
-63772|2014-10-06|SO|IV Ka 677/14|Wyrok|https://www.saos.org.pl/judgments/63772
-65230|2014-09-24|SO|IV Ka 585/14|Wyrok|https://www.saos.org.pl/judgments/65230
-11519|2013-04-29|SO|IV Ka 55/13|Wyrok|https://www.saos.org.pl/judgments/11519
-5864|2012-08-16|SO|I ACa 88/12|Wyrok|https://www.saos.org.pl/judgments/5864
-81737|2002-12-03|SN|II KKN 208/01|Postanowienie|https://www.saos.org.pl/judgments/81737
+saos_id|date|court|case_number|type|score|saos_url
+81737|2002-12-03|SN|II KKN 208/01|Postanowienie|69|https://www.saos.org.pl/judgments/81737
+5864|2012-08-16|SO|I ACa 88/12|Wyrok|56|https://www.saos.org.pl/judgments/5864
+377044|2018-06-27|SO|I C 263/17|Wyrok|40|https://www.saos.org.pl/judgments/377044
+340120|2018-03-20|SO|I C 1078/16|Wyrok|40|https://www.saos.org.pl/judgments/340120
+332359|2018-01-22|SO|I C 530/13|Wyrok|40|https://www.saos.org.pl/judgments/332359

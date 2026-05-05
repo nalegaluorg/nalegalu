@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-397054|2019-04-24|SO|II AKa 130/18|Uzasadnienie|https://www.saos.org.pl/judgments/397054
-304948|2017-05-22|SO|II AKa 46/17|Wyrok|https://www.saos.org.pl/judgments/304948
-278022|2016-12-16|SO|VI Ka 1014/16|Wyrok|https://www.saos.org.pl/judgments/278022
-313145|2015-07-10|SO|II AKa 216/14|Uzasadnienie|https://www.saos.org.pl/judgments/313145
-155299|2014-12-03|SO|III K 110/13|Wyrok|https://www.saos.org.pl/judgments/155299
+saos_id|date|court|case_number|type|score|saos_url
+304948|2017-05-22|SO|II AKa 46/17|Wyrok|56|https://www.saos.org.pl/judgments/304948
+397054|2019-04-24|SO|II AKa 130/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/397054
+313145|2015-07-10|SO|II AKa 216/14|Uzasadnienie|42|https://www.saos.org.pl/judgments/313145

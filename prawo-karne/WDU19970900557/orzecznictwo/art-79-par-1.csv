@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-540531|2025-10-29|SO|I ACa 2259/23|Wyrok|https://www.saos.org.pl/judgments/540531
-294145|2017-03-23|SO|III Kow 211/17|Postanowienie|https://www.saos.org.pl/judgments/294145
-258886|2016-10-24|SO|II C 364/11|Uzasadnienie|https://www.saos.org.pl/judgments/258886
-204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|https://www.saos.org.pl/judgments/204484
-16921|2013-03-14|SO|I ACa 846/12|Wyrok|https://www.saos.org.pl/judgments/16921
-136955|2013-01-24|SO|II AKo 3/13|Postanowienie|https://www.saos.org.pl/judgments/136955
-141349|2012-09-13|SO|II AKa 129/12|Wyrok|https://www.saos.org.pl/judgments/141349
-96684|2012-01-12|SN|I PK 74/11|Wyrok|https://www.saos.org.pl/judgments/96684
-86688|2007-10-01|SN|V KK 270/07|Postanowienie|https://www.saos.org.pl/judgments/86688
-389629|2007-03-14|SO|II AKzw 1139/06|Postanowienie|https://www.saos.org.pl/judgments/389629
-108356|2007-01-12|TK|Ts 170/06|Postanowienie|https://www.saos.org.pl/judgments/108356
-83982|2006-01-11|SN|I KZP 56/05|Postanowienie|https://www.saos.org.pl/judgments/83982
+saos_id|date|court|case_number|type|score|saos_url
+108356|2007-01-12|TK|Ts 170/06|Postanowienie|80|https://www.saos.org.pl/judgments/108356
+96684|2012-01-12|SN|I PK 74/11|Wyrok|78|https://www.saos.org.pl/judgments/96684
+86688|2007-10-01|SN|V KK 270/07|Postanowienie|69|https://www.saos.org.pl/judgments/86688
+83982|2006-01-11|SN|I KZP 56/05|Postanowienie|69|https://www.saos.org.pl/judgments/83982
+540531|2025-10-29|SO|I ACa 2259/23|Wyrok|56|https://www.saos.org.pl/judgments/540531
+16921|2013-03-14|SO|I ACa 846/12|Wyrok|56|https://www.saos.org.pl/judgments/16921
+141349|2012-09-13|SO|II AKa 129/12|Wyrok|56|https://www.saos.org.pl/judgments/141349
+204484|2016-02-15|SO|II AKzw 234/16|Postanowienie|47|https://www.saos.org.pl/judgments/204484
+136955|2013-01-24|SO|II AKo 3/13|Postanowienie|47|https://www.saos.org.pl/judgments/136955
+389629|2007-03-14|SO|II AKzw 1139/06|Postanowienie|47|https://www.saos.org.pl/judgments/389629
+258886|2016-10-24|SO|II C 364/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/258886

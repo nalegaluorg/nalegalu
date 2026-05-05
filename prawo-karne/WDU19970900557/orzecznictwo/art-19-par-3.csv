@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-501401|2024-08-01|SO|II AKzw 651/24|Postanowienie|https://www.saos.org.pl/judgments/501401
-501414|2024-01-30|SO|II AKzw 9/24|Postanowienie|https://www.saos.org.pl/judgments/501414
-484098|2023-02-01|SO|II AKzw 65/23|Postanowienie|https://www.saos.org.pl/judgments/484098
-470493|2022-07-13|SO|II AKzw 690/22|Postanowienie|https://www.saos.org.pl/judgments/470493
-436608|2020-07-07|SO|II AKzw 904/20|Postanowienie|https://www.saos.org.pl/judgments/436608
-16272|2013-06-26|SO|IV Cz 362/13|Postanowienie|https://www.saos.org.pl/judgments/16272
+saos_id|date|court|case_number|type|score|saos_url
+501401|2024-08-01|SO|II AKzw 651/24|Postanowienie|47|https://www.saos.org.pl/judgments/501401
+501414|2024-01-30|SO|II AKzw 9/24|Postanowienie|47|https://www.saos.org.pl/judgments/501414
+484098|2023-02-01|SO|II AKzw 65/23|Postanowienie|47|https://www.saos.org.pl/judgments/484098
+470493|2022-07-13|SO|II AKzw 690/22|Postanowienie|47|https://www.saos.org.pl/judgments/470493
+436608|2020-07-07|SO|II AKzw 904/20|Postanowienie|47|https://www.saos.org.pl/judgments/436608

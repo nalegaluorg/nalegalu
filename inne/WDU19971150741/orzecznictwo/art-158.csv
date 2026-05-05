@@ -1,21 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-488918|2023-04-04|SO|I C 39/23|Wyrok|https://www.saos.org.pl/judgments/488918
-423006|2020-03-04|SO|III Cz 1031/19|Postanowienie|https://www.saos.org.pl/judgments/423006
-422942|2020-01-21|SO|III Cz 769/19|Postanowienie|https://www.saos.org.pl/judgments/422942
-399486|2020-01-02|SO|I Ns 362/17|Uzasadnienie|https://www.saos.org.pl/judgments/399486
-394549|2019-07-02|SO|III Cz 185/19|Postanowienie|https://www.saos.org.pl/judgments/394549
-371068|2018-12-04|SO|III Cz 1434/18|Postanowienie|https://www.saos.org.pl/judgments/371068
-401403|2018-10-30|SO|I ACa 104/18|Wyrok|https://www.saos.org.pl/judgments/401403
-277327|2017-02-22|SO|I C 172/16|Wyrok|https://www.saos.org.pl/judgments/277327
-214650|2016-02-17|SO|I C 155/15|Wyrok|https://www.saos.org.pl/judgments/214650
-200186|2015-05-26|SO|III Cz 542/15|Postanowienie|https://www.saos.org.pl/judgments/200186
-185580|2015-03-10|SO|III Cz 1809/14|Postanowienie|https://www.saos.org.pl/judgments/185580
-126039|2014-10-28|SO|III Cz 1326/14|Postanowienie|https://www.saos.org.pl/judgments/126039
-126037|2014-10-28|SO|III Cz 1267/14|Postanowienie|https://www.saos.org.pl/judgments/126037
-65094|2014-06-27|SO|V ACa 316/14|Wyrok|https://www.saos.org.pl/judgments/65094
-65644|2014-06-03|SO|XV Ca 283/14|Wyrok|https://www.saos.org.pl/judgments/65644
-44198|2014-04-10|SO|II Ca 177/14|Wyrok|https://www.saos.org.pl/judgments/44198
-40080|2014-01-17|SO|I ACa 972/13|Wyrok|https://www.saos.org.pl/judgments/40080
-60204|2014-01-14|SO|I C 1225/12|Wyrok|https://www.saos.org.pl/judgments/60204
-40077|2013-10-04|SO|I ACa 931/12|Wyrok|https://www.saos.org.pl/judgments/40077
-140591|2013-09-25|SO|I Ca 326/13|Wyrok|https://www.saos.org.pl/judgments/140591
+saos_id|date|court|case_number|type|score|saos_url
+401403|2018-10-30|SO|I ACa 104/18|Wyrok|56|https://www.saos.org.pl/judgments/401403
+65094|2014-06-27|SO|V ACa 316/14|Wyrok|56|https://www.saos.org.pl/judgments/65094
+40080|2014-01-17|SO|I ACa 972/13|Wyrok|56|https://www.saos.org.pl/judgments/40080
+40077|2013-10-04|SO|I ACa 931/12|Wyrok|56|https://www.saos.org.pl/judgments/40077
+65644|2014-06-03|SO|XV Ca 283/14|Wyrok|40|https://www.saos.org.pl/judgments/65644
+399486|2020-01-02|SO|I Ns 362/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/399486

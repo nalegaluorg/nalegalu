@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-192280|2015-12-21|SO|VIII P 61/12|Uzasadnienie|https://www.saos.org.pl/judgments/192280
-18838|2012-04-02|SO|III RC 61/12|Wyrok|https://www.saos.org.pl/judgments/18838
+saos_id|date|court|case_number|type|score|saos_url
+192280|2015-12-21|SO|VIII P 61/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/192280

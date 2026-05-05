@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80713|2001-07-02|SN|I PZ 40/01|Postanowienie|https://www.saos.org.pl/judgments/80713
+saos_id|date|court|case_number|type|score|saos_url
+80713|2001-07-02|SN|I PZ 40/01|Postanowienie|69|https://www.saos.org.pl/judgments/80713

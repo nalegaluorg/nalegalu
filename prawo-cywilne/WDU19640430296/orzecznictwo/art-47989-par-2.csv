@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-512769|2023-12-21|SO|VIII GC 186/23|Wyrok|https://www.saos.org.pl/judgments/512769
-495060|2023-11-23|SO|I AGa 336/22|Wyrok|https://www.saos.org.pl/judgments/495060
+saos_id|date|court|case_number|type|score|saos_url
+495060|2023-11-23|SO|I AGa 336/22|Wyrok|56|https://www.saos.org.pl/judgments/495060

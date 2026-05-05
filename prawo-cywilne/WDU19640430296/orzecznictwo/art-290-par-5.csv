@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-522974|2024-04-19|SO|I ACa 2891/23|Wyrok|https://www.saos.org.pl/judgments/522974
+saos_id|date|court|case_number|type|score|saos_url
+522974|2024-04-19|SO|I ACa 2891/23|Wyrok|56|https://www.saos.org.pl/judgments/522974

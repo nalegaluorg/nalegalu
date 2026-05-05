@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-385632|2019-01-18|SO|I AGa 339/18|Wyrok|https://www.saos.org.pl/judgments/385632
-268377|2016-11-17|SO|IV Ca 145/16|Wyrok|https://www.saos.org.pl/judgments/268377
-211837|2015-12-16|SO|I ACa 1173/15|Wyrok|https://www.saos.org.pl/judgments/211837
-62021|2014-06-24|SO|X Ga 196/14|Wyrok|https://www.saos.org.pl/judgments/62021
+saos_id|date|court|case_number|type|score|saos_url
+385632|2019-01-18|SO|I AGa 339/18|Wyrok|56|https://www.saos.org.pl/judgments/385632
+211837|2015-12-16|SO|I ACa 1173/15|Wyrok|56|https://www.saos.org.pl/judgments/211837
+268377|2016-11-17|SO|IV Ca 145/16|Wyrok|40|https://www.saos.org.pl/judgments/268377

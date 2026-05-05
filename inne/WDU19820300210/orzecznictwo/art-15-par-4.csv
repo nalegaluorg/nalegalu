@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-282133|2017-03-31|SO|I C 1271/16|Wyrok|https://www.saos.org.pl/judgments/282133
-32778|2013-06-26|SO|I ACa 125/13|Wyrok|https://www.saos.org.pl/judgments/32778
+saos_id|date|court|case_number|type|score|saos_url
+32778|2013-06-26|SO|I ACa 125/13|Wyrok|56|https://www.saos.org.pl/judgments/32778

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
+saos_id|date|court|case_number|type|score|saos_url
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275

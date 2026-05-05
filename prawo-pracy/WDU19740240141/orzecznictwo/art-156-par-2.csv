@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-425188|2020-06-18|SO|I C 99/19|Wyrok|https://www.saos.org.pl/judgments/425188
-401026|2019-12-17|SO|I C 353/19|Zarządzenie|https://www.saos.org.pl/judgments/401026
-377389|2019-03-12|SO|I C 903/18|Wyrok|https://www.saos.org.pl/judgments/377389
-388376|2018-04-25|SO|I C 356/15|Wyrok|https://www.saos.org.pl/judgments/388376
-172760|2015-05-08|SO|III C 536/08|Wyrok|https://www.saos.org.pl/judgments/172760
-77086|1996-03-05|SN|I PZP 1/96|Uchwała|https://www.saos.org.pl/judgments/77086
-76913|1995-09-07|SN|I PZP 23/95|Uchwała|https://www.saos.org.pl/judgments/76913
-205462|1990-05-31|TK|W 1/89|Uchwała|https://www.saos.org.pl/judgments/205462
+saos_id|date|court|case_number|type|score|saos_url
+205462|1990-05-31|TK|W 1/89|Uchwała|100|https://www.saos.org.pl/judgments/205462
+77086|1996-03-05|SN|I PZP 1/96|Uchwała|89|https://www.saos.org.pl/judgments/77086
+76913|1995-09-07|SN|I PZP 23/95|Uchwała|89|https://www.saos.org.pl/judgments/76913
+172760|2015-05-08|SO|III C 536/08|Wyrok|40|https://www.saos.org.pl/judgments/172760
+401026|2019-12-17|SO|I C 353/19|Zarządzenie|27|https://www.saos.org.pl/judgments/401026

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-520295|2024-12-16|SO|II AKa 315/22|Uzasadnienie|https://www.saos.org.pl/judgments/520295
-98139|2012-05-15|SN|IV KK 411/11|Postanowienie|https://www.saos.org.pl/judgments/98139
+saos_id|date|court|case_number|type|score|saos_url
+98139|2012-05-15|SN|IV KK 411/11|Postanowienie|69|https://www.saos.org.pl/judgments/98139
+520295|2024-12-16|SO|II AKa 315/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/520295

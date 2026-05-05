@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-69260|2014-10-10|SO|I ACa 371/14|Wyrok|https://www.saos.org.pl/judgments/69260
+saos_id|date|court|case_number|type|score|saos_url
+69260|2014-10-10|SO|I ACa 371/14|Wyrok|56|https://www.saos.org.pl/judgments/69260

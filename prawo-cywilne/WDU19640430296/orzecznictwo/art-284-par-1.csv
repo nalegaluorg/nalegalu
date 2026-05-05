@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-287212|2017-02-27|SO|II C 52/15|Uzasadnienie|https://www.saos.org.pl/judgments/287212
-271528|2017-01-13|SO|I C 622/10|Wyrok|https://www.saos.org.pl/judgments/271528
+saos_id|date|court|case_number|type|score|saos_url
+287212|2017-02-27|SO|II C 52/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/287212

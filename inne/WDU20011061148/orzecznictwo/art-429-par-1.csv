@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-308637|2017-09-13|SO|XVII Ka 804/17|Wyrok|https://www.saos.org.pl/judgments/308637
+saos_id|date|court|case_number|type|score|saos_url
+308637|2017-09-13|SO|XVII Ka 804/17|Wyrok|40|https://www.saos.org.pl/judgments/308637

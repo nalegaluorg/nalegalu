@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-378202|2018-07-20|SO|II K 355/17|Uzasadnienie|https://www.saos.org.pl/judgments/378202
-352920|2018-06-06|SO|II K 605/15|Wyrok|https://www.saos.org.pl/judgments/352920
-397188|2018-04-05|SO|II K 21/18|Uzasadnienie|https://www.saos.org.pl/judgments/397188
-378191|2018-03-16|SO|II K 313/16|Uzasadnienie|https://www.saos.org.pl/judgments/378191
-322354|2017-12-28|SO|III K 375/17|Wyrok|https://www.saos.org.pl/judgments/322354
-290692|2017-04-25|SO|VI P 233/16|Wyrok|https://www.saos.org.pl/judgments/290692
-91832|2010-02-09|SN|II KK 176/09|Wyrok|https://www.saos.org.pl/judgments/91832
-107629|2006-10-30|TK|P 10/06|Wyrok|https://www.saos.org.pl/judgments/107629
-107249|2005-12-14|TK|SK 22/05|Wyrok|https://www.saos.org.pl/judgments/107249
+saos_id|date|court|case_number|type|score|saos_url
+107629|2006-10-30|TK|P 10/06|Wyrok|98|https://www.saos.org.pl/judgments/107629
+107249|2005-12-14|TK|SK 22/05|Wyrok|98|https://www.saos.org.pl/judgments/107249
+91832|2010-02-09|SN|II KK 176/09|Wyrok|78|https://www.saos.org.pl/judgments/91832
+322354|2017-12-28|SO|III K 375/17|Wyrok|40|https://www.saos.org.pl/judgments/322354

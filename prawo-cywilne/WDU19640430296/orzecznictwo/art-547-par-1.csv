@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-462503|2021-11-19|SO|V ACa 491/19|Postanowienie|https://www.saos.org.pl/judgments/462503
-395173|2018-06-21|SO|V ACa 481/17|Postanowienie|https://www.saos.org.pl/judgments/395173
-376323|2018-05-18|SO|I ACa 1397/17|Postanowienie|https://www.saos.org.pl/judgments/376323
-395177|2017-11-20|SO|V ACa 856/16|Postanowienie|https://www.saos.org.pl/judgments/395177
-329700|2017-11-17|SO|I ACa 486/17|Wyrok|https://www.saos.org.pl/judgments/329700
-227854|2016-05-10|SO|I ACa 95/16|Postanowienie|https://www.saos.org.pl/judgments/227854
-168058|2015-01-30|SN|III CSK 149/14|Postanowienie|https://www.saos.org.pl/judgments/168058
-331650|2015-01-13|SO|IX C 561/14|Wyrok|https://www.saos.org.pl/judgments/331650
-166433|2014-07-23|SN|V CZ 46/14|Postanowienie|https://www.saos.org.pl/judgments/166433
-52790|2013-10-30|SO|I ACa 994/13|Postanowienie|https://www.saos.org.pl/judgments/52790
-25482|2013-10-08|SO|I ACa 943/13|Postanowienie|https://www.saos.org.pl/judgments/25482
-76397|2010-04-16|SN|IV CSK 470/09|Postanowienie|https://www.saos.org.pl/judgments/76397
+saos_id|date|court|case_number|type|score|saos_url
+168058|2015-01-30|SN|III CSK 149/14|Postanowienie|69|https://www.saos.org.pl/judgments/168058
+166433|2014-07-23|SN|V CZ 46/14|Postanowienie|69|https://www.saos.org.pl/judgments/166433
+76397|2010-04-16|SN|IV CSK 470/09|Postanowienie|69|https://www.saos.org.pl/judgments/76397
+329700|2017-11-17|SO|I ACa 486/17|Wyrok|56|https://www.saos.org.pl/judgments/329700
+462503|2021-11-19|SO|V ACa 491/19|Postanowienie|47|https://www.saos.org.pl/judgments/462503
+395173|2018-06-21|SO|V ACa 481/17|Postanowienie|47|https://www.saos.org.pl/judgments/395173
+376323|2018-05-18|SO|I ACa 1397/17|Postanowienie|47|https://www.saos.org.pl/judgments/376323
+395177|2017-11-20|SO|V ACa 856/16|Postanowienie|47|https://www.saos.org.pl/judgments/395177
+227854|2016-05-10|SO|I ACa 95/16|Postanowienie|47|https://www.saos.org.pl/judgments/227854
+52790|2013-10-30|SO|I ACa 994/13|Postanowienie|47|https://www.saos.org.pl/judgments/52790
+25482|2013-10-08|SO|I ACa 943/13|Postanowienie|47|https://www.saos.org.pl/judgments/25482

@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-385288|2019-01-31|SO|I C 1006/17|Wyrok|https://www.saos.org.pl/judgments/385288
-62970|2014-08-27|SO|VI ACa 1786/13|Wyrok|https://www.saos.org.pl/judgments/62970
-10931|2013-02-22|SO|I ACa 1280/12|Wyrok|https://www.saos.org.pl/judgments/10931
-6843|2013-02-20|SO|I ACa 788/12|Wyrok|https://www.saos.org.pl/judgments/6843
-145475|2013-01-15|SO|II C 1047/09|Wyrok|https://www.saos.org.pl/judgments/145475
-145327|2012-11-22|SO|II C 159/12|Wyrok|https://www.saos.org.pl/judgments/145327
-144847|2012-09-18|SO|I C 1205/10|Wyrok|https://www.saos.org.pl/judgments/144847
-10935|2011-09-14|SO|I ACa 258/11|Wyrok|https://www.saos.org.pl/judgments/10935
-89229|2008-11-21|SN|V CSK 204/08|Wyrok|https://www.saos.org.pl/judgments/89229
+saos_id|date|court|case_number|type|score|saos_url
+89229|2008-11-21|SN|V CSK 204/08|Wyrok|78|https://www.saos.org.pl/judgments/89229
+62970|2014-08-27|SO|VI ACa 1786/13|Wyrok|56|https://www.saos.org.pl/judgments/62970
+10931|2013-02-22|SO|I ACa 1280/12|Wyrok|56|https://www.saos.org.pl/judgments/10931
+6843|2013-02-20|SO|I ACa 788/12|Wyrok|56|https://www.saos.org.pl/judgments/6843
+10935|2011-09-14|SO|I ACa 258/11|Wyrok|56|https://www.saos.org.pl/judgments/10935

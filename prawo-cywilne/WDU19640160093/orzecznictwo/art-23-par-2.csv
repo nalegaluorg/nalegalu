@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-519508|2025-01-13|SO|IV Pz 10/24|Postanowienie|https://www.saos.org.pl/judgments/519508
-458978|2021-11-03|SO|I AGa 101/21|Wyrok|https://www.saos.org.pl/judgments/458978
-429000|2020-10-20|SO|V ACa 314/19|Wyrok|https://www.saos.org.pl/judgments/429000
-311158|2017-09-29|SO|I ACa 939/17|Wyrok|https://www.saos.org.pl/judgments/311158
+saos_id|date|court|case_number|type|score|saos_url
+458978|2021-11-03|SO|I AGa 101/21|Wyrok|56|https://www.saos.org.pl/judgments/458978
+429000|2020-10-20|SO|V ACa 314/19|Wyrok|56|https://www.saos.org.pl/judgments/429000
+311158|2017-09-29|SO|I ACa 939/17|Wyrok|56|https://www.saos.org.pl/judgments/311158

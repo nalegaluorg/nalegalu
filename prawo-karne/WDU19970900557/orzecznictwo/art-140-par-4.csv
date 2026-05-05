@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-134885|2014-12-12|SO|II K 1030/14|Wyrok|https://www.saos.org.pl/judgments/134885
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-83822|2005-10-27|SN|I KZP 35/05|Postanowienie|https://www.saos.org.pl/judgments/83822
+saos_id|date|court|case_number|type|score|saos_url
+83822|2005-10-27|SN|I KZP 35/05|Postanowienie|69|https://www.saos.org.pl/judgments/83822
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113

@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-509966|2022-07-01|SO|V C 3330/18|Wyrok|https://www.saos.org.pl/judgments/509966
-481980|2021-05-24|SO|V AGa 227/19|Wyrok|https://www.saos.org.pl/judgments/481980
-480671|2021-04-13|SO|X GC 743/13|Zarządzenie|https://www.saos.org.pl/judgments/480671
-431788|2020-06-24|SO|VI K 283/19|Wyrok|https://www.saos.org.pl/judgments/431788
-406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|https://www.saos.org.pl/judgments/406189
-213724|2015-11-05|SO|I ACa 531/15|Wyrok|https://www.saos.org.pl/judgments/213724
+saos_id|date|court|case_number|type|score|saos_url
+481980|2021-05-24|SO|V AGa 227/19|Wyrok|56|https://www.saos.org.pl/judgments/481980
+213724|2015-11-05|SO|I ACa 531/15|Wyrok|56|https://www.saos.org.pl/judgments/213724
+509966|2022-07-01|SO|V C 3330/18|Wyrok|40|https://www.saos.org.pl/judgments/509966
+431788|2020-06-24|SO|VI K 283/19|Wyrok|40|https://www.saos.org.pl/judgments/431788
+480671|2021-04-13|SO|X GC 743/13|Zarządzenie|27|https://www.saos.org.pl/judgments/480671
+406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/406189

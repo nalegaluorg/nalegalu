@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-282189|2016-02-09|SO|I Ns 767/12|Uzasadnienie|https://www.saos.org.pl/judgments/282189
+saos_id|date|court|case_number|type|score|saos_url
+206730|2015-11-26|TK|P 32/13|Postanowienie|80|https://www.saos.org.pl/judgments/206730
+409074|2019-12-06|SO|III APz 10/19|Postanowienie|47|https://www.saos.org.pl/judgments/409074
+299284|2017-08-21|SO|III APz 9/17|Postanowienie|47|https://www.saos.org.pl/judgments/299284
+404066|2019-02-22|SO|VII P 83/18|Postanowienie|31|https://www.saos.org.pl/judgments/404066
+404063|2018-09-14|SO|VII P 59/18|Postanowienie|31|https://www.saos.org.pl/judgments/404063
+404057|2016-02-16|SO|VII P 4/16|Postanowienie|31|https://www.saos.org.pl/judgments/404057
+156684|2015-06-11|SO|VII Pz 36/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/156684
+130206|2015-02-27|SO|VII Pz 13/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/130206
+53527|2014-03-13|SO|VII Pz 76/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/53527

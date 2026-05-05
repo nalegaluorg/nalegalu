@@ -1,2 +1,27 @@
-saos_id|date|court|case_number|type|saos_url
-11531|2013-04-25|SO|IV P 4/12|Wyrok|https://www.saos.org.pl/judgments/11531
+saos_id|date|court|case_number|type|score|saos_url
+530833|2024-08-29|SO|III APa 4/23|Wyrok|56|https://www.saos.org.pl/judgments/530833
+519185|2024-06-20|SO|III APa 2/24|Wyrok|56|https://www.saos.org.pl/judgments/519185
+524074|2024-04-25|SO|III APa 7/23|Wyrok|56|https://www.saos.org.pl/judgments/524074
+525741|2022-07-01|SO|III APa 10/21|Wyrok|56|https://www.saos.org.pl/judgments/525741
+468879|2020-11-25|SO|III APa 18/20|Wyrok|56|https://www.saos.org.pl/judgments/468879
+428287|2019-11-22|SO|I ACa 1182/18|Wyrok|56|https://www.saos.org.pl/judgments/428287
+460061|2019-09-26|SO|III APa 14/19|Wyrok|56|https://www.saos.org.pl/judgments/460061
+437198|2018-11-21|SO|III AUa 749/17|Wyrok|56|https://www.saos.org.pl/judgments/437198
+386150|2018-06-06|SO|III APa 10/17|Wyrok|56|https://www.saos.org.pl/judgments/386150
+362833|2018-05-23|SO|III APa 22/17|Wyrok|56|https://www.saos.org.pl/judgments/362833
+357116|2018-04-24|SO|III APa 1/18|Wyrok|56|https://www.saos.org.pl/judgments/357116
+349957|2018-04-06|SO|I ACa 976/17|Wyrok|56|https://www.saos.org.pl/judgments/349957
+413315|2018-03-29|SO|III APa 66/17|Wyrok|56|https://www.saos.org.pl/judgments/413315
+335805|2017-11-23|SO|III APa 20/16|Wyrok|56|https://www.saos.org.pl/judgments/335805
+258439|2016-11-03|SO|III APa 32/16|Wyrok|56|https://www.saos.org.pl/judgments/258439
+236250|2016-03-23|SO|III APa 33/15|Wyrok|56|https://www.saos.org.pl/judgments/236250
+56724|2014-04-17|SO|V ACa 134/14|Wyrok|56|https://www.saos.org.pl/judgments/56724
+46034|2014-04-10|SO|III APa 57/13|Wyrok|56|https://www.saos.org.pl/judgments/46034
+33047|2014-01-09|SO|I ACa 625/13|Wyrok|56|https://www.saos.org.pl/judgments/33047
+3281|2012-11-29|SO|III APa 23/12|Wyrok|56|https://www.saos.org.pl/judgments/3281
+471159|2022-06-08|SO|VII Pa 89/21|Wyrok|40|https://www.saos.org.pl/judgments/471159
+475575|2021-08-30|SO|VI P 361/19|Wyrok|40|https://www.saos.org.pl/judgments/475575
+152370|2015-03-31|SO|XVII Ka 176/15|Wyrok|40|https://www.saos.org.pl/judgments/152370
+458327|2021-07-07|SO|III Ca 892/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/458327
+410871|2020-03-02|SO|VIII Pa 232/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/410871
+406541|2020-02-26|SO|VIII Pa 141/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/406541

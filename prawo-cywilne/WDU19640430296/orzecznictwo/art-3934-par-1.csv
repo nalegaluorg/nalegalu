@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83942|2005-12-15|SN|I UZ 33/05|Postanowienie|https://www.saos.org.pl/judgments/83942
+saos_id|date|court|case_number|type|score|saos_url
+83942|2005-12-15|SN|I UZ 33/05|Postanowienie|69|https://www.saos.org.pl/judgments/83942

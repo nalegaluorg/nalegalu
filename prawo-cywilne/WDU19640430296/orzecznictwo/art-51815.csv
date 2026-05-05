@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-314704|2017-11-20|SO|IV Nsm 418/17|Postanowienie|https://www.saos.org.pl/judgments/314704
-305996|2017-09-13|SO|IV Nsm 400/17|Postanowienie|https://www.saos.org.pl/judgments/305996
+saos_id|date|court|case_number|type|score|saos_url
+314704|2017-11-20|SO|IV Nsm 418/17|Postanowienie|31|https://www.saos.org.pl/judgments/314704
+305996|2017-09-13|SO|IV Nsm 400/17|Postanowienie|31|https://www.saos.org.pl/judgments/305996

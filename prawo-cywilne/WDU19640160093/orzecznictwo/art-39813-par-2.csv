@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-98758|2012-08-08|SN|I CSK 2/12|Wyrok|https://www.saos.org.pl/judgments/98758
-96104|2011-10-26|SN|I CSK 715/10|Wyrok|https://www.saos.org.pl/judgments/96104
-92477|2010-06-18|SN|V CSK 433/09|Wyrok|https://www.saos.org.pl/judgments/92477
+saos_id|date|court|case_number|type|score|saos_url
+98758|2012-08-08|SN|I CSK 2/12|Wyrok|78|https://www.saos.org.pl/judgments/98758
+96104|2011-10-26|SN|I CSK 715/10|Wyrok|78|https://www.saos.org.pl/judgments/96104
+92477|2010-06-18|SN|V CSK 433/09|Wyrok|78|https://www.saos.org.pl/judgments/92477

@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-475455|2022-08-30|SO|IV Ka 459/22|Uzasadnienie|https://www.saos.org.pl/judgments/475455
-426452|2020-09-22|SO|IX Ko 46/20|Postanowienie|https://www.saos.org.pl/judgments/426452
-206826|2015-02-24|TK|Ts 13/15|Postanowienie|https://www.saos.org.pl/judgments/206826
-160346|2014-10-02|TK|Ts 229/13|Postanowienie|https://www.saos.org.pl/judgments/160346
-206404|2013-09-24|TK|Ts 149/13|Postanowienie|https://www.saos.org.pl/judgments/206404
-112107|2013-06-19|TK|Ts 318/12|Postanowienie|https://www.saos.org.pl/judgments/112107
-112105|2013-03-12|TK|Ts 318/12|Postanowienie|https://www.saos.org.pl/judgments/112105
-2999|2012-11-23|SO|II Ko 165/12|Postanowienie|https://www.saos.org.pl/judgments/2999
-111230|2012-10-18|TK|Ts 139/10|Postanowienie|https://www.saos.org.pl/judgments/111230
-108719|2008-12-11|TK|Ts 51/07|Postanowienie|https://www.saos.org.pl/judgments/108719
-108100|2007-05-15|TK|P 13/06|Postanowienie|https://www.saos.org.pl/judgments/108100
-106780|2004-05-18|TK|SK 38/03|Wyrok|https://www.saos.org.pl/judgments/106780
-82216|2003-09-30|SN|I KZP 25/03|Uchwała|https://www.saos.org.pl/judgments/82216
+saos_id|date|court|case_number|type|score|saos_url
+106780|2004-05-18|TK|SK 38/03|Wyrok|98|https://www.saos.org.pl/judgments/106780
+82216|2003-09-30|SN|I KZP 25/03|Uchwała|89|https://www.saos.org.pl/judgments/82216
+206826|2015-02-24|TK|Ts 13/15|Postanowienie|80|https://www.saos.org.pl/judgments/206826
+160346|2014-10-02|TK|Ts 229/13|Postanowienie|80|https://www.saos.org.pl/judgments/160346
+206404|2013-09-24|TK|Ts 149/13|Postanowienie|80|https://www.saos.org.pl/judgments/206404
+112107|2013-06-19|TK|Ts 318/12|Postanowienie|80|https://www.saos.org.pl/judgments/112107
+112105|2013-03-12|TK|Ts 318/12|Postanowienie|80|https://www.saos.org.pl/judgments/112105
+111230|2012-10-18|TK|Ts 139/10|Postanowienie|80|https://www.saos.org.pl/judgments/111230
+108719|2008-12-11|TK|Ts 51/07|Postanowienie|80|https://www.saos.org.pl/judgments/108719
+108100|2007-05-15|TK|P 13/06|Postanowienie|80|https://www.saos.org.pl/judgments/108100

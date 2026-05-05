@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-227332|2014-10-07|SO|V Ca 3295/13|Wyrok|https://www.saos.org.pl/judgments/227332
+saos_id|date|court|case_number|type|score|saos_url
+96972|2012-01-25|SN|V CNP 14/11|Wyrok|78|https://www.saos.org.pl/judgments/96972
+96251|2011-11-17|SN|III CSK 30/11|Wyrok|78|https://www.saos.org.pl/judgments/96251
+150503|2015-03-31|SO|V ACa 712/14|Wyrok|56|https://www.saos.org.pl/judgments/150503
+11232|2012-11-23|SO|VI ACa 564/12|Wyrok|56|https://www.saos.org.pl/judgments/11232

@@ -1,17 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-483894|2018-05-07|SO|II K 48/11|Wyrok|https://www.saos.org.pl/judgments/483894
-344663|2018-03-15|SO|IV Ka 53/18|Wyrok|https://www.saos.org.pl/judgments/344663
-336404|2018-03-13|SO|II Ka 591/17|Wyrok|https://www.saos.org.pl/judgments/336404
-332827|2018-02-06|SO|VI Ka 573/17|Wyrok|https://www.saos.org.pl/judgments/332827
-321688|2018-01-05|SO|V Kz 1058/17|Postanowienie|https://www.saos.org.pl/judgments/321688
-313674|2017-10-03|SO|VI Ka 721/17|Uzasadnienie|https://www.saos.org.pl/judgments/313674
-291799|2017-07-10|SO|II K 897/15|Uzasadnienie|https://www.saos.org.pl/judgments/291799
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-276202|2017-01-30|SO|II K 126/15|Wyrok|https://www.saos.org.pl/judgments/276202
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
-246222|2016-01-13|SO|IV Ka 913/15|Wyrok|https://www.saos.org.pl/judgments/246222
-192438|2015-10-29|SO|II AKa 170/15|Wyrok|https://www.saos.org.pl/judgments/192438
-177233|2014-09-11|SO|IX Ka 270/14|Wyrok|https://www.saos.org.pl/judgments/177233
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
-15079|2013-04-23|SO|IX Kz 111/13|Postanowienie|https://www.saos.org.pl/judgments/15079
+saos_id|date|court|case_number|type|score|saos_url
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+192438|2015-10-29|SO|II AKa 170/15|Wyrok|56|https://www.saos.org.pl/judgments/192438
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+344663|2018-03-15|SO|IV Ka 53/18|Wyrok|40|https://www.saos.org.pl/judgments/344663
+336404|2018-03-13|SO|II Ka 591/17|Wyrok|40|https://www.saos.org.pl/judgments/336404
+321688|2018-01-05|SO|V Kz 1058/17|Postanowienie|31|https://www.saos.org.pl/judgments/321688
+291799|2017-07-10|SO|II K 897/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/291799
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

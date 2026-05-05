@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-481983|2021-04-16|SO|V AGa 9/20|Wyrok|https://www.saos.org.pl/judgments/481983
-393303|2019-07-17|SO|IV P 460/18|Wyrok|https://www.saos.org.pl/judgments/393303
-436468|2017-09-05|SO|V ACa 814/16|Wyrok|https://www.saos.org.pl/judgments/436468
-326331|2016-09-06|SO|I ACa 546/16|Wyrok|https://www.saos.org.pl/judgments/326331
-180234|2015-08-27|SO|VIII GC 307/13|Wyrok|https://www.saos.org.pl/judgments/180234
-211091|2014-12-12|SO|IV Pa 64/14|Wyrok|https://www.saos.org.pl/judgments/211091
-71154|2014-12-04|SO|VII Ka 890/14|Uzasadnienie|https://www.saos.org.pl/judgments/71154
-93645|2010-12-10|SN|II PK 135/10|Wyrok|https://www.saos.org.pl/judgments/93645
-84736|2006-11-15|SN|V CSK 241/06|Wyrok|https://www.saos.org.pl/judgments/84736
+saos_id|date|court|case_number|type|score|saos_url
+93645|2010-12-10|SN|II PK 135/10|Wyrok|78|https://www.saos.org.pl/judgments/93645
+84736|2006-11-15|SN|V CSK 241/06|Wyrok|78|https://www.saos.org.pl/judgments/84736
+481983|2021-04-16|SO|V AGa 9/20|Wyrok|56|https://www.saos.org.pl/judgments/481983
+436468|2017-09-05|SO|V ACa 814/16|Wyrok|56|https://www.saos.org.pl/judgments/436468
+326331|2016-09-06|SO|I ACa 546/16|Wyrok|56|https://www.saos.org.pl/judgments/326331
+211091|2014-12-12|SO|IV Pa 64/14|Wyrok|40|https://www.saos.org.pl/judgments/211091
+71154|2014-12-04|SO|VII Ka 890/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/71154

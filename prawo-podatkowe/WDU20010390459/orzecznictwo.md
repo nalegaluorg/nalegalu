@@ -10,7 +10,7 @@ Orzeczenia powołujące: *Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy - O
 
 ## art. 8 (1)
 
-- 2001-06-27 | SN | [III CZP 27/01](https://www.saos.org.pl/judgments/80696) | Uchwała
+- 2001-06-27 | SN | [III CZP 27/01](https://www.saos.org.pl/judgments/80696) | Uchwała ★
 
 ## art. 26 (1)
 
@@ -18,9 +18,9 @@ Orzeczenia powołujące: *Ustawa z dnia 11 kwietnia 2001 r. o zmianie ustawy - O
 
 ## art. 34 (1)
 
-- 2002-12-05 | SN | [III CZP 78/02](https://www.saos.org.pl/judgments/81742) | Uchwała
+- 2002-12-05 | SN | [III CZP 78/02](https://www.saos.org.pl/judgments/81742) | Uchwała ★
 
 ## art. 72 (1)
 
-- 2002-04-18 | SN | [III RN 29/01](https://www.saos.org.pl/judgments/81347) | Wyrok
+- 2002-04-18 | SN | [III RN 29/01](https://www.saos.org.pl/judgments/81347) | Wyrok ★
 

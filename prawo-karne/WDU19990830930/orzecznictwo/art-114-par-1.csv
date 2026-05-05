@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-384158|2018-09-21|SO|II AKa 302/18|Wyrok|https://www.saos.org.pl/judgments/384158
-51913|2014-06-03|SO|IV Ka 225/14|Wyrok|https://www.saos.org.pl/judgments/51913
-98402|2012-06-20|SN|I KZP 3/12|Postanowienie|https://www.saos.org.pl/judgments/98402
+saos_id|date|court|case_number|type|score|saos_url
+98402|2012-06-20|SN|I KZP 3/12|Postanowienie|69|https://www.saos.org.pl/judgments/98402
+384158|2018-09-21|SO|II AKa 302/18|Wyrok|56|https://www.saos.org.pl/judgments/384158
+51913|2014-06-03|SO|IV Ka 225/14|Wyrok|40|https://www.saos.org.pl/judgments/51913

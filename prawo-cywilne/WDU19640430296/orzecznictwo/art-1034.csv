@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-537838|2025-03-10|SO|IV P 230/24|Wyrok|https://www.saos.org.pl/judgments/537838
-243473|2015-10-08|SN|III CZP 55/15|Uchwała|https://www.saos.org.pl/judgments/243473
-169058|2015-05-13|SN|III CZP 15/15|Uchwała|https://www.saos.org.pl/judgments/169058
-90391|2009-06-08|SN|V CNP 22/09|Postanowienie|https://www.saos.org.pl/judgments/90391
-87601|2008-03-14|SN|IV CSK 501/07|Wyrok|https://www.saos.org.pl/judgments/87601
-82512|2004-02-18|SN|V CK 241/03|Wyrok|https://www.saos.org.pl/judgments/82512
+saos_id|date|court|case_number|type|score|saos_url
+243473|2015-10-08|SN|III CZP 55/15|Uchwała|89|https://www.saos.org.pl/judgments/243473
+169058|2015-05-13|SN|III CZP 15/15|Uchwała|89|https://www.saos.org.pl/judgments/169058
+87601|2008-03-14|SN|IV CSK 501/07|Wyrok|78|https://www.saos.org.pl/judgments/87601
+82512|2004-02-18|SN|V CK 241/03|Wyrok|78|https://www.saos.org.pl/judgments/82512
+90391|2009-06-08|SN|V CNP 22/09|Postanowienie|69|https://www.saos.org.pl/judgments/90391

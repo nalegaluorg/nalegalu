@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-511135|2023-12-19|SO|VI Ka 410/23|Wyrok|https://www.saos.org.pl/judgments/511135
-439574|2021-03-19|SO|VI Ka 293/20|Wyrok|https://www.saos.org.pl/judgments/439574
-433546|2019-12-09|SO|II K 759/18|Wyrok|https://www.saos.org.pl/judgments/433546
-408089|2019-10-08|SO|IV Ka 164/19|Wyrok|https://www.saos.org.pl/judgments/408089
-370003|2018-10-08|SO|II K 92/18|Wyrok|https://www.saos.org.pl/judgments/370003
-334303|2018-04-09|SO|IX Ka 288/18|Uzasadnienie|https://www.saos.org.pl/judgments/334303
-326387|2017-11-29|SO|II K 210/17|Wyrok|https://www.saos.org.pl/judgments/326387
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
+saos_id|date|court|case_number|type|score|saos_url
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+511135|2023-12-19|SO|VI Ka 410/23|Wyrok|40|https://www.saos.org.pl/judgments/511135
+433546|2019-12-09|SO|II K 759/18|Wyrok|40|https://www.saos.org.pl/judgments/433546
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

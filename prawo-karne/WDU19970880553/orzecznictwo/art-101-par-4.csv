@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504632|2016-03-18|SO|III APa 61/15|Wyrok|https://www.saos.org.pl/judgments/504632
-128617|2014-12-02|SO|II AKa 350/14|Wyrok|https://www.saos.org.pl/judgments/128617
-53124|2014-06-17|SO|VI Ka 81/14|Wyrok|https://www.saos.org.pl/judgments/53124
-37245|2006-02-22|SO|II S 6/06|Postanowienie|https://www.saos.org.pl/judgments/37245
+saos_id|date|court|case_number|type|score|saos_url
+504632|2016-03-18|SO|III APa 61/15|Wyrok|56|https://www.saos.org.pl/judgments/504632
+128617|2014-12-02|SO|II AKa 350/14|Wyrok|56|https://www.saos.org.pl/judgments/128617
+37245|2006-02-22|SO|II S 6/06|Postanowienie|47|https://www.saos.org.pl/judgments/37245

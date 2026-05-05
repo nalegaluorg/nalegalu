@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-453258|2021-07-22|SO|II AKa 193/20|Wyrok|https://www.saos.org.pl/judgments/453258
+saos_id|date|court|case_number|type|score|saos_url
+453258|2021-07-22|SO|II AKa 193/20|Wyrok|56|https://www.saos.org.pl/judgments/453258

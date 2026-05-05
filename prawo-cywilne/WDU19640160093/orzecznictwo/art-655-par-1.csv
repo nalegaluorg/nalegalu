@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-402036|2019-05-21|SO|I AGa 380/18|Wyrok|https://www.saos.org.pl/judgments/402036
-130686|2014-11-07|SO|I ACa 1054/14|Wyrok|https://www.saos.org.pl/judgments/130686
-35187|2013-12-20|SO|II Ca 742/13|Wyrok|https://www.saos.org.pl/judgments/35187
+saos_id|date|court|case_number|type|score|saos_url
+402036|2019-05-21|SO|I AGa 380/18|Wyrok|56|https://www.saos.org.pl/judgments/402036
+130686|2014-11-07|SO|I ACa 1054/14|Wyrok|56|https://www.saos.org.pl/judgments/130686

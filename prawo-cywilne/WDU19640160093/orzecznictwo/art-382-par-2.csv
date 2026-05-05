@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-484329|2023-01-25|SO|XVII AmA 68/21|Wyrok|https://www.saos.org.pl/judgments/484329
-347885|2015-11-10|SO|I C 164/15|Wyrok|https://www.saos.org.pl/judgments/347885
-90973|2009-10-08|SN|II CSK 160/09|Wyrok|https://www.saos.org.pl/judgments/90973
+saos_id|date|court|case_number|type|score|saos_url
+90973|2009-10-08|SN|II CSK 160/09|Wyrok|78|https://www.saos.org.pl/judgments/90973

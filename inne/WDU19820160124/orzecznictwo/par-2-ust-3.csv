@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-216644|2014-12-15|SO|I C 950/13|Uzasadnienie|https://www.saos.org.pl/judgments/216644
-127405|2014-11-20|SO|II Ca 1463/14|Wyrok|https://www.saos.org.pl/judgments/127405
-141223|2013-10-30|SO|I Ca 277/13|Wyrok|https://www.saos.org.pl/judgments/141223
+saos_id|date|court|case_number|type|score|saos_url
+127405|2014-11-20|SO|II Ca 1463/14|Wyrok|40|https://www.saos.org.pl/judgments/127405
+141223|2013-10-30|SO|I Ca 277/13|Wyrok|40|https://www.saos.org.pl/judgments/141223

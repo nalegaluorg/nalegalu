@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-538955|2025-05-08|SO|V GC 77/25|Wyrok|https://www.saos.org.pl/judgments/538955
-465540|2022-02-28|SO|IV GC 1113/20|Uzasadnienie|https://www.saos.org.pl/judgments/465540
-411451|2019-12-20|SO|V C 662/19|Wyrok|https://www.saos.org.pl/judgments/411451
-237052|2016-06-30|SO|XI GC 415/16|Wyrok|https://www.saos.org.pl/judgments/237052
-54170|2013-11-21|SO|II Ca 271/13|Uzasadnienie|https://www.saos.org.pl/judgments/54170
+saos_id|date|court|case_number|type|score|saos_url
+411451|2019-12-20|SO|V C 662/19|Wyrok|40|https://www.saos.org.pl/judgments/411451

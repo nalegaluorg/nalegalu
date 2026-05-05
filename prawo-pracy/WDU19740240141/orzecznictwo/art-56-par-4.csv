@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-440905|2021-05-10|SO|VIII P 13/19|Zarządzenie|https://www.saos.org.pl/judgments/440905
-84368|2006-06-08|SN|II PK 311/05|Wyrok|https://www.saos.org.pl/judgments/84368
+saos_id|date|court|case_number|type|score|saos_url
+84368|2006-06-08|SN|II PK 311/05|Wyrok|78|https://www.saos.org.pl/judgments/84368
+440905|2021-05-10|SO|VIII P 13/19|Zarządzenie|27|https://www.saos.org.pl/judgments/440905

@@ -1,15 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-532558|2025-02-13|SO|I C 214/21|Wyrok|https://www.saos.org.pl/judgments/532558
-478948|2022-06-02|SO|I ACa 854/21|Wyrok|https://www.saos.org.pl/judgments/478948
-434727|2020-06-30|SO|I ACa 9/20|Wyrok|https://www.saos.org.pl/judgments/434727
-379141|2019-04-26|SO|IV K 132/18|Uzasadnienie|https://www.saos.org.pl/judgments/379141
-379140|2019-04-04|SO|IV K 132/18|Wyrok|https://www.saos.org.pl/judgments/379140
-368991|2018-12-13|SO|I ACa 1010/17|Wyrok|https://www.saos.org.pl/judgments/368991
-362803|2018-05-23|SO|II AKa 110/18|Wyrok|https://www.saos.org.pl/judgments/362803
-344227|2018-04-24|SO|I ACa 1248/17|Wyrok|https://www.saos.org.pl/judgments/344227
-409542|2017-05-26|SO|I ACa 90/17|Wyrok|https://www.saos.org.pl/judgments/409542
-152373|2015-04-15|SO|XVII Ka 183/15|Wyrok|https://www.saos.org.pl/judgments/152373
-150647|2014-09-11|SO|II AKa 291/14|Wyrok|https://www.saos.org.pl/judgments/150647
-160140|2014-02-26|TK|K 22/10|Wyrok|https://www.saos.org.pl/judgments/160140
-475149|2012-12-12|SO|I ACa 390/12|Wyrok|https://www.saos.org.pl/judgments/475149
-86498|2007-08-30|SN|II KZ 25/07|Postanowienie|https://www.saos.org.pl/judgments/86498
+saos_id|date|court|case_number|type|score|saos_url
+160140|2014-02-26|TK|K 22/10|Wyrok|98|https://www.saos.org.pl/judgments/160140
+86498|2007-08-30|SN|II KZ 25/07|Postanowienie|69|https://www.saos.org.pl/judgments/86498
+478948|2022-06-02|SO|I ACa 854/21|Wyrok|56|https://www.saos.org.pl/judgments/478948
+434727|2020-06-30|SO|I ACa 9/20|Wyrok|56|https://www.saos.org.pl/judgments/434727
+368991|2018-12-13|SO|I ACa 1010/17|Wyrok|56|https://www.saos.org.pl/judgments/368991
+362803|2018-05-23|SO|II AKa 110/18|Wyrok|56|https://www.saos.org.pl/judgments/362803
+344227|2018-04-24|SO|I ACa 1248/17|Wyrok|56|https://www.saos.org.pl/judgments/344227
+409542|2017-05-26|SO|I ACa 90/17|Wyrok|56|https://www.saos.org.pl/judgments/409542
+150647|2014-09-11|SO|II AKa 291/14|Wyrok|56|https://www.saos.org.pl/judgments/150647
+475149|2012-12-12|SO|I ACa 390/12|Wyrok|56|https://www.saos.org.pl/judgments/475149
+379140|2019-04-04|SO|IV K 132/18|Wyrok|40|https://www.saos.org.pl/judgments/379140
+152373|2015-04-15|SO|XVII Ka 183/15|Wyrok|40|https://www.saos.org.pl/judgments/152373
+379141|2019-04-26|SO|IV K 132/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/379141

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-333606|2017-10-24|SO|XVI GC 402/15|Wyrok|https://www.saos.org.pl/judgments/333606
-215966|2016-03-14|SO|I C 1196/13|Wyrok|https://www.saos.org.pl/judgments/215966
-194207|2015-10-13|SO|I ACa 878/15|Wyrok|https://www.saos.org.pl/judgments/194207
+saos_id|date|court|case_number|type|score|saos_url
+194207|2015-10-13|SO|I ACa 878/15|Wyrok|56|https://www.saos.org.pl/judgments/194207

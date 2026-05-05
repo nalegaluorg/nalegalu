@@ -1,11 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309619|2016-05-31|SO|XI Ka 187/16|Wyrok|https://www.saos.org.pl/judgments/309619
-189662|2015-10-05|SO|XVII Ka 768/15|Wyrok|https://www.saos.org.pl/judgments/189662
-126185|2015-01-09|SO|IV Ka 699/14|Wyrok|https://www.saos.org.pl/judgments/126185
-73057|2014-11-28|SO|IV Ka 631/14|Wyrok|https://www.saos.org.pl/judgments/73057
-64871|2014-10-07|SO|IV Ka 531/14|Wyrok|https://www.saos.org.pl/judgments/64871
-58880|2014-08-26|SO|IV Ka 390/14|Wyrok|https://www.saos.org.pl/judgments/58880
-56855|2014-07-18|SO|IV Ka 346/14|Wyrok|https://www.saos.org.pl/judgments/56855
-53495|2014-07-04|SO|IV Ka 246/14|Wyrok|https://www.saos.org.pl/judgments/53495
-48122|2014-05-09|SO|IV Ka 230/14|Wyrok|https://www.saos.org.pl/judgments/48122
-38975|2014-02-21|SO|IV Ka 47/14|Wyrok|https://www.saos.org.pl/judgments/38975
+saos_id|date|court|case_number|type|score|saos_url
+189662|2015-10-05|SO|XVII Ka 768/15|Wyrok|40|https://www.saos.org.pl/judgments/189662

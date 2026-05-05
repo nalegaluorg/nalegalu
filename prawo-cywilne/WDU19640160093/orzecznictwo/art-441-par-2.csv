@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-311098|2017-10-11|SO|VII Ca 549/17|Postanowienie|https://www.saos.org.pl/judgments/311098
-240761|2016-07-07|SO|V ACa 663/15|Wyrok|https://www.saos.org.pl/judgments/240761
-196489|2015-12-22|SO|V ACa 360/15|Wyrok|https://www.saos.org.pl/judgments/196489
-66185|2014-03-25|SO|XI Ns 450/12|Postanowienie|https://www.saos.org.pl/judgments/66185
-19860|2008-11-12|SO|I ACa 906/08|Wyrok|https://www.saos.org.pl/judgments/19860
+saos_id|date|court|case_number|type|score|saos_url
+240761|2016-07-07|SO|V ACa 663/15|Wyrok|56|https://www.saos.org.pl/judgments/240761
+196489|2015-12-22|SO|V ACa 360/15|Wyrok|56|https://www.saos.org.pl/judgments/196489
+19860|2008-11-12|SO|I ACa 906/08|Wyrok|56|https://www.saos.org.pl/judgments/19860
+311098|2017-10-11|SO|VII Ca 549/17|Postanowienie|31|https://www.saos.org.pl/judgments/311098

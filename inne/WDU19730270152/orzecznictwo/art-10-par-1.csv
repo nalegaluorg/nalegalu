@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-387227|2019-04-11|SO|II AKa 41/19|Wyrok|https://www.saos.org.pl/judgments/387227
-387217|2019-04-05|SO|II AKa 110/18|Wyrok|https://www.saos.org.pl/judgments/387217
-387237|2019-01-22|SO|II AKa 99/18|Wyrok|https://www.saos.org.pl/judgments/387237
+saos_id|date|court|case_number|type|score|saos_url
+387227|2019-04-11|SO|II AKa 41/19|Wyrok|56|https://www.saos.org.pl/judgments/387227
+387217|2019-04-05|SO|II AKa 110/18|Wyrok|56|https://www.saos.org.pl/judgments/387217
+387237|2019-01-22|SO|II AKa 99/18|Wyrok|56|https://www.saos.org.pl/judgments/387237

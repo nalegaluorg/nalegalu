@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-451008|2021-09-02|SO|II Kow 700/21|Postanowienie|https://www.saos.org.pl/judgments/451008
-442533|2021-05-14|SO|I ACa 436/20|Wyrok|https://www.saos.org.pl/judgments/442533
-426388|2017-03-28|SO|I C 535/16|Wyrok|https://www.saos.org.pl/judgments/426388
-292827|2017-03-15|SO|X C 3094/14|Uzasadnienie|https://www.saos.org.pl/judgments/292827
-204482|2016-02-09|SO|II AKo 28/16|Postanowienie|https://www.saos.org.pl/judgments/204482
-126316|2015-01-27|SO|II AKo 2/15|Postanowienie|https://www.saos.org.pl/judgments/126316
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-136008|2012-06-01|SO|II AKo 108/12|Postanowienie|https://www.saos.org.pl/judgments/136008
-91431|2009-12-10|SN|I KZP 25/09|Postanowienie|https://www.saos.org.pl/judgments/91431
+saos_id|date|court|case_number|type|score|saos_url
+91431|2009-12-10|SN|I KZP 25/09|Postanowienie|69|https://www.saos.org.pl/judgments/91431
+442533|2021-05-14|SO|I ACa 436/20|Wyrok|56|https://www.saos.org.pl/judgments/442533
+204482|2016-02-09|SO|II AKo 28/16|Postanowienie|47|https://www.saos.org.pl/judgments/204482
+126316|2015-01-27|SO|II AKo 2/15|Postanowienie|47|https://www.saos.org.pl/judgments/126316
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113
+136008|2012-06-01|SO|II AKo 108/12|Postanowienie|47|https://www.saos.org.pl/judgments/136008
+426388|2017-03-28|SO|I C 535/16|Wyrok|40|https://www.saos.org.pl/judgments/426388

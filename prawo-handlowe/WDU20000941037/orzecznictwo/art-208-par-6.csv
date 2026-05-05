@@ -1,16 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-477349|2022-06-07|SO|III AUa 80/22|Wyrok|https://www.saos.org.pl/judgments/477349
-464513|2022-05-09|SO|VIII U 221/19|Uzasadnienie|https://www.saos.org.pl/judgments/464513
-407717|2019-12-17|SO|I AGa 98/19|Wyrok|https://www.saos.org.pl/judgments/407717
-402977|2019-12-12|SO|III Cz 926/19|Postanowienie|https://www.saos.org.pl/judgments/402977
-389557|2019-06-11|SO|III AUa 746/18|Wyrok|https://www.saos.org.pl/judgments/389557
-389215|2019-06-04|SO|III Cz 79/19|Postanowienie|https://www.saos.org.pl/judgments/389215
-355708|2017-11-02|SO|III AUa 1924/16|Wyrok|https://www.saos.org.pl/judgments/355708
-301444|2017-01-17|KIO|KIz O 31/17|Wyrok|https://www.saos.org.pl/judgments/301444
-326331|2016-09-06|SO|I ACa 546/16|Wyrok|https://www.saos.org.pl/judgments/326331
-177781|2015-09-22|SO|VII Pa 156/15|Uzasadnienie|https://www.saos.org.pl/judgments/177781
-174256|2015-07-01|SO|III AUa 1520/14|Wyrok|https://www.saos.org.pl/judgments/174256
-39748|2013-07-04|SO|III APa 9/13|Wyrok|https://www.saos.org.pl/judgments/39748
-2780|2012-11-06|SO|III AUa 833/12|Wyrok|https://www.saos.org.pl/judgments/2780
-1246|2012-09-07|SO|I ACa 308/12|Wyrok|https://www.saos.org.pl/judgments/1246
-114873|2009-11-05|KIO|KIO/UZP 1514/09|Wyrok|https://www.saos.org.pl/judgments/114873
+saos_id|date|court|case_number|type|score|saos_url
+477349|2022-06-07|SO|III AUa 80/22|Wyrok|56|https://www.saos.org.pl/judgments/477349
+407717|2019-12-17|SO|I AGa 98/19|Wyrok|56|https://www.saos.org.pl/judgments/407717
+389557|2019-06-11|SO|III AUa 746/18|Wyrok|56|https://www.saos.org.pl/judgments/389557
+355708|2017-11-02|SO|III AUa 1924/16|Wyrok|56|https://www.saos.org.pl/judgments/355708
+326331|2016-09-06|SO|I ACa 546/16|Wyrok|56|https://www.saos.org.pl/judgments/326331
+174256|2015-07-01|SO|III AUa 1520/14|Wyrok|56|https://www.saos.org.pl/judgments/174256
+39748|2013-07-04|SO|III APa 9/13|Wyrok|56|https://www.saos.org.pl/judgments/39748
+2780|2012-11-06|SO|III AUa 833/12|Wyrok|56|https://www.saos.org.pl/judgments/2780
+1246|2012-09-07|SO|I ACa 308/12|Wyrok|56|https://www.saos.org.pl/judgments/1246
+301444|2017-01-17|KIO|KIz O 31/17|Wyrok|44|https://www.saos.org.pl/judgments/301444
+114873|2009-11-05|KIO|KIO/UZP 1514/09|Wyrok|44|https://www.saos.org.pl/judgments/114873
+464513|2022-05-09|SO|VIII U 221/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/464513
+177781|2015-09-22|SO|VII Pa 156/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/177781

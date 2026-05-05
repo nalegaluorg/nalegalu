@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-527989|2025-04-29|SO|I C 550/24|Wyrok|https://www.saos.org.pl/judgments/527989
-538034|2025-03-27|SO|I ACa 1377/22|Wyrok|https://www.saos.org.pl/judgments/538034
-491804|2023-06-23|SO|III C 564/20|Postanowienie|https://www.saos.org.pl/judgments/491804
-451983|2021-03-26|SO|I C 1721/19|Wyrok|https://www.saos.org.pl/judgments/451983
-425813|2020-11-23|SO|I Ns 676/18|Postanowienie|https://www.saos.org.pl/judgments/425813
-390854|2019-06-17|SO|III Ca 94/19|Uzasadnienie|https://www.saos.org.pl/judgments/390854
-334717|2018-04-05|SO|VIII Gz 479/17|Postanowienie|https://www.saos.org.pl/judgments/334717
-329069|2018-02-16|SO|VIII Gz 515/17|Postanowienie|https://www.saos.org.pl/judgments/329069
-327633|2017-11-28|SO|VII Ca 720/17|Postanowienie|https://www.saos.org.pl/judgments/327633
-271528|2017-01-13|SO|I C 622/10|Wyrok|https://www.saos.org.pl/judgments/271528
-244827|2016-03-10|SN|III CSK 172/15|Wyrok|https://www.saos.org.pl/judgments/244827
-213319|2016-02-24|SO|I Ca 30/16|Wyrok|https://www.saos.org.pl/judgments/213319
-127138|2014-12-09|SO|I ACa 811/14|Wyrok|https://www.saos.org.pl/judgments/127138
-52949|2014-03-28|SO|I ACz 138/14|Postanowienie|https://www.saos.org.pl/judgments/52949
-33534|2013-11-08|SO|I ACa 405/13|Wyrok|https://www.saos.org.pl/judgments/33534
-90572|2009-07-08|SN|III SW 17/09|Postanowienie|https://www.saos.org.pl/judgments/90572
+saos_id|date|court|case_number|type|score|saos_url
+244827|2016-03-10|SN|III CSK 172/15|Wyrok|78|https://www.saos.org.pl/judgments/244827
+90572|2009-07-08|SN|III SW 17/09|Postanowienie|69|https://www.saos.org.pl/judgments/90572
+538034|2025-03-27|SO|I ACa 1377/22|Wyrok|56|https://www.saos.org.pl/judgments/538034
+127138|2014-12-09|SO|I ACa 811/14|Wyrok|56|https://www.saos.org.pl/judgments/127138
+33534|2013-11-08|SO|I ACa 405/13|Wyrok|56|https://www.saos.org.pl/judgments/33534
+52949|2014-03-28|SO|I ACz 138/14|Postanowienie|47|https://www.saos.org.pl/judgments/52949
+327633|2017-11-28|SO|VII Ca 720/17|Postanowienie|31|https://www.saos.org.pl/judgments/327633
+390854|2019-06-17|SO|III Ca 94/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/390854

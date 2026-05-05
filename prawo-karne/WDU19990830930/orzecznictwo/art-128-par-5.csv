@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-433546|2019-12-09|SO|II K 759/18|Wyrok|https://www.saos.org.pl/judgments/433546
-408089|2019-10-08|SO|IV Ka 164/19|Wyrok|https://www.saos.org.pl/judgments/408089
-370003|2018-10-08|SO|II K 92/18|Wyrok|https://www.saos.org.pl/judgments/370003
+saos_id|date|court|case_number|type|score|saos_url
+433546|2019-12-09|SO|II K 759/18|Wyrok|40|https://www.saos.org.pl/judgments/433546

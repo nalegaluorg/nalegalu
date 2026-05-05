@@ -1,15 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-462952|2022-02-11|SO|I AGa 251/20|Wyrok|https://www.saos.org.pl/judgments/462952
-514980|2021-11-29|SO|XVI GC 207/18|Wyrok|https://www.saos.org.pl/judgments/514980
-429946|2020-04-03|SO|VII AGa 151/19|Wyrok|https://www.saos.org.pl/judgments/429946
-381479|2018-07-06|SO|XVI GC 390/16|Wyrok|https://www.saos.org.pl/judgments/381479
-351283|2018-06-07|SO|XXIII Ga 566/18|Postanowienie|https://www.saos.org.pl/judgments/351283
-364636|2018-05-17|SO|VII AGa 565/18|Wyrok|https://www.saos.org.pl/judgments/364636
-304323|2017-06-07|SO|I ACa 218/17|Wyrok|https://www.saos.org.pl/judgments/304323
-335334|2017-04-24|SO|XX GC 790/15|Wyrok|https://www.saos.org.pl/judgments/335334
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-263225|2016-11-02|SO|VIII GC 171/15|Wyrok|https://www.saos.org.pl/judgments/263225
-286202|2016-10-27|SO|I ACa 413/16|Wyrok|https://www.saos.org.pl/judgments/286202
-244672|2016-02-26|SN|IV CZ 93/15|Postanowienie|https://www.saos.org.pl/judgments/244672
-163062|2005-03-02|SN|III CK 402/04|Wyrok|https://www.saos.org.pl/judgments/163062
-83210|2005-02-09|SN|III CZP 82/04|Uchwała|https://www.saos.org.pl/judgments/83210
+saos_id|date|court|case_number|type|score|saos_url
+83210|2005-02-09|SN|III CZP 82/04|Uchwała|89|https://www.saos.org.pl/judgments/83210
+163062|2005-03-02|SN|III CK 402/04|Wyrok|78|https://www.saos.org.pl/judgments/163062
+244672|2016-02-26|SN|IV CZ 93/15|Postanowienie|69|https://www.saos.org.pl/judgments/244672
+462952|2022-02-11|SO|I AGa 251/20|Wyrok|56|https://www.saos.org.pl/judgments/462952
+429946|2020-04-03|SO|VII AGa 151/19|Wyrok|56|https://www.saos.org.pl/judgments/429946
+364636|2018-05-17|SO|VII AGa 565/18|Wyrok|56|https://www.saos.org.pl/judgments/364636
+304323|2017-06-07|SO|I ACa 218/17|Wyrok|56|https://www.saos.org.pl/judgments/304323
+286202|2016-10-27|SO|I ACa 413/16|Wyrok|56|https://www.saos.org.pl/judgments/286202
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

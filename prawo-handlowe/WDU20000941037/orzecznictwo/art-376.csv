@@ -1,20 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|https://www.saos.org.pl/judgments/528917
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-507113|2023-08-21|SO|III K 955/22|Uzasadnienie|https://www.saos.org.pl/judgments/507113
-509906|2022-11-03|SO|V AGa 267/21|Wyrok|https://www.saos.org.pl/judgments/509906
-422604|2020-05-25|SO|I C 468/20|Postanowienie|https://www.saos.org.pl/judgments/422604
-426467|2020-01-23|SO|VII AGa 531/19|Wyrok|https://www.saos.org.pl/judgments/426467
-461969|2019-04-26|SO|XXI Pa 405/18|Wyrok|https://www.saos.org.pl/judgments/461969
-403889|2019-04-24|SO|I AGa 372/18|Wyrok|https://www.saos.org.pl/judgments/403889
-384531|2019-04-17|SO|II AKa 407/18|Wyrok|https://www.saos.org.pl/judgments/384531
-356150|2018-06-13|SO|I C 100/18|Wyrok|https://www.saos.org.pl/judgments/356150
-270407|2016-12-09|SO|VIII Ga 433/16|Wyrok|https://www.saos.org.pl/judgments/270407
-236808|2016-06-30|SO|XI GC 1377/15|Wyrok|https://www.saos.org.pl/judgments/236808
-490353|2016-03-31|SO|III APa 45/15|Wyrok|https://www.saos.org.pl/judgments/490353
-205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|https://www.saos.org.pl/judgments/205168
-180938|2015-09-24|SO|XX GCo 163/15|Postanowienie|https://www.saos.org.pl/judgments/180938
-151819|2015-04-16|SO|X Ga 734/14|Postanowienie|https://www.saos.org.pl/judgments/151819
-39748|2013-07-04|SO|III APa 9/13|Wyrok|https://www.saos.org.pl/judgments/39748
-83735|2005-09-20|SN|III PK 83/05|Wyrok|https://www.saos.org.pl/judgments/83735
-83445|2005-05-25|SN|I PK 249/04|Wyrok|https://www.saos.org.pl/judgments/83445
+saos_id|date|court|case_number|type|score|saos_url
+83735|2005-09-20|SN|III PK 83/05|Wyrok|78|https://www.saos.org.pl/judgments/83735
+83445|2005-05-25|SN|I PK 249/04|Wyrok|78|https://www.saos.org.pl/judgments/83445
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+509906|2022-11-03|SO|V AGa 267/21|Wyrok|56|https://www.saos.org.pl/judgments/509906
+426467|2020-01-23|SO|VII AGa 531/19|Wyrok|56|https://www.saos.org.pl/judgments/426467
+403889|2019-04-24|SO|I AGa 372/18|Wyrok|56|https://www.saos.org.pl/judgments/403889
+384531|2019-04-17|SO|II AKa 407/18|Wyrok|56|https://www.saos.org.pl/judgments/384531
+490353|2016-03-31|SO|III APa 45/15|Wyrok|56|https://www.saos.org.pl/judgments/490353
+39748|2013-07-04|SO|III APa 9/13|Wyrok|56|https://www.saos.org.pl/judgments/39748
+528917|2025-04-17|SO|II AKa 216/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/528917
+151819|2015-04-16|SO|X Ga 734/14|Postanowienie|31|https://www.saos.org.pl/judgments/151819
+205168|2016-02-26|SO|XIII Ga 872/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/205168

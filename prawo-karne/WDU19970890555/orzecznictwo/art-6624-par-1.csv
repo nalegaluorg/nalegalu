@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-183563|2015-10-29|SO|II K 1073/14|Wyrok|https://www.saos.org.pl/judgments/183563
-104485|2014-02-18|SN|II KK 19/14|Postanowienie|https://www.saos.org.pl/judgments/104485
+saos_id|date|court|case_number|type|score|saos_url
+104485|2014-02-18|SN|II KK 19/14|Postanowienie|69|https://www.saos.org.pl/judgments/104485

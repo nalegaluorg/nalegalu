@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-267185|2016-11-29|SO|V ACa 946/15|Wyrok|https://www.saos.org.pl/judgments/267185
-82397|2003-12-12|SN|III RN 135/03|Wyrok|https://www.saos.org.pl/judgments/82397
-80602|2001-05-29|SN|I CKN 1217/98|Wyrok|https://www.saos.org.pl/judgments/80602
+saos_id|date|court|case_number|type|score|saos_url
+82397|2003-12-12|SN|III RN 135/03|Wyrok|78|https://www.saos.org.pl/judgments/82397
+80602|2001-05-29|SN|I CKN 1217/98|Wyrok|78|https://www.saos.org.pl/judgments/80602
+267185|2016-11-29|SO|V ACa 946/15|Wyrok|56|https://www.saos.org.pl/judgments/267185

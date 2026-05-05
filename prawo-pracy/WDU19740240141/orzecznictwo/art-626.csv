@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-127493|2014-12-19|SO|IV Ka 895/14|Wyrok|https://www.saos.org.pl/judgments/127493
+saos_id|date|court|case_number|type|score|saos_url
+127493|2014-12-19|SO|IV Ka 895/14|Wyrok|40|https://www.saos.org.pl/judgments/127493

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-537677|2025-03-24|SO|I ACa 1289/22|Wyrok|https://www.saos.org.pl/judgments/537677
-537430|2025-02-26|SO|I ACa 1286/22|Wyrok|https://www.saos.org.pl/judgments/537430
+saos_id|date|court|case_number|type|score|saos_url
+537677|2025-03-24|SO|I ACa 1289/22|Wyrok|56|https://www.saos.org.pl/judgments/537677
+537430|2025-02-26|SO|I ACa 1286/22|Wyrok|56|https://www.saos.org.pl/judgments/537430

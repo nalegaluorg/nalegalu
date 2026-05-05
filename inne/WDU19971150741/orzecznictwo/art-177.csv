@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-374414|2018-12-11|SO|I ACa 278/18|Wyrok|https://www.saos.org.pl/judgments/374414
-346314|2017-11-21|SO|XV Ca 232/17|Postanowienie|https://www.saos.org.pl/judgments/346314
-401846|2017-06-19|SO|I ACa 513/16|Wyrok|https://www.saos.org.pl/judgments/401846
-236224|2016-05-24|SO|I C 425/16|Wyrok|https://www.saos.org.pl/judgments/236224
-227344|2014-09-24|SO|V Ca 4045/13|Wyrok|https://www.saos.org.pl/judgments/227344
-69053|2014-07-24|SO|VI ACa 1706/13|Wyrok|https://www.saos.org.pl/judgments/69053
-51933|2014-06-11|SO|VI U 131/14|Wyrok|https://www.saos.org.pl/judgments/51933
-136001|2012-04-18|SO|II AKa 82/12|Wyrok|https://www.saos.org.pl/judgments/136001
-106061|2002-12-02|TK|SK 20/01|Wyrok|https://www.saos.org.pl/judgments/106061
-105788|2001-05-23|TK|Ts 83/00|Postanowienie|https://www.saos.org.pl/judgments/105788
-105954|2001-01-05|TK|Ts 83/00|Postanowienie|https://www.saos.org.pl/judgments/105954
+saos_id|date|court|case_number|type|score|saos_url
+106061|2002-12-02|TK|SK 20/01|Wyrok|98|https://www.saos.org.pl/judgments/106061
+105788|2001-05-23|TK|Ts 83/00|Postanowienie|80|https://www.saos.org.pl/judgments/105788
+105954|2001-01-05|TK|Ts 83/00|Postanowienie|80|https://www.saos.org.pl/judgments/105954
+374414|2018-12-11|SO|I ACa 278/18|Wyrok|56|https://www.saos.org.pl/judgments/374414
+401846|2017-06-19|SO|I ACa 513/16|Wyrok|56|https://www.saos.org.pl/judgments/401846
+69053|2014-07-24|SO|VI ACa 1706/13|Wyrok|56|https://www.saos.org.pl/judgments/69053
+136001|2012-04-18|SO|II AKa 82/12|Wyrok|56|https://www.saos.org.pl/judgments/136001
+346314|2017-11-21|SO|XV Ca 232/17|Postanowienie|31|https://www.saos.org.pl/judgments/346314

@@ -6,14 +6,14 @@ Orzeczenia powołujące: *Ustawa z dnia 26 lipca 2002 r. o zmianie ustawy - Ordy
 
 ## art. 2 (1)
 
-- 2003-09-17 | SN | [III SW 149/03](https://www.saos.org.pl/judgments/82194) | Postanowienie
+- 2003-09-17 | SN | [III SW 149/03](https://www.saos.org.pl/judgments/82194) | Postanowienie ★
 
 ## art. 3 (1)
 
-- 2010-11-17 | TK | [Ts 256/09](https://www.saos.org.pl/judgments/110095) | Postanowienie
+- 2010-11-17 | TK | [Ts 256/09](https://www.saos.org.pl/judgments/110095) | Postanowienie ★
 
 ## art. 5 (2)
 
-- 2004-09-16 | SN | [III SZP 3/04](https://www.saos.org.pl/judgments/82826) | Uchwała
-- 2002-10-03 | SN | [III SW 24/02](https://www.saos.org.pl/judgments/81626) | Postanowienie
+- 2004-09-16 | SN | [III SZP 3/04](https://www.saos.org.pl/judgments/82826) | Uchwała ★
+- 2002-10-03 | SN | [III SW 24/02](https://www.saos.org.pl/judgments/81626) | Postanowienie ★
 

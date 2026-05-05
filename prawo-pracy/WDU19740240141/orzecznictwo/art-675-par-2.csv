@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-511430|2024-02-29|SO|VI Pa 48/23|Wyrok|https://www.saos.org.pl/judgments/511430
-407630|2019-05-15|SO|III AUa 82/19|Wyrok|https://www.saos.org.pl/judgments/407630
-359062|2018-09-07|SO|III AUa 483/18|Wyrok|https://www.saos.org.pl/judgments/359062
-334153|2018-03-27|SO|VIII U 1746/17|Uzasadnienie|https://www.saos.org.pl/judgments/334153
-292747|2017-07-11|SO|III AUa 1383/16|Wyrok|https://www.saos.org.pl/judgments/292747
-289460|2017-05-30|SO|VIII U 2439/16|Zarządzenie|https://www.saos.org.pl/judgments/289460
-266019|2017-01-23|SO|VIII U 3056/15|Zarządzenie|https://www.saos.org.pl/judgments/266019
-260993|2016-12-20|SO|VIII U 327/16|Zarządzenie|https://www.saos.org.pl/judgments/260993
-259053|2016-09-27|SO|III AUa 7/16|Wyrok|https://www.saos.org.pl/judgments/259053
-231719|2016-06-20|SO|VIII U 10/15|Zarządzenie|https://www.saos.org.pl/judgments/231719
-226172|2016-05-13|SO|VIII U 3689/14|Zarządzenie|https://www.saos.org.pl/judgments/226172
+saos_id|date|court|case_number|type|score|saos_url
+407630|2019-05-15|SO|III AUa 82/19|Wyrok|56|https://www.saos.org.pl/judgments/407630
+359062|2018-09-07|SO|III AUa 483/18|Wyrok|56|https://www.saos.org.pl/judgments/359062
+292747|2017-07-11|SO|III AUa 1383/16|Wyrok|56|https://www.saos.org.pl/judgments/292747
+259053|2016-09-27|SO|III AUa 7/16|Wyrok|56|https://www.saos.org.pl/judgments/259053
+334153|2018-03-27|SO|VIII U 1746/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/334153
+289460|2017-05-30|SO|VIII U 2439/16|Zarządzenie|27|https://www.saos.org.pl/judgments/289460
+266019|2017-01-23|SO|VIII U 3056/15|Zarządzenie|27|https://www.saos.org.pl/judgments/266019
+260993|2016-12-20|SO|VIII U 327/16|Zarządzenie|27|https://www.saos.org.pl/judgments/260993
+231719|2016-06-20|SO|VIII U 10/15|Zarządzenie|27|https://www.saos.org.pl/judgments/231719
+226172|2016-05-13|SO|VIII U 3689/14|Zarządzenie|27|https://www.saos.org.pl/judgments/226172

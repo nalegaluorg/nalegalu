@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-291387|2017-07-03|SO|XIII Ga 64/17|Uzasadnienie|https://www.saos.org.pl/judgments/291387
-177571|2015-06-02|SO|II C 136/15|Wyrok|https://www.saos.org.pl/judgments/177571
-52029|2014-06-25|SO|X GC 613/12|Uzasadnienie|https://www.saos.org.pl/judgments/52029
+saos_id|date|court|case_number|type|score|saos_url
+177571|2015-06-02|SO|II C 136/15|Wyrok|40|https://www.saos.org.pl/judgments/177571
+291387|2017-07-03|SO|XIII Ga 64/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/291387
+52029|2014-06-25|SO|X GC 613/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/52029

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-380187|2018-09-21|SO|VII AGa 38/18|Wyrok|https://www.saos.org.pl/judgments/380187
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-165551|2013-11-08|SN|I CSK 712/12|Wyrok|https://www.saos.org.pl/judgments/165551
-2884|2012-08-09|SO|VI ACa 1009/10|Wyrok|https://www.saos.org.pl/judgments/2884
-85723|2007-04-27|SN|I CSK 37/07|Wyrok|https://www.saos.org.pl/judgments/85723
+saos_id|date|court|case_number|type|score|saos_url
+165551|2013-11-08|SN|I CSK 712/12|Wyrok|78|https://www.saos.org.pl/judgments/165551
+85723|2007-04-27|SN|I CSK 37/07|Wyrok|78|https://www.saos.org.pl/judgments/85723
+380187|2018-09-21|SO|VII AGa 38/18|Wyrok|56|https://www.saos.org.pl/judgments/380187
+2884|2012-08-09|SO|VI ACa 1009/10|Wyrok|56|https://www.saos.org.pl/judgments/2884

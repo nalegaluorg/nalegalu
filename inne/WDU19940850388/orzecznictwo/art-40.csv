@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-440564|2021-05-10|SO|I C 470/20|Zarządzenie|https://www.saos.org.pl/judgments/440564
-225757|2016-05-12|SO|XVI C 2222/14|Uzasadnienie|https://www.saos.org.pl/judgments/225757
-175850|2015-05-21|SO|I ACa 85/15|Wyrok|https://www.saos.org.pl/judgments/175850
-60041|2014-05-05|SO|I C 1418/12|Wyrok|https://www.saos.org.pl/judgments/60041
-142233|2013-05-17|SO|II Ca 1269/12|Wyrok|https://www.saos.org.pl/judgments/142233
-1003|2012-09-06|SO|I ACa 459/12|Wyrok|https://www.saos.org.pl/judgments/1003
+saos_id|date|court|case_number|type|score|saos_url
+175850|2015-05-21|SO|I ACa 85/15|Wyrok|56|https://www.saos.org.pl/judgments/175850
+1003|2012-09-06|SO|I ACa 459/12|Wyrok|56|https://www.saos.org.pl/judgments/1003

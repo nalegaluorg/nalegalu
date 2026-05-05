@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-431529|2020-08-27|SO|II AKz 866/20|Postanowienie|https://www.saos.org.pl/judgments/431529
-137310|2013-03-19|SO|II AKa 117/99|Wyrok|https://www.saos.org.pl/judgments/137310
-137030|2004-09-23|SO|II AKa 251/04|Wyrok|https://www.saos.org.pl/judgments/137030
+saos_id|date|court|case_number|type|score|saos_url
+137310|2013-03-19|SO|II AKa 117/99|Wyrok|56|https://www.saos.org.pl/judgments/137310
+137030|2004-09-23|SO|II AKa 251/04|Wyrok|56|https://www.saos.org.pl/judgments/137030
+431529|2020-08-27|SO|II AKz 866/20|Postanowienie|47|https://www.saos.org.pl/judgments/431529

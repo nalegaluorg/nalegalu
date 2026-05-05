@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-275335|2017-02-24|SO|XVIII C 337/16|Wyrok|https://www.saos.org.pl/judgments/275335
+saos_id|date|court|case_number|type|score|saos_url
+275335|2017-02-24|SO|XVIII C 337/16|Wyrok|40|https://www.saos.org.pl/judgments/275335

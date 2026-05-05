@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245489|2015-05-13|SN|II KK 60/15|Postanowienie|https://www.saos.org.pl/judgments/245489
-103131|2013-10-10|SN|V KK 129/13|Postanowienie|https://www.saos.org.pl/judgments/103131
-102078|2013-06-10|SN|III KK 438/12|Wyrok|https://www.saos.org.pl/judgments/102078
+saos_id|date|court|case_number|type|score|saos_url
+102078|2013-06-10|SN|III KK 438/12|Wyrok|78|https://www.saos.org.pl/judgments/102078
+245489|2015-05-13|SN|II KK 60/15|Postanowienie|69|https://www.saos.org.pl/judgments/245489
+103131|2013-10-10|SN|V KK 129/13|Postanowienie|69|https://www.saos.org.pl/judgments/103131

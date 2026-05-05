@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-465864|2021-06-02|SO|IV P 5/21|Wyrok|https://www.saos.org.pl/judgments/465864
-87747|2008-04-04|SN|I PK 248/07|Wyrok|https://www.saos.org.pl/judgments/87747
-86113|2007-06-18|SN|II PK 338/06|Wyrok|https://www.saos.org.pl/judgments/86113
-84384|2006-06-14|SN|I PK 231/05|Wyrok|https://www.saos.org.pl/judgments/84384
+saos_id|date|court|case_number|type|score|saos_url
+87747|2008-04-04|SN|I PK 248/07|Wyrok|78|https://www.saos.org.pl/judgments/87747
+86113|2007-06-18|SN|II PK 338/06|Wyrok|78|https://www.saos.org.pl/judgments/86113
+84384|2006-06-14|SN|I PK 231/05|Wyrok|78|https://www.saos.org.pl/judgments/84384

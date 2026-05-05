@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-525615|2025-01-08|SO|XII Ga 808/24|Postanowienie|https://www.saos.org.pl/judgments/525615
-520144|2022-06-20|SO|V GC 167/21|Wyrok|https://www.saos.org.pl/judgments/520144
-526487|2022-04-04|SO|VIII P 338/21|Uzasadnienie|https://www.saos.org.pl/judgments/526487
-371400|2018-09-21|SO|III AUa 1506/16|Wyrok|https://www.saos.org.pl/judgments/371400
-397520|2018-07-05|SO|XII Ga 646/17|Postanowienie|https://www.saos.org.pl/judgments/397520
-343811|2018-06-11|SO|VIII Gz 181/18|Postanowienie|https://www.saos.org.pl/judgments/343811
-356306|2018-04-20|SO|II K 488/17|Wyrok|https://www.saos.org.pl/judgments/356306
-239300|2016-07-06|SO|VIII Ga 72/16|Uzasadnienie|https://www.saos.org.pl/judgments/239300
-192553|2015-11-24|SO|III AUa 381/15|Wyrok|https://www.saos.org.pl/judgments/192553
-171657|2015-07-29|SO|VIII Gz 68/15|Postanowienie|https://www.saos.org.pl/judgments/171657
-479361|2014-11-28|SO|V ACz 1131/14|Postanowienie|https://www.saos.org.pl/judgments/479361
-51971|2014-05-26|SO|V GC 583/13|Wyrok|https://www.saos.org.pl/judgments/51971
-27431|2013-11-07|SO|IX Ca 530/13|Wyrok|https://www.saos.org.pl/judgments/27431
-32293|2013-06-28|SO|I ACz 1178/13|Postanowienie|https://www.saos.org.pl/judgments/32293
-7845|2012-12-28|SO|I ACa 1258/12|Postanowienie|https://www.saos.org.pl/judgments/7845
+saos_id|date|court|case_number|type|score|saos_url
+371400|2018-09-21|SO|III AUa 1506/16|Wyrok|56|https://www.saos.org.pl/judgments/371400
+192553|2015-11-24|SO|III AUa 381/15|Wyrok|56|https://www.saos.org.pl/judgments/192553
+479361|2014-11-28|SO|V ACz 1131/14|Postanowienie|47|https://www.saos.org.pl/judgments/479361
+32293|2013-06-28|SO|I ACz 1178/13|Postanowienie|47|https://www.saos.org.pl/judgments/32293
+7845|2012-12-28|SO|I ACa 1258/12|Postanowienie|47|https://www.saos.org.pl/judgments/7845
+520144|2022-06-20|SO|V GC 167/21|Wyrok|40|https://www.saos.org.pl/judgments/520144
+525615|2025-01-08|SO|XII Ga 808/24|Postanowienie|31|https://www.saos.org.pl/judgments/525615
+397520|2018-07-05|SO|XII Ga 646/17|Postanowienie|31|https://www.saos.org.pl/judgments/397520

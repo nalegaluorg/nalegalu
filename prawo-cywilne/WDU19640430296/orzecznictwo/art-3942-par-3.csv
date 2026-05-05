@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-505233|2023-11-28|SO|III AUz 156/23|Postanowienie|https://www.saos.org.pl/judgments/505233
-99124|2012-09-27|SN|III CZ 70/12|Postanowienie|https://www.saos.org.pl/judgments/99124
+saos_id|date|court|case_number|type|score|saos_url
+99124|2012-09-27|SN|III CZ 70/12|Postanowienie|69|https://www.saos.org.pl/judgments/99124
+505233|2023-11-28|SO|III AUz 156/23|Postanowienie|47|https://www.saos.org.pl/judgments/505233

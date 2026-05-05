@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-412781|2019-12-20|SO|V ACa 444/19|Wyrok|https://www.saos.org.pl/judgments/412781
-390474|2019-06-19|SO|VII Pa 43/19|Wyrok|https://www.saos.org.pl/judgments/390474
-368415|2018-12-03|SO|VIII Pa 181/18|Uzasadnienie|https://www.saos.org.pl/judgments/368415
-390230|2018-08-07|SO|VII Pa 86/18|Wyrok|https://www.saos.org.pl/judgments/390230
-310250|2017-09-14|SO|IV P 503/16|Wyrok|https://www.saos.org.pl/judgments/310250
-329643|2017-05-25|SO|VII Pa 1/17|Wyrok|https://www.saos.org.pl/judgments/329643
-217506|2016-03-25|SO|IV P 90/15|Wyrok|https://www.saos.org.pl/judgments/217506
-244713|2016-02-25|SN|II PK 365/14|Wyrok|https://www.saos.org.pl/judgments/244713
-93171|2010-10-19|SN|II PK 99/10|Wyrok|https://www.saos.org.pl/judgments/93171
-81179|2002-02-05|SN|I PKN 845/00|Wyrok|https://www.saos.org.pl/judgments/81179
-79174|1999-07-28|SN|I PKN 167/99|Wyrok|https://www.saos.org.pl/judgments/79174
+saos_id|date|court|case_number|type|score|saos_url
+244713|2016-02-25|SN|II PK 365/14|Wyrok|78|https://www.saos.org.pl/judgments/244713
+93171|2010-10-19|SN|II PK 99/10|Wyrok|78|https://www.saos.org.pl/judgments/93171
+81179|2002-02-05|SN|I PKN 845/00|Wyrok|78|https://www.saos.org.pl/judgments/81179
+79174|1999-07-28|SN|I PKN 167/99|Wyrok|78|https://www.saos.org.pl/judgments/79174
+412781|2019-12-20|SO|V ACa 444/19|Wyrok|56|https://www.saos.org.pl/judgments/412781
+390474|2019-06-19|SO|VII Pa 43/19|Wyrok|40|https://www.saos.org.pl/judgments/390474
+390230|2018-08-07|SO|VII Pa 86/18|Wyrok|40|https://www.saos.org.pl/judgments/390230
+329643|2017-05-25|SO|VII Pa 1/17|Wyrok|40|https://www.saos.org.pl/judgments/329643
+368415|2018-12-03|SO|VIII Pa 181/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/368415

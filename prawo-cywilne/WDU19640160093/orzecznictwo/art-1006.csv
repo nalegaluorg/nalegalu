@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-100949|2013-03-07|SN|II CSK 486/12|Wyrok|https://www.saos.org.pl/judgments/100949
-162871|2005-01-13|SN|III CK 108/04|Wyrok|https://www.saos.org.pl/judgments/162871
-80297|2001-01-31|SN|III CZP 50/00|Uchwała|https://www.saos.org.pl/judgments/80297
+saos_id|date|court|case_number|type|score|saos_url
+80297|2001-01-31|SN|III CZP 50/00|Uchwała|89|https://www.saos.org.pl/judgments/80297
+100949|2013-03-07|SN|II CSK 486/12|Wyrok|78|https://www.saos.org.pl/judgments/100949
+162871|2005-01-13|SN|III CK 108/04|Wyrok|78|https://www.saos.org.pl/judgments/162871

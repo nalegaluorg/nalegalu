@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-369548|2018-09-13|SO|III AUa 41/18|Wyrok|https://www.saos.org.pl/judgments/369548
+saos_id|date|court|case_number|type|score|saos_url
+369548|2018-09-13|SO|III AUa 41/18|Wyrok|56|https://www.saos.org.pl/judgments/369548

@@ -1,18 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-456497|2021-08-30|SO|IV P 125/21|Wyrok|https://www.saos.org.pl/judgments/456497
-386539|2019-05-10|SO|VI Ka 7/19|Wyrok|https://www.saos.org.pl/judgments/386539
-366886|2018-12-20|SO|V Pa 33/18|Wyrok|https://www.saos.org.pl/judgments/366886
-338176|2018-04-05|SO|III APa 62/17|Wyrok|https://www.saos.org.pl/judgments/338176
-339983|2018-03-20|SO|V Pa 58/17|Wyrok|https://www.saos.org.pl/judgments/339983
-329791|2018-01-12|SO|II K 124/16|Wyrok|https://www.saos.org.pl/judgments/329791
-393610|2017-12-19|SO|VII Pa 260/17|Wyrok|https://www.saos.org.pl/judgments/393610
-237087|2016-06-23|SO|XVII Ka 504/16|Wyrok|https://www.saos.org.pl/judgments/237087
-172274|2015-06-12|SO|XVII Ka 435/15|Wyrok|https://www.saos.org.pl/judgments/172274
-155682|2015-04-24|SO|II Ca 1007/14|Wyrok|https://www.saos.org.pl/judgments/155682
-149830|2015-04-16|SO|VII Pa 51/15|Uzasadnienie|https://www.saos.org.pl/judgments/149830
-149851|2015-02-11|SO|II AKa 11/15|Wyrok|https://www.saos.org.pl/judgments/149851
-154480|2014-09-25|SO|VIII Pa 124/14|Wyrok|https://www.saos.org.pl/judgments/154480
-59804|2014-09-05|SO|VI Ka 338/14|Wyrok|https://www.saos.org.pl/judgments/59804
-49956|2014-06-12|SO|VII Pa 103/14|Uzasadnienie|https://www.saos.org.pl/judgments/49956
-62312|2014-04-29|SO|II K 196/13|Wyrok|https://www.saos.org.pl/judgments/62312
-30340|2013-05-22|SO|IV Ka 243/13|Wyrok|https://www.saos.org.pl/judgments/30340
+saos_id|date|court|case_number|type|score|saos_url
+338176|2018-04-05|SO|III APa 62/17|Wyrok|56|https://www.saos.org.pl/judgments/338176
+149851|2015-02-11|SO|II AKa 11/15|Wyrok|56|https://www.saos.org.pl/judgments/149851
+386539|2019-05-10|SO|VI Ka 7/19|Wyrok|40|https://www.saos.org.pl/judgments/386539
+329791|2018-01-12|SO|II K 124/16|Wyrok|40|https://www.saos.org.pl/judgments/329791
+393610|2017-12-19|SO|VII Pa 260/17|Wyrok|40|https://www.saos.org.pl/judgments/393610
+237087|2016-06-23|SO|XVII Ka 504/16|Wyrok|40|https://www.saos.org.pl/judgments/237087
+172274|2015-06-12|SO|XVII Ka 435/15|Wyrok|40|https://www.saos.org.pl/judgments/172274
+155682|2015-04-24|SO|II Ca 1007/14|Wyrok|40|https://www.saos.org.pl/judgments/155682
+149830|2015-04-16|SO|VII Pa 51/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/149830
+49956|2014-06-12|SO|VII Pa 103/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/49956

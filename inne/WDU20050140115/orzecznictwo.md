@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 22 grudnia 2004 r. o zmianie ustawy o Ag
 
 ## art. 6 (1)
 
-- 2005-05-10 | TK | [Tw 7/05](https://www.saos.org.pl/judgments/107511) | Postanowienie
+- 2005-05-10 | TK | [Tw 7/05](https://www.saos.org.pl/judgments/107511) | Postanowienie ★
 

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-462114|2022-03-22|SO|III Ca 2177/19|Uzasadnienie|https://www.saos.org.pl/judgments/462114
-66255|2014-10-13|SO|II Cz 530/14|Postanowienie|https://www.saos.org.pl/judgments/66255
+saos_id|date|court|case_number|type|score|saos_url
+462114|2022-03-22|SO|III Ca 2177/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/462114

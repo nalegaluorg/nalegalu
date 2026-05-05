@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-431547|2020-10-20|SO|II Ca 1282/20|Wyrok|https://www.saos.org.pl/judgments/431547
+saos_id|date|court|case_number|type|score|saos_url
+431547|2020-10-20|SO|II Ca 1282/20|Wyrok|40|https://www.saos.org.pl/judgments/431547

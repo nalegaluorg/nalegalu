@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-518793|2024-09-23|SO|II AKa 209/22|Uzasadnienie|https://www.saos.org.pl/judgments/518793
-294167|2017-06-01|SO|IV Ka 129/17|Wyrok|https://www.saos.org.pl/judgments/294167
-199397|2016-01-26|SO|V Ka 226/15|Uzasadnienie|https://www.saos.org.pl/judgments/199397
-168133|2015-01-26|SN|II KK 186/14|Wyrok|https://www.saos.org.pl/judgments/168133
-166867|2014-09-30|SN|I KZP 17/14|Postanowienie|https://www.saos.org.pl/judgments/166867
-166614|2014-08-26|SN|WZ 14/14|Postanowienie|https://www.saos.org.pl/judgments/166614
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-110982|2012-04-04|TK|SK 7/10|Postanowienie|https://www.saos.org.pl/judgments/110982
-96147|2011-10-26|SN|I KZP 14/11|Postanowienie|https://www.saos.org.pl/judgments/96147
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460
+110982|2012-04-04|TK|SK 7/10|Postanowienie|80|https://www.saos.org.pl/judgments/110982
+168133|2015-01-26|SN|II KK 186/14|Wyrok|78|https://www.saos.org.pl/judgments/168133
+166867|2014-09-30|SN|I KZP 17/14|Postanowienie|69|https://www.saos.org.pl/judgments/166867
+166614|2014-08-26|SN|WZ 14/14|Postanowienie|69|https://www.saos.org.pl/judgments/166614
+96147|2011-10-26|SN|I KZP 14/11|Postanowienie|69|https://www.saos.org.pl/judgments/96147
+518793|2024-09-23|SO|II AKa 209/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/518793
+199397|2016-01-26|SO|V Ka 226/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/199397

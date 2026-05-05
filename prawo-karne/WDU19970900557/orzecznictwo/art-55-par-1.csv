@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-426701|2020-09-16|SO|II Ko 152/20|Postanowienie|https://www.saos.org.pl/judgments/426701
-397819|2019-12-04|SO|II Ko 348/19|Postanowienie|https://www.saos.org.pl/judgments/397819
-287299|2017-04-13|SO|VII Ko 28/17|Postanowienie|https://www.saos.org.pl/judgments/287299
-150210|2015-04-22|SO|IV Ka 325/15|Wyrok|https://www.saos.org.pl/judgments/150210
-81582|2002-09-20|SN|WK 31/02|Wyrok|https://www.saos.org.pl/judgments/81582
+saos_id|date|court|case_number|type|score|saos_url
+81582|2002-09-20|SN|WK 31/02|Wyrok|78|https://www.saos.org.pl/judgments/81582
+150210|2015-04-22|SO|IV Ka 325/15|Wyrok|40|https://www.saos.org.pl/judgments/150210
+397819|2019-12-04|SO|II Ko 348/19|Postanowienie|31|https://www.saos.org.pl/judgments/397819
+287299|2017-04-13|SO|VII Ko 28/17|Postanowienie|31|https://www.saos.org.pl/judgments/287299

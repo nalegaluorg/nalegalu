@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-125418|2014-12-19|SO|I ACa 640/14|Wyrok|https://www.saos.org.pl/judgments/125418
+saos_id|date|court|case_number|type|score|saos_url
+125418|2014-12-19|SO|I ACa 640/14|Wyrok|56|https://www.saos.org.pl/judgments/125418

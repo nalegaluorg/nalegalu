@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-190252|2015-11-27|SO|I C 222/13|Wyrok|https://www.saos.org.pl/judgments/190252
-5834|2012-11-06|SO|I ACa 416/12|Wyrok|https://www.saos.org.pl/judgments/5834
+saos_id|date|court|case_number|type|score|saos_url
+5834|2012-11-06|SO|I ACa 416/12|Wyrok|56|https://www.saos.org.pl/judgments/5834

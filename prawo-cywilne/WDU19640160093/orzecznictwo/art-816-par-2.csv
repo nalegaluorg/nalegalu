@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-283665|2017-03-30|SO|VIII Ga 523/16|Wyrok|https://www.saos.org.pl/judgments/283665
-96206|2011-11-09|SN|II CNP 25/11|Wyrok|https://www.saos.org.pl/judgments/96206
-163543|2005-09-22|SN|IV CK 113/05|Wyrok|https://www.saos.org.pl/judgments/163543
-163065|2005-03-11|SN|II CK 488/04|Wyrok|https://www.saos.org.pl/judgments/163065
+saos_id|date|court|case_number|type|score|saos_url
+96206|2011-11-09|SN|II CNP 25/11|Wyrok|78|https://www.saos.org.pl/judgments/96206
+163543|2005-09-22|SN|IV CK 113/05|Wyrok|78|https://www.saos.org.pl/judgments/163543
+163065|2005-03-11|SN|II CK 488/04|Wyrok|78|https://www.saos.org.pl/judgments/163065

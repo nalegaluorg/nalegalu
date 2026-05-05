@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99284|2012-10-10|SN|I PK 82/12|Wyrok|https://www.saos.org.pl/judgments/99284
+saos_id|date|court|case_number|type|score|saos_url
+99284|2012-10-10|SN|I PK 82/12|Wyrok|78|https://www.saos.org.pl/judgments/99284

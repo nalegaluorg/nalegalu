@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-109100|2009-11-24|TK|SK 36/07|Wyrok|https://www.saos.org.pl/judgments/109100
-108524|2008-10-13|TK|K 16/07|Wyrok|https://www.saos.org.pl/judgments/108524
-82950|2004-10-28|SN|III CZP 33/04|Uchwała|https://www.saos.org.pl/judgments/82950
-106574|2003-12-05|TK|Ts 141/03|Postanowienie|https://www.saos.org.pl/judgments/106574
-81350|2002-04-18|SN|III RN 46/01|Wyrok|https://www.saos.org.pl/judgments/81350
+saos_id|date|court|case_number|type|score|saos_url
+109100|2009-11-24|TK|SK 36/07|Wyrok|98|https://www.saos.org.pl/judgments/109100
+108524|2008-10-13|TK|K 16/07|Wyrok|98|https://www.saos.org.pl/judgments/108524
+82950|2004-10-28|SN|III CZP 33/04|Uchwała|96|https://www.saos.org.pl/judgments/82950
+106574|2003-12-05|TK|Ts 141/03|Postanowienie|80|https://www.saos.org.pl/judgments/106574
+81350|2002-04-18|SN|III RN 46/01|Wyrok|78|https://www.saos.org.pl/judgments/81350

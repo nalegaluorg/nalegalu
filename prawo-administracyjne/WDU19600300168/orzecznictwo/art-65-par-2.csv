@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-536860|2025-10-08|SO|VIII Pa 162/25|Uzasadnienie|https://www.saos.org.pl/judgments/536860
-475956|2022-10-26|SO|I Ns 240/22|Zarządzenie|https://www.saos.org.pl/judgments/475956
-310405|2017-10-25|SO|I Ns 511/16|Uzasadnienie|https://www.saos.org.pl/judgments/310405
-311796|2017-10-05|SO|IV Ka 655/17|Wyrok|https://www.saos.org.pl/judgments/311796
-299630|2017-06-09|SO|IV Ka 417/17|Wyrok|https://www.saos.org.pl/judgments/299630
-183162|2015-02-19|SO|II C 347/12|Wyrok|https://www.saos.org.pl/judgments/183162
-33042|2013-10-01|SO|I ACa 387/13|Wyrok|https://www.saos.org.pl/judgments/33042
+saos_id|date|court|case_number|type|score|saos_url
+33042|2013-10-01|SO|I ACa 387/13|Wyrok|56|https://www.saos.org.pl/judgments/33042
+311796|2017-10-05|SO|IV Ka 655/17|Wyrok|40|https://www.saos.org.pl/judgments/311796
+299630|2017-06-09|SO|IV Ka 417/17|Wyrok|40|https://www.saos.org.pl/judgments/299630
+536860|2025-10-08|SO|VIII Pa 162/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/536860
+475956|2022-10-26|SO|I Ns 240/22|Zarządzenie|27|https://www.saos.org.pl/judgments/475956
+310405|2017-10-25|SO|I Ns 511/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/310405

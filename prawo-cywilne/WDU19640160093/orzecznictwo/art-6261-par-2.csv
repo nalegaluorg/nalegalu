@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-103563|2013-11-14|SN|IV CZ 89/13|Postanowienie|https://www.saos.org.pl/judgments/103563
-90444|2009-06-16|SN|V CSK 479/08|Postanowienie|https://www.saos.org.pl/judgments/90444
+saos_id|date|court|case_number|type|score|saos_url
+103563|2013-11-14|SN|IV CZ 89/13|Postanowienie|69|https://www.saos.org.pl/judgments/103563
+90444|2009-06-16|SN|V CSK 479/08|Postanowienie|69|https://www.saos.org.pl/judgments/90444

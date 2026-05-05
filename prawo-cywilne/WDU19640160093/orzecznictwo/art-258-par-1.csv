@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-532599|2025-08-06|SO|IV Ca 14/25|Postanowienie|https://www.saos.org.pl/judgments/532599
-435480|2017-12-22|SO|I ACa 1380/15|Wyrok|https://www.saos.org.pl/judgments/435480
-249869|2016-07-22|SO|II Ca 342/16|Postanowienie|https://www.saos.org.pl/judgments/249869
-157623|2015-04-17|SO|I ACa 160/15|Wyrok|https://www.saos.org.pl/judgments/157623
+saos_id|date|court|case_number|type|score|saos_url
+435480|2017-12-22|SO|I ACa 1380/15|Wyrok|56|https://www.saos.org.pl/judgments/435480
+157623|2015-04-17|SO|I ACa 160/15|Wyrok|56|https://www.saos.org.pl/judgments/157623

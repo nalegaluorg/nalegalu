@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-488489|2022-11-07|SO|X GC 479/21|Zarządzenie|https://www.saos.org.pl/judgments/488489
-473718|2022-09-20|SO|XIII Ga 1198/21|Zarządzenie|https://www.saos.org.pl/judgments/473718
-536065|2022-03-09|SO|VI GC 218/20|Wyrok|https://www.saos.org.pl/judgments/536065
-455787|2021-10-26|SO|VIII Ga 135/21|Wyrok|https://www.saos.org.pl/judgments/455787
-468008|2021-10-25|SO|I C 1164/20|Wyrok|https://www.saos.org.pl/judgments/468008
-454589|2021-05-20|SO|I C 1588/19|Wyrok|https://www.saos.org.pl/judgments/454589
-438224|2021-04-15|SO|I C 345/20|Wyrok|https://www.saos.org.pl/judgments/438224
-456523|2021-02-25|SO|VIII GC 1294/20|Wyrok|https://www.saos.org.pl/judgments/456523
-430065|2020-03-10|SO|X GC 27/18|Uzasadnienie|https://www.saos.org.pl/judgments/430065
-431379|2020-01-27|SO|I C 1181/19|Wyrok|https://www.saos.org.pl/judgments/431379
-364414|2018-10-18|SO|I AGa 133/18|Wyrok|https://www.saos.org.pl/judgments/364414
-347037|2018-01-09|SO|X GC 500/16|Uzasadnienie|https://www.saos.org.pl/judgments/347037
-311365|2017-10-23|SO|XII C 139/17|Wyrok|https://www.saos.org.pl/judgments/311365
-314264|2017-10-05|SO|I C 412/17|Uzasadnienie|https://www.saos.org.pl/judgments/314264
-364484|2017-06-28|SO|I ACa 131/17|Wyrok|https://www.saos.org.pl/judgments/364484
-269655|2017-01-31|SO|I Ca 528/16|Wyrok|https://www.saos.org.pl/judgments/269655
-303044|2016-12-22|SO|I C 186/16|Wyrok|https://www.saos.org.pl/judgments/303044
-240919|2016-07-25|SO|XVI C 400/15|Uzasadnienie|https://www.saos.org.pl/judgments/240919
+saos_id|date|court|case_number|type|score|saos_url
+364414|2018-10-18|SO|I AGa 133/18|Wyrok|56|https://www.saos.org.pl/judgments/364414
+364484|2017-06-28|SO|I ACa 131/17|Wyrok|56|https://www.saos.org.pl/judgments/364484
+311365|2017-10-23|SO|XII C 139/17|Wyrok|40|https://www.saos.org.pl/judgments/311365
+488489|2022-11-07|SO|X GC 479/21|Zarządzenie|27|https://www.saos.org.pl/judgments/488489
+473718|2022-09-20|SO|XIII Ga 1198/21|Zarządzenie|27|https://www.saos.org.pl/judgments/473718
+430065|2020-03-10|SO|X GC 27/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/430065
+347037|2018-01-09|SO|X GC 500/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/347037
+314264|2017-10-05|SO|I C 412/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/314264

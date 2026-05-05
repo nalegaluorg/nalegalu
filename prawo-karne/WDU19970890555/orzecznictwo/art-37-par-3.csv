@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-380057|2019-01-03|SO|VI Ka 577/18|Wyrok|https://www.saos.org.pl/judgments/380057
+saos_id|date|court|case_number|type|score|saos_url
+380057|2019-01-03|SO|VI Ka 577/18|Wyrok|40|https://www.saos.org.pl/judgments/380057

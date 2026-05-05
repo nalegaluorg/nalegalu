@@ -1,15 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-509135|2024-05-09|SO|IV U 6/24|Wyrok|https://www.saos.org.pl/judgments/509135
-456744|2021-12-30|SO|VII Ua 23/19|Wyrok|https://www.saos.org.pl/judgments/456744
-456907|2021-11-23|SO|XVII AmE 310/19|Wyrok|https://www.saos.org.pl/judgments/456907
-426458|2020-12-02|SO|VI U 349/20|Uzasadnienie|https://www.saos.org.pl/judgments/426458
-469762|2018-12-05|SO|VI U 110/17|Wyrok|https://www.saos.org.pl/judgments/469762
-363802|2018-06-27|SO|III AUz 150/18|Postanowienie|https://www.saos.org.pl/judgments/363802
-130305|2015-01-14|SO|IV U 1424/14|Wyrok|https://www.saos.org.pl/judgments/130305
-189585|2014-11-28|SO|XVII AmK 18/13|Uzasadnienie|https://www.saos.org.pl/judgments/189585
-189587|2014-11-20|SO|XVII AmK 19/13|Wyrok|https://www.saos.org.pl/judgments/189587
-275293|2014-11-17|SO|XVII AmK 18/13|Wyrok|https://www.saos.org.pl/judgments/275293
-165144|2010-01-08|SN|III SK 31/09|Wyrok|https://www.saos.org.pl/judgments/165144
-89931|2009-03-26|SN|I KZP 39/08|Postanowienie|https://www.saos.org.pl/judgments/89931
-79273|1999-09-21|SN|II UKN 109/99|Wyrok|https://www.saos.org.pl/judgments/79273
-76901|1995-08-23|SN|III ARN 26/95|Wyrok|https://www.saos.org.pl/judgments/76901
+saos_id|date|court|case_number|type|score|saos_url
+165144|2010-01-08|SN|III SK 31/09|Wyrok|78|https://www.saos.org.pl/judgments/165144
+79273|1999-09-21|SN|II UKN 109/99|Wyrok|78|https://www.saos.org.pl/judgments/79273
+76901|1995-08-23|SN|III ARN 26/95|Wyrok|78|https://www.saos.org.pl/judgments/76901
+89931|2009-03-26|SN|I KZP 39/08|Postanowienie|69|https://www.saos.org.pl/judgments/89931
+363802|2018-06-27|SO|III AUz 150/18|Postanowienie|47|https://www.saos.org.pl/judgments/363802
+456744|2021-12-30|SO|VII Ua 23/19|Wyrok|40|https://www.saos.org.pl/judgments/456744
+469762|2018-12-05|SO|VI U 110/17|Wyrok|40|https://www.saos.org.pl/judgments/469762

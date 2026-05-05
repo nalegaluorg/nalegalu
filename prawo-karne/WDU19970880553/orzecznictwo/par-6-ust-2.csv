@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-541079|2026-01-14|SO|X Ka 1082/25|Wyrok|https://www.saos.org.pl/judgments/541079
-391244|2019-05-30|SO|II AKa 148/19|Wyrok|https://www.saos.org.pl/judgments/391244
+saos_id|date|court|case_number|type|score|saos_url
+391244|2019-05-30|SO|II AKa 148/19|Wyrok|56|https://www.saos.org.pl/judgments/391244

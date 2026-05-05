@@ -1,14 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-447189|2020-11-19|SO|III Ca 1735/19|Uzasadnienie|https://www.saos.org.pl/judgments/447189
-425407|2020-07-02|SO|III Ca 99/19|Postanowienie|https://www.saos.org.pl/judgments/425407
-357981|2018-05-22|SO|I Ca 167/18|Postanowienie|https://www.saos.org.pl/judgments/357981
-348260|2017-11-07|SO|II Ca 1160/17|Postanowienie|https://www.saos.org.pl/judgments/348260
-292742|2017-06-14|SO|II Ca 90/17|Postanowienie|https://www.saos.org.pl/judgments/292742
-338269|2016-11-29|SO|I Ns 742/11|Postanowienie|https://www.saos.org.pl/judgments/338269
-222037|2016-02-18|SO|III Ca 827/15|Postanowienie|https://www.saos.org.pl/judgments/222037
-192481|2015-10-29|SO|II Ca 610/15|Postanowienie|https://www.saos.org.pl/judgments/192481
-175488|2015-08-13|SO|V Ca 213/15|Postanowienie|https://www.saos.org.pl/judgments/175488
-177651|2015-06-24|SO|III Ca 336/15|Postanowienie|https://www.saos.org.pl/judgments/177651
-155969|2015-05-07|SO|III Ca 162/15|Postanowienie|https://www.saos.org.pl/judgments/155969
-38231|2013-10-31|SO|II Ca 585/13|Postanowienie|https://www.saos.org.pl/judgments/38231
-94114|2011-02-04|SN|III CSK 110/10|Postanowienie|https://www.saos.org.pl/judgments/94114
+saos_id|date|court|case_number|type|score|saos_url
+94114|2011-02-04|SN|III CSK 110/10|Postanowienie|69|https://www.saos.org.pl/judgments/94114
+348260|2017-11-07|SO|II Ca 1160/17|Postanowienie|31|https://www.saos.org.pl/judgments/348260
+175488|2015-08-13|SO|V Ca 213/15|Postanowienie|31|https://www.saos.org.pl/judgments/175488
+447189|2020-11-19|SO|III Ca 1735/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/447189

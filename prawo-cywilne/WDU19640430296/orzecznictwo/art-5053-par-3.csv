@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-480200|2022-03-25|SO|XVI GC 1244/20|Uzasadnienie|https://www.saos.org.pl/judgments/480200
-244832|2016-03-10|SN|III CZ 8/16|Postanowienie|https://www.saos.org.pl/judgments/244832
+saos_id|date|court|case_number|type|score|saos_url
+244832|2016-03-10|SN|III CZ 8/16|Postanowienie|69|https://www.saos.org.pl/judgments/244832

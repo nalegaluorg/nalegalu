@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-152575|2015-01-29|SO|I C 744/13|Uzasadnienie|https://www.saos.org.pl/judgments/152575
+saos_id|date|court|case_number|type|score|saos_url
+85489|2007-03-21|SN|I KZP 2/07|Uchwała|89|https://www.saos.org.pl/judgments/85489
+88874|2008-10-08|SN|V CSK 124/08|Wyrok|78|https://www.saos.org.pl/judgments/88874
+81126|2002-01-09|SN|V CKN 637/00|Wyrok|78|https://www.saos.org.pl/judgments/81126
+445693|2020-07-15|SO|I AGa 40/20|Wyrok|56|https://www.saos.org.pl/judgments/445693
+231617|2016-05-25|SO|V ACa 758/15|Wyrok|56|https://www.saos.org.pl/judgments/231617
+136362|2012-11-13|SO|II AKa 306/12|Wyrok|56|https://www.saos.org.pl/judgments/136362
+457806|2022-01-05|SO|III K 288/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/457806
+361514|2018-09-24|SO|III Ca 1077/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/361514
+341151|2018-02-16|SO|III Ca 1683/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/341151

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-529390|2025-06-25|SO|VI Ka 74/25|Wyrok|https://www.saos.org.pl/judgments/529390
-5799|2012-12-14|SO|I ACa 852/12|Wyrok|https://www.saos.org.pl/judgments/5799
-19036|2012-01-30|SO|III K 439/11|Postanowienie|https://www.saos.org.pl/judgments/19036
-89321|2008-12-03|SN|V KK 195/08|Wyrok|https://www.saos.org.pl/judgments/89321
-81858|2003-02-19|SN|I KZP 48/02|Uchwała|https://www.saos.org.pl/judgments/81858
+saos_id|date|court|case_number|type|score|saos_url
+81858|2003-02-19|SN|I KZP 48/02|Uchwała|89|https://www.saos.org.pl/judgments/81858
+89321|2008-12-03|SN|V KK 195/08|Wyrok|78|https://www.saos.org.pl/judgments/89321
+5799|2012-12-14|SO|I ACa 852/12|Wyrok|56|https://www.saos.org.pl/judgments/5799
+529390|2025-06-25|SO|VI Ka 74/25|Wyrok|40|https://www.saos.org.pl/judgments/529390

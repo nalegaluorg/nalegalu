@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-430694|2020-10-26|SO|II K 171/20|Wyrok|https://www.saos.org.pl/judgments/430694
-275373|2017-02-16|SO|I ACa 792/16|Wyrok|https://www.saos.org.pl/judgments/275373
-268960|2017-01-20|SO|I C 600/16|Wyrok|https://www.saos.org.pl/judgments/268960
-253995|2016-09-14|SO|III K 301/16|Wyrok|https://www.saos.org.pl/judgments/253995
-234703|2016-06-22|SO|II K 464/16|Wyrok|https://www.saos.org.pl/judgments/234703
-245132|2016-04-12|SN|III KK 425/15|Postanowienie|https://www.saos.org.pl/judgments/245132
-215190|2016-02-23|SO|II AKa 221/15|Wyrok|https://www.saos.org.pl/judgments/215190
-243190|2015-08-27|SN|III KK 257/15|Postanowienie|https://www.saos.org.pl/judgments/243190
-168316|2015-02-19|SN|III KK 434/14|Postanowienie|https://www.saos.org.pl/judgments/168316
-168064|2015-01-30|SN|III KK 411/14|Postanowienie|https://www.saos.org.pl/judgments/168064
-166398|2014-07-16|SN|III KK 211/14|Postanowienie|https://www.saos.org.pl/judgments/166398
+saos_id|date|court|case_number|type|score|saos_url
+245132|2016-04-12|SN|III KK 425/15|Postanowienie|69|https://www.saos.org.pl/judgments/245132
+243190|2015-08-27|SN|III KK 257/15|Postanowienie|69|https://www.saos.org.pl/judgments/243190
+168316|2015-02-19|SN|III KK 434/14|Postanowienie|69|https://www.saos.org.pl/judgments/168316
+168064|2015-01-30|SN|III KK 411/14|Postanowienie|69|https://www.saos.org.pl/judgments/168064
+166398|2014-07-16|SN|III KK 211/14|Postanowienie|69|https://www.saos.org.pl/judgments/166398
+275373|2017-02-16|SO|I ACa 792/16|Wyrok|56|https://www.saos.org.pl/judgments/275373
+215190|2016-02-23|SO|II AKa 221/15|Wyrok|56|https://www.saos.org.pl/judgments/215190

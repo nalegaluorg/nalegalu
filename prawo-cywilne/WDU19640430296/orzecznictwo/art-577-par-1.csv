@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-390336|2019-05-27|SO|III Ca 765/18|Uzasadnienie|https://www.saos.org.pl/judgments/390336
-181816|2015-09-14|SO|I C 1472/12|Wyrok|https://www.saos.org.pl/judgments/181816
-32862|2014-01-09|SO|IX Ca 694/13|Wyrok|https://www.saos.org.pl/judgments/32862
+saos_id|date|court|case_number|type|score|saos_url
+390336|2019-05-27|SO|III Ca 765/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/390336

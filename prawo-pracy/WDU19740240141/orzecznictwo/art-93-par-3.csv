@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-459675|2019-05-22|SO|III APa 2/19|Wyrok|https://www.saos.org.pl/judgments/459675
-82371|2003-12-03|SN|I PK 78/03|Wyrok|https://www.saos.org.pl/judgments/82371
+saos_id|date|court|case_number|type|score|saos_url
+82371|2003-12-03|SN|I PK 78/03|Wyrok|78|https://www.saos.org.pl/judgments/82371
+459675|2019-05-22|SO|III APa 2/19|Wyrok|56|https://www.saos.org.pl/judgments/459675

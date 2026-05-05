@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-503002|2024-09-25|SO|II K 330/24|Postanowienie|https://www.saos.org.pl/judgments/503002
-82777|2004-07-27|SN|II KK 332/03|Wyrok|https://www.saos.org.pl/judgments/82777
+saos_id|date|court|case_number|type|score|saos_url
+82777|2004-07-27|SN|II KK 332/03|Wyrok|78|https://www.saos.org.pl/judgments/82777

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-103996|2013-12-17|SN|WK 18/13|Postanowienie|https://www.saos.org.pl/judgments/103996
-102609|2013-08-06|SN|WK 12/13|Wyrok|https://www.saos.org.pl/judgments/102609
-102456|2013-07-10|SN|WK 11/13|Wyrok|https://www.saos.org.pl/judgments/102456
-99804|2012-11-19|SN|WK 6/12|Wyrok|https://www.saos.org.pl/judgments/99804
+saos_id|date|court|case_number|type|score|saos_url
+102609|2013-08-06|SN|WK 12/13|Wyrok|78|https://www.saos.org.pl/judgments/102609
+102456|2013-07-10|SN|WK 11/13|Wyrok|78|https://www.saos.org.pl/judgments/102456
+99804|2012-11-19|SN|WK 6/12|Wyrok|78|https://www.saos.org.pl/judgments/99804
+103996|2013-12-17|SN|WK 18/13|Postanowienie|69|https://www.saos.org.pl/judgments/103996

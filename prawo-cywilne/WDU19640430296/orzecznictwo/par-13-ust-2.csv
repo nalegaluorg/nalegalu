@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-62685|2014-08-28|SO|I ACz 1066/14|Postanowienie|https://www.saos.org.pl/judgments/62685
-49235|2014-05-19|SO|II Cz 476/14|Postanowienie|https://www.saos.org.pl/judgments/49235
-6006|2013-02-20|SO|I ACz 181/13|Postanowienie|https://www.saos.org.pl/judgments/6006
+saos_id|date|court|case_number|type|score|saos_url
+62685|2014-08-28|SO|I ACz 1066/14|Postanowienie|47|https://www.saos.org.pl/judgments/62685
+6006|2013-02-20|SO|I ACz 181/13|Postanowienie|47|https://www.saos.org.pl/judgments/6006

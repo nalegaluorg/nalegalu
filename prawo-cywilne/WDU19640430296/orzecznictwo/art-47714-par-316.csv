@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-66444|2014-07-16|SO|IV Ua 24/14|Wyrok|https://www.saos.org.pl/judgments/66444
+saos_id|date|court|case_number|type|score|saos_url
+66444|2014-07-16|SO|IV Ua 24/14|Wyrok|40|https://www.saos.org.pl/judgments/66444

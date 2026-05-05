@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-484714|2022-12-14|SO|II AKa 233/22|Uzasadnienie|https://www.saos.org.pl/judgments/484714
-469784|2022-06-10|SO|II AKa 270/21|Wyrok|https://www.saos.org.pl/judgments/469784
-427721|2019-03-13|SO|I ACa 663/18|Wyrok|https://www.saos.org.pl/judgments/427721
+saos_id|date|court|case_number|type|score|saos_url
+469784|2022-06-10|SO|II AKa 270/21|Wyrok|56|https://www.saos.org.pl/judgments/469784
+427721|2019-03-13|SO|I ACa 663/18|Wyrok|56|https://www.saos.org.pl/judgments/427721
+484714|2022-12-14|SO|II AKa 233/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/484714

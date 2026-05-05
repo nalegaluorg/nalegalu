@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500230|2022-01-27|SO|I Ns 522/21|Postanowienie|https://www.saos.org.pl/judgments/500230
-274048|2017-01-24|SO|II Ca 1522/16|Postanowienie|https://www.saos.org.pl/judgments/274048
+saos_id|date|court|case_number|type|score|saos_url
+274048|2017-01-24|SO|II Ca 1522/16|Postanowienie|31|https://www.saos.org.pl/judgments/274048

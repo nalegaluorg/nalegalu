@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 26 maja 2008 r
 
 ## art. 248 (1)
 
-- 2013-04-24 | SN | [IV CSK 587/12](https://www.saos.org.pl/judgments/101576) | Wyrok
+- 2013-04-24 | SN | [IV CSK 587/12](https://www.saos.org.pl/judgments/101576) | Wyrok ★
 

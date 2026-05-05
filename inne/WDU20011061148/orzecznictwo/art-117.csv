@@ -1,19 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-504467|2023-10-10|SO|II W 357/23|Uzasadnienie|https://www.saos.org.pl/judgments/504467
-490932|2023-05-04|SO|II Ka 174/23|Wyrok|https://www.saos.org.pl/judgments/490932
-484150|2023-01-03|SO|IV Ka 1096/22|Wyrok|https://www.saos.org.pl/judgments/484150
-442514|2021-03-29|SO|IV Ka 992/20|Wyrok|https://www.saos.org.pl/judgments/442514
-392666|2019-04-10|SO|XI W 6015/18|Wyrok|https://www.saos.org.pl/judgments/392666
-382589|2019-03-07|SO|IV Ka 72/19|Wyrok|https://www.saos.org.pl/judgments/382589
-380217|2019-02-21|SO|VII Ka 101/19|Wyrok|https://www.saos.org.pl/judgments/380217
-345925|2018-07-11|SO|IV Ko 18/18|Uzasadnienie|https://www.saos.org.pl/judgments/345925
-339669|2018-04-27|SO|IV Ka 929/17|Wyrok|https://www.saos.org.pl/judgments/339669
-339652|2018-04-27|SO|IV Ka 162/18|Wyrok|https://www.saos.org.pl/judgments/339652
-271179|2017-01-27|SO|XI W 319/16|Wyrok|https://www.saos.org.pl/judgments/271179
-237675|2016-06-27|SO|II C 1512/15|Uzasadnienie|https://www.saos.org.pl/judgments/237675
-221128|2016-02-10|SO|VII W 656/15|Wyrok|https://www.saos.org.pl/judgments/221128
-179887|2015-09-07|SO|IV Ka 769/15|Wyrok|https://www.saos.org.pl/judgments/179887
-135309|2015-03-03|SO|IX Ka 71/15|Wyrok|https://www.saos.org.pl/judgments/135309
-71576|2014-11-14|SO|V W 3579/13|Wyrok|https://www.saos.org.pl/judgments/71576
-42613|2014-03-04|SO|II W 1481/13|Wyrok|https://www.saos.org.pl/judgments/42613
-11738|2013-05-10|SO|II W 628/12|Wyrok|https://www.saos.org.pl/judgments/11738
+saos_id|date|court|case_number|type|score|saos_url
+484150|2023-01-03|SO|IV Ka 1096/22|Wyrok|40|https://www.saos.org.pl/judgments/484150
+442514|2021-03-29|SO|IV Ka 992/20|Wyrok|40|https://www.saos.org.pl/judgments/442514
+179887|2015-09-07|SO|IV Ka 769/15|Wyrok|40|https://www.saos.org.pl/judgments/179887
+11738|2013-05-10|SO|II W 628/12|Wyrok|40|https://www.saos.org.pl/judgments/11738
+504467|2023-10-10|SO|II W 357/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/504467
+345925|2018-07-11|SO|IV Ko 18/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/345925
+237675|2016-06-27|SO|II C 1512/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/237675

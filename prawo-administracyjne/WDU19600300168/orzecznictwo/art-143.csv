@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-535103|2025-08-21|SO|VIII U 240/25|Uzasadnienie|https://www.saos.org.pl/judgments/535103
-455831|2021-12-21|SO|VIII Pa 145/21|Uzasadnienie|https://www.saos.org.pl/judgments/455831
-223969|2016-04-05|SO|VI ACa 334/15|Wyrok|https://www.saos.org.pl/judgments/223969
-259376|2014-11-28|SO|XVII AmA 160/11|Wyrok|https://www.saos.org.pl/judgments/259376
-50009|2014-04-25|SO|II K 639/13|Wyrok|https://www.saos.org.pl/judgments/50009
-4313|2012-11-08|SO|I ACa 764/12|Wyrok|https://www.saos.org.pl/judgments/4313
-97457|2012-03-08|SN|III CSK 219/11|Wyrok|https://www.saos.org.pl/judgments/97457
+saos_id|date|court|case_number|type|score|saos_url
+97457|2012-03-08|SN|III CSK 219/11|Wyrok|78|https://www.saos.org.pl/judgments/97457
+223969|2016-04-05|SO|VI ACa 334/15|Wyrok|56|https://www.saos.org.pl/judgments/223969
+4313|2012-11-08|SO|I ACa 764/12|Wyrok|56|https://www.saos.org.pl/judgments/4313
+535103|2025-08-21|SO|VIII U 240/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535103
+455831|2021-12-21|SO|VIII Pa 145/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/455831

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443526|2020-12-29|SO|III C 511/18|Wyrok|https://www.saos.org.pl/judgments/443526
-187551|2015-07-08|SO|VI ACa 831/15|Wyrok|https://www.saos.org.pl/judgments/187551
+saos_id|date|court|case_number|type|score|saos_url
+187551|2015-07-08|SO|VI ACa 831/15|Wyrok|56|https://www.saos.org.pl/judgments/187551

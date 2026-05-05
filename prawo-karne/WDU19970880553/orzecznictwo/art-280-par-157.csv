@@ -1,13 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-351236|2018-07-12|SO|IV Kow 487/18|Postanowienie|https://www.saos.org.pl/judgments/351236
-351235|2018-07-12|SO|IV Kow 479/18|Postanowienie|https://www.saos.org.pl/judgments/351235
-407650|2018-03-01|SO|I ACa 962/17|Wyrok|https://www.saos.org.pl/judgments/407650
-291374|2017-05-31|SO|XII C 2378/15|Wyrok|https://www.saos.org.pl/judgments/291374
-289086|2016-09-28|SO|II K 118/16|Wyrok|https://www.saos.org.pl/judgments/289086
-240087|2016-07-14|SO|IV Kow 765/16|Postanowienie|https://www.saos.org.pl/judgments/240087
-219014|2016-02-25|SO|IV Kow 44/16|Postanowienie|https://www.saos.org.pl/judgments/219014
-218622|2016-02-25|SO|IV Kow 24/16|Postanowienie|https://www.saos.org.pl/judgments/218622
-219891|2016-01-13|SO|IV Kow 1618/15|Postanowienie|https://www.saos.org.pl/judgments/219891
-37515|2014-03-06|SO|IV K 205/13|Uzasadnienie|https://www.saos.org.pl/judgments/37515
-37304|2014-02-21|SO|IV K 205/13|Wyrok|https://www.saos.org.pl/judgments/37304
-37418|2014-02-10|SO|III K 1049/13|Wyrok|https://www.saos.org.pl/judgments/37418
+saos_id|date|court|case_number|type|score|saos_url
+407650|2018-03-01|SO|I ACa 962/17|Wyrok|56|https://www.saos.org.pl/judgments/407650
+291374|2017-05-31|SO|XII C 2378/15|Wyrok|40|https://www.saos.org.pl/judgments/291374
+289086|2016-09-28|SO|II K 118/16|Wyrok|40|https://www.saos.org.pl/judgments/289086
+37304|2014-02-21|SO|IV K 205/13|Wyrok|40|https://www.saos.org.pl/judgments/37304
+37515|2014-03-06|SO|IV K 205/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/37515

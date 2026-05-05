@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-255710|2016-06-02|SO|I C 2899/14|Wyrok|https://www.saos.org.pl/judgments/255710
-90770|2009-08-26|SN|I CZ 36/09|Postanowienie|https://www.saos.org.pl/judgments/90770
-84786|2006-11-29|SN|II PZ 55/06|Postanowienie|https://www.saos.org.pl/judgments/84786
-84598|2006-09-26|SN|II UZP 11/06|Uchwała|https://www.saos.org.pl/judgments/84598
-84536|2006-09-06|SN|III SPZP 2/06|Uchwała|https://www.saos.org.pl/judgments/84536
+saos_id|date|court|case_number|type|score|saos_url
+84598|2006-09-26|SN|II UZP 11/06|Uchwała|89|https://www.saos.org.pl/judgments/84598
+84536|2006-09-06|SN|III SPZP 2/06|Uchwała|89|https://www.saos.org.pl/judgments/84536
+90770|2009-08-26|SN|I CZ 36/09|Postanowienie|69|https://www.saos.org.pl/judgments/90770
+84786|2006-11-29|SN|II PZ 55/06|Postanowienie|69|https://www.saos.org.pl/judgments/84786
+255710|2016-06-02|SO|I C 2899/14|Wyrok|40|https://www.saos.org.pl/judgments/255710

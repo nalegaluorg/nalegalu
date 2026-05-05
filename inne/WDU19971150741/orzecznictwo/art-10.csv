@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-494342|2022-06-21|SO|I ACa 580/20|Wyrok|https://www.saos.org.pl/judgments/494342
-448017|2020-10-22|SO|I C 967/19|Wyrok|https://www.saos.org.pl/judgments/448017
-309982|2017-05-23|SO|II Ca 1484/16|Postanowienie|https://www.saos.org.pl/judgments/309982
-251823|2015-09-10|SO|I ACa 346/15|Wyrok|https://www.saos.org.pl/judgments/251823
-173366|2015-04-16|SO|I ACa 1537/14|Wyrok|https://www.saos.org.pl/judgments/173366
-51085|2014-04-15|SO|II Ca 241/14|Postanowienie|https://www.saos.org.pl/judgments/51085
-145531|2014-04-09|SO|I C 1484/13|Wyrok|https://www.saos.org.pl/judgments/145531
-360125|2014-03-06|SO|II Ca 694/13|Wyrok|https://www.saos.org.pl/judgments/360125
-25438|2013-11-05|SO|IX Ca 728/12|Wyrok|https://www.saos.org.pl/judgments/25438
-391350|2013-09-10|SO|I ACa 284/13|Wyrok|https://www.saos.org.pl/judgments/391350
-13294|2013-01-24|SO|I ACa 778/12|Wyrok|https://www.saos.org.pl/judgments/13294
-6475|2013-01-24|SO|I ACa 685/12|Wyrok|https://www.saos.org.pl/judgments/6475
-91966|2010-03-04|SN|I CSK 389/09|Wyrok|https://www.saos.org.pl/judgments/91966
-86423|2007-08-10|SN|II CSK 191/07|Wyrok|https://www.saos.org.pl/judgments/86423
-205930|1999-09-21|TK|K 6/98|Wyrok|https://www.saos.org.pl/judgments/205930
+saos_id|date|court|case_number|type|score|saos_url
+205930|1999-09-21|TK|K 6/98|Wyrok|98|https://www.saos.org.pl/judgments/205930
+91966|2010-03-04|SN|I CSK 389/09|Wyrok|78|https://www.saos.org.pl/judgments/91966
+86423|2007-08-10|SN|II CSK 191/07|Wyrok|78|https://www.saos.org.pl/judgments/86423
+494342|2022-06-21|SO|I ACa 580/20|Wyrok|56|https://www.saos.org.pl/judgments/494342
+251823|2015-09-10|SO|I ACa 346/15|Wyrok|56|https://www.saos.org.pl/judgments/251823
+173366|2015-04-16|SO|I ACa 1537/14|Wyrok|56|https://www.saos.org.pl/judgments/173366
+391350|2013-09-10|SO|I ACa 284/13|Wyrok|56|https://www.saos.org.pl/judgments/391350
+13294|2013-01-24|SO|I ACa 778/12|Wyrok|56|https://www.saos.org.pl/judgments/13294
+6475|2013-01-24|SO|I ACa 685/12|Wyrok|56|https://www.saos.org.pl/judgments/6475
+448017|2020-10-22|SO|I C 967/19|Wyrok|40|https://www.saos.org.pl/judgments/448017

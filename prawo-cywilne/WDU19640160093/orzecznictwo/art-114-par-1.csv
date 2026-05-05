@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-452600|2021-07-22|SO|II AKa 84/21|Uzasadnienie|https://www.saos.org.pl/judgments/452600
+saos_id|date|court|case_number|type|score|saos_url
+452600|2021-07-22|SO|II AKa 84/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/452600

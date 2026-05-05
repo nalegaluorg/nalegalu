@@ -1,21 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-542128|2025-09-16|SO|II W 423/23|Wyrok|https://www.saos.org.pl/judgments/542128
-483506|2022-10-24|SO|II W 1172/22|Wyrok|https://www.saos.org.pl/judgments/483506
-520428|2022-01-20|SO|II W 598/21|Wyrok|https://www.saos.org.pl/judgments/520428
-343114|2018-04-25|SO|VII Ka 360/18|Wyrok|https://www.saos.org.pl/judgments/343114
-295265|2017-06-30|SO|VI Ka 471/17|Wyrok|https://www.saos.org.pl/judgments/295265
-308471|2017-05-05|SO|XI W 4407/16|Wyrok|https://www.saos.org.pl/judgments/308471
-288474|2017-04-03|SO|II W 567/16|Wyrok|https://www.saos.org.pl/judgments/288474
-280897|2017-03-07|SO|IV Ka 17/17|Wyrok|https://www.saos.org.pl/judgments/280897
-232025|2016-05-31|SO|V Ka 206/16|Uzasadnienie|https://www.saos.org.pl/judgments/232025
-240309|2016-05-18|SO|XI W 8835/15|Wyrok|https://www.saos.org.pl/judgments/240309
-240306|2016-05-12|SO|XI W 7681/15|Wyrok|https://www.saos.org.pl/judgments/240306
-234910|2016-04-26|SO|VI Ka 286/16|Wyrok|https://www.saos.org.pl/judgments/234910
-223753|2016-04-12|SO|XI W 12022/15|Wyrok|https://www.saos.org.pl/judgments/223753
-199620|2015-12-08|SO|XI W 9594/15|Wyrok|https://www.saos.org.pl/judgments/199620
-188024|2015-10-05|SO|VI W 1218/15|Wyrok|https://www.saos.org.pl/judgments/188024
-155327|2015-05-13|SO|IX W 715/15|Wyrok|https://www.saos.org.pl/judgments/155327
-150750|2015-03-10|SO|XI W 1623/14|Wyrok|https://www.saos.org.pl/judgments/150750
-126934|2014-11-19|SO|VI W 2476/14|Wyrok|https://www.saos.org.pl/judgments/126934
-65261|2014-09-10|SO|VII Ka 624/14|Wyrok|https://www.saos.org.pl/judgments/65261
-60083|2014-08-13|SO|VI W 4341/13|Wyrok|https://www.saos.org.pl/judgments/60083
+saos_id|date|court|case_number|type|score|saos_url
+288474|2017-04-03|SO|II W 567/16|Wyrok|40|https://www.saos.org.pl/judgments/288474

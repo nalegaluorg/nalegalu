@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501703|2023-05-25|SO|II Ca 1526/22|Wyrok|https://www.saos.org.pl/judgments/501703
+saos_id|date|court|case_number|type|score|saos_url
+501703|2023-05-25|SO|II Ca 1526/22|Wyrok|40|https://www.saos.org.pl/judgments/501703

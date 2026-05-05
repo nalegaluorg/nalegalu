@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-470671|2021-05-06|SO|I ACa 396/20|Wyrok|https://www.saos.org.pl/judgments/470671
-472411|2020-02-18|SO|I C 492/19|Wyrok|https://www.saos.org.pl/judgments/472411
-16157|2013-06-25|SO|V ACa 826/12|Wyrok|https://www.saos.org.pl/judgments/16157
-137958|2013-03-19|SO|I C 1773/12|Wyrok|https://www.saos.org.pl/judgments/137958
+saos_id|date|court|case_number|type|score|saos_url
+470671|2021-05-06|SO|I ACa 396/20|Wyrok|56|https://www.saos.org.pl/judgments/470671
+16157|2013-06-25|SO|V ACa 826/12|Wyrok|56|https://www.saos.org.pl/judgments/16157
+472411|2020-02-18|SO|I C 492/19|Wyrok|40|https://www.saos.org.pl/judgments/472411

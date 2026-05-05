@@ -13,12 +13,12 @@ Orzeczenia powołujące: *Ustawa z dnia 25 listopada 2004 r. o zmianie ustawy o 
 ## art. 28 (7)
 
 - 2015-03-18 | SO | [III AUa 48/15](https://www.saos.org.pl/judgments/135419) | Wyrok
-- 2015-02-09 | SO | [VIII U 6033/14](https://www.saos.org.pl/judgments/131897) | Wyrok
 - 2014-08-14 | SO | [III AUa 1719/13](https://www.saos.org.pl/judgments/66268) | Wyrok
 - 2014-08-06 | SO | [III AUa 2050/13](https://www.saos.org.pl/judgments/134276) | Wyrok
 - 2014-08-06 | SO | [III AUa 2047/13](https://www.saos.org.pl/judgments/134275) | Wyrok
 - 2014-07-24 | SO | [III AUa 1974/13](https://www.saos.org.pl/judgments/248295) | Wyrok
 - 2014-06-12 | SO | [III AUa 1729/13](https://www.saos.org.pl/judgments/126532) | Wyrok
+- 2015-02-09 | SO | [VIII U 6033/14](https://www.saos.org.pl/judgments/131897) | Wyrok
 
 ## art. 30 (3)
 

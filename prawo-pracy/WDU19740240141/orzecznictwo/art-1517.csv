@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-529538|2025-06-04|SO|VIII Pa 42/25|Uzasadnienie|https://www.saos.org.pl/judgments/529538
-477348|2022-06-24|SO|III AUa 62/22|Wyrok|https://www.saos.org.pl/judgments/477348
-297477|2017-06-20|SO|III AUa 783/16|Wyrok|https://www.saos.org.pl/judgments/297477
-268796|2016-12-08|SO|IV Pa 41/16|Wyrok|https://www.saos.org.pl/judgments/268796
+saos_id|date|court|case_number|type|score|saos_url
+477348|2022-06-24|SO|III AUa 62/22|Wyrok|56|https://www.saos.org.pl/judgments/477348
+297477|2017-06-20|SO|III AUa 783/16|Wyrok|56|https://www.saos.org.pl/judgments/297477
+529538|2025-06-04|SO|VIII Pa 42/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/529538

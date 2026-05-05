@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-437171|2021-01-28|SO|I ACa 952/19|Wyrok|https://www.saos.org.pl/judgments/437171
+saos_id|date|court|case_number|type|score|saos_url
+437171|2021-01-28|SO|I ACa 952/19|Wyrok|56|https://www.saos.org.pl/judgments/437171

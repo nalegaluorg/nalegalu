@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-541068|2025-12-16|SO|IV Ka 958/25|Wyrok|https://www.saos.org.pl/judgments/541068
+saos_id|date|court|case_number|type|score|saos_url
+541068|2025-12-16|SO|IV Ka 958/25|Wyrok|40|https://www.saos.org.pl/judgments/541068

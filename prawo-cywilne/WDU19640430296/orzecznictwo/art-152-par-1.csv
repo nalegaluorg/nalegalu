@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-462645|2022-03-30|SO|VIII C 560/21|Wyrok|https://www.saos.org.pl/judgments/462645
+saos_id|date|court|case_number|type|score|saos_url
+462645|2022-03-30|SO|VIII C 560/21|Wyrok|40|https://www.saos.org.pl/judgments/462645

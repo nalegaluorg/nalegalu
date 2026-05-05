@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-358198|2018-03-15|SO|XX GC 879/16|Wyrok|https://www.saos.org.pl/judgments/358198
-357576|2018-01-11|SO|XVI GC 1171/16|Wyrok|https://www.saos.org.pl/judgments/357576
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-19922|2013-07-25|SO|V ACa 252/13|Wyrok|https://www.saos.org.pl/judgments/19922
-108845|2008-02-04|TK|Ts 226/06|Postanowienie|https://www.saos.org.pl/judgments/108845
+saos_id|date|court|case_number|type|score|saos_url
+108845|2008-02-04|TK|Ts 226/06|Postanowienie|80|https://www.saos.org.pl/judgments/108845
+19922|2013-07-25|SO|V ACa 252/13|Wyrok|56|https://www.saos.org.pl/judgments/19922
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

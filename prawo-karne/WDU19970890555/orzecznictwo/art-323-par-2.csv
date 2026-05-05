@@ -1,13 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-511135|2023-12-19|SO|VI Ka 410/23|Wyrok|https://www.saos.org.pl/judgments/511135
-413591|2020-06-10|SO|II Ka 273/20|Wyrok|https://www.saos.org.pl/judgments/413591
-361353|2018-10-19|SO|VI Ka 287/18|Wyrok|https://www.saos.org.pl/judgments/361353
-322880|2017-12-21|SO|V Ka 454/17|Wyrok|https://www.saos.org.pl/judgments/322880
-206881|2015-07-22|TK|Ts 97/14|Postanowienie|https://www.saos.org.pl/judgments/206881
-63932|2014-09-23|SO|VI Ka 410/14|Wyrok|https://www.saos.org.pl/judgments/63932
-61473|2014-07-28|SO|III Ca 231/14|Uzasadnienie|https://www.saos.org.pl/judgments/61473
-98594|2012-07-05|SN|WZ 21/12|Postanowienie|https://www.saos.org.pl/judgments/98594
-90363|2009-06-02|SN|WZ 29/09|Postanowienie|https://www.saos.org.pl/judgments/90363
-88988|2008-10-24|SN|WZ 64/08|Postanowienie|https://www.saos.org.pl/judgments/88988
-85732|2007-04-26|SN|I KZP 3/07|Postanowienie|https://www.saos.org.pl/judgments/85732
-83191|2005-01-25|SN|WZ 70/04|Postanowienie|https://www.saos.org.pl/judgments/83191
+saos_id|date|court|case_number|type|score|saos_url
+206881|2015-07-22|TK|Ts 97/14|Postanowienie|80|https://www.saos.org.pl/judgments/206881
+98594|2012-07-05|SN|WZ 21/12|Postanowienie|69|https://www.saos.org.pl/judgments/98594
+90363|2009-06-02|SN|WZ 29/09|Postanowienie|69|https://www.saos.org.pl/judgments/90363
+88988|2008-10-24|SN|WZ 64/08|Postanowienie|69|https://www.saos.org.pl/judgments/88988
+85732|2007-04-26|SN|I KZP 3/07|Postanowienie|69|https://www.saos.org.pl/judgments/85732
+83191|2005-01-25|SN|WZ 70/04|Postanowienie|69|https://www.saos.org.pl/judgments/83191
+511135|2023-12-19|SO|VI Ka 410/23|Wyrok|40|https://www.saos.org.pl/judgments/511135
+61473|2014-07-28|SO|III Ca 231/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/61473

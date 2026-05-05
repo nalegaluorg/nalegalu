@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-507881|2023-06-19|SO|IV Ka 1524/22|Uzasadnienie|https://www.saos.org.pl/judgments/507881
-502825|2023-01-16|SO|II K 24/21|Uzasadnienie|https://www.saos.org.pl/judgments/502825
-378170|2018-05-30|SO|II K 243/17|Uzasadnienie|https://www.saos.org.pl/judgments/378170
+saos_id|date|court|case_number|type|score|saos_url
+502825|2023-01-16|SO|II K 24/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/502825

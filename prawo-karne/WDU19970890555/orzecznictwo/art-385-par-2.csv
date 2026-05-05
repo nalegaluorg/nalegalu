@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-490260|2023-04-19|SO|II AKa 334/22|Wyrok|https://www.saos.org.pl/judgments/490260
-407481|2019-08-22|SO|VI Ka 196/19|Wyrok|https://www.saos.org.pl/judgments/407481
-291287|2017-05-05|SO|VI Ka 167/17|Wyrok|https://www.saos.org.pl/judgments/291287
-269226|2017-01-30|SO|II Ka 347/16|Wyrok|https://www.saos.org.pl/judgments/269226
-262843|2016-11-22|SO|IV Ka 609/16|Uzasadnienie|https://www.saos.org.pl/judgments/262843
+saos_id|date|court|case_number|type|score|saos_url
+490260|2023-04-19|SO|II AKa 334/22|Wyrok|56|https://www.saos.org.pl/judgments/490260
+407481|2019-08-22|SO|VI Ka 196/19|Wyrok|40|https://www.saos.org.pl/judgments/407481

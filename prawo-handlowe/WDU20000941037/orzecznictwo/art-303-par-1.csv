@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-527234|2025-04-02|SO|III AUa 584/24|Wyrok|https://www.saos.org.pl/judgments/527234
-509831|2022-07-29|SO|V ACa 59/22|Wyrok|https://www.saos.org.pl/judgments/509831
-292618|2017-06-26|SO|I ACa 30/17|Wyrok|https://www.saos.org.pl/judgments/292618
-93009|2010-09-30|SN|I KZP 16/10|Postanowienie|https://www.saos.org.pl/judgments/93009
+saos_id|date|court|case_number|type|score|saos_url
+93009|2010-09-30|SN|I KZP 16/10|Postanowienie|69|https://www.saos.org.pl/judgments/93009
+527234|2025-04-02|SO|III AUa 584/24|Wyrok|56|https://www.saos.org.pl/judgments/527234
+509831|2022-07-29|SO|V ACa 59/22|Wyrok|56|https://www.saos.org.pl/judgments/509831
+292618|2017-06-26|SO|I ACa 30/17|Wyrok|56|https://www.saos.org.pl/judgments/292618

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-544263|2022-08-31|SO|III C 354/15|Uzasadnienie|https://www.saos.org.pl/judgments/544263
-415046|2019-10-24|SO|III Ca 792/19|Uzasadnienie|https://www.saos.org.pl/judgments/415046
+saos_id|date|court|case_number|type|score|saos_url
+415046|2019-10-24|SO|III Ca 792/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/415046

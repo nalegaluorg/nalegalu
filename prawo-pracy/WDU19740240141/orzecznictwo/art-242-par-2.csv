@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243382|2015-09-24|SN|II UK 288/14|Wyrok|https://www.saos.org.pl/judgments/243382
-76727|1994-12-06|SN|II PZP 5/94|Uchwała|https://www.saos.org.pl/judgments/76727
-76511|1994-04-20|SN|I PZP 19/94|Uchwała|https://www.saos.org.pl/judgments/76511
+saos_id|date|court|case_number|type|score|saos_url
+76727|1994-12-06|SN|II PZP 5/94|Uchwała|89|https://www.saos.org.pl/judgments/76727
+76511|1994-04-20|SN|I PZP 19/94|Uchwała|89|https://www.saos.org.pl/judgments/76511
+243382|2015-09-24|SN|II UK 288/14|Wyrok|78|https://www.saos.org.pl/judgments/243382

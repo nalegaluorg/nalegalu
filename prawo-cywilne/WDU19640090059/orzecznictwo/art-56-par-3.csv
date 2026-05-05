@@ -1,22 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-519042|2024-10-10|SO|I C 40/24|Wyrok|https://www.saos.org.pl/judgments/519042
-501920|2024-08-12|SO|II Ca 335/24|Postanowienie|https://www.saos.org.pl/judgments/501920
-493277|2023-04-05|SO|I ACa 1034/21|Wyrok|https://www.saos.org.pl/judgments/493277
-454009|2021-11-03|SO|I Ca 466/21|Wyrok|https://www.saos.org.pl/judgments/454009
-445804|2021-06-15|SO|I ACa 1006/19|Wyrok|https://www.saos.org.pl/judgments/445804
-478944|2020-02-26|SO|XXV C 3067/18|Wyrok|https://www.saos.org.pl/judgments/478944
-418342|2020-02-12|SO|I ACa 230/19|Wyrok|https://www.saos.org.pl/judgments/418342
-429934|2020-01-15|SO|III RC 134/19|Wyrok|https://www.saos.org.pl/judgments/429934
-387402|2019-05-08|SO|XXV C 1458/17|Wyrok|https://www.saos.org.pl/judgments/387402
-397552|2019-04-08|SO|I ACa 241/18|Wyrok|https://www.saos.org.pl/judgments/397552
-376415|2019-02-01|SO|I ACa 342/18|Wyrok|https://www.saos.org.pl/judgments/376415
-365013|2018-10-29|SO|XXV C 457/17|Wyrok|https://www.saos.org.pl/judgments/365013
-299903|2017-06-30|SO|III Ca 547/17|Uzasadnienie|https://www.saos.org.pl/judgments/299903
-331305|2017-04-07|SO|I ACa 2434/15|Wyrok|https://www.saos.org.pl/judgments/331305
-262386|2016-12-07|SO|I Ca 459/16|Wyrok|https://www.saos.org.pl/judgments/262386
-255364|2016-10-12|SO|I Ca 397/16|Wyrok|https://www.saos.org.pl/judgments/255364
-250778|2016-09-14|SO|I Ca 365/16|Wyrok|https://www.saos.org.pl/judgments/250778
-228733|2016-05-10|SO|I ACa 85/16|Wyrok|https://www.saos.org.pl/judgments/228733
-182716|2015-09-23|SO|I Ca 282/15|Wyrok|https://www.saos.org.pl/judgments/182716
-131793|2014-06-30|SO|II Ca 311/14|Wyrok|https://www.saos.org.pl/judgments/131793
-60123|2014-03-13|SO|III Ca 1735/13|Wyrok|https://www.saos.org.pl/judgments/60123
+saos_id|date|court|case_number|type|score|saos_url
+493277|2023-04-05|SO|I ACa 1034/21|Wyrok|56|https://www.saos.org.pl/judgments/493277
+445804|2021-06-15|SO|I ACa 1006/19|Wyrok|56|https://www.saos.org.pl/judgments/445804
+418342|2020-02-12|SO|I ACa 230/19|Wyrok|56|https://www.saos.org.pl/judgments/418342
+397552|2019-04-08|SO|I ACa 241/18|Wyrok|56|https://www.saos.org.pl/judgments/397552
+376415|2019-02-01|SO|I ACa 342/18|Wyrok|56|https://www.saos.org.pl/judgments/376415
+331305|2017-04-07|SO|I ACa 2434/15|Wyrok|56|https://www.saos.org.pl/judgments/331305
+228733|2016-05-10|SO|I ACa 85/16|Wyrok|56|https://www.saos.org.pl/judgments/228733
+299903|2017-06-30|SO|III Ca 547/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299903

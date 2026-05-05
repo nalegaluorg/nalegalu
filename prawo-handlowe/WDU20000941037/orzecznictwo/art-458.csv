@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482346|2021-11-04|SO|VII GC 369/20|Wyrok|https://www.saos.org.pl/judgments/482346
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-320150|2013-06-05|SO|XX GC 356/12|Wyrok|https://www.saos.org.pl/judgments/320150
+saos_id|date|court|case_number|type|score|saos_url
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

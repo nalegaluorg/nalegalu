@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-462513|2022-04-11|SO|VIII GC 68/20|Uzasadnienie|https://www.saos.org.pl/judgments/462513
-409893|2020-02-17|SO|VII U 1071/19|Wyrok|https://www.saos.org.pl/judgments/409893
-351272|2018-09-03|SO|VIII Gz 199/18|Postanowienie|https://www.saos.org.pl/judgments/351272
-18010|2013-08-07|SO|III AUa 543/13|Wyrok|https://www.saos.org.pl/judgments/18010
+saos_id|date|court|case_number|type|score|saos_url
+18010|2013-08-07|SO|III AUa 543/13|Wyrok|56|https://www.saos.org.pl/judgments/18010
+409893|2020-02-17|SO|VII U 1071/19|Wyrok|40|https://www.saos.org.pl/judgments/409893

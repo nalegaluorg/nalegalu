@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-456747|2021-11-09|SO|VIII Pa 75/21|Wyrok|https://www.saos.org.pl/judgments/456747
-379608|2019-03-29|SO|IX P 421/18|Zarządzenie|https://www.saos.org.pl/judgments/379608
-216721|2015-05-12|SO|III APa 4/15|Wyrok|https://www.saos.org.pl/judgments/216721
-55410|2014-07-03|SO|III Pa 14/14|Wyrok|https://www.saos.org.pl/judgments/55410
+saos_id|date|court|case_number|type|score|saos_url
+216721|2015-05-12|SO|III APa 4/15|Wyrok|56|https://www.saos.org.pl/judgments/216721

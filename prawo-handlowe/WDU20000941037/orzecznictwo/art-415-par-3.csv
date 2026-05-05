@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-352553|2018-06-04|SO|VII AGa 123/18|Wyrok|https://www.saos.org.pl/judgments/352553
-357514|2018-03-28|SO|V AGa 33/18|Wyrok|https://www.saos.org.pl/judgments/357514
-295291|2017-07-18|SO|VIII GC 82/17|Uzasadnienie|https://www.saos.org.pl/judgments/295291
-41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|https://www.saos.org.pl/judgments/41315
-88767|2008-09-26|SN|V CSK 91/08|Wyrok|https://www.saos.org.pl/judgments/88767
-164135|2006-03-23|SN|II CSK 76/05|Wyrok|https://www.saos.org.pl/judgments/164135
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
-83422|2005-05-12|SN|V CK 562/04|Wyrok|https://www.saos.org.pl/judgments/83422
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+88767|2008-09-26|SN|V CSK 91/08|Wyrok|78|https://www.saos.org.pl/judgments/88767
+164135|2006-03-23|SN|II CSK 76/05|Wyrok|78|https://www.saos.org.pl/judgments/164135
+83422|2005-05-12|SN|V CK 562/04|Wyrok|78|https://www.saos.org.pl/judgments/83422
+352553|2018-06-04|SO|VII AGa 123/18|Wyrok|56|https://www.saos.org.pl/judgments/352553
+357514|2018-03-28|SO|V AGa 33/18|Wyrok|56|https://www.saos.org.pl/judgments/357514
+41315|2014-04-07|SO|X GC 431/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/41315

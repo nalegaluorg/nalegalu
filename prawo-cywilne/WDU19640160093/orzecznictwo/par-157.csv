@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497950|2023-06-28|SO|I C 389/22|Wyrok|https://www.saos.org.pl/judgments/497950
-171532|2015-05-15|SO|VI ACa 1937/13|Wyrok|https://www.saos.org.pl/judgments/171532
+saos_id|date|court|case_number|type|score|saos_url
+171532|2015-05-15|SO|VI ACa 1937/13|Wyrok|56|https://www.saos.org.pl/judgments/171532

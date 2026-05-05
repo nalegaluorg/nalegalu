@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-339785|2017-09-29|SO|I ACa 495/16|Wyrok|https://www.saos.org.pl/judgments/339785
-47824|2014-04-16|SO|I ACa 39/14|Wyrok|https://www.saos.org.pl/judgments/47824
+saos_id|date|court|case_number|type|score|saos_url
+339785|2017-09-29|SO|I ACa 495/16|Wyrok|56|https://www.saos.org.pl/judgments/339785
+47824|2014-04-16|SO|I ACa 39/14|Wyrok|56|https://www.saos.org.pl/judgments/47824

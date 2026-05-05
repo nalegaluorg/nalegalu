@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-417308|2020-07-17|SO|VIII Ga 853/19|Zarządzenie|https://www.saos.org.pl/judgments/417308
-376648|2018-12-04|SO|I AGa 175/18|Wyrok|https://www.saos.org.pl/judgments/376648
-275815|2017-01-04|SO|I ACa 13/15|Wyrok|https://www.saos.org.pl/judgments/275815
-217915|2015-09-24|SO|I ACa 337/15|Wyrok|https://www.saos.org.pl/judgments/217915
-38211|2013-11-08|SO|I ACa 429/13|Wyrok|https://www.saos.org.pl/judgments/38211
+saos_id|date|court|case_number|type|score|saos_url
+376648|2018-12-04|SO|I AGa 175/18|Wyrok|56|https://www.saos.org.pl/judgments/376648
+275815|2017-01-04|SO|I ACa 13/15|Wyrok|56|https://www.saos.org.pl/judgments/275815
+217915|2015-09-24|SO|I ACa 337/15|Wyrok|56|https://www.saos.org.pl/judgments/217915
+38211|2013-11-08|SO|I ACa 429/13|Wyrok|56|https://www.saos.org.pl/judgments/38211

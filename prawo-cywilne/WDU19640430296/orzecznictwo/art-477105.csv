@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83317|2005-04-05|SN|I UK 232/04|Wyrok|https://www.saos.org.pl/judgments/83317
+saos_id|date|court|case_number|type|score|saos_url
+83317|2005-04-05|SN|I UK 232/04|Wyrok|78|https://www.saos.org.pl/judgments/83317

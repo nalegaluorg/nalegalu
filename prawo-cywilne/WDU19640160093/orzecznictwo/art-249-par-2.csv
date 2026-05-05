@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-533130|2023-10-25|SO|II Ca 1087/23|Postanowienie|https://www.saos.org.pl/judgments/533130
-221985|2016-03-08|SO|III Ca 1786/15|Uzasadnienie|https://www.saos.org.pl/judgments/221985
-245498|2015-05-21|SN|IV CSK 509/14|Postanowienie|https://www.saos.org.pl/judgments/245498
+saos_id|date|court|case_number|type|score|saos_url
+245498|2015-05-21|SN|IV CSK 509/14|Postanowienie|69|https://www.saos.org.pl/judgments/245498
+533130|2023-10-25|SO|II Ca 1087/23|Postanowienie|31|https://www.saos.org.pl/judgments/533130
+221985|2016-03-08|SO|III Ca 1786/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/221985

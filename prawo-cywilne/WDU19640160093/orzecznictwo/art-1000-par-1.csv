@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-242826|2015-06-25|SN|III CSK 375/14|Wyrok|https://www.saos.org.pl/judgments/242826
-104309|2014-02-06|SN|I CSK 252/13|Wyrok|https://www.saos.org.pl/judgments/104309
-100598|2013-02-07|SN|II CSK 403/12|Wyrok|https://www.saos.org.pl/judgments/100598
-87202|2008-01-30|SN|III CSK 255/07|Wyrok|https://www.saos.org.pl/judgments/87202
+saos_id|date|court|case_number|type|score|saos_url
+242826|2015-06-25|SN|III CSK 375/14|Wyrok|78|https://www.saos.org.pl/judgments/242826
+104309|2014-02-06|SN|I CSK 252/13|Wyrok|78|https://www.saos.org.pl/judgments/104309
+100598|2013-02-07|SN|II CSK 403/12|Wyrok|78|https://www.saos.org.pl/judgments/100598
+87202|2008-01-30|SN|III CSK 255/07|Wyrok|78|https://www.saos.org.pl/judgments/87202

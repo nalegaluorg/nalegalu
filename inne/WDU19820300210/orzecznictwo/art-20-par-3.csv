@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-485925|2022-07-26|SO|VI Ka 268/22|Wyrok|https://www.saos.org.pl/judgments/485925
-367233|2018-12-07|SO|IV Ka 779/18|Uzasadnienie|https://www.saos.org.pl/judgments/367233
-356792|2018-06-12|SO|VI Ka 1542/17|Wyrok|https://www.saos.org.pl/judgments/356792
-195160|2015-12-15|SO|XVII Ka 817/15|Wyrok|https://www.saos.org.pl/judgments/195160
-189684|2015-11-09|SO|XVII Ka 858/15|Wyrok|https://www.saos.org.pl/judgments/189684
-19829|2013-06-26|SO|XI Ka 573/13|Wyrok|https://www.saos.org.pl/judgments/19829
+saos_id|date|court|case_number|type|score|saos_url
+485925|2022-07-26|SO|VI Ka 268/22|Wyrok|40|https://www.saos.org.pl/judgments/485925
+356792|2018-06-12|SO|VI Ka 1542/17|Wyrok|40|https://www.saos.org.pl/judgments/356792
+195160|2015-12-15|SO|XVII Ka 817/15|Wyrok|40|https://www.saos.org.pl/judgments/195160
+189684|2015-11-09|SO|XVII Ka 858/15|Wyrok|40|https://www.saos.org.pl/judgments/189684

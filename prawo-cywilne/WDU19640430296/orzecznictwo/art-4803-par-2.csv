@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-532354|2025-06-06|SO|I C 480/25|Wyrok|https://www.saos.org.pl/judgments/532354
-522153|2024-02-01|SO|I C 55/24|Postanowienie|https://www.saos.org.pl/judgments/522153
-514676|2023-09-01|SO|XIII Ga 1684/22|Uzasadnienie|https://www.saos.org.pl/judgments/514676
-495468|2023-07-04|SO|I C 1146/21|Wyrok|https://www.saos.org.pl/judgments/495468
-499426|2023-05-19|SO|I C 818/20|Wyrok|https://www.saos.org.pl/judgments/499426
-495123|2023-04-06|SO|I AGa 68/22|Wyrok|https://www.saos.org.pl/judgments/495123
-493431|2023-01-30|SO|I ACa 1185/22|Wyrok|https://www.saos.org.pl/judgments/493431
-468050|2022-06-22|SO|IX P 484/20|Zarządzenie|https://www.saos.org.pl/judgments/468050
-470040|2022-03-09|SO|II C 492/21|Uzasadnienie|https://www.saos.org.pl/judgments/470040
-463725|2022-01-21|SO|VIII GC 9/21|Uzasadnienie|https://www.saos.org.pl/judgments/463725
-535953|2021-11-10|SO|VI GC 111/21|Wyrok|https://www.saos.org.pl/judgments/535953
-457344|2021-09-30|SO|I AGa 8/21|Wyrok|https://www.saos.org.pl/judgments/457344
-455700|2021-07-09|SO|XV Ca 436/21|Uzasadnienie|https://www.saos.org.pl/judgments/455700
-435901|2021-03-16|SO|I C 358/20|Zarządzenie|https://www.saos.org.pl/judgments/435901
-441318|2021-03-11|SO|I C 357/20|Zarządzenie|https://www.saos.org.pl/judgments/441318
-422865|2020-10-15|SO|IX P 529/19|Zarządzenie|https://www.saos.org.pl/judgments/422865
-422772|2020-10-06|SO|I C 168/20|Uzasadnienie|https://www.saos.org.pl/judgments/422772
-433123|2020-09-29|SO|II C 321/18|Zarządzenie|https://www.saos.org.pl/judgments/433123
+saos_id|date|court|case_number|type|score|saos_url
+495123|2023-04-06|SO|I AGa 68/22|Wyrok|56|https://www.saos.org.pl/judgments/495123
+493431|2023-01-30|SO|I ACa 1185/22|Wyrok|56|https://www.saos.org.pl/judgments/493431
+457344|2021-09-30|SO|I AGa 8/21|Wyrok|56|https://www.saos.org.pl/judgments/457344
+514676|2023-09-01|SO|XIII Ga 1684/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/514676
+470040|2022-03-09|SO|II C 492/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/470040
+455700|2021-07-09|SO|XV Ca 436/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/455700
+422772|2020-10-06|SO|I C 168/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/422772
+433123|2020-09-29|SO|II C 321/18|Zarządzenie|27|https://www.saos.org.pl/judgments/433123

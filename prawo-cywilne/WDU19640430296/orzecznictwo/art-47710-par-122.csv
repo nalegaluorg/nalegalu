@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-92895|2010-09-09|SN|II UK 98/10|Wyrok|https://www.saos.org.pl/judgments/92895
+saos_id|date|court|case_number|type|score|saos_url
+92895|2010-09-09|SN|II UK 98/10|Wyrok|78|https://www.saos.org.pl/judgments/92895

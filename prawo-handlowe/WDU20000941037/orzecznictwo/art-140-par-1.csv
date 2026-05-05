@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-461849|2020-10-22|SO|IX Ka 525/20|Wyrok|https://www.saos.org.pl/judgments/461849
-368206|2018-09-21|SO|III AUa 939/16|Wyrok|https://www.saos.org.pl/judgments/368206
+saos_id|date|court|case_number|type|score|saos_url
+368206|2018-09-21|SO|III AUa 939/16|Wyrok|56|https://www.saos.org.pl/judgments/368206

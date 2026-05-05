@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-211866|2015-11-13|SO|I ACa 351/15|Wyrok|https://www.saos.org.pl/judgments/211866
-103610|2013-11-22|SN|III CZP 69/13|Uchwała|https://www.saos.org.pl/judgments/103610
-111657|2013-07-29|TK|SK 12/12|Wyrok|https://www.saos.org.pl/judgments/111657
+saos_id|date|court|case_number|type|score|saos_url
+111657|2013-07-29|TK|SK 12/12|Wyrok|98|https://www.saos.org.pl/judgments/111657
+103610|2013-11-22|SN|III CZP 69/13|Uchwała|89|https://www.saos.org.pl/judgments/103610
+211866|2015-11-13|SO|I ACa 351/15|Wyrok|56|https://www.saos.org.pl/judgments/211866

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-514612|2024-02-20|SO|XII K 228/21|Wyrok|https://www.saos.org.pl/judgments/514612
-498170|2021-08-04|SO|I C 442/19|Wyrok|https://www.saos.org.pl/judgments/498170
-299716|2016-10-05|SO|I ACa 334/16|Wyrok|https://www.saos.org.pl/judgments/299716
-171703|2015-05-26|SO|II Cz 365/15|Postanowienie|https://www.saos.org.pl/judgments/171703
+saos_id|date|court|case_number|type|score|saos_url
+299716|2016-10-05|SO|I ACa 334/16|Wyrok|56|https://www.saos.org.pl/judgments/299716

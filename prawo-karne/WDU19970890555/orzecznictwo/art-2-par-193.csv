@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-464674|2022-03-25|SO|II Ka 87/22|Wyrok|https://www.saos.org.pl/judgments/464674
-288156|2017-03-20|SO|V Ka 1541/16|Uzasadnienie|https://www.saos.org.pl/judgments/288156
-195473|2015-12-11|SO|VI Ka 382/15|Wyrok|https://www.saos.org.pl/judgments/195473
-136400|2012-09-20|SO|II AKa 288/12|Wyrok|https://www.saos.org.pl/judgments/136400
+saos_id|date|court|case_number|type|score|saos_url
+136400|2012-09-20|SO|II AKa 288/12|Wyrok|56|https://www.saos.org.pl/judgments/136400
+195473|2015-12-11|SO|VI Ka 382/15|Wyrok|40|https://www.saos.org.pl/judgments/195473
+288156|2017-03-20|SO|V Ka 1541/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/288156

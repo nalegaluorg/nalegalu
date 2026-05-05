@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-326380|2017-12-19|SO|II Ca 1340/17|Postanowienie|https://www.saos.org.pl/judgments/326380
-313275|2017-09-01|SO|III Ca 1206/17|Uzasadnienie|https://www.saos.org.pl/judgments/313275
-313273|2017-09-01|SO|III Ca 1205/17|Uzasadnienie|https://www.saos.org.pl/judgments/313273
-180459|2015-01-15|SO|I C 1590/14|Wyrok|https://www.saos.org.pl/judgments/180459
-155689|2014-12-16|SO|II Ca 1036/14|Wyrok|https://www.saos.org.pl/judgments/155689
-133925|2014-12-04|SO|I C 1560/12|Wyrok|https://www.saos.org.pl/judgments/133925
-130089|2014-11-28|SO|I ACa 783/14|Wyrok|https://www.saos.org.pl/judgments/130089
-69852|2014-10-23|SO|I C 1493/12|Wyrok|https://www.saos.org.pl/judgments/69852
-210902|2014-05-30|SO|II Ca 406/14|Postanowienie|https://www.saos.org.pl/judgments/210902
-143188|2013-12-03|SO|I Ca 414/13|Uzasadnienie|https://www.saos.org.pl/judgments/143188
+saos_id|date|court|case_number|type|score|saos_url
+130089|2014-11-28|SO|I ACa 783/14|Wyrok|56|https://www.saos.org.pl/judgments/130089
+155689|2014-12-16|SO|II Ca 1036/14|Wyrok|40|https://www.saos.org.pl/judgments/155689
+326380|2017-12-19|SO|II Ca 1340/17|Postanowienie|31|https://www.saos.org.pl/judgments/326380
+313275|2017-09-01|SO|III Ca 1206/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/313275
+313273|2017-09-01|SO|III Ca 1205/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/313273

@@ -1,15 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-530683|2025-04-17|SO|I1 C 559/24|Wyrok|https://www.saos.org.pl/judgments/530683
-508919|2021-03-08|SO|IV Pz 3/21|Postanowienie|https://www.saos.org.pl/judgments/508919
-392116|2019-05-13|SO|VIII Ns 350/10|Postanowienie|https://www.saos.org.pl/judgments/392116
-300063|2017-06-30|SO|XIV C 1178/15|Wyrok|https://www.saos.org.pl/judgments/300063
-270279|2016-07-28|SO|II Ca 1365/15|Postanowienie|https://www.saos.org.pl/judgments/270279
-220970|2016-04-21|SO|V ACz 339/16|Postanowienie|https://www.saos.org.pl/judgments/220970
-222407|2016-04-08|SO|I C 40/16|Wyrok|https://www.saos.org.pl/judgments/222407
-222405|2016-04-08|SO|I C 39/16|Wyrok|https://www.saos.org.pl/judgments/222405
-255673|2016-01-29|SO|I C 1318/15|Wyrok|https://www.saos.org.pl/judgments/255673
-181397|2015-10-22|SO|I ACa 518/15|Wyrok|https://www.saos.org.pl/judgments/181397
-155658|2015-05-05|SO|I Cz 90/15|Postanowienie|https://www.saos.org.pl/judgments/155658
-143748|2013-11-12|SO|I C 1990/12|Wyrok|https://www.saos.org.pl/judgments/143748
-91|2012-10-12|SO|I ACa 909/12|Wyrok|https://www.saos.org.pl/judgments/91
-2932|2012-09-26|SO|I ACa 470/12|Wyrok|https://www.saos.org.pl/judgments/2932
+saos_id|date|court|case_number|type|score|saos_url
+181397|2015-10-22|SO|I ACa 518/15|Wyrok|56|https://www.saos.org.pl/judgments/181397
+91|2012-10-12|SO|I ACa 909/12|Wyrok|56|https://www.saos.org.pl/judgments/91
+2932|2012-09-26|SO|I ACa 470/12|Wyrok|56|https://www.saos.org.pl/judgments/2932
+220970|2016-04-21|SO|V ACz 339/16|Postanowienie|47|https://www.saos.org.pl/judgments/220970
+300063|2017-06-30|SO|XIV C 1178/15|Wyrok|40|https://www.saos.org.pl/judgments/300063
+222407|2016-04-08|SO|I C 40/16|Wyrok|40|https://www.saos.org.pl/judgments/222407
+222405|2016-04-08|SO|I C 39/16|Wyrok|40|https://www.saos.org.pl/judgments/222405
+143748|2013-11-12|SO|I C 1990/12|Wyrok|40|https://www.saos.org.pl/judgments/143748

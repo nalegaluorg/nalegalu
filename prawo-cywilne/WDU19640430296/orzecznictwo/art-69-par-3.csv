@@ -1,15 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-512813|2023-10-12|SO|VIII Gz 126/23|Postanowienie|https://www.saos.org.pl/judgments/512813
-489615|2023-05-09|SO|VI C 975/21|Uzasadnienie|https://www.saos.org.pl/judgments/489615
-473582|2022-07-18|SO|I ACa 664/21|Wyrok|https://www.saos.org.pl/judgments/473582
-470738|2022-06-15|SO|VIII U 2701/21|Zarządzenie|https://www.saos.org.pl/judgments/470738
-471196|2022-05-18|SO|VII Ua 86/21|Wyrok|https://www.saos.org.pl/judgments/471196
-461104|2022-02-17|SO|VIII Pa 178/21|Zarządzenie|https://www.saos.org.pl/judgments/461104
-462835|2021-12-17|SO|XI GC 696/21|Zarządzenie|https://www.saos.org.pl/judgments/462835
-447534|2021-06-30|SO|I AGo 16/20|Postanowienie|https://www.saos.org.pl/judgments/447534
-448140|2021-06-15|SO|I AGa 340/19|Wyrok|https://www.saos.org.pl/judgments/448140
-445185|2021-05-31|SO|I ACa 651/20|Wyrok|https://www.saos.org.pl/judgments/445185
-428848|2020-11-27|SO|XVII AmA 51/20|Wyrok|https://www.saos.org.pl/judgments/428848
-402762|2020-01-14|SO|XI GC 965/19|Zarządzenie|https://www.saos.org.pl/judgments/402762
-381054|2019-04-09|SO|XI GC 2106/18|Wyrok|https://www.saos.org.pl/judgments/381054
-342997|2018-02-28|SO|I ACa 296/15|Wyrok|https://www.saos.org.pl/judgments/342997
+saos_id|date|court|case_number|type|score|saos_url
+473582|2022-07-18|SO|I ACa 664/21|Wyrok|56|https://www.saos.org.pl/judgments/473582
+448140|2021-06-15|SO|I AGa 340/19|Wyrok|56|https://www.saos.org.pl/judgments/448140
+445185|2021-05-31|SO|I ACa 651/20|Wyrok|56|https://www.saos.org.pl/judgments/445185
+342997|2018-02-28|SO|I ACa 296/15|Wyrok|56|https://www.saos.org.pl/judgments/342997
+447534|2021-06-30|SO|I AGo 16/20|Postanowienie|47|https://www.saos.org.pl/judgments/447534
+471196|2022-05-18|SO|VII Ua 86/21|Wyrok|40|https://www.saos.org.pl/judgments/471196
+470738|2022-06-15|SO|VIII U 2701/21|Zarządzenie|27|https://www.saos.org.pl/judgments/470738
+461104|2022-02-17|SO|VIII Pa 178/21|Zarządzenie|27|https://www.saos.org.pl/judgments/461104

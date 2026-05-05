@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-407007|2020-02-14|SO|VIII Gz 232/19|Postanowienie|https://www.saos.org.pl/judgments/407007
-274937|2017-01-31|SO|VIII Gz 3/17|Postanowienie|https://www.saos.org.pl/judgments/274937
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-24963|2013-09-30|SO|VIII Gz 88/13|Uzasadnienie|https://www.saos.org.pl/judgments/24963
-85068|2007-01-25|SN|III CZP 100/06|Postanowienie|https://www.saos.org.pl/judgments/85068
-84706|2006-11-08|SN|III CZP 82/06|Uchwała|https://www.saos.org.pl/judgments/84706
+saos_id|date|court|case_number|type|score|saos_url
+84706|2006-11-08|SN|III CZP 82/06|Uchwała|89|https://www.saos.org.pl/judgments/84706
+85068|2007-01-25|SN|III CZP 100/06|Postanowienie|69|https://www.saos.org.pl/judgments/85068

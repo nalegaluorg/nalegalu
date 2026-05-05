@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-217491|2015-12-22|SO|IV P 102/15|Wyrok|https://www.saos.org.pl/judgments/217491
-89554|2009-01-27|SN|II PK 140/08|Wyrok|https://www.saos.org.pl/judgments/89554
-87766|2008-04-03|SN|II PK 288/07|Wyrok|https://www.saos.org.pl/judgments/87766
-86974|2008-01-11|SN|I PK 108/07|Wyrok|https://www.saos.org.pl/judgments/86974
-84850|2006-12-13|SN|II PK 99/06|Wyrok|https://www.saos.org.pl/judgments/84850
-84461|2006-07-18|SN|I PK 40/06|Wyrok|https://www.saos.org.pl/judgments/84461
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
-82680|2004-05-19|SN|I PK 630/03|Wyrok|https://www.saos.org.pl/judgments/82680
-82407|2003-12-18|SN|I PK 153/03|Wyrok|https://www.saos.org.pl/judgments/82407
-78716|1998-12-01|SN|I PKN 464/98|Wyrok|https://www.saos.org.pl/judgments/78716
-78337|1998-05-20|SN|I PKN 143/98|Wyrok|https://www.saos.org.pl/judgments/78337
+saos_id|date|court|case_number|type|score|saos_url
+89554|2009-01-27|SN|II PK 140/08|Wyrok|78|https://www.saos.org.pl/judgments/89554
+87766|2008-04-03|SN|II PK 288/07|Wyrok|78|https://www.saos.org.pl/judgments/87766
+86974|2008-01-11|SN|I PK 108/07|Wyrok|78|https://www.saos.org.pl/judgments/86974
+84850|2006-12-13|SN|II PK 99/06|Wyrok|78|https://www.saos.org.pl/judgments/84850
+84461|2006-07-18|SN|I PK 40/06|Wyrok|78|https://www.saos.org.pl/judgments/84461
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275
+82680|2004-05-19|SN|I PK 630/03|Wyrok|78|https://www.saos.org.pl/judgments/82680
+82407|2003-12-18|SN|I PK 153/03|Wyrok|78|https://www.saos.org.pl/judgments/82407
+78716|1998-12-01|SN|I PKN 464/98|Wyrok|78|https://www.saos.org.pl/judgments/78716
+78337|1998-05-20|SN|I PKN 143/98|Wyrok|78|https://www.saos.org.pl/judgments/78337

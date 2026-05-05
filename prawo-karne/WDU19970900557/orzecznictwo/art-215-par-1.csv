@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-322826|2017-11-22|SO|II AKa 229/17|Wyrok|https://www.saos.org.pl/judgments/322826
-198148|2015-05-07|SO|XXIV C 1114/14|Uzasadnienie|https://www.saos.org.pl/judgments/198148
-206475|2014-11-25|TK|K 54/13|Wyrok|https://www.saos.org.pl/judgments/206475
-142148|2013-06-12|SO|II AKa 84/13|Wyrok|https://www.saos.org.pl/judgments/142148
-6469|2013-01-25|SO|I ACa 1125/12|Wyrok|https://www.saos.org.pl/judgments/6469
-110920|2012-12-10|TK|K 25/11|Wyrok|https://www.saos.org.pl/judgments/110920
+saos_id|date|court|case_number|type|score|saos_url
+206475|2014-11-25|TK|K 54/13|Wyrok|98|https://www.saos.org.pl/judgments/206475
+110920|2012-12-10|TK|K 25/11|Wyrok|98|https://www.saos.org.pl/judgments/110920
+322826|2017-11-22|SO|II AKa 229/17|Wyrok|56|https://www.saos.org.pl/judgments/322826
+142148|2013-06-12|SO|II AKa 84/13|Wyrok|56|https://www.saos.org.pl/judgments/142148
+6469|2013-01-25|SO|I ACa 1125/12|Wyrok|56|https://www.saos.org.pl/judgments/6469

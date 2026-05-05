@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-533218|2025-03-05|SO|III Nsm 1777/23|Postanowienie|https://www.saos.org.pl/judgments/533218
-169002|2015-05-08|SN|II CNP 5/15|Postanowienie|https://www.saos.org.pl/judgments/169002
-168664|2015-03-16|SN|V CNP 15/15|Postanowienie|https://www.saos.org.pl/judgments/168664
-46316|2014-05-08|SO|IV Cz 235/14|Postanowienie|https://www.saos.org.pl/judgments/46316
-101837|2013-05-22|SN|III CZP 25/13|Uchwała|https://www.saos.org.pl/judgments/101837
+saos_id|date|court|case_number|type|score|saos_url
+101837|2013-05-22|SN|III CZP 25/13|Uchwała|89|https://www.saos.org.pl/judgments/101837
+169002|2015-05-08|SN|II CNP 5/15|Postanowienie|69|https://www.saos.org.pl/judgments/169002
+168664|2015-03-16|SN|V CNP 15/15|Postanowienie|69|https://www.saos.org.pl/judgments/168664

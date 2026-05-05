@@ -1,9 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-321383|2017-12-20|SO|IV P 88/17|Wyrok|https://www.saos.org.pl/judgments/321383
-303209|2017-08-01|SO|I C 261/17|Wyrok|https://www.saos.org.pl/judgments/303209
-303204|2017-08-01|SO|I C 237/17|Wyrok|https://www.saos.org.pl/judgments/303204
-298859|2017-06-06|SO|I C 348/17|Wyrok|https://www.saos.org.pl/judgments/298859
-294973|2017-01-19|SO|I C 628/16|Wyrok|https://www.saos.org.pl/judgments/294973
-197067|2015-11-26|SO|XII Ga 202/15|Wyrok|https://www.saos.org.pl/judgments/197067
-184956|2014-12-16|SO|III Ca 1984/13|Postanowienie|https://www.saos.org.pl/judgments/184956
-189878|2013-11-29|SO|II Ca 1320/12|Postanowienie|https://www.saos.org.pl/judgments/189878
+saos_id|date|court|case_number|type|score|saos_url
+321383|2017-12-20|SO|IV P 88/17|Wyrok|40|https://www.saos.org.pl/judgments/321383
+197067|2015-11-26|SO|XII Ga 202/15|Wyrok|40|https://www.saos.org.pl/judgments/197067

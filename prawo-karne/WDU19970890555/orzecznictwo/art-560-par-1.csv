@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-291494|2017-06-20|SO|II AKo 59/17|Postanowienie|https://www.saos.org.pl/judgments/291494
-244683|2016-02-25|SN|I KZP 20/15|Uchwała|https://www.saos.org.pl/judgments/244683
-111621|2013-11-13|TK|P 25/12|Wyrok|https://www.saos.org.pl/judgments/111621
-108250|2007-02-21|TK|Ts 47/06|Postanowienie|https://www.saos.org.pl/judgments/108250
-107773|2006-09-12|TK|Ts 47/06|Postanowienie|https://www.saos.org.pl/judgments/107773
+saos_id|date|court|case_number|type|score|saos_url
+111621|2013-11-13|TK|P 25/12|Wyrok|98|https://www.saos.org.pl/judgments/111621
+244683|2016-02-25|SN|I KZP 20/15|Uchwała|96|https://www.saos.org.pl/judgments/244683
+108250|2007-02-21|TK|Ts 47/06|Postanowienie|80|https://www.saos.org.pl/judgments/108250
+107773|2006-09-12|TK|Ts 47/06|Postanowienie|80|https://www.saos.org.pl/judgments/107773
+291494|2017-06-20|SO|II AKo 59/17|Postanowienie|47|https://www.saos.org.pl/judgments/291494

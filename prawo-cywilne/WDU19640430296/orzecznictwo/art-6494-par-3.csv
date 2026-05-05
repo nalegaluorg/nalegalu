@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-418952|2019-12-05|SO|VI ACa 984/17|Wyrok|https://www.saos.org.pl/judgments/418952
-439010|2017-03-03|SO|III C 485/14|Wyrok|https://www.saos.org.pl/judgments/439010
+saos_id|date|court|case_number|type|score|saos_url
+418952|2019-12-05|SO|VI ACa 984/17|Wyrok|56|https://www.saos.org.pl/judgments/418952
+439010|2017-03-03|SO|III C 485/14|Wyrok|40|https://www.saos.org.pl/judgments/439010

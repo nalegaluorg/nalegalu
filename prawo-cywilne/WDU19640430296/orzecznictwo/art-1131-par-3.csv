@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481981|2021-07-08|SO|V AGa 309/19|Wyrok|https://www.saos.org.pl/judgments/481981
-413996|2019-01-15|SO|V AGa 689/18|Wyrok|https://www.saos.org.pl/judgments/413996
-7563|2013-01-23|SO|I ACa 183/12|Wyrok|https://www.saos.org.pl/judgments/7563
+saos_id|date|court|case_number|type|score|saos_url
+481981|2021-07-08|SO|V AGa 309/19|Wyrok|56|https://www.saos.org.pl/judgments/481981
+413996|2019-01-15|SO|V AGa 689/18|Wyrok|56|https://www.saos.org.pl/judgments/413996
+7563|2013-01-23|SO|I ACa 183/12|Wyrok|56|https://www.saos.org.pl/judgments/7563

@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-494962|2023-12-29|SO|I AGa 225/22|Wyrok|https://www.saos.org.pl/judgments/494962
-453050|2021-09-22|SO|VI GC 211/21|Wyrok|https://www.saos.org.pl/judgments/453050
-462789|2021-04-14|SO|VI GC 1524/20|Wyrok|https://www.saos.org.pl/judgments/462789
-274417|2017-02-08|SO|III Ca 300/16|Postanowienie|https://www.saos.org.pl/judgments/274417
-127291|2014-12-23|SO|VI Ga 349/14|Wyrok|https://www.saos.org.pl/judgments/127291
-72104|2014-07-07|SO|II Ca 363/14|Postanowienie|https://www.saos.org.pl/judgments/72104
-3544|2012-12-12|SO|I ACa 605/12|Wyrok|https://www.saos.org.pl/judgments/3544
-85992|2007-05-30|SN|IV CSK 71/07|Wyrok|https://www.saos.org.pl/judgments/85992
+saos_id|date|court|case_number|type|score|saos_url
+85992|2007-05-30|SN|IV CSK 71/07|Wyrok|78|https://www.saos.org.pl/judgments/85992
+494962|2023-12-29|SO|I AGa 225/22|Wyrok|56|https://www.saos.org.pl/judgments/494962
+3544|2012-12-12|SO|I ACa 605/12|Wyrok|56|https://www.saos.org.pl/judgments/3544
+127291|2014-12-23|SO|VI Ga 349/14|Wyrok|40|https://www.saos.org.pl/judgments/127291

@@ -1,14 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-508680|2024-04-05|SO|IV P 139/23|Wyrok|https://www.saos.org.pl/judgments/508680
-483102|2023-01-17|SO|VII Pa 69/22|Wyrok|https://www.saos.org.pl/judgments/483102
-454896|2021-11-18|SO|IV P 174/21|Wyrok|https://www.saos.org.pl/judgments/454896
-436344|2021-03-19|SO|IX P 560/18|Zarządzenie|https://www.saos.org.pl/judgments/436344
-401159|2020-01-03|SO|VIII Pa 143/19|Uzasadnienie|https://www.saos.org.pl/judgments/401159
-401614|2019-10-18|SO|VI P 202/18|Wyrok|https://www.saos.org.pl/judgments/401614
-371083|2018-11-14|SO|III Pa 25/18|Wyrok|https://www.saos.org.pl/judgments/371083
-346290|2018-06-27|SO|IV P 17/18|Wyrok|https://www.saos.org.pl/judgments/346290
-218631|2016-04-05|SO|IV P 150/15|Wyrok|https://www.saos.org.pl/judgments/218631
-542751|2015-08-27|SO|V Pa 83/15|Wyrok|https://www.saos.org.pl/judgments/542751
-169877|2015-06-18|SO|IX Pa 38/15|Wyrok|https://www.saos.org.pl/judgments/169877
-81731|2002-12-05|SN|I PK 33/02|Wyrok|https://www.saos.org.pl/judgments/81731
-78361|1998-06-03|SN|I PKN 164/98|Wyrok|https://www.saos.org.pl/judgments/78361
+saos_id|date|court|case_number|type|score|saos_url
+81731|2002-12-05|SN|I PK 33/02|Wyrok|78|https://www.saos.org.pl/judgments/81731
+78361|1998-06-03|SN|I PKN 164/98|Wyrok|78|https://www.saos.org.pl/judgments/78361
+483102|2023-01-17|SO|VII Pa 69/22|Wyrok|40|https://www.saos.org.pl/judgments/483102
+401159|2020-01-03|SO|VIII Pa 143/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/401159

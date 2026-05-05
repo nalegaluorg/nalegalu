@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-71473|2014-11-05|SO|III AUa 421/14|Wyrok|https://www.saos.org.pl/judgments/71473
-4796|2013-01-21|SO|VII Pa 180/12|Wyrok|https://www.saos.org.pl/judgments/4796
+saos_id|date|court|case_number|type|score|saos_url
+71473|2014-11-05|SO|III AUa 421/14|Wyrok|56|https://www.saos.org.pl/judgments/71473

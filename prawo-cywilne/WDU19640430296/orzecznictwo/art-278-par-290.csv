@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-489893|2018-06-06|SO|III APa 26/15|Wyrok|https://www.saos.org.pl/judgments/489893
-215928|2016-03-09|SO|I ACa 1282/15|Wyrok|https://www.saos.org.pl/judgments/215928
-156849|2015-04-30|SO|I ACa 1057/14|Wyrok|https://www.saos.org.pl/judgments/156849
-80152|2000-12-06|SN|II UKN 502/00|Wyrok|https://www.saos.org.pl/judgments/80152
+saos_id|date|court|case_number|type|score|saos_url
+80152|2000-12-06|SN|II UKN 502/00|Wyrok|78|https://www.saos.org.pl/judgments/80152
+489893|2018-06-06|SO|III APa 26/15|Wyrok|56|https://www.saos.org.pl/judgments/489893
+215928|2016-03-09|SO|I ACa 1282/15|Wyrok|56|https://www.saos.org.pl/judgments/215928
+156849|2015-04-30|SO|I ACa 1057/14|Wyrok|56|https://www.saos.org.pl/judgments/156849

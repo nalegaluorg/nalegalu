@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-416374|2020-07-01|SO|XII 1Co 2290/19|Postanowienie|https://www.saos.org.pl/judgments/416374
-134446|2014-07-29|SO|III Cz 887/14|Postanowienie|https://www.saos.org.pl/judgments/134446
-275608|2014-03-19|SO|II Cz 319/14|Postanowienie|https://www.saos.org.pl/judgments/275608
-39451|2014-03-19|SO|II Cz 319/14|Postanowienie|https://www.saos.org.pl/judgments/39451
-49156|2013-12-09|SO|II Cz 715/13|Postanowienie|https://www.saos.org.pl/judgments/49156
-101838|2013-05-22|SN|III CZP 28/13|Uchwała|https://www.saos.org.pl/judgments/101838
+saos_id|date|court|case_number|type|score|saos_url
+101838|2013-05-22|SN|III CZP 28/13|Uchwała|89|https://www.saos.org.pl/judgments/101838

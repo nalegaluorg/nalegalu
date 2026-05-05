@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-345594|2018-03-21|SO|XXV C 429/16|Wyrok|https://www.saos.org.pl/judgments/345594
-295587|2017-06-14|SO|I Ca 191/17|Wyrok|https://www.saos.org.pl/judgments/295587
-44127|2014-04-16|SO|X GC 635/11|Uzasadnienie|https://www.saos.org.pl/judgments/44127
-111640|2013-05-22|TK|P 46/11|Wyrok|https://www.saos.org.pl/judgments/111640
-7222|2012-11-14|SO|VI ACa 803/12|Wyrok|https://www.saos.org.pl/judgments/7222
+saos_id|date|court|case_number|type|score|saos_url
+111640|2013-05-22|TK|P 46/11|Wyrok|98|https://www.saos.org.pl/judgments/111640
+7222|2012-11-14|SO|VI ACa 803/12|Wyrok|56|https://www.saos.org.pl/judgments/7222
+44127|2014-04-16|SO|X GC 635/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/44127

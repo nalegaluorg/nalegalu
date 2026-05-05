@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-493693|2024-04-04|SO|I ACa 1539/22|Wyrok|https://www.saos.org.pl/judgments/493693
-350843|2018-04-27|SO|III Ca 501/17|Uzasadnienie|https://www.saos.org.pl/judgments/350843
-74585|2014-07-03|SO|I ACa 596/14|Wyrok|https://www.saos.org.pl/judgments/74585
-21654|2013-05-10|SO|VI ACa 1119/12|Wyrok|https://www.saos.org.pl/judgments/21654
-81607|2002-10-02|SN|I PKN 549/01|Wyrok|https://www.saos.org.pl/judgments/81607
+saos_id|date|court|case_number|type|score|saos_url
+81607|2002-10-02|SN|I PKN 549/01|Wyrok|78|https://www.saos.org.pl/judgments/81607
+493693|2024-04-04|SO|I ACa 1539/22|Wyrok|56|https://www.saos.org.pl/judgments/493693
+74585|2014-07-03|SO|I ACa 596/14|Wyrok|56|https://www.saos.org.pl/judgments/74585
+21654|2013-05-10|SO|VI ACa 1119/12|Wyrok|56|https://www.saos.org.pl/judgments/21654
+350843|2018-04-27|SO|III Ca 501/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/350843

@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-169819|2015-07-09|SO|II C 276/15|Uzasadnienie|https://www.saos.org.pl/judgments/169819
+saos_id|date|court|case_number|type|score|saos_url
+244234|2016-01-13|SN|II CSK 186/15|Wyrok|78|https://www.saos.org.pl/judgments/244234
+385108|2019-05-10|SO|V ACa 739/18|Wyrok|56|https://www.saos.org.pl/judgments/385108
+317099|2017-10-23|SO|V ACa 914/17|Wyrok|56|https://www.saos.org.pl/judgments/317099
+283633|2017-01-26|SO|VI ACa 1784/15|Wyrok|56|https://www.saos.org.pl/judgments/283633

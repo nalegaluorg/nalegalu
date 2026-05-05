@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-175918|2015-07-01|SO|II Cz 181/15|Postanowienie|https://www.saos.org.pl/judgments/175918
-7473|2013-03-18|SO|V ACz 168/13|Postanowienie|https://www.saos.org.pl/judgments/7473
+saos_id|date|court|case_number|type|score|saos_url
+7473|2013-03-18|SO|V ACz 168/13|Postanowienie|47|https://www.saos.org.pl/judgments/7473

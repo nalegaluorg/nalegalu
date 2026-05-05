@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-358195|2018-04-20|SO|XX GC 223/15|Wyrok|https://www.saos.org.pl/judgments/358195
-358194|2018-04-09|SO|XX GC 173/17|Wyrok|https://www.saos.org.pl/judgments/358194
-96361|2011-11-25|SN|III CZP 64/11|Uchwała|https://www.saos.org.pl/judgments/96361
+saos_id|date|court|case_number|type|score|saos_url
+96361|2011-11-25|SN|III CZP 64/11|Uchwała|89|https://www.saos.org.pl/judgments/96361

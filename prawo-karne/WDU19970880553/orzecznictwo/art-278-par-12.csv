@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-295249|2017-04-20|SO|VI Ka 1062/16|Wyrok|https://www.saos.org.pl/judgments/295249
-220230|2016-02-25|SO|IV Kow 1859/15|Postanowienie|https://www.saos.org.pl/judgments/220230
-219897|2016-02-25|SO|IV Kow 1718/15|Postanowienie|https://www.saos.org.pl/judgments/219897
-219893|2016-01-13|SO|IV Kow 1679/15|Postanowienie|https://www.saos.org.pl/judgments/219893
-147626|2014-05-20|SO|II AKa 66/14|Wyrok|https://www.saos.org.pl/judgments/147626
+saos_id|date|court|case_number|type|score|saos_url
+147626|2014-05-20|SO|II AKa 66/14|Wyrok|56|https://www.saos.org.pl/judgments/147626

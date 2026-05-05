@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-165246|2010-03-12|SN|II PK 281/09|Wyrok|https://www.saos.org.pl/judgments/165246
-84461|2006-07-18|SN|I PK 40/06|Wyrok|https://www.saos.org.pl/judgments/84461
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
-80293|2001-02-02|SN|I PKN 233/00|Wyrok|https://www.saos.org.pl/judgments/80293
-79800|2000-06-29|SN|I PKN 718/99|Wyrok|https://www.saos.org.pl/judgments/79800
-79421|1999-12-07|SN|I PKN 427/99|Postanowienie|https://www.saos.org.pl/judgments/79421
+saos_id|date|court|case_number|type|score|saos_url
+165246|2010-03-12|SN|II PK 281/09|Wyrok|78|https://www.saos.org.pl/judgments/165246
+84461|2006-07-18|SN|I PK 40/06|Wyrok|78|https://www.saos.org.pl/judgments/84461
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275
+80293|2001-02-02|SN|I PKN 233/00|Wyrok|78|https://www.saos.org.pl/judgments/80293
+79800|2000-06-29|SN|I PKN 718/99|Wyrok|78|https://www.saos.org.pl/judgments/79800
+79421|1999-12-07|SN|I PKN 427/99|Postanowienie|69|https://www.saos.org.pl/judgments/79421

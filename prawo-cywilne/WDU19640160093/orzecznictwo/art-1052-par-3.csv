@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-536492|2024-06-25|SO|III Ca 741/22|Uzasadnienie|https://www.saos.org.pl/judgments/536492
-434995|2020-03-03|SO|I Ns 112/16|Postanowienie|https://www.saos.org.pl/judgments/434995
-404948|2019-12-12|SO|V ACa 834/17|Wyrok|https://www.saos.org.pl/judgments/404948
-387320|2019-03-06|SO|III Ca 1554/18|Uzasadnienie|https://www.saos.org.pl/judgments/387320
-351429|2018-06-13|SO|III Ca 353/18|Wyrok|https://www.saos.org.pl/judgments/351429
-313074|2017-06-05|SO|I ACa 72/17|Wyrok|https://www.saos.org.pl/judgments/313074
-253359|2016-10-25|SO|VI Ca 738/16|Wyrok|https://www.saos.org.pl/judgments/253359
-230962|2016-05-18|SO|V ACa 783/15|Wyrok|https://www.saos.org.pl/judgments/230962
-185334|2015-11-10|SO|III Ca 601/15|Postanowienie|https://www.saos.org.pl/judgments/185334
-285187|2015-10-12|SO|I Ns 1484/13|Uzasadnienie|https://www.saos.org.pl/judgments/285187
-172253|2015-06-25|SO|XIII Ns 2020/13|Postanowienie|https://www.saos.org.pl/judgments/172253
-182788|2015-06-03|SO|I Ca 69/15|Postanowienie|https://www.saos.org.pl/judgments/182788
-125278|2014-11-06|SO|II Ca 392/14|Postanowienie|https://www.saos.org.pl/judgments/125278
-60183|2014-08-07|SO|I ACa 128/14|Wyrok|https://www.saos.org.pl/judgments/60183
-59370|2014-06-13|SO|II Ca 1031/12|Postanowienie|https://www.saos.org.pl/judgments/59370
-46025|2014-04-10|SO|II Ca 820/13|Postanowienie|https://www.saos.org.pl/judgments/46025
-2980|2012-01-26|SO|I ACa 1485/11|Wyrok|https://www.saos.org.pl/judgments/2980
+saos_id|date|court|case_number|type|score|saos_url
+404948|2019-12-12|SO|V ACa 834/17|Wyrok|56|https://www.saos.org.pl/judgments/404948
+313074|2017-06-05|SO|I ACa 72/17|Wyrok|56|https://www.saos.org.pl/judgments/313074
+230962|2016-05-18|SO|V ACa 783/15|Wyrok|56|https://www.saos.org.pl/judgments/230962
+60183|2014-08-07|SO|I ACa 128/14|Wyrok|56|https://www.saos.org.pl/judgments/60183
+2980|2012-01-26|SO|I ACa 1485/11|Wyrok|56|https://www.saos.org.pl/judgments/2980
+253359|2016-10-25|SO|VI Ca 738/16|Wyrok|40|https://www.saos.org.pl/judgments/253359
+536492|2024-06-25|SO|III Ca 741/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/536492
+387320|2019-03-06|SO|III Ca 1554/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/387320

@@ -1,8 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-253159|2016-10-06|SO|VIII C 3456/15|Wyrok|https://www.saos.org.pl/judgments/253159
-224701|2016-04-20|SO|VIII C 3532/15|Wyrok|https://www.saos.org.pl/judgments/224701
-197531|2015-12-02|SO|VIII C 2533/15|Wyrok|https://www.saos.org.pl/judgments/197531
-188454|2015-10-16|SO|VIII C 1314/15|Wyrok|https://www.saos.org.pl/judgments/188454
-189401|2015-08-04|SO|XVI GC 285/14|Wyrok|https://www.saos.org.pl/judgments/189401
-319884|2014-08-07|SO|II Ca 1308/13|Wyrok|https://www.saos.org.pl/judgments/319884
-134435|2014-04-15|SO|III Cz 307/14|Postanowienie|https://www.saos.org.pl/judgments/134435
+saos_id|date|court|case_number|type|score|saos_url
+253159|2016-10-06|SO|VIII C 3456/15|Wyrok|40|https://www.saos.org.pl/judgments/253159
+224701|2016-04-20|SO|VIII C 3532/15|Wyrok|40|https://www.saos.org.pl/judgments/224701
+197531|2015-12-02|SO|VIII C 2533/15|Wyrok|40|https://www.saos.org.pl/judgments/197531
+188454|2015-10-16|SO|VIII C 1314/15|Wyrok|40|https://www.saos.org.pl/judgments/188454

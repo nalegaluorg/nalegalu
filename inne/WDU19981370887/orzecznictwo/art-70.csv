@@ -1,14 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-532955|2024-12-13|SO|IV U 47/24|Wyrok|https://www.saos.org.pl/judgments/532955
-508962|2024-03-22|SO|IV U 11/24|Wyrok|https://www.saos.org.pl/judgments/508962
-481844|2023-01-02|SO|VIII U 1622/22|Uzasadnienie|https://www.saos.org.pl/judgments/481844
-335521|2018-03-22|SO|VIII U 2107/17|Zarządzenie|https://www.saos.org.pl/judgments/335521
-282864|2017-03-30|SO|III AUa 1644/16|Wyrok|https://www.saos.org.pl/judgments/282864
-203525|2015-12-22|SO|VI U 1368/15|Wyrok|https://www.saos.org.pl/judgments/203525
-187940|2015-10-29|SO|VI U 201/15|Wyrok|https://www.saos.org.pl/judgments/187940
-148804|2015-01-27|SO|III AUa 385/14|Wyrok|https://www.saos.org.pl/judgments/148804
-59392|2014-08-27|SO|VI U 772/14|Wyrok|https://www.saos.org.pl/judgments/59392
-38646|2014-02-26|SO|VI U 750/13|Wyrok|https://www.saos.org.pl/judgments/38646
-443|2012-10-10|SO|III AUa 403/12|Wyrok|https://www.saos.org.pl/judgments/443
-5806|2012-09-20|SO|I ACa 200/12|Wyrok|https://www.saos.org.pl/judgments/5806
-1606|2012-08-09|SO|III AUa 698/12|Wyrok|https://www.saos.org.pl/judgments/1606
+saos_id|date|court|case_number|type|score|saos_url
+282864|2017-03-30|SO|III AUa 1644/16|Wyrok|56|https://www.saos.org.pl/judgments/282864
+148804|2015-01-27|SO|III AUa 385/14|Wyrok|56|https://www.saos.org.pl/judgments/148804
+443|2012-10-10|SO|III AUa 403/12|Wyrok|56|https://www.saos.org.pl/judgments/443
+5806|2012-09-20|SO|I ACa 200/12|Wyrok|56|https://www.saos.org.pl/judgments/5806
+1606|2012-08-09|SO|III AUa 698/12|Wyrok|56|https://www.saos.org.pl/judgments/1606
+481844|2023-01-02|SO|VIII U 1622/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/481844
+335521|2018-03-22|SO|VIII U 2107/17|Zarządzenie|27|https://www.saos.org.pl/judgments/335521

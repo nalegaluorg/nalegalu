@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-203009|2015-12-11|SO|II Ka 268/15|Wyrok|https://www.saos.org.pl/judgments/203009
-97043|2012-02-02|SN|II KK 5/12|Wyrok|https://www.saos.org.pl/judgments/97043
+saos_id|date|court|case_number|type|score|saos_url
+97043|2012-02-02|SN|II KK 5/12|Wyrok|78|https://www.saos.org.pl/judgments/97043

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-359982|2018-05-14|SO|III RNs 412/17|Postanowienie|https://www.saos.org.pl/judgments/359982
-347188|2018-02-08|SO|III RC 298/17|Wyrok|https://www.saos.org.pl/judgments/347188
-217584|2016-03-24|SO|VII Pa 254/15|Uzasadnienie|https://www.saos.org.pl/judgments/217584
+saos_id|date|court|case_number|type|score|saos_url
+217584|2016-03-24|SO|VII Pa 254/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/217584

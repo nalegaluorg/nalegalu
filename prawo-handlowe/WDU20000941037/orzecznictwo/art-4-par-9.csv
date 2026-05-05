@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-413994|2019-02-21|SO|V AGa 454/18|Wyrok|https://www.saos.org.pl/judgments/413994
+saos_id|date|court|case_number|type|score|saos_url
+413994|2019-02-21|SO|V AGa 454/18|Wyrok|56|https://www.saos.org.pl/judgments/413994

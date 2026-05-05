@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-129676|2015-01-30|SO|IV U 458/14|Wyrok|https://www.saos.org.pl/judgments/129676
-65929|2014-10-15|SO|IV U 344/14|Wyrok|https://www.saos.org.pl/judgments/65929
-51262|2014-06-10|SO|III AUa 1190/13|Wyrok|https://www.saos.org.pl/judgments/51262
-35345|2013-06-27|SO|III AUa 131/13|Wyrok|https://www.saos.org.pl/judgments/35345
+saos_id|date|court|case_number|type|score|saos_url
+51262|2014-06-10|SO|III AUa 1190/13|Wyrok|56|https://www.saos.org.pl/judgments/51262
+35345|2013-06-27|SO|III AUa 131/13|Wyrok|56|https://www.saos.org.pl/judgments/35345

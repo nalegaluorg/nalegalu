@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-261417|2016-12-09|SO|III Ca 1211/16|Uzasadnienie|https://www.saos.org.pl/judgments/261417
-36772|2013-12-10|SO|II Cz 1303/13|Postanowienie|https://www.saos.org.pl/judgments/36772
-155686|2013-09-13|SO|II Ca 1021/13|Postanowienie|https://www.saos.org.pl/judgments/155686
+saos_id|date|court|case_number|type|score|saos_url
+261417|2016-12-09|SO|III Ca 1211/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/261417

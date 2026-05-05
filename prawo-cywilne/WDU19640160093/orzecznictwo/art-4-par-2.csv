@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-420856|2018-11-14|SO|III AUa 2245/17|Wyrok|https://www.saos.org.pl/judgments/420856
-197516|2015-12-11|SO|VIII C 1123/15|Wyrok|https://www.saos.org.pl/judgments/197516
-419805|2015-01-21|SO|I ACa 1001/14|Wyrok|https://www.saos.org.pl/judgments/419805
-138533|2012-12-13|SO|I C 1089/12|Wyrok|https://www.saos.org.pl/judgments/138533
+saos_id|date|court|case_number|type|score|saos_url
+420856|2018-11-14|SO|III AUa 2245/17|Wyrok|56|https://www.saos.org.pl/judgments/420856
+419805|2015-01-21|SO|I ACa 1001/14|Wyrok|56|https://www.saos.org.pl/judgments/419805
+197516|2015-12-11|SO|VIII C 1123/15|Wyrok|40|https://www.saos.org.pl/judgments/197516

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-503811|2024-08-16|SO|II Ka 181/24|Wyrok|https://www.saos.org.pl/judgments/503811
-449570|2021-10-28|SO|VI Ka 493/20|Uzasadnienie|https://www.saos.org.pl/judgments/449570
+saos_id|date|court|case_number|type|score|saos_url
+449570|2021-10-28|SO|VI Ka 493/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/449570

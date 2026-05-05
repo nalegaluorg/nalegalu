@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-236221|2016-04-21|SO|I ACa 683/15|Wyrok|https://www.saos.org.pl/judgments/236221
-175693|2015-05-07|SO|I ACa 703/14|Wyrok|https://www.saos.org.pl/judgments/175693
-74618|2014-11-06|SO|III Ca 711/14|Uzasadnienie|https://www.saos.org.pl/judgments/74618
-32353|2013-10-24|SO|I ACa 575/13|Wyrok|https://www.saos.org.pl/judgments/32353
+saos_id|date|court|case_number|type|score|saos_url
+236221|2016-04-21|SO|I ACa 683/15|Wyrok|56|https://www.saos.org.pl/judgments/236221
+175693|2015-05-07|SO|I ACa 703/14|Wyrok|56|https://www.saos.org.pl/judgments/175693
+32353|2013-10-24|SO|I ACa 575/13|Wyrok|56|https://www.saos.org.pl/judgments/32353
+74618|2014-11-06|SO|III Ca 711/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74618

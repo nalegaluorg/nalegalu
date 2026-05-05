@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-334768|2017-10-19|SO|I ACa 275/17|Wyrok|https://www.saos.org.pl/judgments/334768
-273606|2016-12-16|SO|I ACa 970/16|Wyrok|https://www.saos.org.pl/judgments/273606
-268033|2016-12-06|SO|I C 196/16|Uzasadnienie|https://www.saos.org.pl/judgments/268033
-192835|2015-11-27|SO|VIII Ga 360/15|Wyrok|https://www.saos.org.pl/judgments/192835
-192088|2015-10-06|SO|I ACa 857/15|Wyrok|https://www.saos.org.pl/judgments/192088
-182549|2015-09-30|SO|I C 714/15|Wyrok|https://www.saos.org.pl/judgments/182549
-44868|2013-11-12|SO|II Ca 166/13|Uzasadnienie|https://www.saos.org.pl/judgments/44868
+saos_id|date|court|case_number|type|score|saos_url
+334768|2017-10-19|SO|I ACa 275/17|Wyrok|56|https://www.saos.org.pl/judgments/334768
+273606|2016-12-16|SO|I ACa 970/16|Wyrok|56|https://www.saos.org.pl/judgments/273606
+192088|2015-10-06|SO|I ACa 857/15|Wyrok|56|https://www.saos.org.pl/judgments/192088

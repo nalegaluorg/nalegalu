@@ -1,19 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-522816|2024-06-20|SO|I Ns 36/23|Postanowienie|https://www.saos.org.pl/judgments/522816
-482804|2023-01-11|SO|IV P 17/20|Wyrok|https://www.saos.org.pl/judgments/482804
-468013|2022-06-17|SO|I C 2461/21|Uzasadnienie|https://www.saos.org.pl/judgments/468013
-471082|2022-06-02|SO|XIV C 292/19|Wyrok|https://www.saos.org.pl/judgments/471082
-412275|2020-03-20|SO|I C 1526/17|Wyrok|https://www.saos.org.pl/judgments/412275
-240204|2016-08-10|SO|VIII P 1/16|Zarządzenie|https://www.saos.org.pl/judgments/240204
-213812|2016-03-02|SO|I Ns 625/13|Postanowienie|https://www.saos.org.pl/judgments/213812
-158632|2015-04-14|SO|I ACa 127/15|Wyrok|https://www.saos.org.pl/judgments/158632
-168318|2015-02-19|SN|III KO 104/14|Postanowienie|https://www.saos.org.pl/judgments/168318
-155044|2015-01-21|SO|I C 982/14|Zarządzenie|https://www.saos.org.pl/judgments/155044
-127260|2015-01-07|SO|II Kp 458/14|Postanowienie|https://www.saos.org.pl/judgments/127260
-76034|2014-05-15|SO|I ACa 340/14|Wyrok|https://www.saos.org.pl/judgments/76034
-42150|2014-03-28|SO|II Ka 58/14|Wyrok|https://www.saos.org.pl/judgments/42150
-22528|2013-07-25|SO|III Kp 1019/13|Postanowienie|https://www.saos.org.pl/judgments/22528
-137920|2013-03-28|SO|II AKa 562/12|Wyrok|https://www.saos.org.pl/judgments/137920
-6363|2012-11-22|SO|I ACa 1059/12|Wyrok|https://www.saos.org.pl/judgments/6363
-81359|2002-04-23|SN|I KZP 7/02|Uchwała|https://www.saos.org.pl/judgments/81359
-105509|2000-12-06|TK|SK 24/99|Postanowienie|https://www.saos.org.pl/judgments/105509
+saos_id|date|court|case_number|type|score|saos_url
+81359|2002-04-23|SN|I KZP 7/02|Uchwała|89|https://www.saos.org.pl/judgments/81359
+105509|2000-12-06|TK|SK 24/99|Postanowienie|80|https://www.saos.org.pl/judgments/105509
+168318|2015-02-19|SN|III KO 104/14|Postanowienie|69|https://www.saos.org.pl/judgments/168318
+158632|2015-04-14|SO|I ACa 127/15|Wyrok|56|https://www.saos.org.pl/judgments/158632
+76034|2014-05-15|SO|I ACa 340/14|Wyrok|56|https://www.saos.org.pl/judgments/76034
+137920|2013-03-28|SO|II AKa 562/12|Wyrok|56|https://www.saos.org.pl/judgments/137920
+6363|2012-11-22|SO|I ACa 1059/12|Wyrok|56|https://www.saos.org.pl/judgments/6363
+471082|2022-06-02|SO|XIV C 292/19|Wyrok|40|https://www.saos.org.pl/judgments/471082
+240204|2016-08-10|SO|VIII P 1/16|Zarządzenie|27|https://www.saos.org.pl/judgments/240204

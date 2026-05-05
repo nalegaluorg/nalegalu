@@ -1,24 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-539836|2025-12-29|SO|I Co 2579/25|Postanowienie|https://www.saos.org.pl/judgments/539836
-536741|2025-09-09|SO|I Co 1861/25|Postanowienie|https://www.saos.org.pl/judgments/536741
-534395|2025-07-18|SO|VIII GC 77/25|Wyrok|https://www.saos.org.pl/judgments/534395
-527632|2025-05-28|SO|XII 1Co 185/25|Postanowienie|https://www.saos.org.pl/judgments/527632
-527703|2025-05-23|SO|I C 1347/24|Wyrok|https://www.saos.org.pl/judgments/527703
-528309|2025-04-03|SO|I C 85/23|Wyrok|https://www.saos.org.pl/judgments/528309
-524223|2025-03-19|SO|XII 1Co 1645/24|Postanowienie|https://www.saos.org.pl/judgments/524223
-520474|2025-01-22|SO|I Co 2683/24|Postanowienie|https://www.saos.org.pl/judgments/520474
-514522|2024-10-15|SO|XII 1Co 1136/24|Postanowienie|https://www.saos.org.pl/judgments/514522
-514530|2024-09-23|SO|XII 1Co 359/24|Postanowienie|https://www.saos.org.pl/judgments/514530
-514526|2024-06-03|SO|XII 1Co 2036/23|Postanowienie|https://www.saos.org.pl/judgments/514526
-504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|https://www.saos.org.pl/judgments/504587
-533904|2024-05-21|SO|III Ca 968/22|Uzasadnienie|https://www.saos.org.pl/judgments/533904
-507609|2024-04-30|SO|IV Cz 91/24|Postanowienie|https://www.saos.org.pl/judgments/507609
-497239|2023-09-06|SO|I C 272/23|Wyrok|https://www.saos.org.pl/judgments/497239
-489535|2023-02-22|SO|XXV C 3830/20|Wyrok|https://www.saos.org.pl/judgments/489535
-477880|2022-08-31|SO|II Co 2779/22|Postanowienie|https://www.saos.org.pl/judgments/477880
-488403|2022-07-25|SO|X GC 174/22|Zarządzenie|https://www.saos.org.pl/judgments/488403
-463964|2022-02-17|SO|I Co 131/22|Postanowienie|https://www.saos.org.pl/judgments/463964
-486973|2022-01-20|SO|I ACa 801/21|Wyrok|https://www.saos.org.pl/judgments/486973
-490705|2021-12-14|SO|I C 48/21|Wyrok|https://www.saos.org.pl/judgments/490705
-445520|2021-09-02|SO|XII Co 2101/21|Postanowienie|https://www.saos.org.pl/judgments/445520
-426536|2020-11-27|SO|II Co 767/20|Postanowienie|https://www.saos.org.pl/judgments/426536
+saos_id|date|court|case_number|type|score|saos_url
+486973|2022-01-20|SO|I ACa 801/21|Wyrok|56|https://www.saos.org.pl/judgments/486973
+504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|31|https://www.saos.org.pl/judgments/504587
+426536|2020-11-27|SO|II Co 767/20|Postanowienie|31|https://www.saos.org.pl/judgments/426536
+533904|2024-05-21|SO|III Ca 968/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/533904
+488403|2022-07-25|SO|X GC 174/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488403

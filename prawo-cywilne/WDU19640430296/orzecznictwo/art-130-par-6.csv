@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-274888|2017-02-22|SO|VIII Ga 2/17|Uzasadnienie|https://www.saos.org.pl/judgments/274888
-271825|2017-02-08|SO|VIII Ga 246/16|Uzasadnienie|https://www.saos.org.pl/judgments/271825
-22579|2013-09-05|SO|I ACa 537/13|Wyrok|https://www.saos.org.pl/judgments/22579
+saos_id|date|court|case_number|type|score|saos_url
+22579|2013-09-05|SO|I ACa 537/13|Wyrok|56|https://www.saos.org.pl/judgments/22579

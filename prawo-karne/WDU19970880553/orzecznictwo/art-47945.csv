@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-368784|2018-11-28|SO|VII AGa 1544/18|Wyrok|https://www.saos.org.pl/judgments/368784
-324527|2017-12-18|SO|XVII AmA 7/14|Wyrok|https://www.saos.org.pl/judgments/324527
-319423|2017-12-06|SO|XVII AmA 3/14|Wyrok|https://www.saos.org.pl/judgments/319423
-315819|2017-10-24|SO|XVII AmA 69/15|Wyrok|https://www.saos.org.pl/judgments/315819
-350966|2017-09-07|SO|VI ACa 257/14|Wyrok|https://www.saos.org.pl/judgments/350966
-301030|2017-08-03|SO|XVII AmA 19/14|Wyrok|https://www.saos.org.pl/judgments/301030
-282484|2017-04-05|SO|XVII AmA 117/13|Wyrok|https://www.saos.org.pl/judgments/282484
-72299|2014-10-07|SO|VI ACa 1855/13|Wyrok|https://www.saos.org.pl/judgments/72299
-382395|2013-11-19|SO|XVII AmA 34/12|Wyrok|https://www.saos.org.pl/judgments/382395
-382610|2013-10-15|SO|XVII AmA 177/11|Wyrok|https://www.saos.org.pl/judgments/382610
-381275|2013-10-15|SO|XVII AmA 94/11|Wyrok|https://www.saos.org.pl/judgments/381275
-287315|2013-10-15|SO|XVII AmA 8/12|Wyrok|https://www.saos.org.pl/judgments/287315
-226989|2013-08-13|SO|XVII AmA 53/11|Wyrok|https://www.saos.org.pl/judgments/226989
+saos_id|date|court|case_number|type|score|saos_url
+368784|2018-11-28|SO|VII AGa 1544/18|Wyrok|56|https://www.saos.org.pl/judgments/368784
+350966|2017-09-07|SO|VI ACa 257/14|Wyrok|56|https://www.saos.org.pl/judgments/350966
+72299|2014-10-07|SO|VI ACa 1855/13|Wyrok|56|https://www.saos.org.pl/judgments/72299

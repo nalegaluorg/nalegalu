@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-334363|2018-02-15|SO|I C 1306/17|Wyrok|https://www.saos.org.pl/judgments/334363
-326907|2017-12-18|SO|X GC 321/14|Uzasadnienie|https://www.saos.org.pl/judgments/326907
-304865|2017-08-04|SO|I Ca 279/17|Wyrok|https://www.saos.org.pl/judgments/304865
+saos_id|date|court|case_number|type|score|saos_url
+326907|2017-12-18|SO|X GC 321/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/326907

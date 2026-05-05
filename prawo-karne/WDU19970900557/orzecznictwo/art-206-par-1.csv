@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-491660|2023-07-10|SO|II AKzw 749/23|Postanowienie|https://www.saos.org.pl/judgments/491660
-392666|2019-04-10|SO|XI W 6015/18|Wyrok|https://www.saos.org.pl/judgments/392666
-367034|2018-11-30|SO|VII Kzw 716/18|Postanowienie|https://www.saos.org.pl/judgments/367034
-361102|2018-09-19|SO|IV Ka 487/18|Wyrok|https://www.saos.org.pl/judgments/361102
-109712|2010-11-22|TK|P 28/08|Wyrok|https://www.saos.org.pl/judgments/109712
-85920|2007-05-24|SN|I KZP 12/07|Uchwała|https://www.saos.org.pl/judgments/85920
-84362|2006-06-09|SN|I KZP 12/06|Uchwała|https://www.saos.org.pl/judgments/84362
+saos_id|date|court|case_number|type|score|saos_url
+109712|2010-11-22|TK|P 28/08|Wyrok|98|https://www.saos.org.pl/judgments/109712
+85920|2007-05-24|SN|I KZP 12/07|Uchwała|89|https://www.saos.org.pl/judgments/85920
+84362|2006-06-09|SN|I KZP 12/06|Uchwała|89|https://www.saos.org.pl/judgments/84362
+491660|2023-07-10|SO|II AKzw 749/23|Postanowienie|47|https://www.saos.org.pl/judgments/491660
+367034|2018-11-30|SO|VII Kzw 716/18|Postanowienie|31|https://www.saos.org.pl/judgments/367034

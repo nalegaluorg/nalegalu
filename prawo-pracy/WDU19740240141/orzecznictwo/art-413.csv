@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-312153|2017-09-28|SO|II AKa 192/16|Wyrok|https://www.saos.org.pl/judgments/312153
-308997|2017-07-28|SO|II AKa 27/17|Wyrok|https://www.saos.org.pl/judgments/308997
-139928|2013-07-04|SO|II AKa 161/13|Wyrok|https://www.saos.org.pl/judgments/139928
+saos_id|date|court|case_number|type|score|saos_url
+312153|2017-09-28|SO|II AKa 192/16|Wyrok|56|https://www.saos.org.pl/judgments/312153
+308997|2017-07-28|SO|II AKa 27/17|Wyrok|56|https://www.saos.org.pl/judgments/308997
+139928|2013-07-04|SO|II AKa 161/13|Wyrok|56|https://www.saos.org.pl/judgments/139928

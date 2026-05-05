@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-406044|2020-01-08|SO|I Cz 10/20|Postanowienie|https://www.saos.org.pl/judgments/406044
-395510|2019-10-31|SO|II Cz 775/19|Postanowienie|https://www.saos.org.pl/judgments/395510
-364278|2018-10-12|SO|I ACa 1615/17|Wyrok|https://www.saos.org.pl/judgments/364278
-279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|https://www.saos.org.pl/judgments/279949
-144194|2014-03-11|SO|II Ca 1053/13|Postanowienie|https://www.saos.org.pl/judgments/144194
+saos_id|date|court|case_number|type|score|saos_url
+364278|2018-10-12|SO|I ACa 1615/17|Wyrok|56|https://www.saos.org.pl/judgments/364278
+279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|31|https://www.saos.org.pl/judgments/279949

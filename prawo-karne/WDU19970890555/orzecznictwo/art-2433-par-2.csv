@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99772|2012-11-20|SN|V KK 106/12|Postanowienie|https://www.saos.org.pl/judgments/99772
+saos_id|date|court|case_number|type|score|saos_url
+99772|2012-11-20|SN|V KK 106/12|Postanowienie|69|https://www.saos.org.pl/judgments/99772

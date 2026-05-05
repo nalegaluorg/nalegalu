@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-9206|2012-12-12|SO|VI ACa 755/12|Wyrok|https://www.saos.org.pl/judgments/9206
+saos_id|date|court|case_number|type|score|saos_url
+9206|2012-12-12|SO|VI ACa 755/12|Wyrok|56|https://www.saos.org.pl/judgments/9206

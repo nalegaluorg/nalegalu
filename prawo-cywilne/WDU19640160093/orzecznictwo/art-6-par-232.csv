@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-534532|2025-04-30|SO|VIII P 9/23|Uzasadnienie|https://www.saos.org.pl/judgments/534532
-207462|2015-06-02|SO|IV P 151/14|Wyrok|https://www.saos.org.pl/judgments/207462
+saos_id|date|court|case_number|type|score|saos_url
+534532|2025-04-30|SO|VIII P 9/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/534532

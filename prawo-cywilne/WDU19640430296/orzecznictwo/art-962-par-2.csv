@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-124897|2014-12-23|SO|II Cz 541/14|Postanowienie|https://www.saos.org.pl/judgments/124897
-54956|2014-07-11|SO|IV Cz 409/14|Postanowienie|https://www.saos.org.pl/judgments/54956
-83389|2005-05-05|SN|IV CK 4/05|Postanowienie|https://www.saos.org.pl/judgments/83389
+saos_id|date|court|case_number|type|score|saos_url
+83389|2005-05-05|SN|IV CK 4/05|Postanowienie|69|https://www.saos.org.pl/judgments/83389

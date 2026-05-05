@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-480866|2022-11-10|SO|XVII AmA 58/21|Wyrok|https://www.saos.org.pl/judgments/480866
-434570|2021-02-25|SO|I C 862/20|Wyrok|https://www.saos.org.pl/judgments/434570
-403205|2019-12-12|SO|IV U 392/19|Wyrok|https://www.saos.org.pl/judgments/403205
-281252|2017-01-16|SO|VIII U 1651/16|Wyrok|https://www.saos.org.pl/judgments/281252
-18409|2013-07-31|SO|I ACa 243/13|Wyrok|https://www.saos.org.pl/judgments/18409
+saos_id|date|court|case_number|type|score|saos_url
+18409|2013-07-31|SO|I ACa 243/13|Wyrok|56|https://www.saos.org.pl/judgments/18409

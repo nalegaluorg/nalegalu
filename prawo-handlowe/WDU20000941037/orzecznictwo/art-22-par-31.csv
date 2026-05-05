@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-396749|2019-11-13|SO|XII C 626/19|Wyrok|https://www.saos.org.pl/judgments/396749
-381335|2018-11-28|SO|I ACa 222/18|Wyrok|https://www.saos.org.pl/judgments/381335
-222879|2016-04-07|SO|VI GC 406/14|Wyrok|https://www.saos.org.pl/judgments/222879
-244530|2016-02-12|SN|II CSK 237/15|Wyrok|https://www.saos.org.pl/judgments/244530
-155567|2014-12-05|SO|I ACa 828/14|Wyrok|https://www.saos.org.pl/judgments/155567
-171325|2014-06-03|SO|I C 2/14|Wyrok|https://www.saos.org.pl/judgments/171325
-90808|2009-09-04|SN|III CZP 52/09|Uchwała|https://www.saos.org.pl/judgments/90808
+saos_id|date|court|case_number|type|score|saos_url
+90808|2009-09-04|SN|III CZP 52/09|Uchwała|89|https://www.saos.org.pl/judgments/90808
+244530|2016-02-12|SN|II CSK 237/15|Wyrok|78|https://www.saos.org.pl/judgments/244530
+381335|2018-11-28|SO|I ACa 222/18|Wyrok|56|https://www.saos.org.pl/judgments/381335
+155567|2014-12-05|SO|I ACa 828/14|Wyrok|56|https://www.saos.org.pl/judgments/155567
+396749|2019-11-13|SO|XII C 626/19|Wyrok|40|https://www.saos.org.pl/judgments/396749
+222879|2016-04-07|SO|VI GC 406/14|Wyrok|40|https://www.saos.org.pl/judgments/222879

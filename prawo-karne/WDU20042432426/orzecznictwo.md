@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 8 października 2004 r. o zmianie ustawy
 
 ## art. 49 (1)
 
-- 2006-05-23 | SN | [I KZP 6/06](https://www.saos.org.pl/judgments/84339) | Uchwała
+- 2006-05-23 | SN | [I KZP 6/06](https://www.saos.org.pl/judgments/84339) | Uchwała ★
 

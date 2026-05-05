@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-485105|2023-03-07|SO|II Ca 1974/22|Postanowienie|https://www.saos.org.pl/judgments/485105
-433697|2020-11-06|SO|XV Ca 161/20|Postanowienie|https://www.saos.org.pl/judgments/433697
-336469|2018-03-08|SO|I ACa 1969/16|Wyrok|https://www.saos.org.pl/judgments/336469
-249185|2016-09-13|SO|II Ca 654/15|Postanowienie|https://www.saos.org.pl/judgments/249185
-256534|2016-05-18|SO|I C 1249/15|Wyrok|https://www.saos.org.pl/judgments/256534
-184166|2015-09-15|SO|III AUa 1417/14|Wyrok|https://www.saos.org.pl/judgments/184166
-172689|2015-08-03|SO|I Ns 234/15|Postanowienie|https://www.saos.org.pl/judgments/172689
-170170|2015-05-12|SO|III AUa 1107/14|Wyrok|https://www.saos.org.pl/judgments/170170
-10047|2013-03-13|SO|III AUa 1337/12|Wyrok|https://www.saos.org.pl/judgments/10047
+saos_id|date|court|case_number|type|score|saos_url
+336469|2018-03-08|SO|I ACa 1969/16|Wyrok|56|https://www.saos.org.pl/judgments/336469
+184166|2015-09-15|SO|III AUa 1417/14|Wyrok|56|https://www.saos.org.pl/judgments/184166
+170170|2015-05-12|SO|III AUa 1107/14|Wyrok|56|https://www.saos.org.pl/judgments/170170
+10047|2013-03-13|SO|III AUa 1337/12|Wyrok|56|https://www.saos.org.pl/judgments/10047
+433697|2020-11-06|SO|XV Ca 161/20|Postanowienie|31|https://www.saos.org.pl/judgments/433697

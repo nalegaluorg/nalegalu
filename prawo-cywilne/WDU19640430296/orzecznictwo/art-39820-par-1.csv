@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-239839|2016-05-12|SO|I ACa 156/16|Wyrok|https://www.saos.org.pl/judgments/239839
-218314|2015-12-17|SO|I ACa 604/15|Wyrok|https://www.saos.org.pl/judgments/218314
-245460|2015-05-07|SN|II CSK 441/14|Wyrok|https://www.saos.org.pl/judgments/245460
-76393|2010-04-16|SN|IV CSK 438/09|Postanowienie|https://www.saos.org.pl/judgments/76393
+saos_id|date|court|case_number|type|score|saos_url
+245460|2015-05-07|SN|II CSK 441/14|Wyrok|78|https://www.saos.org.pl/judgments/245460
+76393|2010-04-16|SN|IV CSK 438/09|Postanowienie|69|https://www.saos.org.pl/judgments/76393
+239839|2016-05-12|SO|I ACa 156/16|Wyrok|56|https://www.saos.org.pl/judgments/239839
+218314|2015-12-17|SO|I ACa 604/15|Wyrok|56|https://www.saos.org.pl/judgments/218314

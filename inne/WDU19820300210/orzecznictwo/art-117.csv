@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-390521|2019-07-26|SO|II W 128/19|Wyrok|https://www.saos.org.pl/judgments/390521
-386341|2019-04-25|SO|II W 1054/17|Wyrok|https://www.saos.org.pl/judgments/386341
-363580|2018-10-23|SO|II W 486/18|Wyrok|https://www.saos.org.pl/judgments/363580
-332115|2018-02-06|SO|II W 750/17|Wyrok|https://www.saos.org.pl/judgments/332115
-348923|2017-05-31|SO|I C 2937/16|Zarządzenie|https://www.saos.org.pl/judgments/348923
-267583|2016-11-10|SO|I ACa 567/16|Wyrok|https://www.saos.org.pl/judgments/267583
+saos_id|date|court|case_number|type|score|saos_url
+267583|2016-11-10|SO|I ACa 567/16|Wyrok|56|https://www.saos.org.pl/judgments/267583
+390521|2019-07-26|SO|II W 128/19|Wyrok|40|https://www.saos.org.pl/judgments/390521
+386341|2019-04-25|SO|II W 1054/17|Wyrok|40|https://www.saos.org.pl/judgments/386341
+363580|2018-10-23|SO|II W 486/18|Wyrok|40|https://www.saos.org.pl/judgments/363580
+332115|2018-02-06|SO|II W 750/17|Wyrok|40|https://www.saos.org.pl/judgments/332115

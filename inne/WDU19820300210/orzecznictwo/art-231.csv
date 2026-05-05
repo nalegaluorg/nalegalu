@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-409668|2020-02-11|SO|I C 116/19|Wyrok|https://www.saos.org.pl/judgments/409668
-280745|2016-12-29|SO|II Ca 1318/16|Postanowienie|https://www.saos.org.pl/judgments/280745
+saos_id|date|court|case_number|type|score|saos_url
+280745|2016-12-29|SO|II Ca 1318/16|Postanowienie|31|https://www.saos.org.pl/judgments/280745

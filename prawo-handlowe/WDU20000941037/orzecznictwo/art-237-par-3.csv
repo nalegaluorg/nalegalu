@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-384673|2018-12-21|SO|XXVI GC 181/17|Wyrok|https://www.saos.org.pl/judgments/384673
-286202|2016-10-27|SO|I ACa 413/16|Wyrok|https://www.saos.org.pl/judgments/286202
-205340|2016-02-18|SO|VIII GC 189/15|Uzasadnienie|https://www.saos.org.pl/judgments/205340
-259104|2015-12-22|SO|IX GC 1139/13|Wyrok|https://www.saos.org.pl/judgments/259104
-189028|2015-11-13|SO|X GC 397/11|Uzasadnienie|https://www.saos.org.pl/judgments/189028
+saos_id|date|court|case_number|type|score|saos_url
+286202|2016-10-27|SO|I ACa 413/16|Wyrok|56|https://www.saos.org.pl/judgments/286202
+259104|2015-12-22|SO|IX GC 1139/13|Wyrok|40|https://www.saos.org.pl/judgments/259104
+189028|2015-11-13|SO|X GC 397/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/189028

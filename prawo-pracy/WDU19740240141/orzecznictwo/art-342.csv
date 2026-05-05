@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-28298|2013-11-22|SO|IV P 102/13|Wyrok|https://www.saos.org.pl/judgments/28298
+saos_id|date|court|case_number|type|score|saos_url
+365644|2018-10-04|SO|V Pa 86/18|Wyrok|40|https://www.saos.org.pl/judgments/365644
+186565|2015-06-23|SO|IV Pa 35/15|Wyrok|40|https://www.saos.org.pl/judgments/186565

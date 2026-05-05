@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-511228|2024-01-15|SO|VI Ka 639/22|Uzasadnienie|https://www.saos.org.pl/judgments/511228
-356777|2018-05-30|SO|VI Ka 1056/17|Wyrok|https://www.saos.org.pl/judgments/356777
+saos_id|date|court|case_number|type|score|saos_url
+356777|2018-05-30|SO|VI Ka 1056/17|Wyrok|40|https://www.saos.org.pl/judgments/356777
+511228|2024-01-15|SO|VI Ka 639/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/511228

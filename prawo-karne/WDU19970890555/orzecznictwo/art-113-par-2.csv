@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-393987|2019-02-06|SO|IV Ka 1699/18|Wyrok|https://www.saos.org.pl/judgments/393987
-101075|2013-03-14|SN|IV KK 390/12|Wyrok|https://www.saos.org.pl/judgments/101075
+saos_id|date|court|case_number|type|score|saos_url
+101075|2013-03-14|SN|IV KK 390/12|Wyrok|78|https://www.saos.org.pl/judgments/101075
+393987|2019-02-06|SO|IV Ka 1699/18|Wyrok|40|https://www.saos.org.pl/judgments/393987

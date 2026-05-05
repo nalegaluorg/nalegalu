@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-435614|2020-11-09|SO|V ACa 145/19|Wyrok|https://www.saos.org.pl/judgments/435614
+saos_id|date|court|case_number|type|score|saos_url
+435614|2020-11-09|SO|V ACa 145/19|Wyrok|56|https://www.saos.org.pl/judgments/435614

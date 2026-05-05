@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309258|2017-06-08|SO|I ACa 79/17|Wyrok|https://www.saos.org.pl/judgments/309258
+saos_id|date|court|case_number|type|score|saos_url
+309258|2017-06-08|SO|I ACa 79/17|Wyrok|56|https://www.saos.org.pl/judgments/309258

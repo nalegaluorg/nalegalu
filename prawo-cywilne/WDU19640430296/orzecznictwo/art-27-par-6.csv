@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-395195|2019-07-25|SO|VI P 78/19|Wyrok|https://www.saos.org.pl/judgments/395195
+saos_id|date|court|case_number|type|score|saos_url
+395195|2019-07-25|SO|VI P 78/19|Wyrok|40|https://www.saos.org.pl/judgments/395195

@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-158778|2014-12-16|SO|III Cz 1604/14|Postanowienie|https://www.saos.org.pl/judgments/158778
-52770|2014-02-10|SO|II Ca 785/13|Postanowienie|https://www.saos.org.pl/judgments/52770
-37484|2013-07-26|SO|II Ca 377/13|Postanowienie|https://www.saos.org.pl/judgments/37484
-135547|2012-09-20|SO|I ACz 850/12|Postanowienie|https://www.saos.org.pl/judgments/135547
-80240|2001-01-12|SN|III CZP 48/00|Uchwała|https://www.saos.org.pl/judgments/80240
+saos_id|date|court|case_number|type|score|saos_url
+80240|2001-01-12|SN|III CZP 48/00|Uchwała|89|https://www.saos.org.pl/judgments/80240
+135547|2012-09-20|SO|I ACz 850/12|Postanowienie|47|https://www.saos.org.pl/judgments/135547

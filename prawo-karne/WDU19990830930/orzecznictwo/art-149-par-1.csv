@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-332447|2018-01-16|SO|V Ka 1127/17|Uzasadnienie|https://www.saos.org.pl/judgments/332447
-315758|2017-09-05|SO|V K 508/17|Wyrok|https://www.saos.org.pl/judgments/315758
-94824|2011-04-21|SN|V KK 59/11|Wyrok|https://www.saos.org.pl/judgments/94824
+saos_id|date|court|case_number|type|score|saos_url
+94824|2011-04-21|SN|V KK 59/11|Wyrok|78|https://www.saos.org.pl/judgments/94824
+332447|2018-01-16|SO|V Ka 1127/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/332447

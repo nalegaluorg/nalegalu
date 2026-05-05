@@ -14,14 +14,14 @@ Orzeczenia powołujące: *Ustawa z dnia 14 czerwca 1991 r. o Krajowej Szkole Adm
 
 ## art. 5 (1)
 
-- 2011-10-18 | TK | [SK 24/09](https://www.saos.org.pl/judgments/110355) | Wyrok
+- 2011-10-18 | TK | [SK 24/09](https://www.saos.org.pl/judgments/110355) | Wyrok ★
 
 ## art. 7 (2)
 
-- 2011-10-18 | TK | [SK 24/09](https://www.saos.org.pl/judgments/110355) | Wyrok
-- 2011-03-09 | TK | [P 15/10](https://www.saos.org.pl/judgments/110305) | Wyrok
+- 2011-10-18 | TK | [SK 24/09](https://www.saos.org.pl/judgments/110355) | Wyrok ★
+- 2011-03-09 | TK | [P 15/10](https://www.saos.org.pl/judgments/110305) | Wyrok ★
 
 ## art. 8 (1)
 
-- 2011-03-09 | TK | [P 15/10](https://www.saos.org.pl/judgments/110305) | Wyrok
+- 2011-03-09 | TK | [P 15/10](https://www.saos.org.pl/judgments/110305) | Wyrok ★
 

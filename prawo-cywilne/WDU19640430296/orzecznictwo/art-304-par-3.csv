@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-154221|2015-04-13|SO|III AUa 1820/14|Wyrok|https://www.saos.org.pl/judgments/154221
-148799|2015-03-05|SO|III AUa 1495/14|Wyrok|https://www.saos.org.pl/judgments/148799
-47359|2014-02-18|SO|V ACa 853/13|Wyrok|https://www.saos.org.pl/judgments/47359
+saos_id|date|court|case_number|type|score|saos_url
+154221|2015-04-13|SO|III AUa 1820/14|Wyrok|56|https://www.saos.org.pl/judgments/154221
+148799|2015-03-05|SO|III AUa 1495/14|Wyrok|56|https://www.saos.org.pl/judgments/148799
+47359|2014-02-18|SO|V ACa 853/13|Wyrok|56|https://www.saos.org.pl/judgments/47359

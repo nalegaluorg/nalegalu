@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-378393|2019-02-06|SO|II Ka 9/19|Wyrok|https://www.saos.org.pl/judgments/378393
-341804|2018-03-06|SO|I ACa 966/17|Wyrok|https://www.saos.org.pl/judgments/341804
-109682|2010-10-19|TK|K 35/09|Wyrok|https://www.saos.org.pl/judgments/109682
+saos_id|date|court|case_number|type|score|saos_url
+109682|2010-10-19|TK|K 35/09|Wyrok|98|https://www.saos.org.pl/judgments/109682
+341804|2018-03-06|SO|I ACa 966/17|Wyrok|56|https://www.saos.org.pl/judgments/341804
+378393|2019-02-06|SO|II Ka 9/19|Wyrok|40|https://www.saos.org.pl/judgments/378393

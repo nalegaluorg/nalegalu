@@ -1,2 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-189616|2011-06-28|SO|XVII AmT 150/09|Uzasadnienie|https://www.saos.org.pl/judgments/189616
+saos_id|date|court|case_number|type|score|saos_url
+93669|2010-12-07|SN|III CZP 86/10|Uchwała|96|https://www.saos.org.pl/judgments/93669
+85984|2007-06-01|SN|III CZP 42/07|Uchwała|89|https://www.saos.org.pl/judgments/85984
+84159|2006-03-08|SN|III SZP 1/06|Uchwała|89|https://www.saos.org.pl/judgments/84159
+107440|2005-05-30|TK|Ts 149/04|Postanowienie|80|https://www.saos.org.pl/judgments/107440
+107006|2004-11-16|TK|Ts 149/04|Postanowienie|80|https://www.saos.org.pl/judgments/107006
+94612|2011-04-06|SN|I CSK 412/09|Wyrok|78|https://www.saos.org.pl/judgments/94612
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897
+84577|2006-09-21|SN|II PZ 33/06|Postanowienie|69|https://www.saos.org.pl/judgments/84577

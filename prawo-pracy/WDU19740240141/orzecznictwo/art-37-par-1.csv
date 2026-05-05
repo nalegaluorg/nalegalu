@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-516734|2024-06-03|SO|III U 145/24|Wyrok|https://www.saos.org.pl/judgments/516734
-489530|2023-05-29|SO|XI Pa 73/23|Wyrok|https://www.saos.org.pl/judgments/489530
-464801|2022-03-30|SO|IV P 249/21|Wyrok|https://www.saos.org.pl/judgments/464801
-444519|2021-06-24|SO|VIII Pa 2/21|Wyrok|https://www.saos.org.pl/judgments/444519
-345246|2018-06-21|SO|IV P 1/18|Wyrok|https://www.saos.org.pl/judgments/345246
-283925|2017-03-24|SO|X P 536/15|Wyrok|https://www.saos.org.pl/judgments/283925
-269986|2017-01-31|SO|III Pa 34/16|Wyrok|https://www.saos.org.pl/judgments/269986
-188733|2015-10-28|SO|VIII P 23/15|Uzasadnienie|https://www.saos.org.pl/judgments/188733
-150231|2015-02-24|SO|V Pa 111/14|Wyrok|https://www.saos.org.pl/judgments/150231
-130975|2014-12-09|SO|III APa 9/14|Wyrok|https://www.saos.org.pl/judgments/130975
-166047|2014-06-10|SN|III PK 123/13|Wyrok|https://www.saos.org.pl/judgments/166047
-101926|2013-05-29|SN|II PK 273/12|Wyrok|https://www.saos.org.pl/judgments/101926
-8068|2013-02-19|SO|II Ca 983/12|Wyrok|https://www.saos.org.pl/judgments/8068
-90055|2009-04-17|SN|I UK 308/08|Wyrok|https://www.saos.org.pl/judgments/90055
-88433|2008-07-08|SN|I UK 400/07|Wyrok|https://www.saos.org.pl/judgments/88433
-87368|2008-02-22|SN|I UK 228/07|Wyrok|https://www.saos.org.pl/judgments/87368
-86602|2007-09-17|SN|III UK 51/07|Wyrok|https://www.saos.org.pl/judgments/86602
-81988|2003-05-06|SN|I PKN 219/01|Wyrok|https://www.saos.org.pl/judgments/81988
+saos_id|date|court|case_number|type|score|saos_url
+166047|2014-06-10|SN|III PK 123/13|Wyrok|78|https://www.saos.org.pl/judgments/166047
+101926|2013-05-29|SN|II PK 273/12|Wyrok|78|https://www.saos.org.pl/judgments/101926
+90055|2009-04-17|SN|I UK 308/08|Wyrok|78|https://www.saos.org.pl/judgments/90055
+88433|2008-07-08|SN|I UK 400/07|Wyrok|78|https://www.saos.org.pl/judgments/88433
+87368|2008-02-22|SN|I UK 228/07|Wyrok|78|https://www.saos.org.pl/judgments/87368
+86602|2007-09-17|SN|III UK 51/07|Wyrok|78|https://www.saos.org.pl/judgments/86602
+81988|2003-05-06|SN|I PKN 219/01|Wyrok|78|https://www.saos.org.pl/judgments/81988
+130975|2014-12-09|SO|III APa 9/14|Wyrok|56|https://www.saos.org.pl/judgments/130975

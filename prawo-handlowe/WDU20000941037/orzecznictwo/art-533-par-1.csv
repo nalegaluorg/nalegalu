@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-62551|2014-02-13|SO|VI ACa 916/13|Wyrok|https://www.saos.org.pl/judgments/62551
-16908|2013-05-08|SO|XVII AmT 8/11|Uzasadnienie|https://www.saos.org.pl/judgments/16908
-16522|2013-03-21|SO|XVII AmT 40/10|Uzasadnienie|https://www.saos.org.pl/judgments/16522
-89475|2009-01-16|SN|V CSK 231/08|Wyrok|https://www.saos.org.pl/judgments/89475
+saos_id|date|court|case_number|type|score|saos_url
+89475|2009-01-16|SN|V CSK 231/08|Wyrok|78|https://www.saos.org.pl/judgments/89475
+62551|2014-02-13|SO|VI ACa 916/13|Wyrok|56|https://www.saos.org.pl/judgments/62551

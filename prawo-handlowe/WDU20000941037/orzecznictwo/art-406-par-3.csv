@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-101903|2013-05-24|SN|V CSK 313/12|Wyrok|https://www.saos.org.pl/judgments/101903
-98053|2012-05-09|SN|V CSK 238/11|Wyrok|https://www.saos.org.pl/judgments/98053
+saos_id|date|court|case_number|type|score|saos_url
+101903|2013-05-24|SN|V CSK 313/12|Wyrok|78|https://www.saos.org.pl/judgments/101903
+98053|2012-05-09|SN|V CSK 238/11|Wyrok|78|https://www.saos.org.pl/judgments/98053

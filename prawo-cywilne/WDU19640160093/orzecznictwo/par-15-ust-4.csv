@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-543973|2023-11-22|SO|V ACa 151/22|Wyrok|https://www.saos.org.pl/judgments/543973
-425002|2020-06-25|SO|I C 204/19|Wyrok|https://www.saos.org.pl/judgments/425002
-418334|2019-11-27|SO|VI ACa 602/18|Wyrok|https://www.saos.org.pl/judgments/418334
+saos_id|date|court|case_number|type|score|saos_url
+543973|2023-11-22|SO|V ACa 151/22|Wyrok|56|https://www.saos.org.pl/judgments/543973
+418334|2019-11-27|SO|VI ACa 602/18|Wyrok|56|https://www.saos.org.pl/judgments/418334
+425002|2020-06-25|SO|I C 204/19|Wyrok|40|https://www.saos.org.pl/judgments/425002

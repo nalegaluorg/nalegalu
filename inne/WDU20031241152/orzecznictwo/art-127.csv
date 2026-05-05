@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-472986|2020-02-12|SO|I ACa 732/19|Wyrok|https://www.saos.org.pl/judgments/472986
-356059|2018-08-29|SO|I Ca 324/18|Wyrok|https://www.saos.org.pl/judgments/356059
-323371|2017-10-31|SO|I C 1113/16|Uzasadnienie|https://www.saos.org.pl/judgments/323371
-316165|2017-10-10|SO|I C 775/16|Wyrok|https://www.saos.org.pl/judgments/316165
-291785|2017-04-26|SO|I C 466/16|Wyrok|https://www.saos.org.pl/judgments/291785
-255859|2016-09-08|SO|I ACa 269/16|Wyrok|https://www.saos.org.pl/judgments/255859
-150105|2015-03-25|SO|I Ca 85/15|Wyrok|https://www.saos.org.pl/judgments/150105
+saos_id|date|court|case_number|type|score|saos_url
+472986|2020-02-12|SO|I ACa 732/19|Wyrok|56|https://www.saos.org.pl/judgments/472986
+255859|2016-09-08|SO|I ACa 269/16|Wyrok|56|https://www.saos.org.pl/judgments/255859
+316165|2017-10-10|SO|I C 775/16|Wyrok|40|https://www.saos.org.pl/judgments/316165
+291785|2017-04-26|SO|I C 466/16|Wyrok|40|https://www.saos.org.pl/judgments/291785
+150105|2015-03-25|SO|I Ca 85/15|Wyrok|40|https://www.saos.org.pl/judgments/150105

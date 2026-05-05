@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-501626|2024-02-02|SO|II Ca 1213/23|Wyrok|https://www.saos.org.pl/judgments/501626
-488719|2023-04-14|SO|I C 1124/22|Wyrok|https://www.saos.org.pl/judgments/488719
-213710|2016-01-29|SO|I ACa 1461/15|Wyrok|https://www.saos.org.pl/judgments/213710
-130768|2015-01-21|SO|VI Ga 376/14|Wyrok|https://www.saos.org.pl/judgments/130768
-56441|2014-06-12|SO|I ACa 278/14|Wyrok|https://www.saos.org.pl/judgments/56441
+saos_id|date|court|case_number|type|score|saos_url
+213710|2016-01-29|SO|I ACa 1461/15|Wyrok|56|https://www.saos.org.pl/judgments/213710
+56441|2014-06-12|SO|I ACa 278/14|Wyrok|56|https://www.saos.org.pl/judgments/56441
+501626|2024-02-02|SO|II Ca 1213/23|Wyrok|40|https://www.saos.org.pl/judgments/501626
+488719|2023-04-14|SO|I C 1124/22|Wyrok|40|https://www.saos.org.pl/judgments/488719
+130768|2015-01-21|SO|VI Ga 376/14|Wyrok|40|https://www.saos.org.pl/judgments/130768

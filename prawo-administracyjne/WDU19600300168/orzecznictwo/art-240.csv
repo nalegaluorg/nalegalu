@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-499040|2024-07-10|SO|I C 679/22|Wyrok|https://www.saos.org.pl/judgments/499040
-499718|2024-04-24|SO|I C 947/22|Wyrok|https://www.saos.org.pl/judgments/499718
-535247|2022-12-14|SO|I ACa 192/22|Wyrok|https://www.saos.org.pl/judgments/535247
-466139|2021-09-03|SO|V P 160/20|Uzasadnienie|https://www.saos.org.pl/judgments/466139
-466140|2021-04-21|SO|V P 165/20|Uzasadnienie|https://www.saos.org.pl/judgments/466140
-310940|2017-07-27|SO|I ACa 992/16|Wyrok|https://www.saos.org.pl/judgments/310940
-282698|2016-09-20|SO|I C 195/15|Wyrok|https://www.saos.org.pl/judgments/282698
-299837|2016-02-29|SO|II Ca 989/15|Wyrok|https://www.saos.org.pl/judgments/299837
-490426|2015-05-27|SO|I ACa 1227/14|Wyrok|https://www.saos.org.pl/judgments/490426
-105560|2000-10-06|TK|Ts 46/00|Postanowienie|https://www.saos.org.pl/judgments/105560
+saos_id|date|court|case_number|type|score|saos_url
+105560|2000-10-06|TK|Ts 46/00|Postanowienie|80|https://www.saos.org.pl/judgments/105560
+535247|2022-12-14|SO|I ACa 192/22|Wyrok|56|https://www.saos.org.pl/judgments/535247
+310940|2017-07-27|SO|I ACa 992/16|Wyrok|56|https://www.saos.org.pl/judgments/310940
+490426|2015-05-27|SO|I ACa 1227/14|Wyrok|56|https://www.saos.org.pl/judgments/490426

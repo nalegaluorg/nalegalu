@@ -1,19 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-515854|2024-10-25|SO|IV U 246/24|Wyrok|https://www.saos.org.pl/judgments/515854
-527148|2024-01-30|SO|VI U 458/19|Wyrok|https://www.saos.org.pl/judgments/527148
-504852|2022-03-07|SO|III AUa 2106/21|Uzasadnienie|https://www.saos.org.pl/judgments/504852
-388894|2019-05-20|SO|IV U 839/18|Wyrok|https://www.saos.org.pl/judgments/388894
-367080|2018-11-13|SO|VIII U 341/18|Zarządzenie|https://www.saos.org.pl/judgments/367080
-351876|2018-08-16|SO|IV U 429/18|Wyrok|https://www.saos.org.pl/judgments/351876
-393070|2018-04-25|SO|III AUa 199/17|Wyrok|https://www.saos.org.pl/judgments/393070
-326716|2018-01-31|SO|IV U 676/17|Wyrok|https://www.saos.org.pl/judgments/326716
-290487|2017-06-02|SO|IV U 247/17|Wyrok|https://www.saos.org.pl/judgments/290487
-297660|2017-02-28|SO|V U 728/16|Wyrok|https://www.saos.org.pl/judgments/297660
-274317|2017-01-25|SO|III AUa 656/16|Wyrok|https://www.saos.org.pl/judgments/274317
-186767|2015-06-12|SO|IV U 755/14|Wyrok|https://www.saos.org.pl/judgments/186767
-176726|2015-04-22|SO|IV U 1360/14|Wyrok|https://www.saos.org.pl/judgments/176726
-158173|2015-04-22|SO|III AUa 554/14|Wyrok|https://www.saos.org.pl/judgments/158173
-53298|2014-05-29|SO|IV U 2061/13|Wyrok|https://www.saos.org.pl/judgments/53298
-49621|2014-03-26|SO|V U 1005/13|Wyrok|https://www.saos.org.pl/judgments/49621
-52849|2014-02-28|SO|V U 1152/13|Wyrok|https://www.saos.org.pl/judgments/52849
-18204|2013-06-20|SO|V U 1080/11|Wyrok|https://www.saos.org.pl/judgments/18204
+saos_id|date|court|case_number|type|score|saos_url
+393070|2018-04-25|SO|III AUa 199/17|Wyrok|56|https://www.saos.org.pl/judgments/393070
+274317|2017-01-25|SO|III AUa 656/16|Wyrok|56|https://www.saos.org.pl/judgments/274317
+158173|2015-04-22|SO|III AUa 554/14|Wyrok|56|https://www.saos.org.pl/judgments/158173
+504852|2022-03-07|SO|III AUa 2106/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/504852
+527148|2024-01-30|SO|VI U 458/19|Wyrok|40|https://www.saos.org.pl/judgments/527148
+367080|2018-11-13|SO|VIII U 341/18|Zarządzenie|27|https://www.saos.org.pl/judgments/367080

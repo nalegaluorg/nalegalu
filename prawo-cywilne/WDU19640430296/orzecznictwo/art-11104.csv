@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-381397|2018-10-29|SO|III APz 5/18|Postanowienie|https://www.saos.org.pl/judgments/381397
-288587|2017-05-12|SO|VIII Cz 387/17|Postanowienie|https://www.saos.org.pl/judgments/288587
-285074|2017-03-01|SO|I ACa 493/16|Wyrok|https://www.saos.org.pl/judgments/285074
-49237|2014-06-06|SO|II Cz 838/14|Postanowienie|https://www.saos.org.pl/judgments/49237
+saos_id|date|court|case_number|type|score|saos_url
+285074|2017-03-01|SO|I ACa 493/16|Wyrok|56|https://www.saos.org.pl/judgments/285074
+381397|2018-10-29|SO|III APz 5/18|Postanowienie|47|https://www.saos.org.pl/judgments/381397

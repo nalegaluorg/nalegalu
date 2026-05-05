@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-410116|2019-01-17|SO|I ACa 411/17|Wyrok|https://www.saos.org.pl/judgments/410116
-386463|2012-04-26|SO|I ACa 92/12|Wyrok|https://www.saos.org.pl/judgments/386463
+saos_id|date|court|case_number|type|score|saos_url
+410116|2019-01-17|SO|I ACa 411/17|Wyrok|56|https://www.saos.org.pl/judgments/410116
+386463|2012-04-26|SO|I ACa 92/12|Wyrok|56|https://www.saos.org.pl/judgments/386463

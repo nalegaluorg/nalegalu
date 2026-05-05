@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-462950|2022-03-16|SO|I ACa 674/21|Wyrok|https://www.saos.org.pl/judgments/462950
-402014|2019-07-25|SO|I ACa 517/18|Wyrok|https://www.saos.org.pl/judgments/402014
-269792|2016-12-22|SO|VIII GC 90/14|Wyrok|https://www.saos.org.pl/judgments/269792
-227274|2016-05-25|SO|III Ca 361/16|Wyrok|https://www.saos.org.pl/judgments/227274
-244234|2016-01-13|SN|II CSK 186/15|Wyrok|https://www.saos.org.pl/judgments/244234
-59541|2014-08-21|SO|II Cz 1189/14|Postanowienie|https://www.saos.org.pl/judgments/59541
-166477|2014-08-07|SN|II CSK 636/13|Wyrok|https://www.saos.org.pl/judgments/166477
-48078|2014-04-10|SO|I ACa 840/13|Wyrok|https://www.saos.org.pl/judgments/48078
-76271|2010-03-25|SN|I CSK 427/09|Wyrok|https://www.saos.org.pl/judgments/76271
-83389|2005-05-05|SN|IV CK 4/05|Postanowienie|https://www.saos.org.pl/judgments/83389
+saos_id|date|court|case_number|type|score|saos_url
+244234|2016-01-13|SN|II CSK 186/15|Wyrok|78|https://www.saos.org.pl/judgments/244234
+166477|2014-08-07|SN|II CSK 636/13|Wyrok|78|https://www.saos.org.pl/judgments/166477
+76271|2010-03-25|SN|I CSK 427/09|Wyrok|78|https://www.saos.org.pl/judgments/76271
+83389|2005-05-05|SN|IV CK 4/05|Postanowienie|69|https://www.saos.org.pl/judgments/83389
+462950|2022-03-16|SO|I ACa 674/21|Wyrok|56|https://www.saos.org.pl/judgments/462950
+402014|2019-07-25|SO|I ACa 517/18|Wyrok|56|https://www.saos.org.pl/judgments/402014
+48078|2014-04-10|SO|I ACa 840/13|Wyrok|56|https://www.saos.org.pl/judgments/48078

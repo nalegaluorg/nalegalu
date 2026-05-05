@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-501248|2023-04-27|SO|II AKa 66/23|Wyrok|https://www.saos.org.pl/judgments/501248
-365143|2018-11-06|SO|VII Ka 820/18|Wyrok|https://www.saos.org.pl/judgments/365143
-154185|2015-05-25|SO|II AKzw 958/15|Postanowienie|https://www.saos.org.pl/judgments/154185
-96796|2012-01-19|SN|I KZP 21/11|Postanowienie|https://www.saos.org.pl/judgments/96796
+saos_id|date|court|case_number|type|score|saos_url
+96796|2012-01-19|SN|I KZP 21/11|Postanowienie|69|https://www.saos.org.pl/judgments/96796
+501248|2023-04-27|SO|II AKa 66/23|Wyrok|56|https://www.saos.org.pl/judgments/501248
+154185|2015-05-25|SO|II AKzw 958/15|Postanowienie|47|https://www.saos.org.pl/judgments/154185
+365143|2018-11-06|SO|VII Ka 820/18|Wyrok|40|https://www.saos.org.pl/judgments/365143

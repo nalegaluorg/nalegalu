@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83098|2005-01-04|SN|V KK 388/04|Postanowienie|https://www.saos.org.pl/judgments/83098
+saos_id|date|court|case_number|type|score|saos_url
+83098|2005-01-04|SN|V KK 388/04|Postanowienie|69|https://www.saos.org.pl/judgments/83098

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-165527|2013-06-27|SN|I PK 28/13|Wyrok|https://www.saos.org.pl/judgments/165527
-94337|2011-03-03|SN|II PK 161/10|Wyrok|https://www.saos.org.pl/judgments/94337
-87367|2008-02-22|SN|I PZP 12/07|Uchwała|https://www.saos.org.pl/judgments/87367
+saos_id|date|court|case_number|type|score|saos_url
+87367|2008-02-22|SN|I PZP 12/07|Uchwała|89|https://www.saos.org.pl/judgments/87367
+165527|2013-06-27|SN|I PK 28/13|Wyrok|78|https://www.saos.org.pl/judgments/165527
+94337|2011-03-03|SN|II PK 161/10|Wyrok|78|https://www.saos.org.pl/judgments/94337

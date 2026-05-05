@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-528332|2022-11-15|SO|VIII Kop 207/22|Postanowienie|https://www.saos.org.pl/judgments/528332
-528420|2022-06-06|SO|VIII Kop 89/23|Postanowienie|https://www.saos.org.pl/judgments/528420
-22686|2013-10-04|SO|V Ka 575/13|Wyrok|https://www.saos.org.pl/judgments/22686
-8648|2013-03-25|SO|VIII Ka 890/12|Wyrok|https://www.saos.org.pl/judgments/8648
-80288|2001-01-30|SN|I KZP 50/00|Uchwała|https://www.saos.org.pl/judgments/80288
+saos_id|date|court|case_number|type|score|saos_url
+80288|2001-01-30|SN|I KZP 50/00|Uchwała|96|https://www.saos.org.pl/judgments/80288
+22686|2013-10-04|SO|V Ka 575/13|Wyrok|40|https://www.saos.org.pl/judgments/22686

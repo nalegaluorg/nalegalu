@@ -1,12 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-446048|2021-06-29|SO|I ACa 321/21|Postanowienie|https://www.saos.org.pl/judgments/446048
-529714|2019-06-18|SO|II Ca 89/19|Zarządzenie|https://www.saos.org.pl/judgments/529714
-363270|2018-08-23|SO|V ACa 758/17|Wyrok|https://www.saos.org.pl/judgments/363270
-275830|2017-02-07|SO|I ACa 508/16|Wyrok|https://www.saos.org.pl/judgments/275830
-170959|2015-06-12|SO|V Pa 22/15|Wyrok|https://www.saos.org.pl/judgments/170959
-25482|2013-10-08|SO|I ACa 943/13|Postanowienie|https://www.saos.org.pl/judgments/25482
-23579|2013-09-25|SO|I ACa 710/13|Postanowienie|https://www.saos.org.pl/judgments/23579
-60209|2013-06-03|SO|I C 158/13|Wyrok|https://www.saos.org.pl/judgments/60209
-99833|2012-11-28|SN|III CZP 71/12|Uchwała|https://www.saos.org.pl/judgments/99833
-96944|2012-01-26|SN|III CZP 86/11|Uchwała|https://www.saos.org.pl/judgments/96944
-83242|2005-02-24|SN|III CZP 87/04|Uchwała|https://www.saos.org.pl/judgments/83242
+saos_id|date|court|case_number|type|score|saos_url
+99833|2012-11-28|SN|III CZP 71/12|Uchwała|89|https://www.saos.org.pl/judgments/99833
+96944|2012-01-26|SN|III CZP 86/11|Uchwała|89|https://www.saos.org.pl/judgments/96944
+83242|2005-02-24|SN|III CZP 87/04|Uchwała|89|https://www.saos.org.pl/judgments/83242
+363270|2018-08-23|SO|V ACa 758/17|Wyrok|56|https://www.saos.org.pl/judgments/363270
+275830|2017-02-07|SO|I ACa 508/16|Wyrok|56|https://www.saos.org.pl/judgments/275830
+446048|2021-06-29|SO|I ACa 321/21|Postanowienie|47|https://www.saos.org.pl/judgments/446048
+25482|2013-10-08|SO|I ACa 943/13|Postanowienie|47|https://www.saos.org.pl/judgments/25482
+23579|2013-09-25|SO|I ACa 710/13|Postanowienie|47|https://www.saos.org.pl/judgments/23579

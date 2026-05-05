@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-409322|2020-02-20|SO|VIII Pa 188/19|Uzasadnienie|https://www.saos.org.pl/judgments/409322
-207579|2016-01-18|SO|VIII P 537/14|Zarządzenie|https://www.saos.org.pl/judgments/207579
-153034|2015-04-23|SO|VII Pa 81/15|Wyrok|https://www.saos.org.pl/judgments/153034
-38041|2014-02-13|SO|III APa 2/14|Wyrok|https://www.saos.org.pl/judgments/38041
-32592|2013-08-13|SO|III P 9/12|Wyrok|https://www.saos.org.pl/judgments/32592
-18157|2013-06-24|SO|III APa 9/12|Wyrok|https://www.saos.org.pl/judgments/18157
-28679|2013-06-14|SO|VI Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/28679
-3870|2012-11-21|SO|III APa 51/12|Wyrok|https://www.saos.org.pl/judgments/3870
+saos_id|date|court|case_number|type|score|saos_url
+355030|2018-04-20|SO|I ACa 1265/17|Wyrok|56|https://www.saos.org.pl/judgments/355030
+76125|2014-12-11|SO|I ACa 550/14|Wyrok|56|https://www.saos.org.pl/judgments/76125
+20028|2013-06-05|SO|V ACa 277/13|Wyrok|56|https://www.saos.org.pl/judgments/20028
+10667|2013-02-07|SO|I ACa 796/12|Wyrok|56|https://www.saos.org.pl/judgments/10667
+279949|2017-04-13|SO|VI Cz 405/17|Postanowienie|31|https://www.saos.org.pl/judgments/279949
+196058|2015-12-01|SO|II C 1365/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/196058

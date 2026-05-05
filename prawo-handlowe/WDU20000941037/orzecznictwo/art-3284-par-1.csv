@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-528172|2024-06-20|SO|I AGa 91/23|Wyrok|https://www.saos.org.pl/judgments/528172
-495006|2023-11-06|SO|I AGa 281/22|Wyrok|https://www.saos.org.pl/judgments/495006
+saos_id|date|court|case_number|type|score|saos_url
+528172|2024-06-20|SO|I AGa 91/23|Wyrok|56|https://www.saos.org.pl/judgments/528172
+495006|2023-11-06|SO|I AGa 281/22|Wyrok|56|https://www.saos.org.pl/judgments/495006

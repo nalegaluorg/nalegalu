@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-168388|2015-02-26|SN|III CZP 108/14|Uchwała|https://www.saos.org.pl/judgments/168388
-86807|2007-11-06|SN|III CZP 93/07|Uchwała|https://www.saos.org.pl/judgments/86807
+saos_id|date|court|case_number|type|score|saos_url
+86807|2007-11-06|SN|III CZP 93/07|Uchwała|96|https://www.saos.org.pl/judgments/86807
+168388|2015-02-26|SN|III CZP 108/14|Uchwała|89|https://www.saos.org.pl/judgments/168388

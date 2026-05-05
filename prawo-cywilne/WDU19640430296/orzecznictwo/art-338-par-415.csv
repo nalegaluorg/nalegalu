@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-330110|2018-01-11|SO|I C 4163/17|Wyrok|https://www.saos.org.pl/judgments/330110
-305077|2016-07-29|SO|II Ca 115/16|Wyrok|https://www.saos.org.pl/judgments/305077
-10231|2013-04-04|SO|I ACa 1275/12|Wyrok|https://www.saos.org.pl/judgments/10231
-97120|2012-02-10|SN|II PK 180/11|Postanowienie|https://www.saos.org.pl/judgments/97120
-84066|2006-02-03|SN|II PK 158/05|Wyrok|https://www.saos.org.pl/judgments/84066
+saos_id|date|court|case_number|type|score|saos_url
+84066|2006-02-03|SN|II PK 158/05|Wyrok|78|https://www.saos.org.pl/judgments/84066
+97120|2012-02-10|SN|II PK 180/11|Postanowienie|69|https://www.saos.org.pl/judgments/97120
+10231|2013-04-04|SO|I ACa 1275/12|Wyrok|56|https://www.saos.org.pl/judgments/10231

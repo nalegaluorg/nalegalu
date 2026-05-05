@@ -1,13 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-265294|2016-03-11|SO|I C 1638/15|Zarządzenie|https://www.saos.org.pl/judgments/265294
-244240|2016-01-13|SN|II PK 302/14|Wyrok|https://www.saos.org.pl/judgments/244240
-58694|2014-06-30|SO|IV Pa 38/14|Wyrok|https://www.saos.org.pl/judgments/58694
-111640|2013-05-22|TK|P 46/11|Wyrok|https://www.saos.org.pl/judgments/111640
-111285|2012-09-26|TK|Ts 178/10|Postanowienie|https://www.saos.org.pl/judgments/111285
-98488|2012-06-26|SN|II PK 273/11|Wyrok|https://www.saos.org.pl/judgments/98488
-95736|2011-09-15|SN|II PK 69/11|Wyrok|https://www.saos.org.pl/judgments/95736
-95155|2011-06-07|SN|II PK 320/10|Wyrok|https://www.saos.org.pl/judgments/95155
-94095|2011-02-04|SN|II PK 187/10|Wyrok|https://www.saos.org.pl/judgments/94095
-94027|2011-01-26|SN|II PK 159/10|Wyrok|https://www.saos.org.pl/judgments/94027
-78890|1999-03-04|SN|III ZP 3/99|Uchwała|https://www.saos.org.pl/judgments/78890
-78202|1998-03-19|SN|I PKN 560/97|Wyrok|https://www.saos.org.pl/judgments/78202
+saos_id|date|court|case_number|type|score|saos_url
+111640|2013-05-22|TK|P 46/11|Wyrok|98|https://www.saos.org.pl/judgments/111640
+78890|1999-03-04|SN|III ZP 3/99|Uchwała|89|https://www.saos.org.pl/judgments/78890
+111285|2012-09-26|TK|Ts 178/10|Postanowienie|80|https://www.saos.org.pl/judgments/111285
+244240|2016-01-13|SN|II PK 302/14|Wyrok|78|https://www.saos.org.pl/judgments/244240
+98488|2012-06-26|SN|II PK 273/11|Wyrok|78|https://www.saos.org.pl/judgments/98488
+95736|2011-09-15|SN|II PK 69/11|Wyrok|78|https://www.saos.org.pl/judgments/95736
+95155|2011-06-07|SN|II PK 320/10|Wyrok|78|https://www.saos.org.pl/judgments/95155
+94095|2011-02-04|SN|II PK 187/10|Wyrok|78|https://www.saos.org.pl/judgments/94095
+94027|2011-01-26|SN|II PK 159/10|Wyrok|78|https://www.saos.org.pl/judgments/94027
+78202|1998-03-19|SN|I PKN 560/97|Wyrok|78|https://www.saos.org.pl/judgments/78202

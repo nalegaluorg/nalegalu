@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-181590|2015-11-26|SO|I ACz 2106/15|Postanowienie|https://www.saos.org.pl/judgments/181590
-38872|2013-10-03|SO|II Cz 791/13|Postanowienie|https://www.saos.org.pl/judgments/38872
-2179|2012-07-16|SO|I ACz 1233/12|Postanowienie|https://www.saos.org.pl/judgments/2179
+saos_id|date|court|case_number|type|score|saos_url
+181590|2015-11-26|SO|I ACz 2106/15|Postanowienie|47|https://www.saos.org.pl/judgments/181590
+2179|2012-07-16|SO|I ACz 1233/12|Postanowienie|47|https://www.saos.org.pl/judgments/2179

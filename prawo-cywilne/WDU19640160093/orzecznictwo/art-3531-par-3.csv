@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-537986|2025-03-18|SO|I ACa 1365/22|Wyrok|https://www.saos.org.pl/judgments/537986
-498134|2023-06-22|SO|I C 43/23|Wyrok|https://www.saos.org.pl/judgments/498134
-287105|2017-03-24|SO|XX GC 91/15|Wyrok|https://www.saos.org.pl/judgments/287105
+saos_id|date|court|case_number|type|score|saos_url
+537986|2025-03-18|SO|I ACa 1365/22|Wyrok|56|https://www.saos.org.pl/judgments/537986

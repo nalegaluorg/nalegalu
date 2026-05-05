@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-471960|2022-06-01|SO|V Ca 2548/19|Wyrok|https://www.saos.org.pl/judgments/471960
-389939|2019-05-10|SO|III Ca 2043/18|Uzasadnienie|https://www.saos.org.pl/judgments/389939
-348621|2018-03-05|SO|III Ca 1823/17|Uzasadnienie|https://www.saos.org.pl/judgments/348621
-345415|2017-12-20|SO|VI ACa 1199/16|Wyrok|https://www.saos.org.pl/judgments/345415
-220028|2016-04-22|SO|XIII Ga 709/15|Uzasadnienie|https://www.saos.org.pl/judgments/220028
-214542|2016-02-19|SO|VIII Ga 421/15|Wyrok|https://www.saos.org.pl/judgments/214542
-219950|2016-01-28|SO|VI ACa 351/15|Wyrok|https://www.saos.org.pl/judgments/219950
-70341|2014-03-06|SO|I ACa 21/14|Wyrok|https://www.saos.org.pl/judgments/70341
-108539|2008-02-05|TK|K 34/06|Wyrok|https://www.saos.org.pl/judgments/108539
+saos_id|date|court|case_number|type|score|saos_url
+108539|2008-02-05|TK|K 34/06|Wyrok|98|https://www.saos.org.pl/judgments/108539
+345415|2017-12-20|SO|VI ACa 1199/16|Wyrok|56|https://www.saos.org.pl/judgments/345415
+219950|2016-01-28|SO|VI ACa 351/15|Wyrok|56|https://www.saos.org.pl/judgments/219950
+70341|2014-03-06|SO|I ACa 21/14|Wyrok|56|https://www.saos.org.pl/judgments/70341
+389939|2019-05-10|SO|III Ca 2043/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/389939
+348621|2018-03-05|SO|III Ca 1823/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348621
+220028|2016-04-22|SO|XIII Ga 709/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/220028

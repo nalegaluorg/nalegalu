@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-176543|2015-07-15|SO|I C 334/15|Wyrok|https://www.saos.org.pl/judgments/176543
-55263|2013-10-09|SO|I ACa 406/13|Wyrok|https://www.saos.org.pl/judgments/55263
+saos_id|date|court|case_number|type|score|saos_url
+55263|2013-10-09|SO|I ACa 406/13|Wyrok|56|https://www.saos.org.pl/judgments/55263

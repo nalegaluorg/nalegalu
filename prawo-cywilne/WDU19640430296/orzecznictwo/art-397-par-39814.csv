@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-83751|2005-09-26|SN|II UZ 53/05|Postanowienie|https://www.saos.org.pl/judgments/83751
-83750|2005-09-26|SN|II UZ 52/05|Postanowienie|https://www.saos.org.pl/judgments/83750
+saos_id|date|court|case_number|type|score|saos_url
+83751|2005-09-26|SN|II UZ 53/05|Postanowienie|69|https://www.saos.org.pl/judgments/83751
+83750|2005-09-26|SN|II UZ 52/05|Postanowienie|69|https://www.saos.org.pl/judgments/83750

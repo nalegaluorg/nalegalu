@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-96988|2012-01-25|SN|V CZ 97/11|Postanowienie|https://www.saos.org.pl/judgments/96988
+saos_id|date|court|case_number|type|score|saos_url
+96988|2012-01-25|SN|V CZ 97/11|Postanowienie|69|https://www.saos.org.pl/judgments/96988

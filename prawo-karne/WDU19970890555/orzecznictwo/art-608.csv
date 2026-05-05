@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-332726|2018-03-08|SO|II AKz 51/18|Postanowienie|https://www.saos.org.pl/judgments/332726
-325950|2017-11-30|SO|II Kop 18/17|Postanowienie|https://www.saos.org.pl/judgments/325950
-44424|2014-04-18|SO|IV Kzw 436/14|Postanowienie|https://www.saos.org.pl/judgments/44424
-22296|2013-06-14|SO|IV Ua 8/13|Wyrok|https://www.saos.org.pl/judgments/22296
-89776|2009-03-03|SN|I KZP 30/08|Uchwała|https://www.saos.org.pl/judgments/89776
-83370|2005-04-27|SN|IV KK 89/05|Postanowienie|https://www.saos.org.pl/judgments/83370
+saos_id|date|court|case_number|type|score|saos_url
+89776|2009-03-03|SN|I KZP 30/08|Uchwała|89|https://www.saos.org.pl/judgments/89776
+83370|2005-04-27|SN|IV KK 89/05|Postanowienie|69|https://www.saos.org.pl/judgments/83370
+332726|2018-03-08|SO|II AKz 51/18|Postanowienie|47|https://www.saos.org.pl/judgments/332726
+22296|2013-06-14|SO|IV Ua 8/13|Wyrok|40|https://www.saos.org.pl/judgments/22296

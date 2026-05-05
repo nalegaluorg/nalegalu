@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-25784|2013-09-12|SO|II Ca 538/13|Postanowienie|https://www.saos.org.pl/judgments/25784
-89504|2009-01-21|SN|II CSK 446/08|Wyrok|https://www.saos.org.pl/judgments/89504
+saos_id|date|court|case_number|type|score|saos_url
+89504|2009-01-21|SN|II CSK 446/08|Wyrok|78|https://www.saos.org.pl/judgments/89504

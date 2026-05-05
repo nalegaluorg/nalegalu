@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-423798|2020-08-27|SO|VIII GC 81/19|Uzasadnienie|https://www.saos.org.pl/judgments/423798
-6079|2012-10-17|SO|VI ACa 561/12|Wyrok|https://www.saos.org.pl/judgments/6079
+saos_id|date|court|case_number|type|score|saos_url
+6079|2012-10-17|SO|VI ACa 561/12|Wyrok|56|https://www.saos.org.pl/judgments/6079

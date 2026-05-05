@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-533428|2024-01-19|SO|I ACa 2201/22|Wyrok|https://www.saos.org.pl/judgments/533428
-335593|2018-03-01|SO|I ACa 856/17|Wyrok|https://www.saos.org.pl/judgments/335593
-301052|2017-03-07|SO|I C 227/16|Wyrok|https://www.saos.org.pl/judgments/301052
+saos_id|date|court|case_number|type|score|saos_url
+533428|2024-01-19|SO|I ACa 2201/22|Wyrok|56|https://www.saos.org.pl/judgments/533428
+335593|2018-03-01|SO|I ACa 856/17|Wyrok|56|https://www.saos.org.pl/judgments/335593
+301052|2017-03-07|SO|I C 227/16|Wyrok|40|https://www.saos.org.pl/judgments/301052

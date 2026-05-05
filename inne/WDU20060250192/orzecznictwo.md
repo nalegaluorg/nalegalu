@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 7 lutego 2006 
 
 ## art. 28 (1)
 
-- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok
+- 2013-12-03 | SN | [I UK 198/13](https://www.saos.org.pl/judgments/103731) | Wyrok ★
 

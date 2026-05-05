@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-425126|2020-09-22|SO|II AKa 74/20|Wyrok|https://www.saos.org.pl/judgments/425126
-387801|2019-06-19|SO|II K 374/16|Wyrok|https://www.saos.org.pl/judgments/387801
-243588|2015-10-13|SN|SNO 62/15|Wyrok|https://www.saos.org.pl/judgments/243588
+saos_id|date|court|case_number|type|score|saos_url
+243588|2015-10-13|SN|SNO 62/15|Wyrok|78|https://www.saos.org.pl/judgments/243588
+425126|2020-09-22|SO|II AKa 74/20|Wyrok|56|https://www.saos.org.pl/judgments/425126

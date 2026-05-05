@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-491617|2022-01-21|SO|III AUa 818/21|Wyrok|https://www.saos.org.pl/judgments/491617
-188291|2015-11-16|SO|VII U 1109/15|Wyrok|https://www.saos.org.pl/judgments/188291
+saos_id|date|court|case_number|type|score|saos_url
+491617|2022-01-21|SO|III AUa 818/21|Wyrok|56|https://www.saos.org.pl/judgments/491617

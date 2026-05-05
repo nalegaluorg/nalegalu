@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482909|2022-10-28|SO|II Ca 1092/22|Wyrok|https://www.saos.org.pl/judgments/482909
+saos_id|date|court|case_number|type|score|saos_url
+482909|2022-10-28|SO|II Ca 1092/22|Wyrok|40|https://www.saos.org.pl/judgments/482909

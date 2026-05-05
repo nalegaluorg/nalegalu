@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-53336|2014-07-11|SO|II Ka 208/14|Wyrok|https://www.saos.org.pl/judgments/53336
-53335|2014-07-04|SO|II Ka 204/14|Wyrok|https://www.saos.org.pl/judgments/53335
-81661|2002-10-23|SN|I KZP 33/02|Uchwała|https://www.saos.org.pl/judgments/81661
+saos_id|date|court|case_number|type|score|saos_url
+81661|2002-10-23|SN|I KZP 33/02|Uchwała|89|https://www.saos.org.pl/judgments/81661

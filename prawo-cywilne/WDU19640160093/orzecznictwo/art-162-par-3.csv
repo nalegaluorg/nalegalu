@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-368135|2018-07-19|SO|I C 28/15|Wyrok|https://www.saos.org.pl/judgments/368135
-363984|2018-05-10|SO|VI ACa 2072/16|Wyrok|https://www.saos.org.pl/judgments/363984
+saos_id|date|court|case_number|type|score|saos_url
+363984|2018-05-10|SO|VI ACa 2072/16|Wyrok|56|https://www.saos.org.pl/judgments/363984

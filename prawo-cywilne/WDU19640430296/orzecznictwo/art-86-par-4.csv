@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-458747|2021-10-08|SO|I ACa 59/21|Wyrok|https://www.saos.org.pl/judgments/458747
-402199|2019-04-18|SO|I Ca 98/19|Wyrok|https://www.saos.org.pl/judgments/402199
-61710|2014-02-04|SO|III Ca 1/14|Postanowienie|https://www.saos.org.pl/judgments/61710
+saos_id|date|court|case_number|type|score|saos_url
+458747|2021-10-08|SO|I ACa 59/21|Wyrok|56|https://www.saos.org.pl/judgments/458747
+402199|2019-04-18|SO|I Ca 98/19|Wyrok|40|https://www.saos.org.pl/judgments/402199

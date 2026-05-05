@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-437908|2020-09-28|SO|III Ca 1730/19|Uzasadnienie|https://www.saos.org.pl/judgments/437908
-165574|2013-12-06|SN|I CZ 91/13|Postanowienie|https://www.saos.org.pl/judgments/165574
-102937|2013-09-27|SN|I CZ 75/13|Postanowienie|https://www.saos.org.pl/judgments/102937
+saos_id|date|court|case_number|type|score|saos_url
+165574|2013-12-06|SN|I CZ 91/13|Postanowienie|69|https://www.saos.org.pl/judgments/165574
+102937|2013-09-27|SN|I CZ 75/13|Postanowienie|69|https://www.saos.org.pl/judgments/102937
+437908|2020-09-28|SO|III Ca 1730/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/437908

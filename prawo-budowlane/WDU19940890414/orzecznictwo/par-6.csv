@@ -1,8 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-415449|2018-06-26|SO|I ACa 234/18|Wyrok|https://www.saos.org.pl/judgments/415449
-351918|2018-06-05|SO|VII AGa 1312/18|Wyrok|https://www.saos.org.pl/judgments/351918
-349167|2017-09-19|SO|XVI GC 1664/13|Wyrok|https://www.saos.org.pl/judgments/349167
-216812|2016-01-28|SO|III C 1172/13|Wyrok|https://www.saos.org.pl/judgments/216812
-191077|2015-11-13|SO|XVI GC 1203/14|Zarządzenie|https://www.saos.org.pl/judgments/191077
-191074|2015-11-13|SO|XVI GC 11/14|Zarządzenie|https://www.saos.org.pl/judgments/191074
-176533|2015-08-31|SO|I C 1977/13|Uzasadnienie|https://www.saos.org.pl/judgments/176533
+saos_id|date|court|case_number|type|score|saos_url
+415449|2018-06-26|SO|I ACa 234/18|Wyrok|56|https://www.saos.org.pl/judgments/415449
+351918|2018-06-05|SO|VII AGa 1312/18|Wyrok|56|https://www.saos.org.pl/judgments/351918

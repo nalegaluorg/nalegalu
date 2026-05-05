@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244681|2016-02-25|SN|I KZP 18/15|Postanowienie|https://www.saos.org.pl/judgments/244681
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-108052|2006-09-04|TK|U 7/05|Wyrok|https://www.saos.org.pl/judgments/108052
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+108052|2006-09-04|TK|U 7/05|Wyrok|98|https://www.saos.org.pl/judgments/108052
+244681|2016-02-25|SN|I KZP 18/15|Postanowienie|76|https://www.saos.org.pl/judgments/244681

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-440776|2021-02-03|SO|IV P 37/20|Wyrok|https://www.saos.org.pl/judgments/440776
-440775|2021-02-03|SO|IV P 34/20|Wyrok|https://www.saos.org.pl/judgments/440775
-434280|2021-02-03|SO|IV P 43/20|Wyrok|https://www.saos.org.pl/judgments/434280
-434279|2021-01-11|SO|IV P 40/20|Wyrok|https://www.saos.org.pl/judgments/434279
+saos_id|date|court|case_number|type|score|saos_url
+81830|2003-01-29|SN|IV CK 399/02|Postanowienie|69|https://www.saos.org.pl/judgments/81830
+78222|1998-03-24|SN|I PKN 97/98|Postanowienie|69|https://www.saos.org.pl/judgments/78222
+486013|2022-10-14|SO|I ACa 466/22|Wyrok|56|https://www.saos.org.pl/judgments/486013
+485161|2022-07-14|SO|I ACa 406/22|Wyrok|56|https://www.saos.org.pl/judgments/485161

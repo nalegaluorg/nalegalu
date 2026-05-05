@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-102371|2013-07-03|SN|V KK 473/12|Postanowienie|https://www.saos.org.pl/judgments/102371
-5997|2012-11-28|SO|I ACa 873/12|Wyrok|https://www.saos.org.pl/judgments/5997
-111064|2012-07-11|TK|Ts 29/10|Postanowienie|https://www.saos.org.pl/judgments/111064
-110411|2011-05-16|TK|Ts 29/10|Postanowienie|https://www.saos.org.pl/judgments/110411
-80045|2000-11-08|SN|II KZ 135/00|Postanowienie|https://www.saos.org.pl/judgments/80045
+saos_id|date|court|case_number|type|score|saos_url
+111064|2012-07-11|TK|Ts 29/10|Postanowienie|80|https://www.saos.org.pl/judgments/111064
+110411|2011-05-16|TK|Ts 29/10|Postanowienie|80|https://www.saos.org.pl/judgments/110411
+102371|2013-07-03|SN|V KK 473/12|Postanowienie|69|https://www.saos.org.pl/judgments/102371
+80045|2000-11-08|SN|II KZ 135/00|Postanowienie|69|https://www.saos.org.pl/judgments/80045
+5997|2012-11-28|SO|I ACa 873/12|Wyrok|56|https://www.saos.org.pl/judgments/5997

@@ -1,2 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-374650|2019-02-07|SO|VI P 588/18|Wyrok|https://www.saos.org.pl/judgments/374650
+saos_id|date|court|case_number|type|score|saos_url
+395992|2019-08-22|SO|III AUa 2352/18|Wyrok|56|https://www.saos.org.pl/judgments/395992
+214776|2016-02-10|SO|III AUa 862/15|Wyrok|56|https://www.saos.org.pl/judgments/214776
+32251|2014-01-15|SO|III AUa 773/13|Wyrok|56|https://www.saos.org.pl/judgments/32251

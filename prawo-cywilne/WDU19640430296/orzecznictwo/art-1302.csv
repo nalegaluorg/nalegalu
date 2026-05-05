@@ -1,14 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-359917|2018-05-16|SO|II Ca 1368/17|Zarządzenie|https://www.saos.org.pl/judgments/359917
-320139|2017-12-29|SO|X GC 873/15|Zarządzenie|https://www.saos.org.pl/judgments/320139
-280104|2017-03-09|SO|XXIII Gz 1177/16|Postanowienie|https://www.saos.org.pl/judgments/280104
-259527|2016-12-15|SO|VI Cz 1530/16|Postanowienie|https://www.saos.org.pl/judgments/259527
-311854|2016-10-26|SO|V GC 426/16|Wyrok|https://www.saos.org.pl/judgments/311854
-234313|2016-06-10|SO|I ACz 449/16|Postanowienie|https://www.saos.org.pl/judgments/234313
-75356|2014-09-25|SO|I ACa 456/14|Wyrok|https://www.saos.org.pl/judgments/75356
-26255|2013-11-18|SO|V ACz 1119/13|Postanowienie|https://www.saos.org.pl/judgments/26255
-146477|2013-05-24|SO|I C 1066/12|Wyrok|https://www.saos.org.pl/judgments/146477
-3672|2012-12-21|SO|I ACz 1121/12|Postanowienie|https://www.saos.org.pl/judgments/3672
-292|2012-10-16|SO|III AUz 179/12|Postanowienie|https://www.saos.org.pl/judgments/292
-165448|2010-12-10|SN|II PZ 42/10|Postanowienie|https://www.saos.org.pl/judgments/165448
-164560|2006-10-13|SN|III CZ 59/06|Postanowienie|https://www.saos.org.pl/judgments/164560
+saos_id|date|court|case_number|type|score|saos_url
+165448|2010-12-10|SN|II PZ 42/10|Postanowienie|69|https://www.saos.org.pl/judgments/165448
+164560|2006-10-13|SN|III CZ 59/06|Postanowienie|69|https://www.saos.org.pl/judgments/164560
+75356|2014-09-25|SO|I ACa 456/14|Wyrok|56|https://www.saos.org.pl/judgments/75356
+234313|2016-06-10|SO|I ACz 449/16|Postanowienie|47|https://www.saos.org.pl/judgments/234313
+26255|2013-11-18|SO|V ACz 1119/13|Postanowienie|47|https://www.saos.org.pl/judgments/26255
+3672|2012-12-21|SO|I ACz 1121/12|Postanowienie|47|https://www.saos.org.pl/judgments/3672
+292|2012-10-16|SO|III AUz 179/12|Postanowienie|47|https://www.saos.org.pl/judgments/292
+259527|2016-12-15|SO|VI Cz 1530/16|Postanowienie|31|https://www.saos.org.pl/judgments/259527
+320139|2017-12-29|SO|X GC 873/15|Zarządzenie|27|https://www.saos.org.pl/judgments/320139

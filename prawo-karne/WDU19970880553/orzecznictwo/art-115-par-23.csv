@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-500838|2022-10-19|SO|II AKa 276/19|Wyrok|https://www.saos.org.pl/judgments/500838
-421237|2019-10-24|SO|II AKa 67/19|Uzasadnienie|https://www.saos.org.pl/judgments/421237
+saos_id|date|court|case_number|type|score|saos_url
+500838|2022-10-19|SO|II AKa 276/19|Wyrok|56|https://www.saos.org.pl/judgments/500838
+421237|2019-10-24|SO|II AKa 67/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/421237

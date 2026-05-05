@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-69253|2014-06-18|SO|XII Ga 54/14|Wyrok|https://www.saos.org.pl/judgments/69253
-74671|2014-06-17|SO|I ACa 508/14|Wyrok|https://www.saos.org.pl/judgments/74671
-381442|2009-01-22|SO|V ACa 551/08|Wyrok|https://www.saos.org.pl/judgments/381442
+saos_id|date|court|case_number|type|score|saos_url
+74671|2014-06-17|SO|I ACa 508/14|Wyrok|56|https://www.saos.org.pl/judgments/74671
+381442|2009-01-22|SO|V ACa 551/08|Wyrok|56|https://www.saos.org.pl/judgments/381442
+69253|2014-06-18|SO|XII Ga 54/14|Wyrok|40|https://www.saos.org.pl/judgments/69253

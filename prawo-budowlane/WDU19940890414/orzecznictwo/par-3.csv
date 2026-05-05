@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-506295|2023-03-13|SO|III Ca 2440/21|Uzasadnienie|https://www.saos.org.pl/judgments/506295
-466042|2022-03-16|SO|XI GC 17/22|Zarządzenie|https://www.saos.org.pl/judgments/466042
-197712|2015-12-11|SO|IV Ca 615/15|Wyrok|https://www.saos.org.pl/judgments/197712
+saos_id|date|court|case_number|type|score|saos_url
+506295|2023-03-13|SO|III Ca 2440/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506295

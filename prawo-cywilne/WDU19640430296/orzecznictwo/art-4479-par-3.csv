@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-249984|2016-09-02|SO|IX U 138/15|Zarządzenie|https://www.saos.org.pl/judgments/249984
-2592|2012-11-29|SO|III AUz 98/12|Postanowienie|https://www.saos.org.pl/judgments/2592
+saos_id|date|court|case_number|type|score|saos_url
+2592|2012-11-29|SO|III AUz 98/12|Postanowienie|47|https://www.saos.org.pl/judgments/2592

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-543339|2025-08-18|SO|III AUa 1057/25|Uzasadnienie|https://www.saos.org.pl/judgments/543339
-543346|2025-07-07|SO|III AUa 701/25|Uzasadnienie|https://www.saos.org.pl/judgments/543346
-541215|2025-06-11|SO|III AUa 635/25|Uzasadnienie|https://www.saos.org.pl/judgments/541215
-541204|2025-03-11|SO|III AUa 122/25|Uzasadnienie|https://www.saos.org.pl/judgments/541204
-544607|2025-02-04|SO|III AUa 1178/24|Uzasadnienie|https://www.saos.org.pl/judgments/544607
+saos_id|date|court|case_number|type|score|saos_url
+543339|2025-08-18|SO|III AUa 1057/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/543339
+543346|2025-07-07|SO|III AUa 701/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/543346
+541215|2025-06-11|SO|III AUa 635/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/541215
+541204|2025-03-11|SO|III AUa 122/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/541204
+544607|2025-02-04|SO|III AUa 1178/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/544607

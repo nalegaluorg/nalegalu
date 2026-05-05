@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-393153|2019-08-14|SO|II AKa 202/18|Wyrok|https://www.saos.org.pl/judgments/393153
-392486|2019-07-24|SO|II AKa 1/19|Wyrok|https://www.saos.org.pl/judgments/392486
-364935|2018-12-17|SO|II AKz 485/18|Postanowienie|https://www.saos.org.pl/judgments/364935
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-260130|2016-06-24|SO|II AKa 73/16|Wyrok|https://www.saos.org.pl/judgments/260130
-196812|2015-05-15|SO|II K 502/14|Wyrok|https://www.saos.org.pl/judgments/196812
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
-384945|2006-06-14|SO|II AKo 82/06|Wyrok|https://www.saos.org.pl/judgments/384945
-107216|2005-01-31|TK|P 9/04|Wyrok|https://www.saos.org.pl/judgments/107216
+saos_id|date|court|case_number|type|score|saos_url
+107216|2005-01-31|TK|P 9/04|Wyrok|98|https://www.saos.org.pl/judgments/107216
+393153|2019-08-14|SO|II AKa 202/18|Wyrok|56|https://www.saos.org.pl/judgments/393153
+392486|2019-07-24|SO|II AKa 1/19|Wyrok|56|https://www.saos.org.pl/judgments/392486
+260130|2016-06-24|SO|II AKa 73/16|Wyrok|56|https://www.saos.org.pl/judgments/260130
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+384945|2006-06-14|SO|II AKo 82/06|Wyrok|56|https://www.saos.org.pl/judgments/384945
+364935|2018-12-17|SO|II AKz 485/18|Postanowienie|47|https://www.saos.org.pl/judgments/364935
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902

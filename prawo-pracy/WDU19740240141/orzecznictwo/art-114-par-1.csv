@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515801|2024-04-10|SO|VI P 142/18|Wyrok|https://www.saos.org.pl/judgments/515801
-466524|2022-04-22|SO|XII Ko 119/21|Wyrok|https://www.saos.org.pl/judgments/466524
-402919|2018-12-27|SO|XVIII Ko 61/18|Wyrok|https://www.saos.org.pl/judgments/402919
+saos_id|date|court|case_number|type|score|saos_url
+515801|2024-04-10|SO|VI P 142/18|Wyrok|40|https://www.saos.org.pl/judgments/515801

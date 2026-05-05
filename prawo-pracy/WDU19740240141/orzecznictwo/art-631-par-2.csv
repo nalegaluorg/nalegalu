@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-391170|2018-12-13|SO|III AUa 249/18|Wyrok|https://www.saos.org.pl/judgments/391170
-243043|2015-07-22|SN|I PK 254/14|Wyrok|https://www.saos.org.pl/judgments/243043
-166047|2014-06-10|SN|III PK 123/13|Wyrok|https://www.saos.org.pl/judgments/166047
-84024|2006-01-17|SN|I PK 143/05|Postanowienie|https://www.saos.org.pl/judgments/84024
-82442|2004-01-22|SN|I PK 291/03|Wyrok|https://www.saos.org.pl/judgments/82442
-80071|2000-11-15|SN|III ZP 20/00|Uchwała|https://www.saos.org.pl/judgments/80071
+saos_id|date|court|case_number|type|score|saos_url
+80071|2000-11-15|SN|III ZP 20/00|Uchwała|96|https://www.saos.org.pl/judgments/80071
+243043|2015-07-22|SN|I PK 254/14|Wyrok|78|https://www.saos.org.pl/judgments/243043
+166047|2014-06-10|SN|III PK 123/13|Wyrok|78|https://www.saos.org.pl/judgments/166047
+82442|2004-01-22|SN|I PK 291/03|Wyrok|78|https://www.saos.org.pl/judgments/82442
+84024|2006-01-17|SN|I PK 143/05|Postanowienie|69|https://www.saos.org.pl/judgments/84024
+391170|2018-12-13|SO|III AUa 249/18|Wyrok|56|https://www.saos.org.pl/judgments/391170

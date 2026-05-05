@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-45183|2013-11-12|SO|II Ca 187/13|Uzasadnienie|https://www.saos.org.pl/judgments/45183
-89258|2008-11-26|SN|III CZP 103/08|Uchwała|https://www.saos.org.pl/judgments/89258
+saos_id|date|court|case_number|type|score|saos_url
+89258|2008-11-26|SN|III CZP 103/08|Uchwała|89|https://www.saos.org.pl/judgments/89258

@@ -1,29 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-544661|2026-01-14|SO|I C 1785/24|Wyrok|https://www.saos.org.pl/judgments/544661
-538050|2025-07-09|SO|III C 894/25|Postanowienie|https://www.saos.org.pl/judgments/538050
-534713|2025-02-12|SO|III AUz 6/25|Postanowienie|https://www.saos.org.pl/judgments/534713
-524476|2025-01-21|SO|I C 989/24|Wyrok|https://www.saos.org.pl/judgments/524476
-525234|2024-08-13|SO|V ACz 103/24|Postanowienie|https://www.saos.org.pl/judgments/525234
-523321|2024-05-09|SO|XX GCo 295/24|Postanowienie|https://www.saos.org.pl/judgments/523321
-523454|2024-03-06|SO|XX GCo 295/24|Postanowienie|https://www.saos.org.pl/judgments/523454
-506842|2023-11-06|SO|III Cz 381/23|Postanowienie|https://www.saos.org.pl/judgments/506842
-523071|2023-10-30|SO|I ACz 991/23|Postanowienie|https://www.saos.org.pl/judgments/523071
-496504|2023-07-25|SO|I C 1888/23|Postanowienie|https://www.saos.org.pl/judgments/496504
-495557|2023-07-20|SO|I C 1202/23|Postanowienie|https://www.saos.org.pl/judgments/495557
-490290|2023-05-23|SO|III AUz 85/23|Postanowienie|https://www.saos.org.pl/judgments/490290
-495921|2023-05-22|SO|I C 1420/23|Postanowienie|https://www.saos.org.pl/judgments/495921
-499941|2023-04-27|SO|I Ca 470/22|Wyrok|https://www.saos.org.pl/judgments/499941
-478563|2022-11-07|SO|VIII Gz 151/22|Uzasadnienie|https://www.saos.org.pl/judgments/478563
-477981|2022-09-28|SO|III AUz 110/22|Postanowienie|https://www.saos.org.pl/judgments/477981
-476004|2022-09-28|SO|III AUz 130/22|Postanowienie|https://www.saos.org.pl/judgments/476004
-509489|2022-02-28|SO|IX U 121/21|Postanowienie|https://www.saos.org.pl/judgments/509489
-460319|2022-01-17|SO|I C 1335/20|Wyrok|https://www.saos.org.pl/judgments/460319
-455601|2021-08-30|SO|XXV Cz 179/21|Postanowienie|https://www.saos.org.pl/judgments/455601
-465772|2021-06-09|SO|V GC 96/21|Wyrok|https://www.saos.org.pl/judgments/465772
-417404|2020-07-22|SO|I AGz 108/20|Postanowienie|https://www.saos.org.pl/judgments/417404
-416689|2020-07-03|SO|VIII Gz 97/20|Postanowienie|https://www.saos.org.pl/judgments/416689
-416687|2020-06-30|SO|VIII Gz 113/20|Postanowienie|https://www.saos.org.pl/judgments/416687
-415668|2020-06-30|SO|IX U 559/19|Postanowienie|https://www.saos.org.pl/judgments/415668
-425400|2020-06-25|SO|III Ca 131/20|Postanowienie|https://www.saos.org.pl/judgments/425400
-406052|2020-02-19|SO|I Cz 56/20|Postanowienie|https://www.saos.org.pl/judgments/406052
-406047|2020-02-18|SO|I Cz 36/20|Postanowienie|https://www.saos.org.pl/judgments/406047
+saos_id|date|court|case_number|type|score|saos_url
+534713|2025-02-12|SO|III AUz 6/25|Postanowienie|47|https://www.saos.org.pl/judgments/534713
+525234|2024-08-13|SO|V ACz 103/24|Postanowienie|47|https://www.saos.org.pl/judgments/525234
+523071|2023-10-30|SO|I ACz 991/23|Postanowienie|47|https://www.saos.org.pl/judgments/523071
+490290|2023-05-23|SO|III AUz 85/23|Postanowienie|47|https://www.saos.org.pl/judgments/490290
+477981|2022-09-28|SO|III AUz 110/22|Postanowienie|47|https://www.saos.org.pl/judgments/477981
+476004|2022-09-28|SO|III AUz 130/22|Postanowienie|47|https://www.saos.org.pl/judgments/476004
+417404|2020-07-22|SO|I AGz 108/20|Postanowienie|47|https://www.saos.org.pl/judgments/417404

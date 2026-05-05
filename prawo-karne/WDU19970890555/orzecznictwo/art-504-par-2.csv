@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-243869|2015-11-18|SN|V KK 189/15|Wyrok|https://www.saos.org.pl/judgments/243869
-168767|2015-03-30|SN|II KK 36/15|Wyrok|https://www.saos.org.pl/judgments/168767
-28823|2013-11-07|SO|VI Ka 402/13|Wyrok|https://www.saos.org.pl/judgments/28823
+saos_id|date|court|case_number|type|score|saos_url
+243869|2015-11-18|SN|V KK 189/15|Wyrok|78|https://www.saos.org.pl/judgments/243869
+168767|2015-03-30|SN|II KK 36/15|Wyrok|78|https://www.saos.org.pl/judgments/168767
+28823|2013-11-07|SO|VI Ka 402/13|Wyrok|40|https://www.saos.org.pl/judgments/28823

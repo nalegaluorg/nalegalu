@@ -1,13 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-458589|2022-01-20|SO|II AKa 480/18|Wyrok|https://www.saos.org.pl/judgments/458589
-395738|2019-10-14|SO|II Ka 370/19|Wyrok|https://www.saos.org.pl/judgments/395738
-372790|2018-10-19|SO|VI Ka 1532/17|Wyrok|https://www.saos.org.pl/judgments/372790
-358692|2018-10-03|SO|VI Ka 1408/17|Wyrok|https://www.saos.org.pl/judgments/358692
-347700|2018-07-03|SO|II Ka 158/18|Wyrok|https://www.saos.org.pl/judgments/347700
-356244|2018-04-16|SO|VI Ka 860/17|Wyrok|https://www.saos.org.pl/judgments/356244
-333008|2018-02-28|SO|II Ka 789/17|Wyrok|https://www.saos.org.pl/judgments/333008
-328257|2018-02-22|SO|II Ka 679/17|Wyrok|https://www.saos.org.pl/judgments/328257
-329489|2017-12-28|SO|II AKa 403/17|Wyrok|https://www.saos.org.pl/judgments/329489
-271633|2017-02-07|SO|II Ka 832/16|Wyrok|https://www.saos.org.pl/judgments/271633
-271290|2017-02-03|SO|II Ka 726/16|Wyrok|https://www.saos.org.pl/judgments/271290
-166586|2014-08-20|SN|IV KZ 48/14|Postanowienie|https://www.saos.org.pl/judgments/166586
+saos_id|date|court|case_number|type|score|saos_url
+166586|2014-08-20|SN|IV KZ 48/14|Postanowienie|69|https://www.saos.org.pl/judgments/166586
+458589|2022-01-20|SO|II AKa 480/18|Wyrok|56|https://www.saos.org.pl/judgments/458589
+329489|2017-12-28|SO|II AKa 403/17|Wyrok|56|https://www.saos.org.pl/judgments/329489
+372790|2018-10-19|SO|VI Ka 1532/17|Wyrok|40|https://www.saos.org.pl/judgments/372790
+358692|2018-10-03|SO|VI Ka 1408/17|Wyrok|40|https://www.saos.org.pl/judgments/358692
+356244|2018-04-16|SO|VI Ka 860/17|Wyrok|40|https://www.saos.org.pl/judgments/356244

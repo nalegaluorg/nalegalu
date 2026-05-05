@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244806|2016-03-01|SN|IV KK 316/15|Wyrok|https://www.saos.org.pl/judgments/244806
-89589|2009-01-28|SN|V KK 309/08|Postanowienie|https://www.saos.org.pl/judgments/89589
-81980|2003-04-30|SN|I KZP 10/03|Postanowienie|https://www.saos.org.pl/judgments/81980
+saos_id|date|court|case_number|type|score|saos_url
+244806|2016-03-01|SN|IV KK 316/15|Wyrok|78|https://www.saos.org.pl/judgments/244806
+89589|2009-01-28|SN|V KK 309/08|Postanowienie|69|https://www.saos.org.pl/judgments/89589
+81980|2003-04-30|SN|I KZP 10/03|Postanowienie|69|https://www.saos.org.pl/judgments/81980

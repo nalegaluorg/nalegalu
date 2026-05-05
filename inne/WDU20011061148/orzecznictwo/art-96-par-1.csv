@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504445|2023-11-24|SO|II W 296/23|Wyrok|https://www.saos.org.pl/judgments/504445
-432220|2019-09-13|SO|VI P 459/18|Wyrok|https://www.saos.org.pl/judgments/432220
-311229|2017-09-19|SO|II W 121/17|Wyrok|https://www.saos.org.pl/judgments/311229
-278663|2017-02-24|SO|XVII Ka 1249/16|Wyrok|https://www.saos.org.pl/judgments/278663
-217547|2016-03-18|SO|V W 1897/15|Wyrok|https://www.saos.org.pl/judgments/217547
-212943|2015-09-09|SO|IV Ka 543/15|Wyrok|https://www.saos.org.pl/judgments/212943
-154940|2015-05-11|SO|IV Ka 78/15|Wyrok|https://www.saos.org.pl/judgments/154940
-152298|2015-04-14|SO|IX Ka 282/15|Wyrok|https://www.saos.org.pl/judgments/152298
-63638|2014-09-02|SO|II Ka 297/14|Wyrok|https://www.saos.org.pl/judgments/63638
+saos_id|date|court|case_number|type|score|saos_url
+432220|2019-09-13|SO|VI P 459/18|Wyrok|40|https://www.saos.org.pl/judgments/432220
+278663|2017-02-24|SO|XVII Ka 1249/16|Wyrok|40|https://www.saos.org.pl/judgments/278663
+154940|2015-05-11|SO|IV Ka 78/15|Wyrok|40|https://www.saos.org.pl/judgments/154940

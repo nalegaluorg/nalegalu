@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-341804|2018-03-06|SO|I ACa 966/17|Wyrok|https://www.saos.org.pl/judgments/341804
-107661|2006-11-30|TK|SK 9/06|Postanowienie|https://www.saos.org.pl/judgments/107661
+saos_id|date|court|case_number|type|score|saos_url
+107661|2006-11-30|TK|SK 9/06|Postanowienie|80|https://www.saos.org.pl/judgments/107661
+341804|2018-03-06|SO|I ACa 966/17|Wyrok|56|https://www.saos.org.pl/judgments/341804

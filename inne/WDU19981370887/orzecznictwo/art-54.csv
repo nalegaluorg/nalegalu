@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-544935|2025-12-29|SO|VI U 518/24|Wyrok|https://www.saos.org.pl/judgments/544935
-456893|2021-12-29|SO|VII Ua 101/20|Wyrok|https://www.saos.org.pl/judgments/456893
-298015|2017-06-09|SO|I ACa 52/17|Wyrok|https://www.saos.org.pl/judgments/298015
-271123|2017-01-26|SO|V U 115/16|Wyrok|https://www.saos.org.pl/judgments/271123
-273291|2016-11-03|SO|VII U 2676/15|Wyrok|https://www.saos.org.pl/judgments/273291
-205086|2016-02-15|SO|VIII U 779/15|Zarządzenie|https://www.saos.org.pl/judgments/205086
-69787|2014-10-23|SO|I ACa 543/14|Wyrok|https://www.saos.org.pl/judgments/69787
-46688|2014-03-18|SO|V U 12/14|Wyrok|https://www.saos.org.pl/judgments/46688
-82735|2004-06-22|SN|II UZP 3/04|Uchwała|https://www.saos.org.pl/judgments/82735
+saos_id|date|court|case_number|type|score|saos_url
+82735|2004-06-22|SN|II UZP 3/04|Uchwała|89|https://www.saos.org.pl/judgments/82735
+298015|2017-06-09|SO|I ACa 52/17|Wyrok|56|https://www.saos.org.pl/judgments/298015
+69787|2014-10-23|SO|I ACa 543/14|Wyrok|56|https://www.saos.org.pl/judgments/69787
+544935|2025-12-29|SO|VI U 518/24|Wyrok|40|https://www.saos.org.pl/judgments/544935
+456893|2021-12-29|SO|VII Ua 101/20|Wyrok|40|https://www.saos.org.pl/judgments/456893
+46688|2014-03-18|SO|V U 12/14|Wyrok|40|https://www.saos.org.pl/judgments/46688
+205086|2016-02-15|SO|VIII U 779/15|Zarządzenie|27|https://www.saos.org.pl/judgments/205086

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-417780|2019-03-27|SO|I C 2312/18|Wyrok|https://www.saos.org.pl/judgments/417780
-361767|2018-10-23|SO|I ACa 97/18|Wyrok|https://www.saos.org.pl/judgments/361767
-96637|2011-12-16|SN|V KK 140/11|Wyrok|https://www.saos.org.pl/judgments/96637
-108887|2008-12-15|TK|Ts 274/08|Postanowienie|https://www.saos.org.pl/judgments/108887
-81980|2003-04-30|SN|I KZP 10/03|Postanowienie|https://www.saos.org.pl/judgments/81980
+saos_id|date|court|case_number|type|score|saos_url
+108887|2008-12-15|TK|Ts 274/08|Postanowienie|80|https://www.saos.org.pl/judgments/108887
+96637|2011-12-16|SN|V KK 140/11|Wyrok|78|https://www.saos.org.pl/judgments/96637
+81980|2003-04-30|SN|I KZP 10/03|Postanowienie|69|https://www.saos.org.pl/judgments/81980
+361767|2018-10-23|SO|I ACa 97/18|Wyrok|56|https://www.saos.org.pl/judgments/361767

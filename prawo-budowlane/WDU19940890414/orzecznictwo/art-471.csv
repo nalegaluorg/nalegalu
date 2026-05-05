@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497391|2021-03-25|SO|I C 295/18|Wyrok|https://www.saos.org.pl/judgments/497391
-371273|2018-09-12|SO|VI ACa 1923/16|Wyrok|https://www.saos.org.pl/judgments/371273
+saos_id|date|court|case_number|type|score|saos_url
+371273|2018-09-12|SO|VI ACa 1923/16|Wyrok|56|https://www.saos.org.pl/judgments/371273

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-227016|2016-04-21|SO|XXIII Ga 133/16|Wyrok|https://www.saos.org.pl/judgments/227016
-71912|2014-11-26|SO|IX Ca 615/14|Postanowienie|https://www.saos.org.pl/judgments/71912
-509821|2014-09-19|SO|V ACa 548/14|Wyrok|https://www.saos.org.pl/judgments/509821
-87950|2008-04-24|SN|IV CNP 6/08|Wyrok|https://www.saos.org.pl/judgments/87950
+saos_id|date|court|case_number|type|score|saos_url
+87950|2008-04-24|SN|IV CNP 6/08|Wyrok|78|https://www.saos.org.pl/judgments/87950
+509821|2014-09-19|SO|V ACa 548/14|Wyrok|56|https://www.saos.org.pl/judgments/509821

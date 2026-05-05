@@ -1,20 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-529278|2025-04-17|SO|IV Ka 11/25|Uzasadnienie|https://www.saos.org.pl/judgments/529278
-511084|2023-10-09|SO|VI Ka 285/23|Wyrok|https://www.saos.org.pl/judgments/511084
-484792|2023-02-09|SO|II Ka 5/23|Wyrok|https://www.saos.org.pl/judgments/484792
-459920|2022-02-14|SO|II Ka 903/21|Wyrok|https://www.saos.org.pl/judgments/459920
-430846|2020-09-07|SO|IV Ka 473/20|Wyrok|https://www.saos.org.pl/judgments/430846
-407584|2019-03-19|SO|VI Ka 162/19|Wyrok|https://www.saos.org.pl/judgments/407584
-356654|2018-08-14|SO|VII Ka 304/18|Wyrok|https://www.saos.org.pl/judgments/356654
-348166|2018-06-05|SO|VII Ka 416/18|Wyrok|https://www.saos.org.pl/judgments/348166
-338164|2017-11-30|SO|II AKa 299/17|Wyrok|https://www.saos.org.pl/judgments/338164
-318755|2017-11-07|SO|VI Ka 711/17|Uzasadnienie|https://www.saos.org.pl/judgments/318755
-308887|2017-08-21|SO|VII Ka 560/17|Wyrok|https://www.saos.org.pl/judgments/308887
-284669|2017-03-09|SO|IV Ka 68/17|Wyrok|https://www.saos.org.pl/judgments/284669
-280908|2017-03-07|SO|IV Ka 433/16|Wyrok|https://www.saos.org.pl/judgments/280908
-266905|2016-11-07|SO|VIII Ka 568/16|Wyrok|https://www.saos.org.pl/judgments/266905
-244962|2016-03-23|SN|IV KK 42/16|Postanowienie|https://www.saos.org.pl/judgments/244962
-75740|2014-11-14|SO|VI Ka 788/14|Wyrok|https://www.saos.org.pl/judgments/75740
-72978|2014-11-14|SO|II Ka 265/14|Wyrok|https://www.saos.org.pl/judgments/72978
-31883|2013-12-09|SO|VIII Ka 844/13|Wyrok|https://www.saos.org.pl/judgments/31883
-205806|1998-10-06|TK|K 36/97|Wyrok|https://www.saos.org.pl/judgments/205806
+saos_id|date|court|case_number|type|score|saos_url
+205806|1998-10-06|TK|K 36/97|Wyrok|98|https://www.saos.org.pl/judgments/205806
+244962|2016-03-23|SN|IV KK 42/16|Postanowienie|69|https://www.saos.org.pl/judgments/244962
+338164|2017-11-30|SO|II AKa 299/17|Wyrok|56|https://www.saos.org.pl/judgments/338164
+511084|2023-10-09|SO|VI Ka 285/23|Wyrok|40|https://www.saos.org.pl/judgments/511084
+430846|2020-09-07|SO|IV Ka 473/20|Wyrok|40|https://www.saos.org.pl/judgments/430846
+356654|2018-08-14|SO|VII Ka 304/18|Wyrok|40|https://www.saos.org.pl/judgments/356654
+348166|2018-06-05|SO|VII Ka 416/18|Wyrok|40|https://www.saos.org.pl/judgments/348166
+308887|2017-08-21|SO|VII Ka 560/17|Wyrok|40|https://www.saos.org.pl/judgments/308887
+284669|2017-03-09|SO|IV Ka 68/17|Wyrok|40|https://www.saos.org.pl/judgments/284669

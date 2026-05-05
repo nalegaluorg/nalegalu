@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-399772|2018-02-13|SO|I AGa 31/18|Uzasadnienie|https://www.saos.org.pl/judgments/399772
+saos_id|date|court|case_number|type|score|saos_url
+399772|2018-02-13|SO|I AGa 31/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/399772

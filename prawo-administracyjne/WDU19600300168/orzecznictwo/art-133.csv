@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-541207|2025-07-07|SO|III AUa 123/25|Uzasadnienie|https://www.saos.org.pl/judgments/541207
-515194|2021-09-29|SO|XVII AmE 9/21|Wyrok|https://www.saos.org.pl/judgments/515194
-460665|2021-06-15|SO|III AUz 61/21|Postanowienie|https://www.saos.org.pl/judgments/460665
-342173|2018-04-05|SO|XVII AmE 136/15|Wyrok|https://www.saos.org.pl/judgments/342173
-227068|2016-05-09|SO|I C 1088/15|Wyrok|https://www.saos.org.pl/judgments/227068
-195641|2015-12-01|SO|III Ca 669/15|Postanowienie|https://www.saos.org.pl/judgments/195641
-179733|2015-08-26|SO|III Ca 456/15|Postanowienie|https://www.saos.org.pl/judgments/179733
-70975|2014-09-25|SO|I ACa 320/14|Wyrok|https://www.saos.org.pl/judgments/70975
-109677|2010-03-16|TK|K 24/08|Wyrok|https://www.saos.org.pl/judgments/109677
-77789|1997-09-03|SN|III RN 37/97|Postanowienie|https://www.saos.org.pl/judgments/77789
+saos_id|date|court|case_number|type|score|saos_url
+109677|2010-03-16|TK|K 24/08|Wyrok|98|https://www.saos.org.pl/judgments/109677
+77789|1997-09-03|SN|III RN 37/97|Postanowienie|69|https://www.saos.org.pl/judgments/77789
+70975|2014-09-25|SO|I ACa 320/14|Wyrok|56|https://www.saos.org.pl/judgments/70975
+460665|2021-06-15|SO|III AUz 61/21|Postanowienie|47|https://www.saos.org.pl/judgments/460665
+541207|2025-07-07|SO|III AUa 123/25|Uzasadnienie|42|https://www.saos.org.pl/judgments/541207

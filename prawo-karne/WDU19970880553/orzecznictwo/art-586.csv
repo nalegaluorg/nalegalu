@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-418164|2020-06-26|SO|II AKa 98/20|Wyrok|https://www.saos.org.pl/judgments/418164
-356411|2018-05-23|SO|I AGa 130/18|Wyrok|https://www.saos.org.pl/judgments/356411
-141953|2013-10-30|SO|II AKa 201/13|Wyrok|https://www.saos.org.pl/judgments/141953
+saos_id|date|court|case_number|type|score|saos_url
+418164|2020-06-26|SO|II AKa 98/20|Wyrok|56|https://www.saos.org.pl/judgments/418164
+356411|2018-05-23|SO|I AGa 130/18|Wyrok|56|https://www.saos.org.pl/judgments/356411
+141953|2013-10-30|SO|II AKa 201/13|Wyrok|56|https://www.saos.org.pl/judgments/141953

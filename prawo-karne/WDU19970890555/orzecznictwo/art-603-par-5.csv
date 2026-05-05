@@ -1,12 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-525503|2023-09-06|SO|II AKz 1062/23|Postanowienie|https://www.saos.org.pl/judgments/525503
-525508|2022-12-13|SO|II AKz 1384/22|Postanowienie|https://www.saos.org.pl/judgments/525508
-431525|2020-11-10|SO|II AKz 1103/20|Postanowienie|https://www.saos.org.pl/judgments/431525
-335214|2018-01-18|SO|II Kop 117/17|Postanowienie|https://www.saos.org.pl/judgments/335214
-252490|2016-10-13|SO|II AKz 357/16|Postanowienie|https://www.saos.org.pl/judgments/252490
-219219|2016-04-18|SO|II AKz 69/16|Postanowienie|https://www.saos.org.pl/judgments/219219
-140412|2013-09-25|SO|II AKz 310/13|Postanowienie|https://www.saos.org.pl/judgments/140412
-139806|2013-06-28|SO|II AKz 194/13|Postanowienie|https://www.saos.org.pl/judgments/139806
-99017|2012-09-11|SN|IV KO 36/12|Postanowienie|https://www.saos.org.pl/judgments/99017
-110338|2011-09-21|TK|SK 6/10|Wyrok|https://www.saos.org.pl/judgments/110338
-82797|2004-08-26|SN|I KZP 16/04|Uchwała|https://www.saos.org.pl/judgments/82797
+saos_id|date|court|case_number|type|score|saos_url
+110338|2011-09-21|TK|SK 6/10|Wyrok|98|https://www.saos.org.pl/judgments/110338
+82797|2004-08-26|SN|I KZP 16/04|Uchwała|89|https://www.saos.org.pl/judgments/82797
+99017|2012-09-11|SN|IV KO 36/12|Postanowienie|69|https://www.saos.org.pl/judgments/99017
+525503|2023-09-06|SO|II AKz 1062/23|Postanowienie|47|https://www.saos.org.pl/judgments/525503
+525508|2022-12-13|SO|II AKz 1384/22|Postanowienie|47|https://www.saos.org.pl/judgments/525508
+431525|2020-11-10|SO|II AKz 1103/20|Postanowienie|47|https://www.saos.org.pl/judgments/431525
+252490|2016-10-13|SO|II AKz 357/16|Postanowienie|47|https://www.saos.org.pl/judgments/252490
+219219|2016-04-18|SO|II AKz 69/16|Postanowienie|47|https://www.saos.org.pl/judgments/219219
+140412|2013-09-25|SO|II AKz 310/13|Postanowienie|47|https://www.saos.org.pl/judgments/140412
+139806|2013-06-28|SO|II AKz 194/13|Postanowienie|47|https://www.saos.org.pl/judgments/139806
+335214|2018-01-18|SO|II Kop 117/17|Postanowienie|31|https://www.saos.org.pl/judgments/335214

@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-537835|2025-06-05|SO|IV P 1831/24|Wyrok|https://www.saos.org.pl/judgments/537835
-511363|2024-01-15|SO|VI P 221/20|Wyrok|https://www.saos.org.pl/judgments/511363
-372621|2018-06-28|SO|IV Pa 7/17|Wyrok|https://www.saos.org.pl/judgments/372621
-256887|2016-10-28|SO|VI P 389/15|Wyrok|https://www.saos.org.pl/judgments/256887
-219902|2016-02-16|SO|IV P 109/15|Wyrok|https://www.saos.org.pl/judgments/219902
+saos_id|date|court|case_number|type|score|saos_url
+511363|2024-01-15|SO|VI P 221/20|Wyrok|40|https://www.saos.org.pl/judgments/511363
+372621|2018-06-28|SO|IV Pa 7/17|Wyrok|40|https://www.saos.org.pl/judgments/372621

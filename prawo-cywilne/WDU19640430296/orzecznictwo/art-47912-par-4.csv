@@ -1,2 +1,24 @@
-saos_id|date|court|case_number|type|saos_url
-325445|2015-03-26|SO|XV GC 791/11|Uzasadnienie|https://www.saos.org.pl/judgments/325445
+saos_id|date|court|case_number|type|score|saos_url
+108683|2008-02-26|TK|SK 89/06|Wyrok|98|https://www.saos.org.pl/judgments/108683
+84692|2006-10-25|SN|III CZP 63/06|Uchwała|89|https://www.saos.org.pl/judgments/84692
+111259|2012-10-10|TK|Ts 157/11|Postanowienie|80|https://www.saos.org.pl/judgments/111259
+111257|2012-07-12|TK|Ts 157/11|Postanowienie|80|https://www.saos.org.pl/judgments/111257
+95892|2011-10-07|SN|II CSK 51/11|Wyrok|78|https://www.saos.org.pl/judgments/95892
+91957|2010-02-25|SN|V CSK 297/09|Wyrok|78|https://www.saos.org.pl/judgments/91957
+80923|2001-10-23|SN|I CKN 323/99|Wyrok|78|https://www.saos.org.pl/judgments/80923
+494859|2023-04-19|SO|I AGa 109/22|Wyrok|56|https://www.saos.org.pl/judgments/494859
+428910|2020-12-01|SO|I AGa 105/19|Wyrok|56|https://www.saos.org.pl/judgments/428910
+233115|2016-02-10|SO|I ACa 1105/15|Wyrok|56|https://www.saos.org.pl/judgments/233115
+172162|2015-05-29|SO|VI ACa 1020/14|Wyrok|56|https://www.saos.org.pl/judgments/172162
+68091|2014-08-19|SO|I ACa 174/14|Wyrok|56|https://www.saos.org.pl/judgments/68091
+126493|2014-07-30|SO|I ACa 687/14|Wyrok|56|https://www.saos.org.pl/judgments/126493
+45471|2014-04-11|SO|I ACa 1574/13|Wyrok|56|https://www.saos.org.pl/judgments/45471
+24693|2013-09-06|SO|I ACa 319/13|Wyrok|56|https://www.saos.org.pl/judgments/24693
+18073|2013-04-16|SO|I ACa 1230/12|Wyrok|56|https://www.saos.org.pl/judgments/18073
+10363|2013-04-03|SO|I ACa 148/13|Wyrok|56|https://www.saos.org.pl/judgments/10363
+3698|2012-12-12|SO|I ACa 936/12|Wyrok|56|https://www.saos.org.pl/judgments/3698
+88|2012-10-05|SO|I ACa 891/12|Wyrok|56|https://www.saos.org.pl/judgments/88
+149553|2015-04-10|SO|X Ga 104/15|Wyrok|40|https://www.saos.org.pl/judgments/149553
+31924|2013-12-05|SO|VI Ga 236/13|Wyrok|40|https://www.saos.org.pl/judgments/31924
+33530|2013-11-20|SO|XII Ga 375/13|Wyrok|40|https://www.saos.org.pl/judgments/33530
+427182|2020-12-11|SO|XIII Ga 1552/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/427182

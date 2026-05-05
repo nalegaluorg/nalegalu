@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-489704|2023-02-07|SO|II AKz 523/22|Postanowienie|https://www.saos.org.pl/judgments/489704
-343296|2018-05-10|SO|II AKa 99/18|Wyrok|https://www.saos.org.pl/judgments/343296
-80586|2001-05-15|SN|V KKN 598/98|Wyrok|https://www.saos.org.pl/judgments/80586
+saos_id|date|court|case_number|type|score|saos_url
+80586|2001-05-15|SN|V KKN 598/98|Wyrok|78|https://www.saos.org.pl/judgments/80586
+343296|2018-05-10|SO|II AKa 99/18|Wyrok|56|https://www.saos.org.pl/judgments/343296
+489704|2023-02-07|SO|II AKz 523/22|Postanowienie|47|https://www.saos.org.pl/judgments/489704

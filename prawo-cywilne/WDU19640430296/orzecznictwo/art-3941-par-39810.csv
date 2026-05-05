@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-163825|2005-12-08|SN|II CZ 110/05|Postanowienie|https://www.saos.org.pl/judgments/163825
+saos_id|date|court|case_number|type|score|saos_url
+163825|2005-12-08|SN|II CZ 110/05|Postanowienie|69|https://www.saos.org.pl/judgments/163825

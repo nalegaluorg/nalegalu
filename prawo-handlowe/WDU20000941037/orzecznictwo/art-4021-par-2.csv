@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-477540|2022-07-01|SO|I AGa 394/21|Wyrok|https://www.saos.org.pl/judgments/477540
-357512|2016-02-03|SO|V ACa 443/15|Wyrok|https://www.saos.org.pl/judgments/357512
-128685|2014-12-18|SO|I ACa 706/14|Wyrok|https://www.saos.org.pl/judgments/128685
+saos_id|date|court|case_number|type|score|saos_url
+477540|2022-07-01|SO|I AGa 394/21|Wyrok|56|https://www.saos.org.pl/judgments/477540
+357512|2016-02-03|SO|V ACa 443/15|Wyrok|56|https://www.saos.org.pl/judgments/357512
+128685|2014-12-18|SO|I ACa 706/14|Wyrok|56|https://www.saos.org.pl/judgments/128685

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-200429|2010-07-01|KIO|KIO 1170/10|Wyrok|https://www.saos.org.pl/judgments/200429
+saos_id|date|court|case_number|type|score|saos_url
+200429|2010-07-01|KIO|KIO 1170/10|Wyrok|44|https://www.saos.org.pl/judgments/200429

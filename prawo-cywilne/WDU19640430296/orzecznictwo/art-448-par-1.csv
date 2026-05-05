@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-407219|2019-07-26|SO|I ACa 716/18|Wyrok|https://www.saos.org.pl/judgments/407219
-2410|2012-10-19|SO|I ACa 421/12|Wyrok|https://www.saos.org.pl/judgments/2410
+saos_id|date|court|case_number|type|score|saos_url
+407219|2019-07-26|SO|I ACa 716/18|Wyrok|56|https://www.saos.org.pl/judgments/407219
+2410|2012-10-19|SO|I ACa 421/12|Wyrok|56|https://www.saos.org.pl/judgments/2410

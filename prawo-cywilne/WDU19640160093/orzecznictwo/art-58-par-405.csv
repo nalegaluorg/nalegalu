@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-519647|2024-12-16|SO|I ACa 1643/23|Wyrok|https://www.saos.org.pl/judgments/519647
-494299|2023-12-01|SO|I ACa 544/23|Wyrok|https://www.saos.org.pl/judgments/494299
-494086|2023-10-10|SO|I ACa 345/23|Wyrok|https://www.saos.org.pl/judgments/494086
-85016|2007-01-17|SN|II CSK 407/06|Wyrok|https://www.saos.org.pl/judgments/85016
+saos_id|date|court|case_number|type|score|saos_url
+85016|2007-01-17|SN|II CSK 407/06|Wyrok|78|https://www.saos.org.pl/judgments/85016
+519647|2024-12-16|SO|I ACa 1643/23|Wyrok|56|https://www.saos.org.pl/judgments/519647
+494299|2023-12-01|SO|I ACa 544/23|Wyrok|56|https://www.saos.org.pl/judgments/494299
+494086|2023-10-10|SO|I ACa 345/23|Wyrok|56|https://www.saos.org.pl/judgments/494086

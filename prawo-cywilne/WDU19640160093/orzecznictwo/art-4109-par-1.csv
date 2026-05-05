@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101578|2013-04-24|SN|IV CSK 600/12|Wyrok|https://www.saos.org.pl/judgments/101578
+saos_id|date|court|case_number|type|score|saos_url
+101578|2013-04-24|SN|IV CSK 600/12|Wyrok|78|https://www.saos.org.pl/judgments/101578

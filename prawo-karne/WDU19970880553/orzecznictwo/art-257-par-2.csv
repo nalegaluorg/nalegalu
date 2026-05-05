@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-543177|2025-07-09|SO|II AKa 440/24|Wyrok|https://www.saos.org.pl/judgments/543177
-501331|2024-03-17|SO|II AKa 98/22|Uzasadnienie|https://www.saos.org.pl/judgments/501331
-451407|2021-11-03|SO|II K 24/21|Wyrok|https://www.saos.org.pl/judgments/451407
-418327|2020-08-05|SO|II AKa 93/20|Wyrok|https://www.saos.org.pl/judgments/418327
-408671|2019-09-24|SO|IV Ka 538/19|Wyrok|https://www.saos.org.pl/judgments/408671
-376664|2018-12-10|SO|I AGa 203/18|Wyrok|https://www.saos.org.pl/judgments/376664
-314361|2017-09-26|SO|II AKa 142/17|Wyrok|https://www.saos.org.pl/judgments/314361
-154750|2015-04-09|SO|V K 211/14|Wyrok|https://www.saos.org.pl/judgments/154750
-24512|2013-10-22|SO|IX Ka 1260/13|Wyrok|https://www.saos.org.pl/judgments/24512
-9908|2012-12-20|SO|VI ACa 1199/11|Wyrok|https://www.saos.org.pl/judgments/9908
-137148|2012-11-21|SO|II AKa 153/12|Wyrok|https://www.saos.org.pl/judgments/137148
+saos_id|date|court|case_number|type|score|saos_url
+543177|2025-07-09|SO|II AKa 440/24|Wyrok|56|https://www.saos.org.pl/judgments/543177
+418327|2020-08-05|SO|II AKa 93/20|Wyrok|56|https://www.saos.org.pl/judgments/418327
+376664|2018-12-10|SO|I AGa 203/18|Wyrok|56|https://www.saos.org.pl/judgments/376664
+314361|2017-09-26|SO|II AKa 142/17|Wyrok|56|https://www.saos.org.pl/judgments/314361
+9908|2012-12-20|SO|VI ACa 1199/11|Wyrok|56|https://www.saos.org.pl/judgments/9908
+137148|2012-11-21|SO|II AKa 153/12|Wyrok|56|https://www.saos.org.pl/judgments/137148
+501331|2024-03-17|SO|II AKa 98/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/501331

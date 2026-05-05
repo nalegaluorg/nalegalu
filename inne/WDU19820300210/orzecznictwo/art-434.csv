@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-127094|2014-02-27|SO|I ACa 1201/12|Wyrok|https://www.saos.org.pl/judgments/127094
-33727|2014-02-06|SO|IV Ka 1166/13|Wyrok|https://www.saos.org.pl/judgments/33727
+saos_id|date|court|case_number|type|score|saos_url
+127094|2014-02-27|SO|I ACa 1201/12|Wyrok|56|https://www.saos.org.pl/judgments/127094

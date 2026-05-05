@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-211832|2016-02-02|SO|I ACa 1108/15|Wyrok|https://www.saos.org.pl/judgments/211832
-410590|2015-05-22|SO|I C 39/15|Wyrok|https://www.saos.org.pl/judgments/410590
+saos_id|date|court|case_number|type|score|saos_url
+211832|2016-02-02|SO|I ACa 1108/15|Wyrok|56|https://www.saos.org.pl/judgments/211832

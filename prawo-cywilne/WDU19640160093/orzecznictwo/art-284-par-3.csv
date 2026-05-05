@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-541810|2024-10-17|SO|I ACa 2299/23|Wyrok|https://www.saos.org.pl/judgments/541810
-254112|2016-07-15|SO|VIII K 281/16|Wyrok|https://www.saos.org.pl/judgments/254112
+saos_id|date|court|case_number|type|score|saos_url
+541810|2024-10-17|SO|I ACa 2299/23|Wyrok|56|https://www.saos.org.pl/judgments/541810

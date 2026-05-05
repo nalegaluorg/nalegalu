@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-488056|2023-01-13|SO|I AGa 437/21|Wyrok|https://www.saos.org.pl/judgments/488056
-494898|2022-08-30|SO|I AGa 145/21|Wyrok|https://www.saos.org.pl/judgments/494898
-445572|2020-05-21|SO|I C 1451/19|Wyrok|https://www.saos.org.pl/judgments/445572
-274612|2015-11-26|SO|IX GC 956/14|Wyrok|https://www.saos.org.pl/judgments/274612
-62535|2014-09-24|SO|VIII Ca 364/14|Wyrok|https://www.saos.org.pl/judgments/62535
-166476|2014-08-07|SN|II CSK 610/13|Wyrok|https://www.saos.org.pl/judgments/166476
-38506|2012-12-31|SO|I ACa 401/12|Wyrok|https://www.saos.org.pl/judgments/38506
+saos_id|date|court|case_number|type|score|saos_url
+166476|2014-08-07|SN|II CSK 610/13|Wyrok|78|https://www.saos.org.pl/judgments/166476
+488056|2023-01-13|SO|I AGa 437/21|Wyrok|56|https://www.saos.org.pl/judgments/488056
+494898|2022-08-30|SO|I AGa 145/21|Wyrok|56|https://www.saos.org.pl/judgments/494898
+38506|2012-12-31|SO|I ACa 401/12|Wyrok|56|https://www.saos.org.pl/judgments/38506
+274612|2015-11-26|SO|IX GC 956/14|Wyrok|40|https://www.saos.org.pl/judgments/274612

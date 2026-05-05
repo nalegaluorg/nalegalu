@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-267981|2010-03-24|SO|XVII AmC 1127/09|Wyrok|https://www.saos.org.pl/judgments/267981
+saos_id|date|court|case_number|type|score|saos_url
+327457|2017-12-20|SO|I ACa 538/17|Wyrok|56|https://www.saos.org.pl/judgments/327457
+35122|2013-10-29|SO|VI ACa 386/13|Wyrok|56|https://www.saos.org.pl/judgments/35122
+20843|2013-06-18|SO|VI ACa 1698/12|Wyrok|56|https://www.saos.org.pl/judgments/20843
+1239|2012-06-26|SO|VI ACa 87/12|Wyrok|56|https://www.saos.org.pl/judgments/1239
+1237|2012-01-25|SO|VI ACa 856/11|Wyrok|56|https://www.saos.org.pl/judgments/1237
+7089|2011-02-18|SO|VI ACa 189/10|Wyrok|56|https://www.saos.org.pl/judgments/7089

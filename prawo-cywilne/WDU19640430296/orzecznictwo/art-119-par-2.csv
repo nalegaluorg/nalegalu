@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-483948|2022-12-22|SO|I Cz 80/22|Postanowienie|https://www.saos.org.pl/judgments/483948
-150078|2015-02-11|SO|I ACa 1652/14|Wyrok|https://www.saos.org.pl/judgments/150078
-83797|2005-10-11|SN|V CK 209/05|Postanowienie|https://www.saos.org.pl/judgments/83797
-79937|2000-09-21|SN|III CZP 14/00|Uchwała|https://www.saos.org.pl/judgments/79937
+saos_id|date|court|case_number|type|score|saos_url
+79937|2000-09-21|SN|III CZP 14/00|Uchwała|96|https://www.saos.org.pl/judgments/79937
+83797|2005-10-11|SN|V CK 209/05|Postanowienie|69|https://www.saos.org.pl/judgments/83797
+150078|2015-02-11|SO|I ACa 1652/14|Wyrok|56|https://www.saos.org.pl/judgments/150078

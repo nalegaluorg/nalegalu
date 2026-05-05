@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245322|2016-05-24|SN|V KK 108/16|Wyrok|https://www.saos.org.pl/judgments/245322
+saos_id|date|court|case_number|type|score|saos_url
+245322|2016-05-24|SN|V KK 108/16|Wyrok|78|https://www.saos.org.pl/judgments/245322

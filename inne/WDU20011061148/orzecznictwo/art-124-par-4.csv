@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-466247|2022-04-22|SO|VI Ka 18/22|Wyrok|https://www.saos.org.pl/judgments/466247
-158522|2015-06-23|SO|II Ka 175/15|Wyrok|https://www.saos.org.pl/judgments/158522
+saos_id|date|court|case_number|type|score|saos_url
+466247|2022-04-22|SO|VI Ka 18/22|Wyrok|40|https://www.saos.org.pl/judgments/466247

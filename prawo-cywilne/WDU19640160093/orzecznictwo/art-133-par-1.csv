@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-474592|2022-04-14|SO|I C 1903/21|Wyrok|https://www.saos.org.pl/judgments/474592
-437569|2021-02-16|SO|II C 1086/20|Wyrok|https://www.saos.org.pl/judgments/437569
-368410|2018-11-13|SO|VIII Pa 169/18|Uzasadnienie|https://www.saos.org.pl/judgments/368410
-227815|2016-04-21|SO|XV C 285/14|Wyrok|https://www.saos.org.pl/judgments/227815
-65718|2014-09-04|SO|I ACa 1577/13|Wyrok|https://www.saos.org.pl/judgments/65718
-93855|2011-01-11|SN|I PK 104/10|Wyrok|https://www.saos.org.pl/judgments/93855
-205407|1989-05-31|TK|K 2/88|Wyrok|https://www.saos.org.pl/judgments/205407
-205415|1989-02-08|TK|S 2/89|Postanowienie|https://www.saos.org.pl/judgments/205415
+saos_id|date|court|case_number|type|score|saos_url
+205407|1989-05-31|TK|K 2/88|Wyrok|98|https://www.saos.org.pl/judgments/205407
+205415|1989-02-08|TK|S 2/89|Postanowienie|80|https://www.saos.org.pl/judgments/205415
+93855|2011-01-11|SN|I PK 104/10|Wyrok|78|https://www.saos.org.pl/judgments/93855
+65718|2014-09-04|SO|I ACa 1577/13|Wyrok|56|https://www.saos.org.pl/judgments/65718
+474592|2022-04-14|SO|I C 1903/21|Wyrok|40|https://www.saos.org.pl/judgments/474592
+437569|2021-02-16|SO|II C 1086/20|Wyrok|40|https://www.saos.org.pl/judgments/437569
+368410|2018-11-13|SO|VIII Pa 169/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/368410

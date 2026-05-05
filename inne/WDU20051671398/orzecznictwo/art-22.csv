@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-428132|2020-02-07|SO|I ACa 220/19|Wyrok|https://www.saos.org.pl/judgments/428132
-374680|2019-02-28|SO|VIII Gz 22/19|Postanowienie|https://www.saos.org.pl/judgments/374680
-370452|2019-01-18|SO|VIII Gz 9/19|Postanowienie|https://www.saos.org.pl/judgments/370452
-325838|2018-01-30|SO|VIII Gz 225/17|Postanowienie|https://www.saos.org.pl/judgments/325838
-207959|2016-02-22|SO|II Cz 87/16|Postanowienie|https://www.saos.org.pl/judgments/207959
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-125517|2014-12-05|SO|VII GC 209/12|Wyrok|https://www.saos.org.pl/judgments/125517
-90017|2009-04-08|SN|II PZP 1/09|Uchwała|https://www.saos.org.pl/judgments/90017
-87197|2008-01-29|SN|II PZ 68/07|Postanowienie|https://www.saos.org.pl/judgments/87197
+saos_id|date|court|case_number|type|score|saos_url
+90017|2009-04-08|SN|II PZP 1/09|Uchwała|89|https://www.saos.org.pl/judgments/90017
+87197|2008-01-29|SN|II PZ 68/07|Postanowienie|69|https://www.saos.org.pl/judgments/87197
+428132|2020-02-07|SO|I ACa 220/19|Wyrok|56|https://www.saos.org.pl/judgments/428132

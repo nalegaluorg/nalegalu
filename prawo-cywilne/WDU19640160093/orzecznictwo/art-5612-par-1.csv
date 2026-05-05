@@ -1,2 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-366593|2016-04-26|SO|XVI GC 2247/12|Wyrok|https://www.saos.org.pl/judgments/366593
+saos_id|date|court|case_number|type|score|saos_url
+402036|2019-05-21|SO|I AGa 380/18|Wyrok|56|https://www.saos.org.pl/judgments/402036
+338336|2018-04-04|SO|V AGz 90/18|Postanowienie|47|https://www.saos.org.pl/judgments/338336
+540725|2025-02-04|SO|II Ca 55/24|Wyrok|40|https://www.saos.org.pl/judgments/540725
+499033|2023-04-28|SO|I C 675/21|Wyrok|40|https://www.saos.org.pl/judgments/499033
+437568|2021-01-28|SO|II C 1080/19|Wyrok|40|https://www.saos.org.pl/judgments/437568
+425981|2020-08-19|SO|VIII C 656/19|Wyrok|40|https://www.saos.org.pl/judgments/425981
+422434|2020-08-11|SO|II C 149/20|Wyrok|40|https://www.saos.org.pl/judgments/422434
+404067|2020-01-21|SO|VIII C 1140/19|Wyrok|40|https://www.saos.org.pl/judgments/404067
+533588|2019-03-15|SO|II Ca 2483/18|Wyrok|40|https://www.saos.org.pl/judgments/533588
+362451|2018-07-13|SO|II Ca 1410/18|Wyrok|40|https://www.saos.org.pl/judgments/362451
+291602|2017-05-17|SO|V Ga 72/17|Wyrok|40|https://www.saos.org.pl/judgments/291602
+281424|2017-03-07|SO|I C 17/17|Wyrok|40|https://www.saos.org.pl/judgments/281424
+263969|2016-12-14|SO|VIII C 2021/16|Wyrok|40|https://www.saos.org.pl/judgments/263969
+299576|2017-07-14|SO|III Ca 325/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/299576

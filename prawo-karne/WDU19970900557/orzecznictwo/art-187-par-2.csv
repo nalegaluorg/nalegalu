@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-474289|2022-04-20|SO|VI Ka 1189/21|Uzasadnienie|https://www.saos.org.pl/judgments/474289
-177085|2015-07-31|SO|II Ka 294/15|Wyrok|https://www.saos.org.pl/judgments/177085
+saos_id|date|court|case_number|type|score|saos_url
+177085|2015-07-31|SO|II Ka 294/15|Wyrok|40|https://www.saos.org.pl/judgments/177085
+474289|2022-04-20|SO|VI Ka 1189/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/474289

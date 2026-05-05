@@ -1,10 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-527728|2020-07-23|SO|II Ca 1462/19|Uzasadnienie|https://www.saos.org.pl/judgments/527728
-425660|2020-07-17|SO|I C 513/18|Wyrok|https://www.saos.org.pl/judgments/425660
-405197|2018-11-30|SO|I C 524/17|Wyrok|https://www.saos.org.pl/judgments/405197
-305902|2017-09-12|SO|III U 527/17|Wyrok|https://www.saos.org.pl/judgments/305902
-284358|2017-04-26|SO|I Ca 105/17|Wyrok|https://www.saos.org.pl/judgments/284358
-274592|2017-02-23|SO|IX Ca 843/16|Postanowienie|https://www.saos.org.pl/judgments/274592
-149559|2015-01-27|SO|I ACa 1490/14|Wyrok|https://www.saos.org.pl/judgments/149559
-125231|2014-11-24|SO|II Ca 1127/14|Postanowienie|https://www.saos.org.pl/judgments/125231
-22505|2013-10-02|SO|VI RCa 189/13|Wyrok|https://www.saos.org.pl/judgments/22505
+saos_id|date|court|case_number|type|score|saos_url
+149559|2015-01-27|SO|I ACa 1490/14|Wyrok|56|https://www.saos.org.pl/judgments/149559

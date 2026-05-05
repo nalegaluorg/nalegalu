@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-526451|2019-10-16|SO|IV Ka 319/19|Uzasadnienie|https://www.saos.org.pl/judgments/526451
-363997|2018-09-13|SO|VI Ka 291/18|Wyrok|https://www.saos.org.pl/judgments/363997
-254113|2016-02-29|SO|VIII K 389/14|Wyrok|https://www.saos.org.pl/judgments/254113
-241162|2015-12-23|SO|II K 67/15|Wyrok|https://www.saos.org.pl/judgments/241162
-190384|2015-11-19|SO|V Ka 442/15|Wyrok|https://www.saos.org.pl/judgments/190384
-185709|2015-08-31|SO|III K 131/15|Postanowienie|https://www.saos.org.pl/judgments/185709
-157124|2015-05-25|SO|III K 121/14|Wyrok|https://www.saos.org.pl/judgments/157124
-171378|2015-05-20|SO|II W 503/14|Wyrok|https://www.saos.org.pl/judgments/171378
-152364|2015-03-23|SO|XVII Ka 1184/14|Wyrok|https://www.saos.org.pl/judgments/152364
-131827|2015-02-12|SO|II K 766/13|Wyrok|https://www.saos.org.pl/judgments/131827
-65894|2014-08-01|SO|II AKa 192/14|Wyrok|https://www.saos.org.pl/judgments/65894
-53021|2014-06-03|SO|II K 918/13|Wyrok|https://www.saos.org.pl/judgments/53021
-143743|2014-02-12|SO|II AKa 9/14|Wyrok|https://www.saos.org.pl/judgments/143743
-42069|2014-01-23|SO|X K 589/11|Wyrok|https://www.saos.org.pl/judgments/42069
-40546|2013-05-09|SO|VI Ka 173/13|Wyrok|https://www.saos.org.pl/judgments/40546
-138056|2013-02-13|SO|II AKa 3/13|Wyrok|https://www.saos.org.pl/judgments/138056
+saos_id|date|court|case_number|type|score|saos_url
+65894|2014-08-01|SO|II AKa 192/14|Wyrok|56|https://www.saos.org.pl/judgments/65894
+143743|2014-02-12|SO|II AKa 9/14|Wyrok|56|https://www.saos.org.pl/judgments/143743
+138056|2013-02-13|SO|II AKa 3/13|Wyrok|56|https://www.saos.org.pl/judgments/138056
+363997|2018-09-13|SO|VI Ka 291/18|Wyrok|40|https://www.saos.org.pl/judgments/363997
+157124|2015-05-25|SO|III K 121/14|Wyrok|40|https://www.saos.org.pl/judgments/157124
+152364|2015-03-23|SO|XVII Ka 1184/14|Wyrok|40|https://www.saos.org.pl/judgments/152364
+185709|2015-08-31|SO|III K 131/15|Postanowienie|31|https://www.saos.org.pl/judgments/185709
+526451|2019-10-16|SO|IV Ka 319/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/526451

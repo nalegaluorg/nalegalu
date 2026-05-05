@@ -1,17 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-447616|2021-04-22|SO|II W 109/20|Wyrok|https://www.saos.org.pl/judgments/447616
-368303|2018-09-14|SO|VIII Pa 2/18|Uzasadnienie|https://www.saos.org.pl/judgments/368303
-326985|2017-12-12|SO|IV U 781/17|Wyrok|https://www.saos.org.pl/judgments/326985
-341609|2016-11-09|SO|IV U 407/16|Wyrok|https://www.saos.org.pl/judgments/341609
-321133|2016-11-09|SO|IV U 419/16|Wyrok|https://www.saos.org.pl/judgments/321133
-245066|2016-04-06|SN|II PK 54/15|Wyrok|https://www.saos.org.pl/judgments/245066
-166296|2014-07-09|SN|II KK 154/14|Wyrok|https://www.saos.org.pl/judgments/166296
-52624|2014-06-03|SO|IX Ka 492/14|Wyrok|https://www.saos.org.pl/judgments/52624
-27684|2013-12-05|SO|IV Ka 1021/13|Wyrok|https://www.saos.org.pl/judgments/27684
-27420|2013-10-04|SO|IV Ka 725/13|Wyrok|https://www.saos.org.pl/judgments/27420
-102778|2013-09-04|SN|III KK 275/13|Wyrok|https://www.saos.org.pl/judgments/102778
-100735|2013-02-13|SN|III KK 303/12|Wyrok|https://www.saos.org.pl/judgments/100735
-135867|2012-08-23|SO|II AKa 227/12|Wyrok|https://www.saos.org.pl/judgments/135867
-91802|2010-02-04|SN|V KK 301/09|Wyrok|https://www.saos.org.pl/judgments/91802
-164220|2006-04-19|SN|V CSK 193/05|Wyrok|https://www.saos.org.pl/judgments/164220
-82515|2004-02-26|SN|I KZP 44/03|Postanowienie|https://www.saos.org.pl/judgments/82515
+saos_id|date|court|case_number|type|score|saos_url
+245066|2016-04-06|SN|II PK 54/15|Wyrok|78|https://www.saos.org.pl/judgments/245066
+166296|2014-07-09|SN|II KK 154/14|Wyrok|78|https://www.saos.org.pl/judgments/166296
+102778|2013-09-04|SN|III KK 275/13|Wyrok|78|https://www.saos.org.pl/judgments/102778
+100735|2013-02-13|SN|III KK 303/12|Wyrok|78|https://www.saos.org.pl/judgments/100735
+91802|2010-02-04|SN|V KK 301/09|Wyrok|78|https://www.saos.org.pl/judgments/91802
+164220|2006-04-19|SN|V CSK 193/05|Wyrok|78|https://www.saos.org.pl/judgments/164220
+82515|2004-02-26|SN|I KZP 44/03|Postanowienie|69|https://www.saos.org.pl/judgments/82515
+135867|2012-08-23|SO|II AKa 227/12|Wyrok|56|https://www.saos.org.pl/judgments/135867
+326985|2017-12-12|SO|IV U 781/17|Wyrok|40|https://www.saos.org.pl/judgments/326985
+341609|2016-11-09|SO|IV U 407/16|Wyrok|40|https://www.saos.org.pl/judgments/341609
+321133|2016-11-09|SO|IV U 419/16|Wyrok|40|https://www.saos.org.pl/judgments/321133
+368303|2018-09-14|SO|VIII Pa 2/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/368303

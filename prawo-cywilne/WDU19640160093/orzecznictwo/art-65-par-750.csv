@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-163947|2006-01-18|SN|V CSK 74/05|Wyrok|https://www.saos.org.pl/judgments/163947
-163834|2005-12-07|SN|V CK 405/05|Wyrok|https://www.saos.org.pl/judgments/163834
-77955|1997-12-04|SN|I PKN 394/97|Wyrok|https://www.saos.org.pl/judgments/77955
+saos_id|date|court|case_number|type|score|saos_url
+163947|2006-01-18|SN|V CSK 74/05|Wyrok|78|https://www.saos.org.pl/judgments/163947
+163834|2005-12-07|SN|V CK 405/05|Wyrok|78|https://www.saos.org.pl/judgments/163834
+77955|1997-12-04|SN|I PKN 394/97|Wyrok|78|https://www.saos.org.pl/judgments/77955

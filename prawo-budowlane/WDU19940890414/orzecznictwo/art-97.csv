@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-438057|2021-01-19|SO|I ACa 505/19|Wyrok|https://www.saos.org.pl/judgments/438057
-386076|2019-03-15|SO|V ACa 656/18|Wyrok|https://www.saos.org.pl/judgments/386076
-333598|2018-01-11|SO|IX Ka 829/17|Wyrok|https://www.saos.org.pl/judgments/333598
-248012|2016-07-21|SO|VI ACa 411/15|Wyrok|https://www.saos.org.pl/judgments/248012
+saos_id|date|court|case_number|type|score|saos_url
+438057|2021-01-19|SO|I ACa 505/19|Wyrok|56|https://www.saos.org.pl/judgments/438057
+386076|2019-03-15|SO|V ACa 656/18|Wyrok|56|https://www.saos.org.pl/judgments/386076
+248012|2016-07-21|SO|VI ACa 411/15|Wyrok|56|https://www.saos.org.pl/judgments/248012

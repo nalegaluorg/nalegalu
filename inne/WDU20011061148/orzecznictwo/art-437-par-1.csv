@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-490932|2023-05-04|SO|II Ka 174/23|Wyrok|https://www.saos.org.pl/judgments/490932
-414761|2020-06-02|SO|VI Ka 137/20|Wyrok|https://www.saos.org.pl/judgments/414761
-380059|2018-12-19|SO|VI Ka 604/18|Wyrok|https://www.saos.org.pl/judgments/380059
-286440|2017-04-21|SO|II Ka 186/17|Wyrok|https://www.saos.org.pl/judgments/286440
-58424|2014-07-10|SO|IX Ka 713/14|Wyrok|https://www.saos.org.pl/judgments/58424
-46099|2014-03-12|SO|IX Ka 118/14|Wyrok|https://www.saos.org.pl/judgments/46099
-37905|2014-01-21|SO|VI Ka 1148/13|Wyrok|https://www.saos.org.pl/judgments/37905
-21221|2013-08-20|SO|VII Ka 631/13|Wyrok|https://www.saos.org.pl/judgments/21221
-17719|2013-07-18|SO|VIII Ka 445/13|Wyrok|https://www.saos.org.pl/judgments/17719
-13564|2013-05-28|SO|VIII Ka 233/13|Wyrok|https://www.saos.org.pl/judgments/13564
-12437|2013-04-25|SO|VI Ka 153/13|Wyrok|https://www.saos.org.pl/judgments/12437
+saos_id|date|court|case_number|type|score|saos_url
+414761|2020-06-02|SO|VI Ka 137/20|Wyrok|40|https://www.saos.org.pl/judgments/414761
+380059|2018-12-19|SO|VI Ka 604/18|Wyrok|40|https://www.saos.org.pl/judgments/380059
+12437|2013-04-25|SO|VI Ka 153/13|Wyrok|40|https://www.saos.org.pl/judgments/12437

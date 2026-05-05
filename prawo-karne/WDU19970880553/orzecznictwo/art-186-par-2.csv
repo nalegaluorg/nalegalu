@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-528330|2022-09-30|SO|VIII Kop 162/22|Postanowienie|https://www.saos.org.pl/judgments/528330
-7994|2013-03-14|SO|VI Ka 28/13|Wyrok|https://www.saos.org.pl/judgments/7994
+saos_id|date|court|case_number|type|score|saos_url
+7994|2013-03-14|SO|VI Ka 28/13|Wyrok|40|https://www.saos.org.pl/judgments/7994

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-85985|2007-05-31|SN|III KK 31/07|Postanowienie|https://www.saos.org.pl/judgments/85985
+saos_id|date|court|case_number|type|score|saos_url
+85985|2007-05-31|SN|III KK 31/07|Postanowienie|69|https://www.saos.org.pl/judgments/85985

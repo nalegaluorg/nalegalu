@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-153266|2015-04-08|SO|II AKa 23/15|Wyrok|https://www.saos.org.pl/judgments/153266
-143269|2013-12-12|SO|II AKa 231/13|Wyrok|https://www.saos.org.pl/judgments/143269
-136338|2012-10-30|SO|II AKa 153/12|Wyrok|https://www.saos.org.pl/judgments/136338
+saos_id|date|court|case_number|type|score|saos_url
+153266|2015-04-08|SO|II AKa 23/15|Wyrok|56|https://www.saos.org.pl/judgments/153266
+143269|2013-12-12|SO|II AKa 231/13|Wyrok|56|https://www.saos.org.pl/judgments/143269
+136338|2012-10-30|SO|II AKa 153/12|Wyrok|56|https://www.saos.org.pl/judgments/136338

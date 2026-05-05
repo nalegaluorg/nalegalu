@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-501665|2024-03-26|SO|II Ca 1391/23|Wyrok|https://www.saos.org.pl/judgments/501665
-519936|2022-10-07|SO|I C 1271/22|Wyrok|https://www.saos.org.pl/judgments/519936
-467390|2022-06-23|SO|I C 746/21|Zarządzenie|https://www.saos.org.pl/judgments/467390
+saos_id|date|court|case_number|type|score|saos_url
+501665|2024-03-26|SO|II Ca 1391/23|Wyrok|40|https://www.saos.org.pl/judgments/501665
+519936|2022-10-07|SO|I C 1271/22|Wyrok|40|https://www.saos.org.pl/judgments/519936
+467390|2022-06-23|SO|I C 746/21|Zarządzenie|27|https://www.saos.org.pl/judgments/467390

@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-543876|2025-06-26|SO|I AGa 99/23|Wyrok|https://www.saos.org.pl/judgments/543876
-485858|2022-12-28|SO|I C 1289/18|Wyrok|https://www.saos.org.pl/judgments/485858
-472826|2022-07-05|SO|VIII Ga 26/22|Wyrok|https://www.saos.org.pl/judgments/472826
-444030|2021-04-21|SO|I C 435/18|Wyrok|https://www.saos.org.pl/judgments/444030
-433382|2021-01-19|SO|I AGa 49/20|Wyrok|https://www.saos.org.pl/judgments/433382
-412081|2020-03-25|SO|VIII GC 84/19|Uzasadnienie|https://www.saos.org.pl/judgments/412081
-347488|2018-05-09|SO|I ACa 967/17|Wyrok|https://www.saos.org.pl/judgments/347488
-275827|2016-12-21|SO|I ACa 368/16|Wyrok|https://www.saos.org.pl/judgments/275827
-192109|2015-08-14|SO|I C 1833/14|Wyrok|https://www.saos.org.pl/judgments/192109
-174397|2015-05-20|SO|III Ca 128/15|Uzasadnienie|https://www.saos.org.pl/judgments/174397
-451696|2015-04-23|SO|I ACa 1447/14|Wyrok|https://www.saos.org.pl/judgments/451696
-133312|2014-12-18|SO|XII Ga 642/14|Wyrok|https://www.saos.org.pl/judgments/133312
-66794|2014-10-28|SO|XII C 907/14|Wyrok|https://www.saos.org.pl/judgments/66794
-67635|2014-10-16|SO|II Ca 443/14|Wyrok|https://www.saos.org.pl/judgments/67635
-73516|2014-09-19|SO|XII Ga 173/14|Wyrok|https://www.saos.org.pl/judgments/73516
-28541|2013-09-13|SO|II Ca 619/13|Wyrok|https://www.saos.org.pl/judgments/28541
+saos_id|date|court|case_number|type|score|saos_url
+543876|2025-06-26|SO|I AGa 99/23|Wyrok|56|https://www.saos.org.pl/judgments/543876
+433382|2021-01-19|SO|I AGa 49/20|Wyrok|56|https://www.saos.org.pl/judgments/433382
+347488|2018-05-09|SO|I ACa 967/17|Wyrok|56|https://www.saos.org.pl/judgments/347488
+275827|2016-12-21|SO|I ACa 368/16|Wyrok|56|https://www.saos.org.pl/judgments/275827
+451696|2015-04-23|SO|I ACa 1447/14|Wyrok|56|https://www.saos.org.pl/judgments/451696
+133312|2014-12-18|SO|XII Ga 642/14|Wyrok|40|https://www.saos.org.pl/judgments/133312
+66794|2014-10-28|SO|XII C 907/14|Wyrok|40|https://www.saos.org.pl/judgments/66794
+67635|2014-10-16|SO|II Ca 443/14|Wyrok|40|https://www.saos.org.pl/judgments/67635
+73516|2014-09-19|SO|XII Ga 173/14|Wyrok|40|https://www.saos.org.pl/judgments/73516
+174397|2015-05-20|SO|III Ca 128/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/174397

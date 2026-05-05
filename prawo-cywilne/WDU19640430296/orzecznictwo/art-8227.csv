@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-104005|2014-01-10|SN|I CSK 161/13|Wyrok|https://www.saos.org.pl/judgments/104005
+saos_id|date|court|case_number|type|score|saos_url
+104005|2014-01-10|SN|I CSK 161/13|Wyrok|78|https://www.saos.org.pl/judgments/104005

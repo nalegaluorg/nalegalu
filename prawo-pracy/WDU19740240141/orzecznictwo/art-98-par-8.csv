@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501537|2022-05-09|SO|II C 851/18|Wyrok|https://www.saos.org.pl/judgments/501537
+saos_id|date|court|case_number|type|score|saos_url
+501537|2022-05-09|SO|II C 851/18|Wyrok|40|https://www.saos.org.pl/judgments/501537

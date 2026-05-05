@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-218077|2016-04-08|SO|IV Kz 51/16|Postanowienie|https://www.saos.org.pl/judgments/218077
-74127|2014-12-09|SO|V ACa 384/14|Wyrok|https://www.saos.org.pl/judgments/74127
-42372|2014-01-17|SO|VI ACa 868/13|Wyrok|https://www.saos.org.pl/judgments/42372
-104071|2014-01-09|SN|WZ 34/13|Postanowienie|https://www.saos.org.pl/judgments/104071
+saos_id|date|court|case_number|type|score|saos_url
+104071|2014-01-09|SN|WZ 34/13|Postanowienie|69|https://www.saos.org.pl/judgments/104071
+74127|2014-12-09|SO|V ACa 384/14|Wyrok|56|https://www.saos.org.pl/judgments/74127
+42372|2014-01-17|SO|VI ACa 868/13|Wyrok|56|https://www.saos.org.pl/judgments/42372
+218077|2016-04-08|SO|IV Kz 51/16|Postanowienie|31|https://www.saos.org.pl/judgments/218077

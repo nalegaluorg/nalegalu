@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-152578|2015-04-23|SO|II AKa 25/15|Uzasadnienie|https://www.saos.org.pl/judgments/152578
-97648|2012-03-28|SN|I KZP 26/11|Uchwała|https://www.saos.org.pl/judgments/97648
+saos_id|date|court|case_number|type|score|saos_url
+97648|2012-03-28|SN|I KZP 26/11|Uchwała|96|https://www.saos.org.pl/judgments/97648
+152578|2015-04-23|SO|II AKa 25/15|Uzasadnienie|42|https://www.saos.org.pl/judgments/152578

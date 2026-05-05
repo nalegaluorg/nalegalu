@@ -1,21 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-511411|2022-10-18|SO|VI P 6/22|Wyrok|https://www.saos.org.pl/judgments/511411
-466376|2021-12-29|SO|III P 1/20|Wyrok|https://www.saos.org.pl/judgments/466376
-399387|2019-12-06|SO|VIII Pa 87/19|Uzasadnienie|https://www.saos.org.pl/judgments/399387
-228363|2016-05-17|SO|VI Pa 10/16|Wyrok|https://www.saos.org.pl/judgments/228363
-131354|2015-02-05|SO|V Pa 148/14|Wyrok|https://www.saos.org.pl/judgments/131354
-57787|2014-07-07|SO|IV P 125/13|Wyrok|https://www.saos.org.pl/judgments/57787
-135331|2014-05-12|SO|VI P 126/14|Wyrok|https://www.saos.org.pl/judgments/135331
-89491|2009-01-23|SN|I PK 128/08|Wyrok|https://www.saos.org.pl/judgments/89491
-80950|2001-11-06|SN|I PKN 687/00|Wyrok|https://www.saos.org.pl/judgments/80950
-79708|2000-05-10|SN|III ZP 13/00|Uchwała|https://www.saos.org.pl/judgments/79708
-79558|2000-02-17|SN|I PKN 535/99|Wyrok|https://www.saos.org.pl/judgments/79558
-79023|1999-05-11|SN|I PKN 658/98|Wyrok|https://www.saos.org.pl/judgments/79023
-78187|1998-03-06|SN|III ZP 50/97|Uchwała|https://www.saos.org.pl/judgments/78187
-77168|1996-05-28|SN|II PRN 7/96|Wyrok|https://www.saos.org.pl/judgments/77168
-77142|1996-04-23|SN|II PRN 5/96|Wyrok|https://www.saos.org.pl/judgments/77142
-77105|1996-03-13|SN|II PR 1/96|Wyrok|https://www.saos.org.pl/judgments/77105
-77089|1996-03-06|SN|II PRN 3/96|Wyrok|https://www.saos.org.pl/judgments/77089
-77083|1996-03-05|SN|I PRN 105/95|Wyrok|https://www.saos.org.pl/judgments/77083
-76883|1995-07-07|SN|II PRN 6/95|Wyrok|https://www.saos.org.pl/judgments/76883
-76879|1995-07-05|SN|I PRN 30/95|Wyrok|https://www.saos.org.pl/judgments/76879
+saos_id|date|court|case_number|type|score|saos_url
+79708|2000-05-10|SN|III ZP 13/00|Uchwała|89|https://www.saos.org.pl/judgments/79708
+78187|1998-03-06|SN|III ZP 50/97|Uchwała|89|https://www.saos.org.pl/judgments/78187
+89491|2009-01-23|SN|I PK 128/08|Wyrok|78|https://www.saos.org.pl/judgments/89491
+80950|2001-11-06|SN|I PKN 687/00|Wyrok|78|https://www.saos.org.pl/judgments/80950
+79558|2000-02-17|SN|I PKN 535/99|Wyrok|78|https://www.saos.org.pl/judgments/79558
+79023|1999-05-11|SN|I PKN 658/98|Wyrok|78|https://www.saos.org.pl/judgments/79023
+77168|1996-05-28|SN|II PRN 7/96|Wyrok|78|https://www.saos.org.pl/judgments/77168
+77142|1996-04-23|SN|II PRN 5/96|Wyrok|78|https://www.saos.org.pl/judgments/77142
+77105|1996-03-13|SN|II PR 1/96|Wyrok|78|https://www.saos.org.pl/judgments/77105
+77089|1996-03-06|SN|II PRN 3/96|Wyrok|78|https://www.saos.org.pl/judgments/77089
+77083|1996-03-05|SN|I PRN 105/95|Wyrok|78|https://www.saos.org.pl/judgments/77083
+76883|1995-07-07|SN|II PRN 6/95|Wyrok|78|https://www.saos.org.pl/judgments/76883
+76879|1995-07-05|SN|I PRN 30/95|Wyrok|78|https://www.saos.org.pl/judgments/76879
+135331|2014-05-12|SO|VI P 126/14|Wyrok|40|https://www.saos.org.pl/judgments/135331
+399387|2019-12-06|SO|VIII Pa 87/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/399387

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-426494|2020-11-12|SO|XIV C 987/18|Wyrok|https://www.saos.org.pl/judgments/426494
+saos_id|date|court|case_number|type|score|saos_url
+426494|2020-11-12|SO|XIV C 987/18|Wyrok|40|https://www.saos.org.pl/judgments/426494

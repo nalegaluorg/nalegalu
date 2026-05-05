@@ -1,19 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-504312|2022-12-30|SO|II Kp 868/22|Postanowienie|https://www.saos.org.pl/judgments/504312
-504311|2022-12-15|SO|II Kp 827/22|Postanowienie|https://www.saos.org.pl/judgments/504311
-470484|2022-08-08|SO|II AKz 517/22|Postanowienie|https://www.saos.org.pl/judgments/470484
-504303|2022-07-26|SO|II Kp 474/22|Postanowienie|https://www.saos.org.pl/judgments/504303
-470482|2022-07-15|SO|II AKz 465/22|Postanowienie|https://www.saos.org.pl/judgments/470482
-525510|2022-05-11|SO|II AKz 214/22|Postanowienie|https://www.saos.org.pl/judgments/525510
-470358|2022-04-21|SO|II AKz 251/22|Postanowienie|https://www.saos.org.pl/judgments/470358
-306662|2017-08-17|SO|VII Kz 246/17|Postanowienie|https://www.saos.org.pl/judgments/306662
-260778|2016-11-07|SO|II AKa 14/16|Wyrok|https://www.saos.org.pl/judgments/260778
-244681|2016-02-25|SN|I KZP 18/15|Postanowienie|https://www.saos.org.pl/judgments/244681
-444400|2015-12-02|SO|II AKz 678/15|Postanowienie|https://www.saos.org.pl/judgments/444400
-175002|2015-07-30|SO|VII Kz 258/15|Postanowienie|https://www.saos.org.pl/judgments/175002
-171658|2015-06-29|SO|XII Ko 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/171658
-416973|2015-01-08|SO|II AKz 811/14|Postanowienie|https://www.saos.org.pl/judgments/416973
-444176|2014-11-26|SO|II AKz 717/14|Postanowienie|https://www.saos.org.pl/judgments/444176
-6332|2013-03-04|SO|IV Kz 141/13|Postanowienie|https://www.saos.org.pl/judgments/6332
-136182|2012-12-06|SO|II AKz 500/12|Postanowienie|https://www.saos.org.pl/judgments/136182
-84533|2006-08-31|SN|WZ 35/06|Postanowienie|https://www.saos.org.pl/judgments/84533
+saos_id|date|court|case_number|type|score|saos_url
+244681|2016-02-25|SN|I KZP 18/15|Postanowienie|76|https://www.saos.org.pl/judgments/244681
+84533|2006-08-31|SN|WZ 35/06|Postanowienie|69|https://www.saos.org.pl/judgments/84533
+260778|2016-11-07|SO|II AKa 14/16|Wyrok|56|https://www.saos.org.pl/judgments/260778
+470484|2022-08-08|SO|II AKz 517/22|Postanowienie|47|https://www.saos.org.pl/judgments/470484
+470482|2022-07-15|SO|II AKz 465/22|Postanowienie|47|https://www.saos.org.pl/judgments/470482
+525510|2022-05-11|SO|II AKz 214/22|Postanowienie|47|https://www.saos.org.pl/judgments/525510
+470358|2022-04-21|SO|II AKz 251/22|Postanowienie|47|https://www.saos.org.pl/judgments/470358
+444400|2015-12-02|SO|II AKz 678/15|Postanowienie|47|https://www.saos.org.pl/judgments/444400
+416973|2015-01-08|SO|II AKz 811/14|Postanowienie|47|https://www.saos.org.pl/judgments/416973
+444176|2014-11-26|SO|II AKz 717/14|Postanowienie|47|https://www.saos.org.pl/judgments/444176
+136182|2012-12-06|SO|II AKz 500/12|Postanowienie|47|https://www.saos.org.pl/judgments/136182
+306662|2017-08-17|SO|VII Kz 246/17|Postanowienie|31|https://www.saos.org.pl/judgments/306662
+175002|2015-07-30|SO|VII Kz 258/15|Postanowienie|31|https://www.saos.org.pl/judgments/175002

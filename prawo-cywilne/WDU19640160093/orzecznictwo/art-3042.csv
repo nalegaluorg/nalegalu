@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309623|2017-10-24|SO|XIII Ga 643/17|Uzasadnienie|https://www.saos.org.pl/judgments/309623
-248696|2016-07-25|SO|I Ns 284/14|Postanowienie|https://www.saos.org.pl/judgments/248696
+saos_id|date|court|case_number|type|score|saos_url
+309623|2017-10-24|SO|XIII Ga 643/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/309623

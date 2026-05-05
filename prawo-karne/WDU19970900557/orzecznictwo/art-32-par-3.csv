@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-441988|2014-02-26|SO|I ACa 1170/13|Wyrok|https://www.saos.org.pl/judgments/441988
+saos_id|date|court|case_number|type|score|saos_url
+441988|2014-02-26|SO|I ACa 1170/13|Wyrok|56|https://www.saos.org.pl/judgments/441988

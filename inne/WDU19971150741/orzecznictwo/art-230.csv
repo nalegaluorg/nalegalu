@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-369615|2018-02-19|SO|III K 95/14|Wyrok|https://www.saos.org.pl/judgments/369615
-106061|2002-12-02|TK|SK 20/01|Wyrok|https://www.saos.org.pl/judgments/106061
-105788|2001-05-23|TK|Ts 83/00|Postanowienie|https://www.saos.org.pl/judgments/105788
-105954|2001-01-05|TK|Ts 83/00|Postanowienie|https://www.saos.org.pl/judgments/105954
+saos_id|date|court|case_number|type|score|saos_url
+106061|2002-12-02|TK|SK 20/01|Wyrok|98|https://www.saos.org.pl/judgments/106061
+105788|2001-05-23|TK|Ts 83/00|Postanowienie|80|https://www.saos.org.pl/judgments/105788
+105954|2001-01-05|TK|Ts 83/00|Postanowienie|80|https://www.saos.org.pl/judgments/105954

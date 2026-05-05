@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-126769|2014-12-30|SO|I C 1594/13|Uzasadnienie|https://www.saos.org.pl/judgments/126769
-206415|2013-10-17|TK|Ts 183/13|Postanowienie|https://www.saos.org.pl/judgments/206415
+saos_id|date|court|case_number|type|score|saos_url
+206415|2013-10-17|TK|Ts 183/13|Postanowienie|80|https://www.saos.org.pl/judgments/206415

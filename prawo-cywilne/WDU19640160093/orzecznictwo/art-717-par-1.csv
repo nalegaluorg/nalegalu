@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-233357|2016-06-13|SO|V ACa 659/14|Wyrok|https://www.saos.org.pl/judgments/233357
+saos_id|date|court|case_number|type|score|saos_url
+233357|2016-06-13|SO|V ACa 659/14|Wyrok|56|https://www.saos.org.pl/judgments/233357

@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-484364|2022-12-09|SO|IV Ka 629/22|Uzasadnienie|https://www.saos.org.pl/judgments/484364
-470510|2022-07-22|SO|II K 918/21|Uzasadnienie|https://www.saos.org.pl/judgments/470510
-470701|2022-06-07|SO|II AKz 389/22|Postanowienie|https://www.saos.org.pl/judgments/470701
-469642|2022-03-15|SO|II K 772/18|Zarządzenie|https://www.saos.org.pl/judgments/469642
-465532|2022-01-17|SO|II K 604/20|Zarządzenie|https://www.saos.org.pl/judgments/465532
-399730|2019-11-18|SO|XIII U 1101/18|Wyrok|https://www.saos.org.pl/judgments/399730
-395424|2019-04-11|SO|II K 926/18|Zarządzenie|https://www.saos.org.pl/judgments/395424
-305570|2017-07-12|SO|II K 810/16|Wyrok|https://www.saos.org.pl/judgments/305570
-300202|2017-07-12|SO|IV Ka 739/17|Wyrok|https://www.saos.org.pl/judgments/300202
-94252|2011-02-16|SN|III KK 395/10|Wyrok|https://www.saos.org.pl/judgments/94252
+saos_id|date|court|case_number|type|score|saos_url
+94252|2011-02-16|SN|III KK 395/10|Wyrok|78|https://www.saos.org.pl/judgments/94252
+470701|2022-06-07|SO|II AKz 389/22|Postanowienie|47|https://www.saos.org.pl/judgments/470701
+395424|2019-04-11|SO|II K 926/18|Zarządzenie|27|https://www.saos.org.pl/judgments/395424

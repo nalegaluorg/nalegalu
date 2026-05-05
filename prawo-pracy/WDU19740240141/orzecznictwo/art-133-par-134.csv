@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-82502|2004-02-17|SN|I PK 377/03|Wyrok|https://www.saos.org.pl/judgments/82502
-79801|2000-06-30|SN|II UKN 523/99|Wyrok|https://www.saos.org.pl/judgments/79801
-78762|1998-12-16|SN|II UKN 392/98|Wyrok|https://www.saos.org.pl/judgments/78762
+saos_id|date|court|case_number|type|score|saos_url
+82502|2004-02-17|SN|I PK 377/03|Wyrok|78|https://www.saos.org.pl/judgments/82502
+79801|2000-06-30|SN|II UKN 523/99|Wyrok|78|https://www.saos.org.pl/judgments/79801
+78762|1998-12-16|SN|II UKN 392/98|Wyrok|78|https://www.saos.org.pl/judgments/78762

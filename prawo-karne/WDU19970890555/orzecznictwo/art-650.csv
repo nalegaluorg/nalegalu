@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-307820|2017-08-29|SO|IV Ka 302/17|Uzasadnienie|https://www.saos.org.pl/judgments/307820
-88837|2008-09-30|SN|WK 22/08|Wyrok|https://www.saos.org.pl/judgments/88837
+saos_id|date|court|case_number|type|score|saos_url
+88837|2008-09-30|SN|WK 22/08|Wyrok|78|https://www.saos.org.pl/judgments/88837

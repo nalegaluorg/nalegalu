@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-541255|2024-12-20|SO|V GC 194/23|Wyrok|https://www.saos.org.pl/judgments/541255
-39124|2014-02-19|SO|I ACa 999/13|Wyrok|https://www.saos.org.pl/judgments/39124
-5526|2012-03-30|SO|I ACa 232/12|Wyrok|https://www.saos.org.pl/judgments/5526
+saos_id|date|court|case_number|type|score|saos_url
+39124|2014-02-19|SO|I ACa 999/13|Wyrok|56|https://www.saos.org.pl/judgments/39124
+5526|2012-03-30|SO|I ACa 232/12|Wyrok|56|https://www.saos.org.pl/judgments/5526
+541255|2024-12-20|SO|V GC 194/23|Wyrok|40|https://www.saos.org.pl/judgments/541255

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-477672|2022-05-26|SO|II Ca 43/22|Wyrok|https://www.saos.org.pl/judgments/477672
-492317|2022-04-28|SO|II Ca 1727/21|Wyrok|https://www.saos.org.pl/judgments/492317
-465178|2022-04-22|SO|II Ca 1647/21|Wyrok|https://www.saos.org.pl/judgments/465178
-197576|2016-01-22|SO|XIII Ga 937/15|Uzasadnienie|https://www.saos.org.pl/judgments/197576
+saos_id|date|court|case_number|type|score|saos_url
+477672|2022-05-26|SO|II Ca 43/22|Wyrok|40|https://www.saos.org.pl/judgments/477672
+492317|2022-04-28|SO|II Ca 1727/21|Wyrok|40|https://www.saos.org.pl/judgments/492317
+465178|2022-04-22|SO|II Ca 1647/21|Wyrok|40|https://www.saos.org.pl/judgments/465178
+197576|2016-01-22|SO|XIII Ga 937/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/197576

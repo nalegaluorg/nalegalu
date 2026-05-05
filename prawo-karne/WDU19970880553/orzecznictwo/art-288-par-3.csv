@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-392512|2019-02-22|SO|II K 811/18|Wyrok|https://www.saos.org.pl/judgments/392512
-336843|2018-04-05|SO|VI K 799/16|Wyrok|https://www.saos.org.pl/judgments/336843
-330923|2017-07-20|SO|I C 379/15|Wyrok|https://www.saos.org.pl/judgments/330923
-240087|2016-07-14|SO|IV Kow 765/16|Postanowienie|https://www.saos.org.pl/judgments/240087
-61237|2014-06-05|SO|IV Ka 191/14|Wyrok|https://www.saos.org.pl/judgments/61237
-140909|2013-10-10|SO|II AKa 153/13|Wyrok|https://www.saos.org.pl/judgments/140909
+saos_id|date|court|case_number|type|score|saos_url
+140909|2013-10-10|SO|II AKa 153/13|Wyrok|56|https://www.saos.org.pl/judgments/140909
+392512|2019-02-22|SO|II K 811/18|Wyrok|40|https://www.saos.org.pl/judgments/392512
+336843|2018-04-05|SO|VI K 799/16|Wyrok|40|https://www.saos.org.pl/judgments/336843

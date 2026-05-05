@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205750|1997-02-24|TK|K 19/96|Wyrok|https://www.saos.org.pl/judgments/205750
+saos_id|date|court|case_number|type|score|saos_url
+205750|1997-02-24|TK|K 19/96|Wyrok|98|https://www.saos.org.pl/judgments/205750

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-162957|2005-02-04|SN|II CZ 185/04|Postanowienie|https://www.saos.org.pl/judgments/162957
-106458|2003-02-26|TK|Ts 54/02|Postanowienie|https://www.saos.org.pl/judgments/106458
-106305|2002-04-17|TK|Ts 152/01|Postanowienie|https://www.saos.org.pl/judgments/106305
-79834|2000-07-11|SN|I PZ 45/00|Postanowienie|https://www.saos.org.pl/judgments/79834
-79636|2000-04-11|SN|I PKN 583/99|Wyrok|https://www.saos.org.pl/judgments/79636
+saos_id|date|court|case_number|type|score|saos_url
+106458|2003-02-26|TK|Ts 54/02|Postanowienie|80|https://www.saos.org.pl/judgments/106458
+106305|2002-04-17|TK|Ts 152/01|Postanowienie|80|https://www.saos.org.pl/judgments/106305
+79636|2000-04-11|SN|I PKN 583/99|Wyrok|78|https://www.saos.org.pl/judgments/79636
+162957|2005-02-04|SN|II CZ 185/04|Postanowienie|69|https://www.saos.org.pl/judgments/162957
+79834|2000-07-11|SN|I PZ 45/00|Postanowienie|69|https://www.saos.org.pl/judgments/79834

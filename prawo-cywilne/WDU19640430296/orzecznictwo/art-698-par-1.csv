@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-226254|2016-01-05|SO|I ACa 711/15|Wyrok|https://www.saos.org.pl/judgments/226254
-53072|2014-01-03|SO|II Cz 448/13|Postanowienie|https://www.saos.org.pl/judgments/53072
-6207|2013-01-16|SO|I ACa 842/12|Wyrok|https://www.saos.org.pl/judgments/6207
-92856|2010-09-09|SN|I CSK 535/09|Wyrok|https://www.saos.org.pl/judgments/92856
-90032|2009-04-08|SN|V CSK 405/08|Wyrok|https://www.saos.org.pl/judgments/90032
-89535|2009-01-21|SN|III CZP 136/08|Uchwała|https://www.saos.org.pl/judgments/89535
-85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|https://www.saos.org.pl/judgments/85314
-162993|2005-02-18|SN|V CK 467/04|Wyrok|https://www.saos.org.pl/judgments/162993
-81940|2003-04-02|SN|I CK 287/02|Postanowienie|https://www.saos.org.pl/judgments/81940
-81254|2002-03-08|SN|III CZP 8/02|Uchwała|https://www.saos.org.pl/judgments/81254
-80735|2001-07-11|SN|V CKN 379/00|Wyrok|https://www.saos.org.pl/judgments/80735
+saos_id|date|court|case_number|type|score|saos_url
+89535|2009-01-21|SN|III CZP 136/08|Uchwała|89|https://www.saos.org.pl/judgments/89535
+81254|2002-03-08|SN|III CZP 8/02|Uchwała|89|https://www.saos.org.pl/judgments/81254
+92856|2010-09-09|SN|I CSK 535/09|Wyrok|78|https://www.saos.org.pl/judgments/92856
+90032|2009-04-08|SN|V CSK 405/08|Wyrok|78|https://www.saos.org.pl/judgments/90032
+162993|2005-02-18|SN|V CK 467/04|Wyrok|78|https://www.saos.org.pl/judgments/162993
+80735|2001-07-11|SN|V CKN 379/00|Wyrok|78|https://www.saos.org.pl/judgments/80735
+85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|69|https://www.saos.org.pl/judgments/85314
+81940|2003-04-02|SN|I CK 287/02|Postanowienie|69|https://www.saos.org.pl/judgments/81940
+226254|2016-01-05|SO|I ACa 711/15|Wyrok|56|https://www.saos.org.pl/judgments/226254
+6207|2013-01-16|SO|I ACa 842/12|Wyrok|56|https://www.saos.org.pl/judgments/6207

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-483661|2022-08-30|SO|VIII Pa 139/21|Wyrok|https://www.saos.org.pl/judgments/483661
-448170|2021-05-20|SO|III APa 1/21|Wyrok|https://www.saos.org.pl/judgments/448170
+saos_id|date|court|case_number|type|score|saos_url
+448170|2021-05-20|SO|III APa 1/21|Wyrok|56|https://www.saos.org.pl/judgments/448170

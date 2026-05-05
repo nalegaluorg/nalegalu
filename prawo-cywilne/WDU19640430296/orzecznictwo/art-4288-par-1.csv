@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-103990|2013-12-17|SN|V CNP 23/13|Postanowienie|https://www.saos.org.pl/judgments/103990
-96400|2011-11-25|SN|V CNP 16/11|Postanowienie|https://www.saos.org.pl/judgments/96400
-88423|2008-07-10|SN|I CNP 23/08|Postanowienie|https://www.saos.org.pl/judgments/88423
-86312|2007-07-20|SN|I CNP 24/07|Postanowienie|https://www.saos.org.pl/judgments/86312
-85979|2007-05-31|SN|III CNP 29/07|Postanowienie|https://www.saos.org.pl/judgments/85979
+saos_id|date|court|case_number|type|score|saos_url
+103990|2013-12-17|SN|V CNP 23/13|Postanowienie|69|https://www.saos.org.pl/judgments/103990
+96400|2011-11-25|SN|V CNP 16/11|Postanowienie|69|https://www.saos.org.pl/judgments/96400
+88423|2008-07-10|SN|I CNP 23/08|Postanowienie|69|https://www.saos.org.pl/judgments/88423
+86312|2007-07-20|SN|I CNP 24/07|Postanowienie|69|https://www.saos.org.pl/judgments/86312
+85979|2007-05-31|SN|III CNP 29/07|Postanowienie|69|https://www.saos.org.pl/judgments/85979

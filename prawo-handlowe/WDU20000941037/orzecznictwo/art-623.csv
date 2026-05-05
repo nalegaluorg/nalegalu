@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-448073|2020-09-15|SO|V Ca 616/19|Postanowienie|https://www.saos.org.pl/judgments/448073
-381715|2018-05-22|SO|XVI GC 654/10|Wyrok|https://www.saos.org.pl/judgments/381715
-311391|2017-06-28|SO|XXIII Ga 168/17|Postanowienie|https://www.saos.org.pl/judgments/311391
-149211|2015-02-17|SO|I ACa 1214/14|Wyrok|https://www.saos.org.pl/judgments/149211
-235976|2014-05-30|SO|VIII U 537/13|Wyrok|https://www.saos.org.pl/judgments/235976
-61304|2014-03-10|SO|XXVI GC 20/13|Uzasadnienie|https://www.saos.org.pl/judgments/61304
-163905|2006-01-13|SN|III CSK 79/05|Postanowienie|https://www.saos.org.pl/judgments/163905
-163347|2005-06-24|SN|V CK 718/04|Wyrok|https://www.saos.org.pl/judgments/163347
-82645|2004-05-07|SN|III CK 249/03|Postanowienie|https://www.saos.org.pl/judgments/82645
+saos_id|date|court|case_number|type|score|saos_url
+163347|2005-06-24|SN|V CK 718/04|Wyrok|78|https://www.saos.org.pl/judgments/163347
+163905|2006-01-13|SN|III CSK 79/05|Postanowienie|69|https://www.saos.org.pl/judgments/163905
+82645|2004-05-07|SN|III CK 249/03|Postanowienie|69|https://www.saos.org.pl/judgments/82645
+149211|2015-02-17|SO|I ACa 1214/14|Wyrok|56|https://www.saos.org.pl/judgments/149211

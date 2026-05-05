@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-89878|2009-03-20|SN|II CSK 608/08|Wyrok|https://www.saos.org.pl/judgments/89878
-163951|2006-01-27|SN|III CSK 103/05|Wyrok|https://www.saos.org.pl/judgments/163951
+saos_id|date|court|case_number|type|score|saos_url
+89878|2009-03-20|SN|II CSK 608/08|Wyrok|78|https://www.saos.org.pl/judgments/89878
+163951|2006-01-27|SN|III CSK 103/05|Wyrok|78|https://www.saos.org.pl/judgments/163951

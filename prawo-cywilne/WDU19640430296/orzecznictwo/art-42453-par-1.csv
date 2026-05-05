@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-85539|2007-03-30|SN|I CNP 13/07|Postanowienie|https://www.saos.org.pl/judgments/85539
+saos_id|date|court|case_number|type|score|saos_url
+85539|2007-03-30|SN|I CNP 13/07|Postanowienie|69|https://www.saos.org.pl/judgments/85539

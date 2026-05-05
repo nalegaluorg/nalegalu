@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-313594|2017-10-18|SO|III AUa 183/17|Wyrok|https://www.saos.org.pl/judgments/313594
-27732|2013-04-08|SO|VI ACa 1027/12|Wyrok|https://www.saos.org.pl/judgments/27732
-15759|2013-02-21|SO|XXV Co 11/13|Postanowienie|https://www.saos.org.pl/judgments/15759
+saos_id|date|court|case_number|type|score|saos_url
+313594|2017-10-18|SO|III AUa 183/17|Wyrok|56|https://www.saos.org.pl/judgments/313594
+27732|2013-04-08|SO|VI ACa 1027/12|Wyrok|56|https://www.saos.org.pl/judgments/27732

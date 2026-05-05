@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-460060|2022-03-11|SO|II Kz 43/22|Postanowienie|https://www.saos.org.pl/judgments/460060
-206462|2014-07-15|TK|K 23/13|Wyrok|https://www.saos.org.pl/judgments/206462
-50586|2014-06-09|SO|VIII Kz 390/14|Postanowienie|https://www.saos.org.pl/judgments/50586
-28597|2013-11-14|SO|II Ka 308/13|Wyrok|https://www.saos.org.pl/judgments/28597
-108719|2008-12-11|TK|Ts 51/07|Postanowienie|https://www.saos.org.pl/judgments/108719
-108100|2007-05-15|TK|P 13/06|Postanowienie|https://www.saos.org.pl/judgments/108100
-107341|2005-06-01|TK|Ts 54/05|Postanowienie|https://www.saos.org.pl/judgments/107341
-106780|2004-05-18|TK|SK 38/03|Wyrok|https://www.saos.org.pl/judgments/106780
+saos_id|date|court|case_number|type|score|saos_url
+206462|2014-07-15|TK|K 23/13|Wyrok|98|https://www.saos.org.pl/judgments/206462
+106780|2004-05-18|TK|SK 38/03|Wyrok|98|https://www.saos.org.pl/judgments/106780
+108719|2008-12-11|TK|Ts 51/07|Postanowienie|80|https://www.saos.org.pl/judgments/108719
+108100|2007-05-15|TK|P 13/06|Postanowienie|80|https://www.saos.org.pl/judgments/108100
+107341|2005-06-01|TK|Ts 54/05|Postanowienie|80|https://www.saos.org.pl/judgments/107341

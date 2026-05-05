@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-542925|2025-12-11|SO|I AGa 148/23|Wyrok|https://www.saos.org.pl/judgments/542925
-488598|2022-06-09|SO|X GC 861/20|Zarządzenie|https://www.saos.org.pl/judgments/488598
-455107|2022-01-04|SO|X GC 895/21|Zarządzenie|https://www.saos.org.pl/judgments/455107
+saos_id|date|court|case_number|type|score|saos_url
+542925|2025-12-11|SO|I AGa 148/23|Wyrok|56|https://www.saos.org.pl/judgments/542925
+488598|2022-06-09|SO|X GC 861/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488598
+455107|2022-01-04|SO|X GC 895/21|Zarządzenie|27|https://www.saos.org.pl/judgments/455107

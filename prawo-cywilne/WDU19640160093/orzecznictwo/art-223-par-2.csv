@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-257831|2016-09-30|SO|VIII GC 554/14|Wyrok|https://www.saos.org.pl/judgments/257831
-69591|2014-09-24|SO|I ACa 425/14|Wyrok|https://www.saos.org.pl/judgments/69591
+saos_id|date|court|case_number|type|score|saos_url
+69591|2014-09-24|SO|I ACa 425/14|Wyrok|56|https://www.saos.org.pl/judgments/69591

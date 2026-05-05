@@ -1,2 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-389507|2019-07-12|SO|VIII Gz 124/19|Postanowienie|https://www.saos.org.pl/judgments/389507
+saos_id|date|court|case_number|type|score|saos_url
+244959|2016-03-23|SN|III CZP 102/15|Uchwała|89|https://www.saos.org.pl/judgments/244959
+92779|2010-08-18|SN|II PZP 7/10|Uchwała|89|https://www.saos.org.pl/judgments/92779
+104441|2014-02-13|SN|V CSK 151/13|Wyrok|78|https://www.saos.org.pl/judgments/104441
+522212|2024-05-06|SO|I ACa 2834/23|Postanowienie|47|https://www.saos.org.pl/judgments/522212
+494700|2023-06-30|SO|I ACa 892/23|Postanowienie|47|https://www.saos.org.pl/judgments/494700
+459226|2021-05-19|SO|III Ca 271/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459226

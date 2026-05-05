@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-77625|1997-05-08|SN|I PKN 123/97|Wyrok|https://www.saos.org.pl/judgments/77625
-77639|1997-05-06|SN|II UKN 89/97|Wyrok|https://www.saos.org.pl/judgments/77639
-77440|1997-02-07|SN|II UKN 71/96|Wyrok|https://www.saos.org.pl/judgments/77440
-77403|1997-01-17|SN|I PKN 62/96|Wyrok|https://www.saos.org.pl/judgments/77403
-77128|1996-04-11|SN|II UR 3/96|Wyrok|https://www.saos.org.pl/judgments/77128
-77071|1996-02-14|SN|II PRN 2/96|Wyrok|https://www.saos.org.pl/judgments/77071
-76869|1995-06-13|SN|I PRN 32/95|Wyrok|https://www.saos.org.pl/judgments/76869
-76857|1995-06-02|SN|I PRN 25/95|Wyrok|https://www.saos.org.pl/judgments/76857
-76642|1994-09-28|SN|II URN 29/94|Wyrok|https://www.saos.org.pl/judgments/76642
-76632|1994-09-20|SN|I PRN 63/94|Wyrok|https://www.saos.org.pl/judgments/76632
+saos_id|date|court|case_number|type|score|saos_url
+77625|1997-05-08|SN|I PKN 123/97|Wyrok|78|https://www.saos.org.pl/judgments/77625
+77639|1997-05-06|SN|II UKN 89/97|Wyrok|78|https://www.saos.org.pl/judgments/77639
+77440|1997-02-07|SN|II UKN 71/96|Wyrok|78|https://www.saos.org.pl/judgments/77440
+77403|1997-01-17|SN|I PKN 62/96|Wyrok|78|https://www.saos.org.pl/judgments/77403
+77128|1996-04-11|SN|II UR 3/96|Wyrok|78|https://www.saos.org.pl/judgments/77128
+77071|1996-02-14|SN|II PRN 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77071
+76869|1995-06-13|SN|I PRN 32/95|Wyrok|78|https://www.saos.org.pl/judgments/76869
+76857|1995-06-02|SN|I PRN 25/95|Wyrok|78|https://www.saos.org.pl/judgments/76857
+76642|1994-09-28|SN|II URN 29/94|Wyrok|78|https://www.saos.org.pl/judgments/76642
+76632|1994-09-20|SN|I PRN 63/94|Wyrok|78|https://www.saos.org.pl/judgments/76632

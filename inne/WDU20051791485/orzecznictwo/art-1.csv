@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-268652|2016-11-23|SO|VI Ka 1111/16|Wyrok|https://www.saos.org.pl/judgments/268652
-256747|2015-07-10|SO|XII K 133/14|Wyrok|https://www.saos.org.pl/judgments/256747
-125163|2014-09-11|SO|II AKa 121/14|Wyrok|https://www.saos.org.pl/judgments/125163
-27398|2013-11-21|SO|II Ka 516/13|Wyrok|https://www.saos.org.pl/judgments/27398
-137996|2013-04-09|SO|II AKa 27/13|Wyrok|https://www.saos.org.pl/judgments/137996
+saos_id|date|court|case_number|type|score|saos_url
+125163|2014-09-11|SO|II AKa 121/14|Wyrok|56|https://www.saos.org.pl/judgments/125163
+137996|2013-04-09|SO|II AKa 27/13|Wyrok|56|https://www.saos.org.pl/judgments/137996

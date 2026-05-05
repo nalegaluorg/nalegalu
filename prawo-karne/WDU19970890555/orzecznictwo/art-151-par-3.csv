@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-252319|2016-10-11|SO|VII Kzw 423/16|Postanowienie|https://www.saos.org.pl/judgments/252319
-102206|2013-06-20|SN|V KK 121/13|Postanowienie|https://www.saos.org.pl/judgments/102206
+saos_id|date|court|case_number|type|score|saos_url
+102206|2013-06-20|SN|V KK 121/13|Postanowienie|69|https://www.saos.org.pl/judgments/102206
+252319|2016-10-11|SO|VII Kzw 423/16|Postanowienie|31|https://www.saos.org.pl/judgments/252319

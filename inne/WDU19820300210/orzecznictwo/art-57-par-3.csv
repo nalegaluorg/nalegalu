@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-371429|2019-01-29|SO|IV Ka 1173/18|Wyrok|https://www.saos.org.pl/judgments/371429
-231530|2016-06-21|SO|IV Ka 257/16|Uzasadnienie|https://www.saos.org.pl/judgments/231530
-189669|2015-10-14|SO|XVII Ka 795/15|Wyrok|https://www.saos.org.pl/judgments/189669
-171255|2015-07-13|SO|IV Ka 625/15|Wyrok|https://www.saos.org.pl/judgments/171255
+saos_id|date|court|case_number|type|score|saos_url
+371429|2019-01-29|SO|IV Ka 1173/18|Wyrok|40|https://www.saos.org.pl/judgments/371429
+189669|2015-10-14|SO|XVII Ka 795/15|Wyrok|40|https://www.saos.org.pl/judgments/189669
+171255|2015-07-13|SO|IV Ka 625/15|Wyrok|40|https://www.saos.org.pl/judgments/171255

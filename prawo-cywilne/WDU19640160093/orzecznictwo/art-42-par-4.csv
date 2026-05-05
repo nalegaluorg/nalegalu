@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-512813|2023-10-12|SO|VIII Gz 126/23|Postanowienie|https://www.saos.org.pl/judgments/512813
-406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|https://www.saos.org.pl/judgments/406189
-403241|2019-04-24|SO|I AGa 357/18|Wyrok|https://www.saos.org.pl/judgments/403241
+saos_id|date|court|case_number|type|score|saos_url
+403241|2019-04-24|SO|I AGa 357/18|Wyrok|56|https://www.saos.org.pl/judgments/403241
+406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/406189

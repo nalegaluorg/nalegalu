@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-445578|2021-05-21|SO|I Ns 186/19|Postanowienie|https://www.saos.org.pl/judgments/445578
-389153|2019-06-13|SO|IV Pa 18/19|Wyrok|https://www.saos.org.pl/judgments/389153
-356519|2018-07-26|SO|XI GC 1044/17|Zarządzenie|https://www.saos.org.pl/judgments/356519
-103855|2013-12-13|SN|III CZP 89/13|Postanowienie|https://www.saos.org.pl/judgments/103855
+saos_id|date|court|case_number|type|score|saos_url
+103855|2013-12-13|SN|III CZP 89/13|Postanowienie|69|https://www.saos.org.pl/judgments/103855

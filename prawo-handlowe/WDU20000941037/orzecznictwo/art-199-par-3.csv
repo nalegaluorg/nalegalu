@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-333782|2017-09-18|SO|XVI GC 807/15|Wyrok|https://www.saos.org.pl/judgments/333782
-243576|2015-10-14|SN|V CSK 710/14|Postanowienie|https://www.saos.org.pl/judgments/243576
-178910|2015-09-24|SO|XIII Ga 644/13|Uzasadnienie|https://www.saos.org.pl/judgments/178910
-150505|2015-04-14|SO|V ACa 717/14|Wyrok|https://www.saos.org.pl/judgments/150505
-134341|2015-03-17|SO|IX GC 768/14|Wyrok|https://www.saos.org.pl/judgments/134341
-71913|2014-12-03|SO|V ACa 264/14|Wyrok|https://www.saos.org.pl/judgments/71913
-58956|2014-06-26|SO|I ACa 572/14|Wyrok|https://www.saos.org.pl/judgments/58956
+saos_id|date|court|case_number|type|score|saos_url
+243576|2015-10-14|SN|V CSK 710/14|Postanowienie|69|https://www.saos.org.pl/judgments/243576
+150505|2015-04-14|SO|V ACa 717/14|Wyrok|56|https://www.saos.org.pl/judgments/150505
+71913|2014-12-03|SO|V ACa 264/14|Wyrok|56|https://www.saos.org.pl/judgments/71913
+58956|2014-06-26|SO|I ACa 572/14|Wyrok|56|https://www.saos.org.pl/judgments/58956
+134341|2015-03-17|SO|IX GC 768/14|Wyrok|40|https://www.saos.org.pl/judgments/134341
+178910|2015-09-24|SO|XIII Ga 644/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/178910

@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 10 grudnia 1993 r. o zmianie niektórych
 
 ## art. 4 (2)
 
-- 1996-10-30 | SN | [II UKN 1/96](https://www.saos.org.pl/judgments/77302) | Wyrok
-- 1995-01-12 | SN | [II UZP 24/94](https://www.saos.org.pl/judgments/76745) | Uchwała
+- 1995-01-12 | SN | [II UZP 24/94](https://www.saos.org.pl/judgments/76745) | Uchwała ★
+- 1996-10-30 | SN | [II UKN 1/96](https://www.saos.org.pl/judgments/77302) | Wyrok ★
 
 ## art. 7 (1)
 
@@ -15,7 +15,7 @@ Orzeczenia powołujące: *Ustawa z dnia 10 grudnia 1993 r. o zmianie niektórych
 
 ## art. 15 (1)
 
-- 1996-09-16 | TK | [T 31/96](https://www.saos.org.pl/judgments/205687) | Postanowienie
+- 1996-09-16 | TK | [T 31/96](https://www.saos.org.pl/judgments/205687) | Postanowienie ★
 
 ## (ogólnie) (1)
 

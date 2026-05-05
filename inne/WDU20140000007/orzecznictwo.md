@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 6 grudnia 2013 r. o zmianie ustawy o sys
 
 ## art. 1 (1)
 
-- 2015-10-07 | SN | [I CSK 826/14](https://www.saos.org.pl/judgments/243488) | Wyrok
+- 2015-10-07 | SN | [I CSK 826/14](https://www.saos.org.pl/judgments/243488) | Wyrok ★
 

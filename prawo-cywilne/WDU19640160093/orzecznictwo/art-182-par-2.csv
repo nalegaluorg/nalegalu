@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-330282|2018-01-30|SO|III Ca 347/17|Postanowienie|https://www.saos.org.pl/judgments/330282
-184901|2015-04-08|SO|III Ca 13/15|Wyrok|https://www.saos.org.pl/judgments/184901
-89200|2008-11-20|SN|III CSK 218/08|Postanowienie|https://www.saos.org.pl/judgments/89200
+saos_id|date|court|case_number|type|score|saos_url
+89200|2008-11-20|SN|III CSK 218/08|Postanowienie|69|https://www.saos.org.pl/judgments/89200

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-494331|2023-05-10|SO|I ACa 568/21|Wyrok|https://www.saos.org.pl/judgments/494331
-436572|2020-11-27|SO|I C 584/20|Uzasadnienie|https://www.saos.org.pl/judgments/436572
+saos_id|date|court|case_number|type|score|saos_url
+494331|2023-05-10|SO|I ACa 568/21|Wyrok|56|https://www.saos.org.pl/judgments/494331

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-10827|2013-03-27|SO|I ACa 24/13|Wyrok|https://www.saos.org.pl/judgments/10827
+saos_id|date|court|case_number|type|score|saos_url
+10827|2013-03-27|SO|I ACa 24/13|Wyrok|56|https://www.saos.org.pl/judgments/10827

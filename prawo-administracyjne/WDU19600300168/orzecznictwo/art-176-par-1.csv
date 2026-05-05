@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-77185|1996-06-13|SN|III ARN 6/96|Wyrok|https://www.saos.org.pl/judgments/77185
+saos_id|date|court|case_number|type|score|saos_url
+77185|1996-06-13|SN|III ARN 6/96|Wyrok|78|https://www.saos.org.pl/judgments/77185

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-169819|2015-07-09|SO|II C 276/15|Uzasadnienie|https://www.saos.org.pl/judgments/169819
-169818|2015-06-17|SO|II C 2567/14|Zarządzenie|https://www.saos.org.pl/judgments/169818
-89816|2009-03-04|SN|IV CSK 439/08|Wyrok|https://www.saos.org.pl/judgments/89816
+saos_id|date|court|case_number|type|score|saos_url
+89816|2009-03-04|SN|IV CSK 439/08|Wyrok|78|https://www.saos.org.pl/judgments/89816

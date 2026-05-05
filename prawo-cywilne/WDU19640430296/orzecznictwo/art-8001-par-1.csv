@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539203|2024-11-06|SO|I 1 Co 1730/24|Postanowienie|https://www.saos.org.pl/judgments/539203
-504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|https://www.saos.org.pl/judgments/504587
+saos_id|date|court|case_number|type|score|saos_url
+504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|31|https://www.saos.org.pl/judgments/504587

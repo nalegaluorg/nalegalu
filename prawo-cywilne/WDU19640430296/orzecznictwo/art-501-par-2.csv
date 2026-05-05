@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482085|2022-12-27|SO|II Ca 1798/22|Postanowienie|https://www.saos.org.pl/judgments/482085
-307157|2017-09-28|SO|X Ns 322/15|Zarządzenie|https://www.saos.org.pl/judgments/307157
+saos_id|date|court|case_number|type|score|saos_url
+482085|2022-12-27|SO|II Ca 1798/22|Postanowienie|31|https://www.saos.org.pl/judgments/482085

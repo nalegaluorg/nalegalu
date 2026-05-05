@@ -1,23 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-360875|2018-10-18|SO|IX Ca 355/18|Wyrok|https://www.saos.org.pl/judgments/360875
-337606|2018-03-27|SO|I Co 402/17|Postanowienie|https://www.saos.org.pl/judgments/337606
-321101|2017-11-16|SO|I Co 1515/17|Postanowienie|https://www.saos.org.pl/judgments/321101
-300373|2017-04-18|SO|I Co 2248/16|Postanowienie|https://www.saos.org.pl/judgments/300373
-54578|2014-07-22|SO|II Cz 897/14|Postanowienie|https://www.saos.org.pl/judgments/54578
-57578|2014-07-21|SO|II Cz 148/14|Postanowienie|https://www.saos.org.pl/judgments/57578
-144671|2014-02-28|SO|I Cz 96/14|Postanowienie|https://www.saos.org.pl/judgments/144671
-25497|2013-07-31|SO|II Cz 62/13|Postanowienie|https://www.saos.org.pl/judgments/25497
-137719|2013-03-22|SO|I Cz 144/13|Uzasadnienie|https://www.saos.org.pl/judgments/137719
-137718|2013-03-22|SO|I Cz 124/13|Uzasadnienie|https://www.saos.org.pl/judgments/137718
-137702|2013-03-15|SO|I Cz 142/13|Postanowienie|https://www.saos.org.pl/judgments/137702
-137721|2013-02-28|SO|I Cz 89/13|Postanowienie|https://www.saos.org.pl/judgments/137721
-137720|2013-02-28|SO|I Cz 88/13|Postanowienie|https://www.saos.org.pl/judgments/137720
-137683|2013-02-28|SO|I Cz 92/13|Postanowienie|https://www.saos.org.pl/judgments/137683
-137667|2013-02-28|SO|I Cz 108/13|Postanowienie|https://www.saos.org.pl/judgments/137667
-137666|2013-02-28|SO|I Cz 102/13|Postanowienie|https://www.saos.org.pl/judgments/137666
-137640|2013-02-28|SO|I Cz 104/13|Postanowienie|https://www.saos.org.pl/judgments/137640
-5282|2013-02-18|SO|II Cz 154/13|Postanowienie|https://www.saos.org.pl/judgments/5282
-34541|2012-02-07|SO|V Cz 4865/11|Postanowienie|https://www.saos.org.pl/judgments/34541
-84190|2006-03-24|SN|III CZP 10/06|Uchwała|https://www.saos.org.pl/judgments/84190
-81890|2003-03-05|SN|III CZP 98/02|Uchwała|https://www.saos.org.pl/judgments/81890
-81071|2001-12-12|SN|III CZP 70/01|Uchwała|https://www.saos.org.pl/judgments/81071
+saos_id|date|court|case_number|type|score|saos_url
+84190|2006-03-24|SN|III CZP 10/06|Uchwała|89|https://www.saos.org.pl/judgments/84190
+81890|2003-03-05|SN|III CZP 98/02|Uchwała|89|https://www.saos.org.pl/judgments/81890
+81071|2001-12-12|SN|III CZP 70/01|Uchwała|89|https://www.saos.org.pl/judgments/81071
+137702|2013-03-15|SO|I Cz 142/13|Postanowienie|31|https://www.saos.org.pl/judgments/137702
+137721|2013-02-28|SO|I Cz 89/13|Postanowienie|31|https://www.saos.org.pl/judgments/137721
+137720|2013-02-28|SO|I Cz 88/13|Postanowienie|31|https://www.saos.org.pl/judgments/137720
+137683|2013-02-28|SO|I Cz 92/13|Postanowienie|31|https://www.saos.org.pl/judgments/137683
+137667|2013-02-28|SO|I Cz 108/13|Postanowienie|31|https://www.saos.org.pl/judgments/137667
+137666|2013-02-28|SO|I Cz 102/13|Postanowienie|31|https://www.saos.org.pl/judgments/137666
+137640|2013-02-28|SO|I Cz 104/13|Postanowienie|31|https://www.saos.org.pl/judgments/137640
+137719|2013-03-22|SO|I Cz 144/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/137719
+137718|2013-03-22|SO|I Cz 124/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/137718

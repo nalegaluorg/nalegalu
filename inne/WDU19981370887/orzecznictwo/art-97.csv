@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-504987|2023-03-30|SO|III AUa 433/22|Wyrok|https://www.saos.org.pl/judgments/504987
-454207|2021-05-27|SO|III AUa 70/21|Wyrok|https://www.saos.org.pl/judgments/454207
+saos_id|date|court|case_number|type|score|saos_url
+504987|2023-03-30|SO|III AUa 433/22|Wyrok|56|https://www.saos.org.pl/judgments/504987
+454207|2021-05-27|SO|III AUa 70/21|Wyrok|56|https://www.saos.org.pl/judgments/454207

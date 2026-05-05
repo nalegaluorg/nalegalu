@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-388092|2019-06-06|SO|I AGz 7/19|Postanowienie|https://www.saos.org.pl/judgments/388092
-393351|2019-02-28|SO|I ACa 715/18|Wyrok|https://www.saos.org.pl/judgments/393351
-428628|2017-05-30|SO|I C 876/16|Wyrok|https://www.saos.org.pl/judgments/428628
-169980|2015-05-19|SO|II Cz 203/15|Postanowienie|https://www.saos.org.pl/judgments/169980
+saos_id|date|court|case_number|type|score|saos_url
+393351|2019-02-28|SO|I ACa 715/18|Wyrok|56|https://www.saos.org.pl/judgments/393351
+388092|2019-06-06|SO|I AGz 7/19|Postanowienie|47|https://www.saos.org.pl/judgments/388092
+428628|2017-05-30|SO|I C 876/16|Wyrok|40|https://www.saos.org.pl/judgments/428628

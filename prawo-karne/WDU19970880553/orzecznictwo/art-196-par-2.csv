@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467855|2020-12-07|SO|II AKa 220/19|Wyrok|https://www.saos.org.pl/judgments/467855
-250471|2016-03-24|SO|III RC 368/15|Wyrok|https://www.saos.org.pl/judgments/250471
+saos_id|date|court|case_number|type|score|saos_url
+467855|2020-12-07|SO|II AKa 220/19|Wyrok|56|https://www.saos.org.pl/judgments/467855

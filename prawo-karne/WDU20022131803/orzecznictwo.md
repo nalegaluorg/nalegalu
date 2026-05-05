@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 4 grudnia 2002 r. zmieniająca ustawę o
 
 ## art. 1 (4)
 
-- 2013-12-17 | TK | [SK 59/12](https://www.saos.org.pl/judgments/111695) | Postanowienie
-- 2012-10-24 | TK | [Ts 127/11](https://www.saos.org.pl/judgments/111211) | Postanowienie
-- 2011-01-25 | TK | [P 5/08](https://www.saos.org.pl/judgments/110295) | Postanowienie
-- 2004-04-27 | TK | [K 24/03](https://www.saos.org.pl/judgments/106712) | Wyrok
+- 2004-04-27 | TK | [K 24/03](https://www.saos.org.pl/judgments/106712) | Wyrok ★
+- 2013-12-17 | TK | [SK 59/12](https://www.saos.org.pl/judgments/111695) | Postanowienie ★
+- 2012-10-24 | TK | [Ts 127/11](https://www.saos.org.pl/judgments/111211) | Postanowienie ★
+- 2011-01-25 | TK | [P 5/08](https://www.saos.org.pl/judgments/110295) | Postanowienie ★
 

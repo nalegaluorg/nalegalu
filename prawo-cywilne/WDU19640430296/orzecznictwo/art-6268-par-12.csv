@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-86795|2007-11-08|SN|III CSK 142/07|Wyrok|https://www.saos.org.pl/judgments/86795
+saos_id|date|court|case_number|type|score|saos_url
+86795|2007-11-08|SN|III CSK 142/07|Wyrok|78|https://www.saos.org.pl/judgments/86795

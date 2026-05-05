@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-507997|2024-06-14|SO|IV Ka 283/24|Uzasadnienie|https://www.saos.org.pl/judgments/507997
-527919|2021-08-25|SO|II Ka 491/21|Wyrok|https://www.saos.org.pl/judgments/527919
-360823|2018-09-07|SO|II AKa 200/18|Wyrok|https://www.saos.org.pl/judgments/360823
-362144|2018-05-10|SO|I C 801/14|Wyrok|https://www.saos.org.pl/judgments/362144
-348729|2018-04-17|SO|I C 1916/17|Wyrok|https://www.saos.org.pl/judgments/348729
-319874|2017-09-15|SO|II AKa 286/17|Wyrok|https://www.saos.org.pl/judgments/319874
-272278|2017-01-27|SO|IV Ka 1144/16|Wyrok|https://www.saos.org.pl/judgments/272278
-277820|2016-12-13|SO|IV K 597/16|Wyrok|https://www.saos.org.pl/judgments/277820
-217713|2016-03-31|SO|I ACa 1041/15|Wyrok|https://www.saos.org.pl/judgments/217713
-72304|2014-11-20|SO|VI Ka 495/14|Wyrok|https://www.saos.org.pl/judgments/72304
-72871|2014-11-05|SO|VII W 644/14|Wyrok|https://www.saos.org.pl/judgments/72871
-105140|2014-05-23|SN|III KK 32/14|Postanowienie|https://www.saos.org.pl/judgments/105140
-105077|2014-05-07|SN|WK 2/14|Postanowienie|https://www.saos.org.pl/judgments/105077
-104762|2014-03-18|SN|IV KK 421/13|Postanowienie|https://www.saos.org.pl/judgments/104762
-99356|2012-10-09|SN|WO 6/12|Wyrok|https://www.saos.org.pl/judgments/99356
+saos_id|date|court|case_number|type|score|saos_url
+99356|2012-10-09|SN|WO 6/12|Wyrok|78|https://www.saos.org.pl/judgments/99356
+105140|2014-05-23|SN|III KK 32/14|Postanowienie|69|https://www.saos.org.pl/judgments/105140
+105077|2014-05-07|SN|WK 2/14|Postanowienie|69|https://www.saos.org.pl/judgments/105077
+104762|2014-03-18|SN|IV KK 421/13|Postanowienie|69|https://www.saos.org.pl/judgments/104762
+360823|2018-09-07|SO|II AKa 200/18|Wyrok|56|https://www.saos.org.pl/judgments/360823
+319874|2017-09-15|SO|II AKa 286/17|Wyrok|56|https://www.saos.org.pl/judgments/319874
+217713|2016-03-31|SO|I ACa 1041/15|Wyrok|56|https://www.saos.org.pl/judgments/217713
+272278|2017-01-27|SO|IV Ka 1144/16|Wyrok|40|https://www.saos.org.pl/judgments/272278

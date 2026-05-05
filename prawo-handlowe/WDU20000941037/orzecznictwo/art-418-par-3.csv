@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-527234|2025-04-02|SO|III AUa 584/24|Wyrok|https://www.saos.org.pl/judgments/527234
-350973|2018-07-30|SO|VI Gz 264/18|Postanowienie|https://www.saos.org.pl/judgments/350973
-334055|2017-05-30|SO|XVI GC 1222/16|Wyrok|https://www.saos.org.pl/judgments/334055
-285086|2017-04-13|SO|I ACa 765/15|Wyrok|https://www.saos.org.pl/judgments/285086
-247272|2016-07-14|SO|I ACa 507/16|Wyrok|https://www.saos.org.pl/judgments/247272
-54711|2014-06-27|SO|V GC 125/14|Wyrok|https://www.saos.org.pl/judgments/54711
-89004|2008-10-30|SN|II CSK 251/08|Wyrok|https://www.saos.org.pl/judgments/89004
-88977|2008-10-23|SN|V CSK 131/08|Wyrok|https://www.saos.org.pl/judgments/88977
-87374|2008-02-20|SN|II CSK 441/07|Wyrok|https://www.saos.org.pl/judgments/87374
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+89004|2008-10-30|SN|II CSK 251/08|Wyrok|78|https://www.saos.org.pl/judgments/89004
+88977|2008-10-23|SN|V CSK 131/08|Wyrok|78|https://www.saos.org.pl/judgments/88977
+87374|2008-02-20|SN|II CSK 441/07|Wyrok|78|https://www.saos.org.pl/judgments/87374
+527234|2025-04-02|SO|III AUa 584/24|Wyrok|56|https://www.saos.org.pl/judgments/527234
+285086|2017-04-13|SO|I ACa 765/15|Wyrok|56|https://www.saos.org.pl/judgments/285086
+247272|2016-07-14|SO|I ACa 507/16|Wyrok|56|https://www.saos.org.pl/judgments/247272
+350973|2018-07-30|SO|VI Gz 264/18|Postanowienie|31|https://www.saos.org.pl/judgments/350973

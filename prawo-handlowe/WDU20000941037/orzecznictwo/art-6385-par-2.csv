@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101936|2013-05-28|SN|V CSK 311/12|Wyrok|https://www.saos.org.pl/judgments/101936
+saos_id|date|court|case_number|type|score|saos_url
+101936|2013-05-28|SN|V CSK 311/12|Wyrok|78|https://www.saos.org.pl/judgments/101936

@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-531564|2025-07-17|SO|XXVI GC 163/23|Zarządzenie|https://www.saos.org.pl/judgments/531564
-481503|2022-11-28|SO|VIII GC 129/22|Uzasadnienie|https://www.saos.org.pl/judgments/481503
-434819|2020-12-07|SO|I AGa 512/18|Wyrok|https://www.saos.org.pl/judgments/434819
-384667|2018-10-30|SO|XX GC 420/17|Wyrok|https://www.saos.org.pl/judgments/384667
-358459|2018-02-06|SO|XXVI GC 617/17|Wyrok|https://www.saos.org.pl/judgments/358459
-304323|2017-06-07|SO|I ACa 218/17|Wyrok|https://www.saos.org.pl/judgments/304323
-269524|2016-12-06|SO|VI ACa 346/16|Wyrok|https://www.saos.org.pl/judgments/269524
-263229|2016-11-02|SO|VIII GC 37/15|Wyrok|https://www.saos.org.pl/judgments/263229
-263225|2016-11-02|SO|VIII GC 171/15|Wyrok|https://www.saos.org.pl/judgments/263225
-199994|2015-12-18|SO|IX GC 712/15|Wyrok|https://www.saos.org.pl/judgments/199994
-173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|https://www.saos.org.pl/judgments/173455
+saos_id|date|court|case_number|type|score|saos_url
+434819|2020-12-07|SO|I AGa 512/18|Wyrok|56|https://www.saos.org.pl/judgments/434819
+304323|2017-06-07|SO|I ACa 218/17|Wyrok|56|https://www.saos.org.pl/judgments/304323
+269524|2016-12-06|SO|VI ACa 346/16|Wyrok|56|https://www.saos.org.pl/judgments/269524
+173455|2015-05-29|SO|VI ACa 1025/14|Wyrok|56|https://www.saos.org.pl/judgments/173455
+199994|2015-12-18|SO|IX GC 712/15|Wyrok|40|https://www.saos.org.pl/judgments/199994

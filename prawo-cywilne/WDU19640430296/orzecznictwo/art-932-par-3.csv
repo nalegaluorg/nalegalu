@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-356919|2018-05-23|SO|I Ns 10/18|Zarządzenie|https://www.saos.org.pl/judgments/356919
-87775|2008-04-02|SN|III CZP 12/08|Uchwała|https://www.saos.org.pl/judgments/87775
+saos_id|date|court|case_number|type|score|saos_url
+87775|2008-04-02|SN|III CZP 12/08|Uchwała|89|https://www.saos.org.pl/judgments/87775

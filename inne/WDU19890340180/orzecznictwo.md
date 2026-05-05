@@ -6,13 +6,13 @@ Orzeczenia powołujące: *Ustawa z dnia 29 maja 1989 r. o zmianie niektórych pr
 
 ## art. 16 (1)
 
-- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok
+- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok ★
 
 ## art. 67 (1)
 
-- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok
+- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok ★
 
 ## art. 207 (1)
 
-- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok
+- 1992-10-20 | TK | [K 1/92](https://www.saos.org.pl/judgments/205503) | Wyrok ★
 

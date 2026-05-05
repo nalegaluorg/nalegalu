@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-96599|2011-12-13|SN|III CZP 48/11|Uchwała|https://www.saos.org.pl/judgments/96599
-110306|2011-12-07|TK|P 15/11|Postanowienie|https://www.saos.org.pl/judgments/110306
-93953|2011-01-21|SN|III CZP 116/10|Uchwała|https://www.saos.org.pl/judgments/93953
-206255|2010-11-04|TK|K 19/06|Wyrok|https://www.saos.org.pl/judgments/206255
-86263|2007-07-06|SN|III CZP 61/07|Uchwała|https://www.saos.org.pl/judgments/86263
-86043|2007-06-06|SN|III CZP 63/07|Uchwała|https://www.saos.org.pl/judgments/86043
+saos_id|date|court|case_number|type|score|saos_url
+206255|2010-11-04|TK|K 19/06|Wyrok|98|https://www.saos.org.pl/judgments/206255
+96599|2011-12-13|SN|III CZP 48/11|Uchwała|96|https://www.saos.org.pl/judgments/96599
+93953|2011-01-21|SN|III CZP 116/10|Uchwała|89|https://www.saos.org.pl/judgments/93953
+86263|2007-07-06|SN|III CZP 61/07|Uchwała|89|https://www.saos.org.pl/judgments/86263
+86043|2007-06-06|SN|III CZP 63/07|Uchwała|89|https://www.saos.org.pl/judgments/86043
+110306|2011-12-07|TK|P 15/11|Postanowienie|80|https://www.saos.org.pl/judgments/110306

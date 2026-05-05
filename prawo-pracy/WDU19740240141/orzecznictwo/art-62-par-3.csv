@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-486312|2023-03-03|SO|VII Ka 79/23|Wyrok|https://www.saos.org.pl/judgments/486312
-486310|2023-03-03|SO|VII Ka 119/23|Wyrok|https://www.saos.org.pl/judgments/486310
-535933|2022-12-07|SO|II W 644/22|Wyrok|https://www.saos.org.pl/judgments/535933
-215311|2016-03-29|SO|II W 666/15|Uzasadnienie|https://www.saos.org.pl/judgments/215311
-111618|2013-12-11|TK|P 23/11|Postanowienie|https://www.saos.org.pl/judgments/111618
-102778|2013-09-04|SN|III KK 275/13|Wyrok|https://www.saos.org.pl/judgments/102778
-394521|2012-11-14|SO|II Ka 177/12|Uzasadnienie|https://www.saos.org.pl/judgments/394521
+saos_id|date|court|case_number|type|score|saos_url
+111618|2013-12-11|TK|P 23/11|Postanowienie|80|https://www.saos.org.pl/judgments/111618
+102778|2013-09-04|SN|III KK 275/13|Wyrok|78|https://www.saos.org.pl/judgments/102778
+535933|2022-12-07|SO|II W 644/22|Wyrok|40|https://www.saos.org.pl/judgments/535933
+215311|2016-03-29|SO|II W 666/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/215311
+394521|2012-11-14|SO|II Ka 177/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/394521

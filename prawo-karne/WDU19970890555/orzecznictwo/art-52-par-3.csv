@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-503002|2024-09-25|SO|II K 330/24|Postanowienie|https://www.saos.org.pl/judgments/503002
-93005|2010-09-30|SN|I KZP 10/10|Uchwała|https://www.saos.org.pl/judgments/93005
+saos_id|date|court|case_number|type|score|saos_url
+93005|2010-09-30|SN|I KZP 10/10|Uchwała|96|https://www.saos.org.pl/judgments/93005

@@ -1,26 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-529983|2025-04-29|SO|IV Ka 147/25|Uzasadnienie|https://www.saos.org.pl/judgments/529983
-526460|2025-02-19|SO|IV Ka 751/24|Uzasadnienie|https://www.saos.org.pl/judgments/526460
-516060|2024-10-04|SO|IV Ka 471/24|Uzasadnienie|https://www.saos.org.pl/judgments/516060
-492447|2023-04-04|SO|IV Ka 177/23|Uzasadnienie|https://www.saos.org.pl/judgments/492447
-475567|2021-09-21|SO|II K 518/18|Wyrok|https://www.saos.org.pl/judgments/475567
-437140|2020-11-17|SO|XI Ka 380/20|Wyrok|https://www.saos.org.pl/judgments/437140
-398219|2019-11-29|SO|VII Ka 972/19|Wyrok|https://www.saos.org.pl/judgments/398219
-380095|2018-11-09|SO|VI Ka 946/18|Wyrok|https://www.saos.org.pl/judgments/380095
-335402|2018-03-28|SO|II Ka 33/18|Wyrok|https://www.saos.org.pl/judgments/335402
-357900|2018-03-19|SO|VI Ka 2/18|Wyrok|https://www.saos.org.pl/judgments/357900
-316813|2017-09-07|SO|VI Ka 285/17|Wyrok|https://www.saos.org.pl/judgments/316813
-316808|2017-06-20|SO|VI Ka 178/17|Wyrok|https://www.saos.org.pl/judgments/316808
-231526|2016-06-24|SO|IV Ka 246/16|Wyrok|https://www.saos.org.pl/judgments/231526
-231360|2016-05-25|SO|II Ka 47/16|Wyrok|https://www.saos.org.pl/judgments/231360
-215452|2016-03-22|SO|IV Ka 119/16|Wyrok|https://www.saos.org.pl/judgments/215452
-210423|2016-01-29|SO|IV Ka 724/15|Wyrok|https://www.saos.org.pl/judgments/210423
-192720|2015-11-30|SO|IV Ka 1036/15|Wyrok|https://www.saos.org.pl/judgments/192720
-179888|2015-09-04|SO|IV Ka 775/15|Wyrok|https://www.saos.org.pl/judgments/179888
-234050|2015-06-15|SO|V W 3805/15|Wyrok|https://www.saos.org.pl/judgments/234050
-152298|2015-04-14|SO|IX Ka 282/15|Wyrok|https://www.saos.org.pl/judgments/152298
-56857|2014-07-30|SO|IV Ka 384/14|Wyrok|https://www.saos.org.pl/judgments/56857
-13959|2013-06-04|SO|IV Ka 211/13|Wyrok|https://www.saos.org.pl/judgments/13959
-17866|2013-03-27|SO|VIII K 841/12|Wyrok|https://www.saos.org.pl/judgments/17866
-109704|2010-07-20|TK|P 13/10|Postanowienie|https://www.saos.org.pl/judgments/109704
-108601|2008-12-09|TK|P 52/07|Postanowienie|https://www.saos.org.pl/judgments/108601
+saos_id|date|court|case_number|type|score|saos_url
+109704|2010-07-20|TK|P 13/10|Postanowienie|80|https://www.saos.org.pl/judgments/109704
+108601|2008-12-09|TK|P 52/07|Postanowienie|80|https://www.saos.org.pl/judgments/108601
+192720|2015-11-30|SO|IV Ka 1036/15|Wyrok|40|https://www.saos.org.pl/judgments/192720
+179888|2015-09-04|SO|IV Ka 775/15|Wyrok|40|https://www.saos.org.pl/judgments/179888
+17866|2013-03-27|SO|VIII K 841/12|Wyrok|40|https://www.saos.org.pl/judgments/17866

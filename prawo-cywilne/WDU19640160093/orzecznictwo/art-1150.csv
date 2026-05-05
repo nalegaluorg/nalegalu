@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-165543|2013-10-11|SN|I CSK 697/12|Postanowienie|https://www.saos.org.pl/judgments/165543
+saos_id|date|court|case_number|type|score|saos_url
+165543|2013-10-11|SN|I CSK 697/12|Postanowienie|69|https://www.saos.org.pl/judgments/165543

@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-329628|2017-12-19|SO|VI Ka 940/17|Wyrok|https://www.saos.org.pl/judgments/329628
-314672|2017-10-03|SO|IV Ka 568/17|Uzasadnienie|https://www.saos.org.pl/judgments/314672
-229149|2016-04-18|SO|III K 281/14|Wyrok|https://www.saos.org.pl/judgments/229149
-220164|2016-04-11|SO|II K 714/15|Wyrok|https://www.saos.org.pl/judgments/220164
-244929|2016-03-16|SN|III KK 38/16|Wyrok|https://www.saos.org.pl/judgments/244929
-219164|2016-03-03|SO|II AKa 10/16|Wyrok|https://www.saos.org.pl/judgments/219164
-243231|2015-09-03|SN|V KK 136/15|Wyrok|https://www.saos.org.pl/judgments/243231
-178780|2015-04-20|SO|V Ka 649/14|Wyrok|https://www.saos.org.pl/judgments/178780
-70355|2014-10-07|SO|II K 15/13|Wyrok|https://www.saos.org.pl/judgments/70355
-50251|2014-05-29|SO|VI Ka 1381/13|Wyrok|https://www.saos.org.pl/judgments/50251
-139916|2013-07-25|SO|II AKa 170/13|Wyrok|https://www.saos.org.pl/judgments/139916
-143181|2013-07-18|SO|II AKa 214/13|Wyrok|https://www.saos.org.pl/judgments/143181
-12839|2013-03-21|SO|VI C 16/13|Wyrok|https://www.saos.org.pl/judgments/12839
-88394|2008-06-30|SN|I KZP 8/08|Uchwała|https://www.saos.org.pl/judgments/88394
-86504|2007-08-30|SN|SNO 44/07|Uchwała|https://www.saos.org.pl/judgments/86504
+saos_id|date|court|case_number|type|score|saos_url
+88394|2008-06-30|SN|I KZP 8/08|Uchwała|96|https://www.saos.org.pl/judgments/88394
+86504|2007-08-30|SN|SNO 44/07|Uchwała|89|https://www.saos.org.pl/judgments/86504
+244929|2016-03-16|SN|III KK 38/16|Wyrok|78|https://www.saos.org.pl/judgments/244929
+243231|2015-09-03|SN|V KK 136/15|Wyrok|78|https://www.saos.org.pl/judgments/243231
+219164|2016-03-03|SO|II AKa 10/16|Wyrok|56|https://www.saos.org.pl/judgments/219164
+139916|2013-07-25|SO|II AKa 170/13|Wyrok|56|https://www.saos.org.pl/judgments/139916
+143181|2013-07-18|SO|II AKa 214/13|Wyrok|56|https://www.saos.org.pl/judgments/143181
+50251|2014-05-29|SO|VI Ka 1381/13|Wyrok|40|https://www.saos.org.pl/judgments/50251

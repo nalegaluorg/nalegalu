@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-304282|2017-06-08|SO|I ACa 1605/16|Wyrok|https://www.saos.org.pl/judgments/304282
+saos_id|date|court|case_number|type|score|saos_url
+304282|2017-06-08|SO|I ACa 1605/16|Wyrok|56|https://www.saos.org.pl/judgments/304282

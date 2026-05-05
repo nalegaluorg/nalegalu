@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-517086|2024-03-26|SO|VI C 230/23|Zarządzenie|https://www.saos.org.pl/judgments/517086
-413213|2019-04-03|SO|V Ca 2194/18|Wyrok|https://www.saos.org.pl/judgments/413213
-203928|2015-12-09|SO|II AKa 358/15|Wyrok|https://www.saos.org.pl/judgments/203928
-201499|2015-07-22|KIO|KIO 1372/15|Wyrok|https://www.saos.org.pl/judgments/201499
-108530|2008-07-22|TK|K 24/07|Wyrok|https://www.saos.org.pl/judgments/108530
+saos_id|date|court|case_number|type|score|saos_url
+108530|2008-07-22|TK|K 24/07|Wyrok|98|https://www.saos.org.pl/judgments/108530
+203928|2015-12-09|SO|II AKa 358/15|Wyrok|56|https://www.saos.org.pl/judgments/203928
+201499|2015-07-22|KIO|KIO 1372/15|Wyrok|44|https://www.saos.org.pl/judgments/201499

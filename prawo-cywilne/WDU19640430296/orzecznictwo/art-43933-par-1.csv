@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-81953|2003-04-10|SN|I PK 12/03|Postanowienie|https://www.saos.org.pl/judgments/81953
+saos_id|date|court|case_number|type|score|saos_url
+81953|2003-04-10|SN|I PK 12/03|Postanowienie|69|https://www.saos.org.pl/judgments/81953

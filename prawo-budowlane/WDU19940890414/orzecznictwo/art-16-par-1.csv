@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-268150|2017-01-11|SO|VI Ka 1241/16|Wyrok|https://www.saos.org.pl/judgments/268150
+saos_id|date|court|case_number|type|score|saos_url
+268150|2017-01-11|SO|VI Ka 1241/16|Wyrok|40|https://www.saos.org.pl/judgments/268150

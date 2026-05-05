@@ -2,19 +2,18 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 6 listopada 2008 r. o konsultantach w ochronie zdrowia*
 
-Łącznie: **9** orzeczeń
+Łącznie: **8** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
-## art. 9 (3)
+## art. 9 (2)
 
-- 2025-05-12 | SO | [IV Ka 1080/24](https://www.saos.org.pl/judgments/528320) | Uzasadnienie
-- 2013-07-05 | SO | [VIII Ga 164/13](https://www.saos.org.pl/judgments/19262) | Wyrok
 - 2013-06-28 | SO | [I ACa 307/13](https://www.saos.org.pl/judgments/26814) | Wyrok
-
-## art. 10 (3)
-
 - 2025-05-12 | SO | [IV Ka 1080/24](https://www.saos.org.pl/judgments/528320) | Uzasadnienie
-- 2013-07-05 | SO | [VIII Ga 164/13](https://www.saos.org.pl/judgments/19262) | Wyrok
+
+## art. 10 (2)
+
 - 2013-06-28 | SO | [I ACa 307/13](https://www.saos.org.pl/judgments/26814) | Wyrok
+- 2025-05-12 | SO | [IV Ka 1080/24](https://www.saos.org.pl/judgments/528320) | Uzasadnienie
 
 ## art. 18 (1)
 

@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-420960|2018-09-28|SO|II AKa 279/18|Wyrok|https://www.saos.org.pl/judgments/420960
-349032|2018-06-04|SO|II AKa 41/18|Wyrok|https://www.saos.org.pl/judgments/349032
-335655|2018-03-28|SO|II Ka 13/18|Wyrok|https://www.saos.org.pl/judgments/335655
-342306|2018-03-15|SO|IV Ka 181/18|Wyrok|https://www.saos.org.pl/judgments/342306
-61270|2014-09-05|SO|VI Ka 536/14|Wyrok|https://www.saos.org.pl/judgments/61270
-48124|2014-05-15|SO|IV Ka 247/14|Wyrok|https://www.saos.org.pl/judgments/48124
-145050|2014-02-21|SO|II AKa 3/14|Wyrok|https://www.saos.org.pl/judgments/145050
-18979|2013-08-14|SO|IX Ka 877/13|Wyrok|https://www.saos.org.pl/judgments/18979
+saos_id|date|court|case_number|type|score|saos_url
+420960|2018-09-28|SO|II AKa 279/18|Wyrok|56|https://www.saos.org.pl/judgments/420960
+349032|2018-06-04|SO|II AKa 41/18|Wyrok|56|https://www.saos.org.pl/judgments/349032
+145050|2014-02-21|SO|II AKa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/145050
+342306|2018-03-15|SO|IV Ka 181/18|Wyrok|40|https://www.saos.org.pl/judgments/342306

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-536342|2025-07-09|SO|I ACa 898/23|Wyrok|https://www.saos.org.pl/judgments/536342
-519647|2024-12-16|SO|I ACa 1643/23|Wyrok|https://www.saos.org.pl/judgments/519647
-129124|2014-12-01|SO|VI ACa 3/14|Wyrok|https://www.saos.org.pl/judgments/129124
-41963|2014-04-11|SO|X GC 808/13|Uzasadnienie|https://www.saos.org.pl/judgments/41963
-16132|2013-06-28|SO|IV Cz 308/13|Postanowienie|https://www.saos.org.pl/judgments/16132
+saos_id|date|court|case_number|type|score|saos_url
+536342|2025-07-09|SO|I ACa 898/23|Wyrok|56|https://www.saos.org.pl/judgments/536342
+519647|2024-12-16|SO|I ACa 1643/23|Wyrok|56|https://www.saos.org.pl/judgments/519647
+129124|2014-12-01|SO|VI ACa 3/14|Wyrok|56|https://www.saos.org.pl/judgments/129124
+41963|2014-04-11|SO|X GC 808/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/41963

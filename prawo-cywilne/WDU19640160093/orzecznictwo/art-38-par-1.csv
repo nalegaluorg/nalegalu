@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-493737|2023-06-12|SO|I ACa 164/22|Wyrok|https://www.saos.org.pl/judgments/493737
-363827|2018-11-14|SO|I C 480/16|Wyrok|https://www.saos.org.pl/judgments/363827
-285042|2017-04-10|SO|I ACa 1261/16|Wyrok|https://www.saos.org.pl/judgments/285042
-191983|2015-10-06|SO|V Pa 34/15|Wyrok|https://www.saos.org.pl/judgments/191983
-165067|2008-12-12|SN|II CSK 278/08|Wyrok|https://www.saos.org.pl/judgments/165067
+saos_id|date|court|case_number|type|score|saos_url
+165067|2008-12-12|SN|II CSK 278/08|Wyrok|78|https://www.saos.org.pl/judgments/165067
+493737|2023-06-12|SO|I ACa 164/22|Wyrok|56|https://www.saos.org.pl/judgments/493737
+285042|2017-04-10|SO|I ACa 1261/16|Wyrok|56|https://www.saos.org.pl/judgments/285042

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-1998|2012-03-27|SO|III APa 49/11|Wyrok|https://www.saos.org.pl/judgments/1998
-1990|2012-03-27|SO|III APa 32/10|Wyrok|https://www.saos.org.pl/judgments/1990
-1988|2012-03-27|SO|III APa 20/11|Wyrok|https://www.saos.org.pl/judgments/1988
-1987|2012-03-27|SO|III APa 20/10|Wyrok|https://www.saos.org.pl/judgments/1987
+saos_id|date|court|case_number|type|score|saos_url
+1998|2012-03-27|SO|III APa 49/11|Wyrok|56|https://www.saos.org.pl/judgments/1998
+1990|2012-03-27|SO|III APa 32/10|Wyrok|56|https://www.saos.org.pl/judgments/1990
+1988|2012-03-27|SO|III APa 20/11|Wyrok|56|https://www.saos.org.pl/judgments/1988
+1987|2012-03-27|SO|III APa 20/10|Wyrok|56|https://www.saos.org.pl/judgments/1987

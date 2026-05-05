@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polski
 
 ## art. 2 (1)
 
-- 2010-06-10 | SN | [I UK 49/10](https://www.saos.org.pl/judgments/92408) | Wyrok
+- 2010-06-10 | SN | [I UK 49/10](https://www.saos.org.pl/judgments/92408) | Wyrok ★
 
 ## art. 3 (5)
 
@@ -36,5 +36,5 @@ Orzeczenia powołujące: *Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polski
 
 ## art. 209 (1)
 
-- 2011-11-17 | SN | [III CZP 5/11](https://www.saos.org.pl/judgments/96258) | Uchwała
+- 2011-11-17 | SN | [III CZP 5/11](https://www.saos.org.pl/judgments/96258) | Uchwała ★
 

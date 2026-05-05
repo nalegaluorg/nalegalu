@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-332576|2017-12-15|SO|I ACa 531/17|Wyrok|https://www.saos.org.pl/judgments/332576
-218286|2016-03-03|SO|I ACa 1665/15|Wyrok|https://www.saos.org.pl/judgments/218286
-481952|2015-06-02|SO|I ACa 49/15|Wyrok|https://www.saos.org.pl/judgments/481952
+saos_id|date|court|case_number|type|score|saos_url
+332576|2017-12-15|SO|I ACa 531/17|Wyrok|56|https://www.saos.org.pl/judgments/332576
+218286|2016-03-03|SO|I ACa 1665/15|Wyrok|56|https://www.saos.org.pl/judgments/218286
+481952|2015-06-02|SO|I ACa 49/15|Wyrok|56|https://www.saos.org.pl/judgments/481952

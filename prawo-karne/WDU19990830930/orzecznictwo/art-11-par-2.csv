@@ -1,28 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-481903|2022-09-15|SO|II K 460/21|Wyrok|https://www.saos.org.pl/judgments/481903
-482914|2022-03-17|SO|II K 48/19|Wyrok|https://www.saos.org.pl/judgments/482914
-481897|2022-03-01|SO|II K 277/21|Wyrok|https://www.saos.org.pl/judgments/481897
-478561|2022-02-25|SO|VI Ka 604/21|Wyrok|https://www.saos.org.pl/judgments/478561
-480892|2021-03-23|SO|II K 1086/20|Wyrok|https://www.saos.org.pl/judgments/480892
-452627|2021-01-26|SO|II K 132/19|Wyrok|https://www.saos.org.pl/judgments/452627
-418283|2020-08-07|SO|II Ka 327/20|Wyrok|https://www.saos.org.pl/judgments/418283
-385955|2019-06-13|SO|II W 940/18|Wyrok|https://www.saos.org.pl/judgments/385955
-378284|2019-02-11|SO|II K 617/17|Uzasadnienie|https://www.saos.org.pl/judgments/378284
-378283|2018-12-28|SO|II K 617/17|Wyrok|https://www.saos.org.pl/judgments/378283
-363019|2018-10-01|SO|V Ka 400/18|Wyrok|https://www.saos.org.pl/judgments/363019
-336748|2018-01-04|SO|II K 66/17|Wyrok|https://www.saos.org.pl/judgments/336748
-324150|2017-11-27|SO|VII K 92/17|Wyrok|https://www.saos.org.pl/judgments/324150
-323230|2017-11-22|SO|II W 587/17|Wyrok|https://www.saos.org.pl/judgments/323230
-303935|2017-08-28|SO|II W 287/16|Uzasadnienie|https://www.saos.org.pl/judgments/303935
-300003|2017-08-18|SO|VI Ka 423/17|Wyrok|https://www.saos.org.pl/judgments/300003
-303591|2017-06-26|SO|VI Ka 362/17|Wyrok|https://www.saos.org.pl/judgments/303591
-291940|2017-06-06|SO|II K 427/17|Wyrok|https://www.saos.org.pl/judgments/291940
-269993|2016-12-22|SO|IV K 489/16|Wyrok|https://www.saos.org.pl/judgments/269993
-305489|2016-12-09|SO|II K 273/15|Wyrok|https://www.saos.org.pl/judgments/305489
-253788|2016-09-28|SO|XVII Ka 763/16|Wyrok|https://www.saos.org.pl/judgments/253788
-197645|2015-11-18|SO|II AKa 293/15|Wyrok|https://www.saos.org.pl/judgments/197645
-176892|2015-08-12|SO|I ACa 390/15|Wyrok|https://www.saos.org.pl/judgments/176892
-170479|2015-07-09|SO|II K 140/15|Wyrok|https://www.saos.org.pl/judgments/170479
-38475|2014-02-05|SO|IV Ka 1240/13|Wyrok|https://www.saos.org.pl/judgments/38475
-8903|2013-03-19|SO|IV Ka 1365/12|Wyrok|https://www.saos.org.pl/judgments/8903
-83897|2005-12-01|SN|IV KK 122/05|Wyrok|https://www.saos.org.pl/judgments/83897
+saos_id|date|court|case_number|type|score|saos_url
+83897|2005-12-01|SN|IV KK 122/05|Wyrok|78|https://www.saos.org.pl/judgments/83897
+197645|2015-11-18|SO|II AKa 293/15|Wyrok|56|https://www.saos.org.pl/judgments/197645
+176892|2015-08-12|SO|I ACa 390/15|Wyrok|56|https://www.saos.org.pl/judgments/176892
+478561|2022-02-25|SO|VI Ka 604/21|Wyrok|40|https://www.saos.org.pl/judgments/478561
+303591|2017-06-26|SO|VI Ka 362/17|Wyrok|40|https://www.saos.org.pl/judgments/303591
+269993|2016-12-22|SO|IV K 489/16|Wyrok|40|https://www.saos.org.pl/judgments/269993
+253788|2016-09-28|SO|XVII Ka 763/16|Wyrok|40|https://www.saos.org.pl/judgments/253788
+303935|2017-08-28|SO|II W 287/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/303935

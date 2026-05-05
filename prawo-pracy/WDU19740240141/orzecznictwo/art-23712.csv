@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-148435|2015-02-23|SO|II K 471/13|Wyrok|https://www.saos.org.pl/judgments/148435
-76220|2014-11-27|SO|V Pa 126/13|Wyrok|https://www.saos.org.pl/judgments/76220
+saos_id|date|court|case_number|type|score|saos_url
+148435|2015-02-23|SO|II K 471/13|Wyrok|40|https://www.saos.org.pl/judgments/148435

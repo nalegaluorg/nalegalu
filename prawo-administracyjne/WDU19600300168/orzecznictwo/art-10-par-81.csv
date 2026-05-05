@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-512042|2024-01-16|SO|VII U 187/23|Wyrok|https://www.saos.org.pl/judgments/512042
-512051|2023-12-04|SO|VII U 228/23|Wyrok|https://www.saos.org.pl/judgments/512051
-421259|2017-05-17|SO|III AUa 1277/16|Wyrok|https://www.saos.org.pl/judgments/421259
-132292|2014-11-03|SO|I C 626/13|Wyrok|https://www.saos.org.pl/judgments/132292
-238049|2013-02-28|SO|XVII AmE 177/11|Wyrok|https://www.saos.org.pl/judgments/238049
+saos_id|date|court|case_number|type|score|saos_url
+421259|2017-05-17|SO|III AUa 1277/16|Wyrok|56|https://www.saos.org.pl/judgments/421259
+512042|2024-01-16|SO|VII U 187/23|Wyrok|40|https://www.saos.org.pl/judgments/512042
+512051|2023-12-04|SO|VII U 228/23|Wyrok|40|https://www.saos.org.pl/judgments/512051

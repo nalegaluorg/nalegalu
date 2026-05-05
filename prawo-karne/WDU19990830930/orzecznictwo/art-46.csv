@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-460477|2019-05-18|SO|II AKa 8/19|Uzasadnienie|https://www.saos.org.pl/judgments/460477
-257565|2016-02-17|SO|IV Ka 32/16|Wyrok|https://www.saos.org.pl/judgments/257565
-59984|2014-09-02|SO|VI Ka 434/14|Wyrok|https://www.saos.org.pl/judgments/59984
-29392|2013-12-30|SO|II Ka 491/13|Wyrok|https://www.saos.org.pl/judgments/29392
-83716|2005-09-21|SN|I KZP 23/05|Uchwała|https://www.saos.org.pl/judgments/83716
+saos_id|date|court|case_number|type|score|saos_url
+83716|2005-09-21|SN|I KZP 23/05|Uchwała|89|https://www.saos.org.pl/judgments/83716
+460477|2019-05-18|SO|II AKa 8/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/460477

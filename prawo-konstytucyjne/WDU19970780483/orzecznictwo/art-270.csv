@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-152573|2015-04-21|SO|I C 668/15|Wyrok|https://www.saos.org.pl/judgments/152573
-151449|2015-04-10|SO|I C 3207/14|Wyrok|https://www.saos.org.pl/judgments/151449
-64578|2014-09-23|SO|IX Ca 393/14|Wyrok|https://www.saos.org.pl/judgments/64578
-145073|2014-03-18|SO|I C 97/14|Wyrok|https://www.saos.org.pl/judgments/145073
-178002|2014-02-28|SO|II Ca 1322/13|Wyrok|https://www.saos.org.pl/judgments/178002
-142980|2014-01-14|SO|I C 976/13|Wyrok|https://www.saos.org.pl/judgments/142980
+saos_id|date|court|case_number|type|score|saos_url
+178002|2014-02-28|SO|II Ca 1322/13|Wyrok|40|https://www.saos.org.pl/judgments/178002

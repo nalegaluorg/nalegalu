@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-494977|2023-10-09|SO|I AGa 249/23|Wyrok|https://www.saos.org.pl/judgments/494977
-454443|2021-12-01|SO|I ACa 129/21|Wyrok|https://www.saos.org.pl/judgments/454443
-58687|2014-08-20|SO|IV Cz 495/14|Postanowienie|https://www.saos.org.pl/judgments/58687
-48604|2014-04-04|SO|II Ca 16/14|Wyrok|https://www.saos.org.pl/judgments/48604
-9204|2011-02-08|SO|I ACa 924/10|Wyrok|https://www.saos.org.pl/judgments/9204
-92722|2010-07-27|SN|II CSK 147/10|Wyrok|https://www.saos.org.pl/judgments/92722
+saos_id|date|court|case_number|type|score|saos_url
+92722|2010-07-27|SN|II CSK 147/10|Wyrok|78|https://www.saos.org.pl/judgments/92722
+494977|2023-10-09|SO|I AGa 249/23|Wyrok|56|https://www.saos.org.pl/judgments/494977
+454443|2021-12-01|SO|I ACa 129/21|Wyrok|56|https://www.saos.org.pl/judgments/454443
+9204|2011-02-08|SO|I ACa 924/10|Wyrok|56|https://www.saos.org.pl/judgments/9204

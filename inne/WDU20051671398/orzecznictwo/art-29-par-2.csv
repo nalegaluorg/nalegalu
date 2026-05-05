@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-354973|2018-07-03|SO|IV Ca 2159/17|Wyrok|https://www.saos.org.pl/judgments/354973
+saos_id|date|court|case_number|type|score|saos_url
+354973|2018-07-03|SO|IV Ca 2159/17|Wyrok|40|https://www.saos.org.pl/judgments/354973

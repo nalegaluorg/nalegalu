@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515763|2022-02-17|SO|I AGa 274/20|Wyrok|https://www.saos.org.pl/judgments/515763
+saos_id|date|court|case_number|type|score|saos_url
+515763|2022-02-17|SO|I AGa 274/20|Wyrok|56|https://www.saos.org.pl/judgments/515763

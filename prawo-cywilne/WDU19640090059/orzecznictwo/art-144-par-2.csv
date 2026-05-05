@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-479061|2022-11-17|SO|III RC 1/21|Wyrok|https://www.saos.org.pl/judgments/479061
-285449|2017-04-07|SO|III Ca 1770/16|Uzasadnienie|https://www.saos.org.pl/judgments/285449
+saos_id|date|court|case_number|type|score|saos_url
+285449|2017-04-07|SO|III Ca 1770/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/285449

@@ -1,2 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-325612|2017-04-27|SO|XXVII Ca 147/17|Wyrok|https://www.saos.org.pl/judgments/325612
+saos_id|date|court|case_number|type|score|saos_url
+437860|2021-01-21|SO|I ACa 165/20|Wyrok|56|https://www.saos.org.pl/judgments/437860
+429690|2020-01-22|SO|I ACa 1409/18|Wyrok|56|https://www.saos.org.pl/judgments/429690
+391416|2019-06-27|SO|III Ca 2127/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/391416
+378693|2019-03-01|SO|III Ca 1057/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/378693
+352120|2018-07-04|SO|III Ca 475/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/352120
+276388|2017-02-16|SO|III Ca 1588/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/276388
+255462|2016-11-17|SO|III Ca 1427/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/255462
+221976|2016-03-18|SO|III Ca 1738/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/221976
+221975|2016-03-07|SO|III Ca 1706/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/221975
+198617|2016-01-11|SO|III Ca 1367/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/198617
+213448|2015-11-23|SO|III Ca 1046/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/213448
+193442|2015-10-30|SO|III Ca 985/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193442
+193948|2015-10-27|SO|III Ca 967/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193948

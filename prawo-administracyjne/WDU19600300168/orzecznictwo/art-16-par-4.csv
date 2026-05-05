@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80864|2001-09-17|SN|III RN 214/00|Wyrok|https://www.saos.org.pl/judgments/80864
+saos_id|date|court|case_number|type|score|saos_url
+80864|2001-09-17|SN|III RN 214/00|Wyrok|78|https://www.saos.org.pl/judgments/80864

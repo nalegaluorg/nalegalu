@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-483751|2022-12-30|SO|VII U 4237/19|Wyrok|https://www.saos.org.pl/judgments/483751
-454686|2021-10-20|SO|I ACa 698/21|Wyrok|https://www.saos.org.pl/judgments/454686
-407340|2019-12-19|SO|VIII Ga 479/19|Uzasadnienie|https://www.saos.org.pl/judgments/407340
-359860|2018-10-12|SO|I AGa 111/18|Wyrok|https://www.saos.org.pl/judgments/359860
-19006|2013-06-24|SO|VIII GC 63/13|Wyrok|https://www.saos.org.pl/judgments/19006
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-100450|2013-01-21|SN|II PK 155/12|Wyrok|https://www.saos.org.pl/judgments/100450
-92696|2010-07-21|SN|III CZP 23/10|Uchwała|https://www.saos.org.pl/judgments/92696
-92235|2010-05-13|SN|IV CSK 531/09|Wyrok|https://www.saos.org.pl/judgments/92235
+saos_id|date|court|case_number|type|score|saos_url
+92696|2010-07-21|SN|III CZP 23/10|Uchwała|89|https://www.saos.org.pl/judgments/92696
+100450|2013-01-21|SN|II PK 155/12|Wyrok|78|https://www.saos.org.pl/judgments/100450
+92235|2010-05-13|SN|IV CSK 531/09|Wyrok|78|https://www.saos.org.pl/judgments/92235
+454686|2021-10-20|SO|I ACa 698/21|Wyrok|56|https://www.saos.org.pl/judgments/454686
+359860|2018-10-12|SO|I AGa 111/18|Wyrok|56|https://www.saos.org.pl/judgments/359860
+483751|2022-12-30|SO|VII U 4237/19|Wyrok|40|https://www.saos.org.pl/judgments/483751

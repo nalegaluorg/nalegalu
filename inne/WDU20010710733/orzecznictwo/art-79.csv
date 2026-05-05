@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-371145|2018-10-09|SO|XVIII C 1841/17|Wyrok|https://www.saos.org.pl/judgments/371145
+saos_id|date|court|case_number|type|score|saos_url
+371145|2018-10-09|SO|XVIII C 1841/17|Wyrok|40|https://www.saos.org.pl/judgments/371145

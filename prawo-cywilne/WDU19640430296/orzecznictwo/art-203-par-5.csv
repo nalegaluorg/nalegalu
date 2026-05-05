@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-239841|2016-06-28|SO|I ACa 1659/15|Wyrok|https://www.saos.org.pl/judgments/239841
-181714|2015-07-20|SO|I C 121/15|Wyrok|https://www.saos.org.pl/judgments/181714
+saos_id|date|court|case_number|type|score|saos_url
+239841|2016-06-28|SO|I ACa 1659/15|Wyrok|56|https://www.saos.org.pl/judgments/239841
+181714|2015-07-20|SO|I C 121/15|Wyrok|40|https://www.saos.org.pl/judgments/181714

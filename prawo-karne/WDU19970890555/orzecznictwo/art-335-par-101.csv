@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-166004|2014-06-03|SN|IV KK 437/13|Wyrok|https://www.saos.org.pl/judgments/166004
+saos_id|date|court|case_number|type|score|saos_url
+166004|2014-06-03|SN|IV KK 437/13|Wyrok|78|https://www.saos.org.pl/judgments/166004

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-83818|2005-10-27|SN|I KZP 30/05|Postanowienie|https://www.saos.org.pl/judgments/83818
+saos_id|date|court|case_number|type|score|saos_url
+83818|2005-10-27|SN|I KZP 30/05|Postanowienie|69|https://www.saos.org.pl/judgments/83818

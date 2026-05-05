@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-167366|2014-11-12|SN|II UZ 47/14|Postanowienie|https://www.saos.org.pl/judgments/167366
-167165|2014-10-29|SN|II UZ 38/14|Postanowienie|https://www.saos.org.pl/judgments/167165
-167164|2014-10-29|SN|II UZ 37/14|Postanowienie|https://www.saos.org.pl/judgments/167164
-167066|2014-10-14|SN|II UZ 27/14|Postanowienie|https://www.saos.org.pl/judgments/167066
-166889|2014-09-30|SN|II UZ 5/14|Postanowienie|https://www.saos.org.pl/judgments/166889
-166887|2014-09-30|SN|II UZ 20/14|Postanowienie|https://www.saos.org.pl/judgments/166887
-166886|2014-09-30|SN|II UZ 17/14|Postanowienie|https://www.saos.org.pl/judgments/166886
-166885|2014-09-30|SN|II UZ 14/14|Postanowienie|https://www.saos.org.pl/judgments/166885
-166818|2014-09-23|SN|II UZ 9/14|Postanowienie|https://www.saos.org.pl/judgments/166818
-166817|2014-09-23|SN|II UZ 80/13|Postanowienie|https://www.saos.org.pl/judgments/166817
-104253|2014-01-29|SN|II UZ 69/13|Postanowienie|https://www.saos.org.pl/judgments/104253
-104252|2014-01-29|SN|II UZ 68/13|Postanowienie|https://www.saos.org.pl/judgments/104252
+saos_id|date|court|case_number|type|score|saos_url
+167366|2014-11-12|SN|II UZ 47/14|Postanowienie|69|https://www.saos.org.pl/judgments/167366
+167165|2014-10-29|SN|II UZ 38/14|Postanowienie|69|https://www.saos.org.pl/judgments/167165
+167164|2014-10-29|SN|II UZ 37/14|Postanowienie|69|https://www.saos.org.pl/judgments/167164
+167066|2014-10-14|SN|II UZ 27/14|Postanowienie|69|https://www.saos.org.pl/judgments/167066
+166889|2014-09-30|SN|II UZ 5/14|Postanowienie|69|https://www.saos.org.pl/judgments/166889
+166887|2014-09-30|SN|II UZ 20/14|Postanowienie|69|https://www.saos.org.pl/judgments/166887
+166886|2014-09-30|SN|II UZ 17/14|Postanowienie|69|https://www.saos.org.pl/judgments/166886
+166885|2014-09-30|SN|II UZ 14/14|Postanowienie|69|https://www.saos.org.pl/judgments/166885
+166818|2014-09-23|SN|II UZ 9/14|Postanowienie|69|https://www.saos.org.pl/judgments/166818
+166817|2014-09-23|SN|II UZ 80/13|Postanowienie|69|https://www.saos.org.pl/judgments/166817
+104253|2014-01-29|SN|II UZ 69/13|Postanowienie|69|https://www.saos.org.pl/judgments/104253
+104252|2014-01-29|SN|II UZ 68/13|Postanowienie|69|https://www.saos.org.pl/judgments/104252

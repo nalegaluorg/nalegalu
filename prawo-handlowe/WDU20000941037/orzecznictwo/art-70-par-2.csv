@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-336280|2018-03-08|SO|I ACa 599/17|Wyrok|https://www.saos.org.pl/judgments/336280
+saos_id|date|court|case_number|type|score|saos_url
+336280|2018-03-08|SO|I ACa 599/17|Wyrok|56|https://www.saos.org.pl/judgments/336280

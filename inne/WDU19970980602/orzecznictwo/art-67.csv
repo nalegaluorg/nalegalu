@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-126180|2015-01-09|SO|IV Ka 628/14|Wyrok|https://www.saos.org.pl/judgments/126180
-80967|2001-11-09|SN|III RN 194/01|Wyrok|https://www.saos.org.pl/judgments/80967
+saos_id|date|court|case_number|type|score|saos_url
+80967|2001-11-09|SN|III RN 194/01|Wyrok|78|https://www.saos.org.pl/judgments/80967

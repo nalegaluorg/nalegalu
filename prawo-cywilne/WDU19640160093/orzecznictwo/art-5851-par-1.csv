@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-498304|2023-10-27|SO|I C 477/23|Wyrok|https://www.saos.org.pl/judgments/498304
-525046|2023-05-16|SO|V ACa 417/21|Wyrok|https://www.saos.org.pl/judgments/525046
-458276|2021-12-20|SO|I C 729/21|Wyrok|https://www.saos.org.pl/judgments/458276
-38329|2013-12-30|SO|II Ca 797/13|Wyrok|https://www.saos.org.pl/judgments/38329
+saos_id|date|court|case_number|type|score|saos_url
+525046|2023-05-16|SO|V ACa 417/21|Wyrok|56|https://www.saos.org.pl/judgments/525046

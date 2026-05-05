@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-42678|2014-03-12|SO|I ACa 929/13|Wyrok|https://www.saos.org.pl/judgments/42678
-386461|2013-10-24|SO|I ACa 683/13|Wyrok|https://www.saos.org.pl/judgments/386461
-79937|2000-09-21|SN|III CZP 14/00|Uchwała|https://www.saos.org.pl/judgments/79937
+saos_id|date|court|case_number|type|score|saos_url
+79937|2000-09-21|SN|III CZP 14/00|Uchwała|96|https://www.saos.org.pl/judgments/79937
+42678|2014-03-12|SO|I ACa 929/13|Wyrok|56|https://www.saos.org.pl/judgments/42678
+386461|2013-10-24|SO|I ACa 683/13|Wyrok|56|https://www.saos.org.pl/judgments/386461

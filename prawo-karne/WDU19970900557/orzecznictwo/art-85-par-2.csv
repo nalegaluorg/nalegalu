@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-387803|2019-05-09|SO|II K 572/18|Wyrok|https://www.saos.org.pl/judgments/387803
-375397|2019-04-11|SO|II K 799/18|Wyrok|https://www.saos.org.pl/judgments/375397
-375387|2019-02-01|SO|II K 583/18|Wyrok|https://www.saos.org.pl/judgments/375387
-310621|2017-08-22|SO|II K 475/13|Wyrok|https://www.saos.org.pl/judgments/310621
-277577|2017-03-09|SO|II K 738/16|Wyrok|https://www.saos.org.pl/judgments/277577
+saos_id|date|court|case_number|type|score|saos_url
+387803|2019-05-09|SO|II K 572/18|Wyrok|40|https://www.saos.org.pl/judgments/387803
+375397|2019-04-11|SO|II K 799/18|Wyrok|40|https://www.saos.org.pl/judgments/375397
+375387|2019-02-01|SO|II K 583/18|Wyrok|40|https://www.saos.org.pl/judgments/375387
+277577|2017-03-09|SO|II K 738/16|Wyrok|40|https://www.saos.org.pl/judgments/277577

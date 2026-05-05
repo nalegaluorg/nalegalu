@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-429742|2019-05-24|SO|I ACa 989/18|Wyrok|https://www.saos.org.pl/judgments/429742
-210125|2016-01-27|SO|I ACa 472/15|Wyrok|https://www.saos.org.pl/judgments/210125
-172644|2015-06-18|SO|I ACa 1822/14|Wyrok|https://www.saos.org.pl/judgments/172644
-131074|2014-12-15|SO|VI ACa 311/14|Wyrok|https://www.saos.org.pl/judgments/131074
-42544|2013-12-17|SO|I ACz 2321/13|Postanowienie|https://www.saos.org.pl/judgments/42544
+saos_id|date|court|case_number|type|score|saos_url
+429742|2019-05-24|SO|I ACa 989/18|Wyrok|56|https://www.saos.org.pl/judgments/429742
+210125|2016-01-27|SO|I ACa 472/15|Wyrok|56|https://www.saos.org.pl/judgments/210125
+172644|2015-06-18|SO|I ACa 1822/14|Wyrok|56|https://www.saos.org.pl/judgments/172644
+131074|2014-12-15|SO|VI ACa 311/14|Wyrok|56|https://www.saos.org.pl/judgments/131074
+42544|2013-12-17|SO|I ACz 2321/13|Postanowienie|47|https://www.saos.org.pl/judgments/42544

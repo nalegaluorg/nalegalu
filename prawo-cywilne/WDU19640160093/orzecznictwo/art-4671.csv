@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-237628|2016-08-04|SO|XIII Ga 45/16|Uzasadnienie|https://www.saos.org.pl/judgments/237628
-194514|2015-12-30|SO|III Ca 1264/15|Uzasadnienie|https://www.saos.org.pl/judgments/194514
-198786|2015-11-13|SO|V ACa 480/15|Wyrok|https://www.saos.org.pl/judgments/198786
-156162|2015-03-30|SO|VIII GC 157/13|Uzasadnienie|https://www.saos.org.pl/judgments/156162
-128331|2014-10-09|SO|I ACa 577/14|Wyrok|https://www.saos.org.pl/judgments/128331
-53140|2014-05-29|SO|I ACa 161/14|Wyrok|https://www.saos.org.pl/judgments/53140
-52174|2013-05-23|SO|I ACa 41/13|Wyrok|https://www.saos.org.pl/judgments/52174
-112847|2008-07-03|KIO|KIO/UZP 611/08|Wyrok|https://www.saos.org.pl/judgments/112847
+saos_id|date|court|case_number|type|score|saos_url
+198786|2015-11-13|SO|V ACa 480/15|Wyrok|56|https://www.saos.org.pl/judgments/198786
+128331|2014-10-09|SO|I ACa 577/14|Wyrok|56|https://www.saos.org.pl/judgments/128331
+53140|2014-05-29|SO|I ACa 161/14|Wyrok|56|https://www.saos.org.pl/judgments/53140
+52174|2013-05-23|SO|I ACa 41/13|Wyrok|56|https://www.saos.org.pl/judgments/52174
+112847|2008-07-03|KIO|KIO/UZP 611/08|Wyrok|44|https://www.saos.org.pl/judgments/112847
+237628|2016-08-04|SO|XIII Ga 45/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/237628
+194514|2015-12-30|SO|III Ca 1264/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194514

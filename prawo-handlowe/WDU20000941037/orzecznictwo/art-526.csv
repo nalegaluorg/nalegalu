@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-459722|2021-10-18|SO|I C 96/21|Zarządzenie|https://www.saos.org.pl/judgments/459722
-430980|2021-01-11|SO|VIII U 414/16|Uzasadnienie|https://www.saos.org.pl/judgments/430980
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
+saos_id|date|court|case_number|type|score|saos_url
+430980|2021-01-11|SO|VIII U 414/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/430980

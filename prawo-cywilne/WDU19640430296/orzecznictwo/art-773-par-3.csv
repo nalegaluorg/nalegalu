@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-133423|2014-12-16|SO|II Ca 394/14|Wyrok|https://www.saos.org.pl/judgments/133423
+saos_id|date|court|case_number|type|score|saos_url
+91940|2010-02-24|SN|III CZP 133/09|Uchwała|89|https://www.saos.org.pl/judgments/91940
+96649|2011-12-20|SN|III CZP 46/11|Postanowienie|76|https://www.saos.org.pl/judgments/96649

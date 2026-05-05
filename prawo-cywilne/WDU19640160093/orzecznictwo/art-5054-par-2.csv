@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531822|2024-04-18|SO|II Ca 1557/23|Wyrok|https://www.saos.org.pl/judgments/531822
-441344|2021-03-12|SO|VIII Ga 233/20|Wyrok|https://www.saos.org.pl/judgments/441344
-432809|2019-07-11|SO|V GC 2153/18|Wyrok|https://www.saos.org.pl/judgments/432809
-306747|2017-07-07|SO|VIII C 910/16|Wyrok|https://www.saos.org.pl/judgments/306747
-129767|2015-02-17|SO|VIII Ga 24/15|Wyrok|https://www.saos.org.pl/judgments/129767
+saos_id|date|court|case_number|type|score|saos_url
+531822|2024-04-18|SO|II Ca 1557/23|Wyrok|40|https://www.saos.org.pl/judgments/531822

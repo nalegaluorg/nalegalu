@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-265650|2016-10-13|SO|V ACa 79/16|Wyrok|https://www.saos.org.pl/judgments/265650
-193416|2015-10-27|SO|III Ca 951/15|Uzasadnienie|https://www.saos.org.pl/judgments/193416
-185143|2015-07-09|SO|III Ca 461/15|Uzasadnienie|https://www.saos.org.pl/judgments/185143
-134553|2015-01-08|SO|I ACa 1025/14|Wyrok|https://www.saos.org.pl/judgments/134553
-57394|2014-07-15|SO|I ACa 25/14|Wyrok|https://www.saos.org.pl/judgments/57394
-16756|2013-07-25|SO|IV Cz 321/13|Postanowienie|https://www.saos.org.pl/judgments/16756
+saos_id|date|court|case_number|type|score|saos_url
+265650|2016-10-13|SO|V ACa 79/16|Wyrok|56|https://www.saos.org.pl/judgments/265650
+134553|2015-01-08|SO|I ACa 1025/14|Wyrok|56|https://www.saos.org.pl/judgments/134553
+57394|2014-07-15|SO|I ACa 25/14|Wyrok|56|https://www.saos.org.pl/judgments/57394
+193416|2015-10-27|SO|III Ca 951/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193416
+185143|2015-07-09|SO|III Ca 461/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185143

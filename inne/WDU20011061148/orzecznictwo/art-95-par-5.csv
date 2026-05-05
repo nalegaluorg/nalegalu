@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-160588|2015-02-23|TK|U 3/13|Postanowienie|https://www.saos.org.pl/judgments/160588
+saos_id|date|court|case_number|type|score|saos_url
+160588|2015-02-23|TK|U 3/13|Postanowienie|80|https://www.saos.org.pl/judgments/160588

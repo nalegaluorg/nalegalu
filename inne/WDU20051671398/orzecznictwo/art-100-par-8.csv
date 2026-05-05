@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-349308|2018-04-03|SO|III Ca 1890/17|Uzasadnienie|https://www.saos.org.pl/judgments/349308
-349306|2018-04-03|SO|III Ca 1889/17|Uzasadnienie|https://www.saos.org.pl/judgments/349306
-350210|2018-03-30|SO|III Ca 2000/17|Uzasadnienie|https://www.saos.org.pl/judgments/350210
-348599|2018-03-06|SO|III Ca 1794/17|Uzasadnienie|https://www.saos.org.pl/judgments/348599
-348534|2018-02-28|SO|III Ca 1677/17|Uzasadnienie|https://www.saos.org.pl/judgments/348534
-348591|2018-02-27|SO|III Ca 1786/17|Uzasadnienie|https://www.saos.org.pl/judgments/348591
-328764|2018-01-04|SO|III Ca 1294/17|Uzasadnienie|https://www.saos.org.pl/judgments/328764
-324794|2017-11-30|SO|III Ca 992/17|Uzasadnienie|https://www.saos.org.pl/judgments/324794
+saos_id|date|court|case_number|type|score|saos_url
+349308|2018-04-03|SO|III Ca 1890/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/349308
+349306|2018-04-03|SO|III Ca 1889/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/349306
+350210|2018-03-30|SO|III Ca 2000/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/350210
+348599|2018-03-06|SO|III Ca 1794/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348599
+348534|2018-02-28|SO|III Ca 1677/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348534
+348591|2018-02-27|SO|III Ca 1786/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348591
+328764|2018-01-04|SO|III Ca 1294/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/328764
+324794|2017-11-30|SO|III Ca 992/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324794

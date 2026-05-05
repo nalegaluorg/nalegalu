@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-397524|2019-03-08|SO|XII Ga 948/18|Wyrok|https://www.saos.org.pl/judgments/397524
+saos_id|date|court|case_number|type|score|saos_url
+397524|2019-03-08|SO|XII Ga 948/18|Wyrok|40|https://www.saos.org.pl/judgments/397524

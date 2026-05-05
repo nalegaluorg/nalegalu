@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-275507|2017-03-03|SO|I Ns 823/16|Postanowienie|https://www.saos.org.pl/judgments/275507
-256052|2016-03-24|SO|I C 1096/15|Wyrok|https://www.saos.org.pl/judgments/256052
-68250|2014-08-29|SO|X Ga 168/14|Wyrok|https://www.saos.org.pl/judgments/68250
-67780|2014-08-21|SO|II AKa 238/14|Wyrok|https://www.saos.org.pl/judgments/67780
+saos_id|date|court|case_number|type|score|saos_url
+67780|2014-08-21|SO|II AKa 238/14|Wyrok|56|https://www.saos.org.pl/judgments/67780

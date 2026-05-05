@@ -1,17 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-509886|2022-12-01|SO|V AGa 149/21|Wyrok|https://www.saos.org.pl/judgments/509886
-465555|2022-03-28|SO|IV GC 2613/19|Uzasadnienie|https://www.saos.org.pl/judgments/465555
-422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|https://www.saos.org.pl/judgments/422478
-407717|2019-12-17|SO|I AGa 98/19|Wyrok|https://www.saos.org.pl/judgments/407717
-392862|2019-07-12|SO|VIII Ga 448/18|Uzasadnienie|https://www.saos.org.pl/judgments/392862
-346643|2018-03-28|SO|VI Pa 130/17|Wyrok|https://www.saos.org.pl/judgments/346643
-301804|2017-03-23|KIO|KIO 461/17|Wyrok|https://www.saos.org.pl/judgments/301804
-282760|2016-11-16|SO|II Ca 1915/16|Postanowienie|https://www.saos.org.pl/judgments/282760
-227662|2016-04-07|SO|II AKa 288/15|Wyrok|https://www.saos.org.pl/judgments/227662
-244689|2016-02-25|SN|II PZ 24/15|Postanowienie|https://www.saos.org.pl/judgments/244689
-126113|2015-01-19|SO|XX GC 779/13|Uzasadnienie|https://www.saos.org.pl/judgments/126113
-286149|2014-12-16|SO|XX GC 779/13|Wyrok|https://www.saos.org.pl/judgments/286149
-87|2012-10-09|SO|I ACa 889/12|Wyrok|https://www.saos.org.pl/judgments/87
-119708|2012-02-14|KIO|KIO 219/12|Wyrok|https://www.saos.org.pl/judgments/119708
-85803|2007-05-09|SN|II CSK 60/07|Wyrok|https://www.saos.org.pl/judgments/85803
-80621|2001-05-27|SN|III CZP 6/01|Uchwała|https://www.saos.org.pl/judgments/80621
+saos_id|date|court|case_number|type|score|saos_url
+80621|2001-05-27|SN|III CZP 6/01|Uchwała|89|https://www.saos.org.pl/judgments/80621
+85803|2007-05-09|SN|II CSK 60/07|Wyrok|78|https://www.saos.org.pl/judgments/85803
+244689|2016-02-25|SN|II PZ 24/15|Postanowienie|69|https://www.saos.org.pl/judgments/244689
+509886|2022-12-01|SO|V AGa 149/21|Wyrok|56|https://www.saos.org.pl/judgments/509886
+407717|2019-12-17|SO|I AGa 98/19|Wyrok|56|https://www.saos.org.pl/judgments/407717
+227662|2016-04-07|SO|II AKa 288/15|Wyrok|56|https://www.saos.org.pl/judgments/227662
+87|2012-10-09|SO|I ACa 889/12|Wyrok|56|https://www.saos.org.pl/judgments/87
+301804|2017-03-23|KIO|KIO 461/17|Wyrok|44|https://www.saos.org.pl/judgments/301804
+119708|2012-02-14|KIO|KIO 219/12|Wyrok|44|https://www.saos.org.pl/judgments/119708
+282760|2016-11-16|SO|II Ca 1915/16|Postanowienie|31|https://www.saos.org.pl/judgments/282760
+422478|2020-06-24|SO|VIII Pa 124/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/422478

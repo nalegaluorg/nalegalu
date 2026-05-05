@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-522402|2025-01-24|SO|II C 1545/24|Zarządzenie|https://www.saos.org.pl/judgments/522402
-98651|2012-07-19|SN|II CSK 660/11|Postanowienie|https://www.saos.org.pl/judgments/98651
+saos_id|date|court|case_number|type|score|saos_url
+98651|2012-07-19|SN|II CSK 660/11|Postanowienie|69|https://www.saos.org.pl/judgments/98651
+522402|2025-01-24|SO|II C 1545/24|Zarządzenie|27|https://www.saos.org.pl/judgments/522402

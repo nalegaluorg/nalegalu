@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-110534|2011-01-25|TK|Ts 110/09|Postanowienie|https://www.saos.org.pl/judgments/110534
-109916|2010-06-08|TK|Ts 110/09|Postanowienie|https://www.saos.org.pl/judgments/109916
+saos_id|date|court|case_number|type|score|saos_url
+110534|2011-01-25|TK|Ts 110/09|Postanowienie|80|https://www.saos.org.pl/judgments/110534
+109916|2010-06-08|TK|Ts 110/09|Postanowienie|80|https://www.saos.org.pl/judgments/109916

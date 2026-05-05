@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-505958|2023-06-16|SO|III Ca 1914/22|Uzasadnienie|https://www.saos.org.pl/judgments/505958
-446872|2021-06-16|SO|II Ca 552/18|Postanowienie|https://www.saos.org.pl/judgments/446872
+saos_id|date|court|case_number|type|score|saos_url
+446872|2021-06-16|SO|II Ca 552/18|Postanowienie|31|https://www.saos.org.pl/judgments/446872
+505958|2023-06-16|SO|III Ca 1914/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/505958

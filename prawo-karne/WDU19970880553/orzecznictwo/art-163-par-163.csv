@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-501321|2023-06-28|SO|II AKa 92/23|Uzasadnienie|https://www.saos.org.pl/judgments/501321
-445900|2017-09-21|SO|II AKa 506/16|Wyrok|https://www.saos.org.pl/judgments/445900
+saos_id|date|court|case_number|type|score|saos_url
+445900|2017-09-21|SO|II AKa 506/16|Wyrok|56|https://www.saos.org.pl/judgments/445900
+501321|2023-06-28|SO|II AKa 92/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/501321

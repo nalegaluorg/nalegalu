@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-92475|2010-06-18|SN|V CSK 422/09|Wyrok|https://www.saos.org.pl/judgments/92475
+saos_id|date|court|case_number|type|score|saos_url
+92475|2010-06-18|SN|V CSK 422/09|Wyrok|78|https://www.saos.org.pl/judgments/92475

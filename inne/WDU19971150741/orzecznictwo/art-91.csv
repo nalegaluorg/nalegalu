@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-348555|2018-03-23|SO|III Ca 1717/17|Uzasadnienie|https://www.saos.org.pl/judgments/348555
-263776|2016-11-24|SO|I ACa 745/16|Wyrok|https://www.saos.org.pl/judgments/263776
-219620|2016-04-14|SO|II C 594/15|Wyrok|https://www.saos.org.pl/judgments/219620
-146300|2014-05-16|SO|I C 1280/12|Wyrok|https://www.saos.org.pl/judgments/146300
-2631|2012-10-24|SO|I ACa 227/12|Wyrok|https://www.saos.org.pl/judgments/2631
+saos_id|date|court|case_number|type|score|saos_url
+263776|2016-11-24|SO|I ACa 745/16|Wyrok|56|https://www.saos.org.pl/judgments/263776
+2631|2012-10-24|SO|I ACa 227/12|Wyrok|56|https://www.saos.org.pl/judgments/2631
+219620|2016-04-14|SO|II C 594/15|Wyrok|40|https://www.saos.org.pl/judgments/219620
+348555|2018-03-23|SO|III Ca 1717/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348555

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-465463|2022-01-12|SO|II AKa 33/21|Wyrok|https://www.saos.org.pl/judgments/465463
-75336|2014-11-19|SO|III K 36/14|Wyrok|https://www.saos.org.pl/judgments/75336
-103749|2013-12-04|SN|II KK 237/13|Postanowienie|https://www.saos.org.pl/judgments/103749
+saos_id|date|court|case_number|type|score|saos_url
+103749|2013-12-04|SN|II KK 237/13|Postanowienie|69|https://www.saos.org.pl/judgments/103749
+465463|2022-01-12|SO|II AKa 33/21|Wyrok|56|https://www.saos.org.pl/judgments/465463

@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-510334|2024-02-21|SO|V P 258/23|Wyrok|https://www.saos.org.pl/judgments/510334
-215027|2016-02-29|SO|XII C 681/15|Wyrok|https://www.saos.org.pl/judgments/215027
-195799|2015-11-09|SO|I ACa 288/15|Wyrok|https://www.saos.org.pl/judgments/195799
-60011|2014-07-31|SO|III APa 4/14|Wyrok|https://www.saos.org.pl/judgments/60011
-68059|2014-04-10|SO|VIII Pa 198/13|Wyrok|https://www.saos.org.pl/judgments/68059
-391357|2013-10-30|SO|I ACa 876/13|Wyrok|https://www.saos.org.pl/judgments/391357
-137607|2013-01-30|SO|I Ca 3/13|Wyrok|https://www.saos.org.pl/judgments/137607
-165435|2010-11-03|SN|III UK 56/10|Postanowienie|https://www.saos.org.pl/judgments/165435
+saos_id|date|court|case_number|type|score|saos_url
+165435|2010-11-03|SN|III UK 56/10|Postanowienie|69|https://www.saos.org.pl/judgments/165435
+195799|2015-11-09|SO|I ACa 288/15|Wyrok|56|https://www.saos.org.pl/judgments/195799
+60011|2014-07-31|SO|III APa 4/14|Wyrok|56|https://www.saos.org.pl/judgments/60011
+391357|2013-10-30|SO|I ACa 876/13|Wyrok|56|https://www.saos.org.pl/judgments/391357
+215027|2016-02-29|SO|XII C 681/15|Wyrok|40|https://www.saos.org.pl/judgments/215027
+137607|2013-01-30|SO|I Ca 3/13|Wyrok|40|https://www.saos.org.pl/judgments/137607

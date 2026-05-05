@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-163820|2005-12-08|SN|II CK 305/05|Wyrok|https://www.saos.org.pl/judgments/163820
-163376|2005-06-29|SN|III CK 679/04|Wyrok|https://www.saos.org.pl/judgments/163376
-79104|1999-06-16|SN|I PKN 125/99|Wyrok|https://www.saos.org.pl/judgments/79104
+saos_id|date|court|case_number|type|score|saos_url
+163820|2005-12-08|SN|II CK 305/05|Wyrok|78|https://www.saos.org.pl/judgments/163820
+163376|2005-06-29|SN|III CK 679/04|Wyrok|78|https://www.saos.org.pl/judgments/163376
+79104|1999-06-16|SN|I PKN 125/99|Wyrok|78|https://www.saos.org.pl/judgments/79104

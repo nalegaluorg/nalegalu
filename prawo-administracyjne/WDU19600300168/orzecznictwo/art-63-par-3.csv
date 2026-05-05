@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-533216|2025-06-17|SO|XVII AmE 100/24|Wyrok|https://www.saos.org.pl/judgments/533216
-515315|2022-07-20|SO|XVII Amz 11/22|Postanowienie|https://www.saos.org.pl/judgments/515315
-284684|2017-03-24|SO|IV U 1501/16|Wyrok|https://www.saos.org.pl/judgments/284684
-278445|2017-03-10|SO|IV U 987/16|Wyrok|https://www.saos.org.pl/judgments/278445
-248349|2016-08-31|SO|III AUz 208/16|Postanowienie|https://www.saos.org.pl/judgments/248349
-255176|2016-04-15|SO|III AUa 647/15|Wyrok|https://www.saos.org.pl/judgments/255176
-191149|2015-11-24|SO|III AUz 306/15|Postanowienie|https://www.saos.org.pl/judgments/191149
-191148|2015-11-24|SO|III AUz 305/15|Postanowienie|https://www.saos.org.pl/judgments/191148
-190788|2015-11-24|SO|III AUz 307/15|Postanowienie|https://www.saos.org.pl/judgments/190788
-189997|2015-11-24|SO|III AUz 308/15|Postanowienie|https://www.saos.org.pl/judgments/189997
-189587|2014-11-20|SO|XVII AmK 19/13|Wyrok|https://www.saos.org.pl/judgments/189587
-42951|2013-04-26|SO|IV U 1251/10|Postanowienie|https://www.saos.org.pl/judgments/42951
-121150|2012-10-15|KIO|KIO 2090/12|Wyrok|https://www.saos.org.pl/judgments/121150
-79350|1999-11-04|SN|III RN 96/99|Wyrok|https://www.saos.org.pl/judgments/79350
+saos_id|date|court|case_number|type|score|saos_url
+79350|1999-11-04|SN|III RN 96/99|Wyrok|78|https://www.saos.org.pl/judgments/79350
+255176|2016-04-15|SO|III AUa 647/15|Wyrok|56|https://www.saos.org.pl/judgments/255176
+248349|2016-08-31|SO|III AUz 208/16|Postanowienie|47|https://www.saos.org.pl/judgments/248349
+191149|2015-11-24|SO|III AUz 306/15|Postanowienie|47|https://www.saos.org.pl/judgments/191149
+191148|2015-11-24|SO|III AUz 305/15|Postanowienie|47|https://www.saos.org.pl/judgments/191148
+190788|2015-11-24|SO|III AUz 307/15|Postanowienie|47|https://www.saos.org.pl/judgments/190788
+189997|2015-11-24|SO|III AUz 308/15|Postanowienie|47|https://www.saos.org.pl/judgments/189997
+121150|2012-10-15|KIO|KIO 2090/12|Wyrok|44|https://www.saos.org.pl/judgments/121150
+284684|2017-03-24|SO|IV U 1501/16|Wyrok|40|https://www.saos.org.pl/judgments/284684
+278445|2017-03-10|SO|IV U 987/16|Wyrok|40|https://www.saos.org.pl/judgments/278445
+42951|2013-04-26|SO|IV U 1251/10|Postanowienie|31|https://www.saos.org.pl/judgments/42951

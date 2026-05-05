@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-447416|2021-06-07|SO|I ACa 633/19|Wyrok|https://www.saos.org.pl/judgments/447416
-428089|2020-11-26|SO|VIII U 638/20|Wyrok|https://www.saos.org.pl/judgments/428089
-366801|2018-11-28|SO|III Ca 1771/17|Uzasadnienie|https://www.saos.org.pl/judgments/366801
-367308|2018-10-25|SO|I ACa 157/18|Wyrok|https://www.saos.org.pl/judgments/367308
-534814|2018-04-12|SO|I ACo 110/17|Postanowienie|https://www.saos.org.pl/judgments/534814
-338938|2018-01-15|SO|III Ca 1555/17|Wyrok|https://www.saos.org.pl/judgments/338938
-318340|2017-11-29|SO|I C 94/17|Wyrok|https://www.saos.org.pl/judgments/318340
-314914|2017-10-27|SO|VI GC 250/17|Wyrok|https://www.saos.org.pl/judgments/314914
-303484|2017-06-27|SO|III Ca 469/17|Wyrok|https://www.saos.org.pl/judgments/303484
-281698|2017-02-24|SO|III Ca 1535/16|Uzasadnienie|https://www.saos.org.pl/judgments/281698
-260231|2016-11-30|SO|IX Ga 451/16|Wyrok|https://www.saos.org.pl/judgments/260231
-256763|2016-10-07|SO|I ACa 748/16|Wyrok|https://www.saos.org.pl/judgments/256763
-257281|2016-05-23|SO|II Ca 303/16|Wyrok|https://www.saos.org.pl/judgments/257281
-238755|2016-04-07|SO|I ACa 2222/15|Postanowienie|https://www.saos.org.pl/judgments/238755
-196114|2015-10-20|SO|II Ca 439/15|Wyrok|https://www.saos.org.pl/judgments/196114
+saos_id|date|court|case_number|type|score|saos_url
+447416|2021-06-07|SO|I ACa 633/19|Wyrok|56|https://www.saos.org.pl/judgments/447416
+367308|2018-10-25|SO|I ACa 157/18|Wyrok|56|https://www.saos.org.pl/judgments/367308
+256763|2016-10-07|SO|I ACa 748/16|Wyrok|56|https://www.saos.org.pl/judgments/256763
+534814|2018-04-12|SO|I ACo 110/17|Postanowienie|47|https://www.saos.org.pl/judgments/534814
+238755|2016-04-07|SO|I ACa 2222/15|Postanowienie|47|https://www.saos.org.pl/judgments/238755
+338938|2018-01-15|SO|III Ca 1555/17|Wyrok|40|https://www.saos.org.pl/judgments/338938
+314914|2017-10-27|SO|VI GC 250/17|Wyrok|40|https://www.saos.org.pl/judgments/314914
+366801|2018-11-28|SO|III Ca 1771/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/366801
+281698|2017-02-24|SO|III Ca 1535/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281698

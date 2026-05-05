@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-296039|2017-07-10|SO|VIII Ua 40/17|Uzasadnienie|https://www.saos.org.pl/judgments/296039
-221400|2016-01-26|SO|III AUa 101/15|Wyrok|https://www.saos.org.pl/judgments/221400
-94421|2011-03-09|SN|III UK 86/10|Wyrok|https://www.saos.org.pl/judgments/94421
-108605|2008-12-15|TK|P 57/07|Wyrok|https://www.saos.org.pl/judgments/108605
-107215|2005-03-07|TK|P 8/03|Wyrok|https://www.saos.org.pl/judgments/107215
+saos_id|date|court|case_number|type|score|saos_url
+108605|2008-12-15|TK|P 57/07|Wyrok|98|https://www.saos.org.pl/judgments/108605
+107215|2005-03-07|TK|P 8/03|Wyrok|98|https://www.saos.org.pl/judgments/107215
+94421|2011-03-09|SN|III UK 86/10|Wyrok|78|https://www.saos.org.pl/judgments/94421
+221400|2016-01-26|SO|III AUa 101/15|Wyrok|56|https://www.saos.org.pl/judgments/221400
+296039|2017-07-10|SO|VIII Ua 40/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/296039

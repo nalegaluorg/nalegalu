@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-74031|2014-11-06|SO|IV Ka 840/14|Wyrok|https://www.saos.org.pl/judgments/74031
+saos_id|date|court|case_number|type|score|saos_url
+74031|2014-11-06|SO|IV Ka 840/14|Wyrok|40|https://www.saos.org.pl/judgments/74031

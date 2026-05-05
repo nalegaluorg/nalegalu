@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-332586|2017-11-24|SO|I ACa 955/17|Wyrok|https://www.saos.org.pl/judgments/332586
-273573|2017-01-11|SO|I ACa 853/16|Wyrok|https://www.saos.org.pl/judgments/273573
-227047|2016-05-20|SO|I ACa 62/16|Wyrok|https://www.saos.org.pl/judgments/227047
-357282|2016-04-18|SO|XVI GC 889/15|Wyrok|https://www.saos.org.pl/judgments/357282
-109092|2009-06-02|TK|SK 31/08|Wyrok|https://www.saos.org.pl/judgments/109092
-82508|2004-02-17|SN|III CZP 116/03|Uchwała|https://www.saos.org.pl/judgments/82508
+saos_id|date|court|case_number|type|score|saos_url
+109092|2009-06-02|TK|SK 31/08|Wyrok|98|https://www.saos.org.pl/judgments/109092
+82508|2004-02-17|SN|III CZP 116/03|Uchwała|89|https://www.saos.org.pl/judgments/82508
+332586|2017-11-24|SO|I ACa 955/17|Wyrok|56|https://www.saos.org.pl/judgments/332586
+273573|2017-01-11|SO|I ACa 853/16|Wyrok|56|https://www.saos.org.pl/judgments/273573
+227047|2016-05-20|SO|I ACa 62/16|Wyrok|56|https://www.saos.org.pl/judgments/227047

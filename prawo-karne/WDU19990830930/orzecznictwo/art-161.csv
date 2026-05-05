@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-511135|2023-12-19|SO|VI Ka 410/23|Wyrok|https://www.saos.org.pl/judgments/511135
-384158|2018-09-21|SO|II AKa 302/18|Wyrok|https://www.saos.org.pl/judgments/384158
-328399|2018-01-18|SO|VI Ka 529/17|Wyrok|https://www.saos.org.pl/judgments/328399
-61112|2014-08-13|SO|VII K 86/14|Wyrok|https://www.saos.org.pl/judgments/61112
-166030|2014-06-10|SN|III KK 144/14|Wyrok|https://www.saos.org.pl/judgments/166030
+saos_id|date|court|case_number|type|score|saos_url
+166030|2014-06-10|SN|III KK 144/14|Wyrok|78|https://www.saos.org.pl/judgments/166030
+384158|2018-09-21|SO|II AKa 302/18|Wyrok|56|https://www.saos.org.pl/judgments/384158
+511135|2023-12-19|SO|VI Ka 410/23|Wyrok|40|https://www.saos.org.pl/judgments/511135
+328399|2018-01-18|SO|VI Ka 529/17|Wyrok|40|https://www.saos.org.pl/judgments/328399

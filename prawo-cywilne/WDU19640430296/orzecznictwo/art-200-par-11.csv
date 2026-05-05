@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-538030|2025-10-16|SO|XXVI GC 1144/24|Wyrok|https://www.saos.org.pl/judgments/538030
-476976|2022-10-27|SO|VIII GNc 306/22|Uzasadnienie|https://www.saos.org.pl/judgments/476976
-452703|2021-10-13|SO|III AUa 61/21|Wyrok|https://www.saos.org.pl/judgments/452703
+saos_id|date|court|case_number|type|score|saos_url
+452703|2021-10-13|SO|III AUa 61/21|Wyrok|56|https://www.saos.org.pl/judgments/452703

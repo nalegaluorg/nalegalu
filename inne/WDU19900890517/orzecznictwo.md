@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 1990 r. o zniesieniu i likwidacji niektórych funduszy.*
 
-Łącznie: **2** orzeczeń
+Łącznie: **1** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 3 (1)
 
@@ -24,8 +25,7 @@ Orzeczenia powołujące: *Ustawa z dnia 14 grudnia 1990 r. o zniesieniu i likwid
 
 - 2016-05-25 | SN | [II PZ 7/16](https://www.saos.org.pl/judgments/245311) | Postanowienie
 
-## art. 13 (2)
+## art. 13 (1)
 
-- 2016-09-20 | SO | [I C 115/15](https://www.saos.org.pl/judgments/287478) | Wyrok
 - 2016-05-25 | SN | [II PZ 7/16](https://www.saos.org.pl/judgments/245311) | Postanowienie
 

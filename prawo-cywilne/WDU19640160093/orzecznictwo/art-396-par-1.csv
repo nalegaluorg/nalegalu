@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-523917|2024-10-03|SO|II Ca 1826/23|Wyrok|https://www.saos.org.pl/judgments/523917
-219124|2016-03-09|SO|I ACa 693/15|Wyrok|https://www.saos.org.pl/judgments/219124
-205331|2015-09-02|SO|VII C 531/15|Wyrok|https://www.saos.org.pl/judgments/205331
-37987|2014-02-03|SO|VIII Ga 434/13|Wyrok|https://www.saos.org.pl/judgments/37987
+saos_id|date|court|case_number|type|score|saos_url
+219124|2016-03-09|SO|I ACa 693/15|Wyrok|56|https://www.saos.org.pl/judgments/219124
+523917|2024-10-03|SO|II Ca 1826/23|Wyrok|40|https://www.saos.org.pl/judgments/523917
+205331|2015-09-02|SO|VII C 531/15|Wyrok|40|https://www.saos.org.pl/judgments/205331

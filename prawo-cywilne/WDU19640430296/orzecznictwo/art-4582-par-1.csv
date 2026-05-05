@@ -1,4 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-468554|2021-06-22|SO|XV GC 2345/20|Zarządzenie|https://www.saos.org.pl/judgments/468554
-453576|2021-06-14|SO|XV GC 2024/20|Zarządzenie|https://www.saos.org.pl/judgments/453576
-445263|2021-05-31|SO|XV GC 1382/20|Zarządzenie|https://www.saos.org.pl/judgments/445263
+saos_id|date|court|case_number|type|score|saos_url
+495060|2023-11-23|SO|I AGa 336/22|Wyrok|56|https://www.saos.org.pl/judgments/495060
+495088|2022-12-15|SO|I AGa 414/21|Wyrok|56|https://www.saos.org.pl/judgments/495088
+477855|2022-09-29|SO|I AGa 334/21|Wyrok|56|https://www.saos.org.pl/judgments/477855
+477667|2022-05-20|SO|II Ca 1396/21|Wyrok|40|https://www.saos.org.pl/judgments/477667
+498433|2022-05-16|SO|I C 506/22|Wyrok|40|https://www.saos.org.pl/judgments/498433
+456180|2021-12-22|SO|VII P 26/18|Wyrok|40|https://www.saos.org.pl/judgments/456180
+450446|2020-12-03|SO|VIII C 995/20|Postanowienie|31|https://www.saos.org.pl/judgments/450446
+414316|2020-01-13|SO|II Cz 3162/19|Postanowienie|31|https://www.saos.org.pl/judgments/414316
+534865|2025-09-16|SO|XIII Ga 1090/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/534865

@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-258817|2016-06-15|SO|II AKa 152/16|Wyrok|https://www.saos.org.pl/judgments/258817
-535659|2015-04-23|SO|I ACa 1339/14|Wyrok|https://www.saos.org.pl/judgments/535659
-68508|2014-06-30|SO|XVI K 19/13|Wyrok|https://www.saos.org.pl/judgments/68508
-20945|2013-07-12|SO|VI ACa 1650/12|Wyrok|https://www.saos.org.pl/judgments/20945
-11359|2013-02-14|SO|I ACa 727/12|Wyrok|https://www.saos.org.pl/judgments/11359
-110986|2012-10-23|TK|SK 11/12|Wyrok|https://www.saos.org.pl/judgments/110986
-85122|2007-02-02|SN|IV CSK 376/06|Wyrok|https://www.saos.org.pl/judgments/85122
-84979|2007-01-12|SN|IV CSK 318/06|Wyrok|https://www.saos.org.pl/judgments/84979
-163616|2005-10-13|SN|IV CK 174/05|Wyrok|https://www.saos.org.pl/judgments/163616
-81135|2002-01-17|SN|III CZP 79/01|Uchwała|https://www.saos.org.pl/judgments/81135
+saos_id|date|court|case_number|type|score|saos_url
+110986|2012-10-23|TK|SK 11/12|Wyrok|98|https://www.saos.org.pl/judgments/110986
+81135|2002-01-17|SN|III CZP 79/01|Uchwała|89|https://www.saos.org.pl/judgments/81135
+85122|2007-02-02|SN|IV CSK 376/06|Wyrok|78|https://www.saos.org.pl/judgments/85122
+84979|2007-01-12|SN|IV CSK 318/06|Wyrok|78|https://www.saos.org.pl/judgments/84979
+163616|2005-10-13|SN|IV CK 174/05|Wyrok|78|https://www.saos.org.pl/judgments/163616
+258817|2016-06-15|SO|II AKa 152/16|Wyrok|56|https://www.saos.org.pl/judgments/258817
+535659|2015-04-23|SO|I ACa 1339/14|Wyrok|56|https://www.saos.org.pl/judgments/535659
+20945|2013-07-12|SO|VI ACa 1650/12|Wyrok|56|https://www.saos.org.pl/judgments/20945
+11359|2013-02-14|SO|I ACa 727/12|Wyrok|56|https://www.saos.org.pl/judgments/11359
+68508|2014-06-30|SO|XVI K 19/13|Wyrok|40|https://www.saos.org.pl/judgments/68508

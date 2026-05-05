@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-329021|2017-06-20|SO|VII Pa 53/17|Wyrok|https://www.saos.org.pl/judgments/329021
-244598|2016-02-09|SN|II PK 330/14|Wyrok|https://www.saos.org.pl/judgments/244598
-196582|2015-12-16|SO|VII Pa 130/15|Wyrok|https://www.saos.org.pl/judgments/196582
-70083|2014-10-27|SO|III Pa 30/14|Wyrok|https://www.saos.org.pl/judgments/70083
-60314|2014-06-23|SO|VII Pa 46/14|Wyrok|https://www.saos.org.pl/judgments/60314
-99604|2012-11-14|SN|I PK 117/12|Wyrok|https://www.saos.org.pl/judgments/99604
-83630|2005-07-19|SN|II PK 372/04|Wyrok|https://www.saos.org.pl/judgments/83630
-107282|2005-06-28|TK|SK 56/04|Wyrok|https://www.saos.org.pl/judgments/107282
-78682|1998-11-17|SN|I PKN 331/98|Wyrok|https://www.saos.org.pl/judgments/78682
-78498|1998-09-02|SN|I PKN 271/98|Wyrok|https://www.saos.org.pl/judgments/78498
-78495|1998-08-25|SN|I PKN 268/98|Wyrok|https://www.saos.org.pl/judgments/78495
-77943|1997-11-27|SN|I PKN 399/97|Wyrok|https://www.saos.org.pl/judgments/77943
-76630|1994-09-20|SN|I PRN 58/94|Wyrok|https://www.saos.org.pl/judgments/76630
+saos_id|date|court|case_number|type|score|saos_url
+107282|2005-06-28|TK|SK 56/04|Wyrok|98|https://www.saos.org.pl/judgments/107282
+244598|2016-02-09|SN|II PK 330/14|Wyrok|78|https://www.saos.org.pl/judgments/244598
+99604|2012-11-14|SN|I PK 117/12|Wyrok|78|https://www.saos.org.pl/judgments/99604
+83630|2005-07-19|SN|II PK 372/04|Wyrok|78|https://www.saos.org.pl/judgments/83630
+78682|1998-11-17|SN|I PKN 331/98|Wyrok|78|https://www.saos.org.pl/judgments/78682
+78498|1998-09-02|SN|I PKN 271/98|Wyrok|78|https://www.saos.org.pl/judgments/78498
+78495|1998-08-25|SN|I PKN 268/98|Wyrok|78|https://www.saos.org.pl/judgments/78495
+77943|1997-11-27|SN|I PKN 399/97|Wyrok|78|https://www.saos.org.pl/judgments/77943
+76630|1994-09-20|SN|I PRN 58/94|Wyrok|78|https://www.saos.org.pl/judgments/76630
+329021|2017-06-20|SO|VII Pa 53/17|Wyrok|40|https://www.saos.org.pl/judgments/329021
+196582|2015-12-16|SO|VII Pa 130/15|Wyrok|40|https://www.saos.org.pl/judgments/196582

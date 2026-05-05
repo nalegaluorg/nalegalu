@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-478054|2022-06-24|SO|I C 632/18|Uzasadnienie|https://www.saos.org.pl/judgments/478054
-466105|2022-03-10|SO|III Ca 317/21|Wyrok|https://www.saos.org.pl/judgments/466105
-285093|2017-03-02|SO|I ACa 917/16|Wyrok|https://www.saos.org.pl/judgments/285093
-71406|2014-11-18|SO|I C 1691/14|Wyrok|https://www.saos.org.pl/judgments/71406
-8379|2012-12-05|SO|V ACa 920/12|Wyrok|https://www.saos.org.pl/judgments/8379
+saos_id|date|court|case_number|type|score|saos_url
+285093|2017-03-02|SO|I ACa 917/16|Wyrok|56|https://www.saos.org.pl/judgments/285093
+8379|2012-12-05|SO|V ACa 920/12|Wyrok|56|https://www.saos.org.pl/judgments/8379

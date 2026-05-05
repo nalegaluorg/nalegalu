@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-535508|2022-02-28|SO|XVII AmE 105/20|Wyrok|https://www.saos.org.pl/judgments/535508
-279002|2017-01-11|SO|III AUa 1433/16|Wyrok|https://www.saos.org.pl/judgments/279002
-226871|2016-04-25|SO|VII U 1680/15|Wyrok|https://www.saos.org.pl/judgments/226871
+saos_id|date|court|case_number|type|score|saos_url
+279002|2017-01-11|SO|III AUa 1433/16|Wyrok|56|https://www.saos.org.pl/judgments/279002

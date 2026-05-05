@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-440647|2020-11-17|SO|II W 430/20|Wyrok|https://www.saos.org.pl/judgments/440647
-314040|2017-10-19|SO|XVII Ka 1116/17|Wyrok|https://www.saos.org.pl/judgments/314040
-22568|2013-07-01|SO|VII W 9/13|Wyrok|https://www.saos.org.pl/judgments/22568
+saos_id|date|court|case_number|type|score|saos_url
+314040|2017-10-19|SO|XVII Ka 1116/17|Wyrok|40|https://www.saos.org.pl/judgments/314040

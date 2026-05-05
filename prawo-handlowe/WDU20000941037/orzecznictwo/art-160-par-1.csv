@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-399627|2019-11-08|SO|XXIV C 1117/18|Wyrok|https://www.saos.org.pl/judgments/399627
-378902|2019-02-19|SO|III Ca 2057/18|Uzasadnienie|https://www.saos.org.pl/judgments/378902
-311099|2017-10-11|SO|VII Ca 583/17|Wyrok|https://www.saos.org.pl/judgments/311099
-291334|2017-06-28|SO|VIII Gz 173/17|Postanowienie|https://www.saos.org.pl/judgments/291334
-251647|2016-10-21|SO|XIII Ga 280/16|Uzasadnienie|https://www.saos.org.pl/judgments/251647
-458376|2016-08-08|SO|XII Ga 312/16|Uzasadnienie|https://www.saos.org.pl/judgments/458376
-239513|2016-06-03|SO|VIII Ga 110/16|Postanowienie|https://www.saos.org.pl/judgments/239513
-210600|2016-02-11|SO|VIII Gz 166/15|Postanowienie|https://www.saos.org.pl/judgments/210600
-52297|2014-04-25|SO|X Ga 68/14|Postanowienie|https://www.saos.org.pl/judgments/52297
-42055|2013-01-23|SO|V Ca 1889/12|Wyrok|https://www.saos.org.pl/judgments/42055
-98054|2012-05-09|SN|V CSK 258/11|Wyrok|https://www.saos.org.pl/judgments/98054
+saos_id|date|court|case_number|type|score|saos_url
+98054|2012-05-09|SN|V CSK 258/11|Wyrok|78|https://www.saos.org.pl/judgments/98054
+311099|2017-10-11|SO|VII Ca 583/17|Wyrok|40|https://www.saos.org.pl/judgments/311099
+378902|2019-02-19|SO|III Ca 2057/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/378902
+251647|2016-10-21|SO|XIII Ga 280/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/251647

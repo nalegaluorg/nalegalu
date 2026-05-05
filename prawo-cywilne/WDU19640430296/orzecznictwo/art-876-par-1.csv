@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-463242|2019-03-12|SO|II C 540/17|Wyrok|https://www.saos.org.pl/judgments/463242
-323824|2017-10-19|SO|III Ca 1332/17|Uzasadnienie|https://www.saos.org.pl/judgments/323824
-313116|2017-10-10|SO|I C 505/17|Wyrok|https://www.saos.org.pl/judgments/313116
-241651|2016-07-18|SO|III Ca 366/16|Uzasadnienie|https://www.saos.org.pl/judgments/241651
-245527|2015-05-28|SN|III CSK 290/14|Wyrok|https://www.saos.org.pl/judgments/245527
-156408|2014-12-02|SO|III Ca 1170/14|Wyrok|https://www.saos.org.pl/judgments/156408
+saos_id|date|court|case_number|type|score|saos_url
+245527|2015-05-28|SN|III CSK 290/14|Wyrok|78|https://www.saos.org.pl/judgments/245527
+323824|2017-10-19|SO|III Ca 1332/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/323824
+241651|2016-07-18|SO|III Ca 366/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/241651

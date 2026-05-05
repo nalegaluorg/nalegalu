@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-88977|2008-10-23|SN|V CSK 131/08|Wyrok|https://www.saos.org.pl/judgments/88977
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+88977|2008-10-23|SN|V CSK 131/08|Wyrok|78|https://www.saos.org.pl/judgments/88977

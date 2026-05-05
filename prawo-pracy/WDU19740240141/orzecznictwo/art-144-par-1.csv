@@ -1,16 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-320607|2017-11-27|SO|II W 383/17|Wyrok|https://www.saos.org.pl/judgments/320607
-277842|2016-10-04|SO|IV P 85/16|Wyrok|https://www.saos.org.pl/judgments/277842
-84006|2006-01-11|SN|II PK 113/05|Wyrok|https://www.saos.org.pl/judgments/84006
-80774|2001-08-07|SN|I PKN 730/00|Wyrok|https://www.saos.org.pl/judgments/80774
-80051|2000-11-16|SN|I PKN 455/00|Wyrok|https://www.saos.org.pl/judgments/80051
-205953|1999-05-17|TK|P 6/98|Wyrok|https://www.saos.org.pl/judgments/205953
-205918|1998-05-12|TK|U 17/97|Wyrok|https://www.saos.org.pl/judgments/205918
-205775|1997-11-26|TK|U 6/96|Wyrok|https://www.saos.org.pl/judgments/205775
-77454|1997-02-13|SN|I PKN 5/97|Wyrok|https://www.saos.org.pl/judgments/77454
-77154|1996-05-16|SN|I PZP 5/96|Uchwała|https://www.saos.org.pl/judgments/77154
-77039|1996-01-16|SN|I PRN 100/95|Wyrok|https://www.saos.org.pl/judgments/77039
-76933|1995-09-21|SN|I PZP 19/95|Uchwała|https://www.saos.org.pl/judgments/76933
-76854|1995-06-02|SN|I PR 1/95|Wyrok|https://www.saos.org.pl/judgments/76854
-76793|1995-03-08|SN|I PZP 6/95|Uchwała|https://www.saos.org.pl/judgments/76793
-76517|1994-04-28|SN|I PZP 6/94|Uchwała|https://www.saos.org.pl/judgments/76517
+saos_id|date|court|case_number|type|score|saos_url
+205953|1999-05-17|TK|P 6/98|Wyrok|98|https://www.saos.org.pl/judgments/205953
+205918|1998-05-12|TK|U 17/97|Wyrok|98|https://www.saos.org.pl/judgments/205918
+205775|1997-11-26|TK|U 6/96|Wyrok|98|https://www.saos.org.pl/judgments/205775
+77154|1996-05-16|SN|I PZP 5/96|Uchwała|96|https://www.saos.org.pl/judgments/77154
+76517|1994-04-28|SN|I PZP 6/94|Uchwała|96|https://www.saos.org.pl/judgments/76517
+76933|1995-09-21|SN|I PZP 19/95|Uchwała|89|https://www.saos.org.pl/judgments/76933
+76793|1995-03-08|SN|I PZP 6/95|Uchwała|89|https://www.saos.org.pl/judgments/76793
+84006|2006-01-11|SN|II PK 113/05|Wyrok|78|https://www.saos.org.pl/judgments/84006
+80774|2001-08-07|SN|I PKN 730/00|Wyrok|78|https://www.saos.org.pl/judgments/80774
+80051|2000-11-16|SN|I PKN 455/00|Wyrok|78|https://www.saos.org.pl/judgments/80051
+77454|1997-02-13|SN|I PKN 5/97|Wyrok|78|https://www.saos.org.pl/judgments/77454
+77039|1996-01-16|SN|I PRN 100/95|Wyrok|78|https://www.saos.org.pl/judgments/77039
+76854|1995-06-02|SN|I PR 1/95|Wyrok|78|https://www.saos.org.pl/judgments/76854

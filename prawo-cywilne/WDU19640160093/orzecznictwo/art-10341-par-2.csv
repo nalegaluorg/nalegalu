@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-337358|2018-04-11|SO|III AUa 866/17|Wyrok|https://www.saos.org.pl/judgments/337358
-307152|2017-07-03|SO|X Ns 1762/16|Uzasadnienie|https://www.saos.org.pl/judgments/307152
+saos_id|date|court|case_number|type|score|saos_url
+337358|2018-04-11|SO|III AUa 866/17|Wyrok|56|https://www.saos.org.pl/judgments/337358

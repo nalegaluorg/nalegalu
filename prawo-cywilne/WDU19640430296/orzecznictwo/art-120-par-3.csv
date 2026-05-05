@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-291907|2017-06-07|SO|I ACa 21/17|Wyrok|https://www.saos.org.pl/judgments/291907
-257841|2016-11-25|SO|VIII Gz 252/16|Postanowienie|https://www.saos.org.pl/judgments/257841
-151683|2015-04-24|SO|I Ns 406/14|Postanowienie|https://www.saos.org.pl/judgments/151683
-39675|2014-01-21|SO|II Cz 2038/13|Postanowienie|https://www.saos.org.pl/judgments/39675
-111660|2013-10-22|TK|SK 14/13|Wyrok|https://www.saos.org.pl/judgments/111660
-82694|2004-05-20|SN|SNO 16/04|Wyrok|https://www.saos.org.pl/judgments/82694
-82088|2003-06-23|SN|SNO 41/03|Uchwała|https://www.saos.org.pl/judgments/82088
+saos_id|date|court|case_number|type|score|saos_url
+111660|2013-10-22|TK|SK 14/13|Wyrok|98|https://www.saos.org.pl/judgments/111660
+82088|2003-06-23|SN|SNO 41/03|Uchwała|89|https://www.saos.org.pl/judgments/82088
+82694|2004-05-20|SN|SNO 16/04|Wyrok|78|https://www.saos.org.pl/judgments/82694
+291907|2017-06-07|SO|I ACa 21/17|Wyrok|56|https://www.saos.org.pl/judgments/291907
+39675|2014-01-21|SO|II Cz 2038/13|Postanowienie|31|https://www.saos.org.pl/judgments/39675

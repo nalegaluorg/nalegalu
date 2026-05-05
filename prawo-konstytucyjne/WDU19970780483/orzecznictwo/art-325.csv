@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-471181|2022-05-19|SO|VII U 222/22|Wyrok|https://www.saos.org.pl/judgments/471181
-341547|2018-04-24|SO|I C 884/17|Wyrok|https://www.saos.org.pl/judgments/341547
+saos_id|date|court|case_number|type|score|saos_url
+471181|2022-05-19|SO|VII U 222/22|Wyrok|40|https://www.saos.org.pl/judgments/471181

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-496342|2022-06-22|SO|I C 172/22|Wyrok|https://www.saos.org.pl/judgments/496342
-469088|2016-02-10|SO|XI GC 1052/15|Wyrok|https://www.saos.org.pl/judgments/469088
-211222|2016-02-10|SO|XI GC 1052/15|Wyrok|https://www.saos.org.pl/judgments/211222
-68982|2014-10-08|SO|I ACa 412/14|Wyrok|https://www.saos.org.pl/judgments/68982
+saos_id|date|court|case_number|type|score|saos_url
+68982|2014-10-08|SO|I ACa 412/14|Wyrok|56|https://www.saos.org.pl/judgments/68982

@@ -1,17 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-444739|2017-09-28|SO|II AKa 364/17|Wyrok|https://www.saos.org.pl/judgments/444739
-328326|2017-09-21|SO|IX Ka 406/17|Wyrok|https://www.saos.org.pl/judgments/328326
-279714|2017-03-16|SO|II K 318/16|Wyrok|https://www.saos.org.pl/judgments/279714
-492848|2016-07-14|SO|II AKa 100/16|Uzasadnienie|https://www.saos.org.pl/judgments/492848
-228159|2015-12-02|SO|VII K 206/15|Uzasadnienie|https://www.saos.org.pl/judgments/228159
-199530|2015-06-24|SO|IV Ka 401/15|Wyrok|https://www.saos.org.pl/judgments/199530
-58228|2014-07-23|SO|IV Ka 420/14|Wyrok|https://www.saos.org.pl/judgments/58228
-147622|2014-07-17|SO|II AKa 129/14|Wyrok|https://www.saos.org.pl/judgments/147622
-145889|2013-11-12|SO|II AKa 241/13|Wyrok|https://www.saos.org.pl/judgments/145889
-59226|2013-11-08|SO|IV K 402/12|Wyrok|https://www.saos.org.pl/judgments/59226
-142164|2013-07-16|SO|II AKa 58/13|Uzasadnienie|https://www.saos.org.pl/judgments/142164
-298286|2013-04-09|SO|IX Ka 167/13|Postanowienie|https://www.saos.org.pl/judgments/298286
-100721|2013-02-14|SN|II KK 141/12|Postanowienie|https://www.saos.org.pl/judgments/100721
-136366|2012-11-23|SO|II AKa 327/12|Wyrok|https://www.saos.org.pl/judgments/136366
-135673|2012-09-06|SO|II AKa 77/12|Wyrok|https://www.saos.org.pl/judgments/135673
-76354|2010-04-07|SN|V KK 273/09|Wyrok|https://www.saos.org.pl/judgments/76354
+saos_id|date|court|case_number|type|score|saos_url
+76354|2010-04-07|SN|V KK 273/09|Wyrok|78|https://www.saos.org.pl/judgments/76354
+100721|2013-02-14|SN|II KK 141/12|Postanowienie|69|https://www.saos.org.pl/judgments/100721
+444739|2017-09-28|SO|II AKa 364/17|Wyrok|56|https://www.saos.org.pl/judgments/444739
+147622|2014-07-17|SO|II AKa 129/14|Wyrok|56|https://www.saos.org.pl/judgments/147622
+145889|2013-11-12|SO|II AKa 241/13|Wyrok|56|https://www.saos.org.pl/judgments/145889
+136366|2012-11-23|SO|II AKa 327/12|Wyrok|56|https://www.saos.org.pl/judgments/136366
+135673|2012-09-06|SO|II AKa 77/12|Wyrok|56|https://www.saos.org.pl/judgments/135673
+492848|2016-07-14|SO|II AKa 100/16|Uzasadnienie|42|https://www.saos.org.pl/judgments/492848
+142164|2013-07-16|SO|II AKa 58/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/142164

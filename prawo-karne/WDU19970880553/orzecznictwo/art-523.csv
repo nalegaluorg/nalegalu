@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-368164|2018-11-28|SO|II AKa 377/17|Wyrok|https://www.saos.org.pl/judgments/368164
+saos_id|date|court|case_number|type|score|saos_url
+368164|2018-11-28|SO|II AKa 377/17|Wyrok|56|https://www.saos.org.pl/judgments/368164

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-477348|2022-06-24|SO|III AUa 62/22|Wyrok|https://www.saos.org.pl/judgments/477348
-297477|2017-06-20|SO|III AUa 783/16|Wyrok|https://www.saos.org.pl/judgments/297477
+saos_id|date|court|case_number|type|score|saos_url
+477348|2022-06-24|SO|III AUa 62/22|Wyrok|56|https://www.saos.org.pl/judgments/477348
+297477|2017-06-20|SO|III AUa 783/16|Wyrok|56|https://www.saos.org.pl/judgments/297477

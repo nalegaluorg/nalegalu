@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539018|2025-04-16|SO|I ACa 724/23|Wyrok|https://www.saos.org.pl/judgments/539018
-533428|2024-01-19|SO|I ACa 2201/22|Wyrok|https://www.saos.org.pl/judgments/533428
+saos_id|date|court|case_number|type|score|saos_url
+539018|2025-04-16|SO|I ACa 724/23|Wyrok|56|https://www.saos.org.pl/judgments/539018
+533428|2024-01-19|SO|I ACa 2201/22|Wyrok|56|https://www.saos.org.pl/judgments/533428

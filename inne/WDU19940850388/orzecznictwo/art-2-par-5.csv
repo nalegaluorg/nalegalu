@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-128172|2014-11-13|SO|I ACa 1092/14|Wyrok|https://www.saos.org.pl/judgments/128172
-147270|2014-04-14|SO|I C 2122/13|Wyrok|https://www.saos.org.pl/judgments/147270
+saos_id|date|court|case_number|type|score|saos_url
+128172|2014-11-13|SO|I ACa 1092/14|Wyrok|56|https://www.saos.org.pl/judgments/128172
+147270|2014-04-14|SO|I C 2122/13|Wyrok|40|https://www.saos.org.pl/judgments/147270

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-445604|2021-06-02|SO|IV Ka 22/21|Uzasadnienie|https://www.saos.org.pl/judgments/445604
-230882|2016-03-23|SO|III Ca 1707/15|Wyrok|https://www.saos.org.pl/judgments/230882
-93607|2010-12-03|SN|I PK 124/10|Wyrok|https://www.saos.org.pl/judgments/93607
+saos_id|date|court|case_number|type|score|saos_url
+93607|2010-12-03|SN|I PK 124/10|Wyrok|78|https://www.saos.org.pl/judgments/93607

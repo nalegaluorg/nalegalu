@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-542379|2025-08-07|SO|III Nsm 370/24|Postanowienie|https://www.saos.org.pl/judgments/542379
-414801|2020-06-17|SO|I Ca 184/20|Postanowienie|https://www.saos.org.pl/judgments/414801
-472436|2019-03-04|SO|II Ca 2225/18|Wyrok|https://www.saos.org.pl/judgments/472436
-352325|2018-03-28|SO|II C 130/17|Wyrok|https://www.saos.org.pl/judgments/352325
-313498|2017-10-26|SO|X U 333/16|Wyrok|https://www.saos.org.pl/judgments/313498
-291883|2017-06-07|SO|VIII Ua 51/17|Uzasadnienie|https://www.saos.org.pl/judgments/291883
-263451|2016-12-21|SO|VI RNs 347/16|Postanowienie|https://www.saos.org.pl/judgments/263451
-152118|2015-05-12|SO|VI RNs 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/152118
-126237|2014-12-17|SO|III Ca 580/14|Postanowienie|https://www.saos.org.pl/judgments/126237
-64729|2014-04-14|SO|I Ns 879/11|Postanowienie|https://www.saos.org.pl/judgments/64729
-49849|2014-02-04|SO|III Cz 42/14|Postanowienie|https://www.saos.org.pl/judgments/49849
+saos_id|date|court|case_number|type|score|saos_url
+472436|2019-03-04|SO|II Ca 2225/18|Wyrok|40|https://www.saos.org.pl/judgments/472436
+352325|2018-03-28|SO|II C 130/17|Wyrok|40|https://www.saos.org.pl/judgments/352325
+291883|2017-06-07|SO|VIII Ua 51/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/291883

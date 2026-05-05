@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-526859|2025-01-09|SO|III U 522/24|Wyrok|https://www.saos.org.pl/judgments/526859
-110943|2012-06-26|TK|P 13/11|Wyrok|https://www.saos.org.pl/judgments/110943
-82918|2004-10-14|SN|III CZP 37/04|Uchwała|https://www.saos.org.pl/judgments/82918
+saos_id|date|court|case_number|type|score|saos_url
+110943|2012-06-26|TK|P 13/11|Wyrok|98|https://www.saos.org.pl/judgments/110943
+82918|2004-10-14|SN|III CZP 37/04|Uchwała|96|https://www.saos.org.pl/judgments/82918

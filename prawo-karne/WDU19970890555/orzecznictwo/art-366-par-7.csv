@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-166322|2014-07-08|SN|III KK 178/14|Postanowienie|https://www.saos.org.pl/judgments/166322
-144271|2013-12-11|SO|II AKa 93/13|Wyrok|https://www.saos.org.pl/judgments/144271
+saos_id|date|court|case_number|type|score|saos_url
+166322|2014-07-08|SN|III KK 178/14|Postanowienie|69|https://www.saos.org.pl/judgments/166322
+144271|2013-12-11|SO|II AKa 93/13|Wyrok|56|https://www.saos.org.pl/judgments/144271

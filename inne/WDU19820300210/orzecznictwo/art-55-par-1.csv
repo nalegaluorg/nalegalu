@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-461102|2022-03-21|SO|VIII Pa 173/21|Uzasadnienie|https://www.saos.org.pl/judgments/461102
-472466|2022-02-28|SO|III AUa 1155/21|Wyrok|https://www.saos.org.pl/judgments/472466
-440849|2021-05-20|SO|II AKa 406/19|Wyrok|https://www.saos.org.pl/judgments/440849
-379308|2019-03-12|SO|IV P 175/18|Wyrok|https://www.saos.org.pl/judgments/379308
-373594|2019-02-18|SO|IV P 183/18|Wyrok|https://www.saos.org.pl/judgments/373594
-355601|2018-08-31|SO|IV P 98/18|Wyrok|https://www.saos.org.pl/judgments/355601
-394992|2017-12-08|SO|III Pa 27/17|Wyrok|https://www.saos.org.pl/judgments/394992
-273492|2017-01-25|SO|I ACa 2334/15|Wyrok|https://www.saos.org.pl/judgments/273492
-275820|2016-11-23|SO|I ACa 219/16|Wyrok|https://www.saos.org.pl/judgments/275820
-203653|2016-02-12|SO|VIII K 1365/15|Zarządzenie|https://www.saos.org.pl/judgments/203653
-155571|2015-02-27|SO|I ACa 909/14|Wyrok|https://www.saos.org.pl/judgments/155571
-69265|2014-10-23|SO|I ACa 411/14|Wyrok|https://www.saos.org.pl/judgments/69265
-145573|2014-04-28|SO|I C 223/12|Uzasadnienie|https://www.saos.org.pl/judgments/145573
-40601|2014-02-25|SO|VI ACa 701/13|Wyrok|https://www.saos.org.pl/judgments/40601
-26475|2013-04-11|SO|IV P 90/13|Wyrok|https://www.saos.org.pl/judgments/26475
+saos_id|date|court|case_number|type|score|saos_url
+472466|2022-02-28|SO|III AUa 1155/21|Wyrok|56|https://www.saos.org.pl/judgments/472466
+440849|2021-05-20|SO|II AKa 406/19|Wyrok|56|https://www.saos.org.pl/judgments/440849
+273492|2017-01-25|SO|I ACa 2334/15|Wyrok|56|https://www.saos.org.pl/judgments/273492
+275820|2016-11-23|SO|I ACa 219/16|Wyrok|56|https://www.saos.org.pl/judgments/275820
+155571|2015-02-27|SO|I ACa 909/14|Wyrok|56|https://www.saos.org.pl/judgments/155571
+69265|2014-10-23|SO|I ACa 411/14|Wyrok|56|https://www.saos.org.pl/judgments/69265
+40601|2014-02-25|SO|VI ACa 701/13|Wyrok|56|https://www.saos.org.pl/judgments/40601
+394992|2017-12-08|SO|III Pa 27/17|Wyrok|40|https://www.saos.org.pl/judgments/394992
+461102|2022-03-21|SO|VIII Pa 173/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/461102

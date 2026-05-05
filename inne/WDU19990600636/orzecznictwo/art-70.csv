@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-23647|2013-10-01|SO|IX Ca 467/13|Wyrok|https://www.saos.org.pl/judgments/23647
-82539|2004-03-03|SN|III CZP 2/04|Uchwała|https://www.saos.org.pl/judgments/82539
+saos_id|date|court|case_number|type|score|saos_url
+82539|2004-03-03|SN|III CZP 2/04|Uchwała|89|https://www.saos.org.pl/judgments/82539

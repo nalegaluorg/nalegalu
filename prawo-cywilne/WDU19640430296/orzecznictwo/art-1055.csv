@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-100770|2013-02-20|SN|I CZ 22/13|Postanowienie|https://www.saos.org.pl/judgments/100770
-85181|2007-02-09|SN|III CZP 156/06|Uchwała|https://www.saos.org.pl/judgments/85181
+saos_id|date|court|case_number|type|score|saos_url
+85181|2007-02-09|SN|III CZP 156/06|Uchwała|89|https://www.saos.org.pl/judgments/85181
+100770|2013-02-20|SN|I CZ 22/13|Postanowienie|69|https://www.saos.org.pl/judgments/100770

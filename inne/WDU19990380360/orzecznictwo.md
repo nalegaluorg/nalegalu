@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 9 kwietnia 1999 r. o zmianie ustawy o In
 
 ## art. 1 (2)
 
-- 2014-01-23 | SO | [IV Ka 1293/12](https://www.saos.org.pl/judgments/35559) | Wyrok
 - 2006-11-22 | SN | [V CZ 95/06](https://www.saos.org.pl/judgments/164702) | Postanowienie
+- 2014-01-23 | SO | [IV Ka 1293/12](https://www.saos.org.pl/judgments/35559) | Wyrok
 
 ## art. 2 (1)
 

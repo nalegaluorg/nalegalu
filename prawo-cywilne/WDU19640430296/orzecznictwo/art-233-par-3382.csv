@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79052|1999-05-27|SN|I PKN 73/99|Wyrok|https://www.saos.org.pl/judgments/79052
+saos_id|date|court|case_number|type|score|saos_url
+79052|1999-05-27|SN|I PKN 73/99|Wyrok|78|https://www.saos.org.pl/judgments/79052

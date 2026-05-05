@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-420856|2018-11-14|SO|III AUa 2245/17|Wyrok|https://www.saos.org.pl/judgments/420856
-103235|2013-10-24|SN|IV CSK 21/13|Postanowienie|https://www.saos.org.pl/judgments/103235
+saos_id|date|court|case_number|type|score|saos_url
+103235|2013-10-24|SN|IV CSK 21/13|Postanowienie|69|https://www.saos.org.pl/judgments/103235
+420856|2018-11-14|SO|III AUa 2245/17|Wyrok|56|https://www.saos.org.pl/judgments/420856

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-483926|2022-11-04|SO|VI ACa 554/21|Wyrok|https://www.saos.org.pl/judgments/483926
+saos_id|date|court|case_number|type|score|saos_url
+483926|2022-11-04|SO|VI ACa 554/21|Wyrok|56|https://www.saos.org.pl/judgments/483926

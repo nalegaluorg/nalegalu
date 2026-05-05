@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-454511|2021-11-30|SO|I C 224/21|Wyrok|https://www.saos.org.pl/judgments/454511
-358957|2018-01-11|SO|II C 1884/17|Zarządzenie|https://www.saos.org.pl/judgments/358957
-359342|2017-12-18|SO|II C 787/17|Zarządzenie|https://www.saos.org.pl/judgments/359342
-358997|2017-06-26|SO|II C 390/17|Zarządzenie|https://www.saos.org.pl/judgments/358997
-359330|2017-06-07|SO|II C 360/17|Zarządzenie|https://www.saos.org.pl/judgments/359330
-359304|2017-02-08|SO|II C 2581/16|Zarządzenie|https://www.saos.org.pl/judgments/359304
-359270|2016-03-14|SO|II C 1484/14|Zarządzenie|https://www.saos.org.pl/judgments/359270
+saos_id|date|court|case_number|type|score|saos_url
+358957|2018-01-11|SO|II C 1884/17|Zarządzenie|27|https://www.saos.org.pl/judgments/358957
+359342|2017-12-18|SO|II C 787/17|Zarządzenie|27|https://www.saos.org.pl/judgments/359342
+358997|2017-06-26|SO|II C 390/17|Zarządzenie|27|https://www.saos.org.pl/judgments/358997
+359330|2017-06-07|SO|II C 360/17|Zarządzenie|27|https://www.saos.org.pl/judgments/359330
+359304|2017-02-08|SO|II C 2581/16|Zarządzenie|27|https://www.saos.org.pl/judgments/359304
+359270|2016-03-14|SO|II C 1484/14|Zarządzenie|27|https://www.saos.org.pl/judgments/359270

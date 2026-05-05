@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-364711|2018-11-23|SO|I C 380/18|Wyrok|https://www.saos.org.pl/judgments/364711
-288930|2016-10-11|SO|I C 1194/15|Wyrok|https://www.saos.org.pl/judgments/288930
-96449|2011-11-30|SN|III CZP 66/11|Uchwała|https://www.saos.org.pl/judgments/96449
+saos_id|date|court|case_number|type|score|saos_url
+96449|2011-11-30|SN|III CZP 66/11|Uchwała|89|https://www.saos.org.pl/judgments/96449

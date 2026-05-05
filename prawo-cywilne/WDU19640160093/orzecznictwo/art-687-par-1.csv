@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-512748|2023-06-22|SO|VIII GC 1126/22|Wyrok|https://www.saos.org.pl/judgments/512748
-432317|2021-01-08|SO|III C 1601/19|Wyrok|https://www.saos.org.pl/judgments/432317
-415161|2018-10-11|SO|III C 146/18|Wyrok|https://www.saos.org.pl/judgments/415161
-333685|2018-02-27|SO|I Ca 1/18|Wyrok|https://www.saos.org.pl/judgments/333685
-333764|2017-03-30|SO|X GC 176/15|Wyrok|https://www.saos.org.pl/judgments/333764
-72415|2014-11-06|SO|II Ca 1687/14|Wyrok|https://www.saos.org.pl/judgments/72415
-102445|2013-07-12|SN|V CNP 71/12|Postanowienie|https://www.saos.org.pl/judgments/102445
-2594|2012-10-10|SO|V ACa 697/11|Wyrok|https://www.saos.org.pl/judgments/2594
-86954|2007-12-21|SN|III CZP 74/07|Uchwała|https://www.saos.org.pl/judgments/86954
+saos_id|date|court|case_number|type|score|saos_url
+86954|2007-12-21|SN|III CZP 74/07|Uchwała|96|https://www.saos.org.pl/judgments/86954
+102445|2013-07-12|SN|V CNP 71/12|Postanowienie|69|https://www.saos.org.pl/judgments/102445
+2594|2012-10-10|SO|V ACa 697/11|Wyrok|56|https://www.saos.org.pl/judgments/2594
+72415|2014-11-06|SO|II Ca 1687/14|Wyrok|40|https://www.saos.org.pl/judgments/72415

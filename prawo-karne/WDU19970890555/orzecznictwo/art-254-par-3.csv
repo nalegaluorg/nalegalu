@@ -1,14 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-444179|2019-08-06|SO|II AKz 729/19|Postanowienie|https://www.saos.org.pl/judgments/444179
-372083|2019-02-21|SO|VII Kz 84/19|Postanowienie|https://www.saos.org.pl/judgments/372083
-245148|2016-04-21|SN|IV KZ 23/16|Postanowienie|https://www.saos.org.pl/judgments/245148
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-177377|2015-09-10|SO|XII K 294/12|Postanowienie|https://www.saos.org.pl/judgments/177377
-46319|2014-04-10|SO|IV Kz 160/14|Postanowienie|https://www.saos.org.pl/judgments/46319
-100433|2013-01-24|SN|I KZP 23/12|Postanowienie|https://www.saos.org.pl/judgments/100433
-100038|2012-12-04|SN|WZ 28/12|Postanowienie|https://www.saos.org.pl/judgments/100038
-135771|2012-06-26|SO|II AKz 403/12|Postanowienie|https://www.saos.org.pl/judgments/135771
-88044|2008-05-07|SN|SNO 45/08|Wyrok|https://www.saos.org.pl/judgments/88044
-82940|2004-10-29|SN|I KZP 19/04|Uchwała|https://www.saos.org.pl/judgments/82940
-82497|2004-02-10|SN|WZ 6/04|Postanowienie|https://www.saos.org.pl/judgments/82497
-82342|2003-11-26|SN|I KZP 30/03|Uchwała|https://www.saos.org.pl/judgments/82342
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+82940|2004-10-29|SN|I KZP 19/04|Uchwała|96|https://www.saos.org.pl/judgments/82940
+82342|2003-11-26|SN|I KZP 30/03|Uchwała|89|https://www.saos.org.pl/judgments/82342
+88044|2008-05-07|SN|SNO 45/08|Wyrok|78|https://www.saos.org.pl/judgments/88044
+245148|2016-04-21|SN|IV KZ 23/16|Postanowienie|69|https://www.saos.org.pl/judgments/245148
+100433|2013-01-24|SN|I KZP 23/12|Postanowienie|69|https://www.saos.org.pl/judgments/100433
+100038|2012-12-04|SN|WZ 28/12|Postanowienie|69|https://www.saos.org.pl/judgments/100038
+82497|2004-02-10|SN|WZ 6/04|Postanowienie|69|https://www.saos.org.pl/judgments/82497
+444179|2019-08-06|SO|II AKz 729/19|Postanowienie|47|https://www.saos.org.pl/judgments/444179
+135771|2012-06-26|SO|II AKz 403/12|Postanowienie|47|https://www.saos.org.pl/judgments/135771
+372083|2019-02-21|SO|VII Kz 84/19|Postanowienie|31|https://www.saos.org.pl/judgments/372083
+46319|2014-04-10|SO|IV Kz 160/14|Postanowienie|31|https://www.saos.org.pl/judgments/46319

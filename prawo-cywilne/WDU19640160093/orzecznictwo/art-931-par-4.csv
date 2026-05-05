@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-437587|2021-04-16|SO|II Ca 216/21|Postanowienie|https://www.saos.org.pl/judgments/437587
-443010|2020-06-18|SO|I Ns 48/20|Postanowienie|https://www.saos.org.pl/judgments/443010
-299863|2017-06-23|SO|III C 1914/14|Wyrok|https://www.saos.org.pl/judgments/299863
+saos_id|date|court|case_number|type|score|saos_url
+299863|2017-06-23|SO|III C 1914/14|Wyrok|40|https://www.saos.org.pl/judgments/299863
+437587|2021-04-16|SO|II Ca 216/21|Postanowienie|31|https://www.saos.org.pl/judgments/437587
+443010|2020-06-18|SO|I Ns 48/20|Postanowienie|31|https://www.saos.org.pl/judgments/443010

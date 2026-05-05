@@ -1,12 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543454|2026-01-22|SO|II C 393/21|Wyrok|https://www.saos.org.pl/judgments/543454
-501449|2023-07-07|SO|II C 1852/20|Wyrok|https://www.saos.org.pl/judgments/501449
-492557|2023-04-19|SO|V ACa 642/22|Wyrok|https://www.saos.org.pl/judgments/492557
-501527|2023-03-31|SO|II C 699/21|Wyrok|https://www.saos.org.pl/judgments/501527
-492914|2022-04-06|SO|II C 940/16|Wyrok|https://www.saos.org.pl/judgments/492914
-490152|2022-04-04|SO|V Ca 1409/21|Wyrok|https://www.saos.org.pl/judgments/490152
-477702|2022-03-10|SO|V Ca 454/18|Wyrok|https://www.saos.org.pl/judgments/477702
-539879|2021-09-27|SO|VI C 2464/20|Zarządzenie|https://www.saos.org.pl/judgments/539879
-466239|2021-02-19|SO|V Ca 2714/19|Wyrok|https://www.saos.org.pl/judgments/466239
-432439|2020-12-21|SO|XXVI GC 586/20|Wyrok|https://www.saos.org.pl/judgments/432439
-528913|2012-11-20|SO|I C 648/12|Wyrok|https://www.saos.org.pl/judgments/528913
+saos_id|date|court|case_number|type|score|saos_url
+492557|2023-04-19|SO|V ACa 642/22|Wyrok|56|https://www.saos.org.pl/judgments/492557

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-171255|2015-07-13|SO|IV Ka 625/15|Wyrok|https://www.saos.org.pl/judgments/171255
-206676|2015-06-16|TK|K 30/13|Postanowienie|https://www.saos.org.pl/judgments/206676
-206651|2014-09-30|TK|U 4/13|Wyrok|https://www.saos.org.pl/judgments/206651
-62250|2014-09-01|SO|IV Ka 662/14|Wyrok|https://www.saos.org.pl/judgments/62250
+saos_id|date|court|case_number|type|score|saos_url
+206651|2014-09-30|TK|U 4/13|Wyrok|98|https://www.saos.org.pl/judgments/206651
+206676|2015-06-16|TK|K 30/13|Postanowienie|80|https://www.saos.org.pl/judgments/206676
+171255|2015-07-13|SO|IV Ka 625/15|Wyrok|40|https://www.saos.org.pl/judgments/171255
+62250|2014-09-01|SO|IV Ka 662/14|Wyrok|40|https://www.saos.org.pl/judgments/62250

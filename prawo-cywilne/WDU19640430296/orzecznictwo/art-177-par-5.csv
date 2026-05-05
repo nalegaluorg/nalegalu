@@ -1,13 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-454891|2021-11-12|SO|III Ns 220/20|Postanowienie|https://www.saos.org.pl/judgments/454891
-407772|2020-01-14|SO|V Ca 2752/19|Wyrok|https://www.saos.org.pl/judgments/407772
-157000|2015-05-25|SO|V Pz 2/15|Postanowienie|https://www.saos.org.pl/judgments/157000
-149976|2015-04-23|SO|VII Uz 4/15|Uzasadnienie|https://www.saos.org.pl/judgments/149976
-63681|2014-10-13|SO|VII Uz 13/14|Uzasadnienie|https://www.saos.org.pl/judgments/63681
-51318|2014-06-26|SO|V Pz 20/14|Postanowienie|https://www.saos.org.pl/judgments/51318
-47927|2014-05-27|SO|II Cz 624/14|Postanowienie|https://www.saos.org.pl/judgments/47927
-45014|2014-03-14|SO|II Cz 38/14|Postanowienie|https://www.saos.org.pl/judgments/45014
-31605|2013-11-13|SO|V Pa 109/13|Wyrok|https://www.saos.org.pl/judgments/31605
-67406|2013-10-29|SO|II Cz 322/13|Postanowienie|https://www.saos.org.pl/judgments/67406
-58118|2013-10-14|SO|II Cz 609/13|Postanowienie|https://www.saos.org.pl/judgments/58118
-19797|2013-08-06|SO|III AUz 387/13|Postanowienie|https://www.saos.org.pl/judgments/19797
+saos_id|date|court|case_number|type|score|saos_url
+19797|2013-08-06|SO|III AUz 387/13|Postanowienie|47|https://www.saos.org.pl/judgments/19797
+149976|2015-04-23|SO|VII Uz 4/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/149976
+63681|2014-10-13|SO|VII Uz 13/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/63681

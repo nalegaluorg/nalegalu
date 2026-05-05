@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-249609|2016-07-13|SO|I C 658/13|Wyrok|https://www.saos.org.pl/judgments/249609
-102873|2013-09-19|SN|I CSK 732/12|Wyrok|https://www.saos.org.pl/judgments/102873
-5792|2012-07-23|SO|I ACa 1272/11|Wyrok|https://www.saos.org.pl/judgments/5792
-97413|2012-03-09|SN|I CSK 277/11|Wyrok|https://www.saos.org.pl/judgments/97413
-90569|2009-07-09|SN|III CZP 44/09|Uchwała|https://www.saos.org.pl/judgments/90569
-89292|2008-12-04|SN|I CSK 214/08|Wyrok|https://www.saos.org.pl/judgments/89292
+saos_id|date|court|case_number|type|score|saos_url
+90569|2009-07-09|SN|III CZP 44/09|Uchwała|89|https://www.saos.org.pl/judgments/90569
+102873|2013-09-19|SN|I CSK 732/12|Wyrok|78|https://www.saos.org.pl/judgments/102873
+97413|2012-03-09|SN|I CSK 277/11|Wyrok|78|https://www.saos.org.pl/judgments/97413
+89292|2008-12-04|SN|I CSK 214/08|Wyrok|78|https://www.saos.org.pl/judgments/89292
+5792|2012-07-23|SO|I ACa 1272/11|Wyrok|56|https://www.saos.org.pl/judgments/5792
+249609|2016-07-13|SO|I C 658/13|Wyrok|40|https://www.saos.org.pl/judgments/249609

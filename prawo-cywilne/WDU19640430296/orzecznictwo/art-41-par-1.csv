@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-377926|2019-02-15|SO|II Ca 1702/18|Wyrok|https://www.saos.org.pl/judgments/377926
-366898|2018-06-20|SO|VI ACa 548/16|Wyrok|https://www.saos.org.pl/judgments/366898
-66421|2014-02-27|SO|II Ca 1299/13|Wyrok|https://www.saos.org.pl/judgments/66421
-32228|2014-01-23|SO|VIII Gz 218/13|Postanowienie|https://www.saos.org.pl/judgments/32228
+saos_id|date|court|case_number|type|score|saos_url
+366898|2018-06-20|SO|VI ACa 548/16|Wyrok|56|https://www.saos.org.pl/judgments/366898

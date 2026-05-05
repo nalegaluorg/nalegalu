@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-494245|2023-10-16|SO|I ACa 493/22|Wyrok|https://www.saos.org.pl/judgments/494245
-310493|2017-05-19|SO|V ACa 256/16|Wyrok|https://www.saos.org.pl/judgments/310493
-202569|2016-02-03|SO|I C 209/15|Wyrok|https://www.saos.org.pl/judgments/202569
+saos_id|date|court|case_number|type|score|saos_url
+494245|2023-10-16|SO|I ACa 493/22|Wyrok|56|https://www.saos.org.pl/judgments/494245
+310493|2017-05-19|SO|V ACa 256/16|Wyrok|56|https://www.saos.org.pl/judgments/310493

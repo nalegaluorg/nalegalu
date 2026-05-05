@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-129916|2014-11-14|SO|VI ACa 256/13|Wyrok|https://www.saos.org.pl/judgments/129916
-26246|2013-10-17|SO|V ACa 349/13|Wyrok|https://www.saos.org.pl/judgments/26246
+saos_id|date|court|case_number|type|score|saos_url
+129916|2014-11-14|SO|VI ACa 256/13|Wyrok|56|https://www.saos.org.pl/judgments/129916
+26246|2013-10-17|SO|V ACa 349/13|Wyrok|56|https://www.saos.org.pl/judgments/26246

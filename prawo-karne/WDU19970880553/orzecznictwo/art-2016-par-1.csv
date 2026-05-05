@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-178244|2015-08-12|SO|II K 304/14|Wyrok|https://www.saos.org.pl/judgments/178244
+saos_id|date|court|case_number|type|score|saos_url
+178244|2015-08-12|SO|II K 304/14|Wyrok|40|https://www.saos.org.pl/judgments/178244

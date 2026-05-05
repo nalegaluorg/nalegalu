@@ -1,16 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-454445|2021-10-27|SO|I ACa 519/20|Wyrok|https://www.saos.org.pl/judgments/454445
-543379|2021-04-12|SO|I ACa 744/19|Wyrok|https://www.saos.org.pl/judgments/543379
-425470|2020-09-10|SO|I C 513/19|Wyrok|https://www.saos.org.pl/judgments/425470
-390541|2019-05-29|SO|I ACa 44/19|Wyrok|https://www.saos.org.pl/judgments/390541
-364352|2018-11-14|SO|I ACa 1064/17|Wyrok|https://www.saos.org.pl/judgments/364352
-364635|2018-10-15|SO|VII AGa 350/18|Wyrok|https://www.saos.org.pl/judgments/364635
-213716|2016-01-21|SO|I ACa 262/15|Wyrok|https://www.saos.org.pl/judgments/213716
-203783|2015-12-22|SO|XX GC 1086/13|Wyrok|https://www.saos.org.pl/judgments/203783
-183386|2015-09-29|SO|II Ca 628/15|Wyrok|https://www.saos.org.pl/judgments/183386
-235846|2015-07-20|SO|II Ca 451/15|Postanowienie|https://www.saos.org.pl/judgments/235846
-180419|2015-07-17|SO|I ACa 1951/14|Wyrok|https://www.saos.org.pl/judgments/180419
-158307|2015-06-11|SO|XII C 1069/13|Wyrok|https://www.saos.org.pl/judgments/158307
-68529|2014-10-09|SO|XXIV C 1114/13|Uzasadnienie|https://www.saos.org.pl/judgments/68529
-56441|2014-06-12|SO|I ACa 278/14|Wyrok|https://www.saos.org.pl/judgments/56441
-17242|2013-06-26|SO|I ACa 159/13|Wyrok|https://www.saos.org.pl/judgments/17242
+saos_id|date|court|case_number|type|score|saos_url
+454445|2021-10-27|SO|I ACa 519/20|Wyrok|56|https://www.saos.org.pl/judgments/454445
+543379|2021-04-12|SO|I ACa 744/19|Wyrok|56|https://www.saos.org.pl/judgments/543379
+390541|2019-05-29|SO|I ACa 44/19|Wyrok|56|https://www.saos.org.pl/judgments/390541
+364352|2018-11-14|SO|I ACa 1064/17|Wyrok|56|https://www.saos.org.pl/judgments/364352
+364635|2018-10-15|SO|VII AGa 350/18|Wyrok|56|https://www.saos.org.pl/judgments/364635
+213716|2016-01-21|SO|I ACa 262/15|Wyrok|56|https://www.saos.org.pl/judgments/213716
+180419|2015-07-17|SO|I ACa 1951/14|Wyrok|56|https://www.saos.org.pl/judgments/180419
+56441|2014-06-12|SO|I ACa 278/14|Wyrok|56|https://www.saos.org.pl/judgments/56441
+17242|2013-06-26|SO|I ACa 159/13|Wyrok|56|https://www.saos.org.pl/judgments/17242
+158307|2015-06-11|SO|XII C 1069/13|Wyrok|40|https://www.saos.org.pl/judgments/158307

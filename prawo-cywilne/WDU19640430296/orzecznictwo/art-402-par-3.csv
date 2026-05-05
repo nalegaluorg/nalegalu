@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-167786|2015-01-09|SN|V CZ 84/14|Postanowienie|https://www.saos.org.pl/judgments/167786
-50786|2014-03-26|SO|XII Ga 585/13|Wyrok|https://www.saos.org.pl/judgments/50786
-8681|2013-02-18|SO|I ACa 840/12|Postanowienie|https://www.saos.org.pl/judgments/8681
-95145|2011-06-08|SN|I PZ 7/11|Postanowienie|https://www.saos.org.pl/judgments/95145
+saos_id|date|court|case_number|type|score|saos_url
+167786|2015-01-09|SN|V CZ 84/14|Postanowienie|69|https://www.saos.org.pl/judgments/167786
+95145|2011-06-08|SN|I PZ 7/11|Postanowienie|69|https://www.saos.org.pl/judgments/95145
+8681|2013-02-18|SO|I ACa 840/12|Postanowienie|47|https://www.saos.org.pl/judgments/8681
+50786|2014-03-26|SO|XII Ga 585/13|Wyrok|40|https://www.saos.org.pl/judgments/50786

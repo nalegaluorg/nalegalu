@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Ustawa z dnia 8 września 2006 r. o zmianie Konstytucj
 
 ## art. 1 (1)
 
-- 2014-06-26 | SN | [I KZP 9/14](https://www.saos.org.pl/judgments/166146) | Postanowienie
+- 2014-06-26 | SN | [I KZP 9/14](https://www.saos.org.pl/judgments/166146) | Postanowienie ★
 
 ## art. 55 (1)
 
-- 2011-09-21 | TK | [SK 6/10](https://www.saos.org.pl/judgments/110338) | Wyrok
+- 2011-09-21 | TK | [SK 6/10](https://www.saos.org.pl/judgments/110338) | Wyrok ★
 
 ## (ogólnie) (13)
 

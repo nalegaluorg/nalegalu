@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-321858|2017-12-20|SO|I Ca 443/17|Postanowienie|https://www.saos.org.pl/judgments/321858
-75899|2014-10-24|SO|III Ca 654/13|Uzasadnienie|https://www.saos.org.pl/judgments/75899
+saos_id|date|court|case_number|type|score|saos_url
+75899|2014-10-24|SO|III Ca 654/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/75899

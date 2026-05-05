@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-456925|2019-03-11|SO|I ACa 480/18|Wyrok|https://www.saos.org.pl/judgments/456925
-438056|2019-03-06|SO|I ACa 497/18|Wyrok|https://www.saos.org.pl/judgments/438056
-261697|2016-10-05|SO|XXVII Ca 1336/16|Wyrok|https://www.saos.org.pl/judgments/261697
-249101|2016-05-12|SO|I ACa 1463/15|Wyrok|https://www.saos.org.pl/judgments/249101
+saos_id|date|court|case_number|type|score|saos_url
+456925|2019-03-11|SO|I ACa 480/18|Wyrok|56|https://www.saos.org.pl/judgments/456925
+438056|2019-03-06|SO|I ACa 497/18|Wyrok|56|https://www.saos.org.pl/judgments/438056
+249101|2016-05-12|SO|I ACa 1463/15|Wyrok|56|https://www.saos.org.pl/judgments/249101

@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-334596|2018-03-30|SO|II Ka 564/17|Wyrok|https://www.saos.org.pl/judgments/334596
-173024|2015-06-11|SO|IV Ka 427/15|Wyrok|https://www.saos.org.pl/judgments/173024
-195459|2015-05-29|SO|V K 99/14|Wyrok|https://www.saos.org.pl/judgments/195459
-145200|2014-04-07|SO|II AKa 46/14|Wyrok|https://www.saos.org.pl/judgments/145200
-136337|2012-12-14|SO|II AKz 376/12|Postanowienie|https://www.saos.org.pl/judgments/136337
+saos_id|date|court|case_number|type|score|saos_url
+145200|2014-04-07|SO|II AKa 46/14|Wyrok|56|https://www.saos.org.pl/judgments/145200
+136337|2012-12-14|SO|II AKz 376/12|Postanowienie|47|https://www.saos.org.pl/judgments/136337

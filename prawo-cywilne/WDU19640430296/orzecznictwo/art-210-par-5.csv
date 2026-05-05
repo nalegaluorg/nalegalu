@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-86033|2007-06-06|SN|II PK 318/06|Wyrok|https://www.saos.org.pl/judgments/86033
+saos_id|date|court|case_number|type|score|saos_url
+86033|2007-06-06|SN|II PK 318/06|Wyrok|78|https://www.saos.org.pl/judgments/86033

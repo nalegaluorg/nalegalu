@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-93481|2010-11-24|SN|I KZP 21/10|Postanowienie|https://www.saos.org.pl/judgments/93481
+saos_id|date|court|case_number|type|score|saos_url
+93481|2010-11-24|SN|I KZP 21/10|Postanowienie|76|https://www.saos.org.pl/judgments/93481

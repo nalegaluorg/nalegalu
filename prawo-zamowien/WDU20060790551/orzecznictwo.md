@@ -10,9 +10,9 @@ Orzeczenia powołujące: *Ustawa z dnia 7 kwietnia 2006 r. o zmianie ustawy - Pr
 
 ## art. 179 (1)
 
-- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie
+- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie ★
 
 ## art. 184 (1)
 
-- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie
+- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie ★
 

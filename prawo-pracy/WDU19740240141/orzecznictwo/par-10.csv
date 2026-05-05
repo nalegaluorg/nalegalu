@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-523684|2025-01-27|SO|IV Pa 254/24|Wyrok|https://www.saos.org.pl/judgments/523684
-508707|2023-08-30|SO|IV P 21/22|Wyrok|https://www.saos.org.pl/judgments/508707
-285939|2017-05-15|SO|VIII P 23/14|Zarządzenie|https://www.saos.org.pl/judgments/285939
+saos_id|date|court|case_number|type|score|saos_url
+285939|2017-05-15|SO|VIII P 23/14|Zarządzenie|27|https://www.saos.org.pl/judgments/285939

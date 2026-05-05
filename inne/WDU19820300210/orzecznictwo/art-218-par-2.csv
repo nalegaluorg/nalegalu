@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-506566|2023-09-01|SO|III Ca 405/22|Uzasadnienie|https://www.saos.org.pl/judgments/506566
-417388|2019-12-20|SO|XVIII C 1424/19|Wyrok|https://www.saos.org.pl/judgments/417388
-390694|2019-05-20|SO|III Ca 108/19|Uzasadnienie|https://www.saos.org.pl/judgments/390694
-389723|2019-04-30|SO|III Ca 1560/18|Uzasadnienie|https://www.saos.org.pl/judgments/389723
-363845|2018-08-14|SO|I C 1159/16|Wyrok|https://www.saos.org.pl/judgments/363845
-322565|2017-05-10|SO|III C 1418/13|Wyrok|https://www.saos.org.pl/judgments/322565
-282599|2017-01-17|SO|VI ACa 1635/15|Wyrok|https://www.saos.org.pl/judgments/282599
-263553|2016-09-13|SO|I ACa 174/16|Wyrok|https://www.saos.org.pl/judgments/263553
-68332|2014-10-21|SO|II Ca 597/14|Postanowienie|https://www.saos.org.pl/judgments/68332
-69360|2014-09-25|SO|I ACa 411/14|Wyrok|https://www.saos.org.pl/judgments/69360
-56412|2014-07-16|SO|V C 126/13|Wyrok|https://www.saos.org.pl/judgments/56412
-198508|2014-02-14|SO|II Ca 176/13|Postanowienie|https://www.saos.org.pl/judgments/198508
-30623|2013-12-12|SO|I ACa 785/13|Wyrok|https://www.saos.org.pl/judgments/30623
-141451|2013-10-29|SO|I C 588/13|Wyrok|https://www.saos.org.pl/judgments/141451
-10733|2013-02-07|SO|I ACa 696/12|Wyrok|https://www.saos.org.pl/judgments/10733
+saos_id|date|court|case_number|type|score|saos_url
+282599|2017-01-17|SO|VI ACa 1635/15|Wyrok|56|https://www.saos.org.pl/judgments/282599
+263553|2016-09-13|SO|I ACa 174/16|Wyrok|56|https://www.saos.org.pl/judgments/263553
+69360|2014-09-25|SO|I ACa 411/14|Wyrok|56|https://www.saos.org.pl/judgments/69360
+30623|2013-12-12|SO|I ACa 785/13|Wyrok|56|https://www.saos.org.pl/judgments/30623
+10733|2013-02-07|SO|I ACa 696/12|Wyrok|56|https://www.saos.org.pl/judgments/10733
+417388|2019-12-20|SO|XVIII C 1424/19|Wyrok|40|https://www.saos.org.pl/judgments/417388
+506566|2023-09-01|SO|III Ca 405/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/506566
+390694|2019-05-20|SO|III Ca 108/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/390694
+389723|2019-04-30|SO|III Ca 1560/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/389723

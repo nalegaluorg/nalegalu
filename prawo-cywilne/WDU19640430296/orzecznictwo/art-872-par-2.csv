@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-270567|2016-07-05|SO|I Co 446/16|Postanowienie|https://www.saos.org.pl/judgments/270567
-149100|2014-09-25|SO|II Cz 281/14|Postanowienie|https://www.saos.org.pl/judgments/149100
-976|2012-09-12|SO|I ACa 299/12|Wyrok|https://www.saos.org.pl/judgments/976
+saos_id|date|court|case_number|type|score|saos_url
+976|2012-09-12|SO|I ACa 299/12|Wyrok|56|https://www.saos.org.pl/judgments/976

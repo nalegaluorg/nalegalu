@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543897|2023-10-05|SO|V ACa 220/22|Wyrok|https://www.saos.org.pl/judgments/543897
-356246|2018-07-30|SO|VI U 899/18|Wyrok|https://www.saos.org.pl/judgments/356246
+saos_id|date|court|case_number|type|score|saos_url
+543897|2023-10-05|SO|V ACa 220/22|Wyrok|56|https://www.saos.org.pl/judgments/543897

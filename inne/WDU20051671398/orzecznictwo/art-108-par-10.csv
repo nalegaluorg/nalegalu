@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-468350|2022-02-22|SO|XV Ca 1204/21|Wyrok|https://www.saos.org.pl/judgments/468350
-22205|2013-09-10|SO|XV C 36/13|Wyrok|https://www.saos.org.pl/judgments/22205
+saos_id|date|court|case_number|type|score|saos_url
+468350|2022-02-22|SO|XV Ca 1204/21|Wyrok|40|https://www.saos.org.pl/judgments/468350

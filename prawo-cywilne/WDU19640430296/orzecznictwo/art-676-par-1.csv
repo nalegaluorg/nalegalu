@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-360378|2018-09-13|SO|III AUa 79/18|Wyrok|https://www.saos.org.pl/judgments/360378
-352933|2018-05-09|SO|III AUa 216/18|Wyrok|https://www.saos.org.pl/judgments/352933
-311295|2017-10-18|SO|IV U 814/17|Wyrok|https://www.saos.org.pl/judgments/311295
-14447|2013-06-14|SO|III AUa 1208/12|Wyrok|https://www.saos.org.pl/judgments/14447
+saos_id|date|court|case_number|type|score|saos_url
+360378|2018-09-13|SO|III AUa 79/18|Wyrok|56|https://www.saos.org.pl/judgments/360378
+352933|2018-05-09|SO|III AUa 216/18|Wyrok|56|https://www.saos.org.pl/judgments/352933
+14447|2013-06-14|SO|III AUa 1208/12|Wyrok|56|https://www.saos.org.pl/judgments/14447

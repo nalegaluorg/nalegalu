@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-540725|2025-02-04|SO|II Ca 55/24|Wyrok|https://www.saos.org.pl/judgments/540725
+saos_id|date|court|case_number|type|score|saos_url
+540725|2025-02-04|SO|II Ca 55/24|Wyrok|40|https://www.saos.org.pl/judgments/540725

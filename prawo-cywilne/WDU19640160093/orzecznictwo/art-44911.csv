@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-430890|2021-01-19|SO|XII C 1291/17|Wyrok|https://www.saos.org.pl/judgments/430890
-53143|2014-05-29|SO|I ACa 377/13|Wyrok|https://www.saos.org.pl/judgments/53143
-24004|2013-06-05|SO|I ACa 1550/12|Wyrok|https://www.saos.org.pl/judgments/24004
-84775|2006-11-22|SN|V CSK 299/06|Wyrok|https://www.saos.org.pl/judgments/84775
+saos_id|date|court|case_number|type|score|saos_url
+84775|2006-11-22|SN|V CSK 299/06|Wyrok|78|https://www.saos.org.pl/judgments/84775
+53143|2014-05-29|SO|I ACa 377/13|Wyrok|56|https://www.saos.org.pl/judgments/53143
+24004|2013-06-05|SO|I ACa 1550/12|Wyrok|56|https://www.saos.org.pl/judgments/24004
+430890|2021-01-19|SO|XII C 1291/17|Wyrok|40|https://www.saos.org.pl/judgments/430890

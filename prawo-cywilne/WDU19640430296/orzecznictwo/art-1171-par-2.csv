@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509710|2024-01-31|SO|V ACa 1242/22|Postanowienie|https://www.saos.org.pl/judgments/509710
-397044|2019-01-17|SO|I1 C 870/18|Wyrok|https://www.saos.org.pl/judgments/397044
+saos_id|date|court|case_number|type|score|saos_url
+509710|2024-01-31|SO|V ACa 1242/22|Postanowienie|47|https://www.saos.org.pl/judgments/509710

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-422489|2020-09-02|SO|VIII Pa 33/20|Uzasadnienie|https://www.saos.org.pl/judgments/422489
-307509|2017-07-06|SO|V Pa 24/17|Wyrok|https://www.saos.org.pl/judgments/307509
+saos_id|date|court|case_number|type|score|saos_url
+422489|2020-09-02|SO|VIII Pa 33/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/422489

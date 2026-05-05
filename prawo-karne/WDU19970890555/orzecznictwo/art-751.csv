@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-356359|2018-07-19|SO|IV Ka 243/18|Wyrok|https://www.saos.org.pl/judgments/356359
+saos_id|date|court|case_number|type|score|saos_url
+356359|2018-07-19|SO|IV Ka 243/18|Wyrok|40|https://www.saos.org.pl/judgments/356359

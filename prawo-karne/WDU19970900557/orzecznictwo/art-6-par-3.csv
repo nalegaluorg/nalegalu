@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-233167|2016-05-10|SO|I C 474/14|Wyrok|https://www.saos.org.pl/judgments/233167
-206890|2015-06-09|TK|Ts 104/13|Postanowienie|https://www.saos.org.pl/judgments/206890
-389633|2014-02-04|SO|II AKzw 2057/13|Postanowienie|https://www.saos.org.pl/judgments/389633
-109515|2009-07-15|TK|Ts 307/07|Postanowienie|https://www.saos.org.pl/judgments/109515
-108916|2008-09-24|TK|Ts 307/07|Postanowienie|https://www.saos.org.pl/judgments/108916
-107853|2006-09-11|TK|Ts 127/06|Postanowienie|https://www.saos.org.pl/judgments/107853
+saos_id|date|court|case_number|type|score|saos_url
+206890|2015-06-09|TK|Ts 104/13|Postanowienie|80|https://www.saos.org.pl/judgments/206890
+109515|2009-07-15|TK|Ts 307/07|Postanowienie|80|https://www.saos.org.pl/judgments/109515
+108916|2008-09-24|TK|Ts 307/07|Postanowienie|80|https://www.saos.org.pl/judgments/108916
+107853|2006-09-11|TK|Ts 127/06|Postanowienie|80|https://www.saos.org.pl/judgments/107853
+389633|2014-02-04|SO|II AKzw 2057/13|Postanowienie|47|https://www.saos.org.pl/judgments/389633

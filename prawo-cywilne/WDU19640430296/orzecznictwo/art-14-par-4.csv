@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-513221|2023-12-11|SO|VIII U 1319/23|Wyrok|https://www.saos.org.pl/judgments/513221
-483256|2023-01-03|SO|VIII U 2812/21|Zarządzenie|https://www.saos.org.pl/judgments/483256
-368470|2018-11-27|SO|VIII U 2008/18|Postanowienie|https://www.saos.org.pl/judgments/368470
-331105|2017-12-14|SO|XII Ga 760/17|Uzasadnienie|https://www.saos.org.pl/judgments/331105
-300264|2017-08-22|SO|VIII U 1894/16|Postanowienie|https://www.saos.org.pl/judgments/300264
-286028|2017-05-12|SO|VIII U 65/16|Zarządzenie|https://www.saos.org.pl/judgments/286028
-235019|2016-06-15|SO|III AUa 1103/15|Wyrok|https://www.saos.org.pl/judgments/235019
-281547|2016-03-29|SO|VIII U 3095/14|Zarządzenie|https://www.saos.org.pl/judgments/281547
-125585|2014-10-08|SO|XII Ga 248/14|Wyrok|https://www.saos.org.pl/judgments/125585
-44808|2014-03-18|SO|V U 101/12|Wyrok|https://www.saos.org.pl/judgments/44808
-46667|2014-03-12|SO|XII Ga 549/13|Wyrok|https://www.saos.org.pl/judgments/46667
-26690|2013-11-05|SO|V U 973/12|Wyrok|https://www.saos.org.pl/judgments/26690
-1946|2012-04-25|SO|I ACa 284/12|Wyrok|https://www.saos.org.pl/judgments/1946
+saos_id|date|court|case_number|type|score|saos_url
+235019|2016-06-15|SO|III AUa 1103/15|Wyrok|56|https://www.saos.org.pl/judgments/235019
+1946|2012-04-25|SO|I ACa 284/12|Wyrok|56|https://www.saos.org.pl/judgments/1946
+513221|2023-12-11|SO|VIII U 1319/23|Wyrok|40|https://www.saos.org.pl/judgments/513221
+125585|2014-10-08|SO|XII Ga 248/14|Wyrok|40|https://www.saos.org.pl/judgments/125585
+46667|2014-03-12|SO|XII Ga 549/13|Wyrok|40|https://www.saos.org.pl/judgments/46667
+368470|2018-11-27|SO|VIII U 2008/18|Postanowienie|31|https://www.saos.org.pl/judgments/368470
+300264|2017-08-22|SO|VIII U 1894/16|Postanowienie|31|https://www.saos.org.pl/judgments/300264
+483256|2023-01-03|SO|VIII U 2812/21|Zarządzenie|27|https://www.saos.org.pl/judgments/483256
+286028|2017-05-12|SO|VIII U 65/16|Zarządzenie|27|https://www.saos.org.pl/judgments/286028
+281547|2016-03-29|SO|VIII U 3095/14|Zarządzenie|27|https://www.saos.org.pl/judgments/281547

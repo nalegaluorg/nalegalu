@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-438764|2020-12-08|SO|XV Ca 641/20|Postanowienie|https://www.saos.org.pl/judgments/438764
-417031|2019-12-06|SO|XV Ca 1116/19|Postanowienie|https://www.saos.org.pl/judgments/417031
-366587|2018-03-20|SO|XV Ca 1285/17|Postanowienie|https://www.saos.org.pl/judgments/366587
-347397|2017-12-15|SO|XV Ca 906/17|Postanowienie|https://www.saos.org.pl/judgments/347397
-12759|2013-05-29|SO|VIII Cz 296/13|Postanowienie|https://www.saos.org.pl/judgments/12759
+saos_id|date|court|case_number|type|score|saos_url
+438764|2020-12-08|SO|XV Ca 641/20|Postanowienie|31|https://www.saos.org.pl/judgments/438764
+417031|2019-12-06|SO|XV Ca 1116/19|Postanowienie|31|https://www.saos.org.pl/judgments/417031
+366587|2018-03-20|SO|XV Ca 1285/17|Postanowienie|31|https://www.saos.org.pl/judgments/366587
+347397|2017-12-15|SO|XV Ca 906/17|Postanowienie|31|https://www.saos.org.pl/judgments/347397

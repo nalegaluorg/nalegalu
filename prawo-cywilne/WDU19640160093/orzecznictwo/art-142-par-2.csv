@@ -1,13 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-544776|2026-03-19|SO|IX Ca 1382/25|Postanowienie|https://www.saos.org.pl/judgments/544776
-459289|2021-09-10|SO|III Ca 886/20|Uzasadnienie|https://www.saos.org.pl/judgments/459289
-442668|2021-01-27|SO|I Ca 192/20|Postanowienie|https://www.saos.org.pl/judgments/442668
-424103|2020-09-17|SO|I C 1681/19|Wyrok|https://www.saos.org.pl/judgments/424103
-394347|2019-09-18|SO|II Ca 973/18|Wyrok|https://www.saos.org.pl/judgments/394347
-330975|2017-05-11|SO|II Ca 263/17|Postanowienie|https://www.saos.org.pl/judgments/330975
-230888|2016-06-15|SO|III Ca 191/16|Postanowienie|https://www.saos.org.pl/judgments/230888
-191533|2015-12-02|SO|I Ca 389/15|Wyrok|https://www.saos.org.pl/judgments/191533
-193426|2015-10-21|SO|III Ca 961/15|Uzasadnienie|https://www.saos.org.pl/judgments/193426
-178741|2015-09-03|SO|III Ca 489/15|Wyrok|https://www.saos.org.pl/judgments/178741
-176395|2015-06-12|SO|III Ca 292/15|Uzasadnienie|https://www.saos.org.pl/judgments/176395
-16228|2013-02-28|SO|I ACa 878/12|Wyrok|https://www.saos.org.pl/judgments/16228
+saos_id|date|court|case_number|type|score|saos_url
+16228|2013-02-28|SO|I ACa 878/12|Wyrok|56|https://www.saos.org.pl/judgments/16228
+459289|2021-09-10|SO|III Ca 886/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459289
+193426|2015-10-21|SO|III Ca 961/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193426
+176395|2015-06-12|SO|III Ca 292/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/176395

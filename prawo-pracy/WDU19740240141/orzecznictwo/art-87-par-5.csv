@@ -1,17 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-368779|2018-11-22|SO|VI Pa 92/18|Wyrok|https://www.saos.org.pl/judgments/368779
-365470|2018-11-08|SO|IV P 104/17|Wyrok|https://www.saos.org.pl/judgments/365470
-340245|2018-05-21|SO|IX P 359/16|Zarządzenie|https://www.saos.org.pl/judgments/340245
-326302|2017-12-08|SO|VIII Pa 133/17|Wyrok|https://www.saos.org.pl/judgments/326302
-272891|2017-02-09|SO|IV P 40/16|Wyrok|https://www.saos.org.pl/judgments/272891
-265605|2016-12-29|SO|IV P 24/15|Wyrok|https://www.saos.org.pl/judgments/265605
-286960|2016-08-02|SO|VII P 350/16|Wyrok|https://www.saos.org.pl/judgments/286960
-251488|2016-04-14|SO|VIII P 216/15|Uzasadnienie|https://www.saos.org.pl/judgments/251488
-31612|2013-11-26|SO|V Pa 88/13|Wyrok|https://www.saos.org.pl/judgments/31612
-98550|2012-07-02|SN|I PK 48/12|Wyrok|https://www.saos.org.pl/judgments/98550
-92195|2010-05-07|SN|III CZP 26/10|Uchwała|https://www.saos.org.pl/judgments/92195
-89420|2009-01-06|SN|II PK 117/08|Wyrok|https://www.saos.org.pl/judgments/89420
-86696|2007-10-10|SN|II PK 38/07|Wyrok|https://www.saos.org.pl/judgments/86696
-84401|2006-06-20|SN|II PK 317/05|Wyrok|https://www.saos.org.pl/judgments/84401
-83395|2005-05-12|SN|I PK 248/04|Wyrok|https://www.saos.org.pl/judgments/83395
-79301|1999-10-13|SN|I PKN 159/99|Wyrok|https://www.saos.org.pl/judgments/79301
+saos_id|date|court|case_number|type|score|saos_url
+92195|2010-05-07|SN|III CZP 26/10|Uchwała|89|https://www.saos.org.pl/judgments/92195
+98550|2012-07-02|SN|I PK 48/12|Wyrok|78|https://www.saos.org.pl/judgments/98550
+89420|2009-01-06|SN|II PK 117/08|Wyrok|78|https://www.saos.org.pl/judgments/89420
+86696|2007-10-10|SN|II PK 38/07|Wyrok|78|https://www.saos.org.pl/judgments/86696
+84401|2006-06-20|SN|II PK 317/05|Wyrok|78|https://www.saos.org.pl/judgments/84401
+83395|2005-05-12|SN|I PK 248/04|Wyrok|78|https://www.saos.org.pl/judgments/83395
+79301|1999-10-13|SN|I PKN 159/99|Wyrok|78|https://www.saos.org.pl/judgments/79301

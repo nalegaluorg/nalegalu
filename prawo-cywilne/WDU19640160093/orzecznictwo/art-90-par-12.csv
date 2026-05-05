@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-311688|2016-07-13|SO|XIII GC 1949/15|Wyrok|https://www.saos.org.pl/judgments/311688
+saos_id|date|court|case_number|type|score|saos_url
+311688|2016-07-13|SO|XIII GC 1949/15|Wyrok|40|https://www.saos.org.pl/judgments/311688

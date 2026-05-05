@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-176891|2014-05-22|SO|I ACa 388/14|Wyrok|https://www.saos.org.pl/judgments/176891
+saos_id|date|court|case_number|type|score|saos_url
+176891|2014-05-22|SO|I ACa 388/14|Wyrok|56|https://www.saos.org.pl/judgments/176891

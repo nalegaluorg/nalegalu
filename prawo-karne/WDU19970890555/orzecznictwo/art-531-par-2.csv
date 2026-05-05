@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-518300|2024-04-22|SO|II Kz 58/24|Postanowienie|https://www.saos.org.pl/judgments/518300
-167436|2014-11-19|SN|V KK 219/14|Postanowienie|https://www.saos.org.pl/judgments/167436
-166602|2014-08-27|SN|IV KK 166/14|Postanowienie|https://www.saos.org.pl/judgments/166602
-98905|2012-08-30|SN|III KK 265/12|Postanowienie|https://www.saos.org.pl/judgments/98905
+saos_id|date|court|case_number|type|score|saos_url
+167436|2014-11-19|SN|V KK 219/14|Postanowienie|69|https://www.saos.org.pl/judgments/167436
+166602|2014-08-27|SN|IV KK 166/14|Postanowienie|69|https://www.saos.org.pl/judgments/166602
+98905|2012-08-30|SN|III KK 265/12|Postanowienie|69|https://www.saos.org.pl/judgments/98905

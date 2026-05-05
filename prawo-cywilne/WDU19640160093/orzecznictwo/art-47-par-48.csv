@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-499871|2023-05-24|SO|I Ca 212/23|Wyrok|https://www.saos.org.pl/judgments/499871
-461842|2021-04-28|SO|IX Ka 123/21|Wyrok|https://www.saos.org.pl/judgments/461842
-417921|2020-06-19|SO|I ACa 689/19|Wyrok|https://www.saos.org.pl/judgments/417921
-275806|2016-12-07|SO|I ACa 1081/15|Wyrok|https://www.saos.org.pl/judgments/275806
-256541|2016-10-27|SO|I C 220/14|Wyrok|https://www.saos.org.pl/judgments/256541
-243450|2015-10-09|SN|IV CSK 651/14|Wyrok|https://www.saos.org.pl/judgments/243450
-40619|2014-03-12|SO|VIII Ca 20/14|Wyrok|https://www.saos.org.pl/judgments/40619
-88458|2008-07-09|SN|V CSK 582/07|Wyrok|https://www.saos.org.pl/judgments/88458
-106431|2003-03-26|TK|Ts 29/02|Postanowienie|https://www.saos.org.pl/judgments/106431
+saos_id|date|court|case_number|type|score|saos_url
+106431|2003-03-26|TK|Ts 29/02|Postanowienie|80|https://www.saos.org.pl/judgments/106431
+243450|2015-10-09|SN|IV CSK 651/14|Wyrok|78|https://www.saos.org.pl/judgments/243450
+88458|2008-07-09|SN|V CSK 582/07|Wyrok|78|https://www.saos.org.pl/judgments/88458
+417921|2020-06-19|SO|I ACa 689/19|Wyrok|56|https://www.saos.org.pl/judgments/417921
+275806|2016-12-07|SO|I ACa 1081/15|Wyrok|56|https://www.saos.org.pl/judgments/275806

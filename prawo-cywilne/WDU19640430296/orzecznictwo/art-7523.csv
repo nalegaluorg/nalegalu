@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-65311|2014-09-05|SO|I ACa 455/14|Wyrok|https://www.saos.org.pl/judgments/65311
-62542|2014-07-11|SO|I ACa 1769/13|Wyrok|https://www.saos.org.pl/judgments/62542
-389023|2012-11-20|SO|I ACa 670/12|Wyrok|https://www.saos.org.pl/judgments/389023
+saos_id|date|court|case_number|type|score|saos_url
+65311|2014-09-05|SO|I ACa 455/14|Wyrok|56|https://www.saos.org.pl/judgments/65311
+62542|2014-07-11|SO|I ACa 1769/13|Wyrok|56|https://www.saos.org.pl/judgments/62542
+389023|2012-11-20|SO|I ACa 670/12|Wyrok|56|https://www.saos.org.pl/judgments/389023

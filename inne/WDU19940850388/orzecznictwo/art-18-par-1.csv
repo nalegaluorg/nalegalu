@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515483|2022-10-20|SO|XXIV C 758/18|Wyrok|https://www.saos.org.pl/judgments/515483
-431182|2020-02-05|SO|XXV C 1961/18|Wyrok|https://www.saos.org.pl/judgments/431182
-403055|2019-04-17|SO|I ACa 552/18|Wyrok|https://www.saos.org.pl/judgments/403055
-338871|2018-02-23|SO|II Ca 573/17|Wyrok|https://www.saos.org.pl/judgments/338871
-185591|2015-03-24|SO|III Cz 1973/14|Postanowienie|https://www.saos.org.pl/judgments/185591
-180740|2015-02-17|SO|III Cz 75/15|Postanowienie|https://www.saos.org.pl/judgments/180740
+saos_id|date|court|case_number|type|score|saos_url
+403055|2019-04-17|SO|I ACa 552/18|Wyrok|56|https://www.saos.org.pl/judgments/403055

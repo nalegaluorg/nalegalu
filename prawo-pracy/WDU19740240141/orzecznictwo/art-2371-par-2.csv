@@ -1,17 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-410871|2020-03-02|SO|VIII Pa 232/19|Uzasadnienie|https://www.saos.org.pl/judgments/410871
-334608|2018-03-14|SO|IV Ca 740/17|Wyrok|https://www.saos.org.pl/judgments/334608
-331471|2018-01-30|SO|VII Pa 127/17|Wyrok|https://www.saos.org.pl/judgments/331471
-310759|2017-10-02|SO|II C 437/14|Wyrok|https://www.saos.org.pl/judgments/310759
-310881|2017-09-27|SO|VII P 1071/14|Wyrok|https://www.saos.org.pl/judgments/310881
-304297|2017-07-20|SO|I ACa 1704/16|Wyrok|https://www.saos.org.pl/judgments/304297
-292787|2017-06-09|SO|V P 1/15|Wyrok|https://www.saos.org.pl/judgments/292787
-173081|2015-07-29|SO|VII Pa 127/15|Uzasadnienie|https://www.saos.org.pl/judgments/173081
-151482|2015-03-27|SO|III APa 53/14|Wyrok|https://www.saos.org.pl/judgments/151482
-51637|2014-06-23|SO|VII Pa 131/14|Uzasadnienie|https://www.saos.org.pl/judgments/51637
-165733|2014-04-10|SN|I PK 243/13|Wyrok|https://www.saos.org.pl/judgments/165733
-46034|2014-04-10|SO|III APa 57/13|Wyrok|https://www.saos.org.pl/judgments/46034
-19654|2013-08-21|SO|III AUa 173/13|Wyrok|https://www.saos.org.pl/judgments/19654
-92753|2010-08-10|SN|I PK 63/10|Postanowienie|https://www.saos.org.pl/judgments/92753
-90690|2009-08-05|SN|II PZ 6/09|Postanowienie|https://www.saos.org.pl/judgments/90690
-90214|2009-05-14|SN|I PZ 5/09|Postanowienie|https://www.saos.org.pl/judgments/90214
+saos_id|date|court|case_number|type|score|saos_url
+165733|2014-04-10|SN|I PK 243/13|Wyrok|78|https://www.saos.org.pl/judgments/165733
+92753|2010-08-10|SN|I PK 63/10|Postanowienie|69|https://www.saos.org.pl/judgments/92753
+90690|2009-08-05|SN|II PZ 6/09|Postanowienie|69|https://www.saos.org.pl/judgments/90690
+90214|2009-05-14|SN|I PZ 5/09|Postanowienie|69|https://www.saos.org.pl/judgments/90214
+304297|2017-07-20|SO|I ACa 1704/16|Wyrok|56|https://www.saos.org.pl/judgments/304297
+151482|2015-03-27|SO|III APa 53/14|Wyrok|56|https://www.saos.org.pl/judgments/151482
+46034|2014-04-10|SO|III APa 57/13|Wyrok|56|https://www.saos.org.pl/judgments/46034
+19654|2013-08-21|SO|III AUa 173/13|Wyrok|56|https://www.saos.org.pl/judgments/19654
+331471|2018-01-30|SO|VII Pa 127/17|Wyrok|40|https://www.saos.org.pl/judgments/331471
+310759|2017-10-02|SO|II C 437/14|Wyrok|40|https://www.saos.org.pl/judgments/310759
+410871|2020-03-02|SO|VIII Pa 232/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/410871
+173081|2015-07-29|SO|VII Pa 127/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/173081
+51637|2014-06-23|SO|VII Pa 131/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/51637

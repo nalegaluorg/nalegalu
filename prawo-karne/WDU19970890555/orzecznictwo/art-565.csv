@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-207457|2016-02-11|SO|IV Ka 9/16|Wyrok|https://www.saos.org.pl/judgments/207457
-158224|2015-05-13|SO|IV Ka 434/15|Wyrok|https://www.saos.org.pl/judgments/158224
-56961|2014-07-29|SO|IV Ka 576/14|Wyrok|https://www.saos.org.pl/judgments/56961
-49825|2014-05-30|SO|IV Ka 371/14|Wyrok|https://www.saos.org.pl/judgments/49825
-101913|2013-05-21|SN|WZ 8/13|Postanowienie|https://www.saos.org.pl/judgments/101913
-110915|2012-06-05|TK|K 18/09|Wyrok|https://www.saos.org.pl/judgments/110915
+saos_id|date|court|case_number|type|score|saos_url
+110915|2012-06-05|TK|K 18/09|Wyrok|98|https://www.saos.org.pl/judgments/110915
+101913|2013-05-21|SN|WZ 8/13|Postanowienie|69|https://www.saos.org.pl/judgments/101913
+207457|2016-02-11|SO|IV Ka 9/16|Wyrok|40|https://www.saos.org.pl/judgments/207457
+158224|2015-05-13|SO|IV Ka 434/15|Wyrok|40|https://www.saos.org.pl/judgments/158224
+56961|2014-07-29|SO|IV Ka 576/14|Wyrok|40|https://www.saos.org.pl/judgments/56961
+49825|2014-05-30|SO|IV Ka 371/14|Wyrok|40|https://www.saos.org.pl/judgments/49825

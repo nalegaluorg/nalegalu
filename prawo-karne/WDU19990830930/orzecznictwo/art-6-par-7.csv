@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-415808|2020-06-10|SO|II Ka 93/20|Wyrok|https://www.saos.org.pl/judgments/415808
-364776|2018-01-31|SO|II AKa 157/17|Wyrok|https://www.saos.org.pl/judgments/364776
-129771|2015-01-14|SO|II AKa 409/14|Wyrok|https://www.saos.org.pl/judgments/129771
+saos_id|date|court|case_number|type|score|saos_url
+364776|2018-01-31|SO|II AKa 157/17|Wyrok|56|https://www.saos.org.pl/judgments/364776
+129771|2015-01-14|SO|II AKa 409/14|Wyrok|56|https://www.saos.org.pl/judgments/129771

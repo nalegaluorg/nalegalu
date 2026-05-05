@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-305127|2016-04-19|SO|II Ca 1335/15|Wyrok|https://www.saos.org.pl/judgments/305127
-64131|2014-09-25|SO|IV Kz 457/14|Postanowienie|https://www.saos.org.pl/judgments/64131
-160177|2014-01-14|TK|SK 54/12|Postanowienie|https://www.saos.org.pl/judgments/160177
+saos_id|date|court|case_number|type|score|saos_url
+160177|2014-01-14|TK|SK 54/12|Postanowienie|80|https://www.saos.org.pl/judgments/160177
+64131|2014-09-25|SO|IV Kz 457/14|Postanowienie|31|https://www.saos.org.pl/judgments/64131

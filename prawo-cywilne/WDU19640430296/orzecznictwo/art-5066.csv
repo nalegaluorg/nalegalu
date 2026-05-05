@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-323453|2017-12-21|SO|I Ca 493/17|Wyrok|https://www.saos.org.pl/judgments/323453
-18954|2013-05-22|SO|VIII C 387/13|Wyrok|https://www.saos.org.pl/judgments/18954
+saos_id|date|court|case_number|type|score|saos_url
+415189|2019-11-07|SO|III Ca 1657/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/415189
+283832|2017-04-27|SO|III Ca 119/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/283832

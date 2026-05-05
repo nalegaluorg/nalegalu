@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-298878|2015-09-17|SO|I C 802/14|Uzasadnienie|https://www.saos.org.pl/judgments/298878
-98492|2012-06-28|SN|II PK 285/11|Wyrok|https://www.saos.org.pl/judgments/98492
+saos_id|date|court|case_number|type|score|saos_url
+98492|2012-06-28|SN|II PK 285/11|Wyrok|78|https://www.saos.org.pl/judgments/98492

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-499287|2023-12-22|SO|I C 766/19|Wyrok|https://www.saos.org.pl/judgments/499287
-197930|2015-12-31|SO|II Cz 661/15|Postanowienie|https://www.saos.org.pl/judgments/197930
-167751|2014-12-16|SN|SNO 56/14|Wyrok|https://www.saos.org.pl/judgments/167751
-85076|2007-01-24|SN|III CZP 147/06|Uchwała|https://www.saos.org.pl/judgments/85076
+saos_id|date|court|case_number|type|score|saos_url
+85076|2007-01-24|SN|III CZP 147/06|Uchwała|89|https://www.saos.org.pl/judgments/85076
+167751|2014-12-16|SN|SNO 56/14|Wyrok|78|https://www.saos.org.pl/judgments/167751

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244789|2016-03-02|SN|V KK 404/15|Postanowienie|https://www.saos.org.pl/judgments/244789
-243884|2015-11-16|SN|II KK 310/15|Postanowienie|https://www.saos.org.pl/judgments/243884
-167204|2014-11-07|SN|II KK 255/14|Postanowienie|https://www.saos.org.pl/judgments/167204
+saos_id|date|court|case_number|type|score|saos_url
+244789|2016-03-02|SN|V KK 404/15|Postanowienie|69|https://www.saos.org.pl/judgments/244789
+243884|2015-11-16|SN|II KK 310/15|Postanowienie|69|https://www.saos.org.pl/judgments/243884
+167204|2014-11-07|SN|II KK 255/14|Postanowienie|69|https://www.saos.org.pl/judgments/167204

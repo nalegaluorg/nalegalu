@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-164493|2006-09-08|SN|II CK 286/05|Wyrok|https://www.saos.org.pl/judgments/164493
-83741|2005-09-29|SN|I PK 531/03|Wyrok|https://www.saos.org.pl/judgments/83741
+saos_id|date|court|case_number|type|score|saos_url
+164493|2006-09-08|SN|II CK 286/05|Wyrok|78|https://www.saos.org.pl/judgments/164493
+83741|2005-09-29|SN|I PK 531/03|Wyrok|78|https://www.saos.org.pl/judgments/83741

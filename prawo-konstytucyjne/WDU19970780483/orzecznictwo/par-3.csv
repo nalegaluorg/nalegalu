@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-522065|2024-10-04|SO|VIII Pa 372/24|Uzasadnienie|https://www.saos.org.pl/judgments/522065
-522063|2024-10-04|SO|VIII Pa 310/24|Uzasadnienie|https://www.saos.org.pl/judgments/522063
-520519|2024-10-02|SO|VIII Pa 343/24|Uzasadnienie|https://www.saos.org.pl/judgments/520519
-520150|2024-10-01|SO|VIII Pa 342/24|Uzasadnienie|https://www.saos.org.pl/judgments/520150
-366061|2018-06-27|SO|II AKz 160/18|Postanowienie|https://www.saos.org.pl/judgments/366061
-194870|2015-12-21|SO|IV P 179/15|Wyrok|https://www.saos.org.pl/judgments/194870
-206694|2015-10-14|TK|Kp 1/15|Wyrok|https://www.saos.org.pl/judgments/206694
-169534|2015-06-11|SO|IV Pa 58/15|Wyrok|https://www.saos.org.pl/judgments/169534
-258458|2014-06-04|SO|IV C 680/13|Wyrok|https://www.saos.org.pl/judgments/258458
-25029|2013-10-03|SO|III AUa 80/13|Wyrok|https://www.saos.org.pl/judgments/25029
-13087|2013-05-09|SO|III AUa 1128/12|Wyrok|https://www.saos.org.pl/judgments/13087
-110906|2012-06-26|TK|K 8/12|Postanowienie|https://www.saos.org.pl/judgments/110906
+saos_id|date|court|case_number|type|score|saos_url
+206694|2015-10-14|TK|Kp 1/15|Wyrok|98|https://www.saos.org.pl/judgments/206694
+110906|2012-06-26|TK|K 8/12|Postanowienie|80|https://www.saos.org.pl/judgments/110906
+25029|2013-10-03|SO|III AUa 80/13|Wyrok|56|https://www.saos.org.pl/judgments/25029
+13087|2013-05-09|SO|III AUa 1128/12|Wyrok|56|https://www.saos.org.pl/judgments/13087
+366061|2018-06-27|SO|II AKz 160/18|Postanowienie|47|https://www.saos.org.pl/judgments/366061
+194870|2015-12-21|SO|IV P 179/15|Wyrok|40|https://www.saos.org.pl/judgments/194870
+169534|2015-06-11|SO|IV Pa 58/15|Wyrok|40|https://www.saos.org.pl/judgments/169534
+522065|2024-10-04|SO|VIII Pa 372/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/522065
+522063|2024-10-04|SO|VIII Pa 310/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/522063
+520519|2024-10-02|SO|VIII Pa 343/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/520519
+520150|2024-10-01|SO|VIII Pa 342/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/520150

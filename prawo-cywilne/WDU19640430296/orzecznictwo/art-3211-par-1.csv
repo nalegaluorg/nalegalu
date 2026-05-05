@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-460288|2021-12-07|SO|I ACa 793/20|Wyrok|https://www.saos.org.pl/judgments/460288
-456990|2021-07-12|SO|III Ca 1559/20|Uzasadnienie|https://www.saos.org.pl/judgments/456990
-92771|2010-08-19|SN|I CNP 6/10|Postanowienie|https://www.saos.org.pl/judgments/92771
+saos_id|date|court|case_number|type|score|saos_url
+92771|2010-08-19|SN|I CNP 6/10|Postanowienie|69|https://www.saos.org.pl/judgments/92771
+460288|2021-12-07|SO|I ACa 793/20|Wyrok|56|https://www.saos.org.pl/judgments/460288
+456990|2021-07-12|SO|III Ca 1559/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/456990

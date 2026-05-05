@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 11 lipca 2011 
 
 ## art. 194 (1)
 
-- 2013-06-13 | SN | [V CSK 329/12](https://www.saos.org.pl/judgments/102123) | Wyrok
+- 2013-06-13 | SN | [V CSK 329/12](https://www.saos.org.pl/judgments/102123) | Wyrok ★
 

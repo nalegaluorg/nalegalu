@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-364702|2018-11-19|SO|VI U 1455/17|Uzasadnienie|https://www.saos.org.pl/judgments/364702
-305635|2017-08-10|SO|III AUa 1184/16|Wyrok|https://www.saos.org.pl/judgments/305635
-407621|2017-03-23|SO|III APa 47/16|Wyrok|https://www.saos.org.pl/judgments/407621
-54862|2014-07-23|SO|IV Ka 550/14|Wyrok|https://www.saos.org.pl/judgments/54862
-3575|2012-11-21|SO|I ACa 593/12|Wyrok|https://www.saos.org.pl/judgments/3575
+saos_id|date|court|case_number|type|score|saos_url
+305635|2017-08-10|SO|III AUa 1184/16|Wyrok|56|https://www.saos.org.pl/judgments/305635
+407621|2017-03-23|SO|III APa 47/16|Wyrok|56|https://www.saos.org.pl/judgments/407621
+3575|2012-11-21|SO|I ACa 593/12|Wyrok|56|https://www.saos.org.pl/judgments/3575
+54862|2014-07-23|SO|IV Ka 550/14|Wyrok|40|https://www.saos.org.pl/judgments/54862

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-532619|2025-08-18|SO|VIII Pa 163/24|Uzasadnienie|https://www.saos.org.pl/judgments/532619
-474541|2022-08-16|SO|VIII Pa 45/22|Uzasadnienie|https://www.saos.org.pl/judgments/474541
-34004|2013-11-28|SO|V Pa 151/13|Wyrok|https://www.saos.org.pl/judgments/34004
+saos_id|date|court|case_number|type|score|saos_url
+34004|2013-11-28|SO|V Pa 151/13|Wyrok|40|https://www.saos.org.pl/judgments/34004
+532619|2025-08-18|SO|VIII Pa 163/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/532619
+474541|2022-08-16|SO|VIII Pa 45/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/474541

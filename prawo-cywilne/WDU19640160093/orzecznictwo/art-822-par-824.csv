@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-532143|2024-04-11|SO|III Ca 883/23|Uzasadnienie|https://www.saos.org.pl/judgments/532143
-531882|2024-03-18|SO|III Ca 456/23|Uzasadnienie|https://www.saos.org.pl/judgments/531882
-527571|2023-12-14|SO|III Ca 2708/22|Uzasadnienie|https://www.saos.org.pl/judgments/527571
-330512|2016-11-24|SO|II Ca 725/16|Wyrok|https://www.saos.org.pl/judgments/330512
-267581|2016-11-16|SO|I ACa 551/16|Wyrok|https://www.saos.org.pl/judgments/267581
-250344|2016-10-12|SO|XIII Ga 377/16|Uzasadnienie|https://www.saos.org.pl/judgments/250344
+saos_id|date|court|case_number|type|score|saos_url
+267581|2016-11-16|SO|I ACa 551/16|Wyrok|56|https://www.saos.org.pl/judgments/267581
+532143|2024-04-11|SO|III Ca 883/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/532143
+531882|2024-03-18|SO|III Ca 456/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/531882
+527571|2023-12-14|SO|III Ca 2708/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/527571
+250344|2016-10-12|SO|XIII Ga 377/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/250344

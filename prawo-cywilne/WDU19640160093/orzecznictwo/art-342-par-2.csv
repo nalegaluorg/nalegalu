@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-488147|2023-01-03|SO|II K 167/22|Wyrok|https://www.saos.org.pl/judgments/488147
-376623|2018-11-09|SO|I AGa 116/18|Wyrok|https://www.saos.org.pl/judgments/376623
-69079|2014-10-22|SO|I C 1175/13|Wyrok|https://www.saos.org.pl/judgments/69079
-138265|2013-04-11|SO|II Ca 1162/12|Wyrok|https://www.saos.org.pl/judgments/138265
+saos_id|date|court|case_number|type|score|saos_url
+376623|2018-11-09|SO|I AGa 116/18|Wyrok|56|https://www.saos.org.pl/judgments/376623

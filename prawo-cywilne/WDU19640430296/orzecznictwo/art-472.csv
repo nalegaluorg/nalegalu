@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-505690|2023-04-24|SO|III Ca 1491/21|Uzasadnienie|https://www.saos.org.pl/judgments/505690
-485761|2023-01-17|SO|III Ca 1065/22|Postanowienie|https://www.saos.org.pl/judgments/485761
-481654|2023-01-10|SO|III Ca 1046/22|Postanowienie|https://www.saos.org.pl/judgments/481654
-477131|2022-10-31|SO|III Cz 192/22|Postanowienie|https://www.saos.org.pl/judgments/477131
-477353|2022-08-18|SO|III Ca 594/22|Postanowienie|https://www.saos.org.pl/judgments/477353
-459287|2022-01-12|SO|III Ca 857/21|Postanowienie|https://www.saos.org.pl/judgments/459287
+saos_id|date|court|case_number|type|score|saos_url
+505690|2023-04-24|SO|III Ca 1491/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505690

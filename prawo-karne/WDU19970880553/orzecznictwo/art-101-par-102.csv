@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-104486|2014-02-19|SN|II KK 23/14|Wyrok|https://www.saos.org.pl/judgments/104486
-84023|2006-01-10|SN|V KK 295/05|Wyrok|https://www.saos.org.pl/judgments/84023
+saos_id|date|court|case_number|type|score|saos_url
+104486|2014-02-19|SN|II KK 23/14|Wyrok|78|https://www.saos.org.pl/judgments/104486
+84023|2006-01-10|SN|V KK 295/05|Wyrok|78|https://www.saos.org.pl/judgments/84023

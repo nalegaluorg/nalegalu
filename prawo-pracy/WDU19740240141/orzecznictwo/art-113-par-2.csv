@@ -1,3 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-240532|2016-06-29|SO|V Pa 72/15|Wyrok|https://www.saos.org.pl/judgments/240532
-231554|2016-02-04|SO|IV Pa 90/15|Wyrok|https://www.saos.org.pl/judgments/231554
+saos_id|date|court|case_number|type|score|saos_url
+102420|2013-07-09|SN|III KZ 37/13|Postanowienie|69|https://www.saos.org.pl/judgments/102420
+228242|2016-04-06|SO|I C 665/11|Wyrok|40|https://www.saos.org.pl/judgments/228242
+267710|2016-12-23|SO|III Ca 1194/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/267710

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-388442|2019-04-11|SO|III Ca 1764/18|Uzasadnienie|https://www.saos.org.pl/judgments/388442
-373453|2018-12-28|SO|III Ca 1441/18|Uzasadnienie|https://www.saos.org.pl/judgments/373453
-377934|2017-12-06|SO|II Ca 1782/17|Postanowienie|https://www.saos.org.pl/judgments/377934
-305396|2017-09-15|SO|II Cz 487/17|Postanowienie|https://www.saos.org.pl/judgments/305396
+saos_id|date|court|case_number|type|score|saos_url
+377934|2017-12-06|SO|II Ca 1782/17|Postanowienie|31|https://www.saos.org.pl/judgments/377934
+388442|2019-04-11|SO|III Ca 1764/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/388442
+373453|2018-12-28|SO|III Ca 1441/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/373453

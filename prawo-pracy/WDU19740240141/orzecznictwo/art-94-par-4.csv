@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-306003|2017-02-28|SO|IV P 11/16|Wyrok|https://www.saos.org.pl/judgments/306003
-309747|2017-02-22|SO|III APa 26/16|Wyrok|https://www.saos.org.pl/judgments/309747
-266743|2016-10-07|SO|III APa 16/16|Wyrok|https://www.saos.org.pl/judgments/266743
-382002|2012-12-21|SO|III APa 45/12|Wyrok|https://www.saos.org.pl/judgments/382002
-82551|2004-03-11|SN|II UK 260/03|Wyrok|https://www.saos.org.pl/judgments/82551
+saos_id|date|court|case_number|type|score|saos_url
+82551|2004-03-11|SN|II UK 260/03|Wyrok|78|https://www.saos.org.pl/judgments/82551
+309747|2017-02-22|SO|III APa 26/16|Wyrok|56|https://www.saos.org.pl/judgments/309747
+266743|2016-10-07|SO|III APa 16/16|Wyrok|56|https://www.saos.org.pl/judgments/266743
+382002|2012-12-21|SO|III APa 45/12|Wyrok|56|https://www.saos.org.pl/judgments/382002

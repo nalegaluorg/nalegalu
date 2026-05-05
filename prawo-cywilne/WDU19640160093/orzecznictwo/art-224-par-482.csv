@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-442246|2021-01-22|SO|II Ca 1336/20|Wyrok|https://www.saos.org.pl/judgments/442246
+saos_id|date|court|case_number|type|score|saos_url
+442246|2021-01-22|SO|II Ca 1336/20|Wyrok|40|https://www.saos.org.pl/judgments/442246

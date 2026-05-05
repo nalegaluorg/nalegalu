@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-455645|2021-10-27|SO|II AKa 304/21|Uzasadnienie|https://www.saos.org.pl/judgments/455645
+saos_id|date|court|case_number|type|score|saos_url
+455645|2021-10-27|SO|II AKa 304/21|Uzasadnienie|42|https://www.saos.org.pl/judgments/455645

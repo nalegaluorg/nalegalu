@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-476115|2022-09-09|SO|VIII U 1855/21|Zarządzenie|https://www.saos.org.pl/judgments/476115
-4598|2013-01-24|SO|III AUa 1110/12|Wyrok|https://www.saos.org.pl/judgments/4598
-15451|2013-01-09|SO|III AUa 639/12|Wyrok|https://www.saos.org.pl/judgments/15451
+saos_id|date|court|case_number|type|score|saos_url
+4598|2013-01-24|SO|III AUa 1110/12|Wyrok|56|https://www.saos.org.pl/judgments/4598
+15451|2013-01-09|SO|III AUa 639/12|Wyrok|56|https://www.saos.org.pl/judgments/15451
+476115|2022-09-09|SO|VIII U 1855/21|Zarządzenie|27|https://www.saos.org.pl/judgments/476115

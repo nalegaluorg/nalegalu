@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-485045|2017-01-26|SO|VII Pa 204/16|Wyrok|https://www.saos.org.pl/judgments/485045
+saos_id|date|court|case_number|type|score|saos_url
+485045|2017-01-26|SO|VII Pa 204/16|Wyrok|40|https://www.saos.org.pl/judgments/485045

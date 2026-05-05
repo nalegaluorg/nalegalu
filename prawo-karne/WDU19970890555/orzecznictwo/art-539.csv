@@ -1,16 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-492619|2023-07-28|SO|VI Ka 257/23|Wyrok|https://www.saos.org.pl/judgments/492619
-463276|2022-03-09|SO|II S 4/22|Postanowienie|https://www.saos.org.pl/judgments/463276
-419726|2020-06-17|SO|II AKa 64/20|Wyrok|https://www.saos.org.pl/judgments/419726
-405134|2019-09-23|SO|IV Ka 545/19|Wyrok|https://www.saos.org.pl/judgments/405134
-387435|2019-06-19|SO|II Ka 170/19|Wyrok|https://www.saos.org.pl/judgments/387435
-394618|2019-04-08|SO|V Ka 1604/18|Uzasadnienie|https://www.saos.org.pl/judgments/394618
-398904|2019-03-07|SO|II AKa 260/18|Wyrok|https://www.saos.org.pl/judgments/398904
-243936|2015-11-25|SN|II KK 176/15|Postanowienie|https://www.saos.org.pl/judgments/243936
-48065|2014-04-29|SO|I ACa 53/14|Wyrok|https://www.saos.org.pl/judgments/48065
-141869|2013-10-25|SO|I C 402/13|Wyrok|https://www.saos.org.pl/judgments/141869
-92311|2010-05-20|SN|V KO 47/10|Postanowienie|https://www.saos.org.pl/judgments/92311
-90783|2009-08-25|SN|V KK 93/09|Wyrok|https://www.saos.org.pl/judgments/90783
-83376|2005-05-06|SN|II KK 127/04|Postanowienie|https://www.saos.org.pl/judgments/83376
-82476|2004-02-03|SN|II KK 168/03|Postanowienie|https://www.saos.org.pl/judgments/82476
-80700|2001-06-27|SN|III KO 115/00|Postanowienie|https://www.saos.org.pl/judgments/80700
+saos_id|date|court|case_number|type|score|saos_url
+90783|2009-08-25|SN|V KK 93/09|Wyrok|78|https://www.saos.org.pl/judgments/90783
+243936|2015-11-25|SN|II KK 176/15|Postanowienie|69|https://www.saos.org.pl/judgments/243936
+92311|2010-05-20|SN|V KO 47/10|Postanowienie|69|https://www.saos.org.pl/judgments/92311
+83376|2005-05-06|SN|II KK 127/04|Postanowienie|69|https://www.saos.org.pl/judgments/83376
+82476|2004-02-03|SN|II KK 168/03|Postanowienie|69|https://www.saos.org.pl/judgments/82476
+80700|2001-06-27|SN|III KO 115/00|Postanowienie|69|https://www.saos.org.pl/judgments/80700
+419726|2020-06-17|SO|II AKa 64/20|Wyrok|56|https://www.saos.org.pl/judgments/419726
+398904|2019-03-07|SO|II AKa 260/18|Wyrok|56|https://www.saos.org.pl/judgments/398904
+48065|2014-04-29|SO|I ACa 53/14|Wyrok|56|https://www.saos.org.pl/judgments/48065
+463276|2022-03-09|SO|II S 4/22|Postanowienie|47|https://www.saos.org.pl/judgments/463276
+492619|2023-07-28|SO|VI Ka 257/23|Wyrok|40|https://www.saos.org.pl/judgments/492619
+394618|2019-04-08|SO|V Ka 1604/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/394618

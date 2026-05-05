@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 10 listopada 2
 
 ## art. 51 (1)
 
-- 2010-09-23 | SN | [III CSK 310/09](https://www.saos.org.pl/judgments/92955) | Wyrok
+- 2010-09-23 | SN | [III CSK 310/09](https://www.saos.org.pl/judgments/92955) | Wyrok ★
 
 ## art. 91 (1)
 
-- 2010-09-23 | SN | [III CSK 310/09](https://www.saos.org.pl/judgments/92955) | Wyrok
+- 2010-09-23 | SN | [III CSK 310/09](https://www.saos.org.pl/judgments/92955) | Wyrok ★
 
 ## art. 373 (1)
 

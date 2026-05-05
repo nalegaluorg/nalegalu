@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-433845|2020-05-14|SO|I ACa 127/20|Wyrok|https://www.saos.org.pl/judgments/433845
+saos_id|date|court|case_number|type|score|saos_url
+433845|2020-05-14|SO|I ACa 127/20|Wyrok|56|https://www.saos.org.pl/judgments/433845

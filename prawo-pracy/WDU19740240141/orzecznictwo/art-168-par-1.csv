@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-176001|2014-12-08|SO|VI P 409/11|Wyrok|https://www.saos.org.pl/judgments/176001
+saos_id|date|court|case_number|type|score|saos_url
+176001|2014-12-08|SO|VI P 409/11|Wyrok|40|https://www.saos.org.pl/judgments/176001

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-494082|2022-11-10|SO|I ACa 34/22|Wyrok|https://www.saos.org.pl/judgments/494082
-244641|2016-02-17|SN|WA 16/15|Wyrok|https://www.saos.org.pl/judgments/244641
-102757|2013-08-27|SN|WA 19/13|Wyrok|https://www.saos.org.pl/judgments/102757
-101964|2013-05-27|SN|WA 9/13|Wyrok|https://www.saos.org.pl/judgments/101964
+saos_id|date|court|case_number|type|score|saos_url
+244641|2016-02-17|SN|WA 16/15|Wyrok|78|https://www.saos.org.pl/judgments/244641
+102757|2013-08-27|SN|WA 19/13|Wyrok|78|https://www.saos.org.pl/judgments/102757
+101964|2013-05-27|SN|WA 9/13|Wyrok|78|https://www.saos.org.pl/judgments/101964
+494082|2022-11-10|SO|I ACa 34/22|Wyrok|56|https://www.saos.org.pl/judgments/494082

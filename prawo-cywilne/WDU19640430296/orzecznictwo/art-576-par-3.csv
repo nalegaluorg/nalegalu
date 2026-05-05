@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-518346|2023-10-16|SO|III Ca 1661/21|Uzasadnienie|https://www.saos.org.pl/judgments/518346
-391115|2019-08-06|SO|I Ca 228/19|Postanowienie|https://www.saos.org.pl/judgments/391115
-517311|2018-09-17|SO|II Ca 156/18|Postanowienie|https://www.saos.org.pl/judgments/517311
-348889|2018-07-06|SO|II Ca 525/18|Postanowienie|https://www.saos.org.pl/judgments/348889
-185255|2015-07-16|SO|III Ca 548/15|Uzasadnienie|https://www.saos.org.pl/judgments/185255
-156341|2015-05-27|SO|II Ca 194/15|Postanowienie|https://www.saos.org.pl/judgments/156341
-128487|2015-01-21|SO|I C 2078/14|Wyrok|https://www.saos.org.pl/judgments/128487
-70763|2014-10-23|SO|I C 562/12|Wyrok|https://www.saos.org.pl/judgments/70763
-178005|2014-02-28|SO|II Ca 976/13|Postanowienie|https://www.saos.org.pl/judgments/178005
+saos_id|date|court|case_number|type|score|saos_url
+178005|2014-02-28|SO|II Ca 976/13|Postanowienie|31|https://www.saos.org.pl/judgments/178005
+518346|2023-10-16|SO|III Ca 1661/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/518346
+185255|2015-07-16|SO|III Ca 548/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185255

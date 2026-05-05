@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-471251|2022-08-03|SO|II Ca 798/22|Wyrok|https://www.saos.org.pl/judgments/471251
-427697|2019-04-10|SO|I ACa 298/18|Wyrok|https://www.saos.org.pl/judgments/427697
-493525|2018-07-06|SO|I ACa 13/18|Wyrok|https://www.saos.org.pl/judgments/493525
-178345|2015-06-30|SO|IV Ua 11/15|Wyrok|https://www.saos.org.pl/judgments/178345
+saos_id|date|court|case_number|type|score|saos_url
+427697|2019-04-10|SO|I ACa 298/18|Wyrok|56|https://www.saos.org.pl/judgments/427697
+493525|2018-07-06|SO|I ACa 13/18|Wyrok|56|https://www.saos.org.pl/judgments/493525
+178345|2015-06-30|SO|IV Ua 11/15|Wyrok|40|https://www.saos.org.pl/judgments/178345

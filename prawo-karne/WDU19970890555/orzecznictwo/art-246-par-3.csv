@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-501010|2023-11-17|SO|II AKa 360/23|Wyrok|https://www.saos.org.pl/judgments/501010
-504300|2023-05-08|SO|II Kp 170/23|Postanowienie|https://www.saos.org.pl/judgments/504300
-484082|2023-01-17|SO|II AKa 120/22|Uzasadnienie|https://www.saos.org.pl/judgments/484082
-469782|2022-05-25|SO|II AKa 262/21|Wyrok|https://www.saos.org.pl/judgments/469782
-378326|2019-04-26|SO|II K 874/18|Wyrok|https://www.saos.org.pl/judgments/378326
-138196|2013-04-04|SO|II AKa 21/13|Uzasadnienie|https://www.saos.org.pl/judgments/138196
-108539|2008-02-05|TK|K 34/06|Wyrok|https://www.saos.org.pl/judgments/108539
-108083|2007-11-28|TK|K 39/07|Wyrok|https://www.saos.org.pl/judgments/108083
-84338|2006-05-23|SN|I KZP 5/06|Uchwała|https://www.saos.org.pl/judgments/84338
-106769|2004-12-06|TK|SK 29/04|Wyrok|https://www.saos.org.pl/judgments/106769
+saos_id|date|court|case_number|type|score|saos_url
+108539|2008-02-05|TK|K 34/06|Wyrok|98|https://www.saos.org.pl/judgments/108539
+108083|2007-11-28|TK|K 39/07|Wyrok|98|https://www.saos.org.pl/judgments/108083
+106769|2004-12-06|TK|SK 29/04|Wyrok|98|https://www.saos.org.pl/judgments/106769
+84338|2006-05-23|SN|I KZP 5/06|Uchwała|89|https://www.saos.org.pl/judgments/84338
+501010|2023-11-17|SO|II AKa 360/23|Wyrok|56|https://www.saos.org.pl/judgments/501010
+469782|2022-05-25|SO|II AKa 262/21|Wyrok|56|https://www.saos.org.pl/judgments/469782
+484082|2023-01-17|SO|II AKa 120/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/484082
+138196|2013-04-04|SO|II AKa 21/13|Uzasadnienie|42|https://www.saos.org.pl/judgments/138196

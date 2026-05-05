@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-189946|2015-11-09|SO|II Cz 736/15|Postanowienie|https://www.saos.org.pl/judgments/189946
-15173|2013-07-09|SO|I ACz 1163/13|Postanowienie|https://www.saos.org.pl/judgments/15173
+saos_id|date|court|case_number|type|score|saos_url
+15173|2013-07-09|SO|I ACz 1163/13|Postanowienie|47|https://www.saos.org.pl/judgments/15173

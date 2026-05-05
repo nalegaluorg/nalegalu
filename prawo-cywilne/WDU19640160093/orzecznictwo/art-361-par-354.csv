@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-458479|2022-02-07|SO|IX Ca 1473/21|Wyrok|https://www.saos.org.pl/judgments/458479
-344791|2018-02-22|SO|VI Ga 316/17|Wyrok|https://www.saos.org.pl/judgments/344791
-333056|2017-12-20|SO|V GC 226/17|Wyrok|https://www.saos.org.pl/judgments/333056
+saos_id|date|court|case_number|type|score|saos_url
+344791|2018-02-22|SO|VI Ga 316/17|Wyrok|40|https://www.saos.org.pl/judgments/344791

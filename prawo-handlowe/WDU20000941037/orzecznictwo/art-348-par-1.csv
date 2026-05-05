@@ -1,11 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-536153|2025-02-25|SO|I AGa 333/24|Wyrok|https://www.saos.org.pl/judgments/536153
-527704|2024-01-31|SO|I C 1914/23|Wyrok|https://www.saos.org.pl/judgments/527704
-454569|2021-06-24|SO|I C 594/20|Wyrok|https://www.saos.org.pl/judgments/454569
-334779|2017-10-20|SO|I ACa 602/17|Wyrok|https://www.saos.org.pl/judgments/334779
-357289|2016-08-18|SO|XX GC 755/14|Wyrok|https://www.saos.org.pl/judgments/357289
-71679|2014-08-28|SO|I ACa 486/14|Wyrok|https://www.saos.org.pl/judgments/71679
-37372|2013-11-12|SO|VIII Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/37372
-35609|2013-11-12|SO|VIII Pa 42/13|Wyrok|https://www.saos.org.pl/judgments/35609
-86217|2007-06-28|SN|IV CSK 110/07|Wyrok|https://www.saos.org.pl/judgments/86217
-82609|2004-04-16|SN|I CK 537/03|Wyrok|https://www.saos.org.pl/judgments/82609
+saos_id|date|court|case_number|type|score|saos_url
+86217|2007-06-28|SN|IV CSK 110/07|Wyrok|78|https://www.saos.org.pl/judgments/86217
+82609|2004-04-16|SN|I CK 537/03|Wyrok|78|https://www.saos.org.pl/judgments/82609
+536153|2025-02-25|SO|I AGa 333/24|Wyrok|56|https://www.saos.org.pl/judgments/536153
+334779|2017-10-20|SO|I ACa 602/17|Wyrok|56|https://www.saos.org.pl/judgments/334779
+71679|2014-08-28|SO|I ACa 486/14|Wyrok|56|https://www.saos.org.pl/judgments/71679

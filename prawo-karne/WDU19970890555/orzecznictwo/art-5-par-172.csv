@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-370880|2018-12-21|SO|II AKa 263/18|Wyrok|https://www.saos.org.pl/judgments/370880
-63187|2014-09-08|SO|II AKa 232/14|Wyrok|https://www.saos.org.pl/judgments/63187
-136350|2012-11-28|SO|II AKa 248/12|Wyrok|https://www.saos.org.pl/judgments/136350
-84240|2006-04-03|SN|V KK 316/05|Wyrok|https://www.saos.org.pl/judgments/84240
-83025|2004-11-30|SN|I KZP 25/04|Uchwała|https://www.saos.org.pl/judgments/83025
+saos_id|date|court|case_number|type|score|saos_url
+83025|2004-11-30|SN|I KZP 25/04|Uchwała|89|https://www.saos.org.pl/judgments/83025
+84240|2006-04-03|SN|V KK 316/05|Wyrok|78|https://www.saos.org.pl/judgments/84240
+370880|2018-12-21|SO|II AKa 263/18|Wyrok|56|https://www.saos.org.pl/judgments/370880
+63187|2014-09-08|SO|II AKa 232/14|Wyrok|56|https://www.saos.org.pl/judgments/63187
+136350|2012-11-28|SO|II AKa 248/12|Wyrok|56|https://www.saos.org.pl/judgments/136350

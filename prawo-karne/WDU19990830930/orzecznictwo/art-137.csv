@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-535050|2025-05-20|SO|IV Ka 232/25|Uzasadnienie|https://www.saos.org.pl/judgments/535050
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-134349|2015-02-05|SO|XI W 7455/12|Wyrok|https://www.saos.org.pl/judgments/134349
-57715|2014-02-12|SO|II AKa 294/13|Wyrok|https://www.saos.org.pl/judgments/57715
-83716|2005-09-21|SN|I KZP 23/05|Uchwała|https://www.saos.org.pl/judgments/83716
+saos_id|date|court|case_number|type|score|saos_url
+83716|2005-09-21|SN|I KZP 23/05|Uchwała|89|https://www.saos.org.pl/judgments/83716
+57715|2014-02-12|SO|II AKa 294/13|Wyrok|56|https://www.saos.org.pl/judgments/57715
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902

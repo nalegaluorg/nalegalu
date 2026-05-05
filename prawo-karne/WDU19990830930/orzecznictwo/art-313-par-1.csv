@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-337889|2017-12-08|SO|III K 427/17|Uzasadnienie|https://www.saos.org.pl/judgments/337889
-251783|2016-09-07|SO|V W 2548/16|Wyrok|https://www.saos.org.pl/judgments/251783
-138951|2013-04-18|SO|II AKa 96/13|Wyrok|https://www.saos.org.pl/judgments/138951
+saos_id|date|court|case_number|type|score|saos_url
+138951|2013-04-18|SO|II AKa 96/13|Wyrok|56|https://www.saos.org.pl/judgments/138951

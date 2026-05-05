@@ -1,21 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-539671|2025-10-22|SO|I C 795/22|Wyrok|https://www.saos.org.pl/judgments/539671
-531078|2024-09-04|SO|I C 101/24|Wyrok|https://www.saos.org.pl/judgments/531078
-518125|2022-11-07|SO|V GC 496/21|Wyrok|https://www.saos.org.pl/judgments/518125
-527394|2022-02-10|SO|II Ca 1521/21|Zarządzenie|https://www.saos.org.pl/judgments/527394
-482279|2022-02-10|SO|XXIII Gz 1428/21|Postanowienie|https://www.saos.org.pl/judgments/482279
-466847|2021-12-06|SO|VIII GC 1792/20|Wyrok|https://www.saos.org.pl/judgments/466847
-430789|2021-01-07|SO|XI GC 758/20|Zarządzenie|https://www.saos.org.pl/judgments/430789
-426100|2020-03-09|SO|III Ca 1721/19|Uzasadnienie|https://www.saos.org.pl/judgments/426100
-379861|2019-03-28|SO|V Pa 68/18|Wyrok|https://www.saos.org.pl/judgments/379861
-369919|2019-01-18|SO|XI GC 2069/18|Wyrok|https://www.saos.org.pl/judgments/369919
-465583|2018-10-11|SO|VII Ga 328/18|Wyrok|https://www.saos.org.pl/judgments/465583
-350035|2018-07-31|SO|VIII Ga 219/18|Uzasadnienie|https://www.saos.org.pl/judgments/350035
-311952|2017-10-23|SO|I C 826/16|Wyrok|https://www.saos.org.pl/judgments/311952
-292559|2017-06-09|SO|VIII Ga 215/17|Wyrok|https://www.saos.org.pl/judgments/292559
-296646|2017-05-19|SO|VIII GC 2113/15|Wyrok|https://www.saos.org.pl/judgments/296646
-287443|2017-04-24|SO|VIII Ga 44/17|Uzasadnienie|https://www.saos.org.pl/judgments/287443
-258347|2016-12-12|SO|XIII Ga 459/16|Uzasadnienie|https://www.saos.org.pl/judgments/258347
-280111|2016-12-01|SO|XXVII Ca 3352/16|Postanowienie|https://www.saos.org.pl/judgments/280111
-350608|2016-06-03|SO|IX Ga 13/16|Wyrok|https://www.saos.org.pl/judgments/350608
-127535|2014-09-22|SO|XV GC 4912/13|Zarządzenie|https://www.saos.org.pl/judgments/127535
+saos_id|date|court|case_number|type|score|saos_url
+471809|2022-03-16|SO|VI P 418/20|Wyrok|40|https://www.saos.org.pl/judgments/471809
+346026|2018-06-07|SO|VIII C 324/18|Wyrok|40|https://www.saos.org.pl/judgments/346026
+305820|2017-09-18|SO|III Ca 924/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/305820
+303307|2017-08-14|SO|III Ca 799/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303307

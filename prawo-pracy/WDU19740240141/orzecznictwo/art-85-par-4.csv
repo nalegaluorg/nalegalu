@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-318941|2017-09-13|SO|III APa 11/17|Wyrok|https://www.saos.org.pl/judgments/318941
-287697|2017-05-31|SO|IX P 317/16|Zarządzenie|https://www.saos.org.pl/judgments/287697
-188190|2015-10-30|SO|VII Pa 109/15|Wyrok|https://www.saos.org.pl/judgments/188190
-243618|2015-10-21|SN|I PK 303/14|Wyrok|https://www.saos.org.pl/judgments/243618
-36298|2014-02-12|SO|II Ka 18/14|Wyrok|https://www.saos.org.pl/judgments/36298
-102255|2013-06-24|SN|II PK 347/12|Wyrok|https://www.saos.org.pl/judgments/102255
-93614|2010-12-02|SN|II PK 126/10|Wyrok|https://www.saos.org.pl/judgments/93614
-92404|2010-06-08|SN|I PK 31/10|Wyrok|https://www.saos.org.pl/judgments/92404
-92323|2010-05-25|SN|I PZP 4/10|Uchwała|https://www.saos.org.pl/judgments/92323
-79578|2000-03-24|SN|I PKN 634/98|Wyrok|https://www.saos.org.pl/judgments/79578
+saos_id|date|court|case_number|type|score|saos_url
+92323|2010-05-25|SN|I PZP 4/10|Uchwała|89|https://www.saos.org.pl/judgments/92323
+243618|2015-10-21|SN|I PK 303/14|Wyrok|78|https://www.saos.org.pl/judgments/243618
+102255|2013-06-24|SN|II PK 347/12|Wyrok|78|https://www.saos.org.pl/judgments/102255
+93614|2010-12-02|SN|II PK 126/10|Wyrok|78|https://www.saos.org.pl/judgments/93614
+92404|2010-06-08|SN|I PK 31/10|Wyrok|78|https://www.saos.org.pl/judgments/92404
+79578|2000-03-24|SN|I PKN 634/98|Wyrok|78|https://www.saos.org.pl/judgments/79578
+318941|2017-09-13|SO|III APa 11/17|Wyrok|56|https://www.saos.org.pl/judgments/318941

@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-62002|2014-02-14|SO|VI ACa 838/13|Wyrok|https://www.saos.org.pl/judgments/62002
-103848|2013-12-13|SN|III CZP 73/13|Uchwała|https://www.saos.org.pl/judgments/103848
-27504|2013-06-19|SO|VI ACa 1494/12|Wyrok|https://www.saos.org.pl/judgments/27504
-4855|2012-09-26|SO|VI ACa 460/12|Wyrok|https://www.saos.org.pl/judgments/4855
-1203|2012-09-14|SO|VI ACa 406/12|Wyrok|https://www.saos.org.pl/judgments/1203
-149761|2012-08-16|SO|XVII AmC 1039/09|Uzasadnienie|https://www.saos.org.pl/judgments/149761
-265800|2012-06-12|SO|XVII AmC 1039/09|Wyrok|https://www.saos.org.pl/judgments/265800
-93900|2011-01-13|SN|III CZP 119/10|Uchwała|https://www.saos.org.pl/judgments/93900
-163995|2006-02-03|SN|I CK 297/05|Wyrok|https://www.saos.org.pl/judgments/163995
+saos_id|date|court|case_number|type|score|saos_url
+103848|2013-12-13|SN|III CZP 73/13|Uchwała|89|https://www.saos.org.pl/judgments/103848
+93900|2011-01-13|SN|III CZP 119/10|Uchwała|89|https://www.saos.org.pl/judgments/93900
+163995|2006-02-03|SN|I CK 297/05|Wyrok|78|https://www.saos.org.pl/judgments/163995
+62002|2014-02-14|SO|VI ACa 838/13|Wyrok|56|https://www.saos.org.pl/judgments/62002
+27504|2013-06-19|SO|VI ACa 1494/12|Wyrok|56|https://www.saos.org.pl/judgments/27504
+4855|2012-09-26|SO|VI ACa 460/12|Wyrok|56|https://www.saos.org.pl/judgments/4855
+1203|2012-09-14|SO|VI ACa 406/12|Wyrok|56|https://www.saos.org.pl/judgments/1203

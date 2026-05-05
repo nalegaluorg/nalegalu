@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-101207|2013-03-27|SN|II KK 51/13|Wyrok|https://www.saos.org.pl/judgments/101207
+saos_id|date|court|case_number|type|score|saos_url
+101207|2013-03-27|SN|II KK 51/13|Wyrok|78|https://www.saos.org.pl/judgments/101207

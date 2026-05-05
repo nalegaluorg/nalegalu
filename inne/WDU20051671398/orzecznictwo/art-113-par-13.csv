@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-192356|2015-12-03|SO|I ACa 641/15|Wyrok|https://www.saos.org.pl/judgments/192356
-173221|2015-04-27|SO|III Ca 1854/14|Uzasadnienie|https://www.saos.org.pl/judgments/173221
-158381|2015-03-12|SO|III Ca 1519/14|Uzasadnienie|https://www.saos.org.pl/judgments/158381
-62476|2014-08-04|SO|III Ca 328/14|Uzasadnienie|https://www.saos.org.pl/judgments/62476
-28750|2013-11-14|SO|I ACa 620/13|Wyrok|https://www.saos.org.pl/judgments/28750
-16534|2013-04-25|SO|I ACa 67/13|Wyrok|https://www.saos.org.pl/judgments/16534
-12376|2013-04-11|SO|I ACa 34/13|Wyrok|https://www.saos.org.pl/judgments/12376
-9285|2012-12-11|SO|I ACa 652/12|Wyrok|https://www.saos.org.pl/judgments/9285
+saos_id|date|court|case_number|type|score|saos_url
+192356|2015-12-03|SO|I ACa 641/15|Wyrok|56|https://www.saos.org.pl/judgments/192356
+28750|2013-11-14|SO|I ACa 620/13|Wyrok|56|https://www.saos.org.pl/judgments/28750
+16534|2013-04-25|SO|I ACa 67/13|Wyrok|56|https://www.saos.org.pl/judgments/16534
+12376|2013-04-11|SO|I ACa 34/13|Wyrok|56|https://www.saos.org.pl/judgments/12376
+9285|2012-12-11|SO|I ACa 652/12|Wyrok|56|https://www.saos.org.pl/judgments/9285
+173221|2015-04-27|SO|III Ca 1854/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/173221
+158381|2015-03-12|SO|III Ca 1519/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/158381
+62476|2014-08-04|SO|III Ca 328/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62476

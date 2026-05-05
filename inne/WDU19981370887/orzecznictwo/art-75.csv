@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|https://www.saos.org.pl/judgments/476726
-323284|2017-11-07|SO|VII U 295/16|Wyrok|https://www.saos.org.pl/judgments/323284
-254653|2016-04-15|SO|III U 222/16|Wyrok|https://www.saos.org.pl/judgments/254653
-47404|2014-03-07|SO|VII U 81/14|Wyrok|https://www.saos.org.pl/judgments/47404
-127886|2013-09-17|SO|VII U 1181/13|Wyrok|https://www.saos.org.pl/judgments/127886
+saos_id|date|court|case_number|type|score|saos_url
+323284|2017-11-07|SO|VII U 295/16|Wyrok|40|https://www.saos.org.pl/judgments/323284
+476726|2022-10-18|SO|VIII U 791/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/476726

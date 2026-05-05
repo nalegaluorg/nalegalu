@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-220835|2016-01-27|SO|III AUa 38/15|Wyrok|https://www.saos.org.pl/judgments/220835
-239784|2014-07-29|SO|VIII U 336/14|Wyrok|https://www.saos.org.pl/judgments/239784
+saos_id|date|court|case_number|type|score|saos_url
+220835|2016-01-27|SO|III AUa 38/15|Wyrok|56|https://www.saos.org.pl/judgments/220835

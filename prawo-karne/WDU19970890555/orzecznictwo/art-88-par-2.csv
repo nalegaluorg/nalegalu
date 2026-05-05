@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-91113|2009-10-28|SN|I KZP 23/09|Postanowienie|https://www.saos.org.pl/judgments/91113
-109447|2009-10-13|TK|Ts 255/08|Postanowienie|https://www.saos.org.pl/judgments/109447
-89946|2009-03-25|SN|IV KZ 13/09|Postanowienie|https://www.saos.org.pl/judgments/89946
-88736|2008-09-23|SN|I KZP 21/08|Postanowienie|https://www.saos.org.pl/judgments/88736
-107700|2006-07-27|TK|SK 43/04|Wyrok|https://www.saos.org.pl/judgments/107700
-84361|2006-06-09|SN|I KZP 10/06|Uchwała|https://www.saos.org.pl/judgments/84361
-84340|2006-05-23|SN|I KZP 7/06|Uchwała|https://www.saos.org.pl/judgments/84340
-106938|2004-07-12|TK|Ts 100/04|Postanowienie|https://www.saos.org.pl/judgments/106938
-82341|2003-11-26|SN|I KZP 28/03|Postanowienie|https://www.saos.org.pl/judgments/82341
-105986|2001-11-27|TK|Ts 134/01|Postanowienie|https://www.saos.org.pl/judgments/105986
+saos_id|date|court|case_number|type|score|saos_url
+107700|2006-07-27|TK|SK 43/04|Wyrok|98|https://www.saos.org.pl/judgments/107700
+84340|2006-05-23|SN|I KZP 7/06|Uchwała|96|https://www.saos.org.pl/judgments/84340
+84361|2006-06-09|SN|I KZP 10/06|Uchwała|89|https://www.saos.org.pl/judgments/84361
+109447|2009-10-13|TK|Ts 255/08|Postanowienie|80|https://www.saos.org.pl/judgments/109447
+106938|2004-07-12|TK|Ts 100/04|Postanowienie|80|https://www.saos.org.pl/judgments/106938
+105986|2001-11-27|TK|Ts 134/01|Postanowienie|80|https://www.saos.org.pl/judgments/105986
+91113|2009-10-28|SN|I KZP 23/09|Postanowienie|69|https://www.saos.org.pl/judgments/91113
+89946|2009-03-25|SN|IV KZ 13/09|Postanowienie|69|https://www.saos.org.pl/judgments/89946
+88736|2008-09-23|SN|I KZP 21/08|Postanowienie|69|https://www.saos.org.pl/judgments/88736
+82341|2003-11-26|SN|I KZP 28/03|Postanowienie|69|https://www.saos.org.pl/judgments/82341

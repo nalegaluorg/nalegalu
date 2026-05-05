@@ -1,27 +1,26 @@
-saos_id|date|court|case_number|type|saos_url
-445883|2021-04-19|SO|I AGa 261/19|Wyrok|https://www.saos.org.pl/judgments/445883
-423190|2020-03-02|SO|I C 684/13|Wyrok|https://www.saos.org.pl/judgments/423190
-279611|2016-09-21|SO|I C 529/16|Postanowienie|https://www.saos.org.pl/judgments/279611
-104529|2014-02-19|SN|V CZ 8/14|Postanowienie|https://www.saos.org.pl/judgments/104529
-19951|2013-08-07|SO|I ACa 292/13|Wyrok|https://www.saos.org.pl/judgments/19951
-109081|2009-11-25|TK|SK 16/09|Postanowienie|https://www.saos.org.pl/judgments/109081
-109461|2009-06-01|TK|Ts 267/07|Postanowienie|https://www.saos.org.pl/judgments/109461
-109257|2009-03-10|TK|Ts 120/07|Postanowienie|https://www.saos.org.pl/judgments/109257
-108561|2008-12-16|TK|P 4/07|Postanowienie|https://www.saos.org.pl/judgments/108561
-108646|2008-11-17|TK|SK 33/07|Wyrok|https://www.saos.org.pl/judgments/108646
-86851|2007-11-21|SN|I CZ 129/07|Postanowienie|https://www.saos.org.pl/judgments/86851
-86123|2007-06-19|SN|III CZP 48/07|Uchwała|https://www.saos.org.pl/judgments/86123
-85955|2007-05-30|SN|I CZ 35/07|Postanowienie|https://www.saos.org.pl/judgments/85955
-85933|2007-05-24|SN|II CZ 34/07|Postanowienie|https://www.saos.org.pl/judgments/85933
-85857|2007-05-18|SN|I CZ 32/07|Postanowienie|https://www.saos.org.pl/judgments/85857
-85567|2007-03-29|SN|II PZ 3/07|Postanowienie|https://www.saos.org.pl/judgments/85567
-85283|2007-02-22|SN|I UZ 48/06|Postanowienie|https://www.saos.org.pl/judgments/85283
-85129|2007-02-02|SN|IV CZ 2/07|Postanowienie|https://www.saos.org.pl/judgments/85129
-84967|2007-01-10|SN|III CZP 134/06|Uchwała|https://www.saos.org.pl/judgments/84967
-84913|2007-01-10|SN|I CZ 109/06|Postanowienie|https://www.saos.org.pl/judgments/84913
-84871|2006-12-18|SN|II PZ 59/06|Postanowienie|https://www.saos.org.pl/judgments/84871
-164691|2006-11-23|SN|IV CZ 89/06|Postanowienie|https://www.saos.org.pl/judgments/164691
-84710|2006-11-10|SN|III UZ 10/06|Postanowienie|https://www.saos.org.pl/judgments/84710
-84598|2006-09-26|SN|II UZP 11/06|Uchwała|https://www.saos.org.pl/judgments/84598
-84559|2006-09-13|SN|II PZ 27/06|Postanowienie|https://www.saos.org.pl/judgments/84559
-84354|2006-06-02|SN|II UZ 14/06|Postanowienie|https://www.saos.org.pl/judgments/84354
+saos_id|date|court|case_number|type|score|saos_url
+108646|2008-11-17|TK|SK 33/07|Wyrok|98|https://www.saos.org.pl/judgments/108646
+86123|2007-06-19|SN|III CZP 48/07|Uchwała|89|https://www.saos.org.pl/judgments/86123
+84967|2007-01-10|SN|III CZP 134/06|Uchwała|89|https://www.saos.org.pl/judgments/84967
+84598|2006-09-26|SN|II UZP 11/06|Uchwała|89|https://www.saos.org.pl/judgments/84598
+109081|2009-11-25|TK|SK 16/09|Postanowienie|80|https://www.saos.org.pl/judgments/109081
+109461|2009-06-01|TK|Ts 267/07|Postanowienie|80|https://www.saos.org.pl/judgments/109461
+109257|2009-03-10|TK|Ts 120/07|Postanowienie|80|https://www.saos.org.pl/judgments/109257
+108561|2008-12-16|TK|P 4/07|Postanowienie|80|https://www.saos.org.pl/judgments/108561
+104529|2014-02-19|SN|V CZ 8/14|Postanowienie|69|https://www.saos.org.pl/judgments/104529
+86851|2007-11-21|SN|I CZ 129/07|Postanowienie|69|https://www.saos.org.pl/judgments/86851
+85955|2007-05-30|SN|I CZ 35/07|Postanowienie|69|https://www.saos.org.pl/judgments/85955
+85933|2007-05-24|SN|II CZ 34/07|Postanowienie|69|https://www.saos.org.pl/judgments/85933
+85857|2007-05-18|SN|I CZ 32/07|Postanowienie|69|https://www.saos.org.pl/judgments/85857
+85567|2007-03-29|SN|II PZ 3/07|Postanowienie|69|https://www.saos.org.pl/judgments/85567
+85283|2007-02-22|SN|I UZ 48/06|Postanowienie|69|https://www.saos.org.pl/judgments/85283
+85129|2007-02-02|SN|IV CZ 2/07|Postanowienie|69|https://www.saos.org.pl/judgments/85129
+84913|2007-01-10|SN|I CZ 109/06|Postanowienie|69|https://www.saos.org.pl/judgments/84913
+84871|2006-12-18|SN|II PZ 59/06|Postanowienie|69|https://www.saos.org.pl/judgments/84871
+164691|2006-11-23|SN|IV CZ 89/06|Postanowienie|69|https://www.saos.org.pl/judgments/164691
+84710|2006-11-10|SN|III UZ 10/06|Postanowienie|69|https://www.saos.org.pl/judgments/84710
+84559|2006-09-13|SN|II PZ 27/06|Postanowienie|69|https://www.saos.org.pl/judgments/84559
+84354|2006-06-02|SN|II UZ 14/06|Postanowienie|69|https://www.saos.org.pl/judgments/84354
+445883|2021-04-19|SO|I AGa 261/19|Wyrok|56|https://www.saos.org.pl/judgments/445883
+19951|2013-08-07|SO|I ACa 292/13|Wyrok|56|https://www.saos.org.pl/judgments/19951
+423190|2020-03-02|SO|I C 684/13|Wyrok|40|https://www.saos.org.pl/judgments/423190

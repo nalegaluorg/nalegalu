@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-500828|2023-03-09|SO|II AKa 272/22|Wyrok|https://www.saos.org.pl/judgments/500828
-277617|2016-09-28|SO|III APz 27/16|Postanowienie|https://www.saos.org.pl/judgments/277617
-243845|2015-11-19|SN|IV KK 343/15|Postanowienie|https://www.saos.org.pl/judgments/243845
-151740|2015-05-06|SO|II Ka 72/15|Wyrok|https://www.saos.org.pl/judgments/151740
-206812|2015-03-10|TK|SK 65/13|Postanowienie|https://www.saos.org.pl/judgments/206812
+saos_id|date|court|case_number|type|score|saos_url
+206812|2015-03-10|TK|SK 65/13|Postanowienie|80|https://www.saos.org.pl/judgments/206812
+243845|2015-11-19|SN|IV KK 343/15|Postanowienie|69|https://www.saos.org.pl/judgments/243845
+500828|2023-03-09|SO|II AKa 272/22|Wyrok|56|https://www.saos.org.pl/judgments/500828
+277617|2016-09-28|SO|III APz 27/16|Postanowienie|47|https://www.saos.org.pl/judgments/277617

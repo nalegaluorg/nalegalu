@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 16 listopada 2000 r. o zmianie ustawy o 
 
 ## art. 1 (1)
 
-- 2004-07-06 | TK | [P 14/03](https://www.saos.org.pl/judgments/106737) | Wyrok
+- 2004-07-06 | TK | [P 14/03](https://www.saos.org.pl/judgments/106737) | Wyrok ★
 

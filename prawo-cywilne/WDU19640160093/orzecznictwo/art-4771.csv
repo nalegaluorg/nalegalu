@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-76055|2014-12-16|SO|III Pa 27/14|Wyrok|https://www.saos.org.pl/judgments/76055
-30519|2013-09-23|SO|III Pa 8/13|Wyrok|https://www.saos.org.pl/judgments/30519
-393878|2013-08-01|SO|VI Pa 54/13|Wyrok|https://www.saos.org.pl/judgments/393878
-98086|2012-05-17|SN|I PK 176/11|Wyrok|https://www.saos.org.pl/judgments/98086
+saos_id|date|court|case_number|type|score|saos_url
+98086|2012-05-17|SN|I PK 176/11|Wyrok|78|https://www.saos.org.pl/judgments/98086

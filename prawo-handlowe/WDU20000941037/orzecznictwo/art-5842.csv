@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-455733|2018-12-05|SO|III AUa 480/18|Wyrok|https://www.saos.org.pl/judgments/455733
-362704|2018-06-15|SO|IX GC 1970/17|Uzasadnienie|https://www.saos.org.pl/judgments/362704
-371556|2018-05-21|SO|IX GC 1570/17|Uzasadnienie|https://www.saos.org.pl/judgments/371556
-224350|2016-03-10|SO|I ACa 45/16|Wyrok|https://www.saos.org.pl/judgments/224350
+saos_id|date|court|case_number|type|score|saos_url
+455733|2018-12-05|SO|III AUa 480/18|Wyrok|56|https://www.saos.org.pl/judgments/455733
+224350|2016-03-10|SO|I ACa 45/16|Wyrok|56|https://www.saos.org.pl/judgments/224350

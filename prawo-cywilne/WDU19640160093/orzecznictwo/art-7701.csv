@@ -1,3 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-191834|2015-11-06|SO|I C 426/13|Uzasadnienie|https://www.saos.org.pl/judgments/191834
-140886|2013-06-14|SO|I C 203/12|Wyrok|https://www.saos.org.pl/judgments/140886
+saos_id|date|court|case_number|type|score|saos_url
+109494|2009-10-29|TK|Ts 293/08|Postanowienie|80|https://www.saos.org.pl/judgments/109494
+109492|2009-01-20|TK|Ts 293/08|Postanowienie|80|https://www.saos.org.pl/judgments/109492
+165056|2008-12-03|SN|V CSK 293/08|Wyrok|78|https://www.saos.org.pl/judgments/165056
+95995|2011-10-14|SN|III CZP 50/11|Postanowienie|69|https://www.saos.org.pl/judgments/95995
+294239|2017-06-29|SO|I ACa 910/16|Wyrok|56|https://www.saos.org.pl/judgments/294239
+38767|2013-11-28|SO|I ACa 310/13|Wyrok|56|https://www.saos.org.pl/judgments/38767
+26608|2013-09-24|SO|V ACa 461/13|Wyrok|56|https://www.saos.org.pl/judgments/26608
+363708|2018-11-06|SO|II C 580/17|Wyrok|40|https://www.saos.org.pl/judgments/363708
+310598|2017-09-26|SO|II C 282/17|Wyrok|40|https://www.saos.org.pl/judgments/310598
+274010|2017-02-13|SO|II C 575/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/274010

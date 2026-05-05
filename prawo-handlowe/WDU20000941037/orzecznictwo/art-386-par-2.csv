@@ -1,14 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-481503|2022-11-28|SO|VIII GC 129/22|Uzasadnienie|https://www.saos.org.pl/judgments/481503
-417927|2020-03-13|SO|I AGa 120/19|Wyrok|https://www.saos.org.pl/judgments/417927
-379731|2019-01-03|SO|V ACa 716/17|Wyrok|https://www.saos.org.pl/judgments/379731
-364324|2018-11-08|SO|V ACa 785/17|Wyrok|https://www.saos.org.pl/judgments/364324
-357581|2018-04-09|SO|XVI GC 428/16|Wyrok|https://www.saos.org.pl/judgments/357581
-335908|2017-11-20|SO|XXVI GC 988/15|Wyrok|https://www.saos.org.pl/judgments/335908
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-530382|2014-12-12|SO|III APa 37/14|Wyrok|https://www.saos.org.pl/judgments/530382
-55973|2014-07-03|SO|VIII Ga 43/14|Uzasadnienie|https://www.saos.org.pl/judgments/55973
-50789|2014-04-09|SO|XII Ga 597/13|Postanowienie|https://www.saos.org.pl/judgments/50789
-13678|2013-05-29|SO|I ACa 147/13|Wyrok|https://www.saos.org.pl/judgments/13678
-91190|2009-11-03|SN|II CSK 181/09|Wyrok|https://www.saos.org.pl/judgments/91190
-86763|2007-10-24|SN|IV CSK 260/07|Wyrok|https://www.saos.org.pl/judgments/86763
+saos_id|date|court|case_number|type|score|saos_url
+91190|2009-11-03|SN|II CSK 181/09|Wyrok|78|https://www.saos.org.pl/judgments/91190
+86763|2007-10-24|SN|IV CSK 260/07|Wyrok|78|https://www.saos.org.pl/judgments/86763
+417927|2020-03-13|SO|I AGa 120/19|Wyrok|56|https://www.saos.org.pl/judgments/417927
+379731|2019-01-03|SO|V ACa 716/17|Wyrok|56|https://www.saos.org.pl/judgments/379731
+364324|2018-11-08|SO|V ACa 785/17|Wyrok|56|https://www.saos.org.pl/judgments/364324
+530382|2014-12-12|SO|III APa 37/14|Wyrok|56|https://www.saos.org.pl/judgments/530382
+13678|2013-05-29|SO|I ACa 147/13|Wyrok|56|https://www.saos.org.pl/judgments/13678
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850
+50789|2014-04-09|SO|XII Ga 597/13|Postanowienie|31|https://www.saos.org.pl/judgments/50789

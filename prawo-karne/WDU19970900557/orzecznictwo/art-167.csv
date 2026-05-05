@@ -1,10 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-351240|2018-07-12|SO|IV Kow 694/18|Postanowienie|https://www.saos.org.pl/judgments/351240
-351237|2018-07-12|SO|IV Kow 503/18|Postanowienie|https://www.saos.org.pl/judgments/351237
-351236|2018-07-12|SO|IV Kow 487/18|Postanowienie|https://www.saos.org.pl/judgments/351236
-351235|2018-07-12|SO|IV Kow 479/18|Postanowienie|https://www.saos.org.pl/judgments/351235
-351234|2018-07-12|SO|IV Kow 456/18|Postanowienie|https://www.saos.org.pl/judgments/351234
-324018|2017-12-18|SO|IV Kow 1394/17|Postanowienie|https://www.saos.org.pl/judgments/324018
-267559|2016-11-25|SO|I ACa 283/16|Wyrok|https://www.saos.org.pl/judgments/267559
-57981|2012-07-03|SO|I C 544/10|Wyrok|https://www.saos.org.pl/judgments/57981
-80910|2001-10-18|SN|I KZP 22/01|Uchwała|https://www.saos.org.pl/judgments/80910
+saos_id|date|court|case_number|type|score|saos_url
+80910|2001-10-18|SN|I KZP 22/01|Uchwała|96|https://www.saos.org.pl/judgments/80910
+267559|2016-11-25|SO|I ACa 283/16|Wyrok|56|https://www.saos.org.pl/judgments/267559

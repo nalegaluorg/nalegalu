@@ -2,11 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 16 października 1992 r. o orderach i odznaczeniach.*
 
-Łącznie: **2** orzeczeń
-
-## art. 18 (1)
-
-- 2014-03-19 | SO | [IV P 7/13](https://www.saos.org.pl/judgments/128087) | Wyrok
+Łącznie: **1** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 19 (1)
 

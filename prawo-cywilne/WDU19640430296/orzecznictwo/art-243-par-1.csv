@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-543850|2026-02-13|SO|I ACa 1317/24|Wyrok|https://www.saos.org.pl/judgments/543850
-490149|2022-12-19|SO|III U 215/21|Wyrok|https://www.saos.org.pl/judgments/490149
-426169|2019-12-16|SO|V AGa 391/18|Wyrok|https://www.saos.org.pl/judgments/426169
-358363|2018-07-23|SO|XXVI GC 884/17|Wyrok|https://www.saos.org.pl/judgments/358363
-344346|2018-05-17|SO|VI C 1600/17|Zarządzenie|https://www.saos.org.pl/judgments/344346
-316277|2017-09-19|SO|II Ca 1546/16|Wyrok|https://www.saos.org.pl/judgments/316277
-173562|2015-06-29|SO|III Pa 15/15|Wyrok|https://www.saos.org.pl/judgments/173562
-156909|2015-05-20|SO|I ACz 451/15|Postanowienie|https://www.saos.org.pl/judgments/156909
-167104|2014-10-22|SN|II CSK 764/13|Wyrok|https://www.saos.org.pl/judgments/167104
-75856|2014-10-09|SO|II Ca 342/14|Postanowienie|https://www.saos.org.pl/judgments/75856
-4958|2013-01-10|SO|I ACa 201/12|Wyrok|https://www.saos.org.pl/judgments/4958
+saos_id|date|court|case_number|type|score|saos_url
+167104|2014-10-22|SN|II CSK 764/13|Wyrok|78|https://www.saos.org.pl/judgments/167104
+543850|2026-02-13|SO|I ACa 1317/24|Wyrok|56|https://www.saos.org.pl/judgments/543850
+426169|2019-12-16|SO|V AGa 391/18|Wyrok|56|https://www.saos.org.pl/judgments/426169
+4958|2013-01-10|SO|I ACa 201/12|Wyrok|56|https://www.saos.org.pl/judgments/4958
+156909|2015-05-20|SO|I ACz 451/15|Postanowienie|47|https://www.saos.org.pl/judgments/156909

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-428310|2019-12-13|SO|I ACa 6/19|Wyrok|https://www.saos.org.pl/judgments/428310
-304712|2017-09-04|SO|I C 452/17|Wyrok|https://www.saos.org.pl/judgments/304712
-75375|2014-12-12|SO|II Ka 262/14|Wyrok|https://www.saos.org.pl/judgments/75375
-100039|2012-12-04|SN|WZ 31/12|Postanowienie|https://www.saos.org.pl/judgments/100039
+saos_id|date|court|case_number|type|score|saos_url
+100039|2012-12-04|SN|WZ 31/12|Postanowienie|69|https://www.saos.org.pl/judgments/100039
+428310|2019-12-13|SO|I ACa 6/19|Wyrok|56|https://www.saos.org.pl/judgments/428310

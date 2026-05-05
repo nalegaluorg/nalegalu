@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500412|2024-10-10|SO|II AKa 102/23|Uzasadnienie|https://www.saos.org.pl/judgments/500412
-422856|2020-09-03|SO|IV Ka 1664/19|Uzasadnienie|https://www.saos.org.pl/judgments/422856
+saos_id|date|court|case_number|type|score|saos_url
+500412|2024-10-10|SO|II AKa 102/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/500412

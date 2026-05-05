@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-243669|2015-10-29|SN|I CSK 922/14|Wyrok|https://www.saos.org.pl/judgments/243669
-165810|2014-05-15|SN|II CSK 557/13|Wyrok|https://www.saos.org.pl/judgments/165810
-104446|2014-02-13|SN|V CSK 45/13|Wyrok|https://www.saos.org.pl/judgments/104446
-165544|2013-10-11|SN|I CSK 769/12|Wyrok|https://www.saos.org.pl/judgments/165544
-99454|2012-10-24|SN|III CSK 35/12|Postanowienie|https://www.saos.org.pl/judgments/99454
-97763|2012-04-13|SN|I CSK 416/11|Wyrok|https://www.saos.org.pl/judgments/97763
-97762|2012-04-13|SN|I CSK 416/11|Wyrok|https://www.saos.org.pl/judgments/97762
-117553|2011-02-18|KIO|KIO 232/11|Wyrok|https://www.saos.org.pl/judgments/117553
-90787|2009-09-03|SN|I CSK 53/09|Wyrok|https://www.saos.org.pl/judgments/90787
-88247|2008-06-11|SN|V CSK 8/08|Wyrok|https://www.saos.org.pl/judgments/88247
+saos_id|date|court|case_number|type|score|saos_url
+243669|2015-10-29|SN|I CSK 922/14|Wyrok|78|https://www.saos.org.pl/judgments/243669
+165810|2014-05-15|SN|II CSK 557/13|Wyrok|78|https://www.saos.org.pl/judgments/165810
+104446|2014-02-13|SN|V CSK 45/13|Wyrok|78|https://www.saos.org.pl/judgments/104446
+165544|2013-10-11|SN|I CSK 769/12|Wyrok|78|https://www.saos.org.pl/judgments/165544
+97763|2012-04-13|SN|I CSK 416/11|Wyrok|78|https://www.saos.org.pl/judgments/97763
+97762|2012-04-13|SN|I CSK 416/11|Wyrok|78|https://www.saos.org.pl/judgments/97762
+90787|2009-09-03|SN|I CSK 53/09|Wyrok|78|https://www.saos.org.pl/judgments/90787
+88247|2008-06-11|SN|V CSK 8/08|Wyrok|78|https://www.saos.org.pl/judgments/88247
+99454|2012-10-24|SN|III CSK 35/12|Postanowienie|69|https://www.saos.org.pl/judgments/99454
+117553|2011-02-18|KIO|KIO 232/11|Wyrok|44|https://www.saos.org.pl/judgments/117553

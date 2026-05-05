@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-401348|2019-12-18|SO|IV U 1366/19|Wyrok|https://www.saos.org.pl/judgments/401348
-401346|2019-11-20|SO|IV U 1270/19|Wyrok|https://www.saos.org.pl/judgments/401346
-413373|2019-11-19|SO|VIII U 1841/19|Wyrok|https://www.saos.org.pl/judgments/413373
-66739|2013-07-31|SO|IV U 402/13|Wyrok|https://www.saos.org.pl/judgments/66739
+saos_id|date|court|case_number|type|score|saos_url
+401348|2019-12-18|SO|IV U 1366/19|Wyrok|40|https://www.saos.org.pl/judgments/401348
+401346|2019-11-20|SO|IV U 1270/19|Wyrok|40|https://www.saos.org.pl/judgments/401346

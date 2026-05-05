@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-226819|2016-03-21|SO|VI U 506/15|Wyrok|https://www.saos.org.pl/judgments/226819
-42313|2014-02-27|SO|IX Pa 129/13|Wyrok|https://www.saos.org.pl/judgments/42313
-49214|2014-01-08|SO|VI U 238/13|Wyrok|https://www.saos.org.pl/judgments/49214
+saos_id|date|court|case_number|type|score|saos_url
+226819|2016-03-21|SO|VI U 506/15|Wyrok|40|https://www.saos.org.pl/judgments/226819
+49214|2014-01-08|SO|VI U 238/13|Wyrok|40|https://www.saos.org.pl/judgments/49214

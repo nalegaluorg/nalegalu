@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-42148|2014-03-21|SO|II Ka 372/13|Wyrok|https://www.saos.org.pl/judgments/42148
-101532|2013-04-18|SN|V KK 105/12|Wyrok|https://www.saos.org.pl/judgments/101532
+saos_id|date|court|case_number|type|score|saos_url
+101532|2013-04-18|SN|V KK 105/12|Wyrok|78|https://www.saos.org.pl/judgments/101532

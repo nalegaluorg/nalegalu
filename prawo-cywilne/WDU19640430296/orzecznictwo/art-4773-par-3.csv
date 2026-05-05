@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-482717|2021-02-17|SO|III AUa 67/19|Uzasadnienie|https://www.saos.org.pl/judgments/482717
-311775|2017-06-27|SO|III AUz 170/17|Postanowienie|https://www.saos.org.pl/judgments/311775
+saos_id|date|court|case_number|type|score|saos_url
+311775|2017-06-27|SO|III AUz 170/17|Postanowienie|47|https://www.saos.org.pl/judgments/311775
+482717|2021-02-17|SO|III AUa 67/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/482717

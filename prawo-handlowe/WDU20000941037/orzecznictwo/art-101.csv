@@ -1,2 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-284074|2017-05-16|SO|VI Gz 104/17|Postanowienie|https://www.saos.org.pl/judgments/284074
+saos_id|date|court|case_number|type|score|saos_url
+397679|2019-07-05|SO|I AGa 439/18|Wyrok|56|https://www.saos.org.pl/judgments/397679
+332586|2017-11-24|SO|I ACa 955/17|Wyrok|56|https://www.saos.org.pl/judgments/332586
+298829|2017-07-07|SO|I ACa 120/17|Wyrok|56|https://www.saos.org.pl/judgments/298829
+273573|2017-01-11|SO|I ACa 853/16|Wyrok|56|https://www.saos.org.pl/judgments/273573
+145037|2014-03-20|SO|II AKa 54/14|Wyrok|56|https://www.saos.org.pl/judgments/145037
+135948|2012-08-01|SO|II AKa 198/12|Wyrok|56|https://www.saos.org.pl/judgments/135948
+266354|2017-01-04|SO|VII Ka 848/16|Wyrok|40|https://www.saos.org.pl/judgments/266354
+320658|2017-12-18|SO|V Ga 289/17|Postanowienie|31|https://www.saos.org.pl/judgments/320658
+488537|2021-07-19|SO|X GC 675/20|Zarządzenie|27|https://www.saos.org.pl/judgments/488537
+401836|2020-01-16|SO|XIII Ga 658/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/401836
+398465|2019-12-17|SO|XIII Ga 840/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/398465
+311374|2017-11-06|SO|XIII Ga 639/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/311374
+231748|2016-06-17|SO|XIII Ga 1120/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/231748

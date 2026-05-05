@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-266254|2016-09-14|SO|II Ca 1163/16|Wyrok|https://www.saos.org.pl/judgments/266254
+saos_id|date|court|case_number|type|score|saos_url
+266254|2016-09-14|SO|II Ca 1163/16|Wyrok|40|https://www.saos.org.pl/judgments/266254

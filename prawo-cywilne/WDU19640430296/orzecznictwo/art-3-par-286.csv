@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-77683|1997-05-20|SN|II UKN 121/97|Wyrok|https://www.saos.org.pl/judgments/77683
-76924|1995-09-14|SN|II URN 31/95|Wyrok|https://www.saos.org.pl/judgments/76924
-76729|1994-12-07|SN|II URN 43/94|Wyrok|https://www.saos.org.pl/judgments/76729
+saos_id|date|court|case_number|type|score|saos_url
+77683|1997-05-20|SN|II UKN 121/97|Wyrok|78|https://www.saos.org.pl/judgments/77683
+76924|1995-09-14|SN|II URN 31/95|Wyrok|78|https://www.saos.org.pl/judgments/76924
+76729|1994-12-07|SN|II URN 43/94|Wyrok|78|https://www.saos.org.pl/judgments/76729

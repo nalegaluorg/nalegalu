@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-444280|2021-07-27|SO|XIII Ga 833/20|Uzasadnienie|https://www.saos.org.pl/judgments/444280
-239935|2016-06-27|SO|II Ca 860/15|Wyrok|https://www.saos.org.pl/judgments/239935
-73270|2014-10-31|SO|I ACa 607/14|Wyrok|https://www.saos.org.pl/judgments/73270
-26151|2013-09-05|SO|I ACa 523/13|Wyrok|https://www.saos.org.pl/judgments/26151
+saos_id|date|court|case_number|type|score|saos_url
+73270|2014-10-31|SO|I ACa 607/14|Wyrok|56|https://www.saos.org.pl/judgments/73270
+26151|2013-09-05|SO|I ACa 523/13|Wyrok|56|https://www.saos.org.pl/judgments/26151
+444280|2021-07-27|SO|XIII Ga 833/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/444280

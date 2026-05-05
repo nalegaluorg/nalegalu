@@ -1,3 +1,18 @@
-saos_id|date|court|case_number|type|saos_url
-529674|2019-10-30|SO|II Ca 1504/19|Zarządzenie|https://www.saos.org.pl/judgments/529674
-359947|2018-04-23|SO|II Ca 428/18|Zarządzenie|https://www.saos.org.pl/judgments/359947
+saos_id|date|court|case_number|type|score|saos_url
+110945|2012-07-10|TK|P 15/12|Wyrok|98|https://www.saos.org.pl/judgments/110945
+108136|2007-07-03|TK|SK 1/06|Wyrok|98|https://www.saos.org.pl/judgments/108136
+109441|2009-03-02|TK|Ts 251/06|Postanowienie|80|https://www.saos.org.pl/judgments/109441
+108421|2007-10-30|TK|Ts 251/06|Postanowienie|80|https://www.saos.org.pl/judgments/108421
+107494|2005-11-23|TK|Ts 208/04|Postanowienie|80|https://www.saos.org.pl/judgments/107494
+107306|2005-02-03|TK|Ts 20/04|Postanowienie|80|https://www.saos.org.pl/judgments/107306
+107317|2005-01-19|TK|Ts 30/04|Postanowienie|80|https://www.saos.org.pl/judgments/107317
+106823|2004-07-28|TK|Ts 20/04|Postanowienie|80|https://www.saos.org.pl/judgments/106823
+94310|2011-03-04|SN|I CSK 340/10|Wyrok|78|https://www.saos.org.pl/judgments/94310
+166956|2014-10-08|SN|II CSK 781/13|Postanowienie|69|https://www.saos.org.pl/judgments/166956
+101144|2013-03-21|SN|III CZ 16/13|Postanowienie|69|https://www.saos.org.pl/judgments/101144
+98415|2012-06-21|SN|II CSK 504/11|Postanowienie|69|https://www.saos.org.pl/judgments/98415
+93310|2010-11-05|SN|I CSK 73/10|Postanowienie|69|https://www.saos.org.pl/judgments/93310
+93175|2010-10-20|SN|III CSK 321/09|Postanowienie|69|https://www.saos.org.pl/judgments/93175
+164485|2006-08-30|SN|II CSK 84/06|Postanowienie|69|https://www.saos.org.pl/judgments/164485
+164374|2006-06-30|SN|V CSK 131/06|Postanowienie|69|https://www.saos.org.pl/judgments/164374
+534190|2024-06-10|SO|III Ca 1320/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/534190

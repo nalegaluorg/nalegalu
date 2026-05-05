@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-407611|2020-01-15|SO|II AKa 241/19|Uzasadnienie|https://www.saos.org.pl/judgments/407611
-200152|2016-01-22|SO|II Ko 12/15|Wyrok|https://www.saos.org.pl/judgments/200152
-243506|2015-10-06|SN|II KK 132/15|Postanowienie|https://www.saos.org.pl/judgments/243506
-104762|2014-03-18|SN|IV KK 421/13|Postanowienie|https://www.saos.org.pl/judgments/104762
-83584|2005-07-05|SN|WZ 13/05|Postanowienie|https://www.saos.org.pl/judgments/83584
-83235|2005-02-25|SN|I KZP 35/04|Uchwała|https://www.saos.org.pl/judgments/83235
-81338|2002-04-08|SN|V KKN 281/00|Wyrok|https://www.saos.org.pl/judgments/81338
+saos_id|date|court|case_number|type|score|saos_url
+83235|2005-02-25|SN|I KZP 35/04|Uchwała|89|https://www.saos.org.pl/judgments/83235
+81338|2002-04-08|SN|V KKN 281/00|Wyrok|78|https://www.saos.org.pl/judgments/81338
+243506|2015-10-06|SN|II KK 132/15|Postanowienie|69|https://www.saos.org.pl/judgments/243506
+104762|2014-03-18|SN|IV KK 421/13|Postanowienie|69|https://www.saos.org.pl/judgments/104762
+83584|2005-07-05|SN|WZ 13/05|Postanowienie|69|https://www.saos.org.pl/judgments/83584
+407611|2020-01-15|SO|II AKa 241/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/407611

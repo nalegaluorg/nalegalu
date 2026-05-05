@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-362169|2018-05-08|SO|II Ca 117/18|Postanowienie|https://www.saos.org.pl/judgments/362169
-168224|2015-02-13|SN|II CSK 310/14|Postanowienie|https://www.saos.org.pl/judgments/168224
+saos_id|date|court|case_number|type|score|saos_url
+168224|2015-02-13|SN|II CSK 310/14|Postanowienie|69|https://www.saos.org.pl/judgments/168224
+362169|2018-05-08|SO|II Ca 117/18|Postanowienie|31|https://www.saos.org.pl/judgments/362169

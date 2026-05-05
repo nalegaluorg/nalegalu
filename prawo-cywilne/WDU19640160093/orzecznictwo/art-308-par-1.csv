@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-80983|2001-11-15|SN|III CKN 518/00|Postanowienie|https://www.saos.org.pl/judgments/80983
+saos_id|date|court|case_number|type|score|saos_url
+80983|2001-11-15|SN|III CKN 518/00|Postanowienie|69|https://www.saos.org.pl/judgments/80983

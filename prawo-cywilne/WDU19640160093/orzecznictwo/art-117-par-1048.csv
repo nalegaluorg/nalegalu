@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-490430|2015-01-22|SO|I ACa 1419/14|Wyrok|https://www.saos.org.pl/judgments/490430
-49534|2014-05-20|SO|IX GC 722/12|Wyrok|https://www.saos.org.pl/judgments/49534
-27146|2013-11-19|SO|IX GC 196/12|Wyrok|https://www.saos.org.pl/judgments/27146
+saos_id|date|court|case_number|type|score|saos_url
+490430|2015-01-22|SO|I ACa 1419/14|Wyrok|56|https://www.saos.org.pl/judgments/490430
+49534|2014-05-20|SO|IX GC 722/12|Wyrok|40|https://www.saos.org.pl/judgments/49534
+27146|2013-11-19|SO|IX GC 196/12|Wyrok|40|https://www.saos.org.pl/judgments/27146

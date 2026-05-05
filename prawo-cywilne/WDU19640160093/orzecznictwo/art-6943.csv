@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-165545|2013-10-11|SN|I CSK 86/13|Wyrok|https://www.saos.org.pl/judgments/165545
+saos_id|date|court|case_number|type|score|saos_url
+165545|2013-10-11|SN|I CSK 86/13|Wyrok|78|https://www.saos.org.pl/judgments/165545

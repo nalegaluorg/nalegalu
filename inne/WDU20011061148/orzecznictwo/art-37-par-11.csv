@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-478010|2022-11-07|SO|VI Ka 767/22|Wyrok|https://www.saos.org.pl/judgments/478010
+saos_id|date|court|case_number|type|score|saos_url
+478010|2022-11-07|SO|VI Ka 767/22|Wyrok|40|https://www.saos.org.pl/judgments/478010

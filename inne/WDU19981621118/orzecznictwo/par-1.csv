@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-538758|2025-11-27|SO|IV P 618/25|Uzasadnienie|https://www.saos.org.pl/judgments/538758
-536319|2024-10-16|SO|IV P 209/24|Wyrok|https://www.saos.org.pl/judgments/536319
-413024|2020-05-27|SO|III AUa 48/20|Wyrok|https://www.saos.org.pl/judgments/413024
-413021|2020-05-27|SO|III AUa 105/20|Wyrok|https://www.saos.org.pl/judgments/413021
-404177|2019-03-20|SO|III AUa 7/19|Wyrok|https://www.saos.org.pl/judgments/404177
-182195|2014-03-28|SO|I C 2837/13|Wyrok|https://www.saos.org.pl/judgments/182195
-147018|2014-03-24|SO|I C 1834/13|Wyrok|https://www.saos.org.pl/judgments/147018
-26383|2013-09-24|SO|V Pa 303/11|Wyrok|https://www.saos.org.pl/judgments/26383
-26395|2013-09-17|SO|V Pa 66/13|Wyrok|https://www.saos.org.pl/judgments/26395
-26385|2013-09-17|SO|V Pa 325/11|Wyrok|https://www.saos.org.pl/judgments/26385
+saos_id|date|court|case_number|type|score|saos_url
+413024|2020-05-27|SO|III AUa 48/20|Wyrok|56|https://www.saos.org.pl/judgments/413024
+413021|2020-05-27|SO|III AUa 105/20|Wyrok|56|https://www.saos.org.pl/judgments/413021
+404177|2019-03-20|SO|III AUa 7/19|Wyrok|56|https://www.saos.org.pl/judgments/404177

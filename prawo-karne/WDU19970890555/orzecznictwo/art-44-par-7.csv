@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-434052|2021-01-28|SO|II AKa 263/20|Uzasadnienie|https://www.saos.org.pl/judgments/434052
-137763|2013-03-12|SO|II AKa 25/13|Wyrok|https://www.saos.org.pl/judgments/137763
+saos_id|date|court|case_number|type|score|saos_url
+137763|2013-03-12|SO|II AKa 25/13|Wyrok|56|https://www.saos.org.pl/judgments/137763
+434052|2021-01-28|SO|II AKa 263/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/434052

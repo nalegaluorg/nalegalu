@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-164979|2007-12-07|SN|III CSK 234/07|Wyrok|https://www.saos.org.pl/judgments/164979
+saos_id|date|court|case_number|type|score|saos_url
+164979|2007-12-07|SN|III CSK 234/07|Wyrok|78|https://www.saos.org.pl/judgments/164979

@@ -1,32 +1,18 @@
-saos_id|date|court|case_number|type|saos_url
-518558|2024-08-12|SO|XVII AmE 267/23|Wyrok|https://www.saos.org.pl/judgments/518558
-525554|2024-01-10|SO|XVII AmE 23/23|Wyrok|https://www.saos.org.pl/judgments/525554
-487514|2023-04-19|SO|VIII U 1350/22|Uzasadnienie|https://www.saos.org.pl/judgments/487514
-486084|2023-04-11|SO|VIII U 1519/22|Uzasadnienie|https://www.saos.org.pl/judgments/486084
-492755|2023-03-09|SO|XVII AmT 34/21|Wyrok|https://www.saos.org.pl/judgments/492755
-408203|2019-11-28|SO|VII U 12/18|Wyrok|https://www.saos.org.pl/judgments/408203
-316651|2017-11-30|SO|IV U 46/17|Wyrok|https://www.saos.org.pl/judgments/316651
-314995|2017-05-23|SO|VII U 1257/15|Wyrok|https://www.saos.org.pl/judgments/314995
-281238|2017-04-13|SO|VIII U 1204/16|Zarządzenie|https://www.saos.org.pl/judgments/281238
-274701|2017-01-25|SO|VI ACa 1673/15|Wyrok|https://www.saos.org.pl/judgments/274701
-258269|2016-09-14|SO|VI ACa 283/15|Wyrok|https://www.saos.org.pl/judgments/258269
-339056|2016-03-24|SO|XVII AmK 23/14|Wyrok|https://www.saos.org.pl/judgments/339056
-241263|2016-03-04|SO|VI ACa 91/15|Wyrok|https://www.saos.org.pl/judgments/241263
-154464|2015-03-27|SO|VI ACa 824/14|Wyrok|https://www.saos.org.pl/judgments/154464
-68724|2014-11-07|SO|III U 536/14|Wyrok|https://www.saos.org.pl/judgments/68724
-70078|2014-10-31|SO|III AUa 764/14|Wyrok|https://www.saos.org.pl/judgments/70078
-310709|2014-10-28|SO|XVII AmT 23/12|Wyrok|https://www.saos.org.pl/judgments/310709
-283327|2014-09-03|SO|XVII AmT 34/12|Wyrok|https://www.saos.org.pl/judgments/283327
-62551|2014-02-13|SO|VI ACa 916/13|Wyrok|https://www.saos.org.pl/judgments/62551
-271407|2014-01-29|SO|XVII AmT 36/12|Wyrok|https://www.saos.org.pl/judgments/271407
-231057|2013-12-19|SO|XVII AmE 183/11|Wyrok|https://www.saos.org.pl/judgments/231057
-31589|2013-12-12|SO|III U 884/12|Wyrok|https://www.saos.org.pl/judgments/31589
-238051|2013-06-17|SO|XVII AmE 194/11|Wyrok|https://www.saos.org.pl/judgments/238051
-112000|2013-05-21|TK|Ts 243/11|Postanowienie|https://www.saos.org.pl/judgments/112000
-111998|2013-05-21|TK|Ts 241/11|Postanowienie|https://www.saos.org.pl/judgments/111998
-16908|2013-05-08|SO|XVII AmT 8/11|Uzasadnienie|https://www.saos.org.pl/judgments/16908
-16522|2013-03-21|SO|XVII AmT 40/10|Uzasadnienie|https://www.saos.org.pl/judgments/16522
-251054|2013-03-04|SO|XVII AmE 87/11|Wyrok|https://www.saos.org.pl/judgments/251054
-79090|1999-06-09|SN|III RN 16/99|Wyrok|https://www.saos.org.pl/judgments/79090
-77315|1996-11-08|SN|III RN 24/96|Wyrok|https://www.saos.org.pl/judgments/77315
-77161|1996-05-14|SN|III ARN 99/95|Wyrok|https://www.saos.org.pl/judgments/77161
+saos_id|date|court|case_number|type|score|saos_url
+112000|2013-05-21|TK|Ts 243/11|Postanowienie|80|https://www.saos.org.pl/judgments/112000
+111998|2013-05-21|TK|Ts 241/11|Postanowienie|80|https://www.saos.org.pl/judgments/111998
+79090|1999-06-09|SN|III RN 16/99|Wyrok|78|https://www.saos.org.pl/judgments/79090
+77315|1996-11-08|SN|III RN 24/96|Wyrok|78|https://www.saos.org.pl/judgments/77315
+77161|1996-05-14|SN|III ARN 99/95|Wyrok|78|https://www.saos.org.pl/judgments/77161
+274701|2017-01-25|SO|VI ACa 1673/15|Wyrok|56|https://www.saos.org.pl/judgments/274701
+258269|2016-09-14|SO|VI ACa 283/15|Wyrok|56|https://www.saos.org.pl/judgments/258269
+241263|2016-03-04|SO|VI ACa 91/15|Wyrok|56|https://www.saos.org.pl/judgments/241263
+154464|2015-03-27|SO|VI ACa 824/14|Wyrok|56|https://www.saos.org.pl/judgments/154464
+70078|2014-10-31|SO|III AUa 764/14|Wyrok|56|https://www.saos.org.pl/judgments/70078
+62551|2014-02-13|SO|VI ACa 916/13|Wyrok|56|https://www.saos.org.pl/judgments/62551
+408203|2019-11-28|SO|VII U 12/18|Wyrok|40|https://www.saos.org.pl/judgments/408203
+316651|2017-11-30|SO|IV U 46/17|Wyrok|40|https://www.saos.org.pl/judgments/316651
+314995|2017-05-23|SO|VII U 1257/15|Wyrok|40|https://www.saos.org.pl/judgments/314995
+487514|2023-04-19|SO|VIII U 1350/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/487514
+486084|2023-04-11|SO|VIII U 1519/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/486084
+281238|2017-04-13|SO|VIII U 1204/16|Zarządzenie|27|https://www.saos.org.pl/judgments/281238

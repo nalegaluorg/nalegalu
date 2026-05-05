@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-82599|2004-04-07|SN|III KRS 2/04|Postanowienie|https://www.saos.org.pl/judgments/82599
+saos_id|date|court|case_number|type|score|saos_url
+82599|2004-04-07|SN|III KRS 2/04|Postanowienie|69|https://www.saos.org.pl/judgments/82599

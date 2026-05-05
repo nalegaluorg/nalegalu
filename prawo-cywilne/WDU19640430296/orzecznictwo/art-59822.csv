@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-422960|2020-09-15|SO|V ACa 776/18|Wyrok|https://www.saos.org.pl/judgments/422960
-431189|2020-07-30|SO|II Ca 1159/19|Wyrok|https://www.saos.org.pl/judgments/431189
-323243|2017-11-27|SO|IV C 1212/17|Wyrok|https://www.saos.org.pl/judgments/323243
-250182|2016-06-28|SO|I C 101/16|Wyrok|https://www.saos.org.pl/judgments/250182
+saos_id|date|court|case_number|type|score|saos_url
+422960|2020-09-15|SO|V ACa 776/18|Wyrok|56|https://www.saos.org.pl/judgments/422960
+431189|2020-07-30|SO|II Ca 1159/19|Wyrok|40|https://www.saos.org.pl/judgments/431189
+250182|2016-06-28|SO|I C 101/16|Wyrok|40|https://www.saos.org.pl/judgments/250182

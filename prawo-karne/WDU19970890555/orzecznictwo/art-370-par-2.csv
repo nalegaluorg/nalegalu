@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-507931|2024-02-20|SO|IV Ka 21/24|Uzasadnienie|https://www.saos.org.pl/judgments/507931
-492523|2022-01-03|SO|IV Ka 940/21|Uzasadnienie|https://www.saos.org.pl/judgments/492523
-449570|2021-10-28|SO|VI Ka 493/20|Uzasadnienie|https://www.saos.org.pl/judgments/449570
-448348|2019-09-05|SO|IX Ka 486/19|Wyrok|https://www.saos.org.pl/judgments/448348
-380066|2018-10-26|SO|VI Ka 701/18|Wyrok|https://www.saos.org.pl/judgments/380066
-340688|2017-11-22|SO|II AKa 34/17|Wyrok|https://www.saos.org.pl/judgments/340688
-284418|2017-04-12|SO|II AKa 47/17|Wyrok|https://www.saos.org.pl/judgments/284418
-280678|2017-03-22|SO|II AKa 37/17|Wyrok|https://www.saos.org.pl/judgments/280678
-227663|2016-04-07|SO|II AKa 332/15|Wyrok|https://www.saos.org.pl/judgments/227663
-195388|2015-10-21|SO|II AKa 57/15|Wyrok|https://www.saos.org.pl/judgments/195388
-183057|2015-07-21|SO|II AKa 434/14|Wyrok|https://www.saos.org.pl/judgments/183057
-75234|2014-10-21|SO|II AKa 22/14|Wyrok|https://www.saos.org.pl/judgments/75234
-82323|2003-11-12|SN|SNO 72/03|Wyrok|https://www.saos.org.pl/judgments/82323
+saos_id|date|court|case_number|type|score|saos_url
+82323|2003-11-12|SN|SNO 72/03|Wyrok|78|https://www.saos.org.pl/judgments/82323
+340688|2017-11-22|SO|II AKa 34/17|Wyrok|56|https://www.saos.org.pl/judgments/340688
+284418|2017-04-12|SO|II AKa 47/17|Wyrok|56|https://www.saos.org.pl/judgments/284418
+280678|2017-03-22|SO|II AKa 37/17|Wyrok|56|https://www.saos.org.pl/judgments/280678
+227663|2016-04-07|SO|II AKa 332/15|Wyrok|56|https://www.saos.org.pl/judgments/227663
+195388|2015-10-21|SO|II AKa 57/15|Wyrok|56|https://www.saos.org.pl/judgments/195388
+183057|2015-07-21|SO|II AKa 434/14|Wyrok|56|https://www.saos.org.pl/judgments/183057
+75234|2014-10-21|SO|II AKa 22/14|Wyrok|56|https://www.saos.org.pl/judgments/75234
+492523|2022-01-03|SO|IV Ka 940/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/492523
+449570|2021-10-28|SO|VI Ka 493/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/449570

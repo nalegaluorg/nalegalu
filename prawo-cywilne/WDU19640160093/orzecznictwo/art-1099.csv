@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244757|2016-03-03|SN|I UK 91/15|Wyrok|https://www.saos.org.pl/judgments/244757
-169914|2015-05-20|SO|X Ga 169/15|Wyrok|https://www.saos.org.pl/judgments/169914
-154497|2013-12-14|SO|XX GC 669/10|Uzasadnienie|https://www.saos.org.pl/judgments/154497
-533882|2013-01-16|SO|III AUa 544/12|Wyrok|https://www.saos.org.pl/judgments/533882
+saos_id|date|court|case_number|type|score|saos_url
+244757|2016-03-03|SN|I UK 91/15|Wyrok|78|https://www.saos.org.pl/judgments/244757
+533882|2013-01-16|SO|III AUa 544/12|Wyrok|56|https://www.saos.org.pl/judgments/533882
+169914|2015-05-20|SO|X Ga 169/15|Wyrok|40|https://www.saos.org.pl/judgments/169914

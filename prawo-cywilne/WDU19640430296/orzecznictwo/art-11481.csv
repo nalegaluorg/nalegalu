@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-242958|2015-07-10|SN|III CZP 36/15|Uchwała|https://www.saos.org.pl/judgments/242958
-96944|2012-01-26|SN|III CZP 86/11|Uchwała|https://www.saos.org.pl/judgments/96944
+saos_id|date|court|case_number|type|score|saos_url
+242958|2015-07-10|SN|III CZP 36/15|Uchwała|89|https://www.saos.org.pl/judgments/242958
+96944|2012-01-26|SN|III CZP 86/11|Uchwała|89|https://www.saos.org.pl/judgments/96944

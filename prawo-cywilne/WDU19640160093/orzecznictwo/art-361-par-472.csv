@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-343089|2018-05-21|SO|V AGa 90/18|Wyrok|https://www.saos.org.pl/judgments/343089
-267236|2016-03-24|SO|VIII C 31/16|Wyrok|https://www.saos.org.pl/judgments/267236
-129205|2014-12-23|SO|II C 801/12|Wyrok|https://www.saos.org.pl/judgments/129205
-34063|2013-07-03|SO|I ACa 676/12|Wyrok|https://www.saos.org.pl/judgments/34063
+saos_id|date|court|case_number|type|score|saos_url
+343089|2018-05-21|SO|V AGa 90/18|Wyrok|56|https://www.saos.org.pl/judgments/343089
+34063|2013-07-03|SO|I ACa 676/12|Wyrok|56|https://www.saos.org.pl/judgments/34063
+129205|2014-12-23|SO|II C 801/12|Wyrok|40|https://www.saos.org.pl/judgments/129205

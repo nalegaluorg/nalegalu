@@ -1,11 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-402846|2019-11-22|SO|III APa 3/19|Wyrok|https://www.saos.org.pl/judgments/402846
-378055|2019-01-17|SO|II Ca 721/18|Zarządzenie|https://www.saos.org.pl/judgments/378055
-368951|2018-12-20|SO|VIII P 13/15|Zarządzenie|https://www.saos.org.pl/judgments/368951
-336481|2017-11-03|SO|I ACa 260/17|Wyrok|https://www.saos.org.pl/judgments/336481
-321305|2017-10-18|SO|III AUz 337/17|Postanowienie|https://www.saos.org.pl/judgments/321305
-410154|2016-09-26|SO|III APa 11/16|Wyrok|https://www.saos.org.pl/judgments/410154
-224264|2014-11-13|SO|XXIII Gz 1403/14|Postanowienie|https://www.saos.org.pl/judgments/224264
-36114|2013-12-30|SO|III APz 55/13|Postanowienie|https://www.saos.org.pl/judgments/36114
-4708|2013-01-28|SO|II Cz 35/13|Postanowienie|https://www.saos.org.pl/judgments/4708
-85052|2007-01-25|SN|I PZ 30/06|Postanowienie|https://www.saos.org.pl/judgments/85052
+saos_id|date|court|case_number|type|score|saos_url
+85052|2007-01-25|SN|I PZ 30/06|Postanowienie|69|https://www.saos.org.pl/judgments/85052
+402846|2019-11-22|SO|III APa 3/19|Wyrok|56|https://www.saos.org.pl/judgments/402846
+336481|2017-11-03|SO|I ACa 260/17|Wyrok|56|https://www.saos.org.pl/judgments/336481
+410154|2016-09-26|SO|III APa 11/16|Wyrok|56|https://www.saos.org.pl/judgments/410154
+321305|2017-10-18|SO|III AUz 337/17|Postanowienie|47|https://www.saos.org.pl/judgments/321305
+36114|2013-12-30|SO|III APz 55/13|Postanowienie|47|https://www.saos.org.pl/judgments/36114
+368951|2018-12-20|SO|VIII P 13/15|Zarządzenie|27|https://www.saos.org.pl/judgments/368951

@@ -1,17 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-464513|2022-05-09|SO|VIII U 221/19|Uzasadnienie|https://www.saos.org.pl/judgments/464513
-463408|2022-04-01|SO|VIII U 2186/20|Uzasadnienie|https://www.saos.org.pl/judgments/463408
-437131|2021-03-15|SO|VIII U 3946/19|Uzasadnienie|https://www.saos.org.pl/judgments/437131
-428418|2020-12-07|SO|VIII U 402/19|Zarządzenie|https://www.saos.org.pl/judgments/428418
-428781|2020-10-27|SO|VIII Ga 82/20|Uzasadnienie|https://www.saos.org.pl/judgments/428781
-441341|2019-09-12|SO|V AGa 487/18|Wyrok|https://www.saos.org.pl/judgments/441341
-368498|2018-11-23|SO|VIII U 581/14|Zarządzenie|https://www.saos.org.pl/judgments/368498
-249750|2016-08-24|SO|VIII Ga 304/15|Uzasadnienie|https://www.saos.org.pl/judgments/249750
-276805|2014-11-13|SO|VIII GC 189/13|Uzasadnienie|https://www.saos.org.pl/judgments/276805
-126360|2014-11-05|SO|VIII GC 36/14|Uzasadnienie|https://www.saos.org.pl/judgments/126360
-66317|2014-07-18|SO|X Ga 127/14|Wyrok|https://www.saos.org.pl/judgments/66317
-43905|2014-03-26|SO|VIII Ga 19/13|Uzasadnienie|https://www.saos.org.pl/judgments/43905
-46183|2014-02-20|SO|VIII GC 222/13|Uzasadnienie|https://www.saos.org.pl/judgments/46183
-70972|2014-02-05|SO|I ACa 1512/13|Wyrok|https://www.saos.org.pl/judgments/70972
-165008|2007-12-12|SN|V CSK 296/07|Wyrok|https://www.saos.org.pl/judgments/165008
-82348|2003-11-25|SN|III CZP 75/03|Uchwała|https://www.saos.org.pl/judgments/82348
+saos_id|date|court|case_number|type|score|saos_url
+82348|2003-11-25|SN|III CZP 75/03|Uchwała|89|https://www.saos.org.pl/judgments/82348
+165008|2007-12-12|SN|V CSK 296/07|Wyrok|78|https://www.saos.org.pl/judgments/165008
+441341|2019-09-12|SO|V AGa 487/18|Wyrok|56|https://www.saos.org.pl/judgments/441341
+70972|2014-02-05|SO|I ACa 1512/13|Wyrok|56|https://www.saos.org.pl/judgments/70972
+464513|2022-05-09|SO|VIII U 221/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/464513
+463408|2022-04-01|SO|VIII U 2186/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/463408
+437131|2021-03-15|SO|VIII U 3946/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/437131
+428418|2020-12-07|SO|VIII U 402/19|Zarządzenie|27|https://www.saos.org.pl/judgments/428418
+368498|2018-11-23|SO|VIII U 581/14|Zarządzenie|27|https://www.saos.org.pl/judgments/368498

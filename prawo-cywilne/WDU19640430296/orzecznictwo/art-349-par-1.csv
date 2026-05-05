@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-513056|2024-04-04|SO|VIII Pa 97/23|Uzasadnienie|https://www.saos.org.pl/judgments/513056
-155998|2014-11-26|SO|III Ca 886/14|Postanowienie|https://www.saos.org.pl/judgments/155998
-98217|2012-05-23|SN|III CZP 18/12|Uchwała|https://www.saos.org.pl/judgments/98217
-106047|2002-03-12|TK|P 9/01|Wyrok|https://www.saos.org.pl/judgments/106047
+saos_id|date|court|case_number|type|score|saos_url
+106047|2002-03-12|TK|P 9/01|Wyrok|98|https://www.saos.org.pl/judgments/106047
+98217|2012-05-23|SN|III CZP 18/12|Uchwała|89|https://www.saos.org.pl/judgments/98217
+513056|2024-04-04|SO|VIII Pa 97/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/513056

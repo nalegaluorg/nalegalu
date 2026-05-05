@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-331229|2016-02-11|SO|II Ca 33/16|Postanowienie|https://www.saos.org.pl/judgments/331229
-220145|2015-03-25|SO|I Ns 99/15|Postanowienie|https://www.saos.org.pl/judgments/220145
-21661|2013-06-06|SO|I ACa 1458/12|Wyrok|https://www.saos.org.pl/judgments/21661
+saos_id|date|court|case_number|type|score|saos_url
+21661|2013-06-06|SO|I ACa 1458/12|Wyrok|56|https://www.saos.org.pl/judgments/21661

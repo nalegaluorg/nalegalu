@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-397765|2019-10-18|SO|XVII AmE 351/17|Wyrok|https://www.saos.org.pl/judgments/397765
-446547|2019-08-09|SO|XVII AmE 237/17|Wyrok|https://www.saos.org.pl/judgments/446547
-370772|2018-11-27|SO|I ACa 99/18|Wyrok|https://www.saos.org.pl/judgments/370772
-480211|2017-10-31|SO|II Ca 1424/16|Wyrok|https://www.saos.org.pl/judgments/480211
-275366|2017-02-16|SO|I ACa 568/16|Wyrok|https://www.saos.org.pl/judgments/275366
-195641|2015-12-01|SO|III Ca 669/15|Postanowienie|https://www.saos.org.pl/judgments/195641
-179733|2015-08-26|SO|III Ca 456/15|Postanowienie|https://www.saos.org.pl/judgments/179733
-376855|2013-01-25|SO|I C 144/09|Uzasadnienie|https://www.saos.org.pl/judgments/376855
-109721|2010-10-20|TK|P 37/09|Wyrok|https://www.saos.org.pl/judgments/109721
-108597|2008-02-19|TK|P 49/06|Wyrok|https://www.saos.org.pl/judgments/108597
-107259|2005-01-31|TK|SK 27/03|Wyrok|https://www.saos.org.pl/judgments/107259
-79631|2000-04-06|SN|III RN 161/99|Wyrok|https://www.saos.org.pl/judgments/79631
-79093|1999-06-09|SN|III RN 7/99|Wyrok|https://www.saos.org.pl/judgments/79093
-77787|1997-09-03|SN|III RN 35/97|Wyrok|https://www.saos.org.pl/judgments/77787
-77337|1996-11-26|SN|III RN 32/96|Wyrok|https://www.saos.org.pl/judgments/77337
-76772|1995-01-31|SN|III AZP 11/94|Uchwała|https://www.saos.org.pl/judgments/76772
+saos_id|date|court|case_number|type|score|saos_url
+109721|2010-10-20|TK|P 37/09|Wyrok|98|https://www.saos.org.pl/judgments/109721
+108597|2008-02-19|TK|P 49/06|Wyrok|98|https://www.saos.org.pl/judgments/108597
+107259|2005-01-31|TK|SK 27/03|Wyrok|98|https://www.saos.org.pl/judgments/107259
+76772|1995-01-31|SN|III AZP 11/94|Uchwała|89|https://www.saos.org.pl/judgments/76772
+79631|2000-04-06|SN|III RN 161/99|Wyrok|78|https://www.saos.org.pl/judgments/79631
+79093|1999-06-09|SN|III RN 7/99|Wyrok|78|https://www.saos.org.pl/judgments/79093
+77787|1997-09-03|SN|III RN 35/97|Wyrok|78|https://www.saos.org.pl/judgments/77787
+77337|1996-11-26|SN|III RN 32/96|Wyrok|78|https://www.saos.org.pl/judgments/77337
+370772|2018-11-27|SO|I ACa 99/18|Wyrok|56|https://www.saos.org.pl/judgments/370772
+275366|2017-02-16|SO|I ACa 568/16|Wyrok|56|https://www.saos.org.pl/judgments/275366

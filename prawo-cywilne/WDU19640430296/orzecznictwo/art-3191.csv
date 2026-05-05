@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525123|2024-11-14|SO|I C 37/23|Wyrok|https://www.saos.org.pl/judgments/525123
-482499|2022-03-03|SO|XX GC 689/20|Wyrok|https://www.saos.org.pl/judgments/482499
-458042|2021-12-22|SO|V AGa 223/19|Wyrok|https://www.saos.org.pl/judgments/458042
-396099|2019-10-07|SO|XXV C 2910/18|Wyrok|https://www.saos.org.pl/judgments/396099
+saos_id|date|court|case_number|type|score|saos_url
+458042|2021-12-22|SO|V AGa 223/19|Wyrok|56|https://www.saos.org.pl/judgments/458042

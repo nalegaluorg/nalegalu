@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 20 marca 2002 r. o zmianie ustawy - Prze
 
 ## art. 1 (1)
 
-- 2002-10-15 | TK | [K 51/01](https://www.saos.org.pl/judgments/106279) | Postanowienie
+- 2002-10-15 | TK | [K 51/01](https://www.saos.org.pl/judgments/106279) | Postanowienie ★
 

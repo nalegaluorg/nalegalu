@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-197375|2015-12-22|SO|IV U 1231/14|Wyrok|https://www.saos.org.pl/judgments/197375
-1430|2012-08-23|SO|III AUa 761/12|Wyrok|https://www.saos.org.pl/judgments/1430
+saos_id|date|court|case_number|type|score|saos_url
+1430|2012-08-23|SO|III AUa 761/12|Wyrok|56|https://www.saos.org.pl/judgments/1430

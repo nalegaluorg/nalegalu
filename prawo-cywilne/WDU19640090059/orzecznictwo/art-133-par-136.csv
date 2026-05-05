@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-213473|2016-02-26|SO|III RC 123/15|Wyrok|https://www.saos.org.pl/judgments/213473
-13525|2013-06-07|SO|IV Ca 266/13|Wyrok|https://www.saos.org.pl/judgments/13525
+saos_id|date|court|case_number|type|score|saos_url
+213473|2016-02-26|SO|III RC 123/15|Wyrok|40|https://www.saos.org.pl/judgments/213473

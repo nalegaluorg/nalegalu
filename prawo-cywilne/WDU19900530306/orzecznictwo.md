@@ -10,5 +10,5 @@ Orzeczenia powołujące: *Ustawa z dnia 13 lipca 1990 r. o powołaniu sądów ap
 
 ## art. 7 (1)
 
-- 2003-07-14 | TK | [SK 42/01](https://www.saos.org.pl/judgments/106397) | Wyrok
+- 2003-07-14 | TK | [SK 42/01](https://www.saos.org.pl/judgments/106397) | Wyrok ★
 

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-104343|2014-02-07|SN|III CZP 114/13|Uchwała|https://www.saos.org.pl/judgments/104343
-99669|2012-11-23|SN|I CSK 217/12|Postanowienie|https://www.saos.org.pl/judgments/99669
-96441|2011-12-02|SN|III CSK 77/11|Wyrok|https://www.saos.org.pl/judgments/96441
-91086|2009-10-22|SN|III CSK 21/09|Postanowienie|https://www.saos.org.pl/judgments/91086
-87378|2008-02-20|SN|II CSK 451/07|Postanowienie|https://www.saos.org.pl/judgments/87378
+saos_id|date|court|case_number|type|score|saos_url
+104343|2014-02-07|SN|III CZP 114/13|Uchwała|89|https://www.saos.org.pl/judgments/104343
+96441|2011-12-02|SN|III CSK 77/11|Wyrok|78|https://www.saos.org.pl/judgments/96441
+99669|2012-11-23|SN|I CSK 217/12|Postanowienie|69|https://www.saos.org.pl/judgments/99669
+91086|2009-10-22|SN|III CSK 21/09|Postanowienie|69|https://www.saos.org.pl/judgments/91086
+87378|2008-02-20|SN|II CSK 451/07|Postanowienie|69|https://www.saos.org.pl/judgments/87378

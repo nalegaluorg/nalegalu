@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-422794|2020-06-18|SO|III AUa 156/19|Wyrok|https://www.saos.org.pl/judgments/422794
-23148|2013-09-25|SO|III AUa 830/10|Wyrok|https://www.saos.org.pl/judgments/23148
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
+saos_id|date|court|case_number|type|score|saos_url
+422794|2020-06-18|SO|III AUa 156/19|Wyrok|56|https://www.saos.org.pl/judgments/422794
+23148|2013-09-25|SO|III AUa 830/10|Wyrok|56|https://www.saos.org.pl/judgments/23148
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336

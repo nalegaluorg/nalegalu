@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-387276|2019-04-16|SO|XXI Pa 606/18|Wyrok|https://www.saos.org.pl/judgments/387276
-285939|2017-05-15|SO|VIII P 23/14|Zarządzenie|https://www.saos.org.pl/judgments/285939
-228373|2016-05-12|SO|VII Pa 77/16|Uzasadnienie|https://www.saos.org.pl/judgments/228373
-47178|2014-04-09|SO|VII U 157/14|Wyrok|https://www.saos.org.pl/judgments/47178
+saos_id|date|court|case_number|type|score|saos_url
+285939|2017-05-15|SO|VIII P 23/14|Zarządzenie|27|https://www.saos.org.pl/judgments/285939
+228373|2016-05-12|SO|VII Pa 77/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/228373

@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-508153|2024-07-16|SO|IV Ka 403/24|Wyrok|https://www.saos.org.pl/judgments/508153
-540108|2023-11-08|SO|IX Ka 569/23|Uzasadnienie|https://www.saos.org.pl/judgments/540108
-389237|2018-12-03|SO|IV Ka 890/18|Wyrok|https://www.saos.org.pl/judgments/389237
-252698|2016-09-19|SO|IX W 2738/16|Wyrok|https://www.saos.org.pl/judgments/252698
-249366|2016-08-24|SO|IX W 2192/16|Wyrok|https://www.saos.org.pl/judgments/249366
-250967|2016-07-19|SO|VI Ka 280/16|Wyrok|https://www.saos.org.pl/judgments/250967
-237003|2016-05-25|SO|IX W 1292/16|Wyrok|https://www.saos.org.pl/judgments/237003
-228131|2016-05-23|SO|IX W 1244/16|Wyrok|https://www.saos.org.pl/judgments/228131
-168950|2015-04-22|SN|SNO 7/15|Wyrok|https://www.saos.org.pl/judgments/168950
+saos_id|date|court|case_number|type|score|saos_url
+168950|2015-04-22|SN|SNO 7/15|Wyrok|78|https://www.saos.org.pl/judgments/168950
+389237|2018-12-03|SO|IV Ka 890/18|Wyrok|40|https://www.saos.org.pl/judgments/389237
+250967|2016-07-19|SO|VI Ka 280/16|Wyrok|40|https://www.saos.org.pl/judgments/250967

@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-528775|2024-07-05|SO|I ACa 494/24|Wyrok|https://www.saos.org.pl/judgments/528775
-472780|2022-07-14|SO|V ACa 909/21|Wyrok|https://www.saos.org.pl/judgments/472780
-448300|2021-09-15|SO|I ACa 461/21|Wyrok|https://www.saos.org.pl/judgments/448300
-306403|2017-06-27|SO|VI ACa 293/16|Wyrok|https://www.saos.org.pl/judgments/306403
-160570|2015-01-20|TK|K 39/12|Wyrok|https://www.saos.org.pl/judgments/160570
-5855|2012-11-21|SO|I ACa 630/12|Wyrok|https://www.saos.org.pl/judgments/5855
-109682|2010-10-19|TK|K 35/09|Wyrok|https://www.saos.org.pl/judgments/109682
-108551|2008-06-27|TK|K 51/07|Wyrok|https://www.saos.org.pl/judgments/108551
-107205|2005-11-09|TK|Kp 2/05|Wyrok|https://www.saos.org.pl/judgments/107205
-205797|1998-12-01|TK|K 21/98|Wyrok|https://www.saos.org.pl/judgments/205797
+saos_id|date|court|case_number|type|score|saos_url
+160570|2015-01-20|TK|K 39/12|Wyrok|98|https://www.saos.org.pl/judgments/160570
+109682|2010-10-19|TK|K 35/09|Wyrok|98|https://www.saos.org.pl/judgments/109682
+108551|2008-06-27|TK|K 51/07|Wyrok|98|https://www.saos.org.pl/judgments/108551
+107205|2005-11-09|TK|Kp 2/05|Wyrok|98|https://www.saos.org.pl/judgments/107205
+205797|1998-12-01|TK|K 21/98|Wyrok|98|https://www.saos.org.pl/judgments/205797
+528775|2024-07-05|SO|I ACa 494/24|Wyrok|56|https://www.saos.org.pl/judgments/528775
+472780|2022-07-14|SO|V ACa 909/21|Wyrok|56|https://www.saos.org.pl/judgments/472780
+448300|2021-09-15|SO|I ACa 461/21|Wyrok|56|https://www.saos.org.pl/judgments/448300
+306403|2017-06-27|SO|VI ACa 293/16|Wyrok|56|https://www.saos.org.pl/judgments/306403
+5855|2012-11-21|SO|I ACa 630/12|Wyrok|56|https://www.saos.org.pl/judgments/5855

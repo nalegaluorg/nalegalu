@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-541917|2025-05-28|SO|I ACa 1708/22|Wyrok|https://www.saos.org.pl/judgments/541917
-494280|2023-09-07|SO|I ACa 53/23|Wyrok|https://www.saos.org.pl/judgments/494280
+saos_id|date|court|case_number|type|score|saos_url
+541917|2025-05-28|SO|I ACa 1708/22|Wyrok|56|https://www.saos.org.pl/judgments/541917
+494280|2023-09-07|SO|I ACa 53/23|Wyrok|56|https://www.saos.org.pl/judgments/494280

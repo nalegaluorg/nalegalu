@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-380457|2019-02-21|SO|VIII U 1048/17|Wyrok|https://www.saos.org.pl/judgments/380457
-188402|2015-11-16|SO|VII Ua 100/15|Uzasadnienie|https://www.saos.org.pl/judgments/188402
-170048|2015-07-02|SO|VII Ua 48/15|Uzasadnienie|https://www.saos.org.pl/judgments/170048
+saos_id|date|court|case_number|type|score|saos_url
+188402|2015-11-16|SO|VII Ua 100/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188402
+170048|2015-07-02|SO|VII Ua 48/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/170048

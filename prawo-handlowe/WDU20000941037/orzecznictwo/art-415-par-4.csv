@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-384668|2018-12-10|SO|XX GC 459/17|Wyrok|https://www.saos.org.pl/judgments/384668
-37372|2013-11-12|SO|VIII Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/37372
-35609|2013-11-12|SO|VIII Pa 42/13|Wyrok|https://www.saos.org.pl/judgments/35609
-88767|2008-09-26|SN|V CSK 91/08|Wyrok|https://www.saos.org.pl/judgments/88767
+saos_id|date|court|case_number|type|score|saos_url
+88767|2008-09-26|SN|V CSK 91/08|Wyrok|78|https://www.saos.org.pl/judgments/88767

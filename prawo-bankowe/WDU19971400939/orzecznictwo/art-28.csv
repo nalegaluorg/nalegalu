@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-535532|2024-10-10|SO|I C 172/23|Wyrok|https://www.saos.org.pl/judgments/535532
-304269|2017-05-30|SO|I ACa 1487/16|Wyrok|https://www.saos.org.pl/judgments/304269
-70355|2014-10-07|SO|II K 15/13|Wyrok|https://www.saos.org.pl/judgments/70355
+saos_id|date|court|case_number|type|score|saos_url
+304269|2017-05-30|SO|I ACa 1487/16|Wyrok|56|https://www.saos.org.pl/judgments/304269

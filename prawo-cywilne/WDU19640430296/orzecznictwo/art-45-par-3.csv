@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-542195|2025-02-06|SO|VII Pa 92/23|Wyrok|https://www.saos.org.pl/judgments/542195
-459096|2022-02-25|SO|I Ns 52/19|Uzasadnienie|https://www.saos.org.pl/judgments/459096
-333969|2017-11-20|SO|IV P 95/15|Wyrok|https://www.saos.org.pl/judgments/333969
-275596|2017-03-07|SO|II Cz 201/17|Postanowienie|https://www.saos.org.pl/judgments/275596
-196926|2015-10-28|SO|IV Pa 41/15|Wyrok|https://www.saos.org.pl/judgments/196926
-4796|2013-01-21|SO|VII Pa 180/12|Wyrok|https://www.saos.org.pl/judgments/4796
+saos_id|date|court|case_number|type|score|saos_url
+542195|2025-02-06|SO|VII Pa 92/23|Wyrok|40|https://www.saos.org.pl/judgments/542195
+196926|2015-10-28|SO|IV Pa 41/15|Wyrok|40|https://www.saos.org.pl/judgments/196926

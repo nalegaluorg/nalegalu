@@ -1,19 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-478367|2022-06-21|SO|I Co 1003/22|Postanowienie|https://www.saos.org.pl/judgments/478367
-365890|2018-11-27|SO|I C 1252/18|Wyrok|https://www.saos.org.pl/judgments/365890
-454101|2018-06-06|SO|I ACo 12/18|Postanowienie|https://www.saos.org.pl/judgments/454101
-330068|2018-02-05|SO|XXIII Gz 17/18|Postanowienie|https://www.saos.org.pl/judgments/330068
-330703|2018-01-09|SO|XXIII Gz 1613/17|Postanowienie|https://www.saos.org.pl/judgments/330703
-330701|2018-01-09|SO|XXIII Gz 1591/17|Postanowienie|https://www.saos.org.pl/judgments/330701
-321172|2017-12-20|SO|XXIII Gz 1550/17|Postanowienie|https://www.saos.org.pl/judgments/321172
-315274|2017-11-23|SO|I ACa 708/17|Postanowienie|https://www.saos.org.pl/judgments/315274
-312779|2017-05-24|SO|I ACa 171/17|Wyrok|https://www.saos.org.pl/judgments/312779
-268216|2017-01-30|SO|VIII Gz 335/16|Postanowienie|https://www.saos.org.pl/judgments/268216
-249138|2016-08-03|SO|I C 318/16|Wyrok|https://www.saos.org.pl/judgments/249138
-148897|2015-03-31|SO|VIII Gz 7/15|Postanowienie|https://www.saos.org.pl/judgments/148897
-75866|2014-12-08|SO|II Cz 709/14|Postanowienie|https://www.saos.org.pl/judgments/75866
-49183|2014-01-31|SO|II Cz 985/13|Postanowienie|https://www.saos.org.pl/judgments/49183
-139625|2013-04-26|SO|II Ca 1204/12|Wyrok|https://www.saos.org.pl/judgments/139625
-629|2012-10-19|SO|I ACa 433/12|Wyrok|https://www.saos.org.pl/judgments/629
-97376|2012-03-02|SN|II CSK 345/11|Wyrok|https://www.saos.org.pl/judgments/97376
-96388|2011-11-23|SN|IV CSK 156/11|Wyrok|https://www.saos.org.pl/judgments/96388
+saos_id|date|court|case_number|type|score|saos_url
+97376|2012-03-02|SN|II CSK 345/11|Wyrok|78|https://www.saos.org.pl/judgments/97376
+96388|2011-11-23|SN|IV CSK 156/11|Wyrok|78|https://www.saos.org.pl/judgments/96388
+312779|2017-05-24|SO|I ACa 171/17|Wyrok|56|https://www.saos.org.pl/judgments/312779
+629|2012-10-19|SO|I ACa 433/12|Wyrok|56|https://www.saos.org.pl/judgments/629
+454101|2018-06-06|SO|I ACo 12/18|Postanowienie|47|https://www.saos.org.pl/judgments/454101
+315274|2017-11-23|SO|I ACa 708/17|Postanowienie|47|https://www.saos.org.pl/judgments/315274
+478367|2022-06-21|SO|I Co 1003/22|Postanowienie|31|https://www.saos.org.pl/judgments/478367

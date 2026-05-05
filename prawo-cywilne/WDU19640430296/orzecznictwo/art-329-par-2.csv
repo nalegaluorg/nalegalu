@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-528948|2025-03-12|SO|V Pa 134/24|Wyrok|https://www.saos.org.pl/judgments/528948
-502299|2023-01-26|SO|II Ca 951/22|Wyrok|https://www.saos.org.pl/judgments/502299
-435366|2021-03-17|SO|II Ca 25/21|Wyrok|https://www.saos.org.pl/judgments/435366
-386188|2019-03-25|SO|V AGa 207/18|Wyrok|https://www.saos.org.pl/judgments/386188
-381473|2019-02-15|SO|VII Ua 95/18|Wyrok|https://www.saos.org.pl/judgments/381473
-522933|2018-11-19|SO|II Ca 578/18|Wyrok|https://www.saos.org.pl/judgments/522933
-339499|2018-04-10|SO|II Ca 1197/17|Postanowienie|https://www.saos.org.pl/judgments/339499
-294608|2017-07-03|SO|I ACa 607/16|Wyrok|https://www.saos.org.pl/judgments/294608
-243148|2015-08-20|SN|II CSK 505/14|Wyrok|https://www.saos.org.pl/judgments/243148
-73097|2014-11-17|SO|I ACa 740/14|Wyrok|https://www.saos.org.pl/judgments/73097
-50425|2013-12-20|SO|I ACa 1326/13|Wyrok|https://www.saos.org.pl/judgments/50425
-28416|2013-10-09|SO|I ACa 687/13|Wyrok|https://www.saos.org.pl/judgments/28416
-21542|2013-09-05|SO|I ACa 643/13|Wyrok|https://www.saos.org.pl/judgments/21542
-20810|2013-07-24|SO|II Ca 602/13|Wyrok|https://www.saos.org.pl/judgments/20810
-86788|2007-11-07|SN|II CSK 344/07|Wyrok|https://www.saos.org.pl/judgments/86788
-83291|2005-03-18|SN|II CK 556/04|Wyrok|https://www.saos.org.pl/judgments/83291
+saos_id|date|court|case_number|type|score|saos_url
+243148|2015-08-20|SN|II CSK 505/14|Wyrok|78|https://www.saos.org.pl/judgments/243148
+86788|2007-11-07|SN|II CSK 344/07|Wyrok|78|https://www.saos.org.pl/judgments/86788
+83291|2005-03-18|SN|II CK 556/04|Wyrok|78|https://www.saos.org.pl/judgments/83291
+386188|2019-03-25|SO|V AGa 207/18|Wyrok|56|https://www.saos.org.pl/judgments/386188
+294608|2017-07-03|SO|I ACa 607/16|Wyrok|56|https://www.saos.org.pl/judgments/294608
+73097|2014-11-17|SO|I ACa 740/14|Wyrok|56|https://www.saos.org.pl/judgments/73097
+50425|2013-12-20|SO|I ACa 1326/13|Wyrok|56|https://www.saos.org.pl/judgments/50425
+28416|2013-10-09|SO|I ACa 687/13|Wyrok|56|https://www.saos.org.pl/judgments/28416
+21542|2013-09-05|SO|I ACa 643/13|Wyrok|56|https://www.saos.org.pl/judgments/21542
+381473|2019-02-15|SO|VII Ua 95/18|Wyrok|40|https://www.saos.org.pl/judgments/381473

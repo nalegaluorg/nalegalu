@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-438670|2019-05-15|SO|V ACa 51/18|Wyrok|https://www.saos.org.pl/judgments/438670
-244836|2016-03-10|SN|III KK 350/15|Wyrok|https://www.saos.org.pl/judgments/244836
-42833|2013-11-14|SO|I ACa 497/13|Wyrok|https://www.saos.org.pl/judgments/42833
+saos_id|date|court|case_number|type|score|saos_url
+244836|2016-03-10|SN|III KK 350/15|Wyrok|78|https://www.saos.org.pl/judgments/244836
+438670|2019-05-15|SO|V ACa 51/18|Wyrok|56|https://www.saos.org.pl/judgments/438670
+42833|2013-11-14|SO|I ACa 497/13|Wyrok|56|https://www.saos.org.pl/judgments/42833

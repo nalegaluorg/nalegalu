@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-481184|2022-11-09|SO|I Ca 215/22|Wyrok|https://www.saos.org.pl/judgments/481184
-427680|2019-07-31|SO|I ACa 127/19|Wyrok|https://www.saos.org.pl/judgments/427680
+saos_id|date|court|case_number|type|score|saos_url
+427680|2019-07-31|SO|I ACa 127/19|Wyrok|56|https://www.saos.org.pl/judgments/427680

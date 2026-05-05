@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-523148|2024-10-14|SO|II AKa 225/23|Wyrok|https://www.saos.org.pl/judgments/523148
-104454|2014-02-13|SN|V KK 281/13|Postanowienie|https://www.saos.org.pl/judgments/104454
+saos_id|date|court|case_number|type|score|saos_url
+104454|2014-02-13|SN|V KK 281/13|Postanowienie|69|https://www.saos.org.pl/judgments/104454
+523148|2024-10-14|SO|II AKa 225/23|Wyrok|56|https://www.saos.org.pl/judgments/523148

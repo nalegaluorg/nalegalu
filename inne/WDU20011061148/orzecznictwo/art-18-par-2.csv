@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-317628|2017-11-20|SO|IX W 2044/17|Wyrok|https://www.saos.org.pl/judgments/317628
-235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|https://www.saos.org.pl/judgments/235683
-234224|2016-05-31|SO|IX W 258/16|Wyrok|https://www.saos.org.pl/judgments/234224
+saos_id|date|court|case_number|type|score|saos_url
+235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/235683

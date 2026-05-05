@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-145560|2014-01-30|SO|I C 411/13|Wyrok|https://www.saos.org.pl/judgments/145560
-42360|2013-12-16|SO|IV Ka 370/13|Wyrok|https://www.saos.org.pl/judgments/42360
-37764|2013-12-16|SO|IV Ka 370/13|Wyrok|https://www.saos.org.pl/judgments/37764
+saos_id|date|court|case_number|type|score|saos_url
+42360|2013-12-16|SO|IV Ka 370/13|Wyrok|40|https://www.saos.org.pl/judgments/42360
+37764|2013-12-16|SO|IV Ka 370/13|Wyrok|40|https://www.saos.org.pl/judgments/37764

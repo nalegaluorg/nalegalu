@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-531751|2024-10-03|SO|I ACa 1336/22|Wyrok|https://www.saos.org.pl/judgments/531751
-493943|2024-05-28|SO|I ACa 2489/22|Wyrok|https://www.saos.org.pl/judgments/493943
-533353|2024-04-16|SO|I ACa 1684/22|Wyrok|https://www.saos.org.pl/judgments/533353
-535770|2024-01-09|SO|I ACa 1962/22|Wyrok|https://www.saos.org.pl/judgments/535770
-539250|2023-11-21|SO|I ACa 1484/22|Wyrok|https://www.saos.org.pl/judgments/539250
-518633|2023-04-20|SO|I ACa 1781/21|Wyrok|https://www.saos.org.pl/judgments/518633
-518772|2023-03-28|SO|I ACa 132/22|Wyrok|https://www.saos.org.pl/judgments/518772
-417724|2019-02-07|SO|II Ca 2008/18|Wyrok|https://www.saos.org.pl/judgments/417724
-78464|1998-07-29|SN|II UKN 151/98|Wyrok|https://www.saos.org.pl/judgments/78464
+saos_id|date|court|case_number|type|score|saos_url
+78464|1998-07-29|SN|II UKN 151/98|Wyrok|78|https://www.saos.org.pl/judgments/78464
+531751|2024-10-03|SO|I ACa 1336/22|Wyrok|56|https://www.saos.org.pl/judgments/531751
+493943|2024-05-28|SO|I ACa 2489/22|Wyrok|56|https://www.saos.org.pl/judgments/493943
+533353|2024-04-16|SO|I ACa 1684/22|Wyrok|56|https://www.saos.org.pl/judgments/533353
+535770|2024-01-09|SO|I ACa 1962/22|Wyrok|56|https://www.saos.org.pl/judgments/535770
+539250|2023-11-21|SO|I ACa 1484/22|Wyrok|56|https://www.saos.org.pl/judgments/539250
+518633|2023-04-20|SO|I ACa 1781/21|Wyrok|56|https://www.saos.org.pl/judgments/518633
+518772|2023-03-28|SO|I ACa 132/22|Wyrok|56|https://www.saos.org.pl/judgments/518772
+417724|2019-02-07|SO|II Ca 2008/18|Wyrok|40|https://www.saos.org.pl/judgments/417724

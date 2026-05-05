@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-166617|2014-09-04|SN|I PK 23/14|Wyrok|https://www.saos.org.pl/judgments/166617
+saos_id|date|court|case_number|type|score|saos_url
+166617|2014-09-04|SN|I PK 23/14|Wyrok|78|https://www.saos.org.pl/judgments/166617

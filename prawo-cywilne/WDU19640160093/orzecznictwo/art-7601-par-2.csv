@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-436912|2021-02-24|SO|I ACa 289/20|Wyrok|https://www.saos.org.pl/judgments/436912
-392742|2019-08-27|SO|XII C 1717/18|Wyrok|https://www.saos.org.pl/judgments/392742
-380293|2019-04-15|SO|VIII GC 247/18|Uzasadnienie|https://www.saos.org.pl/judgments/380293
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-102907|2013-09-18|SN|V CSK 436/12|Wyrok|https://www.saos.org.pl/judgments/102907
+saos_id|date|court|case_number|type|score|saos_url
+102907|2013-09-18|SN|V CSK 436/12|Wyrok|78|https://www.saos.org.pl/judgments/102907
+436912|2021-02-24|SO|I ACa 289/20|Wyrok|56|https://www.saos.org.pl/judgments/436912
+392742|2019-08-27|SO|XII C 1717/18|Wyrok|40|https://www.saos.org.pl/judgments/392742

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509730|2023-04-13|SO|V ACa 1565/22|Wyrok|https://www.saos.org.pl/judgments/509730
+saos_id|date|court|case_number|type|score|saos_url
+509730|2023-04-13|SO|V ACa 1565/22|Wyrok|56|https://www.saos.org.pl/judgments/509730

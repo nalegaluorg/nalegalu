@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-484042|2022-12-05|SO|I AGa 146/21|Wyrok|https://www.saos.org.pl/judgments/484042
-494898|2022-08-30|SO|I AGa 145/21|Wyrok|https://www.saos.org.pl/judgments/494898
+saos_id|date|court|case_number|type|score|saos_url
+484042|2022-12-05|SO|I AGa 146/21|Wyrok|56|https://www.saos.org.pl/judgments/484042
+494898|2022-08-30|SO|I AGa 145/21|Wyrok|56|https://www.saos.org.pl/judgments/494898

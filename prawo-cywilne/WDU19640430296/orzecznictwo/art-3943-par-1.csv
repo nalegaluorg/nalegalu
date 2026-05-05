@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-496792|2021-06-30|SO|I C 219/13|Wyrok|https://www.saos.org.pl/judgments/496792
-103885|2013-12-11|SN|IV CSK 191/13|Wyrok|https://www.saos.org.pl/judgments/103885
+saos_id|date|court|case_number|type|score|saos_url
+103885|2013-12-11|SN|IV CSK 191/13|Wyrok|78|https://www.saos.org.pl/judgments/103885

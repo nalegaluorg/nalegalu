@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-474721|2022-02-17|SO|IV Pa 96/21|Wyrok|https://www.saos.org.pl/judgments/474721
-368759|2018-10-10|SO|VI GC 11/17|Wyrok|https://www.saos.org.pl/judgments/368759
+saos_id|date|court|case_number|type|score|saos_url
+474721|2022-02-17|SO|IV Pa 96/21|Wyrok|40|https://www.saos.org.pl/judgments/474721

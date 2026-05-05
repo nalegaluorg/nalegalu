@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-466377|2021-09-27|SO|III Pa 19/21|Wyrok|https://www.saos.org.pl/judgments/466377
-387797|2019-02-28|SO|II Ca 1986/18|Wyrok|https://www.saos.org.pl/judgments/387797
-133062|2014-12-24|SO|III Ca 1067/14|Uzasadnienie|https://www.saos.org.pl/judgments/133062
-145080|2013-11-29|SO|I C 978/11|Wyrok|https://www.saos.org.pl/judgments/145080
-144057|2013-10-18|SO|I C 117/13|Wyrok|https://www.saos.org.pl/judgments/144057
-18156|2013-06-25|SO|III APa 17/13|Wyrok|https://www.saos.org.pl/judgments/18156
-144082|2013-03-29|SO|I C 595/11|Wyrok|https://www.saos.org.pl/judgments/144082
+saos_id|date|court|case_number|type|score|saos_url
+18156|2013-06-25|SO|III APa 17/13|Wyrok|56|https://www.saos.org.pl/judgments/18156
+387797|2019-02-28|SO|II Ca 1986/18|Wyrok|40|https://www.saos.org.pl/judgments/387797
+144057|2013-10-18|SO|I C 117/13|Wyrok|40|https://www.saos.org.pl/judgments/144057
+144082|2013-03-29|SO|I C 595/11|Wyrok|40|https://www.saos.org.pl/judgments/144082
+133062|2014-12-24|SO|III Ca 1067/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/133062

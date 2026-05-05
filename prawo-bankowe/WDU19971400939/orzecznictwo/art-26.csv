@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-519648|2024-02-06|SO|I ACa 186/22|Wyrok|https://www.saos.org.pl/judgments/519648
-460300|2017-10-26|SO|I C 1041/16|Wyrok|https://www.saos.org.pl/judgments/460300
+saos_id|date|court|case_number|type|score|saos_url
+519648|2024-02-06|SO|I ACa 186/22|Wyrok|56|https://www.saos.org.pl/judgments/519648

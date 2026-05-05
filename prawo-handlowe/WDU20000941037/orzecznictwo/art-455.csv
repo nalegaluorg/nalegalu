@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-488471|2022-06-23|SO|X GC 4/22|Zarządzenie|https://www.saos.org.pl/judgments/488471
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-3161|2012-11-14|SO|I ACa 808/12|Wyrok|https://www.saos.org.pl/judgments/3161
+saos_id|date|court|case_number|type|score|saos_url
+3161|2012-11-14|SO|I ACa 808/12|Wyrok|56|https://www.saos.org.pl/judgments/3161
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850
+488471|2022-06-23|SO|X GC 4/22|Zarządzenie|27|https://www.saos.org.pl/judgments/488471

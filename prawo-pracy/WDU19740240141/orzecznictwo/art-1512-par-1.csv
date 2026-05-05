@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-507174|2023-10-12|SO|III Pa 43/23|Wyrok|https://www.saos.org.pl/judgments/507174
-466654|2021-11-23|SO|VIII Pa 106/21|Wyrok|https://www.saos.org.pl/judgments/466654
+saos_id|date|court|case_number|type|score|saos_url
+507174|2023-10-12|SO|III Pa 43/23|Wyrok|40|https://www.saos.org.pl/judgments/507174

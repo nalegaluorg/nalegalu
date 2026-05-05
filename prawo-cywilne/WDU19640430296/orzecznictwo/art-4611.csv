@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-390227|2019-04-16|SO|VII Pa 36/19|Wyrok|https://www.saos.org.pl/judgments/390227
-380345|2019-04-04|SO|VIII P 37/15|Zarządzenie|https://www.saos.org.pl/judgments/380345
-345956|2018-06-29|SO|VI Pz 23/18|Postanowienie|https://www.saos.org.pl/judgments/345956
-290691|2017-04-10|SO|VI P 211/16|Wyrok|https://www.saos.org.pl/judgments/290691
+saos_id|date|court|case_number|type|score|saos_url
+390227|2019-04-16|SO|VII Pa 36/19|Wyrok|40|https://www.saos.org.pl/judgments/390227
+290691|2017-04-10|SO|VI P 211/16|Wyrok|40|https://www.saos.org.pl/judgments/290691
+380345|2019-04-04|SO|VIII P 37/15|Zarządzenie|27|https://www.saos.org.pl/judgments/380345

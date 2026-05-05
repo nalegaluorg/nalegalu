@@ -1,10 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520203|2024-09-16|SO|II K 67/24|Wyrok|https://www.saos.org.pl/judgments/520203
-261606|2016-03-04|SO|VIII Kop 13/16|Postanowienie|https://www.saos.org.pl/judgments/261606
-261607|2015-06-29|SO|VIII Kop 73/15|Postanowienie|https://www.saos.org.pl/judgments/261607
-262599|2014-11-03|SO|VIII Kop 181/14|Postanowienie|https://www.saos.org.pl/judgments/262599
-263469|2014-09-09|SO|VIII Kop 129/14|Postanowienie|https://www.saos.org.pl/judgments/263469
-263472|2014-08-05|SO|VIII Kop 142/14|Postanowienie|https://www.saos.org.pl/judgments/263472
-139135|2013-06-20|SO|II AKz 429/13|Postanowienie|https://www.saos.org.pl/judgments/139135
-263480|2013-04-29|SO|VIII Kop 40/13|Postanowienie|https://www.saos.org.pl/judgments/263480
-263478|2013-04-22|SO|VIII Kop 28/13|Postanowienie|https://www.saos.org.pl/judgments/263478
+saos_id|date|court|case_number|type|score|saos_url
+139135|2013-06-20|SO|II AKz 429/13|Postanowienie|47|https://www.saos.org.pl/judgments/139135

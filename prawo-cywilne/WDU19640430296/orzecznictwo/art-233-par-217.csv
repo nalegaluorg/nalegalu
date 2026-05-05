@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-501769|2023-03-29|SO|II Ca 191/18|Postanowienie|https://www.saos.org.pl/judgments/501769
-403234|2019-04-18|SO|I ACa 1064/18|Wyrok|https://www.saos.org.pl/judgments/403234
-417667|2018-12-19|SO|I ACa 245/17|Wyrok|https://www.saos.org.pl/judgments/417667
-278699|2017-01-20|SO|I ACa 1217/16|Wyrok|https://www.saos.org.pl/judgments/278699
-227179|2016-05-12|SO|II Ca 254/16|Wyrok|https://www.saos.org.pl/judgments/227179
-215952|2016-03-08|SO|I ACa 793/15|Wyrok|https://www.saos.org.pl/judgments/215952
-211236|2015-09-23|SO|XII C 213/14|Wyrok|https://www.saos.org.pl/judgments/211236
-159753|2015-02-24|SO|III Ca 59/15|Wyrok|https://www.saos.org.pl/judgments/159753
-41969|2014-03-12|SO|III AUa 1091/13|Wyrok|https://www.saos.org.pl/judgments/41969
-1953|2012-04-24|SO|I ACa 346/12|Wyrok|https://www.saos.org.pl/judgments/1953
-163819|2005-12-08|SN|II CK 297/05|Wyrok|https://www.saos.org.pl/judgments/163819
-163334|2005-06-15|SN|IV CK 806/04|Wyrok|https://www.saos.org.pl/judgments/163334
-163077|2005-03-09|SN|II CK 481/04|Wyrok|https://www.saos.org.pl/judgments/163077
-77580|1997-04-16|SN|II UKN 55/97|Wyrok|https://www.saos.org.pl/judgments/77580
+saos_id|date|court|case_number|type|score|saos_url
+163819|2005-12-08|SN|II CK 297/05|Wyrok|78|https://www.saos.org.pl/judgments/163819
+163334|2005-06-15|SN|IV CK 806/04|Wyrok|78|https://www.saos.org.pl/judgments/163334
+163077|2005-03-09|SN|II CK 481/04|Wyrok|78|https://www.saos.org.pl/judgments/163077
+77580|1997-04-16|SN|II UKN 55/97|Wyrok|78|https://www.saos.org.pl/judgments/77580
+403234|2019-04-18|SO|I ACa 1064/18|Wyrok|56|https://www.saos.org.pl/judgments/403234
+417667|2018-12-19|SO|I ACa 245/17|Wyrok|56|https://www.saos.org.pl/judgments/417667
+278699|2017-01-20|SO|I ACa 1217/16|Wyrok|56|https://www.saos.org.pl/judgments/278699
+215952|2016-03-08|SO|I ACa 793/15|Wyrok|56|https://www.saos.org.pl/judgments/215952
+41969|2014-03-12|SO|III AUa 1091/13|Wyrok|56|https://www.saos.org.pl/judgments/41969
+1953|2012-04-24|SO|I ACa 346/12|Wyrok|56|https://www.saos.org.pl/judgments/1953
+501769|2023-03-29|SO|II Ca 191/18|Postanowienie|31|https://www.saos.org.pl/judgments/501769

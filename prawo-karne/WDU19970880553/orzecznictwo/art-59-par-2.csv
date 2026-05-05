@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531166|2025-02-21|SO|VIII W 785/24|Wyrok|https://www.saos.org.pl/judgments/531166
-206796|2015-06-09|TK|SK 47/13|Wyrok|https://www.saos.org.pl/judgments/206796
-27673|2013-12-05|SO|II Ka 526/13|Wyrok|https://www.saos.org.pl/judgments/27673
+saos_id|date|court|case_number|type|score|saos_url
+206796|2015-06-09|TK|SK 47/13|Wyrok|98|https://www.saos.org.pl/judgments/206796

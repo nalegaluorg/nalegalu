@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504313|2023-12-15|SO|II Kz 293/23|Postanowienie|https://www.saos.org.pl/judgments/504313
-507024|2023-06-13|SO|III K 57/23|Wyrok|https://www.saos.org.pl/judgments/507024
-256135|2016-10-31|SO|I Ca 370/16|Postanowienie|https://www.saos.org.pl/judgments/256135
-210899|2014-11-18|SO|II Ca 355/14|Wyrok|https://www.saos.org.pl/judgments/210899
-166256|2014-07-11|SN|III CSK 257/13|Postanowienie|https://www.saos.org.pl/judgments/166256
-53229|2014-07-09|SO|II Kz 97/14|Postanowienie|https://www.saos.org.pl/judgments/53229
-56848|2014-05-29|SO|II Kz 72/14|Postanowienie|https://www.saos.org.pl/judgments/56848
-104425|2014-02-12|SN|IV CSK 275/13|Postanowienie|https://www.saos.org.pl/judgments/104425
-155683|2013-09-13|SO|II Ca 1010/13|Postanowienie|https://www.saos.org.pl/judgments/155683
-86949|2007-12-20|SN|I KZP 35/07|Uchwała|https://www.saos.org.pl/judgments/86949
+saos_id|date|court|case_number|type|score|saos_url
+86949|2007-12-20|SN|I KZP 35/07|Uchwała|96|https://www.saos.org.pl/judgments/86949
+166256|2014-07-11|SN|III CSK 257/13|Postanowienie|69|https://www.saos.org.pl/judgments/166256
+104425|2014-02-12|SN|IV CSK 275/13|Postanowienie|69|https://www.saos.org.pl/judgments/104425

@@ -1,13 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-529874|2024-05-06|SO|I C 4869/18|Uzasadnienie|https://www.saos.org.pl/judgments/529874
-448903|2021-05-20|SO|I C 357/18|Zarządzenie|https://www.saos.org.pl/judgments/448903
-388458|2019-04-15|SO|III Ca 36/19|Uzasadnienie|https://www.saos.org.pl/judgments/388458
-378203|2019-03-14|SO|II K 355/17|Wyrok|https://www.saos.org.pl/judgments/378203
-398022|2016-03-18|SO|I C 1362/13|Wyrok|https://www.saos.org.pl/judgments/398022
-220471|2015-12-17|SO|I ACa 749/15|Wyrok|https://www.saos.org.pl/judgments/220471
-169388|2015-04-14|SO|II Ca 87/15|Wyrok|https://www.saos.org.pl/judgments/169388
-125746|2014-12-03|SO|I ACa 696/14|Wyrok|https://www.saos.org.pl/judgments/125746
-206475|2014-11-25|TK|K 54/13|Wyrok|https://www.saos.org.pl/judgments/206475
-125694|2014-06-24|SO|I ACa 549/14|Wyrok|https://www.saos.org.pl/judgments/125694
-6469|2013-01-25|SO|I ACa 1125/12|Wyrok|https://www.saos.org.pl/judgments/6469
-110195|2010-03-29|TK|Ts 349/08|Postanowienie|https://www.saos.org.pl/judgments/110195
+saos_id|date|court|case_number|type|score|saos_url
+206475|2014-11-25|TK|K 54/13|Wyrok|98|https://www.saos.org.pl/judgments/206475
+110195|2010-03-29|TK|Ts 349/08|Postanowienie|80|https://www.saos.org.pl/judgments/110195
+220471|2015-12-17|SO|I ACa 749/15|Wyrok|56|https://www.saos.org.pl/judgments/220471
+125746|2014-12-03|SO|I ACa 696/14|Wyrok|56|https://www.saos.org.pl/judgments/125746
+125694|2014-06-24|SO|I ACa 549/14|Wyrok|56|https://www.saos.org.pl/judgments/125694
+6469|2013-01-25|SO|I ACa 1125/12|Wyrok|56|https://www.saos.org.pl/judgments/6469
+388458|2019-04-15|SO|III Ca 36/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/388458

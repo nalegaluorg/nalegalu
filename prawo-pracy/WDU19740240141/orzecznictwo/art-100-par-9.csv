@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-532527|2025-01-21|SO|IV P 74/23|Wyrok|https://www.saos.org.pl/judgments/532527
-297231|2017-07-27|SO|VIII Pa 69/17|Zarządzenie|https://www.saos.org.pl/judgments/297231
+saos_id|date|court|case_number|type|score|saos_url
+297231|2017-07-27|SO|VIII Pa 69/17|Zarządzenie|27|https://www.saos.org.pl/judgments/297231

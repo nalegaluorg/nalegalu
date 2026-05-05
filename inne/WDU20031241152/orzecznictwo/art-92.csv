@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-106794|2004-02-03|TK|SK 18/03|Postanowienie|https://www.saos.org.pl/judgments/106794
+saos_id|date|court|case_number|type|score|saos_url
+106794|2004-02-03|TK|SK 18/03|Postanowienie|80|https://www.saos.org.pl/judgments/106794

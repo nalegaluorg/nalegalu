@@ -1,3 +1,26 @@
-saos_id|date|court|case_number|type|saos_url
-515204|2019-06-10|SO|XVII AmK 22/17|Wyrok|https://www.saos.org.pl/judgments/515204
-515208|2019-02-11|SO|XVII AmK 7/17|Wyrok|https://www.saos.org.pl/judgments/515208
+saos_id|date|court|case_number|type|score|saos_url
+108597|2008-02-19|TK|P 49/06|Wyrok|98|https://www.saos.org.pl/judgments/108597
+83737|2005-09-20|SN|III SZP 2/05|Postanowienie|69|https://www.saos.org.pl/judgments/83737
+480259|2021-12-20|SO|VII AGa 178/21|Wyrok|56|https://www.saos.org.pl/judgments/480259
+447514|2021-04-20|SO|VII AGa 327/19|Wyrok|56|https://www.saos.org.pl/judgments/447514
+434887|2020-11-23|SO|VII AGa 155/19|Wyrok|56|https://www.saos.org.pl/judgments/434887
+405836|2019-09-26|SO|VII AGa 4/19|Wyrok|56|https://www.saos.org.pl/judgments/405836
+383401|2019-03-18|SO|VII AGa 1923/18|Wyrok|56|https://www.saos.org.pl/judgments/383401
+347387|2018-04-17|SO|VII AGa 944/18|Wyrok|56|https://www.saos.org.pl/judgments/347387
+336636|2018-01-24|SO|VII AGa 1250/18|Wyrok|56|https://www.saos.org.pl/judgments/336636
+336451|2017-12-13|SO|VII ACa 943/17|Wyrok|56|https://www.saos.org.pl/judgments/336451
+339045|2017-11-29|SO|VII ACa 997/17|Wyrok|56|https://www.saos.org.pl/judgments/339045
+275729|2016-12-30|SO|VI ACa 1386/15|Wyrok|56|https://www.saos.org.pl/judgments/275729
+295530|2016-12-14|SO|VI ACa 1418/15|Wyrok|56|https://www.saos.org.pl/judgments/295530
+257715|2016-09-15|SO|VI ACa 976/15|Wyrok|56|https://www.saos.org.pl/judgments/257715
+240146|2016-07-01|SO|VI ACa 729/15|Wyrok|56|https://www.saos.org.pl/judgments/240146
+248011|2016-04-27|SO|VI ACa 232/15|Wyrok|56|https://www.saos.org.pl/judgments/248011
+227937|2016-04-20|SO|VI ACa 473/15|Wyrok|56|https://www.saos.org.pl/judgments/227937
+228895|2016-04-14|SO|VI ACa 435/15|Wyrok|56|https://www.saos.org.pl/judgments/228895
+251788|2016-04-01|SO|VI ACa 357/15|Wyrok|56|https://www.saos.org.pl/judgments/251788
+221008|2016-03-04|SO|VI ACa 119/15|Wyrok|56|https://www.saos.org.pl/judgments/221008
+228626|2016-02-26|SO|VI ACa 182/15|Wyrok|56|https://www.saos.org.pl/judgments/228626
+199813|2015-12-02|SO|VI ACa 1797/14|Wyrok|56|https://www.saos.org.pl/judgments/199813
+216998|2015-01-22|SO|VI ACa 238/14|Wyrok|56|https://www.saos.org.pl/judgments/216998
+218167|2014-10-16|SO|VI ACa 1856/13|Wyrok|56|https://www.saos.org.pl/judgments/218167
+66220|2014-06-18|SO|VI ACa 1473/13|Wyrok|56|https://www.saos.org.pl/judgments/66220

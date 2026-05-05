@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-379745|2018-11-06|SO|V ACa 853/17|Wyrok|https://www.saos.org.pl/judgments/379745
-322996|2017-10-19|SO|I C 2357/15|Wyrok|https://www.saos.org.pl/judgments/322996
+saos_id|date|court|case_number|type|score|saos_url
+379745|2018-11-06|SO|V ACa 853/17|Wyrok|56|https://www.saos.org.pl/judgments/379745

@@ -1,7 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-537950|2025-08-13|SO|III AUz 154/25|Postanowienie|https://www.saos.org.pl/judgments/537950
-541982|2025-01-15|SO|I Nc 56/25|Postanowienie|https://www.saos.org.pl/judgments/541982
-462354|2022-01-12|SO|III Ca 1042/20|Uzasadnienie|https://www.saos.org.pl/judgments/462354
-471966|2021-07-19|SO|XV GC 352/21|Zarządzenie|https://www.saos.org.pl/judgments/471966
-313059|2017-05-24|SO|I ACa 1018/16|Wyrok|https://www.saos.org.pl/judgments/313059
-272328|2014-08-13|SO|IX GC 1956/12|Zarządzenie|https://www.saos.org.pl/judgments/272328
+saos_id|date|court|case_number|type|score|saos_url
+495123|2023-04-06|SO|I AGa 68/22|Wyrok|56|https://www.saos.org.pl/judgments/495123
+493431|2023-01-30|SO|I ACa 1185/22|Wyrok|56|https://www.saos.org.pl/judgments/493431
+457344|2021-09-30|SO|I AGa 8/21|Wyrok|56|https://www.saos.org.pl/judgments/457344
+445267|2021-06-23|SO|I ACa 931/20|Wyrok|56|https://www.saos.org.pl/judgments/445267
+458784|2021-05-12|SO|V ACa 140/21|Wyrok|56|https://www.saos.org.pl/judgments/458784
+488730|2023-05-09|SO|I C 260/23|Postanowienie|31|https://www.saos.org.pl/judgments/488730
+514676|2023-09-01|SO|XIII Ga 1684/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/514676
+461591|2022-03-31|SO|XIII Gz 96/22|Zarządzenie|27|https://www.saos.org.pl/judgments/461591
+470040|2022-03-09|SO|II C 492/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/470040
+455700|2021-07-09|SO|XV Ca 436/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/455700
+422772|2020-10-06|SO|I C 168/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/422772
+433123|2020-09-29|SO|II C 321/18|Zarządzenie|27|https://www.saos.org.pl/judgments/433123

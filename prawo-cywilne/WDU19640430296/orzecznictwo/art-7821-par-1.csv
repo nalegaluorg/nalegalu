@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539217|2024-08-12|SO|I 1 Cz 43/24|Postanowienie|https://www.saos.org.pl/judgments/539217
-515866|2021-07-02|SO|I AGa 326/20|Wyrok|https://www.saos.org.pl/judgments/515866
+saos_id|date|court|case_number|type|score|saos_url
+515866|2021-07-02|SO|I AGa 326/20|Wyrok|56|https://www.saos.org.pl/judgments/515866

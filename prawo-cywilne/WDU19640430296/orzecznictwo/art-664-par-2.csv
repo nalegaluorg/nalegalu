@@ -1,11 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-384745|2019-06-06|SO|IX Ca 1460/18|Wyrok|https://www.saos.org.pl/judgments/384745
-282771|2017-03-30|SO|II Ca 604/16|Wyrok|https://www.saos.org.pl/judgments/282771
-251017|2016-09-23|SO|VIII Ga 254/16|Wyrok|https://www.saos.org.pl/judgments/251017
-189064|2015-10-09|SO|X GC 735/13|Uzasadnienie|https://www.saos.org.pl/judgments/189064
-177978|2015-09-25|SO|I C 1128/12|Uzasadnienie|https://www.saos.org.pl/judgments/177978
-127925|2015-01-09|SO|VIII Ga 376/14|Wyrok|https://www.saos.org.pl/judgments/127925
-127031|2014-11-27|SO|III Ca 843/14|Uzasadnienie|https://www.saos.org.pl/judgments/127031
-57956|2014-07-25|SO|II Ca 489/14|Wyrok|https://www.saos.org.pl/judgments/57956
-40923|2014-03-10|SO|VIII GC 1320/13|Wyrok|https://www.saos.org.pl/judgments/40923
-26265|2013-10-23|SO|VIII Ga 13/13|Uzasadnienie|https://www.saos.org.pl/judgments/26265
+saos_id|date|court|case_number|type|score|saos_url
+189064|2015-10-09|SO|X GC 735/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/189064
+127031|2014-11-27|SO|III Ca 843/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/127031

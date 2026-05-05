@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-514693|2024-04-24|SO|XIII Ga 644/23|Uzasadnienie|https://www.saos.org.pl/judgments/514693
-489796|2023-03-28|SO|XXIII Ga 1931/22|Postanowienie|https://www.saos.org.pl/judgments/489796
-441291|2021-04-30|SO|XI GC 144/20|Zarządzenie|https://www.saos.org.pl/judgments/441291
-437890|2020-10-13|SO|III APa 4/20|Wyrok|https://www.saos.org.pl/judgments/437890
-461464|2020-01-28|SO|III AUa 162/19|Uzasadnienie|https://www.saos.org.pl/judgments/461464
-426870|2019-06-18|SO|VI GC 1858/17|Wyrok|https://www.saos.org.pl/judgments/426870
-397047|2019-04-25|SO|II AKa 1/19|Uzasadnienie|https://www.saos.org.pl/judgments/397047
-372369|2019-03-07|SO|XIII Ga 1302/18|Uzasadnienie|https://www.saos.org.pl/judgments/372369
-382028|2019-01-29|SO|V AGa 187/18|Wyrok|https://www.saos.org.pl/judgments/382028
-336432|2018-04-04|SO|VI GC 1372/17|Wyrok|https://www.saos.org.pl/judgments/336432
-320107|2017-11-09|SO|V ACa 69/17|Wyrok|https://www.saos.org.pl/judgments/320107
-312307|2017-10-10|SO|XI GC 1046/17|Wyrok|https://www.saos.org.pl/judgments/312307
-266354|2017-01-04|SO|VII Ka 848/16|Wyrok|https://www.saos.org.pl/judgments/266354
-272078|2016-12-06|SO|I ACa 1889/15|Wyrok|https://www.saos.org.pl/judgments/272078
-276706|2016-08-23|SO|VI GC 408/16|Wyrok|https://www.saos.org.pl/judgments/276706
-245052|2016-04-07|SN|III CZP 84/15|Uchwała|https://www.saos.org.pl/judgments/245052
+saos_id|date|court|case_number|type|score|saos_url
+245052|2016-04-07|SN|III CZP 84/15|Uchwała|89|https://www.saos.org.pl/judgments/245052
+437890|2020-10-13|SO|III APa 4/20|Wyrok|56|https://www.saos.org.pl/judgments/437890
+382028|2019-01-29|SO|V AGa 187/18|Wyrok|56|https://www.saos.org.pl/judgments/382028
+320107|2017-11-09|SO|V ACa 69/17|Wyrok|56|https://www.saos.org.pl/judgments/320107
+272078|2016-12-06|SO|I ACa 1889/15|Wyrok|56|https://www.saos.org.pl/judgments/272078
+461464|2020-01-28|SO|III AUa 162/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/461464
+397047|2019-04-25|SO|II AKa 1/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/397047
+266354|2017-01-04|SO|VII Ka 848/16|Wyrok|40|https://www.saos.org.pl/judgments/266354
+514693|2024-04-24|SO|XIII Ga 644/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514693
+372369|2019-03-07|SO|XIII Ga 1302/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/372369

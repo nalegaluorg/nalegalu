@@ -1,8 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-466785|2021-10-12|SO|IV U 843/20|Wyrok|https://www.saos.org.pl/judgments/466785
-444430|2018-11-08|SO|II Ca 661/17|Postanowienie|https://www.saos.org.pl/judgments/444430
-336451|2017-12-13|SO|VII ACa 943/17|Wyrok|https://www.saos.org.pl/judgments/336451
-339056|2016-03-24|SO|XVII AmK 23/14|Wyrok|https://www.saos.org.pl/judgments/339056
-213688|2016-01-21|SO|XVII AmK 20/14|Wyrok|https://www.saos.org.pl/judgments/213688
-235755|2015-08-05|SO|XVII AmK 24/14|Wyrok|https://www.saos.org.pl/judgments/235755
-87787|2008-04-11|SN|I UK 261/07|Wyrok|https://www.saos.org.pl/judgments/87787
+saos_id|date|court|case_number|type|score|saos_url
+87787|2008-04-11|SN|I UK 261/07|Wyrok|78|https://www.saos.org.pl/judgments/87787
+336451|2017-12-13|SO|VII ACa 943/17|Wyrok|56|https://www.saos.org.pl/judgments/336451

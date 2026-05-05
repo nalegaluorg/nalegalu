@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-163546|2005-09-22|SN|IV CK 94/05|Wyrok|https://www.saos.org.pl/judgments/163546
-163232|2005-05-13|SN|I CK 712/04|Wyrok|https://www.saos.org.pl/judgments/163232
-83392|2005-05-13|SN|I CK 675/04|Wyrok|https://www.saos.org.pl/judgments/83392
-163126|2005-03-31|SN|V CK 530/04|Wyrok|https://www.saos.org.pl/judgments/163126
-162825|2004-12-22|SN|III CK 17/04|Wyrok|https://www.saos.org.pl/judgments/162825
-81432|2002-06-04|SN|I PKN 371/01|Wyrok|https://www.saos.org.pl/judgments/81432
-80841|2001-09-12|SN|I PZ 59/01|Postanowienie|https://www.saos.org.pl/judgments/80841
+saos_id|date|court|case_number|type|score|saos_url
+163546|2005-09-22|SN|IV CK 94/05|Wyrok|78|https://www.saos.org.pl/judgments/163546
+163232|2005-05-13|SN|I CK 712/04|Wyrok|78|https://www.saos.org.pl/judgments/163232
+83392|2005-05-13|SN|I CK 675/04|Wyrok|78|https://www.saos.org.pl/judgments/83392
+163126|2005-03-31|SN|V CK 530/04|Wyrok|78|https://www.saos.org.pl/judgments/163126
+162825|2004-12-22|SN|III CK 17/04|Wyrok|78|https://www.saos.org.pl/judgments/162825
+81432|2002-06-04|SN|I PKN 371/01|Wyrok|78|https://www.saos.org.pl/judgments/81432
+80841|2001-09-12|SN|I PZ 59/01|Postanowienie|69|https://www.saos.org.pl/judgments/80841

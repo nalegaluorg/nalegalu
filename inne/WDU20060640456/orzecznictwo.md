@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 10 kwietnia 20
 
 ## art. 207 (1)
 
-- 2006-06-09 | SN | [IV CSK 161/05](https://www.saos.org.pl/judgments/164338) | Wyrok
+- 2006-06-09 | SN | [IV CSK 161/05](https://www.saos.org.pl/judgments/164338) | Wyrok ★
 

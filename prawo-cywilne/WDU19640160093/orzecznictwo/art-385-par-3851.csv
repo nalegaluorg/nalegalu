@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-526741|2020-05-11|SO|II Ca 69/20|Wyrok|https://www.saos.org.pl/judgments/526741
-244753|2016-03-04|SN|I CSK 72/15|Wyrok|https://www.saos.org.pl/judgments/244753
+saos_id|date|court|case_number|type|score|saos_url
+244753|2016-03-04|SN|I CSK 72/15|Wyrok|78|https://www.saos.org.pl/judgments/244753

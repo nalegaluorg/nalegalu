@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-381156|2019-04-11|SO|XIII Ga 1312/18|Uzasadnienie|https://www.saos.org.pl/judgments/381156
-237718|2016-06-13|SO|IX P 186/16|Zarządzenie|https://www.saos.org.pl/judgments/237718
-226262|2016-02-04|SO|I ACa 847/15|Wyrok|https://www.saos.org.pl/judgments/226262
-49448|2014-05-28|SO|I ACa 1572/13|Wyrok|https://www.saos.org.pl/judgments/49448
-66179|2013-09-20|SO|XI C 509/13|Wyrok|https://www.saos.org.pl/judgments/66179
-14017|2013-05-27|SO|VIII GC 98/12|Wyrok|https://www.saos.org.pl/judgments/14017
-3566|2012-11-08|SO|I ACa 532/12|Wyrok|https://www.saos.org.pl/judgments/3566
-381440|2008-05-27|SO|V ACa 175/08|Wyrok|https://www.saos.org.pl/judgments/381440
+saos_id|date|court|case_number|type|score|saos_url
+226262|2016-02-04|SO|I ACa 847/15|Wyrok|56|https://www.saos.org.pl/judgments/226262
+49448|2014-05-28|SO|I ACa 1572/13|Wyrok|56|https://www.saos.org.pl/judgments/49448
+3566|2012-11-08|SO|I ACa 532/12|Wyrok|56|https://www.saos.org.pl/judgments/3566
+381440|2008-05-27|SO|V ACa 175/08|Wyrok|56|https://www.saos.org.pl/judgments/381440
+381156|2019-04-11|SO|XIII Ga 1312/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/381156

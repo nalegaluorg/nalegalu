@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-14725|2013-05-16|SO|I ACa 1448/12|Wyrok|https://www.saos.org.pl/judgments/14725
-543|2012-09-27|SO|I ACa 427/12|Wyrok|https://www.saos.org.pl/judgments/543
-2091|2012-07-18|SO|I ACa 687/12|Wyrok|https://www.saos.org.pl/judgments/2091
+saos_id|date|court|case_number|type|score|saos_url
+14725|2013-05-16|SO|I ACa 1448/12|Wyrok|56|https://www.saos.org.pl/judgments/14725
+543|2012-09-27|SO|I ACa 427/12|Wyrok|56|https://www.saos.org.pl/judgments/543
+2091|2012-07-18|SO|I ACa 687/12|Wyrok|56|https://www.saos.org.pl/judgments/2091

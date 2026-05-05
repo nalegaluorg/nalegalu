@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-207026|2015-06-01|TK|Ts 281/14|Postanowienie|https://www.saos.org.pl/judgments/207026
-103159|2013-10-18|SN|III CZP 63/13|Uchwała|https://www.saos.org.pl/judgments/103159
-96453|2011-11-30|SN|III CZP 74/11|Uchwała|https://www.saos.org.pl/judgments/96453
-96449|2011-11-30|SN|III CZP 66/11|Uchwała|https://www.saos.org.pl/judgments/96449
+saos_id|date|court|case_number|type|score|saos_url
+103159|2013-10-18|SN|III CZP 63/13|Uchwała|89|https://www.saos.org.pl/judgments/103159
+96453|2011-11-30|SN|III CZP 74/11|Uchwała|89|https://www.saos.org.pl/judgments/96453
+96449|2011-11-30|SN|III CZP 66/11|Uchwała|89|https://www.saos.org.pl/judgments/96449
+207026|2015-06-01|TK|Ts 281/14|Postanowienie|80|https://www.saos.org.pl/judgments/207026

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-166824|2014-10-03|SN|SNO 48/14|Uchwała|https://www.saos.org.pl/judgments/166824
-97158|2012-02-15|SN|I CNP 25/11|Wyrok|https://www.saos.org.pl/judgments/97158
-91648|2010-01-21|SN|I CSK 209/09|Postanowienie|https://www.saos.org.pl/judgments/91648
+saos_id|date|court|case_number|type|score|saos_url
+166824|2014-10-03|SN|SNO 48/14|Uchwała|89|https://www.saos.org.pl/judgments/166824
+97158|2012-02-15|SN|I CNP 25/11|Wyrok|78|https://www.saos.org.pl/judgments/97158
+91648|2010-01-21|SN|I CSK 209/09|Postanowienie|69|https://www.saos.org.pl/judgments/91648

@@ -6,13 +6,13 @@ Orzeczenia powołujące: *Ustawa z dnia 22 października 2010 r. o zmianie ustaw
 
 ## art. 1 (2)
 
-- 2022-06-09 | SO | [III AUa 598/22](https://www.saos.org.pl/judgments/477976) | Uzasadnienie
 - 2016-02-05 | SO | [III AUa 1511/15](https://www.saos.org.pl/judgments/218506) | Wyrok
+- 2022-06-09 | SO | [III AUa 598/22](https://www.saos.org.pl/judgments/477976) | Uzasadnienie
 
 ## art. 36 (2)
 
-- 2022-06-09 | SO | [III AUa 598/22](https://www.saos.org.pl/judgments/477976) | Uzasadnienie
 - 2016-02-05 | SO | [III AUa 1511/15](https://www.saos.org.pl/judgments/218506) | Wyrok
+- 2022-06-09 | SO | [III AUa 598/22](https://www.saos.org.pl/judgments/477976) | Uzasadnienie
 
 ## (ogólnie) (2)
 

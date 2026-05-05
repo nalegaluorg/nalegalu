@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-415114|2019-11-13|SO|XIII U 538/16|Wyrok|https://www.saos.org.pl/judgments/415114
+saos_id|date|court|case_number|type|score|saos_url
+482587|2019-11-07|SO|I ACa 120/19|Wyrok|56|https://www.saos.org.pl/judgments/482587
+277961|2017-01-13|SO|VI ACa 1536/15|Wyrok|56|https://www.saos.org.pl/judgments/277961
+490426|2015-05-27|SO|I ACa 1227/14|Wyrok|56|https://www.saos.org.pl/judgments/490426
+204482|2016-02-09|SO|II AKo 28/16|Postanowienie|47|https://www.saos.org.pl/judgments/204482

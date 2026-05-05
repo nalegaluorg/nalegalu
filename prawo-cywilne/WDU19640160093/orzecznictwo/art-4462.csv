@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-361255|2018-03-20|SO|II Ca 2542/17|Wyrok|https://www.saos.org.pl/judgments/361255
-190916|2015-10-21|SO|I ACa 431/15|Wyrok|https://www.saos.org.pl/judgments/190916
+saos_id|date|court|case_number|type|score|saos_url
+190916|2015-10-21|SO|I ACa 431/15|Wyrok|56|https://www.saos.org.pl/judgments/190916
+361255|2018-03-20|SO|II Ca 2542/17|Wyrok|40|https://www.saos.org.pl/judgments/361255

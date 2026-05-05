@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-98327|2012-06-14|SN|I CSK 521/11|Wyrok|https://www.saos.org.pl/judgments/98327
+saos_id|date|court|case_number|type|score|saos_url
+98327|2012-06-14|SN|I CSK 521/11|Wyrok|78|https://www.saos.org.pl/judgments/98327

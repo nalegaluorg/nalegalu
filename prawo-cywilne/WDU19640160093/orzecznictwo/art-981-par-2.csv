@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-446869|2021-04-15|SO|II Ca 2130/20|Postanowienie|https://www.saos.org.pl/judgments/446869
-15221|2013-06-13|SO|II Ca 365/13|Wyrok|https://www.saos.org.pl/judgments/15221
+saos_id|date|court|case_number|type|score|saos_url
+446869|2021-04-15|SO|II Ca 2130/20|Postanowienie|31|https://www.saos.org.pl/judgments/446869

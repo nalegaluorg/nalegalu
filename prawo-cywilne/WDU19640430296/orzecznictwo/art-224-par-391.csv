@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-79776|2000-06-08|SN|II UKN 580/99|Wyrok|https://www.saos.org.pl/judgments/79776
+saos_id|date|court|case_number|type|score|saos_url
+79776|2000-06-08|SN|II UKN 580/99|Wyrok|78|https://www.saos.org.pl/judgments/79776

@@ -1,18 +1,17 @@
-saos_id|date|court|case_number|type|saos_url
-216719|2015-08-31|SO|II W 542/14|Wyrok|https://www.saos.org.pl/judgments/216719
-54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|https://www.saos.org.pl/judgments/54648
-76292|2010-03-23|SN|II PZ 2/10|Postanowienie|https://www.saos.org.pl/judgments/76292
-90017|2009-04-08|SN|II PZP 1/09|Uchwała|https://www.saos.org.pl/judgments/90017
-85739|2007-04-24|SN|I PK 263/06|Wyrok|https://www.saos.org.pl/judgments/85739
-84752|2006-11-23|SN|II PZ 43/06|Postanowienie|https://www.saos.org.pl/judgments/84752
-84578|2006-09-21|SN|II PZ 34/06|Postanowienie|https://www.saos.org.pl/judgments/84578
-84536|2006-09-06|SN|III SPZP 2/06|Uchwała|https://www.saos.org.pl/judgments/84536
-83468|2005-06-07|SN|III SO 10/05|Postanowienie|https://www.saos.org.pl/judgments/83468
-83343|2005-04-21|SN|I PZ 1/05|Postanowienie|https://www.saos.org.pl/judgments/83343
-83152|2005-01-19|SN|III SPP 109/04|Uchwała|https://www.saos.org.pl/judgments/83152
-81245|2002-02-27|SN|III CZP 4/02|Uchwała|https://www.saos.org.pl/judgments/81245
-81128|2002-01-14|SN|I PZ 99/01|Postanowienie|https://www.saos.org.pl/judgments/81128
-79916|2000-09-15|SN|I PZ 58/00|Postanowienie|https://www.saos.org.pl/judgments/79916
-79467|2000-01-11|SN|I PZ 81/99|Postanowienie|https://www.saos.org.pl/judgments/79467
-78941|1999-04-07|SN|I PKN 643/98|Wyrok|https://www.saos.org.pl/judgments/78941
-77405|1997-01-17|SN|I PKN 65/96|Postanowienie|https://www.saos.org.pl/judgments/77405
+saos_id|date|court|case_number|type|score|saos_url
+90017|2009-04-08|SN|II PZP 1/09|Uchwała|89|https://www.saos.org.pl/judgments/90017
+84536|2006-09-06|SN|III SPZP 2/06|Uchwała|89|https://www.saos.org.pl/judgments/84536
+83152|2005-01-19|SN|III SPP 109/04|Uchwała|89|https://www.saos.org.pl/judgments/83152
+81245|2002-02-27|SN|III CZP 4/02|Uchwała|89|https://www.saos.org.pl/judgments/81245
+85739|2007-04-24|SN|I PK 263/06|Wyrok|78|https://www.saos.org.pl/judgments/85739
+78941|1999-04-07|SN|I PKN 643/98|Wyrok|78|https://www.saos.org.pl/judgments/78941
+76292|2010-03-23|SN|II PZ 2/10|Postanowienie|69|https://www.saos.org.pl/judgments/76292
+84752|2006-11-23|SN|II PZ 43/06|Postanowienie|69|https://www.saos.org.pl/judgments/84752
+84578|2006-09-21|SN|II PZ 34/06|Postanowienie|69|https://www.saos.org.pl/judgments/84578
+83468|2005-06-07|SN|III SO 10/05|Postanowienie|69|https://www.saos.org.pl/judgments/83468
+83343|2005-04-21|SN|I PZ 1/05|Postanowienie|69|https://www.saos.org.pl/judgments/83343
+81128|2002-01-14|SN|I PZ 99/01|Postanowienie|69|https://www.saos.org.pl/judgments/81128
+79916|2000-09-15|SN|I PZ 58/00|Postanowienie|69|https://www.saos.org.pl/judgments/79916
+79467|2000-01-11|SN|I PZ 81/99|Postanowienie|69|https://www.saos.org.pl/judgments/79467
+77405|1997-01-17|SN|I PKN 65/96|Postanowienie|69|https://www.saos.org.pl/judgments/77405
+54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/54648

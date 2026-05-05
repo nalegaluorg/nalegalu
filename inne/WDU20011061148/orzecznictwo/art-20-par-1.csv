@@ -1,15 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-527796|2025-03-27|SO|II W 326/24|Wyrok|https://www.saos.org.pl/judgments/527796
-387857|2019-06-18|SO|VII Ka 507/19|Wyrok|https://www.saos.org.pl/judgments/387857
-306656|2017-07-20|SO|VII Ka 700/17|Wyrok|https://www.saos.org.pl/judgments/306656
-304164|2016-07-19|SO|XI Ka 549/16|Wyrok|https://www.saos.org.pl/judgments/304164
-236780|2016-07-06|SO|V W 5331/15|Wyrok|https://www.saos.org.pl/judgments/236780
-240289|2016-04-13|SO|XI W 10746/15|Wyrok|https://www.saos.org.pl/judgments/240289
-222978|2016-03-10|SO|XI W 7274/15|Wyrok|https://www.saos.org.pl/judgments/222978
-213138|2016-01-18|SO|XI W 10564/15|Wyrok|https://www.saos.org.pl/judgments/213138
-206872|2015-06-25|TK|Ts 81/14|Postanowienie|https://www.saos.org.pl/judgments/206872
-157923|2015-04-15|SO|II W 1075/14|Wyrok|https://www.saos.org.pl/judgments/157923
-132079|2015-02-26|SO|VII Ka 107/15|Wyrok|https://www.saos.org.pl/judgments/132079
-206456|2014-06-03|TK|K 19/11|Wyrok|https://www.saos.org.pl/judgments/206456
-42613|2014-03-04|SO|II W 1481/13|Wyrok|https://www.saos.org.pl/judgments/42613
-35090|2013-10-01|SO|IX Ka 477/13|Wyrok|https://www.saos.org.pl/judgments/35090
+saos_id|date|court|case_number|type|score|saos_url
+206456|2014-06-03|TK|K 19/11|Wyrok|98|https://www.saos.org.pl/judgments/206456
+206872|2015-06-25|TK|Ts 81/14|Postanowienie|80|https://www.saos.org.pl/judgments/206872

@@ -6,15 +6,15 @@ Orzeczenia powołujące: *Ustawa z dnia 28 lipca 2005 r. o zmianie ustawy o prom
 
 ## art. 25 (1)
 
-- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok
+- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok ★
 
 ## art. 150 (1)
 
-- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok
+- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok ★
 
 ## art. 151 (1)
 
-- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok
+- 2006-09-18 | TK | [SK 15/05](https://www.saos.org.pl/judgments/107670) | Wyrok ★
 
 ## (ogólnie) (2)
 

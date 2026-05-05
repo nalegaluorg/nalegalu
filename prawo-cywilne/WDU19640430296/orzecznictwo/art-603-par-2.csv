@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-512813|2023-10-12|SO|VIII Gz 126/23|Postanowienie|https://www.saos.org.pl/judgments/512813
-487776|2023-01-30|SO|I Co 531/22|Postanowienie|https://www.saos.org.pl/judgments/487776
-431878|2021-01-19|SO|VIII U 2392/19|Uzasadnienie|https://www.saos.org.pl/judgments/431878
-406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|https://www.saos.org.pl/judgments/406189
-407707|2019-12-13|SO|I ACa 160/19|Wyrok|https://www.saos.org.pl/judgments/407707
-290030|2017-06-26|SO|II Cz 392/17|Postanowienie|https://www.saos.org.pl/judgments/290030
-244028|2015-12-11|SN|III CSK 15/15|Postanowienie|https://www.saos.org.pl/judgments/244028
-187587|2015-11-05|SO|VI Ga 265/15|Postanowienie|https://www.saos.org.pl/judgments/187587
-170983|2015-07-10|SO|VI Gz 178/15|Postanowienie|https://www.saos.org.pl/judgments/170983
-153004|2015-05-11|SO|V ACz 362/15|Postanowienie|https://www.saos.org.pl/judgments/153004
-168526|2015-03-13|SN|III CZP 4/15|Uchwała|https://www.saos.org.pl/judgments/168526
-64004|2014-10-02|SO|X Ga 445/14|Postanowienie|https://www.saos.org.pl/judgments/64004
-99736|2012-11-23|SN|IV CSK 150/12|Postanowienie|https://www.saos.org.pl/judgments/99736
+saos_id|date|court|case_number|type|score|saos_url
+168526|2015-03-13|SN|III CZP 4/15|Uchwała|89|https://www.saos.org.pl/judgments/168526
+244028|2015-12-11|SN|III CSK 15/15|Postanowienie|69|https://www.saos.org.pl/judgments/244028
+99736|2012-11-23|SN|IV CSK 150/12|Postanowienie|69|https://www.saos.org.pl/judgments/99736
+407707|2019-12-13|SO|I ACa 160/19|Wyrok|56|https://www.saos.org.pl/judgments/407707
+153004|2015-05-11|SO|V ACz 362/15|Postanowienie|47|https://www.saos.org.pl/judgments/153004
+187587|2015-11-05|SO|VI Ga 265/15|Postanowienie|31|https://www.saos.org.pl/judgments/187587
+170983|2015-07-10|SO|VI Gz 178/15|Postanowienie|31|https://www.saos.org.pl/judgments/170983
+64004|2014-10-02|SO|X Ga 445/14|Postanowienie|31|https://www.saos.org.pl/judgments/64004
+431878|2021-01-19|SO|VIII U 2392/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/431878
+406189|2020-02-04|SO|VIII Pa 187/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/406189

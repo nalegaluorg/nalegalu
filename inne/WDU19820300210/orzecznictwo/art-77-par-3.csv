@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-376941|2019-03-13|SO|I C 1873/18|Wyrok|https://www.saos.org.pl/judgments/376941
-20189|2013-07-10|SO|I ACa 30/13|Wyrok|https://www.saos.org.pl/judgments/20189
-20276|2013-05-09|SO|I ACa 1330/12|Wyrok|https://www.saos.org.pl/judgments/20276
+saos_id|date|court|case_number|type|score|saos_url
+20189|2013-07-10|SO|I ACa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/20189
+20276|2013-05-09|SO|I ACa 1330/12|Wyrok|56|https://www.saos.org.pl/judgments/20276

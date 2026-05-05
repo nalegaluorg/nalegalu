@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 maja 1999 r. o zmianie ustaw Kodeks r
 
 ## art. 27 (1)
 
-- 2011-01-05 | SN | [III UK 69/10](https://www.saos.org.pl/judgments/93830) | Wyrok
+- 2011-01-05 | SN | [III UK 69/10](https://www.saos.org.pl/judgments/93830) | Wyrok ★
 
 ## (ogólnie) (1)
 

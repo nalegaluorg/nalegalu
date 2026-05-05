@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-518761|2024-09-18|SO|XII K 52/23|Wyrok|https://www.saos.org.pl/judgments/518761
-370644|2018-05-18|SO|X K 14/18|Wyrok|https://www.saos.org.pl/judgments/370644
-260849|2016-12-19|SO|III K 858/14|Uzasadnienie|https://www.saos.org.pl/judgments/260849
-248845|2016-07-28|SO|II K 894/15|Wyrok|https://www.saos.org.pl/judgments/248845
-110327|2011-04-12|TK|P 90/08|Wyrok|https://www.saos.org.pl/judgments/110327
+saos_id|date|court|case_number|type|score|saos_url
+110327|2011-04-12|TK|P 90/08|Wyrok|98|https://www.saos.org.pl/judgments/110327

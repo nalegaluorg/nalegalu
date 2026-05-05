@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-358382|2018-07-18|SO|II AKa 234/18|Wyrok|https://www.saos.org.pl/judgments/358382
-235621|2016-02-19|SO|III Ko 139/13|Wyrok|https://www.saos.org.pl/judgments/235621
+saos_id|date|court|case_number|type|score|saos_url
+358382|2018-07-18|SO|II AKa 234/18|Wyrok|56|https://www.saos.org.pl/judgments/358382

@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 14 czerwca 2012 r. o zmianie ustawy o dz
 
 ## art. 11 (1)
 
-- 2014-03-11 | TK | [K 6/13](https://www.saos.org.pl/judgments/160136) | Wyrok
+- 2014-03-11 | TK | [K 6/13](https://www.saos.org.pl/judgments/160136) | Wyrok ★
 

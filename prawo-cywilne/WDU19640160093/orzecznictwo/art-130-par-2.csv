@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-501888|2023-08-01|SO|II Ca 289/23|Uzasadnienie|https://www.saos.org.pl/judgments/501888
-428471|2020-07-24|SO|I AGa 202/19|Wyrok|https://www.saos.org.pl/judgments/428471
-404842|2019-12-16|SO|XXV C 727/10|Wyrok|https://www.saos.org.pl/judgments/404842
-371975|2019-02-13|SO|XI GC 96/18|Wyrok|https://www.saos.org.pl/judgments/371975
-323437|2017-12-15|SO|I C 741/17|Wyrok|https://www.saos.org.pl/judgments/323437
-287833|2017-04-12|SO|XV C 707/16|Wyrok|https://www.saos.org.pl/judgments/287833
-176013|2015-07-02|SO|VIII GC 45/14|Wyrok|https://www.saos.org.pl/judgments/176013
-150360|2014-11-20|SO|II AKa 200/14|Wyrok|https://www.saos.org.pl/judgments/150360
-65297|2014-08-01|SO|XX GC 459/13|Zarządzenie|https://www.saos.org.pl/judgments/65297
-10666|2013-02-07|SO|I ACa 637/12|Wyrok|https://www.saos.org.pl/judgments/10666
-2231|2012-03-30|SO|I ACz 505/12|Postanowienie|https://www.saos.org.pl/judgments/2231
+saos_id|date|court|case_number|type|score|saos_url
+428471|2020-07-24|SO|I AGa 202/19|Wyrok|56|https://www.saos.org.pl/judgments/428471
+150360|2014-11-20|SO|II AKa 200/14|Wyrok|56|https://www.saos.org.pl/judgments/150360
+10666|2013-02-07|SO|I ACa 637/12|Wyrok|56|https://www.saos.org.pl/judgments/10666
+2231|2012-03-30|SO|I ACz 505/12|Postanowienie|47|https://www.saos.org.pl/judgments/2231

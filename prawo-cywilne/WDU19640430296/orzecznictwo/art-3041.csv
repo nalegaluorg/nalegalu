@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-73226|2014-11-21|SO|I ACa 714/14|Wyrok|https://www.saos.org.pl/judgments/73226
-166562|2014-08-21|SN|IV CZ 46/14|Postanowienie|https://www.saos.org.pl/judgments/166562
-47359|2014-02-18|SO|V ACa 853/13|Wyrok|https://www.saos.org.pl/judgments/47359
+saos_id|date|court|case_number|type|score|saos_url
+166562|2014-08-21|SN|IV CZ 46/14|Postanowienie|69|https://www.saos.org.pl/judgments/166562
+73226|2014-11-21|SO|I ACa 714/14|Wyrok|56|https://www.saos.org.pl/judgments/73226
+47359|2014-02-18|SO|V ACa 853/13|Wyrok|56|https://www.saos.org.pl/judgments/47359

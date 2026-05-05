@@ -1,14 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-487776|2023-01-30|SO|I Co 531/22|Postanowienie|https://www.saos.org.pl/judgments/487776
-422941|2020-05-19|SO|III Cz 70/20|Postanowienie|https://www.saos.org.pl/judgments/422941
-423401|2020-04-16|SO|III Cz 77/20|Postanowienie|https://www.saos.org.pl/judgments/423401
-285816|2017-02-23|SO|VI ACa 1979/16|Wyrok|https://www.saos.org.pl/judgments/285816
-277621|2016-10-25|SO|III AUa 103/16|Wyrok|https://www.saos.org.pl/judgments/277621
-253340|2016-06-07|SO|V ACz 451/16|Postanowienie|https://www.saos.org.pl/judgments/253340
-242239|2016-04-21|SO|III AUa 214/15|Wyrok|https://www.saos.org.pl/judgments/242239
-219455|2016-03-25|SO|VIII Cz 132/16|Postanowienie|https://www.saos.org.pl/judgments/219455
-297428|2015-05-20|SO|II Cz 310/15|Postanowienie|https://www.saos.org.pl/judgments/297428
-128404|2015-01-23|SO|VIII Cz 21/15|Postanowienie|https://www.saos.org.pl/judgments/128404
-53406|2014-07-10|SO|VI Gz 165/14|Postanowienie|https://www.saos.org.pl/judgments/53406
-28703|2013-11-06|SO|VIII Gz 69/13|Postanowienie|https://www.saos.org.pl/judgments/28703
-17315|2013-07-26|SO|VI Gz 201/13|Postanowienie|https://www.saos.org.pl/judgments/17315
+saos_id|date|court|case_number|type|score|saos_url
+285816|2017-02-23|SO|VI ACa 1979/16|Wyrok|56|https://www.saos.org.pl/judgments/285816
+277621|2016-10-25|SO|III AUa 103/16|Wyrok|56|https://www.saos.org.pl/judgments/277621
+242239|2016-04-21|SO|III AUa 214/15|Wyrok|56|https://www.saos.org.pl/judgments/242239
+253340|2016-06-07|SO|V ACz 451/16|Postanowienie|47|https://www.saos.org.pl/judgments/253340
+53406|2014-07-10|SO|VI Gz 165/14|Postanowienie|31|https://www.saos.org.pl/judgments/53406
+17315|2013-07-26|SO|VI Gz 201/13|Postanowienie|31|https://www.saos.org.pl/judgments/17315

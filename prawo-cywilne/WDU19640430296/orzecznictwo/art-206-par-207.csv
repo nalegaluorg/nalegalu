@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-259422|2016-10-06|SO|I C 134/16|Wyrok|https://www.saos.org.pl/judgments/259422
-172307|2015-06-26|SO|I ACa 505/15|Wyrok|https://www.saos.org.pl/judgments/172307
-146656|2013-09-25|SO|I C 1886/12|Wyrok|https://www.saos.org.pl/judgments/146656
+saos_id|date|court|case_number|type|score|saos_url
+172307|2015-06-26|SO|I ACa 505/15|Wyrok|56|https://www.saos.org.pl/judgments/172307

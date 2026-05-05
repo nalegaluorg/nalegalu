@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-308429|2017-06-28|SO|IV Ka 251/17|Wyrok|https://www.saos.org.pl/judgments/308429
-186337|2015-10-30|SO|IV Ka 422/15|Uzasadnienie|https://www.saos.org.pl/judgments/186337
-186332|2015-10-30|SO|IV Ka 394/15|Uzasadnienie|https://www.saos.org.pl/judgments/186332
-65230|2014-09-24|SO|IV Ka 585/14|Wyrok|https://www.saos.org.pl/judgments/65230
-105353|1999-12-09|TK|Ts 50/99|Postanowienie|https://www.saos.org.pl/judgments/105353
-105352|1999-10-05|TK|Ts 50/99|Postanowienie|https://www.saos.org.pl/judgments/105352
+saos_id|date|court|case_number|type|score|saos_url
+105353|1999-12-09|TK|Ts 50/99|Postanowienie|80|https://www.saos.org.pl/judgments/105353
+105352|1999-10-05|TK|Ts 50/99|Postanowienie|80|https://www.saos.org.pl/judgments/105352

@@ -6,6 +6,6 @@ Orzeczenia powołujące: *Ustawa z dnia 18 grudnia 1998 r. o zmianie ustawy o wy
 
 ## art. 1 (2)
 
-- 2003-07-14 | TK | [Tw 71/02](https://www.saos.org.pl/judgments/206176) | Postanowienie
-- 2003-01-14 | TK | [Tw 71/02](https://www.saos.org.pl/judgments/206175) | Postanowienie
+- 2003-07-14 | TK | [Tw 71/02](https://www.saos.org.pl/judgments/206176) | Postanowienie ★
+- 2003-01-14 | TK | [Tw 71/02](https://www.saos.org.pl/judgments/206175) | Postanowienie ★
 

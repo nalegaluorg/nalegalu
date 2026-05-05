@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-315547|2017-10-12|SO|IV Pa 17/17|Wyrok|https://www.saos.org.pl/judgments/315547
+saos_id|date|court|case_number|type|score|saos_url
+240175|2016-03-01|SO|VI P 692/13|Wyrok|40|https://www.saos.org.pl/judgments/240175
+409049|2020-04-03|SO|VIII Pa 196/19|Zarządzenie|27|https://www.saos.org.pl/judgments/409049

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-103548|2013-11-15|SN|III PK 20/13|Wyrok|https://www.saos.org.pl/judgments/103548
-106272|2002-11-18|TK|K 37/01|Wyrok|https://www.saos.org.pl/judgments/106272
-106271|2002-10-09|TK|K 37/01|Postanowienie|https://www.saos.org.pl/judgments/106271
+saos_id|date|court|case_number|type|score|saos_url
+106272|2002-11-18|TK|K 37/01|Wyrok|98|https://www.saos.org.pl/judgments/106272
+106271|2002-10-09|TK|K 37/01|Postanowienie|80|https://www.saos.org.pl/judgments/106271
+103548|2013-11-15|SN|III PK 20/13|Wyrok|78|https://www.saos.org.pl/judgments/103548

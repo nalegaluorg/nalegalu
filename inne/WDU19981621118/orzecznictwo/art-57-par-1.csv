@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-428946|2020-08-31|SO|III AUa 386/19|Wyrok|https://www.saos.org.pl/judgments/428946
-387845|2019-04-16|SO|VI U 11/17|Wyrok|https://www.saos.org.pl/judgments/387845
-358018|2018-09-26|SO|III AUa 188/18|Wyrok|https://www.saos.org.pl/judgments/358018
-63906|2014-09-18|SO|III AUa 1183/13|Wyrok|https://www.saos.org.pl/judgments/63906
-3379|2012-11-27|SO|III AUa 533/12|Wyrok|https://www.saos.org.pl/judgments/3379
+saos_id|date|court|case_number|type|score|saos_url
+428946|2020-08-31|SO|III AUa 386/19|Wyrok|56|https://www.saos.org.pl/judgments/428946
+358018|2018-09-26|SO|III AUa 188/18|Wyrok|56|https://www.saos.org.pl/judgments/358018
+63906|2014-09-18|SO|III AUa 1183/13|Wyrok|56|https://www.saos.org.pl/judgments/63906
+3379|2012-11-27|SO|III AUa 533/12|Wyrok|56|https://www.saos.org.pl/judgments/3379

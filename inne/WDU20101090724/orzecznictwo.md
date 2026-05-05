@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 2 czerwca 2010
 
 ## art. 398(3) § 1 (1)
 
-- 2012-05-09 | SN | [V CSK 238/11](https://www.saos.org.pl/judgments/98053) | Wyrok
+- 2012-05-09 | SN | [V CSK 238/11](https://www.saos.org.pl/judgments/98053) | Wyrok ★
 

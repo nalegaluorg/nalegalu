@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-298186|2016-12-16|SO|III Ca 1482/16|Postanowienie|https://www.saos.org.pl/judgments/298186
-152118|2015-05-12|SO|VI RNs 77/15|Uzasadnienie|https://www.saos.org.pl/judgments/152118
-64729|2014-04-14|SO|I Ns 879/11|Postanowienie|https://www.saos.org.pl/judgments/64729
-49849|2014-02-04|SO|III Cz 42/14|Postanowienie|https://www.saos.org.pl/judgments/49849
-381505|2009-05-06|SO|II AKa 396/08|Wyrok|https://www.saos.org.pl/judgments/381505
+saos_id|date|court|case_number|type|score|saos_url
+381505|2009-05-06|SO|II AKa 396/08|Wyrok|56|https://www.saos.org.pl/judgments/381505

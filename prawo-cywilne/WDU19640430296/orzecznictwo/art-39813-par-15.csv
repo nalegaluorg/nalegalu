@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-91385|2009-12-03|SN|II CSK 215/09|Wyrok|https://www.saos.org.pl/judgments/91385
+saos_id|date|court|case_number|type|score|saos_url
+91385|2009-12-03|SN|II CSK 215/09|Wyrok|78|https://www.saos.org.pl/judgments/91385

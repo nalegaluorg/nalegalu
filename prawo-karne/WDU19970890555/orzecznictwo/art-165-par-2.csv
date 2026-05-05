@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-504237|2024-04-17|SO|II Ka 97/24|Wyrok|https://www.saos.org.pl/judgments/504237
-39400|2013-11-20|SO|I ACa 492/13|Wyrok|https://www.saos.org.pl/judgments/39400
-111593|2013-10-08|TK|K 30/11|Wyrok|https://www.saos.org.pl/judgments/111593
+saos_id|date|court|case_number|type|score|saos_url
+111593|2013-10-08|TK|K 30/11|Wyrok|98|https://www.saos.org.pl/judgments/111593
+39400|2013-11-20|SO|I ACa 492/13|Wyrok|56|https://www.saos.org.pl/judgments/39400

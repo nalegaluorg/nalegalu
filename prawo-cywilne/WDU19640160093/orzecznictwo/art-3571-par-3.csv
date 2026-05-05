@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-339778|2018-02-28|SO|I ACa 1067/17|Wyrok|https://www.saos.org.pl/judgments/339778
+saos_id|date|court|case_number|type|score|saos_url
+339778|2018-02-28|SO|I ACa 1067/17|Wyrok|56|https://www.saos.org.pl/judgments/339778

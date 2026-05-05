@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-387854|2019-05-30|SO|VII Ka 364/19|Wyrok|https://www.saos.org.pl/judgments/387854
-194755|2015-10-01|SO|III K 54/15|Wyrok|https://www.saos.org.pl/judgments/194755
-206510|2014-11-04|TK|SK 55/13|Wyrok|https://www.saos.org.pl/judgments/206510
-102246|2013-06-25|SN|II KK 319/12|Wyrok|https://www.saos.org.pl/judgments/102246
-135747|2012-08-29|SO|II AKa 234/12|Wyrok|https://www.saos.org.pl/judgments/135747
+saos_id|date|court|case_number|type|score|saos_url
+206510|2014-11-04|TK|SK 55/13|Wyrok|98|https://www.saos.org.pl/judgments/206510
+102246|2013-06-25|SN|II KK 319/12|Wyrok|78|https://www.saos.org.pl/judgments/102246
+135747|2012-08-29|SO|II AKa 234/12|Wyrok|56|https://www.saos.org.pl/judgments/135747
+387854|2019-05-30|SO|VII Ka 364/19|Wyrok|40|https://www.saos.org.pl/judgments/387854
+194755|2015-10-01|SO|III K 54/15|Wyrok|40|https://www.saos.org.pl/judgments/194755

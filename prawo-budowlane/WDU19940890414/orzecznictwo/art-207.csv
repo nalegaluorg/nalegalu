@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-296493|2015-10-02|SO|I ACa 788/15|Wyrok|https://www.saos.org.pl/judgments/296493
-32670|2013-11-22|SO|IV Ka 535/13|Wyrok|https://www.saos.org.pl/judgments/32670
+saos_id|date|court|case_number|type|score|saos_url
+296493|2015-10-02|SO|I ACa 788/15|Wyrok|56|https://www.saos.org.pl/judgments/296493

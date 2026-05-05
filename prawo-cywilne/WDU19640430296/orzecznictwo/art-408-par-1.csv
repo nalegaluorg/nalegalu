@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-31070|2014-01-07|SO|III AUz 492/13|Postanowienie|https://www.saos.org.pl/judgments/31070
-102737|2013-08-28|SN|V CO 59/13|Postanowienie|https://www.saos.org.pl/judgments/102737
+saos_id|date|court|case_number|type|score|saos_url
+102737|2013-08-28|SN|V CO 59/13|Postanowienie|69|https://www.saos.org.pl/judgments/102737
+31070|2014-01-07|SO|III AUz 492/13|Postanowienie|47|https://www.saos.org.pl/judgments/31070

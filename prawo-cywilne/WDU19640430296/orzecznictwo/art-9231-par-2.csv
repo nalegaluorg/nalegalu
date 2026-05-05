@@ -1,16 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-252151|2016-10-05|SO|III Ca 1993/15|Wyrok|https://www.saos.org.pl/judgments/252151
-260485|2016-09-27|SO|III Cz 1379/16|Postanowienie|https://www.saos.org.pl/judgments/260485
-185432|2015-06-19|SO|III Ca 748/15|Uzasadnienie|https://www.saos.org.pl/judgments/185432
-171973|2015-05-29|SO|II Cz 735/15|Postanowienie|https://www.saos.org.pl/judgments/171973
-490435|2015-05-28|SO|I ACa 43/15|Wyrok|https://www.saos.org.pl/judgments/490435
-66255|2014-10-13|SO|II Cz 530/14|Postanowienie|https://www.saos.org.pl/judgments/66255
-166908|2014-10-10|SN|III CZP 28/14|Uchwała|https://www.saos.org.pl/judgments/166908
-65364|2014-09-25|SO|III Ca 857/13|Wyrok|https://www.saos.org.pl/judgments/65364
-62214|2014-07-31|SO|III Ca 322/14|Uzasadnienie|https://www.saos.org.pl/judgments/62214
-40518|2014-03-24|SO|II Cz 322/14|Postanowienie|https://www.saos.org.pl/judgments/40518
-41948|2014-02-12|SO|I ACa 1042/13|Wyrok|https://www.saos.org.pl/judgments/41948
-103467|2013-11-07|SN|V CSK 547/12|Postanowienie|https://www.saos.org.pl/judgments/103467
-103242|2013-10-24|SN|IV CSK 7/13|Postanowienie|https://www.saos.org.pl/judgments/103242
-16022|2013-07-12|SO|VIII Cz 351/13|Postanowienie|https://www.saos.org.pl/judgments/16022
-101443|2013-04-17|SN|I CSK 433/12|Postanowienie|https://www.saos.org.pl/judgments/101443
+saos_id|date|court|case_number|type|score|saos_url
+166908|2014-10-10|SN|III CZP 28/14|Uchwała|96|https://www.saos.org.pl/judgments/166908
+103467|2013-11-07|SN|V CSK 547/12|Postanowienie|69|https://www.saos.org.pl/judgments/103467
+103242|2013-10-24|SN|IV CSK 7/13|Postanowienie|69|https://www.saos.org.pl/judgments/103242
+101443|2013-04-17|SN|I CSK 433/12|Postanowienie|69|https://www.saos.org.pl/judgments/101443
+490435|2015-05-28|SO|I ACa 43/15|Wyrok|56|https://www.saos.org.pl/judgments/490435
+41948|2014-02-12|SO|I ACa 1042/13|Wyrok|56|https://www.saos.org.pl/judgments/41948
+185432|2015-06-19|SO|III Ca 748/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185432
+62214|2014-07-31|SO|III Ca 322/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62214

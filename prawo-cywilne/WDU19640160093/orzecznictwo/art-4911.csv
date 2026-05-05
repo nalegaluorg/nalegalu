@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-509881|2022-04-28|SO|V AGa 115/21|Wyrok|https://www.saos.org.pl/judgments/509881
-429273|2020-11-18|SO|VI Gz 315/20|Postanowienie|https://www.saos.org.pl/judgments/429273
-239563|2016-06-23|SO|I ACa 159/16|Wyrok|https://www.saos.org.pl/judgments/239563
-234525|2013-12-11|SO|II Ca 335/13|Uzasadnienie|https://www.saos.org.pl/judgments/234525
+saos_id|date|court|case_number|type|score|saos_url
+509881|2022-04-28|SO|V AGa 115/21|Wyrok|56|https://www.saos.org.pl/judgments/509881
+239563|2016-06-23|SO|I ACa 159/16|Wyrok|56|https://www.saos.org.pl/judgments/239563
+429273|2020-11-18|SO|VI Gz 315/20|Postanowienie|31|https://www.saos.org.pl/judgments/429273

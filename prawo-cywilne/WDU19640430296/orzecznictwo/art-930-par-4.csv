@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-470531|2022-05-13|SO|VIII C 773/21|Wyrok|https://www.saos.org.pl/judgments/470531
-540466|2021-07-22|SO|I C 426/18|Wyrok|https://www.saos.org.pl/judgments/540466
-357899|2018-07-31|SO|VI Ka 1479/17|Wyrok|https://www.saos.org.pl/judgments/357899
-307911|2017-09-15|SO|VIII C 2942/16|Wyrok|https://www.saos.org.pl/judgments/307911
-371502|2017-07-31|SO|I C 173/17|Wyrok|https://www.saos.org.pl/judgments/371502
-219821|2016-02-02|SO|III Ca 22/16|Uzasadnienie|https://www.saos.org.pl/judgments/219821
-212563|2016-01-19|SO|II Cz 800/15|Postanowienie|https://www.saos.org.pl/judgments/212563
-182622|2015-07-31|SO|I C 88/15|Wyrok|https://www.saos.org.pl/judgments/182622
-154811|2015-05-18|SO|I C 325/11|Wyrok|https://www.saos.org.pl/judgments/154811
-155065|2014-01-24|SO|II Ca 1401/13|Postanowienie|https://www.saos.org.pl/judgments/155065
-31927|2013-02-21|SO|I ACa 30/13|Wyrok|https://www.saos.org.pl/judgments/31927
+saos_id|date|court|case_number|type|score|saos_url
+31927|2013-02-21|SO|I ACa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/31927
+470531|2022-05-13|SO|VIII C 773/21|Wyrok|40|https://www.saos.org.pl/judgments/470531
+357899|2018-07-31|SO|VI Ka 1479/17|Wyrok|40|https://www.saos.org.pl/judgments/357899
+307911|2017-09-15|SO|VIII C 2942/16|Wyrok|40|https://www.saos.org.pl/judgments/307911
+219821|2016-02-02|SO|III Ca 22/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/219821

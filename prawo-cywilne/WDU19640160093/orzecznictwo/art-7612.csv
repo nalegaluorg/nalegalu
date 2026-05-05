@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-362071|2018-05-16|SO|XX GC 235/15|Wyrok|https://www.saos.org.pl/judgments/362071
-108587|2008-07-08|TK|P 36/07|Wyrok|https://www.saos.org.pl/judgments/108587
+saos_id|date|court|case_number|type|score|saos_url
+108587|2008-07-08|TK|P 36/07|Wyrok|98|https://www.saos.org.pl/judgments/108587

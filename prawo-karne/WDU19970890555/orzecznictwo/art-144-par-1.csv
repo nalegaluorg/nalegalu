@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-245249|2016-05-04|SN|V KK 388/15|Wyrok|https://www.saos.org.pl/judgments/245249
-168889|2015-04-14|SN|SNO 14/15|Uchwała|https://www.saos.org.pl/judgments/168889
-103544|2013-11-15|SN|III KK 227/13|Wyrok|https://www.saos.org.pl/judgments/103544
-137200|2012-12-28|SO|II AKa 378/12|Wyrok|https://www.saos.org.pl/judgments/137200
-91904|2010-02-24|SN|I KZP 28/09|Uchwała|https://www.saos.org.pl/judgments/91904
-83596|2005-07-13|SN|II KK 378/04|Postanowienie|https://www.saos.org.pl/judgments/83596
+saos_id|date|court|case_number|type|score|saos_url
+91904|2010-02-24|SN|I KZP 28/09|Uchwała|96|https://www.saos.org.pl/judgments/91904
+168889|2015-04-14|SN|SNO 14/15|Uchwała|89|https://www.saos.org.pl/judgments/168889
+245249|2016-05-04|SN|V KK 388/15|Wyrok|78|https://www.saos.org.pl/judgments/245249
+103544|2013-11-15|SN|III KK 227/13|Wyrok|78|https://www.saos.org.pl/judgments/103544
+83596|2005-07-13|SN|II KK 378/04|Postanowienie|69|https://www.saos.org.pl/judgments/83596
+137200|2012-12-28|SO|II AKa 378/12|Wyrok|56|https://www.saos.org.pl/judgments/137200

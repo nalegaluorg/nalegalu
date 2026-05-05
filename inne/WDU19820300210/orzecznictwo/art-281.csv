@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-212498|2016-03-21|SO|I C 1050/14|Zarządzenie|https://www.saos.org.pl/judgments/212498
+saos_id|date|court|case_number|type|score|saos_url
+282599|2017-01-17|SO|VI ACa 1635/15|Wyrok|56|https://www.saos.org.pl/judgments/282599
+184650|2015-06-09|SO|III AUa 770/14|Wyrok|56|https://www.saos.org.pl/judgments/184650

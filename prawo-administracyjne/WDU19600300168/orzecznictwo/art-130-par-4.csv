@@ -1,14 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-540138|2025-10-23|SO|I C 1037/22|Wyrok|https://www.saos.org.pl/judgments/540138
-535089|2025-08-19|SO|VIII U 1243/25|Uzasadnienie|https://www.saos.org.pl/judgments/535089
-477959|2022-11-23|SO|II Ka 352/22|Uzasadnienie|https://www.saos.org.pl/judgments/477959
-479051|2022-05-25|SO|II AKa 40/21|Wyrok|https://www.saos.org.pl/judgments/479051
-183778|2015-08-03|SO|II K 538/15|Postanowienie|https://www.saos.org.pl/judgments/183778
-122626|2013-05-15|KIO|KIO 1036/13|Wyrok|https://www.saos.org.pl/judgments/122626
-118304|2011-06-21|KIO|KIO 1197/11|Wyrok|https://www.saos.org.pl/judgments/118304
-110290|2011-04-20|TK|Kp 7/09|Wyrok|https://www.saos.org.pl/judgments/110290
-117255|2010-12-22|KIO|KIO/UZP 2627/10|Wyrok|https://www.saos.org.pl/judgments/117255
-92719|2010-07-27|SN|II CSK 122/10|Postanowienie|https://www.saos.org.pl/judgments/92719
-116051|2010-06-17|KIO|KIO 1040/10|Wyrok|https://www.saos.org.pl/judgments/116051
-109035|2009-06-30|TK|P 45/08|Wyrok|https://www.saos.org.pl/judgments/109035
-81686|2002-11-07|SN|III RN 192/01|Wyrok|https://www.saos.org.pl/judgments/81686
+saos_id|date|court|case_number|type|score|saos_url
+110290|2011-04-20|TK|Kp 7/09|Wyrok|98|https://www.saos.org.pl/judgments/110290
+109035|2009-06-30|TK|P 45/08|Wyrok|98|https://www.saos.org.pl/judgments/109035
+81686|2002-11-07|SN|III RN 192/01|Wyrok|78|https://www.saos.org.pl/judgments/81686
+92719|2010-07-27|SN|II CSK 122/10|Postanowienie|69|https://www.saos.org.pl/judgments/92719
+479051|2022-05-25|SO|II AKa 40/21|Wyrok|56|https://www.saos.org.pl/judgments/479051
+122626|2013-05-15|KIO|KIO 1036/13|Wyrok|44|https://www.saos.org.pl/judgments/122626
+118304|2011-06-21|KIO|KIO 1197/11|Wyrok|44|https://www.saos.org.pl/judgments/118304
+117255|2010-12-22|KIO|KIO/UZP 2627/10|Wyrok|44|https://www.saos.org.pl/judgments/117255
+116051|2010-06-17|KIO|KIO 1040/10|Wyrok|44|https://www.saos.org.pl/judgments/116051
+183778|2015-08-03|SO|II K 538/15|Postanowienie|31|https://www.saos.org.pl/judgments/183778
+535089|2025-08-19|SO|VIII U 1243/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/535089

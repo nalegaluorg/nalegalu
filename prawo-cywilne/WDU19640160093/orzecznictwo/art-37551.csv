@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-265149|2016-12-08|KIO|KIO 2177/16|Wyrok|https://www.saos.org.pl/judgments/265149
+saos_id|date|court|case_number|type|score|saos_url
+265149|2016-12-08|KIO|KIO 2177/16|Wyrok|44|https://www.saos.org.pl/judgments/265149

@@ -1,21 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-522864|2023-09-19|SO|XVII AmE 272/21|Wyrok|https://www.saos.org.pl/judgments/522864
-490127|2023-05-11|SO|II K 15/20|Wyrok|https://www.saos.org.pl/judgments/490127
-468421|2022-05-13|SO|IV Ka 577/21|Wyrok|https://www.saos.org.pl/judgments/468421
-468420|2022-05-13|SO|IV Ka 577/21|Uzasadnienie|https://www.saos.org.pl/judgments/468420
-400072|2019-12-10|SO|VI Ka 506/19|Wyrok|https://www.saos.org.pl/judgments/400072
-419870|2018-06-12|SO|XI Ka 453/18|Wyrok|https://www.saos.org.pl/judgments/419870
-327917|2018-02-13|SO|II K 617/17|Wyrok|https://www.saos.org.pl/judgments/327917
-364776|2018-01-31|SO|II AKa 157/17|Wyrok|https://www.saos.org.pl/judgments/364776
-293902|2017-06-13|SO|II W 570/16|Uzasadnienie|https://www.saos.org.pl/judgments/293902
-257578|2016-04-08|SO|IV Ka 94/16|Wyrok|https://www.saos.org.pl/judgments/257578
-282386|2016-03-24|SO|V K 3/10|Wyrok|https://www.saos.org.pl/judgments/282386
-210215|2015-06-10|SO|II AKa 86/15|Wyrok|https://www.saos.org.pl/judgments/210215
-154720|2015-05-28|SO|IV Ka 306/15|Wyrok|https://www.saos.org.pl/judgments/154720
-134349|2015-02-05|SO|XI W 7455/12|Wyrok|https://www.saos.org.pl/judgments/134349
-73620|2014-12-10|SO|II Ka 277/14|Wyrok|https://www.saos.org.pl/judgments/73620
-74137|2014-12-03|SO|VII Ka 1028/14|Wyrok|https://www.saos.org.pl/judgments/74137
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-35022|2014-01-16|SO|II Ka 583/13|Wyrok|https://www.saos.org.pl/judgments/35022
-139833|2013-05-23|SO|II AKa 81/13|Wyrok|https://www.saos.org.pl/judgments/139833
-4276|2013-01-10|SO|IV Ka 1261/12|Wyrok|https://www.saos.org.pl/judgments/4276
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460
+364776|2018-01-31|SO|II AKa 157/17|Wyrok|56|https://www.saos.org.pl/judgments/364776
+210215|2015-06-10|SO|II AKa 86/15|Wyrok|56|https://www.saos.org.pl/judgments/210215
+139833|2013-05-23|SO|II AKa 81/13|Wyrok|56|https://www.saos.org.pl/judgments/139833
+35022|2014-01-16|SO|II Ka 583/13|Wyrok|40|https://www.saos.org.pl/judgments/35022
+293902|2017-06-13|SO|II W 570/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/293902

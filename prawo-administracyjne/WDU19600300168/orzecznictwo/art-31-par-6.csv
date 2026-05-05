@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-81573|2002-09-20|SN|III RN 144/01|Wyrok|https://www.saos.org.pl/judgments/81573
+saos_id|date|court|case_number|type|score|saos_url
+81573|2002-09-20|SN|III RN 144/01|Wyrok|78|https://www.saos.org.pl/judgments/81573

@@ -1,25 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-437246|2021-02-05|SO|I Ca 5/21|Wyrok|https://www.saos.org.pl/judgments/437246
-440494|2020-12-30|SO|III RC 95/20|Wyrok|https://www.saos.org.pl/judgments/440494
-396572|2019-10-30|SO|III RC 43/19|Wyrok|https://www.saos.org.pl/judgments/396572
-446849|2019-07-11|SO|I AGa 308/18|Wyrok|https://www.saos.org.pl/judgments/446849
-368381|2019-01-09|SO|IX Ca 991/18|Wyrok|https://www.saos.org.pl/judgments/368381
-364830|2018-11-30|SO|III RC 143/18|Wyrok|https://www.saos.org.pl/judgments/364830
-342280|2018-04-05|SO|III Ca 2092/17|Wyrok|https://www.saos.org.pl/judgments/342280
-338192|2018-03-28|SO|IX Ca 1251/17|Wyrok|https://www.saos.org.pl/judgments/338192
-327573|2018-01-11|SO|III Ca 1567/17|Wyrok|https://www.saos.org.pl/judgments/327573
-320691|2017-11-14|SO|VIII Pa 176/16|Uzasadnienie|https://www.saos.org.pl/judgments/320691
-306870|2017-09-25|SO|VIII Pa 145/17|Uzasadnienie|https://www.saos.org.pl/judgments/306870
-311255|2017-08-30|SO|III RC 32/17|Wyrok|https://www.saos.org.pl/judgments/311255
-315532|2017-06-07|SO|III RC 5/17|Wyrok|https://www.saos.org.pl/judgments/315532
-319461|2017-03-31|SO|I C 719/16|Wyrok|https://www.saos.org.pl/judgments/319461
-254547|2016-10-31|SO|VIII Pa 91/16|Uzasadnienie|https://www.saos.org.pl/judgments/254547
-249477|2016-09-26|SO|VIII Pa 51/16|Uzasadnienie|https://www.saos.org.pl/judgments/249477
-245862|2016-08-05|SO|III RC 24/15|Wyrok|https://www.saos.org.pl/judgments/245862
-260287|2016-07-06|SO|VIII Pa 46/16|Wyrok|https://www.saos.org.pl/judgments/260287
-299715|2016-03-24|SO|I ACa 1116/15|Wyrok|https://www.saos.org.pl/judgments/299715
-227502|2016-01-26|SO|VIII P 21/14|Wyrok|https://www.saos.org.pl/judgments/227502
-188196|2015-11-09|SO|VII Pa 174/15|Uzasadnienie|https://www.saos.org.pl/judgments/188196
-181728|2015-10-12|SO|I C 1237/15|Wyrok|https://www.saos.org.pl/judgments/181728
-297032|2014-12-17|SO|II Ca 587/14|Wyrok|https://www.saos.org.pl/judgments/297032
-145307|2014-03-18|SO|I C 219/14|Wyrok|https://www.saos.org.pl/judgments/145307
+saos_id|date|court|case_number|type|score|saos_url
+446849|2019-07-11|SO|I AGa 308/18|Wyrok|56|https://www.saos.org.pl/judgments/446849
+299715|2016-03-24|SO|I ACa 1116/15|Wyrok|56|https://www.saos.org.pl/judgments/299715
+320691|2017-11-14|SO|VIII Pa 176/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/320691
+306870|2017-09-25|SO|VIII Pa 145/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/306870
+254547|2016-10-31|SO|VIII Pa 91/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/254547
+249477|2016-09-26|SO|VIII Pa 51/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/249477
+188196|2015-11-09|SO|VII Pa 174/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/188196

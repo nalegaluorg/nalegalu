@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-337582|2017-02-03|SO|I C 1227/15|Wyrok|https://www.saos.org.pl/judgments/337582
+saos_id|date|court|case_number|type|score|saos_url
+376655|2018-11-20|SO|I AGa 194/18|Wyrok|56|https://www.saos.org.pl/judgments/376655
+235351|2016-05-24|SO|I ACa 1149/15|Wyrok|56|https://www.saos.org.pl/judgments/235351
+144434|2014-01-15|SO|II Ca 1158/13|Wyrok|40|https://www.saos.org.pl/judgments/144434
+241660|2016-06-24|SO|III Ca 379/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/241660

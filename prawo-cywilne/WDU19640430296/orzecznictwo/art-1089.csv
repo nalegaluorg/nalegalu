@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-94460|2011-03-18|SN|III CZP 139/10|Uchwała|https://www.saos.org.pl/judgments/94460
-88639|2008-08-28|SN|III CZP 75/08|Uchwała|https://www.saos.org.pl/judgments/88639
-85181|2007-02-09|SN|III CZP 156/06|Uchwała|https://www.saos.org.pl/judgments/85181
+saos_id|date|court|case_number|type|score|saos_url
+94460|2011-03-18|SN|III CZP 139/10|Uchwała|89|https://www.saos.org.pl/judgments/94460
+88639|2008-08-28|SN|III CZP 75/08|Uchwała|89|https://www.saos.org.pl/judgments/88639
+85181|2007-02-09|SN|III CZP 156/06|Uchwała|89|https://www.saos.org.pl/judgments/85181

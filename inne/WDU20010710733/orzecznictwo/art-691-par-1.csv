@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-106979|2004-06-14|TK|Ts 129/03|Postanowienie|https://www.saos.org.pl/judgments/106979
-106557|2003-09-23|TK|Ts 129/03|Postanowienie|https://www.saos.org.pl/judgments/106557
-106371|2003-07-01|TK|P 31/02|Wyrok|https://www.saos.org.pl/judgments/106371
+saos_id|date|court|case_number|type|score|saos_url
+106371|2003-07-01|TK|P 31/02|Wyrok|98|https://www.saos.org.pl/judgments/106371
+106979|2004-06-14|TK|Ts 129/03|Postanowienie|80|https://www.saos.org.pl/judgments/106979
+106557|2003-09-23|TK|Ts 129/03|Postanowienie|80|https://www.saos.org.pl/judgments/106557

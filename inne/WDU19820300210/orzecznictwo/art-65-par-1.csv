@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-538946|2025-01-22|SO|II W 588/24|Zarządzenie|https://www.saos.org.pl/judgments/538946
-410208|2020-02-18|SO|VI Ka 488/19|Wyrok|https://www.saos.org.pl/judgments/410208
-374259|2019-01-23|SO|VI Ka 313/18|Wyrok|https://www.saos.org.pl/judgments/374259
-364650|2018-10-30|SO|XI W 5330/17|Wyrok|https://www.saos.org.pl/judgments/364650
-66226|2014-05-15|SO|II AKa 101/13|Wyrok|https://www.saos.org.pl/judgments/66226
-25326|2013-06-11|SO|VI Ka 290/13|Wyrok|https://www.saos.org.pl/judgments/25326
+saos_id|date|court|case_number|type|score|saos_url
+66226|2014-05-15|SO|II AKa 101/13|Wyrok|56|https://www.saos.org.pl/judgments/66226
+410208|2020-02-18|SO|VI Ka 488/19|Wyrok|40|https://www.saos.org.pl/judgments/410208
+374259|2019-01-23|SO|VI Ka 313/18|Wyrok|40|https://www.saos.org.pl/judgments/374259
+25326|2013-06-11|SO|VI Ka 290/13|Wyrok|40|https://www.saos.org.pl/judgments/25326
+538946|2025-01-22|SO|II W 588/24|Zarządzenie|27|https://www.saos.org.pl/judgments/538946

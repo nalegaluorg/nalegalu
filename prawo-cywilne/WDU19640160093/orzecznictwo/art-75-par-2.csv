@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-339692|2017-11-23|SO|V ACa 45/16|Wyrok|https://www.saos.org.pl/judgments/339692
-202382|2015-12-17|SO|I ACa 429/15|Wyrok|https://www.saos.org.pl/judgments/202382
-89071|2008-11-07|SN|II CSK 293/08|Wyrok|https://www.saos.org.pl/judgments/89071
+saos_id|date|court|case_number|type|score|saos_url
+89071|2008-11-07|SN|II CSK 293/08|Wyrok|78|https://www.saos.org.pl/judgments/89071
+339692|2017-11-23|SO|V ACa 45/16|Wyrok|56|https://www.saos.org.pl/judgments/339692
+202382|2015-12-17|SO|I ACa 429/15|Wyrok|56|https://www.saos.org.pl/judgments/202382

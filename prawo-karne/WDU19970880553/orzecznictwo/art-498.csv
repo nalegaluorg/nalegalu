@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-226249|2015-11-27|SO|I ACa 404/15|Wyrok|https://www.saos.org.pl/judgments/226249
+saos_id|date|court|case_number|type|score|saos_url
+226249|2015-11-27|SO|I ACa 404/15|Wyrok|56|https://www.saos.org.pl/judgments/226249

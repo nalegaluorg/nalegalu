@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-483150|2023-02-10|SO|VIII Pa 111/22|Uzasadnienie|https://www.saos.org.pl/judgments/483150
-459970|2021-12-30|SO|VIII Pa 135/21|Wyrok|https://www.saos.org.pl/judgments/459970
+saos_id|date|court|case_number|type|score|saos_url
+483150|2023-02-10|SO|VIII Pa 111/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/483150

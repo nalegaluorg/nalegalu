@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-1221|2012-09-21|SO|VI ACa 505/12|Wyrok|https://www.saos.org.pl/judgments/1221
+saos_id|date|court|case_number|type|score|saos_url
+1221|2012-09-21|SO|VI ACa 505/12|Wyrok|56|https://www.saos.org.pl/judgments/1221

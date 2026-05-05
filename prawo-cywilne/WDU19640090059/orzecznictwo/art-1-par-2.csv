@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-372890|2019-01-23|SO|II C 1406/12|Zarządzenie|https://www.saos.org.pl/judgments/372890
-448524|2018-06-05|SO|I ACa 1279/17|Wyrok|https://www.saos.org.pl/judgments/448524
-332318|2018-02-28|SO|I C 2206/12|Wyrok|https://www.saos.org.pl/judgments/332318
-328798|2018-01-08|SO|III Ca 1479/17|Uzasadnienie|https://www.saos.org.pl/judgments/328798
-155092|2015-05-20|SO|II Ka 83/15|Wyrok|https://www.saos.org.pl/judgments/155092
-109281|2009-04-23|TK|Ts 133/06|Postanowienie|https://www.saos.org.pl/judgments/109281
-108325|2007-05-24|TK|Ts 133/06|Postanowienie|https://www.saos.org.pl/judgments/108325
+saos_id|date|court|case_number|type|score|saos_url
+109281|2009-04-23|TK|Ts 133/06|Postanowienie|80|https://www.saos.org.pl/judgments/109281
+108325|2007-05-24|TK|Ts 133/06|Postanowienie|80|https://www.saos.org.pl/judgments/108325
+448524|2018-06-05|SO|I ACa 1279/17|Wyrok|56|https://www.saos.org.pl/judgments/448524
+372890|2019-01-23|SO|II C 1406/12|Zarządzenie|27|https://www.saos.org.pl/judgments/372890
+328798|2018-01-08|SO|III Ca 1479/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/328798

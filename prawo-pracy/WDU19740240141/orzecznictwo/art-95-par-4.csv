@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-206651|2014-09-30|TK|U 4/13|Wyrok|https://www.saos.org.pl/judgments/206651
-100735|2013-02-13|SN|III KK 303/12|Wyrok|https://www.saos.org.pl/judgments/100735
-97544|2012-03-15|SN|III KK 363/11|Wyrok|https://www.saos.org.pl/judgments/97544
+saos_id|date|court|case_number|type|score|saos_url
+206651|2014-09-30|TK|U 4/13|Wyrok|98|https://www.saos.org.pl/judgments/206651
+100735|2013-02-13|SN|III KK 303/12|Wyrok|78|https://www.saos.org.pl/judgments/100735
+97544|2012-03-15|SN|III KK 363/11|Wyrok|78|https://www.saos.org.pl/judgments/97544

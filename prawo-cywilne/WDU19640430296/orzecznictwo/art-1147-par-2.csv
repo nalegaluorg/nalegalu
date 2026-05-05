@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-245359|2016-06-14|SN|IV CNP 70/15|Postanowienie|https://www.saos.org.pl/judgments/245359
-103067|2013-10-11|SN|I CSK 451/12|Postanowienie|https://www.saos.org.pl/judgments/103067
-85548|2007-03-28|SN|II CSK 464/06|Postanowienie|https://www.saos.org.pl/judgments/85548
-84756|2006-11-21|SN|III CZP 101/06|Uchwała|https://www.saos.org.pl/judgments/84756
-82970|2004-11-03|SN|III CK 510/03|Postanowienie|https://www.saos.org.pl/judgments/82970
-81873|2003-02-26|SN|II CK 13/03|Postanowienie|https://www.saos.org.pl/judgments/81873
-81071|2001-12-12|SN|III CZP 70/01|Uchwała|https://www.saos.org.pl/judgments/81071
+saos_id|date|court|case_number|type|score|saos_url
+84756|2006-11-21|SN|III CZP 101/06|Uchwała|89|https://www.saos.org.pl/judgments/84756
+81071|2001-12-12|SN|III CZP 70/01|Uchwała|89|https://www.saos.org.pl/judgments/81071
+245359|2016-06-14|SN|IV CNP 70/15|Postanowienie|69|https://www.saos.org.pl/judgments/245359
+103067|2013-10-11|SN|I CSK 451/12|Postanowienie|69|https://www.saos.org.pl/judgments/103067
+85548|2007-03-28|SN|II CSK 464/06|Postanowienie|69|https://www.saos.org.pl/judgments/85548
+82970|2004-11-03|SN|III CK 510/03|Postanowienie|69|https://www.saos.org.pl/judgments/82970
+81873|2003-02-26|SN|II CK 13/03|Postanowienie|69|https://www.saos.org.pl/judgments/81873

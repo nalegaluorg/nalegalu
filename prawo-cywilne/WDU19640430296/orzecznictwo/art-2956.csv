@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-240623|2016-05-24|SO|X GC 479/15|Zarządzenie|https://www.saos.org.pl/judgments/240623
+saos_id|date|court|case_number|type|score|saos_url
+240623|2016-05-24|SO|X GC 479/15|Zarządzenie|27|https://www.saos.org.pl/judgments/240623

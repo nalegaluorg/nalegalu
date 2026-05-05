@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-379266|2019-03-04|SO|IV Ka 83/19|Wyrok|https://www.saos.org.pl/judgments/379266
-255011|2016-10-12|SO|VIII Pz 62/16|Postanowienie|https://www.saos.org.pl/judgments/255011
-255010|2016-10-12|SO|VIII Pz 60/16|Postanowienie|https://www.saos.org.pl/judgments/255010
-225485|2016-04-01|SO|VIII Pz 21/16|Postanowienie|https://www.saos.org.pl/judgments/225485
-225484|2016-04-01|SO|VIII Pz 20/16|Postanowienie|https://www.saos.org.pl/judgments/225484
-4382|2013-01-08|SO|I ACa 1068/12|Wyrok|https://www.saos.org.pl/judgments/4382
+saos_id|date|court|case_number|type|score|saos_url
+4382|2013-01-08|SO|I ACa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/4382
+379266|2019-03-04|SO|IV Ka 83/19|Wyrok|40|https://www.saos.org.pl/judgments/379266

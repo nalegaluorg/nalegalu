@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-358458|2016-07-29|SO|XXVI GC 560/13|Wyrok|https://www.saos.org.pl/judgments/358458
-212710|2016-03-07|SO|X GC 325/15|Zarządzenie|https://www.saos.org.pl/judgments/212710
+saos_id|date|court|case_number|type|score|saos_url
+212710|2016-03-07|SO|X GC 325/15|Zarządzenie|27|https://www.saos.org.pl/judgments/212710

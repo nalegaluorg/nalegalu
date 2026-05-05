@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-462931|2022-03-28|SO|IV Ka 959/21|Wyrok|https://www.saos.org.pl/judgments/462931
-89929|2009-03-26|SN|I KZP 2/09|Postanowienie|https://www.saos.org.pl/judgments/89929
-84290|2006-05-05|SN|V KK 385/05|Postanowienie|https://www.saos.org.pl/judgments/84290
+saos_id|date|court|case_number|type|score|saos_url
+89929|2009-03-26|SN|I KZP 2/09|Postanowienie|69|https://www.saos.org.pl/judgments/89929
+84290|2006-05-05|SN|V KK 385/05|Postanowienie|69|https://www.saos.org.pl/judgments/84290

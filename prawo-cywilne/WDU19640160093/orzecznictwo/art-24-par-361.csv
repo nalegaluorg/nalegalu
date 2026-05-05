@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-53330|2014-06-05|SO|I ACa 200/14|Wyrok|https://www.saos.org.pl/judgments/53330
-40042|2014-02-26|SO|I ACa 1088/13|Wyrok|https://www.saos.org.pl/judgments/40042
-20971|2013-08-06|SO|I ACa 430/13|Wyrok|https://www.saos.org.pl/judgments/20971
+saos_id|date|court|case_number|type|score|saos_url
+53330|2014-06-05|SO|I ACa 200/14|Wyrok|56|https://www.saos.org.pl/judgments/53330
+40042|2014-02-26|SO|I ACa 1088/13|Wyrok|56|https://www.saos.org.pl/judgments/40042
+20971|2013-08-06|SO|I ACa 430/13|Wyrok|56|https://www.saos.org.pl/judgments/20971

@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-356183|2018-07-31|SO|I C 623/17|Wyrok|https://www.saos.org.pl/judgments/356183
-322826|2017-11-22|SO|II AKa 229/17|Wyrok|https://www.saos.org.pl/judgments/322826
-311808|2017-09-20|SO|IV Ka 794/17|Wyrok|https://www.saos.org.pl/judgments/311808
-409538|2017-01-24|SO|I ACa 809/16|Wyrok|https://www.saos.org.pl/judgments/409538
-169169|2015-03-05|SO|I ACa 747/14|Wyrok|https://www.saos.org.pl/judgments/169169
-126182|2014-12-30|SO|IV Ka 684/14|Wyrok|https://www.saos.org.pl/judgments/126182
-125047|2014-10-23|SO|II AKa 211/14|Wyrok|https://www.saos.org.pl/judgments/125047
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-53255|2014-07-10|SO|III Ko 223/14|Wyrok|https://www.saos.org.pl/judgments/53255
-111605|2013-07-24|TK|Kp 1/13|Wyrok|https://www.saos.org.pl/judgments/111605
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-110920|2012-12-10|TK|K 25/11|Wyrok|https://www.saos.org.pl/judgments/110920
-108964|2009-07-02|TK|K 1/07|Wyrok|https://www.saos.org.pl/judgments/108964
+saos_id|date|court|case_number|type|score|saos_url
+111605|2013-07-24|TK|Kp 1/13|Wyrok|98|https://www.saos.org.pl/judgments/111605
+110920|2012-12-10|TK|K 25/11|Wyrok|98|https://www.saos.org.pl/judgments/110920
+108964|2009-07-02|TK|K 1/07|Wyrok|98|https://www.saos.org.pl/judgments/108964
+322826|2017-11-22|SO|II AKa 229/17|Wyrok|56|https://www.saos.org.pl/judgments/322826
+409538|2017-01-24|SO|I ACa 809/16|Wyrok|56|https://www.saos.org.pl/judgments/409538
+169169|2015-03-05|SO|I ACa 747/14|Wyrok|56|https://www.saos.org.pl/judgments/169169
+125047|2014-10-23|SO|II AKa 211/14|Wyrok|56|https://www.saos.org.pl/judgments/125047
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113
+311808|2017-09-20|SO|IV Ka 794/17|Wyrok|40|https://www.saos.org.pl/judgments/311808

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-533653|2025-05-28|SO|I AGa 197/24|Wyrok|https://www.saos.org.pl/judgments/533653
+saos_id|date|court|case_number|type|score|saos_url
+533653|2025-05-28|SO|I AGa 197/24|Wyrok|56|https://www.saos.org.pl/judgments/533653

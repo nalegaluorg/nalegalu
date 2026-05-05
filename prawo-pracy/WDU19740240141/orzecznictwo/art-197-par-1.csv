@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-513506|2023-11-29|SO|VIII U 1876/22|Uzasadnienie|https://www.saos.org.pl/judgments/513506
-218509|2016-02-05|SO|III AUa 1583/15|Wyrok|https://www.saos.org.pl/judgments/218509
+saos_id|date|court|case_number|type|score|saos_url
+218509|2016-02-05|SO|III AUa 1583/15|Wyrok|56|https://www.saos.org.pl/judgments/218509
+513506|2023-11-29|SO|VIII U 1876/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/513506

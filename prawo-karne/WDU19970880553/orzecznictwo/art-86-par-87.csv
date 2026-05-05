@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-361361|2018-09-07|SO|VI Ka 600/18|Wyrok|https://www.saos.org.pl/judgments/361361
-342336|2018-05-09|SO|IV Ka 393/18|Wyrok|https://www.saos.org.pl/judgments/342336
-306563|2017-08-22|SO|VI Ka 565/17|Wyrok|https://www.saos.org.pl/judgments/306563
-267207|2016-10-21|SO|VI Ka 1047/16|Wyrok|https://www.saos.org.pl/judgments/267207
-175997|2015-08-12|SO|VI Ka 435/15|Wyrok|https://www.saos.org.pl/judgments/175997
-134329|2015-03-18|SO|IV Ka 155/15|Wyrok|https://www.saos.org.pl/judgments/134329
-131042|2015-02-10|SO|VI Ka 1019/14|Wyrok|https://www.saos.org.pl/judgments/131042
-50564|2014-04-24|SO|III K 4/14|Wyrok|https://www.saos.org.pl/judgments/50564
-49917|2014-04-24|SO|III K 20/14|Wyrok|https://www.saos.org.pl/judgments/49917
-136596|2012-12-06|SO|II AKa 337/12|Wyrok|https://www.saos.org.pl/judgments/136596
+saos_id|date|court|case_number|type|score|saos_url
+136596|2012-12-06|SO|II AKa 337/12|Wyrok|56|https://www.saos.org.pl/judgments/136596
+342336|2018-05-09|SO|IV Ka 393/18|Wyrok|40|https://www.saos.org.pl/judgments/342336
+134329|2015-03-18|SO|IV Ka 155/15|Wyrok|40|https://www.saos.org.pl/judgments/134329

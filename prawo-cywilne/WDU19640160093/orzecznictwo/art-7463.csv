@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-509892|2022-12-16|SO|V AGa 173/20|Wyrok|https://www.saos.org.pl/judgments/509892
-405814|2019-03-28|SO|VII AGa 1132/18|Wyrok|https://www.saos.org.pl/judgments/405814
-381306|2017-06-14|SO|XX GC 472/13|Wyrok|https://www.saos.org.pl/judgments/381306
+saos_id|date|court|case_number|type|score|saos_url
+509892|2022-12-16|SO|V AGa 173/20|Wyrok|56|https://www.saos.org.pl/judgments/509892
+405814|2019-03-28|SO|VII AGa 1132/18|Wyrok|56|https://www.saos.org.pl/judgments/405814

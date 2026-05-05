@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2007 r. o zmianie ustawy o p
 
 ## art. 5 (1)
 
-- 2016-03-09 | SN | [I UK 402/15](https://www.saos.org.pl/judgments/244865) | Wyrok
+- 2016-03-09 | SN | [I UK 402/15](https://www.saos.org.pl/judgments/244865) | Wyrok ★
 
 ## art. 6 (1)
 
-- 2016-03-09 | SN | [I UK 402/15](https://www.saos.org.pl/judgments/244865) | Wyrok
+- 2016-03-09 | SN | [I UK 402/15](https://www.saos.org.pl/judgments/244865) | Wyrok ★
 

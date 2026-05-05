@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 8 lipca 2010 r. o szczególnych zasadach przygotowania do realizacji inwestycji w zakresie budowli przeciwpowodziowych*
 
-Łącznie: **5** orzeczeń
+Łącznie: **3** orzeczeń
+(pominięto 2 orzeczeń sądów rejonowych)
 
 ## art. 4 (1)
 
@@ -18,11 +19,9 @@ Orzeczenia powołujące: *Ustawa z dnia 8 lipca 2010 r. o szczególnych zasadach
 
 ## art. 15 (1)
 
-- 2012-10-16 | TK | [K 4/10](https://www.saos.org.pl/judgments/110900) | Wyrok
+- 2012-10-16 | TK | [K 4/10](https://www.saos.org.pl/judgments/110900) | Wyrok ★
 
-## (ogólnie) (3)
+## (ogólnie) (1)
 
-- 2017-08-04 | SO | [I Ns 2228/16](https://www.saos.org.pl/judgments/330262) | Postanowienie
 - 2017-03-10 | SO | [III C 101/16](https://www.saos.org.pl/judgments/298648) | Wyrok
-- 2013-10-31 | SO | [I Ca 275/13](https://www.saos.org.pl/judgments/141652) | Postanowienie
 

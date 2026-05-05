@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501287|2023-05-05|SO|II AKa 79/21|Wyrok|https://www.saos.org.pl/judgments/501287
-64421|2014-09-15|SO|VIII Ka 415/14|Wyrok|https://www.saos.org.pl/judgments/64421
-44715|2014-03-25|SO|VIII Ka 1028/13|Wyrok|https://www.saos.org.pl/judgments/44715
-41919|2014-03-25|SO|VIII Ka 1014/13|Wyrok|https://www.saos.org.pl/judgments/41919
-28285|2013-11-15|SO|VIII Ka 690/13|Wyrok|https://www.saos.org.pl/judgments/28285
-27690|2013-10-18|SO|IX Ka 1185/13|Wyrok|https://www.saos.org.pl/judgments/27690
-7309|2013-01-28|SO|VIII Ka 1070/12|Wyrok|https://www.saos.org.pl/judgments/7309
+saos_id|date|court|case_number|type|score|saos_url
+501287|2023-05-05|SO|II AKa 79/21|Wyrok|56|https://www.saos.org.pl/judgments/501287

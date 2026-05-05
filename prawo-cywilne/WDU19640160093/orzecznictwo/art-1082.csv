@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-104309|2014-02-06|SN|I CSK 252/13|Wyrok|https://www.saos.org.pl/judgments/104309
-95397|2011-07-07|SN|IV CSK 101/11|Postanowienie|https://www.saos.org.pl/judgments/95397
-206127|2001-01-31|TK|P 4/99|Wyrok|https://www.saos.org.pl/judgments/206127
+saos_id|date|court|case_number|type|score|saos_url
+206127|2001-01-31|TK|P 4/99|Wyrok|98|https://www.saos.org.pl/judgments/206127
+104309|2014-02-06|SN|I CSK 252/13|Wyrok|78|https://www.saos.org.pl/judgments/104309
+95397|2011-07-07|SN|IV CSK 101/11|Postanowienie|69|https://www.saos.org.pl/judgments/95397

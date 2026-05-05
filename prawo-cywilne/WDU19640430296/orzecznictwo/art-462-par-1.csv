@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-375077|2018-12-19|SO|I C 643/18|Wyrok|https://www.saos.org.pl/judgments/375077
-375814|2018-11-22|SO|VII Pa 99/18|Wyrok|https://www.saos.org.pl/judgments/375814
-25818|2013-08-22|SO|VI ACa 12/13|Wyrok|https://www.saos.org.pl/judgments/25818
-87950|2008-04-24|SN|IV CNP 6/08|Wyrok|https://www.saos.org.pl/judgments/87950
-79099|1999-06-16|SN|I PKN 116/99|Wyrok|https://www.saos.org.pl/judgments/79099
+saos_id|date|court|case_number|type|score|saos_url
+87950|2008-04-24|SN|IV CNP 6/08|Wyrok|78|https://www.saos.org.pl/judgments/87950
+79099|1999-06-16|SN|I PKN 116/99|Wyrok|78|https://www.saos.org.pl/judgments/79099
+25818|2013-08-22|SO|VI ACa 12/13|Wyrok|56|https://www.saos.org.pl/judgments/25818
+375814|2018-11-22|SO|VII Pa 99/18|Wyrok|40|https://www.saos.org.pl/judgments/375814

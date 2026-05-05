@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-485339|2023-02-28|SO|I ACa 833/22|Wyrok|https://www.saos.org.pl/judgments/485339
-346342|2017-05-11|SO|I C 138/17|Wyrok|https://www.saos.org.pl/judgments/346342
-346345|2016-10-25|SO|I C 25/15|Wyrok|https://www.saos.org.pl/judgments/346345
-308338|2016-06-30|SO|I C 202/16|Wyrok|https://www.saos.org.pl/judgments/308338
+saos_id|date|court|case_number|type|score|saos_url
+485339|2023-02-28|SO|I ACa 833/22|Wyrok|56|https://www.saos.org.pl/judgments/485339
+346342|2017-05-11|SO|I C 138/17|Wyrok|40|https://www.saos.org.pl/judgments/346342
+346345|2016-10-25|SO|I C 25/15|Wyrok|40|https://www.saos.org.pl/judgments/346345
+308338|2016-06-30|SO|I C 202/16|Wyrok|40|https://www.saos.org.pl/judgments/308338

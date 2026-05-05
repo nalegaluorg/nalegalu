@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-381325|2019-03-21|SO|XXI Pa 533/18|Wyrok|https://www.saos.org.pl/judgments/381325
-194785|2015-12-18|SO|III Pa 34/15|Wyrok|https://www.saos.org.pl/judgments/194785
-37879|2014-02-06|SO|V Pa 177/13|Wyrok|https://www.saos.org.pl/judgments/37879
-12305|2013-04-18|SO|III AUa 1651/12|Wyrok|https://www.saos.org.pl/judgments/12305
-78319|1998-05-13|SN|I PKN 93/98|Wyrok|https://www.saos.org.pl/judgments/78319
+saos_id|date|court|case_number|type|score|saos_url
+78319|1998-05-13|SN|I PKN 93/98|Wyrok|78|https://www.saos.org.pl/judgments/78319
+12305|2013-04-18|SO|III AUa 1651/12|Wyrok|56|https://www.saos.org.pl/judgments/12305

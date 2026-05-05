@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-274629|2017-02-17|SO|IX W 2892/16|Wyrok|https://www.saos.org.pl/judgments/274629
-261748|2016-11-23|SO|I Ca 375/16|Wyrok|https://www.saos.org.pl/judgments/261748
-249563|2016-08-25|SO|XXI Pa 430/16|Wyrok|https://www.saos.org.pl/judgments/249563
-9644|2013-02-27|SO|I ACa 45/13|Wyrok|https://www.saos.org.pl/judgments/9644
-77822|1997-09-23|SN|I PKN 277/97|Wyrok|https://www.saos.org.pl/judgments/77822
-76503|1994-04-12|SN|I PZP 13/94|Uchwała|https://www.saos.org.pl/judgments/76503
+saos_id|date|court|case_number|type|score|saos_url
+76503|1994-04-12|SN|I PZP 13/94|Uchwała|89|https://www.saos.org.pl/judgments/76503
+77822|1997-09-23|SN|I PKN 277/97|Wyrok|78|https://www.saos.org.pl/judgments/77822
+9644|2013-02-27|SO|I ACa 45/13|Wyrok|56|https://www.saos.org.pl/judgments/9644

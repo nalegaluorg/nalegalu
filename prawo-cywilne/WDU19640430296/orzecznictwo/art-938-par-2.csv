@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-498622|2024-04-22|SO|I C 5507/23|Postanowienie|https://www.saos.org.pl/judgments/498622
-334401|2016-12-12|SO|I Co 286/16|Postanowienie|https://www.saos.org.pl/judgments/334401
-255742|2016-10-05|SO|I Ca 292/16|Wyrok|https://www.saos.org.pl/judgments/255742
-185433|2015-10-01|SO|III Ca 755/15|Postanowienie|https://www.saos.org.pl/judgments/185433
-21723|2013-09-26|SO|IV Cz 569/13|Postanowienie|https://www.saos.org.pl/judgments/21723
-86940|2007-12-14|SN|III CZP 124/07|Uchwała|https://www.saos.org.pl/judgments/86940
+saos_id|date|court|case_number|type|score|saos_url
+86940|2007-12-14|SN|III CZP 124/07|Uchwała|89|https://www.saos.org.pl/judgments/86940
+255742|2016-10-05|SO|I Ca 292/16|Wyrok|40|https://www.saos.org.pl/judgments/255742
+498622|2024-04-22|SO|I C 5507/23|Postanowienie|31|https://www.saos.org.pl/judgments/498622

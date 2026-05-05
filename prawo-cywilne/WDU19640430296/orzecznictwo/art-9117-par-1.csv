@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-468484|2022-05-27|SO|I AGa 60/21|Wyrok|https://www.saos.org.pl/judgments/468484
-445339|2020-11-23|SO|I ACa 1006/19|Wyrok|https://www.saos.org.pl/judgments/445339
+saos_id|date|court|case_number|type|score|saos_url
+468484|2022-05-27|SO|I AGa 60/21|Wyrok|56|https://www.saos.org.pl/judgments/468484
+445339|2020-11-23|SO|I ACa 1006/19|Wyrok|56|https://www.saos.org.pl/judgments/445339

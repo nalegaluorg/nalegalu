@@ -1,13 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-483012|2022-07-28|SO|IV P 113/21|Wyrok|https://www.saos.org.pl/judgments/483012
-458758|2022-01-18|SO|I Ca 570/21|Wyrok|https://www.saos.org.pl/judgments/458758
-467588|2021-08-20|SO|V P 535/18|Wyrok|https://www.saos.org.pl/judgments/467588
-464027|2020-07-10|SO|V P 189/16|Wyrok|https://www.saos.org.pl/judgments/464027
-446910|2019-11-08|SO|V P 389/16|Wyrok|https://www.saos.org.pl/judgments/446910
-412606|2019-09-11|SO|V P 216/17|Wyrok|https://www.saos.org.pl/judgments/412606
-409496|2019-09-06|SO|V P 268/17|Wyrok|https://www.saos.org.pl/judgments/409496
-403215|2019-05-15|SO|V P 135/17|Wyrok|https://www.saos.org.pl/judgments/403215
-378415|2019-03-14|SO|II W 1318/18|Wyrok|https://www.saos.org.pl/judgments/378415
-173714|2015-07-17|SO|IX W 622/15|Wyrok|https://www.saos.org.pl/judgments/173714
-6466|2013-01-30|SO|I ACa 1088/12|Wyrok|https://www.saos.org.pl/judgments/6466
-87171|2008-01-29|SN|I PK 196/07|Wyrok|https://www.saos.org.pl/judgments/87171
+saos_id|date|court|case_number|type|score|saos_url
+87171|2008-01-29|SN|I PK 196/07|Wyrok|78|https://www.saos.org.pl/judgments/87171
+6466|2013-01-30|SO|I ACa 1088/12|Wyrok|56|https://www.saos.org.pl/judgments/6466

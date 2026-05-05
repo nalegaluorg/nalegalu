@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-542379|2025-08-07|SO|III Nsm 370/24|Postanowienie|https://www.saos.org.pl/judgments/542379
-414801|2020-06-17|SO|I Ca 184/20|Postanowienie|https://www.saos.org.pl/judgments/414801
-352325|2018-03-28|SO|II C 130/17|Wyrok|https://www.saos.org.pl/judgments/352325
+saos_id|date|court|case_number|type|score|saos_url
+352325|2018-03-28|SO|II C 130/17|Wyrok|40|https://www.saos.org.pl/judgments/352325

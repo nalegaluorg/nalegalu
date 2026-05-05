@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-333782|2017-09-18|SO|XVI GC 807/15|Wyrok|https://www.saos.org.pl/judgments/333782
-162844|2005-01-07|SN|IV CK 367/04|Wyrok|https://www.saos.org.pl/judgments/162844
+saos_id|date|court|case_number|type|score|saos_url
+162844|2005-01-07|SN|IV CK 367/04|Wyrok|78|https://www.saos.org.pl/judgments/162844

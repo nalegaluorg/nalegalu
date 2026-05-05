@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-443548|2021-03-05|SO|I ACa 503/20|Wyrok|https://www.saos.org.pl/judgments/443548
-186456|2015-09-17|SO|IV Ka 843/15|Wyrok|https://www.saos.org.pl/judgments/186456
-167775|2015-01-09|SN|IV KK 224/14|Wyrok|https://www.saos.org.pl/judgments/167775
-102911|2013-09-18|SN|V KK 204/13|Wyrok|https://www.saos.org.pl/judgments/102911
+saos_id|date|court|case_number|type|score|saos_url
+167775|2015-01-09|SN|IV KK 224/14|Wyrok|78|https://www.saos.org.pl/judgments/167775
+102911|2013-09-18|SN|V KK 204/13|Wyrok|78|https://www.saos.org.pl/judgments/102911
+443548|2021-03-05|SO|I ACa 503/20|Wyrok|56|https://www.saos.org.pl/judgments/443548
+186456|2015-09-17|SO|IV Ka 843/15|Wyrok|40|https://www.saos.org.pl/judgments/186456

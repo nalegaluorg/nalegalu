@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-449089|2018-05-23|SO|VIII P 176/17|Uzasadnienie|https://www.saos.org.pl/judgments/449089
-252109|2016-10-06|SO|II AKa 232/16|Wyrok|https://www.saos.org.pl/judgments/252109
+saos_id|date|court|case_number|type|score|saos_url
+252109|2016-10-06|SO|II AKa 232/16|Wyrok|56|https://www.saos.org.pl/judgments/252109

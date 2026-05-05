@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-438681|2020-10-26|SO|V AGa 36/19|Wyrok|https://www.saos.org.pl/judgments/438681
-231642|2016-05-10|SO|VI GC 178/15|Wyrok|https://www.saos.org.pl/judgments/231642
-198394|2015-12-09|SO|I ACa 1429/15|Wyrok|https://www.saos.org.pl/judgments/198394
+saos_id|date|court|case_number|type|score|saos_url
+438681|2020-10-26|SO|V AGa 36/19|Wyrok|56|https://www.saos.org.pl/judgments/438681
+198394|2015-12-09|SO|I ACa 1429/15|Wyrok|56|https://www.saos.org.pl/judgments/198394
+231642|2016-05-10|SO|VI GC 178/15|Wyrok|40|https://www.saos.org.pl/judgments/231642

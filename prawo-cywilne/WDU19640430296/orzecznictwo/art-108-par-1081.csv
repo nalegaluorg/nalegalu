@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245531|2015-05-28|SN|III CZP 25/15|Uchwała|https://www.saos.org.pl/judgments/245531
-109240|2009-01-15|TK|Ts 99/08|Postanowienie|https://www.saos.org.pl/judgments/109240
-86265|2007-07-06|SN|III CZP 71/07|Uchwała|https://www.saos.org.pl/judgments/86265
+saos_id|date|court|case_number|type|score|saos_url
+245531|2015-05-28|SN|III CZP 25/15|Uchwała|89|https://www.saos.org.pl/judgments/245531
+86265|2007-07-06|SN|III CZP 71/07|Uchwała|89|https://www.saos.org.pl/judgments/86265
+109240|2009-01-15|TK|Ts 99/08|Postanowienie|80|https://www.saos.org.pl/judgments/109240

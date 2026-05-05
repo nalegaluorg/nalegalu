@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495075|2023-09-29|SO|I AGa 388/22|Wyrok|https://www.saos.org.pl/judgments/495075
+saos_id|date|court|case_number|type|score|saos_url
+495075|2023-09-29|SO|I AGa 388/22|Wyrok|56|https://www.saos.org.pl/judgments/495075

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-439605|2021-03-10|SO|I ACa 98/20|Wyrok|https://www.saos.org.pl/judgments/439605
-95947|2011-10-06|SN|V CZ 73/11|Postanowienie|https://www.saos.org.pl/judgments/95947
+saos_id|date|court|case_number|type|score|saos_url
+95947|2011-10-06|SN|V CZ 73/11|Postanowienie|69|https://www.saos.org.pl/judgments/95947
+439605|2021-03-10|SO|I ACa 98/20|Wyrok|56|https://www.saos.org.pl/judgments/439605

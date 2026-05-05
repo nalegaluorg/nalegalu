@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-324093|2018-02-01|SO|VI Cz 96/18|Postanowienie|https://www.saos.org.pl/judgments/324093
-289538|2016-12-22|SO|XI Co 1206/14|Postanowienie|https://www.saos.org.pl/judgments/289538
-274125|2015-04-03|SO|II Cz 212/15|Postanowienie|https://www.saos.org.pl/judgments/274125
-127736|2015-01-16|SO|II Cz 2197/14|Postanowienie|https://www.saos.org.pl/judgments/127736
-67421|2014-08-27|SO|II Cz 435/14|Postanowienie|https://www.saos.org.pl/judgments/67421
-57579|2014-07-21|SO|II Cz 162/14|Postanowienie|https://www.saos.org.pl/judgments/57579
-54956|2014-07-11|SO|IV Cz 409/14|Postanowienie|https://www.saos.org.pl/judgments/54956
-19580|2013-06-27|SO|II Cz 431/13|Postanowienie|https://www.saos.org.pl/judgments/19580
-14577|2013-05-28|SO|I ACa 28/13|Wyrok|https://www.saos.org.pl/judgments/14577
-137622|2013-02-28|SO|I Cz 607/12|Postanowienie|https://www.saos.org.pl/judgments/137622
-91264|2009-11-20|SN|III CZP 88/09|Uchwała|https://www.saos.org.pl/judgments/91264
+saos_id|date|court|case_number|type|score|saos_url
+91264|2009-11-20|SN|III CZP 88/09|Uchwała|89|https://www.saos.org.pl/judgments/91264
+14577|2013-05-28|SO|I ACa 28/13|Wyrok|56|https://www.saos.org.pl/judgments/14577
+324093|2018-02-01|SO|VI Cz 96/18|Postanowienie|31|https://www.saos.org.pl/judgments/324093
+137622|2013-02-28|SO|I Cz 607/12|Postanowienie|31|https://www.saos.org.pl/judgments/137622

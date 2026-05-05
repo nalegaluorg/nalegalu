@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-86920|2007-12-06|SN|IV CSK 323/07|Postanowienie|https://www.saos.org.pl/judgments/86920
-162956|2005-02-04|SN|II CK 589/04|Postanowienie|https://www.saos.org.pl/judgments/162956
-81568|2002-09-19|SN|III CZP 56/02|Uchwała|https://www.saos.org.pl/judgments/81568
+saos_id|date|court|case_number|type|score|saos_url
+81568|2002-09-19|SN|III CZP 56/02|Uchwała|89|https://www.saos.org.pl/judgments/81568
+86920|2007-12-06|SN|IV CSK 323/07|Postanowienie|69|https://www.saos.org.pl/judgments/86920
+162956|2005-02-04|SN|II CK 589/04|Postanowienie|69|https://www.saos.org.pl/judgments/162956

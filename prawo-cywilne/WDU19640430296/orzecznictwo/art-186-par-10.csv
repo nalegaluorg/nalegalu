@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516677|2023-11-22|SO|I ACa 492/22|Wyrok|https://www.saos.org.pl/judgments/516677
+saos_id|date|court|case_number|type|score|saos_url
+516677|2023-11-22|SO|I ACa 492/22|Wyrok|56|https://www.saos.org.pl/judgments/516677

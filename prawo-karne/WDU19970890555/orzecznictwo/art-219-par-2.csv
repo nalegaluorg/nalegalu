@@ -1,13 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-509267|2023-12-20|SO|IX Ka 1342/23|Wyrok|https://www.saos.org.pl/judgments/509267
-484082|2023-01-17|SO|II AKa 120/22|Uzasadnienie|https://www.saos.org.pl/judgments/484082
-472689|2022-07-06|SO|XII Ko 114/21|Wyrok|https://www.saos.org.pl/judgments/472689
-411400|2020-04-15|SO|IV Ka 1421/19|Uzasadnienie|https://www.saos.org.pl/judgments/411400
-377253|2019-01-29|SO|I C 626/18|Wyrok|https://www.saos.org.pl/judgments/377253
-218485|2016-04-15|SO|II Kp 80/16|Postanowienie|https://www.saos.org.pl/judgments/218485
-218484|2016-04-15|SO|II Kp 67/16|Postanowienie|https://www.saos.org.pl/judgments/218484
-226483|2016-03-11|SO|II K 150/15|Zarządzenie|https://www.saos.org.pl/judgments/226483
-170889|2015-06-08|SO|II Kp 141/15|Postanowienie|https://www.saos.org.pl/judgments/170889
-88727|2008-09-16|SN|SNO 69/08|Wyrok|https://www.saos.org.pl/judgments/88727
-108542|2008-07-03|TK|K 38/07|Wyrok|https://www.saos.org.pl/judgments/108542
-86647|2007-09-25|SN|SNO 53/07|Wyrok|https://www.saos.org.pl/judgments/86647
+saos_id|date|court|case_number|type|score|saos_url
+108542|2008-07-03|TK|K 38/07|Wyrok|98|https://www.saos.org.pl/judgments/108542
+88727|2008-09-16|SN|SNO 69/08|Wyrok|78|https://www.saos.org.pl/judgments/88727
+86647|2007-09-25|SN|SNO 53/07|Wyrok|78|https://www.saos.org.pl/judgments/86647
+484082|2023-01-17|SO|II AKa 120/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/484082

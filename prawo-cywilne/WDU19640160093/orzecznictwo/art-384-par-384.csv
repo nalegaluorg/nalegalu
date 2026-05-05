@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-335909|2017-04-19|SO|I ACa 122/16|Wyrok|https://www.saos.org.pl/judgments/335909
+saos_id|date|court|case_number|type|score|saos_url
+335909|2017-04-19|SO|I ACa 122/16|Wyrok|56|https://www.saos.org.pl/judgments/335909

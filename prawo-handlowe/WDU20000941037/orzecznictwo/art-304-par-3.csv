@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-524224|2024-12-16|SO|XVI GC 124/24|Wyrok|https://www.saos.org.pl/judgments/524224
-534657|2023-02-23|SO|I ACa 2594/22|Wyrok|https://www.saos.org.pl/judgments/534657
-532696|2022-10-14|SO|I ACa 1319/22|Wyrok|https://www.saos.org.pl/judgments/532696
-463719|2022-02-15|SO|VIII GC 242/21|Uzasadnienie|https://www.saos.org.pl/judgments/463719
-402402|2019-03-08|SO|XX GC 793/18|Wyrok|https://www.saos.org.pl/judgments/402402
-372629|2019-03-08|SO|IX P 774/16|Zarządzenie|https://www.saos.org.pl/judgments/372629
-157038|2015-05-29|SO|I ACa 122/15|Wyrok|https://www.saos.org.pl/judgments/157038
-105064|2014-05-07|SN|IV KK 364/13|Postanowienie|https://www.saos.org.pl/judgments/105064
-104247|2014-01-29|SN|II PK 124/13|Wyrok|https://www.saos.org.pl/judgments/104247
-100209|2012-12-21|SN|IV CSK 157/12|Wyrok|https://www.saos.org.pl/judgments/100209
-94787|2011-04-20|SN|I CSK 391/10|Wyrok|https://www.saos.org.pl/judgments/94787
+saos_id|date|court|case_number|type|score|saos_url
+104247|2014-01-29|SN|II PK 124/13|Wyrok|78|https://www.saos.org.pl/judgments/104247
+100209|2012-12-21|SN|IV CSK 157/12|Wyrok|78|https://www.saos.org.pl/judgments/100209
+94787|2011-04-20|SN|I CSK 391/10|Wyrok|78|https://www.saos.org.pl/judgments/94787
+105064|2014-05-07|SN|IV KK 364/13|Postanowienie|69|https://www.saos.org.pl/judgments/105064
+534657|2023-02-23|SO|I ACa 2594/22|Wyrok|56|https://www.saos.org.pl/judgments/534657
+532696|2022-10-14|SO|I ACa 1319/22|Wyrok|56|https://www.saos.org.pl/judgments/532696
+157038|2015-05-29|SO|I ACa 122/15|Wyrok|56|https://www.saos.org.pl/judgments/157038

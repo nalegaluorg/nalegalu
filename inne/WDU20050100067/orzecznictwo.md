@@ -10,12 +10,12 @@ Orzeczenia powołujące: *Ustawa z dnia 17 grudnia 2004 r. o prawie pomocy w pos
 
 ## art. 15 (1)
 
-- 2008-06-16 | TK | [P 37/07](https://www.saos.org.pl/judgments/108588) | Wyrok
+- 2008-06-16 | TK | [P 37/07](https://www.saos.org.pl/judgments/108588) | Wyrok ★
 
 ## art. 16 (2)
 
+- 2016-02-18 | SN | [II CSK 155/15](https://www.saos.org.pl/judgments/244607) | Wyrok ★
 - 2018-04-30 | SO | [V ACa 399/17](https://www.saos.org.pl/judgments/341934) | Wyrok
-- 2016-02-18 | SN | [II CSK 155/15](https://www.saos.org.pl/judgments/244607) | Wyrok
 
 ## art. 23 (1)
 

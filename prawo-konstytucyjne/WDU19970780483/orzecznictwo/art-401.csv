@@ -1,13 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-422875|2020-01-09|SO|VI U 2169/19|Wyrok|https://www.saos.org.pl/judgments/422875
-424093|2019-11-22|SO|VI U 1860/19|Wyrok|https://www.saos.org.pl/judgments/424093
-424094|2019-11-19|SO|VI U 2038/19|Wyrok|https://www.saos.org.pl/judgments/424094
-422874|2019-11-19|SO|VI U 2007/19|Wyrok|https://www.saos.org.pl/judgments/422874
-417279|2019-11-14|SO|VI U 1887/19|Wyrok|https://www.saos.org.pl/judgments/417279
-421158|2019-10-22|SO|VI U 1714/19|Wyrok|https://www.saos.org.pl/judgments/421158
-429280|2019-10-21|SO|VI U 1511/19|Wyrok|https://www.saos.org.pl/judgments/429280
-417278|2019-10-21|SO|VI U 1783/19|Wyrok|https://www.saos.org.pl/judgments/417278
-422870|2019-10-08|SO|VI U 1604/19|Wyrok|https://www.saos.org.pl/judgments/422870
-422869|2019-07-29|SO|VI U 1405/19|Wyrok|https://www.saos.org.pl/judgments/422869
-71430|2014-04-24|SO|I ACa 341/14|Postanowienie|https://www.saos.org.pl/judgments/71430
-10868|2013-04-18|SO|III AUa 623/13|Wyrok|https://www.saos.org.pl/judgments/10868
+saos_id|date|court|case_number|type|score|saos_url
+10868|2013-04-18|SO|III AUa 623/13|Wyrok|56|https://www.saos.org.pl/judgments/10868
+71430|2014-04-24|SO|I ACa 341/14|Postanowienie|47|https://www.saos.org.pl/judgments/71430

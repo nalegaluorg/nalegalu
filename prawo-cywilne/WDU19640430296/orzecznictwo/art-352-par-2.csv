@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-472731|2022-06-27|SO|I Ca 94/22|Uzasadnienie|https://www.saos.org.pl/judgments/472731
-451722|2021-12-07|SO|I Ca 330/21|Uzasadnienie|https://www.saos.org.pl/judgments/451722
-225166|2016-04-13|SO|III Ca 1935/15|Uzasadnienie|https://www.saos.org.pl/judgments/225166
-181355|2015-10-29|SO|I ACa 467/15|Wyrok|https://www.saos.org.pl/judgments/181355
-268357|2015-03-24|SO|III C 559/05|Wyrok|https://www.saos.org.pl/judgments/268357
-60478|2014-08-22|SO|I ACa 366/14|Wyrok|https://www.saos.org.pl/judgments/60478
-22575|2013-09-11|SO|I ACa 527/13|Wyrok|https://www.saos.org.pl/judgments/22575
-17562|2013-07-18|SO|I ACa 434/13|Wyrok|https://www.saos.org.pl/judgments/17562
+saos_id|date|court|case_number|type|score|saos_url
+181355|2015-10-29|SO|I ACa 467/15|Wyrok|56|https://www.saos.org.pl/judgments/181355
+60478|2014-08-22|SO|I ACa 366/14|Wyrok|56|https://www.saos.org.pl/judgments/60478
+22575|2013-09-11|SO|I ACa 527/13|Wyrok|56|https://www.saos.org.pl/judgments/22575
+17562|2013-07-18|SO|I ACa 434/13|Wyrok|56|https://www.saos.org.pl/judgments/17562
+268357|2015-03-24|SO|III C 559/05|Wyrok|40|https://www.saos.org.pl/judgments/268357
+451722|2021-12-07|SO|I Ca 330/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/451722
+225166|2016-04-13|SO|III Ca 1935/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/225166

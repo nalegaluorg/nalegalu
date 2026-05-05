@@ -1,15 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-512305|2024-01-24|SO|VII Ua 60/23|Wyrok|https://www.saos.org.pl/judgments/512305
-512307|2023-10-26|SO|VII Ua 62/23|Wyrok|https://www.saos.org.pl/judgments/512307
-489914|2023-04-19|SO|V Ua 6/23|Wyrok|https://www.saos.org.pl/judgments/489914
-480401|2022-12-22|SO|IV U 1058/22|Wyrok|https://www.saos.org.pl/judgments/480401
-413539|2020-01-10|SO|III Ca 1758/18|Uzasadnienie|https://www.saos.org.pl/judgments/413539
-402859|2019-12-05|SO|III AUa 501/18|Wyrok|https://www.saos.org.pl/judgments/402859
-386402|2019-06-28|SO|III AUa 704/18|Wyrok|https://www.saos.org.pl/judgments/386402
-340549|2018-03-28|SO|VI U 437/16|Wyrok|https://www.saos.org.pl/judgments/340549
-315866|2017-10-17|SO|I C 549/17|Wyrok|https://www.saos.org.pl/judgments/315866
-248418|2016-02-02|SO|IV P 474/12|Wyrok|https://www.saos.org.pl/judgments/248418
-61384|2014-03-06|SO|IV U 2556/13|Wyrok|https://www.saos.org.pl/judgments/61384
-443|2012-10-10|SO|III AUa 403/12|Wyrok|https://www.saos.org.pl/judgments/443
-82935|2004-10-20|SN|III UK 111/04|Wyrok|https://www.saos.org.pl/judgments/82935
-81774|2002-12-18|SN|I PK 47/02|Wyrok|https://www.saos.org.pl/judgments/81774
+saos_id|date|court|case_number|type|score|saos_url
+82935|2004-10-20|SN|III UK 111/04|Wyrok|78|https://www.saos.org.pl/judgments/82935
+81774|2002-12-18|SN|I PK 47/02|Wyrok|78|https://www.saos.org.pl/judgments/81774
+402859|2019-12-05|SO|III AUa 501/18|Wyrok|56|https://www.saos.org.pl/judgments/402859
+386402|2019-06-28|SO|III AUa 704/18|Wyrok|56|https://www.saos.org.pl/judgments/386402
+443|2012-10-10|SO|III AUa 403/12|Wyrok|56|https://www.saos.org.pl/judgments/443
+512305|2024-01-24|SO|VII Ua 60/23|Wyrok|40|https://www.saos.org.pl/judgments/512305
+512307|2023-10-26|SO|VII Ua 62/23|Wyrok|40|https://www.saos.org.pl/judgments/512307
+315866|2017-10-17|SO|I C 549/17|Wyrok|40|https://www.saos.org.pl/judgments/315866
+61384|2014-03-06|SO|IV U 2556/13|Wyrok|40|https://www.saos.org.pl/judgments/61384
+413539|2020-01-10|SO|III Ca 1758/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/413539

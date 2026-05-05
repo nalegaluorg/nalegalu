@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 17 grudnia 200
 
 ## (ogólnie) (1)
 
-- 2012-12-07 | SN | [II CSK 124/12](https://www.saos.org.pl/judgments/99911) | Wyrok
+- 2012-12-07 | SN | [II CSK 124/12](https://www.saos.org.pl/judgments/99911) | Wyrok ★
 

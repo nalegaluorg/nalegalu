@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-519277|2022-03-31|SO|I C 1047/21|Wyrok|https://www.saos.org.pl/judgments/519277
-227938|2016-05-31|SO|VI Gz 103/16|Postanowienie|https://www.saos.org.pl/judgments/227938
-243865|2015-11-18|SN|III CZP 74/15|Uchwała|https://www.saos.org.pl/judgments/243865
-173717|2015-07-16|SO|V GC 481/15|Postanowienie|https://www.saos.org.pl/judgments/173717
-112116|2013-07-11|TK|Ts 333/11|Postanowienie|https://www.saos.org.pl/judgments/112116
-112115|2013-04-22|TK|Ts 333/11|Postanowienie|https://www.saos.org.pl/judgments/112115
-100820|2013-02-21|SN|IV CSK 327/12|Postanowienie|https://www.saos.org.pl/judgments/100820
-89508|2009-01-20|SN|II CZ 89/08|Postanowienie|https://www.saos.org.pl/judgments/89508
+saos_id|date|court|case_number|type|score|saos_url
+243865|2015-11-18|SN|III CZP 74/15|Uchwała|89|https://www.saos.org.pl/judgments/243865
+112116|2013-07-11|TK|Ts 333/11|Postanowienie|80|https://www.saos.org.pl/judgments/112116
+112115|2013-04-22|TK|Ts 333/11|Postanowienie|80|https://www.saos.org.pl/judgments/112115
+100820|2013-02-21|SN|IV CSK 327/12|Postanowienie|69|https://www.saos.org.pl/judgments/100820
+89508|2009-01-20|SN|II CZ 89/08|Postanowienie|69|https://www.saos.org.pl/judgments/89508
+227938|2016-05-31|SO|VI Gz 103/16|Postanowienie|31|https://www.saos.org.pl/judgments/227938
+173717|2015-07-16|SO|V GC 481/15|Postanowienie|31|https://www.saos.org.pl/judgments/173717

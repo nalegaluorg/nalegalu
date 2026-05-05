@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-542980|2026-02-09|SO|I C 1337/24|Wyrok|https://www.saos.org.pl/judgments/542980
-351919|2018-06-07|SO|VII AGa 1464/18|Wyrok|https://www.saos.org.pl/judgments/351919
-181114|2015-05-28|SO|I ACa 1055/14|Wyrok|https://www.saos.org.pl/judgments/181114
+saos_id|date|court|case_number|type|score|saos_url
+351919|2018-06-07|SO|VII AGa 1464/18|Wyrok|56|https://www.saos.org.pl/judgments/351919
+181114|2015-05-28|SO|I ACa 1055/14|Wyrok|56|https://www.saos.org.pl/judgments/181114

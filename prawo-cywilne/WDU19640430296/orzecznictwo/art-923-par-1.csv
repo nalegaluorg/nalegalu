@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-62891|2014-09-19|SO|I C 180/14|Wyrok|https://www.saos.org.pl/judgments/62891
-31948|2013-12-05|SO|III Ca 912/13|Postanowienie|https://www.saos.org.pl/judgments/31948
-31947|2013-12-05|SO|III Ca 911/13|Postanowienie|https://www.saos.org.pl/judgments/31947
-136476|2013-01-07|SO|II AKzw 1483/12|Postanowienie|https://www.saos.org.pl/judgments/136476
+saos_id|date|court|case_number|type|score|saos_url
+136476|2013-01-07|SO|II AKzw 1483/12|Postanowienie|47|https://www.saos.org.pl/judgments/136476

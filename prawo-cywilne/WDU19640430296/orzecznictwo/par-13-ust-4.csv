@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-166666|2014-09-11|SN|II PK 49/14|Wyrok|https://www.saos.org.pl/judgments/166666
-100493|2013-01-31|SN|II CSK 262/12|Postanowienie|https://www.saos.org.pl/judgments/100493
+saos_id|date|court|case_number|type|score|saos_url
+166666|2014-09-11|SN|II PK 49/14|Wyrok|78|https://www.saos.org.pl/judgments/166666
+100493|2013-01-31|SN|II CSK 262/12|Postanowienie|69|https://www.saos.org.pl/judgments/100493

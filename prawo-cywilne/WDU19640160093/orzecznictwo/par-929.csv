@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-444326|2021-06-30|SO|I C 30/20|Wyrok|https://www.saos.org.pl/judgments/444326
-427206|2020-09-28|SO|I C 982/19|Wyrok|https://www.saos.org.pl/judgments/427206
-403873|2020-02-03|SO|XVI C 3316/17|Uzasadnienie|https://www.saos.org.pl/judgments/403873
-286224|2017-04-06|SO|I ACa 922/16|Wyrok|https://www.saos.org.pl/judgments/286224
-241318|2016-08-04|SO|XII C 1394/15|Wyrok|https://www.saos.org.pl/judgments/241318
+saos_id|date|court|case_number|type|score|saos_url
+286224|2017-04-06|SO|I ACa 922/16|Wyrok|56|https://www.saos.org.pl/judgments/286224
+241318|2016-08-04|SO|XII C 1394/15|Wyrok|40|https://www.saos.org.pl/judgments/241318

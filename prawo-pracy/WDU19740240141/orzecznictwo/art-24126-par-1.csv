@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-369405|2018-11-21|SO|XXI Pa 346/18|Wyrok|https://www.saos.org.pl/judgments/369405
-78274|1998-04-22|SN|I PKN 62/98|Wyrok|https://www.saos.org.pl/judgments/78274
+saos_id|date|court|case_number|type|score|saos_url
+78274|1998-04-22|SN|I PKN 62/98|Wyrok|78|https://www.saos.org.pl/judgments/78274

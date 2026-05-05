@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-389307|2018-11-29|SO|I ACa 328/18|Wyrok|https://www.saos.org.pl/judgments/389307
-306005|2017-08-11|SO|IV P 111/16|Wyrok|https://www.saos.org.pl/judgments/306005
-309597|2017-07-04|SO|VI P 268/16|Wyrok|https://www.saos.org.pl/judgments/309597
-252060|2016-06-03|SO|I C 1221/15|Wyrok|https://www.saos.org.pl/judgments/252060
-211006|2016-02-08|SO|III Ca 1514/15|Uzasadnienie|https://www.saos.org.pl/judgments/211006
-195529|2015-09-30|SO|XVIII C 605/15|Wyrok|https://www.saos.org.pl/judgments/195529
-170257|2015-07-08|SO|VII Pa 146/14|Uzasadnienie|https://www.saos.org.pl/judgments/170257
-128796|2015-01-23|SO|I C 2009/14|Wyrok|https://www.saos.org.pl/judgments/128796
-44358|2014-02-13|SO|I ACa 752/13|Wyrok|https://www.saos.org.pl/judgments/44358
+saos_id|date|court|case_number|type|score|saos_url
+389307|2018-11-29|SO|I ACa 328/18|Wyrok|56|https://www.saos.org.pl/judgments/389307
+44358|2014-02-13|SO|I ACa 752/13|Wyrok|56|https://www.saos.org.pl/judgments/44358
+252060|2016-06-03|SO|I C 1221/15|Wyrok|40|https://www.saos.org.pl/judgments/252060
+195529|2015-09-30|SO|XVIII C 605/15|Wyrok|40|https://www.saos.org.pl/judgments/195529
+211006|2016-02-08|SO|III Ca 1514/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/211006
+170257|2015-07-08|SO|VII Pa 146/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/170257

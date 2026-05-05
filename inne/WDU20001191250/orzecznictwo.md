@@ -2,12 +2,12 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 listopada 2000 r. o obrocie z zagranicą towarami, technologiami i usługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa*
 
-Łącznie: **6** orzeczeń
+Łącznie: **4** orzeczeń
+(pominięto 2 orzeczeń sądów rejonowych)
 
-## art. 3 (2)
+## art. 3 (1)
 
 - 2017-03-15 | SO | [I ACa 2124/15](https://www.saos.org.pl/judgments/307320) | Wyrok
-- 2015-06-09 | SO | [IV Ka 320/15](https://www.saos.org.pl/judgments/199355) | Wyrok
 
 ## art. 10 (1)
 
@@ -20,11 +20,6 @@ Orzeczenia powołujące: *Ustawa z dnia 29 listopada 2000 r. o obrocie z zagrani
 ## art. 21 (1)
 
 - 2026-01-07 | SO | [VIII Pa 184/25](https://www.saos.org.pl/judgments/541733) | Uzasadnienie
-
-## art. 33 (2)
-
-- 2019-11-18 | SO | [XIII U 1101/18](https://www.saos.org.pl/judgments/399730) | Wyrok
-- 2015-06-09 | SO | [IV Ka 320/15](https://www.saos.org.pl/judgments/199355) | Wyrok
 
 ## (ogólnie) (1)
 

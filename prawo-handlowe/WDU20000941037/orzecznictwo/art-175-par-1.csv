@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-446750|2021-06-24|SO|II AKa 248/20|Wyrok|https://www.saos.org.pl/judgments/446750
-426357|2017-10-16|SO|V ACa 111/16|Wyrok|https://www.saos.org.pl/judgments/426357
-347446|2017-04-20|SO|I ACa 1613/16|Wyrok|https://www.saos.org.pl/judgments/347446
-55881|2014-01-13|SO|XX GC 962/12|Zarządzenie|https://www.saos.org.pl/judgments/55881
-39248|2013-12-05|SO|I ACa 745/13|Wyrok|https://www.saos.org.pl/judgments/39248
-37116|2013-04-11|SO|I ACa 237/13|Wyrok|https://www.saos.org.pl/judgments/37116
-7557|2012-12-11|SO|I ACa 1174/12|Wyrok|https://www.saos.org.pl/judgments/7557
-141145|2012-08-21|SO|I C 420/10|Wyrok|https://www.saos.org.pl/judgments/141145
+saos_id|date|court|case_number|type|score|saos_url
+446750|2021-06-24|SO|II AKa 248/20|Wyrok|56|https://www.saos.org.pl/judgments/446750
+426357|2017-10-16|SO|V ACa 111/16|Wyrok|56|https://www.saos.org.pl/judgments/426357
+347446|2017-04-20|SO|I ACa 1613/16|Wyrok|56|https://www.saos.org.pl/judgments/347446
+39248|2013-12-05|SO|I ACa 745/13|Wyrok|56|https://www.saos.org.pl/judgments/39248
+37116|2013-04-11|SO|I ACa 237/13|Wyrok|56|https://www.saos.org.pl/judgments/37116
+7557|2012-12-11|SO|I ACa 1174/12|Wyrok|56|https://www.saos.org.pl/judgments/7557

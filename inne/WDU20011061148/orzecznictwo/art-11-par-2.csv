@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-195149|2015-12-10|SO|XVII Ka 1038/15|Wyrok|https://www.saos.org.pl/judgments/195149
-9509|2013-03-21|SO|IV Kz 156/13|Postanowienie|https://www.saos.org.pl/judgments/9509
+saos_id|date|court|case_number|type|score|saos_url
+195149|2015-12-10|SO|XVII Ka 1038/15|Wyrok|40|https://www.saos.org.pl/judgments/195149

@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-518970|2022-09-29|SO|II S 25/22|Postanowienie|https://www.saos.org.pl/judgments/518970
-35829|2014-02-06|SO|VIII Ka 790/13|Wyrok|https://www.saos.org.pl/judgments/35829
-111593|2013-10-08|TK|K 30/11|Wyrok|https://www.saos.org.pl/judgments/111593
-96882|2012-01-17|SN|V KZ 79/11|Postanowienie|https://www.saos.org.pl/judgments/96882
-86506|2007-08-27|SN|SNO 46/07|Postanowienie|https://www.saos.org.pl/judgments/86506
-86149|2007-06-21|SN|SNO 33/07|Postanowienie|https://www.saos.org.pl/judgments/86149
-106781|2004-02-17|TK|SK 39/02|Wyrok|https://www.saos.org.pl/judgments/106781
+saos_id|date|court|case_number|type|score|saos_url
+111593|2013-10-08|TK|K 30/11|Wyrok|98|https://www.saos.org.pl/judgments/111593
+106781|2004-02-17|TK|SK 39/02|Wyrok|98|https://www.saos.org.pl/judgments/106781
+96882|2012-01-17|SN|V KZ 79/11|Postanowienie|69|https://www.saos.org.pl/judgments/96882
+86506|2007-08-27|SN|SNO 46/07|Postanowienie|69|https://www.saos.org.pl/judgments/86506
+86149|2007-06-21|SN|SNO 33/07|Postanowienie|69|https://www.saos.org.pl/judgments/86149
+518970|2022-09-29|SO|II S 25/22|Postanowienie|47|https://www.saos.org.pl/judgments/518970

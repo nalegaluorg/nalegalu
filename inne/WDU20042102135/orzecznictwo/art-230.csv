@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-449660|2020-10-28|SO|VII U 4379/19|Wyrok|https://www.saos.org.pl/judgments/449660
-406422|2019-10-22|SO|VII U 1148/19|Wyrok|https://www.saos.org.pl/judgments/406422
-333094|2018-01-05|SO|VII U 1510/17|Wyrok|https://www.saos.org.pl/judgments/333094
-329025|2017-12-18|SO|VII U 1304/17|Wyrok|https://www.saos.org.pl/judgments/329025
-186719|2015-09-28|SO|IV U 497/15|Wyrok|https://www.saos.org.pl/judgments/186719
-37862|2012-12-19|SO|IV U 990/12|Wyrok|https://www.saos.org.pl/judgments/37862
+saos_id|date|court|case_number|type|score|saos_url
+449660|2020-10-28|SO|VII U 4379/19|Wyrok|40|https://www.saos.org.pl/judgments/449660
+406422|2019-10-22|SO|VII U 1148/19|Wyrok|40|https://www.saos.org.pl/judgments/406422
+333094|2018-01-05|SO|VII U 1510/17|Wyrok|40|https://www.saos.org.pl/judgments/333094
+329025|2017-12-18|SO|VII U 1304/17|Wyrok|40|https://www.saos.org.pl/judgments/329025

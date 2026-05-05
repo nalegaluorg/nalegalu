@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-134808|2015-03-17|SO|VIII W 566/14|Wyrok|https://www.saos.org.pl/judgments/134808
-67590|2014-10-09|SO|II AKa 288/14|Wyrok|https://www.saos.org.pl/judgments/67590
-259305|2014-08-22|SO|X Ka 1070/13|Wyrok|https://www.saos.org.pl/judgments/259305
-160425|2014-04-25|TK|Ts 298/12|Postanowienie|https://www.saos.org.pl/judgments/160425
-135582|2009-10-28|SO|II AKz 672/09|Postanowienie|https://www.saos.org.pl/judgments/135582
+saos_id|date|court|case_number|type|score|saos_url
+160425|2014-04-25|TK|Ts 298/12|Postanowienie|80|https://www.saos.org.pl/judgments/160425
+67590|2014-10-09|SO|II AKa 288/14|Wyrok|56|https://www.saos.org.pl/judgments/67590
+135582|2009-10-28|SO|II AKz 672/09|Postanowienie|47|https://www.saos.org.pl/judgments/135582

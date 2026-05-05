@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-301804|2017-03-23|KIO|KIO 461/17|Wyrok|https://www.saos.org.pl/judgments/301804
+saos_id|date|court|case_number|type|score|saos_url
+301804|2017-03-23|KIO|KIO 461/17|Wyrok|44|https://www.saos.org.pl/judgments/301804

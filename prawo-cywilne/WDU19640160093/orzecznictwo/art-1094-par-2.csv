@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-533208|2025-07-02|SO|VII U 392/23|Wyrok|https://www.saos.org.pl/judgments/533208
-398230|2018-11-05|SO|XXIII Ga 423/18|Wyrok|https://www.saos.org.pl/judgments/398230
-288268|2017-05-19|SO|VIII Ga 10/17|Wyrok|https://www.saos.org.pl/judgments/288268
-285063|2017-03-08|SO|I ACa 20/17|Wyrok|https://www.saos.org.pl/judgments/285063
-193309|2015-10-16|SO|III Ca 710/15|Uzasadnienie|https://www.saos.org.pl/judgments/193309
-121728|2013-01-11|KIO|KIO 2861/12|Wyrok|https://www.saos.org.pl/judgments/121728
+saos_id|date|court|case_number|type|score|saos_url
+285063|2017-03-08|SO|I ACa 20/17|Wyrok|56|https://www.saos.org.pl/judgments/285063
+121728|2013-01-11|KIO|KIO 2861/12|Wyrok|44|https://www.saos.org.pl/judgments/121728
+533208|2025-07-02|SO|VII U 392/23|Wyrok|40|https://www.saos.org.pl/judgments/533208
+193309|2015-10-16|SO|III Ca 710/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193309

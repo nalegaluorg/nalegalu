@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-266298|2016-12-16|SO|IV Ca 633/16|Postanowienie|https://www.saos.org.pl/judgments/266298
-253589|2016-10-12|SO|III Nsm 28/16|Postanowienie|https://www.saos.org.pl/judgments/253589
+saos_id|date|court|case_number|type|score|saos_url
+253589|2016-10-12|SO|III Nsm 28/16|Postanowienie|31|https://www.saos.org.pl/judgments/253589

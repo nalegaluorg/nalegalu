@@ -1,26 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-483785|2022-07-28|SO|III APa 6/22|Wyrok|https://www.saos.org.pl/judgments/483785
-396387|2019-08-01|SO|VIII Pa 172/17|Wyrok|https://www.saos.org.pl/judgments/396387
-369294|2018-11-22|SO|VIII Pa 70/18|Wyrok|https://www.saos.org.pl/judgments/369294
-371461|2018-10-16|SO|VIII Pa 168/17|Postanowienie|https://www.saos.org.pl/judgments/371461
-366241|2018-09-13|SO|VIII Pa 169/17|Wyrok|https://www.saos.org.pl/judgments/366241
-365358|2018-06-21|SO|VIII Pa 138/17|Wyrok|https://www.saos.org.pl/judgments/365358
-365357|2018-06-21|SO|VIII Pa 11/18|Wyrok|https://www.saos.org.pl/judgments/365357
-365366|2018-06-06|SO|VIII Pa 44/18|Wyrok|https://www.saos.org.pl/judgments/365366
-356818|2018-06-06|SO|VIII Pa 199/17|Wyrok|https://www.saos.org.pl/judgments/356818
-356815|2018-06-06|SO|VIII Pa 10/18|Wyrok|https://www.saos.org.pl/judgments/356815
-345026|2018-05-28|SO|IV P 369/16|Wyrok|https://www.saos.org.pl/judgments/345026
-347737|2018-03-15|SO|VIII Pa 160/17|Wyrok|https://www.saos.org.pl/judgments/347737
-339399|2018-03-08|SO|VIII Pa 197/17|Wyrok|https://www.saos.org.pl/judgments/339399
-340272|2018-02-21|SO|VII Ka 35/18|Wyrok|https://www.saos.org.pl/judgments/340272
-314889|2017-10-10|SO|V W 148/16|Wyrok|https://www.saos.org.pl/judgments/314889
-310824|2017-09-29|SO|IV Pa 48/17|Wyrok|https://www.saos.org.pl/judgments/310824
-298997|2017-07-28|SO|IV Pa 35/17|Wyrok|https://www.saos.org.pl/judgments/298997
-297451|2017-05-11|SO|III APa 19/16|Wyrok|https://www.saos.org.pl/judgments/297451
-214776|2016-02-10|SO|III AUa 862/15|Wyrok|https://www.saos.org.pl/judgments/214776
-152318|2015-05-07|SO|VII Pa 168/14|Uzasadnienie|https://www.saos.org.pl/judgments/152318
-38112|2014-02-25|SO|VI P 419/13|Uzasadnienie|https://www.saos.org.pl/judgments/38112
-36858|2014-02-11|SO|VI P 435/13|Wyrok|https://www.saos.org.pl/judgments/36858
-32251|2014-01-15|SO|III AUa 773/13|Wyrok|https://www.saos.org.pl/judgments/32251
-101969|2013-06-04|SN|I PK 293/12|Wyrok|https://www.saos.org.pl/judgments/101969
-90118|2009-04-27|SN|I PK 213/08|Wyrok|https://www.saos.org.pl/judgments/90118
+saos_id|date|court|case_number|type|score|saos_url
+101969|2013-06-04|SN|I PK 293/12|Wyrok|78|https://www.saos.org.pl/judgments/101969
+90118|2009-04-27|SN|I PK 213/08|Wyrok|78|https://www.saos.org.pl/judgments/90118
+483785|2022-07-28|SO|III APa 6/22|Wyrok|56|https://www.saos.org.pl/judgments/483785
+297451|2017-05-11|SO|III APa 19/16|Wyrok|56|https://www.saos.org.pl/judgments/297451
+214776|2016-02-10|SO|III AUa 862/15|Wyrok|56|https://www.saos.org.pl/judgments/214776
+32251|2014-01-15|SO|III AUa 773/13|Wyrok|56|https://www.saos.org.pl/judgments/32251
+152318|2015-05-07|SO|VII Pa 168/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/152318

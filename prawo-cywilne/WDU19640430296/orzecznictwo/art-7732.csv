@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-443177|2020-09-24|SO|VI ACa 725/18|Wyrok|https://www.saos.org.pl/judgments/443177
-446397|2018-03-23|SO|III C 888/14|Wyrok|https://www.saos.org.pl/judgments/446397
-204016|2015-12-03|SO|III Cz 1061/15|Postanowienie|https://www.saos.org.pl/judgments/204016
-208252|2015-11-17|SO|III Cz 1060/15|Postanowienie|https://www.saos.org.pl/judgments/208252
-96649|2011-12-20|SN|III CZP 46/11|Postanowienie|https://www.saos.org.pl/judgments/96649
+saos_id|date|court|case_number|type|score|saos_url
+96649|2011-12-20|SN|III CZP 46/11|Postanowienie|76|https://www.saos.org.pl/judgments/96649
+443177|2020-09-24|SO|VI ACa 725/18|Wyrok|56|https://www.saos.org.pl/judgments/443177
+446397|2018-03-23|SO|III C 888/14|Wyrok|40|https://www.saos.org.pl/judgments/446397

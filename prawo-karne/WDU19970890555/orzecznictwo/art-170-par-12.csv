@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-540495|2025-10-31|SO|IV Ka 280/25|Uzasadnienie|https://www.saos.org.pl/judgments/540495
-262446|2016-11-02|SO|II K 16/16|Uzasadnienie|https://www.saos.org.pl/judgments/262446
+saos_id|date|court|case_number|type|score|saos_url
+262446|2016-11-02|SO|II K 16/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/262446

@@ -6,13 +6,13 @@ Orzeczenia powołujące: *Ustawa z dnia 4 marca 2004 r. o zmianie ustawy o gospo
 
 ## art. 1 (1)
 
-- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie
+- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie ★
 
 ## art. 6 (1)
 
-- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie
+- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie ★
 
 ## art. 8 (1)
 
-- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie
+- 2006-09-11 | TK | [K 36/05](https://www.saos.org.pl/judgments/107604) | Postanowienie ★
 

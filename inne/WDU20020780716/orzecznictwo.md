@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 27 maja 2002 r
 
 ## art. 9 (1)
 
-- 2002-10-08 | SN | [III RN 183/01](https://www.saos.org.pl/judgments/81636) | Wyrok
+- 2002-10-08 | SN | [III RN 183/01](https://www.saos.org.pl/judgments/81636) | Wyrok ★
 

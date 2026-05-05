@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-517332|2024-05-17|SO|II K 396/24|Wyrok|https://www.saos.org.pl/judgments/517332
-452338|2019-10-17|SO|II AKa 275/19|Wyrok|https://www.saos.org.pl/judgments/452338
-283236|2017-01-24|SO|II K 794/16|Wyrok|https://www.saos.org.pl/judgments/283236
-444137|2015-10-14|SO|II AKz 551/15|Postanowienie|https://www.saos.org.pl/judgments/444137
-36599|2014-03-03|SO|II Kp 20/14|Postanowienie|https://www.saos.org.pl/judgments/36599
+saos_id|date|court|case_number|type|score|saos_url
+452338|2019-10-17|SO|II AKa 275/19|Wyrok|56|https://www.saos.org.pl/judgments/452338
+444137|2015-10-14|SO|II AKz 551/15|Postanowienie|47|https://www.saos.org.pl/judgments/444137

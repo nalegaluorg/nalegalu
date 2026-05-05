@@ -1,8 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-544276|2025-03-10|SO|III Nsm 879/21|Uzasadnienie|https://www.saos.org.pl/judgments/544276
-458791|2021-11-26|SO|VI ACa 692/20|Wyrok|https://www.saos.org.pl/judgments/458791
-485759|2021-07-30|SO|III C 1366/20|Wyrok|https://www.saos.org.pl/judgments/485759
-430271|2020-06-16|SO|II Ca 1328/19|Wyrok|https://www.saos.org.pl/judgments/430271
-463179|2019-06-14|SO|III C 502/17|Wyrok|https://www.saos.org.pl/judgments/463179
-266501|2016-12-21|SO|III Ca 1243/16|Wyrok|https://www.saos.org.pl/judgments/266501
-128702|2014-12-15|SO|II Cz 703/14|Postanowienie|https://www.saos.org.pl/judgments/128702
+saos_id|date|court|case_number|type|score|saos_url
+458791|2021-11-26|SO|VI ACa 692/20|Wyrok|56|https://www.saos.org.pl/judgments/458791
+485759|2021-07-30|SO|III C 1366/20|Wyrok|40|https://www.saos.org.pl/judgments/485759
+430271|2020-06-16|SO|II Ca 1328/19|Wyrok|40|https://www.saos.org.pl/judgments/430271
+463179|2019-06-14|SO|III C 502/17|Wyrok|40|https://www.saos.org.pl/judgments/463179

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-271046|2015-10-28|SO|I C 307/15|Wyrok|https://www.saos.org.pl/judgments/271046
-92779|2010-08-18|SN|II PZP 7/10|Uchwała|https://www.saos.org.pl/judgments/92779
-76813|1995-04-04|SN|I PRN 5/95|Postanowienie|https://www.saos.org.pl/judgments/76813
+saos_id|date|court|case_number|type|score|saos_url
+92779|2010-08-18|SN|II PZP 7/10|Uchwała|89|https://www.saos.org.pl/judgments/92779
+76813|1995-04-04|SN|I PRN 5/95|Postanowienie|69|https://www.saos.org.pl/judgments/76813
+271046|2015-10-28|SO|I C 307/15|Wyrok|40|https://www.saos.org.pl/judgments/271046

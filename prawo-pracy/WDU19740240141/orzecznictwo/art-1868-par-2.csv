@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-402561|2019-03-11|SO|IV U 1302/18|Wyrok|https://www.saos.org.pl/judgments/402561
+saos_id|date|court|case_number|type|score|saos_url
+402561|2019-03-11|SO|IV U 1302/18|Wyrok|40|https://www.saos.org.pl/judgments/402561

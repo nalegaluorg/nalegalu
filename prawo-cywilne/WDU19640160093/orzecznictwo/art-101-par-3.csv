@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-438757|2021-02-05|SO|XV Ca 1441/20|Postanowienie|https://www.saos.org.pl/judgments/438757
-277421|2016-11-23|SO|I C 604/15|Uzasadnienie|https://www.saos.org.pl/judgments/277421
-11081|2013-04-12|SO|I ACa 50/13|Wyrok|https://www.saos.org.pl/judgments/11081
+saos_id|date|court|case_number|type|score|saos_url
+11081|2013-04-12|SO|I ACa 50/13|Wyrok|56|https://www.saos.org.pl/judgments/11081
+438757|2021-02-05|SO|XV Ca 1441/20|Postanowienie|31|https://www.saos.org.pl/judgments/438757

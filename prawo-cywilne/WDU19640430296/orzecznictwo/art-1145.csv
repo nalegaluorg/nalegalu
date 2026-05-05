@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-244960|2016-03-23|SN|III CZP 112/15|Postanowienie|https://www.saos.org.pl/judgments/244960
-244820|2016-03-11|SN|I CSK 64/15|Postanowienie|https://www.saos.org.pl/judgments/244820
-167948|2015-01-22|SN|III CSK 154/14|Postanowienie|https://www.saos.org.pl/judgments/167948
-165895|2014-05-28|SN|I CSK 330/13|Wyrok|https://www.saos.org.pl/judgments/165895
-103067|2013-10-11|SN|I CSK 451/12|Postanowienie|https://www.saos.org.pl/judgments/103067
-245666|2012-06-15|SN|I CSK 671/11|Postanowienie|https://www.saos.org.pl/judgments/245666
-98241|2012-05-24|SN|V CSK 454/11|Postanowienie|https://www.saos.org.pl/judgments/98241
-96353|2011-11-25|SN|III CSK 22/11|Postanowienie|https://www.saos.org.pl/judgments/96353
-91168|2009-11-06|SN|I CSK 159/09|Postanowienie|https://www.saos.org.pl/judgments/91168
-90456|2009-06-24|SN|I CSK 538/08|Postanowienie|https://www.saos.org.pl/judgments/90456
-87057|2008-01-17|SN|III CZP 112/07|Uchwała|https://www.saos.org.pl/judgments/87057
-84994|2007-01-18|SN|I CSK 330/06|Postanowienie|https://www.saos.org.pl/judgments/84994
+saos_id|date|court|case_number|type|score|saos_url
+87057|2008-01-17|SN|III CZP 112/07|Uchwała|89|https://www.saos.org.pl/judgments/87057
+165895|2014-05-28|SN|I CSK 330/13|Wyrok|78|https://www.saos.org.pl/judgments/165895
+244960|2016-03-23|SN|III CZP 112/15|Postanowienie|69|https://www.saos.org.pl/judgments/244960
+244820|2016-03-11|SN|I CSK 64/15|Postanowienie|69|https://www.saos.org.pl/judgments/244820
+167948|2015-01-22|SN|III CSK 154/14|Postanowienie|69|https://www.saos.org.pl/judgments/167948
+103067|2013-10-11|SN|I CSK 451/12|Postanowienie|69|https://www.saos.org.pl/judgments/103067
+245666|2012-06-15|SN|I CSK 671/11|Postanowienie|69|https://www.saos.org.pl/judgments/245666
+98241|2012-05-24|SN|V CSK 454/11|Postanowienie|69|https://www.saos.org.pl/judgments/98241
+96353|2011-11-25|SN|III CSK 22/11|Postanowienie|69|https://www.saos.org.pl/judgments/96353
+91168|2009-11-06|SN|I CSK 159/09|Postanowienie|69|https://www.saos.org.pl/judgments/91168
+90456|2009-06-24|SN|I CSK 538/08|Postanowienie|69|https://www.saos.org.pl/judgments/90456
+84994|2007-01-18|SN|I CSK 330/06|Postanowienie|69|https://www.saos.org.pl/judgments/84994

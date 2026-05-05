@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-451008|2021-09-02|SO|II Kow 700/21|Postanowienie|https://www.saos.org.pl/judgments/451008
-418404|2020-06-30|SO|II Kow 165/20|Postanowienie|https://www.saos.org.pl/judgments/418404
-392568|2019-08-07|SO|II C 908/18|Uzasadnienie|https://www.saos.org.pl/judgments/392568
-416201|2019-03-15|SO|III Kow 279/19|Postanowienie|https://www.saos.org.pl/judgments/416201
-418481|2018-06-18|SO|III Kow 738/18|Postanowienie|https://www.saos.org.pl/judgments/418481
-335973|2017-03-21|SO|II C 377/15|Uzasadnienie|https://www.saos.org.pl/judgments/335973
-425753|2016-03-15|SO|I C 1200/12|Wyrok|https://www.saos.org.pl/judgments/425753
-204482|2016-02-09|SO|II AKo 28/16|Postanowienie|https://www.saos.org.pl/judgments/204482
-196061|2016-01-05|SO|II C 1844/14|Uzasadnienie|https://www.saos.org.pl/judgments/196061
-490426|2015-05-27|SO|I ACa 1227/14|Wyrok|https://www.saos.org.pl/judgments/490426
-61429|2014-08-21|SO|I ACa 249/14|Wyrok|https://www.saos.org.pl/judgments/61429
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-54261|2014-07-14|SO|II S 24/14|Postanowienie|https://www.saos.org.pl/judgments/54261
-538251|2014-04-15|SO|I ACa 163/14|Wyrok|https://www.saos.org.pl/judgments/538251
-137961|2013-01-31|SO|I C 723/11|Wyrok|https://www.saos.org.pl/judgments/137961
-136008|2012-06-01|SO|II AKo 108/12|Postanowienie|https://www.saos.org.pl/judgments/136008
+saos_id|date|court|case_number|type|score|saos_url
+490426|2015-05-27|SO|I ACa 1227/14|Wyrok|56|https://www.saos.org.pl/judgments/490426
+61429|2014-08-21|SO|I ACa 249/14|Wyrok|56|https://www.saos.org.pl/judgments/61429
+538251|2014-04-15|SO|I ACa 163/14|Wyrok|56|https://www.saos.org.pl/judgments/538251
+204482|2016-02-09|SO|II AKo 28/16|Postanowienie|47|https://www.saos.org.pl/judgments/204482
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+54261|2014-07-14|SO|II S 24/14|Postanowienie|47|https://www.saos.org.pl/judgments/54261
+136008|2012-06-01|SO|II AKo 108/12|Postanowienie|47|https://www.saos.org.pl/judgments/136008
+392568|2019-08-07|SO|II C 908/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/392568
+335973|2017-03-21|SO|II C 377/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/335973
+196061|2016-01-05|SO|II C 1844/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/196061

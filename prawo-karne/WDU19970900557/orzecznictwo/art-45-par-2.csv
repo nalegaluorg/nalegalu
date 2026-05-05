@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-397819|2019-12-04|SO|II Ko 348/19|Postanowienie|https://www.saos.org.pl/judgments/397819
-238161|2016-07-21|SO|V K 37/16|Wyrok|https://www.saos.org.pl/judgments/238161
-102222|2013-06-19|SN|V KK 78/13|Postanowienie|https://www.saos.org.pl/judgments/102222
+saos_id|date|court|case_number|type|score|saos_url
+102222|2013-06-19|SN|V KK 78/13|Postanowienie|69|https://www.saos.org.pl/judgments/102222
+238161|2016-07-21|SO|V K 37/16|Wyrok|40|https://www.saos.org.pl/judgments/238161
+397819|2019-12-04|SO|II Ko 348/19|Postanowienie|31|https://www.saos.org.pl/judgments/397819

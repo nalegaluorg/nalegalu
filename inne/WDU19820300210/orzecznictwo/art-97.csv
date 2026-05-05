@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-522439|2024-08-22|SO|VI C 446/23|Zarządzenie|https://www.saos.org.pl/judgments/522439
-379266|2019-03-04|SO|IV Ka 83/19|Wyrok|https://www.saos.org.pl/judgments/379266
-195160|2015-12-15|SO|XVII Ka 817/15|Wyrok|https://www.saos.org.pl/judgments/195160
-189684|2015-11-09|SO|XVII Ka 858/15|Wyrok|https://www.saos.org.pl/judgments/189684
-189672|2015-10-07|SO|XVII Ka 801/15|Wyrok|https://www.saos.org.pl/judgments/189672
-135501|2015-03-16|SO|XVII Ka 91/15|Wyrok|https://www.saos.org.pl/judgments/135501
-68441|2014-10-20|SO|IV Ka 813/14|Wyrok|https://www.saos.org.pl/judgments/68441
-13959|2013-06-04|SO|IV Ka 211/13|Wyrok|https://www.saos.org.pl/judgments/13959
+saos_id|date|court|case_number|type|score|saos_url
+379266|2019-03-04|SO|IV Ka 83/19|Wyrok|40|https://www.saos.org.pl/judgments/379266
+195160|2015-12-15|SO|XVII Ka 817/15|Wyrok|40|https://www.saos.org.pl/judgments/195160
+189684|2015-11-09|SO|XVII Ka 858/15|Wyrok|40|https://www.saos.org.pl/judgments/189684
+189672|2015-10-07|SO|XVII Ka 801/15|Wyrok|40|https://www.saos.org.pl/judgments/189672
+135501|2015-03-16|SO|XVII Ka 91/15|Wyrok|40|https://www.saos.org.pl/judgments/135501
+68441|2014-10-20|SO|IV Ka 813/14|Wyrok|40|https://www.saos.org.pl/judgments/68441

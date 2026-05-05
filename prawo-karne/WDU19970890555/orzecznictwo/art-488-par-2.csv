@@ -1,9 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-518521|2024-12-13|SO|X Ka 1040/24|Wyrok|https://www.saos.org.pl/judgments/518521
-454265|2020-06-23|SO|I C 720/18|Wyrok|https://www.saos.org.pl/judgments/454265
-179388|2015-08-20|SO|II AKa 129/15|Wyrok|https://www.saos.org.pl/judgments/179388
-166532|2014-08-13|SN|III KZ 44/14|Postanowienie|https://www.saos.org.pl/judgments/166532
-28857|2013-11-21|SO|II Ka 285/13|Wyrok|https://www.saos.org.pl/judgments/28857
-97562|2012-03-15|SN|V KK 266/11|Postanowienie|https://www.saos.org.pl/judgments/97562
-246876|2011-02-02|SO|II AKa 1/11|Wyrok|https://www.saos.org.pl/judgments/246876
-107161|2005-02-22|TK|K 10/04|Wyrok|https://www.saos.org.pl/judgments/107161
+saos_id|date|court|case_number|type|score|saos_url
+107161|2005-02-22|TK|K 10/04|Wyrok|98|https://www.saos.org.pl/judgments/107161
+166532|2014-08-13|SN|III KZ 44/14|Postanowienie|69|https://www.saos.org.pl/judgments/166532
+97562|2012-03-15|SN|V KK 266/11|Postanowienie|69|https://www.saos.org.pl/judgments/97562
+179388|2015-08-20|SO|II AKa 129/15|Wyrok|56|https://www.saos.org.pl/judgments/179388
+246876|2011-02-02|SO|II AKa 1/11|Wyrok|56|https://www.saos.org.pl/judgments/246876

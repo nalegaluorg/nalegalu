@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-95155|2011-06-07|SN|II PK 320/10|Wyrok|https://www.saos.org.pl/judgments/95155
+saos_id|date|court|case_number|type|score|saos_url
+95155|2011-06-07|SN|II PK 320/10|Wyrok|78|https://www.saos.org.pl/judgments/95155

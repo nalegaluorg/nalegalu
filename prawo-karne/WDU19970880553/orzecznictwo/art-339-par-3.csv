@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-147879|2014-05-28|SO|II AKa 63/14|Wyrok|https://www.saos.org.pl/judgments/147879
-94206|2011-02-10|SN|WZ 5/11|Postanowienie|https://www.saos.org.pl/judgments/94206
-83251|2005-02-22|SN|WZ 2/05|Postanowienie|https://www.saos.org.pl/judgments/83251
+saos_id|date|court|case_number|type|score|saos_url
+94206|2011-02-10|SN|WZ 5/11|Postanowienie|69|https://www.saos.org.pl/judgments/94206
+83251|2005-02-22|SN|WZ 2/05|Postanowienie|69|https://www.saos.org.pl/judgments/83251
+147879|2014-05-28|SO|II AKa 63/14|Wyrok|56|https://www.saos.org.pl/judgments/147879

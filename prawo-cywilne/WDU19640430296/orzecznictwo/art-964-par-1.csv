@@ -1,21 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-377540|2019-03-22|SO|I Co 542/17|Postanowienie|https://www.saos.org.pl/judgments/377540
-344484|2018-05-21|SO|I Co 1022/15|Uzasadnienie|https://www.saos.org.pl/judgments/344484
-300372|2017-08-09|SO|I Co 149/16|Postanowienie|https://www.saos.org.pl/judgments/300372
-289539|2017-03-02|SO|XI Co 460/15|Postanowienie|https://www.saos.org.pl/judgments/289539
-239608|2016-06-15|SO|I Co 965/06|Postanowienie|https://www.saos.org.pl/judgments/239608
-244782|2016-03-02|SN|V CSK 372/15|Wyrok|https://www.saos.org.pl/judgments/244782
-196171|2015-12-22|SO|II Cz 732/15|Postanowienie|https://www.saos.org.pl/judgments/196171
-207340|2015-12-15|SO|II Cz 777/15|Postanowienie|https://www.saos.org.pl/judgments/207340
-183529|2015-11-20|SO|II Cz 744/15|Postanowienie|https://www.saos.org.pl/judgments/183529
-185942|2015-11-03|SO|III S 187/15|Postanowienie|https://www.saos.org.pl/judgments/185942
-202919|2015-04-24|SO|II Cz 549/15|Postanowienie|https://www.saos.org.pl/judgments/202919
-202918|2015-04-24|SO|II Cz 548/15|Postanowienie|https://www.saos.org.pl/judgments/202918
-179473|2015-01-30|SO|II Cz 2137/14|Postanowienie|https://www.saos.org.pl/judgments/179473
-130950|2015-01-16|SO|II Cz 16/15|Postanowienie|https://www.saos.org.pl/judgments/130950
-345865|2015-01-12|SO|II Cz 10/14|Postanowienie|https://www.saos.org.pl/judgments/345865
-126703|2014-12-11|SO|II Cz 2259/14|Postanowienie|https://www.saos.org.pl/judgments/126703
-126702|2014-12-11|SO|II Cz 2258/14|Postanowienie|https://www.saos.org.pl/judgments/126702
-16758|2013-07-26|SO|IV Cz 403/13|Postanowienie|https://www.saos.org.pl/judgments/16758
-111217|2012-03-27|TK|Ts 132/11|Postanowienie|https://www.saos.org.pl/judgments/111217
-91264|2009-11-20|SN|III CZP 88/09|Uchwała|https://www.saos.org.pl/judgments/91264
+saos_id|date|court|case_number|type|score|saos_url
+91264|2009-11-20|SN|III CZP 88/09|Uchwała|89|https://www.saos.org.pl/judgments/91264
+111217|2012-03-27|TK|Ts 132/11|Postanowienie|80|https://www.saos.org.pl/judgments/111217
+244782|2016-03-02|SN|V CSK 372/15|Wyrok|78|https://www.saos.org.pl/judgments/244782
+239608|2016-06-15|SO|I Co 965/06|Postanowienie|31|https://www.saos.org.pl/judgments/239608

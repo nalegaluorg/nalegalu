@@ -1,14 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-476305|2022-08-16|SO|V P 491/18|Wyrok|https://www.saos.org.pl/judgments/476305
-463849|2021-03-01|SO|I Ns 1038/20|Postanowienie|https://www.saos.org.pl/judgments/463849
-443650|2020-07-15|SO|II C 5590/19|Uzasadnienie|https://www.saos.org.pl/judgments/443650
-377569|2018-10-01|SO|I Ns 369/12|Postanowienie|https://www.saos.org.pl/judgments/377569
-293056|2016-09-30|SO|XV Ca 541/16|Postanowienie|https://www.saos.org.pl/judgments/293056
-75240|2014-11-07|SO|II Ca 1056/14|Postanowienie|https://www.saos.org.pl/judgments/75240
-99084|2012-09-26|SN|II CSK 722/11|Postanowienie|https://www.saos.org.pl/judgments/99084
-91745|2010-01-28|SN|IV CSK 261/09|Wyrok|https://www.saos.org.pl/judgments/91745
-84519|2006-08-23|SN|III CZP 52/06|Uchwała|https://www.saos.org.pl/judgments/84519
-84501|2006-08-04|SN|III CZP 50/06|Uchwała|https://www.saos.org.pl/judgments/84501
-84231|2006-04-07|SN|III CZP 22/06|Uchwała|https://www.saos.org.pl/judgments/84231
-163171|2005-04-13|SN|V CK 729/04|Postanowienie|https://www.saos.org.pl/judgments/163171
-83300|2005-03-16|SN|IV CK 675/04|Postanowienie|https://www.saos.org.pl/judgments/83300
+saos_id|date|court|case_number|type|score|saos_url
+84519|2006-08-23|SN|III CZP 52/06|Uchwała|89|https://www.saos.org.pl/judgments/84519
+84501|2006-08-04|SN|III CZP 50/06|Uchwała|89|https://www.saos.org.pl/judgments/84501
+84231|2006-04-07|SN|III CZP 22/06|Uchwała|89|https://www.saos.org.pl/judgments/84231
+91745|2010-01-28|SN|IV CSK 261/09|Wyrok|78|https://www.saos.org.pl/judgments/91745
+99084|2012-09-26|SN|II CSK 722/11|Postanowienie|69|https://www.saos.org.pl/judgments/99084
+163171|2005-04-13|SN|V CK 729/04|Postanowienie|69|https://www.saos.org.pl/judgments/163171
+83300|2005-03-16|SN|IV CK 675/04|Postanowienie|69|https://www.saos.org.pl/judgments/83300
+293056|2016-09-30|SO|XV Ca 541/16|Postanowienie|31|https://www.saos.org.pl/judgments/293056

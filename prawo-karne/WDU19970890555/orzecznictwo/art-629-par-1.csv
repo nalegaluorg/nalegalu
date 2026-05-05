@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-452626|2020-03-12|SO|II K 1312/19|Uzasadnienie|https://www.saos.org.pl/judgments/452626
-452625|2020-03-03|SO|II K 1312/19|Wyrok|https://www.saos.org.pl/judgments/452625
-360157|2018-09-19|SO|IV K 430/18|Wyrok|https://www.saos.org.pl/judgments/360157
-43221|2014-04-04|SO|III K 967/13|Wyrok|https://www.saos.org.pl/judgments/43221
-6242|2013-02-18|SO|II K 1392/11|Wyrok|https://www.saos.org.pl/judgments/6242
+saos_id|date|court|case_number|type|score|saos_url
+360157|2018-09-19|SO|IV K 430/18|Wyrok|40|https://www.saos.org.pl/judgments/360157

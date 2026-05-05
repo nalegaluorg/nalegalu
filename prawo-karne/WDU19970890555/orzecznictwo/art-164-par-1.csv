@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-423482|2020-03-04|SO|II K 52/19|Wyrok|https://www.saos.org.pl/judgments/423482
+saos_id|date|court|case_number|type|score|saos_url
+423482|2020-03-04|SO|II K 52/19|Wyrok|40|https://www.saos.org.pl/judgments/423482

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-283173|2017-03-30|SO|I C 4/16|Wyrok|https://www.saos.org.pl/judgments/283173
+saos_id|date|court|case_number|type|score|saos_url
+283173|2017-03-30|SO|I C 4/16|Wyrok|40|https://www.saos.org.pl/judgments/283173

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-470981|2022-02-22|SO|II K 525/21|Wyrok|https://www.saos.org.pl/judgments/470981
-251858|2016-09-07|SO|II AKa 206/16|Wyrok|https://www.saos.org.pl/judgments/251858
+saos_id|date|court|case_number|type|score|saos_url
+251858|2016-09-07|SO|II AKa 206/16|Wyrok|56|https://www.saos.org.pl/judgments/251858

@@ -1,14 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-463740|2022-04-26|SO|VIII Ua 72/21|Zarządzenie|https://www.saos.org.pl/judgments/463740
-441835|2021-06-11|SO|VIII Ua 3/21|Uzasadnienie|https://www.saos.org.pl/judgments/441835
-419192|2020-08-24|SO|VIII Ua 30/20|Zarządzenie|https://www.saos.org.pl/judgments/419192
-423875|2020-06-10|SO|IV U 55/19|Wyrok|https://www.saos.org.pl/judgments/423875
-368267|2018-03-08|SO|IV U 132/17|Wyrok|https://www.saos.org.pl/judgments/368267
-368269|2018-03-01|SO|IV U 140/17|Wyrok|https://www.saos.org.pl/judgments/368269
-312983|2017-03-01|SO|VI U 805/16|Wyrok|https://www.saos.org.pl/judgments/312983
-280935|2017-02-14|SO|IV U 154/15|Wyrok|https://www.saos.org.pl/judgments/280935
-297894|2016-07-12|SO|IV U 105/16|Wyrok|https://www.saos.org.pl/judgments/297894
-196474|2015-12-04|SO|IV U 340/15|Wyrok|https://www.saos.org.pl/judgments/196474
-154284|2015-02-11|SO|V U 1957/14|Wyrok|https://www.saos.org.pl/judgments/154284
-36455|2014-01-16|SO|X U 21/13|Wyrok|https://www.saos.org.pl/judgments/36455
-82485|2004-02-12|SN|II UK 235/03|Wyrok|https://www.saos.org.pl/judgments/82485
+saos_id|date|court|case_number|type|score|saos_url
+82485|2004-02-12|SN|II UK 235/03|Wyrok|78|https://www.saos.org.pl/judgments/82485
+312983|2017-03-01|SO|VI U 805/16|Wyrok|40|https://www.saos.org.pl/judgments/312983
+154284|2015-02-11|SO|V U 1957/14|Wyrok|40|https://www.saos.org.pl/judgments/154284
+463740|2022-04-26|SO|VIII Ua 72/21|Zarządzenie|27|https://www.saos.org.pl/judgments/463740
+441835|2021-06-11|SO|VIII Ua 3/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/441835
+419192|2020-08-24|SO|VIII Ua 30/20|Zarządzenie|27|https://www.saos.org.pl/judgments/419192

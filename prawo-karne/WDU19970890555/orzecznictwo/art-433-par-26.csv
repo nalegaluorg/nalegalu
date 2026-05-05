@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-166304|2014-07-09|SN|II KK 171/14|Postanowienie|https://www.saos.org.pl/judgments/166304
-97543|2012-03-15|SN|III KK 244/11|Postanowienie|https://www.saos.org.pl/judgments/97543
+saos_id|date|court|case_number|type|score|saos_url
+166304|2014-07-09|SN|II KK 171/14|Postanowienie|69|https://www.saos.org.pl/judgments/166304
+97543|2012-03-15|SN|III KK 244/11|Postanowienie|69|https://www.saos.org.pl/judgments/97543

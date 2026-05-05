@@ -1,17 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-536871|2024-10-07|SO|II K 743/23|Uzasadnienie|https://www.saos.org.pl/judgments/536871
-484120|2022-12-20|SO|II1 C 50/20|Wyrok|https://www.saos.org.pl/judgments/484120
-480337|2022-11-08|SO|II Ka 289/22|Postanowienie|https://www.saos.org.pl/judgments/480337
-437817|2021-04-23|SO|VIII U 2340/20|Zarządzenie|https://www.saos.org.pl/judgments/437817
-529730|2020-07-13|SO|II Cz 456/20|Postanowienie|https://www.saos.org.pl/judgments/529730
-378745|2019-02-11|SO|III Ca 1415/18|Uzasadnienie|https://www.saos.org.pl/judgments/378745
-358478|2018-10-12|SO|I Ns 824/17|Postanowienie|https://www.saos.org.pl/judgments/358478
-290332|2017-03-31|SO|III RC 23/17|Wyrok|https://www.saos.org.pl/judgments/290332
-298982|2017-02-22|SO|III RC 145/16|Wyrok|https://www.saos.org.pl/judgments/298982
-308419|2017-02-15|SO|III RC 2/17|Wyrok|https://www.saos.org.pl/judgments/308419
-258791|2016-11-07|SO|I Ns 853/13|Uzasadnienie|https://www.saos.org.pl/judgments/258791
-177128|2015-08-20|SO|III AUa 709/15|Wyrok|https://www.saos.org.pl/judgments/177128
-153258|2015-04-21|SO|I Ca 219/14|Postanowienie|https://www.saos.org.pl/judgments/153258
-129592|2015-02-05|SO|I Ca 19/15|Postanowienie|https://www.saos.org.pl/judgments/129592
-103721|2013-12-06|SN|I CSK 146/13|Wyrok|https://www.saos.org.pl/judgments/103721
-173539|2012-04-23|SO|I Ns 1708/08|Uzasadnienie|https://www.saos.org.pl/judgments/173539
+saos_id|date|court|case_number|type|score|saos_url
+103721|2013-12-06|SN|I CSK 146/13|Wyrok|78|https://www.saos.org.pl/judgments/103721
+177128|2015-08-20|SO|III AUa 709/15|Wyrok|56|https://www.saos.org.pl/judgments/177128
+484120|2022-12-20|SO|II1 C 50/20|Wyrok|40|https://www.saos.org.pl/judgments/484120
+358478|2018-10-12|SO|I Ns 824/17|Postanowienie|31|https://www.saos.org.pl/judgments/358478
+129592|2015-02-05|SO|I Ca 19/15|Postanowienie|31|https://www.saos.org.pl/judgments/129592
+536871|2024-10-07|SO|II K 743/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/536871
+437817|2021-04-23|SO|VIII U 2340/20|Zarządzenie|27|https://www.saos.org.pl/judgments/437817
+378745|2019-02-11|SO|III Ca 1415/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/378745

@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-544885|2020-11-24|SO|I AGa 141/20|Wyrok|https://www.saos.org.pl/judgments/544885
-396820|2019-03-14|SO|I ACa 407/18|Wyrok|https://www.saos.org.pl/judgments/396820
-337342|2018-03-30|SO|II Ca 115/18|Wyrok|https://www.saos.org.pl/judgments/337342
-536109|2018-03-16|SO|II Ca 1324/17|Wyrok|https://www.saos.org.pl/judgments/536109
-343145|2018-03-16|SO|I ACa 900/17|Wyrok|https://www.saos.org.pl/judgments/343145
-349666|2017-10-24|SO|VIII C 261/17|Wyrok|https://www.saos.org.pl/judgments/349666
-318820|2017-06-08|SO|VI ACa 486/16|Wyrok|https://www.saos.org.pl/judgments/318820
-309258|2017-06-08|SO|I ACa 79/17|Wyrok|https://www.saos.org.pl/judgments/309258
-308296|2017-05-25|SO|XVIII C 183/15|Wyrok|https://www.saos.org.pl/judgments/308296
-173526|2015-03-25|SO|I ACa 941/14|Wyrok|https://www.saos.org.pl/judgments/173526
-126374|2014-09-19|SO|I C 1055/13|Uzasadnienie|https://www.saos.org.pl/judgments/126374
-2902|2012-10-17|SO|I ACa 595/12|Wyrok|https://www.saos.org.pl/judgments/2902
-91487|2009-12-11|SN|V CSK 215/09|Wyrok|https://www.saos.org.pl/judgments/91487
+saos_id|date|court|case_number|type|score|saos_url
+91487|2009-12-11|SN|V CSK 215/09|Wyrok|78|https://www.saos.org.pl/judgments/91487
+544885|2020-11-24|SO|I AGa 141/20|Wyrok|56|https://www.saos.org.pl/judgments/544885
+396820|2019-03-14|SO|I ACa 407/18|Wyrok|56|https://www.saos.org.pl/judgments/396820
+343145|2018-03-16|SO|I ACa 900/17|Wyrok|56|https://www.saos.org.pl/judgments/343145
+318820|2017-06-08|SO|VI ACa 486/16|Wyrok|56|https://www.saos.org.pl/judgments/318820
+309258|2017-06-08|SO|I ACa 79/17|Wyrok|56|https://www.saos.org.pl/judgments/309258
+173526|2015-03-25|SO|I ACa 941/14|Wyrok|56|https://www.saos.org.pl/judgments/173526
+2902|2012-10-17|SO|I ACa 595/12|Wyrok|56|https://www.saos.org.pl/judgments/2902
+536109|2018-03-16|SO|II Ca 1324/17|Wyrok|40|https://www.saos.org.pl/judgments/536109
+308296|2017-05-25|SO|XVIII C 183/15|Wyrok|40|https://www.saos.org.pl/judgments/308296

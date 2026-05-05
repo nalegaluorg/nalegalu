@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 21 czerwca 1996 r. o szczególnych forma
 
 ## art. 3 (1)
 
-- 1997-10-15 | TK | [K 4/96](https://www.saos.org.pl/judgments/105182) | Postanowienie
+- 1997-10-15 | TK | [K 4/96](https://www.saos.org.pl/judgments/105182) | Postanowienie ★
 
 ## art. 9 (1)
 

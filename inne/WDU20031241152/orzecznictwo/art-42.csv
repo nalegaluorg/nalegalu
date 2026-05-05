@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516627|2024-08-14|SO|V GC 43/24|Wyrok|https://www.saos.org.pl/judgments/516627
-355872|2018-08-28|SO|II Ca 671/18|Wyrok|https://www.saos.org.pl/judgments/355872
+saos_id|date|court|case_number|type|score|saos_url
+516627|2024-08-14|SO|V GC 43/24|Wyrok|40|https://www.saos.org.pl/judgments/516627

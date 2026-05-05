@@ -1,2 +1,24 @@
-saos_id|date|court|case_number|type|saos_url
-134972|2015-02-19|SO|I C 1029/13|Wyrok|https://www.saos.org.pl/judgments/134972
+saos_id|date|court|case_number|type|score|saos_url
+101075|2013-03-14|SN|IV KK 390/12|Wyrok|78|https://www.saos.org.pl/judgments/101075
+80308|2001-02-06|SN|II UKN 217/00|Wyrok|78|https://www.saos.org.pl/judgments/80308
+540128|2025-03-28|SO|I ACa 1588/22|Wyrok|56|https://www.saos.org.pl/judgments/540128
+395430|2019-10-30|SO|III AUa 530/19|Wyrok|56|https://www.saos.org.pl/judgments/395430
+364333|2018-09-25|SO|VII AGa 1160/18|Wyrok|56|https://www.saos.org.pl/judgments/364333
+336642|2018-01-24|SO|VII AGa 835/18|Wyrok|56|https://www.saos.org.pl/judgments/336642
+295533|2017-04-25|SO|VI ACa 95/15|Wyrok|56|https://www.saos.org.pl/judgments/295533
+287283|2017-04-03|SO|VI ACa 153/14|Wyrok|56|https://www.saos.org.pl/judgments/287283
+293036|2017-03-22|SO|VI ACa 277/14|Wyrok|56|https://www.saos.org.pl/judgments/293036
+283024|2017-03-02|SO|VI ACa 561/14|Wyrok|56|https://www.saos.org.pl/judgments/283024
+285807|2017-02-13|SO|VI ACa 1511/15|Wyrok|56|https://www.saos.org.pl/judgments/285807
+274701|2017-01-25|SO|VI ACa 1673/15|Wyrok|56|https://www.saos.org.pl/judgments/274701
+258269|2016-09-14|SO|VI ACa 283/15|Wyrok|56|https://www.saos.org.pl/judgments/258269
+216996|2015-11-30|SO|VI ACa 1685/14|Wyrok|56|https://www.saos.org.pl/judgments/216996
+156844|2015-02-10|SO|VI ACa 591/14|Wyrok|56|https://www.saos.org.pl/judgments/156844
+134275|2014-08-06|SO|III AUa 2047/13|Wyrok|56|https://www.saos.org.pl/judgments/134275
+248302|2014-07-24|SO|III AUa 2010/13|Wyrok|56|https://www.saos.org.pl/judgments/248302
+125692|2014-04-17|SO|I ACa 533/12|Wyrok|56|https://www.saos.org.pl/judgments/125692
+5568|2013-01-31|SO|III AUa 1268/12|Wyrok|56|https://www.saos.org.pl/judgments/5568
+5158|2012-10-30|SO|III AUa 561/12|Wyrok|56|https://www.saos.org.pl/judgments/5158
+2806|2012-09-27|SO|III AUa 364/11|Wyrok|56|https://www.saos.org.pl/judgments/2806
+286808|2017-05-17|SO|V U 587/16|Wyrok|40|https://www.saos.org.pl/judgments/286808
+140930|2013-09-25|SO|I Ca 194/13|Wyrok|40|https://www.saos.org.pl/judgments/140930

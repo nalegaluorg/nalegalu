@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-165644|2014-02-26|SN|III KK 6/14|Wyrok|https://www.saos.org.pl/judgments/165644
-83835|2005-10-25|SN|IV KK 338/05|Wyrok|https://www.saos.org.pl/judgments/83835
+saos_id|date|court|case_number|type|score|saos_url
+165644|2014-02-26|SN|III KK 6/14|Wyrok|78|https://www.saos.org.pl/judgments/165644
+83835|2005-10-25|SN|IV KK 338/05|Wyrok|78|https://www.saos.org.pl/judgments/83835

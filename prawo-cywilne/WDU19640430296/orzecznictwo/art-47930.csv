@@ -1,5 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-517123|2024-01-15|SO|XVII AmA 58/22|Wyrok|https://www.saos.org.pl/judgments/517123
-469097|2022-06-06|SO|XVII AmA 76/20|Wyrok|https://www.saos.org.pl/judgments/469097
-455998|2019-03-18|SO|XVII AmA 5/16|Wyrok|https://www.saos.org.pl/judgments/455998
-226990|2013-01-14|SO|XVII AmA 71/11|Wyrok|https://www.saos.org.pl/judgments/226990
+saos_id|date|court|case_number|type|score|saos_url
+243090|2015-08-06|SN|III SZP 3/15|Uchwała|89|https://www.saos.org.pl/judgments/243090
+438711|2021-02-26|SO|VII AGa 2267/18|Wyrok|56|https://www.saos.org.pl/judgments/438711
+419166|2019-09-25|SO|VII AGa 1335/18|Wyrok|56|https://www.saos.org.pl/judgments/419166
+128270|2014-08-20|SO|VI ACa 1740/13|Wyrok|56|https://www.saos.org.pl/judgments/128270
+1235|2011-09-29|SO|VI ACa 747/11|Wyrok|56|https://www.saos.org.pl/judgments/1235

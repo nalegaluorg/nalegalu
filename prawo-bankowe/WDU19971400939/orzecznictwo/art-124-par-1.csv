@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-506391|2023-05-22|SO|III Ca 2572/21|Uzasadnienie|https://www.saos.org.pl/judgments/506391
-282412|2017-01-24|SO|VI Pa 105/16|Wyrok|https://www.saos.org.pl/judgments/282412
+saos_id|date|court|case_number|type|score|saos_url
+506391|2023-05-22|SO|III Ca 2572/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506391

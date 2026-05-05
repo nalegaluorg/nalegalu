@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-335569|2018-02-27|SO|XVII Ka 55/18|Wyrok|https://www.saos.org.pl/judgments/335569
-199638|2016-01-19|SO|V Ka 664/15|Wyrok|https://www.saos.org.pl/judgments/199638
+saos_id|date|court|case_number|type|score|saos_url
+335569|2018-02-27|SO|XVII Ka 55/18|Wyrok|40|https://www.saos.org.pl/judgments/335569

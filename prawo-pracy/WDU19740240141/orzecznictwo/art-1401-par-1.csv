@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-402410|2019-10-04|SO|IV P 397/17|Wyrok|https://www.saos.org.pl/judgments/402410
-370517|2018-12-14|SO|III AUa 511/18|Wyrok|https://www.saos.org.pl/judgments/370517
+saos_id|date|court|case_number|type|score|saos_url
+370517|2018-12-14|SO|III AUa 511/18|Wyrok|56|https://www.saos.org.pl/judgments/370517

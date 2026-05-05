@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-484283|2023-03-02|SO|VIII U 2410/21|Uzasadnienie|https://www.saos.org.pl/judgments/484283
-226815|2016-01-19|SO|VI U 1456/14|Wyrok|https://www.saos.org.pl/judgments/226815
-197505|2015-11-03|SO|VI U 558/15|Wyrok|https://www.saos.org.pl/judgments/197505
-53597|2014-05-29|SO|IV U 1649/13|Wyrok|https://www.saos.org.pl/judgments/53597
-78374|1998-06-02|SN|II UKN 86/98|Wyrok|https://www.saos.org.pl/judgments/78374
+saos_id|date|court|case_number|type|score|saos_url
+78374|1998-06-02|SN|II UKN 86/98|Wyrok|78|https://www.saos.org.pl/judgments/78374
+484283|2023-03-02|SO|VIII U 2410/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/484283

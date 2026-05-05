@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-433053|2021-02-18|SO|XII Kp 59/21|Postanowienie|https://www.saos.org.pl/judgments/433053
-349623|2016-04-28|SO|II AKa 46/16|Wyrok|https://www.saos.org.pl/judgments/349623
-206660|2015-10-27|TK|K 5/14|Wyrok|https://www.saos.org.pl/judgments/206660
-391346|2014-08-05|SO|I ACa 1703/13|Wyrok|https://www.saos.org.pl/judgments/391346
+saos_id|date|court|case_number|type|score|saos_url
+206660|2015-10-27|TK|K 5/14|Wyrok|98|https://www.saos.org.pl/judgments/206660
+349623|2016-04-28|SO|II AKa 46/16|Wyrok|56|https://www.saos.org.pl/judgments/349623
+391346|2014-08-05|SO|I ACa 1703/13|Wyrok|56|https://www.saos.org.pl/judgments/391346

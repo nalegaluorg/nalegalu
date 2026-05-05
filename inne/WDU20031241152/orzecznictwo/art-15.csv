@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-391639|2018-10-15|SO|I C 1737/15|Wyrok|https://www.saos.org.pl/judgments/391639
-353051|2018-09-17|SO|XIII Ga 823/18|Uzasadnienie|https://www.saos.org.pl/judgments/353051
-286650|2017-05-16|SO|III Ca 90/17|Uzasadnienie|https://www.saos.org.pl/judgments/286650
-126786|2014-12-15|SO|II Ca 944/14|Wyrok|https://www.saos.org.pl/judgments/126786
-56511|2014-06-10|SO|III Ca 1227/13|Uzasadnienie|https://www.saos.org.pl/judgments/56511
-14352|2013-04-23|SO|II Ca 183/13|Wyrok|https://www.saos.org.pl/judgments/14352
-138267|2013-02-14|SO|I C 583/12|Wyrok|https://www.saos.org.pl/judgments/138267
-6442|2013-02-12|SO|II Ca 967/12|Wyrok|https://www.saos.org.pl/judgments/6442
+saos_id|date|court|case_number|type|score|saos_url
+353051|2018-09-17|SO|XIII Ga 823/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/353051
+286650|2017-05-16|SO|III Ca 90/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/286650
+56511|2014-06-10|SO|III Ca 1227/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/56511

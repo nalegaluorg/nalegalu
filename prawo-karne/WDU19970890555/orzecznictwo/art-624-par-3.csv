@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-263941|2016-09-27|SO|VI Ka 830/16|Wyrok|https://www.saos.org.pl/judgments/263941
-240017|2015-11-17|SO|III K 873/13|Wyrok|https://www.saos.org.pl/judgments/240017
-133884|2015-02-02|SO|III K 148/13|Wyrok|https://www.saos.org.pl/judgments/133884
+saos_id|date|court|case_number|type|score|saos_url
+133884|2015-02-02|SO|III K 148/13|Wyrok|40|https://www.saos.org.pl/judgments/133884

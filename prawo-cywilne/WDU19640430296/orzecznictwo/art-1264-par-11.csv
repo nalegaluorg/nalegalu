@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245008|2016-03-31|SN|IV CSK 324/15|Wyrok|https://www.saos.org.pl/judgments/245008
+saos_id|date|court|case_number|type|score|saos_url
+245008|2016-03-31|SN|IV CSK 324/15|Wyrok|78|https://www.saos.org.pl/judgments/245008

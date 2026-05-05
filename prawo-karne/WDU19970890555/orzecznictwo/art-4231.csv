@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-322357|2017-11-16|SO|III K 673/17|Wyrok|https://www.saos.org.pl/judgments/322357
+saos_id|date|court|case_number|type|score|saos_url
+322357|2017-11-16|SO|III K 673/17|Wyrok|40|https://www.saos.org.pl/judgments/322357

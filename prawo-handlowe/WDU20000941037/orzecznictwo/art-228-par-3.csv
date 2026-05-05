@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-345536|2018-06-15|SO|V GC 63/15|Wyrok|https://www.saos.org.pl/judgments/345536
-131104|2014-12-30|SO|I ACa 401/14|Wyrok|https://www.saos.org.pl/judgments/131104
-274026|2014-11-07|SO|II Ca 1058/14|Postanowienie|https://www.saos.org.pl/judgments/274026
-59021|2014-07-30|SO|VI Ga 131/14|Wyrok|https://www.saos.org.pl/judgments/59021
-93676|2010-12-09|SN|IV CSK 210/10|Postanowienie|https://www.saos.org.pl/judgments/93676
+saos_id|date|court|case_number|type|score|saos_url
+93676|2010-12-09|SN|IV CSK 210/10|Postanowienie|69|https://www.saos.org.pl/judgments/93676
+131104|2014-12-30|SO|I ACa 401/14|Wyrok|56|https://www.saos.org.pl/judgments/131104
+59021|2014-07-30|SO|VI Ga 131/14|Wyrok|40|https://www.saos.org.pl/judgments/59021
+274026|2014-11-07|SO|II Ca 1058/14|Postanowienie|31|https://www.saos.org.pl/judgments/274026

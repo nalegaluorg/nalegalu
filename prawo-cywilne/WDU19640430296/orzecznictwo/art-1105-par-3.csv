@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-97416|2012-03-09|SN|I CSK 300/11|Wyrok|https://www.saos.org.pl/judgments/97416
-86260|2007-07-06|SN|III CSK 22/07|Wyrok|https://www.saos.org.pl/judgments/86260
-85614|2007-04-03|SN|III CZP 137/06|Uchwała|https://www.saos.org.pl/judgments/85614
-85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|https://www.saos.org.pl/judgments/85314
-163831|2005-12-07|SN|V CK 355/05|Wyrok|https://www.saos.org.pl/judgments/163831
-163715|2005-11-10|SN|V CK 293/05|Wyrok|https://www.saos.org.pl/judgments/163715
-83238|2005-02-25|SN|II CK 434/04|Wyrok|https://www.saos.org.pl/judgments/83238
-163043|2005-02-23|SN|III CK 323/04|Wyrok|https://www.saos.org.pl/judgments/163043
-162916|2005-01-19|SN|I CK 676/04|Postanowienie|https://www.saos.org.pl/judgments/162916
+saos_id|date|court|case_number|type|score|saos_url
+85614|2007-04-03|SN|III CZP 137/06|Uchwała|96|https://www.saos.org.pl/judgments/85614
+97416|2012-03-09|SN|I CSK 300/11|Wyrok|78|https://www.saos.org.pl/judgments/97416
+86260|2007-07-06|SN|III CSK 22/07|Wyrok|78|https://www.saos.org.pl/judgments/86260
+163831|2005-12-07|SN|V CK 355/05|Wyrok|78|https://www.saos.org.pl/judgments/163831
+163715|2005-11-10|SN|V CK 293/05|Wyrok|78|https://www.saos.org.pl/judgments/163715
+83238|2005-02-25|SN|II CK 434/04|Wyrok|78|https://www.saos.org.pl/judgments/83238
+163043|2005-02-23|SN|III CK 323/04|Wyrok|78|https://www.saos.org.pl/judgments/163043
+85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|69|https://www.saos.org.pl/judgments/85314
+162916|2005-01-19|SN|I CK 676/04|Postanowienie|69|https://www.saos.org.pl/judgments/162916

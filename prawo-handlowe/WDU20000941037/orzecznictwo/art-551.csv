@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-281732|2017-02-27|SO|III Ca 1660/16|Uzasadnienie|https://www.saos.org.pl/judgments/281732
-229105|2015-08-26|SO|I Ns 1168/14|Postanowienie|https://www.saos.org.pl/judgments/229105
+saos_id|date|court|case_number|type|score|saos_url
+281732|2017-02-27|SO|III Ca 1660/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/281732

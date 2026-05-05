@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-364523|2018-11-15|SO|V Ca 144/18|Wyrok|https://www.saos.org.pl/judgments/364523
+saos_id|date|court|case_number|type|score|saos_url
+364523|2018-11-15|SO|V Ca 144/18|Wyrok|40|https://www.saos.org.pl/judgments/364523

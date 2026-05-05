@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-168578|2015-03-10|SN|WA 1/15|Wyrok|https://www.saos.org.pl/judgments/168578
-129117|2014-11-27|SO|V Ca 1423/12|Uzasadnienie|https://www.saos.org.pl/judgments/129117
-224190|2014-10-31|SO|V Ca 1423/12|Postanowienie|https://www.saos.org.pl/judgments/224190
-234256|2014-07-02|SO|X Ka 101/14|Wyrok|https://www.saos.org.pl/judgments/234256
+saos_id|date|court|case_number|type|score|saos_url
+168578|2015-03-10|SN|WA 1/15|Wyrok|78|https://www.saos.org.pl/judgments/168578

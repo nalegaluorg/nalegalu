@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-485923|2022-07-19|SO|VI Ka 253/22|Wyrok|https://www.saos.org.pl/judgments/485923
-455659|2022-02-03|SO|II W 42/22|Postanowienie|https://www.saos.org.pl/judgments/455659
+saos_id|date|court|case_number|type|score|saos_url
+485923|2022-07-19|SO|VI Ka 253/22|Wyrok|40|https://www.saos.org.pl/judgments/485923

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-404949|2019-12-12|SO|V ACa 896/17|Wyrok|https://www.saos.org.pl/judgments/404949
-334553|2018-01-26|SO|I C 1875/14|Wyrok|https://www.saos.org.pl/judgments/334553
-144318|2014-02-13|SO|I C 388/12|Wyrok|https://www.saos.org.pl/judgments/144318
+saos_id|date|court|case_number|type|score|saos_url
+404949|2019-12-12|SO|V ACa 896/17|Wyrok|56|https://www.saos.org.pl/judgments/404949

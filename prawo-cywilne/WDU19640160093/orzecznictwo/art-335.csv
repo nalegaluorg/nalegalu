@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-395110|2019-01-31|SO|I AGa 270/18|Wyrok|https://www.saos.org.pl/judgments/395110
+saos_id|date|court|case_number|type|score|saos_url
+395110|2019-01-31|SO|I AGa 270/18|Wyrok|56|https://www.saos.org.pl/judgments/395110

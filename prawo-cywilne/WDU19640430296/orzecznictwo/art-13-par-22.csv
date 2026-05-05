@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-222238|2016-04-13|SO|VIII Ca 59/16|Postanowienie|https://www.saos.org.pl/judgments/222238
-104502|2014-02-20|SN|III SK 55/13|Postanowienie|https://www.saos.org.pl/judgments/104502
+saos_id|date|court|case_number|type|score|saos_url
+104502|2014-02-20|SN|III SK 55/13|Postanowienie|69|https://www.saos.org.pl/judgments/104502

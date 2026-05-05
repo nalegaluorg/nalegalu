@@ -1,19 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-377446|2019-04-10|SO|I Ca 101/19|Wyrok|https://www.saos.org.pl/judgments/377446
-377442|2019-02-13|SO|I Ca 1/19|Wyrok|https://www.saos.org.pl/judgments/377442
-377496|2019-02-05|SO|I Ca 516/18|Wyrok|https://www.saos.org.pl/judgments/377496
-377490|2019-02-05|SO|I Ca 504/18|Wyrok|https://www.saos.org.pl/judgments/377490
-377489|2019-01-29|SO|I Ca 497/18|Wyrok|https://www.saos.org.pl/judgments/377489
-360262|2018-10-16|SO|I C 1635/17|Wyrok|https://www.saos.org.pl/judgments/360262
-348661|2018-07-19|SO|IV Ca 431/17|Wyrok|https://www.saos.org.pl/judgments/348661
-282179|2017-04-13|SO|I C 99/17|Wyrok|https://www.saos.org.pl/judgments/282179
-289622|2017-03-02|SO|I ACa 1415/16|Wyrok|https://www.saos.org.pl/judgments/289622
-304372|2016-12-29|SO|I ACa 616/16|Wyrok|https://www.saos.org.pl/judgments/304372
-219521|2015-12-14|SO|I ACa 574/15|Wyrok|https://www.saos.org.pl/judgments/219521
-47709|2014-02-12|SO|I ACa 384/13|Wyrok|https://www.saos.org.pl/judgments/47709
-38003|2013-11-29|SO|I ACa 627/13|Wyrok|https://www.saos.org.pl/judgments/38003
-148211|2013-11-12|SO|I ACa 574/13|Wyrok|https://www.saos.org.pl/judgments/148211
-52569|2013-09-06|SO|XXIII Ga 810/13|Postanowienie|https://www.saos.org.pl/judgments/52569
-9301|2013-02-28|SO|I ACa 887/12|Wyrok|https://www.saos.org.pl/judgments/9301
-13246|2013-01-30|SO|I ACa 564/12|Wyrok|https://www.saos.org.pl/judgments/13246
-148534|2012-11-08|SO|I C 221/12|Wyrok|https://www.saos.org.pl/judgments/148534
+saos_id|date|court|case_number|type|score|saos_url
+289622|2017-03-02|SO|I ACa 1415/16|Wyrok|56|https://www.saos.org.pl/judgments/289622
+304372|2016-12-29|SO|I ACa 616/16|Wyrok|56|https://www.saos.org.pl/judgments/304372
+219521|2015-12-14|SO|I ACa 574/15|Wyrok|56|https://www.saos.org.pl/judgments/219521
+47709|2014-02-12|SO|I ACa 384/13|Wyrok|56|https://www.saos.org.pl/judgments/47709
+38003|2013-11-29|SO|I ACa 627/13|Wyrok|56|https://www.saos.org.pl/judgments/38003
+148211|2013-11-12|SO|I ACa 574/13|Wyrok|56|https://www.saos.org.pl/judgments/148211
+9301|2013-02-28|SO|I ACa 887/12|Wyrok|56|https://www.saos.org.pl/judgments/9301
+13246|2013-01-30|SO|I ACa 564/12|Wyrok|56|https://www.saos.org.pl/judgments/13246

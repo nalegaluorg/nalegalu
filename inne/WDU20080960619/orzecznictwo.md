@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 20 maja 2008 r
 
 ## art. 45 (1)
 
-- 2012-12-19 | SN | [II CSK 219/12](https://www.saos.org.pl/judgments/100168) | Wyrok
+- 2012-12-19 | SN | [II CSK 219/12](https://www.saos.org.pl/judgments/100168) | Wyrok ★
 
 ## art. 78 (1)
 
-- 2012-12-19 | SN | [II CSK 219/12](https://www.saos.org.pl/judgments/100168) | Wyrok
+- 2012-12-19 | SN | [II CSK 219/12](https://www.saos.org.pl/judgments/100168) | Wyrok ★
 
 ## art. 368 § 1 (1)
 

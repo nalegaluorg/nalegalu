@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-477172|2022-04-05|SO|VII U 1761/21|Wyrok|https://www.saos.org.pl/judgments/477172
-370398|2019-02-06|SO|III AUa 666/18|Wyrok|https://www.saos.org.pl/judgments/370398
+saos_id|date|court|case_number|type|score|saos_url
+370398|2019-02-06|SO|III AUa 666/18|Wyrok|56|https://www.saos.org.pl/judgments/370398
+477172|2022-04-05|SO|VII U 1761/21|Wyrok|40|https://www.saos.org.pl/judgments/477172

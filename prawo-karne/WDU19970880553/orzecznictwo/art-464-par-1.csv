@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-103899|2013-12-11|SN|IV KK 410/13|Postanowienie|https://www.saos.org.pl/judgments/103899
-136342|2012-12-13|SO|II AKa 103/12|Wyrok|https://www.saos.org.pl/judgments/136342
+saos_id|date|court|case_number|type|score|saos_url
+103899|2013-12-11|SN|IV KK 410/13|Postanowienie|69|https://www.saos.org.pl/judgments/103899
+136342|2012-12-13|SO|II AKa 103/12|Wyrok|56|https://www.saos.org.pl/judgments/136342

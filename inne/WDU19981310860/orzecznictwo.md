@@ -6,10 +6,10 @@ Orzeczenia powołujące: *Ustawa z dnia 18 czerwca 1998 r. o zmianie ustawy o uj
 
 ## art. 1 (2)
 
-- 2005-11-17 | SN | [I KZP 42/05](https://www.saos.org.pl/judgments/83856) | Uchwała
-- 1998-11-10 | TK | [K 39/97](https://www.saos.org.pl/judgments/205809) | Wyrok
+- 1998-11-10 | TK | [K 39/97](https://www.saos.org.pl/judgments/205809) | Wyrok ★
+- 2005-11-17 | SN | [I KZP 42/05](https://www.saos.org.pl/judgments/83856) | Uchwała ★
 
 ## art. 19 (1)
 
-- 1998-11-10 | TK | [K 39/97](https://www.saos.org.pl/judgments/205809) | Wyrok
+- 1998-11-10 | TK | [K 39/97](https://www.saos.org.pl/judgments/205809) | Wyrok ★
 

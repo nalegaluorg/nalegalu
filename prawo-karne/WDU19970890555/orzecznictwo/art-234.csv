@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-504009|2023-09-11|SO|II Ka 408/23|Wyrok|https://www.saos.org.pl/judgments/504009
-477231|2022-09-26|SO|II AKa 262/22|Wyrok|https://www.saos.org.pl/judgments/477231
-407418|2019-08-23|SO|VI Ka 125/19|Wyrok|https://www.saos.org.pl/judgments/407418
-362276|2018-05-24|SO|VI Ka 192/18|Wyrok|https://www.saos.org.pl/judgments/362276
-234912|2016-05-06|SO|VI Ka 295/16|Wyrok|https://www.saos.org.pl/judgments/234912
-212384|2015-12-15|SO|VII W 228/15|Wyrok|https://www.saos.org.pl/judgments/212384
-187822|2015-11-03|SO|VI Ka 860/15|Wyrok|https://www.saos.org.pl/judgments/187822
-173023|2015-06-08|SO|IV Ka 404/15|Wyrok|https://www.saos.org.pl/judgments/173023
-148702|2015-03-24|SO|VI Ka 954/14|Wyrok|https://www.saos.org.pl/judgments/148702
-70427|2014-09-24|SO|III Ca 113/14|Wyrok|https://www.saos.org.pl/judgments/70427
-164849|2007-10-03|SN|IV CSK 159/07|Wyrok|https://www.saos.org.pl/judgments/164849
+saos_id|date|court|case_number|type|score|saos_url
+164849|2007-10-03|SN|IV CSK 159/07|Wyrok|78|https://www.saos.org.pl/judgments/164849
+477231|2022-09-26|SO|II AKa 262/22|Wyrok|56|https://www.saos.org.pl/judgments/477231
+407418|2019-08-23|SO|VI Ka 125/19|Wyrok|40|https://www.saos.org.pl/judgments/407418

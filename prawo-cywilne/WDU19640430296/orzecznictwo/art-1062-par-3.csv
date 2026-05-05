@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500199|2023-12-29|SO|I Ns 427/22|Postanowienie|https://www.saos.org.pl/judgments/500199
-265365|2016-12-22|SO|I Ca 250/16|Postanowienie|https://www.saos.org.pl/judgments/265365
+saos_id|date|court|case_number|type|score|saos_url
+265365|2016-12-22|SO|I Ca 250/16|Postanowienie|31|https://www.saos.org.pl/judgments/265365

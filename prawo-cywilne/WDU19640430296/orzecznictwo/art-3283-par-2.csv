@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-102571|2013-08-06|SN|II UK 4/13|Wyrok|https://www.saos.org.pl/judgments/102571
-88456|2008-07-09|SN|V CSK 52/08|Wyrok|https://www.saos.org.pl/judgments/88456
-87647|2008-03-18|SN|IV CSK 490/07|Postanowienie|https://www.saos.org.pl/judgments/87647
+saos_id|date|court|case_number|type|score|saos_url
+102571|2013-08-06|SN|II UK 4/13|Wyrok|78|https://www.saos.org.pl/judgments/102571
+88456|2008-07-09|SN|V CSK 52/08|Wyrok|78|https://www.saos.org.pl/judgments/88456
+87647|2008-03-18|SN|IV CSK 490/07|Postanowienie|69|https://www.saos.org.pl/judgments/87647

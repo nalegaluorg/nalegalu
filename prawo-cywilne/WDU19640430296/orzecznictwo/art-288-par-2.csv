@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-515694|2023-11-22|SO|XXVII Ca 2162/22|Wyrok|https://www.saos.org.pl/judgments/515694
-494009|2023-06-30|SO|I ACa 2833/22|Wyrok|https://www.saos.org.pl/judgments/494009
-494008|2023-06-30|SO|I ACa 2822/22|Wyrok|https://www.saos.org.pl/judgments/494008
-375223|2017-09-20|SO|I C 4233/16|Uzasadnienie|https://www.saos.org.pl/judgments/375223
-133335|2015-02-06|SO|II Cz 144/15|Postanowienie|https://www.saos.org.pl/judgments/133335
-133924|2014-09-30|SO|I C 153/14|Wyrok|https://www.saos.org.pl/judgments/133924
+saos_id|date|court|case_number|type|score|saos_url
+494009|2023-06-30|SO|I ACa 2833/22|Wyrok|56|https://www.saos.org.pl/judgments/494009
+494008|2023-06-30|SO|I ACa 2822/22|Wyrok|56|https://www.saos.org.pl/judgments/494008

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-425415|2019-07-11|SO|V ACa 329/19|Wyrok|https://www.saos.org.pl/judgments/425415
-379698|2018-12-04|SO|V ACa 167/18|Wyrok|https://www.saos.org.pl/judgments/379698
+saos_id|date|court|case_number|type|score|saos_url
+425415|2019-07-11|SO|V ACa 329/19|Wyrok|56|https://www.saos.org.pl/judgments/425415
+379698|2018-12-04|SO|V ACa 167/18|Wyrok|56|https://www.saos.org.pl/judgments/379698

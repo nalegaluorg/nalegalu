@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-420017|2020-02-19|SO|IV Ka 1152/19|Wyrok|https://www.saos.org.pl/judgments/420017
-401054|2019-10-11|SO|II AKa 141/19|Wyrok|https://www.saos.org.pl/judgments/401054
-165644|2014-02-26|SN|III KK 6/14|Wyrok|https://www.saos.org.pl/judgments/165644
+saos_id|date|court|case_number|type|score|saos_url
+165644|2014-02-26|SN|III KK 6/14|Wyrok|78|https://www.saos.org.pl/judgments/165644
+401054|2019-10-11|SO|II AKa 141/19|Wyrok|56|https://www.saos.org.pl/judgments/401054
+420017|2020-02-19|SO|IV Ka 1152/19|Wyrok|40|https://www.saos.org.pl/judgments/420017

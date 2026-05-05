@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-224584|2016-05-11|SO|III RC 328/15|Wyrok|https://www.saos.org.pl/judgments/224584
-73051|2014-09-22|SO|II Ca 507/14|Wyrok|https://www.saos.org.pl/judgments/73051
+saos_id|date|court|case_number|type|score|saos_url
+224584|2016-05-11|SO|III RC 328/15|Wyrok|40|https://www.saos.org.pl/judgments/224584

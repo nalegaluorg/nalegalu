@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-491369|2023-06-22|SO|II AKa 125/22|Uzasadnienie|https://www.saos.org.pl/judgments/491369
-397629|2019-09-10|SO|VIII Ka 476/19|Wyrok|https://www.saos.org.pl/judgments/397629
-313653|2017-09-15|SO|VI Ka 501/17|Wyrok|https://www.saos.org.pl/judgments/313653
+saos_id|date|court|case_number|type|score|saos_url
+491369|2023-06-22|SO|II AKa 125/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/491369

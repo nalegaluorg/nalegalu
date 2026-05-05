@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-502347|2024-02-02|SO|II Cz 90/22|Postanowienie|https://www.saos.org.pl/judgments/502347
-291703|2016-09-06|SO|XI Co 1253/15|Postanowienie|https://www.saos.org.pl/judgments/291703
-233971|2016-05-10|SO|II Cz 241/16|Postanowienie|https://www.saos.org.pl/judgments/233971
-56117|2014-07-17|SO|II Cz 436/14|Postanowienie|https://www.saos.org.pl/judgments/56117
-38891|2014-02-25|SO|II Cz 975/13|Postanowienie|https://www.saos.org.pl/judgments/38891
+saos_id|date|court|case_number|type|score|saos_url
+502347|2024-02-02|SO|II Cz 90/22|Postanowienie|31|https://www.saos.org.pl/judgments/502347

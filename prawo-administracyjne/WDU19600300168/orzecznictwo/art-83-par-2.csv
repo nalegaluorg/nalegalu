@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-443028|2021-05-13|SO|XVII AmE 195/19|Wyrok|https://www.saos.org.pl/judgments/443028
-368778|2018-11-30|SO|VI Ka 996/18|Wyrok|https://www.saos.org.pl/judgments/368778
-274700|2017-01-25|SO|VI ACa 1649/15|Wyrok|https://www.saos.org.pl/judgments/274700
-26764|2013-11-22|SO|II Ka 416/13|Wyrok|https://www.saos.org.pl/judgments/26764
+saos_id|date|court|case_number|type|score|saos_url
+274700|2017-01-25|SO|VI ACa 1649/15|Wyrok|56|https://www.saos.org.pl/judgments/274700

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-533463|2025-04-10|SO|II Ca 2486/24|Postanowienie|https://www.saos.org.pl/judgments/533463
-533465|2024-12-11|SO|II Ca 2487/24|Uzasadnienie|https://www.saos.org.pl/judgments/533465
-491821|2022-03-04|SO|V ACa 516/21|Wyrok|https://www.saos.org.pl/judgments/491821
-329919|2017-08-04|SO|I ACa 734/16|Wyrok|https://www.saos.org.pl/judgments/329919
-206060|2001-06-05|TK|K 18/00|Wyrok|https://www.saos.org.pl/judgments/206060
+saos_id|date|court|case_number|type|score|saos_url
+206060|2001-06-05|TK|K 18/00|Wyrok|98|https://www.saos.org.pl/judgments/206060
+491821|2022-03-04|SO|V ACa 516/21|Wyrok|56|https://www.saos.org.pl/judgments/491821
+329919|2017-08-04|SO|I ACa 734/16|Wyrok|56|https://www.saos.org.pl/judgments/329919
+533463|2025-04-10|SO|II Ca 2486/24|Postanowienie|31|https://www.saos.org.pl/judgments/533463
+533465|2024-12-11|SO|II Ca 2487/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/533465

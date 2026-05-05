@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-252352|2015-06-30|SO|I ACa 321/14|Wyrok|https://www.saos.org.pl/judgments/252352
+saos_id|date|court|case_number|type|score|saos_url
+252352|2015-06-30|SO|I ACa 321/14|Wyrok|56|https://www.saos.org.pl/judgments/252352

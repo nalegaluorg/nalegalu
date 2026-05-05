@@ -1,9 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-443653|2021-05-28|SO|II Co 154/21|Postanowienie|https://www.saos.org.pl/judgments/443653
-443657|2021-05-24|SO|II Co 591/21|Postanowienie|https://www.saos.org.pl/judgments/443657
-443654|2021-05-21|SO|II Co 329/21|Postanowienie|https://www.saos.org.pl/judgments/443654
-443655|2021-05-18|SO|II Co 423/21|Postanowienie|https://www.saos.org.pl/judgments/443655
-442034|2021-03-30|SO|II Co 1641/20|Postanowienie|https://www.saos.org.pl/judgments/442034
-412149|2019-08-01|SO|II Co 2795/19|Postanowienie|https://www.saos.org.pl/judgments/412149
-412151|2019-02-11|SO|II Co 5155/18|Postanowienie|https://www.saos.org.pl/judgments/412151
-345666|2017-12-05|SO|II Co 4341/17|Postanowienie|https://www.saos.org.pl/judgments/345666
+saos_id|date|court|case_number|type|score|saos_url
+443653|2021-05-28|SO|II Co 154/21|Postanowienie|31|https://www.saos.org.pl/judgments/443653
+443657|2021-05-24|SO|II Co 591/21|Postanowienie|31|https://www.saos.org.pl/judgments/443657
+443654|2021-05-21|SO|II Co 329/21|Postanowienie|31|https://www.saos.org.pl/judgments/443654
+443655|2021-05-18|SO|II Co 423/21|Postanowienie|31|https://www.saos.org.pl/judgments/443655
+442034|2021-03-30|SO|II Co 1641/20|Postanowienie|31|https://www.saos.org.pl/judgments/442034
+412149|2019-08-01|SO|II Co 2795/19|Postanowienie|31|https://www.saos.org.pl/judgments/412149
+412151|2019-02-11|SO|II Co 5155/18|Postanowienie|31|https://www.saos.org.pl/judgments/412151
+345666|2017-12-05|SO|II Co 4341/17|Postanowienie|31|https://www.saos.org.pl/judgments/345666

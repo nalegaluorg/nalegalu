@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-272438|2017-02-02|SO|XII C 1123/14|Wyrok|https://www.saos.org.pl/judgments/272438
+saos_id|date|court|case_number|type|score|saos_url
+272438|2017-02-02|SO|XII C 1123/14|Wyrok|40|https://www.saos.org.pl/judgments/272438

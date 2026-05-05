@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-386452|2019-07-03|SO|XVI C 169/16|Uzasadnienie|https://www.saos.org.pl/judgments/386452
-369076|2018-08-30|SO|VI ACa 509/17|Wyrok|https://www.saos.org.pl/judgments/369076
-272578|2017-01-09|SO|III C 918/15|Wyrok|https://www.saos.org.pl/judgments/272578
+saos_id|date|court|case_number|type|score|saos_url
+369076|2018-08-30|SO|VI ACa 509/17|Wyrok|56|https://www.saos.org.pl/judgments/369076

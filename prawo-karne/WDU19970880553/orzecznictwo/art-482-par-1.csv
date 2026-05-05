@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-277509|2017-02-17|SO|II C 1971/16|Uzasadnienie|https://www.saos.org.pl/judgments/277509
-171153|2015-04-27|SO|I ACa 1486/14|Wyrok|https://www.saos.org.pl/judgments/171153
+saos_id|date|court|case_number|type|score|saos_url
+171153|2015-04-27|SO|I ACa 1486/14|Wyrok|56|https://www.saos.org.pl/judgments/171153

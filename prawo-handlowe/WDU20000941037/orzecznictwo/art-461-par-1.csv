@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-91700|2010-01-22|SN|V CSK 208/09|Postanowienie|https://www.saos.org.pl/judgments/91700
-87837|2008-04-09|SN|V CSK 508/07|Postanowienie|https://www.saos.org.pl/judgments/87837
+saos_id|date|court|case_number|type|score|saos_url
+91700|2010-01-22|SN|V CSK 208/09|Postanowienie|69|https://www.saos.org.pl/judgments/91700
+87837|2008-04-09|SN|V CSK 508/07|Postanowienie|69|https://www.saos.org.pl/judgments/87837

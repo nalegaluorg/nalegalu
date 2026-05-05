@@ -1,15 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-520775|2024-08-09|SO|XV Ca 258/24|Wyrok|https://www.saos.org.pl/judgments/520775
-446369|2021-06-16|SO|II Ca 892/21|Wyrok|https://www.saos.org.pl/judgments/446369
-286193|2017-03-07|SO|I ACa 1499/16|Wyrok|https://www.saos.org.pl/judgments/286193
-92626|2010-07-13|SN|III CZP 29/10|Uchwała|https://www.saos.org.pl/judgments/92626
-206227|2009-06-19|TK|Ts 53/08|Postanowienie|https://www.saos.org.pl/judgments/206227
-108588|2008-06-16|TK|P 37/07|Wyrok|https://www.saos.org.pl/judgments/108588
-85681|2007-04-18|SN|I UK 325/06|Postanowienie|https://www.saos.org.pl/judgments/85681
-163874|2005-12-13|SN|IV CZ 101/05|Postanowienie|https://www.saos.org.pl/judgments/163874
-107299|2005-06-01|TK|Ts 13/05|Postanowienie|https://www.saos.org.pl/judgments/107299
-107360|2005-03-07|TK|Ts 77/04|Postanowienie|https://www.saos.org.pl/judgments/107360
-106733|2004-09-07|TK|P 4/04|Wyrok|https://www.saos.org.pl/judgments/106733
-106203|2002-01-22|TK|Ts 139/01|Postanowienie|https://www.saos.org.pl/judgments/106203
-105990|2001-11-12|TK|Ts 139/01|Postanowienie|https://www.saos.org.pl/judgments/105990
-79937|2000-09-21|SN|III CZP 14/00|Uchwała|https://www.saos.org.pl/judgments/79937
+saos_id|date|court|case_number|type|score|saos_url
+108588|2008-06-16|TK|P 37/07|Wyrok|98|https://www.saos.org.pl/judgments/108588
+106733|2004-09-07|TK|P 4/04|Wyrok|98|https://www.saos.org.pl/judgments/106733
+92626|2010-07-13|SN|III CZP 29/10|Uchwała|96|https://www.saos.org.pl/judgments/92626
+79937|2000-09-21|SN|III CZP 14/00|Uchwała|96|https://www.saos.org.pl/judgments/79937
+206227|2009-06-19|TK|Ts 53/08|Postanowienie|80|https://www.saos.org.pl/judgments/206227
+107299|2005-06-01|TK|Ts 13/05|Postanowienie|80|https://www.saos.org.pl/judgments/107299
+107360|2005-03-07|TK|Ts 77/04|Postanowienie|80|https://www.saos.org.pl/judgments/107360
+106203|2002-01-22|TK|Ts 139/01|Postanowienie|80|https://www.saos.org.pl/judgments/106203
+105990|2001-11-12|TK|Ts 139/01|Postanowienie|80|https://www.saos.org.pl/judgments/105990
+85681|2007-04-18|SN|I UK 325/06|Postanowienie|69|https://www.saos.org.pl/judgments/85681
+163874|2005-12-13|SN|IV CZ 101/05|Postanowienie|69|https://www.saos.org.pl/judgments/163874
+286193|2017-03-07|SO|I ACa 1499/16|Wyrok|56|https://www.saos.org.pl/judgments/286193
+520775|2024-08-09|SO|XV Ca 258/24|Wyrok|40|https://www.saos.org.pl/judgments/520775
+446369|2021-06-16|SO|II Ca 892/21|Wyrok|40|https://www.saos.org.pl/judgments/446369

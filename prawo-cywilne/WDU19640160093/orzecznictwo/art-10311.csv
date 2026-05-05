@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-511547|2023-03-07|SO|VI U 2360/22|Wyrok|https://www.saos.org.pl/judgments/511547
-463849|2021-03-01|SO|I Ns 1038/20|Postanowienie|https://www.saos.org.pl/judgments/463849
-405052|2018-03-28|SO|III AUa 799/17|Wyrok|https://www.saos.org.pl/judgments/405052
-214724|2016-02-22|SO|II Ca 1176/15|Postanowienie|https://www.saos.org.pl/judgments/214724
+saos_id|date|court|case_number|type|score|saos_url
+405052|2018-03-28|SO|III AUa 799/17|Wyrok|56|https://www.saos.org.pl/judgments/405052

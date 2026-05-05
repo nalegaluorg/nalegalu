@@ -14,7 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 2002 r. o dopłatach do oproce
 
 ## art. 3 (1)
 
-- 2004-01-16 | SN | [III CZP 106/03](https://www.saos.org.pl/judgments/82430) | Uchwała
+- 2004-01-16 | SN | [III CZP 106/03](https://www.saos.org.pl/judgments/82430) | Uchwała ★
 
 ## art. 8 (1)
 

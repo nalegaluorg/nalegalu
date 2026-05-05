@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-526173|2023-10-31|SO|I C 156/22|Wyrok|https://www.saos.org.pl/judgments/526173
-372621|2018-06-28|SO|IV Pa 7/17|Wyrok|https://www.saos.org.pl/judgments/372621
+saos_id|date|court|case_number|type|score|saos_url
+526173|2023-10-31|SO|I C 156/22|Wyrok|40|https://www.saos.org.pl/judgments/526173
+372621|2018-06-28|SO|IV Pa 7/17|Wyrok|40|https://www.saos.org.pl/judgments/372621

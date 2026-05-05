@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-296337|2017-06-27|SO|VII Ka 348/17|Wyrok|https://www.saos.org.pl/judgments/296337
-94764|2011-04-13|SN|V CSK 312/10|Wyrok|https://www.saos.org.pl/judgments/94764
+saos_id|date|court|case_number|type|score|saos_url
+94764|2011-04-13|SN|V CSK 312/10|Wyrok|78|https://www.saos.org.pl/judgments/94764
+296337|2017-06-27|SO|VII Ka 348/17|Wyrok|40|https://www.saos.org.pl/judgments/296337

@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-454569|2021-06-24|SO|I C 594/20|Wyrok|https://www.saos.org.pl/judgments/454569
-461759|2020-07-20|SO|XXV C 1182/19|Wyrok|https://www.saos.org.pl/judgments/461759
-367509|2018-12-07|SO|II K 97/18|Wyrok|https://www.saos.org.pl/judgments/367509
-333779|2017-04-27|SO|XVI GC 160/16|Wyrok|https://www.saos.org.pl/judgments/333779
-247392|2016-08-03|SO|III APa 15/16|Wyrok|https://www.saos.org.pl/judgments/247392
-234638|2016-01-26|SO|XII Ga 387/13|Postanowienie|https://www.saos.org.pl/judgments/234638
-217320|2015-12-09|SO|II AKa 155/15|Wyrok|https://www.saos.org.pl/judgments/217320
-59581|2014-03-26|SO|VIII P 27/13|Wyrok|https://www.saos.org.pl/judgments/59581
-37372|2013-11-12|SO|VIII Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/37372
-35609|2013-11-12|SO|VIII Pa 42/13|Wyrok|https://www.saos.org.pl/judgments/35609
-164337|2006-06-09|SN|IV CK 415/05|Wyrok|https://www.saos.org.pl/judgments/164337
+saos_id|date|court|case_number|type|score|saos_url
+164337|2006-06-09|SN|IV CK 415/05|Wyrok|78|https://www.saos.org.pl/judgments/164337
+247392|2016-08-03|SO|III APa 15/16|Wyrok|56|https://www.saos.org.pl/judgments/247392
+217320|2015-12-09|SO|II AKa 155/15|Wyrok|56|https://www.saos.org.pl/judgments/217320
+234638|2016-01-26|SO|XII Ga 387/13|Postanowienie|31|https://www.saos.org.pl/judgments/234638

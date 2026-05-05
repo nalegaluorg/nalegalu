@@ -1,18 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-434952|2020-02-14|SO|VI K 206/19|Wyrok|https://www.saos.org.pl/judgments/434952
-372774|2019-02-15|SO|IV K 594/17|Wyrok|https://www.saos.org.pl/judgments/372774
-380341|2019-02-12|SO|VIII Ka 854/18|Wyrok|https://www.saos.org.pl/judgments/380341
-373188|2018-10-04|SO|I ACa 196/18|Wyrok|https://www.saos.org.pl/judgments/373188
-362440|2018-10-03|SO|II AKa 68/18|Wyrok|https://www.saos.org.pl/judgments/362440
-349680|2017-10-05|SO|XI W 2952/16|Wyrok|https://www.saos.org.pl/judgments/349680
-266350|2016-11-03|SO|VII K 373/16|Wyrok|https://www.saos.org.pl/judgments/266350
-217884|2016-04-05|SO|VIII Ka 113/16|Wyrok|https://www.saos.org.pl/judgments/217884
-188124|2015-11-03|SO|VII K 1017/14|Wyrok|https://www.saos.org.pl/judgments/188124
-194413|2015-06-12|SO|II Ka 124/15|Wyrok|https://www.saos.org.pl/judgments/194413
-167254|2014-11-06|SN|IV KK 151/14|Wyrok|https://www.saos.org.pl/judgments/167254
-67713|2014-10-29|SO|VII K 312/13|Wyrok|https://www.saos.org.pl/judgments/67713
-147978|2014-06-04|SO|II AKa 88/14|Wyrok|https://www.saos.org.pl/judgments/147978
-19717|2013-06-20|SO|XI Ka 386/13|Wyrok|https://www.saos.org.pl/judgments/19717
-93635|2010-12-03|SN|V KK 190/10|Postanowienie|https://www.saos.org.pl/judgments/93635
-88346|2008-06-27|SN|III CZP 44/08|Uchwała|https://www.saos.org.pl/judgments/88346
-83332|2005-04-13|SN|III KK 134/04|Postanowienie|https://www.saos.org.pl/judgments/83332
+saos_id|date|court|case_number|type|score|saos_url
+88346|2008-06-27|SN|III CZP 44/08|Uchwała|89|https://www.saos.org.pl/judgments/88346
+167254|2014-11-06|SN|IV KK 151/14|Wyrok|78|https://www.saos.org.pl/judgments/167254
+93635|2010-12-03|SN|V KK 190/10|Postanowienie|69|https://www.saos.org.pl/judgments/93635
+83332|2005-04-13|SN|III KK 134/04|Postanowienie|69|https://www.saos.org.pl/judgments/83332
+373188|2018-10-04|SO|I ACa 196/18|Wyrok|56|https://www.saos.org.pl/judgments/373188
+362440|2018-10-03|SO|II AKa 68/18|Wyrok|56|https://www.saos.org.pl/judgments/362440
+147978|2014-06-04|SO|II AKa 88/14|Wyrok|56|https://www.saos.org.pl/judgments/147978

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-245051|2016-04-07|SN|III CSK 276/15|Wyrok|https://www.saos.org.pl/judgments/245051
-179465|2015-09-17|SO|II Ca 531/15|Wyrok|https://www.saos.org.pl/judgments/179465
-81164|2002-01-29|SN|I CKN 1260/00|Postanowienie|https://www.saos.org.pl/judgments/81164
+saos_id|date|court|case_number|type|score|saos_url
+245051|2016-04-07|SN|III CSK 276/15|Wyrok|78|https://www.saos.org.pl/judgments/245051
+81164|2002-01-29|SN|I CKN 1260/00|Postanowienie|69|https://www.saos.org.pl/judgments/81164

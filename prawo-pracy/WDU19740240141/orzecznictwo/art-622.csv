@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-51230|2014-05-13|SO|I ACa 58/14|Wyrok|https://www.saos.org.pl/judgments/51230
-16677|2013-05-28|SO|V Pa 207/12|Wyrok|https://www.saos.org.pl/judgments/16677
-21177|2013-03-13|SO|IV P 83/12|Wyrok|https://www.saos.org.pl/judgments/21177
+saos_id|date|court|case_number|type|score|saos_url
+51230|2014-05-13|SO|I ACa 58/14|Wyrok|56|https://www.saos.org.pl/judgments/51230

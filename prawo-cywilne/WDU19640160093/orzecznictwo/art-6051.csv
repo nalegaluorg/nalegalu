@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-484110|2023-02-23|SO|II Ca 794/22|Wyrok|https://www.saos.org.pl/judgments/484110
-449255|2017-06-07|SO|V ACa 735/16|Wyrok|https://www.saos.org.pl/judgments/449255
+saos_id|date|court|case_number|type|score|saos_url
+449255|2017-06-07|SO|V ACa 735/16|Wyrok|56|https://www.saos.org.pl/judgments/449255
+484110|2023-02-23|SO|II Ca 794/22|Wyrok|40|https://www.saos.org.pl/judgments/484110

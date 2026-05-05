@@ -1,10 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-529113|2023-05-22|SO|I AGa 307/21|Wyrok|https://www.saos.org.pl/judgments/529113
-409015|2018-02-27|SO|III AUa 1549/17|Wyrok|https://www.saos.org.pl/judgments/409015
-325964|2017-12-20|SO|III AUa 636/17|Wyrok|https://www.saos.org.pl/judgments/325964
-2780|2012-11-06|SO|III AUa 833/12|Wyrok|https://www.saos.org.pl/judgments/2780
-97092|2012-02-09|SN|I UK 260/11|Wyrok|https://www.saos.org.pl/judgments/97092
-92378|2010-06-01|SN|II UK 34/10|Wyrok|https://www.saos.org.pl/judgments/92378
-86216|2007-06-28|SN|IV CSK 106/07|Wyrok|https://www.saos.org.pl/judgments/86216
-163778|2005-11-24|SN|IV CK 259/05|Wyrok|https://www.saos.org.pl/judgments/163778
-163768|2005-11-24|SN|III CK 207/05|Wyrok|https://www.saos.org.pl/judgments/163768
+saos_id|date|court|case_number|type|score|saos_url
+97092|2012-02-09|SN|I UK 260/11|Wyrok|78|https://www.saos.org.pl/judgments/97092
+92378|2010-06-01|SN|II UK 34/10|Wyrok|78|https://www.saos.org.pl/judgments/92378
+86216|2007-06-28|SN|IV CSK 106/07|Wyrok|78|https://www.saos.org.pl/judgments/86216
+163778|2005-11-24|SN|IV CK 259/05|Wyrok|78|https://www.saos.org.pl/judgments/163778
+163768|2005-11-24|SN|III CK 207/05|Wyrok|78|https://www.saos.org.pl/judgments/163768
+529113|2023-05-22|SO|I AGa 307/21|Wyrok|56|https://www.saos.org.pl/judgments/529113
+409015|2018-02-27|SO|III AUa 1549/17|Wyrok|56|https://www.saos.org.pl/judgments/409015
+325964|2017-12-20|SO|III AUa 636/17|Wyrok|56|https://www.saos.org.pl/judgments/325964
+2780|2012-11-06|SO|III AUa 833/12|Wyrok|56|https://www.saos.org.pl/judgments/2780

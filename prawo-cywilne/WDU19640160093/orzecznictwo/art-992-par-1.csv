@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-538381|2025-05-13|SO|II Ca 62/25|Postanowienie|https://www.saos.org.pl/judgments/538381
-461689|2022-02-24|SO|III C 1471/19|Wyrok|https://www.saos.org.pl/judgments/461689
-449101|2019-06-04|SO|I C 469/17|Wyrok|https://www.saos.org.pl/judgments/449101
-127120|2014-11-06|SO|I ACa 630/14|Wyrok|https://www.saos.org.pl/judgments/127120
+saos_id|date|court|case_number|type|score|saos_url
+127120|2014-11-06|SO|I ACa 630/14|Wyrok|56|https://www.saos.org.pl/judgments/127120
+538381|2025-05-13|SO|II Ca 62/25|Postanowienie|31|https://www.saos.org.pl/judgments/538381

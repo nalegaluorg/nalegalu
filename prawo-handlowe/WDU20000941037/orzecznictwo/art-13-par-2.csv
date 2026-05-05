@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-454515|2020-12-14|SO|I C 368/20|Wyrok|https://www.saos.org.pl/judgments/454515
-383214|2019-05-07|SO|I C 577/18|Wyrok|https://www.saos.org.pl/judgments/383214
-422190|2018-03-22|SO|I C 2521/15|Uzasadnienie|https://www.saos.org.pl/judgments/422190
-224842|2016-02-22|SO|I ACa 992/15|Wyrok|https://www.saos.org.pl/judgments/224842
+saos_id|date|court|case_number|type|score|saos_url
+224842|2016-02-22|SO|I ACa 992/15|Wyrok|56|https://www.saos.org.pl/judgments/224842
+454515|2020-12-14|SO|I C 368/20|Wyrok|40|https://www.saos.org.pl/judgments/454515

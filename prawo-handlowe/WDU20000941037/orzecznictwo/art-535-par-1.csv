@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-230101|2015-01-21|KIO|KIO 26/16|Wyrok|https://www.saos.org.pl/judgments/230101
-25784|2013-09-12|SO|II Ca 538/13|Postanowienie|https://www.saos.org.pl/judgments/25784
+saos_id|date|court|case_number|type|score|saos_url
+230101|2015-01-21|KIO|KIO 26/16|Wyrok|44|https://www.saos.org.pl/judgments/230101

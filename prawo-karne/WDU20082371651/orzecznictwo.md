@@ -18,5 +18,5 @@ Orzeczenia powołujące: *Ustawa z dnia 5 grudnia 2008 r. o zmianie ustawy - kod
 
 ## art. 647 § 1 (1)
 
-- 2009-08-18 | SN | [WZP 2/09](https://www.saos.org.pl/judgments/90761) | Uchwała
+- 2009-08-18 | SN | [WZP 2/09](https://www.saos.org.pl/judgments/90761) | Uchwała ★
 

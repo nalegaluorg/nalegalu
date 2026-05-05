@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-414769|2018-09-05|SO|XIII GC 175/18|Wyrok|https://www.saos.org.pl/judgments/414769
-334363|2018-02-15|SO|I C 1306/17|Wyrok|https://www.saos.org.pl/judgments/334363
-243611|2015-10-22|SN|IV CSK 749/14|Wyrok|https://www.saos.org.pl/judgments/243611
-181249|2015-09-24|SO|I ACa 31/14|Wyrok|https://www.saos.org.pl/judgments/181249
-184066|2015-03-03|SO|III APa 2/15|Wyrok|https://www.saos.org.pl/judgments/184066
+saos_id|date|court|case_number|type|score|saos_url
+243611|2015-10-22|SN|IV CSK 749/14|Wyrok|78|https://www.saos.org.pl/judgments/243611
+181249|2015-09-24|SO|I ACa 31/14|Wyrok|56|https://www.saos.org.pl/judgments/181249
+184066|2015-03-03|SO|III APa 2/15|Wyrok|56|https://www.saos.org.pl/judgments/184066
+414769|2018-09-05|SO|XIII GC 175/18|Wyrok|40|https://www.saos.org.pl/judgments/414769

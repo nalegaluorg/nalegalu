@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-175880|2014-12-22|SO|I C 601/14|Wyrok|https://www.saos.org.pl/judgments/175880
-127448|2014-12-12|SO|I ACa 1310/14|Wyrok|https://www.saos.org.pl/judgments/127448
+saos_id|date|court|case_number|type|score|saos_url
+127448|2014-12-12|SO|I ACa 1310/14|Wyrok|56|https://www.saos.org.pl/judgments/127448

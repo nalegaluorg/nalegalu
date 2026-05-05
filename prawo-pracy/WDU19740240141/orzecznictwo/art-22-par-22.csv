@@ -1,20 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-512179|2024-10-02|SO|VII U 624/23|Wyrok|https://www.saos.org.pl/judgments/512179
-504882|2024-03-11|SO|III AUa 275/22|Wyrok|https://www.saos.org.pl/judgments/504882
-512214|2024-01-02|SO|VII U 797/23|Wyrok|https://www.saos.org.pl/judgments/512214
-511835|2023-12-13|SO|VII Pa 30/23|Wyrok|https://www.saos.org.pl/judgments/511835
-402410|2019-10-04|SO|IV P 397/17|Wyrok|https://www.saos.org.pl/judgments/402410
-380427|2018-11-22|SO|VIII Pa 89/18|Wyrok|https://www.saos.org.pl/judgments/380427
-360197|2018-09-20|SO|XXI Pa 59/18|Wyrok|https://www.saos.org.pl/judgments/360197
-326301|2017-11-16|SO|VIII Pa 118/17|Wyrok|https://www.saos.org.pl/judgments/326301
-321027|2017-09-19|SO|VI Pa 44/17|Wyrok|https://www.saos.org.pl/judgments/321027
-282359|2017-04-19|SO|IV P 386/16|Zarządzenie|https://www.saos.org.pl/judgments/282359
-280423|2017-01-17|SO|VII Pa 153/16|Wyrok|https://www.saos.org.pl/judgments/280423
-272866|2016-12-09|SO|III AUa 1660/15|Wyrok|https://www.saos.org.pl/judgments/272866
-274526|2015-12-28|SO|IV P 393/15|Wyrok|https://www.saos.org.pl/judgments/274526
-207839|2015-05-04|SO|VII P 7/14|Uzasadnienie|https://www.saos.org.pl/judgments/207839
-312231|2015-03-23|SO|VII P 2013/11|Wyrok|https://www.saos.org.pl/judgments/312231
-250321|2014-12-22|SO|VII P 280/13|Wyrok|https://www.saos.org.pl/judgments/250321
-128116|2014-12-18|SO|V Pa 89/14|Wyrok|https://www.saos.org.pl/judgments/128116
-150464|2014-07-29|SO|III APa 10/13|Wyrok|https://www.saos.org.pl/judgments/150464
-52957|2014-07-03|SO|III AUa 608/13|Wyrok|https://www.saos.org.pl/judgments/52957
+saos_id|date|court|case_number|type|score|saos_url
+504882|2024-03-11|SO|III AUa 275/22|Wyrok|56|https://www.saos.org.pl/judgments/504882
+272866|2016-12-09|SO|III AUa 1660/15|Wyrok|56|https://www.saos.org.pl/judgments/272866
+150464|2014-07-29|SO|III APa 10/13|Wyrok|56|https://www.saos.org.pl/judgments/150464
+52957|2014-07-03|SO|III AUa 608/13|Wyrok|56|https://www.saos.org.pl/judgments/52957
+512179|2024-10-02|SO|VII U 624/23|Wyrok|40|https://www.saos.org.pl/judgments/512179
+512214|2024-01-02|SO|VII U 797/23|Wyrok|40|https://www.saos.org.pl/judgments/512214
+511835|2023-12-13|SO|VII Pa 30/23|Wyrok|40|https://www.saos.org.pl/judgments/511835
+280423|2017-01-17|SO|VII Pa 153/16|Wyrok|40|https://www.saos.org.pl/judgments/280423
+274526|2015-12-28|SO|IV P 393/15|Wyrok|40|https://www.saos.org.pl/judgments/274526

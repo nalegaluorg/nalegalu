@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-342597|2018-01-12|SO|VI GC 110/15|Wyrok|https://www.saos.org.pl/judgments/342597
-333606|2017-10-24|SO|XVI GC 402/15|Wyrok|https://www.saos.org.pl/judgments/333606
-333356|2017-07-07|SO|XVI GC 393/15|Wyrok|https://www.saos.org.pl/judgments/333356
+saos_id|date|court|case_number|type|score|saos_url
+342597|2018-01-12|SO|VI GC 110/15|Wyrok|40|https://www.saos.org.pl/judgments/342597

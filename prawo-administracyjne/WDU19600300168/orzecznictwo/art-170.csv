@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-459880|2021-12-07|SO|XVII AmE 178/20|Wyrok|https://www.saos.org.pl/judgments/459880
-277709|2017-01-12|SO|III AUa 748/16|Wyrok|https://www.saos.org.pl/judgments/277709
-39141|2014-01-30|SO|II Ca 848/13|Wyrok|https://www.saos.org.pl/judgments/39141
+saos_id|date|court|case_number|type|score|saos_url
+277709|2017-01-12|SO|III AUa 748/16|Wyrok|56|https://www.saos.org.pl/judgments/277709

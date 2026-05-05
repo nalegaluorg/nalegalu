@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-210975|2016-01-15|SO|III AUa 392/15|Wyrok|https://www.saos.org.pl/judgments/210975
+saos_id|date|court|case_number|type|score|saos_url
+210975|2016-01-15|SO|III AUa 392/15|Wyrok|56|https://www.saos.org.pl/judgments/210975

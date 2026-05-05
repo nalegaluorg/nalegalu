@@ -1,14 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-514696|2024-04-25|SO|XIII Ga 715/23|Uzasadnienie|https://www.saos.org.pl/judgments/514696
-278566|2017-03-30|SO|VIII Gz 15/17|Postanowienie|https://www.saos.org.pl/judgments/278566
-295423|2016-09-20|SO|I ACa 152/16|Wyrok|https://www.saos.org.pl/judgments/295423
-198990|2015-12-11|SO|I ACa 1288/15|Wyrok|https://www.saos.org.pl/judgments/198990
-47248|2014-04-10|SO|I ACa 30/14|Wyrok|https://www.saos.org.pl/judgments/47248
-145037|2014-03-20|SO|II AKa 54/14|Wyrok|https://www.saos.org.pl/judgments/145037
-40903|2013-12-09|SO|XIII GC 23/13|Uzasadnienie|https://www.saos.org.pl/judgments/40903
-142268|2013-12-06|SO|II AKz 329/13|Postanowienie|https://www.saos.org.pl/judgments/142268
-146223|2012-11-30|SO|II C 828/12|Wyrok|https://www.saos.org.pl/judgments/146223
-87979|2008-04-29|SN|III CZP 6/08|Uchwała|https://www.saos.org.pl/judgments/87979
-164670|2006-11-15|SN|V CSK 256/06|Wyrok|https://www.saos.org.pl/judgments/164670
-164665|2006-11-15|SN|V CSK 221/06|Wyrok|https://www.saos.org.pl/judgments/164665
-84417|2006-06-28|SN|III CZP 36/06|Uchwała|https://www.saos.org.pl/judgments/84417
+saos_id|date|court|case_number|type|score|saos_url
+87979|2008-04-29|SN|III CZP 6/08|Uchwała|96|https://www.saos.org.pl/judgments/87979
+84417|2006-06-28|SN|III CZP 36/06|Uchwała|89|https://www.saos.org.pl/judgments/84417
+164670|2006-11-15|SN|V CSK 256/06|Wyrok|78|https://www.saos.org.pl/judgments/164670
+164665|2006-11-15|SN|V CSK 221/06|Wyrok|78|https://www.saos.org.pl/judgments/164665
+295423|2016-09-20|SO|I ACa 152/16|Wyrok|56|https://www.saos.org.pl/judgments/295423
+198990|2015-12-11|SO|I ACa 1288/15|Wyrok|56|https://www.saos.org.pl/judgments/198990
+47248|2014-04-10|SO|I ACa 30/14|Wyrok|56|https://www.saos.org.pl/judgments/47248
+145037|2014-03-20|SO|II AKa 54/14|Wyrok|56|https://www.saos.org.pl/judgments/145037
+142268|2013-12-06|SO|II AKz 329/13|Postanowienie|47|https://www.saos.org.pl/judgments/142268
+514696|2024-04-25|SO|XIII Ga 715/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/514696

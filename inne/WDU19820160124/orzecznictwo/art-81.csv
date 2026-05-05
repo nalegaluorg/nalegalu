@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-481503|2022-11-28|SO|VIII GC 129/22|Uzasadnienie|https://www.saos.org.pl/judgments/481503
-275682|2016-10-18|SO|IV Ka 616/16|Wyrok|https://www.saos.org.pl/judgments/275682
-226514|2016-04-08|SO|II K 605/13|Wyrok|https://www.saos.org.pl/judgments/226514
-126769|2014-12-30|SO|I C 1594/13|Uzasadnienie|https://www.saos.org.pl/judgments/126769
-102856|2013-09-09|SN|SDI 22/13|Postanowienie|https://www.saos.org.pl/judgments/102856
-109941|2010-01-07|TK|Ts 138/08|Postanowienie|https://www.saos.org.pl/judgments/109941
-109285|2009-08-25|TK|Ts 138/08|Postanowienie|https://www.saos.org.pl/judgments/109285
-107249|2005-12-14|TK|SK 22/05|Wyrok|https://www.saos.org.pl/judgments/107249
-82276|2003-10-24|SN|III DS 5/02|Wyrok|https://www.saos.org.pl/judgments/82276
-80968|2001-11-09|SN|III SZ 12/01|Postanowienie|https://www.saos.org.pl/judgments/80968
-80582|2001-05-18|SN|III SZ 3/01|Postanowienie|https://www.saos.org.pl/judgments/80582
+saos_id|date|court|case_number|type|score|saos_url
+107249|2005-12-14|TK|SK 22/05|Wyrok|98|https://www.saos.org.pl/judgments/107249
+109941|2010-01-07|TK|Ts 138/08|Postanowienie|80|https://www.saos.org.pl/judgments/109941
+109285|2009-08-25|TK|Ts 138/08|Postanowienie|80|https://www.saos.org.pl/judgments/109285
+82276|2003-10-24|SN|III DS 5/02|Wyrok|78|https://www.saos.org.pl/judgments/82276
+102856|2013-09-09|SN|SDI 22/13|Postanowienie|69|https://www.saos.org.pl/judgments/102856
+80968|2001-11-09|SN|III SZ 12/01|Postanowienie|69|https://www.saos.org.pl/judgments/80968
+80582|2001-05-18|SN|III SZ 3/01|Postanowienie|69|https://www.saos.org.pl/judgments/80582

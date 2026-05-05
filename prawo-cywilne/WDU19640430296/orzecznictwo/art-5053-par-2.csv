@@ -1,2 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-18954|2013-05-22|SO|VIII C 387/13|Wyrok|https://www.saos.org.pl/judgments/18954
+saos_id|date|court|case_number|type|score|saos_url
+108570|2008-12-16|TK|P 17/07|Wyrok|98|https://www.saos.org.pl/judgments/108570
+106731|2004-07-28|TK|P 2/04|Wyrok|98|https://www.saos.org.pl/judgments/106731
+83211|2005-02-11|SN|III CZP 83/04|Uchwała|89|https://www.saos.org.pl/judgments/83211
+520314|2024-03-29|SO|II Ca 1511/23|Wyrok|40|https://www.saos.org.pl/judgments/520314
+469488|2022-06-27|SO|II Ca 933/22|Wyrok|40|https://www.saos.org.pl/judgments/469488
+459723|2022-03-01|SO|II C 1448/19|Wyrok|40|https://www.saos.org.pl/judgments/459723
+416312|2019-11-25|SO|XV Ca 1733/19|Wyrok|40|https://www.saos.org.pl/judgments/416312
+128845|2014-12-16|SO|I Ca 376/14|Wyrok|40|https://www.saos.org.pl/judgments/128845
+465305|2022-04-26|SO|II Ca 3002/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/465305
+255433|2016-10-05|SO|III Ca 1155/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/255433
+132888|2014-12-09|SO|III Ca 1616/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/132888

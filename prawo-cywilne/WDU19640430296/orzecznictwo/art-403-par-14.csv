@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-89790|2009-03-06|SN|II CZ 9/09|Postanowienie|https://www.saos.org.pl/judgments/89790
+saos_id|date|court|case_number|type|score|saos_url
+89790|2009-03-06|SN|II CZ 9/09|Postanowienie|69|https://www.saos.org.pl/judgments/89790

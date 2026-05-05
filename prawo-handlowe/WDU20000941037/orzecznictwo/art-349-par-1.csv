@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-377708|2018-07-12|SO|II AKa 35/18|Wyrok|https://www.saos.org.pl/judgments/377708
-8011|2013-02-28|SO|VIII GC 145/11|Wyrok|https://www.saos.org.pl/judgments/8011
+saos_id|date|court|case_number|type|score|saos_url
+377708|2018-07-12|SO|II AKa 35/18|Wyrok|56|https://www.saos.org.pl/judgments/377708

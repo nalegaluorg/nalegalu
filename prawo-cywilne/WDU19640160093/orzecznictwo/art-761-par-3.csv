@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-162711|2004-11-03|SN|III CK 523/03|Wyrok|https://www.saos.org.pl/judgments/162711
+saos_id|date|court|case_number|type|score|saos_url
+162711|2004-11-03|SN|III CK 523/03|Wyrok|78|https://www.saos.org.pl/judgments/162711

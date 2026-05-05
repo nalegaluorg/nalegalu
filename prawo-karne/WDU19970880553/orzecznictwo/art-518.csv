@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-103647|2013-11-26|SN|III KK 245/13|Wyrok|https://www.saos.org.pl/judgments/103647
+saos_id|date|court|case_number|type|score|saos_url
+103647|2013-11-26|SN|III KK 245/13|Wyrok|78|https://www.saos.org.pl/judgments/103647

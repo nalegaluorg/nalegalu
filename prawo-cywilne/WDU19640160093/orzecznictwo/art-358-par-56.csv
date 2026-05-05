@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-516470|2023-06-06|SO|I ACa 908/22|Wyrok|https://www.saos.org.pl/judgments/516470
-516397|2023-05-24|SO|I ACa 1764/22|Wyrok|https://www.saos.org.pl/judgments/516397
-493444|2022-12-15|SO|I ACa 1197/22|Wyrok|https://www.saos.org.pl/judgments/493444
+saos_id|date|court|case_number|type|score|saos_url
+516470|2023-06-06|SO|I ACa 908/22|Wyrok|56|https://www.saos.org.pl/judgments/516470
+516397|2023-05-24|SO|I ACa 1764/22|Wyrok|56|https://www.saos.org.pl/judgments/516397
+493444|2022-12-15|SO|I ACa 1197/22|Wyrok|56|https://www.saos.org.pl/judgments/493444

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-291702|2017-06-23|SO|X P 807/15|Wyrok|https://www.saos.org.pl/judgments/291702
-180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|https://www.saos.org.pl/judgments/180174
-84701|2006-11-08|SN|I PK 115/06|Wyrok|https://www.saos.org.pl/judgments/84701
-82883|2004-10-06|SN|I PK 479/03|Wyrok|https://www.saos.org.pl/judgments/82883
+saos_id|date|court|case_number|type|score|saos_url
+84701|2006-11-08|SN|I PK 115/06|Wyrok|78|https://www.saos.org.pl/judgments/84701
+82883|2004-10-06|SN|I PK 479/03|Wyrok|78|https://www.saos.org.pl/judgments/82883
+180174|2015-09-30|SO|VII Pa 145/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/180174

@@ -1,16 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482808|2022-12-14|SO|V U 572/21|Uzasadnienie|https://www.saos.org.pl/judgments/482808
-450841|2021-11-22|SO|IX U 476/19|Zarządzenie|https://www.saos.org.pl/judgments/450841
-441106|2021-06-01|SO|VIII U 4370/19|Uzasadnienie|https://www.saos.org.pl/judgments/441106
-435613|2021-04-14|SO|IX U 510/19|Zarządzenie|https://www.saos.org.pl/judgments/435613
-402109|2019-10-23|SO|IV U 890/17|Wyrok|https://www.saos.org.pl/judgments/402109
-425625|2019-02-26|SO|VIII U 45/19|Wyrok|https://www.saos.org.pl/judgments/425625
-371932|2019-02-20|SO|IX U 160/18|Zarządzenie|https://www.saos.org.pl/judgments/371932
-372065|2019-02-15|SO|IX U 198/18|Zarządzenie|https://www.saos.org.pl/judgments/372065
-365886|2019-01-08|SO|IX U 97/18|Uzasadnienie|https://www.saos.org.pl/judgments/365886
-357950|2018-09-26|SO|IV U 364/18|Postanowienie|https://www.saos.org.pl/judgments/357950
-380485|2018-05-11|SO|VIII U 1306/16|Wyrok|https://www.saos.org.pl/judgments/380485
-380733|2017-12-05|SO|VIII U 351/17|Wyrok|https://www.saos.org.pl/judgments/380733
-285755|2017-05-24|SO|IX U 653/16|Zarządzenie|https://www.saos.org.pl/judgments/285755
-261507|2016-12-13|SO|IV U 859/15|Postanowienie|https://www.saos.org.pl/judgments/261507
-174676|2015-07-16|SO|III U 304/14|Wyrok|https://www.saos.org.pl/judgments/174676
+saos_id|date|court|case_number|type|score|saos_url
+441106|2021-06-01|SO|VIII U 4370/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/441106

@@ -14,7 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 26 października 2000 r. o Polskim Rejes
 
 ## art. 18 (1)
 
-- 2013-05-28 | SN | [V CSK 311/12](https://www.saos.org.pl/judgments/101936) | Wyrok
+- 2013-05-28 | SN | [V CSK 311/12](https://www.saos.org.pl/judgments/101936) | Wyrok ★
 
 ## (ogólnie) (1)
 

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-98526|2012-06-26|SN|V CSK 450/11|Postanowienie|https://www.saos.org.pl/judgments/98526
-110052|2010-10-12|TK|Ts 229/09|Postanowienie|https://www.saos.org.pl/judgments/110052
-110051|2010-04-21|TK|Ts 229/09|Postanowienie|https://www.saos.org.pl/judgments/110051
+saos_id|date|court|case_number|type|score|saos_url
+110052|2010-10-12|TK|Ts 229/09|Postanowienie|80|https://www.saos.org.pl/judgments/110052
+110051|2010-04-21|TK|Ts 229/09|Postanowienie|80|https://www.saos.org.pl/judgments/110051
+98526|2012-06-26|SN|V CSK 450/11|Postanowienie|69|https://www.saos.org.pl/judgments/98526

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-504331|2024-06-03|SO|II S 14/24|Postanowienie|https://www.saos.org.pl/judgments/504331
-111916|2013-02-13|TK|Ts 181/11|Postanowienie|https://www.saos.org.pl/judgments/111916
-111709|2013-01-28|TK|Ts 14/11|Postanowienie|https://www.saos.org.pl/judgments/111709
-110437|2011-09-15|TK|Ts 46/11|Postanowienie|https://www.saos.org.pl/judgments/110437
-110195|2010-03-29|TK|Ts 349/08|Postanowienie|https://www.saos.org.pl/judgments/110195
+saos_id|date|court|case_number|type|score|saos_url
+111916|2013-02-13|TK|Ts 181/11|Postanowienie|80|https://www.saos.org.pl/judgments/111916
+111709|2013-01-28|TK|Ts 14/11|Postanowienie|80|https://www.saos.org.pl/judgments/111709
+110437|2011-09-15|TK|Ts 46/11|Postanowienie|80|https://www.saos.org.pl/judgments/110437
+110195|2010-03-29|TK|Ts 349/08|Postanowienie|80|https://www.saos.org.pl/judgments/110195
+504331|2024-06-03|SO|II S 14/24|Postanowienie|47|https://www.saos.org.pl/judgments/504331

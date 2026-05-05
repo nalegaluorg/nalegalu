@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-475956|2022-10-26|SO|I Ns 240/22|Zarządzenie|https://www.saos.org.pl/judgments/475956
-375335|2019-03-22|SO|II Ca 1613/18|Wyrok|https://www.saos.org.pl/judgments/375335
-310405|2017-10-25|SO|I Ns 511/16|Uzasadnienie|https://www.saos.org.pl/judgments/310405
-111590|2013-03-13|TK|K 25/10|Wyrok|https://www.saos.org.pl/judgments/111590
-80350|2001-02-22|SN|III RN 71/00|Postanowienie|https://www.saos.org.pl/judgments/80350
-78389|1998-06-18|SN|I PKN 167/98|Wyrok|https://www.saos.org.pl/judgments/78389
-77715|1997-06-05|SN|III RN 30/97|Postanowienie|https://www.saos.org.pl/judgments/77715
-76975|1995-10-18|SN|III AZP 28/95|Uchwała|https://www.saos.org.pl/judgments/76975
-76922|1995-09-05|SN|III AZP 18/95|Uchwała|https://www.saos.org.pl/judgments/76922
-76592|1994-07-07|SN|III PO 5/94|Postanowienie|https://www.saos.org.pl/judgments/76592
-76534|1994-05-12|SN|III ARN 23/94|Postanowienie|https://www.saos.org.pl/judgments/76534
+saos_id|date|court|case_number|type|score|saos_url
+111590|2013-03-13|TK|K 25/10|Wyrok|98|https://www.saos.org.pl/judgments/111590
+76975|1995-10-18|SN|III AZP 28/95|Uchwała|89|https://www.saos.org.pl/judgments/76975
+76922|1995-09-05|SN|III AZP 18/95|Uchwała|89|https://www.saos.org.pl/judgments/76922
+78389|1998-06-18|SN|I PKN 167/98|Wyrok|78|https://www.saos.org.pl/judgments/78389
+80350|2001-02-22|SN|III RN 71/00|Postanowienie|69|https://www.saos.org.pl/judgments/80350
+77715|1997-06-05|SN|III RN 30/97|Postanowienie|69|https://www.saos.org.pl/judgments/77715
+76592|1994-07-07|SN|III PO 5/94|Postanowienie|69|https://www.saos.org.pl/judgments/76592
+76534|1994-05-12|SN|III ARN 23/94|Postanowienie|69|https://www.saos.org.pl/judgments/76534
+475956|2022-10-26|SO|I Ns 240/22|Zarządzenie|27|https://www.saos.org.pl/judgments/475956
+310405|2017-10-25|SO|I Ns 511/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/310405

@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-470306|2022-06-06|SO|VIII GC 500/19|Uzasadnienie|https://www.saos.org.pl/judgments/470306
-473222|2021-11-26|SO|I ACa 460/21|Wyrok|https://www.saos.org.pl/judgments/473222
-448781|2021-10-18|SO|VIII GC 84/21|Uzasadnienie|https://www.saos.org.pl/judgments/448781
-435170|2021-03-08|SO|I C 626/20|Wyrok|https://www.saos.org.pl/judgments/435170
-464431|2020-01-29|SO|XXV C 2118/18|Wyrok|https://www.saos.org.pl/judgments/464431
-347329|2018-06-27|SO|V ACa 1274/17|Wyrok|https://www.saos.org.pl/judgments/347329
-349672|2018-06-18|SO|X GC 501/16|Zarządzenie|https://www.saos.org.pl/judgments/349672
-332585|2017-11-22|SO|I ACa 919/17|Wyrok|https://www.saos.org.pl/judgments/332585
-342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|https://www.saos.org.pl/judgments/342818
-320450|2017-05-10|SO|X GC 203/16|Zarządzenie|https://www.saos.org.pl/judgments/320450
-320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|https://www.saos.org.pl/judgments/320463
-199408|2015-12-15|SO|VI GC 443/15|Wyrok|https://www.saos.org.pl/judgments/199408
-182977|2015-09-16|SO|II AKa 216/15|Wyrok|https://www.saos.org.pl/judgments/182977
-132644|2014-10-17|SO|I C 156/14|Wyrok|https://www.saos.org.pl/judgments/132644
-23166|2013-07-30|SO|V ACa 375/13|Wyrok|https://www.saos.org.pl/judgments/23166
+saos_id|date|court|case_number|type|score|saos_url
+473222|2021-11-26|SO|I ACa 460/21|Wyrok|56|https://www.saos.org.pl/judgments/473222
+347329|2018-06-27|SO|V ACa 1274/17|Wyrok|56|https://www.saos.org.pl/judgments/347329
+332585|2017-11-22|SO|I ACa 919/17|Wyrok|56|https://www.saos.org.pl/judgments/332585
+182977|2015-09-16|SO|II AKa 216/15|Wyrok|56|https://www.saos.org.pl/judgments/182977
+23166|2013-07-30|SO|V ACa 375/13|Wyrok|56|https://www.saos.org.pl/judgments/23166
+349672|2018-06-18|SO|X GC 501/16|Zarządzenie|27|https://www.saos.org.pl/judgments/349672
+342818|2017-10-13|SO|X GC 433/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/342818
+320450|2017-05-10|SO|X GC 203/16|Zarządzenie|27|https://www.saos.org.pl/judgments/320450
+320463|2017-04-28|SO|X GC 317/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/320463

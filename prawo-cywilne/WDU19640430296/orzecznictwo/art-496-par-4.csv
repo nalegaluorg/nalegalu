@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-487060|2022-04-06|SO|I C 661/21|Wyrok|https://www.saos.org.pl/judgments/487060
+saos_id|date|court|case_number|type|score|saos_url
+487060|2022-04-06|SO|I C 661/21|Wyrok|40|https://www.saos.org.pl/judgments/487060

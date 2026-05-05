@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 14 marca 2014 r. o zmianie ustawy - Praw
 
 ## art. 1 (1)
 
-- 2015-01-14 | SN | [SNO 31/14](https://www.saos.org.pl/judgments/167873) | Wyrok
+- 2015-01-14 | SN | [SNO 31/14](https://www.saos.org.pl/judgments/167873) | Wyrok ★
 

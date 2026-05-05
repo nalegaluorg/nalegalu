@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-466856|2019-06-26|SO|XXVII Ca 1357/18|Wyrok|https://www.saos.org.pl/judgments/466856
-293298|2015-12-02|SO|II C 238/15|Zarządzenie|https://www.saos.org.pl/judgments/293298
+saos_id|date|court|case_number|type|score|saos_url
+433236|2020-07-02|SO|III Ca 1137/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/433236

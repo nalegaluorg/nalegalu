@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-544145|2026-03-11|SO|II C 64/26|Uzasadnienie|https://www.saos.org.pl/judgments/544145
-494236|2023-10-10|SO|I ACa 486/22|Wyrok|https://www.saos.org.pl/judgments/494236
-499772|2023-05-10|SO|I C 977/22|Zarządzenie|https://www.saos.org.pl/judgments/499772
-129305|2015-01-08|SO|I ACa 762/14|Wyrok|https://www.saos.org.pl/judgments/129305
+saos_id|date|court|case_number|type|score|saos_url
+494236|2023-10-10|SO|I ACa 486/22|Wyrok|56|https://www.saos.org.pl/judgments/494236
+129305|2015-01-08|SO|I ACa 762/14|Wyrok|56|https://www.saos.org.pl/judgments/129305
+544145|2026-03-11|SO|II C 64/26|Uzasadnienie|27|https://www.saos.org.pl/judgments/544145

@@ -1,18 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-466256|2022-05-12|SO|VI Ka 862/21|Uzasadnienie|https://www.saos.org.pl/judgments/466256
-467796|2022-02-18|SO|VIII K 209/21|Wyrok|https://www.saos.org.pl/judgments/467796
-433488|2019-11-19|SO|VI Ka 916/19|Wyrok|https://www.saos.org.pl/judgments/433488
-395239|2019-09-27|SO|VIII W 585/19|Wyrok|https://www.saos.org.pl/judgments/395239
-373032|2019-02-15|SO|VIII W 71/19|Uzasadnienie|https://www.saos.org.pl/judgments/373032
-370241|2018-05-30|SO|III K 458/17|Uzasadnienie|https://www.saos.org.pl/judgments/370241
-336404|2018-03-13|SO|II Ka 591/17|Wyrok|https://www.saos.org.pl/judgments/336404
-309359|2017-10-19|SO|V Ka 368/17|Wyrok|https://www.saos.org.pl/judgments/309359
-262524|2016-11-04|SO|V Kz 862/16|Postanowienie|https://www.saos.org.pl/judgments/262524
-251912|2016-10-03|SO|II K 621/15|Wyrok|https://www.saos.org.pl/judgments/251912
-191547|2015-12-16|SO|II AKz 466/15|Postanowienie|https://www.saos.org.pl/judgments/191547
-183094|2015-11-05|SO|II AKz 415/15|Postanowienie|https://www.saos.org.pl/judgments/183094
-265946|2015-10-01|SO|IX Ka 411/15|Wyrok|https://www.saos.org.pl/judgments/265946
-47309|2014-05-16|SO|V Kz 390/14|Postanowienie|https://www.saos.org.pl/judgments/47309
-40875|2014-02-25|SO|VI Ka 1109/13|Wyrok|https://www.saos.org.pl/judgments/40875
-36931|2013-04-10|SO|II Kz 61/13|Postanowienie|https://www.saos.org.pl/judgments/36931
-106042|2002-07-09|TK|P 4/01|Wyrok|https://www.saos.org.pl/judgments/106042
+saos_id|date|court|case_number|type|score|saos_url
+106042|2002-07-09|TK|P 4/01|Wyrok|98|https://www.saos.org.pl/judgments/106042
+191547|2015-12-16|SO|II AKz 466/15|Postanowienie|47|https://www.saos.org.pl/judgments/191547
+183094|2015-11-05|SO|II AKz 415/15|Postanowienie|47|https://www.saos.org.pl/judgments/183094
+336404|2018-03-13|SO|II Ka 591/17|Wyrok|40|https://www.saos.org.pl/judgments/336404
+309359|2017-10-19|SO|V Ka 368/17|Wyrok|40|https://www.saos.org.pl/judgments/309359
+262524|2016-11-04|SO|V Kz 862/16|Postanowienie|31|https://www.saos.org.pl/judgments/262524
+47309|2014-05-16|SO|V Kz 390/14|Postanowienie|31|https://www.saos.org.pl/judgments/47309
+466256|2022-05-12|SO|VI Ka 862/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/466256

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-232704|2016-06-16|SO|XIV C 494/13|Wyrok|https://www.saos.org.pl/judgments/232704
-64206|2014-10-16|SO|IV Cz 606/14|Postanowienie|https://www.saos.org.pl/judgments/64206
-54579|2014-07-10|SO|II Cz 915/14|Postanowienie|https://www.saos.org.pl/judgments/54579
-58128|2013-11-06|SO|II Cz 727/13|Postanowienie|https://www.saos.org.pl/judgments/58128
+saos_id|date|court|case_number|type|score|saos_url
+232704|2016-06-16|SO|XIV C 494/13|Wyrok|40|https://www.saos.org.pl/judgments/232704

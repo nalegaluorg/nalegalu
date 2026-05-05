@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-413024|2020-05-27|SO|III AUa 48/20|Wyrok|https://www.saos.org.pl/judgments/413024
-413021|2020-05-27|SO|III AUa 105/20|Wyrok|https://www.saos.org.pl/judgments/413021
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
+saos_id|date|court|case_number|type|score|saos_url
+413024|2020-05-27|SO|III AUa 48/20|Wyrok|56|https://www.saos.org.pl/judgments/413024
+413021|2020-05-27|SO|III AUa 105/20|Wyrok|56|https://www.saos.org.pl/judgments/413021
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336

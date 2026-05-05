@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-481411|2022-12-14|SO|II AKa 304/22|Wyrok|https://www.saos.org.pl/judgments/481411
-182996|2015-10-15|SO|II AKa 239/15|Wyrok|https://www.saos.org.pl/judgments/182996
-152608|2015-04-28|SO|IV Ka 1249/14|Wyrok|https://www.saos.org.pl/judgments/152608
-94982|2011-05-19|SN|I KZP 2/11|Postanowienie|https://www.saos.org.pl/judgments/94982
+saos_id|date|court|case_number|type|score|saos_url
+94982|2011-05-19|SN|I KZP 2/11|Postanowienie|69|https://www.saos.org.pl/judgments/94982
+481411|2022-12-14|SO|II AKa 304/22|Wyrok|56|https://www.saos.org.pl/judgments/481411
+182996|2015-10-15|SO|II AKa 239/15|Wyrok|56|https://www.saos.org.pl/judgments/182996

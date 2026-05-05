@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-349415|2018-02-16|SO|X GC 228/17|Zarządzenie|https://www.saos.org.pl/judgments/349415
-287840|2017-04-04|SO|XXIII Ga 1794/16|Postanowienie|https://www.saos.org.pl/judgments/287840
-193765|2015-11-13|SO|III Ca 1065/15|Uzasadnienie|https://www.saos.org.pl/judgments/193765
-176466|2014-04-11|SO|XXVI GC 42/13|Uzasadnienie|https://www.saos.org.pl/judgments/176466
-91387|2009-12-03|SN|II CSK 273/09|Postanowienie|https://www.saos.org.pl/judgments/91387
+saos_id|date|court|case_number|type|score|saos_url
+91387|2009-12-03|SN|II CSK 273/09|Postanowienie|69|https://www.saos.org.pl/judgments/91387
+349415|2018-02-16|SO|X GC 228/17|Zarządzenie|27|https://www.saos.org.pl/judgments/349415
+193765|2015-11-13|SO|III Ca 1065/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/193765

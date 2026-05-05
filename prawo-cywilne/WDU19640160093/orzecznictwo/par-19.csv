@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-544194|2025-10-29|SO|I ACa 314/23|Wyrok|https://www.saos.org.pl/judgments/544194
-534355|2024-10-23|SO|I ACa 3450/23|Wyrok|https://www.saos.org.pl/judgments/534355
-528777|2024-06-27|SO|I ACa 68/22|Wyrok|https://www.saos.org.pl/judgments/528777
-543444|2024-01-23|SO|I ACa 2171/22|Wyrok|https://www.saos.org.pl/judgments/543444
-486966|2023-03-27|SO|I ACa 5/22|Wyrok|https://www.saos.org.pl/judgments/486966
-509731|2023-03-07|SO|V ACa 1580/22|Wyrok|https://www.saos.org.pl/judgments/509731
-493266|2023-02-15|SO|I ACa 1015/22|Wyrok|https://www.saos.org.pl/judgments/493266
-488813|2022-12-23|SO|I C 1353/21|Wyrok|https://www.saos.org.pl/judgments/488813
-478447|2022-11-10|SO|IX Ca 576/22|Wyrok|https://www.saos.org.pl/judgments/478447
-490997|2022-07-26|SO|V ACa 284/22|Wyrok|https://www.saos.org.pl/judgments/490997
-470556|2022-06-01|SO|I Ca 174/22|Wyrok|https://www.saos.org.pl/judgments/470556
-458061|2022-02-07|SO|I C 125/21|Wyrok|https://www.saos.org.pl/judgments/458061
-424606|2020-10-23|SO|XXV C 1108/18|Wyrok|https://www.saos.org.pl/judgments/424606
-376249|2018-11-28|SO|XXV C 1267/17|Wyrok|https://www.saos.org.pl/judgments/376249
-290639|2017-03-23|SO|VI ACa 1799/15|Wyrok|https://www.saos.org.pl/judgments/290639
+saos_id|date|court|case_number|type|score|saos_url
+544194|2025-10-29|SO|I ACa 314/23|Wyrok|56|https://www.saos.org.pl/judgments/544194
+534355|2024-10-23|SO|I ACa 3450/23|Wyrok|56|https://www.saos.org.pl/judgments/534355
+528777|2024-06-27|SO|I ACa 68/22|Wyrok|56|https://www.saos.org.pl/judgments/528777
+543444|2024-01-23|SO|I ACa 2171/22|Wyrok|56|https://www.saos.org.pl/judgments/543444
+486966|2023-03-27|SO|I ACa 5/22|Wyrok|56|https://www.saos.org.pl/judgments/486966
+509731|2023-03-07|SO|V ACa 1580/22|Wyrok|56|https://www.saos.org.pl/judgments/509731
+493266|2023-02-15|SO|I ACa 1015/22|Wyrok|56|https://www.saos.org.pl/judgments/493266
+490997|2022-07-26|SO|V ACa 284/22|Wyrok|56|https://www.saos.org.pl/judgments/490997
+290639|2017-03-23|SO|VI ACa 1799/15|Wyrok|56|https://www.saos.org.pl/judgments/290639

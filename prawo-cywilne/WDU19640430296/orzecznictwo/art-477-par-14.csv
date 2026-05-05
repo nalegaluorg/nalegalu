@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-446900|2021-06-14|SO|III AUa 746/21|Postanowienie|https://www.saos.org.pl/judgments/446900
-213008|2016-03-10|SO|VI U 103/16|Wyrok|https://www.saos.org.pl/judgments/213008
-150912|2015-02-11|SO|VI U 1959/14|Wyrok|https://www.saos.org.pl/judgments/150912
-5447|2012-12-21|SO|VI U 3110/12|Wyrok|https://www.saos.org.pl/judgments/5447
+saos_id|date|court|case_number|type|score|saos_url
+446900|2021-06-14|SO|III AUa 746/21|Postanowienie|47|https://www.saos.org.pl/judgments/446900

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-184060|2015-11-09|SO|II W 810/14|Wyrok|https://www.saos.org.pl/judgments/184060
+saos_id|date|court|case_number|type|score|saos_url
+184060|2015-11-09|SO|II W 810/14|Wyrok|40|https://www.saos.org.pl/judgments/184060

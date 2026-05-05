@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-417023|2020-05-14|SO|VI GC 163/17|Wyrok|https://www.saos.org.pl/judgments/417023
-432841|2019-11-04|SO|I ACa 229/19|Wyrok|https://www.saos.org.pl/judgments/432841
-237446|2016-07-14|SO|I ACa 168/16|Wyrok|https://www.saos.org.pl/judgments/237446
-181474|2015-07-30|SO|I ACa 635/15|Wyrok|https://www.saos.org.pl/judgments/181474
-20802|2013-07-12|SO|VI ACa 1128/12|Postanowienie|https://www.saos.org.pl/judgments/20802
+saos_id|date|court|case_number|type|score|saos_url
+432841|2019-11-04|SO|I ACa 229/19|Wyrok|56|https://www.saos.org.pl/judgments/432841
+237446|2016-07-14|SO|I ACa 168/16|Wyrok|56|https://www.saos.org.pl/judgments/237446
+181474|2015-07-30|SO|I ACa 635/15|Wyrok|56|https://www.saos.org.pl/judgments/181474
+20802|2013-07-12|SO|VI ACa 1128/12|Postanowienie|47|https://www.saos.org.pl/judgments/20802
+417023|2020-05-14|SO|VI GC 163/17|Wyrok|40|https://www.saos.org.pl/judgments/417023

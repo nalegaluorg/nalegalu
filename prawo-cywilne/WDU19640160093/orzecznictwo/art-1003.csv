@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-78169|1998-02-25|SN|III RN 117/97|Wyrok|https://www.saos.org.pl/judgments/78169
-77603|1997-04-24|SN|III RN 17/97|Wyrok|https://www.saos.org.pl/judgments/77603
+saos_id|date|court|case_number|type|score|saos_url
+78169|1998-02-25|SN|III RN 117/97|Wyrok|78|https://www.saos.org.pl/judgments/78169
+77603|1997-04-24|SN|III RN 17/97|Wyrok|78|https://www.saos.org.pl/judgments/77603

@@ -1,17 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-366391|2018-12-13|SO|II Ca 530/18|Uzasadnienie|https://www.saos.org.pl/judgments/366391
-393545|2018-06-15|SO|II Ca 408/18|Postanowienie|https://www.saos.org.pl/judgments/393545
-241194|2016-06-22|SO|III Ca 306/16|Wyrok|https://www.saos.org.pl/judgments/241194
-226549|2016-05-25|SO|II Ns 1035/11|Postanowienie|https://www.saos.org.pl/judgments/226549
-222758|2016-04-21|SO|III RC 240/15|Wyrok|https://www.saos.org.pl/judgments/222758
-224426|2016-04-18|SO|I C 783/15|Wyrok|https://www.saos.org.pl/judgments/224426
-232873|2016-03-15|SO|II Ca 131/16|Postanowienie|https://www.saos.org.pl/judgments/232873
-181982|2015-11-20|SO|I C 2014/15|Postanowienie|https://www.saos.org.pl/judgments/181982
-185456|2015-07-03|SO|III Ca 784/15|Uzasadnienie|https://www.saos.org.pl/judgments/185456
-127144|2014-12-11|SO|I ACa 863/14|Wyrok|https://www.saos.org.pl/judgments/127144
-296186|2014-10-31|SO|II Cz 485/14|Postanowienie|https://www.saos.org.pl/judgments/296186
-55029|2014-07-23|SO|II Cz 412/14|Postanowienie|https://www.saos.org.pl/judgments/55029
-143417|2013-11-22|SO|I C 337/12|Wyrok|https://www.saos.org.pl/judgments/143417
-4102|2012-12-28|SO|II Cz 1178/12|Postanowienie|https://www.saos.org.pl/judgments/4102
-87467|2008-02-27|SN|III CZP 153/07|Uchwała|https://www.saos.org.pl/judgments/87467
-86213|2007-06-29|SN|III CZP 51/07|Uchwała|https://www.saos.org.pl/judgments/86213
+saos_id|date|court|case_number|type|score|saos_url
+87467|2008-02-27|SN|III CZP 153/07|Uchwała|89|https://www.saos.org.pl/judgments/87467
+86213|2007-06-29|SN|III CZP 51/07|Uchwała|89|https://www.saos.org.pl/judgments/86213
+127144|2014-12-11|SO|I ACa 863/14|Wyrok|56|https://www.saos.org.pl/judgments/127144
+224426|2016-04-18|SO|I C 783/15|Wyrok|40|https://www.saos.org.pl/judgments/224426
+226549|2016-05-25|SO|II Ns 1035/11|Postanowienie|31|https://www.saos.org.pl/judgments/226549
+232873|2016-03-15|SO|II Ca 131/16|Postanowienie|31|https://www.saos.org.pl/judgments/232873
+185456|2015-07-03|SO|III Ca 784/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185456

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-508199|2024-09-24|SO|IV Ka 442/24|Uzasadnienie|https://www.saos.org.pl/judgments/508199
-145939|2014-01-30|SO|II AKa 129/13|Wyrok|https://www.saos.org.pl/judgments/145939
+saos_id|date|court|case_number|type|score|saos_url
+145939|2014-01-30|SO|II AKa 129/13|Wyrok|56|https://www.saos.org.pl/judgments/145939

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-375823|2018-08-28|SO|VII U 1050/16|Wyrok|https://www.saos.org.pl/judgments/375823
+saos_id|date|court|case_number|type|score|saos_url
+375823|2018-08-28|SO|VII U 1050/16|Wyrok|40|https://www.saos.org.pl/judgments/375823

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-21799|2013-09-26|SO|I ACa 469/13|Wyrok|https://www.saos.org.pl/judgments/21799
+saos_id|date|court|case_number|type|score|saos_url
+21799|2013-09-26|SO|I ACa 469/13|Wyrok|56|https://www.saos.org.pl/judgments/21799

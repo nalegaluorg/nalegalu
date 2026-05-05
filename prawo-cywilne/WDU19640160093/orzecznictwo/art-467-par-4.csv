@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482509|2023-01-03|SO|I AGa 129/22|Wyrok|https://www.saos.org.pl/judgments/482509
-326536|2017-12-22|SO|VIII GC 429/17|Wyrok|https://www.saos.org.pl/judgments/326536
-28670|2013-10-22|SO|V Pa 69/13|Wyrok|https://www.saos.org.pl/judgments/28670
+saos_id|date|court|case_number|type|score|saos_url
+482509|2023-01-03|SO|I AGa 129/22|Wyrok|56|https://www.saos.org.pl/judgments/482509

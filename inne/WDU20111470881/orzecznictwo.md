@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 27 maja 2011 r. o zmianie ustawy - Kodek
 
 ## art. 1 (1)
 
-- 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok
+- 2011-07-20 | TK | [K 9/11](https://www.saos.org.pl/judgments/206301) | Wyrok ★
 

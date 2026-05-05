@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-516477|2023-01-31|SO|I AGa 126/22|Wyrok|https://www.saos.org.pl/judgments/516477
-371400|2018-09-21|SO|III AUa 1506/16|Wyrok|https://www.saos.org.pl/judgments/371400
-346992|2018-05-18|SO|VIII Ga 172/18|Zarządzenie|https://www.saos.org.pl/judgments/346992
-252931|2016-10-14|SO|I ACa 927/15|Wyrok|https://www.saos.org.pl/judgments/252931
-295430|2016-08-09|SO|I ACa 8/16|Wyrok|https://www.saos.org.pl/judgments/295430
-73120|2014-10-22|SO|I ACa 375/14|Wyrok|https://www.saos.org.pl/judgments/73120
+saos_id|date|court|case_number|type|score|saos_url
+516477|2023-01-31|SO|I AGa 126/22|Wyrok|56|https://www.saos.org.pl/judgments/516477
+371400|2018-09-21|SO|III AUa 1506/16|Wyrok|56|https://www.saos.org.pl/judgments/371400
+252931|2016-10-14|SO|I ACa 927/15|Wyrok|56|https://www.saos.org.pl/judgments/252931
+295430|2016-08-09|SO|I ACa 8/16|Wyrok|56|https://www.saos.org.pl/judgments/295430
+73120|2014-10-22|SO|I ACa 375/14|Wyrok|56|https://www.saos.org.pl/judgments/73120

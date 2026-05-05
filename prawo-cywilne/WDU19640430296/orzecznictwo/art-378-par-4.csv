@@ -1,9 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-526289|2021-09-21|SO|I C 237/14|Wyrok|https://www.saos.org.pl/judgments/526289
-104525|2014-02-19|SN|V CSK 189/13|Wyrok|https://www.saos.org.pl/judgments/104525
-386078|2013-12-18|SO|V ACa 812/13|Wyrok|https://www.saos.org.pl/judgments/386078
-103470|2013-11-07|SN|V CSK 579/12|Wyrok|https://www.saos.org.pl/judgments/103470
-102547|2013-07-24|SN|V CSK 396/12|Wyrok|https://www.saos.org.pl/judgments/102547
-93679|2010-12-09|SN|IV CSK 248/10|Postanowienie|https://www.saos.org.pl/judgments/93679
-92265|2010-05-19|SN|I CZ 24/10|Postanowienie|https://www.saos.org.pl/judgments/92265
-85152|2007-02-07|SN|I PK 211/06|Wyrok|https://www.saos.org.pl/judgments/85152
+saos_id|date|court|case_number|type|score|saos_url
+104525|2014-02-19|SN|V CSK 189/13|Wyrok|78|https://www.saos.org.pl/judgments/104525
+103470|2013-11-07|SN|V CSK 579/12|Wyrok|78|https://www.saos.org.pl/judgments/103470
+102547|2013-07-24|SN|V CSK 396/12|Wyrok|78|https://www.saos.org.pl/judgments/102547
+85152|2007-02-07|SN|I PK 211/06|Wyrok|78|https://www.saos.org.pl/judgments/85152
+93679|2010-12-09|SN|IV CSK 248/10|Postanowienie|69|https://www.saos.org.pl/judgments/93679
+92265|2010-05-19|SN|I CZ 24/10|Postanowienie|69|https://www.saos.org.pl/judgments/92265
+386078|2013-12-18|SO|V ACa 812/13|Wyrok|56|https://www.saos.org.pl/judgments/386078

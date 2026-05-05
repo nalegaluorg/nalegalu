@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-475661|2022-10-11|SO|VIII GCo 224/22|Uzasadnienie|https://www.saos.org.pl/judgments/475661
-401132|2020-01-03|SO|VI GC 2576/19|Postanowienie|https://www.saos.org.pl/judgments/401132
-342716|2018-04-19|SO|XXI Pa 31/18|Wyrok|https://www.saos.org.pl/judgments/342716
-312736|2017-10-24|SO|VIII Gz 294/17|Postanowienie|https://www.saos.org.pl/judgments/312736
-248411|2016-08-19|SO|IV P 11/16|Wyrok|https://www.saos.org.pl/judgments/248411
-246609|2016-08-05|SO|VIII Pa 34/16|Uzasadnienie|https://www.saos.org.pl/judgments/246609
-235172|2016-02-01|SO|XXVI GC 394/13|Postanowienie|https://www.saos.org.pl/judgments/235172
-235169|2015-11-20|SO|XXVI GC 394/13|Postanowienie|https://www.saos.org.pl/judgments/235169
-187257|2015-08-13|SO|V Pa 40/15|Wyrok|https://www.saos.org.pl/judgments/187257
-224394|2015-05-26|SO|I C 1943/13|Zarządzenie|https://www.saos.org.pl/judgments/224394
-74956|2014-10-10|SO|I C 631/13|Wyrok|https://www.saos.org.pl/judgments/74956
-62398|2014-09-19|SO|VII Pa 227/14|Uzasadnienie|https://www.saos.org.pl/judgments/62398
-44653|2014-03-10|SO|III Pa 1/14|Wyrok|https://www.saos.org.pl/judgments/44653
+saos_id|date|court|case_number|type|score|saos_url
+74956|2014-10-10|SO|I C 631/13|Wyrok|40|https://www.saos.org.pl/judgments/74956
+246609|2016-08-05|SO|VIII Pa 34/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/246609
+62398|2014-09-19|SO|VII Pa 227/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62398

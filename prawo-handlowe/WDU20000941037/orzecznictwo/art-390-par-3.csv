@@ -1,16 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-509180|2023-11-22|SO|IV Ua 11/23|Wyrok|https://www.saos.org.pl/judgments/509180
-481503|2022-11-28|SO|VIII GC 129/22|Uzasadnienie|https://www.saos.org.pl/judgments/481503
-403889|2019-04-24|SO|I AGa 372/18|Wyrok|https://www.saos.org.pl/judgments/403889
-305106|2016-08-05|SO|II Ca 125/16|Wyrok|https://www.saos.org.pl/judgments/305106
-238508|2016-06-29|SO|IV Ua 29/16|Wyrok|https://www.saos.org.pl/judgments/238508
-357287|2016-05-30|SO|XX GC 497/14|Wyrok|https://www.saos.org.pl/judgments/357287
-175819|2015-09-03|SO|XX GC 1475/13|Zarządzenie|https://www.saos.org.pl/judgments/175819
-154086|2015-02-11|SO|I ACa 1648/14|Wyrok|https://www.saos.org.pl/judgments/154086
-57551|2014-04-16|SO|I ACa 5/14|Wyrok|https://www.saos.org.pl/judgments/57551
-104262|2014-01-30|SN|III CZP 104/13|Uchwała|https://www.saos.org.pl/judgments/104262
-2040|2012-02-14|SO|I ACa 1391/11|Wyrok|https://www.saos.org.pl/judgments/2040
-91190|2009-11-03|SN|II CSK 181/09|Wyrok|https://www.saos.org.pl/judgments/91190
-164032|2006-02-07|SN|IV CSK 41/05|Wyrok|https://www.saos.org.pl/judgments/164032
-162987|2005-02-09|SN|III CK 301/04|Wyrok|https://www.saos.org.pl/judgments/162987
-83141|2005-01-20|SN|I UK 154/04|Wyrok|https://www.saos.org.pl/judgments/83141
+saos_id|date|court|case_number|type|score|saos_url
+104262|2014-01-30|SN|III CZP 104/13|Uchwała|89|https://www.saos.org.pl/judgments/104262
+91190|2009-11-03|SN|II CSK 181/09|Wyrok|78|https://www.saos.org.pl/judgments/91190
+164032|2006-02-07|SN|IV CSK 41/05|Wyrok|78|https://www.saos.org.pl/judgments/164032
+162987|2005-02-09|SN|III CK 301/04|Wyrok|78|https://www.saos.org.pl/judgments/162987
+83141|2005-01-20|SN|I UK 154/04|Wyrok|78|https://www.saos.org.pl/judgments/83141
+403889|2019-04-24|SO|I AGa 372/18|Wyrok|56|https://www.saos.org.pl/judgments/403889
+154086|2015-02-11|SO|I ACa 1648/14|Wyrok|56|https://www.saos.org.pl/judgments/154086
+57551|2014-04-16|SO|I ACa 5/14|Wyrok|56|https://www.saos.org.pl/judgments/57551
+2040|2012-02-14|SO|I ACa 1391/11|Wyrok|56|https://www.saos.org.pl/judgments/2040

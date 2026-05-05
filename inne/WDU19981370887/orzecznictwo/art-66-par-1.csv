@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-33377|2014-01-30|SO|V Pz 110/13|Postanowienie|https://www.saos.org.pl/judgments/33377
-443|2012-10-10|SO|III AUa 403/12|Wyrok|https://www.saos.org.pl/judgments/443
+saos_id|date|court|case_number|type|score|saos_url
+443|2012-10-10|SO|III AUa 403/12|Wyrok|56|https://www.saos.org.pl/judgments/443

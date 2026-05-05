@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-264288|2016-07-21|KIO|KIO 1121/16|Wyrok|https://www.saos.org.pl/judgments/264288
-264260|2016-07-08|KIO|KIO 1086/16|Wyrok|https://www.saos.org.pl/judgments/264260
-59666|2014-01-30|SO|VI ACa 691/13|Wyrok|https://www.saos.org.pl/judgments/59666
-102445|2013-07-12|SN|V CNP 71/12|Postanowienie|https://www.saos.org.pl/judgments/102445
+saos_id|date|court|case_number|type|score|saos_url
+102445|2013-07-12|SN|V CNP 71/12|Postanowienie|69|https://www.saos.org.pl/judgments/102445
+59666|2014-01-30|SO|VI ACa 691/13|Wyrok|56|https://www.saos.org.pl/judgments/59666
+264288|2016-07-21|KIO|KIO 1121/16|Wyrok|44|https://www.saos.org.pl/judgments/264288
+264260|2016-07-08|KIO|KIO 1086/16|Wyrok|44|https://www.saos.org.pl/judgments/264260

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-302974|2015-08-18|SO|XVII AmA 112/12|Uzasadnienie|https://www.saos.org.pl/judgments/302974
-59664|2014-04-29|SO|VI ACa 1259/13|Wyrok|https://www.saos.org.pl/judgments/59664
-16199|2013-04-02|SO|XVII AmE 167/11|Uzasadnienie|https://www.saos.org.pl/judgments/16199
-78599|1998-10-08|SN|III RN 58/98|Wyrok|https://www.saos.org.pl/judgments/78599
+saos_id|date|court|case_number|type|score|saos_url
+78599|1998-10-08|SN|III RN 58/98|Wyrok|78|https://www.saos.org.pl/judgments/78599
+59664|2014-04-29|SO|VI ACa 1259/13|Wyrok|56|https://www.saos.org.pl/judgments/59664

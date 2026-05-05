@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-515015|2023-05-24|SO|XVII AmA 63/22|Wyrok|https://www.saos.org.pl/judgments/515015
-249084|2016-01-19|SO|XVII AmE 37/15|Wyrok|https://www.saos.org.pl/judgments/249084
-189617|2015-10-07|SO|XVII AmT 25/15|Uzasadnienie|https://www.saos.org.pl/judgments/189617
-198304|2015-08-12|SO|VI ACa 881/15|Wyrok|https://www.saos.org.pl/judgments/198304
-167332|2014-11-13|SN|III SZ 1/14|Postanowienie|https://www.saos.org.pl/judgments/167332
-303634|2014-11-12|SO|XVII AmE 134/13|Wyrok|https://www.saos.org.pl/judgments/303634
-317027|2014-10-07|SO|XVII AmE 201/10|Wyrok|https://www.saos.org.pl/judgments/317027
-67227|2014-08-20|SO|XVII AmE 71/13|Uzasadnienie|https://www.saos.org.pl/judgments/67227
-233647|2014-05-30|SO|XVII AmE 95/13|Wyrok|https://www.saos.org.pl/judgments/233647
-52997|2014-01-29|SO|VI ACa 791/13|Wyrok|https://www.saos.org.pl/judgments/52997
-38414|2013-09-12|SO|VI ACa 68/13|Wyrok|https://www.saos.org.pl/judgments/38414
-28275|2013-06-27|SO|VI ACa 1421/12|Wyrok|https://www.saos.org.pl/judgments/28275
-16515|2013-04-03|SO|XVII AmT 218/09|Uzasadnienie|https://www.saos.org.pl/judgments/16515
-2924|2012-10-11|SO|VI ACa 551/11|Wyrok|https://www.saos.org.pl/judgments/2924
-95388|2011-07-07|SN|III SK 16/09|Wyrok|https://www.saos.org.pl/judgments/95388
-95172|2011-06-08|SN|III SK 51/10|Wyrok|https://www.saos.org.pl/judgments/95172
-107215|2005-03-07|TK|P 8/03|Wyrok|https://www.saos.org.pl/judgments/107215
+saos_id|date|court|case_number|type|score|saos_url
+107215|2005-03-07|TK|P 8/03|Wyrok|98|https://www.saos.org.pl/judgments/107215
+95388|2011-07-07|SN|III SK 16/09|Wyrok|78|https://www.saos.org.pl/judgments/95388
+95172|2011-06-08|SN|III SK 51/10|Wyrok|78|https://www.saos.org.pl/judgments/95172
+167332|2014-11-13|SN|III SZ 1/14|Postanowienie|69|https://www.saos.org.pl/judgments/167332
+198304|2015-08-12|SO|VI ACa 881/15|Wyrok|56|https://www.saos.org.pl/judgments/198304
+52997|2014-01-29|SO|VI ACa 791/13|Wyrok|56|https://www.saos.org.pl/judgments/52997
+38414|2013-09-12|SO|VI ACa 68/13|Wyrok|56|https://www.saos.org.pl/judgments/38414
+28275|2013-06-27|SO|VI ACa 1421/12|Wyrok|56|https://www.saos.org.pl/judgments/28275
+2924|2012-10-11|SO|VI ACa 551/11|Wyrok|56|https://www.saos.org.pl/judgments/2924

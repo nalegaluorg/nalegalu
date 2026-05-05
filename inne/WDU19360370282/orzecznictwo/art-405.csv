@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-534357|2024-12-19|SO|I ACa 678/23|Wyrok|https://www.saos.org.pl/judgments/534357
-429024|2020-07-14|SO|VI ACa 501/19|Wyrok|https://www.saos.org.pl/judgments/429024
-39348|2013-07-31|SO|I ACa 49/13|Wyrok|https://www.saos.org.pl/judgments/39348
+saos_id|date|court|case_number|type|score|saos_url
+534357|2024-12-19|SO|I ACa 678/23|Wyrok|56|https://www.saos.org.pl/judgments/534357
+429024|2020-07-14|SO|VI ACa 501/19|Wyrok|56|https://www.saos.org.pl/judgments/429024
+39348|2013-07-31|SO|I ACa 49/13|Wyrok|56|https://www.saos.org.pl/judgments/39348

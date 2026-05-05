@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-334796|2017-11-24|SO|I C 81/17|Wyrok|https://www.saos.org.pl/judgments/334796
-306409|2017-05-10|SO|VI ACa 5/16|Wyrok|https://www.saos.org.pl/judgments/306409
-219498|2015-10-08|SO|XXV C 1287/12|Wyrok|https://www.saos.org.pl/judgments/219498
-163527|2005-09-15|SN|II CK 73/05|Wyrok|https://www.saos.org.pl/judgments/163527
+saos_id|date|court|case_number|type|score|saos_url
+163527|2005-09-15|SN|II CK 73/05|Wyrok|78|https://www.saos.org.pl/judgments/163527
+306409|2017-05-10|SO|VI ACa 5/16|Wyrok|56|https://www.saos.org.pl/judgments/306409

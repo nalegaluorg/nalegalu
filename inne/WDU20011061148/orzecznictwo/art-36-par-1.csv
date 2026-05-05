@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-312911|2017-08-16|SO|IV 1Kz 109/17|Postanowienie|https://www.saos.org.pl/judgments/312911
-295975|2017-07-17|SO|II Ka 430/17|Wyrok|https://www.saos.org.pl/judgments/295975
-203027|2015-12-30|SO|II W 556/15|Wyrok|https://www.saos.org.pl/judgments/203027
-61084|2014-08-12|SO|IV Ka 646/14|Wyrok|https://www.saos.org.pl/judgments/61084
+saos_id|date|court|case_number|type|score|saos_url
+312911|2017-08-16|SO|IV 1Kz 109/17|Postanowienie|31|https://www.saos.org.pl/judgments/312911

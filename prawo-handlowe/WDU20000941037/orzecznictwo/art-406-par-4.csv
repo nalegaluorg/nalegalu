@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-368944|2018-06-19|SO|VII AGa 1267/18|Wyrok|https://www.saos.org.pl/judgments/368944
-334054|2017-09-19|SO|XVI GC 1209/16|Wyrok|https://www.saos.org.pl/judgments/334054
-109092|2009-06-02|TK|SK 31/08|Wyrok|https://www.saos.org.pl/judgments/109092
-87032|2008-01-11|SN|V CSK 363/07|Wyrok|https://www.saos.org.pl/judgments/87032
+saos_id|date|court|case_number|type|score|saos_url
+109092|2009-06-02|TK|SK 31/08|Wyrok|98|https://www.saos.org.pl/judgments/109092
+87032|2008-01-11|SN|V CSK 363/07|Wyrok|78|https://www.saos.org.pl/judgments/87032
+368944|2018-06-19|SO|VII AGa 1267/18|Wyrok|56|https://www.saos.org.pl/judgments/368944

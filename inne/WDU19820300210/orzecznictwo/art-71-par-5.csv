@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-362238|2018-10-03|SO|IV Ka 872/18|Wyrok|https://www.saos.org.pl/judgments/362238
+saos_id|date|court|case_number|type|score|saos_url
+362238|2018-10-03|SO|IV Ka 872/18|Wyrok|40|https://www.saos.org.pl/judgments/362238

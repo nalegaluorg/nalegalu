@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-98402|2012-06-20|SN|I KZP 3/12|Postanowienie|https://www.saos.org.pl/judgments/98402
+saos_id|date|court|case_number|type|score|saos_url
+98402|2012-06-20|SN|I KZP 3/12|Postanowienie|69|https://www.saos.org.pl/judgments/98402

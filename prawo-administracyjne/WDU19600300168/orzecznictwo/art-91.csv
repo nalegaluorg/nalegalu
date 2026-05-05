@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-458039|2022-02-10|SO|III Ka 606/21|Uzasadnienie|https://www.saos.org.pl/judgments/458039
-431150|2020-02-12|SO|XVII AmE 323/18|Wyrok|https://www.saos.org.pl/judgments/431150
-148158|2015-02-19|SO|VI ACa 495/14|Wyrok|https://www.saos.org.pl/judgments/148158
-3088|2012-11-14|SO|III AUa 622/12|Wyrok|https://www.saos.org.pl/judgments/3088
+saos_id|date|court|case_number|type|score|saos_url
+148158|2015-02-19|SO|VI ACa 495/14|Wyrok|56|https://www.saos.org.pl/judgments/148158
+3088|2012-11-14|SO|III AUa 622/12|Wyrok|56|https://www.saos.org.pl/judgments/3088

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-199289|2015-12-09|SO|I ACa 818/15|Wyrok|https://www.saos.org.pl/judgments/199289
-131475|2014-12-18|SO|II Ca 703/14|Wyrok|https://www.saos.org.pl/judgments/131475
-128918|2014-09-04|SO|V Ca 3446/13|Uzasadnienie|https://www.saos.org.pl/judgments/128918
-227334|2014-07-24|SO|V Ca 3446/13|Wyrok|https://www.saos.org.pl/judgments/227334
+saos_id|date|court|case_number|type|score|saos_url
+199289|2015-12-09|SO|I ACa 818/15|Wyrok|56|https://www.saos.org.pl/judgments/199289

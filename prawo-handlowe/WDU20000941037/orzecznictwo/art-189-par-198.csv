@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-71239|2014-03-25|SO|I ACa 89/14|Wyrok|https://www.saos.org.pl/judgments/71239
-409350|2012-08-01|SO|II AKa 165/12|Wyrok|https://www.saos.org.pl/judgments/409350
-135731|2012-08-01|SO|II AKa 165/12|Wyrok|https://www.saos.org.pl/judgments/135731
+saos_id|date|court|case_number|type|score|saos_url
+71239|2014-03-25|SO|I ACa 89/14|Wyrok|56|https://www.saos.org.pl/judgments/71239
+409350|2012-08-01|SO|II AKa 165/12|Wyrok|56|https://www.saos.org.pl/judgments/409350
+135731|2012-08-01|SO|II AKa 165/12|Wyrok|56|https://www.saos.org.pl/judgments/135731

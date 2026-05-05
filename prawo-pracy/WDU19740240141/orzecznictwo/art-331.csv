@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-94843|2011-04-26|SN|II PK 302/10|Wyrok|https://www.saos.org.pl/judgments/94843
-91398|2009-12-03|SN|II PK 142/09|Wyrok|https://www.saos.org.pl/judgments/91398
-83548|2005-06-28|SN|III PK 44/05|Wyrok|https://www.saos.org.pl/judgments/83548
+saos_id|date|court|case_number|type|score|saos_url
+94843|2011-04-26|SN|II PK 302/10|Wyrok|78|https://www.saos.org.pl/judgments/94843
+91398|2009-12-03|SN|II PK 142/09|Wyrok|78|https://www.saos.org.pl/judgments/91398
+83548|2005-06-28|SN|III PK 44/05|Wyrok|78|https://www.saos.org.pl/judgments/83548

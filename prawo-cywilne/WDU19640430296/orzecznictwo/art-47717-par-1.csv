@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-504728|2023-12-28|SO|III AUa 1324/22|Wyrok|https://www.saos.org.pl/judgments/504728
-309113|2017-10-03|SO|IV U 913/15|Wyrok|https://www.saos.org.pl/judgments/309113
-38267|2014-02-27|SO|III U 811/13|Wyrok|https://www.saos.org.pl/judgments/38267
-28263|2013-10-14|SO|V U 1547/13|Wyrok|https://www.saos.org.pl/judgments/28263
+saos_id|date|court|case_number|type|score|saos_url
+504728|2023-12-28|SO|III AUa 1324/22|Wyrok|56|https://www.saos.org.pl/judgments/504728

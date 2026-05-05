@@ -1,21 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-502347|2024-02-02|SO|II Cz 90/22|Postanowienie|https://www.saos.org.pl/judgments/502347
-515995|2023-08-28|SO|I C 1500/22|Uzasadnienie|https://www.saos.org.pl/judgments/515995
-465122|2022-02-11|SO|I ACa 1273/21|Wyrok|https://www.saos.org.pl/judgments/465122
-413269|2020-03-17|SO|I Co 1668/19|Postanowienie|https://www.saos.org.pl/judgments/413269
-529493|2020-02-21|SO|II Ca 586/19|Zarządzenie|https://www.saos.org.pl/judgments/529493
-420948|2019-12-10|SO|II AKa 184/19|Uzasadnienie|https://www.saos.org.pl/judgments/420948
-420947|2019-11-26|SO|II AKa 184/19|Uzasadnienie|https://www.saos.org.pl/judgments/420947
-397370|2019-09-20|SO|I ACa 143/19|Wyrok|https://www.saos.org.pl/judgments/397370
-411717|2019-01-02|SO|II AKa 63/18|Uzasadnienie|https://www.saos.org.pl/judgments/411717
-366371|2018-06-14|SO|II Ca 1481/17|Wyrok|https://www.saos.org.pl/judgments/366371
-363369|2018-06-14|SO|II Ca 1481/17|Zarządzenie|https://www.saos.org.pl/judgments/363369
-311239|2017-06-20|SO|III Ca 628/17|Postanowienie|https://www.saos.org.pl/judgments/311239
-296904|2017-04-25|SO|VIII C 160/17|Wyrok|https://www.saos.org.pl/judgments/296904
-256455|2016-08-30|SO|I ACa 229/16|Wyrok|https://www.saos.org.pl/judgments/256455
-295567|2016-05-27|SO|I C 2870/15|Wyrok|https://www.saos.org.pl/judgments/295567
-211524|2016-02-10|SO|I Ca 20/16|Postanowienie|https://www.saos.org.pl/judgments/211524
-72969|2014-11-05|SO|II Ca 614/14|Wyrok|https://www.saos.org.pl/judgments/72969
-276630|2014-09-11|SO|V Ca 401/13|Uzasadnienie|https://www.saos.org.pl/judgments/276630
-45650|2014-04-29|SO|II Cz 502/14|Postanowienie|https://www.saos.org.pl/judgments/45650
-12166|2013-02-21|SO|VI ACa 945/12|Wyrok|https://www.saos.org.pl/judgments/12166
+saos_id|date|court|case_number|type|score|saos_url
+465122|2022-02-11|SO|I ACa 1273/21|Wyrok|56|https://www.saos.org.pl/judgments/465122
+397370|2019-09-20|SO|I ACa 143/19|Wyrok|56|https://www.saos.org.pl/judgments/397370
+256455|2016-08-30|SO|I ACa 229/16|Wyrok|56|https://www.saos.org.pl/judgments/256455
+12166|2013-02-21|SO|VI ACa 945/12|Wyrok|56|https://www.saos.org.pl/judgments/12166
+420948|2019-12-10|SO|II AKa 184/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/420948
+420947|2019-11-26|SO|II AKa 184/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/420947
+411717|2019-01-02|SO|II AKa 63/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/411717
+502347|2024-02-02|SO|II Cz 90/22|Postanowienie|31|https://www.saos.org.pl/judgments/502347

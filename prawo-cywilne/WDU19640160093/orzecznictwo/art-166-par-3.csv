@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-541198|2025-06-04|SO|II Ca 724/23|Postanowienie|https://www.saos.org.pl/judgments/541198
-365100|2018-10-31|SO|III Ca 945/17|Uzasadnienie|https://www.saos.org.pl/judgments/365100
-365103|2018-10-10|SO|III Ca 949/18|Uzasadnienie|https://www.saos.org.pl/judgments/365103
-314343|2017-10-10|SO|I Ns 2448/16|Postanowienie|https://www.saos.org.pl/judgments/314343
-288266|2017-01-26|SO|VIII C 3/16|Wyrok|https://www.saos.org.pl/judgments/288266
+saos_id|date|court|case_number|type|score|saos_url
+314343|2017-10-10|SO|I Ns 2448/16|Postanowienie|31|https://www.saos.org.pl/judgments/314343
+365100|2018-10-31|SO|III Ca 945/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/365100
+365103|2018-10-10|SO|III Ca 949/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/365103

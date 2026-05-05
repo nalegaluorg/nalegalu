@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-422699|2017-03-20|SO|II K 24/16|Wyrok|https://www.saos.org.pl/judgments/422699
-137767|2013-03-12|SO|II AKa 30/13|Wyrok|https://www.saos.org.pl/judgments/137767
+saos_id|date|court|case_number|type|score|saos_url
+137767|2013-03-12|SO|II AKa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/137767

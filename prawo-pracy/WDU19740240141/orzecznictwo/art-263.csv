@@ -1,18 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-511436|2024-09-25|SO|VI Pa 65/23|Wyrok|https://www.saos.org.pl/judgments/511436
-463191|2022-03-30|SO|IV P 395/21|Wyrok|https://www.saos.org.pl/judgments/463191
-489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|https://www.saos.org.pl/judgments/489823
-315230|2017-08-22|SO|XVIII C 406/17|Wyrok|https://www.saos.org.pl/judgments/315230
-297219|2017-06-29|SO|VIII Pa 17/17|Wyrok|https://www.saos.org.pl/judgments/297219
-266235|2016-11-24|SO|I C 865/15|Uzasadnienie|https://www.saos.org.pl/judgments/266235
-240913|2016-01-13|SO|VIII P 999/14|Uzasadnienie|https://www.saos.org.pl/judgments/240913
-216719|2015-08-31|SO|II W 542/14|Wyrok|https://www.saos.org.pl/judgments/216719
-54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|https://www.saos.org.pl/judgments/54648
-103147|2013-10-14|SN|II PZ 25/13|Postanowienie|https://www.saos.org.pl/judgments/103147
-92753|2010-08-10|SN|I PK 63/10|Postanowienie|https://www.saos.org.pl/judgments/92753
-85567|2007-03-29|SN|II PZ 3/07|Postanowienie|https://www.saos.org.pl/judgments/85567
-85569|2007-03-27|SN|II PZP 1/07|Uchwała|https://www.saos.org.pl/judgments/85569
-85355|2007-03-05|SN|I PZP 1/07|Uchwała|https://www.saos.org.pl/judgments/85355
-84962|2007-01-09|SN|II PZP 5/06|Uchwała|https://www.saos.org.pl/judgments/84962
-84536|2006-09-06|SN|III SPZP 2/06|Uchwała|https://www.saos.org.pl/judgments/84536
-79834|2000-07-11|SN|I PZ 45/00|Postanowienie|https://www.saos.org.pl/judgments/79834
+saos_id|date|court|case_number|type|score|saos_url
+85569|2007-03-27|SN|II PZP 1/07|Uchwała|89|https://www.saos.org.pl/judgments/85569
+85355|2007-03-05|SN|I PZP 1/07|Uchwała|89|https://www.saos.org.pl/judgments/85355
+84962|2007-01-09|SN|II PZP 5/06|Uchwała|89|https://www.saos.org.pl/judgments/84962
+84536|2006-09-06|SN|III SPZP 2/06|Uchwała|89|https://www.saos.org.pl/judgments/84536
+103147|2013-10-14|SN|II PZ 25/13|Postanowienie|69|https://www.saos.org.pl/judgments/103147
+92753|2010-08-10|SN|I PK 63/10|Postanowienie|69|https://www.saos.org.pl/judgments/92753
+85567|2007-03-29|SN|II PZ 3/07|Postanowienie|69|https://www.saos.org.pl/judgments/85567
+79834|2000-07-11|SN|I PZ 45/00|Postanowienie|69|https://www.saos.org.pl/judgments/79834
+489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/489823
+315230|2017-08-22|SO|XVIII C 406/17|Wyrok|40|https://www.saos.org.pl/judgments/315230
+54648|2014-07-16|SO|VIII P 3/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/54648

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-248735|2016-09-07|SO|II Cz 739/16|Postanowienie|https://www.saos.org.pl/judgments/248735
-167542|2014-11-26|SN|III CZP 80/14|Uchwała|https://www.saos.org.pl/judgments/167542
+saos_id|date|court|case_number|type|score|saos_url
+167542|2014-11-26|SN|III CZP 80/14|Uchwała|89|https://www.saos.org.pl/judgments/167542

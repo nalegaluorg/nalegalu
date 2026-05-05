@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-167817|2015-01-15|SN|IV CSK 314/14|Postanowienie|https://www.saos.org.pl/judgments/167817
-166627|2014-09-04|SN|II CSK 616/13|Postanowienie|https://www.saos.org.pl/judgments/166627
-104338|2014-02-07|SN|III CSK 74/13|Postanowienie|https://www.saos.org.pl/judgments/104338
-98610|2012-07-11|SN|II CSK 621/11|Postanowienie|https://www.saos.org.pl/judgments/98610
-98400|2012-06-20|SN|I CSK 590/11|Postanowienie|https://www.saos.org.pl/judgments/98400
-87535|2008-03-05|SN|V CSK 406/07|Postanowienie|https://www.saos.org.pl/judgments/87535
+saos_id|date|court|case_number|type|score|saos_url
+167817|2015-01-15|SN|IV CSK 314/14|Postanowienie|69|https://www.saos.org.pl/judgments/167817
+166627|2014-09-04|SN|II CSK 616/13|Postanowienie|69|https://www.saos.org.pl/judgments/166627
+104338|2014-02-07|SN|III CSK 74/13|Postanowienie|69|https://www.saos.org.pl/judgments/104338
+98610|2012-07-11|SN|II CSK 621/11|Postanowienie|69|https://www.saos.org.pl/judgments/98610
+98400|2012-06-20|SN|I CSK 590/11|Postanowienie|69|https://www.saos.org.pl/judgments/98400
+87535|2008-03-05|SN|V CSK 406/07|Postanowienie|69|https://www.saos.org.pl/judgments/87535

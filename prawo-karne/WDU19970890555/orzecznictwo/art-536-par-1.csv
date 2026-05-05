@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-104359|2014-02-06|SN|III KK 484/13|Postanowienie|https://www.saos.org.pl/judgments/104359
-102476|2013-07-16|SN|III KK 209/13|Postanowienie|https://www.saos.org.pl/judgments/102476
-101052|2013-03-14|SN|III KK 7/13|Postanowienie|https://www.saos.org.pl/judgments/101052
-101049|2013-03-14|SN|III KK 391/12|Postanowienie|https://www.saos.org.pl/judgments/101049
-99389|2012-10-17|SN|IV KK 171/12|Postanowienie|https://www.saos.org.pl/judgments/99389
-89813|2009-03-04|SN|III KK 322/08|Wyrok|https://www.saos.org.pl/judgments/89813
+saos_id|date|court|case_number|type|score|saos_url
+89813|2009-03-04|SN|III KK 322/08|Wyrok|78|https://www.saos.org.pl/judgments/89813
+104359|2014-02-06|SN|III KK 484/13|Postanowienie|69|https://www.saos.org.pl/judgments/104359
+102476|2013-07-16|SN|III KK 209/13|Postanowienie|69|https://www.saos.org.pl/judgments/102476
+101052|2013-03-14|SN|III KK 7/13|Postanowienie|69|https://www.saos.org.pl/judgments/101052
+101049|2013-03-14|SN|III KK 391/12|Postanowienie|69|https://www.saos.org.pl/judgments/101049
+99389|2012-10-17|SN|IV KK 171/12|Postanowienie|69|https://www.saos.org.pl/judgments/99389

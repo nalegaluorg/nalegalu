@@ -1,8 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-344663|2018-03-15|SO|IV Ka 53/18|Wyrok|https://www.saos.org.pl/judgments/344663
-336404|2018-03-13|SO|II Ka 591/17|Wyrok|https://www.saos.org.pl/judgments/336404
-332827|2018-02-06|SO|VI Ka 573/17|Wyrok|https://www.saos.org.pl/judgments/332827
-291799|2017-07-10|SO|II K 897/15|Uzasadnienie|https://www.saos.org.pl/judgments/291799
-244400|2016-01-28|SN|I KZP 13/15|Uchwała|https://www.saos.org.pl/judgments/244400
-168755|2015-03-31|SN|I KZP 27/14|Postanowienie|https://www.saos.org.pl/judgments/168755
-60294|2014-08-08|SO|V S 41/14|Uzasadnienie|https://www.saos.org.pl/judgments/60294
+saos_id|date|court|case_number|type|score|saos_url
+244400|2016-01-28|SN|I KZP 13/15|Uchwała|96|https://www.saos.org.pl/judgments/244400
+168755|2015-03-31|SN|I KZP 27/14|Postanowienie|69|https://www.saos.org.pl/judgments/168755
+344663|2018-03-15|SO|IV Ka 53/18|Wyrok|40|https://www.saos.org.pl/judgments/344663
+336404|2018-03-13|SO|II Ka 591/17|Wyrok|40|https://www.saos.org.pl/judgments/336404
+291799|2017-07-10|SO|II K 897/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/291799
+60294|2014-08-08|SO|V S 41/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60294

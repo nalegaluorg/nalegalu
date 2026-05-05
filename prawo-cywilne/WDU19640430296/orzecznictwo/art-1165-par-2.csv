@@ -1,14 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-168171|2015-02-05|SN|V CSK 231/14|Postanowienie|https://www.saos.org.pl/judgments/168171
-206425|2013-09-02|TK|Ts 225/12|Postanowienie|https://www.saos.org.pl/judgments/206425
-99454|2012-10-24|SN|III CSK 35/12|Postanowienie|https://www.saos.org.pl/judgments/99454
-99419|2012-10-19|SN|V CSK 503/11|Postanowienie|https://www.saos.org.pl/judgments/99419
-99360|2012-10-17|SN|I CSK 119/12|Postanowienie|https://www.saos.org.pl/judgments/99360
-93990|2011-01-28|SN|I CSK 231/10|Wyrok|https://www.saos.org.pl/judgments/93990
-93501|2010-11-24|SN|II CSK 291/10|Postanowienie|https://www.saos.org.pl/judgments/93501
-91361|2009-12-02|SN|I CSK 120/09|Postanowienie|https://www.saos.org.pl/judgments/91361
-90894|2009-09-23|SN|I CSK 121/09|Postanowienie|https://www.saos.org.pl/judgments/90894
-90032|2009-04-08|SN|V CSK 405/08|Wyrok|https://www.saos.org.pl/judgments/90032
-89953|2009-03-25|SN|V CSK 390/08|Postanowienie|https://www.saos.org.pl/judgments/89953
-89592|2009-02-05|SN|I CSK 311/08|Postanowienie|https://www.saos.org.pl/judgments/89592
-89007|2008-10-30|SN|II CSK 263/08|Postanowienie|https://www.saos.org.pl/judgments/89007
+saos_id|date|court|case_number|type|score|saos_url
+206425|2013-09-02|TK|Ts 225/12|Postanowienie|80|https://www.saos.org.pl/judgments/206425
+93990|2011-01-28|SN|I CSK 231/10|Wyrok|78|https://www.saos.org.pl/judgments/93990
+90032|2009-04-08|SN|V CSK 405/08|Wyrok|78|https://www.saos.org.pl/judgments/90032
+168171|2015-02-05|SN|V CSK 231/14|Postanowienie|69|https://www.saos.org.pl/judgments/168171
+99454|2012-10-24|SN|III CSK 35/12|Postanowienie|69|https://www.saos.org.pl/judgments/99454
+99419|2012-10-19|SN|V CSK 503/11|Postanowienie|69|https://www.saos.org.pl/judgments/99419
+99360|2012-10-17|SN|I CSK 119/12|Postanowienie|69|https://www.saos.org.pl/judgments/99360
+93501|2010-11-24|SN|II CSK 291/10|Postanowienie|69|https://www.saos.org.pl/judgments/93501
+91361|2009-12-02|SN|I CSK 120/09|Postanowienie|69|https://www.saos.org.pl/judgments/91361
+90894|2009-09-23|SN|I CSK 121/09|Postanowienie|69|https://www.saos.org.pl/judgments/90894
+89953|2009-03-25|SN|V CSK 390/08|Postanowienie|69|https://www.saos.org.pl/judgments/89953
+89592|2009-02-05|SN|I CSK 311/08|Postanowienie|69|https://www.saos.org.pl/judgments/89592
+89007|2008-10-30|SN|II CSK 263/08|Postanowienie|69|https://www.saos.org.pl/judgments/89007

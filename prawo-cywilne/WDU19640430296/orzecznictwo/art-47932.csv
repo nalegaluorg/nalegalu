@@ -1,26 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-515317|2024-05-14|SO|XVII Amz 77/23|Postanowienie|https://www.saos.org.pl/judgments/515317
-515316|2023-11-08|SO|XVII Amz 54/23|Postanowienie|https://www.saos.org.pl/judgments/515316
-479251|2022-11-22|SO|XVII Amz 92/22|Postanowienie|https://www.saos.org.pl/judgments/479251
-515315|2022-07-20|SO|XVII Amz 11/22|Postanowienie|https://www.saos.org.pl/judgments/515315
-479119|2021-12-20|SO|XVII Amz 51/21|Postanowienie|https://www.saos.org.pl/judgments/479119
-422170|2020-03-02|SO|XVII Amz 56/19|Postanowienie|https://www.saos.org.pl/judgments/422170
-422169|2019-12-05|SO|XVII Amz 20/18|Postanowienie|https://www.saos.org.pl/judgments/422169
-422319|2019-11-13|SO|XVII Amz 33/18|Postanowienie|https://www.saos.org.pl/judgments/422319
-422168|2019-09-30|SO|XVII Amz 139/17|Postanowienie|https://www.saos.org.pl/judgments/422168
-422171|2019-09-11|SO|XVII Amz 69/16|Postanowienie|https://www.saos.org.pl/judgments/422171
-405426|2019-05-27|SO|XVII Amz 23/19|Postanowienie|https://www.saos.org.pl/judgments/405426
-405425|2019-05-27|SO|XVII Amz 22/19|Postanowienie|https://www.saos.org.pl/judgments/405425
-381302|2019-03-05|SO|XVII Amz 9/18|Postanowienie|https://www.saos.org.pl/judgments/381302
-431988|2019-02-05|SO|XVII Amz 44/17|Postanowienie|https://www.saos.org.pl/judgments/431988
-383753|2019-01-08|SO|XVII Amz 16/18|Postanowienie|https://www.saos.org.pl/judgments/383753
-383751|2019-01-08|SO|XVII Amz 15/18|Postanowienie|https://www.saos.org.pl/judgments/383751
-431987|2018-02-26|SO|XVII Amz 43/17|Postanowienie|https://www.saos.org.pl/judgments/431987
-94612|2011-04-06|SN|I CSK 412/09|Wyrok|https://www.saos.org.pl/judgments/94612
-93669|2010-12-07|SN|III CZP 86/10|Uchwała|https://www.saos.org.pl/judgments/93669
-90754|2009-08-19|SN|III SK 5/09|Wyrok|https://www.saos.org.pl/judgments/90754
-88666|2008-09-04|SN|III SN 1/08|Wyrok|https://www.saos.org.pl/judgments/88666
-85984|2007-06-01|SN|III CZP 42/07|Uchwała|https://www.saos.org.pl/judgments/85984
-319777|2006-06-21|SO|XVII Amz 13/06|Postanowienie|https://www.saos.org.pl/judgments/319777
-84017|2006-01-12|SN|III SZP 5/05|Uchwała|https://www.saos.org.pl/judgments/84017
-82897|2004-10-05|SN|III SZP 1/04|Postanowienie|https://www.saos.org.pl/judgments/82897
+saos_id|date|court|case_number|type|score|saos_url
+93669|2010-12-07|SN|III CZP 86/10|Uchwała|96|https://www.saos.org.pl/judgments/93669
+85984|2007-06-01|SN|III CZP 42/07|Uchwała|89|https://www.saos.org.pl/judgments/85984
+84017|2006-01-12|SN|III SZP 5/05|Uchwała|89|https://www.saos.org.pl/judgments/84017
+94612|2011-04-06|SN|I CSK 412/09|Wyrok|78|https://www.saos.org.pl/judgments/94612
+90754|2009-08-19|SN|III SK 5/09|Wyrok|78|https://www.saos.org.pl/judgments/90754
+88666|2008-09-04|SN|III SN 1/08|Wyrok|78|https://www.saos.org.pl/judgments/88666
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-248401|2016-08-23|SO|IV Ka 608/16|Wyrok|https://www.saos.org.pl/judgments/248401
+saos_id|date|court|case_number|type|score|saos_url
+248401|2016-08-23|SO|IV Ka 608/16|Wyrok|40|https://www.saos.org.pl/judgments/248401

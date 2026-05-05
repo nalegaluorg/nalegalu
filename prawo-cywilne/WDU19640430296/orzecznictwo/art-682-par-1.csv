@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-71412|2014-11-07|SO|II Ca 871/14|Postanowienie|https://www.saos.org.pl/judgments/71412
-141730|2013-02-27|SO|II Ca 1373/12|Postanowienie|https://www.saos.org.pl/judgments/141730
-99612|2012-11-14|SN|II CSK 187/12|Postanowienie|https://www.saos.org.pl/judgments/99612
+saos_id|date|court|case_number|type|score|saos_url
+99612|2012-11-14|SN|II CSK 187/12|Postanowienie|69|https://www.saos.org.pl/judgments/99612

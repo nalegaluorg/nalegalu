@@ -1,14 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-541012|2025-10-13|SO|I C 707/22|Wyrok|https://www.saos.org.pl/judgments/541012
-517558|2024-06-11|SO|I C 1494/23|Wyrok|https://www.saos.org.pl/judgments/517558
-457251|2021-03-30|SO|III Ca 499/20|Uzasadnienie|https://www.saos.org.pl/judgments/457251
-409391|2020-03-10|SO|I C 633/19|Wyrok|https://www.saos.org.pl/judgments/409391
-398784|2019-11-13|SO|I C 514/19|Wyrok|https://www.saos.org.pl/judgments/398784
-353710|2017-11-13|KIO|KIO 2261/17|Wyrok|https://www.saos.org.pl/judgments/353710
-316790|2017-11-09|SO|VI GC 613/17|Wyrok|https://www.saos.org.pl/judgments/316790
-135165|2015-02-19|SO|V GC 546/14|Wyrok|https://www.saos.org.pl/judgments/135165
-246378|2015-02-18|SO|I ACa 1508/14|Wyrok|https://www.saos.org.pl/judgments/246378
-60161|2014-08-22|SO|VIII Ga 205/14|Wyrok|https://www.saos.org.pl/judgments/60161
-41319|2013-10-09|SO|XII Ga 357/13|Wyrok|https://www.saos.org.pl/judgments/41319
-94309|2011-03-04|SN|I CSK 309/10|Wyrok|https://www.saos.org.pl/judgments/94309
-88072|2008-05-15|SN|I CSK 548/07|Wyrok|https://www.saos.org.pl/judgments/88072
+saos_id|date|court|case_number|type|score|saos_url
+94309|2011-03-04|SN|I CSK 309/10|Wyrok|78|https://www.saos.org.pl/judgments/94309
+88072|2008-05-15|SN|I CSK 548/07|Wyrok|78|https://www.saos.org.pl/judgments/88072
+246378|2015-02-18|SO|I ACa 1508/14|Wyrok|56|https://www.saos.org.pl/judgments/246378
+353710|2017-11-13|KIO|KIO 2261/17|Wyrok|44|https://www.saos.org.pl/judgments/353710
+457251|2021-03-30|SO|III Ca 499/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/457251

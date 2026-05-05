@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-426198|2020-12-02|SO|VIII U 4689/19|Uzasadnienie|https://www.saos.org.pl/judgments/426198
-282373|2017-05-05|SO|IX P 291/16|Uzasadnienie|https://www.saos.org.pl/judgments/282373
-279182|2017-02-16|SO|VI P 37/16|Wyrok|https://www.saos.org.pl/judgments/279182
-27351|2013-09-23|SO|IV U 884/13|Wyrok|https://www.saos.org.pl/judgments/27351
+saos_id|date|court|case_number|type|score|saos_url
+426198|2020-12-02|SO|VIII U 4689/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/426198

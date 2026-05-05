@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-41362|2014-03-06|SO|II Ca 784/13|Wyrok|https://www.saos.org.pl/judgments/41362
+saos_id|date|court|case_number|type|score|saos_url
+41362|2014-03-06|SO|II Ca 784/13|Wyrok|40|https://www.saos.org.pl/judgments/41362

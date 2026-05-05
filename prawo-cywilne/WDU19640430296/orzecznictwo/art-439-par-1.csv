@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-468013|2022-06-17|SO|I C 2461/21|Uzasadnienie|https://www.saos.org.pl/judgments/468013
-242527|2016-06-20|SO|I ACz 1025/16|Postanowienie|https://www.saos.org.pl/judgments/242527
-94187|2011-02-08|SN|SNO 2/11|Postanowienie|https://www.saos.org.pl/judgments/94187
-84187|2006-03-14|SN|SNO 9/06|Wyrok|https://www.saos.org.pl/judgments/84187
-82713|2004-06-04|SN|III CZP 28/04|Uchwała|https://www.saos.org.pl/judgments/82713
+saos_id|date|court|case_number|type|score|saos_url
+82713|2004-06-04|SN|III CZP 28/04|Uchwała|89|https://www.saos.org.pl/judgments/82713
+84187|2006-03-14|SN|SNO 9/06|Wyrok|78|https://www.saos.org.pl/judgments/84187
+94187|2011-02-08|SN|SNO 2/11|Postanowienie|69|https://www.saos.org.pl/judgments/94187
+242527|2016-06-20|SO|I ACz 1025/16|Postanowienie|47|https://www.saos.org.pl/judgments/242527

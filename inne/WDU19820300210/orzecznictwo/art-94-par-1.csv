@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-426449|2020-12-09|SO|IV Kz 285/20|Postanowienie|https://www.saos.org.pl/judgments/426449
-372532|2019-02-07|SO|VII Ka 9/19|Wyrok|https://www.saos.org.pl/judgments/372532
-306515|2017-09-29|SO|VI Ka 284/17|Wyrok|https://www.saos.org.pl/judgments/306515
-283508|2017-03-13|SO|II W 1715/16|Wyrok|https://www.saos.org.pl/judgments/283508
-285662|2017-02-09|SO|IV P 120/15|Wyrok|https://www.saos.org.pl/judgments/285662
-63171|2014-09-23|SO|II Ka 294/14|Wyrok|https://www.saos.org.pl/judgments/63171
-62245|2014-08-14|SO|IV Ka 618/14|Wyrok|https://www.saos.org.pl/judgments/62245
-535935|2012-08-31|SO|II W 730/12|Wyrok|https://www.saos.org.pl/judgments/535935
-536132|2012-06-19|SO|II W 538/12|Wyrok|https://www.saos.org.pl/judgments/536132
+saos_id|date|court|case_number|type|score|saos_url
+372532|2019-02-07|SO|VII Ka 9/19|Wyrok|40|https://www.saos.org.pl/judgments/372532
+306515|2017-09-29|SO|VI Ka 284/17|Wyrok|40|https://www.saos.org.pl/judgments/306515
+62245|2014-08-14|SO|IV Ka 618/14|Wyrok|40|https://www.saos.org.pl/judgments/62245
+535935|2012-08-31|SO|II W 730/12|Wyrok|40|https://www.saos.org.pl/judgments/535935
+536132|2012-06-19|SO|II W 538/12|Wyrok|40|https://www.saos.org.pl/judgments/536132
+426449|2020-12-09|SO|IV Kz 285/20|Postanowienie|31|https://www.saos.org.pl/judgments/426449

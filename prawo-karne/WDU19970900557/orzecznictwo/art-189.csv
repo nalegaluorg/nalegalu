@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-457755|2021-09-20|SO|XXIII Zs 77/21|Wyrok|https://www.saos.org.pl/judgments/457755
-447316|2021-09-15|SO|II K 65/21|Wyrok|https://www.saos.org.pl/judgments/447316
-400953|2019-12-18|SO|IV Kz 566/19|Postanowienie|https://www.saos.org.pl/judgments/400953
-203993|2016-02-08|SO|II Ka 525/15|Wyrok|https://www.saos.org.pl/judgments/203993
-46612|2014-03-28|SO|VI Ka 1171/13|Wyrok|https://www.saos.org.pl/judgments/46612
+saos_id|date|court|case_number|type|score|saos_url
+400953|2019-12-18|SO|IV Kz 566/19|Postanowienie|31|https://www.saos.org.pl/judgments/400953

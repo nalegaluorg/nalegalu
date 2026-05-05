@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-466229|2021-05-17|SO|IV Pa 17/21|Postanowienie|https://www.saos.org.pl/judgments/466229
-391414|2019-06-21|SO|III Ca 212/19|Uzasadnienie|https://www.saos.org.pl/judgments/391414
-16700|2013-06-25|SO|II Ca 421/13|Postanowienie|https://www.saos.org.pl/judgments/16700
+saos_id|date|court|case_number|type|score|saos_url
+391414|2019-06-21|SO|III Ca 212/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/391414

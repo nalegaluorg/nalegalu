@@ -2,7 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1998 r. o zmianie niektórych ustaw w związku z wdrożeniem reformy ustrojowej państwa.*
 
-Łącznie: **3** orzeczeń
+Łącznie: **2** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## art. 26 (1)
 
@@ -10,13 +11,9 @@ Orzeczenia powołujące: *Ustawa z dnia 29 grudnia 1998 r. o zmianie niektórych
 
 ## art. 31 (1)
 
-- 2003-09-24 | SN | [III CZP 55/03](https://www.saos.org.pl/judgments/82204) | Uchwała
+- 2003-09-24 | SN | [III CZP 55/03](https://www.saos.org.pl/judgments/82204) | Uchwała ★
 
 ## art. 55 (1)
 
-- 2003-09-24 | SN | [III CZP 55/03](https://www.saos.org.pl/judgments/82204) | Uchwała
-
-## (ogólnie) (1)
-
-- 2013-03-01 | SO | [II K 925/11](https://www.saos.org.pl/judgments/61821) | Wyrok
+- 2003-09-24 | SN | [III CZP 55/03](https://www.saos.org.pl/judgments/82204) | Uchwała ★
 

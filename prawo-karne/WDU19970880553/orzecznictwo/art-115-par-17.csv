@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-484383|2023-12-30|SO|IV Ka 784/22|Uzasadnienie|https://www.saos.org.pl/judgments/484383
-90761|2009-08-18|SN|WZP 2/09|Uchwała|https://www.saos.org.pl/judgments/90761
-81780|2002-12-20|SN|WK 44/02|Wyrok|https://www.saos.org.pl/judgments/81780
+saos_id|date|court|case_number|type|score|saos_url
+90761|2009-08-18|SN|WZP 2/09|Uchwała|89|https://www.saos.org.pl/judgments/90761
+81780|2002-12-20|SN|WK 44/02|Wyrok|78|https://www.saos.org.pl/judgments/81780

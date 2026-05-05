@@ -1,17 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-464428|2021-11-10|SO|XXV C 1477/21|Wyrok|https://www.saos.org.pl/judgments/464428
-452276|2020-01-28|SO|V AGa 357/18|Wyrok|https://www.saos.org.pl/judgments/452276
-368781|2018-11-08|SO|VII AGa 1404/18|Wyrok|https://www.saos.org.pl/judgments/368781
-312952|2017-10-24|SO|V ACa 38/17|Wyrok|https://www.saos.org.pl/judgments/312952
-225666|2016-04-28|SO|IV Ca 923/15|Wyrok|https://www.saos.org.pl/judgments/225666
-212130|2016-02-24|SO|IV Ca 903/15|Wyrok|https://www.saos.org.pl/judgments/212130
-219771|2016-02-22|SO|III Ca 1651/15|Uzasadnienie|https://www.saos.org.pl/judgments/219771
-229057|2015-11-26|SO|I ACa 311/15|Wyrok|https://www.saos.org.pl/judgments/229057
-284054|2015-10-15|SO|IX GC 1533/14|Uzasadnienie|https://www.saos.org.pl/judgments/284054
-173328|2015-07-14|SO|VI ACa 1187/14|Wyrok|https://www.saos.org.pl/judgments/173328
-134255|2015-02-12|SO|II Ca 942/14|Wyrok|https://www.saos.org.pl/judgments/134255
-161119|2014-08-13|KIO|KIO 1565/14|Wyrok|https://www.saos.org.pl/judgments/161119
-544104|2014-03-20|SO|II Ca 27/14|Wyrok|https://www.saos.org.pl/judgments/544104
-144582|2014-02-13|SO|II Ca 1060/13|Wyrok|https://www.saos.org.pl/judgments/144582
-142713|2013-07-31|SO|I C 1025/11|Wyrok|https://www.saos.org.pl/judgments/142713
-141565|2013-07-08|SO|I C 377/10|Wyrok|https://www.saos.org.pl/judgments/141565
+saos_id|date|court|case_number|type|score|saos_url
+452276|2020-01-28|SO|V AGa 357/18|Wyrok|56|https://www.saos.org.pl/judgments/452276
+368781|2018-11-08|SO|VII AGa 1404/18|Wyrok|56|https://www.saos.org.pl/judgments/368781
+312952|2017-10-24|SO|V ACa 38/17|Wyrok|56|https://www.saos.org.pl/judgments/312952
+229057|2015-11-26|SO|I ACa 311/15|Wyrok|56|https://www.saos.org.pl/judgments/229057
+173328|2015-07-14|SO|VI ACa 1187/14|Wyrok|56|https://www.saos.org.pl/judgments/173328
+161119|2014-08-13|KIO|KIO 1565/14|Wyrok|44|https://www.saos.org.pl/judgments/161119
+219771|2016-02-22|SO|III Ca 1651/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/219771

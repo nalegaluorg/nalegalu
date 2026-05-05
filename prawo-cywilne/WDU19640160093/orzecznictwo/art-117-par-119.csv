@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-119853|2012-03-14|KIO|KIO 399/12|Wyrok|https://www.saos.org.pl/judgments/119853
+saos_id|date|court|case_number|type|score|saos_url
+119853|2012-03-14|KIO|KIO 399/12|Wyrok|44|https://www.saos.org.pl/judgments/119853

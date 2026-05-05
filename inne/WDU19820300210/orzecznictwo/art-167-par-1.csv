@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-268318|2016-12-21|SO|I C 709/16|Wyrok|https://www.saos.org.pl/judgments/268318
+saos_id|date|court|case_number|type|score|saos_url
+268318|2016-12-21|SO|I C 709/16|Wyrok|40|https://www.saos.org.pl/judgments/268318

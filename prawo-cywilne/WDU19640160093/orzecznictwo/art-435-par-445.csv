@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-292787|2017-06-09|SO|V P 1/15|Wyrok|https://www.saos.org.pl/judgments/292787
-3195|2012-10-03|SO|VI ACa 510/12|Wyrok|https://www.saos.org.pl/judgments/3195
+saos_id|date|court|case_number|type|score|saos_url
+3195|2012-10-03|SO|VI ACa 510/12|Wyrok|56|https://www.saos.org.pl/judgments/3195

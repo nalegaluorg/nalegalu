@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-99671|2012-11-23|SN|I CSK 292/12|Wyrok|https://www.saos.org.pl/judgments/99671
-96599|2011-12-13|SN|III CZP 48/11|Uchwała|https://www.saos.org.pl/judgments/96599
-110306|2011-12-07|TK|P 15/11|Postanowienie|https://www.saos.org.pl/judgments/110306
-163685|2005-10-26|SN|V CK 280/05|Wyrok|https://www.saos.org.pl/judgments/163685
+saos_id|date|court|case_number|type|score|saos_url
+96599|2011-12-13|SN|III CZP 48/11|Uchwała|96|https://www.saos.org.pl/judgments/96599
+110306|2011-12-07|TK|P 15/11|Postanowienie|80|https://www.saos.org.pl/judgments/110306
+99671|2012-11-23|SN|I CSK 292/12|Wyrok|78|https://www.saos.org.pl/judgments/99671
+163685|2005-10-26|SN|V CK 280/05|Wyrok|78|https://www.saos.org.pl/judgments/163685

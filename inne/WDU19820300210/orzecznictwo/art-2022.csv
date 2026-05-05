@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-500869|2024-01-15|SO|II AKa 290/23|Wyrok|https://www.saos.org.pl/judgments/500869
-504635|2023-12-14|SO|III APa 8/23|Wyrok|https://www.saos.org.pl/judgments/504635
-485501|2022-11-24|SO|II K 811/22|Wyrok|https://www.saos.org.pl/judgments/485501
+saos_id|date|court|case_number|type|score|saos_url
+500869|2024-01-15|SO|II AKa 290/23|Wyrok|56|https://www.saos.org.pl/judgments/500869
+504635|2023-12-14|SO|III APa 8/23|Wyrok|56|https://www.saos.org.pl/judgments/504635

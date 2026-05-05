@@ -1,13 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-532609|2025-08-13|SO|IX P 534/18|Zarządzenie|https://www.saos.org.pl/judgments/532609
-511821|2024-03-28|SO|VII Pa 147/23|Wyrok|https://www.saos.org.pl/judgments/511821
-509464|2024-01-29|SO|IX P 591/20|Zarządzenie|https://www.saos.org.pl/judgments/509464
-471153|2022-05-30|SO|VII P 39/19|Wyrok|https://www.saos.org.pl/judgments/471153
-468846|2022-02-16|SO|VII P 23/20|Wyrok|https://www.saos.org.pl/judgments/468846
-423732|2020-11-16|SO|IX P 237/18|Zarządzenie|https://www.saos.org.pl/judgments/423732
-419863|2020-09-18|SO|IX P 112/14|Zarządzenie|https://www.saos.org.pl/judgments/419863
-296476|2016-04-19|SO|XXI P 70/14|Wyrok|https://www.saos.org.pl/judgments/296476
-221398|2015-09-24|SO|III APa 7/15|Wyrok|https://www.saos.org.pl/judgments/221398
-64370|2014-06-13|SO|VI ACa 1603/13|Wyrok|https://www.saos.org.pl/judgments/64370
-70736|2014-03-25|SO|VI P 925/12|Wyrok|https://www.saos.org.pl/judgments/70736
-41473|2013-06-27|SO|VI P 70/10|Wyrok|https://www.saos.org.pl/judgments/41473
+saos_id|date|court|case_number|type|score|saos_url
+221398|2015-09-24|SO|III APa 7/15|Wyrok|56|https://www.saos.org.pl/judgments/221398
+64370|2014-06-13|SO|VI ACa 1603/13|Wyrok|56|https://www.saos.org.pl/judgments/64370
+471153|2022-05-30|SO|VII P 39/19|Wyrok|40|https://www.saos.org.pl/judgments/471153
+468846|2022-02-16|SO|VII P 23/20|Wyrok|40|https://www.saos.org.pl/judgments/468846
+70736|2014-03-25|SO|VI P 925/12|Wyrok|40|https://www.saos.org.pl/judgments/70736
+41473|2013-06-27|SO|VI P 70/10|Wyrok|40|https://www.saos.org.pl/judgments/41473

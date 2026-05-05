@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-500232|2024-10-21|SO|I Ns 544/24|Postanowienie|https://www.saos.org.pl/judgments/500232
-55074|2014-06-04|SO|III Ca 1649/13|Uzasadnienie|https://www.saos.org.pl/judgments/55074
+saos_id|date|court|case_number|type|score|saos_url
+55074|2014-06-04|SO|III Ca 1649/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/55074

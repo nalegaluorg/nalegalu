@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-85059|2007-01-23|SN|III CSK 275/06|Wyrok|https://www.saos.org.pl/judgments/85059
-163211|2005-04-28|SN|III CK 540/04|Wyrok|https://www.saos.org.pl/judgments/163211
+saos_id|date|court|case_number|type|score|saos_url
+85059|2007-01-23|SN|III CSK 275/06|Wyrok|78|https://www.saos.org.pl/judgments/85059
+163211|2005-04-28|SN|III CK 540/04|Wyrok|78|https://www.saos.org.pl/judgments/163211

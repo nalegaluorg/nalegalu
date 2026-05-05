@@ -1,17 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-527259|2025-04-14|SO|XX GC 1132/23|Uzasadnienie|https://www.saos.org.pl/judgments/527259
-509180|2023-11-22|SO|IV Ua 11/23|Wyrok|https://www.saos.org.pl/judgments/509180
-469197|2022-04-08|SO|VII Ua 38/21|Wyrok|https://www.saos.org.pl/judgments/469197
-341283|2018-03-08|SO|I C 1000/17|Wyrok|https://www.saos.org.pl/judgments/341283
-331093|2017-11-23|SO|VII Ua 76/17|Wyrok|https://www.saos.org.pl/judgments/331093
-324135|2017-08-01|SO|VI U 192/17|Wyrok|https://www.saos.org.pl/judgments/324135
-305106|2016-08-05|SO|II Ca 125/16|Wyrok|https://www.saos.org.pl/judgments/305106
-57551|2014-04-16|SO|I ACa 5/14|Wyrok|https://www.saos.org.pl/judgments/57551
-104262|2014-01-30|SN|III CZP 104/13|Uchwała|https://www.saos.org.pl/judgments/104262
-102035|2013-06-13|SN|I UK 19/13|Wyrok|https://www.saos.org.pl/judgments/102035
-2040|2012-02-14|SO|I ACa 1391/11|Wyrok|https://www.saos.org.pl/judgments/2040
-96691|2012-01-09|SN|I UK 212/11|Wyrok|https://www.saos.org.pl/judgments/96691
-95295|2011-06-28|SN|II PK 5/11|Wyrok|https://www.saos.org.pl/judgments/95295
-91190|2009-11-03|SN|II CSK 181/09|Wyrok|https://www.saos.org.pl/judgments/91190
-162987|2005-02-09|SN|III CK 301/04|Wyrok|https://www.saos.org.pl/judgments/162987
-83141|2005-01-20|SN|I UK 154/04|Wyrok|https://www.saos.org.pl/judgments/83141
+saos_id|date|court|case_number|type|score|saos_url
+104262|2014-01-30|SN|III CZP 104/13|Uchwała|89|https://www.saos.org.pl/judgments/104262
+102035|2013-06-13|SN|I UK 19/13|Wyrok|78|https://www.saos.org.pl/judgments/102035
+96691|2012-01-09|SN|I UK 212/11|Wyrok|78|https://www.saos.org.pl/judgments/96691
+95295|2011-06-28|SN|II PK 5/11|Wyrok|78|https://www.saos.org.pl/judgments/95295
+91190|2009-11-03|SN|II CSK 181/09|Wyrok|78|https://www.saos.org.pl/judgments/91190
+162987|2005-02-09|SN|III CK 301/04|Wyrok|78|https://www.saos.org.pl/judgments/162987
+83141|2005-01-20|SN|I UK 154/04|Wyrok|78|https://www.saos.org.pl/judgments/83141
+57551|2014-04-16|SO|I ACa 5/14|Wyrok|56|https://www.saos.org.pl/judgments/57551
+2040|2012-02-14|SO|I ACa 1391/11|Wyrok|56|https://www.saos.org.pl/judgments/2040
+469197|2022-04-08|SO|VII Ua 38/21|Wyrok|40|https://www.saos.org.pl/judgments/469197
+331093|2017-11-23|SO|VII Ua 76/17|Wyrok|40|https://www.saos.org.pl/judgments/331093
+324135|2017-08-01|SO|VI U 192/17|Wyrok|40|https://www.saos.org.pl/judgments/324135

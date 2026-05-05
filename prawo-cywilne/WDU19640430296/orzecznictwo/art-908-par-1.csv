@@ -1,15 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-532360|2025-04-30|SO|I C 579/23|Wyrok|https://www.saos.org.pl/judgments/532360
-234358|2016-06-27|SO|II Cz 402/16|Postanowienie|https://www.saos.org.pl/judgments/234358
-240666|2015-11-30|SO|XII 1Co 2983/15|Postanowienie|https://www.saos.org.pl/judgments/240666
-168526|2015-03-13|SN|III CZP 4/15|Uchwała|https://www.saos.org.pl/judgments/168526
-181587|2014-10-28|SO|I ACz 1971/14|Postanowienie|https://www.saos.org.pl/judgments/181587
-64206|2014-10-16|SO|IV Cz 606/14|Postanowienie|https://www.saos.org.pl/judgments/64206
-57399|2014-06-27|SO|I ACa 659/13|Wyrok|https://www.saos.org.pl/judgments/57399
-45467|2014-03-28|SO|XV Cz 347/14|Postanowienie|https://www.saos.org.pl/judgments/45467
-58368|2013-11-20|SO|II Cz 670/13|Postanowienie|https://www.saos.org.pl/judgments/58368
-38861|2013-10-31|SO|II Cz 1701/13|Postanowienie|https://www.saos.org.pl/judgments/38861
-38531|2013-10-31|SO|II Cz 1702/13|Postanowienie|https://www.saos.org.pl/judgments/38531
-101838|2013-05-22|SN|III CZP 28/13|Uchwała|https://www.saos.org.pl/judgments/101838
-979|2012-09-27|SO|I ACa 325/12|Wyrok|https://www.saos.org.pl/judgments/979
-83714|2005-09-14|SN|III CZP 57/05|Uchwała|https://www.saos.org.pl/judgments/83714
+saos_id|date|court|case_number|type|score|saos_url
+168526|2015-03-13|SN|III CZP 4/15|Uchwała|89|https://www.saos.org.pl/judgments/168526
+101838|2013-05-22|SN|III CZP 28/13|Uchwała|89|https://www.saos.org.pl/judgments/101838
+83714|2005-09-14|SN|III CZP 57/05|Uchwała|89|https://www.saos.org.pl/judgments/83714
+57399|2014-06-27|SO|I ACa 659/13|Wyrok|56|https://www.saos.org.pl/judgments/57399
+979|2012-09-27|SO|I ACa 325/12|Wyrok|56|https://www.saos.org.pl/judgments/979
+181587|2014-10-28|SO|I ACz 1971/14|Postanowienie|47|https://www.saos.org.pl/judgments/181587
+45467|2014-03-28|SO|XV Cz 347/14|Postanowienie|31|https://www.saos.org.pl/judgments/45467

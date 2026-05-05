@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-439075|2021-02-09|SO|V AGa 158/20|Wyrok|https://www.saos.org.pl/judgments/439075
-331042|2018-02-08|SO|V AGa 60/18|Wyrok|https://www.saos.org.pl/judgments/331042
-332586|2017-11-24|SO|I ACa 955/17|Wyrok|https://www.saos.org.pl/judgments/332586
-273573|2017-01-11|SO|I ACa 853/16|Wyrok|https://www.saos.org.pl/judgments/273573
-198588|2015-12-09|SO|III AUa 599/15|Wyrok|https://www.saos.org.pl/judgments/198588
-168695|2015-03-25|SN|II CSK 818/14|Wyrok|https://www.saos.org.pl/judgments/168695
-149201|2014-04-02|SO|XII Ga 591/13|Wyrok|https://www.saos.org.pl/judgments/149201
-103814|2013-12-12|SN|I PK 88/13|Wyrok|https://www.saos.org.pl/judgments/103814
-100338|2013-01-16|SN|II CSK 302/12|Wyrok|https://www.saos.org.pl/judgments/100338
-98347|2012-06-15|SN|II CSK 217/11|Wyrok|https://www.saos.org.pl/judgments/98347
+saos_id|date|court|case_number|type|score|saos_url
+168695|2015-03-25|SN|II CSK 818/14|Wyrok|78|https://www.saos.org.pl/judgments/168695
+103814|2013-12-12|SN|I PK 88/13|Wyrok|78|https://www.saos.org.pl/judgments/103814
+100338|2013-01-16|SN|II CSK 302/12|Wyrok|78|https://www.saos.org.pl/judgments/100338
+98347|2012-06-15|SN|II CSK 217/11|Wyrok|78|https://www.saos.org.pl/judgments/98347
+439075|2021-02-09|SO|V AGa 158/20|Wyrok|56|https://www.saos.org.pl/judgments/439075
+331042|2018-02-08|SO|V AGa 60/18|Wyrok|56|https://www.saos.org.pl/judgments/331042
+332586|2017-11-24|SO|I ACa 955/17|Wyrok|56|https://www.saos.org.pl/judgments/332586
+273573|2017-01-11|SO|I ACa 853/16|Wyrok|56|https://www.saos.org.pl/judgments/273573
+198588|2015-12-09|SO|III AUa 599/15|Wyrok|56|https://www.saos.org.pl/judgments/198588
+149201|2014-04-02|SO|XII Ga 591/13|Wyrok|40|https://www.saos.org.pl/judgments/149201

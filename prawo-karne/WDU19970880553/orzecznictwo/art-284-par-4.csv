@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-502871|2023-05-10|SO|II K 268/22|Wyrok|https://www.saos.org.pl/judgments/502871
-365827|2018-12-07|SO|VI Ka 510/18|Wyrok|https://www.saos.org.pl/judgments/365827
-280899|2017-03-28|SO|IV Ka 171/17|Uzasadnienie|https://www.saos.org.pl/judgments/280899
-280898|2017-03-28|SO|IV Ka 171/17|Wyrok|https://www.saos.org.pl/judgments/280898
-303927|2016-12-23|SO|II K 700/16|Wyrok|https://www.saos.org.pl/judgments/303927
-249859|2016-09-29|SO|II AKz 321/16|Postanowienie|https://www.saos.org.pl/judgments/249859
-227574|2016-05-06|SO|XVII Ka 228/16|Wyrok|https://www.saos.org.pl/judgments/227574
-245172|2016-04-20|SN|III KK 452/15|Postanowienie|https://www.saos.org.pl/judgments/245172
-236106|2015-11-24|SO|IV Ka 792/15|Wyrok|https://www.saos.org.pl/judgments/236106
-199924|2015-11-19|SO|I Ns 18/15|Postanowienie|https://www.saos.org.pl/judgments/199924
-183934|2014-02-27|SO|II Ka 30/14|Wyrok|https://www.saos.org.pl/judgments/183934
+saos_id|date|court|case_number|type|score|saos_url
+245172|2016-04-20|SN|III KK 452/15|Postanowienie|69|https://www.saos.org.pl/judgments/245172
+249859|2016-09-29|SO|II AKz 321/16|Postanowienie|47|https://www.saos.org.pl/judgments/249859
+227574|2016-05-06|SO|XVII Ka 228/16|Wyrok|40|https://www.saos.org.pl/judgments/227574

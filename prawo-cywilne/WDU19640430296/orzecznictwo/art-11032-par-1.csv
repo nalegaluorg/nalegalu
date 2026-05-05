@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-345102|2018-06-06|SO|III RC 172/17|Wyrok|https://www.saos.org.pl/judgments/345102
+saos_id|date|court|case_number|type|score|saos_url
+345102|2018-06-06|SO|III RC 172/17|Wyrok|40|https://www.saos.org.pl/judgments/345102

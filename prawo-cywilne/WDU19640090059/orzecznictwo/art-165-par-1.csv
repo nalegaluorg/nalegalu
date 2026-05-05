@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-433977|2019-05-08|SO|I AGa 274/18|Wyrok|https://www.saos.org.pl/judgments/433977
+saos_id|date|court|case_number|type|score|saos_url
+433977|2019-05-08|SO|I AGa 274/18|Wyrok|56|https://www.saos.org.pl/judgments/433977

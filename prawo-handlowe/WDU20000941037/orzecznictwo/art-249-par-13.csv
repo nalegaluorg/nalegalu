@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-148211|2013-11-12|SO|I ACa 574/13|Wyrok|https://www.saos.org.pl/judgments/148211
+saos_id|date|court|case_number|type|score|saos_url
+148211|2013-11-12|SO|I ACa 574/13|Wyrok|56|https://www.saos.org.pl/judgments/148211

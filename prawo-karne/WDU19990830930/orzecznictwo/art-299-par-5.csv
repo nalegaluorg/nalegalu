@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-258867|2016-05-25|SO|II AKa 51/16|Wyrok|https://www.saos.org.pl/judgments/258867
-186253|2015-08-24|SO|IV K 345/11|Uzasadnienie|https://www.saos.org.pl/judgments/186253
-125258|2014-12-16|SO|II AKa 230/14|Wyrok|https://www.saos.org.pl/judgments/125258
-46814|2014-05-06|SO|II Ka 24/14|Wyrok|https://www.saos.org.pl/judgments/46814
+saos_id|date|court|case_number|type|score|saos_url
+258867|2016-05-25|SO|II AKa 51/16|Wyrok|56|https://www.saos.org.pl/judgments/258867
+125258|2014-12-16|SO|II AKa 230/14|Wyrok|56|https://www.saos.org.pl/judgments/125258

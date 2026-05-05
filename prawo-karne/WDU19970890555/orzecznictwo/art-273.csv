@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-364648|2018-11-06|SO|XI W 3386/17|Wyrok|https://www.saos.org.pl/judgments/364648
-68219|2014-10-24|SO|IV Ka 442/14|Wyrok|https://www.saos.org.pl/judgments/68219
-136673|1998-03-26|SO|II AKa 31/98|Wyrok|https://www.saos.org.pl/judgments/136673
+saos_id|date|court|case_number|type|score|saos_url
+136673|1998-03-26|SO|II AKa 31/98|Wyrok|56|https://www.saos.org.pl/judgments/136673

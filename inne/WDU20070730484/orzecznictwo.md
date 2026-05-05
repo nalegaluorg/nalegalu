@@ -6,12 +6,12 @@ Orzeczenia powołujące: *Ustawa z dnia 16 marca 2007 r. o zmianie ustawy o Kraj
 
 ## art. 1 (1)
 
-- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok
+- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok ★
 
 ## art. 2 (2)
 
-- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok
-- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok
+- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok ★
+- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok ★
 
 ## art. 4 (1)
 
@@ -19,19 +19,19 @@ Orzeczenia powołujące: *Ustawa z dnia 16 marca 2007 r. o zmianie ustawy o Kraj
 
 ## art. 5 (2)
 
-- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok
-- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok
+- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok ★
+- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok ★
 
 ## art. 6 (2)
 
-- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok
-- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok
+- 2008-04-16 | TK | [K 40/07](https://www.saos.org.pl/judgments/108543) | Wyrok ★
+- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok ★
 
 ## art. 8 (1)
 
-- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok
+- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok ★
 
 ## art. 10 (1)
 
-- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok
+- 2007-07-18 | TK | [K 25/07](https://www.saos.org.pl/judgments/108072) | Wyrok ★
 

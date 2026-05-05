@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-245659|2014-02-21|SN|IV CSK 513/13|Postanowienie|https://www.saos.org.pl/judgments/245659
-87855|2008-04-16|SN|I CZ 11/08|Postanowienie|https://www.saos.org.pl/judgments/87855
+saos_id|date|court|case_number|type|score|saos_url
+245659|2014-02-21|SN|IV CSK 513/13|Postanowienie|69|https://www.saos.org.pl/judgments/245659
+87855|2008-04-16|SN|I CZ 11/08|Postanowienie|69|https://www.saos.org.pl/judgments/87855

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-455060|2021-12-08|SO|I C 954/20|Wyrok|https://www.saos.org.pl/judgments/455060
-67613|2013-07-05|SO|I ACa 547/13|Wyrok|https://www.saos.org.pl/judgments/67613
+saos_id|date|court|case_number|type|score|saos_url
+67613|2013-07-05|SO|I ACa 547/13|Wyrok|56|https://www.saos.org.pl/judgments/67613

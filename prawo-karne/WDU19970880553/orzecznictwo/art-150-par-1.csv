@@ -1,11 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-524689|2024-07-25|SO|II K 1010/23|Wyrok|https://www.saos.org.pl/judgments/524689
-514569|2024-03-25|SO|XII K 110/20|Wyrok|https://www.saos.org.pl/judgments/514569
-405929|2020-01-08|SO|VII Kz 634/19|Postanowienie|https://www.saos.org.pl/judgments/405929
-338594|2018-03-21|SO|II AKa 21/18|Wyrok|https://www.saos.org.pl/judgments/338594
-405648|2016-11-27|SO|X K 437/16|Wyrok|https://www.saos.org.pl/judgments/405648
-225881|2016-05-31|SO|VII Kzw 212/16|Postanowienie|https://www.saos.org.pl/judgments/225881
-128141|2014-12-19|SO|II AKa 267/14|Wyrok|https://www.saos.org.pl/judgments/128141
-22242|2013-10-09|SO|VII Ka 474/13|Wyrok|https://www.saos.org.pl/judgments/22242
-140148|2013-08-06|SO|II AKa 118/13|Wyrok|https://www.saos.org.pl/judgments/140148
-2095|2012-01-18|SO|I ACa 930/11|Wyrok|https://www.saos.org.pl/judgments/2095
+saos_id|date|court|case_number|type|score|saos_url
+338594|2018-03-21|SO|II AKa 21/18|Wyrok|56|https://www.saos.org.pl/judgments/338594
+128141|2014-12-19|SO|II AKa 267/14|Wyrok|56|https://www.saos.org.pl/judgments/128141
+140148|2013-08-06|SO|II AKa 118/13|Wyrok|56|https://www.saos.org.pl/judgments/140148
+2095|2012-01-18|SO|I ACa 930/11|Wyrok|56|https://www.saos.org.pl/judgments/2095
+405929|2020-01-08|SO|VII Kz 634/19|Postanowienie|31|https://www.saos.org.pl/judgments/405929
+225881|2016-05-31|SO|VII Kzw 212/16|Postanowienie|31|https://www.saos.org.pl/judgments/225881

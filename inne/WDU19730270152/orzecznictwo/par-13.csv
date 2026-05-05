@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-536744|2025-09-15|SO|II AKa 206/24|Uzasadnienie|https://www.saos.org.pl/judgments/536744
-204579|2015-08-26|SO|II Ka 262/15|Wyrok|https://www.saos.org.pl/judgments/204579
-158218|2015-06-03|SO|IV Ka 391/15|Wyrok|https://www.saos.org.pl/judgments/158218
+saos_id|date|court|case_number|type|score|saos_url
+536744|2025-09-15|SO|II AKa 206/24|Uzasadnienie|42|https://www.saos.org.pl/judgments/536744

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-530865|2025-06-18|SO|VII Pa 74/24|Wyrok|https://www.saos.org.pl/judgments/530865
+saos_id|date|court|case_number|type|score|saos_url
+530865|2025-06-18|SO|VII Pa 74/24|Wyrok|40|https://www.saos.org.pl/judgments/530865

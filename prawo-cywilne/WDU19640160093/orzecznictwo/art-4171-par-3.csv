@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-321681|2017-11-30|SO|V ACa 189/17|Wyrok|https://www.saos.org.pl/judgments/321681
-213248|2015-05-05|SO|I C 100/15|Wyrok|https://www.saos.org.pl/judgments/213248
-213267|2015-04-16|SO|I C 1661/14|Wyrok|https://www.saos.org.pl/judgments/213267
-213270|2015-03-12|SO|I C 185/14|Wyrok|https://www.saos.org.pl/judgments/213270
-69939|2014-09-19|SO|I ACa 295/14|Wyrok|https://www.saos.org.pl/judgments/69939
-10222|2013-03-13|SO|I ACa 1046/11|Wyrok|https://www.saos.org.pl/judgments/10222
+saos_id|date|court|case_number|type|score|saos_url
+321681|2017-11-30|SO|V ACa 189/17|Wyrok|56|https://www.saos.org.pl/judgments/321681
+69939|2014-09-19|SO|I ACa 295/14|Wyrok|56|https://www.saos.org.pl/judgments/69939
+10222|2013-03-13|SO|I ACa 1046/11|Wyrok|56|https://www.saos.org.pl/judgments/10222

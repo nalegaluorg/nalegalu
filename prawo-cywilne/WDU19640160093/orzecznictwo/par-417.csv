@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-125654|2014-09-19|SO|VI ACa 1790/13|Wyrok|https://www.saos.org.pl/judgments/125654
-49|2012-09-12|SO|I ACa 788/12|Wyrok|https://www.saos.org.pl/judgments/49
+saos_id|date|court|case_number|type|score|saos_url
+125654|2014-09-19|SO|VI ACa 1790/13|Wyrok|56|https://www.saos.org.pl/judgments/125654
+49|2012-09-12|SO|I ACa 788/12|Wyrok|56|https://www.saos.org.pl/judgments/49

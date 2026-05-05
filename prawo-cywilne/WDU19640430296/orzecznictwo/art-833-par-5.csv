@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-442075|2021-06-10|SO|VII Ka 362/21|Wyrok|https://www.saos.org.pl/judgments/442075
-456970|2019-05-09|SO|III AUa 305/18|Wyrok|https://www.saos.org.pl/judgments/456970
-341533|2017-12-19|SO|I C 323/17|Wyrok|https://www.saos.org.pl/judgments/341533
-208341|2016-02-18|SO|IV U 507/15|Wyrok|https://www.saos.org.pl/judgments/208341
-215986|2015-07-08|SO|I C 1594/14|Wyrok|https://www.saos.org.pl/judgments/215986
-190579|2015-07-07|SO|III Cz 614/15|Postanowienie|https://www.saos.org.pl/judgments/190579
-89100|2008-11-06|SN|III CZP 106/08|Uchwała|https://www.saos.org.pl/judgments/89100
-107883|2006-02-08|TK|Ts 151/05|Postanowienie|https://www.saos.org.pl/judgments/107883
-107441|2005-11-30|TK|Ts 151/05|Postanowienie|https://www.saos.org.pl/judgments/107441
+saos_id|date|court|case_number|type|score|saos_url
+89100|2008-11-06|SN|III CZP 106/08|Uchwała|89|https://www.saos.org.pl/judgments/89100
+107883|2006-02-08|TK|Ts 151/05|Postanowienie|80|https://www.saos.org.pl/judgments/107883
+107441|2005-11-30|TK|Ts 151/05|Postanowienie|80|https://www.saos.org.pl/judgments/107441
+456970|2019-05-09|SO|III AUa 305/18|Wyrok|56|https://www.saos.org.pl/judgments/456970
+341533|2017-12-19|SO|I C 323/17|Wyrok|40|https://www.saos.org.pl/judgments/341533

@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-496897|2024-08-01|SO|I C 2297/23|Wyrok|https://www.saos.org.pl/judgments/496897
+saos_id|date|court|case_number|type|score|saos_url
+533560|2023-11-20|SO|II Ca 1347/23|Postanowienie|31|https://www.saos.org.pl/judgments/533560
+501654|2023-08-07|SO|II Ca 1340/23|Postanowienie|31|https://www.saos.org.pl/judgments/501654
+530132|2024-02-22|SO|III Ca 2500/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/530132
+529943|2024-02-12|SO|III Ca 2408/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/529943

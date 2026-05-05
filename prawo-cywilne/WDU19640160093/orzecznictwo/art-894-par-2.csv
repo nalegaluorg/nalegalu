@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-414421|2019-11-18|SO|I ACa 820/18|Wyrok|https://www.saos.org.pl/judgments/414421
-356962|2018-09-14|SO|V ACa 899/17|Wyrok|https://www.saos.org.pl/judgments/356962
-336486|2017-11-08|SO|I ACa 505/17|Wyrok|https://www.saos.org.pl/judgments/336486
-272924|2016-12-06|SO|VI ACa 1457/15|Wyrok|https://www.saos.org.pl/judgments/272924
-228553|2016-03-23|SO|I C 587/15|Wyrok|https://www.saos.org.pl/judgments/228553
-244427|2016-01-27|SN|II CSK 153/15|Wyrok|https://www.saos.org.pl/judgments/244427
-155531|2015-04-28|SO|I ACa 1617/14|Wyrok|https://www.saos.org.pl/judgments/155531
-131317|2014-09-18|SO|I ACa 65/14|Wyrok|https://www.saos.org.pl/judgments/131317
-37205|2013-10-16|SO|II Ca 242/13|Wyrok|https://www.saos.org.pl/judgments/37205
-23258|2010-04-09|SO|I ACa 26/10|Postanowienie|https://www.saos.org.pl/judgments/23258
-84231|2006-04-07|SN|III CZP 22/06|Uchwała|https://www.saos.org.pl/judgments/84231
+saos_id|date|court|case_number|type|score|saos_url
+84231|2006-04-07|SN|III CZP 22/06|Uchwała|89|https://www.saos.org.pl/judgments/84231
+244427|2016-01-27|SN|II CSK 153/15|Wyrok|78|https://www.saos.org.pl/judgments/244427
+414421|2019-11-18|SO|I ACa 820/18|Wyrok|56|https://www.saos.org.pl/judgments/414421
+356962|2018-09-14|SO|V ACa 899/17|Wyrok|56|https://www.saos.org.pl/judgments/356962
+336486|2017-11-08|SO|I ACa 505/17|Wyrok|56|https://www.saos.org.pl/judgments/336486
+272924|2016-12-06|SO|VI ACa 1457/15|Wyrok|56|https://www.saos.org.pl/judgments/272924
+155531|2015-04-28|SO|I ACa 1617/14|Wyrok|56|https://www.saos.org.pl/judgments/155531
+131317|2014-09-18|SO|I ACa 65/14|Wyrok|56|https://www.saos.org.pl/judgments/131317
+23258|2010-04-09|SO|I ACa 26/10|Postanowienie|47|https://www.saos.org.pl/judgments/23258

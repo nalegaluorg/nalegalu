@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-315257|2016-10-14|SO|XXVII Ca 2922/16|Wyrok|https://www.saos.org.pl/judgments/315257
-248011|2016-04-27|SO|VI ACa 232/15|Wyrok|https://www.saos.org.pl/judgments/248011
-191310|2015-08-27|SO|III Ca 1010/15|Uzasadnienie|https://www.saos.org.pl/judgments/191310
+saos_id|date|court|case_number|type|score|saos_url
+248011|2016-04-27|SO|VI ACa 232/15|Wyrok|56|https://www.saos.org.pl/judgments/248011
+191310|2015-08-27|SO|III Ca 1010/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/191310

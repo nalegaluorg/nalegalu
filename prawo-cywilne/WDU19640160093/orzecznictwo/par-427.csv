@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-526039|2020-11-17|SO|XII Ga 954/19|Wyrok|https://www.saos.org.pl/judgments/526039
-423171|2020-06-17|SO|I C 493/14|Wyrok|https://www.saos.org.pl/judgments/423171
-427187|2019-12-03|SO|I C 1231/17|Wyrok|https://www.saos.org.pl/judgments/427187
-214272|2016-01-26|SO|I C 596/11|Wyrok|https://www.saos.org.pl/judgments/214272
-137141|2013-02-12|SO|I C 393/10|Wyrok|https://www.saos.org.pl/judgments/137141
+saos_id|date|court|case_number|type|score|saos_url
+526039|2020-11-17|SO|XII Ga 954/19|Wyrok|40|https://www.saos.org.pl/judgments/526039
+423171|2020-06-17|SO|I C 493/14|Wyrok|40|https://www.saos.org.pl/judgments/423171

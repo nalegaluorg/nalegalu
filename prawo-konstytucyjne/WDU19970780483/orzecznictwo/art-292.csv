@@ -1,14 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-514465|2024-05-21|SO|X Ns 90/19|Postanowienie|https://www.saos.org.pl/judgments/514465
-514463|2024-05-21|SO|X Ns 224/18|Postanowienie|https://www.saos.org.pl/judgments/514463
-514462|2024-05-21|SO|X Ns 214/18|Postanowienie|https://www.saos.org.pl/judgments/514462
-514461|2024-05-21|SO|X Ns 186/18|Postanowienie|https://www.saos.org.pl/judgments/514461
-514460|2024-05-21|SO|X Ns 179/18|Postanowienie|https://www.saos.org.pl/judgments/514460
-514459|2024-05-21|SO|X Ns 1157/19|Postanowienie|https://www.saos.org.pl/judgments/514459
-471659|2021-11-15|SO|II Ca 295/21|Postanowienie|https://www.saos.org.pl/judgments/471659
-449801|2021-10-14|SO|I Ca 418/21|Postanowienie|https://www.saos.org.pl/judgments/449801
-414183|2020-02-14|SO|II Ca 1226/19|Postanowienie|https://www.saos.org.pl/judgments/414183
-385932|2019-04-25|SO|II Ca 143/19|Postanowienie|https://www.saos.org.pl/judgments/385932
-363929|2018-09-18|SO|III Ca 2151/17|Postanowienie|https://www.saos.org.pl/judgments/363929
-501792|2016-04-21|SO|II Ca 204/16|Postanowienie|https://www.saos.org.pl/judgments/501792
-216060|2016-04-01|SO|I Ns 1843/15|Postanowienie|https://www.saos.org.pl/judgments/216060
+saos_id|date|court|case_number|type|score|saos_url
+471659|2021-11-15|SO|II Ca 295/21|Postanowienie|31|https://www.saos.org.pl/judgments/471659

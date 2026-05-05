@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-165630|2014-02-20|SN|I CSK 264/13|Wyrok|https://www.saos.org.pl/judgments/165630
-205941|1999-02-25|TK|K 23/98|Wyrok|https://www.saos.org.pl/judgments/205941
+saos_id|date|court|case_number|type|score|saos_url
+205941|1999-02-25|TK|K 23/98|Wyrok|98|https://www.saos.org.pl/judgments/205941
+165630|2014-02-20|SN|I CSK 264/13|Wyrok|78|https://www.saos.org.pl/judgments/165630

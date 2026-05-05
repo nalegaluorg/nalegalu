@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-168841|2015-04-16|SN|I PK 217/14|Wyrok|https://www.saos.org.pl/judgments/168841
-37720|2014-01-31|SO|II Ka 5/14|Wyrok|https://www.saos.org.pl/judgments/37720
-8147|2012-10-09|SO|V ACa 578/12|Wyrok|https://www.saos.org.pl/judgments/8147
-81734|2002-12-05|SN|I PKN 620/01|Wyrok|https://www.saos.org.pl/judgments/81734
+saos_id|date|court|case_number|type|score|saos_url
+168841|2015-04-16|SN|I PK 217/14|Wyrok|78|https://www.saos.org.pl/judgments/168841
+81734|2002-12-05|SN|I PKN 620/01|Wyrok|78|https://www.saos.org.pl/judgments/81734
+8147|2012-10-09|SO|V ACa 578/12|Wyrok|56|https://www.saos.org.pl/judgments/8147

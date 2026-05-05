@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-409782|2019-06-12|SO|VI Pa 26/19|Wyrok|https://www.saos.org.pl/judgments/409782
-184213|2015-09-09|SO|III AUa 1555/14|Wyrok|https://www.saos.org.pl/judgments/184213
+saos_id|date|court|case_number|type|score|saos_url
+184213|2015-09-09|SO|III AUa 1555/14|Wyrok|56|https://www.saos.org.pl/judgments/184213

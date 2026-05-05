@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-512746|2023-08-31|SO|VIII Ga 84/23|Uzasadnienie|https://www.saos.org.pl/judgments/512746
-366486|2018-05-24|SO|V ACa 318/17|Wyrok|https://www.saos.org.pl/judgments/366486
+saos_id|date|court|case_number|type|score|saos_url
+366486|2018-05-24|SO|V ACa 318/17|Wyrok|56|https://www.saos.org.pl/judgments/366486

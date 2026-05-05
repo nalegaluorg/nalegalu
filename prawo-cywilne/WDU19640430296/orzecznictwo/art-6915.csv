@@ -1,11 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-521071|2024-12-19|SO|VII Ua 74/24|Wyrok|https://www.saos.org.pl/judgments/521071
-512305|2024-01-24|SO|VII Ua 60/23|Wyrok|https://www.saos.org.pl/judgments/512305
-512307|2023-10-26|SO|VII Ua 62/23|Wyrok|https://www.saos.org.pl/judgments/512307
-175471|2015-08-13|SO|IX Ga 283/15|Wyrok|https://www.saos.org.pl/judgments/175471
-158820|2015-01-14|SO|VI ACa 458/14|Wyrok|https://www.saos.org.pl/judgments/158820
-101833|2013-05-22|SN|III CZP 17/13|Uchwała|https://www.saos.org.pl/judgments/101833
-96968|2012-01-24|SN|III UZP 3/11|Uchwała|https://www.saos.org.pl/judgments/96968
-88447|2008-07-08|SN|III CZP 154/07|Uchwała|https://www.saos.org.pl/judgments/88447
-84415|2006-06-28|SN|III CZP 27/06|Uchwała|https://www.saos.org.pl/judgments/84415
-82778|2004-07-28|SN|III CZP 32/04|Uchwała|https://www.saos.org.pl/judgments/82778
+saos_id|date|court|case_number|type|score|saos_url
+88447|2008-07-08|SN|III CZP 154/07|Uchwała|96|https://www.saos.org.pl/judgments/88447
+101833|2013-05-22|SN|III CZP 17/13|Uchwała|89|https://www.saos.org.pl/judgments/101833
+96968|2012-01-24|SN|III UZP 3/11|Uchwała|89|https://www.saos.org.pl/judgments/96968
+84415|2006-06-28|SN|III CZP 27/06|Uchwała|89|https://www.saos.org.pl/judgments/84415
+82778|2004-07-28|SN|III CZP 32/04|Uchwała|89|https://www.saos.org.pl/judgments/82778
+158820|2015-01-14|SO|VI ACa 458/14|Wyrok|56|https://www.saos.org.pl/judgments/158820
+521071|2024-12-19|SO|VII Ua 74/24|Wyrok|40|https://www.saos.org.pl/judgments/521071
+512305|2024-01-24|SO|VII Ua 60/23|Wyrok|40|https://www.saos.org.pl/judgments/512305
+512307|2023-10-26|SO|VII Ua 62/23|Wyrok|40|https://www.saos.org.pl/judgments/512307

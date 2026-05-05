@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-528968|2024-08-09|SO|VIII C 1312/22|Wyrok|https://www.saos.org.pl/judgments/528968
-435364|2020-12-17|SO|II Ca 1315/20|Postanowienie|https://www.saos.org.pl/judgments/435364
-168044|2015-01-20|SN|V CSK 210/14|Wyrok|https://www.saos.org.pl/judgments/168044
-48599|2014-05-09|SO|XII C 2342/13|Wyrok|https://www.saos.org.pl/judgments/48599
-35974|2013-11-14|SO|V ACa 451/13|Wyrok|https://www.saos.org.pl/judgments/35974
-83286|2005-03-17|SN|I KZP 4/05|Uchwała|https://www.saos.org.pl/judgments/83286
+saos_id|date|court|case_number|type|score|saos_url
+83286|2005-03-17|SN|I KZP 4/05|Uchwała|89|https://www.saos.org.pl/judgments/83286
+168044|2015-01-20|SN|V CSK 210/14|Wyrok|78|https://www.saos.org.pl/judgments/168044
+35974|2013-11-14|SO|V ACa 451/13|Wyrok|56|https://www.saos.org.pl/judgments/35974
+48599|2014-05-09|SO|XII C 2342/13|Wyrok|40|https://www.saos.org.pl/judgments/48599

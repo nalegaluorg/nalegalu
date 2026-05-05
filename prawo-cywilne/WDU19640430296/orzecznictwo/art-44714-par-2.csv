@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-454201|2021-12-09|SO|III AUa 568/21|Wyrok|https://www.saos.org.pl/judgments/454201
+saos_id|date|court|case_number|type|score|saos_url
+438554|2021-03-29|SO|III AUa 1738/20|Wyrok|56|https://www.saos.org.pl/judgments/438554
+378586|2018-05-23|SO|III AUa 628/17|Wyrok|56|https://www.saos.org.pl/judgments/378586
+444450|2017-06-13|SO|III AUa 2205/16|Wyrok|56|https://www.saos.org.pl/judgments/444450
+53366|2014-07-03|SO|III AUa 227/14|Wyrok|56|https://www.saos.org.pl/judgments/53366
+29766|2013-10-11|SO|III AUa 585/13|Wyrok|56|https://www.saos.org.pl/judgments/29766
+11197|2013-04-25|SO|III AUa 122/13|Wyrok|56|https://www.saos.org.pl/judgments/11197
+9481|2013-03-26|SO|III AUa 14/13|Wyrok|56|https://www.saos.org.pl/judgments/9481
+7511|2013-03-06|SO|III AUa 1235/12|Wyrok|56|https://www.saos.org.pl/judgments/7511
+3510|2012-12-13|SO|III AUa 940/12|Wyrok|56|https://www.saos.org.pl/judgments/3510

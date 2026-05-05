@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-342136|2018-06-04|SO|VIII Ua 8/18|Uzasadnienie|https://www.saos.org.pl/judgments/342136
-188187|2015-10-07|SO|VII P 585/15|Wyrok|https://www.saos.org.pl/judgments/188187
-533492|2014-03-31|SO|III AUa 1308/13|Wyrok|https://www.saos.org.pl/judgments/533492
-28032|2013-11-15|SO|VI Pa 94/12|Wyrok|https://www.saos.org.pl/judgments/28032
+saos_id|date|court|case_number|type|score|saos_url
+533492|2014-03-31|SO|III AUa 1308/13|Wyrok|56|https://www.saos.org.pl/judgments/533492
+342136|2018-06-04|SO|VIII Ua 8/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/342136

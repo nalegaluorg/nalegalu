@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 23 października 2013 r. o zmianie ustaw
 
 ## art. 2 (1)
 
-- 2014-06-10 | SN | [III KK 140/14](https://www.saos.org.pl/judgments/166029) | Wyrok
+- 2014-06-10 | SN | [III KK 140/14](https://www.saos.org.pl/judgments/166029) | Wyrok ★
 
 ## art. 70 (1)
 

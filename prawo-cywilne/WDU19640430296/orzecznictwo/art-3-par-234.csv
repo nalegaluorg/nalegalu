@@ -1,13 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-452762|2021-07-12|SO|III U 134/21|Wyrok|https://www.saos.org.pl/judgments/452762
-452766|2021-04-29|SO|III U 187/21|Wyrok|https://www.saos.org.pl/judgments/452766
-452760|2021-04-16|SO|III U 130/21|Wyrok|https://www.saos.org.pl/judgments/452760
-452209|2021-04-16|SO|III U 189/21|Wyrok|https://www.saos.org.pl/judgments/452209
-434868|2021-02-11|SO|III AUa 885/20|Wyrok|https://www.saos.org.pl/judgments/434868
-452797|2020-10-23|SO|III U 916/19|Wyrok|https://www.saos.org.pl/judgments/452797
-467507|2020-02-14|SO|III U 961/19|Wyrok|https://www.saos.org.pl/judgments/467507
-467506|2020-02-14|SO|III U 820/19|Wyrok|https://www.saos.org.pl/judgments/467506
-452757|2020-02-14|SO|III U 1001/19|Wyrok|https://www.saos.org.pl/judgments/452757
-433469|2019-12-11|SO|III U 774/19|Wyrok|https://www.saos.org.pl/judgments/433469
-5596|2013-01-17|SO|III AUa 957/12|Wyrok|https://www.saos.org.pl/judgments/5596
-76569|1994-06-16|SN|II PZP 4/94|Uchwała|https://www.saos.org.pl/judgments/76569
+saos_id|date|court|case_number|type|score|saos_url
+76569|1994-06-16|SN|II PZP 4/94|Uchwała|96|https://www.saos.org.pl/judgments/76569
+434868|2021-02-11|SO|III AUa 885/20|Wyrok|56|https://www.saos.org.pl/judgments/434868
+5596|2013-01-17|SO|III AUa 957/12|Wyrok|56|https://www.saos.org.pl/judgments/5596

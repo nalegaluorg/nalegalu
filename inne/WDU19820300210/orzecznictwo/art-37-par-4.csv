@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-407286|2019-09-11|SO|I ACa 1254/18|Wyrok|https://www.saos.org.pl/judgments/407286
-219941|2015-11-26|SO|VI ACa 1359/14|Wyrok|https://www.saos.org.pl/judgments/219941
-68617|2014-05-23|SO|I ACa 377/14|Wyrok|https://www.saos.org.pl/judgments/68617
+saos_id|date|court|case_number|type|score|saos_url
+407286|2019-09-11|SO|I ACa 1254/18|Wyrok|56|https://www.saos.org.pl/judgments/407286
+219941|2015-11-26|SO|VI ACa 1359/14|Wyrok|56|https://www.saos.org.pl/judgments/219941
+68617|2014-05-23|SO|I ACa 377/14|Wyrok|56|https://www.saos.org.pl/judgments/68617

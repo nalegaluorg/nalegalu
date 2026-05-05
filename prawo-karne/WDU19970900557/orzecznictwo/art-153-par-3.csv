@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-268366|2016-11-23|SO|III Kow 1351/16|Postanowienie|https://www.saos.org.pl/judgments/268366
-176672|2015-08-06|SO|III Kow 2179/14|Postanowienie|https://www.saos.org.pl/judgments/176672
-158451|2015-06-18|SO|IV Kow 303/15|Postanowienie|https://www.saos.org.pl/judgments/158451
-138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|https://www.saos.org.pl/judgments/138247
+saos_id|date|court|case_number|type|score|saos_url
+138247|2013-04-17|SO|II AKzw 665/13|Postanowienie|47|https://www.saos.org.pl/judgments/138247

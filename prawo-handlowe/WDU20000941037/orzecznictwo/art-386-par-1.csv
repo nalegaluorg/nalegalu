@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-490202|2022-07-14|SO|II AKa 109/22|Uzasadnienie|https://www.saos.org.pl/judgments/490202
-379731|2019-01-03|SO|V ACa 716/17|Wyrok|https://www.saos.org.pl/judgments/379731
-364324|2018-11-08|SO|V ACa 785/17|Wyrok|https://www.saos.org.pl/judgments/364324
-355351|2018-07-26|SO|V ACa 597/17|Wyrok|https://www.saos.org.pl/judgments/355351
-322247|2017-09-22|SO|I ACa 111/17|Wyrok|https://www.saos.org.pl/judgments/322247
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-92696|2010-07-21|SN|III CZP 23/10|Uchwała|https://www.saos.org.pl/judgments/92696
-108995|2009-07-15|TK|K 64/07|Wyrok|https://www.saos.org.pl/judgments/108995
-86763|2007-10-24|SN|IV CSK 260/07|Wyrok|https://www.saos.org.pl/judgments/86763
+saos_id|date|court|case_number|type|score|saos_url
+108995|2009-07-15|TK|K 64/07|Wyrok|98|https://www.saos.org.pl/judgments/108995
+92696|2010-07-21|SN|III CZP 23/10|Uchwała|89|https://www.saos.org.pl/judgments/92696
+86763|2007-10-24|SN|IV CSK 260/07|Wyrok|78|https://www.saos.org.pl/judgments/86763
+379731|2019-01-03|SO|V ACa 716/17|Wyrok|56|https://www.saos.org.pl/judgments/379731
+364324|2018-11-08|SO|V ACa 785/17|Wyrok|56|https://www.saos.org.pl/judgments/364324
+355351|2018-07-26|SO|V ACa 597/17|Wyrok|56|https://www.saos.org.pl/judgments/355351
+322247|2017-09-22|SO|I ACa 111/17|Wyrok|56|https://www.saos.org.pl/judgments/322247
+490202|2022-07-14|SO|II AKa 109/22|Uzasadnienie|42|https://www.saos.org.pl/judgments/490202

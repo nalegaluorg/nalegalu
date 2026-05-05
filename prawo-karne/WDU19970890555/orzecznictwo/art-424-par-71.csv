@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-166912|2014-10-10|SN|SNO 37/14|Wyrok|https://www.saos.org.pl/judgments/166912
+saos_id|date|court|case_number|type|score|saos_url
+166912|2014-10-10|SN|SNO 37/14|Wyrok|78|https://www.saos.org.pl/judgments/166912

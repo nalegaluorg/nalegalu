@@ -2,20 +2,12 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 29 listopada 2000 r. Prawo atomowe.*
 
-Łącznie: **7** orzeczeń
+Łącznie: **4** orzeczeń
+(pominięto 3 orzeczeń sądów rejonowych)
 
-## art. 3 (1)
-
-- 2023-08-23 | SO | [VI U 375/23](https://www.saos.org.pl/judgments/511587) | Wyrok
-
-## art. 33 (2)
+## art. 33 (1)
 
 - 2014-06-27 | SO | [I ACa 842/13](https://www.saos.org.pl/judgments/124858) | Wyrok
-- 2013-03-13 | SO | [II K 63/10](https://www.saos.org.pl/judgments/128152) | Wyrok
-
-## art. 100 (1)
-
-- 2024-03-08 | SO | [I C 706/22](https://www.saos.org.pl/judgments/499135) | Uzasadnienie
 
 ## (ogólnie) (3)
 

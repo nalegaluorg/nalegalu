@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-401263|2019-12-20|SO|II K 308/19|Wyrok|https://www.saos.org.pl/judgments/401263
-155385|2015-04-30|SO|XVII Ka 279/15|Wyrok|https://www.saos.org.pl/judgments/155385
-45335|2014-04-14|SO|VI Ka 48/14|Wyrok|https://www.saos.org.pl/judgments/45335
+saos_id|date|court|case_number|type|score|saos_url
+155385|2015-04-30|SO|XVII Ka 279/15|Wyrok|40|https://www.saos.org.pl/judgments/155385
+45335|2014-04-14|SO|VI Ka 48/14|Wyrok|40|https://www.saos.org.pl/judgments/45335

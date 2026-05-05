@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 24 październi
 
 ## art. 135 (1)
 
-- 2007-11-21 | TK | [SK 92/06](https://www.saos.org.pl/judgments/108200) | Postanowienie
+- 2007-11-21 | TK | [SK 92/06](https://www.saos.org.pl/judgments/108200) | Postanowienie ★
 
 ## art. 439 § 1 (1)
 

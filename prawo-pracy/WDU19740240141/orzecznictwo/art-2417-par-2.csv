@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-342966|2018-03-01|SO|VIII Pa 193/17|Wyrok|https://www.saos.org.pl/judgments/342966
-311534|2017-09-21|SO|VIII Pa 140/17|Wyrok|https://www.saos.org.pl/judgments/311534
-267249|2016-12-08|SO|VIII Pa 138/16|Wyrok|https://www.saos.org.pl/judgments/267249
-98714|2012-07-26|SN|I PK 24/12|Wyrok|https://www.saos.org.pl/judgments/98714
-98713|2012-07-26|SN|I PK 23/12|Wyrok|https://www.saos.org.pl/judgments/98713
+saos_id|date|court|case_number|type|score|saos_url
+98714|2012-07-26|SN|I PK 24/12|Wyrok|78|https://www.saos.org.pl/judgments/98714
+98713|2012-07-26|SN|I PK 23/12|Wyrok|78|https://www.saos.org.pl/judgments/98713

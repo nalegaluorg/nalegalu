@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-436582|2019-01-17|SO|II AKa 550/18|Wyrok|https://www.saos.org.pl/judgments/436582
+saos_id|date|court|case_number|type|score|saos_url
+436582|2019-01-17|SO|II AKa 550/18|Wyrok|56|https://www.saos.org.pl/judgments/436582

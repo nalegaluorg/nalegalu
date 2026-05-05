@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 21 grudnia 2001 o zmianie ustawy o upraw
 
 ## art. 4 (1)
 
-- 2004-03-09 | TK | [K 12/02](https://www.saos.org.pl/judgments/106699) | Wyrok
+- 2004-03-09 | TK | [K 12/02](https://www.saos.org.pl/judgments/106699) | Wyrok ★
 

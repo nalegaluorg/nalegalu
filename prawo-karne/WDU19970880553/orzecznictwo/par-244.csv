@@ -1,11 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-502899|2023-09-22|SO|II K 283/22|Wyrok|https://www.saos.org.pl/judgments/502899
-421467|2018-01-17|SO|II AKz 10/18|Postanowienie|https://www.saos.org.pl/judgments/421467
-288019|2016-12-29|SO|II K 720/16|Wyrok|https://www.saos.org.pl/judgments/288019
-296560|2016-12-23|SO|II K 769/16|Wyrok|https://www.saos.org.pl/judgments/296560
-219892|2016-01-13|SO|IV Kow 1670/15|Postanowienie|https://www.saos.org.pl/judgments/219892
-219883|2016-01-13|SO|IV Kow 1185/15|Postanowienie|https://www.saos.org.pl/judgments/219883
-169428|2015-06-26|SO|II Kop 12/15|Postanowienie|https://www.saos.org.pl/judgments/169428
-46102|2014-03-24|SO|IX Ka 1432/13|Wyrok|https://www.saos.org.pl/judgments/46102
-4299|2012-12-21|SO|III Kop 247/12|Postanowienie|https://www.saos.org.pl/judgments/4299
-93832|2011-01-05|SN|IV KK 291/10|Wyrok|https://www.saos.org.pl/judgments/93832
+saos_id|date|court|case_number|type|score|saos_url
+93832|2011-01-05|SN|IV KK 291/10|Wyrok|78|https://www.saos.org.pl/judgments/93832
+421467|2018-01-17|SO|II AKz 10/18|Postanowienie|47|https://www.saos.org.pl/judgments/421467
+169428|2015-06-26|SO|II Kop 12/15|Postanowienie|31|https://www.saos.org.pl/judgments/169428

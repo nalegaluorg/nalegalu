@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-460182|2022-02-18|SO|IV P 23/21|Wyrok|https://www.saos.org.pl/judgments/460182
-83179|2005-01-26|SN|II PK 197/04|Wyrok|https://www.saos.org.pl/judgments/83179
-80130|2000-12-05|SN|I PKN 121/00|Wyrok|https://www.saos.org.pl/judgments/80130
+saos_id|date|court|case_number|type|score|saos_url
+83179|2005-01-26|SN|II PK 197/04|Wyrok|78|https://www.saos.org.pl/judgments/83179
+80130|2000-12-05|SN|I PKN 121/00|Wyrok|78|https://www.saos.org.pl/judgments/80130

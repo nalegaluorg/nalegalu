@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-487514|2023-04-19|SO|VIII U 1350/22|Uzasadnienie|https://www.saos.org.pl/judgments/487514
-486084|2023-04-11|SO|VIII U 1519/22|Uzasadnienie|https://www.saos.org.pl/judgments/486084
-510416|2022-03-22|SO|V U 151/22|Wyrok|https://www.saos.org.pl/judgments/510416
-332192|2018-02-21|SO|IV Ua 34/17|Wyrok|https://www.saos.org.pl/judgments/332192
-83139|2005-01-20|SN|I PK 152/04|Wyrok|https://www.saos.org.pl/judgments/83139
+saos_id|date|court|case_number|type|score|saos_url
+83139|2005-01-20|SN|I PK 152/04|Wyrok|78|https://www.saos.org.pl/judgments/83139
+487514|2023-04-19|SO|VIII U 1350/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/487514
+486084|2023-04-11|SO|VIII U 1519/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/486084

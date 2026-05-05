@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-244668|2016-02-26|SN|IV CSK 367/15|Wyrok|https://www.saos.org.pl/judgments/244668
-138955|2013-04-24|SO|I Ca 135/13|Wyrok|https://www.saos.org.pl/judgments/138955
-138483|2013-04-24|SO|I Ca 133/13|Wyrok|https://www.saos.org.pl/judgments/138483
-138394|2013-04-10|SO|I Ca 107/13|Wyrok|https://www.saos.org.pl/judgments/138394
-205507|1992-08-20|TK|K 4/92|Wyrok|https://www.saos.org.pl/judgments/205507
-205421|1989-04-12|TK|Uw 9/88|Wyrok|https://www.saos.org.pl/judgments/205421
+saos_id|date|court|case_number|type|score|saos_url
+205507|1992-08-20|TK|K 4/92|Wyrok|98|https://www.saos.org.pl/judgments/205507
+205421|1989-04-12|TK|Uw 9/88|Wyrok|98|https://www.saos.org.pl/judgments/205421
+244668|2016-02-26|SN|IV CSK 367/15|Wyrok|78|https://www.saos.org.pl/judgments/244668

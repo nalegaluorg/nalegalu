@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-538668|2025-11-27|SO|I ACa 1268/25|Wyrok|https://www.saos.org.pl/judgments/538668
-476372|2022-08-30|SO|I ACa 911/21|Wyrok|https://www.saos.org.pl/judgments/476372
-210747|2015-10-01|SO|I ACa 438/15|Wyrok|https://www.saos.org.pl/judgments/210747
+saos_id|date|court|case_number|type|score|saos_url
+538668|2025-11-27|SO|I ACa 1268/25|Wyrok|56|https://www.saos.org.pl/judgments/538668
+476372|2022-08-30|SO|I ACa 911/21|Wyrok|56|https://www.saos.org.pl/judgments/476372
+210747|2015-10-01|SO|I ACa 438/15|Wyrok|56|https://www.saos.org.pl/judgments/210747

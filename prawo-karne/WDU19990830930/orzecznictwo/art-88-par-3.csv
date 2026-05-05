@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-267030|2016-12-13|SO|II AKa 315/16|Wyrok|https://www.saos.org.pl/judgments/267030
-238331|2016-06-10|SO|II K 913/15|Wyrok|https://www.saos.org.pl/judgments/238331
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-22960|2013-10-02|SO|VII Ka 803/13|Wyrok|https://www.saos.org.pl/judgments/22960
-81980|2003-04-30|SN|I KZP 10/03|Postanowienie|https://www.saos.org.pl/judgments/81980
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460
+81980|2003-04-30|SN|I KZP 10/03|Postanowienie|69|https://www.saos.org.pl/judgments/81980
+267030|2016-12-13|SO|II AKa 315/16|Wyrok|56|https://www.saos.org.pl/judgments/267030

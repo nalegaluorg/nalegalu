@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|https://www.saos.org.pl/judgments/530385
-415189|2019-11-07|SO|III Ca 1657/17|Uzasadnienie|https://www.saos.org.pl/judgments/415189
-166834|2014-10-03|SN|V CZ 61/14|Postanowienie|https://www.saos.org.pl/judgments/166834
-166714|2014-09-18|SN|V CZ 56/14|Postanowienie|https://www.saos.org.pl/judgments/166714
+saos_id|date|court|case_number|type|score|saos_url
+166834|2014-10-03|SN|V CZ 61/14|Postanowienie|69|https://www.saos.org.pl/judgments/166834
+166714|2014-09-18|SN|V CZ 56/14|Postanowienie|69|https://www.saos.org.pl/judgments/166714
+530385|2024-05-17|SO|III Ca 1112/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/530385
+415189|2019-11-07|SO|III Ca 1657/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/415189

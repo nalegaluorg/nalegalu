@@ -1,13 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-432835|2020-10-26|SO|I ACa 1016/19|Wyrok|https://www.saos.org.pl/judgments/432835
-427664|2018-07-05|SO|I ACa 10/18|Wyrok|https://www.saos.org.pl/judgments/427664
-257381|2016-11-16|SO|II Ka 386/16|Wyrok|https://www.saos.org.pl/judgments/257381
-250973|2016-09-13|SO|VI Ka 598/16|Wyrok|https://www.saos.org.pl/judgments/250973
-268109|2016-07-20|SO|III Kow 664/16|Postanowienie|https://www.saos.org.pl/judgments/268109
-247440|2016-05-24|SO|III Kow 63/16|Postanowienie|https://www.saos.org.pl/judgments/247440
-221590|2016-05-05|SO|III Kow 333/16|Postanowienie|https://www.saos.org.pl/judgments/221590
-208279|2016-02-25|SO|III Kow 18/16|Postanowienie|https://www.saos.org.pl/judgments/208279
-192192|2015-11-27|SO|III Kow 1512/15|Postanowienie|https://www.saos.org.pl/judgments/192192
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-90997|2009-10-07|SN|III CZP 71/09|Uchwała|https://www.saos.org.pl/judgments/90997
+saos_id|date|court|case_number|type|score|saos_url
+90997|2009-10-07|SN|III CZP 71/09|Uchwała|89|https://www.saos.org.pl/judgments/90997
+432835|2020-10-26|SO|I ACa 1016/19|Wyrok|56|https://www.saos.org.pl/judgments/432835
+427664|2018-07-05|SO|I ACa 10/18|Wyrok|56|https://www.saos.org.pl/judgments/427664
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113

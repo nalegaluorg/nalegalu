@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-134569|2015-02-25|SO|I Ca 15/15|Postanowienie|https://www.saos.org.pl/judgments/134569
-26129|2013-06-05|SO|VI ACa 1592/12|Wyrok|https://www.saos.org.pl/judgments/26129
-96250|2011-11-17|SN|III CSK 15/11|Postanowienie|https://www.saos.org.pl/judgments/96250
-94191|2011-02-09|SN|V CSK 218/10|Postanowienie|https://www.saos.org.pl/judgments/94191
-88601|2008-08-21|SN|IV CSK 135/08|Postanowienie|https://www.saos.org.pl/judgments/88601
-81672|2002-10-29|SN|III CZP 47/02|Uchwała|https://www.saos.org.pl/judgments/81672
+saos_id|date|court|case_number|type|score|saos_url
+81672|2002-10-29|SN|III CZP 47/02|Uchwała|96|https://www.saos.org.pl/judgments/81672
+96250|2011-11-17|SN|III CSK 15/11|Postanowienie|69|https://www.saos.org.pl/judgments/96250
+94191|2011-02-09|SN|V CSK 218/10|Postanowienie|69|https://www.saos.org.pl/judgments/94191
+88601|2008-08-21|SN|IV CSK 135/08|Postanowienie|69|https://www.saos.org.pl/judgments/88601
+26129|2013-06-05|SO|VI ACa 1592/12|Wyrok|56|https://www.saos.org.pl/judgments/26129
+134569|2015-02-25|SO|I Ca 15/15|Postanowienie|31|https://www.saos.org.pl/judgments/134569

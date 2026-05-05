@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-168255|2015-02-11|SN|I CSK 753/13|Wyrok|https://www.saos.org.pl/judgments/168255
-103094|2013-10-10|SN|III CZP 53/13|Uchwała|https://www.saos.org.pl/judgments/103094
-94426|2011-03-10|SN|V CSK 283/10|Wyrok|https://www.saos.org.pl/judgments/94426
+saos_id|date|court|case_number|type|score|saos_url
+103094|2013-10-10|SN|III CZP 53/13|Uchwała|89|https://www.saos.org.pl/judgments/103094
+168255|2015-02-11|SN|I CSK 753/13|Wyrok|78|https://www.saos.org.pl/judgments/168255
+94426|2011-03-10|SN|V CSK 283/10|Wyrok|78|https://www.saos.org.pl/judgments/94426

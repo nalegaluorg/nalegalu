@@ -10,5 +10,5 @@ Orzeczenia powołujące: *Ustawa z dnia 30 maja 2014 r. o prawach konsumenta*
 
 ## art. 49 (1)
 
-- 2015-04-09 | SN | [III SK 47/14](https://www.saos.org.pl/judgments/168794) | Wyrok
+- 2015-04-09 | SN | [III SK 47/14](https://www.saos.org.pl/judgments/168794) | Wyrok ★
 

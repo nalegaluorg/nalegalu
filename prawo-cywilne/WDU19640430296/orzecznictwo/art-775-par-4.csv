@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-526010|2025-03-12|SO|VII Pa 7/24|Wyrok|https://www.saos.org.pl/judgments/526010
-393893|2019-07-19|SO|VIII Pa 173/18|Uzasadnienie|https://www.saos.org.pl/judgments/393893
-384453|2019-03-08|SO|VIII Pa 122/18|Uzasadnienie|https://www.saos.org.pl/judgments/384453
-285750|2017-05-26|SO|IX P 170/15|Zarządzenie|https://www.saos.org.pl/judgments/285750
-217590|2016-03-30|SO|VII Pa 43/16|Uzasadnienie|https://www.saos.org.pl/judgments/217590
-2002|2012-03-15|SO|III APa 8/11|Wyrok|https://www.saos.org.pl/judgments/2002
+saos_id|date|court|case_number|type|score|saos_url
+2002|2012-03-15|SO|III APa 8/11|Wyrok|56|https://www.saos.org.pl/judgments/2002
+526010|2025-03-12|SO|VII Pa 7/24|Wyrok|40|https://www.saos.org.pl/judgments/526010
+393893|2019-07-19|SO|VIII Pa 173/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/393893
+384453|2019-03-08|SO|VIII Pa 122/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/384453
+217590|2016-03-30|SO|VII Pa 43/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/217590

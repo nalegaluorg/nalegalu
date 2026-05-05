@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-540719|2025-04-03|SO|II Ca 240/24|Postanowienie|https://www.saos.org.pl/judgments/540719
-260400|2016-11-30|SO|I C 149/16|Wyrok|https://www.saos.org.pl/judgments/260400
-296537|2015-04-17|SO|II Ca 840/14|Postanowienie|https://www.saos.org.pl/judgments/296537
-7028|2012-11-09|SO|VI ACa 660/12|Wyrok|https://www.saos.org.pl/judgments/7028
+saos_id|date|court|case_number|type|score|saos_url
+7028|2012-11-09|SO|VI ACa 660/12|Wyrok|56|https://www.saos.org.pl/judgments/7028
+540719|2025-04-03|SO|II Ca 240/24|Postanowienie|31|https://www.saos.org.pl/judgments/540719

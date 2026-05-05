@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-219915|2015-11-05|SO|IV U 421/15|Wyrok|https://www.saos.org.pl/judgments/219915
+saos_id|date|court|case_number|type|score|saos_url
+219915|2015-11-05|SO|IV U 421/15|Wyrok|40|https://www.saos.org.pl/judgments/219915

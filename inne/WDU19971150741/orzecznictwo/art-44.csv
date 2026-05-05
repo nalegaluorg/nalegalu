@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-539735|2023-03-21|SO|II Ca 1049/22|Wyrok|https://www.saos.org.pl/judgments/539735
-491821|2022-03-04|SO|V ACa 516/21|Wyrok|https://www.saos.org.pl/judgments/491821
+saos_id|date|court|case_number|type|score|saos_url
+491821|2022-03-04|SO|V ACa 516/21|Wyrok|56|https://www.saos.org.pl/judgments/491821
+539735|2023-03-21|SO|II Ca 1049/22|Wyrok|40|https://www.saos.org.pl/judgments/539735

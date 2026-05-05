@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-55872|2014-03-24|SO|XX GC 1312/13|Zarządzenie|https://www.saos.org.pl/judgments/55872
-139250|2013-03-08|SO|II Ca 1004/12|Wyrok|https://www.saos.org.pl/judgments/139250
-162926|2005-01-28|SN|V CK 380/04|Wyrok|https://www.saos.org.pl/judgments/162926
+saos_id|date|court|case_number|type|score|saos_url
+162926|2005-01-28|SN|V CK 380/04|Wyrok|78|https://www.saos.org.pl/judgments/162926

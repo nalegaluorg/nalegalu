@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-103900|2013-12-11|SN|IV KK 412/13|Postanowienie|https://www.saos.org.pl/judgments/103900
-101637|2013-05-08|SN|I CZ 21/13|Postanowienie|https://www.saos.org.pl/judgments/101637
-109770|2010-05-11|TK|SK 50/08|Wyrok|https://www.saos.org.pl/judgments/109770
+saos_id|date|court|case_number|type|score|saos_url
+109770|2010-05-11|TK|SK 50/08|Wyrok|98|https://www.saos.org.pl/judgments/109770
+103900|2013-12-11|SN|IV KK 412/13|Postanowienie|69|https://www.saos.org.pl/judgments/103900
+101637|2013-05-08|SN|I CZ 21/13|Postanowienie|69|https://www.saos.org.pl/judgments/101637

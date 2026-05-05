@@ -1,8 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-169890|2015-04-30|SO|VI ACa 904/14|Wyrok|https://www.saos.org.pl/judgments/169890
-63717|2014-09-11|SO|XVII AmT 41/12|Uzasadnienie|https://www.saos.org.pl/judgments/63717
-408146|2014-07-11|SO|XVII AmT 41/12|Wyrok|https://www.saos.org.pl/judgments/408146
-104502|2014-02-20|SN|III SK 55/13|Postanowienie|https://www.saos.org.pl/judgments/104502
-104094|2014-01-14|SN|III SK 30/13|Postanowienie|https://www.saos.org.pl/judgments/104094
-95391|2011-07-07|SN|III SK 52/10|Wyrok|https://www.saos.org.pl/judgments/95391
-87718|2008-03-27|SN|III SK 26/07|Wyrok|https://www.saos.org.pl/judgments/87718
+saos_id|date|court|case_number|type|score|saos_url
+95391|2011-07-07|SN|III SK 52/10|Wyrok|78|https://www.saos.org.pl/judgments/95391
+87718|2008-03-27|SN|III SK 26/07|Wyrok|78|https://www.saos.org.pl/judgments/87718
+104502|2014-02-20|SN|III SK 55/13|Postanowienie|69|https://www.saos.org.pl/judgments/104502
+104094|2014-01-14|SN|III SK 30/13|Postanowienie|69|https://www.saos.org.pl/judgments/104094
+169890|2015-04-30|SO|VI ACa 904/14|Wyrok|56|https://www.saos.org.pl/judgments/169890

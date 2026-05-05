@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-89921|2009-03-26|SN|I CSK 282/08|Wyrok|https://www.saos.org.pl/judgments/89921
+saos_id|date|court|case_number|type|score|saos_url
+89921|2009-03-26|SN|I CSK 282/08|Wyrok|78|https://www.saos.org.pl/judgments/89921

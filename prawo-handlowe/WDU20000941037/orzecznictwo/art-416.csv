@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-351283|2018-06-07|SO|XXIII Ga 566/18|Postanowienie|https://www.saos.org.pl/judgments/351283
-334354|2017-04-03|SO|XX GC 280/14|Wyrok|https://www.saos.org.pl/judgments/334354
-266850|2016-12-28|SO|VI GC 175/16|Wyrok|https://www.saos.org.pl/judgments/266850
-69098|2014-10-23|SO|I Ns 620/14|Postanowienie|https://www.saos.org.pl/judgments/69098
-54711|2014-06-27|SO|V GC 125/14|Wyrok|https://www.saos.org.pl/judgments/54711
-100222|2012-12-21|SN|V CSK 9/12|Wyrok|https://www.saos.org.pl/judgments/100222
-92208|2010-05-14|SN|II CSK 565/09|Wyrok|https://www.saos.org.pl/judgments/92208
-107232|2005-06-21|TK|P 25/02|Wyrok|https://www.saos.org.pl/judgments/107232
+saos_id|date|court|case_number|type|score|saos_url
+107232|2005-06-21|TK|P 25/02|Wyrok|98|https://www.saos.org.pl/judgments/107232
+100222|2012-12-21|SN|V CSK 9/12|Wyrok|78|https://www.saos.org.pl/judgments/100222
+92208|2010-05-14|SN|II CSK 565/09|Wyrok|78|https://www.saos.org.pl/judgments/92208
+266850|2016-12-28|SO|VI GC 175/16|Wyrok|40|https://www.saos.org.pl/judgments/266850

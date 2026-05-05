@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-211721|2016-03-11|SO|VII Ga 27/16|Wyrok|https://www.saos.org.pl/judgments/211721
-207389|2016-01-13|SO|III AUa 1302/15|Wyrok|https://www.saos.org.pl/judgments/207389
-61020|2014-07-11|SO|I ACa 209/14|Wyrok|https://www.saos.org.pl/judgments/61020
-38006|2014-01-22|SO|I ACa 648/13|Wyrok|https://www.saos.org.pl/judgments/38006
+saos_id|date|court|case_number|type|score|saos_url
+207389|2016-01-13|SO|III AUa 1302/15|Wyrok|56|https://www.saos.org.pl/judgments/207389
+61020|2014-07-11|SO|I ACa 209/14|Wyrok|56|https://www.saos.org.pl/judgments/61020
+38006|2014-01-22|SO|I ACa 648/13|Wyrok|56|https://www.saos.org.pl/judgments/38006

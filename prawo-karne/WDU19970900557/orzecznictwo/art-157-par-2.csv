@@ -1,12 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-503542|2024-06-06|SO|II K 779/22|Wyrok|https://www.saos.org.pl/judgments/503542
-511192|2024-05-16|SO|VI Ka 519/23|Uzasadnienie|https://www.saos.org.pl/judgments/511192
-405485|2020-01-27|SO|II K 648/19|Wyrok|https://www.saos.org.pl/judgments/405485
-403362|2019-12-10|SO|II K 104/19|Wyrok|https://www.saos.org.pl/judgments/403362
-278376|2017-03-22|SO|II Ka 60/17|Wyrok|https://www.saos.org.pl/judgments/278376
-268639|2017-01-09|SO|V Ka 608/16|Wyrok|https://www.saos.org.pl/judgments/268639
-265473|2016-06-02|SO|II K 247/15|Uzasadnienie|https://www.saos.org.pl/judgments/265473
-265472|2016-05-16|SO|II K 247/15|Wyrok|https://www.saos.org.pl/judgments/265472
-176642|2015-08-19|SO|III Kow 1008/15|Postanowienie|https://www.saos.org.pl/judgments/176642
-133503|2015-02-13|SO|IV Ka 41/15|Wyrok|https://www.saos.org.pl/judgments/133503
-73248|2014-11-28|SO|IV Ka 614/14|Wyrok|https://www.saos.org.pl/judgments/73248
+saos_id|date|court|case_number|type|score|saos_url
+403362|2019-12-10|SO|II K 104/19|Wyrok|40|https://www.saos.org.pl/judgments/403362
+511192|2024-05-16|SO|VI Ka 519/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/511192

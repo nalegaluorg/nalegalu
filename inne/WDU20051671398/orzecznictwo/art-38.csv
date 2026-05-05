@@ -1,24 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-533676|2025-02-21|SO|I Ns 457/22|Postanowienie|https://www.saos.org.pl/judgments/533676
-411066|2020-02-11|SO|I Ns 305/17|Uzasadnienie|https://www.saos.org.pl/judgments/411066
-335967|2017-06-14|SO|I Ns 995/15|Postanowienie|https://www.saos.org.pl/judgments/335967
-284160|2017-02-21|SO|XVIII C 340/16|Wyrok|https://www.saos.org.pl/judgments/284160
-271059|2017-01-04|SO|I Ca 333/16|Postanowienie|https://www.saos.org.pl/judgments/271059
-242639|2016-04-21|SO|III Cz 413/16|Postanowienie|https://www.saos.org.pl/judgments/242639
-215177|2016-03-11|SO|I Ns 10843/12|Postanowienie|https://www.saos.org.pl/judgments/215177
-251147|2016-03-08|SO|XI Ns 141/15|Postanowienie|https://www.saos.org.pl/judgments/251147
-217310|2015-12-18|SO|I Ns 2322/14|Uzasadnienie|https://www.saos.org.pl/judgments/217310
-203211|2015-10-13|SO|III Cz 1166/15|Postanowienie|https://www.saos.org.pl/judgments/203211
-179371|2015-09-10|SO|I Ns 1074/13|Uzasadnienie|https://www.saos.org.pl/judgments/179371
-171938|2015-06-11|SO|II Ca 486/15|Postanowienie|https://www.saos.org.pl/judgments/171938
-153282|2015-05-18|SO|II Cz 491/15|Postanowienie|https://www.saos.org.pl/judgments/153282
-128699|2015-01-20|SO|II Cz 6/15|Uzasadnienie|https://www.saos.org.pl/judgments/128699
-149787|2015-01-05|SO|II Ca 213/14|Postanowienie|https://www.saos.org.pl/judgments/149787
-129475|2014-10-17|SO|II Cz 701/14|Postanowienie|https://www.saos.org.pl/judgments/129475
-129471|2014-10-17|SO|II Cz 682/14|Postanowienie|https://www.saos.org.pl/judgments/129471
-73814|2014-10-15|SO|III Cz 1224/14|Postanowienie|https://www.saos.org.pl/judgments/73814
-64909|2014-02-27|SO|XVI Ca 530/13|Postanowienie|https://www.saos.org.pl/judgments/64909
-148236|2014-01-30|SO|II Ca 478/13|Uzasadnienie|https://www.saos.org.pl/judgments/148236
-86108|2007-06-20|SN|II CZ 45/07|Postanowienie|https://www.saos.org.pl/judgments/86108
-85176|2007-02-07|SN|III CZ 4/07|Postanowienie|https://www.saos.org.pl/judgments/85176
-164445|2006-07-26|SN|IV CZ 57/06|Postanowienie|https://www.saos.org.pl/judgments/164445
+saos_id|date|court|case_number|type|score|saos_url
+86108|2007-06-20|SN|II CZ 45/07|Postanowienie|69|https://www.saos.org.pl/judgments/86108
+85176|2007-02-07|SN|III CZ 4/07|Postanowienie|69|https://www.saos.org.pl/judgments/85176
+164445|2006-07-26|SN|IV CZ 57/06|Postanowienie|69|https://www.saos.org.pl/judgments/164445
+284160|2017-02-21|SO|XVIII C 340/16|Wyrok|40|https://www.saos.org.pl/judgments/284160

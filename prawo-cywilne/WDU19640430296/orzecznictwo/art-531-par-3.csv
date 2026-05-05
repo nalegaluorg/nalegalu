@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-99452|2012-10-24|SN|III CSK 18/12|Wyrok|https://www.saos.org.pl/judgments/99452
+saos_id|date|court|case_number|type|score|saos_url
+99452|2012-10-24|SN|III CSK 18/12|Wyrok|78|https://www.saos.org.pl/judgments/99452

@@ -1,19 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-485105|2023-03-07|SO|II Ca 1974/22|Postanowienie|https://www.saos.org.pl/judgments/485105
-474793|2022-09-08|SO|I Ns 231/19|Postanowienie|https://www.saos.org.pl/judgments/474793
-502075|2019-01-30|SO|II Ca 57/19|Wyrok|https://www.saos.org.pl/judgments/502075
-349094|2018-07-04|SO|V ACa 1356/17|Wyrok|https://www.saos.org.pl/judgments/349094
-339507|2018-03-28|SO|II Ca 1871/17|Postanowienie|https://www.saos.org.pl/judgments/339507
-348633|2018-02-28|SO|III Ca 1840/17|Uzasadnienie|https://www.saos.org.pl/judgments/348633
-285263|2017-04-11|SO|II Ca 1/16|Postanowienie|https://www.saos.org.pl/judgments/285263
-263906|2016-10-05|SO|V ACa 1000/15|Wyrok|https://www.saos.org.pl/judgments/263906
-215042|2016-02-08|SO|XV C 618/13|Wyrok|https://www.saos.org.pl/judgments/215042
-273874|2015-04-29|SO|I Ns 497/13|Postanowienie|https://www.saos.org.pl/judgments/273874
-130034|2015-02-04|SO|III Ca 41/15|Postanowienie|https://www.saos.org.pl/judgments/130034
-297020|2014-12-11|SO|II Ca 542/14|Postanowienie|https://www.saos.org.pl/judgments/297020
-65492|2014-09-25|SO|IV Ka 434/14|Wyrok|https://www.saos.org.pl/judgments/65492
-65189|2014-09-18|SO|I Ca 157/14|Postanowienie|https://www.saos.org.pl/judgments/65189
-50471|2014-05-22|SO|II Ca 240/14|Postanowienie|https://www.saos.org.pl/judgments/50471
-50470|2014-05-22|SO|II Ca 239/14|Postanowienie|https://www.saos.org.pl/judgments/50470
-29947|2013-11-21|SO|II Ca 449/13|Postanowienie|https://www.saos.org.pl/judgments/29947
-21387|2013-09-10|SO|VIII Ca 297/13|Postanowienie|https://www.saos.org.pl/judgments/21387
+saos_id|date|court|case_number|type|score|saos_url
+349094|2018-07-04|SO|V ACa 1356/17|Wyrok|56|https://www.saos.org.pl/judgments/349094
+263906|2016-10-05|SO|V ACa 1000/15|Wyrok|56|https://www.saos.org.pl/judgments/263906
+348633|2018-02-28|SO|III Ca 1840/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348633

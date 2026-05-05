@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-478976|2022-04-19|SO|VII Co 246/21|Postanowienie|https://www.saos.org.pl/judgments/478976
-392595|2019-08-22|SO|IX Ca 1146/19|Wyrok|https://www.saos.org.pl/judgments/392595
-377441|2019-04-19|SO|I C 999/18|Wyrok|https://www.saos.org.pl/judgments/377441
-357671|2018-02-14|SO|VI Co 1080/16|Postanowienie|https://www.saos.org.pl/judgments/357671
-12477|2013-05-31|SO|I ACz 210/13|Postanowienie|https://www.saos.org.pl/judgments/12477
+saos_id|date|court|case_number|type|score|saos_url
+12477|2013-05-31|SO|I ACz 210/13|Postanowienie|47|https://www.saos.org.pl/judgments/12477

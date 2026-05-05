@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-424911|2018-12-10|SO|IX GC 3848/17|Uzasadnienie|https://www.saos.org.pl/judgments/424911
-41584|2014-03-18|SO|IX GC 63/12|Wyrok|https://www.saos.org.pl/judgments/41584
+saos_id|date|court|case_number|type|score|saos_url
+41584|2014-03-18|SO|IX GC 63/12|Wyrok|40|https://www.saos.org.pl/judgments/41584

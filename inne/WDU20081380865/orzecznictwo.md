@@ -2,11 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 10 lipca 2008 r. o odpadach wydobywczych*
 
-Łącznie: **2** orzeczeń
-
-## art. 3 (1)
-
-- 2018-07-12 | SO | [II Ca 380/18](https://www.saos.org.pl/judgments/501959) | Postanowienie
+Łącznie: **1** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## (ogólnie) (1)
 

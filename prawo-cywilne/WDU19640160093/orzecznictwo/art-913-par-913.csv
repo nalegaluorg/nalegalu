@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-304367|2017-09-15|SO|I ACa 574/16|Wyrok|https://www.saos.org.pl/judgments/304367
+saos_id|date|court|case_number|type|score|saos_url
+304367|2017-09-15|SO|I ACa 574/16|Wyrok|56|https://www.saos.org.pl/judgments/304367

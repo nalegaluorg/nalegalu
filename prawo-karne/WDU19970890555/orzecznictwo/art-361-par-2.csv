@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-37423|2014-02-05|SO|IV Ka 1307/13|Wyrok|https://www.saos.org.pl/judgments/37423
-138195|2013-03-21|SO|II AKa 21/13|Wyrok|https://www.saos.org.pl/judgments/138195
-136227|2012-11-20|SO|II AKa 335/12|Wyrok|https://www.saos.org.pl/judgments/136227
-87548|2008-03-07|SN|V KK 134/07|Wyrok|https://www.saos.org.pl/judgments/87548
-82746|2004-06-25|SN|V KK 101/04|Wyrok|https://www.saos.org.pl/judgments/82746
+saos_id|date|court|case_number|type|score|saos_url
+87548|2008-03-07|SN|V KK 134/07|Wyrok|78|https://www.saos.org.pl/judgments/87548
+82746|2004-06-25|SN|V KK 101/04|Wyrok|78|https://www.saos.org.pl/judgments/82746
+138195|2013-03-21|SO|II AKa 21/13|Wyrok|56|https://www.saos.org.pl/judgments/138195
+136227|2012-11-20|SO|II AKa 335/12|Wyrok|56|https://www.saos.org.pl/judgments/136227

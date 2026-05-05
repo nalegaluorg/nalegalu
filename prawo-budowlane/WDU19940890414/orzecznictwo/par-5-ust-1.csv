@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-6219|2012-11-08|SO|VI ACa 480/12|Wyrok|https://www.saos.org.pl/judgments/6219
-13607|2011-09-30|SO|XVII AmC 3876/10|Uzasadnienie|https://www.saos.org.pl/judgments/13607
-13606|2011-09-30|SO|XVII AmC 3876/10|Wyrok|https://www.saos.org.pl/judgments/13606
+saos_id|date|court|case_number|type|score|saos_url
+6219|2012-11-08|SO|VI ACa 480/12|Wyrok|56|https://www.saos.org.pl/judgments/6219

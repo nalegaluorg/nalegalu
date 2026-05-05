@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-348948|2018-07-04|SO|III K 104/16|Wyrok|https://www.saos.org.pl/judgments/348948
-344231|2018-04-20|SO|I ACa 22/18|Wyrok|https://www.saos.org.pl/judgments/344231
-96094|2011-10-21|SN|IV CZ 80/11|Postanowienie|https://www.saos.org.pl/judgments/96094
+saos_id|date|court|case_number|type|score|saos_url
+96094|2011-10-21|SN|IV CZ 80/11|Postanowienie|69|https://www.saos.org.pl/judgments/96094
+344231|2018-04-20|SO|I ACa 22/18|Wyrok|56|https://www.saos.org.pl/judgments/344231
+348948|2018-07-04|SO|III K 104/16|Wyrok|40|https://www.saos.org.pl/judgments/348948

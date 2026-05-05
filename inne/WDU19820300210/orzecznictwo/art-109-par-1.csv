@@ -1,18 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-503891|2023-11-15|SO|II Ka 292/23|Uzasadnienie|https://www.saos.org.pl/judgments/503891
-399565|2019-11-04|SO|V Ka 1251/19|Uzasadnienie|https://www.saos.org.pl/judgments/399565
-342335|2018-05-04|SO|IV Ka 391/18|Wyrok|https://www.saos.org.pl/judgments/342335
-288175|2017-05-25|SO|V Ka 228/17|Uzasadnienie|https://www.saos.org.pl/judgments/288175
-252560|2016-10-14|SO|II Ka 197/16|Wyrok|https://www.saos.org.pl/judgments/252560
-246458|2016-09-07|SO|II Ka 424/16|Wyrok|https://www.saos.org.pl/judgments/246458
-214179|2016-03-25|SO|XIII Ga 893/15|Uzasadnienie|https://www.saos.org.pl/judgments/214179
-152925|2015-05-05|SO|II Ca 242/15|Wyrok|https://www.saos.org.pl/judgments/152925
-151299|2015-03-19|SO|I ACa 1316/14|Wyrok|https://www.saos.org.pl/judgments/151299
-149192|2015-03-09|SO|IV Ka 533/14|Wyrok|https://www.saos.org.pl/judgments/149192
-75035|2014-12-02|SO|XVII Ka 1241/14|Wyrok|https://www.saos.org.pl/judgments/75035
-54752|2014-06-27|SO|II Ka 127/14|Wyrok|https://www.saos.org.pl/judgments/54752
-35678|2014-01-20|SO|I ACa 757/13|Wyrok|https://www.saos.org.pl/judgments/35678
-35687|2013-12-23|SO|I ACa 909/13|Wyrok|https://www.saos.org.pl/judgments/35687
-25988|2013-11-07|SO|IX Ka 1355/13|Wyrok|https://www.saos.org.pl/judgments/25988
-22943|2013-10-10|SO|V Ka 861/13|Wyrok|https://www.saos.org.pl/judgments/22943
-21868|2013-10-04|SO|IX Ka 1223/13|Wyrok|https://www.saos.org.pl/judgments/21868
+saos_id|date|court|case_number|type|score|saos_url
+151299|2015-03-19|SO|I ACa 1316/14|Wyrok|56|https://www.saos.org.pl/judgments/151299
+35678|2014-01-20|SO|I ACa 757/13|Wyrok|56|https://www.saos.org.pl/judgments/35678
+35687|2013-12-23|SO|I ACa 909/13|Wyrok|56|https://www.saos.org.pl/judgments/35687
+342335|2018-05-04|SO|IV Ka 391/18|Wyrok|40|https://www.saos.org.pl/judgments/342335
+149192|2015-03-09|SO|IV Ka 533/14|Wyrok|40|https://www.saos.org.pl/judgments/149192
+75035|2014-12-02|SO|XVII Ka 1241/14|Wyrok|40|https://www.saos.org.pl/judgments/75035
+399565|2019-11-04|SO|V Ka 1251/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/399565
+288175|2017-05-25|SO|V Ka 228/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/288175
+214179|2016-03-25|SO|XIII Ga 893/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/214179

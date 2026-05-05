@@ -1,12 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-509641|2024-10-28|SO|IX U 592/23|Zarządzenie|https://www.saos.org.pl/judgments/509641
-488803|2023-01-25|SO|VI P 468/20|Wyrok|https://www.saos.org.pl/judgments/488803
-459338|2022-01-18|SO|IV P 10/21|Wyrok|https://www.saos.org.pl/judgments/459338
-454064|2021-11-17|SO|VII U 118/21|Wyrok|https://www.saos.org.pl/judgments/454064
-447135|2021-09-23|SO|IX P 281/19|Zarządzenie|https://www.saos.org.pl/judgments/447135
-426155|2020-11-24|SO|IV P 65/20|Wyrok|https://www.saos.org.pl/judgments/426155
-410287|2019-11-07|SO|VIII Pa 117/19|Wyrok|https://www.saos.org.pl/judgments/410287
-365800|2018-12-17|SO|IV P 100/18|Wyrok|https://www.saos.org.pl/judgments/365800
-277870|2017-03-22|SO|IX P 493/14|Uzasadnienie|https://www.saos.org.pl/judgments/277870
-255259|2016-10-19|SO|IV P 84/16|Wyrok|https://www.saos.org.pl/judgments/255259
-51988|2014-05-08|SO|V Pa 55/14|Wyrok|https://www.saos.org.pl/judgments/51988
+saos_id|date|court|case_number|type|score|saos_url
+488803|2023-01-25|SO|VI P 468/20|Wyrok|40|https://www.saos.org.pl/judgments/488803
+454064|2021-11-17|SO|VII U 118/21|Wyrok|40|https://www.saos.org.pl/judgments/454064
+51988|2014-05-08|SO|V Pa 55/14|Wyrok|40|https://www.saos.org.pl/judgments/51988

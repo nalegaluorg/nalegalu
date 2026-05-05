@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-196731|2015-11-20|SO|XVIII C 538/15|Wyrok|https://www.saos.org.pl/judgments/196731
+saos_id|date|court|case_number|type|score|saos_url
+196731|2015-11-20|SO|XVIII C 538/15|Wyrok|40|https://www.saos.org.pl/judgments/196731

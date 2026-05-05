@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-142225|2013-04-25|SO|II Ca 1095/12|Wyrok|https://www.saos.org.pl/judgments/142225
-98699|2012-07-18|SN|III CZP 38/12|Uchwała|https://www.saos.org.pl/judgments/98699
+saos_id|date|court|case_number|type|score|saos_url
+98699|2012-07-18|SN|III CZP 38/12|Uchwała|89|https://www.saos.org.pl/judgments/98699

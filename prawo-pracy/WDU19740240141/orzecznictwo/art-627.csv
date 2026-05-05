@@ -1,12 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-531202|2025-02-18|SO|II K 1123/24|Wyrok|https://www.saos.org.pl/judgments/531202
-440378|2020-01-20|SO|II K 1151/18|Wyrok|https://www.saos.org.pl/judgments/440378
-322581|2017-11-07|SO|III K 859/16|Wyrok|https://www.saos.org.pl/judgments/322581
-309084|2017-09-15|SO|IV K 306/17|Wyrok|https://www.saos.org.pl/judgments/309084
-270325|2017-01-27|SO|II K 1499/15|Wyrok|https://www.saos.org.pl/judgments/270325
-308786|2016-11-22|SO|II K 351/16|Wyrok|https://www.saos.org.pl/judgments/308786
-69655|2014-10-09|SO|II AKa 139/14|Wyrok|https://www.saos.org.pl/judgments/69655
-14598|2013-06-13|SO|VIII Ka 278/13|Wyrok|https://www.saos.org.pl/judgments/14598
-12223|2013-03-26|SO|IV Ka 213/13|Wyrok|https://www.saos.org.pl/judgments/12223
-5892|2013-01-09|SO|III AUa 626/12|Wyrok|https://www.saos.org.pl/judgments/5892
-4162|2012-12-04|SO|III AUa 575/12|Wyrok|https://www.saos.org.pl/judgments/4162
+saos_id|date|court|case_number|type|score|saos_url
+69655|2014-10-09|SO|II AKa 139/14|Wyrok|56|https://www.saos.org.pl/judgments/69655
+5892|2013-01-09|SO|III AUa 626/12|Wyrok|56|https://www.saos.org.pl/judgments/5892
+4162|2012-12-04|SO|III AUa 575/12|Wyrok|56|https://www.saos.org.pl/judgments/4162
+322581|2017-11-07|SO|III K 859/16|Wyrok|40|https://www.saos.org.pl/judgments/322581
+309084|2017-09-15|SO|IV K 306/17|Wyrok|40|https://www.saos.org.pl/judgments/309084

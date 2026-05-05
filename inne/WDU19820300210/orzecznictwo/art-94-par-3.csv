@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-306515|2017-09-29|SO|VI Ka 284/17|Wyrok|https://www.saos.org.pl/judgments/306515
-155370|2015-04-07|SO|XVII Ka 1502/14|Wyrok|https://www.saos.org.pl/judgments/155370
-63171|2014-09-23|SO|II Ka 294/14|Wyrok|https://www.saos.org.pl/judgments/63171
-535935|2012-08-31|SO|II W 730/12|Wyrok|https://www.saos.org.pl/judgments/535935
-536132|2012-06-19|SO|II W 538/12|Wyrok|https://www.saos.org.pl/judgments/536132
+saos_id|date|court|case_number|type|score|saos_url
+306515|2017-09-29|SO|VI Ka 284/17|Wyrok|40|https://www.saos.org.pl/judgments/306515
+155370|2015-04-07|SO|XVII Ka 1502/14|Wyrok|40|https://www.saos.org.pl/judgments/155370
+535935|2012-08-31|SO|II W 730/12|Wyrok|40|https://www.saos.org.pl/judgments/535935
+536132|2012-06-19|SO|II W 538/12|Wyrok|40|https://www.saos.org.pl/judgments/536132

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-243669|2015-10-29|SN|I CSK 922/14|Wyrok|https://www.saos.org.pl/judgments/243669
-97419|2012-03-09|SN|I CSK 312/11|Wyrok|https://www.saos.org.pl/judgments/97419
-110766|2011-03-21|TK|Ts 279/10|Postanowienie|https://www.saos.org.pl/judgments/110766
-88247|2008-06-11|SN|V CSK 8/08|Wyrok|https://www.saos.org.pl/judgments/88247
+saos_id|date|court|case_number|type|score|saos_url
+110766|2011-03-21|TK|Ts 279/10|Postanowienie|80|https://www.saos.org.pl/judgments/110766
+243669|2015-10-29|SN|I CSK 922/14|Wyrok|78|https://www.saos.org.pl/judgments/243669
+97419|2012-03-09|SN|I CSK 312/11|Wyrok|78|https://www.saos.org.pl/judgments/97419
+88247|2008-06-11|SN|V CSK 8/08|Wyrok|78|https://www.saos.org.pl/judgments/88247

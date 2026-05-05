@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-378393|2019-02-06|SO|II Ka 9/19|Wyrok|https://www.saos.org.pl/judgments/378393
-394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|https://www.saos.org.pl/judgments/394847
+saos_id|date|court|case_number|type|score|saos_url
+378393|2019-02-06|SO|II Ka 9/19|Wyrok|40|https://www.saos.org.pl/judgments/378393
+394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/394847

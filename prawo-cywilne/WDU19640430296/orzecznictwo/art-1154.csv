@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-265149|2016-12-08|KIO|KIO 2177/16|Wyrok|https://www.saos.org.pl/judgments/265149
-265138|2016-12-08|KIO|KIO 2164/16|Wyrok|https://www.saos.org.pl/judgments/265138
-265118|2016-11-25|KIO|KIO 2135/16|Wyrok|https://www.saos.org.pl/judgments/265118
-264986|2016-11-08|KIO|KIO 1978/16|Wyrok|https://www.saos.org.pl/judgments/264986
-244311|2016-01-21|SN|III CSK 429/15|Wyrok|https://www.saos.org.pl/judgments/244311
-110766|2011-03-21|TK|Ts 279/10|Postanowienie|https://www.saos.org.pl/judgments/110766
-92478|2010-06-18|SN|V CSK 434/09|Postanowienie|https://www.saos.org.pl/judgments/92478
-89255|2008-11-26|SN|III CSK 163/08|Wyrok|https://www.saos.org.pl/judgments/89255
-88373|2008-07-04|SN|I CZ 139/07|Postanowienie|https://www.saos.org.pl/judgments/88373
-85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|https://www.saos.org.pl/judgments/85314
+saos_id|date|court|case_number|type|score|saos_url
+110766|2011-03-21|TK|Ts 279/10|Postanowienie|80|https://www.saos.org.pl/judgments/110766
+244311|2016-01-21|SN|III CSK 429/15|Wyrok|78|https://www.saos.org.pl/judgments/244311
+89255|2008-11-26|SN|III CSK 163/08|Wyrok|78|https://www.saos.org.pl/judgments/89255
+92478|2010-06-18|SN|V CSK 434/09|Postanowienie|69|https://www.saos.org.pl/judgments/92478
+88373|2008-07-04|SN|I CZ 139/07|Postanowienie|69|https://www.saos.org.pl/judgments/88373
+85314|2007-02-22|SN|IV CSK 200/06|Postanowienie|69|https://www.saos.org.pl/judgments/85314
+265149|2016-12-08|KIO|KIO 2177/16|Wyrok|44|https://www.saos.org.pl/judgments/265149
+265138|2016-12-08|KIO|KIO 2164/16|Wyrok|44|https://www.saos.org.pl/judgments/265138
+265118|2016-11-25|KIO|KIO 2135/16|Wyrok|44|https://www.saos.org.pl/judgments/265118
+264986|2016-11-08|KIO|KIO 1978/16|Wyrok|44|https://www.saos.org.pl/judgments/264986

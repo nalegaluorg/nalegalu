@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-74565|2014-06-27|SO|VIII Pa 64/14|Wyrok|https://www.saos.org.pl/judgments/74565
-78246|1998-04-08|SN|I PKN 29/98|Wyrok|https://www.saos.org.pl/judgments/78246
+saos_id|date|court|case_number|type|score|saos_url
+78246|1998-04-08|SN|I PKN 29/98|Wyrok|78|https://www.saos.org.pl/judgments/78246

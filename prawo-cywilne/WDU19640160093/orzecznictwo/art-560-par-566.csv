@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-50027|2014-04-08|SO|IX Ca 834/13|Wyrok|https://www.saos.org.pl/judgments/50027
-16535|2013-05-29|SO|I ACa 89/13|Wyrok|https://www.saos.org.pl/judgments/16535
+saos_id|date|court|case_number|type|score|saos_url
+16535|2013-05-29|SO|I ACa 89/13|Wyrok|56|https://www.saos.org.pl/judgments/16535

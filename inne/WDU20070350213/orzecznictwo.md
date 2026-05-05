@@ -2,11 +2,8 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 12 stycznia 2007 r. o ustanowieniu "Programu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu w latach 2007-2011"*
 
-Łącznie: **2** orzeczeń
-
-## art. 2 (1)
-
-- 2020-03-11 | SO | [VII P 285/19](https://www.saos.org.pl/judgments/409282) | Wyrok
+Łącznie: **1** orzeczeń
+(pominięto 1 orzeczeń sądów rejonowych)
 
 ## (ogólnie) (1)
 

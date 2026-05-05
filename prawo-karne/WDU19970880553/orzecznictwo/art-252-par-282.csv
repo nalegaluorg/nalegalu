@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-453258|2021-07-22|SO|II AKa 193/20|Wyrok|https://www.saos.org.pl/judgments/453258
-104454|2014-02-13|SN|V KK 281/13|Postanowienie|https://www.saos.org.pl/judgments/104454
-399523|2013-03-26|SO|II AKa 34/13|Wyrok|https://www.saos.org.pl/judgments/399523
+saos_id|date|court|case_number|type|score|saos_url
+104454|2014-02-13|SN|V KK 281/13|Postanowienie|69|https://www.saos.org.pl/judgments/104454
+453258|2021-07-22|SO|II AKa 193/20|Wyrok|56|https://www.saos.org.pl/judgments/453258
+399523|2013-03-26|SO|II AKa 34/13|Wyrok|56|https://www.saos.org.pl/judgments/399523

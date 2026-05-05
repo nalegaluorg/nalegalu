@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-286465|2017-03-10|SO|III AUa 1847/16|Wyrok|https://www.saos.org.pl/judgments/286465
-199837|2016-01-26|SO|VII U 478/14|Wyrok|https://www.saos.org.pl/judgments/199837
-30471|2013-12-04|SO|V U 944/13|Wyrok|https://www.saos.org.pl/judgments/30471
+saos_id|date|court|case_number|type|score|saos_url
+286465|2017-03-10|SO|III AUa 1847/16|Wyrok|56|https://www.saos.org.pl/judgments/286465

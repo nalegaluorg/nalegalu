@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-46667|2014-03-12|SO|XII Ga 549/13|Wyrok|https://www.saos.org.pl/judgments/46667
-90425|2009-06-17|SN|IV CSK 78/09|Postanowienie|https://www.saos.org.pl/judgments/90425
+saos_id|date|court|case_number|type|score|saos_url
+90425|2009-06-17|SN|IV CSK 78/09|Postanowienie|69|https://www.saos.org.pl/judgments/90425
+46667|2014-03-12|SO|XII Ga 549/13|Wyrok|40|https://www.saos.org.pl/judgments/46667

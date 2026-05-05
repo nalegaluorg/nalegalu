@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-373756|2019-01-30|SO|I C 905/12|Uzasadnienie|https://www.saos.org.pl/judgments/373756
-345713|2018-06-14|SO|VI Ga 484/17|Wyrok|https://www.saos.org.pl/judgments/345713
-516831|2018-04-30|SO|II Ca 248/18|Wyrok|https://www.saos.org.pl/judgments/516831
-303753|2017-09-01|SO|VI Gz 217/17|Postanowienie|https://www.saos.org.pl/judgments/303753
+saos_id|date|court|case_number|type|score|saos_url
+345713|2018-06-14|SO|VI Ga 484/17|Wyrok|40|https://www.saos.org.pl/judgments/345713
+303753|2017-09-01|SO|VI Gz 217/17|Postanowienie|31|https://www.saos.org.pl/judgments/303753
+373756|2019-01-30|SO|I C 905/12|Uzasadnienie|27|https://www.saos.org.pl/judgments/373756

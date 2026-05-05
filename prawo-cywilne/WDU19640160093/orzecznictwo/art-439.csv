@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-469380|2021-09-30|SO|VII AGa 335/20|Wyrok|https://www.saos.org.pl/judgments/469380
-438718|2020-11-04|SO|VII AGa 736/20|Wyrok|https://www.saos.org.pl/judgments/438718
-334409|2017-12-15|SO|II Ca 1802/17|Wyrok|https://www.saos.org.pl/judgments/334409
-213696|2015-10-12|SO|XXII GWzt 15/15|Wyrok|https://www.saos.org.pl/judgments/213696
-187075|2015-09-29|SO|V ACa 590/15|Wyrok|https://www.saos.org.pl/judgments/187075
-153526|2015-02-25|SO|I ACa 1714/14|Wyrok|https://www.saos.org.pl/judgments/153526
-131878|2015-01-28|SO|VIII GC 205/14|Uzasadnienie|https://www.saos.org.pl/judgments/131878
-66475|2014-09-18|SO|VIII GC 257/14|Wyrok|https://www.saos.org.pl/judgments/66475
-69285|2014-04-15|SO|VI ACa 1308/13|Wyrok|https://www.saos.org.pl/judgments/69285
-45102|2014-04-08|SO|V ACa 825/13|Wyrok|https://www.saos.org.pl/judgments/45102
-1146|2012-08-31|SO|I ACa 51/12|Wyrok|https://www.saos.org.pl/judgments/1146
+saos_id|date|court|case_number|type|score|saos_url
+469380|2021-09-30|SO|VII AGa 335/20|Wyrok|56|https://www.saos.org.pl/judgments/469380
+438718|2020-11-04|SO|VII AGa 736/20|Wyrok|56|https://www.saos.org.pl/judgments/438718
+187075|2015-09-29|SO|V ACa 590/15|Wyrok|56|https://www.saos.org.pl/judgments/187075
+153526|2015-02-25|SO|I ACa 1714/14|Wyrok|56|https://www.saos.org.pl/judgments/153526
+69285|2014-04-15|SO|VI ACa 1308/13|Wyrok|56|https://www.saos.org.pl/judgments/69285
+45102|2014-04-08|SO|V ACa 825/13|Wyrok|56|https://www.saos.org.pl/judgments/45102
+1146|2012-08-31|SO|I ACa 51/12|Wyrok|56|https://www.saos.org.pl/judgments/1146

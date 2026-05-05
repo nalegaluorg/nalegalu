@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-401056|2019-10-02|SO|II AKa 386/18|Wyrok|https://www.saos.org.pl/judgments/401056
-370626|2018-07-17|SO|X K 109/18|Wyrok|https://www.saos.org.pl/judgments/370626
-370648|2018-06-12|SO|X K 207/16|Wyrok|https://www.saos.org.pl/judgments/370648
-330960|2017-10-27|SO|II AKa 386/17|Wyrok|https://www.saos.org.pl/judgments/330960
-267222|2016-12-21|SO|VI Ka 951/16|Wyrok|https://www.saos.org.pl/judgments/267222
+saos_id|date|court|case_number|type|score|saos_url
+401056|2019-10-02|SO|II AKa 386/18|Wyrok|56|https://www.saos.org.pl/judgments/401056
+330960|2017-10-27|SO|II AKa 386/17|Wyrok|56|https://www.saos.org.pl/judgments/330960

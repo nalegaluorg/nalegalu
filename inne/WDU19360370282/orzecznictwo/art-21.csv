@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-530796|2025-01-16|SO|I C 181/24|Uzasadnienie|https://www.saos.org.pl/judgments/530796
-331963|2017-11-24|SO|I ACa 380/17|Wyrok|https://www.saos.org.pl/judgments/331963
-218277|2016-01-28|SO|I ACa 1464/15|Wyrok|https://www.saos.org.pl/judgments/218277
-15043|2013-06-04|SO|I ACa 1551/12|Wyrok|https://www.saos.org.pl/judgments/15043
+saos_id|date|court|case_number|type|score|saos_url
+331963|2017-11-24|SO|I ACa 380/17|Wyrok|56|https://www.saos.org.pl/judgments/331963
+218277|2016-01-28|SO|I ACa 1464/15|Wyrok|56|https://www.saos.org.pl/judgments/218277
+15043|2013-06-04|SO|I ACa 1551/12|Wyrok|56|https://www.saos.org.pl/judgments/15043

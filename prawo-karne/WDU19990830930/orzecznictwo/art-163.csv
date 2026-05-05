@@ -1,22 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-501097|2024-06-19|SO|II AKa 420/23|Wyrok|https://www.saos.org.pl/judgments/501097
-388783|2018-07-03|SO|II Ka 113/19|Wyrok|https://www.saos.org.pl/judgments/388783
-358174|2018-05-15|SO|XIV K 431/16|Wyrok|https://www.saos.org.pl/judgments/358174
-329971|2018-01-17|SO|II K 215/15|Wyrok|https://www.saos.org.pl/judgments/329971
-334498|2017-11-29|SO|VII K 174/17|Wyrok|https://www.saos.org.pl/judgments/334498
-295050|2017-07-12|SO|II K 2/17|Wyrok|https://www.saos.org.pl/judgments/295050
-290681|2017-05-19|SO|VI Ka 313/17|Wyrok|https://www.saos.org.pl/judgments/290681
-287555|2017-05-17|SO|II K 256/16|Wyrok|https://www.saos.org.pl/judgments/287555
-281656|2017-03-07|SO|II K 31/17|Wyrok|https://www.saos.org.pl/judgments/281656
-248845|2016-07-28|SO|II K 894/15|Wyrok|https://www.saos.org.pl/judgments/248845
-247358|2016-07-20|SO|II K 1042/15|Wyrok|https://www.saos.org.pl/judgments/247358
-238331|2016-06-10|SO|II K 913/15|Wyrok|https://www.saos.org.pl/judgments/238331
-261119|2016-05-24|SO|III K 79/16|Uzasadnienie|https://www.saos.org.pl/judgments/261119
-234545|2016-05-17|SO|II K 1/16|Wyrok|https://www.saos.org.pl/judgments/234545
-216695|2016-01-27|SO|II K 497/14|Wyrok|https://www.saos.org.pl/judgments/216695
-194965|2015-12-21|SO|V Ka 1289/15|Uzasadnienie|https://www.saos.org.pl/judgments/194965
-196565|2015-10-20|SO|VII K 553/15|Wyrok|https://www.saos.org.pl/judgments/196565
-179595|2015-08-07|SO|II K 688/15|Wyrok|https://www.saos.org.pl/judgments/179595
-42353|2014-01-24|SO|IV Ka 468/13|Wyrok|https://www.saos.org.pl/judgments/42353
-35560|2014-01-24|SO|IV Ka 468/13|Wyrok|https://www.saos.org.pl/judgments/35560
-5973|2013-01-31|SO|V K 1629/12|Wyrok|https://www.saos.org.pl/judgments/5973
+saos_id|date|court|case_number|type|score|saos_url
+501097|2024-06-19|SO|II AKa 420/23|Wyrok|56|https://www.saos.org.pl/judgments/501097
+334498|2017-11-29|SO|VII K 174/17|Wyrok|40|https://www.saos.org.pl/judgments/334498
+287555|2017-05-17|SO|II K 256/16|Wyrok|40|https://www.saos.org.pl/judgments/287555
+42353|2014-01-24|SO|IV Ka 468/13|Wyrok|40|https://www.saos.org.pl/judgments/42353
+35560|2014-01-24|SO|IV Ka 468/13|Wyrok|40|https://www.saos.org.pl/judgments/35560
+194965|2015-12-21|SO|V Ka 1289/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/194965

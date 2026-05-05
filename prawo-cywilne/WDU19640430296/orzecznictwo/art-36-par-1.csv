@@ -1,13 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-373614|2019-03-14|SO|IX P 463/17|Zarządzenie|https://www.saos.org.pl/judgments/373614
-337385|2018-04-26|SO|IX P 558/16|Zarządzenie|https://www.saos.org.pl/judgments/337385
-341958|2018-02-05|SO|V GC 2648/17|Wyrok|https://www.saos.org.pl/judgments/341958
-306172|2017-10-02|SO|IX P 258/16|Zarządzenie|https://www.saos.org.pl/judgments/306172
-313930|2017-09-18|SO|IV P 1/17|Wyrok|https://www.saos.org.pl/judgments/313930
-279924|2017-02-13|SO|V GC 1876/16|Wyrok|https://www.saos.org.pl/judgments/279924
-276588|2017-01-31|SO|IX P 70/16|Zarządzenie|https://www.saos.org.pl/judgments/276588
-247580|2016-09-23|SO|XIII Ga 681/16|Uzasadnienie|https://www.saos.org.pl/judgments/247580
-242435|2016-04-13|SO|V GC 1099/15|Wyrok|https://www.saos.org.pl/judgments/242435
-244809|2016-02-29|SN|SNO 2/16|Wyrok|https://www.saos.org.pl/judgments/244809
-66421|2014-02-27|SO|II Ca 1299/13|Wyrok|https://www.saos.org.pl/judgments/66421
-38399|2014-02-06|SO|I ACa 1301/13|Wyrok|https://www.saos.org.pl/judgments/38399
+saos_id|date|court|case_number|type|score|saos_url
+244809|2016-02-29|SN|SNO 2/16|Wyrok|78|https://www.saos.org.pl/judgments/244809
+38399|2014-02-06|SO|I ACa 1301/13|Wyrok|56|https://www.saos.org.pl/judgments/38399
+247580|2016-09-23|SO|XIII Ga 681/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/247580

@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-541968|2025-06-17|SO|I ACa 261/24|Wyrok|https://www.saos.org.pl/judgments/541968
-541966|2025-06-04|SO|I ACa 1721/23|Wyrok|https://www.saos.org.pl/judgments/541966
-517184|2020-10-23|SO|I ACa 305/19|Wyrok|https://www.saos.org.pl/judgments/517184
-517183|2020-10-01|SO|I ACa 165/19|Wyrok|https://www.saos.org.pl/judgments/517183
+saos_id|date|court|case_number|type|score|saos_url
+541968|2025-06-17|SO|I ACa 261/24|Wyrok|56|https://www.saos.org.pl/judgments/541968
+541966|2025-06-04|SO|I ACa 1721/23|Wyrok|56|https://www.saos.org.pl/judgments/541966
+517184|2020-10-23|SO|I ACa 305/19|Wyrok|56|https://www.saos.org.pl/judgments/517184
+517183|2020-10-01|SO|I ACa 165/19|Wyrok|56|https://www.saos.org.pl/judgments/517183

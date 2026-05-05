@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-387162|2018-11-08|SO|I AGa 205/18|Wyrok|https://www.saos.org.pl/judgments/387162
-372305|2018-09-06|SO|V AGa 102/18|Wyrok|https://www.saos.org.pl/judgments/372305
-364778|2018-05-10|SO|II AKa 18/18|Wyrok|https://www.saos.org.pl/judgments/364778
-271417|2016-12-09|SO|I ACa 1151/15|Wyrok|https://www.saos.org.pl/judgments/271417
-242742|2015-06-18|SN|III CZP 31/15|Uchwała|https://www.saos.org.pl/judgments/242742
+saos_id|date|court|case_number|type|score|saos_url
+242742|2015-06-18|SN|III CZP 31/15|Uchwała|89|https://www.saos.org.pl/judgments/242742
+387162|2018-11-08|SO|I AGa 205/18|Wyrok|56|https://www.saos.org.pl/judgments/387162
+372305|2018-09-06|SO|V AGa 102/18|Wyrok|56|https://www.saos.org.pl/judgments/372305
+364778|2018-05-10|SO|II AKa 18/18|Wyrok|56|https://www.saos.org.pl/judgments/364778
+271417|2016-12-09|SO|I ACa 1151/15|Wyrok|56|https://www.saos.org.pl/judgments/271417

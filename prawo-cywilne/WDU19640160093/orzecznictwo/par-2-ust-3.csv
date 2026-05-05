@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-521525|2024-06-06|SO|I C 551/22|Wyrok|https://www.saos.org.pl/judgments/521525
-517536|2024-05-07|SO|I C 1334/23|Wyrok|https://www.saos.org.pl/judgments/517536
-494565|2022-05-31|SO|I ACa 77/22|Wyrok|https://www.saos.org.pl/judgments/494565
-488061|2022-03-17|SO|I C 1105/21|Wyrok|https://www.saos.org.pl/judgments/488061
-326082|2017-05-16|SO|XII Ga 644/16|Wyrok|https://www.saos.org.pl/judgments/326082
+saos_id|date|court|case_number|type|score|saos_url
+494565|2022-05-31|SO|I ACa 77/22|Wyrok|56|https://www.saos.org.pl/judgments/494565
+326082|2017-05-16|SO|XII Ga 644/16|Wyrok|40|https://www.saos.org.pl/judgments/326082

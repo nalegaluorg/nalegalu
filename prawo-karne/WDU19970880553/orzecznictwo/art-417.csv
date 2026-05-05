@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-489639|2022-11-17|SO|III Ko 495/22|Wyrok|https://www.saos.org.pl/judgments/489639
-225018|2016-04-20|SO|II AKa 82/16|Wyrok|https://www.saos.org.pl/judgments/225018
-74458|2014-10-20|SO|III Ca 636/14|Uzasadnienie|https://www.saos.org.pl/judgments/74458
-63069|2014-07-16|SO|II Ca 657/14|Wyrok|https://www.saos.org.pl/judgments/63069
-108439|2007-03-12|TK|Ts 268/06|Postanowienie|https://www.saos.org.pl/judgments/108439
+saos_id|date|court|case_number|type|score|saos_url
+108439|2007-03-12|TK|Ts 268/06|Postanowienie|80|https://www.saos.org.pl/judgments/108439
+225018|2016-04-20|SO|II AKa 82/16|Wyrok|56|https://www.saos.org.pl/judgments/225018
+74458|2014-10-20|SO|III Ca 636/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74458

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-521938|2025-01-10|SO|IX P 322/23|Zarządzenie|https://www.saos.org.pl/judgments/521938
-239468|2016-04-14|SO|IV Pa 11/16|Wyrok|https://www.saos.org.pl/judgments/239468
-195448|2014-09-25|SO|IX C 1248/14|Wyrok|https://www.saos.org.pl/judgments/195448
+saos_id|date|court|case_number|type|score|saos_url
+239468|2016-04-14|SO|IV Pa 11/16|Wyrok|40|https://www.saos.org.pl/judgments/239468

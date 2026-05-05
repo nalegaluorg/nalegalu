@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-363192|2018-07-12|SO|II Ca 26/18|Zarządzenie|https://www.saos.org.pl/judgments/363192
-342273|2018-05-10|SO|III Ca 101/18|Wyrok|https://www.saos.org.pl/judgments/342273
-169160|2015-06-02|SO|I ACa 385/15|Wyrok|https://www.saos.org.pl/judgments/169160
-130722|2015-02-11|SO|I Ca 24/15|Postanowienie|https://www.saos.org.pl/judgments/130722
+saos_id|date|court|case_number|type|score|saos_url
+169160|2015-06-02|SO|I ACa 385/15|Wyrok|56|https://www.saos.org.pl/judgments/169160

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-148158|2015-02-19|SO|VI ACa 495/14|Wyrok|https://www.saos.org.pl/judgments/148158
-165792|2014-05-08|SN|III SK 46/13|Wyrok|https://www.saos.org.pl/judgments/165792
-82040|2003-06-04|SN|I CKN 471/01|Wyrok|https://www.saos.org.pl/judgments/82040
+saos_id|date|court|case_number|type|score|saos_url
+165792|2014-05-08|SN|III SK 46/13|Wyrok|78|https://www.saos.org.pl/judgments/165792
+82040|2003-06-04|SN|I CKN 471/01|Wyrok|78|https://www.saos.org.pl/judgments/82040
+148158|2015-02-19|SO|VI ACa 495/14|Wyrok|56|https://www.saos.org.pl/judgments/148158

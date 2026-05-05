@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-165534|2013-09-19|SN|I CSK 735/12|Postanowienie|https://www.saos.org.pl/judgments/165534
-100334|2013-01-16|SN|II CSK 202/12|Wyrok|https://www.saos.org.pl/judgments/100334
+saos_id|date|court|case_number|type|score|saos_url
+100334|2013-01-16|SN|II CSK 202/12|Wyrok|78|https://www.saos.org.pl/judgments/100334
+165534|2013-09-19|SN|I CSK 735/12|Postanowienie|69|https://www.saos.org.pl/judgments/165534

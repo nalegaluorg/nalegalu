@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-458772|2019-05-21|SO|III AUa 1587/18|Wyrok|https://www.saos.org.pl/judgments/458772
-106731|2004-07-28|TK|P 2/04|Wyrok|https://www.saos.org.pl/judgments/106731
+saos_id|date|court|case_number|type|score|saos_url
+106731|2004-07-28|TK|P 2/04|Wyrok|98|https://www.saos.org.pl/judgments/106731
+458772|2019-05-21|SO|III AUa 1587/18|Wyrok|56|https://www.saos.org.pl/judgments/458772

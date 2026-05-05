@@ -14,7 +14,7 @@ Orzeczenia powołujące: *Ustawa z dnia 6 września 2001 r. Przepisy wprowadzaj�
 
 ## art. 5 (1)
 
-- 2011-01-26 | TK | [Ts 132/09](https://www.saos.org.pl/judgments/110563) | Postanowienie
+- 2011-01-26 | TK | [Ts 132/09](https://www.saos.org.pl/judgments/110563) | Postanowienie ★
 
 ## art. 14 (2)
 

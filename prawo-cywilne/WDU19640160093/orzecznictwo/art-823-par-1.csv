@@ -1,14 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-442066|2021-05-06|SO|V GC 706/20|Wyrok|https://www.saos.org.pl/judgments/442066
-338445|2018-02-14|SO|I1 C 476/17|Wyrok|https://www.saos.org.pl/judgments/338445
-372578|2017-12-21|SO|I1 C 777/17|Wyrok|https://www.saos.org.pl/judgments/372578
-319238|2017-10-05|SO|III Ca 981/17|Wyrok|https://www.saos.org.pl/judgments/319238
-285143|2017-05-10|SO|I C 34/17|Wyrok|https://www.saos.org.pl/judgments/285143
-437202|2016-07-07|SO|V ACa 342/16|Wyrok|https://www.saos.org.pl/judgments/437202
-240842|2016-06-15|SO|XXIII Ga 374/16|Wyrok|https://www.saos.org.pl/judgments/240842
-131360|2015-02-12|SO|VIII Ga 421/14|Wyrok|https://www.saos.org.pl/judgments/131360
-149788|2014-09-30|SO|II Ca 355/14|Wyrok|https://www.saos.org.pl/judgments/149788
-11792|2013-04-26|SO|VIII Ga 103/13|Wyrok|https://www.saos.org.pl/judgments/11792
-138681|2013-04-17|SO|I C 1370/12|Wyrok|https://www.saos.org.pl/judgments/138681
-86588|2007-09-19|SN|II CSK 252/07|Wyrok|https://www.saos.org.pl/judgments/86588
-164046|2006-02-15|SN|IV CSK 71/05|Wyrok|https://www.saos.org.pl/judgments/164046
+saos_id|date|court|case_number|type|score|saos_url
+86588|2007-09-19|SN|II CSK 252/07|Wyrok|78|https://www.saos.org.pl/judgments/86588
+164046|2006-02-15|SN|IV CSK 71/05|Wyrok|78|https://www.saos.org.pl/judgments/164046
+437202|2016-07-07|SO|V ACa 342/16|Wyrok|56|https://www.saos.org.pl/judgments/437202

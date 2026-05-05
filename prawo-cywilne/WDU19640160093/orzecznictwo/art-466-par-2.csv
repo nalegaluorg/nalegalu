@@ -1,10 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-426259|2020-07-01|SO|I C 1849/17|Uzasadnienie|https://www.saos.org.pl/judgments/426259
-378052|2019-01-17|SO|II Ca 717/18|Wyrok|https://www.saos.org.pl/judgments/378052
-280483|2017-03-28|SO|I ACa 878/16|Wyrok|https://www.saos.org.pl/judgments/280483
-232829|2016-04-08|SO|I C 220/15|Wyrok|https://www.saos.org.pl/judgments/232829
-212769|2016-01-25|SO|I C 218/15|Zarządzenie|https://www.saos.org.pl/judgments/212769
-195786|2015-11-04|SO|I ACa 1021/15|Wyrok|https://www.saos.org.pl/judgments/195786
-170287|2015-06-10|SO|I Ca 173/15|Wyrok|https://www.saos.org.pl/judgments/170287
-63163|2014-09-04|SO|I ACa 292/14|Wyrok|https://www.saos.org.pl/judgments/63163
-138004|2013-03-15|SO|I C 973/12|Wyrok|https://www.saos.org.pl/judgments/138004
+saos_id|date|court|case_number|type|score|saos_url
+280483|2017-03-28|SO|I ACa 878/16|Wyrok|56|https://www.saos.org.pl/judgments/280483
+195786|2015-11-04|SO|I ACa 1021/15|Wyrok|56|https://www.saos.org.pl/judgments/195786
+63163|2014-09-04|SO|I ACa 292/14|Wyrok|56|https://www.saos.org.pl/judgments/63163
+170287|2015-06-10|SO|I Ca 173/15|Wyrok|40|https://www.saos.org.pl/judgments/170287
+426259|2020-07-01|SO|I C 1849/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/426259

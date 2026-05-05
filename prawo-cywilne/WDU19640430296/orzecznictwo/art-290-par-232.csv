@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-77461|1997-02-14|SN|II UKN 89/96|Wyrok|https://www.saos.org.pl/judgments/77461
+saos_id|date|court|case_number|type|score|saos_url
+77461|1997-02-14|SN|II UKN 89/96|Wyrok|78|https://www.saos.org.pl/judgments/77461

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-373180|2018-11-30|SO|VI Ka 591/18|Wyrok|https://www.saos.org.pl/judgments/373180
-296694|2017-05-12|SO|II AKa 47/17|Wyrok|https://www.saos.org.pl/judgments/296694
-243685|2015-10-29|SN|SDI 45/15|Wyrok|https://www.saos.org.pl/judgments/243685
-147730|2014-05-22|SO|II AKa 94/14|Wyrok|https://www.saos.org.pl/judgments/147730
-165509|2012-11-15|SN|SDI 31/12|Postanowienie|https://www.saos.org.pl/judgments/165509
+saos_id|date|court|case_number|type|score|saos_url
+243685|2015-10-29|SN|SDI 45/15|Wyrok|78|https://www.saos.org.pl/judgments/243685
+165509|2012-11-15|SN|SDI 31/12|Postanowienie|69|https://www.saos.org.pl/judgments/165509
+296694|2017-05-12|SO|II AKa 47/17|Wyrok|56|https://www.saos.org.pl/judgments/296694
+147730|2014-05-22|SO|II AKa 94/14|Wyrok|56|https://www.saos.org.pl/judgments/147730

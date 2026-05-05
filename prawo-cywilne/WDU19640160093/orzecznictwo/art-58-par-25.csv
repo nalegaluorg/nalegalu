@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520227|2024-10-23|SO|VI GC 976/23|Wyrok|https://www.saos.org.pl/judgments/520227
-87923|2008-04-22|SN|II UK 210/07|Wyrok|https://www.saos.org.pl/judgments/87923
+saos_id|date|court|case_number|type|score|saos_url
+87923|2008-04-22|SN|II UK 210/07|Wyrok|78|https://www.saos.org.pl/judgments/87923

@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-475808|2021-11-17|SO|XVII AmT 42/20|Wyrok|https://www.saos.org.pl/judgments/475808
-445980|2021-03-08|SO|XVII AmE 138/19|Wyrok|https://www.saos.org.pl/judgments/445980
-112777|2008-06-11|KIO|KIO/UZP 524/08|Wyrok|https://www.saos.org.pl/judgments/112777
+saos_id|date|court|case_number|type|score|saos_url
+112777|2008-06-11|KIO|KIO/UZP 524/08|Wyrok|44|https://www.saos.org.pl/judgments/112777

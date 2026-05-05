@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-419695|2020-03-25|SO|I ACa 846/19|Wyrok|https://www.saos.org.pl/judgments/419695
-347796|2017-07-03|SO|I ACa 1516/16|Wyrok|https://www.saos.org.pl/judgments/347796
-151949|2015-02-04|SO|V GC 446/13|Wyrok|https://www.saos.org.pl/judgments/151949
-58978|2014-07-16|SO|V GC 83/14|Wyrok|https://www.saos.org.pl/judgments/58978
-141615|2013-10-08|SO|I C 193/11|Wyrok|https://www.saos.org.pl/judgments/141615
+saos_id|date|court|case_number|type|score|saos_url
+419695|2020-03-25|SO|I ACa 846/19|Wyrok|56|https://www.saos.org.pl/judgments/419695
+347796|2017-07-03|SO|I ACa 1516/16|Wyrok|56|https://www.saos.org.pl/judgments/347796

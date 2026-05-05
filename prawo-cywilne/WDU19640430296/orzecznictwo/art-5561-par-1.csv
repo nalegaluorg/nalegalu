@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-480217|2022-12-14|SO|III Ca 1190/21|Wyrok|https://www.saos.org.pl/judgments/480217
-420176|2020-07-28|SO|XI GC 294/19|Wyrok|https://www.saos.org.pl/judgments/420176
-406042|2020-01-15|SO|I Ca 470/19|Wyrok|https://www.saos.org.pl/judgments/406042
-388216|2019-06-28|SO|I Ca 134/19|Wyrok|https://www.saos.org.pl/judgments/388216
-470662|2018-08-31|SO|I ACa 100/18|Wyrok|https://www.saos.org.pl/judgments/470662
+saos_id|date|court|case_number|type|score|saos_url
+470662|2018-08-31|SO|I ACa 100/18|Wyrok|56|https://www.saos.org.pl/judgments/470662

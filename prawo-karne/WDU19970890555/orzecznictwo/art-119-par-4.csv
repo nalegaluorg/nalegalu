@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-149190|2015-03-09|SO|IV Ka 523/14|Wyrok|https://www.saos.org.pl/judgments/149190
-127056|2015-01-28|SO|IV Ka 1086/14|Wyrok|https://www.saos.org.pl/judgments/127056
-71614|2014-10-01|SO|VII Ka 781/14|Wyrok|https://www.saos.org.pl/judgments/71614
+saos_id|date|court|case_number|type|score|saos_url
+149190|2015-03-09|SO|IV Ka 523/14|Wyrok|40|https://www.saos.org.pl/judgments/149190

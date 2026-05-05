@@ -1,11 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-320831|2018-01-12|SO|IV K 216/16|Uzasadnienie|https://www.saos.org.pl/judgments/320831
-328711|2017-08-22|SO|XIV K 827/15|Uzasadnienie|https://www.saos.org.pl/judgments/328711
-305951|2017-07-14|SO|IV Ka 470/17|Wyrok|https://www.saos.org.pl/judgments/305951
-328712|2017-07-13|SO|XIV K 827/15|Wyrok|https://www.saos.org.pl/judgments/328712
-298819|2017-02-27|SO|XIV K 617/13|Uzasadnienie|https://www.saos.org.pl/judgments/298819
-298820|2017-02-06|SO|XIV K 617/13|Wyrok|https://www.saos.org.pl/judgments/298820
-361324|2015-07-09|SO|IV K 559/13|Wyrok|https://www.saos.org.pl/judgments/361324
-125705|2014-12-10|SO|IV Ka 869/14|Wyrok|https://www.saos.org.pl/judgments/125705
-68428|2014-10-01|SO|IV Ka 724/14|Wyrok|https://www.saos.org.pl/judgments/68428
-65379|2014-09-09|SO|IV Ka 615/14|Wyrok|https://www.saos.org.pl/judgments/65379
+saos_id|date|court|case_number|type|score|saos_url
+125705|2014-12-10|SO|IV Ka 869/14|Wyrok|40|https://www.saos.org.pl/judgments/125705
+68428|2014-10-01|SO|IV Ka 724/14|Wyrok|40|https://www.saos.org.pl/judgments/68428
+65379|2014-09-09|SO|IV Ka 615/14|Wyrok|40|https://www.saos.org.pl/judgments/65379
+320831|2018-01-12|SO|IV K 216/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/320831

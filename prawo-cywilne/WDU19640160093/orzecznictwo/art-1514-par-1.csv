@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-92826|2010-09-03|SN|I PK 39/10|Wyrok|https://www.saos.org.pl/judgments/92826
-92406|2010-06-10|SN|I PK 6/10|Wyrok|https://www.saos.org.pl/judgments/92406
-91657|2010-01-19|SN|I PK 142/09|Wyrok|https://www.saos.org.pl/judgments/91657
+saos_id|date|court|case_number|type|score|saos_url
+92826|2010-09-03|SN|I PK 39/10|Wyrok|78|https://www.saos.org.pl/judgments/92826
+92406|2010-06-10|SN|I PK 6/10|Wyrok|78|https://www.saos.org.pl/judgments/92406
+91657|2010-01-19|SN|I PK 142/09|Wyrok|78|https://www.saos.org.pl/judgments/91657

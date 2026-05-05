@@ -1,14 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-502337|2024-07-08|SO|II Cz 26/24|Postanowienie|https://www.saos.org.pl/judgments/502337
-490525|2023-01-20|SO|V GC 643/21|Wyrok|https://www.saos.org.pl/judgments/490525
-425415|2019-07-11|SO|V ACa 329/19|Wyrok|https://www.saos.org.pl/judgments/425415
-379698|2018-12-04|SO|V ACa 167/18|Wyrok|https://www.saos.org.pl/judgments/379698
-332265|2017-12-08|SO|I C 1111/15|Wyrok|https://www.saos.org.pl/judgments/332265
-356007|2017-11-17|SO|I ACa 816/17|Wyrok|https://www.saos.org.pl/judgments/356007
-363080|2017-10-25|SO|I ACz 1515/17|Postanowienie|https://www.saos.org.pl/judgments/363080
-327383|2017-05-29|SO|II Ca 287/17|Wyrok|https://www.saos.org.pl/judgments/327383
-169160|2015-06-02|SO|I ACa 385/15|Wyrok|https://www.saos.org.pl/judgments/169160
-74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|https://www.saos.org.pl/judgments/74077
-320144|2014-09-16|SO|XX GC 109/13|Wyrok|https://www.saos.org.pl/judgments/320144
-7563|2013-01-23|SO|I ACa 183/12|Wyrok|https://www.saos.org.pl/judgments/7563
-136842|2010-03-04|SO|II AKa 30/10|Wyrok|https://www.saos.org.pl/judgments/136842
+saos_id|date|court|case_number|type|score|saos_url
+425415|2019-07-11|SO|V ACa 329/19|Wyrok|56|https://www.saos.org.pl/judgments/425415
+379698|2018-12-04|SO|V ACa 167/18|Wyrok|56|https://www.saos.org.pl/judgments/379698
+356007|2017-11-17|SO|I ACa 816/17|Wyrok|56|https://www.saos.org.pl/judgments/356007
+169160|2015-06-02|SO|I ACa 385/15|Wyrok|56|https://www.saos.org.pl/judgments/169160
+7563|2013-01-23|SO|I ACa 183/12|Wyrok|56|https://www.saos.org.pl/judgments/7563
+136842|2010-03-04|SO|II AKa 30/10|Wyrok|56|https://www.saos.org.pl/judgments/136842
+363080|2017-10-25|SO|I ACz 1515/17|Postanowienie|47|https://www.saos.org.pl/judgments/363080
+502337|2024-07-08|SO|II Cz 26/24|Postanowienie|31|https://www.saos.org.pl/judgments/502337
+74077|2014-12-16|SO|VII Pa 351/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74077

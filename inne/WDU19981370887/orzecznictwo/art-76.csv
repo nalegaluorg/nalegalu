@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-508863|2024-01-08|SO|IV Pa 54/23|Wyrok|https://www.saos.org.pl/judgments/508863
-455888|2021-05-12|SO|IV P 20/21|Wyrok|https://www.saos.org.pl/judgments/455888
-414032|2020-03-24|SO|X P 497/17|Wyrok|https://www.saos.org.pl/judgments/414032
-1530|2012-09-25|SO|III AUa 947/12|Wyrok|https://www.saos.org.pl/judgments/1530
+saos_id|date|court|case_number|type|score|saos_url
+1530|2012-09-25|SO|III AUa 947/12|Wyrok|56|https://www.saos.org.pl/judgments/1530

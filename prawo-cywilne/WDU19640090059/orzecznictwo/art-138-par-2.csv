@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-467504|2021-12-21|SO|III RC 637/20|Wyrok|https://www.saos.org.pl/judgments/467504
-257595|2016-11-15|SO|IV RC 66/14|Wyrok|https://www.saos.org.pl/judgments/257595
-254945|2016-10-13|SO|V Ca 121/16|Wyrok|https://www.saos.org.pl/judgments/254945
+saos_id|date|court|case_number|type|score|saos_url
+254945|2016-10-13|SO|V Ca 121/16|Wyrok|40|https://www.saos.org.pl/judgments/254945

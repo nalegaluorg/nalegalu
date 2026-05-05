@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-480416|2022-11-10|SO|VII P 14/21|Wyrok|https://www.saos.org.pl/judgments/480416
-89305|2008-12-04|SN|II PK 134/08|Wyrok|https://www.saos.org.pl/judgments/89305
-83445|2005-05-25|SN|I PK 249/04|Wyrok|https://www.saos.org.pl/judgments/83445
+saos_id|date|court|case_number|type|score|saos_url
+89305|2008-12-04|SN|II PK 134/08|Wyrok|78|https://www.saos.org.pl/judgments/89305
+83445|2005-05-25|SN|I PK 249/04|Wyrok|78|https://www.saos.org.pl/judgments/83445
+480416|2022-11-10|SO|VII P 14/21|Wyrok|40|https://www.saos.org.pl/judgments/480416

@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-504779|2024-01-31|SO|III AUa 1542/22|Wyrok|https://www.saos.org.pl/judgments/504779
-5336|2013-01-30|SO|III AUa 1068/12|Wyrok|https://www.saos.org.pl/judgments/5336
-107606|2006-06-12|TK|K 38/05|Wyrok|https://www.saos.org.pl/judgments/107606
-80334|2001-02-13|SN|III ZP 38/00|Uchwała|https://www.saos.org.pl/judgments/80334
-79469|2000-01-12|SN|II UKN 292/99|Wyrok|https://www.saos.org.pl/judgments/79469
+saos_id|date|court|case_number|type|score|saos_url
+107606|2006-06-12|TK|K 38/05|Wyrok|98|https://www.saos.org.pl/judgments/107606
+80334|2001-02-13|SN|III ZP 38/00|Uchwała|89|https://www.saos.org.pl/judgments/80334
+79469|2000-01-12|SN|II UKN 292/99|Wyrok|78|https://www.saos.org.pl/judgments/79469
+504779|2024-01-31|SO|III AUa 1542/22|Wyrok|56|https://www.saos.org.pl/judgments/504779
+5336|2013-01-30|SO|III AUa 1068/12|Wyrok|56|https://www.saos.org.pl/judgments/5336

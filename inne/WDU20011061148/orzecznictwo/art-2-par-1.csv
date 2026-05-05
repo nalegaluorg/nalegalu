@@ -1,19 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-480934|2022-09-28|SO|IV Ka 334/22|Uzasadnienie|https://www.saos.org.pl/judgments/480934
-503820|2022-08-24|SO|II Ka 194/22|Zarządzenie|https://www.saos.org.pl/judgments/503820
-485923|2022-07-19|SO|VI Ka 253/22|Wyrok|https://www.saos.org.pl/judgments/485923
-452119|2021-11-05|SO|VII Ka 853/21|Wyrok|https://www.saos.org.pl/judgments/452119
-434884|2021-02-10|SO|V Kz 871/20|Postanowienie|https://www.saos.org.pl/judgments/434884
-432056|2020-12-21|SO|II W 2206/20|Postanowienie|https://www.saos.org.pl/judgments/432056
-381463|2019-04-24|SO|VI Ka 939/18|Wyrok|https://www.saos.org.pl/judgments/381463
-367383|2018-12-14|SO|II Ka 328/18|Wyrok|https://www.saos.org.pl/judgments/367383
-347140|2018-03-16|SO|VI Ka 100/18|Wyrok|https://www.saos.org.pl/judgments/347140
-277587|2017-03-29|SO|II Ka 103/17|Wyrok|https://www.saos.org.pl/judgments/277587
-235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|https://www.saos.org.pl/judgments/235683
-234069|2016-04-14|SO|VI W 4421/15|Wyrok|https://www.saos.org.pl/judgments/234069
-173720|2015-07-24|SO|V Ka 352/15|Wyrok|https://www.saos.org.pl/judgments/173720
-177086|2015-03-04|SO|II Ka 32/15|Uzasadnienie|https://www.saos.org.pl/judgments/177086
-167809|2015-01-15|SN|III KK 302/14|Wyrok|https://www.saos.org.pl/judgments/167809
-25988|2013-11-07|SO|IX Ka 1355/13|Wyrok|https://www.saos.org.pl/judgments/25988
-13959|2013-06-04|SO|IV Ka 211/13|Wyrok|https://www.saos.org.pl/judgments/13959
-109704|2010-07-20|TK|P 13/10|Postanowienie|https://www.saos.org.pl/judgments/109704
+saos_id|date|court|case_number|type|score|saos_url
+109704|2010-07-20|TK|P 13/10|Postanowienie|80|https://www.saos.org.pl/judgments/109704
+167809|2015-01-15|SN|III KK 302/14|Wyrok|78|https://www.saos.org.pl/judgments/167809
+485923|2022-07-19|SO|VI Ka 253/22|Wyrok|40|https://www.saos.org.pl/judgments/485923
+381463|2019-04-24|SO|VI Ka 939/18|Wyrok|40|https://www.saos.org.pl/judgments/381463
+434884|2021-02-10|SO|V Kz 871/20|Postanowienie|31|https://www.saos.org.pl/judgments/434884
+235683|2016-06-17|SO|V Ka 751/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/235683

@@ -1,15 +1,15 @@
-saos_id|date|court|case_number|type|saos_url
-387832|2019-05-22|SO|V U 129/19|Wyrok|https://www.saos.org.pl/judgments/387832
-387556|2019-02-25|SO|VII U 437/18|Wyrok|https://www.saos.org.pl/judgments/387556
-390678|2018-11-22|SO|III AUa 296/18|Wyrok|https://www.saos.org.pl/judgments/390678
-392401|2018-11-21|SO|IV U 1160/18|Wyrok|https://www.saos.org.pl/judgments/392401
-328986|2018-01-23|SO|V U 958/17|Wyrok|https://www.saos.org.pl/judgments/328986
-310796|2017-06-27|SO|III AUa 264/17|Wyrok|https://www.saos.org.pl/judgments/310796
-410361|2016-08-11|SO|III AUa 294/16|Wyrok|https://www.saos.org.pl/judgments/410361
-218032|2016-03-23|SO|III AUa 1931/15|Wyrok|https://www.saos.org.pl/judgments/218032
-203449|2016-01-12|SO|V U 997/15|Wyrok|https://www.saos.org.pl/judgments/203449
-232465|2014-10-30|SO|VII U 3480/13|Wyrok|https://www.saos.org.pl/judgments/232465
-166929|2014-10-09|SN|II UK 13/14|Wyrok|https://www.saos.org.pl/judgments/166929
-80800|2001-08-30|SN|II UKN 517/00|Wyrok|https://www.saos.org.pl/judgments/80800
-105494|2000-03-21|TK|K 4/99|Postanowienie|https://www.saos.org.pl/judgments/105494
-205927|1999-12-20|TK|K 4/99|Wyrok|https://www.saos.org.pl/judgments/205927
+saos_id|date|court|case_number|type|score|saos_url
+205927|1999-12-20|TK|K 4/99|Wyrok|98|https://www.saos.org.pl/judgments/205927
+105494|2000-03-21|TK|K 4/99|Postanowienie|80|https://www.saos.org.pl/judgments/105494
+166929|2014-10-09|SN|II UK 13/14|Wyrok|78|https://www.saos.org.pl/judgments/166929
+80800|2001-08-30|SN|II UKN 517/00|Wyrok|78|https://www.saos.org.pl/judgments/80800
+390678|2018-11-22|SO|III AUa 296/18|Wyrok|56|https://www.saos.org.pl/judgments/390678
+310796|2017-06-27|SO|III AUa 264/17|Wyrok|56|https://www.saos.org.pl/judgments/310796
+410361|2016-08-11|SO|III AUa 294/16|Wyrok|56|https://www.saos.org.pl/judgments/410361
+218032|2016-03-23|SO|III AUa 1931/15|Wyrok|56|https://www.saos.org.pl/judgments/218032
+387832|2019-05-22|SO|V U 129/19|Wyrok|40|https://www.saos.org.pl/judgments/387832
+387556|2019-02-25|SO|VII U 437/18|Wyrok|40|https://www.saos.org.pl/judgments/387556
+392401|2018-11-21|SO|IV U 1160/18|Wyrok|40|https://www.saos.org.pl/judgments/392401
+328986|2018-01-23|SO|V U 958/17|Wyrok|40|https://www.saos.org.pl/judgments/328986
+203449|2016-01-12|SO|V U 997/15|Wyrok|40|https://www.saos.org.pl/judgments/203449
+232465|2014-10-30|SO|VII U 3480/13|Wyrok|40|https://www.saos.org.pl/judgments/232465

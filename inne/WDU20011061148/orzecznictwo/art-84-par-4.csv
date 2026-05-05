@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-109704|2010-07-20|TK|P 13/10|Postanowienie|https://www.saos.org.pl/judgments/109704
+saos_id|date|court|case_number|type|score|saos_url
+109704|2010-07-20|TK|P 13/10|Postanowienie|80|https://www.saos.org.pl/judgments/109704

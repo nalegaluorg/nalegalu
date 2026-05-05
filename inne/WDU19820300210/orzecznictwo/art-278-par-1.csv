@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-424502|2020-07-27|SO|II K 720/18|Uzasadnienie|https://www.saos.org.pl/judgments/424502
-355376|2018-04-10|SO|VI ACa 1862/16|Wyrok|https://www.saos.org.pl/judgments/355376
+saos_id|date|court|case_number|type|score|saos_url
+355376|2018-04-10|SO|VI ACa 1862/16|Wyrok|56|https://www.saos.org.pl/judgments/355376
+424502|2020-07-27|SO|II K 720/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/424502

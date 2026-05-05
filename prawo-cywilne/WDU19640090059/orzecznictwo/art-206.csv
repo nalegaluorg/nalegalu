@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-215964|2016-02-08|SO|I C 1158/14|Wyrok|https://www.saos.org.pl/judgments/215964
+saos_id|date|court|case_number|type|score|saos_url
+215964|2016-02-08|SO|I C 1158/14|Wyrok|40|https://www.saos.org.pl/judgments/215964

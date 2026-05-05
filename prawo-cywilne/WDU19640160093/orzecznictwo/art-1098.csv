@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-409016|2018-02-21|SO|III AUa 1618/17|Wyrok|https://www.saos.org.pl/judgments/409016
-50528|2013-10-11|SO|VI ACa 997/13|Wyrok|https://www.saos.org.pl/judgments/50528
-24687|2013-08-06|SO|XV C 1692/12|Wyrok|https://www.saos.org.pl/judgments/24687
+saos_id|date|court|case_number|type|score|saos_url
+409016|2018-02-21|SO|III AUa 1618/17|Wyrok|56|https://www.saos.org.pl/judgments/409016
+50528|2013-10-11|SO|VI ACa 997/13|Wyrok|56|https://www.saos.org.pl/judgments/50528

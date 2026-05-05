@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-377584|2019-04-09|SO|I Ns 83/19|Postanowienie|https://www.saos.org.pl/judgments/377584
-365709|2018-12-03|SO|I Ns 336/18|Postanowienie|https://www.saos.org.pl/judgments/365709
-317692|2017-10-12|SO|VI Ga 196/17|Wyrok|https://www.saos.org.pl/judgments/317692
-227612|2016-03-01|SO|I C 109/14|Zarządzenie|https://www.saos.org.pl/judgments/227612
-88765|2008-09-26|SN|V CSK 105/08|Wyrok|https://www.saos.org.pl/judgments/88765
+saos_id|date|court|case_number|type|score|saos_url
+88765|2008-09-26|SN|V CSK 105/08|Wyrok|78|https://www.saos.org.pl/judgments/88765
+317692|2017-10-12|SO|VI Ga 196/17|Wyrok|40|https://www.saos.org.pl/judgments/317692

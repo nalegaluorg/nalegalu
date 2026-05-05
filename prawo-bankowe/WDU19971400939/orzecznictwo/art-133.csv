@@ -1,18 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-543454|2026-01-22|SO|II C 393/21|Wyrok|https://www.saos.org.pl/judgments/543454
-501449|2023-07-07|SO|II C 1852/20|Wyrok|https://www.saos.org.pl/judgments/501449
-501527|2023-03-31|SO|II C 699/21|Wyrok|https://www.saos.org.pl/judgments/501527
-492914|2022-04-06|SO|II C 940/16|Wyrok|https://www.saos.org.pl/judgments/492914
-539879|2021-09-27|SO|VI C 2464/20|Zarządzenie|https://www.saos.org.pl/judgments/539879
-466239|2021-02-19|SO|V Ca 2714/19|Wyrok|https://www.saos.org.pl/judgments/466239
-432439|2020-12-21|SO|XXVI GC 586/20|Wyrok|https://www.saos.org.pl/judgments/432439
-418702|2019-05-30|SO|I C 3963/17|Uzasadnienie|https://www.saos.org.pl/judgments/418702
-422186|2019-04-11|SO|I C 2126/17|Uzasadnienie|https://www.saos.org.pl/judgments/422186
-434822|2019-02-26|SO|I C 1167/17|Uzasadnienie|https://www.saos.org.pl/judgments/434822
-429433|2019-02-18|SO|I C 1611/17|Uzasadnienie|https://www.saos.org.pl/judgments/429433
-336417|2018-04-11|SO|IV P 38/17|Wyrok|https://www.saos.org.pl/judgments/336417
-318339|2017-12-22|SO|I C 938/16|Uzasadnienie|https://www.saos.org.pl/judgments/318339
-381490|2017-12-20|SO|I C 1585/16|Uzasadnienie|https://www.saos.org.pl/judgments/381490
-384830|2017-12-19|SO|I C 1078/16|Uzasadnienie|https://www.saos.org.pl/judgments/384830
-528913|2012-11-20|SO|I C 648/12|Wyrok|https://www.saos.org.pl/judgments/528913
-5858|2012-10-05|SO|I ACa 701/12|Wyrok|https://www.saos.org.pl/judgments/5858
+saos_id|date|court|case_number|type|score|saos_url
+5858|2012-10-05|SO|I ACa 701/12|Wyrok|56|https://www.saos.org.pl/judgments/5858

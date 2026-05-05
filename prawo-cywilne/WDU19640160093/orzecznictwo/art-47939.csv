@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-373018|2019-01-16|SO|VII AGa 1125/18|Wyrok|https://www.saos.org.pl/judgments/373018
-380174|2018-11-28|SO|VII AGa 1542/18|Wyrok|https://www.saos.org.pl/judgments/380174
-13773|2013-01-29|SO|XVII AmC 1099/12|Uzasadnienie|https://www.saos.org.pl/judgments/13773
-267978|2012-12-27|SO|XVII AmC 1099/12|Wyrok|https://www.saos.org.pl/judgments/267978
-259598|2012-12-27|SO|XVII AmC 1100/12|Wyrok|https://www.saos.org.pl/judgments/259598
-5364|2011-09-13|SO|VI ACa 303/11|Wyrok|https://www.saos.org.pl/judgments/5364
+saos_id|date|court|case_number|type|score|saos_url
+373018|2019-01-16|SO|VII AGa 1125/18|Wyrok|56|https://www.saos.org.pl/judgments/373018
+380174|2018-11-28|SO|VII AGa 1542/18|Wyrok|56|https://www.saos.org.pl/judgments/380174
+5364|2011-09-13|SO|VI ACa 303/11|Wyrok|56|https://www.saos.org.pl/judgments/5364

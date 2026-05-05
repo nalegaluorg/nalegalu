@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-526994|2023-05-29|SO|III C 112/22|Wyrok|https://www.saos.org.pl/judgments/526994
-83403|2005-05-11|SN|III CZP 11/05|Uchwała|https://www.saos.org.pl/judgments/83403
+saos_id|date|court|case_number|type|score|saos_url
+83403|2005-05-11|SN|III CZP 11/05|Uchwała|89|https://www.saos.org.pl/judgments/83403

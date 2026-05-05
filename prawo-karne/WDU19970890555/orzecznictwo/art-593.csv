@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-364648|2018-11-06|SO|XI W 3386/17|Wyrok|https://www.saos.org.pl/judgments/364648
-91577|2010-01-07|SN|V KK 243/09|Wyrok|https://www.saos.org.pl/judgments/91577
-90816|2009-09-03|SN|V KK 141/09|Wyrok|https://www.saos.org.pl/judgments/90816
+saos_id|date|court|case_number|type|score|saos_url
+91577|2010-01-07|SN|V KK 243/09|Wyrok|78|https://www.saos.org.pl/judgments/91577
+90816|2009-09-03|SN|V KK 141/09|Wyrok|78|https://www.saos.org.pl/judgments/90816

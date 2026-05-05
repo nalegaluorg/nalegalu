@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Ustawa z dnia 8 grudnia 2000 r. o zmianie ustawy o zao
 
 ## art. 2 (1)
 
-- 2006-03-29 | SN | [II UZP 3/06](https://www.saos.org.pl/judgments/84211) | Uchwała
+- 2006-03-29 | SN | [II UZP 3/06](https://www.saos.org.pl/judgments/84211) | Uchwała ★
 
 ## (ogólnie) (2)
 

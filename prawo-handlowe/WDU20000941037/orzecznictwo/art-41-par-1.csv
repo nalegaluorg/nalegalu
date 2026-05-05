@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-351283|2018-06-07|SO|XXIII Ga 566/18|Postanowienie|https://www.saos.org.pl/judgments/351283
-301444|2017-01-17|KIO|KIz O 31/17|Wyrok|https://www.saos.org.pl/judgments/301444
+saos_id|date|court|case_number|type|score|saos_url
+301444|2017-01-17|KIO|KIz O 31/17|Wyrok|44|https://www.saos.org.pl/judgments/301444

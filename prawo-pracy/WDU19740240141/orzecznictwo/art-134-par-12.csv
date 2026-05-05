@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-98164|2012-05-23|SN|I PK 175/11|Wyrok|https://www.saos.org.pl/judgments/98164
-95265|2011-06-22|SN|II PK 3/11|Wyrok|https://www.saos.org.pl/judgments/95265
-87171|2008-01-29|SN|I PK 196/07|Wyrok|https://www.saos.org.pl/judgments/87171
-85608|2007-04-03|SN|II PZP 4/07|Uchwała|https://www.saos.org.pl/judgments/85608
-83600|2005-07-12|SN|II PK 383/04|Wyrok|https://www.saos.org.pl/judgments/83600
-83578|2005-07-06|SN|III PK 51/05|Wyrok|https://www.saos.org.pl/judgments/83578
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
-80299|2001-02-02|SN|III ZP 36/00|Uchwała|https://www.saos.org.pl/judgments/80299
-80051|2000-11-16|SN|I PKN 455/00|Wyrok|https://www.saos.org.pl/judgments/80051
-79772|2000-06-06|SN|I PKN 707/99|Wyrok|https://www.saos.org.pl/judgments/79772
-79005|1999-05-05|SN|I PKN 671/98|Wyrok|https://www.saos.org.pl/judgments/79005
-205775|1997-11-26|TK|U 6/96|Wyrok|https://www.saos.org.pl/judgments/205775
+saos_id|date|court|case_number|type|score|saos_url
+205775|1997-11-26|TK|U 6/96|Wyrok|98|https://www.saos.org.pl/judgments/205775
+85608|2007-04-03|SN|II PZP 4/07|Uchwała|89|https://www.saos.org.pl/judgments/85608
+80299|2001-02-02|SN|III ZP 36/00|Uchwała|89|https://www.saos.org.pl/judgments/80299
+98164|2012-05-23|SN|I PK 175/11|Wyrok|78|https://www.saos.org.pl/judgments/98164
+95265|2011-06-22|SN|II PK 3/11|Wyrok|78|https://www.saos.org.pl/judgments/95265
+87171|2008-01-29|SN|I PK 196/07|Wyrok|78|https://www.saos.org.pl/judgments/87171
+83600|2005-07-12|SN|II PK 383/04|Wyrok|78|https://www.saos.org.pl/judgments/83600
+83578|2005-07-06|SN|III PK 51/05|Wyrok|78|https://www.saos.org.pl/judgments/83578
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275
+80051|2000-11-16|SN|I PKN 455/00|Wyrok|78|https://www.saos.org.pl/judgments/80051
+79772|2000-06-06|SN|I PKN 707/99|Wyrok|78|https://www.saos.org.pl/judgments/79772
+79005|1999-05-05|SN|I PKN 671/98|Wyrok|78|https://www.saos.org.pl/judgments/79005

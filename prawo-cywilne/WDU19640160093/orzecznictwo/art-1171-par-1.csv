@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497793|2021-12-10|SO|I C 359/18|Wyrok|https://www.saos.org.pl/judgments/497793
-375282|2019-03-11|SO|I C 828/18|Wyrok|https://www.saos.org.pl/judgments/375282
-365038|2018-11-28|SO|I C 1212/18|Wyrok|https://www.saos.org.pl/judgments/365038
-364716|2018-11-19|SO|I C 829/18|Wyrok|https://www.saos.org.pl/judgments/364716
-377336|2018-11-06|SO|I C 770/18|Wyrok|https://www.saos.org.pl/judgments/377336
-356321|2018-08-30|SO|I C 881/18|Wyrok|https://www.saos.org.pl/judgments/356321
+saos_id|date|court|case_number|type|score|saos_url
+497793|2021-12-10|SO|I C 359/18|Wyrok|40|https://www.saos.org.pl/judgments/497793

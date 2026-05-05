@@ -2,19 +2,20 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy - Prawo zamówień publicznych oraz niektórych innych ustaw*
 
-Łącznie: **44** orzeczeń
+Łącznie: **40** orzeczeń
+(pominięto 4 orzeczeń sądów rejonowych)
 
 ## art. 1 (3)
 
-- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie
+- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie ★
 - 2008-09-17 | KIO | [KIO/UZP 919/08](https://www.saos.org.pl/judgments/113109) | Wyrok
 - 2008-06-13 | KIO | [KIO/UZP 531/08](https://www.saos.org.pl/judgments/112783) | Wyrok
 
 ## art. 6 (3)
 
-- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie
-- 2010-02-24 | TK | [SK 22/08](https://www.saos.org.pl/judgments/109748) | Postanowienie
-- 2007-10-18 | SN | [III CZP 87/07](https://www.saos.org.pl/judgments/86732) | Uchwała
+- 2007-10-18 | SN | [III CZP 87/07](https://www.saos.org.pl/judgments/86732) | Uchwała ★
+- 2010-12-01 | TK | [SK 50/07](https://www.saos.org.pl/judgments/109771) | Postanowienie ★
+- 2010-02-24 | TK | [SK 22/08](https://www.saos.org.pl/judgments/109748) | Postanowienie ★
 
 ## art. 24 (1)
 
@@ -53,13 +54,6 @@ Orzeczenia powołujące: *Ustawa z dnia 13 kwietnia 2007 r. o zmianie ustawy - P
 - 2016-12-15 | KIO | [KIO 2298/16](https://www.saos.org.pl/judgments/265230) | Postanowienie
 - 2016-10-25 | KIO | [KIO 1930/16](https://www.saos.org.pl/judgments/264950) | Postanowienie
 - 2016-10-04 | KIO | [KIO 1816/16](https://www.saos.org.pl/judgments/264865) | Postanowienie
-
-## art. 94 (4)
-
-- 2020-07-08 | SO | [XXIII Ga 1629/19](https://www.saos.org.pl/judgments/426692) | Wyrok
-- 2018-10-11 | SO | [XXIII Ga 155/18](https://www.saos.org.pl/judgments/422173) | Wyrok
-- 2017-09-26 | SO | [XXIII Ga 1613/16](https://www.saos.org.pl/judgments/409653) | Wyrok
-- 2017-05-25 | SO | [XXIII Ga 1319/16](https://www.saos.org.pl/judgments/407343) | Wyrok
 
 ## art. 180 (11)
 

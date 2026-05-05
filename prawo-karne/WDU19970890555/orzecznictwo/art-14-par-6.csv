@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-253200|2016-07-28|SO|I ACa 220/16|Wyrok|https://www.saos.org.pl/judgments/253200
-217980|2015-12-14|SO|II AKa 398/15|Wyrok|https://www.saos.org.pl/judgments/217980
-202567|2015-11-06|SO|I C 205/15|Wyrok|https://www.saos.org.pl/judgments/202567
+saos_id|date|court|case_number|type|score|saos_url
+253200|2016-07-28|SO|I ACa 220/16|Wyrok|56|https://www.saos.org.pl/judgments/253200
+217980|2015-12-14|SO|II AKa 398/15|Wyrok|56|https://www.saos.org.pl/judgments/217980

@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-430495|2020-10-21|SO|I AGa 141/19|Wyrok|https://www.saos.org.pl/judgments/430495
-275973|2017-02-21|SO|I C 2056/16|Wyrok|https://www.saos.org.pl/judgments/275973
+saos_id|date|court|case_number|type|score|saos_url
+430495|2020-10-21|SO|I AGa 141/19|Wyrok|56|https://www.saos.org.pl/judgments/430495

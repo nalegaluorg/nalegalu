@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309533|2017-04-27|SO|II Ca 988/16|Wyrok|https://www.saos.org.pl/judgments/309533
-96761|2012-01-12|SN|IV CSK 250/11|Postanowienie|https://www.saos.org.pl/judgments/96761
+saos_id|date|court|case_number|type|score|saos_url
+96761|2012-01-12|SN|IV CSK 250/11|Postanowienie|69|https://www.saos.org.pl/judgments/96761

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-493387|2023-09-13|SO|I ACa 1141/22|Wyrok|https://www.saos.org.pl/judgments/493387
-476244|2021-11-26|SO|V Ca 30/21|Wyrok|https://www.saos.org.pl/judgments/476244
-47989|2014-01-23|SO|III Ca 1438/13|Wyrok|https://www.saos.org.pl/judgments/47989
-94124|2011-02-04|SN|III CZ 2/11|Postanowienie|https://www.saos.org.pl/judgments/94124
+saos_id|date|court|case_number|type|score|saos_url
+94124|2011-02-04|SN|III CZ 2/11|Postanowienie|69|https://www.saos.org.pl/judgments/94124
+493387|2023-09-13|SO|I ACa 1141/22|Wyrok|56|https://www.saos.org.pl/judgments/493387

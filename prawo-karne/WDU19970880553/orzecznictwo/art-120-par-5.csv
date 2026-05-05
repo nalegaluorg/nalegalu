@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-296853|2017-05-29|SO|II K 403/16|Wyrok|https://www.saos.org.pl/judgments/296853
-244683|2016-02-25|SN|I KZP 20/15|Uchwała|https://www.saos.org.pl/judgments/244683
-168515|2015-03-03|SN|IV KO 1/15|Wyrok|https://www.saos.org.pl/judgments/168515
+saos_id|date|court|case_number|type|score|saos_url
+244683|2016-02-25|SN|I KZP 20/15|Uchwała|96|https://www.saos.org.pl/judgments/244683
+168515|2015-03-03|SN|IV KO 1/15|Wyrok|78|https://www.saos.org.pl/judgments/168515
+296853|2017-05-29|SO|II K 403/16|Wyrok|40|https://www.saos.org.pl/judgments/296853

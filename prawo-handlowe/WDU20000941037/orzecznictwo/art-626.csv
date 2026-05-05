@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-151696|2015-02-25|SO|II Ca 40/15|Postanowienie|https://www.saos.org.pl/judgments/151696
-151695|2015-02-25|SO|II Ca 39/15|Postanowienie|https://www.saos.org.pl/judgments/151695
-346203|2014-10-28|SO|II Ca 316/14|Postanowienie|https://www.saos.org.pl/judgments/346203
-113090|2008-09-10|KIO|KIO/UZP 894/08|Wyrok|https://www.saos.org.pl/judgments/113090
+saos_id|date|court|case_number|type|score|saos_url
+113090|2008-09-10|KIO|KIO/UZP 894/08|Wyrok|44|https://www.saos.org.pl/judgments/113090

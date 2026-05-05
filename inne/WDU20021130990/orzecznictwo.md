@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 4 lipca 2002 r
 
 ## art. 42 (1)
 
-- 2016-01-21 | SN | [III SZP 4/15](https://www.saos.org.pl/judgments/244305) | Uchwała
+- 2016-01-21 | SN | [III SZP 4/15](https://www.saos.org.pl/judgments/244305) | Uchwała ★
 

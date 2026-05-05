@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-406753|2020-02-03|SO|VIII C 3030/18|Wyrok|https://www.saos.org.pl/judgments/406753
+saos_id|date|court|case_number|type|score|saos_url
+406753|2020-02-03|SO|VIII C 3030/18|Wyrok|40|https://www.saos.org.pl/judgments/406753

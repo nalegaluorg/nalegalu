@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-467934|2022-04-12|SO|VIII GC 222/19|Wyrok|https://www.saos.org.pl/judgments/467934
-287123|2016-12-30|SO|I ACa 301/16|Wyrok|https://www.saos.org.pl/judgments/287123
-280465|2016-11-22|SO|I ACa 540/16|Wyrok|https://www.saos.org.pl/judgments/280465
+saos_id|date|court|case_number|type|score|saos_url
+287123|2016-12-30|SO|I ACa 301/16|Wyrok|56|https://www.saos.org.pl/judgments/287123
+280465|2016-11-22|SO|I ACa 540/16|Wyrok|56|https://www.saos.org.pl/judgments/280465

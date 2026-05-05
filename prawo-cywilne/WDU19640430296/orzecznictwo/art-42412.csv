@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-99387|2012-10-16|SN|IV CNP 46/12|Postanowienie|https://www.saos.org.pl/judgments/99387
-165432|2010-10-27|SN|III BPZ 1/10|Postanowienie|https://www.saos.org.pl/judgments/165432
-91040|2009-10-13|SN|II CNP 63/09|Postanowienie|https://www.saos.org.pl/judgments/91040
+saos_id|date|court|case_number|type|score|saos_url
+99387|2012-10-16|SN|IV CNP 46/12|Postanowienie|69|https://www.saos.org.pl/judgments/99387
+165432|2010-10-27|SN|III BPZ 1/10|Postanowienie|69|https://www.saos.org.pl/judgments/165432
+91040|2009-10-13|SN|II CNP 63/09|Postanowienie|69|https://www.saos.org.pl/judgments/91040

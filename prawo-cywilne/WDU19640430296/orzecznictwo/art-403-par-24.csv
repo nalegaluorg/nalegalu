@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-95730|2011-09-15|SN|II CZ 50/11|Postanowienie|https://www.saos.org.pl/judgments/95730
-95659|2011-09-09|SN|I CZ 58/11|Postanowienie|https://www.saos.org.pl/judgments/95659
+saos_id|date|court|case_number|type|score|saos_url
+95730|2011-09-15|SN|II CZ 50/11|Postanowienie|69|https://www.saos.org.pl/judgments/95730
+95659|2011-09-09|SN|I CZ 58/11|Postanowienie|69|https://www.saos.org.pl/judgments/95659

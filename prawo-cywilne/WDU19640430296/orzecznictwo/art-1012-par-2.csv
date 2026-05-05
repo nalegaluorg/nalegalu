@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-153034|2015-04-23|SO|VII Pa 81/15|Wyrok|https://www.saos.org.pl/judgments/153034
-38041|2014-02-13|SO|III APa 2/14|Wyrok|https://www.saos.org.pl/judgments/38041
-32592|2013-08-13|SO|III P 9/12|Wyrok|https://www.saos.org.pl/judgments/32592
-28679|2013-06-14|SO|VI Pa 43/13|Wyrok|https://www.saos.org.pl/judgments/28679
-3870|2012-11-21|SO|III APa 51/12|Wyrok|https://www.saos.org.pl/judgments/3870
-89604|2009-02-04|SN|II PK 223/08|Wyrok|https://www.saos.org.pl/judgments/89604
+saos_id|date|court|case_number|type|score|saos_url
+89604|2009-02-04|SN|II PK 223/08|Wyrok|78|https://www.saos.org.pl/judgments/89604
+38041|2014-02-13|SO|III APa 2/14|Wyrok|56|https://www.saos.org.pl/judgments/38041
+3870|2012-11-21|SO|III APa 51/12|Wyrok|56|https://www.saos.org.pl/judgments/3870

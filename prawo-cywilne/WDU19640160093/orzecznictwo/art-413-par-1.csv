@@ -1,7 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-438035|2021-02-10|SO|I ACa 325/20|Wyrok|https://www.saos.org.pl/judgments/438035
-544814|2020-02-06|SO|XX GC 728/11|Wyrok|https://www.saos.org.pl/judgments/544814
-271019|2017-01-04|SO|I ACa 623/16|Wyrok|https://www.saos.org.pl/judgments/271019
-249929|2016-09-07|SO|IV Ca 468/16|Wyrok|https://www.saos.org.pl/judgments/249929
-318551|2015-11-10|SO|XXVI GC 770/12|Wyrok|https://www.saos.org.pl/judgments/318551
-231048|2014-05-29|SO|XVI GC 338/13|Wyrok|https://www.saos.org.pl/judgments/231048
+saos_id|date|court|case_number|type|score|saos_url
+438035|2021-02-10|SO|I ACa 325/20|Wyrok|56|https://www.saos.org.pl/judgments/438035
+271019|2017-01-04|SO|I ACa 623/16|Wyrok|56|https://www.saos.org.pl/judgments/271019

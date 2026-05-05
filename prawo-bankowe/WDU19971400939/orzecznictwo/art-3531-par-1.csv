@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-462217|2022-03-03|SO|V ACa 106/21|Wyrok|https://www.saos.org.pl/judgments/462217
+saos_id|date|court|case_number|type|score|saos_url
+462217|2022-03-03|SO|V ACa 106/21|Wyrok|56|https://www.saos.org.pl/judgments/462217

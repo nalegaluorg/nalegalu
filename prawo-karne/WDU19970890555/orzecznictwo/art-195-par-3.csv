@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-366958|2018-12-05|SO|II AKa 181/18|Wyrok|https://www.saos.org.pl/judgments/366958
-368164|2018-11-28|SO|II AKa 377/17|Wyrok|https://www.saos.org.pl/judgments/368164
-317323|2017-10-06|SO|II AKa 233/17|Wyrok|https://www.saos.org.pl/judgments/317323
+saos_id|date|court|case_number|type|score|saos_url
+366958|2018-12-05|SO|II AKa 181/18|Wyrok|56|https://www.saos.org.pl/judgments/366958
+368164|2018-11-28|SO|II AKa 377/17|Wyrok|56|https://www.saos.org.pl/judgments/368164
+317323|2017-10-06|SO|II AKa 233/17|Wyrok|56|https://www.saos.org.pl/judgments/317323

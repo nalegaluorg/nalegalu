@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-520810|2024-11-14|SO|V ACa 1383/24|Wyrok|https://www.saos.org.pl/judgments/520810
+saos_id|date|court|case_number|type|score|saos_url
+520810|2024-11-14|SO|V ACa 1383/24|Wyrok|56|https://www.saos.org.pl/judgments/520810

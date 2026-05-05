@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-369407|2018-12-06|SO|XXI Pa 397/18|Wyrok|https://www.saos.org.pl/judgments/369407
-324276|2018-01-30|SO|VIII Pa 275/17|Uzasadnienie|https://www.saos.org.pl/judgments/324276
+saos_id|date|court|case_number|type|score|saos_url
+324276|2018-01-30|SO|VIII Pa 275/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/324276

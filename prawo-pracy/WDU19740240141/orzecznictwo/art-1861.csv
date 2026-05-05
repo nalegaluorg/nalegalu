@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-306853|2017-09-26|SO|VIII Pa 127/17|Uzasadnienie|https://www.saos.org.pl/judgments/306853
-69834|2014-06-12|SO|VIII Pa 47/14|Wyrok|https://www.saos.org.pl/judgments/69834
+saos_id|date|court|case_number|type|score|saos_url
+306853|2017-09-26|SO|VIII Pa 127/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/306853

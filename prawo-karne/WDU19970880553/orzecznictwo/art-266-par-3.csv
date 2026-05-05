@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-487865|2019-03-06|SO|X K 166/17|Uzasadnienie|https://www.saos.org.pl/judgments/487865
-365557|2018-11-15|SO|II AKa 230/18|Wyrok|https://www.saos.org.pl/judgments/365557
-375085|2018-09-12|SO|VI ACa 531/17|Wyrok|https://www.saos.org.pl/judgments/375085
-289920|2017-05-10|SO|II AKa 70/17|Wyrok|https://www.saos.org.pl/judgments/289920
-203922|2015-11-04|SO|II AKa 202/13|Wyrok|https://www.saos.org.pl/judgments/203922
-81326|2002-04-05|SN|II CKN 1095/99|Wyrok|https://www.saos.org.pl/judgments/81326
+saos_id|date|court|case_number|type|score|saos_url
+81326|2002-04-05|SN|II CKN 1095/99|Wyrok|78|https://www.saos.org.pl/judgments/81326
+365557|2018-11-15|SO|II AKa 230/18|Wyrok|56|https://www.saos.org.pl/judgments/365557
+375085|2018-09-12|SO|VI ACa 531/17|Wyrok|56|https://www.saos.org.pl/judgments/375085
+289920|2017-05-10|SO|II AKa 70/17|Wyrok|56|https://www.saos.org.pl/judgments/289920
+203922|2015-11-04|SO|II AKa 202/13|Wyrok|56|https://www.saos.org.pl/judgments/203922

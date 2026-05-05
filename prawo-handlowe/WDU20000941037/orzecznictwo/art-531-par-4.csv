@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-459711|2022-02-04|SO|I C 214/21|Wyrok|https://www.saos.org.pl/judgments/459711
-437807|2021-04-30|SO|VIII GC 347/18|Uzasadnienie|https://www.saos.org.pl/judgments/437807
-416729|2020-06-29|SO|I C 904/18|Wyrok|https://www.saos.org.pl/judgments/416729
-429214|2020-01-30|SO|I ACa 581/19|Wyrok|https://www.saos.org.pl/judgments/429214
+saos_id|date|court|case_number|type|score|saos_url
+429214|2020-01-30|SO|I ACa 581/19|Wyrok|56|https://www.saos.org.pl/judgments/429214

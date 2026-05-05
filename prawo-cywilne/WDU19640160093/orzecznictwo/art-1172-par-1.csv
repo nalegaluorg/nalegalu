@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-496999|2024-02-02|SO|I C 2403/21|Wyrok|https://www.saos.org.pl/judgments/496999
-376914|2019-02-05|SO|I C 1656/18|Wyrok|https://www.saos.org.pl/judgments/376914
+saos_id|date|court|case_number|type|score|saos_url
+376914|2019-02-05|SO|I C 1656/18|Wyrok|40|https://www.saos.org.pl/judgments/376914

@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-481089|2021-05-12|SO|V Ca 1829/20|Postanowienie|https://www.saos.org.pl/judgments/481089
-150658|2015-03-18|SO|II Ca 1059/14|Postanowienie|https://www.saos.org.pl/judgments/150658
-102092|2013-06-13|SN|IV CSK 688/12|Postanowienie|https://www.saos.org.pl/judgments/102092
-98329|2012-06-14|SN|I CSK 564/11|Postanowienie|https://www.saos.org.pl/judgments/98329
+saos_id|date|court|case_number|type|score|saos_url
+102092|2013-06-13|SN|IV CSK 688/12|Postanowienie|69|https://www.saos.org.pl/judgments/102092
+98329|2012-06-14|SN|I CSK 564/11|Postanowienie|69|https://www.saos.org.pl/judgments/98329

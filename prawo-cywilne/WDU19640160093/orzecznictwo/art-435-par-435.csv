@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-97|2012-10-23|SO|I ACa 949/12|Wyrok|https://www.saos.org.pl/judgments/97
+saos_id|date|court|case_number|type|score|saos_url
+97|2012-10-23|SO|I ACa 949/12|Wyrok|56|https://www.saos.org.pl/judgments/97

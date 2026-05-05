@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-404760|2020-01-15|SO|IV Pa 93/19|Wyrok|https://www.saos.org.pl/judgments/404760
+saos_id|date|court|case_number|type|score|saos_url
+404760|2020-01-15|SO|IV Pa 93/19|Wyrok|40|https://www.saos.org.pl/judgments/404760

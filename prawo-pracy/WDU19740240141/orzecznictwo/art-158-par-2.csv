@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-388376|2018-04-25|SO|I C 356/15|Wyrok|https://www.saos.org.pl/judgments/388376
-51061|2013-11-27|SO|I ACa 1151/13|Wyrok|https://www.saos.org.pl/judgments/51061
+saos_id|date|court|case_number|type|score|saos_url
+51061|2013-11-27|SO|I ACa 1151/13|Wyrok|56|https://www.saos.org.pl/judgments/51061

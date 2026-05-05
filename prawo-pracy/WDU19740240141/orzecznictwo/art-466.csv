@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-365803|2018-08-24|SO|IV Pa 39/18|Wyrok|https://www.saos.org.pl/judgments/365803
-149583|2015-04-16|SO|VII Pa 54/15|Uzasadnienie|https://www.saos.org.pl/judgments/149583
+saos_id|date|court|case_number|type|score|saos_url
+365803|2018-08-24|SO|IV Pa 39/18|Wyrok|40|https://www.saos.org.pl/judgments/365803
+149583|2015-04-16|SO|VII Pa 54/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/149583

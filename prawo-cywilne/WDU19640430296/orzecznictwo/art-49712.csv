@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-246836|2015-04-29|SO|I ACa 214/15|Wyrok|https://www.saos.org.pl/judgments/246836
-25183|2013-10-11|SO|VIII Ga 16/13|Uzasadnienie|https://www.saos.org.pl/judgments/25183
-88573|2008-08-08|SN|V CSK 87/08|Wyrok|https://www.saos.org.pl/judgments/88573
+saos_id|date|court|case_number|type|score|saos_url
+88573|2008-08-08|SN|V CSK 87/08|Wyrok|78|https://www.saos.org.pl/judgments/88573
+246836|2015-04-29|SO|I ACa 214/15|Wyrok|56|https://www.saos.org.pl/judgments/246836

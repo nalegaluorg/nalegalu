@@ -1,21 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-504308|2023-08-17|SO|II Kp 735/23|Uzasadnienie|https://www.saos.org.pl/judgments/504308
-472780|2022-07-14|SO|V ACa 909/21|Wyrok|https://www.saos.org.pl/judgments/472780
-477985|2022-06-17|SO|IV C 2583/20|Wyrok|https://www.saos.org.pl/judgments/477985
-448300|2021-09-15|SO|I ACa 461/21|Wyrok|https://www.saos.org.pl/judgments/448300
-476539|2021-09-10|SO|V Ca 1607/19|Wyrok|https://www.saos.org.pl/judgments/476539
-406721|2019-10-17|SO|II C 661/19|Zarządzenie|https://www.saos.org.pl/judgments/406721
-371572|2019-01-24|SO|VI C 1043/18|Zarządzenie|https://www.saos.org.pl/judgments/371572
-306403|2017-06-27|SO|VI ACa 293/16|Wyrok|https://www.saos.org.pl/judgments/306403
-328051|2016-10-11|SO|VI U 1020/15|Wyrok|https://www.saos.org.pl/judgments/328051
-206695|2015-05-26|TK|Kp 2/13|Wyrok|https://www.saos.org.pl/judgments/206695
-160570|2015-01-20|TK|K 39/12|Wyrok|https://www.saos.org.pl/judgments/160570
-5855|2012-11-21|SO|I ACa 630/12|Wyrok|https://www.saos.org.pl/judgments/5855
-108193|2007-05-22|TK|SK 70/05|Postanowienie|https://www.saos.org.pl/judgments/108193
-108484|2007-02-26|TK|Tw 22/06|Postanowienie|https://www.saos.org.pl/judgments/108484
-108049|2006-09-22|TK|U 4/06|Wyrok|https://www.saos.org.pl/judgments/108049
-106701|2004-01-07|TK|K 14/03|Wyrok|https://www.saos.org.pl/judgments/106701
-80912|2001-10-18|SN|I KZP 9/01|Uchwała|https://www.saos.org.pl/judgments/80912
-105530|2000-09-20|TK|Ts 19/00|Postanowienie|https://www.saos.org.pl/judgments/105530
-206021|2000-06-28|TK|K 25/99|Wyrok|https://www.saos.org.pl/judgments/206021
-105529|2000-03-06|TK|Ts 19/00|Postanowienie|https://www.saos.org.pl/judgments/105529
+saos_id|date|court|case_number|type|score|saos_url
+206695|2015-05-26|TK|Kp 2/13|Wyrok|98|https://www.saos.org.pl/judgments/206695
+160570|2015-01-20|TK|K 39/12|Wyrok|98|https://www.saos.org.pl/judgments/160570
+108049|2006-09-22|TK|U 4/06|Wyrok|98|https://www.saos.org.pl/judgments/108049
+106701|2004-01-07|TK|K 14/03|Wyrok|98|https://www.saos.org.pl/judgments/106701
+206021|2000-06-28|TK|K 25/99|Wyrok|98|https://www.saos.org.pl/judgments/206021
+80912|2001-10-18|SN|I KZP 9/01|Uchwała|96|https://www.saos.org.pl/judgments/80912
+108193|2007-05-22|TK|SK 70/05|Postanowienie|80|https://www.saos.org.pl/judgments/108193
+108484|2007-02-26|TK|Tw 22/06|Postanowienie|80|https://www.saos.org.pl/judgments/108484
+105530|2000-09-20|TK|Ts 19/00|Postanowienie|80|https://www.saos.org.pl/judgments/105530
+105529|2000-03-06|TK|Ts 19/00|Postanowienie|80|https://www.saos.org.pl/judgments/105529
+472780|2022-07-14|SO|V ACa 909/21|Wyrok|56|https://www.saos.org.pl/judgments/472780
+448300|2021-09-15|SO|I ACa 461/21|Wyrok|56|https://www.saos.org.pl/judgments/448300
+306403|2017-06-27|SO|VI ACa 293/16|Wyrok|56|https://www.saos.org.pl/judgments/306403
+5855|2012-11-21|SO|I ACa 630/12|Wyrok|56|https://www.saos.org.pl/judgments/5855
+328051|2016-10-11|SO|VI U 1020/15|Wyrok|40|https://www.saos.org.pl/judgments/328051

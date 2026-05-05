@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-230183|2016-02-18|KIO|KIO 129/16|Postanowienie|https://www.saos.org.pl/judgments/230183
+saos_id|date|court|case_number|type|score|saos_url
+230183|2016-02-18|KIO|KIO 129/16|Postanowienie|36|https://www.saos.org.pl/judgments/230183

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-284160|2017-02-21|SO|XVIII C 340/16|Wyrok|https://www.saos.org.pl/judgments/284160
-251209|2016-06-15|SO|I C 1636/15|Wyrok|https://www.saos.org.pl/judgments/251209
-169565|2015-07-07|SO|VI Ca 501/15|Postanowienie|https://www.saos.org.pl/judgments/169565
-5478|2013-01-21|SO|III AUa 828/12|Postanowienie|https://www.saos.org.pl/judgments/5478
-95704|2011-09-09|SN|III UZ 22/11|Postanowienie|https://www.saos.org.pl/judgments/95704
+saos_id|date|court|case_number|type|score|saos_url
+95704|2011-09-09|SN|III UZ 22/11|Postanowienie|69|https://www.saos.org.pl/judgments/95704
+5478|2013-01-21|SO|III AUa 828/12|Postanowienie|47|https://www.saos.org.pl/judgments/5478
+284160|2017-02-21|SO|XVIII C 340/16|Wyrok|40|https://www.saos.org.pl/judgments/284160
+169565|2015-07-07|SO|VI Ca 501/15|Postanowienie|31|https://www.saos.org.pl/judgments/169565

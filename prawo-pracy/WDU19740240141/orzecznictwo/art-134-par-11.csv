@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-165246|2010-03-12|SN|II PK 281/09|Wyrok|https://www.saos.org.pl/judgments/165246
-87495|2008-03-06|SN|II PK 189/07|Wyrok|https://www.saos.org.pl/judgments/87495
-87171|2008-01-29|SN|I PK 196/07|Wyrok|https://www.saos.org.pl/judgments/87171
-86974|2008-01-11|SN|I PK 108/07|Wyrok|https://www.saos.org.pl/judgments/86974
-85616|2007-04-04|SN|III PK 2/07|Wyrok|https://www.saos.org.pl/judgments/85616
-107238|2005-04-04|TK|SK 7/03|Wyrok|https://www.saos.org.pl/judgments/107238
-83275|2005-03-10|SN|II PK 241/04|Wyrok|https://www.saos.org.pl/judgments/83275
-107236|2005-02-03|TK|SK 7/03|Postanowienie|https://www.saos.org.pl/judgments/107236
-106728|2004-02-24|TK|K 54/02|Wyrok|https://www.saos.org.pl/judgments/106728
-205775|1997-11-26|TK|U 6/96|Wyrok|https://www.saos.org.pl/judgments/205775
+saos_id|date|court|case_number|type|score|saos_url
+107238|2005-04-04|TK|SK 7/03|Wyrok|98|https://www.saos.org.pl/judgments/107238
+106728|2004-02-24|TK|K 54/02|Wyrok|98|https://www.saos.org.pl/judgments/106728
+205775|1997-11-26|TK|U 6/96|Wyrok|98|https://www.saos.org.pl/judgments/205775
+107236|2005-02-03|TK|SK 7/03|Postanowienie|80|https://www.saos.org.pl/judgments/107236
+165246|2010-03-12|SN|II PK 281/09|Wyrok|78|https://www.saos.org.pl/judgments/165246
+87495|2008-03-06|SN|II PK 189/07|Wyrok|78|https://www.saos.org.pl/judgments/87495
+87171|2008-01-29|SN|I PK 196/07|Wyrok|78|https://www.saos.org.pl/judgments/87171
+86974|2008-01-11|SN|I PK 108/07|Wyrok|78|https://www.saos.org.pl/judgments/86974
+85616|2007-04-04|SN|III PK 2/07|Wyrok|78|https://www.saos.org.pl/judgments/85616
+83275|2005-03-10|SN|II PK 241/04|Wyrok|78|https://www.saos.org.pl/judgments/83275

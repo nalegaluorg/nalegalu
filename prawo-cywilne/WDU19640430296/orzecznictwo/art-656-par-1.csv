@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-524572|2019-01-31|SO|II Ca 865/18|Wyrok|https://www.saos.org.pl/judgments/524572
-380932|2018-07-18|SO|X GC 687/16|Uzasadnienie|https://www.saos.org.pl/judgments/380932
-330082|2017-10-25|SO|I ACa 573/17|Wyrok|https://www.saos.org.pl/judgments/330082
-293260|2017-03-21|SO|I C 852/14|Wyrok|https://www.saos.org.pl/judgments/293260
-293220|2017-03-16|SO|I C 1736/14|Wyrok|https://www.saos.org.pl/judgments/293220
-363137|2016-12-09|SO|I C 825/15|Wyrok|https://www.saos.org.pl/judgments/363137
-214426|2016-02-11|SO|III Ca 1955/15|Uzasadnienie|https://www.saos.org.pl/judgments/214426
-141726|2013-06-06|SO|II Ca 1293/12|Wyrok|https://www.saos.org.pl/judgments/141726
-86807|2007-11-06|SN|III CZP 93/07|Uchwała|https://www.saos.org.pl/judgments/86807
+saos_id|date|court|case_number|type|score|saos_url
+86807|2007-11-06|SN|III CZP 93/07|Uchwała|96|https://www.saos.org.pl/judgments/86807
+330082|2017-10-25|SO|I ACa 573/17|Wyrok|56|https://www.saos.org.pl/judgments/330082
+380932|2018-07-18|SO|X GC 687/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/380932
+214426|2016-02-11|SO|III Ca 1955/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/214426

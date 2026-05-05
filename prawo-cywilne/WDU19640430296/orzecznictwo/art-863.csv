@@ -1,19 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-539210|2024-04-22|SO|I 1 Co 2346/24|Postanowienie|https://www.saos.org.pl/judgments/539210
-337509|2018-03-08|SO|I Co 1087/16|Postanowienie|https://www.saos.org.pl/judgments/337509
-333570|2018-03-08|SO|I Co 1087/16|Postanowienie|https://www.saos.org.pl/judgments/333570
-300687|2017-07-24|SO|I C 37/17|Wyrok|https://www.saos.org.pl/judgments/300687
-356277|2016-12-14|SO|I Co 1313/14|Postanowienie|https://www.saos.org.pl/judgments/356277
-271434|2016-12-08|SO|I ACa 567/16|Wyrok|https://www.saos.org.pl/judgments/271434
-241978|2016-08-18|SO|III APz 20/16|Postanowienie|https://www.saos.org.pl/judgments/241978
-236241|2016-07-26|SO|II K 421/15|Wyrok|https://www.saos.org.pl/judgments/236241
-270567|2016-07-05|SO|I Co 446/16|Postanowienie|https://www.saos.org.pl/judgments/270567
-223220|2016-04-19|SO|I ACa 892/15|Wyrok|https://www.saos.org.pl/judgments/223220
-204227|2016-02-05|SO|XII 1Co 4528/15|Postanowienie|https://www.saos.org.pl/judgments/204227
-247041|2015-11-10|SO|V ACa 460/15|Wyrok|https://www.saos.org.pl/judgments/247041
-172558|2015-04-09|SO|I C 1200/13|Wyrok|https://www.saos.org.pl/judgments/172558
-130951|2015-02-26|SO|II Cz 184/15|Postanowienie|https://www.saos.org.pl/judgments/130951
-135275|2015-02-19|SO|I C 313/11|Wyrok|https://www.saos.org.pl/judgments/135275
-56981|2014-06-12|SO|II Ca 860/13|Wyrok|https://www.saos.org.pl/judgments/56981
-48529|2014-04-17|SO|III Ca 1381/13|Uzasadnienie|https://www.saos.org.pl/judgments/48529
-16466|2013-06-26|SO|VIII Ca 266/13|Wyrok|https://www.saos.org.pl/judgments/16466
+saos_id|date|court|case_number|type|score|saos_url
+271434|2016-12-08|SO|I ACa 567/16|Wyrok|56|https://www.saos.org.pl/judgments/271434
+223220|2016-04-19|SO|I ACa 892/15|Wyrok|56|https://www.saos.org.pl/judgments/223220
+247041|2015-11-10|SO|V ACa 460/15|Wyrok|56|https://www.saos.org.pl/judgments/247041
+241978|2016-08-18|SO|III APz 20/16|Postanowienie|47|https://www.saos.org.pl/judgments/241978
+48529|2014-04-17|SO|III Ca 1381/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/48529

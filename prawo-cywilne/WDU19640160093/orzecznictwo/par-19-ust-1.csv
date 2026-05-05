@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-509731|2023-03-07|SO|V ACa 1580/22|Wyrok|https://www.saos.org.pl/judgments/509731
+saos_id|date|court|case_number|type|score|saos_url
+509731|2023-03-07|SO|V ACa 1580/22|Wyrok|56|https://www.saos.org.pl/judgments/509731

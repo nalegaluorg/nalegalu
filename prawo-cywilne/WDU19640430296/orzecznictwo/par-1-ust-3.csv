@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-481185|2022-11-23|SO|I Ca 24/22|Wyrok|https://www.saos.org.pl/judgments/481185
-479868|2022-02-25|SO|VI ACa 746/21|Wyrok|https://www.saos.org.pl/judgments/479868
+saos_id|date|court|case_number|type|score|saos_url
+479868|2022-02-25|SO|VI ACa 746/21|Wyrok|56|https://www.saos.org.pl/judgments/479868

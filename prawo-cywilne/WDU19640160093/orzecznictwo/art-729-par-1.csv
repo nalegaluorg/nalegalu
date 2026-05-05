@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-367315|2018-10-31|SO|I ACa 268/18|Wyrok|https://www.saos.org.pl/judgments/367315
-181795|2015-10-30|SO|I C 1420/14|Wyrok|https://www.saos.org.pl/judgments/181795
-141983|2013-10-30|SO|I C 1040/12|Wyrok|https://www.saos.org.pl/judgments/141983
+saos_id|date|court|case_number|type|score|saos_url
+367315|2018-10-31|SO|I ACa 268/18|Wyrok|56|https://www.saos.org.pl/judgments/367315

@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-537591|2025-03-17|SO|I ACa 1378/22|Wyrok|https://www.saos.org.pl/judgments/537591
-331803|2018-02-21|SO|I Ca 495/17|Wyrok|https://www.saos.org.pl/judgments/331803
-310426|2017-09-15|SO|II Ca 1121/17|Postanowienie|https://www.saos.org.pl/judgments/310426
-309518|2017-01-18|SO|II Ca 929/16|Postanowienie|https://www.saos.org.pl/judgments/309518
-64729|2014-04-14|SO|I Ns 879/11|Postanowienie|https://www.saos.org.pl/judgments/64729
-35959|2013-11-28|SO|II Cz 829/13|Postanowienie|https://www.saos.org.pl/judgments/35959
+saos_id|date|court|case_number|type|score|saos_url
+537591|2025-03-17|SO|I ACa 1378/22|Wyrok|56|https://www.saos.org.pl/judgments/537591

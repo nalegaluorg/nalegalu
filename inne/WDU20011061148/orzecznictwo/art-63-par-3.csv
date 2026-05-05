@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-222169|2016-02-18|SO|VI Ka 11/16|Wyrok|https://www.saos.org.pl/judgments/222169
-61238|2014-08-29|SO|IV Ka 351/14|Wyrok|https://www.saos.org.pl/judgments/61238
-50047|2014-05-15|SO|XI W 3521/13|Wyrok|https://www.saos.org.pl/judgments/50047
+saos_id|date|court|case_number|type|score|saos_url
+222169|2016-02-18|SO|VI Ka 11/16|Wyrok|40|https://www.saos.org.pl/judgments/222169

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-470243|2022-04-12|SO|II AKz 159/22|Postanowienie|https://www.saos.org.pl/judgments/470243
-167321|2014-11-14|SN|IV KK 101/14|Wyrok|https://www.saos.org.pl/judgments/167321
+saos_id|date|court|case_number|type|score|saos_url
+167321|2014-11-14|SN|IV KK 101/14|Wyrok|78|https://www.saos.org.pl/judgments/167321
+470243|2022-04-12|SO|II AKz 159/22|Postanowienie|47|https://www.saos.org.pl/judgments/470243

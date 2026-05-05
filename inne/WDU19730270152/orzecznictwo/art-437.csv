@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-365557|2018-11-15|SO|II AKa 230/18|Wyrok|https://www.saos.org.pl/judgments/365557
-394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|https://www.saos.org.pl/judgments/394847
-260117|2016-11-04|SO|II AKa 269/16|Wyrok|https://www.saos.org.pl/judgments/260117
-233502|2016-05-24|SO|II AKa 72/16|Wyrok|https://www.saos.org.pl/judgments/233502
+saos_id|date|court|case_number|type|score|saos_url
+365557|2018-11-15|SO|II AKa 230/18|Wyrok|56|https://www.saos.org.pl/judgments/365557
+260117|2016-11-04|SO|II AKa 269/16|Wyrok|56|https://www.saos.org.pl/judgments/260117
+233502|2016-05-24|SO|II AKa 72/16|Wyrok|56|https://www.saos.org.pl/judgments/233502
+394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/394847

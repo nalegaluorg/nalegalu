@@ -1,9 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-467568|2021-11-18|SO|IV Pa 31/21|Wyrok|https://www.saos.org.pl/judgments/467568
-145385|2014-03-27|SO|II AKa 58/14|Wyrok|https://www.saos.org.pl/judgments/145385
-384417|2013-10-28|SO|III AUa 2084/13|Wyrok|https://www.saos.org.pl/judgments/384417
-35776|2013-05-28|SO|IV U 265/13|Wyrok|https://www.saos.org.pl/judgments/35776
-955|2012-11-15|SO|III AUa 812/12|Wyrok|https://www.saos.org.pl/judgments/955
-186|2012-08-29|SO|III AUa 342/12|Wyrok|https://www.saos.org.pl/judgments/186
-1430|2012-08-23|SO|III AUa 761/12|Wyrok|https://www.saos.org.pl/judgments/1430
-98198|2012-05-24|SN|II UK 264/11|Wyrok|https://www.saos.org.pl/judgments/98198
+saos_id|date|court|case_number|type|score|saos_url
+98198|2012-05-24|SN|II UK 264/11|Wyrok|78|https://www.saos.org.pl/judgments/98198
+145385|2014-03-27|SO|II AKa 58/14|Wyrok|56|https://www.saos.org.pl/judgments/145385
+384417|2013-10-28|SO|III AUa 2084/13|Wyrok|56|https://www.saos.org.pl/judgments/384417
+955|2012-11-15|SO|III AUa 812/12|Wyrok|56|https://www.saos.org.pl/judgments/955
+186|2012-08-29|SO|III AUa 342/12|Wyrok|56|https://www.saos.org.pl/judgments/186
+1430|2012-08-23|SO|III AUa 761/12|Wyrok|56|https://www.saos.org.pl/judgments/1430

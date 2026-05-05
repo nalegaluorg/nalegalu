@@ -1,21 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-486482|2023-02-08|SO|VI Ka 565/22|Wyrok|https://www.saos.org.pl/judgments/486482
-435212|2021-03-26|SO|II W 283/19|Wyrok|https://www.saos.org.pl/judgments/435212
-434841|2021-03-01|SO|II W 172/19|Wyrok|https://www.saos.org.pl/judgments/434841
-381837|2019-03-05|SO|V Ka 1503/18|Uzasadnienie|https://www.saos.org.pl/judgments/381837
-368774|2018-10-16|SO|VI Ka 879/18|Wyrok|https://www.saos.org.pl/judgments/368774
-357115|2018-09-11|SO|II W 55/18|Wyrok|https://www.saos.org.pl/judgments/357115
-342340|2018-04-24|SO|IV Ka 42/18|Wyrok|https://www.saos.org.pl/judgments/342340
-357900|2018-03-19|SO|VI Ka 2/18|Wyrok|https://www.saos.org.pl/judgments/357900
-331153|2018-03-07|SO|II Ka 350/17|Wyrok|https://www.saos.org.pl/judgments/331153
-333209|2018-03-02|SO|II Ka 8/18|Wyrok|https://www.saos.org.pl/judgments/333209
-336437|2018-02-20|SO|VI Ka 1078/17|Wyrok|https://www.saos.org.pl/judgments/336437
-311821|2017-10-27|SO|IV Ka 907/17|Wyrok|https://www.saos.org.pl/judgments/311821
-268891|2017-01-19|SO|XVII Ka 1258/16|Wyrok|https://www.saos.org.pl/judgments/268891
-274510|2016-10-18|SO|IV Ka 692/16|Wyrok|https://www.saos.org.pl/judgments/274510
-231671|2016-04-05|SO|VII Ka 136/16|Wyrok|https://www.saos.org.pl/judgments/231671
-187829|2015-11-03|SO|VI Ka 881/15|Wyrok|https://www.saos.org.pl/judgments/187829
-47772|2014-04-08|SO|VI W 87/14|Wyrok|https://www.saos.org.pl/judgments/47772
-45562|2014-04-01|SO|XI W 3405/13|Wyrok|https://www.saos.org.pl/judgments/45562
-38477|2014-03-04|SO|IV Ka 1306/13|Wyrok|https://www.saos.org.pl/judgments/38477
-81929|2003-03-27|SN|I KZP 3/03|Uchwała|https://www.saos.org.pl/judgments/81929
+saos_id|date|court|case_number|type|score|saos_url
+81929|2003-03-27|SN|I KZP 3/03|Uchwała|89|https://www.saos.org.pl/judgments/81929
+342340|2018-04-24|SO|IV Ka 42/18|Wyrok|40|https://www.saos.org.pl/judgments/342340
+311821|2017-10-27|SO|IV Ka 907/17|Wyrok|40|https://www.saos.org.pl/judgments/311821
+268891|2017-01-19|SO|XVII Ka 1258/16|Wyrok|40|https://www.saos.org.pl/judgments/268891
+381837|2019-03-05|SO|V Ka 1503/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/381837

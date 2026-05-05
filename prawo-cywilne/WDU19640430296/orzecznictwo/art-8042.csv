@@ -1,4 +1,20 @@
-saos_id|date|court|case_number|type|saos_url
-539211|2024-06-03|SO|I 1 Co 2608/24|Postanowienie|https://www.saos.org.pl/judgments/539211
-489099|2022-11-18|SO|I Co 3140/22|Postanowienie|https://www.saos.org.pl/judgments/489099
-482521|2022-02-11|SO|I C 561/20|Wyrok|https://www.saos.org.pl/judgments/482521
+saos_id|date|court|case_number|type|score|saos_url
+494909|2024-04-30|SO|I AGa 156/23|Wyrok|56|https://www.saos.org.pl/judgments/494909
+461052|2021-12-02|SO|VI ACa 821/19|Wyrok|56|https://www.saos.org.pl/judgments/461052
+448072|2020-03-11|SO|V ACz 49/20|Postanowienie|47|https://www.saos.org.pl/judgments/448072
+504576|2024-02-14|SO|II1 C 48/23|Wyrok|40|https://www.saos.org.pl/judgments/504576
+501466|2023-09-14|SO|II C 29/22|Wyrok|40|https://www.saos.org.pl/judgments/501466
+472185|2020-10-05|SO|II Ca 2092/19|Wyrok|40|https://www.saos.org.pl/judgments/472185
+526852|2025-04-29|SO|II1 Co 707/25|Postanowienie|31|https://www.saos.org.pl/judgments/526852
+526851|2025-04-29|SO|II1 Co 685/25|Postanowienie|31|https://www.saos.org.pl/judgments/526851
+504581|2024-06-07|SO|II1 Co 1088/24|Postanowienie|31|https://www.saos.org.pl/judgments/504581
+504587|2024-05-29|SO|II1 Co 245/24|Postanowienie|31|https://www.saos.org.pl/judgments/504587
+504583|2023-08-16|SO|II1 Co 1328/23|Postanowienie|31|https://www.saos.org.pl/judgments/504583
+438445|2021-05-12|SO|II Co 103/21|Postanowienie|31|https://www.saos.org.pl/judgments/438445
+433905|2021-01-20|SO|II1 Co 2762/20|Postanowienie|31|https://www.saos.org.pl/judgments/433905
+433904|2020-12-21|SO|II1 Co 2455/20|Postanowienie|31|https://www.saos.org.pl/judgments/433904
+504584|2024-02-06|SO|II1 Co 174/24|Uzasadnienie|27|https://www.saos.org.pl/judgments/504584
+478366|2022-03-21|SO|I C 933/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/478366
+459217|2021-12-14|SO|III Ca 2138/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/459217
+460776|2021-11-12|SO|III Ca 1508/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/460776
+488479|2021-09-14|SO|X GC 428/19|Zarządzenie|27|https://www.saos.org.pl/judgments/488479

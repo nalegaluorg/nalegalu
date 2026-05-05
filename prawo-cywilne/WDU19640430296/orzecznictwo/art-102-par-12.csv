@@ -1,18 +1,16 @@
-saos_id|date|court|case_number|type|saos_url
-321304|2017-10-26|SO|III AUa 933/16|Wyrok|https://www.saos.org.pl/judgments/321304
-246606|2016-09-01|SO|VIII Pa 20/16|Uzasadnienie|https://www.saos.org.pl/judgments/246606
-191489|2015-11-20|SO|I ACa 631/15|Wyrok|https://www.saos.org.pl/judgments/191489
-195825|2015-10-29|SO|I ACa 606/15|Wyrok|https://www.saos.org.pl/judgments/195825
-493786|2015-07-09|SO|I ACa 177/15|Wyrok|https://www.saos.org.pl/judgments/493786
-171781|2015-04-16|SO|VIII Pa 220/14|Wyrok|https://www.saos.org.pl/judgments/171781
-297036|2015-02-18|SO|II Ca 599/14|Wyrok|https://www.saos.org.pl/judgments/297036
-74438|2014-10-20|SO|III Ca 393/14|Uzasadnienie|https://www.saos.org.pl/judgments/74438
-73804|2014-10-02|SO|III Ca 580/14|Uzasadnienie|https://www.saos.org.pl/judgments/73804
-65759|2014-09-17|SO|III APa 30/13|Wyrok|https://www.saos.org.pl/judgments/65759
-60308|2014-09-12|SO|VII Pa 218/14|Uzasadnienie|https://www.saos.org.pl/judgments/60308
-60576|2014-06-30|SO|III Ca 204/14|Uzasadnienie|https://www.saos.org.pl/judgments/60576
-58149|2014-06-16|SO|III Ca 1771/13|Uzasadnienie|https://www.saos.org.pl/judgments/58149
-63338|2014-05-22|SO|V ACa 218/14|Wyrok|https://www.saos.org.pl/judgments/63338
-47494|2014-02-13|SO|I ACa 1051/13|Wyrok|https://www.saos.org.pl/judgments/47494
-32560|2013-10-29|SO|III AUa 267/13|Wyrok|https://www.saos.org.pl/judgments/32560
-408340|2013-10-22|SO|VII P 6/13|Wyrok|https://www.saos.org.pl/judgments/408340
+saos_id|date|court|case_number|type|score|saos_url
+321304|2017-10-26|SO|III AUa 933/16|Wyrok|56|https://www.saos.org.pl/judgments/321304
+191489|2015-11-20|SO|I ACa 631/15|Wyrok|56|https://www.saos.org.pl/judgments/191489
+195825|2015-10-29|SO|I ACa 606/15|Wyrok|56|https://www.saos.org.pl/judgments/195825
+493786|2015-07-09|SO|I ACa 177/15|Wyrok|56|https://www.saos.org.pl/judgments/493786
+65759|2014-09-17|SO|III APa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/65759
+63338|2014-05-22|SO|V ACa 218/14|Wyrok|56|https://www.saos.org.pl/judgments/63338
+47494|2014-02-13|SO|I ACa 1051/13|Wyrok|56|https://www.saos.org.pl/judgments/47494
+32560|2013-10-29|SO|III AUa 267/13|Wyrok|56|https://www.saos.org.pl/judgments/32560
+408340|2013-10-22|SO|VII P 6/13|Wyrok|40|https://www.saos.org.pl/judgments/408340
+246606|2016-09-01|SO|VIII Pa 20/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/246606
+74438|2014-10-20|SO|III Ca 393/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/74438
+73804|2014-10-02|SO|III Ca 580/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/73804
+60308|2014-09-12|SO|VII Pa 218/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60308
+60576|2014-06-30|SO|III Ca 204/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/60576
+58149|2014-06-16|SO|III Ca 1771/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/58149

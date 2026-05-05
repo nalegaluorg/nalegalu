@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-347454|2018-06-27|SO|II AKa 90/18|Wyrok|https://www.saos.org.pl/judgments/347454
-266070|2016-05-09|SO|I C 1046/15|Zarządzenie|https://www.saos.org.pl/judgments/266070
-18826|2012-09-14|SO|III K 56/12|Wyrok|https://www.saos.org.pl/judgments/18826
+saos_id|date|court|case_number|type|score|saos_url
+347454|2018-06-27|SO|II AKa 90/18|Wyrok|56|https://www.saos.org.pl/judgments/347454

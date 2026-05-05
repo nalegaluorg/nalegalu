@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-434205|2021-02-19|SO|V Pa 50/20|Wyrok|https://www.saos.org.pl/judgments/434205
-287278|2017-04-28|SO|V Pa 76/16|Wyrok|https://www.saos.org.pl/judgments/287278
-296476|2016-04-19|SO|XXI P 70/14|Wyrok|https://www.saos.org.pl/judgments/296476
-1812|2012-07-18|SO|III APa 11/12|Wyrok|https://www.saos.org.pl/judgments/1812
+saos_id|date|court|case_number|type|score|saos_url
+1812|2012-07-18|SO|III APa 11/12|Wyrok|56|https://www.saos.org.pl/judgments/1812

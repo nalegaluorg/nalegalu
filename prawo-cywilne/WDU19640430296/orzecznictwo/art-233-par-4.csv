@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-283518|2017-03-28|SO|III AUa 1577/16|Wyrok|https://www.saos.org.pl/judgments/283518
-203097|2016-02-03|SO|III AUa 894/15|Wyrok|https://www.saos.org.pl/judgments/203097
-211263|2015-12-22|SO|I ACa 1295/15|Wyrok|https://www.saos.org.pl/judgments/211263
-166558|2014-08-21|SN|IV CSK 683/13|Wyrok|https://www.saos.org.pl/judgments/166558
-162697|2004-11-04|SN|V CK 149/04|Postanowienie|https://www.saos.org.pl/judgments/162697
-77469|1997-02-21|SN|I PKN 7/97|Wyrok|https://www.saos.org.pl/judgments/77469
+saos_id|date|court|case_number|type|score|saos_url
+166558|2014-08-21|SN|IV CSK 683/13|Wyrok|78|https://www.saos.org.pl/judgments/166558
+77469|1997-02-21|SN|I PKN 7/97|Wyrok|78|https://www.saos.org.pl/judgments/77469
+162697|2004-11-04|SN|V CK 149/04|Postanowienie|69|https://www.saos.org.pl/judgments/162697
+283518|2017-03-28|SO|III AUa 1577/16|Wyrok|56|https://www.saos.org.pl/judgments/283518
+203097|2016-02-03|SO|III AUa 894/15|Wyrok|56|https://www.saos.org.pl/judgments/203097
+211263|2015-12-22|SO|I ACa 1295/15|Wyrok|56|https://www.saos.org.pl/judgments/211263

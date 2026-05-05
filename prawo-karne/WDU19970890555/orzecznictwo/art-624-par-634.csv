@@ -1,13 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-500525|2021-09-16|SO|II AKa 157/21|Wyrok|https://www.saos.org.pl/judgments/500525
-157617|2015-06-02|SO|VIII Ka 311/15|Wyrok|https://www.saos.org.pl/judgments/157617
-63231|2014-07-24|SO|II AKa 135/14|Wyrok|https://www.saos.org.pl/judgments/63231
-144690|2014-03-05|SO|II AKa 9/14|Wyrok|https://www.saos.org.pl/judgments/144690
-143272|2014-01-29|SO|II AKa 262/13|Wyrok|https://www.saos.org.pl/judgments/143272
-141687|2013-11-27|SO|II AKz 441/13|Postanowienie|https://www.saos.org.pl/judgments/141687
-141682|2013-10-28|SO|II AKa 199/13|Wyrok|https://www.saos.org.pl/judgments/141682
-141819|2013-10-16|SO|II AKa 172/13|Wyrok|https://www.saos.org.pl/judgments/141819
-139868|2013-07-24|SO|II AKa 109/13|Wyrok|https://www.saos.org.pl/judgments/139868
-138804|2013-04-30|SO|II AKa 81/13|Wyrok|https://www.saos.org.pl/judgments/138804
-136858|2013-01-29|SO|II AKa 230/12|Wyrok|https://www.saos.org.pl/judgments/136858
-136679|2012-12-17|SO|II AKa 196/12|Wyrok|https://www.saos.org.pl/judgments/136679
+saos_id|date|court|case_number|type|score|saos_url
+500525|2021-09-16|SO|II AKa 157/21|Wyrok|56|https://www.saos.org.pl/judgments/500525
+63231|2014-07-24|SO|II AKa 135/14|Wyrok|56|https://www.saos.org.pl/judgments/63231
+144690|2014-03-05|SO|II AKa 9/14|Wyrok|56|https://www.saos.org.pl/judgments/144690
+143272|2014-01-29|SO|II AKa 262/13|Wyrok|56|https://www.saos.org.pl/judgments/143272
+141682|2013-10-28|SO|II AKa 199/13|Wyrok|56|https://www.saos.org.pl/judgments/141682
+141819|2013-10-16|SO|II AKa 172/13|Wyrok|56|https://www.saos.org.pl/judgments/141819
+139868|2013-07-24|SO|II AKa 109/13|Wyrok|56|https://www.saos.org.pl/judgments/139868
+138804|2013-04-30|SO|II AKa 81/13|Wyrok|56|https://www.saos.org.pl/judgments/138804
+136858|2013-01-29|SO|II AKa 230/12|Wyrok|56|https://www.saos.org.pl/judgments/136858
+136679|2012-12-17|SO|II AKa 196/12|Wyrok|56|https://www.saos.org.pl/judgments/136679
+141687|2013-11-27|SO|II AKz 441/13|Postanowienie|47|https://www.saos.org.pl/judgments/141687

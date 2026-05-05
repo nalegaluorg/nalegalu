@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-341974|2018-05-11|SO|VI Ka 158/18|Wyrok|https://www.saos.org.pl/judgments/341974
-341658|2018-04-05|SO|VI Ka 25/18|Wyrok|https://www.saos.org.pl/judgments/341658
-308804|2017-09-26|SO|II K 914/17|Wyrok|https://www.saos.org.pl/judgments/308804
+saos_id|date|court|case_number|type|score|saos_url
+341974|2018-05-11|SO|VI Ka 158/18|Wyrok|40|https://www.saos.org.pl/judgments/341974
+341658|2018-04-05|SO|VI Ka 25/18|Wyrok|40|https://www.saos.org.pl/judgments/341658

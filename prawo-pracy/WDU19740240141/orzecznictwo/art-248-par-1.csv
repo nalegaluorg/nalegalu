@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-530038|2025-04-08|SO|I C 931/24|Uzasadnienie|https://www.saos.org.pl/judgments/530038
-52136|2014-02-07|SO|VI Pa 124/13|Wyrok|https://www.saos.org.pl/judgments/52136
-76687|1994-11-03|SN|I PZP 45/94|Uchwała|https://www.saos.org.pl/judgments/76687
+saos_id|date|court|case_number|type|score|saos_url
+76687|1994-11-03|SN|I PZP 45/94|Uchwała|89|https://www.saos.org.pl/judgments/76687

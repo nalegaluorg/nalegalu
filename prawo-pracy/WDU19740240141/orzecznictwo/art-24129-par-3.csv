@@ -1,2 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-328850|2018-01-18|SO|VIII Pa 2/16|Uzasadnienie|https://www.saos.org.pl/judgments/328850
+saos_id|date|court|case_number|type|score|saos_url
+83736|2005-09-20|SN|III SZP 1/05|Uchwała|89|https://www.saos.org.pl/judgments/83736
+165496|2011-12-02|SN|III PK 30/11|Wyrok|78|https://www.saos.org.pl/judgments/165496
+95840|2011-09-30|SN|III PK 14/11|Wyrok|78|https://www.saos.org.pl/judgments/95840
+94337|2011-03-03|SN|II PK 161/10|Wyrok|78|https://www.saos.org.pl/judgments/94337

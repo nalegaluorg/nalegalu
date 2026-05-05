@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-495715|2023-12-19|SO|I C 1281/23|Wyrok|https://www.saos.org.pl/judgments/495715
+saos_id|date|court|case_number|type|score|saos_url
+495715|2023-12-19|SO|I C 1281/23|Wyrok|40|https://www.saos.org.pl/judgments/495715

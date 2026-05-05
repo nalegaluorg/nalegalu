@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-373030|2019-03-05|SO|VIII Ga 620/18|Uzasadnienie|https://www.saos.org.pl/judgments/373030
-308078|2016-10-21|SO|II Ca 466/16|Wyrok|https://www.saos.org.pl/judgments/308078
-92037|2010-03-11|SN|IV CSK 388/09|Wyrok|https://www.saos.org.pl/judgments/92037
+saos_id|date|court|case_number|type|score|saos_url
+92037|2010-03-11|SN|IV CSK 388/09|Wyrok|78|https://www.saos.org.pl/judgments/92037

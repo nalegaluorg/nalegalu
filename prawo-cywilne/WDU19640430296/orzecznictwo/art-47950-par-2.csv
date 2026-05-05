@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-249083|2015-12-11|SO|XVII AmE 3/15|Wyrok|https://www.saos.org.pl/judgments/249083
-69932|2014-08-22|SO|VI ACa 1774/13|Wyrok|https://www.saos.org.pl/judgments/69932
-248060|2012-11-28|SO|XVII AmE 65/12|Postanowienie|https://www.saos.org.pl/judgments/248060
+saos_id|date|court|case_number|type|score|saos_url
+69932|2014-08-22|SO|VI ACa 1774/13|Wyrok|56|https://www.saos.org.pl/judgments/69932

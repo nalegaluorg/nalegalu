@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-408983|2020-03-13|SO|I AGa 86/19|Postanowienie|https://www.saos.org.pl/judgments/408983
-208219|2016-01-13|SO|III AUa 1301/15|Wyrok|https://www.saos.org.pl/judgments/208219
-207389|2016-01-13|SO|III AUa 1302/15|Wyrok|https://www.saos.org.pl/judgments/207389
-196818|2015-11-27|SO|III AUa 1012/15|Wyrok|https://www.saos.org.pl/judgments/196818
-184688|2015-11-04|SO|III AUa 844/15|Wyrok|https://www.saos.org.pl/judgments/184688
-169530|2015-04-29|SO|IV P 183/13|Wyrok|https://www.saos.org.pl/judgments/169530
-3572|2012-11-08|SO|I ACa 587/12|Wyrok|https://www.saos.org.pl/judgments/3572
+saos_id|date|court|case_number|type|score|saos_url
+208219|2016-01-13|SO|III AUa 1301/15|Wyrok|56|https://www.saos.org.pl/judgments/208219
+207389|2016-01-13|SO|III AUa 1302/15|Wyrok|56|https://www.saos.org.pl/judgments/207389
+196818|2015-11-27|SO|III AUa 1012/15|Wyrok|56|https://www.saos.org.pl/judgments/196818
+184688|2015-11-04|SO|III AUa 844/15|Wyrok|56|https://www.saos.org.pl/judgments/184688
+3572|2012-11-08|SO|I ACa 587/12|Wyrok|56|https://www.saos.org.pl/judgments/3572
+408983|2020-03-13|SO|I AGa 86/19|Postanowienie|47|https://www.saos.org.pl/judgments/408983
+169530|2015-04-29|SO|IV P 183/13|Wyrok|40|https://www.saos.org.pl/judgments/169530

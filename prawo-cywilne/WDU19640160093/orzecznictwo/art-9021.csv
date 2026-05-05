@@ -1,2 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-70486|2014-08-18|SO|I C 370/12|Wyrok|https://www.saos.org.pl/judgments/70486
+saos_id|date|court|case_number|type|score|saos_url
+108559|2008-10-21|TK|P 2/08|Wyrok|98|https://www.saos.org.pl/judgments/108559
+168524|2015-03-13|SN|III CZP 116/14|Uchwała|89|https://www.saos.org.pl/judgments/168524
+103853|2013-12-13|SN|III CZP 81/13|Uchwała|89|https://www.saos.org.pl/judgments/103853
+102274|2013-06-27|SN|III CZP 29/13|Uchwała|89|https://www.saos.org.pl/judgments/102274
+245405|2015-04-09|SN|V CSK 393/14|Postanowienie|69|https://www.saos.org.pl/judgments/245405
+505685|2023-04-07|SO|III Ca 1482/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/505685
+433252|2020-07-20|SO|III Ca 1713/19|Uzasadnienie|27|https://www.saos.org.pl/judgments/433252
+185445|2015-07-08|SO|III Ca 767/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185445
+185442|2015-07-08|SO|III Ca 766/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/185442

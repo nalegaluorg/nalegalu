@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-173527|2015-07-08|SO|I ACa 98/15|Wyrok|https://www.saos.org.pl/judgments/173527
+saos_id|date|court|case_number|type|score|saos_url
+173527|2015-07-08|SO|I ACa 98/15|Wyrok|56|https://www.saos.org.pl/judgments/173527

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-373361|2018-12-24|SO|III Ca 1080/18|Uzasadnienie|https://www.saos.org.pl/judgments/373361
-366869|2018-12-20|SO|IX Ca 1313/17|Postanowienie|https://www.saos.org.pl/judgments/366869
-125280|2014-11-20|SO|II Ca 589/14|Postanowienie|https://www.saos.org.pl/judgments/125280
-20109|2013-08-29|SO|II Ca 624/13|Postanowienie|https://www.saos.org.pl/judgments/20109
+saos_id|date|court|case_number|type|score|saos_url
+373361|2018-12-24|SO|III Ca 1080/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/373361

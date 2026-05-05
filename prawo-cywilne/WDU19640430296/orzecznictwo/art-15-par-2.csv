@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-473968|2022-06-23|SO|III Cz 131/22|Postanowienie|https://www.saos.org.pl/judgments/473968
-356938|2018-09-18|SO|III Ca 684/18|Wyrok|https://www.saos.org.pl/judgments/356938
-235775|2016-06-08|SO|I ACa 67/16|Wyrok|https://www.saos.org.pl/judgments/235775
-244299|2016-01-21|SN|III CZP 95/15|Uchwała|https://www.saos.org.pl/judgments/244299
-80156|2000-12-15|SN|I CKN 1131/00|Postanowienie|https://www.saos.org.pl/judgments/80156
+saos_id|date|court|case_number|type|score|saos_url
+244299|2016-01-21|SN|III CZP 95/15|Uchwała|89|https://www.saos.org.pl/judgments/244299
+80156|2000-12-15|SN|I CKN 1131/00|Postanowienie|69|https://www.saos.org.pl/judgments/80156
+235775|2016-06-08|SO|I ACa 67/16|Wyrok|56|https://www.saos.org.pl/judgments/235775

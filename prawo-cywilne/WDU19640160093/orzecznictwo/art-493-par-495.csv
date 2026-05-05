@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-254250|2016-10-03|SO|III Ca 1159/16|Uzasadnienie|https://www.saos.org.pl/judgments/254250
-271597|2014-11-12|SO|II Ca 307/14|Uzasadnienie|https://www.saos.org.pl/judgments/271597
-65468|2014-07-02|SO|XII Ga 86/14|Wyrok|https://www.saos.org.pl/judgments/65468
+saos_id|date|court|case_number|type|score|saos_url
+65468|2014-07-02|SO|XII Ga 86/14|Wyrok|40|https://www.saos.org.pl/judgments/65468
+254250|2016-10-03|SO|III Ca 1159/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/254250

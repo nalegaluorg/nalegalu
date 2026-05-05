@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-50436|2013-06-28|SO|I ACa 304/13|Wyrok|https://www.saos.org.pl/judgments/50436
+saos_id|date|court|case_number|type|score|saos_url
+50436|2013-06-28|SO|I ACa 304/13|Wyrok|56|https://www.saos.org.pl/judgments/50436

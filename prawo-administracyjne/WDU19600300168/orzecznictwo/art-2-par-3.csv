@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-515067|2022-05-31|SO|XVII AmE 142/21|Wyrok|https://www.saos.org.pl/judgments/515067
-300021|2017-08-28|SO|VIII U 856/17|Uzasadnienie|https://www.saos.org.pl/judgments/300021
-20801|2013-06-07|SO|V Ca 3024/12|Wyrok|https://www.saos.org.pl/judgments/20801
+saos_id|date|court|case_number|type|score|saos_url
+300021|2017-08-28|SO|VIII U 856/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/300021

@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-479851|2022-08-24|SO|IV Ka 596/22|Uzasadnienie|https://www.saos.org.pl/judgments/479851
-443252|2020-01-24|SO|IX Ka 598/19|Wyrok|https://www.saos.org.pl/judgments/443252
-421458|2019-03-19|SO|II AKa 257/18|Uzasadnienie|https://www.saos.org.pl/judgments/421458
-126406|2014-12-16|SO|IX Ka 1450/14|Wyrok|https://www.saos.org.pl/judgments/126406
-258535|2014-09-25|SO|X Ka 384/14|Wyrok|https://www.saos.org.pl/judgments/258535
+saos_id|date|court|case_number|type|score|saos_url
+421458|2019-03-19|SO|II AKa 257/18|Uzasadnienie|42|https://www.saos.org.pl/judgments/421458

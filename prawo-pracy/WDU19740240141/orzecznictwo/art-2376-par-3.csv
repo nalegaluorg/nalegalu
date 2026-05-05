@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-288205|2017-05-19|SO|V W 7568/15|Wyrok|https://www.saos.org.pl/judgments/288205
+saos_id|date|court|case_number|type|score|saos_url
+23834|2013-10-16|SO|III APa 13/13|Wyrok|56|https://www.saos.org.pl/judgments/23834
+330666|2017-10-17|SO|VII Pa 116/17|Wyrok|40|https://www.saos.org.pl/judgments/330666

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-364178|2018-11-28|SO|VIII GC 344/18|Zarządzenie|https://www.saos.org.pl/judgments/364178
-70969|2014-03-26|SO|I ACa 102/14|Wyrok|https://www.saos.org.pl/judgments/70969
-89968|2009-04-03|SN|II CSK 604/08|Wyrok|https://www.saos.org.pl/judgments/89968
+saos_id|date|court|case_number|type|score|saos_url
+89968|2009-04-03|SN|II CSK 604/08|Wyrok|78|https://www.saos.org.pl/judgments/89968
+70969|2014-03-26|SO|I ACa 102/14|Wyrok|56|https://www.saos.org.pl/judgments/70969

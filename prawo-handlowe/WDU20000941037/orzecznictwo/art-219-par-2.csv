@@ -1,15 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-483528|2023-02-03|SO|VIII Pa 103/22|Uzasadnienie|https://www.saos.org.pl/judgments/483528
-466909|2020-11-23|SO|IV U 446/20|Wyrok|https://www.saos.org.pl/judgments/466909
-386905|2019-06-13|SO|IV P 22/18|Wyrok|https://www.saos.org.pl/judgments/386905
-381817|2018-07-06|SO|V AGa 420/18|Wyrok|https://www.saos.org.pl/judgments/381817
-325964|2017-12-20|SO|III AUa 636/17|Wyrok|https://www.saos.org.pl/judgments/325964
-301940|2017-04-21|KIO|KIO 625/17|Wyrok|https://www.saos.org.pl/judgments/301940
-268205|2017-01-24|SO|VIII GC 536/15|Zarządzenie|https://www.saos.org.pl/judgments/268205
-262689|2016-11-02|SO|I ACa 541/16|Wyrok|https://www.saos.org.pl/judgments/262689
-286202|2016-10-27|SO|I ACa 413/16|Wyrok|https://www.saos.org.pl/judgments/286202
-225011|2016-03-23|SO|II AKa 64/16|Wyrok|https://www.saos.org.pl/judgments/225011
-234886|2016-03-11|SO|IV Pa 91/15|Wyrok|https://www.saos.org.pl/judgments/234886
-205340|2016-02-18|SO|VIII GC 189/15|Uzasadnienie|https://www.saos.org.pl/judgments/205340
-533624|2013-12-18|SO|III AUa 10/13|Wyrok|https://www.saos.org.pl/judgments/533624
-3960|2012-12-20|SO|I ACa 403/12|Wyrok|https://www.saos.org.pl/judgments/3960
+saos_id|date|court|case_number|type|score|saos_url
+381817|2018-07-06|SO|V AGa 420/18|Wyrok|56|https://www.saos.org.pl/judgments/381817
+325964|2017-12-20|SO|III AUa 636/17|Wyrok|56|https://www.saos.org.pl/judgments/325964
+262689|2016-11-02|SO|I ACa 541/16|Wyrok|56|https://www.saos.org.pl/judgments/262689
+286202|2016-10-27|SO|I ACa 413/16|Wyrok|56|https://www.saos.org.pl/judgments/286202
+225011|2016-03-23|SO|II AKa 64/16|Wyrok|56|https://www.saos.org.pl/judgments/225011
+533624|2013-12-18|SO|III AUa 10/13|Wyrok|56|https://www.saos.org.pl/judgments/533624
+3960|2012-12-20|SO|I ACa 403/12|Wyrok|56|https://www.saos.org.pl/judgments/3960
+301940|2017-04-21|KIO|KIO 625/17|Wyrok|44|https://www.saos.org.pl/judgments/301940
+466909|2020-11-23|SO|IV U 446/20|Wyrok|40|https://www.saos.org.pl/judgments/466909
+234886|2016-03-11|SO|IV Pa 91/15|Wyrok|40|https://www.saos.org.pl/judgments/234886
+483528|2023-02-03|SO|VIII Pa 103/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/483528

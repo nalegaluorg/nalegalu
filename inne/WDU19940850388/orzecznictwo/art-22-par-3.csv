@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-438672|2021-04-20|SO|V ACa 565/20|Wyrok|https://www.saos.org.pl/judgments/438672
-338871|2018-02-23|SO|II Ca 573/17|Wyrok|https://www.saos.org.pl/judgments/338871
-251774|2016-05-13|SO|V ACa 844/15|Wyrok|https://www.saos.org.pl/judgments/251774
+saos_id|date|court|case_number|type|score|saos_url
+438672|2021-04-20|SO|V ACa 565/20|Wyrok|56|https://www.saos.org.pl/judgments/438672
+251774|2016-05-13|SO|V ACa 844/15|Wyrok|56|https://www.saos.org.pl/judgments/251774

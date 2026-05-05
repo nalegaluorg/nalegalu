@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-391051|2018-10-15|SO|II K 635/15|Wyrok|https://www.saos.org.pl/judgments/391051
-405618|2018-01-23|SO|X K 270/14|Wyrok|https://www.saos.org.pl/judgments/405618
-100757|2013-02-12|SN|WK 3/12|Postanowienie|https://www.saos.org.pl/judgments/100757
-97964|2012-04-23|SN|WK 1/12|Postanowienie|https://www.saos.org.pl/judgments/97964
-79572|2000-03-17|SN|WA 7/00|Wyrok|https://www.saos.org.pl/judgments/79572
+saos_id|date|court|case_number|type|score|saos_url
+79572|2000-03-17|SN|WA 7/00|Wyrok|78|https://www.saos.org.pl/judgments/79572
+100757|2013-02-12|SN|WK 3/12|Postanowienie|69|https://www.saos.org.pl/judgments/100757
+97964|2012-04-23|SN|WK 1/12|Postanowienie|69|https://www.saos.org.pl/judgments/97964

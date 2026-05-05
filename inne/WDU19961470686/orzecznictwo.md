@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Ustawa z dnia 21 listopada 1996 r. o zmianie ustawy o 
 
 ## art. 8 (1)
 
-- 1998-04-21 | TK | [K 16/97](https://www.saos.org.pl/judgments/205794) | Postanowienie
+- 1998-04-21 | TK | [K 16/97](https://www.saos.org.pl/judgments/205794) | Postanowienie ★
 

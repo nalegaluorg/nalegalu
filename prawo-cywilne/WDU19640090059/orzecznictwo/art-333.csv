@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-486116|2023-02-27|SO|I ACa 697/21|Wyrok|https://www.saos.org.pl/judgments/486116
-360686|2018-07-05|SO|III RC 796/16|Wyrok|https://www.saos.org.pl/judgments/360686
-212120|2016-02-22|SO|III RC 671/15|Wyrok|https://www.saos.org.pl/judgments/212120
-47994|2014-01-15|SO|III Ca 1499/13|Wyrok|https://www.saos.org.pl/judgments/47994
-141026|2013-09-12|SO|I Ca 247/13|Wyrok|https://www.saos.org.pl/judgments/141026
+saos_id|date|court|case_number|type|score|saos_url
+486116|2023-02-27|SO|I ACa 697/21|Wyrok|56|https://www.saos.org.pl/judgments/486116

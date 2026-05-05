@@ -1,7 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-434727|2020-06-30|SO|I ACa 9/20|Wyrok|https://www.saos.org.pl/judgments/434727
-389318|2019-02-06|SO|I C 1357/13|Wyrok|https://www.saos.org.pl/judgments/389318
-307302|2017-08-22|SO|I ACa 125/17|Wyrok|https://www.saos.org.pl/judgments/307302
-416205|2016-03-09|SO|III Kow 287/16|Postanowienie|https://www.saos.org.pl/judgments/416205
-74992|2014-09-12|SO|VI Ka 533/14|Wyrok|https://www.saos.org.pl/judgments/74992
-475149|2012-12-12|SO|I ACa 390/12|Wyrok|https://www.saos.org.pl/judgments/475149
+saos_id|date|court|case_number|type|score|saos_url
+434727|2020-06-30|SO|I ACa 9/20|Wyrok|56|https://www.saos.org.pl/judgments/434727
+307302|2017-08-22|SO|I ACa 125/17|Wyrok|56|https://www.saos.org.pl/judgments/307302
+475149|2012-12-12|SO|I ACa 390/12|Wyrok|56|https://www.saos.org.pl/judgments/475149

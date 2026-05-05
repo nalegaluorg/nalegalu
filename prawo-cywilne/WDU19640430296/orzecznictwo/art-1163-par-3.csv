@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-538729|2025-07-17|SO|V AGa 169/24|Wyrok|https://www.saos.org.pl/judgments/538729
+saos_id|date|court|case_number|type|score|saos_url
+538729|2025-07-17|SO|V AGa 169/24|Wyrok|56|https://www.saos.org.pl/judgments/538729

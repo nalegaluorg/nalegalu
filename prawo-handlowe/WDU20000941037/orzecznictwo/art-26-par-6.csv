@@ -1,12 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-333058|2018-03-01|SO|V GC 3331/17|Wyrok|https://www.saos.org.pl/judgments/333058
-242699|2016-04-26|SO|VIII Ga 335/15|Wyrok|https://www.saos.org.pl/judgments/242699
-226661|2016-04-25|SO|IV Ka 445/15|Uzasadnienie|https://www.saos.org.pl/judgments/226661
-250748|2015-12-11|SO|I C 283/15|Wyrok|https://www.saos.org.pl/judgments/250748
-149553|2015-04-10|SO|X Ga 104/15|Wyrok|https://www.saos.org.pl/judgments/149553
-48954|2014-04-28|SO|VIII Ga 101/14|Wyrok|https://www.saos.org.pl/judgments/48954
-28744|2013-11-20|SO|I ACa 601/13|Wyrok|https://www.saos.org.pl/judgments/28744
-34204|2013-06-03|SO|XVII AmA 84/11|Uzasadnienie|https://www.saos.org.pl/judgments/34204
-264027|2013-04-17|SO|XVII AmA 84/11|Wyrok|https://www.saos.org.pl/judgments/264027
-7777|2013-02-26|SO|I ACa 361/12|Wyrok|https://www.saos.org.pl/judgments/7777
-90189|2009-05-07|SN|IV CSK 14/09|Wyrok|https://www.saos.org.pl/judgments/90189
+saos_id|date|court|case_number|type|score|saos_url
+90189|2009-05-07|SN|IV CSK 14/09|Wyrok|78|https://www.saos.org.pl/judgments/90189
+28744|2013-11-20|SO|I ACa 601/13|Wyrok|56|https://www.saos.org.pl/judgments/28744
+7777|2013-02-26|SO|I ACa 361/12|Wyrok|56|https://www.saos.org.pl/judgments/7777
+149553|2015-04-10|SO|X Ga 104/15|Wyrok|40|https://www.saos.org.pl/judgments/149553

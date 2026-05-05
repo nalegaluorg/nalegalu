@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-514916|2023-06-28|SO|XV C 18/22|Zarządzenie|https://www.saos.org.pl/judgments/514916
-493299|2019-12-20|SO|I ACa 105/19|Wyrok|https://www.saos.org.pl/judgments/493299
-364096|2018-09-12|SO|I ACa 1718/17|Wyrok|https://www.saos.org.pl/judgments/364096
-74386|2014-07-04|SO|VI ACa 1608/13|Wyrok|https://www.saos.org.pl/judgments/74386
-78332|1998-05-20|SN|I PKN 131/98|Wyrok|https://www.saos.org.pl/judgments/78332
+saos_id|date|court|case_number|type|score|saos_url
+78332|1998-05-20|SN|I PKN 131/98|Wyrok|78|https://www.saos.org.pl/judgments/78332
+493299|2019-12-20|SO|I ACa 105/19|Wyrok|56|https://www.saos.org.pl/judgments/493299
+364096|2018-09-12|SO|I ACa 1718/17|Wyrok|56|https://www.saos.org.pl/judgments/364096
+74386|2014-07-04|SO|VI ACa 1608/13|Wyrok|56|https://www.saos.org.pl/judgments/74386

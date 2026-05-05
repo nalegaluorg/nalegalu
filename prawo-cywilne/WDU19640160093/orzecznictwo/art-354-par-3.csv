@@ -1,13 +1,13 @@
-saos_id|date|court|case_number|type|saos_url
-516391|2023-10-05|SO|I ACa 171/23|Wyrok|https://www.saos.org.pl/judgments/516391
-493826|2023-07-12|SO|I ACa 1862/22|Wyrok|https://www.saos.org.pl/judgments/493826
-516398|2023-03-30|SO|I ACa 1772/22|Wyrok|https://www.saos.org.pl/judgments/516398
-516385|2023-03-16|SO|I ACa 1585/22|Wyrok|https://www.saos.org.pl/judgments/516385
-516383|2023-02-22|SO|I ACa 1577/22|Wyrok|https://www.saos.org.pl/judgments/516383
-516995|2023-02-15|SO|I ACa 1602/22|Wyrok|https://www.saos.org.pl/judgments/516995
-493404|2022-11-28|SO|I ACa 1150/22|Wyrok|https://www.saos.org.pl/judgments/493404
-516351|2022-11-24|SO|I ACa 1125/22|Wyrok|https://www.saos.org.pl/judgments/516351
-493410|2022-11-24|SO|I ACa 1162/22|Wyrok|https://www.saos.org.pl/judgments/493410
-493395|2022-11-17|SO|I ACa 1147/22|Wyrok|https://www.saos.org.pl/judgments/493395
-493389|2022-11-10|SO|I ACa 1142/22|Wyrok|https://www.saos.org.pl/judgments/493389
-493393|2022-11-03|SO|I ACa 1145/22|Wyrok|https://www.saos.org.pl/judgments/493393
+saos_id|date|court|case_number|type|score|saos_url
+516391|2023-10-05|SO|I ACa 171/23|Wyrok|56|https://www.saos.org.pl/judgments/516391
+493826|2023-07-12|SO|I ACa 1862/22|Wyrok|56|https://www.saos.org.pl/judgments/493826
+516398|2023-03-30|SO|I ACa 1772/22|Wyrok|56|https://www.saos.org.pl/judgments/516398
+516385|2023-03-16|SO|I ACa 1585/22|Wyrok|56|https://www.saos.org.pl/judgments/516385
+516383|2023-02-22|SO|I ACa 1577/22|Wyrok|56|https://www.saos.org.pl/judgments/516383
+516995|2023-02-15|SO|I ACa 1602/22|Wyrok|56|https://www.saos.org.pl/judgments/516995
+493404|2022-11-28|SO|I ACa 1150/22|Wyrok|56|https://www.saos.org.pl/judgments/493404
+516351|2022-11-24|SO|I ACa 1125/22|Wyrok|56|https://www.saos.org.pl/judgments/516351
+493410|2022-11-24|SO|I ACa 1162/22|Wyrok|56|https://www.saos.org.pl/judgments/493410
+493395|2022-11-17|SO|I ACa 1147/22|Wyrok|56|https://www.saos.org.pl/judgments/493395
+493389|2022-11-10|SO|I ACa 1142/22|Wyrok|56|https://www.saos.org.pl/judgments/493389
+493393|2022-11-03|SO|I ACa 1145/22|Wyrok|56|https://www.saos.org.pl/judgments/493393

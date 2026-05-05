@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-501266|2023-12-21|SO|II AKa 71/23|Uzasadnienie|https://www.saos.org.pl/judgments/501266
+saos_id|date|court|case_number|type|score|saos_url
+501266|2023-12-21|SO|II AKa 71/23|Uzasadnienie|42|https://www.saos.org.pl/judgments/501266

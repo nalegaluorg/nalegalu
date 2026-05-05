@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-147731|2014-03-18|SO|II C 220/11|Wyrok|https://www.saos.org.pl/judgments/147731
-43560|2014-03-18|SO|V ACa 799/13|Wyrok|https://www.saos.org.pl/judgments/43560
-147762|2013-07-23|SO|II C 220/11|Wyrok|https://www.saos.org.pl/judgments/147762
+saos_id|date|court|case_number|type|score|saos_url
+43560|2014-03-18|SO|V ACa 799/13|Wyrok|56|https://www.saos.org.pl/judgments/43560

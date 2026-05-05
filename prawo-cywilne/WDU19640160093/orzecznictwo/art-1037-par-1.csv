@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-96784|2012-01-20|SN|I CSK 297/11|Postanowienie|https://www.saos.org.pl/judgments/96784
-94583|2011-04-01|SN|III CSK 209/10|Wyrok|https://www.saos.org.pl/judgments/94583
-93954|2011-01-21|SN|III CZP 118/10|Uchwała|https://www.saos.org.pl/judgments/93954
-89072|2008-11-07|SN|II CSK 317/08|Postanowienie|https://www.saos.org.pl/judgments/89072
-89003|2008-10-30|SN|II CSK 242/08|Postanowienie|https://www.saos.org.pl/judgments/89003
-87646|2008-03-18|SN|IV CSK 478/07|Wyrok|https://www.saos.org.pl/judgments/87646
-87102|2008-01-24|SN|I CSK 362/07|Wyrok|https://www.saos.org.pl/judgments/87102
+saos_id|date|court|case_number|type|score|saos_url
+93954|2011-01-21|SN|III CZP 118/10|Uchwała|89|https://www.saos.org.pl/judgments/93954
+94583|2011-04-01|SN|III CSK 209/10|Wyrok|78|https://www.saos.org.pl/judgments/94583
+87646|2008-03-18|SN|IV CSK 478/07|Wyrok|78|https://www.saos.org.pl/judgments/87646
+87102|2008-01-24|SN|I CSK 362/07|Wyrok|78|https://www.saos.org.pl/judgments/87102
+96784|2012-01-20|SN|I CSK 297/11|Postanowienie|69|https://www.saos.org.pl/judgments/96784
+89072|2008-11-07|SN|II CSK 317/08|Postanowienie|69|https://www.saos.org.pl/judgments/89072
+89003|2008-10-30|SN|II CSK 242/08|Postanowienie|69|https://www.saos.org.pl/judgments/89003

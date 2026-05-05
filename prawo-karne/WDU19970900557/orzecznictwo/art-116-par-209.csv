@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-241433|2016-07-20|SO|II C 1364/14|Uzasadnienie|https://www.saos.org.pl/judgments/241433
-69605|2014-10-17|SO|I ACa 549/14|Wyrok|https://www.saos.org.pl/judgments/69605
-56204|2014-06-27|SO|I ACa 129/14|Wyrok|https://www.saos.org.pl/judgments/56204
+saos_id|date|court|case_number|type|score|saos_url
+69605|2014-10-17|SO|I ACa 549/14|Wyrok|56|https://www.saos.org.pl/judgments/69605
+56204|2014-06-27|SO|I ACa 129/14|Wyrok|56|https://www.saos.org.pl/judgments/56204
+241433|2016-07-20|SO|II C 1364/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/241433

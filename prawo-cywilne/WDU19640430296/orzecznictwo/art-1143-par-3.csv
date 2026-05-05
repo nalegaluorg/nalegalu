@@ -1,12 +1,12 @@
-saos_id|date|court|case_number|type|saos_url
-245256|2016-05-12|SN|I CSK 360/15|Wyrok|https://www.saos.org.pl/judgments/245256
-168788|2015-04-09|SN|II CSK 550/14|Postanowienie|https://www.saos.org.pl/judgments/168788
-168421|2015-02-25|SN|IV CSK 312/14|Wyrok|https://www.saos.org.pl/judgments/168421
-165998|2014-06-03|SN|III SPP 116/14|Postanowienie|https://www.saos.org.pl/judgments/165998
-101807|2013-05-23|SN|II CSK 250/12|Wyrok|https://www.saos.org.pl/judgments/101807
-101020|2013-03-14|SN|I CSK 329/12|Wyrok|https://www.saos.org.pl/judgments/101020
-100643|2013-02-08|SN|IV CSK 309/12|Wyrok|https://www.saos.org.pl/judgments/100643
-88894|2008-10-17|SN|I CSK 105/08|Wyrok|https://www.saos.org.pl/judgments/88894
-85661|2007-04-13|SN|III CZP 21/07|Uchwała|https://www.saos.org.pl/judgments/85661
-107189|2005-03-14|TK|K 35/04|Wyrok|https://www.saos.org.pl/judgments/107189
-83044|2004-11-30|SN|IV CK 286/04|Postanowienie|https://www.saos.org.pl/judgments/83044
+saos_id|date|court|case_number|type|score|saos_url
+107189|2005-03-14|TK|K 35/04|Wyrok|98|https://www.saos.org.pl/judgments/107189
+85661|2007-04-13|SN|III CZP 21/07|Uchwała|89|https://www.saos.org.pl/judgments/85661
+245256|2016-05-12|SN|I CSK 360/15|Wyrok|78|https://www.saos.org.pl/judgments/245256
+168421|2015-02-25|SN|IV CSK 312/14|Wyrok|78|https://www.saos.org.pl/judgments/168421
+101807|2013-05-23|SN|II CSK 250/12|Wyrok|78|https://www.saos.org.pl/judgments/101807
+101020|2013-03-14|SN|I CSK 329/12|Wyrok|78|https://www.saos.org.pl/judgments/101020
+100643|2013-02-08|SN|IV CSK 309/12|Wyrok|78|https://www.saos.org.pl/judgments/100643
+88894|2008-10-17|SN|I CSK 105/08|Wyrok|78|https://www.saos.org.pl/judgments/88894
+168788|2015-04-09|SN|II CSK 550/14|Postanowienie|69|https://www.saos.org.pl/judgments/168788
+165998|2014-06-03|SN|III SPP 116/14|Postanowienie|69|https://www.saos.org.pl/judgments/165998
+83044|2004-11-30|SN|IV CK 286/04|Postanowienie|69|https://www.saos.org.pl/judgments/83044

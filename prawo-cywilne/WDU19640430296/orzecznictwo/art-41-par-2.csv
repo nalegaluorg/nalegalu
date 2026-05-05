@@ -1,10 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-376907|2019-02-20|SO|I C 1639/18|Zarządzenie|https://www.saos.org.pl/judgments/376907
-336705|2018-03-21|SO|I Ca 61/18|Wyrok|https://www.saos.org.pl/judgments/336705
-336541|2018-03-21|SO|I Ca 485/17|Wyrok|https://www.saos.org.pl/judgments/336541
-310402|2017-10-13|SO|I Ca 327/17|Wyrok|https://www.saos.org.pl/judgments/310402
-172995|2015-07-24|SO|IV Ca 359/15|Wyrok|https://www.saos.org.pl/judgments/172995
-66421|2014-02-27|SO|II Ca 1299/13|Wyrok|https://www.saos.org.pl/judgments/66421
-32228|2014-01-23|SO|VIII Gz 218/13|Postanowienie|https://www.saos.org.pl/judgments/32228
-12003|2013-05-17|SO|IV Ca 191/13|Wyrok|https://www.saos.org.pl/judgments/12003
-13388|2013-05-16|SO|VIII Ca 178/13|Wyrok|https://www.saos.org.pl/judgments/13388
+saos_id|date|court|case_number|type|score|saos_url
+376907|2019-02-20|SO|I C 1639/18|Zarządzenie|27|https://www.saos.org.pl/judgments/376907

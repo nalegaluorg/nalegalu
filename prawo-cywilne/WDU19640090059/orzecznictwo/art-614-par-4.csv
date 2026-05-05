@@ -1,2 +1,22 @@
-saos_id|date|court|case_number|type|saos_url
-178301|2015-09-03|SO|III Ca 862/15|Wyrok|https://www.saos.org.pl/judgments/178301
+saos_id|date|court|case_number|type|score|saos_url
+505183|2024-06-19|SO|III AUa 82/24|Wyrok|56|https://www.saos.org.pl/judgments/505183
+504711|2024-05-16|SO|III AUa 1254/23|Wyrok|56|https://www.saos.org.pl/judgments/504711
+465537|2022-02-23|SO|III AUa 808/21|Wyrok|56|https://www.saos.org.pl/judgments/465537
+449406|2017-07-11|SO|III AUa 1115/17|Wyrok|56|https://www.saos.org.pl/judgments/449406
+228104|2016-04-20|SO|III AUa 1146/15|Wyrok|56|https://www.saos.org.pl/judgments/228104
+212044|2016-02-03|SO|III AUa 1455/15|Wyrok|56|https://www.saos.org.pl/judgments/212044
+177876|2015-07-23|SO|III AUa 328/15|Wyrok|56|https://www.saos.org.pl/judgments/177876
+187077|2015-07-08|SO|V ACa 684/14|Wyrok|56|https://www.saos.org.pl/judgments/187077
+75462|2014-12-10|SO|III AUa 679/14|Wyrok|56|https://www.saos.org.pl/judgments/75462
+68205|2014-06-13|SO|III AUa 1237/13|Wyrok|56|https://www.saos.org.pl/judgments/68205
+40081|2014-02-20|SO|I ACa 998/13|Wyrok|56|https://www.saos.org.pl/judgments/40081
+533706|2012-09-25|SO|III AUa 450/12|Wyrok|56|https://www.saos.org.pl/judgments/533706
+482389|2022-12-08|SO|II Ca 619/22|Wyrok|40|https://www.saos.org.pl/judgments/482389
+467505|2022-06-10|SO|III U 162/22|Wyrok|40|https://www.saos.org.pl/judgments/467505
+273851|2017-02-23|SO|I Ca 4/17|Wyrok|40|https://www.saos.org.pl/judgments/273851
+260563|2016-11-08|SO|VII U 1677/15|Wyrok|40|https://www.saos.org.pl/judgments/260563
+234047|2016-04-26|SO|V U 35/16|Wyrok|40|https://www.saos.org.pl/judgments/234047
+542490|2025-11-25|SO|VIII U 1991/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/542490
+432153|2021-02-17|SO|VIII U 966/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/432153
+350702|2018-08-13|SO|VIII U 381/18|Zarządzenie|27|https://www.saos.org.pl/judgments/350702
+335521|2018-03-22|SO|VIII U 2107/17|Zarządzenie|27|https://www.saos.org.pl/judgments/335521

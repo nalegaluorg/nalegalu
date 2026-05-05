@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-461370|2020-08-31|SO|I AGa 274/19|Wyrok|https://www.saos.org.pl/judgments/461370
-412823|2020-01-23|SO|I ACa 410/19|Wyrok|https://www.saos.org.pl/judgments/412823
-240639|2016-07-18|SO|X GC 744/14|Zarządzenie|https://www.saos.org.pl/judgments/240639
+saos_id|date|court|case_number|type|score|saos_url
+461370|2020-08-31|SO|I AGa 274/19|Wyrok|56|https://www.saos.org.pl/judgments/461370
+412823|2020-01-23|SO|I ACa 410/19|Wyrok|56|https://www.saos.org.pl/judgments/412823
+240639|2016-07-18|SO|X GC 744/14|Zarządzenie|27|https://www.saos.org.pl/judgments/240639

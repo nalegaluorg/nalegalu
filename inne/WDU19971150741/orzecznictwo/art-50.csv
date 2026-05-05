@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-539736|2024-11-20|SO|II Ca 2277/23|Wyrok|https://www.saos.org.pl/judgments/539736
-295573|2017-01-30|SO|I C 333/16|Zarządzenie|https://www.saos.org.pl/judgments/295573
-296537|2015-04-17|SO|II Ca 840/14|Postanowienie|https://www.saos.org.pl/judgments/296537
+saos_id|date|court|case_number|type|score|saos_url
+539736|2024-11-20|SO|II Ca 2277/23|Wyrok|40|https://www.saos.org.pl/judgments/539736

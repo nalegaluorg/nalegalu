@@ -1,5 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-370212|2019-01-23|SO|I Ca 501/18|Wyrok|https://www.saos.org.pl/judgments/370212
-328142|2017-12-29|SO|I C 927/17|Wyrok|https://www.saos.org.pl/judgments/328142
-68619|2014-10-21|SO|I ACa 528/14|Wyrok|https://www.saos.org.pl/judgments/68619
-99573|2012-11-09|SN|IV CSK 123/12|Wyrok|https://www.saos.org.pl/judgments/99573
+saos_id|date|court|case_number|type|score|saos_url
+99573|2012-11-09|SN|IV CSK 123/12|Wyrok|78|https://www.saos.org.pl/judgments/99573
+68619|2014-10-21|SO|I ACa 528/14|Wyrok|56|https://www.saos.org.pl/judgments/68619

@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-374397|2018-12-14|SO|I ACa 138/18|Wyrok|https://www.saos.org.pl/judgments/374397
-225337|2016-04-29|SO|IX Ga 554/15|Wyrok|https://www.saos.org.pl/judgments/225337
-216316|2016-01-19|SO|VI ACa 1947/14|Wyrok|https://www.saos.org.pl/judgments/216316
-38273|2013-11-28|SO|V ACa 738/13|Wyrok|https://www.saos.org.pl/judgments/38273
-101577|2013-04-24|SN|IV CSK 596/12|Wyrok|https://www.saos.org.pl/judgments/101577
-8369|2012-12-05|SO|V ACa 545/12|Wyrok|https://www.saos.org.pl/judgments/8369
-91498|2009-12-16|SN|I CSK 188/09|Postanowienie|https://www.saos.org.pl/judgments/91498
-163812|2005-12-09|SN|III CK 231/05|Wyrok|https://www.saos.org.pl/judgments/163812
-163577|2005-10-07|SN|IV CK 155/05|Wyrok|https://www.saos.org.pl/judgments/163577
+saos_id|date|court|case_number|type|score|saos_url
+101577|2013-04-24|SN|IV CSK 596/12|Wyrok|78|https://www.saos.org.pl/judgments/101577
+163812|2005-12-09|SN|III CK 231/05|Wyrok|78|https://www.saos.org.pl/judgments/163812
+163577|2005-10-07|SN|IV CK 155/05|Wyrok|78|https://www.saos.org.pl/judgments/163577
+91498|2009-12-16|SN|I CSK 188/09|Postanowienie|69|https://www.saos.org.pl/judgments/91498
+374397|2018-12-14|SO|I ACa 138/18|Wyrok|56|https://www.saos.org.pl/judgments/374397
+216316|2016-01-19|SO|VI ACa 1947/14|Wyrok|56|https://www.saos.org.pl/judgments/216316
+38273|2013-11-28|SO|V ACa 738/13|Wyrok|56|https://www.saos.org.pl/judgments/38273
+8369|2012-12-05|SO|V ACa 545/12|Wyrok|56|https://www.saos.org.pl/judgments/8369

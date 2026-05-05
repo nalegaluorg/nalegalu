@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-414190|2020-06-24|SO|II Ca 630/20|Postanowienie|https://www.saos.org.pl/judgments/414190
-214217|2016-02-24|SO|I ACa 1625/15|Wyrok|https://www.saos.org.pl/judgments/214217
-213744|2015-12-16|SO|I ACz 2318/15|Postanowienie|https://www.saos.org.pl/judgments/213744
-169002|2015-05-08|SN|II CNP 5/15|Postanowienie|https://www.saos.org.pl/judgments/169002
-31908|2013-09-30|SO|I ACz 1586/13|Postanowienie|https://www.saos.org.pl/judgments/31908
+saos_id|date|court|case_number|type|score|saos_url
+169002|2015-05-08|SN|II CNP 5/15|Postanowienie|69|https://www.saos.org.pl/judgments/169002
+214217|2016-02-24|SO|I ACa 1625/15|Wyrok|56|https://www.saos.org.pl/judgments/214217
+213744|2015-12-16|SO|I ACz 2318/15|Postanowienie|47|https://www.saos.org.pl/judgments/213744
+31908|2013-09-30|SO|I ACz 1586/13|Postanowienie|47|https://www.saos.org.pl/judgments/31908

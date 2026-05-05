@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-86588|2007-09-19|SN|II CSK 252/07|Wyrok|https://www.saos.org.pl/judgments/86588
+saos_id|date|court|case_number|type|score|saos_url
+86588|2007-09-19|SN|II CSK 252/07|Wyrok|78|https://www.saos.org.pl/judgments/86588

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-401332|2019-11-21|SO|IV U 1167/19|Wyrok|https://www.saos.org.pl/judgments/401332
+saos_id|date|court|case_number|type|score|saos_url
+401332|2019-11-21|SO|IV U 1167/19|Wyrok|40|https://www.saos.org.pl/judgments/401332

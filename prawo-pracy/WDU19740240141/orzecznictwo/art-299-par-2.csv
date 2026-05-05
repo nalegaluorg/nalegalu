@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-276285|2017-01-11|SO|III AUa 1443/16|Wyrok|https://www.saos.org.pl/judgments/276285
-76958|1995-10-11|SN|I PRN 68/95|Wyrok|https://www.saos.org.pl/judgments/76958
+saos_id|date|court|case_number|type|score|saos_url
+76958|1995-10-11|SN|I PRN 68/95|Wyrok|78|https://www.saos.org.pl/judgments/76958
+276285|2017-01-11|SO|III AUa 1443/16|Wyrok|56|https://www.saos.org.pl/judgments/276285

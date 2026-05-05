@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-406968|2019-11-14|SO|VI ACa 60/18|Wyrok|https://www.saos.org.pl/judgments/406968
-320174|2017-10-18|SO|XXV C 910/16|Wyrok|https://www.saos.org.pl/judgments/320174
-263015|2016-11-14|SO|I C 1220/11|Wyrok|https://www.saos.org.pl/judgments/263015
-140197|2013-08-28|SO|I C 802/11|Wyrok|https://www.saos.org.pl/judgments/140197
+saos_id|date|court|case_number|type|score|saos_url
+406968|2019-11-14|SO|VI ACa 60/18|Wyrok|56|https://www.saos.org.pl/judgments/406968

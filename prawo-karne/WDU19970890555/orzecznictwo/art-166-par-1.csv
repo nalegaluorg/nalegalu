@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-511064|2023-11-07|SO|VI Ka 247/22|Wyrok|https://www.saos.org.pl/judgments/511064
-259458|2016-09-27|SO|II AKa 237/16|Wyrok|https://www.saos.org.pl/judgments/259458
-103312|2013-10-30|SN|II KK 139/13|Postanowienie|https://www.saos.org.pl/judgments/103312
-82710|2004-05-25|SN|WZP 1/04|Uchwała|https://www.saos.org.pl/judgments/82710
+saos_id|date|court|case_number|type|score|saos_url
+82710|2004-05-25|SN|WZP 1/04|Uchwała|89|https://www.saos.org.pl/judgments/82710
+103312|2013-10-30|SN|II KK 139/13|Postanowienie|69|https://www.saos.org.pl/judgments/103312
+259458|2016-09-27|SO|II AKa 237/16|Wyrok|56|https://www.saos.org.pl/judgments/259458
+511064|2023-11-07|SO|VI Ka 247/22|Wyrok|40|https://www.saos.org.pl/judgments/511064

@@ -1,15 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-536224|2025-07-17|SO|IV P 529/22|Wyrok|https://www.saos.org.pl/judgments/536224
-422460|2020-10-20|SO|IV P 55/20|Wyrok|https://www.saos.org.pl/judgments/422460
-405515|2019-11-28|SO|V Pa 77/19|Wyrok|https://www.saos.org.pl/judgments/405515
-403130|2018-11-29|SO|IV Pa 38/18|Wyrok|https://www.saos.org.pl/judgments/403130
-347551|2018-05-22|SO|IV P 732/17|Wyrok|https://www.saos.org.pl/judgments/347551
-333129|2018-02-07|SO|X P 764/17|Wyrok|https://www.saos.org.pl/judgments/333129
-320911|2017-12-07|SO|XXI Pa 569/17|Wyrok|https://www.saos.org.pl/judgments/320911
-331860|2017-11-30|SO|IV P 47/17|Wyrok|https://www.saos.org.pl/judgments/331860
-329380|2017-05-25|SO|VII Pa 38/17|Wyrok|https://www.saos.org.pl/judgments/329380
-485045|2017-01-26|SO|VII Pa 204/16|Wyrok|https://www.saos.org.pl/judgments/485045
-274527|2015-12-28|SO|IV P 421/15|Wyrok|https://www.saos.org.pl/judgments/274527
-244062|2015-12-09|SN|I PK 8/15|Wyrok|https://www.saos.org.pl/judgments/244062
-168561|2015-03-11|SN|III PK 115/14|Wyrok|https://www.saos.org.pl/judgments/168561
-58502|2013-12-23|SO|IV P 461/13|Wyrok|https://www.saos.org.pl/judgments/58502
+saos_id|date|court|case_number|type|score|saos_url
+244062|2015-12-09|SN|I PK 8/15|Wyrok|78|https://www.saos.org.pl/judgments/244062
+168561|2015-03-11|SN|III PK 115/14|Wyrok|78|https://www.saos.org.pl/judgments/168561
+405515|2019-11-28|SO|V Pa 77/19|Wyrok|40|https://www.saos.org.pl/judgments/405515
+329380|2017-05-25|SO|VII Pa 38/17|Wyrok|40|https://www.saos.org.pl/judgments/329380
+485045|2017-01-26|SO|VII Pa 204/16|Wyrok|40|https://www.saos.org.pl/judgments/485045
+274527|2015-12-28|SO|IV P 421/15|Wyrok|40|https://www.saos.org.pl/judgments/274527

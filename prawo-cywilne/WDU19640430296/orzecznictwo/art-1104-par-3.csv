@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-365609|2018-11-22|SO|III Cz 873/18|Postanowienie|https://www.saos.org.pl/judgments/365609
-381397|2018-10-29|SO|III APz 5/18|Postanowienie|https://www.saos.org.pl/judgments/381397
-256677|2016-10-21|SO|VI P 131/14|Wyrok|https://www.saos.org.pl/judgments/256677
+saos_id|date|court|case_number|type|score|saos_url
+381397|2018-10-29|SO|III APz 5/18|Postanowienie|47|https://www.saos.org.pl/judgments/381397

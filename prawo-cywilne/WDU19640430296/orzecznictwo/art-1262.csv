@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-487053|2022-05-26|SO|I C 597/22|Postanowienie|https://www.saos.org.pl/judgments/487053
-359917|2018-05-16|SO|II Ca 1368/17|Zarządzenie|https://www.saos.org.pl/judgments/359917
-325697|2017-09-27|SO|III APa 4/16|Wyrok|https://www.saos.org.pl/judgments/325697
-61922|2014-08-08|SO|II S 78/14|Postanowienie|https://www.saos.org.pl/judgments/61922
-98490|2012-06-26|SN|II PK 277/11|Wyrok|https://www.saos.org.pl/judgments/98490
+saos_id|date|court|case_number|type|score|saos_url
+98490|2012-06-26|SN|II PK 277/11|Wyrok|78|https://www.saos.org.pl/judgments/98490
+325697|2017-09-27|SO|III APa 4/16|Wyrok|56|https://www.saos.org.pl/judgments/325697
+61922|2014-08-08|SO|II S 78/14|Postanowienie|31|https://www.saos.org.pl/judgments/61922

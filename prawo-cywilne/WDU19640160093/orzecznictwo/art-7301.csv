@@ -1,7 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-428187|2020-11-05|SO|XXVI GCo 222/20|Postanowienie|https://www.saos.org.pl/judgments/428187
-428186|2020-06-10|SO|XXVI GCo 107/20|Postanowienie|https://www.saos.org.pl/judgments/428186
-265457|2015-09-09|SO|II Cz 633/15|Postanowienie|https://www.saos.org.pl/judgments/265457
-171462|2015-07-09|SO|VI Gz 187/15|Postanowienie|https://www.saos.org.pl/judgments/171462
-155804|2015-01-15|SO|II Cz 10/15|Postanowienie|https://www.saos.org.pl/judgments/155804
-148618|2014-09-24|SO|II Cz 666/14|Postanowienie|https://www.saos.org.pl/judgments/148618
+saos_id|date|court|case_number|type|score|saos_url
+171462|2015-07-09|SO|VI Gz 187/15|Postanowienie|31|https://www.saos.org.pl/judgments/171462

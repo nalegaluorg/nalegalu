@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-446238|2021-03-11|SO|VI Ka 508/20|Wyrok|https://www.saos.org.pl/judgments/446238
-101007|2013-03-06|SN|IV KK 414/12|Wyrok|https://www.saos.org.pl/judgments/101007
-100509|2013-01-31|SN|II KK 70/12|Wyrok|https://www.saos.org.pl/judgments/100509
+saos_id|date|court|case_number|type|score|saos_url
+101007|2013-03-06|SN|IV KK 414/12|Wyrok|78|https://www.saos.org.pl/judgments/101007
+100509|2013-01-31|SN|II KK 70/12|Wyrok|78|https://www.saos.org.pl/judgments/100509

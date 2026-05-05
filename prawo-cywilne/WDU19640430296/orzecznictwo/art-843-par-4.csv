@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-291332|2017-06-28|SO|VIII Gz 103/17|Postanowienie|https://www.saos.org.pl/judgments/291332
-88643|2008-09-05|SN|I CNP 27/08|Wyrok|https://www.saos.org.pl/judgments/88643
-81637|2002-10-09|SN|IV CKN 1370/00|Wyrok|https://www.saos.org.pl/judgments/81637
+saos_id|date|court|case_number|type|score|saos_url
+88643|2008-09-05|SN|I CNP 27/08|Wyrok|78|https://www.saos.org.pl/judgments/88643
+81637|2002-10-09|SN|IV CKN 1370/00|Wyrok|78|https://www.saos.org.pl/judgments/81637

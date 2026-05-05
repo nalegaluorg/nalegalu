@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-309150|2017-09-06|SO|VIII GC 280/13|Wyrok|https://www.saos.org.pl/judgments/309150
-221391|2016-04-07|SO|II K 899/14|Wyrok|https://www.saos.org.pl/judgments/221391
-142542|2013-12-20|SO|II AKa 423/13|Wyrok|https://www.saos.org.pl/judgments/142542
+saos_id|date|court|case_number|type|score|saos_url
+142542|2013-12-20|SO|II AKa 423/13|Wyrok|56|https://www.saos.org.pl/judgments/142542

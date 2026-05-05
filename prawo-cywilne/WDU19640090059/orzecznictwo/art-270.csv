@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-533379|2025-06-17|SO|I C 731/24|Wyrok|https://www.saos.org.pl/judgments/533379
+saos_id|date|court|case_number|type|score|saos_url
+533379|2025-06-17|SO|I C 731/24|Wyrok|40|https://www.saos.org.pl/judgments/533379

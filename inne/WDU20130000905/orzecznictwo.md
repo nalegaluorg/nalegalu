@@ -6,5 +6,5 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 17 lipca 2013 
 
 ## art. 75 § 1 (1)
 
-- 2014-03-27 | SN | [I KZP 30/13](https://www.saos.org.pl/judgments/104771) | Uchwała
+- 2014-03-27 | SN | [I KZP 30/13](https://www.saos.org.pl/judgments/104771) | Uchwała ★
 

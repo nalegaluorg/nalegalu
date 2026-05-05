@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-318872|2017-11-23|SO|V Ka 504/17|Wyrok|https://www.saos.org.pl/judgments/318872
-165956|2014-06-05|SN|SNO 23/14|Wyrok|https://www.saos.org.pl/judgments/165956
+saos_id|date|court|case_number|type|score|saos_url
+165956|2014-06-05|SN|SNO 23/14|Wyrok|78|https://www.saos.org.pl/judgments/165956

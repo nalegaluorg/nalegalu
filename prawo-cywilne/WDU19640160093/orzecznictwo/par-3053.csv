@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-210437|2015-12-21|SO|IX GC 119/15|Wyrok|https://www.saos.org.pl/judgments/210437
+saos_id|date|court|case_number|type|score|saos_url
+210437|2015-12-21|SO|IX GC 119/15|Wyrok|40|https://www.saos.org.pl/judgments/210437

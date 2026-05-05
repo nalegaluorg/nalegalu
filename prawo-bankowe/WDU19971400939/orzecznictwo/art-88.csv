@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-535681|2025-06-03|SO|I C 522/24|Wyrok|https://www.saos.org.pl/judgments/535681
-308323|2017-06-29|SO|I ACa 585/16|Wyrok|https://www.saos.org.pl/judgments/308323
+saos_id|date|court|case_number|type|score|saos_url
+308323|2017-06-29|SO|I ACa 585/16|Wyrok|56|https://www.saos.org.pl/judgments/308323

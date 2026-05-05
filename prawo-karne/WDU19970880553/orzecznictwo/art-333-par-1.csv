@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-538905|2025-06-09|SO|II K 1145/24|Zarządzenie|https://www.saos.org.pl/judgments/538905
-538904|2025-06-09|SO|II K 1145/24|Wyrok|https://www.saos.org.pl/judgments/538904
-268068|2016-11-29|SO|II K 10/16|Wyrok|https://www.saos.org.pl/judgments/268068
-100236|2013-01-03|SN|WK 11/12|Wyrok|https://www.saos.org.pl/judgments/100236
+saos_id|date|court|case_number|type|score|saos_url
+100236|2013-01-03|SN|WK 11/12|Wyrok|78|https://www.saos.org.pl/judgments/100236
+538904|2025-06-09|SO|II K 1145/24|Wyrok|40|https://www.saos.org.pl/judgments/538904
+268068|2016-11-29|SO|II K 10/16|Wyrok|40|https://www.saos.org.pl/judgments/268068
+538905|2025-06-09|SO|II K 1145/24|Zarządzenie|27|https://www.saos.org.pl/judgments/538905

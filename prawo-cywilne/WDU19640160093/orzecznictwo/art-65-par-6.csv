@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-505634|2023-03-20|SO|III Ca 1400/22|Uzasadnienie|https://www.saos.org.pl/judgments/505634
-339203|2018-01-30|SO|I AGa 13/18|Wyrok|https://www.saos.org.pl/judgments/339203
-191554|2015-11-10|SO|II Ca 771/15|Wyrok|https://www.saos.org.pl/judgments/191554
-5842|2012-11-09|SO|I ACa 522/12|Wyrok|https://www.saos.org.pl/judgments/5842
+saos_id|date|court|case_number|type|score|saos_url
+339203|2018-01-30|SO|I AGa 13/18|Wyrok|56|https://www.saos.org.pl/judgments/339203
+5842|2012-11-09|SO|I ACa 522/12|Wyrok|56|https://www.saos.org.pl/judgments/5842
+505634|2023-03-20|SO|III Ca 1400/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/505634

@@ -6,11 +6,11 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 26 czerwca 200
 
 ## art. 45 (1)
 
-- 2009-10-20 | TK | [SK 6/09](https://www.saos.org.pl/judgments/109071) | Wyrok
+- 2009-10-20 | TK | [SK 6/09](https://www.saos.org.pl/judgments/109071) | Wyrok ★
 
 ## art. 78 (1)
 
-- 2009-10-20 | TK | [SK 6/09](https://www.saos.org.pl/judgments/109071) | Wyrok
+- 2009-10-20 | TK | [SK 6/09](https://www.saos.org.pl/judgments/109071) | Wyrok ★
 
 ## art. 190 (1)
 

@@ -1,3 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-174132|2014-10-10|SO|II Ca 492/14|Postanowienie|https://www.saos.org.pl/judgments/174132
-36895|2014-02-21|SO|II Ca 73/14|Postanowienie|https://www.saos.org.pl/judgments/36895
+saos_id|date|court|case_number|type|score|saos_url
+191490|2015-11-30|SO|I ACa 635/15|Wyrok|56|https://www.saos.org.pl/judgments/191490
+64975|2014-09-03|SO|I ACa 240/14|Wyrok|56|https://www.saos.org.pl/judgments/64975
+67926|2014-08-27|SO|IV Ca 30/14|Wyrok|40|https://www.saos.org.pl/judgments/67926
+241842|2016-08-29|SO|XIII Ga 169/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/241842

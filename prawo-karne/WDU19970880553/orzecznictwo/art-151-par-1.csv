@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-429545|2020-09-11|SO|IV Ka 569/19|Uzasadnienie|https://www.saos.org.pl/judgments/429545
-378268|2019-04-26|SO|II K 552/18|Wyrok|https://www.saos.org.pl/judgments/378268
-364709|2018-11-23|SO|VII Kzw 633/18|Postanowienie|https://www.saos.org.pl/judgments/364709
-404957|2017-06-26|SO|VIII K 33/16|Wyrok|https://www.saos.org.pl/judgments/404957
-299604|2015-03-24|SO|III K 198/14|Wyrok|https://www.saos.org.pl/judgments/299604
+saos_id|date|court|case_number|type|score|saos_url
+364709|2018-11-23|SO|VII Kzw 633/18|Postanowienie|31|https://www.saos.org.pl/judgments/364709

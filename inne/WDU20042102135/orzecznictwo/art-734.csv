@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-464683|2020-04-27|SO|III AUa 2604/19|Uzasadnienie|https://www.saos.org.pl/judgments/464683
-381809|2017-10-27|SO|IV U 1089/16|Wyrok|https://www.saos.org.pl/judgments/381809
-289426|2017-03-15|SO|VIII U 1485/16|Wyrok|https://www.saos.org.pl/judgments/289426
+saos_id|date|court|case_number|type|score|saos_url
+464683|2020-04-27|SO|III AUa 2604/19|Uzasadnienie|42|https://www.saos.org.pl/judgments/464683
+381809|2017-10-27|SO|IV U 1089/16|Wyrok|40|https://www.saos.org.pl/judgments/381809

@@ -1,17 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-531149|2025-03-07|SO|VII Pz-Uz 3/24|Postanowienie|https://www.saos.org.pl/judgments/531149
-517166|2024-10-28|SO|VII P 844/24|Wyrok|https://www.saos.org.pl/judgments/517166
-514447|2023-12-20|SO|X Ka 613/23|Wyrok|https://www.saos.org.pl/judgments/514447
-442913|2021-05-21|SO|II W 51/21|Postanowienie|https://www.saos.org.pl/judgments/442913
-442907|2021-03-30|SO|II W 342/21|Postanowienie|https://www.saos.org.pl/judgments/442907
-357654|2018-09-24|SO|IV Ka 818/18|Wyrok|https://www.saos.org.pl/judgments/357654
-345965|2018-05-09|SO|VII AGa 996/18|Wyrok|https://www.saos.org.pl/judgments/345965
-345780|2018-03-23|SO|I ACa 2078/16|Wyrok|https://www.saos.org.pl/judgments/345780
-514446|2016-03-30|SO|X Ka 57/16|Wyrok|https://www.saos.org.pl/judgments/514446
-206842|2015-03-04|TK|Ts 35/14|Postanowienie|https://www.saos.org.pl/judgments/206842
-54150|2014-06-30|SO|I ACa 268/14|Wyrok|https://www.saos.org.pl/judgments/54150
-1345|2012-11-07|SO|III AUz 304/12|Postanowienie|https://www.saos.org.pl/judgments/1345
-121224|2012-10-24|KIO|KIO 2194/12|Wyrok|https://www.saos.org.pl/judgments/121224
-110915|2012-06-05|TK|K 18/09|Wyrok|https://www.saos.org.pl/judgments/110915
-110927|2012-01-18|TK|Kp 5/09|Wyrok|https://www.saos.org.pl/judgments/110927
-108701|2008-12-03|TK|Ts 17/08|Postanowienie|https://www.saos.org.pl/judgments/108701
+saos_id|date|court|case_number|type|score|saos_url
+110915|2012-06-05|TK|K 18/09|Wyrok|98|https://www.saos.org.pl/judgments/110915
+110927|2012-01-18|TK|Kp 5/09|Wyrok|98|https://www.saos.org.pl/judgments/110927
+206842|2015-03-04|TK|Ts 35/14|Postanowienie|80|https://www.saos.org.pl/judgments/206842
+108701|2008-12-03|TK|Ts 17/08|Postanowienie|80|https://www.saos.org.pl/judgments/108701
+345965|2018-05-09|SO|VII AGa 996/18|Wyrok|56|https://www.saos.org.pl/judgments/345965
+345780|2018-03-23|SO|I ACa 2078/16|Wyrok|56|https://www.saos.org.pl/judgments/345780
+54150|2014-06-30|SO|I ACa 268/14|Wyrok|56|https://www.saos.org.pl/judgments/54150
+1345|2012-11-07|SO|III AUz 304/12|Postanowienie|47|https://www.saos.org.pl/judgments/1345
+121224|2012-10-24|KIO|KIO 2194/12|Wyrok|44|https://www.saos.org.pl/judgments/121224
+357654|2018-09-24|SO|IV Ka 818/18|Wyrok|40|https://www.saos.org.pl/judgments/357654

@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-100273|2013-01-10|SN|III KK 309/12|Postanowienie|https://www.saos.org.pl/judgments/100273
-99353|2012-10-10|SN|V KK 77/12|Postanowienie|https://www.saos.org.pl/judgments/99353
+saos_id|date|court|case_number|type|score|saos_url
+100273|2013-01-10|SN|III KK 309/12|Postanowienie|69|https://www.saos.org.pl/judgments/100273
+99353|2012-10-10|SN|V KK 77/12|Postanowienie|69|https://www.saos.org.pl/judgments/99353

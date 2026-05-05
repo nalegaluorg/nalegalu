@@ -1,17 +1,14 @@
-saos_id|date|court|case_number|type|saos_url
-529340|2021-07-21|SO|I C 637/18|Wyrok|https://www.saos.org.pl/judgments/529340
-475944|2021-01-22|SO|I C 135/13|Wyrok|https://www.saos.org.pl/judgments/475944
-430890|2021-01-19|SO|XII C 1291/17|Wyrok|https://www.saos.org.pl/judgments/430890
-435543|2020-03-12|SO|I AGa 90/19|Wyrok|https://www.saos.org.pl/judgments/435543
-314229|2017-09-07|SO|I C 1991/13|Uzasadnienie|https://www.saos.org.pl/judgments/314229
-261854|2016-11-24|SO|VI Ga 255/16|Wyrok|https://www.saos.org.pl/judgments/261854
-263294|2016-11-22|SO|I ACa 987/15|Wyrok|https://www.saos.org.pl/judgments/263294
-260669|2016-10-24|SO|I ACa 354/16|Wyrok|https://www.saos.org.pl/judgments/260669
-220525|2016-03-08|SO|I C 1635/11|Uzasadnienie|https://www.saos.org.pl/judgments/220525
-228565|2016-02-12|SO|II C 1215/06|Wyrok|https://www.saos.org.pl/judgments/228565
-195789|2015-11-20|SO|I ACa 1081/15|Wyrok|https://www.saos.org.pl/judgments/195789
-243409|2015-10-02|SN|II CSK 816/14|Wyrok|https://www.saos.org.pl/judgments/243409
-149042|2015-03-04|SO|I ACa 515/14|Wyrok|https://www.saos.org.pl/judgments/149042
-157805|2015-02-25|SO|I ACa 760/14|Wyrok|https://www.saos.org.pl/judgments/157805
-53143|2014-05-29|SO|I ACa 377/13|Wyrok|https://www.saos.org.pl/judgments/53143
-140316|2013-08-30|SO|I C 224/10|Wyrok|https://www.saos.org.pl/judgments/140316
+saos_id|date|court|case_number|type|score|saos_url
+243409|2015-10-02|SN|II CSK 816/14|Wyrok|78|https://www.saos.org.pl/judgments/243409
+435543|2020-03-12|SO|I AGa 90/19|Wyrok|56|https://www.saos.org.pl/judgments/435543
+263294|2016-11-22|SO|I ACa 987/15|Wyrok|56|https://www.saos.org.pl/judgments/263294
+260669|2016-10-24|SO|I ACa 354/16|Wyrok|56|https://www.saos.org.pl/judgments/260669
+195789|2015-11-20|SO|I ACa 1081/15|Wyrok|56|https://www.saos.org.pl/judgments/195789
+149042|2015-03-04|SO|I ACa 515/14|Wyrok|56|https://www.saos.org.pl/judgments/149042
+157805|2015-02-25|SO|I ACa 760/14|Wyrok|56|https://www.saos.org.pl/judgments/157805
+53143|2014-05-29|SO|I ACa 377/13|Wyrok|56|https://www.saos.org.pl/judgments/53143
+430890|2021-01-19|SO|XII C 1291/17|Wyrok|40|https://www.saos.org.pl/judgments/430890
+261854|2016-11-24|SO|VI Ga 255/16|Wyrok|40|https://www.saos.org.pl/judgments/261854
+228565|2016-02-12|SO|II C 1215/06|Wyrok|40|https://www.saos.org.pl/judgments/228565
+314229|2017-09-07|SO|I C 1991/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/314229
+220525|2016-03-08|SO|I C 1635/11|Uzasadnienie|27|https://www.saos.org.pl/judgments/220525

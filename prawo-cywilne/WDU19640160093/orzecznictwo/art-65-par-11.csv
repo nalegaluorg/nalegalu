@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-516681|2024-01-31|SO|I ACa 750/22|Wyrok|https://www.saos.org.pl/judgments/516681
-492217|2023-05-23|SO|I ACa 536/22|Wyrok|https://www.saos.org.pl/judgments/492217
-336626|2018-02-09|SO|V Ca 1156/17|Wyrok|https://www.saos.org.pl/judgments/336626
-287338|2017-04-04|SO|XXVII Ca 3610/16|Wyrok|https://www.saos.org.pl/judgments/287338
-244336|2016-01-20|SN|IV CSK 437/15|Postanowienie|https://www.saos.org.pl/judgments/244336
+saos_id|date|court|case_number|type|score|saos_url
+244336|2016-01-20|SN|IV CSK 437/15|Postanowienie|69|https://www.saos.org.pl/judgments/244336
+516681|2024-01-31|SO|I ACa 750/22|Wyrok|56|https://www.saos.org.pl/judgments/516681
+492217|2023-05-23|SO|I ACa 536/22|Wyrok|56|https://www.saos.org.pl/judgments/492217

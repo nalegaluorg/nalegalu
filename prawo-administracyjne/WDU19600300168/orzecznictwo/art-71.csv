@@ -1,16 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-522181|2023-10-10|SO|VI U 4096/19|Wyrok|https://www.saos.org.pl/judgments/522181
-458039|2022-02-10|SO|III Ka 606/21|Uzasadnienie|https://www.saos.org.pl/judgments/458039
-448134|2021-06-23|SO|XVII AmT 236/19|Wyrok|https://www.saos.org.pl/judgments/448134
-414708|2020-06-10|SO|I Ca 603/19|Postanowienie|https://www.saos.org.pl/judgments/414708
-348322|2018-02-20|SO|III Ca 1700/17|Uzasadnienie|https://www.saos.org.pl/judgments/348322
-303447|2017-07-17|SO|I Ns 667/13|Postanowienie|https://www.saos.org.pl/judgments/303447
-266843|2016-11-16|SO|VI ACa 1355/15|Wyrok|https://www.saos.org.pl/judgments/266843
-258269|2016-09-14|SO|VI ACa 283/15|Wyrok|https://www.saos.org.pl/judgments/258269
-132742|2015-03-04|SO|III U 845/14|Wyrok|https://www.saos.org.pl/judgments/132742
-259375|2014-12-08|SO|XVII AmA 153/13|Wyrok|https://www.saos.org.pl/judgments/259375
-71861|2014-10-17|SO|V K 1272/13|Wyrok|https://www.saos.org.pl/judgments/71861
-130468|2014-04-14|SO|XVII AmA 173/10|Uzasadnienie|https://www.saos.org.pl/judgments/130468
-263755|2013-12-13|SO|XVII AmA 173/10|Wyrok|https://www.saos.org.pl/judgments/263755
-8974|2012-09-13|SO|III AUa 403/12|Wyrok|https://www.saos.org.pl/judgments/8974
-81319|2002-03-27|SN|III RN 224/01|Wyrok|https://www.saos.org.pl/judgments/81319
+saos_id|date|court|case_number|type|score|saos_url
+81319|2002-03-27|SN|III RN 224/01|Wyrok|78|https://www.saos.org.pl/judgments/81319
+266843|2016-11-16|SO|VI ACa 1355/15|Wyrok|56|https://www.saos.org.pl/judgments/266843
+258269|2016-09-14|SO|VI ACa 283/15|Wyrok|56|https://www.saos.org.pl/judgments/258269
+8974|2012-09-13|SO|III AUa 403/12|Wyrok|56|https://www.saos.org.pl/judgments/8974
+303447|2017-07-17|SO|I Ns 667/13|Postanowienie|31|https://www.saos.org.pl/judgments/303447
+348322|2018-02-20|SO|III Ca 1700/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/348322

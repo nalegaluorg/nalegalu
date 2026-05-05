@@ -1,9 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-479288|2020-07-29|SO|IV K 123/15|Uzasadnienie|https://www.saos.org.pl/judgments/479288
-382079|2019-04-09|SO|I ACa 489/18|Wyrok|https://www.saos.org.pl/judgments/382079
-342652|2018-02-27|SO|XXVII Ca 2015/16|Wyrok|https://www.saos.org.pl/judgments/342652
-338561|2017-12-07|SO|I ACa 975/17|Wyrok|https://www.saos.org.pl/judgments/338561
-358708|2016-10-06|SO|XXVI GC 1034/15|Wyrok|https://www.saos.org.pl/judgments/358708
-133151|2015-02-20|SO|VIII Ga 378/14|Wyrok|https://www.saos.org.pl/judgments/133151
-166632|2014-09-04|SN|II CSK 776/13|Wyrok|https://www.saos.org.pl/judgments/166632
-58949|2014-08-19|SO|IX GC 134/14|Wyrok|https://www.saos.org.pl/judgments/58949
+saos_id|date|court|case_number|type|score|saos_url
+166632|2014-09-04|SN|II CSK 776/13|Wyrok|78|https://www.saos.org.pl/judgments/166632
+382079|2019-04-09|SO|I ACa 489/18|Wyrok|56|https://www.saos.org.pl/judgments/382079
+338561|2017-12-07|SO|I ACa 975/17|Wyrok|56|https://www.saos.org.pl/judgments/338561
+58949|2014-08-19|SO|IX GC 134/14|Wyrok|40|https://www.saos.org.pl/judgments/58949

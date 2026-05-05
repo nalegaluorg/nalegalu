@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-257381|2016-11-16|SO|II Ka 386/16|Wyrok|https://www.saos.org.pl/judgments/257381
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
+saos_id|date|court|case_number|type|score|saos_url
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539

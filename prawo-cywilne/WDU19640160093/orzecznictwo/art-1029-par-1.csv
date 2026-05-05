@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-163076|2005-03-09|SN|II CK 438/04|Wyrok|https://www.saos.org.pl/judgments/163076
-77696|1997-05-27|SN|II UKN 145/97|Wyrok|https://www.saos.org.pl/judgments/77696
+saos_id|date|court|case_number|type|score|saos_url
+163076|2005-03-09|SN|II CK 438/04|Wyrok|78|https://www.saos.org.pl/judgments/163076
+77696|1997-05-27|SN|II UKN 145/97|Wyrok|78|https://www.saos.org.pl/judgments/77696

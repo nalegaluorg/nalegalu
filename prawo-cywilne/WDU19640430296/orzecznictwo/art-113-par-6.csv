@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-417780|2019-03-27|SO|I C 2312/18|Wyrok|https://www.saos.org.pl/judgments/417780
-76199|2014-11-06|SO|III Ca 829/14|Uzasadnienie|https://www.saos.org.pl/judgments/76199
-75196|2014-10-30|SO|I ACa 754/14|Wyrok|https://www.saos.org.pl/judgments/75196
+saos_id|date|court|case_number|type|score|saos_url
+75196|2014-10-30|SO|I ACa 754/14|Wyrok|56|https://www.saos.org.pl/judgments/75196
+76199|2014-11-06|SO|III Ca 829/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/76199

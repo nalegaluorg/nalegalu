@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245249|2016-05-04|SN|V KK 388/15|Wyrok|https://www.saos.org.pl/judgments/245249
-146878|2013-12-19|SO|II AKa 429/13|Wyrok|https://www.saos.org.pl/judgments/146878
-84624|2006-10-03|SN|IV KK 209/06|Wyrok|https://www.saos.org.pl/judgments/84624
+saos_id|date|court|case_number|type|score|saos_url
+245249|2016-05-04|SN|V KK 388/15|Wyrok|78|https://www.saos.org.pl/judgments/245249
+84624|2006-10-03|SN|IV KK 209/06|Wyrok|78|https://www.saos.org.pl/judgments/84624
+146878|2013-12-19|SO|II AKa 429/13|Wyrok|56|https://www.saos.org.pl/judgments/146878

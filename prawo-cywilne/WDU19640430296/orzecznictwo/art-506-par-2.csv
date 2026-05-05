@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-245517|2015-05-29|SN|V CSK 446/14|Wyrok|https://www.saos.org.pl/judgments/245517
+saos_id|date|court|case_number|type|score|saos_url
+245517|2015-05-29|SN|V CSK 446/14|Wyrok|78|https://www.saos.org.pl/judgments/245517

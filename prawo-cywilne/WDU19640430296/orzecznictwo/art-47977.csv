@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-468134|2022-04-28|SO|XVII Amz 90/17|Postanowienie|https://www.saos.org.pl/judgments/468134
-468133|2022-04-28|SO|XVII Amz 84/17|Postanowienie|https://www.saos.org.pl/judgments/468133
-468132|2022-04-28|SO|XVII Amz 67/17|Postanowienie|https://www.saos.org.pl/judgments/468132
-449282|2020-10-16|SO|XVII Amz 49/18|Postanowienie|https://www.saos.org.pl/judgments/449282
-94612|2011-04-06|SN|I CSK 412/09|Wyrok|https://www.saos.org.pl/judgments/94612
-93669|2010-12-07|SN|III CZP 86/10|Uchwała|https://www.saos.org.pl/judgments/93669
-85984|2007-06-01|SN|III CZP 42/07|Uchwała|https://www.saos.org.pl/judgments/85984
+saos_id|date|court|case_number|type|score|saos_url
+93669|2010-12-07|SN|III CZP 86/10|Uchwała|96|https://www.saos.org.pl/judgments/93669
+85984|2007-06-01|SN|III CZP 42/07|Uchwała|89|https://www.saos.org.pl/judgments/85984
+94612|2011-04-06|SN|I CSK 412/09|Wyrok|78|https://www.saos.org.pl/judgments/94612

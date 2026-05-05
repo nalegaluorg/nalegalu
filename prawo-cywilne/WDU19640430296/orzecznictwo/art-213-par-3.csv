@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-281864|2017-02-23|SO|VI ACa 1928/15|Wyrok|https://www.saos.org.pl/judgments/281864
-233666|2016-05-31|SO|I ACa 1706/15|Wyrok|https://www.saos.org.pl/judgments/233666
-95578|2011-08-05|SN|IV CNP 34/11|Postanowienie|https://www.saos.org.pl/judgments/95578
+saos_id|date|court|case_number|type|score|saos_url
+95578|2011-08-05|SN|IV CNP 34/11|Postanowienie|69|https://www.saos.org.pl/judgments/95578
+281864|2017-02-23|SO|VI ACa 1928/15|Wyrok|56|https://www.saos.org.pl/judgments/281864
+233666|2016-05-31|SO|I ACa 1706/15|Wyrok|56|https://www.saos.org.pl/judgments/233666

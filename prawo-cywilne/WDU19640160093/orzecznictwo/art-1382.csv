@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-528452|2024-07-08|SO|I ACa 390/21|Wyrok|https://www.saos.org.pl/judgments/528452
-529334|2021-02-16|SO|I C 170/15|Uzasadnienie|https://www.saos.org.pl/judgments/529334
-478358|2019-07-16|SO|I C 387/15|Wyrok|https://www.saos.org.pl/judgments/478358
-383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|https://www.saos.org.pl/judgments/383740
-345530|2018-06-07|SO|V ACa 777/17|Wyrok|https://www.saos.org.pl/judgments/345530
+saos_id|date|court|case_number|type|score|saos_url
+528452|2024-07-08|SO|I ACa 390/21|Wyrok|56|https://www.saos.org.pl/judgments/528452
+383740|2019-04-16|SO|VII AGa 1093/18|Wyrok|56|https://www.saos.org.pl/judgments/383740
+345530|2018-06-07|SO|V ACa 777/17|Wyrok|56|https://www.saos.org.pl/judgments/345530
+478358|2019-07-16|SO|I C 387/15|Wyrok|40|https://www.saos.org.pl/judgments/478358

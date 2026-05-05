@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-35959|2013-11-28|SO|II Cz 829/13|Postanowienie|https://www.saos.org.pl/judgments/35959
-90398|2009-06-16|SN|I CSK 522/08|Wyrok|https://www.saos.org.pl/judgments/90398
-87821|2008-04-10|SN|IV CSK 22/08|Wyrok|https://www.saos.org.pl/judgments/87821
+saos_id|date|court|case_number|type|score|saos_url
+90398|2009-06-16|SN|I CSK 522/08|Wyrok|78|https://www.saos.org.pl/judgments/90398
+87821|2008-04-10|SN|IV CSK 22/08|Wyrok|78|https://www.saos.org.pl/judgments/87821

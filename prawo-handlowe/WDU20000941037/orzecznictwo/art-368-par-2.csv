@@ -1,12 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-495121|2023-06-30|SO|I AGa 65/22|Wyrok|https://www.saos.org.pl/judgments/495121
-509930|2022-11-23|SO|V AGa 442/21|Wyrok|https://www.saos.org.pl/judgments/509930
-429946|2020-04-03|SO|VII AGa 151/19|Wyrok|https://www.saos.org.pl/judgments/429946
-349263|2018-04-17|SO|III AUa 1458/17|Wyrok|https://www.saos.org.pl/judgments/349263
-343105|2018-03-07|SO|VII AGa 245/18|Wyrok|https://www.saos.org.pl/judgments/343105
-278109|2017-02-17|SO|VIII Ga 217/16|Uzasadnienie|https://www.saos.org.pl/judgments/278109
-192539|2015-11-04|SO|III AUa 193/15|Wyrok|https://www.saos.org.pl/judgments/192539
-98701|2012-07-18|SN|III CZP 40/12|Uchwała|https://www.saos.org.pl/judgments/98701
-97621|2012-03-22|SN|V CSK 84/11|Wyrok|https://www.saos.org.pl/judgments/97621
-88196|2008-06-13|SN|I CSK 6/08|Postanowienie|https://www.saos.org.pl/judgments/88196
-86763|2007-10-24|SN|IV CSK 260/07|Wyrok|https://www.saos.org.pl/judgments/86763
+saos_id|date|court|case_number|type|score|saos_url
+98701|2012-07-18|SN|III CZP 40/12|Uchwała|89|https://www.saos.org.pl/judgments/98701
+97621|2012-03-22|SN|V CSK 84/11|Wyrok|78|https://www.saos.org.pl/judgments/97621
+86763|2007-10-24|SN|IV CSK 260/07|Wyrok|78|https://www.saos.org.pl/judgments/86763
+88196|2008-06-13|SN|I CSK 6/08|Postanowienie|69|https://www.saos.org.pl/judgments/88196
+495121|2023-06-30|SO|I AGa 65/22|Wyrok|56|https://www.saos.org.pl/judgments/495121
+509930|2022-11-23|SO|V AGa 442/21|Wyrok|56|https://www.saos.org.pl/judgments/509930
+429946|2020-04-03|SO|VII AGa 151/19|Wyrok|56|https://www.saos.org.pl/judgments/429946
+349263|2018-04-17|SO|III AUa 1458/17|Wyrok|56|https://www.saos.org.pl/judgments/349263
+343105|2018-03-07|SO|VII AGa 245/18|Wyrok|56|https://www.saos.org.pl/judgments/343105
+192539|2015-11-04|SO|III AUa 193/15|Wyrok|56|https://www.saos.org.pl/judgments/192539

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-454167|2021-09-09|SO|II Ca 1184/18|Postanowienie|https://www.saos.org.pl/judgments/454167
-296993|2017-04-04|SO|II Ca 1331/16|Postanowienie|https://www.saos.org.pl/judgments/296993
-35974|2013-11-14|SO|V ACa 451/13|Wyrok|https://www.saos.org.pl/judgments/35974
-101662|2013-05-09|SN|II CSK 593/12|Postanowienie|https://www.saos.org.pl/judgments/101662
+saos_id|date|court|case_number|type|score|saos_url
+101662|2013-05-09|SN|II CSK 593/12|Postanowienie|69|https://www.saos.org.pl/judgments/101662
+35974|2013-11-14|SO|V ACa 451/13|Wyrok|56|https://www.saos.org.pl/judgments/35974
+296993|2017-04-04|SO|II Ca 1331/16|Postanowienie|31|https://www.saos.org.pl/judgments/296993

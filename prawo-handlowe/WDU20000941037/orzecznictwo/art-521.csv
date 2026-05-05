@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-519279|2024-10-30|SO|I C 16/23|Uzasadnienie|https://www.saos.org.pl/judgments/519279
-156285|2015-02-12|SO|I C 3356/14|Wyrok|https://www.saos.org.pl/judgments/156285
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-87235|2008-02-08|SN|I CSK 399/07|Wyrok|https://www.saos.org.pl/judgments/87235
+saos_id|date|court|case_number|type|score|saos_url
+87235|2008-02-08|SN|I CSK 399/07|Wyrok|78|https://www.saos.org.pl/judgments/87235
+156285|2015-02-12|SO|I C 3356/14|Wyrok|40|https://www.saos.org.pl/judgments/156285
+519279|2024-10-30|SO|I C 16/23|Uzasadnienie|27|https://www.saos.org.pl/judgments/519279

@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-497112|2022-12-28|SO|I C 254/22|Wyrok|https://www.saos.org.pl/judgments/497112
-346857|2018-07-02|SO|I C 153/18|Wyrok|https://www.saos.org.pl/judgments/346857
-315499|2017-09-07|SO|III Ca 477/17|Wyrok|https://www.saos.org.pl/judgments/315499
-16624|2013-07-02|SO|II Ca 468/13|Wyrok|https://www.saos.org.pl/judgments/16624
+saos_id|date|court|case_number|type|score|saos_url
+497112|2022-12-28|SO|I C 254/22|Wyrok|40|https://www.saos.org.pl/judgments/497112

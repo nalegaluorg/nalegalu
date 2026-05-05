@@ -1,9 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-428305|2019-11-06|SO|I ACa 192/19|Wyrok|https://www.saos.org.pl/judgments/428305
-383417|2019-05-14|SO|XXIII Ga 2372/18|Wyrok|https://www.saos.org.pl/judgments/383417
-289010|2017-04-04|SO|I C 615/16|Wyrok|https://www.saos.org.pl/judgments/289010
-202343|2015-11-27|SO|I 1 C 989/14|Wyrok|https://www.saos.org.pl/judgments/202343
-57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|https://www.saos.org.pl/judgments/57490
-7519|2013-02-21|SO|V Pa 101/12|Wyrok|https://www.saos.org.pl/judgments/7519
-16526|2012-09-20|SO|XXVI GC 524/12|Wyrok|https://www.saos.org.pl/judgments/16526
-97606|2012-03-22|SN|IV CSK 431/11|Wyrok|https://www.saos.org.pl/judgments/97606
+saos_id|date|court|case_number|type|score|saos_url
+97606|2012-03-22|SN|IV CSK 431/11|Wyrok|78|https://www.saos.org.pl/judgments/97606
+428305|2019-11-06|SO|I ACa 192/19|Wyrok|56|https://www.saos.org.pl/judgments/428305
+57490|2014-08-26|SO|XIII Ga 780/13|Uzasadnienie|27|https://www.saos.org.pl/judgments/57490

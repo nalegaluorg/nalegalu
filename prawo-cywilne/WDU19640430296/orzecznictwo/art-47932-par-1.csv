@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-87406|2008-02-20|SN|III SK 23/07|Postanowienie|https://www.saos.org.pl/judgments/87406
-84159|2006-03-08|SN|III SZP 1/06|Uchwała|https://www.saos.org.pl/judgments/84159
-82897|2004-10-05|SN|III SZP 1/04|Postanowienie|https://www.saos.org.pl/judgments/82897
+saos_id|date|court|case_number|type|score|saos_url
+84159|2006-03-08|SN|III SZP 1/06|Uchwała|89|https://www.saos.org.pl/judgments/84159
+82897|2004-10-05|SN|III SZP 1/04|Postanowienie|76|https://www.saos.org.pl/judgments/82897
+87406|2008-02-20|SN|III SK 23/07|Postanowienie|69|https://www.saos.org.pl/judgments/87406

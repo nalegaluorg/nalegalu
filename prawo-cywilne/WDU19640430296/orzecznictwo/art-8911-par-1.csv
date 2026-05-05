@@ -1,2 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-133638|2014-07-09|SO|III Ca 419/14|Wyrok|https://www.saos.org.pl/judgments/133638
+saos_id|date|court|case_number|type|score|saos_url
+97130|2012-02-09|SN|III CSK 189/11|Wyrok|78|https://www.saos.org.pl/judgments/97130
+97129|2012-02-09|SN|III CSK 189/11|Wyrok|78|https://www.saos.org.pl/judgments/97129
+89093|2008-11-06|SN|III CSK 172/08|Wyrok|78|https://www.saos.org.pl/judgments/89093
+464784|2021-02-25|SO|V AGa 116/20|Wyrok|56|https://www.saos.org.pl/judgments/464784
+360604|2018-03-19|SO|I ACa 1049/17|Wyrok|56|https://www.saos.org.pl/judgments/360604
+56226|2014-06-13|SO|I ACa 1602/13|Wyrok|56|https://www.saos.org.pl/judgments/56226
+35896|2013-12-18|SO|I ACa 844/13|Wyrok|56|https://www.saos.org.pl/judgments/35896
+5029|2012-09-27|SO|VI ACa 495/12|Wyrok|56|https://www.saos.org.pl/judgments/5029
+28130|2013-08-02|SO|I ACz 447/13|Postanowienie|47|https://www.saos.org.pl/judgments/28130
+247693|2016-08-12|SO|III Ca 578/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/247693

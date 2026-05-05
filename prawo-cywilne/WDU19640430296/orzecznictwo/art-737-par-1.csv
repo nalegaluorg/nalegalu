@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-288256|2017-02-03|SO|VII Pz 27/17|Postanowienie|https://www.saos.org.pl/judgments/288256
-58474|2014-08-06|SO|VI ACa 1587/13|Wyrok|https://www.saos.org.pl/judgments/58474
+saos_id|date|court|case_number|type|score|saos_url
+58474|2014-08-06|SO|VI ACa 1587/13|Wyrok|56|https://www.saos.org.pl/judgments/58474

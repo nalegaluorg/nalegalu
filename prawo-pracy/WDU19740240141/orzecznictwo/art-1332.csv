@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205775|1997-11-26|TK|U 6/96|Wyrok|https://www.saos.org.pl/judgments/205775
+saos_id|date|court|case_number|type|score|saos_url
+205775|1997-11-26|TK|U 6/96|Wyrok|98|https://www.saos.org.pl/judgments/205775

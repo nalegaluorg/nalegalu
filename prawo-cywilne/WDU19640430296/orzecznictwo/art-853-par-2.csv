@@ -1,10 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-511164|2020-09-18|SO|VI Ka 463/19|Wyrok|https://www.saos.org.pl/judgments/511164
-322249|2017-08-11|SO|I ACa 1568/16|Wyrok|https://www.saos.org.pl/judgments/322249
-256838|2016-09-16|SO|II K 385/16|Postanowienie|https://www.saos.org.pl/judgments/256838
-242638|2016-04-19|SO|III Cz 366/16|Postanowienie|https://www.saos.org.pl/judgments/242638
-190171|2015-07-23|SO|XII C 114/15|Wyrok|https://www.saos.org.pl/judgments/190171
-153003|2015-04-22|SO|V ACa 762/14|Wyrok|https://www.saos.org.pl/judgments/153003
-148616|2015-01-13|SO|II Cz 549/14|Postanowienie|https://www.saos.org.pl/judgments/148616
-148425|2015-01-13|SO|II Cz 550/14|Postanowienie|https://www.saos.org.pl/judgments/148425
-162746|2004-12-03|SN|IV CK 341/04|Wyrok|https://www.saos.org.pl/judgments/162746
+saos_id|date|court|case_number|type|score|saos_url
+162746|2004-12-03|SN|IV CK 341/04|Wyrok|78|https://www.saos.org.pl/judgments/162746
+322249|2017-08-11|SO|I ACa 1568/16|Wyrok|56|https://www.saos.org.pl/judgments/322249
+153003|2015-04-22|SO|V ACa 762/14|Wyrok|56|https://www.saos.org.pl/judgments/153003
+190171|2015-07-23|SO|XII C 114/15|Wyrok|40|https://www.saos.org.pl/judgments/190171

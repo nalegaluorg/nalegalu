@@ -1,8 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-6219|2012-11-08|SO|VI ACa 480/12|Wyrok|https://www.saos.org.pl/judgments/6219
-23240|2012-02-22|SO|XVII AmC 3231/10|Uzasadnienie|https://www.saos.org.pl/judgments/23240
-271213|2012-01-27|SO|XVII AmC 3231/10|Wyrok|https://www.saos.org.pl/judgments/271213
-25227|2011-03-30|SO|XVII AmC 3343/10|Uzasadnienie|https://www.saos.org.pl/judgments/25227
-272070|2011-03-09|SO|XVII AmC 3343/10|Wyrok|https://www.saos.org.pl/judgments/272070
-16189|2011-01-27|SO|VI ACa 697/10|Wyrok|https://www.saos.org.pl/judgments/16189
-81030|2001-11-27|SN|III CZP 61/01|Uchwała|https://www.saos.org.pl/judgments/81030
+saos_id|date|court|case_number|type|score|saos_url
+81030|2001-11-27|SN|III CZP 61/01|Uchwała|89|https://www.saos.org.pl/judgments/81030
+6219|2012-11-08|SO|VI ACa 480/12|Wyrok|56|https://www.saos.org.pl/judgments/6219
+16189|2011-01-27|SO|VI ACa 697/10|Wyrok|56|https://www.saos.org.pl/judgments/16189

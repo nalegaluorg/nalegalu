@@ -1,17 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-525008|2024-12-10|SO|I C 1745/23|Wyrok|https://www.saos.org.pl/judgments/525008
-515921|2024-10-24|SO|IV Ka 245/24|Wyrok|https://www.saos.org.pl/judgments/515921
-515923|2024-10-04|SO|IV Ka 614/24|Wyrok|https://www.saos.org.pl/judgments/515923
-509254|2023-10-17|SO|IX Ka 1055/23|Wyrok|https://www.saos.org.pl/judgments/509254
-510966|2023-08-22|SO|VI Ka 1203/22|Wyrok|https://www.saos.org.pl/judgments/510966
-470832|2022-07-01|SO|XXV C 1614/16|Wyrok|https://www.saos.org.pl/judgments/470832
-465491|2021-08-10|SO|XI Ka 450/21|Wyrok|https://www.saos.org.pl/judgments/465491
-431126|2020-08-27|SO|IV Ka 558/20|Wyrok|https://www.saos.org.pl/judgments/431126
-379238|2018-11-20|SO|IV Ka 725/18|Uzasadnienie|https://www.saos.org.pl/judgments/379238
-356757|2018-09-05|SO|IV Ka 667/18|Wyrok|https://www.saos.org.pl/judgments/356757
-394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|https://www.saos.org.pl/judgments/394847
-306500|2017-07-20|SO|VI Ka 243/17|Wyrok|https://www.saos.org.pl/judgments/306500
-295653|2016-11-18|SO|III K 388/14|Uzasadnienie|https://www.saos.org.pl/judgments/295653
-153162|2015-01-20|SO|IV Ka 953/14|Wyrok|https://www.saos.org.pl/judgments/153162
-206415|2013-10-17|TK|Ts 183/13|Postanowienie|https://www.saos.org.pl/judgments/206415
-82747|2004-06-22|SN|V KK 70/04|Postanowienie|https://www.saos.org.pl/judgments/82747
+saos_id|date|court|case_number|type|score|saos_url
+206415|2013-10-17|TK|Ts 183/13|Postanowienie|80|https://www.saos.org.pl/judgments/206415
+82747|2004-06-22|SN|V KK 70/04|Postanowienie|69|https://www.saos.org.pl/judgments/82747
+510966|2023-08-22|SO|VI Ka 1203/22|Wyrok|40|https://www.saos.org.pl/judgments/510966
+431126|2020-08-27|SO|IV Ka 558/20|Wyrok|40|https://www.saos.org.pl/judgments/431126
+306500|2017-07-20|SO|VI Ka 243/17|Wyrok|40|https://www.saos.org.pl/judgments/306500
+394847|2017-10-13|SO|II Ka 213/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/394847

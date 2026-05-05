@@ -1,17 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-126171|2014-12-09|SO|III AUa 639/14|Wyrok|https://www.saos.org.pl/judgments/126171
-27388|2013-11-21|SO|III U 1679/13|Wyrok|https://www.saos.org.pl/judgments/27388
-27387|2013-11-21|SO|III U 1678/13|Wyrok|https://www.saos.org.pl/judgments/27387
-27386|2013-11-21|SO|III U 1677/13|Wyrok|https://www.saos.org.pl/judgments/27386
-27385|2013-11-21|SO|III U 1665/13|Wyrok|https://www.saos.org.pl/judgments/27385
-27384|2013-11-21|SO|III U 1664/13|Wyrok|https://www.saos.org.pl/judgments/27384
-27383|2013-11-21|SO|III U 1642/13|Wyrok|https://www.saos.org.pl/judgments/27383
-27382|2013-11-21|SO|III U 1580/13|Wyrok|https://www.saos.org.pl/judgments/27382
-27381|2013-11-21|SO|III U 1568/13|Wyrok|https://www.saos.org.pl/judgments/27381
-27380|2013-11-21|SO|III U 1566/13|Wyrok|https://www.saos.org.pl/judgments/27380
-27379|2013-11-21|SO|III U 1565/13|Wyrok|https://www.saos.org.pl/judgments/27379
-27378|2013-11-21|SO|III U 1406/13|Wyrok|https://www.saos.org.pl/judgments/27378
-27377|2013-11-05|SO|III U 1381/13|Wyrok|https://www.saos.org.pl/judgments/27377
-27376|2013-11-05|SO|III U 1380/13|Wyrok|https://www.saos.org.pl/judgments/27376
-27375|2013-11-05|SO|III U 1378/13|Wyrok|https://www.saos.org.pl/judgments/27375
-27374|2013-11-05|SO|III U 1369/13|Wyrok|https://www.saos.org.pl/judgments/27374
+saos_id|date|court|case_number|type|score|saos_url
+126171|2014-12-09|SO|III AUa 639/14|Wyrok|56|https://www.saos.org.pl/judgments/126171

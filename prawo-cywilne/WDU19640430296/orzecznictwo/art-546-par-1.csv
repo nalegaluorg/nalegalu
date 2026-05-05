@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-225280|2016-04-25|SO|III Ca 6/16|Uzasadnienie|https://www.saos.org.pl/judgments/225280
-243832|2015-11-19|SN|IV CSK 379/15|Postanowienie|https://www.saos.org.pl/judgments/243832
-165693|2014-03-28|SN|III CZP 6/14|Uchwała|https://www.saos.org.pl/judgments/165693
-21479|2013-07-23|SO|XII Ga 245/13|Wyrok|https://www.saos.org.pl/judgments/21479
-82725|2004-06-16|SN|I CZ 48/04|Postanowienie|https://www.saos.org.pl/judgments/82725
+saos_id|date|court|case_number|type|score|saos_url
+165693|2014-03-28|SN|III CZP 6/14|Uchwała|89|https://www.saos.org.pl/judgments/165693
+243832|2015-11-19|SN|IV CSK 379/15|Postanowienie|69|https://www.saos.org.pl/judgments/243832
+82725|2004-06-16|SN|I CZ 48/04|Postanowienie|69|https://www.saos.org.pl/judgments/82725
+225280|2016-04-25|SO|III Ca 6/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/225280

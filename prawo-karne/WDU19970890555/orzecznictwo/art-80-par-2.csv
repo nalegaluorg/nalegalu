@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-87094|2008-01-15|SN|V KK 190/07|Wyrok|https://www.saos.org.pl/judgments/87094
+saos_id|date|court|case_number|type|score|saos_url
+87094|2008-01-15|SN|V KK 190/07|Wyrok|78|https://www.saos.org.pl/judgments/87094

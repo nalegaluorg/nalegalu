@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-512042|2024-01-16|SO|VII U 187/23|Wyrok|https://www.saos.org.pl/judgments/512042
-512051|2023-12-04|SO|VII U 228/23|Wyrok|https://www.saos.org.pl/judgments/512051
+saos_id|date|court|case_number|type|score|saos_url
+512042|2024-01-16|SO|VII U 187/23|Wyrok|40|https://www.saos.org.pl/judgments/512042
+512051|2023-12-04|SO|VII U 228/23|Wyrok|40|https://www.saos.org.pl/judgments/512051

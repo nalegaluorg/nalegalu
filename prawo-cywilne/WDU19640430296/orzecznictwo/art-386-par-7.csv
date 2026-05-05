@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-482759|2022-02-18|SO|III AUa 1773/20|Uzasadnienie|https://www.saos.org.pl/judgments/482759
+saos_id|date|court|case_number|type|score|saos_url
+482759|2022-02-18|SO|III AUa 1773/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/482759

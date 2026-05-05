@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-144045|2014-01-23|SO|II AKa 275/13|Wyrok|https://www.saos.org.pl/judgments/144045
+saos_id|date|court|case_number|type|score|saos_url
+144045|2014-01-23|SO|II AKa 275/13|Wyrok|56|https://www.saos.org.pl/judgments/144045

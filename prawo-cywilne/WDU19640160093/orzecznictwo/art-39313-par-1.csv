@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-163675|2005-10-27|SN|III CK 171/05|Wyrok|https://www.saos.org.pl/judgments/163675
-82759|2004-07-08|SN|IV CK 522/03|Wyrok|https://www.saos.org.pl/judgments/82759
-82682|2004-05-20|SN|II CK 328/03|Wyrok|https://www.saos.org.pl/judgments/82682
-81112|2002-01-08|SN|I PKN 782/00|Wyrok|https://www.saos.org.pl/judgments/81112
+saos_id|date|court|case_number|type|score|saos_url
+163675|2005-10-27|SN|III CK 171/05|Wyrok|78|https://www.saos.org.pl/judgments/163675
+82759|2004-07-08|SN|IV CK 522/03|Wyrok|78|https://www.saos.org.pl/judgments/82759
+82682|2004-05-20|SN|II CK 328/03|Wyrok|78|https://www.saos.org.pl/judgments/82682
+81112|2002-01-08|SN|I PKN 782/00|Wyrok|78|https://www.saos.org.pl/judgments/81112

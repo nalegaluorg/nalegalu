@@ -1,20 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-537979|2025-09-02|SO|V Pa 87/25|Wyrok|https://www.saos.org.pl/judgments/537979
-537978|2025-09-02|SO|V Pa 86/25|Wyrok|https://www.saos.org.pl/judgments/537978
-537977|2025-09-02|SO|V Pa 131/25|Wyrok|https://www.saos.org.pl/judgments/537977
-511436|2024-09-25|SO|VI Pa 65/23|Wyrok|https://www.saos.org.pl/judgments/511436
-463191|2022-03-30|SO|IV P 395/21|Wyrok|https://www.saos.org.pl/judgments/463191
-489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|https://www.saos.org.pl/judgments/489823
-368634|2018-12-17|SO|VIII U 1591/18|Zarządzenie|https://www.saos.org.pl/judgments/368634
-355478|2018-08-14|SO|VIII U 2530/17|Wyrok|https://www.saos.org.pl/judgments/355478
-347328|2018-07-06|SO|IX P 791/16|Zarządzenie|https://www.saos.org.pl/judgments/347328
-313722|2017-11-16|SO|XII C 2029/15|Wyrok|https://www.saos.org.pl/judgments/313722
-304015|2017-09-20|SO|IV P 31/17|Uzasadnienie|https://www.saos.org.pl/judgments/304015
-297219|2017-06-29|SO|VIII Pa 17/17|Wyrok|https://www.saos.org.pl/judgments/297219
-266235|2016-11-24|SO|I C 865/15|Uzasadnienie|https://www.saos.org.pl/judgments/266235
-255265|2016-10-27|SO|IX Pa 48/16|Wyrok|https://www.saos.org.pl/judgments/255265
-134048|2015-01-16|SO|III AUa 460/14|Wyrok|https://www.saos.org.pl/judgments/134048
-69055|2014-10-09|SO|VI Pa 108/14|Wyrok|https://www.saos.org.pl/judgments/69055
-82785|2004-08-12|SN|III PK 38/04|Wyrok|https://www.saos.org.pl/judgments/82785
-205700|1996-12-11|TK|K 11/96|Wyrok|https://www.saos.org.pl/judgments/205700
-76604|1994-08-04|SN|I PRN 49/94|Wyrok|https://www.saos.org.pl/judgments/76604
+saos_id|date|court|case_number|type|score|saos_url
+205700|1996-12-11|TK|K 11/96|Wyrok|98|https://www.saos.org.pl/judgments/205700
+82785|2004-08-12|SN|III PK 38/04|Wyrok|78|https://www.saos.org.pl/judgments/82785
+76604|1994-08-04|SN|I PRN 49/94|Wyrok|78|https://www.saos.org.pl/judgments/76604
+134048|2015-01-16|SO|III AUa 460/14|Wyrok|56|https://www.saos.org.pl/judgments/134048
+489823|2021-07-16|SO|III APa 36/20|Uzasadnienie|42|https://www.saos.org.pl/judgments/489823
+313722|2017-11-16|SO|XII C 2029/15|Wyrok|40|https://www.saos.org.pl/judgments/313722
+368634|2018-12-17|SO|VIII U 1591/18|Zarządzenie|27|https://www.saos.org.pl/judgments/368634
+304015|2017-09-20|SO|IV P 31/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/304015

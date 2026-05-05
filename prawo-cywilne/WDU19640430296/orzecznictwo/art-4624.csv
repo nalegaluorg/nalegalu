@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-87496|2008-03-06|SN|II PK 192/07|Wyrok|https://www.saos.org.pl/judgments/87496
+saos_id|date|court|case_number|type|score|saos_url
+87496|2008-03-06|SN|II PK 192/07|Wyrok|78|https://www.saos.org.pl/judgments/87496

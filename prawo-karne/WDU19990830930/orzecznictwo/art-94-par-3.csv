@@ -1,8 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-390668|2019-08-26|SO|II W 6180/18|Zarządzenie|https://www.saos.org.pl/judgments/390668
-390667|2019-08-08|SO|II W 6180/18|Wyrok|https://www.saos.org.pl/judgments/390667
-382186|2019-05-16|SO|II W 1346/19|Uzasadnienie|https://www.saos.org.pl/judgments/382186
-382187|2019-05-08|SO|II W 1346/19|Wyrok|https://www.saos.org.pl/judgments/382187
-72349|2014-11-28|SO|II W 116/14|Wyrok|https://www.saos.org.pl/judgments/72349
-206460|2014-07-30|TK|K 23/11|Wyrok|https://www.saos.org.pl/judgments/206460
-17820|2013-04-29|SO|VIII Ka 120/13|Wyrok|https://www.saos.org.pl/judgments/17820
+saos_id|date|court|case_number|type|score|saos_url
+206460|2014-07-30|TK|K 23/11|Wyrok|98|https://www.saos.org.pl/judgments/206460

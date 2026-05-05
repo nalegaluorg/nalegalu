@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-531922|2025-06-18|SO|VII U 1355/22|Wyrok|https://www.saos.org.pl/judgments/531922
+saos_id|date|court|case_number|type|score|saos_url
+531922|2025-06-18|SO|VII U 1355/22|Wyrok|40|https://www.saos.org.pl/judgments/531922

@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-239155|2016-05-09|SO|III Ca 144/16|Uzasadnienie|https://www.saos.org.pl/judgments/239155
-235365|2016-05-06|SO|I C 108/15|Wyrok|https://www.saos.org.pl/judgments/235365
-51833|2014-05-15|SO|I ACa 338/14|Wyrok|https://www.saos.org.pl/judgments/51833
+saos_id|date|court|case_number|type|score|saos_url
+51833|2014-05-15|SO|I ACa 338/14|Wyrok|56|https://www.saos.org.pl/judgments/51833
+239155|2016-05-09|SO|III Ca 144/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/239155

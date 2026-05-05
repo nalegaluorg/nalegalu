@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-222230|2016-04-08|SO|VIII C 3563/15|Wyrok|https://www.saos.org.pl/judgments/222230
+saos_id|date|court|case_number|type|score|saos_url
+222230|2016-04-08|SO|VIII C 3563/15|Wyrok|40|https://www.saos.org.pl/judgments/222230

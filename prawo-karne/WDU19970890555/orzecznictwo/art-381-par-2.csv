@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-484724|2022-12-22|SO|II AKa 389/22|Wyrok|https://www.saos.org.pl/judgments/484724
-235640|2016-06-16|SO|IV Ka 417/16|Wyrok|https://www.saos.org.pl/judgments/235640
+saos_id|date|court|case_number|type|score|saos_url
+484724|2022-12-22|SO|II AKa 389/22|Wyrok|56|https://www.saos.org.pl/judgments/484724
+235640|2016-06-16|SO|IV Ka 417/16|Wyrok|40|https://www.saos.org.pl/judgments/235640

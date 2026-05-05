@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-297023|2014-09-26|SO|II Ca 548/14|Wyrok|https://www.saos.org.pl/judgments/297023
-147905|2014-07-23|SO|I Ca 165/14|Postanowienie|https://www.saos.org.pl/judgments/147905
-35339|2014-01-09|SO|II Ka 579/13|Wyrok|https://www.saos.org.pl/judgments/35339
-143573|2013-03-11|SO|I S 57/13|Postanowienie|https://www.saos.org.pl/judgments/143573
-80602|2001-05-29|SN|I CKN 1217/98|Wyrok|https://www.saos.org.pl/judgments/80602
-77239|1996-09-11|SN|I PA 2/96|Wyrok|https://www.saos.org.pl/judgments/77239
+saos_id|date|court|case_number|type|score|saos_url
+80602|2001-05-29|SN|I CKN 1217/98|Wyrok|78|https://www.saos.org.pl/judgments/80602
+77239|1996-09-11|SN|I PA 2/96|Wyrok|78|https://www.saos.org.pl/judgments/77239
+143573|2013-03-11|SO|I S 57/13|Postanowienie|47|https://www.saos.org.pl/judgments/143573
+35339|2014-01-09|SO|II Ka 579/13|Wyrok|40|https://www.saos.org.pl/judgments/35339
+147905|2014-07-23|SO|I Ca 165/14|Postanowienie|31|https://www.saos.org.pl/judgments/147905

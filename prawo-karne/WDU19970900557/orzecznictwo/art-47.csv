@@ -1,10 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-517069|2023-12-28|SO|II K 398/23|Wyrok|https://www.saos.org.pl/judgments/517069
-349467|2018-07-12|SO|II AKa 269/18|Wyrok|https://www.saos.org.pl/judgments/349467
-336283|2018-01-18|SO|I ACa 655/17|Wyrok|https://www.saos.org.pl/judgments/336283
-220471|2015-12-17|SO|I ACa 749/15|Wyrok|https://www.saos.org.pl/judgments/220471
-177870|2015-08-25|SO|II Ka 370/15|Wyrok|https://www.saos.org.pl/judgments/177870
-147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|https://www.saos.org.pl/judgments/147539
-138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|https://www.saos.org.pl/judgments/138113
-7749|2013-02-20|SO|III APz 1/13|Postanowienie|https://www.saos.org.pl/judgments/7749
-76777|1995-02-15|SN|II PZP 6/94|Uchwała|https://www.saos.org.pl/judgments/76777
+saos_id|date|court|case_number|type|score|saos_url
+76777|1995-02-15|SN|II PZP 6/94|Uchwała|89|https://www.saos.org.pl/judgments/76777
+349467|2018-07-12|SO|II AKa 269/18|Wyrok|56|https://www.saos.org.pl/judgments/349467
+336283|2018-01-18|SO|I ACa 655/17|Wyrok|56|https://www.saos.org.pl/judgments/336283
+220471|2015-12-17|SO|I ACa 749/15|Wyrok|56|https://www.saos.org.pl/judgments/220471
+147539|2014-07-31|SO|II AKzw 412/14|Postanowienie|47|https://www.saos.org.pl/judgments/147539
+138113|2013-03-26|SO|II AKzw 137/13|Postanowienie|47|https://www.saos.org.pl/judgments/138113
+7749|2013-02-20|SO|III APz 1/13|Postanowienie|47|https://www.saos.org.pl/judgments/7749
+517069|2023-12-28|SO|II K 398/23|Wyrok|40|https://www.saos.org.pl/judgments/517069

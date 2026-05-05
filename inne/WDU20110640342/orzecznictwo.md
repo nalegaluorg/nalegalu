@@ -6,7 +6,7 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 16 marca 2011 
 
 ## art. 2 (1)
 
-- 2015-07-07 | SN | [SND 1/15](https://www.saos.org.pl/judgments/243000) | Uchwała
+- 2015-07-07 | SN | [SND 1/15](https://www.saos.org.pl/judgments/243000) | Uchwała ★
 
 ## art. 540 § 2 (1)
 

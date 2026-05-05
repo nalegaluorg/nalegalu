@@ -1,14 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-515225|2023-05-25|SO|XVII AmT 35/21|Wyrok|https://www.saos.org.pl/judgments/515225
-473733|2022-06-17|SO|I C 1317/19|Wyrok|https://www.saos.org.pl/judgments/473733
-456907|2021-11-23|SO|XVII AmE 310/19|Wyrok|https://www.saos.org.pl/judgments/456907
-390996|2019-07-31|SO|XVII AmA 22/17|Wyrok|https://www.saos.org.pl/judgments/390996
-491428|2018-07-06|SO|XVII AmK 6/16|Wyrok|https://www.saos.org.pl/judgments/491428
-343354|2018-03-29|SO|III Pa 8/18|Wyrok|https://www.saos.org.pl/judgments/343354
-331964|2017-12-12|SO|I ACa 412/17|Wyrok|https://www.saos.org.pl/judgments/331964
-294743|2017-05-18|SO|IV P 412/16|Wyrok|https://www.saos.org.pl/judgments/294743
-253152|2016-08-04|SO|VII P 185/16|Wyrok|https://www.saos.org.pl/judgments/253152
-111923|2013-05-09|TK|Ts 184/11|Postanowienie|https://www.saos.org.pl/judgments/111923
-236005|2012-05-14|SO|XVII AmA 41/11|Wyrok|https://www.saos.org.pl/judgments/236005
-108605|2008-12-15|TK|P 57/07|Wyrok|https://www.saos.org.pl/judgments/108605
-107281|2005-12-13|TK|SK 53/04|Wyrok|https://www.saos.org.pl/judgments/107281
+saos_id|date|court|case_number|type|score|saos_url
+108605|2008-12-15|TK|P 57/07|Wyrok|98|https://www.saos.org.pl/judgments/108605
+107281|2005-12-13|TK|SK 53/04|Wyrok|98|https://www.saos.org.pl/judgments/107281
+111923|2013-05-09|TK|Ts 184/11|Postanowienie|80|https://www.saos.org.pl/judgments/111923
+331964|2017-12-12|SO|I ACa 412/17|Wyrok|56|https://www.saos.org.pl/judgments/331964

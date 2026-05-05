@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-260734|2015-12-14|SO|I C 350/14|Wyrok|https://www.saos.org.pl/judgments/260734
+saos_id|date|court|case_number|type|score|saos_url
+260734|2015-12-14|SO|I C 350/14|Wyrok|40|https://www.saos.org.pl/judgments/260734

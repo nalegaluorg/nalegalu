@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-31596|2014-01-10|SO|IX GCo 321/13|Postanowienie|https://www.saos.org.pl/judgments/31596
-238739|2013-06-19|SO|XXVI GC 96/13|Postanowienie|https://www.saos.org.pl/judgments/238739
-2238|2012-03-29|SO|I ACz 552/12|Postanowienie|https://www.saos.org.pl/judgments/2238
+saos_id|date|court|case_number|type|score|saos_url
+2238|2012-03-29|SO|I ACz 552/12|Postanowienie|47|https://www.saos.org.pl/judgments/2238
+31596|2014-01-10|SO|IX GCo 321/13|Postanowienie|31|https://www.saos.org.pl/judgments/31596

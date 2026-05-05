@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-476992|2022-04-22|SO|I AGa 257/21|Wyrok|https://www.saos.org.pl/judgments/476992
-292267|2017-06-01|SO|II Ca 157/17|Wyrok|https://www.saos.org.pl/judgments/292267
-273712|2016-12-09|SO|I C 2284/12|Wyrok|https://www.saos.org.pl/judgments/273712
+saos_id|date|court|case_number|type|score|saos_url
+476992|2022-04-22|SO|I AGa 257/21|Wyrok|56|https://www.saos.org.pl/judgments/476992

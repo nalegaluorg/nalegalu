@@ -1,14 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-306823|2017-09-18|SO|VIII Gz 313/17|Postanowienie|https://www.saos.org.pl/judgments/306823
-288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|https://www.saos.org.pl/judgments/288223
-278574|2017-03-29|SO|VIII Gz 57/17|Postanowienie|https://www.saos.org.pl/judgments/278574
-191220|2015-12-09|SO|VIII Gz 233/15|Postanowienie|https://www.saos.org.pl/judgments/191220
-178448|2015-09-11|SO|I ACa 467/15|Wyrok|https://www.saos.org.pl/judgments/178448
-168526|2015-03-13|SN|III CZP 4/15|Uchwała|https://www.saos.org.pl/judgments/168526
-133919|2015-01-23|SO|I C 1362/12|Wyrok|https://www.saos.org.pl/judgments/133919
-166827|2014-10-03|SN|V CSK 281/14|Wyrok|https://www.saos.org.pl/judgments/166827
-62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|https://www.saos.org.pl/judgments/62210
-59001|2013-12-05|SO|VI ACa 677/13|Wyrok|https://www.saos.org.pl/judgments/59001
-19271|2013-09-03|SO|VIII Gz 197/13|Postanowienie|https://www.saos.org.pl/judgments/19271
-19157|2013-08-30|SO|VIII Gz 109/13|Postanowienie|https://www.saos.org.pl/judgments/19157
-86829|2007-11-13|SN|III CO 17/07|Postanowienie|https://www.saos.org.pl/judgments/86829
+saos_id|date|court|case_number|type|score|saos_url
+168526|2015-03-13|SN|III CZP 4/15|Uchwała|89|https://www.saos.org.pl/judgments/168526
+166827|2014-10-03|SN|V CSK 281/14|Wyrok|78|https://www.saos.org.pl/judgments/166827
+86829|2007-11-13|SN|III CO 17/07|Postanowienie|69|https://www.saos.org.pl/judgments/86829
+178448|2015-09-11|SO|I ACa 467/15|Wyrok|56|https://www.saos.org.pl/judgments/178448
+59001|2013-12-05|SO|VI ACa 677/13|Wyrok|56|https://www.saos.org.pl/judgments/59001
+288223|2017-06-01|SO|VI Cz 624/17|Postanowienie|31|https://www.saos.org.pl/judgments/288223
+62210|2014-07-15|SO|III Ca 303/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/62210

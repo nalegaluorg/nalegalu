@@ -6,8 +6,8 @@ Orzeczenia powołujące: *Ustawa z dnia 15 stycznia 2015 r. o zmianie ustawy - K
 
 ## art. 1 (2)
 
+- 2015-10-15 | SN | [II UK 346/14](https://www.saos.org.pl/judgments/243557) | Wyrok ★
 - 2016-03-22 | SN | [I UZ 42/15](https://www.saos.org.pl/judgments/244976) | Postanowienie
-- 2015-10-15 | SN | [II UK 346/14](https://www.saos.org.pl/judgments/243557) | Wyrok
 
 ## art. 3 (1)
 

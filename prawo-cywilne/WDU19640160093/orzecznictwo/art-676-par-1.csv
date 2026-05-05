@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-390543|2019-03-14|SO|I ACa 565/18|Wyrok|https://www.saos.org.pl/judgments/390543
-36486|2013-06-05|SO|I ACa 30/13|Wyrok|https://www.saos.org.pl/judgments/36486
-3805|2012-12-04|SO|I ACa 717/12|Wyrok|https://www.saos.org.pl/judgments/3805
+saos_id|date|court|case_number|type|score|saos_url
+390543|2019-03-14|SO|I ACa 565/18|Wyrok|56|https://www.saos.org.pl/judgments/390543
+36486|2013-06-05|SO|I ACa 30/13|Wyrok|56|https://www.saos.org.pl/judgments/36486
+3805|2012-12-04|SO|I ACa 717/12|Wyrok|56|https://www.saos.org.pl/judgments/3805

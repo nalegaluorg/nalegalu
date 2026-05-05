@@ -1,6 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-437540|2021-01-26|SO|XI GNs 2/20|Zarządzenie|https://www.saos.org.pl/judgments/437540
-311239|2017-06-20|SO|III Ca 628/17|Postanowienie|https://www.saos.org.pl/judgments/311239
-232873|2016-03-15|SO|II Ca 131/16|Postanowienie|https://www.saos.org.pl/judgments/232873
-211524|2016-02-10|SO|I Ca 20/16|Postanowienie|https://www.saos.org.pl/judgments/211524
-153756|2015-03-26|SO|II Ca 174/15|Postanowienie|https://www.saos.org.pl/judgments/153756
+saos_id|date|court|case_number|type|score|saos_url
+232873|2016-03-15|SO|II Ca 131/16|Postanowienie|31|https://www.saos.org.pl/judgments/232873

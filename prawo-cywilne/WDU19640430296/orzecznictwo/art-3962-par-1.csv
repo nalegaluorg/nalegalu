@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-244576|2016-02-10|SN|I UZ 30/15|Postanowienie|https://www.saos.org.pl/judgments/244576
-90889|2009-09-17|SN|IV CZ 60/09|Postanowienie|https://www.saos.org.pl/judgments/90889
+saos_id|date|court|case_number|type|score|saos_url
+244576|2016-02-10|SN|I UZ 30/15|Postanowienie|69|https://www.saos.org.pl/judgments/244576
+90889|2009-09-17|SN|IV CZ 60/09|Postanowienie|69|https://www.saos.org.pl/judgments/90889

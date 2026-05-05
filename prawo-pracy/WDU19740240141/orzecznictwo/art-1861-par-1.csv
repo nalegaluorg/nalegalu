@@ -1,2 +1,17 @@
-saos_id|date|court|case_number|type|saos_url
-69834|2014-06-12|SO|VIII Pa 47/14|Wyrok|https://www.saos.org.pl/judgments/69834
+saos_id|date|court|case_number|type|score|saos_url
+84098|2006-02-15|SN|II PZP 13/05|Uchwała|89|https://www.saos.org.pl/judgments/84098
+245234|2016-05-05|SN|II UK 280/15|Wyrok|78|https://www.saos.org.pl/judgments/245234
+244599|2016-02-09|SN|II PK 331/14|Wyrok|78|https://www.saos.org.pl/judgments/244599
+244062|2015-12-09|SN|I PK 8/15|Wyrok|78|https://www.saos.org.pl/judgments/244062
+100584|2013-02-06|SN|I PK 195/12|Wyrok|78|https://www.saos.org.pl/judgments/100584
+93946|2011-01-21|SN|II UK 188/10|Wyrok|78|https://www.saos.org.pl/judgments/93946
+89939|2009-03-26|SN|II UK 309/08|Wyrok|78|https://www.saos.org.pl/judgments/89939
+87170|2008-01-30|SN|I PK 195/07|Wyrok|78|https://www.saos.org.pl/judgments/87170
+83542|2005-06-29|SN|II PK 332/04|Wyrok|78|https://www.saos.org.pl/judgments/83542
+84963|2007-01-09|SN|II PZP 7/06|Postanowienie|69|https://www.saos.org.pl/judgments/84963
+329380|2017-05-25|SO|VII Pa 38/17|Wyrok|40|https://www.saos.org.pl/judgments/329380
+275735|2014-11-13|SO|VI P 527/13|Wyrok|40|https://www.saos.org.pl/judgments/275735
+68552|2014-10-16|SO|V Pa 110/14|Wyrok|40|https://www.saos.org.pl/judgments/68552
+51988|2014-05-08|SO|V Pa 55/14|Wyrok|40|https://www.saos.org.pl/judgments/51988
+306853|2017-09-26|SO|VIII Pa 127/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/306853
+180848|2015-10-14|SO|VII Pa 200/15|Uzasadnienie|27|https://www.saos.org.pl/judgments/180848

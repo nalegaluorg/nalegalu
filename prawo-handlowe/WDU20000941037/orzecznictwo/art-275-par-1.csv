@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-479288|2020-07-29|SO|IV K 123/15|Uzasadnienie|https://www.saos.org.pl/judgments/479288
-371400|2018-09-21|SO|III AUa 1506/16|Wyrok|https://www.saos.org.pl/judgments/371400
-355760|2018-06-22|SO|III AUz 73/18|Postanowienie|https://www.saos.org.pl/judgments/355760
-355758|2018-06-21|SO|III AUz 55/18|Postanowienie|https://www.saos.org.pl/judgments/355758
-293562|2017-07-24|SO|XIII Ga 178/17|Uzasadnienie|https://www.saos.org.pl/judgments/293562
-64226|2014-09-18|SO|VIII Ga 73/14|Uzasadnienie|https://www.saos.org.pl/judgments/64226
-96096|2011-10-20|SN|IV KK 129/11|Postanowienie|https://www.saos.org.pl/judgments/96096
-92062|2010-03-17|SN|II CSK 511/09|Wyrok|https://www.saos.org.pl/judgments/92062
-89057|2008-11-05|SN|I CSK 204/08|Wyrok|https://www.saos.org.pl/judgments/89057
-85074|2007-01-24|SN|III CZP 143/06|Uchwała|https://www.saos.org.pl/judgments/85074
+saos_id|date|court|case_number|type|score|saos_url
+85074|2007-01-24|SN|III CZP 143/06|Uchwała|89|https://www.saos.org.pl/judgments/85074
+92062|2010-03-17|SN|II CSK 511/09|Wyrok|78|https://www.saos.org.pl/judgments/92062
+89057|2008-11-05|SN|I CSK 204/08|Wyrok|78|https://www.saos.org.pl/judgments/89057
+96096|2011-10-20|SN|IV KK 129/11|Postanowienie|69|https://www.saos.org.pl/judgments/96096
+371400|2018-09-21|SO|III AUa 1506/16|Wyrok|56|https://www.saos.org.pl/judgments/371400
+355760|2018-06-22|SO|III AUz 73/18|Postanowienie|47|https://www.saos.org.pl/judgments/355760
+355758|2018-06-21|SO|III AUz 55/18|Postanowienie|47|https://www.saos.org.pl/judgments/355758
+293562|2017-07-24|SO|XIII Ga 178/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/293562

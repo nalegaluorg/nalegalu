@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-373670|2019-01-23|SO|VI RCa 12/19|Wyrok|https://www.saos.org.pl/judgments/373670
-285099|2017-03-01|SO|I ACz 412/17|Postanowienie|https://www.saos.org.pl/judgments/285099
-186585|2015-09-30|SO|IV RC 22/13|Wyrok|https://www.saos.org.pl/judgments/186585
-150116|2015-03-31|SO|II C 809/11|Wyrok|https://www.saos.org.pl/judgments/150116
-152194|2015-03-03|SO|I ACz 337/15|Postanowienie|https://www.saos.org.pl/judgments/152194
+saos_id|date|court|case_number|type|score|saos_url
+285099|2017-03-01|SO|I ACz 412/17|Postanowienie|47|https://www.saos.org.pl/judgments/285099
+152194|2015-03-03|SO|I ACz 337/15|Postanowienie|47|https://www.saos.org.pl/judgments/152194
+150116|2015-03-31|SO|II C 809/11|Wyrok|40|https://www.saos.org.pl/judgments/150116

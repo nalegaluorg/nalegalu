@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-110466|2011-09-20|TK|Ts 67/11|Postanowienie|https://www.saos.org.pl/judgments/110466
+saos_id|date|court|case_number|type|score|saos_url
+110466|2011-09-20|TK|Ts 67/11|Postanowienie|80|https://www.saos.org.pl/judgments/110466

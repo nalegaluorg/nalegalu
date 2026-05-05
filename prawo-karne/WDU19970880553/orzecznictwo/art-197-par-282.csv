@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-175220|2015-05-13|SO|II C 1628/14|Wyrok|https://www.saos.org.pl/judgments/175220
+saos_id|date|court|case_number|type|score|saos_url
+175220|2015-05-13|SO|II C 1628/14|Wyrok|40|https://www.saos.org.pl/judgments/175220

@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-74566|2014-06-26|SO|VIII Pa 68/14|Wyrok|https://www.saos.org.pl/judgments/74566
-108629|2008-06-24|TK|SK 16/06|Wyrok|https://www.saos.org.pl/judgments/108629
-84575|2006-09-21|SN|II PK 13/06|Wyrok|https://www.saos.org.pl/judgments/84575
-83917|2005-12-06|SN|III PK 91/05|Wyrok|https://www.saos.org.pl/judgments/83917
-81777|2002-12-18|SN|I PKN 693/01|Wyrok|https://www.saos.org.pl/judgments/81777
+saos_id|date|court|case_number|type|score|saos_url
+108629|2008-06-24|TK|SK 16/06|Wyrok|98|https://www.saos.org.pl/judgments/108629
+84575|2006-09-21|SN|II PK 13/06|Wyrok|78|https://www.saos.org.pl/judgments/84575
+83917|2005-12-06|SN|III PK 91/05|Wyrok|78|https://www.saos.org.pl/judgments/83917
+81777|2002-12-18|SN|I PKN 693/01|Wyrok|78|https://www.saos.org.pl/judgments/81777

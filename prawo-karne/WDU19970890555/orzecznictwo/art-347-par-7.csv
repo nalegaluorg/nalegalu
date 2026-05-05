@@ -1,10 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-539884|2025-11-04|SO|VII Ka 772/25|Wyrok|https://www.saos.org.pl/judgments/539884
-190999|2015-10-22|SO|II K 1/14|Wyrok|https://www.saos.org.pl/judgments/190999
-166779|2014-09-25|SN|III KK 255/14|Wyrok|https://www.saos.org.pl/judgments/166779
-31387|2013-07-05|SO|IV Ka 345/13|Wyrok|https://www.saos.org.pl/judgments/31387
-101009|2013-03-07|SN|V KK 304/12|Postanowienie|https://www.saos.org.pl/judgments/101009
-100312|2013-01-09|SN|IV KK 310/12|Wyrok|https://www.saos.org.pl/judgments/100312
-135738|2012-09-28|SO|II AKa 205/12|Wyrok|https://www.saos.org.pl/judgments/135738
-98010|2012-05-07|SN|III KK 384/11|Wyrok|https://www.saos.org.pl/judgments/98010
-83930|2005-12-09|SN|WK 24/05|Wyrok|https://www.saos.org.pl/judgments/83930
+saos_id|date|court|case_number|type|score|saos_url
+166779|2014-09-25|SN|III KK 255/14|Wyrok|78|https://www.saos.org.pl/judgments/166779
+100312|2013-01-09|SN|IV KK 310/12|Wyrok|78|https://www.saos.org.pl/judgments/100312
+98010|2012-05-07|SN|III KK 384/11|Wyrok|78|https://www.saos.org.pl/judgments/98010
+83930|2005-12-09|SN|WK 24/05|Wyrok|78|https://www.saos.org.pl/judgments/83930
+101009|2013-03-07|SN|V KK 304/12|Postanowienie|69|https://www.saos.org.pl/judgments/101009
+135738|2012-09-28|SO|II AKa 205/12|Wyrok|56|https://www.saos.org.pl/judgments/135738

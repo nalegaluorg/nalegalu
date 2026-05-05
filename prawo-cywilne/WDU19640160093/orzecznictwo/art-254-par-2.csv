@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-540343|2025-05-21|SO|I AGa 241/24|Wyrok|https://www.saos.org.pl/judgments/540343
-363209|2018-09-26|SO|II Ca 571/18|Uzasadnienie|https://www.saos.org.pl/judgments/363209
+saos_id|date|court|case_number|type|score|saos_url
+540343|2025-05-21|SO|I AGa 241/24|Wyrok|56|https://www.saos.org.pl/judgments/540343

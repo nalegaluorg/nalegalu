@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-433977|2019-05-08|SO|I AGa 274/18|Wyrok|https://www.saos.org.pl/judgments/433977
-180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|https://www.saos.org.pl/judgments/180563
-35959|2013-11-28|SO|II Cz 829/13|Postanowienie|https://www.saos.org.pl/judgments/35959
+saos_id|date|court|case_number|type|score|saos_url
+433977|2019-05-08|SO|I AGa 274/18|Wyrok|56|https://www.saos.org.pl/judgments/433977
+180563|2015-09-17|SO|II Ca 1174/15|Postanowienie|31|https://www.saos.org.pl/judgments/180563

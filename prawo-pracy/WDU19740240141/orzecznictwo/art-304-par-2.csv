@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-417660|2020-05-12|SO|I ACa 117/20|Wyrok|https://www.saos.org.pl/judgments/417660
-268947|2016-05-10|SO|I C 2584/14|Wyrok|https://www.saos.org.pl/judgments/268947
-51195|2014-05-16|SO|X Ka 257/14|Uzasadnienie|https://www.saos.org.pl/judgments/51195
-273373|2014-05-12|SO|X Ka 257/14|Wyrok|https://www.saos.org.pl/judgments/273373
-47359|2014-02-18|SO|V ACa 853/13|Wyrok|https://www.saos.org.pl/judgments/47359
+saos_id|date|court|case_number|type|score|saos_url
+417660|2020-05-12|SO|I ACa 117/20|Wyrok|56|https://www.saos.org.pl/judgments/417660
+47359|2014-02-18|SO|V ACa 853/13|Wyrok|56|https://www.saos.org.pl/judgments/47359

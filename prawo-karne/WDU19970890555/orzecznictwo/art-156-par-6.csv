@@ -1,12 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-432615|2021-02-26|SO|V Kz 160/21|Postanowienie|https://www.saos.org.pl/judgments/432615
-400684|2019-12-17|SO|I C 2009/18|Wyrok|https://www.saos.org.pl/judgments/400684
-296271|2017-05-05|SO|III K 599/14|Zarządzenie|https://www.saos.org.pl/judgments/296271
-206659|2015-09-30|TK|K 3/13|Wyrok|https://www.saos.org.pl/judgments/206659
-158494|2015-05-27|SO|I C 131/15|Wyrok|https://www.saos.org.pl/judgments/158494
-147829|2014-08-12|SO|II AKzw 447/14|Postanowienie|https://www.saos.org.pl/judgments/147829
-23832|2013-10-29|SO|II Kz 185/13|Postanowienie|https://www.saos.org.pl/judgments/23832
-97747|2012-04-04|SN|III KK 133/11|Postanowienie|https://www.saos.org.pl/judgments/97747
-109510|2009-10-04|TK|Ts 304/07|Postanowienie|https://www.saos.org.pl/judgments/109510
-109508|2009-04-08|TK|Ts 304/07|Postanowienie|https://www.saos.org.pl/judgments/109508
-83934|2005-12-15|SN|I KZP 41/05|Uchwała|https://www.saos.org.pl/judgments/83934
+saos_id|date|court|case_number|type|score|saos_url
+206659|2015-09-30|TK|K 3/13|Wyrok|98|https://www.saos.org.pl/judgments/206659
+83934|2005-12-15|SN|I KZP 41/05|Uchwała|89|https://www.saos.org.pl/judgments/83934
+109510|2009-10-04|TK|Ts 304/07|Postanowienie|80|https://www.saos.org.pl/judgments/109510
+109508|2009-04-08|TK|Ts 304/07|Postanowienie|80|https://www.saos.org.pl/judgments/109508
+97747|2012-04-04|SN|III KK 133/11|Postanowienie|69|https://www.saos.org.pl/judgments/97747
+147829|2014-08-12|SO|II AKzw 447/14|Postanowienie|47|https://www.saos.org.pl/judgments/147829
+432615|2021-02-26|SO|V Kz 160/21|Postanowienie|31|https://www.saos.org.pl/judgments/432615

@@ -1,7 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-78379|1998-06-02|SN|II UKN 94/98|Wyrok|https://www.saos.org.pl/judgments/78379
-78148|1998-02-17|SN|I PKN 572/97|Wyrok|https://www.saos.org.pl/judgments/78148
-77407|1997-01-17|SN|I PKN 74/96|Postanowienie|https://www.saos.org.pl/judgments/77407
-77368|1996-12-19|SN|I PKN 44/96|Wyrok|https://www.saos.org.pl/judgments/77368
-76869|1995-06-13|SN|I PRN 32/95|Wyrok|https://www.saos.org.pl/judgments/76869
-76598|1994-07-12|SN|II URN 24/94|Wyrok|https://www.saos.org.pl/judgments/76598
+saos_id|date|court|case_number|type|score|saos_url
+78379|1998-06-02|SN|II UKN 94/98|Wyrok|78|https://www.saos.org.pl/judgments/78379
+78148|1998-02-17|SN|I PKN 572/97|Wyrok|78|https://www.saos.org.pl/judgments/78148
+77368|1996-12-19|SN|I PKN 44/96|Wyrok|78|https://www.saos.org.pl/judgments/77368
+76869|1995-06-13|SN|I PRN 32/95|Wyrok|78|https://www.saos.org.pl/judgments/76869
+76598|1994-07-12|SN|II URN 24/94|Wyrok|78|https://www.saos.org.pl/judgments/76598
+77407|1997-01-17|SN|I PKN 74/96|Postanowienie|69|https://www.saos.org.pl/judgments/77407

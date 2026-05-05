@@ -1,11 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-518300|2024-04-22|SO|II Kz 58/24|Postanowienie|https://www.saos.org.pl/judgments/518300
-280682|2017-01-12|SO|II AKa 411/16|Wyrok|https://www.saos.org.pl/judgments/280682
-244186|2016-01-08|SN|II KK 235/15|Wyrok|https://www.saos.org.pl/judgments/244186
-48065|2014-04-29|SO|I ACa 53/14|Wyrok|https://www.saos.org.pl/judgments/48065
-141869|2013-10-25|SO|I C 402/13|Wyrok|https://www.saos.org.pl/judgments/141869
-100285|2013-01-09|SN|III KK 421/12|Postanowienie|https://www.saos.org.pl/judgments/100285
-97216|2012-02-16|SN|III KK 449/11|Postanowienie|https://www.saos.org.pl/judgments/97216
-95472|2011-07-21|SN|I KZP 6/11|Postanowienie|https://www.saos.org.pl/judgments/95472
-84114|2006-02-22|SN|III CZP 6/06|Uchwała|https://www.saos.org.pl/judgments/84114
-81519|2002-07-18|SN|III DS 10/02|Postanowienie|https://www.saos.org.pl/judgments/81519
+saos_id|date|court|case_number|type|score|saos_url
+84114|2006-02-22|SN|III CZP 6/06|Uchwała|89|https://www.saos.org.pl/judgments/84114
+244186|2016-01-08|SN|II KK 235/15|Wyrok|78|https://www.saos.org.pl/judgments/244186
+100285|2013-01-09|SN|III KK 421/12|Postanowienie|69|https://www.saos.org.pl/judgments/100285
+97216|2012-02-16|SN|III KK 449/11|Postanowienie|69|https://www.saos.org.pl/judgments/97216
+95472|2011-07-21|SN|I KZP 6/11|Postanowienie|69|https://www.saos.org.pl/judgments/95472
+81519|2002-07-18|SN|III DS 10/02|Postanowienie|69|https://www.saos.org.pl/judgments/81519
+280682|2017-01-12|SO|II AKa 411/16|Wyrok|56|https://www.saos.org.pl/judgments/280682
+48065|2014-04-29|SO|I ACa 53/14|Wyrok|56|https://www.saos.org.pl/judgments/48065

@@ -1,10 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-540028|2025-11-07|SO|III K 187/24|Wyrok|https://www.saos.org.pl/judgments/540028
-530250|2025-04-22|SO|II K 1252/24|Wyrok|https://www.saos.org.pl/judgments/530250
-306329|2017-09-06|SO|V Kz 558/17|Postanowienie|https://www.saos.org.pl/judgments/306329
-293689|2017-06-20|SO|IV Ka 481/17|Wyrok|https://www.saos.org.pl/judgments/293689
-258802|2016-05-17|SO|II AKa 118/16|Wyrok|https://www.saos.org.pl/judgments/258802
-168767|2015-03-30|SN|II KK 36/15|Wyrok|https://www.saos.org.pl/judgments/168767
-94824|2011-04-21|SN|V KK 59/11|Wyrok|https://www.saos.org.pl/judgments/94824
-108586|2008-01-08|TK|P 35/06|Wyrok|https://www.saos.org.pl/judgments/108586
-86841|2007-11-16|SN|SNO 77/07|Uchwała|https://www.saos.org.pl/judgments/86841
+saos_id|date|court|case_number|type|score|saos_url
+108586|2008-01-08|TK|P 35/06|Wyrok|98|https://www.saos.org.pl/judgments/108586
+86841|2007-11-16|SN|SNO 77/07|Uchwała|89|https://www.saos.org.pl/judgments/86841
+168767|2015-03-30|SN|II KK 36/15|Wyrok|78|https://www.saos.org.pl/judgments/168767
+94824|2011-04-21|SN|V KK 59/11|Wyrok|78|https://www.saos.org.pl/judgments/94824
+258802|2016-05-17|SO|II AKa 118/16|Wyrok|56|https://www.saos.org.pl/judgments/258802
+293689|2017-06-20|SO|IV Ka 481/17|Wyrok|40|https://www.saos.org.pl/judgments/293689
+306329|2017-09-06|SO|V Kz 558/17|Postanowienie|31|https://www.saos.org.pl/judgments/306329

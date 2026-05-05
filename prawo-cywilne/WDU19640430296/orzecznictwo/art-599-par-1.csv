@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-494474|2023-01-11|SO|I ACa 688/22|Wyrok|https://www.saos.org.pl/judgments/494474
-246781|2016-06-29|SO|V Ca 3295/15|Wyrok|https://www.saos.org.pl/judgments/246781
+saos_id|date|court|case_number|type|score|saos_url
+494474|2023-01-11|SO|I ACa 688/22|Wyrok|56|https://www.saos.org.pl/judgments/494474

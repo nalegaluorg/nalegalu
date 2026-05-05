@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-431513|2020-09-23|SO|II AKa 286/19|Wyrok|https://www.saos.org.pl/judgments/431513
-18429|2013-07-29|SO|II Ka 320/13|Wyrok|https://www.saos.org.pl/judgments/18429
+saos_id|date|court|case_number|type|score|saos_url
+431513|2020-09-23|SO|II AKa 286/19|Wyrok|56|https://www.saos.org.pl/judgments/431513

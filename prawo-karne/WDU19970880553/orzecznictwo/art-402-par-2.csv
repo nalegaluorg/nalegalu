@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-137297|2001-01-18|SO|II AKa 369/00|Wyrok|https://www.saos.org.pl/judgments/137297
+saos_id|date|court|case_number|type|score|saos_url
+137297|2001-01-18|SO|II AKa 369/00|Wyrok|56|https://www.saos.org.pl/judgments/137297

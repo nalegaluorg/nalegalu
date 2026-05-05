@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-527154|2023-12-04|SO|XVII AmE 188/21|Wyrok|https://www.saos.org.pl/judgments/527154
-81030|2001-11-27|SN|III CZP 61/01|Uchwała|https://www.saos.org.pl/judgments/81030
+saos_id|date|court|case_number|type|score|saos_url
+81030|2001-11-27|SN|III CZP 61/01|Uchwała|89|https://www.saos.org.pl/judgments/81030

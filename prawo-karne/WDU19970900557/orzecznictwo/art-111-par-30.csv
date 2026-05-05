@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-248656|2016-05-19|SO|XVIII C 263/15|Wyrok|https://www.saos.org.pl/judgments/248656
+saos_id|date|court|case_number|type|score|saos_url
+248656|2016-05-19|SO|XVIII C 263/15|Wyrok|40|https://www.saos.org.pl/judgments/248656

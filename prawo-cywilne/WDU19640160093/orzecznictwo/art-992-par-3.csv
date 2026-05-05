@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-516598|2018-12-31|SO|II Ca 703/18|Wyrok|https://www.saos.org.pl/judgments/516598
-259770|2016-10-27|SO|I ACa 487/16|Wyrok|https://www.saos.org.pl/judgments/259770
-65518|2014-10-07|SO|IX Ca 468/14|Wyrok|https://www.saos.org.pl/judgments/65518
+saos_id|date|court|case_number|type|score|saos_url
+259770|2016-10-27|SO|I ACa 487/16|Wyrok|56|https://www.saos.org.pl/judgments/259770

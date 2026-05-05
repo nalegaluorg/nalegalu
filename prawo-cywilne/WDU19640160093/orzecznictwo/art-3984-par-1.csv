@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-104010|2014-01-10|SN|I CZ 105/13|Postanowienie|https://www.saos.org.pl/judgments/104010
-84270|2006-04-19|SN|II PZP 1/06|Uchwała|https://www.saos.org.pl/judgments/84270
+saos_id|date|court|case_number|type|score|saos_url
+84270|2006-04-19|SN|II PZP 1/06|Uchwała|89|https://www.saos.org.pl/judgments/84270
+104010|2014-01-10|SN|I CZ 105/13|Postanowienie|69|https://www.saos.org.pl/judgments/104010

@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-350017|2018-08-03|SO|VI Ga 347/18|Wyrok|https://www.saos.org.pl/judgments/350017
-332913|2017-12-01|SO|XV C 369/17|Wyrok|https://www.saos.org.pl/judgments/332913
-332077|2017-10-05|SO|II Ca 1324/17|Wyrok|https://www.saos.org.pl/judgments/332077
-265138|2016-12-08|KIO|KIO 2164/16|Wyrok|https://www.saos.org.pl/judgments/265138
+saos_id|date|court|case_number|type|score|saos_url
+265138|2016-12-08|KIO|KIO 2164/16|Wyrok|44|https://www.saos.org.pl/judgments/265138
+350017|2018-08-03|SO|VI Ga 347/18|Wyrok|40|https://www.saos.org.pl/judgments/350017
+332077|2017-10-05|SO|II Ca 1324/17|Wyrok|40|https://www.saos.org.pl/judgments/332077

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-100166|2012-12-19|SN|II CNP 41/12|Wyrok|https://www.saos.org.pl/judgments/100166
-98835|2012-08-23|SN|II CNP 17/12|Wyrok|https://www.saos.org.pl/judgments/98835
-96972|2012-01-25|SN|V CNP 14/11|Wyrok|https://www.saos.org.pl/judgments/96972
+saos_id|date|court|case_number|type|score|saos_url
+100166|2012-12-19|SN|II CNP 41/12|Wyrok|78|https://www.saos.org.pl/judgments/100166
+98835|2012-08-23|SN|II CNP 17/12|Wyrok|78|https://www.saos.org.pl/judgments/98835
+96972|2012-01-25|SN|V CNP 14/11|Wyrok|78|https://www.saos.org.pl/judgments/96972

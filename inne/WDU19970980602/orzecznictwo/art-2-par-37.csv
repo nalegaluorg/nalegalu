@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-424272|2020-10-01|SO|I ACa 757/19|Wyrok|https://www.saos.org.pl/judgments/424272
+saos_id|date|court|case_number|type|score|saos_url
+424272|2020-10-01|SO|I ACa 757/19|Wyrok|56|https://www.saos.org.pl/judgments/424272

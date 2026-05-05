@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-151439|2015-03-06|SO|I ACa 1760/14|Wyrok|https://www.saos.org.pl/judgments/151439
-17123|2013-07-23|SO|I ACz 1092/13|Postanowienie|https://www.saos.org.pl/judgments/17123
-490|2012-09-11|SO|V ACa 270/12|Wyrok|https://www.saos.org.pl/judgments/490
+saos_id|date|court|case_number|type|score|saos_url
+151439|2015-03-06|SO|I ACa 1760/14|Wyrok|56|https://www.saos.org.pl/judgments/151439
+490|2012-09-11|SO|V ACa 270/12|Wyrok|56|https://www.saos.org.pl/judgments/490
+17123|2013-07-23|SO|I ACz 1092/13|Postanowienie|47|https://www.saos.org.pl/judgments/17123

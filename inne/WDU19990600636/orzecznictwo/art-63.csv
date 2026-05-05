@@ -1,14 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-467508|2021-10-29|SO|III Ua 16/21|Wyrok|https://www.saos.org.pl/judgments/467508
-454947|2021-10-15|SO|IV Ua 42/21|Wyrok|https://www.saos.org.pl/judgments/454947
-372761|2019-02-08|SO|III AUa 81/18|Wyrok|https://www.saos.org.pl/judgments/372761
-345953|2018-05-17|SO|VI P 72/16|Wyrok|https://www.saos.org.pl/judgments/345953
-334919|2017-09-20|SO|IV U 131/17|Wyrok|https://www.saos.org.pl/judgments/334919
-214367|2016-03-18|SO|III AUz 41/16|Postanowienie|https://www.saos.org.pl/judgments/214367
-188294|2015-10-26|SO|VII U 1174/15|Wyrok|https://www.saos.org.pl/judgments/188294
-177266|2015-06-18|SO|V Ua 10/15|Wyrok|https://www.saos.org.pl/judgments/177266
-63977|2014-08-19|SO|IV U 442/14|Wyrok|https://www.saos.org.pl/judgments/63977
-55328|2014-05-15|SO|VIII Pz 25/14|Postanowienie|https://www.saos.org.pl/judgments/55328
-21181|2013-09-19|SO|V Ua 19/13|Wyrok|https://www.saos.org.pl/judgments/21181
-7716|2013-01-31|SO|V Ua 21/12|Wyrok|https://www.saos.org.pl/judgments/7716
-106981|2004-01-06|TK|Ts 131/03|Postanowienie|https://www.saos.org.pl/judgments/106981
+saos_id|date|court|case_number|type|score|saos_url
+106981|2004-01-06|TK|Ts 131/03|Postanowienie|80|https://www.saos.org.pl/judgments/106981
+372761|2019-02-08|SO|III AUa 81/18|Wyrok|56|https://www.saos.org.pl/judgments/372761
+214367|2016-03-18|SO|III AUz 41/16|Postanowienie|47|https://www.saos.org.pl/judgments/214367
+454947|2021-10-15|SO|IV Ua 42/21|Wyrok|40|https://www.saos.org.pl/judgments/454947
+177266|2015-06-18|SO|V Ua 10/15|Wyrok|40|https://www.saos.org.pl/judgments/177266
+21181|2013-09-19|SO|V Ua 19/13|Wyrok|40|https://www.saos.org.pl/judgments/21181
+7716|2013-01-31|SO|V Ua 21/12|Wyrok|40|https://www.saos.org.pl/judgments/7716

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-459230|2021-09-14|SO|III Ca 3/21|Uzasadnienie|https://www.saos.org.pl/judgments/459230
-332863|2017-12-19|SO|VII U 992/16|Wyrok|https://www.saos.org.pl/judgments/332863
-733|2012-09-12|SO|I ACa 638/12|Wyrok|https://www.saos.org.pl/judgments/733
+saos_id|date|court|case_number|type|score|saos_url
+733|2012-09-12|SO|I ACa 638/12|Wyrok|56|https://www.saos.org.pl/judgments/733
+332863|2017-12-19|SO|VII U 992/16|Wyrok|40|https://www.saos.org.pl/judgments/332863
+459230|2021-09-14|SO|III Ca 3/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/459230

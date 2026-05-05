@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-407370|2019-08-30|SO|I AGa 376/18|Wyrok|https://www.saos.org.pl/judgments/407370
-318667|2017-10-12|SO|IV U 485/17|Wyrok|https://www.saos.org.pl/judgments/318667
-172121|2015-05-26|SO|VIII GC 314/14|Wyrok|https://www.saos.org.pl/judgments/172121
-91190|2009-11-03|SN|II CSK 181/09|Wyrok|https://www.saos.org.pl/judgments/91190
+saos_id|date|court|case_number|type|score|saos_url
+91190|2009-11-03|SN|II CSK 181/09|Wyrok|78|https://www.saos.org.pl/judgments/91190
+407370|2019-08-30|SO|I AGa 376/18|Wyrok|56|https://www.saos.org.pl/judgments/407370
+318667|2017-10-12|SO|IV U 485/17|Wyrok|40|https://www.saos.org.pl/judgments/318667

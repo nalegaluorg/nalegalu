@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525760|2022-07-22|SO|III AUa 951/22|Wyrok|https://www.saos.org.pl/judgments/525760
+saos_id|date|court|case_number|type|score|saos_url
+525760|2022-07-22|SO|III AUa 951/22|Wyrok|56|https://www.saos.org.pl/judgments/525760

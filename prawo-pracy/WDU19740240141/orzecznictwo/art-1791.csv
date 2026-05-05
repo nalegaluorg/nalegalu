@@ -1,2 +1,19 @@
-saos_id|date|court|case_number|type|saos_url
-299624|2017-06-30|SO|III Ua 12/17|Wyrok|https://www.saos.org.pl/judgments/299624
+saos_id|date|court|case_number|type|score|saos_url
+244866|2016-03-09|SN|I UK 109/15|Wyrok|78|https://www.saos.org.pl/judgments/244866
+184280|2015-08-20|SO|III AUa 2020/14|Wyrok|56|https://www.saos.org.pl/judgments/184280
+31258|2014-01-15|SO|III AUa 763/13|Wyrok|56|https://www.saos.org.pl/judgments/31258
+484776|2022-11-17|SO|VI U 100/21|Wyrok|40|https://www.saos.org.pl/judgments/484776
+447901|2021-08-11|SO|VII Ua 60/20|Wyrok|40|https://www.saos.org.pl/judgments/447901
+453339|2020-07-07|SO|VI U 279/19|Wyrok|40|https://www.saos.org.pl/judgments/453339
+376124|2018-08-07|SO|VII Ua 41/18|Wyrok|40|https://www.saos.org.pl/judgments/376124
+329030|2018-01-22|SO|VII Ua 70/17|Wyrok|40|https://www.saos.org.pl/judgments/329030
+265972|2016-09-29|SO|VII Ua 38/16|Wyrok|40|https://www.saos.org.pl/judgments/265972
+207820|2015-12-08|SO|VI U 121/14|Wyrok|40|https://www.saos.org.pl/judgments/207820
+207821|2015-11-18|SO|VI U 337/15|Wyrok|40|https://www.saos.org.pl/judgments/207821
+170723|2015-06-17|SO|VI U 1024/15|Wyrok|40|https://www.saos.org.pl/judgments/170723
+125825|2014-11-03|SO|VI U 311/14|Wyrok|40|https://www.saos.org.pl/judgments/125825
+56937|2014-07-23|SO|VII Ua 19/14|Wyrok|40|https://www.saos.org.pl/judgments/56937
+56092|2014-07-23|SO|VII Ua 27/14|Wyrok|40|https://www.saos.org.pl/judgments/56092
+65084|2014-02-06|SO|IV Ua 31/13|Wyrok|40|https://www.saos.org.pl/judgments/65084
+42753|2014-04-14|SO|VII Ua 27/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/42753
+41833|2014-04-08|SO|VII Ua 39/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/41833

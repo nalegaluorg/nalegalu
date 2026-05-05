@@ -1,8 +1,8 @@
-saos_id|date|court|case_number|type|saos_url
-395989|2019-08-28|SO|III APa 73/18|Postanowienie|https://www.saos.org.pl/judgments/395989
-168903|2015-04-24|SN|II CZ 14/15|Postanowienie|https://www.saos.org.pl/judgments/168903
-100438|2013-01-24|SN|II CSK 251/12|Postanowienie|https://www.saos.org.pl/judgments/100438
-95738|2011-09-15|SN|II UK 17/11|Postanowienie|https://www.saos.org.pl/judgments/95738
-90830|2009-09-09|SN|V CSK 62/09|Postanowienie|https://www.saos.org.pl/judgments/90830
-89436|2009-01-13|SN|I PK 133/08|Wyrok|https://www.saos.org.pl/judgments/89436
-87754|2008-04-03|SN|II CSK 561/07|Postanowienie|https://www.saos.org.pl/judgments/87754
+saos_id|date|court|case_number|type|score|saos_url
+89436|2009-01-13|SN|I PK 133/08|Wyrok|78|https://www.saos.org.pl/judgments/89436
+168903|2015-04-24|SN|II CZ 14/15|Postanowienie|69|https://www.saos.org.pl/judgments/168903
+100438|2013-01-24|SN|II CSK 251/12|Postanowienie|69|https://www.saos.org.pl/judgments/100438
+95738|2011-09-15|SN|II UK 17/11|Postanowienie|69|https://www.saos.org.pl/judgments/95738
+90830|2009-09-09|SN|V CSK 62/09|Postanowienie|69|https://www.saos.org.pl/judgments/90830
+87754|2008-04-03|SN|II CSK 561/07|Postanowienie|69|https://www.saos.org.pl/judgments/87754
+395989|2019-08-28|SO|III APa 73/18|Postanowienie|47|https://www.saos.org.pl/judgments/395989

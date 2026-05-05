@@ -1,2 +1,9 @@
-saos_id|date|court|case_number|type|saos_url
-178301|2015-09-03|SO|III Ca 862/15|Wyrok|https://www.saos.org.pl/judgments/178301
+saos_id|date|court|case_number|type|score|saos_url
+531127|2024-11-06|SO|III AUa 357/23|Wyrok|56|https://www.saos.org.pl/judgments/531127
+477341|2022-05-12|SO|III AUa 277/21|Wyrok|56|https://www.saos.org.pl/judgments/477341
+340933|2017-12-06|SO|I ACa 1227/16|Wyrok|56|https://www.saos.org.pl/judgments/340933
+467505|2022-06-10|SO|III U 162/22|Wyrok|40|https://www.saos.org.pl/judgments/467505
+260563|2016-11-08|SO|VII U 1677/15|Wyrok|40|https://www.saos.org.pl/judgments/260563
+542490|2025-11-25|SO|VIII U 1991/25|Uzasadnienie|27|https://www.saos.org.pl/judgments/542490
+432153|2021-02-17|SO|VIII U 966/20|Uzasadnienie|27|https://www.saos.org.pl/judgments/432153
+335521|2018-03-22|SO|VIII U 2107/17|Zarządzenie|27|https://www.saos.org.pl/judgments/335521

@@ -1,2 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-34886|2014-02-12|SO|IV Cz 660/13|Postanowienie|https://www.saos.org.pl/judgments/34886
+saos_id|date|court|case_number|type|score|saos_url
+104807|2014-03-27|SN|V CSK 356/13|Postanowienie|69|https://www.saos.org.pl/judgments/104807
+321846|2017-12-12|SO|I C 316/15|Wyrok|40|https://www.saos.org.pl/judgments/321846

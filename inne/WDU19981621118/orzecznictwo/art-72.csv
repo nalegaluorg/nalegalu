@@ -1,12 +1,10 @@
-saos_id|date|court|case_number|type|saos_url
-492530|2023-07-05|SO|IV U 415/21|Wyrok|https://www.saos.org.pl/judgments/492530
-305687|2017-08-10|SO|III AUa 777/16|Wyrok|https://www.saos.org.pl/judgments/305687
-292334|2017-06-28|SO|IV U 298/17|Wyrok|https://www.saos.org.pl/judgments/292334
-268352|2016-10-27|SO|III AUa 610/15|Wyrok|https://www.saos.org.pl/judgments/268352
-184123|2015-10-08|SO|III AUa 1276/14|Wyrok|https://www.saos.org.pl/judgments/184123
-184587|2015-10-06|SO|III AUa 666/15|Wyrok|https://www.saos.org.pl/judgments/184587
-54239|2014-06-05|SO|III AUa 1109/13|Wyrok|https://www.saos.org.pl/judgments/54239
-37250|2013-06-27|SO|III AUa 128/13|Wyrok|https://www.saos.org.pl/judgments/37250
-26935|2013-05-09|SO|III AUa 985/12|Wyrok|https://www.saos.org.pl/judgments/26935
-6160|2013-02-13|SO|III AUa 1006/12|Wyrok|https://www.saos.org.pl/judgments/6160
-1430|2012-08-23|SO|III AUa 761/12|Wyrok|https://www.saos.org.pl/judgments/1430
+saos_id|date|court|case_number|type|score|saos_url
+305687|2017-08-10|SO|III AUa 777/16|Wyrok|56|https://www.saos.org.pl/judgments/305687
+268352|2016-10-27|SO|III AUa 610/15|Wyrok|56|https://www.saos.org.pl/judgments/268352
+184123|2015-10-08|SO|III AUa 1276/14|Wyrok|56|https://www.saos.org.pl/judgments/184123
+184587|2015-10-06|SO|III AUa 666/15|Wyrok|56|https://www.saos.org.pl/judgments/184587
+54239|2014-06-05|SO|III AUa 1109/13|Wyrok|56|https://www.saos.org.pl/judgments/54239
+37250|2013-06-27|SO|III AUa 128/13|Wyrok|56|https://www.saos.org.pl/judgments/37250
+26935|2013-05-09|SO|III AUa 985/12|Wyrok|56|https://www.saos.org.pl/judgments/26935
+6160|2013-02-13|SO|III AUa 1006/12|Wyrok|56|https://www.saos.org.pl/judgments/6160
+1430|2012-08-23|SO|III AUa 761/12|Wyrok|56|https://www.saos.org.pl/judgments/1430

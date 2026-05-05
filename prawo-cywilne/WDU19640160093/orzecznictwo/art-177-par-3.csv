@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-421218|2020-04-30|SO|I Ca 7/20|Postanowienie|https://www.saos.org.pl/judgments/421218
-268970|2017-01-12|SO|I Ns 177/16|Postanowienie|https://www.saos.org.pl/judgments/268970
-39814|2013-04-19|SO|I ACa 275/13|Wyrok|https://www.saos.org.pl/judgments/39814
+saos_id|date|court|case_number|type|score|saos_url
+39814|2013-04-19|SO|I ACa 275/13|Wyrok|56|https://www.saos.org.pl/judgments/39814

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-167452|2014-11-18|SN|II PZP 2/14|Uchwała|https://www.saos.org.pl/judgments/167452
-103334|2013-10-30|SN|II PK 32/13|Wyrok|https://www.saos.org.pl/judgments/103334
-81179|2002-02-05|SN|I PKN 845/00|Wyrok|https://www.saos.org.pl/judgments/81179
+saos_id|date|court|case_number|type|score|saos_url
+167452|2014-11-18|SN|II PZP 2/14|Uchwała|89|https://www.saos.org.pl/judgments/167452
+103334|2013-10-30|SN|II PK 32/13|Wyrok|78|https://www.saos.org.pl/judgments/103334
+81179|2002-02-05|SN|I PKN 845/00|Wyrok|78|https://www.saos.org.pl/judgments/81179

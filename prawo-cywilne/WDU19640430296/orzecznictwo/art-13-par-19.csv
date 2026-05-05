@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-303719|2017-08-21|SO|III Ca 488/17|Uzasadnienie|https://www.saos.org.pl/judgments/303719
-183337|2015-07-06|SO|II Ca 500/15|Wyrok|https://www.saos.org.pl/judgments/183337
-21613|2013-07-25|SO|II Cz 700/13|Postanowienie|https://www.saos.org.pl/judgments/21613
+saos_id|date|court|case_number|type|score|saos_url
+303719|2017-08-21|SO|III Ca 488/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/303719

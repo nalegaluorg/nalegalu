@@ -1,4 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-391938|2019-05-21|SO|I C 3173/17|Wyrok|https://www.saos.org.pl/judgments/391938
-365691|2018-10-26|SO|I ACa 750/17|Wyrok|https://www.saos.org.pl/judgments/365691
-390470|2017-10-12|SO|XXIV C 1090/15|Wyrok|https://www.saos.org.pl/judgments/390470
+saos_id|date|court|case_number|type|score|saos_url
+365691|2018-10-26|SO|I ACa 750/17|Wyrok|56|https://www.saos.org.pl/judgments/365691

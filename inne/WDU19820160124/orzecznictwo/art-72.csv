@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-412267|2019-09-30|SO|I ACa 255/17|Wyrok|https://www.saos.org.pl/judgments/412267
-106066|2002-05-20|TK|SK 28/01|Postanowienie|https://www.saos.org.pl/judgments/106066
-206050|2000-02-23|TK|Ts 118/99|Postanowienie|https://www.saos.org.pl/judgments/206050
+saos_id|date|court|case_number|type|score|saos_url
+106066|2002-05-20|TK|SK 28/01|Postanowienie|80|https://www.saos.org.pl/judgments/106066
+206050|2000-02-23|TK|Ts 118/99|Postanowienie|80|https://www.saos.org.pl/judgments/206050
+412267|2019-09-30|SO|I ACa 255/17|Wyrok|56|https://www.saos.org.pl/judgments/412267

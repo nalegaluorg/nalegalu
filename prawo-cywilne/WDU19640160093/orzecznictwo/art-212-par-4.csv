@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-460894|2021-12-16|SO|III Ca 654/18|Uzasadnienie|https://www.saos.org.pl/judgments/460894
-346214|2015-04-08|SO|II Ca 742/14|Uzasadnienie|https://www.saos.org.pl/judgments/346214
-5874|2012-11-22|SO|V ACa 760/12|Wyrok|https://www.saos.org.pl/judgments/5874
+saos_id|date|court|case_number|type|score|saos_url
+5874|2012-11-22|SO|V ACa 760/12|Wyrok|56|https://www.saos.org.pl/judgments/5874
+460894|2021-12-16|SO|III Ca 654/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/460894

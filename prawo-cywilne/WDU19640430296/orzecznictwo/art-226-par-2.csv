@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-398834|2019-11-14|SO|I Ca 339/19|Wyrok|https://www.saos.org.pl/judgments/398834
-377279|2018-06-26|SO|I C 681/16|Wyrok|https://www.saos.org.pl/judgments/377279
-32629|2013-11-29|SO|I ACa 927/12|Wyrok|https://www.saos.org.pl/judgments/32629
-23402|2013-09-20|SO|I ACa 363/13|Wyrok|https://www.saos.org.pl/judgments/23402
-19217|2013-01-31|SO|I ACa 1339/12|Wyrok|https://www.saos.org.pl/judgments/19217
+saos_id|date|court|case_number|type|score|saos_url
+32629|2013-11-29|SO|I ACa 927/12|Wyrok|56|https://www.saos.org.pl/judgments/32629
+23402|2013-09-20|SO|I ACa 363/13|Wyrok|56|https://www.saos.org.pl/judgments/23402
+19217|2013-01-31|SO|I ACa 1339/12|Wyrok|56|https://www.saos.org.pl/judgments/19217
+398834|2019-11-14|SO|I Ca 339/19|Wyrok|40|https://www.saos.org.pl/judgments/398834

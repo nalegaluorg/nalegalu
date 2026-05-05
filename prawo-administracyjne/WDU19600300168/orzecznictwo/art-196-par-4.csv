@@ -1,11 +1,11 @@
-saos_id|date|court|case_number|type|saos_url
-5596|2013-01-17|SO|III AUa 957/12|Wyrok|https://www.saos.org.pl/judgments/5596
-80251|2001-01-18|SN|III ZP 28/00|Uchwała|https://www.saos.org.pl/judgments/80251
-77352|1996-12-04|SN|III ARN 15/96|Wyrok|https://www.saos.org.pl/judgments/77352
-77298|1996-10-22|SN|III AZP 3/96|Uchwała|https://www.saos.org.pl/judgments/77298
-77195|1996-06-20|SN|III PO 11/96|Postanowienie|https://www.saos.org.pl/judgments/77195
-76996|1995-11-09|SN|III ARN 52/95|Wyrok|https://www.saos.org.pl/judgments/76996
-76903|1995-08-23|SN|III PO 13/95|Postanowienie|https://www.saos.org.pl/judgments/76903
-76569|1994-06-16|SN|II PZP 4/94|Uchwała|https://www.saos.org.pl/judgments/76569
-205503|1992-10-20|TK|K 1/92|Wyrok|https://www.saos.org.pl/judgments/205503
-205511|1992-01-07|TK|K 8/91|Wyrok|https://www.saos.org.pl/judgments/205511
+saos_id|date|court|case_number|type|score|saos_url
+205503|1992-10-20|TK|K 1/92|Wyrok|98|https://www.saos.org.pl/judgments/205503
+205511|1992-01-07|TK|K 8/91|Wyrok|98|https://www.saos.org.pl/judgments/205511
+80251|2001-01-18|SN|III ZP 28/00|Uchwała|96|https://www.saos.org.pl/judgments/80251
+77298|1996-10-22|SN|III AZP 3/96|Uchwała|96|https://www.saos.org.pl/judgments/77298
+76569|1994-06-16|SN|II PZP 4/94|Uchwała|96|https://www.saos.org.pl/judgments/76569
+77352|1996-12-04|SN|III ARN 15/96|Wyrok|78|https://www.saos.org.pl/judgments/77352
+76996|1995-11-09|SN|III ARN 52/95|Wyrok|78|https://www.saos.org.pl/judgments/76996
+77195|1996-06-20|SN|III PO 11/96|Postanowienie|69|https://www.saos.org.pl/judgments/77195
+76903|1995-08-23|SN|III PO 13/95|Postanowienie|69|https://www.saos.org.pl/judgments/76903
+5596|2013-01-17|SO|III AUa 957/12|Wyrok|56|https://www.saos.org.pl/judgments/5596

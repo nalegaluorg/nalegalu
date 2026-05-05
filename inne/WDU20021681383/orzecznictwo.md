@@ -6,9 +6,9 @@ Orzeczenia powołujące: *Wyrok Trybunału Konstytucyjnego z dnia 2 październik
 
 ## art. 31 (1)
 
-- 2004-03-09 | TK | [SK 34/02](https://www.saos.org.pl/judgments/106777) | Postanowienie
+- 2004-03-09 | TK | [SK 34/02](https://www.saos.org.pl/judgments/106777) | Postanowienie ★
 
 ## art. 64 (1)
 
-- 2004-03-09 | TK | [SK 34/02](https://www.saos.org.pl/judgments/106777) | Postanowienie
+- 2004-03-09 | TK | [SK 34/02](https://www.saos.org.pl/judgments/106777) | Postanowienie ★
 

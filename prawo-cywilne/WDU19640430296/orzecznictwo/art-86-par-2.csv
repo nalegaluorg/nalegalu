@@ -1,4 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-150604|2015-03-04|SO|I ACa 845/14|Wyrok|https://www.saos.org.pl/judgments/150604
-55820|2014-06-17|SO|III Ca 254/14|Wyrok|https://www.saos.org.pl/judgments/55820
-85813|2007-05-08|SN|II PK 297/06|Wyrok|https://www.saos.org.pl/judgments/85813
+saos_id|date|court|case_number|type|score|saos_url
+85813|2007-05-08|SN|II PK 297/06|Wyrok|78|https://www.saos.org.pl/judgments/85813
+150604|2015-03-04|SO|I ACa 845/14|Wyrok|56|https://www.saos.org.pl/judgments/150604

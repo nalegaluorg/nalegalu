@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-205502|1991-10-02|TK|W 9/91|Uchwała|https://www.saos.org.pl/judgments/205502
+saos_id|date|court|case_number|type|score|saos_url
+205502|1991-10-02|TK|W 9/91|Uchwała|100|https://www.saos.org.pl/judgments/205502

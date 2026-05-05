@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-425644|2020-10-06|SO|I C 278/20|Wyrok|https://www.saos.org.pl/judgments/425644
-345604|2017-12-01|SO|I ACa 279/16|Wyrok|https://www.saos.org.pl/judgments/345604
+saos_id|date|court|case_number|type|score|saos_url
+345604|2017-12-01|SO|I ACa 279/16|Wyrok|56|https://www.saos.org.pl/judgments/345604

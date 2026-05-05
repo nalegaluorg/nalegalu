@@ -1,7 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-478456|2022-11-30|SO|VIII Pa 55/22|Zarządzenie|https://www.saos.org.pl/judgments/478456
-241169|2016-06-28|SO|III APa 28/15|Wyrok|https://www.saos.org.pl/judgments/241169
-188185|2015-08-25|SO|VII P 185/15|Wyrok|https://www.saos.org.pl/judgments/188185
-45123|2014-03-05|SO|VI P 428/12|Wyrok|https://www.saos.org.pl/judgments/45123
-14105|2013-02-08|SO|X P 349/12|Wyrok|https://www.saos.org.pl/judgments/14105
-78457|1998-07-26|SN|I PKN 196/98|Wyrok|https://www.saos.org.pl/judgments/78457
+saos_id|date|court|case_number|type|score|saos_url
+78457|1998-07-26|SN|I PKN 196/98|Wyrok|78|https://www.saos.org.pl/judgments/78457
+241169|2016-06-28|SO|III APa 28/15|Wyrok|56|https://www.saos.org.pl/judgments/241169
+45123|2014-03-05|SO|VI P 428/12|Wyrok|40|https://www.saos.org.pl/judgments/45123
+478456|2022-11-30|SO|VIII Pa 55/22|Zarządzenie|27|https://www.saos.org.pl/judgments/478456

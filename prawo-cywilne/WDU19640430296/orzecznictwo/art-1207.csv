@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-245530|2015-05-28|SN|III CZ 20/15|Postanowienie|https://www.saos.org.pl/judgments/245530
-104345|2014-02-07|SN|III CZP 90/13|Uchwała|https://www.saos.org.pl/judgments/104345
-206417|2013-09-20|TK|Ts 191/12|Postanowienie|https://www.saos.org.pl/judgments/206417
+saos_id|date|court|case_number|type|score|saos_url
+104345|2014-02-07|SN|III CZP 90/13|Uchwała|89|https://www.saos.org.pl/judgments/104345
+206417|2013-09-20|TK|Ts 191/12|Postanowienie|80|https://www.saos.org.pl/judgments/206417
+245530|2015-05-28|SN|III CZ 20/15|Postanowienie|69|https://www.saos.org.pl/judgments/245530

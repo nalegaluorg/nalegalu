@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-111455|2012-06-26|TK|Ts 300/11|Postanowienie|https://www.saos.org.pl/judgments/111455
+saos_id|date|court|case_number|type|score|saos_url
+111455|2012-06-26|TK|Ts 300/11|Postanowienie|80|https://www.saos.org.pl/judgments/111455

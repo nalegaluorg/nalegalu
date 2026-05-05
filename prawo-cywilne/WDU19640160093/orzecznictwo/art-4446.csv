@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-532707|2024-09-30|SO|I ACa 560/22|Wyrok|https://www.saos.org.pl/judgments/532707
-65549|2014-09-18|SO|I ACa 458/14|Wyrok|https://www.saos.org.pl/judgments/65549
-69942|2014-06-16|SO|I ACa 433/14|Wyrok|https://www.saos.org.pl/judgments/69942
+saos_id|date|court|case_number|type|score|saos_url
+532707|2024-09-30|SO|I ACa 560/22|Wyrok|56|https://www.saos.org.pl/judgments/532707
+65549|2014-09-18|SO|I ACa 458/14|Wyrok|56|https://www.saos.org.pl/judgments/65549
+69942|2014-06-16|SO|I ACa 433/14|Wyrok|56|https://www.saos.org.pl/judgments/69942

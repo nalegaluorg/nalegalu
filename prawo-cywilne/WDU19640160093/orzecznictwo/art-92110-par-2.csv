@@ -1,22 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-423632|2020-07-06|SO|V ACa 43/20|Wyrok|https://www.saos.org.pl/judgments/423632
-337568|2018-01-08|SO|XVI Cz 1178/17|Postanowienie|https://www.saos.org.pl/judgments/337568
-264425|2016-09-19|KIO|KIO 1294/16|Wyrok|https://www.saos.org.pl/judgments/264425
-245986|2016-06-28|SO|III Cz 744/16|Postanowienie|https://www.saos.org.pl/judgments/245986
-224570|2016-04-05|SO|III Cz 298/16|Postanowienie|https://www.saos.org.pl/judgments/224570
-234467|2016-03-30|SO|XII C 186/15|Wyrok|https://www.saos.org.pl/judgments/234467
-216218|2015-12-08|SO|III Cz 1695/15|Postanowienie|https://www.saos.org.pl/judgments/216218
-185560|2015-09-29|SO|III Cz 1293/15|Postanowienie|https://www.saos.org.pl/judgments/185560
-159509|2015-03-11|SO|III Ca 1743/14|Wyrok|https://www.saos.org.pl/judgments/159509
-159778|2015-01-20|SO|III Cz 1992/14|Postanowienie|https://www.saos.org.pl/judgments/159778
-159774|2015-01-09|SO|III Cz 1870/14|Postanowienie|https://www.saos.org.pl/judgments/159774
-159267|2014-12-02|SO|III Cz 1588/14|Postanowienie|https://www.saos.org.pl/judgments/159267
-159264|2014-12-02|SO|III Cz 1519/14|Postanowienie|https://www.saos.org.pl/judgments/159264
-156551|2014-11-25|SO|III Cz 1522/14|Postanowienie|https://www.saos.org.pl/judgments/156551
-156549|2014-11-18|SO|III Cz 1435/14|Postanowienie|https://www.saos.org.pl/judgments/156549
-204715|2014-10-10|SO|IX C 1352/14|Wyrok|https://www.saos.org.pl/judgments/204715
-68031|2014-08-19|SO|III Cz 925/14|Postanowienie|https://www.saos.org.pl/judgments/68031
-66622|2014-07-08|SO|III Cz 841/14|Postanowienie|https://www.saos.org.pl/judgments/66622
-2190|2012-08-27|SO|I ACz 1581/12|Postanowienie|https://www.saos.org.pl/judgments/2190
-87825|2008-04-10|SN|IV CZ 23/08|Postanowienie|https://www.saos.org.pl/judgments/87825
-164927|2007-11-23|SN|IV CSK 228/07|Wyrok|https://www.saos.org.pl/judgments/164927
+saos_id|date|court|case_number|type|score|saos_url
+164927|2007-11-23|SN|IV CSK 228/07|Wyrok|78|https://www.saos.org.pl/judgments/164927
+87825|2008-04-10|SN|IV CZ 23/08|Postanowienie|69|https://www.saos.org.pl/judgments/87825
+423632|2020-07-06|SO|V ACa 43/20|Wyrok|56|https://www.saos.org.pl/judgments/423632
+2190|2012-08-27|SO|I ACz 1581/12|Postanowienie|47|https://www.saos.org.pl/judgments/2190
+264425|2016-09-19|KIO|KIO 1294/16|Wyrok|44|https://www.saos.org.pl/judgments/264425

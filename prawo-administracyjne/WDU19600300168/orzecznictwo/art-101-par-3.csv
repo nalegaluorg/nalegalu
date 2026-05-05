@@ -1,6 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-483538|2023-01-19|SO|VIII U 1336/22|Uzasadnienie|https://www.saos.org.pl/judgments/483538
-285349|2017-03-30|SO|III AUa 1715/15|Wyrok|https://www.saos.org.pl/judgments/285349
-197866|2015-12-08|SO|I ACa 655/15|Wyrok|https://www.saos.org.pl/judgments/197866
-265327|2015-05-07|SO|I C 366/14|Wyrok|https://www.saos.org.pl/judgments/265327
-111021|2012-02-28|TK|SK 32/10|Postanowienie|https://www.saos.org.pl/judgments/111021
+saos_id|date|court|case_number|type|score|saos_url
+111021|2012-02-28|TK|SK 32/10|Postanowienie|80|https://www.saos.org.pl/judgments/111021
+285349|2017-03-30|SO|III AUa 1715/15|Wyrok|56|https://www.saos.org.pl/judgments/285349
+197866|2015-12-08|SO|I ACa 655/15|Wyrok|56|https://www.saos.org.pl/judgments/197866
+483538|2023-01-19|SO|VIII U 1336/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/483538

@@ -1,10 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-515406|2024-06-19|SO|XXIII Gz 304/24|Postanowienie|https://www.saos.org.pl/judgments/515406
-378872|2019-01-28|SO|III Ca 1971/18|Uzasadnienie|https://www.saos.org.pl/judgments/378872
-362321|2018-10-30|SO|VIII Gz 407/18|Postanowienie|https://www.saos.org.pl/judgments/362321
-323058|2017-12-21|SO|III AUz 104/17|Postanowienie|https://www.saos.org.pl/judgments/323058
-307544|2017-09-29|SO|VIII Gz 145/17|Postanowienie|https://www.saos.org.pl/judgments/307544
-269525|2017-02-09|SO|VI Gz 6/17|Postanowienie|https://www.saos.org.pl/judgments/269525
-234757|2016-06-30|SO|VIII Gz 67/16|Postanowienie|https://www.saos.org.pl/judgments/234757
-69512|2014-09-03|SO|XV C 1093/13|Wyrok|https://www.saos.org.pl/judgments/69512
-62304|2014-05-23|SO|I ACa 1383/13|Wyrok|https://www.saos.org.pl/judgments/62304
+saos_id|date|court|case_number|type|score|saos_url
+62304|2014-05-23|SO|I ACa 1383/13|Wyrok|56|https://www.saos.org.pl/judgments/62304
+323058|2017-12-21|SO|III AUz 104/17|Postanowienie|47|https://www.saos.org.pl/judgments/323058
+378872|2019-01-28|SO|III Ca 1971/18|Uzasadnienie|27|https://www.saos.org.pl/judgments/378872

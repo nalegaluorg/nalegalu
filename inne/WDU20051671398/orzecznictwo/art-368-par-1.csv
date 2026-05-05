@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-85486|2007-03-21|SN|I CZ 8/07|Postanowienie|https://www.saos.org.pl/judgments/85486
+saos_id|date|court|case_number|type|score|saos_url
+85486|2007-03-21|SN|I CZ 8/07|Postanowienie|69|https://www.saos.org.pl/judgments/85486

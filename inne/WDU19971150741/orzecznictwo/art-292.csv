@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-383948|2019-03-25|SO|II Ca 189/18|Zarządzenie|https://www.saos.org.pl/judgments/383948
-197305|2015-12-11|SO|II Ns 1022/13|Postanowienie|https://www.saos.org.pl/judgments/197305
+saos_id|date|court|case_number|type|score|saos_url
+197305|2015-12-11|SO|II Ns 1022/13|Postanowienie|31|https://www.saos.org.pl/judgments/197305

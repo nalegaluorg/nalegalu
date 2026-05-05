@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-478584|2021-09-29|SO|II AKa 152/20|Wyrok|https://www.saos.org.pl/judgments/478584
-98407|2012-06-20|SN|I KZP 9/12|Uchwała|https://www.saos.org.pl/judgments/98407
-85045|2007-01-26|SN|I KZP 33/06|Postanowienie|https://www.saos.org.pl/judgments/85045
+saos_id|date|court|case_number|type|score|saos_url
+98407|2012-06-20|SN|I KZP 9/12|Uchwała|89|https://www.saos.org.pl/judgments/98407
+85045|2007-01-26|SN|I KZP 33/06|Postanowienie|69|https://www.saos.org.pl/judgments/85045
+478584|2021-09-29|SO|II AKa 152/20|Wyrok|56|https://www.saos.org.pl/judgments/478584

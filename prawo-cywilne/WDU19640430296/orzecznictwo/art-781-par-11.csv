@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-393351|2019-02-28|SO|I ACa 715/18|Wyrok|https://www.saos.org.pl/judgments/393351
-166158|2014-06-26|SN|III CZP 30/14|Uchwała|https://www.saos.org.pl/judgments/166158
-103762|2013-12-04|SN|III CZP 85/13|Uchwała|https://www.saos.org.pl/judgments/103762
-108603|2008-12-01|TK|P 54/07|Wyrok|https://www.saos.org.pl/judgments/108603
-86949|2007-12-20|SN|I KZP 35/07|Uchwała|https://www.saos.org.pl/judgments/86949
+saos_id|date|court|case_number|type|score|saos_url
+108603|2008-12-01|TK|P 54/07|Wyrok|98|https://www.saos.org.pl/judgments/108603
+86949|2007-12-20|SN|I KZP 35/07|Uchwała|96|https://www.saos.org.pl/judgments/86949
+166158|2014-06-26|SN|III CZP 30/14|Uchwała|89|https://www.saos.org.pl/judgments/166158
+103762|2013-12-04|SN|III CZP 85/13|Uchwała|89|https://www.saos.org.pl/judgments/103762
+393351|2019-02-28|SO|I ACa 715/18|Wyrok|56|https://www.saos.org.pl/judgments/393351

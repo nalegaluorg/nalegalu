@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-125730|2014-11-20|SO|I ACa 447/14|Wyrok|https://www.saos.org.pl/judgments/125730
-7087|2012-09-07|SO|I ACa 697/11|Wyrok|https://www.saos.org.pl/judgments/7087
+saos_id|date|court|case_number|type|score|saos_url
+125730|2014-11-20|SO|I ACa 447/14|Wyrok|56|https://www.saos.org.pl/judgments/125730
+7087|2012-09-07|SO|I ACa 697/11|Wyrok|56|https://www.saos.org.pl/judgments/7087

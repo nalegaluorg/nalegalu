@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-96459|2011-12-02|SN|III SK 29/11|Postanowienie|https://www.saos.org.pl/judgments/96459
-107579|2006-02-08|TK|K 5/06|Postanowienie|https://www.saos.org.pl/judgments/107579
+saos_id|date|court|case_number|type|score|saos_url
+107579|2006-02-08|TK|K 5/06|Postanowienie|80|https://www.saos.org.pl/judgments/107579
+96459|2011-12-02|SN|III SK 29/11|Postanowienie|69|https://www.saos.org.pl/judgments/96459

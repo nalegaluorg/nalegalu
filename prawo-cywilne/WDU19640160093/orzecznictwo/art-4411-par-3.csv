@@ -1,5 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-329936|2017-08-11|SO|I C 350/16|Wyrok|https://www.saos.org.pl/judgments/329936
-281409|2016-12-28|SO|I ACa 1067/16|Wyrok|https://www.saos.org.pl/judgments/281409
-203753|2016-02-04|SO|XII C 154/15|Wyrok|https://www.saos.org.pl/judgments/203753
-96080|2011-10-21|SN|IV CSK 46/11|Wyrok|https://www.saos.org.pl/judgments/96080
+saos_id|date|court|case_number|type|score|saos_url
+96080|2011-10-21|SN|IV CSK 46/11|Wyrok|78|https://www.saos.org.pl/judgments/96080
+281409|2016-12-28|SO|I ACa 1067/16|Wyrok|56|https://www.saos.org.pl/judgments/281409
+203753|2016-02-04|SO|XII C 154/15|Wyrok|40|https://www.saos.org.pl/judgments/203753

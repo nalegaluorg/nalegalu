@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-533100|2022-06-07|SO|I C 464/21|Wyrok|https://www.saos.org.pl/judgments/533100
+saos_id|date|court|case_number|type|score|saos_url
+533100|2022-06-07|SO|I C 464/21|Wyrok|40|https://www.saos.org.pl/judgments/533100

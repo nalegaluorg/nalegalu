@@ -1,5 +1,5 @@
-saos_id|date|court|case_number|type|saos_url
-536334|2025-06-18|SO|I ACa 754/23|Wyrok|https://www.saos.org.pl/judgments/536334
-520766|2024-12-05|SO|V ACa 614/24|Wyrok|https://www.saos.org.pl/judgments/520766
-481768|2022-12-21|SO|V ACa 243/22|Wyrok|https://www.saos.org.pl/judgments/481768
-469013|2022-01-25|SO|I ACa 787/20|Wyrok|https://www.saos.org.pl/judgments/469013
+saos_id|date|court|case_number|type|score|saos_url
+536334|2025-06-18|SO|I ACa 754/23|Wyrok|56|https://www.saos.org.pl/judgments/536334
+520766|2024-12-05|SO|V ACa 614/24|Wyrok|56|https://www.saos.org.pl/judgments/520766
+481768|2022-12-21|SO|V ACa 243/22|Wyrok|56|https://www.saos.org.pl/judgments/481768
+469013|2022-01-25|SO|I ACa 787/20|Wyrok|56|https://www.saos.org.pl/judgments/469013

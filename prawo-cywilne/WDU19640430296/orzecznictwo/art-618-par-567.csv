@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-398833|2019-10-30|SO|I Ca 272/19|Postanowienie|https://www.saos.org.pl/judgments/398833
-50159|2014-03-20|SO|II Ca 2374/13|Postanowienie|https://www.saos.org.pl/judgments/50159
+saos_id|date|court|case_number|type|score|saos_url
+398833|2019-10-30|SO|I Ca 272/19|Postanowienie|31|https://www.saos.org.pl/judgments/398833
+50159|2014-03-20|SO|II Ca 2374/13|Postanowienie|31|https://www.saos.org.pl/judgments/50159

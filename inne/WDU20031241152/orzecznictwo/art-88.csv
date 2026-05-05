@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-440989|2019-10-28|SO|I C 286/19|Zarządzenie|https://www.saos.org.pl/judgments/440989
-322626|2017-11-28|SO|V Ca 610/17|Wyrok|https://www.saos.org.pl/judgments/322626
-239155|2016-05-09|SO|III Ca 144/16|Uzasadnienie|https://www.saos.org.pl/judgments/239155
-211326|2016-02-04|SO|I Ca 14/16|Wyrok|https://www.saos.org.pl/judgments/211326
-172832|2015-04-14|SO|III Ca 1716/14|Uzasadnienie|https://www.saos.org.pl/judgments/172832
+saos_id|date|court|case_number|type|score|saos_url
+239155|2016-05-09|SO|III Ca 144/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/239155
+172832|2015-04-14|SO|III Ca 1716/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/172832

@@ -1,13 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-466139|2021-09-03|SO|V P 160/20|Uzasadnienie|https://www.saos.org.pl/judgments/466139
-466140|2021-04-21|SO|V P 165/20|Uzasadnienie|https://www.saos.org.pl/judgments/466140
-339032|2017-12-05|SO|VII ACa 1037/17|Wyrok|https://www.saos.org.pl/judgments/339032
-320887|2017-11-15|SO|VIII GC 187/16|Wyrok|https://www.saos.org.pl/judgments/320887
-282698|2016-09-20|SO|I C 195/15|Wyrok|https://www.saos.org.pl/judgments/282698
-265832|2016-07-07|SO|XVII AmE 5/16|Wyrok|https://www.saos.org.pl/judgments/265832
-218054|2016-03-04|SO|IV Ca 75/16|Wyrok|https://www.saos.org.pl/judgments/218054
-490426|2015-05-27|SO|I ACa 1227/14|Wyrok|https://www.saos.org.pl/judgments/490426
-153697|2015-04-10|SO|VI Pa 18/15|Wyrok|https://www.saos.org.pl/judgments/153697
-19859|2013-06-21|SO|I ACa 9/13|Wyrok|https://www.saos.org.pl/judgments/19859
-11745|2013-04-24|SO|I ACa 1076/12|Wyrok|https://www.saos.org.pl/judgments/11745
-10822|2013-04-03|SO|I ACa 206/13|Wyrok|https://www.saos.org.pl/judgments/10822
+saos_id|date|court|case_number|type|score|saos_url
+339032|2017-12-05|SO|VII ACa 1037/17|Wyrok|56|https://www.saos.org.pl/judgments/339032
+490426|2015-05-27|SO|I ACa 1227/14|Wyrok|56|https://www.saos.org.pl/judgments/490426
+19859|2013-06-21|SO|I ACa 9/13|Wyrok|56|https://www.saos.org.pl/judgments/19859
+11745|2013-04-24|SO|I ACa 1076/12|Wyrok|56|https://www.saos.org.pl/judgments/11745
+10822|2013-04-03|SO|I ACa 206/13|Wyrok|56|https://www.saos.org.pl/judgments/10822

@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-396808|2019-03-12|SO|I ACa 167/18|Wyrok|https://www.saos.org.pl/judgments/396808
+saos_id|date|court|case_number|type|score|saos_url
+396808|2019-03-12|SO|I ACa 167/18|Wyrok|56|https://www.saos.org.pl/judgments/396808

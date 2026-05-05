@@ -1,6 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-463182|2019-03-18|SO|IV K 96/14|Wyrok|https://www.saos.org.pl/judgments/463182
-420963|2018-05-08|SO|II AKa 53/18|Wyrok|https://www.saos.org.pl/judgments/420963
-21223|2013-08-07|SO|VII Ka 650/13|Wyrok|https://www.saos.org.pl/judgments/21223
-139916|2013-07-25|SO|II AKa 170/13|Wyrok|https://www.saos.org.pl/judgments/139916
-136905|2012-01-31|SO|II AKa 403/11|Wyrok|https://www.saos.org.pl/judgments/136905
+saos_id|date|court|case_number|type|score|saos_url
+420963|2018-05-08|SO|II AKa 53/18|Wyrok|56|https://www.saos.org.pl/judgments/420963
+139916|2013-07-25|SO|II AKa 170/13|Wyrok|56|https://www.saos.org.pl/judgments/139916
+136905|2012-01-31|SO|II AKa 403/11|Wyrok|56|https://www.saos.org.pl/judgments/136905

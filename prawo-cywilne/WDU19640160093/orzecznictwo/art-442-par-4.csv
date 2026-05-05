@@ -1,7 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-243930|2015-11-25|SN|II CSK 692/14|Wyrok|https://www.saos.org.pl/judgments/243930
-237162|2015-08-11|SO|II C 68/15|Wyrok|https://www.saos.org.pl/judgments/237162
-179189|2015-06-24|SO|I ACa 545/15|Wyrok|https://www.saos.org.pl/judgments/179189
-74354|2014-09-05|SO|I ACa 751/14|Wyrok|https://www.saos.org.pl/judgments/74354
-111639|2013-01-22|TK|P 46/09|Wyrok|https://www.saos.org.pl/judgments/111639
-88193|2008-06-13|SN|I CSK 514/07|Wyrok|https://www.saos.org.pl/judgments/88193
+saos_id|date|court|case_number|type|score|saos_url
+111639|2013-01-22|TK|P 46/09|Wyrok|98|https://www.saos.org.pl/judgments/111639
+243930|2015-11-25|SN|II CSK 692/14|Wyrok|78|https://www.saos.org.pl/judgments/243930
+88193|2008-06-13|SN|I CSK 514/07|Wyrok|78|https://www.saos.org.pl/judgments/88193
+179189|2015-06-24|SO|I ACa 545/15|Wyrok|56|https://www.saos.org.pl/judgments/179189
+74354|2014-09-05|SO|I ACa 751/14|Wyrok|56|https://www.saos.org.pl/judgments/74354

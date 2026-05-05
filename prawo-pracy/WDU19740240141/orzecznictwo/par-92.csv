@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-408242|2020-02-10|SO|X U 627/19|Wyrok|https://www.saos.org.pl/judgments/408242
-239755|2016-04-21|SO|VIII Pa 37/15|Wyrok|https://www.saos.org.pl/judgments/239755
-175031|2015-05-28|SO|VIII Pa 38/15|Wyrok|https://www.saos.org.pl/judgments/175031
-70565|2014-11-18|SO|VII Pa 333/14|Uzasadnienie|https://www.saos.org.pl/judgments/70565
+saos_id|date|court|case_number|type|score|saos_url
+70565|2014-11-18|SO|VII Pa 333/14|Uzasadnienie|27|https://www.saos.org.pl/judgments/70565

@@ -1,4 +1,4 @@
-saos_id|date|court|case_number|type|saos_url
-474308|2022-08-05|SO|VI Ka 77/22|Uzasadnienie|https://www.saos.org.pl/judgments/474308
-317320|2017-10-03|SO|II AKa 209/17|Wyrok|https://www.saos.org.pl/judgments/317320
-136400|2012-09-20|SO|II AKa 288/12|Wyrok|https://www.saos.org.pl/judgments/136400
+saos_id|date|court|case_number|type|score|saos_url
+317320|2017-10-03|SO|II AKa 209/17|Wyrok|56|https://www.saos.org.pl/judgments/317320
+136400|2012-09-20|SO|II AKa 288/12|Wyrok|56|https://www.saos.org.pl/judgments/136400
+474308|2022-08-05|SO|VI Ka 77/22|Uzasadnienie|27|https://www.saos.org.pl/judgments/474308

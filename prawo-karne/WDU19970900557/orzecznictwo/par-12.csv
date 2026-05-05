@@ -1,5 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-441255|2019-12-04|SO|V ACa 198/18|Wyrok|https://www.saos.org.pl/judgments/441255
-379866|2019-03-27|SO|V Pz 4/19|Postanowienie|https://www.saos.org.pl/judgments/379866
-170963|2015-07-01|SO|V Pz 10/15|Postanowienie|https://www.saos.org.pl/judgments/170963
-150233|2015-04-22|SO|V Pz 13/15|Postanowienie|https://www.saos.org.pl/judgments/150233
+saos_id|date|court|case_number|type|score|saos_url
+441255|2019-12-04|SO|V ACa 198/18|Wyrok|56|https://www.saos.org.pl/judgments/441255

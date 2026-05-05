@@ -1,6 +1,6 @@
-saos_id|date|court|case_number|type|saos_url
-393055|2019-04-25|SO|II AKa 415/17|Wyrok|https://www.saos.org.pl/judgments/393055
-242963|2015-07-10|SN|SNO 41/15|Wyrok|https://www.saos.org.pl/judgments/242963
-98141|2012-05-17|SN|V KK 322/11|Wyrok|https://www.saos.org.pl/judgments/98141
-110005|2010-11-08|TK|Ts 190/08|Postanowienie|https://www.saos.org.pl/judgments/110005
-110004|2010-01-06|TK|Ts 190/08|Postanowienie|https://www.saos.org.pl/judgments/110004
+saos_id|date|court|case_number|type|score|saos_url
+110005|2010-11-08|TK|Ts 190/08|Postanowienie|80|https://www.saos.org.pl/judgments/110005
+110004|2010-01-06|TK|Ts 190/08|Postanowienie|80|https://www.saos.org.pl/judgments/110004
+242963|2015-07-10|SN|SNO 41/15|Wyrok|78|https://www.saos.org.pl/judgments/242963
+98141|2012-05-17|SN|V KK 322/11|Wyrok|78|https://www.saos.org.pl/judgments/98141
+393055|2019-04-25|SO|II AKa 415/17|Wyrok|56|https://www.saos.org.pl/judgments/393055

@@ -1,12 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-544732|2025-07-18|SO|XXIII Zs 43/25|Wyrok|https://www.saos.org.pl/judgments/544732
-537436|2025-03-03|SO|I AGa 325/22|Wyrok|https://www.saos.org.pl/judgments/537436
-487398|2023-03-27|SO|V AGa 504/21|Wyrok|https://www.saos.org.pl/judgments/487398
-479360|2022-07-15|SO|IV Ua 22/22|Wyrok|https://www.saos.org.pl/judgments/479360
-474536|2022-07-12|SO|VI U 1651/21|Wyrok|https://www.saos.org.pl/judgments/474536
-442234|2021-02-22|SO|XXVII Ca 2503/19|Uzasadnienie|https://www.saos.org.pl/judgments/442234
-438697|2020-11-04|SO|VI ACa 100/19|Wyrok|https://www.saos.org.pl/judgments/438697
-430492|2020-07-16|SO|I ACa 701/19|Wyrok|https://www.saos.org.pl/judgments/430492
-370598|2019-01-04|SO|VIII Ga 612/18|Uzasadnienie|https://www.saos.org.pl/judgments/370598
-312786|2017-09-25|SO|I C 117/16|Uzasadnienie|https://www.saos.org.pl/judgments/312786
-80864|2001-09-17|SN|III RN 214/00|Wyrok|https://www.saos.org.pl/judgments/80864
+saos_id|date|court|case_number|type|score|saos_url
+80864|2001-09-17|SN|III RN 214/00|Wyrok|78|https://www.saos.org.pl/judgments/80864
+537436|2025-03-03|SO|I AGa 325/22|Wyrok|56|https://www.saos.org.pl/judgments/537436
+487398|2023-03-27|SO|V AGa 504/21|Wyrok|56|https://www.saos.org.pl/judgments/487398
+438697|2020-11-04|SO|VI ACa 100/19|Wyrok|56|https://www.saos.org.pl/judgments/438697
+430492|2020-07-16|SO|I ACa 701/19|Wyrok|56|https://www.saos.org.pl/judgments/430492
+479360|2022-07-15|SO|IV Ua 22/22|Wyrok|40|https://www.saos.org.pl/judgments/479360

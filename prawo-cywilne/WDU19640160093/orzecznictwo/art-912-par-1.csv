@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-134386|2015-03-06|SO|I ACa 858/14|Wyrok|https://www.saos.org.pl/judgments/134386
-126836|2014-12-18|SO|I C 1468/14|Wyrok|https://www.saos.org.pl/judgments/126836
+saos_id|date|court|case_number|type|score|saos_url
+134386|2015-03-06|SO|I ACa 858/14|Wyrok|56|https://www.saos.org.pl/judgments/134386

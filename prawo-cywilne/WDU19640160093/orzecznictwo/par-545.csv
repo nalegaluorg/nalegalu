@@ -1,3 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-367316|2018-10-26|SO|I ACa 291/18|Wyrok|https://www.saos.org.pl/judgments/367316
-540625|2015-03-18|SO|I C 16/13|Wyrok|https://www.saos.org.pl/judgments/540625
+saos_id|date|court|case_number|type|score|saos_url
+367316|2018-10-26|SO|I ACa 291/18|Wyrok|56|https://www.saos.org.pl/judgments/367316
+540625|2015-03-18|SO|I C 16/13|Wyrok|40|https://www.saos.org.pl/judgments/540625

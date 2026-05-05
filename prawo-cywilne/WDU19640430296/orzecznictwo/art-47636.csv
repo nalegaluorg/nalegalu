@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-251332|2016-09-08|SO|III Ca 287/16|Uzasadnienie|https://www.saos.org.pl/judgments/251332
-232121|2012-10-25|SO|XVII AmC 4003/12|Wyrok|https://www.saos.org.pl/judgments/232121
+saos_id|date|court|case_number|type|score|saos_url
+251332|2016-09-08|SO|III Ca 287/16|Uzasadnienie|27|https://www.saos.org.pl/judgments/251332

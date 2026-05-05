@@ -1,6 +1,3 @@
-saos_id|date|court|case_number|type|saos_url
-537185|2025-11-04|SO|IX P 114/24|Zarządzenie|https://www.saos.org.pl/judgments/537185
-435082|2020-11-30|SO|VII AGa 106/19|Wyrok|https://www.saos.org.pl/judgments/435082
-444525|2018-09-21|SO|XVII AmE 12/16|Wyrok|https://www.saos.org.pl/judgments/444525
-335487|2018-03-14|SO|VII Pa 25/18|Wyrok|https://www.saos.org.pl/judgments/335487
-262697|2016-10-27|SO|I C 1605/16|Wyrok|https://www.saos.org.pl/judgments/262697
+saos_id|date|court|case_number|type|score|saos_url
+435082|2020-11-30|SO|VII AGa 106/19|Wyrok|56|https://www.saos.org.pl/judgments/435082
+335487|2018-03-14|SO|VII Pa 25/18|Wyrok|40|https://www.saos.org.pl/judgments/335487

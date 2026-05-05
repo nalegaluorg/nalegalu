@@ -1,3 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-526994|2023-05-29|SO|III C 112/22|Wyrok|https://www.saos.org.pl/judgments/526994
-465233|2022-04-28|SO|I ACa 230/21|Wyrok|https://www.saos.org.pl/judgments/465233
+saos_id|date|court|case_number|type|score|saos_url
+465233|2022-04-28|SO|I ACa 230/21|Wyrok|56|https://www.saos.org.pl/judgments/465233

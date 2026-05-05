@@ -1,2 +1,2 @@
-saos_id|date|court|case_number|type|saos_url
-525327|2025-03-20|SO|III W 1262/24|Wyrok|https://www.saos.org.pl/judgments/525327
+saos_id|date|court|case_number|type|score|saos_url
+525327|2025-03-20|SO|III W 1262/24|Wyrok|40|https://www.saos.org.pl/judgments/525327

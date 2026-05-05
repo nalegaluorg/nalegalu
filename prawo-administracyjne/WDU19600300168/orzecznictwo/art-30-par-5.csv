@@ -1,14 +1,7 @@
-saos_id|date|court|case_number|type|saos_url
-506483|2023-09-13|SO|III Ca 2737/21|Uzasadnienie|https://www.saos.org.pl/judgments/506483
-476235|2022-09-26|SO|IX Ca 552/22|Postanowienie|https://www.saos.org.pl/judgments/476235
-348029|2018-07-11|SO|IX Ca 222/18|Postanowienie|https://www.saos.org.pl/judgments/348029
-516844|2018-03-19|SO|II Ca 75/18|Postanowienie|https://www.saos.org.pl/judgments/516844
-301140|2017-07-14|SO|III Ca 579/17|Uzasadnienie|https://www.saos.org.pl/judgments/301140
-266241|2016-12-20|SO|I Ns 1136/16|Postanowienie|https://www.saos.org.pl/judgments/266241
-305193|2016-04-11|SO|II Ca 1569/15|Postanowienie|https://www.saos.org.pl/judgments/305193
-182835|2015-11-26|SO|I Ns 2387/15|Uzasadnienie|https://www.saos.org.pl/judgments/182835
-206785|2015-07-14|TK|SK 26/14|Wyrok|https://www.saos.org.pl/judgments/206785
-131463|2015-02-26|SO|I Ca 36/15|Postanowienie|https://www.saos.org.pl/judgments/131463
-285189|2014-10-02|SO|I Ns 479/14|Postanowienie|https://www.saos.org.pl/judgments/285189
-54644|2014-06-25|SO|VIII Ca 199/14|Postanowienie|https://www.saos.org.pl/judgments/54644
-56300|2014-06-24|SO|III Ca 468/14|Postanowienie|https://www.saos.org.pl/judgments/56300
+saos_id|date|court|case_number|type|score|saos_url
+206785|2015-07-14|TK|SK 26/14|Wyrok|98|https://www.saos.org.pl/judgments/206785
+266241|2016-12-20|SO|I Ns 1136/16|Postanowienie|31|https://www.saos.org.pl/judgments/266241
+131463|2015-02-26|SO|I Ca 36/15|Postanowienie|31|https://www.saos.org.pl/judgments/131463
+285189|2014-10-02|SO|I Ns 479/14|Postanowienie|31|https://www.saos.org.pl/judgments/285189
+506483|2023-09-13|SO|III Ca 2737/21|Uzasadnienie|27|https://www.saos.org.pl/judgments/506483
+301140|2017-07-14|SO|III Ca 579/17|Uzasadnienie|27|https://www.saos.org.pl/judgments/301140
