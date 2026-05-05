@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Warszawa, dnia 27 czerwca 1994 r.
+# o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej
+
+*USTAWA z dnia 13 maja 1994 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,322 +26,331 @@ domain: null
 | Ostatnia zmiana | 2025-12-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940730323) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1994/323/text.pdf) |
 
-r.
-r.
-r.
-r.
-r.,
-USTAWA z dnia 13 maja 1994 r.
-o stosunku do Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej.
-1 Przepisy ogólne
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ewangelicko-Augsburski w Rzeczy pospolitej Polskiej, zwany dalej jako wiary wszystkie kanoni czne Pisma a wszystkie symboliczne korzysta z wol wyznawania swojej wiary oraz wykonywania swojego kultu religijnego.
+1. Kościół Ewangelicko-Augsburski w Rzeczypospolitej Polskiej, zwany dalej „Kościołem”, uznający jako jedyną zasadę i normę wiary i życia wszystkie księgi kanoniczne Pisma Świętego, a także wszystkie księgi symboliczne Kościoła Ewangelicko-Luterańskiego, korzysta z pełnej wolności wyznawania swojej wiary oraz wykonywania swojego kultu religijnego.
 
-2. w swoich sprawach przepisami Zasadniczego Prawa uchwala nego przez Synod
+2. Kościół rządzi się w swoich sprawach wewnętrznych przepisami Zasadniczego Prawa Wewnętrznego, uchwalanego przez Synod Kościoła.
 
-**Art. 2.** Kościół jest samodzielny od jakiej kolwiek pozakrajowej duchownej
+**Art. 2.** Kościół jest samodzielny i niezależny od jakiejkolwiek pozakrajowej władzy duchownej i świeckiej.
 
-**Art. 3.** Wypełniając swoje funkcje z innymi w kraju za do krajowych organizacji a dzynarodowych organizacji wyznaniowych niowych. czasowo na terytorium Rzeczypospol itej Polskiej. 2. Utworzenie lub zniesienie jednostki organizacyjnej za Rzeczypospolitej Polskiej przy zachowaniu przepisów prawa na którego terytorium ma ona 3. zawiadamia Ministra Szefa Rady Ministrów o utworzeniu lub zniesieniu jednostki organizacyj nej za
-
-**Art. 5.**
-
-1. W sprawach do nie uregulowanych stosuje przepisy ustawy z dnia 17 maja 1989 r. o gwarancjach sumienia wyznania (Dz. U. 29, poz. 155, z 1990 r. 51, poz. 297, 55, poz. 321 86, poz. 504, z 1991 r. 95, poz. 425 oraz z 1993 r. 7, poz. 34).
-
-2. Zmiany niniejszej ustawy uprzedniej opinii Synodu 2 Organizacja
-
-**Art. 6.** Organizację Zasac dnicze Prawo
-
-**Art. 7.**
-
-1. jako oraz jego jednostki or ganizacyjne: diecezje, parafie diakonaty osobo
-
-2. Inne jednostki organizacyjne na wniosek Konsystorza, w drodze Ministra Szefa Rady Ministrów.
-
-**Art. 8.**
-
-1. Tworzenie przez jednostek organiza cyjnych, o których mowa wart. 7 ust. 1, oraz znoszenie w trybie przewi dzianym w przepisach
-
-2. jednostki organizacyjne, o których mowa wart. 7 ust. 1, z powiadomienia organu administracji ogólnej o ich utworzeniu.
-
-3. organem jest:
-
-- **1)** do diecezji Minister Szef Rady Ministrów,
-- **2)** do parafii diakonatów wojewoda.
-
-4. Powiadomienie powinno
-
-- **1)** osoby prawnej,
-- **2)** jej
-- **3)** w odniesieniu do diecezji parafii ich terytorial ny.
-
-5. powiadamia nie organ administracji ogólnej, wymieniony w ust. 3, o:
-
-- **1)** zmianach nazwy siedziby oso by prawnej oraz o zmianie jej granic,
-
-6. Odpis powiadomienia z umieszczonym na nim po twierdzeniem odbioru jest dowodem uzyskania prawnej.
-
-**Art. 9.** Organami osób prawnych wymienionych wart. 7
-
-**Art. 10.** Kościelna osoba prawna nie odpowiada za innej osoby prawnej.
-
-**Art. 11.** Kościelne wydawnictwa, charytatyw placó wki opieki zdrowotnej, a gospodarcze nie prawnej w ramach tych osób prawnych, które je 3
-
-**Art. 12.** Organizowanie kultu publicznego jego spra wowanie
-
-**Art. 13.** Religijne stwa dla uczczenia na cmentarzach komunalnych, przy zachowaniu obo przepisów
-
-**Art. 14.** Osobom do prawo zwolnienia od nauki lub pracy w ewangelickie nie dniami ustawowo wolnymi od pracy:
-
-**Art. 15.**
-
-1. prowadzi konfesyjne nauczanie re ligii na zasadach przez
-
-2. Nauczanie religii w publicznych przepisy.
-
-**Art. 16.**
-
-1. oraz placówki wawcze prowadzone przez charakter wyznaniowy
-
-2. Zasady organizacyjno-programowe prowadzenia tych placówek przepisy. osoby prawne stosuje przepisy o prawach ustalone dla nauczycieli wychowawców zatrudnionych w publicznych placówkach towo-wychowawczych oraz z ust. 2.
-
-2. zakres o któ rych mowa w ust. 1, Minister Edukacji Narodowej na wniosek Synodu
-
-3. Pracownikom placówek wawczych oraz placówek nie nauczycielami lub wychowawcami uprawnienia przewidziane dla tej kategorii pracowników zatrudnionych w publicznych pla cówkach.
-
-**Art. 18.**
-
-1. w prowadzonych przez osoby prawne pub licznych opieki zdrowotnej ulgi w za przejazdy publicznego transportu zbiorowego na równi z uczniami publicznych.
-
-2. Rodzicom lub opiekunom prawnym uczniów prowadzonych przez osoby prawne prawo do rodzinnych na równi z rodzicami lub opiekunami uczniów publicznych.
-
-**Art. 19.**
-
-1. prawo tworzenia prowadzenia teologicznych.
-
-2. prawo do w za kresie teologii ewangelickiej w samodzielnej jednostce nau kowo-dydaktycznej w ramach Akademii Teologicznej w Warszawie.
-
-**Art. 20.**
-
-1. ma prawo emitowania w publicz nych masowego przekazu w niedziele ewangelickie oraz swoich programów religijno -moralnych, kulturalnych.
-
-2. Sposób realizacji w ust. 1 porozumienie a jedno publicznej radiofonii telewizji.
-
-**Art. 21.**
-
-1. Dzieciom wyznania ewangelic ko-augsburskiego, w czych wychowawczych, sanatoriach, prewentoriach szpi talach, zapewnia prawo do uczestniczenia w nauczaniu religii oraz w innych praktykach religijnych.
-
-2. przepisy w sprawach, o których mowa w ust. 1, Minister Edukacji Narodowej oraz Minister Zdrowia Opieki w porozumieniu z
-
-3. Dzieciom ze zorganizowa nych form wypoczynku wakacyjnego zapewnia prawo uczestniczenia w wykonywania innych praktyk religijnych.
-
-**Art. 22.**
-
-1. Prawo wykonywania praktyk religijnych korzystania z opieki duszpasterskiej zapewnia osobom
-
-2. dla osób, o których mowa w ust. 1, w kaplicach lub innych pomieszczeniach na ten cel przez kierowników instytucji.
-
-**Art. 23.**
-
-1. Osoby tymczasowo aresztowane wyznania ewangelicko-augsburskiego praktyki reli gijne transmitowanych przez masowego przekazu oraz, za organu, do którego dyspozycji z indywidualnej opieki dusz pasterskiej.
-
-2. Osobom skazanym wyznania ewangelicko-augsbur skiego zapewnia wykonywania praktyk religij nych, korzystania z opieki duszpasterskiej oraz uczestnicze nia w odprawianych w niedziele ewangelickie w odpowiednio przystosowanym pomieszcze niu w w którym Osobom, które na terenie nie w odprawianych transmitowanych przez masowego prze kazu.
-
-3. Nieletnim wyznania ewangelicko-augsburskiego, w poprawczych schroniskach dla nieletnich, zapewnia wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczest niczenia w w niedziele ewangelic kie. Nieletnim, którzy nie uczestniczenia w na terenie lub schronisk, transmitowanych przez masowego przekazu.
-
-4. W celu zaspokojenia potrzeb, o których mowa w ust. 1-3, kapelanów.
-
-**Art. 24.**
-
-1. Organizacjami ewangelickimi w rozumie niu ustawy organizacje tworzone w oparciu o Konsystorza w celu prowadzenia zgodnej z czej
-
-2. Do organizacji ewangelickich stosuje przepisy prawa o stowarzyszeniach, z tym
-
-- **1)** Konsystorzowi prawo uchylenia o której mowa w ust. 1, z równoczesnym do z wnioskiem o stowarzyszenia,
-- **2)** do o stowarzyszenia przez organ w rozumieniu prawa o stowarzysze niach po opinii Konsystorza,
-- **3)** w przypadku likwidacji organizacji ewangelickiej tek jej przechodzi na jako
-
-**Art. 25.** Kościół jego osoby prawne W mo wyznaniowe cze, opieki zdrowotnej.
-
-**Art. 26.** Grunty osób prawnych powinny w planach zagospodarowania przeArt. 27. 1. Grunty Skarbu twa lub gminy, przeznaczone w planach zagos podarowania przestrzennego na potrzeby na wnio sek oddawane w wieczyste albo sprzedane osobom prawnym. 2. Nie pobiera za wieczyste przekazanych na potrzeby charyta punktów katechetycznych.
-
-**Art. 28.** Parafie prawo posiadania, oraz poszerzania cmentarzy grzebalnych. 4 Duszpasterstwo wojskowe wojskowa osób duchownych
-
-**Art. 29.**
-
-1. wyznania ewangelicko-augs burskiego zapewnia uczestniczenia poza terenem jednostek wojs kowych w religijnych w niedziele ewangelickie, w stacjonowania jednostki wojskowej lub w jej znaj duje lub kaplica nie koliduje to z
-
-2. dla o których mowa w ust. 1, kapelani wojskowi.
-
-**Art. 30.**
-
-1. Kapelani wojskowi ny korpus osobowy zawodowych w ramach Ewan gelickiego Duszpasterstwa Wojskowego.
-
-2. Kapelani wojskowi w zakresie wojs kowej organom wojskowym, a w zakresie duszpasterstwa
-
-**Art. 31.**
-
-1. Ewangelickim Duszpasterstwem Wojsko wym kieruje Naczelny Kapelan Wojskowy, którego mianuje Minister Obrony Narodowej w uzgodnieniu z Konsystorzem
-
-2. tryb Na czelnego Kapelana Wojskowego kapelanów wojskowych oraz organizację Ewangelickiego Duszpasterstwa Wojsko wego statut uchwalony przez Konsystorz w porozumieniu z Ministrem Obrony Narodowej.
-
-3. Statut Ewangelickiego Duszpasterstwa Wojskowego Minister Obrony Narodowej.
-
-**Art. 32.**
-
-1. Absolwentów akademickich studiów teo logicznych, w czasie przygotowywania do na duchowny (ordynacji), nie jednak 2 lata od dnia, w którym stali absolwentami nie do odbycia przeszkolenia wojskowego.
-
-2. Ordynowani duchowni przenoszeni do rezerwy nie wojskowych w czasie pokoju, z przypadku przeszkolenia, za Biskupa 5 Sprawy
-
-**Art. 33.** Kościołowi jego osobom prawnym guje prawo do swobodnego nabywania, posiadania zbywa nia mienia ruchomego nieruchomego oraz swoim
-
-**Art. 34.**
-
-1. przychody osób pra wnych ogólnym przepisom podatkowym, a w art. 17 ust. 1 pkt 4a 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 1993 r. 106, poz. 482 134, poz. 646 oraz z 1994 r. 1, poz. 2 43, poz. 163).
-
-2. Darowizny na charytatywno od osób fizycznych z podstawy opodatkowania podatkiem docho dowym, osoba prawna przedstawi pokwitowanie odbioru oraz w okresie dwóch lat od dnia przekazania darowizny sprawozdanie o przeznaczeniu jej na
-
-3. osoby prawne zwolnione od podatku od nieruchomości lub ich części stanowiących własność tych osób albo przez nie, na podstawie innego prawnego, na cele niemieszkalne, z zaj mowanej na wykonywanie gospodarczej.
-
-4. Zwolnienie od podatku od obejmuje lub ich przeznaczone na cele mieszkal ne duchownych diakonatów,
-
-- **1)** one wpisane do rejestru zabytków,
-- **2)** jako domy emerytów lub w budynkach siedziby Bis kupa Biskupów Diecezjalnych.
-
-5. Nabywanie zbywanie rzeczy praw przez osoby prawne w drodze prawnych oraz spadkobrania, zapisu zasiedzenia jest zwolnione od skarbowej, ich przedmiotem
-
-- **1)** rzeczy prawa nie przeznaczone do gos podarczej,
-- **2)** sprowadzone z zagranicy maszyny, materia poligraficzne oraz papier.
-
-6. Nabywanie rzeczy praw o których mowa w ust. 4, jest zwolnione od z niem kancelaryjnych.
-
-**Art. 35.** Wolne od celnych
-
-**Art. 36.**
-
-1. osoby prawne prawo do zbierania ofiar na cele religijne, chary oraz utrzymanie duchownych diakonatów.
-
-2. Zbiórki wymienione w ust. 1 nie po zwolenia terenowego organu administracji ogól nej, w terenów kaplic oraz w miejscach zwyczajowo w danej okolicy w sposób tradycyjnie ustalony.
-
-**Art. 37.** W razie zniesienia osoby prawnej, jej przechodzi na jako
-
-**Art. 38.** Niezależnie od ustawowego ubezpieczenia duchownych, prowadzi Fundusz Socjalny który, w rozumieniu ustawy, nie jest gospodar
-
-**Art. 39.**
-
-1. lub ich w dniu w ustawy we osób prawnych z mocy prawa ich
-
-- **1)** diecezji, parafii wymienionych w wykazie do dekretu Prezyden ta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosun ku do Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. 88, poz. 613, z 1945 r. 48, poz. 271 z 1947 r. 52, poz. 272) oraz diakonatów,
-- **2)** parafii (gmin, zborów) Ewangelicko-Unijnych, Staroluterskiego, Ewangelickiego augsburskiego hel weckiego oraz Braci Morawskich (Hernhutów),
-- **3)** przepisom dekretu z dnia 24 kwietnia 1952 r. o zniesieniu fundacji (Dz. U. 25, poz. 172 z 1957 r. 1, poz. 3), a pozostawione, wydzier lub przekazane osobom prawnym,
-- **4)** na nich cmentarze lub obiekty sakralne oraz obiekty funkcjonalnie z obiektami sakralnymi; dotyczy to obiektów na obszarze miasta Warszawy.
-
-2. Stwierdzenie lub ich o których mowa w ust. 1, w drodze decyzji wojewody.
-
-3. Nabycie lub ich na podstawie ust. 1 jest wolne od podatków z tym a z niego wpisy do wieczys tych ich wolne od
-
-4. lub administracyjne ce o których mowa w ust. 1, ulega zawiesze niu do czasu wydania decyzji, o której mowa w ust. 2. na rzecz Skarbu lub ich o których mowa wart. 39 ust. 1 pkt l 2:
-
-- **1)** rolnych w toku wykonania ustawy z dnia 20 marca 1950 r. o przez dóbr martwej proboszczom posiadania gos podarstw rolnych utworzeniu Funduszu (Dz. U. 9, poz. 87 10, poz. 111 oraz z 1969 r. 13, poz. 95), nie wydzielono z nich w tej ustawy, gospodarstw rolnych proboszczów,
-- **2)** odszkodowanie nie wy lub
-- **3)** na podstawie dekretu z dnia 26 1945 r. o gruntów na obszarze miasta Warszawy (Dz. U. 50, poz. 279), z n iem ust. 2,
-- **4)** we jednostek or ganizacyjnych bez prawnego, bez ustawodawstwo to
-
-2. W odniesieniu do dekretem w ust. 1 pkt 3 przedmiotem regulacyjnego przywrócenie budynków ustanowienie wieczystego gruntów.·
-
-3. nie przy wrócona osobie prawnej, przyznaje jej nieru a nie jest to lub natrafia na trudne do przeszkody, odszkodowanie jest ustalane przepisów o
-
-4. Regulacja nie praw nabytych przez osoby trzecie, a w przez inne wyznaniowe oraz rolników indywidual nych.
-
-**Art. 41.**
-
-1. Przedmiotem regulacyjnego przekazanie nie w dniu w ustawy we osób prawnych lub ich
-
-- **1)** o których mowa wart. 39 ust. 1 pkt 1-3,
-- **2)** uprzednio parafii (gmin, zborów) ewangelickich, do 1945 r. na Ziemiach Zachodnich one na cele kultowe lub dla prowadzenia przez osoby prawne chary
-
-2. Przepis art. 40 ust. 4 stosuje odpowiednio.
-
-**Art. 42.** Majątek nieruchomy, przekazany na gminie w trybie ustawy z dnia 10 maja 1990 r. Przepisy o terytorialnym o pracownikach (Dz. U. 32, poz. 191, 43, poz. 253 92, poz. 541, z 1991 r. 34, poz. 151, z 1992 r. 6, poz. 20, z 1993 r. 40, poz. 180 oraz z 1994 1, poz. 3 65, poz. 285), podlega o którym mowa wart. 40 41.
-
-**Art. 43.**
-
-1. regulacyjne, o którym mowa wart. 40 41, przeprowadza Komisja Regulacyjna, zwana
-
-2. Uczestnikami regulacyjnego oprócz wnioskodawcy wszystkie zainteresowane jednostki wowe,
-
-3. Wnioski o regulacyjnego w terminie dwóch lat od dnia w ustawy. Roszczenia nie w tym terminie wyga
-
-4. lub administracyjne ce o których mowa wart. 40 41, ulega zawieszenu, a organy administracji prze ich akta do Komisji Regulacyjnej.
-
-5. Komisja rozpatruje sprawy w cych, w których wchodzi po dwóch wy znaczonych przez Ministra Szefa Rady Ministrów Konsystorz
-
-6. regulacyjne jest wolne od
-
-7. Komisji, tryb nia regulacyjnego oraz wynagrodzenie dla Ko misji personelu pomocniczego Minister Szef Rady Ministrów w porozumieniu z Konsystorzem
-
-**Art. 44.**
-
-1. po otrzymaniu wniosku o regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
-
-2. Uczestnicy przed ugoda nie zawar ta, wydaje orzeczenie. Ugody orzeczenia moc egzekucyjnych.
-
-3. Orzeczenia wniosek, jak ugody zawarte przed powinny
-
-- **1)** stan prawny
-- **2)** z tym stanem uczestników po a w wydania w oznaczonym terminie nie znaj duje ona we wnioskodawcy,
-- **3)** w razie przyznania odszkodowania termin z tego kwoty.
-
-5. Od orzeczenia nie
-
-6. Rada Ministrów, w drodze z mienia których jednostek organizacyjnych lub gmin w celu jej przekazania jako zamienna lub na zek odszkodowania.
-
-**Art. 45.**
-
-1. nie uzgodni orze czenia, zawiadamia o tym pisemnie uczestników nia regulacyjnego.
-
-2. Uczestnicy regulacyjnego w te rminie od otrzymania zawiadomienia, wy o zawieszonego lub administracyjnego, a nie ono wy na pod rygorem rosz czenia. Przy rozpoznawaniu sprawy stosuje zasady wart. 40 41 . 6 Przepisy
-
-**Art. 46.** Wykaz jednostek organizacyjnych osobami prawnymi w dniu w ustawy stanowi do ustawy.
-
-**Art. 47.** Tracą moc:
-
-**Art. 48.** Ustawa wchodzi w po 14 dni od dnia Prezydent Rzeczypospolitej Polskiej: L. WYKAZ DIECEZJI, PARAFII I DIAKONATÓW EWANGELICKO-AUGSBURSKIEGO W RZECZYPOSPOLITEJ POLSKIEJ Parafia Parafia Bielsko Parafia Brenna-Górki I. Diecezja Parafia Cieszyn Parafia Cisownica Parafia Czechowice-Dziedzice Parafia Jaworze Parafia Parafia Brzeg Parafia Bytom Parafia Chorzów Parafia Czerwionka Parafia Parafia Gliwice Parafia Golasowice Parafia Parafia Parafia Zdrój Parafia Katowice Parafia Kluczbork Parafia Kraków Parafia Laryszów Parafia Lasowice Wielkie Parafia Lubienie Parafia Miechowice Parafia Parafia Parafia Nowy Parafia Parafia Parafia Parafia Parafia Parafia Nidzica Parafia Olsztyn Parafia Bydgoszcz Parafia Parafia Parafia Parafia Kalisz Parafia Parafia Konin Parafia Koszalin Parafia Lipno Parafia Aleksandrów Parafia Kutno Parafia Lublin Parafia Parafia Parafia II. Diecezja Katowicka Parafia Opole Parafia Orzesze Parafia Pokój Parafia Pszczyna Parafia Pyskowice Parafia Racibórz Parafia Rybnik Parafia Siemianowice Parafia Sosnowiec Parafia Stu dzionka Parafia Szopienice Parafia Wielkie Parafia Parafia Tarnowskie Góry Parafia Warszowice Parafia Wirek Parafia Parafia Parafia Zabrze Parafia III. Diecezja Mazurska Parafia Ostróda Parafia Pasym Parafia Pisz Parafia Ryn Parafia Sorkwity Parafia Parafia Szczytno IV. Diecezja Pomorsko-Wielkopolska Parafia Ostrów Wielkopolski Parafia Parafia Rypin Parafia Parafia Stawiszyn Parafia Parafia Turek Parafia V. Diecezja Warszawska Parafia Parafia .Parafia Ozorków Parafia Pabianice Parafia Radom Parafia Rawa Mazowiecka Parafia Tomaszów Mazowiecki Parafia Warszawa Parafia Trójcy Parafia Wola Parafia Parafia Zgierz Parafia VI. Diecezja Parafia Jelenia Góra-Cieplice Parafia Gorzów Wielkopolski Parafia Jawor Parafia Karpacz Parafia Parafia Legnica Parafia M Parafia Szczecin Parafia Parafia Syców Parafia Parafia Parafia Parafia Parafia Krzysztofa Parafia Zielona Góra Parafia VII. Ewangelicki Diakonat "Eben-Ezer" 324 USTAWA z dnia 13 maja 1994 r. o stosunku do Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej. 1 Przepisy ogólne
-
-**Art. 1.**
-
-1. Ustawa zasady stosunku do Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej, zwanego dalej w tym jego
-
-2. W sprawach nie uregulowanych w niniejszej ustawie stosuje przepisy powszechnie
-
-3. Zmiany niniejszej ustawy uprzedniej opinii Konsystorza
-
-**Art. 2.**
-
-1. w swoich sprawach we przepisami Prawa swobodnie swoje funkcje cele.
-
-2. Prawo o którym mowa w ust. 1, jest uchwalane przez Synod
-
-3. jest samodzielny od jakiejkolwiek pozakrajowej duchownej
-
-4. swoje funkcje z innymi w kraju za do krajowych organizacji a narodowych organizacji wyznaniowych
-
-5. wych. wyznawców osób innych zamiesz czasowo na terytorium Rzeczy pospolitej Polskiej. 2 Osoby prawne ich organy
-
-**Art. 3.**
-
-1. jako oraz poszczególne para fie
-
-2. Inne jednostki organizacyjne, na wniosek Konsystorza, w drodze Ministra Szefa Rady Ministrów.
+**Art. 3.** Wypełniając swoje funkcje Kościół może współdziałać z innymi kościołami w kraju i za granicą, należeć do krajowych organizacji międzykościelnych, a także międzynarodowych organizacji wyznaniowych i międzywyznaniowych.
 
 **Art. 4.**
 
-1. Tworzenie przez nowych parafii oraz znoszenie w try bie przewidzianym w przepisach
+1. Kościół może otaczać opieką duszpasterską współwyznawców spośród osób innych narodowości zamieszkałych bądź przebywających czasowo na terytorium Rzeczypospolitej Polskiej.
 
-2. Nowo utworzone parafie pra z powiadomienia przez Konsystorz wojewody ze na parafii.
+2. Utworzenie lub zniesienie jednostki organizacyjnej Kościoła za granicą Rzeczypospolitej Polskiej może nastąpić przy zachowaniu przepisów prawa państwa, na którego terytorium ma ona swoją siedzibę.
 
-3. Powiadomienie powinno parafii, jej terytorialny oraz osób cych organu.
+3. Kościół zawiadamia Ministra – Szefa Urzędu Rady Ministrów o utworzeniu lub zniesieniu jednostki organizacyjnej za granicą.
 
-**Art. 5.** Wydawnictwa, charytatywno-opie oraz gospodarcze, które nie
+**Art. 5.**
+
+1. W sprawach odnoszących się do Kościoła, nieuregulowanych niniejszą ustawą, stosuje się przepisy ustawy z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2022 r. poz. 1435 i 1700).
+
+2. Zmiany niniejszej ustawy wymagają uprzedniej opinii Synodu Kościoła.
+
+#### Rozdział 2 Organizacja Kościoła
+
+**Art. 6.** Organizację wewnętrzną Kościoła określa Zasadnicze Prawo Wewnętrzne.
+
+**Art. 7.**
+
+1. Kościół jako całość oraz jego jednostki organizacyjne: diecezje, parafie i diakonaty posiadają osobowość prawną.
+
+2. Inne jednostki organizacyjne Kościoła mogą, na wniosek Konsystorza, uzyskać osobowość prawną w drodze rozporządzenia Ministra – Szefa Urzędu Rady Ministrów .
+
+**Art. 8.**
+
+1. Tworzenie przez Kościół jednostek organizacyjnych, o których mowa w art. 7 ust. 1, oraz znoszenie i przekształcanie już istniejących następuje w trybie przewidzianym w przepisach wewnątrzkościelnych.
+
+2. Kościelne jednostki organizacyjne, o których mowa w art. 7 ust. 1, nabywają osobowość prawną z chwilą powiadomienia właściwego organu administracji rządowej o ich utworzeniu.
+
+3. Właściwym organem jest:
+
+- **1)** odnośnie do diecezji – minister właściwy do spraw wyznań religijnych ;
+- **2)** odnośnie do parafii i diakonatów – wojewoda.
+
+4. Powiadomienie powinno zawierać:
+
+- **1)** nazwę kościelnej osoby prawnej;
+- **2)** jej siedzibę;
+- **3)** w odniesieniu do diecezji i parafii – ich zasięg terytorialny.
+
+5. Właściwa władza kościelna powiadamia niezwłocznie organ administracji rządowej, wymieniony w ust. 3, o:
+
+- **1)** zmianach dotyczących nazwy i siedziby kościelnej osoby prawnej oraz o zmianie jej granic;
+- **2)** połączeniu, podziale i zniesieniu kościelnej osoby prawnej.
+
+6. Odpis powiadomienia z umieszczonym na nim potwierdzeniem odbioru jest dowodem uzyskania osobowości prawnej.
+
+**Art. 9.** Organami osób prawnych wymienionych w art. 7 są:
+
+**Art. 10.** Kościelna osoba prawna nie odpowiada za zobowiązania innej kościelnej osoby prawnej.
+
+**Art. 11.** Kościelne wydawnictwa, zakłady charytatywno-opiekuńcze, opiekuńczo-wychowawcze, szkoły, placówki oświatowo-wychowawcze, a także zakłady gospodarcze nieposiadające osobowości prawnej działają w ramach tych kościelnych osób prawnych, które je powołały. W ramach tych kościelnych osób prawnych wykonywana może być także działalność lecznicza w rozumieniu przepisów o działalności leczniczej.
+
+#### Rozdział 3 Działalność Kościoła
+
+**Art. 12.** Organizowanie kultu publicznego i jego sprawowanie podlegają wyłącznie władzy kościelnej.
+
+**Art. 12a.**
+
+1. Małżeństwo zawarte w formie przewidzianej Zasadniczym Prawem Wewnętrznym Kościoła wywołuje skutki cywilne, jeżeli odpowiada wymaganiom określonym w Kodeksie rodzinnym i opiekuńczym.
+
+2. Osobę duchowną, przed którą składa się oświadczenia o zawarciu małżeństwa, określa Zasadnicze Prawo Wewnętrzne Kościoła.
+
+**Art. 13.** Religijne uroczystości pogrzebowe i nabożeństwa dla uczczenia pamięci zmarłych mogą odbywać się także na cmentarzach komunalnych, przy zachowaniu obowiązujących przepisów porządkowych.
+
+**Art. 14.** Osobom należącym do Kościoła przysługuje prawo zwolnienia od nauki lub pracy w następujące święta ewangelickie niebędące dniami ustawowo wolnymi od pracy:
+
+**Art. 15.**
+
+1. Kościół prowadzi konfesyjne nauczanie religii na zasadach określonych przez właściwą władzę kościelną.
+
+2. Nauczanie religii w szkołach publicznych regulują odrębne przepisy.
+
+**Art. 16.**
+
+1. Szkoły oraz placówki oświatowo-wychowawcze i opiekuńczo-wychowawcze, prowadzone przez Kościół, mają charakter wyznaniowy i podlegają władzy kościelnej.
+
+2. Zasady organizacyjno-programowe prowadzenia tych placówek określają odrębne przepisy.
+
+**Art. 17.**
+
+1. Do nauczycieli i wychowawców zatrudnionych w szkołach i placówkach oświatowo-wychowawczych i opiekuńczo-wychowawczych prowadzonych przez kościelne osoby prawne stosuje się przepisy o prawach i obowiązkach, ustalone dla nauczycieli i wychowawców zatrudnionych w publicznych szkołach i placówkach oświatowo-wychowawczych oraz opiekuńczo-wychowawczych, z uwzględnieniem ust. 2.
+
+2. Szczegółowy zakres uprawnień i obowiązków, o których mowa w ust. 1, określa Minister Edukacji Narodowej na wniosek Synodu Kościoła.
+
+3. Pracownikom szkół i placówek oświatowo-wychowawczych oraz placówek opiekuńczo-wychowawczych niebędących nauczycielami lub wychowawcami przysługują uprawnienia i świadczenia przewidziane dla tej kategorii pracowników zatrudnionych w publicznych szkołach i placówkach.
+
+**Art. 18.**
+
+1. Uczącym się w szkołach prowadzonych przez kościelne osoby prawne przysługują świadczenia zdrowotne i ulgi w opłatach za przejazdy środkami publicznego transportu zbiorowego na równi z uczniami szkół publicznych.
+
+2. Rodzicom lub opiekunom prawnym uczniów szkół prowadzonych przez kościelne osoby prawne przysługuje prawo do zasiłków rodzinnych na równi z rodzicami lub opiekunami uczniów szkół publicznych.
+
+**Art. 19.**
+
+1. Kościołowi przysługuje prawo tworzenia i prowadzenia wyższych szkół teologicznych.
+
+2. Poręcza się Kościołowi prawo do kształcenia w zakresie teologii ewangelickiej w samodzielnej jednostce naukowo-dydaktycznej w ramach Chrześcijańskiej Akademii Teologicznej w Warszawie.
+
+**Art. 20.**
+
+1. Kościół ma prawo emitowania w publicznych środkach masowego przekazu nabożeństw w niedziele i święta ewangelickie oraz swoich programów religijno-moralnych, społecznych i kulturalnych.
+
+2. Sposób realizacji uprawnień określonych w ust. 1 określi porozumienie między Kościołem a właściwą jednostką publicznej radiofonii i telewizji.
+
+**Art. 21.**
+
+1. Dzieciom i młodzieży wyznania ewangelicko-augsburskiego, przebywającym w zakładach opiekuńczych i wychowawczych, sanatoriach, prewentoriach i szpitalach, zapewnia się prawo do uczestniczenia w nauczaniu religii oraz udziału w nabożeństwach i innych praktykach religijnych.
+
+2. Szczegółowe przepisy w sprawach, o których mowa w ust. 1, wydadzą Minister Edukacji Narodowej oraz Minister Zdrowia i Opieki Społecznej , w porozumieniu z Kościołem.
+
+3. Dzieciom i młodzieży korzystającym ze zorganizowanych form wypoczynku wakacyjnego zapewnia się prawo uczestniczenia w nabożeństwach i wykonywania innych praktyk religijnych.
+
+**Art. 22.**
+
+1. Prawo wykonywania praktyk religijnych i korzystania z opieki duszpasterskiej zapewnia się osobom przebywającym w podmiotach leczniczych wykonujących stacjonarne i całodobowe świadczenia zdrowotne w rozumieniu przepisów o działalności leczniczej oraz zamkniętych zakładach pomocy społecznej.
+
+2. Nabożeństwa dla osób, o których mowa w ust. 1, odbywają się w kaplicach lub innych pomieszczeniach udostępnianych na ten cel przez kierowników właściwych instytucji.
+
+**Art. 23.**
+
+- **5)** 1. Osoby tymczasowo aresztowane wyznania ewangelickoaugsburskiego mogą wykonywać praktyki religijne i wysłuchiwać nabożeństw transmitowanych przez środki masowego przekazu oraz, za zgodą organu, do którego dyspozycji pozostają, korzystać z indywidualnej opieki duszpasterskiej.
+
+2. Osobom skazanym wyznania ewangelicko-augsburskiego zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach odprawianych w niedziele i święta ewangelickie w odpowiednio przystosowanym pomieszczeniu w zakładzie, w którym przebywają. Osobom, które na terenie zakładu nie mogą uczestniczyć w odprawianych nabożeństwach, należy zapewnić możliwość wysłuchania nabożeństw transmitowanych przez środki masowego przekazu.
+
+3. Nieletnim wyznania ewangelicko-augsburskiego, przebywającym w okręgowych ośrodkach wychowawczych, zakładach poprawczych i schroniskach dla nieletnich, zapewnia się możliwość wykonywania praktyk religijnych, korzystania z opieki duszpasterskiej oraz uczestniczenia w nabożeństwach w niedziele i święta ewangelickie. Nieletnim, którzy nie mają możliwości uczestniczenia w nabożeństwach na terenie ośrodków, zakładów lub schronisk, należy zapewnić wysłuchanie nabożeństw transmitowanych przez środki masowego przekazu.
+
+4. W celu zaspokojenia potrzeb, o których mowa w ust. 1–3, władze kościelne mogą wyznaczać kapelanów.
+
+**Art. 24.**
+
+1. Organizacjami ewangelickimi w rozumieniu ustawy są organizacje tworzone w oparciu o uchwały Konsystorza w celu prowadzenia zgodnej z nauką Kościoła działalności społeczno-kulturalnej, oświatowo-wychowawczej i charytatywno-opiekuńczej.
+
+2. Do organizacji ewangelickich stosuje się przepisy prawa o stowarzyszeniach, z tym że:
+
+- **1)** Konsystorzowi przysługuje prawo uchylenia uchwały, o której mowa w ust. 1, z równoczesnym wystąpieniem do sądu z wnioskiem o rozwiązanie stowarzyszenia;
+- **2)** wystąpienie do sądu o rozwiązanie stowarzyszenia przez organ właściwy w rozumieniu prawa o stowarzyszeniach następuje po zasięgnięciu opinii Konsystorza;
+- **3)** w przypadku likwidacji organizacji ewangelickiej majątek jej przechodzi na własność Kościoła jako całości.
+
+**Art. 25.** Kościół i jego osoby prawne prowadzą własną działalność charytatywno-opiekuńczą, w szczególności mogą prowadzić wyznaniowe zakłady opiekuńczo-wychowawcze i charytatywno-opiekuńcze. Kościół i jego osoby prawne mogą wykonywać działalność leczniczą w rozumieniu przepisów o działalności leczniczej.
+
+**Art. 26.** Grunty stanowiące własność osób prawnych Kościoła powinny być w planach zagospodarowania przestrzennego przeznaczone w pierwszej kolejności pod budownictwo sakralne i kościelne.
+
+**Art. 27.**
+
+1. Grunty stanowiące własność Skarbu Państwa lub własność jednostek samorządu terytorialnego, przeznaczone w planach zagospodarowania przestrzennego na potrzeby Kościoła, na wniosek władz kościelnych będą oddawane w użytkowanie wieczyste albo mogą być sprzedane kościelnym osobom prawnym.
+
+2. Nie pobiera się opłat za użytkowanie wieczyste nieruchomości przekazanych na potrzeby zakładów charytatywno-opiekuńczych i punktów katechetycznych.
+
+**Art. 28.** Parafie mają prawo posiadania, zarządzania oraz zakładania i poszerzania cmentarzy grzebalnych.
+
+#### Rozdział 4 Duszpasterstwo wojskowe i służba wojskowa osób duchownych
+
+**Art. 29.**
+
+1. Żołnierzom wyznania ewangelicko-augsburskiego pełniącym czynną służbę wojskową zapewnia się możliwość uczestniczenia – poza terenem jednostek wojskowych – w nabożeństwach i czynnościach religijnych w niedziele i święta ewangelickie, jeżeli w miejscowości stacjonowania jednostki wojskowej lub w jej pobliżu znajduje się kościół lub kaplica i jeżeli nie koliduje to z ważnymi obowiązkami służbowymi.
+
+2. Opiekę duszpasterską dla żołnierzy, o których mowa w ust. 1, zapewniają kapelani wojskowi.
+
+**Art. 30.**
+
+1. Kapelani wojskowi stanowią wyodrębniony korpus osobowy żołnierzy zawodowych w ramach Ewangelickiego Duszpasterstwa Wojskowego.
+
+2. Kapelani wojskowi podlegają w zakresie służby wojskowej organom wojskowym, a w zakresie duszpasterstwa – władzy kościelnej.
+
+**Art. 31.**
+
+1. Ewangelickim Duszpasterstwem Wojskowym kieruje Naczelny Kapelan Wojskowy, którego mianuje i odwołuje Minister Obrony Narodowej w uzgodnieniu z Konsystorzem Kościoła.
+
+2. Szczegółowy tryb powoływania i odwoływania Naczelnego Kapelana Wojskowego i kapelanów wojskowych oraz organizację Ewangelickiego Duszpasterstwa Wojskowego określa statut uchwalony przez Konsystorz Kościoła w porozumieniu z Ministrem Obrony Narodowej.
+
+3. Statut Ewangelickiego Duszpasterstwa Wojskowego ogłasza Minister Obrony Narodowej.
+
+**Art. 32.**
+
+1. Absolwentów akademickich studiów teologicznych, w czasie przygotowywania się do powołania na urząd duchowny (ordynacji), nie dłuższym jednak niż 2 lata od dnia, w którym stali się absolwentami szkoły wyższej, nie powołuje się do odbycia przeszkolenia wojskowego.
+
+2. Ordynowani duchowni są przenoszeni do rezerwy i nie odbywają ćwiczeń wojskowych w czasie pokoju, z wyjątkiem przypadku przeszkolenia, za zgodą Biskupa Kościoła, do pełnienia funkcji kapelanów lub do służby sanitarnej.
+
+#### Rozdział 5 Sprawy majątkowe
+
+**Art. 33.** Kościołowi i jego osobom prawnym przysługuje prawo do swobodnego nabywania, posiadania i zbywania mienia ruchomego i nieruchomego oraz zarządzania swoim majątkiem.
+
+**Art. 34.**
+
+1. Majątek i przychody kościelnych osób prawnych podlegają ogólnym przepisom podatkowym, a w szczególności art. 17 ust. 1 pkt 4a i 4b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2022 r. poz. 2587, 2640 i 2745 oraz z 2023 r. poz. 185).
+
+2. Darowizny na kościelną działalność charytatywno-opiekuńczą pochodzące od osób fizycznych są wyłączone z podstawy opodatkowania darczyńców podatkiem dochodowym, jeżeli kościelna osoba prawna przedstawi darczyńcy pokwitowanie odbioru oraz – w okresie dwóch lat od dnia przekazania darowizny – sprawozdanie o przeznaczeniu jej na tę działalność.
+
+3. Kościelne osoby prawne są zwolnione od podatku od nieruchomości lub ich części stanowiących własność tych osób albo używanych przez nie, na podstawie innego tytułu prawnego, na cele niemieszkalne, z wyjątkiem części zajmowanej na wykonywanie działalności gospodarczej.
+
+4. Zwolnienie od podatku od nieruchomości obejmuje nieruchomości lub ich części, przeznaczone na cele mieszkalne duchownych i członków diakonatów, jeżeli:
+
+- **1)** są one wpisane do rejestru zabytków;
+- **2)** służą jako domy księży emerytów lub znajdują się w budynkach stanowiących każdorazowo siedziby Biskupa Kościoła i Biskupów Diecezjalnych.
+
+5. Nabywanie i zbywanie rzeczy i praw majątkowych przez kościelne osoby prawne w drodze czynności prawnych oraz spadkobrania, zapisu i zasiedzenia jest zwolnione od opłaty skarbowej, jeżeli ich przedmiotem są:
+
+- **1)** rzeczy i prawa nieprzeznaczone do działalności gospodarczej;
+- **2)** sprowadzone z zagranicy maszyny, urządzenia i materiały poligraficzne oraz papier.
+
+6. Nabywanie rzeczy i praw majątkowych, o których mowa w ust. 5, jest zwolnione od opłat sądowych, z wyłączeniem opłat kancelaryjnych.
+
+**Art. 35.** Zwalnia się z należności celnych przywozowych towary przeznaczone na cele charytatywno-opiekuńcze i oświatowo-wychowawcze oraz towary o charakterze kulturalnym przeznaczone na cele kultu, przywożone dla kościelnych osób prawnych, w granicach i na warunkach określonych w rozporządzeniu Rady (WE) nr 1186/2009 z dnia 16 listopada 2009 r. ustanawiającym wspólnotowy system zwolnień celnych (Dz. Urz. UE L 324 z 10.12.2009, str. 23).
+
+**Art. 36.**
+
+1. Kościelne osoby prawne mają prawo do zbierania ofiar na cele religijne, kościelne, działalność charytatywno-opiekuńczą, naukową, oświatową i wychowawczą oraz utrzymanie duchownych i członków diakonatów.
+
+2. Zbiórki wymienione w ust. 1 nie wymagają zgłoszenia, jeżeli odbywają się w obrębie terenów kościelnych, kaplic oraz w miejscach i okolicznościach zwyczajowo przyjętych w danej okolicy i w sposób tradycyjnie ustalony.
+
+**Art. 37.** W razie zniesienia kościelnej osoby prawnej, jej majątek przechodzi na Kościół jako całość.
+
+**Art. 38.** Niezależnie od ustawowego ubezpieczenia duchownych, Kościół prowadzi Fundusz Socjalny Kościoła, który, w rozumieniu ustawy, nie jest działalnością gospodarczą.
+
+**Art. 39.**
+
+1. Nieruchomości lub ich części pozostające w dniu wejścia w życie ustawy we władaniu kościelnych osób prawnych stają się z mocy prawa ich własnością, jeżeli:
+
+- **1)** były własnością diecezji, parafii i filiałów wymienionych w wykazie stanowiącym załącznik do dekretu Prezydenta Rzeczypospolitej z dnia 25 listopada 1936 r. o stosunku Państwa do Kościoła Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. poz. 613, z 1945 r. poz. 271 oraz z 1947 r. poz. 272) oraz diakonatów;
+- **2)** były własnością parafii (gmin, zborów) Kościołów Ewangelicko-Unijnych, Kościoła Staroluterskiego, Ewangelickiego Kościoła wyznań augsburskiego i helweckiego oraz Braci Morawskich (Hernhutów);
+- **3)** podlegały przepisom dekretu z dnia 24 kwietnia 1952 r. o zniesieniu fundacji (Dz. U. poz. 172 oraz z 1957 r. poz. 3), a zostały poręczone, pozostawione, wydzierżawione, wynajęte lub przekazane kościelnym osobom prawnym;
+- **4)** znajdują się na nich cmentarze lub obiekty sakralne oraz obiekty funkcjonalnie związane z obiektami sakralnymi; dotyczy to również obiektów położonych na obszarze miasta stołecznego Warszawy.
+
+2. Stwierdzenie przejścia własności nieruchomości lub ich części, o których mowa w ust. 1, następuje w drodze decyzji wojewody.
+
+3. Nabycie własności nieruchomości lub ich części na podstawie ust. 1 jest wolne od podatków i opłat z tym związanych, a wynikające z niego wpisy do ksiąg wieczystych i ich zakładanie są wolne od opłat.
+
+4. Postępowanie sądowe lub administracyjne dotyczące nieruchomości, o których mowa w ust. 1, ulega zawieszeniu do czasu wydania decyzji, o której mowa w ust. 2.
+
+**Art. 40.**
+
+1. Na wniosek kościelnej osoby prawnej wszczyna się postępowanie, zwane dalej „postępowaniem regulacyjnym”, w przedmiocie przywrócenia własności przejętych na rzecz Skarbu Państwa nieruchomości lub ich części, o których mowa w art. 39 ust. 1 pkt 1 i 2:
+
+- **1)** rolnych i leśnych przejętych w toku wykonania ustawy z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. poz. 87, z późn. zm. ), jeżeli nie wydzielono z nich należnych, w myśl tej ustawy, gospodarstw rolnych proboszczów;
+- **2)** wywłaszczonych, jeżeli odszkodowanie nie zostało wypłacone lub podjęte;
+- **3)** przejętych na podstawie dekretu z dnia 26 października 1945 r. o własności i użytkowaniu gruntów na obszarze miasta stołecznego Warszawy (Dz. U. poz. 279), z zastrzeżeniem ust. 2;
+- **4)** przejętych we władanie państwowych jednostek organizacyjnych bez tytułu prawnego, bez względu na późniejsze ustawodawstwo konwalidujące to przejęcie.
+
+2. W odniesieniu do nieruchomości objętych dekretem określonym w ust. 1 pkt 3 przedmiotem postępowania regulacyjnego może być przywrócenie własności budynków i ustanowienie użytkowania wieczystego gruntów.
+
+3. Jeżeli własność nieruchomości nie może zostać przywrócona kościelnej osobie prawnej, przyznaje się jej nieruchomość zamienną, a jeśli nie jest to możliwe lub natrafia na trudne do przezwyciężenia przeszkody, odszkodowanie jest ustalane według przepisów o wywłaszczaniu nieruchomości.
+
+4. Regulacja nie może naruszać praw nabytych przez niepaństwowe osoby trzecie, a w szczególności przez inne kościoły i związki wyznaniowe oraz rolników indywidualnych.
+
+**Art. 41.**
+
+1. Przedmiotem postępowania regulacyjnego może być również nieodpłatne przekazanie własności niepozostających w dniu wejścia w życie ustawy we władaniu kościelnych osób prawnych nieruchomości lub ich części:
+
+- **1)** o których mowa w art. 39 ust. 1 pkt 1–3;
+- **2)** będących uprzednio własnością parafii (gmin, zborów) ewangelickich, działających do 1945 r. na Ziemiach Zachodnich i Północnych, jeśli są one niezbędne na cele kultowe lub dla prowadzenia przez kościelne osoby prawne działalności oświatowo-wychowawczej, charytatywno-opiekuńczej i opiekuńczo-wychowawczej.
+
+2. Przepis art. 40 ust. 4 stosuje się odpowiednio.
+
+**Art. 42.** Majątek nieruchomy, przekazany na własność gminie w trybie ustawy z dnia 10 maja 1990 r. – Przepisy wprowadzające ustawę o samorządzie terytorialnym i ustawę o pracownikach samorządowych (Dz. U. poz. 191, z późn. zm. ), podlega postępowaniu, o którym mowa w art. 40 i 41.
+
+**Art. 43.**
+
+1. Postępowanie regulacyjne, o którym mowa w art. 40 i 41, przeprowadza Komisja Regulacyjna, zwana dalej „Komisją”, złożona z przedstawicieli wyznaczonych w równej liczbie przez Ministra – Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
+
+2. Uczestnikami postępowania regulacyjnego są oprócz wnioskodawcy wszystkie zainteresowane jednostki państwowe, samorządowe i kościelne.
+
+3. Wnioski o wszczęcie postępowania regulacyjnego zgłasza się w terminie dwóch lat od dnia wejścia w życie ustawy. Roszczenia niezgłoszone w tym terminie wygasają.
+
+4. Postępowanie sądowe lub administracyjne dotyczące nieruchomości, o których mowa w art. 40 i 41, ulega zawieszeniu, a sądy i organy administracji państwowej przekazują ich akta do Komisji Regulacyjnej.
+
+5. Komisja rozpatruje sprawy w zespołach orzekających, w skład których wchodzi po dwóch członków wyznaczonych przez Ministra – Szefa Urzędu Rady Ministrów i Konsystorz Kościoła.
+
+6. Postępowanie regulacyjne jest wolne od opłat.
+
+7. Liczebność Komisji, szczegółowy tryb postępowania regulacyjnego oraz wynagrodzenie dla członków Komisji i personelu pomocniczego określi Minister – Szef Urzędu Rady Ministrów w porozumieniu z Konsystorzem Kościoła.
+
+**Art. 44.**
+
+1. Zespół orzekający po otrzymaniu wniosku o wszczęcie postępowania regulacyjnego bada, czy jest ono dopuszczalne, a wniosek niedopuszczalny odrzuca.
+
+2. Uczestnicy postępowania mogą zawrzeć ugodę przed zespołem orzekającym. Jeżeli ugoda nie została zawarta, zespół wydaje orzeczenie. Ugody i orzeczenia mają moc sądowych tytułów egzekucyjnych.
+
+3. Orzeczenia uwzględniające wniosek, jak i ugody zawarte przed zespołem orzekającym, powinny określać:
+
+- **1)** stan prawny nieruchomości;
+- **2)** związane z tym stanem obowiązki uczestników postępowania, a w szczególności obowiązek wydania w oznaczonym terminie nieruchomości, jeżeli nie znajduje się ona we władaniu wnioskodawcy;
+- **3)** w razie przyznania odszkodowania obowiązek i termin zapłaty należnej z tego tytułu kwoty.
+
+4. Orzeczenie jak i ugoda stanowią podstawę do dokonania wpisów w księgach wieczystych i w ewidencji gruntów. Przepis art. 39 ust. 3 stosuje się odpowiednio.
+
+5. Od orzeczenia zespołu orzekającego nie przysługuje odwołanie.
+
+6. Rada Ministrów, w drodze rozporządzenia, określi, z mienia których państwowych jednostek organizacyjnych lub jednostek samorządu terytorialnego może być wyłączona nieruchomość w celu jej przekazania jako nieruchomość zamienna lub na którą państwową jednostkę organizacyjną może być nałożony obowiązek zapłaty odszkodowania.
+
+**Art. 45.**
+
+1. Jeżeli zespół orzekający nie uzgodni orzeczenia, zawiadamia o tym pisemnie uczestników postępowania regulacyjnego.
+
+2. Uczestnicy postępowania regulacyjnego mogą, w terminie sześciu miesięcy od otrzymania zawiadomienia, wystąpić o podjęcie zawieszonego postępowania sądowego lub administracyjnego, a jeżeli nie było ono wszczęte – wystąpić na drogę sądową pod rygorem wygaśnięcia roszczenia. Przy rozpoznawaniu sprawy sąd stosuje zasady określone w art. 40 i 41.
+
+**Art. 45a.**
+
+1. Na wniosek Kościoła lub jego osób prawnych wojewoda lub inny organ wykonujący w imieniu Skarbu Państwa prawa wynikające z własności nieruchomości albo organy gmin w zakresie swoich właściwości – mogą nieodpłatnie przekazać Kościołowi lub jego osobom prawnym własność nieruchomości lub ich części:
+
+- **1)** jeżeli są one niezbędne do sprawowania kultu religijnego lub działalności kościelnych osób prawnych w zakresie charytatywno-opiekuńczym lub oświatowo-wychowawczym;
+- **2)** w celu utworzenia lub powiększenia gospodarstwa rolnego parafii działających na Ziemiach Zachodnich i Północnych, o powierzchni do 15 ha użytków rolnych łącznie dla jednej parafii.
+
+2. Przepis art. 39 ust. 3 stosuje się odpowiednio.
+
+#### Rozdział 6 Przepisy przejściowe i końcowe
+
+**Art. 46.** Wykaz jednostek organizacyjnych będących osobami prawnymi w dniu wejścia w życie ustawy stanowi załącznik do ustawy.
+
+**Art. 46a.** Wnioski, o których mowa w art. 45a ust. 1, mogą być składane w terminie do dnia 31 grudnia 1998 r.
+
+**Art. 47.** Tracą moc:
+
+**Art. 48.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia . Załącznik do ustawy z dnia 13 maja 1994 r. (Dz. U. z 2023 r. poz.
 

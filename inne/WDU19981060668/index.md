@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# nej, minister do spraw we za ministra go do spraw zagranicznych i ministra do spraw finansów publicz nych.";
+# o zmianie niekt(cid:243)rych ustaw określających kompetencje organ(cid:243)w administracji publicznej - w związku z reformą ustrojową państwa
+
+*USTAWA z dnia 24 lipca 1998 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,1659 +26,1313 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19981060668) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1998/668/text.pdf) |
 
-2) wart. 3 ust. 4;
-3) wart. 4 wyraz "zarejestrowanym," wyrazem "i";
-4) wart. 5 wyrazy "Minister Spraw wyrazami "Minister do spraw
-5) w art. 8:
-a) w ust. 1 zdanie trzecie,
-b) w ust. 2 wyrazy "Minister Spraw nych" wyrazami "Minister wy do spraw
-6) art. 9 otrzymuje brzmienie: "Art. 9. Wynik zbiórki i sposób zebra nych ofiar powinien podany do wiado organu, który pozwolenia, oraz w terminie 1 w prasie, w rozumieniu przepisów Prawa prasowego, o co najmniej obszar, na którym zbiórka przeprowadzona." ;
-7) art. 12;
-8) art. 14.
+**Art. 1.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemc(cid:243)w (Dz.U. z 1996 r. Nr 54, poz. 245 i z 1997 r. Nr 140, poz. 939) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie z dnia 28 marca 1933 r. o grobach i cmentarzach wojennych (Dz. U. Nr 39, poz. 311, z 1959 r. Nr 11, poz. 62 oraz z 1990 r. Nr 34, poz. 198) wart. 6 wprowadza zmiany:
+**Art. 2.** W ustawie z dnia 15 marca 1933 r. o zbi(cid:243)rkach publicznych (Dz.U. Nr 22, poz. 162, z 1948 r. Nr 36, poz. 250, z 1971 r. Nr 12, poz. 115, z 1989 r. Nr 29, poz. 154 oraz z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 13 lipca 1939 r. o nadzorze nad niektórymi (Dz. U. Nr 63, poz. 419, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 60, poz. 369) wart. 7 w ust. 1 wyraz "rejonowych" za wyrazem "powiatowych".
+**Art. 4.** W ustawie z dnia 13 lipca 1939 r. o nadzorze nad niekt(cid:243)rymi środkami żywienia zwierząt (Dz.U. Nr 63, poz. 419, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 60, poz.
 
-**Art. 5.** W dekrecie z dnia 8 sierpnia 1946 r. o wpisy waniu w hipotecznych (gruntowych) prawa na cele reformy rolnej (Dz. U. Nr 39, poz. 233 i z 1990 Nr 34, poz. 198) wprowadza zmiany:
+**Art. 5.** W dekrecie z dnia 8 sierpnia 1946 r. o wpisywaniu w księgach hipotecznych (gruntowych) prawa własności nieruchomości przejętych na cele reformy rolnej (Dz.U. Nr 39, poz. 233 i z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
 
-**Art. 6.** W dekrecie z dnia 6 1946 r. o ustro ju rolnym i osadnictwie na obszarze Ziem Odzyska nych i Wolnego Miasta (Dz. U. Nr 49, poz. 279, z 1947 r. Nr 66, poz. 410, z 1951 r. Nr 5, poz. 39, z 1958 r. Nr 17, poz. 71 i 72, z 1969 r. Nr 13, poz. 95, z 1971 r. Nr 27, poz. 250 oraz z 1990 r. Nr 34, poz. 198) wprowadza zmiany:
+**Art. 6.** W dekrecie z dnia 6 września 1946 r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska (Dz.U. Nr 49, poz. 279, z 1947 r. Nr 66, poz. 410, z 1951 r. Nr 5, poz. 39, z 1958 r. Nr 17, poz. 71 i 72, z 1969 r. Nr 13, poz. 95, z 1971 r. Nr 27, poz. 250 oraz z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
 
-**Art. 7.** W dekrecie z dnia 28 1947 r. o mocy prawnej wieczystych na obszarze Ziem Odzyskanych i b. Wolnego Miasta (Dz. U. Nr 66, poz. 410 i z 1990 r. Nr 34, poz. 198) wprowadza zmiany:
+**Art. 7.** W dekrecie z dnia 28 października 1947 r. o mocy prawnej ksiąg wieczystych na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska (Dz.U. Nr 66, poz. 410 i z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
+
+**Art. 8.** W ustawie z dnia 1 lipca 1949 r. o zakładach leczniczych dla zwierząt (Dz.U. Nr 41, poz. 297, z 1988 r. Nr 41, poz. 324 oraz z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
+
+**Art. 9.** W dekrecie z dnia 6 września 1951 r. o ochronie i uregulowaniu własności osadniczych gospodarstw chłopskich na obszarze Ziem Odzyskanych (Dz.U. Nr 46, poz. wprowadza się następujące zmiany:
+
+**Art. 10.** W dekrecie z dnia 23 kwietnia 1953 r. o świadczeniach w celu zwalczania klęsk żywiołowych (Dz.U. Nr 23, poz. 93, z 1959 r. Nr 27, poz. 167, z 1970 r. Nr 16, poz. 138, z 1983 r. Nr 44, poz. 200 oraz z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
+
+**Art. 11.** W dekrecie z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw, związanych z reformą rolną i osadnictwem rolnym (Dz.U. z 1959 r. Nr 14, poz. 78, z 1971 r. Nr 27, poz. 250 i z 1990 r. Nr 34, poz. 198) wprowadza się następujące zmiany:
+
+**Art. 12.** W ustawie z dnia 15 listopada 1956 r. o zmianie imion i nazwisk (Dz.U. z 1963 r. Nr 59, poz. 328) wprowadza się następujące zmiany:
 
 **Art. 9.**
 
-1. Podania w sprawach w ustawie osoby zamieszkate w Polsce organom, o których mowa wart. 8. wnioskodawca zamiesz kuje za podanie sktada za po konsula Rzeczypospolitej Polskiej.
+1. Podania w sprawach określonych w ustawie osoby zamieszkałe w Polsce składają organom, o kt(cid:243)rych mowa w art. 8. Jeżeli wnioskodawca zamieszkuje za granicą, podanie składa się za pośrednictwem konsula Rzeczypospolitej Polskiej.
 
-2. starostów okre w stosunku do osób zamieszkatych za kolejno: ostatnie miejsce ich zamieszkania albo ostatnie miejsce po bytu w Polsce. W przypadku braku ta kich podstaw jest Prezydent m.st. Warszawy jako organ wykonawczy gminy Warszawa-Centrum.";
+2. Właściwość miejscową starost(cid:243)w określa, w stosunku do os(cid:243)b zamieszkałych za granicą, kolejno: ostatnie miejsce ich zamieszkania albo ostatnie miejsce pobytu w Polsce. W przypadku braku takich podstaw - właściwy jest Prezydent m.st. Warszawy jako organ wykonawczy gminy Warszawa - Centrum.";
 
-- **2)** wart. 10 ust. 1 otrzymuje brzmienie: ,,1. W razie lub brzmienie imienia i nazwiska ustala starosta, na wniosek strony." ;
-- **3)** wart. 11 ust. 1 otrzymuje brzmienie: ,,1. Organ, o którym mowa wart. 8, zawiadamia o zmianie imienia lub nazwiska stanu cywilnego ze na miejsce aktu urodzenia i wnioskodawcy oraz miejsce ak tów jego matoletnich dzieci, a ponad to skarbowy i organ Policji, i organy ewi dencji oraz Centralny Rejestr Skaza nych.";
-- **4)** dodaje art. 11 a w brzmieniu: "Art. 11 a. w ustawie zadania i kompe tencje starosty zadaniami z zakresu administracji
+- **2)** w art. 10 ust. 1 otrzymuje brzmienie: starosta, na wniosek strony.";
+- **3)** w art. 11 ust. 1 otrzymuje brzmienie: "1. Organ, o kt(cid:243)rym mowa w art. 8, zawiadamia o zmianie imienia lub nazwiska urzędy stanu cywilnego właściwe ze względu na miejsce sporządzenia aktu urodzenia i małżeństwa wnioskodawcy oraz miejsce sporządzenia akt(cid:243)w urodzeń jego małoletnich dzieci, a ponadto właściwy urząd skarbowy i organ Policji, Wojskową Komendę Uzupełnień i organy ewidencji ludności oraz Centralny Rejestr Skazanych.";
+- **4)** dodaje się art. 11a w brzmieniu: "Art. 11a. Określone w ustawie zadania i kompetencje starosty są zadaniami z zakresu administracji rządowej.".
 
-**Art. 13.** W ustawie z dnia 29 maja 1957 r. o uregu lowaniu spraw niektórych nierolniczych na Ziemiach Odzyskanych i na terenach b. W. M. (Dz. U. Nr 31, poz. 137) wart. 11 ust. 1 otrzymuje brzmienie: ,,1. Decyzje przewidziane w niniejszej ustawie nale do starosty. Wydawanie tych decyzji jest zadaniem z zakresu administracji
+**Art. 13.** W ustawie z dnia 29 maja 1957 r. o uregulowaniu spraw własności niekt(cid:243)rych nieruchomości nierolniczych na Ziemiach Odzyskanych i na terenach b. W.M.Gdańska (Dz.U. Nr 31, poz. 137) w art. 11 ust. 1 otrzymuje brzmienie: (cid:132)1. Decyzje przewidziane w niniejszej ustawie należą do właściwości starosty. Wydawanie tych decyzji jest zadaniem z zakresu administracji rządowej.(cid:148).
 
-**Art. 14.** W ustawie z dnia 25 lutego 1958 r. o stwowej Inspekcji Handlowej (Dz. U. z 1969 r. Nr 26, poz. 206, z 1975 r. Nr 16, poz. 91, z 1990 r. Nr 14, poz. 88, z 1991 r. Nr 65, poz. 279 oraz z 1996 r. Nr 106, poz. 496) wprowadza zmiany:
+**Art. 14.** W ustawie z dnia 25 lutego 1958 r. o Państwowej Inspekcji Handlowej (Dz.U. z 1969 r. Nr 26, poz. 206, z 1975 r. Nr 16, poz. 91, z 1990 r. Nr 14, poz. 88, z 1991 r. Nr 65, poz. 279 oraz z 1996 r. Nr 106, poz. 496) wprowadza się następujące zmiany:
 
 **Art. 2.**
 
-1. Zadania wart. 1 na organy:
+1. Zadania określone w art. 1 wykonują następujące organy:
 
-- **1)** Gtówny Inspektor Inspekcji Handlo wej, zwany dalej «Gtównym Inspekto rem»,
-- **2)** wojewoda przy pomocy wojewódz kiego inspektora inspekcji handlowej, zwanego dalej «wojewódzkim inspek torem», jako kierownika wojewódz kiej inspekcji handlowej w sktad zespolonej administracji wo jewódzkiej.
+- **1)** Gł(cid:243)wny Inspektor Inspekcji Handlowej, zwany dalej (cid:132)Gł(cid:243)wnym Inspektorem(cid:148),
+- **2)** wojewoda przy pomocy wojew(cid:243)dzkiego inspektora inspekcji handlowej, zwanego dalej "wojew(cid:243)dzkim inspektorem", jako kierownika wojew(cid:243)dzkiej inspekcji handlowej wchodzącej w skład zespolonej administracji wojew(cid:243)dzkiej.
 
-2. Wojewódzki inspektor wykonuje w imie niu wojewody zadania i kompetencje In spekcji Handlowej w ustawie oraz przepisach
+2. Wojew(cid:243)dzki inspektor wykonuje w imieniu wojewody zadania i kompetencje Inspekcji Handlowej określone w ustawie oraz przepisach odrębnych.
 
-3. Wojewódzki inspektor kieruje dziatalno wojewódzkiego inspektoratu in spekcji handlowej.
+3. Wojew(cid:243)dzki inspektor kieruje działalnością wojew(cid:243)dzkiego inspektoratu inspekcji handlowej.
 
-4. W rozumieniu Kodeksu administracyjnego, w sprawach nych z wykonywaniem i kompe tencji Inspekcji Handlowej, organem jest wojewódzki inspektor i jako organ stopnia Gtówny Inspektor.
+4. W rozumieniu Kodeksu postępowania administracyjnego, w sprawach związanych z wykonywaniem zadań i kompetencji Inspekcji Handlowej, organem właściwym jest wojew(cid:243)dzki inspektor i jako organ wyższego stopnia Gł(cid:243)wny Inspektor.
 
 **Art. 3.**
 
-1. Inspektora powotuje i odwo tuje Prezes Rady Ministrów na wniosek Prezesa Ochrony Konkurencji i Konsumentów.
+1. Gł(cid:243)wnego Inspektora powołuje i odwołuje Prezes Rady Ministr(cid:243)w na wniosek Prezesa Urzędu Ochrony Konkurencji i Konsument(cid:243)w.
 
-2. Inspektora je i Prezes Rady Ministrów na wniosek Inspektora.
+2. Zastępcę Gł(cid:243)wnego Inspektora powołuje i odwołuje Prezes Rady Ministr(cid:243)w na wniosek Gł(cid:243)wnego Inspektora.
 
-3. Inspektor kieruje Inspekcji Handlowej przy pomocy nego Inspektoratu Inspekcji Handlowej.
+3. Gł(cid:243)wny Inspektor kieruje działalnością Inspekcji Handlowej przy pomocy Gł(cid:243)wnego Inspektoratu Inspekcji Handlowej.
 
-4. Wojewódzkiego inspektora i jego i wojewoda, po opinii Inspekto ra.
+4. Wojew(cid:243)dzkiego inspektora i jego zastępcę powołuje i odwołuje wojewoda, po zasięgnięciu opinii Gł(cid:243)wnego Inspektora.
 
-**Art. 4.** Organizację Inspektoratu In spekcji Handlowej statut nadany, w drodze przez Prezesa Rady Ministrów.
+**Art. 4.** Organizację Gł(cid:243)wnego Inspektoratu Inspekcji Handlowej określi statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministr(cid:243)w.
 
 **Art. 5.**
 
-1. Organy Inspekcji Handlowej zadania w ustawie, na podsta wie okresowych planów pracy; kontrole nie planowane, tego fak tyczne.
+1. Organy Inspekcji Handlowej wykonują zadania określone w ustawie, na podstawie okresowych plan(cid:243)w pracy; mogą też podejmować kontrole nie planowane, jeżeli wymagają tego okoliczności faktyczne.
 
-- **3)** wart. 6:
+2. Gł(cid:243)wny Inspektor opracowuje kierunki działania Inspekcji Handlowej oraz plany kontroli o znaczeniu krajowym, zatwierdzane przez Prezesa Urzędu Ochrony Konkurencji i Konsument(cid:243)w.
 
-2. Inspektor opracowuje kierunki Inspekcji Handlowej oraz plany kontroli o znaczeniu krajowym, zatwier dzane przez Prezesa Ochrony Konkurencji i Konsumentów.
+3. Wojew(cid:243)dzcy inspektorzy ustalają plany pracy uwzględniające kierunki działania i plany kontroli, o kt(cid:243)rych mowa w ust. 2, oraz wnioski wojewody.";
 
-3. Wojewódzcy inspektorzy plany pracy kierunki i plany kontroli, o których mowa w ust. 2, oraz wnioski wojewody.";
+- **3)** w art. 6: "2. Zadania ochrony konsumenta w zakresie określonym ustawą oraz innymi przepisami sprawują r(cid:243)wnież organy jednostek samorządu terytorialnego.
 
-- **a)** ust. 2 i 3 brzmienie: ,,2. Zadania ochrony konsumenta w zakresie oraz innymi przepisami organy jednostek samo terytorialnego.
+3. W szczeg(cid:243)lności zadania jednostek samorządu terytorialnego w zakresie ochrony konsumenta wykonuje powiatowy (miejski) rzecznik konsument(cid:243)w, powoływany i odwoływany przez radę powiatu (radę miasta na prawach powiatu) na zasadach określonych odrębnymi przepisami, kt(cid:243)re ustalają r(cid:243)wnież szczeg(cid:243)łowy zakres jego działania i przysługujące mu uprawnienia.(cid:148),
 
-3. W zadania jednostek du terytorialnego w zakresie ochrony konsu menta wykonuje powiatowy (miejski) rzecz nik konsumentów, i ny przez powiatu miasta na pra wach powiatu) na zasadach od przepisami, które zakres jego i mu uprawnienia.",
-
-- **b)** dodaje ust. 4 w brzmieniu: ,,4. Rada Ministrów w drodze dzenia, zasady organów Inspek cji Handlowej z powiatowym (miejskim) rzecznikiem konsumentów, a z innymi organami administracji publicznej i instytu cjami kontrolnymi, w tym organizacjami po w zakresie, o któ rym mowa wart. 1 ust. 2 .";
+- **b)** dodaje się ust. 4 w brzmieniu: (cid:132)4. Rada Ministr(cid:243)w określi, w drodze rozporządzenia, zasady wsp(cid:243)łpracy organ(cid:243)w Inspekcji Handlowej z powiatowym (miejskim) rzecznikiem konsument(cid:243)w, a także z innymi organami administracji publicznej i instytucjami kontrolnymi, w tym organizacjami pozarządowymi działającymi w zakresie, o kt(cid:243)rym mowa w art. 1 ust. 2 .";
 - **4)** w art. 7 w ust. 1:
-    - **a)** w pkt 1: - lit. c) otrzymuje brzmienie: lIC) w to wary na potrzeby handlu i ga stronomicznego," - lit. d),
-    - **b)** w pkt 4 wyrazy "Prezes Ochrony Konku rencji i Konsumentów" wyrazami "Prezes Rady Ministrów, w drodze nia";
+    - **a)** w pkt 1: - lit. c) otrzymuje brzmienie: (cid:132)c) w przedsiębiorstwach produkujących towary na potrzeby handlu i przemysłu gastronomicznego,(cid:148), - skreśla się lit. d),
+    - **b)** w pkt 4 wyrazy "Prezes Urzędu Ochrony Konkurencji i Konsument(cid:243)w" zastępuje się wyrazami "Prezes Rady Ministr(cid:243)w, w drodze rozporządzenia";
 
-- **5)** art. 13 otrzymuje brzmienie: "Art.13. 1. W kontrolnym przed or ganami Inspekcji Handlowej w zakresie nie uregulowanym stosuje przepisy Kodeksu admi nistracyjnego oraz przepisy o waniu egzekucyjnym w administracji.
+- **5)** art. 13 otrzymuje brzmienie: "Art.13.1. W postępowaniu kontrolnym przed organami Inspekcji Handlowej w zakresie nie uregulowanym ustawą stosuje się przepisy Kodeksu postępowania administracyjnego oraz przepisy o postępowaniu egzekucyjnym w administracji.
 
-2. Inspektorzy Inspekcji Handlowej w z wykonywanymi czynno kontrolnymi z ochro ny przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
+2. Inspektorzy Inspekcji Handlowej w związku z wykonywanymi czynnościami kontrolnymi korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
 
-3. Prezes Rady Ministrów w dro dze tryb organów Inspekcji Handlowej ."
+3. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, tryb postępowania organ(cid:243)w Inspekcji Handlowej.".
 
-**Art. 15.** W ustawie z dnia 31 stycznia 1959 r. o cmen tarzach i chowaniu (Dz. U. z 1972 r. Nr 47, poz. 298, z 1989 r. Nr 29, poz. 154, z 1990 r. Nr 34, poz.198, z 1991 r. Nr 64, poz. 271 oraz z 1997 r. Nr 126, poz. 805 i Nr 141, poz. 943) wprowadza ce zmiany:
+**Art. 15.** W ustawie z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz.U. z 1972 r. Nr 47, poz. 298, z 1975 r. Nr 17, poz. 94, z 1989 r. Nr 29, poz. 154, z 1990 r. Nr 34, poz.198, z 1991 r. Nr 64, poz. 271 oraz z 1997 r. Nr 126, poz. 805 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie z dnia 22 kwietnia 1959 r. o zwal czaniu (Dz. U. Nr 27, poz. 170, z 1974 r. Nr 47, poz. 280, z 1989 r. Nr 35, poz. 192 i z 1990 r. Nr 34, poz. 198) wprowadza zmiany: wart. ust. otrzymuje brzmienie: Osoby na terytorium Rzeczypo spolitej Polskiej na do spraw zdrowia organu admi nistracji publicznej: szczepieniom ochronnym przeciwko badaniom lekarskim, cym na celu wykrywanie i leczenie cy,
+**Art. 16.** W ustawie z dnia 22 kwietnia 1959 r. o zwalczaniu gruźlicy (Dz.U. Nr 27, poz. 170, z 1974 r. Nr 47, poz. 280, z 1975 r. Nr 17, poz. 94, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 oraz z 1995 r. Nr 141, poz. 692) wprowadza się następujące zmiany:
 
-**Art. 17.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niektórych wieczystych (Dz. U. Nr 11, poz. 67, z 1962 r. Nr 39, poz. 169, z 1968 r. Nr 3, poz. 13, z 1982 r. Nr 11, poz. 80 i z 1989 r. Nr 10, poz. 55) wprowadza zmiany: wart. w ust. wyrazy "do spraw rolnych i organu prezydium powiatowej rady narodowej" wyrazami gminy";
+**Art. 17.** W ustawie z dnia 17 lutego 1960 r. o utracie mocy prawnej niekt(cid:243)rych ksiąg wieczystych (Dz.U. Nr 11, poz. 67, z 1962 r. Nr 39, poz. 169, z 1968 r. Nr 3, poz. 13, z 1982 r. Nr 11, poz. 80 i z 1989 r. Nr 10, poz. 55) wprowadza się następujące zmiany:
 
-**Art. 18.** W ustawie z dnia 15 lutego 1962 r. o ochro nie dóbr kultury (Dz. U. Nr 10, poz. 48, z 1983 r. Nr 38, poz. 173, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 56, poz. 322, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 5, poz. 24, Nr 88, poz. 554 i Nr 115, poz. 741) wprowadza zmiany:
+**Art. 18.** W ustawie z dnia 15 lutego 1962 r. o ochronie d(cid:243)br kultury (Dz. U. Nr 10, poz. 48, z 1983 r. Nr 38, poz. 173, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 56, poz. 322, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 5, poz. 24, Nr 88, poz. 554 i Nr 115, poz. 741) wprowadza się następujące zmiany:
 
-**Art. 19.** W ustawie z dnia 15 lutego 1962 r. o obywa telstwie polskim (Dz. U. Nr 10, poz. 49, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 114, poz. 739) wprowadza zmiany:
+**Art. 19.** W ustawie z dnia 15 lutego 1962 r. o obywatelstwie polskim (Dz.U. Nr 10, poz. 49, z 1975 r. Nr 17, poz. 94, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 114, poz. 739) wprowadza się następujące zmiany:
 
 **Art. 16.**
 
-1. Prezydent Rzeczypospolitej Polskiej nadaje obywatelstwo polskie i na zrzeczenie obywatelstwa polskiego.
+1. Prezydent Rzeczypospolitej Polskiej nadaje obywatelstwo polskie i wyraża zgodę na zrzeczenie się obywatelstwa polskiego.
 
-2. Podania do Prezydenta Rzeczypospo litej Polskiej o nadanie obywatelstwa polskiego oraz o zgody na zrzeczenie obywatelstwa polskie go osoby w Polsce wno za starosty, a za za - za twem konsula Rzeczypospolitej Pol skiej.
+2. Podania do Prezydenta Rzeczypospolitej Polskiej o nadanie obywatelstwa polskiego oraz o wyrażenie zgody na zrzeczenie się obywatelstwa polskiego, osoby zamieszkałe w Polsce wnoszą za pośrednictwem starosty, a zamieszkałe za granicą - za pośrednictwem konsula Rzeczypospolitej Polskiej.
 
 **Art. 17.**
 
-1. w sprawie uznania za obywa tela polskiego wydaje wojewoda, o ile przepisy innych ustaw nie inaczej.
+1. Decyzję w sprawie uznania za obywatela polskiego wydaje wojewoda, o ile przepisy innych ustaw nie stanowią inaczej.
 
-2. Decyzje w sprawach w art. 6 ust. 3 oraz wart. 10 i 11
+2. Decyzje w sprawach określonych w art. 6 ust. 3 oraz w art. 10 i 11 wydają:
 
-- **1)** miejscowo starosta w stosunku do osób w Polsce,
-- **2)** konsul Rzeczypospolitej Polskiej w stosunku do osób za
+- **1)** właściwy miejscowo starosta - w stosunku do os(cid:243)b zamieszkałych w Polsce,
+- **2)** konsul Rzeczypospolitej Polskiej - w stosunku do os(cid:243)b zamieszkałych za granicą.
 
-3. o wyborze obywatel stwa obcego, o którym mowa wart. 6 ust. l, i o zgody na nabycie obywatelstwa polskiego, o którym mowa wart. 8 ust. 5 pkt 3 i ust. 6 oraz wart. 12 ust. 3 i 4, a o zgody na przez dzieci obywatel stwa polskiego, o którym mowa wart. 13 ust. 3, przyjmuje:
+3. Oświadczenie o wyborze obywatelstwa obcego, o kt(cid:243)rym mowa w art. 6 ust. 1 i o wyrażeniu zgody na nabycie obywatelstwa polskiego, o kt(cid:243)rym mowa w art. 8 ust. 5 pkt 3 i ust. 6 oraz w art. 12 ust. 3 i 4, a także o wyrażeniu zgody na utratę przez dzieci obywatelstwa polskiego, o kt(cid:243)rym mowa w art. 13 ust. 3, przyjmuje:
 
-- **1)** miejscowo starosta - od osób w Polsce,
-- **2)** konsul Rzeczypospolitej Polskiej od osób za
+- **1)** właściwy miejscowo starosta - od os(cid:243)b zamieszkałych w Polsce,
+- **2)** konsul Rzeczypospolitej Polskiej - od os(cid:243)b zamieszkałych za granicą.
 
-4. Posiadanie i obywatelstwa pol skiego stwierdza wojewoda. Odmowa stwierdzenia posiadania obywatel stwa polskiego lub jego utraty puje w drodze decyzji administracyj nej.
-
-5. W sprawach, o których mowa wart. 6 ust. 2 i wart. 13 ust. 4, przekazanych do orzeka polski. Rzeczowo jest rejonowy, jako opie miejsca zamiesz kania dziecka w Polsce, a nie ma ono miejsca zamieszkania w Polsce miejsca jego pobytu w Polsce. W razie braku tych podstaw wym jest Rejonowy dla m. st. Warszawy.
+4. Posiadanie i utratę obywatelstwa polskiego stwierdza wojewoda. Odmowa stwierdzenia posiadania obywatelstwa polskiego lub jego utraty następuje w drodze decyzji administracyjnej. przekazanych do rozstrzygnięcia sądowi, orzeka sąd polski. Rzeczowo właściwym jest sąd rejonowy, działający jako władza opiekuńcza. Miejscową właściwość sądu określa się według miejsca zamieszkania dziecka w Polsce, a jeżeli nie ma ono miejsca zamieszkania w Polsce - według miejsca jego pobytu w Polsce. W razie braku tych podstaw właściwym jest Sąd Rejonowy dla m. st. Warszawy.
 
 **Art. 18.**
 
-1. O miejscowej wojewody - w sprawach wart. 17 ust. 4 - kolejno: miejsce za mieszkania osoby, której nie ma miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw, jest wojewoda war szawski.
+1. O właściwości miejscowej wojewody - w sprawach określonych w art. 17 ust. 4 - stanowią kolejno: miejsce zamieszkania osoby, kt(cid:243)rej postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku tych podstaw, właściwy jest wojewoda warszawski.
 
-2. O miejscowej starosty w sprawach wart. 16 ust. 2 oraz wart. 17 w ust. 2 pkt 1 i w ust. 3 pkt 1 kolejno: miej sce zamieszkania osoby, której powanie ma miejsce jej po bytu, miejsce jej ostatniego zamiesz kania lub pobytu. W razie braku tych podstaw jest Prezydent m.st. Warszawy jako organ wykonaw czy gminy Warszawa-Centrum.
+2. O właściwości miejscowej starosty w sprawach określonych w art. 16 ust. 2 oraz w art. 17 w ust. 2 pkt 1 i w ust. 3 pkt 1 stanowią kolejno: miejsce zamieszkania osoby, kt(cid:243)rej postępowanie ma dotyczyć, miejsce jej pobytu, miejsce jej ostatniego zamieszkania lub pobytu. W razie braku z tych podstaw, właściwy jest Prezydent m.st. Warszawy jako organ wykonawczy gminy WarszawaCentrum.
 
-**Art. 18a.** Prezydent Rzeczypospolitej Polskiej w drodze tryb w sprawach o nadanie lub zgody na zrzeczenie obywatelstwa polskiego oraz wzory i wniosków.
+**Art. 18a.** Prezydent Rzeczypospolitej Polskiej określi, w drodze rozporządzenia, szczeg(cid:243)łowy tryb postępowania w sprawach o nadanie lub wyrażenie zgody na zrzeczenie się obywatelstwa polskiego oraz wzory zaświadczeń i wniosk(cid:243)w.
 
-**Art. 18b.** Określone w ustawie zadania i kompe tencje starosty zadaniami z zakresu a dministracji
+**Art. 18b.** Określone w ustawie zadania i kompetencje starosty są zadaniami z zakresu administracji rządowej.".
 
-**Art. 20.** W ustawie z dnia 31 maja 1962 r. - Prawo lotn icze (Dz. U. Nr 32, poz. 153, z 1984 r. Nr 53, poz. 272, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 45, poz. 199 i z 1997 r. Nr 88, poz. 554) wart. 50 wprowadza na zmiany:
+**Art. 20.** W ustawie z dnia 31 maja 1962 r. - Prawo lotnicze (Dz.U. Nr 32, poz. 153, z 1984 r. Nr 53, poz. 272, z 1987 r. Nr 33, poz. 180, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 35, poz. 192, z 1996 r. Nr 45, poz. 199 i z 1997 r. Nr 88, poz. 554) w art. 50 wprowadza się następujące zmiany:
 
-**Art. 21.** W ustawie z dnia 21 maja 1963 r. o substan cjach (Dz. U. Nr 22, poz. 116, z 1983 r. Nr 6, poz. 35 i z 1996 r. Nr 24, poz. 110) wart. 11 w ust. 1 wy razy "do jednostek radom narodowym prezydia wojewódzkich rad narodowych (rad narodo wych miast z województw)" wyrazami "do gminnych, powiatowych i wojewódz kich jednostek organizacyjnych - za gmin, powiatów i wo jewództw miast, miasta na prawach powia tów)".
+**Art. 21.** W ustawie z dnia 21 maja 1963 r. o substancjach trujących (Dz.U. Nr 22, poz. 116, z 1983 r. Nr 6, poz. 35 i z 1996 r. Nr 24, poz. 110) w art. 11 w ust. 1 wyrazy (cid:132)do jednarodowych miast wyłączonych z wojew(cid:243)dztw)(cid:148) zastępuje się wyrazami (cid:132)do gminnych, powiatowych i wojew(cid:243)dzkich samorządowych jednostek organizacyjnych zarządy właściwych: gmin, powiat(cid:243)w i samorząd(cid:243)w wojew(cid:243)dztw (zarządy miast, miasta na prawach powiat(cid:243)w)(cid:148).
 
-**Art. 22.** W ustawie z dnia 29 czerwca 1963 r. o zago spodarowaniu wspólnot gruntowych (Dz. U. Nr 28, poz. 169, z 1982 r. Nr 11, poz. 80 i z 1990 r. Nr 34, poz. 198) wprowadza zmiany:
+**Art. 22.** W ustawie z dnia 29 czerwca 1963 r. o zagospodarowaniu wsp(cid:243)lnot gruntowych (Dz. Nr 28, poz. 169, z 1982 r. Nr 11, poz. 80, z 1990 r. Nr 34, poz. 198 i z 1995 r. Nr 141, poz. 692) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 23 kwietnia 1964 r. - Ko deks cywilny (Dz. U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741, Nr 117, poz. 751 i Nr 157, poz. 1040) wprowadza na zmiany:
+**Art. 23.** W ustawie z dnia 13 listopada 1963 r. o zwalczaniu chor(cid:243)b zakaźnych (Dz.U. Nr 50, poz. 279, z 1971 r. Nr 12, poz. 115, z 1974 r. Nr 47, poz. 280, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i z 1997 r. Nr 60, poz. 369) wprowadza się następujące zmiany:
 
-**Art. 25.** W ustawie z dnia 17 listopada 1964 r. - Ko deks cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr73, poz. 350 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944) wprowadza zmiany:
+**Art. 24.** W ustawie z dnia 23 kwietnia 1964 r. - Kodeks cywilny (Dz.U. Nr 16, poz. 93, z 1971 r. Nr 27, poz. 252, z 1976 r. Nr 19, poz. 122, z 1982 r. Nr 11, poz. 81, Nr 19, poz. 147 i Nr 30, poz. 210, z 1984 r. Nr 45, poz. 242, z 1985 r. Nr 22, poz. 99, z 1989 r. Nr 3, poz. 11, z 1990 r. Nr 34, poz. 198, Nr 55, poz. 321 i Nr 79, poz. 464, z 1991 r. Nr 107, poz. 464 i Nr 115, poz. 496, z 1993 r. Nr 17, poz. 78, z 1994 r. Nr 27, poz. 96, Nr 85, poz. 388 i Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 114, poz. 542, Nr 139, poz. 646 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 272, Nr 115, poz. 741 i Nr 117, poz. 751) wprowadza się następujące zmiany:
 
-**Art. 26.** W ustawie z dnia 31 marca 1965 r. o szym szkolnictwie wojskowym (Dz. U. z 1992 r. Nr 10, poz. 40, z 1996 r. Nr 7, poz. 44 oraz z 1997 r. Nr 96, poz. 590, Nr 107, poz. 688, Nr 115, poz. 741 i Nr 121, poz. 700) po art. 54a dodaje art. 54b w brzmieniu: "Art. 54b. przez ministra do spraw jest wyspecjalizowane kadry do wykonywania z i a kadry naukowe i dydak tyczne dla i jednostek badawczo -rozwojowych nadzorowanych przez mi nistra do spraw nych."
+**Art. 25.** W ustawie z dnia 17 listopada 1964 r. - Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703 oraz z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 113, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944) wprowadza się następujące zmiany:
 
-**Art. 27.** W ustawie z dnia 30 czerwca 1970 r. o stwowej Inspekcji Skupu i Przetwórstwa Rolnych (Dz. U. Nr 16, poz. 137 oraz z 1975 r. Nr 16, poz. 91) wprowadza zmiany:
+**Art. 63³.** W sprawach o ochronę interes(cid:243)w konsument(cid:243)w, powiatowy (miejski) rzecznik konsument(cid:243)w może wytaczać pow(cid:243)dztwa na rzecz obywateli, a także wstępować, za zgodą powoda, do postępowania w tych sprawach w każdym jego stadium.
+
+**Art. 63⁴.** W sprawach, o kt(cid:243)rych mowa w art. 63 , do powiatowego (miejskiego) rzecznika konsument(cid:243)w stosuje się odpowiednio przepisy o prokuratorze.";
+
+**Art. 26.** W ustawie z dnia 31 marca 1965 r. o wyższym szkolnictwie wojskowym (Dz.U. z 1992 r. Nr 10, poz. 30 i z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 96, poz. 590, Nr 107, poz. 688, Nr 115, poz. 741 i Nr 121, poz. 700 po art. 54a dodaje się art. 54b w brzmieniu: "Art. 54b. Akademią nadzorowaną przez ministra właściwego do spraw wewnętrznych jest Szkoła Gł(cid:243)wna Służby Pożarniczej przygotowująca wyspecjalizowane kadry do wykonywania zadań związanych z ochroną przeciwpożarową i ochroną ludności, a także kadry naukowe i dydaktyczne dla szk(cid:243)ł i jednostek badawczo-rozwojowych nadzorowanych przez ministra właściwego do spraw wewnętrznych.".
+
+**Art. 27.** W ustawie z dnia 30 czerwca 1970 r. o Państwowej Inspekcji Skupu i Przetw(cid:243)rstwa Artykuł(cid:243)w Rolnych (Dz. U. Nr 16, poz. 137 oraz z 1975 r. Nr 16, poz. 91) wprowadza się następujące zmiany:
 
 **Art. 2b.**
 
-1. Wojewódzki inspektor skupu i przetwór stwa rolnych wykonuje w imieniu wojewody zadania i kompe tencje Inspekcji Skupu i Przetwórstwa Rolnych w usta wie i przepisach.
+1. Wojew(cid:243)dzki inspektor skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych wykonuje w imieniu wojewody zadania i kompetencje Inspekcji odrębnych przepisach.
 
-2. Wojewódzkiego inspektora skupu i przetwórstwa rolnych po i wojewoda po opinii Inspektora Skupu i Przetwórstwa Rol nych.
+2. Wojew(cid:243)dzkiego inspektora skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych powołuje i odwołuje wojewoda po zasięgnięciu opinii Gł(cid:243)wnego Inspektora Skupu i Przetw(cid:243)rstwa Artykuł(cid:243)w Rolnych.
 
-3. wojewódzkiego inspektora skupu i przetwórstwa rolnych i wojewoda na wniosek wojewódzkiego inspektora skupu i przetwórstwa rol nych.
+3. Zastępcę wojew(cid:243)dzkiego inspektora skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych powołuje i odwołuje wojewoda na wniosek wojew(cid:243)dzkiego inspektora skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych.
 
-4. Wojewódzki inspektor skupu i przetwór stwa rolnych wykonuje swo je zadania i kompetencje przy pomocy wojewódzkiego inspektoratu skupu i przetwórstwa rolnych.
+4. Wojew(cid:243)dzki inspektor skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych wykonuje swoje zadania i kompetencje przy pomocy wojew(cid:243)dzkiego inspektoratu skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych.
 
-**Art. 2c.** W administracyjnym orga nem pierwszej instancji jest wojewódzki inspektor skupu i przetwórstwa rolnych, a organem stopnia Inspektor Skupu i Przetwórstwa Rolnych.
+**Art. 2c.** W postępowaniu administracyjnym organem pierwszej instancji jest wojew(cid:243)dzki inspektor skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych, a organem wyższego stopnia - Gł(cid:243)wny Inspektor Skupu i Przetw(cid:243)rstwa Artykuł(cid:243)w Rolnych.
 
-**Art. 2d.** Wojewoda, na wniosek wojewódzkiego inspektora skupu i przetwórstwa artyku rolnych lub za jego po powiatom, w drodze porozumie nia, prowadzenie spraw z zakresu wojewódzkiego inspektora skupu i przetwórstwa rolnych, w tym wydawanie w jego imieniu decyzji admi nistracyjnych." ;
+**Art. 2d.** Wojewoda, na wniosek wojew(cid:243)dzkiego inspektora skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych lub za jego zgodą, może powierzyć powiatom, w drodze porozumienia, prowadzenie spraw z zakresu właściwości wojew(cid:243)dzkiego inspektora skupu i przetw(cid:243)rstwa artykuł(cid:243)w rolnych, w tym wydawanie w jego imieniu decyzji administracyjnych.";
 
-**Art. 28.** W ustawie z dnia 25 listopada 1970 r. o wa runkach zdrowotnych i (Dz. U. Nr 29, poz. 245, z 1971 r. Nr 12, poz. 115, z 1985 r. Nr 12, poz. 49, z 1989 r. Nr 35, poz. 192, z 1992 r. Nr 33, poz. 144 i Nr 91, poz. 456 oraz z 1997 r. Nr 43, poz. 272, Nr 60, poz. 369 i Nr 88, poz. 554) wprowadza zmiany:
+**Art. 28.** W ustawie z dnia 25 listopada 1970 r. o warunkach zdrowotnych żywności i żywienia (Dz.U. Nr 29, poz. 245, z 1971 r. Nr 12, poz. 115, z 1985 r. Nr 12, poz. 49, z 1989 r. Nr 35, poz. 192, z 1992 r. Nr 33, poz. 144 i Nr 91, poz. 456 oraz z 1997 r. Nr 43, poz. 272, Nr 60, poz. 369 i Nr 88, poz. 554) wprowadza się następujące zmiany:
 
-**Art. 29.** W ustawie z dnia 10 kwietnia 1974 r. o ewi dencji i dowodach osobistych (Dz. U. z 1984 r. Nr 32, poz. 174, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 113, poz. 733) wart. 14 w ust. 2 wyraz "organ" wyrazem "staro sta".
+**Art. 29.** W ustawie z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz.U. z 1984 r. Nr 32, poz. 174, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 oraz z 1997 r. Nr 113, poz. 733) w art. 14 w ust. 2 wyraz "organ" zastępuje się wyrazem "starosta".
 
-**Art. 30.** W ustawie z dnia 29 maja 1974 r. o zaopa trzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 1983 r. Nr 13, poz. 68, z 1990 r. Nr 34, poz. 198, Nr 36, poz. 206, z 1991 r. Nr 104, poz.450, z 1992 r. Nr 21, poz. 84, z 1993 r. Nr 129, poz. 602, z 1994 r. Nr 10, poz. 37, z 1995 r. Nr 4, poz.17 i Nr 138, poz. 681. z 1996 r. Nr 136, poz. 636 oraz z 1997 r. Nr 28, poz. 153) wprowadza zmiany:
+**Art. 30.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalid(cid:243)w wojennych i wojskowych oraz ich rodzin (Dz.U. z 1983 r. Nr 13, poz. 68, z 1990 r. Nr 34, poz. 198, Nr 36, poz.206, z 1991 r. Nr 104, poz.450, z 1992 r. Nr 21, poz.84, z 1993 r. Nr 129, poz.602, z 1994 r. Nr 10, poz.37, z 1995 r. Nr 4, poz.17 i Nr 138, poz.681, z 1996 r. Nr 136, poz. 636 oraz z 1997 r. Nr 28, poz. 153) wprowadza się następujące zmiany:
 
-**Art. 31.** W ustawie z dnia 26 czerwca 1974 r. - Ko deks pracy (Dz. U. z 1998 r. Nr 21, poz. 94) wprowadza zmiany:
+**Art. 31.** W ustawie z dnia 26 czerwca 1974 r. - Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94) wprowadza się następujące zmiany:
 
-**Art. 32.** W ustawie z dnia 18 lipca 1974 r. o fundu szu alimentacyjnym (Dz. U. z 1991 r. Nr 45, poz. 200 oraz z 1997 r. Nr 121, poz. 770) wart. 9 wyraz we" wyrazem "publiczne".
+**Art. 32.** W ustawie z dnia 18 lipca 1974 r. o funduszu alimentacyjnym (Dz.U. z 1991 r. Nr 45, poz.200 oraz z 1997 r. Nr 121, poz. 770)) w art. 9 wyraz "państwowe" zastępuje się wyrazem "publiczne".
 
-**Art. 33.** W ustawie z dnia 24 1974 r. Prawo wodne (Dz. U. Nr 38, poz. 230, z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 47, poz. 299, Nr 88, poz. 554 i Nr 133, poz. 885) wpro wadza zmiany:
+**Art. 33.** W ustawie z dnia 24 października 1974 r. - Prawo wodne (Dz.U. Nr 38, poz. 230, z 1980 r. Nr 3, poz. 6, z 1983 r. Nr 44, poz. 201, z 1989 r. Nr 26, poz. 139 i Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198 i Nr 39, poz. 222, z 1991 r. Nr 32, poz. 131 i Nr 77, poz. 335, z 1993 r. Nr 40, poz. 183, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 47, poz. 243, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 47, poz. 299, Nr 88, poz. 554 i Nr 133, poz. 885) wprowadza się następujące zmiany:
 
-**Art. 34.** W ustawie z dnia 12 czerwca 1975 o z wypadków przy pracy i cho rób zawodowych (Dz. U. z 1983 r. Nr 30, poz.144, z 1989 r. Nr 35, poz.192, z 1990 r. Nr 36, poz. 206, z 1991 r. Nr 94, poz.422, z 1995 r. Nr 4, poz.17 oraz z 1996 r. Nr 24, poz.110 i Nr 100, poz.461) wprowadza zmiany:
+**Art. 34.** W ustawie z dnia 12 czerwca 1975 r. o świadczeniach z tytułu wypadk(cid:243)w przy pracy i chor(cid:243)b zawodowych (Dz. U. z 1983 r. Nr 30, poz.144, z 1989 r. Nr 35, poz.192, z 1990 r. Nr 36, poz.206, z 1991 r. Nr 94, poz.422, z 1995 r. Nr 4, poz.17 oraz z 1996 r. Nr 24, poz.110 i Nr 100, poz.461) wprowadza się następujące zmiany:
 
-**Art. 35.** W ustawie z dnia 18 grudnia 1976 r. o ubez pieczeniu osób oraz ich rodzin (Dz. U. z 1989 r. Nr 46, poz. 250, z 1990 r. Nr 36, poz. 206, z 1991 r. Nr 110, poz. 474, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 100, poz. 461 i Nr 124, poz. 585 oraz z 1997 r. Nr 28, poz. 153) wart. 22 ust.3 otrzymuje brzmienie: ,,3. Gminy, powiaty oraz organy administracji z kopie o wpisie do ewidencji oraz kopie koncesji udzielonych osobom fizycznym i jednost kom organizacyjnym nie osobo prawnej, jak kopie decyzji o z ewidencji lub o koncesji. "
+**Art. 35.** W ustawie z dnia 18 grudnia 1976 r. o ubezpieczeniu społecznym os(cid:243)b prowadzących działalność gospodarczą oraz ich rodzin (Dz. U. z 1989 r. Nr 46, poz.250, z 1990 r. Nr 36, poz.206, z 1991 r. Nr 110, poz.474, z 1995 r. Nr 4, poz.17, z 1996 r. Nr 100, poz.461 i Nr 124, poz.585 oraz z 1997 r. Nr 28, poz.153) w art. 22 ust.3 otrzymuje brzmienie: "3. Gminy, powiaty oraz organy administracji rządowej przekazują Zakładowi Ubezpieczeń Społecznych z urzędu kopie zaświadczeń o wpisie do ewidencji oraz kopie koncesji udzielonych osobom fizycznym i jednostkom organizacyjnym nie mającym osobowości prawnej, jak r(cid:243)wnież kopie decyzji o wykreśleniu z ewidencji lub o cofnięciu koncesji.".
 
-**Art. 36.** W ustawie z dnia 31 stycznia 1980 r. o ochronie i (Dz. U. z 1994 Nr 49, poz. 196 , z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496, Nr 132, poz. 622 oraz z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885) wprowadza zmiany:
+**Art. 36.** W ustawie z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. Nr 49, poz. 196 , z 1995 r. Nr 90, poz. 446, z 1996 r. Nr 106, poz. 496 , Nr 132, poz. 622 oraz z 1997 r. Nr 46, poz. 296, Nr 96, poz. 592, Nr 121, poz. 770 i Nr 133, poz. 885) wprowadza się następujące zmiany:
 
-**Art. 37.** W ustawie z dnia 6 maja 1981 r. o pracow niczych ogrodach (Dz. U. z 1996 r. Nr 85, poz. 390 i z 1997 r. Nr 141, poz. 943) wprowadza na zmiany:
+**Art. 37.** W ustawie z dnia 6 maja 1981 r. o pracowniczych ogrodach działkowych (Dz.U. z 1996 r. Nr 85, poz. 390 i z 1997 r. Nr 141, poz. 943) wprowadza się następujące zmiany:
 
-**Art. 38.** W ustawie z dnia 26 stycznia 1982 r. - Kar ta Nauczyciela (Dz. U. z 1997 r. Nr 56, poz. 357) wpro wadza zmiany:
+**Art. 38.** W ustawie z dnia 26 stycznia 1982 r. - Karta Nauczyciela (Dz.U. z 1997 r. Nr 56, poz. 357) wprowadza się następujące zmiany:
 
-**Art. 41.** W ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz. U. Nr 16, poz. 124 i Nr 25, poz. 187, z 1983 r. Nr 5, poz. 33, z 1986 r. Nr 42, poz. 202, z 1990 r. Nr 36, poz. 206, z 1995 Nr 4, poz. 17, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 28, poz. 153, Nr 75, poz. 471 i Nr 141, poz. 943) wprowadza zmiany:
+**Art. 39.** W ustawie z dnia 26 lutego 1982 r. o cenach (Dz.U. z 1988 r. Nr 27, poz. 195, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 100, poz. 442, z 1993 r. Nr 11, poz. 50, z 1994 r. Nr 111, poz. 536, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 54, poz. 348 i Nr 160, poz. 1085) art. 18 otrzymuje brzmienie: "Art. 18. 1. Ceny urzędowe i marże handlowe urzędowe ustala, w drodze rozporządzenia, minister właściwy do spraw finans(cid:243)w publicznych w porozumieniu z ministrem właściwym do spraw gospodarki, z zastrzeżeniem ust. 2-4. 2. Rada Ministr(cid:243)w, w drodze rozporządzenia, może upoważnić inny organ administracji rządowej do:
 
-**Art. 42.** W ustawie z dnia 6 lipca 1982 o radcach prawnych (Dz. U. Nr 19, poz. 145, z 1989 r. Nr 33, poz. 175, z 1996 r. Nr 106, poz. 496 i z 1997 r. Nr 75, poz. 471) wprowadza zmiany:
+**Art. 40.** W ustawie z dnia 26 marca 1982 r. o scalaniu i wymianie grunt(cid:243)w (Dz.U. z 1989 r. Nr 58, poz. 349, z 1990 r. Nr 34, poz. 198 i z 1994 r. Nr 127, poz. 627) wprowadza się następujące zmiany:
 
-**Art. 43.** W ustawie z dnia 6 lipca 1982 r. o wieczystych i hipotece (Dz. U. Nr 19, poz. 147, z 1991 r. Nr 22, poz. 92 i Nr 115, poz. 496, z 1994 r. Nr 85, poz. 388, z 1996 r. Nr 107, poz. 499 oraz z 1997 r. Nr 117, poz. 752, Nr 137, poz. 926 i Nr 140, poz. 940) wart. 66 wyraz "gminy" wyrazami "jednostki sa terytorialnego".
+**Art. 41.** W ustawie z dnia 26 maja 1982 r. - Prawo o adwokaturze (Dz.U. Nr 16, poz. 124 i Nr 25, poz. 187, z 1983 r. Nr 5, poz. 33, z 1986 r. Nr 42, poz. 202, z 1990 r. Nr 36, poz. 206, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 77, poz. 367 oraz z 1997 r. Nr 28, poz. 153, Nr 75, poz. 471 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
-**Art. 44.** W ustawie z dnia 6 lipca 1982 r. o zasadach prowadzenia na terytorium Polskiej Rzeczypospolitej Ludowej gospodarczej w zakresie drobnej przez zagraniczne osoby prawne i fizycz ne (Dz. U. z 1989 r. Nr 27, poz. 148 i Nr 74, poz. 422, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591 oraz z 1997 r. Nr 121, poz. 769 i 770) wprowadza zmiany:
+**Art. 42.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz.U. Nr 19, poz. 145, z 1989 r. Nr 33, poz. 175, z 1996 r. Nr 106, poz. 496 i z 1997 r. Nr 75, poz. 471) wprowadza się następujące zmiany:
 
-**Art. 45.** W ustawie z dnia 8 1982 o organizacjach rolników (Dz. U. Nr 32, poz. 217) wart. 5 w ust. 1 i 2 wyrazy "ad ministracji wyrazami "ad ministracji i jednostek terytorial nego".
+**Art. 43.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz.U. Nr 19, poz. 147, z 1991 r. Nr 22, poz. 92 i Nr 115, poz. 496, z 1994 r. Nr 85, poz. 388, z 1996 r. Nr 107, poz. 499 oraz z 1997 r. Nr 117, poz. 752, Nr 137, poz. 926 i Nr 140, poz. 940) w art. 66 wyraz (cid:132)gminy(cid:148) zastępuje się wyrazami (cid:132)jednostki samorządu terytorialnego(cid:148).
 
-**Art. 46.** W ustawie z dnia 26 1982 r. o w sprawach nieletnich (Dz. U. Nr 35, poz. 228, z 1992 r. Nr 24, poz. 101 i z 1995 r. Nr 89, poz.
+**Art. 44.** W ustawie z dnia 6 lipca 1982 r. o zasadach prowadzenia na terytorium Polskiej Rzeczypospolitej Ludowej działalności gospodarczej w zakresie drobnej wytw(cid:243)rczości przez zagraniczne osoby prawne i fizyczne (Dz.U. z 1989 r. Nr 27, poz. 148 i Nr 74, poz. 422, z 1991 r. Nr 60, poz. 253 i Nr 111, poz. 480, z 1994 r. Nr 121, poz. 591 oraz z 1997 r. Nr 121, poz. 769 i 770) wprowadza się następujące zmiany:
 
-**Art. 47.** W ustawie z dnia 26 1982 r. o wychowaniu w i alkoho lizmowi (Dz. U. Nr 35, poz. 230, z 1984 r. Nr 34, poz. 184, z 1987 r. Nr 33, poz. 180, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, Nr 73, poz. 431, z 1991 r. Nr 73, poz. 321 i Nr 94, poz. 419, z 1993 r. Nr 40, poz. 184, z 1996 r. Nr 127, poz. 593 oraz z 1997 r. Nr 88, poz. 554, Nr 113, poz. 732 i Nr 121, poz. 770) wprowadza na zmiany:
+**Art. 45.** W ustawie z dnia 8 października 1982 r. o społeczno-zawodowych organizacjach rolnik(cid:243)w (Dz.U. Nr 32, poz. 217) w art. 5 w ust. 1 i 2 wyrazy "administracji pańrytorialnego".
 
-**Art. 48.** W ustawie z dnia 14 grudnia 1982 r. o za opatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 40, poz. 267, z 1984 r. Nr 52, poz. 268 i 270, z 1986 r. Nr 1, poz. 1, z 1989 r. Nr 35, poz. 190 i 192, z 1990 r. Nr 10, poz. 58 i 61, Nr 36, poz. 206, Nr 66, poz. 390 i Nr 87, poz. 506, z 1991 r. Nr 7, poz. 24, Nr 80, poz. 350 i Nr 94, poz. 422, z 1992 r. Nr 21, poz. 84 i Nr 64, poz. 321, z 1994 r. Nr 74, poz. 339 i Nr 108, poz. 516, z 1995 r. Nr 4, poz. 17, z 1996 r. Nr 100, poz. 461, Nr 136, poz. 636, Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153, Nr 93, poz. 569 i Nr 111, poz. 725) wprowadza na zmiany:
+**Art. 46.** W ustawie z dnia 26 października 1982 r. o postępowaniu w sprawach nieletnich (Dz.U. Nr 35, poz. 228, z 1992 r. Nr 24, poz. 101 i z 1995 r. Nr 89, poz. 443) w art. 76 w § 1 wyrazy "właściwe terenowe organy administracji państwowej" zastępuje się wyrazem "starostowie".
 
-**Art. 49.** W ustawie z dnia 141ipca 1983 r. o narodo wym zasobie archiwalnym i archiwach (Dz. U. Nr 38, poz. 173, z 1989 r. Nr 34, poz. 178, z 1996 r. Nr 106, poz. 496, Nr 156, poz. 775 oraz z 1997 r. Nr 88, poz. 554 i Nr 141, poz. 943) wprowadza zmiany:
+**Art. 47.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. Nr 35, poz. 230, z 1984 r. Nr 34, poz. 184, z 1987 r. Nr 33, poz. 180, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, Nr 73, poz. 431, z 1991 r. Nr 73, poz. 321 i Nr 94, poz. 419, z 1993 r. Nr 40, poz. 184, z 1996 r. Nr 127, poz. 593 oraz z 1997 r. Nr 88, poz. 554, Nr 113, poz. 732 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 50.** W ustawie z dnia 15 listopada 1984 r. - Pra wo przewozowe (Dz. U. z 1995 r. Nr 119, poz. 575 oraz z 1997 r. Nr 23, poz. 117, Nr 96, poz. 591, Nr 101, poz. 629 i Nr 141, poz. 942) wprowadza ce zmiany:
+**Art. 48.** W ustawie z dnia 14 grudnia 1982 r. o zaopatrzeniu emerytalnym pracownik(cid:243)w i ich rodzin (Dz.U. Nr 40, poz. 267, z 1984 r. Nr 52, poz.268 i 270, z 1986 r. Nr 1, poz.1, z 1989 r. Nr 35, poz.190 i 192, z 1990 r. Nr 10, poz.58 i 61, Nr 36, poz.206, Nr 66, poz.390 i Nr 87, poz.506, z 1991 r. Nr 7, poz.24, Nr 80, poz.350 i Nr 94, poz.422, z 1992 r. Nr 21, poz.84 i Nr 64, poz.321, z 1994 r. Nr 74, poz.339 i Nr 108, poz.516, z 1995 r. Nr 4, poz.17, z 1996 r. Nr 100, poz.461, Nr 136, poz.636, Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153, Nr 93, poz. 569 i Nr 111, poz. 725) wprowadza się następujące zmiany:
 
-**Art. 51.** W ustawie z dnia 14 marca 1985 r. o stwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. Nr 90, poz. 575) wprowadza zmiany:
+**Art. 49.** W ustawie z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz.U. Nr 38, poz. 173, z 1989 r. Nr 34, poz. 178, z 1996 r. Nr 106, poz. 496, Nr 156, poz. 775 oraz z 1997 r. Nr 88, poz. 554 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
-**Art. 12b.**
+**Art. 51.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz.U. Nr 12, poz. 49, z 1989 r. Nr 35, poz. 192, z 1991 r. Nr 7, poz. 25, z 1992 r. r 33, poz. 144, z 1995 r. Nr 130, poz. 629, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 107, poz. 684, Nr 60, poz. 369 i Nr 107, poz. 684) wprowadza się następujące zmiany:
 
-1. Starosta, wójt, burmistrz (prezydent miasta) odpowie za polecenia wydane go na podstawie art. 12a ust. 5.
+**Art. 12c.** W sprawach należących do właściwości powiatowego inspektora sanitarnego, w kt(cid:243)rych przedmiot kontroli znajduje się we władaniu powiatu lub w kt(cid:243)rych stroną są organy powiatu albo jednostki organizacyjne im podlegające, uprawnienia organu pierwszej instancji przejmuje wojew(cid:243)dzki inspektor sanitarny.";
 
-2. Polecenie przekazane ustnie wymaga potwierdzenia na
-
-3. Polecenie podlega wykonaniu. Powiatowy inspektor sa nitarny natychmiast spra wojewódzkiemu inspektorowi sa nitarnemu, nie jest w stanie wy polecenia albo polecenie narusza prawo.
-
-4. Polecenie prawo jest nie O polecenia roz strzyga wojewoda.
-
-**Art. 12c.** W sprawach do powiatowego inspektora sanitarnego, w których przedmiot kontroli znajduje we powiatu lub w których organy powiatu albo jednostki organizacyjne im upraw nienia organu pierwszej instancji przej muje wojewódzki inspektor sanitarny.";
-
-**Art. 52.** W ustawie z dnia 21 marca 1985 r. o dro gach publicznych (Dz. U. Nr 14, poz. 60, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 75, poz. 332, z 1993 r. Nr 47, poz. 212, z 1994 r. Nr 127, poz. 627 oraz z 1997 r. Nr 6, poz. 31, Nr 80, poz. 497, Nr 106, poz. 677 i Nr 123, poz. 780) wprowadza zmiany:
-
-**Art. 6.**
-
-1. Do dróg wojewódzkich zalicza drogi inne w art. 5 ust. 1, stano miastami, ma znaczenie dla województwa, i drogi o znaczeniu obronnym nie zaliczone do dróg krajowych.
-
-2. Zaliczenie do kategorii dróg wojewódz kich w drodze sejmi ku województwa w porozumieniu z mini strami do spraw transportu oraz obrony narodowej.
-
-3. Przebieg dróg wojewódzkich ustala sej mik województwa w planie regionalnym po opinii rad powiatów, na obszarze których przebiega droga. Wod niesieniu do dróg na obsza rze miast na prawach powiatu wniosek rady tych miast.";
-
-- **5)** dodaje art. 6a w brzmieniu: "Art. 6a. 1. Do dróg powiatowych zalicza drogi inne wart. 5 ust. 1 i art. 6 ust. 1, miast siedzibami powiatów z siedzi bami gmin i siedzib gmin
-
-2. Zaliczenie do kategorii dróg powiato wych w drodze rady powiatu w porozumieniu z kiem województwa po opinii rad gmin, na obszarze których przebiega droga, oraz po opinii rad powiatów.
-
-3. Przebieg dróg powiatowych ustala ra da powiatu po opinii rad gmin, na obszarze których przebiega droga.";
-
-- **6)** art. 7- 9 brzmienie: "Art. 7. 1. Do dróg gminnych zalicza drogi o znaczeniu lokalnym nie zaliczone do innych kategorii, dróg miejscowym potrzebom, z dróg we
-
-2. Zaliczenie do kategorii dróg gminnych w drodze rady gminy po opinii rady powiatu.
-
-3. Przebieg dróg gminnych ustala rada gminy.
+**Art. 52.** W ustawie z dnia 21 marca 1985 r. o drogach publicznych (Dz.U. Nr 14, poz. 60, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, z 1991 r. Nr 75, poz. 332, z 1993 r. Nr 47, poz. 212, z 1994 r. Nr 127, poz. 627, oraz z 1997 r. Nr 6, poz. 31, Nr 80, poz. 497, Nr 106, poz. 677 i Nr 123, poz. 780) wprowadza się następujące zmiany:
 
 **Art. 8.**
 
-1. Drogi nie zaliczone do kategorii dróg publicznych, w drogi w osiedlach mieszkaniowych, dojazdo we do gruntów rolnych i dojaz dowe do obiektów przez podmioty go place przed dworcami kolejo wymi, autobusowymi i portami dro gami
+1. Drogi nie zaliczone do żadnej kategorii dr(cid:243)g publicznych, w szczeg(cid:243)lności drogi w osiedlach mieszkaniowych, dojazdowe do grunt(cid:243)w rolnych i leśnych, dojazdowe do obiekt(cid:243)w użytkowanych przez podmioty prowadzące działalność gospodarczą, place przed dworcami kolejowymi, autobusowymi i portami są drogami wewnętrznymi.
 
-2. Budowa, utrzymanie, i ozna kowanie dróg do terenu.
+2. Budowa, utrzymanie, zarządzanie i oznakowanie dr(cid:243)g wewnętrznych należy do zarządcy terenu.
 
-3. Finansowanie o których mowa w ust. 2, do terenu.
+3. Finansowanie zadań, o kt(cid:243)rych mowa w ust. 2, należy do zarządcy terenu.
 
-4. Budowa, utrzymanie i oznakowanie dróg z droga mi publicznymi oraz bezpie i organizacji ruchu z funkcjonowaniem do drogi publicznej.
+4. Budowa, utrzymanie i oznakowanie skrzyżowań dr(cid:243)g wewnętrznych z drogami publicznymi oraz urządzeń bezpieczeństwa i orleży do zarządu drogi publicznej.
 
-**Art. 9.** Jeżeli droga dla komunikacji pu blicznej nie zaliczona do kategorii dróg wojewódzkich, powiatowych lub gminnych, zaliczenie do odpowiedniej ka tegorii w drodze dzenia ministra do spraw transportu."; wart. 10:
+**Art. 9.** Jeżeli droga niezbędna dla komunikacji publicznej nie została zaliczona do kategorii dr(cid:243)g wojew(cid:243)dzkich, powiatowych lub gminnych, zaliczenie do odpowiedniej kategorii może nastąpić w drodze rozporządzenia ministra właściwego do spraw transportu.(cid:148);
 
 **Art. 18.**
 
-1. Centralnym organem administracji dowej w sprawach dróg krajowych jest Generalny Dyrektor Dróg Publicznych, do którego
+1. Centralnym organem administracji rządowej właściwym w sprawach dr(cid:243)g krajowych jest Generalny Dyrektor Dr(cid:243)g Publicznych do kt(cid:243)rego należy:
 
-- **1)** wykonywanie dróg krajowych,
-- **2)** realizacja w zakre sie dróg krajowych.
+- **1)** wykonywanie zadań zarządcy dr(cid:243)g krajowych,
+- **2)** realizacja budżetu państwa w zakresie dr(cid:243)g krajowych.
+- **1)** wsp(cid:243)łudział w realizacji polityki transportowej w zakresie dr(cid:243)g,
+- **2)** gromadzenie danych i sporządzanie informacji o sieci dr(cid:243)g publicznych,
+- **3)** nadz(cid:243)r nad przygotowaniem infrastruktury drogowej na potrzeby obrony państwa,
+- **4)** koordynowanie zagadnień powodziowych w zakresie dr(cid:243)g publicznych,
+- **5)** wydawanie zezwoleń na przejazdy po drogach publicznych pojazd(cid:243)w z ładunkiem lub bez ładunku o masie, naciskach osi lub wymiarach przekraczających wielkości określone w odrębnych przepisach, kt(cid:243)rych trasa przekracza granice państwa,
+- **6)** wsp(cid:243)łpraca z administracjami drogowymi innych państw i organizacjami międzynarodowymi.
 
-2. Do Generalnego Dyrektora Dróg Pu blicznych
+3. Generalnego Dyrektora Dr(cid:243)g Publicznych powołuje i odwołuje Prezes Rady Ministr(cid:243)w na wniosek ministra właściwego do spraw transportu.
 
-- **1)** w realizacji polityki transportowej w zakresie dróg,
-- **2)** gromadzenie danych i informacji o sieci dróg publicznych,
-- **3)** nadzór nad przygotowaniem infra struktury drogowej na potrzeby obrony
-- **4)** koordynowanie powo dziowych w zakresie dróg publicz nych,
-- **5)** wydawanie na przejazdy po drogach publicznych pojazdów z lub bez o ma sie, naciskach osi lub wymiarach ne w przepisach, których trasa przekracza granice
-- **6)** z administracjami dro gowymi innych i organiza cjami
+4. Zastępc(cid:243)w Generalnego Dyrektora Dr(cid:243)g Publicznych powołuje i odwołuje minister właściwy do spraw transportu na wniosek Generalnego Dyrektora Dr(cid:243)g Publicznych.
 
-3. Generalnego Dyrektora Dróg Publicz nych i Prezes Rady Ministrów na wniosek ministra wego do spraw transportu.
+5. Generalny Dyrektor Dr(cid:243)g Publicznych realizuje swoje zadania przy pomocy Generalnej Dyrekcji Dr(cid:243)g Publicznych. Generalna Dyrekcja Dr(cid:243)g Publicznych wykonuje r(cid:243)wnież zadania zarządu dr(cid:243)g krajowych.
 
-4. Generalnego Dyrektora Dróg Publicznych i minister do spraw transportu na wniosek Generalnego Dyrektora Dróg Publicznych.
+6. W skład Generalnej Dyrekcji Dr(cid:243)g Publicznych wchodzą oddział centralny w Warszawie oraz następujące oddziały terenowe:
 
-5. Generalny Dyrektor Dróg Publicznych realizuje swoje zadania przy pomocy Generalnej Dyrekcji Dróg Publicznych. Generalna Dyrekcja Dróg Publicznych wykonuje zadania dróg krajowych.
+- **1)** p(cid:243)łnocno-zachodni z siedzibą w Szczecinie,
+- **2)** p(cid:243)łnocny z siedzibą w Gdańsku,
+- **3)** p(cid:243)łnocno-wschodni z siedzibą w Białymstoku,
+- **4)** zachodni z siedzibą w Poznaniu,
+- **5)** wschodni z siedzibą w Lublinie,
+- **6)** południowo-zachodni z siedzibą we Wrocławiu,
+- **7)** południowy z siedzibą w Katowicach,
+- **8)** południowo-wschodni z siedzibą w Krakowie.
 
-6. W Generalnej Dyrekcji Dróg Pu blicznych centralny w Warszawie oraz oddzia terenowe:
+7. Rada Ministr(cid:243)w określi, w drodze rozporządzenia, szczeg(cid:243)łowy zasięg terytorialny oddział(cid:243)w Generalnej Dyrekcji Dr(cid:243)g Publicznych z uwzględnieniem granic powiat(cid:243)w.
 
-- **1)** z w Szczecinie,
-- **2)** z w
-- **3)** z w Bia4) zachodni z w Poznaniu,
-- **5)** wschodni z w Lublinie,
-- **6)** z we
-- **7)** z w Katowicach,
-- **8)** z w Krakowie.
+8. Do oddziału należy:
 
-7. Rada Ministrów w drodze roz tery torialny Generalnej Dyrekcji Dróg Publicznych, z granic powiatów.
+- **1)** wykonywanie zadań zarządu drogi na obszarze jego działania, nia, powierzonych przez Generalnego Dyrektora Dr(cid:243)g Publicznych na podstawie upoważnienia określonego w ust. 9.
 
-8. Do
+9. Generalny Dyrektor Dr(cid:243)g Publicznych może upoważnić pracownik(cid:243)w Generalnej Dyrekcji Dr(cid:243)g Publicznych do załatwiania określonych spraw w jego imieniu w ustalonym zakresie, a w szczeg(cid:243)lności do wydawania decyzji administracyjnych.
 
-- **1)** wykonywanie drogi na obszarze jego
-- **2)** wykonywanie drogi na obszarze jego powie rzonych przez Generalnego Dyrekto ra Dróg Publicznych na podsta wie w ust. 9.
+10. Minister właściwy do spraw transportu, w drodze rozporządzenia, nadaje Generalnej Dyrekcji Dr(cid:243)g Publicznych statut określający jej organizację.
 
-9. Generalny Dyrektor Dróg Publicznych pracowników Gene ralnej Dyrekcji Dróg Publicznych do za spraw w jego imieniu w ustalonym zakresie, a w do wydawania decyzji administracyjnych.
-
-10. Minister do spraw transpor tu, w drodze nadaje Generalnej Dyrekcji Dróg Publicznych statut jej
-
-11. Minister do spraw transportu w drodze tryb informacji, gromadzenia i danych o sieci dróg pu blicznych.
+11. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, tryb sporządzania informacji, gromadzenia i udostępniania danych o sieci dr(cid:243)g publicznych.
 
 **Art. 19.**
 
-1. Organ administracji lub jed nostki terytorialnego, do którego sprawy z zakresu planowania, budowy, moder nizacji, utrzymania i ochrony dróg, jest drogi.
+1. Organ administracji rządowej lub jednostki samorządu terytorialnego, do właściwości kt(cid:243)rego należą sprawy z zakresu planowania, budowy, modernizacji, utrzymania i ochrony dr(cid:243)g, jest zarządcą drogi.
 
-2. dróg, z ust. 3, dla dróg:
+2. Zarządcami dr(cid:243)g, z zastrzeżeniem ust. 3, są dla dr(cid:243)g:
 
-- **1)** krajowych - Generalny Dyrektor Dróg Publicznych,
-- **2)** wojewódzkich - wojewódz twa,
-- **3)** powiatowych - powiatu,
-- **4)** gminnych - gminy.
+- **1)** krajowych - Generalny Dyrektor Dr(cid:243)g Publicznych,
+- **2)** wojew(cid:243)dzkich - zarząd wojew(cid:243)dztwa,
+- **3)** powiatowych - zarząd powiatu,
+- **4)** gminnych - zarząd gminy.
 
-3. Generalny Dyrektor Dróg Publicznych jest autostrady wybudowanej na zasadach w ustawie do czasu przekazania jej koncesjonariu szowi w drodze porozumienia zawarte go Generalnym Dyrektorem Dróg Publicznych, Prezesem Agencji Budowy i Eksploatacji Autostrad oraz koncesjonariuszem. Koncesjonariusz autostrady nej na warunkach w umo wie koncesyjnej.
+3. Generalny Dyrektor Dr(cid:243)g Publicznych jest zarządcą autostrady wybudowanej na zasadach określonych w ustawie do czasu przekazania jej koncesjonariuszowi w drodze porozumienia, zawartego pomiędzy Generalnym Dyrektorem Dr(cid:243)g Publicznych, Prezesem Agencji Budowy i Eksploatacji Autostrad oraz koncesjonariuszem. Koncesjonariusz pełni funkcję zarządcy autostrady płatnej na warunkach określonych w umowie koncesyjnej.
 
-4. drogami publicznymi mo przekazywane mi w trybie
+4. Zarządzanie drogami publicznymi może być przekazywane między zarządcami w trybie porozumień.
 
-5. W granicach miast na prawach powia tu wszystkich dróg publicz nych, z autostrad i dróg eks presowych, jest miasta.
+5. W granicach miast na prawach powiatu zarządcą wszystkich dr(cid:243)g publicznych, z wyjątkiem autostrad i dr(cid:243)g ekspresowych, jest zarząd miasta.
 
-**Art. 20.** Do drogi w
+**Art. 20.** Do zarządcy drogi należy w szczeg(cid:243)lności:
 
 **Art. 21.**
 
-1. drogi, o którym mowa wart. 19 ust. 2 pkt 2-4, swoje przy pomocy przez siebie jednostki organizacyjnej drogi. W przypadku gdy jed nostka taka nie zada nia drogi wykonuje
+1. Zarządca drogi, o kt(cid:243)rym mowa w art. 19 ust. 2 pkt 2-4, może wykonywać swoje obowiązki przy pomocy powołanej przez siebie jednostki organizacyjnej będącej zarządem drogi. W przypadku, gdy jednostka taka nie została powołana, zadania zarządu drogi wykonuje zarządca.
 
-2. dróg, o których mowa w ust. 1 oraz art. 18 ust. 5, prawo do:
+2. Zarządy dr(cid:243)g, o kt(cid:243)rych mowa w ust. 1 oraz art. 18 ust. 5, mają prawo do:
 
-- **1)** na grunty do pasa drogowego, jest to do wykonywania nych z utrzymaniem i dróg,
-- **2)** czasowego przejazdu przez grunty do pasa drogo wego w razie przerwy komunikacji na drodze,
-- **3)** ustawiania na gruntach do pasa drogowego przeciw
-
-3. lub grun tów, którzy szkody w wyniku wymienionych w ust. 2, przy odszkodowanie na zasadach w przepisach o gospodarce
+- **1)** wstępu na grunty przyległe do pasa drogowego, jeżeli jest to niezbędne do wykonywania czynności związanych z utrzymaniem i ochrona dr(cid:243)g,
+- **2)** urządzenia czasowego przejazdu przez grunty przyległe do pasa drogowego w razie przerwy komunikacji na drodze,
+- **3)** ustawiania na gruntach przyległych do pasa drogowego zasłon przeciwśnieżnych. w wyniku czynności wymienionych w ust. 2, przysługuje odszkodowanie na zasadach określonych w przepisach o gospodarce nieruchomościami.
 
 **Art. 22.**
 
-1. drogi sprawuje gruntami w pasie drogo wym.
+1. Zarząd drogi sprawuje nieodpłatny trwały zarząd gruntami w pasie drogowym.
 
-2. Grunty, o których mowa w ust. 1, za drogi innym pod miotom gospodarczym w najem albo je w drodze umowy na cele z drogo potrzebami ruchu drogowego i ob
+2. Grunty, o kt(cid:243)rych mowa w ust. 1, zarząd drogi może oddawać innym podmiotom gospodarczym w dzierżawę, najem albo je użyczać w drodze umowy na cele związane z gospodarką drogową, potrzebami ruchu drogowego i obsługi podr(cid:243)żnych.
 
-3. W przypadku nabywania gruntów prze znaczonych pod pas drogowy, drogi z wnioskiem o do konanie lub scalenia nieru zgodnie z przepisami o go spodarce
+3. W przypadku nabywania grunt(cid:243)w przeznaczonych pod pas drogowy, zarząd drogi może wystąpić z wnioskiem o dokonanie podziału lub scalenia nieruchomości zgodnie z przepisami o gospodarce nieruchomościami.(cid:148)
 
-- **11)** wart. 35 w ust. 2 wyrazy "terenowego" i "administracji
-- **12)** art. 36 otrzymuje brzmienie: "Art. 36. W razie samowolnego naruszenia pasa dro gowego lub zarezerwowanego pasa tere nu, drogi orzeka o przy wróceniu ich do stanu poprzedniego.";
-- **13)** wart. 38 ust. 2 i art. 40 ust. 1 wyrazy dro gi" wyrazami drogi";
-- **14)** wart. 39 ust. 3 otrzymuje brzmienie: ,,3. W szczególnie uzasadnionych wypadkach lo kalizowanie w pasie drogowym lub obiektów nie z dro lub potrzebami ruchu, jak umieszczanie takich na obiektach mostowych za ze zwoleniem drogi.";
-- **15)** art. 43 otrzymuje brzmienie: "Art. 43. 1. Obiekty budowlane przy drogach po winny usytuowane w od jezdni co naj mniej: Lp. Rodzaj drogi Na terenie zabudowy Poza terenem miast i wsi zabudowy 1 Autostrada 30m 50 m 2 Droga ekspresowa 20 m 40 m 3 Droga
-    - **a)** krajowa, 10 m 25 m
-    - **b)** wojewódzka, powiatowa 8m 20 m
-    - **c)** gminna 6m 15 m
+- **11)** w art. 35 w ust. 2 skreśla się wyrazy (cid:132)terenowego(cid:148) i (cid:132)administracji państwowej(cid:148);
+- **12)** art. 36 otrzymuje brzmienie: (cid:132)Art. 36. W razie samowolnego naruszenia pasa drogowego lub zarezerwowanego pasa terenu, właściwy zarządca drogi orzeka o przywr(cid:243)ceniu ich do stanu poprzedniego.";
+- **13)** w art. 38 ust. 2 i art. 40 ust. 1 wyrazy (cid:132)zarządu drogi(cid:148) zastępuje się wyrazami (cid:132)zarządcy drogi(cid:148);
+- **14)** art. 39. ust 3 otrzymuje brzmienie: (cid:132) 3. W szczeg(cid:243)lnie uzasadnionych wypadkach lokalizowanie w pasie drogowym urządzeń lub obiekt(cid:243)w nie związanych z gospodarką drogową lub potrzebami ruchu, jak r(cid:243)wnież umieszczanie takich urządzeń na obiektach mostowych może nastąpić wyłącznie za zezwoleniem właściwego zarządcy drogi.(cid:148);
+- **15)** art. 43 otrzymuje brzmienie: (cid:132)Art. 43. 1. Obiekty budowlane przy drogach powinny być usytuowane w odległości od zewnętrznej krawędzi jezdni co najmniej: L.p. Rodzaj drogi Na terenie zabudowy Poza terenem miast i wsi zabudowy
 
-2. W szczególnie uzasadnionych przypad kach drogi wyra na usytuowanie obiektu bu dowlanego przy drodze, o której mowa w ust. 1 lp. 3 tabeli, w mniej szej
+1. Autostrada 30 m 50 m
 
-3. Przepisów ust. 1 lp. 2 i 3 tabeli nie stosu je do podziemnych obiektów teleko munikacyjnych, lokalizowanych poza drogi na terenie zabudowy miast i wsi oraz poza drogi na terenach zalewowych i górskich na warunkach ustalonych przez drogi."
+2. Droga ekspresowa 20 m 40 m
 
-**Art. 53.** W ustawie z dnia 18 kwietnia 1985 r. o ry bactwie (Dz. U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, z 1996 r. Nr 106, poz. 496 i Nr 128, poz. 602 oraz z 1997 r. Nr 88, poz. 554) wprowadza zmiany:
+3. Droga og(cid:243)lnodostępna:
 
-**Art. 54.** W ustawie z dnia 25 listopada 1986 r. o or ganizacji i finansowaniu (Dz. U. z 1989 r. Nr 25, poz. 137 i Nr 74, poz.441, z 1990 r. Nr 36, poz. 206, z 1991 r. Nr 7, poz. 24, Nr 104, poz. 450 i Nr 110, poz. 474, z 1994 r. Nr 84, poz. 385, z 1995 r. Nr 4, poz. 17 i Nr 85, poz. 426 oraz z 1997 r. Nr 121, poz. 770) wprowadza zmiany:
+- **a)** krajowa,
+- **b)** wojew(cid:243)dzka, powiatowa
+- **c)** 10 m gminna 8 m 25 m 6 m 20 m 15 m
 
-**Art. 55.** W ustawie z dnia 15 lipca 1987 r. o Rzeczni ku Praw Obywatelskich (Dz. U. z 1991 r. Nr 109, poz. 471) wart. 13 w ust. 1 w pkt 2 wyrazy "organy gmin i jednostek organizacyjnych teryto rialnego" wyrazami "organy jednostek terytorialnego i jednostek organizacyjnych" .
+2. W szczeg(cid:243)lnie uzasadnionych przypadkach właściwy zarząd drogi może wyrazić zgodę na usytuowanie obiektu budowlanego przy drodze, o kt(cid:243)rej mowa w ust. 1 lp. 3 tabeli, w odległości mniejszej niż określona. obiekt(cid:243)w telekomunikacyjnych, lokalizowanych poza jezdnią drogi na terenie zabudowy miast i wsi oraz poza koroną drogi na terenach zalewowych i g(cid:243)rskich na warunkach ustalonych przez zarząd drogi.(cid:148).
 
-**Art. 56.** W ustawie z dnia 16 lipca 1987 r. o kinema tografii (Dz. U. Nr 22, poz. 127, z 1989 r. Nr 6, poz. 33, Nr 35, poz. 192 i z 1990 r. Nr 89, poz. 517) wprowadza zmiany:
+**Art. 53.** W ustawie z dnia 18 kwietnia 1985 r. o rybactwie śr(cid:243)dlądowym (Dz.U. Nr 21, poz. 91, z 1988 r. Nr 19, poz. 132, z 1989 r. Nr 35, poz. 192, z 1990 r. Nr 34, poz. 198, z 1996 r. Nr 106, poz. 496 i Nr 128, poz. 602 oraz z 1997 r. Nr 88, poz. 554) wprowadza się następujące zmiany:
 
-**Art. 57.** W ustawie z dnia 7 kwietnia 1989 r. - Pra wo o stowarzyszeniach (Dz. U. Nr 20, poz. 104, z 1990 r. Nr 14, poz. 86, z 1996 r. Nr 27, poz. 118 oraz z 1997 r. Nr 121, poz. 769) wprowadza ce zmiany:
+**Art. 54.** W ustawie z dnia 25 listopada 1986 r. o organizacji i finansowaniu ubezpieczeń społecznych (Dz.U. z 1989 r. Nr 25, poz. 137 i Nr 74, poz.441, z 1990 r. Nr 36, poz.206, z 1991 r. Nr 7, poz.24, Nr 104, poz.450 i Nr 110, poz.474, z 1994 r. Nr 84, poz.385, z 1995 r. Nr 4, poz.17 i Nr 85, poz.426 oraz z 1997 r. Nr 121, poz.770) wprowadza się następujące zmiany:
 
-**Art. 58.** W ustawie z dnia 17 maja 1989 r. o izbach lekarskich (Dz. U. Nr 30, poz. 158, z 1990 r. Nr 20, poz. 120, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 152) wprowadza zmiany:
+**Art. 55.** W ustawie z dnia 15 lipca 1987 r. o Rzeczniku Praw Obywatelskich (Dz.U. z 1991 r. Nr 109, poz. 471) w art. 13 w ust. 1 w pkt 2 wyrazy "organy gmin i jednostek organizacyjnych samorządu terytorialnego" zastępuje się wyrazami "organy jednostek samorządu terytorialnego i samorządowych jednostek organizacyjnych".
 
-**Art. 59.** W ustawie z dnia 17 maja 1989 r. o stosun ku do Katolickiego w Rzeczypospoli tej Polskiej (Dz. U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943 oraz z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 56.** W ustawie z dnia 16 lipca 1987 r. o kinematografii (Dz.U. Nr 22, poz. 127, z 1989 r. Nr 6, poz. 33, Nr 35, poz. 192 i z 1990 r. Nr 89, poz. 517) wprowadza się następujące zmiany:
 
-**Art. 60.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz. U. Nr 30, poz. 163, Nr 43, poz. 241, z 1990 r. Nr 34, poz.198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741 i Nr 121, poz. 770) wprowadza zmiany:
+**Art. 57.** W ustawie z dnia 7 kwietnia 1989 r. - Prawo o stowarzyszeniach (Dz.U. Nr 20, poz. 104, z 1990 r. Nr 14, poz. 86, z 1996 r. Nr 27, poz. 118 oraz z 1997 r. Nr 121, poz.
 
-**Art. 6b.** Głównego Kraju i od Prezes Rady Ministrów na wnio sek ministra do spraw admi nistracji publicznej.
+**Art. 58.** W ustawie z dnia 17 maja 1989 r. o izbach lekarskich (Dz.U. Nr 30, poz. 158, z 1990 r. Nr 20, poz. 120, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 152) wprowadza się następujące zmiany:
 
-**Art. 6c.** Minister do spraw administracji publicznej w drodze nia, wymagania, jakim powinni odpowia wojewódzcy inspektorzy nadzoru geodezyjnego i kartograficznego, geodeci województw, geodeci powiatowi i geode ci gminni.";
+**Art. 59.** W ustawie z dnia 17 maja 1989 r. o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 29, poz. 154, z 1990 r. Nr 51, poz. 297, Nr 55, poz. 321 i Nr 86, poz. 504, z 1991 r. Nr 95, poz. 425 i Nr 107, poz. 459, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590 i Nr 141, poz. 943 oraz z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
+
+**Art. 60.** W ustawie z dnia 17 maja 1989 r. - Prawo geodezyjne i kartograficzne (Dz.U. Nr 30, poz .163, Nr 43, poz. 241, z 1990 r. Nr 34, poz.198, z 1991 r. Nr 103, poz. 446, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349, Nr 115, poz. 741 i Nr 121, poz. 770) wprowadza się następujące zmiany:
+
+**Art. 6b.** Gł(cid:243)wnego Geodetę Kraju powołuje i odwołuje Prezes Rady Ministr(cid:243)w na wniosek ministra właściwego do spraw administracji publicznej.
+
+**Art. 6c.** Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, wymagania jakim powinni odpowiadać wojew(cid:243)dzcy inspektorzy nadzoru geodezyjnego i kartograficznego, geodeci wojew(cid:243)dztw, geodeci powiatowi i geodeci gminni.";
 
 **Art. 7b.**
 
-1. Wojewódzki inspektor nadzoru geode zyjnego i kartograficznego w imieniu wojewody wykonuje zadania nie na rzecz organów admi nistracji geodezyjnej i kartograficznej, a w
+1. Wojew(cid:243)dzki inspektor nadzoru geodezyjnego i kartograficznego działający w imieniu wojewody wykonuje zadania nie zastrzeżone na rzecz organ(cid:243)w administracji geodezyjnej i kartograficznej, a w szczeg(cid:243)lności:
 
-- **1)** kontroluje przestrzega n ie i stosowa nie przepisów ustawy, a w szczegól
-    - **a)** wykonywania prac geodezyjnych i kartograficznych z przepisami ustawy,
-    - **b)** posiadanie zawodo wych przez osoby sa modzielne funkcje w dziedzinie geodezji i kartografii,
+- **1)** kontroluje przestrzeganie i stosowanie przepis(cid:243)w ustawy, a w szczeg(cid:243)lności:
+    - **a)** zgodność wykonywania prac geodezyjnych i kartograficznych z przepisami ustawy,
+    - **b)** posiadanie uprawnień zawodowych przez osoby wykonujące samodzielne funkcje w dziedzinie geodezji i kartografii,
 
-- **2)** kontroluje administracji geodezyjnej i kartograficznej,
-- **3)** z organami kontroli stwowej w zakresie nad zoru geodezyjnego i kartograficznego,
-- **4)** rejestruje lokalne systemy informacji o terenie oraz przechowuje kopie za bazy danych, w tym w bazy danych ewiden cji gruntów i budynków,
-- **5)** prowadzi rejestr granic administracyj nych gmin i powiatów.
+- **2)** kontroluje działania administracji geodezyjnej i kartograficznej,
+- **3)** wsp(cid:243)łdziała z organami kontroli państwowej w zakresie właściwości nadzoru geodezyjnego i kartograficznego,
+- **4)** rejestruje lokalne systemy informacji o terenie oraz przechowuje kopie zabezpieczające bazy danych, w tym w szczeg(cid:243)lności bazy danych ewidencji grunt(cid:243)w i budynk(cid:243)w,
+- **5)** prowadzi rejestr granic administracyjnych gmin i powiat(cid:243)w.
 
-2. W rozumieniu Kodeksu administracyjnego wojewódzki inspektor nadzoru geodezyjnego i kartograficz nego jest organem:
+2. W rozumieniu Kodeksu postępowania administracyjnego wojew(cid:243)dzki inspektor nadzoru geodezyjnego i kartograficznego jest organem:
 
-- **1)** pierwszej instancji w sprawach okre w ustawie,
-- **2)** stopnia w stosunku do organów administracji geodezyjnej i kartograficznej.
+- **2)** wyższego stopnia w stosunku do organ(cid:243)w administracji geodezyjnej i kartograficznej.
 
-**Art. 7c.** Do województwa w
+**Art. 7c.** Do zadań marszałka wojew(cid:243)dztwa należy w szczeg(cid:243)lności:
 
-**Art. 7d.** Do starosty w
+**Art. 7d.** Do zadań starosty należy w szczeg(cid:243)lności:
+
+**Art. 61.** W ustawie z dnia 24 lutego 1990 r. o przeciwdziałaniu praktykom monopolistycznym (Dz.U. z 1997 r. Nr 49, poz. 318, Nr 118, poz. 754 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
 **Art. 21c.**
 
-1. Zadania powiatowego w zakresie ochrony praw konsumen ta wykonuje powiatowy (miejski) rzecznik konsumentów, zwany dalej "rzecznikiem konsumentów".
+1. Zadania samorządu powiatowego w zakresie ochrony praw konsumenta, wykonuje powiatowy (miejski) rzecznik konsument(cid:243)w, zwany dalej "rzecznikiem konsument(cid:243)w".
 
-2. Powiaty w drodze porozumie nia, jedno wspólne stano wisko rzecznika konsumentów.
+2. Powiaty mogą, w drodze porozumienia, utworzyć jedno wsp(cid:243)lne stanowisko rzecznika konsument(cid:243)w.
 
 **Art. 21d.**
 
-1. Rzecznika konsumentów i rada powiatu (rada mia sta na prawach powiatu).
+1. Rzecznika konsument(cid:243)w powołuje i odwołuje rada powiatu (rada miasta na prawach powiatu).
 
-2. Rzecznika konsumentów osób z wy i co najmniej
+2. Rzecznika konsument(cid:243)w powołuje się spośr(cid:243)d os(cid:243)b z wyższym wykształceniem i co najmniej pięcioletnią praktyką zawodową.
 
 **Art. 21e.**
 
-1. Do rzecznika konsumentów w
+1. Do zadań rzecznika konsument(cid:243)w w szczeg(cid:243)lności należy:
 
-- **1)** zapewnienie konsumentom bez poradnictwa i informacji prawnej w zakresie ochrony ich in teresów,
-- **2)** wytaczanie powództw na rzecz konsumentów oraz za ich do po w sprawach o ochro interesów konsumentów,
-- **3)** wniosków w sprawie stanowienia i zmiany przepisów prawa miejscowego w zakresie ochrony interesów konsumentów,
-- **4)** z tery torialnie delegaturami Ochrony Konkurencji i Konsumen tów oraz organizacjami, do któ rych statutowych ochrona interesów konsumentów.
+- **1)** zapewnienie konsumentom bezpłatnego poradnictwa i informacji prawnej w zakresie ochrony ich interes(cid:243)w,
+- **2)** wytaczanie pow(cid:243)dztw na rzecz konsument(cid:243)w oraz wstępowanie, za ich zgodą, do toczącego się postępowania w sprawach o ochronę interes(cid:243)w konsument(cid:243)w,
+- **3)** składanie wniosk(cid:243)w w sprawie stanowienia i zmiany przepis(cid:243)w prawa miejscowego w zakresie ochrony interes(cid:243)w konsument(cid:243)w,
+- **4)** wsp(cid:243)łdziałanie z właściwymi terytorialnie delegaturami Urzędu Ochrony Konkurencji i Konsument(cid:243)w oraz organizacjami, do kt(cid:243)rych zadań statutowych należy ochrona interes(cid:243)w konsument(cid:243)w.
 
-2. Rzecznik konsumentów udzie obywatelom w innych for mach pomocy prawnej w zakresie ochrony praw konsumentów.
+2. Rzecznik konsument(cid:243)w może udzielać obywatelom także w innych formach pomocy prawnej w zakresie ochrony praw konsument(cid:243)w.
 
-**Art. 21f.** Zarząd powiatu, na wniosek rzecznika konsumentów, prowadze nie poradnictwa konsu menckiego na obszarze po wiatu organizacjom, do których statutowych ochrona interesów konsu mentów." W ustawie z dnia 6 kwietnia 1990 r. o Poli cji (Dz. U. Nr 30, poz. 179, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z.1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, z 1995 r. Nr 4, poz. 17, Nr 34, poz. 163, i Nr 104, poz. 515, z 1996 r. Nr 59, poz. 269 i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153, Nr 80, poz. 499, Nr 88, poz. 554, Nr 106, poz. 680, Nr 123, poz. 779 i Nr 141, poz. 943) wprowadza zmiany:
+**Art. 21f.** Zarząd powiatu na wniosek rzecznika konsument(cid:243)w, może zlecać prowadzenie bezpłatnego poradnictwa konsumenckiego, działającym na obszarze powiatu organizacjom, do kt(cid:243)rych zadań statutowych należy ochrona interes(cid:243)w konsument(cid:243)w.".
 
-**Art. 6b.**
-
-1. Komendanta wojewódzkiego Policji minister do spraw na wniosek Komendan ta Policji za wojewody.
-
-2. Komendant Policji na wniosek komendanta wojewódzkiego Policji po i I i " komen danta
-
-3. Na stanowisko komendanta wojewódz kiego Policji oraz I i " wojewódzkiego Policji. komen danta wojewódzkiego Policji oficerów Policji. Kandydaci na sta nowisko komendanta wojewódzkiego Policji wytypowani w drodze konkursu.
-
-4. W razie zwolnienia stanowiska komen danta wojewódzkiego Policji, Komen dant Policji, do czasu nia nowego komendanta, powierza nienie komendanta woje wódzkiego Policji, na okres nie 6 jednemu z jego ców lub wyznaczonemu oficerowi.
-
-5. W razie czasowej sprawo wania funkcji przez komendanta woje wódzkiego Policji, zakres jego i kompetencji na I komendanta wojewódzkiego Policji.
+**Art. 62.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz.U. Nr 30, poz. 179, z 1991 r. Nr 94, poz. 422 i Nr 107, poz. 461, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 53, poz. 214, i Nr 106, poz. 496 oraz z 1997 r. Nr 28, poz. 153, Nr 80, poz. 499, Nr 88, poz.554, Nr 106, poz. 680, Nr 123, poz. 779 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
 **Art. 6c.**
 
-1. Komendanta powiatowego (miejskiego) Policji z ust. 6 i art. 6h ust. 3, komendant wojewódzki Policji w porozumieniu ze Prze pisu art. 35 ust. 3 pkt 1 ustawy o samo powiatowym nie stosuje
+1. Komendanta powiatowego (miejskiego) Policji powołuje, z zastrzeżeniem ust. 6 i art. 6h ust. 3, komendant wojew(cid:243)dzki Policji w porozumieniu ze starostą. Przepisu art. 35 ust. 3 pkt 1 ustawy o samorządzie powiatowym nie stosuje się.
 
-2. Komendant wojewódzki Policji, na wniosek komendanta powiatowego (miejskiego) Policji, I i pozo komendanta powia towego (miejskiego) Policji.
+2. Komendant wojew(cid:243)dzki Policji, na wniosek komendanta powiatowego (miejskiego) Policji, powołuje I i pozostałych zastępc(cid:243)w komendanta powiatowego (miejskiego) Policji.
 
-3. Na stanowisko komendanta powiato wego (miejskiego) Policji i ko mendanta powiatowego (miejskiego) Policji oficerów Policji. Kandydaci na stanowisko komendanta powiatowego (miejskiego) Policji zo wytypowani w drodze konkursu.
+3. Na stanowisko komendanta powiatowego (miejskiego) Policji i zastępcy komendanta powiatowego (miejskiego) Policji powołuje się oficer(cid:243)w Policji. Kandydaci na stanowisko komendanta powiatowego (miejskiego) Policji zostają wytypowani w drodze konkursu.
 
-4. W razie zwolnienia stanowiska komen danta powiatowego (miejskiego) Poli cji komendant wojewódzki Policji, do czasu nowego komendanta, powierza ko mendanta powiatowego (miejskiego) Policji, na okres nie 6 mie jednemu z jego lub wyznaczonemu oficerowi.
+4. W razie zwolnienia stanowiska komendanta powiatowego (miejskiego) Policji komendant wojew(cid:243)dzki Policji, do czasu powołania nowego komendanta, powierza pełnienie obowiązk(cid:243)w komendanta powiatowego (miejskiego) Policji, na okres nie dłuższy niż 6 miesięcy, jednemu z jego zastępc(cid:243)w lub wyznaczonemu oficerowi.
 
-5. W razie czasowej sprawo wania funkcji przez komendanta powia towego (miejskiego) Policji, zakres jego i kompetencji na I za komendanta powiatowego (miejskiego) Policji.
+5. W razie czasowej niemożności sprawowania funkcji przez komendanta powiatowego (miejskiego) Policji, zakres jego zadań i kompetencji rozciąga się na I zastępcę komendanta powiatowego (miejskiego) Policji.
 
-6. W razie braku porozumienia, o którym mowa w ust. 1, komendant wojewódz ki Policji, po 30 dni od dnia przedstawienia kandydatów do uzgod nienia ze na stano wisko komendanta powiatowego (miejskiego) oficera Policji wskazanego przez
+6. W razie braku porozumienia, o kt(cid:243)rym mowa w ust. 1, komendant wojew(cid:243)dzki Policji po upływie 30 dni od dnia przedstawienia kandydat(cid:243)w do uzgodnienia ze starostą, powołuje na stanowisko komendanta powiatowego (miejskiego) oficera Policji wskazanego przez wojewodę. (miejski) Policji po zasięgnięciu opinii właściwego terytorialnie w(cid:243)jta (burmistrza lub prezydenta miasta) lub w(cid:243)jt(cid:243)w. Opiniowanie to nie dotyczy komendanta komisariatu specjalistycznego.
 
-**Art. 6d.**
+2. Zastępc(cid:243)w komendanta komisariatu Policji powołuje komendant powiatowy (miejski) Policji na wniosek komendanta komisariatu Policji.
 
-1. Komendanta komisariatu Policji powo komendant powiatowy (miejski) Policji po opinii go terytorialnie wójta (burmistrza lub prezydenta miasta) lub wójtów. Opinio wanie to nie dotyczy komendanta ko misariatu specjalistycznego.
+3. Na stanowisko komendanta komisariatu Policji i zastępcy komendanta komisariatu Policji powołuje się oficer(cid:243)w lub aspirant(cid:243)w Policji.
 
-2. komendanta komisariatu Policji komendant powiato wy (miejski) Policji na wniosek komen danta komisariatu Policji. .
+4. W razie zwolnienia stanowiska komendanta komisariatu Policji, komendant powiatowy (miejski) Policji, do czasu powołania nowego komendanta, powierza, po zasięgnięciu opinii w(cid:243)jta (burmistrza lub prezydenta miasta) lub w(cid:243)jt(cid:243)w, pełnienie obowiązk(cid:243)w komendanta komisariatu Policji, na okres nie dłuższy niż 3 miesiące, jednemu z jego zastępc(cid:243)w, a w razie braku zastępc(cid:243)w, innemu policjantowi.
 
-3. Na stanowisko komendanta komisaria tu Policji i komendanta komi sariatu Policji oficerów lub aspirantów Policji.
-
-4. W razie zwolnienia stanowiska komen danta komisariatu Policji, komendant powiatowy (miejski) Policji, do czasu nowego komendanta, po wierza, po opinii wójta (burmistrza lub prezydenta miasta) lub wójtów, komen danta komisariatu Policji, na okres nie 3 jednemu z jego a w razie braku - innemu policjantowi.
-
-5. W razie czasowej sprawo wania funkcji przez komendanta komi sariatu Policji, komendant powiatowy (miejski) Policji, do czasu ustania prze szkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, powie rza komendanta komisariatu Policji jednemu z jego za a w razie braku innemu policjantowi.
+5. W razie czasowej niemożności sprawowania funkcji przez komendanta komisariatu Policji komendant powiatowy (miejski) Policji, do czasu ustania przeszkody w sprawowaniu tej funkcji przez dotychczasowego komendanta, powierza pełnienie obowiązk(cid:243)w komendanta komisariatu Policji jednemu z jego zastępc(cid:243)w, a w razie braku zastępc(cid:243)w, innemu policjantowi.
 
 **Art. 6e.**
 
-1. ze stanowiska, o którym mo wa wart. 6b ust. 1 i 2, wart. 6c ust. 1 i 2 oraz wart. 6d ust. 1 i 2, w czasie, lub w terminie, organ uprawniony do powo na to stanowisko, z ust. 2.
+1. Odwołać ze stanowiska, o kt(cid:243)rym mowa w art. 6b ust. 1 i 2, w art. 6c ust. 1 i 2 oraz w art. 6d ust. 1 i 2, może w każdym czasie, niezwłocznie lub w określonym terminie, organ uprawniony do powołania na to stanowisko, z zastrzeżeniem ust. 2.
 
-2. komendanta wojewódzkie go Policji lub komendanta powiatowe go (miejskiego) wymaga opinii:
+2. Odwołanie komendanta wojew(cid:243)dzkiego Policji lub komendanta powiatowego (miejskiego) wymaga zasięgnięcia opinii:
 
-- **1)** wojewody - doty czy komendanta wojewódzkiego Po licji,
-- **2)** starosty - dotyczy komendanta powiatowego (miej skiego) Policji.
+- **1)** wojewody - jeżeli odwołanie dotyczy komendanta wojew(cid:243)dzkiego Policji,
+- **2)** starosty - jeżeli odwołanie dotyczy komendanta powiatowego (miejskiego) Policji.
 
-3. W przypadku braku opinii, o której mo wa w ust. 2, organ uprawnio ny do na stanowisko komen danta odpowiednio komen danta wojewódzkiego Policji lub ko mendanta powiatowego (miejskiego) Policji, po 14 dni od dnia przed stawienia wniosku o wydanie opinii.
+3. W przypadku braku opinii, o kt(cid:243)rej mowa w ust. 2, właściwy organ uprawniony do powołania na stanowisko komendanta, odwołuje odpowiednio komendanta wojew(cid:243)dzkiego Policji lub komendanta powiatowego (miejskiego) Policji, po upływie 14 dni od dnia przedstawienia wniosku o wydanie opinii.
 
-4. Policjanta ze stanowiska przenosi do dyspozycji go policjanta uprawnionego do odwo ze stanowiska, z policjanta ze stanowiska komendanta wojewódzkiego Policji przenosi do dyspozycji Komendan ta Policji. Policjant przez okres 6 ma prawo do uposa w przed
+4. Policjanta odwołanego ze stanowiska przenosi się do dyspozycji przełożonego policjanta uprawnionego do odwołania ze stanowiska z zastrzeżeniem, że policjanta odwołanego ze stanowiska komendanta wojew(cid:243)dzkiego Policji przenosi się do dyspozycji Komendanta Gł(cid:243)wnego Policji. Policjant przez okres 6 miesięcy ma prawo do uposażenia w wysokości przysługującej przed odwołaniem. Policji są przełożonymi policjant(cid:243)w na terenie swojego działania.
 
-**Art. 6f.** Komendant wojewódzki Policji oraz ko mendant powiatowy (miejski) Policji policjantów na terenie swo jego
-
-**Art. 6g.** Komendant Policji, komendant wojewódzki Policji, komendant powiato wy (miejski) Policji swoje zada nia przy pomocy im komend, a komendant komisariatu Policji - przy pomocy komisariatu.
+**Art. 6g.** Komendant Gł(cid:243)wny Policji, komendant wojew(cid:243)dzki Policji, komendant powiatowy (miejski) Policji wykonują swoje zadania przy pomocy podległych im komend, a komendant komisariatu Policji (cid:150) przy pomocy komisariatu.
 
 **Art. 6h.**
 
-1. Konkurs na stanowisko komendanta wojewódzkiego Policji i komendanta powiatowego (miejskiego) Policji sza odpowiednio Komendant Policji i komendant wojewódzki Policji.
+1. Konkurs na stanowisko komendanta wojew(cid:243)dzkiego Policji i komendanta powiatowego (miejskiego) Policji ogłasza odpowiednio Komendant Gł(cid:243)wny Policji i komendant wojew(cid:243)dzki Policji.
 
-2. Konkurs na stanowisko komendanta wojewódzkiego Policji i komendanta powiatowego (miejskiego) Policji prze prowadza do konkursu co najmniej 3 kandydatów. W wy niku konkursu co najmniej 2 kandydatów.
+2. Konkurs na stanowisko komendanta wojew(cid:243)dzkiego Policji i komendanta powiatowego (miejskiego) Policji przeprowadza się, jeżeli do konkursu zgłosiło się co najmniej 3 kandydat(cid:243)w. W wyniku konkursu wyłania się co najmniej 2 kandydat(cid:243)w.
 
-3. W przypadku warunków w ust. 2, stanowisko:
+3. W przypadku niespełnienia warunk(cid:243)w określonych w ust. 2, stanowisko:
 
-- **1)** komendanta wojewódzkiego Policji - obejmuje oficer w try bie art. 6b ust. 1,
-- **2)** komendanta powiatowego (miej skiego) - obejmuje oficer wskazany przez i przez komendanta wojewódzkiego Policji.
+- **1)** komendanta wojew(cid:243)dzkiego Policji - obejmuje oficer powołany w trybie art. 6b ust. 1,
+- **2)** komendanta powiatowego (miejskiego) - obejmuje oficer wskazany przez wojewodę i powołany przez komendanta wojew(cid:243)dzkiego Policji.
 
-4. Konkurs, o którym mowa w ust. 1, prze prowadza komisja konkursowa w dzie:
+4. Konkurs, o kt(cid:243)rym mowa w ust. 1, przeprowadza komisja konkursowa w składzie:
 
-- **1)** jeden przedstawiciel sejmiku woje wództwa, dwóch przedstawicieli Ko mendanta Policji i dwóch przedstawicieli wojewody konkurs dotyczy wyboru kandydata na stanowisko komendanta woje wódzkiego Policji,
-- **2)** dwóch przedstawicieli komendanta wojewódzkiego Policji, jeden przed stawiciel wojewody i dwóch przed stawicieli starosty - konkurs dotyczy wyboru kandydata na stano wisko komendanta powiatowego (miejskiego) Policji.
+- **1)** jeden przedstawiciel sejmiku wojew(cid:243)dztwa, dw(cid:243)ch przedstawicieli Komendanta Gł(cid:243)wnego Policji i dw(cid:243)ch przedstawicieli wojewody - jeżeli konkurs dotyczy wyboru kandydata na stanowisko komendanta wojew(cid:243)dzkiego Policji,
+- **2)** dw(cid:243)ch przedstawicieli komendanta wojew(cid:243)dzkiego Policji, jeden przedstawiciel wojewody i dw(cid:243)ch przedstawicieli starosty - jeżeli konkurs dotyczy wyboru kandydata na stanowisko komendanta powiatowego (miejskiego) Policji.
 
-5. Minister
+5. Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia, szczeg(cid:243)łowe zasady powoływania komisji konkursowych i regulamin konkurs(cid:243)w, o kt(cid:243)rych mowa w ust. 1.",
 
-- **6)** wart. 7: do spraw nych w drodze zasady ko misji konkursowych i regulamin kon kursów, o których mowa w ust. 1.";
-    - **a)** w ust. 1: - pkt 1 otrzymuje brzmienie: " 1) zasady organizacji i zakres komend, komisariatów i innych jednostek organizacyjnych Policji," - pkt 3,
-    - **b)** dodaje ust. 4 w brzmieniu: ,,4. Regulaminy komend, komisariatów i innych jednostek organizacyjnych Policji ustala dla nich komendant Policji w porozu mieniu z Regula min komendy wojewódzkiej Policji nie sta nowi regulaminu wojewódz kiego.";
+- **6)** w art. 7:
+    - **a)** w ust. 1: - pkt 1 otrzymuje brzmienie: "1) szczeg(cid:243)łowe zasady organizacji i zakres działania komend, komisariat(cid:243)w i innych jednostek organizacyjnych Policji,", - skreśla się pkt 3,
+    - **b)** dodaje się ust. 4 w brzmieniu: "4. Regulaminy komend, komisariat(cid:243)w i innych jednostek organizacyjnych Policji ustala właściwy dla nich komendant Policji w porozumieniu z nie stanowi części regulaminu urzędu wojew(cid:243)dzkiego.";
 
-- **7)** wart. 8 ust. 1 otrzymuje brzmienie: ,,1. Komendant wojewódzki Policji w porozu mieniu z Komendantem Policji tworzy, w razie potrzeby, komisariat kolejo wy, wodny, lotniczy lub inny komisariat spe cjalistyczny. Komendanci komisariatów spe cjalistycznych teryto rialnie komendantowi wojewódzkiemu Poli cji.";
-- **8)** po art. 8 dodaje art. 8a w brzmieniu: "Art. 8a. 1. Komendant powiatowy (miejski) Policji rewiry dzielnicowych na zasadach przez Komen danta Policji.
+- **7)** w art. 8 ust. 1 otrzymuje brzmienie: "1. Komendant wojew(cid:243)dzki Policji w porozumieniu z Komendantem Gł(cid:243)wnym Policji tworzy w razie potrzeby, komisariat kolejowy, wodny, lotniczy lub inny komisariat specjalistyczny. Komendanci komisariat(cid:243)w specjalistycznych podlegają właściwemu terytorialnie komendantowi wojew(cid:243)dzkiemu Policji.";
+- **8)** po art. 8 dodaje się art. 8a w brzmieniu: "Art. 8a. 1. Komendant powiatowy (miejski) Policji może tworzyć rewiry dzielnicowych na zasadach określonych przez Komendanta Gł(cid:243)wnego Policji.
 
-2. Kierownika rewiru mianuje i zwalnia ze stanowiska komendant powiatowy (miejski) Policji, po opinii wójta (burmistrza lub prezydenta mia sta), chyba do opinii w tej sprawie organ wy konawczy jednostki pomocniczej gminy.
+2. Kierownika rewiru mianuje i zwalnia ze stanowiska komendant powiatowy (miejski) Policji, po zasięgnięciu opinii w(cid:243)jta (burmistrza lub prezydenta miasta), chyba że do wyrażania opinii w tej sprawie upoważniony został organ wykonawczy jednostki pomocniczej gminy.
 
-3. Do kierownika rewiru w
+3. Do zadań kierownika rewiru należy, w szczeg(cid:243)lności:
 
-- **1)** rozpoznawanie i przeciw przyczynom ich powstawa nia,
-- **2)** inicjowanie i organizowanie lokalnych na celu zapobieganie prze i oraz innym zja wiskom kryminogennym,
-- **3)** wykonywanie administra oraz innych nie nych z zawiadomieniem o
-- **9)** wart. 10: i ra dom gmin" wyrazami "starostom, wójtom (burmistrzom lub prezydentom miast), a radom powiatu i radom gmin",
-    - **a)** w ust. 1 wyrazy "sejmikom stwie i zabezpieczeniem miejsca zda rzenia.";
-    - **b)** dodaje ust. 3 i 4 w brzmieniu: ,,3. Rada powiatu (miasta) oraz rada gminy na podstawie i informacji, o któ rych mowa w ust. 1, w drodze istotne dla wspólnoty wej i publicznego.
+- **1)** rozpoznawanie zagrożeń i przeciwdziałanie przyczynom ich powstawania,
+- **2)** inicjowanie i organizowanie działań społeczności lokalnych mających na celu zapobieganie popełnianiu przestępstw i wykroczeń oraz innym zjawiskom kryminogennym,
+- **3)** wykonywanie czynności administracyjno-porządkowych oraz innych nie cierpiących zwłoki czynności związanych z zawiadomieniem o przestępstwie i zabezpieczeniem miejsca zdarzenia.";
+- **9)** w art. 10:
+    - **a)** w ust. 1 wyrazy "sejmikom samorządowym i radom gmin" zastępuje się wyrazami "starostom, w(cid:243)jtom (burmistrzom lub prezydentom miast), a także radom powiatu i radom gmin",
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: "3. Rada powiatu (miasta) oraz rada gminy na podstawie sprawozdań i informacji, o kt(cid:243)rych mowa w ust. 1, może określić, w drodze uchwały, istotne dla wsp(cid:243)lnoty samorządowej zagrożenia bezpieczeństwa i porządku publicznego.
 
-4. o której mowa w ust. 3, nie wykonania konkretnej ani sposobu wykonywa nia przez
+4. Uchwała, o kt(cid:243)rej mowa w ust. 3, nie może dotyczyć wykonania konkretnej czynności służbowej, ani określać sposobu wykonywania zadań przez Policję.";
 
-- **10)** art. 11 otrzymuje brzmienie: "Art. 11. 1. gminy lub po wiatu od ko mendanta Policji przywrócenia stanu zgodnego z prawnym lub naru szeniu prawa, a do i publicznego.
+- **10)** art. 11 otrzymuje brzmienie: "Art. 11. 1. Przewodniczący zarządu gminy lub powiatu może żądać od właściwego komendanta Policji przywr(cid:243)cenia stanu zgodnego z porządkiem prawnym lub podjęcia działań zapobiegających narupieczeństwa i porządku publicznego.
 
-2. Żądanie, o którym mowa w ust. 1, nie operacyjno -rozpoznawczych, czych oraz z zakresu wykroczeń. Żądanie to nie może doty wykonania konkretnej ani sposobu wyko nania zadania przez
+2. Żądanie, o kt(cid:243)rym mowa w ust. 1, nie może dotyczyć czynności operacyjno-rozpoznawczych, dochodzeniowo-śledczych oraz czynności z zakresu ścigania wykroczeń. Żądanie to nie może dotyczyć wykonania konkretnej czynności służbowej, ani określać sposobu wykonania zadania przez Policję.
 
-3. gminy lub po wiatu odpowiedzial za o którym mowa w ust. 1.
+3. Przewodniczący zarządu gminy lub powiatu ponoszą wyłączną odpowiedzialność za treść żądania, o kt(cid:243)rym mowa w ust. 1.
 
-4. Żądanie, o którym mowa w ust. 1, prze kazane ustnie wymaga potwierdzenia na
+4. Żądanie, o kt(cid:243)rym mowa w ust. 1, przekazane ustnie wymaga potwierdzenia na piśmie.
 
-5. komendant Policji nie komendantowi Policji stopnia, nie jest w stanie o którym mowa w ust. 1.
+5. Właściwy komendant Policji niezwłocznie przedkłada sprawę komendantowi Policji wyższego stopnia, jeżeli nie jest w stanie wykonać żądania, o kt(cid:243)rym mowa w ust. 1.
 
-6. Żądanie, o którym mowa w ust. 1, naru prawo jest O stwierdza wojewoda.";
+6. Żądanie, o kt(cid:243)rym mowa w ust. 1, naruszające prawo jest nieważne. O nieważności żądania stwierdza wojewoda.";
 
-- **11)** art. 12 otrzymuje brzmienie: "Art. 12. 1. Minister do spraw nych w drodze
+- **11)** art. 12 otrzymuje brzmienie: "Art. 12. 1. Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia:
 - **1)** uzbrojenie Policji,
-- **2)** umundurowanie, dystynkcje i znaki identyfikacyjne policjantów,
-- **3)** zasady i sposób noszenia umundu rowania oraz orderów, medali i odznak,
+- **2)** umundurowanie, dystynkcje i znaki identyfikacyjne policjant(cid:243)w,
+- **3)** zasady i spos(cid:243)b noszenia umundurowania oraz order(cid:243)w, odznaczeń, medali i odznak,
 - **4)** normy umundurowania,
-- **5)** wzór i tryb nadawania sztandaru jed nostkom organizacyjnym Policji,
-- **6)** wzór odznak policyjnych oraz szcze zasady i tryb ich nadawania policjantom.
+- **5)** wz(cid:243)r i tryb nadawania sztandaru jednostkom organizacyjnym Policji,
+- **6)** wz(cid:243)r odznak policyjnych oraz szczeg(cid:243)łowe zasady i tryb ich nadawania policjantom.
 
-2. Komendant Policji za sady etatowych w Policji.";
+2. Komendant Gł(cid:243)wny Policji określa zasady naliczeń etatowych w Policji.";
 
-- **12)** art. 13 otrzymuje brzmienie: . "Art. 13. 1. Koszty z funkcjonowaniem Policji pokrywane z stwa, w tym z dotacji celowej na zada nia Policji w powiecie.
+- **12)** art. 13 otrzymuje brzmienie: "Art. 13. 1. Koszty związane z funkcjonowaniem Policji są pokrywane z budżetu państwa, w tym z dotacji celowej na zadania Policji w powiecie.
+
+2. Etaty Policji określa ustawa budżetowa.
+
+3. Gmina, powiat lub samorząd wojew(cid:243)dztwa może uczestniczyć w pokrywaniu części koszt(cid:243)w funkcjonowania Policji.
+
+4. Na wniosek rady powiatu lub rady gminy, liczba etat(cid:243)w Policji w rewirach dzielnicowych na terenie powiatu lub gminy może ulec zwiększeniu ponad liczbę ustaloną na zasadach określonych w art. 12 ust. 2, jeżeli organy te zapewnią pokrywanie koszt(cid:243)w utrzymania etat(cid:243)w Policji przez okres co najmniej 5 lat, na warunkach lub gminy a właściwym wojewodą i zatwierdzonym przez Komendanta Gł(cid:243)wnego Policji.
+
+5. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finans(cid:243)w publicznych określą, w drodze rozporządzenia, szczeg(cid:243)łowe warunki porozumienia, o kt(cid:243)rym mowa w ust. 4.";
+
 - **13)** w art. 25:
+    - **a)** w ust. 2 wyrazy "Komendant Gł(cid:243)wny Policji" zastępuje się wyrazami "Komendant wojew(cid:243)dzki Policji",
+    - **b)** ust. 3 otrzymuje brzmienie: "3. Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia, szczeg(cid:243)łowe zasady prowadzenia postępowania kwalifikacyjnego w stosunku do os(cid:243)b ubiegających się o przyjęcie do służby w Policji, w tym w stosunku do os(cid:243)b, o kt(cid:243)rych mowa w ust. 2.";
 
-2. Etaty Policji ustawa
+- **14)** w art. 29 ust. 3 otrzymuje brzmienie: "3. W szczeg(cid:243)lnie uzasadnionych przypadkach przełożony, o kt(cid:243)rym mowa w art. 32 ust. 1, z wyłączeniem komendanta powiatowego (miejskiego) Policji, może skr(cid:243)cić okres służby przygotowawczej policjanta albo zwolnić go od odbywania tej służby.";
+- **15)** w art. 32:
+    - **a)** w ust. 1 wyraz "rejonowi" zastępuje się wyrazami "powiatowi (miejscy)",
+    - **b)** w ust. 2 skreśla się wyrazy " ,z wyłączeniem dochodzenia roszczeń na drodze sądowej";
 
-3. Gmina, powiat lub woje wództwa w pokry waniu kosztów funkcjonowania Policji.
+- **16)** art. 34 otrzymuje brzmienie: "Art. 34. Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia, wymagania w zakresie wykształcenia, kwalifikacji zawodowych i stażu służby, jakim powinni odpowiadać policjanci na stanowiskach komendant(cid:243)w Policji i innych stanowiskach służbowych.";
+- **17)** w art. 36 ust. 2 otrzymuje brzmienie: "2. Do przenoszenia lub delegowania policjanta właściwi są: Komendant Gł(cid:243)wny Policji na obszarze całego państwa, komendant wojew(cid:243)dzki Policji na obszarze właściwego wojew(cid:243)dztwa, komendant powiatowy (miejski) Policji na obszarze właściwego powiatu (miasta). Jeżeli przeniesienie między wojew(cid:243)dztwami następuje w związku z porozumieniem zainteresowanych przełożonych i policjanta, przeniesienia dokonuje komendant wojew(cid:243)dzki Policji, właściwy dla wojew(cid:243)dztwa, w kt(cid:243)rym policjant ma pełnić służbę.";
+- **18)** w art. 41 w ust. 2 kropkę zastępuje się przecinkiem i dodaje pkt 7 w brzmieniu: "7) upływu 12 miesięcy od dnia zaprzestania służby z powodu choroby.";
+- **19)** art. 42 otrzymuje brzmienie: służby w Policji z powodu jej wadliwości stanowi podstawę przywr(cid:243)cenia do służby na stanowisko r(cid:243)wnorzędne.
 
-4. Na wniosek rady powiatu lub rady gmi ny liczba etatów Policji w rewirach dzielnicowych na terenie powiatu lub gminy ulec ponad na zasadach nych wart. 12 ust. 2, organy te za pokrywanie kosztów utrzyma nia etatów Policji przez okres co naj mniej 5 lat, na warunkach w porozumieniu zawartym or ganem powiatu lub gminy a wym i zatwierdzonym przez Komendanta Policji.
+2. Jeżeli zwolniony policjant w ciągu 7 dni od przywr(cid:243)cenia do służby nie zgłosi gotowości niezwłocznego jej podjęcia, stosunek służbowy ulega rozwiązaniu na podstawie art. 41 ust. 3.
 
-5. Minister do spraw nych w porozumieniu z ministrem do spraw finansów publicz nych w drodze warunki porozumienia, o którym mowa w ust. 4.";
+3. Jeżeli po przywr(cid:243)ceniu do służby okaże się, że mimo zgłoszenia gotowości niezwłocznego podjęcia służby policjant nie może zostać do niej dopuszczony, gdyż po zwolnieniu zaistniały okoliczności powodujące niemożność jej pełnienia, stosunek służbowy ulega rozwiązaniu na podstawie art. 41 ust. 2 pkt 5, chyba że zaistnieje inna podstawa zwolnienia.
 
-- **a)** w ust. 2 wyrazy "Komendant Policji" za wyrazami "Komendant wojewódzki Policji",
-- **b)** ust. 3 otrzymuje brzmienie: ,,3. Minister do spraw w drodze szczegó zasady prowadzenia kwalifikacyjnego w stosunku do osób ubie o do w Policji, w tym w stosunku do osób, o których mowa wust.2.";
-- **14)** w art. 29 ust. 3 otrzymuje brzmienie: ,,3. W szczególnie uzasadnionych przypadkach o którym mowa wart. 32 ust. 1, z komendanta powiatowego (miejskiego) Policji, okres by przygotowawczej policjanta albo go od odbywania tej
-- **15)** wart. 32:
-    - **a)** w ust. 1 wyraz "rejonowi" wyraza mi "powiatowi (miejscy)",
-    - **b)** w ust. 2 wyrazy" , z do chodzenia na drodze
+4. Prawo do uposażenia powstaje z dniem podjęcia służby, chyba że po zgłoszeniu do służby zaistniały okoliczności usprawiedliwiające niepodjęcie tej służby.
 
-- **16)** art. 34 otrzymuje brzmienie: "Art. 34. Minister do spraw nych w drodze wymagania w zakresie kwalifikacji zawodowych i ja kim powinni policjanci na stanowiskach komendantów Policji i in nych stanowiskach
-- **17)** w art. 36 ust. 2 otrzymuje brzmienie: ,,2. Do przenoszenia lub delegowania policjanta Komendant Policji na obszarze komendant woje wódzki Policji na obszarze woje wództwa, komendant powiatowy (miejski) Policji na obszarze powiatu (mia sta). przeniesienie wojewódz twami w z porozumieniem zainteresowanych i policjanta, przeniesienia dokonuje komendant woje wódzki Policji, dla województwa, w którym policjant ma
-- **18)** wart. 41 w ust. 2 przecinkiem i dodaje pkt 7 w brzmieniu: ,,7) 12 od dnia zaprzestania z powodu choroby.";
-- **19)** art. 42 otrzymuje brzmienie: "Art. 42.1. Uchylenie lub stwierdzenie decyzji o zwolnieniu ze w Po licji z powodu jej stanowi przywrócenia do na stanowisko
+5. Policjantowi przywr(cid:243)conemu do służby przysługuje za okres pozostawania poza służbą świadczenie pieniężne r(cid:243)wne uposażeniu na stanowisku zajmowanym przed zwolnieniem, nie więcej jednak niż za okres 6 miesięcy i nie mniej niż za 1 miesiąc. Takie samo świadczenie przysługuje osobie, o kt(cid:243)rej mowa w ust. 3.
 
-2. zwolniony policjant w 7 dni od przywrócenia do nie jej stosunek ulega na podstawie art. 41 ust. 3.
+6. W zakresie innych praw, niż określone w ust. 1-5 wynikających ze stosunku służbowego okres, za kt(cid:243)ry przyznano świadczenie pieniężne traktuje się za r(cid:243)wnorzędny ze służbą. Okres pozostawania poza służbą, za kt(cid:243)ry przyznano świadczenie pieniężne, nie uważa się za przerwę w służbie, kt(cid:243)rej skutkiem byłaby utrata uprawnień uzależnionych od nieprzerwanej służby.";
 
-3. po przywróceniu do mimo nie policjant nie do niej dopuszczony, po zwolnieniu okolicz jej nienia, stosunek ulega roz na podstawie art. 41 ust. 2 pkt 5, chyba zaistnieje inna podsta wa zwolnienia.
+- **20)** w art. 43 skreśla się ust. 2;
+- **21)** art. 45 otrzymuje brzmienie: "Art. 45. 1. Zwolnienia ze służby na podstawie art. 41 ust. 2 pkt 5 dokonuje właściwy komendant wojew(cid:243)dzki Policji.
 
-4. Prawo do powstaje z dniem chyba po do okolicz tej
+2. Pozostawienie w służbie policjanta, o kt(cid:243)rym mowa w art. 41 ust. 2 pkt 2, wymaga zgody właściwego komendanta wojew(cid:243)dzkiego Policji.
 
-5. Policjantowi przywróconemu do za okres pozostawania po za równe na stanowisku zajmowa nym przed zwolnieniem, nie jed nak za okres 6 i nie mniej za 1 Takie samo nie osobie, o której mowa w ust. 3.
+3. W pozostałych przypadkach decyzje w sprawach, o kt(cid:243)rych mowa w art. 37-41, podejmuje przełożony wymieniony w art. 32 ust. 1.";
 
-6. W zakresie innych praw w ust. 1-5, ze stosunku okres, za który przyznano traktuje za ze Okresu pozo stawania poza za który przyzna no nie za w której skut kiem utrata nionych od nieprzerwanej
+- **22)** po art. 46 dodaje się art. 46a w brzmieniu: "Art. 46a. Komendant Gł(cid:243)wny Policji określa, w drodze zarządzenia, zasady prowadzenia przez przełożonych dokumentacji w sprawach związanych ze stosunkiem służbowym policjant(cid:243)w oraz spos(cid:243)b prowadzenia akt osobowych.";
+- **23)** art. 48 otrzymuje brzmienie: (cid:132)Art. 48. 1. Na stopień posterunkowego oraz starszego posterunkowego mianuje komendant powiatowy (miejski) Policji. Na stopień posterunkowego mianuje się z dniem mianowania na stanowisko służbowe. mianuje komendant wojew(cid:243)dzki Policji.
 
-- **20)** w art. 43 ust. 2;
-- **21)** art. 45 otrzymuje brzmienie: "Art. 45. 1. Zwolnienia ze na podstawie art. 41 ust. 2 pkt 5 dokonuje komendant wojewódzki Policji.
+3. Na pierwszy stopień oficerski, z zastrzeżeniem art. 56 ust. 3, oraz na stopnie generalnego inspektora Policji i nadinspektora Policji mianuje Prezydent Rzeczypospolitej Polskiej na wniosek ministra właściwego do spraw wewnętrznych. Na pozostałe stopnie oficerskie mianuje Komendant Gł(cid:243)wny Policji.(cid:148);
 
-2. Pozostawienie w policjanta, o którym mowa wart. 41 ust. 2 pkt 2, wymaga zgody komen danta wojewódzkiego Policji.
+- **24)** w art. 52 w ust. 3 wyrazy (cid:132)art. 49 ust. 1(cid:148) zastępuje się wyrazami (cid:132)art. 49(cid:148);
+- **25)** w art. 54 w ust. 2 wyrazy "Minister Spraw Wewnętrznych" zastępuje się wyrazami " Komendant Gł(cid:243)wny Policji";
+- **26)** w art. 55 w ust. 2 wyrazy "Minister Spraw Wewnętrznych" zastępuje się wyrazami " Komendant Gł(cid:243)wny Policji";
+- **27)** w art. 56 w ust. 3 wyrazy "Minister Spraw Wewnętrznych" zastępuje się wyrazami " Komendant Gł(cid:243)wny Policji";
+- **28)** art. 62 otrzymuje brzmienie: "Art. 62. 1. Policjant nie może bez zezwolenia przełożonego podjąć zajęcia zarobkowego poza służbą.
 
-3. W przypadkach decyzje w sprawach, o których mowa wart. 37-41, podejmuje wymie niony wart. 32 ust. 1.";
+2. Policjant obowiązany jest do złożenia, na polecenie przełożonego, oświadczenia o stanie majątkowym.
 
-- **22)** po art. 46 dodaje art. 46a w brzmieniu: "Art. 46a. Komendant Policji w drodze zasady prowadze nia przez dokumentacji w sprawach ze stosunkiem policjantów oraz sposób prowadzenia akt osobowych.";
-- **23)** art. 48 otrzymuje brzmie:1ie: "Art. 48. 1. Na posterunkowego oraz star szego posterunkowego mianuje ko mendant powiatowy (miejski) Policji. Na posterunkowego mianuje z dniem mianowania na stanowisko
+3. Minister właściwy do spraw wewnętrznych określa, w drodze rozporządzenia, szczeg(cid:243)łowe zasady i tryb udzielania zezwolenia na podjęcie zajęcia zarobkowego, składania oświadczenia o stanie majątkowym oraz właściwość przełożonych w tych sprawach.";
 
-2. Na stopnie podoficerskie oraz na stop nie w korpusie aspirantów mianuje ko mendant wojewódzki Policji.
+- **29)** w art. 63 w ust. 4 wyrazy "Ministra Spraw Wewnętrznych" zastępuje się wyrazami "Komendanta Gł(cid:243)wnego Policji";
+- **30)** w art. 96:
+    - **a)** ust. 4 otrzymuje brzmienie: "4. Policjantowi przeniesionemu z urzędu do służby w innej miejscowości, kt(cid:243)ry w poprzednim miejscu pełnienia służby nie zwolnił zajmowanego lokalu mieszkalnego lub domu, o kt(cid:243)rym mowa w ust. 1, można przydzielić tymczasową kwaterę według przysługujących norm, bez uwzględnienia zamieszkałych z nim członk(cid:243)w rodziny. Koszty zakwaterowania pokrywane są ze środk(cid:243)w budżetowych Policji, nie dłużej niż przez 2 lata od dnia przydzielenia tymczasowej kwatery.",
+    - **b)** w ust. 5 wyrazy "Koszt zakwaterowania pokrywa się ze środk(cid:243)w Ministerstwa Spraw Wewnętrznych" zastępuje się wyrazami "Koszty zakwaterowania pokrywa się ze środk(cid:243)w budżetu Policji";
 
-3. Na pierwszy oficerski, z za art. 56 ust. 3, oraz na stop nie generalnego inspektora Policji i nadinspektora Policji mianuje Prezy dent Rzeczypospolitej Polskiej na wniosek ministra do spraw Na stopnie oficerskie mianuje Komendant Policji.";
+- **31)** w art. 114 w ust. 3 wyrazy "Minister Spraw Wewnętrznych" zastępuje się wyrazami "Komendant Gł(cid:243)wny Policji";
+- **32)** w art. 124 ust. 2 otrzymuje brzmienie: "2. Po zakończeniu postępowania karnego lub dyscyplinarnego, będącego przyczyną zawieszenia w czynnościach służbowych, policjant otrzymuje zawieszoną część uposażenia oraz obligatoryjne podwyżki wpronym wyrokiem sądu, lub ukarany karą dyscyplinarną wydalenia ze służby.";
+- **33)** w art. 139 w ust. 1 wyrazy "art. 54 ust. 2 i 3" zastępuje się wyrazami "art. 54 ust. 3".
 
-- **24)** wart. 52 w ust. 3 wyrazy "art. 49 ust. 1"
-- **25)** w art. 54 w ust. 2 wyrazy "Minister Spraw We wyrazami "art. 49"; wyrazami "Komendant Policji";
-- **26)** wart. 55 w ust. 2 wyrazy "Minister Spraw We wyrazami "Komendant Policji";
-- **27)** wart. 56 w ust. 3 wyrazy "Minister Spraw We wyrazami "Komendant Policji";
-- **28)** art. 62 otrzymuje brzmienie: "Art. 62. 1. Policjant nie bez zezwolenia prze .. zarobkowego poza
+**Art. 63.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz.U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661, Nr 121, poz. 770 i Nr 141, poz. 943 oraz z 1998 r. Nr 50, poz. 310) wprowadza się następujące zmiany:
 
-2. Policjant jest do na polecenie nia o stanie
+**Art. 64.** W ustawie z dnia 29 listopada 1990 r. o pomocy społecznej (Dz.U. z 1998 r. Nr 64, poz. 414) wprowadza się następujące zmiany:
 
-3. Minister do spraw nych w drodze zasady i tryb udzielania zezwolenia na zarob kowego, o sta nie oraz prze w tych sprawach.";
+**Art. 47b.** Do powiatu stosuje się odpowiednio art. 47.";
 
-- **29)** wart. 63 w ust. 4 wyrazy "Ministra Spraw We wyrazami "Komendan ta Policji";
-- **30)** wart. 96:
-    - **a)** ust. 4 otrzymuje brzmienie: ,,4. Policjantowi przeniesionemu z do w innej który w po przednim miejscu nie zwol zajmowanego lokalu mieszkalnego lub domu, o którym mowa w ust. 1, przy norm, bez zamiesz z nim rodziny. Koszty zakwa terowania pokrywane ze towych Policji, nie przez 2 lata od dnia przydzielenia tymczasowej kwatery.",
-    - **b)** w ust. 5 wyrazy "Koszt zakwaterowania pokrywa . ze Ministerstwa Spraw nych" wyrazami "Koszty zakwate rowania pokrywa ze Poli cji";
+**Art. 65.** W ustawie z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolnik(cid:243)w (Dz.U. z 1998 r. Nr 7, poz. 25) wprowadza się następujące zmiany:
 
-- **31)** wart. 114 w ust. 3 wyrazy "Minister Spraw We wyrazami "Komendant Policji";
-- **32)** wart. 124 ust. 2 otrzymuje brzmienie: ,,2. Po karnego lub dyscyplinarnego, za wieszenia w poli cjant otrzymuje nia oraz obligatoryjne wprowadzo ne w okresie zawieszenia, nie skazany prawomocnym wyrokiem lub ukarany wydalenia ze ";
-- **33)** wart. 139 w ust. 1 wyrazy "art. 54 ust. 2 i 3" puje wyrazami "art. 54 ust. 3".
+**Art. 66.** W ustawie z dnia 21 grudnia 1990 r. o zawodzie lekarza weterynarii i izbach lekarsko-weterynaryjnych (Dz.U. z 1991 r. Nr 8, poz. 27, z 1995 r. Nr 120, poz. 576 oraz z 1997 r. Nr 60, poz. 369) wprowadza się następujące zmiany:
 
-**Art. 63.** W ustawie z dnia 12 1990 r. o szkolnictwie (Dz. U. Nr 65, poz. 385, z 1992 r. Nr 54, poz. 254 i Nr 63, poz. 314, z 1994 r. Nr 1, poz. 3, Nr 43, poz. 163, Nr 105, poz. 509 i Nr 121, poz. 591, z 1996 r. Nr 5, poz. 34 i Nr 24, poz. 110, z 1997 r. Nr 28, poz. 153, Nr 96, poz. 590, Nr 104, poz. 661. Nr 121, poz. 770 i Nr 141, poz. 943 oraz z 1998 r. Nr 50, poz. 310) wprowadza zmiany:
+**Art. 67.** W ustawie z dnia 12 stycznia 1991 r. o utworzeniu Komitetu Badań Naukowych (Dz.U. Nr 8, poz. 28, z 1993 r. Nr 52, poz. 240, z 1995 r. Nr 30, poz. 152, z 1996 r. Nr 106, poz. 469, z 1997 r. Nr 24, poz. 118, Nr 75, poz. 469, Nr 80, poz. 500, Nr 96, poz. 590 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 64.** W ustawie z dnia 29 listopada 1990 r. o po mocy (Dz. U. z 1998 r. Nr 64, poz. 414) wpro wadza zmiany:
+**Art. 68.** W ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz.U. Nr 9, poz. 31 i Nr 101, poz. 444, z 1992 r. Nr 21, poz. 86, z 1994 r. Nr 123, poz. 600, z 1996 r. Nr 91, poz. 409 i Nr 149, poz. 704, z 1997 r. Nr 5, poz. 24, Nr 107, poz. 689, Nr 121, poz. 770 i Nr 123, poz. 780) w art. 2 w ust. 1 w pkt 3 i 4 wyraz (cid:132)gminy(cid:148) zastępuje się wyrazami (cid:132)jednostki samorządu terytorialnego(cid:148).
 
-**Art. 11b.**
+**Art. 69.** W ustawie z dnia 24 stycznia 1991 r. o kombatantach oraz niekt(cid:243)rych osobach będących ofiarami represji wojennych i okresu powojennego (Dz.U. z 1997 r. Nr 142, poz. 950 i z 1998 r. Nr 37, poz. 204) wprowadza się następujące zmiany:
 
-1. Do z zakresu pomocy realizowanych przez woje wództwa
+**Art. 70.** W ustawie z dnia 19 kwietnia 1991 r. o samorządzie pielęgniarek i położnych (Dz.U. Nr 41, poz. 178 oraz z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410) wprowadza się następujące zmiany:
 
-- **1)** bilansu potrzeb i ków w zakresie pomocy we z gminami i powiata mi oraz opracowywanie strategii roz woju,
-- **2)** opracowywanie i celo wych programów realiza cji pomocy i ich do finansowywanie,
-- **3)** organizowanie w tym prowadzenie nych oraz szkolenia zawodowego kadr pomocy
-- **4)** identyfikowanie przyczyn ubóstwa oraz wspieranie i prowadzenie dzia na rzecz wyrównywania poziomu województwa,
-- **5)** inspirowanie i promowanie nowych w zakresie polityki spo w tym pomocy
+**Art. 71.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz.U. Nr 41, poz. 179 i Nr 105, poz. 452 oraz z 1997 r. Nr 43, poz. 272 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-2. W celu realizacji o których mo wa w ust. l, «regionalny po lityki
+**Art. 72.** W ustawie z dnia 21 czerwca 1991 r. o wprowadzeniu częściowej odpłatności za koszty wyżywienia i zakwaterowania w sanatoriach uzdrowiskowych (Dz.U. Nr 64, poz. 272, z 1996 r. Nr 34, poz. 148) w art. 1:
 
-- **6)** art. 12 otrzymuje brzmienie: "Art. 12. 1. Do wojewody w zakresie pomo cy w
-- **1)** ocena stanu i pomocy
-- **2)** ustalanie sposobu realizacji z zakresu administracji re alizowanych przez jednostki samo terytorialnego,
-- **3)** nadzór nad przestrzeganiem wyma ganego standardu nych przez jednostki organizacyjne pomocy a placówki oraz od powiednim poziomem kwalifikacji kadr w jednostkach organizacyjnych pomocy od podmiotu
-- **4)** kontrola i akceptacja progra mów naprawczych w domach pomo cy a ocena stopnia realizacji programu naprawczego, o którym mowa wart. 20,
-- **5)** wydawanie i cofanie lub warunkowych na prowa dzenie domów pomocy oraz prowadzenie rejestru domów pomocy
-- **6)** koordynowanie w zakresie integracji ze osób status
+**Art. 73.** W ustawie z dnia 4 lipca 1991 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego (Dz.U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-2. Minister do spraw zabezpie czenia w drodze kwalifikacje osób, za których wojewoda wy konuje zadania, o których mowa w ust. 1, a w kwalifikacje osób funkcje nadzoru i kontroli w ust. 1 pkt 3 i 4.";
-
-- **7)** po art. 12 dodaje art. 12a w brzmieniu: "Art. 12a. Organy administracji i organy jednostek terytorialnego w drodze umowy, organi zacjom Katolic kiemu i innym wy znaniowym, fundacjom, stowarzysze niom, pracodawcom oraz osobom fi zycznym i prawnym zadania z zakresu pomocy oraz je w tym finansowo."; wart. 19:
-    - **a)** ust. 1 otrzymuje brzmienie: ,,1. W razie zapewnienia w miejscu zamieszkania przez i osoba bowej opieki o skierowanie do domu pomocy
-    - **b)** ust. 2;
-
-- **9)** po art. 19 dodaje art. 19a w brzmieniu: "Art. 19a. Domy pomocy prowa po uzyskaniu zezwolenia wojewo dy:
-- **1)** organy jednostek
-- **10)** w art. 20: teryto rialnego,
-- **2)** Katolicki, inne wyznaniowe oraz organiza cje fundacje i stowarzy szenia,
-- **3)** inne osoby prawne i fizyczne.";
-    - **a)** ust. 2 otrzymuje brzmienie: ,,2. Domy pomocy które nie standardu, ne do opracowania i realizacji programu na prawczego do 2006 r.",
-    - **b)** po ust. 2 dodaje ust. 2a w brzmieniu: ,,2a. Domom pomocy o których mo wa w ust. 2, wojewoda wydaje warunkowe zezwolenie na prowadzenie domu.",
-    - **c)** w ust. 4 po wyrazie "zezwolenie" dodaje wy razy "lub warunkowe zezwolenie",
-    - **d)** w ust. 7: - w zdaniu wyrazy "Minister Pracy i Polityki Socjalnej" wyrazami "Minister do spraw zabezpieczenia , - w pkt 2 przecinek i wyrazy "pod mioty - w pkt 3 po wyrazie dodaje przecinek i wyrazy "w tym warunkowych", - pkt 4 otrzymuje brzmienie: ,,4) tryb kierowania i przyjmowania do domu pomocy osób o do takiego domu.", w ust. 8 wyrazy "Minister Pracy i Polityki Socjalnej" wyrazami "Minister do spraw zabezpieczenia nego", a wyrazy "Ministrem Zdrowia i Opieki wyrazami "mini strem do spraw zdrowia";
-
-- **11)** po art. 23 dodaje art. 23a w brzmieniu: "Art. 23a.1. W celu zapobiegania powstawaniu lub dysfunkcji osób, ro dzin lub w tym po dejmowana interwencja kryzysowa.
-
-2. Interwencji kryzysowej udziela bez na warunki wart. 3 i w art. 4 ust. 1.";
-
-- **12)** w art. 24 w ust. 6 wyrazy "rejonowym pra cy" wyrazami "powiatowym dem pracy";
-- **13)** wart. 25 w ust. 2 wyrazy "Gmina puje wyrazami "Gmina i powiat
-- **14)** w art. 26 po wyrazach "przez dodaje wy razy "lub powiat";
-- **15)** wart. 27 ust. 7 otrzymuje brzmienie: ,,7. w domu pomocy spo lub o do nie go uznaje za samotnie gospodaru przed do domu pomo cy lub oczekiwania na miejsce w takim domu uprawniona do wyrównawczego.";
-- **16)** w art. 31b:
-    - **a)** w ust. 2a po wyrazach pomocy spo dodaje wyrazy "lub powiatowe cen trum pomocy rodzinie ",
-    - **b)** w ust. 2b wyrazy "Minister Pracy i Polityki So cjalnej" wyrazami "Minister do spraw zabezpieczenia
-
-- **17)** po art. 31b dodaje art. 31c-31h w brzmieniu: "Art. 31c.l. Pomoc w integracji ze osób w nie których rodzajach placówek czo-wychowawczych, resocjalizacyj nych i dla nieletnich, okre przepisami, oraz rodzin polega na przyzna niu specjalnego nego na zagospodarowanie, pomocy w uzyskaniu odpowiednich warunków mieszkaniowych i ekonomicznego usa modzielnienia, a na pracy socjal nej. Pomoc ta osobom lub w trudnej sytuacji materialnej i nie pomocy od rodziców lub dziadków.
-
-2. Usamodzielnianym wychowankom placówek i dla nieletnich, o których mowa w ust. 1, udziela pomocy w formie rzeczowej (wyprawki).
-
-3. Minister do spraw zabezpie czenia w porozumieniu z ministrem do spraw i wycho wania w drodze nia:
-
-- **1)** warunki i kryteria, które powinien usamodzielniany wychowa nek oraz jego rodzice lub dziadko wie, do uzyskania uprawnienia i po mocy, o której mowa w ust. 1,
-- **2)** zasady udzielania po mocy, o której mowa w ust. 1, wyso specjalnego pie na zagospodarowanie oraz i wyprawki,
-- **3)** rodzaje placówek, których wycho wankowie uprawnieni do korzy stania z pomocy, o której mowa w ust. 1.
-
-**Art. 31d.**
-
-1. Dzieciom i pozbawionym lub opieki rodzi cielskiej starosta organizuje w rodzinach
-
-2. Umieszczenie dziecka w rodzinie za na podstawie orze czenia
-
-3. Dziecko umieszczo ne w rodzinie bez orzecze nia na wniosek lub za rodziców dziecka, na pod stawie umowy cywilnoprawnej po wierzenia dziecka, zawartej na a ze na miejsce za mieszkania tej rodziny, o czym starosta zawiadamia W razie co do ków wymienionych wart. 31e starosta przekazuje warunmu.
-
-4. Rodzina podejmuje zek opieki nad dzieckiem i jego wycho waniem z dniem umieszczenia dziecka w rodzinie na podstawie orzeczenia albo z dniem zawarcia umowy, o której mo wa w ust. 3.
-
-5. Rodziny
-
-- **1)** pomoc na utrzymanie dziecka lub
-- **2)** wynagrodzenie z nych i wycho wawczych.
-
-**Art. 31e.**
-
-1. funkcji rodziny powierzone lub osobie nie w warunki:
-
-- **1)** wykony wania rodziny
-- **2)** obywatelstwo polskie, miejsce zamieszkania w Polsce i ko z praw cywilnych i oby watelskich,
-- **3)** nie pozbawione praw rodziciel skich i
-- **4)** nie chore na nad dziec kiem, co stwierdzone za lekarskim,
-- **5)** odpowiednie warunki mieszka niowe oraz utrzymania.
-
-2. Osobom i rodzinom funkcji rodziny starosta za pewnia odpowiednie przygotowanie i szkolenie.
-
-**Art. 31f.**
-
-1. Starosta dla miejsca zamiesz kania rodziny udziela pomo cy na pokrycie kosztów utrzymania dzieci umieszczo nych w rodzinach
-
-2. przyznania pomocy nej jest umowa zawarta a
-
-3. Rodzice, których dzieci w rodzinach ni do ponoszenia z tego ty Starosta wydaje o wysoko tej
-
-4. Rada Ministrów w drodze roz
-
-- **1)** rodzaje rodzin oraz zasady ich i fi nansowania w od zakresu opieki, a i zasady wynagradza nia,
-- **2)** zasady doboru rodzin oraz umieszczania dzieci w tych rodzinach,
-- **3)** zasady i rodzi ców za pobyt ich dzieci w rodzinach oraz sposób i tryb powania w tych sprawach.
-
-**Art. 31g.**
-
-1. umowy powierzenia dziecka, o której mowa wart. 31d ust. 3, po 3 od dnia wypowiedzenia dokonanego na przez ze stron.
-
-2. Starosta dla miejsca zamiesz kania rodziny z powierzenia dziecka bez wypowiedzenia w razie:
-
-- **1)** rodzi ny z
-- **2)** ustania warunków wymaganych do funkcji rodziny wymienionych wart. 31e ust. 1 pkt 1 i 3. W razie umowy po wierzenia dziecka, starosta dla miejsca zamieszkania rodziny za ma zapewnienia dziecku dalszej pieczy i wychowania. Art. 31 h. z rodziców za pobyt ich dzieci w rodzinach czych egzekucji administracyj nej.";
-- **18)** wart. 34 po ust. 5 dodaje ust. 6 w brzmieniu: ,,6. W zakresie o których mowa wart. 10a pkt 3, do powiatu przepis ust. 5 sto suje odpowiednio.";
-- **19)** wart. 37:
-    - **a)** ust. 3 otrzymuje brzmienie: ,,3. W miejsc,u pobytu udzielane wymienione wart. 13, 15, 16, art. 17 ust. 1, art. 22, 23a, 26 i 32.",
-    - **b)** po ust. 3 dodaje ust. 4 w brzmieniu: ,,4. Gmina ze na ostatnie miejsce zamieszkania bezdomnego jest do zwrotu gminie lub powiatowi, które pomo cy w miejscu pobytu bez domnego, poniesionych wydatków na pomocy w ust. 3.";
-
-- **20)** wart. 39 po wyrazie dodaje wyra zy "i kierownik powiatowego centrum pomocy ro dzinie ";
-- **21)** w art. 46 w ust. 4a wyraz "inwalidztwa" wyrazami do pracy i stopnia nie
-- **22)** w art. 47 ; ust. 3;
-- **23)** po art. 47 dodaje art. 47a i 47b w brzmieniu: "Art. 47a. 1. Zadania powiatu z zakresu pomocy i z zakresu admini stracji wykonywane przez powiatowe centra pomocy ro dzinie, jednostki organizacyjne wcho w powiatowej administra cji zespolonej.
-
-2. Kierownik powiatowego centrum po mocy rodzinie i wany jest przez
-
-3. Kierownik powiatowego centrum po mocy rodzinie na rzecz obywateli powództwa o roszcze nia alimentacyjne. W przed stosuje odpowiednio przepisy o prokuraturze.
-
-4. Kierownik powiatowego centrum po mocy rodzinie wnio ski o ustalenie stopnia lub do pracy do organów przepisami.
-
-5. W indywidualnych sprawach z zakre su pomocy do powiatu decyzje admini stracyjne wydaje starosta lub z jego kierownik powiatowe go centrum pomocy rodzinie.
-
-6. Kierownik powiatowego centrum po mocy rodzinie radzie powiatu coroczne sprawozdanie z centrum oraz przedstawia wykaz po trzeb w zakresie pomocy
-
-7. Rada powiatu na podstawie wykazu potrzeb, o którym mowa w ust. 6, opracowuje i wykonuje lokalne pro gramy pomocy
-
-**Art. 47b.** Do powiatu stosuje odpowiednio art. 47.";
-
-**Art. 55b.**
-
-1. Przepisy w ustawie zada nia powiatów stosuje odpowied nio do miast na prawach powiatu.
-
-2. Zadania powiatowych centrów pomo cy rodzinie w miastach, o których mo wa w ust. 1, miejskie pomocy tych miast, które nazwane «miejskimi kami pomocy rodzinie».
-
-**Art. 55c.**
-
-1. Powiaty i miasta na prawach powia tów od wojewodów z dniem 1 stycznia 1999 r. sie dziby na ich terenie domy pomocy placówki i o któ rych mowa wart. 2a ust. 1 pkt 7, z wy jednostek organizacyjnych prowadzonych przez gminy.
-
-2. Mienie domów pomocy placówek i o których mowa w ust. 1, staje powiatu z dniem ich
-
-**Art. 55d.** Środki na realizację określonych w usta wie powiatów, w tym prowadze nie placówek, domów pomocy nej i o których mowa w art. 55c ust. 1, a województwa ustawy.
-
-**Art. 55e.**
-
-1. Powiat i miasto na prawach powiatu nie bez zgody wojewody, w okresie 5 lat od dnia w niniejszej ustawy przeznacze nia i typu domu pomocy placówek i wsparcia, o któ rych mowa wart. 2a ust. 1 pkt 7.
-
-2. o skierowa niu do odpowiedniego typu domu po mocy wydaje, w imieniu starosty, kierownik powiatowego cen trum pomocy rodzinie ze na miejsce zamieszkania osoby po uzgodnieniu z podmiotem dom, je okres oczekiwania w domu pomo cy nie przekracza 3 cy.
-
-3. W przypadku w wydania decyzji, o której mowa w ust. 2, z brakiem miejsca w domu pomocy kierownik powia towego centrum pomocy rodzinie wy daje do domu pomocy oraz ustala w tej decyzji przewidywany czas ocze kiwania i miejsce na osób ocze po uzgodnieniu z podmio tem dom.
-
-4. Osobie, która przed dniem w niniejszej ustawy o odmowie skierowania do domu pomocy w z brakiem miejsca, kierownik powiato wego centrum pomocy rodzinie wy daje ponownie o skierowaniu do typu domu pomocy po uzgodnieniu z podmio tem taki dom, a w razie braku miejsca wydaje kwalifi do domu pomocy spo i ustala w decyzji przewidywa ny czas oczekiwania i miejsce na osób Decyzja ta nie mo mniej korzystna od posiadanej decyzji w przedmiotowej sprawie.
-
-**Art. 55f.** Na z zakresu pomocy powiaty i województw dotacje ce lowe z
-
-**Art. 65.** W ustawie z dnia 20 grudnia 1990 r. o ubez pieczeniu rolników (Dz. U. z 1998 r. Nr 7, poz. 25) wprowadza zmiany:
-
-**Art. 67.** W ustawie z dnia 12 stycznia 1991 r. o utworzeniu Komitetu Naukowych (Dz. U. Nr 8, poz. 28, z 1993 r. Nr 52, poz. 240, z 1995 r. Nr 30, poz. 152, z 1996 r. Nr 106, poz. 469, z 1997 r. Nr 24, poz. 118, Nr 75, poz. 469, Nr 80, poz. 500, Nr 96, poz. 590 i Nr 121, poz. 770) wprowadza ce zmiany:
-
-**Art. 68.** W ustawie z dnia 12 stycznia 1991 r. o po datkach i lokalnych (Dz. U. Nr 9, poz. 31 i Nr 101, poz. 444, z 1992 r. Nr 21, poz. 86, z 1994 r. Nr 123, poz. 600, z 1996 r. Nr 91, poz. 409 i Nr 149, poz. 704, z 1997 r. Nr 5, poz. 24, Nr 107, poz. 689, Nr 121, poz. 770 i Nr 123, poz. 780) wart. 2 w ust. 1 w pkt 3 i 4 wyraz "gminy" wyrazami "jednostki sa terytorialnego".
-
-**Art. 69.** W ustawie z dnia 24 stycznia 1991 r. o kom batantach oraz niektórych osobach ofiarami represji wojennych i okresu powojennego (Dz. U. z 1997 r. Nr 142, poz. 950 i z 1998 r. Nr 37, poz. 204) wprowadza zmiany:
-
-**Art. 70.** W ustawie z dnia 19 kwietnia 1991 r. o sa i (Dz. U. Nr 41, poz. 178 oraz z 1996 r. Nr 24, poz. 110 i Nr 91, poz. 410) wprowadza zmiany:
-
-**Art. 71.** W ustawie z dnia 19 kwietnia 1991 r. o izbach aptekarskich (Dz. U. Nr 41, poz. 179 i Nr 105, poz. 452 oraz z 1997 r. Nr 43, poz. 272 i Nr 121, poz. 770) wprowadza zmiany:
-
-**Art. 72.** W ustawie z dnia 21 czerwca 1991 r. o wpro wadzeniu za koszty nia i zakwaterowania w sanatoriach uzdrowiskowych (Dz. U. Nr 64, poz. 272 i z 1996 r. Nr 34, poz. 148) wart. 1:
-
-**Art. 73.** W ustawie z dnia 4 lipca 1991 r. o stosunku do Polskiego Autokefalicznego Pra (Dz. U. Nr 66, poz. 287 i Nr 95, poz. 425, z 1993 r. Nr 7, poz. 34, z 1994 r. Nr 1, poz. 3 oraz z 1998 r. Nr 59, poz. 375) wprowadza
-
-**Art. 74.** W ustawie z dnia 20 lipca 1991 r. o wej Inspekcji Ochrony Środowiska (Dz. U. Nr 77, poz. 335, z 1996 r. -Nr 106, poz. 496 oraz z 1997 r. Nr 121, poz. 770, Nr 133, poz. 885 i Nr 141, poz. 943) wprowa dza zmiany:
+**Art. 74.** W ustawie z dnia 20 lipca 1991 r. o Państwowej Inspekcji Ochrony Środowiska (Dz.U. Nr 77, poz. 335, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 121, poz. 770, Nr 133, poz. 885 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
 **Art. 8b.**
 
-1. Starosta, wójt, burmistrz (prezydent miasta) odpowie9) w art. 17: za polecenia wydanego na podstawie art. 8a ust. 4.
+1. Starosta, w(cid:243)jt, burmistrz (prezydent miasta) ponoszą wyłączną odpowiedzialność za treść polecenia wydanego na podstawie art. 8a ust. 4.
 
-2. Polecenie przekazane ustnie wymaga potwierdzenia na
+2. Polecenie przekazane ustnie wymaga potwierdzenia na piśmie. w(cid:243)dzki inspektor chrony środowiska natychmiast przedkłada sprawę Gł(cid:243)wnemu Inspektorowi Ochrony Środowiska, jeżeli nie jest w stanie wykonać polecenia albo jeżeli polecenie narusza prawo.
 
-3. Polecenie podlega wy konaniu. wojewódzki inspek tor ochrony natychmiast Inspek torowi Ochrony Środowiska, jeżeli nie jest w stanie polecenia albo polecenie narusza prawo.
+4. Polecenie naruszające prawo jest nieważne. O nieważności polecenia rozstrzyga wojewoda.(cid:148);
 
-4. Polecenie prawo jest nie O polecenia roz strzyga wojewoda.";
+- **9)** w art. 17:
+    - **a)** w ust. 1 skreśla się wyraz "Państwową",
+    - **b)** w ust. 2: - skreśla się pkt 1, - w pkt 1a wyrazy "wojew(cid:243)dzki sejmik samorządu terytorialnego" zastępuje się wyrazami "organy jednostek samorządu terytorialnego",
+    - **c)** w ust. 3 wyrazy "W uzasadnionych przypadkach wojewoda" zastępuje się wyrazem "Wojewoda",
+    - **d)** skreśla się ust. 5;
 
-- **a)** w ust. 1 wyraz"
-- **b)** w ust. 2: - pkt 1, - w pkt la wyrazy "wojewódzki sejmik samoterytorialnego" wyrazami "organy jednostek terytorialne go",
-- **c)** w ust. 3 wyrazy "W uzasadnionych przypadkach wojewoda" wyrazem "Wojewo da",
-- **d)** ust. 5;
-- **10)** wart. 25 w ust. 1 wyrazy "Organy administracji i oraz organy gminy" puje wyrazami "Organy administracji oraz organy jednostek terytorialnego";
-- **11)** w art. 28 w ust. 2 wyrazy "organom administracji i oraz organom gminy" za wyrazami "organom administracji dowej oraz organom jednostek teryto rialnego".
+- **10)** w art. 25 w ust. 1 wyrazy "Organy administracji państwowej i rządowej oraz organy gminy" zastępuje się wyrazami "Organy administracji rządowej oraz organy jednostek samorządu terytorialnego";
+- **11)** w art. 28 w ust. 2 wyrazy "organom administracji państwowej i rządowej oraz organom gminy" zastępuje się wyrazami "organom administracji rządowej oraz organom jednostek samorządu terytorialnego".
 
-75. W ustawie z dnia 24 sierpnia 1991 r. o ochronie (Dz. U. Nr 81, poz. 351, z 1994 r. Nr 27, poz. 96 i Nr 89, poz. 414, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 111, poz. 725 i Nr 121, poz. 770) wprowadza zmiany:
-
-- **1)** wart. 2 pkt 4 otrzymuje brzmienie: ,,4) krajowym systemie - rozumie przez to orga nizacji stwa, w celu ratowania zdrowia, mienia lub prognozo wanie, rozpoznawanie i zwalczanie lub innych miejscowych system ten skupia jednostki ochrony inne in spekcje, instytucje oraz podmioty, które dobrowolnie w drodze umowy cywil noprawnej w ak cjach ratowniczych. ";
-- **2)** w art. 4 w ust. 1 po pkt 2 dodaje pkt 2a w brzmie niu: ,,2a) i naprawy oraz w pkt 2, zgodnie z zasadami i wymaganiami mi sprawne i niezawodne ich funkcjonowa nie,";
-- **3)** wart. 6:
-    - **a)** po ust. 2 dodaje ust. 2a w brzmieniu: ,,2a. W o którym mowa w ust. 2, w
-
-- **1)** rodzaje obiektów, których projekty pu dowlane uzgodnienia,
-- **2)** tryb i zakres dokonywania przez rzeczoznawców do spraw zabezpie
-- **3)** zasady i od rzeczoznawców do spraw za i nadzo rowania ich
-- **4)** zasady prowadzenia kon troli przez komendanta wojewódzkiego nad uzgad nianiem projektów budowlanych pod ochrony
-- **4)** wart. 10 w ust. 1 wyrazy "Ministra Spraw We i Administracji" wyraza mi "komendanta wojewódzkiego
-- **5)** w art. 13 w ust. 1 pkt 1;
-- **6)** art. 14 otrzymuje brzmienie: "Art.14. 1. Krajowy system ma na celu zdrowia, mie nia lub poprzez:
-- **1)** z lub innymi mi
-- **2)** ratownictwo techniczne,
-- **3)** ratownictwo chemiczne,
-- **4)** ratownictwo ekologiczne,
-- **5)** ratownictwo medyczne.
-
-2. Minister do spraw nych w drodze zasady organizacji krajo wego systemu w w zakresie:
-
-- **1)** organizacji na obszarze powiatu, wo jewództwa i kraju,
-- **2)** walki z i innymi
-- **3)** ratownictwa technicznego, chemicz nego, ekologicznego i medycznego,
-- **4)** dysponowania do ratowni czych,
-- **5)** kierowania ratowniczym,
-- **6)** prowadzenia dokumentacji wart. 2 pkt 2 oraz dokumentacji funkcjonowania krajowego systemu
-- **7)** organizacji odwodów operacyjnych,
-- **8)** organizacji stanowisk kierowania.
-
-3. Komendant wojewoda lub starosta odpo wiednio na obszarze kraju, wojewódz twa lub powiatu zadania krajo wego systemu jego funkcjonowanie i kon wykonywanie a w sytuacjach nadzwyczajnych zdrowia lub tym systemem.
-
-4. Wojewoda i starosta swoje zadania przy pomocy do spraw ochrony i ra townictwa.
-
-5. Wójt (burmistrz lub prezydent miasta) koordynuje funkcjonowanie krajowego systemu na ob szarze gminy w zakresie ustalonym przez Zadanie to wykonywa ne jest przy pomocy komendanta gmin nego ochrony komendant taki zatrudniony przez
-
-6. Minister do spraw nych w drodze oraz zasady nia i tryb o któ rych mowa w ust. 4.
-
-7. W sytuacjach nadzwyczajnych ludzi i na obszarze granice po wiatu, koordynacja powiato wych do spraw ochrony prze i ratownictwa do wojewody.
-
-8. W sytuacjach nadzwyczajnych ludzi i na obszarze granice wo jewództwa, koordynacja woje wódzkich do spraw ochrony i ratownictwa do ministra do spraw we
-
-- **7)** wart. 15 po pkt 4 dodaje pkt 4a w brzmieniu: ,,4a) powiatowa (miejska) zawodqwa po
-- **8)** art. 17 otrzymuje brzmienie: "Art. 17. Minister do spraw nych, a za jego inni ministrowie, wojewodowie, organy jednostek samo terytorialnego, instytucje, organiza cje, osoby prawne lub fizyczne two lub dowe wiatowe (miejskie) zawodowe
-- **9)** wart. 19: ratownicze, gminne (miejskie) albo popo terenowe ratownicze lub in ne jednostki ratownicze.";
-    - **a)** po ust. 1 dodaje ust. 1a w brzmieniu: " 1a . Ochotnicza jest w specjali styczny w szczególno do walki z wymi lub innymi miejscowymi mi.",
-    - **b)** w ust. 3 wyrazy "z komendantem wojewódzkim" wyrazami "z komendantem powia towym (miejskim)";
-
-- **10)** wart. 21: stosuje odpowiednio do starosty.";
-    - **a)** oznacza jako ust. 1 oraz w pkt 3 po wyrazach gmin" dodaje wyrazy "i powiatów",
-    - **b)** dodaje ust. 2 w brzmieniu: ,,2. Uprawnienia wojewody w ust.
-
-- **11)** po art. 21 a dodaje art. 21 b w brzmieniu: "Art. 21 b. Do powiatu w zakresie ochrony
-- **1)** prowadzenie analiz i opracowywa nie prognoz oraz innych miej scowych
-- **2)** prowadzenie analizy i krajowego systemu ratowniczo-ga na obszarze powiatu,
-- **3)** budowanie systemu koordynacji jednostek ochrony przeciw w kra jowego systemu czego oraz inspekcji, oraz innych podmiotów w ratowniczych na obszarze powiatu,
-- **4)** organizowanie systemu alarmowania i dzy podmiotami w ratowniczych na ob szarze powiatu.";
-- **12)** wart. 28 ust. 3 otrzymuje brzmienie: ,,3. Ekwiwalent, o którym mowa w ust. 1 i 2, nie ochotniczej po za czas w pracy, za który wynagrodzenie.";
-- **13)** wart. 29:
-    - **a)** pkt 2 otrzymuje brzmienie: ,,2) jednostek terytorial nego,"
-    - **b)** w pkt 3 wyrazy "od ognia";
-
-- **14)** wart. 32:
-    - **a)** ust. 2 otrzymuje brzmienie: ,,2. Koszty utrzymania, wyszkole nia i zapewnienia bojowej ochotni czej ponosi gmina, z zastrze art. 35 ust. 1." /
-    - **b)** ust. 3a otrzymuje brzmienie: ,,3a. Gmina komendanta gmin nego ochrony
-
-- **15)** art. 33 otrzymuje brzmienie: "Art. 33. 1. uczestniczy w kosztach funkcjonowania jednostek ochrony o których mowa wart. 15 pkt 2-6 i 8/ jednostki te w ramach krajowego systemu
-
-2. Minister do spraw nych w drodze tryb i zasady przyznawania dotacji na cele w ust. 1.";
-
-- **16)** w art. 39 w ust. 1 wyrazy" / tym na ce le z przepisów art. 28 ust. 6/ art. 33 ust. 1 i art. 34 ust. 1".
-
-**Art. 76.** W ustawie z dnia 24 sierpnia 1991 r. o stwowej (Dz. U. Nr 88/ poz. 400/ z 1992 r. Nr 21/ poz. 86 i Nr 54, poz. 254/ z 1994 r. Nr 53/ poz. 214/ z 1995 r. Nr 4/ poz. 17 i Nr 34/ poz. 163, z 1996 r. Nr 106/ poz. 496 i Nr 152, poz. 723 oraz z 1997 r. Nr 28/ poz. 153/ Nr 88/ poz. 554 i Nr 106/ poz. 680) wprowadza zmiany:
+**Art. 75.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz.U. Nr 81, poz. 351, z 1994 r. Nr 27, poz. 96 i Nr 89, poz. 414, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 111, poz. 725 i Nr 121, poz. 770) wprowadza się następujące zmiany: 1 ) w art. 2 pkt 4 otrzymuje brzmienie: (cid:132)4) krajowym systemie ratowniczo-gaśniczym (cid:150) rozumie się przez to integralną część organizacji bezpieczeństwa wewnętrznego państwa, obejmującą, w celu ratowania życia, zdrowia, mienia lub środowiska, prognozowanie, rozpoznawanie i zwalczanie pożar(cid:243)w, klęsk żywiołowych lub innych miejscowych zagrożeń; system ten skupia jednostki ochrony przeciwpożarowej, inne służby, inspekcje, straże, instytucje oraz podmioty, kt(cid:243)re dobrowolnie w drodze umowy cywilno-prawnej zgodziły się wsp(cid:243)łdziałać w akcjach ratowniczych. ";
 
 **Art. 19a.**
 
-1. Koszty z funkcjonowaniem po krywane z
+1. Koszty związane z funkcjonowaniem Państwowej Straży Pożarnej są pokrywane z budżetu państwa.
 
-2. Koszty funkcjonowania na obszarze powiatu pokrywane z dotacji celowej bu
+2. Koszty funkcjonowania Państwowej Straży Pożarnej na obszarze powiatu są pokrywane z dotacji celowej budżetu państwa.
 
-**Art. 19b.** W pokrywaniu kosztów funkcjo nowania
+**Art. 19b.** W pokrywaniu części koszt(cid:243)w funkcjonowania Państwowej Straży Pożarnej mogą uczestniczyć:
 
-**Art. 19c.** Wykonanie zleconych wej przez osoby praw ne lub fizyczne, a poza zakres ustawowych jest finansowane przez na podsta wie zawartej umowy.
+**Art. 19c.** Wykonanie zadań zleconych Państwowej Straży Pożarnej przez osoby prawne lub fizyczne, a wykraczających poza zakres ustawowych zadań Państwowej Straży Pożarnej, są finansowane przez właściwego zleceniodawcę na podstawie zawartej umowy.
 
-**Art. 19d.** Osoby prawne lub fizyczne w ponoszeniu kosztów budowy ich i utrzymania.";
+**Art. 19d.** Osoby prawne lub fizyczne mogą uczestniczyć w ponoszeniu koszt(cid:243)w budowy strażnic, ich wyposażenia i utrzymania.";
 
-**Art. 77.** W ustawie z dnia 30 sierpnia 1991 r. o dach opieki zdrowotnej (Dz. U. Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 138, poz. 682, z 1996 r. Nr 24, poz. 110 oraz z 1997 r. Nr 104, poz. 661, Nr 121, poz. 769 i Nr 158, poz. 1041) wprowadza zmiany:
+**Art. 77.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz.U. Nr 91, poz. 408, z 1992 r. Nr 63, poz. 315, z 1994 r. Nr 121, poz. 591, z 1995 r. Nr 141, 661, Nr 121, poz. 769 i Nr 158, poz. 1041) wprowadza się następujące zmiany:
 
-**Art. 78.** W ustawie z dnia 28 1991 r. o la sach (Dz. U. Nr 101, poz. 444, z 1992 r. Nr 21, poz. 85, Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3, Nr 127, poz. 627, z 1995 r. Nr 147, poz. 713, z 1996 r. Nr 91, poz. 409 oraz z 1997 r. Nr 54, poz. 349 i Nr 121, poz. 770 i Nr 160, poz. 1079) wprowadza zmiany:
+**Art. 78.** W ustawie z dnia 28 września 1991 r. o lasach (Dz.U. Nr 101, poz. 444, z 1992 r. Nr 21, poz. 85, Nr 54, poz. 254, z 1994 r. Nr 1, poz. 3, Nr 127, poz. 627, z 1995 r. Nr 147, poz. 713, z 1996 r. Nr 91, poz. 409 oraz z 1997 r. Nr 54, poz. 349 i Nr 121, poz. 770 i Nr 160, poz. 1079) wprowadza się następujące zmiany:
 
-**Art. 80.** W ustawie z dnia 16 1991 r. o ochronie przyrody (Dz. U. Nr 114, poz. 492, z 1992 r. Nr54, poz. 254, z 1994 r. Nr89, poz. 415, z 1995 r. Nr 147, poz. 713, z 1996 r. Nr 91, poz. 409 oraz z 1997 r. Nr 14, poz. 72, Nr 43, poz. 272, Nr 54, poz. 349 i Nr 133, poz. 885) wprowadza zmiany:
+**Art. 79.** W ustawie z dnia 10 października 1991 r. o środkach farmaceutycznych, materiałach medycznych, aptekach, hurtowniach i nadzorze farmaceutycznym (Dz.U. z 1991 r. Nr 105, poz. 452, z 1993 r. Nr 16, poz. 68 i Nr 47, poz. 211, z 1996 r. Nr 106, poz. i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 81.** W ustawie z dnia 19 1991 r. o gospodarowaniu rolnymi Skarbu (Dz. U. z 1995 r. Nr 57, poz. 299 i Nr 101, poz. 504, z 1996 r. Nr 59, poz. 268, Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349 i Nr 79, poz. 484) wprowadza zmiany:
+**Art. 80.** W ustawie z dnia 16 października 1991 r. o ochronie przyrody (Dz.U. Nr 114, poz. 492, z 1992 r. Nr 54, poz. 254, z 1994 r. Nr 89, poz. 415, z 1995 r. Nr 147, poz. 713, z 1996 r. Nr 91, poz. 409 oraz z 1997 r. Nr 14, poz. 72, Nr 43, poz.272, Nr 54, poz. 349 i Nr 133, poz. 885) wprowadza się następujące zmiany:
 
-**Art. 82.** W ustawie z dnia 25 1991 r. o organizowaniu i prowadzeniu kultural nej (Dz. U. z 1997 r. Nr 110, poz. 721 i Nr 141, poz. 943) wprowadza zmiany:
+**Art. 81.** W ustawie z dnia 19 października 1991 r. o gospodarowaniu nieruchomościami rolnymi Skarbu Państwa oraz o zmianie niekt(cid:243)rych ustaw (Dz. U. z 1995 r. Nr 57, poz. 299 i Nr 101, poz. 504, z 1996 r. Nr 59, poz. 268, Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 54, poz. 349 i Nr 79, poz. 484) wprowadza się następujące zmiany:
 
-**Art. 83.** W ustawie z dnia 16 kwietnia 1993 r. o zwal czaniu nieuczciwej konkurencji (Dz. U. Nr 47, poz. 211, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 88, poz. 554) wart. 19 w ust. 1 w pkt 3 przecin kiem i dodaje pkt 4 w brzmieniu: ,,4) powiatowy (miejski) rzecznik konsumentów."
+**Art. 82.** W ustawie z dnia 25 października 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz.U. z 1997 r. Nr 110, poz. 721 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
-**Art. 84.** W ustawie z dnia 29 grudnia 1993 r. o ochro nie pracowniczych w razie pracodawcy (Dz. U. z 1994 r. Nr 1, poz. 1, z 1995 r. Nr 87, poz. 435, z 1996 r. Nr 5, poz. 34 oraz z 1997 r. Nr 28, poz. 153 i Nr 123, poz. 776) wprowadza ce zmiany:
+**Art. 84.** W ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz.U. z 1994 r. Nr 1, poz. 1, z 1995 r. Nr 87, poz. 435, z 1996 r. Nr 5, poz. 34 oraz z 1997 r. Nr 28, poz. 153 i Nr 123, poz. 776) wprowadza się następujące zmiany:
 
-**Art. 85.** W ustawie z dnia 29 grudnia 1993 r. o utwo rzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369 i Nr 98, poz. 473, z 1997 r. Nr 41, poz. 255, Nr 79, poz. 484 i Nr 141, poz. 943) po art. 3 dodaje art. 3a w brzmie niu: "Art. 3a. Agencja jest dla gospodarowania funduszami Unii Europejskiej i innymi fun duszami z pomocy zagra nicznej przekazywanej na podstawie umów Rzeczypospolitej Polskiej na reali wart. 3 ust. 1."
+**Art. 85.** W ustawie z dnia 29 grudnia 1993 r. o utworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz.U. z 1994 r. Nr 1, poz. 2, Nr 80, poz. 369 i Nr 98, poz. 473, z 1997 r. Nr 41, poz. 255, Nr 79, poz. 484 i Nr 141, poz. 943) po art. 3 dodaje się art. 3a w brzmieniu: (cid:132)Art. 3a. Agencja jest właściwa dla gospodarowania funduszami Unii Europejskiej i innymi funduszami pochodzącymi z pomocy zagranicznej przekazywanej na podstawie um(cid:243)w Rządowi Rzeczypospolitej Polskiej na realizację zadań, określonych w art. 3 ust. 1.(cid:148).
 
-**Art. 86.** W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i górnicze (Dz. U. Nr 27, poz. 96 , z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885) wprowadza ce zmiany:
+**Art. 86.** W ustawie z dnia 4 lutego 1994 r. - Prawo geologiczne i g(cid:243)rnicze (Dz.U. Nr 27, poz. 96 , z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 88, poz. 554, Nr 111, poz. 726 i Nr 133, poz. 885) wprowadza się następujące zmiany:
 
-**Art. 87.** W ustawie z dnia 13 maja 1994 r. o stosun ku do Ewangelicko-Augsburskiego w Rzeczypospolitej Polskiej (Dz. U. Nr 73, poz. 323 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 87.** W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła EwangelickoAugsburskiego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 323 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 88.** W ustawie z dnia 13 maja 1994 r. o stosun ku do Ewangelicko-Reformowanego w Rzeczypospolitej Polskiej (Dz. U. Nr 73, poz. 324 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 88.** W ustawie z dnia 13 maja 1994 r. o stosunku Państwa do Kościoła EwangelickoReformowanego w Rzeczypospolitej Polskiej (Dz.U. Nr 73, poz. 324 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 89.** W ustawie z dnia 10 czerwca 1994 r. o zago spodarowaniu Skarbu tych od wojsk Federacji Rosyjskiej (Dz. U. Nr 79, poz. 363) wprowadza zmiany:
+**Art. 89.** W ustawie z dnia 10 czerwca 1994 r. o zagospodarowaniu nieruchomości Skarbu Państwa przejętych od wojsk Federacji Rosyjskiej (Dz.U. Nr 79, poz. 363) wprowadza się następujące zmiany:
 
-**Art. 90.** W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane (Dz. U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496, Nr 146, poz. 680, z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726 oraz z 1998 r. Nr 22, poz. 118) wprowadza zmiany:
+**Art. 90.** W ustawie z dnia 7 lipca 1994 r. - Prawo budowlane (Dz.U. Nr 89, poz. 414, z 1996 r. Nr 100, poz. 465, Nr 106, poz. 496, Nr 146, poz. 680 oraz z 1997 r. Nr 88, poz. 554 i Nr 111, poz. 726) wprowadza się następujące zmiany:
 
 **Art. 80.**
 
-1. Zadania administracji architektonicz no-budowlanej z niem ust. 3 i 4, organy:
+1. Zadania administracji architektoniczno-budowlanej wykonują, z zastrzeżeniem ust. 3 i 4, następujące organy:
 
-- **1)** starosta, wojewoda,
-- **3)** Inspektor Nadzoru Budow lanego.
+- **1)** starosta,
+- **2)** wojewoda,
+- **3)** Gł(cid:243)wny Inspektor Nadzoru Budowlanego. 4, następujące organy:
+- **1)** powiatowy inspektor nadzoru budowlanego,
+- **2)** wojewoda przy pomocy wojew(cid:243)dzkiego inspektora nadzoru budowlanego jako kierownika wojew(cid:243)dzkiego nadzoru budowlanego, wchodzącego w skład zespolonej administracji wojew(cid:243)dzkiej,
+- **3)** Gł(cid:243)wny Inspektor Nadzoru Budowlanego.
 
-2. Zadania nadzoru budowlanego wyko z ust. 3 i 4, organy:
+3. Administrację architektoniczno-budowlaną i nadz(cid:243)r budowlany w dziedzinie transportu kolejowego sprawują okręgowi inspektorzy kolejnictwa oraz Gł(cid:243)wny Inspektor Kolejnictwa, jako centralny organ administracji rządowej w dziedzinie transportu kolejowego.
 
-- **1)** powiatowy i nspektor nadzoru bu dowlanego,
-- **2)** wojewoda przy pomocy wojewódz kiego inspektora nadzoru budowla nego jako kierownika wojewódzkie go nadzoru budowlanego, wcho w zespolonej admi nistracji wojewódzkiej.
-- **3)** Inspektor Nadzoru Budow lanego.
-
-3. architektoniczno-bui nadzór budowlany w dzie dzinie transportu kolejowego sprawu inspektorzy kolejnictwa oraz Inspektor Kolejnictwa, jako centralny organ administracji dowej w dziedzinie transportu kolejo wego.
-
-4. architektoniczno-bui nadzór budowlany w dzie dzinie górnictwa organy w przepisach.
+4. Administrację architektoniczno-budowlaną i nadz(cid:243)r budowlany w dziedzinie g(cid:243)rnictwa sprawują organy określone w odrębnych przepisach.
 
 **Art. 81.**
 
-1. Do podstawowych orga nów administracji architektoniczno -budowlanej i nadzoru budowlanego
+1. Do podstawowych obowiązk(cid:243)w organ(cid:243)w administracji architektoniczno-budowlanej i nadzoru budowlanego należy:
 
-- **1)** nadzór i kontrola nad przestrzega niem przepisów prawa budowlane go, a w
-    - **a)** zagospodarowania te renu z miejscowymi planami za gospodarowania przestrzennego oraz wymaganiami ochrony dowiska,
-    - **b)** warunków ludzi i mienia w tych w projektach budowlanych, przy wykonywaniu robót budow lanych oraz utrzymywaniu obiek tów budowlanych,
-    - **c)** architekto niczno-budowlanych z przepisa mi techniczno-budowlanymi, Polskimi Nor mami oraz zasadami wiedzy technicznej.
-    - **d)** wykonywania sa modzielnych funkcji technicz nych w budownictwie,
-    - **e)** wprowadzania do obrotu i stoso wania wyrobów budowlanych dopuszczonych do obrotu i sto sowania w budownictwie, wydawanie decyzji administracyj nych w sprawach usta
+- **1)** nadz(cid:243)r i kontrola nad przestrzeganiem przepis(cid:243)w prawa budowlanego, a w szczeg(cid:243)lności:
+    - **a)** zgodności zagospodarowania terenu z miejscowymi planami zagospodarowania przestrzennego oraz wymaganiami ochrony środowiska,
+    - **b)** warunk(cid:243)w bezpieczeństwa ludzi i mienia w rozwiązaniach przyjętych w projektach budowlanych, przy wykonywaniu rob(cid:243)t budowlanych oraz utrzymywaniu obiekt(cid:243)w budowlanych,
+    - **c)** zgodności rozwiązań architektoniczno-budowlanych z przepisami techniczno-budowlanymi, obowiązującymi Polskimi Normami oraz zasadami wiedzy technicznej,
+    - **d)** właściwego wykonywania samodzielnych funkcji technicznych w budownictwie,
+    - **e)** wprowadzania do obrotu i stosowania wyrob(cid:243)w budowlanych dopuszczonych do obrotu i stosowania w budownictwie,
 
-- **3)** prowadzenie ujednoliconej ewi dencji rozpoczynanych i oddawa nych do obiektów bu dowlanych.
+- **2)** wydawanie decyzji administracyjnych w sprawach określonych ustawą,
+- **3)** prowadzenie ujednoliconej ewidencji rozpoczynanych i oddawanych do użytkowania obiekt(cid:243)w budowlanych.
 
-2. Przepisu ust. 1 pkt 1 lit. b). c) i e) nie stosuje do budownictwa czalnego, wykonywanego na za terenach badawczych.
+2. Przepisu ust. 1 pkt 1 lit. b), c) i e) nie stosuje się do budownictwa doświadczalnego, wykonywanego na zamkniętych terenach badawczych.
 
-3. Organy administracji architektonicz no-budowlanej i nadzoru budowlane go posiadanie przez osoby samodzielne funkcje techniczne w budownictwie upraw do tych funkcji.
+3. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego kontrolują posiadanie przez osoby wykonujące samonienia tych funkcji.
 
-4. Organy administracji architektonicz no-budowlanej i nadzoru budowlane go przy wykonywaniu przepisami prawa bu dowlanego czyn kontrolnych. Protokolarne usta lenia dokonane w toku tych do wydania decy zji oraz podejmowania innych ków przewidzianych w przepisach prawa budowlanego.
+4. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego przy wykonywaniu obowiązk(cid:243)w określonych przepisami prawa budowlanego, mogą dokonywać czynności kontrolnych. Protokolarne ustalenia dokonane w toku tych czynności stanowią podstawę do wydania decyzji oraz podejmowania innych środk(cid:243)w przewidzianych w przepisach prawa budowlanego.
 
 **Art. 81a.**
 
-1. Organy nadzoru budowlanego lub osoby z ich prawo
+1. Organy nadzoru budowlanego lub osoby działające z ich upoważnienia mają prawo wstępu:
 
 - **1)** do obiektu budowlanego,
 - **2)** na teren:
     - **a)** budowy,
-    - **b)** pracy,
-    - **c)** na którym jest prowadzona dzia gospodarcza na obrocie wyrobami budowla nymi.
+    - **b)** zakładu pracy,
+    - **c)** na kt(cid:243)rym jest prowadzona działalność gospodarcza polegająca na obrocie wyrobami budowlanymi.
 
-2. kontrolne z wyko nywaniem organów nad zoru budowlanego przeprowadza w kierownika budowy lub robót, kierownika pracy lub wyznaczonego pracownika, dostawcy wyrobów budowlanych, w rozumie niu przepisów o badaniach i certyfika cji, osób przez nich nych albo w lub obiektu, a w lokalu mieszkal nym - w domownika i przedstawiciela admini stracji lub budynku.
+2. Czynności kontrolne związane z wykonywaniem uprawnień organ(cid:243)w nadzoru budowlanego, przeprowadza się w obecności kierownika budowy lub rob(cid:243)t, kierownika zakładu pracy lub wyznaczonego pracownika, dostawcy wyrob(cid:243)w budowlanych, w rozumieniu przepis(cid:243)w o badaniach i certyfikacji, bądź os(cid:243)b przez nich upoważnionych albo w obecności właściciela lub zarządcy obiektu, a w lokalu mieszkalnym w obecności pełnoletniego domownika i przedstawiciela administracji lub zarządcy budynku.
 
-3. W razie osób, o których mowa w ust. 2, w uzasadnionych przy padkach, kontrolne dokonywane w przy
+3. W razie nieobecności os(cid:243)b, o kt(cid:243)rych mowa w ust. 2, w uzasadnionych przypadkach, czynności kontrolne mogą być dokonywane w obecności przywołanego pełnoletniego świadka.
 
-4. kontrolne obiek tów budowlanych, które w dzie obcych albo ne przez przedstawicieli dyplomatycz nych i konsularnych tych lub przez inne osoby zrównane z nimi na podstawie ustaw, umów lub po wszechnie ustalonych zwyczajów wyko nywane za tych przedstawicieli lub osób.
+4. Czynności kontrolne dotyczące obiekt(cid:243)w budowlanych, kt(cid:243)re są w zarządzie państw obcych albo są użytkowane przez przedstawicieli dyplomatycznych i konsularnych tych państw lub przez inne osoby zr(cid:243)wnane z nimi na podstawie ustaw, um(cid:243)w lub powszechnie ustalonych zwyczaj(cid:243)w międzynarodowych, mogą być wykonywane za zgodą tych przedstawicieli lub os(cid:243)b.
 
-**Art. 81b.** Organy administracji architektoniczno -budowlanej lub osoby z ich w celu wykonania czyn o których mowa wart. 59 ust. 1, prawo na teren budowy. Przepis art. 81a ust. 4 stosuje odpo wiednio.
+**Art. 81b.** Organy administracji architektoniczno-budowlanej lub osoby działające z ich upoważnienia, w celu wykonania czynności, o kt(cid:243)rych mowa w art. 59 ust. 1, mają prawo wstępu na teren budowy. Przepis art. 81a ust. 4 stosuje się odpowiednio.
 
-**Art. 81c.**
+**Art. 81c.** l. Organy administracji architektoniczno-budowlanej i nadzoru budowlanego przy wykonywaniu zadań określonych przepisami prawa budowlanego mogą żądać od uczestnik(cid:243)w procesu budowlanego, właściciela lub zarządcy obiektu budowlanego, a także dostawcy wyrob(cid:243)w budowlanych, w rozumieniu przepis(cid:243)w o badaniach i certyfikacji, informacji i udostępnienia dokument(cid:243)w: budowlanego do użytkowania, utrzymaniem i użytkowaniem obiektu budowlanego,
 
-1. Organy administracji architektonicz no-budowlanej i nadzoru budowlane go przy wykonywaniu nych przepisami prawa budowlanego od uczestników procesu budowlanego, lub cy obiektu budowlanego, a do stawcy wyrobów budowlanych, w ro zumieniu przepisów o badaniach i cer tyfikacji, informacji i dokumentów:
+**Art. 82.** l. Do właściwości organ(cid:243)w administracji architektonicznobudowlanej należą sprawy określone w ustawie i nie zastrzeżone do właściwości innych organ(cid:243)w. 2. Organem administracji architektoniczno-budowlanej pierwszej instancji, z zastrzeżeniem ust. 3 i 4, jest starosta. 3. Wojewoda jest organem administracji architektonicznobudowlanej wyższego stopnia w stosunku do starosty oraz organem pierwszej instancji w sprawach obiekt(cid:243)w i rob(cid:243)t budowlanych:
 
-- **1)** z prowadzeniem robót, przekazywaniem obiektu budowla nego do utrzyma niem i obiektu bu dowlanego,
-- **2)** o dopuszczeniu wy robu budowlanego do obrotu i sto sowania w budownictwie.
-
-2. Organy administracji architektonicz no-budowlanej i nadzoru budowlane go, w razie powstania uzasadnionych co do wyrobów budowlanych lub robót budowlanych, a stanu technicznego obiektu budowlanego, w dro dze postanowienia, na osoby, o któ rych mowa w ust. 1, do starczenia w terminie od powiednich ocen technicznych lub ekspertyz. Koszty ocen i ekspertyz po nosi osoba do ich do starczenia.
-
-3. Na postanowienie, o którym mowa w ust. 2,
-
-4. W razie niedostarczenia w wyznaczo nym terminie ocen lub eks pertyz albo w razie dostarczenia ocen lub ekspertyz, które niedostatecznie ich przed miotem, organ administracji architek toniczno-budowlanej lub nadzoru bu dowlanego wykonanie tych ocen lub ekspertyz albo wykona nie dodatkowych ocen lub ekspertyz na koszt osoby do ich dostarczenia.
-
-**Art. 82.**
-
-1. Do organów administra cji architektoniczno-budowlanej nale sprawy w ustawie i nie do innych or ganów.
-
-2. Organem administracji architekto niczno-budowlanej pierwszej instan cji, z ust. 3 i 4, jest sta rosta.
-
-3. Wojewoda jest organem administracji architektoniczno-budowlanej go stopnia w stosunku do starosty oraz organem pierwszej instancji w sprawach obiektów i robót budow lanych:
-
-- **1)** usytuowanych na terenie pasa technicznego, portów i przystani morskich, morskich wód nych i morza terytorialnego, a innych terenach przeznaczonych do utrzymania ruchu i transportu mor skiego,
-- **2)** hydrotechnicznych upustowych, regulacyjnych, melio racji podstawowych oraz i innych obiektów towaniu zasobów wodnych i korzy staniu z nich, wraz z obiektami to
-- **3)** dróg publicznych krajowych i woje wódzkich, wraz z obiektami i dzeniami do utrzymania tych dróg i transportu drogowego, a w odniesieniu do dróg ekspreso wych i autostrad - wraz z obiekta mi i nych, pojazdów i
-- **4)** lotnisk cywilnych wraz z obiektami i
-- **5)** celom wojskowym i in nym na te renach
-- **6)** celom oraz celom wojskowym jednostek organizacyjnych mini strowi do spraw we i ministrowi mu do spraw administracji publicz nej, na terenach
-
-4. Rada Ministrów w dro dze inne wy mienione w ust. 3 obiekty i roboty bu dowlane, w sprawach których orga nem pierwszej instancji jest wojewo da.
-
-**Art. 82a.** Starosta gminom, w drodze porozumienia, prowadzenie spraw z zakresu swojej jako organu administracji architektoniczno -budowlanej, w tym wydawanie w jego imieniu decyzji administracyjnych, z wy spraw, w których inwestorem jest gmina, komunalna osoba prawna lub inna komunalna jednostka organiza cyjna.
+**Art. 82a.** Starosta może powierzyć gminom, w drodze porozumienia, prowadzenie spraw z zakresu swojej właściwości jako organu administracji architektoniczno-budowlanej, w tym wydawanie w jego imieniu decyzji administracyjnych, z wyjątkiem spraw, w kt(cid:243)rych inwestorem jest gmina, komunalna osoba prawna lub inna komunalna jednostka organizacyjna.
 
 **Art. 82b.**
 
-1. Organy administracji architektonicz no-budowlanej nie organom nadzoru budowlanego kopie decyzji, i z przepisów prawa bu dowlanego oraz te or gany o stwierdzonych przy wykonywaniu robót budowlanych lub utrzymaniu obiek tów budowlanych.
+1. Organy administracji architektoniczno-budowlanej przekazują bezzwłocznie organom nadzoru budowlanego kopie decyzji, postanowień i zgłoszeń wynikających z przepis(cid:243)w prawa budowlanego oraz zawiadamiają te organy o stwierdzonych nieprawidłowościach przy wykonywaniu rob(cid:243)t budowlanych lub utrzymaniu obiekt(cid:243)w budowlanych.
 
-2. Organy administracji architektonicz no-budowlanej na we zwanie organów nadzoru budowlane go, w inspekcyjnych i kontrolnych oraz wszel kie dokumenty i informacje z tymi
+2. Organy administracji architektoniczno-budowlanej uczestniczą, na wezwanie organ(cid:243)w nadzoru budowlanego w czynnościach inspekcyjnych i kontrolnych oraz udostępniają wszelkie dokumenty i informacje związane z tymi czynnościami.
 
 **Art. 83.**
 
-1. Do powiatowego inspek tora nadzoru budowlanego jako orga nu pierwszej instancji zadania i kompetencje, o których mowa wart. 48, art. 50, art. 51, art. 62 ust. 3, art. 65, art. 66, art. 67 ust. 1, art. 68, art. 69, art. 70 ust. 2, art. 74, art. 75 ust. 1 pkt 3 lit. a), art. 76, art. 78 oraz art. 97 ust. 1.
+1. Do właściwości powiatowego inspektora nadzoru budowlanego jako organu pierwszej instancji należą zadania i kompetencje, o kt(cid:243)rych mowa w art. 48, art. 50, art. 51, art. 62 ust. 3, art. 65, art. 66, art. 67 ust. 1, art. 68, art. 69, art. 70 ust. 2, art. 74, art. 75 ust. 1 pkt 3 lit. a), art. 76, art. 78 oraz art. 97 ust. 1.
 
-2. Organem stopnia w stosun ku do powiatowego inspektora nadzo ru budowlanego jest wojewódzki in spektor nadzoru budowlanego.
+2. Organem wyższego stopnia w stosunku do powiatowego inspektora nadzoru budowlanego jest wojew(cid:243)dzki inspektor nadzoru budowlanego.
 
-3. Do wojewódzkiego in spektora nadzoru budowlanego jako organu pierwszej instancji za dania i kompetencje w ust. 1, w sprawach, o których mowa wart. 82 ust. 3 i 4.
+3. Do właściwości wojew(cid:243)dzkiego inspektora nadzoru budowlanego jako organu pierwszej instancji należą zadania i kompetencje określone w ust. 1, w sprawach, o kt(cid:243)rych mowa w art. 82 ust. 3 i
+
+4.
 
 **Art. 84.**
 
-1. Do organów nadzoru budowla nego
+1. Do zadań organ(cid:243)w nadzoru budowlanego należy:
 
-- **1)** kontrola przestrzegania i stosowa nia przepisów prawa budowlane go,
-- **2)** kontrola organów admini stracji architektoniczno-budowla nej,
-- **3)** badanie przyczyn powstawania ka tastrof budowlanych,
-- **4)** z organami kontroli
+- **1)** kontrola przestrzegania i stosowania przepis(cid:243)w prawa budowlanego,
+- **2)** kontrola działania organ(cid:243)w administracji architektonicznobudowlanej,
+- **3)** badanie przyczyn powstawania katastrof budowlanych,
+- **4)** wsp(cid:243)łdziałanie z organami kontroli państwowej. działania organ(cid:243)w nadzoru budowlanego w przypadku wystąpienia stanu klęski żywiołowej.
 
-2. Inspektor Nadzoru Budowla nego zadania i tryb organów nadzoru budowlanego w przypadku stanu
-
-3. Rada Ministrów w drodze roz wymagane kwalifikacje i zasady wynagradzania pracowników Nadzoru Budowla nego oraz wojewódzkich i powiato wych inspektoratów nadzoru budow lanego.
+3. Rada Ministr(cid:243)w określi, w drodze rozporządzenia, wymagane kwalifikacje i zasady wynagradzania pracownik(cid:243)w Gł(cid:243)wnego Urzędu Nadzoru Budowlanego oraz wojew(cid:243)dzkich i powiatowych inspektorat(cid:243)w nadzoru budowlanego.
 
 **Art. 84a.**
 
-1. Kontrola przestrzegania i stosowania przepisów prawa budowlanego obej muje:
+1. Kontrola przestrzegania i stosowania przepis(cid:243)w prawa budowlanego obejmuje:
 
-- **1)** wykonywania robót budowlanych z przepisami prawa budowlanego, projektem budowlanym i warunkami nymi w decyzji o pozwoleniu na bu
-- **2)** sprawdzanie posiadania przez oso by samodzielne funkcje techniczne w budownictwie wych do tych funkcji,
-- **3)** sprawdzanie dopuszczenia do ob rotu i stosowania w budownictwie wyrobów budowlanych.
+- **1)** kontrolę zgodności wykonywania rob(cid:243)t budowlanych z przepisami prawa budowlanego, projektem budowlanym i warunkami określonymi w decyzji o pozwoleniu na budowę,
+- **2)** sprawdzanie posiadania przez osoby pełniące samodzielne funkcje techniczne w budownictwie właściwych uprawnień do pełnienia tych funkcji,
+- **3)** sprawdzanie dopuszczenia do obrotu i stosowania w budownictwie wyrob(cid:243)w budowlanych.
 
-2. Organy nadzoru budowlanego, kon stosowanie przepisów prawa budowlanego:
+2. Organy nadzoru budowlanego kontrolując stosowanie przepis(cid:243)w prawa budowlanego:
 
-- **1)** nia administracyjnego przed orga nami administracji architektonicz no-budowlanej oraz wydawanych w jego toku decyzji i
-- **2)** wykonywanie ków z decyzji i posta wydanych na podstawie przepisów prawa budowlanego.
+- **1)** badają prawidłowość postępowania administracyjnego przed organami administracji architektoniczno-budowlanej oraz wydawanych w jego toku decyzji i postanowień,
+- **2)** sprawdzają wykonywanie obowiązk(cid:243)w wynikających z decyzji i postanowień wydanych na podstawie przepis(cid:243)w prawa budowlanego.
 
 **Art. 84b.**
 
-1. organów admini stracji architektoniczno-budowlanej
+1. Kontrolę działania organ(cid:243)w administracji architektonicznobudowlanej wykonują:
 
-- **1)** wojewódzki inspektor nadzoru bu dowlanego w stosunku do starosty, Inspektor Nadzoru Budow lanego w stosunku do wojewody.
+- **1)** wojew(cid:243)dzki inspektor nadzoru budowlanego w stosunku do starosty,
+- **2)** Gł(cid:243)wny Inspektor Nadzoru Budowlanego w stosunku do wojewody.
 
-2. Organy nadzoru budowlanego, w wy niku kontroli organów admi nistracji architektoniczno-budowla nej, do or ganów zalecenia pokontrolne, z wy znaczeniem terminu ich wykonania. O wykonaniu oraz o innych w z ujawnionymi organy te organy nadzoru budowlane go.
+2. Organy nadzoru budowlanego, w wyniku kontroli działania organ(cid:243)w administracji architektoniczno-budowlanej, mogą kierować do właściwych organ(cid:243)w zalecenia pokontrolne, z wyznaczeniem terminu ich wykonania. O wykonaniu zaleceń oraz o innych działaniach podjętych w związku z ujawnionymi nieprawidłowościami organy te zawiadamiają niezwłocznie właściwe organy nadzoru budowlanego.
 
-3. W przypadku ustalenia przez organy nadzoru budowlanego, wznowie nie albo stwierdzenie decyzji wydanej przez or gan administracji architektoniczno -budowlanej, organ admini stracji architektoniczno-budowlanej wznawia lub wszczyna z powanie.
+3. W przypadku ustalenia przez organy nadzoru budowlanego, że zachodzą okoliczności uzasadniające wznowienie postępowania albo stwierdzenie nieważności decyzji wydanej przez organ administracji architektoniczno-budowlanej, właściwy organ administracji architektoniczno-budowlanej wznawia lub wszczyna z urzędu postępowanie. drodze rozporządzenia, szczeg(cid:243)łowy tryb przeprowadzania kontroli działania organ(cid:243)w administracji architektonicznobudowlanej oraz wzory protokoł(cid:243)w kontrolnych i spos(cid:243)b ich sporządzania.
 
-4. Minister do spraw admini stracji publicznej w drodze tryb przeprowadzania kontroli organów administracji architektonicz no-budowlanej oraz wzory protoko kontrolnych i sposób ich dzania.
-
-**Art. 85.** Współdziałanie organów nadzoru bu dowlanego z organami administracji ar chitektoniczno-budowlanej i organami kontroli obejmuje w szcze
+**Art. 85.** Wsp(cid:243)łdziałanie organ(cid:243)w nadzoru budowlanego z organami administracji architektoniczno-budowlanej i organami kontroli państwowej obejmuje w szczeg(cid:243)lności:
 
 **Art. 86.**
 
-1. Powiatowy inspektor nadzoru budow lanego jest przez staro co najmniej trzech kandy datów wskazanych przez wojewódz kiego inspektora nadzoru budowlane go. starosta nie powia towego inspektora nadzoru budowla nego w terminie 30 dni od dnia przed stawienia kandydatów, wojewódzki inspektor nadzoru budowlanego wskazuje nich kandydata, którego starosta na stano wisko powiatowego inspektora nad zoru budowlanego.
+1. Powiatowy inspektor nadzoru budowlanego jest powoływany przez starostę spośr(cid:243)d co najmniej trzech kandydat(cid:243)w wskazanych przez wojew(cid:243)dzkiego inspektora nadzoru budowlanego. Jeżeli starosta nie powoła powiatowego inspektora nadzoru budowlanego w terminie 30 dni od dnia przedstawienia kandydat(cid:243)w, wojew(cid:243)dzki inspektor nadzoru budowlanego wskazuje spośr(cid:243)d nich kandydata, kt(cid:243)rego starosta powołuje na stanowisko powiatowego inspektora nadzoru budowlanego.
 
-2. Starosta powiatowego in spektora nadzoru budowlanego:
+2. Starosta odwołuje powiatowego inspektora nadzoru budowlanego:
 
-- **1)** w uzgodnieniu z wojewódzkim in spektorem nadzoru budowlanego albo
-- **2)** na wniosek wojewódzkiego inspek tora nadzoru budowlanego.
+- **1)** w uzgodnieniu z wojew(cid:243)dzkim inspektorem nadzoru budowlanego albo
+- **2)** na wniosek wojew(cid:243)dzkiego inspektora nadzoru budowlanego.
 
-3. Powiatowy inspektor nadzoru budow lanego wykonuje swoje zadania przy pomocy powiatowego inspektoratu nadzoru budowlanego.
+3. Powiatowy inspektor nadzoru budowlanego wykonuje swoje zadania przy pomocy powiatowego inspektoratu nadzoru budowlanego.
 
-4. i wy zakres powiatowego inspek toratu nadzoru budowlanego powiatowy inspektor nadzoru budow lanego w regulaminie organizacyj nym.
+4. Organizację wewnętrzną i szczeg(cid:243)łowy zakres zadań powiatowego inspektoratu nadzoru budowlanego określa powiatowy inspektor nadzoru budowlanego w regulaminie organizacyjnym.
 
 **Art. 87.**
 
-1. Wojewódzki inspektor nadzoru bu dowlanego jest przez co najmniej trzech kandydatów wskazanych przez nego Inspektora Nadzoru Budowlane go. wojewoda nie woje wódzkiego inspektora nadzoru bu dowlanego w terminie 30 dni od dnia przedstawienia kandydatów, Inspektor Nadzoru Budowlanego wskazuje nich kandydata, którego wojewoda na sta nowisko wojewódzkiego inspektora nadzoru budowlanego.
+1. Wojew(cid:243)dzki inspektor nadzoru budowlanego jest powoływany przez wojewodę spośr(cid:243)d co najmniej trzech kandydat(cid:243)w wskazanych przez Gł(cid:243)wnego Inspektora Nadzoru Budowlanego. Jeżeli wojewoda nie powoła wojew(cid:243)dzkiego inspektora nadzoru budowlanego w terminie 30 dni od dnia przedstawienia kandydat(cid:243)w, Gł(cid:243)wny Inspektor Nadzoru Budowlanego wskazuje spośr(cid:243)d nich kandydata, kt(cid:243)rego wojewoda powołuje na stanowisko wojew(cid:243)dzkiego inspektora nadzoru budowlanego.
 
-2. Wojewoda wojewódzkiego inspektora nadzoru budowlanego:
+2. Wojewoda odwołuje wojew(cid:243)dzkiego inspektora nadzoru budowlanego:
 
-- **1)** w uzgodnieniu z Inspek torem Nadzoru Budowlanego albo
-- **2)** na wniosek Inspektora Nadzoru Budowlanego.
+- **1)** w uzgodnieniu z Gł(cid:243)wnym Inspektorem Nadzoru Budowlanego albo
+- **2)** na wniosek Gł(cid:243)wnego Inspektora Nadzoru Budowlanego.
 
-3. Wojewódzki inspektor nadzoru bu dowlanego wykonuje swoje zadania przy pomocy wojewódzkiego inspek toratu nadzoru budowlanego.
-
-4. wojewódzkiego inspekto ratu nadzoru budowlanego re gulamin ustalony przez wojewódzkie go inspektora nadzoru budowlanego i zatwierdzony przez
+3. Wojew(cid:243)dzki inspektor nadzoru budowlanego wykonuje swoje zadania przy pomocy wojew(cid:243)dzkiego inspektoratu nadzoru budowlanego. określa regulamin ustalony przez wojew(cid:243)dzkiego inspektora nadzoru budowlanego i zatwierdzony przez wojewodę.
 
 **Art. 88.**
 
-1. Inspektor Nadzoru Budowla nego jest centralnym organem admi nistracji w sprawach admi nistracji architektoniczno-budowlanej i nadzoru budowlanego.
+1. Gł(cid:243)wny Inspektor Nadzoru Budowlanego jest centralnym organem administracji rządowej w sprawach administracji architektoniczno-budowlanej i nadzoru budowlanego.
 
-2. Inspektor Nadzoru Budowla nego jest organem w sprawach indywidualnych, roz strzyganych w drodze administracyjnego, w zakresie wyni z przepisów prawa budowla nego.
+2. Gł(cid:243)wny Inspektor Nadzoru Budowlanego jest organem właściwym w sprawach indywidualnych, rozstrzyganych w drodze postępowania administracyjnego, w zakresie wynikającym z przepis(cid:243)w prawa budowlanego.
 
-3. Inspektor Nadzoru Budowla nego jest i przez Prezesa Rady Ministrów na wniosek ministra do spraw administracji publicznej.
+3. Gł(cid:243)wny Inspektor Nadzoru Budowlanego jest powoływany i odwoływany przez Prezesa Rady Ministr(cid:243)w na wniosek ministra właściwego do spraw administracji publicznej.
 
-4. Kadencja Inspektora Nad zoru Budowlanego trwa 6 lat.
+4. Kadencja Gł(cid:243)wnego Inspektora Nadzoru Budowlanego trwa 6 lat.
 
-5. Po kadencji Inspektor Nadzoru Budowlanego obo do czasu stanowiska przez nowego Inspektora Nadzoru Budowlanego.
+5. Po upływie kadencji Gł(cid:243)wny Inspektor Nadzoru Budowlanego pełni obowiązki do czasu objęcia stanowiska przez nowego Gł(cid:243)wnego Inspektora Nadzoru Budowlanego.
 
-6. Ta sama osoba Inspektorem Nadzoru Budowlanego nie przez dwie kolejne ka dencje.
+6. Ta sama osoba może być Gł(cid:243)wnym Inspektorem Nadzoru Budowlanego nie dłużej niż przez dwie kolejne kadencje.
 
-7. Kadencja Inspektora Nad zoru Budowlanego wygasa w razie je go lub
+7. Kadencja Gł(cid:243)wnego Inspektora Nadzoru Budowlanego wygasa w razie jego odwołania lub śmierci.
 
-8. Prezes Rady Ministrów Inspektora Nadzoru Bu dowlanego, Inspektor Nadzoru Budowlanego:
+8. Prezes Rady Ministr(cid:243)w odwołuje Gł(cid:243)wnego Inspektora Nadzoru Budowlanego jeżeli Gł(cid:243)wny Inspektor Nadzoru Budowlanego:
 
-- **1)** stanowiska,
-- **2)** trwale niezdolny do nia na skutek choroby, nie wykonuje lub wykonuje w spo sób ne w ustawie,
-- **4)** skazany prawomocnym wy rokiem za prze
+- **1)** zrzekł się stanowiska,
+- **2)** stał się trwale niezdolny do pełnienia obowiązk(cid:243)w na skutek choroby,
+- **3)** nie wykonuje lub wykonuje w spos(cid:243)b nienależyty obowiązki określone w ustawie,
+- **4)** został skazany prawomocnym wyrokiem sądu za popełnienie przestępstwa.
 
-9. Inspektora Nad zoru Budowlanego i przez ministra wego do spraw administracji publicz nej na wniosek Inspektora Nadzoru Budowlanego.
+9. Zastępcy Gł(cid:243)wnego Inspektora Nadzoru Budowlanego są powoływani i odwoływani przez ministra właściwego do spraw administracji publicznej na wniosek Gł(cid:243)wnego Inspektora Nadzoru Budowlanego.
 
-**Art. 88a.** Główny Inspektor Nadzoru Budowla nego wykonuje zadania przepisami prawa budowlanego, a w
+**Art. 88a.** Gł(cid:243)wny Inspektor Nadzoru Budowlanego wykonuje zadania określone przepisami prawa budowlanego, a w szczeg(cid:243)lności:
 
 **Art. 88b.**
 
-1. Inspektor Nadzoru Budowla nego wykonuje swoje zadania przy pomocy Nadzoru Budowlanego.
+1. Gł(cid:243)wny Inspektor Nadzoru Budowlanego wykonuje swoje zadania przy pomocy Gł(cid:243)wnego Urzędu Nadzoru Budowlanego.
 
-2. Nad zoru Budowlanego nadany, w drodze statut przez Prezesa Rady Ministrów.
+2. Organizację Gł(cid:243)wnego Urzędu Nadzoru Budowlanego określa statut nadany, w drodze rozporządzenia, przez Prezesa Rady Ministr(cid:243)w.
 
-3. i wy zakres Nadzoru Budowlanego ny Inspektor Nadzoru Budowlanego w regulaminie organizacyjnym.
+3. Organizację wewnętrzną i szczeg(cid:243)łowy zakres zadań Gł(cid:243)wnego Urzędu Nadzoru Budowlanego określa Gł(cid:243)wny Inspektor Nadzoru Budowlanego w regulaminie organizacyjnym.
 
 **Art. 89.**
 
-1. Do organów administra cji architektoniczno-budowlanej i nad zoru budowlanego w dziedzinie trans portu kolejowego sprawy i z nimi w ustawie, z wy dawania uprawnlen budowlanych wart. 14 ust. 1 pkt 1-5.
+1. Do właściwości organ(cid:243)w administracji architektonicznobudowlanej i nadzoru budowlanego w dziedzinie transportu kolejowego należą sprawy i związane z nimi środki działania określone w ustawie, z wyjątkiem wydawania uprawnień budowlanych, określonych w art. 14 ust. 1 pkt 1-5.
 
-2. inspektor kolejnictwa jest organem pierwszej instancji w dzie dzinie transportu kolejowego, w spra wach obiektów i robót budowlanych usytuowanych na obszarze kolejo wym, w przepisach o transporcie kolejowym, w zakresie budowy i eksploatacji dróg szyno wych wraz z przeznaczonymi do pro wadzenia ruchu kolejowego budynka mi, budowlami i
+2. Okręgowy inspektor kolejnictwa jest organem pierwszej instancji w dziedzinie transportu kolejowego, w sprawach obiekt(cid:243)w i rob(cid:243)t budowlanych usytuowanych na obszarze kolejowym, określonym w przepisach o transporcie kolejowym, w zakresie budowy i eksploatacji dr(cid:243)g szynowych wraz z przeznaczonymi do prowadzenia ruchu kolejowego budynkami, budowlami i urządzeniami.
 
-3. Inspektor Kolejnictwa jest or ganem stopnia w stosunku do inspektora kolejnic twa w sprawach, o których mowa w ust. 2.
+3. Gł(cid:243)wny Inspektor Kolejnictwa jest organem wyższego stopnia w stosunku do okręgowego inspektora kolejnictwa, w sprawach, o kt(cid:243)rych mowa w ust. 2.
 
-4. Minister do spraw transpor tu w porozumieniu z ministrem do spraw administracji pu blicznej w drodze dzenia, zakres inspektorów kolejnictwa jako organów administracji architek toniczno-budowlanej i nadzoru bu dowlanego.
+4. Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw administracji publicznej określi, w drodze rozporządzenia, szczeg(cid:243)łowy zakres działania okręgowych inspektor(cid:243)w kolejnictwa jako organ(cid:243)w administracji architektoniczno-budowlanej i nadzoru budowlanego.
 
-**Art. 89a.** Do organów administracji architektoniczno-budowlanej i nadzoru budowlanego w dziedzinie górnictwa sprawy i z nimi w ustawie, ce obiektów i robót budowlanych usytu owanych na terenach w dyspozycji górni czych.
+**Art. 89a.** Do właściwości organ(cid:243)w administracji architektoniczno-budowlanej i nadzoru budowlanego w dziedzinie g(cid:243)rnictwa należą sprawy i związane z nimi środki działania określone w ustawie, dotyczące obiekt(cid:243)w i rob(cid:243)t budowlanych usytuowanych na terenach zamkniętych, będących w dyspozycji zakład(cid:243)w g(cid:243)rniczych.
 
-**Art. 89b.** Wojewoda w sprawach, o których mowa w art. 82 ust. 3 pkt 1,5 i 6, oraz organy nadzoru budowlanego w dzie dzinach transportu kolejowego i górnic twa, przy wydawaniu pozwolenia na bu do sprawdzenia posiadania przez inwestora postanowie nia o uzgodnieniu, o którym mowa w art. 33 ust. 2 pkt 4.
+**Art. 89b.** Wojewoda w sprawach, o kt(cid:243)rych mowa w art. 82 ust. 3 pkt 1, 5 i 6 oraz właściwe organy nadzoru budowlanego w dziedzinach transportu kolejowego i g(cid:243)rnictwa, przy wydawaniu pozwolenia na budowę są obowiązani do sprawdzenia posiadania przez inwestora postanowienia o uzgodnieniu, o kt(cid:243)rym mowa w art. 33 ust. 2 pkt 4.
 
 **Art. 89c.**
 
-1. W przypadkach za lub zdrowia ludzi zanych z utrzymaniem lub obiektów budowlanych sta rosta, wójt, burmistrz i prezydent mia sta powia towemu inspektorowi nadzoru bu dowlanego polecenie do tego za
+1. W przypadkach bezpośredniego zagrożenia życia lub zdrowia ludzi związanych z budową, utrzymaniem lub rozbi(cid:243)rką obiekt(cid:243)w budowlanych starosta, w(cid:243)jt, burmistrz i prezydent miasta mogą wydać właściwemu powiatowemu inspektorowi nadzoru budowlanego polecenie podjęcia działań zmierzających do usunięcia tego zagrożenia. powiedzialność za treść polecenia, o kt(cid:243)rym mowa w ust. 1.
 
-2. Starosta, wójt, burmistrz i prezydent miasta odpowie za polecenia, o którym mowa w ust. 1.
+3. Polecenie przekazane ustnie wymaga potwierdzenia na piśmie.
 
-3. Polecenie przekazane ustnie wymaga potwierdzenia na
+4. Polecenie podlega niezwłocznemu wykonaniu. Powiatowy inspektor nadzoru budowlanego natychmiast przedkłada sprawę wojew(cid:243)dzkiemu inspektorowi nadzoru budowlanego, jeżeli nie jest w stanie wykonać polecenia albo jeżeli polecenie narusza prawo.
 
-4. Polecenie podlega wykonaniu. Powiatowy inspektor nadzoru budowlanego natychmiast wojewódzkiemu inspektorowi nadzoru budowlanego, nie jest w stanie pole cenia albo polecenie narusza prawo.
+5. Polecenie naruszające prawo jest nieważne. O nieważności polecenia rozstrzyga wojewoda.(cid:148);
 
-5. Polecenie prawo jest nie O polecenia roz strzyga wojewoda.";
+- **10)** w art. 97 w ust. 1 i w art. 100 skreśla się wyraz (cid:132)państwowego(cid:148);
+- **11)** skreśla się art. 102.
 
-- **10)** w art. 97 w ust. 1 i w art. 100 wyraz stwowego";
-- **11)** art. 102.
-
-**Art. 91.** W ustawie z dnia 7 lipca 1994 r. o zagospo darowaniu przestrzennym (Dz. U. Nr 89 poz. 415, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726, Nr 133, poz. 885 i Nr 141, poz. 943) wprowadza na zmiany:
+**Art. 91.** W ustawie z dnia 7 lipca 1994 r. o zagospodarowaniu przestrzennym (Dz.U. Nr 89 poz. 415, z 1996 r. Nr 106, poz. 496, z 1997 r. Nr 111, poz. 726, Nr 133, poz. 885 i Nr 141, poz. 943) wprowadza się następujące zmiany:
 
 **Art. 54a.**
 
-1. W celu i kierunków polityki przestrzennej or gany województwa pro analizy i studia oraz opraco koncepcje i progra my, do obszarów i za - odpowiednio do potrzeb i celów podejmowanych prac.
+1. W celu określenia uwarunkowań i kierunk(cid:243)w polityki przestrzennej, organy samorządu wojew(cid:243)dztwa prowadzą analizy i studia oraz opracowują koncepcje i sporządzają programy, odnoszące się do obszar(cid:243)w i zagadnień - odpowiednio do potrzeb i cel(cid:243)w podejmowanych prac.
 
-2. Organy powiatu w granicach swojej rze czowej, analizy i studia z zakresu za gospodarowania przestrzennego, do obszaru powiatu i jego rozwoju.
+2. Organy powiatu mogą prowadzić, w granicach swojej właściwości rzeczowej, analizy i studia z zakresu zagospodarowania przestrzennego, odnoszące się do obszaru powiatu i zagadnień jego rozwoju.
 
 **Art. 54b.**
 
-1. Sejmik województwa uchwala stra rozwoju województwa uwarunkowania, cele i kierunki rozwoju województwa.
+1. Sejmik wojew(cid:243)dztwa uchwala strategię rozwoju wojew(cid:243)dztwa określającą uwarunkowania, cele i kierunki rozwoju wojew(cid:243)dztwa.
 
-2. Sejmik województwa uchwala plan zagospodarowania przestrzennego województwa, w którym zasady organizacji struktury prze strzennej, w tym:
+2. Sejmik wojew(cid:243)dztwa uchwala plan zagospodarowania przestrzennego wojew(cid:243)dztwa, w kt(cid:243)rym określa się zasady organizacji struktury przestrzennej, w tym:
 
-- **1)** podstawowe elementy sieci osad niczej,
-- **2)** rozmieszczenie infrastruktury spo technicznej i innej,
-- **3)** wymagania w zakresie ochrony przyrodniczego i ochro ny dóbr kultury - z niem obszarów szczególnej ochronie.
+- **1)** podstawowe elementy sieci osadniczej,
+- **2)** rozmieszczenie infrastruktury społecznej, technicznej i innej, ochrony d(cid:243)br kultury (cid:150) z uwzględnieniem obszar(cid:243)w podlegających szczeg(cid:243)lnej ochronie.
 
-3. W planie zagospodarowania prze strzennego województwa nia zadania re alizacji ponadlokalnych celów pu blicznych, wpisane do rejestru, o któ rym mowa wart. 61 ust. 1, oraz usta la obszary, na których przewiduje tych celów.
+3. W planie zagospodarowania przestrzennego wojew(cid:243)dztwa uwzględnia się zadania rządowe, służące realizacji ponadlokalnych cel(cid:243)w publicznych, wpisane do rejestru, o kt(cid:243)rym mowa w art. 61 ust. 1, oraz ustala się obszary na kt(cid:243)rych przewiduje się realizację tych cel(cid:243)w.
 
-4. W planie zagospodarowania prze strzennego województwa umieszcza zadania wojewódz twa, realizacji ponadlokal nych celów publicznych, zawarte w programach, o których mowa wart. 54d, oraz wskazuje obszary, na których przewiduje tych z art. 14 pkt 2 i art. 36 ust. 1 i 2.
+4. W planie zagospodarowania przestrzennego wojew(cid:243)dztwa umieszcza się zadania samorządu wojew(cid:243)dztwa, służące realizacji ponadlokalnych cel(cid:243)w publicznych zawarte w programach, o kt(cid:243)rych mowa w art. 54d, oraz wskazuje się obszary, na kt(cid:243)rych przewiduje się realizację tych zadań, z zastrzeżeniem art. 14 pkt 2 i art. 36 ust. 1 i 2.
 
-5. Projekt planu zagospodarowania przestrzennego województwa podle ga:
+5. Projekt planu zagospodarowania przestrzennego wojew(cid:243)dztwa podlega:
 
-- **1)** uzgodnieniu z Prezesem Mieszkalnictwa i Rozwoju Miast w zakresie programów, o których mowa wart. 58 ust.l,
+- **1)** uzgodnieniu z Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast w zakresie program(cid:243)w, o kt(cid:243)rych mowa w art.58 ust.1,
 - **2)** zaopiniowaniu przez:
-    - **a)** Prezesa Mieszkalnictwa i Rozwoju Miast, z pkt 1,
-    - **b)** organy gmin i powiatów (miast na prawach powiatu).
+    - **a)** Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast, z zastrzeżeniem pkt 1,
+    - **b)** organy gmin i powiat(cid:243)w (miast na prawach powiatu).
 
-6. sejmiku województwa o uchwaleniu planu zagospodarowa nia przestrzennego województwa wraz z wykazami województwa, o których mowa w ust. 3 i 4, marsza województwa przekazuje wojewo dzie celem ich w woje wódzkim dzienniku
+6. Uchwałę sejmiku wojew(cid:243)dztwa o uchwaleniu planu zagospodarowania przestrzennego wojew(cid:243)dztwa wraz z wykazami zadań rządowych i samorządowych wojew(cid:243)dztwa, o kt(cid:243)rych mowa w ust. 3 i 4, marszałek wojew(cid:243)dztwa przekazuje wojewodzie celem ogłoszenia ich w wojew(cid:243)dzkim dzienniku urzędowym.
 
-7. Plan zagospodarowania przestrzen nego województwa podlega okreso wej aktualizacji. Przepisy ust. 3-6 stosuje odpowiednio.
+7. Plan zagospodarowania przestrzennego wojew(cid:243)dztwa podlega okresowej aktualizacji. Przepisy ust. 3 - 6 stosuje się odpowiednio.
 
-**Art. 54c.** Plan zagospodarowania przestrzennego województwa nie jest aktem prawa miejscowego i nie narusza gmin wart. 7-10.
+**Art. 54c.** Plan zagospodarowania przestrzennego wojew(cid:243)dztwa nie jest aktem prawa miejscowego i nie narusza uprawnień gmin określonych w art. 7-10.
 
 **Art. 54d.**
 
-1. Sejmik województwa uchwala pro gramy wojewódzkie realizacji ponad lokalnych i regionalnych celów publicznych.
+1. Sejmik wojew(cid:243)dztwa uchwala programy wojew(cid:243)dzkie służące realizacji ponadlokalnych i regionalnych cel(cid:243)w publicznych.
 
-2. Programy, o których mowa w ust. 1, przygotowuje województwa.
+2. Programy, o kt(cid:243)rych mowa w ust. 1, przygotowuje zarząd wojew(cid:243)dztwa.
 
-3. Uchwalenie programu jest po zapewnieniu finanso wych do realizacji zo o których mowa wart. 14 pkt 2 i art. 36 ust. 1 i 2.
+3. Uchwalenie programu możliwe jest po zapewnieniu środk(cid:243)w finansowych niezbędnych do realizacji zobowiązań, o kt(cid:243)rych mowa w art. 14 pkt 2 i art. 36 ust. 1 i 2.
 
-4. Z dniem uchwalenia planu zagospo darowania przestrzennego zadania oraz zadania wo jewództwa z programów przed dniem uchwalenia planu umieszczane w wykazie, o którym mowa wart. 54b ust. 6.
+4. Z dniem uchwalenia planu zagospodarowania przestrzennego zadania rządowe oraz zadania samorządu wojew(cid:243)dztwa wynikające z program(cid:243)w przyjętych przed dniem uchwalenia planu umieszczane są w wykazie, o kt(cid:243)rym mowa w art. 54b ust. 6. program(cid:243)w uchwalonych po dniu uchwalenia planu. W takim przypadku przed uchwaleniem programu sejmik wojew(cid:243)dztwa ocenia jego zgodność z obowiązującym planem i w miarę potrzeby podejmuje kroki mające na celu usunięcie sprzeczności.
 
-5. Przepis ust. 4 stosuje odpowied nio do z progra mów uchwalonych po dniu uchwale nia planu. W takim przypadku przed uchwaleniem programu sejmik woje wództwa ocenia jego z planem i w potrzeby podejmuje kroki na celu
+6. Marszałek wojew(cid:243)dztwa informuje wojewodę o uchwaleniu programu w celu wprowadzenia go do rejestru, o kt(cid:243)rym mowa w art. 61 ust. 1.";
 
-6. województwa informuje o uchwaleniu programu w celu wprowadzenia go do rejestru, o którym mowa wart. 61 ust. 1.";
+- **16)** art. 55 otrzymuje brzmienie: (cid:132)Art. 55. W celu określenia podstaw i kierunk(cid:243)w polityki przestrzennej państwa ministrowie i centralne organy administracji rządowej prowadzą analizy i studia oraz opracowują koncepcje i sporządzają programy odnoszące się do obszar(cid:243)w i zagadnień - odpowiednio do potrzeb i cel(cid:243)w podejmowanych prac.(cid:148);
+- **17)** w art.56:
+    - **a)** w ust. 2 po wyrazach (cid:132)sporządzania program(cid:243)w" dodaje się wyrazy (cid:132) , zawierających zadania rządowe,",
+    - **b)** w ust. 3 po wyrazie (cid:132)kraju" dodaje się wyrazy (cid:132)oraz okresowe raporty o stanie zagospodarowania przestrzennego kraju";
 
-- **16)** art. 55 otrzymuje brzmienie: "Art. 55. W celu podstaw i kierunków polityki przestrzennej ministro wie i centralne organy administracji dowej analizy i studia oraz koncepcje i pro gramy do obszarów i za - odpowiednio do potrzeb i ce lów podejmowanych prac.";
-- **17)** wart. 56:
-    - **a)** w ust. 2 po wyrazach progra mów" dodaje wyrazy" , zada nia
-    - **b)** w ust. 3 po wyrazie "kraju" dodaje
+- **18)** skreśla się art. 57;
+- **19)** w art. 58:
+    - **a)** w ust. 1 wyraz "Naczelne" zastępuje się wyrazem "Ministrowie",
+    - **b)** w ust. 2 po wyrazach (cid:132)Prezesem Urzędu Mieszkalnictwa i Rozwoju Miast" dodaje się wyrazy (cid:132)oraz z sejmikami właściwych wojew(cid:243)dztw",
+    - **c)** ust. 3 otrzymuje brzmienie: (cid:132)3. Przedmiotem uzgodnień, o kt(cid:243)rych mowa w ust. 2, jest sp(cid:243)jność programu z koncepcją przestrzennego zagospodarowania kraju i planem zagospodarowania przestrzennego wojew(cid:243)dztwa oraz zatwierdzonymi programami zadań rządowych i uchwalonymi programami wojew(cid:243)dzkimi.(cid:148);
 
-- **18)** wyrazy "oraz okresowe raporty o stanie zagospodaro wania przestrzennego kraju"; art. 57;
-- **19)** wart. 58:
-    - **a)** w ust. 1 wyraz "Naczelne" wyra zem "Ministrowie",
-    - **b)** w ust. 2 po wyrazach "Prezesem Miesz kalnictwa i Rozwoju Miast" dodaje wyrazy "oraz z sejmikami województw",
-    - **c)** ust. 3 otrzymuje brzmienie: ,,3. Przedmiotem o których mowa w ust. 2, jest programu z przestrzennego zagospodarowania kraju i planem zagospodarowania przestrzennego województwa oraz zatwierdzonymi progra mami i uchwalonymi pro gramami wojewódzkimi.";
+- **20)** skreśla się art.59;
+- **21)** art. 60 otrzymuje brzmienie: (cid:132)Art.60. Organy, o kt(cid:243)rych mowa w art. 58 ust. 1, przekazują zatwierdzone programy Prezesowi Urzędu Mieszkalnictwa i Rozwoju Miast, kt(cid:243)ry sporządza i prowadzi centralny rejestr program(cid:243)w rządowych.";
+- **22)** po art. 60 dodaje się oznaczenie rozdziału 6a i tytuł w brzmieniu: (cid:132)Zasady realizacji zadań rządowych i zadań samorządu wojew(cid:243)dztwa";
+- **23)** w art. 61 w ust. 1 pkt 1 otrzymuje brzmienie: (cid:132)1) zadania rządowe i zadania samorządu wojew(cid:243)dztwa, wynikające z program(cid:243)w, o kt(cid:243)rych mowa w art. 54d i art. 58,";
+- **24)** w art. 62:
+    - **a)** w ust. 1 skreśla się wyrazy (cid:132)i art. 59 ust. 1",
+    - **c)** dodaje się ust. 7 w brzmieniu: (cid:132)7. Przepisy ust. 1-6 stosuje się odpowiednio do uchwalonych program(cid:243)w wojew(cid:243)dzkich. Przedstawicielem samorządu wojew(cid:243)dztwa w negocjacjach z gminą jest marszałek wojew(cid:243)dztwa, chyba że sejmik wojew(cid:243)dztwa ustanowi innego przedstawiciela.";
 
-- **20)** art. 59;
-- **21)** art. 60 otrzymuje brzmienie: "Art. 60. Organy, o których mowa wart. 58 ust. 1, zatwierdzone programy Preze sowi Mieszkalnictwa i Rozwoju Miast, który i prowadzi central ny rejestr programów
-- **22)** po art. 60 dodaje oznaczenie 6a i w brzmieniu: "Zasady realizacji i samo województwa";
-- **23)** wart. 61 w ust. 1 pkt 1 otrzymuje brzmienie: " 1) zadania i zadania woje wództwa, z programów, o któ rych mowa wart. 54d i art. 58,";
-- **24)** wart. 62: Przedstawicielem województwa w negocjacjach z jest woje wództwa, chyba sejmik województwa ustanowi innego przedstawiciela.";
-    - **a)** w ust. 1 wyrazy "i art. 59 ust. 1",
-    - **b)** w ust. 6 wyrazy "i art. 59 ust. 5",
-    - **c)** dodaje ust. 7 w brzmieniu: ,,7. Przepisy ust. 1- 6 stosuje odpowiednio do uchwalonych programów wojewódzkich.
+- **25)** w art. 63 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 i 3 w brzmieniu: (cid:132)2. Jeżeli bezskuteczne negocjacje dotyczą wprowadzenia do miejscowego planu zagospodarowania przestrzennego zadania samorządu wojew(cid:243)dztwa, w sprawie rozstrzyga, na wniosek marszałka wojew(cid:243)dztwa, Rada Ministr(cid:243)w, określając r(cid:243)wnież spos(cid:243)b realizacji zobowiązań, o kt(cid:243)rych mowa w art. 14 pkt 2 i art. 36 ust. 1 i 2.
 
-- **25)** w art. 63 oznacza jako ust. 1 i dodaje ust. 2 i 3 w brzmieniu: ,,2. bezskuteczne negocjacje wprowadzenia do miejscowego planu zago spodarowania przestrzennego zadania sa województwa, w sprawie rozstrzy ga, na wniosek województwa, Ra da Ministrów, sposób re alizacji o których mowa wart. 14 pkt 2 i art. 36 ust. 1 i 2.
+3. Rozstrzygnięcie Rady Ministr(cid:243)w, o kt(cid:243)rym mowa w ust. 2, jest ostateczne i wiążące dla gminy i dla samorządu wojew(cid:243)dztwa.";
 
-3. Rady Ministrów, o którym mowa w ust. 2, jest ostateczne i dla gminy i dla województwa.";
+- **26)** w art. 65:
+    - **a)** w ust. 2 skreśla się wyrazy (cid:132)lub ogłoszonym" ,
+    - **b)** dodaje się ust. 3 w brzmieniu: (cid:132)3. Przepisy ust. 1 i 2 stosuje się odpowiednio w sprawie zadania samorządu wojew(cid:243)dztwa.".
 
-- **26)** wart. 65:
-    - **a)** w ust. 2 wyrazy "lub
-    - **b)** dodaje ust. 3 w brzmieniu: ,,3. Przepisy ust. 1 i 2 stosuje odpowiednio w sprawie zadania wojewódz twa."
+**Art. 92.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz.U. Nr 111, poz.535 oraz z 1997 r. Nr 88, poz. 554 i Nr 113, poz.731) wprowadza się następujące zmiany:
 
-92. W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. Nr 111, poz. 535 oraz z 1997 r. Nr 88, poz. 554 i Nr 113, poz. 731) wprowadza zmiany:
+**Art. 93.** W ustawie z dnia 29 września 1994 r. o rachunkowości (Dz.U Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 27, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933, Nr 140, poz. 939 i Nr 141, poz 945 oraz z 1998 r. Nr 60, poz. 382) wprowadza się następujące zmiany:
 
-- **1)** art. 6 otrzymuje brzmienie: "Art. 6. województwa zgodnie z potrze bami w z licz by i struktury woje wództwa tworzy i prowadzi psy chiatrycznej opieki zdrowotnej w ramach docelowej sieci tych przez ministra do spraw zdro wia.";
-- **2)** po art. 6 dodaje art. 6a w brzmieniu: "Art. 6a. Powiat organizuje i zapewnia wod powiednim standardzie w domach pomo cy dostosowanych do szcze gólnych potrzeb osób z zaburzeniami psy chicznymi. Domy te tworzone na zasa dach w ustawie z dnia 29 li stopada 1990 r. o pomocy (Dz. U. z 1998 r. Nr 64, poz. 414)";
-- **3)** art. 10 otrzymuje brzmienie: "Art. 10. 1. Za zdrowotne udzielane osobom chorym psychicznie lub upo przez publiczne psychiatrycznej opieki zdro wotnej nie pobiera od tych osób
+**Art. 94.** W ustawie z dnia 20 października 1994 r. o specjalnych strefach ekonomicznych (Dz.U. Nr 123, poz. 600, z 1996 r. Nr 106, poz. 496 i z 1997 r. Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-2. Osobom, o których mowa w ust.1, prze w publicznym szpitalu psy chiatrycznym ponadto leki i sanitarne oraz pomieszczenie i odpowiednie do stanu zdrowia, za które nie pobiera od tych osób
+**Art. 95.** W ustawie z dnia 27 października 1994 r. o autostradach płatnych (Dz.U. Nr 127, poz. 627, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 133, poz.
 
-93. W ustawie z dnia 29 1994 r. o ra (Dz.U. Nr 121, poz. 591, z 1997 r. Nr 32, poz. 183, Nr 43, poz. 272, Nr 88, poz. 554, Nr 118, poz. 754, Nr 139, poz. 933 i 934, Nr 140, poz. 939 i Nr 141, poz 945 oraz z 1998 r. Nr 60, poz. 382) wpro wadza zmiany:
+**Art. 96.** W ustawie z dnia 1 grudnia 1994 r. o zasiłkach rodzinnych i pielęgnacyjnych (Dz.U. z 1995 r. Nr 4, poz. 17 i Nr 138, poz.681 oraz z 1997 r. Nr 93, poz. 569) wprowadza się następujące zmiany:
 
-- **1)** wart. 2 w ust. 1:
-    - **a)** pkt 4 otrzymuje brzmienie: ,,4) i jednostek ich gospodarstw pomocni czych, funduszy ce lowych oraz jednostek terytorial nego i ich z art. 80 ust. 1,"
-    - **b)** w pkt 7 wyrazy gmin" wyrazami jednostek tery torialnego" ;
-
-- **2)** w nr 7 w ust. 2 w pkt 4 wyraz "gminy" wyrazami "jednostki tery torialnego".
-
-94. W ustawie z dnia 20 1994 r. o specjalnych strefach ekonomicznych (Dz. U. Nr 123, poz. 600, z 1996 r. Nr 106, poz. 496 i z 1997 r. Nr 121, poz. 770) wprowadza zmiany:
-
-- **1)** art. 6 otrzymuje brzmienie: "Art. 6. akcyjna lub z odpowie w stosunku do której Skarb lub województwa po siada które oddane na walnym zgromadzeniu lub zgromadzeniu wspólników, oraz jest uprawniony do i nia jej i rady nadzorczej." ;
-- **2)** art. 7 otrzymuje brzmienie: "Art. 7.1. Minister do spraw Skarbu stwa, jako organ Skarb w porozumieniu z mi nistrem do spraw gospodar ki, zapewnia osoby wyznaczonej przez oraz osoby wyznaczo nej przez organy jednostek terytorialnego osoba taka wyznaczona), lub akcje w w radzie nad zorczej tej Do rady nadzorczej po osoba wskazana przez podmioty na terenie strefy. Do rady nadzorczej nie osoba, która jest kiem lub pracownikiem podmiotu na terenie strefy lub pozostaje w ku gospodarczym z takim podmiotem.
-
-2. W przypadku gdy jest w stosunku do której posiada uprawnienia, o ktorych mowa wart. 6, postanowienia ust. 1 stosuje odpowiednio.";
-
-- **3)** wart. 15 w ust. 1 wyrazy "kierownik rejonowego administracji ogólnej go" wyrazami "starosta, zadania z zakresu administracji wy".
-
-95. W ustawie z dnia 27 1994 r. o autostradach (Dz. U. Nr 127, poz. 627, z 1996 r. Nr 106, poz. 496 i Nr 156, poz. 775 oraz z 1997 r. Nr 133, poz. 885) wprowadza zmiany:
-
-- **1)** wart. 20 w ust. 2 wyrazy "rad gmin i sejmików sa wyrazami "jednostek terytorialnego";
-- **2)** w art. 27:
-    - **a)** w ust. 1 wyraz "gminy" wyrazami "jednostek terytorialnego",
-    - **b)** w ust. 2 wyraz "gminie" wyrazami "jednostkom terytorialnego";
-
-- **3)** w art. 32 ust. 2 otrzymuje brzmienie: ,,2. rzeczo znawcy o których mowa w usta wie z dnia 21 sierpnia 1997 r. o gospodarce (Dz. U. Nr 115, poz. 741)."
-
-**Art. 96.** W ustawie z dnia 1 grudnia 1994 r. o kach rodzinnych i (Dz. U. z 1998 r. Nr 102, poz. 651) wprowadza zmiany:
-
-**Art. 97.** W ustawie z dnia 14 grudnia 1994 r. o za trudnieniu i bezrobociu (Dz. U. z 1997 r. Nr 25, poz. 128, Nr 28, poz. 153, Nr 41, poz. 255, Nr 63, poz. 403, Nr 93, poz. 569, Nr 107, poz. 692, Nr 121, poz. 770 i Nr 123, poz. 776 oraz z 1998 r. Nr 66, poz. 431) wprowadza zmiany:
+**Art. 97.** W ustawie z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz.U. z 1997 r. Nr 25, poz. 128, Nr 28, poz. 153, Nr 41, poz. 255, Nr 63, poz. 403, Nr 93, poz. 569, Nr 107, poz. 692, Nr 121, poz. 770 i Nr 123, poz. 776 oraz z 1998 r. Nr 66, poz. 431) wprowadza się następujące zmiany:
 
 **Art. 6b.**
 
-1. Zadania, o których mowa wart. 6 i 6a, wykonywane przez powiatowe dy pracy w powiatowej administracji zespolonej.
+1. Zadania, o kt(cid:243)rych mowa w art. 6 i 6a, wykonywane są przez powiatowe urzędy pracy wchodzące w skład powiatowej administracji zespolonej. rosta po zasięgnięciu opinii powiatowej rady zatrudnienia.
 
-2. Kierownika powiatowego pracy i odwotuje starosta po opinii powiatowej rady zatrud nienia.
-
-3. kierownika powiatowego pracy i staro sta na wniosek kierownika.
+3. Zastępc(cid:243)w kierownika powiatowego urzędu pracy powołuje i odwołuje starosta na wniosek kierownika.
 
 **Art. 6c.**
 
-1. Do wojewody w zakresie przeciw bezrobociu
+1. Do zadań wojewody w zakresie przeciwdziałania bezrobociu należy:
 
-- **9)** wart. 7:
-- **1)** kontrola realizacji z zakresu ad ministracji z przestrzegania przepisów ustawy, wykonywanych przez jednostki samo terytorialnego,
-- **2)** sprawowanie merytorycznego nadzo ru nad wymaganym standardem przez pra cy oraz odpowiednim poziomem kwa lifikacji kadr w pracy na tere nie województwa.
+- **1)** kontrola realizacji zadań z zakresu administracji rządowej, wynikających z przestrzegania przepis(cid:243)w ustawy wykonywanych przez jednostki samorządu terytorialnego,
+- **2)** sprawowanie merytorycznego nadzoru nad wymaganym standardem usług świadczonych przez urzędy pracy oraz odpowiednim poziomem kwalifikacji kadr w urzędach pracy na terenie wojew(cid:243)dztwa.
 
-2. W administracyjnym w sprawach z wykonywa niem i kompetencji w zakresie za trudnienia i bezrobo ciu, ustawa nie stanowi inaczej:
+2. W postępowaniu administracyjnym w sprawach związanych z wykonywaniem zadań i kompetencji w zakresie zatrudnienia i przeciwdziałania bezrobociu, jeżeli ustawa nie stanowi inaczej:
 
-- **1)** organem jest starosta,
-- **2)** organem stopnia jest woje woda.";
-    - **a)** w ust. 1 wyrazy "Ministra Pracy i Polityki Socjal nej" wyrazami "ministra go do spraw pracy",
-    - **b)** w ust. 2: - w pkt 3 wyrazy "pkt 21-23" wy razami "pkt21 i 23", - w pkt 3a wyrazy "Ministra Pracy i Polityki So cjalnej" wyrazami "ministra do spraw pracy", - w pkt 6 wyrazy "Ministrowi Pracy i Polityki Socjalnej" wyrazami "ministro wi do spraw pracy";
+- **1)** organem właściwym jest starosta,
+- **2)** organem wyższego stopnia jest wojewoda.(cid:148);
+- **9)** w art. 7:
+    - **a)** w ust. 1 wyrazy (cid:132)Ministra Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)ministra właściwego do spraw pracy(cid:148),
+    - **b)** w ust. 2: - w pkt 3 wyrazy (cid:132)pkt 21 - 23(cid:148) zastępuje się wyrazami (cid:132) pkt 21 i 23(cid:148), - w pkt 3a wyrazy (cid:132)Ministra Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)ministra właściwego do spraw pracy(cid:148), - w pkt 6 wyrazy (cid:132)Ministrowi Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)ministrowi właściwemu do spraw pracy(cid:148);
 
-- **10)** wart. 8:
-    - **a)** w ust. 1 wyraz "wojewodów" wy razami województw",
-    - **b)** w ust. 2 pkt 5;
+- **10)** w art. 8:
+    - **a)** w ust. 1 wyraz (cid:132)wojewod(cid:243)w(cid:148) zastępuje się wyrazami (cid:132)marszałk(cid:243)w wojew(cid:243)dztw(cid:148),
+    - **b)** w ust. 2 skreśla się pkt 5;
 
-- **11)** wart. 9:
-    - **a)** ust. 1 otrzymuje brzmienie: ,,1. Powiatowe rady zatrudnienia organami opiniodawczo-doradczymi starostów.",
-    - **b)** w ust. 2 wyraz "rejonowych" wy razem" powiatowych",
-    - **c)** w ust. 3 wyraz "Rejonowe" wyra zem "Powiatowe";
+- **11)** w art. 9:
+    - **a)** ust. 1 otrzymuje brzmienie: (cid:132)1. Powiatowe rady zatrudnienia są organami opiniodawczo-doradczymi starost(cid:243)w.(cid:148),
+    - **b)** w ust. 2 wyraz (cid:132)rejonowych(cid:148) zastępuje się wyrazem (cid:147)powiatowych(cid:148),
+    - **c)** w ust. 3 wyraz (cid:132)Rejonowe(cid:148) zastępuje się wyrazem (cid:132)Powiatowe(cid:148);
 
 - **12)** w art. 10:
-    - **a)** ust. 2-4 brzmienie: ,,2. Wojewódzkie rady zatrudnienia z 15 osób, w równych przedstawicieli na tere nie województwa organizacji za wodowych, izb rolniczych, organizacji praco dawców, wojewody oraz jednostek du terytorialnego (powiatów i gmin). Prze wojewódzkiej rady zatrudnie nia jest województwa.
+    - **a)** ust. 2-4 otrzymują brzmienie: r(cid:243)wnych częściach spośr(cid:243)d przedstawicieli działających na terenie wojew(cid:243)dztwa organizacji związk(cid:243)w zawodowych, izb rolniczych, organizacji pracodawc(cid:243)w, wojewody oraz jednostek samorządu terytorialnego (powiat(cid:243)w i gmin). Przewodniczącym wojew(cid:243)dzkiej rady zatrudnienia jest marszałek wojew(cid:243)dztwa.
 
-3. Powiatowe rady zatrudnienia z 12 osób w równych przedstawicieli na tere nie danego powiatu organizacji za wodowych, izb rolniczych, organizacji praco dawców oraz jednostek teryto rialnego (powiatów i gmin). cym powiatowej rady zatrudnienia jest sta rosta.
+3. Powiatowe rady zatrudnienia składają się z 12 os(cid:243)b powołanych w r(cid:243)wnych częściach spośr(cid:243)d przedstawicieli działających na terenie danego powiatu organizacji związk(cid:243)w zawodowych, izb rolniczych, organizacji pracodawc(cid:243)w oraz jednostek samorządu terytorialnego (powiat(cid:243)w i gmin). Przewodniczącym powiatowej rady zatrudnienia jest starosta.
 
-4. Naczelnej Rady Zatrudnienia po minister do spraw pracy, wojewódzkich rad zatrudnienia województwa, natomiast ków powiatowych rad zatrudnienia - staro sta, kandydatów przez organy i organizacje, o których mowa w ust. 1- 3.",
+4. Członk(cid:243)w Naczelnej Rady Zatrudnienia powołuje minister właściwy do spraw pracy, członk(cid:243)w wojew(cid:243)dzkich rad zatrudnienia - marszałek wojew(cid:243)dztwa, natomiast członk(cid:243)w powiatowych rad zatrudnienia - starosta, spośr(cid:243)d kandydat(cid:243)w zgłoszonych przez organy i organizacje, o kt(cid:243)rych mowa w ust. 1-3.(cid:148),
 
-- **b)** w ust. 5 pkt 2 otrzymuje brzmienie: ,,2) z inicjatywy odpowiednio ministra wego do spraw pracy, wojewódz twa oraz starosty, po opinii or ganu lub organizacji, która kandyda tury rady.",
-- **c)** w ust. 7 i 10 wyrazy "Minister Pracy i Polityki So cjalnej" wyrazami "minister do spraw pracy";
-- **13)** w art. 13 w ust. 3 wyrazy "Kierownik rejonowego pracy" wyrazem "Starosta";
-- **14)** wart. 18:
-    - **a)** w ust. 4 wyrazy "kierownika rejonowego pracy" wyrazem
-    - **b)** w ust. 9 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "minister do spraw pracy";
+- **b)** w ust. 5 pkt 2 otrzymuje brzmienie: (cid:132)2) z inicjatywy odpowiednio ministra właściwego do spraw pracy, marszałka wojew(cid:243)dztwa oraz starosty, po zasięgnięciu opinii organu lub organizacji, kt(cid:243)ra zgłosiła kandydatury członka rady.(cid:148),
+- **c)** w ust. 7 i 10 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
+- **13)** w art. 13 w ust. 3 wyrazy "Kierownik rejonowego urzędu pracy" zastępuje się wyrazem "Starosta";
+- **14)** w art. 18:
+    - **a)** w ust. 4 wyrazy "kierownika rejonowego urzędu pracy" zastępuje się wyrazem "starostę",
+    - **b)** w ust. 9 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
 
-- **15)** w art. 19 w ust. 1 i 2, wart. 22a w ust. 1, wart. 31 w ust. 6 oraz wart. w ust. 1 i 2 wyrazy "Rejo nowy pracy" wyrazem "Staro sta";
-- **16)** wart. 20:
-    - **a)** w ust. 3 wyrazy "kierownik rejonowego pracy" wyrazem "starosta",
-    - **b)** w ust. 4 wyrazy "dyrektor wojewódzkiego du pracy" wyrazem "starosta", a wyraz "rejonowej" wyrazem "powiatowej" ,
-    - **c)** w ust. 6 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "minister do spraw pracy";
+- **15)** w art. 19 w ust. 1 i 2, w art. 22a w ust. 1, w art. 31 w ust. 6 oraz w art. 37e w ust. 1 i 2 wyrazy (cid:132)Rejonowy urząd pracy(cid:148) zastępuje się wyrazem (cid:132)Starosta(cid:148);
+- **16)** w art. 20:
+    - **a)** w ust. 3 wyrazy (cid:132)kierownik rejonowego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starosta(cid:148),
+    - **b)** w ust. 4 wyrazy (cid:132)dyrektor wojew(cid:243)dzkiego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starosta(cid:148), a wyraz (cid:132)rejonowej(cid:148) zastępuje się wyrazem (cid:132)powiatowej(cid:148),
+    - **c)** w ust. 6 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
 
-- **17)** w art. 21 wyrazy "Rejonowy pracy" je wyrazem "Starosta";
-- **18)** w art. 22 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "Minister do spraw pracy";
-- **19)** wart. 24 w ust. 6b wyrazy "Minister Pracy i Polity ki Socjalnej" wyrazami" Minister do spraw pracy";
-- **20)** w art. 31 w ust. 7 i 8 wyrazy "Minister Pracy i Poli tyki Socjalnej" wyrazami "minister do spraw pracy";
-- **21)** w art. 36 w ust. 1-3 wyrazy "Minister Pracy i Poli tyki Socjalnej" wyrazami "minister do spraw pracy";
-- **22)** w art. 37b w ust. 6 wyrazy "Minister Pracy i Polity ki Socjalnej" wyrazami "minister do spraw pracy";
-- **23)** w art. 37f w ust. 1 wyrazy "rejonowy pracy" wyrazem
-- **24)** w art. 37h w ust. 2 po wyrazie "gmin" dodaje wyraz" , powiatów";
-- **25)** art. 37i otrzymuje brzmienie: "Art. 37i. 1. Lokalne programy, swym zakresem obszar jednego lub kilku po wiatów, na celu:
-- **1)** zmniejszenie negatywnych skutków bezrobocia albo tworzenie miejsc pracy,
-- **2)** wsparcie przebiegu restrukturyzacji podmiotów na terenie powiatów programami re strukturyzacyjnymi przez Ministrów, inicjowane, realizowane i finansowane przez organy wojewódz twa wsparte na ten cel w ustawie
-
-2. Rada Ministrów w drodze roz warunki wspierania lo kalnych programów, o których mowa w ust. 1.";
-
-- **26)** w art. 42 ust. 2 otrzymuje brzmienie: ,,2. województwa organizuje i prowa dzi Ochotnicze Hufce Pracy.";
-- **27)** art. 45 otrzymuje brzmienie: "Art. 45. Minister do spraw pracy okre w drodze zasady or ganizacji i funkcjonowania Ochotniczych Hufców Pracy.";
-- **28)** wart. 48 w ust. 2 w pkt 1 wyraz "wojewódzkiego" wyrazem" powiatowego";
+- **17)** w art. 21 wyrazy "Rejonowy urząd pracy" zastępuje się wyrazem "Starosta";
+- **18)** art. 22 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
+- **19)** w art. 24 w ust. 6b wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148); wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
+- **21)** w art. 36 w ust. 1-3 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
+- **22)** w art. 37b w ust. 6 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148);
+- **23)** w art. 37f w ust. 1 wyrazy "rejonowy urząd pracy" zastępuje się wyrazem "starostę";
+- **24)** w art. 37h w ust. 2 po wyrazie (cid:132)gmin(cid:148) dodaje się wyrazy (cid:132), powiat(cid:243)w(cid:148);
+- **26)** w art. 42 ust. 2 otrzymuje brzmienie: (cid:132)2. Samorząd wojew(cid:243)dztwa organizuje i prowadzi Ochotnicze Hufce Pracy.(cid:148);
+- **27)** art. 45 otrzymuje brzmienie: "Art. 45. Minister właściwy do spraw pracy określa, w drodze rozporządzenia, zasady organizacji i funkcjonowania Ochotniczych Hufc(cid:243)w Pracy.(cid:148);
+- **28)** w art. 48 w ust. 2 w pkt 1 wyraz (cid:132)wojew(cid:243)dzkiego(cid:148) zastępuje się wyrazem (cid:132)powiatowego(cid:148);
 - **29)** w art. 49:
-    - **a)** w ust. 1 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "Minister do spraw pracy",
-    - **b)** w ust. 2 wyrazy "Minister Gospodarki" je wyrazami "Minister lityki Socjalnej" do spraw gospodarki" oraz wyrazy "Ministrem Pracy i Powyrazami "mini strem do spraw pracy";
+    - **a)** w ust. 1 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148),
+    - **b)** w ust. 2 wyrazy (cid:132)Minister Gospodarki(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw gospodarki(cid:148) oraz wyrazy (cid:132)Ministrem Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)ministrem właściwym do spraw pracy(cid:148);
 
 - **30)** w art. 50:
-    - **a)** ust. 1 i 2 brzmienie: ,,1. Pracodawca lub na terenie Polski cu dzoziemcowi nie karty go pobytu lub statusu Rzeczypo spolitej Polskiej, uzyska na to zezwole nie starosty powiatu, na terenie którego znaj duje siedziba pracodawcy, a cudzozie miec prawo pobytu na terytorium Rzeczypospolitej Polskiej oraz na za trudnienie lub wykonywanie innej pracy za robkowej u tego pracodawcy.
+    - **a)** ust. 1 i 2 otrzymują brzmienie: "1. Pracodawca może zatrudnić lub powierzyć inną pracę zarobkową na terenie Polski cudzoziemcowi nie posiadającemu karty stałego pobytu lub statusu uchodźcy Rzeczypospolitej Polskiej, jeżeli uzyska na to zezwolenie starosty powiatu na terenie kt(cid:243)rego znajduje się siedziba pracodawcy, a cudzoziemiec uzyskał prawo pobytu na terytorium Rzeczypospolitej Polskiej oraz zgodę na zatrudnienie lub wykonywanie innej pracy zarobkowej u tego pracodawcy.
 
-2. Zezwolenie i zgoda na zatrudnienie lub po wierzenie innej pracy zarobkowej cudzo ziemcom w jednostkach mini strowi do spraw kultury, mini strowi do spraw zdrowia, mini strowi do spraw i wy chowania oraz Prezesowi Polskiej Akademii Nauk wydawane przez starostów, warunki w przepisach tej ustawy oraz przepisach innych ustaw.",
+2. Zezwolenie i zgoda na zatrudnienie lub powierzenie innej pracy zarobkowej cudzoziemcom w jednostkach podległych ministrowi właściwemu do spraw kultury, ministrowi właściwemu do spraw zdrowia, ministrowi właściwemu do spraw oświaty i wychowania oraz Prezesowi Polskiej Akademii Nauk są wydawane przez starost(cid:243)w, jeżeli są spełnione warunki określone w przepisach tej ustawy oraz przepisach innych ustaw.",
 
-- **b)** w ust. 3 wyrazy "dyrektor wojewódzkiego du pracy wydaje na ryn ku pracy" wyrazami "starosta wy daje na rynku pracy oraz kryteria przez wojewódz twa",
-- **c)** w ust. 5 wyrazy "wojewódzkiego pracy" wyrazem "starosty",
-- **d)** w ust. 6 wyrazy "dyrektora wojewódzkiego du pracy" wyrazem
-- **e)** w ust. 11 wyraz "wojewódzkiego" wyrazem "powiatowego",
-- **f)** w ust. 14 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "minister do spraw pracy" oraz wyrazy "dyrektora woje wódzkiego pracy" wyra zem "starosty";
-- **31)** wart. 51:
-    - **a)** ust. 1 otrzymuje brzmienie: ,,1. Minister do spraw pracy w drodze zasa dy i tryb wydawania i zgód, o któ rych mowa wart. 50 ust. 1.",
-    - **b)** w ust. 2 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "Minister do spraw pracy",
-    - **c)** ust. 3,
-    - **d)** w ust. 4 wyrazy "Minister Zdrowia i Opieki Spo w porozumieniu z Ministrem Pracy i Po lityki Socjalnej" wyrazami "Mini ster do spraw zdrowia w porozumie niu z ministrem do spraw pracy";
+- **b)** w ust. 3 wyrazy "dyrektor wojew(cid:243)dzkiego urzędu pracy wydaje uwzględniając sytuację na rynku pracy" zastępuje się wyrazami "starosta wydaje rząd wojew(cid:243)dztwa",
+- **c)** w ust. 5 wyrazy (cid:132)wojew(cid:243)dzkiego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starosty(cid:148),
+- **d)** w ust. 6 wyrazy (cid:132)dyrektora wojew(cid:243)dzkiego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starostę(cid:148),
+- **e)** w ust. 11 wyraz (cid:132)wojew(cid:243)dzkiego(cid:148) zastępuje się wyrazem (cid:132)powiatowego(cid:148),
+- **f)** w ust. 14 wyrazy "Minister Pracy i Polityki Socjalnej" zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148) oraz wyrazy (cid:132)dyrektora wojew(cid:243)dzkiego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starosty(cid:148);
+- **31)** w art. 51:
+    - **a)** ust. 1 otrzymuje brzmienie: (cid:132)1. Minister właściwy do spraw pracy określa, w drodze rozporządzenia, szczeg(cid:243)łowe zasady i tryb wydawania zezwoleń i zg(cid:243)d, o kt(cid:243)rych mowa w art. 50 ust. 1.(cid:148),
+    - **b)** w ust. 2 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy(cid:148),
+    - **c)** skreśla się ust. 3,
+    - **d)** w ust. 4 wyrazy (cid:132)Minister Zdrowia i Opieki Społecznej w porozumieniu z Ministrem Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw pracy(cid:148);
 
-- **32)** wart. 57:
-    - **a)** w ust. 1: - pkt 22, - dodaje pkt 31 w brzmieniu: ,,31) koszty szkolenia kadr zada nia
-    - **b)** ust. 2a,
-    - **c)** w ust. 4: - wyrazy "za Ministra Pracy i Polityki Socjalnej lub z ini cjatywy Ministra Pracy i Polityki Socjalnej", -wyrazy "w ust. 1 pkt 2- 5, 7,13,22,26,27 i 29" wyrazami "w ust. 1 pkt 2-5, 7, 13,26,27 i 29",
-    - **d)** w ust. 5 wyrazy "Minister Pracy i Polityki Socjal nej w porozumieniu z Ministrem Finansów" za wyrazami "Minister do spraw pracy w porozumieniu z ministrem do spraw
-    - **e)** w ust. 6 wyrazy "Minister Pracy i Polityki Socjal nej" wyrazami "Minister do spraw pracy", ust. 6a;
+- **32)** w art. 57:
+    - **a)** w ust. 1: - skreśla się pkt 22, - dodaje się pkt 31 w brzmieniu: (cid:132)31) koszty szkolenia kadr realizujących zadania objęte ustawą.(cid:148),
+    - **b)** skreśla się ust. 2a,
+    - **c)** w ust. 4: - skreśla się wyrazy (cid:132)za zgodą Ministra Pracy i Polityki Socjalnej może dokonywać lub z inicjatywy Ministra Pracy i Polityki Socjalnej(cid:148), - wyrazy "w ust. 1 pkt 2-5, 7, 13, 22, 26, 27 i 29" zastępuje się wyrazami "w ust. 1 pkt 2-5, 7, 13, 26, 27 i 29",
+    - **d)** w ust. 5 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej w porozumieniu z Ministrem Finans(cid:243)w(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy w porozumieniu z ministrem właściwym do spraw budżetu(cid:148),
+    - **e)** w ust. 6 wyrazy (cid:132)Minister Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)Minister właściwy do spraw pracy",
+    - **f)** skreśla się ust. 6a;
 
-- **33)** po art. 57 dodaje art. 57a w brzmieniu: "Art. 57a. 1. Środki Funduszu Pracy przekazywane przez Prezesa Krajowego Pracy wojewódzkim i powiatowym algorytmu.
+- **33)** po art. 57 dodaje się art. 57a w brzmieniu: go Urzędu Pracy samorządom wojew(cid:243)dzkim i powiatowym według algorytmu.
 
-2. Algorytm, o którym mowa w ust. 1, powinien w szczególno osób zapotrzebowanie na do realiza cji aktywnej p'blityki rynku pra cy, zapotrzebowanie na roboty pu bliczne, potrzeby programów regio nalnych i specjalnych.
+2. Algorytm, o kt(cid:243)rym mowa w ust. 1, powinien uwzględniać w szczeg(cid:243)lności liczbę os(cid:243)b pobierających zasiłek, zapotrzebowanie na środki do realizacji zadań aktywnej polityki rynku pracy, zapotrzebowanie na roboty publiczne, potrzeby program(cid:243)w regionalnych i specjalnych.
 
-3. Rada Ministrów w drodze roz po opinii Naczelnej Rady Zatrudnienia algo rytm, o którym mowa w ust. 1.";
+3. Rada Ministr(cid:243)w określi, w drodze rozporządzenia, po zasięgnięciu opinii Naczelnej Rady Zatrudnienia algorytm, o kt(cid:243)rym mowa w ust. 1.(cid:148);
 
-- **34)** w art. 62 wyrazy "Ministrowi Pracy i Polityki Socjal nej" wyrazami "ministrowi mu do spraw pracy";
-- **35)** wart. 64 w ust. 1 i 2 wyrazy "dyrektora go wojewódzkiego pracy" wy razem "starosty";
-- **36)** art. 76 otrzymuje brzmienie: "Art. 76. w dotychczasowych przepisach jest mowa o:
-- **1)** rejonowym pracy przez to powiatowy pracy,
-- **2)** - przez to miasta w miastach na prawach powiatu.";
-- **37)** w ustawie w przy padkach wyrazy:
-    - **a)** "rejonowy pracy" - je wy razami "powiatowy pracy" wod powiednim przypadku,
-    - **b)** "rejony administracyjne (gminy)" je wyrazami "powiaty (gminy)" w odpowiednim przypadku.
+- **34)** w art. 62 wyrazy (cid:132)Ministrowi Pracy i Polityki Socjalnej(cid:148) zastępuje się wyrazami (cid:132)ministrowi właściwemu do spraw pracy(cid:148);
+- **35)** w art. 64 w ust. 1 i 2 wyrazy (cid:132)dyrektora właściwego wojew(cid:243)dzkiego urzędu pracy(cid:148) zastępuje się wyrazem (cid:132)starosty(cid:148);
+- **36)** art. 76 otrzymuje brzmienie: (cid:132)Art. 76. Ilekroć w dotychczasowych przepisach jest mowa o:
+- **1)** rejonowym urzędzie pracy (cid:150) należy przez to rozumieć powiatowy urząd pracy,
+- **2)** staroście (cid:150) należy przez to rozumieć przewodniczącego zarządu miasta w miastach na prawach powiatu.(cid:148);
+- **37)** ilekroć w ustawie występują użyte w r(cid:243)żnych przypadkach wyrazy:
+    - **a)** (cid:132)rejonowy urząd pracy(cid:148) - zastępuje się je wyrazami (cid:132)powiatowy urząd pracy(cid:148) użytymi w odpowiednim przypadku,
+    - **b)** (cid:132)rejony administracyjne (gminy)(cid:148) - zastępuje się je wyrazami (cid:132)powiaty (gminy)(cid:148) użytymi w odpowiednim przypadku.
 
-**Art. 98.** W ustawie z dnia 3 lutego 1995 r. o ochro nie gruntów rolnych i (Dz. U. Nr 16, poz. 78 oraz z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079) wprowadza zmiany:
+**Art. 98.** W ustawie z dnia 3 lutego 1995 r. o ochronie grunt(cid:243)w rolnych i leśnych (Dz.U. Nr 16, poz. 78 oraz z 1997 r. Nr 60, poz. 370, Nr 80, poz. 505 i Nr 160, poz. 1079) wprowadza się następujące zmiany:
 
-**Art. 99.** W ustawie z dnia 22 czerwca 1995 r. o za kwaterowaniu Zbrojnych Rzeczypospolitej Polskiej (Dz. U. Nr 86, poz. 433, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 6, poz. 31, Nr 80, poz. 506 i Nr 106, poz. 678) wprowadza zmiany:
+**Art. 99.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz.U. Nr 86, poz. 433, z 1996 r. Nr 106, poz. 496 oraz z 1997 r. Nr 6, poz. 31, Nr 80, poz. 506 i Nr 106, poz. 678) wprowadza się następujące zmiany:
 
-**Art. 100.** W ustawie z dnia 29 czerwca 1995 r. o sta tystyce publicznej (Dz. U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i Nr 121, poz. 769 oraz z 1998 r. Nr 99, poz. 632) wprowadza zmiany:
+**Art. 100.** W ustawie z dnia 28 czerwca 1995 r. o statystyce publicznej (Dz.U. Nr 88, poz. 439, z 1996 r. Nr 156, poz. 775, z 1997 r. Nr 88, poz. 554 i z 1998 r. Nr 121, poz. 769):
 
-**Art. 101.** W ustawie z dnia 29 czerwca 1995 r. o ob ligacjach (Dz. U. Nr 83, poz. 420, Nr 118, poz. 574 oraz z 1997 r. Nr 88, poz. 554 i Nr 118, poz. 754) wprowadza zmiany: wart. w ust. pkt otrzymuje brzmienie: ,,2) gminy, powiaty, województwa, zwane dalej "jednostkami terytorialnego", a tych jednostek oraz miasto Warszawa,"; w art w ust. w pkt wyraz "gminy" wyrazami "jednostki terytorialnego";
+**Art. 101.** W ustawie z dnia 29 czerwca 1995 r. o obligacjach (Dz.U. Nr 83, poz. 420, Nr 118, poz. 574 oraz z 1997 r. Nr 88, poz. 554 i Nr 118, poz. 754) wprowadza się następujące zmiany:
 
-**Art. 102.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Ewangelicko-Metodystycz nego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 479 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 102.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła EwangelickoMetodystycznego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 479 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 103.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Baptystów w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 480 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 103.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Chrześcijan Baptyst(cid:243)w w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 480 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 104.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Adwentystów Dnia Siód mego w Rzeczypospolitej Polskiej (Dz. U. Nr 97, poz. 481 i z 1998 r. Nr 59, poz. 375) wprowadza na zmiany:
+**Art. 104.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Adwentyst(cid:243)w Dnia Si(cid:243)dmego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 481 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 105.** W ustawie z dnia 30 czerwca 1995 r. o sto sunku do Polskokatolickiego w Rze czypospolitej Polskiej (Dz. U. Nr 97, poz. 482 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 105.** W ustawie z dnia 30 czerwca 1995 r. o stosunku Państwa do Kościoła Polskokatolickiego w Rzeczypospolitej Polskiej (Dz.U. Nr 97, poz. 482 i z 1998 r. Nr 59, poz.
 
-**Art. 106.** W ustawie z dnia 6 lipca 1995 r. o przed "Polskie Koleje we" (Dz. U. Nr 95, poz. 474, z 1996 r. Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153, Nr 96, poz. 591, Nr 104, poz. 661 i Nr 121, poz. 770) wprowadza ce zmiany:
+**Art. 106.** W ustawie z dnia 6 lipca 1995 r. o przedsiębiorstwie państwowym (cid:132)Polskie Koleje Państwowe" (Dz.U. Nr 95, poz. 474, z 1996 r. Nr 147, poz. 687 oraz z 1997 r. Nr 28, poz. 153, Nr 96, poz. 591, Nr 104, poz. 661 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 107.** W ustawie z dnia 12 lipca 1995 r. o ochro nie uprawnych (Dz. U. Nr 90, poz. 446 oraz z 1997 r. Nr 121, poz. 770) wprowadza zmiany:
+**Art. 107.** W ustawie z dnia 12 lipca 1995 r. o ochronie roślin uprawnych (Dz.U. Nr 90, poz. 446 oraz z 1997 r. Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 43b.** Wojewódzki inspektor pracowników wojewódzkiego inspektora tu oraz pracowników delegatur do wyko nywania kontroli fitosanitarnej i wydawa nia w jego imieniu decyzji administracyj nych.";
+**Art. 43b.** Wojew(cid:243)dzki inspektor może upoważnić pracownik(cid:243)w wojew(cid:243)dzkiego inspektoratu oraz pracownik(cid:243)w delegatur, do wykonywania kontroli fitosanitarnej i wydawania w jego imieniu decyzji administracyjnych.(cid:148);
 
 **Art. 49b.**
 
-1. Starosta, wójt, burmistrz i prezydent miasta odpowie za polecenia wydane go na podstawie art. 49a ust. 4.
+1. Starosta, w(cid:243)jt, burmistrz i prezydent miasta ponoszą wyłączną odpowiedzialność za treść polecenia wydanego na podstawie art. 49a ust. 4.
 
-2. Polecenie przekazane ustnie wymaga potwierdzenia na
+2. Polecenie przekazane ustnie wymaga potwierdzenia na piśmie.
 
-3. Polecenie podlega wykonaniu. Wojewódzki inspektor na tychmiast nemu Inspektorowi, nie jest w stanie polecenia albo li polecenie narusza prawo.
+3. Polecenie podlega niezwłocznemu wykonaniu. Wojew(cid:243)dzki inspektor natychmiast przedkłada sprawę Gł(cid:243)wnemu Inspektorowi jeżeli nie jest w stanie wykonać polecenia albo jeżeli polecenie narusza prawo.
 
-4. Polecenie prawo jest nie O polecenia roz strzyga wojewoda."
+4. Polecenie naruszające prawo jest nieważne. O nieważności polecenia rozstrzyga wojewoda.".
 
-**Art. 108.** W ustawie z dnia 13 1995 r. Prawo (Dz. U. Nr 147, poz. 713 oraz z 1997 Nr 14, poz. 72, Nr 60, poz. 369, Nr 88, poz. 554, Nr 110, poz. 715 i Nr 133, poz. 884) wprowadza na zmiany:
+**Art. 108.** W ustawie z dnia 13 października 1995 r. - Prawo łowieckie (Dz.U. Nr 147, poz. 713 oraz z 1997 r. Nr 14, poz. 72, Nr 60, poz. 369, Nr 88, poz. 554, Nr 110, poz. 715 i Nr 133, poz. 884) wprowadza się następujące zmiany:
 
-**Art. 109.** W ustawie z dnia 24 listopada 1995 r. o na siennictwie (Dz. U. Nr 149, poz. 724 oraz z 1997 r. Nr 121, poz. 770) wprowadza zmia ny:
+**Art. 109.** W ustawie z dnia 24 listopada 1995 r. o nasiennictwie (Dz.U. Nr 149, poz. 724 oraz z 1997 r. Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 110.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz. U. z 1996 r. Nr 1, poz. 3 oraz z 1997 r. Nr 121, poz. 770) wprowadza zmiany:
+**Art. 110.** W ustawie z dnia 14 grudnia 1995 r. o izbach rolniczych (Dz.U. z 1996 r. Nr 1, poz. 3 oraz z 1997 r. Nr 121, poz. 770) wprowadza się następujące zmiany:
 
-**Art. 111.** W ustawie z dnia 18 stycznia 1996 r. o kul turze fizycznej (Dz. U. Nr 25, poz. 113 i Nr 137, poz. 639 oraz z 1997 r. Nr 106, poz. 680, Nr 121, poz. 769 i 770 i Nr 160, poz. 1078) wprowadza zmia ny:
+**Art. 111.** W ustawie z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz.U. Nr 25, poz. 113 i Nr 137, poz. 639 oraz z 1997 r. Nr 106, poz. 680, Nr 121, poz. 769 i 770 i Nr 160, poz. 1078) wprowadza się następujące zmiany: samorządu terytorialnego(cid:148);
 
-**Art. 112.** W ustawie z dnia 5 lipca 1996 r. o zawo dach i (Dz. U. Nr 91, poz. 410) art. 9 otrzymuje brzmienie: "Art. 9. 1. po szkoty gniarskiej, a po szkoty w celu uzyskania pra wa wykonywania zawodu, jest do odbycia podyplomowego w zaktadzie opieki zdrowotnej. 2. Minister do spraw zdrowia za pewnia finansowe do odbycia podyplomowego dla ab solwentów szkót i szkót 3. Minister do spraw zdrowia po opinii Naczelnej Rady gniarek i w drodze ramowy program i sposób i tryb odbywania oraz zaliczania podyplomowego, zakres za wodowych i w okresie odbywania podyplomo wego oraz warunki, jakie powinien opieki zdrowotnej, w którym odbywane podyplomowe. 4. województwa, po ciu opinii rady pie i ustala dów opieki zdrowotnej, uprawnionych do prowadzenia podyplomo wych."
+**Art. 112.** W ustawie z dnia 5 lipca 1996 r. o zawodach pielęgniarki i położnej (Dz.U. Nr 91, poz. 410) art. 9 otrzymuje brzmienie: "Art. 9. 1. Pielęgniarka po ukończeniu szkoły pielęgniarskiej, a położna po ukończeniu szkoły położnych, w celu uzyskania prawa wykonywania zawodu, obowiązana jest do odbycia 12-miesięcznego stażu podyplomowego w zakładzie opieki zdrowotnej. 2. Minister właściwy do spraw zdrowia zapewnia środki finansowe niezbędne do odbycia stażu podyplomowego dla absolwent(cid:243)w szk(cid:243)ł pielęgniarskich i szk(cid:243)ł położnych. 3. Minister właściwy do spraw zdrowia po zasięgnięciu opinii Naczelnej Rady Pielęgniarek i Położnych określi, w drodze rozporządzenia, ramowy program stażu pielęgniarki i stażu położnej, spos(cid:243)b i tryb odbywania oraz zaliczania stażu podyplomowego, zakres uprawnień zawodowych pielęgniarki i położnej w okresie odbywania stażu podyplomowego oraz warunki, jakie powinien spełniać zakład opieki zdrowotnej, w kt(cid:243)rym odbywane są staże podyplomowe. gowej rady pielęgniarek i położnych, ustala listę zakład(cid:243)w opieki zdrowotnej, uprawnionych do prowadzenia staży podyplomowych.(cid:148).
 
-**Art. 113.** W ustawie z dnia 8 sierpnia 1996 r. o dowym Centrum Studiów Strategicznych (Dz. U. Nr 106, poz. 495) wart. 2 dodaje pkt 6 w brzmieniu: ,,6) z województwa."
+**Art. 113.** W ustawie z dnia 8 sierpnia 1996 r. o Rządowym Centrum Studi(cid:243)w Strategicznych (Dz.U. Nr 106, poz. 495) w art. 2 dodaje się pkt 6 w brzmieniu: "6) wsp(cid:243)łpraca z samorządem wojew(cid:243)dztwa.".
 
-**Art. 114.** W ustawie z dnia 30 sierpnia 1996 r. o ko mercjalizacji i prywatyzacji wych (Dz. U. Nr 118, poz. 561, Nr 156, poz. 775 oraz z 1997 r. Nr 32, poz. 184, Nr 98, poz. 603, Nr 106, poz. 673, Nr 121, poz. 770, Nr 137, poz. 926 i Nr 141, poz. 945) dodaje art. 4a w brzmieniu: "Art. 4a. 1. Z uzasadnionym wnioskiem dokonania komercjalizacji stwowego do ministra do spraw Skarbu sejmik województwa, na obszarze któ rego znajduje siedziba tego przed 2. W przypadku przez mi nistra wniosku sejmiku województwa stosuje przepis art. 4 ust. 2, w przy padku wniosku minister informuje sejmik wojewódz twa, uzasadnie nie odmowy."
+**Art. 114.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz.U. Nr 118, poz. 561, Nr 156, poz. 775 oraz z 1997 r. Nr 32, poz. 184, Nr 98, poz. 603, Nr 106, poz. 673, Nr 121, poz. 770, Nr 137, poz. 926 i Nr 141, poz. 945) dodaje się art. 4a w brzmieniu: (cid:147)Art. 4a. 1. Z uzasadnionym wnioskiem dokonania komercjalizacji przedsiębiorstwa państwowego może wystąpić do ministra właściwego do spraw Skarbu Państwa sejmik wojew(cid:243)dztwa, na obszarze kt(cid:243)rego znajduje się siedziba tego przedsiębiorstwa. 2. W przypadku uwzględnienia przez ministra wniosku sejmiku wojew(cid:243)dztwa stosuje się przepis art. 4 ust. 2, zaś w przypadku nieuwzględnienia wniosku minister informuje sejmik wojew(cid:243)dztwa, podając jednocześnie uzasadnienie odmowy.(cid:148).
 
-**Art. 115.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz. U. z 1997 r. Nr 5, poz. 24) wprowadza zmiany:
+**Art. 115.** W ustawie z dnia 21 listopada 1996 r. o muzeach (Dz.U. z 1997 r. Nr 5, poz. 24) wprowadza się następujące zmiany:
 
-**Art. 116.** W ustawie z dnia 5 grudnia 1996 r. o zawo dzie lekarza (Dz. U. z 1997r. Nr 28, poz. 152 i Nr 88, poz. 554) wprowadza zmiany:
+**Art. 116.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz.U. z 1997r. Nr 28, poz. 152 i Nr 88, poz. 554) wprowadza się następujące zmiany:
 
-**Art. 117.** W ustawie z dnia 6 grudnia 1996 r. o zasta wie rejestrowym i rejestrze zastawów (Dz. U. Nr 149, poz. 703 i z 1997 r. Nr 121, poz. 769) wart. 1 w ust. 1 pkt 2 otrzymuje brzmienie: ,,2) jednostki terytorialnego, jednostek terytorialnego i innej gminnej, powiatowej i wojewódzkiej osoby prawnej,".
+**Art. 117.** W ustawie z dnia 19 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastaw(cid:243)w (Dz.U. Nr 146, poz. 703 i z 1997 r. Nr 121, poz. 769) w art. 1 w ust. 1 pkt 2 otrzymuje brzmienie: (cid:132)2) jednostki samorządu terytorialnego, związku jednostek samorządu terytorialnego i innej gminnej, powiatowej i wojew(cid:243)dzkiej osoby prawnej,(cid:148).
 
-**Art. 118.** W ustawie z dnia 20 grudnia 1996 r. o go spodarce komunalnej (Dz. U. z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679 i Nr 121, poz. 770) wprowadza na zmiany:
+**Art. 118.** W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz.U. z 1997 r. Nr 9, poz. 43, Nr 106, poz. 679 i Nr 121, poz. 770) wprowadza się następujące zmiany:
 
 **Art. 3.**
 
-1. Jednostki terytorialnego wykonywanie z zakresu gospodarki komunalnej oso bom fizycznym, osobom prawnym lub jednostkom organizacyjnym nie posia prawnej, w drodze umowy na zasadach ogólnych, z zasto sowaniem przepisów o zamówieniach publicznych.
-
-2. do prowadzenia danego rodzaju na podstawie innych ustaw jest wymagane uzyskanie zezwolenia, jednostki terytorialnego mo wykonywanie wy podmiotowi wy magane zezwolenie.
+1. Jednostki samorządu terytorialnego mogą powierzać wykonywanie zadań z zakresu gospodarki komunalnej osobom fizycznym, osobom prawnym lub jednostkom organizacyjnym nie posiadającym osobowości prawnej, w drodze umowy na zasadach og(cid:243)lnych, z zastosowaniem przepis(cid:243)w o zam(cid:243)wieniach publicznych. innych ustaw jest wymagane uzyskanie zezwolenia, jednostki samorządu terytorialnego mogą powierzyć wykonywanie zadań wyłącznie podmiotowi posiadającemu wymagane zezwolenie.
 
 **Art. 4.**
 
-1. przepisy szczególne nie inaczej, organy jednostek sa terytorialnego o:
+1. Jeżeli przepisy szczeg(cid:243)lne nie stanowią inaczej, organy stanowiące jednostek samorządu terytorialnego postanawiają o:
 
 - **1)** wyborze sposobu prowadzenia i form gospodarki komunalnej,
-- **2)** cen i albo o sposobie ustalania cen i za komu nalne o charakterze pu blicznej oraz za korzystanie z obiektów i publicznej jednostek terytorialnego.
+- **2)** wysokości cen i opłat albo o sposobie ustalania cen i opłat za usługi komunalne o charakterze użyteczności publicznej oraz za korzystanie z obiekt(cid:243)w i urządzeń użyteczności publicznej jednostek samorządu terytorialnego.
 
-2. Uprawnienia, o których mowa w ust. 1 pkt 2, organy jednostek sa terytorialnego powie tych jednostek.";
+2. Uprawnienia, o kt(cid:243)rych mowa w ust. 1 pkt 2, organy stanowiące jednostek samorządu terytorialnego mogą powierzyć zarządom tych jednostek.(cid:148);
 
-- **4)** wart. 6 ust. 1 otrzymuje brzmienie: " 1. Organy jednostek te rytorialnego lub komunalne towe zgodnie z przepisami ustawy oraz prze pisami ustawy z dnia 5 stycznia 1991 r. Prawo (Dz. U. z 1993 r. Nr 72, poz. 344, z 1994 r. Nr 76, poz. 344, Nr 121, poz. 591, Nr 133, poz. 685, z 1995 r. Nr 78, poz. 390, Nr 124, poz. 601, Nr 132, poz. 640, z 1996 r. Nr 89, poz. 402, Nr 106, poz. 496, Nr 132, poz. 621, Nr 139, poz. 647 oraz z 1997 r. Nr 54, poz. 348, Nr 79, poz. 484, Nr 121, poz. 770, Nr 123, poz. 775 i 778, Nr 133, poz. 883, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 158, poz. 1042).";
-- **5)** 3 otrzymuje brzmienie: z jednostek terytorialnego";
-- **6)** art. 9 otrzymuje brzmienie: "Art. 9. Jednostki terytorialnego z odpowie lub akcyjne, a mo do takich
-- **7)** w art. 10 dodaje ust. 4 w brzmieniu: ,,4. Poza publicznej woje wództwo prawa han dlowego na zasadach i w formach nych w ustawie o wojewódz twa.";
-- **8)** art. 12 otrzymuje brzmienie: "Art.12. 1. Do wnoszenia oraz obejmo wania i akcji, nabywania i zbywania praw z i akcji stosuje przepisy Kodeksu handlowego, z czeniem art. 310, oraz przepisy Kodeksu cywilnego, z przepisów ustaw: o terytorialnym, o powiatowym i o samo województwa.
+- **4)** w art. 6 ust. 1 otrzymuje brzmienie: (cid:132)1. Organy stanowiące jednostek samorządu terytorialnego mogą powoływać, likwidować lub przekształcać komunalne zakłady budżetowe zgodnie z przepisami ustawy oraz przepisami ustawy z dnia 5 stycznia 1991 r. - Prawo budżetowe (Dz.U. z 1993 r. Nr 72, poz. 344, z 1994 r. Nr 76, poz. 344, Nr 121, poz. 591, Nr 133, poz. 685, z 1995 r. Nr 78, poz. 390, Nr 124, poz. 601, Nr 132, poz. 640, z 1996 r. Nr 89, poz. 402, Nr 106, poz. 496, Nr 132, poz. 621, Nr 139, poz. 647 oraz z 1997 r. Nr 54, poz. 348, Nr 79, poz. 484, Nr 121, poz. 770, Nr 123, poz. 775 i 778, Nr 133, poz. 883, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 158, poz. 1042 ).(cid:148);
+- **5)** tytuł rozdziału 3 otrzymuje brzmienie (cid:147)Sp(cid:243)łki z udziałem jednostek samorządu terytorialnego(cid:148);
+- **6)** art. 9 otrzymuje brzmienie: (cid:147)Art. 9. Jednostki samorządu terytorialnego mogą tworzyć sp(cid:243)łki z ograniczoną odpowiedzialnością lub sp(cid:243)łki akcyjne, a także mogą przystępować do takich sp(cid:243)łek.(cid:148);
+- **7)** w art. 10 dodaje się ust. 4 w brzmieniu: (cid:147)4. Poza sferą użyteczności publicznej wojew(cid:243)dztwo może tworzyć sp(cid:243)łki prawa handlowego na zasadach i w formach określonych w ustawie o samorządzie wojew(cid:243)dztwa.(cid:148);
+- **8)** art. 12 otrzymuje brzmienie: (cid:147)Art.12. 1. Do wnoszenia wkład(cid:243)w oraz obejmowania udział(cid:243)w i akcji, nabywania i zbywania praw z udział(cid:243)w i akcji stosuje się przepisy Kodeksu handlowego, z wyłączeniem art. 310, oraz przepisy Kodeksu cywilnego, z zastrzeżeniem przepis(cid:243)w ustaw: o samorządzie terytorialnym, o samorządzie powiatowym i o samorządzie wojew(cid:243)dztwa. funkcję zgromadzenia wsp(cid:243)lnik(cid:243)w (walnego zgromadzenia) pełnią zarządy tych jednostek samorządu terytorialnego.(cid:148);
+- **9)** w art. 13 ust. 2 otrzymuje brzmienie: (cid:147)2. Regulamin, o kt(cid:243)rym mowa w ust. 1, oraz jego zmiany obowiązują na obszarze jednostek samorządu terytorialnego po zatwierdzeniu przez zarządy tych jednostek.(cid:148);
+- **10)** w art. 18:
+    - **a)** po ust. 5 dodaje się ust. 5a w brzmieniu: "5a. Tryb wyboru członk(cid:243)w rady nadzorczej przez pracownik(cid:243)w sp(cid:243)łki może określać jej statut albo regulamin uchwalony w spos(cid:243)b określony w tym statucie.",
+    - **b)** w ust. 6 na końcu zdania pierwszego dodaje się wyrazy ", z wyjątkiem przypadk(cid:243)w określonych w art. 52 Kodeksu pracy";
 
-2. W jednoosobowych jednostek terytorialnego zgro madzenia wspólników (walnego zgro madzenia) tych jedno stek terytorialnego.";
+- **11)** art. 22 otrzymuje brzmienie: "Art. 22. 1. Organ stanowiący jednostki samorządu terytorialnego może, w drodze uchwały, zdecydować o likwidacji zakładu budżetowego w celu zawiązania sp(cid:243)łki akcyjnej albo sp(cid:243)łki z ograniczoną odpowiedzialnością przez wniesienie na pokrycie kapitału sp(cid:243)łki wkładu w postaci mienia zakładu budżetowego pozostałego po jego likwidacji.
 
-- **9)** wart. 13 ust. 2 otrzymuje brzmienie: ,,2. Regulamin, o którym mowa w ust. 1, oraz je go zmiany na obszarze jedno stek terytorialnego po zatwier dzeniu przez tych jednostek.";
-- **10)** wart. 18:
-    - **a)** po ust. 5 dodaje ust. 5a w brzmieniu: ,,5a. Tryb wyboru rady nadzorczej przez pracowników jej statut albo regulamin uchwalony w sposób w tym statucie.",
-    - **b)** w ust. 6 na zdania pierwszego dodaje wyrazy,,, z przypadków wart. 52 Kodeksu pracy";
+2. Czynności związane z likwidacją zakładu budżetowego, w celu o kt(cid:243)rym mowa w ust. 1, wykonuje zarząd jednostki samorządu terytorialnego.".
 
-- **11)** art. 22 otrzymuje brzmienie: "Art. 22. 1. Organ jednostki du terytorialnego w drodze o likwidacji za w celu akcyjnej albo z ograniczo przez wniesie nie na pokrycie w postaci mienia po jego likwidacji.
+**Art. 119.** W ustawie z dnia 9 stycznia 1997 r. - Kodeks celny (Dz.U. Nr 23, poz. 117, Nr 64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 i Nr 160, poz. 1084) wprowadza się następujące zmiany:
 
-2. z du w celu, o którym mo wa w ust. 1, wykonuje jednostki terytorialnego."
+**Art. 120.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do gmin wyznaniowych żydowskich w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 251 i z 1998 r. Nr 59, poz.
 
-**Art. 119.** W ustawie z dnia 9 stycznia 1997 r. - Ko deks celny (Dz. U. Nr 23, poz. 117, Nr 64, poz. 407, Nr 121, poz. 770, Nr 157, poz. 1026 i Nr 160, poz. 1084) wprowadza zmiany:
+**Art. 121.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Katolickiego Mariawit(cid:243)w w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 252 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 120.** W ustawie z dnia 20 lutego 1997 r. o sto sunku do gmin wyznaniowych w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 251 i z 1998 r. Nr 59, poz. 375) wart. 27 w ust. 2 wyrazy "te renowego organu administracji ogólnej" za wyrazami organu administra cji lub
+**Art. 122.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Starokatolickiego Mariawit(cid:243)w w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 253 i z 1998 r. Nr 59, poz. 375) wprowadza się następujące zmiany:
 
-**Art. 121.** W ustawie z dnia 20 lutego 1997 r. o sto sunku do Katolickiego Mariawitów w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 252 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 123.** W ustawie z dnia 20 lutego 1997 r. o stosunku Państwa do Kościoła Zielonoświątkowego w Rzeczypospolitej Polskiej (Dz.U. Nr 41, poz. 254 i z 1998 r. Nr 59, poz.
 
-**Art. 122.** W ustawie z dnia 20 lutego 1997 r. o sto sunku do Starokatolickiego Mariawi tów w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 253 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 124.** W ustawie z dnia 10 kwietnia 1997 r. - Prawo energetyczne (Dz.U. Nr 54, poz. 348 i Nr 158, poz. 1042) wprowadza się następujące zmiany:
 
-**Art. 123.** W ustawie z dnia 20 lutego 1997 r. o sto sunku do w Rzeczypospolitej Polskiej (Dz. U. Nr 41, poz. 254 i z 1998 r. Nr 59, poz. 375) wprowadza zmiany:
+**Art. 125.** W ustawie z dnia 24 kwietnia 1997 r. o przeciwdziałaniu narkomanii (Dz.U. Nr 75, poz. 468) wprowadza się następujące zmiany:
 
-**Art. 124.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. Nr 54, poz. 348 i Nr 158, poz. 1042 oraz z 1998 r. Nr 94, poz. 594) wprowadza zmiany:
-
-**Art. 125.** W ustawie z dnia 24 kwietnia 1997 r. o narkomanii (Dz. U. Nr 75, poz. wprowadza zmiany: wart. w ust. po wyrazach "administracji wej i" dodaje wyraz "jednostek"; w art. w ust. wyrazy "naczelnych i"; w art. po pkt przecinkiem i dodaje pkt w brzmieniu: starosta du miasta w miastach na prawach powia tu.";
-
-**Art. 126.** W ustawie z dnia 24 kwietnia 1997 r. o zwalczaniu chorób badaniu zwie i oraz o Inspekcji We terynaryjnej (Dz. U. Nr 60, poz. 369) wprowadza na zmiany:
+**Art. 126.** W ustawie z dnia 24 kwietnia 1997 r. o zwalczaniu chor(cid:243)b zakaźnych zwierząt, badaniu zwierząt rzeźnych i mięsa oraz o Państwowej Inspekcji Weterynaryjnej (Dz.U. Nr 60, poz. 369) wprowadza się następujące zmiany:
 
 **Art. 39b.**
 
-1. Starosta, wójt (burmistrz, prezydent miasta) odpowie za polecenia wydane go na podstawie art. 39a ust. 5.
+1. Starosta, w(cid:243)jt (burmistrz, prezydent miasta) ponoszą wyłączną odpowiedzialność za treść polecenia wydanego na podstawie art. 39a ust. 5.
 
-2. Polecenie przekazane ustnie wymaga potwierdzenia na
+2. Polecenie przekazane ustnie wymaga potwierdzenia na piśmie. towy lekarz weterynarii natychmiast przedkłada sprawę wojew(cid:243)dzkiemu lekarzowi weterynarii, jeżeli nie jest w stanie wykonać polecenia albo jeżeli polecenie narusza prawo.
 
-3. Polecenie podlega wy konaniu. powiatowy lekarz weterynarii natychmiast wojewódzkiemu lekarzowi we terynarii, nie jest w stanie wyko polecenia albo polecenie na rusza prawo.
+4. Polecenie naruszające prawo jest nieważne. O nieważności polecenia rozstrzyga wojewoda.
 
-4. Polecenie prawo jest nie O polecenia roz strzyga wojewoda.
+**Art. 39c.** W sprawach należących do właściwości powiatowego lekarza weterynarii, w kt(cid:243)rych przedmiot kontroli znajduje się we władaniu powiatu lub w kt(cid:243)rych stroną są organy powiatu albo jednostki organizacyjne im podlegające, uprawnienia organu pierwszej instancji przejmuje wojew(cid:243)dzki lekarz weterynarii.";
 
-**Art. 39c.** W sprawach do powiatowego lekarza weterynarii, w któ rych przedmiot kontroli znajduje we powiatu lub w których organy powiatu albo jednostki organi zacyjne im uprawnienia or ganu pierwszej instancji przejmuje woje wódzki lekarz weterynarii.";
+**Art. 127.** W ustawie z dnia 20 czerwca 1997 r. - Prawo o ruchu drogowym (Dz.U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086) wprowadza się następujące zmiany:
 
-**Art. 127.** W ustawie z dnia 20 czerwca 1997 r. - Pra wo o ruchu drogowym (Dz. U. Nr 98, poz. 602, Nr 123, poz. 779 i Nr 160, poz. 1086) wprowadza ce zmiany:
+**Art. 129.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz.U. Nr 96, poz. 590) wprowadza się następujące zmiany:
 
-**Art. 128.** W ustawie z dnia 25 czerwca 1997 o cu dzoziemcach (Dz. U. Nr 114, poz. 739) wprowadza zmiany:
-
-**Art. 130.** W ustawie z dnia 27 czerwca 1997 r. o bi bliotekach (Dz. U. Nr 85, poz. 539) wprowadza na zmiany:
+**Art. 130.** W ustawie z dnia 27 czerwca 1997 r. o bibliotekach (Dz.U. Nr 85, poz. 539) wprowadza się następujące zmiany:
 
 **Art. 20.**
 
-1. Do wojewódzkiej biblioteki pu blicznej
+1. Do zadań wojew(cid:243)dzkiej biblioteki publicznej należy:
 
-- **1)** gromadzenie, opracowywanie i udo bibliotecz nych potrzeb i n formacyjnych, edukacyjnych i samo cych wiedzy o regionie oraz jego dorobek kul turalny, naukowy i gospodarczy,
-- **2)** funkcji informacji biblioteczno-bibliograficznego, orga nizowanie obiegu dzybibliotecznych, opracowywanie i publikowanie bibliografii regional nych, a innych in formacyjnych o charakterze regional nym,
-- **3)** badanie stanu i stopnia zaspokajania potrzeb analizowanie stanu, organizacji i rozmieszczenia bi bliotek oraz i przedsta wianie organizatorom propozycji zmian w tym zakresie,
-- **4)** udzielanie bibliotekom pomocy in strukcyjno-metodycznej i szkolenio wej,
-- **5)** sprawowanie nadzoru merytoryczne go w zakresie realizacji przez powia towe i gminne biblioteki publiczne za wart. 27 ust. 5.
+- **1)** gromadzenie, opracowywanie i udostępnianie materiał(cid:243)w bibliotecznych służących obsłudze potrzeb informacyjnych, edukacyjnych i samokształceniowych, zwłaszcza dotyczących bek kulturalny, naukowy i gospodarczy,
+- **2)** pełnienie funkcji ośrodka informacji bibliotecznobibliograficznego, organizowanie obiegu wypożyczeń międzybibliotecznych, opracowywanie i publikowanie bibliografii regionalnych, a także innych materiał(cid:243)w informacyjnych o charakterze regionalnym,
+- **3)** badanie stanu i stopnia zaspokajania potrzeb użytkownik(cid:243)w, analizowanie stanu, organizacji i rozmieszczenia bibliotek oraz formułowanie i przedstawianie organizatorom propozycji zmian w tym zakresie,
+- **4)** udzielanie bibliotekom pomocy instrukcyjno-metodycznej i szkoleniowej,
+- **5)** sprawowanie nadzoru merytorycznego w zakresie realizacji przez powiatowe i gminne biblioteki publiczne zadań określonych w art. 27 ust. 5.
 
-2. Biblioteka publiczna, której organizato rem jest powiat lub miasto na prawach powiatu, w województwa, mo zadania, o których mowa w ust. 1, na podstawie porozumienia za województwa z powia tu lub miasta na prawach powiatu. Po rozumienie w finansowych, które strony porozumienia, nych do prowadzenia przez ;
+2. Biblioteka publiczna, kt(cid:243)rej organizatorem jest powiat lub miasto na prawach powiatu, działająca w mieście będącym siedzibą samorządu wojew(cid:243)dztwa, może wykonywać zadania, o kt(cid:243)rych mowa w ust. 1, na postawie porozumienia zarządu wojew(cid:243)dztwa z zarządem powiatu lub miasta na prawach powiatu. Porozumienie w szczeg(cid:243)lności określa wielkość środk(cid:243)w finansowych, kt(cid:243)re wnoszą strony porozumienia, niezbędnych do prowadzenia działalności przez bibliotekę.(cid:148);
 
-- **6)** dodaje art. 20a w brzmieniu: "Art. 20a. 1. Powiatowa biblioteka publiczna reali zuje odpowiednio zadania wart. 20 w ust. 1 w pkt l, 2, 4 i 5 oraz z
+- **6)** dodaje się art. 20a w brzmieniu: (cid:132)Art.20a. 1. Powiatowa biblioteka publiczna, realizuje odpowiednio zadania określone w art. 20 w ust. 1 w pkt 1, 2, 4 i 5 oraz wsp(cid:243)łdziała z wojew(cid:243)dzką biblioteką publiczną.
 
-2. Biblioteka publiczna, której organiza torem jest gmina w powia towego, zadania, o których mowa w ust. 1, na podsta wie porozumienia powiatu z gminy. Porozumienie po winno ustalenia wart. 20 ust. 2."
+2. Biblioteka publiczna, kt(cid:243)rej organizatorem jest gmina, działająca w mieście będącym siedzibą samorządu powiatowego, może wykonywać zadania, o kt(cid:243)rych mowa w ust. 1, na podstawie porozumienia zarządu powiatu z zarządem gminy. Porozumienie powinno zawierać ustalenia określone w art. 20 ust. 2.".
 
-**Art. 131.** W ustawie z dnia 27 czerwca 1997 r. o od padach (Dz. U. Nr 96, poz. 592) wprowadza zmiany:
+**Art. 131.** W ustawie z dnia 27 czerwca 1997 r. o odpadach (Dz.U. Nr 96, poz. 592) wprowadza się następujące zmiany:
 
-**Art. 132.** W ustawie z dnia 27 czerwca 1997 r. o bie medycyny pracy (Dz. U. Nr 96, poz. 593) wprowa dza zmiany:
+**Art. 132.** W ustawie z dnia 27 czerwca 1997 r. o służbie medycyny pracy (Dz.U. Nr 96, poz.
 
-**Art. 133.** W ustawie z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz. U. Nr 96, poz. 591) wpro wadza zmiany:
+**Art. 133.** W ustawie z dnia 27 czerwca 1997 r. o transporcie kolejowym (Dz.U. Nr 96, poz.
 
 **Art. 6.**
 
-1. Likwidacji linii kolejowej lub jej dokonuje kolei, po uprzednim za wieszeniu przewozów co najmniej przez i po uzyskaniu opinii sej miku województwa i rad powiatów, na terenie których przebiega ta linia, w przypadku odcinka linii kolejowej na terenie jednego powiatu - po uzyskaniu opinii rady tego powiatu, na zasadach nych przepisami prawa przewozowego.
+1. Likwidacji linii kolejowej lub jej części dokonuje zarząd kolei, po uprzednim zawieszeniu przewoz(cid:243)w co najmniej przez sześć miesięcy i po uzyskaniu opinii sejmiku wojew(cid:243)dztwa i rad powiat(cid:243)w, na terenie kt(cid:243)rych przebiega ta linia, zaś w przypadku odcinka linii kolejowej przebiegającego wyłącznie na terenie jednego powiatu (cid:150) po uzyskaniu opinii rady tego powiatu, na zasadach określonych przepisami prawa przewozowego.
 
-2. w procesie opiniowania wniosku o linii kolejowej, organ, o któ rym mowa w ust. l, z wnioskiem do kolei o likwidowa nej linii, kolei przekazuje nieod
+2. Jeśli w procesie opiniowania wniosku o likwidację linii kolejowej, organ, o kt(cid:243)rym mowa w ust. 1, wystąpi z wnioskiem do zarządu kolei o przejęcie likwidowanej linii, zarząd kolei przekazuje ją nieodpłatnie.
 
-3. Opinia, o której mowa w ust. l, wydawa na jest w terminie trzech od dnia wniosku o jej wydanie.
+3. Opinia, o kt(cid:243)rej mowa w ust. 1, wydawana jest w terminie trzech miesięcy od dnia złożenia wniosku o jej wydanie.
 
-4. Koszty likwidacji linii kolejowych fi nansowane z
+4. Koszty likwidacji linii kolejowych są finansowane z budżetu państwa.";
 
-- **2)** dodaje art. 6a w brzmieniu: ,,6a. Grunty pod linie kolejowe zwol nione od z wieczy stego.";
-- **3)** wart. 21:
-    - **a)** dodaje ust. la w brzmieniu: "la. Inwestycje oraz koszty utrzymania linii kole jowych o znaczeniu wojewódzkim finansowane z wo jewództwa." ,
-    - **b)** w ust. 5 wyrazy lokalnym znaczeniu" je wyrazami" , o których mowa w art. 5 ust. 1 pkt2 i 3,"
-    - **c)** ust. 6 otrzymuje brzmienie: ,,6. Inwestycje, o których mowa w ust. 1, 1a i 5, dofinansowane z innych
+- **2)** dodaje się art. 6a w brzmieniu: (cid:132)6a. Grunty zajęte pod linie kolejowe są zwolnione od opłat z tytułu użytkowania wieczystego.";
+- **3)** w art. 21:
+    - **a)** dodaje się ust. 1a w brzmieniu: (cid:132)1a. Inwestycje oraz koszty utrzymania linii kolejowych o znaczeniu wojew(cid:243)dzkim mogą być finansowane z budżetu samorządu wojew(cid:243)dztwa.",
+    - **b)** w ust. 5 wyrazy (cid:132)o lokalnym znaczeniu(cid:148) zastępuje się wyrazami (cid:132) ,o kt(cid:243)rych mowa w art. 5 ust. 1 pkt 2 i 3,(cid:148),
+    - **c)** ust. 6 otrzymuje brzmienie: (cid:132)6. Inwestycje, o kt(cid:243)rych mowa w ust. 1, 1a i 5, mogą być dofinansowane z innych źr(cid:243)deł.";
 
-- **4)** art. 22 otrzymuje brzmienie: "Art. 22. 1. kolejowi prze wozy na obszarze kraju z na wyrównanie utraco nych przychodów z cych ustawowych ulg w krajowych przewozach na zasadach w przepisach.
+- **4)** art. 22 otrzymuje brzmienie: (cid:132)Art. 22. 1. Przewoźnicy kolejowi wykonujący przewozy pasażerskie na obszarze kraju otrzymują z budżetu państwa dotację przedmiotową na wyr(cid:243)wnanie utraconych przychod(cid:243)w z tytułu obowiązujących ustawowych ulg w krajowych przewozach pasażerskich, na zasadach określonych w odrębnych przepisach.
 
-2. dotacji, o której mowa w ust: 1, ustawa
+2. Wysokość dotacji, o kt(cid:243)rej mowa w ust. 1, określa ustawa budżetowa.(cid:148); (cid:132)Art. 27.1. Organem właściwym do udzielania, odmowy udzielania, zmiany i cofania koncesji na działalność gospodarczą polegającą na:
 
-- **5)** art. 27 otrzymuje brzmienie: "Art. 27.1. Organem do udzielania, odmowy udzielania, zmiany i cofania koncesji na na:
-- **1)** liniami kolejowymi,
-- **2)** wykonywaniu przewozów kolejo wych, jest minister do spraw trans portu, z ust. 2.
+- **1)** zarządzaniu liniami kolejowymi,
+- **2)** wykonywaniu przewoz(cid:243)w kolejowych, jest minister właściwy do spraw transportu, z zastrzeżeniem ust.
 
-2. Organem do udzielania, od mowy udzielania, zmiany i cofania kon cesji na pro na obszarze jedne go województwa, a na:
+2.
 
-- **1)** liniami kolejowymi,
-- **2)** wykonywaniu przewozów kolejo wych, jest wojewoda.";
-- **6)** w art. 39 na dodaje wyrazy "Iub wojewo
-- **7)** w art. 43 w ust. 1 i wart. 45 wyrazy "rejonowy or gan administracji ogólnej" wyrazem "starosta".
+2. Organem właściwym do udzielania, odmowy udzielania, zmiany i cofania koncesji na działalność gospodarczą prowadzoną wyłącznie na obszarze jednego wojew(cid:243)dztwa, a polegającą na:
 
-**Art. 134.** W ustawie z dnia 27 czerwca 1997 r. o par tiach politycznych (Dz. U. Nr 98, poz. 604) wprowadza zmiany:
+- **1)** zarządzaniu liniami kolejowymi,
+- **2)** wykonywaniu przewoz(cid:243)w kolejowych, jest właściwy wojewoda.";
+- **6)** w art. 39 na końcu dodaje się wyrazy (cid:132)lub wojewodę(cid:148);
+- **7)** w art. 43 w ust. 1 i w art. 45 wyrazy (cid:132)rejonowy organ rządowej administracji og(cid:243)lnej" zastępuje się wyrazem (cid:132)starosta".
 
-**Art. 135.** W ustawie z dnia 20 sierpnia 1997 r. o or ganizacji hodowli i rozrodzie gospodarskich (Dz. U. Nr 123, poz. 774) wprowadza zmiany:
+**Art. 134.** W ustawie z dnia 27 czerwca 1997 r. o partiach politycznych (Dz.U. Nr 98, poz. 604) wprowadza się następujące zmiany:
 
-**Art. 136.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie (Dz. U. Nr 111, poz. 724) wprowa dza zmiany:
+**Art. 135.** W ustawie z dnia 20 sierpnia 1997 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz.U. Nr 123, poz. 774) wprowadza się następujące zmiany:
 
-**Art. 137.** W ustawie z dnia 21 sierpnia 1997 r. o go spodarce (Dz. U. Nr 115, poz. 741) wprowadza zmiany:
+**Art. 136.** W ustawie z dnia 21 sierpnia 1997 r. o ochronie zwierząt (Dz.U. Nr 111, poz. 724) wprowadza się następujące zmiany:
 
-**Art. 25b.** Powiatowym zasobem gospodaruje powiatu. Przepisy art. 25 ust. 2 i 3 stosuje odpowiednio.
+**Art. 137.** W ustawie z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz.U. Nr 115, poz. 741) wprowadza się następujące zmiany:
 
-**Art. 25c.** Wojewódzki zasób stano które:
+**Art. 25b.** Powiatowym zasobem nieruchomości gospodaruje zarząd powiatu. Przepisy art. 25 ust. 2 i 3 stosuje się odpowiednio.
 
-**Art. 25d.** Wojewódzkim zasobem gospodaruje województwa. Prze pisy art. 25 ust. 2 i 3 stosuje odpo wiednio.";
+**Art. 25c.** Wojew(cid:243)dzki zas(cid:243)b nieruchomości stanowią nieruchomości, kt(cid:243)re:
 
-**Art. 138.** W ustawie z dnia 22 sierpnia 1997 r. o bez imprez masowych (Dz. U. Nr 106, poz. 680) wprowadza zmiany:
+**Art. 25d.** Wojew(cid:243)dzkim zasobem nieruchomości gospodaruje zarząd wojew(cid:243)dztwa. Przepisy art. 25 ust. 2 i 3 stosuje się odpowiednio.(cid:148);
 
-**Art. 139.** W ustawie z dnia 27 sierpnia 1997 r. o re habilitacji zawodowej i oraz zatrudnianiu osób (Dz. U. Nr 123, poz. 776 i Nr 160, poz. 1082 oraz z 1998 r. Nr 99, poz. 628) wpro wadza zmiany:
+**Art. 138.** W ustawie z dnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz.U. Nr 106, poz. 680) wprowadza się następujące zmiany:
+
+**Art. 139.** W ustawie z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu os(cid:243)b niepełnosprawnych (Dz.U. Nr 123, poz. 776 i Nr 160, poz. 1082) wprowadza się następujące zmiany:
 
 **Art. 35.**
 
-1. Do województwa re alizowanych w ramach ustawy w
+1. Do zadań samorządu wojew(cid:243)dztwa realizowanych w ramach ustawy należy w szczeg(cid:243)lności: prawy warunk(cid:243)w życia społecznego i zawodowego os(cid:243)b niepełnosprawnych,
 
-- **1)** opracowywanie wojewódzkich pro gramów poprawy wa runków i zawodo wego osób
-- **2)** opracowywanie wojewódzkich pro gramów pomocy w realizacji na rzecz zatrudniania osób sprawnych.
+- **2)** opracowywanie wojew(cid:243)dzkich program(cid:243)w pomocy w realizacji zadań na rzecz zatrudniania os(cid:243)b niepełnosprawnych.
 
-2. Do województwa w
+2. Do zadań zarządu wojew(cid:243)dztwa należy w szczeg(cid:243)lności :
 
-- **1)** opracowywanie i przedstawianie nomocnikowi planów oraz in formacji z prowadzonej
-- **2)** z instytucjami administra cji oraz powiatami i gmina mi w realizacji wy z ustawy,
-- **3)** z organizacjami dowymi i fundacjami na rzecz osób
-- **13)** dodaje art. 35a-35c w brzmieniu: "Art. 35a. Do powiatowego centrum pomo cy rodzinie w
-- **1)** rehabi I itacja osób n nych, o której mowa wart. 10 ust. 1, zgodnie z orzeczeniem i wnioskiem, o którym mowa wart. 10 ust. 5,
-- **2)** podejmowanie do ograniczania skutków i likwidacji barier utrud osobom nym funkcjonowanie w stwie,
-- **3)** opracowywanie i przedstawianie pla nów i informacji z prowadzonej oraz ich na potrzeby województwa.
+- **1)** opracowywanie i przedstawianie Pełnomocnikowi plan(cid:243)w zadań oraz informacji z prowadzonej działalności,
+- **2)** wsp(cid:243)łpraca z instytucjami administracji rządowej oraz powiatami i gminami w realizacji właściwych zadań wynikających z ustawy,
+- **3)** wsp(cid:243)łpraca z organizacjami pozarządowymi i fundacjami działającymi na rzecz os(cid:243)b niepełnosprawnych.(cid:148);
+- **14)** w art. 36:
+    - **a)** w ust. 1 wyraz (cid:132)gminy(cid:148) zastępuje się wyrazami (cid:132)jednostki samorządu terytorialnego(cid:148),
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: (cid:132)1a. Zadania, o kt(cid:243)rych mowa w ust. 1, mogą być r(cid:243)wnież zlecane organizacjom pozarządowym o charakterze lokalnym.(cid:148),
+    - **c)** w ust. 2 w pkt 1 wyraz (cid:132)gminom(cid:148) zastępuje się wyrazami (cid:132)jednostkom samorządu terytorialnego(cid:148);
 
-**Art. 35b.** Do powiatowego pracy w
+- **15)** w art. 38 w ust. 1 wyraz (cid:132)Dyrektor(cid:148) zastępuje się wyrazami (cid:132)Kierownik powiatowego urzędu pracy(cid:148) oraz wyraz (cid:132)rejonowym(cid:148) zastępuje się wyrazem (cid:132)powiatowym(cid:148);
+- **16)** w art. 39:
+    - **a)** ust. 2 otrzymuje brzmienie: (cid:132)2. Specjalistyczne ośrodki są tworzone i likwidowane w zależności od ich zasięgu terytorialnego przez starostę lub marszałka wojew(cid:243)dztwa. Starosta lub marszałek wojew(cid:243)dztwa może zlecać innym podmiotom zadania, o kt(cid:243)rych mowa w ust. 3.(cid:148),
+    - **b)** ust. 4 otrzymuje brzmienie: (cid:132)4. Koszty utworzenia, działalności oraz realizacji zadań specjalistycznego ośrodka powinny być pokrywane ze środk(cid:243)w Państwowego Funduszu Rehabilitacji Os(cid:243)b Niepełnosprawnych.(cid:148);
 
-**Art. 35c.** Zarządy województw i starostowie Prezesowi stwowego Funduszu Rehabilitacyjnego i Osób wnioski do planu finansowego tego Funduszu oraz sprawozdania rzeczowo-finansowe o za daniach zrealizowanych z otrzymanych z Funduszu
+- **17)** w art. 40 w ust. 1 wyraz (cid:132)Dyrektor(cid:148) zastępuje się wyrazami (cid:132)Kierownik powiatowego urzędu pracy(cid:148);
+- **18)** w art. 41 w ust. 3 wyraz (cid:132)dyrektor(cid:148) zastępuje się wyrazem (cid:132)starosta(cid:148);
+- **19)** w art. 43 w ust. 1 w pkt 2 po wyrazie (cid:132)przedstawicieli(cid:148) dodaje się wyraz (cid:132)jednostek(cid:148),
+- **20)** w art. 47:
+    - **a)** w ust. 1 w pkt 2 po wyrazie (cid:132)rządowych(cid:148) dodaje się wyraz ", samorządowych(cid:148),
 
-**Art. 140.** W ustawie z dnia 28 sierpnia 1997 r. o or ganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. Nr 139, poz. 934 i z 1998 r. Nr 98, poz. 610) wart. 141 w ust. 1 w pkt 9,10,11 i 12 wyrazy "gminy, komunalne lub miasto Warszawa" wyrazami "jednostki teryto rialnego, ich lub miasto Warszawa".
+- **22)** w art. 65:
+    - **a)** w ust. 1 wyrazy (cid:132)gminne jednostki organizacyjne(cid:148) zastępuje się wyrazami (cid:132)samorządowe jednostki organizacyjne będące jednostkami lub zakładami budżetowymi(cid:148),
+    - **b)** w ust. 3 wyraz (cid:132)Gminne(cid:148) zastępuje się wyrazem (cid:132)Samorządowe(cid:148).
 
-**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. o fi nansowaniu dróg publicznych (Dz. U. Nr 123, poz. 780) wprowadza zmiany:
+**Art. 140.** W ustawie z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych (Dz.U. Nr 139, poz. 934) w art. 141 ust. 1 w pkt 9, 10, 11 i 12 wyrazy (cid:132)gminy, związki komunalne lub miasto stołeczne Warszawa(cid:148) zastępuje się wyrazami (cid:132)jednostki samorządu terytorialnego, ich związki lub miasto stołeczne Warszawa(cid:148).
 
-**Art. 142.** W ustawie z dnia 29 sierpnia 1997 r. - Or dynacja podatkowa (Dz. U. Nr 137, poz. 926 i Nr 160, poz. 1083) wprowadza zmiany:
+**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. o finansowaniu dr(cid:243)g publicznych (Dz.U. Nr 123, poz. 780) wprowadza się następujące zmiany:
 
-**Art. 143.** W ustawie z dnia 29 sierpnia 1997 r. o wa runkach wykonywania krajowego drogowego przewo zu osób (Dz. U. Nr 141, poz. 942 i Nr 158, poz. 1045) wprowadza zmiany:
+**Art. 142.** W ustawie z dnia 29 sierpnia 1997 r. - Ordynacja podatkowa (Dz.U. Nr 137, poz. 926 i Nr 160, poz. 1083) wprowadza się następujące zmiany:
+
+**Art. 143.** W ustawie z dnia 29 sierpnia 1997 r. o warunkach wykonywania krajowego drogowego przewozu os(cid:243)b (Dz.U. Nr 141, poz. 942 i Nr 158, poz. 1045) wprowadza się następujące zmiany:
 
 **Art. 12b.**
 
-1. przewozy zbiorowe osób uprawnie nia do lub ulgowych przejazdów, podmiot je uzgodni z nim, w drodze umowy, warunki zwrotu kosztów ich stosowania.
+1. Przewoźnik wykonujący przewozy zbiorowe os(cid:243)b uwzględnia uprawnienia pasażer(cid:243)w do bezpłatnych lub ulgowych przejazd(cid:243)w, jeżeli podmiot je ustanawiający uzgodni z nim, w drodze umowy, warunki zwrotu koszt(cid:243)w ich stosowania.
 
-2. Przepis ust. 1 nie dotyczy do lub ulgowych przejaz dów ustanowionych w drodze ustawy. Ustawa organ do zwrotu kosztów stoso wania tych oraz tryb prze kazywania
+2. Przepis ust. 1 nie dotyczy uprawnień do bezpłatnych lub ulgowych przejazd(cid:243)w ustanowionych w drodze ustawy. Ustawa określi organ zobowiązany do zwrotu przewoźnikowi koszt(cid:243)w stosowania wi.";
 
-- **6)** art. 13 otrzymuje brzmienie: "Art. 13. 1. rady gmin i Rada miasta st. Warszawy wy móg uzyskania zezwolenia na zarobko wy przewóz osób
+- **6)** art. 13 otrzymuje brzmienie: (cid:132)Art. 13. 1. Właściwe rady gmin i Rada miasta st. Warszawy mogą wprowadzić wym(cid:243)g uzyskania zezwolenia na zarobkowy przew(cid:243)z os(cid:243)b taks(cid:243)wką.
 
-2. Zezwolenie, o którym mowa w ust. 1, udziela na pojazd i na obszar:
+2. Zezwolenie, o kt(cid:243)rym mowa w ust. 1, udziela się na pojazd i na obszar:
 
 - **1)** gminy,
-- **2)** gmin po uprzednim zawarciu porozumienia wszystkich gmin na terenie te go obszaru,
-- **3)** miasta st. Warszawy - ko munalnego.";
+- **2)** gmin sąsiadujących, po uprzednim zawarciu porozumienia wszystkich gmin mieszczących się na terenie tego obszaru,
+- **3)** miasta st. Warszawy - związku komunalnego.";
 - **7)** w art. 14 w ust. 1:
-    - **a)** w pkt 1 wyrazy "w art. 13 pkt 1" wy razami w art. 13 ust. 2 pkt 1",
-    - **b)** w pkt 2 wyrazy "w art. 13 pkt 2" wy razami "w art. 13 ust. 2 pkt 2",
-    - **c)** w pkt 3 wyrazy "w art. 13 pkt 3" wy razami "w art. 13 ust. 2 pkt 3";
+    - **a)** w pkt 1 wyrazy (cid:132)w art. 13 pkt 1(cid:148) zastępuje się wyrazami (cid:132)w art. 13 ust. 3 pkt 1(cid:148),
+    - **b)** w pkt 2 wyrazy (cid:132)w art. 13 pkt 2(cid:148) zastępuje się wyrazami (cid:132)w art. 13 ust. 3 pkt 2(cid:148),
+    - **c)** w pkt 3 wyrazy (cid:132)w art. 13 pkt 3(cid:148) zastępuje się wyrazami (cid:132)w art. 13 ust. 3 pkt 3(cid:148);
 
-- **8)** w art. 15 pkt 1 i 2 brzmienie: " 1) a w przypadku osoby prawnej organu oraz zatrudnieni kierowcy nie byli ka rani za przeciwko stwu w ruchu przeciwko zdrowiu i oraz przeciwko mieniu lub dokumen tom,
-- **2)** prze wozy oraz zatrudnieni kierowcy:
-    - **a)** nie w innym stosunku pracy w wymiarze czasu pracy,
-    - **b)** warunki w przepisach.";
+- **8)** w art. 15 pkt 1 i 2 otrzymują brzmienie: (cid:132)1) właściciel przedsiębiorstwa, a w przypadku osoby prawnej członkowie organu zarządzającego oraz zatrudnieni kierowcy nie byli karani za przestępstwa przeciwko bezpieczeństwu w ruchu lądowym, przeciwko zdrowiu i życiu oraz przeciwko mieniu lub dokumentom,
+- **2)** przedsiębiorca osobiście wykonujący przewozy oraz zatrudnieni kierowcy:
+    - **a)** nie pozostają w innym stosunku pracy w pełnym wymiarze czasu pracy,
+    - **b)** spełniają warunki określone w odrębnych przepisach." ;
 
-- **9)** wart. 22 ust. 3 otrzymuje brzmienie: ,,3. uzyskane z odpo wiednio dochód organu ze zwolenia."
+- **9)** w art. 22 ust. 3 otrzymuje brzmienie: "3. Wpływy uzyskane z opłat stanowią odpowiednio doch(cid:243)d organu udzielającego zezwolenia.".
 
-**Art. 144.** W ustawie z dnia 4 1997 r. o prze prawa wieczystego osobom fizycznym w prawo (Dz. U. Nr 123, poz. 781) wprowadza zmiany:
+**Art. 144.** W ustawie z dnia 4 września 1997 r. o przekształceniu prawa użytkowania wieczystego przysługującego osobom fizycznym w prawo własności (Dz.U. Nr 123, poz.
 
 **Art. 145.**
 
-1. Powiaty i m iasta na prawach powiatu, z ust. 2, z dniem 1 stycznia 1999 r., od wojewodów do prowadzenia, jako zadania instytucje kultury wpisane do rejestru prowa dzonego przez i na terenie dane go powiatu lub miasta na prawach powiatu.
+1. Powiaty i miasta na prawach powiatu, z zastrzeżeniem ust. 2, przejmują, z dniem 1 stycznia 1999 r., od wojewod(cid:243)w do prowadzenia, jako zadania własne, instytucje kultury wpisane do rejestru prowadzonego przez wojewodę i działające na terenie danego powiatu lub miasta na prawach powiatu.
 
-2. Prezes Rady Ministrów w drodze rozpo wykaz instytucji kultury o charakterze regio nalnym wpisanych do rejestrów prowadzonych przez wojewodów, przekazaniu do dów województw w celu ich prowadzenia, w ramach
+2. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, wykaz instytucji kultury o charakterze regionalnym wpisanych do rejestr(cid:243)w prowadzonych przez wojewod(cid:243)w, podlegających przekazaniu do samorząd(cid:243)w wojew(cid:243)dztw w celu ich prowadzenia, w ramach zadań własnych.
 
-3. województwa, z ust. 4, przejmuje z dniem 1 stycznia 1999 r. od ministrów i kie rowników centralnych, do prowadzenia jako zadania instytucje kultury wpisane do prowa dzonego przez nich rejestru i na obszarze da nego województwa.
+3. Samorząd wojew(cid:243)dztwa, z zastrzeżeniem ust. 4, przejmuje z dniem 1 stycznia 1999 r. od ministr(cid:243)w i kierownik(cid:243)w urzęd(cid:243)w centralnych, do prowadzenia jako zadania własne, instytucje kultury wpisane do prowadzonego przez nich rejestru i działające na obszarze danego wojew(cid:243)dztwa.
 
-4. Prezes Rady Ministrów w drodze rozpo wykaz instytucji kultury wpisanych do reje strów prowadzonych przez ministrów i kierowników centralnych:
+4. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, wykaz instytucji kultury wpisanych do rejestr(cid:243)w prowadzonych przez ministr(cid:243)w i kierownik(cid:243)w urzęd(cid:243)w centralnych:
 
-- **1)** przekazaniu powiatom lub miastom na prawach powiatu,
-- **2)** nie przekazaniu jednostkom samo terytorialnego ze na ogólnonarodo wy charakter przez nie wykonywanych.
+- **1)** podlegających przekazaniu powiatom lub miastom na prawach powiatu, względu na og(cid:243)lnonarodowy charakter zadań przez nie wykonywanych.
 
-5. Mienie instytucji kultury, o których mowa w ust. 1- 3 i ust. 4 pkt 1, staje z dniem ich mieniem, w rozumieniu art. 46 ust. 1 ustawy o powiatowym i art. 47 ust. 1 ustawy o sa województwa, jednostki samo terytorialnego.
+5. Mienie państwowych instytucji kultury, o kt(cid:243)rych mowa w ust. 1-3 i ust. 4 pkt 1, staje się z dniem ich przejęcia mieniem w rozumieniu art. 46 ust. 1 ustawy o samorządzie powiatowym i art. 47 ust. 1 ustawy o samorządzie wojew(cid:243)dztwa, właściwej jednostki samorządu terytorialnego.
 
 **Art. 146.**
 
-1. Powiaty i miasta na prawach powiatu, z ust. 2, z dniem 1 stycznia 1999 r., od wojewodów w ich na terenie da nego powiatu lub miasta na prawach powiatu, w celu jej dalszego wykorzystywania w ramach snych.
+1. Powiaty i miasta na prawach powiatu, z zastrzeżeniem ust. 2, z dniem 1 stycznia 1999 r., przejmują od wojewod(cid:243)w pozostającą w ich zarządzie bazę sportoworekreacyjną, położoną na terenie danego powiatu lub miasta na prawach powiatu, w celu jej dalszego wykorzystywania w ramach zadań własnych.
 
-2. Prezes Rady Ministrów w drodze rozpo w wojewodów, przekazaniu do województw w celu jej dalszego wykorzy stywania w ramach
+2. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, bazę sportoworekreacyjną pozostającą w zarządzie wojewod(cid:243)w, podlegającą przekazaniu do samorząd(cid:243)w wojew(cid:243)dztw w celu jej dalszego wykorzystywania w ramach zadań własnych.
 
-3. województwa, z ust. 4, przejmuje z dniem 1 stycznia 1999 r. od ministrów i kie rowników centralnych w ich za na tere nie danego województwa, w celu jej dalszego wykorzy stywania w ramach
+3. Samorząd wojew(cid:243)dztwa, z zastrzeżeniem ust. 4, przejmuje z dniem 1 stycznia 1999 r. od ministr(cid:243)w i kierownik(cid:243)w urzęd(cid:243)w centralnych pozostającą w ich zarządzie bazę sportowo-rekreacyjną, położoną na terenie danego wojew(cid:243)dztwa w celu jej dalszego wykorzystywania w ramach zadań własnych.
 
-4. Prezes Rady Ministrów w drodze rozpo w ministrów i kierowników central nych:
+4. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, bazę sportoworekreacyjną pozostającą w zarządzie ministr(cid:243)w i kierownik(cid:243)w urzęd(cid:243)w centralnych:
 
-- **1)** przekazaniu powiatom lub miastom na prawach powiatu,
-- **2)** nie przekazaniu jednostkom du terytorialnego ze na wy charakter wykonywanych przez
+- **1)** podlegającą przekazaniu powiatom lub miastom na prawach powiatu,
+- **2)** nie podlegającą przekazaniu jednostkom samorządu terytorialnego ze względu na og(cid:243)lnopaństwowy charakter zadań wykonywanych przez tę bazę.
 
-5. Mienie o której mowa w ust. 1-3 i ust. 4 pkt 1, staje jednostki terytorialnego z dniem jej cia.
+5. Mienie stanowiące bazę, o kt(cid:243)rej mowa w ust. 1-3 i ust. 4 pkt 1 staje się własnością właściwej jednostki samorządu terytorialnego z dniem jej przejęcia.
 
 **Art. 147.**
 
-1. Jednostki terytorialnego, w zakresie nie art. 145 i 146, z dniem 1 stycznia 1999 r. na obszarze tych jed nostek instytucje i jednostki organizacyjne, w tym ma lub wane ministrom lub centralnym organom administracji wojewodom lub innym orga nom administracji albo przez nich nadzoro wane, w niniejszej ustawie za dania jednostek terytorialnego, z kiem komend, inspektoratów i innych jednostek orga nizacyjnych aparat pomocniczy kierow ników inspekcji i
+1. Jednostki samorządu terytorialnego, w zakresie nie objętym art. 145 i 146 przejmują z dniem 1 stycznia 1999 r. mające siedzibę na obszarze tych jednostek instytucje i jednostki organizacyjne, w tym mające osobowość prawną, podległe lub podporządkowane właściwym ministrom lub centralnym organom administracji rządowej, wojewodom lub innym organom administracji rządowej albo przez nich nadzorowane, wykonujące określone w niniejszej ustawie zadania jednostek samorządu terytorialnego, z wyjątkiem komend, inspektorat(cid:243)w i innych jednostek organizacyjnych stanowiących aparat pomocniczy kierownik(cid:243)w służb, inspekcji i straży.
 
-2. Prezes Rady Ministrów w drodze rozpo wykaz instytucji i jednostek organizacyjnych lub mini strom i centralnym organom administracji al bo przez nich nadzorowanych, które na podstawie ni niejszej ustawy przekazywane jednost kom terytorialnego.
+2. Prezes Rady Ministr(cid:243)w określi, w drodze rozporządzenia, wykaz instytucji i jednostek organizacyjnych podległych lub podporządkowanych właściwym ministrom i centralnym organom administracji rządowej albo przez nich nadzorowanych, kt(cid:243)re na podstawie niniejszej ustawy są przekazywane określonym jednostkom samorządu terytorialnego. nostek organizacyjnych podległych lub podporządkowanych wojewodom i innym terenowym organom administracji rządowej albo przez nich nadzorowanych, kt(cid:243)re na podstawie niniejszej ustawy są przekazywane określonym jednostkom samorządu terytorialnego.
 
-3. Prezes Rady Ministrów w drodze rozpo wykaz instytucji i jednostek organizacyjnych lub wojewodom i in nym terenowym organom administracji albo przez nich nadzorowanych, które na podstawie niniej szej ustawy przekazywane jednostkom terytorialnego.
+**Art. 149.** Właściwi ministrowie, do dnia 30 czerwca 2000 r., ogłoszą w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolite teksty ustaw, o kt(cid:243)rych mowa w art. 14, 15, 18, 19, 23, 27, 33, 36, 47, 50-53, 60, 61, 62, 64, 74-76, 78, 82, 86, 90, 91, 97, 107, 126, 137, 139 z uwzględnieniem zmian wynikających z przepis(cid:243)w ogłoszonych przed dniem wydania jednolitych tekst(cid:243)w ustaw.
 
-**Art. 148.**
-
-1. Grunty ustawy o transporcie kolejowym w brzmieniu nada nym pod linie kolejowe o zna czeniu wojewódzkim, o których mowa wart. 5 ust.3 przekazane dom województwa na podstawie decyzji administra cyjnych wojewodów wydanych z
-
-2. Nabycie gruntów, o których mowa w ust. 1, jest i z dniem uprawomocnienia decyzji o ich przekazaniu. Przekazanie gruntów samo województwa jest wolne od podatków i
-
-3. od decyzji w sprawach gruntów, o których mowa w ust. 1, rozpoznaje Krajowa Komisja iowa.
-
-4. Prawomocna decyzja o przekazaniu wi województwa praw, które lub ujawnio ne w wieczystej. stanowi wpisu do wieczystej.
-
-5. w przedmiocie wpisu jest wolne od
-
-**Art. 149.** Prezes Rady Ministrów lub minister si w Dzienniku Ustaw Rzeczypospolitej Polskiej jedno lite teksty ustaw, o których mowa wart. 14, 15, 18, 19, 23,27,33,36,47,50- 53,60,61,62,64,74-76,78,82, 86, 90, 91, 97, 107, 126, 137, 139, z zmian z przepisów przed dniem wydania jednolitych tekstów ustaw.
-
-**Art. 150.** Ustawa wchodzi w z dniem 1 stycz nia 1999 r., z art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, które w z dniem i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1- 3, 5-10 i 12-36 oraz art. 139 pkt 9 lit. al. które w z dniem 1 stycznia 2000 r. Prezydent Rzeczypospolitej Polskiej: A. o ISSN 0867-3411 Cena 10 80 gr
+**Art. 150.** Ustawa wchodzi w życie z dniem 1 stycznia 1999 r., z wyjątkiem art. 26, art. 128 pkt 2, art. 139 pkt 1 i 10, art. 145 ust. 2 i 4, art. 146 ust. 2 i 4 oraz art. 147 ust. 2 i 3, kt(cid:243)re wchodzą w życie z dniem ogłoszenia i art. 34 pkt 1, art. 36 pkt 23, art. 48 pkt 1 i 3, art. 84, art. 97 pkt 1-3, 5-10 i 12-36 oraz art. 139 pkt 9 lit. a), kt(cid:243)re wchodzą w życie z dniem 1 stycznia 2000 r.
 

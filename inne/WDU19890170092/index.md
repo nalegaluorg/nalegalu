@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# DZIENNIK POLSKIEJ RZECZYPOSPOLITEJ Warszawa, dnia c:
+# o rzemiośle
+
+*USTAWA z dnia 22 marca 1989 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,88 +26,232 @@ domain: null
 | Ostatnia zmiana | 2026-01-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19890170092) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1989/92/text.pdf) |
 
-USTAWA
-Art. wykonujące działalność
-Art. l. ~<.zemiosłem
-Art.
-mieślnika są: Podstawowe prawa Dziennik Ustaw Nr 17 2. Zadaniem jest w szcze organizowanie i wytwór czej ud7lielanie pomocy w wykony waniu ich oraz prowadzenie gospodarczej i
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Przedsiębiorcy wykonujący działalność gospodarczą na podstawie ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826) mogą wykonywać tę działalność z zachowaniem warunków określonych niniejszej ustawie. Działalność takich osób jest zaliczana do rzemiosła.
+
+**Art. 2.**
+
+1. Rzemiosłem jest zawodowe wykonywanie działalności gospodarczej przez:
+
+- **1)** osobę fizyczną z wykorzystaniem jej pracy własnej i kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle – jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców lub
+- **2)** wspólników spółki cywilnej zakresie wykonywanej przez nich wspólnie działalności gospodarczej, jeżeli działalność gospodarcza ramach tej spółki jest wykonywana z wykorzystaniem pracy własnej oraz kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle co najmniej jednej osoby fizycznej, która jest wspólnikiem:
+    - **a)** tej spółki cywilnej lub
+    - **b)** spółki handlowej, z wyłączeniem spółki partnerskiej, będącej wspólnikiem tej spółki cywilnej
+
+- **3)** spółkę jawną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **4)** spółkę komandytową z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **5)** spółkę komandytowo-akcyjną z wykorzystaniem pracy własnej co najmniej jednego wspólnika będącego osobą fizyczną oraz jego kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców, lub
+- **6)** spółkę kapitałową z wykorzystaniem pracy własnej co najmniej jednego wspólnika albo akcjonariusza będących osobami fizycznymi oraz ich kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle – jeżeli ta spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+1a. (uchylony)
+
+2. (uchylony)
+
+3. (uchylony)
+
+4. Rzemiosłem:
+
+- **1)** nie jest działalność handlowa, transportowa, wytwórcza i usługowa artystów plastyków i fotografików oraz lecznicza, z wyłączeniem usług optyków okularowych oraz protetyków słuchu;
+
+6. Rzemieślnikiem jest:
+
+- **1)** osoba fizyczna, o której mowa ust. 1 pkt 1;
+- **2)** wspólnik spółki cywilnej osób fizycznych zakresie wykonywanej przez nie wspólnie działalności gospodarczej – jeżeli spełniają one indywidualnie i łącznie warunki określone ust. 1 pkt 1;
+- **3)** spółka jawna wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników będących osobami fizycznymi oraz ich kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle, o których mowa art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **4)** spółka komandytowa osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle, o których mowa art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **5)** spółka komandytowo-akcyjna osób fizycznych wykonująca działalność gospodarczą z wykorzystaniem pracy własnej wszystkich wspólników oraz ich kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle, o których mowa art. 3 ust. 1 pkt 2 lub 3, jeżeli jest ona mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców;
+- **6)** jednoosobowa spółka kapitałowa, powstała na podstawie art. 551 § 5 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) wyniku przekształcenia przedsiębiorcy będącego osobą fizyczną, wykonującego we własnym imieniu działalność gospodarczą z wykorzystaniem pracy własnej oraz kwalifikacji zawodowych rzemiośle potwierdzonych dowodami kwalifikacji zawodowych rzemiośle, jeżeli powstała spółka jest mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców; zawodowych rzemiośle, o których mowa art. 3 ust. 1 pkt 2 lub 3, pod warunkiem że pozostałymi wspólnikami są małżonek, wstępni lub zstępni wspólnika;
+- **8)** wspólnik spółki cywilnej osób fizycznych zakresie wykonywanej przez nie wspólnie działalności gospodarczej, jeżeli działalność gospodarcza jest wykonywana z wykorzystaniem pracy własnej co najmniej jednego wspólnika oraz jego kwalifikacji zawodowych rzemiośle, potwierdzonych dowodami kwalifikacji zawodowych rzemiośle, pod warunkiem że pozostałymi wspólnikami są małżonek, wstępni lub zstępni wspólnika oraz wszyscy wspólnicy łącznie są mikroprzedsiębiorcą, małym przedsiębiorcą albo średnim przedsiębiorcą rozumieniu ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców.
+
+7. Rzemieślnikiem jest również:
+
+- **1)** wspólnik spółki cywilnej, o której mowa ust. 1 pkt 2, inny niż wspólnik spółki cywilnej, o którym mowa ust. 6 pkt 2 i 8,
+- **2)** spółka, o której mowa ust. 1 pkt 3–6, inna niż spółka, o której mowa ust. 6 pkt 3–7 – pod warunkiem zrzeszenia się jednej z organizacji samorządu gospodarczego rzemiosła, o których mowa art. 7 ust. 3 pkt 1 i 3.
+
+8. Podmioty, o których mowa ust. 7, nabywają status rzemieślnika z dniem podjęcia przez właściwy organ statutowy organizacji samorządu gospodarczego rzemiosła uchwały o przyjęciu przedsiębiorcy do tej organizacji.
+
+**Art. 3.**
+
+1. Dowodami kwalifikacji zawodowych rzemiośle są:
+
+- **1)** dyplom lub świadectwo ukończenia wyższej, ponadgimnazjalnej lub ponadpodstawowej szkoły o profilu technicznym bądź artystycznym zawodzie (kierunku) odpowiadającym dziedzinie wykonywanego rzemiosła;
+- **2)** dyplom mistrza zawodzie odpowiadającym danemu rodzajowi rzemiosła;
+- **3)** świadectwo czeladnicze albo tytuł robotnika wykwalifikowanego zawodzie odpowiadającym danemu rodzajowi rzemiosła; udostępnieniu zakresie i na zasadach określonych ustawie z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541, z 2024 r. poz. 1841 oraz z 2025 r. poz. 769, 1541 i 1792).
+
+2. Osoba fizyczna, o której mowa art. 2 ust. 1 pkt 1, 2 i 8, oraz wspólnik spółki, o której mowa art. 2 ust. 1 pkt 3–7, jest obowiązany wykazać się innymi dowodami kwalifikacji zawodowych niż określone ust. 1, jeżeli z przepisów odrębnych ustaw wynika obowiązek posiadania takich kwalifikacji.
+
+3. Dyplomy mistrza i świadectwa czeladnicze mogą być wydawane przez izby rzemieślnicze osobom, które złożyły stosowne egzaminy przed komisjami egzaminacyjnymi izb rzemieślniczych.
+
+3a. Podstawę przeprowadzania egzaminów zawodach odpowiadających danemu rodzajowi rzemiosła stanowią standardy wymagań egzaminacyjnych ustalone przez Związek Rzemiosła Polskiego, z zastrzeżeniem ust. 3b.
+
+3b. Podstawę przeprowadzania egzaminu czeladniczego zawodzie określonym klasyfikacji zawodów szkolnictwa branżowego, o której mowa przepisach wydanych na podstawie art. 46 ust. 1 ustawy z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), stanowią wymagania określone podstawie programowej kształcenia zawodzie szkolnictwa branżowego.
+
+3c. Nadzór nad działalnością komisji egzaminacyjnych izb rzemieślniczych sprawuje Związek Rzemiosła Polskiego przez:
+
+- **1)** przeprowadzanie, zgodnie z planem nadzoru, co najmniej raz roku kontroli działalności komisji egzaminacyjnych;
+- **2)** rozpatrywanie nieuwzględnionych przez izbę rzemieślniczą skarg kandydatów dotyczących prawidłowości przeprowadzenia egzaminu;
+- **3)** analizowanie wyników egzaminów oraz formułowanie wniosków.
+
+3d. Osoby wykonujące czynności z zakresu nadzoru mają prawo wstępu charakterze obserwatora na egzamin, po uprzednim powiadomieniu właściwej izby rzemieślniczej, oraz wglądu do prowadzonej przez komisję egzaminacyjną dokumentacji komisji. nich zastrzeżenia do Związku Rzemiosła Polskiego. W przypadku nieuwzględnienia zastrzeżeń przez Związek Rzemiosła Polskiego komisja egzaminacyjna jest obowiązana powiadomić Związek Rzemiosła Polskiego o realizacji zaleceń terminie 30 dni.
+
+3f. W przypadku stwierdzenia istotnych uchybień działalności komisji egzaminacyjnych Związek Rzemiosła Polskiego może wezwać komisję do usunięcia uchybień wyznaczonym terminie, a przypadku nieusunięcia uchybień – odwołać osoby wchodzące skład komisji lub cały skład komisji albo unieważnić egzamin całości lub części.
+
+3g. Izba rzemieślnicza:
+
+- **1)** zatwierdza zadania i pytania egzaminacyjne, opracowane na podstawie standardów wymagań, o których mowa ust. 3a i 3b;
+- **2)** zatwierdza szczegółowe kryteria oceniania;
+- **3)** dopuszcza kandydatów do egzaminów;
+- **4)** informuje kandydatów o wysokości opłaty za egzaminy – przy czym opłata wynosi za egzamin:
+    - **a)** mistrzowski – 1400,00 zł,
+    - **b)** czeladniczy – 700,00 zł,
+    - **c)** sprawdzający – 250,00 zł,
+    - **d)** poprawkowy – 50 % opłaty określonej lit. a albo b;
+
+- **5)** prowadzi dokumentację komisji egzaminacyjnej, tym ewidencję egzaminów;
+- **6)** rozpatruje skargi kandydatów dotyczące prawidłowości przeprowadzenia egzaminu;
+- **7)** organizuje szkolenia dla osób wchodzących skład komisji egzaminacyjnych według programu ustalonego przez Związek Rzemiosła Polskiego. 3ga. Opłaty, o których mowa ust. 3g pkt 4 lit. a–c, podlegają waloryzacji wskaźnikiem cen towarów i usług konsumpcyjnych ogółem, jeżeli ten wskaźnik poprzednim roku kalendarzowym wynosi co najmniej 99 %.
+
+3h. Izba rzemieślnicza może zwolnić osobę przystępującą do egzaminu z opłaty, o której mowa ust. 3g pkt 4. odpowiadającego danemu rodzajowi rzemiosła.
+
+4. Minister właściwy do spraw oświaty i wychowania, po zasięgnięciu opinii Związku Rzemiosła Polskiego, określi, drodze rozporządzenia, warunki powoływania komisji egzaminacyjnych izb rzemieślniczych, warunki dopuszczania do egzaminu i sposób jego przeprowadzania, wysokość wynagrodzenia członków komisji, warunki i tryb wydawania oraz wzory świadectw czeladniczych, dyplomów mistrzowskich, zaświadczeń o zdaniu egzaminu sprawdzającego, suplementów do świadectw czeladniczych i dyplomów mistrzowskich (Europass), umieszczenie znaków graficznych informujących o poziomie Polskiej Ramy Kwalifikacji, o których mowa art. 10 ustawy z dnia 22 grudnia 2015 r. o Zintegrowanym Systemie Kwalifikacji (Dz. U. z 2024 r. poz. 1606), a także sposobów wydawania duplikatów i dokonywania legalizacji dokumentów przeznaczonych do obrotu z zagranicą oraz wysokość odpłatności za wykonywanie tych czynności.
+
+4a. Rozporządzenie, o którym mowa ust. 4, powinno uwzględniać szczególności wymagania, jakim powinny odpowiadać osoby wchodzące skład komisji egzaminacyjnych, zakres obowiązujących tematów egzaminacyjnych oraz możliwość zwolnienia z części egzaminu osoby przystępującej do egzaminu.
+
+5. Rzemieślnicy zatrudniający pracowników celu przygotowania zawodowego rzemiośle obowiązani są spełniać warunki określone odrębnymi przepisami oraz być członkami jednej z organizacji, o których mowa art. 7 ust. 3 pkt 1 i 3.
+
+6. Przygotowanie zawodowe rzemiośle realizowane jest na zasadach dualnego systemu kształcenia. Nadzór nad jego przebiegiem sprawuje izba rzemieślnicza lub z jej upoważnienia cech, którego członkiem jest rzemieślnik.
+
+**Art. 3a.**
+
+1. Rzemieślnikowi – osobie fizycznej posiadającej znaczący i uznany dorobek zawodowy zakresie wytwarzania lub odtwarzania przedmiotów o charakterze artystycznym lub zabytkowym, naprawy i konserwacji takich przedmiotów, naprawy i konserwacji zabytkowych obiektów budowlanych oraz świadczenia usług związanych z artystycznym zdobieniem obiektów budowlanych może zostać nadany tytuł honorowy „Mistrz Rzemiosł Artystycznych”. określi, drodze rozporządzenia:
+
+- **1)** tryb nadawania tytułu honorowego „Mistrz Rzemiosł Artystycznych”,
+- **2)** podmioty uprawnione do występowania z wnioskiem o nadanie tytułu,
+- **3)** warunki, jakie musi spełniać wniosek o nadanie tytułu,
+- **4)** wzór dyplomu potwierdzającego nadanie tytułu – mając na względzie wspieranie zanikających zawodów oraz promocję umiejętności istotnych dla funkcjonowania wielu dziedzin kultury i sztuki jak również ochrony dziedzictwa narodowego.
+
+#### Rozdział 2 Podstawowe prawa i obowiązki rzemieślnika
+
+**Art. 4.**
+
+1. Rzemieślnik ma prawo:
+
+- **1)** zrzeszania się organizacjach, o których mowa art. 7 ust. 3 pkt 1 i 3, na zasadach określonych ustawie;
+- **2)** wybierać i być wybieranym do organów samorządu gospodarczego rzemiosła;
+- **3)** korzystać z uproszczonych (zryczałtowanych) form opodatkowania oraz zwolnień i ulg podatkowych na zasadach powszechnie obowiązujących przedsiębiorców.
+
+1a. Prawo, o którym mowa ust. 1 pkt 1, przysługuje również wspólnikowi spółki cywilnej oraz spółkom, o których mowa art. 2 ust. 7.
+
+2. W przypadku śmierci osoby fizycznej posiadającej kwalifikacje, o których mowa art. 3 ust. 1, współmałżonek pozostający do chwili śmierci na jego utrzymaniu oraz małoletni zstępni mają prawo nadal wykonywać rzemiosło warunkach i na zasadach obowiązujących tę osobę.
+
+3. Na rachunek zstępnych rzemiosło może być wykonywane przez ustawowego opiekuna do czasu osiągnięcia przez nich pełnoletności lub ukończenia nauki szkołach ponadpodstawowych lub wyższych.
+
+4. Uprawnienia, o których mowa ust. 2, przysługują także pozostającym na utrzymaniu osoby fizycznej posiadającej kwalifikacje, o których mowa art. 3 ust. 1, do chwili jej śmierci pełnoletnim zstępnym pobierającym naukę szkołach wykazaniu się przez osobę fizyczną posiadającą kwalifikacje, o których mowa art. 3 ust. 1, innymi dowodami kwalifikacji zawodowych, o których mowa art. 3 ust. 2, małżonek lub zstępni, o których mowa ust. 3 i 4, wykonują działalność za pośrednictwem osoby posiadającej wymagane kwalifikacje.
+
+**Art. 5.**
+
+1. Rzemieślnik jest obowiązany przestrzegać zasad etyki i godności zawodowej.
+
+2. Szczegółowe zasady etyki zawodowej i rzetelnego wykonywania rzemiosła cechowego określa samorząd gospodarczy rzemiosła.
+
+3. Przepis ust. 1 dotyczy także członków organizacji samorządu gospodarczego rzemiosła, o których mowa art. 7 ust. 7 pkt 1.
+
+**Art. 6.**
+
+1. Rzemieślnicy podlegają odpowiedzialności dyscyplinarnej za naruszenie zasad etyki zawodowej i rzetelnego wykonywania rzemiosła.
+
+2. Zasady odpowiedzialności dyscyplinarnej i tryb postępowania dyscyplinarnego określają statuty organizacji samorządu gospodarczego rzemiosła.
+
+#### Rozdział 3 Samorząd gospodarczy rzemiosła
+
+**Art. 7.**
+
+1. Tworzy się samorząd gospodarczy rzemiosła.
+
+2. Samorząd gospodarczy rzemiosła jest niezależny wykonywaniu swych zadań i podlega tylko przepisom prawa.
+
+3. Organizacjami samorządu gospodarczego rzemiosła są:
+
+- **1)** cechy;
+- **2)** (uchylony)
+- **3)** izby rzemieślnicze;
+- **4)** Związek Rzemiosła Polskiego.
+- **5)** (uchylony)
+
+4. Organizacje samorządu gospodarczego rzemiosła tworzone są z inicjatywy członków na zasadzie dobrowolnej przynależności.
+
+5. Do zadań samorządu gospodarczego rzemiosła należy szczególności:
+
+- **1)** promocja działalności gospodarczej i społeczno-zawodowej rzemiosła; organizacjach samorządu gospodarczego rzemiosła;
+- **4)** reprezentowanie interesów środowiska rzemieślniczego wobec organów administracji publicznej;
+- **5)** uczestniczenie realizacji zadań z zakresu oświaty i wychowania celu zapewnienia wykwalifikowanych kadr dla gospodarki, tym prowadzenie szkół.
+
+6. Właściwi ministrowie zasięgają opinii Związku Rzemiosła Polskiego odnośnie do projektów aktów prawnych dotyczących rzemiosła.
+
+7. Za zgodą organizacji samorządu gospodarczego rzemiosła jej:
+
+- **1)** członkami mogą być także:
+    - **a)** małżonek lub zstępny osoby, o której mowa art. 2 ust. 1, jeżeli uczestniczy wykonywaniu przez tę osobę działalności gospodarczej zakresie rzemiosła,
+    - **b)** osoby fizyczne wykonujące działalność gospodarczą, niebędące rzemieślnikami, zatrudniające niewięcej niż 250 pracowników;
+
+- **2)** członkami wspierającymi mogą być osoby prawne wykonujące działalność gospodarczą.
+
+**Art. 8.** Organizacje samorządu gospodarczego rzemiosła wymienione art. 7 ust. 3 mają osobowość prawną.
+
+**Art. 9.**
+
+1. Cechy są organizacjami samorządu gospodarczego rzemiosła zrzeszającymi rzemieślników według kryterium terytorialnego lub według rodzaju działalności gospodarczej.
+
+2. Podstawowym zadaniem cechu jest szczególności utrwalanie więzi środowiskowych, postaw zgodnych z zasadami etyki i godności zawodu, a także prowadzenie na rzecz członków działalności społeczno-organizacyjnej, kulturalnej, oświatowej i gospodarczej, a także reprezentowanie interesów członków wobec organów administracji i sądów.
+
+**Art. 10.**
+
+1. Spółdzielnie rzemieślnicze działają na zasadach określonych przepisach Prawa spółdzielczego. i społeczno-wychowawczej.
 
 **Art. 11.**
 
-1. Izby wymi organizacjami na zasadzie dobrowol cechy i oraz inne jednost ki wart. 7 ust. 3 pkt 5.
+1. Izby rzemieślnicze są organizacjami samorządu gospodarczego rzemiosła zrzeszającymi cechy, spółdzielnie rzemieślnicze, rzemieślników nienależących do cechów, a także inne jednostki organizacyjne, jeżeli ich celem jest wspieranie rozwoju gospodarczego rzemiosła. Izby mogą swych statutach przyjmować nazwy z dodatkiem wyrazów „przedsiębiorczość” lub „przedsiębiorca” użytych odpowiednim przypadku, a także określeń zawierających wskazanie regionu.
 
-2. Podstawowym zadaniem izb jest reprezentowanie zrzeszonych organizacji wobec organów administracji i instytucji. udzielanie im pomocy oraz przeprowadzanie euzaminów kwalifikacyjnych.
+2. Podstawowym zadaniem izb rzemieślniczych jest pomoc reprezentowaniu zrzeszonych organizacji oraz rzemieślników wobec organów administracji publicznej oraz innych organizacji i instytucji, udzielanie swym członkom pomocy instruktażowej i doradczej oraz przeprowadzanie egzaminów kwalifikacyjnych. Szczegółowy zakres zadań izb rzemieślniczych określają ich statuty.
 
-3. Izby uprawnione do potwierdza nia egzaminów i dyplo mami oraz do opatrywania ich z
+3. Izby rzemieślnicze są uprawnione do potwierdzania egzaminów kwalifikacyjnych świadectwami czeladniczymi i dyplomami mistrzowskimi oraz do opatrywania ich pieczęcią z godłem Państwa.
+
+3a. Izby rzemieślnicze są uprawnione do potwierdzania wyników egzaminów sprawdzających zaświadczeniami o posiadaniu wybranych kwalifikacji zawodowych zakresie zawodu odpowiadającego danemu rodzajowi rzemiosła.
+
+3b. Izby rzemieślnicze realizują zadania określone art. 44 ust. 3c ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy.
+
+4. Ilekroć przepisach prawa mówi się o izbie rzemieślniczej, należy przez to rozumieć izbę rzemieślniczą, utworzoną trybie i na zasadach określonych niniejszej ustawie, bez względu na nazwę przyjętą jej statucie.
 
 **Art. 12.**
 
-1. Organizacje wymie nione wart. 7 ust. pkt Polskiego".
+1. Organizacje samorządu gospodarczego rzemiosła wymienione art. 7 ust. 3 pkt 1–3 mogą powołać ogólnopolską reprezentację, zwaną „Związek Rzemiosła Polskiego”.
 
-2. W zrze izby cechy o ogólnopolskim i inne 'jednostki art. 7 ust. 3 pkt 5.
+2. W Związku Rzemiosła Polskiego mogą się zrzeszać izby rzemieślnicze, a także cechy o zasięgu ogólnopolskim. drodze uchwał walnych zgromadzeń.
 
-3. Polskiego utworzony z inicjatywy co najmniej 10 organizacji rze wymienionych w art. 7 ust. 3 pkt 2 i 3, oraz ce chów ogólnopolskich, które tym w drodze walnych
+4. Podstawowym zadaniem Związku jest zapewnienie zrzeszonym nim organizacjom pomocy realizacji zadań statutowych, rozwijanie działalności społeczno-zawodowej oraz reprezentowanie interesów rzemiosła kraju i za granicą.
 
-4. Podstawowym zadaniem jest zapewnienie zrzeszonym w nim organizacjom pomocy w realizacji za statutowych, rozwijanie dowej oraz reprezentowanie interesów w kraju za
+5. Związek Rzemiosła Polskiego pełni względem spółdzielni rzemieślniczych funkcje związku rewizyjnego, trybie i na zasadach określonych przepisach Prawa spółdzielczego.
 
-5. uprawnienia centralnego przewidziane w ustawie - Prawo w stosunku do zrzeszonych w nim dzielni.
+**Art. 13.** Szczegółowe zadania organizacji samorządu gospodarczego rzemiosła, ich ustrój, stosunki prawne członków ustalane są statutach uchwalanych przez zjazdy lub walne zgromadzenia tych organizacji.
 
-**Art. 13.** Zadania organizacji ich ustrój, stosunki prawne ustalane w sta tutach uchwalanych przez zjazdy i walne zgromadzenia tych organizacji.
+**Art. 14.** Zasady gospodarki finansowej organizacji samorządu gospodarczego rzemiosła oraz zasady wynagradzania zatrudnionych nich pracowników określają walne zgromadzenia (zjazdy delegatów) tych organizacji, jeżeli inne przepisy nie stanowią inaczej.
 
-**Art. 14.** Zasady gospodarki finansowej organizacji oraz zasady wynagradzania zatrrudnionych nich pracowników walne zgromadzenia (zjazdy delegatów) tych organizacji, inne przepisy nie sta inaczej. R ozdzi 4 Przepisy i
+#### Rozdział 4 Przepisy przejściowe i końcowe
 
-**Art. 15.**
+**Art. 15.** (pominięty)
 
-1. w dniu w usta wy cechy, izby i Centralny Rze lub likwidacji stosownie do wymogów wart. 6 i 49 ustawy o gospodarczej lub niniejszej ustawy. Dziennik Ustaw Nr 93 KONWENCJA o ochronie fizycznej otwarta do podpisu w Wiedniu i w Nowym W imieniu Polskiej Rzeczypospolitej RADA POLSKIEJ RZECZYPOSPOLITEJ podaje do powszechnej W dniu marca otwarta do podpisu w fizycznej wraz z I i II. Po zaznajomieniu z i Polska Rzeczpospolita Ludowa nie wencji; one ratyfikowane i potwierdzone, chowywane. Na dowód wydany akt niniejszy, opatrzony Dano w Warszawie dnia r. L. S. Minister Spraw Zagranicznych: 94 OSWIADCZENIE z dnia marca w sprawie w Konwencji o ochronie fizycznej otwartej do podpisu w Wiedniu i w Nowym Podaje niniejszym do zgodnie z art. ust. Konwencji o ochronie fizycznej materia otwartej do podpisu w Wiedniu i w No· wym Jorku w dniu marca r., konwencja ta wraz z I i II w dnia 8 lutego r. Dokument ratyfikacyjny Polskiej Rzeczypospolitej Ludowej do konwencji, zastrze Polska Rzeczpospolita Ludowa nie za postanowieniami art. ust. 2 tej konwen cji, zgodnie z jej art. ust. 5, Dyrekto rowi Generalnemu Agencji Energii Atomowej dnia r. Konwencja w w stosunku do Polskiej Rzeczypospolitej Ludo wej dnia 8 lutego r. podaje do zgodnie z art. wymienionej konwencji jej stronami, dokumenty ratyfikacyjne, zatwierdzenia lub w poda nych datach: Szwecja Niemiecka Republika Demokratyczna Filipiny Republika Korei ja Stany Zjednoczone Ameryki Paragwaj Turcja Gwatemala Norwegia Brazylia Kanada Mongolia Indonezja Liechtenstein Szwajcaria Australia Meksyk Japonia Austria Chiny o nami mencie nicznych. • w Dziennik Ustaw Nr 17 96. Górniczego Wykonawstwa Budowlano-Mon "Megabud" we
+**Art. 16.** Cechy i izby rzemieślnicze mogą być tworzone trybie inicjatyw założycielskich lub drodze podziału istniejących organizacji pod warunkiem zapewnienia samodzielności finansowej.
 
-97. Robót Górniczych, Odwodnieniowych i Re kultywacyjnych we
+**Art. 17.**
 
-98. Centralny Badawczo-Projektowy Górnictwa Odkrywkowego "Poltegor" we
+1. Podstawą utworzenia cechu trybie inicjatywy założycielskiej jest uchwalenie statutu cechu odpowiadającego wymogom określonym art. 16 przez co najmniej 30 członków założycieli.
 
-99. Biuro Studiów i Projektów Energetycznych "Energoprojekt" w Warszawie, Pomiarowo-Badawcze Energetyki "Energo pomiar" w Gliwicach,
+2. Podstawą utworzenia cechu trybie podziału jest uchwała walnego zgromadzenia cechu podlegającego podziałowi, powzięta trybie określonym statucie, zawierająca postanowienia o zasadach podziału z uwzględnieniem podziału składników majątkowych oraz praw i zobowiązań cechu podlegającego podziałowi. Polskiego podlegają obowiązkowi wpisu do Krajowego Rejestru Sądowego.
 
-101. Centrum Naukowo-Produkcyjne Automatyki Ener getycznej "lASE" we Instytut Energetyki w Warszawie, z dnia 22 w sprawie praktyk Na podstawie art. 104 ustawy z dnia 4 maja 1982 o szkolnictwie (Dz. U. z 1985 Nr 42, poz. z 1987 r. Nr 22, poz. 128 oraz z 1989 Nr 4, poz. 24 Nr 6, poz. 33) co
+2. Organizacje, o których mowa ust. 1, uzyskują osobowość prawną z chwilą wpisania do Krajowego Rejestru Sądowego.
 
-1. W Rady Ministrów z dnia l grud nia 1986 r. w sprawie praktyk studenckich robotniczych zawodowych (Dz. U. z 1987 Nr poz. 1) wprowadza zmiany:
+**Art. 20.** (pominięty)
 
-- **1)** 1 otrzymuje brzmienie:
-
-1. 1. Studenci studiów dziennych, zwani dalej "studentami", praktyki studenckie 'l'obotnicze i zawodowe, w planach studiów.
-
-2. praktyki studenckiej robotniczej, o której mowa w 4 ust. 2, nie studenci, którzy zaliczyli I rok studiów systemie studiów zaocznych, wieczorowych lub eksternistycznych albo odbyli zasadni obronie cywilnej, w formacjach uzbrojonych nie w zbrojnych, a poborowych, oraz studenci, któ rzy przed studiów pracowali najmniej 6 w jednostkach gospo· darki osobami prawnymi.";
-
-- **2)** w 3 w ust. 2 wyraz "fizycznej" Dziennik Ustaw Nr 17 - 300 nie od wynagr'odzenia pracowników zatrudnionych pracy.
-
-2. nie rektor szko na podstawie przepisów kierownikowi, o którym mowa w ust. wymiar dy daktycznych z funkcji kie rownika."; w przypadkach "Minister Górnictwa Energetyki", "Minister Pracy, 97 14 MINISTRA PRACY z dnia 22 marca w sprawie zasad finansowania Funduszu Aktywizacji Na podstawie art. 18 ustawy z dnia 29 grudnia 1983 r. o' Funduszu Aktywizacji Zawodowej (Dz. U. Nr 75, poz. 334 z 1985 Nr 37, poz. 174) co W Ministra Pracy, i Spraw Socjalnych z dnia 25 kwietnia 1984 r. w s.prawie szczegó zasad finansowania przyznawania z Funauszu Aktywizacji Zawodowej (Dz. U. Nr 27, poz. 140) wprowadza zmiany: w 1 dodaje pkt 7 w brzmieniu: ,,7) "likwidacja na pod stawie art. 1 pkt 2 lit. c) ustawy z dnia 11 maja 1988 r. o nadzwyczajnych uprawnieniach i upo dla Rady Ministrów (Dz. U. Nr 13, poz. 98) oraz art. 4 ust. 3 ustawy z dnia 24 lu tego 1989 o niektórych warunkach konsolidacji gospodarki narodowej oraz zmianie niektórych ustaw (Dz. U. Nr 10, poz. 57)";
-
-- **2)** w 9 w ust. 2 dodaje pkt 3 w brzmieniu: ,,3) osób, z którymi stosunek pracy zany w z
-- **3)** w 10 w ust. 3 po wyrazach "z powodu" dodaje wyrazy "likwidacji lub"; w 16: 99 Dziennik Ustaw Nr 17 - 302
-    - **a)** ust. 1 otrzymuje brzmienie: Osobom czasowo bez pracy, któ re w ostatnich trzech latach w pracy co najmniej 24 w 500/0 wynagrodzenia pobieranego w ostatnim uspo pracy. ten, z za ust. 3, nie od naj wynagrodzenia i nie przekra5) , '.
-
-- **2)** wart. 8 dodaje ust. 5 w brzmieniu: ,,5. Przepisu ust. 1 nie stosuje w sprawach wart. 7 ust. 5.";
-- **3)** wart. 11:
-    - **a)** po ust. 3 dodaje nowy ust. 4 w brzmieniu: ,,4. W lasach ochronnych prowadzone prace koniecznej rozbudowie ko munalnej infrastruktury technicz nej.",
-    - **b)** dotychczasowy ust. 4 otrzymuje ozna czenie ust. 5.
-
-**Art. 47.** W ustawie z dnia 24 1974 r. Prawo budowlane (Dz. U. Nr 38, poz. 229, z 1981 r. Nr 12, poz. 57 oraz z 1983 r. Nr 44, poz. 200 i 201) wprowadza zmiany:
-
-**Art. 1.** Celem planowania przestrzennego jest kom pleksowe zagospodarowania przestrzennego kraju, regionów, miast i wsi w sposób wa runki do poprawy zachowania równowagi przyrodniczej, ochrony dóbr kultury, nia procesów gospodarczych i podnoszenia obronnej
-
-**Art. 1.** łeczno-gospodarcze Art. dotyczące leśnych Dziennik Ustaw Nr 17 2 Opracowywanie I uchwalanie planów
-
-**Art. 11.** Opracowywanie planów zagospodarowania przestrzennego obejmuje: ,1) projektu do planu i uchwalenie tych
-
-**Art. 12.** Organami
-
-**Art. 13.** Minister Gospodarki Przestrzennej i Bu downictwa warunki, jakie powinny jed nostki uprawnione do przygotowywania projektów do planów miejscowych oraz projektów tych planów. 2. Funkcje generalnego projektanta planu, projektanta planu kierownika projektowego w jednostkach, o których mowa w ust. 1. osoby odpowiednie przygotowanie zawodowe do wykonywania tych funkcji. potwierdzone przez we organy. 3. Minister Gospodarki Przestrzennej i Budownictwa, w drodze ustala wymagania, jakim powinno przygotowanie zawodowe do wykonywania funkcji wymienionych w ust. 2, oraz tryb ich stwierdzania, a organy do tego uprawnione.
-
-**Art. 14.** Założenia do planu zagospodarowania prze strzennego cele oraz uwarunkowania i sposoby Dziennik Ustaw Nr 17 Projekt planu krajowego rozpatruje Sejm. na wniosek Rady Ministrów. z projektem pla nu perspektywicznego rozwoju Sejmu o planie krajowym w szczegól cele zasady polityki przestrzennej 2. Plan regionalny uchwala wojewódzka rada naro dowa. na wniosek terenowego organu administracji stwowej o ogólnej stopnia wojewódzkiego. 3. Plan miejscowy uchwala rada narodowa stopnia podstawowego. na wniosek terenowego organu admini stracji o ogólnej stopnia podsta wowego. z ust. 4. 4. Miejscowe plany ogólne miast: War szawy. Krakowa i odpowiednio rady na rodowe tych miast. na wniosek terenowego organu admi nistracji ogólnej stopnia woje wódzkiego. a w miastach. o których mowa wart. 12 ust. 3 pkt 2 - miejska rada narodowa na wniosek terenowego organu administracji o ogólnej. 5. Plan regionalny oraz plan miejscowy poza obszar jednostek, terytorialnego zainteresowane rady narodowe odpowiedniego stopnia. na wniosek terenowych organów administracji o ogólnej odpowiedniego stopnia. 18. Przy dokonywaniu zmian w planach zagospo darowania przestrzennego stosuje przepisy uzgadniania i uchwalania tych planów. 3 krajowy 19. 1. Plan krajowy przyrodnicze. spo ekonomiczne i kulturowe warunki przestrzennego zagospodarowania kraju oraz cele i zasady polityki prze strzennej. jego regionalne 2. Plan krajowy
-
-**Art. 24.** Projekt planu regionalnego podlega uzgodnie niu z organami administracji organami wojskowymi oraz orga nami Ministrowi Spraw
-
-**Art. 25.** Terenowe organy administracji wej o ogólnej stopnia wojewódzkiego doko nie rzadziej co lat, oceny aktual planów regionalnych. Propozycje zmian wy nikiem tej oceny przedstawia wojewódzkiej radzie na rodowej z projektem wojewódzkiego planu spo 2. rady narodowej o planie regionalnym w wojewódzkim dzienniku 3. Plan regionalny od dnia w uchwale rady narodowej, nie jednak po czternastu dni od dnia tej w wojewódzkim dzienniku 5 Plany miejscowe
-
-**Art. 26.** Plany miejscowe jako plany ogólne i 2. Miejscowy plan ogólny przyrodnicze, spo ekonomiczne, kulturowe i krajobrazowe warunki przestrzennego zagospodarowania miasta, gminy (miasta i gminy) lub ich oraz cele i zasady polityki prze strzennej tych jednostek, a w ustala wa runki i sposoby:
-
-**Art. 27.** Miejscowy plan prze znaczenie gruntu, wyznacza linie te grun ty, ustala zasady uzbrojenia terenu oraz zasady ksztal·· towania zabudowy, a w potrzeby inne wa runki i wytyczne. 2. Miejscowe plany dla) obszarów w miejscowym planie ogólnym; w innych wypadkach miejscowe plany dza w potrzeby. 3. Miejscowe plany dla miasta (dzielnicy) lub gminy, a w uzasadnionych wypadkach - dla miasta (miasta i gminy). Dziennik Ustaw Nr 11 o proponowanych wskazaniach; w razie zakwestionowania tych przez ewentualny spór rozstrzyga rada narodowa stop nia. a w wypadku inwestycji o znaczeniu krajowym Rada Art. Inwestor przeprowadza udzielonych mu lokalizacyjnych w terminie mie organowi administracji wniosek o ustalenie lokalizacji inwestycji, o tym organ. który lokalizacyjnych. W uzasadnionych wypadkach termin ten przez organ wskazania. Art. Terenowy organ administracji szczególnej do spraw lokalizacji inwestycji stopnia wojewódzkiego. ze na nieinwestycji. wydaje decyzje o ustaleniu lokalizacji inwestycji: o znaczeniu krajowym. liniowych i drogowych o znaczeniu wojewódzkim. z kraju. o ustaleniu lokalizacji inwestycji innych wymienione w ust. wydaje terenowy organ admini stracji stopnia podstawowego o szczególnej do spraw lokalizacji inwestycji. Art. Decyzja o ustaleniu lokalizacji inwestycji linie teren inwestycji oraz' warunki i wytyczne zabudowy. warunki techniczne realizacji inwestycji. warunki z potrzeb ochrony i dóbr kultury. wymagania ochrony interesów osób trze cich. Decyzja o ustaleniu lokalizacji inwestycji wydana po uprzednim uzyskaniu wymaganego prze pisami szczególnymi stanowiska innych organów admini stracji Decyzja o ustaleniu lokalizacji inwestycji traci inwestor nie prawa do gruntu lub je albo w terminie w tej decyzji, lecz nie lata. nie o pozwolenie na Terenowy organ administracji wyda decyzje o ustaleniu lokalizacji inwestycji prowadzi ich rejestr w sposób przez Ministra Gospodarki Przestrzennej Budownictwa. Terenowy organ administracji stopnia w stosunku do organu decyzje o ustaleniu lokalizacji inwestycji dokonuje. w okresach nie co lat. analiz i ocen wy danych decyzji z ustaleniami planu zagospodarowania przestrzennego. Art. Wydanie decyzji o ustaleniu lokalizacji inwestycji i inwestycji organizacji dzielczych. z inwestycji komunalnego budow nictwa mieszkaniowego i publicznej. poprzedza umowa zawierana tereno wym organem administracji o ogólnej odpowiedniego stopnia a inwestorem. w której Zam. PL ISSN 0209-2123 '. , .' DZIEN 'NIK POLSKIEJ RZECZYPOSPOLITEJ Załącznik do nru 17, 93 • KONWENCJA o ochronie ilzycznej otwarta 'do podpisu w Wiedniu i Nowym _ niniejszej konwencji, prawo wszystkich paf1stw do rozwijania i sto sowania energii w' celach pokojowych oraz ich prawnie uzasadnione w potencjalnych z pokojowego ' wykorzystania energii . przekonane o wej w zakresie pokojowego wykorzystania energii jakie z bezprawnego i ich przekonane, drowych przedmiotem zaniepokojenia oraz istnieje pilna potrzel?,a odpowiednich i sku>1 tecznych dla zapewnienia zapobiegania takim oraz ich wykrywania i karania, w celu ustalenia, zgodnie z ustawodawstwem krajowym ,i sb:tecznych ochrony fizycznej wych, przekonane, niniejsza konwencja powinna bezpieczne przekazywanie znaczenie ochrony fizycznej ma trakcie ich wykorzystywan.ia, 'dowania i kraju, znaczenie skutecznej ochrony fizycznej mate do celów woiskowych, oraz takie i , w dalszym pod co 1 W rozumieniu niniejszej konwencji:
+**Art. 21.** Ustawa wchodzi życie z dniem 1 maja 1989 r.
 

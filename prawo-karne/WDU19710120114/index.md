@@ -10,7 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# ~ D " Z " 'I: Fe) LS R I EJ 'H'zE'C'z YPOS·PO·LITEJ LUDOW:EJ Warszawa, dnia 31 nl~ja 1971 r.
+# Kodeks wykroczeń
+
+*USTAWA z dnia 20 maja 1971 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -24,398 +26,1335 @@ domain: null
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19710120114) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1971/114/text.pdf) |
 
-Nr 12 T , Iii S C.
-114 - z. dnia, 20 maja r, Kodeks . . .'. . .•' . . • ".' ' .
-115 z dnia 20 maja r, Kodeks 116 - z dnIa maja r. sprawach o 'wykroczenia • • • • z dnia 20 ,maja, r. Przepisy w spraw,atb o '.
-118 - z dnia 20 maja r. o ustroju kolegiów do .' .
-119 - z dnia 3 maja r. o zmianie w spra wie ustanowienia celna towary. 'z 'zagranicy " . • . , . . . " .. ,....' ... " • " • z dnia II maja r. w ,sprawie wpisów w sprawach , cywilnych . .. . . ...... . ... ,..
-z dnia maja r. w sprawie ograniczenia uboju· '.
-Ministra Komunikacji z dnia 3 ma ja r. zmienia vi sprawie przewozu lotniczego Ministra ,Rolnictwa dnia maja r,ozp,orZ/jdzenle w 'sprawle .trybu· I nów· do stwierdzania uboju , . . ' . . . . . . .
-12,&- Ministrjl .Z dnia 11 maja r. w sprawie zmiany stawek ' niektórych pplat w sprawach karnych'. .. . .. •..
-Ministra Sprawiedliwoscl z dnia II ma ja r. w sprawie zmIany niektórych opiat w spra.-, . wac.h ,cywilnych inieklórych opiat notarialnych. ' .
-114 UST A WA :z dnia· 20 maja 1971 r.
-Kodeks 114 114 11S I1S ..
-C Z Ę S C GO LN A Art. ,6. § l. Wykroczenie umyślne uchodzi wtedYL gdy sprawca ma zamiar zabronionego, to jest
-2. , Wykroczenie zarówno wt!dY, . Art. 1. Odpowiedzialn.ośCi za wykrocżenie' podlega ten gdy ' sprawca możliwość popełnienia czynu , zabronionego tylko'. kto dopuszcza ,się czyn~ społecznie niebezpiecz.nego, przewiduje, lecz bezpodstawnie przypuszcża, te tego uniknłe, - przez w czasie jego jak. i wtedy;. . gdy takiej nie przewiduje, :-.- , nienia aresztu do 3 powinien ,. ' woinóści do 3 miesięcy, 'gnywny do 5000 złotych ·nagany. Art. 7. Nieświadomość tego, że czyn jest zagrowny karą, .. Art. 2. Jeżeli w czasie orzekania obo'wiązuje usla- nie wyłącza od:powiedzialności, chyba że nieświadomość była WII inna niż w, Clasi~ popel.nienia: wy~roczenia. !.tos~je ~ię. usprawiedliwiona. ' ~-jednakze nalezystosowac Art. 8. Na w niniejszej ustawie cą' poprzednio. jeżeli jest względniejsza dla s;.Hawcy. , . odpowiada ten, kto dopuszcza się czynu zabronionego po'
-2. Jeżeli według nowej us/awy C7yn objęty orzeC7e- ukońc7eniu lat 17. .
--. 'niem nie jest zabroniony pod kary, ukaranie Art. 9. l. czyn wyczerpuje za niebyle, w dwóch przepisach ustawy, stosuje
+## CZĘŚĆ OGÓLNA
 
-#### Rozdział I chce go popełnić. albo przewidując możliwość jego ·popełnieZasady odpowłedllalno~cł.nia na to się godzi. ' ' ' ,
+#### Rozdział I Zasady odpowiedzialności
+
+**Art. 1.**
+
+§ 1. Odpowiedzialności za wykroczenie podlega ten tylko, kto popełnia czyn społecznie szkodliwy, zabroniony przez ustawę obowiązującą w czasie jego popełnienia pod groźbą kary aresztu, ograniczenia wolności, grzywny do 5000 złotych lub nagany.
+
+§ 2. Nie popełnia wykroczenia sprawca czynu zabronionego, jeżeli nie można mu przypisać winy w czasie czynu.
+
+**Art. 2.**
+
+§ 1. Jeżeli w czasie orzekania obowiązuje ustawa inna niż w czasie popełnienia wykroczenia, stosuje się ustawę nową, jednakże należy stosować ustawę obowiązującą poprzednio, jeżeli jest względniejsza dla sprawcy.
+
+§ 2. Jeżeli według nowej ustawy czyn objęty orzeczeniem nie jest już zabroniony pod groźbą kary, ukaranie uważa się za niebyłe.
+
+**Art. 2a.**
+
+§ 1. Jeżeli według nowej ustawy czyn objęty prawomocnym wyrokiem skazującym za przestępstwo na karę pozbawienia wolności stanowi wykroczenie, orzeczona kara podlegająca wykonaniu ulega zamianie na karę aresztu w wysokości równej górnej granicy ustawowego zagrożenia za taki czyn, a jeżeli ustawa nie przewiduje za ten czyn kary aresztu, na karę ograniczenia wolności, a jeżeli ustawa nie przewiduje za ten czyn kary ograniczenia wolności – na karę grzywny, przyjmując jeden dzień pozbawienia wolności za równoważny grzywnie w kwocie od 10 do 250 złotych i nie przekraczając górnej granicy tego rodzaju kary przewidzianej za ten czyn.
+
+§ 2. Jeżeli według nowej ustawy czyn objęty prawomocnym wyrokiem skazującym za przestępstwo na grzywnę lub karę ograniczenia wolności stanowi wykroczenie, orzeczone kary ulegają zamianie tylko wówczas, gdy kara grzywny lub ograniczenia wolności podlegająca wykonaniu przekroczyłaby górną granicę ustawowego zagrożenia przewidzianą za ten czyn. Wówczas orzeczoną karę grzywny lub ograniczenia wolności zamienia się na karę w wysokości górnej granicy ustawowego zagrożenia przewidzianej za dany czyn. Jeżeli za dany czyn nie jest przewidziana kara ograniczenia wolności, orzeczoną karę ograniczenia wolności zamienia się na karę grzywny, przy czym miesiąc ograniczenia wolności przyjmuje się za równoważny grzywnie od 100 do 2500 złotych nieprzekraczającej górnej granicy ustawowego zagrożenia za ten czyn.
+
+§ 3. Jeżeli według nowej ustawy czyn objęty prawomocnym wyrokiem skazującym za przestępstwo stanowi wykroczenie, orzeczone środki karne, środki kompensacyjne, środki związane z poddaniem sprawcy próbie, środki zabezpieczające, o których mowa w art. 93a Kodeksu karnego, oraz przepadek podlegają wykonaniu na podstawie przepisów dotychczasowych.
+
+§ 4. Jeżeli według nowej ustawy czyn objęty prawomocnym wyrokiem skazującym na karę pozbawienia wolności za przestępstwo stanowi wykroczenie i kara ta była podstawą orzeczenia kary łącznej, kara łączna traci moc. Jeżeli według nowej ustawy czyn objęty prawomocnym wyrokiem skazującym na karę ograniczenia wolności albo grzywny stanowi wykroczenie i kary te były podstawą orzeczenia kary łącznej, kara łączna traci moc tylko w razie wydania postanowienia w wypadku, o którym mowa w § 2. W razie potrzeby sąd wydaje wyrok łączny.
+
+§ 5. Przepisów § 1–4 nie stosuje się, jeżeli ich zastosowanie powoduje skutki prawne mniej korzystne dla sprawcy niż stosowanie ustawy obowiązującej poprzednio.
 
 **Art. 3.**
 
-1. Na zasadach w niniejszej usta- przepis co nie wie odpowiada tęn, kto popełnił wykroczenie na terytorium stoi na przeszkodzie orzec~eniu kar dodatkowych oraz na~;- Polskiej Rzeczypo.$'!}olilej Ludowej, jak również na polskim wiązki na podstawie innych naruszonych przepisów. s[atku wodnym powietrznym. ' 2. orzeka o ukaraniu za dwa
+§ 1. Na zasadach określonych w niniejszej ustawie odpowiada ten, kto popełnił wykroczenie na terytorium Rzeczypospolitej Polskiej, jak również na polskim statku wodnym lub powietrznym.
 
-2. za wykroczenie za wic;cej /Wyinierza w granizachodzi tylko wtedy, gdy przepis szczególny cach w' przepisie co nie stoi na przeszkodzie
+§ 2. Odpowiedzialność za wykroczenie popełnione za granicą zachodzi tylko wtedy, gdy przepis szczególny taką odpowiedzialność przewiduje.
 
-**Art. 4.** § l. Wykroczenie za w eza- . orZeC7.eniu kar do'datkowych oraz na podstawie sie, w ·którym sprawradzialał zaniechał dlialania. d.Q : innych naruszonych przepisów. k,tórego .. ",. Art. 10. § I. wykroczeniem wyczer: § 2. Wy,kToc.7.enie za p.opelhione w miejscu, puje znamiona a wymierzono kary za gdzie sprawc'a dzialał:,lub ,zaniechał dliałania. do którego. wykroczenie oraz :zaprzestępslWO. kara wymierzona za wybył,' obowiązany, a1b()'-'g~zie skutek - nastąpiF1ub miał 'na- kroc,zenie _nie podlega wy\<.o.naniu. ' w razie . zaś jej uprz!'d... sfąpić. " / " niem)· wykonania zalicza 'się ją na pocżet kary wymierzonej <. Art. 5. Wykroczenie zarówno z . winy -'za . . -umyślnej, ,-jak i z winy' nieumyślnej. chyba że _ustaw,s prze- § 2. Zalicza się karę ares'ztu i ograniczenia wolności ,Widuje, ~'O«(po'w,iedzialność III . wy'kro"Czenie tylko z winy ' wymieuoną zawykroCl:enie napóc;zet ka-ry pozbawif'llia. -tąnyAllleJ. . - wolności,oOgClNliczenla ~ wolno.Ści L grzyw-ny wymierzonej za Dziennik Ustaw Nr 12 - 86 Poz. jeden aresztu za ny jednemu pozbawienia dwóm dniom ograniczenia oraz grzywnie w, kwocie od 50 do ' , 3. orzeczona za wykroczenie nie podlega wykonaniu, gdy orzeczono za w ra zie jej uprzedniego wykonania zalicza na poe,zet orzecwnej za przestQpstwo. _
+**Art. 4.**
 
-**Art. 11.**
+§ 1. Wykroczenie uważa się za popełnione w czasie, w którym sprawca działał lub zaniechał działania, do którego był obowiązany.
 
-1. zachodzi wtedy, gdy sprawca w zamia'rze zabronionego swoim, zachowa niem zmierza ku jego dokonaniu, które jednak nie
+§ 2. Wykroczenie uważa się za popełnione na miejscu, gdzie sprawca działał lub zaniechał działania, do którego był obowiązany, albo gdzie skutek nastąpił lub miał nastąpić.
 
-2. za dokona·nia wykro czenia gdy usta wa tak stanowi.
+**Art. 5.** Wykroczenie można popełnić zarówno umyślnie, jak i nieumyślnie, chyba że ustawa przewiduje odpowiedzialność tylko za wykroczenie umyślne.
 
-§ 3. za usilowanie wy.mierza w granicach za przewidzianego dla danego wykroczenia.
+**Art. 6.**
 
-4. Nie ponosi za kto do browolnie od czynu skutkowi.
+§ 1. Wykroczenie umyślne zachodzi wtedy, gdy sprawca ma zamiar popełnienia czynu zabronionego, to jest chce go popełnić albo przewidując możliwość jego popełnienia na to się godzi.
 
-**Art. 12.** Dopuszcza kto aby inna osoba czynu zabro'nionego, tego.
+§ 2. Wykroczenie nieumyślne zachodzi, jeżeli sprawca nie mając zamiaru jego popełnienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość popełnienia tego czynu przewidywał albo mógł przewidzieć.
 
-**Art. 13.** Dopuszcza pomocnictwa, kto aby inna osoba czyn1J zabronionego, dostarc_za jej , udziela rady informacji w inny podobny spo,sób tego czynu. Art. t.f. 1. za i pomoc nictwo zachodzi wtedy, gdy ustawa tak stanowi i tylko w razie dokonania przez spra czynu zabronionego. 2. Podżegacz i pomocnik odpowiadają Yi granicach swego zamiaru, osoba, która czynu zabroniooego nie '" § 3. za za pomocnictwo wymierza w granicach przewidzianego dla danego wykroczenia. ' ,
+**Art. 7.**
 
-**Art. 15.**
+§ 1. Nieświadomość tego, że czyn jest zagrożony karą, nie wyłącza odpowiedzialności, chyba że nieświadomość była usprawiedliwiona.
 
-§ 1. . Nie wykroczenia, kto w obro,nie koniecznej odpiera bezpra wny zamach 'na jakie kolwiek dobro jakiekolwiek dobro jednostki. 2. w obronie koniecznej w ten, kto w celu przywrócenia spokoju publiczpego, to z' wego. , ' Art; 16. § 1. Nie wykroczenia, kto w uchylenia do bru jakiemukolwiek dobru jednostki, wa nie' inaczej a dobro po nie przedstawia dobro rat-Qwane. \, '- ' § 2. Przepisu § 1 nie stosuje gdy sprawca które ' ma 'szczególny nawet z na na wo osobiste.
+§ 2. Nie popełnia wykroczenia umyślnego, kto pozostaje w błędzie co do okoliczności stanowiącej znamię czynu zabronionego.
 
-**Art. 11.**
+**Art. 8.** Na zasadach określonych w niniejszej ustawie odpowiada ten, kto popełnia czyn zabroniony po ukończeniu lat 17.
 
-1. Nie wykroczenia, kto z powodu nied~rozwoju 'umysłowego, choroby psychicznej innego psychicznych nie móg). w chwili czynu jego znaczenia swym niem.
+**Art. 9.**
 
-2. w chwili wykroczenia rozpoznania znaczenia czynu kie'rowania u sprawcy w znacznym stopniu ograniczona, odod wymierzenia kary. '
+§ 1. Jeżeli czyn wyczerpuje znamiona wykroczeń określonych w dwóch lub więcej przepisach ustawy, stosuje się przepis przewidujący najsurowszą karę, co nie stoi na przeszkodzie orzeczeniu środków karnych na podstawie innych naruszonych przepisów.
 
-3. Przepisów l i 2 nie stosuje gdy sprawca wy kroczenia wpra wil w stan , odurzenia czenie 'ograniczenie poczytalności, które przewidywał albo II Kary zasadniCze I dodatkowe. Wymiar kary.,
-
-**Art. 18.** Karami J) areszt,
-
-**Art. 20.**
-
-§ 1. Kara ograniczenia trwa najmniej l' miesi,ąc" najwyżej 3 miesiące; wymierza sJę ją w , , 2. W czasie odbywania ,kary ograniczenia ukarany:
-
-- **l)** bez zgody organu sca pobytu;
-- **2)** jest do wykonywania pracy wskazanej organ
-- **3)** ma udzielania biegu odbywania kary.
-
-**Art. 21.**
-
-§ 1. 'fi art. 20 2 polega na wykonywaniu nieod,płatnej dm.orowanej pracy cele publiczne w wymiarze od 20 do 50 godzin w stosullku § 2. W stosunku do osoby zatrudnionej w nym pracy o-rgan , zamiast w §1, orzec' od do 250/0 nagrodzenia za na rzeC} Skarbu albo na wskazany przez organ ukarany w okresie odbywania kary bez zgody brga·nu , stosunku pracy, nie ukaranemu wynagrodzenia go na stanowisko. ' ,§ 3. nie w stosunku zatrudnienia , oIgan zamiast w § l, za tym wychowawcze, do odpowiedniego pracy w celu wykonywania tam pracy z zastosowaniem gorów wymienionych w § 2. ' .
-
-**Art. 22.** Wymierzając ograniczenia ukaranego:
-
-**Art. 23.** Jeżeli ukarany uchyla od wykonywania ograniczenia lllega ona na , grzywny, przy czym ograniczenia .przyjmuje za grzywnie od do l 000 a na ' to, grzywny skuteczna - na aresztu, przy ograniczenia od,powiada 'are,sztu.
-
-**Art. 24.** §, l. wymierza w od,lDO , do 5000 złotych, chyba że stawa.stanowi inaczej. 2. Jeżeli za wykr,óczenie pope.łnio-ne w celu osiągnięcia wymierzono aresztu. orzeka obok tej kary chyba grzyw-, ny nie celowe. " " , Art. 25. § 1. LOOO tych, orzec aresmu, w gdy spra weanie ma utrzymania sta miejsca zamieszkania. jeden aresz[u za grzywnie od 50 do 150 ' , § 2. Kara za nie 2, aresztu. a za dane wykroczenie przewidziana 'aresztu do 3 orzec aresztu w do 3 wymierza w l dniach. " , 3. wymiar Zasadniczej i· j kary aresztu' nie 3' ' '.
-
-**Art. 26.** Nie aresztu zasadniczet warunki osobiste wiaji} odbYCie tej kary. ' , ' , Art. ,27. J. Od kary aresztu uwolniony w czasie pnez wplaceJue kwoty Jeszcze '00 uis:zaenia. Dziennik Ustaw Nr 12 .... 81 -- ' '. Poi. 114 2. 'grzywna uiszczona w za zmniejsza , W. sposób stosunkowi kwoty do grzywny.
-
-**Art. 28.**
-
-1. Karami dodatkowymi
-
-- **1)** zakaz prowadzenia wykonywania z wymaganym zezwoleniem, zakaz prowadzenia pojazdów mechanicznych,
-- **3)** przepadek rzeczy, "
-- **4)** podanie orzeczenia o ukaraniu do publicznej w. szczególny sposób,
-- **5)** inne przez
-
-2. Kary dodatkowe vi § l ' pkt l, 2, 3 I 5 orzec. one przewidziane szcze gólnym, a orzeka je, przepis szczególny tak stanowi.
-
-§ 3. Przepadek rzeczy orzec, ukaranie sprawcy.
-
-**Art. 29.**
-
-1. zakazu prowadzenia dzia _ wykonywania zwyma , ganym zezwoleniem wymierza w na okres od 3 d,Q roku; zakazu prowadzenia pojazdów mechanicznych wymierza w latach na okres od 3 do 2 lat.
-
-2. Orzeczone zakazy odupra,womocnienia . orzeczenia. '. .
-
-**Art. 30.** . 1. Przepadek rze·czy obejmuje Inne przedmioty, które przeznaczone do po wykroczenia, a przepis szczególny tak sta lilowi - ta pne.dmjoty po z wykroczenia. 2. Przepadek rzeczy nie s.prawcy wykroczenia orzec tylko wtedy, gdy przepis szczegól ny tak stanowi. . 3. Przepadek rzeczy z uprawomoc nienia orzeczenil! . 4. Mienie ob przepadkiem przechodzi na rzecz .Skarbu chyba ustawa stanowi
-
-**Art. 31.** ' § 1. Podanie orzeczenia o ukaraniu do publicz nej w szczególny sposób orzeka wtedy, gdy to znaczenie wychowawcze.
-
-**Art. 32.** · Nawiązkę orzeka na rzecz pokrzywdzonego w wypadkach przewidzianych w' przepisach sZCzególnych . . " Art. 33. § l. Organ orzekający' wymierza karę wedł\lg swego uznania, VI granicach przewidzianych w ustawie. za dane wykroczenie. niebezpie cZYl1ui pod cele kary w zakresie oraz Cele zapobiegawcze i wy chowawcze, które ma ona w stosunku do ukaranego. 2. organ bierze pod w rod'zaj i rozmiar szkody wykroczeniem, rodzaj i winy, pobudki, s.posób dzia stosunek do pokrzywdzonego. jak war'unki osobiste i sprawcy,' jego stosunki rodzin ne. spOSÓb przed i zachowanie po . § .3. Jako w szcze działćiniesprawcywykro-czenia pod wpływem ciężkich warunków rodzinnych osobistych; .
-
-**Art. 34.** Okoliczności na wymiar kary tylko co d-o osoby, której
-
-**Art. 35.** Jeżeli ustawa daje wyboru aresztem a areszt orzec tylko wtedy, gdy czyn z winy a zarazem za orzeczeniem kary aresztu przemawia waga czynu sprawy demoralizacji sprawcy albo sposób jego szczególne
-
-**Art. 36.**
-
-§ 1. orzec wtedy, gdy na charakter i czynu i warunki osobiste sprawcy na zastosowanie tej kary jest- do go do poszanowania prawa i zasad § 2. Nie orzec .nagany za wykroczenie charak terze
-
-**Art. 37.** Jeżeli wykroczeniem o' charakterze szkoda, orzec do wyso 2000 na rz.eczpokrzywdzonego. albo na rzecz Polskiego Czerwonego na.' inny . cel s'poleczny . wskazany przez organ .
-
-**Art. 38.** Ukaranemu co najmniej dwukrotnie. za podobne wykroczenia' z winy który w 2 lat od ostatniego uk.arania z winy podobne wykroczenie, do .3 wykroczenie
-
-**Art. 39.** §' l.W wypadkach na szczególne - pod charakter i oko czynu i warunki osobiste spraw cy - nadzwyczajne kary odod wymierzenia kary. .
-
-**Art. 41.** Uzriając. jest to do s'prawcy wykroczenia do poszanowania prawa i zasad nawet nie wania. k.ierownikowi pracy, w któ rym sprawca jest zatrudniony, z charakteru nego czynu wynika, stanowi on naruszenie ' pracowniczego, organizacji spo do której sprawca i wnioskiem o zastosowa nie przewidzianych regulaminie pracy, w powaniu dyscyplinarnym innych wychow'awczego. ' IV Warunkowe' zawieszenie wykonania kary aresztu.
-
-**Art. 42.**
-
-1. Wykonanie zasadniczej. kary aresztu warunkowo ze na po wykroczenia, i warunki osobiste s,praw ,cy oraz jego zachowanie po wykroczenia pomimo niewykonania kary nie po on nowego podobnego
-
-2. Warunkowe zawieszenie wykonania kary na okres próby, który nie krótszy 6 I nie roku. Okres próby biegnie od uprawomocnienia orzeczenia. ' -- , ' § 3; wykroczeniem szkoda w mieniu, warunkowe zawieszenIe wykonania kary orzeczone tylko wtedy, gdy szkoda w na· , prawiona.
-
-**Art. 43.** Warunkowego zawieszenia wykonania kary nie 5tosuje do sprawcy. który. w ciągu 2 lat przed ' popełnieniem wYkroczenia był już karany za p<>dobne wykroczenie albo
-
-**Art. 44.** Organ wykonanie ka ry, ukarany w okresie próby podobne do po q:>rzedniego wo wyk roczenie.
-
-**Art. 45.** l. wykroczenia ustaje, od czasu jegopopelnienia 6 jest aresztu - jeden rok. 2. W ,razie uchylenia w przedawnienie biegnie od daty uchy'lenia 3. Orzeciona ka'ra nie podlega wy,konaniu, daty uprawomocnienia --Art. 46., l. Ukaranie. Za ,niebyle,-po 2 lat od wykonania, darowania przedawnienia nia kary. 2. ukarany przed okresu przewidzia nego w' § nowe wykroczenie, za które rzono mu ka ograniczenia ukaranie za oba wykroczenia, 'la 'wie 2 lat ,darowania albo od przedawnienia wykonania kary za nowe wykroczenie. Rozcgial VI ustawowych.
-
-**Art. 47.**
-
-1. Przez zabFoniony rozumie zaniechanie o znamiona'ch v/ ustawie, nie stano\",ilo ono Wykroczenia ze winy.
-
-2. Przez wykroczenia podobne mie wykroczenia sJCierowane przeciwko temu samemu rodzajowo dobru chrOnionemu prawem, a wykr,oczenia takich sa.l1lych pobudek; wa wykroczenia w celu za podobne.
-
-3. jest to powinowaty w tej samej linii stopniu; w stosunku przysposobienia oraz jej a osoba faktycznie we wspólnym
-
-4. -lub jest w którym jest dzielnia, zawodowy, inna nizacja ludu oraz jednostka wojskowa. S. Charakter wykroczenia na godzen'iu, w lub' spokój albo niszczeniu uszkadzaniu mienia, sprawca publicznie 'oraz w rozumieniu powszechnym bez powodu z powodu, przez to podstawowych zasad prawnego. VII St.osunek do u'staw szczególnych.
-
-**Art. 48.** Przepisy ogólnej Kodeksu suje do przewidlianych w innych usta wy te nie przepisów odmiennych: SZCZEGOLNA VIII Wykroczenia przeciwko i spokojowi publicznemu.
-
-**Art. 49.** Kto w niiejscu demonstracyjnie zuje lekceważenie dla Narodu' Polskiego, Polskiej spolitej Ludowej, jej ustroju or,ganów, - podlega karze aresztu albo grzywny. " Mt.50. Kto ni'e puŚci zbiegó~iska publ'icznego 'wezwan.ia organu, ' ' !pOdlega karze aresztu albo grzywny. Ar.t. IlrLykiem. halasem, alarmem innym wybrykiem za kl6<:a publiC7..lly , spoczynek nocny albo wy'woJuje zgorszenfe w miejscu pub rz.nym, podlega karze areSl.tu _d'Q 2 grzywny do Zlot ycb albo ka.rze na.gany. czyn o.kre&lo.ny ma, -charaltter chuli lub. spra dopuszcza go.. pod wply wem alkoholu, podlega karze aresz(u,09rankzenia albo grzywny. 3. Podżeganie i 'pomocnictwo są kara Ine.
-
-**Art. 52.** Kto:
-
-**Art. 53.** Kto, pomimo zastosowania egze kucji administracyjnej, uchyla od rejestracji -bibl'ioteki zbioru bibliotecznych, pod-lega karze g.rzywny albo karze nagany. i. Tej samej karze podlega, ktO' przy rejestracji biblio teki zbioru bibliotecznych podllje dane nie ,prawd:ziwe. 3. Karze w podlega ten, kto bez wymaganego zezwolenia publicznie zbiór bibliotecznych, . Art. 54. Kto wykracza przeciwko wydanym z nienia ustawy przepisom o zachowaniu w miejscach publicznyc.h, podlega kane grzywny do l 000 albo karze nagany,
-
-**Art. 55.** Kto w miejscu, w k.tórym jest to zabronione, podlega karze grzywny do 500 albo karze na ga-ny.
-
-**Art. 56.** t. Kto .bez wymaganego zezwolenia wbrew Jego warunkom organizuje przeprowadza zbiórofiar. . podlega grzY'fny. 2. i pdmocnktw'o karalne. 3. orzec przepadek I rzeczy uzyska nych nia, orzeka ze zbiórki przeprowadzonej wbrew warunkom zezwole· kil gdy pTl.eprowa dzono bez zezwoleni.d. orlec przepadek uzyska nych z czynu w wtedy. gdy one przekazane przez innej osobie instytucji. i _uzyskanych zebrane ofiary -w na turze rzec.zy nabytych za uzyskane ze 5 i rzeczy" co do którycfi wzeczono prze padek instytucji .pomocy lub· instytucji
-
-**Art. 57.** L Kto organjzuJe przeprowadza . ofiar n.a uiszczenie grzywny orzeczonej -za stwo wykroczenie. pod-Iega .ka'rze aresztu. albo grzywny. § 2, pomocnictwo kitralne. 3. Zebrane ofiary uzyskane za ofia,ry w naturze przepadkow:i_ 4. I r.zeczy, co do których orzeczono prze padek, instytucji pomocy instytucji Art 58. 1. Kto,. egzystencji zdolny do pracy, w miejscu publicznym, podlega karze ograniczenia grzywny do 3000 karze nagany. 2. Kto w publicznym w sposób Datar czywy ,podlega karze aresztu albo ograrri<:zenia
-
-**Art. 59.** Kto wykonuje zawodowe, nie wymaganych do tego swe za wodowe uprawnienia albo wbrew zakazowi organu ;wego, podlega karze grzywny.
-
-**Art. 60.**
-
-1. Kto w ramach gospodarki nie nej prowadzi przetwórC-Z/lr bez wymaga,nego zezwolenia, . podlega karze aresztu, ograniczenia albo grzywny.
-
-2. i pomocnictwo karalne-. 3, W szczególnie- uzasadnionych wypadkach orzec przepade.k rlecly przedmiot wykroczenia.
-
-**Art. 61.**
-
-§ 1. Kto sobie stanowisko, tytul albo publicznie nosi odznaczenie, od strój mundur, do których nie ma prawa, . podlega karze grzywny do 2 0ó0 albo karze lIlagany . 2. Kto ustanawia, wytwarza, roz.powszechnia publicz nie, nosi: albo mundur. co do kt6ry<:h wydany zakaz, albo mundur organizacji prawnie nie albO mundur, na których ustanowienie lubno.szenie nie uzy skano wymaganego zezwolenia, podlega karze aresztu albo grzywny. 3. W razie popełnienia wykrOcze-nia określonego w § 1 orzec, a w' razie wykroczenia w 2 orzeka przepadek wymienionych w tych prz.episach przedmiotów, jak innych przedmiotów do po.pelnieniawykr:0Czenia, takich jak stemple, pa· pier firmowy bilety wizytowe. . nie sprawcy,
-
-**Art. 62.**
-
-1. Kto nad - a w szc.ze kto bije w sposób szczególnie bolesny, do pra.cy chore, .je, nadmiernym w inny sposób zada je cierpienia fizyczne, podlega karze areszt,u, ograniczenia grzywny albo karze nagany. .
-
-2. Tej samej karze podlega osoba, ,pod której znajduje, albo osoba, która z której polecenia jest do pracy, a opiekun nieletniego sprawcy, do czynu w 1.'
-
-3. i ,pomocnictwa do czynu w l karalne.
-
-**Art. 63.**
-
-§ 1. Kto zezwolenia wbrew jego warunkom w miejscu publicznym megafonowe albo nie szenia przez siebie maszyn i pole ,elektromagnetyczne wielkiej ,podlega karze grwwny albo karze nagany. 2. orzec przepadek przedmiotów wymienio nych w l, nie sprawcy. ,Art. 64. f 1. Kto, administratQrem, nie obo umieszczenia w odpowiednim miejscu albo, utrzyma nia w stanie tabliczki z numerem ulicy placu albo karze grzywny do 500 albo karze nagany.
-
-§ 2. Tej samej karze podlega. kto nie ku tabliczki z nieru IX Wykroczenia przeciwko instytucjom wowym l,
-
-**Art. 65.**
-
-§ 1. Kto wprowadza w organ
-
-- **1)** . co do innej osoby,
-- **2)** co do swego obywatelstwa, zawodu, miejsca z'atrudnie oia zamieszkania, !podlega karze gnywny. , § 2. Tej samej karze podlega, kto wbLE!oW nie udziela organowi łub dokumentów co do okołiczności wymienionych w l.
-
-**Art. 66.** l. Kto ze swawoli, wy alarmem, innYm sposobem, wprowadza w publicznej albo inny organ ochr6ny publicznego zdrowia, !podlega karze aresztu do 2 ograniczenia wolalbo grzywny do 3 000 ' 2. wykroczenie czyn orze,C do 2000 Art. § 1. Kto uszkadza lub, usuwa nie wystaWione publicznie przez albo w inny sposób unie zaznajomienie z takim -podlega karze grzywny a karze nagany. Kto uszkadza usuwa afisz plakat wystawiony pubHcznie przez biorstwo artystyczne, rozrywkowe sportowe albo w in ny sposób zaznajomienie z ta kim afiszem ,plakatem. podlega karze g,rzywny do 2000 'albo ka.rze nagany. Art. 68. §1. Kto bez zamówienia wyrabia znak instytucji albo organiza -cji znak wydaje , osobie nie ionej do odbioru, karze grzywny. 2. Tej samej' karze podlega, kto bezprawnie posiada, zamawia nabywa § 3. W razie wykroczenia Qub 2 znak przepadkowi. Art. Kto niszczy, uszkadza; :usuwa w inny sposób czyni bezs-kutec7,nymi znaki umieszczone organ w celu stwierdzenia przedmiotu, go poddania podlega karze' aresztu, grzywny albo karze 'naga,ny. X Wykrpczenia przeciwko bezpieczeństwu osób i mienia.
+§ 2. Jeżeli jednocześnie orzeka się o ukaraniu za dwa lub więcej wykroczeń, wymierza się łącznie karę w granicach zagrożenia określonych w przepisie przewidującym najsurowszą karę, co nie stoi na przeszkodzie orzeczeniu środków karnych na podstawie innych naruszonych przepisów.
 
 **Art. 10.**
 
-1. Kto, niezdolny do . wykonanie dla zdro'wia rze albo kto porucza osobie 'do jej wykonania niezdolnej wbrew n'adzoru dopuszcza do wykonania takie j przez, podlega karze aresztu albo grzywny. ..
+§ 1. Jeżeli czyn będący wykroczeniem wyczerpuje zarazem znamiona przestępstwa, orzeka się za przestępstwo i za wykroczenie, z tym że jeżeli orzeczono za przestępstwo i za wykroczenie karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. W razie uprzedniego wykonania łagodniejszej kary lub środka karnego zalicza się je na poczet surowszych.
 
-2. Tej samej karze podlega, kto wbrew 'zachowania z;najduje na alkoholu podobnie muje w tym stanie zawOdowe. , Art. 11.' Kto przez wadliwe wykona.nie uczynienie ichnie:roatnymi do funkcjonowaI\ia z przeznaczeniem arbo przez ich samowolne uruchomien'ie s,tan niebezpieczny-dla 'lub zdrowia iPodlE!ga ,karze aresztu albo grzywny.. Art. n.Kto wbrew:,swemu nie doko'nuje odpowIedniego zabezpieczenia miejsca niebe,21piecZnegodla zdrowia podlega karze aresztu albo grzywny.
+§ 2. Przy zaliczaniu kar przyjmuje się jeden dzień aresztu za równoważny jednemu dniowi pozbawienia wolności, dwóm dniom ograniczenia wolności oraz grzywnie w kwocie od 20 do 150 złotych.
 
-**Art. 13.** Kto' wbrew swemu nie zawiadamia odpowied,niegóorganu osoby o wiad'omym mu" zdrowiu mieniu w znacznych ro,zmiarach, podlega karze aresztu albo, grzywny. Art: 14, 1. Kto niszczy, uszkadza, usuwa czyni czytelnymi znaki napisy o dla zdrowia albo ogrodze· nie inne takiemu' niebez.pie" podlega karze aresztu, grzywny. 2. W razie wykroczenia orzec zniszczonego uszkodzonego przedmiotu albo przywrócenia do stanu poprzed iliego.
+§ 3. Karę aresztu orzeczoną za wykroczenie uważa się za karę tego samego rodzaju co kara pozbawienia wolności orzeczona za przestępstwo.
 
-**Art. 15.** . § 1. Kto bez zachowania wystawia wywiesza przedmioty albo nimi wylewa wyrzuca albo doprowadza wypadania takich przedmio'tów wylewania 'podlega karze grzywny do 't. albo nagany. 2. sprawca dopuszcza czynu w § l ze swawoli, podlega karze ograniczenia wolnósci albo grzywn,y. Art. Kto rzuca kamieniami innym przedmiotami w pojazd mechaniczny w ruchu," karze aresztu, ograniczenia grzywny. , Art.:[1. Kto nIe zachowuje przy trzymaniu , ':!>odlega karze grzywny dó' 509 albo nagany. Dziennik Ustaw Nr 12
+§ 4. Zaliczeniu, o którym mowa w § 1, nie podlegają środki karne w postaci:
 
-**Art. 18.** Kto przez draznienie .lub d,oprowadza do tego, staje niebezpieczne, ,podlega karze grzywny do 2000 ' albo karze nagany.
+- **1)** nawiązki, jeżeli za wykroczenie i za przestępstwo orzeczono je na rzecz różnych podmiotów;
+- **2)** obowiązku naprawienia szkody, jeżeli za wykroczenie i za przestępstwo orzeczono je w związku z różnym rodzajem szkód.
 
-**Art. 19.** t l. Kto wbrew swemu zaniecha miejsc dla . podlega karze grzywny do 500 złotych albo karze nagany. 2. Kto ze swawoli takie , podlega kar?:e grzywny do l 000 Arl 80. l. Kto: pojazdem konno albo gospodarskie przez wal przeciwpowodziowy w mIeJscu do tego nie przeznaczonym po wale, na któ rym nie ma drogi o 'dostatecznie mocnej I!awierzchrii; orze bro'nuje na wale przeciwpowodziowym albo obok w mniejszej 3 m od stopy
+**Art. 10a.**
 
-**Art. 81.** Kto niszczy, uszkadza do . ochrony brzegów wód morskich a w' szczegÓlności wszelkie urnocnie,nia roślinność ochronną, podlega karze grzywny do 2000 albo karze lIlagany.
+§ 1. Jeżeli czyn będący wykroczeniem, za które wymierzono karę lub środek karny, stanowi, wspólnie z innym czynem lub czynami, ze względu na łączną wartość mienia przestępstwo, za które wymierzono karę lub środek karny tego samego rodzaju, wykonuje się surowszą karę lub środek karny. Przepisy art. 10 § 1 zdanie drugie oraz § 2–4 stosuje się odpowiednio.
 
-**Art. 82.** Kto obchodzi z ogniem ";wykracza ,przeciwko przepisom zapobiegania i zwalczania a w . ,1) nie budynku w odpowiednie nie· utrzymuje ich w stanie 'Zdatnym.do
+§ 2. W wypadku dwóch lub więcej czynów będących wykroczeniami, o których mowa w § 1, za karę lub środek karny wymierzony za wykroczenie w rozumieniu § 1 uznaje się sumę kar lub środków karnych wymierzonych za te wykroczenia.
 
-**Art. 83.** . 1. Kto obchodzi z materia'lami wybuchowymi, zapalnymi substancjami prc>mienio· twórczymi albo wykracza przeciwko przepisom o wyrobie. przechowywaniu. takich :podlega karze aresztu, grzywny albo karze nagany. 2. W razie wykroczenia orzec rzeczy przedmiot wykroczenia. XI Wykroczenia przeciwko , I w komunikacjlo
+**Art. 11.**
 
-**Art. 84.** Kto wbrew nie oznacza w sposób wymaganiom i dostrzegalny, za,równo w jak I w porze nocnej. jakiejkolwiek przeszkody w ruchu drogowym. przedmiotu na drodze miejsca prowadzonych robót, to ruchu albo ruc'h lila drodze; podlega aresztu albo grzywny . .
+§ 1. Odpowiada za usiłowanie, kto w zamiarze popełnienia czynu zabronionego swoim zachowaniem bezpośrednio zmierza do jego dokonania, które jednak nie następuje.
+
+§ 2. Odpowiedzialność za usiłowanie zachodzi, gdy ustawa tak stanowi.
+
+§ 3. Karę za usiłowanie wymierza się w granicach zagrożenia przewidzianego dla danego wykroczenia.
+
+§ 4. Nie podlega karze za usiłowanie, kto dobrowolnie odstąpił od czynu lub zapobiegł skutkowi stanowiącemu znamię czynu zabronionego.
+
+**Art. 12.** Odpowiada za podżeganie, kto chcąc, aby inna osoba dokonała czynu zabronionego, nakłania ją do tego.
+
+**Art. 13.** Odpowiada za pomocnictwo, kto w zamiarze, aby inna osoba dokonała czynu zabronionego, swoim zachowaniem ułatwia jego popełnienie, w szczególności dostarczając narzędzie, środek przewozu, udzielając rady lub informacji; odpowiada za pomocnictwo także ten, kto wbrew prawnemu, szczególnemu obowiązkowi niedopuszczenia do popełnienia czynu zabronionego swoim zaniechaniem ułatwia innej osobie jego popełnienie.
+
+**Art. 14.**
+
+§ 1. Odpowiedzialność za podżeganie i pomocnictwo zachodzi wtedy, gdy ustawa tak stanowi i tylko w razie dokonania przez sprawcę czynu zabronionego.
+
+§ 2. Każdy ze współdziałających w popełnieniu czynu zabronionego odpowiada w granicach swojej umyślności lub nieumyślności, niezależnie od odpowiedzialności pozostałych współdziałających.
+
+§ 3. Karę za podżeganie lub za pomocnictwo wymierza się w granicach zagrożenia przewidzianego dla danego wykroczenia.
+
+**Art. 15.** Nie popełnia wykroczenia, kto w obronie koniecznej odpiera bezpośredni bezprawny zamach na jakiekolwiek dobro chronione prawem.
+
+**Art. 16.**
+
+§ 1. Nie popełnia wykroczenia, kto działa w celu uchylenia bezpośredniego niebezpieczeństwa grożącego dobru chronionemu prawem, jeżeli niebezpieczeństwa nie można inaczej uniknąć, a dobro poświęcone nie przedstawia wartości oczywiście większej niż dobro ratowane.
+
+§ 2. Przepisu § 1 nie stosuje się, gdy sprawca poświęca dobro, które ma szczególny obowiązek chronić nawet z narażeniem się na niebezpieczeństwa osobiste.
+
+**Art. 17.**
+
+§ 1. Nie popełnia wykroczenia, kto, z powodu choroby psychicznej, upośledzenia umysłowego lub innego zakłócenia czynności psychicznych, nie mógł w czasie czynu rozpoznać jego znaczenia lub pokierować swoim postępowaniem.
+
+§ 2. Jeżeli w czasie popełnienia wykroczenia zdolność rozpoznawania znaczenia czynu lub kierowania postępowaniem była w znacznym stopniu ograniczona, można odstąpić od wymierzenia kary lub środka karnego.
+
+§ 3. Przepisów § 1 i 2 nie stosuje się, gdy sprawca wykroczenia wprawił się w stan nietrzeźwości lub odurzenia powodujący wyłączenie lub ograniczenie poczytalności, które przewidywał albo mógł przewidzieć.
+
+#### Rozdział II Kary, środki karne i zasady ich wymiaru
+
+**Art. 18.** Karami są:
+
+**Art. 19.** Kara aresztu trwa najkrócej 5, najdłużej 30 dni; wymierza się ją w dniach.
+
+**Art. 20.**
+
+§ 1. Kara ograniczenia wolności trwa 1 miesiąc.
+
+§ 2. W czasie odbywania kary ograniczenia wolności ukarany:
+
+- **1)** nie może bez zgody sądu zmieniać miejsca stałego pobytu;
+- **2)** jest obowiązany do wykonywania nieodpłatnej kontrolowanej pracy na cele społeczne;
+- **3)** ma obowiązek udzielania wyjaśnień dotyczących przebiegu odbywania kary.
+
+**Art. 21.**
+
+§ 1. Obowiązek określony w art. 20 § 2 pkt 2 polega na wykonywaniu nieodpłatnej kontrolowanej pracy na cele społeczne w odpowiednim zakładzie pracy, placówce służby zdrowia, opieki społecznej, organizacji lub instytucji niosącej pomoc charytatywną lub na rzecz społeczności lokalnej w wymiarze od 20 do 40 godzin.
+
+§ 2. W stosunku do osoby zatrudnionej organ orzekający, zamiast obowiązku określonego w § 1, może orzec potrącenie od 10 do 25 % wynagrodzenia za pracę na rzecz Skarbu Państwa albo na cel społeczny wskazany przez organ orzekający; w okresie odbywania kary ukarany nie może rozwiązać bez zgody sądu stosunku pracy.
+
+§ 3. (uchylony)
+
+**Art. 22.** Wymierzając karę ograniczenia wolności, organ orzekający może zobowiązać ukaranego do:
+
+**Art. 23.**
+
+§ 1. Jeżeli ukarany uchyla się od odbywania kary ograniczenia wolności lub wykonania nałożonych na niego obowiązków, a także w przypadku gdy ukarany wykonał część kary ograniczenia wolności, sąd zarządza wykonanie zastępczej kary aresztu w wymiarze odpowiadającym karze ograniczenia wolności pozostałej do wykonania, przyjmując, że jeden dzień zastępczej kary aresztu jest równoważny dwóm dniom kary ograniczenia wolności.
+
+§ 2. Na postanowienie w przedmiocie zarządzenia wykonania zastępczej kary aresztu przysługuje zażalenie.
+
+**Art. 24.**
+
+§ 1. Grzywnę wymierza się w wysokości od 20 do 5000 złotych, chyba że ustawa stanowi inaczej.
+
+§ 1a. Za wykroczenia określone w art. 82 § 1–3, 4 i 5, art. 86 § 1, 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 1 i 2, art. 92a § 2, art. 92b, art. 93 § 1, art. 94 § 1, art. 96 § 3 lub art. 97a grzywnę wymierza się w wysokości do 30 000 złotych.
+
+§ 2. Jeżeli za wykroczenie popełnione w celu osiągnięcia korzyści majątkowej wymierzono karę aresztu, orzeka się obok tej kary również grzywnę, chyba że orzeczenie grzywny nie byłoby celowe.
+
+§ 3. Wymierzając grzywnę, bierze się pod uwagę dochody sprawcy, jego warunki osobiste i rodzinne, stosunki majątkowe i możliwości zarobkowe.
+
+**Art. 25.**
+
+§ 1. Jeżeli egzekucja grzywny okazała się bezskuteczna lub z okoliczności sprawy wynika, że byłaby ona bezskuteczna, sąd może zamienić grzywnę na pracę społecznie użyteczną, określając czas jej trwania. Praca społecznie użyteczna trwa najkrócej tydzień, najdłużej 2 miesiące. Przepisy art. 20 § 2 i art. 21 § 1 stosuje się odpowiednio.
+
+§ 2. Jeżeli egzekucja grzywny okazała się bezskuteczna lub z okoliczności sprawy wynika, że byłaby ona bezskuteczna, sąd zarządza wykonanie zastępczej kary aresztu, gdy:
+
+- **1)** ukarany oświadczy, że nie wyraża zgody na podjęcie pracy społecznie użytecznej zamienionej na podstawie § 1 albo uchyla się od jej wykonania, lub
+- **2)** zamiana grzywny na pracę społecznie użyteczną jest niemożliwa lub niecelowa.
+
+§ 3. Zarządzając wykonanie zastępczej kary aresztu sąd przyjmuje, że jeden dzień zastępczej kary aresztu jest równoważny grzywnie od 20 do 150 złotych; kara zastępcza nie może przekroczyć 30 dni aresztu.
+
+§ 4. Na postanowienie w przedmiocie kar zastępczych, o których mowa w § 1 i 2, przysługuje zażalenie.
+
+**Art. 26.** Nie można wymierzyć kary aresztu lub zastępczej kary aresztu, jeżeli warunki osobiste sprawcy uniemożliwiają odbycie tej kary.
+
+**Art. 27.**
+
+§ 1. Od zastępczej kary aresztu lub wykonywania pracy, o której mowa w art. 25 § 1, sprawca może być uwolniony w każdym czasie przez wpłacenie kwoty pieniężnej przypadającej jeszcze do uiszczenia.
+
+§ 2. Jeżeli grzywna została uiszczona w części, karę zastępczą zmniejsza się w sposób odpowiadający stosunkowi kwoty zapłaconej w wysokości grzywny.
+
+**Art. 28.**
+
+§ 1. Środkami karnymi są:
+
+- **1)** zakaz prowadzenia pojazdów;
+- **2)** przepadek przedmiotów;
+- **3)** nawiązka;
+- **4)** obowiązek naprawienia szkody;
+- **5)** podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób;
+- **6)** inne środki karne określone przez ustawę.
+
+§ 2. Środki karne można orzec, jeżeli są one przewidziane w przepisie szczególnym, a orzeka się je, jeżeli przepis szczególny tak stanowi.
+
+§ 3. Przepadek przedmiotów można orzec, choćby zachodziła okoliczność wyłączająca ukaranie sprawcy.
+
+§ 4. Obowiązek naprawienia szkody orzeka się w sposób określony w przepisie szczególnym.
+
+**Art. 29.**
+
+§ 1. Zakaz prowadzenia pojazdów wymierza się w miesiącach lub latach, na okres od 6 miesięcy do 3 lat.
+
+§ 2. Orzekając zakaz prowadzenia pojazdów określa się rodzaj pojazdu, którego zakaz dotyczy.
+
+§ 3. Zakaz, o którym mowa w § 1, obowiązuje od uprawomocnienia się orzeczenia.
+
+§ 4. Na poczet zakazu prowadzenia pojazdów zalicza się okres zatrzymania prawa jazdy lub innego dokumentu uprawniającego do prowadzenia pojazdu.
+
+**Art. 30.**
+
+§ 1. Przepadek przedmiotów obejmuje narzędzia lub inne przedmioty, które służyły lub były przeznaczone do popełnienia wykroczenia, a jeżeli przepis szczególny tak stanowi – także przedmioty pochodzące bezpośrednio lub pośrednio z wykroczenia.
+
+§ 2. Przepadek przedmiotów niebędących własnością sprawcy wykroczenia można orzec tylko wtedy, gdy przepis szczególny tak stanowi.
+
+§ 3. Przepadek przedmiotów następuje z chwilą uprawomocnienia się orzeczenia.
+
+§ 4. Przedmioty objęte przepadkiem przechodzą na własność Skarbu Państwa, chyba że ustawa stanowi inaczej.
+
+§ 5. Przepadku nie orzeka się, jeżeli byłoby to niewspółmierne do wagi popełnionego wykroczenia, chyba że chodzi o przedmiot pochodzący bezpośrednio z wykroczenia.
+
+**Art. 31.**
+
+§ 1. Podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób orzeka się wtedy, gdy może to mieć znaczenie wychowawcze.
+
+§ 2. Środek karny określony w § 1 polega na ogłoszeniu orzeczenia w zakładzie pracy, w uczelni, w miejscu zamieszkania ukaranego, w innym właściwym miejscu lub w inny stosowny sposób. Ogłoszenie może nastąpić na koszt ukaranego.
+
+**Art. 32.** Nawiązkę orzeka się na rzecz pokrzywdzonego w wypadkach przewidzianych w przepisach szczególnych.
+
+**Art. 33.**
+
+§ 1. Organ orzekający wymierza karę według swojego uznania, w granicach przewidzianych przez ustawę za dane wykroczenie, oceniając stopień społecznej szkodliwości czynu i biorąc pod uwagę cele kary w zakresie społecznego oddziaływania oraz cele zapobiegawcze i wychowawcze, które ma ona osiągnąć w stosunku do ukaranego.
+
+§ 2. Wymierzając karę, organ orzekający bierze pod uwagę w szczególności rodzaj i rozmiar szkody wyrządzonej wykroczeniem, stopień winy, pobudki, sposób działania, stosunek do pokrzywdzonego, jak również właściwości, warunki osobiste i majątkowe sprawcy, jego stosunki rodzinne, sposób życia przed popełnieniem i zachowanie się po popełnieniu wykroczenia.
+
+§ 3. Jako okoliczności łagodzące uwzględnia się w szczególności:
+
+- **1)** działanie sprawcy wykroczenia pod wpływem ciężkich warunków rodzinnych lub osobistych;
+- **2)** działanie sprawcy wykroczenia pod wpływem silnego wzburzenia wywołanego krzywdzącym stosunkiem do niego lub do innych osób;
+- **3)** działanie z pobudek zasługujących na uwzględnienie;
+- **4)** prowadzenie przez sprawcę nienagannego życia przed popełnieniem wykroczenia i wyróżnianie się spełnianiem obowiązków, zwłaszcza w zakresie pracy;
+- **5)** przyczynienie się lub staranie się sprawcy o przyczynienie się do usunięcia szkodliwych następstw swego czynu.
+
+§ 4. Jako okoliczności obciążające uwzględnia się w szczególności:
+
+- **1)** (uchylony)
+- **2)** działanie sprawcy w celu osiągnięcia bezprawnej korzyści majątkowej;
+- **3)** działanie w sposób zasługujący na szczególne potępienie;
+- **4)** (uchylony)
+- **5)** uprzednie ukaranie sprawcy za podobne przestępstwo lub wykroczenie;
+- **6)** chuligański charakter wykroczenia;
+- **7)** działanie pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka;
+- **8)** popełnienie wykroczenia na szkodę osoby bezradnej lub osoby, której sprawca powinien okazać szczególne względy;
+- **9)** popełnienie wykroczenia we współdziałaniu z małoletnim.
+
+§ 5. Przepisy § 1–4 stosuje się odpowiednio do środków karnych.
+
+**Art. 34.** Okoliczności wpływające na wymiar kary i środka karnego uwzględnia się tylko co do osoby, której dotyczą.
+
+**Art. 35.** Jeżeli ustawa daje możność wyboru między aresztem a inną karą, areszt można orzec tylko wtedy, gdy czyn popełniono umyślnie, a zarazem za orzeczeniem kary aresztu przemawia waga czynu lub okoliczności sprawy świadczą o demoralizacji sprawcy albo sposób jego działania zasługuje na szczególne potępienie.
+
+**Art. 36.**
+
+§ 1. Naganę można orzec wtedy, gdy ze względu na charakter i okoliczności czynu lub właściwości i warunki osobiste sprawcy należy przypuszczać, że zastosowanie tej kary jest wystarczające do wdrożenia go do poszanowania prawa i zasad współżycia społecznego.
+
+§ 2. Nie można orzec nagany za wykroczenie o charakterze chuligańskim.
+
+**Art. 37.** Jeżeli wykroczeniem o charakterze chuligańskim została wyrządzona szkoda, można orzec nawiązkę do wysokości 1000 złotych na rzecz pokrzywdzonego albo na rzecz Polskiego Czerwonego Krzyża lub na inny cel społeczny wskazany przez organ orzekający.
+
+**Art. 37a.** (uchylony)
+
+**Art. 38.**
+
+§ 1. Ukaranemu co najmniej dwukrotnie za podobne wykroczenia umyślne, który w ciągu dwóch lat od ostatniego ukarania popełnia ponownie podobne wykroczenie umyślne, można wymierzyć karę aresztu, choćby było zagrożone karą łagodniejszą.
+
+§ 2. Kierującemu pojazdem mechanicznym ukaranemu za wykroczenie określone w art. 86 § 1a i 2, art. 86b § 1, art. 86c, art. 87 § 1, art. 92 § 2, art. 92a § 2, art. 92b, art. 94 § 1 albo art. 97a, który w ciągu dwóch lat od ostatniego prawomocnego ukarania popełnia to samo wykroczenie, wymierza się karę grzywny w wysokości nie niższej niż dwukrotność dolnej granicy ustawowego zagrożenia.
+
+**Art. 39.**
+
+§ 1. W wypadkach zasługujących na szczególne uwzględnienie można – biorąc pod uwagę charakter i okoliczności czynu lub właściwości i warunki osobiste sprawcy – zastosować nadzwyczajne złagodzenie kary albo odstąpić od wymierzenia kary lub środka karnego.
+
+§ 2. Nadzwyczajne złagodzenie polega na wymierzeniu kary poniżej dolnej granicy ustawowego zagrożenia albo kary łagodniejszego rodzaju.
+
+§ 3. (uchylony) § 4. W razie odstąpienia od wymierzenia kary można zastosować do sprawcy środek oddziaływania społecznego, mający na celu przywrócenie naruszonego porządku prawnego lub naprawienie wyrządzonej krzywdy, polegający zwłaszcza na przeproszeniu pokrzywdzonego, uroczystym zapewnieniu niepopełniania więcej takiego czynu albo zobowiązania sprawcy do przywrócenia stanu poprzedniego.
+
+#### Rozdział III Zastosowanie środków oddziaływania wychowawczego
+
+**Art. 40.** (uchylony)
+
+**Art. 41.** W stosunku do sprawcy czynu można poprzestać na zastosowaniu pouczenia, zwróceniu uwagi, ostrzeżeniu lub na zastosowaniu innych środków oddziaływania wychowawczego.
+
+#### Rozdział IV Warunkowe zawieszenie wykonania kary aresztu
+
+**Art. 42.**
+
+§ 1. Wykonanie kary aresztu można warunkowo zawiesić, jeżeli ze względu na okoliczności popełnienia wykroczenia, właściwości i warunki osobiste sprawcy oraz jego zachowanie się po popełnieniu wykroczenia należy przypuszczać, że pomimo niewykonania kary nie popełni on nowego podobnego przestępstwa lub wykroczenia.
+
+§ 2. Warunkowe zawieszenie wykonania kary następuje na okres próby, który nie może być krótszy niż 6 miesięcy i nie może przekroczyć roku. Okres próby biegnie od uprawomocnienia się orzeczenia.
+
+§ 3. Jeżeli wykroczeniem została wyrządzona szkoda w mieniu, warunkowe zawieszenie wykonania kary może być orzeczone tylko wtedy, gdy szkoda została w całości naprawiona.
+
+**Art. 43.** Warunkowego zawieszenia wykonania kary nie stosuje się do sprawcy, który:
+
+**Art. 44.**
+
+§ 1. Sąd, który orzekł karę aresztu zarządza wykonanie kary, jeżeli ukarany w okresie próby popełnił podobne do poprzedniego przestępstwo lub wykroczenie.
+
+§ 2. Sąd, który orzekł karę aresztu może zarządzić wykonanie kary, jeżeli ukarany w okresie próby popełnił inne przestępstwo lub wykroczenie niż wymienione w § 1.
+
+§ 3. Jeżeli w okresie próby i w ciągu dalszych 2 miesięcy nie zarządzono wykonania kary, ukaranie uważa się za niebyłe.
+
+§ 4. Na postanowienie w przedmiocie zarządzenia wykonania kary aresztu przysługuje zażalenie.
+
+#### Rozdział V Przedawnienie orzekania, wykonania kary oraz zatarcie ukarania
+
+**Art. 45.**
+
+§ 1. Karalność wykroczenia ustaje, jeżeli od czasu jego popełnienia upłynął rok; jeżeli w tym okresie wszczęto postępowanie, karalność wykroczenia ustaje z upływem 2 lat od zakończenia tego okresu.
+
+§ 2. W razie uchylenia prawomocnego rozstrzygnięcia, przedawnienie biegnie od daty uchylenia rozstrzygnięcia.
+
+§ 2a. W wypadku wszczęcia postępowania mediacyjnego czasu jego trwania nie wlicza się do okresu przedawnienia.
+
+§ 3. Orzeczona kara lub środek karny nie podlega wykonaniu, jeżeli od daty uprawomocnienia się rozstrzygnięcia upłynęły 3 lata.
+
+**Art. 46.**
+
+§ 1. Ukaranie uważa się za niebyłe po upływie 2 lat od wykonania, darowania lub przedawnienia wykonania kary.
+
+§ 2. Jeżeli ukarany przed upływem okresu przewidzianego w § 1 popełnił nowe wykroczenie, za które wymierzono mu karę aresztu, ograniczenia wolności lub grzywny, ukaranie za oba wykroczenia uważa się za niebyłe po upływie 2 lat od wykonania, darowania albo od przedawnienia wykonania kary za nowe wykroczenie.
+
+§ 3. Jeżeli orzeczono środek karny, uznanie ukarania za niebyłe nie może nastąpić przed jego wykonaniem, darowaniem albo przedawnieniem wykonania.
+
+#### Rozdział VI Wyjaśnienie wyrażeń ustawowych
+
+**Art. 47.**
+
+§ 1. Czynem zabronionym jest zachowanie o znamionach określonych w ustawie karnej.
+
+§ 2. Przestępstwami i wykroczeniami podobnymi są przestępstwa i wykroczenia należące do tego samego rodzaju; przestępstwa i wykroczenia z zastosowaniem przemocy lub groźby jej użycia albo przestępstwa i wykroczenia popełnione w celu osiągnięcia korzyści majątkowej uważa się za przestępstwa i wykroczenia podobne.
+
+§ 3. Osobą najbliższą jest małżonek, wstępny, zstępny, rodzeństwo, powinowaty w tej samej linii lub stopniu, osoba pozostająca w stosunku przysposobienia oraz jej małżonek, a także osoba pozostająca we wspólnym pożyciu.
+
+§ 4. Instytucją państwową, samorządową lub społeczną jest również przedsiębiorstwo, w którym Skarb Państwa lub jednostka samorządu terytorialnego jest udziałowcem, spółdzielnia, związek zawodowy, inna organizacja społeczna lub jednostka wojskowa.
+
+§ 5. Charakter chuligański mają wykroczenia polegające na umyślnym godzeniu w porządek lub spokój publiczny albo umyślnym niszczeniu lub uszkadzaniu mienia, jeżeli sprawca działał publicznie oraz w rozumieniu powszechnym bez powodu lub z oczywiście błahego powodu, okazując przez to rażące lekceważenie podstawowych zasad porządku prawnego.
+
+§ 6. Przy ocenie stopnia społecznej szkodliwości czynu bierze się pod uwagę rodzaj i charakter naruszonego dobra, rozmiary wyrządzonej lub grożącej szkody, sposób i okoliczności popełnienia czynu, wagę naruszonych przez sprawcę obowiązków, jak również postać zamiaru, motywację sprawcy, rodzaj naruszonych reguł ostrożności i stopień ich naruszenia.
+
+§ 7. Rzeczą ruchomą lub przedmiotem jest także polski albo obcy pieniądz lub inny środek płatniczy oraz dokument uprawniający do otrzymania sumy pieniężnej albo zawierający obowiązek wypłaty kapitału, odsetek, udziału w zyskach albo stwierdzenie uczestnictwa w spółce.
+
+§ 8. Dokumentem jest każdy przedmiot lub inny zapisany nośnik informacji, z którym jest związane określone prawo, albo który ze względu na zawartą w nim treść stanowi dowód prawa, stosunku prawnego lub okoliczności mającej znaczenie prawne.
+
+§ 9. (uchylony)
+
+#### Rozdział VII Stosunek do ustaw szczególnych
+
+**Art. 48.** Przepisy części ogólnej Kodeksu wykroczeń stosuje się do wykroczeń przewidzianych w innych ustawach, jeżeli ustawy te nie zawierają przepisów odmiennych.
+
+## CZĘŚĆ SZCZEGÓLNA
+
+#### Rozdział VIII Wykroczenia przeciwko porządkowi i spokojowi publicznemu
+
+**Art. 49.**
+
+§ 1. Kto w miejscu publicznym demonstracyjnie okazuje lekceważenie Narodowi Polskiemu, Rzeczypospolitej Polskiej lub jej konstytucyjnym organom, podlega karze aresztu albo grzywny.
+
+§ 2. Tej samej karze podlega, kto narusza przepisy o godle, barwach i hymnie Rzeczypospolitej Polskiej.
+
+**Art. 49a.**
+
+§ 1. Kto wbrew przepisom przekracza granicę Rzeczypospolitej Polskiej, podlega karze grzywny.
+
+§ 2. Usiłowanie i pomocnictwo są karalne.
+
+**Art. 50.** Kto nie opuszcza zbiegowiska publicznego pomimo wezwania właściwego organu, podlega karze aresztu albo grzywny.
+
+**Art. 50a.**
+
+§ 1. Kto w miejscu publicznym posiada nóż, maczetę lub inny podobnie niebezpieczny przedmiot, a okoliczności jego posiadania wskazują na zamiar użycia go w celu popełnienia przestępstwa, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 3000 zł.
+
+§ 1a. Tej samej karze podlega, kto będąc uczestnikiem przejazdu zorganizowanej grupy uczestników masowej imprezy sportowej, posiada przedmioty określone w § 1 lub wyroby pirotechniczne.
+
+§ 2. W razie popełnienia wykroczenia określonego w § 1 lub 1a orzeka się przepadek przedmiotów stanowiących przedmiot wykroczenia, choćby nie stanowiły własności sprawcy.
+
+**Art. 51.**
+
+§ 1. Kto krzykiem, hałasem, alarmem lub innym wybrykiem zakłóca spokój, porządek publiczny, spoczynek nocny albo wywołuje zgorszenie w miejscu publicznym, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Jeżeli czyn określony w § 1 ma charakter chuligański lub sprawca dopuszcza się go, będąc pod wpływem alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych § 2a. Tej samej karze podlega, kto dopuszcza się czynu określonego w § 1 w zakładzie leczniczym w rozumieniu ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2025 r. poz. 450, 620, 637 i 1211) lub w trakcie akcji medycznej w rozumieniu ustawy z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2025 r. poz. 91 i 637), lub w siedzibie organu administracji rządowej, innego organu państwowego lub samorządu terytorialnego.
+
+§ 3. Podżeganie i pomocnictwo są karalne.
+
+**Art. 52.**
+
+§ 1. Kto bierze udział w zgromadzeniu, posiadając przy sobie broń, materiały wybuchowe, wyroby pirotechniczne lub inne niebezpieczne materiały lub narzędzia – podlega karze aresztu do 14 dni, karze ograniczenia wolności albo karze grzywny.
+
+§ 2. Kto:
+
+- **1)** przeszkadza lub usiłuje przeszkodzić w organizowaniu lub w przebiegu niezakazanego zgromadzenia,
+- **2)** organizuje zgromadzenie bez wymaganego zawiadomienia lub przewodniczy takiemu zgromadzeniu lub zgromadzeniu zakazanemu,
+- **3)** przewodniczy zgromadzeniu po rozwiązaniu go,
+- **4)** bezprawnie zajmuje lub wzbrania się opuścić miejsce, którym inna osoba lub organizacja prawnie rozporządza jako organizator lub przewodniczący zgromadzenia – podlega karze ograniczenia wolności albo grzywny.
+
+§ 3. Kto:
+
+- **1)** będąc przewodniczącym lub organizatorem zgromadzenia, umyślnie nie podejmuje środków niezbędnych dla zapewnienia zgodnego z przepisami prawa przebiegu zgromadzenia oraz zapobieżenia powstaniu szkód z winy uczestników zgromadzenia,
+- **2)** nie podporządkowuje się żądaniom lub poleceniom przewodniczącego zgromadzenia lub jego organizatora, o których mowa w ustawie z dnia 24 lipca 2015 r. – Prawo o zgromadzeniach (Dz. U. z 2022 r. poz. 1389),
+- **3)** wzbrania się opuścić miejsce zgromadzenia po jego rozwiązaniu – podlega karze grzywny.
+
+§ 4. Podżeganie i pomocnictwo są karalne.
+
+**Art. 52a.** Kto:
+
+**Art. 52b.** Kto zużywa olej opałowy do celów napędowych, podlega karze grzywny do 500 zł.
+
+**Art. 53.** (uchylony)
+
+**Art. 54.** Kto wykracza przeciwko wydanym z upoważnienia ustawy przepisom porządkowym o zachowaniu się w miejscach publicznych, podlega karze grzywny do 500 złotych albo karze nagany.
+
+**Art. 55.** Kto kąpie się w miejscu, w którym jest to zabronione, podlega karze grzywny do 250 złotych albo karze nagany.
+
+**Art. 56.**
+
+§ 1. Kto bez wymaganego zgłoszenia zbiórki publicznej lub niezgodnie ze zgłoszeniem zbiórki publicznej organizuje lub przeprowadza publiczną zbiórkę ofiar, podlega karze grzywny.
+
+§ 2. Podżeganie i pomocnictwo są karalne.
+
+§ 3. Można orzec przepadek przedmiotów uzyskanych ze zbiórki publicznej przeprowadzonej niezgodnie ze zgłoszeniem, orzeka się zaś ich przepadek, gdy zbiórkę publiczną przeprowadzono bez zgłoszenia.
+
+§ 4. Można orzec przepadek przedmiotów uzyskanych z czynu określonego w § 1 także wtedy, gdy zostały one przekazane przez sprawcę innej osobie lub instytucji, jak i przepadek pieniędzy uzyskanych za zebrane ofiary w naturze i rzeczy nabytych za uzyskane ze zbiórki publicznej pieniądze.
+
+§ 5. Przedmioty, co do których orzeczono przepadek, należy przekazać instytucji pomocy społecznej lub instytucji kultury.
+
+**Art. 57.**
+
+§ 1. Kto:
+
+- **1)** organizuje lub przeprowadza zbiórkę ofiar na uiszczenie grzywny orzeczonej za przestępstwo, przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe, świadczenia pieniężnego, przepadku przedmiotów stanowiących kwotę pieniężną, równowartości przepadku przedmiotów lub przedsiębiorstwa, przepadku korzyści majątkowej stanowiącej kwotę pieniężną, równowartości przepadku korzyści majątkowej, odszkodowania, zadośćuczynienia, nawiązki, podlegającej zwrotowi korzyści majątkowej stanowiącej kwotę pieniężną albo równowartości podlegającej zwrotowi korzyści majątkowej lub na poręczenie majątkowe lub zabezpieczenie majątkowe,
+- **2)** nie będąc osobą najbliższą dla skazanego lub ukaranego uiszcza za niego grzywnę, świadczenie pieniężne, kwotę pieniężną stanowiącą przedmiot przepadku, równowartość przepadku przedmiotów lub przedsiębiorstwa, kwotę pieniężną stanowiącą przedmiot przepadku korzyści majątkowej, równowartość przepadku korzyści majątkowej, nawiązkę, podlegającą zwrotowi korzyść majątkową stanowiącą kwotę pieniężną albo równowartość podlegającej zwrotowi korzyści majątkowej lub uiszcza odszkodowanie lub zadośćuczynienie lub ofiarowuje mu albo osobie dla niego najbliższej pieniądze na ten cel – podlega karze aresztu albo grzywny.
+
+§ 2. Podżeganie i pomocnictwo są karalne.
+
+§ 3. Przepadkowi podlegają:
+
+- **1)** zebrane ofiary lub pieniądze uzyskane za zebrane ofiary w naturze, o których mowa w § 1 pkt 1;
+- **2)** pieniądze wpłacone na poczet należności lub ofiarowane na cel, o których mowa w § 1 pkt 2.
+
+§ 4. Przedmioty, co do których orzeczono przepadek, należy przekazać instytucji pomocy społecznej lub instytucji kulturalno-oświatowej.
+
+**Art. 58.**
+
+§ 1. Kto, mając środki egzystencji lub będąc zdolny do pracy, żebrze w miejscu publicznym, podlega karze ograniczenia wolności, grzywny do 1500 złotych albo karze nagany.
+
+§ 2. Kto żebrze w miejscu publicznym w sposób natarczywy lub oszukańczy, podlega karze aresztu albo ograniczenia wolności.
+
+**Art. 59.** (uchylony)
+
+**Art. 60.** (uchylony)
+
+**Art. 60¹.**
+
+§ 1. Kto wykonuje działalność gospodarczą bez wymaganego zgłoszenia do ewidencji działalności gospodarczej, wpisu do rejestru działalności regulowanej lub bez wymaganej koncesji albo zezwolenia, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto nie dopełnia obowiązku zgłaszania do ewidencji działalności gospodarczej zmian danych objętych wpisem.
+
+§ 3. Kto będąc przedsiębiorcą wprowadza do obrotu towar bez wymaganych oznaczeń, podlega karze grzywny.
+
+§ 4. Kto:
+
+- **1)** wykonuje odpłatnie zadania przewodnika górskiego bez uprawnień wymaganych dla określonego obszaru górskiego, 1a) prowadzi szkolenie dla kandydatów na przewodników górskich bez wymaganego wpisu do rejestru organizatorów szkoleń,
+- **2)** świadcząc usługi hotelarskie używa nazw rodzajowych lub określenia kategorii obiektów hotelarskich bez decyzji lub niezgodnie z decyzją, 2a) świadcząc usługi hotelarskie, używa oznaczeń, które mogą wprowadzić klientów w błąd co do rodzaju lub kategorii obiektu hotelarskiego,
+- **3)** wbrew obowiązkowi świadczy usługi hotelarskie w obiekcie niezgłoszonym do ewidencji,
+- **4)** świadczy usługi hotelarskie wbrew decyzji nakazującej wstrzymanie ich świadczenia,
+- **5)** nie zawiadamia organu prowadzącego rejestr organizatorów turystyki i przedsiębiorców ułatwiających nabywanie powiązanych usług turystycznych o zawieszeniu wykonywania działalności w terminie 7 dni od dnia tego zawieszenia – podlega karze ograniczenia wolności albo grzywny.
+
+§ 5. (uchylony) § 6. (uchylony) § 7. (uchylony)
+
+**Art. 60².** (uchylony)
+
+**Art. 60³.**
+
+§ 1. Kto prowadzi sprzedaż na terenie należącym do gminy lub będącym w jej zarządzie poza miejscem do tego wyznaczonym przez właściwe organy gminy, podlega karze grzywny.
+
+§ 2. W razie popełnienia wykroczenia, określonego w § 1, można orzec przepadek towarów przeznaczonych do sprzedaży, choćby nie stanowiły własności sprawcy.
+
+**Art. 61.**
+
+§ 1. Kto przywłaszcza sobie stanowisko, tytuł lub stopień albo publicznie używa lub nosi odznaczenie, odznakę, strój lub mundur, do których nie ma prawa, podlega karze grzywny do 1000 złotych albo karze nagany.
+
+§ 2. Kto ustanawia, wytwarza, rozpowszechnia publicznie, używa lub nosi: godło, chorągiew albo inną odznakę lub mundur, co do których został wydany zakaz, albo odznakę lub mundur organizacji prawnie nieistniejącej, albo odznakę lub mundur, na których ustanowienie lub noszenie nie uzyskano wymaganego zezwolenia, podlega karze aresztu albo grzywny.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 można orzec, a w razie popełnienia wykroczenia określonego w § 2 orzeka się przepadek wymienionych w tych przepisach przedmiotów, jak również innych przedmiotów służących do popełnienia wykroczenia, takich jak pieczęcie, stemple, papier firmowy lub bilety wizytowe, choćby nie stanowiły własności sprawcy.
+
+**Art. 62.** (uchylony)
+
+**Art. 63.**
+
+§ 1. Kto bez złożenia pisemnego wniosku o dokonanie wpisu do rejestru przedsiębiorców telekomunikacyjnych wykonuje działalność telekomunikacyjną, podlega karze aresztu, ograniczenia wolności lub grzywny.
+
+§ 2. (uchylony) § 3. Kto wprowadza do obrotu urządzenia radiowe i telekomunikacyjne urządzenia końcowe podlegające obowiązkowej ocenie zgodności z zasadniczymi wymaganiami, nieposiadające wymaganego znaku zgodności, podlega karze grzywny.
+
+§ 4. (uchylony)
+
+**Art. 63a.**
+
+§ 1. Kto umieszcza w miejscu publicznym do tego nieprzeznaczonym ogłoszenie, plakat, afisz, apel, ulotkę, napis lub rysunek albo wystawia je na widok publiczny w innym miejscu bez zgody zarządzającego tym miejscem, podlega karze ograniczenia wolności albo grzywny.
+
+§ 1a. Podżeganie i pomocnictwo są karalne.
+
+§ 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, oraz nawiązkę w wysokości do 1500 złotych lub obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 63b.**
+
+§ 1. Kto umieszcza reklamę, o której mowa w art. 4 pkt 23 ustawy z dnia 21 marca 1985 r. o drogach publicznych (Dz. U. z 2024 r. poz. 320 i 1222 oraz z 2025 r. poz. 641) z naruszeniem warunków jej sytuowania określonych w art. 42a tej ustawy, o gabarytach większych niż dopuszczalne lub wykonane z wyrobów innych niż dopuszczalne, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Podżeganie i pomocnictwo są karalne.
+
+§ 3. W razie popełnienia wykroczenia można orzec przepadek przedmiotów służących lub przeznaczonych do popełnienia wykroczenia, choćby nie stanowiły własności sprawcy, lub obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 64.** (uchylony)
+
+#### Rozdział IX Wykroczenia przeciwko instytucjom państwowym, samorządowym i społecznym
+
+**Art. 65.**
+
+§ 1. Kto umyślnie wprowadza w błąd organ państwowy lub instytucję upoważnioną z mocy ustawy do legitymowania:
+
+- **1)** co do tożsamości własnej lub innej osoby,
+- **2)** co do swego obywatelstwa, zawodu, miejsca zatrudnienia lub zamieszkania, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto wbrew obowiązkowi nie udziela właściwemu organowi państwowemu lub instytucji, upoważnionej z mocy ustawy do legitymowania, wiadomości lub dokumentów co do okoliczności wymienionych w § 1.
+
+**Art. 65a.** Kto, nie stosując się do poleceń określonego zachowania się wydawanych na podstawie prawa przez funkcjonariusza Policji, Żandarmerii Wojskowej, Straży Granicznej lub innego organu ochrony bezpieczeństwa lub porządku publicznego, umyślnie uniemożliwia lub istotnie utrudnia wykonanie czynności służbowej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 66.**
+
+§ 1. Kto:
+
+- **1)** chcąc wywołać niepotrzebną czynność, fałszywą informacją lub w inny sposób wprowadza w błąd instytucję użyteczności publicznej albo organ ochrony bezpieczeństwa, porządku publicznego lub zdrowia,
+- **2)** umyślnie, bez uzasadnionej przyczyny, blokuje telefoniczny numer alarmowy, utrudniając prawidłowe funkcjonowanie centrum powiadamiania ratunkowego – podlega karze aresztu, ograniczenia wolności albo grzywny do 1500 zł.
+
+§ 2. Jeżeli wykroczenie spowodowało niepotrzebną czynność, można orzec nawiązkę do wysokości 1000 złotych.
+
+**Art. 66a.** Osoba, wobec której wykonuje się karę, środek karny lub środek zabezpieczający, w systemie dozoru elektronicznego, albo osoba chroniona, która umyślnie dopuszcza do zniszczenia, uszkodzenia, uczynienia niezdatnym do użytku nadajnika, rejestratora stacjonarnego lub przenośnego stanowiących środki techniczne służące do wykonywania dozoru elektronicznego, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 66b.**
+
+§ 1. Kto nie stosuje się do wydanego przez:
+
+- **1)** Policję, na podstawie art. 15aa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636), albo Żandarmerię Wojskową, na podstawie art. 18a ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. z 2025 r. poz. 12 i 179), nakazu natychmiastowego opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia i zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia,
+- **2)** Policję, na podstawie art. 15aaa ust. 2 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo Żandarmerię Wojskową, na podstawie art. 18aa ust. 2 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, obiektu sportowego lub miejsca pracy, i przebywania na tym terenie, gdy osoba doznająca przemocy domowej przebywa na ich terenie,
+- **3)** sąd postanowienia o udzieleniu zabezpieczenia przez: o przeciwdziałaniu przemocy domowej (Dz. U. z 2024 r. poz. 1673),
+    - **a)** przedłużenie obowiązywania nakazu i zakazu lub zakazów, o których mowa w pkt 1 i 2,
+    - **b)** zobowiązanie osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub wydanie zakazu zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub zakazu wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r.
+
+- **4)** sąd postanowienia o zobowiązaniu osoby stosującej przemoc domową do opuszczenia wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia lub o zakazie zbliżania się do wspólnie zajmowanego mieszkania i jego bezpośredniego otoczenia, lub o zakazie wstępu na teren szkoły, placówki oświatowej, opiekuńczej lub artystycznej, lub obiektu sportowego, do których uczęszcza osoba doznająca przemocy domowej, miejsca pracy lub innego miejsca, w którym zwykle lub regularnie przebywa osoba doznająca przemocy domowej, i przebywania na tym terenie, o których mowa w art. 11a ust. 1 i art. 11aa ust. 4 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej – podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto umyślnie nie stosuje się do wydanego przez:
+
+- **1)** Policję, na podstawie art. 15aaa ust. 1 ustawy z dnia 6 kwietnia 1990 r. o Policji, albo Żandarmerię Wojskową, na podstawie art. 18aa ust. 1 ustawy z dnia 24 sierpnia 2001 r. o Żandarmerii Wojskowej i wojskowych organach porządkowych, zakazu zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą doznającą przemocy domowej;
+- **2)** sąd postanowienia o udzieleniu zabezpieczenia przez:
+    - **a)** przedłużenie obowiązywania zakazów, o których mowa w pkt 1,
+    - **b)** wydanie zakazu zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość lub zakazu kontaktowania się z osobą doznającą przemocy domowej, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej;
+
+- **3)** sąd postanowienia o zakazie zbliżania się do osoby doznającej przemocy domowej na wyrażoną w metrach odległość lub o zakazie kontaktowania się z osobą doznającą przemocy domowej, o których mowa w art. 11aa ust. 1 i 2 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej.
+
+**Art. 66c.** Kto uporczywie nie stosuje się do obowiązków określonych w art. 4 ust. 6 ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu przemocy domowej, podlega karze ograniczenia wolności albo grzywny.
+
+**Art. 67.**
+
+§ 1. Kto umyślnie uszkadza lub usuwa ogłoszenie wystawione publicznie przez instytucję państwową, samorządową albo organizację społeczną lub też w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, podlega karze aresztu albo grzywny.
+
+§ 2. Kto umyślnie uszkadza lub usuwa ogłoszenie, afisz lub plakat wystawiony publicznie przez instytucję artystyczną, rozrywkową lub sportową albo w inny sposób umyślnie uniemożliwia zaznajomienie się z takim ogłoszeniem, afiszem lub plakatem, podlega karze grzywny do 1000 złotych albo karze nagany.
+
+**Art. 68.**
+
+§ 1. Kto bez właściwego zamówienia wyrabia pieczęć, godło lub znak instytucji państwowej, samorządowej albo organizacji społecznej lub też taką pieczęć, godło lub znak wydaje osobie nieupoważnionej do odbioru, podlega karze grzywny.
+
+§ 2. Tej samej karze podlega, kto bezprawnie posiada, zamawia lub nabywa taką pieczęć.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 lub 2 pieczęć, godło lub znak podlegają przepadkowi.
+
+**Art. 69.** Kto umyślnie niszczy, uszkadza, usuwa lub w inny sposób czyni bezskutecznymi znaki umieszczone przez organ państwowy w celu stwierdzenia tożsamości przedmiotu, zamknięcia go lub poddania rozporządzeniu władzy, podlega karze aresztu, grzywny albo karze nagany.
+
+#### Rozdział X Wykroczenia przeciwko bezpieczeństwu osób i mienia
+
+**Art. 70.**
+
+§ 1. Kto, będąc niezdolny do czynności, której nieumiejętne wykonanie może wywołać niebezpieczeństwo dla życia lub zdrowia człowieka, taką czynność przedsiębierze albo kto porucza ją osobie do jej wykonania niezdolnej lub wbrew obowiązkowi nadzoru dopuszcza do wykonania takiej czynności przez osobę niezdolną, podlega karze aresztu albo grzywny.
+
+§ 2. Tej samej karze podlega, kto wbrew obowiązkowi zachowania trzeźwości znajduje się w stanie po użyciu alkoholu, środka odurzającego lub innej podobnie działającej substancji lub środka i podejmuje w tym stanie czynności zawodowe lub służbowe.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 lub 2, można orzec podanie orzeczenia do publicznej wiadomości w szczególny sposób.
+
+**Art. 71.** Kto przez wadliwe wykonanie urządzeń lub uczynienie ich niezdatnymi do funkcjonowania zgodnie z przeznaczeniem albo przez niewłaściwe ich użytkowanie lub samowolne uruchomienie wywołuje stan niebezpieczny dla życia lub zdrowia człowieka, podlega karze aresztu albo grzywny.
+
+**Art. 72.** Kto wbrew swemu obowiązkowi nie dokonuje odpowiedniego zabezpieczenia miejsca niebezpiecznego dla życia lub zdrowia człowieka, podlega karze aresztu albo grzywny.
+
+**Art. 73.** Kto wbrew swemu obowiązkowi nie zawiadamia odpowiedniego organu lub osoby o wiadomym mu niebezpieczeństwie grożącym życiu lub zdrowiu człowieka albo mieniu w znacznych rozmiarach, podlega karze aresztu albo grzywny.
+
+**Art. 74.**
+
+§ 1. Kto niszczy, uszkadza, usuwa lub czyni nieczytelnymi znaki lub napisy ostrzegające o grożącym niebezpieczeństwie dla życia lub zdrowia człowieka albo ogrodzenie lub inne urządzenie zapobiegające takiemu niebezpieczeństwu, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości zniszczonego lub uszkodzonego przedmiotu albo obowiązek przywrócenia do stanu poprzedniego, a także orzec podanie orzeczenia o ukaraniu do publicznej wiadomości w szczególny sposób.
+
+**Art. 75.**
+
+§ 1. Kto bez zachowania należytej ostrożności wystawia lub wywiesza ciężkie przedmioty albo nimi rzuca, wylewa płyny, wyrzuca nieczystości albo doprowadza do wypadania takich przedmiotów lub wylewania się płynów, podlega karze grzywny do 500 złotych albo karze nagany.
+
+§ 2. Jeżeli sprawca dopuszcza się czynu określonego w § 1 ze złośliwości lub swawoli, podlega karze ograniczenia wolności albo grzywny.
+
+**Art. 76.** Kto rzuca kamieniami lub innymi przedmiotami w pojazd mechaniczny będący w ruchu, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 77.**
+
+§ 1. Kto nie zachowuje zwykłych lub nakazanych środków ostrożności przy trzymaniu zwierzęcia, podlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany.
+
+§ 2. Kto dopuszcza się czynu określonego w § 1 przy trzymaniu zwierzęcia, które swoim zachowaniem stwarza niebezpieczeństwo dla życia lub zdrowia człowieka, podlega karze ograniczenia wolności, grzywny albo karze nagany.
+
+**Art. 78.** Kto przez drażnienie lub płoszenie doprowadza zwierzę do tego, że staje się niebezpieczne, podlega karze ograniczenia wolności, grzywny do 1000 złotych albo karze nagany.
+
+**Art. 79.**
+
+§ 1. Kto wbrew swemu obowiązkowi zaniecha oświetlenia miejsc dostępnych dla publiczności, podlega karze grzywny do 250 złotych albo karze nagany.
+
+§ 2. Kto ze złośliwości lub swawoli oświetlenie takie gasi, podlega karze grzywny do 500 złotych.
+
+**Art. 80.**
+
+§ 1. Kto:
+
+- **1)** przejeżdża pojazdem lub konno albo przepędza zwierzę gospodarskie przez wał przeciwpowodziowy w miejscu do tego nieprzeznaczonym lub przejeżdża pojazdem innym niż rower lub konno albo przepędza zwierzę gospodarskie wzdłuż po wale przeciwpowodziowym, na którym nie ma drogi o dostatecznie mocnej nawierzchni,
+- **2)** orze lub bronuje ziemię na wale przeciwpowodziowym albo obok wału w odległości mniejszej niż 3 m od stopy wału,
+- **3)** rozkopuje wał przeciwpowodziowy, wbija słup lub osadza znak albo zasadza drzewo lub krzew na wale,
+- **4)** kopie studnię, sadzawkę, dół lub rów obok wału przeciwpowodziowego w odległości mniejszej niż 50 m od stopy wału,
+- **5)** pasie na wale przeciwpowodziowym zwierzę gospodarskie,
+- **6)** uszkadza umocnienie na wale przeciwpowodziowym, podlega karze grzywny albo karze nagany.
+
+§ 2. Tej samej karze podlega, kto narusza inne niż określone w § 1 ograniczenia w użytkowaniu wałów przeciwpowodziowych, wprowadzone przez właściwy organ administracji państwowej lub samorządowej.
+
+§ 3. W razie popełnienia wykroczenia można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 81.** Kto niszczy lub uszkadza urządzenia służące do ochrony brzegów wód morskich lub śródlądowych, a w szczególności wszelkie umocnienia lub roślinność ochronną, podlega karze grzywny do 1000 złotych albo karze nagany.
+
+**Art. 82.**
+
+§ 1. Kto dokonuje czynności, które mogą spowodować pożar, jego rozprzestrzenianie się, utrudnienie prowadzenia działania ratowniczego lub ewakuacji, polegających na:
+
+- **1)** niedozwolonym używaniu otwartego ognia, paleniu tytoniu i stosowaniu innych czynników mogących zainicjować zapłon materiałów palnych,
+- **2)** wykonywaniu prac niebezpiecznych pod względem pożarowym bez ich wymaganego zabezpieczenia,
+- **3)** używaniu instalacji, urządzeń i narzędzi niepoddanych wymaganej kontroli lub niesprawnych technicznie albo użytkowaniu ich w sposób niezgodny z przeznaczeniem lub warunkami określonymi przez producenta, jeżeli może się to przyczynić do powstania pożaru, wybuchu lub rozprzestrzeniania ognia,
+- **4)** napełnianiu gazem płynnym butli na stacjach paliw, stacjach gazu płynnego i w innych obiektach nieprzeznaczonych do tego celu,
+- **5)** nieprzestrzeganiu zasad bezpieczeństwa przy używaniu lub przechowywaniu materiałów niebezpiecznych pożarowo, w tym gazu płynnego w butlach,
+- **6)** garażowaniu pojazdu silnikowego w obiektach i pomieszczeniach nieprzeznaczonych do tego celu z nieopróżnionym zbiornikiem paliwa i nieodłączonym na stałe zasilaniem akumulatorowym,
+- **7)** składowaniu materiałów palnych na drogach komunikacji ogólnej służących ewakuacji lub umieszczaniu przedmiotów na tych drogach w sposób zmniejszający ich szerokość albo wysokość poniżej wymaganych wartości,
+- **8)** składowaniu materiałów palnych na nieużytkowych poddaszach lub na drogach komunikacji ogólnej w piwnicach,
+- **9)** składowaniu materiałów palnych pod ścianami obiektu bądź przy granicy działki, w sposób naruszający zasady bezpieczeństwa pożarowego,
+- **10)** uniemożliwianiu lub ograniczaniu dostępu do urządzeń przeciwpożarowych, gaśnic, urządzeń uruchamiających instalacje gaśnicze i sterujących takimi instalacjami oraz innymi instalacjami wpływającymi na stan bezpieczeństwa pożarowego obiektu, wyłączników i tablic rozdzielczych prądu elektrycznego, kurków głównej instalacji gazowej, a także wyjść ewakuacyjnych oraz okien dla ekip ratowniczych,
+- **11)** uniemożliwianiu lub ograniczaniu dostępu do źródeł wody do celów przeciwpożarowych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Kto, będąc obowiązany na podstawie przepisów o ochronie przeciwpożarowej do zapewnienia warunków ochrony przeciwpożarowej obiektu lub terenu, nie dopełnia obowiązków polegających na:
+
+- **1)** zapewnieniu osobom przebywającym w obiekcie lub na terenie odpowiednich warunków ewakuacji,
+- **2)** wyposażaniu obiektu lub terenu w urządzenia przeciwpożarowe i gaśnice,
+- **3)** utrzymywaniu urządzeń przeciwpożarowych i gaśnic w stanie pełnej sprawności technicznej i funkcjonalnej,
+- **4)** umieszczeniu w widocznych miejscach instrukcji postępowania na wypadek pożaru wraz z wykazem telefonów alarmowych oraz wymaganych informacji,
+- **5)** oznakowaniu obiektu odpowiednimi znakami bezpieczeństwa,
+- **6)** utrzymywaniu dróg pożarowych w stanie umożliwiającym wykorzystanie tych dróg przez pojazdy jednostek ochrony przeciwpożarowej,
+- **7)** zapewnieniu usuwania zanieczyszczeń z przewodów dymowych i spalinowych,
+- **8)** zachowaniu pasa ochronnego o szerokości minimum 2 m i nawierzchni z materiałów niepalnych lub gruntowej oczyszczonej, wokół placów składowych, składowisk przy obiektach oraz przy obiektach tymczasowych o konstrukcji palnej,
+- **9)** przestrzeganiu zasad zabezpieczenia przeciwpożarowego podczas zbioru, transportu lub składowania palnych płodów rolnych,
+- **10)** zapobieganiu powstawaniu i rozprzestrzenianiu się pożarów w lesie poprzez wykonywanie wymaganych zabiegów ochronnych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 3. Kto na terenie lasu, na terenach śródleśnych, na obszarze łąk, torfowisk i wrzosowisk, jak również w odległości do 100 m od nich roznieca ogień poza miejscami wyznaczonymi do tego celu albo pali tytoń, z wyjątkiem miejsc na drogach utwardzonych i miejsc wyznaczonych do pobytu ludzi, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 3a. W razie popełnienia wykroczenia określonego w § 3 można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+§ 4. Kto wypala trawy, słomę lub pozostałości roślinne na polach w odległości mniejszej niż 100 m od zabudowań, lasów, zboża na pniu i miejsc ustawienia stert lub stogów bądź w sposób powodujący zakłócenia w ruchu drogowym, a także bez zapewnienia stałego nadzoru miejsca wypalania, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 5. Kto w inny sposób nieostrożnie obchodzi się z ogniem, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 6. Kto zostawia małoletniego do lat 7 w okolicznościach, w których istnieje prawdopodobieństwo wzniecenia przez niego pożaru, podlega karze grzywny albo karze nagany.
+
+**Art. 82a.**
+
+§ 1. Kto w razie powstania pożaru nie dopełnia obowiązku określonego w przepisach o ochronie przeciwpożarowej oraz Państwowej Straży Pożarnej w postaci:
+
+- **1)** niezwłocznego zawiadomienia osób znajdujących się w strefie zagrożenia oraz: centrum powiadamiania ratunkowego lub jednostki ochrony przeciwpożarowej albo Policji bądź wójta albo sołtysa,
+- **2)** podporządkowania się zarządzeniu kierującego działaniem ratowniczym,
+- **3)** udzielenia niezbędnej pomocy kierującemu działaniem ratowniczym, na jego żądanie, podlega karze aresztu, grzywny albo karze nagany.
+
+§ 2. Tej samej karze podlega, kto utrudnia prowadzenie działań ratowniczych, a w szczególności utrudnia dojazd do obiektów zagrożonych jednostkom ochrony przeciwpożarowej, prowadzącym działania ratownicze.
+
+§ 3. Kto uniemożliwia lub utrudnia przeprowadzenie czynności kontrolno-rozpoznawczych z zakresu ochrony przeciw-pożarowej przez uprawnionego strażaka Państwowej Straży Pożarnej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 82b.** Kto:
+
+**Art. 83.**
+
+§ 1. Kto nieostrożnie obchodzi się z materiałami wybuchowymi, łatwo zapalnymi lub substancjami promieniotwórczymi albo wykracza przeciwko przepisom o wyrobie, sprzedaży, przechowywaniu, używaniu lub przewożeniu takich materiałów, podlega karze aresztu, grzywny albo karze nagany.
+
+§ 2. W razie popełnienia wykroczenia można orzec przepadek przedmiotów stanowiących przedmiot wykroczenia.
+
+#### Rozdział XI Wykroczenia przeciwko bezpieczeństwu i porządkowi w komunikacji
+
+**Art. 84.** Kto wbrew obowiązkowi nie oznacza w sposób odpowiadający wymaganiom i łatwo dostrzegalny, zarówno w dzień, jak i w porze nocnej, jakiejkolwiek przeszkody w ruchu drogowym, urządzenia lub przedmiotu znajdujących się na drodze lub też miejsca prowadzonych robót, jeżeli to może zagrozić bezpieczeństwu ruchu albo utrudnić ruch na drodze, podlega karze aresztu albo grzywny.
 
 **Art. 85.**
 
-1. Kto samowolnie ustawia, niszCzy, uszkadza, usuwa. znak. ostrze gawcze albo zmienia ich za je czyni niewidocznymi, podlega karze aresztu, ograniczenia albo grzywny.
+§ 1. Kto samowolnie ustawia, niszczy, uszkadza, usuwa, włącza lub wyłącza znak, sygnał, urządzenie ostrzegawcze lub zabezpieczające albo zmienia ich położenie, zasłania je lub czyni niewidocznymi, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-2. Tej samej karze podlega, kto samowolnie niszczy, uszkadza, usuwa ustawia znak turystyczny.
+§ 2. Tej samej karze podlega, kto samowolnie niszczy, uszkadza, usuwa lub ustawia znak turystyczny.
 
-3. W razie wykroczenia w hib 2 można orzec obowiązek zapłaty równowartości znisz czonego uszkodzonego przedmiotu albo przy<wrócenia do stanu poprzedniego. ,
+§ 3. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec obowiązek zapłaty równowartości zniszczonego lub uszkodzonego przedmiotu albo obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 85a.**
+
+§ 1. Kto narusza przepisy dotyczące sposobu znakowania dróg wewnętrznych, podlega karze grzywny.
+
+§ 2. Tej samej karze za czyn określony w § 1 podlega ten, kto zlecił wadliwe dokonanie tej czynności.
 
 **Art. 86.**
 
-1. Kto, nie powoduje w ruchu drogowym, ,podlega karze grzywny.
+§ 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, nie zachowując należytej ostrożności, powoduje zagrożenie bezpieczeństwa w ruchu drogowym, podlega karze grzywny.
 
-2. W razie wykroczenia przez pro pojazd samochodowy orzec zakaz prowadze lilia pojazdów samochodowych.
+§ 1a. Jeżeli następstwem wykroczenia, o którym mowa w § 1, jest spowodowanie naruszenia czynności narządu ciała lub rozstrój zdrowia innej osoby, sprawca podlega karze grzywny w wysokości nie niższej niż 1500 złotych.
 
-**Art. 81.**
+§ 2. Kto dopuszcza się wykroczenia określonego w § 1, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, podlega karze aresztu, ograniczenia wolności albo grzywny w wysokości nie niższej niż 2500 złotych.
 
-§ 1. Kto, w stanie lila alkoholu I.ub podobnie pro wadzi pojazd mechaniczny, d,o komunikacji wodnej powietrznej. . . podlega karze aresztu albo grzywny . 2. Kto, w stanie na alkoholu pooobnie prowadzi na drodzepiIblicznej inny pOjazd w . Ipodlega karze aresztu do 2 albo grzywny. 3. W razie wykroczenia w· § orzec zakaz prowadzenia pojazdów mechanicznych, a orzeka go, gdy sprawca w stanie nie
+§ 3. W razie popełnienia wykroczenia określonego w § 1 przez osobę prowadzącą pojazd można orzec zakaz prowadzenia pojazdów.
 
-**Art. 88.** Kto na drod-ze publicznej prowadzi pojazd bez wymaganych przepisami pozostawia pojazd bez wymaga,neg,o przepisami podlega karze grzywny. .
+**Art. 86a.** Kto, kierując rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego albo poruszając się przy użyciu urządzenia wspomagającego ruch na drodze dla pieszych, nie porusza się z prędkością zbliżoną do prędkości pieszego lub nie ustępuje pierwszeństwa pieszemu, podlega karze grzywny albo karze nagany.
 
-**Art. 89.** Kto, o:pieki nadzoru nad do lat 7, dopuszcza do przebywania na drodze publicznej ria torach pojazdu szynowego,' podlega karze grzywny albo kaFenaga,ny.
+**Art. 86b.**
 
-**Art. 90.** ,j<:to tamuje -lub utrudnia' ruch na drodze publicznej, . podlega karze grzywny albo karze"nagany.
+§ 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu, prowadząc pojazd mechaniczny:
 
-**Art. 91.** Kto zanieczyszcza . na tej ··drodze pozostawia pojazd inny prz.edmiot albo w w których . to niebez stanowiLutrudnieniew ruchu drogowym, ,podlega ,karze grzywny do3 albo karze iIlagany.
+- **1)** wbrew obowiązkowi nie ustępuje pierwszeństwa pieszemu,
+- **2)** nie zatrzymuje pojazdu w celu umożliwienia przejścia przez jezdnię osobie niepełnosprawnej, używającej specjalnego znaku, lub osobie o widocznej ograniczonej sprawności ruchowej,
+- **3)** wyprzedza pojazd na przejściu dla pieszych, na którym ruch nie jest kierowany, lub bezpośrednio przed tym przejściem,
+- **4)** omija pojazd, który jechał w tym samym kierunku, lecz zatrzymał się w celu ustąpienia pierwszeństwa pieszemu,
+- **5)** narusza zakaz jazdy wzdłuż po drodze dla pieszych lub przejściu dla pieszych, podlega karze grzywny nie niższej niż 1500 złotych.
 
-**Art. 92.** § I. ,Kto nie stosuje do znaku lubsygna!u ' drogowego albo do polecenia, osoby uprawnionej .do kierowania ruchem do kontroli ruchu drogoWego, ,podlega karze grzywny albo karze nagany.
+§ 2. Kto dopuszcza się wykroczenia określonego w § 1, prowadząc inny pojazd niż określony w tym przepisie, podlega karze grzywny albo karze nagany.
 
-**Art. 94.** L 'Kto prowadzi na drodze publicznej pojazd, nie do tego uprawnienia, , podlega karze grzywny. 2. Tej' samej karze podk!ga, kto prowadzi na drodze' p,ublicznej pojazd pomimo ,braku dopuszczenia pojazdu do ruchu. . " A.rt. 95. Kto prowadzi na drodze publicznej. pojazd, ~ie sobie wymaganych dokumentów, ' podlega karze , grzywny do 500 albo karze nagany.
+§ 3. W razie popełnienia wykroczenia określonego w § 1 można orzec zakaz prowadzenia pojazdów, w szczególności, jeżeli sprawca wykroczenia spowodował zagrożenie bezpieczeństwa pieszego.
+
+**Art. 86c.**
+
+§ 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny, celowo wprowadzając go w poślizg lub doprowadzając do utraty styczności z nawierzchnią chociażby jednego z kół pojazdu, podlega karze grzywny nie niższej niż 1500 złotych.
+
+§ 2. Jeżeli następstwem wykroczenia określonego w § 1 jest spowodowanie zagrożenia bezpieczeństwa w ruchu drogowym, sprawca podlega karze grzywny nie niższej niż 2500 złotych.
+
+**Art. 87.**
+
+§ 1. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi pojazd mechaniczny w ruchu lądowym, wodnym lub powietrznym, podlega karze aresztu albo grzywny nie niższej niż 2500 złotych.
+
+§ 1a. Tej samej karze podlega, kto, znajdując się w stanie nietrzeźwości lub pod wpływem podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub w strefie ruchu inny pojazd niż określony w § 1.
+
+§ 2. Kto, znajdując się w stanie po użyciu alkoholu lub podobnie działającego środka, prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu inny pojazd niż określony w § 1, podlega karze aresztu albo karze grzywny nie niższej niż 1000 złotych.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 orzeka się zakaz prowadzenia pojazdów.
+
+§ 4. W razie popełnienia wykroczenia określonego w § 1a lub 2 można orzec zakaz prowadzenia pojazdów innych niż określone w § 1.
+
+**Art. 88.** Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd bez wymaganych przepisami świateł lub pozostawia pojazd bez wymaganego przepisami oświetlenia, podlega karze grzywny.
+
+**Art. 89.** Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7, dopuszcza do przebywania małoletniego na drodze publicznej lub na torach pojazdu szynowego, podlega karze grzywny albo karze nagany. <Art. 89a. § 1. Kto, mając obowiązek opieki lub nadzoru nad osobą, która nie ukończyła 16 roku życia, dopuszcza do kierowania przez nią rowerem, hulajnogą elektryczną lub urządzeniem transportu osobistego, jeżeli osoba ta wbrew obowiązkowi nie używa kasku ochronnego odpowiadającego właściwym warunkom technicznym, podlega karze grzywny do 100 złotych.
+
+**Art. 90.**
+
+§ 1. Kto tamuje lub utrudnia ruch na drodze publicznej, w strefie zamieszkania lub strefie ruchu, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Jeżeli wykroczenia określonego w § 1 dopuszcza się prowadzący pojazd mechaniczny, podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych.
+
+§ 3. Jeżeli wykroczenia określonego w § 1 dopuszcza się osoba uczestnicząca w spotkaniu, o którym mowa w art. 65ja ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, zorganizowanym bez wymaganego zawiadomienia, podlega karze grzywny nie niższej niż 1000 złotych.
+
+§ 4. Jeżeli wykroczenie określone w § 1–3 spowodowało poważne zakłócenie ruchu drogowego, można orzec nawiązkę w wysokości do 1500 złotych na cel społeczny wskazany przez organ orzekający.
+
+**Art. 91.** Kto zanieczyszcza drogę publiczną lub na tej drodze pozostawia pojazd lub inny przedmiot albo zwierzę w okolicznościach, w których może to spowodować niebezpieczeństwo lub stanowić utrudnienie w ruchu drogowym, podlega karze grzywny do 1500 złotych albo karze nagany.
+
+**Art. 92.**
+
+§ 1. Kto nie stosuje się do znaku lub sygnału drogowego albo do sygnału lub polecenia osoby uprawnionej do kierowania ruchem lub do kontroli ruchu drogowego, podlega karze grzywny albo karze nagany.
+
+§ 2. Kto w celu uniknięcia kontroli nie stosuje się do sygnału osoby uprawnionej do kontroli ruchu drogowego, nakazującego zatrzymanie pojazdu, podlega karze aresztu albo grzywny.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 2 można orzec zakaz prowadzenia pojazdów.
+
+**Art. 92a.**
+
+§ 1. Kto, prowadząc pojazd, nie stosuje się do ograniczenia prędkości określonego ustawą lub znakiem drogowym, podlega karze grzywny.
+
+§ 2. Kto, prowadząc pojazd mechaniczny, nie stosuje się do ograniczenia prędkości określonego ustawą lub znakiem drogowym, przekraczając je o ponad 30 km/h, podlega karze grzywny nie niższej niż 800 złotych.
+
+**Art. 92b.** Kto, prowadząc pojazd mechaniczny, nie stosuje się do zakazu wyprzedzania określonego ustawą lub znakiem drogowym, podlega karze grzywny nie niższej niż 1000 złotych.
+
+**Art. 93.**
+
+§ 1. Prowadzący pojazd, który, uczestnicząc w wypadku drogowym, nie udziela niezwłocznej pomocy ofierze wypadku, podlega karze aresztu albo grzywny.
+
+§ 2. W razie popełnienia wykroczenia o którym mowa w § 1 orzeka się zakaz prowadzenia pojazdów.
+
+**Art. 94.**
+
+§ 1. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny, nie mając do tego uprawnienia, podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1500 złotych.
+
+§ 1a. Kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd inny niż mechaniczny, nie mając do tego uprawnienia, podlega karze nagany albo karze grzywny do 1500 złotych.
+
+§ 2. Tej samej karze podlega, kto prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu pojazd pomimo braku dopuszczenia pojazdu do ruchu.
+
+§ 3. W razie popełnienia wykroczenia, o którym mowa w § 1, orzeka się zakaz prowadzenia pojazdów.
+
+**Art. 95.**
+
+§ 1. Kto prowadzi na drodze publicznej, w strefie zamieszkania lub strefie ruchu pojazd, nie mając przy sobie wymaganych dokumentów, podlega karze grzywny do 250 złotych albo karze nagany.
+
+§ 2. Tej samej karze podlega, kto na drodze publicznej, w strefie zamieszkania lub strefie ruchu prowadzi pojazd mechaniczny pomimo upływu okresu ważności tymczasowego elektronicznego prawa jazdy, o którym mowa w art. 4 ust. 1a ustawy z dnia 5 stycznia 2011 r. o kierujących pojazdami (Dz. U. z 2024 r. poz. 1210 i 1544), a przed wydaniem prawa jazdy.
+
+**Art. 95a.** Kto posługuje się dowodem rejestracyjnym zawierającym dane o spełnieniu przez pojazd wymagań technicznych określonych w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911 oraz z 2025 r. poz. 222) niezgodne ze stanem faktycznym, podlega karze grzywny do 500 zł.
 
 **Art. 96.**
 
-1. posiadacz, pro pojazd, który: dopuszcza d() prowadzenia pojazdu na drodze publicznej , nie fizycznej lub,psychtcznej w stopniu prowadzefiie pojazdu: '2) do prowadzenia pojazdu na drodze publicznej . nie wymaganych ' dopuszcza do prowadzenia pojazdu na drodze publicznej stanie na alkoholu podobnie
+§ 1. Właściciel, posiadacz, użytkownik lub prowadzący pojazd, który na drodze publicznej, w strefie zamieszkania lub strefie ruchu dopuszcza:
 
-- **4)** dopuszcza pojazd do jazdy <!la drodze Ipublicznej pomimo braku dopusz czenie pojazdu do ruchu:
-- **5)** dopuszcza pojazd do jazdy na drodze publicznej, ,pomimo pojazd nie jest zaopatrzony w wymagane i albo pomimo nie one do spelnienia swego przeznaczenia: '
-- **6)** dopuszcza do korzystania . z . pojazdu samochodowego w sposób niezgodIlY z· jegolPrzeznaczeniem, IPOdlega karze griywny.
+- **1)** do prowadzenia pojazdu osobę niemającą sprawności fizycznej lub psychicznej w stopniu umożliwiającym należyte prowadzenie pojazdu,
+- **2)** do prowadzenia pojazdu osobę niemającą wymaganych uprawnień,
+- **3)** do prowadzenia pojazdu osobę znajdującą się w stanie po użyciu alkoholu lub podobnie działającego środka,
+- **4)** pojazd do jazdy pomimo braku wymaganych dokumentów stwierdzających dopuszczenie pojazdu do ruchu,
+- **5)** pojazd do jazdy, pomimo że pojazd nie jest należycie zaopatrzony w wymagane urządzenia i przyrządy albo pomimo że nie nadają się one do spełnienia swego przeznaczenia,
+- **6)** do korzystania z pojazdu samochodowego w sposób niezgodny z jego przeznaczeniem, podlega karze ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
 
-§ 2. Tej samej karze za czyny w §1 pkt l, 3-6 oraz za dopusi.cze.nie do prowadzenia po jazdu' na drodze publicznej przez nie wymaga nych ,podlega dyspozytor pojazdu osob.a, do attórej jego . a, osoby nie ,wyznaczono ---:, kierownik jednostki pojazdem. . Art. 97. Kto wykracza przeciw.ko , innym' o ruchu na -drogach publicznych, podlega karze grzywny do 4-000 ' złotych ,albo iIlagany. Art 98. Klo, pojazd samochodowy nie zachowuje innych osób, ' !podlega karze grzywny do 3000 albo nagany.'
+§ 2. Tej samej karze za czyny określone w § 1 pkt 1, 3–6 oraz za nieumyślne dopuszczenie do prowadzenia pojazdu na drodze publicznej przez osobę niemającą wymaganych uprawnień podlega dyspozytor pojazdu lub osoba, do której obowiązków należą jego czynności, a jeżeli takiej osoby nie wyznaczono – kierownik jednostki dysponującej pojazdem.
+
+§ 3. Kto wbrew obowiązkowi nie wskaże na żądanie uprawnionego organu, komu powierzył pojazd do kierowania lub używania w oznaczonym czasie, podlega karze grzywny.
+
+**Art. 96a.**
+
+§ 1. Kto, nie będąc do tego uprawnionym, posiada w pojeździe urządzenia stanowiące obowiązkowe wyposażenie pojazdu uprzywilejowanego w ruchu, wysyłające sygnały świetlne w postaci niebieskich lub czerwonych świateł błyskowych albo sygnał dźwiękowy o zmiennym tonie, a także elementy oznakowania w postaci napisów, podlega karze grzywny.
+
+§ 2. Kto, nie będąc do tego uprawnionym, używa w pojeździe sygnałów świetlnych w postaci niebieskich lub czerwonych świateł błyskowych albo sygnału dźwiękowego o zmiennym tonie, podlega karze aresztu do 14 dni albo grzywny.
+
+§ 3. Urządzenia lub elementy oznakowania, o których mowa w § 1 i 2, podlegają przepadkowi, choćby nie stanowiły własności sprawcy.
+
+**Art. 96b.** Kto, nie będąc do tego uprawnionym, posługuje się kartą parkingową, o której mowa w art. 8 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251), podlega karze grzywny do 2000 złotych.
+
+**Art. 96c.** Kto nie przestrzega zakazu wjazdu do strefy czystego transportu podlega karze grzywny do 500 złotych.
+
+**Art. 96d.** Kto, działając w imieniu podmiotu uprawnionego, o którym mowa w art. 80s ust. 2 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym, przekazuje osobie nieuprawnionej blankiet profesjonalnego dowodu rejestracyjnego lub profesjonalny dowód rejestracyjny, lub profesjonalną tablicę rejestracyjną, podlega karze grzywny.
+
+**Art. 97.** Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także właściciel lub posiadacz pojazdu, który wykracza przeciwko innym przepisom ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym lub przepisom wydanym na jej podstawie, podlega karze grzywny do 3000 złotych albo karze nagany.
+
+**Art. 97a.** Uczestnik ruchu lub inna osoba znajdująca się na drodze publicznej, w strefie zamieszkania lub strefie ruchu, a także kierujący pojazdem, który narusza zakaz:
+
+**Art. 98.** Kto, prowadząc pojazd poza drogą publiczną, strefą zamieszkania lub strefą ruchu, nie zachowuje należytej ostrożności, czym zagraża bezpieczeństwu innej osoby, podlega karze grzywny albo karze nagany.
 
 **Art. 99.**
 
 § 1. Kto:
 
-- **1)** bez zezwolellia zajmuje pas Wy, budynek' drogowy, na cele nie zane z i
-- **2)** niszczy usz-kadza' drogowe: '
-- **3)** usuwa niszczy ...
-- **4)** prowadzi roboty wpasię dro'gowym bez zezwolenia wbrew nie przywraca tego pa's'a do . 1P0dlega karze grzywny albo karze nagany .
+- **1)** (uchylony)
+- **2)** niszczy lub uszkadza drogę publiczną lub drogę w strefie zamieszkania, przynależności lub urządzenia drogowe,
+- **3)** usuwa lub niszczy zasłony odśnieżne,
+- **4)** (uchylony) podlega karze grzywny albo karze nagany.
 
-§ 2. Tej samej karze podlega, któ przy zadrzewian'iu zakrzewianiu albo przy prowadzeniu robót ziem'nych zachowuje przepisowej odległości 'od linif 'kólejowy.ch,
+§ 2. Tej samej karze podlega, kto przy zadrzewianiu lub zakrzewianiu albo przy prowadzeniu robót ziemnych nie zachowuje przepisowej odległości od linii kolejowych.
 
 **Art. 100.** Kto:
 
-**Art. 102.** Kto uchyla od utrzymania stanie zjazdów ' z dróg publicznych do' podlega karze grzywny do.2 000 złotych ~Ibo nagany . Art. '103. Kto bez ważnej przyczyni uchyla, się od osobistych rzeczowych, na celu zwalczanie przerwania komunikacji na skutek zasp pOwodzi usuwisk, albo nuje te nienaleZycie, podlega karze grzywny aibo karze nagany. XII
+**Art. 101.** Kto uchyla się od obowiązku oczyszczania i usuwania z odcinków dróg publicznych o twardej nawierzchni, przechodzących przez obszary o zabudowie ciągłej lub skupionej poza miastami i osiedlami, błota, kurzu, śniegu lub lodu, podlega karze grzywny do 1000 złotych albo karze nagany.
 
-**Art. 104.** Kto skłania. 40 żebrania ~~Iole~n i~gQ. albo w stosunku ,pod jego . karze,' aresztu, ; :Dziennik Ustaw Nr Poz. 11·1 Art._ 105. 1. Kloprzez naruszenie z rodzicielskiej dopuszcza do nia przez nieletniego czynu 'zabronionego przez jako lub· wykrcicz€nie i na demorali nie letniego, podlega karze grzywny albo karze nagany. 2. . czyn w_ l osoba, pod której dozór odpowiedzial-ny oddano nie letniego, ,podlega karze ograniczenia -. grzywny albo karze nagany. J. wypadkach w i 2, nieletni czynem swym orzec do 2000 . Art. 106. Kto, opieki nadzoru nad do lat 7 albo 'nad rozpoz - przed dopuszcza do jej przebywania w niebezpiecznych dla zMo wia podlega karze grzywny albo karze nagany.
+**Art. 102.** Kto uchyla się od obowiązku utrzymania w należytym stanie zjazdów z dróg publicznych do przyległych nieruchomości, podlega karze grzywny do 1000 złotych albo karze nagany.
 
-**Art. 107.** Kto w celu do-kuczenia. innej osobie wprowadza w in,ny sposób niepokoi, podlega karze ograniczenia grzywny do 3000 albo karze nagany. Art: 108. Kto szq;uje psem -podlega kar'le grzywny do 2000 albo karze Inagany. XIII Wykroczenia przeciwko zdrowiu.
+**Art. 103.** Kto bez ważnej przyczyny uchyla się od nałożonego obowiązku świadczeń osobistych lub rzeczowych, mających na celu zwalczanie zagrożenia przerwania komunikacji na skutek zasp śnieżnych, powodzi lub usuwisk, albo wykonuje te świadczenia nienależycie, podlega karze grzywny albo karze nagany.
+
+**Art. 103a.** (uchylony)
+
+#### Rozdział XII Wykroczenia przeciwko osobie
+
+**Art. 104.** Kto skłania do żebrania małoletniego lub osobę bezradną albo pozostającą w stosunku zależności od niego lub oddaną pod jego opiekę, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+**Art. 105.**
+
+§ 1. Kto przez rażące naruszenie obowiązków wynikających z władzy rodzicielskiej dopuszcza do popełnienia przez nieletniego czynu zabronionego przez ustawę jako przestępstwo, w tym i przestępstwo skarbowe, wykroczenie lub wykroczenie skarbowe i wskazującego na demoralizację nieletniego, podlega karze grzywny albo karze nagany.
+
+§ 2. Jeżeli czyn określony w § 1 popełnia osoba, pod której nadzór odpowiedzialny oddano nieletniego, podlega karze ograniczenia wolności, grzywny albo karze nagany.
+
+§ 3. W wypadkach określonych w § 1 i 2, jeżeli nieletni czynem swym wyrządził szkodę, można orzec nawiązkę do wysokości 1000 złotych.
+
+**Art. 106.** Kto, mając obowiązek opieki lub nadzoru nad małoletnim do lat 7 albo nad inną osobą niezdolną rozpoznać lub obronić się przed niebezpieczeństwem, dopuszcza do jej przebywania w okolicznościach niebezpiecznych dla zdrowia człowieka, podlega karze grzywny albo karze nagany.
+
+**Art. 107.** Kto w celu dokuczenia innej osobie złośliwie wprowadza ją w błąd lub w inny sposób złośliwie niepokoi, podlega karze ograniczenia wolności, grzywny albo karze nagany.
+
+**Art. 107a.**
+
+§ 1. Kto, włączając się bez uprawnienia w transmisję danych prowadzoną przy użyciu systemu teleinformatycznego, umyślnie udaremnia lub utrudnia użytkownikowi tego systemu przekazywanie lub odbiór informacji, podlega karze ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
+
+§ 2. Jeżeli sprawca czynu określonego w § 1 używa słów powszechnie uznanych za obelżywe lub w inny sposób dopuszcza się nieobyczajnego wybryku, podlega karze aresztu, ograniczenia wolności albo karze grzywny nie niższej niż 3000 złotych.
+
+**Art. 108.** Kto szczuje psem człowieka, podlega karze ograniczenia wolności, grzywny albo karze nagany.
+
+#### Rozdział XIII Wykroczenia przeciwko zdrowiu
 
 **Art. 109.**
 
-1. Kto zanieczyszcza do picia do pojenia poza przeznaczpnymi do zaopatrywania w podlega karze grzywny' do' 3000 albo karze naga.ny. . Tej samej karze podlega. kto zanie<:zysz cza w plywalni, w innym obiekcie o podobnym przeznaczeniu. Art. 110, Kto ' zatrudnia przy pracy bez kami która w przepisów o zwalczaniu chorób nie zatrudniona przy tego I'odzaju pracy której stan zdrowia utrudnia utrzymanie higieny óso'bistej; po.dlegakar·ze grzywny.
+§ 1. Kto:
+
+- **1)** zanieczyszcza wodę przeznaczoną do spożycia przez ludzi, lub
+- **2)** dostarcza wodę przeznaczoną do spożycia przez ludzi, nie spełniając wymagań określonych w przepisach o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, lub
+- **3)** nie będąc do tego uprawnionym, dostarcza wodę przeznaczoną do spożycia przez ludzi w myśl przepisów o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków, podlega karze grzywny albo karze nagany.
+
+§ 2. Kto zanieczyszcza wodę służącą do pojenia zwierząt, znajdującą się poza urządzeniami przeznaczonymi do zaopatrywania ludności w wodę, podlega karze grzywny do 1500 złotych albo karze nagany.
+
+§ 3. Tej samej karze podlega, kto umyślnie zanieczyszcza wodę w pływalni, kąpielisku lub w innym obiekcie o podobnym przeznaczeniu lub dostarcza do tych obiektów wodę niespełniającą wymagań określonych w przepisach o zbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków.
+
+**Art. 110.** Kto zatrudnia przy pracy, przy wykonywaniu której istnieje możliwość przeniesienia zakażenia na inne osoby, osobę, która ze względu na stan zdrowia potwierdzony aktualnymi badaniami dla celów sanitarno-epidemiologicznych, w rozumieniu przepisów o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, nie może być zatrudniona przy tego rodzaju pracy lub której stan zdrowia utrudnia utrzymanie higieny osobistej, podlega karze grzywny.
 
 **Art. 111.**
 
-1. Kto nie zapewnienia stanu sanitarnego. w zakresie utrzyma oraz przez pracowników wymagane-go ubioru: do obro tu substancje d<>datkowe do zwolone.
+§ 1. Kto nie dopełnia obowiązku zapewnienia należytego stanu sanitarnego, zwłaszcza w zakresie utrzymania czystości oraz używania przez pracowników wymaganego ubioru:
 
-- **2)** w miejscu uzyskiwania m.leka, podlega karze grzywny.
+- **1)** w zakładzie produkującym lub wprowadzającym do obrotu środki spożywcze,
+- **2)** w miejscu uzyskiwania mleka, podlega karze grzywny.
 
-2. Tej samej' k.drze podlega. kto wbrew nie ' przestrzega warunków sanitarnych w produkcji w obrocie substancjami d<>datkowymi .dozwolonymi·.
+§ 2. Tej samej karze podlega, kto nie zachowuje należytej czystości w produkcji lub w obrocie środkami spożywczymi.
 
-**Art. 112.** Ktc) handlem nym. nie przestrzega sanitarnych albo wprowadza do obrotu zabronione w takim handlu, kaue grzywny. . czych noclegowych albo kto dopuszcza do takich czyn podlega karze grzywny.
+**Art. 112.** (uchylony)
 
-**Art. 114.** Kto odmawia udzielenia organowi zdro wia wy znaczenie dla licy, choroby wenerycznej innej choroby albo dla zapobiegania szeneniu takich chorób. . . . :podlega karze: grzywny albq karze nagany.
+**Art. 113.** Kto nie zachowuje należytej czystości przy świadczeniu usług w zakładach żywienia zbiorowego, w kąpieliskach, zakładach fryzjerskich, kosmetycznych, pralniczych lub noclegowych albo kto dopuszcza do takich czynności osobę dotkniętą chorobą zakaźną, podlega karze grzywny.
 
-**Art. 115.** Kto. pomimo zastosowania egze kucji administracy jnej,nie poddaje szcze.pieniu ochronnemu przeCiwko innej cho robie albo badaniu stanu zdrowia, u na celu wykrycie leczenie choroby. wenerycznej innej choroby ,podlega karze grzywny do 3000 albo karze !Oa.gany. 2. Tej samej karze podlega. kto, nad pomimo zastosowania egzekucji adrriinistracyjnej. nie poddaje jej w 1 szczepie-niu ochronnemu badaniu'.
+**Art. 114.** Kto odmawia udzielenia organowi służby zdrowia wyjaśnień mogących mieć znaczenie dla wykrycia gruźlicy, choroby wenerycznej lub innej choroby zakaźnej lub źródła zakażenia albo dla zapobiegania szerzeniu się takich chorób, podlega karze grzywny albo karze nagany.
 
-**Art. 116.** l. Kto, o tym. jest chory na albo p<>de jrzany o
+**Art. 115.**
 
-**Art. 117.** Kto, utrzymania. -i w nie wykonuje swoich nie stosuje do i nakazów wy 'danych przez -organy w celu zabezpieczenia na le stanusa·nitarnego i zwalczania chorób ,podlega karze grzywny do 3000 albo karze :nagany.
+§ 1. Kto, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje się obowiązkowemu szczepieniu ochronnemu przeciwko gruźlicy lub innej chorobie zakaźnej albo obowiązkowemu badaniu stanu zdrowia, mającemu na celu wykrycie lub leczenie gruźlicy, choroby wenerycznej lub innej choroby zakaźnej, podlega karze grzywny do 1500 złotych albo karze nagany.
+
+§ 2. Tej samej karze podlega, kto, sprawując pieczę nad osobą małoletnią lub bezradną, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje jej określonemu w § 1 szczepieniu ochronnemu lub badaniu.
+
+**Art. 116.**
+
+§ 1. Kto, wiedząc o tym, że:
+
+- **1)** jest chory na gruźlicę, chorobę weneryczną lub inną chorobę zakaźną albo podejrzany o tę chorobę,
+- **2)** styka się z chorym na chorobę określoną w pkt 1 lub z podejrzanym o to, że jest chory na gruźlicę lub inną chorobę zakaźną,
+- **3)** jest nosicielem choroby określonej w pkt 1 lub podejrzanym o nosicielstwo – nie przestrzega zakazu, nakazu, ograniczenia lub obowiązku, określonego w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi lub w przepisach o Państwowej Inspekcji Sanitarnej lub nie przestrzega decyzji wydanej na podstawie tych przepisów przez organy inspekcji sanitarnej, podlega karze grzywny albo karze nagany.
+
+§ 1a. Kto nie przestrzega zakazu, nakazu, ograniczenia lub obowiązku, określonego w przepisach o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, podlega karze grzywny albo karze nagany.
+
+§ 2. Tej samej karze podlega, kto, sprawując pieczę nad osobą małoletnią lub bezradną, nie dopełnia obowiązku spowodowania, aby osoba ta zastosowała się do zakazu, nakazu, ograniczenia, obowiązku lub decyzji, o których mowa w § 1 i 1a.
+
+**Art. 117.**
+
+§ 1. Kto, mając obowiązek utrzymania czystości i porządku w obrębie nieruchomości, nie wykonuje swoich obowiązków lub nie stosuje się do wskazań i nakazów wydanych przez właściwe organy w celu zabezpieczenia należytego stanu sanitarnego i zwalczania chorób zakaźnych, podlega karze grzywny do 1500 złotych albo karze nagany.
+
+§ 2. Tej samej karze podlega przewoźnik obowiązany do zapewnienia podróżnym odpowiednich warunków higieny, który nie utrzymuje środka transportu we właściwym stanie sanitarnym.
 
 **Art. 118.**
 
-1. Ktd dokonuje uboju bez pod dania go badaniu przed ubojem I po uboju albo .bez uzyskania zezwolenia na ubój. takie badanie 'Zezwolenie jest- wymagane. podlega _ karze .grzywny do 3000 albo karze [Iaga.ny.
+§ 1. Kto:
 
-2. Tej samej karze podlega. kto usuwa cia przed wykonaniem wymaganego badania po uboju. 3: Kto wprowadza do obrotu bez uprzedniego zbadania po uboju i ozna kowania albo bez poddania go dodatkowemu badaniu. gdy ono jest wymagane; .
+- **1)** dokonuje uboju zwierzęcia bez wymaganego zezwolenia lub niezgodnie z warunkami określonymi w tym zezwoleniu,
+- **2)** usuwa części zwierzęcia przed wykonaniem wymaganego badania po uboju,
+- **3)** nie poddaje mięsa badaniu, jeżeli takie badanie jest wymagane – podlega karze grzywny.
 
-- **2)** warunkowo zdalne - bez poddania, go odpowiednim za biegom
-- **3)** mniej - w miejscach przeznaczonych do takiego . Art.1t3. Kto nie zachowuje przy podlega karze aresztu albo grzywny. śWiadc,,-eniuusług w zakładach żywienia zbi.órowego, w ką- 4. razie popełnienia wykroczenia określonego · pieliskach, fryzjerskich; 'kosmetycznych, pralni- _ § 1-3 orzec przepadek .' Dziennik U"taw Nr 12 94 · - Póz. XIV Wykroczenia przeciwko mieniu.
+§ 2. Kto wprowadza do obrotu mięso:
 
-**Art. 119.** L Klo kradnie przywłaszcza sobie mienie mienia nie przekracia 500 podlega , karze aresztu, ograniczenia albo grzywny. 2. Tej samej karze pOdlega, kto kradhie 'lub przy inne' mienie mie nia nie przekracza ziotych; 3. ,wykroczenia w 1 2 oral do niego i pomocnictwo karalne. Jeżeli sprawca' czyn~ określonego ~ 2 dopu'ścił na osoby naj tylko na pokrzywdzonego. 5. W razie wykroczenia w 1 .,.2.rzeka s1s:, a w razie wykroczenia w 2 ;orzec dzianego mienia, szkoda nie 'zoo' naprawiona. ' ,
+- **1)** bez wymaganego oznakowania i świadectwa,
+- **2)** warunkowo zdatne do spożycia lub niezdatne do spożycia, wbrew określonemu sposobowi jego wykorzystania – podlega karze aresztu albo grzywny.
 
-**Art. 120.** Kto w celu dopuszcra w lesie albo kradnie' s51bie z lasu drzewo powalone, drzewa' nie przekracza podlega karz,e aresztu, ogran kzenia . albo 'grzywny. 2. oraz i prunocnictwo karalne. 3. W razie " wykroczenia w 1 orzeka w podwój-nej ukradzionego drzewa, a ponadto. Ukradzione -drzewo nie zostało od~rane, órzeka się obówiązekzapłaty jego równo
+§ 3. W razie popełnienia wykroczenia określonego w § 1 i 2, można orzec przepadek mięsa, chociażby nie stanowiło własności sprawcy wykroczenia.
 
-**Art. 121.** S Kto, pomimo dwukrotnie na na niego kary w taryfie, po raz trzeci w roku bez zamiaru uiszczenia dza przelazd innym lokomocji, podlega karze aresztu, ograniczenia albo grzywny. 2. Tej samej ka{ze podlega, kto bez zamiaru uiszczenia po±ywienie napój w nia zbiorowego, przejazd lokomocji do, nie karami w ta ryfie, na roz automatu inne podobne o którym wie, jest 3. W razie wykroczenia w 2 - orzec wyiudzonego mienia. ' ,
+#### Rozdział XIV Wykroczenia przeciwko mieniu
 
-**Art. 122.** L Kto nabywa mienie wiedząc o tY!D, ie po chodzi ono z krad7ieiy z przywlaszczenia, pomaga do jego zbycia albo w celu mie nie to przyjmuje pomaga do je,go ukrycia. mienia nie 'przekracza a chodzi o mienie wart. §1, nie przekracza _ podlega karze aresztu, ograniczenia albo ,grzywny. 2. Kto nabywa mienie, o którym napódslawie, powinien' i uzyska'ne za pomaga do jego z):Jycia albo w celu mienie lo przyjmuje pomaga do jego ukry cia. mienia nie przekracza 500 a gdy chodzi o mienie w 'a.tt. 120. l, przekracza podlega karze grzywny do 3000 ;albo karze gany. wykroczenia do niego i pomocnictwo karalne.
+**Art. 119.**
+
+§ 1. Kto kradnie lub przywłaszcza sobie cudzą rzecz ruchomą, jeżeli jej wartość nie przekracza 800 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Usiłowanie, podżeganie i pomocnictwo są karalne.
+
+§ 3. Jeżeli sprawca czynu określonego w § 1 dopuścił się go na szkodę osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
+
+§ 4. W razie popełnienia wykroczenia określonego w § 1, można orzec obowiązek zapłaty równowartości ukradzionego lub przywłaszczonego mienia, jeżeli szkoda nie została naprawiona.
+
+**Art. 120.**
+
+§ 1. Kto w celu przywłaszczenia dopuszcza się wyrębu drzewa w lesie albo kradnie lub przywłaszcza sobie z lasu drzewo wyrąbane lub powalone, jeżeli wartość drzewa nie przekracza 800 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Usiłowanie oraz podżeganie i pomocnictwo są karalne.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 orzeka się nawiązkę w wysokości podwójnej wartości wyrąbanego, ukradzionego lub przywłaszczonego drzewa, a ponadto, jeżeli ukradzione lub przywłaszczone drzewo nie zostało odebrane, orzeka się obowiązek zapłaty jego równowartości.
+
+**Art. 121.**
+
+§ 1. Kto, pomimo nieuiszczenia dwukrotnie nałożonej na niego kary pieniężnej określonej w taryfie, po raz trzeci w ciągu roku bez zamiaru uiszczenia należności wyłudza przejazd koleją lub innym środkiem lokomocji, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto bez zamiaru uiszczenia należności wyłudza pożywienie lub napój w zakładzie żywienia zbiorowego, przejazd środkiem lokomocji należącym do przedsiębiorstwa niedysponującego karami pieniężnymi określonymi w taryfie, wstęp na imprezę artystyczną, rozrywkową lub sportową, działanie automatu lub inne podobne świadczenie, o którym wie, że jest płatne.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek zapłaty równowartości wyłudzonego mienia.
+
+**Art. 122.**
+
+§ 1. Kto nabywa mienie, wiedząc o tym, że pochodzi ono z kradzieży lub z przywłaszczenia, lub pomaga do jego zbycia albo w celu osiągnięcia korzyści majątkowej mienie to przyjmuje lub pomaga do jego ukrycia, jeżeli wartość mienia nie przekracza 800 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Kto nabywa mienie, o którym na podstawie towarzyszących okoliczności powinien i może przypuszczać, że zostało uzyskane za pomocą kradzieży lub przywłaszczenia, lub pomaga do jego zbycia albo w celu osiągnięcia korzyści majątkowej mienie to przyjmuje lub pomaga do jego ukrycia, jeżeli wartość mienia nie przekracza 800 złotych, podlega karze grzywny albo karze nagany.
+
+§ 3. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
 
 **Art. 123.**
 
-§ 1. Kto z nie do niego ogrodu prawnie' zabiera w nieznacznej owoce, warzywa kwiaty, ,podlega karze grzywny 500 albo karze nagany. 2. czyn nie godzi w mienie tylko na pokrzywdzonego. . 3. W razie wykroczenia orzec , do 100
+§ 1. Kto z nienależącego do niego ogrodu bezprawnie zabiera w nieznacznej ilości owoce, warzywa lub kwiaty, podlega karze grzywny do 250 złotych albo karze nagany.
 
-**Art. 124.** l. Kto niszczy, uszkadza niezdatnym do mienie cudzem.ienie, szkoda nie przekracza, 500 podlega karze aresztu, grzywny. 2. oraz i pomocnictwo ralne. 3. Jeżeli czyn nie godzi w mienie Sjpołeczne: ściganie nastQpuje tylko na pokrzywdzonego, VI raziep~pelnienia wykroczenia, jeżeli przedmio tem czynu jest mienie orzeka a miotem c'zynu jest in,ne' mienie, orzec szkody przywrócenia do stanu poprzedniego. ' ,
+§ 2. Ściganie następuje na żądanie pokrzywdzonego.
 
-**Art. 125.** Kto w dwóch tygodni OId dnia Z!nalezie-, nia cudzej rzeczy alho nie zawiadomi o tym organu Milicji Obywatelskiej nego organu albo w inny sposób poszukujepOlsiadacza, karze grzywny do 1 000 albo ka.rze gany."
+§ 3. W razie popełnienia wykroczenia można orzec nawiązkę do wysokości 50 złotych.
 
-**Art. 126.** L, Kto zabiera w celu sobie albo niszczy , uszkadza rzecz ,podlega karze grzywny albo karze nagany. 2. Sciga;nie następuje tylko l?-a żądanie pokrzywdzo nego,
+**Art. 124.**
 
-**Art. 121.** l. Kto samowo'lnie' cudzego mienia ruchom'ego, podiega' karze grzywny albo rze nagamy.
+§ 1. Kto cudzą rzecz umyślnie niszczy, uszkadza lub czyni niezdatną do użytku, jeżeli szkoda nie przekracza 800 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-**Art. 128.** l. Kto celu albo do niej ,podlega karze aresztu, ogranicienia grzywny. 2. Pieniądze i inne przedmioty służące do grYpOqle prze'padkowi. nie sprawcy.
+§ 2. Usiłowanie, podżeganie i pomocnictwo są karalne.
+
+§ 3. Ściganie następuje na żądanie pokrzywdzonego.
+
+§ 4. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody lub obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 125.** Kto w ciągu dwóch tygodni od dnia znalezienia cudzej rzeczy albo przybłąkania się cudzego zwierzęcia nie zawiadomi o tym organu Policji lub innego organu państwowego albo w inny właściwy sposób nie poszukuje posiadacza, podlega karze grzywny do 500 złotych albo karze nagany.
+
+**Art. 126.**
+
+§ 1. Kto zabiera w celu przywłaszczenia, przywłaszcza sobie albo umyślnie niszczy lub uszkadza cudzą rzecz przedstawiającą wartość niemajątkową, podlega karze grzywny albo karze nagany.
+
+§ 2. Ściganie następuje na żądanie pokrzywdzonego.
+
+**Art. 127.**
+
+§ 1. Kto samowolnie używa cudzej rzeczy ruchomej, podlega karze grzywny albo nagany.
+
+§ 2. Ściganie następuje na żądanie pokrzywdzonego.
+
+**Art. 128.**
+
+§ 1. Kto w celu osiągnięcia korzyści majątkowej urządza grę hazardową albo użycza do niej środków lub pomieszczenia, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Pieniądze i inne przedmioty służące do gry podlegają przepadkowi, choćby nie stanowiły własności sprawcy.
 
 **Art. 129.**
 
-1. Kto:
+§ 1. Kto:
 
-- **1)** wyrabia, posiada nabywa nie zawo'dem, w którym oniEl potrzebne;
-- **2)** dostarcza' wytrychów osobie nie takim wodem;
-- **3)** wyrabia, posiada nabywa do' cpdzego mieszkania innego albo schowania' zezwolenia osoby upc'awnionej administracji, podlega, karze aresztu, ograniCzenia gnywny.
+- **1)** wyrabia, posiada lub nabywa wytrychy, jeżeli nie trudni się zawodem, w którym są one potrzebne,
+- **2)** dostarcza wytrychów osobie nietrudniącej się takim zawodem,
+- **3)** wyrabia, posiada lub nabywa klucze do cudzego domu, mieszkania lub innego pomieszczenia albo schowania bez zezwolenia osoby uprawnionej lub organu administracji, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-2. Tej samej karze, podlega, kto wyrabia. posiada nabywa przeznaczone. do ,dokonywania albo kto osobom.
+§ 2. Tej samej karze podlega, kto wyrabia, posiada lub nabywa narzędzia przeznaczone do dokonywania kradzieży albo kto dostarcza takich narzędzi innym osobom.
 
-§ 3. ,Wytrychy, klucze lub· przepadkowi, nie stanowily s.prawcy. ." , pzie'ini.ik Ustaw Nr 12 -- 95 -- Poz. 114
+§ 3. Wytrychy, klucze lub narzędzia podlegają przepadkowi, choćby nie stanowiły własności sprawcy.
 
 **Art. 130.**
 
-§ 1. Przepisów art. lig; 120, 122 i 124 nie stosuje , 1.) do osób, które czyn w tych przepi sach w 5 lat od uprawomocnienia orzeczenia za podobne albo w 2 lat od uprawomocnienia orzeczenia o ukaraniu za wy !kroczenie podobnej przedmiotem czynu jest amunicja, wybuchowe. 2. Przepisu art. fig nie sprawca po sposób szczególnie z l1iem. 3. Przepisów art. 119 iJ20 nie stosuje s.praw ca gwa!tu na ,osobie albo grozi jego natychmiasto 'Wyro aby w posiadaniu zabranego , anienia, a gdy chodzi o zabranie innej osobie mien,ia w celu wtedy, gdy sprawca doprowadza !Wieka_do stanu 4. Przepisów art. '119 i 120 nie stosuje po,nadto, przedmiotem czynu jest mienie do osoby, ik,tóra: mieniem albo odpowie dzialna za jego za nadzór nad nim w ku z zajmowanymstan.owiskiem kradnie sobie to mie,niej
+§ 1. Przepisów art. 119, art. 122 i art. 124 nie stosuje się:
 
-- **2)** dzial'a w porozumieniu z innymi osobami.
+- **1)** (uchylony)
+- **2)** jeżeli przedmiotem czynu jest broń, amunicja, materiały lub przyrządy wybuchowe.
 
-**Art. 131.** Przepisy art. 119, i 124 stosuje razie wykroczenia za XV Wykroczenia przeciwko interesom konsumentów. Ar:t. 132. l. Kto. handlu detalicznego w nim zatrudniony, zbywa towar w celu z zyskiem, towaru nie prze kracza, ' 'Podlega karze aresztu, ograniczenia albo grzywny. 2, Tej samej kro zQywa nabywa w celu zyskiem tÓwar, 'o którym mowa w l, je towaru nie 3. wykroczenia w. 1 2 i pomacnictwo karalne. 4. W finie wykroczenia w §'l 2 orzec 'przepadek towarów.
+§ 2. Przepisu art. 119 nie stosuje się, jeżeli sprawca popełnia kradzież w sposób szczególnie zuchwały lub z włamaniem.
 
-**Art. 133.** l. Kto nabywa w celu z zyskiem bilety imprezy rozrywkowe lubspor towe albo kto bilety takie sprzedaje z zyskiem, podlega karze aresztu, ograniczenia albo _ grzywny. 2. orak i pomocnictwo ka ra'lne. Art., 134. 1. .Kto przy towaru niu oszukuje co do "wagi. ,miary. ga tunku, rodz,aju Iu.h ceny, nabywca po nie 50 podlega karze a(esztu, ograniczenia albo grzywny. oraz i pomocnictwo ka-" ,ralne.
+§ 3. Przepisów art. 119 i 120 nie stosuje się, jeżeli sprawca używa gwałtu na osobie albo grozi jego natychmiastowym użyciem, aby utrzymać się w posiadaniu zabranego mienia, a gdy chodzi o zabranie innej osobie mienia w celu przywłaszczenia, także wtedy, gdy sprawca doprowadza człowieka do stanu nieprzytomności lub bezbronności.
 
-**Art. 135.** Kto, towarów w przed handlu detalicznego, ukrywa przed to rwar prze,maczony do bez uzasadnio nej przyczyny odmawia, takiego towaru,' . podlega karze grzywny. '
+§ 4. (uchylony)
+
+**Art. 131.** Przepisy art. 119, 122 i 124 stosuje się również w razie popełnienia wykroczenia za granicą.
+
+#### Rozdział XV Wykroczenia przeciwko interesom konsumentów
+
+**Art. 132.** (uchylony)
+
+**Art. 133.**
+
+§ 1. Kto nabywa w celu odprzedaży z zyskiem bilety wstępu na imprezy artystyczne, rozrywkowe lub sportowe albo kto bilety takie sprzedaje z zyskiem, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Usiłowanie oraz podżeganie i pomocnictwo są karalne.
+
+**Art. 134.**
+
+§ 1. Kto przy sprzedaży towaru lub świadczeniu usług oszukuje nabywcę co do ilości, wagi, miary, gatunku, rodzaju lub ceny, jeżeli nabywca poniósł lub mógł ponieść szkodę nieprzekraczającą 100 złotych, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega, kto przy nabyciu produktów rolnych lub hodowlanych oszukuje dostawcę co do ilości, wagi, miary, gatunku lub ceny, jeżeli dostawca poniósł lub mógł ponieść szkodę nieprzekraczającą 100 złotych.
+
+§ 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie i pomocnictwo są karalne.
+
+**Art. 135.** Kto, zajmując się sprzedażą towarów w przedsiębiorstwie handlu detalicznego lub w przedsiębiorstwie gastronomicznym, ukrywa przed nabywcą towar przeznaczony do sprzedaży lub umyślnie bez uzasadnionej przyczyny odmawia sprzedaży takiego towaru, podlega karze grzywny.
 
 **Art. 136.**
 
-§ 1. Kto z towarów przezmaczonych do sprzeda usuwa utrwalone na nich oznaczenie ich termiIl do produkcji, gatunek pochodzenie, ' karze aresztu, ograniczenia grzywny. 2. Kto przeznacza do sprzedaży tQwary z usuńiętym oznaczeniem Ich ceny, terminu d6 spo daty produkcji, gatunku pochodzenia albo towary oznaczone, podlega karze ograniczenia albo grzywny do 000 3. wykroczenia w § 1 oraz do niego i pomocnictwo karalne.
+§ 1. Kto z towarów przeznaczonych do sprzedaży umyślnie usuwa utrwalone na nich oznaczenie określające ich cenę, termin przydatności do spożycia lub datę produkcji, jakość lub ilość nominalną, gatunek lub pochodzenie, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-**Art. 137.** l. Kto w handlowym ,narusza przepisy o uwida.czniania cen, IPodlega karze grzywny do 3000 albo "karze na gany. 2", Kierownik uspołecznionego punktu sprzedaży deta licznej gastronomicznego, 'który nie ma faktur albo innych dowodów d'ostawy przy na towary przechowywane w punkcie detalicznej dzie gastronomicznym, podlega karze a resztu albo grzywny.
+§ 2. Kto przeznacza do sprzedaży towary z usuniętym trwałym oznaczeniem ich ceny, terminu przydatności do spożycia lub daty produkcji, jakości, gatunku lub pochodzenia albo towary niewłaściwie oznaczone, podlega karze ograniczenia wolności albo grzywny do 1500 złotych.
 
-**Art. 138.** Klo, zawodowo i pobiera za odobo albo bez uzasa{inionej przyczyny odma wia do którego jest podlega karze grzywny.
+§ 3. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
 
-**Art. 139.** Przepisów art. 132 i 134 nie .stosuje do osób, które czyn w tych przepisach w 5 od uprawomocnienia orzeczenia za prze podobne albo w 21atod uprawomocnienia orzeczenia () ukaraniu za. wykroczenie podobne. XVI Wykroczenia przeciwko publiczneJ.
+**Art. 137.**
 
-**Art. 140.** Kto publicznie dopuszcza nieobyczajnego wybryku, ip(}dlega karze aresztu ,do 'ograniczenia grzywny do 3000 albo karze nagany. . ,
+§ 1. (uchylony) § 2. Kierownik punktu sprzedaży detalicznej lub zakładu gastronomicznego, który nie ma faktur albo innych dowodów dostawy lub przyjęcia na towary przechowywane w punkcie sprzedaży detalicznej lub zakładzie gastronomicznym, podlega karze aresztu albo grzywny.
 
-**Art. 14t.** Kto w miejscu publicznym umieszcza nieprzyzwoite na.pis rysunek albo nie przyzwoitych, . podlega karze ' ograniczenia grzywny do 3000 albo karze' nagany; ,
+**Art. 138.**
 
-**Art. 142.** Kto natarczywie, w inny publiczny sposób, pr,oponuje oso bie dokonanie z clynu na celu uzys kanie materialnej. podlega karze aresztu, ograniczenia alb() grzywny. XVII Wykroczenia -przeciwko publicznego.
+- **3)** Kto, zajmując się zawodowo świadczeniem usług, żąda i pobiera za świadczenie zapłatę wyższą od obowiązującej albo umyślnie bez uzasadnionej przyczyny odmawia świadczenia, do którego jest obowiązany, podlega karze grzywny.
 
-**Art. 143.** Kto, ze swawoli utrlldnia wia korzysta nie z przewaczonych do publicwego, a w uszkadza· usuwa alarmowy. zegar"automat, telefon, oznaczenie nazwy ulicy, placu nie do utrzymania podlega karze aresztu, ograniczenia albo grzywny. Dziennik Ustaw Nr 12 .. - .96 § 2. W razie . orzec ob 0. szkody albo oboprzywrócenia do sta,nu poprzedniego. ' Art• • 44. 1. Kto' na terenach przezn"aczonych do użytku lPublicz~~go itlszez'y uszkadza roślinność albo 'depcze trawnik zie"leniec Aopuszcza do niszczenia ich przez pod jego nadzorem, podlega do 2000 .albo karze na'. 'gany. · ' 2. Kto usuwa, niszCzy"lub uszkadza drzewa krze wy zadrzewienie ochronne ' albo .podlega karze aresztu, ograniczenia albo grzywny.
+**Art. 138a.** (uchylony) [Art. 138b. § 1. Kto, będąc zobowiązany na mocy orzeczenia sądu do zaniechania wykorzystywania lub do odwołania zalecenia stosowania ogólnych warunków umów albo wzoru umowy, nie stosuje się do tego obowiązku, zawierając w umowie niedozwolone postanowienia umowne, podlega karze grzywny.
 
-**Art. 149.** Kto nabywa. .korzenie, krzewy' pniaki o one 'z wykroczenia lonego w art. 148, pOqlaga do ich zbycia albo w celu przyjmuje je pomaga do ich ukrycia, podlega karze grzywny. Art. 15Ó. 1. Kto uszkadza nie do niego owocowy kWiatÓ'wy, drzewo owocowe krzew owocowy, . podlega' karze' ograniczenia albo grzywny 3'000 . . . § 2. czyn nie 'godzi w mienie tylko na poktzywdzonego. , 3. W fazie ' popełnienia wykroczenia 'orieka do 3000 .
+**Art. 138c.**
+
+§ 1. Kto w zakresie działalności swojego przedsiębiorstwa zawiera z konsumentem umowę o kredyt konsumencki z rażącym naruszeniem wymagań dotyczących informacji przekazywanych konsumentowi przed zawarciem umowy lub treści umowy albo z pominięciem obowiązku doręczenia jej dokumentu, podlega karze grzywny.
+
+§ 1a. Tej samej karze podlega, kto zawierając z konsumentem umowę o kredyt konsumencki nie dopełnia obowiązku oceny zdolności kredytowej.
+
+§ 2. Kto w reklamach dotyczących kredytu konsumenckiego zawierających dane dotyczące kosztu kredytu konsumenckiego, nie podaje:
+
+- **1)** stopy oprocentowania kredytu wraz z wyodrębnieniem opłat uwzględnianych w całkowitym koszcie kredytu,
+- **2)** całkowitej kwoty kredytu,
+- **3)** rzeczywistej rocznej stopy oprocentowania, podlega karze grzywny.
+
+§ 3. Kto przyjmuje od konsumenta czek niezawierający zastrzeżenia „nie na zlecenie” lub innego równoznacznego w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy o kredyt konsumencki, podlega karze grzywny.
+
+§ 3a. Kto przyjmuje od konsumenta weksel niezawierający zastrzeżenia „nie na zlecenie” lub innego równoznacznego w celu spełnienia lub zabezpieczenia świadczenia wynikającego z umowy zawartej z konsumentem, podlega karze grzywny.
+
+§ 4. Jeżeli przedsiębiorcą jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w przepisach § 1–3a ponosi osoba kierująca przedsiębiorstwem lub osoba upoważniona do zawierania umów z konsumentami.
+
+**Art. 138d.**
+
+§ 1. Kto, podejmując zadania przewodnika górskiego na określonym obszarze górskim wprowadza w błąd co do posiadanych uprawnień, podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega organizator turystyki lub przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych, który wprowadza podróżnych w błąd co do uprawnień osób, którym powierza wykonywanie zadań przewodnika górskiego.
+
+**Art. 139.** (uchylony)
+
+**Art. 139a.**
+
+§ 1. Kto w zakresie działalności swojego przedsiębiorstwa:
+
+- **1)** zawiera z konsumentem umowę timeshare, umowę o długoterminowy produkt wakacyjny, umowę pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego, lub umowę o uczestnictwo w systemie wymiany, bez zachowania właściwych wymogów, dotyczących jej treści lub formy,
+- **2)** żąda od konsumenta, z którym zawarł umowę timeshare, umowę o długoterminowy produkt wakacyjny lub umowę o uczestnictwo w systemie wymiany, świadczenia przed upływem określonego w ustawie terminu do odstąpienia od umowy, lub świadczenie takie przed upływem tego terminu od konsumenta przyjmuje,
+- **3)** żąda od konsumenta, z którym zawarł umowę pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego, świadczenia przed rozwiązaniem umowy lub przed doprowadzeniem do nabycia lub zbycia przez konsumenta praw z umowy timeshare lub z umowy o długoterminowy produkt wakacyjny, lub świadczenie takie przed rozwiązaniem umowy lub przed doprowadzeniem do nabycia lub zbycia przez konsumenta praw z umowy timeshare lub z umowy o długoterminowy produkt wakacyjny od konsumenta przyjmuje,
+- **4)** żąda od konsumenta, z którym zawarł umowę przedwstępną, zobowiązującą do zawarcia umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego, lub umowy o uczestnictwo w systemie wymiany, świadczenia określonego w umowie przedwstępnej przed upływem terminu do odstąpienia od umowy przedwstępnej, lub świadczenie takie przed upływem tego terminu od konsumenta przyjmuje – podlega karze ograniczenia wolności albo grzywny.
+
+§ 2. Kto zawierając umowę timeshare sprzecznie z treścią nabywanego prawa oświadcza, że przedmiotem umowy jest własność – podlega karze grzywny.
+
+§ 3. Kto w zakresie działalności swojego przedsiębiorstwa, po upływie określonego w ustawie terminu do odstąpienia od umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego lub umowy o uczestnictwo w systemie wymiany, nie przekazuje konsumentowi informacji wymaganych ustawą – podlega karze grzywny.
+
+§ 4. Karze określonej w § 3 podlega również ten, kto w zakresie działalności swojego przedsiębiorstwa, po upływie określonego w ustawie terminu do odstąpienia od umowy przedwstępnej, zobowiązującej do zawarcia umowy timeshare, umowy o długoterminowy produkt wakacyjny, umowy pośrednictwa w odsprzedaży timeshare lub długoterminowego produktu wakacyjnego, lub umowy o uczestnictwo w systemie wymiany, nie przekazuje konsumentowi informacji wymaganych ustawą.
+
+**Art. 139b.** Kto w zakresie działalności swojego przedsiębiorstwa zawierając umowę z konsumentem nie spełnia wymagań dotyczących udzielenia informacji lub wydania dokumentu, przewidzianych w przepisach ustawy z dnia 30 maja 2014 r. o prawach konsumenta (Dz. U. z 2024 r. poz. 1796), podlega karze grzywny.
+
+**Art. 139c.**
+
+§ 1. Kto w zakresie działalności swojego przedsiębiorstwa przyjmuje od konsumenta płatność przed upływem terminu do odstąpienia od umowy zawartej na odległość lub poza lokalem przedsiębiorstwa, w przypadkach określonych w art. 17a ustawy z dnia 30 maja 2014 r. o prawach konsumenta, podlega karze grzywny.
+
+§ 2. Jeżeli przedsiębiorcą jest podmiot niebędący osobą fizyczną, odpowiedzialność przewidzianą w § 1 ponosi osoba kierująca przedsiębiorstwem lub osoba upoważniona do zawierania umów z konsumentami.
+
+#### Rozdział XVI Wykroczenia przeciwko obyczajności publicznej
+
+**Art. 140.** Kto publicznie dopuszcza się nieobyczajnego wybryku, podlega karze aresztu, ograniczenia wolności, grzywny do 1500 złotych albo karze nagany.
+
+**Art. 141.** Kto w miejscu publicznym umieszcza nieprzyzwoite ogłoszenie, napis lub rysunek albo używa słów nieprzyzwoitych, podlega karze ograniczenia wolności, grzywny do 1500 złotych albo karze nagany.
+
+**Art. 142.** Kto natarczywie, narzucając się lub w inny naruszający porządek publiczny sposób, proponuje innej osobie dokonanie z nią czynu nierządnego, mając na celu uzyskanie korzyści materialnej, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+#### Rozdział XVII Wykroczenia przeciwko urządzeniom użytku publicznego
+
+**Art. 143.**
+
+§ 1. Kto ze złośliwości lub swawoli utrudnia lub uniemożliwia korzystanie z urządzeń przeznaczonych do użytku publicznego, a w szczególności uszkadza lub usuwa przyrząd alarmowy, instalację oświetleniową, zegar, automat, telefon, oznaczenie nazwy miejscowości, ulicy, placu lub nieruchomości, urządzenie służące do utrzymania czystości lub ławkę, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody albo obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 144.**
+
+§ 1. Kto na terenach przeznaczonych do użytku publicznego niszczy lub uszkadza roślinność lub też dopuszcza do niszczenia roślinności przez zwierzęta znajdujące się pod jego nadzorem albo na terenach przeznaczonych do użytku publicznego depcze trawnik lub zieleniec w miejscach innych niż wyznaczone dla celów rekreacji przez właściwego zarządcę terenu, podlega karze grzywny do 1000 złotych albo karze nagany.
+
+§ 2. Kto usuwa, niszczy lub uszkadza drzewa lub krzewy stanowiące zadrzewienie przydrożne lub ochronne albo żywopłot przydrożny, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec nawiązkę do wysokości 500 złotych.
+
+**Art. 145.**
+
+§ 1. Kto zanieczyszcza lub zaśmieca obszar kolejowy lub miejsca dostępne dla publiczności, a w szczególności drogę, ulicę, plac, ogród, trawnik lub zieleniec, podlega karze grzywny nie niższej niż 500 złotych.
+
+§ 2. Usiłowanie wykroczenia określonego w § 1 oraz podżeganie do niego i pomocnictwo są karalne.
+
+§ 3. W razie popełnienia wykroczenia określonego w § 1 można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+#### Rozdział XVIII Wykroczenia przeciwko obowiązkowi ewidencji
+
+**Art. 146.**
+
+§ 1. Kto nie dopełnia w terminie obowiązku zgłoszenia w urzędzie stanu cywilnego faktu urodzenia lub zgonu, podlega karze grzywny do 250 złotych albo karze nagany.
+
+§ 2. Sprawca nie podlega odpowiedzialności, jeżeli pomimo niedokonania zgłoszenia akt stanu cywilnego został sporządzony we właściwym czasie.
+
+**Art. 147.** (uchylony)
+
+**Art. 147a.**
+
+§ 1. Kto wykonuje działalność leczniczą lub prowadzi zakład leczniczy dla zwierząt bez wymaganego wpisu do rejestru lub ewidencji, podlega karze aresztu, ograniczenia wolności albo grzywny.
+
+§ 2. Tej samej karze podlega ten, kto podaje do wiadomości publicznej informacje o zakresie i rodzajach udzielanych świadczeń zdrowotnych lub usług z zakresu medycyny weterynaryjnej mające formę i treść reklamy.
+
+#### Rozdział XIX Szkodnictwo leśne, polne i ogrodowe
+
+**Art. 148.**
+
+§ 1. Kto:
+
+- **1)** dokonuje w nienależącym do niego lesie wyrębu gałęzi, korzeni lub krzewów, niszczy je lub uszkadza albo karczuje pniaki,
+- **2)** zabiera z nienależącego do niego lasu wyrąbane gałęzie, korzenie lub krzewy albo wykarczowane pniaki, podlega karze grzywny.
+
+§ 2. Jeżeli czyn godzi w mienie osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
+
+§ 3. W razie popełnienia wykroczenia można orzec nawiązkę do wysokości 500 złotych.
+
+**Art. 149.** Kto nabywa gałęzie, korzenie, krzewy lub pniaki wiedząc o tym, że pochodzą one z wykroczenia określonego w art. 148, lub pomaga do ich zbycia albo w celu osiągnięcia korzyści majątkowej przyjmuje je lub pomaga do ich ukrycia, podlega karze grzywny.
+
+**Art. 150.**
+
+§ 1. Kto uszkadza nienależący do niego ogród warzywny, owocowy lub kwiatowy, drzewo owocowe lub krzew owocowy, podlega karze ograniczenia wolności albo grzywny do 1500 złotych.
+
+§ 2. Ściganie następuje na żądanie pokrzywdzonego.
+
+§ 3. W razie popełnienia wykroczenia orzeka się nawiązkę do wysokości 1500 złotych.
 
 **Art. 151.**
 
-1. Kto pasie gos,podarskie do niego gruntach rolnych albo takie grunty w miejscach, w których jest to zabronione, chodzi, przegania gospodarskie, podlega karze grzywny l 000 albo gany.
+§ 1. Kto pasie zwierzęta gospodarskie na nienależących do niego gruntach leśnych lub rolnych albo przez takie grunty w miejscach, w których jest to zabronione, przechodzi, przejeżdża lub przegania zwierzęta gospodarskie, podlega karze grzywny do 500 złotych albo karze nagany.
 
-2. grunt je'st zaorany, zasiany obsadzony, znajduje w s,tanie sztucznego zalesienia, naturalnego nowienia stanowi do lat 20, sprawca ,podlega karze grzywny.
+§ 2. Jeżeli grunt jest zaorany, zasiany lub obsadzony, znajduje się w stanie sztucznego zalesienia, naturalnego odnowienia lub stanowi młodnik leśny do lat 20, sprawca podlega karze grzywny.
 
-3. Karze w §'2 podlega przegania gospodarskie przez i ,4. Jezeli czyn nie godzi w mienie tylko na pokrzywdzonego.
+§ 3. Karze określonej w § 2 podlega również ten, kto przejeżdża lub przegania zwierzęta gospodarskie przez wodę zamkniętą i zarybioną.
 
-5. W razie wykroczenia · § 1, 2 3 orzec do tych. '
+§ 4. Ściganie następuje na żądanie pokrzywdzonego.
+
+§ 5. W razie popełnienia wykroczenia określonego w § 1, 2 lub 3 można orzec nawiązkę do wysokości 1500 złotych.
 
 **Art. 152.**
 
-1. Kto niszczy na siedliskaCh naturalnych vi' gÓfiich torfowiskach, podlega karze grzywny do 2000 albo ,karze gany.
+§ 1. Kto niszczy lub użytkuje kosodrzewinę znajdującą się na siedliskach naturalnych w górach lub na torfowiskach, podlega karze grzywny do 1000 złotych albo karze nagany.
 
-2. W razie wykroczenia do l 000
+§ 2. W razie popełnienia wykroczenia można orzec nawiązkę do wysokości 500 złotych.
 
 **Art. 153.**
 
-§ 1. Kto w nie do niego
+§ 1. Kto w nienależącym do niego lesie:
 
-- **1)** wydobywa sok brzozowy, oorywa zdziera nacina drzewo inny sposób dza.. '
-- **2)** zbiera mech'lub
-- **3)** z1)jera ,ga wióry, wrzos, szyszki albo zdziera '
-- **4)** zbiera grzyby owoce leśne w· miejscach, w jest to zabronione, albo sposobem niedozwolonym, podlega karze- grzywny do 500 albo karze gany. 2. czyn nie godzi w tylko na pokrzywdzonego. ,
+- **1)** wydobywa żywicę lub sok brzozowy, obrywa szyszki, zdziera korę, nacina drzewo lub w inny sposób je uszkadza,
+- **2)** zbiera mech lub ściółkę,
+- **3)** zbiera gałęzie, korę, wióry, trawę, wrzos, szyszki lub zioła albo zdziera darń,
+- **4)** zbiera grzyby lub owoce leśne w miejscach, w których jest to zabronione, albo sposobem niedozwolonym, podlega karze grzywny do 250 złotych albo karze nagany.
 
-**Art. 154.** t. Kto na nie do nieg'o rolnym:
+§ 2. Jeżeli czyn godzi w mienie osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
 
-**Art. 156.** l. Kto na nie do gruncie lubrqlnymniszczyzasiewy, sadzonki podlega karze grzywny do 1000 albo karze na § 2. czyn nie godzi w mienie tylko na PO'f. 114 i t 15 pokrzywdLOnego.
+**Art. 154.**
 
-**Art. 157.** l. Kto wbrew osoby uprawnionej nie opuszcza lasu, pola, ogrodu, pastwiska, grobli. podlega karze grzywny do l 000 złotych albo karze na gany. 2. czyn nie godzi w m-ienie tylko na pokrzywdzonego. Rady J. Cyrankiewicz Sekretarz Rady L. Stasiak 115 USTA WA z dnia 20 maja 1971 r. Przepisy wprowadzające Kodeks wykroczeń. korozial I Przepisy ogólne. Art. I. Kod~ks wchodzi w z dniem l stycznia 1972 r. \ Art. II. l. Z dniem w Kodeksu wykro moc wszelkie przepisy przedmiotów w tym kodeksie unormowanych. / 2. W moc przepisy wymienione Art. lU. . niniejsza usta wa. wymienia przepisy do tychczasowe, przez to przepisy z nieniem wszystkich zmian i wprowadzonych przed dniem w tej ustawy. Art. IV. Uchyla
+§ 1. Kto na nienależącym do niego gruncie leśnym lub rolnym:
+
+- **1)** wydobywa piasek, margiel, żwir, glinę lub torf,
+- **2)** niszczy lub uszkadza urządzenia służące do utrzymania zwierząt lub ptaków,
+- **3)** (uchylony)
+- **4)** kopie dół lub rów, podlega karze grzywny do 1000 złotych albo karze nagany.
+
+§ 2. Kto na nienależący do niego grunt polny wyrzuca kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, podlega karze grzywny nie niższej niż 500 złotych.
+
+§ 2a. Usiłowanie wykroczenia określonego w § 2 oraz podżeganie do niego i pomocnictwo są karalne.
+
+§ 2b. W razie popełnienia wykroczenia określonego w § 2 można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+§ 3. Jeżeli czyn godzi w mienie osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
+
+**Art. 155.**
+
+§ 1. Kto na gruncie leśnym lub rolnym niszczy lub uszkadza urządzenia melioracyjne, podlega karze grzywny.
+
+§ 2. W razie popełnienia wykroczenia można orzec obowiązek zapłaty równowartości wyrządzonej szkody lub obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 156.**
+
+§ 1. Kto na nienależącym do niego gruncie leśnym lub rolnym niszczy zasiewy, sadzonki lub trawę, podlega karze grzywny do 500 złotych albo karze nagany.
+
+§ 2. Jeżeli czyn godzi w mienie osoby najbliższej, ściganie następuje na żądanie pokrzywdzonego.
+
+§ 3. W razie popełnienia wykroczenia można orzec nawiązkę do wysokości 500 złotych.
+
+**Art. 157.**
+
+§ 1. Kto wbrew żądaniu osoby uprawnionej nie opuszcza lasu, pola, ogrodu, pastwiska, łąki lub grobli, podlega karze grzywny do 500 złotych lub karze nagany.
+
+§ 2. Ściganie następuje na żądanie pokrzywdzonego.
+
+**Art. 158.**
+
+§ 1. Właściciel lub posiadacz lasu, który dokonuje wyrębu drzewa w należącym do niego lesie albo w inny sposób pozyskuje z tego lasu drewno niezgodnie z planem urządzenia lasu, uproszczonym planem urządzenia lasu lub decyzją określającą zadania z zakresu gospodarki leśnej albo bez wymaganego pozwolenia, podlega karze grzywny.
+
+§ 2. W razie popełnienia wykroczenia określonego w § 1 orzeka się przepadek pozyskanego drewna.
+
+**Art. 159.** Kto, wbrew ciążącemu na nim obowiązkowi w zakresie ochrony lasów, nie wykonuje zabiegów zapobiegających, wykrywających i zwalczających nadmiernie pojawiające się i rozprzestrzeniające się organizmy szkodliwe, podlega karze grzywny.
+
+**Art. 160.**
+
+§ 1. Kto, działając bez wymaganego zezwolenia, zmienia las na uprawę rolną, podlega karze grzywny.
+
+§ 2. W razie popełnienia wykroczenia określonego w § 1 można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 161.** Kto, nie będąc do tego uprawniony albo bez zgody właściciela lub posiadacza lasu, wjeżdża pojazdem silnikowym, zaprzęgowym lub motorowerem do nienależącego do niego lasu w miejscu, w którym jest to niedozwolone, albo pozostawia taki pojazd w lesie w miejscu do tego nieprzeznaczonym, podlega karze grzywny.
+
+**Art. 162.**
+
+§ 1. Kto w lasach zanieczyszcza glebę lub wodę albo wyrzuca do lasu kamienie, odpady, złom lub padlinę niebędące odpadami lub inne nieczystości, albo w inny sposób zaśmieca las, podlega karze ograniczenia wolności albo grzywny nie niższej niż 500 złotych.
+
+§ 2. Jeżeli czyn sprawcy polega na zakopywaniu, zatapianiu, odprowadzaniu do gruntu w lasach lub w inny sposób składowaniu w lesie odpadów, sprawca podlega karze aresztu, ograniczenia wolności albo grzywny nie niższej niż 1000 złotych.
+
+§ 3. Usiłowanie wykroczenia określonego w § 1 lub 2 oraz podżeganie do niego i pomocnictwo są karalne.
+
+§ 4. W razie popełnienia wykroczenia określonego w § 1 lub 2 można orzec obowiązek przywrócenia do stanu poprzedniego.
+
+**Art. 163.** Kto w lesie rozgarnia ściółkę i niszczy grzyby lub grzybnię, podlega karze grzywny albo karze nagany.
+
+**Art. 164.** Kto wybiera jaja lub pisklęta, niszczy lęgowiska lub gniazda ptasie albo niszczy legowiska, nory lub mrowiska znajdujące się w lesie albo na nienależącym do niego gruncie rolnym, podlega karze grzywny albo karze nagany.
+
+**Art. 165.** Kto w lesie, w sposób złośliwy, płoszy albo ściga, chwyta, rani lub zabija dziko żyjące zwierzę, poza czynnościami związanymi z polowaniem lub ochroną lasów, jeżeli czyn z mocy innego przepisu nie jest zagrożony karą surowszą, podlega karze grzywny albo karze nagany.
+
+**Art. 166.** Kto w lesie puszcza luzem psa, poza czynnościami związanymi:
 

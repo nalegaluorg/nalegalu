@@ -10,7 +10,9 @@ status: obowiązujący
 domain: null
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 16 lipca 1997r.
+# W trosce o byt i przyszłość naszej Ojczyzny, odzyskawszy w 1989 roku możliwość suwerennego i demokratycznego stanowienia o Jej losie, my, Naród Polski – wszyscy obywatele Rzeczypospolitej, zarówno wierzący w Boga będącego źródłem prawdy, sprawiedliwości, dobra i piękna, jak i nie podzielający tej wiary, a te uniwersalne wartości wywodzący z innych źródeł, równi w prawach i w powinnościach wobec dobra wspólnego – Polski, wdzięczni naszym przodkom za ich pracę, za walkę o niepodległość okupioną ogromnymi ofiarami, za kulturę zakorzenioną w chrześcijańskim dziedzictwie Narodu i ogólnoludzkich wartościach, nawiązując do najlepszych tradycji Pierwszej i Drugiej Rzeczypospolitej, zobowiązani, by przekazać przyszłym pokoleniom wszystko, co cenne z ponad tysiącletniego dorobku, złączeni więzami wspólnoty z naszymi rodakami rozsianymi po świecie, świadomi potrzeby współpracy ze wszystkimi krajami dla dobra Rodziny Ludzkiej, pomni gorzkich doświadczeń z czasów, gdy podstawowe wolności i prawa człowieka były w naszej Ojczyźnie łamane, pragnąc na zawsze zagwarantować prawa obywatelskie, a działaniu instytucji publicznych zapewnić rzetelność i sprawność, w poczuciu odpowiedzialności przed Bogiem lub przed własnym sumieniem, ustanawiamy Konstytucję Rzeczypospolitej Polskiej jako prawa podstawowe dla państwa oparte na poszanowaniu wolności i sprawiedliwości, współdziałaniu władz, dialogu społecznym oraz na zasadzie pomocniczości umacniającej uprawnienia obywateli i ich wspólnot.
+
+*KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 kwietnia 1997 r.*
 
 | Pole | Wartość |
 |---|---|
@@ -23,1015 +25,1473 @@ domain: null
 | Ostatnia zmiana | 2026-03-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19970780483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1997/483/text.pdf) |
 
-483 KONSTYTUCJA RZECZYPOSPOLITEJ POLSKIEJ z dnia 2 kwietnia 1997 r.
-W trosce o byt i naszej Ojczyzny, odzyskawszy w 1989 roku suwerennego i demokratycz nego stanowienia o Jej losie, my, Naród Polski - wszyscy obywatele Rzeczypospolitej, zarówno w Boga prawdy, dobra i jak i nie tej wiary, a te uniwersalne z innych równi w prawach i w wobec dobra wspólnego Polski, naszym przodkom za ich za o ogromnymi ofiarami, za w chrze dziedzictwie Narodu i ogólnoludzkich do najlepszych tradycji Pierwszej i Drugiej Rzeczypo spolitej, by pokoleniom wszystko, co cenne z ponad dorobku, wspólnoty z naszymi rodakami rozsianymi po potrzeby ze wszystkimi krajami dla dobra Rodziny Ludzkiej, pomni gorzkich z czasów, gdy podstawowe na zawsze prawa obywatelskie, a niu instytucji publicznych i w poczuciu przed Bogiem lub przed sumieniem, ustanawiamy Rzeczypospolitej Polskiej jako prawa podstawowe dla oparte na poszanowaniu i niu dialogu oraz na zasadzie uprawnienia obywateli i ich wspólnot.
-Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej Kon stosowali, wzywamy, aby czynili to, o zachowanie przyrodzonej god jego prawa do i z innymi, a poszanowanie tych zasad mieli za Rze czypospolitej Polskiej.
-I RZECZPOSPOLITA
+Wszystkich, którzy dla dobra Trzeciej Rzeczypospolitej tę Konstytucję będą stosowali, wzywamy, aby czynili to, dbając o zachowanie przyrodzonej godności człowieka, jego prawa do wolności i obowiązku solidarności z innymi, a poszanowanie tych zasad mieli za niewzruszoną podstawę Rzeczypospolitej Polskiej.
 
-**Art. 1.** Rzeczpospolita Polska jest dobrem wspólnym wszystkich oby wateli.
+#### Rozdział I RZECZPOSPOLITA
 
-**Art. 2.** Rzeczpospolita Polska jest demokratycznym praw nym, zasady
+**Art. 1.** Rzeczpospolita Polska jest dobrem wspólnym wszystkich obywateli.
 
-**Art. 3.** Rzeczpospolita Polska jest jednolitym.
+**Art. 2.** Rzeczpospolita Polska jest demokratycznym państwem prawnym, urzeczywistniającym zasady sprawiedliwości społecznej.
+
+**Art. 3.** Rzeczpospolita Polska jest państwem jednolitym.
 
 **Art. 4.**
 
-1. zwierzchnia w Rzeczypospolitej Polskiej do Narodu.
+1. Władza zwierzchnia w Rzeczypospolitej Polskiej należy do Narodu.
 
-2. Naród sprawuje przez swoich przedstawicieli lub bez
+2. Naród sprawuje władzę przez swoich przedstawicieli lub bezpośrednio.
 
-**Art. 5.** Rzeczpospolita Polska i swojego terytorium, zapewnia i prawa i obywa tela oraz obywateli, dziedzictwa narodowe go oraz zapewnia zrówno rozwoju.
+**Art. 5.** Rzeczpospolita Polska strzeże niepodległości i nienaruszalności swojego terytorium, zapewnia wolności i prawa człowieka i obywatela oraz bezpieczeństwo obywateli, strzeże dziedzictwa narodowego oraz zapewnia ochronę środowiska, kierując się zasadą zrównoważonego rozwoju.
 
 **Art. 6.**
 
-1. Rzeczpospolita Polska stwarza warunki upowszechniania i równego do dóbr kultury, na rodu polskiego, jego trwania i rozwoju.
+1. Rzeczpospolita Polska stwarza warunki upowszechniania i równego dostępu do dóbr kultury, będącej źródłem tożsamości narodu polskiego, jego trwania i rozwoju.
 
-2. Rzeczpospolita Polska udziela pomocy Polakom zamieszka za w zachowaniu ich z narodowym dzie dzictwem kulturalnym.
+2. Rzeczpospolita Polska udziela pomocy Polakom zamieszkałym za granicą w zachowaniu ich związków z narodowym dziedzictwem kulturalnym.
 
-**Art. 7.** Organy publicznej na podstawie i w granicach prawa.
+**Art. 7.** Organy władzy publicznej działają na podstawie i w granicach prawa.
 
 **Art. 8.**
 
-1. Konstytucja jest prawem Rzeczypospolitej Pol skiej.
+1. Konstytucja jest najwyższym prawem Rzeczypospolitej Polskiej.
 
-2. Przepisy Konstytucji stosuje chyba Kon stytucja stanowi inaczej.
+2. Przepisy Konstytucji stosuje się bezpośrednio, chyba że Konstytucja stanowi inaczej.
 
-**Art. 9.** Rzeczpospolita Polska przestrzega prawa narodowego.
+**Art. 9.** Rzeczpospolita Polska przestrzega wiążącego ją prawa międzynarodowego.
 
 **Art. 10.**
 
-1. Ustrój Rzeczypospolitej Polskiej opiera na podziale i rów nowadze ustawodawczej, wykonawczej i
+1. Ustrój Rzeczypospolitej Polskiej opiera się na podziale i równowadze władzy ustawodawczej, władzy wykonawczej i władzy sądowniczej.
 
-2. Sejm i Senat, wyko Prezydent Rzeczypospolitej Polskiej i Rada Ministrów, a i
+2. Władzę ustawodawczą sprawują Sejm i Senat, władzę wykonawczą Prezydent Rzeczypospolitej Polskiej i Rada Ministrów, a władzę sądowniczą sądy i trybunały.
 
 **Art. 11.**
 
-1. Rzeczpospolita Polska zapewnia tworzenia i nia partii politycznych. Partie polityczne na zasadach do i obywateli polskich w celu me todami demokratycznymi na polityki
+1. Rzeczpospolita Polska zapewnia wolność tworzenia i działania partii politycznych. Partie polityczne zrzeszają na zasadach dobrowolności i równości obywateli polskich w celu wpływania metodami demokratycznymi na kształtowanie polityki państwa.
 
 2. Finansowanie partii politycznych jest jawne.
 
-**Art. 12.** Rzeczpospolita Polska zapewnia tworzenia i zawodowych, organizacji rolni ków, ruchów obywatelskich, innych dobrowolnych oraz fundacji.
+**Art. 12.** Rzeczpospolita Polska zapewnia wolność tworzenia i działania związków zawodowych, organizacji społeczno-zawodowych rolników, stowarzyszeń, ruchów obywatelskich, innych dobrowolnych zrzeszeń oraz fundacji.
 
-**Art. 13.** Zakazane jest istnienie partii politycznych i innych organizacji w swoich programach do totalitarnych metod i praktyk nazizmu, faszyzmu i komunizmu, a tych, których program lub lub dopuszcza i stosowanie przemocy w celu zdobycia lub na albo przewiduje utajnie nie struktur lub
+**Art. 13.** Zakazane jest istnienie partii politycznych i innych organizacji odwołujących się w swoich programach do totalitarnych metod i praktyk działania nazizmu, faszyzmu i komunizmu, a także tych, których program lub działalność zakłada lub dopuszcza nienawiść rasową i narodowościową, stosowanie przemocy w celu zdobycia władzy lub wpływu na politykę państwa albo przewiduje utajnienie struktur lub członkostwa.
 
-**Art. 14.** Rzeczpospolita Polska zapewnia prasy i innych ków przekazu.
+**Art. 14.** Rzeczpospolita Polska zapewnia wolność prasy i innych środków społecznego przekazu.
 
 **Art. 15.**
 
-1. Ustrój terytorialny Rzeczypospolitej Polskiej zapewnia decen publicznej.
+1. Ustrój terytorialny Rzeczypospolitej Polskiej zapewnia decentralizację władzy publicznej.
 
-2. Zasadniczy terytorialny zi gospodarcze lub kulturowe i jednost kom terytorialnym wykonywania publicznych ustawa.
+2. Zasadniczy podział terytorialny państwa uwzględniający więzi społeczne, gospodarcze lub kulturowe i zapewniający jednostkom terytorialnym zdolność wykonywania zadań publicznych określa ustawa.
 
 **Art. 16.**
 
-1. jednostek zasadniczego teryto rialnego stanowi z mocy prawa
+1. Ogół mieszkańców jednostek zasadniczego podziału terytorialnego stanowi z mocy prawa wspólnotę samorządową.
 
-2. terytorialny uczestniczy w sprawowaniu publicznej. mu w ramach ustaw publicznych wykonuje w imieniu i na od
+2. Samorząd terytorialny uczestniczy w sprawowaniu władzy publicznej. Przysługującą mu w ramach ustaw istotną część zadań publicznych samorząd wykonuje w imieniu własnym i na własną odpowiedzialność.
 
-1. W drodze ustawy zawodowe, re osoby zawody zaufania publicznego i nad wykonywaniem tych zawodów w granicach interesu publicznego i dla jego ochrony.
+**Art. 17.**
 
-2. W drodze ustawy inne rodzaje du. te nie wykonywania zawodu ani podejmowania gospodarczej.
+1. W drodze ustawy można tworzyć samorządy zawodowe, reprezentujące osoby wykonujące zawody zaufania publicznego i sprawujące pieczę nad należytym wykonywaniem tych zawodów w granicach interesu publicznego i dla jego ochrony.
 
-**Art. 18.** Małżeństwo jako kobiety i rodzina, macie i rodzicielstwo pod i Rzeczy pospolitej Polskiej. Rzeczpospolita Polska otacza weteranów walk o inwalidów wojennych. gospodarka rynkowa oparta na gospodarczej, prywatnej oraz dialogu i partnerów stanowi ustroju go spodarczego Rzeczypospolitej Polskiej.
+2. W drodze ustawy można tworzyć również inne rodzaje samorządu. Samorządy te nie mogą naruszać wolności wykonywania zawodu ani ograniczać wolności podejmowania działalności gospodarczej.
+
+**Art. 18.** Małżeństwo jako związek kobiety i mężczyzny, rodzina, macierzyństwo i rodzicielstwo znajdują się pod ochroną i opieką Rzeczypospolitej Polskiej.
+
+**Art. 19.** Rzeczpospolita Polska specjalną opieką otacza weteranów walk o niepodległość, zwłaszcza inwalidów wojennych.
+
+**Art. 20.** Społeczna gospodarka rynkowa oparta na wolności działalności gospodarczej, własności prywatnej oraz solidarności, dialogu i współpracy partnerów społecznych stanowi podstawę ustroju gospodarczego Rzeczypospolitej Polskiej.
 
 **Art. 21.**
 
-1. Rzeczpospolita Polska chroni i prawo dziedziczenia.
+1. Rzeczpospolita Polska chroni własność i prawo dziedziczenia.
 
-2. jest dopuszczalne jedynie wówczas, gdy jest dokonywane na cele publiczne i za odszkodowa niem. Ograniczenie gospodarczej jest dopusz czalne tylko w drodze ustawy i tylko ze na interes publiczny. ustroju rolnego jest gospodarstwo rodzinne. Zasada ta nie narusza art. 21 i art. 22. Praca znajduje pod Rzeczypospolitej Polskiej. stwo sprawuje nadzór nad warunkami wykonywania pracy.
+2. Wywłaszczenie jest dopuszczalne jedynie wówczas, gdy jest dokonywane na cele publiczne i za słusznym odszkodowaniem.
 
-1. i inne wyznaniowe równouprawnione. publiczne w Rzeczypospolitej Polskiej bez w sprawach religijnych, i filozoficzriych, ich w pu blicznym. Stosunki a i innymi wyznaniowymi na zasadach poszanowania ich au tonomii oraz wzajemnej w swoim zakresie, jak dla dobra i dobra wspólne go. Stosunki a Katolic kim umowa zawarta ze Apostol i ustawy. Stosunki a innymi oraz wyznaniowymi ustawy uchwalone na podstawie umów zawartych przez Ministrów z ich mi przedstawicielami. Zbrojne Rzeczypospolitej Polskiej ochronie niepod i jego terytorium oraz zapewnie niu i jego granic. Zbrojne w sprawach politycznych oraz cywilnej i demokratycznej kontroli. W Rzeczypospolitej Polskiej jest pol ski. Przepis ten nie narusza praw narodowych wynika z ratyfikowanych umów Rzeczypospolitej Polskiej jest wizerunek w koronie w czerwonym polu. Barwami Rzeczypospolitej Polskiej kolory i czer wony. Hymnem Rzeczypospolitej Polskiej jest Mazurek go.
+**Art. 22.** Ograniczenie wolności działalności gospodarczej jest dopuszczalne tylko w drodze ustawy i tylko ze względu na ważny interes publiczny.
 
-4. barwy i hymn Rzeczypospolitej Polskiej ochronie prawnej.
+**Art. 23.** Podstawą ustroju rolnego państwa jest gospodarstwo rodzinne. Zasada ta nie narusza postanowień art. 21 i art. 22.
 
-5. barw i hymnu ustawa.
+**Art. 24.** Praca znajduje się pod ochroną Rzeczypospolitej Polskiej. Państwo sprawuje nadzór nad warunkami wykonywania pracy.
 
-**Art. 29.** Stolicą Rzeczypospolitej Polskiej jest Warszawa. II PRAWA I I OBYWATELA Zasady ogólne
+**Art. 25.**
 
-**Art. 30.** Przyrodzona i niezbywalna stanowi i praw i obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest publicznych.
+1. Kościoły i inne związki wyznaniowe są równouprawnione.
+
+2. Władze publiczne w Rzeczypospolitej Polskiej zachowują bezstronność w sprawach przekonań religijnych, światopoglądowych i filozoficznych, zapewniając swobodę ich wyrażania w życiu publicznym.
+
+3. Stosunki między państwem a kościołami i innymi związkami wyznaniowymi są kształtowane na zasadach poszanowania ich autonomii oraz wzajemnej niezależności każdego w swoim zakresie, jak również współdziałania dla dobra człowieka i dobra wspólnego.
+
+4. Stosunki między Rzecząpospolitą Polską a Kościołem Katolickim określają umowa międzynarodowa zawarta ze Stolicą Apostolską i ustawy.
+
+5. Stosunki między Rzecząpospolitą Polską a innymi kościołami oraz związkami wyznaniowymi określają ustawy uchwalone na podstawie umów zawartych przez Radę Ministrów z ich właściwymi przedstawicielami.
+
+**Art. 26.**
+
+1. Siły Zbrojne Rzeczypospolitej Polskiej służą ochronie niepodległości państwa i niepodzielności jego terytorium oraz zapewnieniu bezpieczeństwa i nienaruszalności jego granic.
+
+2. Siły Zbrojne zachowują neutralność w sprawach politycznych oraz podlegają cywilnej i demokratycznej kontroli.
+
+**Art. 27.** W Rzeczypospolitej Polskiej językiem urzędowym jest język polski. Przepis ten nie narusza praw mniejszości narodowych wynikających z ratyfikowanych umów międzynarodowych.
+
+**Art. 28.**
+
+1. Godłem Rzeczypospolitej Polskiej jest wizerunek orła białego w koronie w czerwonym polu.
+
+2. Barwami Rzeczypospolitej Polskiej są kolory biały i czerwony.
+
+3. Hymnem Rzeczypospolitej Polskiej jest Mazurek Dąbrowskiego.
+
+4. Godło, barwy i hymn Rzeczypospolitej Polskiej podlegają ochronie prawnej.
+
+5. Szczegóły dotyczące godła, barw i hymnu określa ustawa.
+
+**Art. 29.** Stolicą Rzeczypospolitej Polskiej jest Warszawa.
+
+#### Rozdział II WOLNOŚCI, PRAWA I OBOWIĄZKI CZŁOWIEKA I OBYWATELA Zasady ogólne
+
+**Art. 30.** Przyrodzona i niezbywalna godność człowieka stanowi źródło wolności i praw człowieka i obywatela. Jest ona nienaruszalna, a jej poszanowanie i ochrona jest obowiązkiem władz publicznych.
 
 **Art. 31.**
 
-1. podlega ochronie prawnej.
+1. Wolność człowieka podlega ochronie prawnej.
 
-2. jest i prawa innych. Nikogo nie wolno do czynienia tego, czego prawo mu nie nakazuje.
+2. Każdy jest obowiązany szanować wolności i prawa innych. Nikogo nie wolno zmuszać do czynienia tego, czego prawo mu nie nakazuje.
 
-3. Ograniczenia w zakresie korzystania z konstytucyjnych i praw by ustanawiane tylko w ustawie i tylko wtedy, gdy konieczne w demokratycznym dla jego lub publicznego, dla ochrony dowiska, zdrowia i publicznej, albo i praw innych osób. Ograniczenia te nie istoty i praw.
+3. Ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw mogą być ustanawiane tylko w ustawie i tylko wtedy, gdy są konieczne w demokratycznym państwie dla jego bezpieczeństwa lub porządku publicznego, bądź dla ochrony środowiska, zdrowia i moralności publicznej, albo wolności i praw innych osób. Ograniczenia te nie mogą naruszać istoty wolności i praw.
 
 **Art. 32.**
 
-1. Wszyscy wobec prawa równi. Wszyscy prawo do rów nego traktowania przez publiczne.
+1. Wszyscy są wobec prawa równi. Wszyscy mają prawo do równego traktowania przez władze publiczne.
 
-2. Nikt nie dyskryminowany w politycznym, lub gospodarczym z jakiejkolwiek przyczyny.
+2. Nikt nie może być dyskryminowany w życiu politycznym, społecznym lub gospodarczym z jakiejkolwiek przyczyny.
 
 **Art. 33.**
 
-1. Kobieta i w Rzeczypospolitej Polskiej równe prawa w rodzinnym, politycznym, i gospodar czym.
+1. Kobieta i mężczyzna w Rzeczypospolitej Polskiej mają równe prawa w życiu rodzinnym, politycznym, społecznym i gospodarczym.
 
-2. Kobieta i w równe prawo do zatrudnienia i awansów, do jednakowego wynagradza nia za jednakowej do zabezpieczenia oraz do zajmowania stanowisk, funkcji oraz uzyskiwania publicznych i
+2. Kobieta i mężczyzna mają w szczególności równe prawo do kształcenia, zatrudnienia i awansów, do jednakowego wynagradzania za pracę jednakowej wartości, do zabezpieczenia społecznego oraz do zajmowania stanowisk, pełnienia funkcji oraz uzyskiwania godności publicznych i odznaczeń.
 
-**Art. 34.** Obywatelstwo polskie nabywa przez urodzenie z rodziców obywatelami polskimi. Inne przypadki nabycia obywatel stwa polskiego ustawa. Obywatel polski nie obywatelstwa polskiego, chyba sam go zrzeknie.
+**Art. 34.**
 
-**Art. 35.** Rzeczpospolita Polska zapewnia obywatelom polskim cym do narodowych i etnicznych zachowania i rozwoju zachowania obyczajów i tradycji oraz rozwoju kultury. narodowe i etniczne prawo do tworzenia instytucji edukacyjnych, kulturalnych i instytucji cych ochronie religijnej oraz do uczestnictwa w rozstrzy ganiu spraw ich kulturowej.
+1. Obywatelstwo polskie nabywa się przez urodzenie z rodziców będących obywatelami polskimi. Inne przypadki nabycia obywatelstwa polskiego określa ustawa.
 
-**Art. 36.** Podczas pobytu za obywatel polski ma prawo do opieki ze strony Rzeczypospolitej Polskiej.
+2. Obywatel polski nie może utracić obywatelstwa polskiego, chyba że sam się go zrzeknie.
 
-**Art. 37.** Kto znajduje pod Rzeczypospolitej Polskiej, korzy sta z i praw zapewnionych w Konstytucji. od tej zasady, do cudzoziemców, okre ustawa. i prawa osobiste
+**Art. 35.**
 
-**Art. 38.** Rzeczpospolita Polska zapewnia
+1. Rzeczpospolita Polska zapewnia obywatelom polskim należącym do mniejszości narodowych i etnicznych wolność zachowania i rozwoju własnego języka, zachowania obyczajów i tradycji oraz rozwoju własnej kultury.
 
-**Art. 39.** Nikt nie poddany eksperymentom naukowym, w tym medycznym, bez dobrowolnie zgody.
+2. Mniejszości narodowe i etniczne mają prawo do tworzenia własnych instytucji edukacyjnych, kulturalnych i instytucji służących ochronie tożsamości religijnej oraz do uczestnictwa w rozstrzyganiu spraw dotyczących ich tożsamości kulturowej.
 
-**Art. 40.** Nikt nie poddany torturom ani okrutnemu, nieludz kiemu lub traktowaniu i karaniu. Zakazuje stoso wania kar cielesnych.
+**Art. 36.** Podczas pobytu za granicą obywatel polski ma prawo do opieki ze strony Rzeczypospolitej Polskiej.
+
+**Art. 37.**
+
+1. Kto znajduje się pod władzą Rzeczypospolitej Polskiej, korzysta z wolności i praw zapewnionych w Konstytucji.
+
+2. Wyjątki od tej zasady, odnoszące się do cudzoziemców, określa ustawa. Wolności i prawa osobiste
+
+**Art. 38.** Rzeczpospolita Polska zapewnia każdemu człowiekowi prawną ochronę życia.
+
+**Art. 39.** Nikt nie może być poddany eksperymentom naukowym, w tym medycznym, bez dobrowolnie wyrażonej zgody.
+
+**Art. 40.** Nikt nie może być poddany torturom ani okrutnemu, nieludzkiemu lub poniżającemu traktowaniu i karaniu. Zakazuje się stosowania kar cielesnych.
 
 **Art. 41.**
 
-1. zapewnia i osobi Pozbawienie lub ograniczenie tylko na zasadach i w trybie w ustawie.
+1. Każdemu zapewnia się nietykalność osobistą i wolność osobistą. Pozbawienie lub ograniczenie wolności może nastąpić tylko na zasadach i w trybie określonych w ustawie.
 
-2. pozbawiony nie na podstawie wyroku wego ma prawo do w celu usta lenia tego pozbawienia. O pozbawieniu powia damia lub przez pozba wionego
+2. Każdy pozbawiony wolności nie na podstawie wyroku sądowego ma prawo odwołania się do sądu w celu niezwłocznego ustalenia legalności tego pozbawienia. O pozbawieniu wolności powiadamia się niezwłocznie rodzinę lub osobę wskazaną przez pozbawionego wolności.
 
-3. zatrzymany powinien i w sposób zro dla niego poinformowany o przyczynach zatrzymania. Po winien on w 48 godzin od chwili zatrzymania przekaza ny do dyspozycji Zatrzymanego w gu 24 godzin od przekazania do dyspozycji nie zostanie mu postanowienie o tymczasowym aresztowaniu wraz z przedstawionymi zarzutami.
+3. Każdy zatrzymany powinien być niezwłocznie i w sposób zrozumiały dla niego poinformowany o przyczynach zatrzymania. Powinien on być w ciągu 48 godzin od chwili zatrzymania przekazany do dyspozycji sądu. Zatrzymanego należy zwolnić, jeżeli w ciągu 24 godzin od przekazania do dyspozycji sądu nie zostanie mu doręczone postanowienie sądu o tymczasowym aresztowaniu wraz z przedstawionymi zarzutami.
 
-4. pozbawiony powinien traktowany w spo sób humanitarny.
+4. Każdy pozbawiony wolności powinien być traktowany w sposób humanitarny.
 
-5. bezprawnie pozbawiony ma prawo do od szkodowania.
+5. Każdy bezprawnie pozbawiony wolności ma prawo do odszkodowania.
 
 **Art. 42.**
 
-1. karnej podlega ten tylko, kto czynu zabronionego pod kary przez w czasie jego Zasada ta nie stoi na przeszkodzie uka raniu za czyn, który w czasie jego stwo w prawa
+1. Odpowiedzialności karnej podlega ten tylko, kto dopuścił się czynu zabronionego pod groźbą kary przez ustawę obowiązującą w czasie jego popełnienia. Zasada ta nie stoi na przeszkodzie ukaraniu za czyn, który w czasie jego popełnienia stanowił przestępstwo w myśl prawa międzynarodowego.
 
-2. przeciw komu prowadzone jest karne, ma prawo do obrony we wszystkich stadiach on w lub na zasadach w ustawie z z
+2. Każdy, przeciw komu prowadzone jest postępowanie karne, ma prawo do obrony we wszystkich stadiach postępowania. Może on w szczególności wybrać obrońcę lub na zasadach określonych w ustawie korzystać z obrońcy z urzędu.
 
-3. za niewinnego, dopóki jego wina nie zo stanie stwierdzona prawomocnym wyrokiem
+3. Każdego uważa się za niewinnego, dopóki jego wina nie zostanie stwierdzona prawomocnym wyrokiem sądu.
 
-**Art. 43.** Zbrodnie wojenne i zbrodnie przeciwko nie podlega przedawnieniu.
+**Art. 43.** Zbrodnie wojenne i zbrodnie przeciwko ludzkości nie podlegają przedawnieniu.
 
-**Art. 44.** Bieg przedawnienia w stosunku do nie z przyczyn politycznych, przez funkcjonariuszy pu blicznych lub na ich zlecenie, ulega zawieszeniu do czasu ustania tych przyczyn.
+**Art. 44.** Bieg przedawnienia w stosunku do przestępstw, nie ściganych z przyczyn politycznych, popełnionych przez funkcjonariuszy publicznych lub na ich zlecenie, ulega zawieszeniu do czasu ustania tych przyczyn.
 
 **Art. 45.**
 
-1. ma prawo do sprawiedliwego i jawnego rozpatrzenia sprawy bez nieuzasadnionej przez bezstronny i
+1. Każdy ma prawo do sprawiedliwego i jawnego rozpatrzenia sprawy bez nieuzasadnionej zwłoki przez właściwy, niezależny, bezstronny i niezawisły sąd.
 
-2. rozprawy ze na i publiczny oraz ze na prywatnego stron lub inny inte res prywatny. Wyrok jest publicznie.
+2. Wyłączenie jawności rozprawy może nastąpić ze względu na moralność, bezpieczeństwo państwa i porządek publiczny oraz ze względu na ochronę życia prywatnego stron lub inny ważny interes prywatny. Wyrok ogłaszany jest publicznie.
 
-**Art. 46.** Przepadek rzeczy tylko w przypadkach nych w ustawie i tylko na podstawie prawomocnego orzeczenia
+**Art. 46.** Przepadek rzeczy może nastąpić tylko w przypadkach określonych w ustawie i tylko na podstawie prawomocnego orzeczenia sądu.
 
-**Art. 47.** Każdy ma prawo do ochrony prawnej prywatnego, rodzin nego, czci i dobrego imienia oraz do decydowania o swoim osobistym.
+**Art. 47.** Każdy ma prawo do ochrony prawnej życia prywatnego, rodzinnego, czci i dobrego imienia oraz do decydowania o swoim życiu osobistym.
 
 **Art. 48.**
 
-1. Rodzice prawo do wychowania dzieci zgodnie z mi przekonaniami. Wychowanie to powinno dziecka, a jego sumienia i wyznania oraz jego przekonania.
+1. Rodzice mają prawo do wychowania dzieci zgodnie z własnymi przekonaniami. Wychowanie to powinno uwzględniać stopień dojrzałości dziecka, a także wolność jego sumienia i wyznania oraz jego przekonania.
 
-2. Ograniczenie lub pozbawienie praw rodzicielskich na tylko w przypadkach w ustawie i tylko na pod stawie prawomocnego orzeczenia
+2. Ograniczenie lub pozbawienie praw rodzicielskich może nastąpić tylko w przypadkach określonych w ustawie i tylko na podstawie prawomocnego orzeczenia sądu.
 
-**Art. 49.** Zapewnia i tajemnicy komunikowania Ich ograniczenie jedynie w przypadkach nych w ustawie i w sposób w niej
+**Art. 49.** Zapewnia się wolność i ochronę tajemnicy komunikowania się. Ich ograniczenie może nastąpić jedynie w przypadkach określonych w ustawie i w sposób w niej określony.
 
-**Art. 50.** Zapewnia mieszkania. Przeszukanie miesz kania, pomieszczenia lub pojazdu jedynie w przypad kach w ustawie i w sposób w niej
+**Art. 50.** Zapewnia się nienaruszalność mieszkania. Przeszukanie mieszkania, pomieszczenia lub pojazdu może nastąpić jedynie w przypadkach określonych w ustawie i w sposób w niej określony.
 
 **Art. 51.**
 
-1. Nikt nie inaczej na podstawie usta wy do ujawniania informacji jego osoby.
+1. Nikt nie może być obowiązany inaczej niż na podstawie ustawy do ujawniania informacji dotyczących jego osoby.
 
-2. publiczne nie i innych informacji o obywatelach w demokra tycznym prawnym.
+2. Władze publiczne nie mogą pozyskiwać, gromadzić i udostępniać innych informacji o obywatelach niż niezbędne w demokratycznym państwie prawnym.
 
-3. ma prawo do go do kumentów i zbiorów danych. Ograniczenie tego prawa okre ustawa.
+3. Każdy ma prawo dostępu do dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa.
 
-4. ma prawo do sprostowania oraz in formacji nieprawdziwych, lub zebranych w sposób sprzeczny z
+4. Każdy ma prawo do żądania sprostowania oraz usunięcia informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą.
 
-5. Zasady i tryb gromadzenia oraz informacji ustawa.
+5. Zasady i tryb gromadzenia oraz udostępniania informacji określa ustawa.
 
 **Art. 52.**
 
-1. zapewnia poruszania po terytorium Rzeczypospolitej Polskiej oraz wyboru miejsca zamieszkania i po bytu.
+1. Każdemu zapewnia się wolność poruszania się po terytorium Rzeczypospolitej Polskiej oraz wyboru miejsca zamieszkania i pobytu.
 
-2. swobodnie terytorium Rzeczypospolitej Polskiej.
+2. Każdy może swobodnie opuścić terytorium Rzeczypospolitej Polskiej.
 
-3. o których mowa w ust. 1 i 2, ograni czeniom w ustawie.
+3. Wolności, o których mowa w ust. 1 i 2, mogą podlegać ograniczeniom określonym w ustawie.
 
-4. Obywatela polskiego nie z kraju ani mu powrotu do kraju.
+4. Obywatela polskiego nie można wydalić z kraju ani zakazać mu powrotu do kraju.
 
-5. Osoba, której pochodzenie polskie stwierdzone zgod nie z na terytorium Rzeczypospolitej Pol skiej na
+5. Osoba, której pochodzenie polskie zostało stwierdzone zgodnie z ustawą, może osiedlić się na terytorium Rzeczypospolitej Polskiej na stałe.
 
 **Art. 53.**
 
-1. zapewnia sumienia i religii.
+1. Każdemu zapewnia się wolność sumienia i religii.
 
-2. religii obejmuje wyznawania lub przyjmowa nia religii wyboru oraz indywi dualnie lub z innymi, publicznie lub prywatnie, swojej religii przez uprawianie kultu, uczestniczenie w praktyko wanie i nauczanie. religii obejmuje posiadanie i innych miejsc kultu w od potrzeb ludzi oraz prawo osób do korzystania z pomocy religijnej tam, gdzie
+2. Wolność religii obejmuje wolność wyznawania lub przyjmowania religii według własnego wyboru oraz uzewnętrzniania indywidualnie lub z innymi, publicznie lub prywatnie, swojej religii przez uprawianie kultu, modlitwę, uczestniczenie w obrzędach, praktykowanie i nauczanie. Wolność religii obejmuje także posiadanie świątyń i innych miejsc kultu w zależności od potrzeb ludzi wierzących oraz prawo osób do korzystania z pomocy religijnej tam, gdzie się znajdują.
 
-3. Rodzice prawo do zapewnienia dzieciom wychowania i nauczania moralnego i religijnego zgodnie ze swoimi przekona niami. Przepis art. 48 ust. 1 stosuje odpowiednio.
+3. Rodzice mają prawo do zapewnienia dzieciom wychowania i nauczania moralnego i religijnego zgodnie ze swoimi przekonaniami. Przepis art. 48 ust. 1 stosuje się odpowiednio.
 
-4. Religia lub innego wyznaniowego o uregu lowanej sytuacji prawnej przedmiotem nauczania w szko le, przy czym nie naruszona sumienia i religii in nych osób.
+4. Religia kościoła lub innego związku wyznaniowego o uregulowanej sytuacji prawnej może być przedmiotem nauczania w szkole, przy czym nie może być naruszona wolność sumienia i religii innych osób.
 
-5. religii ograniczona jedy nie w drodze ustawy i tylko wtedy, gdy jest to konieczne do ochro ny publicznego, zdrowia, mo lub i praw innych osób.
+5. Wolność uzewnętrzniania religii może być ograniczona jedynie w drodze ustawy i tylko wtedy, gdy jest to konieczne do ochrony bezpieczeństwa państwa, porządku publicznego, zdrowia, moralności lub wolności i praw innych osób.
 
-6. Nikt nie zmuszany do uczestniczenia ani do nie uczestniczenia w praktykach religijnych.
+6. Nikt nie może być zmuszany do uczestniczenia ani do nieuczestniczenia w praktykach religijnych.
 
-7. Nikt nie przez organy publicz nej do ujawnienia swojego religijnych lub wyznania.
+7. Nikt nie może być obowiązany przez organy władzy publicznej do ujawnienia swojego światopoglądu, przekonań religijnych lub wyznania.
 
 **Art. 54.**
 
-1. zapewnia swoich oraz pozyskiwania i rozpowszechniania informacji.
+1. Każdemu zapewnia się wolność wyrażania swoich poglądów oraz pozyskiwania i rozpowszechniania informacji.
 
-2. Cenzura prewencyjna przekazu oraz koncesjonowanie prasy zakazane. Ustawa uprzedniego uzyskania koncesji na prowadzenie stacji radiowej lub telewizyjnej.
+2. Cenzura prewencyjna środków społecznego przekazu oraz koncesjonowanie prasy są zakazane. Ustawa może wprowadzić obowiązek uprzedniego uzyskania koncesji na prowadzenie stacji radiowej lub telewizyjnej.
 
 **Art. 55.**
 
-1. Ekstradycja obywatela polskiego jest zakazana.
+1. Ekstradycja obywatela polskiego jest zakazana, z wyjątkiem przypadków określonych w ust. 2 i 3.
 
-2. Zakazana jest ekstradycja osoby podejrzanej o bez przemocy z przyczyn politycznych.
+2. Ekstradycja obywatela polskiego może być dokonana na wniosek innego państwa lub sądowego organu międzynarodowego, jeżeli możliwość taka wynika z ratyfikowanej przez Rzeczpospolitą Polską umowy międzynarodowej lub ustawy wykonującej akt prawa stanowionego przez organizację międzynarodową, której Rzeczpospolita Polska jest członkiem, pod warunkiem że czyn objęty wnioskiem o ekstradycję:
 
-3. W sprawie ekstradycji orzeka
+- **1)** został popełniony poza terytorium Rzeczypospolitej Polskiej, oraz
+- **2)** stanowił przestępstwo według prawa Rzeczypospolitej Polskiej lub stanowiłby przestępstwo według prawa Rzeczypospolitej Polskiej w razie popełnienia na terytorium Rzeczypospolitej Polskiej, zarówno w czasie jego popełnienia, jak i w chwili złożenia wniosku.
+
+3. Nie wymaga spełnienia warunków określonych w ust. 2 pkt 1 i 2 ekstradycja mająca nastąpić na wniosek sądowego organu międzynarodowego powołanego na podstawie ratyfikowanej przez Rzeczpospolitą Polską umowy międzynarodowej, w związku z objętą jurysdykcją tego organu zbrodnią ludobójstwa, zbrodnią przeciwko ludzkości, zbrodnią wojenną lub zbrodnią agresji.
+
+4. Ekstradycja jest zakazana, jeżeli dotyczy osoby podejrzanej o popełnienie bez użycia przemocy przestępstwa z przyczyn politycznych lub jej dokonanie będzie naruszać wolności i prawa człowieka i obywatela.
+
+5. W sprawie dopuszczalności ekstradycji orzeka sąd.
 
 **Art. 56.**
 
-1. Cudzoziemcy z prawa azylu w Rzeczypospo litej Polskiej na zasadach w ustawie.
+1. Cudzoziemcy mogą korzystać z prawa azylu w Rzeczypospolitej Polskiej na zasadach określonych w ustawie.
 
-2. Cudzoziemcowi, który w Rzeczypospolitej Polskiej poszuku je ochrony przed przyznany status zgodnie z umowami prawa polityczne
+2. Cudzoziemcowi, który w Rzeczypospolitej Polskiej poszukuje ochrony przed prześladowaniem, może być przyznany status uchodźcy zgodnie z wiążącymi Rzeczpospolitą Polską umowami międzynarodowymi. Wolności i prawa polityczne
 
-**Art. 57.** Każdemu zapewnia organizowania pokojowych i uczestniczenia w nich. Ograniczenie tej mo ustawa.
+**Art. 57.** Każdemu zapewnia się wolność organizowania pokojowych zgromadzeń i uczestniczenia w nich. Ograniczenie tej wolności może określać ustawa.
 
 **Art. 58.**
 
-1. zapewnia zrzeszania
+1. Każdemu zapewnia się wolność zrzeszania się.
 
-2. Zakazane zrzeszenia, których cel lub sprzecz ne z lub O odmowie rejestracji lub zakazie takiego zrzeszenia orzeka
+2. Zakazane są zrzeszenia, których cel lub działalność są sprzeczne z Konstytucją lub ustawą. O odmowie rejestracji lub zakazie działania takiego zrzeszenia orzeka sąd.
 
-3. Ustawa rodzaje reje stracji, tryb tej rejestracji oraz formy nadzoru nad tymi zrzeszeniami.
+3. Ustawa określa rodzaje zrzeszeń podlegających sądowej rejestracji, tryb tej rejestracji oraz formy nadzoru nad tymi zrzeszeniami.
 
 **Art. 59.**
 
-1. Zapewnia zrzeszania w zawodo wych, organizacjach rolników oraz w or ganizacjach pracodawców.
+1. Zapewnia się wolność zrzeszania się w związkach zawodowych, organizacjach społeczno-zawodowych rolników oraz w organizacjach pracodawców.
 
-2. zawodowe oraz pracodawcy i ich organizacje prawo do w w celu sporów zbiorowych, oraz do zawierania zbiorowych pracy i in nych
+2. Związki zawodowe oraz pracodawcy i ich organizacje mają prawo do rokowań, w szczególności w celu rozwiązywania sporów zbiorowych, oraz do zawierania układów zbiorowych pracy i innych porozumień.
 
-3. zawodowym prawo do organizowa nia strajków pracowniczych i innych form protestu w granicach w ustawie. Ze na dobro publiczne ustawa mo prowadzenie strajku lub go w odniesieniu do kategorii pracowników lub w dziedzi nach.
+3. Związkom zawodowym przysługuje prawo do organizowania strajków pracowniczych i innych form protestu w granicach określonych w ustawie. Ze względu na dobro publiczne ustawa może ograniczyć prowadzenie strajku lub zakazać go w odniesieniu do określonych kategorii pracowników lub w określonych dziedzinach.
 
-4. Zakres zrzeszania w zawodowych i organizacjach pracodawców oraz innych tylko takim ograniczeniom ustawowym, jakie do puszczalne przez umowy narodowe.
+4. Zakres wolności zrzeszania się w związkach zawodowych i organizacjach pracodawców oraz innych wolności związkowych może podlegać tylko takim ograniczeniom ustawowym, jakie są dopuszczalne przez wiążące Rzeczpospolitą Polską umowy międzynarodowe.
 
-**Art. 60.** Obywatele polscy z praw publicznych prawo do publicznej na jednakowych zasadach.
+**Art. 60.** Obywatele polscy korzystający z pełni praw publicznych mają prawo dostępu do służby publicznej na jednakowych zasadach.
 
 **Art. 61.**
 
-1. Obywatel ma prawo do uzyskiwania informacji o organów publicznej oraz osób funkcje publicz ne. Prawo to obejmuje uzyskiwanie informacji o organów gospodarczego i zawodowego, a in nych osób oraz jednostek organizacyjnych w zakresie, w jakim wy one zadania publicznej i mieniem ko munalnym lub Skarbu
+1. Obywatel ma prawo do uzyskiwania informacji o działalności organów władzy publicznej oraz osób pełniących funkcje publiczne. Prawo to obejmuje również uzyskiwanie informacji o działalności organów samorządu gospodarczego i zawodowego, a także innych osób oraz jednostek organizacyjnych w zakresie, w jakim wykonują one zadania władzy publicznej i gospodarują mieniem komunalnym lub majątkiem Skarbu Państwa.
 
-2. Prawo do uzyskiwania informacji obejmuje do doku mentów oraz na posiedzenia kolegialnych organów publicznej z powszechnych wyborów, z rejestracji lub obrazu.
+2. Prawo do uzyskiwania informacji obejmuje dostęp do dokumentów oraz wstęp na posiedzenia kolegialnych organów władzy publicznej pochodzących z powszechnych wyborów, z możliwością rejestracji dźwięku lub obrazu.
 
-3. Ograniczenie prawa, o którym mowa w ust. 1 i 2, ze na w ustawach wolno i praw innych osób i podmiotów gospodarczych oraz publicznego, lub interesu go spodarczego
+3. Ograniczenie prawa, o którym mowa w ust. 1 i 2, może nastąpić wyłącznie ze względu na określone w ustawach ochronę wolności i praw innych osób i podmiotów gospodarczych oraz ochronę porządku publicznego, bezpieczeństwa lub ważnego interesu gospodarczego państwa.
 
-4. Tryb udzielania informacji, o których mowa w ust. 1 i 2, ustawy, a w odniesieniu do Sejmu i Senatu ich regula miny.
+4. Tryb udzielania informacji, o których mowa w ust. 1 i 2, określają ustawy, a w odniesieniu do i Senatu ich regulaminy.
 
 **Art. 62.**
 
-1. Obywatel polski ma prawo w referendum oraz prawo wybierania Prezydenta Rzeczypospolitej, senatorów i przedstawicieli do organów terytorialnego, naj w dniu 18 lat. Prawo w referendum oraz prawo wybierania nie przy osobom, które prawomocnym orzeczeniem ubez lub pozbawione praw publicznych albo wyborczych.
+1. Obywatel polski ma prawo udziału w referendum oraz prawo wybierania Prezydenta Rzeczypospolitej, posłów, senatorów i przedstawicieli do organów samorządu terytorialnego, jeżeli najpóźniej w dniu głosowania kończy 18 lat.
 
-**Art. 63.** Każdy ma prawo petycje, wnioski i skargi w interesie publicznym, lub innej osoby za jej do organów dzy publicznej oraz do organizacji i instytucji w ku z wykonywanymi przez nie zadaniami zleconymi z zakresu ad ministracji publicznej. Tryb rozpatrywania petycji, wniosków i skarg ustawa. i prawa ekonomiczne, socj alne i kulturalne
+2. Prawo udziału w referendum oraz prawo wybierania nie przysługuje osobom, które prawomocnym orzeczeniem sądowym są ubezwłasnowolnione lub pozbawione praw publicznych albo wyborczych.
+
+**Art. 63.** Każdy ma prawo składać petycje, wnioski i skargi w interesie publicznym, własnym lub innej osoby za jej zgodą do organów władzy publicznej oraz do organizacji i instytucji społecznych w związku z wykonywanymi przez nie zadaniami zleconymi z zakresu administracji publicznej. Tryb rozpatrywania petycji, wniosków i skarg określa ustawa. Wolności i prawa ekonomiczne, socjalne i kulturalne
 
 **Art. 64.**
 
-1. ma prawo do innych praw oraz prawo dziedziczenia. inne prawa oraz prawo dziedziczenia równej dla wszystkich ochronie prawnej.
+1. Każdy ma prawo do własności, innych praw majątkowych oraz prawo dziedziczenia.
 
-3. ograniczona tylko w drodze ustawy i tyl ko w zakresie, w jakim nie narusza ona istoty prawa
+2. Własność, inne prawa majątkowe oraz prawo dziedziczenia podlegają równej dla wszystkich ochronie prawnej.
+
+3. Własność może być ograniczona tylko w drodze ustawy i tylko w zakresie, w jakim nie narusza ona istoty prawa własności.
 
 **Art. 65.**
 
-1. zapewnia wyboru i wykonywania za wodu oraz wyboru miejsca pracy. ustawa.
+1. Każdemu zapewnia się wolność wyboru i wykonywania zawodu oraz wyboru miejsca pracy. Wyjątki określa ustawa.
 
-2. pracy tylko przez
+2. Obowiązek pracy może być nałożony tylko przez ustawę.
 
-3. zatrudnianie dzieci do lat 16 jest zakazane. Formy i cha rakter dopuszczalnego zatrudniania ustawa.
+3. Stałe zatrudnianie dzieci do lat 16 jest zakazane. Formy i charakter dopuszczalnego zatrudniania określa ustawa.
 
-4. wynagrodzenia za lub sposób usta lania tej ustawa.
+4. Minimalną wysokość wynagrodzenia za pracę lub sposób ustalania tej wysokości określa ustawa.
 
-5. publiczne do pro duktywnego zatrudnienia poprzez realizowanie programów zwalcza nia bezrobocia, w organizowanie i wspieranie poradnictwa i szko lenia zawodowego oraz robót publicznych i prac interwencyjnych.
+5. Władze publiczne prowadzą politykę zmierzającą do pełnego, produktywnego zatrudnienia poprzez realizowanie programów zwalczania bezrobocia, w tym organizowanie i wspieranie poradnictwa i szkolenia zawodowego oraz robót publicznych i prac interwencyjnych.
 
 **Art. 66.**
 
-1. ma prawo do bezpiecznych i higienicznych warunków pracy. Sposób realizacji tego prawa oraz pracodawcy ustawa.
+1. Każdy ma prawo do bezpiecznych i higienicznych warunków pracy. Sposób realizacji tego prawa oraz obowiązki pracodawcy określa ustawa.
 
-2. Pracownik ma prawo do w ustawie dni wolnych od pracy i corocznych urlopów; maksymalne normy czasu pracy ustawa.
+2. Pracownik ma prawo do określonych w ustawie dni wolnych od pracy i corocznych płatnych urlopów; maksymalne normy czasu pracy określa ustawa.
 
-1. Obywatel ma prawo do zabezpieczenia w razie do pracy ze na lub inwalidztwo oraz po wieku emerytalnego. Zakres i formy zabezpieczenia ustawa.
+**Art. 67.**
 
-2. Obywatel bez pracy nie z woli i nie cy innych utrzymania ma prawo do zabezpieczenia spo którego zakres i formy ustawa.
+1. Obywatel ma prawo do zabezpieczenia społecznego w razie niezdolności do pracy ze względu na chorobę lub inwalidztwo oraz po osiągnięciu wieku emerytalnego. Zakres i formy zabezpieczenia społecznego określa ustawa.
 
-1. ma prawo do ochrony zdrowia.
+2. Obywatel pozostający bez pracy nie z własnej woli i nie mający innych środków utrzymania ma prawo do zabezpieczenia społecznego, którego zakres i formy określa ustawa.
 
-2. Obywatelom, od ich sytuacji materialnej, publiczne równy do opieki zdrowot nej finansowanej ze publicznych. Warunki i zakres udzie lania ustawa.
+**Art. 68.**
 
-3. publiczne do zapewnienia szczególnej opieki zdrowotnej dzieciom, kobietom osobom sprawnym i osobom w wieku.
+1. Każdy ma prawo do ochrony zdrowia.
 
-4. publiczne do zwalczania chorób epide micznych i zapobiegania negatywnym dla zdrowia skutkom degra dacji
+2. Obywatelom, niezależnie od ich sytuacji materialnej, władze publiczne zapewniają równy dostęp do świadczeń opieki zdrowotnej finansowanej ze środków publicznych. Warunki i zakres udzielania świadczeń określa ustawa.
 
-5. publiczne rozwój kultury fizycznej, cza dzieci i
+3. Władze publiczne są obowiązane do zapewnienia szczególnej opieki zdrowotnej dzieciom, kobietom ciężarnym, osobom niepełnosprawnym i osobom w podeszłym wieku.
 
-**Art. 69.** Osobom publiczne zgod nie z pomocy w zabezpieczaniu egzystencji, przysposobie niu do pracy oraz komunikacji
+4. Władze publiczne są obowiązane do zwalczania chorób epidemicznych i zapobiegania negatywnym dla zdrowia skutkom degradacji środowiska.
+
+5. Władze publiczne popierają rozwój kultury fizycznej, zwłaszcza wśród dzieci i młodzieży.
+
+**Art. 69.** Osobom niepełnosprawnym władze publiczne udzielają, zgodnie z ustawą, pomocy w zabezpieczaniu egzystencji, przysposobieniu do pracy oraz komunikacji społecznej.
 
 **Art. 70.**
 
-1. ma prawo do nauki. Nauka do 18 roku jest obo Sposób wykonywania szkolnego ustawa.
+1. Każdy ma prawo do nauki. Nauka do 18 roku życia jest obowiązkowa. Sposób wykonywania obowiązku szkolnego określa ustawa.
 
-2. Nauka w publicznych jest Ustawa niektórych edukacyjnych przez pu bliczne za
+2. Nauka w szkołach publicznych jest bezpłatna. Ustawa może dopuścić świadczenie niektórych usług edukacyjnych przez publiczne szkoły wyższe za odpłatnością.
 
-3. Rodzice wyboru dla swoich dzieci innych publiczne. Obywatele i instytucje prawo podstawowych, ponadpodstawowych i oraz wychowawczych. Warunki i niepublicznych oraz publicznych w ich finansowaniu, a zasady nadzoru pedagogicznego nad i wychowawczymi, ustawa.
+3. Rodzice mają wolność wyboru dla swoich dzieci szkół innych niż publiczne. Obywatele i instytucje mają prawo zakładania szkół podstawowych, ponadpodstawowych i wyższych oraz zakładów wychowawczych. Warunki zakładania i działalności szkół niepublicznych oraz udziału władz publicznych w ich finansowaniu, a także zasady nadzoru pedagogicznego nad szkołami i zakładami wychowawczymi, określa ustawa.
 
-4. publiczne obywatelom powszechny i rów ny do W tym celu i syste my indywidualnej pomocy finansowej i organizacyjnej dla uczniów i studentów. Warunki udzielania pomocy ustawa.
+4. Władze publiczne zapewniają obywatelom powszechny i równy dostęp do wykształcenia. W tym celu tworzą i wspierają systemy indywidualnej pomocy finansowej i organizacyjnej dla uczniów i studentów. Warunki udzielania pomocy określa ustawa.
 
-5. Zapewnia na zasadach nych w ustawie.
+5. Zapewnia się autonomię szkół wyższych na zasadach określonych w ustawie.
 
 **Art. 71.**
 
-1. w swoJeJ polityce i gospodarczej dobro rodziny. Rodziny w trudnej sy tuacji materialnej i wielodzietne i prawo do szczególnej pomocy ze strony publicznych.
+1. Państwo w swojej polityce społecznej i gospodarczej uwzględnia dobro rodziny. Rodziny znajdujące się w trudnej sytuacji materialnej i społecznej, zwłaszcza wielodzietne i niepełne, mają prawo do szczególnej pomocy ze strony władz publicznych.
 
-2. Matka przed i po urodzeniu dziecka ma prawo do szczególnej pomocy publicznych, której zakres ustawa.
+2. Matka przed i po urodzeniu dziecka ma prawo do szczególnej pomocy władz publicznych, której zakres określa ustawa.
 
 **Art. 72.**
 
-1. Rzeczpospolita Polska zapewnia praw dziecka. dy ma prawo od organów publicznej ochrony dziec ka przed wyzyskiem i
+1. Rzeczpospolita Polska zapewnia ochronę praw dziecka. Każdy ma prawo żądać od organów władzy publicznej ochrony dziecka przed przemocą, okrucieństwem, wyzyskiem i demoralizacją.
 
-2. Dziecko pozbawione opieki rodzicielskiej ma prawo do opie ki i pomocy publicznych.
+2. Dziecko pozbawione opieki rodzicielskiej ma prawo do opieki i pomocy władz publicznych.
 
-3. W toku ustalania praw dziecka organy publicznej oraz osoby odpowiedzialne za dziecko do i w zdania dziecka.
+3. W toku ustalania praw dziecka organy władzy publicznej oraz osoby odpowiedzialne za dziecko są obowiązane do wysłuchania i w miarę możliwości uwzględnienia zdania dziecka.
 
-4. Ustawa kompetencje i sposób Rzeczni ka Praw Dziecka.
+4. Ustawa określa kompetencje i sposób powoływania Rzecznika Praw Dziecka.
 
-**Art. 73.** Każdemu zapewnia artystycznej, naukowych oraz ich wyników, nauczania, a korzystania z dóbr kultury.
+**Art. 73.** Każdemu zapewnia się wolność twórczości artystycznej, badań naukowych oraz ogłaszania ich wyników, wolność nauczania, a także wolność korzystania z dóbr kultury.
 
-**Art. 74.** Władze publiczne bez ekologiczne i pokole niom. 2. Ochrona jest publicznych. 3. ma prawo do informacji o stanie i ochronie 4. publiczne obywateli na rzecz ochrony i poprawy stanu
+**Art. 74.**
+
+1. Władze publiczne prowadzą politykę zapewniającą bezpieczeństwo ekologiczne współczesnemu i przyszłym pokoleniom.
+
+2. Ochrona środowiska jest obowiązkiem władz publicznych.
+
+3. Każdy ma prawo do informacji o stanie i ochronie środowiska.
+
+4. Władze publiczne wspierają działania obywateli na rzecz ochrony i poprawy stanu środowiska.
 
 **Art. 75.**
 
-1. publiczne zaspokoje niu potrzeb mieszkaniowych obywateli, w przeciw rozwój budownictwa socjalnego oraz obywateli do uzyskania snego mieszkania.
+1. Władze publiczne prowadzą politykę sprzyjającą zaspokojeniu potrzeb mieszkaniowych obywateli, w szczególności przeciwdziałają bezdomności, wspierają rozwój budownictwa socjalnego oraz popierają działania obywateli zmierzające do uzyskania własnego mieszkania.
 
-2. praw lokatorów ustawa.
+2. Ochronę praw lokatorów określa ustawa.
 
-**Art. 76.** Władze publiczne konsumentów, i na jemców przed ich zdrowiu, i oraz przed nieuczciwymi praktykami rynkowy mi. Zakres tej ochrony ustawa. ochrony praw
+**Art. 76.** Władze publiczne chronią konsumentów, użytkowników i najemców przed działaniami zagrażającymi ich zdrowiu, prywatności i bezpieczeństwu oraz przed nieuczciwymi praktykami rynkowymi. Zakres tej ochrony określa ustawa. Środki ochrony wolności i praw
 
 **Art. 77.**
 
-1. ma prawo do wynagrodzenia szkody, jaka mu przez niezgodne z prawem organu publicznej.
+1. Każdy ma prawo do wynagrodzenia szkody, jaka została mu wyrządzona przez niezgodne z prawem działanie organu władzy publicznej.
 
-2. U stawa nie nikomu drogi dochodze nia naruszonych lub praw.
+2. Ustawa nie może nikomu zamykać drogi sądowej dochodzenia naruszonych wolności lub praw.
 
-**Art. 78.** Każda ze stron ma prawo do i decyzji wy danych w pierwszej instancji. od tej zasady oraz tryb za ustawa.
+**Art. 78.** Każda ze stron ma prawo do zaskarżenia orzeczeń i decyzji wydanych w pierwszej instancji. Wyjątki od tej zasady oraz tryb zaskarżania określa ustawa.
 
 **Art. 79.**
 
-1. czyje konstytucyjne lub prawa naru szone, ma prawo, na zasadach w ustawie, skar do Konstytucyjnego w sprawie z Konsty ustawy lub innego aktu normatywnego, na podstawie którego lub organ administracji publicznej ostatecznie o jego wol lub prawach albo o jego w Kon stytucji.
+1. Każdy, czyje konstytucyjne wolności lub prawa zostały naruszone, ma prawo, na zasadach określonych w ustawie, wnieść skargę do Trybunału Konstytucyjnego w sprawie zgodności z Konstytucją ustawy lub innego aktu normatywnego, na podstawie którego sąd lub organ administracji publicznej orzekł ostatecznie o jego wolnościach lub prawach albo o jego obowiązkach określonych w Konstytucji.
 
-2. Przepis ust. 1 nie dotyczy praw wart. 56.
+2. Przepis ust. 1 nie dotyczy praw określonych w art. 56.
 
-**Art. 80.** Każdy ma prawo na zasadach w usta wie, do Rzecznika Praw Obywatelskich z wnioskiem o pomoc w ochronie swoich lub praw naruszonych przez organy publicznej.
+**Art. 80.** Każdy ma prawo wystąpienia, na zasadach określonych w ustawie, do Rzecznika Praw Obywatelskich z wnioskiem o pomoc w ochronie swoich wolności lub praw naruszonych przez organy władzy publicznej.
 
-**Art. 81.** Praw wart. 65 ust. 4 i 5, art. 66, art. 69, art. 71 i art. 74-76 w granicach w usta wie.
+**Art. 81.** Praw określonych w art. 65 ust. 4 i 5, art. 66, art. 69, art. 71 i art. 74– 76 można dochodzić w granicach określonych w ustawie. Obowiązki
 
-**Art. 82.** Obowiązkiem obywatela polskiego jest Rzeczypospo litej Polskiej oraz troska o dobro wspólne.
+**Art. 82.** Obowiązkiem obywatela polskiego jest wierność Rzeczypospolitej Polskiej oraz troska o dobro wspólne.
 
-**Art. 83.** Każdy ma przestrzegania prawa Rzeczypospolitej Polskiej.
+**Art. 83.** Każdy ma obowiązek przestrzegania prawa Rzeczypospolitej Polskiej.
 
-**Art. 84.** Każdy jest do ponoszenia i pu blicznych, w tym podatków, w ustawie.
+**Art. 84.** Każdy jest obowiązany do ponoszenia ciężarów i świadczeń publicznych, w tym podatków, określonych w ustawie.
 
 **Art. 85.**
 
-1. obywatela polskiego jest obrona Ojczyzny.
+1. Obowiązkiem obywatela polskiego jest obrona Ojczyzny.
 
-2. Zakres wojskowej ustawa.
+2. Zakres obowiązku służby wojskowej określa ustawa.
 
-3. Obywatel, któremu przekonania religijne lub wyznawane za sady moralne nie na odbywanie wojskowej, mo do na zasadach w ustawie.
+3. Obywatel, któremu przekonania religijne lub wyznawane zasady moralne nie pozwalają na odbywanie służby wojskowej, może być obowiązany do służby zastępczej na zasadach określonych w ustawie.
 
-**Art. 86.** Każdy jest do o stan i ponosi za spowodowane przez siebie jego pogorszenie. Zasady tej ustawa. III PRAWA
+**Art. 86.** Każdy jest obowiązany do dbałości o stan środowiska i ponosi odpowiedzialność za spowodowane przez siebie jego pogorszenie. Zasady tej odpowiedzialności określa ustawa.
+
+#### Rozdział III ŹRÓDŁA PRAWA
 
 **Art. 87.**
 
-1. powszechnie prawa Rzeczypospo litej Polskiej Konstytucja, ustawy, ratyfikowane umowy narodowe oraz
+1. Źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są: Konstytucja, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia.
 
-2. powszechnie prawa Rzeczypospo litej Polskiej na obszarze organów, które je akty prawa miejscowego.
+2. Źródłami powszechnie obowiązującego prawa Rzeczypospolitej Polskiej są na obszarze działania organów, które je ustanowiły, akty prawa miejscowego.
 
 **Art. 88.**
 
-1. Warunkiem w ustaw, oraz aktów prawa miejscowego jest ich
+1. Warunkiem wejścia w życie ustaw, rozporządzeń oraz aktów prawa miejscowego jest ich ogłoszenie.
 
-2. Zasady i tryb aktów normatywnych usta wa.
+2. Zasady i tryb ogłaszania aktów normatywnych określa ustawa.
 
-3. Urnowy ratyfikowane za w ustawie w trybie wymaganym dla ustaw. Zasady innych umów usta wa.
+3. Umowy międzynarodowe ratyfikowane za uprzednią zgodą wyrażoną w ustawie są ogłaszane w trybie wymaganym dla ustaw. Zasady ogłaszania innych umów międzynarodowych określa ustawa.
 
 **Art. 89.**
 
-1. Ratyfikacja przez urnowy dowej i jej wypowiedzenie wymaga uprzedniej zgody w ustawie, urnowa dotyczy:
+1. Ratyfikacja przez Rzeczpospolitą Polską umowy międzynarodowej i jej wypowiedzenie wymaga uprzedniej zgody wyrażonej w ustawie, jeżeli umowa dotyczy:
 
-- **1)** pokoju, sojuszy, politycznych lub wojsko wych,
-- **2)** praw lub obywatelskich w Konstytucji,
-- **3)** Rzeczypospolitej Polskiej w organizacji rodowej,
-- **4)** znacznego pod finansowym,
-- **5)** spraw uregulowanych w ustawie lub w których Konstytucja wy maga ustawy.
+- **1)** pokoju, sojuszy, układów politycznych lub układów wojskowych,
+- **2)** wolności, praw lub obowiązków obywatelskich określonych w Konstytucji,
+- **3)** członkostwa Rzeczypospolitej Polskiej w organizacji międzynarodowej,
+- **4)** znacznego obciążenia państwa pod względem finansowym,
+- **5)** spraw uregulowanych w ustawie lub w których Konstytucja wymaga ustawy.
 
-2. O zamiarze Prezydentowi Rzeczypospolitej do ratyfikacji umów których ratyfikacja nie wy maga zgody w ustawie, Prezes Rady Ministrów zawia damia Sejm.
+2. O zamiarze przedłożenia Prezydentowi Rzeczypospolitej do ratyfikacji umów międzynarodowych, których ratyfikacja nie wymaga zgody wyrażonej w ustawie, Prezes Rady Ministrów zawiadamia Sejm.
 
-3. Zasady oraz tryb zawierania, ratyfikowania i wypowiadania umów ustawa.
+3. Zasady oraz tryb zawierania, ratyfikowania i wypowiadania umów międzynarodowych określa ustawa.
 
 **Art. 90.**
 
-1. Rzeczpospolita Polska na podstawie urnowy rodowej organizacji lub organowi kompetencje organów w niektórych sprawach.
+1. Rzeczpospolita Polska może na podstawie umowy międzynarodowej przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach.
 
-2. Ustawa na urnowy dowej, o której mowa w ust. l, jest uchwalana przez Sejm 2/3 w co najmniej ustawowej liczby oraz przez Senat 2/3 w co najmniej ustawowej liczby senatorów.
+2. Ustawa wyrażająca zgodę na ratyfikację umowy międzynarodowej, o której mowa w ust. 1, jest uchwalana przez Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów.
 
-3. zgody na takiej urnowy uchwalone w referendum ogólnokrajowym zgodnie z przepisem art. 125.
+3. Wyrażenie zgody na ratyfikację takiej umowy może być uchwalone w referendum ogólnokrajowym zgodnie z przepisem art. 125.
 
-4. w sprawie wyboru trybu zgody na ratyfi podejmuje Sejm w obecno co najmniej ustawowej liczby Art. Ratyfikowana umowa po jej w Dzienniku Ustaw Rzeczypospolitej Polskiej, stanowi krajo wego prawnego i jest stosowana, chyba jej stosowanie jest od wydania ustawy. Umowa ratyfikowana za w ustawie ma przed usta wy tej nie da z wynika to z ratyfikowanej przez umowy prawo przez stanowione jest stosowane w przypadku kolizji z ustawami.
+4. Uchwałę w sprawie wyboru trybu wyrażenia zgody na ratyfikację podejmuje Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
-**Art. 92.** Rozporządzenia wydawane przez organy wskazane w Kon stytucji, na podstawie zawartego w ustawie i w celu jej wykonania. powinno organ do wydania i zakres spraw przeka zanych do uregulowania oraz wytyczne aktu. Organ do wydania nie swoich kompetencji, o których mowa w ust. innemu organowi. Rady Ministrów oraz Prezesa Rady Mi nistrów i ministrów charakter i tylko jednostki organizacyjne organowi te akty. wydawane tylko na podstawie ustawy. Nie one podstawy decyzji wobec obywateli, osób praw nych oraz innych podmiotów. i kontroli co do ich z powszechnie prawem.
+**Art. 91.**
 
-**Art. 94.** Organy terytorialnego oraz terenowe organy admi nistracji na podstawie i w granicach zawar tych w ustawie, akty prawa miejscowego ce na obszarze tych organów. Zasady i tryb wydawania aktów prawa miejscowego ustawa. IV SEJM I SENAT
+1. Ratyfikowana umowa międzynarodowa, po jej ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej, stanowi część krajowego porządku prawnego i jest bezpośrednio stosowana, chyba że jej stosowanie jest uzależnione od wydania ustawy.
+
+2. Umowa międzynarodowa ratyfikowana za uprzednią zgodą wyrażoną w ustawie ma pierwszeństwo przed ustawą, jeżeli ustawy tej nie da się pogodzić z umową.
+
+3. Jeżeli wynika to z ratyfikowanej przez Rzeczpospolitą Polską umowy konstytuującej organizację międzynarodową, prawo przez nią stanowione jest stosowane bezpośrednio, mając pierwszeństwo w przypadku kolizji z ustawami.
+
+**Art. 92.**
+
+1. Rozporządzenia są wydawane przez organy wskazane w Konstytucji, na podstawie szczegółowego upoważnienia zawartego w ustawie i w celu jej wykonania. Upoważnienie powinno określać organ właściwy do wydania rozporządzenia i zakres spraw przekazanych do uregulowania oraz wytyczne dotyczące treści aktu.
+
+2. Organ upoważniony do wydania rozporządzenia nie może przekazać swoich kompetencji, o których mowa w ust. 1, innemu organowi.
+
+**Art. 93.**
+
+1. Uchwały Rady Ministrów oraz zarządzenia Prezesa Rady Ministrów i ministrów mają charakter wewnętrzny i obowiązują tylko jednostki organizacyjnie podległe organowi wydającemu te akty.
+
+2. Zarządzenia są wydawane tylko na podstawie ustawy. Nie mogą one stanowić podstawy decyzji wobec obywateli, osób prawnych oraz innych podmiotów.
+
+3. Uchwały i zarządzenia podlegają kontroli co do ich zgodności z powszechnie obowiązującym prawem.
+
+**Art. 94.** Organy samorządu terytorialnego oraz terenowe organy administracji rządowej, na podstawie i w granicach upoważnień zawartych w ustawie, ustanawiają akty prawa miejscowego obowiązujące na obszarze działania tych organów. Zasady i tryb wydawania aktów prawa miejscowego określa ustawa.
+
+#### Rozdział IV SEJM I SENAT
 
 **Art. 95.**
 
-1. w Rzeczypospolitej Polskiej Sejm i Senat.
+1. Władzę ustawodawczą w Rzeczypospolitej Polskiej sprawują Sejm i Senat.
 
-2. Sejm sprawuje nad Rady Ministrów w zakresie przepisami Konstytucji i ustaw. Wybory i kadencj a
+2. Sejm sprawuje kontrolę nad działalnością Rady Ministrów w zakresie określonym przepisami Konstytucji i ustaw. Wybory i kadencja
 
 **Art. 96.**
 
-1. Sejm z 460
+1. Sejm składa się z 460 posłów.
 
-2. Wybory do Sejmu powszechne, równe, i pro porcjonalne oraz w tajnym.
+2. Wybory do są powszechne, równe, bezpośrednie i proporcjonalne oraz odbywają się w głosowaniu tajnym.
 
 **Art. 97.**
 
-1. Senat ze 100 senatorów.
+1. Senat składa się ze 100 senatorów.
 
-2. Wybory do Senatu powszechne, i w tajnym.
+2. Wybory do Senatu są powszechne, bezpośrednie i odbywają się w głosowaniu tajnym.
 
 **Art. 98.**
 
-1. Sejm i Senat wybierane na czteroletnie kadencje. Kadencje Sejmu i Senatu z dniem zebrania Sejmu na pierwsze posiedzenie i do dnia ze brania Sejmu kadencji.
+1. Sejm i Senat są wybierane na czteroletnie kadencje. Kadencje i Senatu rozpoczynają się z dniem zebrania się na pierwsze posiedzenie i trwają do dnia poprzedzającego dzień zebrania się następnej kadencji.
 
-2. Wybory do Sejmu i Senatu Prezydent Rzeczypospo litej nie na 90 dni przed 4 lat od kadencji Sejmu i Senatu, wybory na wolny od pracy, w 30 dni przed 4 lat od rozpo kadencji Sejmu i Senatu.
+2. Wybory do i Senatu zarządza Prezydent Rzeczypospolitej nie później niż na 90 dni przed upływem 4 lat od rozpoczęcia kadencji i Senatu, wyznaczając wybory na dzień wolny od pracy, przypadający w ciągu 30 dni przed upływem 4 lat od rozpoczęcia kadencji i Senatu.
 
-3. Sejm co najmniej 2/3 ustawowej liczby Skrócenie ka dencji Sejmu oznacza jednoczesne skrócenie kadencji Senatu. Prze pis ust. 5 stosuje odpowiednio.
+3. Sejm może skrócić swoją kadencję uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby posłów. Skrócenie kadencji oznacza jednoczesne skrócenie kadencji Senatu. Przepis ust. 5 stosuje się odpowiednio.
 
-4. Prezydent Rzeczypospolitej, po opinii Sejmu i Senatu, w przypadkach w Konstytucji skrócenie kadencji Sejmu. Wraz ze skróce niem kadencji Sejmu skrócona zostaje kadencja Senatu.
+4. Prezydent Rzeczypospolitej, po zasięgnięciu opinii Marszałka i Marszałka Senatu, może w przypadkach określonych w Konstytucji zarządzić skrócenie kadencji Sejmu. Wraz ze skróceniem kadencji skrócona zostaje również kadencja Senatu.
 
-5. Prezydent Rzeczypospolitej, skrócenie kadencji Sejmu, wybory do Sejmu i Senatu i wyzna cza ich na nie w 45 dni od dnia skrócenia kadencji Sejmu. Prezydent Rzeczypo spolitej pierwsze posiedzenie nowo wybranego Sejmu nie na 15 po dniu przeprowadzenia wyborów.
+5. Prezydent Rzeczypospolitej, zarządzając skrócenie kadencji Sejmu, zarządza jednocześnie wybory do i Senatu i wyznacza ich datę na dzień przypadający nie później niż w ciągu 45 dni od dnia zarządzenia skrócenia kadencji Sejmu. Prezydent Rzeczypospolitej zwołuje pierwsze posiedzenie nowo wybranego nie później niż na 15 dzień po dniu przeprowadzenia wyborów.
 
-6. W razie skrócenia kadencji Sejmu stosuje odpowiednio przepis ust.1.
+6. W razie skrócenia kadencji stosuje się odpowiednio przepis ust. 1.
 
 **Art. 99.**
 
-1. Wybrany do Sejmu obywatel polski prawo wybierania, który w dniu wyborów 21 lat.
+1. Wybrany do może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy 21 lat.
 
-2. Wybrany do Senatu obywatel polski prawo wybierania, który w dniu wyborów 30 lat.
+2. Wybrany do Senatu może być obywatel polski mający prawo wybierania, który najpóźniej w dniu wyborów kończy 30 lat.
+
+3. Wybraną do lub do Senatu nie może być osoba skazana prawomocnym wyrokiem na karę pozbawienia wolności za przestępstwo umyślne ścigane z oskarżenia publicznego.
 
 **Art. 100.**
 
-1. Kandydatów na i senatorów partie po lityczne oraz wyborcy.
+1. Kandydatów na posłów i senatorów mogą zgłaszać partie polityczne oraz wyborcy.
 
-2. Nie do Sejmu i Senatu.
+2. Nie można kandydować równocześnie do i Senatu.
 
-3. Zasady i tryb kandydatów i przeprowadzania wy borów oraz warunki wyborów ustawa.
+3. Zasady i tryb zgłaszania kandydatów i przeprowadzania wyborów oraz warunki ważności wyborów określa ustawa.
 
 **Art. 101.**
 
-1. wyborów do Sejmu i Senatu stwierdza
+1. Ważność wyborów do i Senatu stwierdza Sąd Najwyższy.
 
-2. Wyborcy prawo do go protestu przeciwko wyborów na zasadach w ustawie. i senatorowie
+2. Wyborcy przysługuje prawo zgłoszenia do Sądu Najwyższego protestu przeciwko ważności wyborów na zasadach określonych w ustawie. Posłowie i senatorowie
 
-**Art. 102.** Nie i senatorem.
+**Art. 102.** Nie można być równocześnie posłem i senatorem.
 
 **Art. 103.**
 
-1. Mandatu nie z Prezesa Narodowe go Banku Polskiego, Prezesa Izby Kontroli, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka i ich Rady Polityki Krajowej Rady Radiofonii i Telewizji, ambasadora oraz z zatrudnieniem w Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej lub z za trudnieniem w administracji Zakaz ten nie dotyczy ków Rady Ministrów i sekretarzy stanu w administracji
+1. Mandatu posła nie można łączyć z funkcją Prezesa Narodowego Banku Polskiego, Prezesa Najwyższej Izby Kontroli, Rzecznika Praw Obywatelskich, Rzecznika Praw Dziecka i ich zastępców, członka Rady Polityki Pieniężnej, członka Krajowej Rady Radiofonii i Telewizji, ambasadora oraz z zatrudnieniem w Kancelarii Sejmu, Kancelarii Senatu, Kancelarii Prezydenta Rzeczypospolitej lub z zatrudnieniem w administracji rządowej. Zakaz ten nie dotyczy członków Rady Ministrów i sekretarzy stanu w administracji rządowej.
 
-2. prokurator, cywilnej, pozo w czynnej wojskowej, funkcjonariusz policji oraz funkcjonariusz ochrony nie man datu poselskiego.
+2. Sędzia, prokurator, urzędnik służby cywilnej, żołnierz pozostający w czynnej służbie wojskowej, funkcjonariusz policji oraz funkcjonariusz służb ochrony państwa nie mogą sprawować mandatu poselskiego.
 
-3. Inne przypadki zakazu mandatu poselskiego z funk cjami publicznymi oraz zakazu jego sprawowania ustawa. przedstawicielami Narodu. Nie ich instruk cje wyborców. Przed sprawowania mandatu przed Sejmem rzetelnie i sumiennie ki wobec Narodu, strzec i interesów czy wszystko dla Ojczyzny i dobra obywateli, prze Konstytucji i innych praw Rzeczypospolitej Polskiej." z dodaniem zdania "Tak mi doBóg". Odmowa oznacza zrzeczenie man datu. nie do za swo w zakres sprawowania mandatu posel skiego ani w czasie jego trwania, ani po jego Za odpowiada przed Sejmem, a w przy padku naruszenia praw osób trzecich do od tylko za Sejmu. Od dnia wyników wyborów do dnia mandatu nie bez zgody Sejmu do odpo karnej. karne wobec osoby przed dniem wy boru jej na ulega na Sejmu zawieszeniu do czasu wy mandatu. takim przypadku ulega zawieszeniu na ten czas bieg przedawnienia w karnym. na go do odpowie karnej. takim przypadku nie stosuje przepisów ust. 2 3.
+3. Inne przypadki zakazu łączenia mandatu poselskiego z funkcjami publicznymi oraz zakazu jego sprawowania może określić ustawa.
 
-5. nie zatrzymany lub aresztowany bez zgody Sejmu, z go na uczynku i je jego zatrzymanie jest do zapewnienia toku O zatrzymaniu powiadamia Sejmu, który natychmiastowe zwolnienie zatrzymanego.
+**Art. 104.**
 
-6. zasady do odpowiedzialno karnej oraz tryb ustawa.
+1. Posłowie są przedstawicielami Narodu. Nie wiążą ich instrukcje wyborców.
 
-**Art. 106.** Warunki do skutecznego poselskich oraz praw ze sprawowania man datu ustawa.
+2. Przed rozpoczęciem sprawowania mandatu posłowie składają przed Sejmem następujące ślubowanie: „Uroczyście ślubuję rzetelnie i sumiennie wykonywać obowiązki wobec Narodu, strzec suwerenności i interesów Państwa, czynić wszystko dla pomyślności Ojczyzny i dobra obywateli, przestrzegać Konstytucji i innych praw Rzeczypospolitej Polskiej.” Ślubowanie może być złożone z dodaniem zdania „Tak mi dopomóż Bóg”.
+
+3. Odmowa złożenia ślubowania oznacza zrzeczenie się mandatu.
+
+**Art. 105.**
+
+1. Poseł nie może być pociągnięty do odpowiedzialności za swoją działalność wchodzącą w zakres sprawowania mandatu poselskiego ani w czasie jego trwania, ani po jego wygaśnięciu. Za taką działalność poseł odpowiada wyłącznie przed Sejmem, a w przypadku naruszenia praw osób trzecich może być pociągnięty do odpowiedzialności sądowej tylko za zgodą Sejmu.
+
+2. Od dnia ogłoszenia wyników wyborów do dnia wygaśnięcia mandatu poseł nie może być pociągnięty bez zgody do odpowiedzialności karnej.
+
+3. Postępowanie karne wszczęte wobec osoby przed dniem wyboru jej na posła ulega na żądanie zawieszeniu do czasu wygaśnięcia mandatu. W takim przypadku ulega również zawieszeniu na ten czas bieg przedawnienia w postępowaniu karnym.
+
+4. Poseł może wyrazić zgodę na pociągnięcie go do odpowiedzialności karnej. W takim przypadku nie stosuje się przepisów ust. 2 i 3.
+
+5. Poseł nie może być zatrzymany lub aresztowany bez zgody Sejmu, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+
+6. Szczegółowe zasady pociągania posłów do odpowiedzialności karnej oraz tryb postępowania określa ustawa.
+
+**Art. 106.** Warunki niezbędne do skutecznego wypełniania obowiązków poselskich oraz ochronę praw wynikających ze sprawowania mandatu określa ustawa.
 
 **Art. 107.**
 
-1. W zakresie nie gospodarczej z z Skarbu lub terytorialnego ani tego
+1. W zakresie określonym ustawą poseł nie może prowadzić działalności gospodarczej z osiąganiem korzyści z majątku Skarbu Państwa lub samorządu terytorialnego ani nabywać tego majątku.
 
-2. Za naruszenie zakazów, o których mowa w ust. l, Sejmu na wniosek Sejmu, po do przed Stanu, który orzeka w przedmiocie pozbawienia mandatu. Art. lOB. Do senatorów stosuje odpowiednio przepisy art. 103-107. Organizacj a i
+2. Za naruszenie zakazów, o których mowa w ust. 1, poseł, uchwałą podjętą na wniosek Marszałka Sejmu, może być pociągnięty do odpowiedzialności przed Trybunałem Stanu, który orzeka w przedmiocie pozbawienia mandatu.
+
+**Art. 108.** Do senatorów stosuje się odpowiednio przepisy art. 103–107. Organizacja i działanie
 
 **Art. 109.**
 
-1. Sejm i Senat na posiedzeniach.
+1. Sejm i Senat obradują na posiedzeniach.
 
-2. Pierwsze posiedzenia Sejmu i Senatu Prezydent Rzeczypospo litej na w 30 dni od dnia wybo rów, z przypadków wart. 98 ust. 3 i 5.
+2. Pierwsze posiedzenia i Senatu Prezydent Rzeczypospolitej zwołuje na dzień przypadający w ciągu 30 dni od dnia wyborów, z wyjątkiem przypadków określonych w art. 98 ust. 3 i 5.
 
 **Art. 110.**
 
-1. Sejm wybiera ze swojego grona Sejmu i wicemar
+1. Sejm wybiera ze swojego grona Marszałka i wicemarszałków.
 
-2. Sejmu przewodniczy obradom Sejmu, praw Sejmu oraz reprezentuje Sejm na
+2. Marszałek przewodniczy obradom Sejmu, strzeże praw oraz reprezentuje Sejm na zewnątrz.
 
-3. Sejm komisje oraz komisje nadzwyczajne.
+3. Sejm powołuje komisje stałe oraz może powoływać komisje nadzwyczajne.
 
 **Art. 111.**
 
-1. Sejm do zbadania sprawy.
+1. Sejm może powołać komisję śledczą do zbadania określonej sprawy.
 
-2. Tryb komisji ustawa.
+2. Tryb działania komisji śledczej określa ustawa.
 
-**Art. 112.** Organizację i prac Sejmu oraz tryb powo i jego organów, jak sposób wykonywania konstytucyjnych i ustawowych organów wych wobec Sejmu regulamin Sejmu uchwalony przez Sejm. Posiedzenia Sejmu jawne. wymaga tego dobro Sejm w co naj mniej ustawowej liczby obrad. Art. 1. W przypadkach w Konstytucji Sejm i Senat, obra wspólnie pod przewodnictwem Sejmu lub w jego za Senatu, jako Zgromadzenie Narodowe. 2. Zgromadzenie Narodowe uchwala swój regulamin. 1. Prezes Rady Ministrów i pozostali Rady Mini strów udzielenia odpowiedzi na interpelacje i za pytania poselskie w 21 dni. 2. Prezes Rady Ministrów i pozostali Rady Mini strów udzielenia odpowiedzi w sprawach cych na posiedzeniu Sejmu. 1. Sejm decyduje w imieniu Rzeczypospolitej Polskiej o stanie wojny i o zawarciu pokoju. 2. Sejm o stanie wojny jedynie w razie zbrojnej na terytorium Rzeczypospolitej Polskiej lub gdy z umów wynika do wspólnej obrony przeciwko agresji. Sejm nie na po siedzenie, o stanie wojny postanawia Prezydent Rzeczypospoli tej. Zasady Zbrojnych poza granicami Rzeczypospolitej Polskiej ratyfikowana umowa lub usta wa. Zasady pobytu obcych wojsk na terytorium Rzeczypospolitej Polskiej i zasady przemieszczania ich przez to terytorium okre ratyfikowane umowy lub ustawy. 1. Inicjatywa ustawodawcza Senatowi, Pre zydentowi Rzeczypospolitej i Radzie Ministrów. 2. Inicjatywa ustawodawcza grupie co naj mniej 100 000 obywateli prawo wybierania do Sejmu. Tryb w tej sprawie ustawa. 3. Wnioskodawcy, Sejmowi projekt ustawy, skutki finansowe jej wykonania. 1. Sejm rozpatruje projekt ustawy w trzech czytaniach. 2. Prawo wnoszenia poprawek do projektu ustawy w czasie roz patrywania go przez Sejm wnioskodawcy projektu, po i Radzie Ministrów. 3. Sejmu poddania pod pc prawki, która uprzednio nie komisji. 4. Wnioskodawca projekt ustawy w toku wania ustawodawczego w Sejmie do czasu drugiego czytania pwjektu. Sejm uchwala ustawy w co najmniej ustawowej liczby chyba Konstytucja przewiduje W tym samym trybie Sejm podejmuje ustawa lub Sejmu nie stanowi inaczej. 1. przez Sejm Sejmu przekazuje Senatowi. 2. Senat w 30 dni od dnia przekazania ustawy bez zmian, poprawki albo odrzucenie jej w Senat w 30 dni od dnia przekazania ustawy nie podejmie stosownej uznaje za w brzmieniu przez Sejm. 3. Senatu albo zapropo w uchwale Senatu za Sejm nie od rzuci jej w co najmniej ustawowej liczby 1. Po wart. Marsza Sejmu przedstawia do podpisu Prezydento wi Rzeczypospolitej. Prezydent Rzeczypospolitej podpisuje w dni od dnia przedstawienia i jej w Dzienniku Ustaw Rzeczypospolitej Polskiej. 3. Przed podpisaniem ustawy Prezydent Rzeczypospolitej do Konstytucyjnego z wnioskiem w sprawie ustawy z Prezydent Rzeczypospolitej nie podpisania ustawy, Konstytucyjny za z 4. Prezydent Rzeczypospolitej odmawia podpisania ustawy, któ Konstytucyjny za z Jezeli jednak z dotyczy poszczególnych prze pisów ustawy, a Konstytucyjny nie orzeknie, one nierozerwalnie z Prezydent Rzeczypospoli tej, po opinii Sejmu, podpisuje z po przepisów uznanych za niezgodne z albo zwraca Sejmowi w celu 5. Prezydent Rzeczypospolitej nie z wnioskiem do Konstytucyjnego w trybie ust. 3, z umotywowa nym wnioskiem Sejmowi do ponownego rozpa trzenia. Po ponownym uchwaleniu ustawy przez Sejm 3/5 w co najmniej ustawowej liczby po Prezydent Rzeczypospolitej w 7 dni podpisuje i jej w Dzienniku Ustaw Rzeczypospolitej Pol skiej. W razie ponownego uchwalenia ustawy przez Sejm Prezyden towi Rzeczypospolitej nie prawo do Try Konstytucyjnego w trybie ust. 3. Prezydenta Rzeczypospolitej do Kon stytucyjnego z wnioskiem w sprawie ustawy z lub z wnioskiem do Sejmu o ponowne rozpatrzenie ustawy wstrzy muje bieg, w ust.2, terminu do podpisania ustawy.
+**Art. 112.** Organizację wewnętrzną i porządek prac oraz tryb powoływania i działalności jego organów, jak też sposób wykonywania konstytucyjnych i ustawowych obowiązków organów państwowych wobec określa regulamin uchwalony przez Sejm.
+
+**Art. 113.** Posiedzenia są jawne. Jeżeli wymaga tego dobro państwa, Sejm może bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów uchwalić tajność obrad.
+
+**Art. 114.**
+
+1. W przypadkach określonych w Konstytucji Sejm i Senat, obradując wspólnie pod przewodnictwem Marszałka lub w jego zastępstwie Marszałka Senatu, działają jako Zgromadzenie Narodowe.
+
+2. Zgromadzenie Narodowe uchwala swój regulamin.
+
+**Art. 115.**
+
+1. Prezes Rady Ministrów i pozostali członkowie Rady Ministrów mają obowiązek udzielenia odpowiedzi na interpelacje i zapytania poselskie w ciągu 21 dni.
+
+2. Prezes Rady Ministrów i pozostali członkowie Rady Ministrów mają obowiązek udzielenia odpowiedzi w sprawach bieżących na każdym posiedzeniu Sejmu.
+
+**Art. 116.**
+
+1. Sejm decyduje w imieniu Rzeczypospolitej Polskiej o stanie wojny i o zawarciu pokoju.
+
+2. Sejm może podjąć uchwałę o stanie wojny jedynie w razie zbrojnej napaści na terytorium Rzeczypospolitej Polskiej lub gdy z umów międzynarodowych wynika zobowiązanie do wspólnej obrony przeciwko agresji. Jeżeli Sejm nie może się zebrać na posiedzenie, o stanie wojny postanawia Prezydent Rzeczypospolitej.
+
+**Art. 117.** Zasady użycia Sił Zbrojnych poza granicami Rzeczypospolitej Polskiej określa ratyfikowana umowa międzynarodowa lub ustawa. Zasady pobytu obcych wojsk na terytorium Rzeczypospolitej Polskiej i zasady przemieszczania się ich przez to terytorium określają ratyfikowane umowy międzynarodowe lub ustawy.
+
+**Art. 118.**
+
+1. Inicjatywa ustawodawcza przysługuje posłom, Senatowi, Prezydentowi Rzeczypospolitej i Radzie Ministrów.
+
+2. Inicjatywa ustawodawcza przysługuje również grupie co najmniej 100 000 obywateli mających prawo wybierania do Sejmu. Tryb postępowania w tej sprawie określa ustawa.
+
+3. Wnioskodawcy, przedkładając Sejmowi projekt ustawy, przedstawiają skutki finansowe jej wykonania.
+
+**Art. 119.**
+
+1. Sejm rozpatruje projekt ustawy w trzech czytaniach.
+
+2. Prawo wnoszenia poprawek do projektu ustawy w czasie rozpatrywania go przez Sejm przysługuje wnioskodawcy projektu, posłom i Radzie Ministrów.
+
+3. Marszałek może odmówić poddania pod głosowanie poprawki, która uprzednio nie była przedłożona komisji.
+
+4. Wnioskodawca może wycofać projekt ustawy w toku postępowania ustawodawczego w Sejmie do czasu zakończenia drugiego czytania projektu.
+
+**Art. 120.** Sejm uchwala ustawy zwykłą większością głosów w obecności co najmniej połowy ustawowej liczby posłów, chyba że Konstytucja przewiduje inną większość. W tym samym trybie Sejm podejmuje uchwały, jeżeli ustawa lub uchwała nie stanowi inaczej.
+
+**Art. 121.**
+
+1. Ustawę uchwaloną przez Sejm Marszałek przekazuje Senatowi.
+
+2. Senat w ciągu 30 dni od dnia przekazania ustawy może ją przyjąć bez zmian, uchwalić poprawki albo uchwalić odrzucenie jej w całości. Jeżeli Senat w ciągu 30 dni od dnia przekazania ustawy nie podejmie stosownej uchwały, ustawę uznaje się za uchwaloną w brzmieniu przyjętym przez Sejm.
+
+3. Uchwałę Senatu odrzucającą ustawę albo poprawkę zaproponowaną w uchwale Senatu uważa się za przyjętą, jeżeli Sejm nie odrzuci jej bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
+
+**Art. 122.**
+
+1. Po zakończeniu postępowania określonego w art. 121 Marszałek przedstawia uchwaloną ustawę do podpisu Prezydentowi Rzeczypospolitej.
+
+2. Prezydent Rzeczypospolitej podpisuje ustawę w ciągu 21 dni od dnia przedstawienia i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+
+3. Przed podpisaniem ustawy Prezydent Rzeczypospolitej może wystąpić do Trybunału Konstytucyjnego z wnioskiem w sprawie zgodności ustawy z Konstytucją. Prezydent Rzeczypospolitej nie może odmówić podpisania ustawy, którą Trybunał Konstytucyjny uznał za zgodną z Konstytucją.
+
+4. Prezydent Rzeczypospolitej odmawia podpisania ustawy, którą Trybunał Konstytucyjny uznał za niezgodną z Konstytucją. Jeżeli jednak niezgodność z Konstytucją dotyczy poszczególnych przepisów ustawy, a Trybunał Konstytucyjny nie orzeknie, że są one nierozerwalnie związane z całą ustawą, Prezydent Rzeczypospolitej, po zasięgnięciu opinii Marszałka Sejmu, podpisuje ustawę z pominięciem przepisów uznanych za niezgodne z Konstytucją albo zwraca ustawę Sejmowi w celu usunięcia niezgodności.
+
+5. Jeżeli Prezydent Rzeczypospolitej nie wystąpił z wnioskiem do Trybunału Konstytucyjnego w trybie ust. 3, może z umotywowanym wnioskiem przekazać ustawę Sejmowi do ponownego rozpatrzenia. Po ponownym uchwaleniu ustawy przez Sejm większością 3/5 głosów w obecności co najmniej połowy ustawowej liczby posłów Prezydent Rzeczypospolitej w ciągu 7 dni podpisuje ustawę i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej. W razie ponownego uchwalenia ustawy przez Sejm Prezydentowi Rzeczypospolitej nie przysługuje prawo wystąpienia do Trybunału Konstytucyjnego w trybie ust. 3.
+
+6. Wystąpienie Prezydenta Rzeczypospolitej do Trybunału Konstytucyjnego z wnioskiem w sprawie zgodności ustawy z Konstytucją lub z wnioskiem do o ponowne rozpatrzenie ustawy wstrzymuje bieg, określonego w ust. 2, terminu do podpisania ustawy.
 
 **Art. 123.**
 
-1. Rada Ministrów uchwalony przez siebie projekt ustawy za pilny, z projektów ustaw podatkowych, ustaw wyboru Prezydenta Rzeczypospolitej, Sejmu, Senatu oraz organów terytorialnego, ustaw cych ustrój i publicznych, a kodeksów.
+1. Rada Ministrów może uznać uchwalony przez siebie projekt ustawy za pilny, z wyjątkiem projektów ustaw podatkowych, ustaw dotyczących wyboru Prezydenta Rzeczypospolitej, Sejmu, Senatu oraz organów samorządu terytorialnego, ustaw regulujących ustrój i właściwość władz publicznych, a także kodeksów.
 
-2. Regulamin Sejmu oraz regulamin Senatu w ustawodawczym w sprawie projektu pilnego.
+2. Regulamin oraz regulamin Senatu określają odrębności w postępowaniu ustawodawczym w sprawie projektu pilnego.
 
-3. W w sprawie ustawy, której projekt uznany za pilny, termin jej rozpatrzenia przez Senat wynosi 14 dni, a termin podpisania ustawy przez Prezydenta Rzeczypospolitej wy nosi dni.
+3. W postępowaniu w sprawie ustawy, której projekt został uznany za pilny, termin jej rozpatrzenia przez Senat wynosi 14 dni, a termin podpisania ustawy przez Prezydenta Rzeczypospolitej wynosi 7 dni.
 
-**Art. 124.** Do Senatu stosuje odpowiednio przepisy art. 110, art.112, art. 113 i art. 120. Referendum
+**Art. 124.** Do Senatu stosuje się odpowiednio przepisy art. 110, art. 112, art. 113 i art. 120. Referendum
 
 **Art. 125.**
 
-1. W sprawach o szczególnym znaczeniu dla przeprowadzone referendum ogólnokrajowe.
+1. W sprawach o szczególnym znaczeniu dla państwa może być przeprowadzone referendum ogólnokrajowe.
 
-2. Referendum ogólnokrajowe ma prawo Sejm bez w co najmniej ustawowej liczby lub Rzeczypospolitej za Senatu w co najmniej ustawowej liczby senatorów.
+2. Referendum ogólnokrajowe ma prawo zarządzić Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów lub Prezydent Rzeczypospolitej za zgodą Senatu wyrażoną bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.
 
-3. w referendum ogólnokrajowym po uprawnionych do wynik referendum jest referendum ogólnokrajowego oraz referendum, o którym mowa wart. ust. stwierdza
+3. Jeżeli w referendum ogólnokrajowym wzięło udział więcej niż połowa uprawnionych do głosowania, wynik referendum jest wiążący.
 
-5. Zasady i tryb przeprowadzania referendum ustawa. PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
+4. Ważność referendum ogólnokrajowego oraz referendum, o którym mowa w art. 235 ust. 6, stwierdza Sąd Najwyższy.
 
-1. Prezydent Rzeczypospolitej Polskiej jest przed stawicielem Rzeczypospolitej Polskiej i gwarantem dzy Prezydent Rzeczypospolitej czuwa nad przestrzeganiem Kon stytucji, stoi na i oraz i jego terytorium.
+5. Zasady i tryb przeprowadzania referendum określa ustawa.
 
-3. Prezydent Rzeczypospolitej wykonuje swoje zadania w zakre sie i na zasadach w Konstytucji i ustawach. Art.
+#### Rozdział V PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ
 
-1. Prezydent Rzeczypospolitej jest wybierany przez Naród w wybo rach powszechnych, równych, i w tajnym.
+**Art. 126.**
 
-2. Prezydent Rzeczypospolitej jest wybierany na ka i ponownie wybrany tylko raz.
+1. Prezydent Rzeczypospolitej Polskiej jest najwyższym przedstawicielem Rzeczypospolitej Polskiej i gwarantem ciągłości władzy państwowej.
 
-3. Na Prezydenta Rzeczypospolitej wybrany obywatel polski, który w dniu wyborów lat i korzysta z praw wyborczych do Sejmu. Kandydata co najmniej 100000 obywateli prawo wybierania do Sejmu.
+2. Prezydent Rzeczypospolitej czuwa nad przestrzeganiem Konstytucji, stoi na straży suwerenności i bezpieczeństwa państwa oraz nienaruszalności i niepodzielności jego terytorium.
 
-4. Na Prezydenta Rzeczypospolitej wybrany zostaje kandydat, który oddanych z kandydatów nie uzyska wymaganej czternaste go dnia po pierwszym przeprowadza ponowne sowanie.
+3. Prezydent Rzeczypospolitej wykonuje swoje zadania w zakresie i na zasadach określonych w Konstytucji i ustawach.
 
-5. W ponownym wyboru dokonuje dwóch kandydatów, którzy w pierwszym otrzymali kolejno którykolwiek z tych dwóch kandydatów wycofa na kandydowanie, utraci prawo wybor cze lub umrze, w jego miejsce do wyborów w ponownym niu dopuszcza kandydata, który kolejno w pierwszym W takim przypadku ponownego odracza o dalszych 14 dni.
+**Art. 127.**
 
-6. Na Prezydenta Rzeczypospolitej wybrany zostaje kandydat, który w ponownym
+1. Prezydent Rzeczypospolitej jest wybierany przez Naród w wyborach powszechnych, równych, bezpośrednich i w głosowaniu tajnym.
 
-7. Zasady i tryb kandydatów i przeprowadzania wy borów oraz warunki wyboru Prezydenta Rzeczypospoli tej ustawa.
+2. Prezydent Rzeczypospolitej jest wybierany na pięcioletnią kadencję i może być ponownie wybrany tylko raz.
+
+3. Na Prezydenta Rzeczypospolitej może być wybrany obywatel polski, który najpóźniej w dniu wyborów kończy 35 lat i korzysta z pełni praw wyborczych do Sejmu. Kandydata zgłasza co najmniej 100 000 obywateli mających prawo wybierania do Sejmu.
+
+4. Na Prezydenta Rzeczypospolitej wybrany zostaje kandydat, który otrzymał więcej niż połowę ważnie oddanych głosów. Jeżeli żaden z kandydatów nie uzyska wymaganej większości, czternastego dnia po pierwszym głosowaniu przeprowadza się ponowne głosowanie.
+
+5. W ponownym głosowaniu wyboru dokonuje się spośród dwóch kandydatów, którzy w pierwszym głosowaniu otrzymali kolejno największą liczbę głosów. Jeżeli którykolwiek z tych dwóch kandydatów wycofa zgodę na kandydowanie, utraci prawo wyborcze lub umrze, w jego miejsce do wyborów w ponownym głosowaniu dopuszcza się kandydata, który otrzymał kolejno największą liczbę głosów w pierwszym głosowaniu. W takim przypadku datę ponownego głosowania odracza się o dalszych 14 dni.
+
+6. Na Prezydenta Rzeczypospolitej wybrany zostaje kandydat, który w ponownym głosowaniu otrzymał więcej głosów.
+
+7. Zasady i tryb zgłaszania kandydatów i przeprowadzania wyborów oraz warunki ważności wyboru Prezydenta Rzeczypospolitej określa ustawa.
 
 **Art. 128.**
 
-1. Kadencja Prezydenta Rzeczypospolitej rozpoczyna w dniu przez niego
+1. Kadencja Prezydenta Rzeczypospolitej rozpoczyna się w dniu objęcia przez niego urzędu.
 
-2. Wybory Prezydenta Rzeczypospolitej Sej mu na nie na 100 dni i nie na 75 dni przed kadencji Prezydenta Rzeczypospolitej, a w razie Prezydenta Rzeczy pospolitej - nie w czternastym dniu po wyborów na wolny od pracy przy w 60 dni od dnia wyborów.
+2. Wybory Prezydenta Rzeczypospolitej zarządza Marszałek na dzień przypadający nie wcześniej niż na 100 dni i nie później niż na 75 dni przed upływem kadencji urzędującego Prezydenta Rzeczypospolitej, a w razie opróżnienia urzędu Prezydenta Rzeczypospolitej – nie później niż w czternastym dniu po opróżnieniu urzędu, wyznaczając datę wyborów na dzień wolny od pracy przypadający w ciągu 60 dni od dnia zarządzenia wyborów.
 
 **Art. 129.**
 
-1. wyboru Prezydenta Rzeczypospolitej stwierdza
+1. Ważność wyboru Prezydenta Rzeczypospolitej stwierdza Sąd Najwyższy.
 
-2. Wyborcy prawo do go protestu przeciwko wyboru Prezydenta Rzeczypospo litej na zasadach w ustawie.
+2. Wyborcy przysługuje prawo zgłoszenia do Sądu Najwyższego protestu przeciwko ważności wyboru Prezydenta Rzeczypospolitej na zasadach określonych w ustawie.
 
-3. W razie stwierdzenia wyboru Prezydenta Rze czypospolitej przeprowadza nowe wybory, na zasadach przewi dzianych wart. 128 ust. 2 dla przypadku Pre zydenta Rzeczypospolitej.
+3. W razie stwierdzenia nieważności wyboru Prezydenta Rzeczypospolitej przeprowadza się nowe wybory, na zasadach przewidzianych w art. 128 ust. 2 dla przypadku opróżnienia urzędu Prezydenta Rzeczypospolitej.
 
-**Art. 130.** Prezydent Rzeczypospolitej obejmuje po wobec Zgromadzenia Narodowego z woli Narodu Prezydenta Rzeczypospolitej Polskiej, dochowam posta nowieniom Konstytucji, N aro du, i a dobro Ojczyzny oraz obywateli dla mnie zawsze nakazem". z dodaniem zdania" Tak mi dopo Bóg". 1. Prezydent Rzeczypospolitej nie prZe)SClOWO zawiadamia o tym Sejmu, który tymczasowo przejmuje Prezydenta Rzeczypospolitej. Gdy Prezydent Rzeczypospolitej nie jest w stanie Sejmu o sprawowania wówczas o stwierdzeniu przeszkody w sprawowaniu przez Pre zydenta Rzeczypospolitej rozstrzyga Konstytucyjny na wniosek Sejmu. W razie uznania nie sprawowania przez Prezydenta Rzeczypospo litej Konstytucyjny powierza Sejmu tym czasowe wykonywanie Prezydenta Rzeczypospo litej. 2. Sejmu tymczasowo, do czasu wyboru nowego Pre zydenta Rzeczypospolitej, wykonuje Prezydenta Rze czypospolitej w razie:
+**Art. 130.** Prezydent Rzeczypospolitej obejmuje urząd po złożeniu wobec Zgromadzenia Narodowego następującej przysięgi: „Obejmując z woli Narodu urząd Prezydenta Rzeczypospolitej Polskiej, uroczyście przysięgam, że dochowam wierności postanowieniom Konstytucji, będę strzegł niezłomnie godności Narodu, niepodległości i bezpieczeństwa Państwa, a dobro Ojczyzny oraz pomyślność obywateli będą dla mnie zawsze najwyższym nakazem”. Przysięga może być złożona z dodaniem zdania „Tak mi dopomóż Bóg”.
 
-**Art. 137.** Prezydent Rzeczypospolitej nadaje obywatelstwo polskie i wy na zrzeczenie obywatelstwa polskiego. Prezydent Rzeczypospolitej nadaje ordery i odznaczenia.
+**Art. 131.**
 
-**Art. 139.** Prezydent Rzeczypospolitej stosuje prawo Prawa nie stosuje do osób skazanych przez Stanu.
+1. Jeżeli Prezydent Rzeczypospolitej nie może przejściowo sprawować urzędu, zawiadamia o tym Marszałka Sejmu, który tymczasowo przejmuje obowiązki Prezydenta Rzeczypospolitej. Gdy Prezydent Rzeczypospolitej nie jest w stanie zawiadomić Marszałka o niemożności sprawowania urzędu, wówczas o stwierdzeniu przeszkody w sprawowaniu urzędu przez Prezydenta Rzeczypospolitej rozstrzyga Trybunał Konstytucyjny na wniosek Marszałka Sejmu. W razie uznania przejściowej niemożności sprawowania urzędu przez Prezydenta Rzeczypospolitej Trybunał Konstytucyjny powierza Marszałkowi tymczasowe wykonywanie obowiązków Prezydenta Rzeczypospolitej.
 
-**Art. 140.** Prezydent Rzeczypospolitej z do Sej mu, do Senatu lub do Zgromadzenia Narodowego. nie czy ni przedmiotem debaty. 1. W sprawach szczególnej wagi Prezydent Rzeczypospolitej tworzy Rada Mi nistrów pod przewodnictwem Prezydenta Rzeczypo spolitej. 2. Radzie Gabinetowej nie kompetencje Rady Mini strów.
+2. Marszałek tymczasowo, do czasu wyboru nowego Prezydenta Rzeczypospolitej, wykonuje obowiązki Prezydenta Rzeczypospolitej w razie:
+
+- **1)** śmierci Prezydenta Rzeczypospolitej,
+- **2)** zrzeczenia się urzędu przez Prezydenta Rzeczypospolitej,
+- **3)** stwierdzenia nieważności wyboru Prezydenta Rzeczypospolitej lub innych przyczyn nieobjęcia urzędu po wyborze,
+- **4)** uznania przez Zgromadzenie Narodowe trwałej niezdolności Prezydenta Rzeczypospolitej do sprawowania urzędu ze względu na stan zdrowia, uchwałą podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego,
+- **5)** złożenia Prezydenta Rzeczypospolitej z urzędu orzeczeniem Trybunału Stanu.
+
+3. Jeżeli Marszałek nie może wykonywać obowiązków Prezydenta Rzeczypospolitej, obowiązki te przejmuje Marszałek Senatu.
+
+4. Osoba wykonująca obowiązki Prezydenta Rzeczypospolitej nie może postanowić o skróceniu kadencji Sejmu.
+
+**Art. 132.** Prezydent Rzeczypospolitej nie może piastować żadnego innego urzędu ani pełnić żadnej funkcji publicznej, z wyjątkiem tych, które są związane ze sprawowanym urzędem.
+
+**Art. 133.**
+
+1. Prezydent Rzeczypospolitej jako reprezentant państwa w stosunkach zewnętrznych:
+
+- **1)** ratyfikuje i wypowiada umowy międzynarodowe, o czym zawiadamia Sejm i Senat,
+- **2)** mianuje i odwołuje pełnomocnych przedstawicieli Rzeczypospolitej Polskiej w innych państwach i przy organizacjach międzynarodowych,
+- **3)** przyjmuje listy uwierzytelniające i odwołujące akredytowanych przy nim przedstawicieli dyplomatycznych innych państw i organizacji międzynarodowych.
+
+2. Prezydent Rzeczypospolitej przed ratyfikowaniem umowy międzynarodowej może zwrócić się do Trybunału Konstytucyjnego z wnioskiem w sprawie jej zgodności z Konstytucją.
+
+3. Prezydent Rzeczypospolitej w zakresie polityki zagranicznej współdziała z Prezesem Rady Ministrów i właściwym ministrem.
+
+**Art. 134.**
+
+1. Prezydent Rzeczypospolitej jest najwyższym zwierzchnikiem Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+2. W czasie pokoju Prezydent Rzeczypospolitej sprawuje zwierzchnictwo nad Siłami Zbrojnymi za pośrednictwem Ministra Obrony Narodowej.
+
+3. Prezydent Rzeczypospolitej mianuje Szefa Sztabu Generalnego i dowódców rodzajów Sił Zbrojnych na czas określony. Czas trwania kadencji, tryb i warunki odwołania przed jej upływem określa ustawa.
+
+4. Na czas wojny Prezydent Rzeczypospolitej, na wniosek Prezesa Rady Ministrów, mianuje Naczelnego Dowódcę Sił Zbrojnych. W tym samym trybie może on Naczelnego Dowódcę Sił Zbrojnych odwołać. Kompetencje Naczelnego Dowódcy Sił Zbrojnych i zasady jego podległości konstytucyjnym organom Rzeczypospolitej Polskiej określa ustawa.
+
+5. Prezydent Rzeczypospolitej, na wniosek Ministra Obrony Narodowej, nadaje określone w ustawach stopnie wojskowe.
+
+6. Kompetencje Prezydenta Rzeczypospolitej, związane ze zwierzchnictwem nad Siłami Zbrojnymi, szczegółowo określa ustawa.
+
+**Art. 135.** Organem doradczym Prezydenta Rzeczypospolitej w zakresie wewnętrznego i zewnętrznego bezpieczeństwa państwa jest Rada Bezpieczeństwa Narodowego.
+
+**Art. 136.** W razie bezpośredniego, zewnętrznego zagrożenia państwa Prezydent Rzeczypospolitej, na wniosek Prezesa Rady Ministrów, zarządza powszechną lub częściową mobilizację i użycie Sił Zbrojnych do obrony Rzeczypospolitej Polskiej.
+
+**Art. 137.** Prezydent Rzeczypospolitej nadaje obywatelstwo polskie i wyraża zgodę na zrzeczenie się obywatelstwa polskiego.
+
+**Art. 138.** Prezydent Rzeczypospolitej nadaje ordery i odznaczenia.
+
+**Art. 139.** Prezydent Rzeczypospolitej stosuje prawo łaski. Prawa łaski nie stosuje się do osób skazanych przez Trybunał Stanu.
+
+**Art. 140.** Prezydent Rzeczypospolitej może zwracać się z orędziem do Sejmu, do Senatu lub do Zgromadzenia Narodowego. Orędzia nie czyni się przedmiotem debaty.
+
+**Art. 141.**
+
+1. W sprawach szczególnej wagi Prezydent Rzeczypospolitej może zwołać Radę Gabinetową. Radę Gabinetową tworzy Rada Ministrów obradująca pod przewodnictwem Prezydenta Rzeczypospolitej.
+
+2. Radzie Gabinetowej nie przysługują kompetencje Rady Ministrów.
 
 **Art. 142.**
 
-1. Prezydent Rzeczypospolitej wydaje i dzenia na zasadach wart. 92 i art. 93.
+1. Prezydent Rzeczypospolitej wydaje rozporządzenia i zarządzenia na zasadach określonych w art. 92 i art. 93.
 
-2. Prezydent Rzeczypospolitej wydaje postanowienia w zakresie realizacji swoich kompetencji.
+2. Prezydent Rzeczypospolitej wydaje postanowienia w zakresie realizacji pozostałych swoich kompetencji.
 
-**Art. 143.** Organem pomocniczym Prezydenta Rzeczypospolitej jest Kan celaria Prezydenta Rzeczypospolitej. Prezydent Rzeczypospolitej nadaje statut Kancelarii oraz i Szefa Kancelarii Prezydenta Rzeczypospolitej.
+**Art. 143.** Organem pomocniczym Prezydenta Rzeczypospolitej jest Kancelaria Prezydenta Rzeczypospolitej. Prezydent Rzeczypospolitej nadaje statut Kancelarii oraz powołuje i odwołuje Szefa Kancelarii Prezydenta Rzeczypospolitej.
 
 **Art. 144.**
 
-1. Prezydent Rzeczypospolitej, ze swoich konstytu cyjnych i ustawowych kompetencji, wydaje akty
+1. Prezydent Rzeczypospolitej, korzystając ze swoich konstytucyjnych i ustawowych kompetencji, wydaje akty urzędowe.
 
-2. Akty Prezydenta Rzeczypospolitej dla swojej podpisu Prezesa Rady Ministrów, który przez pod pisanie aktu ponosi przed Sejmem.
+2. Akty urzędowe Prezydenta Rzeczypospolitej wymagają dla swojej ważności podpisu Prezesa Rady Ministrów, który przez podpisanie aktu ponosi odpowiedzialność przed Sejmem.
 
-3. Przepis ust. 2 nie dotyczy: wyborów do Sejmu i Senatu, pierwszego posiedzenia nowo wybranych Sejmu i Senatu, skracania kadencji Sejmu w przypadkach w Konstytucji, inicjatywy ustawodawczej, referendum ogólnokrajowego, podpisywania albo odmowy podpisania ustawy, ustawy oraz umowy w Dzienniku Ustaw Rzeczypospolitej Polskiej, zwracania 'z do Sejmu, do Senatu lub do Zgroma dzenia Narodowego, wniosku do Konstytucyjnego, wniosku o przeprowadzenie kontroli przez Kontroli, desygnowania i Prezesa Rady Ministrów, przyjmowania dymisji Rady Ministrów i powierzania jej tym czasowego
+3. Przepis ust. 2 nie dotyczy:
 
-- **13)** wniosku do Sejmu o do przed Stanu Rady Ministrów, ministra, któremu Sejm wotum nieufnoRady Gabinetowej, nadawania orderów i
-- **18)** stosowania prawa nadawania obywatelstwa polskiego i zgody na zrze czenie obywatelstwa polskiego, Pierwszego Prezesa Prezesa i Wiceprezesa Konstytucyjne go,
-- **22)** Prezesa Naczelnego Administracyjnego,
-- **23)** prezesów oraz wiceprezesów Naczelnego Administracyjnego,
-- **24)** wniosku do Sejmu o Prezesa Narodowego Banku Polskiego,
-- **25)** Rady Polityki
-- **26)** i Rady Narodowego,
-- **27)** Krajowej Rady Radiofonii i Telewizji,
-- **28)** nadawania statutu Kancelarii Prezydenta Rzeczypospolitej oraz i Szefa Kancelarii Prezydenta Rze czypospolitej, wydawania na zasadach wart.
-- **30)** zrzeczenia Prezydenta Rzeczypospolitej.
+- **1)** zarządzania wyborów do i Senatu,
+- **2)** zwoływania pierwszego posiedzenia nowo wybranych i Senatu,
+- **3)** skracania kadencji w przypadkach określonych w Konstytucji,
+- **4)** inicjatywy ustawodawczej,
+- **5)** zarządzania referendum ogólnokrajowego,
+- **6)** podpisywania albo odmowy podpisania ustawy,
+- **7)** zarządzania ogłoszenia ustawy oraz umowy międzynarodowej w Dzienniku Ustaw Rzeczypospolitej Polskiej,
+- **8)** zwracania się z orędziem do Sejmu, do Senatu lub do Zgromadzenia Narodowego,
+- **9)** wniosku do Trybunału Konstytucyjnego,
+- **10)** wniosku o przeprowadzenie kontroli przez Najwyższą Izbę Kontroli,
+- **11)** desygnowania i powoływania Prezesa Rady Ministrów,
+- **12)** przyjmowania dymisji Rady Ministrów i powierzania jej tymczasowego pełnienia obowiązków,
+- **13)** wniosku do o pociągnięcie do odpowiedzialności przed Trybunałem Stanu członka Rady Ministrów,
+- **14)** odwoływania ministra, któremu Sejm wyraził wotum nieufności,
+- **15)** zwoływania Rady Gabinetowej,
+- **16)** nadawania orderów i odznaczeń,
+- **17)** powoływania sędziów,
+- **18)** stosowania prawa łaski,
+- **19)** nadawania obywatelstwa polskiego i wyrażania zgody na zrzeczenie się obywatelstwa polskiego,
+- **20)** powoływania Pierwszego Prezesa Sądu Najwyższego,
+- **21)** powoływania Prezesa i Wiceprezesa Trybunału Konstytucyjnego,
+- **22)** powoływania Prezesa Naczelnego Sądu Administracyjnego,
+- **23)** powoływania prezesów Sądu Najwyższego oraz wiceprezesów Naczelnego Sądu Administracyjnego,
+- **24)** wniosku do o powołanie Prezesa Narodowego Banku Polskiego,
+- **25)** powoływania członków Rady Polityki Pieniężnej,
+- **26)** powoływania i odwoływania członków Rady Bezpieczeństwa Narodowego,
+- **27)** powoływania członków Krajowej Rady Radiofonii i Telewizji,
+- **28)** nadawania statutu Kancelarii Prezydenta Rzeczypospolitej oraz powoływania i odwoływania Szefa Kancelarii Prezydenta Rzeczypospolitej,
+- **29)** wydawania zarządzeń na zasadach określonych w art. 93,
+- **30)** zrzeczenia się urzędu Prezydenta Rzeczypospolitej.
 
-1. Prezydent Rzeczypospolitej za naruszenie Konstytucji, usta wy lub za do odpo przed Stanu. Postawienie Prezydenta Rzeczypospolitej w stan Zgromadzenia Narodowego, co najmniej ustawowej liczby Zgro madzenia Narodowego na wniosek co najmniej Zgro madzenia Narodowego. Z dniem o postawieniu Prezydenta Rzeczy pospolitej w stan przed Stanu sprawowanie przez Prezydenta Rzeczypospolitej ulega zawieszeniu. Przepis art. 131 stosuje odpowiednio. VI RADA MINISTRÓW I ADMINISTRACJA Rada Ministrów prowadzi i Rzeczypospolitej Polskiej. Do Rady Ministrów sprawy polityki nie za dla innych organów i teryto rialnego. Rada Ministrów kieruje
+**Art. 145.**
 
-4. W zakresie i na zasadach w Konstytucji i ustawach Rada Ministrów w zapewnia wykonanie ustaw, wydaje koordynuje i kontroluje prace organów administracji chroni interesy Skarbu uchwala projekt kieruje wykonaniem oraz uchwala rachunków i sprawozdanie z wykonania tu,
+1. Prezydent Rzeczypospolitej za naruszenie Konstytucji, ustawy lub za popełnienie przestępstwa może być pociągnięty do odpowiedzialności przed Trybunałem Stanu.
 
-- **7)** zapewnia oraz publiczny,
-- **8)** zapewnia
-- **9)** sprawuje ogólne kierownictwo w dziedzinie stosunków z inny mi i organizacjami zawiera umowy ratyfikacji oraz zatwierdza i wypowiada inne umowy sprawuje ogólne kierownictwo w dziedzinie kraju oraz corocznie obywateli do czynnej wojskowej, i tryb swojej pracy.
+2. Postawienie Prezydenta Rzeczypospolitej w stan oskarżenia może nastąpić uchwałą Zgromadzenia Narodowego, podjętą większością co najmniej 2/3 głosów ustawowej liczby członków Zgromadzenia Narodowego na wniosek co najmniej 140 członków Zgromadzenia Narodowego.
 
-**Art. 147.** Rada Ministrów z Prezesa Rady Ministrów i mini strów. 2. W Rady Ministrów wiceprezesi Rady Ministrów. 3. Prezes i wiceprezes Rady Ministrów funk ministra. 4. W Rady Ministrów ponadto w ustawach komitetów.
+3. Z dniem podjęcia uchwały o postawieniu Prezydenta Rzeczypospolitej w stan oskarżenia przed Trybunałem Stanu sprawowanie urzędu przez Prezydenta Rzeczypospolitej ulega zawieszeniu. Przepis art. 131 stosuje się odpowiednio.
 
-**Art. 148.** Prezes Rady Ministrów: reprezentuje Ministrów, kieruje pracami Rady Ministrów, wydaje zapewnia wykonywanie polityki Rady Ministrów i spo soby jej wykonywania, koordynuje i kontroluje Rady Ministrów, sprawuje nadzór nad terytorialnym w granicach i formach w Konstytucji i ustawach, jest zwierzchnikiem pracowników administracji
+#### Rozdział VI RADA MINISTRÓW I ADMINISTRACJA RZĄDOWA
 
-**Art. 149.** Ministrowie administracji dowej lub zadania wyznaczone im przez Prezesa Rady Ministrów. Zakres ministra admini stracji ustawy. 2. Minister administracji wydaje roz Rada Ministrów, na wniosek Prezesa Rady Ministrów, lub ministra. 3. Do komitetu, o którym mowa wart. 147 ust. 4, stosuje odpowiednio przepisy do ministra administracji Art. ISO. Członek Rady Ministrów nie sprzecznej z jego publicznymi. Art.1S1. Prezes Rady Ministrów, wiceprezesi Rady Ministrów i ministro wie wobec Prezydenta Rzeczypospolitej przy Prezesa Rady Ministrów (wiceprezesa Rady Ministrów, ministra), dochowam postanowieniom Konstytucji i innym prawom Rze czypospolitej Polskiej, a dobro Ojczyzny oraz oby wateli dla mnie zawsze nakazem". z dodaniem zdania "Tak mi dopo Bóg". Art.1S2. Przedstawicielem Rady Ministrów w województwie jest woje woda. 2. Tryb i oraz zakres wo jewodów ustawa. Art.1S3. W celu zapewnienia zawodowego, rzetelnego, bezstronnego i politycznie neutralnego wykonywania w dach administracji korpus cywilnej. 2. Prezes Rady Ministrów jest zwierzchnikiem korpusu cywilnej. Art.1S4. Prezydent Rzeczypospolitej desygnuje Prezesa Rady Mini strów, który proponuje Rady Ministrów. Prezydent Rzeczy pospolitej Prezesa Rady Ministrów wraz z Rady Ministrów w 14 dni od dnia pierwszego po siedzenia Sejmu lub dymisji poprzedniej Rady Mini strów i odbiera od nowo Rady Mi nistrów. 2. Prezes Rady Ministrów, w 14 dni od dnia przez Prezydenta Rzeczypospolitej, przedstawia Sejmowi pro gram Rady Ministrów z wnioskiem o udzielenie jej wo tum zaufania. Wotum zaufania Sejm uchwala w co najmniej ustawowej liczby 3. W razie Rady Ministrów w trybie ust. 1 lub nie udzielenia jej wotum zaufania w trybie ust. 2 Sejm w 14 dni od terminów w ust. 1 lub ust. 2 wybiera Preze sa Rady Ministrów oraz proponowanych przez niego Ra dy Ministrów w co naj mniej ustawowej liczby Prezydent Rzeczypospoli tej tak Ministrów i odbiera od jej
+**Art. 146.**
+
+1. Rada Ministrów prowadzi politykę wewnętrzną i zagraniczną Rzeczypospolitej Polskiej.
+
+2. Do Rady Ministrów należą sprawy polityki państwa nie zastrzeżone dla innych organów państwowych i samorządu terytorialnego.
+
+3. Rada Ministrów kieruje administracją rządową.
+
+4. W zakresie i na zasadach określonych w Konstytucji i ustawach Rada Ministrów w szczególności:
+
+- **1)** zapewnia wykonanie ustaw,
+- **2)** wydaje rozporządzenia,
+- **3)** koordynuje i kontroluje prace organów administracji rządowej,
+- **4)** chroni interesy Skarbu Państwa,
+- **5)** uchwala projekt budżetu państwa,
+- **6)** kieruje wykonaniem budżetu państwa oraz uchwala zamknięcie rachunków państwowych i sprawozdanie z wykonania budżetu,
+- **7)** zapewnia bezpieczeństwo wewnętrzne państwa oraz porządek publiczny,
+- **8)** zapewnia bezpieczeństwo zewnętrzne państwa,
+- **9)** sprawuje ogólne kierownictwo w dziedzinie stosunków z innymi państwami i organizacjami międzynarodowymi,
+- **10)** zawiera umowy międzynarodowe wymagające ratyfikacji oraz zatwierdza i wypowiada inne umowy międzynarodowe,
+- **11)** sprawuje ogólne kierownictwo w dziedzinie obronności kraju oraz określa corocznie liczbę obywateli powoływanych do czynnej służby wojskowej,
+- **12)** określa organizację i tryb swojej pracy.
+
+**Art. 147.**
+
+1. Rada Ministrów składa się z Prezesa Rady Ministrów i ministrów.
+
+2. W skład Rady Ministrów mogą być powoływani wiceprezesi Rady Ministrów.
+
+3. Prezes i wiceprezes Rady Ministrów mogą pełnić także funkcję ministra.
+
+4. W skład Rady Ministrów mogą być ponadto powoływani przewodniczący określonych w ustawach komitetów.
+
+**Art. 148.** Prezes Rady Ministrów:
+
+**Art. 149.**
+
+1. Ministrowie kierują określonymi działami administracji rządowej lub wypełniają zadania wyznaczone im przez Prezesa Rady Ministrów. Zakres działania ministra kierującego działem administracji rządowej określają ustawy.
+
+2. Minister kierujący działem administracji rządowej wydaje rozporządzenia. Rada Ministrów, na wniosek Prezesa Rady Ministrów, może uchylić rozporządzenie lub zarządzenie ministra.
+
+3. Do przewodniczącego komitetu, o którym mowa w art. 147 ust. 4, stosuje się odpowiednio przepisy odnoszące się do ministra kierującego działem administracji rządowej.
+
+**Art. 150.** Członek Rady Ministrów nie może prowadzić działalności sprzecznej z jego obowiązkami publicznymi.
+
+**Art. 151.** Prezes Rady Ministrów, wiceprezesi Rady Ministrów i ministrowie składają wobec Prezydenta Rzeczypospolitej następującą przysięgę: „Obejmując urząd Prezesa Rady Ministrów (wiceprezesa Rady Ministrów, ministra), uroczyście przysięgam, że dochowam wierności postanowieniom Konstytucji i innym prawom Rzeczypospolitej Polskiej, a dobro Ojczyzny oraz pomyślność obywateli będą dla mnie zawsze najwyższym nakazem”. Przysięga może być złożona z dodaniem zdania „Tak mi dopomóż Bóg”.
+
+**Art. 152.**
+
+1. Przedstawicielem Rady Ministrów w województwie jest wojewoda.
+
+2. Tryb powoływania i odwoływania oraz zakres działania wojewodów określa ustawa.
+
+**Art. 153.**
+
+1. W celu zapewnienia zawodowego, rzetelnego, bezstronnego i politycznie neutralnego wykonywania zadań państwa, w urzędach administracji rządowej działa korpus służby cywilnej.
+
+2. Prezes Rady Ministrów jest zwierzchnikiem korpusu służby cywilnej.
+
+**Art. 154.**
+
+1. Prezydent Rzeczypospolitej desygnuje Prezesa Rady Ministrów, który proponuje skład Rady Ministrów. Prezydent Rzeczypospolitej powołuje Prezesa Rady Ministrów wraz z pozostałymi członkami Rady Ministrów w ciągu 14 dni od dnia pierwszego posiedzenia lub przyjęcia dymisji poprzedniej Rady Ministrów i odbiera przysięgę od członków nowo powołanej Rady Ministrów.
+
+2. Prezes Rady Ministrów, w ciągu 14 dni od dnia powołania przez Prezydenta Rzeczypospolitej, przedstawia Sejmowi program działania Rady Ministrów z wnioskiem o udzielenie jej wotum zaufania. Wotum zaufania Sejm uchwala bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
+
+3. W razie niepowołania Rady Ministrów w trybie ust. 1 lub nieudzielenia jej wotum zaufania w trybie ust. 2 Sejm w ciągu 14 dni od upływu terminów określonych w ust. 1 lub ust. 2 wybiera Prezesa Rady Ministrów oraz proponowanych przez niego członków Rady Ministrów bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów. Prezydent Rzeczypospolitej powołuje tak wybraną Radę Ministrów i odbiera przysięgę od jej członków.
 
 **Art. 155.**
 
-1. W razie Rady Ministrów w trybie art. 154 ust. 3 Prezydent Rzeczypospolitej w 14 dni Prezesa Rady Ministrów i na jego wniosek Rady Ministrów oraz odbiera od nich Sejm w 14 dni od dnia powo Rady Ministrów przez Prezydenta Rzeczypospolitej udziela jej wotum zaufania w co najmniej wy ustawowej liczby
+1. W razie niepowołania Rady Ministrów w trybie art. 154 ust. 3 Prezydent Rzeczypospolitej w ciągu 14 dni powołuje Prezesa Rady Ministrów i na jego wniosek pozostałych członków Rady Ministrów oraz odbiera od nich przysięgę. Sejm w ciągu 14 dni od dnia powołania Rady Ministrów przez Prezydenta Rzeczypospolitej udziela jej wotum zaufania większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
 
-2. W razie nieudzielenia Radzie Ministrów wotum zaufania w trybie w ust. 1, Prezydent Rzeczypospolitej skraca Sejmu i wybory.
+2. W razie nieudzielenia Radzie Ministrów wotum zaufania w trybie określonym w ust. 1, Prezydent Rzeczypospolitej skraca kadencję i zarządza wybory.
 
-1. Rady Ministrów przed Stanu za naruszenie Konstytucji lub ustaw, a za w z zajmowanym sta nowiskiem. o Rady Ministrów do odpowie przed Stanu Sejm podejmuje na wniosek Prezydenta Rzeczypospolitej lub co najmniej 115 3/5 ustawowej liczby
+**Art. 156.**
+
+1. Członkowie Rady Ministrów ponoszą odpowiedzialność przed Trybunałem Stanu za naruszenie Konstytucji lub ustaw, a także za przestępstwa popełnione w związku z zajmowanym stanowiskiem.
+
+2. Uchwałę o pociągnięciu członka Rady Ministrów do odpowiedzialności przed Trybunałem Stanu Sejm podejmuje na wniosek Prezydenta Rzeczypospolitej lub co najmniej 115 posłów większością 3/5 ustawowej liczby posłów.
 
 **Art. 157.**
 
-1. Rady Ministrów przed Sejmem solidar za Rady Ministrów. Rady Ministrów przed Sejmem za sprawy do ich kompe tencji lub powierzone im przez Prezesa Rady Ministrów.
+1. Członkowie Rady Ministrów ponoszą przed Sejmem solidarną odpowiedzialność za działalność Rady Ministrów.
+
+2. Członkowie Rady Ministrów ponoszą przed Sejmem również odpowiedzialność indywidualną za sprawy należące do ich kompetencji lub powierzone im przez Prezesa Rady Ministrów.
 
 **Art. 158.**
 
-1. Sejm Radzie Ministrów wotum ustawowej liczby na wniosek przez co najmniej 46 i imiennie kandydata na Prezesa Rady Mini strów. przez Sejm, Prezydent Rze czypospolitej przyjmuje Rady Ministrów i wybranego przez Sejm nowego Prezesa Rady Ministrów, a na jego wnio sek Rady Ministrów oraz odbiera od nich
+1. Sejm wyraża Radzie Ministrów wotum nieufności większością ustawowej liczby posłów na wniosek zgłoszony przez co najmniej 46 posłów i wskazujący imiennie kandydata na Prezesa Rady Ministrów. Jeżeli uchwała została przyjęta przez Sejm, Prezydent Rzeczypospolitej przyjmuje dymisję Rady Ministrów i powołuje wybranego przez Sejm nowego Prezesa Rady Ministrów, a na jego wniosek pozostałych członków Rady Ministrów oraz odbiera od nich przysięgę.
 
-2. Wniosek o o której mowa w ust. l, poddany pod nie po dni od dnia jego Powtórny wniosek nie po 3 od dnia poprzednie go wniosku. Powtórny wniosek przed wem 3 z nim co najmniej 115
+2. Wniosek o podjęcie uchwały, o której mowa w ust. 1, może być poddany pod głosowanie nie wcześniej niż po upływie 7 dni od dnia jego zgłoszenia. Powtórny wniosek może być zgłoszony nie wcześniej niż po upływie 3 miesięcy od dnia zgłoszenia poprzedniego wniosku. Powtórny wniosek może być zgłoszony przed upływem 3 miesięcy, jeżeli wystąpi z nim co najmniej 115 posłów.
 
 **Art. 159.**
 
-1. Sejm ministrowi wotum Wniosek o wotum przez co naj mniej Przepis art. 158 ust. 2 stosuje odpowiednio. Prezydent Rzeczypospolitej ministra, któremu Sejm wotum ustawowej liczby
+1. Sejm może wyrazić ministrowi wotum nieufności. Wniosek o wyrażenie wotum nieufności może być zgłoszony przez co najmniej 69 posłów. Przepis art. 158 ust. 2 stosuje się odpowiednio.
 
-**Art. 160.** Prezes Rady Ministrów do Sejmu o Radzie Ministrów wotum zaufania. Udzielenie wotum zaufania Ra dzie Ministrów w co naj mniej ustawowej liczby
+2. Prezydent Rzeczypospolitej odwołuje ministra, któremu Sejm wyraził wotum nieufności większością głosów ustawowej liczby posłów.
 
-**Art. 161.** Prezydent Rzeczypospolitej, na wniosek Prezesa Rady Mini strów, dokonuje zmian w Rady Ministrów.
+**Art. 160.** Prezes Rady Ministrów może zwrócić się do o wyrażenie Radzie Ministrów wotum zaufania. Udzielenie wotum zaufania Radzie Ministrów następuje większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
+
+**Art. 161.** Prezydent Rzeczypospolitej, na wniosek Prezesa Rady Ministrów, dokonuje zmian w składzie Rady Ministrów.
 
 **Art. 162.**
 
-1. Prezes Rady Ministrów Rady Ministrów na pierwszym posiedzeniu nowo wybranego Sejmu.
+1. Prezes Rady Ministrów składa dymisję Rady Ministrów na pierwszym posiedzeniu nowo wybranego Sejmu.
 
-2. Prezes Rady Ministrów Rady Ministrów rów w razie: nieuchwalenia przez Sejm wotum zaufania dla Rady Mini strów,
+2. Prezes Rady Ministrów składa dymisję Rady Ministrów również w razie:
 
-- **2)** Radzie Ministrów wotum
+- **1)** nieuchwalenia przez Sejm wotum zaufania dla Rady Ministrów,
+- **2)** wyrażenia Radzie Ministrów wotum nieufności,
 - **3)** rezygnacji Prezesa Rady Ministrów.
 
-3. Prezydent Rzeczypospolitej, Rady Mini strów, powierza jej dalsze sprawowanie do czasu po nowej Rady Ministrów.
+3. Prezydent Rzeczypospolitej, przyjmując dymisję Rady Ministrów, powierza jej dalsze sprawowanie obowiązków do czasu powołania nowej Rady Ministrów.
 
-4. Prezydent Rzeczypospolitej, w przypadku w ust. 2 pkt 3, dymisji Rady Ministrów. VII TERYTORIALNY
+4. Prezydent Rzeczypospolitej, w przypadku określonym w ust. 2 pkt 3, może odmówić przyjęcia dymisji Rady Ministrów.
 
-**Art. 163.** Samorząd terytorialny wykonuje zadania publiczne nie zastrze przez lub ustawy dla organów innych pu blicznych.
+#### Rozdział VII SAMORZĄD TERYTORIALNY
+
+**Art. 163.** Samorząd terytorialny wykonuje zadania publiczne nie zastrzeżone przez Konstytucję lub ustawy dla organów innych władz publicznych.
 
 **Art. 164.**
 
-1. terytorialnego jest gmina.
+1. Podstawową jednostką samorządu terytorialnego jest gmina.
 
-2. Inne jednostki regionalnego albo lokalnego i regio nalnego ustawa.
+2. Inne jednostki samorządu regionalnego albo lokalnego i regionalnego określa ustawa.
 
-3. Gmina wykonuje wszystkie zadania terytorialne go nie dla innych jednostek terytorialnego.
+3. Gmina wykonuje wszystkie zadania samorządu terytorialnego nie zastrzeżone dla innych jednostek samorządu terytorialnego.
 
 **Art. 165.**
 
-1. Jednostki terytorialnego im prawo i inne prawa
+1. Jednostki samorządu terytorialnego mają osobowość prawną. Przysługują im prawo własności i inne prawa majątkowe.
 
-2. jednostek terytorialnego podlega ochronie
+2. Samodzielność jednostek samorządu terytorialnego podlega ochronie sądowej.
 
 **Art. 166.**
 
-1. Zadania publiczne zaspokajaniu potrzeb wspólnoty wykonywane przez teryto rialnego jako zadania
+1. Zadania publiczne służące zaspokajaniu potrzeb wspólnoty samorządowej są wykonywane przez jednostkę samorządu terytorialnego jako zadania własne.
 
-2. wynika to z uzasadnionych potrzeb ustawa jednostkom terytorialnego wykonywanie innych publicznych. Ustawa tryb przekazywania i sposób wykonywania zleconych.
+2. Jeżeli wynika to z uzasadnionych potrzeb państwa, ustawa może zlecić jednostkom samorządu terytorialnego wykonywanie innych zadań publicznych. Ustawa określa tryb przekazywania i sposób wykonywania zadań zleconych.
 
-3. Spory kompetencyjne organami terytorial nego i administracji administracyjne.
+3. Spory kompetencyjne między organami samorządu terytorialnego i administracji rządowej rozstrzygają sądy administracyjne.
 
-**Art. 167.** Jednostkom terytorialnego zapewnia w do chodach publicznych odpowiednio do im 2. Dochodami jednostek terytorialnego ich dochody oraz subwencje ogólne i dotacje celowe z 3. dochodów jednostek terytorialnego w ustawie. 4. Zmiany w zakresie i kompetencji jednostek terytorialnego wraz z odpowiednimi zmianami w po dziale dochodów publicznych.
+**Art. 167.**
 
-**Art. 168.** Jednostki terytorialnego prawo ustalania wyso podatków i lokalnych w zakresie w ustawie.
+1. Jednostkom samorządu terytorialnego zapewnia się udział w dochodach publicznych odpowiednio do przypadających im zadań.
+
+2. Dochodami jednostek samorządu terytorialnego są ich dochody własne oraz subwencje ogólne i dotacje celowe z budżetu państwa.
+
+3. Źródła dochodów jednostek samorządu terytorialnego są określone w ustawie.
+
+4. Zmiany w zakresie zadań i kompetencji jednostek samorządu terytorialnego następują wraz z odpowiednimi zmianami w podziale dochodów publicznych.
+
+**Art. 168.** Jednostki samorządu terytorialnego mają prawo ustalania wysokości podatków i opłat lokalnych w zakresie określonym w ustawie.
 
 **Art. 169.**
 
-1. Jednostki terytorialnego swoje zadania za organów i wykonawczych.
+1. Jednostki samorządu terytorialnego wykonują swoje zadania za pośrednictwem organów stanowiących i wykonawczych.
 
-2. Wybory do organów powszechne, równe, i w tajnym. Zasady i tryb kandydatów i przeprowadzania wyborów oraz warunki wyborów ustawa.
+2. Wybory do organów stanowiących są powszechne, równe, bezpośrednie i odbywają się w głosowaniu tajnym. Zasady i tryb zgłaszania kandydatów i przeprowadzania wyborów oraz warunki ważności wyborów określa ustawa.
 
-3. Zasady i tryb wyborów oraz organów wyko nawczych jednostek terytorialnego ustawa.
+3. Zasady i tryb wyborów oraz odwoływania organów wykonawczych jednostek samorządu terytorialnego określa ustawa.
 
-4. Ustrój jednostek terytorialnego okre w granicach ustaw, ich organy
+4. Ustrój wewnętrzny jednostek samorządu terytorialnego określają, w granicach ustaw, ich organy stanowiące.
 
-**Art. 170.** Członkowie wspólnoty w dro dze referendum, o sprawach tej wspólnoty, w tym o z wyborów organu sa terytorialnego. Zasady i tryb przeprowadzania referen dum lokalnego ustawa.
+**Art. 170.** Członkowie wspólnoty samorządowej mogą decydować, w drodze referendum, o sprawach dotyczących tej wspólnoty, w tym o odwołaniu pochodzącego z wyborów bezpośrednich organu samorządu terytorialnego. Zasady i tryb przeprowadzania referendum lokalnego określa ustawa.
 
 **Art. 171.**
 
-1. terytorialnego podlega nadzorowi z punktu widzenia
+1. Działalność samorządu terytorialnego podlega nadzorowi z punktu widzenia legalności.
 
-2. Organami nadzoru nad jednostek te rytorialnego Prezes Rady Ministrów i wojewodowie, a w zakre sie spraw finansowych regionalne izby obrachunkowe.
+2. Organami nadzoru nad działalnością jednostek samorządu terytorialnego są Prezes Rady Ministrów i wojewodowie, a w zakresie spraw finansowych regionalne izby obrachunkowe.
 
-3. Sejm, na wniosek Prezesa Rady Ministrów, organ terytorialnego, organ ten co narusza lub ustawy.
+3. Sejm, na wniosek Prezesa Rady Ministrów, może rozwiązać organ stanowiący samorządu terytorialnego, jeżeli organ ten rażąco narusza Konstytucję lub ustawy.
 
 **Art. 172.**
 
-1. Jednostki terytorialnego prawo zrzeszania
+1. Jednostki samorządu terytorialnego mają prawo zrzeszania się.
 
-2. Jednostka terytorialnego ma prawo nia do lokalnych i regio nalnych oraz ze lokalnymi i regional nymi innych
+2. Jednostka samorządu terytorialnego ma prawo przystępowania do międzynarodowych zrzeszeń społeczności lokalnych i regionalnych oraz współpracy ze społecznościami lokalnymi i regionalnymi innych państw.
 
-3. Zasady, na jakich jednostki terytorialnego z praw, o których mowa w ust. 1 i 2, ustawa. VIII I
+3. Zasady, na jakich jednostki samorządu terytorialnego mogą korzystać z praw, o których mowa w ust. 1 i 2, określa ustawa.
 
-173. i i od innych
+#### Rozdział VIII SĄDY I TRYBUNAŁY
 
-**Art. 174.** Sądy i wyroki w imieniu Rzeczypospolitej Polskiej.
+**Art. 173.** Sądy i Trybunały są władzą odrębną i niezależną od innych władz.
+
+**Art. 174.** Sądy i Trybunały wydają wyroki w imieniu Rzeczypospolitej Polskiej. Sądy
 
 **Art. 175.**
 
-1. Wymiar w Rzeczypospolitej Polskiej sprawu powszechne, administracyjne oraz dy wojskowe. lub tryb ustanowiony tyl ko na czas wojny. jest co najmniej dwuinstancyjne. Ustrój i oraz przed ustawy.
+1. Wymiar sprawiedliwości w Rzeczypospolitej Polskiej sprawują Sąd Najwyższy, sądy powszechne, sądy administracyjne oraz sądy wojskowe.
 
-**Art. 177.** Sądy powszechne wymiar we wszystkich sprawach, z spraw ustawowo dla innych 178. 1. w sprawowaniu swojego i tylko Konstytucji oraz ustawom. zapewnia warunki pracy i wynagrodzenie odpo oraz zakresowi ich 3. nie do partii politycznej, za wodowego ani publicznej nie z zasadami i dziów.
+2. Sąd wyjątkowy lub tryb doraźny może być ustanowiony tylko na czas wojny.
 
-**Art. 179.** Sędziowie przez Prezydenta Rzeczypospoli tej, na wniosek Krajowej Rady na czas nieoznaczo ny.
+**Art. 176.**
+
+1. Postępowanie sądowe jest co najmniej dwuinstancyjne.
+
+2. Ustrój i właściwość sądów oraz postępowanie przed sądami określają ustawy.
+
+**Art. 177.** Sądy powszechne sprawują wymiar sprawiedliwości we wszystkich sprawach, z wyjątkiem spraw ustawowo zastrzeżonych dla właściwości innych sądów.
+
+**Art. 178.**
+
+1. Sędziowie w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji oraz ustawom.
+
+2. Sędziom zapewnia się warunki pracy i wynagrodzenie odpowiadające godności urzędu oraz zakresowi ich obowiązków.
+
+3. Sędzia nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z zasadami niezależności sądów i niezawisłości sędziów.
+
+**Art. 179.** Sędziowie są powoływani przez Prezydenta Rzeczypospolitej, na wniosek Krajowej Rady Sądownictwa, na czas nieoznaczony.
 
 **Art. 180.**
 
-1. nieusuwalni.
+1. Sędziowie są nieusuwalni.
 
-2. z zawieszenie w przeniesienie do innej siedziby lub na inne stanowisko wbrew jego woli jedynie na mocy orzeczenia i tylko w przy padkach w ustawie.
+2. Złożenie sędziego z urzędu, zawieszenie w urzędowaniu, przeniesienie do innej siedziby lub na inne stanowisko wbrew jego woli może nastąpić jedynie na mocy orzeczenia sądu i tylko w przypadkach określonych w ustawie.
 
-3. przeniesiony w stan spoczynku na skutek mu sprawowanie jego choroby lub utraty Tryb oraz sposób do ustawa.
+3. Sędzia może być przeniesiony w stan spoczynku na skutek uniemożliwiających mu sprawowanie jego urzędu choroby lub utraty sił. Tryb postępowania oraz sposób odwołania się do sądu określa ustawa.
 
-4. Ustawa wieku, po której w stan spoczynku. . 5. W razie zmiany ustroju lub zmiany granic dowych wolno do innego lub w stan spo czynku z pozostawieniem mu
+4. Ustawa określa granicę wieku, po osiągnięciu której sędziowie przechodzą w stan spoczynku.
 
-**Art. 181.** nie bez uprzedniej zgody w ustawie, do karnej ani pozbawio ny nie zatrzymany lub aresztowany, z go na uczynku je go zatrzymanie jest do zapewnienia toku O zatrzymaniu powiadamia preze sa miejscowo który natychmiasto we zwolnienie zatrzymanego.
+5. W razie zmiany ustroju sądów lub zmiany granic okręgów sądowych wolno sędziego przenosić do innego sądu lub w stan spoczynku z pozostawieniem mu pełnego uposażenia.
 
-**Art. 182.** Udział obywateli w sprawowaniu wymiaru ustawa.
+**Art. 181.** Sędzia nie może być, bez uprzedniej zgody sądu określonego w ustawie, pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Sędzia nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa, jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się prezesa właściwego miejscowo sądu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+
+**Art. 182.** Udział obywateli w sprawowaniu wymiaru sprawiedliwości określa ustawa.
 
 **Art. 183.**
 
-1. sprawuje nadzór nad po wszechnych i wojskowych w zakresie orzekania.
+1. Sąd Najwyższy sprawuje nadzór nad działalnością sądów powszechnych i wojskowych w zakresie orzekania.
 
-2. wykonuje inne w Konstytucji i ustawach.
+2. Sąd Najwyższy wykonuje także inne czynności określone w Konstytucji i ustawach.
 
-3. Pierwszego Prezesa Prezydent Rzeczypospolitej na kandydatów przedstawionych przez Zgromadzenie Ogólne Naj
+3. Pierwszego Prezesa Sądu Najwyższego powołuje Prezydent Rzeczypospolitej na sześcioletnią kadencję spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów Sądu Najwyższego.
 
-**Art. 184.** Naczelny Administracyjny oraz inne administracyjne w zakresie w ustawie, administracji publicznej. Kontrola ta obejmuje orzekanie o z ustawami organów terytorialnego i aktów normatywnych terenowych organów administracji
+**Art. 184.** Naczelny Sąd Administracyjny oraz inne sądy administracyjne sprawują, w zakresie określonym w ustawie, kontrolę działalności administracji publicznej. Kontrola ta obejmuje również orzekanie o zgodności z ustawami uchwał organów samorządu terytorialnego i aktów normatywnych terenowych organów administracji rządowej.
 
-**Art. 185.** Prezesa Naczelnego Administracyjnego Prezy dent Rzeczypospolitej na kandyda tów przedstawionych przez Zgromadzenie Ogólne Na czelnego Administracyjnego.
+**Art. 185.** Prezesa Naczelnego Sądu Administracyjnego powołuje Prezydent Rzeczypospolitej na sześcioletnią kadencję spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów Naczelnego Sądu Administracyjnego.
 
 **Art. 186.**
 
-1. Krajowa Rada stoi na dów i
+1. Krajowa Rada Sądownictwa stoi na straży niezależności sądów i niezawisłości sędziów.
 
-2. Krajowa Rada do Konstytucyjnego z wnioskiem w sprawie z aktów normatywnych w zakresie, w jakim one i
+2. Krajowa Rada Sądownictwa może wystąpić do Trybunału Konstytucyjnego z wnioskiem w sprawie zgodności z Konstytucją aktów normatywnych w zakresie, w jakim dotyczą one niezależności sądów i niezawisłości sędziów.
 
 **Art. 187.**
 
-1. Krajowa Rada z:
+1. Krajowa Rada Sądownictwa składa się z:
 
-- **1)** Pierwszego Prezesa Ministra Sprawiedliwo Prezesa Naczelnego Administracyjnego i osoby powo przez Prezydenta Rzeczypospolitej,
-- **2)** wybranych szego, powszechnych, administracyjnych i wojskowych,
-- **3)** czterech wybranych przez Sejm oraz dwóch wybranych przez Senat senatorów.
+- **1)** Pierwszego Prezesa Sądu Najwyższego, Ministra Sprawiedliwości, Prezesa Naczelnego Sądu Administracyjnego i osoby powołanej przez Prezydenta Rzeczypospolitej,
+- **2)** piętnastu członków wybranych spośród sędziów Sądu Najwyższego, sądów powszechnych, sądów administracyjnych i sądów wojskowych,
+- **3)** czterech członków wybranych przez Sejm spośród posłów oraz dwóch członków wybranych przez Senat spośród senatorów.
 
-2. Krajowa Rada wybiera swoich ków i dwóch
+2. Krajowa Rada Sądownictwa wybiera spośród swoich członków przewodniczącego i dwóch wiceprzewodniczących.
 
-3. Kadencja wybranych Krajowej Rady trwa cztery lata.
+3. Kadencja wybranych członków Krajowej Rady Sądownictwa trwa cztery lata.
 
-4. Ustrój, zakres i tryb pracy Krajowej Rady twa oraz sposób wyboru jej ustawa. Konstytucyj ny
+4. Ustrój, zakres działania i tryb pracy Krajowej Rady Sądownictwa oraz sposób wyboru jej członków określa ustawa. Trybunał Konstytucyjny
 
 **Art. 188.** Trybunał Konstytucyjny orzeka w sprawach:
 
-**Art. 189.** Trybunał Konstytucyjny rozstrzyga spory kompetencyjne po centralnymi konstytucyjnymi organami
+**Art. 189.** Trybunał Konstytucyjny rozstrzyga spory kompetencyjne pomiędzy centralnymi konstytucyjnymi organami państwa.
 
 **Art. 190.**
 
-1. Orzeczenia Konstytucyjnego moc powszech nie i ostateczne.
+1. Orzeczenia Trybunału Konstytucyjnego mają moc powszechnie obowiązującą i są ostateczne.
 
-2. Orzeczenia Konstytucyjnego w sprawach wymie nionych wart. 188 w organie w którym akt normatywny akt nie orzeczenie w Dzienniku Rzeczypospolitej Polskiej "Monitor Polski".
+2. Orzeczenia Trybunału Konstytucyjnego w sprawach wymienionych w art. 188 podlegają niezwłocznemu ogłoszeniu w organie urzędowym, w którym akt normatywny był ogłoszony. Jeżeli akt nie był ogłoszony, orzeczenie ogłasza się w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”.
 
-3. Orzeczenie Konstytucyjnego wchodzi w z dniem jednak Konstytucyjny inny termin utraty mocy aktu normatywnego. Ter min ten nie osiemnastu gdy chodzi o a gdy chodzi o inny akt normatywny - dwunastu mie W przypadku które z finanso wymi nie przewidzianymi w ustawie Kon stytucyjny termin utraty mocy aktu norma tywnego po zapoznaniu z Rady Ministrów.
+3. Orzeczenie Trybunału Konstytucyjnego wchodzi w życie z dniem ogłoszenia, jednak Trybunał Konstytucyjny może określić inny termin utraty mocy obowiązującej aktu normatywnego. Termin ten nie może przekroczyć osiemnastu miesięcy, gdy chodzi o ustawę, a gdy chodzi o inny akt normatywny – dwunastu miesięcy. W przypadku orzeczeń, które wiążą się z nakładami finansowymi nie przewidzianymi w ustawie budżetowej, Trybunał Konstytucyjny określa termin utraty mocy obowiązującej aktu normatywnego po zapoznaniu się z opinią Rady Ministrów.
 
-4. Orzeczenie Konstytucyjnego o z Kon lub z aktu normatywne go, na podstawie którego wydane prawomocne orzeczenie ostateczna decyzja administracyjna lub w in nych sprawach, stanowi do wznowienia uchylenia decyzji lub innego na zasadach i w trybie w przepisach dla danego
+4. Orzeczenie Trybunału Konstytucyjnego o niezgodności z Konstytucją, umową międzynarodową lub z ustawą aktu normatywnego, na podstawie którego zostało wydane prawomocne orzeczenie sądowe, ostateczna decyzja administracyjna lub rozstrzygnięcie w innych sprawach, stanowi podstawę do wznowienia postępowania, uchylenia decyzji lub innego rozstrzygnięcia na zasadach i w trybie określonych w przepisach właściwych dla danego postępowania.
 
-5. Orzeczenia Konstytucyjnego
+5. Orzeczenia Trybunału Konstytucyjnego zapadają większością głosów.
 
 **Art. 191.**
 
-1. Z wnioskiem w sprawach, o których mowa wart. 188, do Try Konstytucyjnego
+1. Z wnioskiem w sprawach, o których mowa w art. 188, do Trybunału Konstytucyjnego wystąpić mogą:
 
-- **1)** Prezydent Rzeczypospolitej, Sejmu, Sena tu, Prezes Rady Ministrów, 50 30 senatorów, Pierwszy Prezes Prezes Naczelnego Admini stracyjnego, Prokurator Generalny, Prezes Izby Kontroli, Rzecznik Praw Obywatelskich,
-- **2)** Krajowa Rada w zakresie, o którym mowa wart. 186 ust. 2,
-- **3)** organy jednostek terytorialnego,
-- **4)** ogólnokrajowe organy zawodowych oraz ogólnokrajo we organizacji pracodawców i organizacji zawodowych,
-- **5)** i inne wyznaniowe,
-- **6)** podmioty wart. 79 w zakresie w nim wskazanym.
+- **1)** Prezydent Rzeczypospolitej, Marszałek Sejmu, Marszałek Senatu, Prezes Rady Ministrów, 50 posłów, 30 senatorów, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego, Prokurator Generalny, Prezes Najwyższej Izby Kontroli, Rzecznik Praw Obywatelskich,
+- **2)** Krajowa Rada Sądownictwa w zakresie, o którym mowa w art. 186 ust. 2,
+- **3)** organy stanowiące jednostek samorządu terytorialnego,
+- **4)** ogólnokrajowe organy związków zawodowych oraz ogólnokrajowe władze organizacji pracodawców i organizacji zawodowych,
+- **5)** kościoły i inne związki wyznaniowe,
+- **6)** podmioty określone w art. 79 w zakresie w nim wskazanym.
 
-2. Podmioty, o których mowa w ust. 1 pkt 3-5, z takim wnioskiem, akt normatywny dotyczy spraw ich zakresem
+2. Podmioty, o których mowa w ust. 1 pkt 3–5, mogą wystąpić z takim wnioskiem, jeżeli akt normatywny dotyczy spraw objętych ich zakresem działania.
 
-**Art. 192.** Z wnioskiem w sprawach, o których mowa wart. 189, do Try Konstytucyjnego Prezydent Rzeczypo spolitej, Sejmu, Senatu, Prezes Rady Mini strów, Pierwszy Prezes Prezes Naczelnego Administracyjnego i Prezes Izby Kontroli.
+**Art. 192.** Z wnioskiem w sprawach, o których mowa w art. 189, do Trybunału Konstytucyjnego wystąpić mogą: Prezydent Rzeczypospolitej, Marszałek Sejmu, Marszałek Senatu, Prezes Rady Ministrów, Pierwszy Prezes Sądu Najwyższego, Prezes Naczelnego Sądu Administracyjnego i Prezes Najwyższej Izby Kontroli.
 
-**Art. 193.** Każdy Konstytucyjnemu pytanie prawne co do aktu normatywnego z Konstytu ratyfikowanymi umowami lub je od odpowiedzi na pytanie prawne spra wy przed 1. Konstytucyjny z 15 wybieranych indywidualnie przez Sejm na 9 lat osób Ponowny wybór do jest nie dopuszczalny. 2. Prezesa i Wiceprezesa Konstytucyjnego Prezydent Rzeczypospolitej kandydatów przedstawionych przez Zgromadzenie Ogólne Konstytucyjnego. 1. Konstytucyjnego w sprawowaniu swo jego i tylko Konstytucji. 2. Konstytucyjnego zapewnia warunki pracy i wynagrodzenie oraz zakre sowi ich 3. Konstytucyjnego w okresie zajmowania stanowiska nie do partii politycznej, zawo dowego ani publicznej nie pogo z zasadami i Konstytucyjnego nie bez uprzed niej zgody Konstytucyjnego, do odpowie karnej ani pozbawiony nie zatrzymany lub aresztowany, z go na uczynku jego zatrzymanie jest do zapewnienia toku O zatrzymaniu powiadamia Prezesa Konstytucyjnego, który natychmiastowe zwolnienie zatrzymanego. Konstytucyjnego oraz tryb nia przed ustawa. Stanu Za naruszenie Konstytucji lub ustawy, w z zajmowa nym stanowiskiem lub w zakresie swojego odpowie przed Stanu Prezy dent Rzeczypospolitej, Prezes Rady Ministrów oraz Ra dy Ministrów, Prezes Narodowego Banku Polskiego, Prezes Naj Izby Kontroli, Krajowej Rady Radiofonii i Tele wizji, osoby, którym Prezes Rady Ministrów kierowanie ministerstwem, oraz Naczelny Dowódca Zbrojnych. 2. przed Stanu i senatorowie w zakresie wart. 3. Rodzaje kar orzekanych przez Stanu ustawa. Stanu z i 16 wybieranych przez Sejm spoza grona i senatorów na czas kadencji Sejmu. prze oraz co najmniej Try Stanu powinni kwalifikacje wymagane do zajmowania stanowiska Stanu jest Pierwszy Prezes 3. Stanu w sprawowaniu funkcji go Stanu i tylko Konstytucji oraz ustawom. Art. Członek Trybunału Stanu nie bez uprzedniej zgody Stanu do karnej ani po zbawiony Stanu nie zatrzy many lub aresztowany, z go na uczynku jego zatrzymanie jest do zapewnie nia toku O zatrzymaniu nie powiadamia Stanu, który mo natychmiastowe zwolnienie zatrzymanego. Stanu oraz tryb przed ustawa. IX ORGANY KONTROLI I OCHRONY PRAWA Izba Kontroli
+**Art. 193.** Każdy sąd może przedstawić Trybunałowi Konstytucyjnemu pytanie prawne co do zgodności aktu normatywnego z Konstytucją, ratyfikowanymi umowami międzynarodowymi lub ustawą, jeżeli od odpowiedzi na pytanie prawne zależy rozstrzygnięcie sprawy toczącej się przed sądem.
+
+**Art. 194.**
+
+1. Trybunał Konstytucyjny składa się z 15 sędziów, wybieranych indywidualnie przez Sejm na 9 lat spośród osób wyróżniających się wiedzą prawniczą. Ponowny wybór do składu Trybunału jest niedopuszczalny.
+
+2. Prezesa i Wiceprezesa Trybunału Konstytucyjnego powołuje Prezydent Rzeczypospolitej spośród kandydatów przedstawionych przez Zgromadzenie Ogólne Sędziów Trybunału Konstytucyjnego.
+
+**Art. 195.**
+
+1. Sędziowie Trybunału Konstytucyjnego w sprawowaniu swojego urzędu są niezawiśli i podlegają tylko Konstytucji.
+
+2. Sędziom Trybunału Konstytucyjnego zapewnia się warunki pracy i wynagrodzenie odpowiadające godności urzędu oraz zakresowi ich obowiązków.
+
+3. Sędziowie Trybunału Konstytucyjnego w okresie zajmowania stanowiska nie mogą należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z zasadami niezależności sądów i niezawisłości sędziów.
+
+**Art. 196.** Sędzia Trybunału Konstytucyjnego nie może być, bez uprzedniej zgody Trybunału Konstytucyjnego, pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Sędzia nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa, jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Prezesa Trybunału Konstytucyjnego, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+
+**Art. 197.** Organizację Trybunału Konstytucyjnego oraz tryb postępowania przed Trybunałem określa ustawa. Trybunał Stanu
+
+**Art. 198.**
+
+1. Za naruszenie Konstytucji lub ustawy, w związku z zajmowanym stanowiskiem lub w zakresie swojego urzędowania, odpowiedzialność konstytucyjną przed Trybunałem Stanu ponoszą: Prezydent Rzeczypospolitej, Prezes Rady Ministrów oraz członkowie Rady Ministrów, Prezes Narodowego Banku Polskiego, Prezes Najwyższej Izby Kontroli, członkowie Krajowej Rady Radiofonii i Telewizji, osoby, którym Prezes Rady Ministrów powierzył kierowanie ministerstwem, oraz Naczelny Dowódca Sił Zbrojnych.
+
+2. Odpowiedzialność konstytucyjną przed Trybunałem Stanu ponoszą również posłowie i senatorowie w zakresie określonym w art. 107.
+
+3. Rodzaje kar orzekanych przez Trybunał Stanu określa ustawa.
+
+**Art. 199.**
+
+1. Trybunał Stanu składa się z przewodniczącego, 2 zastępców przewodniczącego i 16 członków wybieranych przez Sejm spoza grona posłów i senatorów na czas kadencji Sejmu. Zastępcy przewodniczącego Trybunału oraz co najmniej połowa członków Trybunału Stanu powinni mieć kwalifikacje wymagane do zajmowania stanowiska sędziego.
+
+2. Przewodniczącym Trybunału Stanu jest Pierwszy Prezes Sądu Najwyższego.
+
+3. Członkowie Trybunału Stanu w sprawowaniu funkcji sędziego Trybunału Stanu są niezawiśli i podlegają tylko Konstytucji oraz ustawom.
+
+**Art. 200.** Członek Trybunału Stanu nie może być bez uprzedniej zgody Trybunału Stanu pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Członek Trybunału Stanu nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa, jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się przewodniczącego Trybunału Stanu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
+
+**Art. 201.** Organizację Trybunału Stanu oraz tryb postępowania przed Trybunałem określa ustawa.
+
+#### Rozdział IX ORGANY KONTROLI PAŃSTWOWEJ I OCHRONY PRAWA Najwyższa Izba Kontroli
 
 **Art. 202.**
 
-1. Izba Kontroli jest naczelnym organem kontroli
+1. Najwyższa Izba Kontroli jest naczelnym organem kontroli państwowej.
 
-2. Izba Kontroli podlega Sejmowi.
+2. Najwyższa Izba Kontroli podlega Sejmowi.
 
-3. Izba Kontroli na zasadach
+3. Najwyższa Izba Kontroli działa na zasadach kolegialności.
 
 **Art. 203.**
 
-1. Izba Kontroli kontroluje organów admi nistracji Narodowego Banku Polskiego, osób prawnych i innych jednostek organizacyjnych z punktu widzenia i
+1. Najwyższa Izba Kontroli kontroluje działalność organów administracji rządowej, Narodowego Banku Polskiego, państwowych osób prawnych i innych państwowych jednostek organizacyjnych z punktu widzenia legalności, gospodarności, celowości i rzetelności.
 
-2. Izba Kontroli orga nów terytorialnego, komunalnych osób prawnych i in nych komunalnych jednostek organizacyjnych z punktu widzenia i
+2. Najwyższa Izba Kontroli może kontrolować działalność organów samorządu terytorialnego, komunalnych osób prawnych i innych komunalnych jednostek organizacyjnych z punktu widzenia legalności, gospodarności i rzetelności.
 
-3. Izba Kontroli z punk tu widzenia i innych jedno stek organizacyjnych i podmiotów gospodarczych w zakresie, w ja kim one lub lub komunal ne oraz z finansowych na rzecz
+3. Najwyższa Izba Kontroli może również kontrolować z punktu widzenia legalności i gospodarności działalność innych jednostek organizacyjnych i podmiotów gospodarczych w zakresie, w jakim wykorzystują one majątek lub środki państwowe lub komunalne oraz wywiązują się z zobowiązań finansowych na rzecz państwa.
 
 **Art. 204.**
 
-1. Izba Kontroli Sejmowi:
+1. Najwyższa Izba Kontroli przedkłada Sejmowi:
 
-- **1)** wykonania i polityki
-- **2)** w przedmiocie absolutorium dla Rady Ministrów,
-- **3)** informacje o wynikach kontroli, wnioski i ne w ustawie.
+- **1)** analizę wykonania budżetu państwa i założeń polityki pieniężnej,
+- **2)** opinię w przedmiocie absolutorium dla Rady Ministrów,
+- **3)** informacje o wynikach kontroli, wnioski i wystąpienia, określone w ustawie.
 
-2. Izba Kontroli przedstawia Sejmowi coroczne spra wozdanie ze swojej
+2. Najwyższa Izba Kontroli przedstawia Sejmowi coroczne sprawozdanie ze swojej działalności.
 
 **Art. 205.**
 
-1. Prezes Izby Kontroli jest przez Sejm za Senatu na 6 lat i ponownie tylko raz.
+1. Prezes Najwyższej Izby Kontroli jest powoływany przez Sejm za zgodą Senatu na 6 lat i może być ponownie powołany tylko raz.
 
-2. Prezes Izby Kontroli nie innego stanowiska, z stanowiska profesora ani innych zawodowych.
+2. Prezes Najwyższej Izby Kontroli nie może zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej, ani wykonywać innych zajęć zawodowych.
 
-3. Prezes Izby Kontroli nie do partii politycznej, zawodowego ani pu blicznej nie z jego
+3. Prezes Najwyższej Izby Kontroli nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z godnością jego urzędu.
 
-**Art. 206.** Prezes Izby Kontroli nie bez uprzedniej zgody Sejmu do karnej ani pozba wiony Prezes Izby Kontroli nie za trzymany lub aresztowany, z go na uczynku i jego zatrzymanie jest do zapewnienia toku O zatrzymaniu powiadamia Sejmu, który naka natychmiastowe zwolnienie zatrzymanego.
+**Art. 206.** Prezes Najwyższej Izby Kontroli nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Prezes Najwyższej Izby Kontroli nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
-**Art. 207.** Organizację oraz tryb Izby Kontroli okre ustawa. Rzecznik Praw Obywatelskich
+**Art. 207.** Organizację oraz tryb działania Najwyższej Izby Kontroli określa ustawa. Rzecznik Praw Obywatelskich
 
 **Art. 208.**
 
-1. Rzecznik Praw Obywatelskich stoi na i praw i obywatela w Konstytucji oraz w innych ak tach normatywnych.
+1. Rzecznik Praw Obywatelskich stoi na straży wolności i praw człowieka i obywatela określonych w Konstytucji oraz w innych aktach normatywnych.
 
-2. Zakres i sposób Rzecznika Praw Obywatelskich ustawa.
+2. Zakres i sposób działania Rzecznika Praw Obywatelskich określa ustawa.
 
 **Art. 209.**
 
-1. Rzecznik Praw Obywatelskich jest przez Sejm za Senatu na
+1. Rzecznik Praw Obywatelskich jest powoływany przez Sejm za zgodą Senatu na 5 lat.
 
-2. Rzecznik Praw Obywatelskich nie innego stanowiska, z stanowiska profesora ani innych zawodowych.
+2. Rzecznik Praw Obywatelskich nie może zajmować innego stanowiska, z wyjątkiem stanowiska profesora szkoły wyższej, ani wykonywać innych zajęć zawodowych.
 
-3. Rzecznik Praw Obywatelskich nie do partii po litycznej, zawodowego ani pu blicznej nie z jego
+3. Rzecznik Praw Obywatelskich nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z godnością jego urzędu.
 
-**Art. 210.** Rzecznik Praw Obywatelskich jest w swojej nieza od innych organów i odpowiada je dynie przed Sejmem na zasadach w ustawie.
+**Art. 210.** Rzecznik Praw Obywatelskich jest w swojej działalności niezawisły, niezależny od innych organów państwowych i odpowiada jedynie przed Sejmem na zasadach określonych w ustawie.
 
-**Art. 211.** Rzecznik Praw Obywatelskich nie bez uprzedniej zgo dy Sejmu do karnej ani pozbawiony Rzecznik Praw Obywatelskich nie zatrzymany lub aresztowany, z go na uczynku prze i jego zatrzymanie jest do zapewnienia toku O zatrzymaniu powiadamia Sejmu, który natychmia stowe zwolnienie zatrzymanego.
+**Art. 211.** Rzecznik Praw Obywatelskich nie może być bez uprzedniej zgody pociągnięty do odpowiedzialności karnej ani pozbawiony wolności. Rzecznik Praw Obywatelskich nie może być zatrzymany lub aresztowany, z wyjątkiem ujęcia go na gorącym uczynku przestępstwa i jeżeli jego zatrzymanie jest niezbędne do zapewnienia prawidłowego toku postępowania. O zatrzymaniu niezwłocznie powiadamia się Marszałka Sejmu, który może nakazać natychmiastowe zwolnienie zatrzymanego.
 
-**Art. 212.** Rzecznik Praw Obywatelskich corocznie informuje Sejm i Senat o swojej oraz o stanie przestrzegania i praw i obywatela. Krajowa Rada Radiofonii i Telewizji
+**Art. 212.** Rzecznik Praw Obywatelskich corocznie informuje Sejm i Senat o swojej działalności oraz o stanie przestrzegania wolności i praw człowieka i obywatela. Krajowa Rada Radiofonii i Telewizji
 
 **Art. 213.**
 
-1. Krajowa Rada Radiofonii i Telewizji stoi na prawa do informacji oraz interesu publicznego w radiofonii i telewizji.
+1. Krajowa Rada Radiofonii i Telewizji stoi na straży wolności słowa, prawa do informacji oraz interesu publicznego w radiofonii i telewizji.
 
-2. Krajowa Rada Radiofonii i Telewizji wydaje a w sprawach indywidualnych podejmuje
+2. Krajowa Rada Radiofonii i Telewizji wydaje rozporządzenia, a w sprawach indywidualnych podejmuje uchwały.
 
 **Art. 214.**
 
-1. Krajowej Rady Radiofonii i Telewizji wani przez Sejm, Senat i Prezydenta Rzeczypospolitej.
+1. Członkowie Krajowej Rady Radiofonii i Telewizji są powoływani przez Sejm, Senat i Prezydenta Rzeczypospolitej.
 
-2. Krajowej Rady Radiofonii i Telewizji nie nale do partii politycznej, zawodowego ani dzia publicznej nie z funkcji.
+2. Członek Krajowej Rady Radiofonii i Telewizji nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z godnością pełnionej funkcji.
 
-**Art. 215.** Zasady i tryb Krajowej Rady Radiofonii i Telewizji, jej oraz zasady jej ustawa. X FINANSE PUBLICZNE
+**Art. 215.** Zasady i tryb działania Krajowej Rady Radiofonii i Telewizji, jej organizację oraz szczegółowe zasady powoływania jej członków określa ustawa.
+
+#### Rozdział X FINANSE PUBLICZNE
 
 **Art. 216.**
 
-1. finansowe na cele publiczne gromadzone i wydatko wane w sposób w ustawie.
+1. Środki finansowe na cele publiczne są gromadzone i wydatkowane w sposób określony w ustawie.
 
-2. Nabywanie, zbywanie i lub akcji oraz emisja papierów przez Skarb stwa, Narodowy Bank Polski lub inne osoby prawne na zasadach i w trybie w ustawie.
+2. Nabywanie, zbywanie i obciążanie nieruchomości, udziałów lub akcji oraz emisja papierów wartościowych przez Skarb Państwa, Narodowy Bank Polski lub inne państwowe osoby prawne następuje na zasadach i w trybie określonych w ustawie.
 
-3. Ustanowienie monopolu w drodze ustawy.
+3. Ustanowienie monopolu następuje w drodze ustawy.
 
-4. oraz udzielanie gwarancji i fi nansowych przez na zasadach i w trybie okre w ustawie.
+4. Zaciąganie pożyczek oraz udzielanie gwarancji i poręczeń finansowych przez państwo następuje na zasadach i w trybie określonych w ustawie.
 
-5. Nie wolno lub gwarancji i finansowych, w których publiczny przekroczy 3/5 rocznego produktu krajowego brutto. Sposób obliczania rocznego produktu krajowego brutto oraz publicznego ustawa. podatków, innych danin publicznych, podmiotów, przedmiotów opodatkowania i stawek podatkowych, a zasad przyznawania ulg i oraz kategorii podmio tów zwolnionych od podatków w drodze ustawy. Art. Organizację Skarbu oraz sposób kiem Skarbu ustawa.
+5. Nie wolno zaciągać pożyczek lub udzielać gwarancji i poręczeń finansowych, w następstwie których państwowy dług publiczny przekroczy 3/5 wartości rocznego produktu krajowego brutto. Sposób obliczania wartości rocznego produktu krajowego brutto oraz państwowego długu publicznego określa ustawa.
 
-1. Sejm uchwala na rok w formie ustawy
+**Art. 217.** Nakładanie podatków, innych danin publicznych, określanie podmiotów, przedmiotów opodatkowania i stawek podatkowych, a także zasad przyznawania ulg i umorzeń oraz kategorii podmiotów zwolnionych od podatków następuje w drodze ustawy.
 
-2. Zasady i tryb opracowania projektu jego oraz wymagania, którym powinien odpowia projekt ustawy a zasady i tryb wykonywania ustawy ustawa.
+**Art. 218.** Organizację Skarbu Państwa oraz sposób zarządzania majątkiem Skarbu Państwa określa ustawa.
 
-3. W przypadkach dochody i wydatki w okresie krótszym rok ustawa o prowizorium bu Przepisy projektu ustawy stosuje odpowiednio do projektu ustawy o prowizorium
+**Art. 219.**
 
-4. ustawa albo ustawa o prowizorium towym nie w w dniu roku Rada Ministrów prowadzi na podstawie projektu ustawy.
+1. Sejm uchwala budżet państwa na rok budżetowy w formie ustawy budżetowej.
 
-1. wydatków lub ograniczenie dochodów planowa nych przez Ministrów nie ustalenia przez Sejm deficytu przewidziany w projek cie ustawy
+2. Zasady i tryb opracowania projektu budżetu państwa, stopień jego szczegółowości oraz wymagania, którym powinien odpowiadać projekt ustawy budżetowej, a także zasady i tryb wykonywania ustawy budżetowej określa ustawa.
 
-2. Ustawa nie pokrywania defi cytu przez w centralnym banku Art. Inicjatywa ustawodawcza w zakresie ustawy usta wy o prowizorium zmiany ustawy usta wy o publicznego oraz ustawy o udzielaniu gwa rancji finansowych przez Radzie Ministrów.
+3. W wyjątkowych przypadkach dochody i wydatki państwa w okresie krótszym niż rok może określać ustawa o prowizorium budżetowym. Przepisy dotyczące projektu ustawy budżetowej stosuje się odpowiednio do projektu ustawy o prowizorium budżetowym.
 
-**Art. 222.** Rada Ministrów Sejmowi na 3 przed roku projekt ustawy na rok W przypadkach jest niejsze projektu.
+4. Jeżeli ustawa budżetowa albo ustawa o prowizorium budżetowym nie weszły w życie w dniu rozpoczęcia roku budżetowego, Rada Ministrów prowadzi gospodarkę finansową na podstawie przedłożonego projektu ustawy.
 
-**Art. 223.** Senat poprawki do ustawy w 20 dni od dnia przekazania jej Senatowi.
+**Art. 220.**
+
+1. Zwiększenie wydatków lub ograniczenie dochodów planowanych przez Radę Ministrów nie może powodować ustalenia przez Sejm większego deficytu budżetowego niż przewidziany w projekcie ustawy budżetowej.
+
+2. Ustawa budżetowa nie może przewidywać pokrywania deficytu budżetowego przez zaciąganie zobowiązania w centralnym banku państwa.
+
+**Art. 221.** Inicjatywa ustawodawcza w zakresie ustawy budżetowej, ustawy o prowizorium budżetowym, zmiany ustawy budżetowej, ustawy o zaciąganiu długu publicznego oraz ustawy o udzielaniu gwarancji finansowych przez państwo przysługuje wyłącznie Radzie Ministrów.
+
+**Art. 222.** Rada Ministrów przedkłada Sejmowi najpóźniej na 3 miesiące przed rozpoczęciem roku budżetowego projekt ustawy budżetowej na rok następny. W wyjątkowych przypadkach możliwe jest późniejsze przedłożenie projektu.
+
+**Art. 223.** Senat może uchwalić poprawki do ustawy budżetowej w ciągu 20 dni od dnia przekazania jej Senatowi.
 
 **Art. 224.**
 
-1. Prezydent Rzeczypospolitej podpisuje w 7 dni albo o prowizorium przedstawio przez Sejmu. Do ustawy i ustawy o pro wizorium nie stosuje przepisu art. 122 ust. 5.
+1. Prezydent Rzeczypospolitej podpisuje w ciągu 7 dni ustawę budżetową albo ustawę o prowizorium budżetowym przedstawioną przez Marszałka Sejmu. Do ustawy budżetowej i ustawy o prowizorium budżetowym nie stosuje się przepisu art. 122 ust. 5.
 
-2. W przypadku zwrócenia Prezydenta Rzeczypospolitej do Konstytucyjnego w sprawie z ustawy albo ustawy o prowizorium przed jej podpisaniem, orzeka w tej sprawie nie w 2 od dnia wniosku w Trybunale.
+2. W przypadku zwrócenia się Prezydenta Rzeczypospolitej do Trybunału Konstytucyjnego w sprawie zgodności z Konstytucją ustawy budżetowej albo ustawy o prowizorium budżetowym przed jej podpisaniem, Trybunał orzeka w tej sprawie nie później niż w ciągu 2 miesięcy od dnia złożenia wniosku w Trybunale.
 
-**Art. 225.** Jeżeli w 4 od dnia Sejmowi projek tu ustawy nie zostanie ona przedstawiona Prezydento wi Rzeczypospolitej do podpisu, Prezydent Rzeczypospolitej w 14 dni skrócenie kadencji Sejmu.
+**Art. 225.** Jeżeli w ciągu 4 miesięcy od dnia przedłożenia Sejmowi projektu ustawy budżetowej nie zostanie ona przedstawiona Prezydentowi Rzeczypospolitej do podpisu, Prezydent Rzeczypospolitej może w ciągu 14 dni zarządzić skrócenie kadencji Sejmu.
 
 **Art. 226.**
 
-1. Rada Ministrów w 5 od roku bu Sejmowi sprawozdanie z wykonania ustawy wraz z o stanie
+1. Rada Ministrów w ciągu 5 miesięcy od zakończenia roku budżetowego przedkłada Sejmowi sprawozdanie z wykonania ustawy budżetowej wraz z informacją o stanie zadłużenia państwa.
 
-2. Sejm rozpatruje sprawozdanie i po zapoznaniu z Izby Kontroli podejmuje, w 90 dni od dnia Sejmowi sprawozdania, o udzieleniu lub o odmowie udzielenia Radzie Ministrów absolutorium.
+2. Sejm rozpatruje przedłożone sprawozdanie i po zapoznaniu się z opinią Najwyższej Izby Kontroli podejmuje, w ciągu 90 dni od dnia przedłożenia Sejmowi sprawozdania, uchwałę o udzieleniu lub o odmowie udzielenia Radzie Ministrów absolutorium.
 
 **Art. 227.**
 
-1. Centralnym bankiem jest Narodowy Bank Polski. mu prawo emisji oraz ustalania i realizowania polityki Narodowy Bank Polski odpowia da za polskiego
+1. Centralnym bankiem państwa jest Narodowy Bank Polski. Przysługuje mu wyłączne prawo emisji pieniądza oraz ustalania i realizowania polityki pieniężnej. Narodowy Bank Polski odpowiada za wartość polskiego pieniądza.
 
-2. Organami Narodowego Banku Polskiego Prezes Narodo wego Banku Polskiego, Rada Polityki oraz Naro dowego Banku Polskiego.
+2. Organami Narodowego Banku Polskiego są: Prezes Narodowego Banku Polskiego, Rada Polityki Pieniężnej oraz Zarząd Narodowego Banku Polskiego.
 
-3. Prezes Narodowego Banku Polskiego jest przez Sejm na wniosek Prezydenta Rzeczypospolitej na 6 lat.
+3. Prezes Narodowego Banku Polskiego jest powoływany przez Sejm na wniosek Prezydenta Rzeczypospolitej na 6 lat.
 
-4. Prezes Narodowego Banku Polskiego nie do partii politycznej, zawodowego ani publicznej nie z jego Rady Polityki Prezes Narodowe go Banku Polskiego jako oraz osoby z zakresu finansów, na 6 lat, w równej licz bie przez Prezydenta Rzeczypospolitej, Sejm i Senat.
+4. Prezes Narodowego Banku Polskiego nie może należeć do partii politycznej, związku zawodowego ani prowadzić działalności publicznej nie dającej się pogodzić z godnością jego urzędu.
 
-6. Rada Polityki ustala corocznie polityki i je do Sejmowi z przez Ministrów projektu ustawy wej. Rada Polityki w 5 od ro ku Sejmowi sprawozdanie z wykonania polityki i zasady Narodowego Banku Polskiego oraz zasady i jego orga nów ustawa. XI STANY NADZWYCZAJNE Art.
+5. W skład Rady Polityki Pieniężnej wchodzą Prezes Narodowego Banku Polskiego jako przewodniczący oraz osoby wyróżniające się wiedzą z zakresu finansów, powoływane na 6 lat, w równej liczbie przez Prezydenta Rzeczypospolitej, Sejm i Senat.
 
-1. W sytuacjach szczególnych konstytucyjne wprowadzony od powiedni stan nadzwyczajny: stan wojenny, stan lub stan
+6. Rada Polityki Pieniężnej ustala corocznie założenia polityki pieniężnej i przedkłada je do wiadomości Sejmowi równocześnie z przedłożeniem przez Radę Ministrów projektu ustawy budżetowej. Rada Polityki Pieniężnej, w ciągu 5 miesięcy od zakończenia roku budżetowego, składa Sejmowi sprawozdanie z wykonania założeń polityki pieniężnej.
 
-2. Stan nadzwyczajny wprowadzony tylko na podsta wie ustawy, w drodze które podlega dodatkowe mu podaniu do publicznej
+7. Organizację i zasady działania Narodowego Banku Polskiego oraz szczegółowe zasady powoływania i odwoływania jego organów określa ustawa.
 
-3. Zasady organów publicznej oraz zakres, w jakim ograniczone i prawa i oby watela w czasie poszczególnych stanów nadzwyczajnych, ustawa.
+#### Rozdział XI STANY NADZWYCZAJNE
 
-4. Ustawa podstawy, zakres i tryb wyrównywania strat z ograniczenia w czasie stanu nad zwyczajnego i praw i obywatela.
+**Art. 228.**
 
-5. w wyniku wprowadzenia stanu nadzwy czajnego stopniowi i powinny zmie do jak najszybszego przywrócenia normalnego funkcjonowa nia
+1. W sytuacjach szczególnych zagrożeń, jeżeli zwykłe środki konstytucyjne są niewystarczające, może zostać wprowadzony odpowiedni stan nadzwyczajny: stan wojenny, stan wyjątkowy lub stan klęski żywiołowej.
 
-6. W czasie stanu nadzwyczajnego nie zmienione: Konstytucja, ordynacje wyborcze do Sejmu, Senatu i organów sa terytorialnego, ustawa o wyborze Prezydenta Rzeczypo spolitej oraz ustawy o stanach nadzwyczajnych.
+2. Stan nadzwyczajny może być wprowadzony tylko na podstawie ustawy, w drodze rozporządzenia, które podlega dodatkowemu podaniu do publicznej wiadomości.
 
-7. W czasie stanu nadzwyczajnego oraz w 90 dni po jego nie skrócona kadencja Sejmu, przeprowa dzane referendum ogólnokrajowe, nie przeprowadzane wybory do Sejmu, Senatu, organów terytorialnego oraz wybory Prezydenta Rzeczypospolitej, a kadencje tych organów ule odpowiedniemu Wybory do organów du terytorialnego tylko tam, gdzie nie wprowa dzony stan nadzwyczajny. W razie zbrojnej na terytorium Rzeczypospolitej Polskiej lub gdy z umowy rodowej wynika do wspólnej obrony przeciwko agre sji, Prezydent Rzeczypospolitej na wniosek Rady Ministrów stan wojenny na albo na terytorium stwa. Art.
+3. Zasady działania organów władzy publicznej oraz zakres, w jakim mogą zostać ograniczone wolności i prawa człowieka i obywatela w czasie poszczególnych stanów nadzwyczajnych, określa ustawa.
 
-1. W razie konstytucyjnego ustroju bezpie obywateli lub publicznego, Prezydent Rzeczy pospolitej na wniosek Rady Ministrów na czas oznaczony, nie 90 dni, stan na albo na terytorium
+4. Ustawa może określić podstawy, zakres i tryb wyrównywania strat majątkowych wynikających z ograniczenia w czasie stanu nadzwyczajnego wolności i praw człowieka i obywatela.
 
-2. stanu tylko raz, za Sejmu i na czas nie 60 dni. Art. Rozporządzenie o wprowadzeniu stanu wojennego lub wego Prezydent Rzeczypospolitej przedstawia Sejmowi w 48 godzin od podpisania Sejm rozpa truje Prezydenta Rzeczypospolitej. Sejm je w co najmniej ustawowej liczby Art. W celu skutkom katastrof naturalnych lub awarii technicznych znamiona oraz w celu ich Rada Ministrów na czas oznaczo ny, nie 30 dni, stan na albo na terytorium tego stanu za Sejmu.
+5. Działania podjęte w wyniku wprowadzenia stanu nadzwyczajnego muszą odpowiadać stopniowi zagrożenia i powinny zmierzać do jak najszybszego przywrócenia normalnego funkcjonowania państwa.
+
+6. W czasie stanu nadzwyczajnego nie mogą być zmienione: Konstytucja, ordynacje wyborcze do Sejmu, Senatu i organów samorządu terytorialnego, ustawa o wyborze Prezydenta Rzeczypospolitej oraz ustawy o stanach nadzwyczajnych.
+
+7. W czasie stanu nadzwyczajnego oraz w ciągu 90 dni po jego zakończeniu nie może być skrócona kadencja Sejmu, przeprowadzane referendum ogólnokrajowe, nie mogą być przeprowadzane wybory do Sejmu, Senatu, organów samorządu terytorialnego oraz wybory Prezydenta Rzeczypospolitej, a kadencje tych organów ulegają odpowiedniemu przedłużeniu. Wybory do organów samorządu terytorialnego są możliwe tylko tam, gdzie nie został wprowadzony stan nadzwyczajny.
+
+**Art. 229.** W razie zewnętrznego zagrożenia państwa, zbrojnej napaści na terytorium Rzeczypospolitej Polskiej lub gdy z umowy międzynarodowej wynika zobowiązanie do wspólnej obrony przeciwko agresji, Prezydent Rzeczypospolitej na wniosek Rady Ministrów może wprowadzić stan wojenny na części albo na całym terytorium państwa.
+
+**Art. 230.**
+
+1. W razie zagrożenia konstytucyjnego ustroju państwa, bezpieczeństwa obywateli lub porządku publicznego, Prezydent Rzeczypospolitej na wniosek Rady Ministrów może wprowadzić, na czas oznaczony, nie dłuższy niż 90 dni, stan wyjątkowy na części albo na całym terytorium państwa.
+
+2. Przedłużenie stanu wyjątkowego może nastąpić tylko raz, za zgodą i na czas nie dłuższy niż 60 dni.
+
+**Art. 231.** Rozporządzenie o wprowadzeniu stanu wojennego lub wyjątkowego Prezydent Rzeczypospolitej przedstawia Sejmowi w ciągu 48 godzin od podpisania rozporządzenia. Sejm niezwłocznie rozpatruje rozporządzenie Prezydenta Rzeczypospolitej. Sejm może je uchylić bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów.
+
+**Art. 232.** W celu zapobieżenia skutkom katastrof naturalnych lub awarii technicznych noszących znamiona klęski żywiołowej oraz w celu ich usunięcia Rada Ministrów może wprowadzić na czas oznaczony, nie dłuższy niż 30 dni, stan klęski żywiołowej na części albo na całym terytorium państwa. Przedłużenie tego stanu może nastąpić za zgodą Sejmu.
 
 **Art. 233.**
 
-1. Ustawa zakres i praw wieka i obywatela w czasie stanu wojennego i nie mo i praw wart. 30 wieka), art. 34 i art. 36 (obywatelstwo), art. 38 (ochrona art. 39, art. 40 i art. 41 ust. 4 (humanitarne traktowanie), art. 42 (pono szenie karnej), art. 45 do art. 47 (dobra osobiste), art. 53 (sumienie i religia), art. 63 (petycje) oraz art. 48 i art. 72 (rodzina i dziecko).
+1. Ustawa określająca zakres ograniczeń wolności i praw człowieka i obywatela w czasie stanu wojennego i wyjątkowego nie może ograniczać wolności i praw określonych w art. 30 (godność człowieka), art. 34 i art. 36 (obywatelstwo), art. 38 (ochrona życia), art. 39, art. 40 i art. 41 ust. 4 (humanitarne traktowanie), art. 42 (ponoszenie odpowiedzialności karnej), art. 45 (dostęp do sądu), art. 47 (dobra osobiste), art. 53 (sumienie i religia), art. 63 (petycje) oraz art. 48 i art. 72 (rodzina i dziecko).
 
-2. Niedopuszczalne jest ograniczenie i praw i obywatela z powodu rasy, wyznania lub je go braku, pochodzenia urodzenia oraz
+2. Niedopuszczalne jest ograniczenie wolności i praw człowieka i obywatela wyłącznie z powodu rasy, płci, języka, wyznania lub jego braku, pochodzenia społecznego, urodzenia oraz majątku.
 
-3. Ustawa zakres i praw wieka i obywatela w stanie wol i prawa wart. 22 gospodar czej), art. 41 ust. 1,3 i 5 osobista), art. 50 mieszkania), art. 52 ust. 1 poruszania i pobytu na tery torium Rzeczypospolitej Polskiej), art. 59 ust. 3 (prawo do strajku), art. 64 (prawo art. 65 ust. 1 pracy), art. 66 ust. 1 (prawo do bezpiecznych i higienicznych warunków pracy) oraz art. 66 ust. 2 (prawo do wypoczynku).
+3. Ustawa określająca zakres ograniczeń wolności i praw człowieka i obywatela w stanie klęski żywiołowej może ograniczać wolności i prawa określone w art. 22 (wolność działalności gospodarczej), art. 41 ust. 1, 3 i 5 (wolność osobista), art. 50 (nienaruszalność mieszkania), art. 52 ust. 1 (wolność poruszania się i pobytu na terytorium Rzeczypospolitej Polskiej), art. 59 ust. 3 (prawo do strajku), art. 64 (prawo własności), art. 65 ust. 1 (wolność pracy), art. 66 ust. 1 (prawo do bezpiecznych i higienicznych warunków pracy) oraz art. 66 ust. 2 (prawo do wypoczynku).
 
-**Art. 234.** Jeżeli w czasie stanu wojennego Sejm nie na posiedzenie, Prezydent Rzeczypospolitej na wniosek Rady Mini strów wydaje z ustawy w zakresie i w grani cach wart. 228 ust. 3-5. te zatwierdzeniu przez Sejm na posiedzeniu. 2. o których mowa w ust. l, charakter powszechnie prawa. XII ZMIANA KONSTYTUCJI
+**Art. 234.**
+
+1. Jeżeli w czasie stanu wojennego Sejm nie może zebrać się na posiedzenie, Prezydent Rzeczypospolitej na wniosek Rady Ministrów wydaje rozporządzenia z mocą ustawy w zakresie i w granicach określonych w art. 228 ust. 3–5. Rozporządzenia te podlegają zatwierdzeniu przez Sejm na najbliższym posiedzeniu.
+
+2. Rozporządzenia, o których mowa w ust. 1, mają charakter źródeł powszechnie obowiązującego prawa.
+
+#### Rozdział XII ZMIANA KONSTYTUCJI
 
 **Art. 235.**
 
-1. Projekt ustawy o zmianie Konstytucji co najmniej 1/5 ustawowej liczby Senat lub Prezydent Rzeczypospolitej.
+1. Projekt ustawy o zmianie Konstytucji może przedłożyć co najmniej 1/5 ustawowej liczby posłów, Senat lub Prezydent Rzeczypospolitej.
 
-2. Zmiana Konstytucji w drodze ustawy uchwalonej w jednakowym brzmieniu przez Sejm i w terminie nie 60 dni przez Senat.
+2. Zmiana Konstytucji następuje w drodze ustawy uchwalonej w jednakowym brzmieniu przez Sejm i następnie w terminie nie dłuższym niż 60 dni przez Senat.
 
-3. Pierwsze czytanie projektu ustawy o zmianie Konstytucji mo nie trzydziestego dnia od dnia Sejmowi projektu ustawy.
+3. Pierwsze czytanie projektu ustawy o zmianie Konstytucji może odbyć się nie wcześniej niż trzydziestego dnia od dnia przedłożenia Sejmowi projektu ustawy.
 
-4. o zmianie Konstytucji uchwala Sejm co najmniej 2/3 w co najmniej ustawowej liczby oraz Senat w obec co najmniej ustawowej liczby senatorów.
+4. Ustawę o zmianie Konstytucji uchwala Sejm większością co najmniej 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz Senat bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby senatorów.
 
-5. Uchwalenie przez Sejm ustawy przepisy roz I, II lub XII Konstytucji nie dnia po pierwszym czytaniu projektu tej usta wy.
+5. Uchwalenie przez Sejm ustawy zmieniającej przepisy rozdziałów I, II lub XII Konstytucji może odbyć się nie wcześniej niż sześćdziesiątego dnia po pierwszym czytaniu projektu tej ustawy.
 
-6. ustawa o zmianie Konstytucji dotyczy przepisów I, II lub XII, podmioty w ust. 1 w terminie dni od dnia uchwalenia ustawy przez Senat, przeprowadzenia referendum Z wnioskiem w tej sprawie podmioty te do Sejmu, któ ry przeprowadzenie referendum w 60 dni od dnia wniosku. Zmiana Konstytucji zostaje za cych. Po w ust. i Mar Sejmu przedstawia Prezydentowi Rzeczypospolitej uchwa do podpisu. Prezydent Rzeczypospolitej podpisuje w dni od dnia przedstawienia i jej szenie w Dzienniku Ustaw Rzeczypospolitej Polskiej. XIII PRZEPISY I
+6. Jeżeli ustawa o zmianie Konstytucji dotyczy przepisów rozdziału I, II lub XII, podmioty określone w ust. 1 mogą zażądać, w terminie 45 dni od dnia uchwalenia ustawy przez Senat, przeprowadzenia referendum zatwierdzającego. Z wnioskiem w tej sprawie podmioty te zwracają się do Marszałka Sejmu, który zarządza niezwłocznie przeprowadzenie referendum w ciągu 60 dni od dnia złożenia wniosku. Zmiana Konstytucji zostaje przyjęta, jeżeli za tą zmianą opowiedziała się większość głosujących.
+
+7. Po zakończeniu postępowania określonego w ust. 4 i 6 Marszałek przedstawia Prezydentowi Rzeczypospolitej uchwaloną ustawę do podpisu. Prezydent Rzeczypospolitej podpisuje ustawę w ciągu 21 dni od dnia przedstawienia i zarządza jej ogłoszenie w Dzienniku Ustaw Rzeczypospolitej Polskiej.
+
+#### Rozdział XIII PRZEPISY PRZEJŚCIOWE I KOŃCOWE
 
 **Art. 236.**
 
-1. W okresie 2 lat od dnia w Konstytucji Rada Mi nistrów przedstawi Sejmowi projekty ustaw do stoso wania Konstytucji.
+1. W okresie 2 lat od dnia wejścia w życie Konstytucji Rada Ministrów przedstawi Sejmowi projekty ustaw niezbędnych do stosowania Konstytucji.
 
-2. Ustawy w art. 176 ust. 1 w zakresie do przed administracyjnymi uchwalone przed 5 lat od dnia w Konstytu cji. Do czasu w tych ustaw przepisy doty rewizji nadzwyczajnej od Naczelnego Admini stracyjnego.
+2. Ustawy wprowadzające w życie art. 176 ust. 1 w zakresie dotyczącym postępowania przed sądami administracyjnymi zostaną uchwalone przed upływem 5 lat od dnia wejścia w życie Konstytucji. Do czasu wejścia w życie tych ustaw obowiązują przepisy dotyczące rewizji nadzwyczajnej od orzeczeń Naczelnego Sądu Administracyjnego.
 
 **Art. 237.**
 
-1. W okresie 4 lat od dnia w Konstytucji w spra wach o wykroczenia kolegia do spraw przy dach rejonowych, przy czym o karze aresztu orzeka
+1. W okresie 4 lat od dnia wejścia w życie Konstytucji w sprawach o wykroczenia orzekają kolegia do spraw wykroczeń przy sądach rejonowych, przy czym o karze aresztu orzeka sąd.
 
-2. od orzeczenia kolegium rozpoznaje
+2. Odwołanie od orzeczenia kolegium rozpoznaje sąd.
 
 **Art. 238.**
 
-1. Kadencja konstytucyjnych organów publicznej i osób w ich wybranych lub przed wej w Konstytucji z okresu ustalonego w przepisach przed dniem w Konsty tucji.
+1. Kadencja konstytucyjnych organów władzy publicznej i osób wchodzących w ich skład wybranych lub powołanych przed wejściem w życie Konstytucji kończy się z upływem okresu ustalonego w przepisach obowiązujących przed dniem wejścia w życie Konstytucji.
 
-2. W przypadku gdy przepisy przed dniem wej w Konstytucji nie tej kadencji, a od dnia wyboru lub okres ustalony przez Konstytu kadencja konstytucyjna organów publicznej lub osób w ich po roku od dnia w Konstytucji.
+2. W przypadku gdy przepisy obowiązujące przed dniem wejścia w życie Konstytucji nie ustalały tej kadencji, a od dnia wyboru lub powołania upłynął okres dłuższy niż ustalony przez Konstytucję, kadencja konstytucyjna organów władzy publicznej lub osób wchodzących w ich skład upływa po roku od dnia wejścia w życie Konstytucji.
 
-3. W przypadku gdy przepisy przed dniem wej w Konstytucji nie tej kadencji, a od dnia wyboru lub okres krótszy ustalony przez Konstytu dla konstytucyjnych organów publicznej lub osób wcho w ich czas, w którym organy te lub osoby funkcje przepisów dotychczasowych, wlicza do kaden cji ustalonej w Konstytucji.
+3. W przypadku gdy przepisy obowiązujące przed dniem wejścia w życie Konstytucji nie ustalały tej kadencji, a od dnia wyboru lub powołania upłynął okres krótszy niż ustalony przez Konstytucję dla konstytucyjnych organów władzy publicznej lub osób wchodzących w ich skład, czas, w którym organy te lub osoby pełniły funkcje według przepisów dotychczasowych, wlicza się do kadencji ustalonej w Konstytucji.
 
-**Art. 239.** W okresie 2 lat od dnia w Konstytucji orzeczenia Konstytucyjnego o z ustaw uchwalonych przed dniem jej w nie ostateczne i rozpatrzeniu przez Sejm, który orzecze nie Konstytucyjnego 2/3 wobecno co najmniej ustawowej liczby Nie dotyczy to wydanych w prawnych do Konstytucyjnego. 2. w sprawach o ustalenie przez Konsty tucyjny powszechnie ustaw, przed w Konstytucji, podlega umorzeniu. 3. Z dniem w Konstytucji Kon stytucyjnego w sprawie ustalenia ustaw moc po wszechnie W mocy prawomocne wyroki oraz inne prawomocne decyzje organów publicznej, z znaczenia przepisów ustalonego przez Konstytucyjny w drodze powszechnie wy ustaw.
+**Art. 239.**
 
-**Art. 240.** W okresie roku od dnia w Konstytucji ustawa bu pokrywanie deficytu przez w centralnym banku
+1. W okresie 2 lat od dnia wejścia w życie Konstytucji orzeczenia Trybunału Konstytucyjnego o niezgodności z Konstytucją ustaw uchwalonych przed dniem jej wejścia w życie nie są ostateczne i podlegają rozpatrzeniu przez Sejm, który może odrzucić orzeczenie Trybunału Konstytucyjnego większością 2/3 głosów, w obecności co najmniej połowy ustawowej liczby posłów. Nie dotyczy to orzeczeń wydanych w następstwie pytań prawnych do Trybunału Konstytucyjnego.
+
+2. Postępowanie w sprawach o ustalenie przez Trybunał Konstytucyjny powszechnie obowiązującej wykładni ustaw, wszczęte przed wejściem w życie Konstytucji, podlega umorzeniu.
+
+3. Z dniem wejścia w życie Konstytucji uchwały Trybunału Konstytucyjnego w sprawie ustalenia wykładni ustaw tracą moc powszechnie obowiązującą. W mocy pozostają prawomocne wyroki sądu oraz inne prawomocne decyzje organów władzy publicznej, podjęte z uwzględnieniem znaczenia przepisów ustalonego przez Trybunał Konstytucyjny w drodze powszechnie obowiązującej wykładni ustaw.
+
+**Art. 240.** W okresie roku od dnia wejścia w życie Konstytucji ustawa budżetowa może przewidywać pokrywanie deficytu budżetowego przez zaciąganie zobowiązań w centralnym banku państwa.
 
 **Art. 241.**
 
-1. Umowy ratyfikowane dotychczas przez na podstawie w czasie ich ratyfikacji przepisów konstytucyjnych i w Dzienniku Ustaw uznaje za umowy ratyfikowane za wy w ustawie i stosuje do nich przepisy art. 91 Konstytucji, z umowy wynika, one ka tegorii spraw wymienionych wart. 89 ust. 1 Konstytucji.
+1. Umowy międzynarodowe ratyfikowane dotychczas przez Rzeczpospolitą Polską na podstawie obowiązujących w czasie ich ratyfikacji przepisów konstytucyjnych i ogłoszone w Dzienniku Ustaw uznaje się za umowy ratyfikowane za uprzednią zgodą wyrażoną w ustawie i stosuje się do nich przepisy art. 91 Konstytucji, jeżeli z treści umowy międzynarodowej wynika, że dotyczą one kategorii spraw wymienionych w art. 89 ust. 1 Konstytucji.
 
-2. Rada Ministrów w 2 lat od w Konstytucji przedstawi Sejmowi wykaz umów cych postanowienia niezgodne z
+2. Rada Ministrów w ciągu 2 lat od wejścia w życie Konstytucji przedstawi Sejmowi wykaz umów międzynarodowych zawierających postanowienia niezgodne z Konstytucją.
 
-3. Senatorowie wybrani przed dniem w Konstytu cji, którzy nie 30 lat, swoje mandaty do kadencji, na zostali wybrani.
+3. Senatorowie wybrani przed dniem wejścia w życie Konstytucji, którzy nie ukończyli 30 lat, zachowują swoje mandaty do końca kadencji, na którą zostali wybrani.
 
-4. mandatu lub senatora z lub zatrud nieniem, których dotyczy zakaz wart. 103, powoduje wy mandatu po od dnia w Konstytucji, chyba albo senator zrzeknie funkcji albo ustanie zatrudnienie.
+4. Połączenie mandatu posła lub senatora z funkcją lub zatrudnieniem, których dotyczy zakaz określony w art. 103, powoduje wygaśnięcie mandatu po upływie miesiąca od dnia wejścia w życie Konstytucji, chyba że poseł albo senator wcześniej zrzeknie się funkcji albo ustanie zatrudnienie.
 
-5. Sprawy przedmiotem ustawodawczego albo przed Konstytucyjnym Stanu, a przed w Konstytucji, prowadzone zgodnie z przepisami konstytucyjnymi w dniu sprawy.
+5. Sprawy będące przedmiotem postępowania ustawodawczego albo przed Trybunałem Konstytucyjnym bądź Trybunałem Stanu, a rozpoczęte przed wejściem w życie Konstytucji, są prowadzone zgodnie z przepisami konstytucyjnymi obowiązującymi w dniu rozpoczęcia sprawy.
 
-6. W okresie 2 lat od dnia w Konstytucji Rada Ministrów ustali, które z Rady Ministrów oraz ministrów lub innych organów administracji lub wydane przed dniem w Konstytucji, - stosownie do warunków wart. 87 ust. 1 i art. 92 Konstytucji - ich przez wydane na podstawie ustawy, której projekt w odpowiednim czasie Rada Ministrów przedstawi Sejmowi. W tym samym okre sie Rada Ministrów przedstawi Sejmowi projekt ustawy które akty normatywne organów administracji wydane przed dniem w Konstytucji, albo w rozumieniu art. 93 Konstytu cji.
+6. W okresie 2 lat od dnia wejścia w życie Konstytucji Rada Ministrów ustali, które z uchwał Rady Ministrów oraz zarządzeń ministrów lub innych organów administracji rządowej, podjęte lub wydane przed dniem wejścia w życie Konstytucji, wymagają – stosownie do warunków określonych w art. 87 ust. 1 i art. 92 Konstytucji – zastąpienia ich przez rozporządzenia wydane na podstawie upoważnienia ustawy, której projekt w odpowiednim czasie Rada Ministrów przedstawi Sejmowi. W tym samym okresie Rada Ministrów przedstawi Sejmowi projekt ustawy określającej, które akty normatywne organów administracji rządowej, wydane przed dniem wejścia w życie Konstytucji, stają się uchwałami albo zarządzeniami w rozumieniu art. 93 Konstytucji.
 
-7. w dniu w Konstytucji akty prawa miejscowego oraz przepisy gminne aktami prawa miejsco wego w rozumieniu art. 87 ust. 2 Konstytucji.
+7. Obowiązujące w dniu wejścia w życie Konstytucji akty prawa miejscowego oraz przepisy gminne stają się aktami prawa miejscowego w rozumieniu art. 87 ust. 2 Konstytucji.
 
 **Art. 242.** Tracą moc:
+
+**Art. 243.** Konstytucja Rzeczypospolitej Polskiej wchodzi w życie po upływie 3 miesięcy od dnia jej ogłoszenia.
 
